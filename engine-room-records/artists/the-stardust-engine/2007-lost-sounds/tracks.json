@@ -8,6 +8,62 @@
       "discName": "Lost Sounds",
       "track": 1,
       "duration": "4:14"
+    },
+    {
+      "fileName": "1-02-midnight-drivers-demo",
+      "title": "Midnight Drivers (Basement Demo)",
+      "masterWavPath": "demos/midnight-drivers-demo",
+      "disc": 1,
+      "discName": "Lost Sounds",
+      "track": 2
+    },
+    {
+      "fileName": "1-03-radio-silence",
+      "title": "Radio Silence",
+      "masterWavPath": "outtakes/radio-silence",
+      "disc": 1,
+      "discName": "Lost Sounds",
+      "track": 3
+    },
+    {
+      "fileName": "1-04-empty-arenas",
+      "title": "Empty Arenas",
+      "masterWavPath": "outtakes/empty-arenas",
+      "disc": 1,
+      "discName": "Lost Sounds",
+      "track": 4
+    },
+    {
+      "fileName": "1-05-the-contract",
+      "title": "The Contract",
+      "masterWavPath": "outtakes/the-contract",
+      "disc": 1,
+      "discName": "Lost Sounds",
+      "track": 5
+    },
+    {
+      "fileName": "1-06-neon-hearts-acoustic",
+      "title": "Neon Hearts (Acoustic Sketch)",
+      "masterWavPath": "demos/neon-hearts-acoustic",
+      "disc": 1,
+      "discName": "Lost Sounds",
+      "track": 6
+    },
+    {
+      "fileName": "1-07-zero-g-sanctuary",
+      "title": "Zero-G Sanctuary",
+      "masterWavPath": "outtakes/zero-g-sanctuary",
+      "disc": 1,
+      "discName": "Lost Sounds",
+      "track": 7
+    },
+    {
+      "fileName": "1-08-steel-and-synthetics",
+      "title": "Steel and Synthetics",
+      "masterWavPath": "outtakes/steel-and-synthetics",
+      "disc": 1,
+      "discName": "Lost Sounds",
+      "track": 8
     }
   ]
 }

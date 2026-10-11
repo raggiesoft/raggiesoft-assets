@@ -5,67 +5,66 @@
     "series_description_long": "---\ntitle: \"Paige\"\n---\n# Paige\n\nA compelling story of camaraderie and ambition set amidst the grueling deadlines and late-night coding sessions of university life. Paige and Freddie navigate the high-pressure environment of their computer science program, forging a bond built on shared struggles, late-night debugging, and mutual respect. Their journey highlights the power of friendship and teamwork in overcoming seemingly insurmountable academic challenges.",
     "series_image": "/raggiesoft-books/images/covers/2x3/paige.jpg",
     "next_series_url": "",
-    "next_series_text": "",
-    "books": [
+    "eras": [
         {
-            "book_num": 1,
-            "book_title": "Freshman Year",
-            "book_url": "/raggiesoft-books/books/paige/freshman-year",
+            "era_num": 1,
+            "era_title": "Freshman Year",
+            "era_url": "/raggiesoft-books/books/paige/freshman-year",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Band Camp",
                     "chap_url": "/raggiesoft-books/books/paige/freshman-year/band-camp",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Downbeat",
-                            "file_path": "b001/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Downbeat",
+                            "file_path": "e001/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Breakfast",
-                            "file_path": "b001/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Breakfast",
+                            "file_path": "e001/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Section Leader",
-                            "file_path": "b001/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Section Leader",
+                            "file_path": "e001/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: Texture",
-                            "file_path": "b001/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Texture",
+                            "file_path": "e001/c001/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The File",
-                            "file_path": "b001/c001/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The File",
+                            "file_path": "e001/c001/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: Rocket Burger",
-                            "file_path": "b001/c001/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: Rocket Burger",
+                            "file_path": "e001/c001/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Connection",
-                            "file_path": "b001/c001/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Connection",
+                            "file_path": "e001/c001/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Overwatch",
-                            "file_path": "b001/c001/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Overwatch",
+                            "file_path": "e001/c001/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The All Clear",
-                            "file_path": "b001/c001/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The All Clear",
+                            "file_path": "e001/c001/s009.md"
                         },
                         {
-                            "part_num": 10,
-                            "part_title": "Part 10: The Table",
-                            "file_path": "b001/c001/p010.md"
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: The Table",
+                            "file_path": "e001/c001/s010.md"
                         }
                     ]
                 },
@@ -73,16 +72,16 @@
                     "chap_num": 2,
                     "chap_title": "The Fall",
                     "chap_url": "/raggiesoft-books/books/paige/freshman-year/the-fall",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Third Quarter",
-                            "file_path": "b001/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Third Quarter",
+                            "file_path": "e001/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Signal",
-                            "file_path": "b001/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Signal",
+                            "file_path": "e001/c002/s002.md"
                         }
                     ]
                 },
@@ -90,26 +89,26 @@
                     "chap_num": 3,
                     "chap_title": "Winter 2000",
                     "chap_url": "/raggiesoft-books/books/paige/freshman-year/winter-2000",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Visitor",
-                            "file_path": "b001/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Visitor",
+                            "file_path": "e001/c003/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Confrontation",
-                            "file_path": "b001/c003/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Confrontation",
+                            "file_path": "e001/c003/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Clinic",
-                            "file_path": "b001/c003/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Clinic",
+                            "file_path": "e001/c003/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Law of the Lunchroom",
-                            "file_path": "b001/c003/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Law of the Lunchroom",
+                            "file_path": "e001/c003/s004.md"
                         }
                     ]
                 },
@@ -117,70 +116,70 @@
                     "chap_num": 4,
                     "chap_title": "The Static",
                     "chap_url": "/raggiesoft-books/books/paige/freshman-year/the-static",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The First Satellite",
-                            "file_path": "b001/c004/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The First Satellite",
+                            "file_path": "e001/c004/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Inside Man",
-                            "file_path": "b001/c004/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Inside Man",
+                            "file_path": "e001/c004/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Dinner Table",
-                            "file_path": "b001/c004/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Dinner Table",
+                            "file_path": "e001/c004/s003.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 2,
-            "book_title": "The Blueprint",
-            "book_url": "/raggiesoft-books/books/paige/the-blueprint",
+            "era_num": 2,
+            "era_title": "The Blueprint",
+            "era_url": "/raggiesoft-books/books/paige/the-blueprint",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Cracks",
                     "chap_url": "/raggiesoft-books/books/paige/the-blueprint/the-cracks",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Static",
-                            "file_path": "b002/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Static",
+                            "file_path": "e002/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Escape Vehicle",
-                            "file_path": "b002/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Escape Vehicle",
+                            "file_path": "e002/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Route",
-                            "file_path": "b002/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Route",
+                            "file_path": "e002/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Sugar Rush",
-                            "file_path": "b002/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Sugar Rush",
+                            "file_path": "e002/c001/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Calculation",
-                            "file_path": "b002/c001/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Calculation",
+                            "file_path": "e002/c001/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Collapse",
-                            "file_path": "b002/c001/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Collapse",
+                            "file_path": "e002/c001/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Closet",
-                            "file_path": "b002/c001/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Closet",
+                            "file_path": "e002/c001/s007.md"
                         }
                     ]
                 },
@@ -188,11 +187,11 @@
                     "chap_num": 2,
                     "chap_title": "The Severance",
                     "chap_url": "/raggiesoft-books/books/paige/the-blueprint/the-severance",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Sofa",
-                            "file_path": "b002/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Sofa",
+                            "file_path": "e002/c002/s001.md"
                         }
                     ]
                 },
@@ -200,31 +199,31 @@
                     "chap_num": 3,
                     "chap_title": "The Iron City",
                     "chap_url": "/raggiesoft-books/books/paige/the-blueprint/the-iron-city",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Transfer Point",
-                            "file_path": "b002/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Transfer Point",
+                            "file_path": "e002/c003/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Red Booth",
-                            "file_path": "b002/c003/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Red Booth",
+                            "file_path": "e002/c003/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Detour",
-                            "file_path": "b002/c003/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Detour",
+                            "file_path": "e002/c003/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: Pepper Plaza",
-                            "file_path": "b002/c003/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Pepper Plaza",
+                            "file_path": "e002/c003/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Configuration",
-                            "file_path": "b002/c003/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Configuration",
+                            "file_path": "e002/c003/s005.md"
                         }
                     ]
                 },
@@ -232,81 +231,81 @@
                     "chap_num": 4,
                     "chap_title": "The Machine",
                     "chap_url": "/raggiesoft-books/books/paige/the-blueprint/the-machine",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Route 1",
-                            "file_path": "b002/c004/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Route 1",
+                            "file_path": "e002/c004/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Acoustic Engine",
-                            "file_path": "b002/c004/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Acoustic Engine",
+                            "file_path": "e002/c004/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Pitch",
-                            "file_path": "b002/c004/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Pitch",
+                            "file_path": "e002/c004/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Terminal",
-                            "file_path": "b002/c004/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Terminal",
+                            "file_path": "e002/c004/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Foundry",
-                            "file_path": "b002/c004/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Foundry",
+                            "file_path": "e002/c004/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Old Lady on the Hill",
-                            "file_path": "b002/c004/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Old Lady on the Hill",
+                            "file_path": "e002/c004/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Reset",
-                            "file_path": "b002/c004/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Reset",
+                            "file_path": "e002/c004/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Iron Sea",
-                            "file_path": "b002/c004/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Iron Sea",
+                            "file_path": "e002/c004/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Forger's Call",
-                            "file_path": "b002/c004/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Forger's Call",
+                            "file_path": "e002/c004/s009.md"
                         },
                         {
-                            "part_num": 10,
-                            "part_title": "Part 10: The False Start",
-                            "file_path": "b002/c004/p010.md"
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: The False Start",
+                            "file_path": "e002/c004/s010.md"
                         },
                         {
-                            "part_num": 11,
-                            "part_title": "Part 11: System Overload",
-                            "file_path": "b002/c004/p011.md"
+                            "scene_num": 11,
+                            "scene_title": "Scene 11: System Overload",
+                            "file_path": "e002/c004/s011.md"
                         },
                         {
-                            "part_num": 12,
-                            "part_title": "Part 12: The Human Grid",
-                            "file_path": "b002/c004/p012.md"
+                            "scene_num": 12,
+                            "scene_title": "Scene 12: The Human Grid",
+                            "file_path": "e002/c004/s012.md"
                         },
                         {
-                            "part_num": 13,
-                            "part_title": "Part 13: Zero Tolerance",
-                            "file_path": "b002/c004/p013.md"
+                            "scene_num": 13,
+                            "scene_title": "Scene 13: Zero Tolerance",
+                            "file_path": "e002/c004/s013.md"
                         },
                         {
-                            "part_num": 14,
-                            "part_title": "Part 14: The Shutout",
-                            "file_path": "b002/c004/p014.md"
+                            "scene_num": 14,
+                            "scene_title": "Scene 14: The Shutout",
+                            "file_path": "e002/c004/s014.md"
                         },
                         {
-                            "part_num": 15,
-                            "part_title": "Part 15: The Shuttle",
-                            "file_path": "b002/c004/p015.md"
+                            "scene_num": 15,
+                            "scene_title": "Scene 15: The Shuttle",
+                            "file_path": "e002/c004/s015.md"
                         }
                     ]
                 },
@@ -314,50 +313,50 @@
                     "chap_num": 5,
                     "chap_title": "The Source Code",
                     "chap_url": "/raggiesoft-books/books/paige/the-blueprint/the-source-code",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Diagnosis",
-                            "file_path": "b002/c005/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Diagnosis",
+                            "file_path": "e002/c005/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Firewall",
-                            "file_path": "b002/c005/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Firewall",
+                            "file_path": "e002/c005/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Protocol Upgrade",
-                            "file_path": "b002/c005/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Protocol Upgrade",
+                            "file_path": "e002/c005/s003.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 3,
-            "book_title": "A New Beginning",
-            "book_url": "/raggiesoft-books/books/paige/a-new-beginning",
+            "era_num": 3,
+            "era_title": "A New Beginning",
+            "era_url": "/raggiesoft-books/books/paige/a-new-beginning",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Launch Code",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-launch-code",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Loop",
-                            "file_path": "b003/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Loop",
+                            "file_path": "e003/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Frequency",
-                            "file_path": "b003/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Frequency",
+                            "file_path": "e003/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Base",
-                            "file_path": "b003/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Base",
+                            "file_path": "e003/c001/s003.md"
                         }
                     ]
                 },
@@ -365,41 +364,41 @@
                     "chap_num": 2,
                     "chap_title": "The Source Code",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-source-code",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Manual",
-                            "file_path": "b003/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Manual",
+                            "file_path": "e003/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Calibration",
-                            "file_path": "b003/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Calibration",
+                            "file_path": "e003/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Curriculum",
-                            "file_path": "b003/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Curriculum",
+                            "file_path": "e003/c002/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Open Door",
-                            "file_path": "b003/c002/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Open Door",
+                            "file_path": "e003/c002/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Morning After",
-                            "file_path": "b003/c002/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Morning After",
+                            "file_path": "e003/c002/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Cartridge Exchange",
-                            "file_path": "b003/c002/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Cartridge Exchange",
+                            "file_path": "e003/c002/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: Channel 3",
-                            "file_path": "b003/c002/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: Channel 3",
+                            "file_path": "e003/c002/s007.md"
                         }
                     ]
                 },
@@ -407,41 +406,41 @@
                     "chap_num": 3,
                     "chap_title": "The Syllabus",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-syllabus",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Loophole",
-                            "file_path": "b003/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Loophole",
+                            "file_path": "e003/c003/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Run",
-                            "file_path": "b003/c003/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Run",
+                            "file_path": "e003/c003/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Medical Logistics",
-                            "file_path": "b003/c003/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Medical Logistics",
+                            "file_path": "e003/c003/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Schematic",
-                            "file_path": "b003/c003/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Schematic",
+                            "file_path": "e003/c003/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: Data Verified",
-                            "file_path": "b003/c003/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Data Verified",
+                            "file_path": "e003/c003/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Clear Curtain",
-                            "file_path": "b003/c003/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Clear Curtain",
+                            "file_path": "e003/c003/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Silo",
-                            "file_path": "b003/c003/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Silo",
+                            "file_path": "e003/c003/s007.md"
                         }
                     ]
                 },
@@ -449,21 +448,21 @@
                     "chap_num": 4,
                     "chap_title": "The Network",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-network",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Primary Node",
-                            "file_path": "b003/c004/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Primary Node",
+                            "file_path": "e003/c004/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Red Flag",
-                            "file_path": "b003/c004/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Red Flag",
+                            "file_path": "e003/c004/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Maintenance Run",
-                            "file_path": "b003/c004/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Maintenance Run",
+                            "file_path": "e003/c004/s003.md"
                         }
                     ]
                 },
@@ -471,56 +470,56 @@
                     "chap_num": 5,
                     "chap_title": "Proper Terminology",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/proper-terminology",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Ground Rules",
-                            "file_path": "b003/c005/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Ground Rules",
+                            "file_path": "e003/c005/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Zero Tolerance",
-                            "file_path": "b003/c005/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Zero Tolerance",
+                            "file_path": "e003/c005/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: Safe Harbor",
-                            "file_path": "b003/c005/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Safe Harbor",
+                            "file_path": "e003/c005/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Predator",
-                            "file_path": "b003/c005/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Predator",
+                            "file_path": "e003/c005/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: Geometry and Physics",
-                            "file_path": "b003/c005/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Geometry and Physics",
+                            "file_path": "e003/c005/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Safe Zone",
-                            "file_path": "b003/c005/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Safe Zone",
+                            "file_path": "e003/c005/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Incorrect Variable",
-                            "file_path": "b003/c005/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Incorrect Variable",
+                            "file_path": "e003/c005/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Distortion",
-                            "file_path": "b003/c005/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Distortion",
+                            "file_path": "e003/c005/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Contaminant",
-                            "file_path": "b003/c005/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Contaminant",
+                            "file_path": "e003/c005/s009.md"
                         },
                         {
-                            "part_num": 10,
-                            "part_title": "Part 10: The Humidity Index",
-                            "file_path": "b003/c005/p010.md"
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: The Humidity Index",
+                            "file_path": "e003/c005/s010.md"
                         }
                     ]
                 },
@@ -528,31 +527,31 @@
                     "chap_num": 6,
                     "chap_title": "The Admin Console",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-admin-console",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Cool Down",
-                            "file_path": "b003/c006/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Cool Down",
+                            "file_path": "e003/c006/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Signal",
-                            "file_path": "b003/c006/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Signal",
+                            "file_path": "e003/c006/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Final Frontier",
-                            "file_path": "b003/c006/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Final Frontier",
+                            "file_path": "e003/c006/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The System Architecture",
-                            "file_path": "b003/c006/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The System Architecture",
+                            "file_path": "e003/c006/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Sandwich Configuration",
-                            "file_path": "b003/c006/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Sandwich Configuration",
+                            "file_path": "e003/c006/s005.md"
                         }
                     ]
                 },
@@ -560,46 +559,46 @@
                     "chap_num": 7,
                     "chap_title": "Autism Diagnosis",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/autism-diagnosis",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Debugger",
-                            "file_path": "b003/c007/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Debugger",
+                            "file_path": "e003/c007/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Operating Systems",
-                            "file_path": "b003/c007/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Operating Systems",
+                            "file_path": "e003/c007/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The King Bed Defense",
-                            "file_path": "b003/c007/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The King Bed Defense",
+                            "file_path": "e003/c007/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Source Code",
-                            "file_path": "b003/c007/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Source Code",
+                            "file_path": "e003/c007/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Uplink",
-                            "file_path": "b003/c007/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Uplink",
+                            "file_path": "e003/c007/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Thunderhead",
-                            "file_path": "b003/c007/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Thunderhead",
+                            "file_path": "e003/c007/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Warning",
-                            "file_path": "b003/c007/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Warning",
+                            "file_path": "e003/c007/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The All Clear",
-                            "file_path": "b003/c007/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The All Clear",
+                            "file_path": "e003/c007/s008.md"
                         }
                     ]
                 },
@@ -607,41 +606,41 @@
                     "chap_num": 8,
                     "chap_title": "The Prime Time Block",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-prime-time-block",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Decompression Protocol",
-                            "file_path": "b003/c008/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Decompression Protocol",
+                            "file_path": "e003/c008/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Emergency Brake",
-                            "file_path": "b003/c008/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Emergency Brake",
+                            "file_path": "e003/c008/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Dark Closet",
-                            "file_path": "b003/c008/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Dark Closet",
+                            "file_path": "e003/c008/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Awakening",
-                            "file_path": "b003/c008/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Awakening",
+                            "file_path": "e003/c008/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Recovery Cycle",
-                            "file_path": "b003/c008/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Recovery Cycle",
+                            "file_path": "e003/c008/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The System Halt",
-                            "file_path": "b003/c008/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The System Halt",
+                            "file_path": "e003/c008/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: Manual Override",
-                            "file_path": "b003/c008/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: Manual Override",
+                            "file_path": "e003/c008/s007.md"
                         }
                     ]
                 },
@@ -649,85 +648,85 @@
                     "chap_num": 9,
                     "chap_title": "The Anatomy of Resilience",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-anatomy-of-resilience",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Purge",
-                            "file_path": "b003/c009/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Purge",
+                            "file_path": "e003/c009/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Buffer",
-                            "file_path": "b003/c009/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Buffer",
+                            "file_path": "e003/c009/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Quiet Room",
-                            "file_path": "b003/c009/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Quiet Room",
+                            "file_path": "e003/c009/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Transit & The Trail",
-                            "file_path": "b003/c009/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Transit & The Trail",
+                            "file_path": "e003/c009/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Recharge",
-                            "file_path": "b003/c009/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Recharge",
+                            "file_path": "e003/c009/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Drive-Thru",
-                            "file_path": "b003/c009/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Drive-Thru",
+                            "file_path": "e003/c009/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: Dinner",
-                            "file_path": "b003/c009/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: Dinner",
+                            "file_path": "e003/c009/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Cost-Benefit Analysis",
-                            "file_path": "b003/c009/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Cost-Benefit Analysis",
+                            "file_path": "e003/c009/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Analog Archive",
-                            "file_path": "b003/c009/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Analog Archive",
+                            "file_path": "e003/c009/s009.md"
                         },
                         {
-                            "part_num": 10,
-                            "part_title": "Part 10: The Captaincy Protocol",
-                            "file_path": "b003/c009/p010.md"
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: The Captaincy Protocol",
+                            "file_path": "e003/c009/s010.md"
                         },
                         {
-                            "part_num": 11,
-                            "part_title": "Part 11: The Shutdown Sequence",
-                            "file_path": "b003/c009/p011.md"
+                            "scene_num": 11,
+                            "scene_title": "Scene 11: The Shutdown Sequence",
+                            "file_path": "e003/c009/s011.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 4,
-            "book_title": "The False Anchor",
-            "book_url": "/raggiesoft-books/books/paige/the-false-anchor",
+            "era_num": 4,
+            "era_title": "The False Anchor",
+            "era_url": "/raggiesoft-books/books/paige/the-false-anchor",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The New Variable",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-new-variable",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Remainder",
-                            "file_path": "b004/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Remainder",
+                            "file_path": "e004/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Static Stack",
-                            "file_path": "b004/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Static Stack",
+                            "file_path": "e004/c001/s002.md"
                         }
                     ]
                 },
@@ -735,26 +734,26 @@
                     "chap_num": 2,
                     "chap_title": "The Seed",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-seed",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Observation",
-                            "file_path": "b004/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Observation",
+                            "file_path": "e004/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Recoil",
-                            "file_path": "b004/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Recoil",
+                            "file_path": "e004/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Split Screen",
-                            "file_path": "b004/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Split Screen",
+                            "file_path": "e004/c002/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Syntax Error",
-                            "file_path": "b004/c002/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Syntax Error",
+                            "file_path": "e004/c002/s004.md"
                         }
                     ]
                 },
@@ -762,51 +761,51 @@
                     "chap_num": 3,
                     "chap_title": "The Orbital Decay",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-orbital-decay",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Logic Bomb",
-                            "file_path": "b004/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Logic Bomb",
+                            "file_path": "e004/c003/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Presentation",
-                            "file_path": "b004/c003/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Presentation",
+                            "file_path": "e004/c003/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Disconnect",
-                            "file_path": "b004/c003/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Disconnect",
+                            "file_path": "e004/c003/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Horizon Line",
-                            "file_path": "b004/c003/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Horizon Line",
+                            "file_path": "e004/c003/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Point of No Return",
-                            "file_path": "b004/c003/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Point of No Return",
+                            "file_path": "e004/c003/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Detour",
-                            "file_path": "b004/c003/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Detour",
+                            "file_path": "e004/c003/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Burning Mile",
-                            "file_path": "b004/c003/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Burning Mile",
+                            "file_path": "e004/c003/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Pasco Lock",
-                            "file_path": "b004/c003/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Pasco Lock",
+                            "file_path": "e004/c003/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Silence",
-                            "file_path": "b004/c003/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Silence",
+                            "file_path": "e004/c003/s009.md"
                         }
                     ]
                 },
@@ -814,36 +813,36 @@
                     "chap_num": 4,
                     "chap_title": "The Rescue",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-rescue",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Advance Team",
-                            "file_path": "b004/c004/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Advance Team",
+                            "file_path": "e004/c004/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Intercept",
-                            "file_path": "b004/c004/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Intercept",
+                            "file_path": "e004/c004/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Time Lock",
-                            "file_path": "b004/c004/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Time Lock",
+                            "file_path": "e004/c004/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Decontamination Protocol",
-                            "file_path": "b004/c004/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Decontamination Protocol",
+                            "file_path": "e004/c004/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: Frequency Tuned",
-                            "file_path": "b004/c004/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Frequency Tuned",
+                            "file_path": "e004/c004/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Signal Cut",
-                            "file_path": "b004/c004/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Signal Cut",
+                            "file_path": "e004/c004/s006.md"
                         }
                     ]
                 },
@@ -851,61 +850,61 @@
                     "chap_num": 5,
                     "chap_title": "The Tourist Protocol",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-tourist-protocol",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Fueling the Expedition",
-                            "file_path": "b004/c005/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Fueling the Expedition",
+                            "file_path": "e004/c005/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Mode Switch",
-                            "file_path": "b004/c005/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Mode Switch",
+                            "file_path": "e004/c005/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Observation Deck",
-                            "file_path": "b004/c005/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Observation Deck",
+                            "file_path": "e004/c005/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Deep Blue",
-                            "file_path": "b004/c005/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Deep Blue",
+                            "file_path": "e004/c005/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Wheelchair Epiphany",
-                            "file_path": "b004/c005/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Wheelchair Epiphany",
+                            "file_path": "e004/c005/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Scar",
-                            "file_path": "b004/c005/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Scar",
+                            "file_path": "e004/c005/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: High Voltage",
-                            "file_path": "b004/c005/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: High Voltage",
+                            "file_path": "e004/c005/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Silent Signal",
-                            "file_path": "b004/c005/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Silent Signal",
+                            "file_path": "e004/c005/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Restoration",
-                            "file_path": "b004/c005/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Restoration",
+                            "file_path": "e004/c005/s009.md"
                         },
                         {
-                            "part_num": 10,
-                            "part_title": "Part 10: The Flight Plan",
-                            "file_path": "b004/c005/p010.md"
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: The Flight Plan",
+                            "file_path": "e004/c005/s010.md"
                         },
                         {
-                            "part_num": 11,
-                            "part_title": "Part 11: The Northern Trajectory",
-                            "file_path": "b004/c005/p011.md"
+                            "scene_num": 11,
+                            "scene_title": "Scene 11: The Northern Trajectory",
+                            "file_path": "e004/c005/s011.md"
                         }
                     ]
                 },
@@ -913,76 +912,76 @@
                     "chap_num": 6,
                     "chap_title": "Flight to Tahoma",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/flight-to-tahoma",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Bypass",
-                            "file_path": "b004/c006/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Bypass",
+                            "file_path": "e004/c006/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Iron Creek Lodge",
-                            "file_path": "b004/c006/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Iron Creek Lodge",
+                            "file_path": "e004/c006/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Bear's Den",
-                            "file_path": "b004/c006/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Bear's Den",
+                            "file_path": "e004/c006/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Supply Run",
-                            "file_path": "b004/c006/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Supply Run",
+                            "file_path": "e004/c006/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Hypothesis & The Lock",
-                            "file_path": "b004/c006/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Hypothesis & The Lock",
+                            "file_path": "e004/c006/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Iron Giants & The Safe Mode",
-                            "file_path": "b004/c006/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Iron Giants & The Safe Mode",
+                            "file_path": "e004/c006/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: Factory Settings",
-                            "file_path": "b004/c006/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: Factory Settings",
+                            "file_path": "e004/c006/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Iron Spirits",
-                            "file_path": "b004/c006/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Iron Spirits",
+                            "file_path": "e004/c006/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Silent Engines",
-                            "file_path": "b004/c006/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Silent Engines",
+                            "file_path": "e004/c006/s009.md"
                         },
                         {
-                            "part_num": 10,
-                            "part_title": "Part 10: The Refueling",
-                            "file_path": "b004/c006/p010.md"
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: The Refueling",
+                            "file_path": "e004/c006/s010.md"
                         },
                         {
-                            "part_num": 11,
-                            "part_title": "Part 11: Glacial Flour",
-                            "file_path": "b004/c006/p011.md"
+                            "scene_num": 11,
+                            "scene_title": "Scene 11: Glacial Flour",
+                            "file_path": "e004/c006/s011.md"
                         },
                         {
-                            "part_num": 12,
-                            "part_title": "Part 12: The Return Vector",
-                            "file_path": "b004/c006/p012.md"
+                            "scene_num": 12,
+                            "scene_title": "Scene 12: The Return Vector",
+                            "file_path": "e004/c006/s012.md"
                         },
                         {
-                            "part_num": 13,
-                            "part_title": "Part 13: The Holding Pattern",
-                            "file_path": "b004/c006/p013.md"
+                            "scene_num": 13,
+                            "scene_title": "Scene 13: The Holding Pattern",
+                            "file_path": "e004/c006/s013.md"
                         },
                         {
-                            "part_num": 14,
-                            "part_title": "Part 14: The Null Hypothesis",
-                            "file_path": "b004/c006/p014.md"
+                            "scene_num": 14,
+                            "scene_title": "Scene 14: The Null Hypothesis",
+                            "file_path": "e004/c006/s014.md"
                         }
                     ]
                 },
@@ -990,86 +989,86 @@
                     "chap_num": 7,
                     "chap_title": "The Flight Home",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-flight-home",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Final Bill",
-                            "file_path": "b004/c007/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Final Bill",
+                            "file_path": "e004/c007/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Departure Protocol",
-                            "file_path": "b004/c007/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Departure Protocol",
+                            "file_path": "e004/c007/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Gateway Protocol",
-                            "file_path": "b004/c007/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Gateway Protocol",
+                            "file_path": "e004/c007/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Checkpoint Protocol",
-                            "file_path": "b004/c007/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Checkpoint Protocol",
+                            "file_path": "e004/c007/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Soundtrack Protocol",
-                            "file_path": "b004/c007/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Soundtrack Protocol",
+                            "file_path": "e004/c007/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Hub Dilemma",
-                            "file_path": "b004/c007/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Hub Dilemma",
+                            "file_path": "e004/c007/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Safety Protocol",
-                            "file_path": "b004/c007/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Safety Protocol",
+                            "file_path": "e004/c007/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Ascent Protocol",
-                            "file_path": "b004/c007/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Ascent Protocol",
+                            "file_path": "e004/c007/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Mid-Air Transfer",
-                            "file_path": "b004/c007/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Mid-Air Transfer",
+                            "file_path": "e004/c007/s009.md"
                         },
                         {
-                            "part_num": 10,
-                            "part_title": "Part 10: The Descent Protocol",
-                            "file_path": "b004/c007/p010.md"
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: The Descent Protocol",
+                            "file_path": "e004/c007/s010.md"
                         },
                         {
-                            "part_num": 11,
-                            "part_title": "Part 11: The Neon Horizon",
-                            "file_path": "b004/c007/p011.md"
+                            "scene_num": 11,
+                            "scene_title": "Scene 11: The Neon Horizon",
+                            "file_path": "e004/c007/s011.md"
                         },
                         {
-                            "part_num": 12,
-                            "part_title": "Part 12: The Refueling Protocol",
-                            "file_path": "b004/c007/p012.md"
+                            "scene_num": 12,
+                            "scene_title": "Scene 12: The Refueling Protocol",
+                            "file_path": "e004/c007/s012.md"
                         },
                         {
-                            "part_num": 13,
-                            "part_title": "Part 13: The Propeller Protocol",
-                            "file_path": "b004/c007/p013.md"
+                            "scene_num": 13,
+                            "scene_title": "Scene 13: The Propeller Protocol",
+                            "file_path": "e004/c007/s013.md"
                         },
                         {
-                            "part_num": 14,
-                            "part_title": "Part 14: The Valley Protocol",
-                            "file_path": "b004/c007/p014.md"
+                            "scene_num": 14,
+                            "scene_title": "Scene 14: The Valley Protocol",
+                            "file_path": "e004/c007/s014.md"
                         },
                         {
-                            "part_num": 15,
-                            "part_title": "Part 15: The Final Mile",
-                            "file_path": "b004/c007/p015.md"
+                            "scene_num": 15,
+                            "scene_title": "Scene 15: The Final Mile",
+                            "file_path": "e004/c007/s015.md"
                         },
                         {
-                            "part_num": 16,
-                            "part_title": "Part 16: The Shutdown Protocol",
-                            "file_path": "b004/c007/p016.md"
+                            "scene_num": 16,
+                            "scene_title": "Scene 16: The Shutdown Protocol",
+                            "file_path": "e004/c007/s016.md"
                         }
                     ]
                 },
@@ -1077,26 +1076,26 @@
                     "chap_num": 8,
                     "chap_title": "The Trojan Horse",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-trojan-horse",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Invalid Variable",
-                            "file_path": "b004/c008/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Invalid Variable",
+                            "file_path": "e004/c008/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Legal Shield",
-                            "file_path": "b004/c008/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Legal Shield",
+                            "file_path": "e004/c008/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Null Hypothesis",
-                            "file_path": "b004/c008/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Null Hypothesis",
+                            "file_path": "e004/c008/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Restoration",
-                            "file_path": "b004/c008/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Restoration",
+                            "file_path": "e004/c008/s004.md"
                         }
                     ]
                 },
@@ -1104,21 +1103,21 @@
                     "chap_num": 9,
                     "chap_title": "The Optimization Protocol",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-optimization-protocol",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Transaction",
-                            "file_path": "b004/c009/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Transaction",
+                            "file_path": "e004/c009/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Hardware Upgrade",
-                            "file_path": "b004/c009/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Hardware Upgrade",
+                            "file_path": "e004/c009/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Deed of Trust",
-                            "file_path": "b004/c009/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Deed of Trust",
+                            "file_path": "e004/c009/s003.md"
                         }
                     ]
                 },
@@ -1126,81 +1125,81 @@
                     "chap_num": 10,
                     "chap_title": "The Satellite Convergence",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-satellite-convergence",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Invasion Force",
-                            "file_path": "b004/c010/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Invasion Force",
+                            "file_path": "e004/c010/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Dungeon",
-                            "file_path": "b004/c010/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Dungeon",
+                            "file_path": "e004/c010/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Privacy Protocol",
-                            "file_path": "b004/c010/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Privacy Protocol",
+                            "file_path": "e004/c010/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: Settlement",
-                            "file_path": "b004/c010/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Settlement",
+                            "file_path": "e004/c010/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Throne of Shame",
-                            "file_path": "b004/c010/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Throne of Shame",
+                            "file_path": "e004/c010/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Morning Audit",
-                            "file_path": "b004/c010/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Morning Audit",
+                            "file_path": "e004/c010/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: Fueling the Army",
-                            "file_path": "b004/c010/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: Fueling the Army",
+                            "file_path": "e004/c010/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: Division of Labor",
-                            "file_path": "b004/c010/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: Division of Labor",
+                            "file_path": "e004/c010/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Laundry Brigade",
-                            "file_path": "b004/c010/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Laundry Brigade",
+                            "file_path": "e004/c010/s009.md"
                         },
                         {
-                            "part_num": 10,
-                            "part_title": "Part 10: The Anchor Point",
-                            "file_path": "b004/c010/p010.md"
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: The Anchor Point",
+                            "file_path": "e004/c010/s010.md"
                         },
                         {
-                            "part_num": 11,
-                            "part_title": "Part 11: The Zero-Privacy Protocol",
-                            "file_path": "b004/c010/p011.md"
+                            "scene_num": 11,
+                            "scene_title": "Scene 11: The Zero-Privacy Protocol",
+                            "file_path": "e004/c010/s011.md"
                         },
                         {
-                            "part_num": 12,
-                            "part_title": "Part 12: Structural Integrity Test",
-                            "file_path": "b004/c010/p012.md"
+                            "scene_num": 12,
+                            "scene_title": "Scene 12: Structural Integrity Test",
+                            "file_path": "e004/c010/s012.md"
                         },
                         {
-                            "part_num": 13,
-                            "part_title": "Part 13: The Rotation of the Guard",
-                            "file_path": "b004/c010/p013.md"
+                            "scene_num": 13,
+                            "scene_title": "Scene 13: The Rotation of the Guard",
+                            "file_path": "e004/c010/s013.md"
                         },
                         {
-                            "part_num": 14,
-                            "part_title": "Part 14: The Black Box Review",
-                            "file_path": "b004/c010/p014.md"
+                            "scene_num": 14,
+                            "scene_title": "Scene 14: The Black Box Review",
+                            "file_path": "e004/c010/s014.md"
                         },
                         {
-                            "part_num": 15,
-                            "part_title": "Part 15: Clearance Denied",
-                            "file_path": "b004/c010/p015.md"
+                            "scene_num": 15,
+                            "scene_title": "Scene 15: Clearance Denied",
+                            "file_path": "e004/c010/s015.md"
                         }
                     ]
                 },
@@ -1208,95 +1207,95 @@
                     "chap_num": 11,
                     "chap_title": "The Big One-Five",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-big-one-five",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Trajectory Calculations",
-                            "file_path": "b004/c011/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Trajectory Calculations",
+                            "file_path": "e004/c011/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Ramp",
-                            "file_path": "b004/c011/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Ramp",
+                            "file_path": "e004/c011/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Arcade Intervention",
-                            "file_path": "b004/c011/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Arcade Intervention",
+                            "file_path": "e004/c011/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Carbohydrate Loading",
-                            "file_path": "b004/c011/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Carbohydrate Loading",
+                            "file_path": "e004/c011/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: Pyrotechnic Redundancy",
-                            "file_path": "b004/c011/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Pyrotechnic Redundancy",
+                            "file_path": "e004/c011/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Voltage Spike",
-                            "file_path": "b004/c011/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Voltage Spike",
+                            "file_path": "e004/c011/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Shutdown Sequence",
-                            "file_path": "b004/c011/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Shutdown Sequence",
+                            "file_path": "e004/c011/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Photographic Evidence",
-                            "file_path": "b004/c011/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Photographic Evidence",
+                            "file_path": "e004/c011/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Platoon Deployment",
-                            "file_path": "b004/c011/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Platoon Deployment",
+                            "file_path": "e004/c011/s009.md"
                         },
                         {
-                            "part_num": 10,
-                            "part_title": "Part 10: The Decompression Chamber",
-                            "file_path": "b004/c011/p010.md"
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: The Decompression Chamber",
+                            "file_path": "e004/c011/s010.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 5,
-            "book_title": "System Integration",
-            "book_url": "/raggiesoft-books/books/paige/system-integration",
+            "era_num": 5,
+            "era_title": "System Integration",
+            "era_url": "/raggiesoft-books/books/paige/system-integration",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Transfer Point",
                     "chap_url": "/raggiesoft-books/books/paige/system-integration/the-transfer-point",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Pathfinder",
-                            "file_path": "b005/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Pathfinder",
+                            "file_path": "e005/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Bunker",
-                            "file_path": "b005/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Bunker",
+                            "file_path": "e005/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Heap Protocol",
-                            "file_path": "b005/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Heap Protocol",
+                            "file_path": "e005/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Pressure Check",
-                            "file_path": "b005/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Pressure Check",
+                            "file_path": "e005/c001/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Migration",
-                            "file_path": "b005/c001/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Migration",
+                            "file_path": "e005/c001/s005.md"
                         }
                     ]
                 },
@@ -1304,41 +1303,41 @@
                     "chap_num": 2,
                     "chap_title": "The Physical Layer",
                     "chap_url": "/raggiesoft-books/books/paige/system-integration/the-physical-layer",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Descent",
-                            "file_path": "b005/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Descent",
+                            "file_path": "e005/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Search Query",
-                            "file_path": "b005/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Search Query",
+                            "file_path": "e005/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Mega-Bed",
-                            "file_path": "b005/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Mega-Bed",
+                            "file_path": "e005/c002/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Pittsburgh Toilet",
-                            "file_path": "b005/c002/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Pittsburgh Toilet",
+                            "file_path": "e005/c002/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Permit Phase",
-                            "file_path": "b005/c002/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Permit Phase",
+                            "file_path": "e005/c002/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Wet Room",
-                            "file_path": "b005/c002/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Wet Room",
+                            "file_path": "e005/c002/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Mega-Bed Assembly",
-                            "file_path": "b005/c002/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Mega-Bed Assembly",
+                            "file_path": "e005/c002/s007.md"
                         }
                     ]
                 },
@@ -1346,36 +1345,36 @@
                     "chap_num": 3,
                     "chap_title": "The Satellite Link",
                     "chap_url": "/raggiesoft-books/books/paige/system-integration/the-satellite-link",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Radford Protocol",
-                            "file_path": "b005/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Radford Protocol",
+                            "file_path": "e005/c003/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Holding Pattern",
-                            "file_path": "b005/c003/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Holding Pattern",
+                            "file_path": "e005/c003/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Cargo Bay",
-                            "file_path": "b005/c003/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Cargo Bay",
+                            "file_path": "e005/c003/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Mess Hall",
-                            "file_path": "b005/c003/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Mess Hall",
+                            "file_path": "e005/c003/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Supply Line",
-                            "file_path": "b005/c003/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Supply Line",
+                            "file_path": "e005/c003/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Transit Bible",
-                            "file_path": "b005/c003/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Transit Bible",
+                            "file_path": "e005/c003/s006.md"
                         }
                     ]
                 },
@@ -1383,21 +1382,21 @@
                     "chap_num": 4,
                     "chap_title": "The Fishersville Protocol",
                     "chap_url": "/raggiesoft-books/books/paige/system-integration/the-fishersville-protocol",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Last Supper",
-                            "file_path": "b005/c004/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Last Supper",
+                            "file_path": "e005/c004/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Barnett Hall",
-                            "file_path": "b005/c004/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Barnett Hall",
+                            "file_path": "e005/c004/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: Suite 200",
-                            "file_path": "b005/c004/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Suite 200",
+                            "file_path": "e005/c004/s003.md"
                         }
                     ]
                 },
@@ -1405,36 +1404,36 @@
                     "chap_num": 5,
                     "chap_title": "The Signal-to-Noise Ratio",
                     "chap_url": "/raggiesoft-books/books/paige/system-integration/the-signal-to-noise-ratio",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Circuit",
-                            "file_path": "b005/c005/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Circuit",
+                            "file_path": "e005/c005/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Shift Change",
-                            "file_path": "b005/c005/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Shift Change",
+                            "file_path": "e005/c005/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The PERT Lounge",
-                            "file_path": "b005/c005/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The PERT Lounge",
+                            "file_path": "e005/c005/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Carrier Wave",
-                            "file_path": "b005/c005/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Carrier Wave",
+                            "file_path": "e005/c005/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Countdown",
-                            "file_path": "b005/c005/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Countdown",
+                            "file_path": "e005/c005/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Midnight Threshold",
-                            "file_path": "b005/c005/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Midnight Threshold",
+                            "file_path": "e005/c005/s006.md"
                         }
                     ]
                 },
@@ -1442,21 +1441,21 @@
                     "chap_num": 6,
                     "chap_title": "The Extraction",
                     "chap_url": "/raggiesoft-books/books/paige/system-integration/the-extraction",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Pickup",
-                            "file_path": "b005/c006/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Pickup",
+                            "file_path": "e005/c006/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Debrief",
-                            "file_path": "b005/c006/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Debrief",
+                            "file_path": "e005/c006/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Reunion",
-                            "file_path": "b005/c006/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Reunion",
+                            "file_path": "e005/c006/s003.md"
                         }
                     ]
                 },
@@ -1464,21 +1463,21 @@
                     "chap_num": 7,
                     "chap_title": "The Closed Circuit",
                     "chap_url": "/raggiesoft-books/books/paige/system-integration/the-closed-circuit",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Intruder",
-                            "file_path": "b005/c007/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Intruder",
+                            "file_path": "e005/c007/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Emergency Brake",
-                            "file_path": "b005/c007/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Emergency Brake",
+                            "file_path": "e005/c007/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Exception",
-                            "file_path": "b005/c007/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Exception",
+                            "file_path": "e005/c007/s003.md"
                         }
                     ]
                 }

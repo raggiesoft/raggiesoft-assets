@@ -153,7 +153,7 @@ for DIR in books/*/; do
             chap_count = 0 
             
             # 1. Web Routing: Create book directory
-            book_dir = sprintf("%s/b%03d", base_dir, book_count)
+            book_dir = sprintf("%s/e%03d", base_dir, book_count)
             system("mkdir -p \"" book_dir "\"")
             
             # 2. Permanent Authoring Chunk: Start a new manuscript file
@@ -187,7 +187,7 @@ for DIR in books/*/; do
             part_count++
             
             # Web Routing: Create part markdown file
-            filename = sprintf("p%03d.md", part_count)
+            filename = sprintf("s%03d.md", part_count)
             current_file = sprintf("%s/%s", chap_dir, filename)
             
             print "# " part_title > current_file

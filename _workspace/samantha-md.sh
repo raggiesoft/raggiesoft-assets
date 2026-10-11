@@ -121,7 +121,7 @@ for DIR in books/*/; do
                     book_count++
                     chap_count = 0 
                     
-                    book_dir = sprintf("%s/b%03d", base_dir, book_count)
+                    book_dir = sprintf("%s/e%03d", base_dir, book_count)
                     system("mkdir -p \"" book_dir "\"")
                     next
                 }
@@ -147,7 +147,7 @@ for DIR in books/*/; do
                     part_count++
                     
                     # Generate the physical chunk file
-                    filename = sprintf("p%03d.md", part_count)
+                    filename = sprintf("s%03d.md", part_count)
                     current_file = sprintf("%s/%s", chap_dir, filename)
                     
                     print "# " part_title > current_file

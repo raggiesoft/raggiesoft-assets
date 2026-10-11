@@ -5,28 +5,27 @@
     "series_description_long": "---\ntitle: \"Pebble Borrow\"\n---\n*Pebble Borrow* is a tense, atmospheric thriller that kicks off with a sudden, freezing downpour on the unforgiving asphalt of US Highway 11. As a group of friends navigates a dangerous, uncertain journey, the narrative ratchets up the suspense, exploring the limits of endurance, the bonds of loyalty, and the terrifying reality of being entirely exposed to the elements.",
     "series_image": "/raggiesoft-books/images/covers/2x3/pebble-borrow.jpg",
     "next_series_url": "",
-    "next_series_text": "",
-    "books": [
+    "eras": [
         {
-            "book_num": 1,
-            "book_title": "Book 1: Echoes of the Past",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-1-echoes-of-the-past",
+            "era_num": 1,
+            "era_title": "Book 1: Echoes of the Past",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-1-echoes-of-the-past",
             "chapters": []
         },
         {
-            "book_num": 2,
-            "book_title": "The Motel on the Highway",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway",
+            "era_num": 2,
+            "era_title": "The Motel on the Highway",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Threshold",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway/the-threshold",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Out of the Storm",
-                            "file_path": "b002/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Out of the Storm",
+                            "file_path": "e002/c001/s001.md"
                         }
                     ]
                 },
@@ -34,16 +33,16 @@
                     "chap_num": 2,
                     "chap_title": "Setting the Scene",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway/setting-the-scene",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The APEX Late-Night Switch",
-                            "file_path": "b002/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The APEX Late-Night Switch",
+                            "file_path": "e002/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The APEX World Premier Presentation",
-                            "file_path": "b002/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The APEX World Premier Presentation",
+                            "file_path": "e002/c002/s002.md"
                         }
                     ]
                 },
@@ -51,149 +50,149 @@
                     "chap_num": 3,
                     "chap_title": "Amanda Protects her Siblings",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway/amanda-protects-her-siblings",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The APEX Late\u2011Night Switch",
-                            "file_path": "b002/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The APEX Late\u2011Night Switch",
+                            "file_path": "e002/c003/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Saturday Morning \u2014 The Teasing Begins",
-                            "file_path": "b002/c003/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Saturday Morning \u2014 The Teasing Begins",
+                            "file_path": "e002/c003/s002.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 3,
-            "book_title": "Book 3: Beyond the Horizon",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-3-beyond-the-horizon",
+            "era_num": 3,
+            "era_title": "Book 3: Beyond the Horizon",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-3-beyond-the-horizon",
             "chapters": []
         },
         {
-            "book_num": 4,
-            "book_title": "Book 4: The Turning Point",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-4-the-turning-point",
+            "era_num": 4,
+            "era_title": "Book 4: The Turning Point",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-4-the-turning-point",
             "chapters": []
         },
         {
-            "book_num": 5,
-            "book_title": "Book 5: A Glimmer of Hope",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-5-a-glimmer-of-hope",
+            "era_num": 5,
+            "era_title": "Book 5: A Glimmer of Hope",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-5-a-glimmer-of-hope",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Confrontation",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-5-a-glimmer-of-hope/chapter-1-the-confrontation",
-                    "parts": []
+                    "scenes": []
                 }
             ]
         },
         {
-            "book_num": 6,
-            "book_title": "Book 6: Shadows Fall",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-6-shadows-fall",
+            "era_num": 6,
+            "era_title": "Book 6: Shadows Fall",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-6-shadows-fall",
             "chapters": []
         },
         {
-            "book_num": 7,
-            "book_title": "Welcome to Pebble Burrow",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow",
+            "era_num": 7,
+            "era_title": "Welcome to Pebble Burrow",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Aftermath",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-1-the-aftermath",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Trial",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-2-the-trial",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: A Change of Plans",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-3-a-change-of-plans",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Betrayal",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-4-the-betrayal",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Sacrifice",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-5-the-sacrifice",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6: A Moment of Peace",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-6-a-moment-of-peace",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 7,
                     "chap_title": "Chapter 7: A Moment of Peace",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-7-a-moment-of-peace",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 8,
                     "chap_title": "Chapter 8: A Moment of Peace",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-8-a-moment-of-peace",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 9,
                     "chap_title": "Chapter 9: The Betrayal",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-9-the-betrayal",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 10,
                     "chap_title": "Chapter 10: Unexpected Encounters",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-10-unexpected-encounters",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 11,
                     "chap_title": "Chapter 11: The Turning of the Tide",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-11-the-turning-of-the-tide",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 12,
                     "chap_title": "Chapter 12: The Confrontation",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-12-the-confrontation",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 13,
                     "chap_title": "Chapter 13: A New Ally",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-13-a-new-ally",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 14,
                     "chap_title": "Returning to the Surface",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/returning-to-the-surface",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Apocalyptic Reality",
-                            "file_path": "b007/c014/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Apocalyptic Reality",
+                            "file_path": "e007/c014/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Burden of Ownership",
-                            "file_path": "b007/c014/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Burden of Ownership",
+                            "file_path": "e007/c014/s002.md"
                         }
                     ]
                 },
@@ -201,36 +200,36 @@
                     "chap_num": 15,
                     "chap_title": "Chapter 15: The Aftermath",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-15-the-aftermath",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 16,
                     "chap_title": "Chapter 16: Unexpected Encounters",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-16-unexpected-encounters",
-                    "parts": []
+                    "scenes": []
                 }
             ]
         },
         {
-            "book_num": 8,
-            "book_title": "The General's Arrival",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/the-general-s-arrival",
+            "era_num": 8,
+            "era_title": "The General's Arrival",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/the-general-s-arrival",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Confrontation",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/the-general-s-arrival/chapter-1-the-confrontation",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "The Holy Grail of Geothermal Energy",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/the-general-s-arrival/the-holy-grail-of-geothermal-energy",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: 0700 Hours: The First Refusal",
-                            "file_path": "b008/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: 0700 Hours: The First Refusal",
+                            "file_path": "e008/c002/s001.md"
                         }
                     ]
                 },
@@ -238,11 +237,11 @@
                     "chap_num": 3,
                     "chap_title": "0830 Hours: The Four-Star Directive",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/the-general-s-arrival/0830-hours-the-four-star-directive",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Net Closes",
-                            "file_path": "b008/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Net Closes",
+                            "file_path": "e008/c003/s001.md"
                         }
                     ]
                 },
@@ -250,503 +249,503 @@
                     "chap_num": 4,
                     "chap_title": "Chapter 4: A Change of Plans",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/the-general-s-arrival/chapter-4-a-change-of-plans",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 5,
                     "chap_title": "1015 Hours: The Commander-in-Chief",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/the-general-s-arrival/1015-hours-the-commander-in-chief",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Breach",
-                            "file_path": "b008/c005/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Breach",
+                            "file_path": "e008/c005/s001.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 9,
-            "book_title": "Book 9: The Endless Journey",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-9-the-endless-journey",
+            "era_num": 9,
+            "era_title": "Book 9: The Endless Journey",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-9-the-endless-journey",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Unexpected Encounters",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-9-the-endless-journey/chapter-1-unexpected-encounters",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Turning of the Tide",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-9-the-endless-journey/chapter-2-the-turning-of-the-tide",
-                    "parts": []
+                    "scenes": []
                 }
             ]
         },
         {
-            "book_num": 10,
-            "book_title": "Book 10: The Lost Memories",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories",
+            "era_num": 10,
+            "era_title": "Book 10: The Lost Memories",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Unexpected Encounters",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-1-unexpected-encounters",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: A Moment of Peace",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-2-a-moment-of-peace",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: A Desperate Escape",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-3-a-desperate-escape",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: Into the Unknown",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-4-into-the-unknown",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5: A Change of Plans",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-5-a-change-of-plans",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Trial",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-6-the-trial",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 7,
                     "chap_title": "Chapter 7: A Desperate Escape",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-7-a-desperate-escape",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 8,
                     "chap_title": "Chapter 8: Unexpected Encounters",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-8-unexpected-encounters",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 9,
                     "chap_title": "Chapter 9: Into the Unknown",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-9-into-the-unknown",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 10,
                     "chap_title": "Chapter 10: The Aftermath",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-10-the-aftermath",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 11,
                     "chap_title": "Chapter 11: The Arrival",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-11-the-arrival",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 12,
                     "chap_title": "Chapter 12: The Confrontation",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-12-the-confrontation",
-                    "parts": []
+                    "scenes": []
                 }
             ]
         },
         {
-            "book_num": 11,
-            "book_title": "Book 11: Hidden Paths",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-11-hidden-paths",
+            "era_num": 11,
+            "era_title": "Book 11: Hidden Paths",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-11-hidden-paths",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Turning of the Tide",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-11-hidden-paths/chapter-1-the-turning-of-the-tide",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Confrontation",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-11-hidden-paths/chapter-2-the-confrontation",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: A New Ally",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-11-hidden-paths/chapter-3-a-new-ally",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Aftermath",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-11-hidden-paths/chapter-4-the-aftermath",
-                    "parts": []
+                    "scenes": []
                 }
             ]
         },
         {
-            "book_num": 12,
-            "book_title": "Book 12: The Turning Point",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-12-the-turning-point",
+            "era_num": 12,
+            "era_title": "Book 12: The Turning Point",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-12-the-turning-point",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Into the Unknown",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-12-the-turning-point/chapter-1-into-the-unknown",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Sacrifice",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-12-the-turning-point/chapter-2-the-sacrifice",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Arrival",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-12-the-turning-point/chapter-3-the-arrival",
-                    "parts": []
+                    "scenes": []
                 }
             ]
         },
         {
-            "book_num": 13,
-            "book_title": "Book 13: Beyond the Horizon",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-13-beyond-the-horizon",
+            "era_num": 13,
+            "era_title": "Book 13: Beyond the Horizon",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-13-beyond-the-horizon",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Turning of the Tide",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-13-beyond-the-horizon/chapter-1-the-turning-of-the-tide",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Trial",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-13-beyond-the-horizon/chapter-2-the-trial",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Sacrifice",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-13-beyond-the-horizon/chapter-3-the-sacrifice",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: A Desperate Escape",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-13-beyond-the-horizon/chapter-4-a-desperate-escape",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Sacrifice",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-13-beyond-the-horizon/chapter-5-the-sacrifice",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Aftermath",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-13-beyond-the-horizon/chapter-6-the-aftermath",
-                    "parts": []
+                    "scenes": []
                 }
             ]
         },
         {
-            "book_num": 14,
-            "book_title": "Book 14: A New Dawn",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-14-a-new-dawn",
+            "era_num": 14,
+            "era_title": "Book 14: A New Dawn",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-14-a-new-dawn",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Turning of the Tide",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-14-a-new-dawn/chapter-1-the-turning-of-the-tide",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: A Desperate Escape",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-14-a-new-dawn/chapter-2-a-desperate-escape",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Trial",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-14-a-new-dawn/chapter-3-the-trial",
-                    "parts": []
+                    "scenes": []
                 }
             ]
         },
         {
-            "book_num": 15,
-            "book_title": "Book 15: The Final Stand",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-15-the-final-stand",
+            "era_num": 15,
+            "era_title": "Book 15: The Final Stand",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-15-the-final-stand",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: A New Ally",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-15-the-final-stand/chapter-1-a-new-ally",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Betrayal",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-15-the-final-stand/chapter-2-the-betrayal",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: A Moment of Peace",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-15-the-final-stand/chapter-3-a-moment-of-peace",
-                    "parts": []
+                    "scenes": []
                 }
             ]
         },
         {
-            "book_num": 16,
-            "book_title": "Book 16: A New Dawn",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-16-a-new-dawn",
+            "era_num": 16,
+            "era_title": "Book 16: A New Dawn",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-16-a-new-dawn",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Sacrifice",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-16-a-new-dawn/chapter-1-the-sacrifice",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: A Change of Plans",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-16-a-new-dawn/chapter-2-a-change-of-plans",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: A Moment of Peace",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-16-a-new-dawn/chapter-3-a-moment-of-peace",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: Into the Unknown",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-16-a-new-dawn/chapter-4-into-the-unknown",
-                    "parts": []
+                    "scenes": []
                 }
             ]
         },
         {
-            "book_num": 17,
-            "book_title": "Book 17: The Final Stand",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-17-the-final-stand",
+            "era_num": 17,
+            "era_title": "Book 17: The Final Stand",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-17-the-final-stand",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Trial",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-17-the-final-stand/chapter-1-the-trial",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: Unexpected Encounters",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-17-the-final-stand/chapter-2-unexpected-encounters",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: Unexpected Encounters",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-17-the-final-stand/chapter-3-unexpected-encounters",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: Into the Unknown",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-17-the-final-stand/chapter-4-into-the-unknown",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5: Revelations",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-17-the-final-stand/chapter-5-revelations",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Arrival",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-17-the-final-stand/chapter-6-the-arrival",
-                    "parts": []
+                    "scenes": []
                 }
             ]
         },
         {
-            "book_num": 18,
-            "book_title": "Book 18: Silent Whispers",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-18-silent-whispers",
+            "era_num": 18,
+            "era_title": "Book 18: Silent Whispers",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-18-silent-whispers",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Into the Unknown",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-18-silent-whispers/chapter-1-into-the-unknown",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: Revelations",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-18-silent-whispers/chapter-2-revelations",
-                    "parts": []
+                    "scenes": []
                 }
             ]
         },
         {
-            "book_num": 19,
-            "book_title": "Book 19: Silent Whispers",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-19-silent-whispers",
+            "era_num": 19,
+            "era_title": "Book 19: Silent Whispers",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-19-silent-whispers",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Confrontation",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-19-silent-whispers/chapter-1-the-confrontation",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Aftermath",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-19-silent-whispers/chapter-2-the-aftermath",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Arrival",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-19-silent-whispers/chapter-3-the-arrival",
-                    "parts": []
+                    "scenes": []
                 }
             ]
         },
         {
-            "book_num": 20,
-            "book_title": "Book 20: A New Dawn",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-20-a-new-dawn",
+            "era_num": 20,
+            "era_title": "Book 20: A New Dawn",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-20-a-new-dawn",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Unexpected Encounters",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-20-a-new-dawn/chapter-1-unexpected-encounters",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Aftermath",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-20-a-new-dawn/chapter-2-the-aftermath",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Betrayal",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-20-a-new-dawn/chapter-3-the-betrayal",
-                    "parts": []
+                    "scenes": []
                 }
             ]
         },
         {
-            "book_num": 21,
-            "book_title": "Book 21: A New Dawn",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-21-a-new-dawn",
+            "era_num": 21,
+            "era_title": "Book 21: A New Dawn",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-21-a-new-dawn",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Arrival",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-21-a-new-dawn/chapter-1-the-arrival",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: A Desperate Escape",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-21-a-new-dawn/chapter-2-a-desperate-escape",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: Into the Unknown",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-21-a-new-dawn/chapter-3-into-the-unknown",
-                    "parts": []
+                    "scenes": []
                 }
             ]
         },
         {
-            "book_num": 22,
-            "book_title": "Book 22: The Final Stand",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-22-the-final-stand",
+            "era_num": 22,
+            "era_title": "Book 22: The Final Stand",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-22-the-final-stand",
             "chapters": []
         },
         {
-            "book_num": 23,
-            "book_title": "Amanda Interviews Care Nurses",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses",
+            "era_num": 23,
+            "era_title": "Amanda Interviews Care Nurses",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Trial",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/chapter-1-the-trial",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Aftermath",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/chapter-2-the-aftermath",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Betrayal",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/chapter-3-the-betrayal",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Trial",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/chapter-4-the-trial",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 5,
                     "chap_title": "Chapter 5: Revelations",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/chapter-5-revelations",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Confrontation",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/chapter-6-the-confrontation",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 7,
                     "chap_title": "The Verification",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/the-verification",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Call 1: The Surgeon",
-                            "file_path": "b023/c007/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Call 1: The Surgeon",
+                            "file_path": "e023/c007/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Call 2: The Social Worker",
-                            "file_path": "b023/c007/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Call 2: The Social Worker",
+                            "file_path": "e023/c007/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: Call 3: The Director of Nursing",
-                            "file_path": "b023/c007/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Call 3: The Director of Nursing",
+                            "file_path": "e023/c007/s003.md"
                         }
                     ]
                 },
@@ -754,47 +753,47 @@
                     "chap_num": 8,
                     "chap_title": "The Fortress is Staffed",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/the-fortress-is-staffed",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Night Watch",
-                            "file_path": "b023/c008/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Night Watch",
+                            "file_path": "e023/c008/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Muscle",
-                            "file_path": "b023/c008/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Muscle",
+                            "file_path": "e023/c008/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Rebuilders",
-                            "file_path": "b023/c008/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Rebuilders",
+                            "file_path": "e023/c008/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Shield",
-                            "file_path": "b023/c008/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Shield",
+                            "file_path": "e023/c008/s004.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 24,
-            "book_title": "Book 24: Silent Whispers",
-            "book_url": "/raggiesoft-books/books/pebble-borrow/book-24-silent-whispers",
+            "era_num": 24,
+            "era_title": "Book 24: Silent Whispers",
+            "era_url": "/raggiesoft-books/books/pebble-borrow/book-24-silent-whispers",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Arrival",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-24-silent-whispers/chapter-1-the-arrival",
-                    "parts": []
+                    "scenes": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: Into the Unknown",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-24-silent-whispers/chapter-2-into-the-unknown",
-                    "parts": []
+                    "scenes": []
                 }
             ]
         }

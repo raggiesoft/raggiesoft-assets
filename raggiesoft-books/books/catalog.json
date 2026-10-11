@@ -4,7 +4,7 @@
         "title": "The Silver Gauntlet of Aethel",
         "description": "An epic fantasy saga set in a world of twin suns, ancient magic, and the endless struggle between Order and Chaos.",
         "image": "/raggiesoft-books/images/covers/2x3/aethel.jpg",
-        "first_route": "/raggiesoft-books/books/aethel/era-1-the-age-of-myth/book-i-the-silver-sun/part-1-chapter-1-the-architect-s-lesson",
+        "first_route": "/raggiesoft-books/books/aethel/era-1-the-age-of-myth/book-i-the-silver-sun/scene-1-chapter-1-the-architect-s-lesson",
         "folder": "aethel",
         "hide": false
     },
@@ -13,7 +13,7 @@
         "title": "Beyond Words",
         "description": "A beautiful, lifelong coming-of-age journey of connection, resilience, and the deeply profound platonic bond between Alex Miller, his cousin Megan, and his best friend Chlo\u00e9 Mason.",
         "image": "/raggiesoft-books/images/covers/2x3/alex-chloe.jpg",
-        "first_route": "/raggiesoft-books/books/alex-chloe/alex-s-childhood/the-carter-house/part-1-the-first-meeting",
+        "first_route": "/raggiesoft-books/books/alex-chloe/alex-s-childhood/the-carter-house/scene-1-the-first-meeting",
         "folder": "alex-chloe",
         "hide": false
     },
@@ -22,7 +22,7 @@
         "title": "Apex: Fall of Earth",
         "description": "The dramatic origin story of Project APEX and the musical revolution that followed.",
         "image": "/raggiesoft-books/images/covers/2x3/apex-fall-of-earth.jpg",
-        "first_route": "/raggiesoft-books/books/apex-fall-of-earth/wyatt-s-prologue/wyatt-expendable-assets/part-1-the-deep-end-mid-october-2044",
+        "first_route": "/raggiesoft-books/books/apex-fall-of-earth/wyatt-s-prologue/wyatt-expendable-assets/scene-1-the-deep-end-mid-october-2044",
         "folder": "apex-fall-of-earth",
         "hide": false
     },
@@ -31,7 +31,7 @@
         "title": "Fortress in the Clouds",
         "description": "Donald's harrowing escape from Texas to the safety of the Fortress in the Clouds.",
         "image": "/raggiesoft-books/images/covers/2x3/ashley-tower.jpg",
-        "first_route": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-1-the-gathering-storm-tuesday-february-9-2021/part-1-best-laid-plans-7-30-pm",
+        "first_route": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-1-the-gathering-storm-tuesday-february-9-2021/scene-1-best-laid-plans-7-30-pm",
         "folder": "ashley-tower",
         "hide": false
     },
@@ -40,7 +40,7 @@
         "title": "The Eleventh Child",
         "description": "The emotional journey of eighteen-year-old Aubrey Jordan Fuller as he navigates college life, disability, and breaking free from his suffocating mother, Aubrie Sinclair.",
         "image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
-        "first_route": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude/part-1-the-drive",
+        "first_route": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude/scene-1-the-drive",
         "folder": "aubrie",
         "hide": false
     },
@@ -58,7 +58,7 @@
         "title": "The Heart-Hum",
         "description": "A heartfelt story of fifteen-year-old Emily and her wheelchair-using cousin Bob, who build an unbreakable bond and a private language called 'The Heart-Hum' to protect each other from a chaotic world.",
         "image": "/raggiesoft-books/images/covers/2x3/bob-emily.jpg",
-        "first_route": "/raggiesoft-books/books/bob-emily/life-without-a-father/the-longest-day/part-1-the-final-promise",
+        "first_route": "/raggiesoft-books/books/bob-emily/life-without-a-father/the-longest-day/scene-1-the-final-promise",
         "folder": "bob-emily",
         "hide": false
     },
@@ -67,7 +67,7 @@
         "title": "Crimson Node",
         "description": "A gripping sci-fi tale of digital espionage and the mysteries of the Crimson Node project.",
         "image": "/raggiesoft-books/images/covers/2x3/crimson-node.jpg",
-        "first_route": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-1-the-approach-ndash-friday-april-23-1999/part-1-anomalies",
+        "first_route": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-1-the-approach-ndash-friday-april-23-1999/scene-1-anomalies",
         "folder": "crimson-node",
         "hide": false
     },
@@ -76,7 +76,7 @@
         "title": "The Drew Narrative",
         "description": "The story of Drew and his twin sister Maggie.",
         "image": "/raggiesoft-books/images/covers/2x3/drew.jpg",
-        "first_route": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-1-the-dojang-incident/part-1-the-core-check",
+        "first_route": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-1-the-dojang-incident/scene-1-the-core-check",
         "folder": "drew",
         "hide": false
     },
@@ -94,7 +94,7 @@
         "title": "Jack & Sarah",
         "description": "A poignant story of familial connection, second chances, and finding solace in the unexpected support of loved ones.",
         "image": "/raggiesoft-books/images/covers/2x3/jack-sarah.jpg",
-        "first_route": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/the-end-of-a-war/part-1-the-discovery",
+        "first_route": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/the-end-of-a-war/scene-1-the-discovery",
         "folder": "jack-sarah",
         "hide": false
     },
@@ -103,7 +103,7 @@
         "title": "Luna & Leo",
         "description": "Welcome to Luna & Leo, an expansive narrative detailing their Great North American Excursion and beyond.",
         "image": "/raggiesoft-books/images/covers/2x3/luna-leo.jpg",
-        "first_route": "/raggiesoft-books/books/luna-leo/early-years/birthday-morning-and-the-grandparents-arrival/part-1-birthday-morning-and-the-grandparents-arrival",
+        "first_route": "/raggiesoft-books/books/luna-leo/early-years/birthday-morning-and-the-grandparents-arrival/scene-1-birthday-morning-and-the-grandparents-arrival",
         "folder": "luna-leo",
         "hide": false
     },
@@ -112,7 +112,7 @@
         "title": "Mary's Childhood",
         "description": "A nostalgic, heartwarming look back at a chaotic but deeply loving childhood.",
         "image": "/raggiesoft-books/images/covers/2x3/mary-childhood.jpg",
-        "first_route": "/raggiesoft-books/books/mary-childhood/mary-s-early-years/chapter-1-a-moment-of-peace/part-1-high-command",
+        "first_route": "/raggiesoft-books/books/mary-childhood/mary-s-early-years/chapter-1-a-moment-of-peace/scene-1-high-command",
         "folder": "mary-childhood",
         "hide": false
     },
@@ -121,7 +121,7 @@
         "title": "Meredith",
         "description": "A profound exploration of grief, healing, and the protective embrace of chosen family.",
         "image": "/raggiesoft-books/images/covers/2x3/meredith.jpg",
-        "first_route": "/raggiesoft-books/books/meredith/book-4-the-vanguard/chapter-1-the-first-drop-off/part-1-the-garage-barracks",
+        "first_route": "/raggiesoft-books/books/meredith/book-4-the-vanguard/chapter-1-the-first-drop-off/scene-1-the-garage-barracks",
         "folder": "meredith",
         "hide": false
     },
@@ -130,7 +130,7 @@
         "title": "Nate",
         "description": "A deeply moving story of sibling devotion, chronic illness, and finding joy in quiet rebellion.",
         "image": "/raggiesoft-books/images/covers/2x3/nate.jpg",
-        "first_route": "/raggiesoft-books/books/nate/book-the-architecture-of-safe-spaces/chapter-1-the-triplet-anomaly-saturday-april-16-1994/part-1-the-rhythmic-drumming",
+        "first_route": "/raggiesoft-books/books/nate/book-the-architecture-of-safe-spaces/chapter-1-the-triplet-anomaly-saturday-april-16-1994/scene-1-the-rhythmic-drumming",
         "folder": "nate",
         "hide": false
     },
@@ -139,7 +139,7 @@
         "title": "Nichole",
         "description": "The extraordinary life of Nichole Bennett, the brilliant architect of the Bennet Machine.",
         "image": "/raggiesoft-books/images/covers/2x3/nichole.jpg",
-        "first_route": "/raggiesoft-books/books/nichole/elementary-school/the-newport-vacation/part-1-the-bachelor-pad",
+        "first_route": "/raggiesoft-books/books/nichole/elementary-school/the-newport-vacation/scene-1-the-bachelor-pad",
         "folder": "nichole",
         "hide": false
     },
@@ -148,7 +148,7 @@
         "title": "Paige",
         "description": "A compelling story of camaraderie and ambition set amidst the grueling deadlines and late-night coding sessions of university life.",
         "image": "/raggiesoft-books/images/covers/2x3/paige.jpg",
-        "first_route": "/raggiesoft-books/books/paige/freshman-year/band-camp/part-1-the-downbeat",
+        "first_route": "/raggiesoft-books/books/paige/freshman-year/band-camp/scene-1-the-downbeat",
         "folder": "paige",
         "hide": false
     },
@@ -157,7 +157,7 @@
         "title": "Pebble Borrow",
         "description": "A tense, atmospheric thriller tracking a dangerous journey along US Highway 11.",
         "image": "/raggiesoft-books/images/covers/2x3/pebble-borrow.jpg",
-        "first_route": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway/the-threshold/part-1-out-of-the-storm",
+        "first_route": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway/the-threshold/scene-1-out-of-the-storm",
         "folder": "pebble-borrow",
         "hide": false
     },
@@ -166,7 +166,7 @@
         "title": "The Quantum Directive: Jessica's Cut",
         "description": "A high-stakes corporate drama following Jessica Taylor in the late-90s tech boom.",
         "image": "/raggiesoft-books/images/covers/2x3/quantum-directive-1-jessica.jpg",
-        "first_route": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/an-ordinary-july/part-1-day-to-day-at-quantum",
+        "first_route": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/an-ordinary-july/scene-1-day-to-day-at-quantum",
         "folder": "quantum-directive-1-jessica",
         "hide": false
     },
@@ -175,7 +175,7 @@
         "title": "The Quantum Directive: Kelly's Cut",
         "description": "A deeply personal corporate drama detailing the late-90s tech boom from the trenches.",
         "image": "/raggiesoft-books/images/covers/2x3/quantum-directive-2-kelly.jpg",
-        "first_route": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/a-fork-in-the-road/part-1-the-bulletin-board",
+        "first_route": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/a-fork-in-the-road/scene-1-the-bulletin-board",
         "folder": "quantum-directive-2-kelly",
         "hide": false
     },
@@ -184,7 +184,7 @@
         "title": "The Quantum Directive: The Caretakers",
         "description": "Follow the Vance and Delaney siblings as they navigate found family, trauma, and corporate maneuvering at Quantum.",
         "image": "/raggiesoft-books/images/covers/2x3/quantum-directive-3-casey.jpg",
-        "first_route": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-1-the-northern-regional/part-1-departing-npn",
+        "first_route": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-1-the-northern-regional/scene-1-departing-npn",
         "folder": "quantum-directive-3-casey",
         "hide": false
     },
@@ -193,7 +193,7 @@
         "title": "The Rachel Narrative",
         "description": "A complex, multi-generational story tracking the life, challenges, and growth of Rachel and her brother Michael.",
         "image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
-        "first_route": "/raggiesoft-books/books/rachel/book-1-the-delaney-street-years/chapter-1-the-sabertooth-kitty/part-1-the-sensory-avalanche",
+        "first_route": "/raggiesoft-books/books/rachel/book-1-the-delaney-street-years/chapter-1-the-sabertooth-kitty/scene-1-the-sensory-avalanche",
         "folder": "rachel",
         "hide": false
     },
@@ -202,7 +202,7 @@
         "title": "Ruby Mountain",
         "description": "A high-stakes corporate family drama revolving around the battle for The Prospector's Keep.",
         "image": "/raggiesoft-books/images/covers/2x3/ruby-mountain.jpg",
-        "first_route": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism/chapter-1-the-eve-of-exile/part-1-the-traitor",
+        "first_route": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism/chapter-1-the-eve-of-exile/scene-1-the-traitor",
         "folder": "ruby-mountain",
         "hide": false
     },
@@ -211,7 +211,7 @@
         "title": "Dream Kingdom",
         "description": "An ethereal journey into a fantastical realm where dreams and reality collide.",
         "image": "/raggiesoft-books/images/covers/2x3/dream-kingdom.jpg",
-        "first_route": "/raggiesoft-books/books/runebreaker/book-1-the-dream-kingdom/chapter-1-the-analog-jammer-friday-october-30-1992/part-1-untitled-chapter",
+        "first_route": "/raggiesoft-books/books/runebreaker/book-1-the-dream-kingdom/chapter-1-the-analog-jammer-friday-october-30-1992/scene-1-untitled-chapter",
         "folder": "runebreaker",
         "hide": false
     },
@@ -220,7 +220,7 @@
         "title": "Samantha",
         "description": "A heart-pounding thriller about a kidnapping and the fierce sibling bond that changes everything.",
         "image": "/raggiesoft-books/images/covers/2x3/samantha.jpg",
-        "first_route": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-1-the-father-and-the-uncle-sunday-july-13-1997/part-1-untitled-chapter",
+        "first_route": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-1-the-father-and-the-uncle-sunday-july-13-1997/scene-1-untitled-chapter",
         "folder": "samantha",
         "hide": false
     },
@@ -229,7 +229,7 @@
         "title": "The Stardust Engine",
         "description": "The official history, archives, and lore of The Stardust Engine.",
         "image": "/raggiesoft-books/images/covers/2x3/stardust-engine.jpg",
-        "first_route": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra/chapter-1-escape-velocity-ndash-1995/part-1-the-magnum-opus-ndash-12-00-pm",
+        "first_route": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra/chapter-1-escape-velocity-ndash-1995/scene-1-the-magnum-opus-ndash-12-00-pm",
         "folder": "stardust-engine",
         "hide": false
     },

@@ -5,92 +5,91 @@
     "series_description_long": "---\ntitle: \"Meredith\"\n---\n*Meredith* is a profoundly moving story about the heavy, grounding anchor of chosen family in the aftermath of devastating loss. Following David and the girls he protects, this narrative explores the complex architecture of grief, the deep comfort of routine, and the fierce, quiet love required to heal a fractured heart.",
     "series_image": "/raggiesoft-books/images/covers/2x3/meredith.jpg",
     "next_series_url": "",
-    "next_series_text": "",
-    "books": [
+    "eras": [
         {
-            "book_num": 1,
-            "book_title": "Book 4: The Vanguard",
-            "book_url": "/raggiesoft-books/books/meredith/book-4-the-vanguard",
+            "era_num": 1,
+            "era_title": "Book 4: The Vanguard",
+            "era_url": "/raggiesoft-books/books/meredith/book-4-the-vanguard",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The First Drop-Off",
                     "chap_url": "/raggiesoft-books/books/meredith/book-4-the-vanguard/chapter-1-the-first-drop-off",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Garage Barracks",
-                            "file_path": "b001/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Garage Barracks",
+                            "file_path": "e001/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Commute",
-                            "file_path": "b001/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Commute",
+                            "file_path": "e001/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Walker Building Lounge",
-                            "file_path": "b001/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Walker Building Lounge",
+                            "file_path": "e001/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The InfoLink Update",
-                            "file_path": "b001/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The InfoLink Update",
+                            "file_path": "e001/c001/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Color Correction",
-                            "file_path": "b001/c001/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Color Correction",
+                            "file_path": "e001/c001/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: SDV 100",
-                            "file_path": "b001/c001/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: SDV 100",
+                            "file_path": "e001/c001/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Foundation",
-                            "file_path": "b001/c001/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Foundation",
+                            "file_path": "e001/c001/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Promenade at Granby",
-                            "file_path": "b001/c001/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Promenade at Granby",
+                            "file_path": "e001/c001/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Debrief",
-                            "file_path": "b001/c001/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Debrief",
+                            "file_path": "e001/c001/s009.md"
                         },
                         {
-                            "part_num": 10,
-                            "part_title": "Part 10: The Salon Debrief",
-                            "file_path": "b001/c001/p010.md"
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: The Salon Debrief",
+                            "file_path": "e001/c001/s010.md"
                         },
                         {
-                            "part_num": 11,
-                            "part_title": "Part 11: The Library Intercept",
-                            "file_path": "b001/c001/p011.md"
+                            "scene_num": 11,
+                            "scene_title": "Scene 11: The Library Intercept",
+                            "file_path": "e001/c001/s011.md"
                         },
                         {
-                            "part_num": 12,
-                            "part_title": "Part 12: The Family Briefing",
-                            "file_path": "b001/c001/p012.md"
+                            "scene_num": 12,
+                            "scene_title": "Scene 12: The Family Briefing",
+                            "file_path": "e001/c001/s012.md"
                         },
                         {
-                            "part_num": 13,
-                            "part_title": "Part 13: The Evening Routine",
-                            "file_path": "b001/c001/p013.md"
+                            "scene_num": 13,
+                            "scene_title": "Scene 13: The Evening Routine",
+                            "file_path": "e001/c001/s013.md"
                         },
                         {
-                            "part_num": 14,
-                            "part_title": "Part 14: The Summons",
-                            "file_path": "b001/c001/p014.md"
+                            "scene_num": 14,
+                            "scene_title": "Scene 14: The Summons",
+                            "file_path": "e001/c001/s014.md"
                         },
                         {
-                            "part_num": 15,
-                            "part_title": "Part 15: The Vanguard Rests",
-                            "file_path": "b001/c001/p015.md"
+                            "scene_num": 15,
+                            "scene_title": "Scene 15: The Vanguard Rests",
+                            "file_path": "e001/c001/s015.md"
                         }
                     ]
                 },
@@ -98,21 +97,21 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Virginia Beach Perimeter",
                     "chap_url": "/raggiesoft-books/books/meredith/book-4-the-vanguard/chapter-2-the-virginia-beach-perimeter",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Morning in the Barracks",
-                            "file_path": "b001/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Morning in the Barracks",
+                            "file_path": "e001/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Acoustic Clarification",
-                            "file_path": "b001/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Acoustic Clarification",
+                            "file_path": "e001/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Princess Anne Perimeter",
-                            "file_path": "b001/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Princess Anne Perimeter",
+                            "file_path": "e001/c002/s003.md"
                         }
                     ]
                 }

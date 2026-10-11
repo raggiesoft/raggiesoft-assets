@@ -5,51 +5,50 @@
     "series_description_long": "---\ntitle: \"Aethel\"\n---\nWelcome to the world of Aethel, an epic fantasy saga where twin suns illuminate a continent fractured by ancient magic and modern political intrigue. As the fragile balance between Order and Chaos is threatened, unlikely heroes must rise to secure the legendary Silver Gauntlet. This series explores vast kingdoms, intricate magic systems, and the deeply human cost of war and destiny.",
     "series_image": "/raggiesoft-books/images/covers/2x3/aethel.jpg",
     "next_series_url": "",
-    "next_series_text": "",
-    "books": [
+    "eras": [
         {
-            "book_num": 1,
-            "book_title": "Era 1: The Age of Myth",
-            "book_url": "/raggiesoft-books/books/aethel/era-1-the-age-of-myth",
+            "era_num": 1,
+            "era_title": "Era 1: The Age of Myth",
+            "era_url": "/raggiesoft-books/books/aethel/era-1-the-age-of-myth",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Book I: The Silver Sun",
                     "chap_url": "/raggiesoft-books/books/aethel/era-1-the-age-of-myth/book-i-the-silver-sun",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Chapter 1: The Architect's Lesson",
-                            "file_path": "b001/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Chapter 1: The Architect's Lesson",
+                            "file_path": "e001/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Chapter 2: The Age of Twilight",
-                            "file_path": "b001/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Chapter 2: The Age of Twilight",
+                            "file_path": "e001/c001/s002.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 2,
-            "book_title": "Era 2: The Age of Silence",
-            "book_url": "/raggiesoft-books/books/aethel/era-2-the-age-of-silence",
+            "era_num": 2,
+            "era_title": "Era 2: The Age of Silence",
+            "era_url": "/raggiesoft-books/books/aethel/era-2-the-age-of-silence",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Book I: The Silver Gauntlet of Aethel",
                     "chap_url": "/raggiesoft-books/books/aethel/era-2-the-age-of-silence/book-i-the-silver-gauntlet-of-aethel",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Chapter 1: The Sundering of Sunstead",
-                            "file_path": "b002/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Chapter 1: The Sundering of Sunstead",
+                            "file_path": "e002/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Chapter 2: The Silence of the Hearth",
-                            "file_path": "b002/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Chapter 2: The Silence of the Hearth",
+                            "file_path": "e002/c001/s002.md"
                         }
                     ]
                 },
@@ -57,26 +56,26 @@
                     "chap_num": 2,
                     "chap_title": "Book II: The Shadow's Heart",
                     "chap_url": "/raggiesoft-books/books/aethel/era-2-the-age-of-silence/book-ii-the-shadow-s-heart",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Chapter 1: The Hunted and the Caged",
-                            "file_path": "b002/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Chapter 1: The Hunted and the Caged",
+                            "file_path": "e002/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Chapter 2: The Tyrant's Throne",
-                            "file_path": "b002/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Chapter 2: The Tyrant's Throne",
+                            "file_path": "e002/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: Chapter 3: The Last Temptation",
-                            "file_path": "b002/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Chapter 3: The Last Temptation",
+                            "file_path": "e002/c002/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: Chapter 4: The Bridge of a Thousand Truths",
-                            "file_path": "b002/c002/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Chapter 4: The Bridge of a Thousand Truths",
+                            "file_path": "e002/c002/s004.md"
                         }
                     ]
                 },
@@ -84,65 +83,65 @@
                     "chap_num": 3,
                     "chap_title": "Book III: The Dawn of the Twins",
                     "chap_url": "/raggiesoft-books/books/aethel/era-2-the-age-of-silence/book-iii-the-dawn-of-the-twins",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Chapter 1: The Siege of the Shadowspire",
-                            "file_path": "b002/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Chapter 1: The Siege of the Shadowspire",
+                            "file_path": "e002/c003/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Chapter 2: The Heart of the Gloom",
-                            "file_path": "b002/c003/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Chapter 2: The Heart of the Gloom",
+                            "file_path": "e002/c003/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: Chapter 3: The Long Road Home",
-                            "file_path": "b002/c003/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Chapter 3: The Long Road Home",
+                            "file_path": "e002/c003/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: Chapter 4: The Scouring of Sunstead",
-                            "file_path": "b002/c003/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Chapter 4: The Scouring of Sunstead",
+                            "file_path": "e002/c003/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: Chapter 5: The Aftermath",
-                            "file_path": "b002/c003/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Chapter 5: The Aftermath",
+                            "file_path": "e002/c003/s005.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 3,
-            "book_title": "Era 3: The Age of Tides",
-            "book_url": "/raggiesoft-books/books/aethel/era-3-the-age-of-tides",
+            "era_num": 3,
+            "era_title": "Era 3: The Age of Tides",
+            "era_url": "/raggiesoft-books/books/aethel/era-3-the-age-of-tides",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Book I: The Glass Sea",
                     "chap_url": "/raggiesoft-books/books/aethel/era-3-the-age-of-tides/book-i-the-glass-sea",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Chapter 1: The Tide and the Torch",
-                            "file_path": "b003/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Chapter 1: The Tide and the Torch",
+                            "file_path": "e003/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Chapter 2: The Heart of the World",
-                            "file_path": "b003/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Chapter 2: The Heart of the World",
+                            "file_path": "e003/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: Chapter 3: The Weave of the Water",
-                            "file_path": "b003/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Chapter 3: The Weave of the Water",
+                            "file_path": "e003/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: Chapter 4: The Gyre",
-                            "file_path": "b003/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Chapter 4: The Gyre",
+                            "file_path": "e003/c001/s004.md"
                         }
                     ]
                 },
@@ -150,70 +149,70 @@
                     "chap_num": 2,
                     "chap_title": "Book II: The Star-Eater",
                     "chap_url": "/raggiesoft-books/books/aethel/era-3-the-age-of-tides/book-ii-the-star-eater",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Chapter 1: The Silent Sector",
-                            "file_path": "b003/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Chapter 1: The Silent Sector",
+                            "file_path": "e003/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Chapter 2: The Ribcage of the Gods",
-                            "file_path": "b003/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Chapter 2: The Ribcage of the Gods",
+                            "file_path": "e003/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: Chapter 3: The War for the Mind",
-                            "file_path": "b003/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Chapter 3: The War for the Mind",
+                            "file_path": "e003/c002/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: Chapter 4: The Long Way Down",
-                            "file_path": "b003/c002/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Chapter 4: The Long Way Down",
+                            "file_path": "e003/c002/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: Chapter 5: The Cottage",
-                            "file_path": "b003/c002/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Chapter 5: The Cottage",
+                            "file_path": "e003/c002/s005.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 4,
-            "book_title": "Era 4: The Iron Heart",
-            "book_url": "/raggiesoft-books/books/aethel/era-4-the-iron-heart",
+            "era_num": 4,
+            "era_title": "Era 4: The Iron Heart",
+            "era_url": "/raggiesoft-books/books/aethel/era-4-the-iron-heart",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Book I: The Magnetic North",
                     "chap_url": "/raggiesoft-books/books/aethel/era-4-the-iron-heart/book-i-the-magnetic-north",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Chapter 1: The Art of Doing Nothing",
-                            "file_path": "b004/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Chapter 1: The Art of Doing Nothing",
+                            "file_path": "e004/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Chapter 2: The Alarm Clock",
-                            "file_path": "b004/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Chapter 2: The Alarm Clock",
+                            "file_path": "e004/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: Chapter 3: The Magnetic Highway",
-                            "file_path": "b004/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Chapter 3: The Magnetic Highway",
+                            "file_path": "e004/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: Chapter 4: The Clockwork Ocean",
-                            "file_path": "b004/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Chapter 4: The Clockwork Ocean",
+                            "file_path": "e004/c001/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: Chapter 4: The Return Journey",
-                            "file_path": "b004/c001/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Chapter 4: The Return Journey",
+                            "file_path": "e004/c001/s005.md"
                         }
                     ]
                 },
@@ -221,36 +220,36 @@
                     "chap_num": 2,
                     "chap_title": "Book II: The Pilgrimage",
                     "chap_url": "/raggiesoft-books/books/aethel/era-4-the-iron-heart/book-ii-the-pilgrimage",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Chapter 1: The Privacy of Stone",
-                            "file_path": "b004/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Chapter 1: The Privacy of Stone",
+                            "file_path": "e004/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Chapter 2: The Smoke and the Fire",
-                            "file_path": "b004/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Chapter 2: The Smoke and the Fire",
+                            "file_path": "e004/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: Chapter 3: The Council of Neighbors",
-                            "file_path": "b004/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Chapter 3: The Council of Neighbors",
+                            "file_path": "e004/c002/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: Chapter 4: The King at the Gate",
-                            "file_path": "b004/c002/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Chapter 4: The King at the Gate",
+                            "file_path": "e004/c002/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: Chapter 5: The Demon and the Witch",
-                            "file_path": "b004/c002/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Chapter 5: The Demon and the Witch",
+                            "file_path": "e004/c002/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: Chapter 6: The Starlight Check-In",
-                            "file_path": "b004/c002/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: Chapter 6: The Starlight Check-In",
+                            "file_path": "e004/c002/s006.md"
                         }
                     ]
                 },
@@ -258,21 +257,21 @@
                     "chap_num": 3,
                     "chap_title": "Book III: The Zero Point",
                     "chap_url": "/raggiesoft-books/books/aethel/era-4-the-iron-heart/book-iii-the-zero-point",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Prologue: The Silence Between Stars",
-                            "file_path": "b004/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Prologue: The Silence Between Stars",
+                            "file_path": "e004/c003/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Chapter 1: The Shadow at Noon",
-                            "file_path": "b004/c003/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Chapter 1: The Shadow at Noon",
+                            "file_path": "e004/c003/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: Chapter 2: The Needle and the Shroud",
-                            "file_path": "b004/c003/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Chapter 2: The Needle and the Shroud",
+                            "file_path": "e004/c003/s003.md"
                         }
                     ]
                 }

@@ -4,7 +4,7 @@
 * **Track Title:** Fragmentation: Debris Field
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Heavy Rock / Industrial / Arena Rock
-* **Real-World DSP Release Date:** 2026-09-27
+* **Real-World DSP Release Date:** 2026-10-11
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes

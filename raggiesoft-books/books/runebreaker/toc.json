@@ -5,32 +5,31 @@
     "series_description_long": "---\ntitle: \"Dream Kingdom\"\n---\nEnter the *Dream Kingdom*, a breathtaking, ethereal realm where the boundaries between imagination and reality dissolve. This series is a visually stunning, emotionally resonant journey through a world shaped by hope, fear, and the subconscious mind, offering a profound exploration of what it means to truly awaken.",
     "series_image": "/raggiesoft-books/images/covers/2x3/dream-kingdom.jpg",
     "next_series_url": "",
-    "next_series_text": "",
-    "books": [
+    "eras": [
         {
-            "book_num": 1,
-            "book_title": "Book 1: The Dream Kingdom",
-            "book_url": "/raggiesoft-books/books/runebreaker/book-1-the-dream-kingdom",
+            "era_num": 1,
+            "era_title": "Book 1: The Dream Kingdom",
+            "era_url": "/raggiesoft-books/books/runebreaker/book-1-the-dream-kingdom",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Analog Jammer \u2013 Friday, October 30, 1992",
                     "chap_url": "/raggiesoft-books/books/runebreaker/book-1-the-dream-kingdom/chapter-1-the-analog-jammer-friday-october-30-1992",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Untitled Chapter",
-                            "file_path": "b001/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Untitled Chapter",
+                            "file_path": "e001/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Untitled Chapter",
-                            "file_path": "b001/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Untitled Chapter",
+                            "file_path": "e001/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: Untitled Chapter",
-                            "file_path": "b001/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Untitled Chapter",
+                            "file_path": "e001/c001/s003.md"
                         }
                     ]
                 },
@@ -38,21 +37,21 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Ghost in the Dark \u2013 Saturday, October 31, 1992",
                     "chap_url": "/raggiesoft-books/books/runebreaker/book-1-the-dream-kingdom/chapter-2-the-ghost-in-the-dark-saturday-october-31-1992",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Untitled Chapter",
-                            "file_path": "b001/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Untitled Chapter",
+                            "file_path": "e001/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Untitled Chapter",
-                            "file_path": "b001/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Untitled Chapter",
+                            "file_path": "e001/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: Untitled Chapter",
-                            "file_path": "b001/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Untitled Chapter",
+                            "file_path": "e001/c002/s003.md"
                         }
                     ]
                 }

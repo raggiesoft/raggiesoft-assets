@@ -5,22 +5,21 @@
     "series_description_long": "---\ntitle: \"Crimson Node\"\n---\nDive into the dark, pulsating heart of the digital underground with *Crimson Node*. This gripping narrative explores the dangerous world of corporate espionage, high-stakes hacking, and the terrifying implications of a mysterious project known only as the Crimson Node. It's a thrilling ride through a world where data is the ultimate weapon.",
     "series_image": "/raggiesoft-books/images/covers/2x3/crimson-node.jpg",
     "next_series_url": "",
-    "next_series_text": "",
-    "books": [
+    "eras": [
         {
-            "book_num": 1,
-            "book_title": "Book 1: The Illusion",
-            "book_url": "/raggiesoft-books/books/crimson-node/book-1-the-illusion",
+            "era_num": 1,
+            "era_title": "Book 1: The Illusion",
+            "era_url": "/raggiesoft-books/books/crimson-node/book-1-the-illusion",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Approach &ndash; Friday, April 23, 1999",
                     "chap_url": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-1-the-approach-ndash-friday-april-23-1999",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Anomalies",
-                            "file_path": "b001/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Anomalies",
+                            "file_path": "e001/c001/s001.md"
                         }
                     ]
                 },
@@ -28,26 +27,26 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Core Ecosystem &ndash; Friday, April 30, 1999",
                     "chap_url": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-2-the-core-ecosystem-ndash-friday-april-30-1999",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Commons",
-                            "file_path": "b001/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Commons",
+                            "file_path": "e001/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: 6th Period Lunch",
-                            "file_path": "b001/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: 6th Period Lunch",
+                            "file_path": "e001/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Omni-Q Incident",
-                            "file_path": "b001/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Omni-Q Incident",
+                            "file_path": "e001/c002/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Fallout",
-                            "file_path": "b001/c002/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Fallout",
+                            "file_path": "e001/c002/s004.md"
                         }
                     ]
                 },
@@ -55,46 +54,46 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Triple Birthday &ndash; Sunday, May 2, 1999",
                     "chap_url": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-3-the-triple-birthday-ndash-sunday-may-2-1999",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Morning Routine",
-                            "file_path": "b001/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Morning Routine",
+                            "file_path": "e001/c003/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Breakfast Spread",
-                            "file_path": "b001/c003/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Breakfast Spread",
+                            "file_path": "e001/c003/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Stadium Seating",
-                            "file_path": "b001/c003/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Stadium Seating",
+                            "file_path": "e001/c003/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Majesty Express",
-                            "file_path": "b001/c003/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Majesty Express",
+                            "file_path": "e001/c003/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Simulation",
-                            "file_path": "b001/c003/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Simulation",
+                            "file_path": "e001/c003/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: Player Two",
-                            "file_path": "b001/c003/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: Player Two",
+                            "file_path": "e001/c003/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Legal Baseline",
-                            "file_path": "b001/c003/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Legal Baseline",
+                            "file_path": "e001/c003/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Triad",
-                            "file_path": "b001/c003/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Triad",
+                            "file_path": "e001/c003/s008.md"
                         }
                     ]
                 },
@@ -102,41 +101,41 @@
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Failed Apology &ndash; Monday, May 3, 1999",
                     "chap_url": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-4-the-failed-apology-ndash-monday-may-3-1999",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Band Room Hallway",
-                            "file_path": "b001/c004/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Band Room Hallway",
+                            "file_path": "e001/c004/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Principal's Office",
-                            "file_path": "b001/c004/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Principal's Office",
+                            "file_path": "e001/c004/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: Interlude \u2013 The Phone Call",
-                            "file_path": "b001/c004/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Interlude \u2013 The Phone Call",
+                            "file_path": "e001/c004/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Rumor Mill \u2013 6th Period Lunch",
-                            "file_path": "b001/c004/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Rumor Mill \u2013 6th Period Lunch",
+                            "file_path": "e001/c004/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The ISS Trailer",
-                            "file_path": "b001/c004/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The ISS Trailer",
+                            "file_path": "e001/c004/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Charlottesville Plan",
-                            "file_path": "b001/c004/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Charlottesville Plan",
+                            "file_path": "e001/c004/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Final Transfer",
-                            "file_path": "b001/c004/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Final Transfer",
+                            "file_path": "e001/c004/s007.md"
                         }
                     ]
                 },
@@ -144,31 +143,31 @@
                     "chap_num": 5,
                     "chap_title": "Interlude: The Reckoning",
                     "chap_url": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/interlude-the-reckoning",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The New Hierarchy",
-                            "file_path": "b001/c005/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The New Hierarchy",
+                            "file_path": "e001/c005/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Empathy Drill",
-                            "file_path": "b001/c005/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Empathy Drill",
+                            "file_path": "e001/c005/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Ghost Letter",
-                            "file_path": "b001/c005/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Ghost Letter",
+                            "file_path": "e001/c005/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Empty Frame",
-                            "file_path": "b001/c005/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Empty Frame",
+                            "file_path": "e001/c005/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Thunderstorm",
-                            "file_path": "b001/c005/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Thunderstorm",
+                            "file_path": "e001/c005/s005.md"
                         }
                     ]
                 },
@@ -176,31 +175,31 @@
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Senior Prom &ndash; May 1999",
                     "chap_url": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-6-the-senior-prom-ndash-may-1999",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Request",
-                            "file_path": "b001/c006/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Request",
+                            "file_path": "e001/c006/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Chesapeake Bay Mall",
-                            "file_path": "b001/c006/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Chesapeake Bay Mall",
+                            "file_path": "e001/c006/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Preparation",
-                            "file_path": "b001/c006/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Preparation",
+                            "file_path": "e001/c006/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Assault",
-                            "file_path": "b001/c006/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Assault",
+                            "file_path": "e001/c006/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Aftermath",
-                            "file_path": "b001/c006/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Aftermath",
+                            "file_path": "e001/c006/s005.md"
                         }
                     ]
                 },
@@ -208,16 +207,16 @@
                     "chap_num": 7,
                     "chap_title": "Chapter 7: The Blueprint",
                     "chap_url": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-7-the-blueprint",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: A New Day",
-                            "file_path": "b001/c007/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: A New Day",
+                            "file_path": "e001/c007/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Plan",
-                            "file_path": "b001/c007/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Plan",
+                            "file_path": "e001/c007/s002.md"
                         }
                     ]
                 },
@@ -225,21 +224,21 @@
                     "chap_num": 8,
                     "chap_title": "Chapter 8: The Administration",
                     "chap_url": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-8-the-administration",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Drop-Off",
-                            "file_path": "b001/c008/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Drop-Off",
+                            "file_path": "e001/c008/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Municipal Center",
-                            "file_path": "b001/c008/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Municipal Center",
+                            "file_path": "e001/c008/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Victory",
-                            "file_path": "b001/c008/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Victory",
+                            "file_path": "e001/c008/s003.md"
                         }
                     ]
                 }

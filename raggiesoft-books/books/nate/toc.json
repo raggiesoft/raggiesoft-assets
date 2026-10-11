@@ -5,91 +5,90 @@
     "series_description_long": "---\ntitle: \"Nate\"\n---\n*Nate* is a raw, beautiful exploration of chronic illness, intense sibling devotion, and the critical importance of autonomy. As Sarah navigates the physical and emotional demands of caring for her brother Nate, they build a world defined not by limitations, but by fierce love, profound understanding, and the quiet, delicious acts of rebellion that make life worth living.",
     "series_image": "/raggiesoft-books/images/covers/2x3/nate.jpg",
     "next_series_url": "",
-    "next_series_text": "",
-    "books": [
+    "eras": [
         {
-            "book_num": 1,
-            "book_title": "Book: The Architecture of Safe Spaces",
-            "book_url": "/raggiesoft-books/books/nate/book-the-architecture-of-safe-spaces",
+            "era_num": 1,
+            "era_title": "Book: The Architecture of Safe Spaces",
+            "era_url": "/raggiesoft-books/books/nate/book-the-architecture-of-safe-spaces",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Triplet Anomaly \u2014 Saturday, April 16, 1994",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-architecture-of-safe-spaces/chapter-1-the-triplet-anomaly-saturday-april-16-1994",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Rhythmic Drumming",
-                            "file_path": "b001/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Rhythmic Drumming",
+                            "file_path": "e001/c001/s001.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 2,
-            "book_title": "Book: The Demolition of the Cage",
-            "book_url": "/raggiesoft-books/books/nate/book-the-demolition-of-the-cage",
+            "era_num": 2,
+            "era_title": "Book: The Demolition of the Cage",
+            "era_url": "/raggiesoft-books/books/nate/book-the-demolition-of-the-cage",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Line in the Sand - Friday, November 10, 2006",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-demolition-of-the-cage/chapter-1-the-line-in-the-sand-friday-november-10-2006",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Hydraulic Hiss And Heavy",
-                            "file_path": "b002/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Hydraulic Hiss And Heavy",
+                            "file_path": "e002/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Nate Slowly Turned His Manual",
-                            "file_path": "b002/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Nate Slowly Turned His Manual",
+                            "file_path": "e002/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Digital Clock",
-                            "file_path": "b002/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Digital Clock",
+                            "file_path": "e002/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Transition From The Chaotic",
-                            "file_path": "b002/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Transition From The Chaotic",
+                            "file_path": "e002/c001/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Sedan Hummed Steadily Along",
-                            "file_path": "b002/c001/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Sedan Hummed Steadily Along",
+                            "file_path": "e002/c001/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: Evelyn Turned The Sedan Into",
-                            "file_path": "b002/c001/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: Evelyn Turned The Sedan Into",
+                            "file_path": "e002/c001/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: Placeholder For Local Generation",
-                            "file_path": "b002/c001/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: Placeholder For Local Generation",
+                            "file_path": "e002/c001/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Hot Water Had Done",
-                            "file_path": "b002/c001/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Hot Water Had Done",
+                            "file_path": "e002/c001/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: Evelyn Walked Back Into",
-                            "file_path": "b002/c001/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: Evelyn Walked Back Into",
+                            "file_path": "e002/c001/s009.md"
                         },
                         {
-                            "part_num": 10,
-                            "part_title": "Part 10: The Transition From Chronic Survival-Mode",
-                            "file_path": "b002/c001/p010.md"
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: The Transition From Chronic Survival-Mode",
+                            "file_path": "e002/c001/s010.md"
                         },
                         {
-                            "part_num": 11,
-                            "part_title": "Part 11: Nate Woke Up",
-                            "file_path": "b002/c001/p011.md"
+                            "scene_num": 11,
+                            "scene_title": "Scene 11: Nate Woke Up",
+                            "file_path": "e002/c001/s011.md"
                         }
                     ]
                 },
@@ -97,31 +96,31 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Reinforcements - Saturday, November 11, 2006",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-demolition-of-the-cage/chapter-2-the-reinforcements-saturday-november-11-2006",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Nate Woke Up",
-                            "file_path": "b002/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Nate Woke Up",
+                            "file_path": "e002/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Fluorescent Lights Of Lambert-St",
-                            "file_path": "b002/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Fluorescent Lights Of Lambert-St",
+                            "file_path": "e002/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Click Of The Phone",
-                            "file_path": "b002/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Click Of The Phone",
+                            "file_path": "e002/c002/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Crisp Bright November Air",
-                            "file_path": "b002/c002/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Crisp Bright November Air",
+                            "file_path": "e002/c002/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Heavy Frosted Glass Doors",
-                            "file_path": "b002/c002/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Heavy Frosted Glass Doors",
+                            "file_path": "e002/c002/s005.md"
                         }
                     ]
                 },
@@ -129,55 +128,55 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: Christmas Holiday \u2013 Saturday, December 23<sup>rd</sup>, 2026",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-demolition-of-the-cage/chapter-3-christmas-holiday-saturday-december-23rd-2026",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Chesapeake Bay Mall Was",
-                            "file_path": "b002/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Chesapeake Bay Mall Was",
+                            "file_path": "e002/c003/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Glass Elevator Chimed",
-                            "file_path": "b002/c003/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Glass Elevator Chimed",
+                            "file_path": "e002/c003/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Giant Cheese-Covered Pretzel Had",
-                            "file_path": "b002/c003/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Giant Cheese-Covered Pretzel Had",
+                            "file_path": "e002/c003/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Heavy Glass Doors",
-                            "file_path": "b002/c003/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Heavy Glass Doors",
+                            "file_path": "e002/c003/s004.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 3,
-            "book_title": "Book: The Architecture of a Safe Space",
-            "book_url": "/raggiesoft-books/books/nate/book-the-architecture-of-a-safe-space",
+            "era_num": 3,
+            "era_title": "Book: The Architecture of a Safe Space",
+            "era_url": "/raggiesoft-books/books/nate/book-the-architecture-of-a-safe-space",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Fortress \u2013 Thursday, August 23, 2007",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-architecture-of-a-safe-space/chapter-1-the-fortress-thursday-august-23-2007",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Hydraulic Hiss",
-                            "file_path": "b003/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Hydraulic Hiss",
+                            "file_path": "e003/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The #25 Bus Groaned",
-                            "file_path": "b003/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The #25 Bus Groaned",
+                            "file_path": "e003/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Transition From The Late-Summer",
-                            "file_path": "b003/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Transition From The Late-Summer",
+                            "file_path": "e003/c001/s003.md"
                         }
                     ]
                 },
@@ -185,36 +184,36 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Logistics of Trust \u2013 Friday, August 24, 2007",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-architecture-of-a-safe-space/chapter-2-the-logistics-of-trust-friday-august-24-2007",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Alarm Went Off",
-                            "file_path": "b003/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Alarm Went Off",
+                            "file_path": "e003/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: At Exactly Ten Minutes",
-                            "file_path": "b003/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: At Exactly Ten Minutes",
+                            "file_path": "e003/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Transition Out",
-                            "file_path": "b003/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Transition Out",
+                            "file_path": "e003/c002/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The 1130 Am Dismissal Was",
-                            "file_path": "b003/c002/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The 1130 Am Dismissal Was",
+                            "file_path": "e003/c002/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Community College Of Hampton",
-                            "file_path": "b003/c002/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Community College Of Hampton",
+                            "file_path": "e003/c002/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: Saturday Morning Was Completely Silent",
-                            "file_path": "b003/c002/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: Saturday Morning Was Completely Silent",
+                            "file_path": "e003/c002/s006.md"
                         }
                     ]
                 },
@@ -222,11 +221,11 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: Expanding the Perimeter \u2013 Monday, August 27, 2007",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-architecture-of-a-safe-space/chapter-3-expanding-the-perimeter-monday-august-27-2007",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Weekend Ended But",
-                            "file_path": "b003/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Weekend Ended But",
+                            "file_path": "e003/c003/s001.md"
                         }
                     ]
                 }

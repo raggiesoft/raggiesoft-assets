@@ -5,57 +5,56 @@
     "series_description_long": "---\ntitle: \"The Drew Narrative\"\ndate: \"2026-10-07\"\n---\nWelcome to Drew's story. This narrative explores the life of Drew, his twin sister Maggie, and the profound, enduring strength it takes to navigate a world forever changed by the events of the Dojang.\n\n",
     "series_image": "/raggiesoft-books/images/covers/2x3/drew.jpg",
     "next_series_url": "",
-    "next_series_text": "",
-    "books": [
+    "eras": [
         {
-            "book_num": 1,
-            "book_title": "Book 1: The Hospital Year",
-            "book_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year",
+            "era_num": 1,
+            "era_title": "Book 1: The Hospital Year",
+            "era_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Dojang Incident",
                     "chap_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-1-the-dojang-incident",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Core Check",
-                            "file_path": "b001/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Core Check",
+                            "file_path": "e001/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Rest of the Hour",
-                            "file_path": "b001/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Rest of the Hour",
+                            "file_path": "e001/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Front Office",
-                            "file_path": "b001/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Front Office",
+                            "file_path": "e001/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: Unannounced Arrival",
-                            "file_path": "b001/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Unannounced Arrival",
+                            "file_path": "e001/c001/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Payphone",
-                            "file_path": "b001/c001/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Payphone",
+                            "file_path": "e001/c001/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Consultation Room",
-                            "file_path": "b001/c001/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Consultation Room",
+                            "file_path": "e001/c001/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Other Victims",
-                            "file_path": "b001/c001/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Other Victims",
+                            "file_path": "e001/c001/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Paperwork",
-                            "file_path": "b001/c001/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Paperwork",
+                            "file_path": "e001/c001/s008.md"
                         }
                     ]
                 },
@@ -63,41 +62,41 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Aftermath",
                     "chap_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-2-the-aftermath",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Post-Op",
-                            "file_path": "b001/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Post-Op",
+                            "file_path": "e001/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The PICU",
-                            "file_path": "b001/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The PICU",
+                            "file_path": "e001/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: Waking Up",
-                            "file_path": "b001/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Waking Up",
+                            "file_path": "e001/c002/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: Suite F",
-                            "file_path": "b001/c002/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Suite F",
+                            "file_path": "e001/c002/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Manifesto",
-                            "file_path": "b001/c002/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Manifesto",
+                            "file_path": "e001/c002/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Sofa",
-                            "file_path": "b001/c002/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Sofa",
+                            "file_path": "e001/c002/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Coalition",
-                            "file_path": "b001/c002/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Coalition",
+                            "file_path": "e001/c002/s007.md"
                         }
                     ]
                 },
@@ -105,11 +104,11 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Vow",
                     "chap_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-3-the-vow",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Vow",
-                            "file_path": "b001/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Vow",
+                            "file_path": "e001/c003/s001.md"
                         }
                     ]
                 },
@@ -117,11 +116,11 @@
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Racecar",
                     "chap_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-4-the-racecar",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Racecar",
-                            "file_path": "b001/c004/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Racecar",
+                            "file_path": "e001/c004/s001.md"
                         }
                     ]
                 },
@@ -129,11 +128,11 @@
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Hospital Haunt",
                     "chap_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-5-the-hospital-haunt",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Hospital Haunt",
-                            "file_path": "b001/c005/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Hospital Haunt",
+                            "file_path": "e001/c005/s001.md"
                         }
                     ]
                 },
@@ -141,11 +140,11 @@
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Hospital Classroom",
                     "chap_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-6-the-hospital-classroom",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Hospital Classroom",
-                            "file_path": "b001/c006/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Hospital Classroom",
+                            "file_path": "e001/c006/s001.md"
                         }
                     ]
                 },
@@ -153,11 +152,11 @@
                     "chap_num": 7,
                     "chap_title": "Chapter 7: The Empty Beds",
                     "chap_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-7-the-empty-beds",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Empty Beds",
-                            "file_path": "b001/c007/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Empty Beds",
+                            "file_path": "e001/c007/s001.md"
                         }
                     ]
                 },
@@ -165,11 +164,11 @@
                     "chap_num": 8,
                     "chap_title": "Chapter 8: A Hospital Thanksgiving",
                     "chap_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-8-a-hospital-thanksgiving",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: A Hospital Thanksgiving",
-                            "file_path": "b001/c008/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: A Hospital Thanksgiving",
+                            "file_path": "e001/c008/s001.md"
                         }
                     ]
                 },
@@ -177,11 +176,11 @@
                     "chap_num": 9,
                     "chap_title": "Chapter 9: The Exhaustion",
                     "chap_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-9-the-exhaustion",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Exhaustion",
-                            "file_path": "b001/c009/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Exhaustion",
+                            "file_path": "e001/c009/s001.md"
                         }
                     ]
                 },
@@ -189,11 +188,11 @@
                     "chap_num": 10,
                     "chap_title": "Chapter 10: A Hospital Christmas",
                     "chap_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-10-a-hospital-christmas",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: A Hospital Christmas",
-                            "file_path": "b001/c010/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: A Hospital Christmas",
+                            "file_path": "e001/c010/s001.md"
                         }
                     ]
                 },
@@ -201,11 +200,11 @@
                     "chap_num": 11,
                     "chap_title": "Chapter 11: Pennies on the Dollar",
                     "chap_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-11-pennies-on-the-dollar",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Pennies on the Dollar",
-                            "file_path": "b001/c011/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Pennies on the Dollar",
+                            "file_path": "e001/c011/s001.md"
                         }
                     ]
                 },
@@ -213,11 +212,11 @@
                     "chap_num": 12,
                     "chap_title": "Chapter 12: Midnight on the Ward",
                     "chap_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-12-midnight-on-the-ward",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Midnight on the Ward",
-                            "file_path": "b001/c012/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Midnight on the Ward",
+                            "file_path": "e001/c012/s001.md"
                         }
                     ]
                 },
@@ -225,11 +224,11 @@
                     "chap_num": 13,
                     "chap_title": "Chapter 13: Going Home",
                     "chap_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-13-going-home",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Going Home",
-                            "file_path": "b001/c013/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Going Home",
+                            "file_path": "e001/c013/s001.md"
                         }
                     ]
                 },
@@ -237,11 +236,11 @@
                     "chap_num": 14,
                     "chap_title": "Chapter 14: Seven",
                     "chap_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-14-seven",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Seven",
-                            "file_path": "b001/c014/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Seven",
+                            "file_path": "e001/c014/s001.md"
                         }
                     ]
                 },
@@ -249,35 +248,35 @@
                     "chap_num": 15,
                     "chap_title": "Chapter 15: The Short Bus",
                     "chap_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-15-the-short-bus",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Short Bus",
-                            "file_path": "b001/c015/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Short Bus",
+                            "file_path": "e001/c015/s001.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 2,
-            "book_title": "Book 2: The Fallout",
-            "book_url": "/raggiesoft-books/books/drew/book-2-the-fallout",
+            "era_num": 2,
+            "era_title": "Book 2: The Fallout",
+            "era_url": "/raggiesoft-books/books/drew/book-2-the-fallout",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Bankruptcy",
                     "chap_url": "/raggiesoft-books/books/drew/book-2-the-fallout/chapter-1-bankruptcy",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Chapter 7 Bankruptcy",
-                            "file_path": "b002/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Chapter 7 Bankruptcy",
+                            "file_path": "e002/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Linoleum Room",
-                            "file_path": "b002/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Linoleum Room",
+                            "file_path": "e002/c001/s002.md"
                         }
                     ]
                 },
@@ -285,11 +284,11 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Mandatory Reporters",
                     "chap_url": "/raggiesoft-books/books/drew/book-2-the-fallout/chapter-2-the-mandatory-reporters",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Mandatory Reporters",
-                            "file_path": "b002/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Mandatory Reporters",
+                            "file_path": "e002/c002/s001.md"
                         }
                     ]
                 },
@@ -297,35 +296,35 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Trap",
                     "chap_url": "/raggiesoft-books/books/drew/book-2-the-fallout/chapter-3-the-trap",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Trap",
-                            "file_path": "b002/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Trap",
+                            "file_path": "e002/c003/s001.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 3,
-            "book_title": "Book 3: The New Normal",
-            "book_url": "/raggiesoft-books/books/drew/book-3-the-new-normal",
+            "era_num": 3,
+            "era_title": "Book 3: The New Normal",
+            "era_url": "/raggiesoft-books/books/drew/book-3-the-new-normal",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Emergency",
                     "chap_url": "/raggiesoft-books/books/drew/book-3-the-new-normal/chapter-1-the-emergency",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Curtain Compromise",
-                            "file_path": "b003/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Curtain Compromise",
+                            "file_path": "e003/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Emergency",
-                            "file_path": "b003/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Emergency",
+                            "file_path": "e003/c001/s002.md"
                         }
                     ]
                 }

@@ -1,0 +1,211 @@
+{
+  "tracks": [
+    {
+      "fileName": "1-01-main-theme",
+      "title": "Main Theme",
+      "masterWavPath": "studio/main-theme",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 1,
+      "duration": "3:19"
+    },
+    {
+      "fileName": "1-02-insert-coin",
+      "title": "Insert Coin",
+      "masterWavPath": "studio/insert-coin",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 2,
+      "duration": "3:58"
+    },
+    {
+      "fileName": "1-03-static-and-pixels",
+      "title": "Static and Pixels",
+      "masterWavPath": "studio/static-and-pixels",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 3,
+      "duration": "3:41"
+    },
+    {
+      "fileName": "1-04-oceas-theme",
+      "title": "Ocea's Theme",
+      "masterWavPath": "studio/oceas-theme",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 4,
+      "duration": "2:37"
+    },
+    {
+      "fileName": "1-05-the-crystal-plains",
+      "title": "The Crystal Plains",
+      "masterWavPath": "studio/the-crystal-plains",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 5,
+      "duration": "2:38"
+    },
+    {
+      "fileName": "1-06-sanctuary-village",
+      "title": "Sanctuary Village",
+      "masterWavPath": "studio/sanctuary-village",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 6,
+      "duration": "2:54"
+    },
+    {
+      "fileName": "1-07-sanctuary-inn",
+      "title": "Sanctuary Inn",
+      "masterWavPath": "studio/sanctuary-inn",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 7,
+      "duration": "2:17"
+    },
+    {
+      "fileName": "1-08-the-crystal-sage",
+      "title": "The Crystal Sage",
+      "masterWavPath": "studio/the-crystal-sage",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 8,
+      "duration": "3:03"
+    },
+    {
+      "fileName": "1-09-half-a-medallion",
+      "title": "Half a Medallion",
+      "masterWavPath": "studio/half-a-medallion",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 9,
+      "duration": "3:44"
+    },
+    {
+      "fileName": "1-10-glitch-phantoms",
+      "title": "Glitch Phantoms",
+      "masterWavPath": "studio/glitch-phantoms",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 10,
+      "duration": "2:32"
+    },
+    {
+      "fileName": "1-11-the-iron-sentinels",
+      "title": "The Iron Sentinels",
+      "masterWavPath": "studio/the-iron-sentinels",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 11,
+      "duration": "2:45"
+    },
+    {
+      "fileName": "1-12-tays-theme",
+      "title": "Tay's Theme",
+      "masterWavPath": "studio/tays-theme",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 12,
+      "duration": "2:52"
+    },
+    {
+      "fileName": "1-13-the-grand-decree",
+      "title": "The Grand Decree",
+      "masterWavPath": "studio/the-grand-decree",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 13,
+      "duration": "5:04"
+    },
+    {
+      "fileName": "1-14-golden-data",
+      "title": "Golden Data",
+      "masterWavPath": "studio/golden-data",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 14,
+      "duration": "2:09"
+    },
+    {
+      "fileName": "1-15-dungeon-escape",
+      "title": "Dungeon Escape",
+      "masterWavPath": "studio/dungeon-escape",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 15,
+      "duration": "2:42"
+    },
+    {
+      "fileName": "1-16-guardian-of-the-gate",
+      "title": "Guardian of the Gate",
+      "masterWavPath": "studio/guardian-of-the-gate",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 16,
+      "duration": "3:07"
+    },
+    {
+      "fileName": "1-17-the-corrupted-ceremony",
+      "title": "The Corrupted Ceremony",
+      "masterWavPath": "studio/the-corrupted-ceremony",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 17,
+      "duration": "2:57"
+    },
+    {
+      "fileName": "1-18-the-wizards-ruin",
+      "title": "The Wizard's Ruin",
+      "masterWavPath": "studio/the-wizards-ruin",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 18,
+      "duration": "3:28"
+    },
+    {
+      "fileName": "1-19-the-wizards-lair-phase-one",
+      "title": "The Wizard's Lair",
+      "masterWavPath": "studio/the-wizards-lair-phase-one",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 19,
+      "duration": "2:52"
+    },
+    {
+      "fileName": "1-20-the-true-form",
+      "title": "The True Form",
+      "masterWavPath": "studio/the-true-form",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 20,
+      "duration": "2:58"
+    },
+    {
+      "fileName": "1-21-the-grand-decree-reprise",
+      "title": "The Grand Decree (Reprise)",
+      "masterWavPath": "studio/the-grand-decree-reprise",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 21,
+      "duration": "3:08"
+    },
+    {
+      "fileName": "1-22-game-over",
+      "title": "Game Over",
+      "masterWavPath": "studio/game-over",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 22,
+      "duration": "3:18"
+    },
+    {
+      "fileName": "1-23-save-state-staff-roll",
+      "title": "Save State",
+      "masterWavPath": "studio/save-state-staff-roll",
+      "disc": 1,
+      "discName": "Runebreaker",
+      "track": 23,
+      "duration": "3:23"
+    }
+  ]
+}

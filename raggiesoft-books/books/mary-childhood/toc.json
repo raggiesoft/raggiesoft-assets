@@ -5,27 +5,26 @@
     "series_description_long": "---\ntitle: \"Mary Childhood\"\n---\n*Mary's Childhood* is a nostalgic, beautifully rendered exploration of growing up in a chaotic but fiercely loving household. From transforming the living room rug into an active battlefield to the quiet, protective presence of older brothers, this narrative captures the innocence, imagination, and absolute sanctuary of a happy childhood.",
     "series_image": "/raggiesoft-books/images/covers/2x3/mary-childhood.jpg",
     "next_series_url": "/raggiesoft-books/books/ashley-tower/b001/c001/p001",
-    "next_series_text": "Continue to Ashley Tower",
-    "books": [
+    "eras": [
         {
-            "book_num": 1,
-            "book_title": "Mary's Early Years",
-            "book_url": "/raggiesoft-books/books/mary-childhood/mary-s-early-years",
+            "era_num": 1,
+            "era_title": "Mary's Early Years",
+            "era_url": "/raggiesoft-books/books/mary-childhood/mary-s-early-years",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: A Moment of Peace",
                     "chap_url": "/raggiesoft-books/books/mary-childhood/mary-s-early-years/chapter-1-a-moment-of-peace",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: High Command",
-                            "file_path": "b001/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: High Command",
+                            "file_path": "e001/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Untitled Chapter",
-                            "file_path": "b001/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Untitled Chapter",
+                            "file_path": "e001/c001/s002.md"
                         }
                     ]
                 }

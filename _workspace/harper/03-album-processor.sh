@@ -132,8 +132,56 @@ sort -n "$TEMP_SORTED_ALBUMS" | cut -d'|' -f2 | while read tracks_file; do
     # --------------------------------------------------------------------------
     # 4. Album Art Optimization
     # --------------------------------------------------------------------------
-    # DistroKid rejects album art larger than ~3000px square. Downscale if necessary.
     UPSCALED_ART="streaming-services/album-art/$ART_FILE"
+    
+    # Run RealESRGAN upscale or just copy if not available
+    if [ -f "$ART_FILE" ] && [ ! -f "$UPSCALED_ART" ]; then
+        if [ "$USE_UPSCALER" = true ]; then
+            echo "      🖼️ HARPER: Upscaling album art ($ART_FILE)..."
+            if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
+                MODELS_PATH="$UPSCALER_BASE/windows/models"
+            elif [[ "$OSTYPE" == "darwin"* ]]; then
+                MODELS_PATH="$UPSCALER_BASE/macos/models"
+            else
+                MODELS_PATH="$UPSCALER_BASE/ubuntu/models"
+            fi
+            
+            # Additional args for iGPU safe mode
+            UPSCALER_ARGS=""
+            if [ "$IGPU_DETECTED" = true ]; then
+                UPSCALER_ARGS="-t 100"
+            fi
+            
+            "$UPSCALER_CMD" -n realesrgan-x4plus -i "$ART_FILE" -o "$UPSCALED_ART" -s 4 -m "$MODELS_PATH" -f jpg $UPSCALER_ARGS > /dev/null 2>&1
+        else
+            echo "      🖼️ HARPER: Copying album art (Upscaler disabled)..."
+            cp "$ART_FILE" "$UPSCALED_ART"
+        fi
+    elif [ -f "$ART_FILE" ] && [ "$OVERWRITE" = true ]; then
+        if [ "$USE_UPSCALER" = true ]; then
+            echo "      🖼️ HARPER: Re-upscaling album art ($ART_FILE)..."
+            if [[ "$OSTYPE" == "msys" || "$OSTYPE" == "cygwin" ]]; then
+                MODELS_PATH="$UPSCALER_BASE/windows/models"
+            elif [[ "$OSTYPE" == "darwin"* ]]; then
+                MODELS_PATH="$UPSCALER_BASE/macos/models"
+            else
+                MODELS_PATH="$UPSCALER_BASE/ubuntu/models"
+            fi
+            
+            # Additional args for iGPU safe mode
+            UPSCALER_ARGS=""
+            if [ "$IGPU_DETECTED" = true ]; then
+                UPSCALER_ARGS="-t 100"
+            fi
+            
+            "$UPSCALER_CMD" -n realesrgan-x4plus -i "$ART_FILE" -o "$UPSCALED_ART" -s 4 -m "$MODELS_PATH" -f jpg $UPSCALER_ARGS > /dev/null 2>&1
+        else
+            echo "      🖼️ HARPER: Re-copying album art (Upscaler disabled)..."
+            cp "$ART_FILE" "$UPSCALED_ART"
+        fi
+    fi
+
+    # DistroKid rejects album art larger than ~3000px square. Downscale if necessary.
     if [ -f "$UPSCALED_ART" ]; then
         if [[ "$OSTYPE" == "darwin"* ]]; then
             # macOS native sips utility

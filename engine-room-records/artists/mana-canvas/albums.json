@@ -1,0 +1,18 @@
+{
+  "artist": "Mana Canvas",
+  "eras": [
+    {
+      "name": "The 16-Bit Era",
+      "albums": [
+        {
+          "slug": "1992-runebreaker-ost",
+          "title": "Runebreaker (Original Soundtrack)",
+          "year": 1992,
+          "description": "An SPC-700 ambient 16-bit soundtrack chronicling Ocea's journey into the digital realm.",
+          "cover": "/raggiesoft-assets/engine-room-records/artists/mana-canvas/1992-runebreaker-ost/album-art.jpg"
+        }
+      ]
+    }
+  ]
+}
+

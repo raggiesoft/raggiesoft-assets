@@ -532,6 +532,17 @@ echo "👱‍♀️ JENNA: Compiling Narratives & Books..."
         echo "⚠️  JENNA: Could not find publish_books.php. Skipping compilation."
     fi
 
+    echo "👱‍♀️ JENNA: Generating EPUB and PDF eBooks..."
+    if [ -f "$NARRATIVES_ROOT/scripts/compile_ebooks.php" ]; then
+        php "$NARRATIVES_ROOT/scripts/compile_ebooks.php"
+        if [ $? -ne 0 ]; then
+            echo "🛑 JENNA: ABORTING! Failed to compile eBooks."
+            exit 1
+        fi
+    else
+        echo "⚠️  JENNA: Could not find compile_ebooks.php. Skipping eBook generation."
+    fi
+
     # 4. HUB PUSH
     echo "   1. Packaging the Hub..."
     if [ -d "$HUB_ROOT" ]; then

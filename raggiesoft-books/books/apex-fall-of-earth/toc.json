@@ -5,155 +5,154 @@
     "series_description_long": "---\ntitle: \"Apex Fall Of Earth\"\n---\nStep into the acoustic fortress of Studio B and witness the birth of a revolution. *Apex: Fall of Earth* chronicles the intense creative process, the corporate battles, and the brilliant minds behind Project APEX. This narrative delves deep into the struggles of artists fighting for their vision against the backdrop of a relentless music industry, blending intense character drama with the raw energy of creation.",
     "series_image": "/raggiesoft-books/images/covers/2x3/apex-fall-of-earth.jpg",
     "next_series_url": "",
-    "next_series_text": "",
-    "books": [
+    "eras": [
         {
-            "book_num": 1,
-            "book_title": "Wyatt\u2019s Prologue",
-            "book_url": "/raggiesoft-books/books/apex-fall-of-earth/wyatt-s-prologue",
+            "era_num": 1,
+            "era_title": "Wyatt\u2019s Prologue",
+            "era_url": "/raggiesoft-books/books/apex-fall-of-earth/wyatt-s-prologue",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Wyatt \u2013 Expendable Assets",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/wyatt-s-prologue/wyatt-expendable-assets",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Deep End \u2013 Mid-October 2044",
-                            "file_path": "b001/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Deep End \u2013 Mid-October 2044",
+                            "file_path": "e001/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Freight \u2013 Mid-October 2044",
-                            "file_path": "b001/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Freight \u2013 Mid-October 2044",
+                            "file_path": "e001/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Pipeline",
-                            "file_path": "b001/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Pipeline",
+                            "file_path": "e001/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: Intake",
-                            "file_path": "b001/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Intake",
+                            "file_path": "e001/c001/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Filing Cabinet",
-                            "file_path": "b001/c001/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Filing Cabinet",
+                            "file_path": "e001/c001/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Washroom",
-                            "file_path": "b001/c001/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Washroom",
+                            "file_path": "e001/c001/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Trough",
-                            "file_path": "b001/c001/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Trough",
+                            "file_path": "e001/c001/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Checkpoint",
-                            "file_path": "b001/c001/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Checkpoint",
+                            "file_path": "e001/c001/s008.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 2,
-            "book_title": "Sarah\u2019s Prologue",
-            "book_url": "/raggiesoft-books/books/apex-fall-of-earth/sarah-s-prologue",
+            "era_num": 2,
+            "era_title": "Sarah\u2019s Prologue",
+            "era_url": "/raggiesoft-books/books/apex-fall-of-earth/sarah-s-prologue",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Sarah \u2013 The Promise",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/sarah-s-prologue/sarah-the-promise",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: First Flight \u2013 Mid-October 2044",
-                            "file_path": "b002/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: First Flight \u2013 Mid-October 2044",
+                            "file_path": "e002/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Voyage \u2013 Mid-October 2044",
-                            "file_path": "b002/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Voyage \u2013 Mid-October 2044",
+                            "file_path": "e002/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Transfer",
-                            "file_path": "b002/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Transfer",
+                            "file_path": "e002/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Handoff",
-                            "file_path": "b002/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Handoff",
+                            "file_path": "e002/c001/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Glitch",
-                            "file_path": "b002/c001/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Glitch",
+                            "file_path": "e002/c001/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Washroom",
-                            "file_path": "b002/c001/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Washroom",
+                            "file_path": "e002/c001/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Divide",
-                            "file_path": "b002/c001/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Divide",
+                            "file_path": "e002/c001/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Checkpoint",
-                            "file_path": "b002/c001/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Checkpoint",
+                            "file_path": "e002/c001/s008.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 3,
-            "book_title": "The Acquisition",
-            "book_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition",
+            "era_num": 3,
+            "era_title": "The Acquisition",
+            "era_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Wyatt \u2013 Orientation Day",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition/wyatt-orientation-day",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Powder Keg",
-                            "file_path": "b003/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Powder Keg",
+                            "file_path": "e003/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Chain of Command",
-                            "file_path": "b003/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Chain of Command",
+                            "file_path": "e003/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Maintenance Closet",
-                            "file_path": "b003/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Maintenance Closet",
+                            "file_path": "e003/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Grind",
-                            "file_path": "b003/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Grind",
+                            "file_path": "e003/c001/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Break",
-                            "file_path": "b003/c001/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Break",
+                            "file_path": "e003/c001/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: 42-C",
-                            "file_path": "b003/c001/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: 42-C",
+                            "file_path": "e003/c001/s006.md"
                         }
                     ]
                 },
@@ -161,61 +160,61 @@
                     "chap_num": 2,
                     "chap_title": "The Second Shift",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition/the-second-shift",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Wake Up Call",
-                            "file_path": "b003/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Wake Up Call",
+                            "file_path": "e003/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Morning Ration",
-                            "file_path": "b003/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Morning Ration",
+                            "file_path": "e003/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Checkpoint",
-                            "file_path": "b003/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Checkpoint",
+                            "file_path": "e003/c002/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Telemetry Anomaly",
-                            "file_path": "b003/c002/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Telemetry Anomaly",
+                            "file_path": "e003/c002/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Anchor",
-                            "file_path": "b003/c002/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Anchor",
+                            "file_path": "e003/c002/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Ghost Shift",
-                            "file_path": "b003/c002/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Ghost Shift",
+                            "file_path": "e003/c002/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Blind Spot",
-                            "file_path": "b003/c002/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Blind Spot",
+                            "file_path": "e003/c002/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Ghost Roster",
-                            "file_path": "b003/c002/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Ghost Roster",
+                            "file_path": "e003/c002/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Sanctuary",
-                            "file_path": "b003/c002/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Sanctuary",
+                            "file_path": "e003/c002/s009.md"
                         },
                         {
-                            "part_num": 10,
-                            "part_title": "Part 10: Off the Clock",
-                            "file_path": "b003/c002/p010.md"
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: Off the Clock",
+                            "file_path": "e003/c002/s010.md"
                         },
                         {
-                            "part_num": 11,
-                            "part_title": "Part 11: Return to The Sanctuary",
-                            "file_path": "b003/c002/p011.md"
+                            "scene_num": 11,
+                            "scene_title": "Scene 11: Return to The Sanctuary",
+                            "file_path": "e003/c002/s011.md"
                         }
                     ]
                 },
@@ -223,56 +222,56 @@
                     "chap_num": 3,
                     "chap_title": "Day Three",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition/day-three",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Illusion of Control",
-                            "file_path": "b003/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Illusion of Control",
+                            "file_path": "e003/c003/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Veterans",
-                            "file_path": "b003/c003/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Veterans",
+                            "file_path": "e003/c003/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Echo",
-                            "file_path": "b003/c003/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Echo",
+                            "file_path": "e003/c003/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Bleeding Bedrock",
-                            "file_path": "b003/c003/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Bleeding Bedrock",
+                            "file_path": "e003/c003/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Pact",
-                            "file_path": "b003/c003/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Pact",
+                            "file_path": "e003/c003/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: Clear Parameters",
-                            "file_path": "b003/c003/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: Clear Parameters",
+                            "file_path": "e003/c003/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Masterclass",
-                            "file_path": "b003/c003/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Masterclass",
+                            "file_path": "e003/c003/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Ping",
-                            "file_path": "b003/c003/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Ping",
+                            "file_path": "e003/c003/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Prison Break",
-                            "file_path": "b003/c003/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Prison Break",
+                            "file_path": "e003/c003/s009.md"
                         },
                         {
-                            "part_num": 10,
-                            "part_title": "Part 10: The Fallen Hierarchy",
-                            "file_path": "b003/c003/p010.md"
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: The Fallen Hierarchy",
+                            "file_path": "e003/c003/s010.md"
                         }
                     ]
                 },
@@ -280,60 +279,60 @@
                     "chap_num": 4,
                     "chap_title": "Day Four",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition/day-four",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Structural Failure",
-                            "file_path": "b003/c004/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Structural Failure",
+                            "file_path": "e003/c004/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Deployment",
-                            "file_path": "b003/c004/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Deployment",
+                            "file_path": "e003/c004/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Transit",
-                            "file_path": "b003/c004/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Transit",
+                            "file_path": "e003/c004/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Relic",
-                            "file_path": "b003/c004/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Relic",
+                            "file_path": "e003/c004/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Captain's Quarters",
-                            "file_path": "b003/c004/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Captain's Quarters",
+                            "file_path": "e003/c004/s005.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 4,
-            "book_title": "Analogue Ghosts",
-            "book_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts",
+            "era_num": 4,
+            "era_title": "Analogue Ghosts",
+            "era_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Delta Niner",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/delta-niner",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Blinking Clock",
-                            "file_path": "b004/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Blinking Clock",
+                            "file_path": "e004/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Ghost Ship",
-                            "file_path": "b004/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Ghost Ship",
+                            "file_path": "e004/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Broadcast",
-                            "file_path": "b004/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Broadcast",
+                            "file_path": "e004/c001/s003.md"
                         }
                     ]
                 },
@@ -341,21 +340,21 @@
                     "chap_num": 2,
                     "chap_title": "The Lungs of the Station",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-lungs-of-the-station",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Hydroponics Bay",
-                            "file_path": "b004/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Hydroponics Bay",
+                            "file_path": "e004/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Strawberry Festival",
-                            "file_path": "b004/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Strawberry Festival",
+                            "file_path": "e004/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Expanding Fracture",
-                            "file_path": "b004/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Expanding Fracture",
+                            "file_path": "e004/c002/s003.md"
                         }
                     ]
                 },
@@ -363,31 +362,31 @@
                     "chap_num": 3,
                     "chap_title": "The Boiler Room",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-boiler-room",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Descent",
-                            "file_path": "b004/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Descent",
+                            "file_path": "e004/c003/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Baffle",
-                            "file_path": "b004/c003/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Baffle",
+                            "file_path": "e004/c003/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Harvest",
-                            "file_path": "b004/c003/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Harvest",
+                            "file_path": "e004/c003/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Acceleration",
-                            "file_path": "b004/c003/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Acceleration",
+                            "file_path": "e004/c003/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: Scorched Earth",
-                            "file_path": "b004/c003/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Scorched Earth",
+                            "file_path": "e004/c003/s005.md"
                         }
                     ]
                 },
@@ -395,31 +394,31 @@
                     "chap_num": 4,
                     "chap_title": "The Glass Wall",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-glass-wall",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: An Attempt at Normalcy",
-                            "file_path": "b004/c004/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: An Attempt at Normalcy",
+                            "file_path": "e004/c004/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Shedding the Armor",
-                            "file_path": "b004/c004/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Shedding the Armor",
+                            "file_path": "e004/c004/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Ghost Ship",
-                            "file_path": "b004/c004/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Ghost Ship",
+                            "file_path": "e004/c004/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Void",
-                            "file_path": "b004/c004/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Void",
+                            "file_path": "e004/c004/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Ghost Awakens",
-                            "file_path": "b004/c004/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Ghost Awakens",
+                            "file_path": "e004/c004/s005.md"
                         }
                     ]
                 },
@@ -427,31 +426,31 @@
                     "chap_num": 5,
                     "chap_title": "The Nomad",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-nomad",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: A Vector to Nowhere",
-                            "file_path": "b004/c005/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: A Vector to Nowhere",
+                            "file_path": "e004/c005/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Hubris of Apex",
-                            "file_path": "b004/c005/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Hubris of Apex",
+                            "file_path": "e004/c005/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Billionaire\u2019s Secrets",
-                            "file_path": "b004/c005/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Billionaire\u2019s Secrets",
+                            "file_path": "e004/c005/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The 2044 Reveal",
-                            "file_path": "b004/c005/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The 2044 Reveal",
+                            "file_path": "e004/c005/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Blank Slate",
-                            "file_path": "b004/c005/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Blank Slate",
+                            "file_path": "e004/c005/s005.md"
                         }
                     ]
                 },
@@ -459,110 +458,110 @@
                     "chap_num": 6,
                     "chap_title": "The Frontier",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-frontier",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Coordinates",
-                            "file_path": "b004/c006/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Coordinates",
+                            "file_path": "e004/c006/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Spacetime Fold",
-                            "file_path": "b004/c006/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Spacetime Fold",
+                            "file_path": "e004/c006/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Interstellar Road Trip",
-                            "file_path": "b004/c006/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Interstellar Road Trip",
+                            "file_path": "e004/c006/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Algorithm's Gift",
-                            "file_path": "b004/c006/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Algorithm's Gift",
+                            "file_path": "e004/c006/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Blank Slate",
-                            "file_path": "b004/c006/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Blank Slate",
+                            "file_path": "e004/c006/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Backlog",
-                            "file_path": "b004/c006/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Backlog",
+                            "file_path": "e004/c006/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Backlog",
-                            "file_path": "b004/c006/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Backlog",
+                            "file_path": "e004/c006/s007.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 5,
-            "book_title": "The Sanctuary",
-            "book_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary",
+            "era_num": 5,
+            "era_title": "The Sanctuary",
+            "era_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Planetfall",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/planetfall",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Atmospheric Entry",
-                            "file_path": "b005/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Atmospheric Entry",
+                            "file_path": "e005/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The First Steps",
-                            "file_path": "b005/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The First Steps",
+                            "file_path": "e005/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Solar Bloom",
-                            "file_path": "b005/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Solar Bloom",
+                            "file_path": "e005/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Footprint",
-                            "file_path": "b005/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Footprint",
+                            "file_path": "e005/c001/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The True Face of Apex",
-                            "file_path": "b005/c001/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The True Face of Apex",
+                            "file_path": "e005/c001/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Ghost Protocol",
-                            "file_path": "b005/c001/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Ghost Protocol",
+                            "file_path": "e005/c001/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Canopy",
-                            "file_path": "b005/c001/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Canopy",
+                            "file_path": "e005/c001/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Blind Sweep",
-                            "file_path": "b005/c001/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Blind Sweep",
+                            "file_path": "e005/c001/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Vow",
-                            "file_path": "b005/c001/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Vow",
+                            "file_path": "e005/c001/s009.md"
                         },
                         {
-                            "part_num": 10,
-                            "part_title": "Part 10: The Living Light",
-                            "file_path": "b005/c001/p010.md"
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: The Living Light",
+                            "file_path": "e005/c001/s010.md"
                         },
                         {
-                            "part_num": 11,
-                            "part_title": "Part 11: Under the Stars",
-                            "file_path": "b005/c001/p011.md"
+                            "scene_num": 11,
+                            "scene_title": "Scene 11: Under the Stars",
+                            "file_path": "e005/c001/s011.md"
                         }
                     ]
                 },
@@ -570,41 +569,41 @@
                     "chap_num": 2,
                     "chap_title": "The First Morning",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-first-morning",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The River",
-                            "file_path": "b005/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The River",
+                            "file_path": "e005/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Nomad",
-                            "file_path": "b005/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Nomad",
+                            "file_path": "e005/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Blueprint",
-                            "file_path": "b005/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Blueprint",
+                            "file_path": "e005/c002/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The First Harvest",
-                            "file_path": "b005/c002/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The First Harvest",
+                            "file_path": "e005/c002/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Bait",
-                            "file_path": "b005/c002/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Bait",
+                            "file_path": "e005/c002/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Broken Snare",
-                            "file_path": "b005/c002/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Broken Snare",
+                            "file_path": "e005/c002/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Eden Rule",
-                            "file_path": "b005/c002/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Eden Rule",
+                            "file_path": "e005/c002/s007.md"
                         }
                     ]
                 },
@@ -612,51 +611,51 @@
                     "chap_num": 3,
                     "chap_title": "The High Ground",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-high-ground",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Floodplain",
-                            "file_path": "b005/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Floodplain",
+                            "file_path": "e005/c003/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Dead Reckoning",
-                            "file_path": "b005/c003/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Dead Reckoning",
+                            "file_path": "e005/c003/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Mountain's Mouth",
-                            "file_path": "b005/c003/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Mountain's Mouth",
+                            "file_path": "e005/c003/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Winter Window",
-                            "file_path": "b005/c003/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Winter Window",
+                            "file_path": "e005/c003/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Genesis Vault",
-                            "file_path": "b005/c003/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Genesis Vault",
+                            "file_path": "e005/c003/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Genesis Vault",
-                            "file_path": "b005/c003/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Genesis Vault",
+                            "file_path": "e005/c003/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Master Kitchen",
-                            "file_path": "b005/c003/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Master Kitchen",
+                            "file_path": "e005/c003/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Curriculum",
-                            "file_path": "b005/c003/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Curriculum",
+                            "file_path": "e005/c003/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Saltwater Oasis",
-                            "file_path": "b005/c003/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Saltwater Oasis",
+                            "file_path": "e005/c003/s009.md"
                         }
                     ]
                 },
@@ -664,66 +663,66 @@
                     "chap_num": 4,
                     "chap_title": "The Architects",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-architects",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The First Semester",
-                            "file_path": "b005/c004/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The First Semester",
+                            "file_path": "e005/c004/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Debugger",
-                            "file_path": "b005/c004/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Debugger",
+                            "file_path": "e005/c004/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Earth Conservatory",
-                            "file_path": "b005/c004/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Earth Conservatory",
+                            "file_path": "e005/c004/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Ark",
-                            "file_path": "b005/c004/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Ark",
+                            "file_path": "e005/c004/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: Comfort Food",
-                            "file_path": "b005/c004/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Comfort Food",
+                            "file_path": "e005/c004/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: Hello World",
-                            "file_path": "b005/c004/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: Hello World",
+                            "file_path": "e005/c004/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: Biology 101",
-                            "file_path": "b005/c004/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: Biology 101",
+                            "file_path": "e005/c004/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Vitality Roster",
-                            "file_path": "b005/c004/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Vitality Roster",
+                            "file_path": "e005/c004/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Facelift",
-                            "file_path": "b005/c004/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Facelift",
+                            "file_path": "e005/c004/s009.md"
                         },
                         {
-                            "part_num": 10,
-                            "part_title": "Part 10: The First Generation",
-                            "file_path": "b005/c004/p010.md"
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: The First Generation",
+                            "file_path": "e005/c004/s010.md"
                         },
                         {
-                            "part_num": 11,
-                            "part_title": "Part 11: The First Landing",
-                            "file_path": "b005/c004/p011.md"
+                            "scene_num": 11,
+                            "scene_title": "Scene 11: The First Landing",
+                            "file_path": "e005/c004/s011.md"
                         },
                         {
-                            "part_num": 12,
-                            "part_title": "Part 12: The Parent Protocol",
-                            "file_path": "b005/c004/p012.md"
+                            "scene_num": 12,
+                            "scene_title": "Scene 12: The Parent Protocol",
+                            "file_path": "e005/c004/s012.md"
                         }
                     ]
                 },
@@ -731,51 +730,51 @@
                     "chap_num": 5,
                     "chap_title": "The Pioneers",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-pioneers",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Upgrade",
-                            "file_path": "b005/c005/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Upgrade",
+                            "file_path": "e005/c005/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Archives",
-                            "file_path": "b005/c005/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Archives",
+                            "file_path": "e005/c005/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Husk",
-                            "file_path": "b005/c005/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Husk",
+                            "file_path": "e005/c005/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Lost Time",
-                            "file_path": "b005/c005/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Lost Time",
+                            "file_path": "e005/c005/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Trade-Off",
-                            "file_path": "b005/c005/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Trade-Off",
+                            "file_path": "e005/c005/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Mapmakers",
-                            "file_path": "b005/c005/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Mapmakers",
+                            "file_path": "e005/c005/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: Helios System Hologram",
-                            "file_path": "b005/c005/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: Helios System Hologram",
+                            "file_path": "e005/c005/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Petrichor",
-                            "file_path": "b005/c005/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Petrichor",
+                            "file_path": "e005/c005/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Runabout",
-                            "file_path": "b005/c005/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Runabout",
+                            "file_path": "e005/c005/s009.md"
                         }
                     ]
                 },
@@ -783,61 +782,61 @@
                     "chap_num": 6,
                     "chap_title": "Planet Eden",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/planet-eden",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Maiden Voyage",
-                            "file_path": "b005/c006/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Maiden Voyage",
+                            "file_path": "e005/c006/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Alpine Meadow",
-                            "file_path": "b005/c006/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Alpine Meadow",
+                            "file_path": "e005/c006/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: Anchor",
-                            "file_path": "b005/c006/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Anchor",
+                            "file_path": "e005/c006/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Lunar Bound",
-                            "file_path": "b005/c006/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Lunar Bound",
+                            "file_path": "e005/c006/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Reading List",
-                            "file_path": "b005/c006/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Reading List",
+                            "file_path": "e005/c006/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The 2002 Fiction",
-                            "file_path": "b005/c006/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The 2002 Fiction",
+                            "file_path": "e005/c006/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Terrace Picnic",
-                            "file_path": "b005/c006/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Terrace Picnic",
+                            "file_path": "e005/c006/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Gravity Tax",
-                            "file_path": "b005/c006/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Gravity Tax",
+                            "file_path": "e005/c006/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: Sowing the Seeds",
-                            "file_path": "b005/c006/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: Sowing the Seeds",
+                            "file_path": "e005/c006/s009.md"
                         },
                         {
-                            "part_num": 10,
-                            "part_title": "Part 10: The Architect",
-                            "file_path": "b005/c006/p010.md"
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: The Architect",
+                            "file_path": "e005/c006/s010.md"
                         },
                         {
-                            "part_num": 11,
-                            "part_title": "Part 11: The Overcompensation",
-                            "file_path": "b005/c006/p011.md"
+                            "scene_num": 11,
+                            "scene_title": "Scene 11: The Overcompensation",
+                            "file_path": "e005/c006/s011.md"
                         }
                     ]
                 },
@@ -845,125 +844,125 @@
                     "chap_num": 7,
                     "chap_title": "The Blueprint",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-blueprint",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: Three Pulses",
-                            "file_path": "b005/c007/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Three Pulses",
+                            "file_path": "e005/c007/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Multiplier",
-                            "file_path": "b005/c007/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Multiplier",
+                            "file_path": "e005/c007/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: Tax Evasion and Timber",
-                            "file_path": "b005/c007/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Tax Evasion and Timber",
+                            "file_path": "e005/c007/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The 50,000 Crib Deficit",
-                            "file_path": "b005/c007/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The 50,000 Crib Deficit",
+                            "file_path": "e005/c007/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Constitution",
-                            "file_path": "b005/c007/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Constitution",
+                            "file_path": "e005/c007/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Agrarian Model",
-                            "file_path": "b005/c007/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Agrarian Model",
+                            "file_path": "e005/c007/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Wardrobe",
-                            "file_path": "b005/c007/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Wardrobe",
+                            "file_path": "e005/c007/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Toll of Three",
-                            "file_path": "b005/c007/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Toll of Three",
+                            "file_path": "e005/c007/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Remedy",
-                            "file_path": "b005/c007/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Remedy",
+                            "file_path": "e005/c007/s009.md"
                         },
                         {
-                            "part_num": 10,
-                            "part_title": "Part 10: The Chariot",
-                            "file_path": "b005/c007/p010.md"
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: The Chariot",
+                            "file_path": "e005/c007/s010.md"
                         },
                         {
-                            "part_num": 11,
-                            "part_title": "Part 11: The Craving",
-                            "file_path": "b005/c007/p011.md"
+                            "scene_num": 11,
+                            "scene_title": "Scene 11: The Craving",
+                            "file_path": "e005/c007/s011.md"
                         },
                         {
-                            "part_num": 12,
-                            "part_title": "Part 12: The Foundation",
-                            "file_path": "b005/c007/p012.md"
+                            "scene_num": 12,
+                            "scene_title": "Scene 12: The Foundation",
+                            "file_path": "e005/c007/s012.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 6,
-            "book_title": "The First Generation",
-            "book_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation",
+            "era_num": 6,
+            "era_title": "The First Generation",
+            "era_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Architect",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-architect",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Tolerances of Eden",
-                            "file_path": "b006/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Tolerances of Eden",
+                            "file_path": "e006/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Silent Scout",
-                            "file_path": "b006/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Silent Scout",
+                            "file_path": "e006/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Shield and the Spark",
-                            "file_path": "b006/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Shield and the Spark",
+                            "file_path": "e006/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Ghost of Eden",
-                            "file_path": "b006/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Ghost of Eden",
+                            "file_path": "e006/c001/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Dead Rock",
-                            "file_path": "b006/c001/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Dead Rock",
+                            "file_path": "e006/c001/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Aegis Hallucination",
-                            "file_path": "b006/c001/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Aegis Hallucination",
+                            "file_path": "e006/c001/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Administrative Override",
-                            "file_path": "b006/c001/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Administrative Override",
+                            "file_path": "e006/c001/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Weight of the World",
-                            "file_path": "b006/c001/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Weight of the World",
+                            "file_path": "e006/c001/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: Cosmic Dust",
-                            "file_path": "b006/c001/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: Cosmic Dust",
+                            "file_path": "e006/c001/s009.md"
                         }
                     ]
                 },
@@ -971,51 +970,51 @@
                     "chap_num": 2,
                     "chap_title": "The Arrival",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-arrival",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Gravity of Eden",
-                            "file_path": "b006/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Gravity of Eden",
+                            "file_path": "e006/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Vanguard's Spear",
-                            "file_path": "b006/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Vanguard's Spear",
+                            "file_path": "e006/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Hypoxic Clock",
-                            "file_path": "b006/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Hypoxic Clock",
+                            "file_path": "e006/c002/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Lion's Fight",
-                            "file_path": "b006/c002/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Lion's Fight",
+                            "file_path": "e006/c002/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Incubator Watch",
-                            "file_path": "b006/c002/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Incubator Watch",
+                            "file_path": "e006/c002/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: Reaching in the Dark",
-                            "file_path": "b006/c002/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: Reaching in the Dark",
+                            "file_path": "e006/c002/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Maintenance Schedule",
-                            "file_path": "b006/c002/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Maintenance Schedule",
+                            "file_path": "e006/c002/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Annoyance",
-                            "file_path": "b006/c002/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Annoyance",
+                            "file_path": "e006/c002/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Engine Block",
-                            "file_path": "b006/c002/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Engine Block",
+                            "file_path": "e006/c002/s009.md"
                         }
                     ]
                 },
@@ -1023,36 +1022,36 @@
                     "chap_num": 3,
                     "chap_title": "The Blueprint Fails",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-blueprint-fails",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Flaw in the Wood",
-                            "file_path": "b006/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Flaw in the Wood",
+                            "file_path": "e006/c003/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Gravity of the Hive",
-                            "file_path": "b006/c003/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Gravity of the Hive",
+                            "file_path": "e006/c003/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Sentinel Directive",
-                            "file_path": "b006/c003/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Sentinel Directive",
+                            "file_path": "e006/c003/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Mega-Crib",
-                            "file_path": "b006/c003/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Mega-Crib",
+                            "file_path": "e006/c003/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Supply Drop",
-                            "file_path": "b006/c003/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Supply Drop",
+                            "file_path": "e006/c003/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Soup Kitchen",
-                            "file_path": "b006/c003/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Soup Kitchen",
+                            "file_path": "e006/c003/s006.md"
                         }
                     ]
                 },
@@ -1060,36 +1059,36 @@
                     "chap_num": 4,
                     "chap_title": "The Vanguard Discovers Gravity",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-vanguard-discovers-gravity",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Rule of Three",
-                            "file_path": "b006/c004/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Rule of Three",
+                            "file_path": "e006/c004/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Tactical Extraction",
-                            "file_path": "b006/c004/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Tactical Extraction",
+                            "file_path": "e006/c004/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Milestones",
-                            "file_path": "b006/c004/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Milestones",
+                            "file_path": "e006/c004/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Chariot",
-                            "file_path": "b006/c004/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Chariot",
+                            "file_path": "e006/c004/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Hydroponics Breach",
-                            "file_path": "b006/c004/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Hydroponics Breach",
+                            "file_path": "e006/c004/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: Establishing Comms",
-                            "file_path": "b006/c004/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: Establishing Comms",
+                            "file_path": "e006/c004/s006.md"
                         }
                     ]
                 },
@@ -1097,36 +1096,36 @@
                     "chap_num": 5,
                     "chap_title": "The Chain of Command",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-chain-of-command",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The New Recruit",
-                            "file_path": "b006/c005/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The New Recruit",
+                            "file_path": "e006/c005/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Unified Design",
-                            "file_path": "b006/c005/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Unified Design",
+                            "file_path": "e006/c005/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Tactical Latrine",
-                            "file_path": "b006/c005/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Tactical Latrine",
+                            "file_path": "e006/c005/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Defensive Perimeter",
-                            "file_path": "b006/c005/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Defensive Perimeter",
+                            "file_path": "e006/c005/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Bootcamp",
-                            "file_path": "b006/c005/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Bootcamp",
+                            "file_path": "e006/c005/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Genesis Check",
-                            "file_path": "b006/c005/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Genesis Check",
+                            "file_path": "e006/c005/s006.md"
                         }
                     ]
                 },
@@ -1134,100 +1133,100 @@
                     "chap_num": 6,
                     "chap_title": "The Rapid Deployment",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-rapid-deployment",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Accelerated Recruit",
-                            "file_path": "b006/c006/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Accelerated Recruit",
+                            "file_path": "e006/c006/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Terrain Deficit",
-                            "file_path": "b006/c006/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Terrain Deficit",
+                            "file_path": "e006/c006/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Multi-Front War",
-                            "file_path": "b006/c006/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Multi-Front War",
+                            "file_path": "e006/c006/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Ghost Planet",
-                            "file_path": "b006/c006/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Ghost Planet",
+                            "file_path": "e006/c006/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The All-Terrain Vanguard",
-                            "file_path": "b006/c006/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The All-Terrain Vanguard",
+                            "file_path": "e006/c006/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Authorized Harvest",
-                            "file_path": "b006/c006/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Authorized Harvest",
+                            "file_path": "e006/c006/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Constitutional Override",
-                            "file_path": "b006/c006/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Constitutional Override",
+                            "file_path": "e006/c006/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Legal Precedent",
-                            "file_path": "b006/c006/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Legal Precedent",
+                            "file_path": "e006/c006/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Perimeter Test",
-                            "file_path": "b006/c006/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Perimeter Test",
+                            "file_path": "e006/c006/s009.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 7,
-            "book_title": "The Fall of Apex",
-            "book_url": "/raggiesoft-books/books/apex-fall-of-earth/the-fall-of-apex",
+            "era_num": 7,
+            "era_title": "The Fall of Apex",
+            "era_url": "/raggiesoft-books/books/apex-fall-of-earth/the-fall-of-apex",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Checkmate",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-fall-of-apex/checkmate",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Sovereign\u2019s Hubris",
-                            "file_path": "b007/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Sovereign\u2019s Hubris",
+                            "file_path": "e007/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Geneva Standard",
-                            "file_path": "b007/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Geneva Standard",
+                            "file_path": "e007/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Extraction",
-                            "file_path": "b007/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Extraction",
+                            "file_path": "e007/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Laws of War",
-                            "file_path": "b007/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Laws of War",
+                            "file_path": "e007/c001/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Interrogation",
-                            "file_path": "b007/c001/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Interrogation",
+                            "file_path": "e007/c001/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Handover",
-                            "file_path": "b007/c001/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Handover",
+                            "file_path": "e007/c001/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Classified Intel",
-                            "file_path": "b007/c001/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Classified Intel",
+                            "file_path": "e007/c001/s007.md"
                         }
                     ]
                 },
@@ -1235,31 +1234,31 @@
                     "chap_num": 2,
                     "chap_title": "The Trial of the Century",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-fall-of-apex/the-trial-of-the-century",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Government-in-Exile",
-                            "file_path": "b007/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Government-in-Exile",
+                            "file_path": "e007/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Star Witnesses",
-                            "file_path": "b007/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Star Witnesses",
+                            "file_path": "e007/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Fab-Foundry Apprentice",
-                            "file_path": "b007/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Fab-Foundry Apprentice",
+                            "file_path": "e007/c002/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Verdict and the Vault",
-                            "file_path": "b007/c002/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Verdict and the Vault",
+                            "file_path": "e007/c002/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Sentinel Treaty",
-                            "file_path": "b007/c002/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Sentinel Treaty",
+                            "file_path": "e007/c002/s005.md"
                         }
                     ]
                 },
@@ -1267,70 +1266,70 @@
                     "chap_num": 3,
                     "chap_title": "The Architects of Eden",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-fall-of-apex/the-architects-of-eden",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Healing Room",
-                            "file_path": "b007/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Healing Room",
+                            "file_path": "e007/c003/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Diplomat's Detail",
-                            "file_path": "b007/c003/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Diplomat's Detail",
+                            "file_path": "e007/c003/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The First Blueprint",
-                            "file_path": "b007/c003/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The First Blueprint",
+                            "file_path": "e007/c003/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The History Lesson",
-                            "file_path": "b007/c003/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The History Lesson",
+                            "file_path": "e007/c003/s004.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 8,
-            "book_title": "The Growing World",
-            "book_url": "/raggiesoft-books/books/apex-fall-of-earth/the-growing-world",
+            "era_num": 8,
+            "era_title": "The Growing World",
+            "era_url": "/raggiesoft-books/books/apex-fall-of-earth/the-growing-world",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Final Roster",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-growing-world/the-final-roster",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Pattern Disruption",
-                            "file_path": "b008/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Pattern Disruption",
+                            "file_path": "e008/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Rhythm Section",
-                            "file_path": "b008/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Rhythm Section",
+                            "file_path": "e008/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Archives of Earth",
-                            "file_path": "b008/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Archives of Earth",
+                            "file_path": "e008/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Fleet Upgrade",
-                            "file_path": "b008/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Fleet Upgrade",
+                            "file_path": "e008/c001/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Stabilizers",
-                            "file_path": "b008/c001/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Stabilizers",
+                            "file_path": "e008/c001/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Enforcers",
-                            "file_path": "b008/c001/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Enforcers",
+                            "file_path": "e008/c001/s006.md"
                         }
                     ]
                 },
@@ -1338,41 +1337,41 @@
                     "chap_num": 2,
                     "chap_title": "The Foundations of Genesis",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-growing-world/the-foundations-of-genesis",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Expanded Jurisdiction",
-                            "file_path": "b008/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Expanded Jurisdiction",
+                            "file_path": "e008/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Cornerstone",
-                            "file_path": "b008/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Cornerstone",
+                            "file_path": "e008/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Biological Override",
-                            "file_path": "b008/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Biological Override",
+                            "file_path": "e008/c002/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Anomalous Data",
-                            "file_path": "b008/c002/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Anomalous Data",
+                            "file_path": "e008/c002/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Endocrine Protocol",
-                            "file_path": "b008/c002/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Endocrine Protocol",
+                            "file_path": "e008/c002/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The First Ten",
-                            "file_path": "b008/c002/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The First Ten",
+                            "file_path": "e008/c002/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Sydney Protocol",
-                            "file_path": "b008/c002/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Sydney Protocol",
+                            "file_path": "e008/c002/s007.md"
                         }
                     ]
                 },
@@ -1380,75 +1379,75 @@
                     "chap_num": 3,
                     "chap_title": "The Awakening",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-growing-world/the-awakening",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The First Breath",
-                            "file_path": "b008/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The First Breath",
+                            "file_path": "e008/c003/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Command Staff Celebration",
-                            "file_path": "b008/c003/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Command Staff Celebration",
+                            "file_path": "e008/c003/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Gestation Protocol",
-                            "file_path": "b008/c003/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Gestation Protocol",
+                            "file_path": "e008/c003/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: Arrival Day",
-                            "file_path": "b008/c003/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Arrival Day",
+                            "file_path": "e008/c003/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Roster Expansion",
-                            "file_path": "b008/c003/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Roster Expansion",
+                            "file_path": "e008/c003/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Nursery Logistics",
-                            "file_path": "b008/c003/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Nursery Logistics",
+                            "file_path": "e008/c003/s006.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 9,
-            "book_title": "The Village of Genesis",
-            "book_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis",
+            "era_num": 9,
+            "era_title": "The Village of Genesis",
+            "era_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Second Wave",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/the-second-wave",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Expanding Perimeter",
-                            "file_path": "b009/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Expanding Perimeter",
+                            "file_path": "e009/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Commander\u2019s Blessing",
-                            "file_path": "b009/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Commander\u2019s Blessing",
+                            "file_path": "e009/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Lunar Embassy",
-                            "file_path": "b009/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Lunar Embassy",
+                            "file_path": "e009/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Wild Sparrows",
-                            "file_path": "b009/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Wild Sparrows",
+                            "file_path": "e009/c001/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: Breaking Ground",
-                            "file_path": "b009/c001/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Breaking Ground",
+                            "file_path": "e009/c001/s005.md"
                         }
                     ]
                 },
@@ -1456,21 +1455,21 @@
                     "chap_num": 2,
                     "chap_title": "Jack \u2013 The Lunar Embassy",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/jack-the-lunar-embassy",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Fleet Girl",
-                            "file_path": "b009/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Fleet Girl",
+                            "file_path": "e009/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Gravity of Home",
-                            "file_path": "b009/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Gravity of Home",
+                            "file_path": "e009/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Newport Fifty",
-                            "file_path": "b009/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Newport Fifty",
+                            "file_path": "e009/c002/s003.md"
                         }
                     ]
                 },
@@ -1478,21 +1477,21 @@
                     "chap_num": 3,
                     "chap_title": "The Refugee",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/the-refugee",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Great Chowder Rebellion",
-                            "file_path": "b009/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Great Chowder Rebellion",
+                            "file_path": "e009/c003/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Exception",
-                            "file_path": "b009/c003/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Exception",
+                            "file_path": "e009/c003/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Golden Cage",
-                            "file_path": "b009/c003/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Golden Cage",
+                            "file_path": "e009/c003/s003.md"
                         }
                     ]
                 },
@@ -1500,36 +1499,36 @@
                     "chap_num": 4,
                     "chap_title": "The Asylum",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/the-asylum",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Scavenger's Tale",
-                            "file_path": "b009/c004/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Scavenger's Tale",
+                            "file_path": "e009/c004/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Village Square",
-                            "file_path": "b009/c004/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Village Square",
+                            "file_path": "e009/c004/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Collection Agency",
-                            "file_path": "b009/c004/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Collection Agency",
+                            "file_path": "e009/c004/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Extraction of Toxicity",
-                            "file_path": "b009/c004/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Extraction of Toxicity",
+                            "file_path": "e009/c004/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Detox",
-                            "file_path": "b009/c004/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Detox",
+                            "file_path": "e009/c004/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Filter",
-                            "file_path": "b009/c004/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Filter",
+                            "file_path": "e009/c004/s006.md"
                         }
                     ]
                 },
@@ -1537,26 +1536,26 @@
                     "chap_num": 5,
                     "chap_title": "Leo \u2013 The Overseer",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/leo-the-overseer",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Geometry of Peace",
-                            "file_path": "b009/c005/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Geometry of Peace",
+                            "file_path": "e009/c005/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Kinetic Variables",
-                            "file_path": "b009/c005/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Kinetic Variables",
+                            "file_path": "e009/c005/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Shenandoah Curve",
-                            "file_path": "b009/c005/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Shenandoah Curve",
+                            "file_path": "e009/c005/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Stewards",
-                            "file_path": "b009/c005/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Stewards",
+                            "file_path": "e009/c005/s004.md"
                         }
                     ]
                 },
@@ -1564,16 +1563,16 @@
                     "chap_num": 6,
                     "chap_title": "Wyatt \u2013 The Founders",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/wyatt-the-founders",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Watch",
-                            "file_path": "b009/c006/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Watch",
+                            "file_path": "e009/c006/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Age of Majority",
-                            "file_path": "b009/c006/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Age of Majority",
+                            "file_path": "e009/c006/s002.md"
                         }
                     ]
                 },
@@ -1581,26 +1580,26 @@
                     "chap_num": 7,
                     "chap_title": "Leo \u2013 The Wilderness",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/leo-the-wilderness",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Logistics of the Wild",
-                            "file_path": "b009/c007/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Logistics of the Wild",
+                            "file_path": "e009/c007/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Raising the Canvas",
-                            "file_path": "b009/c007/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Raising the Canvas",
+                            "file_path": "e009/c007/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The 16-Bit Horizon",
-                            "file_path": "b009/c007/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The 16-Bit Horizon",
+                            "file_path": "e009/c007/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Sydney Echo",
-                            "file_path": "b009/c007/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Sydney Echo",
+                            "file_path": "e009/c007/s004.md"
                         }
                     ]
                 }

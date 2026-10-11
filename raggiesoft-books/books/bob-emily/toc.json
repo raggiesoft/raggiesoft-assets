@@ -5,52 +5,51 @@
     "series_description_long": "---\ntitle: \"Bob Emily\"\n---\nAfter her father's tragic passing, fifteen-year-old Emily\u2014a towering and athletic teenager\u2014finds sanctuary with her aunt and uncle, legally escaping her estranged, conspiracy-obsessed mother. In this new home, she solidifies her bond with her cousin, Bob, a young wheelchair user who shares her profound need for security. \n\nCommunicating through their own private, multi-modal language of sounds and gestures they call \"The Heart-Hum,\" the two become inseparable anchors for each other. From battling sovereign-citizen legal terror in the courtroom to riding the Blue Line bus to Bluewater High, Bob and Emily prove that the strongest fortresses aren't built with walls, but with unconditional understanding, shared resilience, and an unbreakable family bond.",
     "series_image": "/raggiesoft-books/images/covers/2x3/bob-emily.jpg",
     "next_series_url": "",
-    "next_series_text": "",
-    "books": [
+    "eras": [
         {
-            "book_num": 1,
-            "book_title": "Life Without a Father",
-            "book_url": "/raggiesoft-books/books/bob-emily/life-without-a-father",
+            "era_num": 1,
+            "era_title": "Life Without a Father",
+            "era_url": "/raggiesoft-books/books/bob-emily/life-without-a-father",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Longest Day",
                     "chap_url": "/raggiesoft-books/books/bob-emily/life-without-a-father/the-longest-day",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Final Promise",
-                            "file_path": "b001/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Final Promise",
+                            "file_path": "e001/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Hallway War",
-                            "file_path": "b001/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Hallway War",
+                            "file_path": "e001/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Choice",
-                            "file_path": "b001/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Choice",
+                            "file_path": "e001/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Pact in the Back Seat",
-                            "file_path": "b001/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Pact in the Back Seat",
+                            "file_path": "e001/c001/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Line is Drawn",
-                            "file_path": "b001/c001/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Line is Drawn",
+                            "file_path": "e001/c001/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: A Shared Sanctuary",
-                            "file_path": "b001/c001/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: A Shared Sanctuary",
+                            "file_path": "e001/c001/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: A New Plan of Action",
-                            "file_path": "b001/c001/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: A New Plan of Action",
+                            "file_path": "e001/c001/s007.md"
                         }
                     ]
                 },
@@ -58,120 +57,120 @@
                     "chap_num": 2,
                     "chap_title": "The New Normal",
                     "chap_url": "/raggiesoft-books/books/bob-emily/life-without-a-father/the-new-normal",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The First Day",
-                            "file_path": "b001/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The First Day",
+                            "file_path": "e001/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Meeting with the Principal",
-                            "file_path": "b001/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Meeting with the Principal",
+                            "file_path": "e001/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: Planning with the Counselor",
-                            "file_path": "b001/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Planning with the Counselor",
+                            "file_path": "e001/c002/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The First Class",
-                            "file_path": "b001/c002/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The First Class",
+                            "file_path": "e001/c002/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: Bus Orientation",
-                            "file_path": "b001/c002/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Bus Orientation",
+                            "file_path": "e001/c002/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: Emily\u2019s Rejects a Suitor",
-                            "file_path": "b001/c002/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: Emily\u2019s Rejects a Suitor",
+                            "file_path": "e001/c002/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: A Failure to Communicate",
-                            "file_path": "b001/c002/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: A Failure to Communicate",
+                            "file_path": "e001/c002/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Teacher's Apology",
-                            "file_path": "b001/c002/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Teacher's Apology",
+                            "file_path": "e001/c002/s008.md"
                         },
                         {
-                            "part_num": 9,
-                            "part_title": "Part 9: The Principal's Wrath",
-                            "file_path": "b001/c002/p009.md"
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Principal's Wrath",
+                            "file_path": "e001/c002/s009.md"
                         },
                         {
-                            "part_num": 10,
-                            "part_title": "Part 10: Reaffirming the Sanctuary",
-                            "file_path": "b001/c002/p010.md"
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: Reaffirming the Sanctuary",
+                            "file_path": "e001/c002/s010.md"
                         },
                         {
-                            "part_num": 11,
-                            "part_title": "Part 11: The Grounding Walk",
-                            "file_path": "b001/c002/p011.md"
+                            "scene_num": 11,
+                            "scene_title": "Scene 11: The Grounding Walk",
+                            "file_path": "e001/c002/s011.md"
                         },
                         {
-                            "part_num": 12,
-                            "part_title": "Part 12: The Reckoning",
-                            "file_path": "b001/c002/p012.md"
+                            "scene_num": 12,
+                            "scene_title": "Scene 12: The Reckoning",
+                            "file_path": "e001/c002/s012.md"
                         },
                         {
-                            "part_num": 13,
-                            "part_title": "Part 13: A Message in Muscle",
-                            "file_path": "b001/c002/p013.md"
+                            "scene_num": 13,
+                            "scene_title": "Scene 13: A Message in Muscle",
+                            "file_path": "e001/c002/s013.md"
                         },
                         {
-                            "part_num": 14,
-                            "part_title": "Part 14: The Gable Report",
-                            "file_path": "b001/c002/p014.md"
+                            "scene_num": 14,
+                            "scene_title": "Scene 14: The Gable Report",
+                            "file_path": "e001/c002/s014.md"
                         },
                         {
-                            "part_num": 15,
-                            "part_title": "Part 15: The Emily Jenkins Rule",
-                            "file_path": "b001/c002/p015.md"
+                            "scene_num": 15,
+                            "scene_title": "Scene 15: The Emily Jenkins Rule",
+                            "file_path": "e001/c002/s015.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 2,
-            "book_title": "Assault",
-            "book_url": "/raggiesoft-books/books/bob-emily/assault",
+            "era_num": 2,
+            "era_title": "Assault",
+            "era_url": "/raggiesoft-books/books/bob-emily/assault",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Locker",
                     "chap_url": "/raggiesoft-books/books/bob-emily/assault/the-locker",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Assault",
-                            "file_path": "b002/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Assault",
+                            "file_path": "e002/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Discovery",
-                            "file_path": "b002/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Discovery",
+                            "file_path": "e002/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Investigation",
-                            "file_path": "b002/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Investigation",
+                            "file_path": "e002/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Arrest",
-                            "file_path": "b002/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Arrest",
+                            "file_path": "e002/c001/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Perp Walk",
-                            "file_path": "b002/c001/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Perp Walk",
+                            "file_path": "e002/c001/s005.md"
                         }
                     ]
                 },
@@ -179,100 +178,100 @@
                     "chap_num": 2,
                     "chap_title": "The Hospital",
                     "chap_url": "/raggiesoft-books/books/bob-emily/assault/the-hospital",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Long Wait",
-                            "file_path": "b002/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Long Wait",
+                            "file_path": "e002/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: Emily Explains Everything",
-                            "file_path": "b002/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Emily Explains Everything",
+                            "file_path": "e002/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: Waking Up",
-                            "file_path": "b002/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Waking Up",
+                            "file_path": "e002/c002/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Daily Vigil",
-                            "file_path": "b002/c002/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Daily Vigil",
+                            "file_path": "e002/c002/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Storm Arrives",
-                            "file_path": "b002/c002/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Storm Arrives",
+                            "file_path": "e002/c002/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Longest Night",
-                            "file_path": "b002/c002/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Longest Night",
+                            "file_path": "e002/c002/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: Discharge Day",
-                            "file_path": "b002/c002/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: Discharge Day",
+                            "file_path": "e002/c002/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: Chapter Notes: The Planetarium Promise",
-                            "file_path": "b002/c002/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: Chapter Notes: The Planetarium Promise",
+                            "file_path": "e002/c002/s008.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 3,
-            "book_title": "Bob Healing",
-            "book_url": "/raggiesoft-books/books/bob-emily/bob-healing",
+            "era_num": 3,
+            "era_title": "Bob Healing",
+            "era_url": "/raggiesoft-books/books/bob-emily/bob-healing",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Bob\u2019s New Reality",
                     "chap_url": "/raggiesoft-books/books/bob-emily/bob-healing/bob-s-new-reality",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The First Day Home",
-                            "file_path": "b003/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The First Day Home",
+                            "file_path": "e003/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Call to Madison",
-                            "file_path": "b003/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Call to Madison",
+                            "file_path": "e003/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Dress Rehearsal",
-                            "file_path": "b003/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Dress Rehearsal",
+                            "file_path": "e003/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: A Spark of Hope",
-                            "file_path": "b003/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: A Spark of Hope",
+                            "file_path": "e003/c001/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Green Light",
-                            "file_path": "b003/c001/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Green Light",
+                            "file_path": "e003/c001/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: Homecoming",
-                            "file_path": "b003/c001/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: Homecoming",
+                            "file_path": "e003/c001/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The First Carry",
-                            "file_path": "b003/c001/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The First Carry",
+                            "file_path": "e003/c001/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: Cleared for Travel",
-                            "file_path": "b003/c001/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: Cleared for Travel",
+                            "file_path": "e003/c001/s008.md"
                         }
                     ]
                 },
@@ -280,31 +279,31 @@
                     "chap_num": 2,
                     "chap_title": "Bob and Emily See the Stars",
                     "chap_url": "/raggiesoft-books/books/bob-emily/bob-healing/bob-and-emily-see-the-stars",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: A Trip to the Stars",
-                            "file_path": "b003/c002/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: A Trip to the Stars",
+                            "file_path": "e003/c002/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: A Double Honor",
-                            "file_path": "b003/c002/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: A Double Honor",
+                            "file_path": "e003/c002/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Deepest of Space",
-                            "file_path": "b003/c002/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Deepest of Space",
+                            "file_path": "e003/c002/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Journey Home",
-                            "file_path": "b003/c002/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Journey Home",
+                            "file_path": "e003/c002/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: Chapter Notes: Bluewater Transit Steps Up to the Plate",
-                            "file_path": "b003/c002/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Chapter Notes: Bluewater Transit Steps Up to the Plate",
+                            "file_path": "e003/c002/s005.md"
                         }
                     ]
                 },
@@ -312,90 +311,90 @@
                     "chap_num": 3,
                     "chap_title": "Finishing the Semester Strong",
                     "chap_url": "/raggiesoft-books/books/bob-emily/bob-healing/finishing-the-semester-strong",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: A Hard Limit",
-                            "file_path": "b003/c003/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: A Hard Limit",
+                            "file_path": "e003/c003/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Accommodations Meeting",
-                            "file_path": "b003/c003/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Accommodations Meeting",
+                            "file_path": "e003/c003/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Testing Lab",
-                            "file_path": "b003/c003/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Testing Lab",
+                            "file_path": "e003/c003/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Waiting Game",
-                            "file_path": "b003/c003/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Waiting Game",
+                            "file_path": "e003/c003/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Final Sprint",
-                            "file_path": "b003/c003/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Final Sprint",
+                            "file_path": "e003/c003/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Graduation Pact",
-                            "file_path": "b003/c003/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Graduation Pact",
+                            "file_path": "e003/c003/s006.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "book_num": 4,
-            "book_title": "Summer 2015",
-            "book_url": "/raggiesoft-books/books/bob-emily/summer-2015",
+            "era_num": 4,
+            "era_title": "Summer 2015",
+            "era_url": "/raggiesoft-books/books/bob-emily/summer-2015",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Tale of Two Sanctuaries",
                     "chap_url": "/raggiesoft-books/books/bob-emily/summer-2015/a-tale-of-two-sanctuaries",
-                    "parts": [
+                    "scenes": [
                         {
-                            "part_num": 1,
-                            "part_title": "Part 1: The Christiansburg Connection",
-                            "file_path": "b004/c001/p001.md"
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Christiansburg Connection",
+                            "file_path": "e004/c001/s001.md"
                         },
                         {
-                            "part_num": 2,
-                            "part_title": "Part 2: The Ironclad Will",
-                            "file_path": "b004/c001/p002.md"
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Ironclad Will",
+                            "file_path": "e004/c001/s002.md"
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Bluewater Star Party",
-                            "file_path": "b004/c001/p003.md"
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Bluewater Star Party",
+                            "file_path": "e004/c001/s003.md"
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Best News",
-                            "file_path": "b004/c001/p004.md"
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Best News",
+                            "file_path": "e004/c001/s004.md"
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: The Schedule and the Ride",
-                            "file_path": "b004/c001/p005.md"
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Schedule and the Ride",
+                            "file_path": "e004/c001/s005.md"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: The Backyard Feast",
-                            "file_path": "b004/c001/p006.md"
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Backyard Feast",
+                            "file_path": "e004/c001/s006.md"
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: The Last Drop of Summer",
-                            "file_path": "b004/c001/p007.md"
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Last Drop of Summer",
+                            "file_path": "e004/c001/s007.md"
                         },
                         {
-                            "part_num": 8,
-                            "part_title": "Part 8: The Last Drop of Summer",
-                            "file_path": "b004/c001/p008.md"
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Last Drop of Summer",
+                            "file_path": "e004/c001/s008.md"
                         }
                     ]
                 }
