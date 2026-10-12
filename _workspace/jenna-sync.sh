@@ -725,6 +725,43 @@ echo "👱‍♀️ JENNA: Compiling Narratives & Books..."
         fi
     fi
 
+    # 4.9 MUSIC PUSH
+    echo "   -> Packaging Engine Room Records (music.raggiesoft.com)..."
+    if [ -d "$MUSIC_ROOT" ]; then
+        cd "$MUSIC_ROOT"
+        
+        echo "      > Verifying SvelteKit check & build..."
+        npm run check
+        if [ $? -ne 0 ]; then
+            echo "🛑 JENNA: ABORTING! SvelteKit check failed in raggiesoft-music."
+            exit 1
+        fi
+        
+        git add .
+        
+        if ! git diff-index --quiet HEAD --; then
+             git commit -m "$COMMIT_MSG"
+             git push $FORCE_FLAG origin main
+             echo "      ✓ Music platform committed and sent to GitHub."
+        elif [ "$(git log origin/main..HEAD 2>/dev/null)" ]; then
+             echo "      ⚠️  Found pending Music commits. Pushing now..."
+             git push $FORCE_FLAG origin main
+             echo "      ✓ Pending Music code sent to GitHub."
+        else
+             echo "      (Music is clean and up to date.)"
+             if [ -n "$FORCE_FLAG" ]; then
+                 echo "      ⚠️  Force pushing anyway..."
+                 git push $FORCE_FLAG origin main
+             fi
+        fi
+
+        if [ -n "$TAG_NAME" ]; then
+            echo "      > Stamping Music with tag: $TAG_NAME..."
+            git tag "$TAG_NAME"
+            git push origin "$TAG_NAME"
+        fi
+    fi
+
     # 5. ASSETS PUSH
     echo "   2. Packaging the Workspace..."
     cd "$ASSETS_ROOT"
