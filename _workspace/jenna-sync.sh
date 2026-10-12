@@ -571,22 +571,6 @@ echo "👱‍♀️ JENNA: Compiling Narratives & Books..."
             git push origin "$TAG_NAME"
             echo "      ✓ Hub Tag sent to GitHub."
         fi
-
-        echo "      > Deploying to Cloudflare R2..."
-        if [ -d "./_deploy" ]; then
-            "$RCLONE_BIN" copy ./_deploy cloudflare-r2:raggiesoft-engine-room-cdn/ \
-                --config "$RCLONE_CONF" \
-                $RCLONE_PERF_FLAGS
-            if [ $? -eq 0 ]; then
-                echo "      ✓ Hub deployed to Cloudflare R2."
-                echo "      > Purging Cloudflare Cache..."
-                # TODO: Add curl command here once Zone ID and API Token are provided
-            else
-                echo "      ❌ Cloudflare R2 Deployment Failed."
-            fi
-        else
-            echo "      ⚠️  No _deploy folder found. Skipping Cloudflare R2 deployment."
-        fi
     fi
 
     # 4.5 CMS PUSH
