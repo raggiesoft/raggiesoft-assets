@@ -13,13 +13,13 @@
     "albumReleaseType": "AlbumRelease",
     "genre": "Singer / Songwriter",
     "description": "An intimate exploration of the deep bond between Ryan and Cassidy as they peel back their rock-star personas. Ryan is Cassidy's safe person, and this album strips away the noise to find their own frequency.",
-    "datePublished": "2026-10-12",
+    "datePublished": "2026-10-16",
     "temporalCoverage": "2008-05-14",
+    "gtin12": "700521288573",
     "publisher": {
       "@type": "Organization",
-      "name": "DistroKid"
+      "name": "Engine Room Records"
     },
-    "conditionsOfAccess": "Pending Distribution",
     "creativeWorkStatus": "Upcoming Release",
     "isRockOpera": false
   }
