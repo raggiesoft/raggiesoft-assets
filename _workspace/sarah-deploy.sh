@@ -87,6 +87,23 @@ function deploy_site() {
         git clean -fdx
     fi
 
+    # SELF-HEALING VERIFICATION
+    # Ensure destination web root directory exists
+    if [ ! -d "$WEB_ROOT" ]; then
+        mkdir -p "$WEB_ROOT" 2>/dev/null
+    fi
+
+    # Fallback build if pre-compiled sync directory is missing
+    if [ ! -d "$SYNC_DIR" ] && [ -f "package.json" ]; then
+        echo "   -> Pre-compiled payload missing. Building $SITE_NAME static bundle..."
+        npm run build 2>/dev/null || true
+    fi
+
+    if [ ! -d "$SYNC_DIR" ]; then
+        echo "🚨 SARAH: Sync directory $SYNC_DIR not found for $SITE_NAME. Skipping deployment."
+        return
+    fi
+
     # DEPLOY
     echo "   -> Syncing $SITE_NAME to Showroom..."
     # RSync synchronizes the web root.

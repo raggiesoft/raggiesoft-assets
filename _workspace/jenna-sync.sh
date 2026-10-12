@@ -730,8 +730,9 @@ echo "👱‍♀️ JENNA: Compiling Narratives & Books..."
     if [ -d "$MUSIC_ROOT" ]; then
         cd "$MUSIC_ROOT"
         
-        echo "      > Compiling dynamic Engine Room Records catalog & verifying SvelteKit..."
-        npm run build:catalog
+        echo "      > Compiling dynamic Engine Room Records catalog & static PWA build..."
+        export PATH="/opt/homebrew/bin:$PATH"
+        npm run build
         npm run check
         if [ $? -ne 0 ]; then
             echo "🛑 JENNA: ABORTING! SvelteKit check failed in raggiesoft-music."
