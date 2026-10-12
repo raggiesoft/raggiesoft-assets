@@ -4,19 +4,22 @@
     "MusicAlbum",
     "Product"
   ],
-  "name": "The Stardust Engine: Live in Chicago",
+  "name": "Live in Chicago",
   "byArtist": {
     "@type": "MusicGroup",
     "name": "The Stardust Engine"
   },
   "albumProductionType": "LiveAlbum",
   "albumReleaseType": "AlbumRelease",
-  "datePublished": "2026-04-01",
-  "temporalCoverage": "1990",
+  "genre": "Live Rock",
+  "temporalCoverage": "1990-05-10",
+  "description": "Released in 1990 to support the 1989 Neon Hearts tour.",
   "publisher": {
     "@type": "Organization",
-    "name": "Internal Vault"
+    "name": "Engine Room Records"
   },
-  "conditionsOfAccess": "Cleared - Internal Web Stream Only",
-  "creativeWorkStatus": "Lore Archive"
+  "albumRelease": {
+    "@type": "MusicRelease",
+    "datePublished": "1990-05-10"
+  }
 }

@@ -27,5 +27,8 @@
   "albumRelease": {
     "@type": "MusicRelease",
     "datePublished": "2026-08-28"
-  }
+  },
+  "sameAs": [
+    "https://distrokid.com/hyperfollow/thepaperwall/guidingstars"
+  ]
 }

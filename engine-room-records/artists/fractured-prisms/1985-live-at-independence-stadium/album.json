@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
+  "name": "Live at Independence Stadium",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "Fractured Prisms"
+  },
+  "albumProductionType": "LiveAlbum",
+  "albumReleaseType": "AlbumRelease",
+  "genre": "Live Rock",
+  "temporalCoverage": "1985-08-15",
+  "description": "Recorded live in 1985, featuring a massive live version of The Hollow Square.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Engine Room Records"
+  },
+  "albumRelease": {
+    "@type": "MusicRelease",
+    "datePublished": "1985-08-15"
+  }
+}

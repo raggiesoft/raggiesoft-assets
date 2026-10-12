@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
+  "name": "Hard Reset Live",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Stardust Engine"
+  },
+  "albumProductionType": "LiveAlbum",
+  "albumReleaseType": "AlbumRelease",
+  "genre": "Live Rock",
+  "temporalCoverage": "1999-11-20",
+  "description": "Recorded during the Hard Reset tour from 1998-1999.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Engine Room Records"
+  },
+  "albumRelease": {
+    "@type": "MusicRelease",
+    "datePublished": "1999-11-20"
+  }
+}

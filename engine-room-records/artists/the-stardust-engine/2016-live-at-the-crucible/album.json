@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
+  "name": "Live at the Crucible",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Stardust Engine"
+  },
+  "albumProductionType": "LiveAlbum",
+  "albumReleaseType": "AlbumRelease",
+  "genre": "Live Rock",
+  "temporalCoverage": "2016-10-15",
+  "description": "The 30th Anniversary show! The first time the band played at their Alma Mater, featuring an earth-shattering rendition of Ignition (The Forger's Call) and a massive AOR version of Electric Color.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Engine Room Records"
+  },
+  "albumRelease": {
+    "@type": "MusicRelease",
+    "datePublished": "2016-10-15"
+  }
+}

@@ -27,5 +27,8 @@
   "albumRelease": {
     "@type": "MusicRelease",
     "datePublished": "2026-09-11"
-  }
+  },
+  "sameAs": [
+    "https://distrokid.com/hyperfollow/thepaperwall/staticsilencebook2thejourneyhome"
+  ]
 }

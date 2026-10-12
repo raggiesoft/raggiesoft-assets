@@ -1,0 +1,25 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
+  "name": "Live in Norfolk",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Stardust Engine"
+  },
+  "albumProductionType": "LiveAlbum",
+  "albumReleaseType": "AlbumRelease",
+  "genre": "Live Rock",
+  "temporalCoverage": "2005-04-18",
+  "description": "Recorded at the Norfolk Scope during the North American Tour.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Engine Room Records"
+  },
+  "albumRelease": {
+    "@type": "MusicRelease",
+    "datePublished": "2005-04-18"
+  }
+}

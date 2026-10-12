@@ -25,5 +25,8 @@
   "albumRelease": {
     "@type": "MusicRelease",
     "datePublished": "2026-08-18"
-  }
+  },
+  "sameAs": [
+    "https://distrokid.com/hyperfollow/thestardustengine/milemarker98"
+  ]
 }

@@ -792,135 +792,9 @@
     "status": "Released"
   },
   {
-    "err_id": "ERR-001-1990-101",
-    "isrc": "",
-    "albumUPC": "",
-    "trackTitle": "The Stardust Engine (Live in Chicago)",
-    "albumTitle": "The Stardust Engine: Live in Chicago",
-    "albumProductionType": "LiveAlbum",
-    "artistPersona": "The Stardust Engine",
-    "artistSlug": "the-stardust-engine",
-    "albumSlug": "1990-live-in-chicago",
-    "trackSlug": "1-01-the-stardust-engine-live-in-chicago",
-    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "Internal Vault",
-    "aiClearance": "Cleared - Internal Web Stream Only",
-    "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-04-01",
-    "status": "Vault Exclusive"
-  },
-  {
-    "err_id": "ERR-001-1990-102",
-    "isrc": "",
-    "albumUPC": "",
-    "trackTitle": "Neon Hearts (Live in Chicago)",
-    "albumTitle": "The Stardust Engine: Live in Chicago",
-    "albumProductionType": "LiveAlbum",
-    "artistPersona": "The Stardust Engine",
-    "artistSlug": "the-stardust-engine",
-    "albumSlug": "1990-live-in-chicago",
-    "trackSlug": "1-02-neon-hearts-live-in-chicago",
-    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "Internal Vault",
-    "aiClearance": "Cleared - Internal Web Stream Only",
-    "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-04-01",
-    "status": "Vault Exclusive"
-  },
-  {
-    "err_id": "ERR-001-1990-103",
-    "isrc": "",
-    "albumUPC": "",
-    "trackTitle": "Dancing in the Neon (Live in Chicago)",
-    "albumTitle": "The Stardust Engine: Live in Chicago",
-    "albumProductionType": "LiveAlbum",
-    "artistPersona": "The Stardust Engine",
-    "artistSlug": "the-stardust-engine",
-    "albumSlug": "1990-live-in-chicago",
-    "trackSlug": "1-03-dancing-in-the-neon-live-in-chicago",
-    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "Internal Vault",
-    "aiClearance": "Cleared - Internal Web Stream Only",
-    "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-04-01",
-    "status": "Vault Exclusive"
-  },
-  {
-    "err_id": "ERR-001-1990-104",
-    "isrc": "",
-    "albumUPC": "",
-    "trackTitle": "If You Walked Away (Live in Chicago)",
-    "albumTitle": "The Stardust Engine: Live in Chicago",
-    "albumProductionType": "LiveAlbum",
-    "artistPersona": "The Stardust Engine",
-    "artistSlug": "the-stardust-engine",
-    "albumSlug": "1990-live-in-chicago",
-    "trackSlug": "1-04-if-you-walked-away-live-in-chicago",
-    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "Internal Vault",
-    "aiClearance": "Cleared - Internal Web Stream Only",
-    "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-04-01",
-    "status": "Vault Exclusive"
-  },
-  {
-    "err_id": "ERR-001-1990-105",
-    "isrc": "",
-    "albumUPC": "",
-    "trackTitle": "Light Up the Night (Live in Chicago)",
-    "albumTitle": "The Stardust Engine: Live in Chicago",
-    "albumProductionType": "LiveAlbum",
-    "artistPersona": "The Stardust Engine",
-    "artistSlug": "the-stardust-engine",
-    "albumSlug": "1990-live-in-chicago",
-    "trackSlug": "1-05-light-up-the-night-live-in-chicago",
-    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "Internal Vault",
-    "aiClearance": "Cleared - Internal Web Stream Only",
-    "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-04-01",
-    "status": "Vault Exclusive"
-  },
-  {
-    "err_id": "ERR-001-1990-106",
-    "isrc": "",
-    "albumUPC": "",
-    "trackTitle": "My Anchor Holds (Live in Chicago)",
-    "albumTitle": "The Stardust Engine: Live in Chicago",
-    "albumProductionType": "LiveAlbum",
-    "artistPersona": "The Stardust Engine",
-    "artistSlug": "the-stardust-engine",
-    "albumSlug": "1990-live-in-chicago",
-    "trackSlug": "1-06-my-anchor-holds-live-in-chicago",
-    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "Internal Vault",
-    "aiClearance": "Cleared - Internal Web Stream Only",
-    "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-04-01",
-    "status": "Vault Exclusive"
-  },
-  {
-    "err_id": "ERR-001-1990-107",
-    "isrc": "",
-    "albumUPC": "",
-    "trackTitle": "Electric Color (Live in Chicago)",
-    "albumTitle": "The Stardust Engine: Live in Chicago",
-    "albumProductionType": "LiveAlbum",
-    "artistPersona": "The Stardust Engine",
-    "artistSlug": "the-stardust-engine",
-    "albumSlug": "1990-live-in-chicago",
-    "trackSlug": "1-07-electric-color-live-in-chicago",
-    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "Internal Vault",
-    "aiClearance": "Cleared - Internal Web Stream Only",
-    "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-04-01",
-    "status": "Vault Exclusive"
-  },
-  {
     "err_id": "ERR-999-1992-101",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622545",
+    "albumUPC": "700521520499",
     "trackTitle": "Main Theme",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -929,16 +803,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-01-main-theme",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-102",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622546",
+    "albumUPC": "700521520499",
     "trackTitle": "Insert Coin",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -947,16 +821,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-02-insert-coin",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-103",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622547",
+    "albumUPC": "700521520499",
     "trackTitle": "Static and Pixels",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -965,16 +839,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-03-static-and-pixels",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-104",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622548",
+    "albumUPC": "700521520499",
     "trackTitle": "Ocea's Theme",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -983,16 +857,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-04-oceas-theme",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-105",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622549",
+    "albumUPC": "700521520499",
     "trackTitle": "The Crystal Plains",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -1001,16 +875,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-05-the-crystal-plains",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-106",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622550",
+    "albumUPC": "700521520499",
     "trackTitle": "Sanctuary Village",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -1019,16 +893,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-06-sanctuary-village",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-107",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622551",
+    "albumUPC": "700521520499",
     "trackTitle": "Sanctuary Inn",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -1037,16 +911,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-07-sanctuary-inn",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-108",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622552",
+    "albumUPC": "700521520499",
     "trackTitle": "The Crystal Sage",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -1055,16 +929,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-08-the-crystal-sage",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-109",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622553",
+    "albumUPC": "700521520499",
     "trackTitle": "Half a Medallion",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -1073,16 +947,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-09-half-a-medallion",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-110",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622554",
+    "albumUPC": "700521520499",
     "trackTitle": "Glitch Phantoms",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -1091,16 +965,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-10-glitch-phantoms",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-111",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622555",
+    "albumUPC": "700521520499",
     "trackTitle": "The Iron Sentinels",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -1109,16 +983,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-11-the-iron-sentinels",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-112",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622556",
+    "albumUPC": "700521520499",
     "trackTitle": "Tay's Theme",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -1127,16 +1001,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-12-tays-theme",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-113",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622557",
+    "albumUPC": "700521520499",
     "trackTitle": "The Grand Decree",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -1145,16 +1019,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-13-the-grand-decree",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-114",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622558",
+    "albumUPC": "700521520499",
     "trackTitle": "Golden Data",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -1163,16 +1037,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-14-golden-data",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-115",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622559",
+    "albumUPC": "700521520499",
     "trackTitle": "Dungeon Escape",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -1181,16 +1055,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-15-dungeon-escape",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-116",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622560",
+    "albumUPC": "700521520499",
     "trackTitle": "Guardian of the Gate",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -1199,16 +1073,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-16-guardian-of-the-gate",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-117",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622561",
+    "albumUPC": "700521520499",
     "trackTitle": "The Corrupted Ceremony",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -1217,16 +1091,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-17-the-corrupted-ceremony",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-118",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622562",
+    "albumUPC": "700521520499",
     "trackTitle": "The Wizard's Ruin",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -1235,16 +1109,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-18-the-wizards-ruin",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-119",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622564",
+    "albumUPC": "700521520499",
     "trackTitle": "The Wizard's Lair",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -1253,16 +1127,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-19-the-wizards-lair-phase-one",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-120",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622565",
+    "albumUPC": "700521520499",
     "trackTitle": "The True Form",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -1271,16 +1145,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-20-the-true-form",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-121",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622566",
+    "albumUPC": "700521520499",
     "trackTitle": "The Grand Decree (Reprise)",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -1289,16 +1163,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-21-the-grand-decree-reprise",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-122",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622567",
+    "albumUPC": "700521520499",
     "trackTitle": "Game Over",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -1307,16 +1181,16 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-22-game-over",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-1992-123",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2622568",
+    "albumUPC": "700521520499",
     "trackTitle": "Save State",
     "albumTitle": "Runebreaker (Original Soundtrack)",
     "albumProductionType": "StudioAlbum",
@@ -1325,11 +1199,11 @@
     "albumSlug": "1992-runebreaker-ost",
     "trackSlug": "1-23-save-state-staff-roll",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
-    "distributor": "DistroKid",
+    "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-1995-101",
@@ -2143,8 +2017,8 @@
   },
   {
     "err_id": "ERR-003-2000-101",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2658742",
+    "albumUPC": "882011684321",
     "trackTitle": "Chasing the Sun",
     "albumTitle": "Guiding Stars",
     "albumProductionType": "StudioAlbum",
@@ -2156,13 +2030,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2000-102",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2658744",
+    "albumUPC": "882011684321",
     "trackTitle": "My Anchor",
     "albumTitle": "Guiding Stars",
     "albumProductionType": "StudioAlbum",
@@ -2174,13 +2048,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2000-103",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2658745",
+    "albumUPC": "882011684321",
     "trackTitle": "The Boy Inside",
     "albumTitle": "Guiding Stars",
     "albumProductionType": "StudioAlbum",
@@ -2192,13 +2066,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2000-104",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2658746",
+    "albumUPC": "882011684321",
     "trackTitle": "The DeMarco Decree",
     "albumTitle": "Guiding Stars",
     "albumProductionType": "StudioAlbum",
@@ -2210,13 +2084,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2000-105",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2658747",
+    "albumUPC": "882011684321",
     "trackTitle": "Radio Waves",
     "albumTitle": "Guiding Stars",
     "albumProductionType": "StudioAlbum",
@@ -2228,13 +2102,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2000-106",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2658748",
+    "albumUPC": "882011684321",
     "trackTitle": "Guiding Stars",
     "albumTitle": "Guiding Stars",
     "albumProductionType": "StudioAlbum",
@@ -2246,13 +2120,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2000-107",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2658749",
+    "albumUPC": "882011684321",
     "trackTitle": "The House on Lisa Court",
     "albumTitle": "Guiding Stars",
     "albumProductionType": "StudioAlbum",
@@ -2264,13 +2138,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2000-108",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2658750",
+    "albumUPC": "882011684321",
     "trackTitle": "Two-Part Time",
     "albumTitle": "Guiding Stars",
     "albumProductionType": "StudioAlbum",
@@ -2282,13 +2156,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2000-109",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2658751",
+    "albumUPC": "882011684321",
     "trackTitle": "The House on Lisa Court (Alternate Take)",
     "albumTitle": "Guiding Stars",
     "albumProductionType": "StudioAlbum",
@@ -2300,13 +2174,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-101",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647714",
+    "albumUPC": "882011766379",
     "trackTitle": "Nineteen and Invincible",
     "albumTitle": "Static & Silence, Book 1: The Long Road West",
     "albumProductionType": "StudioAlbum",
@@ -2319,12 +2193,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-102",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647715",
+    "albumUPC": "882011766379",
     "trackTitle": "A New Light",
     "albumTitle": "Static & Silence, Book 1: The Long Road West",
     "albumProductionType": "StudioAlbum",
@@ -2337,12 +2211,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-103",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647716",
+    "albumUPC": "882011766379",
     "trackTitle": "Painted Smile",
     "albumTitle": "Static & Silence, Book 1: The Long Road West",
     "albumProductionType": "StudioAlbum",
@@ -2355,12 +2229,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-104",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647717",
+    "albumUPC": "882011766379",
     "trackTitle": "The Unspoken Word",
     "albumTitle": "Static & Silence, Book 1: The Long Road West",
     "albumProductionType": "StudioAlbum",
@@ -2373,12 +2247,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-105",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647718",
+    "albumUPC": "882011766379",
     "trackTitle": "Westward, Broken",
     "albumTitle": "Static & Silence, Book 1: The Long Road West",
     "albumProductionType": "StudioAlbum",
@@ -2391,12 +2265,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-106",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647719",
+    "albumUPC": "882011766379",
     "trackTitle": "Nashville",
     "albumTitle": "Static & Silence, Book 1: The Long Road West",
     "albumProductionType": "StudioAlbum",
@@ -2409,12 +2283,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-107",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647720",
+    "albumUPC": "882011766379",
     "trackTitle": "The Colby Turn",
     "albumTitle": "Static & Silence, Book 1: The Long Road West",
     "albumProductionType": "StudioAlbum",
@@ -2427,12 +2301,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-108",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647721",
+    "albumUPC": "882011766379",
     "trackTitle": "Mile High",
     "albumTitle": "Static & Silence, Book 1: The Long Road West",
     "albumProductionType": "StudioAlbum",
@@ -2445,12 +2319,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-109",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647722",
+    "albumUPC": "882011766379",
     "trackTitle": "Pressure & Lies",
     "albumTitle": "Static & Silence, Book 1: The Long Road West",
     "albumProductionType": "StudioAlbum",
@@ -2463,12 +2337,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-110",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647723",
+    "albumUPC": "882011766379",
     "trackTitle": "The Idaho Line",
     "albumTitle": "Static & Silence, Book 1: The Long Road West",
     "albumProductionType": "StudioAlbum",
@@ -2481,12 +2355,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-111",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647724",
+    "albumUPC": "882011766379",
     "trackTitle": "The High Desert",
     "albumTitle": "Static & Silence, Book 1: The Long Road West",
     "albumProductionType": "StudioAlbum",
@@ -2499,12 +2373,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-112",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647725",
+    "albumUPC": "882011766379",
     "trackTitle": "The Pasco Lock",
     "albumTitle": "Static & Silence, Book 1: The Long Road West",
     "albumProductionType": "StudioAlbum",
@@ -2517,12 +2391,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-113",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647726",
+    "albumUPC": "882011766379",
     "trackTitle": "The Ellensburg Burn",
     "albumTitle": "Static & Silence, Book 1: The Long Road West",
     "albumProductionType": "StudioAlbum",
@@ -2535,12 +2409,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-114",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647727",
+    "albumUPC": "882011766379",
     "trackTitle": "Stewart Street",
     "albumTitle": "Static & Silence, Book 1: The Long Road West",
     "albumProductionType": "StudioAlbum",
@@ -2553,12 +2427,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-115",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647728",
+    "albumUPC": "882011766379",
     "trackTitle": "A Night in Kent",
     "albumTitle": "Static & Silence, Book 1: The Long Road West",
     "albumProductionType": "StudioAlbum",
@@ -2571,12 +2445,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-116",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647729",
+    "albumUPC": "882011766379",
     "trackTitle": "Shattered Voice, Silent Explosion",
     "albumTitle": "Static & Silence, Book 1: The Long Road West",
     "albumProductionType": "StudioAlbum",
@@ -2589,12 +2463,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-101",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647812",
+    "albumUPC": "882011755366",
     "trackTitle": "Curbstone, 4 AM",
     "albumTitle": "Static & Silence, Book 2: The Journey Home",
     "albumProductionType": "StudioAlbum",
@@ -2607,12 +2481,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-102",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647813",
+    "albumUPC": "882011755366",
     "trackTitle": "165 to Burien",
     "albumTitle": "Static & Silence, Book 2: The Journey Home",
     "albumProductionType": "StudioAlbum",
@@ -2625,12 +2499,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-103",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647814",
+    "albumUPC": "882011755366",
     "trackTitle": "A TTY Lifeline",
     "albumTitle": "Static & Silence, Book 2: The Journey Home",
     "albumProductionType": "StudioAlbum",
@@ -2643,12 +2517,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-104",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647815",
+    "albumUPC": "882011755366",
     "trackTitle": "The Anchor Holds (Part 1: The Longest Hour / Part 2: My Anchor (Reunion))",
     "albumTitle": "Static & Silence, Book 2: The Journey Home",
     "albumProductionType": "StudioAlbum",
@@ -2661,12 +2535,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-105",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647816",
+    "albumUPC": "882011755366",
     "trackTitle": "Airside Sanctuary",
     "albumTitle": "Static & Silence, Book 2: The Journey Home",
     "albumProductionType": "StudioAlbum",
@@ -2679,12 +2553,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-106",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647817",
+    "albumUPC": "882011755366",
     "trackTitle": "Homeward on This Day",
     "albumTitle": "Static & Silence, Book 2: The Journey Home",
     "albumProductionType": "StudioAlbum",
@@ -2697,12 +2571,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-107",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647818",
+    "albumUPC": "882011755366",
     "trackTitle": "A Song of Homecoming",
     "albumTitle": "Static & Silence, Book 2: The Journey Home",
     "albumProductionType": "StudioAlbum",
@@ -2715,12 +2589,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-108",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647819",
+    "albumUPC": "882011755366",
     "trackTitle": "Flight 1138",
     "albumTitle": "Static & Silence, Book 2: The Journey Home",
     "albumProductionType": "StudioAlbum",
@@ -2733,12 +2607,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-109",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647820",
+    "albumUPC": "882011755366",
     "trackTitle": "Midway to Norfolk",
     "albumTitle": "Static & Silence, Book 2: The Journey Home",
     "albumProductionType": "StudioAlbum",
@@ -2751,12 +2625,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-110",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647821",
+    "albumUPC": "882011755366",
     "trackTitle": "Sanctuary",
     "albumTitle": "Static & Silence, Book 2: The Journey Home",
     "albumProductionType": "StudioAlbum",
@@ -2769,12 +2643,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-111",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647822",
+    "albumUPC": "882011755366",
     "trackTitle": "Haven City",
     "albumTitle": "Static & Silence, Book 2: The Journey Home",
     "albumProductionType": "StudioAlbum",
@@ -2787,12 +2661,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-112",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647823",
+    "albumUPC": "882011755366",
     "trackTitle": "Guiding Stars (Reprise)",
     "albumTitle": "Static & Silence, Book 2: The Journey Home",
     "albumProductionType": "StudioAlbum",
@@ -2805,12 +2679,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-113",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647824",
+    "albumUPC": "882011755366",
     "trackTitle": "I'll Drag You Back",
     "albumTitle": "Static & Silence, Book 2: The Journey Home",
     "albumProductionType": "StudioAlbum",
@@ -2823,12 +2697,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-114",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647825",
+    "albumUPC": "882011755366",
     "trackTitle": "The Scar Remains",
     "albumTitle": "Static & Silence, Book 2: The Journey Home",
     "albumProductionType": "StudioAlbum",
@@ -2841,12 +2715,12 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2001-115",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2647826",
+    "albumUPC": "882011755366",
     "trackTitle": "This House Stands",
     "albumTitle": "Static & Silence, Book 2: The Journey Home",
     "albumProductionType": "StudioAlbum",
@@ -2859,7 +2733,7 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2001-101",
@@ -3115,8 +2989,8 @@
   },
   {
     "err_id": "ERR-999-2002-101",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6J52643486",
+    "albumUPC": "700978540606",
     "trackTitle": "The Flight Path",
     "albumTitle": "Crimson Node",
     "albumProductionType": "StudioAlbum",
@@ -3128,13 +3002,13 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-07",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-2002-102",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6J52643487",
+    "albumUPC": "700978540606",
     "trackTitle": "Crimson Node",
     "albumTitle": "Crimson Node",
     "albumProductionType": "StudioAlbum",
@@ -3146,13 +3020,13 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-07",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-2002-103",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6J52643488",
+    "albumUPC": "700978540606",
     "trackTitle": "Player Two",
     "albumTitle": "Crimson Node",
     "albumProductionType": "StudioAlbum",
@@ -3164,13 +3038,13 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-07",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-2002-104",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6J52643489",
+    "albumUPC": "700978540606",
     "trackTitle": "The Illusion: Syntax Error",
     "albumTitle": "Crimson Node",
     "albumProductionType": "StudioAlbum",
@@ -3182,13 +3056,13 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-07",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-2002-105",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6J52643490",
+    "albumUPC": "700978540606",
     "trackTitle": "The Weighted Blankets",
     "albumTitle": "Crimson Node",
     "albumProductionType": "StudioAlbum",
@@ -3200,13 +3074,13 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-07",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-2002-106",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6J52643491",
+    "albumUPC": "700978540606",
     "trackTitle": "Quality of Service",
     "albumTitle": "Crimson Node",
     "albumProductionType": "StudioAlbum",
@@ -3218,13 +3092,13 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-07",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-2002-107",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6J52643492",
+    "albumUPC": "700978540606",
     "trackTitle": "Terminal State",
     "albumTitle": "Crimson Node",
     "albumProductionType": "StudioAlbum",
@@ -3236,13 +3110,13 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-07",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-2002-108",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6J52643493",
+    "albumUPC": "700978540606",
     "trackTitle": "Unhandled Exception",
     "albumTitle": "Crimson Node",
     "albumProductionType": "StudioAlbum",
@@ -3254,13 +3128,13 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-07",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-2002-109",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6J52643494",
+    "albumUPC": "700978540606",
     "trackTitle": "Paired Devices",
     "albumTitle": "Crimson Node",
     "albumProductionType": "StudioAlbum",
@@ -3272,13 +3146,13 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-07",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-2002-110",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6J52643495",
+    "albumUPC": "700978540606",
     "trackTitle": "One of the Girls",
     "albumTitle": "Crimson Node",
     "albumProductionType": "StudioAlbum",
@@ -3290,13 +3164,13 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-07",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-2002-111",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6J52643496",
+    "albumUPC": "700978540606",
     "trackTitle": "Sarah and Shiloh",
     "albumTitle": "Crimson Node",
     "albumProductionType": "StudioAlbum",
@@ -3308,13 +3182,13 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-07",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-2002-112",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6J52643497",
+    "albumUPC": "700978540606",
     "trackTitle": "The Ejection: Honey Chicken",
     "albumTitle": "Crimson Node",
     "albumProductionType": "StudioAlbum",
@@ -3326,13 +3200,13 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-07",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-2002-113",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6J52643498",
+    "albumUPC": "700978540606",
     "trackTitle": "The Vivarium",
     "albumTitle": "Crimson Node",
     "albumProductionType": "StudioAlbum",
@@ -3344,13 +3218,13 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-07",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-2002-114",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6J52643499",
+    "albumUPC": "700978540606",
     "trackTitle": "The Clearance Protocol",
     "albumTitle": "Crimson Node",
     "albumProductionType": "StudioAlbum",
@@ -3362,13 +3236,13 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-07",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-999-2002-115",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6J52643500",
+    "albumUPC": "700978540606",
     "trackTitle": "Safe Mode: The Gymnastic Mat",
     "albumTitle": "Crimson Node",
     "albumProductionType": "StudioAlbum",
@@ -3380,13 +3254,13 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-09-07",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-101",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2673220",
+    "albumUPC": "882011724119",
     "trackTitle": "1996 (An Extension of Me)",
     "albumTitle": "The Eleventh Child, Book 1: System.Crash",
     "albumProductionType": "StudioAlbum",
@@ -3398,13 +3272,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-102",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2673221",
+    "albumUPC": "882011724119",
     "trackTitle": "The Dependency Loop",
     "albumTitle": "The Eleventh Child, Book 1: System.Crash",
     "albumProductionType": "StudioAlbum",
@@ -3416,13 +3290,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-103",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2673222",
+    "albumUPC": "882011724119",
     "trackTitle": "Inappropriate (The Opt-Out)",
     "albumTitle": "The Eleventh Child, Book 1: System.Crash",
     "albumProductionType": "StudioAlbum",
@@ -3434,13 +3308,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-104",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2673223",
+    "albumUPC": "882011724119",
     "trackTitle": "The Silly College Experiment (Astrophysics)",
     "albumTitle": "The Eleventh Child, Book 1: System.Crash",
     "albumProductionType": "StudioAlbum",
@@ -3452,13 +3326,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-105",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2673224",
+    "albumUPC": "882011724119",
     "trackTitle": "Route Four-Sixty (The Seven-Hour Drive)",
     "albumTitle": "The Eleventh Child, Book 1: System.Crash",
     "albumProductionType": "StudioAlbum",
@@ -3470,13 +3344,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-106",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2673225",
+    "albumUPC": "882011724119",
     "trackTitle": "Stranded (A Real College Kid)",
     "albumTitle": "The Eleventh Child, Book 1: System.Crash",
     "albumProductionType": "StudioAlbum",
@@ -3488,13 +3362,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-107",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2673226",
+    "albumUPC": "882011724119",
     "trackTitle": "Clerical Error (A New Light)",
     "albumTitle": "The Eleventh Child, Book 1: System.Crash",
     "albumProductionType": "StudioAlbum",
@@ -3506,13 +3380,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-108",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2673227",
+    "albumUPC": "882011724119",
     "trackTitle": "System.Crash(Meltdown_01)",
     "albumTitle": "The Eleventh Child, Book 1: System.Crash",
     "albumProductionType": "StudioAlbum",
@@ -3524,13 +3398,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-109",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2673228",
+    "albumUPC": "882011724119",
     "trackTitle": "The Anchor Holds (Aubrie's Theme)",
     "albumTitle": "The Eleventh Child, Book 1: System.Crash",
     "albumProductionType": "StudioAlbum",
@@ -3542,13 +3416,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-110",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2673229",
+    "albumUPC": "882011724119",
     "trackTitle": "The Same Constellations",
     "albumTitle": "The Eleventh Child, Book 1: System.Crash",
     "albumProductionType": "StudioAlbum",
@@ -3560,13 +3434,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-111",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2673230",
+    "albumUPC": "882011724119",
     "trackTitle": "The Naming (A Joke That Stuck)",
     "albumTitle": "The Eleventh Child, Book 1: System.Crash",
     "albumProductionType": "StudioAlbum",
@@ -3578,13 +3452,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-112",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2673231",
+    "albumUPC": "882011724119",
     "trackTitle": "A Different Kind of Constellation (The Pact)",
     "albumTitle": "The Eleventh Child, Book 1: System.Crash",
     "albumProductionType": "StudioAlbum",
@@ -3596,13 +3470,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-113",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2673232",
+    "albumUPC": "882011724119",
     "trackTitle": "The Cut Cord (No Service)",
     "albumTitle": "The Eleventh Child, Book 1: System.Crash",
     "albumProductionType": "StudioAlbum",
@@ -3614,13 +3488,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-114",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2673233",
+    "albumUPC": "882011724119",
     "trackTitle": "[LOGISTICS] (The Buddy System)",
     "albumTitle": "The Eleventh Child, Book 1: System.Crash",
     "albumProductionType": "StudioAlbum",
@@ -3632,13 +3506,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-115",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2673234",
+    "albumUPC": "882011724119",
     "trackTitle": "Sanctuary (The Thanksgiving Exodus)",
     "albumTitle": "The Eleventh Child, Book 1: System.Crash",
     "albumProductionType": "StudioAlbum",
@@ -3650,13 +3524,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-116",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2673235",
+    "albumUPC": "882011724119",
     "trackTitle": "Guardianship (The Summons)",
     "albumTitle": "The Eleventh Child, Book 1: System.Crash",
     "albumProductionType": "StudioAlbum",
@@ -3668,13 +3542,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-117",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2673236",
+    "albumUPC": "882011724119",
     "trackTitle": "The Bluewater Bunker",
     "albumTitle": "The Eleventh Child, Book 1: System.Crash",
     "albumProductionType": "StudioAlbum",
@@ -3686,13 +3560,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-118",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2673237",
+    "albumUPC": "882011724119",
     "trackTitle": "Dismissed (With Prejudice)",
     "albumTitle": "The Eleventh Child, Book 1: System.Crash",
     "albumProductionType": "StudioAlbum",
@@ -3704,13 +3578,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-101",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2652201",
+    "albumUPC": "882011718965",
     "trackTitle": "The New Normal (6:00 AM)",
     "albumTitle": "The Eleventh Child, Book 2: System.Restore",
     "albumProductionType": "StudioAlbum",
@@ -3722,13 +3596,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-102",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2652202",
+    "albumUPC": "882011718965",
     "trackTitle": "The Paper Invasion (CP87A)",
     "albumTitle": "The Eleventh Child, Book 2: System.Restore",
     "albumProductionType": "StudioAlbum",
@@ -3740,13 +3614,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-103",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2652203",
+    "albumUPC": "882011718965",
     "trackTitle": "I-64 (The Gauntlet)",
     "albumTitle": "The Eleventh Child, Book 2: System.Restore",
     "albumProductionType": "StudioAlbum",
@@ -3758,13 +3632,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-104",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2652204",
+    "albumUPC": "882011718965",
     "trackTitle": "99.8 (The Fever)",
     "albumTitle": "The Eleventh Child, Book 2: System.Restore",
     "albumProductionType": "StudioAlbum",
@@ -3776,13 +3650,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-105",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2652205",
+    "albumUPC": "882011718965",
     "trackTitle": "The Leviathan Cut (A Sister's Love)",
     "albumTitle": "The Eleventh Child, Book 2: System.Restore",
     "albumProductionType": "StudioAlbum",
@@ -3794,13 +3668,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-106",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2652206",
+    "albumUPC": "882011718965",
     "trackTitle": "An 80s Education (The Brooks Mix)",
     "albumTitle": "The Eleventh Child, Book 2: System.Restore",
     "albumProductionType": "StudioAlbum",
@@ -3812,13 +3686,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-107",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2652207",
+    "albumUPC": "882011718965",
     "trackTitle": "What If I'm Like Her? (Stork & Cradle)",
     "albumTitle": "The Eleventh Child, Book 2: System.Restore",
     "albumProductionType": "StudioAlbum",
@@ -3830,13 +3704,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-108",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2652208",
+    "albumUPC": "882011718965",
     "trackTitle": "Logically Unfounded (The Pact of Six)",
     "albumTitle": "The Eleventh Child, Book 2: System.Restore",
     "albumProductionType": "StudioAlbum",
@@ -3848,13 +3722,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-109",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2652209",
+    "albumUPC": "882011718965",
     "trackTitle": "Friday, 9:32 AM (The Attack)",
     "albumTitle": "The Eleventh Child, Book 2: System.Restore",
     "albumProductionType": "StudioAlbum",
@@ -3866,13 +3740,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-110",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2652210",
+    "albumUPC": "882011718965",
     "trackTitle": "The Longest Night (NPO)",
     "albumTitle": "The Eleventh Child, Book 2: System.Restore",
     "albumProductionType": "StudioAlbum",
@@ -3884,13 +3758,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-111",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2652211",
+    "albumUPC": "882011718965",
     "trackTitle": "A CVICU Romance (Intimacy v2)",
     "albumTitle": "The Eleventh Child, Book 2: System.Restore",
     "albumProductionType": "StudioAlbum",
@@ -3902,13 +3776,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-112",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2652212",
+    "albumUPC": "882011718965",
     "trackTitle": "Cardiac Rehab (The Breaking Point)",
     "albumTitle": "The Eleventh Child, Book 2: System.Restore",
     "albumProductionType": "StudioAlbum",
@@ -3920,13 +3794,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-113",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2652213",
+    "albumUPC": "882011718965",
     "trackTitle": "The Accessibility Project",
     "albumTitle": "The Eleventh Child, Book 2: System.Restore",
     "albumProductionType": "StudioAlbum",
@@ -3938,13 +3812,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-003-2003-114",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QT6HJ2652214",
+    "albumUPC": "882011718965",
     "trackTitle": "The Eleventh Child (A Gauntlet of Hearts)",
     "albumTitle": "The Eleventh Child, Book 2: System.Restore",
     "albumProductionType": "StudioAlbum",
@@ -3956,13 +3830,13 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-08-28",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-11",
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2003-101",
     "isrc": "QZTBE2640384",
-    "albumUPC": "",
+    "albumUPC": "882068958949",
     "trackTitle": "Moon 2 (Roche Limit)",
     "albumTitle": "Mile Marker 98",
     "albumProductionType": "StudioAlbum",
@@ -3979,8 +3853,8 @@
   },
   {
     "err_id": "ERR-001-2003-102",
-    "isrc": "TBD",
-    "albumUPC": "",
+    "isrc": "QT6HM2673709",
+    "albumUPC": "882068958949",
     "trackTitle": "Fragmentation: Debris Field",
     "albumTitle": "Mile Marker 98",
     "albumProductionType": "StudioAlbum",
@@ -3997,8 +3871,8 @@
   },
   {
     "err_id": "ERR-001-2003-103",
-    "isrc": "TBD",
-    "albumUPC": "",
+    "isrc": "QT6HM2673710",
+    "albumUPC": "882068958949",
     "trackTitle": "Impact",
     "albumTitle": "Mile Marker 98",
     "albumProductionType": "StudioAlbum",
@@ -4015,8 +3889,8 @@
   },
   {
     "err_id": "ERR-001-2003-104",
-    "isrc": "TBD",
-    "albumUPC": "",
+    "isrc": "QT6HM2673711",
+    "albumUPC": "882068958949",
     "trackTitle": "Mayday: The Intercept",
     "albumTitle": "Mile Marker 98",
     "albumProductionType": "StudioAlbum",
@@ -4033,8 +3907,8 @@
   },
   {
     "err_id": "ERR-001-2003-105",
-    "isrc": "TBD",
-    "albumUPC": "",
+    "isrc": "QT6HM2673712",
+    "albumUPC": "882068958949",
     "trackTitle": "Star City: Orbital Ward",
     "albumTitle": "Mile Marker 98",
     "albumProductionType": "StudioAlbum",
@@ -4051,8 +3925,8 @@
   },
   {
     "err_id": "ERR-001-2003-106",
-    "isrc": "TBD",
-    "albumUPC": "",
+    "isrc": "QT6HM2673713",
+    "albumUPC": "882068958949",
     "trackTitle": "The Anchor's Hold",
     "albumTitle": "Mile Marker 98",
     "albumProductionType": "StudioAlbum",
@@ -4069,8 +3943,8 @@
   },
   {
     "err_id": "ERR-001-2003-107",
-    "isrc": "TBD",
-    "albumUPC": "",
+    "isrc": "QT6HM2673714",
+    "albumUPC": "882068958949",
     "trackTitle": "The Penumbra: Transit",
     "albumTitle": "Mile Marker 98",
     "albumProductionType": "StudioAlbum",
@@ -4087,8 +3961,8 @@
   },
   {
     "err_id": "ERR-001-2003-108",
-    "isrc": "TBD",
-    "albumUPC": "",
+    "isrc": "QT6HM2673715",
+    "albumUPC": "882068958949",
     "trackTitle": "Artificial Gravity",
     "albumTitle": "Mile Marker 98",
     "albumProductionType": "StudioAlbum",
@@ -4105,8 +3979,8 @@
   },
   {
     "err_id": "ERR-001-2003-109",
-    "isrc": "TBD",
-    "albumUPC": "",
+    "isrc": "QT6HM2673716",
+    "albumUPC": "882068958949",
     "trackTitle": "Friction: Reentry",
     "albumTitle": "Mile Marker 98",
     "albumProductionType": "StudioAlbum",
@@ -4123,8 +3997,8 @@
   },
   {
     "err_id": "ERR-001-2003-110",
-    "isrc": "TBD",
-    "albumUPC": "",
+    "isrc": "QT6HM2673717",
+    "albumUPC": "882068958949",
     "trackTitle": "Twin Moons: Touchdown",
     "albumTitle": "Mile Marker 98",
     "albumProductionType": "StudioAlbum",
@@ -4142,7 +4016,7 @@
   {
     "err_id": "ERR-001-2003-101",
     "isrc": "QZTB92611796",
-    "albumUPC": "",
+    "albumUPC": "882061217500",
     "trackTitle": "Moon 1 (Tidal Lock)",
     "albumTitle": "Sanctuary (Zero-G)",
     "albumProductionType": "StudioAlbum",
@@ -4159,8 +4033,8 @@
   },
   {
     "err_id": "ERR-001-2003-102",
-    "isrc": "TBD",
-    "albumUPC": "",
+    "isrc": "QT6HM2622629",
+    "albumUPC": "882061217500",
     "trackTitle": "Periapsis (Closest Approach)",
     "albumTitle": "Sanctuary (Zero-G)",
     "albumProductionType": "StudioAlbum",
@@ -4177,8 +4051,8 @@
   },
   {
     "err_id": "ERR-001-2003-103",
-    "isrc": "TBD",
-    "albumUPC": "",
+    "isrc": "QT6HM2622630",
+    "albumUPC": "882061217500",
     "trackTitle": "The Anchor's Weight",
     "albumTitle": "Sanctuary (Zero-G)",
     "albumProductionType": "StudioAlbum",
@@ -4195,8 +4069,8 @@
   },
   {
     "err_id": "ERR-001-2003-104",
-    "isrc": "TBD",
-    "albumUPC": "",
+    "isrc": "QT6HM2622631",
+    "albumUPC": "882061217500",
     "trackTitle": "Silent Ocean (Mare Tranquillitatis)",
     "albumTitle": "Sanctuary (Zero-G)",
     "albumProductionType": "StudioAlbum",
@@ -4213,8 +4087,8 @@
   },
   {
     "err_id": "ERR-001-2003-105",
-    "isrc": "TBD",
-    "albumUPC": "",
+    "isrc": "QT6HM2622632",
+    "albumUPC": "882061217500",
     "trackTitle": "Deep Pressure",
     "albumTitle": "Sanctuary (Zero-G)",
     "albumProductionType": "StudioAlbum",
@@ -4231,8 +4105,8 @@
   },
   {
     "err_id": "ERR-001-2003-106",
-    "isrc": "TBD",
-    "albumUPC": "",
+    "isrc": "QT6HM2622633",
+    "albumUPC": "882061217500",
     "trackTitle": "Synchronous",
     "albumTitle": "Sanctuary (Zero-G)",
     "albumProductionType": "StudioAlbum",
@@ -4249,8 +4123,8 @@
   },
   {
     "err_id": "ERR-001-2003-107",
-    "isrc": "TBD",
-    "albumUPC": "",
+    "isrc": "QT6HM2622634",
+    "albumUPC": "882061217500",
     "trackTitle": "The Penumbra",
     "albumTitle": "Sanctuary (Zero-G)",
     "albumProductionType": "StudioAlbum",
@@ -4267,8 +4141,8 @@
   },
   {
     "err_id": "ERR-001-2003-108",
-    "isrc": "TBD",
-    "albumUPC": "",
+    "isrc": "QT6HM2622635",
+    "albumUPC": "882061217500",
     "trackTitle": "Goldilocks Zone",
     "albumTitle": "Sanctuary (Zero-G)",
     "albumProductionType": "StudioAlbum",
@@ -4285,8 +4159,8 @@
   },
   {
     "err_id": "ERR-001-2003-109",
-    "isrc": "TBD",
-    "albumUPC": "",
+    "isrc": "QT6HM2622636",
+    "albumUPC": "882061217500",
     "trackTitle": "Telemetry",
     "albumTitle": "Sanctuary (Zero-G)",
     "albumProductionType": "StudioAlbum",
@@ -4303,8 +4177,8 @@
   },
   {
     "err_id": "ERR-001-2003-110",
-    "isrc": "TBD",
-    "albumUPC": "",
+    "isrc": "QT6HM2622637",
+    "albumUPC": "882061217500",
     "trackTitle": "Sanctuary: Zero G",
     "albumTitle": "Sanctuary (Zero-G)",
     "albumProductionType": "StudioAlbum",
@@ -4321,11 +4195,11 @@
   },
   {
     "err_id": "ERR-001-2007-101",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2642601",
+    "albumUPC": "700521345184",
     "trackTitle": "The Stardust Engine (The Rejected Mix)",
     "albumTitle": "Lost Sounds",
-    "albumProductionType": "StudioAlbum",
+    "albumProductionType": "CompilationAlbum",
     "artistPersona": "The Stardust Engine",
     "artistSlug": "the-stardust-engine",
     "albumSlug": "2007-lost-sounds",
@@ -4335,15 +4209,15 @@
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2007-102",
     "isrc": "QZWFW2601366",
-    "albumUPC": "",
+    "albumUPC": "700521345184",
     "trackTitle": "Midnight Drivers (Basement Demo)",
     "albumTitle": "Lost Sounds",
-    "albumProductionType": "StudioAlbum",
+    "albumProductionType": "CompilationAlbum",
     "artistPersona": "The Stardust Engine",
     "artistSlug": "the-stardust-engine",
     "albumSlug": "2007-lost-sounds",
@@ -4357,11 +4231,11 @@
   },
   {
     "err_id": "ERR-001-2007-103",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2642602",
+    "albumUPC": "700521345184",
     "trackTitle": "Radio Silence",
     "albumTitle": "Lost Sounds",
-    "albumProductionType": "StudioAlbum",
+    "albumProductionType": "CompilationAlbum",
     "artistPersona": "The Stardust Engine",
     "artistSlug": "the-stardust-engine",
     "albumSlug": "2007-lost-sounds",
@@ -4371,15 +4245,15 @@
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2007-104",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2642604",
+    "albumUPC": "700521345184",
     "trackTitle": "Empty Arenas",
     "albumTitle": "Lost Sounds",
-    "albumProductionType": "StudioAlbum",
+    "albumProductionType": "CompilationAlbum",
     "artistPersona": "The Stardust Engine",
     "artistSlug": "the-stardust-engine",
     "albumSlug": "2007-lost-sounds",
@@ -4389,15 +4263,15 @@
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2007-105",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2642605",
+    "albumUPC": "700521345184",
     "trackTitle": "The Contract",
     "albumTitle": "Lost Sounds",
-    "albumProductionType": "StudioAlbum",
+    "albumProductionType": "CompilationAlbum",
     "artistPersona": "The Stardust Engine",
     "artistSlug": "the-stardust-engine",
     "albumSlug": "2007-lost-sounds",
@@ -4407,15 +4281,15 @@
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2007-106",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2642606",
+    "albumUPC": "700521345184",
     "trackTitle": "Neon Hearts (Acoustic Sketch)",
     "albumTitle": "Lost Sounds",
-    "albumProductionType": "StudioAlbum",
+    "albumProductionType": "CompilationAlbum",
     "artistPersona": "The Stardust Engine",
     "artistSlug": "the-stardust-engine",
     "albumSlug": "2007-lost-sounds",
@@ -4425,15 +4299,15 @@
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2007-107",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2642607",
+    "albumUPC": "700521345184",
     "trackTitle": "Sanctuary: Zero G (Rough Mix)",
     "albumTitle": "Lost Sounds",
-    "albumProductionType": "StudioAlbum",
+    "albumProductionType": "CompilationAlbum",
     "artistPersona": "The Stardust Engine",
     "artistSlug": "the-stardust-engine",
     "albumSlug": "2007-lost-sounds",
@@ -4443,15 +4317,15 @@
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2007-108",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2642608",
+    "albumUPC": "700521345184",
     "trackTitle": "Steel and Synthetics",
     "albumTitle": "Lost Sounds",
-    "albumProductionType": "StudioAlbum",
+    "albumProductionType": "CompilationAlbum",
     "artistPersona": "The Stardust Engine",
     "artistSlug": "the-stardust-engine",
     "albumSlug": "2007-lost-sounds",
@@ -4461,15 +4335,15 @@
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2007-109",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2642609",
+    "albumUPC": "700521345184",
     "trackTitle": "Our Own Frequency",
     "albumTitle": "Lost Sounds",
-    "albumProductionType": "StudioAlbum",
+    "albumProductionType": "CompilationAlbum",
     "artistPersona": "The Stardust Engine",
     "artistSlug": "the-stardust-engine",
     "albumSlug": "2007-lost-sounds",
@@ -4479,19 +4353,19 @@
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2007-110",
     "isrc": "QZTBA2678359",
-    "albumUPC": "",
+    "albumUPC": "700521345184",
     "trackTitle": "The Promise (Corporate Demo)",
     "albumTitle": "Lost Sounds",
-    "albumProductionType": "StudioAlbum",
+    "albumProductionType": "CompilationAlbum",
     "artistPersona": "The Stardust Engine",
     "artistSlug": "the-stardust-engine",
     "albumSlug": "2007-lost-sounds",
-    "trackSlug": "1-10-the-promise-corporate-demo",
+    "trackSlug": "1-09-the-promise-corporate-demo",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
@@ -4502,14 +4376,14 @@
   {
     "err_id": "ERR-001-2007-111",
     "isrc": "QZTBA2678360",
-    "albumUPC": "",
+    "albumUPC": "700521345184",
     "trackTitle": "The Promise (Sabotage Demo)",
     "albumTitle": "Lost Sounds",
-    "albumProductionType": "StudioAlbum",
+    "albumProductionType": "CompilationAlbum",
     "artistPersona": "The Stardust Engine",
     "artistSlug": "the-stardust-engine",
     "albumSlug": "2007-lost-sounds",
-    "trackSlug": "1-11-the-promise-sabotage-demo",
+    "trackSlug": "1-10-the-promise-sabotage-demo",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
@@ -4520,14 +4394,14 @@
   {
     "err_id": "ERR-001-2007-112",
     "isrc": "QZTB62697618",
-    "albumUPC": "",
+    "albumUPC": "700521345184",
     "trackTitle": "Atmosphere (Warehouse Demo)",
     "albumTitle": "Lost Sounds",
-    "albumProductionType": "StudioAlbum",
+    "albumProductionType": "CompilationAlbum",
     "artistPersona": "The Stardust Engine",
     "artistSlug": "the-stardust-engine",
     "albumSlug": "2007-lost-sounds",
-    "trackSlug": "1-12-atmosphere-warehouse-demo",
+    "trackSlug": "1-11-atmosphere-warehouse-demo",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
@@ -4537,39 +4411,39 @@
   },
   {
     "err_id": "ERR-001-2007-113",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2642610",
+    "albumUPC": "700521345184",
     "trackTitle": "Sanctuary in the Storm",
     "albumTitle": "Lost Sounds",
-    "albumProductionType": "StudioAlbum",
+    "albumProductionType": "CompilationAlbum",
     "artistPersona": "The Stardust Engine",
     "artistSlug": "the-stardust-engine",
     "albumSlug": "2007-lost-sounds",
-    "trackSlug": "1-13-sanctuary-in-the-storm",
+    "trackSlug": "1-12-sanctuary-in-the-storm",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2007-114",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7V2642611",
+    "albumUPC": "700521345184",
     "trackTitle": "Not Her",
     "albumTitle": "Lost Sounds",
-    "albumProductionType": "StudioAlbum",
+    "albumProductionType": "CompilationAlbum",
     "artistPersona": "The Stardust Engine",
     "artistSlug": "the-stardust-engine",
     "albumSlug": "2007-lost-sounds",
-    "trackSlug": "1-14-not-her",
+    "trackSlug": "1-13-not-her",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
-    "status": "Pending DSP"
+    "status": "Released"
   },
   {
     "err_id": "ERR-005-2007-101",
@@ -5109,6 +4983,150 @@
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
     "realReleaseDate": "2026-10-11",
+    "status": "Pending DSP"
+  },
+  {
+    "err_id": "ERR-001-2008-101",
+    "isrc": "QTA7V2642609",
+    "albumUPC": "",
+    "trackTitle": "Our Own Frequency",
+    "albumTitle": "Our Own Frequency",
+    "albumProductionType": "StudioAlbum",
+    "artistPersona": "The Stardust Engine",
+    "artistSlug": "the-stardust-engine",
+    "albumSlug": "2008-our-own-frequency",
+    "trackSlug": "1-01-our-own-frequency",
+    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
+    "distributor": "DistroKid",
+    "aiClearance": "Pending Distribution",
+    "vocalType": "Synthetic / Non-Cloned",
+    "realReleaseDate": "2026-10-12",
+    "status": "Released"
+  },
+  {
+    "err_id": "ERR-001-2008-102",
+    "isrc": "",
+    "albumUPC": "",
+    "trackTitle": "The Noise Outside",
+    "albumTitle": "Our Own Frequency",
+    "albumProductionType": "StudioAlbum",
+    "artistPersona": "The Stardust Engine",
+    "artistSlug": "the-stardust-engine",
+    "albumSlug": "2008-our-own-frequency",
+    "trackSlug": "1-02-the-noise-outside",
+    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
+    "distributor": "DistroKid",
+    "aiClearance": "Pending Distribution",
+    "vocalType": "Synthetic / Non-Cloned",
+    "realReleaseDate": "2026-10-12",
+    "status": "Pending DSP"
+  },
+  {
+    "err_id": "ERR-001-2008-103",
+    "isrc": "",
+    "albumUPC": "",
+    "trackTitle": "Safe Person",
+    "albumTitle": "Our Own Frequency",
+    "albumProductionType": "StudioAlbum",
+    "artistPersona": "The Stardust Engine",
+    "artistSlug": "the-stardust-engine",
+    "albumSlug": "2008-our-own-frequency",
+    "trackSlug": "1-03-safe-person",
+    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
+    "distributor": "DistroKid",
+    "aiClearance": "Pending Distribution",
+    "vocalType": "Synthetic / Non-Cloned",
+    "realReleaseDate": "2026-10-12",
+    "status": "Pending DSP"
+  },
+  {
+    "err_id": "ERR-001-2008-104",
+    "isrc": "",
+    "albumUPC": "",
+    "trackTitle": "Unplugged",
+    "albumTitle": "Our Own Frequency",
+    "albumProductionType": "StudioAlbum",
+    "artistPersona": "The Stardust Engine",
+    "artistSlug": "the-stardust-engine",
+    "albumSlug": "2008-our-own-frequency",
+    "trackSlug": "1-04-unplugged",
+    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
+    "distributor": "DistroKid",
+    "aiClearance": "Pending Distribution",
+    "vocalType": "Synthetic / Non-Cloned",
+    "realReleaseDate": "2026-10-12",
+    "status": "Pending DSP"
+  },
+  {
+    "err_id": "ERR-001-2008-105",
+    "isrc": "",
+    "albumUPC": "",
+    "trackTitle": "Brother's Keeper",
+    "albumTitle": "Our Own Frequency",
+    "albumProductionType": "StudioAlbum",
+    "artistPersona": "The Stardust Engine",
+    "artistSlug": "the-stardust-engine",
+    "albumSlug": "2008-our-own-frequency",
+    "trackSlug": "1-05-brother-s-keeper",
+    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
+    "distributor": "DistroKid",
+    "aiClearance": "Pending Distribution",
+    "vocalType": "Synthetic / Non-Cloned",
+    "realReleaseDate": "2026-10-12",
+    "status": "Pending DSP"
+  },
+  {
+    "err_id": "ERR-001-2008-106",
+    "isrc": "",
+    "albumUPC": "",
+    "trackTitle": "Through the Static",
+    "albumTitle": "Our Own Frequency",
+    "albumProductionType": "StudioAlbum",
+    "artistPersona": "The Stardust Engine",
+    "artistSlug": "the-stardust-engine",
+    "albumSlug": "2008-our-own-frequency",
+    "trackSlug": "1-06-through-the-static",
+    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
+    "distributor": "DistroKid",
+    "aiClearance": "Pending Distribution",
+    "vocalType": "Synthetic / Non-Cloned",
+    "realReleaseDate": "2026-10-12",
+    "status": "Pending DSP"
+  },
+  {
+    "err_id": "ERR-001-2008-107",
+    "isrc": "",
+    "albumUPC": "",
+    "trackTitle": "The Weight We Carry",
+    "albumTitle": "Our Own Frequency",
+    "albumProductionType": "StudioAlbum",
+    "artistPersona": "The Stardust Engine",
+    "artistSlug": "the-stardust-engine",
+    "albumSlug": "2008-our-own-frequency",
+    "trackSlug": "1-07-the-weight-we-carry",
+    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
+    "distributor": "DistroKid",
+    "aiClearance": "Pending Distribution",
+    "vocalType": "Synthetic / Non-Cloned",
+    "realReleaseDate": "2026-10-12",
+    "status": "Pending DSP"
+  },
+  {
+    "err_id": "ERR-001-2008-108",
+    "isrc": "",
+    "albumUPC": "",
+    "trackTitle": "Just Us",
+    "albumTitle": "Our Own Frequency",
+    "albumProductionType": "StudioAlbum",
+    "artistPersona": "The Stardust Engine",
+    "artistSlug": "the-stardust-engine",
+    "albumSlug": "2008-our-own-frequency",
+    "trackSlug": "1-08-just-us",
+    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
+    "distributor": "DistroKid",
+    "aiClearance": "Pending Distribution",
+    "vocalType": "Synthetic / Non-Cloned",
+    "realReleaseDate": "2026-10-12",
     "status": "Pending DSP"
   },
   {

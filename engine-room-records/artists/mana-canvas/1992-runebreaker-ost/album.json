@@ -19,5 +19,8 @@
   "albumRelease": {
     "@type": "MusicRelease",
     "datePublished": "2026-10-23"
-  }
+  },
+  "sameAs": [
+    "https://distrokid.com/hyperfollow/manacanvas/runebreakeroriginalsoundtrack"
+  ]
 }

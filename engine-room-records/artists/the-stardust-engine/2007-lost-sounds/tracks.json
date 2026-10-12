@@ -8,7 +8,7 @@
       "discName": "Lost Sounds",
       "track": 1,
       "duration": "4:14",
-      "isrc": ""
+      "isrc": "QTA7V2642601"
     },
     {
       "fileName": "1-02-midnight-drivers-demo",
@@ -28,7 +28,7 @@
       "discName": "Lost Sounds",
       "track": 3,
       "duration": "4:29",
-      "isrc": ""
+      "isrc": "QTA7V2642602"
     },
     {
       "fileName": "1-04-empty-arenas",
@@ -38,7 +38,7 @@
       "discName": "Lost Sounds",
       "track": 4,
       "duration": "4:57",
-      "isrc": ""
+      "isrc": "QTA7V2642604"
     },
     {
       "fileName": "1-05-the-contract",
@@ -48,7 +48,7 @@
       "discName": "Lost Sounds",
       "track": 5,
       "duration": "3:18",
-      "isrc": ""
+      "isrc": "QTA7V2642605"
     },
     {
       "fileName": "1-06-neon-hearts-acoustic",
@@ -58,7 +58,7 @@
       "discName": "Lost Sounds",
       "track": 6,
       "duration": "3:22",
-      "isrc": ""
+      "isrc": "QTA7V2642606"
     },
     {
       "fileName": "1-07-zero-g-sanctuary",
@@ -68,7 +68,7 @@
       "discName": "Lost Sounds",
       "track": 7,
       "duration": "5:18",
-      "isrc": ""
+      "isrc": "QTA7V2642607"
     },
     {
       "fileName": "1-08-steel-and-synthetics",
@@ -78,7 +78,7 @@
       "discName": "Lost Sounds",
       "track": 8,
       "duration": "4:36",
-      "isrc": ""
+      "isrc": "QTA7V2642608"
     },
     {
       "fileName": "1-09-our-own-frequency",
@@ -88,10 +88,10 @@
       "discName": "Lost Sounds",
       "track": 9,
       "duration": "3:24",
-      "isrc": ""
+      "isrc": "QTA7V2642609"
     },
     {
-      "fileName": "1-10-the-promise-corporate-demo",
+      "fileName": "1-09-the-promise-corporate-demo",
       "title": "The Promise (Corporate Demo)",
       "masterWavPath": "demos/the-promise-corporate-demo",
       "disc": 1,
@@ -101,7 +101,7 @@
       "isrc": "QZTBA2678359"
     },
     {
-      "fileName": "1-11-the-promise-sabotage-demo",
+      "fileName": "1-10-the-promise-sabotage-demo",
       "title": "The Promise (Sabotage Demo)",
       "masterWavPath": "demos/the-promise-sabotage-demo",
       "disc": 1,
@@ -111,7 +111,7 @@
       "isrc": "QZTBA2678360"
     },
     {
-      "fileName": "1-12-atmosphere-warehouse-demo",
+      "fileName": "1-11-atmosphere-warehouse-demo",
       "title": "Atmosphere (Warehouse Demo)",
       "masterWavPath": "demos/atmosphere-warehouse-demo",
       "disc": 1,
@@ -121,24 +121,24 @@
       "isrc": "QZTB62697618"
     },
     {
-      "fileName": "1-13-sanctuary-in-the-storm",
+      "fileName": "1-12-sanctuary-in-the-storm",
       "title": "Sanctuary in the Storm",
       "masterWavPath": "outtakes/sanctuary-in-the-storm",
       "disc": 1,
       "discName": "Lost Sounds",
       "track": 13,
       "duration": "5:19",
-      "isrc": ""
+      "isrc": "QTA7V2642610"
     },
     {
-      "fileName": "1-14-not-her",
+      "fileName": "1-13-not-her",
       "title": "Not Her",
       "masterWavPath": "outtakes/not-her",
       "disc": 1,
       "discName": "Lost Sounds",
       "track": 14,
       "duration": "4:24",
-      "isrc": ""
+      "isrc": "QTA7V2642611"
     }
   ]
 }

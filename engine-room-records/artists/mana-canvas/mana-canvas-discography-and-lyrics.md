@@ -1195,3 +1195,379 @@ This is an instrumental track from the official soundtrack.
 
 [Instrumental]
 
+# Runebreaker (Original Soundtrack) (1992)
+* **Narrative Era:** 1992
+* **Real-World DSP Release:** 2026-10-11
+
+## Main Theme
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Insert Coin
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Static and Pixels
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Ocea's Theme
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## The Crystal Plains
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Sanctuary Village
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Sanctuary Inn
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## The Crystal Sage
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Half a Medallion
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Glitch Phantoms
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## The Iron Sentinels
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Tay's Theme
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## The Grand Decree
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Golden Data
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Dungeon Escape
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Guardian of the Gate
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## The Corrupted Ceremony
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## The Wizard's Ruin
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## The Wizard's Lair
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## The True Form
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## The Grand Decree (Reprise)
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Game Over
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Save State
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+# Runebreaker (Original Soundtrack) (1992)
+* **Narrative Era:** 1992
+* **Real-World DSP Release:** 2026-10-11
+
+## Main Theme
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Insert Coin
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Static and Pixels
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Ocea's Theme
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## The Crystal Plains
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Sanctuary Village
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Sanctuary Inn
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## The Crystal Sage
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Half a Medallion
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Glitch Phantoms
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## The Iron Sentinels
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Tay's Theme
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## The Grand Decree
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Golden Data
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Dungeon Escape
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Guardian of the Gate
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## The Corrupted Ceremony
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## The Wizard's Ruin
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## The Wizard's Lair
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## The True Form
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## The Grand Decree (Reprise)
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Game Over
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+
+## Save State
+### Lore
+This is an instrumental track from the official soundtrack.
+
+### Lyrics
+
+[Instrumental]
+

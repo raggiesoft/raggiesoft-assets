@@ -21,5 +21,8 @@
     "name": "DistroKid"
   },
   "conditionsOfAccess": "Cleared for Distribution",
-  "creativeWorkStatus": "Active Release"
+  "creativeWorkStatus": "Active Release",
+  "sameAs": [
+    "https://distrokid.com/hyperfollow/thestardustengine/midnightdrivers"
+  ]
 }

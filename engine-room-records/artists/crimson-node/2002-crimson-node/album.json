@@ -24,5 +24,8 @@
   "albumRelease": {
     "@type": "MusicRelease",
     "datePublished": "2026-09-18"
-  }
+  },
+  "sameAs": [
+    "https://distrokid.com/hyperfollow/crimsonnode/crimsonnode"
+  ]
 }

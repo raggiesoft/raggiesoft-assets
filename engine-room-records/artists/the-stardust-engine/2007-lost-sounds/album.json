@@ -23,5 +23,8 @@
   "albumRelease": {
     "@type": "MusicRelease",
     "datePublished": "2026-10-11"
-  }
+  },
+  "sameAs": [
+    "https://distrokid.com/hyperfollow/thestardustengine/lostsounds"
+  ]
 }
