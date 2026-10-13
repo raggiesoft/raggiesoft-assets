@@ -9,7 +9,7 @@
     "@type": "MusicGroup",
     "name": "The Stardust Engine"
   },
-  "albumProductionType": "CompilationAlbum",
+  "albumProductionType": "StudioAlbum",
   "albumReleaseType": "AlbumRelease",
   "genre": "80s Rock, B-Sides, Rarities",
   "temporalCoverage": "2007-11-20",
