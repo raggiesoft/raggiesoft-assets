@@ -28,6 +28,7 @@ Founded and operate RaggieSoft Media, an independent software development and di
 
 ### Clerk-Cashier
 **City of Virginia Beach Parks & Recreation | Virginia Beach, VA | May 2023 – Present**
+
 * **Data Engineering & ETL Pipelines:** Architect and manage manual ETL (Extract-Transform-Load) pipelines to ingest, normalize, and secure complex operational and financial data from legacy enterprise platforms (ActiveNet) into highly accessible digital formats.
 * **Player-Coach Leadership & Training:** Serve as the primary technical trainer and operational escalation point for municipal staff, translating complex data integrity protocols and Revenue Cycle Management (RCM) compliance into actionable training programs.
 * **Stakeholder & Governance Management:** Partner with facility leadership to optimize resource allocation, resolving complex logistical conflicts through data-driven insights and strict adherence to municipal policy.
@@ -35,16 +36,19 @@ Founded and operate RaggieSoft Media, an independent software development and di
 
 ### Computer Operations
 **Old Dominion University (ODU Online) | Norfolk, VA | Nov 2019 – Jul 2022**
+
 * **Enterprise Accessibility Strategy:** Served as the primary technical gatekeeper for enterprise-level data and web content during a massive, university-wide digital infrastructure migration to the Canvas LMS.
 * **Compliance Auditing:** Executed rigorous WCAG 2.1 AA and Section 508 compliance audits, remediating complex codebases (HTML/CSS) and ensuring strict structural integrity across institutional platforms using tools like Deque axe.
 * **Architectural Standardization:** Engineered universal, inherently accessible data/architectural templates deployed across the university ecosystem, heavily streamlining data-entry workflows for instructional design faculty.
 
 ### Mobile Applications Developer Intern
 **Dominion Enterprises | Norfolk, VA | Sep 2012 – Dec 2012**
+
 * Engineered cross-platform mobile applications for iOS and Android utilizing the JavaScript-based Titanium SDK.
 * Gained foundational, hands-on experience in mobile architecture and deployment, establishing a decade-long trajectory in software engineering.
 
 ## Education & Certification
+
 * **Tidewater Community College | Virginia Beach, VA**
   Associate of Science, Information Technology (Focus: Software Engineering & Web Dev) | Expected Dec 2027
 * **Old Dominion University | Norfolk, VA**

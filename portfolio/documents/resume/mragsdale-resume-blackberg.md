@@ -27,21 +27,25 @@ Founded and operate RaggieSoft Media, an independent software development and di
 
 ### Data Normalization & Technical Lead
 **City of Virginia Beach Parks & Recreation | Virginia Beach, VA | May 2023 – Present**
+
 * **Compliance Enforcement:** Govern output data to guarantee strict Section 508 compliance across all generated operational documents from legacy systems, ensuring institutional adherence to federal accessibility mandates.
 * **ETL Pipelines:** Architect and manage manual ETL pipelines to ingest and normalize complex operational data into highly accessible, mobile-friendly digital formats.
 
 ### Section 508 Compliance Specialist (Computer Operations)
 **Old Dominion University (ODU Online) | Norfolk, VA | Nov 2019 – Jul 2022**
+
 * **Enterprise Accessibility Strategy:** Served as the primary technical gatekeeper for enterprise-level web content during a massive, university-wide digital infrastructure migration to the Canvas LMS.
 * **Compliance Auditing:** Executed rigorous WCAG 2.1 AA and Section 508 compliance audits, remediating complex codebases (HTML/CSS) and ensuring strict structural integrity across institutional platforms using tools like Deque axe.
 * **Architectural Standardization:** Engineered universal, inherently accessible architectural templates deployed across the university ecosystem, heavily streamlining workflows for instructional design faculty.
 
 ### Mobile Applications Developer Intern
 **Dominion Enterprises | Norfolk, VA | Sep 2012 – Dec 2012**
+
 * Engineered cross-platform mobile applications for iOS and Android utilizing the JavaScript-based Titanium SDK.
 * Gained foundational, hands-on experience in component-based mobile architecture and deployment.
 
 ## Education & Certification
+
 * **Tidewater Community College | Virginia Beach, VA**
   Associate of Science, Information Technology (Focus: Software Engineering & Web Dev) | Expected Dec 2026
 * **Old Dominion University | Norfolk, VA**

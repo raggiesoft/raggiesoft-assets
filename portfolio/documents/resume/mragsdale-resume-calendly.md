@@ -27,16 +27,19 @@ Founded and operate RaggieSoft Media, an independent software development and di
 
 ### Accessible Document Engineer (Clerk-Cashier)
 **City of Virginia Beach Parks & Recreation | Virginia Beach, VA | May 2023 – Present**
+
 * **Data Engineering & ETL:** Architect manual ETL workflows to extract and normalize complex operational data from legacy enterprise platforms (ActiveNet) into highly structured, digital formats.
 * **Compliance Enforcement:** Govern output data to guarantee strict Section 508 compliance across generated operational documents, ensuring institutional adherence to federal accessibility mandates.
 
 ### Web Accessibility Specialist (Computer Operations)
 **Old Dominion University (ODU Online) | Norfolk, VA | Nov 2019 – Jul 2022**
+
 * **Enterprise Web Quality:** Served as the primary technical gatekeeper for web content quality and accessibility during a massive, university-wide digital infrastructure migration to the Canvas LMS.
 * **WCAG Remediation:** Executed rigorous manual testing and remediation of complex HTML/CSS codebases to ensure strict structural integrity, semantic correctness, and compatibility with screen readers.
 * **Architectural Standardization:** Engineered universal, inherently accessible architectural templates deployed across the university ecosystem, significantly lowering the cognitive load for content creators while maintaining strict baseline compliance.
 
 ## Education & Certification
+
 * **Tidewater Community College | Virginia Beach, VA**
   Associate of Science, Information Technology (Software Engineering) | Expected Dec 2027
 * **Old Dominion University | Norfolk, VA**

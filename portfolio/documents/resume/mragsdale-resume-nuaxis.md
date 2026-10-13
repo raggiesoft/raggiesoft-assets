@@ -16,6 +16,7 @@ Accessibility Engineer and Technical Specialist with deep expertise in WCAG 2.1 
 
 ### Computer Operations (Section 508 Compliance Specialist)
 **Old Dominion University (ODU Online) | Norfolk, VA | Nov 2019 – Jul 2022**
+
 * **Enterprise Accessibility Strategy:** Served as the primary technical gatekeeper for web content and data during a massive, university-wide digital infrastructure migration to the Canvas LMS.
 * **Compliance Auditing & Remediation:** Executed rigorous WCAG 2.1 AA and Section 508 compliance audits across institutional platforms. Remediated complex codebases (HTML/CSS) to ensure strict structural integrity and semantic correctness.
 * **Manual vs. Automated Testing:** Utilized automated tools like Deque axe for baseline scanning while prioritizing rigorous manual testing to catch contextual failures (e.g., focus trapping, illogical reading orders, missing ARIA live regions) that scanners consistently missed.
@@ -23,6 +24,7 @@ Accessibility Engineer and Technical Specialist with deep expertise in WCAG 2.1 
 
 ### Clerk-Cashier (Accessible Document Engineering)
 **City of Virginia Beach Parks & Recreation | Virginia Beach, VA | May 2023 – Present**
+
 * **Accessible Output Generation:** Architect and manage manual ETL workflows to extract complex operational and financial data from legacy enterprise platforms (ActiveNet) and generate strictly Section 508 compliant, screen-reader friendly digital documents.
 * **Compliance Enforcement:** Govern output data to guarantee strict accessibility compliance across all generated operational documents, ensuring institutional adherence to federal and municipal accessibility mandates.
 * **Training & Governance:** Serve as the primary technical trainer for municipal staff, translating complex data integrity protocols into actionable processes.
@@ -39,6 +41,7 @@ Founded and operate RaggieSoft Media, an independent software development and di
 * **AI Governance & Engineering:** Authored comprehensive architectural constraints, repository standards, and prompt protocols to govern AI-assisted engineering workflows across the codebase, ensuring maintainability, code integrity, and architectural consistency.
 
 ## Education & Certification
+
 * **Tidewater Community College | Virginia Beach, VA**
   Associate of Science, Information Technology (Focus: Software Engineering & Web Dev) | Expected Dec 2027
 * **Old Dominion University | Norfolk, VA**
