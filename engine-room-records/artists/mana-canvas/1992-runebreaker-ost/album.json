@@ -1,7 +1,7 @@
 {
   "@context": "https://schema.org",
   "@type": "MusicAlbum",
-  "name": "Runebreaker (Original Soundtrack)",
+  "name": "Runebreaker",
   "byArtist": {
     "@type": "MusicGroup",
     "name": "Mana Canvas"
