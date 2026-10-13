@@ -4,17 +4,17 @@
     "MusicAlbum",
     "Product"
   ],
-  "name": "Neon Nights",
+  "name": "Progress Street",
   "byArtist": {
     "@type": "MusicGroup",
     "name": "The Stardust Engine"
   },
   "albumProductionType": "StudioAlbum",
   "albumReleaseType": "AlbumRelease",
-  "genre": "Synthwave / Speed Rock / 80s Rock",
+  "genre": "80s Rock / Melodic Rock / Synth-Rock",
   "datePublished": "",
   "temporalCoverage": "2004",
-  "description": "High-octane synth-metal and melodic night-drive anthems from The Stardust Engine. Conceived during their peak touring era, Neon Nights channels the adrenaline of high-speed rain-slicked highways and electric storms.",
+  "description": "A heartfelt, 1980s-inspired rock album from The Stardust Engine, recorded in 2004 at their home on Progress Street NW in Blacksburg, Virginia. Celebrating collegiate roots, community transit, and unbreakable family unity, Progress Street features sweeping synth-rock power anthems including 'Before the Distance'.",
   "gtin12": "",
   "publisher": {
     "@type": "Organization",

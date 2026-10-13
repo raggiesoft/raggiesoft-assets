@@ -6,10 +6,10 @@
       "isrc": "",
       "masterWavPath": "studio/before-the-distance",
       "disc": 1,
-      "discName": "Neon Nights",
+      "discName": "Progress Street",
       "track": 1,
-      "legacyTier": "Deep Cut",
-      "loreNote": "High-speed night drive track opening the Neon Nights release.",
+      "legacyTier": "Fan Anthem",
+      "loreNote": "A mid-tempo 1980s pop-rock power anthem opening Progress Street, famously listened to by Jessica on her Quantum Zephyr during her November 2006 commuter train ride.",
       "duration": ""
     },
     {
@@ -18,10 +18,10 @@
       "isrc": "",
       "masterWavPath": "studio/seconds-into-forever",
       "disc": 1,
-      "discName": "Neon Nights",
+      "discName": "Progress Street",
       "track": 2,
-      "legacyTier": "Fan Anthem",
-      "loreNote": "Soaring synth-rock anthem capturing the rush of eternal moments under city lights.",
+      "legacyTier": "Deep Cut",
+      "loreNote": "Soaring synth-rock anthem capturing the rush of eternal moments under Virginia skies.",
       "duration": ""
     },
     {
@@ -30,10 +30,10 @@
       "isrc": "",
       "masterWavPath": "studio/thunder-in-the-rain",
       "disc": 1,
-      "discName": "Neon Nights",
+      "discName": "Progress Street",
       "track": 3,
       "legacyTier": "Chart Smash",
-      "loreNote": "Electrifying heavy synth-metal crescendo with torrential rain and lightning energy.",
+      "loreNote": "Electrifying heavy 80s synth-rock crescendo with torrential rain and lightning guitar energy.",
       "duration": ""
     }
   ]
