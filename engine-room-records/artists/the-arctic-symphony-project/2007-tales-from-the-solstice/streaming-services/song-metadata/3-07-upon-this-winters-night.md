@@ -2,7 +2,7 @@
 
 ## 1. DistroKid Upload Form Data
 * **Track Title:** Upon This Winter's Night
-* **Primary Artist:** The Winter Palace
+* **Primary Artist:** The Arctic Symphony Project
 * **Genre:** Symphonic Rock / Rock Opera / Holiday
 * **Real-World DSP Release Date:** 2026-10-11
 

@@ -1,39 +1,43 @@
 **LORE NOTE:**
-Archival lyrics document.
+The crowning symphonic rock centerpiece of *Tales from the Solstice*. Following the journey of a solitary traveler in a wheelchair yearning to find his way home through the winter storm, the track builds to an emotional rock-opera climax beneath the guiding light of the Northern Star.
 
 **LYRICS:**
 
-\[Intro]
-(Sudden, heavy driving cello riff enters)
-(Concussive rock drum kit and distorted rhythm guitar crash in)
+[Intro]
+(Heavy, driving cello riff)
+(Orchestral strings swell)
+(Rock drums kick in—slow, heavy beat)
 
-\[Verse 1]
-(symphonic rock music backs off to allow glockenspiel to take over the melody)
+[Verse 1]
 The clock upon the mantel chimes
 Reminding me of better times
 The window pane is frosted white
 I'm searching for a sign tonight
+I know the storm is raging on
+I know the daylight’s dead and gone
+But in this house, the fire burns
+Until the traveler returns
 
-\[Pre-Chorus]
-(Strings build tension, symphonic rock slowly kicks back in)
+[Pre-Chorus]
+(Strings build tension)
 Can you hear me calling?
 Can you see the glow?
 Through the miles of silence
 And the drifting snow?
 
-\[Chorus]
-(Symphonic Rock detonates with full authority back in at the word Candle)
+[Chorus]
 So keep a candle burning bright
 Upon this winter's night
 Though you've wandered far and wide
 Time remains upon your side
 Follow the star, follow the light
-And make it home tonight (Make it home tonight!)
+And make it home tonight
+(Make it home tonight!)
 
-\[Instrumental Break]
+[Instrumental Break]
 (Dramatic Cello Solo)
 
-\[Verse 2]
+[Verse 2]
 The world is cold and full of fear
 But sanctuary waits in here
 Don't let the shadows steal your way
@@ -43,7 +47,7 @@ But promises are yours to keep
 So lift your head and face the wind
 And let the journey home begin
 
-\[Chorus]
+[Chorus]
 So keep a candle burning bright
 Upon this winter's night
 Though you've wandered far and wide
@@ -51,19 +55,21 @@ Time remains upon your side
 Follow the star, follow the light
 And make it home tonight
 
-\[Bridge]
+[Bridge]
 (Tempo speeds up - Rock Opera style)
 (Male Lead) I’m sending out a prayer!
 (Choir) (Bring him home! Bring him home!)
 (Male Lead) To vanish all despair!
 (Choir) (You are not alone!)
-(Male Lead) No matter where you are No matter how far!
-(Male Lead) Just look to the Northern Star!
+(Male Lead) No matter where you are
+No matter how far!
+Just look to the Northern Star!
 
-\[Guitar Solo]
+[Guitar Solo]
 (Soaring, melodic electric guitar solo with orchestral backing)
+(Trans-Siberian Orchestra style)
 
-\[Chorus]
+[Chorus]
 So keep a candle burning bright
 Upon this winter's night
 Though you've wandered far and wide
@@ -71,12 +77,12 @@ Time remains upon your side
 Follow the star, follow the light
 And make it home tonight
 
-\[Outro]
+[Outro]
 Make it home tonight...
 (Follow the light...)
 Make it home tonight...
 (Upon this winter's night...)
 
-\[Big Finish]
-(Orchestral hit) (Symphonic Rock gives way to a music box that is reminiscent of Johannes Brahms's Wiegenlied to finish the song)
-
+[Big Finish]
+(Orchestral hit)
+(Sustain cello note fading out)
