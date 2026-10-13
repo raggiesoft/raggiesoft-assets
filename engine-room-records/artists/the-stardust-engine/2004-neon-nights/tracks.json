@@ -1,0 +1,40 @@
+{
+  "tracks": [
+    {
+      "fileName": "1-01-before-the-distance",
+      "title": "Before the Distance",
+      "isrc": "",
+      "masterWavPath": "studio/before-the-distance",
+      "disc": 1,
+      "discName": "Neon Nights",
+      "track": 1,
+      "legacyTier": "Deep Cut",
+      "loreNote": "High-speed night drive track opening the Neon Nights release.",
+      "duration": ""
+    },
+    {
+      "fileName": "1-02-seconds-into-forever",
+      "title": "Seconds into Forever",
+      "isrc": "",
+      "masterWavPath": "studio/seconds-into-forever",
+      "disc": 1,
+      "discName": "Neon Nights",
+      "track": 2,
+      "legacyTier": "Fan Anthem",
+      "loreNote": "Soaring synth-rock anthem capturing the rush of eternal moments under city lights.",
+      "duration": ""
+    },
+    {
+      "fileName": "1-03-thunder-in-the-rain",
+      "title": "Thunder in the Rain",
+      "isrc": "",
+      "masterWavPath": "studio/thunder-in-the-rain",
+      "disc": 1,
+      "discName": "Neon Nights",
+      "track": 3,
+      "legacyTier": "Chart Smash",
+      "loreNote": "Electrifying heavy synth-metal crescendo with torrential rain and lightning energy.",
+      "duration": ""
+    }
+  ]
+}
