@@ -186,13 +186,28 @@
         "realRelease": "",
         "genre": "Heavy Rock / Industrial / Arena Rock",
         "description": "Blistering, distorted electric guitars and aggressive rock energy. A visceral, high-friction confrontation with the trauma of The Crash of '90."
+      },
+      {
+        "title": "Progress Street",
+        "year": "2004",
+        "url": "/engine-room/artists/stardust-engine/discography/2004-progress-street",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-stardust-engine/2004-progress-street/album-art.jpg",
+        "spotifyId": "",
+        "appleId": "",
+        "amazonId": "",
+        "youtubeId": "",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": "",
+        "realRelease": "Upcoming",
+        "genre": "80s Rock / Melodic Rock / Synth-Rock",
+        "description": "Recorded at their home on Progress Street NW in Blacksburg, Virginia, this nostalgic 1980s synth-rock love letter to their collegiate roots was the final studio album the band released before exhaustion forced them into their Burnout Hiatus."
       }
     ]
   },
   "burnout-hiatus": {
     "label": "The Burnout Hiatus",
-    "heading": "2007: The Archival Releases",
-    "description": "During the band's \"Burnout Hiatus\" (2008-2014), this collection was a gift to the fans who had kept the flame alive.",
+    "heading": "2007-2008: The Burnout Hiatus & Archival Releases",
+    "description": "After releasing three full studio albums in under two years—culminating in 2004's Progress Street—exhaustion pushed the band into their \"Burnout Hiatus\" (2004-2014), yielding only an archival vault gift and an intimate acoustic studio retreat.",
     "albums": [
       {
         "title": "Lost Sounds",

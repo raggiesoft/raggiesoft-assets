@@ -1,0 +1,68 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: RUNEBREAKER SANCTUARY - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Runebreaker Sanctuary" reading theme for
+ * Sanctuary Village and the Sanctuary Inn. It captures the warm, safe,
+ * acoustic guitar and flute respite of a classic 16-bit RPG haven tucked
+ * beneath protective crystal formations.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Warm parchment, hearthstone amber, and village timber)
+ *    - Forced Dark Mode (Cozy candlelit mahogany inn with warm golden lantern glow)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
+/* Theme Name: Runebreaker Sanctuary */
+
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
+body.theme-runebreaker-sanctuary,
+body.theme-light.theme-runebreaker-sanctuary {
+    --rs-bg: #fffbeb; /* Warm lantern-lit parchment cream */
+    --rs-surface: #fef3c7; /* Golden hearthstone surface */
+    --rs-text: #271c19; /* Rich roasted timber text */
+    --rs-primary: #b45309; /* Warm acoustic amber-oak primary */
+    --rs-secondary: #15803d; /* Herbalist tunic forest green secondary */
+    --rs-border: #fde68a; /* Soft golden wheat border */
+}
+
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
+body.theme-dark.theme-runebreaker-sanctuary {
+    --rs-bg: #16100c; /* Cozy midnight timber inn background */
+    --rs-surface: #261b14; /* Warm hearthside oak surface */
+    --rs-text: #fef3c7; /* Soft candlelight cream text */
+    --rs-primary: #f59e0b; /* Glowing hearth ember gold primary */
+    --rs-secondary: #4ade80; /* Soothing healing-herb green secondary */
+    --rs-border: #422d1f; /* Carved wood beam border */
+}
+
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-runebreaker-sanctuary,
+    body:not(.theme-light):not(.theme-dark).theme-runebreaker-sanctuary {
+        --rs-bg: #16100c; /* Matches Forced Dark Mode */
+        --rs-surface: #261b14;
+        --rs-text: #fef3c7;
+        --rs-primary: #f59e0b;
+        --rs-secondary: #4ade80;
+        --rs-border: #422d1f;
+    }
+}
+

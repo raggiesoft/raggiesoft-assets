@@ -1,0 +1,69 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: RUNEBREAKER DUNGEON - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Runebreaker Dungeon" reading theme for scenes
+ * set inside the Grand Wizard's subterranean dungeon and Tay's cramped basement
+ * closet ("Tay's Theme", "Golden Data", "Dungeon Escape", "Guardian of the Gate",
+ * "Game Over"). It contrasts the cold, oppressive dungeon stone and purple
+ * torchlight with the warm golden sparks of Ocea's pixel magic.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Damp dungeon stone slate with golden pixel & purple rune accents)
+ *    - Forced Dark Mode (Pitch-black basement closet with golden pixel warmth & purple torches)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
+/* Theme Name: Runebreaker Dungeon */
+
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
+body.theme-runebreaker-dungeon,
+body.theme-light.theme-runebreaker-dungeon {
+    --rs-bg: #f1f5f9; /* Cold dungeon stone slate */
+    --rs-surface: #e2e8f0; /* Damp cinderblock grey surface */
+    --rs-text: #0f172a; /* Deep iron charcoal text */
+    --rs-primary: #d97706; /* Warm golden pixel data primary */
+    --rs-secondary: #7e22ce; /* Corrupted purple scroll secondary */
+    --rs-border: #cbd5e1; /* Weathered mortar border */
+}
+
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
+body.theme-dark.theme-runebreaker-dungeon {
+    --rs-bg: #09090f; /* Pitch-black windowless basement closet */
+    --rs-surface: #141422; /* Cold stone & gutted scrying terminal surface */
+    --rs-text: #e2e8f0; /* Pale moonlight stone text */
+    --rs-primary: #fbbf24; /* Glowing golden pixel magic primary */
+    --rs-secondary: #a855f7; /* Sputtering purple torchlight secondary */
+    --rs-border: #27273a; /* Heavy iron hinge border */
+}
+
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-runebreaker-dungeon,
+    body:not(.theme-light):not(.theme-dark).theme-runebreaker-dungeon {
+        --rs-bg: #09090f; /* Matches Forced Dark Mode */
+        --rs-surface: #141422;
+        --rs-text: #e2e8f0;
+        --rs-primary: #fbbf24;
+        --rs-secondary: #a855f7;
+        --rs-border: #27273a;
+    }
+}
+

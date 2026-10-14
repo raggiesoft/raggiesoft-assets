@@ -1,0 +1,68 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: RUNEBREAKER SAVE STATE - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Runebreaker Save State" reading theme for the
+ * dawn of the Second Era ("Save State (Until Next Time)"). It evokes the pure,
+ * uncorrupted golden sunrise over the restored Dream Kingdom and the serene,
+ * music-box calm of a 16-bit JRPG save point.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Radiant dawn ivory with united ruby-and-sapphire medallion accents)
+ *    - Forced Dark Mode (Serene starlit save-room navy with warm golden crystal glow)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
+/* Theme Name: Runebreaker Save State */
+
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
+body.theme-runebreaker-save-state,
+body.theme-light.theme-runebreaker-save-state {
+    --rs-bg: #fffdf7; /* Pure restored-realm dawn ivory */
+    --rs-surface: #fef9c3; /* Soft golden save-crystal glow surface */
+    --rs-text: #0f172a; /* Clear morning slate text */
+    --rs-primary: #ca8a04; /* Radiant golden save-state primary */
+    --rs-secondary: #0284c7; /* Restored sky sapphire secondary */
+    --rs-border: #fde047; /* Luminous golden crystal border */
+}
+
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
+body.theme-dark.theme-runebreaker-save-state {
+    --rs-bg: #060d1f; /* Serene JRPG save-room starlight navy */
+    --rs-surface: #0f1d3a; /* Peaceful music-box sanctuary surface */
+    --rs-text: #f8fafc; /* Pure starlit white text */
+    --rs-primary: #facc15; /* Warm golden save-point crystal primary */
+    --rs-secondary: #38bdf8; /* Restored Dream Kingdom cyan secondary */
+    --rs-border: #1e3a8a; /* Tranquil celestial blue border */
+}
+
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-runebreaker-save-state,
+    body:not(.theme-light):not(.theme-dark).theme-runebreaker-save-state {
+        --rs-bg: #060d1f; /* Matches Forced Dark Mode */
+        --rs-surface: #0f1d3a;
+        --rs-text: #f8fafc;
+        --rs-primary: #facc15;
+        --rs-secondary: #38bdf8;
+        --rs-border: #1e3a8a;
+    }
+}
+

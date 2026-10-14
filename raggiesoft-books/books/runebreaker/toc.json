@@ -1,57 +1,200 @@
 {
-    "series_title": "Dream Kingdom",
+    "series_title": "Runebreaker: The Dream Kingdom",
     "series_slug": "runebreaker",
-    "series_description": "An ethereal journey into a fantastical realm where dreams and reality collide.",
-    "series_description_long": "---\ntitle: \"Dream Kingdom\"\n---\nEnter the *Dream Kingdom*, a breathtaking, ethereal realm where the boundaries between imagination and reality dissolve. This series is a visually stunning, emotionally resonant journey through a world shaped by hope, fear, and the subconscious mind, offering a profound exploration of what it means to truly awaken.",
-    "series_image": "/raggiesoft-books/images/covers/2x3/dream-kingdom.jpg",
+    "series_description": "For four hundred and four years of the Era of the Crystal, the inhabitants of the Dream Kingdom whispered of an ancient legend: that the Sundered Crystal\u2014one half crimson, one half sapphire\u2014would one day return to reunite the fractured code of their world. Over the centuries, as the tyrannical Grand Wizard seized the Great Directory and no trace of the two halves was ever found, the people came to believe the Crystal was nothing more than a myth. Then, on a quiet Friday night in October 1992, eighteen-year-old fraternal twins Ocea and Tay are pulled through the glass of their living room CRT television\u2014each carrying half of the painted clay summer-camp medallion they made together in the real world. Set to the 23-track Runebreaker (Original Soundtrack) by Mana Canvas, this chronicle follows Ocea's barefoot quest in her t-shirt and jeans to rescue her older twin brother and usher in the Era of the Restored Realm.",
+    "series_description_long": "",
+    "series_image": "/raggiesoft-books/images/covers/2x3/runebreaker.jpg",
     "next_series_url": "",
     "eras": [
         {
             "era_num": 1,
-            "era_title": "Book 1: The Dream Kingdom",
-            "era_url": "/raggiesoft-books/books/runebreaker/book-1-the-dream-kingdom",
+            "era_title": "Era 1: The Era of the Crystal",
+            "era_url": "/raggiesoft-books/books/runebreaker/era-1-the-era-of-the-crystal",
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: The Analog Jammer \u2013 Friday, October 30, 1992",
-                    "chap_url": "/raggiesoft-books/books/runebreaker/book-1-the-dream-kingdom/chapter-1-the-analog-jammer-friday-october-30-1992",
+                    "chap_title": "Chapter 1: Insert Coin \u2013 28th Day of the Last Frost, Year 404 EC",
+                    "chap_url": "/raggiesoft-books/books/runebreaker/era-1-the-era-of-the-crystal/chapter-1-insert-coin-28th-day-of-the-last-frost-year-404-ec",
                     "scenes": [
                         {
                             "scene_num": 1,
-                            "scene_title": "Scene 1: Untitled Chapter",
+                            "scene_title": "Scene 1: Main Theme (The Living Room)",
                             "file_path": "e001/c001/s001.md"
                         },
                         {
                             "scene_num": 2,
-                            "scene_title": "Scene 2: Untitled Chapter",
+                            "scene_title": "Scene 2: Insert Coin",
                             "file_path": "e001/c001/s002.md"
                         },
                         {
                             "scene_num": 3,
-                            "scene_title": "Scene 3: Untitled Chapter",
+                            "scene_title": "Scene 3: Static and Pixels",
                             "file_path": "e001/c001/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Ocea's Theme (Barefoot on the Crystal Grass)",
+                            "file_path": "e001/c001/s004.md"
                         }
                     ]
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: The Ghost in the Dark \u2013 Saturday, October 31, 1992",
-                    "chap_url": "/raggiesoft-books/books/runebreaker/book-1-the-dream-kingdom/chapter-2-the-ghost-in-the-dark-saturday-october-31-1992",
+                    "chap_title": "Chapter 2: Half a Medallion \u2013 29th Day of the Last Frost, Year 404 EC",
+                    "chap_url": "/raggiesoft-books/books/runebreaker/era-1-the-era-of-the-crystal/chapter-2-half-a-medallion-29th-day-of-the-last-frost-year-404-ec",
                     "scenes": [
                         {
                             "scene_num": 1,
-                            "scene_title": "Scene 1: Untitled Chapter",
+                            "scene_title": "Scene 1: The Crystal Plains",
                             "file_path": "e001/c002/s001.md"
                         },
                         {
                             "scene_num": 2,
-                            "scene_title": "Scene 2: Untitled Chapter",
+                            "scene_title": "Scene 2: Sanctuary Village",
                             "file_path": "e001/c002/s002.md"
                         },
                         {
                             "scene_num": 3,
-                            "scene_title": "Scene 3: Untitled Chapter",
+                            "scene_title": "Scene 3: The Crystal Sage",
                             "file_path": "e001/c002/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Half a Medallion",
+                            "file_path": "e001/c002/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Sanctuary Inn",
+                            "file_path": "e001/c002/s005.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "Chapter 3: The Analog Jammer \u2013 30th Day of the Last Frost, Year 404 EC",
+                    "chap_url": "/raggiesoft-books/books/runebreaker/era-1-the-era-of-the-crystal/chapter-3-the-analog-jammer-30th-day-of-the-last-frost-year-404-ec",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Glitch Phantoms",
+                            "file_path": "e001/c003/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Iron Sentinels",
+                            "file_path": "e001/c003/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Tay's Theme (The Hollow Apprentice)",
+                            "file_path": "e001/c003/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Grand Decree",
+                            "file_path": "e001/c003/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Golden Data",
+                            "file_path": "e001/c003/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Sabotaged Scroll",
+                            "file_path": "e001/c003/s006.md"
+                        },
+                        {
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: Fractures in the Armor",
+                            "file_path": "e001/c003/s007.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 4,
+                    "chap_title": "Chapter 4: The Ghost and the Gate \u2013 31st Day of the Last Frost, Year 404 EC",
+                    "chap_url": "/raggiesoft-books/books/runebreaker/era-1-the-era-of-the-crystal/chapter-4-the-ghost-and-the-gate-31st-day-of-the-last-frost-year-404-ec",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Supposed to Be Dead",
+                            "file_path": "e001/c004/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Shield of Normalcy",
+                            "file_path": "e001/c004/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: A Little Bit Like Home",
+                            "file_path": "e001/c004/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Dungeon Escape",
+                            "file_path": "e001/c004/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Guardian of the Gate",
+                            "file_path": "e001/c004/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: Game Over (The Spark in the Dark)",
+                            "file_path": "e001/c004/s006.md"
+                        },
+                        {
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Corrupted Ceremony",
+                            "file_path": "e001/c004/s007.md"
+                        },
+                        {
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Wizard's Ruin",
+                            "file_path": "e001/c004/s008.md"
+                        },
+                        {
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Wizard's Lair",
+                            "file_path": "e001/c004/s009.md"
+                        },
+                        {
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: The True Form",
+                            "file_path": "e001/c004/s010.md"
+                        },
+                        {
+                            "scene_num": 11,
+                            "scene_title": "Scene 11: The Grand Decree (Reprise)",
+                            "file_path": "e001/c004/s011.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "era_num": 2,
+            "era_title": "Era 2: The Era of the Restored Realm",
+            "era_url": "/raggiesoft-books/books/runebreaker/era-2-the-era-of-the-restored-realm",
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Chapter 1: Save State \u2013 1st Day of the First Dawn, Year 1 RR",
+                    "chap_url": "/raggiesoft-books/books/runebreaker/era-2-the-era-of-the-restored-realm/chapter-1-save-state-1st-day-of-the-first-dawn-year-1-rr",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Dawn of the New Era",
+                            "file_path": "e002/c001/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Save State (Until Next Time)",
+                            "file_path": "e002/c001/s002.md"
                         }
                     ]
                 }

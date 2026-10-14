@@ -1,0 +1,68 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: RUNEBREAKER OVERWORLD - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Runebreaker Overworld" reading theme for Ocea's
+ * trek across the lush, 16-bit fantasy landscapes of the Dream Kingdom
+ * ("Ocea's Theme", "The Crystal Plains"). Inspired by classic SNES RPG overworlds
+ * with aurora skies, floating islands, and shimmering crystal meadows.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Sunlit crystal sky azure with vibrant emerald and gold accents)
+ *    - Forced Dark Mode (Aurora twilight indigo with glowing crystal cyan and gold)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
+/* Theme Name: Runebreaker Overworld */
+
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
+body.theme-runebreaker-overworld,
+body.theme-light.theme-runebreaker-overworld {
+    --rs-bg: #f0fdfa; /* Shimmering crystal plains mint-azure */
+    --rs-surface: #ccfbf1; /* Soft mana-spring surface */
+    --rs-text: #0f172a; /* Deep slate text for effortless reading */
+    --rs-primary: #0d9488; /* Lush 16-bit emerald-teal primary */
+    --rs-secondary: #d97706; /* Golden pixel sunbeam secondary */
+    --rs-border: #99f6e4; /* Crystalline aquamarine border */
+}
+
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
+body.theme-dark.theme-runebreaker-overworld {
+    --rs-bg: #04131d; /* Deep aurora night sky indigo-teal */
+    --rs-surface: #0a2233; /* Floating island twilight surface */
+    --rs-text: #ecfeff; /* Starlit cyan-white text */
+    --rs-primary: #2dd4bf; /* Luminous mana crystal turquoise primary */
+    --rs-secondary: #fbbf24; /* Glowing golden pixel secondary */
+    --rs-border: #15455e; /* Shimmering crystal ridge border */
+}
+
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-runebreaker-overworld,
+    body:not(.theme-light):not(.theme-dark).theme-runebreaker-overworld {
+        --rs-bg: #04131d; /* Matches Forced Dark Mode */
+        --rs-surface: #0a2233;
+        --rs-text: #ecfeff;
+        --rs-primary: #2dd4bf;
+        --rs-secondary: #fbbf24;
+        --rs-border: #15455e;
+    }
+}
+

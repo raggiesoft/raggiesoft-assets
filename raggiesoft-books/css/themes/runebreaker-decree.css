@@ -1,0 +1,68 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: RUNEBREAKER DECREE - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Runebreaker Decree" reading theme for the Grand
+ * Wizard's Citadel, "The Grand Decree", "The Corrupted Ceremony", "The Wizard's
+ * Ruin", "The Wizard's Lair", and "The True Form". It blends 16-bit final-boss
+ * gothic grandeur with searing crimson hinges and corrupted royal purple runes.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Stark imperial cathedral lavender-ash with crimson & violet)
+ *    - Forced Dark Mode (Obsidian throne room abyss with searing crimson & royal purple)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
+/* Theme Name: Runebreaker Decree */
+
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
+body.theme-runebreaker-decree,
+body.theme-light.theme-runebreaker-decree {
+    --rs-bg: #faf5ff; /* Imperial cathedral pale violet-marble */
+    --rs-surface: #f3e8ff; /* Corrupted altar stone surface */
+    --rs-text: #1e1b4b; /* Deep obsidian-indigo text */
+    --rs-primary: #be123c; /* Searing crimson decree primary */
+    --rs-secondary: #7e22ce; /* Dark purple rune secondary */
+    --rs-border: #d8b4fe; /* Runic amethyst border */
+}
+
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
+body.theme-dark.theme-runebreaker-decree {
+    --rs-bg: #08030c; /* Obsidian Spire final-boss abyss */
+    --rs-surface: #160921; /* Corrupted throne room surface */
+    --rs-text: #f5f3ff; /* Stark spectral white text */
+    --rs-primary: #f43f5e; /* Searing crimson hinge glow primary */
+    --rs-secondary: #c084fc; /* Electric purple rune secondary */
+    --rs-border: #4c1d95; /* Dark royal decree border */
+}
+
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-runebreaker-decree,
+    body:not(.theme-light):not(.theme-dark).theme-runebreaker-decree {
+        --rs-bg: #08030c; /* Matches Forced Dark Mode */
+        --rs-surface: #160921;
+        --rs-text: #f5f3ff;
+        --rs-primary: #f43f5e;
+        --rs-secondary: #c084fc;
+        --rs-border: #4c1d95;
+    }
+}
+

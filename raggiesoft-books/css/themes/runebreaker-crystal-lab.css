@@ -1,0 +1,68 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: RUNEBREAKER CRYSTAL LAB - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Runebreaker Crystal Lab" reading theme for the
+ * Crystal Sage's laboratory and "Half a Medallion". It combines the prism-lit
+ * arcane science of the Crystal Sage with the fire-engine red of Ocea's half
+ * of the summer-camp clay medallion and her golden pixel magic.
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Prismatic quartz laboratory white with ruby red & ocean blue)
+ *    - Forced Dark Mode (Deep arcane observatory navy with ruby & golden pixel glow)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
+/* Theme Name: Runebreaker Crystal Lab */
+
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
+body.theme-runebreaker-crystal-lab,
+body.theme-light.theme-runebreaker-crystal-lab {
+    --rs-bg: #f8fafc; /* Prismatic quartz laboratory white */
+    --rs-surface: #eff6ff; /* Refracted crystal lens blue-white */
+    --rs-text: #0f172a; /* Deep observatory ink text */
+    --rs-primary: #e11d48; /* Fire-engine red clay medallion primary */
+    --rs-secondary: #0284c7; /* Ocean-blue twin medallion secondary */
+    --rs-border: #bfdbfe; /* Polished crystal glass border */
+}
+
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
+body.theme-dark.theme-runebreaker-crystal-lab {
+    --rs-bg: #080d1a; /* Deep arcane observatory midnight */
+    --rs-surface: #111a30; /* Illuminated crystal workbench surface */
+    --rs-text: #f1f5f9; /* Pure starlight quartz text */
+    --rs-primary: #fb7185; /* Glowing ruby medallion primary */
+    --rs-secondary: #fbbf24; /* Golden Runebreaker pixel secondary */
+    --rs-border: #1e3a5f; /* Faceted sapphire crystal border */
+}
+
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-runebreaker-crystal-lab,
+    body:not(.theme-light):not(.theme-dark).theme-runebreaker-crystal-lab {
+        --rs-bg: #080d1a; /* Matches Forced Dark Mode */
+        --rs-surface: #111a30;
+        --rs-text: #f1f5f9;
+        --rs-primary: #fb7185;
+        --rs-secondary: #fbbf24;
+        --rs-border: #1e3a5f;
+    }
+}
+

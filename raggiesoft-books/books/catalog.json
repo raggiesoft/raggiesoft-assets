@@ -208,10 +208,10 @@
     },
     {
         "slug": "runebreaker",
-        "title": "Dream Kingdom",
-        "description": "An ethereal journey into a fantastical realm where dreams and reality collide.",
-        "image": "/raggiesoft-books/images/covers/2x3/dream-kingdom.jpg",
-        "first_route": "/raggiesoft-books/books/runebreaker/book-1-the-dream-kingdom/chapter-1-the-analog-jammer-friday-october-30-1992/scene-1-untitled-chapter",
+        "title": "Runebreaker: The Dream Kingdom",
+        "description": "For four hundred and four years of the Era of the Crystal, the inhabitants of the Dream Kingdom whispered of an ancient legend: that the Sundered Crystal\u2014one half crimson, one half sapphire\u2014would one day return to reunite the fractured code of their world. Over the centuries, as the tyrannical Grand Wizard seized the Great Directory and no trace of the two halves was ever found, the people came to believe the Crystal was nothing more than a myth. Then, on a quiet Friday night in October 1992, eighteen-year-old fraternal twins Ocea and Tay are pulled through the glass of their living room CRT television\u2014each carrying half of the painted clay summer-camp medallion they made together in the real world. Set to the 23-track Runebreaker (Original Soundtrack) by Mana Canvas, this chronicle follows Ocea's barefoot quest in her t-shirt and jeans to rescue her older twin brother and usher in the Era of the Restored Realm.",
+        "image": "/raggiesoft-books/images/covers/2x3/runebreaker.jpg",
+        "first_route": "/raggiesoft-books/books/runebreaker/era-1-the-era-of-the-crystal/chapter-1-insert-coin-28th-day-of-the-last-frost-year-404-ec/scene-1-main-theme-the-living-room",
         "folder": "runebreaker",
         "hide": false
     },

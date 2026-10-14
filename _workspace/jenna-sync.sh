@@ -491,36 +491,6 @@ function do_push() {
         }
     '
 
-    echo "      > Indexing Narrative Themes..."
-    php -r '
-        $booksThemesDir = "'"$ASSETS_ROOT"'/raggiesoft-books/css/themes";
-        $themesList = [];
-        if (is_dir($booksThemesDir)) {
-            foreach(glob("$booksThemesDir/*.css") as $file) {
-                $name = basename($file, ".css");
-                $friendlyName = $name;
-                $content = file_get_contents($file);
-                if (preg_match("|/\*\s*Theme Name:\s*(.*?)\s*\*/|i", $content, $matches)) {
-                    $friendlyName = $matches[1];
-                }
-                $supportsModes = false;
-                if (strpos($content, "body.theme-light.") !== false || strpos($content, "body.theme-dark.") !== false) {
-                    $supportsModes = true;
-                }
-                $themesList[$name] = [
-                    "name" => $friendlyName,
-                    "supports_modes" => $supportsModes
-                ];
-            }
-            // Sort by friendly name
-            asort($themesList);
-            $booksDir = "'"$BOOKS_ROOT"'/data";
-            if (is_dir($booksDir)) {
-                file_put_contents("$booksDir/themes.json", json_encode($themesList, JSON_PRETTY_PRINT));
-            }
-        }
-    '
-
 echo "👱‍♀️ JENNA: Compiling Narratives & Books..."
     if [ -f "$NARRATIVES_ROOT/scripts/publish_books.php" ]; then
         php "$NARRATIVES_ROOT/scripts/publish_books.php"

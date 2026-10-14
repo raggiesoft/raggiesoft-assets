@@ -80,10 +80,37 @@ function initOceanViewReader() {
                 if (iana) {
                     options.timeZone = iana;
                 }
-                const formatter = new Intl.DateTimeFormat('en-US', options);
+                const formatter = new Intl.DateTimeFormat(undefined, options);
                 const txt = dtEl.querySelector('.dt-text');
                 if(txt) txt.textContent = formatter.format(d);
             } catch(e) {}
+        }
+    }
+
+    // Formats standalone 24-hour fantasy/realm timestamps (e.g., "23:42") into
+    // the user's OS time format without any timezone conversion.
+    const timeOnlyEl = document.getElementById('story-time-only-display');
+    if (timeOnlyEl) {
+        const rawStart = timeOnlyEl.getAttribute('data-time-only');
+        const rawEnd = timeOnlyEl.getAttribute('data-end-time-only');
+        if (rawStart && rawStart.includes(':')) {
+            try {
+                const formatLocalClock = (hhmm) => {
+                    const [h, m] = hhmm.split(':').map(Number);
+                    if (isNaN(h) || isNaN(m)) return hhmm;
+                    const localDate = new Date(2000, 0, 1, h, m, 0);
+                    return new Intl.DateTimeFormat(undefined, {
+                        hour: 'numeric',
+                        minute: '2-digit'
+                    }).format(localDate);
+                };
+                let formattedClock = formatLocalClock(rawStart);
+                if (rawEnd && rawEnd.includes(':')) {
+                    formattedClock += ' \u2013 ' + formatLocalClock(rawEnd);
+                }
+                const txt = timeOnlyEl.querySelector('.dt-text');
+                if (txt) txt.textContent = formattedClock;
+            } catch (e) {}
         }
     }
 
@@ -427,18 +454,17 @@ function initOceanViewReader() {
         const wizCustomTheme = document.getElementById('wizard-custom-theme-toggle');
         if (wizCustomTheme) wizCustomTheme.checked = customEnabled;
         
-        // Strip base themes
-        document.body.classList.remove('theme-light', 'theme-dark', 'theme-sepia', 'theme-dark-sepia', 'theme-sepia-system', 'theme-auto', 'theme-custom');
-        
+        // Strip base themes and any previously active custom narrative theme
+        const systemClassesToKeep = new Set(['theme-oceanview', 'theme-raggiesoft-books']);
+        Array.from(document.body.classList).forEach(cls => {
+            if ((cls.startsWith('theme-') || cls.startsWith('narrative-theme-')) && !systemClassesToKeep.has(cls)) {
+                document.body.classList.remove(cls);
+            }
+        });
+
         const customThemeMeta = document.querySelector('meta[name="stardust-narrative-theme"]');
         const narrativeTheme = customThemeMeta ? customThemeMeta.getAttribute('content') : null;
         const customThemeLink = document.getElementById('narrative-theme-css');
-        
-        // Strip custom themes via regex and exact match
-        if (narrativeTheme) {
-            document.body.classList.remove(`theme-${narrativeTheme}`);
-        }
-        document.body.className = document.body.className.replace(/narrative-theme-[a-zA-Z0-9_-]+/g, '').trim();
 
         // ALWAYS apply the base theme class (e.g. theme-auto, theme-dark) as a fallback
         document.body.classList.add(`theme-${theme}`);

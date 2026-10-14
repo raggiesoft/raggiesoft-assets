@@ -1,0 +1,67 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: RUNEBREAKER GLITCH - ARCHITECTURAL OVERVIEW
+ * ============================================================================
+ * 
+ * Description:
+ * This stylesheet defines the "Runebreaker Glitch" reading theme for scenes of
+ * digital distortion, falling through the CRT screen ("Static & Pixels"), and
+ * battling corrupted entities ("Glitch Phantoms", "The Iron Sentinels").
+ * 
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
+ *    the main reader layout (reader.css).
+ * 2. Theme Cascade: Implements three specific states to handle user preferences 
+ *    and OS-level settings:
+ *    - Light Mode (Crisp static-slate background with magenta and cyan glitch accents)
+ *    - Forced Dark Mode (Void black with high-contrast neon magenta & electric cyan)
+ *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
+ * 
+ * Maintainability Notes:
+ * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
+ *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
+ *   state to prevent visual regressions during theme swapping.
+ * - Always duplicate the Forced Dark Mode variables into the `@media` query 
+ *   block to ensure visual consistency when OS Auto mode triggers.
+ * ============================================================================
+ */
+
+/* Theme Name: Runebreaker Glitch */
+
+/* --- 1. Light Mode (Base) --- */
+/* Acts as the default state and explicitly forced light mode */
+body.theme-runebreaker-glitch,
+body.theme-light.theme-runebreaker-glitch {
+    --rs-bg: #f5f3ff; /* Pale static violet-tinted white */
+    --rs-surface: #ede9fe; /* Soft digital lavender surface */
+    --rs-text: #0f172a; /* High-contrast dark slate text */
+    --rs-primary: #d946ef; /* Corrupted pixel magenta primary */
+    --rs-secondary: #06b6d4; /* Scanline cyan secondary */
+    --rs-border: #c4b5fd; /* Crisp violet wire border */
+}
+
+/* --- 2. Dark Mode (Explicitly Forced) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
+body.theme-dark.theme-runebreaker-glitch {
+    --rs-bg: #07040d; /* Deepest corrupted void black */
+    --rs-surface: #140b24; /* Fractured purple-black terminal surface */
+    --rs-text: #f1f5f9; /* Bright static white text */
+    --rs-primary: #f472b6; /* Neon glitch magenta-pink primary */
+    --rs-secondary: #38bdf8; /* Piercing pixel cyan secondary */
+    --rs-border: #3b1c5e; /* Glowing purple circuit border */
+}
+
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-runebreaker-glitch,
+    body:not(.theme-light):not(.theme-dark).theme-runebreaker-glitch {
+        --rs-bg: #07040d; /* Matches Forced Dark Mode */
+        --rs-surface: #140b24;
+        --rs-text: #f1f5f9;
+        --rs-primary: #f472b6;
+        --rs-secondary: #38bdf8;
+        --rs-border: #3b1c5e;
+    }
+}
+
