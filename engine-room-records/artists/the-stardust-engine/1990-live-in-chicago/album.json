@@ -12,6 +12,7 @@
   "albumProductionType": "LiveAlbum",
   "albumReleaseType": "AlbumRelease",
   "genre": "Live Rock",
+  "datePublished": "2026-04-01",
   "temporalCoverage": "1990-05-10",
   "description": "Released in 1990 to support the 1989 Neon Hearts tour.",
   "publisher": {
@@ -20,6 +21,6 @@
   },
   "albumRelease": {
     "@type": "MusicRelease",
-    "datePublished": "1990-05-10"
+    "datePublished": "2026-04-01"
   }
 }
