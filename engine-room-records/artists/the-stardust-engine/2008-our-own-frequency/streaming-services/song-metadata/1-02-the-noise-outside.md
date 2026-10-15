@@ -3,8 +3,8 @@
 ## 1. DistroKid Upload Form Data
 * **Track Title:** The Noise Outside
 * **Primary Artist:** The Stardust Engine
-* **Genre:** Rock / Industrial
-* **Real-World DSP Release Date:** 2026-10-12
+* **Genre:** Singer / Songwriter
+* **Real-World DSP Release Date:** 2026-10-16
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes
@@ -22,8 +22,8 @@
 
 ## 3. Internal Catalog Information
 * **Engine Room ID:** ERR-001-2008-102
-* **ISRC:** 
-* **Album UPC / GTIN-12:** None
+* **ISRC:** QTA7V2647552
+* **Album UPC / GTIN-12:** 700521288573
 * **Track Length:** 3:33
 * **Fictional Narrative Release Date:** 2008-05-14
 * **Master File Located At:** ../../vault/wav/1-02-the-noise-outside.wav

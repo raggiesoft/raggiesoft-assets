@@ -3,77 +3,93 @@
   "role": "The Grantors / Beneficial Owners",
   "icon": "fa-duotone fa-landmark",
   "color": "primary",
-  "meta": "Est. 2012 | AUM: $2.4B+",
+  "meta": "Est. 2012 (2015 DE Restructure) | AUM: $2.4B+",
+  "description": "Consolidated culmination of the 2004–2015 post-Progress Street corporate diversification.",
   "children": [
     {
       "title": "The O'Connell Family, LLC",
       "role": "Corporate Trustee & Management Co.",
       "icon": "fa-duotone fa-gavel",
-      "color": "dark", 
+      "color": "dark",
+      "link": "/engine-room/artists/stardust-engine/story/2015-delaware-migration",
       "meta": "The Governing Body (The 5 Members)",
       "description": "This entity holds no assets. It holds the Voting Power. It serves as the designated Manager for all subsidiaries below."
     },
     {
       "title": "Engine Room Records, LLC",
-      "role": "IP Holding & Archives",
+      "role": "IP Holding & Master Archives",
       "icon": "fa-duotone fa-record-vinyl",
       "color": "danger",
       "link": "/engine-room",
-      "meta": "Manager: The O'Connell Family, LLC",
-      "description": "Owning the Masters. Managing the Licensing. The 'Bank' of the musical assets."
+      "meta": "Est. 1992 (DE Migration: 2015)",
+      "description": "Originally the sole operating company (1992–2004). Restructured after Progress Street to exclusively hold Masters and Licensing."
     },
     {
       "title": "Artists First Management, LLC",
       "role": "Talent & Touring Operations",
       "icon": "fa-duotone fa-users-viewfinder",
       "color": "danger",
-      "link": "/engine-room/corporate/artists-first-management",
-      "meta": "Manager: The O'Connell Family, LLC",
+      "link": "/engine-room/artists",
+      "meta": "Spun Off: 2005 | Manager: The O'Connell Family, LLC",
+      "description": "Operational firewall separating live touring contracts and roster payroll from the master catalog.",
       "children": [
         {
           "title": "The Stardust Engine",
-          "role": "Legacy Artist",
+          "role": "Flagship Legacy Artist",
           "icon": "fa-duotone fa-guitar",
           "color": "warning",
-          "link": "https://thestardustengine.com"
+          "link": "/engine-room/artists/stardust-engine",
+          "meta": "Est. 1985 (Hiatus: 2004–2014)"
         },
         {
-          "title": "Mirage",
+          "title": "Fractured Prisms",
           "role": "Artist",
-          "icon": "fa-duotone fa-music",
+          "icon": "fa-duotone fa-gem",
           "color": "warning",
+          "link": "/engine-room/artists/fractured-prisms",
+          "meta": "Signed: 1998"
+        },
+        {
+          "title": "The Paper Wall",
+          "role": "Artist (fka Mirage)",
+          "icon": "fa-duotone fa-book-open",
+          "color": "warning",
+          "link": "/engine-room/artists/the-paper-wall",
           "meta": "Signed: 2000",
           "children": [
             {
               "title": "The Arctic Symphony Project",
-              "role": "Artist Pseudonym (DBA)",
-              "icon": "fa-duotone fa-snowflake", 
+              "role": "Holiday Symphonic Imprint (DBA)",
+              "icon": "fa-duotone fa-snowflake",
               "color": "info",
-              "meta": "Holiday Catalog & IP"
+              "link": "/engine-room/artists/the-arctic-symphony-project",
+              "meta": "Rescued Catalog: 2007"
             }
           ]
         },
         {
-          "title": "Origin",
+          "title": "Crimson Node",
           "role": "Artist",
-          "icon": "fa-duotone fa-music",
-          "color": "warning"
+          "icon": "fa-duotone fa-waveform-lines",
+          "color": "warning",
+          "link": "/engine-room/artists/crimson-node"
         },
         {
-          "title": "The Winter Palace",
+          "title": "Mana Canvas",
           "role": "Artist",
-          "icon": "fa-duotone fa-music",
-          "color": "warning"
+          "icon": "fa-duotone fa-palette",
+          "color": "warning",
+          "link": "/raggiesoft-books/aethel-saga"
         }
       ]
     },
     {
       "title": "Stardust Properties, LLC",
-      "role": "Real Estate Holding Co.",
+      "role": "Real Estate & Infrastructure Holding Co.",
       "icon": "fa-duotone fa-city",
       "color": "danger",
-      "link": "/engine-room/corporate/stardust-ventures",
-      "meta": "Manager: The O'Connell Family, LLC",
+      "link": "/engine-room/corporate/strategic-assets",
+      "meta": "Est. 2006 | Manager: The O'Connell Family, LLC",
       "children": [
         {
           "title": "Stardust Blacksburg, LLC",
@@ -81,27 +97,42 @@
           "icon": "fa-duotone fa-house-user",
           "color": "warning",
           "link": "/engine-room/corporate/stardust-blacksburg",
-          "description": "DBA 'The Ironwood Collective'. Subsidized, high-quality housing for CPI students."
+          "meta": "Est. 2007",
+          "description": "DBA 'The Ironwood Collective'. Subsidized, barrier-free housing for CPI students."
         },
         {
           "title": "Stardust Strategic Assets, LLC",
-          "role": "Corporate Infrastructure",
+          "role": "Corporate Infrastructure & Fleet",
           "icon": "fa-duotone fa-chess-rook",
           "color": "secondary",
           "link": "/engine-room/corporate/strategic-assets",
-          "description": "Holds the private and operational real estate assets (HQ, Residence, Fleet Storage).",
+          "meta": "Est. 2005",
+          "description": "Holds private operational real estate (HQ, Residence, Vault) and the accessible touring fleet.",
           "children": [
             {
-               "title": "The Fortress",
-               "link": "/engine-room/corporate/strategic-assets/the-fortress",
-               "icon": "fa-duotone fa-house-chimney",
-               "role": "Private Residence"
+              "title": "The Fortress",
+              "link": "/engine-room/corporate/strategic-assets/the-fortress",
+              "icon": "fa-duotone fa-house-chimney",
+              "role": "Private Residence (512 Progress St)"
             },
             {
-               "title": "Stardust Studios",
-               "link": "/engine-room/corporate/strategic-assets/stardust-studios",
-               "icon": "fa-duotone fa-warehouse",
-               "role": "Global HQ"
+              "title": "Stardust Studios",
+              "link": "/engine-room/corporate/strategic-assets/stardust-studios",
+              "icon": "fa-duotone fa-warehouse",
+              "role": "Global HQ (Est. 2013)"
+            },
+            {
+              "title": "The Vault",
+              "link": "/engine-room/corporate/strategic-assets/the-vault",
+              "icon": "fa-duotone fa-vault",
+              "role": "Subterranean Master Archive"
+            },
+            {
+              "title": "The Iron Horse & Fleet Archive",
+              "link": "/engine-room/corporate/strategic-assets/the-iron-horse",
+              "icon": "fa-duotone fa-bus",
+              "role": "Heavy Touring & Shuttle Fleet",
+              "meta": "Sainte-Claire 45H3 & Prairie RLFD30"
             }
           ]
         },
@@ -110,23 +141,26 @@
           "role": "Commercial Portfolio",
           "icon": "fa-duotone fa-building",
           "color": "primary",
-          "link": "/pacific-rim"
+          "link": "/engine-room/corporate/pacific-rim",
+          "meta": "Est. 2009 (Century City, CA)",
+          "description": "Class-A commercial office towers including Avenue of the Stars."
         }
       ]
     },
     {
       "title": "Jessica Miller Center, LLC",
-      "role": "Philanthropy",
+      "role": "Philanthropy & Sensory Sanctuary",
       "icon": "fa-duotone fa-hands-holding-heart",
       "color": "success",
-      "link": "/engine-room/corporate/jessica-miller-center"
+      "link": "/engine-room/jessica-miller-center"
     },
     {
-      "title": "Aethelgard Holdings",
+      "title": "Aethelgard Holdings, LLC",
       "role": "Strategic Acquisitions & Legal Enforcement",
       "icon": "fa-duotone fa-gavel",
       "color": "secondary",
-      "meta": "Status: Active // Purpose: Asset Protection",
+      "link": "/engine-room/corporate/aethelgard",
+      "meta": "Est. 2014 // Purpose: Asset Protection",
       "description": "The 'Iron Hand.' Managing high-stakes litigation and acquiring distressed assets that threaten the ecosystem."
     }
   ]

@@ -1,5 +1,5 @@
 **LORE NOTE:**
-The grand 1980s stadium power-ballad finale of *Progress Street*. As the arena spotlights fade and the band's custom 2004 Prairie Coachworks RLFD30 low-floor shuttle coach kneels at the curb on Progress Street NW, the five family members step off the stage and lock the front door behind them, beginning their Burnout Hiatus.
+The grand 1980s stadium power-ballad finale of *Progress Street*—written as the band's direct, heartfelt message to Forger Nation that they are signing off for a little while. Completely burned out after pouring everything they had into three full studio albums in under two years, Ryan, Cassidy, Holly, Evan, and Tyler use this closing anthem to reassure the world that they are not breaking up. As their custom 2004 Prairie Coachworks RLFD30 low-floor shuttle coach kneels at the curb on Progress Street NW and the five of them head inside, they promise their fans that, as a family, they are staying together—and that once they have rested and recharged, they will turn the switches back on and return with more music.
 
 **LYRICS:**
 

@@ -1,5 +1,5 @@
 **LORE NOTE:**
-Opening with a deceptive ten-second Vangelis-style synthesizer swell before exploding into a 150 BPM C-minor stadium rocker. Placed directly after "Seconds into Forever" as Track 4, this song was famously blasted by accident during an unsanctioned "Guerilla Speed Dating" ambush in the Second Floor Lounge when the ringleader fat-fingered the boombox skip button past Track 3.
+Opening with a deceptive ten-second Vangelis-style synthesizer swell before exploding into a 150 BPM C-minor stadium rocker. Placed directly after "Seconds Into Forever" as Track 4, this song was famously blasted by accident during an unsanctioned "Guerilla Speed Dating" ambush in the Second Floor Lounge when the ringleader fat-fingered the boombox skip button past Track 3.
 
 **LYRICS:**
 

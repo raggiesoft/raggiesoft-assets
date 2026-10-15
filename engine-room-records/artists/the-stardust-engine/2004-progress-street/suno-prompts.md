@@ -10,21 +10,21 @@
 
 ## Quick Status Checklist (11 Tracks Total)
 
-- [ ] **Track 01:** `Progress Street (Where the Fire Began)` $\rightarrow$ Save WAV as `progress-street-where-the-fire-began.wav`
-- [ ] **Track 02:** `Route 1 (Midnight Headlights)` $\rightarrow$ Save WAV as `route-1-midnight-headlights.wav`
-- [x] **Track 03:** `Seconds into Forever` (`2:32`) — **ALREADY IN `master-wav/studio/seconds-into-forever.wav`**
+- [ ] **Track 01:** `Progress Street: Where the Fire Began` $\rightarrow$ Save WAV as `progress-street-where-the-fire-began.wav`
+- [ ] **Track 02:** `Route 1: Midnight Headlights` $\rightarrow$ Save WAV as `route-1-midnight-headlights.wav`
+- [x] **Track 03:** `Seconds Into Forever` (`2:32`) — **ALREADY IN `master-wav/studio/seconds-into-forever.wav`**
 - [x] **Track 04:** `Thunder in the Rain` (`4:34`) — **ALREADY IN `master-wav/studio/thunder-in-the-rain.wav`**
-- [ ] **Track 05:** `Upright & Amplifier (1983)` $\rightarrow$ Save WAV as `upright-and-amplifier-1983.wav`
-- [ ] **Track 06:** `Saturday Night Lights (The Crucible)` $\rightarrow$ Save WAV as `saturday-night-lights-the-crucible.wav`
-- [ ] **Track 07:** `Fifth Gear (The Architect's Shield)` $\rightarrow$ Save WAV as `fifth-gear-the-architects-shield.wav`
+- [ ] **Track 05:** `Upright & Amplifier` $\rightarrow$ Save WAV as `upright-and-amplifier.wav`
+- [ ] **Track 06:** `Saturday Night Lights: The Crucible` $\rightarrow$ Save WAV as `saturday-night-lights-the-crucible.wav`
+- [ ] **Track 07:** `Fifth Gear: The Architect's Shield` $\rightarrow$ Save WAV as `fifth-gear-the-architects-shield.wav`
 - [x] **Track 08:** `Before the Distance` (`5:01`) — **ALREADY IN `master-wav/studio/before-the-distance.wav`**
 - [ ] **Track 09:** `Running on Redline` $\rightarrow$ Save WAV as `running-on-redline.wav`
 - [ ] **Track 10:** `Empty Arenas` *(Suno Cover of 1990 Early Demo)* $\rightarrow$ Save WAV as `empty-arenas.wav`
-- [ ] **Track 11:** `Last Bus Home (Lights Out on Progress Street)` $\rightarrow$ Save WAV as `last-bus-home-lights-out-on-progress-street.wav`
+- [ ] **Track 11:** `Last Bus Home: Lights Out on Progress Street` $\rightarrow$ Save WAV as `last-bus-home-lights-out-on-progress-street.wav`
 
 ---
 
-## Track 01: Progress Street (Where the Fire Began)
+## Track 01: Progress Street: Where the Fire Began
 * **Status:** Needs Suno Generation
 * **Save Downloaded WAV As:** `master-wav/studio/progress-street-where-the-fire-began.wav`
 * **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
@@ -122,7 +122,7 @@ modern pop, hip hop, rap, acoustic, lo-fi, edm, techno, heavy metal screaming, s
 
 ---
 
-## Track 02: Route 1 (Midnight Headlights)
+## Track 02: Route 1: Midnight Headlights
 * **Status:** Needs Suno Generation
 * **Save Downloaded WAV As:** `master-wav/studio/route-1-midnight-headlights.wav`
 * **Vocal Gender UI Setting:** `Male`
@@ -218,7 +218,7 @@ Midnight headlights in the valley fog!
 
 ---
 
-## Track 03: Seconds into Forever *(ALREADY RENDERED — `2:32`)*
+## Track 03: Seconds Into Forever *(ALREADY RENDERED — `2:32`)*
 * **Status:** Complete (`master-wav/studio/seconds-into-forever.wav`)
 
 ---
@@ -228,9 +228,9 @@ Midnight headlights in the valley fog!
 
 ---
 
-## Track 05: Upright & Amplifier (1983)
+## Track 05: Upright & Amplifier
 * **Status:** Needs Suno Generation
-* **Save Downloaded WAV As:** `master-wav/studio/upright-and-amplifier-1983.wav`
+* **Save Downloaded WAV As:** `master-wav/studio/upright-and-amplifier.wav`
 * **Vocal Gender UI Setting:** `Female`
 * **Weirdness:** `0%`
 * **Style Influence:** `90%`
@@ -318,12 +318,13 @@ Where the music began.
 
 ---
 
-## Track 06: Saturday Night Lights (The Crucible)
+## Track 06: Saturday Night Lights: The Crucible
 * **Status:** Needs Suno Generation
 * **Save Downloaded WAV As:** `master-wav/studio/saturday-night-lights-the-crucible.wav`
 * **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
 * **Weirdness:** `0%`
 * **Style Influence:** `90%`
+* **In-Universe Legal Clearance Lore (Holly's 1986 Progress Street Redline):** In October 1986, the CPI student anthem contest entry form for *"Ignition: The Forger's Call"* contained a buried "Work Made for Hire" clause that would have signed away 100% of the band's master and publishing rights to the CPI Athletic Foundation. Sixteen-year-old Holly O'Connell redlined the form at the Progress Street kitchen table into a **$1.00 Perpetual Mutual Cross-License**: CPI Athletics received a perpetual, royalty-free stadium/broadcast sync license for *"Ignition"* and future Stardust Engine anthems inside **The Crucible**, while CPI's Office of Trademarks & Licensing granted the band (and any label they wholly owned) a perpetual, worldwide, royalty-free **Co-Existence & Artistic Reference License** to use **`CPI`**, **`Commonwealth Polytechnic Institute`**, **`The Forgers`**, and **`The Crucible`** in their songs and liner notes. In 2004, Holly pulled the 1986 contract from the Engine Room Records vault and co-signed a Confirmation Letter with the CPI Athletic Director (delivering an early master for the Fourth Quarter break) to clear the song in a single afternoon.
 
 ### Styles to Include
 ```text
@@ -410,7 +411,7 @@ modern pop, hip hop, rap, country, acoustic ballad, lo-fi, sluggish
 
 ---
 
-## Track 07: Fifth Gear (The Architect's Shield)
+## Track 07: Fifth Gear: The Architect's Shield
 * **Status:** Needs Suno Generation
 * **Save Downloaded WAV As:** `master-wav/studio/fifth-gear-the-architects-shield.wav`
 * **Vocal Gender UI Setting:** `Female`
@@ -702,12 +703,13 @@ stripped acoustic demo, drumless, ambient only, slow dirge, lo-fi, country, hip 
 
 ---
 
-## Track 11: Last Bus Home (Lights Out on Progress Street)
+## Track 11: Last Bus Home: Lights Out on Progress Street
 * **Status:** Needs Suno Generation
 * **Save Downloaded WAV As:** `master-wav/studio/last-bus-home-lights-out-on-progress-street.wav`
 * **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
 * **Weirdness:** `0%`
 * **Style Influence:** `90%`
+* **Lore Note:** The band's direct, heartfelt message to Forger Nation that they are signing off for a little while because they are burned out. They promise that, as a family, they are staying together on Progress Street NW and will be back with more music once they have recharged.
 
 ### Styles to Include
 ```text

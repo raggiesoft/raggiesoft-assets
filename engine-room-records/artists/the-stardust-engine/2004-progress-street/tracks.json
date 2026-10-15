@@ -2,7 +2,7 @@
   "tracks": [
     {
       "fileName": "1-01-progress-street-where-the-fire-began",
-      "title": "Progress Street (Where the Fire Began)",
+      "title": "Progress Street: Where the Fire Began",
       "isrc": "",
       "masterWavPath": "studio/progress-street-where-the-fire-began",
       "disc": 1,
@@ -10,12 +10,12 @@
       "track": 1,
       "legacyTier": "Fan Anthem",
       "loreNote": "The triumphant 1980s AOR title track and opener looking back to 1985 on Progress Street NW in Blacksburg—where Ryan, Cassidy, Evan, Tyler, and Holly forged their family unit.",
-      "duration": "",
+      "duration": "4:31",
       "stylePrompt": "1980s AOR anthem, melodic stadium rock, male and female duet, soaring high tenor male vocal, powerhouse alto female vocal, bright 1980s polyphonic analog synthesizer brass riff, driving eighth-note electric bassline, massive pounding 80s gated reverb snare drum, crisp rhythm electric guitar, 128 BPM, D Major, nostalgic, triumphant, high-energy arena rock opener, twin guitar and synthesizer solo"
     },
     {
       "fileName": "1-02-route-1-midnight-headlights",
-      "title": "Route 1 (Midnight Headlights)",
+      "title": "Route 1: Midnight Headlights",
       "isrc": "",
       "masterWavPath": "studio/route-1-midnight-headlights",
       "disc": 1,
@@ -23,12 +23,12 @@
       "track": 2,
       "legacyTier": "Fan Favorite",
       "loreNote": "A nocturnal 1980s melodic highway rocker paying tribute to riding Blue Ridge Transit's Route 1 in their college days—and celebrating the band becoming Prairie Coachworks' very first launch customer in 2004 with their own custom 30-foot RLFD30 low-floor shuttle coach, driven by CDL-licensed band members Holly, Evan, and Tyler.",
-      "duration": "",
+      "duration": "5:09",
       "stylePrompt": "1980s melodic highway rock, AOR stadium rock, solo high tenor male lead vocal, chugging palm-muted electric guitar, punchy 80s analog synth stabs, driving bass guitar, massive 80s gated reverb drums, 134 BPM, E Minor, nocturnal, cinematic, urgent driving energy, soaring melodic guitar solo"
     },
     {
       "fileName": "1-03-seconds-into-forever",
-      "title": "Seconds into Forever",
+      "title": "Seconds Into Forever",
       "isrc": "",
       "masterWavPath": "studio/seconds-into-forever",
       "disc": 1,
@@ -48,39 +48,39 @@
       "discName": "Progress Street",
       "track": 4,
       "legacyTier": "Chart Smash",
-      "loreNote": "Opening with a deceptive ten-second Vangelis-style synthesizer swell before exploding into a 150 BPM C-minor stadium rocker. Famously blasted by accident during an unsanctioned campus speed-dating event when the organizer fat-fingered the boombox skip button past 'Seconds into Forever'.",
+      "loreNote": "Opening with a deceptive ten-second Vangelis-style synthesizer swell before exploding into a 150 BPM C-minor stadium rocker. Famously blasted by accident during an unsanctioned campus speed-dating event when the organizer fat-fingered the boombox skip button past 'Seconds Into Forever'.",
       "duration": "4:34",
       "stylePrompt": "High-energy 1980s rock in C minor at 150 BPM with driving drums and staccato synth stabs underpinning soaring high tenor male vocals, gritty rhythm guitar, orchestral hits, and a screaming tapping guitar solo"
     },
     {
-      "fileName": "1-05-upright-and-amplifier-1983",
-      "title": "Upright & Amplifier (1983)",
+      "fileName": "1-05-upright-and-amplifier",
+      "title": "Upright & Amplifier",
       "isrc": "",
-      "masterWavPath": "studio/upright-and-amplifier-1983",
+      "masterWavPath": "studio/upright-and-amplifier",
       "disc": 1,
       "discName": "Progress Street",
       "track": 5,
       "legacyTier": "Fan Anthem",
       "loreNote": "An emotional 1980s AOR power ballad chronicling the band's true origin: Cassidy sitting at the family's upright piano with Ryan playing guitar right beside her in 1983, Tyler bringing his childhood drum kit and Evan plugging in his bass in 1985, and the middle-class family buying Cassidy's used 1984 six-voice analog synthesizer in 1986.",
-      "duration": "",
+      "duration": "6:07",
       "stylePrompt": "1980s AOR power ballad, solo female alto lead vocal, warm acoustic upright piano intro, clean melodic electric guitar arpeggios, lush 1984 analog polyphonic chorus synthesizer pads, massive 80s gated reverb snare drum entrance, melodic bassline, 82 BPM, G Major, deeply emotional, nostalgic, sibling bond, soaring guitar solo, stadium rock crescendo"
     },
     {
       "fileName": "1-06-saturday-night-lights-the-crucible",
-      "title": "Saturday Night Lights (The Crucible)",
+      "title": "Saturday Night Lights: The Crucible",
       "isrc": "",
       "masterWavPath": "studio/saturday-night-lights-the-crucible",
       "disc": 1,
       "discName": "Progress Street",
       "track": 6,
       "legacyTier": "Stadium Classic",
-      "loreNote": "A roaring 1980s stadium rock companion to 1986's 'Ignition (The Forger's Call)', celebrating the student contest that made The Stardust Engine the Saturday night soundtrack of The Crucible—the loudest house in all of college sports.",
-      "duration": "",
+      "loreNote": "A roaring 1980s stadium rock companion to 1986's 'Ignition: The Forger's Call', celebrating the student contest that made The Stardust Engine the Saturday night soundtrack of The Crucible—the loudest house in all of college sports. In-universe legal lore: When the CPI Student Government Association handed out the October 1986 anthem contest entry form, it contained a buried 'Work Made for Hire' clause that would have signed away 100% of the band's master and publishing rights to the CPI Athletic Foundation. Sixteen-year-old child prodigy Holly O'Connell—already taking business and contract law electives at CPI—redlined the form at the Progress Street kitchen table into a $1.00 Perpetual Mutual Cross-License. Under Holly's deal, CPI Athletics received a perpetual, royalty-free stadium and broadcast synchronization license to blast 'Ignition' and future Stardust Engine anthems inside The Crucible, while CPI's Office of Trademarks & Licensing granted the band (and any label they wholly owned) a perpetual, worldwide, royalty-free Co-Existence & Artistic Reference License to sing and print 'CPI', 'Commonwealth Polytechnic Institute', 'The Forgers', and 'The Crucible' across their songs and liner notes. In 2004, Holly pulled the 1986 contract from the Engine Room Records vault and co-signed a Confirmation Letter with the CPI Athletic Director—delivering an early master of 'Saturday Night Lights: The Crucible' for the Fourth Quarter stadium break.",
+      "duration": "4:37",
       "stylePrompt": "1980s stadium rock anthem, AOR arena stomper, male and female duet, thundering marching-style stadium drums with massive gated reverb, triumphant 80s synthesizer brass fanfare, heavy melodic electric guitar riff, roaring college stadium atmosphere, 130 BPM, A Major, victorious, electric, uplifting"
     },
     {
       "fileName": "1-07-fifth-gear-the-architects-shield",
-      "title": "Fifth Gear (The Architect's Shield)",
+      "title": "Fifth Gear: The Architect's Shield",
       "isrc": "",
       "masterWavPath": "studio/fifth-gear-the-architects-shield",
       "disc": 1,
@@ -88,7 +88,7 @@
       "track": 7,
       "legacyTier": "Deep Cut",
       "loreNote": "An upbeat 1980s melodic synth-rock tribute to younger sister and manager Holly O'Connell—the child prodigy who entered CPI at sixteen, mediated Ryan and Cassidy's creative arguments with three-way hugs, earned her Class A CDL with passenger and airbrake endorsements alongside Evan and Tyler, and armored the family against the music industry.",
-      "duration": "",
+      "duration": "4:39",
       "stylePrompt": "1980s melodic synth-rock, upbeat AOR rocker, solo female alto lead vocal, punchy sequenced synthesizer bass, bright 80s keyboard hook, driving electric guitar rhythm, crisp 80s gated reverb snare, 136 BPM, F# Minor, confident, protective, empowering, melodic guitar solo"
     },
     {
@@ -114,7 +114,7 @@
       "track": 9,
       "legacyTier": "Fan Favorite",
       "loreNote": "A fiery 140 BPM 1980s arena rocker that captures the band pouring every last ounce of energy into their third studio album in under two years, directly foreshadowing the physical and emotional exhaustion that triggered their 2004 Burnout Hiatus.",
-      "duration": "",
+      "duration": "5:52",
       "stylePrompt": "1980s arena rock, urgent melodic synth-rock, solo high tenor male lead vocal, driving overdriven electric guitar riff, sweeping 80s analog synthesizer pads, pounding gated reverb drums, 140 BPM, D Minor, intense, emotional, cathartic, soaring guitar solo"
     },
     {
@@ -127,20 +127,20 @@
       "track": 10,
       "legacyTier": "Fan Anthem",
       "loreNote": "Originally tracked as a stripped-down, heartbroken acoustic sketch in late 1990 right after The Crash ('Empty Arenas (Early Demo)' on Lost Sounds), the band resurrected the song in 2004 for Progress Street and transformed it into a massive, full-band 1980s Album-Oriented Rock (AOR) anthem. Driven by Tyler's thunderous gated-reverb acoustic drum kit, Evan's locked-in bass, Cassidy's 1984 analog synth swells, and Ryan's soaring electric guitar, the polished 2004 lyrics reframe the empty arena from a symbol of post-accident terror into a quiet monument of survival after a sold-out encore.",
-      "duration": "",
+      "duration": "5:33",
       "stylePrompt": "1980s Album-Oriented Rock (AOR), full-band stadium rock anthem, full acoustic drum kit with massive 1980s gated reverb snare and powerful tom fills, driving overdriven electric rhythm guitars, soaring emotional electric lead guitar, warm 1980s polyphonic analog synthesizer pads, driving eighth-note electric bassline, soaring high tenor male lead vocal with female alto harmony backing vocals, 122 BPM, E Minor to G Major chorus lift, powerful, cathartic, triumphant arena rock"
     },
     {
       "fileName": "1-11-last-bus-home-lights-out-on-progress-street",
-      "title": "Last Bus Home (Lights Out on Progress Street)",
+      "title": "Last Bus Home: Lights Out on Progress Street",
       "isrc": "",
       "masterWavPath": "studio/last-bus-home-lights-out-on-progress-street",
       "disc": 1,
       "discName": "Progress Street",
       "track": 11,
       "legacyTier": "Fan Anthem",
-      "loreNote": "The grand 1980s stadium power-ballad finale of Progress Street. As the arena spotlights fade and the band's custom 2004 Prairie Coachworks RLFD30 kneels at the curb on Progress Street NW, the five family members step off the ramp and lock the front door of their home behind them, beginning their Burnout Hiatus.",
-      "duration": "",
+      "loreNote": "The grand 1980s stadium power-ballad finale of Progress Street—written as the band's direct, heartfelt message to Forger Nation that they are signing off for a little while. Completely burned out after pouring everything they had into three full studio albums in under two years, Ryan, Cassidy, Holly, Evan, and Tyler use this closing anthem to reassure the world that they are not breaking up. As their custom 2004 Prairie Coachworks RLFD30 kneels at the curb on Progress Street NW and the five of them head inside, they promise their fans that, as a family, they are staying together—and that once they have rested and recharged, they will turn the switches back on and return with more music.",
+      "duration": "5:24",
       "stylePrompt": "1980s epic stadium power ballad finale, AOR anthem, male and female duet, warm grand piano and lush 80s analog synthesizer pads, soaring emotional electric guitar, massive 80s gated reverb drums, 88 BPM, C Major, cathartic, heartfelt, triumphant yet peaceful farewell, long melodic guitar solo outro"
     }
   ]

@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
+  "name": "Runebreaker Live",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "Mana Canvas"
+  },
+  "albumProductionType": "LiveAlbum",
+  "albumReleaseType": "AlbumRelease",
+  "genre": "16-Bit Symphonic Prog / Live Arena Rock",
+  "datePublished": "2026-10-30",
+  "temporalCoverage": "1993-07-24",
+  "description": "Recorded live on the 1993 summer tour following the release of the original Runebreaker soundtrack. Mana Canvas brings Ocea's 16-bit SPC-700 digital realm to the concert stage with full live rock instrumentation, culminating in a 6-minute arena singalong of 'The Grand Decree'.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Engine Room Records"
+  },
+  "albumRelease": {
+    "@type": "MusicRelease",
+    "datePublished": "2026-10-30"
+  }
+}
+

@@ -1,8 +1,22 @@
 {
-  "albumName": "The Silver Gauntlet of Aethel (Original Motion Picture Soundtrack)",
-  "albumArtist": "Firelight",
+  "@context": "https://schema.org",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
+  "name": "The Silver Gauntlet of Aethel (Original Motion Picture Soundtrack)",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "Firelight"
+  },
+  "albumProductionType": "SoundtrackAlbum",
+  "albumReleaseType": "AlbumRelease",
   "genre": "Soundtrack / 80s Rock / Orchestral",
-  "narrativeReleaseDate": "2017-11-21",
-  "realReleaseDate": "2026-04-09",
-  "description": "The definitive 3-disc soundtrack for the Aethel Saga. Featuring the iconic 80s rock anthems and the complete orchestral score to the cult classic 12-hour Leviathan Cut."
+  "datePublished": "2026-04-09",
+  "temporalCoverage": "2017-11-21",
+  "description": "The definitive 3-disc soundtrack for the Aethel Saga. Featuring the iconic 80s rock anthems and the complete orchestral score to the cult classic 12-hour Leviathan Cut.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Engine Room Records"
+  }
 }

@@ -10,6 +10,13 @@
           "year": 1992,
           "description": "An SPC-700 ambient 16-bit soundtrack chronicling Ocea's journey into the digital realm.",
           "cover": "/raggiesoft-assets/engine-room-records/artists/mana-canvas/1992-runebreaker-ost/album-art.jpg"
+        },
+        {
+          "slug": "1993-runebreaker-live",
+          "title": "Runebreaker Live",
+          "year": 1993,
+          "description": "Recorded live on the 1993 summer tour following the release of the original Runebreaker soundtrack.",
+          "cover": "/raggiesoft-assets/engine-room-records/artists/mana-canvas/1993-runebreaker-live/album-art.jpg"
         }
       ]
     }
