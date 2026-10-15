@@ -1,0 +1,512 @@
+{
+    "series_title": "Upon This Winter's Night: The Story of Julian Rowlands",
+    "series_slug": "julian",
+    "series_description": "The complete origin narrative behind The Arctic Symphony Project (originally formed as The Winter Palace) and their 3-disc symphonic rock opera 'Tales from the Solstice'. When fourteen-year-old Julian Thomas Rowlands ('Julep')\u2014who is non-verbal, autistic, and uses a manual wheelchair\u2014is abducted from Ewell, Virginia on December 11, 1996 by his estranged father, his fierce twin siblings Gabriel and Gwendolyn Rowlands and his twin anchors Maria and Clara Harrison turn their living room into a war room and broadcast a symphonic rock rescue beacon across the Appalachian radio towers. Spanning from Julian's 1996 abduction and Ohio rescue, the forging of the vaulted Trilingual 'Family Mix' in Cymraeg, Qu\u00e9b\u00e9cois French, and English, and the family's 1998 return to Anglesey, Wales, to their 2007 meeting in Williamsburg with Samantha, Jyn, and Matthew\u2014whose cross-country abduction from Norfolk to Seattle was survived using Julian's song as his sonic armor.",
+    "series_description_long": "",
+    "series_image": "/raggiesoft-books/images/covers/2x3/julian.jpg",
+    "next_series_url": "",
+    "eras": [
+        {
+            "era_num": 1,
+            "era_title": "Era 1: The Winter Palace & The Breach (Spring \u2013 December 1996)",
+            "era_url": "/raggiesoft-books/books/julian/era-1-the-winter-palace-the-breach-spring-december-1996",
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Foreign Language",
+                    "chap_url": "/raggiesoft-books/books/julian/era-1-the-winter-palace-the-breach-spring-december-1996/foreign-language",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The 8th Grade IEP Meeting",
+                            "file_path": "e001/c001/s001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "The Empty Frame",
+                    "chap_url": "/raggiesoft-books/books/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-empty-frame",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Breach",
+                            "file_path": "e001/c002/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Beacon",
+                            "file_path": "e001/c002/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Winter Palace",
+                            "file_path": "e001/c002/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Garrison",
+                            "file_path": "e001/c002/s004.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "The War Room",
+                    "chap_url": "/raggiesoft-books/books/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-war-room",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Reinforcements",
+                            "file_path": "e001/c003/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Wall of Sound",
+                            "file_path": "e001/c003/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Makeshift Orchestra",
+                            "file_path": "e001/c003/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Prayer",
+                            "file_path": "e001/c003/s004.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 4,
+                    "chap_title": "The Signal",
+                    "chap_url": "/raggiesoft-books/books/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-signal",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Override",
+                            "file_path": "e001/c004/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Lost City",
+                            "file_path": "e001/c004/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Near Miss",
+                            "file_path": "e001/c004/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Hijack",
+                            "file_path": "e001/c004/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Escalation",
+                            "file_path": "e001/c004/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Longest Shadow",
+                            "file_path": "e001/c004/s006.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 5,
+                    "chap_title": "The Ohio Line",
+                    "chap_url": "/raggiesoft-books/books/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-ohio-line",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Waiting Game",
+                            "file_path": "e001/c005/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Breaking Point",
+                            "file_path": "e001/c005/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Silent Alarm",
+                            "file_path": "e001/c005/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The 9-1-1 Call",
+                            "file_path": "e001/c005/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Tape",
+                            "file_path": "e001/c005/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Ghost Exit",
+                            "file_path": "e001/c005/s006.md"
+                        },
+                        {
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Vector",
+                            "file_path": "e001/c005/s007.md"
+                        },
+                        {
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Wall",
+                            "file_path": "e001/c005/s008.md"
+                        },
+                        {
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The Anchor",
+                            "file_path": "e001/c005/s009.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 6,
+                    "chap_title": "The Long Dark",
+                    "chap_url": "/raggiesoft-books/books/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-long-dark",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Midnight Relay",
+                            "file_path": "e001/c006/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Red Tape",
+                            "file_path": "e001/c006/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Trauma Room 4",
+                            "file_path": "e001/c006/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Legacy",
+                            "file_path": "e001/c006/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Severed Tie",
+                            "file_path": "e001/c006/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Loose Ends",
+                            "file_path": "e001/c006/s006.md"
+                        },
+                        {
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Journey East",
+                            "file_path": "e001/c006/s007.md"
+                        },
+                        {
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Perimeter Secured",
+                            "file_path": "e001/c006/s008.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "era_num": 2,
+            "era_title": "Era 2: The Paper Shield & The Family Mix (December 1996)",
+            "era_url": "/raggiesoft-books/books/julian/era-2-the-paper-shield-the-family-mix-december-1996",
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "The Winter Palace",
+                    "chap_url": "/raggiesoft-books/books/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-winter-palace",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Echo",
+                            "file_path": "e002/c001/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Hearth",
+                            "file_path": "e002/c001/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Perimeter Holds",
+                            "file_path": "e002/c001/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Blended Table",
+                            "file_path": "e002/c001/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Open Doors",
+                            "file_path": "e002/c001/s005.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "The Perimeter",
+                    "chap_url": "/raggiesoft-books/books/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-perimeter",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Sunday Vultures",
+                            "file_path": "e002/c002/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Safe Harbor",
+                            "file_path": "e002/c002/s002.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "The Paper Shield",
+                    "chap_url": "/raggiesoft-books/books/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-paper-shield",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Blue Line",
+                            "file_path": "e002/c003/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Marble Halls",
+                            "file_path": "e002/c003/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Ink Dries",
+                            "file_path": "e002/c003/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Exposed Aggregate",
+                            "file_path": "e002/c003/s004.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 4,
+                    "chap_title": "The Playback",
+                    "chap_url": "/raggiesoft-books/books/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-playback",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Playback",
+                            "file_path": "e002/c004/s001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 5,
+                    "chap_title": "The Master Track",
+                    "chap_url": "/raggiesoft-books/books/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-master-track",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Soundstage",
+                            "file_path": "e002/c005/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Language Barrier",
+                            "file_path": "e002/c005/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Laying the Groundwork",
+                            "file_path": "e002/c005/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Safe Harbor",
+                            "file_path": "e002/c005/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Foundation",
+                            "file_path": "e002/c005/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Night Watch",
+                            "file_path": "e002/c005/s006.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 6,
+                    "chap_title": "The Quiet R\u00e9veillon",
+                    "chap_url": "/raggiesoft-books/books/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-quiet-r-veillon",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Stanstead Shipment",
+                            "file_path": "e002/c006/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Hybrid Tradition",
+                            "file_path": "e002/c006/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Family Mix",
+                            "file_path": "e002/c006/s003.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "era_num": 3,
+            "era_title": "Era 3: The Mother Tongue (Spring 1997)",
+            "era_url": "/raggiesoft-books/books/julian/era-3-the-mother-tongue-spring-1997",
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "The Substitute",
+                    "chap_url": "/raggiesoft-books/books/julian/era-3-the-mother-tongue-spring-1997/the-substitute",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Breach",
+                            "file_path": "e003/c001/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Mother Tongue",
+                            "file_path": "e003/c001/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Transit Loop",
+                            "file_path": "e003/c001/s003.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "era_num": 4,
+            "era_title": "Era 4: The Menai Strait (August 1998)",
+            "era_url": "/raggiesoft-books/books/julian/era-4-the-menai-strait-august-1998",
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Outbound",
+                    "chap_url": "/raggiesoft-books/books/julian/era-4-the-menai-strait-august-1998/outbound",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The I-64 Corridor",
+                            "file_path": "e004/c001/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Pre-Clearance",
+                            "file_path": "e004/c001/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Checkpoint",
+                            "file_path": "e004/c001/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Ascent",
+                            "file_path": "e004/c001/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Hub",
+                            "file_path": "e004/c001/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Boarding",
+                            "file_path": "e004/c001/s006.md"
+                        },
+                        {
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Red-Eye",
+                            "file_path": "e004/c001/s007.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "The Red Cave",
+                    "chap_url": "/raggiesoft-books/books/julian/era-4-the-menai-strait-august-1998/the-red-cave",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Terminator Line",
+                            "file_path": "e004/c002/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Border",
+                            "file_path": "e004/c002/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Commuter Hop",
+                            "file_path": "e004/c002/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Coastal Line",
+                            "file_path": "e004/c002/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Threshold",
+                            "file_path": "e004/c002/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Floorplan",
+                            "file_path": "e004/c002/s006.md"
+                        },
+                        {
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Time Shift",
+                            "file_path": "e004/c002/s007.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "era_num": 5,
+            "era_title": "Era 5: The Solstice Symphony (January 2007)",
+            "era_url": "/raggiesoft-books/books/julian/era-5-the-solstice-symphony-january-2007",
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Liberation of a Winter's Night",
+                    "chap_url": "/raggiesoft-books/books/julian/era-5-the-solstice-symphony-january-2007/liberation-of-a-winter-s-night",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Crown and Hound",
+                            "file_path": "e005/c001/s001.md"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
