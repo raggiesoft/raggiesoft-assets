@@ -1,5 +1,5 @@
 **LORE NOTE:**
-Recorded in 1990 shortly after Ryan's life-altering accident, this solemn, stripped-down track reflects the band's fear that they would never be able to play live again. It was ultimately deemed too depressing for the *Friction* era and was kept locked away. Its inclusion on *Lost Sounds* is a poignant reminder of the darkest period in the band's history.
+Recorded in late 1990 shortly after Ryan's life-altering bus accident, this solemn, stripped-down acoustic demo (`Empty Arenas (Early Demo)`) reflects the band's raw fear that they would never be able to play live again. Deemed too bleak for the *Friction* sessions, the tape remained locked in the vault until *Lost Sounds* (2007)—though fourteen years after cutting this sketch, the band resurrected the song during the 2004 *Progress Street* sessions and transformed it into a thunderous, full-band 1980s Album-Oriented Rock (AOR) stadium anthem with polished lyrics and a full drum kit.
 
 **LYRICS:**
 

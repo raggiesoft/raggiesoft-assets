@@ -118,13 +118,26 @@
       "stylePrompt": "1980s arena rock, urgent melodic synth-rock, solo high tenor male lead vocal, driving overdriven electric guitar riff, sweeping 80s analog synthesizer pads, pounding gated reverb drums, 140 BPM, D Minor, intense, emotional, cathartic, soaring guitar solo"
     },
     {
-      "fileName": "1-10-last-bus-home-lights-out-on-progress-street",
+      "fileName": "1-10-empty-arenas",
+      "title": "Empty Arenas",
+      "isrc": "",
+      "masterWavPath": "studio/empty-arenas",
+      "disc": 1,
+      "discName": "Progress Street",
+      "track": 10,
+      "legacyTier": "Fan Anthem",
+      "loreNote": "Originally tracked as a stripped-down, heartbroken acoustic sketch in late 1990 right after The Crash ('Empty Arenas (Early Demo)' on Lost Sounds), the band resurrected the song in 2004 for Progress Street and transformed it into a massive, full-band 1980s Album-Oriented Rock (AOR) anthem. Driven by Tyler's thunderous gated-reverb acoustic drum kit, Evan's locked-in bass, Cassidy's 1984 analog synth swells, and Ryan's soaring electric guitar, the polished 2004 lyrics reframe the empty arena from a symbol of post-accident terror into a quiet monument of survival after a sold-out encore.",
+      "duration": "",
+      "stylePrompt": "1980s Album-Oriented Rock (AOR), full-band stadium rock anthem, full acoustic drum kit with massive 1980s gated reverb snare and powerful tom fills, driving overdriven electric rhythm guitars, soaring emotional electric lead guitar, warm 1980s polyphonic analog synthesizer pads, driving eighth-note electric bassline, soaring high tenor male lead vocal with female alto harmony backing vocals, 122 BPM, E Minor to G Major chorus lift, powerful, cathartic, triumphant arena rock"
+    },
+    {
+      "fileName": "1-11-last-bus-home-lights-out-on-progress-street",
       "title": "Last Bus Home (Lights Out on Progress Street)",
       "isrc": "",
       "masterWavPath": "studio/last-bus-home-lights-out-on-progress-street",
       "disc": 1,
       "discName": "Progress Street",
-      "track": 10,
+      "track": 11,
       "legacyTier": "Fan Anthem",
       "loreNote": "The grand 1980s stadium power-ballad finale of Progress Street. As the arena spotlights fade and the band's custom 2004 Prairie Coachworks RLFD30 kneels at the curb on Progress Street NW, the five family members step off the ramp and lock the front door of their home behind them, beginning their Burnout Hiatus.",
       "duration": "",

@@ -1,5 +1,5 @@
 **LORE NOTE:**
-The grand 1980s stadium power-ballad finale of *Progress Street*. As the arena spotlights fade and the Blue Ridge Transit bus kneels at the curb on Progress Street NW, the five family members step off the stage and lock the front door behind them, beginning their Burnout Hiatus.
+The grand 1980s stadium power-ballad finale of *Progress Street*. As the arena spotlights fade and the band's custom 2004 Prairie Coachworks RLFD30 low-floor shuttle coach kneels at the curb on Progress Street NW, the five family members step off the stage and lock the front door behind them, beginning their Burnout Hiatus.
 
 **LYRICS:**
 
@@ -15,7 +15,7 @@ The road cases are latched and rolled outside the stage door
 For twenty years we gave the world the thunder in our chest
 Now the highway's calling us to finally take our rest
 (Ryan)
-The white and pine-green transit bus is kneeling at the curb
+Our custom low-floor shuttle bus is kneeling at the curb
 (Cassidy)
 Leading to a quiet place the static can't disturb.
 
