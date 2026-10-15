@@ -1,6 +1,6 @@
 **LORE NOTE:**
 
-A powerful, defiant 80s rock anthem and duet showing the protective bond between John and his fraternal twin sister, Erin. It captures the moment a predator starts making the wrong moves on Erin. John recognizes the predator's manipulative tactics because of his own past trauma and abuse, unleashing his analytical fury to shut it down. Erin's bridge is a fierce and assertive plea to escape, delivered with raw rock energy. The final chorus is their unified, protective roar—John declaring "Not Her, NEVER AGAIN!" to ensure his sister doesn't suffer what he did.
+A powerful, defiant 80s rock anthem and duet serving as the fifth and final chapter of The Stardust Engine's published narrative arc of fraternal twins John and Erin. After Erin rescued John from his abuser at the CPI Transit Center ("Before the Distance") and gave him a safe harbor to heal ("Sanctuary in the Storm"), a slick male predator ("that easy charm, that practiced smile") corners Erin and tries to isolate her ("Brother, listen, something's wrong... Just take my hand, let's turn and run"). Because John survived his own abuser, he immediately recognizes the predator's manipulative tactics and unleashes his analytical fury—declaring "Not her. Not today. Not ever again!" and rescuing Erin just as she rescued him.
 
 **LYRICS:**
 

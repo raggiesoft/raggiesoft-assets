@@ -1,6 +1,6 @@
 **LORE NOTE:**
 
-An epic 80s power ballad duet about finding love and safety after a difficult past. Features a male and female vocalist, a powerful piano intro, massive drums with gated reverb, and a soaring electric guitar solo. The song builds from gentle verses to a huge, heartfelt, and dramatic chorus. It is the signature song for John and Megan (characters the band created in 1986). It represents John finding a safe harbor with his wife Megan after suffering and finally breaking free from an abusive past relationship. It was put on their early demo cassette to shop around, but no studio wanted it.
+An epic 80s power ballad duet about finding unconditional safety and healing after surviving an abusive relationship. Features Ryan and Cassidy O'Connell on male and female lead vocals, a powerful piano intro, massive drums with gated reverb, and a soaring electric guitar solo. Written in 1986 as Part IV of The Stardust Engine's published narrative arc of fraternal twins John and Erin (and originally rejected by Apex Records before being unearthed for Lost Sounds), the song takes place after Erin rescues John from his abuser at the CPI Transit Center in "Before the Distance"—capturing John finding his safe harbor and "Sanctuary in the Storm" with his twin sister Erin.
 
 **LYRICS:**
 

@@ -1,5 +1,5 @@
 **LORE NOTE:**
-A lush, three-minute 85 BPM 1980s arena power ballad written around the playful concept of a three-minute campus speed-dating round ("It only takes three minutes to believe!"). You have until the end of the song to get to know the person sitting across the table from you before rotating to the next seat.
+A lush, three-minute 85 BPM 1980s arena power ballad written around the playful concept of a three-minute campus speed-dating round ("It only takes three minutes to believe!"). You have until the end of the song to get to know the person sitting across the table from you before rotating to the next seat. In The Stardust Engine's official published liner-note narrative ("Before the Distance: The Story of John & Erin"), this is the song that was supposed to be played at the campus speed-dating event when John sat down across from a stranger—before the organizer accidentally hit the skip button and blasted Track 4 ("Thunder in the Rain") instead.
 
 **LYRICS:**
 

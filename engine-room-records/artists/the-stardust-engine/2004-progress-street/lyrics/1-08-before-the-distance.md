@@ -1,5 +1,5 @@
 **LORE NOTE:**
-A dramatic mid-tempo 1980s pop-rock power anthem ("When the steel doors close and the platform clears..."), famously listened to by Jessica on her pre-release Quantum Zephyr media player during her devastating November 2006 commuter train ride from Kent to Seattle King Street Station.
+A dramatic mid-tempo 1980s pop-rock power anthem ("When the steel doors close and the platform clears...") serving as the centerpiece of The Stardust Engine's published narrative story of fraternal twins John and Erin. After the woman John met during "Thunder in the Rain" isolates and breaks him down, his twin sister Erin meets him at the CPI Transit Center in Blacksburg and makes the executive decision that John is coming with her—physically pulling him onto the Blue Ridge Transit bus right before the steel doors close and leaving his furious abuser behind on the platform. In November 2006, when Jessica leaves her brother Michael behind at Kent Station with his abuser Delores and hears "Before the Distance" on her pre-release Quantum Zephyr media player on the commuter train to Seattle King Street Station, she remembers reading The Stardust Engine's story of John and Erin and realizes in horror that she and Michael are living out the exact same story—except she let the doors close without pulling her brother aboard.
 
 **LYRICS:**
 

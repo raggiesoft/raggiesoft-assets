@@ -1,0 +1,75 @@
+{
+    "series_title": "Before the Distance: The Story of John & Erin",
+    "series_slug": "erin",
+    "series_description": "An official five-song narrative story published by Ryan and Cassidy O'Connell of The Stardust Engine across Progress Street (2004) and Lost Sounds (2007). At Commonwealth Polytechnic Institute (CPI) in Blacksburg, Virginia, fraternal twins John and Erin navigate the steep limestone hills of campus in their power wheelchairs. When an accidental track skip from 'Seconds Into Forever' to 'Thunder in the Rain' at a campus speed-dating event places John across the table from a woman he doesn't realize will become his abuser, it takes Erin's split-second executive decision at the CPI Transit Center ('Before the Distance') to pull her brother onto the Blue Ridge Transit bus before the steel doors close\u2014forging a sibling sanctuary ('Sanctuary in the Storm') that comes full circle when John protects Erin in 'Not Her'.",
+    "series_description_long": "",
+    "series_image": "/raggiesoft-books/images/covers/2x3/erin.jpg",
+    "next_series_url": "",
+    "eras": [
+        {
+            "era_num": 1,
+            "era_title": "Before the Distance: The Story of John & Erin",
+            "era_url": "/raggiesoft-books/books/erin/before-the-distance-the-story-of-john-erin",
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Seconds Into Thunder",
+                    "chap_url": "/raggiesoft-books/books/erin/before-the-distance-the-story-of-john-erin/seconds-into-thunder",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Three-Minute Bell",
+                            "file_path": "e001/c001/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Table Four",
+                            "file_path": "e001/c001/s002.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "Before the Distance",
+                    "chap_url": "/raggiesoft-books/books/erin/before-the-distance-the-story-of-john-erin/before-the-distance",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Frayed Mask",
+                            "file_path": "e001/c002/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: When the Steel Doors Close",
+                            "file_path": "e001/c002/s002.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "Sanctuary in the Storm",
+                    "chap_url": "/raggiesoft-books/books/erin/before-the-distance-the-story-of-john-erin/sanctuary-in-the-storm",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Locked Perimeter",
+                            "file_path": "e001/c003/s001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 4,
+                    "chap_title": "Not Her",
+                    "chap_url": "/raggiesoft-books/books/erin/before-the-distance-the-story-of-john-erin/not-her",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Practiced Smile",
+                            "file_path": "e001/c004/s001.md"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

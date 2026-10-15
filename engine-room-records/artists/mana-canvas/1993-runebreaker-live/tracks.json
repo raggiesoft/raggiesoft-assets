@@ -3,11 +3,11 @@
     {
       "fileName": "the-grand-decree-live",
       "title": "The Grand Decree (Live at Sanctuary Stadium)",
-      "masterWavPath": "studio/the-grand-decree",
+      "masterWavPath": "live/the-grand-decree-live",
       "disc": 1,
       "discName": "Runebreaker Live",
       "track": 99,
-      "duration": "5:04"
+      "duration": "In Studio"
     }
   ]
 }
