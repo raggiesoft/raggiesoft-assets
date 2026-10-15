@@ -709,7 +709,7 @@ stripped acoustic demo, drumless, ambient only, slow dirge, lo-fi, country, hip 
 * **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
 * **Weirdness:** `0%`
 * **Style Influence:** `90%`
-* **Lore Note:** The band's direct, heartfelt message to Forger Nation that they are signing off for a little while because they are burned out. They promise that, as a family, they are staying together on Progress Street NW and will be back with more music once they have recharged.
+* **Lore Note:** The band's direct, heartfelt message to Forger Nation that they are signing off for a little while because they are burned out. They promise that, as a family, they are staying together on Progress Street NE and will be back with more music once they have recharged.
 
 ### Styles to Include
 ```text

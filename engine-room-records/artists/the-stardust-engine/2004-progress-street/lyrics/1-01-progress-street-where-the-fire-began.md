@@ -1,5 +1,5 @@
 **LORE NOTE:**
-The triumphant 1980s AOR title track and opener looking back to 1985 on Progress Street NW in Blacksburg, Virginia—where Ryan, Cassidy, Evan, Tyler, and Holly forged their family unit. Freed from the synth-pop restrictions of their old label, the band opens *Progress Street* with the full-blooded 1980s melodic stadium rock sound they originally played in their Blacksburg basement.
+The triumphant 1980s AOR title track and opener looking back to 1985 on Progress Street NE in Blacksburg, Virginia—where Ryan, Cassidy, Evan, Tyler, and Holly forged their family unit. Freed from the synth-pop restrictions of their old label, the band opens *Progress Street* with the full-blooded 1980s melodic stadium rock sound they originally played in their Blacksburg basement.
 
 **LYRICS:**
 

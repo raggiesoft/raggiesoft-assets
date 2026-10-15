@@ -1598,7 +1598,7 @@ A guy in a backwards baseball cap—the ringleader—pushed a heavy cart into th
 
 He hit a button on a massive boombox strapped to the cart.
 
-The Music: For ten seconds, a majestic, Vangelis-style synthesizer swell filled the room. It sounded like slow-motion victory. Patrick almost relaxed. Then—CRASH. A screeching guitar slide tore through the air, followed by a pounding synth-drum beat at 150 BPM. It was *"Thunder in the Rain"* by Steel Horizon.
+The Music: For ten seconds, a majestic, cinematic analog brass-synth swell filled the room. It sounded like slow-motion victory. Patrick almost relaxed. Then—CRASH. A screeching guitar slide tore through the air, followed by a pounding synth-drum beat at 150 BPM. It was *"Thunder in the Rain"* by The Stardust Engine.
 
 Thirty students flooded the room, laughing and breathless. They began pairing off randomly, shouting over the power ballad.
 

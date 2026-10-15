@@ -1,6 +1,6 @@
 **LORE NOTE:**
 
-A powerful, defiant 80s rock anthem and duet serving as the fifth and final chapter of The Stardust Engine's published narrative arc of fraternal twins John and Erin. After Erin rescued John from his abuser at the CPI Transit Center ("Before the Distance") and gave him a safe harbor to heal ("Sanctuary in the Storm"), a slick male predator ("that easy charm, that practiced smile") corners Erin and tries to isolate her ("Brother, listen, something's wrong... Just take my hand, let's turn and run"). Because John survived his own abuser, he immediately recognizes the predator's manipulative tactics and unleashes his analytical fury—declaring "Not her. Not today. Not ever again!" and rescuing Erin just as she rescued him.
+A powerful, defiant 80s rock anthem and duet serving as the fifth and final chapter of The Stardust Engine's published narrative arc of fraternal twins John and Erin. After Erin rescued John from his abuser along the Commonwealth Mall bus line ("Before the Distance") and brought him the two blocks home to Progress Street NE ("Sanctuary in the Storm"), a slick male predator ("that easy charm, that practiced smile") corners Erin and tries to isolate her ("Brother, listen, something's wrong... Just take my hand, let's turn and run"). Because John survived his own abuser, he immediately recognizes the predator's manipulative tactics and unleashes his analytical fury—declaring "Not her. Not today. Not ever again!" and rescuing Erin just as she rescued him.
 
 **LYRICS:**
 

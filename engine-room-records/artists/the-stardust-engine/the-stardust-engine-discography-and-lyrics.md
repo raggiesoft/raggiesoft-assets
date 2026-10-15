@@ -6880,7 +6880,7 @@ Safe travels on your return to terrestrial gravity.
 
 ## Progress Street: Where the Fire Began
 ### Lore
-The triumphant 1980s AOR title track and opener looking back to 1985 on Progress Street NW in Blacksburg, Virginia—where Ryan, Cassidy, Evan, Tyler, and Holly forged their family unit. Freed from the synth-pop restrictions of their old label, the band opens *Progress Street* with the full-blooded 1980s melodic stadium rock sound they originally played in their Blacksburg basement.
+The triumphant 1980s AOR title track and opener looking back to 1985 on Progress Street NE in Blacksburg, Virginia—where Ryan, Cassidy, Evan, Tyler, and Holly forged their family unit. Freed from the synth-pop restrictions of their old label, the band opens *Progress Street* with the full-blooded 1980s melodic stadium rock sound they originally played in their Blacksburg basement.
 
 ### Lyrics
 
@@ -7684,7 +7684,7 @@ Let the rafters ring inside these empty arenas!
 
 ## Last Bus Home: Lights Out on Progress Street
 ### Lore
-The grand 1980s stadium power-ballad finale of *Progress Street*—written as the band's direct, heartfelt message to Forger Nation that they are signing off for a little while. Completely burned out after pouring everything they had into three full studio albums in under two years, Ryan, Cassidy, Holly, Evan, and Tyler use this closing anthem to reassure the world that they are not breaking up. As their custom 2004 Prairie Coachworks RLFD30 low-floor shuttle coach kneels at the curb on Progress Street NW and the five of them head inside, they promise their fans that, as a family, they are staying together—and that once they have rested and recharged, they will turn the switches back on and return with more music.
+The grand 1980s stadium power-ballad finale of *Progress Street*—written as the band's direct, heartfelt message to Forger Nation that they are signing off for a little while. Completely burned out after pouring everything they had into three full studio albums in under two years, Ryan, Cassidy, Holly, Evan, and Tyler use this closing anthem to reassure the world that they are not breaking up. As their custom 2004 Prairie Coachworks RLFD30 low-floor shuttle coach kneels at the curb on Progress Street NE and the five of them head inside, they promise their fans that, as a family, they are staying together—and that once they have rested and recharged, they will turn the switches back on and return with more music.
 
 ### Lyrics
 
@@ -15786,7 +15786,7 @@ Safe travels on your return to terrestrial gravity.
 
 ## Progress Street: Where the Fire Began
 ### Lore
-The triumphant 1980s AOR title track and opener looking back to 1985 on Progress Street NW in Blacksburg, Virginia—where Ryan, Cassidy, Evan, Tyler, and Holly forged their family unit. Freed from the synth-pop restrictions of their old label, the band opens *Progress Street* with the full-blooded 1980s melodic stadium rock sound they originally played in their Blacksburg basement.
+The triumphant 1980s AOR title track and opener looking back to 1985 on Progress Street NE in Blacksburg, Virginia—where Ryan, Cassidy, Evan, Tyler, and Holly forged their family unit. Freed from the synth-pop restrictions of their old label, the band opens *Progress Street* with the full-blooded 1980s melodic stadium rock sound they originally played in their Blacksburg basement.
 
 ### Lyrics
 
@@ -16590,7 +16590,7 @@ Let the rafters ring inside these empty arenas!
 
 ## Last Bus Home: Lights Out on Progress Street
 ### Lore
-The grand 1980s stadium power-ballad finale of *Progress Street*—written as the band's direct, heartfelt message to Forger Nation that they are signing off for a little while. Completely burned out after pouring everything they had into three full studio albums in under two years, Ryan, Cassidy, Holly, Evan, and Tyler use this closing anthem to reassure the world that they are not breaking up. As their custom 2004 Prairie Coachworks RLFD30 low-floor shuttle coach kneels at the curb on Progress Street NW and the five of them head inside, they promise their fans that, as a family, they are staying together—and that once they have rested and recharged, they will turn the switches back on and return with more music.
+The grand 1980s stadium power-ballad finale of *Progress Street*—written as the band's direct, heartfelt message to Forger Nation that they are signing off for a little while. Completely burned out after pouring everything they had into three full studio albums in under two years, Ryan, Cassidy, Holly, Evan, and Tyler use this closing anthem to reassure the world that they are not breaking up. As their custom 2004 Prairie Coachworks RLFD30 low-floor shuttle coach kneels at the curb on Progress Street NE and the five of them head inside, they promise their fans that, as a family, they are staying together—and that once they have rested and recharged, they will turn the switches back on and return with more music.
 
 ### Lyrics
 
