@@ -1,0 +1,28 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
+  "name": "1883",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "Fractured Prisms"
+  },
+  "isRockOpera": true,
+  "rockOperaSetId": "hollow-square-1883",
+  "albumProductionType": "StudioAlbum",
+  "albumReleaseType": "AlbumRelease",
+  "genre": "Progressive Pop / Gothic Synth-Rock Opera",
+  "datePublished": "2026-10-15",
+  "temporalCoverage": "1984-10-19",
+  "description": "Following the massive transatlantic success of Carnaby Street, Rhys and Claire Manning plunged fully into their psychological sanctuary. Set entirely within the gaslamp-lit halls of the Victorian-era Hollow Square in 1883 London, this concept rock opera brings the four siblings lost at Shap Fell (Alistair, Gwen, Simon, and Julian) back to life through intricate analog synthesizer clockwork and Gwen's wooden flute.",
+  "gtin12": "",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Engine Room Records"
+  },
+  "conditionsOfAccess": "Cleared - Suno Commercial Premium License",
+  "creativeWorkStatus": "Released"
+}
+

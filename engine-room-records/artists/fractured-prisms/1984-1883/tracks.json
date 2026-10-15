@@ -1,0 +1,60 @@
+{
+  "tracks": [
+    {
+      "fileName": "1-01-architects-of-the-rain",
+      "title": "Architects of the Rain",
+      "isrc": "",
+      "masterWavPath": "studio/architects-of-the-rain",
+      "disc": 1,
+      "discName": "1883: The Hollow Square Sanctuary",
+      "track": 1,
+      "suiteName": "",
+      "suiteTrack": "",
+      "legacyTier": "Signature Anthem",
+      "loreNote": "The sweeping opening duet of 1883. Rhys and Claire step across a century into the gaslamp-lit iron gates of their Victorian sanctuary, where analog synthesizer wires and Gwen's wooden flute turn ghosts into gold.",
+      "duration": "4:51"
+    },
+    {
+      "fileName": "1-02-four-at-the-table",
+      "title": "Four at the Table",
+      "isrc": "",
+      "masterWavPath": "studio/four-at-the-table",
+      "disc": 1,
+      "discName": "1883: The Hollow Square Sanctuary",
+      "track": 2,
+      "suiteName": "",
+      "suiteTrack": "",
+      "legacyTier": "Fan Anthem",
+      "loreNote": "In the 1883 psychological sanctuary, the 1981 Shap Fell tragedy never happened. Morning breaks over the slate roof as all six siblings—Alistair, Gwen, Simon, Julian, Rhys, and Claire—gather in the Victorian parlor ('four at the table, two by the fire') with Gwen's flute leading the morning song.",
+      "duration": "4:23"
+    },
+    {
+      "fileName": "1-03-the-brass-escapement",
+      "title": "The Brass Escapement",
+      "isrc": "",
+      "masterWavPath": "studio/the-brass-escapement",
+      "disc": 1,
+      "discName": "1883: The Hollow Square Sanctuary",
+      "track": 3,
+      "suiteName": "",
+      "suiteTrack": "",
+      "legacyTier": "",
+      "loreNote": "As the parlor sleeps, Rhys retreats to his mechanical workshop—reimagining his 1980s synthesizer sequencers as a Victorian brass escapement and pinned copper cylinder that locks the family's pulse into a flawless 100-year design that can never betray or die.",
+      "duration": "4:17"
+    },
+    {
+      "fileName": "1-04-shadows-on-the-slate",
+      "title": "Shadows on the Slate",
+      "isrc": "",
+      "masterWavPath": "studio/shadows-on-the-slate",
+      "disc": 1,
+      "discName": "1883: The Hollow Square Sanctuary",
+      "track": 4,
+      "suiteName": "",
+      "suiteTrack": "",
+      "legacyTier": "",
+      "loreNote": "Even inside the 1883 sanctuary where she can walk, Claire is still haunted by night terrors as the gaslight drops. Rhys anchors her nervous system through the midnight storm, turning the dial down and holding the line until the break of day.",
+      "duration": "4:44"
+    }
+  ]
+}

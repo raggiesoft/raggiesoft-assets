@@ -195,6 +195,48 @@
       "suiteTrack": "",
       "legacyTier": "",
       "loreNote": ""
+    },
+    {
+      "fileName": "1-15-hoshizora-no-uta-song-of-the-starry-sky-english",
+      "title": "Hoshizora no Uta (Song of the Starry Sky) [English Version]",
+      "masterWavPath": "studio/hoshizora-no-uta-song-of-the-starry-sky-english",
+      "disc": 1,
+      "discName": "A Gauntlet of Hearts (System.Restore)",
+      "track": 15,
+      "isrc": "",
+      "duration": "1:49",
+      "suiteName": "The Epilogue Suite",
+      "suiteTrack": "1",
+      "legacyTier": "",
+      "loreNote": "A gentle maritime City Pop lullaby from the family's global healing voyage across Japan—assuring the weary traveler that the heavy shadows have been left behind on the shore and that he is finally safe upon the sea."
+    },
+    {
+      "fileName": "1-16-hoshizora-no-uta-song-of-the-starry-sky-japanese",
+      "title": "Hoshizora no Uta (Song of the Starry Sky) [Japanese Version]",
+      "masterWavPath": "studio/hoshizora-no-uta-song-of-the-starry-sky-japanese",
+      "disc": 1,
+      "discName": "A Gauntlet of Hearts (System.Restore)",
+      "track": 16,
+      "isrc": "",
+      "duration": "2:29",
+      "suiteName": "The Epilogue Suite",
+      "suiteTrack": "2",
+      "legacyTier": "",
+      "loreNote": "The original Japanese-language broadcast recording of 'Hoshizora no Uta (星空の歌)' played aboard the overnight passenger ferry across the Inland Sea."
+    },
+    {
+      "fileName": "1-17-a-double-wedding-our-new-constellation",
+      "title": "A Double Wedding (Our New Constellation)",
+      "masterWavPath": "studio/a-double-wedding-our-new-constellation",
+      "disc": 1,
+      "discName": "A Gauntlet of Hearts (System.Restore)",
+      "track": 17,
+      "isrc": "",
+      "duration": "3:19",
+      "suiteName": "The Epilogue Suite",
+      "suiteTrack": "3",
+      "legacyTier": "Signature Anthem",
+      "loreNote": "The jubilant 1980s synth-rock epilogue of The Eleventh Child. Shedding the Fuller surname and the Sinclair protocols forever, Jordan Shawn Kelly takes his wife's family name and honors Shawn with his middle name, standing side-by-side with his best friend Mark Anderson in a double wedding that forms their new constellation."
     }
   ]
 }

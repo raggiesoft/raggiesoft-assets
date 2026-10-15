@@ -1,12 +1,13 @@
 {
   "sanctuary": {
     "label": "The Sanctuary Era",
-    "heading": "1983-1984: The Sanctuary Era",
-    "description": "Following the 1981 Shap Fell disaster, Rhys and Claire retreated to a soundproofed ranch house in Williamsport, Maryland. Refusing to hire session musicians, the siblings physically played every instrument themselves, recording these sweeping progressive concepts in total isolation.",
+    "heading": "1983–1985: The Sanctuary Era",
+    "description": "Following the 1981 Shap Fell disaster, Rhys and Claire retreated to a soundproofed ranch house in Williamsport, Maryland. Refusing to hire session musicians in the studio, the siblings physically played every instrument themselves before staging their legendary 1985 stadium manifestation.",
     "albums": [
       {
         "title": "Carnaby Street",
         "year": "1983",
+        "folder": "1983-carnaby-street",
         "url": "/engine-room/artists/fractured-prisms/discography/1983-carnaby-street",
         "img": "https://assets.raggiesoft.com/engine-room-records/artists/fractured-prisms/1983-carnaby-street/album-art.jpg",
         "spotifyId": "4G2HvFggcDQf4q3vomSHH6",
@@ -16,6 +17,32 @@
         "storeStandardUrl": "https://store.raggiesoft.com/products/carnaby-street-standard-digital-archive",
         "storeAudiophileUrl": "https://store.raggiesoft.com/products/carnaby-street-studio-master-archive-wav",
         "description": "Written in the safety of a transatlantic sanctuary following a devastating loss. A sweeping progressive pop record where profound grief meets an eventual emotional breakthrough, physically played entirely by the surviving siblings."
+      },
+      {
+        "title": "1883",
+        "year": "1984",
+        "folder": "1984-1883",
+        "url": "/engine-room/artists/fractured-prisms/story/the-hollow-square",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/fractured-prisms/1984-1883/album-art.jpg",
+        "isRockOpera": true,
+        "rockOperaSetId": "hollow-square-1883",
+        "spotifyId": "",
+        "appleId": "",
+        "amazonId": "",
+        "youtubeId": "",
+        "description": "Set entirely within the gaslamp-lit halls of the Victorian-era Hollow Square in 1883 London, this concept rock opera brings the four deceased siblings back to life through intricate analog synthesizer clockwork and Gwen's wooden flute."
+      },
+      {
+        "title": "Live at Independence Stadium",
+        "year": "1985",
+        "folder": "1985-live-at-independence-stadium",
+        "url": "/engine-room/artists/fractured-prisms/story/1985-american-shores-tour",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/fractured-prisms/1985-live-at-independence-stadium/album-art.jpg",
+        "spotifyId": "",
+        "appleId": "",
+        "amazonId": "",
+        "youtubeId": "",
+        "description": "Recorded live in August 1985 before 90,000 fans in Philadelphia, featuring the extended stadium rendition of 'The Hollow Square'."
       }
     ]
   }

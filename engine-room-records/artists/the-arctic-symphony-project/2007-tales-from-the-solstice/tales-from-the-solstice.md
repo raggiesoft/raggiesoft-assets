@@ -4,6 +4,11 @@
 ### **1-01-overture-of-the-frost.md**
 ***
 
+**LORE NOTE:**
+Archival lyrics document.
+
+**LYRICS:**
+
 [Instrumental Intro]
 [Symphonic Strings]
 
@@ -27,6 +32,11 @@ Ahhh, Ohhh
 ***
 ### **1-02-the-false-horizon.md**
 ***
+
+**LORE NOTE:**
+Archival lyrics document.
+
+**LYRICS:**
 
 [Verse 1]
 Rolling south down Hampton line
@@ -81,6 +91,11 @@ The heavy gate locks on the prize!
 ### **2-05-emerald-city-the-trigger.md**
 ***
 
+**LORE NOTE:**
+Archival lyrics document.
+
+**LYRICS:**
+
 [Verse 1]
 Looking through the rain-streaked glass
 Waiting for the gray to pass
@@ -126,37 +141,46 @@ I just want to go home
 ### **3-07-upon-this-winters-night.md**
 ***
 
-\[Intro]
-(Sudden, heavy driving cello riff enters)
-(Concussive rock drum kit and distorted rhythm guitar crash in)
+**LORE NOTE:**
+The crowning symphonic rock centerpiece of *Tales from the Solstice*. Following the journey of a solitary traveler in a wheelchair yearning to find his way home through the winter storm, the track builds to an emotional rock-opera climax beneath the guiding light of the Northern Star.
 
-\[Verse 1]
-(symphonic rock music backs off to allow glockenspiel to take over the melody)
+**LYRICS:**
+
+[Intro]
+(Heavy, driving cello riff)
+(Orchestral strings swell)
+(Rock drums kick in—slow, heavy beat)
+
+[Verse 1]
 The clock upon the mantel chimes
 Reminding me of better times
 The window pane is frosted white
 I'm searching for a sign tonight
+I know the storm is raging on
+I know the daylight’s dead and gone
+But in this house, the fire burns
+Until the traveler returns
 
-\[Pre-Chorus]
-(Strings build tension, symphonic rock slowly kicks back in)
+[Pre-Chorus]
+(Strings build tension)
 Can you hear me calling?
 Can you see the glow?
 Through the miles of silence
 And the drifting snow?
 
-\[Chorus]
-(Symphonic Rock detonates with full authority back in at the word Candle)
+[Chorus]
 So keep a candle burning bright
 Upon this winter's night
 Though you've wandered far and wide
 Time remains upon your side
 Follow the star, follow the light
-And make it home tonight (Make it home tonight!)
+And make it home tonight
+(Make it home tonight!)
 
-\[Instrumental Break]
+[Instrumental Break]
 (Dramatic Cello Solo)
 
-\[Verse 2]
+[Verse 2]
 The world is cold and full of fear
 But sanctuary waits in here
 Don't let the shadows steal your way
@@ -166,7 +190,7 @@ But promises are yours to keep
 So lift your head and face the wind
 And let the journey home begin
 
-\[Chorus]
+[Chorus]
 So keep a candle burning bright
 Upon this winter's night
 Though you've wandered far and wide
@@ -174,19 +198,20 @@ Time remains upon your side
 Follow the star, follow the light
 And make it home tonight
 
-\[Bridge]
+[Bridge]
 (Tempo speeds up - Rock Opera style)
 (Male Lead) I’m sending out a prayer!
 (Choir) (Bring him home! Bring him home!)
 (Male Lead) To vanish all despair!
 (Choir) (You are not alone!)
-(Male Lead) No matter where you are No matter how far!
-(Male Lead) Just look to the Northern Star!
+(Male Lead) No matter where you are
+No matter how far!
+Just look to the Northern Star!
 
-\[Guitar Solo]
+[Guitar Solo]
 (Soaring, melodic electric guitar solo with orchestral backing)
 
-\[Chorus]
+[Chorus]
 So keep a candle burning bright
 Upon this winter's night
 Though you've wandered far and wide
@@ -194,14 +219,107 @@ Time remains upon your side
 Follow the star, follow the light
 And make it home tonight
 
-\[Outro]
+[Outro]
 Make it home tonight...
 (Follow the light...)
 Make it home tonight...
 (Upon this winter's night...)
 
-\[Big Finish]
-(Orchestral hit) (Symphonic Rock gives way to a music box that is reminiscent of Johannes Brahms's Wiegenlied to finish the song)
+[Big Finish]
+(Orchestral hit)
+(Sustain cello note fading out)
+
+
+***
+### **3-11-upon-this-winters-night-the-family-mix.md**
+***
+
+**LORE NOTE:**
+The sacred 5-minute Trilingual "Family Mix" (*Upon This Winter's Night / Ar Noson y Gaeaf Hon / En Cette Nuit d'Hiver*), performed across **English (United States)**, **French (Québécois)**, and **Cymraeg (Welsh)**. While only the English version was commercially issued during the 1997 studio sessions, this private family arrangement begins in the fragile safety of Julian's anchor language (**Cymraeg**), transitions through Gwendolyn's tactical **French (Québécois)** in the pre-chorus, and detonates into massive **English (United States)** and **Cymraeg** symphonic rock choruses before weaving all three languages together in the final plea to look to the Northern Star.
+
+**LYRICS:**
+
+[Intro]
+(Sudden, heavy driving cello riff enters)
+(Concussive rock drum kit and distorted rhythm guitar crash in)
+(Soaring electric guitar lead over sweeping orchestral strings)
+
+[Verse 1 - Cymraeg]
+(Symphonic rock backs off to gentle piano and strings)
+Mae cloc y fantell yn canu [The clock upon the mantel chimes]
+Yn fy atgoffa o amseroedd gwell [Reminding me of better times]
+Mae cwarel y ffenestr yn wyn gan farug [The window pane is frosted white]
+Rwy'n chwilio am arwydd heno [I'm searching for a sign tonight]
+
+[Pre-Chorus - French (Québécois)]
+(Strings build tension, symphonic rock slowly kicks back in)
+M'entends-tu appeler ? [Can you hear me calling?]
+Peux-tu voir la lueur ? [Can you see the glow?]
+À travers les kilomètres de silence [Through the miles of silence]
+Et la neige qui dérive ? [And the drifting snow?]
+
+[Chorus - English (United States)]
+(Symphonic Rock detonates with full authority)
+So keep a candle burning bright
+Upon this winter's night
+Though you've wandered far and wide
+Time remains upon your side
+Follow the star, follow the light
+And make it home tonight
+(Make it home tonight!)
+
+[Instrumental Break]
+(Dramatic electric guitar and cello duel)
+
+[Verse 2 - French (Québécois) / Cymraeg / English (United States)]
+Le monde est froid et plein de peur [The world is cold and full of fear]
+Mais un sanctuaire t'attend ici [But sanctuary waits in here]
+Peidiwch â gadael i'r cysgodion ddwyn eich ffordd [Don't let the shadows steal your way]
+Peidiwch â gwrando ar y geiriau maen nhw'n eu dweud [Don't listen to the words they say]
+The journey’s hard, the road is steep
+But promises are yours to keep
+So lift your head and face the wind
+And let the journey home begin
+
+[Chorus - Cymraeg]
+(Sung entirely in Cymraeg to honor the mother's roots)
+Felly cadwch gannwyll yn llosgi'n llachar [So keep a candle burning bright]
+Ar noson y gaeaf hon [Upon this winter's night]
+Er i chi grwydro'n bell ac eang [Though you've wandered far and wide]
+Mae amser yn aros ar eich ochr [Time remains upon your side]
+Dilynwch y seren, dilynwch y golau [Follow the star, follow the light]
+A dewch adref heno! [And make it home tonight!]
+
+[Bridge - English (United States) & French (Québécois)]
+(Tempo speeds up - Rock Opera style)
+I’m sending out a prayer!
+(Ramenez-le ! [Bring him home!])
+To vanish all despair!
+No matter where you are, no matter how far!
+Just look to the Northern Star!
+(Ramenez-le ! Ramenez-le ! [Bring him home! Bring him home!])
+
+[Guitar Solo]
+(Virtuosic, soaring electric guitar solo with full orchestral backing)
+
+[Chorus - English (United States)]
+(Drops to intimate glockenspiel and piano before full symphonic eruption)
+So keep a candle burning bright
+Upon this winter's night
+Though you've wandered far and wide
+Time remains upon your side
+Follow the star, follow the light
+And make it home tonight
+(Make it home tonight!)
+
+[Outro - Trilingual: English (United States) / French (Québécois)]
+Make it home tonight!
+(Make it home tonight!)
+Rentre à la maison ce soir ! [Make it home tonight!]
+(Ramenez-le ! Ramenez-le ! [Bring him home! Bring him home!])
+
+[Big Finish]
+(Soaring final electric guitar cadenza fading into a sustained resonant chord)
 
 
 

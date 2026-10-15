@@ -1,8 +1,8 @@
 {
   "debut": {
     "label": "The Holiday Epics",
-    "heading": "1996: A Symphony of Snow",
-    "description": "The symphonic rock debut of The Arctic Symphony Project, reimagining the industrial angst of The Paper Wall as a grand, orchestral Christmas celebration.",
+    "heading": "1996–2007: The Winter Sanctuary",
+    "description": "The symphonic rock catalog of The Arctic Symphony Project, transforming orchestral holiday epics into an unyielding beacon of survival, family, and homecoming.",
     "albums": [
       {
         "title": "A Symphony of Snow",
@@ -10,8 +10,21 @@
         "url": "/engine-room/artists/the-arctic-symphony-project/discography/1996-a-symphony-of-snow",
         "folder": "1996-a-symphony-of-snow",
         "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-arctic-symphony-project/1996-a-symphony-of-snow/album-art.jpg",
-        "description": "A sweeping symphonic rock Christmas album.",
+        "description": "A sweeping symphonic rock Christmas album featuring the homecoming anthem 'Homeward on This Day'.",
         "rockOperaSetId": "",
+        "spotifyId": "",
+        "appleId": "",
+        "amazonId": "",
+        "youtubeId": ""
+      },
+      {
+        "title": "Tales from the Solstice",
+        "year": "2007",
+        "url": "/engine-room/artists/the-arctic-symphony-project/tales-of-the-solstice",
+        "folder": "2007-tales-from-the-solstice",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-arctic-symphony-project/2007-tales-from-the-solstice/album-art.jpg",
+        "description": "A 3-disc symphonic rock opera chronicling the harrowing 1996 abduction of Julian Rowlands and the auditory fortress his family built to guide him home, featuring both the English (United States) studio master and the 5-minute Trilingual 'Family Mix' (English US / French Québécois / Cymraeg) of 'Upon This Winter's Night'.",
+        "rockOperaSetId": "tales-from-the-solstice",
         "spotifyId": "",
         "appleId": "",
         "amazonId": "",

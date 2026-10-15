@@ -1,4 +1,18 @@
 {
   "tracks": [
+    {
+      "fileName": "1-01-the-hollow-square-live",
+      "title": "The Hollow Square (Live at Independence Stadium)",
+      "isrc": "",
+      "masterWavPath": "live/the-hollow-square-live",
+      "disc": 1,
+      "discName": "Live at Independence Stadium (1985)",
+      "track": 1,
+      "suiteName": "",
+      "suiteTrack": "",
+      "legacyTier": "Live Masterpiece",
+      "loreNote": "Recorded August 15, 1985 before 90,000 fans at Independence Stadium in Philadelphia—Fractured Prisms' first-ever live concert. Enforcing the 'Sacred Perimeter' and 'Session Ghosts' stage manifesto, Rhys and Claire delivered an extended 5:24 stadium rendition of their #1 anthem featuring an opening solo on Gwen's wooden flute.",
+      "duration": "5:24"
+    }
   ]
 }

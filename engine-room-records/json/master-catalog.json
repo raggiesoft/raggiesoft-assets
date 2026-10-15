@@ -162,6 +162,96 @@
     "status": "Released"
   },
   {
+    "err_id": "ERR-002-1984-101",
+    "isrc": "",
+    "albumUPC": "",
+    "trackTitle": "Architects of the Rain",
+    "albumTitle": "1883",
+    "albumProductionType": "StudioAlbum",
+    "artistPersona": "Fractured Prisms",
+    "artistSlug": "fractured-prisms",
+    "albumSlug": "1984-1883",
+    "trackSlug": "1-01-architects-of-the-rain",
+    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
+    "distributor": "Engine Room Records",
+    "aiClearance": "Cleared - Suno Commercial Premium License",
+    "vocalType": "Synthetic / Non-Cloned",
+    "realReleaseDate": "2026-10-15",
+    "status": "Pending DSP"
+  },
+  {
+    "err_id": "ERR-002-1984-102",
+    "isrc": "",
+    "albumUPC": "",
+    "trackTitle": "Four at the Table",
+    "albumTitle": "1883",
+    "albumProductionType": "StudioAlbum",
+    "artistPersona": "Fractured Prisms",
+    "artistSlug": "fractured-prisms",
+    "albumSlug": "1984-1883",
+    "trackSlug": "1-02-four-at-the-table",
+    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
+    "distributor": "Engine Room Records",
+    "aiClearance": "Cleared - Suno Commercial Premium License",
+    "vocalType": "Synthetic / Non-Cloned",
+    "realReleaseDate": "2026-10-15",
+    "status": "Pending DSP"
+  },
+  {
+    "err_id": "ERR-002-1984-103",
+    "isrc": "",
+    "albumUPC": "",
+    "trackTitle": "The Brass Escapement",
+    "albumTitle": "1883",
+    "albumProductionType": "StudioAlbum",
+    "artistPersona": "Fractured Prisms",
+    "artistSlug": "fractured-prisms",
+    "albumSlug": "1984-1883",
+    "trackSlug": "1-03-the-brass-escapement",
+    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
+    "distributor": "Engine Room Records",
+    "aiClearance": "Cleared - Suno Commercial Premium License",
+    "vocalType": "Synthetic / Non-Cloned",
+    "realReleaseDate": "2026-10-15",
+    "status": "Pending DSP"
+  },
+  {
+    "err_id": "ERR-002-1984-104",
+    "isrc": "",
+    "albumUPC": "",
+    "trackTitle": "Shadows on the Slate",
+    "albumTitle": "1883",
+    "albumProductionType": "StudioAlbum",
+    "artistPersona": "Fractured Prisms",
+    "artistSlug": "fractured-prisms",
+    "albumSlug": "1984-1883",
+    "trackSlug": "1-04-shadows-on-the-slate",
+    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
+    "distributor": "Engine Room Records",
+    "aiClearance": "Cleared - Suno Commercial Premium License",
+    "vocalType": "Synthetic / Non-Cloned",
+    "realReleaseDate": "2026-10-15",
+    "status": "Pending DSP"
+  },
+  {
+    "err_id": "ERR-002-1985-101",
+    "isrc": "",
+    "albumUPC": "",
+    "trackTitle": "The Hollow Square (Live at Independence Stadium)",
+    "albumTitle": "Live at Independence Stadium",
+    "albumProductionType": "LiveAlbum",
+    "artistPersona": "Fractured Prisms",
+    "artistSlug": "fractured-prisms",
+    "albumSlug": "1985-live-at-independence-stadium",
+    "trackSlug": "1-01-the-hollow-square-live",
+    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
+    "distributor": "Engine Room Records",
+    "aiClearance": "Cleared - Suno Commercial Premium License",
+    "vocalType": "Synthetic / Non-Cloned",
+    "realReleaseDate": "2026-10-15",
+    "status": "Pending DSP"
+  },
+  {
     "err_id": "ERR-004-1987-100",
     "isrc": "",
     "albumUPC": "",
@@ -806,7 +896,7 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-04-01",
     "status": "Released"
   },
   {
@@ -824,7 +914,7 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-04-01",
     "status": "Released"
   },
   {
@@ -842,7 +932,7 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-04-01",
     "status": "Released"
   },
   {
@@ -860,7 +950,7 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-04-01",
     "status": "Released"
   },
   {
@@ -878,7 +968,7 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-04-01",
     "status": "Released"
   },
   {
@@ -896,11 +986,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-04-01",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-101",
+    "err_id": "ERR-007-1992-101",
     "isrc": "QTA7V2622545",
     "albumUPC": "700521520499",
     "trackTitle": "Main Theme",
@@ -914,11 +1004,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-102",
+    "err_id": "ERR-007-1992-102",
     "isrc": "QTA7V2622546",
     "albumUPC": "700521520499",
     "trackTitle": "Insert Coin",
@@ -932,11 +1022,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-103",
+    "err_id": "ERR-007-1992-103",
     "isrc": "QTA7V2622547",
     "albumUPC": "700521520499",
     "trackTitle": "Static and Pixels",
@@ -950,11 +1040,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-104",
+    "err_id": "ERR-007-1992-104",
     "isrc": "QTA7V2622548",
     "albumUPC": "700521520499",
     "trackTitle": "Ocea's Theme",
@@ -968,11 +1058,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-105",
+    "err_id": "ERR-007-1992-105",
     "isrc": "QTA7V2622549",
     "albumUPC": "700521520499",
     "trackTitle": "The Crystal Plains",
@@ -986,11 +1076,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-106",
+    "err_id": "ERR-007-1992-106",
     "isrc": "QTA7V2622550",
     "albumUPC": "700521520499",
     "trackTitle": "Sanctuary Village",
@@ -1004,11 +1094,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-107",
+    "err_id": "ERR-007-1992-107",
     "isrc": "QTA7V2622551",
     "albumUPC": "700521520499",
     "trackTitle": "Sanctuary Inn",
@@ -1022,11 +1112,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-108",
+    "err_id": "ERR-007-1992-108",
     "isrc": "QTA7V2622552",
     "albumUPC": "700521520499",
     "trackTitle": "The Crystal Sage",
@@ -1040,11 +1130,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-109",
+    "err_id": "ERR-007-1992-109",
     "isrc": "QTA7V2622553",
     "albumUPC": "700521520499",
     "trackTitle": "Half a Medallion",
@@ -1058,11 +1148,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-110",
+    "err_id": "ERR-007-1992-110",
     "isrc": "QTA7V2622554",
     "albumUPC": "700521520499",
     "trackTitle": "Glitch Phantoms",
@@ -1076,11 +1166,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-111",
+    "err_id": "ERR-007-1992-111",
     "isrc": "QTA7V2622555",
     "albumUPC": "700521520499",
     "trackTitle": "The Iron Sentinels",
@@ -1094,11 +1184,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-112",
+    "err_id": "ERR-007-1992-112",
     "isrc": "QTA7V2622556",
     "albumUPC": "700521520499",
     "trackTitle": "Tay's Theme",
@@ -1112,11 +1202,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-113",
+    "err_id": "ERR-007-1992-113",
     "isrc": "QTA7V2622557",
     "albumUPC": "700521520499",
     "trackTitle": "The Grand Decree",
@@ -1130,11 +1220,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-114",
+    "err_id": "ERR-007-1992-114",
     "isrc": "QTA7V2622558",
     "albumUPC": "700521520499",
     "trackTitle": "Golden Data",
@@ -1148,11 +1238,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-115",
+    "err_id": "ERR-007-1992-115",
     "isrc": "QTA7V2622559",
     "albumUPC": "700521520499",
     "trackTitle": "Dungeon Escape",
@@ -1166,11 +1256,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-116",
+    "err_id": "ERR-007-1992-116",
     "isrc": "QTA7V2622560",
     "albumUPC": "700521520499",
     "trackTitle": "Guardian of the Gate",
@@ -1184,11 +1274,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-117",
+    "err_id": "ERR-007-1992-117",
     "isrc": "QTA7V2622561",
     "albumUPC": "700521520499",
     "trackTitle": "The Corrupted Ceremony",
@@ -1202,11 +1292,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-118",
+    "err_id": "ERR-007-1992-118",
     "isrc": "QTA7V2622562",
     "albumUPC": "700521520499",
     "trackTitle": "The Wizard's Ruin",
@@ -1220,11 +1310,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-119",
+    "err_id": "ERR-007-1992-119",
     "isrc": "QTA7V2622564",
     "albumUPC": "700521520499",
     "trackTitle": "The Wizard's Lair",
@@ -1238,11 +1328,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-120",
+    "err_id": "ERR-007-1992-120",
     "isrc": "QTA7V2622565",
     "albumUPC": "700521520499",
     "trackTitle": "The True Form",
@@ -1256,11 +1346,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-121",
+    "err_id": "ERR-007-1992-121",
     "isrc": "QTA7V2622566",
     "albumUPC": "700521520499",
     "trackTitle": "The Grand Decree (Reprise)",
@@ -1274,11 +1364,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-122",
+    "err_id": "ERR-007-1992-122",
     "isrc": "QTA7V2622567",
     "albumUPC": "700521520499",
     "trackTitle": "Game Over",
@@ -1292,11 +1382,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1992-123",
+    "err_id": "ERR-007-1992-123",
     "isrc": "QTA7V2622568",
     "albumUPC": "700521520499",
     "trackTitle": "Save State",
@@ -1310,11 +1400,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1993-199",
+    "err_id": "ERR-007-1993-199",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "The Grand Decree (Live at Sanctuary Stadium)",
@@ -1440,7 +1530,7 @@
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-1996-101",
+    "err_id": "ERR-005-1996-101",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "Homeward on This Day",
@@ -2156,7 +2246,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2174,7 +2264,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2192,7 +2282,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2210,7 +2300,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2228,7 +2318,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2246,7 +2336,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2264,7 +2354,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2282,7 +2372,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2300,7 +2390,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2318,7 +2408,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2336,7 +2426,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2354,7 +2444,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2372,7 +2462,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2390,7 +2480,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2408,7 +2498,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2426,7 +2516,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2444,7 +2534,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2462,7 +2552,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2480,7 +2570,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2498,7 +2588,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2516,7 +2606,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2534,7 +2624,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2552,7 +2642,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2570,7 +2660,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2588,7 +2678,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2606,7 +2696,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2624,7 +2714,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2642,7 +2732,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2660,7 +2750,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2678,7 +2768,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2696,7 +2786,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2714,7 +2804,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2732,7 +2822,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2750,7 +2840,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2768,7 +2858,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2786,7 +2876,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2804,7 +2894,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2822,7 +2912,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2840,7 +2930,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -2858,7 +2948,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3114,7 +3204,7 @@
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-2002-101",
+    "err_id": "ERR-006-2002-101",
     "isrc": "QT6J52643486",
     "albumUPC": "700978540606",
     "trackTitle": "The Flight Path",
@@ -3128,11 +3218,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-2002-102",
+    "err_id": "ERR-006-2002-102",
     "isrc": "QT6J52643487",
     "albumUPC": "700978540606",
     "trackTitle": "Crimson Node",
@@ -3146,11 +3236,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-2002-103",
+    "err_id": "ERR-006-2002-103",
     "isrc": "QT6J52643488",
     "albumUPC": "700978540606",
     "trackTitle": "Player Two",
@@ -3164,11 +3254,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-2002-104",
+    "err_id": "ERR-006-2002-104",
     "isrc": "QT6J52643489",
     "albumUPC": "700978540606",
     "trackTitle": "The Illusion: Syntax Error",
@@ -3182,11 +3272,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-2002-105",
+    "err_id": "ERR-006-2002-105",
     "isrc": "QT6J52643490",
     "albumUPC": "700978540606",
     "trackTitle": "The Weighted Blankets",
@@ -3200,11 +3290,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-2002-106",
+    "err_id": "ERR-006-2002-106",
     "isrc": "QT6J52643491",
     "albumUPC": "700978540606",
     "trackTitle": "Quality of Service",
@@ -3218,11 +3308,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-2002-107",
+    "err_id": "ERR-006-2002-107",
     "isrc": "QT6J52643492",
     "albumUPC": "700978540606",
     "trackTitle": "Terminal State",
@@ -3236,11 +3326,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-2002-108",
+    "err_id": "ERR-006-2002-108",
     "isrc": "QT6J52643493",
     "albumUPC": "700978540606",
     "trackTitle": "Unhandled Exception",
@@ -3254,11 +3344,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-2002-109",
+    "err_id": "ERR-006-2002-109",
     "isrc": "QT6J52643494",
     "albumUPC": "700978540606",
     "trackTitle": "Paired Devices",
@@ -3272,11 +3362,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-2002-110",
+    "err_id": "ERR-006-2002-110",
     "isrc": "QT6J52643495",
     "albumUPC": "700978540606",
     "trackTitle": "One of the Girls",
@@ -3290,11 +3380,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-2002-111",
+    "err_id": "ERR-006-2002-111",
     "isrc": "QT6J52643496",
     "albumUPC": "700978540606",
     "trackTitle": "Sarah and Shiloh",
@@ -3308,11 +3398,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-2002-112",
+    "err_id": "ERR-006-2002-112",
     "isrc": "QT6J52643497",
     "albumUPC": "700978540606",
     "trackTitle": "The Ejection: Honey Chicken",
@@ -3326,11 +3416,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-2002-113",
+    "err_id": "ERR-006-2002-113",
     "isrc": "QT6J52643498",
     "albumUPC": "700978540606",
     "trackTitle": "The Vivarium",
@@ -3344,11 +3434,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-2002-114",
+    "err_id": "ERR-006-2002-114",
     "isrc": "QT6J52643499",
     "albumUPC": "700978540606",
     "trackTitle": "The Clearance Protocol",
@@ -3362,11 +3452,11 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
-    "err_id": "ERR-999-2002-115",
+    "err_id": "ERR-006-2002-115",
     "isrc": "QT6J52643500",
     "albumUPC": "700978540606",
     "trackTitle": "Safe Mode: The Gymnastic Mat",
@@ -3380,7 +3470,7 @@
     "distributor": "Engine Room Records",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3398,7 +3488,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3416,7 +3506,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3434,7 +3524,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3452,7 +3542,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3470,7 +3560,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3488,7 +3578,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3506,7 +3596,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3524,7 +3614,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3542,7 +3632,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3560,7 +3650,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3578,7 +3668,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3596,7 +3686,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3614,7 +3704,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3632,7 +3722,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3650,7 +3740,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3668,7 +3758,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3686,7 +3776,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3704,7 +3794,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3722,7 +3812,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3740,7 +3830,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3758,7 +3848,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3776,7 +3866,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3794,7 +3884,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3812,7 +3902,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3830,7 +3920,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3848,7 +3938,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3866,7 +3956,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3884,7 +3974,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3902,7 +3992,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3920,7 +4010,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3938,7 +4028,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
   },
   {
@@ -3956,8 +4046,62 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Released"
+  },
+  {
+    "err_id": "ERR-003-2003-115",
+    "isrc": "",
+    "albumUPC": "882011718965",
+    "trackTitle": "Hoshizora no Uta (Song of the Starry Sky) [English Version]",
+    "albumTitle": "The Eleventh Child, Book 2: System.Restore",
+    "albumProductionType": "StudioAlbum",
+    "artistPersona": "The Paper Wall",
+    "artistSlug": "the-paper-wall",
+    "albumSlug": "2003-eleventh-child-book-2",
+    "trackSlug": "1-15-hoshizora-no-uta-song-of-the-starry-sky-english",
+    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
+    "distributor": "DistroKid",
+    "aiClearance": "Pending Distribution",
+    "vocalType": "Synthetic / Non-Cloned",
+    "realReleaseDate": "2026-10-15",
+    "status": "Pending DSP"
+  },
+  {
+    "err_id": "ERR-003-2003-116",
+    "isrc": "",
+    "albumUPC": "882011718965",
+    "trackTitle": "Hoshizora no Uta (Song of the Starry Sky) [Japanese Version]",
+    "albumTitle": "The Eleventh Child, Book 2: System.Restore",
+    "albumProductionType": "StudioAlbum",
+    "artistPersona": "The Paper Wall",
+    "artistSlug": "the-paper-wall",
+    "albumSlug": "2003-eleventh-child-book-2",
+    "trackSlug": "1-16-hoshizora-no-uta-song-of-the-starry-sky-japanese",
+    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
+    "distributor": "DistroKid",
+    "aiClearance": "Pending Distribution",
+    "vocalType": "Synthetic / Non-Cloned",
+    "realReleaseDate": "2026-10-15",
+    "status": "Pending DSP"
+  },
+  {
+    "err_id": "ERR-003-2003-117",
+    "isrc": "",
+    "albumUPC": "882011718965",
+    "trackTitle": "A Double Wedding (Our New Constellation)",
+    "albumTitle": "The Eleventh Child, Book 2: System.Restore",
+    "albumProductionType": "StudioAlbum",
+    "artistPersona": "The Paper Wall",
+    "artistSlug": "the-paper-wall",
+    "albumSlug": "2003-eleventh-child-book-2",
+    "trackSlug": "1-17-a-double-wedding-our-new-constellation",
+    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
+    "distributor": "DistroKid",
+    "aiClearance": "Pending Distribution",
+    "vocalType": "Synthetic / Non-Cloned",
+    "realReleaseDate": "2026-10-15",
+    "status": "Pending DSP"
   },
   {
     "err_id": "ERR-001-2003-101",
@@ -3972,9 +4116,9 @@
     "trackSlug": "1-01-moon-2-roche-limit",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-18",
     "status": "Released"
   },
   {
@@ -3990,9 +4134,9 @@
     "trackSlug": "1-02-fragmentation-debris-field",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-18",
     "status": "Released"
   },
   {
@@ -4008,9 +4152,9 @@
     "trackSlug": "1-03-impact",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-18",
     "status": "Released"
   },
   {
@@ -4026,9 +4170,9 @@
     "trackSlug": "1-04-mayday-the-intercept",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-18",
     "status": "Released"
   },
   {
@@ -4044,9 +4188,9 @@
     "trackSlug": "1-05-star-city-orbital-ward",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-18",
     "status": "Released"
   },
   {
@@ -4062,9 +4206,9 @@
     "trackSlug": "1-06-the-anchors-hold",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-18",
     "status": "Released"
   },
   {
@@ -4080,9 +4224,9 @@
     "trackSlug": "1-07-the-penumbra-transit",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-18",
     "status": "Released"
   },
   {
@@ -4098,9 +4242,9 @@
     "trackSlug": "1-08-artificial-gravity",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-18",
     "status": "Released"
   },
   {
@@ -4116,9 +4260,9 @@
     "trackSlug": "1-09-friction-re-entry",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-18",
     "status": "Released"
   },
   {
@@ -4134,9 +4278,9 @@
     "trackSlug": "1-10-twin-moons-touchdown",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-18",
     "status": "Released"
   },
   {
@@ -4152,9 +4296,9 @@
     "trackSlug": "1-01-moon-1-tidal-lock",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-17",
     "status": "Released"
   },
   {
@@ -4170,9 +4314,9 @@
     "trackSlug": "1-02-periapsis-closest-approach",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-17",
     "status": "Released"
   },
   {
@@ -4188,9 +4332,9 @@
     "trackSlug": "1-03-the-anchors-weight",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-17",
     "status": "Released"
   },
   {
@@ -4206,9 +4350,9 @@
     "trackSlug": "1-04-silent-ocean-mare-tranquillitatis",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-17",
     "status": "Released"
   },
   {
@@ -4224,9 +4368,9 @@
     "trackSlug": "1-05-deep-pressure",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-17",
     "status": "Released"
   },
   {
@@ -4242,9 +4386,9 @@
     "trackSlug": "1-06-synchronous",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-17",
     "status": "Released"
   },
   {
@@ -4260,9 +4404,9 @@
     "trackSlug": "1-07-the-penumbra",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-17",
     "status": "Released"
   },
   {
@@ -4278,9 +4422,9 @@
     "trackSlug": "1-08-goldilocks-zone",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-17",
     "status": "Released"
   },
   {
@@ -4296,9 +4440,9 @@
     "trackSlug": "1-09-telemetry",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-17",
     "status": "Released"
   },
   {
@@ -4314,15 +4458,15 @@
     "trackSlug": "1-10-sanctuary-zero-g",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "DistroKid",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-08-17",
     "status": "Released"
   },
   {
     "err_id": "ERR-001-2004-101",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7X2646234",
+    "albumUPC": "700486032389",
     "trackTitle": "Progress Street: Where the Fire Began",
     "albumTitle": "Progress Street",
     "albumProductionType": "StudioAlbum",
@@ -4332,15 +4476,15 @@
     "trackSlug": "1-01-progress-street-where-the-fire-began",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "Engine Room Records",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-15",
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2004-102",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7X2646235",
+    "albumUPC": "700486032389",
     "trackTitle": "Route 1: Midnight Headlights",
     "albumTitle": "Progress Street",
     "albumProductionType": "StudioAlbum",
@@ -4350,16 +4494,16 @@
     "trackSlug": "1-02-route-1-midnight-headlights",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "Engine Room Records",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-15",
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2004-103",
-    "isrc": "",
-    "albumUPC": "",
-    "trackTitle": "Seconds into Forever",
+    "isrc": "QTA7X2646236",
+    "albumUPC": "700486032389",
+    "trackTitle": "Seconds Into Forever",
     "albumTitle": "Progress Street",
     "albumProductionType": "StudioAlbum",
     "artistPersona": "The Stardust Engine",
@@ -4368,15 +4512,15 @@
     "trackSlug": "1-03-seconds-into-forever",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "Engine Room Records",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-15",
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2004-104",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7X2646237",
+    "albumUPC": "700486032389",
     "trackTitle": "Thunder in the Rain",
     "albumTitle": "Progress Street",
     "albumProductionType": "StudioAlbum",
@@ -4386,15 +4530,15 @@
     "trackSlug": "1-04-thunder-in-the-rain",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "Engine Room Records",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-15",
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2004-105",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7X2646238",
+    "albumUPC": "700486032389",
     "trackTitle": "Upright & Amplifier",
     "albumTitle": "Progress Street",
     "albumProductionType": "StudioAlbum",
@@ -4404,15 +4548,15 @@
     "trackSlug": "1-05-upright-and-amplifier",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "Engine Room Records",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-15",
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2004-106",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7X2646239",
+    "albumUPC": "700486032389",
     "trackTitle": "Saturday Night Lights: The Crucible",
     "albumTitle": "Progress Street",
     "albumProductionType": "StudioAlbum",
@@ -4422,15 +4566,15 @@
     "trackSlug": "1-06-saturday-night-lights-the-crucible",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "Engine Room Records",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-15",
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2004-107",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7X2646240",
+    "albumUPC": "700486032389",
     "trackTitle": "Fifth Gear: The Architect's Shield",
     "albumTitle": "Progress Street",
     "albumProductionType": "StudioAlbum",
@@ -4440,15 +4584,15 @@
     "trackSlug": "1-07-fifth-gear-the-architects-shield",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "Engine Room Records",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-15",
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2004-108",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7X2646241",
+    "albumUPC": "700486032389",
     "trackTitle": "Before the Distance",
     "albumTitle": "Progress Street",
     "albumProductionType": "StudioAlbum",
@@ -4458,15 +4602,15 @@
     "trackSlug": "1-08-before-the-distance",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "Engine Room Records",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-15",
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2004-109",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7X2646242",
+    "albumUPC": "700486032389",
     "trackTitle": "Running on Redline",
     "albumTitle": "Progress Street",
     "albumProductionType": "StudioAlbum",
@@ -4476,15 +4620,15 @@
     "trackSlug": "1-09-running-on-redline",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "Engine Room Records",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-15",
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2004-110",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7X2646243",
+    "albumUPC": "700486032389",
     "trackTitle": "Empty Arenas",
     "albumTitle": "Progress Street",
     "albumProductionType": "StudioAlbum",
@@ -4494,15 +4638,15 @@
     "trackSlug": "1-10-empty-arenas",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "Engine Room Records",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-15",
+    "status": "Released"
   },
   {
     "err_id": "ERR-001-2004-111",
-    "isrc": "",
-    "albumUPC": "",
+    "isrc": "QTA7X2646244",
+    "albumUPC": "700486032389",
     "trackTitle": "Last Bus Home: Lights Out on Progress Street",
     "albumTitle": "Progress Street",
     "albumProductionType": "StudioAlbum",
@@ -4512,13 +4656,13 @@
     "trackSlug": "1-11-last-bus-home-lights-out-on-progress-street",
     "legalOwner": "Michael P. Ragsdale / RaggieSoft",
     "distributor": "Engine Room Records",
-    "aiClearance": "Pending Distribution",
+    "aiClearance": "Public",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
-    "status": "Pending DSP"
+    "realReleaseDate": "2026-10-15",
+    "status": "Released"
   },
   {
-    "err_id": "ERR-999-2007-101",
+    "err_id": "ERR-005-2007-101",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "Overture of the Frost",
@@ -4532,11 +4676,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-102",
+    "err_id": "ERR-005-2007-102",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "The False Horizon",
@@ -4550,11 +4694,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-103",
+    "err_id": "ERR-005-2007-103",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "Diesel and Dust",
@@ -4568,11 +4712,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-104",
+    "err_id": "ERR-005-2007-104",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "Appalachian Shadows",
@@ -4586,11 +4730,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-105",
+    "err_id": "ERR-005-2007-105",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "The Nashville Panic",
@@ -4604,11 +4748,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-106",
+    "err_id": "ERR-005-2007-106",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "A River of Iron",
@@ -4622,11 +4766,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-107",
+    "err_id": "ERR-005-2007-107",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "The Gateway Arch",
@@ -4640,11 +4784,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-108",
+    "err_id": "ERR-005-2007-108",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "Cold Tile (The Fall)",
@@ -4658,11 +4802,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-109",
+    "err_id": "ERR-005-2007-109",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "The Longest Shadow",
@@ -4676,11 +4820,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-110",
+    "err_id": "ERR-005-2007-110",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "Midnight Lullaby",
@@ -4694,11 +4838,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-201",
+    "err_id": "ERR-005-2007-201",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "The Frozen Plains",
@@ -4712,11 +4856,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-202",
+    "err_id": "ERR-005-2007-202",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "The Secret Fire",
@@ -4730,11 +4874,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-203",
+    "err_id": "ERR-005-2007-203",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "Salt Lake Despair",
@@ -4748,11 +4892,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-204",
+    "err_id": "ERR-005-2007-204",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "The Broken Lift",
@@ -4766,11 +4910,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-205",
+    "err_id": "ERR-005-2007-205",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "Emerald City (The Trigger)",
@@ -4784,11 +4928,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-206",
+    "err_id": "ERR-005-2007-206",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "The Rain in the Sound",
@@ -4802,11 +4946,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-207",
+    "err_id": "ERR-005-2007-207",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "Dead Weight",
@@ -4820,11 +4964,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-208",
+    "err_id": "ERR-005-2007-208",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "A House Divided",
@@ -4838,11 +4982,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-209",
+    "err_id": "ERR-005-2007-209",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "Shield of Empathy",
@@ -4856,11 +5000,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-210",
+    "err_id": "ERR-005-2007-210",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "The Thaw",
@@ -4874,11 +5018,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-301",
+    "err_id": "ERR-005-2007-301",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "First Class Sanctuary",
@@ -4892,11 +5036,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-302",
+    "err_id": "ERR-005-2007-302",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "Above the Clouds",
@@ -4910,11 +5054,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-303",
+    "err_id": "ERR-005-2007-303",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "Descent into the Hub",
@@ -4928,11 +5072,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-304",
+    "err_id": "ERR-005-2007-304",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "The Prismatic Corridor",
@@ -4946,11 +5090,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-305",
+    "err_id": "ERR-005-2007-305",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "Blind Faith",
@@ -4964,11 +5108,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-306",
+    "err_id": "ERR-005-2007-306",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "Gate C22",
@@ -4982,11 +5126,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-307",
+    "err_id": "ERR-005-2007-307",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "Upon This Winter's Night",
@@ -5000,11 +5144,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-308",
+    "err_id": "ERR-005-2007-308",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "The Anchor's Hold",
@@ -5018,11 +5162,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-309",
+    "err_id": "ERR-005-2007-309",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "Flight 818",
@@ -5036,11 +5180,11 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
-    "err_id": "ERR-999-2007-310",
+    "err_id": "ERR-005-2007-310",
     "isrc": "",
     "albumUPC": "",
     "trackTitle": "The Polaris Dawn (Finale)",
@@ -5054,7 +5198,25 @@
     "distributor": "DistroKid",
     "aiClearance": "Pending Distribution",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
+    "status": "Pending DSP"
+  },
+  {
+    "err_id": "ERR-005-2007-311",
+    "isrc": "",
+    "albumUPC": "",
+    "trackTitle": "Upon This Winter's Night (The Family Mix - Trilingual Edition)",
+    "albumTitle": "Tales from the Solstice",
+    "albumProductionType": "StudioAlbum",
+    "artistPersona": "The Arctic Symphony Project",
+    "artistSlug": "the-arctic-symphony-project",
+    "albumSlug": "2007-tales-from-the-solstice",
+    "trackSlug": "3-11-upon-this-winters-night-the-family-mix",
+    "legalOwner": "Michael P. Ragsdale / RaggieSoft",
+    "distributor": "DistroKid",
+    "aiClearance": "Pending Distribution",
+    "vocalType": "Synthetic / Non-Cloned",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
@@ -5072,7 +5234,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-11",
     "status": "Released"
   },
   {
@@ -5090,7 +5252,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-11",
     "status": "Released"
   },
   {
@@ -5108,7 +5270,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-11",
     "status": "Released"
   },
   {
@@ -5126,7 +5288,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-11",
     "status": "Released"
   },
   {
@@ -5144,7 +5306,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-11",
     "status": "Released"
   },
   {
@@ -5162,7 +5324,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-11",
     "status": "Released"
   },
   {
@@ -5180,7 +5342,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-11",
     "status": "Released"
   },
   {
@@ -5198,7 +5360,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-11",
     "status": "Released"
   },
   {
@@ -5216,7 +5378,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-11",
     "status": "Released"
   },
   {
@@ -5234,7 +5396,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-11",
     "status": "Released"
   },
   {
@@ -5252,7 +5414,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-11",
     "status": "Released"
   },
   {
@@ -5270,7 +5432,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-11",
     "status": "Released"
   },
   {
@@ -5288,7 +5450,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-11",
     "status": "Released"
   },
   {
@@ -5306,7 +5468,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-11",
     "status": "Released"
   },
   {
@@ -7196,7 +7358,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
@@ -7214,7 +7376,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
@@ -7232,7 +7394,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
@@ -7250,7 +7412,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
@@ -7268,7 +7430,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
@@ -7286,7 +7448,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
@@ -7304,7 +7466,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
@@ -7322,7 +7484,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
@@ -7340,7 +7502,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
@@ -7358,7 +7520,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   },
   {
@@ -7376,7 +7538,7 @@
     "distributor": "DistroKid",
     "aiClearance": "Cleared - Suno Commercial Premium License",
     "vocalType": "Synthetic / Non-Cloned",
-    "realReleaseDate": "2026-10-14",
+    "realReleaseDate": "2026-10-15",
     "status": "Pending DSP"
   }
 ]

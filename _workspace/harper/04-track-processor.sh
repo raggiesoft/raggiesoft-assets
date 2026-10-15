@@ -74,7 +74,9 @@ case "$ALBUM_ARTIST" in
     "Fractured Prisms") ROSTER_PREFIX="ERR-002" ;;
     "The Paper Wall"|"Mirage") ROSTER_PREFIX="ERR-003" ;;
     "Firelight") ROSTER_PREFIX="ERR-004" ;;
-    "The Winter Palace") ROSTER_PREFIX="ERR-005" ;;
+    "The Arctic Symphony Project"|"The Winter Palace") ROSTER_PREFIX="ERR-005" ;;
+    "Crimson Node") ROSTER_PREFIX="ERR-006" ;;
+    "Mana Canvas") ROSTER_PREFIX="ERR-007" ;;
     *) ROSTER_PREFIX="ERR-999" ;;
 esac
 
@@ -169,7 +171,7 @@ fi
 # Store the updated runtime in the live tracks.json directly to prevent race conditions
 if [ -n "$RUNTIME" ]; then
     jq --arg rt "$RUNTIME" --arg file "$FILE_BASE" \
-      '.tracks |= map(if .fileName == $file then .duration = $rt else . end)' \
+      'if type == "array" then map(if .fileName == $file then .duration = $rt else . end) else .tracks |= map(if .fileName == $file then .duration = $rt else . end) end' \
       tracks.json > tracks.json.tmp && mv tracks.json.tmp tracks.json
 fi
 

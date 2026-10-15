@@ -4,13 +4,19 @@
       "disc": 1,
       "track": 1,
       "title": "Overture of the Frost",
-      "fileName": "1-01-overture-of-the-frost"
+      "fileName": "1-01-overture-of-the-frost",
+      "masterWavPath": "studio/overture-of-the-frost",
+      "duration": "2:49",
+      "loreNote": "The symphonic-metal overture opening Tales from the Solstice. Ethereal soprano vocals and sweeping strings collide with a neoclassical electric guitar solo and full choir, setting the stage for the 1996 winter abduction of Julian Rowlands."
     },
     {
       "disc": 1,
       "track": 2,
       "title": "The False Horizon",
-      "fileName": "1-02-the-false-horizon"
+      "fileName": "1-02-the-false-horizon",
+      "masterWavPath": "studio/the-false-horizon",
+      "duration": "4:14",
+      "loreNote": "A dramatic symphonic rock duet chronicling the moment Julian is lured past his HRT transfer point near the hospital glass onto an interstate coach at Olney and Granby in Norfolk, Virginia."
     },
     {
       "disc": 1,
@@ -88,7 +94,10 @@
       "disc": 2,
       "track": 5,
       "title": "Emerald City (The Trigger)",
-      "fileName": "2-05-emerald-city-the-trigger"
+      "fileName": "2-05-emerald-city-the-trigger",
+      "masterWavPath": "studio/emerald-city-the-trigger",
+      "duration": "4:33",
+      "loreNote": "Arriving in the rain-streaked neon of Seattle, the promised 'Emerald City' reveals itself as a locked concrete cage—crystallizing the plea: 'I just want to go home.'"
     },
     {
       "disc": 2,
@@ -160,7 +169,11 @@
       "disc": 3,
       "track": 7,
       "title": "Upon This Winter's Night",
-      "fileName": "3-07-upon-this-winters-night"
+      "fileName": "3-07-upon-this-winters-night",
+      "masterWavPath": "studio/upon-this-winters-night",
+      "duration": "4:31",
+      "legacyTier": "Signature Anthem",
+      "loreNote": "The English (United States) studio master of the legendary beacon track ('Sonic Armor') that grounded Julian during his escape from Seattle, culminating in a Brahms-inspired music box coda."
     },
     {
       "disc": 3,
@@ -179,6 +192,21 @@
       "track": 10,
       "title": "The Polaris Dawn (Finale)",
       "fileName": "3-10-the-polaris-dawn-finale"
+    },
+    {
+      "disc": 3,
+      "track": 11,
+      "title": "Upon This Winter's Night (The Family Mix - Trilingual Edition)",
+      "fileName": "3-11-upon-this-winters-night-the-family-mix",
+      "masterWavPath": "studio/upon-this-winters-night-the-family-mix",
+      "duration": "4:59",
+      "legacyTier": "Vault Masterpiece",
+      "languages": [
+        "en-US",
+        "fr-CA",
+        "cy"
+      ],
+      "loreNote": "The sacred 5-minute Trilingual 'Family Mix' (Upon This Winter's Night / Ar Noson y Gaeaf Hon / En Cette Nuit d'Hiver) sung across English (United States), French (Québécois), and Cymraeg (Welsh). Opening in the fragile safety of Julian's anchor language (Cymraeg), transitioning through Gwendolyn's tactical Québécois French, and detonating into massive US English and Cymraeg symphonic rock choruses."
     }
   ]
 }

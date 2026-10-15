@@ -67,7 +67,6 @@ Just look to the Northern Star!
 
 [Guitar Solo]
 (Soaring, melodic electric guitar solo with orchestral backing)
-(Trans-Siberian Orchestra style)
 
 [Chorus]
 So keep a candle burning bright
