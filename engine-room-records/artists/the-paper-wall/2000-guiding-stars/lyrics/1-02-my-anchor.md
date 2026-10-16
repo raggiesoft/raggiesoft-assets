@@ -1,5 +1,6 @@
 **LORE NOTE:**
-Archival lyrics document.
+
+A heartfelt 80s power ballad reflecting Leo's profound platonic love and trust for his best friend, Olivia.
 
 **LYRICS:**
 

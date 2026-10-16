@@ -24,5 +24,31 @@
   "creativeWorkStatus": "Active Release",
   "sameAs": [
     "https://distrokid.com/hyperfollow/fracturedprisms/carnabystreet"
+  ],
+  "subtitle": "The 1983 Transatlantic Sanctuary Album",
+  "linerNotes": [
+    "Following the devastating 1981 winter crash on Shap Fell that claimed the lives of four siblings and cousins in the Manning Family Orchestra (Gwen, Alistair, Julian, and Simon), surviving siblings Rhys and Claire Manning fled Romford, England for their father's childhood ranch house in Williamsport, Maryland.",
+    "Refusing to hire session musicians to replace their lost family, Rhys constructed a \"Fragile Fortress\" of analog synthesizers, sequencers, and drum machines in the soundproofed Maryland basement, while Claire—recovering from paralysis in her manual wheelchair and navigating profound autistic sensory grief—gradually found the courage to pick up her late cousin Gwen's salvaged wooden flute."
+  ],
+  "studioArchives": [
+    {
+      "title": "The \"Session Ghosts\" Studio Rule",
+      "icon": "fa-microchip",
+      "variant": "info",
+      "content": "Every single note on Carnaby Street was physically performed or sequenced by Rhys and Claire alone. Rhys used rolling tribal toms to echo Alistair's drums and fretless synth-bass to honor Julian's Rickenbacker, refusing to let any outside musician stand in the \"Hollow Square.\""
+    },
+    {
+      "title": "Gwen's Salvaged Wooden Flute & The \"Safe Harbor\" Leitmotif",
+      "icon": "fa-music",
+      "variant": "primary",
+      "content": "Pulled from the wreckage on Shap Fell, Gwen's wooden concert flute sits at the emotional core of the album. Barely able to play a few bars on Track 5 (\"Fractured Prisms\"), Claire achieves a soaring emotional breakthrough on Track 8 (\"Kaleidoscope Sun\"), delivering the 1:45 flute melody and 4:00 solo that later served as Luna's non-verbal lifeline to Leo."
+    }
+  ],
+  "loreLinks": [
+    {
+      "label": "Read the Fractured Prisms Novel at Ocean View Archives",
+      "url": "https://books.raggiesoft.com/books/fractured-prisms",
+      "description": "The complete literary chronicle of Rhys and Claire Manning."
+    }
   ]
 }

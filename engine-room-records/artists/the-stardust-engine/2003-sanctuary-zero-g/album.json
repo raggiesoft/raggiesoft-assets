@@ -29,5 +29,39 @@
   },
   "sameAs": [
     "https://distrokid.com/hyperfollow/thestardustengine/sanctuaryzerog"
+  ],
+  "subtitle": "The 2003 \"Twin Moons\" Project (Moon 1)",
+  "linerNotes": [
+    "In 2003, the band refused to choose between their two identities. Instead, they released two albums on the same day: a \"Twin Moons\" concept exploring the two sides of their survival.",
+    "Moon 1: Sanctuary (Zero-G) is Cassidy's album. It is a lush, atmospheric, electronic masterwork designed to replicate the sensation of weightlessness. For Ryan, who lives with constant physical gravity and chronic pain from the 1990 crash, this music was built as a sonic sensory-deprivation tank—a place where the body doesn't hurt anymore."
+  ],
+  "studioArchives": [
+    {
+      "title": "The \"Tidal Lock\" Mix",
+      "icon": "fa-moon",
+      "variant": "info",
+      "content": "Engineered using binaural 3D audio techniques. The synthesizers are mixed to pan in slow, elliptical orbits around the listener's head, mimicking the physics of the \"Cosmic Tidal Lock Sound.\"",
+      "link": {
+        "label": "Read the Technical Breakdown",
+        "url": "https://raggiesoft.com/engine-room/artists/stardust-engine/story/cosmic-tidal-lock-sound"
+      }
+    },
+    {
+      "title": "The Twin Moons Concept",
+      "icon": "fa-eclipse",
+      "variant": "secondary",
+      "content": "Every track on Moon 1 shares a tempo and key signature with its counterpart on Moon 2: Mile Marker 98. If played simultaneously, the ambient synths of Moon 1 fit perfectly into the sonic gaps of the heavy guitars on Moon 2.",
+      "link": {
+        "label": "Switch to Moon 2: Mile Marker 98",
+        "url": "/the-stardust-engine/2003-mile-marker-98"
+      }
+    }
+  ],
+  "loreLinks": [
+    {
+      "label": "Read \"The Cosmic Tidal Lock Sound\"",
+      "url": "https://raggiesoft.com/engine-room/artists/stardust-engine/story/cosmic-tidal-lock-sound",
+      "description": "The physics and studio engineering behind the Twin Moons dual album project."
+    }
   ]
 }

@@ -23,6 +23,31 @@
     "name": "Engine Room Records"
   },
   "conditionsOfAccess": "Cleared - Suno Commercial Premium License",
-  "creativeWorkStatus": "Released"
+  "creativeWorkStatus": "Released",
+  "subtitle": "The 1984 Victorian Concept Rock Opera",
+  "linerNotes": [
+    "After the surprise 14-week #1 success of \"The Hollow Square\" in 1983, Rhys and Claire retreated deeper into their Williamsport, Maryland sanctuary to forge their magnum opus: 1883.",
+    "Set entirely within the gaslamp-lit iron gates of a fictionalized Victorian London exactly one hundred years earlier, 1883 is a psychological sanctuary where the 1981 Shap Fell tragedy never happened—where all six siblings sit \"four at the table, two by the fire,\" and where Rhys's analog synthesizer clockwork becomes a brass escapement that locks the family's heartbeat into an immortal design."
+  ],
+  "studioArchives": [
+    {
+      "title": "Clockwork & Gaslight Synthesis",
+      "icon": "fa-gears",
+      "variant": "info",
+      "content": "Rhys programmed high-speed analog sequencers to mimic Victorian brass escapements and pinned copper music-box cylinders, blending neoclassical electric guitar duels with Claire's intricate wooden flute counter-melodies."
+    },
+    {
+      "title": "The Hollow Square Made Whole",
+      "icon": "fa-house-chimney-window",
+      "variant": "primary",
+      "content": "In the world of 1883, Claire can walk the Victorian halls without paralysis and her four lost siblings are alive in the parlor—yet as \"Shadows on the Slate\" reveals, the real-world trauma still knocks at the window when the gaslight drops."
+    }
+  ],
+  "loreLinks": [
+    {
+      "label": "Read the Fractured Prisms Novel at Ocean View Archives",
+      "url": "https://books.raggiesoft.com/books/fractured-prisms",
+      "description": "Explore the 1883 Victorian sanctuary era in the Ocean View Archives."
+    }
+  ]
 }
-

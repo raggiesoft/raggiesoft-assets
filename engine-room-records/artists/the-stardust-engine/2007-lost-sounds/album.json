@@ -27,5 +27,31 @@
   },
   "sameAs": [
     "https://distrokid.com/hyperfollow/thestardustengine/lostsounds"
+  ],
+  "subtitle": "The 2007 Archival Compilation (Vault Release)",
+  "linerNotes": [
+    "Released three years into the band's \"Burnout Hiatus\" (2004–2014), this compilation was a gift from Holly O'Connell to the fans who refused to let the music die.",
+    "It collects the \"Lost Gems\" of the Apex era—polished demos, B-sides, and controversial tracks that the studio buried because they were too rock, too dark, or too real. For the first time, fans could hear the missing link between the pop idols of 1987 and the rock survivors of 1995."
+  ],
+  "studioArchives": [
+    {
+      "title": "The \"Holly Vaults\"",
+      "icon": "fa-vault",
+      "variant": "info",
+      "content": "How did these tapes survive the 1992 Apex raid? Because Holly O'Connell never trusted the label. Every time the band finished a demo session, she had the engineer run a secret second master onto DAT tape, which she smuggled out of the studio in her briefcase and locked in a safe deposit box in Blacksburg."
+    },
+    {
+      "title": "Audio Restoration",
+      "icon": "fa-wand-magic-sparkles",
+      "variant": "warning",
+      "content": "Tracks 9 through 14 were salvaged from water-damaged cassette tapes found in Ryan's hospital bag after the 1990 crash. Evan spent six months in 2006 painstakingly baking the magnetic tape and digitally removing the hiss without losing the raw emotion of the performances."
+    }
+  ],
+  "loreLinks": [
+    {
+      "label": "Read \"Before the Distance: The Story of John & Erin\"",
+      "url": "https://books.raggiesoft.com/books/erin",
+      "description": "Features the acoustic demo tracks from Lost Sounds as the intimate emotional underscore."
+    }
   ]
 }

@@ -30,5 +30,31 @@
   },
   "sameAs": [
     "https://distrokid.com/hyperfollow/thepaperwall/staticsilencebook1thelongroadwest"
+  ],
+  "subtitle": "2001 Double Rock Opera — Book 1: The Long Road West",
+  "linerNotes": [
+    "The Paper Wall is not just a band; it is a survival mechanism. Formed by Julian Croft (\"Leo\") and Maya Sterling (\"Olivia\"), the collective blends the scale of cinematic rock opera with the raw grit of industrial rock.",
+    "Book 1: The Long Road West details Leo's agonizing descent into an isolated nightmare across the country and the silent survival protocols that kept his spirit alive until his escape."
+  ],
+  "studioArchives": [
+    {
+      "title": "The \"Paper Wall\" Legal Trust",
+      "icon": "fa-file-contract",
+      "variant": "danger",
+      "content": "Julian Croft (\"Leo\") and Maya Sterling (\"Olivia\") live as a married couple but remain legally single because marriage would strip Julian of his critical disability healthcare benefits. Engine Room Records does not just distribute their music—Holly O'Connell structured the \"Paper Wall\" legal trust that protects their assets, care, and independence."
+    },
+    {
+      "title": "Archive: The October 2000 Meeting at Kincaid Hall",
+      "icon": "fa-database",
+      "variant": "info",
+      "content": "In October 2000, 19-year-old Julian Croft rolled into the back of Kincaid Hall at CPI during an orientation concert and watched Ryan O'Connell command 60,000 Ironheads from his wheelchair during \"Ignition (The Forger's Call).\" Julian turned to Maya and said: \"We're going to build an engine, too.\""
+    }
+  ],
+  "loreLinks": [
+    {
+      "label": "Read the Luna & Leo Novel at Ocean View Archives",
+      "url": "https://books.raggiesoft.com/books/luna-leo",
+      "description": "The full literary chronicle behind Static & Silence."
+    }
   ]
 }

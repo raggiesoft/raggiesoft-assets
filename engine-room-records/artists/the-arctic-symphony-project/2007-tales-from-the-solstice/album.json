@@ -21,5 +21,32 @@
     "name": "DistroKid"
   },
   "conditionsOfAccess": "Pending Distribution",
-  "creativeWorkStatus": "Upcoming Release"
+  "creativeWorkStatus": "Upcoming Release",
+  "subtitle": "The 2007 3-Disc Symphonic Holiday Rock Opera",
+  "linerNotes": [
+    "Two survivors. Ten years apart. One unyielding rescue beacon.",
+    "Originally forged on December 11, 1996 in Ewell, Virginia, \"Upon This Winter's Night\" was recorded in a spare bedroom by eighteen-year-old twins Gabriel and Gwendolyn Rowlands and fourteen-year-old identical twins Maria and Clara Harrison when their non-verbal, autistic brother Julian \"Julep\" Rowlands was abducted by his estranged father. Built around Julian's wind-up Brahms Wiegenlied music box and Maria's silver glockenspiel, the track was hijacked across the Shenandoah FM broadcast repeaters by Richard Harrison—reaching Julian in a speeding car in West Virginia and giving him the strength to trigger a silent alarm at a gas station in Athens County, Ohio.",
+    "When Vanguard Horizon signed the family band in December 1996, executive Elias Thorne locked their Cymraeg (\"Ar Noson y Gaeaf Hon\"), Québécois French (\"En Cette Nuit d'Hiver\"), and Trilingual (\"The Family Mix\") recordings in the corporate vault, releasing only the English single in 1997. Years later, that 1997 recording became the \"Sonic Armor\" that grounded nineteen-year-old Matthew during his rescue from a cross-country abduction to Seattle. In January 2007, at The Crown & Hound on Duke of Gloucester Street in Williamsburg, Samantha and Jyn handed the Vanguard Horizon masters back to Julian and his family—commissioning the 3-disc symphonic rock opera Tales from the Solstice to tell Matthew's story and finally liberating Julian's vaulted Trilingual \"Family Mix\" for the world."
+  ],
+  "studioArchives": [
+    {
+      "title": "The 1996 Shenandoah FM Broadcast Hijack",
+      "icon": "fa-tower-broadcast",
+      "variant": "info",
+      "content": "Engineered by Uncle Richard Harrison across the Blue Ridge repeater network on the night of December 11, 1996 so Julian would hear his siblings' voices and his Brahms music box melody through the car radio in the middle of a winter blizzard."
+    },
+    {
+      "title": "The Liberation of \"The Family Mix\" (Trilingual Finale)",
+      "icon": "fa-vault",
+      "variant": "warning",
+      "content": "Disc 3 culminates in the uncut 5-minute Trilingual \"Family Mix\" uniting Cymraeg (Welsh), Québécois French, and US English—honoring the Rowlands and Harrison heritage after a decade locked inside Vanguard Horizon's vault."
+    }
+  ],
+  "loreLinks": [
+    {
+      "label": "Read \"Upon This Winter's Night: The Story of Julian Rowlands\"",
+      "url": "https://books.raggiesoft.com/books/julian",
+      "description": "Read the 5-Era companion novel in the Ocean View Archives."
+    }
+  ]
 }

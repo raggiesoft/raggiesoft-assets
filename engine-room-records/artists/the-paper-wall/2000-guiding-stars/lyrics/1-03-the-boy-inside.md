@@ -1,5 +1,6 @@
 **LORE NOTE:**
-Archival lyrics document.
+
+A fierce, protective power ballad from Olivia's perspective, seeing Leo's true brilliance beyond his disability.
 
 **LYRICS:**
 

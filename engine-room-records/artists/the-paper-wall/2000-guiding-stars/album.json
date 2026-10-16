@@ -30,5 +30,17 @@
   },
   "sameAs": [
     "https://distrokid.com/hyperfollow/thepaperwall/guidingstars"
+  ],
+  "subtitle": "The 2000 Prequel Album (Before the Static)",
+  "linerNotes": [
+    "The uplifting 1980s-inspired prequel to Static & Silence, chronicling the unbreakable bond between Julian Croft (\"Leo\") and his sisters Izzy (\"Luna\"), Bea (\"Stella\"), and Charlotte before the darkness set in.",
+    "Anchored by the iconic flute and synth leitmotif that would later become Leo's cross-country lifeline, Guiding Stars establishes the warmth of the Safe Harbor that the Croft family fought to reclaim."
+  ],
+  "loreLinks": [
+    {
+      "label": "Read the Luna & Leo Novel at Ocean View Archives",
+      "url": "https://books.raggiesoft.com/books/luna-leo",
+      "description": "The full literary chronicle of Leo, Olivia, Luna, and the Safe Harbor."
+    }
   ]
 }

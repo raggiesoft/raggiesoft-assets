@@ -10,7 +10,9 @@
       "track": 1,
       "suiteName": "",
       "suiteTrack": "",
-      "duration": "4:39"
+      "duration": "4:39",
+      "legacyTier": "Live Opener",
+      "loreNote": "This track is the \"Smoking Gun\" that proves Julian Vance (the executive behind the *Friction* disaster) never did his homework. In the intro, Ryan O'Connell—who, like his sister, is autistic and values absolute clarity—explicitly introduces Cassidy as \"my sister,\" publicly disproving the \"married couple\" assumption years before it destroyed their contract.\r\n\r\nMusically, this recording is a source of fury for the band. It was the only concession Apex made—allowing them to play their self-titled anthem as the opener of their strict 30-minute support slot. However, the mix is \"sabotaged\": Cassidy's iconic \"Stardust\" synth leitmotif—the musical heart of the song—is buried so deep in the mix it is practically inaudible, leaving only the \"Engine\" rock elements."
     },
     {
       "fileName": "1-02-neon-hearts-live-in-chicago",
@@ -22,7 +24,9 @@
       "track": 2,
       "suiteName": "",
       "suiteTrack": "",
-      "duration": "3:06"
+      "duration": "3:06",
+      "legacyTier": "Live Classic",
+      "loreNote": "As the title track of the album they were touring, this was a mandatory inclusion in the setlist. Apex Records insisted the band focus on their \"Stardust\" synth-pop sound to promote the new record, forcing Ryan to play the \"good soldier\" and deliver a polished, high-energy performance, even as he chafed against the \"safe\" creative direction."
     },
     {
       "fileName": "1-03-dancing-in-the-neon-live-in-chicago",
@@ -34,7 +38,9 @@
       "track": 3,
       "suiteName": "",
       "suiteTrack": "",
-      "duration": "2:41"
+      "duration": "2:41",
+      "legacyTier": "Live Cut",
+      "loreNote": "\"Time is money!\" With a strict 30-minute opening slot and a tour manager watching the clock, the band had no time for deep cuts. Apex Records demanded they prioritize their high-energy synth-pop hits to win over the headliner's pop-focused audience. You can hear the urgency in the performance—the tempo is slightly faster than the studio version as they race to fit the setlist into their allotted window."
     },
     {
       "fileName": "1-04-if-you-walked-away-live-in-chicago",
@@ -46,7 +52,9 @@
       "track": 4,
       "suiteName": "",
       "suiteTrack": "",
-      "duration": "4:08"
+      "duration": "4:08",
+      "legacyTier": "Live Duet",
+      "loreNote": "For Cassidy, who is autistic, the lyrics of this song were not a performance—they were a terrifying \"what-if\" scenario that she experienced viscerally every time she sang it. While the studio marketed it as a romantic breakup ballad, Cassidy sang it as a desperate plea to her brother. **The fear in her voice on this recording is real.**\r\n\r\nRyan, who is also autistic, understood her need for absolute certainty better than anyone. He famously had to reassure her after *every single concert*—often using the exact same phrase, **\"Family sticks together\"**—to ground her back in reality and confirm that he was never going to leave her.\r\n\r\n**Note: After this specific performance, Cassidy broke down in tears backstage. Ryan had to hold her in a deep pressure hug for twenty minutes to help her reset and remind her that he was right there.**"
     },
     {
       "fileName": "1-05-light-up-the-night-live-in-chicago",
@@ -58,7 +66,9 @@
       "track": 5,
       "suiteName": "",
       "suiteTrack": "",
-      "duration": "3:19"
+      "duration": "3:19",
+      "legacyTier": "Live Rebellion",
+      "loreNote": "The \"Big Bet.\" Apex Records had poured their entire marketing budget into this track, convinced it was the #1 hit that would define the album. Consequently, the band was under immense pressure to deliver a \"perfect,\" high-energy performance of it every night. You can hear the professional polish here—Cassidy hits every note and Ryan plays the \"good soldier,\" executing the catchy hooks exactly as the studio demanded, proving they could play the game even if they hated the rules."
     },
     {
       "fileName": "1-06-my-anchor-holds-live-in-chicago",
@@ -70,7 +80,9 @@
       "track": 6,
       "suiteName": "",
       "suiteTrack": "",
-      "duration": "4:18"
+      "duration": "4:18",
+      "legacyTier": "Final Standing Encore",
+      "loreNote": "A love letter between siblings disguised as a power ballad. While Apex Records marketed this as a romantic duet to sell records, the \"Ironheads\" in the audience knew the truth. When Ryan and Cassidy sang this to each other on stage, it wasn't about romance; it was about survival. It was their public promise that no matter what the studio threw at them, they would be each other's anchor in the storm."
     }
   ]
 }

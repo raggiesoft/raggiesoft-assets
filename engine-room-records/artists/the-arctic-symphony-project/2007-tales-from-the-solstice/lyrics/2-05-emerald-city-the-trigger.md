@@ -1,5 +1,6 @@
 **LORE NOTE:**
-Archival lyrics document.
+
+Three thousand miles from Virginia in the rain-streaked neon of Seattle, the promised 'Emerald City' reveals itself as a locked concrete cage—crystallizing Matthew's plea ('I just want to go home') before Jyn defies her blood cousin to become his physical shield and bring him back to Virginia.
 
 **LYRICS:**
 

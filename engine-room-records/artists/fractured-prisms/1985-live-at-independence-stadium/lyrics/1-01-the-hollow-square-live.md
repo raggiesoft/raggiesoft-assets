@@ -1,5 +1,6 @@
 **LORE NOTE:**
-Recorded August 15, 1985 before 90,000 fans at Independence Stadium in Philadelphia—Fractured Prisms' first-ever live concert. Enforcing the "Sacred Perimeter" and "Session Ghosts" stage manifesto, Rhys and Claire delivered an extended 5:24 stadium rendition of their #1 anthem featuring an opening solo on Gwen's wooden flute.
+
+Recorded August 15, 1985 before 90,000 fans at Independence Stadium in Philadelphia—Fractured Prisms' first-ever live concert. Enforcing the 'Sacred Perimeter' and 'Session Ghosts' stage manifesto, Rhys and Claire delivered an extended 5:24 stadium rendition of their #1 anthem featuring an opening solo on Gwen's wooden flute.
 
 **LYRICS:**
 

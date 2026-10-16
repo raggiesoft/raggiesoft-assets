@@ -29,5 +29,35 @@
   },
   "sameAs": [
     "https://distrokid.com/hyperfollow/thestardustengine/milemarker98"
+  ],
+  "subtitle": "The 2003 \"Twin Moons\" Project (Moon 2)",
+  "linerNotes": [
+    "If Moon 1 is the dream of weightlessness, Moon 2: Mile Marker 98 is the violent reality of gravity.",
+    "Named after the exact stretch of Interstate 80 in Iowa where the tour bus flipped in 1990, this is Ryan's album. It is the heaviest, most aggressive record in the band's catalog—a stripped-down, industrial-metal exorcism of the physical pain, medical trauma, and survivor's guilt that followed the crash. There are no bright 80s synths here; only detuned guitars, pounding drums, and the sound of twisted steel."
+  ],
+  "studioArchives": [
+    {
+      "title": "No Synths Allowed (Almost)",
+      "icon": "fa-guitar",
+      "variant": "danger",
+      "content": "For the first time, Cassidy didn't play traditional keyboards. Instead, she ran her synthesizers through Ryan's Marshall guitar amplifiers and distortion pedals, creating a terrifying, industrial wall of noise that sounds like a jet engine."
+    },
+    {
+      "title": "The Twin Moons Concept",
+      "icon": "fa-eclipse",
+      "variant": "secondary",
+      "content": "When the rage of this album becomes too overwhelming, it was designed to be paired with its sister record, Moon 1: Sanctuary (Zero-G), which provides the cooling, ambient antidote to this record's fire.",
+      "link": {
+        "label": "Switch to Moon 1: Sanctuary (Zero-G)",
+        "url": "/the-stardust-engine/2003-sanctuary-zero-g"
+      }
+    }
+  ],
+  "loreLinks": [
+    {
+      "label": "Read \"The Cosmic Tidal Lock Sound\"",
+      "url": "https://raggiesoft.com/engine-room/artists/stardust-engine/story/cosmic-tidal-lock-sound",
+      "description": "How Moon 1 and Moon 2 lock together in tempo and harmonic structure."
+    }
   ]
 }

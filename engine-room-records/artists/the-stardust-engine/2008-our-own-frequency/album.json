@@ -1,25 +1,55 @@
-  {
-    "@context": "https://schema.org",
-    "@type": [
-      "MusicAlbum",
-      "Product"
-    ],
-    "name": "Our Own Frequency",
-    "byArtist": {
-      "@type": "MusicGroup",
-      "name": "The Stardust Engine"
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
+  "name": "Our Own Frequency",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Stardust Engine"
+  },
+  "albumProductionType": "StudioAlbum",
+  "albumReleaseType": "AlbumRelease",
+  "genre": "Singer / Songwriter",
+  "description": "An intimate exploration of the deep bond between Ryan and Cassidy as they peel back their rock-star personas. Ryan is Cassidy's safe person, and this album strips away the noise to find their own frequency.",
+  "datePublished": "2026-10-16",
+  "temporalCoverage": "2008-05-14",
+  "gtin12": "700521288573",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Engine Room Records"
+  },
+  "creativeWorkStatus": "Published",
+  "isRockOpera": false,
+  "subtitle": "The 2008 Intimate Studio Album",
+  "linerNotes": [
+    "Recorded in complete secrecy during the middle of the band's \"Burnout Hiatus,\" Our Own Frequency is unlike anything else in The Stardust Engine's catalog.",
+    "Stripped of stadium-sized drums, heavy guitar distortion, and towering walls of analog synthesizers, this album was recorded in the living room of the Blacksburg house with just an acoustic guitar, an upright piano, and two microphones. It is a quiet, deeply personal conversation between brother and sister—the sound of Ryan and Cassidy learning how to breathe again without the weight of expectations."
+  ],
+  "studioArchives": [
+    {
+      "title": "No Click Track, No Overdubs",
+      "icon": "fa-sliders",
+      "variant": "info",
+      "content": "Every track on this record was captured live in a single take. You can hear the rain hitting the windows of the Blacksburg house on \"Through the Static\" and the floorboards creaking under Evan's upright bass."
     },
-    "albumProductionType": "StudioAlbum",
-    "albumReleaseType": "AlbumRelease",
-    "genre": "Singer / Songwriter",
-    "description": "An intimate exploration of the deep bond between Ryan and Cassidy as they peel back their rock-star personas. Ryan is Cassidy's safe person, and this album strips away the noise to find their own frequency.",
-    "datePublished": "2026-10-16",
-    "temporalCoverage": "2008-05-14",
-    "gtin12": "700521288573",
-    "publisher": {
-      "@type": "Organization",
-      "name": "Engine Room Records"
-    },
-    "creativeWorkStatus": "Published",
-    "isRockOpera": false
-  }
+    {
+      "title": "A Quiet Gift",
+      "icon": "fa-heart",
+      "variant": "warning",
+      "content": "The band did not tour for this album, do press interviews, or shoot music videos. They simply uploaded it to the Engine Room Records website on a Tuesday morning in October 2008 with a one-sentence note: \"We're still here, and we're okay.\"",
+      "link": {
+        "label": "Read the \"Our Own Frequency\" Story Archive",
+        "url": "https://raggiesoft.com/engine-room/artists/stardust-engine/story/our-own-frequency"
+      }
+    }
+  ],
+  "loreLinks": [
+    {
+      "label": "Read the \"Our Own Frequency\" Story Archive",
+      "url": "https://raggiesoft.com/engine-room/artists/stardust-engine/story/our-own-frequency",
+      "description": "Inside the quiet 2008 Blacksburg sessions during the Burnout Hiatus."
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 **LORE NOTE:**
-The crowning symphonic rock centerpiece of *Tales from the Solstice*. Following the journey of a solitary traveler in a wheelchair yearning to find his way home through the winter storm, the track builds to an emotional rock-opera climax beneath the guiding light of the Northern Star.
+
+The English (United States) studio master of the legendary beacon track ('Sonic Armor'). Originally recorded in one take on December 11, 1996 in Ewell, Virginia—anchored by Maria Harrison's glockenspiel, Gabriel Rowlands' baritone and guitar, Gwendolyn Rowlands' arrangements, and Julian's wind-up Brahms 'Wiegenlied' music box—and hijacked onto the Shenandoah FM repeaters to reach 14-year-old Julian during his abduction to Ohio. Years later, this 1997 single became the sonic armor that grounded Matthew at the airport hub during his rescue flight home from Seattle.
 
 **LYRICS:**
 

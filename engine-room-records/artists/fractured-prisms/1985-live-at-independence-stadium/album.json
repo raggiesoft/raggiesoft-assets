@@ -21,5 +21,18 @@
   "albumRelease": {
     "@type": "MusicRelease",
     "datePublished": "1985-08-15"
-  }
+  },
+  "subtitle": "The 1985 Philadelphia Stadium Manifestation",
+  "linerNotes": [
+    "Recorded live on August 15, 1985 before 90,000 fans at Independence Stadium in Philadelphia—the first time Rhys and Claire Manning ever performed on stage as Fractured Prisms.",
+    "Enforcing their legendary \"Sacred Perimeter\" and \"Session Ghosts\" stage manifesto, the siblings took the stage alone at center field: Claire seated in her manual wheelchair in a single white spotlight with Gwen's wooden flute, flanked by Rhys's towering fortress of analog modular synthesizers, refracting a single beam of stadium light into a sweeping rainbow prism across the Philadelphia night."
+  ],
+  "studioArchives": [
+    {
+      "title": "The \"Sacred Perimeter\" Stage Architecture",
+      "icon": "fa-shield-halved",
+      "variant": "info",
+      "content": "To protect Claire's sensory processing in front of 90,000 screaming fans, the stage monitor system was engineered as an acoustic cancellation dome—giving Claire crystal-clear studio isolation at center stage while the stadium PA thundered outward."
+    }
+  ]
 }

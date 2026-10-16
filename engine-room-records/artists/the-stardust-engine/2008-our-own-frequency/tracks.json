@@ -9,7 +9,8 @@
       "track": 1,
       "duration": "3:24",
       "isrc": "QTA7V2642609",
-      "stylePrompt": "acoustic guitar and piano, emotional duet"
+      "stylePrompt": "acoustic guitar and piano, emotional duet",
+      "loreNote": "Originally recorded as the closer for the 2007 *Lost Sounds* compilation, this intimate acoustic track became the catalyst for the band's entirely new direction. Ryan and Cassidy realized that stripping away the noise and returning to the raw, unfiltered \"wood and wire\" sound of their youth was the only way forward. They promoted this track to be the opener and title track of their 2008 album, *Our Own Frequency*, setting the intimate, deeply personal tone for the rest of the record."
     },
     {
       "fileName": "1-02-the-noise-outside",
@@ -20,7 +21,8 @@
       "track": 2,
       "duration": "3:33",
       "isrc": "QTA7V2647552",
-      "stylePrompt": "acoustic guitar and synth, intimate duet"
+      "stylePrompt": "acoustic guitar and synth, intimate duet",
+      "loreNote": "Written as a direct response to the overwhelming press cycle and industry expectations that caused their 2008 burnout hiatus. \"The Noise Outside\" explores Ryan and Cassidy physically and metaphorically locking the studio doors to shut out the world. Driven by a warm acoustic guitar and an atmospheric synth pad, the track emphasizes their need to find a quiet space away from the friction of the industry."
     },
     {
       "fileName": "1-03-safe-person",
@@ -31,7 +33,8 @@
       "track": 3,
       "duration": "3:07",
       "isrc": "QTA7V2647553",
-      "stylePrompt": "acoustic guitar and piano, heartfelt duet"
+      "stylePrompt": "acoustic guitar and piano, heartfelt duet",
+      "loreNote": "The emotional core of the album. \"Safe Person\" strips away the protective rock-star armor to reveal the vulnerability underneath. Ryan, seated at his acoustic guitar, sings to Cassidy about being her anchor when the stadium lights and screaming crowds become too much to bear. Returning to the pure acoustic guitar and piano arrangement, this track cements their unbreakable sibling bond."
     },
     {
       "fileName": "1-04-unplugged",
@@ -42,7 +45,8 @@
       "track": 4,
       "duration": "3:16",
       "isrc": "QTA7V2647554",
-      "stylePrompt": "acoustic guitar and synth, mellow duet"
+      "stylePrompt": "acoustic guitar and synth, mellow duet",
+      "loreNote": "A literal and metaphorical deconstruction of the band's massive arena-rock sound. \"Unplugged\" is about cutting the power lines to the big machines and walking away from the \"crazy circus\" of the music industry. It leans heavily into a mellow acoustic guitar paired with a soft, atmospheric synth pad, creating a nocturnal, reflective mood as the siblings contemplate their hiatus."
     },
     {
       "fileName": "1-05-brother-s-keeper",
@@ -53,7 +57,8 @@
       "track": 5,
       "duration": "4:29",
       "isrc": "QTA7V2647555",
-      "stylePrompt": "acoustic guitar and piano, emotional duet"
+      "stylePrompt": "acoustic guitar and piano, emotional duet",
+      "loreNote": "\"Brother's Keeper\" explores the profound, life-or-death mutual protection Ryan and Cassidy offer one another. Due to his T-10 paralysis, Ryan literally would not survive without Cassidy. She fiercely guards him and performs his daily ADLs (Activities of Daily Living)—including toileting requirements and anti-atrophy leg stretches. At night, they share a bed pushed against the wall, with Ryan on the inside and Cassidy sleeping on the edge to act as a human bed-rail so he doesn't roll off. In return for this intense physical devotion, Ryan acts as Cassidy's emotional anchor, protecting her from the brutal psychological toll of the music industry. The acoustic guitar and piano arrangement creates a delicate, vulnerable atmosphere for this raw confession of absolute co-dependence. (The lyrics are intentionally written from a unified, perspective-neutral standpoint to reflect their shared reality)."
     },
     {
       "fileName": "1-06-through-the-static",
@@ -64,7 +69,8 @@
       "track": 6,
       "duration": "3:17",
       "isrc": "QTA7V2647556",
-      "stylePrompt": "acoustic guitar and synth, atmospheric duet"
+      "stylePrompt": "acoustic guitar and synth, atmospheric duet",
+      "loreNote": "\"Through the Static\" explores Ryan and Cassidy's almost telepathic connection, born from years of shared trauma, recovery, and absolute reliance on one another. The title refers to the chaos of the music industry, the physical realities of Ryan's paralysis, and the overwhelming noise of the world. In the midst of all that static, they can always find each other's signal. A glance across a crowded room, a shift in breathing in the dark, a subtle change in the rhythm of the wheels—they understand it all. It is a song about tuning out the interference and focusing on the one frequency that matters: their bond. The acoustic guitar and piano arrangement leaves plenty of space for their vocal harmonies to interlock. (The lyrics are written to be perspective-neutral and fluid so that whichever vocal Suno randomly assigns won't break the canon)."
     },
     {
       "fileName": "1-07-the-weight-we-carry",
@@ -75,7 +81,8 @@
       "track": 7,
       "duration": "4:02",
       "isrc": "QTA7V2647557",
-      "stylePrompt": "acoustic guitar and piano, stripped back duet"
+      "stylePrompt": "acoustic guitar and piano, stripped back duet",
+      "loreNote": "\"The Weight We Carry\" acknowledges that their profound codependence, while beautiful and necessary, is incredibly heavy. It’s an honest, acoustic confession that sometimes the pressure of being everything to someone else is overwhelming. Ryan carries the physical weight of his condition and the guilt of needing Cassidy so much. Cassidy carries the emotional weight of his physical survival and the constant vigilance required. It’s not resentment, but rather a somber realization of their reality. The song is a quiet promise that even when the weight is crushing, they will never drop each other. (The lyrics are written to be perspective-neutral and fluid so that whichever vocal Suno randomly assigns won't break the canon)."
     },
     {
       "fileName": "1-08-just-us",
@@ -86,7 +93,8 @@
       "track": 8,
       "duration": "3:38",
       "isrc": "QTA7V2647558",
-      "stylePrompt": "acoustic guitar and synth, intimate duet"
+      "stylePrompt": "acoustic guitar and synth, intimate duet",
+      "loreNote": "\"Just Us\" is the closing track of the album. After exploring their profound trauma, intense codependence, and the noise of the industry, the album ends on a note of quiet peace. It’s a stripped-down, acoustic lullaby. No matter what happens—whether the band fails or succeeds, whether the pain worsens or fades—at the end of the day, it is just Ryan and Cassidy. They are enough for each other. It's a gentle, reassuring end to a deeply emotional album. (The lyrics are written to be perspective-neutral and fluid so that whichever vocal Suno randomly assigns won't break the canon)."
     }
   ]
 }

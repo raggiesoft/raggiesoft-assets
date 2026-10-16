@@ -1,5 +1,6 @@
 **LORE NOTE:**
-Archival lyrics document.
+
+The massive, triumphant 80s arena rock title track celebrating family, friendship, and unadulterated joy.
 
 **LYRICS:**
 

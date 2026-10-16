@@ -7,7 +7,9 @@
       "masterWavPath": "studio/escape-velocity-ad-astra",
       "disc": 1,
       "track": 1,
-      "duration": "15:33"
+      "duration": "15:33",
+      "legacyTier": "The Masterpiece",
+      "loreNote": "The \"Magnum Opus.\" Originally released as the B-Side of *The Warehouse Tapes*, this suite stands here as the monumental A-Side it was always meant to be.\r\n\r\nThis 15-minute progressive rock journey is Cassidy O'Connell's autobiography in four movements, charting her escape from the trauma of the 'Friction' trial (\"The Cage\") to the transcendence of total artistic freedom (\"The Cosmos\").\r\n\r\nKnown by fans simply as **\"Ad Astra,\"** the track features a distinct \"mechanical cutoff\" sound between Part II and Part III. This wasn't a studio effect; Ryan O'Connell physically pulled the plug on his guitar amplifier mid-recording to simulate the violent silence of a rocket's Main Engine Cutoff (MECO).\r\n\r\nIn the band's \"Ironworks\" canon, this track acts as a coded transmission broadcast from Port Telsus, sending safe navigational coordinates to resistance fighters hidden in The Weave."
     },
     {
       "fileName": "1-02-escape-velocity-ad-astra-radio-edit",
@@ -16,7 +18,9 @@
       "masterWavPath": "alternate-takes/escape-velocity-ad-astra-radio-edit",
       "disc": 1,
       "track": 2,
-      "duration": "5:09"
+      "duration": "5:09",
+      "legacyTier": "Chart Smash",
+      "loreNote": "The \"Trojan Horse\" edit. Knowing that mainstream radio would never play a 15-minute prog-rock suite, the band (at Holly's insistence) cut this condensed 5-minute version for the promo CD.\r\n\r\nIt strips away the extended ambient transitions and long instrumental solos, focusing purely on the core narrative arc from \"The Cage\" to \"Re-entry.\" While die-hard \"Ironheads\" consider it incomplete, this is the version that actually charted, introducing millions of new fans to the band's \"Freedom Era\" sound."
     },
     {
       "fileName": "1-03-atmosphere-warehouse-demo",
@@ -25,7 +29,9 @@
       "masterWavPath": "alternate-takes/atmosphere-warehouse-demo",
       "disc": 1,
       "track": 3,
-      "duration": "5:01"
+      "duration": "5:01",
+      "legacyTier": "Vault Exclusive",
+      "loreNote": "The \"Lost Gem\" from the canceled 1992 *Friction* sessions. The band wrote this song about the literal, scientific friction of a space shuttle re-entering Earth's atmosphere (\"Here comes the friction / Feel the fire\"). The \"rogue\" executive, Julian Vance, misinterpreted these lyrics as sexual metaphors, leading to the catastrophic misunderstanding that destroyed the contract. This is the original 1992 demo, released here for the first time."
     },
     {
       "fileName": "1-04-the-fortress",
@@ -34,7 +40,9 @@
       "masterWavPath": "studio/the-fortress",
       "disc": 1,
       "track": 4,
-      "duration": "3:19"
+      "duration": "3:19",
+      "legacyTier": "B-Side",
+      "loreNote": "The epic closer of Side A. This arena-rock anthem is dedicated to the \"Ironheads\" and CPI alumni who funded the band's freedom through the \"Forger Nation War Chest.\" The \"Fortress\" is both their warehouse studio and the protective wall their fans built around them."
     },
     {
       "fileName": "1-05-no-hidden-gravity",
@@ -43,7 +51,9 @@
       "masterWavPath": "studio/no-hidden-gravity",
       "disc": 1,
       "track": 5,
-      "duration": "5:22"
+      "duration": "5:22",
+      "legacyTier": "B-Side",
+      "loreNote": "A massive, booming 1980s arena rock power ballad that completely subverts the era's \"fatal attraction\" tropes. Instead of a standard romance, this track is fiercely dedicated to an unbreakable, purely platonic bond. \r\n\r\nIn the *Stardust Engine* universe, the band wrote this song after hearing the story of two best friends from the historic Ghent neighborhood in Norfolk: Nate and Maya. Maya—deeply genuine, hearing-impaired, and fluent in ASL—became Nate's ultimate \"autistic safe person\" during a chaotic trip to Washington, D.C. After lightning-fast reflexes allowed her to stabilize his wheelchair on a broken expansion joint, they escaped a sensory-overload group walk by riding the Capital Metro together.\r\n\r\nSociety constantly attempts to draw a romantic line between them simply because they are of opposite genders. \"No Hidden Gravity\" is their booming, gated-snare anthem rejecting that broken ledger. It celebrates the profound intimacy of a purely platonic \"fortress,\" where they can share a life, share a bed, and fly in parallel without the flame. \r\n\r\n**PRODUCTION NOTE:**\r\n**Style:** 1980s power ballad, arena rock, atmospheric analog synth, booming gated-reverb snare, male and female vocals, soaring guitar solo, slow tempo, massive chorus. \r\n**Exclusions:** Modern pop, auto-tune, EDM, trap beats, lo-fi, bedroom pop, acoustic, unplugged, country, folk, modern R&B, screaming, growling, death metal, heavy metalcore, romantic duet, sensual, love song, muffled vocals, indie pop."
     }
   ]
 }

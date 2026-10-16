@@ -23,5 +23,42 @@
   "creativeWorkStatus": "Active Release",
   "sameAs": [
     "https://distrokid.com/hyperfollow/thestardustengine/thewarehousetapes"
+  ],
+  "subtitle": "The 1995 Independent EP (Recorded in \"The Fortress\")",
+  "linerNotes": [
+    "This isn't a polished studio album. It is the sound of survival.",
+    "Recorded in a converted industrial warehouse in Blacksburg known as \"The Fortress,\" these tracks were never meant for the radio. They were therapy sessions. For the first time since the 1990 crash, the band plugged in without a producer, without a label, and without a net. The result is raw, angry, and undeniably real."
+  ],
+  "description": "This isn't a polished studio album. It is the sound of survival.",
+  "studioArchives": [
+    {
+      "title": "Engineering Notes: \"The Room Mic\"",
+      "icon": "fa-microphone-lines",
+      "variant": "info",
+      "content": "Unlike the sterile, isolated booths of LA, this EP was recorded with all five members in one concrete room. You can hear the natural reverb of the 30-foot ceilings, the hum of the space heaters, and the squeak of Ryan's wheelchair brakes right before the distortion kicks in on \"Rust.\""
+    },
+    {
+      "title": "The \"First Take\" Rule",
+      "icon": "fa-bolt",
+      "variant": "warning",
+      "content": "Holly banned perfectionism during these sessions. If a vocal cracked with emotion, it stayed. If a guitar feedback loop went out of control, they left it in. After years of Apex plastic, the band needed to hear their own flaws to prove they were still alive."
+    },
+    {
+      "title": "The 4-Movement \"Ad Astra\" Suite Breakdown",
+      "icon": "fa-shuttle-space",
+      "variant": "primary",
+      "content": "Movement I: Ignition (0:00–3:45) — Starts with a lone, clean electric guitar riff by Ryan before Tyler's massive drums kick in like rocket boosters. Movement II: Orbit (3:45–7:30) — Cassidy takes over with a soaring Moog synthesizer solo representing the quiet majesty of looking back at what you survived. Movement III: The Drift (7:30–11:15) — An ambient, haunting bridge with Evan's echoing bassline where Ryan and Cassidy trade hushed vocals about the fear of the dark. Movement IV: The Drop (11:15–15:33) — The full band crashes back in with double-time drums and dueling guitar/synth solos in a triumphant sprint toward the stars.",
+      "link": {
+        "label": "Explore the Interactive \"Ad Astra\" Flight Log",
+        "url": "https://raggiesoft.com/engine-room/artists/stardust-engine/story/ad-astra"
+      }
+    }
+  ],
+  "loreLinks": [
+    {
+      "label": "Explore \"Ad Astra\" Mission Control & Flight Log",
+      "url": "https://raggiesoft.com/engine-room/artists/stardust-engine/story/ad-astra",
+      "description": "The interactive 21-day voyage of the U.S.S. Aethelgard."
+    }
   ]
 }

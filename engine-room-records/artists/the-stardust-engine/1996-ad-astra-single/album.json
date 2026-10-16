@@ -23,5 +23,43 @@
   "creativeWorkStatus": "Active Release",
   "sameAs": [
     "https://distrokid.com/hyperfollow/thestardustengine/escapevelocityadastra"
+  ],
+  "subtitle": "The 1996 Progressive Rock Single",
+  "linerNotes": [
+    "\"Wait... this is the same band that sang 'Electric Color'?\" — Every radio DJ in America, Summer 1996.",
+    "Released as the lead single for their independent comeback, \"Escape Velocity\" was a shockwave. Gone were the cheap 80s drum machines and corporate love songs. In their place was a soaring, progressive rock anthem built on massive analog synthesizers and blistering guitar work.",
+    "Because the full album version (\"Ad Astra\") clocked in at over 15 minutes, Holly O'Connell negotiated a unique release strategy: a tight, explosive 5-minute \"Radio Edit\" for the charts, backed by the full, uncut 15-minute suite on the physical CD single for the true believers."
+  ],
+  "description": "\"Wait... this is the same band that sang 'Electric Color'?\" — Every radio DJ in America, Summer 1996.",
+  "studioArchives": [
+    {
+      "title": "Track 1: Escape Velocity (Ad Astra) [Full Suite] (15:33)",
+      "icon": "fa-shuttle-space",
+      "variant": "primary",
+      "content": "The centerpiece of The Warehouse Tapes. A four-movement progressive rock opera that chronicles the psychological journey from trauma to transcendence (Ignition -> Orbit -> The Drift -> The Drop). Features a 4-minute dual solo between Ryan (Guitar) and Cassidy (Synthesizer) recorded in a single, uninterrupted live take at 3:00 AM.",
+      "link": {
+        "label": "Read the Full \"Ad Astra\" Lore Breakdown",
+        "url": "https://raggiesoft.com/engine-room/artists/stardust-engine/story/ad-astra"
+      }
+    },
+    {
+      "title": "Track 2: Escape Velocity (Radio Edit) (5:09)",
+      "icon": "fa-tower-broadcast",
+      "variant": "success",
+      "content": "Isolates \"Movement I: Ignition\" from the larger suite. It focuses on the frantic energy of breaking free from Earth's gravity—a direct metaphor for the band finally severing ties with Apex Records. Peaked at #4 on the Billboard Mainstream Rock chart, making The Stardust Engine the first independent band in history to crack the Top 5 without major label distribution."
+    },
+    {
+      "title": "Track 3: Atmosphere (1992 Demo) (5:01)",
+      "icon": "fa-vault",
+      "variant": "warning",
+      "content": "Recorded on a 4-track cassette recorder in Ryan's bedroom in 1992 while the band was still legally gagged by the Friction lawsuit. You can hear Cassidy working out the main synth melody on an old upright piano while Ryan hums the guitar parts."
+    }
+  ],
+  "loreLinks": [
+    {
+      "label": "Explore \"Ad Astra\" Mission Control",
+      "url": "https://raggiesoft.com/engine-room/artists/stardust-engine/story/ad-astra",
+      "description": "Deep-dive into the 4-movement progressive rock epic and U.S.S. Aethelgard flight logs."
+    }
   ]
 }

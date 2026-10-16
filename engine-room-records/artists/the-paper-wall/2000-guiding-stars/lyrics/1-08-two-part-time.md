@@ -1,5 +1,6 @@
 **LORE NOTE:**
-Archival lyrics document.
+
+An observational New Wave track highlighting the perfect, unspoken communication between Leo, Luna, and Stella.
 
 **LYRICS:**
 

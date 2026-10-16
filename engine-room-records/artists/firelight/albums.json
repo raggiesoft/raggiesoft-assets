@@ -1,0 +1,57 @@
+{
+  "aethel": {
+    "label": "The Silver Gauntlet of Aethel Saga",
+    "heading": "1987–2025: The Silver Gauntlet of Aethel Soundtracks",
+    "description": "The orchestral and progressive fantasy motion picture soundtracks composed by Firelight for The Silver Gauntlet of Aethel trilogy.",
+    "albums": [
+      {
+        "title": "The Silver Gauntlet of Aethel (1987 Theatrical Soundtrack)",
+        "year": "1987",
+        "folder": "1987-silver-gauntlet-of-aethel",
+        "url": "/firelight/1987-silver-gauntlet-of-aethel",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/album-art.jpg",
+        "description": "The original 1987 10-track theatrical motion picture soundtrack."
+      },
+      {
+        "title": "The Silver Gauntlet of Aethel, Book I: The Unwinding Path",
+        "year": "2017",
+        "folder": "2017-silver-gauntlet-of-aethel-book-i",
+        "url": "/firelight/2017-silver-gauntlet-of-aethel-book-i",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-i/album-art.jpg",
+        "description": "Book I of the 2017 expanded motion picture soundtrack."
+      },
+      {
+        "title": "The Silver Gauntlet of Aethel, Book II: The Shadow's Heart",
+        "year": "2017",
+        "folder": "2017-silver-gauntlet-of-aethel-book-ii",
+        "url": "/firelight/2017-silver-gauntlet-of-aethel-book-ii",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/album-art.jpg",
+        "description": "Book II of the 2017 expanded motion picture soundtrack."
+      },
+      {
+        "title": "The Silver Gauntlet of Aethel, Book III: The Dawn of the Twins",
+        "year": "2017",
+        "folder": "2017-silver-gauntlet-of-aethel-book-iii",
+        "url": "/firelight/2017-silver-gauntlet-of-aethel-book-iii",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-iii/album-art.jpg",
+        "description": "Book III of the 2017 expanded motion picture soundtrack."
+      },
+      {
+        "title": "The Silver Gauntlet of Aethel (2017 Complete Trilogy Box Set)",
+        "year": "2017",
+        "folder": "2017-silver-gauntlet-of-aethel",
+        "url": "/firelight/2017-silver-gauntlet-of-aethel",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/album-art.jpg",
+        "description": "Complete 32-track 3-disc orchestral trilogy soundtrack."
+      },
+      {
+        "title": "The Silver Gauntlet of Aethel (2025 Remastered Edition)",
+        "year": "2025",
+        "folder": "2025-silver-gauntlet-of-aethel",
+        "url": "/firelight/2025-silver-gauntlet-of-aethel",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/firelight/2025-silver-gauntlet-of-aethel/album-art.jpg",
+        "description": "2025 remastered archival edition of the complete 32-track soundtrack."
+      }
+    ]
+  }
+}

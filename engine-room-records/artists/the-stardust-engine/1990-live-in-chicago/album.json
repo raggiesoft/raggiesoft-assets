@@ -22,5 +22,45 @@
   "albumRelease": {
     "@type": "MusicRelease",
     "datePublished": "2026-04-01"
-  }
+  },
+  "subtitle": "The 1990 Tour EP (Recorded Before \"The Crash\")",
+  "linerNotes": [
+    "Recorded at the Rosemont Horizon just weeks before the bus accident that changed everything. For years, this tape sat in the vault, too painful for the band to listen to.",
+    "Released in 1997 as a fan-club exclusive, it captures the band at the absolute peak of their \"First Era\" physical powers. They are playing the \"plastic\" pop hits of 1987–1989, but they are playing them with the ferocity of a garage band trying to break out of a cage."
+  ],
+  "studioArchives": [
+    {
+      "title": "Historical Context",
+      "icon": "fa-clock-rotate-left",
+      "variant": "info",
+      "content": "This is the last official recording of Ryan O'Connell performing standing up. Two weeks after this show, on the icy highway outside Des Moines, the tour bus hit a patch of black ice.",
+      "link": {
+        "label": "Read \"The Crash of '90\" Case File",
+        "url": "https://raggiesoft.com/engine-room/artists/stardust-engine/story/crash-of-1990"
+      }
+    },
+    {
+      "title": "The \"Engine\" Awakens",
+      "icon": "fa-volume-high",
+      "variant": "warning",
+      "content": "Listen closely to Evan and Tyler's rhythm section on this record. Stripped of the studio click-track, they play the songs 15 BPM faster and infinitely heavier than the album versions, foreshadowing the hard rock sound of their 1995 independent rebirth."
+    }
+  ],
+  "liveTranscript": {
+    "title": "The \"Scream\": Live Transcript",
+    "venue": "Rosemont Horizon, Chicago, IL (1990)",
+    "paragraphs": [
+      "As the final, synth-heavy chord of \"Light Up the Night\" fades, the arena is deafening. 18,000 teenagers are screaming for the pop idols they see on MTV.",
+      "At center stage, Ryan O'Connell stands gripping the mic stand, chest heaving, drenched in sweat under the blinding pink and teal stage lights. He looks over at Cassidy behind her towering rack of keyboards, then back at Tyler and Evan. A rebellious, exhausted grin breaks across his face. He leans into the microphone—ignoring the teleprompter—and shouts over the roar:"
+    ],
+    "quote": "CHICAGO! ARE YOU STILL WITH US?! ... We've got one more for you tonight! The suits in L.A. told us to keep it quiet, they told us to play it safe... SO TYLER, COUNT US IN AND LET'S BLOW THE ROOF OFF THIS PLACE!",
+    "attribution": "Cue the blistering, overdriven opening riff of \"My Anchor Holds\""
+  },
+  "loreLinks": [
+    {
+      "label": "Read \"The Crash of '90\" Case File",
+      "url": "https://raggiesoft.com/engine-room/artists/stardust-engine/story/crash-of-1990",
+      "description": "Official investigation and narrative archive of the 1990 I-80 bus crash."
+    }
+  ]
 }

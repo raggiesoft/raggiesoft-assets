@@ -27,5 +27,51 @@
   },
   "conditionsOfAccess": "Public",
   "creativeWorkStatus": "Published",
-  "isRockOpera": false
+  "isRockOpera": false,
+  "subtitle": "The 2004 Blacksburg Homecoming Album (Final Release Before the Burnout Hiatus)",
+  "linerNotes": [
+    "After the sprawling, emotionally exhausting double-album ambition of the 2003 Twin Moons project (Sanctuary Zero-G and Mile Marker 98), the five members of The Stardust Engine didn't book a commercial studio in Los Angeles or London. Instead, they went home to Progress Street NE in Blacksburg, Virginia.",
+    "Setting up their gear in the living room where it all began in 1985, Ryan, Cassidy, Evan, Tyler, and Holly made a pact: they were going to record the full-blooded, uncompromised 1980s Album-Oriented Rock (AOR) and stadium synth-rock record that Apex Records never let them make in 1987.",
+    "Progress Street is a love letter to their collegiate roots at Commonwealth Polytechnic Institute (CPI), to Cassidy's childhood upright piano and second-hand 1984 analog polyphonic synthesizer, to Saturday nights shaking the earth at The Crucible, and to riding Blue Ridge Transit's Route 1 home in the rain. Yet beneath the soaring hooks and triumphant stadium choruses, the album captures a band running on absolute fumes—culminating in a heartfelt final track where they promised their fans they were staying together as a family, right before pulling the plug and entering their decade-long Burnout Hiatus (2004–2014)."
+  ],
+  "studioArchives": [
+    {
+      "title": "The Cover Art: Unit 1985 on Progress Street NE",
+      "icon": "fa-bus",
+      "variant": "info",
+      "content": "The album cover was photographed at dusk on Progress Street NE right outside the family house. Parked at the curb is the band's brand-new custom 2004 Prairie Coachworks RLFD30—a 30-foot Restyled Low-Floor diesel shuttle bus finished in Obsidian Midnight with a cosmic nebula wrap, front-door-only boarding, a deployed aluminum ADA wheelchair ramp, and glowing amber Luminator LED signs reading PROGRESS STREET and THE STARDUST ENGINE. Because Holly, Evan, and Tyler all held Class A Commercial Driver's Licenses (CDLs) with Passenger and Airbrake endorsements, the family drove their own bus without hiring outside drivers.",
+      "link": {
+        "label": "Inspect the Engine Room Fleet Archive",
+        "url": "https://raggiesoft.com/engine-room/corporate/fleet"
+      }
+    },
+    {
+      "title": "The Sound of Exhaustion & The Burnout Hiatus",
+      "icon": "fa-battery-quarter",
+      "variant": "warning",
+      "content": "Delivering three massive studio albums in less than eighteen months (Sanctuary Zero-G, Mile Marker 98, and Progress Street) while running Engine Room Records pushed Ryan's physical stamina and Cassidy's sensory bandwidth past the redline. Tracks like \"Running on Redline\", the resurrected full-band AOR arrangement of \"Empty Arenas\", and the closing farewell \"Last Bus Home: Lights Out on Progress Street\" were written as a deliberate, loving sign-off so Forger Nation knew the family was intact even as the stage lights went dark until 2015."
+    },
+    {
+      "title": "Narrative Crossover: \"Before the Distance: The Story of John & Erin\"",
+      "icon": "fa-book-open-cover",
+      "variant": "primary",
+      "content": "The songs of Progress Street (especially \"Route 1: Midnight Headlights\", \"Fifth Gear: The Architect's Shield\", and \"Before the Distance\") and the 1990 acoustic demos later unearthed on Lost Sounds (2007) form the emotional backbone of the 2004 Blacksburg novel Before the Distance: The Story of John & Erin—where fraternal twins John and Erin (portrayed by Ryan and Cassidy) fight for survival and autonomy two blocks from Commonwealth Mall on Progress Street NE.",
+      "link": {
+        "label": "Read the Novel at Ocean View Archives",
+        "url": "https://books.raggiesoft.com/books/erin"
+      }
+    }
+  ],
+  "loreLinks": [
+    {
+      "label": "Read \"Before the Distance: The Story of John & Erin\"",
+      "url": "https://books.raggiesoft.com/books/erin",
+      "description": "The companion novel set on Progress Street NE and the CPI campus in Autumn 2004."
+    },
+    {
+      "label": "Stream the Companion Soundtrack Playlist",
+      "url": "/playlists/john-and-erin",
+      "description": "Curated 12-track narrative playlist pairing Progress Street and Lost Sounds."
+    }
+  ]
 }

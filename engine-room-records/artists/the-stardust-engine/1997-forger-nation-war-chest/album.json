@@ -24,5 +24,35 @@
   "creativeWorkStatus": "Active Release",
   "sameAs": [
     "https://distrokid.com/hyperfollow/thestardustengine/forgernationwarchest"
+  ],
+  "subtitle": "The 1997 CPI Stadium Anthems & Arena B-Sides",
+  "linerNotes": [
+    "Released alongside Hard Reset in 1997 as a tribute to their alma mater—Commonwealth Polytechnic Institute (CPI)—and the fiercely loyal fans (\"Forger Nation\" and \"The Ironheads\") who stood by the band throughout the Apex Records lawsuit.",
+    "Anchored by the remastered stadium version of \"Ignition (The Forger's Call)\"—the iconic tunnel-walk anthem that triggers 65,000 fans at The Crucible to STOMP until the seismographs register on campus—this 17-track war chest collects the band's heaviest collegiate and working-class rock anthems."
+  ],
+  "studioArchives": [
+    {
+      "title": "The 1986 $1.00 Perpetual Cross-License",
+      "icon": "fa-scale-balanced",
+      "variant": "warning",
+      "content": "When \"Ignition\" won CPI's 1986 student anthem contest, 16-year-old dual-enrolled prodigy Holly O'Connell struck out the university's Work-for-Hire clause and replaced it with a $1.00 Perpetual Mutual Cross-License—allowing CPI Athletics to blast the song forever for $1.00 while granting the band perpetual rights to sing about CPI, The Forgers, and The Crucible.",
+      "link": {
+        "label": "Read \"Stadium Anthems & The 1986 Redline\"",
+        "url": "https://raggiesoft.com/engine-room/artists/stardust-engine/story/crucible/anthems-and-redline"
+      }
+    },
+    {
+      "title": "The Birth of \"The Stomp\"",
+      "icon": "fa-shoe-prints",
+      "variant": "danger",
+      "content": "Unlike jumping, \"The Stomp\" was born in Autumn 1989 at The Anvil student section so that every Forger—including wheelchair users locking their brakes and slamming their footplates or fists in rhythm with Tyler's kick drum—could shake the earth of Blacksburg together."
+    }
+  ],
+  "loreLinks": [
+    {
+      "label": "Explore CPI & The Crucible Lore Hub",
+      "url": "https://raggiesoft.com/engine-room/artists/stardust-engine/story/cpi",
+      "description": "Campus landmarks, Jeremiah Vance's $100M Ironhead Covenant, and blood feuds of the Commonwealth."
+    }
   ]
 }

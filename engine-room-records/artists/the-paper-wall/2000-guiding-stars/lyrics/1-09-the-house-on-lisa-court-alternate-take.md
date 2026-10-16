@@ -1,5 +1,6 @@
 **LORE NOTE:**
-Archival lyrics document.
+
+Bonus track. An alternate studio recording of the New Wave tribute.
 
 **LYRICS:**
 

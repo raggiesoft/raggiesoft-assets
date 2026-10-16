@@ -23,5 +23,32 @@
   "creativeWorkStatus": "Active Release",
   "sameAs": [
     "https://distrokid.com/hyperfollow/thestardustengine/hardreset"
+  ],
+  "subtitle": "The 1997 Album (The First on Engine Room Records)",
+  "linerNotes": [
+    "If The Warehouse Tapes was the band surviving, Hard Reset is the band conquering.",
+    "As the inaugural release on their own label, Engine Room Records (ERR-001), this album had everything riding on it. Industry insiders predicted a flop without Apex's marketing machine. Instead, fueled by a grassroots \"Direct-to-Fan\" internet campaign engineered by Holly, the album debuted at #1, proving you didn't need to sell your soul to sell out stadiums."
+  ],
+  "description": "If The Warehouse Tapes was the band surviving, Hard Reset is the band conquering.",
+  "studioArchives": [
+    {
+      "title": "The $13.99 Price War",
+      "icon": "fa-tags",
+      "variant": "info",
+      "content": "In 1997, major labels were charging $18.99 for a CD. Because Engine Room Records owned their own pressing plants and distribution, Holly priced Hard Reset at a flat $13.99—and printed the price directly on the front cover sticker so retailers couldn't mark it up."
+    },
+    {
+      "title": "The Sound of \"The Engine\"",
+      "icon": "fa-gears",
+      "variant": "warning",
+      "content": "This is the first album where the \"Stardust\" (Cassidy's synths) and the \"Engine\" (Ryan's heavy guitars) are mixed at dead-even volume. The result is the signature \"Industrial Arena Rock\" sound that defined the band's second decade."
+    }
+  ],
+  "loreLinks": [
+    {
+      "label": "Read \"The Nine-Figure Refusal\" Archive",
+      "url": "https://raggiesoft.com/engine-room/artists/stardust-engine/story/nine-figure-refusal",
+      "description": "How Engine Room Records defended its independence against OmniGlobal."
+    }
   ]
 }

@@ -1,5 +1,6 @@
 **LORE NOTE:**
-The original Japanese-language broadcast recording of *Hoshizora no Uta (星空の歌)* played aboard the overnight passenger ferry across the Inland Sea.
+
+The original Japanese-language broadcast recording of 'Hoshizora no Uta (星空の歌)' played aboard the overnight passenger ferry across the Inland Sea.
 
 **LYRICS:**
 

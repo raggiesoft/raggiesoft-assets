@@ -1,5 +1,6 @@
 **LORE NOTE:**
-An upbeat 1980s melodic synth-rock tribute to younger sister and manager Holly O'Connell—the academic prodigy who was dual-enrolled at Blacksburg High School and CPI at sixteen, mediated Ryan and Cassidy's creative arguments with three-way hugs, and armored the family against the music industry as CEO of Engine Room Records.
+
+An upbeat 1980s melodic synth-rock tribute to younger sister and manager Holly O'Connell—the academic prodigy who was dual-enrolled at Blacksburg High School and CPI at sixteen, mediated Ryan and Cassidy's creative arguments with three-way hugs, earned her Class A CDL with passenger and airbrake endorsements alongside Evan and Tyler, and armored the family against the music industry.
 
 **LYRICS:**
 

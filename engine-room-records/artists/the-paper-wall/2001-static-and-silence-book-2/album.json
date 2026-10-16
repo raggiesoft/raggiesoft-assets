@@ -30,5 +30,24 @@
   },
   "sameAs": [
     "https://distrokid.com/hyperfollow/thepaperwall/staticsilencebook2thejourneyhome"
+  ],
+  "subtitle": "2001 Double Rock Opera — Book 2: The Journey Home",
+  "linerNotes": [
+    "Part 2 of The Paper Wall's defining rock opera masterpiece, chronicling Leo's harrowing cross-country escape on a Greyhound bus, Luna's non-verbal flute lifeline (\"Kaleidoscope Sun\"), and his triumphant return to the Safe Harbor of his sisters and Olivia."
+  ],
+  "studioArchives": [
+    {
+      "title": "The Safe Harbor Lineup",
+      "icon": "fa-shield-heart",
+      "variant": "info",
+      "content": "Featuring Julian Croft (\"Leo\") on lead vocals and composition, Maya Sterling (\"Olivia\") on percussion and vocals, and the Croft sisters—Izzy (\"Luna\"), Bea (\"Stella\"), and Charlotte—forming a protective wall of sound."
+    }
+  ],
+  "loreLinks": [
+    {
+      "label": "Read the Luna & Leo Novel at Ocean View Archives",
+      "url": "https://books.raggiesoft.com/books/luna-leo",
+      "description": "The full literary chronicle behind Static & Silence."
+    }
   ]
 }

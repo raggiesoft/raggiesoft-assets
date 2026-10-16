@@ -23,5 +23,25 @@
   "creativeWorkStatus": "Active Release",
   "sameAs": [
     "https://distrokid.com/hyperfollow/thestardustengine/electriccolor"
+  ],
+  "subtitle": "The 1987 Debut Album",
+  "linerNotes": [
+    "To the world, this was a fun, harmless synth-pop record. To the band, it was a \"Trojan Horse.\"",
+    "Forced by Apex Records to abandon their rock roots for a commercial \"New Wave\" sound, the band complied on the surface while hiding their rebellion in the subtext. Ryan's guitar was buried in the mix, and Tyler was forced to use electronic drum pads, creating a tension that defines the album's brittle, high-energy sound."
+  ],
+  "description": "To the world, this was a fun, harmless synth-pop record. To the band, it was a \"Trojan Horse.\"",
+  "studioArchives": [
+    {
+      "title": "Production Notes",
+      "icon": "fa-sliders",
+      "variant": "info",
+      "content": "Produced by \"The Suits\" at Apex LA. Note the complete lack of guitar distortion on the singles—a direct mandate from label head Julian Vance, who wanted the band to sound \"safe for the malls.\""
+    },
+    {
+      "title": "Behind the Curtain",
+      "icon": "fa-masks-theater",
+      "variant": "warning",
+      "content": "The album cover shoot took 14 hours because Ryan refused to smile while holding the disconnected prop keyboard. The final shot used was the only frame where he wasn't glaring at the camera."
+    }
   ]
 }

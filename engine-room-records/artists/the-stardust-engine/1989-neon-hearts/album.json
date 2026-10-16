@@ -23,5 +23,25 @@
   "creativeWorkStatus": "Active Release",
   "sameAs": [
     "https://distrokid.com/hyperfollow/thestardustengine/neonhearts"
+  ],
+  "subtitle": "The 1989 Album (Peak \"Cold War\")",
+  "linerNotes": [
+    "Following the massive success of their debut, Apex Records tightened the leash. Neon Hearts was designed in a boardroom to be the ultimate late-80s pop blockbuster: glossier, louder, and completely devoid of rough edges.",
+    "This album represents the peak of the \"Cold War\" between the band and their label. While the singles (\"Neon Hearts\", \"If You Walked Away\") dominated the global charts, the deep cuts reveal a band suffocating under the weight of their own fabricated image. It is the sound of five musicians smiling for the cameras while quietly planning their escape."
+  ],
+  "description": "Following the massive success of their debut, Apex Records tightened the leash. Neon Hearts was designed in a boardroom to be the ultimate late-80s pop blockbuster: glossier, louder, and completely devoid of rough edges.",
+  "studioArchives": [
+    {
+      "title": "Production Notes",
+      "icon": "fa-sliders",
+      "variant": "info",
+      "content": "Recorded at Apex Studio A in Los Angeles. Producer Vance Sterling famously locked Ryan's distortion pedals in a safe for the duration of the tracking sessions, forcing him to record all guitar parts through a clean direct-injection (DI) box."
+    },
+    {
+      "title": "Behind the Curtain",
+      "icon": "fa-masks-theater",
+      "variant": "warning",
+      "content": "The neon-pink aesthetic of the album art was chosen without the band's consent. Holly O'Connell successfully sued the label later to block them from forcing the band to wear matching pink leather jackets on the subsequent stadium tour."
+    }
   ]
 }

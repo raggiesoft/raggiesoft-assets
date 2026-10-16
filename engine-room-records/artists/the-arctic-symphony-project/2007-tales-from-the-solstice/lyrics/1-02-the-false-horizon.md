@@ -1,5 +1,6 @@
 **LORE NOTE:**
-Archival lyrics document.
+
+A dramatic symphonic rock duet chronicling the moment Matthew is lured past his HRT transfer point near the hospital glass onto a cross-country interstate coach at Olney and Granby in Norfolk, Virginia—echoing the terror Julian Rowlands survived a decade earlier.
 
 **LYRICS:**
 

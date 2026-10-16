@@ -1,5 +1,6 @@
 **LORE NOTE:**
-Archival lyrics document.
+
+A high-energy, classic 80s FM radio hit celebrating late-night mixtape creation and youthful optimism.
 
 **LYRICS:**
 

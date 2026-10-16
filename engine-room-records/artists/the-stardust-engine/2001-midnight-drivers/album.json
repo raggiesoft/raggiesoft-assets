@@ -24,5 +24,24 @@
   "creativeWorkStatus": "Active Release",
   "sameAs": [
     "https://distrokid.com/hyperfollow/thestardustengine/midnightdrivers"
+  ],
+  "subtitle": "The 2001 Nocturnal Highway Album",
+  "linerNotes": [
+    "If Hard Reset was the sound of a band fighting for their lives, Midnight Drivers is the sound of a band that won.",
+    "Written entirely on the road during their massive 1999–2000 world tour, this album trades the claustrophobic fury of the warehouse for the wide-open, neon-lit expanse of the American interstate at 3:00 AM. It is a looser, groove-heavy record—a love letter to the asphalt, the road crew, and the quiet sanctuary of the tour bus rolling through the dark."
+  ],
+  "studioArchives": [
+    {
+      "title": "Mobile Recording Unit",
+      "icon": "fa-bus",
+      "variant": "info",
+      "content": "Over 60% of this album was tracked inside the custom studio built into the back lounge of their tour bus (\"The Rolling Fortress\") while parked at truck stops in Nebraska, Wyoming, and New Mexico."
+    },
+    {
+      "title": "The \"No Ballads\" Pact",
+      "icon": "fa-gauge-high",
+      "variant": "warning",
+      "content": "The band made a rule before tracking: every song on the album had to pass the \"Highway Test\"—meaning it had to sound good blasting out of a car stereo at 75 MPH after midnight."
+    }
   ]
 }

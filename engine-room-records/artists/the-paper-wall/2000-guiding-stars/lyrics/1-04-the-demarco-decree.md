@@ -1,5 +1,6 @@
 **LORE NOTE:**
-Archival lyrics document.
+
+A high school rock anthem featuring a poignant flute interlude that represents Leo and Luna's private check-in signal.
 
 **LYRICS:**
 

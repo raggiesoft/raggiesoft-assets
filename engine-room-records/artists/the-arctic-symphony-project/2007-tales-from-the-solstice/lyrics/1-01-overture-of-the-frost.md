@@ -1,5 +1,6 @@
 **LORE NOTE:**
-Archival lyrics document.
+
+The symphonic-metal overture opening Tales from the Solstice. Commissioned in January 2007 at The Crown & Hound on Duke of Gloucester Street in Williamsburg after Samantha liberated the Rowlands family's masters from Vanguard Horizon, ethereal soprano vocals, Gwendolyn's cello, and Gabriel's neoclassical electric guitar set the stage for a 3-disc rock opera uniting Julian Rowlands' 1996 rescue beacon with Matthew's cross-country survival.
 
 **LYRICS:**
 

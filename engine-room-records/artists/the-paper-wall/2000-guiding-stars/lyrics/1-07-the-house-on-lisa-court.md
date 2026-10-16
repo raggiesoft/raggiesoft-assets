@@ -1,5 +1,6 @@
 **LORE NOTE:**
-Archival lyrics document.
+
+A New Wave-influenced rock anthem expressing profound gratitude for the safe home Stella built.
 
 **LYRICS:**
 
