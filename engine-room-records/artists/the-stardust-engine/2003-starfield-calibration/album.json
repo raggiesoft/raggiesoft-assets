@@ -1,0 +1,52 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
+  "name": "Starfield Calibration",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Stardust Engine"
+  },
+  "albumProductionType": "RemixAlbum",
+  "albumReleaseType": "AlbumRelease",
+  "genre": "80s Cosmic Pop / Space Rock",
+  "temporalCoverage": "2003-11-15",
+  "description": "Recorded alongside the 2003 Twin Moons Planetarium Project, Starfield Calibration reimagines The Stardust Engine's classic catalog entirely through Cassidy O'Connell's proprietary zero-gravity audio engineering architecture: The Cosmic Tidal Lock Sound™.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Engine Room Records"
+  },
+  "conditionsOfAccess": "Public",
+  "creativeWorkStatus": "InProduction",
+  "isRockOpera": false,
+  "subtitle": "The 2003 Cosmic Tidal Lock Sound™ Remix Anthology",
+  "sunoMasterPrompt": "1980s synth-pop, mid-tempo space-rock, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, crystal clear female vocals, lush spatial reverb, celestial atmosphere [can be male and female duet instead if Ryan and Cassidy are singing]",
+  "linerNotes": [
+    "To understand the music of The Stardust Engine, there is a distinct difference between the genre the band pioneered and the actual sonic architecture they use to create it.",
+    "80s Cosmic Pop (The Genre) is the generic, widely recognized sub-genre coined by music journalists and fiercely adopted by the fans (The Ironheads). It broadly describes the band's signature atmospheric blend of driving arena rock, lush analog synthesizers, and deep-space lyricism.",
+    "The Cosmic Tidal Lock Sound™ (The In-Universe Trademark) refers strictly to the proprietary, highly specific audio engineering and synth-layering techniques developed exclusively by Cassidy O'Connell following the 1992 Friction Catastrophe and first perfected on \"Moon 1 (Tidal Lock)\". While originally engineered around Cassidy's solo crystal-clear female vocals, 2003's Starfield Calibration expanded the zero-gravity architecture to re-engineer the band's classic catalog—supporting both Cassidy's solo vocal profile and Ryan & Cassidy's sibling duets."
+  ],
+  "studioArchives": [
+    {
+      "title": "The Nomenclature: Genre vs. In-Universe Trademark",
+      "icon": "fa-scale-balanced",
+      "variant": "info",
+      "content": "While \"80s Cosmic Pop\" describes the broader genre, \"The Cosmic Tidal Lock Sound\" is an in-universe trademark registered by CEO Holly O'Connell through Engine Room Records, LLC (fictitious in-universe registration; not a real-world USPTO trademark) to legally protect Cassidy O'Connell's zero-gravity synth-layering and spatial reverb architecture from corporate imitators."
+    },
+    {
+      "title": "Archivist Note: The Suno Prompt Engineering Guide",
+      "icon": "fa-sliders",
+      "variant": "success",
+      "content": "Studio Master Prompt for Starfield Calibration (Cosmic Tidal Lock Sound™ remixes): \"1980s synth-pop, mid-tempo space-rock, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, crystal clear female vocals, lush spatial reverb, celestial atmosphere\" (use \"male and female duet\" when Ryan and Cassidy sing together)."
+    }
+  ],
+  "loreLinks": [
+    {
+      "label": "Explore The Cosmic Tidal Lock Sound™ Lore Archive",
+      "url": "https://raggiesoft.com/engine-room/artists/stardust-engine/story/cosmic-tidal-lock-sound",
+      "description": "Full architectural breakdown of Cassidy O'Connell's zero-gravity synth engineering and Holly O'Connell's legal shield."
+    }
+  ]
+}
