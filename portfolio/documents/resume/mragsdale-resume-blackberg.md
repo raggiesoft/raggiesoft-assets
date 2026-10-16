@@ -47,6 +47,8 @@ Founded and operate RaggieSoft Media, an independent software development and di
 ## Education & Certification
 
 * **Tidewater Community College | Virginia Beach, VA**
-  Associate of Science, Information Technology (Focus: Software Engineering & Web Dev) | Expected Dec 2026
+  Associate of Science, Information Technology (Focus: Software Engineering & Web Dev) | Expected Dec 2027
 * **Old Dominion University | Norfolk, VA**
   Bachelor of Science, Customized Studies in Leadership | Prior Coursework
+* **Wilson Workforce and Rehabilitation Center (formerly Woodrow Wilson Rehabilitation Center) | Fishersville, VA**
+  Certificate, Business & Information Technology | 2011

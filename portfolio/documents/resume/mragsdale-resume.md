@@ -1,17 +1,17 @@
 # MICHAEL P. RAGSDALE
-**Software Architect | Full-Stack PHP Developer**
+**Software Architect | Full-Stack Developer & Section 508 Engineer**
 Cloud Infrastructure • Accessibility Engineering • Open-Source Platform Development
-Norfolk, VA | U.S. Citizen (Clearance Eligible) | hireme@michaelpragsdale.com
+Norfolk, VA | U.S. Citizen (Clearance Eligible) | [michaelpragsdale.com](https://michaelpragsdale.com) | hireme@michaelpragsdale.com
 
 ## Professional Summary
-Software Architect and Full-Stack PHP Developer specializing in custom web platforms, accessibility-first application architecture, cloud infrastructure, and open-source software development. Creator of the Stardust Engine CMS, a zero-database PHP framework featuring JSON-driven routing, custom SPA navigation, and AI-assisted development workflows. Experienced across the full software lifecycle, including architecture, development, cloud deployment, DNS management, CI/CD automation, and production operations.
+Software Architect and Full-Stack Developer specializing in custom web platforms, accessibility-first application architecture, cloud infrastructure, and open-source software development. Creator of the Stardust Engine CMS, a zero-database PHP framework featuring JSON-driven routing, custom SPA navigation, and polyglot decoupled micro-properties across Angular, SvelteKit, React/Next.js, and Vanilla PHP/JS. Experienced across the full software lifecycle, including architecture, development, cloud deployment, DNS management, CI/CD automation, and production operations.
 
 ## Technical Skills
-* **Languages:** PHP 8.x, JavaScript (ES6+), Python, Bash, SQL, HTML5, CSS3
-* **Architecture:** MVC Frameworks, JSON Routing, SPA Applications, REST APIs
+* **Languages & Frameworks:** PHP 8.5, TypeScript, JavaScript (ES2024), Angular 19, Svelte 5 / SvelteKit, React 19 / Next.js, Python, Bash, SQL, HTML5, Modern CSS3 (`@layer`, `subgrid`, `@container`)
+* **Architecture:** MVC Frameworks, Zero-Database JSON/Markdown Data Lakes, SPA Applications, REST APIs
 * **Infrastructure:** Ubuntu Linux, Nginx, DigitalOcean (Droplets/Spaces), Cloudflare, Git, CI/CD, FFmpeg
-* **Accessibility:** WCAG 2.1 AA, Section 508, Deque axe
-* **AI & Automation:** Gemini, LLM Workflows, AI Development Governance, Suno AI
+* **Accessibility:** WCAG 2.1 AA/AAA, Federal Section 508, Deque axe, JAWS/NVDA, Dual-Layer Canvas ARIA
+* **AI & Automation:** Gemini, LLM Workflows, AI Development Governance, RealESRGAN, Whisper WebVTT
 
 ## Relevant Technical Experience
 
