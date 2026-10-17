@@ -174,7 +174,7 @@ html[data-color-scheme="light"] .rs-network-bar {
 .rs-network-dropdown-menu {
   display: none;
   position: absolute;
-  top: calc(100% + 0.25rem);
+  top: calc(100% + 0.2rem);
   left: 0;
   min-width: 250px;
   background-color: #0b1120;
@@ -188,7 +188,19 @@ html[data-color-scheme="light"] .rs-network-bar {
   z-index: 2000;
 }
 
-.rs-network-dropdown.is-open .rs-network-dropdown-menu {
+/* Invisible hover bridge eliminating the dead-zone gap between toggle button and menu */
+.rs-network-dropdown-menu::before {
+  content: "";
+  position: absolute;
+  top: -0.65rem;
+  left: -0.75rem;
+  right: -0.75rem;
+  height: 0.75rem;
+  background: transparent;
+}
+
+.rs-network-dropdown.is-open .rs-network-dropdown-menu,
+.rs-network-dropdown:focus-within .rs-network-dropdown-menu {
   display: block !important;
 }
 
