@@ -187,6 +187,17 @@ function initOceanViewReader() {
                 audioEl.currentTime = scrubber.value;
             });
         }
+
+        // Automatically pause in-page background audio if the reader opens the track or album
+        // in The Listening Room (music.raggiesoft.com) or an external DSP to prevent dual-stream audio collision.
+        const externalAudioLinks = document.querySelectorAll('.reader-audio-external-link');
+        externalAudioLinks.forEach(link => {
+            link.addEventListener('click', () => {
+                if (!audioEl.paused) {
+                    audioEl.pause();
+                }
+            });
+        });
     }
     
     // -- Lyrics/Lore Data Fetcher --
