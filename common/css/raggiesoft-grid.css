@@ -513,7 +513,7 @@ wa-button[appearance="plain"] {
 }
 
 /* Colors for Skip to Main Content */
-.bg-primary { background-color: var(--wa-color-brand-fill) !important; }
+.bg-primary { background-color: var(--wa-color-brand-fill-loud, var(--bs-primary, #005bb5)) !important; }
 .text-white { color: #ffffff !important; }
 .z-3 { z-index: 3 !important; }
 .position-absolute { position: absolute !important; }
@@ -603,12 +603,12 @@ wa-dialog::part(panel) {
 
 /* Backgrounds */
 /* Map Bootstrap semantic colors to WA semantic variables with loud/BS fallbacks */
-.bg-primary   { background-color: var(--wa-color-primary, var(--wa-color-brand-fill-loud, var(--bs-primary))) !important; }
-.bg-secondary { background-color: var(--wa-color-neutral, var(--wa-color-neutral-fill-quiet, var(--bs-secondary))) !important; }
-.bg-success   { background-color: var(--wa-color-success, var(--wa-color-success-fill-loud, var(--bs-success))) !important; }
-.bg-danger    { background-color: var(--wa-color-danger, var(--wa-color-danger-fill-loud, var(--bs-danger))) !important; }
-.bg-warning   { background-color: var(--wa-color-warning, var(--wa-color-warning-fill-loud, var(--bs-warning))) !important; }
-.bg-info      { background-color: var(--wa-color-info, var(--wa-color-info-fill-loud, var(--bs-info))) !important; }
+.bg-primary   { background-color: var(--wa-color-primary, var(--wa-color-brand-fill-loud, var(--bs-primary, #005bb5))) !important; }
+.bg-secondary { background-color: var(--wa-color-neutral, var(--wa-color-neutral-fill-quiet, var(--bs-secondary, #475569))) !important; }
+.bg-success   { background-color: var(--wa-color-success, var(--wa-color-success-fill-loud, var(--bs-success, #15803d))) !important; }
+.bg-danger    { background-color: var(--wa-color-danger, var(--wa-color-danger-fill-loud, var(--bs-danger, #b91c1c))) !important; }
+.bg-warning   { background-color: var(--wa-color-warning, var(--wa-color-warning-fill-loud, var(--bs-warning, #f59e0b))) !important; }
+.bg-info      { background-color: var(--wa-color-info, var(--wa-color-info-fill-loud, var(--bs-info, #0284c7))) !important; }
 
 /* Text Colors */
 .text-primary   { color: var(--wa-color-primary, var(--wa-color-brand-text-loud, var(--bs-primary))) !important; }
@@ -636,14 +636,15 @@ wa-dialog::part(panel) {
 .border-0 { border: 0 !important; }
 
 
-/* --- RESPONSIVE DISPLAY UTILITIES POLYFILL --- */
-/* Display utility breakpoints based on BS5 standard */
+/* --- RESPONSIVE DISPLAY, FLEX, TEXT & SPACING UTILITIES POLYFILL --- */
 @media (min-width: 576px) {
   .d-sm-none { display: none !important; }
   .d-sm-block { display: block !important; }
   .d-sm-flex { display: flex !important; }
   .d-sm-inline { display: inline !important; }
   .d-sm-inline-block { display: inline-block !important; }
+  .flex-sm-row { flex-direction: row !important; }
+  .flex-sm-column { flex-direction: column !important; }
 }
 @media (min-width: 768px) {
   .d-md-none { display: none !important; }
@@ -651,6 +652,22 @@ wa-dialog::part(panel) {
   .d-md-flex { display: flex !important; }
   .d-md-inline { display: inline !important; }
   .d-md-inline-block { display: inline-block !important; }
+  .flex-md-row { flex-direction: row !important; }
+  .flex-md-column { flex-direction: column !important; }
+  .align-items-md-center { align-items: center !important; }
+  .align-items-md-start { align-items: flex-start !important; }
+  .justify-content-md-between { justify-content: space-between !important; }
+  .justify-content-md-start { justify-content: flex-start !important; }
+  .justify-content-md-end { justify-content: flex-end !important; }
+  .text-md-start { text-align: left !important; }
+  .text-md-end { text-align: right !important; }
+  .text-md-center { text-align: center !important; }
+  .mb-md-0 { margin-bottom: 0 !important; }
+  .mt-md-0 { margin-top: 0 !important; }
+  .me-md-3 { margin-right: 1rem !important; }
+  .me-md-4 { margin-right: 1.5rem !important; }
+  .p-md-4 { padding: 1.5rem !important; }
+  .p-md-5 { padding: 3rem !important; }
 }
 @media (min-width: 992px) {
   .d-lg-none { display: none !important; }
@@ -658,6 +675,12 @@ wa-dialog::part(panel) {
   .d-lg-flex { display: flex !important; }
   .d-lg-inline { display: inline !important; }
   .d-lg-inline-block { display: inline-block !important; }
+  .flex-lg-row { flex-direction: row !important; }
+  .flex-lg-column { flex-direction: column !important; }
+  .mb-lg-0 { margin-bottom: 0 !important; }
+  .mt-lg-0 { margin-top: 0 !important; }
+  .p-lg-4 { padding: 1.5rem !important; }
+  .p-lg-5 { padding: 3rem !important; }
 }
 @media (min-width: 1200px) {
   .d-xl-none { display: none !important; }

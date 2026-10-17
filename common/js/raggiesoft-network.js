@@ -58,6 +58,33 @@
     }
   }
 
+  /**
+   * Injects core defensive CSS rules directly into <head> so that even if a browser
+   * or Cloudflare edge node serves a stale cached stylesheet, `.rs-mobile-network-section`
+   * is strictly hidden on desktop and rendered as a clean 2-column grid on mobile.
+   */
+  function ensureNetworkStylesInjected() {
+    if (!document.head || document.getElementById('rs-network-core-css')) return;
+    var style = document.createElement('style');
+    style.id = 'rs-network-core-css';
+    style.textContent = [
+      '.rs-mobile-network-section { display: none; width: 100%; margin-top: 0.75rem; padding-top: 0.75rem; border-top: 1px solid rgba(148, 163, 184, 0.28); }',
+      '.rs-mobile-network-title { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 0.68rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em; color: #fbbf24; margin-bottom: 0.5rem; padding: 0 0.25rem; display: flex; align-items: center; gap: 0.35rem; }',
+      '[data-bs-theme="light"] .rs-mobile-network-title, html.light .rs-mobile-network-title { color: #b45309; }',
+      '.rs-mobile-network-grid { display: grid !important; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.35rem; list-style: none !important; margin: 0 !important; padding: 0 !important; }',
+      '.rs-mobile-network-grid > li { list-style: none !important; margin: 0 !important; padding: 0 !important; }',
+      '.rs-mobile-network-link { display: flex; align-items: center; gap: 0.4rem; padding: 0.45rem 0.55rem; border-radius: 0.45rem; font-size: 0.76rem; font-weight: 600; text-decoration: none !important; color: #e2e8f0; background-color: rgba(15, 23, 42, 0.78); border: 1px solid rgba(148, 163, 184, 0.24); line-height: 1.2; min-width: 0; }',
+      '[data-bs-theme="light"] .rs-mobile-network-link, html.light .rs-mobile-network-link { color: #0f172a; background-color: rgba(241, 245, 249, 0.95); border-color: rgba(100, 116, 139, 0.32); }',
+      '.rs-mobile-network-link.is-active, .rs-mobile-network-link[aria-current="page"] { background-color: rgba(56, 189, 248, 0.18); color: #38bdf8; border-color: rgba(56, 189, 248, 0.6); font-weight: 700; }',
+      '[data-bs-theme="light"] .rs-mobile-network-link.is-active, [data-bs-theme="light"] .rs-mobile-network-link[aria-current="page"] { background-color: #005bb5; color: #ffffff; border-color: #004494; }',
+      '.rs-mobile-network-text { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }',
+      '@media (max-width: 1120px) { body.rs-has-primary-nav .rs-network-bar { display: none !important; } .rs-mobile-network-section[data-rs-breakpoint="1120"] { display: block !important; } }',
+      '@media (max-width: 767.98px) { body.rs-has-md-nav .rs-network-bar { display: none !important; } .rs-mobile-network-section[data-rs-breakpoint="768"] { display: block !important; } }',
+      '.rs-mobile-network-section[data-rs-breakpoint="always"] { display: block !important; }'
+    ].join('\n');
+    document.head.appendChild(style);
+  }
+
   function buildMobileGridHtml(breakpointAttr) {
     var currentHost = getCurrentHost();
     var itemsHtml = NETWORK_SITES.map(function (site) {
@@ -127,6 +154,7 @@
   }
 
   function initRaggieSoftNetworkMenu() {
+    ensureNetworkStylesInjected();
     if (!document.body) return;
 
     /* 1. Group A: Properties using #primary-navigation (1120px mobile breakpoint) */
