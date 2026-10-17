@@ -30,13 +30,12 @@
   'use strict';
 
   /**
-   * Top-level RaggieSoft properties (The Stardust Engine now lives inside
-   * the alphabetical Engine Room Records Band Roster menu).
+   * Top-level RaggieSoft properties (The Listening Room and The Stardust Engine
+   * live inside the Engine Room Records menu).
    */
   var NETWORK_SITES = [
     { id: 'hub', href: 'https://raggiesoft.com', host: 'raggiesoft.com', icon: '🌐', label: 'RaggieSoft Hub' },
     { id: 'nebulae', href: 'https://nebulae.raggiesoft.com', host: 'nebulae.raggiesoft.com', icon: '🌌', label: 'Nebulae Atlas' },
-    { id: 'music', href: 'https://music.raggiesoft.com', host: 'music.raggiesoft.com', icon: '🎧', label: 'Listening Room' },
     { id: 'books', href: 'https://books.raggiesoft.com', host: 'books.raggiesoft.com', icon: '📚', label: 'Book Reader' },
     { id: 'engineroom', href: 'https://engineroom.raggiesoft.com', host: 'engineroom.raggiesoft.com', icon: '⚙️', label: 'Engine Room' },
     { id: 'lore', href: 'https://lore.raggiesoft.com', host: 'lore.raggiesoft.com', icon: '🏛️', label: 'Lore Archive' },
@@ -175,10 +174,13 @@
    */
   function buildEngineRoomDropdownLiHtml(currentHost, currentPath) {
     var isEngineRoomGroupActive =
-      currentHost === 'engineroom.raggiesoft.com' || currentHost === 'stardust.raggiesoft.com';
+      currentHost === 'engineroom.raggiesoft.com' ||
+      currentHost === 'stardust.raggiesoft.com' ||
+      currentHost === 'music.raggiesoft.com';
     var isImprintHomeActive =
       currentHost === 'engineroom.raggiesoft.com' &&
       currentPath.indexOf('/artists') !== 0;
+    var isListeningRoomActive = currentHost === 'music.raggiesoft.com';
     var isArtistsDirActive =
       currentHost === 'engineroom.raggiesoft.com' && currentPath === '/artists';
 
@@ -215,6 +217,14 @@
       '</a>' +
       '</li>' +
       '<li role="none">' +
+      '<a role="menuitem" href="https://music.raggiesoft.com"' +
+      (isListeningRoomActive ? ' class="is-active" aria-current="page"' : '') +
+      ' data-no-spa="true">' +
+      '<span aria-hidden="true">🎧</span>' +
+      '<span>The Listening Room</span>' +
+      '</a>' +
+      '</li>' +
+      '<li role="none">' +
       '<a role="menuitem" href="https://engineroom.raggiesoft.com/artists"' +
       (isArtistsDirActive ? ' class="is-active" aria-current="page"' : '') +
       ' data-no-spa="true">' +
@@ -232,10 +242,11 @@
 
   /**
    * Upgrades `.rs-network-bar .rs-network-links` on any page so that:
-   * 1. Standalone top-level `stardust.raggiesoft.com` links are consolidated into
-   *    the `⚙️ Engine Room ▾` Band Roster dropdown.
+   * 1. Standalone top-level `stardust.raggiesoft.com` and `music.raggiesoft.com` links
+   *    are consolidated into the `⚙️ Engine Room ▾` dropdown menu.
    * 2. `⚙️ Engine Room` renders as an accessible keyboard/mouse/touch dropdown
-   *    listing all 7 bands in strict alphabetical order.
+   *    containing Engine Room Records Hub, The Listening Room, All Artists Directory,
+   *    and all 7 bands in strict alphabetical order.
    */
   function upgradeDesktopNetworkBar() {
     var bar = document.querySelector('.rs-network-bar');
@@ -249,11 +260,14 @@
     if (!linksList.getAttribute('data-rs-upgraded')) {
       linksList.setAttribute('data-rs-upgraded', 'true');
 
-      /* Remove standalone top-level stardust link if present in static HTML */
+      /* Remove standalone top-level stardust & music links if present in static HTML */
       var allAnchors = Array.prototype.slice.call(linksList.querySelectorAll(':scope > li > a'));
       allAnchors.forEach(function (a) {
         var href = (a.getAttribute('href') || '').toLowerCase();
-        if (href.indexOf('stardust.raggiesoft.com') !== -1) {
+        if (
+          href.indexOf('stardust.raggiesoft.com') !== -1 ||
+          href.indexOf('music.raggiesoft.com') !== -1
+        ) {
           var parentLi = a.parentElement;
           if (parentLi && parentLi.parentElement === linksList) {
             linksList.removeChild(parentLi);
@@ -330,6 +344,17 @@
       );
     }).join('');
 
+    var isListeningRoomActive = currentHost === 'music.raggiesoft.com';
+    var listeningRoomMobileItem =
+      '<li>' +
+      '<a href="https://music.raggiesoft.com" class="rs-mobile-network-link' + (isListeningRoomActive ? ' is-active' : '') + '"' +
+      (isListeningRoomActive ? ' aria-current="page"' : '') +
+      ' data-no-spa="true">' +
+      '<span class="rs-mobile-network-icon" aria-hidden="true">🎧</span>' +
+      '<span class="rs-mobile-network-text">The Listening Room</span>' +
+      '</a>' +
+      '</li>';
+
     var bandsHtml = ENGINE_ROOM_BANDS.map(function (band) {
       var active = isBandActive(band, currentHost, currentPath);
       return (
@@ -350,8 +375,9 @@
       '<ul class="rs-mobile-network-grid">' +
       itemsHtml +
       '</ul>' +
-      '<div class="rs-mobile-network-title" style="margin-top: 0.65rem;">⚙️ Engine Room Bands (A–Z)</div>' +
+      '<div class="rs-mobile-network-title" style="margin-top: 0.65rem;">⚙️ Engine Room Records &amp; Bands (A–Z)</div>' +
       '<ul class="rs-mobile-network-grid">' +
+      listeningRoomMobileItem +
       bandsHtml +
       '</ul>' +
       '</div>'
