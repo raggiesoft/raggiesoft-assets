@@ -126,9 +126,72 @@
   }
 
   /**
+   * Detects whether the current property is running inside an installed native
+   * Progressive Web App (PWA) window (`standalone`, `window-controls-overlay`,
+   * `minimal-ui`, `fullscreen`, iOS Safari `navigator.standalone`, or Android TWA).
+   */
+  function isStandalonePwa() {
+    try {
+      if (window.navigator && window.navigator.standalone === true) {
+        return true;
+      }
+      if (document.referrer && document.referrer.indexOf('android-app://') === 0) {
+        return true;
+      }
+      if (typeof window.matchMedia === 'function') {
+        if (
+          window.matchMedia(
+            '(display-mode: standalone), (display-mode: window-controls-overlay), (display-mode: minimal-ui), (display-mode: fullscreen)'
+          ).matches
+        ) {
+          return true;
+        }
+      }
+    } catch (e) {}
+    return false;
+  }
+
+  /**
+   * Ensures that when running inside an installed native PWA window, any cross-origin
+   * link (pointing to another RaggieSoft subdomain or external site) opens in a proper
+   * OS browser window (`target="_blank" rel="noopener noreferrer"`) rather than breaking
+   * native PWA immersion or triggering an in-app out-of-scope URL bar.
+   */
+  function ensureStandaloneExternalLinkRouting() {
+    if (window.__rsPwaExternalLinkRoutingBound) return;
+    window.__rsPwaExternalLinkRoutingBound = true;
+
+    document.addEventListener(
+      'click',
+      function (e) {
+        if (!isStandalonePwa()) return;
+        var target = e.target;
+        if (!target || typeof target.closest !== 'function') return;
+        var anchor = target.closest('a[href]');
+        if (!anchor) return;
+        var rawHref = anchor.getAttribute('href') || '';
+        if (!rawHref || rawHref.charAt(0) === '#' || rawHref.indexOf('javascript:') === 0) return;
+
+        try {
+          var parsedUrl = new URL(anchor.href, window.location.href);
+          if (
+            (parsedUrl.protocol === 'http:' || parsedUrl.protocol === 'https:') &&
+            parsedUrl.hostname.toLowerCase() !== (window.location.hostname || '').toLowerCase()
+          ) {
+            anchor.setAttribute('target', '_blank');
+            anchor.setAttribute('rel', 'noopener noreferrer');
+          }
+        } catch (err) {}
+      },
+      true
+    );
+  }
+
+  /**
    * Injects core defensive CSS rules directly into <head> so that even if a browser
    * or Cloudflare edge node serves a stale cached stylesheet, `.rs-network-dropdown`
-   * and `.rs-mobile-network-section` render cleanly across all viewports.
+   * and `.rs-mobile-network-section` render cleanly across all viewports and hide
+   * automatically inside installed native PWAs.
    */
   function ensureNetworkStylesInjected() {
     if (!document.head || document.getElementById('rs-network-core-css')) return;
@@ -170,7 +233,9 @@
       '.rs-mobile-network-text { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }',
       '@media (max-width: 1120px) { body.rs-has-primary-nav .rs-network-bar { display: none !important; } .rs-mobile-network-section[data-rs-breakpoint="1120"] { display: block !important; } }',
       '@media (max-width: 767.98px) { body.rs-has-md-nav .rs-network-bar { display: none !important; } .rs-mobile-network-section[data-rs-breakpoint="768"] { display: block !important; } }',
-      '.rs-mobile-network-section[data-rs-breakpoint="always"] { display: block !important; }'
+      '.rs-mobile-network-section[data-rs-breakpoint="always"] { display: block !important; }',
+      '@media (display-mode: standalone), (display-mode: window-controls-overlay), (display-mode: minimal-ui), (display-mode: fullscreen) { .rs-network-bar, .rs-mobile-network-section { display: none !important; } }',
+      'html.is-pwa-standalone .rs-network-bar, html.is-pwa-standalone .rs-mobile-network-section, body.is-pwa-standalone .rs-network-bar, body.is-pwa-standalone .rs-mobile-network-section { display: none !important; }'
     ].join('\n');
     document.head.appendChild(style);
   }
@@ -537,7 +602,27 @@
 
   function initRaggieSoftNetworkMenu() {
     ensureNetworkStylesInjected();
+    ensureStandaloneExternalLinkRouting();
     if (!document.body) return;
+
+    /* Native PWA Immersion Guard: hide network bar & skip mobile network grid when running as an installed PWA */
+    if (isStandalonePwa()) {
+      document.documentElement.classList.add('is-pwa-standalone');
+      document.body.classList.add('is-pwa-standalone');
+      var pwaBar = document.querySelector('.rs-network-bar');
+      if (pwaBar) {
+        pwaBar.hidden = true;
+        pwaBar.setAttribute('aria-hidden', 'true');
+        pwaBar.style.setProperty('display', 'none', 'important');
+      }
+      var existingMobileSections = document.querySelectorAll('.rs-mobile-network-section');
+      for (var i = 0; i < existingMobileSections.length; i++) {
+        existingMobileSections[i].hidden = true;
+        existingMobileSections[i].setAttribute('aria-hidden', 'true');
+        existingMobileSections[i].style.setProperty('display', 'none', 'important');
+      }
+      return;
+    }
 
     upgradeDesktopNetworkBar();
 
@@ -591,6 +676,7 @@
   var stardustApp = document.getElementById('stardust-app');
   if (stardustApp && typeof MutationObserver !== 'undefined') {
     var obs = new MutationObserver(function () {
+      if (isStandalonePwa()) return;
       var bookSidebar = document.getElementById('stardust-sidebar');
       if (bookSidebar && !bookSidebar.querySelector('.rs-mobile-network-section')) {
         injectIntoContainer(bookSidebar, 'always');

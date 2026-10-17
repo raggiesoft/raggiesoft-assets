@@ -635,3 +635,30 @@ html[data-bs-theme="light"] .terminal-card .text-muted {
     display: none !important;
   }
 }
+
+/* ==========================================================================
+   4. Native PWA Immersion Mode (Standalone / Window-Controls-Overlay)
+   ==========================================================================
+   When RaggieSoft Book Reader (books.raggiesoft.com), The Listening Room
+   (music.raggiesoft.com), or any other RaggieSoft property is running as an
+   installed OS Progressive Web App, hide the cross-site RaggieSoft Network
+   Menu (.rs-network-bar and .rs-mobile-network-section) so native app
+   immersion is preserved.
+   ========================================================================== */
+@media (display-mode: standalone),
+       (display-mode: window-controls-overlay),
+       (display-mode: minimal-ui),
+       (display-mode: fullscreen) {
+  .rs-network-bar,
+  .rs-mobile-network-section {
+    display: none !important;
+  }
+}
+
+html.is-pwa-standalone .rs-network-bar,
+html.is-pwa-standalone .rs-mobile-network-section,
+body.is-pwa-standalone .rs-network-bar,
+body.is-pwa-standalone .rs-mobile-network-section {
+  display: none !important;
+}
+
