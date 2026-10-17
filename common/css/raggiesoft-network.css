@@ -6,10 +6,8 @@
  * ============================================================================
  * Architectural Purpose:
  * 1. Styles the omnidirectional RaggieSoft Ecosystem Network Bar (`.rs-network-bar`)
- *    so visitors can seamlessly traverse between all 10 RaggieSoft properties in
- *    every direction (`raggiesoft.com` <-> `nebulae` <-> `music` <-> `books` <->
- *    `stardust` <-> `engineroom` <-> `lore` <-> `corporate` <-> `storetrainer` <->
- *    `michaelpragsdale.com`).
+ *    on desktop viewports and unifies it into each property's single mobile
+ *    hamburger menu (`.rs-mobile-network-section`) on mobile/tablet viewports.
  * 2. Enforces strict WCAG 2.1 AA / Section 508 color contrast ratios (>= 4.5:1
  *    for normal text, >= 3.0:1 for UI components) across both Light Mode and
  *    Dark Mode, specifically overriding low-contrast Bootstrap 5.3.8 defaults
@@ -102,6 +100,205 @@ html[data-bs-theme="light"] .rs-network-bar {
   color: #38bdf8 !important;
   border-color: rgba(56, 189, 248, 0.55);
   font-weight: 700;
+}
+
+/* ==========================================================================
+   1B. Mobile Single-Hamburger Unification & 2-Column Switcher Grid
+   ========================================================================== */
+
+/* Hide top `.rs-network-bar` on mobile when the property has a native hamburger menu */
+@media (max-width: 1120px) {
+  body:has(#primary-navigation) .rs-network-bar,
+  body.rs-has-primary-nav .rs-network-bar {
+    display: none !important;
+  }
+}
+
+@media (max-width: 767.98px) {
+  body:has(#header-navigation-panel, #navbarCollapse, #music-mobile-navigation) .rs-network-bar,
+  body.rs-has-md-nav .rs-network-bar {
+    display: none !important;
+  }
+}
+
+/* Injected `.rs-mobile-network-section` inside each site's existing hamburger menu */
+.rs-mobile-network-section {
+  display: none;
+  width: 100%;
+  margin-top: 0.85rem;
+  padding-top: 0.85rem;
+  border-top: 1px solid rgba(148, 163, 184, 0.35);
+}
+
+.rs-mobile-network-section[data-rs-breakpoint="always"] {
+  display: block;
+}
+
+@media (max-width: 1120px) {
+  .rs-mobile-network-section[data-rs-breakpoint="1120"] {
+    display: block !important;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .rs-mobile-network-section[data-rs-breakpoint="768"] {
+    display: block !important;
+  }
+}
+
+.rs-mobile-network-title {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-size: 0.7rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #fbbf24;
+  margin-bottom: 0.55rem;
+}
+
+html[data-bs-theme="light"] .rs-mobile-network-title,
+html[data-theme="light"] .rs-mobile-network-title,
+body.theme-light .rs-mobile-network-title,
+body.theme-sepia .rs-mobile-network-title {
+  color: #854d0e;
+}
+
+@media (prefers-color-scheme: light) {
+  html:not([data-bs-theme="dark"]):not([data-theme="dark"]) .rs-mobile-network-title {
+    color: #854d0e;
+  }
+}
+
+.rs-mobile-network-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.4rem;
+  list-style: none !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  width: 100%;
+}
+
+.rs-mobile-network-grid > li {
+  min-width: 0;
+  margin: 0;
+  padding: 0;
+}
+
+.rs-mobile-network-link {
+  display: flex !important;
+  align-items: center;
+  gap: 0.4rem;
+  width: 100%;
+  min-height: 40px;
+  padding: 0.4rem 0.6rem;
+  border-radius: 0.45rem;
+  background-color: rgba(15, 23, 42, 0.75);
+  color: #f8fafc !important;
+  border: 1px solid rgba(148, 163, 184, 0.3);
+  font-size: 0.76rem;
+  font-weight: 700;
+  text-decoration: none !important;
+  line-height: 1.2;
+  transition: background-color 0.15s ease, border-color 0.15s ease, color 0.15s ease;
+}
+
+.rs-mobile-network-link:hover,
+.rs-mobile-network-link:focus-visible {
+  background-color: rgba(30, 41, 59, 0.95);
+  border-color: #38bdf8;
+  color: #38bdf8 !important;
+}
+
+.rs-mobile-network-link.is-active,
+.rs-mobile-network-link[aria-current="page"] {
+  background-color: rgba(56, 189, 248, 0.18);
+  border-color: #38bdf8;
+  color: #38bdf8 !important;
+}
+
+html[data-bs-theme="light"] .rs-mobile-network-link,
+html[data-theme="light"] .rs-mobile-network-link,
+body.theme-light .rs-mobile-network-link,
+body.theme-sepia .rs-mobile-network-link {
+  background-color: #f1f5f9;
+  color: #0f172a !important;
+  border-color: #94a3b8;
+}
+
+html[data-bs-theme="light"] .rs-mobile-network-link:hover,
+html[data-bs-theme="light"] .rs-mobile-network-link.is-active,
+html[data-bs-theme="light"] .rs-mobile-network-link[aria-current="page"],
+html[data-theme="light"] .rs-mobile-network-link.is-active {
+  background-color: #e0f2fe;
+  color: #0369a1 !important;
+  border-color: #0284c7;
+}
+
+@media (prefers-color-scheme: light) {
+  html:not([data-bs-theme="dark"]):not([data-theme="dark"]) .rs-mobile-network-link {
+    background-color: #f1f5f9;
+    color: #0f172a !important;
+    border-color: #94a3b8;
+  }
+  html:not([data-bs-theme="dark"]):not([data-theme="dark"]) .rs-mobile-network-link.is-active {
+    background-color: #e0f2fe;
+    color: #0369a1 !important;
+    border-color: #0284c7;
+  }
+}
+
+.rs-mobile-network-icon {
+  flex-shrink: 0;
+  font-size: 0.9rem;
+}
+
+.rs-mobile-network-text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+/* Standalone Network Bar Hamburger (for books.raggiesoft.com & lore.raggiesoft.com on mobile) */
+.rs-network-mobile-toggle {
+  display: none;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  min-height: 38px;
+  padding: 0.3rem 0.65rem;
+  border-radius: 0.4rem;
+  border: 1px solid rgba(148, 163, 184, 0.4);
+  background-color: #1e293b;
+  color: #f8fafc;
+  font-size: 0.75rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+@media (max-width: 767.98px) {
+  .rs-standalone-network-bar .rs-network-mobile-toggle {
+    display: inline-flex;
+  }
+  .rs-standalone-network-bar .rs-network-links {
+    display: none;
+    width: 100%;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.4rem;
+    padding-top: 0.5rem;
+    margin-top: 0.35rem;
+    border-top: 1px solid rgba(148, 163, 184, 0.28);
+  }
+  .rs-standalone-network-bar.is-open .rs-network-links {
+    display: grid;
+  }
+  .rs-standalone-network-bar .rs-network-links a {
+    width: 100%;
+    min-height: 38px;
+    padding: 0.4rem 0.6rem;
+    background-color: rgba(30, 41, 59, 0.7);
+    border-color: rgba(148, 163, 184, 0.25);
+  }
 }
 
 /* ==========================================================================
@@ -248,8 +445,8 @@ html[data-bs-theme="light"] .terminal-card .text-muted {
 }
 
 @media print {
-  .rs-network-bar {
+  .rs-network-bar,
+  .rs-mobile-network-section {
     display: none !important;
   }
 }
-
