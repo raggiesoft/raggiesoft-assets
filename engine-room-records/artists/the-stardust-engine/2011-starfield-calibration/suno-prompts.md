@@ -938,7 +938,8 @@ Riding on the light...
 
 ## Track 11: Echoes in the Wire (Cosmic Tidal Lock Mix)
 * **Original Album / Suno Workspace:** 1997: *Hard Reset* (Disc 1, Track 9)
-* **Status:** Needs Suno Generation
+* **Lore Note:** Written in 1997 to permanently replace 1989's *"If You Walked Away"* (which caused Cassidy severe abandonment distress on tour), *"Echoes in the Wire"* is the story of Cassidy finding comfort, quiet, and safety when her brother and safe person Ryan is hugging her tightly backstage after the stage static fades out.
+* **Status:** Completed (`4:29`)
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/echoes-in-the-wire-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** `Female`
 * **Weirdness:** `0%`

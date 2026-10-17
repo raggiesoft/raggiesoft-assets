@@ -1,7 +1,7 @@
 **LORE NOTE:**
-During the 1989 *Neon Hearts Tour*, Apex Records forced the band to perform the pop ballad *If You Walked Away*. For Cassidy, who is autistic, the song was a recurring trauma—a terrifying "what-if" scenario of abandonment that caused her legitimate distress, requiring Ryan to ground her with deep-pressure hugs after every show. 
+During the 1989 *Neon Hearts Tour* and 1990 *Live in Chicago* run, Apex Records forced the band to perform the pop ballad *"If You Walked Away."* For Cassidy, who is autistic, singing that terrifying "what-if" scenario of abandonment every night caused severe sensory and emotional distress—requiring her brother and safe person, Ryan, to hold her tightly in twenty-minute deep-pressure grounding hugs backstage after every show until the static in her head faded out.
 
-Upon gaining their independence with *Hard Reset*, the band permanently retired that song from their live catalog. In its place, they introduced *Echoes in the Wire*, a pure, unapologetic 1980s power ballad. Instead of fear and abandonment, this track is about surviving the storm and leaving a legacy together. It became the centerpiece of the *Hard Reset Tour*, transforming a moment of nightly anxiety into a triumphant, healing celebration of their unity.
+Upon gaining their independence with *Hard Reset*, the band permanently retired *"If You Walked Away"* and wrote *"Echoes in the Wire"* specifically to replace it. Rather than reliving the terror of abandonment, *"Echoes in the Wire"* is the story of what happens *after* the curtain falls: Cassidy finding complete comfort, quiet, and safety when Ryan is hugging her tightly (*"All the static faded out / Leaving nothing but the doubt... And in the quiet, I can hear / A frequency coming clear"*). It became the emotional centerpiece of the *Hard Reset Tour*, transforming a slot that once caused nightly trauma into a healing celebration of sibling sanctuary.
 
 **LYRICS:**
 
