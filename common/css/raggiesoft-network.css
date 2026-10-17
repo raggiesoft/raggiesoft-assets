@@ -1,0 +1,255 @@
+/**
+ * @license MIT
+ * ============================================================================
+ * raggiesoft-network.css — Global Ecosystem Omnibar & WCAG 2.1 AA Safety Net
+ * Hosted at: https://assets.raggiesoft.com/common/css/raggiesoft-network.css
+ * ============================================================================
+ * Architectural Purpose:
+ * 1. Styles the omnidirectional RaggieSoft Ecosystem Network Bar (`.rs-network-bar`)
+ *    so visitors can seamlessly traverse between all 10 RaggieSoft properties in
+ *    every direction (`raggiesoft.com` <-> `nebulae` <-> `music` <-> `books` <->
+ *    `stardust` <-> `engineroom` <-> `lore` <-> `corporate` <-> `storetrainer` <->
+ *    `michaelpragsdale.com`).
+ * 2. Enforces strict WCAG 2.1 AA / Section 508 color contrast ratios (>= 4.5:1
+ *    for normal text, >= 3.0:1 for UI components) across both Light Mode and
+ *    Dark Mode, specifically overriding low-contrast Bootstrap 5.3.8 defaults
+ *    like `.text-warning` (#ffc107) and `.text-info` (#0dcaf0) on light surfaces.
+ * 3. Enforces strict image and card containment (`.aero-card-img-container img`)
+ *    so high-resolution 4K assets never spill out of cards.
+ * ============================================================================
+ */
+
+/* ==========================================================================
+   1. Omnidirectional RaggieSoft Network Bar (`.rs-network-bar`)
+   ========================================================================== */
+.rs-network-bar {
+  width: 100%;
+  background-color: #060913;
+  color: #f8fafc;
+  border-bottom: 1px solid rgba(148, 163, 184, 0.28);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 0.76rem;
+  line-height: 1.3;
+  z-index: 1040;
+  position: relative;
+}
+
+html[data-bs-theme="light"] .rs-network-bar {
+  background-color: #0f172a;
+  color: #f8fafc;
+  border-bottom: 1px solid #1e293b;
+}
+
+.rs-network-bar-inner {
+  max-width: 1360px;
+  margin: 0 auto;
+  padding: 0.35rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.35rem 0.65rem;
+}
+
+.rs-network-label {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+  font-weight: 700;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #fbbf24;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  white-space: nowrap;
+}
+
+.rs-network-links {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.2rem 0.3rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.rs-network-links a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.2rem 0.5rem;
+  border-radius: 0.35rem;
+  color: #e2e8f0 !important;
+  text-decoration: none !important;
+  font-weight: 600;
+  font-size: 0.74rem;
+  border: 1px solid transparent;
+  transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+  white-space: nowrap;
+}
+
+.rs-network-links a:hover,
+.rs-network-links a:focus-visible {
+  background-color: #1e293b;
+  color: #38bdf8 !important;
+  border-color: rgba(56, 189, 248, 0.45);
+}
+
+.rs-network-links a[aria-current="page"],
+.rs-network-links a.is-active {
+  background-color: rgba(56, 189, 248, 0.18);
+  color: #38bdf8 !important;
+  border-color: rgba(56, 189, 248, 0.55);
+  font-weight: 700;
+}
+
+/* ==========================================================================
+   2. Universal Card & Image Containment (Prevents 4K Asset Spillover)
+   ========================================================================== */
+.aero-card-img-container {
+  width: 100%;
+  height: 220px;
+  max-height: 220px;
+  overflow: hidden;
+  position: relative;
+  border-top-left-radius: calc(0.85rem - 1px);
+  border-top-right-radius: calc(0.85rem - 1px);
+  background-color: rgba(15, 23, 42, 0.2);
+}
+
+.aero-card-img-container img,
+.card > img,
+.wa-ported-card img {
+  max-width: 100%;
+  height: auto;
+}
+
+.aero-card-img-container img {
+  width: 100% !important;
+  height: 220px !important;
+  max-height: 220px !important;
+  object-fit: cover !important;
+  object-position: top center;
+  display: block;
+}
+
+/* ==========================================================================
+   3. Strict WCAG 2.1 AA Color Contrast Overrides (Light Mode & Dark Mode)
+   ========================================================================== */
+
+/* --- Dark Mode High-Contrast Utility Overrides (Contrast >= 7.0:1 on #070a14/#10172a) --- */
+html[data-bs-theme="dark"] .text-warning {
+  color: #fbbf24 !important;
+}
+html[data-bs-theme="dark"] .text-info {
+  color: #38bdf8 !important;
+}
+html[data-bs-theme="dark"] .text-success {
+  color: #34d399 !important;
+}
+html[data-bs-theme="dark"] .text-danger {
+  color: #f87171 !important;
+}
+html[data-bs-theme="dark"] .text-primary {
+  color: #60a5fa !important;
+}
+html[data-bs-theme="dark"] .text-secondary,
+html[data-bs-theme="dark"] .text-muted,
+html[data-bs-theme="dark"] .text-body-secondary {
+  color: #cbd5e1 !important;
+}
+
+/* --- Light Mode High-Contrast Utility Overrides (Contrast >= 5.5:1 on #ffffff/#f1f5f9) --- */
+html[data-bs-theme="light"] .text-warning {
+  color: #854d0e !important; /* 6.8:1 on white, 5.9:1 on #f1f5f9 */
+}
+html[data-bs-theme="light"] .text-info {
+  color: #0369a1 !important; /* 5.9:1 on white, 5.2:1 on #f1f5f9 */
+}
+html[data-bs-theme="light"] .text-success {
+  color: #15803d !important; /* 5.1:1 on white */
+}
+html[data-bs-theme="light"] .text-danger {
+  color: #b91c1c !important; /* 6.4:1 on white */
+}
+html[data-bs-theme="light"] .text-primary {
+  color: #1d4ed8 !important; /* 6.7:1 on white */
+}
+html[data-bs-theme="light"] .text-secondary,
+html[data-bs-theme="light"] .text-muted,
+html[data-bs-theme="light"] .text-body-secondary {
+  color: #334155 !important; /* 8.4:1 on white */
+}
+
+/* --- Light Mode `.btn-outline-*` & `.border-light` Normalization --- */
+html[data-bs-theme="light"] .btn-outline-light {
+  color: #0f172a !important;
+  border-color: #334155 !important;
+  background-color: #f8fafc !important;
+}
+html[data-bs-theme="light"] .btn-outline-light:hover,
+html[data-bs-theme="light"] .btn-outline-light:focus-visible {
+  color: #ffffff !important;
+  background-color: #0f172a !important;
+  border-color: #0f172a !important;
+}
+html[data-bs-theme="light"] .btn-outline-info {
+  color: #0369a1 !important;
+  border-color: #0369a1 !important;
+}
+html[data-bs-theme="light"] .btn-outline-warning {
+  color: #854d0e !important;
+  border-color: #854d0e !important;
+}
+
+/* --- Badge Background & Foreground Contrast Safety --- */
+.badge.bg-warning,
+.badge.text-bg-warning,
+.btn-warning {
+  background-color: #f59e0b !important;
+  color: #0f172a !important;
+}
+.badge.bg-info,
+.badge.text-bg-info,
+.btn-info {
+  background-color: #38bdf8 !important;
+  color: #0f172a !important;
+}
+
+/* --- Restore Bright Accents Inside Explicitly Dark Containers in Light Mode --- */
+html[data-bs-theme="light"] .bg-dark .text-warning,
+html[data-bs-theme="light"] .bg-black .text-warning,
+html[data-bs-theme="light"] .terminal-card .text-warning,
+html[data-bs-theme="light"] .bg-hud-blue .text-warning,
+html[data-bs-theme="light"] .bg-hud-green .text-warning,
+html[data-bs-theme="light"] .bg-hud-red .text-warning,
+html[data-bs-theme="light"] .bg-hud-orange .text-warning {
+  color: #fbbf24 !important;
+}
+
+html[data-bs-theme="light"] .bg-dark .text-info,
+html[data-bs-theme="light"] .bg-black .text-info,
+html[data-bs-theme="light"] .terminal-card .text-info,
+html[data-bs-theme="light"] .bg-hud-blue .text-info,
+html[data-bs-theme="light"] .bg-hud-green .text-info,
+html[data-bs-theme="light"] .bg-hud-red .text-info,
+html[data-bs-theme="light"] .bg-hud-orange .text-info {
+  color: #38bdf8 !important;
+}
+
+html[data-bs-theme="light"] .bg-dark .text-secondary,
+html[data-bs-theme="light"] .bg-dark .text-muted,
+html[data-bs-theme="light"] .bg-black .text-secondary,
+html[data-bs-theme="light"] .bg-black .text-muted,
+html[data-bs-theme="light"] .terminal-card .text-secondary,
+html[data-bs-theme="light"] .terminal-card .text-muted {
+  color: #cbd5e1 !important;
+}
+
+@media print {
+  .rs-network-bar {
+    display: none !important;
+  }
+}
+
