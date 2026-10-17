@@ -38,7 +38,6 @@
     { id: 'nebulae', href: 'https://nebulae.raggiesoft.com', host: 'nebulae.raggiesoft.com', icon: '🌌', label: 'Nebulae Atlas' },
     { id: 'books', href: 'https://books.raggiesoft.com', host: 'books.raggiesoft.com', icon: '📚', label: 'Book Reader' },
     { id: 'engineroom', href: 'https://engineroom.raggiesoft.com', host: 'engineroom.raggiesoft.com', icon: '⚙️', label: 'Engine Room' },
-    { id: 'lore', href: 'https://lore.raggiesoft.com', host: 'lore.raggiesoft.com', icon: '🏛️', label: 'Lore Archive' },
     { id: 'corporate', href: 'https://corporate.raggiesoft.com', host: 'corporate.raggiesoft.com', icon: '🏢', label: 'Corporate Media' },
     { id: 'storetrainer', href: 'https://storetrainer.raggiesoft.com', host: 'storetrainer.raggiesoft.com', icon: '💾', label: 'StoreTrainer' },
     { id: 'portfolio', href: 'https://michaelpragsdale.com', host: 'michaelpragsdale.com', icon: '👔', label: 'M. P. Ragsdale' }
@@ -452,7 +451,8 @@
       var href = (a.getAttribute('href') || '').toLowerCase();
       if (
         href.indexOf('stardust.raggiesoft.com') !== -1 ||
-        href.indexOf('music.raggiesoft.com') !== -1
+        href.indexOf('music.raggiesoft.com') !== -1 ||
+        href.indexOf('lore.raggiesoft.com') !== -1
       ) {
         hasLegacyTopLevelLinks = true;
       }
@@ -461,12 +461,13 @@
     if (!existingDropdown || hasLegacyTopLevelLinks || !linksList.getAttribute('data-rs-upgraded')) {
       linksList.setAttribute('data-rs-upgraded', 'true');
 
-      /* Remove standalone top-level stardust & music links if present in static HTML */
+      /* Remove standalone top-level stardust, music, and unlaunched lore links if present in static HTML */
       topAnchors.forEach(function (a) {
         var href = (a.getAttribute('href') || '').toLowerCase();
         if (
           href.indexOf('stardust.raggiesoft.com') !== -1 ||
-          href.indexOf('music.raggiesoft.com') !== -1
+          href.indexOf('music.raggiesoft.com') !== -1 ||
+          href.indexOf('lore.raggiesoft.com') !== -1
         ) {
           var parentLi = a.parentElement;
           if (parentLi && parentLi.parentElement === linksList) {
