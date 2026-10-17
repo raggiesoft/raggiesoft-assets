@@ -4,50 +4,95 @@
  * raggiesoft-assets/common/js/raggiesoft-network.js
  * ============================================================================
  * Architectural Overview:
- * Unified Omnidirectional Ecosystem Navigation & Mobile Hamburger Enhancer
- * shared across all 10 RaggieSoft properties:
+ * Unified Omnidirectional Ecosystem Navigation, Engine Room Band Roster
+ * Dropdown Menu, & Mobile Single-Hamburger Enhancer shared across all
+ * RaggieSoft properties:
  *   1. raggiesoft.com (Hub)
  *   2. nebulae.raggiesoft.com (Nebulae Atlas)
  *   3. music.raggiesoft.com (The Listening Room)
  *   4. books.raggiesoft.com (RaggieSoft Book Reader)
- *   5. stardust.raggiesoft.com (The Stardust Engine)
- *   6. engineroom.raggiesoft.com (Engine Room Records)
- *   7. lore.raggiesoft.com (Lore Archive)
- *   8. corporate.raggiesoft.com (RaggieSoft Media)
- *   9. storetrainer.raggiesoft.com (RaggieSoft StoreTrainer)
- *  10. michaelpragsdale.com (Executive Systems Architect Dossier)
- *
- * Mobile Single-Hamburger Strategy:
- * - On desktop viewports, `.rs-network-bar` renders horizontally at the top
- *   of the viewport above the property header.
- * - On mobile/tablet viewports where the property's native hamburger button is
- *   active, `.rs-network-bar` hides completely (`display: none`) so there are
- *   never two stacked bars or two hamburger buttons.
- * - This script automatically injects a 2-column "✦ Switch RaggieSoft Property"
- *   app-switcher grid (`.rs-mobile-network-section`) at the bottom of the
- *   property's existing mobile hamburger menu container (`#primary-navigation`,
- *   `#header-navigation-panel`, `#navbarCollapse`, `#music-mobile-navigation`,
- *   or `#stardust-sidebar`).
- * - For standalone full-screen apps without a native top navbar hamburger
- *   (`books.raggiesoft.com` landing/catalog views and `lore.raggiesoft.com`),
- *   this script injects a single 44x44px Section 508 hamburger toggle button
- *   directly into `.rs-network-bar` on mobile viewports.
+ *   5. engineroom.raggiesoft.com (Engine Room Records + Band Roster Menu)
+ *      └── Alphabetical Band Roster (A–Z):
+ *          • Crimson Node (engineroom.raggiesoft.com/artists/crimson-node)
+ *          • Firelight (engineroom.raggiesoft.com/artists/firelight)
+ *          • Fractured Prisms (engineroom.raggiesoft.com/artists/fractured-prisms)
+ *          • Mana Canvas (engineroom.raggiesoft.com/artists/mana-canvas)
+ *          • The Arctic Symphony Project (engineroom.raggiesoft.com/artists/the-arctic-symphony-project)
+ *          • The Paper Wall (engineroom.raggiesoft.com/artists/the-paper-wall)
+ *          • The Stardust Engine (stardust.raggiesoft.com)
+ *   6. lore.raggiesoft.com (Lore Archive)
+ *   7. corporate.raggiesoft.com (RaggieSoft Media)
+ *   8. storetrainer.raggiesoft.com (RaggieSoft StoreTrainer)
+ *   9. michaelpragsdale.com (Executive Systems Architect Dossier)
  * ============================================================================
  */
 (function () {
   'use strict';
 
+  /**
+   * Top-level RaggieSoft properties (The Stardust Engine now lives inside
+   * the alphabetical Engine Room Records Band Roster menu).
+   */
   var NETWORK_SITES = [
     { id: 'hub', href: 'https://raggiesoft.com', host: 'raggiesoft.com', icon: '🌐', label: 'RaggieSoft Hub' },
     { id: 'nebulae', href: 'https://nebulae.raggiesoft.com', host: 'nebulae.raggiesoft.com', icon: '🌌', label: 'Nebulae Atlas' },
     { id: 'music', href: 'https://music.raggiesoft.com', host: 'music.raggiesoft.com', icon: '🎧', label: 'Listening Room' },
     { id: 'books', href: 'https://books.raggiesoft.com', host: 'books.raggiesoft.com', icon: '📚', label: 'Book Reader' },
-    { id: 'stardust', href: 'https://stardust.raggiesoft.com', host: 'stardust.raggiesoft.com', icon: '🚀', label: 'Stardust Engine' },
     { id: 'engineroom', href: 'https://engineroom.raggiesoft.com', host: 'engineroom.raggiesoft.com', icon: '⚙️', label: 'Engine Room' },
     { id: 'lore', href: 'https://lore.raggiesoft.com', host: 'lore.raggiesoft.com', icon: '🏛️', label: 'Lore Archive' },
     { id: 'corporate', href: 'https://corporate.raggiesoft.com', host: 'corporate.raggiesoft.com', icon: '🏢', label: 'Corporate Media' },
     { id: 'storetrainer', href: 'https://storetrainer.raggiesoft.com', host: 'storetrainer.raggiesoft.com', icon: '💾', label: 'StoreTrainer' },
     { id: 'portfolio', href: 'https://michaelpragsdale.com', host: 'michaelpragsdale.com', icon: '👔', label: 'M. P. Ragsdale' }
+  ];
+
+  /**
+   * Official Engine Room Records Band Roster in strict alphabetical order (A–Z).
+   * Note: The Stardust Engine links to its dedicated cosmic portal (stardust.raggiesoft.com),
+   * while all other bands link to their lore dossiers on engineroom.raggiesoft.com/artists/{slug}.
+   */
+  var ENGINE_ROOM_BANDS = [
+    {
+      slug: 'crimson-node',
+      name: 'Crimson Node',
+      href: 'https://engineroom.raggiesoft.com/artists/crimson-node',
+      icon: '🔴'
+    },
+    {
+      slug: 'firelight',
+      name: 'Firelight',
+      href: 'https://engineroom.raggiesoft.com/artists/firelight',
+      icon: '🔥'
+    },
+    {
+      slug: 'fractured-prisms',
+      name: 'Fractured Prisms',
+      href: 'https://engineroom.raggiesoft.com/artists/fractured-prisms',
+      icon: '💎'
+    },
+    {
+      slug: 'mana-canvas',
+      name: 'Mana Canvas',
+      href: 'https://engineroom.raggiesoft.com/artists/mana-canvas',
+      icon: '🎨'
+    },
+    {
+      slug: 'the-arctic-symphony-project',
+      name: 'The Arctic Symphony Project',
+      href: 'https://engineroom.raggiesoft.com/artists/the-arctic-symphony-project',
+      icon: '❄️'
+    },
+    {
+      slug: 'the-paper-wall',
+      name: 'The Paper Wall',
+      href: 'https://engineroom.raggiesoft.com/artists/the-paper-wall',
+      icon: '🧱'
+    },
+    {
+      slug: 'the-stardust-engine',
+      name: 'The Stardust Engine',
+      href: 'https://stardust.raggiesoft.com',
+      icon: '🚀'
+    }
   ];
 
   function getCurrentHost() {
@@ -58,16 +103,56 @@
     }
   }
 
+  function getCurrentPathname() {
+    try {
+      return (window.location.pathname || '/').replace(/\/+$/, '') || '/';
+    } catch (e) {
+      return '/';
+    }
+  }
+
+  function isBandActive(band, currentHost, currentPath) {
+    if (band.slug === 'the-stardust-engine') {
+      return (
+        currentHost === 'stardust.raggiesoft.com' ||
+        (currentHost === 'engineroom.raggiesoft.com' &&
+          (currentPath.indexOf('/artists/the-stardust-engine') === 0 ||
+            currentPath.indexOf('/artists/stardust-engine') === 0))
+      );
+    }
+    return (
+      currentHost === 'engineroom.raggiesoft.com' &&
+      currentPath.indexOf('/artists/' + band.slug) === 0
+    );
+  }
+
   /**
    * Injects core defensive CSS rules directly into <head> so that even if a browser
-   * or Cloudflare edge node serves a stale cached stylesheet, `.rs-mobile-network-section`
-   * is strictly hidden on desktop and rendered as a clean 2-column grid on mobile.
+   * or Cloudflare edge node serves a stale cached stylesheet, `.rs-network-dropdown`
+   * and `.rs-mobile-network-section` render cleanly across all viewports.
    */
   function ensureNetworkStylesInjected() {
     if (!document.head || document.getElementById('rs-network-core-css')) return;
     var style = document.createElement('style');
     style.id = 'rs-network-core-css';
     style.textContent = [
+      '.rs-network-bar { position: relative; z-index: 1055 !important; overflow: visible !important; }',
+      '.rs-network-bar-inner, .rs-network-links { overflow: visible !important; }',
+      '.rs-network-dropdown { position: relative; display: inline-flex; align-items: center; }',
+      '.rs-network-dropdown-toggle { display: inline-flex; align-items: center; gap: 0.28rem; padding: 0.2rem 0.5rem; border-radius: 0.35rem; background: transparent; color: #e2e8f0 !important; font-family: inherit; font-weight: 600; font-size: 0.74rem; line-height: 1.3; border: 1px solid transparent; cursor: pointer; white-space: nowrap; transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease; }',
+      '.rs-network-dropdown-toggle:hover, .rs-network-dropdown-toggle:focus-visible, .rs-network-dropdown.is-open .rs-network-dropdown-toggle { background-color: #1e293b; color: #38bdf8 !important; border-color: rgba(56, 189, 248, 0.45); }',
+      '.rs-network-dropdown-toggle.is-active { background-color: rgba(56, 189, 248, 0.18); color: #38bdf8 !important; border-color: rgba(56, 189, 248, 0.55); font-weight: 700; }',
+      '.rs-network-caret { font-size: 0.65rem; opacity: 0.85; transition: transform 0.15s ease; }',
+      '.rs-network-dropdown.is-open .rs-network-caret { transform: rotate(180deg); }',
+      '.rs-network-dropdown-menu { display: none; position: absolute; top: calc(100% + 0.25rem); left: 0; min-width: 250px; background-color: #0b1120; color: #f8fafc; border: 1px solid rgba(56, 189, 248, 0.45); border-radius: 0.55rem; padding: 0.4rem; box-shadow: 0 16px 36px rgba(0, 0, 0, 0.65); list-style: none !important; margin: 0 !important; z-index: 2000; }',
+      '.rs-network-dropdown.is-open .rs-network-dropdown-menu { display: block !important; }',
+      '@media (hover: hover) and (pointer: fine) { .rs-network-dropdown:hover .rs-network-dropdown-menu { display: block !important; } }',
+      '.rs-network-dropdown-menu > li { list-style: none !important; margin: 0 !important; padding: 0 !important; }',
+      '.rs-network-dropdown-header { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 0.64rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em; color: #fbbf24; padding: 0.35rem 0.55rem 0.2rem; }',
+      '.rs-network-dropdown-divider { height: 1px; background-color: rgba(148, 163, 184, 0.25); margin: 0.3rem 0.25rem; }',
+      '.rs-network-dropdown-menu a { display: flex !important; align-items: center; gap: 0.45rem; width: 100%; padding: 0.38rem 0.6rem !important; border-radius: 0.38rem; font-size: 0.76rem !important; font-weight: 600; color: #e2e8f0 !important; text-decoration: none !important; border: 1px solid transparent; white-space: nowrap; }',
+      '.rs-network-dropdown-menu a:hover, .rs-network-dropdown-menu a:focus-visible { background-color: #1e293b !important; color: #38bdf8 !important; border-color: rgba(56, 189, 248, 0.4) !important; }',
+      '.rs-network-dropdown-menu a.is-active, .rs-network-dropdown-menu a[aria-current="page"] { background-color: rgba(56, 189, 248, 0.18) !important; color: #38bdf8 !important; border-color: rgba(56, 189, 248, 0.55) !important; font-weight: 700; }',
       '.rs-mobile-network-section { display: none; width: 100%; margin-top: 0.75rem; padding-top: 0.75rem; border-top: 1px solid rgba(148, 163, 184, 0.28); }',
       '.rs-mobile-network-title { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 0.68rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em; color: #fbbf24; margin-bottom: 0.5rem; padding: 0 0.25rem; display: flex; align-items: center; gap: 0.35rem; }',
       '[data-bs-theme="light"] .rs-mobile-network-title, html.light .rs-mobile-network-title { color: #b45309; }',
@@ -85,8 +170,152 @@
     document.head.appendChild(style);
   }
 
+  /**
+   * Builds the HTML for the `⚙️ Engine Room ▾` dropdown `<li>` item on `.rs-network-bar`.
+   */
+  function buildEngineRoomDropdownLiHtml(currentHost, currentPath) {
+    var isEngineRoomGroupActive =
+      currentHost === 'engineroom.raggiesoft.com' || currentHost === 'stardust.raggiesoft.com';
+    var isImprintHomeActive =
+      currentHost === 'engineroom.raggiesoft.com' &&
+      currentPath.indexOf('/artists') !== 0;
+    var isArtistsDirActive =
+      currentHost === 'engineroom.raggiesoft.com' && currentPath === '/artists';
+
+    var bandsHtml = ENGINE_ROOM_BANDS.map(function (band) {
+      var active = isBandActive(band, currentHost, currentPath);
+      return (
+        '<li role="none">' +
+        '<a role="menuitem" href="' + band.href + '"' +
+        (active ? ' class="is-active" aria-current="page"' : '') +
+        ' data-no-spa="true">' +
+        '<span aria-hidden="true">' + band.icon + '</span>' +
+        '<span>' + band.name + '</span>' +
+        '</a>' +
+        '</li>'
+      );
+    }).join('');
+
+    return (
+      '<li class="rs-network-dropdown">' +
+      '<button type="button" class="rs-network-dropdown-toggle' +
+      (isEngineRoomGroupActive ? ' is-active' : '') +
+      '" aria-expanded="false" aria-haspopup="true">' +
+      '<span aria-hidden="true">⚙️</span>' +
+      '<span>Engine Room</span>' +
+      '<span class="rs-network-caret" aria-hidden="true">▾</span>' +
+      '</button>' +
+      '<ul class="rs-network-dropdown-menu" role="menu" aria-label="Engine Room Records & Band Roster">' +
+      '<li role="none">' +
+      '<a role="menuitem" href="https://engineroom.raggiesoft.com"' +
+      (isImprintHomeActive ? ' class="is-active" aria-current="page"' : '') +
+      ' data-no-spa="true">' +
+      '<span aria-hidden="true">⚙️</span>' +
+      '<span>Engine Room Records Hub</span>' +
+      '</a>' +
+      '</li>' +
+      '<li role="none">' +
+      '<a role="menuitem" href="https://engineroom.raggiesoft.com/artists"' +
+      (isArtistsDirActive ? ' class="is-active" aria-current="page"' : '') +
+      ' data-no-spa="true">' +
+      '<span aria-hidden="true">🎸</span>' +
+      '<span>All Artists Directory (7)</span>' +
+      '</a>' +
+      '</li>' +
+      '<li class="rs-network-dropdown-divider" role="separator"></li>' +
+      '<li class="rs-network-dropdown-header" role="presentation">✦ Band Roster (A–Z)</li>' +
+      bandsHtml +
+      '</ul>' +
+      '</li>'
+    );
+  }
+
+  /**
+   * Upgrades `.rs-network-bar .rs-network-links` on any page so that:
+   * 1. Standalone top-level `stardust.raggiesoft.com` links are consolidated into
+   *    the `⚙️ Engine Room ▾` Band Roster dropdown.
+   * 2. `⚙️ Engine Room` renders as an accessible keyboard/mouse/touch dropdown
+   *    listing all 7 bands in strict alphabetical order.
+   */
+  function upgradeDesktopNetworkBar() {
+    var bar = document.querySelector('.rs-network-bar');
+    if (!bar) return;
+    var linksList = bar.querySelector('.rs-network-links');
+    if (!linksList) return;
+
+    var currentHost = getCurrentHost();
+    var currentPath = getCurrentPathname();
+
+    if (!linksList.getAttribute('data-rs-upgraded')) {
+      linksList.setAttribute('data-rs-upgraded', 'true');
+
+      /* Remove standalone top-level stardust link if present in static HTML */
+      var allAnchors = Array.prototype.slice.call(linksList.querySelectorAll(':scope > li > a'));
+      allAnchors.forEach(function (a) {
+        var href = (a.getAttribute('href') || '').toLowerCase();
+        if (href.indexOf('stardust.raggiesoft.com') !== -1) {
+          var parentLi = a.parentElement;
+          if (parentLi && parentLi.parentElement === linksList) {
+            linksList.removeChild(parentLi);
+          }
+        }
+      });
+
+      /* Replace or upgrade the Engine Room <li> with the Band Roster dropdown */
+      var existingDropdown = linksList.querySelector('.rs-network-dropdown');
+      var dropdownHtml = buildEngineRoomDropdownLiHtml(currentHost, currentPath);
+
+      if (existingDropdown) {
+        existingDropdown.outerHTML = dropdownHtml;
+      } else {
+        var engineAnchor = null;
+        var remainingAnchors = Array.prototype.slice.call(linksList.querySelectorAll(':scope > li > a'));
+        for (var i = 0; i < remainingAnchors.length; i++) {
+          var h = (remainingAnchors[i].getAttribute('href') || '').toLowerCase();
+          if (h.indexOf('engineroom.raggiesoft.com') !== -1) {
+            engineAnchor = remainingAnchors[i];
+            break;
+          }
+        }
+        if (engineAnchor && engineAnchor.parentElement) {
+          engineAnchor.parentElement.outerHTML = dropdownHtml;
+        } else {
+          linksList.insertAdjacentHTML('beforeend', dropdownHtml);
+        }
+      }
+
+      /* Wire up keyboard & click handlers on the dropdown */
+      var dropdownLi = linksList.querySelector('.rs-network-dropdown');
+      var toggleBtn = dropdownLi ? dropdownLi.querySelector('.rs-network-dropdown-toggle') : null;
+      if (dropdownLi && toggleBtn) {
+        toggleBtn.addEventListener('click', function (e) {
+          e.stopPropagation();
+          var open = dropdownLi.classList.toggle('is-open');
+          toggleBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+        });
+
+        document.addEventListener('click', function (e) {
+          if (!dropdownLi.contains(e.target) && dropdownLi.classList.contains('is-open')) {
+            dropdownLi.classList.remove('is-open');
+            toggleBtn.setAttribute('aria-expanded', 'false');
+          }
+        });
+
+        document.addEventListener('keydown', function (e) {
+          if (e.key === 'Escape' && dropdownLi.classList.contains('is-open')) {
+            dropdownLi.classList.remove('is-open');
+            toggleBtn.setAttribute('aria-expanded', 'false');
+            toggleBtn.focus();
+          }
+        });
+      }
+    }
+  }
+
   function buildMobileGridHtml(breakpointAttr) {
     var currentHost = getCurrentHost();
+    var currentPath = getCurrentPathname();
+
     var itemsHtml = NETWORK_SITES.map(function (site) {
       var isActive = currentHost === site.host;
       return (
@@ -101,11 +330,29 @@
       );
     }).join('');
 
+    var bandsHtml = ENGINE_ROOM_BANDS.map(function (band) {
+      var active = isBandActive(band, currentHost, currentPath);
+      return (
+        '<li>' +
+        '<a href="' + band.href + '" class="rs-mobile-network-link' + (active ? ' is-active' : '') + '"' +
+        (active ? ' aria-current="page"' : '') +
+        ' data-no-spa="true">' +
+        '<span class="rs-mobile-network-icon" aria-hidden="true">' + band.icon + '</span>' +
+        '<span class="rs-mobile-network-text">' + band.name + '</span>' +
+        '</a>' +
+        '</li>'
+      );
+    }).join('');
+
     return (
       '<div class="rs-mobile-network-section" data-rs-breakpoint="' + breakpointAttr + '" role="region" aria-label="RaggieSoft Ecosystem Switcher">' +
       '<div class="rs-mobile-network-title">✦ Switch RaggieSoft Property</div>' +
       '<ul class="rs-mobile-network-grid">' +
       itemsHtml +
+      '</ul>' +
+      '<div class="rs-mobile-network-title" style="margin-top: 0.65rem;">⚙️ Engine Room Bands (A–Z)</div>' +
+      '<ul class="rs-mobile-network-grid">' +
+      bandsHtml +
       '</ul>' +
       '</div>'
     );
@@ -156,6 +403,8 @@
   function initRaggieSoftNetworkMenu() {
     ensureNetworkStylesInjected();
     if (!document.body) return;
+
+    upgradeDesktopNetworkBar();
 
     /* 1. Group A: Properties using #primary-navigation (1120px mobile breakpoint) */
     var primaryNav = document.getElementById('primary-navigation');
