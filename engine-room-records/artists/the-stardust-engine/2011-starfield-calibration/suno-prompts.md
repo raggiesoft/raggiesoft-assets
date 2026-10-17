@@ -1,7 +1,7 @@
 # The Stardust Engine — *Starfield Calibration* (2011) Suno Production Sheet
 
 * **Artist:** The Stardust Engine
-* **Album:** *Starfield Calibration* (`temporalCoverage: "2011-10-15"` — Burnout Hiatus 25th-Anniversary Release)
+* **Album:** *Starfield Calibration* (`temporalCoverage: "2011-10-18"` — 25th Anniversary of *Ignition (The Forger's Call)* debuting inside The Crucible on Saturday, October 18, 1986)
 * **Genre:** 80s Cosmic Pop / Space Rock (*The Cosmic Tidal Lock Sound™*)
 * **Raw Master WAV Destination Directory:**
   `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-assets/engine-room-records/artists/the-stardust-engine/master-wav/cosmic-tidal-lock/`
@@ -11,29 +11,31 @@
 
 ## Core Studio Master Prompt Formula (*The Cosmic Tidal Lock Sound™*)
 > **Base Formula:** `1980s synth-pop, mid-tempo space-rock, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, [crystal clear female vocals | male and female duet], lush spatial reverb, celestial atmosphere`
+> **Suno v6 Cover Setting:** Set **Audio Influence to `74%`**. Because `74%` locks onto the baseline song's melody and structure from the source audio, you **only** need the new Cosmic Tidal Lock Sound™ style prompt and Exclude Styles (no need to combine with the original song's style prompt).
 
 ---
 
 ## Quick Status Checklist (14 Tracks Total — ~61:30 Estimated CD Runtime)
 
-- [x] **Track 01:** `The Stardust Engine (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `the-stardust-engine-cosmic-tidal-lock.wav`
-- [x] **Track 02:** `Electric Color (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `electric-color-cosmic-tidal-lock.wav`
-- [ ] **Track 03:** `Plastic Sky (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `plastic-sky-cosmic-tidal-lock.wav`
-- [ ] **Track 04:** `Worlds Apart (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `worlds-apart-cosmic-tidal-lock.wav`
-- [ ] **Track 05:** `My Anchor Holds (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `my-anchor-holds-cosmic-tidal-lock.wav`
-- [ ] **Track 06:** `Neon Hearts (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `neon-hearts-cosmic-tidal-lock.wav`
-- [ ] **Track 07:** `If You Walked Away (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `if-you-walked-away-cosmic-tidal-lock.wav`
-- [ ] **Track 08:** `Atmosphere (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `atmosphere-cosmic-tidal-lock.wav`
-- [ ] **Track 09:** `No Hidden Gravity (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `no-hidden-gravity-cosmic-tidal-lock.wav`
-- [ ] **Track 10:** `Inertia: Unstoppable (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `inertia-unstoppable-cosmic-tidal-lock.wav`
-- [ ] **Track 11:** `Echoes in the Wire (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `echoes-in-the-wire-cosmic-tidal-lock.wav`
-- [ ] **Track 12:** `Midnight Drivers (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `midnight-drivers-cosmic-tidal-lock.wav`
-- [ ] **Track 13:** `The Horizon Line (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `the-horizon-line-cosmic-tidal-lock.wav`
-- [ ] **Track 14:** `Fade to Dawn (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `fade-to-dawn-cosmic-tidal-lock.wav`
+- [x] **Track 01:** `The Stardust Engine (Cosmic Tidal Lock Mix)` *(from 1987: *Electric Color* (Track 13) / 1997: *Hard Reset* (Disc 1, Track 1))* $\rightarrow$ Save WAV as `the-stardust-engine-cosmic-tidal-lock.wav`
+- [x] **Track 02:** `Electric Color (Cosmic Tidal Lock Mix)` *(from 1987: *Electric Color* (Track 1))* $\rightarrow$ Save WAV as `electric-color-cosmic-tidal-lock.wav`
+- [x] **Track 03:** `Plastic Sky (Cosmic Tidal Lock Mix)` *(from 1987: *Electric Color* (Track 2))* $\rightarrow$ Save WAV as `plastic-sky-cosmic-tidal-lock.wav`
+- [ ] **Track 04:** `Worlds Apart (Cosmic Tidal Lock Mix)` *(from 1987: *Electric Color* (Track 9))* $\rightarrow$ Save WAV as `worlds-apart-cosmic-tidal-lock.wav`
+- [ ] **Track 05:** `My Anchor Holds (Cosmic Tidal Lock Mix)` *(from 1987: *Electric Color* (Track 3))* $\rightarrow$ Save WAV as `my-anchor-holds-cosmic-tidal-lock.wav`
+- [x] **Track 06:** `Neon Hearts (Cosmic Tidal Lock Mix)` *(from 1989: *Neon Hearts* (Track 1))* $\rightarrow$ Save WAV as `neon-hearts-cosmic-tidal-lock.wav`
+- [ ] **Track 07:** `Rearview Mirror (Cosmic Tidal Lock Mix)` *(from 1987: *Electric Color* (Track 12))* $\rightarrow$ Save WAV as `rearview-mirror-cosmic-tidal-lock.wav`
+- [ ] **Track 08:** `Atmosphere (Cosmic Tidal Lock Mix)` *(from 1995: *The Warehouse Tapes* (Track 4 — "Atmosphere (Warehouse Demo)") / 1996: *Ad Astra (Single)* (Track 3))* $\rightarrow$ Save WAV as `atmosphere-cosmic-tidal-lock.wav`
+- [ ] **Track 09:** `No Hidden Gravity (Cosmic Tidal Lock Mix)` *(from 1996: *Ad Astra (Single)* (Track 5) / 1997: *Forger Nation War Chest* (Disc 1, Track 11))* $\rightarrow$ Save WAV as `no-hidden-gravity-cosmic-tidal-lock.wav`
+- [ ] **Track 10:** `Inertia: Unstoppable (Cosmic Tidal Lock Mix)` *(from 1997: *Hard Reset* (Disc 1, Track 6 — "Inertia (Unstoppable)"))* $\rightarrow$ Save WAV as `inertia-unstoppable-cosmic-tidal-lock.wav`
+- [ ] **Track 11:** `Echoes in the Wire (Cosmic Tidal Lock Mix)` *(from 1997: *Hard Reset* (Disc 1, Track 9))* $\rightarrow$ Save WAV as `echoes-in-the-wire-cosmic-tidal-lock.wav`
+- [ ] **Track 12:** `Midnight Drivers (Cosmic Tidal Lock Mix)` *(from 2001: *Midnight Drivers* (Track 6))* $\rightarrow$ Save WAV as `midnight-drivers-cosmic-tidal-lock.wav`
+- [ ] **Track 13:** `The Horizon Line (Cosmic Tidal Lock Mix)` *(from 2001: *Midnight Drivers* (Track 5))* $\rightarrow$ Save WAV as `the-horizon-line-cosmic-tidal-lock.wav`
+- [ ] **Track 14:** `Fade to Dawn (Cosmic Tidal Lock Mix)` *(from 2001: *Midnight Drivers* (Track 10))* $\rightarrow$ Save WAV as `fade-to-dawn-cosmic-tidal-lock.wav`
 
 ---
 
 ## Track 01: The Stardust Engine (Cosmic Tidal Lock Mix)
+* **Original Album / Suno Workspace:** 1987: *Electric Color* (Track 13) / 1997: *Hard Reset* (Disc 1, Track 1)
 * **Status:** Ready for Suno v6 Generation *(replaces earlier rescued WAV in `master-wav/cosmic-tidal-lock/the-stardust-engine-cosmic-tidal-lock.wav`)*
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/the-stardust-engine-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
@@ -130,6 +132,7 @@ heavy metal screaming, modern pop, hip hop, rap, acoustic country, edm, lo-fi, d
 ---
 
 ## Track 02: Electric Color (Cosmic Tidal Lock Mix)
+* **Original Album / Suno Workspace:** 1987: *Electric Color* (Track 1)
 * **Status:** Needs Suno Generation
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/electric-color-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
@@ -219,6 +222,7 @@ heavy metal distortion, screaming, modern pop, hip hop, rap, acoustic country, e
 ---
 
 ## Track 03: Plastic Sky (Cosmic Tidal Lock Mix)
+* **Original Album / Suno Workspace:** 1987: *Electric Color* (Track 2)
 * **Status:** Needs Suno Generation
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/plastic-sky-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** `Female`
@@ -305,6 +309,7 @@ Into the velvet blue...
 ---
 
 ## Track 04: Worlds Apart (Cosmic Tidal Lock Mix)
+* **Original Album / Suno Workspace:** 1987: *Electric Color* (Track 9)
 * **Status:** Needs Suno Generation
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/worlds-apart-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
@@ -387,6 +392,7 @@ heavy metal, screaming, modern pop, hip hop, rap, country, fast punk, dry studio
 ---
 
 ## Track 05: My Anchor Holds (Cosmic Tidal Lock Mix)
+* **Original Album / Suno Workspace:** 1987: *Electric Color* (Track 3)
 * **Status:** Needs Suno Generation
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/my-anchor-holds-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** `Female`
@@ -473,6 +479,7 @@ My anchor holds...
 ---
 
 ## Track 06: Neon Hearts (Cosmic Tidal Lock Mix)
+* **Original Album / Suno Workspace:** 1989: *Neon Hearts* (Track 1)
 * **Status:** Needs Suno Generation
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/neon-hearts-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** `Female`
@@ -555,16 +562,17 @@ My neon heart...
 
 ---
 
-## Track 07: If You Walked Away (Cosmic Tidal Lock Mix)
+## Track 07: Rearview Mirror (Cosmic Tidal Lock Mix)
+* **Original Album / Suno Workspace:** 1987: *Electric Color* (Track 12)
 * **Status:** Needs Suno Generation
-* **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/if-you-walked-away-cosmic-tidal-lock.wav`
+* **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/rearview-mirror-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** `Female`
 * **Weirdness:** `0%`
 * **Style Influence:** `90%`
 
 ### Styles to Include
 ```text
-1980s synth-pop, mid-tempo space-rock ballad, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, crystal clear female vocals, lush spatial reverb, celestial atmosphere, 98 BPM, E-flat Major, deeply emotional, weightless, soaring analog synth lead
+1980s synth-pop, mid-tempo space-rock, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, crystal clear female vocals, lush spatial reverb, celestial atmosphere, 108 BPM, D Minor to F Major lift, reflective yet liberating, zero-gravity orbital cruise, soaring analog synthesizer solo
 ```
 
 ### Styles to Exclude
@@ -575,68 +583,80 @@ male vocals, duet, heavy distortion, screaming, fast punk, hip hop, rap, country
 ### Lyrics (Copy-Paste into Suno)
 ```text
 [Intro]
-(Lush, sweeping analog synthesizer strings and a weeping fretless bass melody drift through vast spatial reverb)
-(A steady, echoing 4/4 gated drum beat enters gently)
+(Lush, sweeping 1980s analog synthesizer pads and a gliding, melodic fretless bassline open in vast spatial reverb)
+(A steady, echoing 4/4 gated snare drum beat locks into an effortless orbital cruise)
 
 [Verse 1]
-The starlight makes a silver line
-Drifting past the warning signs
-Just a silhouette in a passing crowd
-Afraid to broadcast my thoughts out loud
+Another city, another night
+Ascending past the exit light
+I watch the terrestrial skyline fade
+Into the sanctuary that we made
+A tiny blue sphere in the observation glass
+Watching the heavy decades pass
+
+[Pre-Chorus]
+(Shimmering analog synth bells ripple across the stereo field)
+The telemetry is clear and bright
+Leaving the shadow for the starlight!
+
+[Chorus]
+I'm looking in the rearview mirror
+The whole constellation is getting clearer!
+Every storm we had to take
+Every chain we had to break
+Is shrinking in the rearview mirror
+As the endless sky pulls us nearer!
 
 [Verse 2]
-But then you found me in the static noise
-You heard a frequency inside my voice
-You gave me an orbit I could believe
-A sanctuary I would never leave
+Their neon cage was cold and thin
+They never knew where we'd begin
+I used to be a passenger on their ride
+With all this Stardust locked inside
+Now I'm at the helm of the frequency
+And the whole horizon belongs to me!
+
+[Pre-Chorus]
+The telemetry is clear and bright
+Leaving the shadow for the starlight!
 
 [Chorus]
-If you walked away
-The cosmos would lose its blue
-I wouldn't know what to do
-Drifting lost in the gray
-If you walked away
-My gravity would fall apart
-You are the center of my neon heart!
+I'm looking in the rearview mirror
+The whole constellation is getting clearer!
+Every storm we had to take
+Every chain we had to break
+Is shrinking in the rearview mirror
+As the endless sky pulls us nearer!
 
-[Verse 3]
-They built their walls so high and steep
-With earthly promises they never keep
-But we built a fortress in the zero-G
-I'm safe as long as you are next to me
-
-[Chorus]
-If you walked away
-The cosmos would lose its blue
-I wouldn't know what to do
-Drifting lost in the gray
-If you walked away
-My gravity would fall apart
-You are the center of my neon heart!
+[Synthesizer Solo]
+(A luminous, zero-gravity 1980s analog keyboard solo glides effortlessly over a sliding fretless bassline and steady 4/4 gated drum beat)
 
 [Bridge]
-(A crystalline, melodic 1980s analog keyboard solo floats in deep reverb over a sliding fretless bassline)
-I'm holding on to the tether tight
-Don't let me drift into the endless night!
+(Drums drop out into weightless spatial reverb and warm analog synth pads)
+Flying weightless, finally free
+Making peace with the girl I used to be
+All that Stardust left inside
+Became the galaxy where we ride!
+(Gated snare drum roll brings the full rhythm section back in)
 
 [Chorus]
-If you walked away
-The cosmos would lose its blue
-I wouldn't know what to do
-Drifting lost in the gray
-If you walked away
-My gravity would fall apart
-You are the center of my neon heart!
+I'm looking in the rearview mirror
+The whole constellation is getting clearer!
+Every storm we had to take
+Every chain we had to break
+Is shrinking in the rearview mirror
+As the endless sky pulls us nearer!
 
 [Outro]
-Don't drift away...
-Stay in my orbit tonight...
-(Fades out on a warm, lingering analog synthesizer pad)
+Fading... fading...
+In the rearview mirror...
+All this Stardust shining clear...
+(Fades out on a warm, lingering analog synthesizer pad and fretless bass harmonic)
 ```
 
 ---
 
 ## Track 08: Atmosphere (Cosmic Tidal Lock Mix)
+* **Original Album / Suno Workspace:** 1995: *The Warehouse Tapes* (Track 4 — "Atmosphere (Warehouse Demo)") / 1996: *Ad Astra (Single)* (Track 3)
 * **Status:** Needs Suno Generation
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/atmosphere-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
@@ -723,6 +743,7 @@ heavy metal screaming, acoustic country, hip hop, rap, modern pop, lo-fi, dry vo
 ---
 
 ## Track 09: No Hidden Gravity (Cosmic Tidal Lock Mix)
+* **Original Album / Suno Workspace:** 1996: *Ad Astra (Single)* (Track 5) / 1997: *Forger Nation War Chest* (Disc 1, Track 11)
 * **Status:** Needs Suno Generation
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/no-hidden-gravity-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
@@ -814,6 +835,7 @@ heavy metal, screaming, modern pop, hip hop, rap, country, edm, dark industrial 
 ---
 
 ## Track 10: Inertia: Unstoppable (Cosmic Tidal Lock Mix)
+* **Original Album / Suno Workspace:** 1997: *Hard Reset* (Disc 1, Track 6 — "Inertia (Unstoppable)")
 * **Status:** Needs Suno Generation
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/inertia-unstoppable-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** `Female`
@@ -896,6 +918,7 @@ Riding on the light...
 ---
 
 ## Track 11: Echoes in the Wire (Cosmic Tidal Lock Mix)
+* **Original Album / Suno Workspace:** 1997: *Hard Reset* (Disc 1, Track 9)
 * **Status:** Needs Suno Generation
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/echoes-in-the-wire-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** `Female`
@@ -995,6 +1018,7 @@ Leaving our mark...
 ---
 
 ## Track 12: Midnight Drivers (Cosmic Tidal Lock Mix)
+* **Original Album / Suno Workspace:** 2001: *Midnight Drivers* (Track 6)
 * **Status:** Needs Suno Generation
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/midnight-drivers-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** `Female`
@@ -1076,6 +1100,7 @@ Suspended in the velvet night...
 ---
 
 ## Track 13: The Horizon Line (Cosmic Tidal Lock Mix)
+* **Original Album / Suno Workspace:** 2001: *Midnight Drivers* (Track 5)
 * **Status:** Needs Suno Generation
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/the-horizon-line-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
@@ -1147,6 +1172,7 @@ heavy metal screaming, modern pop, hip hop, rap, country, fast punk, dry vocals
 ---
 
 ## Track 14: Fade to Dawn (Cosmic Tidal Lock Mix)
+* **Original Album / Suno Workspace:** 2001: *Midnight Drivers* (Track 10)
 * **Status:** Needs Suno Generation
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/fade-to-dawn-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
