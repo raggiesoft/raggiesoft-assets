@@ -67,7 +67,7 @@ html[data-color-scheme="light"] .rs-network-bar {
 }
 
 .rs-network-links,
-.rs-network-bar ul {
+.rs-network-bar > div > ul:not(.rs-network-dropdown-menu) {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
@@ -77,7 +77,7 @@ html[data-color-scheme="light"] .rs-network-bar {
   padding: 0;
 }
 
-.rs-network-links a,
+.rs-network-links > li > a,
 .rs-network-bar > div > ul > li > a {
   display: inline-flex;
   align-items: center;
@@ -94,8 +94,8 @@ html[data-color-scheme="light"] .rs-network-bar {
   white-space: nowrap;
 }
 
-.rs-network-links a:hover,
-.rs-network-links a:focus-visible,
+.rs-network-links > li > a:hover,
+.rs-network-links > li > a:focus-visible,
 .rs-network-bar > div > ul > li > a:hover,
 .rs-network-bar > div > ul > li > a:focus-visible {
   background-color: #1e293b !important;
@@ -103,8 +103,8 @@ html[data-color-scheme="light"] .rs-network-bar {
   border-color: rgba(56, 189, 248, 0.55) !important;
 }
 
-.rs-network-links a[aria-current="page"],
-.rs-network-links a.is-active,
+.rs-network-links > li > a[aria-current="page"],
+.rs-network-links > li > a.is-active,
 .rs-network-bar > div > ul > li > a[aria-current="page"],
 .rs-network-bar > div > ul > li > a.is-active {
   background-color: rgba(56, 189, 248, 0.2) !important;
@@ -171,6 +171,7 @@ html[data-color-scheme="light"] .rs-network-bar {
   transform: rotate(180deg);
 }
 
+.rs-network-bar .rs-network-dropdown-menu,
 .rs-network-dropdown-menu {
   display: none;
   position: absolute;
@@ -199,13 +200,14 @@ html[data-color-scheme="light"] .rs-network-bar {
   background: transparent;
 }
 
-.rs-network-dropdown.is-open .rs-network-dropdown-menu,
-.rs-network-dropdown:focus-within .rs-network-dropdown-menu {
+.rs-network-bar .rs-network-dropdown.is-open > .rs-network-dropdown-menu,
+.rs-network-dropdown.is-open > .rs-network-dropdown-menu {
   display: block !important;
 }
 
 @media (hover: hover) and (pointer: fine) {
-  .rs-network-dropdown:hover .rs-network-dropdown-menu {
+  .rs-network-bar .rs-network-dropdown:hover > .rs-network-dropdown-menu,
+  .rs-network-dropdown:hover > .rs-network-dropdown-menu {
     display: block !important;
   }
 }
