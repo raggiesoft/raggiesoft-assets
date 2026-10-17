@@ -1,9 +1,9 @@
-# Starfield Calibration (2003) — The Cosmic Tidal Lock Sound™ Remix Anthology
+# Starfield Calibration (2011) — The Cosmic Tidal Lock Sound™ Remix Anthology
 
 > **Fictitious Disclaimer:** *The Stardust Engine, Engine Room Records, LLC, Apex Records, and the USPTO trademark reference for "The Cosmic Tidal Lock Sound" are works of fiction. "The Cosmic Tidal Lock Sound" is registered strictly in-universe and is NOT a registered trademark in real life.*
 
 ## Album Concept
-**Starfield Calibration (2003)** features existing songs from **The Stardust Engine** catalog remixed and re-engineered for **The Cosmic Tidal Lock Sound™** mix.
+**Starfield Calibration (2011)** is a Burnout Hiatus 25th-anniversary bonus album (released midway between 2008's *Our Own Frequency* and 2015's *Re-Ignition* to remind Forger Nation that the band still existed) featuring existing songs from **The Stardust Engine** catalog (1987–2001) remixed and re-engineered for **The Cosmic Tidal Lock Sound™** mix.
 
 - **Anchored Track 01 Master WAV:**
   - Source: `ai-staging/Suno Rescued Music/Stardust Engine - Tidal Lock Remix/The Stardust Engine (Song)/Space Rock Render/The Stardust Engine (4) - This is The One.wav` (`4:25`, `48.56 MB`)

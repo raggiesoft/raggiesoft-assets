@@ -1,11 +1,11 @@
-# The Stardust Engine — *Starfield Calibration* (2003) Suno Production Sheet
+# The Stardust Engine — *Starfield Calibration* (2011) Suno Production Sheet
 
 * **Artist:** The Stardust Engine
-* **Album:** *Starfield Calibration* (`temporalCoverage: "2003-11-15"`)
+* **Album:** *Starfield Calibration* (`temporalCoverage: "2011-10-15"` — Burnout Hiatus 25th-Anniversary Release)
 * **Genre:** 80s Cosmic Pop / Space Rock (*The Cosmic Tidal Lock Sound™*)
 * **Raw Master WAV Destination Directory:**
   `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-assets/engine-room-records/artists/the-stardust-engine/master-wav/cosmic-tidal-lock/`
-* **Suno Download Budget Note:** Track 01 is already rendered and archived (`4:25`). Generating the remaining **13 tracks** requires **13 downloads**, leaving **6 downloads** in reserve out of your 19 remaining monthly downloads (which reset to 60 on November 10, 2026).
+- **Suno Download Budget Note:** Generating all **14 tracks** in Suno v6 requires **14 downloads**, leaving **5 downloads** in reserve out of your 19 remaining monthly downloads (which reset to 60 on November 10, 2026). *(Note: The earlier rescued render of Track 01 is currently serving as a placeholder until you replace it with your new Suno v6 render!)*
 
 ---
 
@@ -16,8 +16,8 @@
 
 ## Quick Status Checklist (14 Tracks Total — ~61:30 Estimated CD Runtime)
 
-- [x] **Track 01:** `The Stardust Engine (Cosmic Tidal Lock Mix)` (`4:25`) — **ALREADY IN `master-wav/cosmic-tidal-lock/the-stardust-engine-cosmic-tidal-lock.wav`**
-- [ ] **Track 02:** `Electric Color (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `electric-color-cosmic-tidal-lock.wav`
+- [x] **Track 01:** `The Stardust Engine (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `the-stardust-engine-cosmic-tidal-lock.wav`
+- [x] **Track 02:** `Electric Color (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `electric-color-cosmic-tidal-lock.wav`
 - [ ] **Track 03:** `Plastic Sky (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `plastic-sky-cosmic-tidal-lock.wav`
 - [ ] **Track 04:** `Worlds Apart (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `worlds-apart-cosmic-tidal-lock.wav`
 - [ ] **Track 05:** `My Anchor Holds (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `my-anchor-holds-cosmic-tidal-lock.wav`
@@ -33,9 +33,99 @@
 
 ---
 
-## Track 01: The Stardust Engine (Cosmic Tidal Lock Mix) *(ALREADY RENDERED — `4:25`)*
-* **Status:** Complete (`master-wav/cosmic-tidal-lock/the-stardust-engine-cosmic-tidal-lock.wav`)
-* **Source:** `ai-staging/Suno Rescued Music/Stardust Engine - Tidal Lock Remix/The Stardust Engine (Song)/Space Rock Render/The Stardust Engine (4) - This is The One.wav`
+## Track 01: The Stardust Engine (Cosmic Tidal Lock Mix)
+* **Status:** Ready for Suno v6 Generation *(replaces earlier rescued WAV in `master-wav/cosmic-tidal-lock/the-stardust-engine-cosmic-tidal-lock.wav`)*
+* **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/the-stardust-engine-cosmic-tidal-lock.wav`
+* **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
+* **Weirdness:** `0%`
+* **Style Influence:** `90%`
+
+### Styles to Include
+```text
+1980s synth-pop, mid-tempo space-rock anthem, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, male and female duet, crystal clear female vocals, soaring high tenor male vocals, lush spatial reverb, celestial atmosphere, zero-gravity arena hook, 114 BPM, C Major, triumphant, cosmic synth and space-rock guitar duet solo
+```
+
+### Styles to Exclude
+```text
+heavy metal screaming, modern pop, hip hop, rap, acoustic country, edm, lo-fi, dry vocals
+```
+
+### Lyrics (Copy-Paste into Suno)
+```text
+[Intro]
+(A sweeping, zero-gravity 1980s analog synthesizer pad blooms across the planetarium dome like a sunrise from orbit)
+(A melodic, sliding fretless bassline locks into a steady, driving 4/4 gated reverb drum beat)
+(Sparkling analog bell arpeggios and chorus-drenched space-rock guitar harmonics echo across the stereo field)
+
+[Verse 1]
+[female] We were looking for a signal
+[female] A beacon in the endless black
+[male] A single voice across the universe
+[male] To tell us we were on the right track
+
+[Verse 2]
+[female] We found the starlight in the wires
+[female] We found the soul in the machine
+[male] Calibrating a dream out of nothing
+[male] An orbital sound the world had never seen
+
+[Pre-Chorus]
+(Shimmering analog synth brass swells as the zero-gravity spatial reverb widens)
+[female] The telemetry is locked in alignment tonight
+[male] Leaving terrestrial gravity for the infinite light!
+
+[Chorus]
+[female] We are The Stardust Engine!
+[male] Gliding through the velvet night!
+[female] We're burning on the fuel of a brand new light!
+[male] We are The Stardust Engine!
+[female] In zero-G we're taking flight!
+[male] Turning our future on, shining so bright!
+
+[Verse 3]
+[male] They tried to ground us, keep us small
+[male] Tied to the earth, waiting for the fall
+[female] But they can't reach the altitude we know
+[female] Up in the sanctuary where the nebulae glow!
+
+[Pre-Chorus]
+[female] The telemetry is locked in alignment tonight
+[male] Leaving terrestrial gravity for the infinite light!
+
+[Chorus]
+[female] We are The Stardust Engine!
+[male] Gliding through the velvet night!
+[female] We're burning on the fuel of a brand new light!
+[male] We are The Stardust Engine!
+[female] In zero-G we're taking flight!
+[male] Turning our future on, shining so bright!
+
+[Instrumental Spacewalk]
+(A soaring, melodic space-rock electric guitar solo trades celestial phrases with a shimmering 1980s analog synthesizer lead over Evan's sliding fretless bassline and Tyler's driving 4/4 gated drums)
+
+[Bridge]
+(Drums drop out into weightless zero-gravity synth pads and echoing vocal reverb)
+[female] We are the cosmos, we are the fire
+[male] Taking this orbit higher and higher
+[female] We are the Stardust!
+[male] We are the Engine!
+[female] Locked in the tidal rhythm of the stars!
+(Massive 1980s gated snare drum fill brings the full rhythm section crashing back in)
+
+[Chorus]
+[female] We are The Stardust Engine!
+[male] Gliding through the velvet night!
+[female] We're burning on the fuel of a brand new light!
+[male] We are The Stardust Engine!
+[female] In zero-G we're taking flight!
+[male] Turning our future on, shining so bright!
+
+[Outro]
+[female] Shining so bright...
+[male] In the tidal lock tonight...
+[female] We are The Stardust Engine...
+(Lush analog synthesizer chords, space-rock guitar harmonics, and fretless bass notes slowly drift outward into eternal cosmic reverb)
+```
 
 ---
 
@@ -1136,3 +1226,4 @@ heavy metal screaming, modern pop, hip hop, rap, country, fast punk, lo-fi
 [female] Fade to dawn...
 (The massive wall of shimmering analog synthesizers and fretless bass harmonics washes outward into warm, eternal morning light)
 ```
+

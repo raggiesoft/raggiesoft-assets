@@ -1,0 +1,75 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
+  "@id": "https://raggiesoft.com/engine-room/artists/stardust-engine/discography/2011-starfield-calibration",
+  "name": "Starfield Calibration",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Stardust Engine",
+    "@id": "https://raggiesoft.com/engine-room/artists/stardust-engine#artist"
+  },
+  "albumProductionType": "StudioAlbum",
+  "albumReleaseType": "AlbumRelease",
+  "genre": "80s Cosmic Pop / Atmospheric Synth-Pop / Space Rock",
+  "datePublished": "2026-10-16",
+  "temporalCoverage": "2011-10-15",
+  "description": "Released in October 2011 at the midpoint of the band's Burnout Hiatus (between 2008's Our Own Frequency and 2015's Re-Ignition) to celebrate the 25th anniversary of their 1986 formation at CPI, Starfield Calibration reimagines fourteen foundational Stardust Engine classics (1987–2001) entirely within Cassidy O'Connell's proprietary 'The Cosmic Tidal Lock Sound™' (an in-universe trademark of Engine Room Records, LLC; not registered in real life). Featuring driving 4/4 gated percussion, shimmering analog synthesizers, Evan Wright's melodic fretless basslines, and lush zero-gravity spatial reverb, this bonus hiatus album reminded Forger Nation that the family was still in orbit.",
+  "gtin12": "",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Engine Room Records"
+  },
+  "distroKidUploadDate": "",
+  "albumRelease": {
+    "@type": "MusicRelease",
+    "datePublished": "2026-10-16"
+  },
+  "conditionsOfAccess": "Public",
+  "creativeWorkStatus": "InProduction",
+  "isRockOpera": false,
+  "subtitle": "The 2011 Burnout Hiatus 25th-Anniversary Cosmic Tidal Lock Sound™ Retrospective",
+  "linerNotes": [
+    "By the autumn of 2011, The Stardust Engine was seven years into their decade-long Burnout Hiatus (2004–2014). Following 2007's archival vault compilation Lost Sounds and 2008's intimate acoustic retreat Our Own Frequency, three years of radio silence had left fans wondering if the band would ever plug in their synthesizers and amplifiers again.",
+    "To mark the 25th anniversary of their October 1986 formation at Commonwealth Polytechnic Institute (CPI)—and to send a clear beacon to Forger Nation that The Stardust Engine still existed—Chief Audio Architect Cassidy O'Connell spent the summer of 2011 inside the family's private Blacksburg studio on Progress Street NE. Rather than rushing a high-friction stadium tour before Ryan and the family were fully recharged, Cassidy selected fourteen fan-favorite milestones spanning 1987's Electric Color, 1989's Neon Hearts, 1992's canceled Friction sessions, 1995's The Warehouse Tapes, 1997's Hard Reset, and 2001's Midnight Drivers, and rebuilt them from the ground up in her low-sensory, zero-gravity 'The Cosmic Tidal Lock Sound™' (an in-universe trademark registered by Holly O'Connell through Engine Room Records, LLC; not a real-world registered trademark).",
+    "Anchored by Tyler Wright's disciplined 4/4 gated drum pulse, Evan Wright's gliding fretless bass, shimmering Oberheim and Roland Jupiter-8 phase-array synthesizers, and Cassidy's crystal-clear solo vocals (joined by Ryan on signature sibling duets), Starfield Calibration transformed songs born in corporate captivity and late-night highway exhaustion into a continuous, 61-minute zero-gravity retrospective."
+  ],
+  "studioArchives": [
+    {
+      "title": "The Nomenclature: Genre vs. In-Universe Trademark",
+      "icon": "fa-satellite",
+      "variant": "info",
+      "content": "While music journalists and Ironheads coined the term '80s Cosmic Pop' to describe the band's blend of arena hooks and deep-space lyricism, 'The Cosmic Tidal Lock Sound™' refers strictly to Cassidy O'Connell's proprietary phase-array synthesizer and spatial reverb architecture first realized on 'Moon 1 (Tidal Lock).' Recognizing its value after the 1992 Friction lawsuit, Holly O'Connell registered the mark in-universe under Engine Room Records, LLC as legal armor against corporate imitators. (Fictitious Disclaimer: This trademark exists strictly in-universe and is not registered in real life.)",
+      "link": {
+        "label": "Explore Sanctuary (Zero-G)",
+        "url": "/the-stardust-engine/2003-sanctuary-zero-g"
+      }
+    },
+    {
+      "title": "A Beacon Across the Burnout Hiatus (2007 → 2008 → 2011)",
+      "icon": "fa-tower-broadcast",
+      "variant": "primary",
+      "content": "Released midway between 2008's Our Own Frequency and the band's triumphant full-band return on 2015's Re-Ignition, Starfield Calibration completed the Burnout Hiatus trilogy alongside Lost Sounds (2007) and Our Own Frequency (2008)—reclaiming early Apex-era singles like 'Electric Color', 'Plastic Sky', and 'Neon Hearts' on the band's own zero-gravity sonic terms."
+    },
+    {
+      "title": "The 74-Minute Red Book CD Standard",
+      "icon": "fa-compact-disc",
+      "variant": "secondary",
+      "content": "Because the five tracks of Hard Reset's 1997 'Cosmic Suite' were already engineered in the Cosmic Tidal Lock format, the band excluded them from Starfield Calibration to maximize space on a single 74-minute Red Book Audio CD—allowing fourteen reprogrammed classics from 1987 to 2001 to fit on one uninterrupted disc."
+    }
+  ],
+  "loreLinks": [
+    {
+      "label": "Stream Moon 1: Sanctuary (Zero-G) (2003)",
+      "url": "/the-stardust-engine/2003-sanctuary-zero-g",
+      "description": "The 2003 zero-gravity studio masterpiece that pioneered the full-album Cosmic Tidal Lock Sound™."
+    },
+    {
+      "label": "Stream Our Own Frequency (2008)",
+      "url": "/the-stardust-engine/2008-our-own-frequency",
+      "description": "The intimate 2008 acoustic hiatus release that preceded Starfield Calibration."
+    }
+  ]
+}
