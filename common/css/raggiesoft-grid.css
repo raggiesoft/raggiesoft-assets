@@ -602,36 +602,37 @@ wa-dialog::part(panel) {
    ========================================================================= */
 
 /* Backgrounds */
-/* Map Bootstrap semantic colors to WA semantic variables */
-.bg-primary   { background-color: var(--wa-color-primary) !important; }
-.bg-secondary { background-color: var(--wa-color-neutral) !important; }
-.bg-success   { background-color: var(--wa-color-success) !important; }
-.bg-danger    { background-color: var(--wa-color-danger) !important; }
-.bg-warning   { background-color: var(--wa-color-warning) !important; }
-.bg-info      { background-color: var(--wa-color-info) !important; }
+/* Map Bootstrap semantic colors to WA semantic variables with loud/BS fallbacks */
+.bg-primary   { background-color: var(--wa-color-primary, var(--wa-color-brand-fill-loud, var(--bs-primary))) !important; }
+.bg-secondary { background-color: var(--wa-color-neutral, var(--wa-color-neutral-fill-quiet, var(--bs-secondary))) !important; }
+.bg-success   { background-color: var(--wa-color-success, var(--wa-color-success-fill-loud, var(--bs-success))) !important; }
+.bg-danger    { background-color: var(--wa-color-danger, var(--wa-color-danger-fill-loud, var(--bs-danger))) !important; }
+.bg-warning   { background-color: var(--wa-color-warning, var(--wa-color-warning-fill-loud, var(--bs-warning))) !important; }
+.bg-info      { background-color: var(--wa-color-info, var(--wa-color-info-fill-loud, var(--bs-info))) !important; }
 
 /* Text Colors */
-.text-primary   { color: var(--wa-color-primary) !important; }
-.text-secondary { color: var(--wa-color-neutral) !important; }
-.text-success   { color: var(--wa-color-success) !important; }
-.text-danger    { color: var(--wa-color-danger) !important; }
-.text-warning   { color: var(--wa-color-warning) !important; }
-.text-info      { color: var(--wa-color-info) !important; }
+.text-primary   { color: var(--wa-color-primary, var(--wa-color-brand-text-loud, var(--bs-primary))) !important; }
+.text-secondary { color: var(--wa-color-neutral, var(--wa-color-neutral-text-quiet, var(--bs-secondary))) !important; }
+.text-success   { color: var(--wa-color-success, var(--wa-color-success-text-loud, var(--bs-success))) !important; }
+.text-danger    { color: var(--wa-color-danger, var(--wa-color-danger-text-loud, var(--bs-danger))) !important; }
+.text-warning   { color: var(--wa-color-warning, var(--wa-color-warning-text-loud, var(--bs-warning))) !important; }
+.text-info      { color: var(--wa-color-info, var(--wa-color-info-text-loud, var(--bs-info))) !important; }
+.text-light     { color: var(--bs-light, #f8f9fa) !important; }
 
 /* Borders */
-.border-primary   { border-color: var(--wa-color-primary) !important; }
-.border-secondary { border-color: var(--wa-color-neutral) !important; }
-.border-success   { border-color: var(--wa-color-success) !important; }
-.border-danger    { border-color: var(--wa-color-danger) !important; }
-.border-warning   { border-color: var(--wa-color-warning) !important; }
-.border-info      { border-color: var(--wa-color-info) !important; }
+.border-primary   { border-color: var(--wa-color-primary, var(--wa-color-brand-border-loud, var(--bs-primary))) !important; }
+.border-secondary { border-color: var(--wa-color-neutral, var(--wa-color-neutral-border-quiet, var(--bs-secondary))) !important; }
+.border-success   { border-color: var(--wa-color-success, var(--wa-color-success-border-loud, var(--bs-success))) !important; }
+.border-danger    { border-color: var(--wa-color-danger, var(--wa-color-danger-border-loud, var(--bs-danger))) !important; }
+.border-warning   { border-color: var(--wa-color-warning, var(--wa-color-warning-border-loud, var(--bs-warning))) !important; }
+.border-info      { border-color: var(--wa-color-info, var(--wa-color-info-border-loud, var(--bs-info))) !important; }
 
 /* Border utilities (thickness and borders) */
-.border { border: 1px solid var(--wa-color-neutral-border) !important; }
-.border-top { border-top: 1px solid var(--wa-color-neutral-border) !important; }
-.border-bottom { border-bottom: 1px solid var(--wa-color-neutral-border) !important; }
-.border-start { border-left: 1px solid var(--wa-color-neutral-border) !important; }
-.border-end { border-right: 1px solid var(--wa-color-neutral-border) !important; }
+.border { border: 1px solid var(--wa-color-neutral-border, var(--wa-color-neutral-border-quiet, var(--bs-border-color))) !important; }
+.border-top { border-top: 1px solid var(--wa-color-neutral-border, var(--wa-color-neutral-border-quiet, var(--bs-border-color))) !important; }
+.border-bottom { border-bottom: 1px solid var(--wa-color-neutral-border, var(--wa-color-neutral-border-quiet, var(--bs-border-color))) !important; }
+.border-start { border-left: 1px solid var(--wa-color-neutral-border, var(--wa-color-neutral-border-quiet, var(--bs-border-color))) !important; }
+.border-end { border-right: 1px solid var(--wa-color-neutral-border, var(--wa-color-neutral-border-quiet, var(--bs-border-color))) !important; }
 .border-0 { border: 0 !important; }
 
 

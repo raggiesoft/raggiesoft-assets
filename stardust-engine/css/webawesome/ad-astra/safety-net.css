@@ -129,3 +129,77 @@ wa-dialog::part(base) {
 wa-dialog::part(panel) {
     background: #050508 !important; /* Use shorthand background to override images/gradients */
 }
+
+/* 5. WCAG 2.1 AAA Callout, Outlined Button, & Inline Code Overrides in The Void */
+wa-callout {
+    --background-color: #13131f !important;
+    --border-color: #8E8EA8 !important;
+    --color: #FFFFFF !important;
+    background-color: #13131f !important;
+    color: #FFFFFF !important;
+}
+wa-callout[variant="warning"] {
+    --background-color: #1c1604 !important;
+    --border-color: #FFD700 !important;
+    --color: #FFFFFF !important;
+    background-color: #1c1604 !important;
+    border-color: #FFD700 !important;
+    color: #FFFFFF !important;
+}
+wa-callout[variant="brand"] {
+    --background-color: #16092e !important;
+    --border-color: #B87CFF !important;
+    --color: #FFFFFF !important;
+    background-color: #16092e !important;
+    border-color: #B87CFF !important;
+    color: #FFFFFF !important;
+}
+wa-callout[variant="success"] {
+    --background-color: #041f14 !important;
+    --border-color: #00FF9D !important;
+    --color: #FFFFFF !important;
+    background-color: #041f14 !important;
+    border-color: #00FF9D !important;
+    color: #FFFFFF !important;
+}
+wa-callout[variant="danger"] {
+    --background-color: #240410 !important;
+    --border-color: #FF0055 !important;
+    --color: #FFFFFF !important;
+    background-color: #240410 !important;
+    border-color: #FF0055 !important;
+    color: #FFFFFF !important;
+}
+wa-callout::part(base) {
+    background-color: var(--background-color, #13131f) !important;
+    color: #FFFFFF !important;
+    border-color: var(--border-color, #8E8EA8) !important;
+}
+wa-callout::part(message) {
+    color: #FFFFFF !important;
+}
+wa-callout[variant="warning"]::part(icon) {
+    color: #FFD700 !important;
+}
+
+/* Outlined neutral buttons in The Void must have high-contrast Starlight White text */
+wa-button[variant="neutral"][appearance="outlined"]::part(base) {
+    color: #FFFFFF !important;
+    border-color: #B0B0C0 !important;
+    background-color: rgba(255, 255, 255, 0.04) !important;
+}
+wa-button[variant="neutral"][appearance="outlined"]:hover::part(base) {
+    color: #050508 !important;
+    background-color: #00FFFF !important;
+    border-color: #00FFFF !important;
+}
+
+/* Inline code tags in The Void must use dark void surface + HUD Cyan text (15.09:1 contrast) */
+code {
+    background-color: #121222 !important;
+    color: #00FFFF !important;
+    border: 1px solid #3A3A58;
+    padding: 0.12rem 0.4rem;
+    border-radius: 0.25rem;
+}
+

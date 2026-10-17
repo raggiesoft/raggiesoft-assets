@@ -54,9 +54,13 @@
     --bs-secondary-rgb: 176, 176, 192;
 
     --bs-success: var(--astra-success);
+    --bs-success-rgb: 0, 255, 157;
     --bs-info: var(--astra-info);
+    --bs-info-rgb: 0, 255, 255;
     --bs-warning: var(--astra-warning);
+    --bs-warning-rgb: 255, 215, 0;
     --bs-danger: var(--astra-danger);
+    --bs-danger-rgb: 255, 0, 85;
     
     /* Invert expected light/dark meanings to enforce the dark theme */
     --bs-light: var(--astra-text);
@@ -103,31 +107,58 @@
 :root, 
 [data-bs-theme="light"], 
 [data-bs-theme="dark"],
+.wa-dark,
 .wa-theme-dark {
-  /* Brand mappings */
+  /* Direct semantic aliases used by raggiesoft-grid.css */
+  --wa-color-primary: var(--astra-primary-text);
+  --wa-color-neutral: var(--bs-secondary);
+  --wa-color-success: var(--bs-success);
+  --wa-color-info: var(--bs-info);
+  --wa-color-warning: var(--bs-warning);
+  --wa-color-danger: var(--bs-danger);
+
+  /* Brand mappings (Loud & Quiet Dark-Void Fills) */
   --wa-color-brand-fill-loud: var(--bs-primary);
   --wa-color-brand-text-loud: var(--astra-primary-text);
   --wa-color-brand-border-loud: var(--bs-primary);
+  --wa-color-brand-fill-quiet: #16092e;
+  --wa-color-brand-border-quiet: #7000FF;
+  --wa-color-brand-on-quiet: #FFFFFF;
   
-  /* Semantic danger mappings */
+  /* Semantic danger mappings (Loud & Quiet Dark-Void Fills) */
   --wa-color-danger-fill-loud: var(--bs-danger);
   --wa-color-danger-text-loud: var(--bs-danger);
   --wa-color-danger-border-loud: var(--bs-danger);
+  --wa-color-danger-fill-quiet: #240410;
+  --wa-color-danger-border-quiet: #FF0055;
+  --wa-color-danger-on-quiet: #FFFFFF;
   
-  /* Semantic warning mappings */
+  /* Semantic warning mappings (Loud & Quiet Dark-Void Fills) */
   --wa-color-warning-fill-loud: var(--bs-warning);
   --wa-color-warning-text-loud: var(--bs-warning);
   --wa-color-warning-border-loud: var(--bs-warning);
+  --wa-color-warning-fill-quiet: #1c1604;
+  --wa-color-warning-border-quiet: #FFD700;
+  --wa-color-warning-on-quiet: #FFFFFF;
   
-  /* Semantic success mappings */
+  /* Semantic success mappings (Loud & Quiet Dark-Void Fills) */
   --wa-color-success-fill-loud: var(--bs-success);
   --wa-color-success-text-loud: var(--bs-success);
   --wa-color-success-border-loud: var(--bs-success);
+  --wa-color-success-fill-quiet: #041f14;
+  --wa-color-success-border-quiet: #00FF9D;
+  --wa-color-success-on-quiet: #FFFFFF;
 
   /* Semantic info mappings */
   --wa-color-info-fill-loud: var(--bs-info);
   --wa-color-info-text-loud: var(--bs-info);
+  --wa-color-info-border-loud: var(--bs-info);
   
+  /* Neutral quiet mappings (for outlined buttons, code tags, and callouts) */
+  --wa-color-neutral-fill-quiet: #13131f;
+  --wa-color-neutral-on-quiet: #FFFFFF;
+  --wa-color-neutral-border-normal: #8E8EA8;
+
   /* Surface colors (backgrounds for cards, modals, etc.) */
   --wa-color-surface-default: var(--bs-body-bg);
   /* Raised and lowered surfaces use subtle transparent overlays */
