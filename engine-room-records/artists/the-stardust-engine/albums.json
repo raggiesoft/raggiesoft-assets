@@ -155,8 +155,23 @@
   "err-planetarium": {
     "label": "The Twin Moons & Progress Street",
     "heading": "2003-2004: The Twin Moons Project & Blacksburg Homecoming",
-    "description": "An ambitious dual-release planetarium project confronting the trauma of The Crash of '90, followed immediately by a nostalgic 2004 homecoming to Progress Street NE in Blacksburg before exhaustion forced the band into their Burnout Hiatus.",
+    "description": "An ambitious planetarium project—beginning with the Cosmic Tidal Lock Sound™ calibration retrospective Starfield Calibration and culminating in the Twin Moons dual release—followed immediately by a nostalgic 2004 homecoming to Progress Street NE in Blacksburg before exhaustion forced the band into their Burnout Hiatus.",
     "albums": [
+      {
+        "title": "Starfield Calibration",
+        "year": "2003",
+        "url": "/engine-room/artists/stardust-engine/discography/2003-starfield-calibration",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-stardust-engine/2003-starfield-calibration/album-art.jpg",
+        "spotifyId": "",
+        "appleId": "",
+        "amazonId": "",
+        "youtubeId": "",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": "",
+        "realRelease": "2026-10-16",
+        "genre": "80s Cosmic Pop / Atmospheric Synth-Pop / Space Rock",
+        "description": "Recorded as the acoustic calibration testbed for the 2003 Planetarium Tour, this 14-track retrospective reimagines foundational Stardust Engine classics (1987–2001) entirely within Cassidy O'Connell's zero-gravity Cosmic Tidal Lock Sound™."
+      },
       {
         "title": "Sanctuary (Zero-G)",
         "year": "2003",

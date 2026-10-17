@@ -1,0 +1,1138 @@
+# The Stardust Engine — *Starfield Calibration* (2003) Suno Production Sheet
+
+* **Artist:** The Stardust Engine
+* **Album:** *Starfield Calibration* (`temporalCoverage: "2003-11-15"`)
+* **Genre:** 80s Cosmic Pop / Space Rock (*The Cosmic Tidal Lock Sound™*)
+* **Raw Master WAV Destination Directory:**
+  `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-assets/engine-room-records/artists/the-stardust-engine/master-wav/cosmic-tidal-lock/`
+* **Suno Download Budget Note:** Track 01 is already rendered and archived (`4:25`). Generating the remaining **13 tracks** requires **13 downloads**, leaving **6 downloads** in reserve out of your 19 remaining monthly downloads (which reset to 60 on November 10, 2026).
+
+---
+
+## Core Studio Master Prompt Formula (*The Cosmic Tidal Lock Sound™*)
+> **Base Formula:** `1980s synth-pop, mid-tempo space-rock, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, [crystal clear female vocals | male and female duet], lush spatial reverb, celestial atmosphere`
+
+---
+
+## Quick Status Checklist (14 Tracks Total — ~61:30 Estimated CD Runtime)
+
+- [x] **Track 01:** `The Stardust Engine (Cosmic Tidal Lock Mix)` (`4:25`) — **ALREADY IN `master-wav/cosmic-tidal-lock/the-stardust-engine-cosmic-tidal-lock.wav`**
+- [ ] **Track 02:** `Electric Color (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `electric-color-cosmic-tidal-lock.wav`
+- [ ] **Track 03:** `Plastic Sky (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `plastic-sky-cosmic-tidal-lock.wav`
+- [ ] **Track 04:** `Worlds Apart (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `worlds-apart-cosmic-tidal-lock.wav`
+- [ ] **Track 05:** `My Anchor Holds (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `my-anchor-holds-cosmic-tidal-lock.wav`
+- [ ] **Track 06:** `Neon Hearts (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `neon-hearts-cosmic-tidal-lock.wav`
+- [ ] **Track 07:** `If You Walked Away (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `if-you-walked-away-cosmic-tidal-lock.wav`
+- [ ] **Track 08:** `Atmosphere (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `atmosphere-cosmic-tidal-lock.wav`
+- [ ] **Track 09:** `No Hidden Gravity (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `no-hidden-gravity-cosmic-tidal-lock.wav`
+- [ ] **Track 10:** `Inertia: Unstoppable (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `inertia-unstoppable-cosmic-tidal-lock.wav`
+- [ ] **Track 11:** `Echoes in the Wire (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `echoes-in-the-wire-cosmic-tidal-lock.wav`
+- [ ] **Track 12:** `Midnight Drivers (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `midnight-drivers-cosmic-tidal-lock.wav`
+- [ ] **Track 13:** `The Horizon Line (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `the-horizon-line-cosmic-tidal-lock.wav`
+- [ ] **Track 14:** `Fade to Dawn (Cosmic Tidal Lock Mix)` $\rightarrow$ Save WAV as `fade-to-dawn-cosmic-tidal-lock.wav`
+
+---
+
+## Track 01: The Stardust Engine (Cosmic Tidal Lock Mix) *(ALREADY RENDERED — `4:25`)*
+* **Status:** Complete (`master-wav/cosmic-tidal-lock/the-stardust-engine-cosmic-tidal-lock.wav`)
+* **Source:** `ai-staging/Suno Rescued Music/Stardust Engine - Tidal Lock Remix/The Stardust Engine (Song)/Space Rock Render/The Stardust Engine (4) - This is The One.wav`
+
+---
+
+## Track 02: Electric Color (Cosmic Tidal Lock Mix)
+* **Status:** Needs Suno Generation
+* **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/electric-color-cosmic-tidal-lock.wav`
+* **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
+* **Weirdness:** `0%`
+* **Style Influence:** `90%`
+
+### Styles to Include
+```text
+1980s synth-pop, mid-tempo space-rock, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, male and female duet, crystal clear female vocals, soaring high tenor male vocals, lush spatial reverb, celestial atmosphere, zero-gravity arpeggios, 112 BPM, D Major, euphoric, luminous, cosmic synth solo
+```
+
+### Styles to Exclude
+```text
+heavy metal distortion, screaming, modern pop, hip hop, rap, acoustic country, edm, lo-fi, dry vocals
+```
+
+### Lyrics (Copy-Paste into Suno)
+```text
+[Intro]
+(A vast, zero-gravity wash of shimmering analog synthesizer pads opens in deep space)
+(A melodic, sliding fretless bassline locks into a steady 4/4 gated reverb drum beat)
+(Crystalline synthesizer arpeggios sparkle across the stereo field like passing satellites)
+
+[Verse 1]
+[female] Woke up this morning, the world was gray
+[female] Didn't know the colors had all faded away
+[male] Been living in a room with the curtains drawn tight
+[male] Then you flipped a switch and turned on the light
+
+[Pre-Chorus]
+(Shimmering analog synth brass swells as the spatial reverb widens)
+[female] Leaving the terrestrial shadow behind
+[male] Drifting into the spectrum we were meant to find!
+
+[Chorus]
+[female] Oh, I'm seeing in electric color!
+[male] Finding a rhythm I never knew!
+[female] Floating in a brand new summer
+[male] The whole cosmos feels bright and new!
+[female] It's an electric-colored feeling
+[male] Suspended in the velvet with you!
+
+[Verse 2]
+[male] The city sounds were just a buzz in my ear
+[male] A static station I could never quite hear
+[female] But now the signal is turning into a song
+[female] Out in the starlight where we belong
+
+[Pre-Chorus]
+[female] Leaving the terrestrial shadow behind
+[male] Drifting into the spectrum we were meant to find!
+
+[Chorus]
+[female] Oh, I'm seeing in electric color!
+[male] Finding a rhythm I never knew!
+[female] Floating in a brand new summer
+[male] The whole cosmos feels bright and new!
+[female] It's an electric-colored feeling
+[male] Suspended in the velvet with you!
+
+[Instrumental Spacewalk]
+(A melodic, sliding fretless bass solo glides over the driving 4/4 gated drum beat while shimmering 1980s analog synthesizers trade celestial counter-melodies)
+
+[Bridge]
+(Drums drop out into weightless zero-gravity synth pads and echoing vocal reverb)
+[female] The pulse is getting stronger
+[male] We can't hide it any longer
+[female] Our hearts are in alignment now
+[male] Above the clouds, we made the vow!
+(Massive 1980s gated snare drum fill brings the full rhythm section back in)
+
+[Chorus]
+[female] Oh, I'm seeing in electric color!
+[male] Finding a rhythm I never knew!
+[female] Floating in a brand new summer
+[male] The whole cosmos feels bright and new!
+[female] It's an electric-colored feeling
+[male] Suspended in the velvet with you!
+
+[Outro]
+[female] Electric color...
+[male] Shining in the zero-G...
+[female] It all started with you and me...
+(Lush analog synthesizer chords and fretless bass harmonics slowly fade into the celestial reverb)
+```
+
+---
+
+## Track 03: Plastic Sky (Cosmic Tidal Lock Mix)
+* **Status:** Needs Suno Generation
+* **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/plastic-sky-cosmic-tidal-lock.wav`
+* **Vocal Gender UI Setting:** `Female`
+* **Weirdness:** `0%`
+* **Style Influence:** `90%`
+
+### Styles to Include
+```text
+1980s synth-pop, mid-tempo space-rock, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, crystal clear female vocals, lush spatial reverb, celestial atmosphere, chorus-drenched clean electric guitar arpeggios, 110 BPM, E Minor, atmospheric, defiant, liberating, sweeping analog synth solo
+```
+
+### Styles to Exclude
+```text
+male vocals, duet, heavy metal screaming, modern pop, hip hop, rap, acoustic country, edm, dry mix
+```
+
+### Lyrics (Copy-Paste into Suno)
+```text
+[Intro]
+(Echoing 4/4 gated drum beat and a hypnotic, sliding fretless bassline enter in the dark)
+(Shimmering analog synthesizer bells and lush spatial reverb build a zero-gravity dome of sound)
+
+[Verse 1]
+The camera's on, the smile is bright
+Another take in the fluorescent light
+They painted the ceiling a counterfeit blue
+It never felt real, it never felt true
+
+[Pre-Chorus]
+(Analog synth pads swell upward like an airlock opening to the stars)
+I'm looking past the studio glass
+Watching the constellations pass
+
+[Chorus]
+We were living under a plastic sky
+They told us to jump, we asked how high
+Just a painted stage, just a paper lie
+Now we're breaking through the plastic sky!
+Drifting out where the real stars shine
+Leaving their artificial world behind!
+
+[Verse 2]
+They wanted it safe, they wanted it thin
+Polished away every spark within
+We wanted to soar through the endless night
+So we tore down the roof and we took to flight
+
+[Pre-Chorus]
+I'm looking past the studio glass
+Watching the constellations pass
+
+[Chorus]
+We were living under a plastic sky
+They told us to jump, we asked how high
+Just a painted stage, just a paper lie
+Now we're breaking through the plastic sky!
+Drifting out where the real stars shine
+Leaving their artificial world behind!
+
+[Bridge]
+(Rhythm section pulls back; crystal-clear female vocals float in deep spatial reverb over a fretless bass pulse)
+Was that the dream we were chasing down?
+A borrowed mask in a hollow town?
+No more ceilings, no more chains
+Only the infinite sky remains!
+
+[Synthesizer Solo]
+(A soaring, zero-gravity 1980s analog lead synthesizer solo glides effortlessly over the driving 4/4 gated snare drum and melodic fretless bass)
+
+[Chorus]
+We were living under a plastic sky
+They told us to jump, we asked how high
+Just a painted stage, just a paper lie
+Now we're breaking through the plastic sky!
+Drifting out where the real stars shine
+Leaving their artificial world behind!
+
+[Outro]
+Beyond the plastic sky...
+Into the velvet blue...
+(Shimmering analog synth arpeggios drift upward and fade into space)
+```
+
+---
+
+## Track 04: Worlds Apart (Cosmic Tidal Lock Mix)
+* **Status:** Needs Suno Generation
+* **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/worlds-apart-cosmic-tidal-lock.wav`
+* **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
+* **Weirdness:** `0%`
+* **Style Influence:** `90%`
+
+### Styles to Include
+```text
+1980s synth-pop, mid-tempo space-rock, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, male and female duet, crystal clear female vocals, warm high tenor male vocals, lush spatial reverb, celestial atmosphere, 104 BPM, A Minor, emotional, orbital longing, sibling harmony, soaring synth and clean guitar duet solo
+```
+
+### Styles to Exclude
+```text
+heavy metal, screaming, modern pop, hip hop, rap, country, fast punk, dry studio mix
+```
+
+### Lyrics (Copy-Paste into Suno)
+```text
+[Intro]
+(Distant radio telemetry ping fades into a lush, sweeping 1980s analog synthesizer pad)
+(A warm, melodic fretless bassline and steady 4/4 gated drum beat establish a gentle orbital pulse)
+
+[Verse 1]
+[male] Another orbit on a lonely road
+[male] Just trying to send a signal back to you
+[male] Carrying the weight of this heavy load
+[male] Charting the course that is pulling us through
+
+[Verse 2]
+[female] The lights are bright, the station is cold
+[female] They tried to lock us in their terrestrial mold
+[female] I see your beacon across the endless black
+[female] I know our gravity will bring us back
+
+[Chorus]
+[female] We're worlds apart, but our hearts beat the same!
+[male] Across the starfield I can hear you call my name!
+[female] Through the distance, through the static and the dark
+[male] We're locked in orbit right back where we start!
+[female] Even when we're worlds apart!
+
+[Verse 3]
+[male] They wanted the glitter, they wanted the show
+[female] A hollow reflection of the people we know
+[male] But we built a sanctuary out in the deep
+[female] A sibling promise that we always keep!
+
+[Chorus]
+[female] We're worlds apart, but our hearts beat the same!
+[male] Across the starfield I can hear you call my name!
+[female] Through the distance, through the static and the dark
+[male] We're locked in orbit right back where we start!
+[female] Even when we're worlds apart!
+
+[Instrumental Break]
+(A lush, emotional interplay between a chorus-drenched electric guitar and shimmering analog synthesizers over a sliding fretless bassline)
+
+[Bridge]
+(Music drops to zero-gravity ambient synth pads and ethereal vocal reverb)
+[female] And when the satellites fall
+[male] And when the nebulae rise
+[female] I'll find your signal
+[male] In the velvet skies!
+(Pounding 80s gated snare roll launches the final chorus)
+
+[Chorus]
+[female] We're worlds apart, but our hearts beat the same!
+[male] Across the starfield I can hear you call my name!
+[female] Through the distance, through the static and the dark
+[male] We're locked in orbit right back where we start!
+[female] Even when we're worlds apart!
+
+[Outro]
+[female] Worlds apart...
+[male] Locked in the same orbit...
+[female] Coming home to you...
+(Sustained celestial synthesizer chord and fretless bass harmonic fade into silence)
+```
+
+---
+
+## Track 05: My Anchor Holds (Cosmic Tidal Lock Mix)
+* **Status:** Needs Suno Generation
+* **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/my-anchor-holds-cosmic-tidal-lock.wav`
+* **Vocal Gender UI Setting:** `Female`
+* **Weirdness:** `0%`
+* **Style Influence:** `90%`
+
+### Styles to Include
+```text
+1980s synth-pop, mid-tempo space-rock, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, crystal clear female vocals, lush spatial reverb, celestial atmosphere, warm analog synth brass, 100 BPM, C Major, steadfast, uplifting, zero-gravity power anthem
+```
+
+### Styles to Exclude
+```text
+male vocals, duet, heavy distortion, screaming, modern pop, hip hop, rap, country, edm
+```
+
+### Lyrics (Copy-Paste into Suno)
+```text
+[Intro]
+(Warm, celestial analog synthesizer chords bloom into a vast, reverberant space)
+(A melodic fretless bassline slides smoothly beneath a crisp 4/4 1980s gated snare beat)
+
+[Verse 1]
+The lights are bright, the cabin is cold
+Another story that was bought and sold
+We went searching for a reason why
+Above the noise of the terrestrial sky
+
+[Pre-Chorus]
+The telemetry is locked tonight
+Half in the shadow, half in the light
+
+[Chorus]
+When the universe is spinning out of my control
+You're the one true gravity that I can hold!
+Through the cosmic static and the solar rain
+You're the quiet frequency that keeps me sane!
+You are the sanctuary, you are the truth
+My anchor in the endless blue!
+
+[Verse 2]
+They pull us under, they push us high
+Chasing comets as they burn and fly
+It's hard to know what you can trust
+When every promise turns to stardust
+
+[Pre-Chorus]
+The telemetry is locked tonight
+Half in the shadow, half in the light
+
+[Chorus]
+When the universe is spinning out of my control
+You're the one true gravity that I can hold!
+Through the cosmic static and the solar rain
+You're the quiet frequency that keeps me sane!
+You are the sanctuary, you are the truth
+My anchor in the endless blue!
+
+[Instrumental Spacewalk]
+(Evan's fretless bass takes a lyrical, sliding melodic lead while Cassidy's shimmering analog synthesizers cascade like starlight over Tyler's steady 4/4 gated drums)
+
+[Bridge]
+(Drums drop out; crystal-clear female vocals echo in weightless spatial reverb)
+So let the galaxies turn and stare
+As long as your signal is standing there
+I'm not afraid of the endless night
+Locked in your orbit, shining bright!
+(Gated drum fill crescendos back into full instrumentation)
+
+[Chorus]
+When the universe is spinning out of my control
+You're the one true gravity that I can hold!
+Through the cosmic static and the solar rain
+You're the quiet frequency that keeps me sane!
+You are the sanctuary, you are the truth
+My anchor in the endless blue!
+
+[Outro]
+My anchor in my sky...
+My anchor holds...
+(Shimmering analog synth pads and fretless bass notes slowly dissolve into deep space)
+```
+
+---
+
+## Track 06: Neon Hearts (Cosmic Tidal Lock Mix)
+* **Status:** Needs Suno Generation
+* **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/neon-hearts-cosmic-tidal-lock.wav`
+* **Vocal Gender UI Setting:** `Female`
+* **Weirdness:** `0%`
+* **Style Influence:** `90%`
+
+### Styles to Include
+```text
+1980s synth-pop, mid-tempo space-rock, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, crystal clear female vocals, lush spatial reverb, celestial atmosphere, sparkling bell synths, 116 BPM, F# Minor, nocturnal, luminous, zero-gravity synth-pop classic
+```
+
+### Styles to Exclude
+```text
+male vocals, duet, heavy metal, grunge, acoustic country, hip hop, rap, modern trap, dry vocals
+```
+
+### Lyrics (Copy-Paste into Suno)
+```text
+[Intro]
+(Sparkling 1980s analog bell synthesizers and a deep, sliding fretless bassline open in wide stereo reverb)
+(A crisp, driving 4/4 gated drum beat locks in at 116 BPM)
+
+[Verse 1]
+The station's humming, the lights are low
+I'm waiting for you, I'm ready to go
+Starlight tapping on the observation glass
+I knew this frequency was built to last
+
+[Pre-Chorus]
+I hear your footsteps down the corridor hall
+In zero gravity, I'm not afraid to fall
+This is the only math I know is true!
+
+[Chorus]
+You've got my neon heart!
+Shining for you in the velvet dark!
+A constellation burning off the charts
+You've got my neon heart!
+It's an electric-colored feeling
+Suspended in the stars with you!
+
+[Verse 2]
+We're drifting weightless above the street
+The telemetry matches when our eyes meet
+Don't need a tether, don't need a chain
+We left the static of the earthly rain
+
+[Pre-Chorus]
+I hear your footsteps down the corridor hall
+In zero gravity, I'm not afraid to fall
+This is the only math I know is true!
+
+[Chorus]
+You've got my neon heart!
+Shining for you in the velvet dark!
+A constellation burning off the charts
+You've got my neon heart!
+It's an electric-colored feeling
+Suspended in the stars with you!
+
+[Bridge]
+(A luminous, zero-gravity 1980s analog synthesizer solo glides across the mix, weaving around a melodic fretless bass counter-line)
+Let the planet sleep below, we're wide awake
+An orbital leap that we're both gonna take!
+
+[Chorus]
+You've got my neon heart!
+Shining for you in the velvet dark!
+A constellation burning off the charts
+You've got my neon heart!
+It's an electric-colored feeling
+Suspended in the stars with you!
+
+[Outro]
+My neon heart...
+Shining in the tidal lock...
+My neon heart...
+(Sparkling analog synth arpeggios fade out into lush celestial reverb)
+```
+
+---
+
+## Track 07: If You Walked Away (Cosmic Tidal Lock Mix)
+* **Status:** Needs Suno Generation
+* **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/if-you-walked-away-cosmic-tidal-lock.wav`
+* **Vocal Gender UI Setting:** `Female`
+* **Weirdness:** `0%`
+* **Style Influence:** `90%`
+
+### Styles to Include
+```text
+1980s synth-pop, mid-tempo space-rock ballad, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, crystal clear female vocals, lush spatial reverb, celestial atmosphere, 98 BPM, E-flat Major, deeply emotional, weightless, soaring analog synth lead
+```
+
+### Styles to Exclude
+```text
+male vocals, duet, heavy distortion, screaming, fast punk, hip hop, rap, country, edm
+```
+
+### Lyrics (Copy-Paste into Suno)
+```text
+[Intro]
+(Lush, sweeping analog synthesizer strings and a weeping fretless bass melody drift through vast spatial reverb)
+(A steady, echoing 4/4 gated drum beat enters gently)
+
+[Verse 1]
+The starlight makes a silver line
+Drifting past the warning signs
+Just a silhouette in a passing crowd
+Afraid to broadcast my thoughts out loud
+
+[Verse 2]
+But then you found me in the static noise
+You heard a frequency inside my voice
+You gave me an orbit I could believe
+A sanctuary I would never leave
+
+[Chorus]
+If you walked away
+The cosmos would lose its blue
+I wouldn't know what to do
+Drifting lost in the gray
+If you walked away
+My gravity would fall apart
+You are the center of my neon heart!
+
+[Verse 3]
+They built their walls so high and steep
+With earthly promises they never keep
+But we built a fortress in the zero-G
+I'm safe as long as you are next to me
+
+[Chorus]
+If you walked away
+The cosmos would lose its blue
+I wouldn't know what to do
+Drifting lost in the gray
+If you walked away
+My gravity would fall apart
+You are the center of my neon heart!
+
+[Bridge]
+(A crystalline, melodic 1980s analog keyboard solo floats in deep reverb over a sliding fretless bassline)
+I'm holding on to the tether tight
+Don't let me drift into the endless night!
+
+[Chorus]
+If you walked away
+The cosmos would lose its blue
+I wouldn't know what to do
+Drifting lost in the gray
+If you walked away
+My gravity would fall apart
+You are the center of my neon heart!
+
+[Outro]
+Don't drift away...
+Stay in my orbit tonight...
+(Fades out on a warm, lingering analog synthesizer pad)
+```
+
+---
+
+## Track 08: Atmosphere (Cosmic Tidal Lock Mix)
+* **Status:** Needs Suno Generation
+* **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/atmosphere-cosmic-tidal-lock.wav`
+* **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
+* **Weirdness:** `0%`
+* **Style Influence:** `90%`
+
+### Styles to Include
+```text
+1980s synth-pop, mid-tempo space-rock, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, male and female duet, crystal clear female vocals, soaring high tenor male vocals, lush spatial reverb, celestial atmosphere, 114 BPM, C Minor, dramatic orbital reentry, sweeping cinematic synth pads
+```
+
+### Styles to Exclude
+```text
+heavy metal screaming, acoustic country, hip hop, rap, modern pop, lo-fi, dry vocals
+```
+
+### Lyrics (Copy-Paste into Suno)
+```text
+[Intro]
+(Deep, pulsing analog synthesizer drone and shimmering starlight bells open in wide stereo)
+(A driving 4/4 gated drum beat and melodic fretless bassline lock into a tense, propulsive groove)
+
+[Verse 1]
+[female] Black velvet, a million lights
+[female] Floating silent through the endless night
+[female] The world below, a sleeping blue
+[female] I'm holding my breath, I'm thinking of you
+
+[Verse 2]
+[male] The signal's given, the turn is made
+[male] The point of no return, the course is laid
+[male] The fragile hull begins to shake
+[male] A promise that we're bound to make!
+
+[Pre-Chorus]
+[female] Telemetry rising on the glowing screen
+[male] Crossing the boundary of the unseen!
+
+[Chorus]
+[female] Here comes the friction, feel the fire!
+[male] Burning bright with our desire!
+[female] Ahalo of gold, a crimson glow
+[male] The only way we know to go!
+[female] We're coming home, we're breaking through
+[male] This atmosphere with you!
+
+[Verse 3]
+[female] The pressure builds, the gaugeshum
+[male] This is the gravity of what we've become
+[female] A silver spark in the upper air
+[male] Guided home because you're standing there!
+
+[Chorus]
+[female] Here comes the friction, feel the fire!
+[male] Burning bright with our desire!
+[female] A halo of gold, a crimson glow
+[male] The only way we know to go!
+[female] We're coming home, we're breaking through
+[male] This atmosphere with you!
+
+[Bridge]
+(Rhythm section drops out into weightless spatial reverb; harmonized vocals float over shimmering analog synth pads)
+[female] Beyond the shadow, the edges blur
+[male] A wonder and a majesty
+[female] Shining through the clouds!
+
+[Synthesizer and Guitar Solo]
+(A soaring 1980s analog synthesizer lead trades phrases with a chorus-drenched space-rock electric guitar over a sliding fretless bassline)
+
+[Chorus]
+[female] Here comes the friction, feel the fire!
+[male] Burning bright with our desire!
+[female] A halo of gold, a crimson glow
+[male] The only way we know to go!
+[female] We're coming home, we're breaking through
+[male] This atmosphere with you!
+
+[Outro]
+[female] Breaking through the atmosphere...
+[male] Coming home to you...
+(Lush analog synthesizer pads slowly cool and fade into crystal silence)
+```
+
+---
+
+## Track 09: No Hidden Gravity (Cosmic Tidal Lock Mix)
+* **Status:** Needs Suno Generation
+* **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/no-hidden-gravity-cosmic-tidal-lock.wav`
+* **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
+* **Weirdness:** `0%`
+* **Style Influence:** `90%`
+
+### Styles to Include
+```text
+1980s synth-pop, mid-tempo space-rock, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, male and female duet, crystal clear female vocals, clear high tenor male vocals, lush spatial reverb, celestial atmosphere, 118 BPM, G Major, uplifting, weightless, sibling solidarity anthem
+```
+
+### Styles to Exclude
+```text
+heavy metal, screaming, modern pop, hip hop, rap, country, edm, dark industrial noise
+```
+
+### Lyrics (Copy-Paste into Suno)
+```text
+[Intro]
+(Shimmering 1980s analog arpeggios and a warm, melodic fretless bassline establish a weightless zero-gravity groove)
+(Crisp 4/4 gated snare drums kick in with bright celestial synth chords)
+
+[Verse 1]
+[male] They always look for an angle or a secret design
+[male] Reading between every word of the line
+[female] They can't understand how two orbits can stay
+[female] Locked in alignment without drifting away
+
+[Pre-Chorus]
+[female] No hidden agendas, no pull in the dark
+[male] Just two parallel trajectories sharing the spark!
+
+[Chorus]
+[female] There's no hidden gravity pulling us down!
+[male] No fatal attraction, no spinning around!
+[female] We're flying in parallel, steady and true
+[male] The safest place in the cosmos is right next to you!
+[female] We're breaking the script, we're changing the game
+[male] A starlight sanctuary without the flame!
+[female] Yeah, there's no hidden gravity here!
+
+[Verse 2]
+[female] They say that two people can never just stand
+[female] Side by side without forcing a hand
+[male] But society's ledger is terrestrial and small
+[male] Out in the starfield we stand above it all
+[female] You don't have to perform, you don't have to pretend
+[male] I'm your safe person, your family, your friend!
+
+[Pre-Chorus]
+[female] No blurred lines, no shadow in the black!
+[male] I can turn around in orbit and know you've got my back!
+
+[Chorus]
+[female] There's no hidden gravity pulling us down!
+[male] No fatal attraction, no spinning around!
+[female] We're flying in parallel, steady and true
+[male] The safest place in the cosmos is right next to you!
+[female] We're breaking the script, we're changing the game
+[male] A starlight sanctuary without the flame!
+[female] Yeah, there's no hidden gravity here!
+
+[Instrumental Spacewalk]
+(Melodic fretless bass solo dances with sparkling 1980s analog synthesizer leads over a steady 4/4 gated drum groove)
+
+[Bridge]
+(Music drops out to warm analog synth pads and crystal-clear vocal reverb)
+[female] You don't need to conquer.
+[male] I don't need to hide.
+[female] We built a zero-G fortress
+[male] With family inside!
+
+[Chorus]
+[female] There's no hidden gravity pulling us down!
+[male] No fatal attraction, no spinning around!
+[female] We're flying in parallel, steady and true
+[male] The safest place in the cosmos is right next to you!
+[female] We're breaking the script, we're changing the game
+[male] A starlight sanctuary without the flame!
+[female] Yeah, there's no hidden gravity here!
+
+[Outro]
+[female] No hidden gravity...
+[male] Just the signal coming clear...
+[female] I'm right here...
+(Final sustained celestial synthesizer chord fades into space)
+```
+
+---
+
+## Track 10: Inertia: Unstoppable (Cosmic Tidal Lock Mix)
+* **Status:** Needs Suno Generation
+* **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/inertia-unstoppable-cosmic-tidal-lock.wav`
+* **Vocal Gender UI Setting:** `Female`
+* **Weirdness:** `0%`
+* **Style Influence:** `90%`
+
+### Styles to Include
+```text
+1980s synth-pop, mid-tempo space-rock, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, crystal clear female vocals, lush spatial reverb, celestial atmosphere, sequenced analog arpeggiator, 122 BPM, B Minor, propulsive orbital velocity, soaring synth solo
+```
+
+### Styles to Exclude
+```text
+male vocals, duet, heavy distorted metal guitars, screaming, hip hop, rap, country, slow ballad
+```
+
+### Lyrics (Copy-Paste into Suno)
+```text
+[Intro]
+(A propulsive, melodic fretless bassline and sequenced 1980s analog synthesizer arpeggio lock into a driving 4/4 gated drum beat)
+(Lush spatial reverb creates the sensation of effortless orbital velocity)
+
+[Verse 1]
+We were caught in the friction, dragging the weight
+A system at rest, locked outside the gate
+But the thrusters ignited, the circuits turned on
+The terrestrial gravity is completely gone
+
+[Pre-Chorus]
+We're building momentum, we're crossing the line
+Leaving the shadow of the planet behind!
+
+[Chorus]
+We've got inertia!
+A velocity they can't contain!
+Gliding through the starlight, breaking the chain
+We are unstoppable, moving through the night
+We've got inertia, riding on the light!
+
+[Verse 2]
+They tried to calculate, tried to chart our course
+But they never understood the nature of the force
+Energy conserved, never truly lost
+We reached escape velocity and we know the cost
+
+[Pre-Chorus]
+We're building momentum, we're crossing the line
+Leaving the shadow of the planet behind!
+
+[Chorus]
+We've got inertia!
+A velocity they can't contain!
+Gliding through the starlight, breaking the chain
+We are unstoppable, moving through the night
+We've got inertia, riding on the light!
+
+[Synthesizer Solo]
+(A dazzling, high-altitude 1980s analog synthesizer solo glides across the stereo field while the fretless bass weaves melodic counter-lines underneath)
+
+[Bridge]
+(Drums strip back to a pulsing heartbeat kick and shimmering celestial pads)
+No atmospheric drag
+Can slow down this fraction
+Of stardust and sound, we have left the ground!
+
+[Chorus]
+We've got inertia!
+A velocity they can't contain!
+Gliding through the starlight, breaking the chain
+We are unstoppable, moving through the night
+We've got inertia, riding on the light!
+
+[Outro]
+Unstoppable...
+In the zero-G...
+Riding on the light...
+(Synchronized final analog synth chord rings out in long spatial reverb)
+```
+
+---
+
+## Track 11: Echoes in the Wire (Cosmic Tidal Lock Mix)
+* **Status:** Needs Suno Generation
+* **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/echoes-in-the-wire-cosmic-tidal-lock.wav`
+* **Vocal Gender UI Setting:** `Female`
+* **Weirdness:** `0%`
+* **Style Influence:** `90%`
+
+### Styles to Include
+```text
+1980s synth-pop, mid-tempo space-rock, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, crystal clear female vocals, lush spatial reverb, celestial atmosphere, chorus-drenched clean guitar arpeggios, 96 BPM, D Minor, reflective, haunting, cosmic afterglow
+```
+
+### Styles to Exclude
+```text
+male vocals, duet, heavy distortion, screaming, fast punk, hip hop, rap, country
+```
+
+### Lyrics (Copy-Paste into Suno)
+```text
+[Intro]
+(A sweeping, zero-gravity analog synthesizer pad swells into the silence, joined by an echoing 4/4 gated drum beat and a lyrical, sliding fretless bassline)
+
+[Verse 1]
+The stardust is settling on the stage
+We finally turned the heavy page
+I see the constellations on the wall
+Shining quiet after the fall
+All the terrestrial static faded out
+Leaving nothing of the doubt
+
+[Pre-Chorus]
+And in the quiet, I can hear
+A deep-space frequency coming clear
+We made it through the longest night
+Now we're suspended in the light
+
+[Chorus]
+We're just echoes in the wire
+Starlight escaping from the fire
+Hold on to the memory
+Of who we used to be
+When the cosmos is standing still
+I know we always will
+Leave a resonance in the sound
+Long after we leave the ground
+
+[Verse 2]
+Ten thousand beacons in the dark
+Leaving a permanent orbital mark
+We traded time for something real
+A tidal lock that you can feel
+The blue planet sleeping far below
+We're floating in the afterglow
+
+[Pre-Chorus]
+And in the quiet, I can hear
+A deep-space frequency coming clear
+We made it through the longest night
+Now we're suspended in the light
+
+[Chorus]
+We're just echoes in the wire
+Starlight escaping from the fire
+Hold on to the memory
+Of who we used to be
+When the cosmos is standing still
+I know we always will
+Leave a resonance in the sound
+Long after we leave the ground
+
+[Instrumental Spacewalk]
+(A deeply emotional, chorus-drenched analog synthesizer and fretless bass duet glides over the booming half-time gated snare drum)
+
+[Bridge]
+(Drums drop away; crystal-clear female vocals float in pristine spatial reverb)
+No more running from the past
+We found our equilibrium at last
+The silence is a celestial song
+Telling us where we belong
+
+[Chorus]
+We're just echoes in the wire
+Starlight escaping from the fire
+Hold on to the memory
+Of who we used to be
+When the cosmos is standing still
+I know we always will
+Leave a resonance in the sound
+Long after we leave the ground
+
+[Outro]
+Echoes in the wire...
+Floating in the velvet dark...
+Leaving our mark...
+(Gentle analog synthesizer pad and fretless bass harmonic fade into deep space)
+```
+
+---
+
+## Track 12: Midnight Drivers (Cosmic Tidal Lock Mix)
+* **Status:** Needs Suno Generation
+* **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/midnight-drivers-cosmic-tidal-lock.wav`
+* **Vocal Gender UI Setting:** `Female`
+* **Weirdness:** `0%`
+* **Style Influence:** `90%`
+
+### Styles to Include
+```text
+1980s synth-pop, mid-tempo space-rock, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, crystal clear female vocals, lush spatial reverb, celestial atmosphere, nocturnal orbital cruise, 108 BPM, A Minor, hypnotic, sleek, cosmic synth solo
+```
+
+### Styles to Exclude
+```text
+male vocals, duet, heavy metal, screaming, country, hip hop, rap, acoustic folk
+```
+
+### Lyrics (Copy-Paste into Suno)
+```text
+[Intro]
+(A deep, melodic fretless bassline glides through wide stereo reverb, joined by shimmering analog synthesizer pads and a hypnotic 4/4 gated drum beat)
+
+[Verse 1]
+Starlight cuts across the glass
+Watching the quiet nebulae pass
+Telemetry hums, fading in and out
+We left the gravity of earthly doubt
+
+[Pre-Chorus]
+The instrument panel glows in emerald and blue
+Cruising the midnight orbit right next to you
+
+[Chorus]
+Driving through the dark, running on cosmic light
+Leaving all the shadows of the terrestrial night
+The galaxy's a map of glowing silver lines
+And I'm safe right here, between your eyes and mine
+Midnight drivers, in the zero-G!
+
+[Verse 2]
+The horizon's a promise, vast and new
+I don't fear the void when I'm flying with you
+The analog display is a steady green glow
+Locked in a tidal rhythm wherever we go
+
+[Pre-Chorus]
+The instrument panel glows in emerald and blue
+Cruising the midnight orbit right next to you
+
+[Chorus]
+Driving through the dark, running on cosmic light
+Leaving all the shadows of the terrestrial night
+The galaxy's a map of glowing silver lines
+And I'm safe right here, between your eyes and mine
+Midnight drivers, in the zero-G!
+
+[Bridge]
+(The drum beat drops out, leaving only an ethereal, zero-gravity synth pad and sliding fretless bass)
+Don't have to talk
+Don't have to say a thing
+The thrusters hum a lullaby
+To the future that we bring
+
+[Synthesizer Solo]
+(Cassidy delivers a lush, gliding 1980s analog synthesizer solo drenched in spatial reverb over the returning 4/4 gated drum beat)
+
+[Chorus]
+Driving through the dark, running on cosmic light
+Leaving all the shadows of the terrestrial night
+The galaxy's a map of glowing silver lines
+And I'm safe right here, between your eyes and mine
+Midnight drivers, in the zero-G!
+
+[Outro]
+Midnight drivers...
+Suspended in the velvet night...
+(Echoing gated snare and shimmering synth pads trail off into the stars)
+```
+
+---
+
+## Track 13: The Horizon Line (Cosmic Tidal Lock Mix)
+* **Status:** Needs Suno Generation
+* **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/the-horizon-line-cosmic-tidal-lock.wav`
+* **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
+* **Weirdness:** `0%`
+* **Style Influence:** `90%`
+
+### Styles to Include
+```text
+1980s synth-pop, mid-tempo space-rock, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, male and female duet, crystal clear female vocals, soaring high tenor male vocals, lush spatial reverb, celestial atmosphere, sweeping analog synth brass, 102 BPM, E Major, majestic, expansive, orbital sunrise
+```
+
+### Styles to Exclude
+```text
+heavy metal screaming, modern pop, hip hop, rap, country, fast punk, dry vocals
+```
+
+### Lyrics (Copy-Paste into Suno)
+```text
+[Intro]
+(A slow, majestic 1980s analog synth-brass fanfare blooms in deep spatial reverb)
+(A melodic fretless bassline and steady 4/4 gated drum beat enter with sweeping celestial pads)
+
+[Verse 1]
+[female] The curvature is turning violet and gold
+[female] The greatest story that we ever told
+[male] We're gliding past the edge of the planetary light
+[male] Where the atmosphere gives way to the infinite night
+
+[Chorus]
+[female] Out on the horizon line!
+[male] Where the earth and the heavens align!
+[female] Leaving terrestrial time behind
+[male] Out on the horizon line!
+
+[Verse 2]
+[male] The old static is fading away
+[male] We're rising above the noise of the day
+[female] The engine hums a frequency crystal clear
+[female] Perfect orbital equilibrium is here
+
+[Chorus]
+[female] Out on the horizon line!
+[male] Where the earth and the heavens align!
+[female] Leaving terrestrial time behind
+[male] Out on the horizon line!
+
+[Bridge]
+(The rhythm section drops away entirely; male and female vocals float in zero-gravity spatial reverb over a solitary fretless bass harmonic)
+[female] The colors bloom, the shadows fall
+[male] We're suspended at the crest of it all
+[female] We hold the note, we hold the breath
+[male] Above the world, beyond the rest!
+
+[Synthesizer Brass Solo]
+(A towering, multi-layered 1980s analog synthesizer brass and bell solo soars over thundering gated toms and a sliding fretless bassline)
+
+[Chorus]
+[female] Out on the horizon line!
+[male] Where the earth and the heavens align!
+[female] Leaving terrestrial time behind
+[male] Out on the horizon line!
+
+[Outro]
+[female] The horizon line...
+[male] Where the heavens align...
+(Sustained, luminous analog synthesizer chord hangs in the air and slowly fades)
+```
+
+---
+
+## Track 14: Fade to Dawn (Cosmic Tidal Lock Mix)
+* **Status:** Needs Suno Generation
+* **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/fade-to-dawn-cosmic-tidal-lock.wav`
+* **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
+* **Weirdness:** `0%`
+* **Style Influence:** `90%`
+
+### Styles to Include
+```text
+1980s synth-pop, epic mid-tempo space-rock finale, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, male and female duet, crystal clear female vocals, soaring high tenor male vocals, lush spatial reverb, celestial atmosphere, chorus-drenched stadium guitar and synth solo, 98 BPM, A Major, cathartic, transcendent, orbital daybreak
+```
+
+### Styles to Exclude
+```text
+heavy metal screaming, modern pop, hip hop, rap, country, fast punk, lo-fi
+```
+
+### Lyrics (Copy-Paste into Suno)
+```text
+[Intro]
+(A solitary, shimmering analog synthesizer pad and a steady 4/4 heartbeat drum pulse build gently in deep spatial reverb)
+(A lyrical fretless bassline glides into the stereo field like the first ray of sun over the planetary rim)
+
+[Verse 1]
+[female] The longest orbit was quiet and cold
+[female] The final chapter of the story we told
+[male] The telemetry shifts from indigo to gold
+[male] As the solar wings begin to unfold
+
+[Pre-Chorus]
+[female] Look out the viewport at the curvature below
+[male] The whole horizon is beginning to glow!
+
+[Chorus]
+[female] Fade to dawn!
+[male] The night is breaking and the shadows are gone!
+[female] Keep the engine humming, keep the frequency drawn
+[male] We made it through the dark
+[female] Now we fade to dawn!
+
+[Verse 2]
+[male] There is a crown of light on the velvet sky
+[male] A golden sunrise reflected in your eye
+[female] The synthesizers hum a timeless song
+[female] We held our tidal lock all night long
+
+[Pre-Chorus]
+[female] Look out the viewport at the curvature below
+[male] The whole horizon is beginning to glow!
+
+[Chorus]
+[female] Fade to dawn!
+[male] The night is breaking and the shadows are gone!
+[female] Keep the engine humming, keep the frequency drawn
+[male] We made it through the dark
+[female] Now we fade to dawn!
+
+[Bridge]
+(The rhythm section pulls back into weightless zero-gravity synth pads before beginning a majestic, steady climb)
+[female] The pressure clears
+[male] The signal nears
+[female] The night is done
+[male] Here comes the sun!
+
+[Guitar and Synthesizer Solo]
+(An epic, wide-panned 1980s space-rock guitar and analog synthesizer duet solo soars over the driving 4/4 gated drums and sliding fretless bassline, flooding the mix with pure cosmic catharsis)
+
+[Chorus]
+[female] Fade to dawn!
+[male] The night is breaking and the shadows are gone!
+[female] Keep the engine humming, keep the frequency drawn
+[male] We made it through the dark
+[female] Now we fade to dawn!
+
+[Outro]
+[female] We made it through the dark...
+[male] Locked in the starlight...
+[female] Fade to dawn...
+(The massive wall of shimmering analog synthesizers and fretless bass harmonics washes outward into warm, eternal morning light)
+```

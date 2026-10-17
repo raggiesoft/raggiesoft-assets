@@ -42,3 +42,4 @@ To accurately generate tracks within this specific sonic profile, use the follow
 ```text
 1980s synth-pop, mid-tempo space-rock, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, male and female duet, lush spatial reverb, celestial atmosphere
 ```
+
