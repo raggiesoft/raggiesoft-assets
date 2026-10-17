@@ -24,7 +24,8 @@
   /* Foundational color palette used throughout the theme mapping */
   --astra-void: #050508;       /* Deepest Black - Serves as the primary background */
   --astra-text: #E0E0FF;       /* Starlight White - Primary text color for contrast against the void */
-  --astra-primary: #7000FF;    /* Deep Violet (The Engine) - Main brand and interactive color */
+  --astra-primary: #7000FF;    /* Deep Violet (The Engine) - Main brand fill and border color */
+  --astra-primary-text: #B87CFF; /* Luminous Electric Violet - High-contrast (7.14:1) text variant of primary for WCAG 2.1 AA compliance on dark backgrounds */
   --astra-secondary: #B0B0C0;  /* Hull Grey - Used for muted text, borders, and secondary elements */
   --astra-success: #00FF9D;    /* HUD Green - Positive semantic indicators */
   --astra-info: #00FFFF;       /* HUD Cyan - Informational semantic indicators and links */
@@ -47,6 +48,7 @@
     /* Map our custom palette to Bootstrap's expected semantic variables */
     --bs-primary: var(--astra-primary);
     --bs-primary-rgb: 112, 0, 255; /* RGB version required for Bootstrap utility classes that use opacity */
+    --bs-primary-text-emphasis: var(--astra-primary-text);
     
     --bs-secondary: var(--astra-secondary);
     --bs-secondary-rgb: 176, 176, 192;
@@ -86,6 +88,11 @@
     --bs-navbar-disabled-color: var(--astra-secondary);
 }
 
+/* Ensure .text-primary always meets WCAG 2.1 AA (7.14:1) against the dark Void canvas */
+.text-primary {
+    color: var(--astra-primary-text) !important;
+}
+
 /* ==========================================================================
  * WEB AWESOME PRO MAPPING LAYER
  * ==========================================================================
@@ -99,7 +106,7 @@
 .wa-theme-dark {
   /* Brand mappings */
   --wa-color-brand-fill-loud: var(--bs-primary);
-  --wa-color-brand-text-loud: var(--bs-primary);
+  --wa-color-brand-text-loud: var(--astra-primary-text);
   --wa-color-brand-border-loud: var(--bs-primary);
   
   /* Semantic danger mappings */
