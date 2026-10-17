@@ -52,7 +52,7 @@
 /* --- DARK MODE (THE NIGHT SHIFT / THE VAULT) --- */
 /* Media query triggering automatic system dark mode */
 @media (prefers-color-scheme: dark) {
-    :root {
+    :root:not([data-bs-theme="light"]) {
         /* Backgrounds: Deep Gunmetal / Oily Black */
         --bs-body-bg: #0d0f12; 
         --bs-body-bg-rgb: 13, 15, 18;
@@ -87,37 +87,34 @@
 /* FORCED DARK MODE */
 /* Manual toggle overrides that duplicate the media query variables */
 [data-bs-theme="dark"] {
-    /* Copy the exact properties from the @media block above */
-    :root {
-        /* Backgrounds: Deep Gunmetal / Oily Black */
-        --bs-body-bg: #0d0f12; 
-        --bs-body-bg-rgb: 13, 15, 18;
-        
-        /* Text: Light Ash */
-        --bs-body-color: #e9ecef;
-        --bs-body-color-rgb: 233, 236, 239;
+    /* Backgrounds: Deep Gunmetal / Oily Black */
+    --bs-body-bg: #0d0f12; 
+    --bs-body-bg-rgb: 13, 15, 18;
+    
+    /* Text: Light Ash */
+    --bs-body-color: #e9ecef;
+    --bs-body-color-rgb: 233, 236, 239;
 
-        /* Accents */
-        --bs-primary: #ff6b6b; /* Glowing 'Red Pen' (WCAG AA 5.1:1 on #0d0f12) */
-        --bs-primary-rgb: 255, 107, 107;
-        --bs-secondary: #6c757d; 
-        --bs-secondary-rgb: 108, 117, 125;
-        --bs-warning: #ffb84d; /* Sodium Vapor Orange */
+    /* Accents */
+    --bs-primary: #ff6b6b; /* Glowing 'Red Pen' (WCAG AA 5.1:1 on #0d0f12) */
+    --bs-primary-rgb: 255, 107, 107;
+    --bs-secondary: #6c757d; 
+    --bs-secondary-rgb: 108, 117, 125;
+    --bs-warning: #ffb84d; /* Sodium Vapor Orange */
 
-        --bs-border-color: #2b3035; /* Subtle panel separation */
-        
-        --bs-link-color: #ff6b6b;
-        --bs-link-hover-color: #ff8e8e;
+    --bs-border-color: #2b3035; /* Subtle panel separation */
+    
+    --bs-link-color: #ff6b6b;
+    --bs-link-hover-color: #ff8e8e;
 
-        /* Components: Server Racks / Containment Units */
-        --bs-card-bg: #15181c; 
-        --bs-card-border-color: #343a40; 
-        
-        /* Navbar: Total Blackout */
-        --bs-navbar-bg: #000000;
-        --bs-navbar-color: #adb5bd;
-        --bs-navbar-active-color: #ff6b6b;
-    }
+    /* Components: Server Racks / Containment Units */
+    --bs-card-bg: #15181c; 
+    --bs-card-border-color: #343a40; 
+    
+    /* Navbar: Total Blackout */
+    --bs-navbar-bg: #000000;
+    --bs-navbar-color: #adb5bd;
+    --bs-navbar-active-color: #ff6b6b;
 }
 
 /* ==========================================================================

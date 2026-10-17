@@ -88,7 +88,7 @@
  * 3. DARK MODE (Dark Aero / Bioluminescence - OS Preference)
  * -------------------------------------------------------------------------- */
 @media (prefers-color-scheme: dark) {
-    :root {
+    :root:not([data-bs-theme="light"]) {
         --bs-body-bg: #070B14; /* Deep void space */
         --bs-body-color: #E2F1FF; /* Starlight white */
         --bs-body-bg-rgb: 7, 11, 20;

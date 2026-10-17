@@ -4,12 +4,12 @@
     "MusicAlbum",
     "Product"
   ],
-  "@id": "https://raggiesoft.com/engine-room/artists/stardust-engine/discography/2011-starfield-calibration",
+  "@id": "https://stardust.raggiesoft.com/discography/2011-starfield-calibration",
   "name": "Starfield Calibration",
   "byArtist": {
     "@type": "MusicGroup",
     "name": "The Stardust Engine",
-    "@id": "https://raggiesoft.com/engine-room/artists/stardust-engine#artist"
+    "@id": "https://stardust.raggiesoft.com#artist"
   },
   "albumProductionType": "StudioAlbum",
   "albumReleaseType": "AlbumRelease",
@@ -50,7 +50,7 @@
       "content": "'80s Cosmic Pop' is the open, generic sub-genre name describing an atmospheric blend of driving 1980s arena hooks, lush analog synthesizers, and deep-space lyricism—and creator Michael P. Ragsdale welcomes everyone to use '80s Cosmic Pop' freely for their own music and prompts. By contrast, 'The Cosmic Tidal Lock Sound™' is a proprietary trademark claimed by Michael P. Ragsdale / RaggieSoft Media / Engine Room Records™ (and in-universe by Holly & Cassidy O'Connell) to identify official RaggieSoft zero-gravity audio releases.",
       "link": {
         "label": "Read Full Trademark & Sonic Explainer",
-        "url": "https://raggiesoft.com/engine-room/artists/stardust-engine/story/cosmic-tidal-lock-sound"
+        "url": "https://stardust.raggiesoft.com/story/cosmic-tidal-lock-sound"
       }
     },
     {
@@ -69,7 +69,7 @@
   "loreLinks": [
     {
       "label": "The Cosmic Tidal Lock Sound™ vs. 80s Cosmic Pop Explainer",
-      "url": "https://raggiesoft.com/engine-room/artists/stardust-engine/story/cosmic-tidal-lock-sound",
+      "url": "https://stardust.raggiesoft.com/story/cosmic-tidal-lock-sound",
       "description": "Read the official trademark policy, open generic genre guide ('80s Cosmic Pop'), and the Suno v6 74% Audio Influence engineering protocol."
     },
     {

@@ -65,6 +65,20 @@
     color: #ffffff !important;
 }
 
+/* Light Mode HUD Override: Ensure semi-transparent HUD tint cards use dark text on light backgrounds */
+[data-bs-theme="light"] .bg-hud-blue,
+[data-bs-theme="light"] .bg-hud-green,
+[data-bs-theme="light"] .bg-hud-red,
+[data-bs-theme="light"] .bg-hud-orange {
+    color: var(--bs-body-color, #0D061A) !important;
+}
+[data-bs-theme="light"] .bg-hud-blue .text-muted,
+[data-bs-theme="light"] .bg-hud-green .text-muted,
+[data-bs-theme="light"] .bg-hud-red .text-muted,
+[data-bs-theme="light"] .bg-hud-orange .text-muted {
+    color: var(--bs-secondary, #5A5A75) !important;
+}
+
 /* --- 3. Card & Container Glows --- */
 /* Adds primary-colored outer glows to structural boxes */
 .border-glow {

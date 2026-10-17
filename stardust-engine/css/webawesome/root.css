@@ -89,7 +89,7 @@
  * -------------------------------------------------------------------------- */
 /* Dark Mode */
 @media (prefers-color-scheme: dark) {
-  :root {
+  :root:not([data-bs-theme="light"]) {
     --bs-body-bg: #0D061A;      /* Deep Space */
     --bs-body-color: #E0E0FF;   /* Star White */
     --bs-body-bg-rgb: 13, 6, 26;
