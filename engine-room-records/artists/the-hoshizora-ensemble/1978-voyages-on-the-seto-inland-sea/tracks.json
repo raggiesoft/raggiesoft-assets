@@ -1,0 +1,32 @@
+{
+  "tracks": [
+    {
+      "fileName": "1-01-hoshizora-no-uta-song-of-the-starry-sky-japanese",
+      "title": "Hoshizora no Uta (Song of the Starry Sky) [Japanese Version]",
+      "masterWavPath": "studio/hoshizora-no-uta-song-of-the-starry-sky-japanese",
+      "disc": 1,
+      "discName": "Voyages on the Seto Inland Sea (1978 Osaka Master / 2002 US Edition)",
+      "track": 1,
+      "isrc": "",
+      "duration": "2:29",
+      "suiteName": "The Seto Inland Sea Suite",
+      "suiteTrack": "1",
+      "legacyTier": "Signature Anthem",
+      "loreNote": "The original 1978 Japanese-language studio broadcast recording of 'Hoshizora no Uta (星空のうた)' played over the cabin PA system aboard the overnight Ferry Hoshizora as it sails out of Osaka port onto the Seto Inland Sea. During The Stardust Engine's 2001–2002 Midnight Drivers World Tour, this gentle maritime melody grounded Ryan and Cassidy O'Connell and helped inspire their 2003 Sanctuary (Zero-G) planetarium album. Thirteen years later, in July 2015, hearing this exact Japanese recording in his accessible cabin drops Jordan's environmental threat level to zero for the first time in his life, triggering his first massive meltdown of sensory relief."
+    },
+    {
+      "fileName": "1-02-hoshizora-no-uta-song-of-the-starry-sky-english",
+      "title": "Hoshizora no Uta (Song of the Starry Sky) [English Version]",
+      "masterWavPath": "studio/hoshizora-no-uta-song-of-the-starry-sky-english",
+      "disc": 1,
+      "discName": "Voyages on the Seto Inland Sea (1978 Osaka Master / 2002 US Edition)",
+      "track": 2,
+      "isrc": "",
+      "duration": "1:49",
+      "suiteName": "The Seto Inland Sea Suite",
+      "suiteTrack": "2",
+      "legacyTier": "Signature Anthem",
+      "loreNote": "The official 2002 English-language recording commissioned by Holly O'Connell when she secured North American distribution rights to The Hoshizora Ensemble's catalog for Engine Room Records, LLC following the Japanese leg of the Midnight Drivers World Tour. In July 2015 aboard the Ferry Hoshizora, when Zoë Brooks translates these exact lyrics for Jordan ('Leave your heavy shadows on the shore... Rest your eyes under the starry sky, for you are safe upon the sea'), the cognitive realization that the ship is explicitly promising him safety shatters eighteen years of trauma in a second, explosive meltdown of pure relief—and inspires Zoë to teach the entire family Japanese in Sophomore Year at CPI."
+    }
+  ]
+}

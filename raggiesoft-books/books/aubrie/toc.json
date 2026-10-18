@@ -47,6 +47,21 @@
                             "scene_num": 2,
                             "scene_title": "Scene 2: Educational Accessibility",
                             "file_path": "e001/c002/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: All the Way",
+                            "file_path": "e001/c002/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Routine",
+                            "file_path": "e001/c002/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: One Last Night",
+                            "file_path": "e001/c002/s005.md"
                         }
                     ]
                 },
@@ -57,22 +72,22 @@
                     "scenes": [
                         {
                             "scene_num": 1,
-                            "scene_title": "Scene 1: Room 214",
+                            "scene_title": "Scene 1: Eleanor Bennett Commonwealth Hall",
                             "file_path": "e001/c003/s001.md"
                         },
                         {
                             "scene_num": 2,
-                            "scene_title": "Scene 2: The Awkward Outlet",
+                            "scene_title": "Scene 2: Room 214",
                             "file_path": "e001/c003/s002.md"
                         },
                         {
                             "scene_num": 3,
-                            "scene_title": "Scene 3: Stranded",
+                            "scene_title": "Scene 3: The Awkward Outlet",
                             "file_path": "e001/c003/s003.md"
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: Bedtime",
+                            "scene_title": "Scene 4: Stranded",
                             "file_path": "e001/c003/s004.md"
                         }
                     ]

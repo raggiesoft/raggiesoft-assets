@@ -1,0 +1,27 @@
+{
+  "seto": {
+    "label": "The Seto Inland Sea Era",
+    "heading": "1978 (2002 US Edition): The Ferry Hoshizora Recordings",
+    "description": "Originally commissioned in 1978 in Osaka, Japan as the shipboard musical identity for the overnight passenger vessel Ferry Hoshizora sailing the Seto Inland Sea. During the Japanese leg of The Stardust Engine's 2001–2002 Midnight Drivers World Tour, Holly O'Connell booked accessible cabins aboard the Ferry Hoshizora to spare Ryan and Cassidy another grueling domestic flight transfer. Moved by how the serene 1978 broadcast melody instantly dropped her brother and sister's sensory exhaustion to zero—an experience that directly inspired Cassidy's 2003 Twin Moons / Sanctuary (Zero-G) planetarium sessions—Holly negotiated the American distribution rights for Engine Room Records, LLC and commissioned an official English-language studio translation in 2002.",
+    "albums": [
+      {
+        "title": "Hoshizora no Uta: Voyages on the Seto Inland Sea",
+        "year": "1978",
+        "usReleaseYear": "2002",
+        "realRelease": "2026-10-18",
+        "url": "https://engineroom.raggiesoft.com/artists/the-hoshizora-ensemble/discography/1978-voyages-on-the-seto-inland-sea",
+        "folder": "1978-voyages-on-the-seto-inland-sea",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-hoshizora-ensemble/1978-voyages-on-the-seto-inland-sea/album-art.jpg",
+        "spotifyId": "",
+        "appleId": "",
+        "amazonId": "",
+        "youtubeId": "",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": "",
+        "genre": "70s Japanese Folk-Pop / City Pop / Maritime Acoustic",
+        "description": "Originally released in Japan in 1978 as the official shipboard theme suite of the overnight Ferry Hoshizora, and brought to the United States in 2002 by Holly O'Connell after the Seto Inland Sea crossing during The Stardust Engine's Midnight Drivers World Tour inspired the Twin Moons project."
+      }
+    ]
+  }
+}
+

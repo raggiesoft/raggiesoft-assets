@@ -1,0 +1,33 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
+  "name": "Hoshizora no Uta: Voyages on the Seto Inland Sea",
+  "alternateName": "星空のうた (Hoshizora no Uta)",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Hoshizora Ensemble"
+  },
+  "isRockOpera": false,
+  "albumProductionType": "StudioAlbum",
+  "albumReleaseType": "AlbumRelease",
+  "genre": "70s Japanese Folk-Pop / City Pop / Maritime Acoustic",
+  "temporalCoverage": "1978-05-15",
+  "usReleaseDate": "2002-07-12",
+  "realReleaseDate": "2026-10-18",
+  "description": "Originally recorded in Osaka in 1978 as the official shipboard PA soundtrack for the overnight RORO car ferry Ferry Hoshizora on the Seto Inland Sea. During the Japanese leg of The Stardust Engine's 2001–2002 Midnight Drivers World Tour, Holly O'Connell rolled the tour's accessible vehicles onto the car deck and booked accessible upper-deck cabins aboard Ferry Hoshizora for Ryan, Cassidy, Evan, and Tyler; the tranquil crossing and shipboard lullaby not only inspired the band's 2003 Twin Moons project (Sanctuary: Zero-G), but prompted Holly to negotiate the 2002 United States distribution rights and official English-language studio recordings for Engine Room Records, LLC.",
+  "gtin12": "",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Engine Room Records"
+  },
+  "conditionsOfAccess": "Cleared - Suno Commercial Premium License",
+  "creativeWorkStatus": "In Production",
+  "albumRelease": {
+    "@type": "MusicRelease",
+    "datePublished": "2026-10-18"
+  }
+}
+
