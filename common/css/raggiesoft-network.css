@@ -200,6 +200,16 @@ html[data-color-scheme="light"] .rs-network-bar {
   background: transparent;
 }
 
+@media (min-width: 768px) {
+  .rs-network-bar .rs-network-dropdown:last-child > .rs-network-dropdown-menu,
+  .rs-network-bar .rs-network-dropdown[data-rs-dropdown="portfolio"] > .rs-network-dropdown-menu,
+  .rs-network-dropdown:last-child > .rs-network-dropdown-menu,
+  .rs-network-dropdown[data-rs-dropdown="portfolio"] > .rs-network-dropdown-menu {
+    left: auto;
+    right: 0;
+  }
+}
+
 .rs-network-bar .rs-network-dropdown.is-open > .rs-network-dropdown-menu,
 .rs-network-dropdown.is-open > .rs-network-dropdown-menu {
   display: block !important;

@@ -4,14 +4,19 @@
  * raggiesoft-assets/common/js/raggiesoft-network.js
  * ============================================================================
  * Architectural Overview:
- * Unified Omnidirectional Ecosystem Navigation, Engine Room Band Roster
- * Dropdown Menu, & Mobile Single-Hamburger Enhancer shared across all
+ * Unified Omnidirectional Ecosystem Navigation, Multi-Dropdown Menu Engine
+ * (`📚 Ocean View ▾`, `⚙️ Engine Room ▾`, `👔 M. P. Ragsdale ▾`), Native PWA
+ * Immersion Guard, & Mobile Single-Hamburger Enhancer shared across all
  * RaggieSoft properties:
  *   1. raggiesoft.com (Hub)
  *   2. nebulae.raggiesoft.com (Nebulae Atlas)
- *   3. music.raggiesoft.com (The Listening Room)
- *   4. books.raggiesoft.com (RaggieSoft Book Reader)
- *   5. engineroom.raggiesoft.com (Engine Room Records + Band Roster Menu)
+ *   3. books.raggiesoft.com (Ocean View Archives + Literary Universes Menu)
+ *      └── Flagship Literary Universes:
+ *          • Ocean View Archives Hub (books.raggiesoft.com)
+ *          • Contemporary Fiction (books.raggiesoft.com/#contemporary-fiction)
+ *          • Project: KNOX (books.raggiesoft.com/knox)
+ *          • The Silver Gauntlet of Aethel (books.raggiesoft.com/aethel-saga)
+ *   4. engineroom.raggiesoft.com (Engine Room Records + Band Roster Menu)
  *      └── Alphabetical Band Roster (A–Z):
  *          • Crimson Node (engineroom.raggiesoft.com/artists/crimson-node)
  *          • Firelight (engineroom.raggiesoft.com/artists/firelight)
@@ -20,23 +25,32 @@
  *          • The Arctic Symphony Project (engineroom.raggiesoft.com/artists/the-arctic-symphony-project)
  *          • The Paper Wall (engineroom.raggiesoft.com/artists/the-paper-wall)
  *          • The Stardust Engine (stardust.raggiesoft.com)
- *   6. lore.raggiesoft.com (Lore Archive)
- *   7. corporate.raggiesoft.com (RaggieSoft Media)
- *   8. storetrainer.raggiesoft.com (RaggieSoft StoreTrainer)
- *   9. michaelpragsdale.com (Executive Systems Architect Dossier)
+ *   5. music.raggiesoft.com (The Listening Room)
+ *   6. stardust.raggiesoft.com (The Stardust Engine)
+ *   7. lore.raggiesoft.com (Lore Archive)
+ *   8. corporate.raggiesoft.com (RaggieSoft Media)
+ *   9. storetrainer.raggiesoft.com (RaggieSoft StoreTrainer)
+ *  10. michaelpragsdale.com (Executive Dossier + The Build Team Menu)
+ *      └── The Build Team & DevOps Family (/build-team):
+ *          • Michael (michaelpragsdale.com/build-team/michael)
+ *          • Paige — Safe Person & Editor (michaelpragsdale.com/build-team/paige)
+ *          • Jessica — Production VPS (michaelpragsdale.com/build-team/jessica)
+ *          • Harper — Studio Engineer (michaelpragsdale.com/build-team/harper)
+ *          • Jenna — Release & CDN Sync (michaelpragsdale.com/build-team/jenna)
+ *          • Sarah — Autonomous Deployer (michaelpragsdale.com/build-team/sarah)
+ *          • Amanda & Elara — Root & Router (michaelpragsdale.com/build-team/amanda-elara)
  * ============================================================================
  */
 (function () {
   'use strict';
 
   /**
-   * Top-level RaggieSoft properties (The Listening Room and The Stardust Engine
-   * live inside the Engine Room Records menu).
+   * Top-level RaggieSoft properties for the Mobile Network Switcher.
    */
   var NETWORK_SITES = [
     { id: 'hub', href: 'https://raggiesoft.com', host: 'raggiesoft.com', icon: '🌐', label: 'RaggieSoft Hub' },
     { id: 'nebulae', href: 'https://nebulae.raggiesoft.com', host: 'nebulae.raggiesoft.com', icon: '🌌', label: 'Nebulae Atlas' },
-    { id: 'books', href: 'https://books.raggiesoft.com', host: 'books.raggiesoft.com', icon: '📚', label: 'Book Reader' },
+    { id: 'books', href: 'https://books.raggiesoft.com', host: 'books.raggiesoft.com', icon: '📚', label: 'Ocean View Archives' },
     { id: 'engineroom', href: 'https://engineroom.raggiesoft.com', host: 'engineroom.raggiesoft.com', icon: '⚙️', label: 'Engine Room' },
     { id: 'corporate', href: 'https://corporate.raggiesoft.com', host: 'corporate.raggiesoft.com', icon: '🏢', label: 'Corporate Media' },
     { id: 'storetrainer', href: 'https://storetrainer.raggiesoft.com', host: 'storetrainer.raggiesoft.com', icon: '💾', label: 'StoreTrainer' },
@@ -44,9 +58,34 @@
   ];
 
   /**
+   * Ocean View Archives Flagship Literary Universes (`books.raggiesoft.com`).
+   */
+  var OCEAN_VIEW_ITEMS = [
+    {
+      id: 'contemporary',
+      name: 'Contemporary Fiction',
+      href: 'https://books.raggiesoft.com/#contemporary-fiction',
+      pathPrefix: '/#contemporary-fiction',
+      icon: '🌊'
+    },
+    {
+      id: 'knox',
+      name: 'Project: KNOX (Quantum Directive)',
+      href: 'https://books.raggiesoft.com/knox',
+      pathPrefix: '/knox',
+      icon: '🕵️'
+    },
+    {
+      id: 'aethel',
+      name: 'The Silver Gauntlet of Aethel',
+      href: 'https://books.raggiesoft.com/aethel-saga',
+      pathPrefix: '/aethel',
+      icon: '⚔️'
+    }
+  ];
+
+  /**
    * Official Engine Room Records Band Roster in strict alphabetical order (A–Z).
-   * Note: The Stardust Engine links to its dedicated cosmic portal (stardust.raggiesoft.com),
-   * while all other bands link to their lore dossiers on engineroom.raggiesoft.com/artists/{slug}.
    */
   var ENGINE_ROOM_BANDS = [
     {
@@ -93,6 +132,61 @@
     }
   ];
 
+  /**
+   * M. P. Ragsdale Build Team & DevOps Family (`michaelpragsdale.com/build-team/*`).
+   */
+  var BUILD_TEAM_MEMBERS = [
+    {
+      slug: 'michael',
+      name: 'Michael (The Architect)',
+      mobileLabel: 'Michael (Architect)',
+      href: 'https://michaelpragsdale.com/build-team/michael',
+      icon: '🧠'
+    },
+    {
+      slug: 'paige',
+      name: 'Paige (paige.php — Safe Person)',
+      mobileLabel: 'Paige (Safe Person)',
+      href: 'https://michaelpragsdale.com/build-team/paige',
+      icon: '👩‍🏫'
+    },
+    {
+      slug: 'jessica',
+      name: 'Jessica (jessica.raggiesoft.com)',
+      mobileLabel: 'Jessica (VPS Infra)',
+      href: 'https://michaelpragsdale.com/build-team/jessica',
+      icon: '🖥️'
+    },
+    {
+      slug: 'harper',
+      name: 'Harper (harper.sh — Studio)',
+      mobileLabel: 'Harper (harper.sh)',
+      href: 'https://michaelpragsdale.com/build-team/harper',
+      icon: '🎧'
+    },
+    {
+      slug: 'jenna',
+      name: 'Jenna (jenna-sync.sh — Sync)',
+      mobileLabel: 'Jenna (jenna-sync.sh)',
+      href: 'https://michaelpragsdale.com/build-team/jenna',
+      icon: '👱‍♀️'
+    },
+    {
+      slug: 'sarah',
+      name: 'Sarah (sarah-deploy.sh — Deploy)',
+      mobileLabel: 'Sarah (sarah-deploy.sh)',
+      href: 'https://michaelpragsdale.com/build-team/sarah',
+      icon: '🛡️'
+    },
+    {
+      slug: 'amanda-elara',
+      name: 'Amanda & Elara (Root & Router)',
+      mobileLabel: 'Amanda & Elara',
+      href: 'https://michaelpragsdale.com/build-team/amanda-elara',
+      icon: '🌱'
+    }
+  ];
+
   function getCurrentHost() {
     try {
       return (window.location.hostname || '').toLowerCase().replace(/^www\./, '');
@@ -121,6 +215,24 @@
     return (
       currentHost === 'engineroom.raggiesoft.com' &&
       currentPath.indexOf('/artists/' + band.slug) === 0
+    );
+  }
+
+  function isOceanViewItemActive(item, currentHost, currentPath) {
+    if (currentHost !== 'books.raggiesoft.com') return false;
+    if (item.id === 'knox') {
+      return currentPath === '/knox' || currentPath.indexOf('/quantum-directive') === 0;
+    }
+    if (item.id === 'aethel') {
+      return currentPath === '/aethel-saga' || currentPath.indexOf('/aethel') === 0;
+    }
+    return false;
+  }
+
+  function isBuildTeamMemberActive(member, currentHost, currentPath) {
+    return (
+      currentHost === 'michaelpragsdale.com' &&
+      currentPath === '/build-team/' + member.slug
     );
   }
 
@@ -210,7 +322,8 @@
       '.rs-network-dropdown-toggle.is-active { background-color: rgba(56, 189, 248, 0.2) !important; color: #38bdf8 !important; border-color: rgba(56, 189, 248, 0.65) !important; font-weight: 700; }',
       '.rs-network-caret { font-size: 0.65rem; opacity: 0.85; transition: transform 0.15s ease; }',
       '.rs-network-dropdown.is-open .rs-network-caret { transform: rotate(180deg); }',
-      '.rs-network-bar .rs-network-dropdown-menu, .rs-network-dropdown-menu { display: none; position: absolute; top: calc(100% + 0.2rem); left: 0; min-width: 250px; background-color: #0b1120 !important; color: #f8fafc !important; border: 1px solid rgba(56, 189, 248, 0.45) !important; border-radius: 0.55rem; padding: 0.4rem; box-shadow: 0 16px 36px rgba(0, 0, 0, 0.65); list-style: none !important; margin: 0 !important; z-index: 2000; }',
+      '.rs-network-bar .rs-network-dropdown-menu, .rs-network-dropdown-menu { display: none; position: absolute; top: calc(100% + 0.2rem); left: 0; min-width: 255px; background-color: #0b1120 !important; color: #f8fafc !important; border: 1px solid rgba(56, 189, 248, 0.45) !important; border-radius: 0.55rem; padding: 0.4rem; box-shadow: 0 16px 36px rgba(0, 0, 0, 0.65); list-style: none !important; margin: 0 !important; z-index: 2000; }',
+      '@media (min-width: 768px) { .rs-network-bar .rs-network-dropdown:last-child > .rs-network-dropdown-menu, .rs-network-bar .rs-network-dropdown[data-rs-dropdown="portfolio"] > .rs-network-dropdown-menu, .rs-network-dropdown:last-child > .rs-network-dropdown-menu, .rs-network-dropdown[data-rs-dropdown="portfolio"] > .rs-network-dropdown-menu { left: auto !important; right: 0 !important; } }',
       '.rs-network-dropdown-menu::before { content: ""; position: absolute; top: -0.65rem; left: -0.75rem; right: -0.75rem; height: 0.75rem; background: transparent; }',
       '.rs-network-bar .rs-network-dropdown.is-open > .rs-network-dropdown-menu, .rs-network-dropdown.is-open > .rs-network-dropdown-menu { display: block !important; }',
       '@media (hover: hover) and (pointer: fine) { .rs-network-bar .rs-network-dropdown:hover > .rs-network-dropdown-menu, .rs-network-dropdown:hover > .rs-network-dropdown-menu { display: block !important; } }',
@@ -240,7 +353,56 @@
   }
 
   /**
-   * Builds the HTML for the `⚙️ Engine Room ▾` dropdown `<li>` item on `.rs-network-bar`.
+   * 1. Builds the HTML for the `📚 Ocean View ▾` dropdown `<li>` item on `.rs-network-bar`.
+   */
+  function buildOceanViewDropdownLiHtml(currentHost, currentPath) {
+    var isOceanViewGroupActive = currentHost === 'books.raggiesoft.com';
+    var isImprintHomeActive =
+      currentHost === 'books.raggiesoft.com' &&
+      (currentPath === '/' || currentPath === '/home');
+
+    var universesHtml = OCEAN_VIEW_ITEMS.map(function (item) {
+      var active = isOceanViewItemActive(item, currentHost, currentPath);
+      return (
+        '<li role="none">' +
+        '<a role="menuitem" href="' + item.href + '"' +
+        (active ? ' class="is-active" aria-current="page"' : '') +
+        ' data-no-spa="true">' +
+        '<span aria-hidden="true">' + item.icon + '</span>' +
+        '<span>' + item.name + '</span>' +
+        '</a>' +
+        '</li>'
+      );
+    }).join('');
+
+    return (
+      '<li class="rs-network-dropdown" data-rs-dropdown="oceanview">' +
+      '<button type="button" class="rs-network-dropdown-toggle' +
+      (isOceanViewGroupActive ? ' is-active' : '') +
+      '" aria-expanded="false" aria-haspopup="true">' +
+      '<span aria-hidden="true">📚</span>' +
+      '<span>Ocean View</span>' +
+      '<span class="rs-network-caret" aria-hidden="true">▾</span>' +
+      '</button>' +
+      '<ul class="rs-network-dropdown-menu" role="menu" aria-label="Ocean View Archives & Literary Universes">' +
+      '<li role="none">' +
+      '<a role="menuitem" href="https://books.raggiesoft.com"' +
+      (isImprintHomeActive ? ' class="is-active" aria-current="page"' : '') +
+      ' data-no-spa="true">' +
+      '<span aria-hidden="true">📚</span>' +
+      '<span>Ocean View Archives Hub</span>' +
+      '</a>' +
+      '</li>' +
+      '<li class="rs-network-dropdown-divider" role="separator"></li>' +
+      '<li class="rs-network-dropdown-header" role="presentation">✦ Flagship Literary Universes</li>' +
+      universesHtml +
+      '</ul>' +
+      '</li>'
+    );
+  }
+
+  /**
+   * 2. Builds the HTML for the `⚙️ Engine Room ▾` dropdown `<li>` item on `.rs-network-bar`.
    */
   function buildEngineRoomDropdownLiHtml(currentHost, currentPath) {
     var isEngineRoomGroupActive =
@@ -269,7 +431,7 @@
     }).join('');
 
     return (
-      '<li class="rs-network-dropdown">' +
+      '<li class="rs-network-dropdown" data-rs-dropdown="engineroom">' +
       '<button type="button" class="rs-network-dropdown-toggle' +
       (isEngineRoomGroupActive ? ' is-active' : '') +
       '" aria-expanded="false" aria-haspopup="true">' +
@@ -311,23 +473,124 @@
   }
 
   /**
-   * Global delegated state for `.rs-network-dropdown` so that even if React/Svelte/Angular
-   * hydrates or replaces `.rs-network-bar` nodes, hover grace periods and click toggling
-   * never break or get stuck open.
+   * 3. Builds the HTML for the `👔 M. P. Ragsdale ▾` dropdown `<li>` item on `.rs-network-bar`.
+   */
+  function buildPortfolioDropdownLiHtml(currentHost, currentPath) {
+    var isPortfolioGroupActive = currentHost === 'michaelpragsdale.com';
+    var isDossierHomeActive =
+      currentHost === 'michaelpragsdale.com' &&
+      currentPath.indexOf('/build-team') !== 0;
+    var isBuildTeamOverviewActive =
+      currentHost === 'michaelpragsdale.com' && currentPath === '/build-team';
+
+    var membersHtml = BUILD_TEAM_MEMBERS.map(function (member) {
+      var active = isBuildTeamMemberActive(member, currentHost, currentPath);
+      return (
+        '<li role="none">' +
+        '<a role="menuitem" href="' + member.href + '"' +
+        (active ? ' class="is-active" aria-current="page"' : '') +
+        ' data-no-spa="true">' +
+        '<span aria-hidden="true">' + member.icon + '</span>' +
+        '<span>' + member.name + '</span>' +
+        '</a>' +
+        '</li>'
+      );
+    }).join('');
+
+    return (
+      '<li class="rs-network-dropdown" data-rs-dropdown="portfolio">' +
+      '<button type="button" class="rs-network-dropdown-toggle' +
+      (isPortfolioGroupActive ? ' is-active' : '') +
+      '" aria-expanded="false" aria-haspopup="true">' +
+      '<span aria-hidden="true">👔</span>' +
+      '<span>M. P. Ragsdale</span>' +
+      '<span class="rs-network-caret" aria-hidden="true">▾</span>' +
+      '</button>' +
+      '<ul class="rs-network-dropdown-menu" role="menu" aria-label="Michael P. Ragsdale & The Build Team">' +
+      '<li role="none">' +
+      '<a role="menuitem" href="https://michaelpragsdale.com"' +
+      (isDossierHomeActive ? ' class="is-active" aria-current="page"' : '') +
+      ' data-no-spa="true">' +
+      '<span aria-hidden="true">👔</span>' +
+      '<span>Executive Dossier (Home)</span>' +
+      '</a>' +
+      '</li>' +
+      '<li role="none">' +
+      '<a role="menuitem" href="https://michaelpragsdale.com/build-team"' +
+      (isBuildTeamOverviewActive ? ' class="is-active" aria-current="page"' : '') +
+      ' data-no-spa="true">' +
+      '<span aria-hidden="true">👥</span>' +
+      '<span>The Build Team (Overview)</span>' +
+      '</a>' +
+      '</li>' +
+      '<li class="rs-network-dropdown-divider" role="separator"></li>' +
+      '<li class="rs-network-dropdown-header" role="presentation">✦ Build Team &amp; DevOps Family</li>' +
+      membersHtml +
+      '</ul>' +
+      '</li>'
+    );
+  }
+
+  /**
+   * Builds the complete canonical `<ul>` innerHTML for `.rs-network-links`.
+   */
+  function buildDesktopNetworkLinksHtml(currentHost, currentPath) {
+    var isHubActive = currentHost === 'raggiesoft.com';
+    var isNebulaeActive = currentHost === 'nebulae.raggiesoft.com';
+    var isCorporateActive = currentHost === 'corporate.raggiesoft.com';
+    var isStoreTrainerActive = currentHost === 'storetrainer.raggiesoft.com';
+
+    return [
+      '<li><a href="https://raggiesoft.com"' +
+        (isHubActive ? ' aria-current="page" class="is-active"' : '') +
+        ' data-no-spa="true">🌐 Hub</a></li>',
+      '<li><a href="https://nebulae.raggiesoft.com"' +
+        (isNebulaeActive ? ' aria-current="page" class="is-active"' : '') +
+        ' data-no-spa="true">🌌 Nebulae</a></li>',
+      buildOceanViewDropdownLiHtml(currentHost, currentPath),
+      buildEngineRoomDropdownLiHtml(currentHost, currentPath),
+      '<li><a href="https://corporate.raggiesoft.com"' +
+        (isCorporateActive ? ' aria-current="page" class="is-active"' : '') +
+        ' data-no-spa="true">🏢 Corporate</a></li>',
+      '<li><a href="https://storetrainer.raggiesoft.com"' +
+        (isStoreTrainerActive ? ' aria-current="page" class="is-active"' : '') +
+        ' data-no-spa="true">💾 StoreTrainer</a></li>',
+      buildPortfolioDropdownLiHtml(currentHost, currentPath)
+    ].join('');
+  }
+
+  /**
+   * Global delegated state for all `.rs-network-dropdown` menus (`📚 Ocean View ▾`,
+   * `⚙️ Engine Room ▾`, and `👔 M. P. Ragsdale ▾`).
+   * Guarantees only one dropdown is open at any moment, provides a 220ms hover
+   * grace period across the button-to-menu bridge, and supports click-pinning
+   * and keyboard `Escape` dismissal.
    */
   var dropdownCloseTimer = null;
   var dropdownPinnedByClick = false;
 
-  function setDropdownOpenState(isOpen) {
-    var dropdownLi = document.querySelector('.rs-network-dropdown');
-    if (!dropdownLi) return;
-    var toggleBtn = dropdownLi.querySelector('.rs-network-dropdown-toggle');
-    if (isOpen) {
-      dropdownLi.classList.add('is-open');
-      if (toggleBtn) toggleBtn.setAttribute('aria-expanded', 'true');
-    } else {
-      dropdownLi.classList.remove('is-open');
-      if (toggleBtn) toggleBtn.setAttribute('aria-expanded', 'false');
+  function closeAllDropdowns() {
+    var allDropdowns = document.querySelectorAll('.rs-network-dropdown');
+    for (var i = 0; i < allDropdowns.length; i++) {
+      allDropdowns[i].classList.remove('is-open');
+      var btn = allDropdowns[i].querySelector('.rs-network-dropdown-toggle');
+      if (btn) btn.setAttribute('aria-expanded', 'false');
+    }
+  }
+
+  function openSingleDropdown(targetDropdownLi) {
+    if (!targetDropdownLi) return;
+    var allDropdowns = document.querySelectorAll('.rs-network-dropdown');
+    for (var i = 0; i < allDropdowns.length; i++) {
+      var li = allDropdowns[i];
+      var btn = li.querySelector('.rs-network-dropdown-toggle');
+      if (li === targetDropdownLi) {
+        li.classList.add('is-open');
+        if (btn) btn.setAttribute('aria-expanded', 'true');
+      } else {
+        li.classList.remove('is-open');
+        if (btn) btn.setAttribute('aria-expanded', 'false');
+      }
     }
   }
 
@@ -339,31 +602,37 @@
     document.addEventListener('pointerover', function (e) {
       var target = e.target;
       if (!target || typeof target.closest !== 'function') return;
-      if (target.closest('.rs-network-dropdown')) {
+      var hoveredDropdown = target.closest('.rs-network-dropdown');
+      if (hoveredDropdown) {
         if (dropdownCloseTimer) {
           clearTimeout(dropdownCloseTimer);
           dropdownCloseTimer = null;
         }
-        setDropdownOpenState(true);
+        if (!dropdownPinnedByClick) {
+          openSingleDropdown(hoveredDropdown);
+        }
       }
     });
 
     document.addEventListener('mousemove', function (e) {
       var target = e.target;
       if (!target || typeof target.closest !== 'function') return;
-      if (target.closest('.rs-network-dropdown')) {
+      var hoveredDropdown = target.closest('.rs-network-dropdown');
+      if (hoveredDropdown) {
         if (dropdownCloseTimer) {
           clearTimeout(dropdownCloseTimer);
           dropdownCloseTimer = null;
         }
-        setDropdownOpenState(true);
+        if (!dropdownPinnedByClick) {
+          openSingleDropdown(hoveredDropdown);
+        }
       } else if (!dropdownPinnedByClick) {
-        var dropdownLi = document.querySelector('.rs-network-dropdown');
-        if (dropdownLi && dropdownLi.classList.contains('is-open') && !dropdownCloseTimer) {
+        var openLi = document.querySelector('.rs-network-dropdown.is-open');
+        if (openLi && !dropdownCloseTimer) {
           dropdownCloseTimer = setTimeout(function () {
             dropdownCloseTimer = null;
             if (!dropdownPinnedByClick) {
-              setDropdownOpenState(false);
+              closeAllDropdowns();
             }
           }, 220);
         }
@@ -374,36 +643,38 @@
       var target = e.target;
       if (!target || typeof target.closest !== 'function') return;
       var toggleBtn = target.closest('.rs-network-dropdown-toggle');
-      var dropdownLi = document.querySelector('.rs-network-dropdown');
-      if (toggleBtn && dropdownLi) {
+      var clickedDropdown = target.closest('.rs-network-dropdown');
+
+      if (toggleBtn && clickedDropdown) {
         e.stopPropagation();
         if (dropdownCloseTimer) {
           clearTimeout(dropdownCloseTimer);
           dropdownCloseTimer = null;
         }
-        if (dropdownLi.classList.contains('is-open') && dropdownPinnedByClick) {
+        if (clickedDropdown.classList.contains('is-open') && dropdownPinnedByClick) {
           dropdownPinnedByClick = false;
-          setDropdownOpenState(false);
+          closeAllDropdowns();
         } else {
           dropdownPinnedByClick = true;
-          setDropdownOpenState(true);
+          openSingleDropdown(clickedDropdown);
         }
         return;
       }
 
-      if (dropdownLi && !dropdownLi.contains(target) && dropdownLi.classList.contains('is-open')) {
+      /* Clicking any menu link or clicking outside closes all dropdowns */
+      if (document.querySelector('.rs-network-dropdown.is-open')) {
         dropdownPinnedByClick = false;
-        setDropdownOpenState(false);
+        closeAllDropdowns();
       }
     });
 
     document.addEventListener('keydown', function (e) {
       if (e.key === 'Escape') {
-        var dropdownLi = document.querySelector('.rs-network-dropdown');
-        if (dropdownLi && dropdownLi.classList.contains('is-open')) {
+        var openLi = document.querySelector('.rs-network-dropdown.is-open');
+        if (openLi) {
+          var toggleBtn = openLi.querySelector('.rs-network-dropdown-toggle');
           dropdownPinnedByClick = false;
-          setDropdownOpenState(false);
-          var toggleBtn = dropdownLi.querySelector('.rs-network-dropdown-toggle');
+          closeAllDropdowns();
           if (toggleBtn) toggleBtn.focus();
         }
       }
@@ -414,10 +685,9 @@
    * Upgrades `.rs-network-bar` on any page so that:
    * 1. Semantic classes (`.rs-network-bar-inner`, `.rs-network-label`, `.rs-network-links`)
    *    are normalized automatically.
-   * 2. Standalone top-level `stardust.raggiesoft.com` and `music.raggiesoft.com` links
-   *    are consolidated into the `⚙️ Engine Room ▾` dropdown menu.
-   * 3. If a client framework (e.g. React 19 hydration on `lore.raggiesoft.com`) overwrote
-   *    the DOM back to a flat link list, it re-upgrades `.rs-network-dropdown` automatically.
+   * 2. All 3 dropdown menus (`📚 Ocean View ▾`, `⚙️ Engine Room ▾`, `👔 M. P. Ragsdale ▾`)
+   *    are rendered consistently across every property.
+   * 3. Active states update automatically on SPA route changes.
    */
   function upgradeDesktopNetworkBar() {
     ensureGlobalDropdownDelegation();
@@ -443,61 +713,13 @@
 
     var currentHost = getCurrentHost();
     var currentPath = getCurrentPathname();
+    var stateKey = currentHost + '::' + currentPath;
 
-    var existingDropdown = linksList.querySelector('.rs-network-dropdown');
-    var hasLegacyTopLevelLinks = false;
-    var topAnchors = Array.prototype.slice.call(linksList.querySelectorAll(':scope > li > a'));
-    topAnchors.forEach(function (a) {
-      var href = (a.getAttribute('href') || '').toLowerCase();
-      if (
-        href.indexOf('stardust.raggiesoft.com') !== -1 ||
-        href.indexOf('music.raggiesoft.com') !== -1 ||
-        href.indexOf('lore.raggiesoft.com') !== -1
-      ) {
-        hasLegacyTopLevelLinks = true;
-      }
-    });
-
-    if (!existingDropdown || hasLegacyTopLevelLinks || !linksList.getAttribute('data-rs-upgraded')) {
+    var dropdownCount = linksList.querySelectorAll(':scope > li.rs-network-dropdown').length;
+    if (dropdownCount < 3 || linksList.getAttribute('data-rs-state') !== stateKey) {
       linksList.setAttribute('data-rs-upgraded', 'true');
-
-      /* Remove standalone top-level stardust, music, and unlaunched lore links if present in static HTML */
-      topAnchors.forEach(function (a) {
-        var href = (a.getAttribute('href') || '').toLowerCase();
-        if (
-          href.indexOf('stardust.raggiesoft.com') !== -1 ||
-          href.indexOf('music.raggiesoft.com') !== -1 ||
-          href.indexOf('lore.raggiesoft.com') !== -1
-        ) {
-          var parentLi = a.parentElement;
-          if (parentLi && parentLi.parentElement === linksList) {
-            linksList.removeChild(parentLi);
-          }
-        }
-      });
-
-      /* Replace or upgrade the Engine Room <li> with the Band Roster dropdown */
-      existingDropdown = linksList.querySelector('.rs-network-dropdown');
-      var dropdownHtml = buildEngineRoomDropdownLiHtml(currentHost, currentPath);
-
-      if (existingDropdown) {
-        existingDropdown.outerHTML = dropdownHtml;
-      } else {
-        var engineAnchor = null;
-        var remainingAnchors = Array.prototype.slice.call(linksList.querySelectorAll(':scope > li > a'));
-        for (var i = 0; i < remainingAnchors.length; i++) {
-          var h = (remainingAnchors[i].getAttribute('href') || '').toLowerCase();
-          if (h.indexOf('engineroom.raggiesoft.com') !== -1) {
-            engineAnchor = remainingAnchors[i];
-            break;
-          }
-        }
-        if (engineAnchor && engineAnchor.parentElement) {
-          engineAnchor.parentElement.outerHTML = dropdownHtml;
-        } else {
-          linksList.insertAdjacentHTML('beforeend', dropdownHtml);
-        }
-      }
+      linksList.setAttribute('data-rs-state', stateKey);
+      linksList.innerHTML = buildDesktopNetworkLinksHtml(currentHost, currentPath);
     }
   }
 
@@ -514,6 +736,20 @@
         ' data-no-spa="true">' +
         '<span class="rs-mobile-network-icon" aria-hidden="true">' + site.icon + '</span>' +
         '<span class="rs-mobile-network-text">' + site.label + '</span>' +
+        '</a>' +
+        '</li>'
+      );
+    }).join('');
+
+    var oceanViewHtml = OCEAN_VIEW_ITEMS.map(function (item) {
+      var active = isOceanViewItemActive(item, currentHost, currentPath);
+      return (
+        '<li>' +
+        '<a href="' + item.href + '" class="rs-mobile-network-link' + (active ? ' is-active' : '') + '"' +
+        (active ? ' aria-current="page"' : '') +
+        ' data-no-spa="true">' +
+        '<span class="rs-mobile-network-icon" aria-hidden="true">' + item.icon + '</span>' +
+        '<span class="rs-mobile-network-text">' + item.name + '</span>' +
         '</a>' +
         '</li>'
       );
@@ -544,16 +780,51 @@
       );
     }).join('');
 
+    var isBuildTeamOverviewActive =
+      currentHost === 'michaelpragsdale.com' && currentPath === '/build-team';
+    var buildTeamOverviewItem =
+      '<li>' +
+      '<a href="https://michaelpragsdale.com/build-team" class="rs-mobile-network-link' + (isBuildTeamOverviewActive ? ' is-active' : '') + '"' +
+      (isBuildTeamOverviewActive ? ' aria-current="page"' : '') +
+      ' data-no-spa="true">' +
+      '<span class="rs-mobile-network-icon" aria-hidden="true">👥</span>' +
+      '<span class="rs-mobile-network-text">Build Team Overview</span>' +
+      '</a>' +
+      '</li>';
+
+    var buildTeamHtml = BUILD_TEAM_MEMBERS.map(function (member) {
+      var active = isBuildTeamMemberActive(member, currentHost, currentPath);
+      return (
+        '<li>' +
+        '<a href="' + member.href + '" class="rs-mobile-network-link' + (active ? ' is-active' : '') + '"' +
+        (active ? ' aria-current="page"' : '') +
+        ' data-no-spa="true">' +
+        '<span class="rs-mobile-network-icon" aria-hidden="true">' + member.icon + '</span>' +
+        '<span class="rs-mobile-network-text">' + member.mobileLabel + '</span>' +
+        '</a>' +
+        '</li>'
+      );
+    }).join('');
+
     return (
       '<div class="rs-mobile-network-section" data-rs-breakpoint="' + breakpointAttr + '" role="region" aria-label="RaggieSoft Ecosystem Switcher">' +
       '<div class="rs-mobile-network-title">✦ Switch RaggieSoft Property</div>' +
       '<ul class="rs-mobile-network-grid">' +
       itemsHtml +
       '</ul>' +
+      '<div class="rs-mobile-network-title" style="margin-top: 0.65rem;">📚 Ocean View Archives</div>' +
+      '<ul class="rs-mobile-network-grid">' +
+      oceanViewHtml +
+      '</ul>' +
       '<div class="rs-mobile-network-title" style="margin-top: 0.65rem;">⚙️ Engine Room Records &amp; Bands (A–Z)</div>' +
       '<ul class="rs-mobile-network-grid">' +
       listeningRoomMobileItem +
       bandsHtml +
+      '</ul>' +
+      '<div class="rs-mobile-network-title" style="margin-top: 0.65rem;">👔 M. P. Ragsdale &amp; The Build Team</div>' +
+      '<ul class="rs-mobile-network-grid">' +
+      buildTeamOverviewItem +
+      buildTeamHtml +
       '</ul>' +
       '</div>'
     );
@@ -561,7 +832,11 @@
 
   function injectIntoContainer(container, breakpointAttr) {
     if (!container) return false;
-    if (container.querySelector('.rs-mobile-network-section')) return true;
+    var existing = container.querySelector('.rs-mobile-network-section');
+    if (existing) {
+      existing.outerHTML = buildMobileGridHtml(breakpointAttr);
+      return true;
+    }
     container.insertAdjacentHTML('beforeend', buildMobileGridHtml(breakpointAttr));
     return true;
   }
@@ -686,4 +961,3 @@
     obs.observe(stardustApp, { childList: true });
   }
 })();
-
