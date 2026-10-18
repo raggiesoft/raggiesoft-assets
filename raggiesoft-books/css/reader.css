@@ -46,7 +46,7 @@
 
 /* Mobile: Off-canvas sidebar hidden by default */
 @media (max-width: 991px) {
-    .reader-sidebar { position: fixed !important; top: 0; left: 0; width: 300px; height: 100vh; z-index: 1000; transform: translateX(-100%); box-shadow: 5px 0 15px rgba(0,0,0,0.1); }
+    .reader-sidebar { position: fixed !important; top: 0; left: 0; width: min(320px, 86vw); height: 100vh; height: 100dvh; padding-bottom: calc(5.5rem + env(safe-area-inset-bottom, 0px)); z-index: 1000; transform: translateX(-100%); box-shadow: 5px 0 15px rgba(0,0,0,0.1); -webkit-overflow-scrolling: touch; overscroll-behavior: contain; }
     .reader-sidebar.open { transform: translateX(0); }
 }
 

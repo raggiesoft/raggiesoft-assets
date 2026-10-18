@@ -45,12 +45,13 @@
   'use strict';
 
   /**
-   * Top-level RaggieSoft properties for the Mobile Network Switcher.
+   * Top-level RaggieSoft properties for the Mobile Network Switcher (4x2 balanced grid).
    */
   var NETWORK_SITES = [
     { id: 'hub', href: 'https://raggiesoft.com', host: 'raggiesoft.com', icon: '🌐', label: 'RaggieSoft Hub' },
     { id: 'nebulae', href: 'https://nebulae.raggiesoft.com', host: 'nebulae.raggiesoft.com', icon: '🌌', label: 'Nebulae Atlas' },
     { id: 'books', href: 'https://books.raggiesoft.com', host: 'books.raggiesoft.com', icon: '📚', label: 'Ocean View Archives' },
+    { id: 'music', href: 'https://music.raggiesoft.com', host: 'music.raggiesoft.com', icon: '🎧', label: 'The Listening Room' },
     { id: 'engineroom', href: 'https://engineroom.raggiesoft.com', host: 'engineroom.raggiesoft.com', icon: '⚙️', label: 'Engine Room' },
     { id: 'corporate', href: 'https://corporate.raggiesoft.com', host: 'corporate.raggiesoft.com', icon: '🏢', label: 'Corporate Media' },
     { id: 'storetrainer', href: 'https://storetrainer.raggiesoft.com', host: 'storetrainer.raggiesoft.com', icon: '💾', label: 'StoreTrainer' },
@@ -63,9 +64,9 @@
   var OCEAN_VIEW_ITEMS = [
     {
       id: 'contemporary',
-      name: 'Contemporary Fiction',
-      href: 'https://books.raggiesoft.com/#contemporary-fiction',
-      pathPrefix: '/#contemporary-fiction',
+      name: 'Contemporary Fiction (Library)',
+      href: 'https://books.raggiesoft.com/library',
+      pathPrefix: '/library',
       icon: '🌊'
     },
     {
@@ -220,6 +221,9 @@
 
   function isOceanViewItemActive(item, currentHost, currentPath) {
     if (currentHost !== 'books.raggiesoft.com') return false;
+    if (item.id === 'contemporary') {
+      return currentPath === '/library' || currentPath === '/catalog';
+    }
     if (item.id === 'knox') {
       return currentPath === '/knox' || currentPath.indexOf('/quantum-directive') === 0;
     }
@@ -301,8 +305,9 @@
   /**
    * Injects core defensive CSS rules directly into <head> so that even if a browser
    * or Cloudflare edge node serves a stale cached stylesheet, `.rs-network-dropdown`
-   * and `.rs-mobile-network-section` render cleanly across all viewports and hide
-   * automatically inside installed native PWAs.
+   * and `.rs-mobile-network-section` render cleanly across all viewports, scroll
+   * internally without clipping on iOS Safari, and hide automatically inside
+   * installed native PWAs.
    */
   function ensureNetworkStylesInjected() {
     if (!document.head || document.getElementById('rs-network-core-css')) return;
@@ -333,18 +338,27 @@
       '.rs-network-dropdown-menu a { display: flex !important; align-items: center; gap: 0.45rem; width: 100%; padding: 0.38rem 0.6rem !important; border-radius: 0.38rem; font-size: 0.76rem !important; font-weight: 600; color: #f1f5f9 !important; background-color: transparent !important; text-decoration: none !important; border: 1px solid transparent !important; white-space: nowrap; }',
       '.rs-network-dropdown-menu a:hover, .rs-network-dropdown-menu a:focus-visible { background-color: #1e293b !important; color: #38bdf8 !important; border-color: rgba(56, 189, 248, 0.45) !important; }',
       '.rs-network-dropdown-menu a.is-active, .rs-network-dropdown-menu a[aria-current="page"] { background-color: rgba(56, 189, 248, 0.2) !important; color: #38bdf8 !important; border-color: rgba(56, 189, 248, 0.6) !important; font-weight: 700; }',
-      '.rs-mobile-network-section { display: none; width: 100%; margin-top: 0.75rem; padding-top: 0.75rem; border-top: 1px solid rgba(148, 163, 184, 0.28); }',
+      '.rs-mobile-network-section { display: none; width: 100%; margin-top: 0.75rem; padding-top: 0.75rem; padding-bottom: 0.5rem; border-top: 1px solid rgba(148, 163, 184, 0.28); }',
       '.rs-mobile-network-title { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 0.68rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.08em; color: #fbbf24; margin-bottom: 0.5rem; padding: 0 0.25rem; display: flex; align-items: center; gap: 0.35rem; }',
       '[data-bs-theme="light"] .rs-mobile-network-title, [data-theme="light"] .rs-mobile-network-title, [data-color-scheme="light"] .rs-mobile-network-title, html.light .rs-mobile-network-title { color: #854d0e !important; }',
       '.rs-mobile-network-grid { display: grid !important; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.35rem; list-style: none !important; margin: 0 !important; padding: 0 !important; }',
-      '.rs-mobile-network-grid > li { list-style: none !important; margin: 0 !important; padding: 0 !important; }',
-      '.rs-mobile-network-link { display: flex; align-items: center; gap: 0.4rem; padding: 0.45rem 0.55rem; border-radius: 0.45rem; font-size: 0.76rem; font-weight: 600; text-decoration: none !important; color: #e2e8f0; background-color: rgba(15, 23, 42, 0.78); border: 1px solid rgba(148, 163, 184, 0.24); line-height: 1.2; min-width: 0; }',
+      '.rs-mobile-network-grid > li { list-style: none !important; margin: 0 !important; padding: 0 !important; min-width: 0; }',
+      '.rs-mobile-network-link { display: flex; align-items: center; gap: 0.38rem; padding: 0.38rem 0.55rem; min-height: 38px; border-radius: 0.45rem; font-size: 0.75rem; font-weight: 600; text-decoration: none !important; color: #e2e8f0; background-color: rgba(15, 23, 42, 0.78); border: 1px solid rgba(148, 163, 184, 0.24); line-height: 1.2; min-width: 0; }',
       '[data-bs-theme="light"] .rs-mobile-network-link, [data-theme="light"] .rs-mobile-network-link, [data-color-scheme="light"] .rs-mobile-network-link, html.light .rs-mobile-network-link { color: #0f172a !important; background-color: #f1f5f9 !important; border-color: #64748b !important; }',
       '.rs-mobile-network-link.is-active, .rs-mobile-network-link[aria-current="page"] { background-color: rgba(56, 189, 248, 0.18); color: #38bdf8; border-color: rgba(56, 189, 248, 0.6); font-weight: 700; }',
       '[data-bs-theme="light"] .rs-mobile-network-link.is-active, [data-bs-theme="light"] .rs-mobile-network-link[aria-current="page"], [data-theme="light"] .rs-mobile-network-link.is-active, [data-theme="light"] .rs-mobile-network-link[aria-current="page"], [data-color-scheme="light"] .rs-mobile-network-link.is-active, [data-color-scheme="light"] .rs-mobile-network-link[aria-current="page"] { background-color: #e0f2fe !important; color: #0c4a6e !important; border-color: #0284c7 !important; }',
       '.rs-mobile-network-text { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }',
-      '@media (max-width: 1120px) { body.rs-has-primary-nav .rs-network-bar { display: none !important; } .rs-mobile-network-section[data-rs-breakpoint="1120"] { display: block !important; } }',
-      '@media (max-width: 767.98px) { body.rs-has-md-nav .rs-network-bar { display: none !important; } .rs-mobile-network-section[data-rs-breakpoint="768"] { display: block !important; } }',
+      '.rs-mobile-submenus { display: flex; flex-direction: column; gap: 0.4rem; margin-top: 0.55rem; }',
+      '.rs-mobile-submenu { border: 1px solid rgba(148, 163, 184, 0.28); border-radius: 0.5rem; background-color: rgba(15, 23, 42, 0.55); overflow: hidden; }',
+      '.rs-mobile-submenu-summary { list-style: none; display: flex; align-items: center; justify-content: space-between; gap: 0.5rem; padding: 0.48rem 0.65rem; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-size: 0.7rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.05em; color: #fbbf24; cursor: pointer; user-select: none; }',
+      '.rs-mobile-submenu-summary::-webkit-details-marker { display: none; }',
+      '.rs-mobile-submenu-caret { font-size: 0.75rem; transition: transform 0.15s ease; }',
+      '.rs-mobile-submenu[open] .rs-mobile-submenu-caret { transform: rotate(180deg); }',
+      '.rs-mobile-submenu-body { padding: 0.2rem 0.5rem 0.55rem; border-top: 1px solid rgba(148, 163, 184, 0.2); }',
+      '[data-bs-theme="light"] .rs-mobile-submenu, [data-theme="light"] .rs-mobile-submenu, [data-color-scheme="light"] .rs-mobile-submenu, html.light .rs-mobile-submenu { background-color: #f8fafc !important; border-color: #94a3b8 !important; }',
+      '[data-bs-theme="light"] .rs-mobile-submenu-summary, [data-theme="light"] .rs-mobile-submenu-summary, [data-color-scheme="light"] .rs-mobile-submenu-summary, html.light .rs-mobile-submenu-summary { color: #854d0e !important; }',
+      '@media (max-width: 1120px) { body.rs-has-primary-nav .rs-network-bar { display: none !important; } .rs-mobile-network-section[data-rs-breakpoint="1120"] { display: block !important; } #primary-navigation { max-height: calc(100vh - 4.5rem) !important; max-height: calc(100dvh - 4.5rem) !important; overflow-y: auto !important; overflow-x: hidden !important; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; padding-bottom: calc(3.25rem + env(safe-area-inset-bottom, 0px)) !important; } }',
+      '@media (max-width: 767.98px) { body.rs-has-md-nav .rs-network-bar { display: none !important; } .rs-mobile-network-section[data-rs-breakpoint="768"] { display: block !important; } #header-navigation-panel, #navbarCollapse, #music-mobile-navigation, .rs-standalone-network-bar.is-open .rs-network-links { max-height: calc(100vh - 4.5rem) !important; max-height: calc(100dvh - 4.5rem) !important; overflow-y: auto !important; overflow-x: hidden !important; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; padding-bottom: calc(3.25rem + env(safe-area-inset-bottom, 0px)) !important; } .rs-standalone-network-bar { position: sticky !important; top: 0 !important; z-index: 1055 !important; } .rs-standalone-network-bar .rs-network-mobile-toggle { display: inline-flex !important; } .rs-standalone-network-bar .rs-network-links { display: none !important; width: 100%; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.4rem; padding-top: 0.5rem; margin-top: 0.35rem; border-top: 1px solid rgba(148, 163, 184, 0.28); } .rs-standalone-network-bar.is-open .rs-network-links { display: grid !important; } .rs-standalone-network-bar .rs-network-links > li > a, .rs-standalone-network-bar .rs-network-dropdown-toggle { width: 100% !important; min-height: 38px; padding: 0.4rem 0.6rem !important; background-color: rgba(30, 41, 59, 0.75) !important; border-color: rgba(148, 163, 184, 0.3) !important; justify-content: flex-start; } .rs-standalone-network-bar .rs-network-dropdown { display: flex !important; flex-direction: column; align-items: stretch; } .rs-standalone-network-bar .rs-network-dropdown.is-open { grid-column: 1 / -1; } .rs-standalone-network-bar .rs-network-dropdown-menu { position: static !important; width: 100% !important; margin-top: 0.35rem !important; box-shadow: none !important; } }',
       '.rs-mobile-network-section[data-rs-breakpoint="always"] { display: block !important; }',
       '@media (display-mode: standalone), (display-mode: window-controls-overlay), (display-mode: minimal-ui), (display-mode: fullscreen) { .rs-network-bar, .rs-mobile-network-section { display: none !important; } }',
       'html.is-pwa-standalone .rs-network-bar, html.is-pwa-standalone .rs-mobile-network-section, body.is-pwa-standalone .rs-network-bar, body.is-pwa-standalone .rs-mobile-network-section { display: none !important; }'
@@ -723,6 +737,30 @@
     }
   }
 
+  var mobileAccordionListenerAttached = false;
+  function ensureMobileAccordionBehavior() {
+    if (mobileAccordionListenerAttached || typeof document === 'undefined') return;
+    mobileAccordionListenerAttached = true;
+
+    document.addEventListener(
+      'toggle',
+      function (event) {
+        var target = event.target;
+        if (!target || !target.classList || !target.classList.contains('rs-mobile-submenu')) return;
+        if (!target.open) return;
+        var parent = target.parentElement;
+        if (!parent) return;
+        var siblings = parent.querySelectorAll('details.rs-mobile-submenu[open]');
+        for (var i = 0; i < siblings.length; i++) {
+          if (siblings[i] !== target) {
+            siblings[i].removeAttribute('open');
+          }
+        }
+      },
+      true
+    );
+  }
+
   function buildMobileGridHtml(breakpointAttr) {
     var currentHost = getCurrentHost();
     var currentPath = getCurrentPathname();
@@ -763,6 +801,19 @@
       ' data-no-spa="true">' +
       '<span class="rs-mobile-network-icon" aria-hidden="true">🎧</span>' +
       '<span class="rs-mobile-network-text">The Listening Room</span>' +
+      '</a>' +
+      '</li>';
+
+    var isEngineRoomHubActive =
+      currentHost === 'engineroom.raggiesoft.com' &&
+      (currentPath === '/' || currentPath === '/index.html');
+    var engineRoomHubMobileItem =
+      '<li>' +
+      '<a href="https://engineroom.raggiesoft.com" class="rs-mobile-network-link' + (isEngineRoomHubActive ? ' is-active' : '') + '"' +
+      (isEngineRoomHubActive ? ' aria-current="page"' : '') +
+      ' data-no-spa="true">' +
+      '<span class="rs-mobile-network-icon" aria-hidden="true">⚙️</span>' +
+      '<span class="rs-mobile-network-text">Engine Room Hub</span>' +
       '</a>' +
       '</li>';
 
@@ -812,26 +863,51 @@
       '<ul class="rs-mobile-network-grid">' +
       itemsHtml +
       '</ul>' +
-      '<div class="rs-mobile-network-title" style="margin-top: 0.65rem;">📚 Ocean View Archives</div>' +
+      '<div class="rs-mobile-submenus">' +
+      '<details class="rs-mobile-submenu">' +
+      '<summary class="rs-mobile-submenu-summary">' +
+      '<span>📚 Ocean View Archives — Universes &amp; Lore</span>' +
+      '<span class="rs-mobile-submenu-caret" aria-hidden="true">▾</span>' +
+      '</summary>' +
+      '<div class="rs-mobile-submenu-body">' +
       '<ul class="rs-mobile-network-grid">' +
       oceanViewHtml +
       '</ul>' +
-      '<div class="rs-mobile-network-title" style="margin-top: 0.65rem;">⚙️ Engine Room Records &amp; Bands (A–Z)</div>' +
+      '</div>' +
+      '</details>' +
+      '<details class="rs-mobile-submenu">' +
+      '<summary class="rs-mobile-submenu-summary">' +
+      '<span>⚙️ Engine Room Records — Bands (A–Z)</span>' +
+      '<span class="rs-mobile-submenu-caret" aria-hidden="true">▾</span>' +
+      '</summary>' +
+      '<div class="rs-mobile-submenu-body">' +
       '<ul class="rs-mobile-network-grid">' +
       listeningRoomMobileItem +
+      engineRoomHubMobileItem +
       bandsHtml +
       '</ul>' +
-      '<div class="rs-mobile-network-title" style="margin-top: 0.65rem;">👔 M. P. Ragsdale &amp; The Build Team</div>' +
+      '</div>' +
+      '</details>' +
+      '<details class="rs-mobile-submenu">' +
+      '<summary class="rs-mobile-submenu-summary">' +
+      '<span>👔 M. P. Ragsdale — The Build Team</span>' +
+      '<span class="rs-mobile-submenu-caret" aria-hidden="true">▾</span>' +
+      '</summary>' +
+      '<div class="rs-mobile-submenu-body">' +
       '<ul class="rs-mobile-network-grid">' +
       buildTeamOverviewItem +
       buildTeamHtml +
       '</ul>' +
+      '</div>' +
+      '</details>' +
+      '</div>' +
       '</div>'
     );
   }
 
   function injectIntoContainer(container, breakpointAttr) {
     if (!container) return false;
+    ensureMobileAccordionBehavior();
     var existing = container.querySelector('.rs-mobile-network-section');
     if (existing) {
       existing.outerHTML = buildMobileGridHtml(breakpointAttr);
