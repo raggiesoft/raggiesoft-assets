@@ -11,9 +11,9 @@
   },
   "albumProductionType": "LiveAlbum",
   "albumReleaseType": "AlbumRelease",
-  "genre": "Live Rock",
+  "genre": "Live Arena Rock / 80s Cosmic Pop / Melodic Stadium Rock",
   "temporalCoverage": "2005-04-18",
-  "description": "Recorded at the Norfolk Scope during the North American Tour.",
+  "description": "Recorded under the concrete dome of the Norfolk Scope Arena at the culmination of the grueling 2003–2004 Twin Moons & Progress Street Tour. Opening with 'The Stardust Engine' and closing with 'Electric Color', this triumphant yet exhausting coastal Virginia performance marks the final live concert before the family turned off the switches and entered their decade-long Burnout Hiatus (2005–2014).",
   "publisher": {
     "@type": "Organization",
     "name": "Engine Room Records"
@@ -21,5 +21,30 @@
   "albumRelease": {
     "@type": "MusicRelease",
     "datePublished": "2005-04-18"
-  }
+  },
+  "subtitle": "The 2003–2004 Twin Moons & Progress Street Tour Finale at Norfolk Scope",
+  "linerNotes": [
+    "Between 2001 and 2004, The Stardust Engine operated at a relentless creative pace—releasing 2001's Midnight Drivers, the simultaneous 20-track 2003 Twin Moons double project (Moon 1: Sanctuary [Zero-G] and Moon 2: Mile Marker 98), and 2004's homecoming record Progress Street, all while logging tens of thousands of highway miles aboard their custom 2002 Sainte-Claire 45H3 ('The Iron Horse') and 2004 Prairie Coachworks RLFD30.",
+    "Captured live inside the Norfolk Scope Arena in coastal Virginia, Live in Norfolk documents the breathtaking sonic peak—and the sheer physical and sensory toll—of the 2003–2004 tour. Performing the heavy trauma-confrontation anthems of Mile Marker 98 alongside the zero-gravity synth suites of Sanctuary (Zero-G) and the new Progress Street tracks left Ryan and Cassidy deeply proud but completely spent. When the final chord of 'Electric Color' faded under the Scope dome, the family drove back up I-64 and I-81 to Blacksburg, locked the studio doors, and took the ten-year breather they had earned."
+  ],
+  "studioArchives": [
+    {
+      "title": "Why the 2003–2004 Tour Triggered the Burnout Hiatus",
+      "icon": "fa-battery-quarter",
+      "variant": "warning",
+      "content": "Even inside the barrier-free luxury of The Iron Horse, performing a two-hour arena show that swung from the visceral I-80 crash memories of 'Impact' and 'The Penumbra (Transit)' to the high-energy AOR of 'Progress Street' night after night pushed the siblings to their sensory limit. Live in Norfolk is the audible explanation for why 'Last Bus Home: Lights Out on Progress Street' became the band's farewell to the road until 2015's Reignition."
+    },
+    {
+      "title": "Hometown Ghent Dedication: \"No Hidden Gravity\"",
+      "icon": "fa-heart",
+      "variant": "info",
+      "content": "Playing just blocks away from Norfolk's historic Ghent neighborhood, Ryan and Cassidy dedicated a roaring live performance of 'No Hidden Gravity' directly to Ghent's own Nate and Maya—whose unbreakable platonic 'autistic safe person' bond inspired the 1996 anthem."
+    },
+    {
+      "title": "The Sacred Crucible Exclusivity Rule",
+      "icon": "fa-stadium",
+      "variant": "danger",
+      "content": "While Live in Norfolk features multiple live staples from 2004's Progress Street, 'Saturday Night Lights: The Crucible' was deliberately omitted from the Norfolk setlist. By unbreakable band vow, 'Saturday Night Lights: The Crucible' is ONLY ever performed live when the band is playing inside The Crucible in Blacksburg (where it made its live concert debut in 2016)."
+    }
+  ]
 }

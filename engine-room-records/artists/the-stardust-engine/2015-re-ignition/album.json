@@ -1,0 +1,56 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
+  "name": "Reignition",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Stardust Engine"
+  },
+  "albumProductionType": "StudioAlbum",
+  "albumReleaseType": "AlbumRelease",
+  "genre": "1980s AOR / Melodic Stadium Rock / 80s Cosmic Pop",
+  "temporalCoverage": "2015-10-16",
+  "description": "Ten years after exhaustion forced the family to turn off the studio switches on 2004's Progress Street ('Last Bus Home: Lights Out on Progress Street'), The Stardust Engine returns rested, recharged, and ready to perform again. Released in October 2015 immediately following Holly O'Connell's August 2015 Delaware Migration, Reignition ends the decade-long Burnout Hiatus and sets the stage for the band's monumental 30th-Anniversary homecoming concert, Live at the Crucible (2016).",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Engine Room Records"
+  },
+  "albumRelease": {
+    "@type": "MusicRelease",
+    "datePublished": "2015-10-16"
+  },
+  "subtitle": "The 2015 Post-Hiatus Comeback Studio Album",
+  "linerNotes": [
+    "At the end of 2004's Progress Street—and following the grueling 2003–2004 tour documented on 2005's Live in Norfolk—Ryan and Cassidy O'Connell closed 'Last Bus Home: Lights Out on Progress Street' with a solemn promise to Forger Nation: they were not breaking up, only turning the studio switches off until their bodies and minds had fully recharged from a decade of relentless recording and touring.",
+    "Aside from 2007's archival compilation Lost Sounds, 2008's intimate acoustic living-room session Our Own Frequency, and Cassidy's 2011 silver-anniversary studio re-imagining Starfield Calibration, the amplifiers on Progress Street NE remained quiet for a full decade. Then, in August 2015, CEO Holly O'Connell passed the Delaware Bar and executed 'The Delaware Migration'—folding Engine Room Records, LLC and the family's $2.4 billion portfolio into anonymous Delaware entities under The O'Connell Family Revocable Trust.",
+    "With the legal fortress permanently submerged and the five family members completely rested, Reignition is the sound of Ryan, Cassidy, Evan, and Tyler walking back into the studio, throwing the master breaker switches back to 'ON', and lighting the main thrusters ahead of their 2016 30th-Anniversary homecoming inside The Crucible."
+  ],
+  "studioArchives": [
+    {
+      "title": "Fulfilling the Promise of \"Last Bus Home\"",
+      "icon": "fa-power-off",
+      "variant": "success",
+      "content": "Reignition opens with the literal sound of the Progress Street studio power relays clicking back on—directly answering the final piano fade-out of 2004's 'Last Bus Home: Lights Out on Progress Street' ('Lights out on Progress Street... Goodnight, Forger Nation')."
+    },
+    {
+      "title": "The Prerequisite to Live at the Crucible (2016)",
+      "icon": "fa-rocket",
+      "variant": "info",
+      "content": "Because the family refused to step onto the turf of CPI's 65,000-seat stadium as a nostalgia act, Reignition had to come first—proving that thirty years after forming in a Blacksburg garage, The Stardust Engine's songwriting, sibling harmonies, and 1980s AOR/synth-rock fire burned brighter than ever."
+    },
+    {
+      "title": "August 2015: The Delaware Migration & The Norfolk Reckoning",
+      "icon": "fa-shield-halved",
+      "variant": "warning",
+      "content": "Recorded during the summer and autumn of 2015—the same autumn Holly completed the Delaware Migration and CPI football avenged its 2014 38–0 Homecoming loss with a merciless 52–0 shutout at VDU in Norfolk—Reignition captures a family and an alma mater reclaiming total sovereignty.",
+      "link": {
+        "label": "Read \"The Delaware Migration (2015)\"",
+        "url": "https://stardust.raggiesoft.com/story/2015-delaware-migration"
+      }
+    }
+  ]
+}
+

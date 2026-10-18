@@ -11,9 +11,9 @@
   },
   "albumProductionType": "LiveAlbum",
   "albumReleaseType": "AlbumRelease",
-  "genre": "Live Rock",
+  "genre": "Live Arena Rock / Progressive Synth-Rock",
   "temporalCoverage": "1999-11-20",
-  "description": "Recorded during the Hard Reset tour from 1998-1999.",
+  "description": "Recorded during the 1998–1999 Hard Reset World Tour—the band's first headlining tour since the 1990 Des Moines bus crash and their 1992 emancipation from Apex Records. Opening with a reclaimed, synth-forward rendition of 'The Stardust Engine' and closing with 'Electric Color', this live album permanently retires the traumatic Apex ballad 'If You Walked Away' in favor of 'Echoes in the Wire'.",
   "publisher": {
     "@type": "Organization",
     "name": "Engine Room Records"
@@ -21,5 +21,28 @@
   "albumRelease": {
     "@type": "MusicRelease",
     "datePublished": "1999-11-20"
-  }
+  },
+  "subtitle": "The 1998–1999 Freedom Era World Tour",
+  "linerNotes": [
+    "For nine years after 1990's Live in Chicago—a record the band despises because Apex Records forced them into a rushed 30-minute support slot, buried Cassidy's iconic synthesizer leitmotif in the mix, and forced her to sing 'If You Walked Away' until she broke down backstage needing a 20-minute deep-pressure grounding hug from Ryan—The Stardust Engine refused to release another live album.",
+    "Recorded across the 1998–1999 Hard Reset World Tour, Hard Reset Live is the sound of the family reclaiming the stage on their own terms. Opening with 'The Stardust Engine' (with Cassidy's analog synths finally roaring at full volume alongside Ryan's guitar) and closing with a triumphant reclamation of 'Electric Color', every boundary of the show was engineered by Holly O'Connell to protect Ryan's physical accessibility and Cassidy's sensory and emotional safety."
+  ],
+  "studioArchives": [
+    {
+      "title": "The Permanent Retirement of \"If You Walked Away\"",
+      "icon": "fa-shield-heart",
+      "variant": "danger",
+      "content": "Before the 1998 tour buses rolled out of Blacksburg, Ryan, Cassidy, and Holly established an unbreakable family rule: 'If You Walked Away' is permanently off limits for all future live performances. In its place, the band performs 'Echoes in the Wire'—transforming what used to be a nightly trigger of abandonment anxiety into a stadium-shaking celebration of sibling survival."
+    },
+    {
+      "title": "From the Prague Paternoster to \"The Iron Horse\"",
+      "icon": "fa-bus",
+      "variant": "info",
+      "content": "While the 1998–1999 tour was a creative triumph—including the October 1998 Camden Town discovery of Origin (Fractured Prisms)—inaccessible European venues and the infamous Prague Paternoster elevator convinced Holly and the Wright twins that the family needed their own custom, hydraulic-lift-equipped mobile fortress, directly inspiring the 2001–2002 commissioning of the Sainte-Claire 45H3 ('The Iron Horse').",
+      "link": {
+        "label": "Read \"The Paternoster Incident (1998)\"",
+        "url": "https://stardust.raggiesoft.com/story/hard-reset/hard-reset-tour/paternoster-incident"
+      }
+    }
+  ]
 }

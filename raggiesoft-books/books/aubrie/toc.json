@@ -18,13 +18,18 @@
                     "scenes": [
                         {
                             "scene_num": 1,
-                            "scene_title": "Scene 1: The Drive",
+                            "scene_title": "Scene 1: An Extension of Me",
                             "file_path": "e001/c001/s001.md"
                         },
                         {
                             "scene_num": 2,
-                            "scene_title": "Scene 2: The Shared Bed",
+                            "scene_title": "Scene 2: The Drive",
                             "file_path": "e001/c001/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Shared Bed",
+                            "file_path": "e001/c001/s003.md"
                         }
                     ]
                 },
@@ -289,6 +294,82 @@
                             "scene_num": 3,
                             "scene_title": "Scene 3: Primary Care",
                             "file_path": "e001/c008/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Good Faith Offer",
+                            "file_path": "e001/c008/s004.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 9,
+                    "chap_title": "The Pepper Plaza Expedition",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-pepper-plaza-expedition",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Route 1 to Pepper Plaza",
+                            "file_path": "e001/c009/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: A World in Focus",
+                            "file_path": "e001/c009/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Audiologist's Verdict",
+                            "file_path": "e001/c009/s003.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 10,
+                    "chap_title": "Monday Night War",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/monday-night-war",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Strategic Analysis",
+                            "file_path": "e001/c010/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Unbeliever",
+                            "file_path": "e001/c010/s002.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 11,
+                    "chap_title": "Trial by Fire Drill",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/trial-by-fire-drill",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Transforming Jordan into a Forger",
+                            "file_path": "e001/c011/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Suite Arrangement Consent Form",
+                            "file_path": "e001/c011/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Fire Alarm in the Dormitory",
+                            "file_path": "e001/c011/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Nightly Pact",
+                            "file_path": "e001/c011/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The First Night of the Pact",
+                            "file_path": "e001/c011/s005.md"
                         }
                     ]
                 }
@@ -296,13 +377,13 @@
         },
         {
             "era_num": 2,
-            "era_title": "Note to the AI",
-            "era_url": "/raggiesoft-books/books/aubrie/note-to-the-ai",
+            "era_title": "The Sanctuary & The Shield",
+            "era_url": "/raggiesoft-books/books/aubrie/the-sanctuary-the-shield",
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Homecoming Week",
-                    "chap_url": "/raggiesoft-books/books/aubrie/note-to-the-ai/homecoming-week",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-sanctuary-the-shield/homecoming-week",
                     "scenes": [
                         {
                             "scene_num": 1,
