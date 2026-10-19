@@ -383,6 +383,30 @@ function initOceanViewReader() {
     // ==========================================
     // 5. READER SETTINGS & THEME ENGINE
     // ==========================================
+    const FONT_MAP = {
+        'system': 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif',
+        'georgia': 'Georgia, "Times New Roman", Times, serif',
+        'lora': '"Lora", Georgia, serif',
+        'inter': '"Inter", system-ui, -apple-system, sans-serif',
+        'atkinson': '"Atkinson Hyperlegible", system-ui, -apple-system, sans-serif',
+        'opendyslexic': '"OpenDyslexic", "Comic Sans MS", sans-serif'
+    };
+
+    function normalizeFontKey(raw) {
+        if (!raw || typeof raw !== 'string') return 'system';
+        const ff = raw.toLowerCase().trim();
+        if (FONT_MAP[ff]) return ff;
+        if (ff.includes('opendyslexic')) return 'opendyslexic';
+        if (ff.includes('atkinson')) return 'atkinson';
+        if (ff.includes('inter')) return 'inter';
+        if (ff.includes('lora')) return 'lora';
+        if (ff.includes('georgia')) return 'georgia';
+        return 'system';
+    }
+
+    window.RS_FONT_MAP = FONT_MAP;
+    window.rsNormalizeFontKey = normalizeFontKey;
+
     const dialog = document.getElementById('reader-settings-dialog');
     const btnOpen = document.getElementById('reader-settings-toggle');
     const btnClose = document.getElementById('close-settings-btn');
@@ -418,52 +442,40 @@ function initOceanViewReader() {
     let currentTheme = 'auto';
     let currentFontSize = 1.15; 
     let currentWidth = 'default';
-    let currentFontFamily = 'system-ui, -apple-system, sans-serif';
+    let currentFontFamily = 'system';
     let currentAutoPlayAudio = 'false';
     let currentCustomThemeEnabled = true;
+    let currentLineHeight = localStorage.getItem('rs-line-height') || '1.8';
 
-    // Load Settings from LocalStorage
-    try {
-        const stored = localStorage.getItem('reader-settings');
-        if (stored) {
-            const settings = JSON.parse(stored);
-            if (settings.theme) { applyTheme(settings.theme, settings.customThemeEnabled !== false); } else { applyTheme('auto', settings.customThemeEnabled !== false); }
-            if (settings.fontSize) applyFontSize(settings.fontSize);
-            if (settings.width) { applyWidth(settings.width); } else { applyWidth('default'); }
-            if (settings.fontFamily) { applyFontFamily(settings.fontFamily); } else { applyFontFamily('system-ui, -apple-system, sans-serif'); }
-            if (settings.autoPlayAudio) { applyAudioSetting(settings.autoPlayAudio); } else { applyAudioSetting('false'); }
-        } else {
-            // Defaults
-            applyTheme('auto', true);
-            applyWidth('default');
-            applyFontFamily('system-ui, -apple-system, sans-serif');
-            applyAudioSetting('false');
+    function applyFontSize(size, persist = true) {
+        const parsed = parseFloat(size);
+        currentFontSize = !isNaN(parsed) ? Math.round(parsed * 100) / 100 : 1.15;
+        document.documentElement.style.setProperty('--rs-font-size', `${currentFontSize}rem`);
+        if (contentBody) contentBody.style.fontSize = `${currentFontSize}rem`;
+        if (persist) saveSettings();
+    }
+
+    function applyLineHeight(lh, persist = true) {
+        currentLineHeight = lh ? String(lh) : '1.8';
+        document.documentElement.style.setProperty('--rs-line-height', currentLineHeight);
+        if (contentBody) contentBody.style.lineHeight = currentLineHeight;
+        if (persist) {
+            localStorage.setItem('rs-line-height', currentLineHeight);
         }
-    } catch (e) {
-        applyTheme('auto', true);
-        applyWidth('default');
-        applyFontFamily('system-ui, -apple-system, sans-serif');
-        applyAudioSetting('false');
     }
 
-    function applyFontSize(size) {
-        currentFontSize = size;
-        if (contentBody) contentBody.style.fontSize = `${size}rem`;
-        saveSettings();
-    }
-
-    if (btnIncrease) btnIncrease.addEventListener('click', () => applyFontSize(Math.min(currentFontSize + 0.1, 2.5)));
-    if (btnDecrease) btnDecrease.addEventListener('click', () => applyFontSize(Math.max(currentFontSize - 0.1, 0.8)));
-    if (btnReset) btnReset.addEventListener('click', () => applyFontSize(1.15));
+    if (btnIncrease) btnIncrease.addEventListener('click', () => applyFontSize(Math.min(currentFontSize + 0.1, 2.5), true));
+    if (btnDecrease) btnDecrease.addEventListener('click', () => applyFontSize(Math.max(currentFontSize - 0.1, 0.8), true));
+    if (btnReset) btnReset.addEventListener('click', () => applyFontSize(1.15, true));
 
     // Core Theme Application Logic
     // Strips old themes and applies the new base theme, then layers the custom narrative theme if enabled.
-    function applyTheme(theme, customEnabled = true) {
-        currentTheme = theme;
-        currentCustomThemeEnabled = customEnabled;
-        if (customThemeToggle) customThemeToggle.checked = customEnabled;
+    function applyTheme(theme, customEnabled = true, persist = true) {
+        currentTheme = theme || 'auto';
+        currentCustomThemeEnabled = (customEnabled !== false);
+        if (customThemeToggle) customThemeToggle.checked = currentCustomThemeEnabled;
         const wizCustomTheme = document.getElementById('wizard-custom-theme-toggle');
-        if (wizCustomTheme) wizCustomTheme.checked = customEnabled;
+        if (wizCustomTheme) wizCustomTheme.checked = currentCustomThemeEnabled;
         
         // Strip base themes and any previously active custom narrative theme
         const systemClassesToKeep = new Set(['theme-oceanview', 'theme-raggiesoft-books']);
@@ -478,82 +490,133 @@ function initOceanViewReader() {
         const customThemeLink = document.getElementById('narrative-theme-css');
 
         // ALWAYS apply the base theme class (e.g. theme-auto, theme-dark) as a fallback
-        document.body.classList.add(`theme-${theme}`);
+        document.body.classList.add(`theme-${currentTheme}`);
 
         // Re-apply custom narrative theme if author defined it AND user wants it
         if (currentCustomThemeEnabled && narrativeTheme && narrativeTheme.trim() !== '') {
             document.body.classList.add('theme-custom');
             document.body.classList.add(`theme-${narrativeTheme}`);
-            if (customThemeLink) customThemeLink.disabled = false;
+            if (customThemeLink) {
+                customThemeLink.removeAttribute('disabled');
+                customThemeLink.disabled = false;
+            }
         } else {
-            if (customThemeLink) customThemeLink.disabled = true;
+            if (customThemeLink) {
+                customThemeLink.disabled = true;
+                customThemeLink.setAttribute('disabled', '');
+            }
         }
         
-        if (themeSelect) themeSelect.value = theme;
-        saveSettings();
+        if (themeSelect) themeSelect.value = currentTheme;
+        if (persist) saveSettings();
     }
+
+    window.applyReaderTheme = applyTheme;
 
     if (themeSelect) {
-        themeSelect.addEventListener('change', (e) => applyTheme(e.target.value, currentCustomThemeEnabled));
+        themeSelect.addEventListener('change', (e) => applyTheme(e.target.value, currentCustomThemeEnabled, true));
     }
     if (customThemeToggle) {
-        customThemeToggle.addEventListener('change', (e) => applyTheme(themeSelect ? themeSelect.value : 'auto', e.target.checked));
+        customThemeToggle.addEventListener('change', (e) => applyTheme(themeSelect ? themeSelect.value : currentTheme, e.target.checked, true));
     }
 
-    function applyWidth(width) {
-        currentWidth = width;
+    function applyWidth(width, persist = true) {
+        currentWidth = width || 'default';
         if (readerPage) {
-            if (width === 'wide') {
+            if (currentWidth === 'wide') {
                 readerPage.style.maxWidth = '1200px';
-            } else if (width === 'full') {
+            } else if (currentWidth === 'full') {
                 readerPage.style.maxWidth = '100%';
             } else {
                 readerPage.style.maxWidth = '800px';
             }
         }
-        if (widthSelect) widthSelect.value = width;
-        saveSettings();
+        if (widthSelect) widthSelect.value = currentWidth;
+        if (persist) saveSettings();
     }
     
-    if (widthSelect) widthSelect.addEventListener('change', (e) => applyWidth(e.target.value));
+    if (widthSelect) widthSelect.addEventListener('change', (e) => applyWidth(e.target.value, true));
 
-    function applyFontFamily(font) {
-        currentFontFamily = font;
-        if (contentBody) contentBody.style.fontFamily = font;
-        if (fontSelect) fontSelect.value = font;
-        saveSettings();
+    function applyFontFamily(font, persist = true) {
+        const fontKey = normalizeFontKey(font);
+        const resolvedStack = FONT_MAP[fontKey] || FONT_MAP['system'];
+        currentFontFamily = fontKey;
+        document.documentElement.style.setProperty('--rs-font-family', resolvedStack);
+        document.body.style.fontFamily = resolvedStack;
+        if (contentBody) contentBody.style.fontFamily = resolvedStack;
+        if (fontSelect) fontSelect.value = fontKey;
+        if (persist) saveSettings();
     }
 
-    if (fontSelect) fontSelect.addEventListener('change', (e) => applyFontFamily(e.target.value));
+    if (fontSelect) fontSelect.addEventListener('change', (e) => applyFontFamily(e.target.value, true));
 
-    function applyAudioSetting(val) {
-        currentAutoPlayAudio = val;
-        if (audioSelect) audioSelect.value = val;
-        saveSettings();
+    function applyAudioSetting(val, persist = true) {
+        currentAutoPlayAudio = (val === true || val === 'true') ? 'true' : 'false';
+        if (audioSelect) audioSelect.value = currentAutoPlayAudio;
+        if (persist) saveSettings();
     }
-    if (audioSelect) audioSelect.addEventListener('change', (e) => applyAudioSetting(e.target.value));
+    if (audioSelect) audioSelect.addEventListener('change', (e) => applyAudioSetting(e.target.value, true));
     
     if (btnResetAll) {
         btnResetAll.addEventListener('click', () => {
-            applyFontSize(1.15);
-            applyTheme('auto', true);
-            applyWidth('default');
-            applyFontFamily('system-ui, -apple-system, sans-serif');
-            applyAudioSetting('false');
+            applyFontSize(1.15, true);
+            applyLineHeight('1.8', true);
+            applyTheme('auto', true, true);
+            applyWidth('default', true);
+            applyFontFamily('system', true);
+            applyAudioSetting('false', true);
             if (dialog) dialog.close();
         });
     }
 
-    // Persist to local storage
+    // Persist to local storage without clobbering translationMode or other properties
     function saveSettings() {
-        localStorage.setItem('reader-settings', JSON.stringify({
+        let existing = {};
+        try {
+            const raw = localStorage.getItem('reader-settings');
+            if (raw) existing = JSON.parse(raw) || {};
+        } catch (e) {}
+        const updated = Object.assign({}, existing, {
             theme: currentTheme,
             customThemeEnabled: currentCustomThemeEnabled,
             fontSize: currentFontSize,
             width: currentWidth,
-            fontFamily: currentFontFamily,
+            fontFamily: normalizeFontKey(currentFontFamily),
             autoPlayAudio: currentAutoPlayAudio
-        }));
+        });
+        localStorage.setItem('reader-settings', JSON.stringify(updated));
+    }
+
+    // Load Settings from LocalStorage (read-only application during initialization)
+    try {
+        const stored = localStorage.getItem('reader-settings');
+        const storedLh = localStorage.getItem('rs-line-height') || '1.8';
+        applyLineHeight(storedLh, false);
+        if (stored) {
+            const settings = JSON.parse(stored);
+            const normalizedFont = normalizeFontKey(settings.fontFamily);
+            applyTheme(settings.theme || 'auto', settings.customThemeEnabled !== false, false);
+            applyFontSize(settings.fontSize || 1.15, false);
+            applyWidth(settings.width || 'default', false);
+            applyFontFamily(normalizedFont, false);
+            applyAudioSetting(settings.autoPlayAudio || 'false', false);
+            // If legacy CSS font string was stored, normalize it cleanly in storage
+            if (settings.fontFamily !== normalizedFont) {
+                saveSettings();
+            }
+        } else {
+            applyTheme('auto', true, false);
+            applyFontSize(1.15, false);
+            applyWidth('default', false);
+            applyFontFamily('system', false);
+            applyAudioSetting('false', false);
+        }
+    } catch (e) {
+        applyTheme('auto', true, false);
+        applyFontSize(1.15, false);
+        applyWidth('default', false);
+        applyFontFamily('system', false);
+        applyAudioSetting('false', false);
     }
 
     // ==========================================
@@ -602,17 +665,17 @@ function initOceanViewReader() {
     const wizAudio = document.getElementById('wizard-audio-select');
     const wizCustomTheme = document.getElementById('wizard-custom-theme-toggle');
     
-    if (wizTheme) wizTheme.value = themeSelect ? themeSelect.value : 'auto';
-    if (wizWidth) wizWidth.value = widthSelect ? widthSelect.value : 'default';
-    if (wizFont) wizFont.value = fontSelect ? fontSelect.value : 'system-ui, -apple-system, sans-serif';
-    if (wizAudio) wizAudio.value = audioSelect ? audioSelect.value : 'false';
-    if (wizCustomTheme && customThemeToggle) wizCustomTheme.checked = customThemeToggle.checked;
+    if (wizTheme) wizTheme.value = currentTheme || 'auto';
+    if (wizWidth) wizWidth.value = currentWidth || 'default';
+    if (wizFont) wizFont.value = normalizeFontKey(currentFontFamily);
+    if (wizAudio) wizAudio.value = currentAutoPlayAudio || 'false';
+    if (wizCustomTheme) wizCustomTheme.checked = currentCustomThemeEnabled;
 
-    if (wizTheme) wizTheme.addEventListener('change', (e) => applyTheme(e.target.value, currentCustomThemeEnabled));
-    if (wizWidth) wizWidth.addEventListener('change', (e) => applyWidth(e.target.value));
-    if (wizFont) wizFont.addEventListener('change', (e) => applyFontFamily(e.target.value));
-    if (wizAudio) wizAudio.addEventListener('change', (e) => applyAudioSetting(e.target.value));
-    if (wizCustomTheme) wizCustomTheme.addEventListener('change', (e) => applyTheme(themeSelect ? themeSelect.value : 'auto', e.target.checked));
+    if (wizTheme) wizTheme.addEventListener('change', (e) => applyTheme(e.target.value, currentCustomThemeEnabled, true));
+    if (wizWidth) wizWidth.addEventListener('change', (e) => applyWidth(e.target.value, true));
+    if (wizFont) wizFont.addEventListener('change', (e) => applyFontFamily(e.target.value, true));
+    if (wizAudio) wizAudio.addEventListener('change', (e) => applyAudioSetting(e.target.value, true));
+    if (wizCustomTheme) wizCustomTheme.addEventListener('change', (e) => applyTheme(wizTheme ? wizTheme.value : currentTheme, e.target.checked, true));
 
     function updateWizardState() {
         for(let i = 1; i <= totalSteps; i++) {
@@ -969,105 +1032,145 @@ function initOceanViewReader() {
         }, 1500);
     }
 
-    document.addEventListener('keydown', (e) => {
-        // Ignore if typing in an input field
-        const active = document.activeElement;
-        if (active && (active.tagName === 'INPUT' || active.tagName === 'TEXTAREA' || active.isContentEditable)) {
-            return;
-        }
-
-        // Ignore if modifier keys are pressed (let OS handle them)
-        if (e.ctrlKey || e.metaKey || e.altKey || e.shiftKey) {
-            return;
-        }
-
-        // T: Toggle Theme
-        // Cycles through available core themes, respecting if a custom narrative theme exists
-        if (e.key.toLowerCase() === 't') {
-            e.preventDefault();
-            const customThemeMeta = document.querySelector('meta[name="stardust-narrative-theme"]');
-            const hasCustom = customThemeMeta !== null;
-            
-            let currentTheme = themeSelect ? themeSelect.value : 'auto';
-            let customOn = currentCustomThemeEnabled;
-            
-            // Define the sequence of states: {theme: '...', custom: boolean, label: '...'}
-            let sequence = [];
-            if (hasCustom) {
-                sequence.push({theme: 'auto', custom: true, label: 'Immersive Story Theme'});
-            }
-            sequence.push({theme: 'auto', custom: false, label: 'System Default Theme'});
-            sequence.push({theme: 'sepia-system', custom: false, label: 'System Sepia Theme'});
-            sequence.push({theme: 'light', custom: false, label: 'Light Mode'});
-            sequence.push({theme: 'dark', custom: false, label: 'Dark Mode'});
-            sequence.push({theme: 'sepia', custom: false, label: 'Sepia Mode'});
-            sequence.push({theme: 'dark-sepia', custom: false, label: 'Dark Sepia Mode'});
-            
-            // Find current index
-            let currentIndex = sequence.findIndex(s => s.theme === currentTheme && s.custom === customOn);
-            if (currentIndex === -1) currentIndex = 0; // Fallback
-            
-            let nextIndex = (currentIndex + 1) % sequence.length;
-            let nextState = sequence[nextIndex];
-            
-            applyTheme(nextState.theme, nextState.custom);
-            showShortcutToast(nextState.label);
-        }
-
-        // N or Right Arrow: Next Chapter
-        if (e.key.toLowerCase() === 'n' || e.key === 'ArrowRight') {
-            const nextBtn = document.getElementById('reader-btn-next');
-            if (nextBtn && nextBtn.tagName === 'A' && nextBtn.href) {
-                showShortcutToast("Next Chapter \u2192");
-                window.location.href = nextBtn.href;
-            }
-        }
-
-        // P or Left Arrow: Previous Chapter
-        if (e.key.toLowerCase() === 'p' || e.key === 'ArrowLeft') {
-            const prevBtn = document.getElementById('reader-btn-prev');
-            if (prevBtn && prevBtn.tagName === 'A' && prevBtn.href) {
-                showShortcutToast("\u2190 Previous Chapter");
-                window.location.href = prevBtn.href;
-            }
-        }
-
-        // F: Toggle Fullscreen
-        if (e.key.toLowerCase() === 'f') {
-            e.preventDefault();
-            if (!document.fullscreenElement) {
-                document.documentElement.requestFullscreen().catch(err => {
-                    console.warn(`Error attempting to enable full-screen mode: ${err.message}`);
-                });
-                showShortcutToast("Fullscreen Mode");
-            } else {
-                if (document.exitFullscreen) {
-                    document.exitFullscreen();
-                    showShortcutToast("Exited Fullscreen");
-                }
-            }
-        }
-
-        // Esc: Return to library (only if not in a dialog or fullscreen)
-        if (e.key === 'Escape') {
-            // Check if any dialog is open
-            const dialogs = document.querySelectorAll('dialog[open]');
-            if (dialogs.length > 0) return; // Let default Escape behavior close the dialog
-            
-            if (document.fullscreenElement) return; // Let default Escape behavior exit fullscreen
-
-            // Close sidebar if open
-            const sidebar = document.getElementById('stardust-sidebar');
-            if (sidebar && sidebar.classList.contains('open')) {
-                sidebar.classList.remove('open');
-                const backdrop = document.getElementById('reader-sidebar-backdrop');
-                if (backdrop) backdrop.style.display = 'none';
+    if (!window.oceanViewKeydownBound) {
+        window.oceanViewKeydownBound = true;
+        document.addEventListener('keydown', (e) => {
+            // Ignore if typing in an input field
+            const active = document.activeElement;
+            if (active && (active.tagName === 'INPUT' || active.tagName === 'TEXTAREA' || active.tagName === 'SELECT' || active.isContentEditable)) {
                 return;
             }
-        }
-    });
+
+            // Ignore if modifier keys are pressed (let OS handle them)
+            if (e.ctrlKey || e.metaKey || e.altKey || e.shiftKey) {
+                return;
+            }
+
+            // T: Toggle Theme
+            // Cycles through available core themes, respecting if a custom narrative theme exists
+            if (e.key.toLowerCase() === 't') {
+                e.preventDefault();
+                const customThemeMeta = document.querySelector('meta[name="stardust-narrative-theme"]');
+                const hasCustom = customThemeMeta !== null;
+                
+                let activeTheme = 'auto';
+                let customOn = true;
+                try {
+                    const stored = JSON.parse(localStorage.getItem('reader-settings') || '{}');
+                    if (stored.theme) activeTheme = stored.theme;
+                    if (stored.customThemeEnabled !== undefined) customOn = (stored.customThemeEnabled !== false);
+                } catch (err) {}
+                
+                // Define the sequence of states: {theme: '...', custom: boolean, label: '...'}
+                let sequence = [];
+                if (hasCustom) {
+                    sequence.push({theme: 'auto', custom: true, label: 'Immersive Story Theme'});
+                }
+                sequence.push({theme: 'auto', custom: false, label: 'System Default Theme'});
+                sequence.push({theme: 'sepia-system', custom: false, label: 'System Sepia Theme'});
+                sequence.push({theme: 'light', custom: false, label: 'Light Mode'});
+                sequence.push({theme: 'dark', custom: false, label: 'Dark Mode'});
+                sequence.push({theme: 'sepia', custom: false, label: 'Sepia Mode'});
+                sequence.push({theme: 'dark-sepia', custom: false, label: 'Dark Sepia Mode'});
+                
+                // Find current index
+                let currentIndex = sequence.findIndex(s => s.theme === activeTheme && s.custom === customOn);
+                if (currentIndex === -1) currentIndex = 0; // Fallback
+                
+                let nextIndex = (currentIndex + 1) % sequence.length;
+                let nextState = sequence[nextIndex];
+                
+                if (typeof window.applyReaderTheme === 'function') {
+                    window.applyReaderTheme(nextState.theme, nextState.custom, true);
+                }
+                const settingsThemeSelect = document.getElementById('rs-settings-theme');
+                if (settingsThemeSelect) settingsThemeSelect.value = nextState.theme;
+                const settingsNarrativeCheckbox = document.getElementById('rs-settings-narrative-themes');
+                if (settingsNarrativeCheckbox) settingsNarrativeCheckbox.checked = nextState.custom;
+                showShortcutToast(nextState.label);
+            }
+
+            // N or Right Arrow: Next Chapter
+            if (e.key.toLowerCase() === 'n' || e.key === 'ArrowRight') {
+                const nextBtn = document.getElementById('reader-btn-next');
+                if (nextBtn && nextBtn.tagName === 'A' && nextBtn.href) {
+                    showShortcutToast("Next Chapter \u2192");
+                    nextBtn.click();
+                }
+            }
+
+            // P or Left Arrow: Previous Chapter
+            if (e.key.toLowerCase() === 'p' || e.key === 'ArrowLeft') {
+                const prevBtn = document.getElementById('reader-btn-prev');
+                if (prevBtn && prevBtn.tagName === 'A' && prevBtn.href) {
+                    showShortcutToast("\u2190 Previous Chapter");
+                    prevBtn.click();
+                }
+            }
+
+            // F: Toggle Fullscreen
+            if (e.key.toLowerCase() === 'f') {
+                e.preventDefault();
+                if (!document.fullscreenElement) {
+                    document.documentElement.requestFullscreen().catch(err => {
+                        console.warn(`Error attempting to enable full-screen mode: ${err.message}`);
+                    });
+                    showShortcutToast("Fullscreen Mode");
+                } else {
+                    if (document.exitFullscreen) {
+                        document.exitFullscreen();
+                        showShortcutToast("Exited Fullscreen");
+                    }
+                }
+            }
+
+            // Esc: Return to library (only if not in a dialog or fullscreen)
+            if (e.key === 'Escape') {
+                // Check if any dialog is open
+                const dialogs = document.querySelectorAll('dialog[open]');
+                if (dialogs.length > 0) return; // Let default Escape behavior close the dialog
+                
+                if (document.fullscreenElement) return; // Let default Escape behavior exit fullscreen
+
+                // Close sidebar if open
+                const sb = document.getElementById('stardust-sidebar');
+                if (sb && sb.classList.contains('open')) {
+                    sb.classList.remove('open');
+                    const bd = document.getElementById('reader-sidebar-backdrop');
+                    if (bd) bd.style.display = 'none';
+                    return;
+                }
+            }
+        });
+    }
     
     initTranslationSwaps();
+
+    // ==========================================
+    // 10. LAST-READ BOOK ROUTE TRACKING
+    // ==========================================
+    // Only record actual narrative routes (never system pages like /settings or /library)
+    const SYSTEM_ROUTES = new Set([
+        '/', '/index.php', '/isabel.php', '/library', '/catalog',
+        '/settings', '/bookmarks', '/about', '/accessibility',
+        '/welcome', '/setup', '/knox', '/aethel-saga', '/search'
+    ]);
+    const cleanPath = window.location.pathname.replace(/\/+$/, '') || '/';
+    // Sanitize any previously corrupted rs-last-read pointing to a system page
+    const existingLastRead = localStorage.getItem('rs-last-read');
+    if (existingLastRead) {
+        const cleanExisting = existingLastRead.replace(/\/+$/, '') || '/';
+        if (SYSTEM_ROUTES.has(cleanExisting)) {
+            localStorage.removeItem('rs-last-read');
+            localStorage.removeItem('rs-last-read-title');
+        }
+    }
+    if (!SYSTEM_ROUTES.has(cleanPath) && document.getElementById('stardust-reading-pane')) {
+        localStorage.setItem('rs-last-read', window.location.pathname);
+        if (document.title) {
+            localStorage.setItem('rs-last-read-title', document.title);
+        }
+    }
 } // end initOceanViewReader()
 
 window.applyTranslationMode = function(mode) {
@@ -1127,10 +1230,4 @@ if (!window.oceanViewReaderInitialized) {
     document.addEventListener('DOMContentLoaded', initOceanViewReader);
     document.addEventListener('stardust:loaded', initOceanViewReader);
     window.oceanViewReaderInitialized = true;
-}
-
-
-// Update last read location (except on catalog root) so returning users jump back in
-if (window.location.pathname !== '/' && window.location.pathname !== '/catalog') {
-    localStorage.setItem('rs-last-read', window.location.pathname);
 }

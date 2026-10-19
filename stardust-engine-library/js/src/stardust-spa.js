@@ -47,8 +47,8 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        // Respect user intent: Ignore new tabs or modifier-key clicks (Ctrl, Cmd, Shift)
-        if (link.target === '_blank' || e.ctrlKey || e.metaKey || e.shiftKey) return;
+        // Respect user intent: Ignore new tabs, explicit non-SPA links, or modifier-key clicks (Ctrl, Cmd, Shift)
+        if (link.target === '_blank' || link.hasAttribute('data-no-spa') || e.ctrlKey || e.metaKey || e.shiftKey) return;
 
         const targetUrl = new URL(link.href, window.location.href);
         const currentUrl = new URL(window.location.href);
@@ -106,20 +106,17 @@ async function navigateTo(url, pushState = true) {
 
         if (layoutTarget) {
             // 1. SYNC BODY CLASSES FOR DYNAMIC THEMING
-            // This ensures transitions between books update the theme variables correctly
-            // (e.g. swapping from `theme-oceanview` to `theme-crimson`)
-            
-            let nextClass = doc.body.className;
+            // Preserves base system classes while applying the user's active reading theme
+            // before `stardust:loaded` triggers `reader.js` to layer any narrative theme.
+            let nextClass = doc.body.className || 'theme-raggiesoft-books';
             try {
                 const stored = localStorage.getItem('reader-settings');
                 if (stored) {
                     const settings = JSON.parse(stored);
-                    const isSystemPage = nextClass.includes('theme-oceanview');
-                    if (settings.theme && settings.theme !== 'auto') {
-                        if (settings.customThemeEnabled === false || isSystemPage) {
-                            nextClass = nextClass.replace(/theme-[a-z-]+/g, '').trim() + ' theme-' + settings.theme;
-                        }
-                    }
+                    const activeTheme = settings.theme || 'auto';
+                    nextClass = nextClass
+                        .replace(/\btheme-(auto|light|sepia|dark|dark-sepia|sepia-system|custom)\b/g, '')
+                        .trim() + ' theme-' + activeTheme;
                 }
             } catch(e) {}
             document.body.className = nextClass.trim();
