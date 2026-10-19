@@ -1,0 +1,146 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: CPI (COMMONWEALTH POLYTECHNIC INSTITUTE)
+ * ============================================================================
+ *
+ * Description:
+ * This stylesheet (`cpi.css`) defines the signature default reading theme for
+ * "The Eleventh Child: The Story of Jordan" (`/aubrie`) and any narrative set
+ * at Commonwealth Polytechnic Institute (CPI — "The Forgers") in Blacksburg,
+ * Virginia.
+ *
+ * Aesthetic & Lore Foundation:
+ * - Light Mode ("Ironstone & Commonwealth Maroon"):
+ *   Evokes bright autumn daylight across Commonwealth Green and the rough-cut
+ *   limestone ("Ironstone") walls of Bennett Hall and Kincaid Hall, paired
+ *   with CPI's signature Chicago Maroon (`#861f41`) and Burnt Orange (`#c2410c`)
+ *   school colors.
+ * - Dark Mode ("Blacksburg Night & Forge Ember"):
+ *   Evokes late-night study sessions in Suite 214/216 and evening lights across
+ *   the New River Valley. Uses a deep Maroon-Obsidian canvas (`#130d10`) with
+ *   elevated Maroon-Slate surfaces (`#23171d`), luminous Burnt Orange (`#fb923c`)
+ *   for primary accents/links/Jordan's `<aac>` dialogue, and rich CPI Maroon
+ *   (`#861f41`) button fills rimmed in Burnt Orange.
+ *
+ * Core Components:
+ * 1. CSS Variable Mapping: Overrides all core `--rs-*` design tokens used by
+ *    `reader.css`, `oliver.php`, `sidebar.php`, and `landing.php` (`--rs-bg`,
+ *    `--rs-bg-alt`, `--rs-surface`, `--rs-card-bg`, `--rs-text`, `--rs-primary`,
+ *    `--rs-secondary`, `--rs-border`).
+ * 2. Full Light & Dark Mode Cascade:
+ *    - Explicit Light Mode & `@media (prefers-color-scheme: light)`
+ *    - Explicit Forced Dark Mode (`body.theme-dark.theme-cpi`)
+ *    - OS Auto Dark Mode (`@media (prefers-color-scheme: dark)`)
+ * 3. WCAG 2.1 AA / AAA Contrast Engineering:
+ *    - Light Mode text (`#1c1618` on `#faf7f2`) achieves 16.5:1 contrast;
+ *      CPI Maroon (`#861f41` on `#faf7f2`) achieves 7.48:1 contrast.
+ *    - Dark Mode text (`#f5eff1` on `#130d10`) achieves 15.8:1 contrast;
+ *      Burnt Orange (`#fb923c` on `#130d10`) achieves 8.35:1 contrast.
+ *    - In Dark Mode, `.rs-btn-primary` is explicitly styled with a CPI Maroon
+ *      (`#861f41`) fill, Burnt Orange (`#fb923c`) border, and `#ffffff` text
+ *      (8.21:1 contrast) to prevent low-contrast white-on-orange buttons.
+ * 4. Forced Colors Mode Fallback:
+ *    - Maps custom properties to system color keywords under
+ *      `@media (forced-colors: active)` for Windows High Contrast users.
+ * ============================================================================
+ */
+
+/* Theme Name: CPI (Commonwealth Polytechnic Institute) */
+
+/* --- 1. Light Mode (Base & Explicit OS Light Preference) --- */
+/* Acts as the default state and explicitly forced light mode */
+body.theme-cpi,
+body.theme-light.theme-cpi {
+    color-scheme: light;
+    --rs-bg: #faf7f2;        /* Warm Ironstone limestone paper background */
+    --rs-bg-alt: #f2ece4;    /* Elevated Ironstone sidebar background */
+    --rs-surface: #ffffff;   /* Crisp white surface for audio player and cards */
+    --rs-card-bg: #ffffff;   /* Modal and card container surface */
+    --rs-text: #1c1618;      /* Deep Ironstone-charcoal text (16.5:1 contrast) */
+    --rs-primary: #861f41;   /* Official CPI Chicago Maroon (7.48:1 contrast) */
+    --rs-secondary: #c2410c; /* Deep CPI Burnt Orange (5.18:1 contrast) */
+    --rs-border: #d6cbbd;    /* Warm Ironstone mortar border */
+    accent-color: #861f41;
+}
+
+@media (prefers-color-scheme: light) {
+    body.theme-auto.theme-cpi {
+        color-scheme: light;
+        --rs-bg: #faf7f2;
+        --rs-bg-alt: #f2ece4;
+        --rs-surface: #ffffff;
+        --rs-card-bg: #ffffff;
+        --rs-text: #1c1618;
+        --rs-primary: #861f41;
+        --rs-secondary: #c2410c;
+        --rs-border: #d6cbbd;
+        accent-color: #861f41;
+    }
+}
+
+/* --- 2. Dark Mode (Explicitly Forced by Reader Toggle) --- */
+/* Applied when the user manually toggles the reader to Dark Mode */
+body.theme-dark.theme-cpi {
+    color-scheme: dark;
+    --rs-bg: #130d10;        /* Deep Commonwealth Night / Maroon-Obsidian canvas */
+    --rs-bg-alt: #1b1217;    /* Elevated Ironstone-Maroon sidebar background */
+    --rs-surface: #23171d;   /* Warm Maroon-Slate surface for cards & audio player */
+    --rs-card-bg: #23171d;   /* Modal and card container surface */
+    --rs-text: #f5eff1;      /* Crisp warm starlight text (15.8:1 contrast) */
+    --rs-primary: #fb923c;   /* Luminous CPI Burnt Orange / Forge Ember (8.35:1 contrast) */
+    --rs-secondary: #f43f5e; /* Warm Commonwealth Maroon-Rose secondary accent */
+    --rs-border: #422a35;    /* Rich Maroon-Ironstone structural border */
+    accent-color: #fb923c;
+}
+
+/* Ensure primary buttons in Forced Dark Mode wear CPI Maroon with Burnt Orange trim
+   so white button text maintains 8.21:1 WCAG AAA contrast */
+body.theme-dark.theme-cpi .rs-btn-primary,
+body.theme-dark.theme-cpi .visually-hidden-focusable {
+    background: #861f41;
+    border-color: #fb923c;
+    color: #ffffff;
+}
+
+/* --- 3. OS Auto Dark Mode --- */
+/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-cpi,
+    body:not(.theme-light):not(.theme-dark).theme-cpi {
+        color-scheme: dark;
+        --rs-bg: #130d10;        /* Matches Forced Dark Mode */
+        --rs-bg-alt: #1b1217;
+        --rs-surface: #23171d;
+        --rs-card-bg: #23171d;
+        --rs-text: #f5eff1;
+        --rs-primary: #fb923c;
+        --rs-secondary: #f43f5e;
+        --rs-border: #422a35;
+        accent-color: #fb923c;
+    }
+
+    body.theme-auto.theme-cpi .rs-btn-primary,
+    body:not(.theme-light):not(.theme-dark).theme-cpi .rs-btn-primary,
+    body.theme-auto.theme-cpi .visually-hidden-focusable,
+    body:not(.theme-light):not(.theme-dark).theme-cpi .visually-hidden-focusable {
+        background: #861f41;
+        border-color: #fb923c;
+        color: #ffffff;
+    }
+}
+
+/* --- 4. Forced Colors Mode (Windows High Contrast) --- */
+/* Preserves semantic system color tokens when Forced Colors Mode is active */
+@media (forced-colors: active) {
+    body.theme-cpi {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-primary: LinkText;
+        --rs-secondary: Highlight;
+        --rs-border: ButtonBorder;
+    }
+}
+

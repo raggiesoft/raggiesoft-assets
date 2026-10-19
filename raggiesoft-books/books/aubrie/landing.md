@@ -1,5 +1,6 @@
 ---
 title: "Aubrie"
+theme: "cpi"
 ---
 Eighteen-year-old Aubrey Jordan Fuller has spent his entire life trapped in a suffocating bubble of isolation, controlled by his emotionally abusive mother. Non-verbal, autistic, and navigating the world in a manual wheelchair, his enrollment at Commonwealth Polytechnic Institute was supposed to be another stage for his mother's overbearing control. But a clerical error by the university housing office changes everything: Jordan is accidentally assigned to a dorm suite with five young women.
 

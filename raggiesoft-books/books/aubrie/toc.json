@@ -2,7 +2,7 @@
     "series_title": "The Eleventh Child",
     "series_slug": "aubrie",
     "series_description": "The emotional journey of eighteen-year-old Aubrey Jordan Fuller as he navigates college life, disability, and breaking free from his suffocating mother, Aubrie Sinclair.",
-    "series_description_long": "---\ntitle: \"Aubrie\"\n---\nEighteen-year-old Aubrey Jordan Fuller has spent his entire life trapped in a suffocating bubble of isolation, controlled by his emotionally abusive mother. Non-verbal, autistic, and navigating the world in a manual wheelchair, his enrollment at Commonwealth Polytechnic Institute was supposed to be another stage for his mother's overbearing control. But a clerical error by the university housing office changes everything: Jordan is accidentally assigned to a dorm suite with five young women.\n\nInstead of rejecting him, they embrace him. Aubrie, Madison, Zo\u00eb, Lauren, and Hannah become the fierce, fiercely protective found family he never knew he needed. For the first time, Jordan experiences genuine kindness, unconditional support, and the freedom to define himself\u2014starting with going by his middle name, Jordan.\n\nAs their bond deepens, this newly formed family embarks on a groundbreaking global journey\u2014from the therapeutic hot springs of Iceland and the universally accessible transit of Singapore, to a deeply emotional crossing of the Seto Inland Sea on the Ferry Hoshizora. In these accommodating environments, Jordan discovers a profound truth: the problem was never his disability, but the hostile world his mother forced him to inhabit.\n\nHowever, his mother refuses to let go. Their world tour culminates in a grueling transit from the Australian outback directly to a Virginia courtroom, where Jordan must face his greatest fear and fight for his legal guardianship, his independence, and his right to stay with the family who truly loves him.\n\nThis is a powerful, heartwarming story of defiance, the profound impact of found family, and the journey to finally finding a safe harbor.",
+    "series_description_long": "---\ntitle: \"Aubrie\"\ntheme: \"cpi\"\n---\nEighteen-year-old Aubrey Jordan Fuller has spent his entire life trapped in a suffocating bubble of isolation, controlled by his emotionally abusive mother. Non-verbal, autistic, and navigating the world in a manual wheelchair, his enrollment at Commonwealth Polytechnic Institute was supposed to be another stage for his mother's overbearing control. But a clerical error by the university housing office changes everything: Jordan is accidentally assigned to a dorm suite with five young women.\n\nInstead of rejecting him, they embrace him. Aubrie, Madison, Zo\u00eb, Lauren, and Hannah become the fierce, fiercely protective found family he never knew he needed. For the first time, Jordan experiences genuine kindness, unconditional support, and the freedom to define himself\u2014starting with going by his middle name, Jordan.\n\nAs their bond deepens, this newly formed family embarks on a groundbreaking global journey\u2014from the therapeutic hot springs of Iceland and the universally accessible transit of Singapore, to a deeply emotional crossing of the Seto Inland Sea on the Ferry Hoshizora. In these accommodating environments, Jordan discovers a profound truth: the problem was never his disability, but the hostile world his mother forced him to inhabit.\n\nHowever, his mother refuses to let go. Their world tour culminates in a grueling transit from the Australian outback directly to a Virginia courtroom, where Jordan must face his greatest fear and fight for his legal guardianship, his independence, and his right to stay with the family who truly loves him.\n\nThis is a powerful, heartwarming story of defiance, the profound impact of found family, and the journey to finally finding a safe harbor.",
     "series_image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
     "next_series_url": "",
     "eras": [
@@ -104,53 +104,68 @@
                         },
                         {
                             "scene_num": 2,
-                            "scene_title": "Scene 2: An Unlikely Welcome",
+                            "scene_title": "Scene 2: A Clerical Error",
                             "file_path": "e001/c004/s002.md"
                         },
                         {
                             "scene_num": 3,
-                            "scene_title": "Scene 3: The Hall Director",
+                            "scene_title": "Scene 3: System.Crash",
                             "file_path": "e001/c004/s003.md"
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: Making It Official",
+                            "scene_title": "Scene 4: The Anchor Holds",
                             "file_path": "e001/c004/s004.md"
                         },
                         {
                             "scene_num": 5,
-                            "scene_title": "Scene 5: Logistics of a Co-Ed Suite",
+                            "scene_title": "Scene 5: The Hall Director",
                             "file_path": "e001/c004/s005.md"
                         },
                         {
                             "scene_num": 6,
-                            "scene_title": "Scene 6: The First Choice",
+                            "scene_title": "Scene 6: A Joke That Stuck",
                             "file_path": "e001/c004/s006.md"
                         },
                         {
                             "scene_num": 7,
-                            "scene_title": "Scene 7: The First Assist",
+                            "scene_title": "Scene 7: Making It Official",
                             "file_path": "e001/c004/s007.md"
                         },
                         {
                             "scene_num": 8,
-                            "scene_title": "Scene 8: The Spare Hardware",
+                            "scene_title": "Scene 8: Logistics of a Co-Ed Suite",
                             "file_path": "e001/c004/s008.md"
                         },
                         {
                             "scene_num": 9,
-                            "scene_title": "Scene 9: The New Voice",
+                            "scene_title": "Scene 9: The First Choice",
                             "file_path": "e001/c004/s009.md"
                         },
                         {
                             "scene_num": 10,
-                            "scene_title": "Scene 10: The Antidote",
+                            "scene_title": "Scene 10: The First Assist",
                             "file_path": "e001/c004/s010.md"
                         },
                         {
                             "scene_num": 11,
-                            "scene_title": "Scene 11: The Trust Fall",
+                            "scene_title": "Scene 11: The Spare Hardware",
                             "file_path": "e001/c004/s011.md"
+                        },
+                        {
+                            "scene_num": 12,
+                            "scene_title": "Scene 12: The New Voice",
+                            "file_path": "e001/c004/s012.md"
+                        },
+                        {
+                            "scene_num": 13,
+                            "scene_title": "Scene 13: The Antidote",
+                            "file_path": "e001/c004/s013.md"
+                        },
+                        {
+                            "scene_num": 14,
+                            "scene_title": "Scene 14: The Trust Fall",
+                            "file_path": "e001/c004/s014.md"
                         }
                     ]
                 },
