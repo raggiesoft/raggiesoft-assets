@@ -1,0 +1,194 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: RECLAMATION (SOVEREIGNTY, AGENCY & TAKING BACK CONTROL)
+ * ============================================================================
+ *
+ * Description:
+ * This stylesheet (`reclamation.css`) defines the reusable "Reclamation"
+ * milestone reading theme for the Ocean View Archives / Stardust Engine.
+ * It is designed for pivotal milestone scenes across any narrative where an
+ * abused, controlled, or marginalized protagonist actively reclaims their
+ * agency, identity, voice, or bodily autonomy—shedding the chains of their
+ * oppressor and taking back control of their life (e.g., Jordan shedding his
+ * mother's narcissistic name "Aubrey" and choosing "Jordan" in "A Joke That
+ * Stuck", making his name official in "Making It Official", choosing his own
+ * meal in "The First Choice", gaining root access and his own "Sydney" voice
+ * in "The New Voice", receiving 20/20 vision and hearing aids in Chapter 9,
+ * and watching his abuser's guardianship petition dismissed with prejudice).
+ *
+ * Psychological & Visual Differentiation (The Direct Antithesis of `oppression.css`):
+ * - Whereas `oppression.css` constricts the viewport with heavy leaden-putty
+ *   walls (`#e6e4e8` / `#0c0a0f`), bruised clotted maroon, and an inward
+ *   claustrophobic vignette, `reclamation.css` throws open the blinds to
+ *   fresh air, new growth, and an open horizon:
+ * - Light Mode ("First Dawn & Sovereign Emerald-Gold"):
+ *   Pairs an airy, sunlit Morning Mint-Alabaster canvas (`#f3faf6`) and pure
+ *   white reading surfaces (`#ffffff`) with deep Evergreen-Obsidian prose ink
+ *   (`#0c221a`), Sovereign Emerald-Teal primary accents (`#0b5d41`—evoking
+ *   vitality, fresh oxygen, and self-determination), and Rising Dawn Burnished
+ *   Gold secondary accents (`#8a4b08`—evoking the break of a new day).
+ * - Dark Mode ("Sovereign Aurora & Horizon Gold"):
+ *   Replaces the airless iron vault of `oppression` with a lush, expansive
+ *   Aurora Pine-Obsidian night sky (`#071410`), Sanctuary Evergreen surfaces
+ *   (`#102820`), crisp Starlight Mint-Ivory text (`#ecfdf5`), Radiant Aurora
+ *   Emerald primary accents (`#6ee7b7`), and Rising Dawn Gold (`#fbbf24`).
+ *
+ * WCAG 2.1 AA / AAA Contrast Verification:
+ * - Light Mode:
+ *   - Body Text (`#0c221a` on `#f3faf6` bg): 15.73:1 (WCAG AAA)
+ *   - Body Text (`#0c221a` on `#ffffff` surface): 16.68:1 (WCAG AAA)
+ *   - Body Text (`#0c221a` on `#e2f2ea` bg-alt): 14.39:1 (WCAG AAA)
+ *   - Primary Accent (`#0b5d41` on `#f3faf6` bg): 7.46:1 (WCAG AAA)
+ *   - Primary Accent (`#0b5d41` on `#ffffff` surface): 7.91:1 (WCAG AAA)
+ *   - Secondary Accent (`#8a4b08` on `#f3faf6` bg): 6.41:1 (WCAG AA)
+ *   - Secondary Accent (`#8a4b08` on `#ffffff` surface): 6.79:1 (WCAG AA)
+ * - Dark Mode:
+ *   - Body Text (`#ecfdf5` on `#071410` bg): 17.85:1 (WCAG AAA)
+ *   - Body Text (`#ecfdf5` on `#102820` surface): 14.81:1 (WCAG AAA)
+ *   - Primary Accent (`#6ee7b7` on `#071410` bg): 12.34:1 (WCAG AAA)
+ *   - Primary Accent (`#6ee7b7` on `#102820` surface): 10.23:1 (WCAG AAA)
+ *   - Secondary Accent (`#fbbf24` on `#071410` bg): 11.27:1 (WCAG AAA)
+ *   - Secondary Accent (`#fbbf24` on `#102820` surface): 9.34:1 (WCAG AAA)
+ *   - Primary Button (`#f0fdf4` on `#064e3b` fill): 9.28:1 (WCAG AAA)
+ * ============================================================================
+ */
+
+/* Theme Name: Reclamation */
+
+/* --- 1. Light Mode (Base & Explicit OS/User Light Preference) --- */
+body.theme-reclamation,
+body.theme-light.theme-reclamation,
+body.theme-sepia.theme-reclamation {
+    color-scheme: light;
+    --rs-bg: #f3faf6;        /* Sunlit Morning Mint-Alabaster open canvas */
+    --rs-bg-alt: #e2f2ea;    /* Soft Sage-Dawn sidebar background */
+    --rs-surface: #ffffff;   /* Crisp, open pure alabaster reading surface */
+    --rs-card-bg: #ffffff;   /* Modal and card container surface */
+    --rs-text: #0c221a;      /* Deep Evergreen-Obsidian prose ink (15.73:1 contrast) */
+    --rs-heading: #0c221a;   /* Matching high-contrast sovereign heading token */
+    --rs-primary: #0b5d41;   /* Sovereign Emerald-Teal primary accent (7.46:1 contrast) */
+    --rs-secondary: #8a4b08; /* Rising Dawn Burnished Gold secondary accent (6.41:1 contrast) */
+    --rs-border: #b8dccb;    /* Fresh Spring-Sage structural border */
+    accent-color: #0b5d41;
+}
+
+@media (prefers-color-scheme: light) {
+    body.theme-auto.theme-reclamation,
+    body.theme-sepia-system.theme-reclamation {
+        color-scheme: light;
+        --rs-bg: #f3faf6;
+        --rs-bg-alt: #e2f2ea;
+        --rs-surface: #ffffff;
+        --rs-card-bg: #ffffff;
+        --rs-text: #0c221a;
+        --rs-heading: #0c221a;
+        --rs-primary: #0b5d41;
+        --rs-secondary: #8a4b08;
+        --rs-border: #b8dccb;
+        accent-color: #0b5d41;
+    }
+}
+
+/* Subtle uplifting horizon-dawn top accent on the reading viewport in Light Mode */
+body.theme-reclamation #stardust-reading-pane,
+body.theme-light.theme-reclamation #stardust-reading-pane,
+body.theme-sepia.theme-reclamation #stardust-reading-pane {
+    box-shadow: inset 0 6px 28px rgba(11, 93, 65, 0.06);
+}
+
+/* --- 2. Dark Mode (Explicitly Forced by Reader Toggle) --- */
+body.theme-dark.theme-reclamation,
+body.theme-dark-sepia.theme-reclamation {
+    color-scheme: dark;
+    --rs-bg: #071410;        /* Deep Aurora Pine-Obsidian night canvas */
+    --rs-bg-alt: #0c1f19;    /* Elevated Sanctuary Spruce sidebar background */
+    --rs-surface: #102820;   /* Sovereign Evergreen card and modal surface */
+    --rs-card-bg: #102820;   /* Matching elevated dark container surface */
+    --rs-text: #ecfdf5;      /* Crisp Starlight Mint-Ivory prose text (17.85:1 contrast) */
+    --rs-heading: #ecfdf5;   /* Matching high-contrast dark-mode heading token */
+    --rs-primary: #6ee7b7;   /* Radiant Aurora Emerald primary accent (12.34:1 contrast) */
+    --rs-secondary: #fbbf24; /* Rising Dawn Gold secondary accent (11.27:1 contrast) */
+    --rs-border: #1e4638;    /* Evergreen-Bronze structural border */
+    accent-color: #6ee7b7;
+}
+
+body.theme-dark.theme-reclamation #stardust-reading-pane,
+body.theme-dark-sepia.theme-reclamation #stardust-reading-pane {
+    box-shadow: inset 0 6px 32px rgba(110, 231, 183, 0.05);
+}
+
+/* Ensure primary buttons in forced Dark Mode maintain AAA text contrast (9.28:1) */
+body.theme-dark.theme-reclamation .rs-btn-primary,
+body.theme-dark-sepia.theme-reclamation .rs-btn-primary {
+    background-color: #064e3b;
+    border-color: #6ee7b7;
+    color: #f0fdf4;
+}
+
+body.theme-dark.theme-reclamation .rs-btn-primary:hover,
+body.theme-dark-sepia.theme-reclamation .rs-btn-primary:hover,
+body.theme-dark.theme-reclamation .rs-btn-primary:focus-visible,
+body.theme-dark-sepia.theme-reclamation .rs-btn-primary:focus-visible {
+    background-color: #047857;
+    border-color: #fbbf24;
+    color: #ffffff;
+}
+
+/* --- 3. Dark Mode (OS Preference via `prefers-color-scheme: dark`) --- */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-reclamation,
+    body.theme-sepia-system.theme-reclamation {
+        color-scheme: dark;
+        --rs-bg: #071410;
+        --rs-bg-alt: #0c1f19;
+        --rs-surface: #102820;
+        --rs-card-bg: #102820;
+        --rs-text: #ecfdf5;
+        --rs-heading: #ecfdf5;
+        --rs-primary: #6ee7b7;
+        --rs-secondary: #fbbf24;
+        --rs-border: #1e4638;
+        accent-color: #6ee7b7;
+    }
+
+    body.theme-auto.theme-reclamation #stardust-reading-pane,
+    body.theme-sepia-system.theme-reclamation #stardust-reading-pane {
+        box-shadow: inset 0 6px 32px rgba(110, 231, 183, 0.05);
+    }
+
+    body.theme-auto.theme-reclamation .rs-btn-primary,
+    body.theme-sepia-system.theme-reclamation .rs-btn-primary {
+        background-color: #064e3b;
+        border-color: #6ee7b7;
+        color: #f0fdf4;
+    }
+
+    body.theme-auto.theme-reclamation .rs-btn-primary:hover,
+    body.theme-sepia-system.theme-reclamation .rs-btn-primary:hover,
+    body.theme-auto.theme-reclamation .rs-btn-primary:focus-visible,
+    body.theme-sepia-system.theme-reclamation .rs-btn-primary:focus-visible {
+        background-color: #047857;
+        border-color: #fbbf24;
+        color: #ffffff;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast Mode) Safety --- */
+@media (forced-colors: active) {
+    body.theme-reclamation {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-secondary: Highlight;
+        --rs-border: ButtonBorder;
+    }
+
+    body.theme-reclamation #stardust-reading-pane {
+        box-shadow: none;
+    }
+}
+
