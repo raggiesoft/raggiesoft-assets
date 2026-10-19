@@ -1,0 +1,178 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: OPPRESSION (SUFFOCATION & COERCIVE CONTROL)
+ * ============================================================================
+ *
+ * Description:
+ * This stylesheet (`oppression.css`) defines the reusable "Oppression" reading
+ * theme for the Ocean View Archives / Stardust Engine. It is designed for
+ * scenes across any narrative where a protagonist feels like they are
+ * suffocating under coercive control, emotional abuse, institutional captivity,
+ * or enforced helplessness (e.g., Aubrey Jordan Fuller under his mother Aubrie
+ * Sinclair's roof in "An Extension of Me").
+ *
+ * Psychological & Visual Differentiation (vs. `autistic-meltdown.css`):
+ * - Whereas `autistic-meltdown` evokes acute, high-voltage neurological and
+ *   sensory overload ("System.Crash" / harsh fluorescent glare / fractured
+ *   static), `oppression` evokes *heaviness, airlessness, confinement, and
+ *   emotional suffocation*—like drawn blinds in a stifling house, leaden walls
+ *   closing in, and a heavy iron weight pressing down on the chest.
+ *
+ * Aesthetic & Color Engineering:
+ * - Light Mode ("Drawn Blinds & Stifling Lead"):
+ *   Replaces airy white paper with a heavy, closed-in Leaden Ash / Bruised
+ *   Putty canvas (`#e6e4e8`) and dense slate-stone surfaces (`#dad7de`),
+ *   framed by a subtle claustrophobic radial vignette around the reading pane.
+ *   Uses deep Iron-Charcoal prose (`#18151c`), Bruised Clotted Maroon primary
+ *   accents (`#5b2333`), and Shackle-Iron secondary accents (`#3f3a4d`).
+ * - Dark Mode ("Airless Vault & Suffocating Iron"):
+ *   Plunges the viewport into an inescapable Abyssal Iron-Plum canvas
+ *   (`#0c0a0f`) with dense slate-plum surfaces (`#18141f`), Bone-Ash text
+ *   (`#dcd8e2`), and Desaturated Bruised Rose (`#d48a9c`) / Cold Iron Ash
+ *   (`#9e96b0`) accents.
+ *
+ * WCAG 2.1 AA / AAA Contrast Verification:
+ * - Light Mode:
+ *   - Body Text (`#18151c` on `#e6e4e8`): 14.30:1 (WCAG AAA)
+ *   - Body Text (`#18151c` on `#dad7de` surface): 12.69:1 (WCAG AAA)
+ *   - Primary Accent (`#5b2333` on `#e6e4e8`): 9.59:1 (WCAG AAA)
+ *   - Primary Accent (`#5b2333` on `#dad7de` surface): 8.51:1 (WCAG AAA)
+ *   - Secondary Accent (`#3f3a4d` on `#e6e4e8`): 8.64:1 (WCAG AAA)
+ * - Dark Mode:
+ *   - Body Text (`#dcd8e2` on `#0c0a0f`): 14.04:1 (WCAG AAA)
+ *   - Body Text (`#dcd8e2` on `#18141f` surface): 12.91:1 (WCAG AAA)
+ *   - Primary Accent (`#d48a9c` on `#0c0a0f`): 7.43:1 (WCAG AAA)
+ *   - Primary Accent (`#d48a9c` on `#18141f` surface): 6.83:1 (WCAG AA)
+ *   - Secondary Accent (`#9e96b0` on `#0c0a0f`): 6.98:1 (WCAG AA)
+ *   - Primary Button (`#f4f1f8` on `#4a1c2a` fill): 12.60:1 (WCAG AAA)
+ * ============================================================================
+ */
+
+/* Theme Name: Oppression */
+
+/* --- 1. Light Mode (Base & Explicit OS/User Light Preference) --- */
+body.theme-oppression,
+body.theme-light.theme-oppression,
+body.theme-sepia.theme-oppression {
+    color-scheme: light;
+    --rs-bg: #e6e4e8;        /* Heavy, airless Leaden Ash / Drawn-Blinds canvas */
+    --rs-bg-alt: #d2ced8;    /* Confining iron-putty sidebar background */
+    --rs-surface: #dad7de;   /* Closed-in slate surface (never airy white) */
+    --rs-card-bg: #dad7de;   /* Modal and card container surface */
+    --rs-text: #18151c;      /* Deep Iron-Charcoal prose (14.30:1 contrast) */
+    --rs-heading: #18151c;   /* Matching high-contrast iron heading token */
+    --rs-primary: #5b2333;   /* Bruised Clotted Maroon primary accent (9.59:1 contrast) */
+    --rs-secondary: #3f3a4d; /* Shackle-Iron secondary accent (8.64:1 contrast) */
+    --rs-border: #b5afc0;    /* Heavy lead-mortar structural border */
+    accent-color: #5b2333;
+}
+
+@media (prefers-color-scheme: light) {
+    body.theme-auto.theme-oppression,
+    body.theme-sepia-system.theme-oppression {
+        color-scheme: light;
+        --rs-bg: #e6e4e8;
+        --rs-bg-alt: #d2ced8;
+        --rs-surface: #dad7de;
+        --rs-card-bg: #dad7de;
+        --rs-text: #18151c;
+        --rs-heading: #18151c;
+        --rs-primary: #5b2333;
+        --rs-secondary: #3f3a4d;
+        --rs-border: #b5afc0;
+        accent-color: #5b2333;
+    }
+}
+
+/* Subtle claustrophobic vignette around the reading viewport in Light Mode */
+body.theme-oppression #stardust-reading-pane,
+body.theme-light.theme-oppression #stardust-reading-pane,
+body.theme-sepia.theme-oppression #stardust-reading-pane {
+    box-shadow: inset 0 0 90px rgba(18, 14, 24, 0.14);
+}
+
+/* --- 2. Dark Mode (Explicitly Forced by Reader Toggle) --- */
+body.theme-dark.theme-oppression,
+body.theme-dark-sepia.theme-oppression {
+    color-scheme: dark;
+    --rs-bg: #0c0a0f;        /* Abyssal Iron-Plum airless dark canvas */
+    --rs-bg-alt: #131018;    /* Dense iron-slate sidebar background */
+    --rs-surface: #18141f;   /* Heavy closed-in dark slate-plum surface */
+    --rs-card-bg: #18141f;   /* Modal and card container surface */
+    --rs-text: #dcd8e2;      /* Bone-Ash muted white prose (14.04:1 contrast) */
+    --rs-heading: #dcd8e2;   /* Matching high-contrast heading token */
+    --rs-primary: #d48a9c;   /* Desaturated Bruised Rose accent (7.43:1 contrast) */
+    --rs-secondary: #9e96b0; /* Cold Iron Ash secondary accent (6.98:1 contrast) */
+    --rs-border: #2e2738;    /* Heavy iron-plum structural border */
+    accent-color: #d48a9c;
+}
+
+/* Ensure primary buttons in Dark Mode maintain 12.60:1 WCAG AAA contrast */
+body.theme-dark.theme-oppression .rs-btn-primary,
+body.theme-dark-sepia.theme-oppression .rs-btn-primary,
+body.theme-dark.theme-oppression .visually-hidden-focusable,
+body.theme-dark-sepia.theme-oppression .visually-hidden-focusable {
+    background: #4a1c2a;
+    border-color: #d48a9c;
+    color: #f4f1f8;
+}
+
+body.theme-dark.theme-oppression #stardust-reading-pane,
+body.theme-dark-sepia.theme-oppression #stardust-reading-pane {
+    box-shadow: inset 0 0 110px rgba(0, 0, 0, 0.65);
+}
+
+/* --- 3. OS Auto Dark Mode --- */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-oppression,
+    body.theme-sepia-system.theme-oppression,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-oppression {
+        color-scheme: dark;
+        --rs-bg: #0c0a0f;
+        --rs-bg-alt: #131018;
+        --rs-surface: #18141f;
+        --rs-card-bg: #18141f;
+        --rs-text: #dcd8e2;
+        --rs-heading: #dcd8e2;
+        --rs-primary: #d48a9c;
+        --rs-secondary: #9e96b0;
+        --rs-border: #2e2738;
+        accent-color: #d48a9c;
+    }
+
+    body.theme-auto.theme-oppression .rs-btn-primary,
+    body.theme-sepia-system.theme-oppression .rs-btn-primary,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-oppression .rs-btn-primary,
+    body.theme-auto.theme-oppression .visually-hidden-focusable,
+    body.theme-sepia-system.theme-oppression .visually-hidden-focusable,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-oppression .visually-hidden-focusable {
+        background: #4a1c2a;
+        border-color: #d48a9c;
+        color: #f4f1f8;
+    }
+
+    body.theme-auto.theme-oppression #stardust-reading-pane,
+    body.theme-sepia-system.theme-oppression #stardust-reading-pane,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-oppression #stardust-reading-pane {
+        box-shadow: inset 0 0 110px rgba(0, 0, 0, 0.65);
+    }
+}
+
+/* --- 4. Forced Colors Mode (Windows High Contrast) --- */
+@media (forced-colors: active) {
+    body.theme-oppression {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-secondary: Highlight;
+        --rs-border: ButtonBorder;
+    }
+    body.theme-oppression #stardust-reading-pane {
+        box-shadow: none;
+    }
+}
+

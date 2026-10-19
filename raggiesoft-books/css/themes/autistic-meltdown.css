@@ -1,0 +1,212 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: AUTISTIC MELTDOWN (SENSORY & COGNITIVE OVERLOAD)
+ * ============================================================================
+ *
+ * Description:
+ * This stylesheet (`autistic-meltdown.css`, aliased as `meltdown.css`) defines
+ * the reusable "Autistic Meltdown" reading theme for the Ocean View Archives /
+ * Stardust Engine. It is designed for scenes across any narrative where a
+ * character experiences acute neurological, sensory, or cognitive overload
+ * ("System.Crash")—such as when compounding auditory, visual, and emotional
+ * stressors push an autistic protagonist past their nervous system's processing
+ * threshold.
+ *
+ * Psychological & Sensory Differentiation (vs. `oppression.css`):
+ * - Whereas `oppression` is heavy, airless, leaden, and desaturated (external
+ *   coercive control and suffocation), `autistic-meltdown` captures *internal
+ *   neurological overstimulation and system fracture*—white-hot fluorescent
+ *   glare, roaring auditory static, and high-voltage neural alarm.
+ * - Sensory-Safe Accessibility Guarantee: Because readers experiencing these
+ *   chapters may themselves be autistic or sensory-sensitive, this theme
+ *   communicates acute sensory overload purely through static, high-contrast
+ *   WCAG AAA color tokens and subtle edge framing—NEVER via flashing strobes,
+ *   jittering text, or eye-straining neon glare.
+ *
+ * Aesthetic & Color Engineering:
+ * - Light Mode ("Fluorescent Glare & Neural Static"):
+ *   Uses a sterile, over-exposed Fluorescent Ice-Lavender canvas (`#f5f2f7`)
+ *   and crisp white surfaces (`#ffffff`) paired with Deep Neural Violet-Black
+ *   prose (`#190e24`), High-Alert Crimson-Magenta primary accents (`#9e1b46`),
+ *   and Static Ultraviolet secondary accents (`#6b21a8`).
+ * - Dark Mode ("System.Crash & High-Voltage Overload"):
+ *   Uses a deep System-Crash Midnight-Indigo void (`#0f0718`) and charged
+ *   violet-slate surfaces (`#211133`) paired with White-Hot Static text
+ *   (`#f6eefc`), Luminous Overload Rose-Crimson primary accents (`#ff6b8b`),
+ *   and Neural Arc Violet secondary accents (`#c084fc`).
+ *
+ * WCAG 2.1 AA / AAA Contrast Verification:
+ * - Light Mode:
+ *   - Body Text (`#190e24` on `#f5f2f7`): 16.75:1 (WCAG AAA)
+ *   - Body Text (`#190e24` on `#ffffff` surface): 18.59:1 (WCAG AAA)
+ *   - Primary Accent (`#9e1b46` on `#f5f2f7`): 7.01:1 (WCAG AAA)
+ *   - Primary Accent (`#9e1b46` on `#ffffff` surface): 7.78:1 (WCAG AAA)
+ *   - Secondary Accent (`#6b21a8` on `#f5f2f7`): 7.86:1 (WCAG AAA)
+ * - Dark Mode:
+ *   - Body Text (`#f6eefc` on `#0f0718`): 17.44:1 (WCAG AAA)
+ *   - Body Text (`#f6eefc` on `#211133` surface): 15.56:1 (WCAG AAA)
+ *   - Primary Accent (`#ff6b8b` on `#0f0718`): 7.26:1 (WCAG AAA)
+ *   - Primary Accent (`#ff6b8b` on `#211133` surface): 6.48:1 (WCAG AA)
+ *   - Secondary Accent (`#c084fc` on `#0f0718`): 7.47:1 (WCAG AAA)
+ *   - Primary Button (`#ffffff` on `#701a3c` fill): 11.04:1 (WCAG AAA)
+ * ============================================================================
+ */
+
+/* Theme Name: Autistic Meltdown (`autistic-meltdown` / `meltdown`) */
+
+/* --- 1. Light Mode (Base & Explicit OS/User Light Preference) --- */
+body.theme-autistic-meltdown,
+body.theme-meltdown,
+body.theme-light.theme-autistic-meltdown,
+body.theme-light.theme-meltdown,
+body.theme-sepia.theme-autistic-meltdown,
+body.theme-sepia.theme-meltdown {
+    color-scheme: light;
+    --rs-bg: #f5f2f7;        /* Sterile Fluorescent Ice-Lavender glare canvas */
+    --rs-bg-alt: #ebe4f0;    /* Charged ultraviolet-ash sidebar background */
+    --rs-surface: #ffffff;   /* Stark fluorescent white card/player surface */
+    --rs-card-bg: #ffffff;   /* Modal and card container surface */
+    --rs-text: #190e24;      /* Deep Neural Violet-Black prose (16.75:1 contrast) */
+    --rs-heading: #190e24;   /* High-contrast heading token */
+    --rs-primary: #9e1b46;   /* High-Alert Crimson-Magenta accent (7.01:1 contrast) */
+    --rs-secondary: #6b21a8; /* Static Ultraviolet secondary accent (7.86:1 contrast) */
+    --rs-border: #d0bddf;    /* Fractured static-violet structural border */
+    accent-color: #9e1b46;
+}
+
+@media (prefers-color-scheme: light) {
+    body.theme-auto.theme-autistic-meltdown,
+    body.theme-auto.theme-meltdown,
+    body.theme-sepia-system.theme-autistic-meltdown,
+    body.theme-sepia-system.theme-meltdown {
+        color-scheme: light;
+        --rs-bg: #f5f2f7;
+        --rs-bg-alt: #ebe4f0;
+        --rs-surface: #ffffff;
+        --rs-card-bg: #ffffff;
+        --rs-text: #190e24;
+        --rs-heading: #190e24;
+        --rs-primary: #9e1b46;
+        --rs-secondary: #6b21a8;
+        --rs-border: #d0bddf;
+        accent-color: #9e1b46;
+    }
+}
+
+/* Subtle sensory-tension aura around the reading pane in Light Mode */
+body.theme-autistic-meltdown #stardust-reading-pane,
+body.theme-meltdown #stardust-reading-pane,
+body.theme-light.theme-autistic-meltdown #stardust-reading-pane,
+body.theme-light.theme-meltdown #stardust-reading-pane,
+body.theme-sepia.theme-autistic-meltdown #stardust-reading-pane,
+body.theme-sepia.theme-meltdown #stardust-reading-pane {
+    box-shadow: inset 0 0 80px rgba(158, 27, 70, 0.10);
+}
+
+/* --- 2. Dark Mode (Explicitly Forced by Reader Toggle) --- */
+body.theme-dark.theme-autistic-meltdown,
+body.theme-dark.theme-meltdown,
+body.theme-dark-sepia.theme-autistic-meltdown,
+body.theme-dark-sepia.theme-meltdown {
+    color-scheme: dark;
+    --rs-bg: #0f0718;        /* System.Crash Midnight-Indigo overload canvas */
+    --rs-bg-alt: #180c26;    /* Elevated neural-violet sidebar background */
+    --rs-surface: #211133;   /* Charged dark ultraviolet surface */
+    --rs-card-bg: #211133;   /* Modal and card container surface */
+    --rs-text: #f6eefc;      /* Crisp White-Hot Static prose (17.44:1 contrast) */
+    --rs-heading: #f6eefc;   /* High-contrast heading token */
+    --rs-primary: #ff6b8b;   /* Luminous Overload Rose-Crimson (7.26:1 contrast) */
+    --rs-secondary: #c084fc; /* Neural Arc Violet secondary accent (7.47:1 contrast) */
+    --rs-border: #4c246e;    /* Charged ultraviolet structural border */
+    accent-color: #ff6b8b;
+}
+
+/* Ensure primary buttons in Dark Mode maintain 11.04:1 WCAG AAA contrast */
+body.theme-dark.theme-autistic-meltdown .rs-btn-primary,
+body.theme-dark.theme-meltdown .rs-btn-primary,
+body.theme-dark-sepia.theme-autistic-meltdown .rs-btn-primary,
+body.theme-dark-sepia.theme-meltdown .rs-btn-primary,
+body.theme-dark.theme-autistic-meltdown .visually-hidden-focusable,
+body.theme-dark.theme-meltdown .visually-hidden-focusable,
+body.theme-dark-sepia.theme-autistic-meltdown .visually-hidden-focusable,
+body.theme-dark-sepia.theme-meltdown .visually-hidden-focusable {
+    background: #701a3c;
+    border-color: #ff6b8b;
+    color: #ffffff;
+}
+
+body.theme-dark.theme-autistic-meltdown #stardust-reading-pane,
+body.theme-dark.theme-meltdown #stardust-reading-pane,
+body.theme-dark-sepia.theme-autistic-meltdown #stardust-reading-pane,
+body.theme-dark-sepia.theme-meltdown #stardust-reading-pane {
+    box-shadow: inset 0 0 95px rgba(255, 107, 139, 0.14);
+}
+
+/* --- 3. OS Auto Dark Mode --- */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-autistic-meltdown,
+    body.theme-auto.theme-meltdown,
+    body.theme-sepia-system.theme-autistic-meltdown,
+    body.theme-sepia-system.theme-meltdown,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-autistic-meltdown,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-meltdown {
+        color-scheme: dark;
+        --rs-bg: #0f0718;
+        --rs-bg-alt: #180c26;
+        --rs-surface: #211133;
+        --rs-card-bg: #211133;
+        --rs-text: #f6eefc;
+        --rs-heading: #f6eefc;
+        --rs-primary: #ff6b8b;
+        --rs-secondary: #c084fc;
+        --rs-border: #4c246e;
+        accent-color: #ff6b8b;
+    }
+
+    body.theme-auto.theme-autistic-meltdown .rs-btn-primary,
+    body.theme-auto.theme-meltdown .rs-btn-primary,
+    body.theme-sepia-system.theme-autistic-meltdown .rs-btn-primary,
+    body.theme-sepia-system.theme-meltdown .rs-btn-primary,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-autistic-meltdown .rs-btn-primary,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-meltdown .rs-btn-primary,
+    body.theme-auto.theme-autistic-meltdown .visually-hidden-focusable,
+    body.theme-auto.theme-meltdown .visually-hidden-focusable,
+    body.theme-sepia-system.theme-autistic-meltdown .visually-hidden-focusable,
+    body.theme-sepia-system.theme-meltdown .visually-hidden-focusable,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-autistic-meltdown .visually-hidden-focusable,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-meltdown .visually-hidden-focusable {
+        background: #701a3c;
+        border-color: #ff6b8b;
+        color: #ffffff;
+    }
+
+    body.theme-auto.theme-autistic-meltdown #stardust-reading-pane,
+    body.theme-auto.theme-meltdown #stardust-reading-pane,
+    body.theme-sepia-system.theme-autistic-meltdown #stardust-reading-pane,
+    body.theme-sepia-system.theme-meltdown #stardust-reading-pane,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-autistic-meltdown #stardust-reading-pane,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-meltdown #stardust-reading-pane {
+        box-shadow: inset 0 0 95px rgba(255, 107, 139, 0.14);
+    }
+}
+
+/* --- 4. Forced Colors Mode (Windows High Contrast) --- */
+@media (forced-colors: active) {
+    body.theme-autistic-meltdown,
+    body.theme-meltdown {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-secondary: Highlight;
+        --rs-border: ButtonBorder;
+    }
+    body.theme-autistic-meltdown #stardust-reading-pane,
+    body.theme-meltdown #stardust-reading-pane {
+        box-shadow: none;
+    }
+}
+
