@@ -1,0 +1,184 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: FIRE DRILL (KLX-100 EMERGENCY EVACUATION & HIGH-VIS SAFETY)
+ * ============================================================================
+ *
+ * Description:
+ * This stylesheet (`fire-drill.css`) defines the reusable "Fire Drill" reading
+ * theme for the Ocean View Archives / Stardust Engine. It is designed for
+ * scenes involving dormitory or building fire alarms, emergency evacuations,
+ * klaxon/strobe ambushes, and the grounding presence of Resident Advisors and
+ * emergency responders in high-visibility safety gear (such as "Fire Alarm in
+ * the Dormitory" in *The Eleventh Child*).
+ *
+ * Psychological & Sensory Design:
+ * - Captures the visual contrast of a scheduled residence hall evacuation:
+ *   Pull-Station Signal Crimson, ADA Strobe Warm White, Smoke-Barrier
+ *   Charcoal, and Reflective High-Visibility Safety-Vest Amber-Gold.
+ * - Photosensitivity & WCAG 2.3.1 Guarantee: Although fire drills involve
+ *   flashing ADA strobes in-narrative, this stylesheet NEVER uses flashing,
+ *   blinking, or pulsing CSS animations, ensuring complete safety for readers
+ *   with photosensitive epilepsy, migraine disorders, or sensory sensitivities.
+ *
+ * Aesthetic & Color Engineering:
+ * - Light Mode ("ADA Strobe Glare & Pull-Station Crimson"):
+ *   Uses a warm Strobe-Wash Alabaster canvas (`#fcf7f5`) and crisp white card
+ *   surfaces (`#ffffff`) paired with Smoke-Barrier Espresso-Charcoal prose
+ *   (`#1f0d0a`), Pull-Station Crimson primary accents (`#a31616`), and
+ *   High-Visibility Safety Amber-Bronze secondary accents (`#854200`).
+ * - Dark Mode ("Night Evacuation & High-Vis Reflective Vest"):
+ *   Uses a deep Night-Evacuation Ember-Obsidian canvas (`#140807`) and dark
+ *   alarm-panel surfaces (`#291210`) paired with Strobe-White prose (`#fdf2f0`),
+ *   Luminous Klaxon Coral-Crimson primary accents (`#ff7a6b`), and Reflective
+ *   Safety-Vest Amber-Gold secondary accents (`#fbbf24`).
+ *
+ * WCAG 2.1 AA / AAA Contrast Verification:
+ * - Light Mode:
+ *   - Body Text (`#1f0d0a` on `#fcf7f5`): 17.64:1 (WCAG AAA)
+ *   - Body Text (`#1f0d0a` on `#ffffff` surface): 18.75:1 (WCAG AAA)
+ *   - Primary Accent (`#a31616` on `#fcf7f5`): 7.36:1 (WCAG AAA)
+ *   - Primary Accent (`#a31616` on `#ffffff` surface): 7.83:1 (WCAG AAA)
+ *   - Secondary Accent (`#854200` on `#fcf7f5`): 7.12:1 (WCAG AAA)
+ * - Dark Mode:
+ *   - Body Text (`#fdf2f0` on `#140807`): 17.92:1 (WCAG AAA)
+ *   - Body Text (`#fdf2f0` on `#291210` surface): 16.10:1 (WCAG AAA)
+ *   - Primary Accent (`#ff7a6b` on `#140807`): 7.73:1 (WCAG AAA)
+ *   - Primary Accent (`#ff7a6b` on `#291210` surface): 6.94:1 (WCAG AA+)
+ *   - Secondary Accent (`#fbbf24` on `#140807`): 11.78:1 (WCAG AAA)
+ *   - Secondary Accent (`#fbbf24` on `#291210` surface): 10.59:1 (WCAG AAA)
+ *   - Primary Button (`#ffffff` on `#801515` fill): 10.31:1 (WCAG AAA)
+ * ============================================================================
+ */
+
+/* Theme Name: Fire Drill (`fire-drill`) */
+
+/* --- 1. Light Mode (Base & Explicit OS/User Light Preference) --- */
+body.theme-fire-drill,
+body.theme-light.theme-fire-drill,
+body.theme-sepia.theme-fire-drill {
+    color-scheme: light;
+    --rs-bg: #fcf7f5;        /* Warm ADA Strobe-Wash Alabaster canvas */
+    --rs-bg-alt: #f5eae6;    /* Tinted fire-corridor sidebar background */
+    --rs-surface: #ffffff;   /* Crisp white card/player surface */
+    --rs-card-bg: #ffffff;   /* Modal and card container surface */
+    --rs-text: #1f0d0a;      /* Smoke-Barrier Charcoal prose (17.64:1 contrast) */
+    --rs-heading: #1f0d0a;   /* High-contrast heading token */
+    --rs-primary: #a31616;   /* Pull-Station Signal Crimson (7.36:1 contrast) */
+    --rs-secondary: #854200; /* High-Vis Safety Amber-Bronze (7.12:1 contrast) */
+    --rs-border: #e2c5bc;    /* Warm fire-door frame border */
+    accent-color: #a31616;
+}
+
+@media (prefers-color-scheme: light) {
+    body.theme-auto.theme-fire-drill,
+    body.theme-sepia-system.theme-fire-drill {
+        color-scheme: light;
+        --rs-bg: #fcf7f5;
+        --rs-bg-alt: #f5eae6;
+        --rs-surface: #ffffff;
+        --rs-card-bg: #ffffff;
+        --rs-text: #1f0d0a;
+        --rs-heading: #1f0d0a;
+        --rs-primary: #a31616;
+        --rs-secondary: #854200;
+        --rs-border: #e2c5bc;
+        accent-color: #a31616;
+    }
+}
+
+/* Static emergency beacon top-edge indicator and subtle perimeter aura in Light Mode */
+body.theme-fire-drill #stardust-reading-pane,
+body.theme-light.theme-fire-drill #stardust-reading-pane,
+body.theme-sepia.theme-fire-drill #stardust-reading-pane {
+    border-top: 4px solid #a31616;
+    box-shadow: inset 0 0 75px rgba(163, 22, 22, 0.08);
+}
+
+/* --- 2. Dark Mode (Explicitly Forced by Reader Toggle) --- */
+body.theme-dark.theme-fire-drill,
+body.theme-dark-sepia.theme-fire-drill {
+    color-scheme: dark;
+    --rs-bg: #140807;        /* Night-Evacuation Ember-Obsidian canvas */
+    --rs-bg-alt: #1f0d0b;    /* Elevated fire-panel sidebar background */
+    --rs-surface: #291210;   /* Dark crimson-slate card surface */
+    --rs-card-bg: #291210;   /* Modal and card container surface */
+    --rs-text: #fdf2f0;      /* Crisp Strobe-White prose (17.92:1 contrast) */
+    --rs-heading: #fdf2f0;   /* High-contrast heading token */
+    --rs-primary: #ff7a6b;   /* Luminous Klaxon Coral-Crimson (7.73:1 contrast) */
+    --rs-secondary: #fbbf24; /* Reflective High-Vis Safety Vest Gold (11.78:1 contrast) */
+    --rs-border: #5c241e;    /* Illuminated emergency-exit border */
+    accent-color: #ff7a6b;
+}
+
+/* Ensure primary buttons in Dark Mode maintain 10.31:1 WCAG AAA contrast */
+body.theme-dark.theme-fire-drill .rs-btn-primary,
+body.theme-dark-sepia.theme-fire-drill .rs-btn-primary,
+body.theme-dark.theme-fire-drill .visually-hidden-focusable,
+body.theme-dark-sepia.theme-fire-drill .visually-hidden-focusable {
+    background: #801515;
+    border-color: #fbbf24;
+    color: #ffffff;
+}
+
+body.theme-dark.theme-fire-drill #stardust-reading-pane,
+body.theme-dark-sepia.theme-fire-drill #stardust-reading-pane {
+    border-top: 4px solid #fbbf24;
+    box-shadow: inset 0 0 90px rgba(255, 122, 107, 0.12);
+}
+
+/* --- 3. OS Auto Dark Mode --- */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-fire-drill,
+    body.theme-sepia-system.theme-fire-drill,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-fire-drill {
+        color-scheme: dark;
+        --rs-bg: #140807;
+        --rs-bg-alt: #1f0d0b;
+        --rs-surface: #291210;
+        --rs-card-bg: #291210;
+        --rs-text: #fdf2f0;
+        --rs-heading: #fdf2f0;
+        --rs-primary: #ff7a6b;
+        --rs-secondary: #fbbf24;
+        --rs-border: #5c241e;
+        accent-color: #ff7a6b;
+    }
+
+    body.theme-auto.theme-fire-drill .rs-btn-primary,
+    body.theme-sepia-system.theme-fire-drill .rs-btn-primary,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-fire-drill .rs-btn-primary,
+    body.theme-auto.theme-fire-drill .visually-hidden-focusable,
+    body.theme-sepia-system.theme-fire-drill .visually-hidden-focusable,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-fire-drill .visually-hidden-focusable {
+        background: #801515;
+        border-color: #fbbf24;
+        color: #ffffff;
+    }
+
+    body.theme-auto.theme-fire-drill #stardust-reading-pane,
+    body.theme-sepia-system.theme-fire-drill #stardust-reading-pane,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-fire-drill #stardust-reading-pane {
+        border-top: 4px solid #fbbf24;
+        box-shadow: inset 0 0 90px rgba(255, 122, 107, 0.12);
+    }
+}
+
+/* --- 4. Forced Colors Mode (Windows High Contrast) --- */
+@media (forced-colors: active) {
+    body.theme-fire-drill {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-secondary: Highlight;
+        --rs-border: ButtonBorder;
+    }
+    body.theme-fire-drill #stardust-reading-pane {
+        border-top: none;
+        box-shadow: none;
+    }
+}
+

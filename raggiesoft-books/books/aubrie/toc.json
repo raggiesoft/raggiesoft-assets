@@ -427,22 +427,96 @@
                             "file_path": "e001/c011/s005.md"
                         }
                     ]
+                },
+                {
+                    "chap_num": 12,
+                    "chap_title": "Homecoming Spirit",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/homecoming-spirit",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Door Decorating Contest",
+                            "file_path": "e001/c012/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Chalk the Walk",
+                            "file_path": "e001/c012/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Pep Rally Fortress",
+                            "file_path": "e001/c012/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Parade and the Peak",
+                            "file_path": "e001/c012/s004.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 13,
+                    "chap_title": "Homecoming Game Day",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/homecoming-game-day",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Game Day",
+                            "file_path": "e001/c013/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Pre-Game",
+                            "file_path": "e001/c013/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The First Quarter",
+                            "file_path": "e001/c013/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Second Quarter",
+                            "file_path": "e001/c013/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Halftime",
+                            "file_path": "e001/c013/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Retreat",
+                            "file_path": "e001/c013/s006.md"
+                        },
+                        {
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Fortress of Truth",
+                            "file_path": "e001/c013/s007.md"
+                        },
+                        {
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: The Fortress at Night",
+                            "file_path": "e001/c013/s008.md"
+                        }
+                    ]
                 }
             ]
         },
         {
             "era_num": 2,
-            "era_title": "The Sanctuary & The Shield",
-            "era_url": "/raggiesoft-books/books/aubrie/the-sanctuary-the-shield",
+            "era_title": "A New Winter Break Tradition",
+            "era_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition",
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Homecoming Week",
-                    "chap_url": "/raggiesoft-books/books/aubrie/the-sanctuary-the-shield/homecoming-week",
+                    "chap_title": "A Winter Wonderland in the Basement",
+                    "chap_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition/a-winter-wonderland-in-the-basement",
                     "scenes": [
                         {
                             "scene_num": 1,
-                            "scene_title": "Scene 1: The Fortress of Truth",
+                            "scene_title": "Scene 1: The Fortress Upgrades",
                             "file_path": "e002/c001/s001.md"
                         }
                     ]
