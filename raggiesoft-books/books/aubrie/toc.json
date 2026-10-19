@@ -144,28 +144,33 @@
                         },
                         {
                             "scene_num": 10,
-                            "scene_title": "Scene 10: The First Assist",
+                            "scene_title": "Scene 10: The Kincaid Hall Tea Rebellion",
                             "file_path": "e001/c004/s010.md"
                         },
                         {
                             "scene_num": 11,
-                            "scene_title": "Scene 11: The Spare Hardware",
+                            "scene_title": "Scene 11: The First Assist",
                             "file_path": "e001/c004/s011.md"
                         },
                         {
                             "scene_num": 12,
-                            "scene_title": "Scene 12: The New Voice",
+                            "scene_title": "Scene 12: The Spare Hardware",
                             "file_path": "e001/c004/s012.md"
                         },
                         {
                             "scene_num": 13,
-                            "scene_title": "Scene 13: The Antidote",
+                            "scene_title": "Scene 13: The New Voice",
                             "file_path": "e001/c004/s013.md"
                         },
                         {
                             "scene_num": 14,
-                            "scene_title": "Scene 14: The Trust Fall",
+                            "scene_title": "Scene 14: The Antidote",
                             "file_path": "e001/c004/s014.md"
+                        },
+                        {
+                            "scene_num": 15,
+                            "scene_title": "Scene 15: The Trust Fall",
+                            "file_path": "e001/c004/s015.md"
                         }
                     ]
                 },
@@ -213,6 +218,11 @@
                             "scene_num": 8,
                             "scene_title": "Scene 8: The Interception",
                             "file_path": "e001/c005/s008.md"
+                        },
+                        {
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: The View from the Fifth Floor",
+                            "file_path": "e001/c005/s009.md"
                         }
                     ]
                 },
@@ -263,13 +273,18 @@
                         },
                         {
                             "scene_num": 9,
-                            "scene_title": "Scene 9: Evening Data",
+                            "scene_title": "Scene 9: The Girls of 505",
                             "file_path": "e001/c006/s009.md"
                         },
                         {
                             "scene_num": 10,
-                            "scene_title": "Scene 10: The Open Doors",
+                            "scene_title": "Scene 10: Evening Data",
                             "file_path": "e001/c006/s010.md"
+                        },
+                        {
+                            "scene_num": 11,
+                            "scene_title": "Scene 11: The Open Doors",
+                            "file_path": "e001/c006/s011.md"
                         }
                     ]
                 },
@@ -295,13 +310,23 @@
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: An Unconventional Study Session",
+                            "scene_title": "Scene 4: The Fifth Floor Hunch",
                             "file_path": "e001/c007/s004.md"
                         },
                         {
                             "scene_num": 5,
-                            "scene_title": "Scene 5: The War Room",
+                            "scene_title": "Scene 5: An Unconventional Study Session",
                             "file_path": "e001/c007/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Kincaid Hall Collision",
+                            "file_path": "e001/c007/s006.md"
+                        },
+                        {
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The War Room",
+                            "file_path": "e001/c007/s007.md"
                         }
                     ]
                 },
