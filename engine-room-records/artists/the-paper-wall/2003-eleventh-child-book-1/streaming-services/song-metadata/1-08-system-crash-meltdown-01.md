@@ -4,7 +4,8 @@
 * **Track Title:** System.Crash(Meltdown_01)
 * **Primary Artist:** The Paper Wall
 * **Genre:** Electronic / Narrative / Rock Opera
-* **Real-World DSP Release Date:** 2026-08-28
+* **Real-World DSP Release Date:** 2026-10-20
+* **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2673227
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes
@@ -14,6 +15,10 @@
   * [x] **All of the audio** *(Everything the listener hears is AI-generated)*
 * **Artist Identity:** AI Persona
 
+**DistroKid Extras / Add-Ons Policy (CRITICAL — DO NOT OPT IN TO CONTENT ID):**
+* [ ] **Social Media Pack ($14.95/yr + 20% platform ad revenue):** **LEAVE UNCHECKED / DO NOT SELECT**
+  * *Why:* Enrolling in YouTube Content ID, TikTok music ID recognition, or Meta Rights Manager (Instagram/Facebook) triggers automated copyright claims and demonetization against independent creators legally using our music under **CC BY-SA 4.0** and enterprise clients holding a **Direct Commercial Non-Exclusive Sync License**.
+
 ## 2. DistroKid Credits Dashboard (distrokid.com/credits)
 *DistroKid requires a real human name for all songwriter credits.*
 * **Songwriter (Required):** Michael P. Ragsdale
@@ -22,13 +27,18 @@
 
 ## 3. Internal Catalog Information
 * **Engine Room ID:** ERR-003-2003-108
-* **ISRC:** 
-* **Album UPC / GTIN-12:** None
+* **ISRC:** QT6HJ2673227
+* **US ISRC Agency Registrant:** Michael Ragsdale (Registrant ID: 185611 • Prefix: QTAHP • dsp.operations@engineroom-records.com)
+* **Album UPC / GTIN-12:** 882011724119
 * **Track Length:** 4:15
 * **Fictional Narrative Release Date:** 2003-08-20
 * **Master File Located At:** ../../vault/wav/1-08-system-crash-meltdown-01.wav
 
-## 4. Rights & Clearances
+## 4. Rights, Tri-License Architecture & Clearances
 * **Commercial Rights:** 100% cleared via commercial-tier Suno Premium.
-* **Copyright:** CC BY-SA 4.0 - Michael P. Ragsdale / RaggieSoft.
+* **Tri-License Model:**
+  1. **CC BY-SA 4.0 International:** Open-culture sharing & remixing with attribution to *Michael P. Ragsdale / Engine Room Records / RaggieSoft Media*.
+  2. **Standard DSP Consumer License:** Personal streaming via Apple Music, Spotify, YouTube Music, Amazon Music, TIDAL, Pandora, Qobuz, and The Listening Room.
+  3. **Direct Commercial Non-Exclusive Sync License:** Available via `https://raggiesoft.com/raggiesoft-media/licensing/commercial` for commercial productions waiving ShareAlike copyleft terms.
+* **Automated Content ID / Rights Manager:** Strictly opted out (Zero Content-ID Ambush Guarantee).
 * **Impersonation:** NONE. Synthetic vocals only.

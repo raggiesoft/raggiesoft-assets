@@ -201,7 +201,7 @@ Midnight headlights in the valley fog!
 ***
 
 **LORE NOTE:**
-A lush, three-minute 85 BPM 1980s arena power ballad written around the playful concept of a three-minute campus speed-dating round ("It only takes three minutes to believe!"). You have until the end of the song to get to know the person sitting across the table from you before rotating to the next seat.
+A lush, three-minute 85 BPM 1980s arena power ballad written around the playful concept of a three-minute campus speed-dating round ("It only takes three minutes to believe!"). You have until the end of the song to get to know the person sitting across the table from you before rotating to the next seat. In The Stardust Engine's official published liner-note narrative ("Before the Distance: The Story of John & Erin"), this is the song that was supposed to be played at the campus speed-dating event when John sat down across from a stranger—before the organizer accidentally hit the skip button and blasted Track 4 ("Thunder in the Rain") instead.
 
 **LYRICS:**
 
@@ -246,7 +246,7 @@ Seconds into forever...
 ***
 
 **LORE NOTE:**
-Opening with a deceptive ten-second cinematic analog brass-synth swell before exploding into a 150 BPM C-minor stadium rocker. Placed directly after "Seconds Into Forever" as Track 4, this song was famously blasted by accident during an unsanctioned "Guerilla Speed Dating" ambush in the Second Floor Lounge when the ringleader fat-fingered the boombox skip button past Track 3.
+Opening with a deceptive ten-second cinematic analog brass-synth swell before exploding into a 150 BPM C-minor stadium rocker. Placed directly after "Seconds Into Forever" as Track 4, this song serves as Part II of The Stardust Engine's published narrative story of fraternal twins John and Erin. At a campus speed-dating event where the organizer was supposed to play "Seconds Into Forever" (Track 3) but accidentally skipped to "Thunder in the Rain" (Track 4), John sits across from a magnetic woman while the lyrics roar ("The neon signs are flashing 'Danger' in red / But I'd rather be living than safe and dead"). Crucially, John mistakes the high-voltage adrenaline for romance and does not realize she is going to be his abuser—a published story detail that later makes Freddie and Paige wonder why they have heard "Thunder in the Rain" before when the song surfaces in their own lives.
 
 **LYRICS:**
 
@@ -413,11 +413,11 @@ Where the music began.
 **LORE NOTE:**
 A roaring 1980s stadium rock companion to 1986's "Ignition: The Forger's Call", celebrating the student-run contest at Commonwealth Polytechnic Institute (CPI) that made The Stardust Engine the Saturday night soundtrack of The Crucible—the loudest house in all of college sports.
 
-**In-Universe Legal Clearance (The 1986 Progress Street Redline):** When the CPI Student Government Association and Athletics Department distributed the October 1986 entry packet for the student anthem contest, the standard release form included a boilerplate "Work Made for Hire" clause that would have transferred 100% of the winning song's master and publishing rights to the CPI Athletic Foundation. Sixteen-year-old Holly O'Connell—who had already skipped grades to enroll at CPI and was taking business and contract law electives—refused to let Ryan, Cassidy, Evan, and Tyler sign it. Sitting at the Progress Street kitchen table with a red pen, Holly struck the Work-for-Hire clause and drafted a **$1.00 Perpetual Mutual Cross-License** with CPI's University Counsel:
+**In-Universe Legal Clearance (The 1986 Progress Street Redline):** When the CPI Student Government Association and Athletics Department distributed the October 1986 entry packet for the student anthem contest, the standard release form included a boilerplate "Work Made for Hire" clause that would have transferred 100% of the winning song's master and publishing rights to the CPI Athletic Foundation. Sixteen-year-old Holly O'Connell—who was **dual-enrolled at Blacksburg High School and CPI**, riding Blue Ridge Transit Route 1 to the university campus every afternoon to take undergraduate business and contract law electives—refused to let Ryan, Cassidy, Evan, and Tyler sign it. Sitting at the Progress Street kitchen table with a red pen, Holly struck the Work-for-Hire clause and drafted a **$1.00 Perpetual Mutual Cross-License** with CPI's University Counsel:
 1. **The Stadium Grant (Band &rarr; CPI):** The Stardust Engine retained 100% ownership of their masters and publishing, while granting CPI Athletics and the Marching Forgers a perpetual, irrevocable, royalty-free synchronization and public-performance license to play *"Ignition: The Forger's Call"* (and future band stadium anthems) at all home games inside **The Crucible** and on official university broadcasts.
 2. **The Trademark Grant (CPI &rarr; Band):** In exchange, CPI's Office of Trademarks & Licensing granted The Stardust Engine (and any record label wholly owned by the band) a perpetual, worldwide, royalty-free **Co-Existence & Artistic Reference License** to use the university's institutional marks—**`CPI`**, **`Commonwealth Polytechnic Institute`**, **`The Forgers`**, and **`The Crucible`**—in their song lyrics, track titles, album artwork, and liner notes.
 
-When the band recorded *"Saturday Night Lights: The Crucible"* in 2004 for *Progress Street*, Holly simply pulled the 1986 Mutual Cross-License out of the Engine Room Records fireproof vault, sent a courtesy copy to the CPI Athletic Director along with an early master WAV for the 2004–2005 Fourth Quarter stadium break, and cleared the track for global distribution in a single afternoon.
+When the band recorded *"Saturday Night Lights: The Crucible"* in 2004 for *Progress Street* (scheduled for worldwide release on **Monday, October 10, 2004**), Holly pulled the 1986 Mutual Cross-License out of the Engine Room Records fireproof vault and staged a top-secret stadium premiere 48 hours before the album dropped. On **Saturday night, October 8, 2004**, as the CPI Forgers held a gritty fourth-quarter lead over fierce Appalachian border rival **#6 Monongahela State University (MSU Coalminers)** in the *Coal & Iron War*, the stadium press box blindsided **The Ironheads** (CPI football's fanatical student section in The Anvil, as famous across college sports as **Buchanan University** basketball's *Pavilion Lunatics*) and all 65,000 fans of Forger Nation by blasting the unreleased track between the third and fourth quarters. The Ironheads immediately locked onto Cassidy's triumphant analog synth-brass fanfare and the anthemic chorus—roaring ***"INSIDE THE CRUCIBLE!"*** and ***"GO FORGERS!"*** across the Blacksburg night sky as CPI closed out a **19–13 victory**, cementing *"Saturday Night Lights: The Crucible"* as CPI's permanent fourth-quarter singalong ritual alongside pre-game *"Ignition."*
 
 **LYRICS:**
 
@@ -525,7 +525,8 @@ Under the Saturday night lights!
 ***
 
 **LORE NOTE:**
-An upbeat 1980s melodic synth-rock tribute to younger sister and manager Holly O'Connell—the child prodigy who entered CPI at sixteen, mediated Ryan and Cassidy's creative arguments with three-way hugs, and armored the family against the music industry as CEO of Engine Room Records.
+
+An upbeat 1980s melodic synth-rock tribute to younger sister and manager Holly O'Connell—the academic prodigy who was dual-enrolled at Blacksburg High School and CPI at sixteen, mediated Ryan and Cassidy's creative arguments with three-way hugs, earned her Class A CDL with passenger and airbrake endorsements alongside Evan and Tyler, and armored the family against the music industry.
 
 **LYRICS:**
 
@@ -604,7 +605,7 @@ The architect behind the sound!
 ***
 
 **LORE NOTE:**
-A dramatic mid-tempo 1980s pop-rock power anthem ("When the steel doors close and the platform clears..."), famously listened to by Jessica on her pre-release Quantum Zephyr media player during her devastating November 2006 commuter train ride from Kent to Seattle King Street Station.
+A dramatic mid-tempo 1980s pop-rock power anthem ("When the steel doors close and the platform clears...") serving as the centerpiece of The Stardust Engine's published narrative story of fraternal twins John and Erin. After the woman John met during "Thunder in the Rain" isolates and breaks him down, she tries to force John onto a southbound Blue Ridge Transit bus along Commonwealth Mall in Blacksburg to take him away for the weekend—until his twin sister Erin blocks the front wheelchair ramp with her power chair on the sidewalk, locks a perimeter between her brother and his abuser right before the steel doors close, and brings John the two blocks home down the sidewalk to their apartment on Progress Street NE. In November 2006, when Jessica leaves her brother Michael behind at Kent Station with his abuser Delores and hears "Before the Distance" on her pre-release Quantum Zephyr media player on the commuter train to Seattle King Street Station, she remembers reading The Stardust Engine's story of John and Erin and realizes in horror that she and Michael are living out the exact same story—except she let the doors close without pulling her brother away.
 
 **LYRICS:**
 

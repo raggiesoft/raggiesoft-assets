@@ -5,7 +5,8 @@
 ***
 
 **LORE NOTE:**
-Archival lyrics document.
+
+The symphonic-metal overture opening Tales from the Solstice. Commissioned in January 2007 at The Crown & Hound on Duke of Gloucester Street in Williamsburg after Samantha liberated the Rowlands family's masters from Vanguard Horizon, ethereal soprano vocals, Gwendolyn's cello, and Gabriel's neoclassical electric guitar set the stage for a 3-disc rock opera uniting Julian Rowlands' 1996 rescue beacon with Matthew's cross-country survival.
 
 **LYRICS:**
 
@@ -34,7 +35,8 @@ Ahhh, Ohhh
 ***
 
 **LORE NOTE:**
-Archival lyrics document.
+
+A dramatic symphonic rock duet chronicling the moment Matthew is lured past his HRT transfer point near the hospital glass onto a cross-country interstate coach at Olney and Granby in Norfolk, Virginia—echoing the terror Julian Rowlands survived a decade earlier.
 
 **LYRICS:**
 
@@ -92,7 +94,8 @@ The heavy gate locks on the prize!
 ***
 
 **LORE NOTE:**
-Archival lyrics document.
+
+Three thousand miles from Virginia in the rain-streaked neon of Seattle, the promised 'Emerald City' reveals itself as a locked concrete cage—crystallizing Matthew's plea ('I just want to go home') before Jyn defies her blood cousin to become his physical shield and bring him back to Virginia.
 
 **LYRICS:**
 
@@ -142,7 +145,8 @@ I just want to go home
 ***
 
 **LORE NOTE:**
-The crowning symphonic rock centerpiece of *Tales from the Solstice*. Following the journey of a solitary traveler in a wheelchair yearning to find his way home through the winter storm, the track builds to an emotional rock-opera climax beneath the guiding light of the Northern Star.
+
+The English (United States) studio master of the legendary beacon track ('Sonic Armor'). Originally recorded in one take on December 11, 1996 in Ewell, Virginia—anchored by Maria Harrison's glockenspiel, Gabriel Rowlands' baritone and guitar, Gwendolyn Rowlands' arrangements, and Julian's wind-up Brahms 'Wiegenlied' music box—and hijacked onto the Shenandoah FM repeaters to reach 14-year-old Julian during his abduction to Ohio. Years later, this 1997 single became the sonic armor that grounded Matthew at the airport hub during his rescue flight home from Seattle.
 
 **LYRICS:**
 

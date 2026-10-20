@@ -239,3 +239,25 @@ body.theme-dark-sepia .ios-tab-item.inactive {
 #stardust-reading-pane {
     background: var(--rs-bg) !important;
 }
+
+/* ==========================================================================
+ * ZOË PATEL COGNITIVE KERNEL LOGS (.zoe-kernel-log & .zkl-* Tokens)
+ * ==========================================================================
+ * Renders Zoë's autistic internal C#/.NET application-log thought streams
+ * (`ZOË.Systems.Logs.*`) with full WCAG 2.1 AAA Light & Dark syntax highlighting.
+ * ========================================================================== */
+.story-content .zoe-kernel-log,
+.story-content .zoe-kernel-log div,
+.story-content .zoe-kernel-log p {
+    text-indent: 0 !important;
+}
+.story-content .zoe-kernel-log::first-letter,
+.story-content .zoe-kernel-log *::first-letter {
+    float: none !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    margin: 0 !important;
+    font-weight: inherit !important;
+    color: inherit !important;
+}
+

@@ -65,6 +65,12 @@ Yeah, we're chasing the sun!
 ### **1-02-my-anchor.md**
 ***
 
+**LORE NOTE:**
+
+A heartfelt 80s power ballad reflecting Leo's profound platonic love and trust for his best friend, Olivia.
+
+**LYRICS:**
+
 [Verse 1]
 The senior year is drawing down
 In this quiet, sleepy little town
@@ -114,6 +120,12 @@ A sincere and heartfelt 80s power ballad with a mid-tempo 80 BPM, The music shou
 ***
 ### **1-03-the-boy-inside.md**
 ***
+
+**LORE NOTE:**
+
+A fierce, protective power ballad from Olivia's perspective, seeing Leo's true brilliance beyond his disability.
+
+**LYRICS:**
 
 \# The Boy Inside
 
@@ -211,6 +223,12 @@ The brilliant, beautiful boy inside
 ### **1-04-the-demarco-decree.md**
 ***
 
+**LORE NOTE:**
+
+A high school rock anthem featuring a poignant flute interlude that represents Leo and Luna's private check-in signal.
+
+**LYRICS:**
+
 [Verse 1]
 Another Monday, bells are ringing loud
 Lost inside a noisy, shuffling crowd
@@ -264,6 +282,12 @@ An upbeat and driving 80s high school rock anthem with a mid-tempo 140 BPM, The 
 ***
 ### **1-05-radio-waves.md**
 ***
+
+**LORE NOTE:**
+
+A high-energy, classic 80s FM radio hit celebrating late-night mixtape creation and youthful optimism.
+
+**LYRICS:**
 
 [Intro]
 (A powerful, driving 80s rock drum beat kicks in immediately with a bright, instantly memorable synthesizer riff. A soaring electric guitar joins in, and the energy is high from the very first second.)
@@ -321,6 +345,12 @@ A high-energy, anthemic, and incredibly catchy 80s FM radio rock hit with a driv
 ***
 ### **1-06-guiding-stars.md**
 ***
+
+**LORE NOTE:**
+
+The massive, triumphant 80s arena rock title track celebrating family, friendship, and unadulterated joy.
+
+**LYRICS:**
 
 [Intro]
 (A powerful, driving 80s rock drum beat kicks in immediately with a bright, instantly memorable synthesizer riff. A soaring electric guitar joins in, and the energy is high from the very first second.)
@@ -382,6 +412,12 @@ A massive, anthemic, and triumphant 80s arena rock anthem with a driving 130 BPM
 ***
 ### **1-07-the-house-on-lisa-court.md**
 ***
+
+**LORE NOTE:**
+
+A New Wave-influenced rock anthem expressing profound gratitude for the safe home Stella built.
+
+**LYRICS:**
 
 [Intro]
 (A memorable, melodic synthesizer riff kicks in immediately with a driving, steady 80s drum machine beat and a clean, chorus-effect electric guitar.)
@@ -450,6 +486,12 @@ A mid-tempo, heartfelt 80s rock anthem with a strong New Wave influence, around 
 ### **1-08-two-part-time.md**
 ***
 
+**LORE NOTE:**
+
+An observational New Wave track highlighting the perfect, unspoken communication between Leo, Luna, and Stella.
+
+**LYRICS:**
+
 [Intro]
 (A memorable, melodic synthesizer riff kicks in immediately with a driving, steady 80s drum machine beat and a clean, chorus-effect electric guitar.)
 
@@ -516,6 +558,12 @@ A mid-tempo, heartfelt 80s rock anthem with a strong New Wave influence, around 
 ***
 ### **1-09-the-house-on-lisa-court-alternate-take.md**
 ***
+
+**LORE NOTE:**
+
+Bonus track. An alternate studio recording of the New Wave tribute.
+
+**LYRICS:**
 
 [Intro]
 (A memorable, melodic synthesizer riff kicks in immediately with a driving, steady 80s drum machine beat and a clean, chorus-effect electric guitar.)

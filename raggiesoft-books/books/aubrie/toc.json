@@ -511,6 +511,70 @@
                             "file_path": "e001/c013/s009.md"
                         }
                     ]
+                },
+                {
+                    "chap_num": 14,
+                    "chap_title": "The Helicopter and the Chosen Family",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-helicopter-and-the-chosen-family",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: A Hug in the Hallway",
+                            "file_path": "e001/c014/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: A Safe Place on the First Floor",
+                            "file_path": "e001/c014/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Coming Storm",
+                            "file_path": "e001/c014/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Confrontation",
+                            "file_path": "e001/c014/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Choice",
+                            "file_path": "e001/c014/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Cut Cord",
+                            "file_path": "e001/c014/s006.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 15,
+                    "chap_title": "The Fall Break Relay",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-fall-break-relay",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The New Lifeline and a Winter Pact",
+                            "file_path": "e001/c015/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Handoffs in Action",
+                            "file_path": "e001/c015/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Christiansburg Plan and the Digital Wall",
+                            "file_path": "e001/c015/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: A Continent of Their Own",
+                            "file_path": "e001/c015/s004.md"
+                        }
+                    ]
                 }
             ]
         },
