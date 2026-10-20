@@ -406,6 +406,21 @@
                             "scene_num": 5,
                             "scene_title": "Scene 5: The Ride Home in High Definition",
                             "file_path": "e001/c009/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: Dinner with Isabel",
+                            "file_path": "e001/c009/s006.md"
+                        },
+                        {
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: Taking Out the Trash",
+                            "file_path": "e001/c009/s007.md"
+                        },
+                        {
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: Face to Face",
+                            "file_path": "e001/c009/s008.md"
                         }
                     ]
                 },
@@ -421,7 +436,7 @@
                         },
                         {
                             "scene_num": 2,
-                            "scene_title": "Scene 2: The Unbeliever",
+                            "scene_title": "Scene 2: The Main Event",
                             "file_path": "e001/c010/s002.md"
                         }
                     ]
