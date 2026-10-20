@@ -418,13 +418,18 @@
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: The Nightly Pact",
+                            "scene_title": "Scene 4: Interlude: The Mitigating Factor",
                             "file_path": "e001/c011/s004.md"
                         },
                         {
                             "scene_num": 5,
-                            "scene_title": "Scene 5: The First Night of the Pact",
+                            "scene_title": "Scene 5: The Nightly Pact",
                             "file_path": "e001/c011/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The First Night of the Pact",
+                            "file_path": "e001/c011/s006.md"
                         }
                     ]
                 },
