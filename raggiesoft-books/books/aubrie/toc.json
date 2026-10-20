@@ -504,6 +504,11 @@
                             "scene_num": 8,
                             "scene_title": "Scene 8: The Fortress at Night",
                             "file_path": "e001/c013/s008.md"
+                        },
+                        {
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: Interlude: Overnight Desk Duty",
+                            "file_path": "e001/c013/s009.md"
                         }
                     ]
                 }
