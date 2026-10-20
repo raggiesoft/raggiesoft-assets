@@ -46,15 +46,15 @@ a:hover { text-decoration: underline; }
     margin-bottom: 1rem;
     font-weight: 700;
 }
-.book-page p {
+.story-content > p {
     margin-bottom: 0.5rem;
     text-align: left;
     text-indent: 1.5rem;
 }
-.book-page p:first-of-type {
+.story-content > p:first-of-type {
     text-indent: 0;
 }
-.book-page p:first-of-type::first-letter {
+.story-content > p:first-of-type::first-letter {
     float: left;
     font-size: 3.5em;
     line-height: 0.8;
@@ -63,6 +63,24 @@ a:hover { text-decoration: underline; }
     margin-bottom: -0.1em;
     font-weight: 700;
     color: var(--rs-primary);
+}
+.story-content blockquote p,
+.story-content ul p,
+.story-content ol p,
+.story-content li p {
+    text-indent: 0;
+}
+.story-content blockquote p::first-letter,
+.story-content ul p::first-letter,
+.story-content ol p::first-letter,
+.story-content li p::first-letter,
+.story-content li::first-letter {
+    float: none !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    margin: 0 !important;
+    font-weight: inherit !important;
+    color: inherit !important;
 }
 .book-page blockquote {
     border-left: 4px solid var(--rs-primary);

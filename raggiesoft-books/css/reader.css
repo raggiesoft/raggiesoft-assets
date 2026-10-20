@@ -45,6 +45,26 @@
 .reader-series-header { font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: var(--rs-primary, #007bff); margin-bottom: 1rem; opacity: 0.9; }
 .reader-part-header { font-size: clamp(1.75rem, 5vw, 2.5rem); font-weight: 900; color: var(--rs-text); margin: 0 0 1rem 0; line-height: 1.2; }
 
+/* Ensure drop caps and book paragraph indents ONLY apply to direct top-level scene paragraphs, NEVER inside blockquotes or lists */
+.story-content blockquote p,
+.story-content ul p,
+.story-content ol p,
+.story-content li p {
+    text-indent: 0 !important;
+}
+.story-content blockquote p::first-letter,
+.story-content ul p::first-letter,
+.story-content ol p::first-letter,
+.story-content li p::first-letter,
+.story-content li::first-letter {
+    float: none !important;
+    font-size: inherit !important;
+    line-height: inherit !important;
+    margin: 0 !important;
+    font-weight: inherit !important;
+    color: inherit !important;
+}
+
 /* Sidebar (sidebar.php) */
 /* Transition handles the slide animation on mobile */
 .reader-sidebar { padding: 1.5rem; overflow-y: auto; background: var(--rs-bg-alt, #fafafa); transition: transform 0.3s ease; }
