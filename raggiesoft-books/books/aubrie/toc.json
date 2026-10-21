@@ -515,13 +515,18 @@
                         },
                         {
                             "scene_num": 5,
-                            "scene_title": "Scene 5: The Nightly Pact",
+                            "scene_title": "Scene 5: Interlude: The Bureaucratic Firewall",
                             "file_path": "e001/c012/s005.md"
                         },
                         {
                             "scene_num": 6,
-                            "scene_title": "Scene 6: The First Night of the Pact",
+                            "scene_title": "Scene 6: The Nightly Pact",
                             "file_path": "e001/c012/s006.md"
+                        },
+                        {
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The First Night of the Pact",
+                            "file_path": "e001/c012/s007.md"
                         }
                     ]
                 },
@@ -831,18 +836,23 @@
                         },
                         {
                             "scene_num": 6,
-                            "scene_title": "Scene 6: The Final Exam",
+                            "scene_title": "Scene 6: Interlude: Fifty-Eight Seconds",
                             "file_path": "e001/c025/s006.md"
                         },
                         {
                             "scene_num": 7,
-                            "scene_title": "Scene 7: The First Shot & Goodbye to Henry",
+                            "scene_title": "Scene 7: The Final Exam",
                             "file_path": "e001/c025/s007.md"
                         },
                         {
                             "scene_num": 8,
-                            "scene_title": "Scene 8: Interlude: A Dangerous Idea",
+                            "scene_title": "Scene 8: The First Shot & Goodbye to Henry",
                             "file_path": "e001/c025/s008.md"
+                        },
+                        {
+                            "scene_num": 9,
+                            "scene_title": "Scene 9: Interlude: A Dangerous Idea",
+                            "file_path": "e001/c025/s009.md"
                         }
                     ]
                 }
