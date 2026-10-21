@@ -154,43 +154,58 @@
                         },
                         {
                             "scene_num": 9,
-                            "scene_title": "Scene 9: Logistics of a Co-Ed Suite",
+                            "scene_title": "Scene 9: Interlude: Across the Firewall",
                             "file_path": "e001/c004/s009.md"
                         },
                         {
                             "scene_num": 10,
-                            "scene_title": "Scene 10: The First Choice",
+                            "scene_title": "Scene 10: Interlude: The Floor Two Inquiry",
                             "file_path": "e001/c004/s010.md"
                         },
                         {
                             "scene_num": 11,
-                            "scene_title": "Scene 11: The Kincaid Hall Tea Rebellion",
+                            "scene_title": "Scene 11: The Provisional Agreement",
                             "file_path": "e001/c004/s011.md"
                         },
                         {
                             "scene_num": 12,
-                            "scene_title": "Scene 12: The First Assist",
+                            "scene_title": "Scene 12: Logistics of a Co-Ed Suite",
                             "file_path": "e001/c004/s012.md"
                         },
                         {
                             "scene_num": 13,
-                            "scene_title": "Scene 13: The Spare Hardware",
+                            "scene_title": "Scene 13: The First Choice",
                             "file_path": "e001/c004/s013.md"
                         },
                         {
                             "scene_num": 14,
-                            "scene_title": "Scene 14: The New Voice",
+                            "scene_title": "Scene 14: The Kincaid Hall Tea Rebellion",
                             "file_path": "e001/c004/s014.md"
                         },
                         {
                             "scene_num": 15,
-                            "scene_title": "Scene 15: The Antidote",
+                            "scene_title": "Scene 15: The First Assist",
                             "file_path": "e001/c004/s015.md"
                         },
                         {
                             "scene_num": 16,
-                            "scene_title": "Scene 16: The Trust Fall",
+                            "scene_title": "Scene 16: The Spare Hardware",
                             "file_path": "e001/c004/s016.md"
+                        },
+                        {
+                            "scene_num": 17,
+                            "scene_title": "Scene 17: The New Voice",
+                            "file_path": "e001/c004/s017.md"
+                        },
+                        {
+                            "scene_num": 18,
+                            "scene_title": "Scene 18: The Antidote",
+                            "file_path": "e001/c004/s018.md"
+                        },
+                        {
+                            "scene_num": 19,
+                            "scene_title": "Scene 19: The Trust Fall",
+                            "file_path": "e001/c004/s019.md"
                         }
                     ]
                 },
