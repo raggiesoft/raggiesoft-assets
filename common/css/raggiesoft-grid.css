@@ -386,7 +386,8 @@ body {
 
 /* Semantic Colors */
 .bg-body { background-color: var(--bs-body-bg) !important; }
-.bg-body-tertiary, .bg-base-200 { background-color: var(--bs-tertiary-bg) !important; }
+.bg-body-tertiary { background-color: var(--bs-tertiary-bg) !important; }
+.bg-base-200 { background-color: var(--bs-tertiary-bg); }
 .text-body, .text-body-emphasis { color: var(--bs-body-color) !important; }
 .text-muted, .text-body-secondary { color: var(--bs-secondary-color) !important; }
 
@@ -622,4 +623,137 @@ body {
   .d-xxl-flex { display: flex !important; }
   .d-xxl-inline { display: inline !important; }
   .d-xxl-inline-block { display: inline-block !important; }
+}
+
+/* ============================================================================
+ * IMMERSIVE HERO ROTATOR & GLASS UI SYSTEM (Contact, Mission Profile & Hubs)
+ * ============================================================================ */
+.immersive-container {
+  position: relative;
+  min-height: 100vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  background-color: #050811;
+}
+
+.hero-bg-layer {
+  position: absolute;
+  inset: 0;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  transition: opacity 1.8s ease-in-out;
+  z-index: 0;
+}
+
+.hero-overlay {
+  position: absolute;
+  inset: 0;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--hero-overlay-color, rgba(4, 7, 15, 0.72));
+  z-index: 1;
+}
+
+.content-wrapper {
+  position: relative;
+  z-index: 10;
+  width: 100%;
+  padding: 4rem 0;
+}
+
+.glass-card,
+.force-glass-bg {
+  background: rgba(10, 15, 28, 0.72) !important;
+  backdrop-filter: blur(12px) saturate(120%) !important;
+  -webkit-backdrop-filter: blur(12px) saturate(120%) !important;
+  border: 1px solid rgba(255, 255, 255, 0.16);
+  box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.45);
+  color: #ffffff;
+  transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.glass-card:hover,
+.hover-lift:hover {
+  transform: translateY(-4px);
+}
+
+.hover-lift {
+  transition: transform 0.2s cubic-bezier(0.25, 0.8, 0.25, 1), box-shadow 0.2s ease;
+}
+
+.text-shadow {
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.9), 0 1px 3px rgba(0, 0, 0, 1);
+}
+
+.img-white {
+  filter: brightness(0) invert(1);
+}
+
+.logo-white-glow {
+  filter: brightness(0) invert(1) drop-shadow(0 0 10px rgba(255, 255, 255, 0.6));
+}
+
+.skill-pill {
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 0.35em 0.8em;
+  border-radius: 50rem;
+  background-color: var(--bs-tertiary-bg);
+  color: var(--bs-body-color);
+  border: 1px solid var(--bs-border-color);
+  display: inline-block;
+  margin-right: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.timeline-card {
+  border-left: 4px solid var(--bs-primary) !important;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.timeline-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
+}
+
+/* HUD Glass Panels */
+.bg-hud-base, .bg-hud-blue, .bg-hud-green, .bg-hud-orange, .bg-hud-warning, .bg-hud-red {
+  backdrop-filter: blur(8px) saturate(120%);
+  -webkit-backdrop-filter: blur(8px) saturate(120%);
+  border-radius: 12px;
+  position: relative;
+  overflow: hidden;
+}
+.bg-hud-blue {
+  background: linear-gradient(135deg, rgba(0, 130, 230, 0.12) 0%, rgba(0, 130, 230, 0.03) 100%);
+  border: 1px solid rgba(0, 130, 230, 0.3);
+  border-left: 4px solid var(--bs-primary);
+  color: var(--bs-body-color);
+}
+.bg-hud-green {
+  background: linear-gradient(135deg, rgba(21, 128, 61, 0.12) 0%, rgba(21, 128, 61, 0.03) 100%);
+  border: 1px solid rgba(21, 128, 61, 0.3);
+  border-left: 4px solid var(--bs-success);
+  color: var(--bs-body-color);
+}
+.bg-hud-orange, .bg-hud-warning {
+  background: linear-gradient(135deg, rgba(245, 158, 11, 0.12) 0%, rgba(245, 158, 11, 0.03) 100%);
+  border: 1px solid rgba(245, 158, 11, 0.3);
+  border-left: 4px solid var(--bs-warning);
+  color: var(--bs-body-color);
+}
+.bg-hud-red {
+  background: linear-gradient(135deg, rgba(185, 28, 28, 0.12) 0%, rgba(185, 28, 28, 0.03) 100%);
+  border: 1px solid rgba(185, 28, 28, 0.3);
+  border-left: 4px solid var(--bs-danger);
+  color: var(--bs-body-color);
 }
