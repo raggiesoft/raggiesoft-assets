@@ -823,6 +823,16 @@
                             "scene_num": 5,
                             "scene_title": "Scene 5: The Final Exam",
                             "file_path": "e001/c025/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The First Shot & Goodbye to Henry",
+                            "file_path": "e001/c025/s006.md"
+                        },
+                        {
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: Interlude: A Dangerous Idea",
+                            "file_path": "e001/c025/s007.md"
                         }
                     ]
                 }
