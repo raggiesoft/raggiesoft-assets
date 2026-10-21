@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
         'b', 'a'
     ];
     
-    // State cursor tracking how far the user has progressed in the sequence
+    // State cursor tracking how ph the user has progressed in the sequence
     let currentPosition = 0;
 
     document.addEventListener('keydown', (e) => {

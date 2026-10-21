@@ -42,9 +42,8 @@
         // Bind standard close interactions if the close button exists
         if (closeBtn) {
             closeBtn.addEventListener('click', () => {
-                // Mutate the standard open property and attempt native hide() method
-                dialog.open = false;
-                try { dialog.hide(); } catch(e) {}
+                // Close native HTML5 <dialog> modal
+                try { dialog.close(); } catch(e) { dialog.open = false; }
             });
         }
 
@@ -65,20 +64,19 @@
                 // UI STATE RESET: Prepare modal for incoming data
                 // ----------------------------------------------------
                 titleEl.textContent = 'Decrypting Archives...';
-                // Show a loading spinner during the network request
-                bodyEl.innerHTML = '<div class="d-flex justify-content-center py-5"><wa-spinner class="fs-1"></wa-spinner></div>';
+                // Show a DaisyUI 5 loading spinner during the network request
+                bodyEl.innerHTML = '<div class="d-flex justify-content-center py-5"><span class="loading loading-spinner loading-lg text-primary"></span></div>';
                 readMoreBtn.style.display = 'none';
                 
                 // Strip out previous theme classes from the dialog to avoid style bleeding
                 Array.from(dialog.classList).forEach(cls => {
-                    if (cls.startsWith('theme-') || cls.startsWith('wa-theme-')) {
+                    if (cls.startsWith('theme-')) {
                         dialog.classList.remove(cls);
                     }
                 });
 
-                // Show modal immediately with the loading state active
-                dialog.open = true;
-                try { dialog.show(); } catch(err) {}
+                // Show native HTML5 <dialog> modal immediately with the loading state active
+                try { dialog.showModal(); } catch(err) { dialog.open = true; }
 
                 // ----------------------------------------------------
                 // DATA FETCH & INJECTION

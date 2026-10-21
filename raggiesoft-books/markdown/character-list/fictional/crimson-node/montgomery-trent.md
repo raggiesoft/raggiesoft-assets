@@ -17,7 +17,7 @@ name: Trent Montgomery
             
             <!-- Character Header -->
             <div class="d-flex flex-column flex-md-row align-items-md-center border-bottom pb-4 mb-4">
-                <img src="https://assets.raggiesoft.com/shiloh/images/thumbnails/piedmont/trent-montgomery-thumb.jpg" 
+                <img src="https://assets.raggiesoft.com/raggiesoft-lore/shiloh/images/thumbnails/piedmont/trent-montgomery-thumb.jpg" 
                      alt="Trent Montgomery" 
                      class="rounded shadow-sm mb-3 mb-md-0 me-md-4" 
                      style="width: 150px; height: 150px; object-fit: cover;">
@@ -26,9 +26,9 @@ name: Trent Montgomery
                     <h1 class="display-5 fw-bold mb-1" style="font-family: 'Impact', sans-serif; letter-spacing: 1px;">TRENT <span class="text-secondary">MONTGOMERY</span></h1>
                     <h5 class="text-uppercase fw-bold mb-2" style="color: #ff7900; letter-spacing: 2px;">The Lacrosse Bro</h5>
                     <div class="d-flex flex-wrap gap-2 mb-0">
-                        <span class="badge bg-dark text-white rounded-pill px-3 py-2"><i class="fa-solid fa-cake-candles me-1"></i> 1977 (Approx)</span>
-                        <span class="badge bg-dark text-white rounded-pill px-3 py-2"><i class="fa-solid fa-building-columns me-1"></i> The University of the Piedmont</span>
-                        <span class="badge border border-danger text-danger bg-transparent rounded-pill px-3 py-2 fw-bold"><i class="fa-solid fa-ban me-1"></i> EXILED</span>
+                        <span class="badge bg-dark text-white rounded-pill px-3 py-2"><i class="ph-fill ph-cake me-1"></i> 1977 (Approx)</span>
+                        <span class="badge bg-dark text-white rounded-pill px-3 py-2"><i class="ph-fill ph-bank me-1"></i> The University of the Piedmont</span>
+                        <span class="badge border border-danger text-danger bg-transparent rounded-pill px-3 py-2 fw-bold"><i class="ph-fill ph-prohibit me-1"></i> EXILED</span>
                     </div>
                 </div>
             </div>

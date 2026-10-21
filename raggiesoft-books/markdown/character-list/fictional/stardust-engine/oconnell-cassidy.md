@@ -40,7 +40,7 @@ name: Cassidy O\
 
             <div class="card bg-dark bg-opacity-75 border-success shadow-lg mt-5 overflow-hidden">
                 <div class="card-header bg-success bg-opacity-25 text-white fw-bold border-bottom border-success">
-                    <i class="fa-duotone fa-ticket me-2"></i>CONFIDENTIAL: The "American Dream" (1996)
+                    <i class="ph-duotone ph-ticket me-2"></i>CONFIDENTIAL: The "American Dream" (1996)
                 </div>
                 <div class="card-body p-4">
                     <h4 class="text-success fw-bold">The Daleville Event</h4>

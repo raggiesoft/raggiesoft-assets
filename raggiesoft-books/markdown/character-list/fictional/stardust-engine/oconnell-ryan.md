@@ -28,7 +28,7 @@ name: Ryan O\
             </p>
             
             <div class="alert alert-dark border-warning bg-opacity-25 d-flex align-items-center" role="alert">
-                <i class="fa-duotone fa-engine-warning text-warning fs-2 me-3"></i>
+                <i class="ph-duotone ph-warning-octagon text-warning fs-2 me-3"></i>
                 <div class="small text-white-75">
                     <strong>Archivist Note:</strong> Ryan hated the polish of the studio. He famously told producers that to find the real sound—the engine's hum—you couldn't float on the surface. You had to go <strong class="text-warning text-uppercase">Down</strong>. Deep <strong class="text-warning text-uppercase">Down</strong>.
                 </div>

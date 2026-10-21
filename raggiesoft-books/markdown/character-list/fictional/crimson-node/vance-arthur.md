@@ -17,7 +17,7 @@ name: Arthur Vance
             
             <!-- Character Header -->
             <div class="d-flex flex-column flex-md-row align-items-md-center border-bottom pb-4 mb-4">
-                <img src="https://assets.raggiesoft.com/shiloh/images/thumbnails/northwood/arthur-vance-thumb.jpg" 
+                <img src="https://assets.raggiesoft.com/raggiesoft-lore/shiloh/images/thumbnails/northwood/arthur-vance-thumb.jpg" 
                      alt="Arthur Vance" 
                      class="rounded shadow-sm mb-3 mb-md-0 me-md-4" 
                      style="width: 150px; height: 150px; object-fit: cover;">
@@ -26,8 +26,8 @@ name: Arthur Vance
                     <h1 class="display-5 fw-bold mb-1" style="font-family: 'Impact', sans-serif; letter-spacing: 1px;">ARTHUR <span class="text-secondary">VANCE</span></h1>
                     <h5 class="text-uppercase fw-bold mb-2 text-success" style="letter-spacing: 2px;">The Guardian</h5>
                     <div class="d-flex flex-wrap gap-2 mb-0">
-                        <span class="badge bg-dark text-white rounded-pill px-3 py-2"><i class="fa-solid fa-school me-1"></i> Northwood High School</span>
-                        <span class="badge border border-success text-success bg-transparent rounded-pill px-3 py-2 fw-bold"><i class="fa-solid fa-shield-check me-1"></i> PARAPROFESSIONAL AIDE</span>
+                        <span class="badge bg-dark text-white rounded-pill px-3 py-2"><i class="ph-fill ph-graduation-cap me-1"></i> Northwood High School</span>
+                        <span class="badge border border-success text-success bg-transparent rounded-pill px-3 py-2 fw-bold"><i class="ph-fill ph-shield-check me-1"></i> PARAPROFESSIONAL AIDE</span>
                     </div>
                 </div>
             </div>

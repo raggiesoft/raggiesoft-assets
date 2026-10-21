@@ -13,9 +13,8 @@
  * - This script is designed to run on the `DOMContentLoaded` event. Keep 
  *   initialization code lightweight to prevent blocking the main thread 
  *   during page load.
- * - The `wa-select` listener is tightly coupled to the Web Awesome (Shoelace) 
- *   dropdown components. If the UI framework changes, this event listener 
- *   will need to be updated.
+ * - Manages DaisyUI 5 `<details class="dropdown">` outside-click dismissal and
+ *   SPA navigation closing so dropdown menus behave cleanly without runtime bloat.
  * 
  * "I'm Piper. I organize the chaos so the frontend doesn't collapse into a pile of unrouted DIVs.
  * Keep your tags semantic, your CSS variables tidy, and for the love of everything, don't inline your scripts."
@@ -30,29 +29,20 @@
  * completely parsed.
  */
 document.addEventListener('DOMContentLoaded', () => {
-    // Log successful initialization to the console for debugging purposes.
-    console.log("Piper Sullivan initialized. Web Awesome DOM is under my jurisdiction.");
+    console.log("Piper Sullivan initialized. DaisyUI 5 semantic DOM is under my jurisdiction.");
 });
 
 /**
  * ----------------------------------------------------------------------------
- * 2. GLOBAL ROUTING LISTENER
+ * 2. GLOBAL DROPDOWN ORCHESTRATION (DaisyUI 5 <details class="dropdown">)
  * ----------------------------------------------------------------------------
- * Intercepts selection events from Web Awesome dropdown menus and select 
- * elements, transforming them into navigation actions when appropriate.
+ * Closes open `<details class="dropdown">` elements when clicking outside or
+ * selecting an item inside the dropdown menu.
  */
-// Global Web Awesome Dropdown Navigation Listener
-document.addEventListener('wa-select', event => {
-    // Extract the selected item from the event detail payload
-    const item = event.detail.item;
-    
-    // Validate that an item exists and has a value property
-    if (item && item.value) {
-        // Only navigate if the value looks like a URL (starts with / or http)
-        // This prevents accidental navigation from standard form selects.
-        if (item.value.startsWith('/') || item.value.startsWith('http')) {
-            // Perform the routing by assigning the window location
-            window.location.href = item.value;
+document.addEventListener('click', event => {
+    document.querySelectorAll('details.dropdown[open]').forEach(dropdown => {
+        if (!dropdown.contains(event.target) || event.target.closest('.dropdown-content a')) {
+            dropdown.removeAttribute('open');
         }
-    }
+    });
 });

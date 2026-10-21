@@ -689,12 +689,12 @@ function initOceanViewReader() {
         if (wizardDialog) cdnUrl = wizardDialog.getAttribute('data-cdn-url');
         // Update the decorative sidebar image based on step
         const stepImages = {
-            1: cdnUrl + '/stardust-engine-library/images/wizard/isabel_oliver_hug.jpg',
-            2: cdnUrl + '/stardust-engine-library/images/wizard/eleanor_oliver_hug.jpg',
-            3: cdnUrl + '/stardust-engine-library/images/wizard/sophia_oliver_hug.jpg',
-            4: cdnUrl + '/stardust-engine-library/images/wizard/sophia_isabel_audio.jpg',
-            5: cdnUrl + '/stardust-engine-library/images/wizard/eleanor_isabel_twins.jpg',
-            6: cdnUrl + '/stardust-engine-library/images/wizard/isabel_oliver_hug.jpg'
+            1: cdnUrl + '/raggiesoft-books/library/images/wizard/isabel_oliver_hug.jpg',
+            2: cdnUrl + '/raggiesoft-books/library/images/wizard/eleanor_oliver_hug.jpg',
+            3: cdnUrl + '/raggiesoft-books/library/images/wizard/sophia_oliver_hug.jpg',
+            4: cdnUrl + '/raggiesoft-books/library/images/wizard/sophia_isabel_audio.jpg',
+            5: cdnUrl + '/raggiesoft-books/library/images/wizard/eleanor_isabel_twins.jpg',
+            6: cdnUrl + '/raggiesoft-books/library/images/wizard/isabel_oliver_hug.jpg'
         };
 
         if (wizardSidebar && stepImages[currentStep]) {

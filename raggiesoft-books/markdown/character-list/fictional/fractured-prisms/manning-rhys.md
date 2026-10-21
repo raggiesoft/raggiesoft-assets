@@ -8,7 +8,7 @@ name: Rhys Manning
         <div class="row justify-content-center mb-5">
             <div class="col-lg-8 text-center">
                 <span class="badge bg-transparent border border-secondary text-muted rounded-pill px-3 py-2 mb-3 text-uppercase letter-spacing-1">
-                    <i class="fa-duotone fa-sliders me-2" aria-hidden="true"></i>Resident Profile
+                    <i class="ph-duotone ph-sliders me-2" aria-hidden="true"></i>Resident Profile
                 </span>
                 <h1 class="display-3 fw-bold text-glow-prism gothic-font mb-3">
                     Rhys Manning
@@ -25,7 +25,7 @@ name: Rhys Manning
                     <div class="row g-0">
                         <div class="col-md-5 mb-4 mb-md-0">
                             <div class="polaroid-prism">
-                                <img src="https://assets.raggiesoft.com/fractured-prisms/images/siblings/rhys-portrait.jpg" 
+                                <img src="https://assets.raggiesoft.com/engine-room-records/artists/fractured-prisms/images/siblings/rhys-portrait.jpg" 
                                      alt="A degraded, high-contrast 1983 photograph of Rhys Manning standing over an analog mixing console.">
                                 <div class="polaroid-caption text-center" aria-hidden="true">
                                     Archive: R. Manning, 1983
@@ -66,7 +66,7 @@ name: Rhys Manning
 
                 <div class="card artifact-paper mb-5 p-4 p-md-5">
                     <div class="d-flex align-items-center mb-4 border-bottom border-dark pb-2">
-                        <i class="fa-duotone fa-book-journal-whills fs-2 text-secondary me-3" aria-hidden="true"></i>
+                        <i class="ph-duotone ph-book-open-text fs-2 text-secondary me-3" aria-hidden="true"></i>
                         <div>
                             <h4 class="fw-bold text-uppercase mb-0" style="font-family: var(--font-tech); letter-spacing: 1px;">Archival Recovery: Studio Logbook</h4>
                             <small class="text-muted font-monospace">Source: The Williamsport Sessions (1983)</small>
@@ -100,7 +100,7 @@ name: Rhys Manning
         <div class="row mt-5 pt-4 border-top border-prism">
             <div class="col-12 text-center">
                 <a href="/engine-room/artists/fractured-prisms/band" class="btn btn-outline-primary rounded-pill px-4 font-monospace small text-uppercase">
-                    <i class="fa-duotone fa-arrow-left me-2" aria-hidden="true"></i>Return to The Residents
+                    <i class="ph-duotone ph-arrow-left me-2" aria-hidden="true"></i>Return to The Residents
                 </a>
             </div>
         </div>

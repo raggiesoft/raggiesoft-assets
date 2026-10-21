@@ -42,7 +42,7 @@ name: Holly O\
 
             <div class="card bg-dark bg-opacity-75 border-success shadow-lg mt-5 overflow-hidden">
                 <div class="card-header bg-success bg-opacity-25 text-white fw-bold border-bottom border-success">
-                    <i class="fa-duotone fa-money-bill-wave me-2"></i>CONFIDENTIAL: The "American Dream" Event (1996)
+                    <i class="ph-duotone ph-money me-2"></i>CONFIDENTIAL: The "American Dream" Event (1996)
                 </div>
                 <div class="card-body p-4">
                     <h4 class="text-success fw-bold">The Financial Architect</h4>
@@ -54,7 +54,7 @@ name: Holly O\
                     </p>
                     
                     <hr class="border-light opacity-25 my-4">
-                    <h5 class="text-white fw-bold mb-3"><i class="fa-solid fa-gavel me-2 text-primary"></i>Legal Armor (The Sword)</h5>
+                    <h5 class="text-white fw-bold mb-3"><i class="ph-fill ph-gavel me-2 text-primary"></i>Legal Armor (The Sword)</h5>
                     <div class="d-flex flex-wrap gap-2 mb-4">
                         
                         [credential title="Juris Doctor (1994)" desc="CPI School of Law. Graduated Summa Cum Laude." lore="While the band was touring the 'Wilderness Years,' Holly was in the library. She passed the bar exam two weeks before the 'Warehouse Tapes' tour began." color="primary" icon="fa-graduation-cap"]
@@ -70,7 +70,7 @@ name: Holly O\
                     </div>
 
                     <hr class="border-light opacity-25 my-4">
-                    <h5 class="text-white fw-bold mb-3"><i class="fa-solid fa-shield-check me-2 text-success"></i>Fiduciary Armor (The Shield)</h5>
+                    <h5 class="text-white fw-bold mb-3"><i class="ph-fill ph-shield-check me-2 text-success"></i>Fiduciary Armor (The Shield)</h5>
                     <div class="d-flex flex-wrap gap-2">
                         
                         [credential title="Notary Public (1994)" desc="A public officer constituted by law to serve the public in non-contentious matters." lore="Holly became a Notary so no outsider would ever witness the family's signatures. Every contract, medical release, and NDA is sealed in-house." color="secondary" icon="fa-stamp"]
@@ -104,7 +104,7 @@ name: Holly O\
                         <small class="text-white-50 text-uppercase d-block mb-1">Assets Under Management</small>
                         <div class="d-flex justify-content-between align-items-center">
                             <span class="h4 text-success font-monospace mb-0">$2.4 Billion</span>
-                            <i class="fa-solid fa-lock text-secondary"></i>
+                            <i class="ph-fill ph-lock-key text-secondary"></i>
                         </div>
                         <div class="progress mt-2" style="height: 4px;">
                             <div class="progress-bar bg-success" role="progressbar" style="width: 100%"></div>

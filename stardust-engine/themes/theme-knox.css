@@ -15,7 +15,7 @@
 /* Stardust Engine Theme: knox */
 
 /* --- root.css --- */
-/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/root.css */
+/* /raggiesoft-books/raggiesoft-books/knox/css/bootstrap/aerie-hold/root.css */
 /* Theme: K.N.O.X. (Aerie-Hold / Port Telsus) */
 
 body.theme-knox {
@@ -126,7 +126,7 @@ body.theme-knox {
 
 
 /* --- header.css --- */
-/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/header.css */
+/* /raggiesoft-books/raggiesoft-books/knox/css/bootstrap/aerie-hold/header.css */
 
 /* 1. Navbar Container */
 header .navbar {
@@ -188,7 +188,7 @@ header .dropdown-header {
 }
 
 /* --- footer.css --- */
-/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/footer.css */
+/* /raggiesoft-books/raggiesoft-books/knox/css/bootstrap/aerie-hold/footer.css */
 
 footer {
     background-color: var(--rs-tertiary-bg) !important;
@@ -216,7 +216,7 @@ footer .text-body-secondary {
 }
 
 /* --- extras.css --- */
-/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/extras.css */
+/* /raggiesoft-books/raggiesoft-books/knox/css/bootstrap/aerie-hold/extras.css */
 
 /* 1. Threat Profile Card (The Dossier) */
 .card {
@@ -268,7 +268,7 @@ footer .text-body-secondary {
 }
 
 /* --- safety-net.css --- */
-/* /raggiesoft-books/knox/css/bootstrap/aerie-hold/safety-net.css */
+/* /raggiesoft-books/raggiesoft-books/knox/css/bootstrap/aerie-hold/safety-net.css */
 
 /* 1. Font Stack Override */
 /* We want a distinct "Typewriter/Terminal" feel for the prose and UI */

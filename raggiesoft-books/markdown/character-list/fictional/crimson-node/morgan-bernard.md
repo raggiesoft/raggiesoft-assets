@@ -15,13 +15,13 @@ name: Bernard Morgan
     <div class="row align-items-start">
         <div class="col-lg-5 mb-4 mb-lg-0">
             <div class="card bg-body-tertiary border-secondary border-opacity-25 shadow-sm">
-                <img src="https://assets.raggiesoft.com/shiloh/images/characters/northwood/bernard-morgan.jpg" class="card-img-top" alt="Bernard Morgan Portrait" style="aspect-ratio: 1/1; object-fit: cover;">
+                <img src="https://assets.raggiesoft.com/raggiesoft-lore/shiloh/images/characters/northwood/bernard-morgan.jpg" class="card-img-top" alt="Bernard Morgan Portrait" style="aspect-ratio: 1/1; object-fit: cover;">
                 <div class="card-body">
                     <ul class="list-unstyled mb-0 text-muted">
-                        <li class="mb-2"><i class="fa-duotone fa-id-badge text-info me-2"></i> <strong>Role:</strong> Principal</li>
-                        <li class="mb-2"><i class="fa-duotone fa-school text-info me-2"></i> <strong>Location:</strong> Northwood High</li>
-                        <li class="mb-2"><i class="fa-duotone fa-handshake text-info me-2"></i> <strong>Alias:</strong> Bernard (Not Mr. Morgan)</li>
-                        <li><i class="fa-duotone fa-shield-halved text-info me-2"></i> <strong>Specialty:</strong> Student Protection</li>
+                        <li class="mb-2"><i class="ph-duotone ph-identification-badge text-info me-2"></i> <strong>Role:</strong> Principal</li>
+                        <li class="mb-2"><i class="ph-duotone ph-graduation-cap text-info me-2"></i> <strong>Location:</strong> Northwood High</li>
+                        <li class="mb-2"><i class="ph-duotone ph-handshake text-info me-2"></i> <strong>Alias:</strong> Bernard (Not Mr. Morgan)</li>
+                        <li><i class="ph-duotone ph-shield-chevron text-info me-2"></i> <strong>Specialty:</strong> Student Protection</li>
                     </ul>
                 </div>
             </div>

@@ -1,7 +1,7 @@
 {
   "title": "The O'Connell Family Revocable Trust",
   "role": "The Grantors / Beneficial Owners",
-  "icon": "fa-duotone fa-landmark",
+  "icon": "ph-duotone ph-bank",
   "color": "primary",
   "meta": "Est. 2012 (2015 DE Restructure) | AUM: $2.4B+",
   "description": "Consolidated culmination of Holly O'Connell's 18-year corporate diversification and ring-fencing strategy (1997 Hard Reset blueprint through the 2004–2015 post-Progress Street hiatus).",
@@ -9,7 +9,7 @@
     {
       "title": "The O'Connell Family, LLC",
       "role": "Corporate Trustee & Management Co.",
-      "icon": "fa-duotone fa-gavel",
+      "icon": "ph-duotone ph-gavel",
       "color": "dark",
       "link": "https://stardust.raggiesoft.com/story/2015-delaware-migration",
       "meta": "The Governing Body (The 5 Members)",
@@ -18,7 +18,7 @@
     {
       "title": "Engine Room Records, LLC",
       "role": "IP Holding & Master Archives",
-      "icon": "fa-duotone fa-record-vinyl",
+      "icon": "ph-duotone ph-vinyl-record",
       "color": "danger",
       "link": "https://engineroom.raggiesoft.com",
       "meta": "Est. 1992 (DE Migration: 2015)",
@@ -27,7 +27,7 @@
     {
       "title": "Artists First Management, LLC",
       "role": "Talent & Touring Operations",
-      "icon": "fa-duotone fa-users-viewfinder",
+      "icon": "ph-duotone ph-user-focus",
       "color": "danger",
       "link": "https://engineroom.raggiesoft.com/artists",
       "meta": "Spun Off: 2005 | Manager: The O'Connell Family, LLC",
@@ -36,7 +36,7 @@
         {
           "title": "The Stardust Engine",
           "role": "Flagship Legacy Artist",
-          "icon": "fa-duotone fa-guitar",
+          "icon": "ph-duotone ph-guitar",
           "color": "warning",
           "link": "https://stardust.raggiesoft.com",
           "meta": "Est. 1985 (Hiatus: 2004–2014)"
@@ -44,7 +44,7 @@
         {
           "title": "Fractured Prisms",
           "role": "Artist",
-          "icon": "fa-duotone fa-gem",
+          "icon": "ph-duotone ph-sketch-logo",
           "color": "warning",
           "link": "https://engineroom.raggiesoft.com/artists/fractured-prisms",
           "meta": "Signed: 1998"
@@ -52,7 +52,7 @@
         {
           "title": "The Paper Wall",
           "role": "Artist (fka Mirage)",
-          "icon": "fa-duotone fa-book-open",
+          "icon": "ph-duotone ph-book-open",
           "color": "warning",
           "link": "https://engineroom.raggiesoft.com/artists/the-paper-wall",
           "meta": "Signed: 2000",
@@ -60,7 +60,7 @@
             {
               "title": "The Arctic Symphony Project",
               "role": "Holiday Symphonic Imprint (DBA)",
-              "icon": "fa-duotone fa-snowflake",
+              "icon": "ph-duotone ph-snowflake",
               "color": "info",
               "link": "https://engineroom.raggiesoft.com/artists/the-arctic-symphony-project",
               "meta": "Rescued Catalog: 2007"
@@ -70,23 +70,23 @@
         {
           "title": "Crimson Node",
           "role": "Artist",
-          "icon": "fa-duotone fa-waveform-lines",
+          "icon": "ph-duotone ph-waveform",
           "color": "warning",
           "link": "https://engineroom.raggiesoft.com/artists/crimson-node"
         },
         {
           "title": "Mana Canvas",
           "role": "Artist",
-          "icon": "fa-duotone fa-palette",
+          "icon": "ph-duotone ph-palette",
           "color": "warning",
-          "link": "/raggiesoft-books/aethel-saga"
+          "link": "https://books.raggiesoft.com/aethel-saga"
         }
       ]
     },
     {
       "title": "Stardust Properties, LLC",
       "role": "Real Estate & Infrastructure Holding Co.",
-      "icon": "fa-duotone fa-city",
+      "icon": "ph-duotone ph-buildings",
       "color": "danger",
       "link": "https://engineroom.raggiesoft.com/corporate/strategic-assets",
       "meta": "Est. 2006 | Manager: The O'Connell Family, LLC",
@@ -94,7 +94,7 @@
         {
           "title": "Stardust Blacksburg, LLC",
           "role": "Residential Portfolio",
-          "icon": "fa-duotone fa-house-user",
+          "icon": "ph-duotone ph-house-line",
           "color": "warning",
           "link": "https://engineroom.raggiesoft.com/corporate/stardust-blacksburg",
           "meta": "Est. 2007",
@@ -103,7 +103,7 @@
         {
           "title": "Stardust Strategic Assets, LLC",
           "role": "Corporate Infrastructure & Fleet",
-          "icon": "fa-duotone fa-chess-rook",
+          "icon": "ph-duotone ph-castle-turret",
           "color": "secondary",
           "link": "https://engineroom.raggiesoft.com/corporate/strategic-assets",
           "meta": "Est. 2005",
@@ -112,25 +112,25 @@
             {
               "title": "The Fortress",
               "link": "https://engineroom.raggiesoft.com/corporate/strategic-assets/the-fortress",
-              "icon": "fa-duotone fa-house-chimney",
+              "icon": "ph-duotone ph-house",
               "role": "Private Residence (512 Progress St)"
             },
             {
               "title": "Stardust Studios",
               "link": "https://engineroom.raggiesoft.com/corporate/strategic-assets/stardust-studios",
-              "icon": "fa-duotone fa-warehouse",
+              "icon": "ph-duotone ph-warehouse",
               "role": "Global HQ (Est. 2013)"
             },
             {
               "title": "The Vault",
               "link": "https://engineroom.raggiesoft.com/corporate/strategic-assets/the-vault",
-              "icon": "fa-duotone fa-vault",
+              "icon": "ph-duotone ph-vault",
               "role": "Subterranean Master Archive"
             },
             {
               "title": "The Iron Horse & Fleet Archive",
               "link": "https://engineroom.raggiesoft.com/corporate/strategic-assets/the-iron-horse",
-              "icon": "fa-duotone fa-bus",
+              "icon": "ph-duotone ph-bus",
               "role": "Heavy Touring & Shuttle Fleet",
               "meta": "Sainte-Claire 45H3 & Prairie RLFD30"
             }
@@ -139,7 +139,7 @@
         {
           "title": "Pacific Rim Properties, LLC",
           "role": "Commercial Portfolio",
-          "icon": "fa-duotone fa-building",
+          "icon": "ph-duotone ph-building",
           "color": "primary",
           "link": "https://engineroom.raggiesoft.com/corporate/pacific-rim",
           "meta": "Est. 2009 (Century City, CA)",
@@ -150,14 +150,14 @@
     {
       "title": "Jessica Miller Center, LLC",
       "role": "Philanthropy & Sensory Sanctuary",
-      "icon": "fa-duotone fa-hands-holding-heart",
+      "icon": "ph-duotone ph-hand-heart",
       "color": "success",
       "link": "https://engineroom.raggiesoft.com/jessica-miller-center"
     },
     {
       "title": "Aethelgard Holdings, LLC",
       "role": "Strategic Acquisitions & Legal Enforcement",
-      "icon": "fa-duotone fa-gavel",
+      "icon": "ph-duotone ph-gavel",
       "color": "secondary",
       "link": "https://engineroom.raggiesoft.com/corporate/aethelgard",
       "meta": "Est. 2014 // Purpose: Asset Protection",
