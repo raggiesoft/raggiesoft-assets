@@ -712,6 +712,114 @@
                             "file_path": "e001/c021/s001.md"
                         }
                     ]
+                },
+                {
+                    "chap_num": 22,
+                    "chap_title": "Chapter 22",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/chapter-22",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Setting the Board",
+                            "file_path": "e001/c022/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Final Hour & One Last Hug",
+                            "file_path": "e001/c022/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Maroon Express",
+                            "file_path": "e001/c022/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Geneva Street",
+                            "file_path": "e001/c022/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Settling into Sanctuary",
+                            "file_path": "e001/c022/s005.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 23,
+                    "chap_title": "Chapter 23",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/chapter-23",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Interlude: The Unwelcome Arrival",
+                            "file_path": "e001/c023/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: All-Time Quarterback & The Unfamiliar Car",
+                            "file_path": "e001/c023/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: A Basement Feast & The Turkey Brawl",
+                            "file_path": "e001/c023/s003.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 24,
+                    "chap_title": "Chapter 24",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/chapter-24",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Mission Briefing & The First Purchase",
+                            "file_path": "e001/c024/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Big Box Gauntlet & Return to Sanctuary",
+                            "file_path": "e001/c024/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Truth or Dare & The Serious Talk",
+                            "file_path": "e001/c024/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Family Charter",
+                            "file_path": "e001/c024/s004.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 25,
+                    "chap_title": "Chapter 25",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/chapter-25",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Return to The Old Lady & The Reunion",
+                            "file_path": "e001/c025/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Spring Semester Planning & A Semester in Motion",
+                            "file_path": "e001/c025/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: A Double Birthday Conspiracy",
+                            "file_path": "e001/c025/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: A Preventable Crisis & The Final Exam",
+                            "file_path": "e001/c025/s004.md"
+                        }
+                    ]
                 }
             ]
         },
