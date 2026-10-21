@@ -463,18 +463,23 @@
                     "scenes": [
                         {
                             "scene_num": 1,
-                            "scene_title": "Scene 1: Interlude: The Fourteen-Day Floor Reports",
+                            "scene_title": "Scene 1: Interlude: Mutiny at McConnell Transit Center",
                             "file_path": "e001/c011/s001.md"
                         },
                         {
                             "scene_num": 2,
-                            "scene_title": "Scene 2: Interlude: The Post-Census Verdict",
+                            "scene_title": "Scene 2: Interlude: The Fourteen-Day Floor Reports",
                             "file_path": "e001/c011/s002.md"
                         },
                         {
                             "scene_num": 3,
-                            "scene_title": "Scene 3: The Suite Arrangement Consent Form",
+                            "scene_title": "Scene 3: Interlude: The Post-Census Verdict",
                             "file_path": "e001/c011/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Suite Arrangement Consent Form",
+                            "file_path": "e001/c011/s004.md"
                         }
                     ]
                 },
