@@ -478,8 +478,13 @@
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: The Suite Arrangement Consent Form",
+                            "scene_title": "Scene 4: Interlude: The Good-Faith Accord",
                             "file_path": "e001/c011/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Suite Arrangement Consent Form",
+                            "file_path": "e001/c011/s005.md"
                         }
                     ]
                 },
