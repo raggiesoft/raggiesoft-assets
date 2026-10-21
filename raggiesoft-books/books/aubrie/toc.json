@@ -490,8 +490,8 @@
                 },
                 {
                     "chap_num": 12,
-                    "chap_title": "Trial by Fire Drill",
-                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/trial-by-fire-drill",
+                    "chap_title": "Health and Safety Week",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/health-and-safety-week",
                     "scenes": [
                         {
                             "scene_num": 1,
@@ -500,23 +500,28 @@
                         },
                         {
                             "scene_num": 2,
-                            "scene_title": "Scene 2: Fire Alarm in the Dormitory",
+                            "scene_title": "Scene 2: One Hundred and Five Percent",
                             "file_path": "e001/c012/s002.md"
                         },
                         {
                             "scene_num": 3,
-                            "scene_title": "Scene 3: Interlude: The Mitigating Factor",
+                            "scene_title": "Scene 3: Fire Alarm in the Dormitory",
                             "file_path": "e001/c012/s003.md"
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: The Nightly Pact",
+                            "scene_title": "Scene 4: Interlude: The Mitigating Factor",
                             "file_path": "e001/c012/s004.md"
                         },
                         {
                             "scene_num": 5,
-                            "scene_title": "Scene 5: The First Night of the Pact",
+                            "scene_title": "Scene 5: The Nightly Pact",
                             "file_path": "e001/c012/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The First Night of the Pact",
+                            "file_path": "e001/c012/s006.md"
                         }
                     ]
                 },
@@ -816,23 +821,28 @@
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: A Preventable Crisis & The Second Drill",
+                            "scene_title": "Scene 4: A Preventable Crisis",
                             "file_path": "e001/c025/s004.md"
                         },
                         {
                             "scene_num": 5,
-                            "scene_title": "Scene 5: The Final Exam",
+                            "scene_title": "Scene 5: The Second Drill",
                             "file_path": "e001/c025/s005.md"
                         },
                         {
                             "scene_num": 6,
-                            "scene_title": "Scene 6: The First Shot & Goodbye to Henry",
+                            "scene_title": "Scene 6: The Final Exam",
                             "file_path": "e001/c025/s006.md"
                         },
                         {
                             "scene_num": 7,
-                            "scene_title": "Scene 7: Interlude: A Dangerous Idea",
+                            "scene_title": "Scene 7: The First Shot & Goodbye to Henry",
                             "file_path": "e001/c025/s007.md"
+                        },
+                        {
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: Interlude: A Dangerous Idea",
+                            "file_path": "e001/c025/s008.md"
                         }
                     ]
                 }
@@ -852,6 +862,26 @@
                             "scene_num": 1,
                             "scene_title": "Scene 1: The Fortress Upgrades",
                             "file_path": "e002/c001/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: New Rules & Lessons in a Blizzard",
+                            "file_path": "e002/c001/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Whiteout & Hunkering Down",
+                            "file_path": "e002/c001/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Blueprints for Mobility & The Unbudgeted Blizzard",
+                            "file_path": "e002/c001/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Solar Noon on the Winter Solstice",
+                            "file_path": "e002/c001/s005.md"
                         }
                     ]
                 }
