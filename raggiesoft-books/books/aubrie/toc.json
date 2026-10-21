@@ -816,8 +816,13 @@
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: A Preventable Crisis & The Final Exam",
+                            "scene_title": "Scene 4: A Preventable Crisis & The Second Drill",
                             "file_path": "e001/c025/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Final Exam",
+                            "file_path": "e001/c025/s005.md"
                         }
                     ]
                 }
