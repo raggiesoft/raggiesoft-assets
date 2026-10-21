@@ -458,231 +458,248 @@
                 },
                 {
                     "chap_num": 11,
+                    "chap_title": "The Post-Census Verdict",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-post-census-verdict",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Interlude: The Fourteen-Day Floor Reports",
+                            "file_path": "e001/c011/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Interlude: The Post-Census Verdict",
+                            "file_path": "e001/c011/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Suite Arrangement Consent Form",
+                            "file_path": "e001/c011/s003.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 12,
                     "chap_title": "Trial by Fire Drill",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/trial-by-fire-drill",
                     "scenes": [
                         {
                             "scene_num": 1,
                             "scene_title": "Scene 1: Transforming Jordan into a Forger",
-                            "file_path": "e001/c011/s001.md"
+                            "file_path": "e001/c012/s001.md"
                         },
                         {
                             "scene_num": 2,
-                            "scene_title": "Scene 2: The Suite Arrangement Consent Form",
-                            "file_path": "e001/c011/s002.md"
+                            "scene_title": "Scene 2: Fire Alarm in the Dormitory",
+                            "file_path": "e001/c012/s002.md"
                         },
                         {
                             "scene_num": 3,
-                            "scene_title": "Scene 3: Fire Alarm in the Dormitory",
-                            "file_path": "e001/c011/s003.md"
+                            "scene_title": "Scene 3: Interlude: The Mitigating Factor",
+                            "file_path": "e001/c012/s003.md"
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: Interlude: The Mitigating Factor",
-                            "file_path": "e001/c011/s004.md"
+                            "scene_title": "Scene 4: The Nightly Pact",
+                            "file_path": "e001/c012/s004.md"
                         },
                         {
                             "scene_num": 5,
-                            "scene_title": "Scene 5: The Nightly Pact",
-                            "file_path": "e001/c011/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The First Night of the Pact",
-                            "file_path": "e001/c011/s006.md"
+                            "scene_title": "Scene 5: The First Night of the Pact",
+                            "file_path": "e001/c012/s005.md"
                         }
                     ]
                 },
                 {
-                    "chap_num": 12,
+                    "chap_num": 13,
                     "chap_title": "Homecoming Spirit",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/homecoming-spirit",
                     "scenes": [
                         {
                             "scene_num": 1,
                             "scene_title": "Scene 1: The Door Decorating Contest",
-                            "file_path": "e001/c012/s001.md"
+                            "file_path": "e001/c013/s001.md"
                         },
                         {
                             "scene_num": 2,
                             "scene_title": "Scene 2: Chalk the Walk",
-                            "file_path": "e001/c012/s002.md"
+                            "file_path": "e001/c013/s002.md"
                         },
                         {
                             "scene_num": 3,
                             "scene_title": "Scene 3: The Pep Rally Fortress",
-                            "file_path": "e001/c012/s003.md"
+                            "file_path": "e001/c013/s003.md"
                         },
                         {
                             "scene_num": 4,
                             "scene_title": "Scene 4: The Parade and the Peak",
-                            "file_path": "e001/c012/s004.md"
+                            "file_path": "e001/c013/s004.md"
                         }
                     ]
                 },
                 {
-                    "chap_num": 13,
+                    "chap_num": 14,
                     "chap_title": "Homecoming Game Day",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/homecoming-game-day",
                     "scenes": [
                         {
                             "scene_num": 1,
                             "scene_title": "Scene 1: Game Day",
-                            "file_path": "e001/c013/s001.md"
+                            "file_path": "e001/c014/s001.md"
                         },
                         {
                             "scene_num": 2,
                             "scene_title": "Scene 2: The Pre-Game",
-                            "file_path": "e001/c013/s002.md"
+                            "file_path": "e001/c014/s002.md"
                         },
                         {
                             "scene_num": 3,
                             "scene_title": "Scene 3: The First Quarter",
-                            "file_path": "e001/c013/s003.md"
+                            "file_path": "e001/c014/s003.md"
                         },
                         {
                             "scene_num": 4,
                             "scene_title": "Scene 4: The Second Quarter",
-                            "file_path": "e001/c013/s004.md"
+                            "file_path": "e001/c014/s004.md"
                         },
                         {
                             "scene_num": 5,
                             "scene_title": "Scene 5: Halftime",
-                            "file_path": "e001/c013/s005.md"
+                            "file_path": "e001/c014/s005.md"
                         },
                         {
                             "scene_num": 6,
                             "scene_title": "Scene 6: The Retreat",
-                            "file_path": "e001/c013/s006.md"
+                            "file_path": "e001/c014/s006.md"
                         },
                         {
                             "scene_num": 7,
                             "scene_title": "Scene 7: The Fortress of Truth",
-                            "file_path": "e001/c013/s007.md"
+                            "file_path": "e001/c014/s007.md"
                         },
                         {
                             "scene_num": 8,
                             "scene_title": "Scene 8: The Fortress at Night",
-                            "file_path": "e001/c013/s008.md"
+                            "file_path": "e001/c014/s008.md"
                         },
                         {
                             "scene_num": 9,
                             "scene_title": "Scene 9: Interlude: Overnight Desk Duty",
-                            "file_path": "e001/c013/s009.md"
+                            "file_path": "e001/c014/s009.md"
                         }
                     ]
                 },
                 {
-                    "chap_num": 14,
+                    "chap_num": 15,
                     "chap_title": "A Hug in the Hallway",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/a-hug-in-the-hallway",
                     "scenes": [
                         {
                             "scene_num": 1,
                             "scene_title": "Scene 1: A Hug in the Hallway",
-                            "file_path": "e001/c014/s001.md"
-                        }
-                    ]
-                },
-                {
-                    "chap_num": 15,
-                    "chap_title": "A Safe Place on the First Floor",
-                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/a-safe-place-on-the-first-floor",
-                    "scenes": [
-                        {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: A Safe Place on the First Floor",
                             "file_path": "e001/c015/s001.md"
                         }
                     ]
                 },
                 {
                     "chap_num": 16,
-                    "chap_title": "The Coming Storm",
-                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-coming-storm",
+                    "chap_title": "A Safe Place on the First Floor",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/a-safe-place-on-the-first-floor",
                     "scenes": [
                         {
                             "scene_num": 1,
-                            "scene_title": "Scene 1: The Coming Storm",
+                            "scene_title": "Scene 1: A Safe Place on the First Floor",
                             "file_path": "e001/c016/s001.md"
                         }
                     ]
                 },
                 {
                     "chap_num": 17,
+                    "chap_title": "The Coming Storm",
+                    "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-coming-storm",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Coming Storm",
+                            "file_path": "e001/c017/s001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 18,
                     "chap_title": "Jordan's Independence Day",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/jordan-s-independence-day",
                     "scenes": [
                         {
                             "scene_num": 1,
                             "scene_title": "Scene 1: The Confrontation",
-                            "file_path": "e001/c017/s001.md"
+                            "file_path": "e001/c018/s001.md"
                         },
                         {
                             "scene_num": 2,
                             "scene_title": "Scene 2: The Choice",
-                            "file_path": "e001/c017/s002.md"
+                            "file_path": "e001/c018/s002.md"
                         },
                         {
                             "scene_num": 3,
                             "scene_title": "Scene 3: The Cut Cord",
-                            "file_path": "e001/c017/s003.md"
+                            "file_path": "e001/c018/s003.md"
                         },
                         {
                             "scene_num": 4,
                             "scene_title": "Scene 4: The New Lifeline and a Winter Pact",
-                            "file_path": "e001/c017/s004.md"
+                            "file_path": "e001/c018/s004.md"
                         }
                     ]
                 },
                 {
-                    "chap_num": 18,
+                    "chap_num": 19,
                     "chap_title": "The Fall Break Relay",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-fall-break-relay",
                     "scenes": [
                         {
                             "scene_num": 1,
                             "scene_title": "Scene 1: The Daily Grind",
-                            "file_path": "e001/c018/s001.md"
+                            "file_path": "e001/c019/s001.md"
                         },
                         {
                             "scene_num": 2,
                             "scene_title": "Scene 2: The Real BT",
-                            "file_path": "e001/c018/s002.md"
+                            "file_path": "e001/c019/s002.md"
                         },
                         {
                             "scene_num": 3,
                             "scene_title": "Scene 3: Main Street",
-                            "file_path": "e001/c018/s003.md"
+                            "file_path": "e001/c019/s003.md"
                         }
                     ]
                 },
                 {
-                    "chap_num": 19,
+                    "chap_num": 20,
                     "chap_title": "The Christiansburg Plan",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-christiansburg-plan",
                     "scenes": [
                         {
                             "scene_num": 1,
                             "scene_title": "Scene 1: The Thanksgiving Ultimatum",
-                            "file_path": "e001/c019/s001.md"
+                            "file_path": "e001/c020/s001.md"
                         },
                         {
                             "scene_num": 2,
                             "scene_title": "Scene 2: The Digital Wall",
-                            "file_path": "e001/c019/s002.md"
+                            "file_path": "e001/c020/s002.md"
                         }
                     ]
                 },
                 {
-                    "chap_num": 20,
+                    "chap_num": 21,
                     "chap_title": "A Continent of Their Own",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/a-continent-of-their-own",
                     "scenes": [
                         {
                             "scene_num": 1,
                             "scene_title": "Scene 1: A Continent of Their Own",
-                            "file_path": "e001/c020/s001.md"
+                            "file_path": "e001/c021/s001.md"
                         }
                     ]
                 }
