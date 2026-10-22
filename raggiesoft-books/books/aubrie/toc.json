@@ -1333,8 +1333,8 @@
                 },
                 {
                     "chap_num": 5,
-                    "chap_title": "The New Pact of Suite 214/216",
-                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-new-pact-of-suite-214-216",
+                    "chap_title": "The New Pact, The Leviathan Cut, and An 80s Education",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-new-pact-the-leviathan-cut-and-an-80s-education",
                     "scenes": [
                         {
                             "scene_num": 1,
@@ -1345,6 +1345,16 @@
                             "scene_num": 2,
                             "scene_title": "Scene 2: The First Night of the New Pact",
                             "file_path": "e003/c005/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Leviathan Cut (A Sister's Love)",
+                            "file_path": "e003/c005/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: An 80s Education (Electric Color)",
+                            "file_path": "e003/c005/s004.md"
                         }
                     ]
                 },
@@ -1460,13 +1470,18 @@
                 },
                 {
                     "chap_num": 11,
-                    "chap_title": "The Figure-Eight Lap",
-                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-figure-eight-lap",
+                    "chap_title": "The Figure-Eight Lap and 'A Sister's Love'",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-figure-eight-lap-and-a-sister-s-love",
                     "scenes": [
                         {
                             "scene_num": 1,
                             "scene_title": "Scene 1: Soft Cardiac Breakfast and the Figure-Eight Lap",
                             "file_path": "e003/c011/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Vocalizing 'A Sister's Love'",
+                            "file_path": "e003/c011/s002.md"
                         }
                     ]
                 },

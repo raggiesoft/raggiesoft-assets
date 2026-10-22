@@ -1,12 +1,17 @@
 {
     "chapter_id": "c011",
     "chapter_number": 11,
-    "title": "The Figure-Eight Lap",
-    "summary": "On Wednesday, February 11, 2015, while VDOT snowplows begin clearing the blizzard drifts outside Star City General Hospital in Roanoke, Jordan shares a soft cardiac breakfast with Zoë and completes his mandatory post-CABG Figure-Eight physical therapy lap around the sixth-floor CVICU pods without a single trace of chest pain.",
+    "title": "The Figure-Eight Lap and 'A Sister's Love'",
+    "summary": "On Wednesday, February 11, 2015, at Star City General Hospital in Roanoke, Jordan completes his post-CABG Figure-Eight physical therapy lap and puts on The Silver Gauntlet of Aethel on his laptop—vocalizing the melody of Firelight's 'A Sister's Love' as the first major way he exercises his voice and takes longer, deeper breaths during recovery.",
     "scenes": [
         {
             "id": "s001",
             "title": "Soft Cardiac Breakfast and the Figure-Eight Lap"
+        },
+        {
+            "id": "s002",
+            "title": "Vocalizing 'A Sister's Love'"
         }
     ]
 }
+
