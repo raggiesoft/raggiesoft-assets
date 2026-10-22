@@ -1144,6 +1144,33 @@
                             "file_path": "e002/c006/s005.md"
                         }
                     ]
+                },
+                {
+                    "chap_num": 7,
+                    "chap_title": "Jordan's First New Year's",
+                    "chap_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition/jordan-s-first-new-year-s",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Midnight in London",
+                            "file_path": "e002/c007/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Emission Spectra of Earth",
+                            "file_path": "e002/c007/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Ten Seconds to 2015",
+                            "file_path": "e002/c007/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Booms in the Light",
+                            "file_path": "e002/c007/s004.md"
+                        }
+                    ]
                 }
             ]
         },
