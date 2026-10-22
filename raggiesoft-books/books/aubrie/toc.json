@@ -1264,6 +1264,434 @@
                             "file_path": "e003/c001/s007.md"
                         }
                     ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "A Student and a Man",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/a-student-and-a-man",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Alaskan King Discovery",
+                            "file_path": "e003/c002/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: ENGL 102 and the Broken PDF",
+                            "file_path": "e003/c002/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Calculus and the Binary Stars",
+                            "file_path": "e003/c002/s003.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "The Roads of Rome and the Choices of a Man",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-roads-of-rome-and-the-choices-of-a-man",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: HIST 115: History of Ancient Rome",
+                            "file_path": "e003/c003/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Options, Funding, and the Man in the Chair",
+                            "file_path": "e003/c003/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Roster of Eighteen",
+                            "file_path": "e003/c003/s003.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 4,
+                    "chap_title": "Operation File First and the Passport Blitz",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/operation-file-first-and-the-passport-blitz",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Operation 'File First'",
+                            "file_path": "e003/c004/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Titan-X350 Seating Lab",
+                            "file_path": "e003/c004/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Eighteen Passports and NEXUS Cards",
+                            "file_path": "e003/c004/s003.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 5,
+                    "chap_title": "The New Pact of Suite 214/216",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-new-pact-of-suite-214-216",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Proposal in Room 214",
+                            "file_path": "e003/c005/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The First Night of the New Pact",
+                            "file_path": "e003/c005/s002.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 6,
+                    "chap_title": "Friday, 9:32 AM",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/friday-9-32-am",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Friday, 9:32 AM (The Attack)",
+                            "file_path": "e003/c006/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Emergency Room and Nuclear Medicine",
+                            "file_path": "e003/c006/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Hall Director and the RAs",
+                            "file_path": "e003/c006/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Failed Balloon Angioplasty",
+                            "file_path": "e003/c006/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The First Watch (NPO)",
+                            "file_path": "e003/c006/s005.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 7,
+                    "chap_title": "The Thirty-Six-Hour Wait",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-thirty-six-hour-wait",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Every Two Hours",
+                            "file_path": "e003/c007/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Waiting on Roanoke (Madison's Watch)",
+                            "file_path": "e003/c007/s002.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 8,
+                    "chap_title": "The Rubber Duck Convoy to Roanoke",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-rubber-duck-convoy-to-roanoke",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Call and the U.S. 11 Detour",
+                            "file_path": "e003/c008/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Dr. Hassan and the Virtual Fortress",
+                            "file_path": "e003/c008/s002.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 9,
+                    "chap_title": "Open Heart and the Silent Vigil",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/open-heart-and-the-silent-vigil",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The 6:00 AM Roll-Out",
+                            "file_path": "e003/c009/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Do Not Touch Him (The CVICU Vigil)",
+                            "file_path": "e003/c009/s002.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 10,
+                    "chap_title": "A CVICU Romance in the Blizzard",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/a-cvicu-romance-in-the-blizzard",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The CPAP Crisis and the Early Flakes",
+                            "file_path": "e003/c010/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Parallel Sanctuaries and Dinner for Nine",
+                            "file_path": "e003/c010/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: A CVICU Romance (Intimacy v2)",
+                            "file_path": "e003/c010/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Diuretic and the Two-Hour Interrupts",
+                            "file_path": "e003/c010/s004.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 11,
+                    "chap_title": "The Figure-Eight Lap",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-figure-eight-lap",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Soft Cardiac Breakfast and the Figure-Eight Lap",
+                            "file_path": "e003/c011/s001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 12,
+                    "chap_title": "Four Pounds Down",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/four-pounds-down",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Four Pounds Down and the Highway Thaw",
+                            "file_path": "e003/c012/s001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 13,
+                    "chap_title": "The Discharge Argument and the Basement Sanctuary",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-discharge-argument-and-the-basement-sanctuary",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Discharge Argument",
+                            "file_path": "e003/c013/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Sternal Precautions and the Recovery Protocol",
+                            "file_path": "e003/c013/s002.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 14,
+                    "chap_title": "Work Buddies and the Pact of Six",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/work-buddies-and-the-pact-of-six",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Work Buddies in the Basement",
+                            "file_path": "e003/c014/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Pact of Six on the Table",
+                            "file_path": "e003/c014/s002.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 15,
+                    "chap_title": "The Accessibility Project",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-accessibility-project",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: A Student and a Man: Mapping the Unseen Campus",
+                            "file_path": "e003/c015/s001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 16,
+                    "chap_title": "Three Hundred and Fifty Pounds of Freedom",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/three-hundred-and-fifty-pounds-of-freedom",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The First Outing at The Smokin' Anvil",
+                            "file_path": "e003/c016/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Three Hundred and Fifty Pounds of Freedom",
+                            "file_path": "e003/c016/s002.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 17,
+                    "chap_title": "Guardianship: The Summons",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/guardianship-the-summons",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Kelsey's Office at Three O'Clock",
+                            "file_path": "e003/c017/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The War Council and the Hotel at Poly",
+                            "file_path": "e003/c017/s002.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 18,
+                    "chap_title": "The Guardian's Assessment and the Breaking Point",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-guardian-s-assessment-and-the-breaking-point",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Guardian's Assessment (Ms. Anya Sharma)",
+                            "file_path": "e003/c018/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Cardiac Rehab (The Breaking Point)",
+                            "file_path": "e003/c018/s002.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 19,
+                    "chap_title": "The Bluewater Bunker",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-bluewater-bunker",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Sanctuary Compromised",
+                            "file_path": "e003/c019/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Making It Work in Bluewater",
+                            "file_path": "e003/c019/s002.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 20,
+                    "chap_title": "Lessons from a Fellow Traveler",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/lessons-from-a-fellow-traveler",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Lessons from a Fellow Traveler and the Heart-Hum Name",
+                            "file_path": "e003/c020/s001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 21,
+                    "chap_title": "The Rubber Duck Convoy on U.S. 58",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-rubber-duck-convoy-on-u-s-58",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Rubber Duck Convoy on U.S. 58",
+                            "file_path": "e003/c021/s001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 22,
+                    "chap_title": "Dismissed with Prejudice",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/dismissed-with-prejudice",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Sixteen Strong in the Gallery (Dismissed with Prejudice)",
+                            "file_path": "e003/c022/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: U.S. 460 West and the Price of Malice",
+                            "file_path": "e003/c022/s002.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 23,
+                    "chap_title": "The S.S. Freedom Returns to Campus",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-s-s-freedom-returns-to-campus",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Maiden Voyage of the S.S. Freedom",
+                            "file_path": "e003/c023/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Allies in the Lecture Hall and the Kuiper Belt",
+                            "file_path": "e003/c023/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Food Court Affirmation and the Night of the Pact",
+                            "file_path": "e003/c023/s003.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 24,
+                    "chap_title": "Starting a Revolution in Walton Hall",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/starting-a-revolution-in-walton-hall",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Starting a Revolution in Walton Hall",
+                            "file_path": "e003/c024/s001.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 25,
+                    "chap_title": "Goodbye to the Old Lady",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/goodbye-to-the-old-lady",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Stripping Room 214",
+                            "file_path": "e003/c025/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: A Very Long Hug in the Second-Floor Hallway",
+                            "file_path": "e003/c025/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Eleventh Child: Ready for the World",
+                            "file_path": "e003/c025/s003.md"
+                        }
+                    ]
                 }
             ]
         },
