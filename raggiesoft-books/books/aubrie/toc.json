@@ -1245,13 +1245,18 @@
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: Meeting Garrett Reynolds",
+                            "scene_title": "Scene 4: Meeting Garrett Reynolds & The Co-Ed Pilot Proposal",
                             "file_path": "e003/c001/s004.md"
                         },
                         {
                             "scene_num": 5,
-                            "scene_title": "Scene 5: Across the Hall in 215",
+                            "scene_title": "Scene 5: Introducing Garrett to Suite 214/216",
                             "file_path": "e003/c001/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: Across the Hall in 215",
+                            "file_path": "e003/c001/s006.md"
                         }
                     ]
                 }
