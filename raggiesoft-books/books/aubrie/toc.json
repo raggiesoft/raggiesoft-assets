@@ -468,23 +468,33 @@
                         },
                         {
                             "scene_num": 2,
-                            "scene_title": "Scene 2: Interlude: The Fourteen-Day Floor Reports",
+                            "scene_title": "Scene 2: Interlude: The Joint Administrative Complaint",
                             "file_path": "e001/c011/s002.md"
                         },
                         {
                             "scene_num": 3,
-                            "scene_title": "Scene 3: Interlude: The Post-Census Verdict",
+                            "scene_title": "Scene 3: Interlude: The Fourteen-Day Floor Reports",
                             "file_path": "e001/c011/s003.md"
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: Interlude: The Good-Faith Accord",
+                            "scene_title": "Scene 4: Interlude: The Post-Census Verdict",
                             "file_path": "e001/c011/s004.md"
                         },
                         {
                             "scene_num": 5,
-                            "scene_title": "Scene 5: The Suite Arrangement Consent Form",
+                            "scene_title": "Scene 5: Interlude: The Good-Faith Accord",
                             "file_path": "e001/c011/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: Interlude: Relief at the :45 Pulse",
+                            "file_path": "e001/c011/s006.md"
+                        },
+                        {
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Suite Arrangement Consent Form",
+                            "file_path": "e001/c011/s007.md"
                         }
                     ]
                 },
@@ -735,23 +745,33 @@
                         },
                         {
                             "scene_num": 2,
-                            "scene_title": "Scene 2: The Final Hour & One Last Hug",
+                            "scene_title": "Scene 2: Locking the Record",
                             "file_path": "e001/c022/s002.md"
                         },
                         {
                             "scene_num": 3,
-                            "scene_title": "Scene 3: The Maroon Express",
+                            "scene_title": "Scene 3: The Final Hour",
                             "file_path": "e001/c022/s003.md"
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: Geneva Street",
+                            "scene_title": "Scene 4: One Last Hug",
                             "file_path": "e001/c022/s004.md"
                         },
                         {
                             "scene_num": 5,
-                            "scene_title": "Scene 5: Settling into Sanctuary",
+                            "scene_title": "Scene 5: The Maroon Express",
                             "file_path": "e001/c022/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: Geneva Street",
+                            "file_path": "e001/c022/s006.md"
+                        },
+                        {
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: Settling into Sanctuary",
+                            "file_path": "e001/c022/s007.md"
                         }
                     ]
                 },
@@ -767,13 +787,28 @@
                         },
                         {
                             "scene_num": 2,
-                            "scene_title": "Scene 2: All-Time Quarterback & The Unfamiliar Car",
+                            "scene_title": "Scene 2: Interlude: Checkmate at Dispatch",
                             "file_path": "e001/c023/s002.md"
                         },
                         {
                             "scene_num": 3,
-                            "scene_title": "Scene 3: A Basement Feast & The Turkey Brawl",
+                            "scene_title": "Scene 3: All-Time Quarterback",
                             "file_path": "e001/c023/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Unfamiliar Car",
+                            "file_path": "e001/c023/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: A Basement Feast",
+                            "file_path": "e001/c023/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Turkey Brawl",
+                            "file_path": "e001/c023/s006.md"
                         }
                     ]
                 },
@@ -784,23 +819,38 @@
                     "scenes": [
                         {
                             "scene_num": 1,
-                            "scene_title": "Scene 1: The Mission Briefing & The First Purchase",
+                            "scene_title": "Scene 1: The Mission Briefing",
                             "file_path": "e001/c024/s001.md"
                         },
                         {
                             "scene_num": 2,
-                            "scene_title": "Scene 2: The Big Box Gauntlet & Return to Sanctuary",
+                            "scene_title": "Scene 2: The First Purchase",
                             "file_path": "e001/c024/s002.md"
                         },
                         {
                             "scene_num": 3,
-                            "scene_title": "Scene 3: Truth or Dare & The Serious Talk",
+                            "scene_title": "Scene 3: The Big Box Gauntlet",
                             "file_path": "e001/c024/s003.md"
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: The Family Charter",
+                            "scene_title": "Scene 4: Return to Sanctuary",
                             "file_path": "e001/c024/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Truth or Dare",
+                            "file_path": "e001/c024/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Serious Talk",
+                            "file_path": "e001/c024/s006.md"
+                        },
+                        {
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: The Family Charter",
+                            "file_path": "e001/c024/s007.md"
                         }
                     ]
                 },
@@ -811,48 +861,73 @@
                     "scenes": [
                         {
                             "scene_num": 1,
-                            "scene_title": "Scene 1: Return to The Old Lady & The Reunion",
+                            "scene_title": "Scene 1: Return to The Old Lady",
                             "file_path": "e001/c025/s001.md"
                         },
                         {
                             "scene_num": 2,
-                            "scene_title": "Scene 2: Spring Semester Planning & A Semester in Motion",
+                            "scene_title": "Scene 2: The Corridor Reunion",
                             "file_path": "e001/c025/s002.md"
                         },
                         {
                             "scene_num": 3,
-                            "scene_title": "Scene 3: A Double Birthday Conspiracy",
+                            "scene_title": "Scene 3: The Route 11 Blueprint",
                             "file_path": "e001/c025/s003.md"
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: A Preventable Crisis",
+                            "scene_title": "Scene 4: Operation Spring Schedule",
                             "file_path": "e001/c025/s004.md"
                         },
                         {
                             "scene_num": 5,
-                            "scene_title": "Scene 5: The Second Drill",
+                            "scene_title": "Scene 5: A Semester in Motion",
                             "file_path": "e001/c025/s005.md"
                         },
                         {
                             "scene_num": 6,
-                            "scene_title": "Scene 6: Interlude: Fifty-Eight Seconds",
+                            "scene_title": "Scene 6: A Double Birthday Conspiracy",
                             "file_path": "e001/c025/s006.md"
                         },
                         {
                             "scene_num": 7,
-                            "scene_title": "Scene 7: The Final Exam",
+                            "scene_title": "Scene 7: A Preventable Crisis",
                             "file_path": "e001/c025/s007.md"
                         },
                         {
                             "scene_num": 8,
-                            "scene_title": "Scene 8: The First Shot & Goodbye to Henry",
+                            "scene_title": "Scene 8: The Second Drill",
                             "file_path": "e001/c025/s008.md"
                         },
                         {
                             "scene_num": 9,
-                            "scene_title": "Scene 9: Interlude: A Dangerous Idea",
+                            "scene_title": "Scene 9: Interlude: Fifty-Eight Seconds",
                             "file_path": "e001/c025/s009.md"
+                        },
+                        {
+                            "scene_num": 10,
+                            "scene_title": "Scene 10: The Final Exam",
+                            "file_path": "e001/c025/s010.md"
+                        },
+                        {
+                            "scene_num": 11,
+                            "scene_title": "Scene 11: The First Shot",
+                            "file_path": "e001/c025/s011.md"
+                        },
+                        {
+                            "scene_num": 12,
+                            "scene_title": "Scene 12: Goodbye to Henry",
+                            "file_path": "e001/c025/s012.md"
+                        },
+                        {
+                            "scene_num": 13,
+                            "scene_title": "Scene 13: Departure for Winter Break",
+                            "file_path": "e001/c025/s013.md"
+                        },
+                        {
+                            "scene_num": 14,
+                            "scene_title": "Scene 14: Interlude: A Dangerous Idea",
+                            "file_path": "e001/c025/s014.md"
                         }
                     ]
                 }
@@ -880,18 +955,33 @@
                         },
                         {
                             "scene_num": 3,
-                            "scene_title": "Scene 3: Whiteout & Hunkering Down",
+                            "scene_title": "Scene 3: Blackout & The Neighbor's Chimney",
                             "file_path": "e002/c001/s003.md"
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: Blueprints for Mobility & The Unbudgeted Blizzard",
+                            "scene_title": "Scene 4: Hunkering Down",
                             "file_path": "e002/c001/s004.md"
                         },
                         {
                             "scene_num": 5,
-                            "scene_title": "Scene 5: Solar Noon on the Winter Solstice",
+                            "scene_title": "Scene 5: Forty-Six Inches",
                             "file_path": "e002/c001/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: Interlude: The Unbudgeted Blizzard",
+                            "file_path": "e002/c001/s006.md"
+                        },
+                        {
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: Blueprints for Mobility",
+                            "file_path": "e002/c001/s007.md"
+                        },
+                        {
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: Solar Noon on the Winter Solstice",
+                            "file_path": "e002/c001/s008.md"
                         }
                     ]
                 }
