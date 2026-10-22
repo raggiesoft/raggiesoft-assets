@@ -1112,6 +1112,38 @@
                             "file_path": "e002/c005/s003.md"
                         }
                     ]
+                },
+                {
+                    "chap_num": 6,
+                    "chap_title": "The Seminole Trail & The Dawson Sanctuary",
+                    "chap_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition/the-seminole-trail-the-dawson-sanctuary",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Gridlock on I-81 & The Route 460 Pivot",
+                            "file_path": "e002/c006/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Welcome to the Dawson Sanctuary",
+                            "file_path": "e002/c006/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Elana, Stephen, & Stella",
+                            "file_path": "e002/c006/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Architecture of Care & Fall 2015",
+                            "file_path": "e002/c006/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: South on 29, West on 460",
+                            "file_path": "e002/c006/s005.md"
+                        }
+                    ]
                 }
             ]
         },
