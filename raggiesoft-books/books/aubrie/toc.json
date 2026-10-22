@@ -1198,11 +1198,62 @@
                             "file_path": "e002/c008/s004.md"
                         }
                     ]
+                },
+                {
+                    "chap_num": 9,
+                    "chap_title": "Breaking Ground on the Ramp",
+                    "chap_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition/breaking-ground-on-the-ramp",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Auger and the Blueprint",
+                            "file_path": "e002/c009/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Landfall in Southampton & The Sunday Plan",
+                            "file_path": "e002/c009/s002.md"
+                        }
+                    ]
                 }
             ]
         },
         {
             "era_num": 3,
+            "era_title": "Spring Semester 2015",
+            "era_url": "/raggiesoft-books/books/aubrie/spring-semester-2015",
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "The Maroon Express & Return to The Old Lady",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-maroon-express-return-to-the-old-lady",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Sunday Maroon Express",
+                            "file_path": "e003/c001/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Tour Guide of Commonwealth Mall",
+                            "file_path": "e003/c001/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The First Crack in the Armor",
+                            "file_path": "e003/c001/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Meeting Garrett Reynolds",
+                            "file_path": "e003/c001/s004.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "era_num": 4,
             "era_title": "Jordan's World Trek",
             "era_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek",
             "chapters": [
@@ -1214,72 +1265,72 @@
                         {
                             "scene_num": 1,
                             "scene_title": "Scene 1: The Vanguard Awakes",
-                            "file_path": "e003/c001/s001.md"
+                            "file_path": "e004/c001/s001.md"
                         },
                         {
                             "scene_num": 2,
                             "scene_title": "Scene 2: Operation Yellow Ribbon",
-                            "file_path": "e003/c001/s002.md"
+                            "file_path": "e004/c001/s002.md"
                         },
                         {
                             "scene_num": 3,
                             "scene_title": "Scene 3: The Security Checkpoint",
-                            "file_path": "e003/c001/s003.md"
+                            "file_path": "e004/c001/s003.md"
                         },
                         {
                             "scene_num": 4,
                             "scene_title": "Scene 4: The Ten-Thousand Foot Rule",
-                            "file_path": "e003/c001/s004.md"
+                            "file_path": "e004/c001/s004.md"
                         },
                         {
                             "scene_num": 5,
                             "scene_title": "Scene 5: The International Threshold",
-                            "file_path": "e003/c001/s005.md"
+                            "file_path": "e004/c001/s005.md"
                         },
                         {
                             "scene_num": 6,
                             "scene_title": "Scene 6: The IAD Layover Strategy",
-                            "file_path": "e003/c001/s006.md"
+                            "file_path": "e004/c001/s006.md"
                         },
                         {
                             "scene_num": 7,
                             "scene_title": "Scene 7: The Border Briefing",
-                            "file_path": "e003/c001/s007.md"
+                            "file_path": "e004/c001/s007.md"
                         },
                         {
                             "scene_num": 8,
                             "scene_title": "Scene 8: The Outback Lift",
-                            "file_path": "e003/c001/s008.md"
+                            "file_path": "e004/c001/s008.md"
                         },
                         {
                             "scene_num": 9,
                             "scene_title": "Scene 9: The Price of Freedom",
-                            "file_path": "e003/c001/s009.md"
+                            "file_path": "e004/c001/s009.md"
                         },
                         {
                             "scene_num": 10,
                             "scene_title": "Scene 10: The Commonwealth Question",
-                            "file_path": "e003/c001/s010.md"
+                            "file_path": "e004/c001/s010.md"
                         },
                         {
                             "scene_num": 11,
                             "scene_title": "Scene 11: The ePassport Bottleneck",
-                            "file_path": "e003/c001/s011.md"
+                            "file_path": "e004/c001/s011.md"
                         },
                         {
                             "scene_num": 12,
                             "scene_title": "Scene 12: The Yellow Ribbon Welcome",
-                            "file_path": "e003/c001/s012.md"
+                            "file_path": "e004/c001/s012.md"
                         },
                         {
                             "scene_num": 13,
                             "scene_title": "Scene 13: The Gander Lift",
-                            "file_path": "e003/c001/s013.md"
+                            "file_path": "e004/c001/s013.md"
                         },
                         {
                             "scene_num": 14,
                             "scene_title": "Scene 14: The Room 214 Reunion",
-                            "file_path": "e003/c001/s014.md"
+                            "file_path": "e004/c001/s014.md"
                         }
                     ]
                 },
@@ -1291,19 +1342,19 @@
                         {
                             "scene_num": 1,
                             "scene_title": "Scene 1: The Gander Morning",
-                            "file_path": "e003/c002/s001.md"
+                            "file_path": "e004/c002/s001.md"
                         },
                         {
                             "scene_num": 2,
                             "scene_title": "Scene 2: The Cognitive Redirect",
-                            "file_path": "e003/c002/s002.md"
+                            "file_path": "e004/c002/s002.md"
                         }
                     ]
                 }
             ]
         },
         {
-            "era_num": 4,
+            "era_num": 5,
             "era_title": "Jordan's Court Case",
             "era_url": "/raggiesoft-books/books/aubrie/jordan-s-court-case",
             "chapters": [
@@ -1315,27 +1366,27 @@
                         {
                             "scene_num": 1,
                             "scene_title": "Scene 1: The Final Briefing",
-                            "file_path": "e004/c001/s001.md"
+                            "file_path": "e005/c001/s001.md"
                         },
                         {
                             "scene_num": 2,
                             "scene_title": "Scene 2: The Phalanx and The Gavel",
-                            "file_path": "e004/c001/s002.md"
+                            "file_path": "e005/c001/s002.md"
                         },
                         {
                             "scene_num": 3,
                             "scene_title": "Scene 3: The Evidentiary Phase",
-                            "file_path": "e004/c001/s003.md"
+                            "file_path": "e005/c001/s003.md"
                         },
                         {
                             "scene_num": 4,
                             "scene_title": "Scene 4: The Closing Argument",
-                            "file_path": "e004/c001/s004.md"
+                            "file_path": "e005/c001/s004.md"
                         },
                         {
                             "scene_num": 5,
                             "scene_title": "Scene 5: The Gavel and The Handcuffs",
-                            "file_path": "e004/c001/s005.md"
+                            "file_path": "e005/c001/s005.md"
                         }
                     ]
                 }
