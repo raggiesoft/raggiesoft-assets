@@ -984,6 +984,134 @@
                             "file_path": "e002/c001/s008.md"
                         }
                     ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "The Road to Christmas",
+                    "chap_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition/the-road-to-christmas",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Mall Gauntlet",
+                            "file_path": "e002/c002/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Men's Room & The Sensory Abort",
+                            "file_path": "e002/c002/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: A Brother's Trust",
+                            "file_path": "e002/c002/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The First Christmas Present",
+                            "file_path": "e002/c002/s004.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "Adventures in Southwestern Virginia",
+                    "chap_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition/adventures-in-southwestern-virginia",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: A Trip to Bluewater & The Heart-Hum",
+                            "file_path": "e002/c003/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Lunch at Annabel's Deli",
+                            "file_path": "e002/c003/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: An Afternoon in Radford",
+                            "file_path": "e002/c003/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Dinner at Luigi's Trattoria",
+                            "file_path": "e002/c003/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Long Ride Home & The Unwinding",
+                            "file_path": "e002/c003/s005.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 4,
+                    "chap_title": "Jordan's First Christmas",
+                    "chap_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition/jordan-s-first-christmas",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Stockings on the Bookshelf",
+                            "file_path": "e002/c004/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: A Christmas Education",
+                            "file_path": "e002/c004/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Board Game Gauntlet",
+                            "file_path": "e002/c004/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Odyssey: The Great Journey & 'Jordan Kelly'",
+                            "file_path": "e002/c004/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Someday Promise",
+                            "file_path": "e002/c004/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Unspoken Announcement",
+                            "file_path": "e002/c004/s006.md"
+                        },
+                        {
+                            "scene_num": 7,
+                            "scene_title": "Scene 7: Holiday House-Sitter & A Feast for a Family",
+                            "file_path": "e002/c004/s007.md"
+                        },
+                        {
+                            "scene_num": 8,
+                            "scene_title": "Scene 8: A Christmas Night Whisper",
+                            "file_path": "e002/c004/s008.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 5,
+                    "chap_title": "Boxing Day in Bluewater",
+                    "chap_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition/boxing-day-in-bluewater",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Bluewater Town Plaza Plan",
+                            "file_path": "e002/c005/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Lunch at The Corner Bistro",
+                            "file_path": "e002/c005/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Cushion & The Triumphant Return",
+                            "file_path": "e002/c005/s003.md"
+                        }
+                    ]
                 }
             ]
         },
