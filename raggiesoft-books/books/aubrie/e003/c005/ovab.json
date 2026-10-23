@@ -1,25 +1,3 @@
 {
-    "chapter_id": "c005",
-    "chapter_number": 5,
-    "title": "The New Pact, The Leviathan Cut, and An 80s Education",
-    "summary": "After formalizing the New Pact in Suite 214/216, Jordan spends the weekend in the Brooks basement recovering from a brief 99.8°F winter fever with a twelve-hour marathon of The Silver Gauntlet of Aethel (The Leviathan Cut) and Firelight's 'A Sister's Love', followed by Daniel and Mark's 1980s vinyl education introducing Jordan to his personal theme song: 'Electric Color' by The Stardust Engine.",
-    "scenes": [
-        {
-            "id": "s001",
-            "title": "The Proposal in Room 214"
-        },
-        {
-            "id": "s002",
-            "title": "The First Night of the New Pact"
-        },
-        {
-            "id": "s003",
-            "title": "The Leviathan Cut (A Sister's Love)"
-        },
-        {
-            "id": "s004",
-            "title": "An 80s Education (Electric Color)"
-        }
-    ]
+    "title": "Operation 'File First' and the Passport Blitz"
 }
-
