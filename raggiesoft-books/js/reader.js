@@ -156,7 +156,7 @@ function initOceanViewReader() {
             }
         };
 
-        if (prevBtn) {
+        if (prevBtn && !prevBtn.hasAttribute('onclick')) {
             prevBtn.addEventListener('click', (e) => {
                 e.preventDefault();
                 e.stopPropagation();
@@ -164,7 +164,7 @@ function initOceanViewReader() {
             });
         }
 
-        if (nextBtn) {
+        if (nextBtn && !nextBtn.hasAttribute('onclick')) {
             nextBtn.addEventListener('click', (e) => {
                 e.preventDefault();
                 e.stopPropagation();
@@ -173,51 +173,56 @@ function initOceanViewReader() {
         }
 
         dots.forEach((dot, idx) => {
-            dot.addEventListener('click', (e) => {
-                e.preventDefault();
-                e.stopPropagation();
-                showSlide(idx);
+            if (!dot.hasAttribute('onclick')) {
+                dot.addEventListener('click', (e) => {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    showSlide(idx);
+                });
+            }
+        });
+
+        if (carousel.dataset.heroKeySwipeBound !== 'true') {
+            carousel.dataset.heroKeySwipeBound = 'true';
+            carousel.addEventListener('keydown', (e) => {
+                if (e.key === 'ArrowLeft') {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    showSlide(activeIndex - 1);
+                } else if (e.key === 'ArrowRight') {
+                    e.preventDefault();
+                    e.stopPropagation();
+                    showSlide(activeIndex + 1);
+                }
             });
-        });
 
-        carousel.addEventListener('keydown', (e) => {
-            if (e.key === 'ArrowLeft') {
-                e.preventDefault();
-                e.stopPropagation();
-                showSlide(activeIndex - 1);
-            } else if (e.key === 'ArrowRight') {
-                e.preventDefault();
-                e.stopPropagation();
-                showSlide(activeIndex + 1);
-            }
-        });
+            // Touch swipe support for mobile/tablet readers
+            let touchStartX = null;
+            let touchStartY = null;
+            carousel.addEventListener('touchstart', (e) => {
+                if (e.touches && e.touches.length === 1) {
+                    touchStartX = e.touches[0].clientX;
+                    touchStartY = e.touches[0].clientY;
+                }
+            }, { passive: true });
 
-        // Touch swipe support for mobile/tablet readers
-        let touchStartX = null;
-        let touchStartY = null;
-        carousel.addEventListener('touchstart', (e) => {
-            if (e.touches && e.touches.length === 1) {
-                touchStartX = e.touches[0].clientX;
-                touchStartY = e.touches[0].clientY;
-            }
-        }, { passive: true });
-
-        carousel.addEventListener('touchend', (e) => {
-            if (touchStartX === null || touchStartY === null) return;
-            if (e.changedTouches && e.changedTouches.length === 1) {
-                const dx = e.changedTouches[0].clientX - touchStartX;
-                const dy = e.changedTouches[0].clientY - touchStartY;
-                if (Math.abs(dx) > 40 && Math.abs(dx) > Math.abs(dy)) {
-                    if (dx < 0) {
-                        showSlide(activeIndex + 1);
-                    } else {
-                        showSlide(activeIndex - 1);
+            carousel.addEventListener('touchend', (e) => {
+                if (touchStartX === null || touchStartY === null) return;
+                if (e.changedTouches && e.changedTouches.length === 1) {
+                    const dx = e.changedTouches[0].clientX - touchStartX;
+                    const dy = e.changedTouches[0].clientY - touchStartY;
+                    if (Math.abs(dx) > 40 && Math.abs(dx) > Math.abs(dy)) {
+                        if (dx < 0) {
+                            showSlide(activeIndex + 1);
+                        } else {
+                            showSlide(activeIndex - 1);
+                        }
                     }
                 }
-            }
-            touchStartX = null;
-            touchStartY = null;
-        }, { passive: true });
+                touchStartX = null;
+                touchStartY = null;
+            }, { passive: true });
+        }
     });
 
 
