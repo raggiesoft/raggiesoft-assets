@@ -116,6 +116,112 @@ function initOceanViewReader() {
 
 
     // ==========================================
+    // 2B. SCENE HERO IMAGE CAROUSEL CONTROLLER
+    // ==========================================
+    // Binds interactive Next/Prev buttons, pagination dots, keyboard Left/Right
+    // navigation (when focused inside the carousel), and touch swipe gestures
+    // for multi-slide 16:9 Chapter Header Plates (`[data-hero-carousel]`).
+    const heroCarousels = document.querySelectorAll('[data-hero-carousel]');
+    heroCarousels.forEach((carousel) => {
+        if (carousel.dataset.carouselBound === 'true') return;
+        carousel.dataset.carouselBound = 'true';
+
+        const slides = Array.from(carousel.querySelectorAll('[data-hero-slide]'));
+        const dots = Array.from(carousel.querySelectorAll('[data-hero-dot]'));
+        const prevBtn = carousel.querySelector('[data-hero-prev]');
+        const nextBtn = carousel.querySelector('[data-hero-next]');
+        const counterEl = carousel.querySelector('[data-hero-counter]');
+        if (slides.length <= 1) return;
+
+        let activeIndex = 0;
+
+        const showSlide = (nextIdx) => {
+            const total = slides.length;
+            activeIndex = ((nextIdx % total) + total) % total;
+
+            slides.forEach((slide, idx) => {
+                const isActive = idx === activeIndex;
+                slide.classList.toggle('is-active', isActive);
+                slide.setAttribute('aria-hidden', isActive ? 'false' : 'true');
+            });
+
+            dots.forEach((dot, idx) => {
+                const isActive = idx === activeIndex;
+                dot.classList.toggle('is-active', isActive);
+                dot.setAttribute('aria-selected', isActive ? 'true' : 'false');
+            });
+
+            if (counterEl) {
+                counterEl.textContent = (activeIndex + 1) + ' / ' + total;
+            }
+        };
+
+        if (prevBtn) {
+            prevBtn.addEventListener('click', (e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                showSlide(activeIndex - 1);
+            });
+        }
+
+        if (nextBtn) {
+            nextBtn.addEventListener('click', (e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                showSlide(activeIndex + 1);
+            });
+        }
+
+        dots.forEach((dot, idx) => {
+            dot.addEventListener('click', (e) => {
+                e.preventDefault();
+                e.stopPropagation();
+                showSlide(idx);
+            });
+        });
+
+        carousel.addEventListener('keydown', (e) => {
+            if (e.key === 'ArrowLeft') {
+                e.preventDefault();
+                e.stopPropagation();
+                showSlide(activeIndex - 1);
+            } else if (e.key === 'ArrowRight') {
+                e.preventDefault();
+                e.stopPropagation();
+                showSlide(activeIndex + 1);
+            }
+        });
+
+        // Touch swipe support for mobile/tablet readers
+        let touchStartX = null;
+        let touchStartY = null;
+        carousel.addEventListener('touchstart', (e) => {
+            if (e.touches && e.touches.length === 1) {
+                touchStartX = e.touches[0].clientX;
+                touchStartY = e.touches[0].clientY;
+            }
+        }, { passive: true });
+
+        carousel.addEventListener('touchend', (e) => {
+            if (touchStartX === null || touchStartY === null) return;
+            if (e.changedTouches && e.changedTouches.length === 1) {
+                const dx = e.changedTouches[0].clientX - touchStartX;
+                const dy = e.changedTouches[0].clientY - touchStartY;
+                if (Math.abs(dx) > 40 && Math.abs(dx) > Math.abs(dy)) {
+                    if (dx < 0) {
+                        showSlide(activeIndex + 1);
+                    } else {
+                        showSlide(activeIndex - 1);
+                    }
+                }
+            }
+            touchStartX = null;
+            touchStartY = null;
+        }, { passive: true });
+    });
+
+
+    // ==========================================
     // 3. AUDIO ENGINE & MEDIA CONTROLS
     // ==========================================
     const audioEl = document.getElementById('narrative-audio-element');

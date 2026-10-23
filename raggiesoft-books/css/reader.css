@@ -296,3 +296,156 @@ body.theme-dark-sepia .ios-tab-item.inactive {
     color: inherit !important;
 }
 
+/* ==========================================================================
+ * SCENE HERO IMAGE CAROUSEL (.reader-hero-carousel)
+ * ==========================================================================
+ * Accessible 16:9 multi-slide chapter header plate for `oliver.php`.
+ * Supports click, keyboard (Left/Right arrow keys when focused), and touch swipe
+ * with full WCAG 2.1 AA contrast compliance across Light & Dark themes and
+ * strict `@media (prefers-reduced-motion: reduce)` support.
+ * ========================================================================== */
+.reader-hero-carousel {
+    position: relative;
+    user-select: none;
+    outline: none;
+}
+.reader-hero-carousel:focus-visible {
+    outline: 3px solid var(--rs-primary, #3b82f6);
+    outline-offset: 2px;
+}
+.reader-hero-carousel-viewport {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    overflow: hidden;
+    background: var(--rs-surface, #111827);
+}
+.reader-hero-slide {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity 0.32s ease-in-out;
+}
+.reader-hero-slide.is-active {
+    position: relative;
+    opacity: 1;
+    pointer-events: auto;
+    z-index: 1;
+}
+.reader-hero-nav {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 3;
+    width: 42px;
+    height: 42px;
+    border-radius: 9999px;
+    border: 1px solid rgba(255, 255, 255, 0.35);
+    background: rgba(15, 23, 42, 0.78);
+    color: #ffffff;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    font-size: 1.2rem;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+    transition: background-color 0.18s ease, transform 0.18s ease, border-color 0.18s ease;
+}
+.reader-hero-prev {
+    left: 0.85rem;
+}
+.reader-hero-next {
+    right: 0.85rem;
+}
+.reader-hero-nav:hover {
+    background: rgba(15, 23, 42, 0.94);
+    border-color: rgba(255, 255, 255, 0.75);
+}
+.reader-hero-nav:focus-visible {
+    outline: 3px solid #60a5fa;
+    outline-offset: 2px;
+    background: rgba(15, 23, 42, 0.96);
+}
+.reader-hero-controls {
+    position: absolute;
+    left: 0.85rem;
+    right: 0.85rem;
+    bottom: 0.75rem;
+    z-index: 3;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    pointer-events: none;
+}
+.reader-hero-counter {
+    pointer-events: auto;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.04em;
+    padding: 0.25rem 0.65rem;
+    border-radius: 9999px;
+    background: rgba(15, 23, 42, 0.82);
+    color: #ffffff;
+    border: 1px solid rgba(255, 255, 255, 0.28);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+}
+.reader-hero-dots {
+    pointer-events: auto;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    padding: 0.35rem 0.65rem;
+    border-radius: 9999px;
+    background: rgba(15, 23, 42, 0.78);
+    border: 1px solid rgba(255, 255, 255, 0.28);
+    backdrop-filter: blur(8px);
+    -webkit-backdrop-filter: blur(8px);
+}
+.reader-hero-dot {
+    width: 10px;
+    height: 10px;
+    padding: 0;
+    border-radius: 9999px;
+    border: 1px solid rgba(255, 255, 255, 0.75);
+    background: rgba(255, 255, 255, 0.35);
+    cursor: pointer;
+    transition: width 0.18s ease, background-color 0.18s ease;
+}
+.reader-hero-dot.is-active {
+    width: 24px;
+    background: #ffffff;
+    border-color: #ffffff;
+}
+.reader-hero-dot:focus-visible {
+    outline: 2px solid #60a5fa;
+    outline-offset: 2px;
+}
+@media (max-width: 640px) {
+    .reader-hero-nav {
+        width: 36px;
+        height: 36px;
+        font-size: 1.05rem;
+    }
+    .reader-hero-prev {
+        left: 0.5rem;
+    }
+    .reader-hero-next {
+        right: 0.5rem;
+    }
+}
+@media (prefers-reduced-motion: reduce) {
+    .reader-hero-slide,
+    .reader-hero-nav,
+    .reader-hero-dot {
+        transition: none !important;
+    }
+}
+
+
