@@ -445,6 +445,7 @@ function initOceanViewReader() {
     let currentFontFamily = 'system';
     let currentAutoPlayAudio = 'false';
     let currentCustomThemeEnabled = true;
+    let currentShowOfflineCta = true;
     let currentLineHeight = localStorage.getItem('rs-line-height') || '1.8';
 
     function applyFontSize(size, persist = true) {
@@ -556,6 +557,31 @@ function initOceanViewReader() {
         if (persist) saveSettings();
     }
     if (audioSelect) audioSelect.addEventListener('change', (e) => applyAudioSetting(e.target.value, true));
+
+    // Controls visibility of the "Take this Story Offline" E-Book CTA Card at the bottom of scenes
+    function applyOfflineCtaSetting(val, persist = true) {
+        currentShowOfflineCta = (val !== false && val !== 'false');
+        const offlineCard = document.getElementById('rs-offline-cta-card');
+        if (offlineCard) {
+            offlineCard.style.display = currentShowOfflineCta ? 'block' : 'none';
+        }
+        const settingsOfflineCheckbox = document.getElementById('rs-settings-offline-cta');
+        if (settingsOfflineCheckbox) {
+            settingsOfflineCheckbox.checked = currentShowOfflineCta;
+        }
+        if (persist) saveSettings();
+    }
+    window.applyOfflineCtaSetting = applyOfflineCtaSetting;
+
+    const btnDismissOfflineCta = document.getElementById('rs-dismiss-offline-cta');
+    if (btnDismissOfflineCta) {
+        btnDismissOfflineCta.addEventListener('click', () => {
+            applyOfflineCtaSetting(false, true);
+            if (typeof showShortcutToast === 'function') {
+                showShortcutToast('Offline download card hidden (re-enable in Settings)');
+            }
+        });
+    }
     
     if (btnResetAll) {
         btnResetAll.addEventListener('click', () => {
@@ -565,6 +591,7 @@ function initOceanViewReader() {
             applyWidth('default', true);
             applyFontFamily('system', true);
             applyAudioSetting('false', true);
+            applyOfflineCtaSetting(true, true);
             if (dialog) dialog.close();
         });
     }
@@ -582,7 +609,8 @@ function initOceanViewReader() {
             fontSize: currentFontSize,
             width: currentWidth,
             fontFamily: normalizeFontKey(currentFontFamily),
-            autoPlayAudio: currentAutoPlayAudio
+            autoPlayAudio: currentAutoPlayAudio,
+            showOfflineCta: currentShowOfflineCta
         });
         localStorage.setItem('reader-settings', JSON.stringify(updated));
     }
@@ -600,6 +628,7 @@ function initOceanViewReader() {
             applyWidth(settings.width || 'default', false);
             applyFontFamily(normalizedFont, false);
             applyAudioSetting(settings.autoPlayAudio || 'false', false);
+            applyOfflineCtaSetting(settings.showOfflineCta !== false, false);
             // If legacy CSS font string was stored, normalize it cleanly in storage
             if (settings.fontFamily !== normalizedFont) {
                 saveSettings();
@@ -610,6 +639,7 @@ function initOceanViewReader() {
             applyWidth('default', false);
             applyFontFamily('system', false);
             applyAudioSetting('false', false);
+            applyOfflineCtaSetting(true, false);
         }
     } catch (e) {
         applyTheme('auto', true, false);
@@ -617,6 +647,7 @@ function initOceanViewReader() {
         applyWidth('default', false);
         applyFontFamily('system', false);
         applyAudioSetting('false', false);
+        applyOfflineCtaSetting(true, false);
     }
 
     // ==========================================

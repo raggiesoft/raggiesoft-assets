@@ -45,6 +45,31 @@
 .reader-series-header { font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: var(--rs-primary, #007bff); margin-bottom: 1rem; opacity: 0.9; }
 .reader-part-header { font-size: clamp(1.75rem, 5vw, 2.5rem); font-weight: 900; color: var(--rs-text); margin: 0 0 1rem 0; line-height: 1.2; }
 
+/* 16:9 Chapter Header Plate (Option A — physical-novel headpiece illustration above chapter title) */
+.reader-chapter-plate {
+    margin: 0 0 1.75rem 0;
+    width: 100%;
+    max-width: 100%;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid var(--rs-border);
+    box-shadow: 0 6px 24px rgba(0, 0, 0, 0.12);
+    background: var(--rs-surface);
+}
+.reader-chapter-plate img {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    display: block;
+}
+@media (max-width: 576px) {
+    .reader-chapter-plate {
+        margin-bottom: 1.25rem;
+        border-radius: 8px;
+    }
+}
+
 /* Ensure drop caps and book paragraph indents ONLY apply to direct top-level scene paragraphs, NEVER inside blockquotes or lists */
 .story-content blockquote p,
 .story-content ul p,
