@@ -52,6 +52,16 @@
 .story-content li p {
     text-indent: 0 !important;
 }
+
+/* Responsive wrapping safeguard: prevent any <pre> or <code> element from overflowing horizontally on mobile or smaller viewports */
+.story-content pre,
+.story-content code {
+    white-space: pre-wrap !important;
+    overflow-wrap: anywhere !important;
+    word-break: break-word !important;
+    max-width: 100% !important;
+    box-sizing: border-box;
+}
 .story-content blockquote p::first-letter,
 .story-content ul p::first-letter,
 .story-content ol p::first-letter,
