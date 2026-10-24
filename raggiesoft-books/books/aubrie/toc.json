@@ -1573,6 +1573,48 @@
                             "scene_num": 2,
                             "scene_title": "Scene 2: The Cognitive Redirect",
                             "file_path": "e004/c002/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Safe Haven and the Steel Girder",
+                            "file_path": "e004/c002/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Cobb's Pond, Kitchen Music, and Calling Charlottesville",
+                            "file_path": "e004/c002/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Crossroads of the World",
+                            "file_path": "e004/c002/s005.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "The Nordic Bridge (Reykjavik)",
+                    "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/the-nordic-bridge-reykjavik",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Midnight Sun and the Yellow Bus Grid",
+                            "file_path": "e004/c003/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Zero Gravity in the Azure Lagoon",
+                            "file_path": "e004/c003/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Basalt Columns, Harpa, and the Ten-Thirty Sun",
+                            "file_path": "e004/c003/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Victorian Grid Briefing",
+                            "file_path": "e004/c003/s004.md"
                         }
                     ]
                 }
