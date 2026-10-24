@@ -1617,6 +1617,55 @@
                             "file_path": "e004/c003/s004.md"
                         }
                     ]
+                },
+                {
+                    "chap_num": 4,
+                    "chap_title": "The Red Bus Navigator (London)",
+                    "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/the-red-bus-navigator-london",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Four Passports, the Green Channel, and the Heathrow Ambush",
+                            "file_path": "e004/c004/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Bloomsbury Negotiation",
+                            "file_path": "e004/c004/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Chief Navigator of the Red Double-Deckers",
+                            "file_path": "e004/c004/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Houghton Street and the Transatlantic Reunion Call",
+                            "file_path": "e004/c004/s004.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 5,
+                    "chap_title": "The Wrong Liverpool (Merseyside)",
+                    "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/the-wrong-liverpool-merseyside",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Passenger Assist at London Euston",
+                            "file_path": "e004/c005/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Wrong Liverpool, Everyone!",
+                            "file_path": "e004/c005/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Eastern Leap from Heathrow",
+                            "file_path": "e004/c005/s003.md"
+                        }
+                    ]
                 }
             ]
         },
