@@ -5,6 +5,16 @@
     "series_description_long": "---\ntitle: \"Paige\"\n---\n# Paige\n\nA compelling story of camaraderie and ambition set amidst the grueling deadlines and late-night coding sessions of university life. Paige and Freddie navigate the high-pressure environment of their computer science program, forging a bond built on shared struggles, late-night debugging, and mutual respect. Their journey highlights the power of friendship and teamwork in overcoming seemingly insurmountable academic challenges.",
     "series_image": "/raggiesoft-books/images/covers/2x3/paige.jpg",
     "next_series_url": "",
+    "ebook_sizes": {
+        "epub": "496 KB",
+        "pdf": "1.4 MB",
+        "text_epub": "496 KB",
+        "text_pdf": "1.4 MB",
+        "epub_bytes": 508182,
+        "pdf_bytes": 1452411,
+        "text_epub_bytes": 508175,
+        "text_pdf_bytes": 1452411
+    },
     "eras": [
         {
             "era_num": 1,

@@ -5,6 +5,16 @@
     "series_description_long": "---\ntitle: \"Samantha\"\n---\n*Samantha* is a heart-pounding, relentless thriller that begins with a terrifying abduction and quickly transforms into a story of absolute, unbreakable sibling devotion. When Samantha refuses to let her sister be taken alone, she sets off a chain of events that will test their courage, their resilience, and their desperate determination to survive against impossible odds.",
     "series_image": "/raggiesoft-books/images/covers/2x3/samantha.jpg",
     "next_series_url": "",
+    "ebook_sizes": {
+        "epub": "65 KB",
+        "pdf": "187 KB",
+        "text_epub": "65 KB",
+        "text_pdf": "187 KB",
+        "epub_bytes": 66252,
+        "pdf_bytes": 191601,
+        "text_epub_bytes": 66256,
+        "text_pdf_bytes": 191601
+    },
     "eras": [
         {
             "era_num": 1,

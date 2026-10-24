@@ -5,6 +5,16 @@
     "series_description_long": "---\ntitle: \"Crimson Node\"\n---\nDive into the dark, pulsating heart of the digital underground with *Crimson Node*. This gripping narrative explores the dangerous world of corporate espionage, high-stakes hacking, and the terrifying implications of a mysterious project known only as the Crimson Node. It's a thrilling ride through a world where data is the ultimate weapon.",
     "series_image": "/raggiesoft-books/images/covers/2x3/crimson-node.jpg",
     "next_series_url": "",
+    "ebook_sizes": {
+        "epub": "20 MB",
+        "pdf": "20.2 MB",
+        "text_epub": "55 KB",
+        "text_pdf": "164 KB",
+        "epub_bytes": 20981938,
+        "pdf_bytes": 21143764,
+        "text_epub_bytes": 56273,
+        "text_pdf_bytes": 167790
+    },
     "eras": [
         {
             "era_num": 1,

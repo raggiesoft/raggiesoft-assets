@@ -5,6 +5,16 @@
     "series_description_long": "---\ntitle: \"Aethel\"\n---\nWelcome to the world of Aethel, an epic fantasy saga where twin suns illuminate a continent fractured by ancient magic and modern political intrigue. As the fragile balance between Order and Chaos is threatened, unlikely heroes must rise to secure the legendary Silver Gauntlet. This series explores vast kingdoms, intricate magic systems, and the deeply human cost of war and destiny.",
     "series_image": "/raggiesoft-books/images/covers/2x3/aethel.jpg",
     "next_series_url": "",
+    "ebook_sizes": {
+        "epub": "294 KB",
+        "pdf": "836 KB",
+        "text_epub": "294 KB",
+        "text_pdf": "836 KB",
+        "epub_bytes": 300775,
+        "pdf_bytes": 856261,
+        "text_epub_bytes": 300775,
+        "text_pdf_bytes": 856261
+    },
     "eras": [
         {
             "era_num": 1,

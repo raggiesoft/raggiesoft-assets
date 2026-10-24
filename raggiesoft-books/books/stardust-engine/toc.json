@@ -5,6 +5,16 @@
     "series_description_long": "---\ntitle: \"Stardust Engine\"\n---\nStep into the expansive, epic lore of *The Stardust Engine*. This narrative is the ultimate archive of the legendary progressive rock band, chronicling everything from the grueling creation of their 15-minute Magnum Opus to the sprawling, dystopian cinematic universe of *K.N.O.X.*. It is a rich, detailed exploration of art, trauma, and the transcendent power of music.",
     "series_image": "/raggiesoft-books/images/covers/2x3/stardust-engine.jpg",
     "next_series_url": "",
+    "ebook_sizes": {
+        "epub": "9.6 KB",
+        "pdf": "25 KB",
+        "text_epub": "9.6 KB",
+        "text_pdf": "25 KB",
+        "epub_bytes": 9785,
+        "pdf_bytes": 25614,
+        "text_epub_bytes": 9786,
+        "text_pdf_bytes": 25614
+    },
     "eras": [
         {
             "era_num": 1,

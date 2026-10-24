@@ -5,6 +5,16 @@
     "series_description_long": "---\ntitle: \"Rachel\"\n---\n*The Rachel Narrative* is a sweeping, multi-generational family epic that tracks the complex lives, immense challenges, and profound growth of Rachel and her brother Michael. From chaotic Saturday mornings filled with cousins and cartoons to the heavy responsibilities of adulthood, this series is a beautiful, intricate tapestry of family history and enduring love.",
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
+    "ebook_sizes": {
+        "epub": "13.5 MB",
+        "pdf": "15.2 MB",
+        "text_epub": "982 KB",
+        "text_pdf": "2.7 MB",
+        "epub_bytes": 14119930,
+        "pdf_bytes": 15985788,
+        "text_epub_bytes": 1005747,
+        "text_pdf_bytes": 2809765
+    },
     "eras": [
         {
             "era_num": 1,

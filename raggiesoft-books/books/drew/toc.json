@@ -5,6 +5,16 @@
     "series_description_long": "---\ntitle: \"The Drew Narrative\"\ndate: \"2026-10-07\"\n---\nWelcome to Drew's story. This narrative explores the life of Drew, his twin sister Maggie, and the profound, enduring strength it takes to navigate a world forever changed by the events of the Dojang.\n\n",
     "series_image": "/raggiesoft-books/images/covers/2x3/drew.jpg",
     "next_series_url": "",
+    "ebook_sizes": {
+        "epub": "72 KB",
+        "pdf": "199 KB",
+        "text_epub": "72 KB",
+        "text_pdf": "199 KB",
+        "epub_bytes": 73653,
+        "pdf_bytes": 204145,
+        "text_epub_bytes": 73653,
+        "text_pdf_bytes": 204145
+    },
     "eras": [
         {
             "era_num": 1,

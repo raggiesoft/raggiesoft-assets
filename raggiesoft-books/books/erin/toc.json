@@ -5,6 +5,16 @@
     "series_description_long": "",
     "series_image": "/raggiesoft-books/images/covers/2x3/erin.jpg",
     "next_series_url": "",
+    "ebook_sizes": {
+        "epub": "18 KB",
+        "pdf": "56 KB",
+        "text_epub": "18 KB",
+        "text_pdf": "56 KB",
+        "epub_bytes": 18503,
+        "pdf_bytes": 57466,
+        "text_epub_bytes": 18505,
+        "text_pdf_bytes": 57466
+    },
     "eras": [
         {
             "era_num": 1,

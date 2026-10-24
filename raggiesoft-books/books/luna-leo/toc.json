@@ -5,6 +5,16 @@
     "series_description_long": "---\ntitle: \"Luna Leo\"\n---\nWelcome to **Luna & Leo**, an expansive narrative detailing their Great North American Excursion and beyond.\n\nAfter receiving a devastating diagnosis, Leo and his twin sister Luna decide to hit the road. They leave behind the comfort of their home to explore the vast landscapes of North America, seeking adventure, answers, and a way to come to terms with an uncertain future. Along the way, they encounter unexpected challenges, form new friendships, and discover that the journey itself might be exactly what they needed.\n\nThis series explores themes of family, resilience, and the enduring bond between siblings facing the unknown together.",
     "series_image": "/raggiesoft-books/images/covers/2x3/luna-leo.jpg",
     "next_series_url": "",
+    "ebook_sizes": {
+        "epub": "10.1 MB",
+        "pdf": "11.8 MB",
+        "text_epub": "789 KB",
+        "text_pdf": "2.4 MB",
+        "epub_bytes": 10560699,
+        "pdf_bytes": 12323502,
+        "text_epub_bytes": 807826,
+        "text_pdf_bytes": 2517079
+    },
     "eras": [
         {
             "era_num": 1,

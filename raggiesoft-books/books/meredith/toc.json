@@ -5,6 +5,16 @@
     "series_description_long": "---\ntitle: \"Meredith\"\n---\n*Meredith* is a profoundly moving story about the heavy, grounding anchor of chosen family in the aftermath of devastating loss. Following David and the girls he protects, this narrative explores the complex architecture of grief, the deep comfort of routine, and the fierce, quiet love required to heal a fractured heart.",
     "series_image": "/raggiesoft-books/images/covers/2x3/meredith.jpg",
     "next_series_url": "",
+    "ebook_sizes": {
+        "epub": "40 KB",
+        "pdf": "118 KB",
+        "text_epub": "40 KB",
+        "text_pdf": "118 KB",
+        "epub_bytes": 41469,
+        "pdf_bytes": 120758,
+        "text_epub_bytes": 41468,
+        "text_pdf_bytes": 120758
+    },
     "eras": [
         {
             "era_num": 1,

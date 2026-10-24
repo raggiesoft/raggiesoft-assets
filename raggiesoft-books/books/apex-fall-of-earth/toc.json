@@ -5,6 +5,16 @@
     "series_description_long": "---\ntitle: \"Apex Fall Of Earth\"\n---\nStep into the acoustic fortress of Studio B and witness the birth of a revolution. *Apex: Fall of Earth* chronicles the intense creative process, the corporate battles, and the brilliant minds behind Project APEX. This narrative delves deep into the struggles of artists fighting for their vision against the backdrop of a relentless music industry, blending intense character drama with the raw energy of creation.",
     "series_image": "/raggiesoft-books/images/covers/2x3/apex-fall-of-earth.jpg",
     "next_series_url": "",
+    "ebook_sizes": {
+        "epub": "598 KB",
+        "pdf": "1.7 MB",
+        "text_epub": "598 KB",
+        "text_pdf": "1.7 MB",
+        "epub_bytes": 612051,
+        "pdf_bytes": 1757694,
+        "text_epub_bytes": 612050,
+        "text_pdf_bytes": 1757694
+    },
     "eras": [
         {
             "era_num": 1,

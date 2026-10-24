@@ -6,7 +6,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/aethel.jpg",
         "first_route": "/raggiesoft-books/books/aethel/era-1-the-age-of-myth/book-i-the-silver-sun/scene-1-chapter-1-the-architect-s-lesson",
         "folder": "aethel",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "294 KB",
+            "pdf": "836 KB",
+            "text_epub": "294 KB",
+            "text_pdf": "836 KB",
+            "epub_bytes": 300775,
+            "pdf_bytes": 856261,
+            "text_epub_bytes": 300775,
+            "text_pdf_bytes": 856261
+        }
     },
     {
         "slug": "alex-chloe",
@@ -15,7 +25,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/alex-chloe.jpg",
         "first_route": "/raggiesoft-books/books/alex-chloe/alex-s-childhood/the-carter-house/scene-1-the-first-meeting",
         "folder": "alex-chloe",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "669 KB",
+            "pdf": "1.7 MB",
+            "text_epub": "669 KB",
+            "text_pdf": "1.7 MB",
+            "epub_bytes": 685094,
+            "pdf_bytes": 1801861,
+            "text_epub_bytes": 685093,
+            "text_pdf_bytes": 1801861
+        }
     },
     {
         "slug": "apex-fall-of-earth",
@@ -24,7 +44,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/apex-fall-of-earth.jpg",
         "first_route": "/raggiesoft-books/books/apex-fall-of-earth/wyatt-s-prologue/wyatt-expendable-assets/scene-1-the-deep-end-mid-october-2044",
         "folder": "apex-fall-of-earth",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "598 KB",
+            "pdf": "1.7 MB",
+            "text_epub": "598 KB",
+            "text_pdf": "1.7 MB",
+            "epub_bytes": 612051,
+            "pdf_bytes": 1757694,
+            "text_epub_bytes": 612050,
+            "text_pdf_bytes": 1757694
+        }
     },
     {
         "slug": "ashley-tower",
@@ -33,7 +63,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/ashley-tower.jpg",
         "first_route": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-1-the-gathering-storm-tuesday-february-9-2021/scene-1-best-laid-plans-7-30-pm",
         "folder": "ashley-tower",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "83 KB",
+            "pdf": "237 KB",
+            "text_epub": "83 KB",
+            "text_pdf": "237 KB",
+            "epub_bytes": 85365,
+            "pdf_bytes": 242348,
+            "text_epub_bytes": 85366,
+            "text_pdf_bytes": 242348
+        }
     },
     {
         "slug": "aubrie",
@@ -42,7 +82,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
         "first_route": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude/scene-1-an-extension-of-me",
         "folder": "aubrie",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "36.5 MB",
+            "pdf": "16.9 MB",
+            "text_epub": "690 KB",
+            "text_pdf": "2.8 MB",
+            "epub_bytes": 38285289,
+            "pdf_bytes": 17696009,
+            "text_epub_bytes": 706590,
+            "text_pdf_bytes": 2886155
+        }
     },
     {
         "slug": "beth",
@@ -51,7 +101,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/beth.jpg",
         "first_route": null,
         "folder": "beth",
-        "hide": true
+        "hide": true,
+        "ebook_sizes": {
+            "epub": "5.3 KB",
+            "pdf": "3.5 KB",
+            "text_epub": "5.3 KB",
+            "text_pdf": "3.5 KB",
+            "epub_bytes": 5405,
+            "pdf_bytes": 3540,
+            "text_epub_bytes": 5403,
+            "text_pdf_bytes": 3540
+        }
     },
     {
         "slug": "bob-emily",
@@ -60,7 +120,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/bob-emily.jpg",
         "first_route": "/raggiesoft-books/books/bob-emily/life-without-a-father/the-longest-day/scene-1-the-final-promise",
         "folder": "bob-emily",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "86 KB",
+            "pdf": "230 KB",
+            "text_epub": "86 KB",
+            "text_pdf": "230 KB",
+            "epub_bytes": 87793,
+            "pdf_bytes": 235827,
+            "text_epub_bytes": 87794,
+            "text_pdf_bytes": 235827
+        }
     },
     {
         "slug": "crimson-node",
@@ -69,7 +139,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/crimson-node.jpg",
         "first_route": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-1-the-approach-ndash-friday-april-23-1999/scene-1-anomalies",
         "folder": "crimson-node",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "20 MB",
+            "pdf": "20.2 MB",
+            "text_epub": "55 KB",
+            "text_pdf": "164 KB",
+            "epub_bytes": 20981938,
+            "pdf_bytes": 21143764,
+            "text_epub_bytes": 56273,
+            "text_pdf_bytes": 167790
+        }
     },
     {
         "slug": "drew",
@@ -78,7 +158,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/drew.jpg",
         "first_route": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-1-the-dojang-incident/scene-1-the-core-check",
         "folder": "drew",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "72 KB",
+            "pdf": "199 KB",
+            "text_epub": "72 KB",
+            "text_pdf": "199 KB",
+            "epub_bytes": 73653,
+            "pdf_bytes": 204145,
+            "text_epub_bytes": 73653,
+            "text_pdf_bytes": 204145
+        }
     },
     {
         "slug": "erin",
@@ -87,7 +177,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/erin.jpg",
         "first_route": "/raggiesoft-books/books/erin/before-the-distance-the-story-of-john-erin/seconds-into-thunder/scene-1-the-three-minute-bell",
         "folder": "erin",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "18 KB",
+            "pdf": "56 KB",
+            "text_epub": "18 KB",
+            "text_pdf": "56 KB",
+            "epub_bytes": 18503,
+            "pdf_bytes": 57466,
+            "text_epub_bytes": 18505,
+            "text_pdf_bytes": 57466
+        }
     },
     {
         "slug": "fractured-prisms",
@@ -96,7 +196,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/fractured-prisms.jpg",
         "first_route": null,
         "folder": "fractured-prisms",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "8.6 KB",
+            "pdf": "16 KB",
+            "text_epub": "8.6 KB",
+            "text_pdf": "16 KB",
+            "epub_bytes": 8786,
+            "pdf_bytes": 16540,
+            "text_epub_bytes": 8788,
+            "text_pdf_bytes": 16540
+        }
     },
     {
         "slug": "jack-sarah",
@@ -105,7 +215,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/jack-sarah.jpg",
         "first_route": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/the-end-of-a-war/scene-1-the-discovery",
         "folder": "jack-sarah",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "188 KB",
+            "pdf": "4.4 MB",
+            "text_epub": "188 KB",
+            "text_pdf": "4.4 MB",
+            "epub_bytes": 192633,
+            "pdf_bytes": 4591370,
+            "text_epub_bytes": 192631,
+            "text_pdf_bytes": 4591370
+        }
     },
     {
         "slug": "julian",
@@ -114,7 +234,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/julian.jpg",
         "first_route": "/raggiesoft-books/books/julian/era-1-the-winter-palace-the-breach-spring-december-1996/foreign-language/scene-1-the-8th-grade-iep-meeting",
         "folder": "julian",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "166 KB",
+            "pdf": "471 KB",
+            "text_epub": "166 KB",
+            "text_pdf": "471 KB",
+            "epub_bytes": 169971,
+            "pdf_bytes": 482167,
+            "text_epub_bytes": 169974,
+            "text_pdf_bytes": 482167
+        }
     },
     {
         "slug": "luna-leo",
@@ -123,7 +253,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/luna-leo.jpg",
         "first_route": "/raggiesoft-books/books/luna-leo/early-years/birthday-morning-and-the-grandparents-arrival/scene-1-birthday-morning-and-the-grandparents-arrival",
         "folder": "luna-leo",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "10.1 MB",
+            "pdf": "11.8 MB",
+            "text_epub": "789 KB",
+            "text_pdf": "2.4 MB",
+            "epub_bytes": 10560699,
+            "pdf_bytes": 12323502,
+            "text_epub_bytes": 807826,
+            "text_pdf_bytes": 2517079
+        }
     },
     {
         "slug": "mary-childhood",
@@ -132,7 +272,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/mary-childhood.jpg",
         "first_route": "/raggiesoft-books/books/mary-childhood/mary-s-early-years/chapter-1-a-moment-of-peace/scene-1-high-command",
         "folder": "mary-childhood",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "9.4 KB",
+            "pdf": "24 KB",
+            "text_epub": "9.4 KB",
+            "text_pdf": "24 KB",
+            "epub_bytes": 9587,
+            "pdf_bytes": 24793,
+            "text_epub_bytes": 9590,
+            "text_pdf_bytes": 24793
+        }
     },
     {
         "slug": "meredith",
@@ -141,7 +291,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/meredith.jpg",
         "first_route": "/raggiesoft-books/books/meredith/book-4-the-vanguard/chapter-1-the-first-drop-off/scene-1-the-garage-barracks",
         "folder": "meredith",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "40 KB",
+            "pdf": "118 KB",
+            "text_epub": "40 KB",
+            "text_pdf": "118 KB",
+            "epub_bytes": 41469,
+            "pdf_bytes": 120758,
+            "text_epub_bytes": 41468,
+            "text_pdf_bytes": 120758
+        }
     },
     {
         "slug": "nate",
@@ -150,7 +310,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/nate.jpg",
         "first_route": "/raggiesoft-books/books/nate/book-the-architecture-of-safe-spaces/chapter-1-the-triplet-anomaly-saturday-april-16-1994/scene-1-the-rhythmic-drumming",
         "folder": "nate",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "70 KB",
+            "pdf": "198 KB",
+            "text_epub": "70 KB",
+            "text_pdf": "198 KB",
+            "epub_bytes": 71648,
+            "pdf_bytes": 202797,
+            "text_epub_bytes": 71654,
+            "text_pdf_bytes": 202797
+        }
     },
     {
         "slug": "nichole",
@@ -159,7 +329,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/nichole.jpg",
         "first_route": "/raggiesoft-books/books/nichole/elementary-school/the-newport-vacation/scene-1-the-bachelor-pad",
         "folder": "nichole",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "448 KB",
+            "pdf": "1.2 MB",
+            "text_epub": "448 KB",
+            "text_pdf": "1.2 MB",
+            "epub_bytes": 458417,
+            "pdf_bytes": 1273304,
+            "text_epub_bytes": 458413,
+            "text_pdf_bytes": 1273304
+        }
     },
     {
         "slug": "paige",
@@ -168,7 +348,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/paige.jpg",
         "first_route": "/raggiesoft-books/books/paige/freshman-year/band-camp/scene-1-the-downbeat",
         "folder": "paige",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "496 KB",
+            "pdf": "1.4 MB",
+            "text_epub": "496 KB",
+            "text_pdf": "1.4 MB",
+            "epub_bytes": 508182,
+            "pdf_bytes": 1452411,
+            "text_epub_bytes": 508175,
+            "text_pdf_bytes": 1452411
+        }
     },
     {
         "slug": "pebble-borrow",
@@ -177,7 +367,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/pebble-borrow.jpg",
         "first_route": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway/the-threshold/scene-1-out-of-the-storm",
         "folder": "pebble-borrow",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "152 KB",
+            "pdf": "406 KB",
+            "text_epub": "152 KB",
+            "text_pdf": "406 KB",
+            "epub_bytes": 155218,
+            "pdf_bytes": 415818,
+            "text_epub_bytes": 155221,
+            "text_pdf_bytes": 415818
+        }
     },
     {
         "slug": "quantum-directive-1-jessica",
@@ -186,7 +386,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/quantum-directive-1-jessica.jpg",
         "first_route": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/an-ordinary-july/scene-1-day-to-day-at-quantum",
         "folder": "quantum-directive-1-jessica",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "88 KB",
+            "pdf": "253 KB",
+            "text_epub": "88 KB",
+            "text_pdf": "253 KB",
+            "epub_bytes": 90479,
+            "pdf_bytes": 259480,
+            "text_epub_bytes": 90477,
+            "text_pdf_bytes": 259480
+        }
     },
     {
         "slug": "quantum-directive-2-kelly",
@@ -195,7 +405,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/quantum-directive-2-kelly.jpg",
         "first_route": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/a-fork-in-the-road/scene-1-the-bulletin-board",
         "folder": "quantum-directive-2-kelly",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "80 KB",
+            "pdf": "7.5 MB",
+            "text_epub": "80 KB",
+            "text_pdf": "7.5 MB",
+            "epub_bytes": 81699,
+            "pdf_bytes": 7888871,
+            "text_epub_bytes": 81703,
+            "text_pdf_bytes": 7888871
+        }
     },
     {
         "slug": "quantum-directive-3-casey",
@@ -204,7 +424,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/quantum-directive-3-casey.jpg",
         "first_route": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-1-the-northern-regional/scene-1-departing-npn",
         "folder": "quantum-directive-3-casey",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "1.4 MB",
+            "pdf": "2.2 MB",
+            "text_epub": "402 KB",
+            "text_pdf": "1.2 MB",
+            "epub_bytes": 1462071,
+            "pdf_bytes": 2321004,
+            "text_epub_bytes": 411726,
+            "text_pdf_bytes": 1267782
+        }
     },
     {
         "slug": "rachel",
@@ -213,7 +443,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
         "first_route": "/raggiesoft-books/books/rachel/book-1-the-delaney-street-years/chapter-1-the-sabertooth-kitty/scene-1-the-sensory-avalanche",
         "folder": "rachel",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "13.5 MB",
+            "pdf": "15.2 MB",
+            "text_epub": "982 KB",
+            "text_pdf": "2.7 MB",
+            "epub_bytes": 14119930,
+            "pdf_bytes": 15985788,
+            "text_epub_bytes": 1005747,
+            "text_pdf_bytes": 2809765
+        }
     },
     {
         "slug": "ruby-mountain",
@@ -222,7 +462,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/ruby-mountain.jpg",
         "first_route": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism/chapter-1-the-eve-of-exile/scene-1-the-traitor",
         "folder": "ruby-mountain",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "233 KB",
+            "pdf": "648 KB",
+            "text_epub": "233 KB",
+            "text_pdf": "648 KB",
+            "epub_bytes": 238842,
+            "pdf_bytes": 663805,
+            "text_epub_bytes": 238843,
+            "text_pdf_bytes": 663805
+        }
     },
     {
         "slug": "runebreaker",
@@ -231,7 +481,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/runebreaker.jpg",
         "first_route": "/raggiesoft-books/books/runebreaker/era-1-the-era-of-the-crystal/chapter-1-insert-coin-28th-day-of-the-last-frost-year-404-ec/scene-1-main-theme-the-living-room",
         "folder": "runebreaker",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "14 KB",
+            "pdf": "41 KB",
+            "text_epub": "14 KB",
+            "text_pdf": "41 KB",
+            "epub_bytes": 14619,
+            "pdf_bytes": 41824,
+            "text_epub_bytes": 14621,
+            "text_pdf_bytes": 41824
+        }
     },
     {
         "slug": "samantha",
@@ -240,7 +500,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/samantha.jpg",
         "first_route": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-1-the-father-and-the-uncle-sunday-july-13-1997/scene-1-untitled-chapter",
         "folder": "samantha",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "65 KB",
+            "pdf": "187 KB",
+            "text_epub": "65 KB",
+            "text_pdf": "187 KB",
+            "epub_bytes": 66252,
+            "pdf_bytes": 191601,
+            "text_epub_bytes": 66256,
+            "text_pdf_bytes": 191601
+        }
     },
     {
         "slug": "stardust-engine",
@@ -249,7 +519,17 @@
         "image": "/raggiesoft-books/images/covers/2x3/stardust-engine.jpg",
         "first_route": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra/chapter-1-escape-velocity-ndash-1995/scene-1-the-magnum-opus-ndash-12-00-pm",
         "folder": "stardust-engine",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "9.6 KB",
+            "pdf": "25 KB",
+            "text_epub": "9.6 KB",
+            "text_pdf": "25 KB",
+            "epub_bytes": 9785,
+            "pdf_bytes": 25614,
+            "text_epub_bytes": 9786,
+            "text_pdf_bytes": 25614
+        }
     },
     {
         "slug": "water-planet",
@@ -258,6 +538,16 @@
         "image": "/raggiesoft-books/images/covers/2x3/water-planet.jpg",
         "first_route": null,
         "folder": "water-planet",
-        "hide": false
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "5.3 KB",
+            "pdf": "3.2 KB",
+            "text_epub": "5.3 KB",
+            "text_pdf": "3.2 KB",
+            "epub_bytes": 5409,
+            "pdf_bytes": 3262,
+            "text_epub_bytes": 5410,
+            "text_pdf_bytes": 3262
+        }
     }
 ]

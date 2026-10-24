@@ -5,6 +5,16 @@
     "series_description_long": "",
     "series_image": "/raggiesoft-books/images/covers/2x3/julian.jpg",
     "next_series_url": "",
+    "ebook_sizes": {
+        "epub": "166 KB",
+        "pdf": "471 KB",
+        "text_epub": "166 KB",
+        "text_pdf": "471 KB",
+        "epub_bytes": 169971,
+        "pdf_bytes": 482167,
+        "text_epub_bytes": 169974,
+        "text_pdf_bytes": 482167
+    },
     "eras": [
         {
             "era_num": 1,
