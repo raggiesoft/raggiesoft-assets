@@ -1767,28 +1767,33 @@
                     "scenes": [
                         {
                             "scene_num": 1,
-                            "scene_title": "Scene 1: The Final Briefing",
+                            "scene_title": "Scene 1: The First In-Person GAL Interview",
                             "file_path": "e005/c001/s001.md"
                         },
                         {
                             "scene_num": 2,
-                            "scene_title": "Scene 2: The Phalanx and The Gavel",
+                            "scene_title": "Scene 2: The Phalanx, The Rule on Witnesses, and The Gavel",
                             "file_path": "e005/c001/s002.md"
                         },
                         {
                             "scene_num": 3,
-                            "scene_title": "Scene 3: The Evidentiary Phase",
+                            "scene_title": "Scene 3: The Institutional Shield: Ms. Higgins and Kelsey Brennan",
                             "file_path": "e005/c001/s003.md"
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: The Closing Argument",
+                            "scene_title": "Scene 4: The Floor Advisors: Isabel Dawson and Henry Walsh",
                             "file_path": "e005/c001/s004.md"
                         },
                         {
                             "scene_num": 5,
-                            "scene_title": "Scene 5: The Gavel and The Handcuffs",
+                            "scene_title": "Scene 5: The Benefactor and The Outback: Daniel Brooks and Jessica Gallagher",
                             "file_path": "e005/c001/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Closing Argument, The Gavel, and The Handcuffs",
+                            "file_path": "e005/c001/s006.md"
                         }
                     ]
                 }
