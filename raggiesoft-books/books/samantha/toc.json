@@ -7,13 +7,13 @@
     "next_series_url": "",
     "ebook_sizes": {
         "epub": "65 KB",
-        "pdf": "187 KB",
+        "pdf": "190 KB",
         "text_epub": "65 KB",
-        "text_pdf": "187 KB",
-        "epub_bytes": 66252,
-        "pdf_bytes": 191601,
-        "text_epub_bytes": 66256,
-        "text_pdf_bytes": 191601
+        "text_pdf": "190 KB",
+        "epub_bytes": 66694,
+        "pdf_bytes": 194611,
+        "text_epub_bytes": 66696,
+        "text_pdf_bytes": 194611
     },
     "eras": [
         {
@@ -25,26 +25,11 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Father and the Uncle (Sunday, July 13, 1997)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-1-the-father-and-the-uncle-sunday-july-13-1997",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Untitled Chapter",
-                            "file_path": "e001/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Untitled Chapter",
-                            "file_path": "e001/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Untitled Chapter",
-                            "file_path": "e001/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: Untitled Chapter",
-                            "file_path": "e001/c001/s004.md"
+                            "part_num": 1,
+                            "part_title": "The Father and the Uncle",
+                            "file_path": "e001/c001/p001.md"
                         }
                     ]
                 },
@@ -52,86 +37,26 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Extraction (Monday, July 14, 1997)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-2-the-extraction-monday-july-14-1997",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Untitled Chapter",
-                            "file_path": "e001/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Night Flight Across Virginia",
+                            "file_path": "e001/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Untitled Chapter",
-                            "file_path": "e001/c002/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Safe Harbor in Virginia Beach",
+                            "file_path": "e001/c002/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Untitled Chapter",
-                            "file_path": "e001/c002/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Emergency Room",
+                            "file_path": "e001/c002/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: Untitled Chapter",
-                            "file_path": "e001/c002/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: Untitled Chapter",
-                            "file_path": "e001/c002/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: Untitled Chapter",
-                            "file_path": "e001/c002/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: Untitled Chapter",
-                            "file_path": "e001/c002/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: Untitled Chapter",
-                            "file_path": "e001/c002/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: Untitled Chapter",
-                            "file_path": "e001/c002/s009.md"
-                        },
-                        {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: Untitled Chapter",
-                            "file_path": "e001/c002/s010.md"
-                        },
-                        {
-                            "scene_num": 11,
-                            "scene_title": "Scene 11: Untitled Chapter",
-                            "file_path": "e001/c002/s011.md"
-                        },
-                        {
-                            "scene_num": 12,
-                            "scene_title": "Scene 12: Untitled Chapter",
-                            "file_path": "e001/c002/s012.md"
-                        },
-                        {
-                            "scene_num": 13,
-                            "scene_title": "Scene 13: Untitled Chapter",
-                            "file_path": "e001/c002/s013.md"
-                        },
-                        {
-                            "scene_num": 14,
-                            "scene_title": "Scene 14: Untitled Chapter",
-                            "file_path": "e001/c002/s014.md"
-                        },
-                        {
-                            "scene_num": 15,
-                            "scene_title": "Scene 15: Untitled Chapter",
-                            "file_path": "e001/c002/s015.md"
-                        },
-                        {
-                            "scene_num": 16,
-                            "scene_title": "Scene 16: Untitled Chapter",
-                            "file_path": "e001/c002/s016.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: Pediatric Recovery",
+                            "file_path": "e001/c002/p004.md"
                         }
                     ]
                 },
@@ -139,11 +64,11 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Night Watch (Tuesday, July 15, 1997)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-3-the-night-watch-tuesday-july-15-1997",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Untitled Chapter",
-                            "file_path": "e001/c003/s001.md"
+                            "part_num": 1,
+                            "part_title": "The Night Watch",
+                            "file_path": "e001/c003/p001.md"
                         }
                     ]
                 }
@@ -158,16 +83,11 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Matrix Anomaly (Tuesday, April 20, 1999)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year/chapter-1-the-matrix-anomaly-tuesday-april-20-1999",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Untitled Chapter",
-                            "file_path": "e002/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Untitled Chapter",
-                            "file_path": "e002/c001/s002.md"
+                            "part_num": 1,
+                            "part_title": "The Matrix Anomaly",
+                            "file_path": "e002/c001/p001.md"
                         }
                     ]
                 },
@@ -175,11 +95,11 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Intent to Enroll (Friday, April 23, 1999)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year/chapter-2-the-intent-to-enroll-friday-april-23-1999",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Untitled Chapter",
-                            "file_path": "e002/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "The Intent to Enroll",
+                            "file_path": "e002/c002/p001.md"
                         }
                     ]
                 },
@@ -187,11 +107,11 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Bureaucratic Disbelief (Wednesday, April 28, 1999)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year/chapter-3-the-bureaucratic-disbelief-wednesday-april-28-1999",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Untitled Chapter",
-                            "file_path": "e002/c003/s001.md"
+                            "part_num": 1,
+                            "part_title": "The Bureaucratic Disbelief",
+                            "file_path": "e002/c003/p001.md"
                         }
                     ]
                 },
@@ -199,26 +119,11 @@
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Morrison Stand-Off (Thursday, May 6, 1999)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year/chapter-4-the-morrison-stand-off-thursday-may-6-1999",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Untitled Chapter",
-                            "file_path": "e002/c004/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Untitled Chapter",
-                            "file_path": "e002/c004/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Untitled Chapter",
-                            "file_path": "e002/c004/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: Untitled Chapter",
-                            "file_path": "e002/c004/s004.md"
+                            "part_num": 1,
+                            "part_title": "The Morrison Stand-Off",
+                            "file_path": "e002/c004/p001.md"
                         }
                     ]
                 }
@@ -233,16 +138,11 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Cosmic Collapse (Tuesday, July 13, 1999)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-3-the-environmental-doctrine/chapter-1-the-cosmic-collapse-tuesday-july-13-1999",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Untitled Chapter",
-                            "file_path": "e003/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Untitled Chapter",
-                            "file_path": "e003/c001/s002.md"
+                            "part_num": 1,
+                            "part_title": "The Cosmic Collapse",
+                            "file_path": "e003/c001/p001.md"
                         }
                     ]
                 }

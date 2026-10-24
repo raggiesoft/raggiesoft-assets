@@ -7,13 +7,13 @@
     "next_series_url": "/raggiesoft-books/books/ashley-tower/b001/c001/p001",
     "ebook_sizes": {
         "epub": "9.4 KB",
-        "pdf": "24 KB",
+        "pdf": "25 KB",
         "text_epub": "9.4 KB",
-        "text_pdf": "24 KB",
-        "epub_bytes": 9587,
-        "pdf_bytes": 24793,
-        "text_epub_bytes": 9590,
-        "text_pdf_bytes": 24793
+        "text_pdf": "25 KB",
+        "epub_bytes": 9634,
+        "pdf_bytes": 25934,
+        "text_epub_bytes": 9640,
+        "text_pdf_bytes": 25934
     },
     "eras": [
         {
@@ -25,16 +25,11 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: A Moment of Peace",
                     "chap_url": "/raggiesoft-books/books/mary-childhood/mary-s-early-years/chapter-1-a-moment-of-peace",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: High Command",
-                            "file_path": "e001/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Untitled Chapter",
-                            "file_path": "e001/c001/s002.md"
+                            "part_num": 1,
+                            "part_title": "High Command & The Blanket Tent Sanctuary",
+                            "file_path": "e001/c001/p001.md"
                         }
                     ]
                 }

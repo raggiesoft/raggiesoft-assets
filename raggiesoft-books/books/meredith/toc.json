@@ -7,13 +7,13 @@
     "next_series_url": "",
     "ebook_sizes": {
         "epub": "40 KB",
-        "pdf": "118 KB",
+        "pdf": "119 KB",
         "text_epub": "40 KB",
-        "text_pdf": "118 KB",
-        "epub_bytes": 41469,
-        "pdf_bytes": 120758,
-        "text_epub_bytes": 41468,
-        "text_pdf_bytes": 120758
+        "text_pdf": "119 KB",
+        "epub_bytes": 41115,
+        "pdf_bytes": 121729,
+        "text_epub_bytes": 41120,
+        "text_pdf_bytes": 121729
     },
     "eras": [
         {
@@ -25,81 +25,26 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The First Drop-Off",
                     "chap_url": "/raggiesoft-books/books/meredith/book-4-the-vanguard/chapter-1-the-first-drop-off",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Garage Barracks",
-                            "file_path": "e001/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Garage Barracks & The Color Correction",
+                            "file_path": "e001/c001/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Commute",
-                            "file_path": "e001/c001/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: SDV 100 & The Promenade at Granby",
+                            "file_path": "e001/c001/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Walker Building Lounge",
-                            "file_path": "e001/c001/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Debrief & The Family Briefing",
+                            "file_path": "e001/c001/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The InfoLink Update",
-                            "file_path": "e001/c001/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Color Correction",
-                            "file_path": "e001/c001/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: SDV 100",
-                            "file_path": "e001/c001/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Foundation",
-                            "file_path": "e001/c001/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Promenade at Granby",
-                            "file_path": "e001/c001/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: The Debrief",
-                            "file_path": "e001/c001/s009.md"
-                        },
-                        {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: The Salon Debrief",
-                            "file_path": "e001/c001/s010.md"
-                        },
-                        {
-                            "scene_num": 11,
-                            "scene_title": "Scene 11: The Library Intercept",
-                            "file_path": "e001/c001/s011.md"
-                        },
-                        {
-                            "scene_num": 12,
-                            "scene_title": "Scene 12: The Family Briefing",
-                            "file_path": "e001/c001/s012.md"
-                        },
-                        {
-                            "scene_num": 13,
-                            "scene_title": "Scene 13: The Evening Routine",
-                            "file_path": "e001/c001/s013.md"
-                        },
-                        {
-                            "scene_num": 14,
-                            "scene_title": "Scene 14: The Summons",
-                            "file_path": "e001/c001/s014.md"
-                        },
-                        {
-                            "scene_num": 15,
-                            "scene_title": "Scene 15: The Vanguard Rests",
-                            "file_path": "e001/c001/s015.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: The Evening Routine & The Vanguard Rests",
+                            "file_path": "e001/c001/p004.md"
                         }
                     ]
                 },
@@ -107,21 +52,11 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Virginia Beach Perimeter",
                     "chap_url": "/raggiesoft-books/books/meredith/book-4-the-vanguard/chapter-2-the-virginia-beach-perimeter",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Morning in the Barracks",
-                            "file_path": "e001/c002/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Acoustic Clarification",
-                            "file_path": "e001/c002/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Princess Anne Perimeter",
-                            "file_path": "e001/c002/s003.md"
+                            "part_num": 1,
+                            "part_title": "Morning in the Barracks & The Princess Anne Perimeter",
+                            "file_path": "e001/c002/p001.md"
                         }
                     ]
                 }

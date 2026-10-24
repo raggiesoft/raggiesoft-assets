@@ -10,10 +10,10 @@
         "pdf": "17.9 MB",
         "text_epub": "852 KB",
         "text_pdf": "3.2 MB",
-        "epub_bytes": 39296011,
-        "pdf_bytes": 18739306,
-        "text_epub_bytes": 872471,
-        "text_pdf_bytes": 3386204
+        "epub_bytes": 39295971,
+        "pdf_bytes": 18739028,
+        "text_epub_bytes": 872430,
+        "text_pdf_bytes": 3385597
     },
     "eras": [
         {
@@ -25,51 +25,51 @@
                     "chap_num": 1,
                     "chap_title": "The Administrative Prelude & Early Move-In",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: An Extension of Me",
-                            "file_path": "e001/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: An Extension of Me",
+                            "file_path": "e001/c001/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Drive & The Shared Bed",
-                            "file_path": "e001/c001/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Drive & The Shared Bed",
+                            "file_path": "e001/c001/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Poly Pass & Educational Accessibility",
-                            "file_path": "e001/c001/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Poly Pass & Educational Accessibility",
+                            "file_path": "e001/c001/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: All the Way",
-                            "file_path": "e001/c001/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: All the Way",
+                            "file_path": "e001/c001/p004.md"
                         },
                         {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Routine",
-                            "file_path": "e001/c001/s005.md"
+                            "part_num": 5,
+                            "part_title": "Part 5: The Routine",
+                            "file_path": "e001/c001/p005.md"
                         },
                         {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: One Last Night",
-                            "file_path": "e001/c001/s006.md"
+                            "part_num": 6,
+                            "part_title": "Part 6: One Last Night",
+                            "file_path": "e001/c001/p006.md"
                         },
                         {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: Eleanor Bennett Commonwealth Hall",
-                            "file_path": "e001/c001/s007.md"
+                            "part_num": 7,
+                            "part_title": "Part 7: Eleanor Bennett Commonwealth Hall",
+                            "file_path": "e001/c001/p007.md"
                         },
                         {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: Room 214 & The Awkward Outlet",
-                            "file_path": "e001/c001/s008.md"
+                            "part_num": 8,
+                            "part_title": "Part 8: Room 214 & The Awkward Outlet",
+                            "file_path": "e001/c001/p008.md"
                         },
                         {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: Stranded",
-                            "file_path": "e001/c001/s009.md"
+                            "part_num": 9,
+                            "part_title": "Part 9: Stranded",
+                            "file_path": "e001/c001/p009.md"
                         }
                     ]
                 },
@@ -77,61 +77,61 @@
                     "chap_num": 2,
                     "chap_title": "The Mix-Up & The Naming of Jordan",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-mix-up-the-naming-of-jordan",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Morning Noise",
-                            "file_path": "e001/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Morning Noise",
+                            "file_path": "e001/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: A Clerical Error",
-                            "file_path": "e001/c002/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: A Clerical Error",
+                            "file_path": "e001/c002/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: System.Crash",
-                            "file_path": "e001/c002/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: System.Crash",
+                            "file_path": "e001/c002/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Anchor Holds & The Hall Director",
-                            "file_path": "e001/c002/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: The Anchor Holds & The Hall Director",
+                            "file_path": "e001/c002/p004.md"
                         },
                         {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: A Joke That Stuck & Making It Official",
-                            "file_path": "e001/c002/s005.md"
+                            "part_num": 5,
+                            "part_title": "Part 5: A Joke That Stuck & Making It Official",
+                            "file_path": "e001/c002/p005.md"
                         },
                         {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: Interlude: Across the Firewall",
-                            "file_path": "e001/c002/s006.md"
+                            "part_num": 6,
+                            "part_title": "Part 6: Interlude: Across the Firewall",
+                            "file_path": "e001/c002/p006.md"
                         },
                         {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: Interlude: The Floor Two Inquiry",
-                            "file_path": "e001/c002/s007.md"
+                            "part_num": 7,
+                            "part_title": "Part 7: Interlude: The Floor Two Inquiry",
+                            "file_path": "e001/c002/p007.md"
                         },
                         {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Provisional Agreement & The First Choice",
-                            "file_path": "e001/c002/s008.md"
+                            "part_num": 8,
+                            "part_title": "Part 8: The Provisional Agreement & The First Choice",
+                            "file_path": "e001/c002/p008.md"
                         },
                         {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: The Kincaid Hall Tea Rebellion",
-                            "file_path": "e001/c002/s009.md"
+                            "part_num": 9,
+                            "part_title": "Part 9: The Kincaid Hall Tea Rebellion",
+                            "file_path": "e001/c002/p009.md"
                         },
                         {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: The First Assist & The New Voice",
-                            "file_path": "e001/c002/s010.md"
+                            "part_num": 10,
+                            "part_title": "Part 10: The First Assist & The New Voice",
+                            "file_path": "e001/c002/p010.md"
                         },
                         {
-                            "scene_num": 11,
-                            "scene_title": "Scene 11: The Antidote & The Trust Fall",
-                            "file_path": "e001/c002/s011.md"
+                            "part_num": 11,
+                            "part_title": "Part 11: The Antidote & The Trust Fall",
+                            "file_path": "e001/c002/p011.md"
                         }
                     ]
                 },
@@ -139,71 +139,71 @@
                     "chap_num": 3,
                     "chap_title": "The First Real Harbor & First Days of Class",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-first-real-harbor-first-days-of-class",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Awakening",
-                            "file_path": "e001/c003/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Awakening",
+                            "file_path": "e001/c003/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: No Privacy",
-                            "file_path": "e001/c003/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: No Privacy",
+                            "file_path": "e001/c003/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Worlds Aligned & The Campus Topography",
-                            "file_path": "e001/c003/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: Worlds Aligned & The Campus Topography",
+                            "file_path": "e001/c003/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: A Different Kind of Constellation",
-                            "file_path": "e001/c003/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: A Different Kind of Constellation",
+                            "file_path": "e001/c003/p004.md"
                         },
                         {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Safe Harbor's Perimeter",
-                            "file_path": "e001/c003/s005.md"
+                            "part_num": 5,
+                            "part_title": "Part 5: The Safe Harbor's Perimeter",
+                            "file_path": "e001/c003/p005.md"
                         },
                         {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: Kincaid Hall",
-                            "file_path": "e001/c003/s006.md"
+                            "part_num": 6,
+                            "part_title": "Part 6: Kincaid Hall",
+                            "file_path": "e001/c003/p006.md"
                         },
                         {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Interception",
-                            "file_path": "e001/c003/s007.md"
+                            "part_num": 7,
+                            "part_title": "Part 7: The Interception",
+                            "file_path": "e001/c003/p007.md"
                         },
                         {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The View from the Fifth Floor",
-                            "file_path": "e001/c003/s008.md"
+                            "part_num": 8,
+                            "part_title": "Part 8: The View from the Fifth Floor",
+                            "file_path": "e001/c003/p008.md"
                         },
                         {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: Morning Divergence & The Ascent",
-                            "file_path": "e001/c003/s009.md"
+                            "part_num": 9,
+                            "part_title": "Part 9: Morning Divergence & The Ascent",
+                            "file_path": "e001/c003/p009.md"
                         },
                         {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: Western Civilization & The Taste of Freedom",
-                            "file_path": "e001/c003/s010.md"
+                            "part_num": 10,
+                            "part_title": "Part 10: Western Civilization & The Taste of Freedom",
+                            "file_path": "e001/c003/p010.md"
                         },
                         {
-                            "scene_num": 11,
-                            "scene_title": "Scene 11: The True Assessment & Afternoon Anchors",
-                            "file_path": "e001/c003/s011.md"
+                            "part_num": 11,
+                            "part_title": "Part 11: The True Assessment & Afternoon Anchors",
+                            "file_path": "e001/c003/p011.md"
                         },
                         {
-                            "scene_num": 12,
-                            "scene_title": "Scene 12: The Girls of 505",
-                            "file_path": "e001/c003/s012.md"
+                            "part_num": 12,
+                            "part_title": "Part 12: The Girls of 505",
+                            "file_path": "e001/c003/p012.md"
                         },
                         {
-                            "scene_num": 13,
-                            "scene_title": "Scene 13: Evening Data & The Open Doors",
-                            "file_path": "e001/c003/s013.md"
+                            "part_num": 13,
+                            "part_title": "Part 13: Evening Data & The Open Doors",
+                            "file_path": "e001/c003/p013.md"
                         }
                     ]
                 },
@@ -211,56 +211,56 @@
                     "chap_num": 4,
                     "chap_title": "The Anatomy of Trust & The Pepper Plaza Expedition",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-anatomy-of-trust-the-pepper-plaza-expedition",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Mega-Meetup & The Mega-Group Lunch",
-                            "file_path": "e001/c004/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Mega-Meetup & The Mega-Group Lunch",
+                            "file_path": "e001/c004/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Fifth Floor Hunch",
-                            "file_path": "e001/c004/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Fifth Floor Hunch",
+                            "file_path": "e001/c004/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: An Unconventional Study Session",
-                            "file_path": "e001/c004/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: An Unconventional Study Session",
+                            "file_path": "e001/c004/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Kincaid Hall Collision",
-                            "file_path": "e001/c004/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: The Kincaid Hall Collision",
+                            "file_path": "e001/c004/p004.md"
                         },
                         {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The War Room & The Australian Voice",
-                            "file_path": "e001/c004/s005.md"
+                            "part_num": 5,
+                            "part_title": "Part 5: The War Room & The Australian Voice",
+                            "file_path": "e001/c004/p005.md"
                         },
                         {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: Primary Care & The Good Faith Offer",
-                            "file_path": "e001/c004/s006.md"
+                            "part_num": 6,
+                            "part_title": "Part 6: Primary Care & The Good Faith Offer",
+                            "file_path": "e001/c004/p006.md"
                         },
                         {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: Route 1 to Pepper Plaza & The Prescription",
-                            "file_path": "e001/c004/s007.md"
+                            "part_num": 7,
+                            "part_title": "Part 7: Route 1 to Pepper Plaza & The Prescription",
+                            "file_path": "e001/c004/p007.md"
                         },
                         {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Audiologist's Verdict & The Ride Home in High Definition",
-                            "file_path": "e001/c004/s008.md"
+                            "part_num": 8,
+                            "part_title": "Part 8: The Audiologist's Verdict & The Ride Home in High Definition",
+                            "file_path": "e001/c004/p008.md"
                         },
                         {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: Dinner with Isabel & Taking Out the Trash",
-                            "file_path": "e001/c004/s009.md"
+                            "part_num": 9,
+                            "part_title": "Part 9: Dinner with Isabel & Taking Out the Trash",
+                            "file_path": "e001/c004/p009.md"
                         },
                         {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: Face to Face",
-                            "file_path": "e001/c004/s010.md"
+                            "part_num": 10,
+                            "part_title": "Part 10: Face to Face",
+                            "file_path": "e001/c004/p010.md"
                         }
                     ]
                 },
@@ -268,41 +268,41 @@
                     "chap_num": 5,
                     "chap_title": "The Post-Census Verdict & The Nightly Pact",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-post-census-verdict-the-nightly-pact",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Strategic Analysis & The Main Event",
-                            "file_path": "e001/c005/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Strategic Analysis & The Main Event",
+                            "file_path": "e001/c005/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Interlude: Mutiny at McConnell Transit Center",
-                            "file_path": "e001/c005/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Interlude: Mutiny at McConnell Transit Center",
+                            "file_path": "e001/c005/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Interlude: The Post-Census Verdict",
-                            "file_path": "e001/c005/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: Interlude: The Post-Census Verdict",
+                            "file_path": "e001/c005/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: Interlude: Relief at the :45 Pulse",
-                            "file_path": "e001/c005/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: Interlude: Relief at the :45 Pulse",
+                            "file_path": "e001/c005/p004.md"
                         },
                         {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Suite Arrangement Consent Form & One Hundred and Five Percent",
-                            "file_path": "e001/c005/s005.md"
+                            "part_num": 5,
+                            "part_title": "Part 5: The Suite Arrangement Consent Form & One Hundred and Five Percent",
+                            "file_path": "e001/c005/p005.md"
                         },
                         {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: Fire Alarm in the Dormitory",
-                            "file_path": "e001/c005/s006.md"
+                            "part_num": 6,
+                            "part_title": "Part 6: Fire Alarm in the Dormitory",
+                            "file_path": "e001/c005/p006.md"
                         },
                         {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Nightly Pact & The First Night of the Pact",
-                            "file_path": "e001/c005/s007.md"
+                            "part_num": 7,
+                            "part_title": "Part 7: The Nightly Pact & The First Night of the Pact",
+                            "file_path": "e001/c005/p007.md"
                         }
                     ]
                 },
@@ -310,41 +310,41 @@
                     "chap_num": 6,
                     "chap_title": "Homecoming & The Safe Harbor",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/homecoming-the-safe-harbor",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Door Decorating Contest & Game Day",
-                            "file_path": "e001/c006/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Door Decorating Contest & Game Day",
+                            "file_path": "e001/c006/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Pre-Game & The First Quarter",
-                            "file_path": "e001/c006/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Pre-Game & The First Quarter",
+                            "file_path": "e001/c006/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Second Quarter & The Retreat",
-                            "file_path": "e001/c006/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Second Quarter & The Retreat",
+                            "file_path": "e001/c006/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Fortress of Truth",
-                            "file_path": "e001/c006/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: The Fortress of Truth",
+                            "file_path": "e001/c006/p004.md"
                         },
                         {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Fortress at Night",
-                            "file_path": "e001/c006/s005.md"
+                            "part_num": 5,
+                            "part_title": "Part 5: The Fortress at Night",
+                            "file_path": "e001/c006/p005.md"
                         },
                         {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: Interlude: Overnight Desk Duty",
-                            "file_path": "e001/c006/s006.md"
+                            "part_num": 6,
+                            "part_title": "Part 6: Interlude: Overnight Desk Duty",
+                            "file_path": "e001/c006/p006.md"
                         },
                         {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: A Hug in the Hallway & A Safe Place on the First Floor",
-                            "file_path": "e001/c006/s007.md"
+                            "part_num": 7,
+                            "part_title": "Part 7: A Hug in the Hallway & A Safe Place on the First Floor",
+                            "file_path": "e001/c006/p007.md"
                         }
                     ]
                 },
@@ -352,36 +352,36 @@
                     "chap_num": 7,
                     "chap_title": "Jordan's Independence Day & The Fall Break Relay",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/jordan-s-independence-day-the-fall-break-relay",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Coming Storm",
-                            "file_path": "e001/c007/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Coming Storm",
+                            "file_path": "e001/c007/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Confrontation",
-                            "file_path": "e001/c007/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Confrontation",
+                            "file_path": "e001/c007/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Choice",
-                            "file_path": "e001/c007/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Choice",
+                            "file_path": "e001/c007/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Cut Cord",
-                            "file_path": "e001/c007/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: The Cut Cord",
+                            "file_path": "e001/c007/p004.md"
                         },
                         {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The New Lifeline and a Winter Pact & The Thanksgiving Ultimatum",
-                            "file_path": "e001/c007/s005.md"
+                            "part_num": 5,
+                            "part_title": "Part 5: The New Lifeline and a Winter Pact & The Thanksgiving Ultimatum",
+                            "file_path": "e001/c007/p005.md"
                         },
                         {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Digital Wall & A Continent of Their Own",
-                            "file_path": "e001/c007/s006.md"
+                            "part_num": 6,
+                            "part_title": "Part 6: The Digital Wall & A Continent of Their Own",
+                            "file_path": "e001/c007/p006.md"
                         }
                     ]
                 },
@@ -389,26 +389,26 @@
                     "chap_num": 8,
                     "chap_title": "The Thanksgiving Exodus & Sanctuary on Geneva Street",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-thanksgiving-exodus-sanctuary-on-geneva-street",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Setting the Board & The Maroon Express",
-                            "file_path": "e001/c008/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Setting the Board & The Maroon Express",
+                            "file_path": "e001/c008/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Geneva Street & Settling into Sanctuary",
-                            "file_path": "e001/c008/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Geneva Street & Settling into Sanctuary",
+                            "file_path": "e001/c008/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Interlude: The Unwelcome Arrival & Checkmate at Dispatch",
-                            "file_path": "e001/c008/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: Interlude: The Unwelcome Arrival & Checkmate at Dispatch",
+                            "file_path": "e001/c008/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: All-Time Quarterback & The Turkey Brawl",
-                            "file_path": "e001/c008/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: All-Time Quarterback & The Turkey Brawl",
+                            "file_path": "e001/c008/p004.md"
                         }
                     ]
                 },
@@ -416,16 +416,16 @@
                     "chap_num": 9,
                     "chap_title": "Operation Black Friday & The Family Charter",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/operation-black-friday-the-family-charter",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Mission Briefing & Truth or Dare",
-                            "file_path": "e001/c009/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Mission Briefing & Truth or Dare",
+                            "file_path": "e001/c009/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Serious Talk & The Family Charter",
-                            "file_path": "e001/c009/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Serious Talk & The Family Charter",
+                            "file_path": "e001/c009/p002.md"
                         }
                     ]
                 },
@@ -433,31 +433,31 @@
                     "chap_num": 10,
                     "chap_title": "The New Normal & End of First Semester",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-new-normal-end-of-first-semester",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Return to The Old Lady & A Double Birthday Conspiracy",
-                            "file_path": "e001/c010/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Return to The Old Lady & A Double Birthday Conspiracy",
+                            "file_path": "e001/c010/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: A Preventable Crisis",
-                            "file_path": "e001/c010/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: A Preventable Crisis",
+                            "file_path": "e001/c010/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Second Drill",
-                            "file_path": "e001/c010/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Second Drill",
+                            "file_path": "e001/c010/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Final Exam & Departure for Winter Break",
-                            "file_path": "e001/c010/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: The Final Exam & Departure for Winter Break",
+                            "file_path": "e001/c010/p004.md"
                         },
                         {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: Interlude: A Dangerous Idea",
-                            "file_path": "e001/c010/s005.md"
+                            "part_num": 5,
+                            "part_title": "Part 5: Interlude: A Dangerous Idea",
+                            "file_path": "e001/c010/p005.md"
                         }
                     ]
                 }
@@ -472,31 +472,31 @@
                     "chap_num": 1,
                     "chap_title": "A Winter Wonderland in the Basement & The Winter Solstice",
                     "chap_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition/a-winter-wonderland-in-the-basement-the-winter-solstice",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Fortress Upgrades & Hunkering Down",
-                            "file_path": "e002/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Fortress Upgrades & Hunkering Down",
+                            "file_path": "e002/c001/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Forty-Six Inches",
-                            "file_path": "e002/c001/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Forty-Six Inches",
+                            "file_path": "e002/c001/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Interlude: The Unbudgeted Blizzard",
-                            "file_path": "e002/c001/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: Interlude: The Unbudgeted Blizzard",
+                            "file_path": "e002/c001/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: Blueprints for Mobility",
-                            "file_path": "e002/c001/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: Blueprints for Mobility",
+                            "file_path": "e002/c001/p004.md"
                         },
                         {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: Solar Noon on the Winter Solstice",
-                            "file_path": "e002/c001/s005.md"
+                            "part_num": 5,
+                            "part_title": "Part 5: Solar Noon on the Winter Solstice",
+                            "file_path": "e002/c001/p005.md"
                         }
                     ]
                 },
@@ -504,31 +504,31 @@
                     "chap_num": 2,
                     "chap_title": "The Road to Christmas & Adventures in Southwestern Virginia",
                     "chap_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition/the-road-to-christmas-adventures-in-southwestern-virginia",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Mall Gauntlet & The First Christmas Present",
-                            "file_path": "e002/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Mall Gauntlet & The First Christmas Present",
+                            "file_path": "e002/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: A Trip to Bluewater & The Heart-Hum",
-                            "file_path": "e002/c002/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: A Trip to Bluewater & The Heart-Hum",
+                            "file_path": "e002/c002/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Lunch at Annabel's Deli",
-                            "file_path": "e002/c002/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: Lunch at Annabel's Deli",
+                            "file_path": "e002/c002/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: An Afternoon in Radford & Dinner at Luigi's Trattoria",
-                            "file_path": "e002/c002/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: An Afternoon in Radford & Dinner at Luigi's Trattoria",
+                            "file_path": "e002/c002/p004.md"
                         },
                         {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Long Ride Home & The Unwinding",
-                            "file_path": "e002/c002/s005.md"
+                            "part_num": 5,
+                            "part_title": "Part 5: The Long Ride Home & The Unwinding",
+                            "file_path": "e002/c002/p005.md"
                         }
                     ]
                 },
@@ -536,21 +536,21 @@
                     "chap_num": 3,
                     "chap_title": "Jordan's First Christmas & Boxing Day in Bluewater",
                     "chap_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition/jordan-s-first-christmas-boxing-day-in-bluewater",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Stockings on the Bookshelf & 'Jordan Kelly'",
-                            "file_path": "e002/c003/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Stockings on the Bookshelf & 'Jordan Kelly'",
+                            "file_path": "e002/c003/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Someday Promise & The Bluewater Town Plaza Plan",
-                            "file_path": "e002/c003/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Someday Promise & The Bluewater Town Plaza Plan",
+                            "file_path": "e002/c003/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Lunch at The Corner Bistro & The Cushion & The Triumphant Return",
-                            "file_path": "e002/c003/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: Lunch at The Corner Bistro & The Cushion & The Triumphant Return",
+                            "file_path": "e002/c003/p003.md"
                         }
                     ]
                 },
@@ -558,16 +558,16 @@
                     "chap_num": 4,
                     "chap_title": "The Seminole Trail & The Dawson Sanctuary",
                     "chap_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition/the-seminole-trail-the-dawson-sanctuary",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Gridlock on I-81 & The Route 460 Pivot & Elana, Stephen, & Stella",
-                            "file_path": "e002/c004/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Gridlock on I-81 & The Route 460 Pivot & Elana, Stephen, & Stella",
+                            "file_path": "e002/c004/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Architecture of Care & Fall 2015 & South on 29, West on 460",
-                            "file_path": "e002/c004/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Architecture of Care & Fall 2015 & South on 29, West on 460",
+                            "file_path": "e002/c004/p002.md"
                         }
                     ]
                 },
@@ -575,21 +575,21 @@
                     "chap_num": 5,
                     "chap_title": "Jordan's First New Year's, Silver Star Service, & Breaking Ground",
                     "chap_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition/jordan-s-first-new-year-s-silver-star-service-breaking-ground",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Midnight in London & Booms in the Light",
-                            "file_path": "e002/c005/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Midnight in London & Booms in the Light",
+                            "file_path": "e002/c005/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: First Time in a Terminal & The Auger and the Blueprint",
-                            "file_path": "e002/c005/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: First Time in a Terminal & The Auger and the Blueprint",
+                            "file_path": "e002/c005/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Landfall in Southampton & The Sunday Plan",
-                            "file_path": "e002/c005/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: Landfall in Southampton & The Sunday Plan",
+                            "file_path": "e002/c005/p003.md"
                         }
                     ]
                 }
@@ -604,21 +604,21 @@
                     "chap_num": 1,
                     "chap_title": "Return to The Old Lady & The New Pact",
                     "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/return-to-the-old-lady-the-new-pact",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Sunday Maroon Express & The Co-Ed Pilot Proposal",
-                            "file_path": "e003/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Sunday Maroon Express & The Co-Ed Pilot Proposal",
+                            "file_path": "e003/c001/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Introducing Garrett to Suite 214/216 & This Side of Heaven",
-                            "file_path": "e003/c001/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Introducing Garrett to Suite 214/216 & This Side of Heaven",
+                            "file_path": "e003/c001/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Proposal in Room 214 & The First Night of the New Pact",
-                            "file_path": "e003/c001/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Proposal in Room 214 & The First Night of the New Pact",
+                            "file_path": "e003/c001/p003.md"
                         }
                     ]
                 },
@@ -626,16 +626,16 @@
                     "chap_num": 2,
                     "chap_title": "A Spring in Motion, The World Trek Blueprint, & Operation 'File First'",
                     "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/a-spring-in-motion-the-world-trek-blueprint-operation-file-first",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Alaskan King Discovery & The Roster of Eighteen",
-                            "file_path": "e003/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Alaskan King Discovery & The Roster of Eighteen",
+                            "file_path": "e003/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Operation 'File First' & Sixteen Passports",
-                            "file_path": "e003/c002/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Operation 'File First' & Sixteen Passports",
+                            "file_path": "e003/c002/p002.md"
                         }
                     ]
                 },
@@ -643,26 +643,26 @@
                     "chap_num": 3,
                     "chap_title": "The Leviathan Cut, Electric Color, & The Call from Bluewater",
                     "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-leviathan-cut-electric-color-the-call-from-bluewater",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Leviathan Cut (A Sister's Love)",
-                            "file_path": "e003/c003/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Leviathan Cut (A Sister's Love)",
+                            "file_path": "e003/c003/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: An 80s Education (The Brooks Mix)",
-                            "file_path": "e003/c003/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: An 80s Education (The Brooks Mix)",
+                            "file_path": "e003/c003/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Electric Color",
-                            "file_path": "e003/c003/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: Electric Color",
+                            "file_path": "e003/c003/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: Starfield Calibration & The Call from Bluewater",
-                            "file_path": "e003/c003/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: Starfield Calibration & The Call from Bluewater",
+                            "file_path": "e003/c003/p004.md"
                         }
                     ]
                 },
@@ -670,21 +670,21 @@
                     "chap_num": 4,
                     "chap_title": "HEY CACUHO! The Residence Life Conference",
                     "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/hey-cacuho-the-residence-life-conference",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Sending Off the RAs & The Empty Room Across the Hall",
-                            "file_path": "e003/c004/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Sending Off the RAs & The Empty Room Across the Hall",
+                            "file_path": "e003/c004/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Breakout Session 4B: Breaking the Binary Corridor",
-                            "file_path": "e003/c004/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Breakout Session 4B: Breaking the Binary Corridor",
+                            "file_path": "e003/c004/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: HEY CACUHO! Clothespins and the Gamble Aria Nightmare",
-                            "file_path": "e003/c004/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: HEY CACUHO! Clothespins and the Gamble Aria Nightmare",
+                            "file_path": "e003/c004/p003.md"
                         }
                     ]
                 },
@@ -692,16 +692,16 @@
                     "chap_num": 5,
                     "chap_title": "The Stalker at the Desk & The Bluewater Bunker",
                     "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-stalker-at-the-desk-the-bluewater-bunker",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Investigator at the Front Desk & Convoy to Bluewater",
-                            "file_path": "e003/c005/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Investigator at the Front Desk & Convoy to Bluewater",
+                            "file_path": "e003/c005/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Making It Work in Bluewater & The Heart-Hum",
-                            "file_path": "e003/c005/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Making It Work in Bluewater & The Heart-Hum",
+                            "file_path": "e003/c005/p002.md"
                         }
                     ]
                 },
@@ -709,16 +709,16 @@
                     "chap_num": 6,
                     "chap_title": "The S.S. Freedom & Closing the Old Lady",
                     "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-s-s-freedom-closing-the-old-lady",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Three Hundred and Fifty Pounds of Freedom & Stripping Room 214",
-                            "file_path": "e003/c006/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Three Hundred and Fifty Pounds of Freedom & Stripping Room 214",
+                            "file_path": "e003/c006/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: A Long Hug in the Hallway & Ready for the World",
-                            "file_path": "e003/c006/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: A Long Hug in the Hallway & Ready for the World",
+                            "file_path": "e003/c006/p002.md"
                         }
                     ]
                 }
@@ -733,26 +733,26 @@
                     "chap_num": 1,
                     "chap_title": "Leg 1: The Northern Ascent (Christiansburg to Gander)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-1-the-northern-ascent-christiansburg-to-gander",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Vanguard Awakes & The Security Checkpoint",
-                            "file_path": "e004/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Vanguard Awakes & The Security Checkpoint",
+                            "file_path": "e004/c001/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Ten-Thousand Foot Rule & The Border Briefing",
-                            "file_path": "e004/c001/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Ten-Thousand Foot Rule & The Border Briefing",
+                            "file_path": "e004/c001/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Outback Lift & The ePassport Bottleneck",
-                            "file_path": "e004/c001/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Outback Lift & The ePassport Bottleneck",
+                            "file_path": "e004/c001/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Yellow Ribbon Welcome & The Room 214 Reunion",
-                            "file_path": "e004/c001/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: The Yellow Ribbon Welcome & The Room 214 Reunion",
+                            "file_path": "e004/c001/p004.md"
                         }
                     ]
                 },
@@ -760,16 +760,16 @@
                     "chap_num": 2,
                     "chap_title": "Leg 2: Safe Haven on the Rock (Newfoundland, Canada)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-2-safe-haven-on-the-rock-newfoundland-canada",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Gander Morning, Iceberg Alley, & St. John's",
-                            "file_path": "e004/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Gander Morning, Iceberg Alley, & St. John's",
+                            "file_path": "e004/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Gander Heritage Boardwalk & The Crossroads of the World",
-                            "file_path": "e004/c002/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Gander Heritage Boardwalk & The Crossroads of the World",
+                            "file_path": "e004/c002/p002.md"
                         }
                     ]
                 },
@@ -777,16 +777,16 @@
                     "chap_num": 3,
                     "chap_title": "Leg 3: Midnight Sun, Azure Lagoon, & The Golden Circle (Iceland)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-3-midnight-sun-azure-lagoon-the-golden-circle-iceland",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Midnight Sun and the Yellow Bus Grid",
-                            "file_path": "e004/c003/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Midnight Sun and the Yellow Bus Grid",
+                            "file_path": "e004/c003/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Zero Gravity in the Azure Lagoon & The Victorian Grid Briefing",
-                            "file_path": "e004/c003/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Zero Gravity in the Azure Lagoon & The Victorian Grid Briefing",
+                            "file_path": "e004/c003/p002.md"
                         }
                     ]
                 },
@@ -794,26 +794,26 @@
                     "chap_num": 4,
                     "chap_title": "Leg 4: The Victorian Grid, The Wrong Liverpool, & Station X (United Kingdom)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-4-the-victorian-grid-the-wrong-liverpool-station-x-united-kingdom",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Heathrow Ambush & Chief Navigator of the Red Buses",
-                            "file_path": "e004/c004/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Heathrow Ambush & Chief Navigator of the Red Buses",
+                            "file_path": "e004/c004/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Carnaby Street, the Thames Riverbus, & Babbage's Engine",
-                            "file_path": "e004/c004/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Carnaby Street, the Thames Riverbus, & Babbage's Engine",
+                            "file_path": "e004/c004/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: London Euston, Edinburgh Castle, & The Royal Yacht",
-                            "file_path": "e004/c004/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: London Euston, Edinburgh Castle, & The Royal Yacht",
+                            "file_path": "e004/c004/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Eastern Leap from Heathrow",
-                            "file_path": "e004/c004/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: The Eastern Leap from Heathrow",
+                            "file_path": "e004/c004/p004.md"
                         }
                     ]
                 },
@@ -821,16 +821,16 @@
                     "chap_num": 5,
                     "chap_title": "Leg 5: The Architecture of Respect (Tokyo, Kyoto, & Osaka)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-5-the-architecture-of-respect-tokyo-kyoto-osaka",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Haneda Airport, Asakusa Lanterns, & Tokyo Skytree",
-                            "file_path": "e004/c005/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Haneda Airport, Asakusa Lanterns, & Tokyo Skytree",
+                            "file_path": "e004/c005/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Hassha Melody, Kyoto, & The Brooks Family's Osaka",
-                            "file_path": "e004/c005/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Hassha Melody, Kyoto, & The Brooks Family's Osaka",
+                            "file_path": "e004/c005/p002.md"
                         }
                     ]
                 },
@@ -838,26 +838,26 @@
                     "chap_num": 6,
                     "chap_title": "Leg 6: Starry Skies on the Seto Inland Sea & Beppu Bay (Ky\u016bsh\u016b)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-6-starry-skies-on-the-seto-inland-sea-beppu-bay-ky-sh",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Osaka South Port and Boarding the Starry Sky",
-                            "file_path": "e004/c006/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Osaka South Port and Boarding the Starry Sky",
+                            "file_path": "e004/c006/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Threat Level Zero: Hoshizora no Uta (Japanese Version)",
-                            "file_path": "e004/c006/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Threat Level Zero: Hoshizora no Uta (Japanese Version)",
+                            "file_path": "e004/c006/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: For You Are Safe Upon the Sea: Hoshizora no Uta (English Version)",
-                            "file_path": "e004/c006/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: For You Are Safe Upon the Sea: Hoshizora no Uta (English Version)",
+                            "file_path": "e004/c006/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: Morning Light on Beppu Bay & The Seven Geothermal Springs",
-                            "file_path": "e004/c006/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: Morning Light on Beppu Bay & The Seven Geothermal Springs",
+                            "file_path": "e004/c006/p004.md"
                         }
                     ]
                 },
@@ -865,16 +865,16 @@
                     "chap_num": 7,
                     "chap_title": "Leg 7: The Deterministic Sanctuary & ZO\u00cb.Systems.Logs (Singapore)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-7-the-deterministic-sanctuary-zo-systems-logs-singapore",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Changi Airport, Telok Ayer, & The Equator Wheel",
-                            "file_path": "e004/c007/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Changi Airport, Telok Ayer, & The Equator Wheel",
+                            "file_path": "e004/c007/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Three-Continent Video Call & Sentosa Monorail",
-                            "file_path": "e004/c007/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Three-Continent Video Call & Sentosa Monorail",
+                            "file_path": "e004/c007/p002.md"
                         }
                     ]
                 },
@@ -882,26 +882,26 @@
                     "chap_num": 8,
                     "chap_title": "Leg 8: Southern Cross Winter, The Red Centre, & Home to Roanoke (Australia)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-8-southern-cross-winter-the-red-centre-home-to-roanoke-australia",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Sydney Harbour, The Three Sisters, & The Jamison Skyway",
-                            "file_path": "e004/c008/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Sydney Harbour, The Three Sisters, & The Jamison Skyway",
+                            "file_path": "e004/c008/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Ulu\u1e5fu & The Track to Gallagher's Roadhouse",
-                            "file_path": "e004/c008/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Ulu\u1e5fu & The Track to Gallagher's Roadhouse",
+                            "file_path": "e004/c008/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Frost on the Tires & The Royal Flying Doctor Service",
-                            "file_path": "e004/c008/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: Frost on the Tires & The Royal Flying Doctor Service",
+                            "file_path": "e004/c008/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: Thirty-Five Hours to Roanoke (The Gate Hug)",
-                            "file_path": "e004/c008/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: Thirty-Five Hours to Roanoke (The Gate Hug)",
+                            "file_path": "e004/c008/p004.md"
                         }
                     ]
                 }
@@ -916,21 +916,21 @@
                     "chap_num": 1,
                     "chap_title": "Dismissed with Prejudice (The Montgomery County Courthouse)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-court-case/dismissed-with-prejudice-the-montgomery-county-courthouse",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The GAL Interview, The Phalanx, & The Gavel",
-                            "file_path": "e005/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The GAL Interview, The Phalanx, & The Gavel",
+                            "file_path": "e005/c001/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Institutional Shield & Testimony on the Stand",
-                            "file_path": "e005/c001/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Institutional Shield & Testimony on the Stand",
+                            "file_path": "e005/c001/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Closing Argument, The Gavel, and The Handcuffs",
-                            "file_path": "e005/c001/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Closing Argument, The Gavel, and The Handcuffs",
+                            "file_path": "e005/c001/p003.md"
                         }
                     ]
                 },
@@ -938,26 +938,26 @@
                     "chap_num": 2,
                     "chap_title": "Welcome to Geneva Street & The No-Jealousy Pact",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-court-case/welcome-to-geneva-street-the-no-jealousy-pact",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: No Clipboard to Hide Behind",
-                            "file_path": "e005/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: No Clipboard to Hide Behind",
+                            "file_path": "e005/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Secret Everyone Already Knew",
-                            "file_path": "e005/c002/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Secret Everyone Already Knew",
+                            "file_path": "e005/c002/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Angles, Leverage, and the No-Jealousy Pact",
-                            "file_path": "e005/c002/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: Angles, Leverage, and the No-Jealousy Pact",
+                            "file_path": "e005/c002/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: New River Hall Room 323 & Allegheny Commons Apartment 101",
-                            "file_path": "e005/c002/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: New River Hall Room 323 & Allegheny Commons Apartment 101",
+                            "file_path": "e005/c002/p004.md"
                         }
                     ]
                 }
@@ -972,31 +972,31 @@
                     "chap_num": 1,
                     "chap_title": "The 5:45 AM Problem, The Birth of Fin#, & Home on Geneva Street",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/the-5-45-am-problem-the-birth-of-fin-home-on-geneva-street",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The 5:45 AM Problem & The 45-Minute Wait on Commonwealth Mall",
-                            "file_path": "e006/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The 5:45 AM Problem & The 45-Minute Wait on Commonwealth Mall",
+                            "file_path": "e006/c001/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The New Normal (6:00 AM) & The Sociology Fortress",
-                            "file_path": "e006/c001/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The New Normal (6:00 AM) & The Sociology Fortress",
+                            "file_path": "e006/c001/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Question The Rules: The Birth of Fin#",
-                            "file_path": "e006/c001/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: Question The Rules: The Birth of Fin#",
+                            "file_path": "e006/c001/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: One Week to Process & Updating the Medical Registry",
-                            "file_path": "e006/c001/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: One Week to Process & Updating the Medical Registry",
+                            "file_path": "e006/c001/p004.md"
                         },
                         {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: Home on Geneva Street",
-                            "file_path": "e006/c001/s005.md"
+                            "part_num": 5,
+                            "part_title": "Part 5: Home on Geneva Street",
+                            "file_path": "e006/c001/p005.md"
                         }
                     ]
                 },
@@ -1004,16 +1004,16 @@
                     "chap_num": 2,
                     "chap_title": "The Paper Invasion (Notice CP87A) & Fall Break 2015",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/the-paper-invasion-notice-cp87a-fall-break-2015",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Envelope on the Table & Notice CP87A (The Paper Invasion)",
-                            "file_path": "e006/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Envelope on the Table & Notice CP87A (The Paper Invasion)",
+                            "file_path": "e006/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The I-64 Concurrency & The Twelve-Hour Leviathan Cut",
-                            "file_path": "e006/c002/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The I-64 Concurrency & The Twelve-Hour Leviathan Cut",
+                            "file_path": "e006/c002/p002.md"
                         }
                     ]
                 },
@@ -1021,31 +1021,31 @@
                     "chap_num": 3,
                     "chap_title": "Friday, 9:32 AM: The Broken Foundation & The Failed Angioplasty",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/friday-9-32-am-the-broken-foundation-the-failed-angioplasty",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Friday, 9:32 AM (The Attack) & The Wrong Bus on Commonwealth Mall",
-                            "file_path": "e006/c003/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Friday, 9:32 AM (The Attack) & The Wrong Bus on Commonwealth Mall",
+                            "file_path": "e006/c003/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Emergency Room (Cardiac Trauma Bay 3) & Room 312 (Strict NPO)",
-                            "file_path": "e006/c003/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Emergency Room (Cardiac Trauma Bay 3) & Room 312 (Strict NPO)",
+                            "file_path": "e006/c003/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Fork in the Road & 99% Calcified: The Failed Angioplasty",
-                            "file_path": "e006/c003/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Fork in the Road & 99% Calcified: The Failed Angioplasty",
+                            "file_path": "e006/c003/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Verdict (Open-Heart Bypass) & The Longest Wait",
-                            "file_path": "e006/c003/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: The Verdict (Open-Heart Bypass) & The Longest Wait",
+                            "file_path": "e006/c003/p004.md"
                         },
                         {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The First Watch & The Midnight Vitals Check",
-                            "file_path": "e006/c003/s005.md"
+                            "part_num": 5,
+                            "part_title": "Part 5: The First Watch & The Midnight Vitals Check",
+                            "file_path": "e006/c003/p005.md"
                         }
                     ]
                 },
@@ -1053,16 +1053,16 @@
                     "chap_num": 4,
                     "chap_title": "The Forty-Eight Hour Wait & Transfer to Star City General",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/the-forty-eight-hour-wait-transfer-to-star-city-general",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Weaning the Radial Band & The Call from Star City",
-                            "file_path": "e006/c004/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Weaning the Radial Band & The Call from Star City",
+                            "file_path": "e006/c004/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The 'Rubber Duck' Convoy & Zo\u00eb's Confession",
-                            "file_path": "e006/c004/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The 'Rubber Duck' Convoy & Zo\u00eb's Confession",
+                            "file_path": "e006/c004/p002.md"
                         }
                     ]
                 },
@@ -1070,31 +1070,31 @@
                     "chap_num": 5,
                     "chap_title": "Open-Heart Bypass, The Blizzard Fortress, & A CVICU Romance",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/open-heart-bypass-the-blizzard-fortress-a-cvicu-romance",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Pre-Op Goodbye & The Coming Storm & Zo\u00eb's Early Arrival",
-                            "file_path": "e006/c005/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Pre-Op Goodbye & The Coming Storm & Zo\u00eb's Early Arrival",
+                            "file_path": "e006/c005/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Incentive Spirometer & Parallel Sanctuaries",
-                            "file_path": "e006/c005/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Incentive Spirometer & Parallel Sanctuaries",
+                            "file_path": "e006/c005/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: A CVICU Romance (Protocol: Intimacy.v2)",
-                            "file_path": "e006/c005/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: A CVICU Romance (Protocol: Intimacy.v2)",
+                            "file_path": "e006/c005/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Diuretic & The Psychological Deadlock",
-                            "file_path": "e006/c005/s004.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: The Diuretic & The Psychological Deadlock",
+                            "file_path": "e006/c005/p004.md"
                         },
                         {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: Protocol.Change(EnSuite) & The Bed Scale (338.0 lbs)",
-                            "file_path": "e006/c005/s005.md"
+                            "part_num": 5,
+                            "part_title": "Part 5: Protocol.Change(EnSuite) & The Bed Scale (338.0 lbs)",
+                            "file_path": "e006/c005/p005.md"
                         }
                     ]
                 },
@@ -1102,16 +1102,16 @@
                     "chap_num": 6,
                     "chap_title": "Return to the Sanctuary, Thanksgiving, & Goodbye Alex",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/return-to-the-sanctuary-thanksgiving-goodbye-alex",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Discharge Argument & The Slammed Door (Goodbye, Alex)",
-                            "file_path": "e006/c006/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Discharge Argument & The Slammed Door (Goodbye, Alex)",
+                            "file_path": "e006/c006/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Black Friday Compromise & Scenic Road Trip",
-                            "file_path": "e006/c006/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Black Friday Compromise & Scenic Road Trip",
+                            "file_path": "e006/c006/p002.md"
                         }
                     ]
                 },
@@ -1119,16 +1119,16 @@
                     "chap_num": 7,
                     "chap_title": "Enter Megan: A New Caregiver & A New Routine",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/enter-megan-a-new-caregiver-a-new-routine",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Caregiver Handoff (Enter Megan) & Work Buddies",
-                            "file_path": "e006/c007/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Caregiver Handoff (Enter Megan) & Work Buddies",
+                            "file_path": "e006/c007/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Accessibility Map Proposal & The Smokin' Anvil",
-                            "file_path": "e006/c007/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Accessibility Map Proposal & The Smokin' Anvil",
+                            "file_path": "e006/c007/p002.md"
                         }
                     ]
                 },
@@ -1136,21 +1136,21 @@
                     "chap_num": 8,
                     "chap_title": "The Comeback, The Breaking Point, & The New Safe Person",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/the-comeback-the-breaking-point-the-new-safe-person",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Morning Prep on Geneva Street & Return to Walton Hall",
-                            "file_path": "e006/c008/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Morning Prep on Geneva Street & Return to Walton Hall",
+                            "file_path": "e006/c008/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The System Crash (The Breaking Point)",
-                            "file_path": "e006/c008/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The System Crash (The Breaking Point)",
+                            "file_path": "e006/c008/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The New Safe Person & The Solo Corporate Mixer",
-                            "file_path": "e006/c008/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The New Safe Person & The Solo Corporate Mixer",
+                            "file_path": "e006/c008/p003.md"
                         }
                     ]
                 },
@@ -1158,16 +1158,16 @@
                     "chap_num": 9,
                     "chap_title": "The Christmas Night Invitation, The First Kiss, & Jordan Shawn Kelly",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/the-christmas-night-invitation-the-first-kiss-jordan-shawn-kelly",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Christmas Night Invitation & Boxing Day Breakfast",
-                            "file_path": "e006/c009/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Christmas Night Invitation & Boxing Day Breakfast",
+                            "file_path": "e006/c009/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Jordan Shawn Kelly & The Double Wedding Proposal",
-                            "file_path": "e006/c009/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Jordan Shawn Kelly & The Double Wedding Proposal",
+                            "file_path": "e006/c009/p002.md"
                         }
                     ]
                 }

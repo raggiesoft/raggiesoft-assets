@@ -6,14 +6,14 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/quantum-directive-1-jessica.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "88 KB",
+        "epub": "86 KB",
         "pdf": "253 KB",
-        "text_epub": "88 KB",
+        "text_epub": "86 KB",
         "text_pdf": "253 KB",
-        "epub_bytes": 90479,
-        "pdf_bytes": 259480,
-        "text_epub_bytes": 90477,
-        "text_pdf_bytes": 259480
+        "epub_bytes": 87848,
+        "pdf_bytes": 259351,
+        "text_epub_bytes": 87849,
+        "text_pdf_bytes": 259351
     },
     "eras": [
         {
@@ -25,86 +25,16 @@
                     "chap_num": 1,
                     "chap_title": "An Ordinary July",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/an-ordinary-july",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Day-to-Day at Quantum",
-                            "file_path": "e001/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Day-to-Day at Quantum & Providence to Boston",
+                            "file_path": "e001/c001/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The \u201cReview\u201d That Isn\u2019t",
-                            "file_path": "e001/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Across the Quad",
-                            "file_path": "e001/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Executive Suite",
-                            "file_path": "e001/c001/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: Off to BFI",
-                            "file_path": "e001/c001/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Flight East",
-                            "file_path": "e001/c001/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: Providence to Boston",
-                            "file_path": "e001/c001/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Morning Hand-Off",
-                            "file_path": "e001/c001/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: The Green Room",
-                            "file_path": "e001/c001/s009.md"
-                        },
-                        {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: The Cue",
-                            "file_path": "e001/c001/s010.md"
-                        },
-                        {
-                            "scene_num": 11,
-                            "scene_title": "Scene 11: The Reveal",
-                            "file_path": "e001/c001/s011.md"
-                        },
-                        {
-                            "scene_num": 12,
-                            "scene_title": "Scene 12: The Introduction",
-                            "file_path": "e001/c001/s012.md"
-                        },
-                        {
-                            "scene_num": 13,
-                            "scene_title": "Scene 13: The Crown Jewel",
-                            "file_path": "e001/c001/s013.md"
-                        },
-                        {
-                            "scene_num": 14,
-                            "scene_title": "Scene 14: The Aftermath",
-                            "file_path": "e001/c001/s014.md"
-                        },
-                        {
-                            "scene_num": 15,
-                            "scene_title": "Scene 15: The Fallout",
-                            "file_path": "e001/c001/s015.md"
-                        },
-                        {
-                            "scene_num": 16,
-                            "scene_title": "Scene 16: The Debrief",
-                            "file_path": "e001/c001/s016.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Morning Hand-Off & The Debrief",
+                            "file_path": "e001/c001/p002.md"
                         }
                     ]
                 },
@@ -112,41 +42,11 @@
                     "chap_num": 2,
                     "chap_title": "Currents to Still Water",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/currents-to-still-water",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Homecoming",
-                            "file_path": "e001/c002/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Part\u202f2: Unwelcome Currents",
-                            "file_path": "e001/c002/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Part\u202f3: Evening Edition",
-                            "file_path": "e001/c002/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: Part\u202f4: The \\\\#60 into Town",
-                            "file_path": "e001/c002/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: Part\u202f5: The Creamery Along the Wall",
-                            "file_path": "e001/c002/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: Part\u202f6: Breakfast at the Creamery",
-                            "file_path": "e001/c002/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The First Autograph",
-                            "file_path": "e001/c002/s007.md"
+                            "part_num": 1,
+                            "part_title": "Homecoming & The First Autograph",
+                            "file_path": "e001/c002/p001.md"
                         }
                     ]
                 },
@@ -154,21 +54,11 @@
                     "chap_num": 3,
                     "chap_title": "The Spark of Rebellion",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-spark-of-rebellion",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Morning Commute",
-                            "file_path": "e001/c003/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: A Silent Protest",
-                            "file_path": "e001/c003/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Confrontation at Aurora",
-                            "file_path": "e001/c003/s003.md"
+                            "part_num": 1,
+                            "part_title": "The Morning Commute & The Confrontation at Aurora",
+                            "file_path": "e001/c003/p001.md"
                         }
                     ]
                 },
@@ -176,16 +66,11 @@
                     "chap_num": 4,
                     "chap_title": "The War Councils Assemble",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-war-councils-assemble",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Quantum's Alliance",
-                            "file_path": "e001/c004/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Aurora's Rebellion",
-                            "file_path": "e001/c004/s002.md"
+                            "part_num": 1,
+                            "part_title": "Quantum's Alliance & Aurora's Rebellion",
+                            "file_path": "e001/c004/p001.md"
                         }
                     ]
                 },
@@ -193,16 +78,11 @@
                     "chap_num": 5,
                     "chap_title": "The Memo",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-memo",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Leak",
-                            "file_path": "e001/c005/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Damage Control",
-                            "file_path": "e001/c005/s002.md"
+                            "part_num": 1,
+                            "part_title": "The Leak & Damage Control",
+                            "file_path": "e001/c005/p001.md"
                         }
                     ]
                 },
@@ -210,16 +90,11 @@
                     "chap_num": 6,
                     "chap_title": "The Exodus",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-exodus",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Intercepted Letter",
-                            "file_path": "e001/c006/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Last Stand",
-                            "file_path": "e001/c006/s002.md"
+                            "part_num": 1,
+                            "part_title": "The Intercepted Letter & The Last Stand",
+                            "file_path": "e001/c006/p001.md"
                         }
                     ]
                 },
@@ -227,21 +102,11 @@
                     "chap_num": 7,
                     "chap_title": "Sanctuary Across the Lake",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/sanctuary-across-the-lake",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: A New Alliance",
-                            "file_path": "e001/c007/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: To Fork or Not to Fork?",
-                            "file_path": "e001/c007/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Solidarity in Action",
-                            "file_path": "e001/c007/s003.md"
+                            "part_num": 1,
+                            "part_title": "A New Alliance & Solidarity in Action",
+                            "file_path": "e001/c007/p001.md"
                         }
                     ]
                 },
@@ -249,36 +114,11 @@
                     "chap_num": 8,
                     "chap_title": "The Fall of Aurora",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-fall-of-aurora",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Empty Loft",
-                            "file_path": "e001/c008/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Board Meeting",
-                            "file_path": "e001/c008/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Kelly is Not For Sale",
-                            "file_path": "e001/c008/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Press Conference",
-                            "file_path": "e001/c008/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: Spilling the Beans",
-                            "file_path": "e001/c008/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Final Paycheck",
-                            "file_path": "e001/c008/s006.md"
+                            "part_num": 1,
+                            "part_title": "The Empty Loft & The Final Paycheck",
+                            "file_path": "e001/c008/p001.md"
                         }
                     ]
                 },
@@ -286,16 +126,11 @@
                     "chap_num": 9,
                     "chap_title": "The Final Straw",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-final-straw",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: An Intern's Story",
-                            "file_path": "e001/c009/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: A Poisoned Well",
-                            "file_path": "e001/c009/s002.md"
+                            "part_num": 1,
+                            "part_title": "An Intern's Story & A Poisoned Well",
+                            "file_path": "e001/c009/p001.md"
                         }
                     ]
                 },
@@ -303,36 +138,11 @@
                     "chap_num": 10,
                     "chap_title": "A New Beginning",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/a-new-beginning",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Writing the Next Chapter",
-                            "file_path": "e001/c010/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Kelly and Ryan\u2019s First Day",
-                            "file_path": "e001/c010/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Break Room",
-                            "file_path": "e001/c010/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: Jessica's Office",
-                            "file_path": "e001/c010/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Overwhelming Good",
-                            "file_path": "e001/c010/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The First Line of Code",
-                            "file_path": "e001/c010/s006.md"
+                            "part_num": 1,
+                            "part_title": "Writing the Next Chapter & The First Line of Code",
+                            "file_path": "e001/c010/p001.md"
                         }
                     ]
                 },
@@ -340,86 +150,21 @@
                     "chap_num": 11,
                     "chap_title": "The Bridge to Cupertino",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-bridge-to-cupertino",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Cupertino Trip",
-                            "file_path": "e001/c011/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Cupertino Trip & The Dev Lab",
+                            "file_path": "e001/c011/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Gate and the Extended Family",
-                            "file_path": "e001/c011/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: A Day at Work & Morning in Cupertino",
+                            "file_path": "e001/c011/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: On the Bridge to Cupertino",
-                            "file_path": "e001/c011/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The California Sun",
-                            "file_path": "e001/c011/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: Inside Infinite Loop",
-                            "file_path": "e001/c011/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Dev Lab",
-                            "file_path": "e001/c011/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: A Day at Work",
-                            "file_path": "e001/c011/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: Lunch at Caffe Magna",
-                            "file_path": "e001/c011/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: The Bug Bash",
-                            "file_path": "e001/c011/s009.md"
-                        },
-                        {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: The Kernel Panic Fix",
-                            "file_path": "e001/c011/s010.md"
-                        },
-                        {
-                            "scene_num": 11,
-                            "scene_title": "Scene 11: A Room with a View",
-                            "file_path": "e001/c011/s011.md"
-                        },
-                        {
-                            "scene_num": 12,
-                            "scene_title": "Scene 12: Finders Keepers",
-                            "file_path": "e001/c011/s012.md"
-                        },
-                        {
-                            "scene_num": 13,
-                            "scene_title": "Scene 13: Morning in Cupertino",
-                            "file_path": "e001/c011/s013.md"
-                        },
-                        {
-                            "scene_num": 14,
-                            "scene_title": "Scene 14: A Picnic with Cousins",
-                            "file_path": "e001/c011/s014.md"
-                        },
-                        {
-                            "scene_num": 15,
-                            "scene_title": "Scene 15: Homeward Bound",
-                            "file_path": "e001/c011/s015.md"
-                        },
-                        {
-                            "scene_num": 16,
-                            "scene_title": "Scene 16: The Flight Home",
-                            "file_path": "e001/c011/s016.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: A Picnic with Cousins & The Flight Home",
+                            "file_path": "e001/c011/p003.md"
                         }
                     ]
                 },
@@ -427,46 +172,11 @@
                     "chap_num": 12,
                     "chap_title": "Bidding for the Twins",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/bidding-for-the-twins",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Offer",
-                            "file_path": "e001/c012/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Bidding War",
-                            "file_path": "e001/c012/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Escalation",
-                            "file_path": "e001/c012/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Decision",
-                            "file_path": "e001/c012/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Dotted Line",
-                            "file_path": "e001/c012/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The First Paycheck",
-                            "file_path": "e001/c012/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: Acknowledging Talent",
-                            "file_path": "e001/c012/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: A New Role",
-                            "file_path": "e001/c012/s008.md"
+                            "part_num": 1,
+                            "part_title": "The Offer & A New Role",
+                            "file_path": "e001/c012/p001.md"
                         }
                     ]
                 },
@@ -474,26 +184,11 @@
                     "chap_num": 13,
                     "chap_title": "A New Family",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/a-new-family",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Pizza Night",
-                            "file_path": "e001/c013/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Apartment Hunt",
-                            "file_path": "e001/c013/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Capitol Hill Grand",
-                            "file_path": "e001/c013/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: Move-In Day",
-                            "file_path": "e001/c013/s004.md"
+                            "part_num": 1,
+                            "part_title": "Pizza Night & Move-In Day",
+                            "file_path": "e001/c013/p001.md"
                         }
                     ]
                 }
@@ -508,13 +203,13 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Revelations",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/book-2-silent-whispers/chapter-1-revelations",
-                    "scenes": []
+                    "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: A Moment of Peace",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/book-2-silent-whispers/chapter-2-a-moment-of-peace",
-                    "scenes": []
+                    "parts": []
                 }
             ]
         }

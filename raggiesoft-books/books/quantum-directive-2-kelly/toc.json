@@ -6,14 +6,14 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/quantum-directive-2-kelly.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "80 KB",
-        "pdf": "7.5 MB",
-        "text_epub": "80 KB",
-        "text_pdf": "7.5 MB",
-        "epub_bytes": 81699,
-        "pdf_bytes": 7888871,
-        "text_epub_bytes": 81703,
-        "text_pdf_bytes": 7888871
+        "epub": "77 KB",
+        "pdf": "5.3 MB",
+        "text_epub": "77 KB",
+        "text_pdf": "5.3 MB",
+        "epub_bytes": 79117,
+        "pdf_bytes": 5514637,
+        "text_epub_bytes": 79119,
+        "text_pdf_bytes": 5514641
     },
     "eras": [
         {
@@ -25,31 +25,11 @@
                     "chap_num": 1,
                     "chap_title": "A Fork in the Road",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/a-fork-in-the-road",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Bulletin Board \ud83d\udccc",
-                            "file_path": "e001/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Perfect Pitch \ud83d\udcde",
-                            "file_path": "e001/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The First Day \ud83c\udfe2",
-                            "file_path": "e001/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: Lunch with the Devs \ud83d\udcbb",
-                            "file_path": "e001/c001/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: Pager Code 005.1 \ud83d\udcdf",
-                            "file_path": "e001/c001/s005.md"
+                            "part_num": 1,
+                            "part_title": "The Bulletin Board \ud83d\udccc & Pager Code 005.1 \ud83d\udcdf",
+                            "file_path": "e001/c001/p001.md"
                         }
                     ]
                 },
@@ -57,56 +37,16 @@
                     "chap_num": 2,
                     "chap_title": "The Keynote",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/the-keynote",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Peace Treaty Before Sunrise\u2600\ufe0f",
-                            "file_path": "e001/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Peace Treaty Before Sunrise\u2600\ufe0f & The Envelope \u2709\ufe0f",
+                            "file_path": "e001/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Aftermath \ud83c\udf07",
-                            "file_path": "e001/c002/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Memo Arrives \ud83d\udcc4",
-                            "file_path": "e001/c002/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: Three Thousand Miles of Fury \ud83d\ude20",
-                            "file_path": "e001/c002/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Anchor \u2693",
-                            "file_path": "e001/c002/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: A Powerful Ally \ud83e\udd1d",
-                            "file_path": "e001/c002/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: One of the Trench People \ud83c\udf7d\ufe0f",
-                            "file_path": "e001/c002/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Envelope \u2709\ufe0f",
-                            "file_path": "e001/c002/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: The Story Breaks \ud83d\udcf0",
-                            "file_path": "e001/c002/s009.md"
-                        },
-                        {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: Out of the Loop \ud83d\udeec",
-                            "file_path": "e001/c002/s010.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Story Breaks \ud83d\udcf0 & Out of the Loop \ud83d\udeec",
+                            "file_path": "e001/c002/p002.md"
                         }
                     ]
                 },
@@ -114,16 +54,11 @@
                     "chap_num": 3,
                     "chap_title": "The Implosion",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/the-implosion",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Last Stand \ud83d\udeb6\u200d\u2642\ufe0f",
-                            "file_path": "e001/c003/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Verdict \u2696\ufe0f",
-                            "file_path": "e001/c003/s002.md"
+                            "part_num": 1,
+                            "part_title": "The Last Stand \ud83d\udeb6\u200d\u2642\ufe0f & The Verdict \u2696\ufe0f",
+                            "file_path": "e001/c003/p001.md"
                         }
                     ]
                 },
@@ -131,81 +66,16 @@
                     "chap_num": 4,
                     "chap_title": "Closing the Book",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/closing-the-book",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Press Conference \ud83c\udfa4",
-                            "file_path": "e001/c004/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Press Conference \ud83c\udfa4 & First Steps, First Stumbles \ud83d\udc63",
+                            "file_path": "e001/c004/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Spilling the Beans \ud83d\udcbb",
-                            "file_path": "e001/c004/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Good News at Jester's \ud83c\udf54",
-                            "file_path": "e001/c004/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: An Unbelievable Offer \ud83e\udd64",
-                            "file_path": "e001/c004/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Walk Home \ud83c\udfe1",
-                            "file_path": "e001/c004/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: A New Family Plan \ud83d\udc68\u200d\ud83d\udc69\u200d\ud83d\udc67\u200d\ud83d\udc66",
-                            "file_path": "e001/c004/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: Leaving on Good Terms \ud83d\udcdd",
-                            "file_path": "e001/c004/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: Making it Official \ud83c\udf93",
-                            "file_path": "e001/c004/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: Training Day \ud83d\udc68\u200d\ud83c\udfeb",
-                            "file_path": "e001/c004/s009.md"
-                        },
-                        {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: A New Wardrobe \ud83d\udc54",
-                            "file_path": "e001/c004/s010.md"
-                        },
-                        {
-                            "scene_num": 11,
-                            "scene_title": "Scene 11: First Steps, First Stumbles \ud83d\udc63",
-                            "file_path": "e001/c004/s011.md"
-                        },
-                        {
-                            "scene_num": 12,
-                            "scene_title": "Scene 12: The Blue Badge \ud83d\udfe6",
-                            "file_path": "e001/c004/s012.md"
-                        },
-                        {
-                            "scene_num": 13,
-                            "scene_title": "Scene 13: Breaking the Ice \ud83e\uddca",
-                            "file_path": "e001/c004/s013.md"
-                        },
-                        {
-                            "scene_num": 14,
-                            "scene_title": "Scene 14: The Priceless Photo \ud83d\uddbc\ufe0f",
-                            "file_path": "e001/c004/s014.md"
-                        },
-                        {
-                            "scene_num": 15,
-                            "scene_title": "Scene 15: Clocking Out for the Last Time \ud83d\udd70\ufe0f",
-                            "file_path": "e001/c004/s015.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Blue Badge \ud83d\udfe6 & Clocking Out for the Last Time \ud83d\udd70\ufe0f",
+                            "file_path": "e001/c004/p002.md"
                         }
                     ]
                 },
@@ -213,26 +83,11 @@
                     "chap_num": 5,
                     "chap_title": "Welcome to Quantum",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/welcome-to-quantum",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Your Voices Matter Here \ud83e\udd1d",
-                            "file_path": "e001/c005/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Starting with 'Why' \ud83d\udca1",
-                            "file_path": "e001/c005/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: An Overwhelming Good \u221e",
-                            "file_path": "e001/c005/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The First Line of Code \u2328\ufe0f",
-                            "file_path": "e001/c005/s004.md"
+                            "part_num": 1,
+                            "part_title": "Your Voices Matter Here \ud83e\udd1d & The First Line of Code \u2328\ufe0f",
+                            "file_path": "e001/c005/p001.md"
                         }
                     ]
                 },
@@ -240,61 +95,16 @@
                     "chap_num": 6,
                     "chap_title": "The Bridge to Cupertino",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/the-bridge-to-cupertino",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: An Unexpected Invitation \u2708\ufe0f",
-                            "file_path": "e001/c006/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: An Unexpected Invitation \u2708\ufe0f & Welcome to Cupertino \u2600\ufe0f",
+                            "file_path": "e001/c006/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Jessica Did Her Homework \ud83d\udcda",
-                            "file_path": "e001/c006/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: A Fortuitous Encounter \ud83e\udd1d",
-                            "file_path": "e001/c006/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: Southbound on I-5 \ud83d\udcbc",
-                            "file_path": "e001/c006/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The First-Time Flyers' Arrival at SEA \u2708\ufe0f",
-                            "file_path": "e001/c006/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Bridge Builders \ud83c\udf09",
-                            "file_path": "e001/c006/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: First Class to Cupertino \u2708\ufe0f",
-                            "file_path": "e001/c006/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: Six Years \ud83e\udd2f",
-                            "file_path": "e001/c006/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: Welcome to Cupertino \u2600\ufe0f",
-                            "file_path": "e001/c006/s009.md"
-                        },
-                        {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: Best Behavior \ud83e\udd1d",
-                            "file_path": "e001/c006/s010.md"
-                        },
-                        {
-                            "scene_num": 11,
-                            "scene_title": "Scene 11: The Binary Canteen \ud83e\udd6a",
-                            "file_path": "e001/c006/s011.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Best Behavior \ud83e\udd1d & The Binary Canteen \ud83e\udd6a",
+                            "file_path": "e001/c006/p002.md"
                         }
                     ]
                 },
@@ -302,51 +112,16 @@
                     "chap_num": 7,
                     "chap_title": "Inside Infinite Loop",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/inside-infinite-loop",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Company Policy \ud83d\udccb",
-                            "file_path": "e001/c007/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Company Policy \ud83d\udccb & The Right Tool for the Job \ud83c\udf7d\ufe0f",
+                            "file_path": "e001/c007/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: An Uneven Gait \ud83d\udeb6\u200d\u2642\ufe0f",
-                            "file_path": "e001/c007/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: A Necessary Anchor \u2693",
-                            "file_path": "e001/c007/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: Proof of Work \ud83d\udcbb",
-                            "file_path": "e001/c007/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: Coding from the Couch \ud83d\udecb\ufe0f",
-                            "file_path": "e001/c007/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: Project Chimera \ud83e\udd2b",
-                            "file_path": "e001/c007/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: A Sister's Insistence \u6756",
-                            "file_path": "e001/c007/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Right Tool for the Job \ud83c\udf7d\ufe0f",
-                            "file_path": "e001/c007/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: What's Really Going On? \ud83d\udcac",
-                            "file_path": "e001/c007/s009.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: What's Really Going On? \ud83d\udcac",
+                            "file_path": "e001/c007/p002.md"
                         }
                     ]
                 },
@@ -354,46 +129,16 @@
                     "chap_num": 8,
                     "chap_title": "A New Reality",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/a-new-reality",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Right Tool for the Job \u267f",
-                            "file_path": "e001/c008/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Right Tool for the Job \u267f & The Bidding War Begins \u2696\ufe0f",
+                            "file_path": "e001/c008/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Breakfast at the Hotel \ud83e\udd5e",
-                            "file_path": "e001/c008/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Bug Bash \ud83d\udc1e",
-                            "file_path": "e001/c008/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: Lunch at Caffe Magna \ud83c\udf55",
-                            "file_path": "e001/c008/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Analysis \ud83e\udde0",
-                            "file_path": "e001/c008/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Phone Call \ud83d\udcde",
-                            "file_path": "e001/c008/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Bidding War Begins \u2696\ufe0f",
-                            "file_path": "e001/c008/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: Professional Courtesy \ud83e\udd2b",
-                            "file_path": "e001/c008/s008.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Professional Courtesy \ud83e\udd2b",
+                            "file_path": "e001/c008/p002.md"
                         }
                     ]
                 }
@@ -408,22 +153,17 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Turning of the Tide",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-bidding-war-as-seen-on-devnet/chapter-1-the-turning-of-the-tide",
-                    "scenes": []
+                    "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "The Players",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-bidding-war-as-seen-on-devnet/the-players",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Developer Community",
-                            "file_path": "e002/c002/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The CEOs",
-                            "file_path": "e002/c002/s002.md"
+                            "part_num": 1,
+                            "part_title": "The Developer Community & The CEOs",
+                            "file_path": "e002/c002/p001.md"
                         }
                     ]
                 },
@@ -431,11 +171,11 @@
                     "chap_num": 3,
                     "chap_title": "Choosing a Future",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-bidding-war-as-seen-on-devnet/choosing-a-future",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: All the Offers on the Table \ud83d\udcc2",
-                            "file_path": "e002/c003/s001.md"
+                            "part_num": 1,
+                            "part_title": "All the Offers on the Table \ud83d\udcc2",
+                            "file_path": "e002/c003/p001.md"
                         }
                     ]
                 }

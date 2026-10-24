@@ -6,14 +6,14 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/nichole.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "448 KB",
+        "epub": "444 KB",
         "pdf": "1.2 MB",
-        "text_epub": "448 KB",
+        "text_epub": "444 KB",
         "text_pdf": "1.2 MB",
-        "epub_bytes": 458417,
-        "pdf_bytes": 1273304,
-        "text_epub_bytes": 458413,
-        "text_pdf_bytes": 1273304
+        "epub_bytes": 454848,
+        "pdf_bytes": 1273260,
+        "text_epub_bytes": 454853,
+        "text_pdf_bytes": 1273260
     },
     "eras": [
         {
@@ -25,51 +25,26 @@
                     "chap_num": 1,
                     "chap_title": "The Newport Vacation",
                     "chap_url": "/raggiesoft-books/books/nichole/elementary-school/the-newport-vacation",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Bachelor Pad",
-                            "file_path": "e001/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Bachelor Pad & The Pitch",
+                            "file_path": "e001/c001/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Night Watch",
-                            "file_path": "e001/c001/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Circuit Barn & The Park Summit",
+                            "file_path": "e001/c001/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Pitch",
-                            "file_path": "e001/c001/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Quiet Convoy",
+                            "file_path": "e001/c001/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Circuit Barn",
-                            "file_path": "e001/c001/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Island Tour",
-                            "file_path": "e001/c001/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Park Summit",
-                            "file_path": "e001/c001/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Quiet Convoy",
-                            "file_path": "e001/c001/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: BayFront Creamery",
-                            "file_path": "e001/c001/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: The Bennett Beacon",
-                            "file_path": "e001/c001/s009.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: BayFront Creamery & The Bennett Beacon",
+                            "file_path": "e001/c001/p004.md"
                         }
                     ]
                 },
@@ -77,11 +52,11 @@
                     "chap_num": 2,
                     "chap_title": "Project Alpha",
                     "chap_url": "/raggiesoft-books/books/nichole/elementary-school/project-alpha",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Origin Story: Project Alpha",
-                            "file_path": "e001/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Origin Story: Project Alpha",
+                            "file_path": "e001/c002/p001.md"
                         }
                     ]
                 }
@@ -96,11 +71,11 @@
                     "chap_num": 1,
                     "chap_title": "The Test Run",
                     "chap_url": "/raggiesoft-books/books/nichole/middle-school/the-test-run",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Curb Trap",
-                            "file_path": "e002/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "The Curb Trap",
+                            "file_path": "e002/c001/p001.md"
                         }
                     ]
                 },
@@ -108,11 +83,11 @@
                     "chap_num": 2,
                     "chap_title": "The Yellow Wall",
                     "chap_url": "/raggiesoft-books/books/nichole/middle-school/the-yellow-wall",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Arrival at Morrison Middle School",
-                            "file_path": "e002/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Arrival at Morrison Middle School",
+                            "file_path": "e002/c002/p001.md"
                         }
                     ]
                 },
@@ -120,31 +95,21 @@
                     "chap_num": 3,
                     "chap_title": "Middle School Life",
                     "chap_url": "/raggiesoft-books/books/nichole/middle-school/middle-school-life",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Fire Alarm",
-                            "file_path": "e002/c003/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Fire Alarm",
+                            "file_path": "e002/c003/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Call",
-                            "file_path": "e002/c003/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Call",
+                            "file_path": "e002/c003/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Federal Hammer Date: November 12, 1996 Time: 3:45 PM Location: 1850 Delaney Street, Virginia Beach",
-                            "file_path": "e002/c003/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Third Wheel",
-                            "file_path": "e002/c003/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Architect and the Laborer",
-                            "file_path": "e002/c003/s005.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: 1850 Delaney Street, Virginia Beach & The Architect and the Laborer",
+                            "file_path": "e002/c003/p003.md"
                         }
                     ]
                 }
@@ -159,46 +124,16 @@
                     "chap_num": 1,
                     "chap_title": "Welcome to Northwood High School",
                     "chap_url": "/raggiesoft-books/books/nichole/freshman-year/welcome-to-northwood-high-school",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The 5 AM Alarm",
-                            "file_path": "e003/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The 5 AM Alarm & The Escort",
+                            "file_path": "e003/c001/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The War Room",
-                            "file_path": "e003/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Soft Trap",
-                            "file_path": "e003/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Reckoning",
-                            "file_path": "e003/c001/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Escort",
-                            "file_path": "e003/c001/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Return",
-                            "file_path": "e003/c001/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Longest Hour",
-                            "file_path": "e003/c001/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Hand-Off",
-                            "file_path": "e003/c001/s008.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Return & The Hand-Off",
+                            "file_path": "e003/c001/p002.md"
                         }
                     ]
                 },
@@ -206,41 +141,11 @@
                     "chap_num": 2,
                     "chap_title": "The Smoke Test",
                     "chap_url": "/raggiesoft-books/books/nichole/freshman-year/the-smoke-test",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Area of Rescue",
-                            "file_path": "e003/c002/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Descent",
-                            "file_path": "e003/c002/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Bus Loop",
-                            "file_path": "e003/c002/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Stand",
-                            "file_path": "e003/c002/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Long Hour",
-                            "file_path": "e003/c002/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The All Clear",
-                            "file_path": "e003/c002/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Return",
-                            "file_path": "e003/c002/s007.md"
+                            "part_num": 1,
+                            "part_title": "The Area of Rescue & The Return",
+                            "file_path": "e003/c002/p001.md"
                         }
                     ]
                 }
@@ -255,21 +160,11 @@
                     "chap_num": 1,
                     "chap_title": "Planning for the Future",
                     "chap_url": "/raggiesoft-books/books/nichole/junior-year/planning-for-the-future",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Transitioning Nichole\u2019s IEP",
-                            "file_path": "e004/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Poverty Trap",
-                            "file_path": "e004/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Offer",
-                            "file_path": "e004/c001/s003.md"
+                            "part_num": 1,
+                            "part_title": "Transitioning Nichole\u2019s IEP & The Offer",
+                            "file_path": "e004/c001/p001.md"
                         }
                     ]
                 },
@@ -277,21 +172,16 @@
                     "chap_num": 2,
                     "chap_title": "The Handover",
                     "chap_url": "/raggiesoft-books/books/nichole/junior-year/the-handover",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The First Shift",
-                            "file_path": "e004/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The First Shift",
+                            "file_path": "e004/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Certification",
-                            "file_path": "e004/c002/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Maintenance Crew",
-                            "file_path": "e004/c002/s003.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Certification & The Maintenance Crew",
+                            "file_path": "e004/c002/p002.md"
                         }
                     ]
                 }
@@ -306,26 +196,16 @@
                     "chap_num": 1,
                     "chap_title": "Graduation",
                     "chap_url": "/raggiesoft-books/books/nichole/senior-year/graduation",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Breach",
-                            "file_path": "e005/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Breach & The Search",
+                            "file_path": "e005/c001/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Empty Chair",
-                            "file_path": "e005/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Search",
-                            "file_path": "e005/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Promise",
-                            "file_path": "e005/c001/s004.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Promise",
+                            "file_path": "e005/c001/p002.md"
                         }
                     ]
                 },
@@ -333,21 +213,11 @@
                     "chap_num": 2,
                     "chap_title": "The Reset",
                     "chap_url": "/raggiesoft-books/books/nichole/senior-year/the-reset",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Damage Control",
-                            "file_path": "e005/c002/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Vow",
-                            "file_path": "e005/c002/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The War Room",
-                            "file_path": "e005/c002/s003.md"
+                            "part_num": 1,
+                            "part_title": "Damage Control & The War Room",
+                            "file_path": "e005/c002/p001.md"
                         }
                     ]
                 }
@@ -362,16 +232,11 @@
                     "chap_num": 1,
                     "chap_title": "The Misfit Tour",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/the-misfit-tour",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The \\",
-                            "file_path": "e006/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Commuter Special",
-                            "file_path": "e006/c001/s002.md"
+                            "part_num": 1,
+                            "part_title": "The \\ & The Commuter Special",
+                            "file_path": "e006/c001/p001.md"
                         }
                     ]
                 },
@@ -379,81 +244,26 @@
                     "chap_num": 2,
                     "chap_title": "The Institution",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/the-institution",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Valley of Hope",
-                            "file_path": "e006/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Valley of Hope & The Barracks",
+                            "file_path": "e006/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Fortress",
-                            "file_path": "e006/c002/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Rec Hall & The Safe House",
+                            "file_path": "e006/c002/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Intake",
-                            "file_path": "e006/c002/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Pasture & The Night Watch",
+                            "file_path": "e006/c002/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Cage",
-                            "file_path": "e006/c002/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Barracks",
-                            "file_path": "e006/c002/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Rec Hall",
-                            "file_path": "e006/c002/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Escape",
-                            "file_path": "e006/c002/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Intersection",
-                            "file_path": "e006/c002/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: The Safe House",
-                            "file_path": "e006/c002/s009.md"
-                        },
-                        {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: The Pasture",
-                            "file_path": "e006/c002/s010.md"
-                        },
-                        {
-                            "scene_num": 11,
-                            "scene_title": "Scene 11: The War Council",
-                            "file_path": "e006/c002/s011.md"
-                        },
-                        {
-                            "scene_num": 12,
-                            "scene_title": "Scene 12: The Nest",
-                            "file_path": "e006/c002/s012.md"
-                        },
-                        {
-                            "scene_num": 13,
-                            "scene_title": "Scene 13: The Night Watch",
-                            "file_path": "e006/c002/s013.md"
-                        },
-                        {
-                            "scene_num": 14,
-                            "scene_title": "Scene 14: The Morning Report",
-                            "file_path": "e006/c002/s014.md"
-                        },
-                        {
-                            "scene_num": 15,
-                            "scene_title": "Scene 15: The Pivot",
-                            "file_path": "e006/c002/s015.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: The Morning Report & The Pivot",
+                            "file_path": "e006/c002/p004.md"
                         }
                     ]
                 },
@@ -461,56 +271,21 @@
                     "chap_num": 3,
                     "chap_title": "Virginia Dominion University",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/virginia-dominion-university",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Thirteen-Hour Problem",
-                            "file_path": "e006/c003/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Thirteen-Hour Problem & The Tower of Words",
+                            "file_path": "e006/c003/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Home Field Advantage",
-                            "file_path": "e006/c003/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Sanctuary & The Dealbreaker",
+                            "file_path": "e006/c003/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Roll Call",
-                            "file_path": "e006/c003/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Tower of Words",
-                            "file_path": "e006/c003/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Sanctuary",
-                            "file_path": "e006/c003/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Life Sciences Hub",
-                            "file_path": "e006/c003/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Magic Carpet",
-                            "file_path": "e006/c003/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Hub",
-                            "file_path": "e006/c003/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: The Dealbreaker",
-                            "file_path": "e006/c003/s009.md"
-                        },
-                        {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: The Retreat",
-                            "file_path": "e006/c003/s010.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Retreat",
+                            "file_path": "e006/c003/p003.md"
                         }
                     ]
                 },
@@ -518,31 +293,16 @@
                     "chap_num": 4,
                     "chap_title": "Trek Up the East Coast",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/trek-up-the-east-coast",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Peninsula Run",
-                            "file_path": "e006/c004/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Peninsula Run & The New Jersey Layover",
+                            "file_path": "e006/c004/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Delaware Trap",
-                            "file_path": "e006/c004/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The New Jersey Layover",
-                            "file_path": "e006/c004/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Machine at Rest",
-                            "file_path": "e006/c004/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Hopeful Morning",
-                            "file_path": "e006/c004/s005.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Machine at Rest & The Hopeful Morning",
+                            "file_path": "e006/c004/p002.md"
                         }
                     ]
                 },
@@ -550,26 +310,21 @@
                     "chap_num": 5,
                     "chap_title": "Vermont",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/vermont",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Green Mountain Haul",
-                            "file_path": "e006/c005/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Green Mountain Haul",
+                            "file_path": "e006/c005/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Putney College Open House",
-                            "file_path": "e006/c005/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Putney College Open House",
+                            "file_path": "e006/c005/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Drive Back",
-                            "file_path": "e006/c005/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Fuel Stop",
-                            "file_path": "e006/c005/s004.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Drive Back & The Fuel Stop",
+                            "file_path": "e006/c005/p003.md"
                         }
                     ]
                 },
@@ -577,31 +332,21 @@
                     "chap_num": 6,
                     "chap_title": "An Ocean of an Idea",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/an-ocean-of-an-idea",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The New Jersey Pivot",
-                            "file_path": "e006/c006/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The New Jersey Pivot",
+                            "file_path": "e006/c006/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Juggernaut",
-                            "file_path": "e006/c006/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Juggernaut & The Ocean State Option",
+                            "file_path": "e006/c006/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Diner Debrief",
-                            "file_path": "e006/c006/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Ocean State Option",
-                            "file_path": "e006/c006/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Ocean State Arrival",
-                            "file_path": "e006/c006/s005.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Ocean State Arrival",
+                            "file_path": "e006/c006/p003.md"
                         }
                     ]
                 },
@@ -609,46 +354,16 @@
                     "chap_num": 7,
                     "chap_title": "The Commuter Loop",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/the-commuter-loop",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Holy Cow",
-                            "file_path": "e006/c007/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Holy Cow & The Bull Run",
+                            "file_path": "e006/c007/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Gateway Connection",
-                            "file_path": "e006/c007/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Sea Gate",
-                            "file_path": "e006/c007/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Bull Run",
-                            "file_path": "e006/c007/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Braxton Link",
-                            "file_path": "e006/c007/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Library Commons",
-                            "file_path": "e006/c007/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Debrief",
-                            "file_path": "e006/c007/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Upgrade",
-                            "file_path": "e006/c007/s008.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Braxton Link & The Upgrade",
+                            "file_path": "e006/c007/p002.md"
                         }
                     ]
                 },
@@ -656,51 +371,21 @@
                     "chap_num": 8,
                     "chap_title": "The Gap Year Protocol",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/the-gap-year-protocol",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Disassembly Date: July 8, 2003 Time: 6:30 PM Location: 1850 Delaney Street, Virginia Beach, Virginia",
-                            "file_path": "e006/c008/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: 1850 Delaney Street, Virginia Beach, Virginia & The Departure",
+                            "file_path": "e006/c008/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Portsmouth Project",
-                            "file_path": "e006/c008/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Visitor & The Hydrostatic Lock",
+                            "file_path": "e006/c008/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Fortress on West Main",
-                            "file_path": "e006/c008/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Departure",
-                            "file_path": "e006/c008/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Visitor",
-                            "file_path": "e006/c008/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Hydrostatic Lock",
-                            "file_path": "e006/c008/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Milestone Payment",
-                            "file_path": "e006/c008/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Fortress Blueprint",
-                            "file_path": "e006/c008/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: The Credential Hunt",
-                            "file_path": "e006/c008/s009.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Milestone Payment & The Credential Hunt",
+                            "file_path": "e006/c008/p003.md"
                         }
                     ]
                 },
@@ -708,61 +393,21 @@
                     "chap_num": 9,
                     "chap_title": "The Independent Grid",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/the-independent-grid",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Commute",
-                            "file_path": "e006/c009/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Commute & The Mole Lifestyle",
+                            "file_path": "e006/c009/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Concourse Connection",
-                            "file_path": "e006/c009/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Commuter Waiver & The Credential Check",
+                            "file_path": "e006/c009/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Call of the Bull",
-                            "file_path": "e006/c009/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Mole Lifestyle",
-                            "file_path": "e006/c009/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Commuter Waiver",
-                            "file_path": "e006/c009/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Anti-Sales Pitch",
-                            "file_path": "e006/c009/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: Refueling the Machine",
-                            "file_path": "e006/c009/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Bull Run",
-                            "file_path": "e006/c009/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: The Credential Check",
-                            "file_path": "e006/c009/s009.md"
-                        },
-                        {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: The Detour and The Grid",
-                            "file_path": "e006/c009/s010.md"
-                        },
-                        {
-                            "scene_num": 11,
-                            "scene_title": "Scene 11: The Debrief",
-                            "file_path": "e006/c009/s011.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Detour and The Grid & The Debrief",
+                            "file_path": "e006/c009/p003.md"
                         }
                     ]
                 }
@@ -777,46 +422,21 @@
                     "chap_num": 1,
                     "chap_title": "The Fleet Upgrade",
                     "chap_url": "/raggiesoft-books/books/nichole/the-gap-year/the-fleet-upgrade",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Dual-Grid Dilemma",
-                            "file_path": "e007/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Dual-Grid Dilemma & The Christmas Compiler",
+                            "file_path": "e007/c001/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Medical Handover",
-                            "file_path": "e007/c001/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Winter Test & The Silent Investor",
+                            "file_path": "e007/c001/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Christmas Compiler",
-                            "file_path": "e007/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Winter Test",
-                            "file_path": "e007/c001/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Grid Returns",
-                            "file_path": "e007/c001/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Long Goodbye",
-                            "file_path": "e007/c001/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Silent Investor",
-                            "file_path": "e007/c001/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Final Transfer",
-                            "file_path": "e007/c001/s008.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Final Transfer",
+                            "file_path": "e007/c001/p003.md"
                         }
                     ]
                 },
@@ -824,46 +444,16 @@
                     "chap_num": 2,
                     "chap_title": "The Commuter Protocol",
                     "chap_url": "/raggiesoft-books/books/nichole/the-gap-year/the-commuter-protocol",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Intake",
-                            "file_path": "e007/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Intake & The Liability Lie",
+                            "file_path": "e007/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Application",
-                            "file_path": "e007/c002/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Hardship Loophole",
-                            "file_path": "e007/c002/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Liability Lie",
-                            "file_path": "e007/c002/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Bridge Fund",
-                            "file_path": "e007/c002/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Foundry",
-                            "file_path": "e007/c002/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: Early Launch",
-                            "file_path": "e007/c002/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Zero-Barrier Routine",
-                            "file_path": "e007/c002/s008.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Bridge Fund & The Zero-Barrier Routine",
+                            "file_path": "e007/c002/p002.md"
                         }
                     ]
                 },
@@ -871,31 +461,16 @@
                     "chap_num": 3,
                     "chap_title": "Exploring Braxton",
                     "chap_url": "/raggiesoft-books/books/nichole/the-gap-year/exploring-braxton",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Zero-Friction Protocol",
-                            "file_path": "e007/c003/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Zero-Friction Protocol & The Safe Harbor",
+                            "file_path": "e007/c003/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The River and the System",
-                            "file_path": "e007/c003/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Edge of the Grid",
-                            "file_path": "e007/c003/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Safe Harbor",
-                            "file_path": "e007/c003/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Gen-Ed Pact",
-                            "file_path": "e007/c003/s005.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Gen-Ed Pact",
+                            "file_path": "e007/c003/p002.md"
                         }
                     ]
                 },
@@ -903,11 +478,11 @@
                     "chap_num": 4,
                     "chap_title": "The Sync",
                     "chap_url": "/raggiesoft-books/books/nichole/the-gap-year/the-sync",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The War Room",
-                            "file_path": "e007/c004/s001.md"
+                            "part_num": 1,
+                            "part_title": "The War Room",
+                            "file_path": "e007/c004/p001.md"
                         }
                     ]
                 },
@@ -915,41 +490,11 @@
                     "chap_num": 5,
                     "chap_title": "The Fortress Test",
                     "chap_url": "/raggiesoft-books/books/nichole/the-gap-year/the-fortress-test",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Severed Link",
-                            "file_path": "e007/c005/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Siege",
-                            "file_path": "e007/c005/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Watch",
-                            "file_path": "e007/c005/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The All-Clear",
-                            "file_path": "e007/c005/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Blueprint",
-                            "file_path": "e007/c005/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Biological Override",
-                            "file_path": "e007/c005/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Sacred Trust",
-                            "file_path": "e007/c005/s007.md"
+                            "part_num": 1,
+                            "part_title": "The Severed Link & The Sacred Trust",
+                            "file_path": "e007/c005/p001.md"
                         }
                     ]
                 }
@@ -964,31 +509,16 @@
                     "chap_num": 1,
                     "chap_title": "The First Semester",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/the-first-semester",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Sorting Failure",
-                            "file_path": "e008/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Sorting Failure & The Tactical Retreat",
+                            "file_path": "e008/c001/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The System Reboot",
-                            "file_path": "e008/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Assembly",
-                            "file_path": "e008/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Tactical Retreat",
-                            "file_path": "e008/c001/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Fortress Weekend",
-                            "file_path": "e008/c001/s005.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Fortress Weekend",
+                            "file_path": "e008/c001/p002.md"
                         }
                     ]
                 },
@@ -996,81 +526,26 @@
                     "chap_num": 2,
                     "chap_title": "The Machine in Motion",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/the-machine-in-motion",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Zero-Friction Morning",
-                            "file_path": "e008/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Zero-Friction Morning & The Transit Chase",
+                            "file_path": "e008/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Commute",
-                            "file_path": "e008/c002/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Checkpoint Failure & The Treatment Protocol",
+                            "file_path": "e008/c002/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Gen-Ed Pact",
-                            "file_path": "e008/c002/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Double Ambush & The Filing",
+                            "file_path": "e008/c002/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The First Lecture",
-                            "file_path": "e008/c002/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Clinical Override",
-                            "file_path": "e008/c002/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Green Light",
-                            "file_path": "e008/c002/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Transit Chase",
-                            "file_path": "e008/c002/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Checkpoint Failure",
-                            "file_path": "e008/c002/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: The Realization",
-                            "file_path": "e008/c002/s009.md"
-                        },
-                        {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: The Wrap Up",
-                            "file_path": "e008/c002/s010.md"
-                        },
-                        {
-                            "scene_num": 11,
-                            "scene_title": "Scene 11: The Treatment Protocol",
-                            "file_path": "e008/c002/s011.md"
-                        },
-                        {
-                            "scene_num": 12,
-                            "scene_title": "Scene 12: The Double Ambush",
-                            "file_path": "e008/c002/s012.md"
-                        },
-                        {
-                            "scene_num": 13,
-                            "scene_title": "Scene 13: The Sub-Level Sanctuary",
-                            "file_path": "e008/c002/s013.md"
-                        },
-                        {
-                            "scene_num": 14,
-                            "scene_title": "Scene 14: The Filing",
-                            "file_path": "e008/c002/s014.md"
-                        },
-                        {
-                            "scene_num": 15,
-                            "scene_title": "Scene 15: The Loudmouth",
-                            "file_path": "e008/c002/s015.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: The Loudmouth",
+                            "file_path": "e008/c002/p004.md"
                         }
                     ]
                 },
@@ -1078,21 +553,16 @@
                     "chap_num": 3,
                     "chap_title": "Nichole Adapts",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/nichole-adapts",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Engine Failure",
-                            "file_path": "e008/c003/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Engine Failure",
+                            "file_path": "e008/c003/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Malpractice Shield",
-                            "file_path": "e008/c003/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Integration",
-                            "file_path": "e008/c003/s003.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Malpractice Shield & The Integration",
+                            "file_path": "e008/c003/p002.md"
                         }
                     ]
                 },
@@ -1100,31 +570,16 @@
                     "chap_num": 4,
                     "chap_title": "The Procedure: \"The Tune-Up\"",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/the-procedure-the-tune-up",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Handover (The Night Before) Time: 8:00 PM",
-                            "file_path": "e008/c004/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Handover (The Night Before) Time: 8:00 PM & The Separation",
+                            "file_path": "e008/c004/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Admission",
-                            "file_path": "e008/c004/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Surgical Consult",
-                            "file_path": "e008/c004/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Separation",
-                            "file_path": "e008/c004/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The War Room",
-                            "file_path": "e008/c004/s005.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The War Room",
+                            "file_path": "e008/c004/p002.md"
                         }
                     ]
                 },
@@ -1132,41 +587,21 @@
                     "chap_num": 5,
                     "chap_title": "Nichole\u2019s Recovery",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/nichole-s-recovery",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Recovery Room",
-                            "file_path": "e008/c005/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Recovery Room & The Discharge",
+                            "file_path": "e008/c005/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Shift Partner",
-                            "file_path": "e008/c005/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The \\ & The Night Shift",
+                            "file_path": "e008/c005/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Discharge",
-                            "file_path": "e008/c005/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The \\",
-                            "file_path": "e008/c005/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Clinical Standard",
-                            "file_path": "e008/c005/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Night Shift",
-                            "file_path": "e008/c005/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: New Year's Eve",
-                            "file_path": "e008/c005/s007.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: New Year's Eve",
+                            "file_path": "e008/c005/p003.md"
                         }
                     ]
                 },
@@ -1174,31 +609,16 @@
                     "chap_num": 6,
                     "chap_title": "The Routine",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/the-routine",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Winter Siege",
-                            "file_path": "e008/c006/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Winter Siege & The Physical Toll",
+                            "file_path": "e008/c006/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Fuel Station",
-                            "file_path": "e008/c006/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Creative Session",
-                            "file_path": "e008/c006/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Physical Toll",
-                            "file_path": "e008/c006/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Downgrade",
-                            "file_path": "e008/c006/s005.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Downgrade",
+                            "file_path": "e008/c006/p002.md"
                         }
                     ]
                 }
@@ -1213,11 +633,11 @@
                     "chap_num": 1,
                     "chap_title": "Concept: The Joint Defense",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-junior-year/concept-the-joint-defense",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Outcome",
-                            "file_path": "e009/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "The Outcome",
+                            "file_path": "e009/c001/p001.md"
                         }
                     ]
                 }
@@ -1232,16 +652,11 @@
                     "chap_num": 1,
                     "chap_title": "Graduation",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-senior-year/graduation",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Protocol Negotiation",
-                            "file_path": "e010/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The \\",
-                            "file_path": "e010/c001/s002.md"
+                            "part_num": 1,
+                            "part_title": "The Protocol Negotiation & The \\",
+                            "file_path": "e010/c001/p001.md"
                         }
                     ]
                 }
@@ -1256,21 +671,11 @@
                     "chap_num": 1,
                     "chap_title": "An Idea",
                     "chap_url": "/raggiesoft-books/books/nichole/bennett-dynamics/an-idea",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Incorporation",
-                            "file_path": "e011/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Home Office",
-                            "file_path": "e011/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Tablet Revolution",
-                            "file_path": "e011/c001/s003.md"
+                            "part_num": 1,
+                            "part_title": "The Incorporation & The Tablet Revolution",
+                            "file_path": "e011/c001/p001.md"
                         }
                     ]
                 }
@@ -1285,26 +690,11 @@
                     "chap_num": 1,
                     "chap_title": "The Long Retreat",
                     "chap_url": "/raggiesoft-books/books/nichole/the-twilight-years/the-long-retreat",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Last Funeral",
-                            "file_path": "e012/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The City Problem",
-                            "file_path": "e012/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Decision",
-                            "file_path": "e012/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Return",
-                            "file_path": "e012/c001/s004.md"
+                            "part_num": 1,
+                            "part_title": "The Last Funeral & The Return",
+                            "file_path": "e012/c001/p001.md"
                         }
                     ]
                 },
@@ -1312,21 +702,11 @@
                     "chap_num": 2,
                     "chap_title": "The Slow Rust",
                     "chap_url": "/raggiesoft-books/books/nichole/the-twilight-years/the-slow-rust",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The First Breakdown",
-                            "file_path": "e012/c002/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Shared Breath",
-                            "file_path": "e012/c002/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Final Perimeter",
-                            "file_path": "e012/c002/s003.md"
+                            "part_num": 1,
+                            "part_title": "The First Breakdown & The Final Perimeter",
+                            "file_path": "e012/c002/p001.md"
                         }
                     ]
                 }
@@ -1341,16 +721,11 @@
                     "chap_num": 1,
                     "chap_title": "The Synchronized Shutdown",
                     "chap_url": "/raggiesoft-books/books/nichole/the-end/the-synchronized-shutdown",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Date: February 14, 2058 Age: 72 Location: The Master Suite, 95 West Main Road, Portsmouth, RI",
-                            "file_path": "e013/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Epilogue: The Legacy",
-                            "file_path": "e013/c001/s002.md"
+                            "part_num": 1,
+                            "part_title": "The Master Suite, 95 West Main Road, Portsmouth, RI & The Legacy",
+                            "file_path": "e013/c001/p001.md"
                         }
                     ]
                 }

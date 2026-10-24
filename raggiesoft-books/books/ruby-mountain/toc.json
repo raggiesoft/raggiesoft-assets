@@ -6,14 +6,14 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/ruby-mountain.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "233 KB",
+        "epub": "232 KB",
         "pdf": "648 KB",
-        "text_epub": "233 KB",
+        "text_epub": "232 KB",
         "text_pdf": "648 KB",
-        "epub_bytes": 238842,
-        "pdf_bytes": 663805,
-        "text_epub_bytes": 238843,
-        "text_pdf_bytes": 663805
+        "epub_bytes": 237598,
+        "pdf_bytes": 663054,
+        "text_epub_bytes": 237599,
+        "text_pdf_bytes": 663054
     },
     "eras": [
         {
@@ -25,21 +25,11 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Eve of Exile",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism/chapter-1-the-eve-of-exile",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Traitor",
-                            "file_path": "e001/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Vision",
-                            "file_path": "e001/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Migration",
-                            "file_path": "e001/c001/s003.md"
+                            "part_num": 1,
+                            "part_title": "The Traitor & The Migration",
+                            "file_path": "e001/c001/p001.md"
                         }
                     ]
                 },
@@ -47,26 +37,11 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Gates of Exile",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism/chapter-2-the-gates-of-exile",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Final Ultimatum",
-                            "file_path": "e001/c002/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Standoff",
-                            "file_path": "e001/c002/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Eviction",
-                            "file_path": "e001/c002/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Assessment",
-                            "file_path": "e001/c002/s004.md"
+                            "part_num": 1,
+                            "part_title": "The Final Ultimatum & The Assessment",
+                            "file_path": "e001/c002/p001.md"
                         }
                     ]
                 },
@@ -74,16 +49,11 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Architecture of Survival",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism/chapter-3-the-architecture-of-survival",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Diagnostics",
-                            "file_path": "e001/c003/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Truman Execution",
-                            "file_path": "e001/c003/s002.md"
+                            "part_num": 1,
+                            "part_title": "The Diagnostics & The Truman Execution",
+                            "file_path": "e001/c003/p001.md"
                         }
                     ]
                 }
@@ -98,36 +68,16 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Coastal Assessment",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-vanessa/chapter-1-the-coastal-assessment",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Handover",
-                            "file_path": "e002/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Handover & The Island Anomaly",
+                            "file_path": "e002/c001/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Baseline",
-                            "file_path": "e002/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The System Error",
-                            "file_path": "e002/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Island Anomaly",
-                            "file_path": "e002/c001/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Domestic Delusion",
-                            "file_path": "e002/c001/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Autonomous Transfer",
-                            "file_path": "e002/c001/s006.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Domestic Delusion & The Autonomous Transfer",
+                            "file_path": "e002/c001/p002.md"
                         }
                     ]
                 }
@@ -142,41 +92,16 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: SOS from the Salish Sea",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-1-sos-from-the-salish-sea",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Dial-Up Escape",
-                            "file_path": "e003/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Dial-Up Escape & The Mountain Mobilizes",
+                            "file_path": "e003/c001/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Coffee Shop Contingency",
-                            "file_path": "e003/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Mountain Mobilizes",
-                            "file_path": "e003/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Wrong Schedule",
-                            "file_path": "e003/c001/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Free Passage",
-                            "file_path": "e003/c001/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Widening Gap",
-                            "file_path": "e003/c001/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Terminal",
-                            "file_path": "e003/c001/s007.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Wrong Schedule & The Terminal",
+                            "file_path": "e003/c001/p002.md"
                         }
                     ]
                 },
@@ -184,41 +109,16 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Mainland",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-2-the-mainland",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Reunion",
-                            "file_path": "e003/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Reunion & The Gateway",
+                            "file_path": "e003/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Ascent and the Truth",
-                            "file_path": "e003/c002/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Island Trap",
-                            "file_path": "e003/c002/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Gateway",
-                            "file_path": "e003/c002/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: Prospector Road & The Ticking Clock",
-                            "file_path": "e003/c002/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Rationalization",
-                            "file_path": "e003/c002/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: Johnny is Home",
-                            "file_path": "e003/c002/s007.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Prospector Road & The Ticking Clock & Johnny is Home",
+                            "file_path": "e003/c002/p002.md"
                         }
                     ]
                 },
@@ -226,11 +126,11 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Curriculum",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-3-the-curriculum",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Proxy",
-                            "file_path": "e003/c003/s001.md"
+                            "part_num": 1,
+                            "part_title": "The Proxy",
+                            "file_path": "e003/c003/p001.md"
                         }
                     ]
                 },
@@ -238,31 +138,16 @@
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Annihilation of Vanessa Hayes",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-4-the-annihilation-of-vanessa-hayes",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Pro Se",
-                            "file_path": "e003/c004/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Pro Se & The Federal Trap",
+                            "file_path": "e003/c004/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Paper Trail",
-                            "file_path": "e003/c004/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Federal Trap",
-                            "file_path": "e003/c004/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Recess",
-                            "file_path": "e003/c004/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Gavel",
-                            "file_path": "e003/c004/s005.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Recess & The Gavel",
+                            "file_path": "e003/c004/p002.md"
                         }
                     ]
                 },
@@ -270,41 +155,21 @@
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Golden Window",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-5-the-golden-window",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Baseline Telemetry",
-                            "file_path": "e003/c005/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Baseline Telemetry & The Winter Manifest",
+                            "file_path": "e003/c005/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Sovereign Blueprint",
-                            "file_path": "e003/c005/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Legal Nuke & The Perimeter",
+                            "file_path": "e003/c005/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Winter Manifest",
-                            "file_path": "e003/c005/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Legal Nuke",
-                            "file_path": "e003/c005/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Anchor",
-                            "file_path": "e003/c005/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Perimeter",
-                            "file_path": "e003/c005/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Final Perimeter",
-                            "file_path": "e003/c005/s007.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Final Perimeter",
+                            "file_path": "e003/c005/p003.md"
                         }
                     ]
                 },
@@ -312,31 +177,16 @@
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Anomaly",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-6-the-anomaly",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Pineapple Express",
-                            "file_path": "e003/c006/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Pineapple Express & The Air-Gap",
+                            "file_path": "e003/c006/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Checkpoint",
-                            "file_path": "e003/c006/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Air-Gap",
-                            "file_path": "e003/c006/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Escort",
-                            "file_path": "e003/c006/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Tactical Seed",
-                            "file_path": "e003/c006/s005.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Escort & The Tactical Seed",
+                            "file_path": "e003/c006/p002.md"
                         }
                     ]
                 },
@@ -344,16 +194,11 @@
                     "chap_num": 7,
                     "chap_title": "Chapter 7: The Model Collapse",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-7-the-model-collapse",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Backchannel",
-                            "file_path": "e003/c007/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The War Council",
-                            "file_path": "e003/c007/s002.md"
+                            "part_num": 1,
+                            "part_title": "The Backchannel & The War Council",
+                            "file_path": "e003/c007/p001.md"
                         }
                     ]
                 },
@@ -361,21 +206,11 @@
                     "chap_num": 8,
                     "chap_title": "Chapter 8: The Sovereign Pivot",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-8-the-sovereign-pivot",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: All Hands",
-                            "file_path": "e003/c008/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Rebrand",
-                            "file_path": "e003/c008/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Line of Fire",
-                            "file_path": "e003/c008/s003.md"
+                            "part_num": 1,
+                            "part_title": "All Hands & The Line of Fire",
+                            "file_path": "e003/c008/p001.md"
                         }
                     ]
                 },
@@ -383,11 +218,11 @@
                     "chap_num": 9,
                     "chap_title": "Chapter 9: The Redline",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-9-the-redline",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Breaking Point",
-                            "file_path": "e003/c009/s001.md"
+                            "part_num": 1,
+                            "part_title": "The Breaking Point",
+                            "file_path": "e003/c009/p001.md"
                         }
                     ]
                 }
@@ -402,31 +237,16 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Centennial Eve",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-centennial-gala/chapter-1-the-centennial-eve",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Dining Hall & The Iron Shield",
-                            "file_path": "e004/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Dining Hall & The Iron Shield & The Revelation",
+                            "file_path": "e004/c001/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The May Variable",
-                            "file_path": "e004/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Switchback & The Sanctuary",
-                            "file_path": "e004/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Revelation",
-                            "file_path": "e004/c001/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Midnight War Room",
-                            "file_path": "e004/c001/s005.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Midnight War Room",
+                            "file_path": "e004/c001/p002.md"
                         }
                     ]
                 },
@@ -434,36 +254,16 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 4: The Drawbridge",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-centennial-gala/chapter-4-the-drawbridge",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Waking Fortress",
-                            "file_path": "e004/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Waking Fortress & The Five-Mile Moat",
+                            "file_path": "e004/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Underworld",
-                            "file_path": "e004/c002/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Heat of the Kitchen",
-                            "file_path": "e004/c002/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Five-Mile Moat",
-                            "file_path": "e004/c002/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The 1903 Illusion",
-                            "file_path": "e004/c002/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Golden Hour",
-                            "file_path": "e004/c002/s006.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The 1903 Illusion & The Golden Hour",
+                            "file_path": "e004/c002/p002.md"
                         }
                     ]
                 },
@@ -471,31 +271,16 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 5: The Centennial Gala",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-centennial-gala/chapter-5-the-centennial-gala",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Grand Seating",
-                            "file_path": "e004/c003/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Grand Seating & The Palate Cleanser",
+                            "file_path": "e004/c003/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Architecture of Influence",
-                            "file_path": "e004/c003/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The 1.3 Billion Dollar Ghost",
-                            "file_path": "e004/c003/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Palate Cleanser",
-                            "file_path": "e004/c003/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Sanctuary",
-                            "file_path": "e004/c003/s005.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Sanctuary",
+                            "file_path": "e004/c003/p002.md"
                         }
                     ]
                 },
@@ -503,31 +288,16 @@
                     "chap_num": 4,
                     "chap_title": "Chapter 6: The Evacuation",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-centennial-gala/chapter-6-the-evacuation",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Cascades Concrete",
-                            "file_path": "e004/c004/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Cascades Concrete & The Heavy Escort",
+                            "file_path": "e004/c004/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Brutal Awakening",
-                            "file_path": "e004/c004/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Heavy Escort",
-                            "file_path": "e004/c004/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Handoff",
-                            "file_path": "e004/c004/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Steel Drops",
-                            "file_path": "e004/c004/s005.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Handoff & The Steel Drops",
+                            "file_path": "e004/c004/p002.md"
                         }
                     ]
                 }
@@ -542,26 +312,16 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Diana\u2019s Lessons",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-winter-on-the-mountain/chapter-1-diana-s-lessons",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Winter Syllabus",
-                            "file_path": "e005/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Winter Syllabus & The Presentation",
+                            "file_path": "e005/c001/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Practical Lab",
-                            "file_path": "e005/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Presentation",
-                            "file_path": "e005/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Pack",
-                            "file_path": "e005/c001/s004.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Pack",
+                            "file_path": "e005/c001/p002.md"
                         }
                     ]
                 },
@@ -569,11 +329,11 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Fortress Within",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-winter-on-the-mountain/chapter-2-the-fortress-within",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Pajama Protocol",
-                            "file_path": "e005/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "The Pajama Protocol",
+                            "file_path": "e005/c002/p001.md"
                         }
                     ]
                 },
@@ -581,61 +341,26 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: Cascades Concrete",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-winter-on-the-mountain/chapter-3-cascades-concrete",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Whiteout",
-                            "file_path": "e005/c003/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Whiteout & The Anchor and the Kitchen",
+                            "file_path": "e005/c003/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Tether",
-                            "file_path": "e005/c003/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Thaw & The West Wing",
+                            "file_path": "e005/c003/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Anchor and the Kitchen",
-                            "file_path": "e005/c003/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Heist & The Tripwire",
+                            "file_path": "e005/c003/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Thaw",
-                            "file_path": "e005/c003/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Deep Clean",
-                            "file_path": "e005/c003/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The West Wing",
-                            "file_path": "e005/c003/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Heist",
-                            "file_path": "e005/c003/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Heart of the Keep",
-                            "file_path": "e005/c003/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: The Tripwire",
-                            "file_path": "e005/c003/s009.md"
-                        },
-                        {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: The SS7 Layer",
-                            "file_path": "e005/c003/s010.md"
-                        },
-                        {
-                            "scene_num": 11,
-                            "scene_title": "Scene 11: The Legacy Grid",
-                            "file_path": "e005/c003/s011.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: The SS7 Layer & The Legacy Grid",
+                            "file_path": "e005/c003/p004.md"
                         }
                     ]
                 },
@@ -643,11 +368,11 @@
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Air-Gap Transition",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-winter-on-the-mountain/chapter-4-the-air-gap-transition",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Logistical Triage",
-                            "file_path": "e005/c004/s001.md"
+                            "part_num": 1,
+                            "part_title": "Logistical Triage",
+                            "file_path": "e005/c004/p001.md"
                         }
                     ]
                 },
@@ -655,11 +380,11 @@
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Brotherhood of the Air-Gap",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-winter-on-the-mountain/chapter-5-the-brotherhood-of-the-air-gap",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The First Summit",
-                            "file_path": "e005/c005/s001.md"
+                            "part_num": 1,
+                            "part_title": "The First Summit",
+                            "file_path": "e005/c005/p001.md"
                         }
                     ]
                 }
@@ -674,16 +399,11 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Sovereign Tribunal",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-vanessa-s-downfall/chapter-1-the-sovereign-tribunal",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Broadcast",
-                            "file_path": "e006/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Sentencing",
-                            "file_path": "e006/c001/s002.md"
+                            "part_num": 1,
+                            "part_title": "The Broadcast & The Sentencing",
+                            "file_path": "e006/c001/p001.md"
                         }
                     ]
                 }
@@ -698,16 +418,11 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Brotherhood of the Air-Gap",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-a-rogue-inspector/chapter-1-the-brotherhood-of-the-air-gap",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: A Pulled Permit",
-                            "file_path": "e007/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Vanguard Assembly",
-                            "file_path": "e007/c001/s002.md"
+                            "part_num": 1,
+                            "part_title": "A Pulled Permit & The Vanguard Assembly",
+                            "file_path": "e007/c001/p001.md"
                         }
                     ]
                 },
@@ -715,16 +430,11 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Proxy War",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-a-rogue-inspector/chapter-2-the-proxy-war",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Judicial Fury",
-                            "file_path": "e007/c002/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Rendezvous",
-                            "file_path": "e007/c002/s002.md"
+                            "part_num": 1,
+                            "part_title": "Judicial Fury & The Rendezvous",
+                            "file_path": "e007/c002/p001.md"
                         }
                     ]
                 }
@@ -739,16 +449,11 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 3: Mountain Rules",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-air-gap-chronicles/chapter-3-mountain-rules",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Rookie",
-                            "file_path": "e008/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Gridmaster",
-                            "file_path": "e008/c001/s002.md"
+                            "part_num": 1,
+                            "part_title": "The Rookie & The Gridmaster",
+                            "file_path": "e008/c001/p001.md"
                         }
                     ]
                 },
@@ -756,16 +461,11 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 4: The 911 Fallacy",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-air-gap-chronicles/chapter-4-the-911-fallacy",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Civilian Instinct",
-                            "file_path": "e008/c002/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Apex Protocol",
-                            "file_path": "e008/c002/s002.md"
+                            "part_num": 1,
+                            "part_title": "The Civilian Instinct & The Apex Protocol",
+                            "file_path": "e008/c002/p001.md"
                         }
                     ]
                 }

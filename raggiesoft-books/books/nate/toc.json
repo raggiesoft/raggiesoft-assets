@@ -6,14 +6,14 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/nate.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "70 KB",
+        "epub": "69 KB",
         "pdf": "198 KB",
-        "text_epub": "70 KB",
+        "text_epub": "69 KB",
         "text_pdf": "198 KB",
-        "epub_bytes": 71648,
-        "pdf_bytes": 202797,
-        "text_epub_bytes": 71654,
-        "text_pdf_bytes": 202797
+        "epub_bytes": 70992,
+        "pdf_bytes": 202768,
+        "text_epub_bytes": 70990,
+        "text_pdf_bytes": 202768
     },
     "eras": [
         {
@@ -25,11 +25,11 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Triplet Anomaly \u2014 Saturday, April 16, 1994",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-architecture-of-safe-spaces/chapter-1-the-triplet-anomaly-saturday-april-16-1994",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Rhythmic Drumming",
-                            "file_path": "e001/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "The Rhythmic Drumming",
+                            "file_path": "e001/c001/p001.md"
                         }
                     ]
                 }
@@ -44,61 +44,21 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Line in the Sand - Friday, November 10, 2006",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-demolition-of-the-cage/chapter-1-the-line-in-the-sand-friday-november-10-2006",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Hydraulic Hiss And Heavy",
-                            "file_path": "e002/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Hydraulic Hiss And Heavy & The Transition From The Chaotic",
+                            "file_path": "e002/c001/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Nate Slowly Turned His Manual",
-                            "file_path": "e002/c001/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Sedan Hummed Steadily Along & Evelyn Walked Back Into",
+                            "file_path": "e002/c001/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Digital Clock",
-                            "file_path": "e002/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Transition From The Chaotic",
-                            "file_path": "e002/c001/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Sedan Hummed Steadily Along",
-                            "file_path": "e002/c001/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: Evelyn Turned The Sedan Into",
-                            "file_path": "e002/c001/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: Placeholder For Local Generation",
-                            "file_path": "e002/c001/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Hot Water Had Done",
-                            "file_path": "e002/c001/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: Evelyn Walked Back Into",
-                            "file_path": "e002/c001/s009.md"
-                        },
-                        {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: The Transition From Chronic Survival-Mode",
-                            "file_path": "e002/c001/s010.md"
-                        },
-                        {
-                            "scene_num": 11,
-                            "scene_title": "Scene 11: Nate Woke Up",
-                            "file_path": "e002/c001/s011.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Transition From Chronic Survival-Mode & Nate Woke Up",
+                            "file_path": "e002/c001/p003.md"
                         }
                     ]
                 },
@@ -106,31 +66,16 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Reinforcements - Saturday, November 11, 2006",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-demolition-of-the-cage/chapter-2-the-reinforcements-saturday-november-11-2006",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Nate Woke Up",
-                            "file_path": "e002/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Nate Woke Up & The Click Of The Phone",
+                            "file_path": "e002/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Fluorescent Lights Of Lambert-St",
-                            "file_path": "e002/c002/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Click Of The Phone",
-                            "file_path": "e002/c002/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Crisp Bright November Air",
-                            "file_path": "e002/c002/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Heavy Frosted Glass Doors",
-                            "file_path": "e002/c002/s005.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Crisp Bright November Air & The Heavy Frosted Glass Doors",
+                            "file_path": "e002/c002/p002.md"
                         }
                     ]
                 },
@@ -138,26 +83,16 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: Christmas Holiday \u2013 Saturday, December 23<sup>rd</sup>, 2026",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-demolition-of-the-cage/chapter-3-christmas-holiday-saturday-december-23rd-2026",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Chesapeake Bay Mall Was",
-                            "file_path": "e002/c003/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Chesapeake Bay Mall Was & The Giant Cheese-Covered Pretzel Had",
+                            "file_path": "e002/c003/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Glass Elevator Chimed",
-                            "file_path": "e002/c003/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Giant Cheese-Covered Pretzel Had",
-                            "file_path": "e002/c003/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Heavy Glass Doors",
-                            "file_path": "e002/c003/s004.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Heavy Glass Doors",
+                            "file_path": "e002/c003/p002.md"
                         }
                     ]
                 }
@@ -172,21 +107,11 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Fortress \u2013 Thursday, August 23, 2007",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-architecture-of-a-safe-space/chapter-1-the-fortress-thursday-august-23-2007",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Hydraulic Hiss",
-                            "file_path": "e003/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The #25 Bus Groaned",
-                            "file_path": "e003/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Transition From The Late-Summer",
-                            "file_path": "e003/c001/s003.md"
+                            "part_num": 1,
+                            "part_title": "The Hydraulic Hiss & The Transition From The Late-Summer",
+                            "file_path": "e003/c001/p001.md"
                         }
                     ]
                 },
@@ -194,36 +119,16 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Logistics of Trust \u2013 Friday, August 24, 2007",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-architecture-of-a-safe-space/chapter-2-the-logistics-of-trust-friday-august-24-2007",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Alarm Went Off",
-                            "file_path": "e003/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Alarm Went Off & The 1130 Am Dismissal Was",
+                            "file_path": "e003/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: At Exactly Ten Minutes",
-                            "file_path": "e003/c002/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Transition Out",
-                            "file_path": "e003/c002/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The 1130 Am Dismissal Was",
-                            "file_path": "e003/c002/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Community College Of Hampton",
-                            "file_path": "e003/c002/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: Saturday Morning Was Completely Silent",
-                            "file_path": "e003/c002/s006.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Community College Of Hampton & Saturday Morning Was Completely Silent",
+                            "file_path": "e003/c002/p002.md"
                         }
                     ]
                 },
@@ -231,11 +136,11 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: Expanding the Perimeter \u2013 Monday, August 27, 2007",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-architecture-of-a-safe-space/chapter-3-expanding-the-perimeter-monday-august-27-2007",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Weekend Ended But",
-                            "file_path": "e003/c003/s001.md"
+                            "part_num": 1,
+                            "part_title": "The Weekend Ended But",
+                            "file_path": "e003/c003/p001.md"
                         }
                     ]
                 }

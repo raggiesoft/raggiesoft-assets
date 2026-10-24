@@ -7,13 +7,13 @@
     "next_series_url": "",
     "ebook_sizes": {
         "epub": "83 KB",
-        "pdf": "237 KB",
+        "pdf": "236 KB",
         "text_epub": "83 KB",
-        "text_pdf": "237 KB",
-        "epub_bytes": 85365,
-        "pdf_bytes": 242348,
-        "text_epub_bytes": 85366,
-        "text_pdf_bytes": 242348
+        "text_pdf": "236 KB",
+        "epub_bytes": 84490,
+        "pdf_bytes": 241676,
+        "text_epub_bytes": 84495,
+        "text_pdf_bytes": 241676
     },
     "eras": [
         {
@@ -25,21 +25,11 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Gathering Storm \u2013 Tuesday, February 9, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-1-the-gathering-storm-tuesday-february-9-2021",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Best Laid Plans \u2013 7:30 PM",
-                            "file_path": "e001/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Anchor and the Watch \u2013 8:15 PM",
-                            "file_path": "e001/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Ten O'Clock News \u2013 10:00 PM",
-                            "file_path": "e001/c001/s003.md"
+                            "part_num": 1,
+                            "part_title": "Best Laid Plans \u2013 7:30 PM & The Ten O'Clock News \u2013 10:00 PM",
+                            "file_path": "e001/c001/p001.md"
                         }
                     ]
                 },
@@ -47,26 +37,11 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Routine \u2013 Wednesday, February 10, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-2-the-routine-wednesday-february-10-2021",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Departure \u2013 7:00 AM",
-                            "file_path": "e001/c002/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Interlude: The Shifting Models \u2013 12:15 PM",
-                            "file_path": "e001/c002/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Right Call \u2013 3:45 PM",
-                            "file_path": "e001/c002/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Inventory \u2013 6:30 PM",
-                            "file_path": "e001/c002/s004.md"
+                            "part_num": 1,
+                            "part_title": "The Departure \u2013 7:00 AM & The Inventory \u2013 6:30 PM",
+                            "file_path": "e001/c002/p001.md"
                         }
                     ]
                 },
@@ -74,11 +49,11 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Ice \u2013 Thursday, February 11, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-3-the-ice-thursday-february-11-2021",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Video Link \u2013 7:00 AM",
-                            "file_path": "e001/c003/s001.md"
+                            "part_num": 1,
+                            "part_title": "The Video Link \u2013 7:00 AM",
+                            "file_path": "e001/c003/p001.md"
                         }
                     ]
                 },
@@ -86,11 +61,11 @@
                     "chap_num": 4,
                     "chap_title": "Chapter 4: Landing at TKI \u2013 Friday, February 12, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-4-landing-at-tki-friday-february-12-2021",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Interlude: The Vanguard Lands \u2013 10:15 AM",
-                            "file_path": "e001/c004/s001.md"
+                            "part_num": 1,
+                            "part_title": "Interlude: The Vanguard Lands \u2013 10:15 AM",
+                            "file_path": "e001/c004/p001.md"
                         }
                     ]
                 },
@@ -98,11 +73,11 @@
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Deep Freeze \u2013 Saturday, February 13, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-5-the-deep-freeze-saturday-february-13-2021",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Agony of Proximity \u2013 8:30 AM",
-                            "file_path": "e001/c005/s001.md"
+                            "part_num": 1,
+                            "part_title": "The Agony of Proximity \u2013 8:30 AM",
+                            "file_path": "e001/c005/p001.md"
                         }
                     ]
                 },
@@ -110,11 +85,11 @@
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Gridline \u2013 Sunday, February 14, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-6-the-gridline-sunday-february-14-2021",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Gentlemen Only \u2013 6:45 PM",
-                            "file_path": "e001/c006/s001.md"
+                            "part_num": 1,
+                            "part_title": "Gentlemen Only \u2013 6:45 PM",
+                            "file_path": "e001/c006/p001.md"
                         }
                     ]
                 },
@@ -122,36 +97,16 @@
                     "chap_num": 7,
                     "chap_title": "Chapter 7: The Severance \u2013 Monday, February 15, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-7-the-severance-monday-february-15-2021",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Going Dark \u2013 1:20 AM",
-                            "file_path": "e001/c007/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Going Dark \u2013 1:20 AM & The Deep Freeze \u2013 10:30 AM",
+                            "file_path": "e001/c007/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Interlude: The Gravity Trap \u2013 2:30 PM",
-                            "file_path": "e001/c007/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Interlude: The Backchannel \u2013 3:45 PM",
-                            "file_path": "e001/c007/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: Interlude: Grounded \u2013 4:15 PM",
-                            "file_path": "e001/c007/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Deep Freeze \u2013 10:30 AM",
-                            "file_path": "e001/c007/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Long Night \u2013 5:15 PM",
-                            "file_path": "e001/c007/s006.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Long Night \u2013 5:15 PM",
+                            "file_path": "e001/c007/p002.md"
                         }
                     ]
                 },
@@ -159,41 +114,16 @@
                     "chap_num": 8,
                     "chap_title": "Chapter 8: Midnight \u2013 Tuesday, February 16, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-8-midnight-tuesday-february-16-2021",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Birthday \u2013 3:15 AM",
-                            "file_path": "e001/c008/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Birthday \u2013 3:15 AM & Morning Light \u2013 7:15 AM",
+                            "file_path": "e001/c008/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Barrier \u2013 4:45 AM",
-                            "file_path": "e001/c008/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Morning Light \u2013 7:15 AM",
-                            "file_path": "e001/c008/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Siege \u2013 Tuesday Afternoon",
-                            "file_path": "e001/c008/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: Interlude: Radio Silence \u2013 Tuesday, 2:45 PM",
-                            "file_path": "e001/c008/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Shattered Script \u2013 9:45 PM",
-                            "file_path": "e001/c008/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: Interlude: The Current Loop \u2013 Tuesday, 11:30 PM",
-                            "file_path": "e001/c008/s007.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Siege & The Current Loop",
+                            "file_path": "e001/c008/p002.md"
                         }
                     ]
                 },
@@ -201,21 +131,11 @@
                     "chap_num": 9,
                     "chap_title": "Chapter 9: The Breach \u2013 Thursday, February 18, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-9-the-breach-thursday-february-18-2021",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Arrival \u2013 8:15 AM",
-                            "file_path": "e001/c009/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Extraction \u2013 8:18 AM",
-                            "file_path": "e001/c009/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Sanctuary \u2013 9:30 AM",
-                            "file_path": "e001/c009/s003.md"
+                            "part_num": 1,
+                            "part_title": "The Arrival \u2013 8:15 AM & Sanctuary \u2013 9:30 AM",
+                            "file_path": "e001/c009/p001.md"
                         }
                     ]
                 }
@@ -230,61 +150,21 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Longest Mile \u2013 Saturday, February 20, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-2-the-sterling-inheritance/chapter-1-the-longest-mile-saturday-february-20-2021",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Arrival at EBF \u2013 10:45 AM",
-                            "file_path": "e002/c001/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Arrival at EBF \u2013 10:45 AM & The Hearth \u2013 12:28 PM",
+                            "file_path": "e002/c001/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Red Line \u2013 11:20 AM",
-                            "file_path": "e002/c001/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Architect of the Transition & The Inheritance",
+                            "file_path": "e002/c001/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Monolith \u2013 12:15 PM",
-                            "file_path": "e002/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Ascent \u2013 12:25 PM",
-                            "file_path": "e002/c001/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Hearth \u2013 12:28 PM",
-                            "file_path": "e002/c001/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Architect of the Transition \u2013 1:15 PM",
-                            "file_path": "e002/c001/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Legal Strike \u2013 1:30 PM",
-                            "file_path": "e002/c001/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Inheritance \u2013 6:00 PM",
-                            "file_path": "e002/c001/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: The Legacy Boardroom \u2013 6:30 PM",
-                            "file_path": "e002/c001/s009.md"
-                        },
-                        {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: The Lungs and Guts \u2013 6:55 PM",
-                            "file_path": "e002/c001/s010.md"
-                        },
-                        {
-                            "scene_num": 11,
-                            "scene_title": "Scene 11: The Town Square \u2013 7:15 PM",
-                            "file_path": "e002/c001/s011.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Legacy Boardroom \u2013 6:30 PM & The Town Square \u2013 7:15 PM",
+                            "file_path": "e002/c001/p003.md"
                         }
                     ]
                 },
@@ -292,11 +172,11 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Sunday Morning Choice \u2013 Sunday, February 21, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-2-the-sterling-inheritance/chapter-2-the-sunday-morning-choice-sunday-february-21-2021",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Water Walls \u2013 7:00 AM",
-                            "file_path": "e002/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "The Water Walls \u2013 7:00 AM",
+                            "file_path": "e002/c002/p001.md"
                         }
                     ]
                 }

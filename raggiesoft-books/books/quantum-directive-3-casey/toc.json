@@ -8,12 +8,12 @@
     "ebook_sizes": {
         "epub": "1.4 MB",
         "pdf": "2.2 MB",
-        "text_epub": "402 KB",
+        "text_epub": "397 KB",
         "text_pdf": "1.2 MB",
-        "epub_bytes": 1462071,
-        "pdf_bytes": 2321004,
-        "text_epub_bytes": 411726,
-        "text_pdf_bytes": 1267782
+        "epub_bytes": 1457239,
+        "pdf_bytes": 2315571,
+        "text_epub_bytes": 406885,
+        "text_pdf_bytes": 1261268
     },
     "eras": [
         {
@@ -25,26 +25,11 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Northern Regional",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-1-the-northern-regional",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Departing NPN",
-                            "file_path": "e001/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Northern Regional",
-                            "file_path": "e001/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Seven Corners Transfer",
-                            "file_path": "e001/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Crown Burger Debrief",
-                            "file_path": "e001/c001/s004.md"
+                            "part_num": 1,
+                            "part_title": "Departing NPN & The Crown Burger Debrief",
+                            "file_path": "e001/c001/p001.md"
                         }
                     ]
                 },
@@ -52,36 +37,11 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Open House",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-2-the-open-house",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Continental Breakfast",
-                            "file_path": "e001/c002/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Architecture of the Past",
-                            "file_path": "e001/c002/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Dormitory Metric",
-                            "file_path": "e001/c002/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: Early Dismissal",
-                            "file_path": "e001/c002/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Evening Routine",
-                            "file_path": "e001/c002/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: Lights Out",
-                            "file_path": "e001/c002/s006.md"
+                            "part_num": 1,
+                            "part_title": "The Continental Breakfast & Lights Out",
+                            "file_path": "e001/c002/p001.md"
                         }
                     ]
                 },
@@ -89,46 +49,16 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The National Zoo",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-3-the-national-zoo",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Connecticut Avenue Bypass",
-                            "file_path": "e001/c003/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Connecticut Avenue Bypass & The",
+                            "file_path": "e001/c003/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Olmsted Walk",
-                            "file_path": "e001/c003/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Pop-Up Storm",
-                            "file_path": "e001/c003/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Wet Weather Metric",
-                            "file_path": "e001/c003/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The L'Enfant Maze",
-                            "file_path": "e001/c003/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The",
-                            "file_path": "e001/c003/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: Rocket Burger and the Return Vector",
-                            "file_path": "e001/c003/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The GWU Rivalry and Deep Pressure",
-                            "file_path": "e001/c003/s008.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Rocket Burger and the Return Vector & The GWU Rivalry and Deep Pressure",
+                            "file_path": "e001/c003/p002.md"
                         }
                     ]
                 },
@@ -136,21 +66,11 @@
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Return Vector",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-4-the-return-vector",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Union Station Bottleneck",
-                            "file_path": "e001/c004/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Monitor-Merrimac Detour",
-                            "file_path": "e001/c004/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Sibling Anchor",
-                            "file_path": "e001/c004/s003.md"
+                            "part_num": 1,
+                            "part_title": "The Union Station Bottleneck & The Sibling Anchor",
+                            "file_path": "e001/c004/p001.md"
                         }
                     ]
                 },
@@ -158,16 +78,11 @@
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Morning After",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-5-the-morning-after",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Lightning Strike",
-                            "file_path": "e001/c005/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Ecology Camp Logistics",
-                            "file_path": "e001/c005/s002.md"
+                            "part_num": 1,
+                            "part_title": "The Lightning Strike & The Ecology Camp Logistics",
+                            "file_path": "e001/c005/p001.md"
                         }
                     ]
                 },
@@ -175,26 +90,11 @@
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The VDU Deployment",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-6-the-vdu-deployment",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Junior Cohort",
-                            "file_path": "e001/c006/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Ecology Lab",
-                            "file_path": "e001/c006/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Catalyst",
-                            "file_path": "e001/c006/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Assistant Manager",
-                            "file_path": "e001/c006/s004.md"
+                            "part_num": 1,
+                            "part_title": "The Junior Cohort & The Assistant Manager",
+                            "file_path": "e001/c006/p001.md"
                         }
                     ]
                 },
@@ -202,21 +102,11 @@
                     "chap_num": 7,
                     "chap_title": "Chapter 7: Week 1 - Coastal Ecology",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-7-week-1-coastal-ecology",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Chesapeake Crossing",
-                            "file_path": "e001/c007/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Squall",
-                            "file_path": "e001/c007/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Sample Recovery",
-                            "file_path": "e001/c007/s003.md"
+                            "part_num": 1,
+                            "part_title": "The Chesapeake Crossing & Sample Recovery",
+                            "file_path": "e001/c007/p001.md"
                         }
                     ]
                 },
@@ -224,16 +114,11 @@
                     "chap_num": 8,
                     "chap_title": "Chapter 8: Week 2 - Atmospheric Dynamics",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-8-week-2-atmospheric-dynamics",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Security Gate",
-                            "file_path": "e001/c008/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Full-Scale Tunnel",
-                            "file_path": "e001/c008/s002.md"
+                            "part_num": 1,
+                            "part_title": "The Security Gate & The Full-Scale Tunnel",
+                            "file_path": "e001/c008/p001.md"
                         }
                     ]
                 },
@@ -241,21 +126,11 @@
                     "chap_num": 9,
                     "chap_title": "Chapter 9: Week 3 - Aerospace",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-9-week-3-aerospace",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Glass Elevator",
-                            "file_path": "e001/c009/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Apollo and the Cafe",
-                            "file_path": "e001/c009/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: NovaScreen and the Gift Shop",
-                            "file_path": "e001/c009/s003.md"
+                            "part_num": 1,
+                            "part_title": "The Glass Elevator & NovaScreen and the Gift Shop",
+                            "file_path": "e001/c009/p001.md"
                         }
                     ]
                 },
@@ -263,21 +138,11 @@
                     "chap_num": 10,
                     "chap_title": "Chapter 10: Week 4 - Marine Biology",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-10-week-4-marine-biology",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Soft Opening",
-                            "file_path": "e001/c010/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Catalyst Challenge",
-                            "file_path": "e001/c010/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Submission",
-                            "file_path": "e001/c010/s003.md"
+                            "part_num": 1,
+                            "part_title": "The Soft Opening & The Submission",
+                            "file_path": "e001/c010/p001.md"
                         }
                     ]
                 },
@@ -285,31 +150,11 @@
                     "chap_num": 11,
                     "chap_title": "Chapter 11: Northwest Pacific",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-11-northwest-pacific",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Departure",
-                            "file_path": "e001/c011/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Denver Layover",
-                            "file_path": "e001/c011/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Ride Free Area",
-                            "file_path": "e001/c011/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Topography",
-                            "file_path": "e001/c011/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Hotel Logistics",
-                            "file_path": "e001/c011/s005.md"
+                            "part_num": 1,
+                            "part_title": "The Departure & The Hotel Logistics",
+                            "file_path": "e001/c011/p001.md"
                         }
                     ]
                 },
@@ -317,41 +162,16 @@
                     "chap_num": 12,
                     "chap_title": "Chapter 12: The Open House",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-12-the-open-house",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Engineering Quad",
-                            "file_path": "e001/c012/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Engineering Quad & The Two Paths",
+                            "file_path": "e001/c012/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Quantum Pavilion",
-                            "file_path": "e001/c012/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Quantaneers",
-                            "file_path": "e001/c012/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Internal Elevators",
-                            "file_path": "e001/c012/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Two Paths",
-                            "file_path": "e001/c012/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Logistics of Care",
-                            "file_path": "e001/c012/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Vacation Protocol",
-                            "file_path": "e001/c012/s007.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Logistics of Care & The Vacation Protocol",
+                            "file_path": "e001/c012/p002.md"
                         }
                     ]
                 },
@@ -359,41 +179,16 @@
                     "chap_num": 13,
                     "chap_title": "The Emerald City",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/the-emerald-city",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Century Spire",
-                            "file_path": "e001/c013/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Century Spire & Lake Washington",
+                            "file_path": "e001/c013/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Planetarium",
-                            "file_path": "e001/c013/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Emperor of Redmond",
-                            "file_path": "e001/c013/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Zenith Motherboard",
-                            "file_path": "e001/c013/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Five-Megabyte Monolith",
-                            "file_path": "e001/c013/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: Lake Washington",
-                            "file_path": "e001/c013/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Privacy Protocol",
-                            "file_path": "e001/c013/s007.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Privacy Protocol",
+                            "file_path": "e001/c013/p002.md"
                         }
                     ]
                 },
@@ -401,41 +196,11 @@
                     "chap_num": 14,
                     "chap_title": "Chapter 14: The Deep End",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-14-the-deep-end",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Siren Roasters",
-                            "file_path": "e001/c014/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Underwater Dome",
-                            "file_path": "e001/c014/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Gift Shop",
-                            "file_path": "e001/c014/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Prospector's Registry",
-                            "file_path": "e001/c014/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: TAPS Route 174",
-                            "file_path": "e001/c014/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Great Gallery",
-                            "file_path": "e001/c014/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Extraction",
-                            "file_path": "e001/c014/s007.md"
+                            "part_num": 1,
+                            "part_title": "Siren Roasters & The Extraction",
+                            "file_path": "e001/c014/p001.md"
                         }
                     ]
                 },
@@ -443,21 +208,11 @@
                     "chap_num": 15,
                     "chap_title": "Chapter 15: The Pre-Dawn Run",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-15-the-pre-dawn-run",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The 174 Southbound",
-                            "file_path": "e001/c015/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Gateway Counter",
-                            "file_path": "e001/c015/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Chicago Layover",
-                            "file_path": "e001/c015/s003.md"
+                            "part_num": 1,
+                            "part_title": "The 174 Southbound & The Chicago Layover",
+                            "file_path": "e001/c015/p001.md"
                         }
                     ]
                 },
@@ -465,21 +220,11 @@
                     "chap_num": 16,
                     "chap_title": "Chapter 16: The Catalyst",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-16-the-catalyst",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Call",
-                            "file_path": "e001/c016/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Celebration",
-                            "file_path": "e001/c016/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Sleepover",
-                            "file_path": "e001/c016/s003.md"
+                            "part_num": 1,
+                            "part_title": "The Call & The Sleepover",
+                            "file_path": "e001/c016/p001.md"
                         }
                     ]
                 }
@@ -494,26 +239,11 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Semester Baseline",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-1-the-semester-baseline",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Syllabus",
-                            "file_path": "e002/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Library",
-                            "file_path": "e002/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Integumentary System",
-                            "file_path": "e002/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Apartment",
-                            "file_path": "e002/c001/s004.md"
+                            "part_num": 1,
+                            "part_title": "The Syllabus & The Apartment",
+                            "file_path": "e002/c001/p001.md"
                         }
                     ]
                 },
@@ -521,26 +251,11 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Reboot",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-2-the-reboot",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Apology",
-                            "file_path": "e002/c002/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Text Message",
-                            "file_path": "e002/c002/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Introduction",
-                            "file_path": "e002/c002/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Dinner",
-                            "file_path": "e002/c002/s004.md"
+                            "part_num": 1,
+                            "part_title": "The Apology & The Dinner",
+                            "file_path": "e002/c002/p001.md"
                         }
                     ]
                 },
@@ -548,26 +263,11 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Chesapeake Deployment",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-3-the-chesapeake-deployment",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Chesapeake Deployment",
-                            "file_path": "e002/c003/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Food Court De-Escalation",
-                            "file_path": "e002/c003/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Family Debrief",
-                            "file_path": "e002/c003/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Crocodile Tears",
-                            "file_path": "e002/c003/s004.md"
+                            "part_num": 1,
+                            "part_title": "The Chesapeake Deployment & The Crocodile Tears",
+                            "file_path": "e002/c003/p001.md"
                         }
                     ]
                 },
@@ -575,11 +275,11 @@
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Patch",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-4-the-patch",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Reunion",
-                            "file_path": "e002/c004/s001.md"
+                            "part_num": 1,
+                            "part_title": "The Reunion",
+                            "file_path": "e002/c004/p001.md"
                         }
                     ]
                 },
@@ -587,16 +287,11 @@
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Delete Key",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-5-the-delete-key",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Ultimatum",
-                            "file_path": "e002/c005/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Compromise",
-                            "file_path": "e002/c005/s002.md"
+                            "part_num": 1,
+                            "part_title": "The Ultimatum & The Compromise",
+                            "file_path": "e002/c005/p001.md"
                         }
                     ]
                 },
@@ -604,16 +299,11 @@
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Three-Way Call",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-6-the-three-way-call",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Holiday Plans",
-                            "file_path": "e002/c006/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Invitation",
-                            "file_path": "e002/c006/s002.md"
+                            "part_num": 1,
+                            "part_title": "The Holiday Plans & The Invitation",
+                            "file_path": "e002/c006/p001.md"
                         }
                     ]
                 },
@@ -621,21 +311,11 @@
                     "chap_num": 7,
                     "chap_title": "Chapter 7: The Mask",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-7-the-mask",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Terminal",
-                            "file_path": "e002/c007/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Return to the Coast",
-                            "file_path": "e002/c007/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Perimeter Shift",
-                            "file_path": "e002/c007/s003.md"
+                            "part_num": 1,
+                            "part_title": "The Terminal & The Perimeter Shift",
+                            "file_path": "e002/c007/p001.md"
                         }
                     ]
                 },
@@ -643,21 +323,11 @@
                     "chap_num": 8,
                     "chap_title": "Chapter 8: The Ambush",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-8-the-ambush",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Morning Anchor",
-                            "file_path": "e002/c008/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Kitchen Ambush",
-                            "file_path": "e002/c008/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Hard Sever",
-                            "file_path": "e002/c008/s003.md"
+                            "part_num": 1,
+                            "part_title": "The Morning Anchor & The Hard Sever",
+                            "file_path": "e002/c008/p001.md"
                         }
                     ]
                 },
@@ -665,31 +335,16 @@
                     "chap_num": 9,
                     "chap_title": "Chapter 9: The Crossroads",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-9-the-crossroads",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Golden Architecture",
-                            "file_path": "e002/c009/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Golden Architecture & The Hard Sever",
+                            "file_path": "e002/c009/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Executive Reality",
-                            "file_path": "e002/c009/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Hard Sever",
-                            "file_path": "e002/c009/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Twenty-One Day Bridge",
-                            "file_path": "e002/c009/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Birthday Buyout",
-                            "file_path": "e002/c009/s005.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Twenty-One Day Bridge & The Birthday Buyout",
+                            "file_path": "e002/c009/p002.md"
                         }
                     ]
                 },
@@ -697,16 +352,11 @@
                     "chap_num": 10,
                     "chap_title": "Chapter 10: The Severance",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-10-the-severance",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Checkpoint",
-                            "file_path": "e002/c010/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Firewall",
-                            "file_path": "e002/c010/s002.md"
+                            "part_num": 1,
+                            "part_title": "The Checkpoint & The Firewall",
+                            "file_path": "e002/c010/p001.md"
                         }
                     ]
                 },
@@ -714,26 +364,11 @@
                     "chap_num": 11,
                     "chap_title": "Chapter 11: The Executive Ascent",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-11-the-executive-ascent",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Burton Station Road",
-                            "file_path": "e002/c011/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Flight Data",
-                            "file_path": "e002/c011/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Honorary Sister",
-                            "file_path": "e002/c011/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Moving Logistics",
-                            "file_path": "e002/c011/s004.md"
+                            "part_num": 1,
+                            "part_title": "Burton Station Road & The Moving Logistics",
+                            "file_path": "e002/c011/p001.md"
                         }
                     ]
                 },
@@ -741,31 +376,11 @@
                     "chap_num": 12,
                     "chap_title": "Chapter 12: The Executive Departure",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-12-the-executive-departure",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Morning Knock",
-                            "file_path": "e002/c012/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Flight Logistics",
-                            "file_path": "e002/c012/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Sovereign Airspace",
-                            "file_path": "e002/c012/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Global Reach",
-                            "file_path": "e002/c012/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The I-5 Crawl",
-                            "file_path": "e002/c012/s005.md"
+                            "part_num": 1,
+                            "part_title": "The Morning Knock & The I-5 Crawl",
+                            "file_path": "e002/c012/p001.md"
                         }
                     ]
                 },
@@ -773,26 +388,11 @@
                     "chap_num": 13,
                     "chap_title": "Chapter 13: The Federal Way Perimeter",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-13-the-federal-way-perimeter",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Social Boundary",
-                            "file_path": "e002/c013/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Comfort Food and The Ledger",
-                            "file_path": "e002/c013/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Evening Routine",
-                            "file_path": "e002/c013/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Blackout",
-                            "file_path": "e002/c013/s004.md"
+                            "part_num": 1,
+                            "part_title": "The Social Boundary & The Blackout",
+                            "file_path": "e002/c013/p001.md"
                         }
                     ]
                 },
@@ -800,61 +400,21 @@
                     "chap_num": 14,
                     "chap_title": "Chapter 14: The Blackout",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-14-the-blackout",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Pantry Logistics",
-                            "file_path": "e002/c014/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Pantry Logistics & The Sunday Dispatch",
+                            "file_path": "e002/c014/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Circadian Logistics",
-                            "file_path": "e002/c014/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Redmond Compound Acquisition & The TAPS Grid",
+                            "file_path": "e002/c014/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Eastside Expansion",
-                            "file_path": "e002/c014/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Tier-One Acquisition",
-                            "file_path": "e002/c014/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Sunday Dispatch",
-                            "file_path": "e002/c014/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Redmond Compound Acquisition",
-                            "file_path": "e002/c014/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Contract Execution",
-                            "file_path": "e002/c014/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Accepted Strike",
-                            "file_path": "e002/c014/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: The TAPS Grid",
-                            "file_path": "e002/c014/s009.md"
-                        },
-                        {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: The Sunday Night Reset",
-                            "file_path": "e002/c014/s010.md"
-                        },
-                        {
-                            "scene_num": 11,
-                            "scene_title": "Scene 11: The A-B Block and Qu\u00e9b\u00e9cois French",
-                            "file_path": "e002/c014/s011.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Sunday Night Reset & The A-B Block and Qu\u00e9b\u00e9cois French",
+                            "file_path": "e002/c014/p003.md"
                         }
                     ]
                 },
@@ -862,26 +422,11 @@
                     "chap_num": 15,
                     "chap_title": "Chapter 15: The Holiday Deployment",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-15-the-holiday-deployment",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The PVD Rendezvous",
-                            "file_path": "e002/c015/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Ghost Highway",
-                            "file_path": "e002/c015/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Mount Hope Arrival",
-                            "file_path": "e002/c015/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Sea of Humanity",
-                            "file_path": "e002/c015/s004.md"
+                            "part_num": 1,
+                            "part_title": "The PVD Rendezvous & The Sea of Humanity",
+                            "file_path": "e002/c015/p001.md"
                         }
                     ]
                 },
@@ -889,31 +434,11 @@
                     "chap_num": 16,
                     "chap_title": "Chapter 16: The Aquidneck Christmas",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-16-the-aquidneck-christmas",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Morning Pile",
-                            "file_path": "e002/c016/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Forty Steps",
-                            "file_path": "e002/c016/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Autonomic Check",
-                            "file_path": "e002/c016/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: R\u00e9veillon Under the Bridge",
-                            "file_path": "e002/c016/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The House Guard Marathon",
-                            "file_path": "e002/c016/s005.md"
+                            "part_num": 1,
+                            "part_title": "The Morning Pile & The House Guard Marathon",
+                            "file_path": "e002/c016/p001.md"
                         }
                     ]
                 },
@@ -921,26 +446,11 @@
                     "chap_num": 17,
                     "chap_title": "Chapter 17: Christmas Day",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-17-christmas-day",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Coffee Milk Christmas",
-                            "file_path": "e002/c017/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Gift Exchange",
-                            "file_path": "e002/c017/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Pack Mentality",
-                            "file_path": "e002/c017/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Triple Dog Dare Dinner",
-                            "file_path": "e002/c017/s004.md"
+                            "part_num": 1,
+                            "part_title": "The Coffee Milk Christmas & The Triple Dog Dare Dinner",
+                            "file_path": "e002/c017/p001.md"
                         }
                     ]
                 },
@@ -948,31 +458,11 @@
                     "chap_num": 18,
                     "chap_title": "Chapter 18: Boxing Day in Braxton",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-18-boxing-day-in-braxton",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Braxton Excursion",
-                            "file_path": "e002/c018/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Boxing Day Spree",
-                            "file_path": "e002/c018/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Neon Syndicate",
-                            "file_path": "e002/c018/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Food Court Logistics",
-                            "file_path": "e002/c018/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Transit Contingency",
-                            "file_path": "e002/c018/s005.md"
+                            "part_num": 1,
+                            "part_title": "The Braxton Excursion & The Transit Contingency",
+                            "file_path": "e002/c018/p001.md"
                         }
                     ]
                 },
@@ -980,26 +470,11 @@
                     "chap_num": 19,
                     "chap_title": "The Logistics of Luxury",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/the-logistics-of-luxury",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Logistics of Luxury",
-                            "file_path": "e002/c019/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Boarding Protocol",
-                            "file_path": "e002/c019/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Airborne Network",
-                            "file_path": "e002/c019/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Virginia Beach Arrival",
-                            "file_path": "e002/c019/s004.md"
+                            "part_num": 1,
+                            "part_title": "The Logistics of Luxury & The Virginia Beach Arrival",
+                            "file_path": "e002/c019/p001.md"
                         }
                     ]
                 },
@@ -1007,21 +482,11 @@
                     "chap_num": 20,
                     "chap_title": "Chapter 20: The Chesapeake Bay Mall",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-20-the-chesapeake-bay-mall",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Horde",
-                            "file_path": "e002/c020/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Biological Hazard",
-                            "file_path": "e002/c020/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Route 29 Trolley",
-                            "file_path": "e002/c020/s003.md"
+                            "part_num": 1,
+                            "part_title": "The Horde & The Route 29 Trolley",
+                            "file_path": "e002/c020/p001.md"
                         }
                     ]
                 },
@@ -1029,16 +494,11 @@
                     "chap_num": 21,
                     "chap_title": "Chapter 21: The Final Countdown",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-21-the-final-countdown",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Final Countdown",
-                            "file_path": "e002/c021/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Dual Departure",
-                            "file_path": "e002/c021/s002.md"
+                            "part_num": 1,
+                            "part_title": "The Final Countdown & The Dual Departure",
+                            "file_path": "e002/c021/p001.md"
                         }
                     ]
                 }
@@ -1053,26 +513,11 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Licensure Exam",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-1-the-licensure-exam",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Scope of Practice",
-                            "file_path": "e003/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Pitch",
-                            "file_path": "e003/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Academic Advisor",
-                            "file_path": "e003/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Pack Conference",
-                            "file_path": "e003/c001/s004.md"
+                            "part_num": 1,
+                            "part_title": "The Scope of Practice & The Pack Conference",
+                            "file_path": "e003/c001/p001.md"
                         }
                     ]
                 },
@@ -1080,41 +525,16 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Invasion",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-2-the-invasion",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Sea-Tac Crush-Load",
-                            "file_path": "e003/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Sea-Tac Crush-Load & The Twelfth Floor",
+                            "file_path": "e003/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Route 194 Deployment",
-                            "file_path": "e003/c002/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Checking In",
-                            "file_path": "e003/c002/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Twelfth Floor",
-                            "file_path": "e003/c002/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Banquet Room",
-                            "file_path": "e003/c002/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Bellevue Acquisition",
-                            "file_path": "e003/c002/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: Interlude: The Bellevue Bidding War",
-                            "file_path": "e003/c002/s007.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Banquet Room & Interlude: The Bellevue Bidding War",
+                            "file_path": "e003/c002/p002.md"
                         }
                     ]
                 },
@@ -1122,26 +542,11 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Eastside Tour",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-3-the-eastside-tour",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Morning Perimeter",
-                            "file_path": "e003/c003/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Highcliff Announcement",
-                            "file_path": "e003/c003/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Redmond Hard Hat Tour",
-                            "file_path": "e003/c003/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Bellevue Transfer",
-                            "file_path": "e003/c003/s004.md"
+                            "part_num": 1,
+                            "part_title": "The Morning Perimeter & The Bellevue Transfer",
+                            "file_path": "e003/c003/p001.md"
                         }
                     ]
                 },
@@ -1149,31 +554,11 @@
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Puget Sound Aquarium",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-4-the-puget-sound-aquarium",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The VIP Experience",
-                            "file_path": "e003/c004/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Deep Ocean Encounters",
-                            "file_path": "e003/c004/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Ride Free Area",
-                            "file_path": "e003/c004/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: Dinner in the Sky",
-                            "file_path": "e003/c004/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Night Shift",
-                            "file_path": "e003/c004/s005.md"
+                            "part_num": 1,
+                            "part_title": "The VIP Experience & The Night Shift",
+                            "file_path": "e003/c004/p001.md"
                         }
                     ]
                 },
@@ -1181,41 +566,16 @@
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Evergreen Marine",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-5-the-evergreen-marine",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: Colman Dock",
-                            "file_path": "e003/c005/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: Colman Dock & The Private Dining Room",
+                            "file_path": "e003/c005/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Crossing",
-                            "file_path": "e003/c005/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Bremerton Boardwalk",
-                            "file_path": "e003/c005/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Pacific Fleet Naval Museum",
-                            "file_path": "e003/c005/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Sunday Return",
-                            "file_path": "e003/c005/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Private Dining Room",
-                            "file_path": "e003/c005/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: Lights Out",
-                            "file_path": "e003/c005/s007.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: Lights Out",
+                            "file_path": "e003/c005/p002.md"
                         }
                     ]
                 },
@@ -1223,26 +583,11 @@
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Sacrifice",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-6-the-sacrifice",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The 194 Express",
-                            "file_path": "e003/c006/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: Decompression",
-                            "file_path": "e003/c006/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Bathroom Queue",
-                            "file_path": "e003/c006/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The 565",
-                            "file_path": "e003/c006/s004.md"
+                            "part_num": 1,
+                            "part_title": "The 194 Express & The 565",
+                            "file_path": "e003/c006/p001.md"
                         }
                     ]
                 },
@@ -1250,41 +595,16 @@
                     "chap_num": 7,
                     "chap_title": "Chapter 7: The May Logistics",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-7-the-may-logistics",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The May Logistics",
-                            "file_path": "e003/c007/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The May Logistics & Triage",
+                            "file_path": "e003/c007/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Snohomish Run",
-                            "file_path": "e003/c007/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: Tuscany Slice",
-                            "file_path": "e003/c007/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Retreat",
-                            "file_path": "e003/c007/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: Triage",
-                            "file_path": "e003/c007/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Recovery Protocol",
-                            "file_path": "e003/c007/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: Bedtime Routine",
-                            "file_path": "e003/c007/s007.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Recovery Protocol & Bedtime Routine",
+                            "file_path": "e003/c007/p002.md"
                         }
                     ]
                 },
@@ -1292,21 +612,11 @@
                     "chap_num": 8,
                     "chap_title": "Chapter 8: The Prospector's Keep",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-8-the-prospector-s-keep",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The BRAT Diet",
-                            "file_path": "e003/c008/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Bidding Game",
-                            "file_path": "e003/c008/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Assignment",
-                            "file_path": "e003/c008/s003.md"
+                            "part_num": 1,
+                            "part_title": "The BRAT Diet & The Assignment",
+                            "file_path": "e003/c008/p001.md"
                         }
                     ]
                 },
@@ -1314,56 +624,21 @@
                     "chap_num": 9,
                     "chap_title": "Chapter 9: A Desperate Escape",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-9-a-desperate-escape",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Motorpool",
-                            "file_path": "e003/c009/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Motorpool & The Sovereign Tour",
+                            "file_path": "e003/c009/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Great Hall Reveal",
-                            "file_path": "e003/c009/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Grand Ballroom & The Birthday Lunch",
+                            "file_path": "e003/c009/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Sovereign Tour",
-                            "file_path": "e003/c009/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Grand Ballroom",
-                            "file_path": "e003/c009/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Chilkoot Wing",
-                            "file_path": "e003/c009/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Summit Suite",
-                            "file_path": "e003/c009/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Residential Wing",
-                            "file_path": "e003/c009/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Birthday Lunch",
-                            "file_path": "e003/c009/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: The Extractions",
-                            "file_path": "e003/c009/s009.md"
-                        },
-                        {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: The Great Hall Cinema",
-                            "file_path": "e003/c009/s010.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Extractions & The Great Hall Cinema",
+                            "file_path": "e003/c009/p003.md"
                         }
                     ]
                 },
@@ -1371,11 +646,11 @@
                     "chap_num": 10,
                     "chap_title": "Chapter 10: A Moment of Peace",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-10-a-moment-of-peace",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Departure Logistics",
-                            "file_path": "e003/c010/s001.md"
+                            "part_num": 1,
+                            "part_title": "The Departure Logistics",
+                            "file_path": "e003/c010/p001.md"
                         }
                     ]
                 }
@@ -1390,26 +665,11 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Mandate",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-4-the-sovereign-empire/chapter-1-the-mandate",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Deviation",
-                            "file_path": "e004/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Pack Dinner",
-                            "file_path": "e004/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Vault",
-                            "file_path": "e004/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Sovereign News",
-                            "file_path": "e004/c001/s004.md"
+                            "part_num": 1,
+                            "part_title": "The Deviation & The Sovereign News",
+                            "file_path": "e004/c001/p001.md"
                         }
                     ]
                 },
@@ -1417,61 +677,26 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Ground Truth",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-4-the-sovereign-empire/chapter-2-the-ground-truth",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Morning Baseline",
-                            "file_path": "e004/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Morning Baseline & The Global Broadcast",
+                            "file_path": "e004/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Executive Pre-Flight",
-                            "file_path": "e004/c002/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Shadow Wallet & The Actuarial Risk",
+                            "file_path": "e004/c002/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Succession Consensus",
-                            "file_path": "e004/c002/s003.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Route 230 Protocol & The Express Route",
+                            "file_path": "e004/c002/p003.md"
                         },
                         {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Global Broadcast",
-                            "file_path": "e004/c002/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Shadow Wallet",
-                            "file_path": "e004/c002/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Global Desk",
-                            "file_path": "e004/c002/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Actuarial Risk",
-                            "file_path": "e004/c002/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Route 230 Protocol",
-                            "file_path": "e004/c002/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: The Bellevue Reunion",
-                            "file_path": "e004/c002/s009.md"
-                        },
-                        {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: The Express Route",
-                            "file_path": "e004/c002/s010.md"
-                        },
-                        {
-                            "scene_num": 11,
-                            "scene_title": "Scene 11: The Sovereign Perimeter",
-                            "file_path": "e004/c002/s011.md"
+                            "part_num": 4,
+                            "part_title": "Part 4: The Sovereign Perimeter",
+                            "file_path": "e004/c002/p004.md"
                         }
                     ]
                 }
@@ -1486,21 +711,11 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Bloodline Convergence",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-5-the-sovereign-ascension/chapter-1-the-bloodline-convergence",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Rotor Wash",
-                            "file_path": "e005/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Front Row",
-                            "file_path": "e005/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Floorboards",
-                            "file_path": "e005/c001/s003.md"
+                            "part_num": 1,
+                            "part_title": "The Rotor Wash & The Floorboards",
+                            "file_path": "e005/c001/p001.md"
                         }
                     ]
                 },
@@ -1508,41 +723,16 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The After Party",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-5-the-sovereign-ascension/chapter-2-the-after-party",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Food Truck Festival",
-                            "file_path": "e005/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Food Truck Festival & The Transit Pledge",
+                            "file_path": "e005/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Zero-Proof Pavilion",
-                            "file_path": "e005/c002/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Cross-Pollination of Packs",
-                            "file_path": "e005/c002/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Transit Pledge",
-                            "file_path": "e005/c002/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Logistics of Departure",
-                            "file_path": "e005/c002/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Executive Shutdown",
-                            "file_path": "e005/c002/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Lowland Entitlement",
-                            "file_path": "e005/c002/s007.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The Logistics of Departure & The Lowland Entitlement",
+                            "file_path": "e005/c002/p002.md"
                         }
                     ]
                 }
@@ -1557,26 +747,11 @@
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Silicon Valley Bypass",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-6-the-sovereign-autonomy/chapter-1-the-silicon-valley-bypass",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Diridon Transfer",
-                            "file_path": "e006/c001/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Handler Panic",
-                            "file_path": "e006/c001/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Flashbulb Perimeter",
-                            "file_path": "e006/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Keynote and the BayPass Question",
-                            "file_path": "e006/c001/s004.md"
+                            "part_num": 1,
+                            "part_title": "The Diridon Transfer & The Keynote and the BayPass Question",
+                            "file_path": "e006/c001/p001.md"
                         }
                     ]
                 },
@@ -1584,56 +759,21 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Fenwick Bridge Protocol",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-6-the-sovereign-autonomy/chapter-2-the-fenwick-bridge-protocol",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The Gates of DCA",
-                            "file_path": "e006/c002/s001.md"
+                            "part_num": 1,
+                            "part_title": "Part 1: The Gates of DCA & The Weaponized Ledger",
+                            "file_path": "e006/c002/p001.md"
                         },
                         {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The L'Enfant Maze",
-                            "file_path": "e006/c002/s002.md"
+                            "part_num": 2,
+                            "part_title": "Part 2: The MAR Protocol & The Telescope Protocol",
+                            "file_path": "e006/c002/p002.md"
                         },
                         {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Witness Table",
-                            "file_path": "e006/c002/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The LPN Protocol & The Galley Question",
-                            "file_path": "e006/c002/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: The Weaponized Ledger",
-                            "file_path": "e006/c002/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The MAR Protocol",
-                            "file_path": "e006/c002/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Finch Expedition",
-                            "file_path": "e006/c002/s007.md"
-                        },
-                        {
-                            "scene_num": 8,
-                            "scene_title": "Scene 8: The Civilian Perimeter",
-                            "file_path": "e006/c002/s008.md"
-                        },
-                        {
-                            "scene_num": 9,
-                            "scene_title": "Scene 9: The Telescope Protocol",
-                            "file_path": "e006/c002/s009.md"
-                        },
-                        {
-                            "scene_num": 10,
-                            "scene_title": "Scene 10: The Escalator Trap",
-                            "file_path": "e006/c002/s010.md"
+                            "part_num": 3,
+                            "part_title": "Part 3: The Escalator Trap",
+                            "file_path": "e006/c002/p003.md"
                         }
                     ]
                 },
@@ -1641,26 +781,11 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Connecticut Avenue Protocol",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-6-the-sovereign-autonomy/chapter-3-the-connecticut-avenue-protocol",
-                    "scenes": [
+                    "parts": [
                         {
-                            "scene_num": 1,
-                            "scene_title": "Scene 1: The ELstat Briefing",
-                            "file_path": "e006/c003/s001.md"
-                        },
-                        {
-                            "scene_num": 2,
-                            "scene_title": "Scene 2: The Topography Trap",
-                            "file_path": "e006/c003/s002.md"
-                        },
-                        {
-                            "scene_num": 3,
-                            "scene_title": "Scene 3: The Surface Fleet",
-                            "file_path": "e006/c003/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Front Gate Arrival",
-                            "file_path": "e006/c003/s004.md"
+                            "part_num": 1,
+                            "part_title": "The ELstat Briefing & The Front Gate Arrival",
+                            "file_path": "e006/c003/p001.md"
                         }
                     ]
                 }

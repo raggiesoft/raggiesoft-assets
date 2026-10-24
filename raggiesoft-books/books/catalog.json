@@ -4,18 +4,18 @@
         "title": "The Silver Gauntlet of Aethel",
         "description": "An epic fantasy saga set in a world of twin suns, ancient magic, and the endless struggle between Order and Chaos.",
         "image": "/raggiesoft-books/images/covers/2x3/aethel.jpg",
-        "first_route": "/raggiesoft-books/books/aethel/era-1-the-age-of-myth/book-i-the-silver-sun/scene-1-chapter-1-the-architect-s-lesson",
+        "first_route": "/raggiesoft-books/books/aethel/era-1-the-age-of-myth/book-i-the-silver-sun/part-1-chapter-1-the-architect-s-lesson",
         "folder": "aethel",
         "hide": false,
         "ebook_sizes": {
             "epub": "294 KB",
-            "pdf": "836 KB",
+            "pdf": "829 KB",
             "text_epub": "294 KB",
-            "text_pdf": "836 KB",
-            "epub_bytes": 300775,
-            "pdf_bytes": 856261,
-            "text_epub_bytes": 300775,
-            "text_pdf_bytes": 856261
+            "text_pdf": "829 KB",
+            "epub_bytes": 300817,
+            "pdf_bytes": 848571,
+            "text_epub_bytes": 300816,
+            "text_pdf_bytes": 848571
         }
     },
     {
@@ -23,18 +23,18 @@
         "title": "Beyond Words",
         "description": "A beautiful, lifelong coming-of-age journey of connection, resilience, and the deeply profound platonic bond between Alex Miller, his cousin Megan, and his best friend Chlo\u00e9 Mason.",
         "image": "/raggiesoft-books/images/covers/2x3/alex-chloe.jpg",
-        "first_route": "/raggiesoft-books/books/alex-chloe/alex-s-childhood/the-carter-house/scene-1-the-first-meeting",
+        "first_route": "/raggiesoft-books/books/alex-chloe/alex-s-childhood/the-carter-house/the-first-meeting",
         "folder": "alex-chloe",
         "hide": false,
         "ebook_sizes": {
-            "epub": "669 KB",
+            "epub": "657 KB",
             "pdf": "1.7 MB",
-            "text_epub": "669 KB",
+            "text_epub": "657 KB",
             "text_pdf": "1.7 MB",
-            "epub_bytes": 685094,
-            "pdf_bytes": 1801861,
-            "text_epub_bytes": 685093,
-            "text_pdf_bytes": 1801861
+            "epub_bytes": 673146,
+            "pdf_bytes": 1801711,
+            "text_epub_bytes": 673144,
+            "text_pdf_bytes": 1801711
         }
     },
     {
@@ -42,18 +42,18 @@
         "title": "Apex: Fall of Earth",
         "description": "The dramatic origin story of Project APEX and the musical revolution that followed.",
         "image": "/raggiesoft-books/images/covers/2x3/apex-fall-of-earth.jpg",
-        "first_route": "/raggiesoft-books/books/apex-fall-of-earth/wyatt-s-prologue/wyatt-expendable-assets/scene-1-the-deep-end-mid-october-2044",
+        "first_route": "/raggiesoft-books/books/apex-fall-of-earth/wyatt-s-prologue/wyatt-expendable-assets/part-1-the-deep-end-mid-october-2044-the-washroom",
         "folder": "apex-fall-of-earth",
         "hide": false,
         "ebook_sizes": {
-            "epub": "598 KB",
+            "epub": "595 KB",
             "pdf": "1.7 MB",
-            "text_epub": "598 KB",
+            "text_epub": "595 KB",
             "text_pdf": "1.7 MB",
-            "epub_bytes": 612051,
-            "pdf_bytes": 1757694,
-            "text_epub_bytes": 612050,
-            "text_pdf_bytes": 1757694
+            "epub_bytes": 608775,
+            "pdf_bytes": 1764104,
+            "text_epub_bytes": 608772,
+            "text_pdf_bytes": 1764104
         }
     },
     {
@@ -61,18 +61,18 @@
         "title": "Fortress in the Clouds",
         "description": "Donald's harrowing escape from Texas to the safety of the Fortress in the Clouds.",
         "image": "/raggiesoft-books/images/covers/2x3/ashley-tower.jpg",
-        "first_route": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-1-the-gathering-storm-tuesday-february-9-2021/scene-1-best-laid-plans-7-30-pm",
+        "first_route": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-1-the-gathering-storm-tuesday-february-9-2021/best-laid-plans-7-30-pm-the-ten-o-clock-news-10-00-pm",
         "folder": "ashley-tower",
         "hide": false,
         "ebook_sizes": {
             "epub": "83 KB",
-            "pdf": "237 KB",
+            "pdf": "236 KB",
             "text_epub": "83 KB",
-            "text_pdf": "237 KB",
-            "epub_bytes": 85365,
-            "pdf_bytes": 242348,
-            "text_epub_bytes": 85366,
-            "text_pdf_bytes": 242348
+            "text_pdf": "236 KB",
+            "epub_bytes": 84490,
+            "pdf_bytes": 241676,
+            "text_epub_bytes": 84495,
+            "text_pdf_bytes": 241676
         }
     },
     {
@@ -80,7 +80,7 @@
         "title": "The Eleventh Child",
         "description": "The emotional journey of eighteen-year-old Aubrey Jordan Fuller as he navigates college life, disability, and breaking free from his suffocating mother, Aubrie Sinclair.",
         "image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
-        "first_route": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/scene-1-an-extension-of-me",
+        "first_route": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-1-an-extension-of-me",
         "folder": "aubrie",
         "hide": false,
         "ebook_sizes": {
@@ -88,10 +88,10 @@
             "pdf": "17.9 MB",
             "text_epub": "852 KB",
             "text_pdf": "3.2 MB",
-            "epub_bytes": 39296011,
-            "pdf_bytes": 18739306,
-            "text_epub_bytes": 872471,
-            "text_pdf_bytes": 3386204
+            "epub_bytes": 39295971,
+            "pdf_bytes": 18739028,
+            "text_epub_bytes": 872430,
+            "text_pdf_bytes": 3385597
         }
     },
     {
@@ -118,18 +118,18 @@
         "title": "The Heart-Hum",
         "description": "A heartfelt story of fifteen-year-old Emily and her wheelchair-using cousin Bob, who build an unbreakable bond and a private language called 'The Heart-Hum' to protect each other from a chaotic world.",
         "image": "/raggiesoft-books/images/covers/2x3/bob-emily.jpg",
-        "first_route": "/raggiesoft-books/books/bob-emily/life-without-a-father/the-longest-day/scene-1-the-final-promise",
+        "first_route": "/raggiesoft-books/books/bob-emily/life-without-a-father/the-longest-day/the-final-promise-a-new-plan-of-action",
         "folder": "bob-emily",
         "hide": false,
         "ebook_sizes": {
-            "epub": "86 KB",
+            "epub": "84 KB",
             "pdf": "230 KB",
-            "text_epub": "86 KB",
+            "text_epub": "84 KB",
             "text_pdf": "230 KB",
-            "epub_bytes": 87793,
-            "pdf_bytes": 235827,
-            "text_epub_bytes": 87794,
-            "text_pdf_bytes": 235827
+            "epub_bytes": 85615,
+            "pdf_bytes": 235362,
+            "text_epub_bytes": 85613,
+            "text_pdf_bytes": 235362
         }
     },
     {
@@ -137,18 +137,18 @@
         "title": "Crimson Node",
         "description": "A gripping sci-fi tale of digital espionage and the mysteries of the Crimson Node project.",
         "image": "/raggiesoft-books/images/covers/2x3/crimson-node.jpg",
-        "first_route": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-1-the-approach-ndash-friday-april-23-1999/scene-1-anomalies",
+        "first_route": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-1-the-approach-ndash-friday-april-23-1999/anomalies",
         "folder": "crimson-node",
         "hide": false,
         "ebook_sizes": {
             "epub": "20 MB",
             "pdf": "20.2 MB",
-            "text_epub": "55 KB",
-            "text_pdf": "164 KB",
-            "epub_bytes": 20981938,
-            "pdf_bytes": 21143764,
-            "text_epub_bytes": 56273,
-            "text_pdf_bytes": 167790
+            "text_epub": "54 KB",
+            "text_pdf": "165 KB",
+            "epub_bytes": 20981263,
+            "pdf_bytes": 21144211,
+            "text_epub_bytes": 55591,
+            "text_pdf_bytes": 169054
         }
     },
     {
@@ -156,7 +156,7 @@
         "title": "The Drew Narrative",
         "description": "The story of Drew and his twin sister Maggie.",
         "image": "/raggiesoft-books/images/covers/2x3/drew.jpg",
-        "first_route": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-1-the-dojang-incident/scene-1-the-core-check",
+        "first_route": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-1-the-dojang-incident/part-1-the-core-check-unannounced-arrival",
         "folder": "drew",
         "hide": false,
         "ebook_sizes": {
@@ -164,10 +164,10 @@
             "pdf": "199 KB",
             "text_epub": "72 KB",
             "text_pdf": "199 KB",
-            "epub_bytes": 73653,
-            "pdf_bytes": 204145,
-            "text_epub_bytes": 73653,
-            "text_pdf_bytes": 204145
+            "epub_bytes": 73332,
+            "pdf_bytes": 204249,
+            "text_epub_bytes": 73332,
+            "text_pdf_bytes": 204249
         }
     },
     {
@@ -175,7 +175,7 @@
         "title": "Before the Distance: The Story of John & Erin",
         "description": "An official five-song narrative story published by Ryan and Cassidy O'Connell of The Stardust Engine across Progress Street (2004) and Lost Sounds (2007). At Commonwealth Polytechnic Institute (CPI) in Blacksburg, Virginia, fraternal twins John and Erin navigate the steep Ironstone hills of campus in their power wheelchairs\u2014forging an unbreakable bond of sibling sanctuary across the rain-slicked curbs of Commonwealth Mall and the limestone halls of campus.",
         "image": "/raggiesoft-books/images/covers/2x3/erin.jpg",
-        "first_route": "/raggiesoft-books/books/erin/before-the-distance-the-story-of-john-erin/seconds-into-thunder/scene-1-the-three-minute-bell",
+        "first_route": "/raggiesoft-books/books/erin/before-the-distance-the-story-of-john-erin/seconds-into-thunder/part-1-the-three-minute-bell",
         "folder": "erin",
         "hide": false,
         "ebook_sizes": {
@@ -183,10 +183,10 @@
             "pdf": "56 KB",
             "text_epub": "18 KB",
             "text_pdf": "56 KB",
-            "epub_bytes": 18503,
-            "pdf_bytes": 57466,
-            "text_epub_bytes": 18505,
-            "text_pdf_bytes": 57466
+            "epub_bytes": 18515,
+            "pdf_bytes": 57422,
+            "text_epub_bytes": 18515,
+            "text_pdf_bytes": 57422
         }
     },
     {
@@ -213,18 +213,18 @@
         "title": "Jack & Sarah",
         "description": "A poignant story of familial connection, second chances, and finding solace in the unexpected support of loved ones.",
         "image": "/raggiesoft-books/images/covers/2x3/jack-sarah.jpg",
-        "first_route": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/the-end-of-a-war/scene-1-the-discovery",
+        "first_route": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/the-end-of-a-war/the-discovery-the-alliance",
         "folder": "jack-sarah",
         "hide": false,
         "ebook_sizes": {
-            "epub": "188 KB",
-            "pdf": "4.4 MB",
-            "text_epub": "188 KB",
-            "text_pdf": "4.4 MB",
-            "epub_bytes": 192633,
-            "pdf_bytes": 4591370,
-            "text_epub_bytes": 192631,
-            "text_pdf_bytes": 4591370
+            "epub": "185 KB",
+            "pdf": "3.2 MB",
+            "text_epub": "185 KB",
+            "text_pdf": "3.2 MB",
+            "epub_bytes": 189661,
+            "pdf_bytes": 3367309,
+            "text_epub_bytes": 189664,
+            "text_pdf_bytes": 3367303
         }
     },
     {
@@ -232,7 +232,7 @@
         "title": "Upon This Winter's Night: The Story of Julian Rowlands",
         "description": "The complete origin narrative behind The Arctic Symphony Project (originally formed as The Winter Palace) and their 3-disc symphonic rock opera 'Tales from the Solstice'. When fourteen-year-old Julian Thomas Rowlands ('Julep')\u2014who is non-verbal, autistic, and uses a manual wheelchair\u2014is abducted from Ewell, Virginia on December 11, 1996 by his estranged father, his fierce twin siblings Gabriel and Gwendolyn Rowlands and his twin anchors Maria and Clara Harrison turn their living room into a war room and broadcast a symphonic rock rescue beacon across the Appalachian radio towers. Spanning from Julian's 1996 abduction and Ohio rescue, the forging of the vaulted Trilingual 'Family Mix' in Cymraeg, Qu\u00e9b\u00e9cois French, and English, and the family's 1998 return to Anglesey, Wales, to their 2007 meeting in Williamsburg with Samantha, Jyn, and Matthew\u2014whose cross-country abduction from Norfolk to Seattle was survived using Julian's song as his sonic armor.",
         "image": "/raggiesoft-books/images/covers/2x3/julian.jpg",
-        "first_route": "/raggiesoft-books/books/julian/era-1-the-winter-palace-the-breach-spring-december-1996/foreign-language/scene-1-the-8th-grade-iep-meeting",
+        "first_route": "/raggiesoft-books/books/julian/era-1-the-winter-palace-the-breach-spring-december-1996/foreign-language/the-8th-grade-iep-meeting",
         "folder": "julian",
         "hide": false,
         "ebook_sizes": {
@@ -240,10 +240,10 @@
             "pdf": "471 KB",
             "text_epub": "166 KB",
             "text_pdf": "471 KB",
-            "epub_bytes": 169971,
-            "pdf_bytes": 482167,
-            "text_epub_bytes": 169974,
-            "text_pdf_bytes": 482167
+            "epub_bytes": 169685,
+            "pdf_bytes": 482428,
+            "text_epub_bytes": 169681,
+            "text_pdf_bytes": 482428
         }
     },
     {
@@ -251,18 +251,18 @@
         "title": "Luna & Leo",
         "description": "Welcome to Luna & Leo, an expansive narrative detailing their Great North American Excursion and beyond.",
         "image": "/raggiesoft-books/images/covers/2x3/luna-leo.jpg",
-        "first_route": "/raggiesoft-books/books/luna-leo/early-years/birthday-morning-and-the-grandparents-arrival/scene-1-birthday-morning-and-the-grandparents-arrival",
+        "first_route": "/raggiesoft-books/books/luna-leo/early-years/birthday-morning-and-the-grandparents-arrival/birthday-morning-and-the-grandparents-arrival-birthday-cake-and-sweet-memories-on-ludlow-road",
         "folder": "luna-leo",
         "hide": false,
         "ebook_sizes": {
             "epub": "10.1 MB",
-            "pdf": "11.8 MB",
-            "text_epub": "789 KB",
-            "text_pdf": "2.4 MB",
-            "epub_bytes": 10560699,
-            "pdf_bytes": 12323502,
-            "text_epub_bytes": 807826,
-            "text_pdf_bytes": 2517079
+            "pdf": "11.6 MB",
+            "text_epub": "777 KB",
+            "text_pdf": "2.3 MB",
+            "epub_bytes": 10548798,
+            "pdf_bytes": 12180058,
+            "text_epub_bytes": 795942,
+            "text_pdf_bytes": 2373369
         }
     },
     {
@@ -270,18 +270,18 @@
         "title": "Mary's Childhood",
         "description": "A nostalgic, heartwarming look back at a chaotic but deeply loving childhood.",
         "image": "/raggiesoft-books/images/covers/2x3/mary-childhood.jpg",
-        "first_route": "/raggiesoft-books/books/mary-childhood/mary-s-early-years/chapter-1-a-moment-of-peace/scene-1-high-command",
+        "first_route": "/raggiesoft-books/books/mary-childhood/mary-s-early-years/chapter-1-a-moment-of-peace/high-command-the-blanket-tent-sanctuary",
         "folder": "mary-childhood",
         "hide": false,
         "ebook_sizes": {
             "epub": "9.4 KB",
-            "pdf": "24 KB",
+            "pdf": "25 KB",
             "text_epub": "9.4 KB",
-            "text_pdf": "24 KB",
-            "epub_bytes": 9587,
-            "pdf_bytes": 24793,
-            "text_epub_bytes": 9590,
-            "text_pdf_bytes": 24793
+            "text_pdf": "25 KB",
+            "epub_bytes": 9634,
+            "pdf_bytes": 25934,
+            "text_epub_bytes": 9640,
+            "text_pdf_bytes": 25934
         }
     },
     {
@@ -289,18 +289,18 @@
         "title": "Meredith",
         "description": "A profound exploration of grief, healing, and the protective embrace of chosen family.",
         "image": "/raggiesoft-books/images/covers/2x3/meredith.jpg",
-        "first_route": "/raggiesoft-books/books/meredith/book-4-the-vanguard/chapter-1-the-first-drop-off/scene-1-the-garage-barracks",
+        "first_route": "/raggiesoft-books/books/meredith/book-4-the-vanguard/chapter-1-the-first-drop-off/part-1-the-garage-barracks-the-color-correction",
         "folder": "meredith",
         "hide": false,
         "ebook_sizes": {
             "epub": "40 KB",
-            "pdf": "118 KB",
+            "pdf": "119 KB",
             "text_epub": "40 KB",
-            "text_pdf": "118 KB",
-            "epub_bytes": 41469,
-            "pdf_bytes": 120758,
-            "text_epub_bytes": 41468,
-            "text_pdf_bytes": 120758
+            "text_pdf": "119 KB",
+            "epub_bytes": 41115,
+            "pdf_bytes": 121729,
+            "text_epub_bytes": 41120,
+            "text_pdf_bytes": 121729
         }
     },
     {
@@ -308,18 +308,18 @@
         "title": "Nate",
         "description": "A deeply moving story of sibling devotion, chronic illness, and finding joy in quiet rebellion.",
         "image": "/raggiesoft-books/images/covers/2x3/nate.jpg",
-        "first_route": "/raggiesoft-books/books/nate/book-the-architecture-of-safe-spaces/chapter-1-the-triplet-anomaly-saturday-april-16-1994/scene-1-the-rhythmic-drumming",
+        "first_route": "/raggiesoft-books/books/nate/book-the-architecture-of-safe-spaces/chapter-1-the-triplet-anomaly-saturday-april-16-1994/the-rhythmic-drumming",
         "folder": "nate",
         "hide": false,
         "ebook_sizes": {
-            "epub": "70 KB",
+            "epub": "69 KB",
             "pdf": "198 KB",
-            "text_epub": "70 KB",
+            "text_epub": "69 KB",
             "text_pdf": "198 KB",
-            "epub_bytes": 71648,
-            "pdf_bytes": 202797,
-            "text_epub_bytes": 71654,
-            "text_pdf_bytes": 202797
+            "epub_bytes": 70992,
+            "pdf_bytes": 202768,
+            "text_epub_bytes": 70990,
+            "text_pdf_bytes": 202768
         }
     },
     {
@@ -327,18 +327,18 @@
         "title": "Nichole",
         "description": "The extraordinary life of Nichole Bennett, the brilliant architect of the Bennet Machine.",
         "image": "/raggiesoft-books/images/covers/2x3/nichole.jpg",
-        "first_route": "/raggiesoft-books/books/nichole/elementary-school/the-newport-vacation/scene-1-the-bachelor-pad",
+        "first_route": "/raggiesoft-books/books/nichole/elementary-school/the-newport-vacation/part-1-the-bachelor-pad-the-pitch",
         "folder": "nichole",
         "hide": false,
         "ebook_sizes": {
-            "epub": "448 KB",
+            "epub": "444 KB",
             "pdf": "1.2 MB",
-            "text_epub": "448 KB",
+            "text_epub": "444 KB",
             "text_pdf": "1.2 MB",
-            "epub_bytes": 458417,
-            "pdf_bytes": 1273304,
-            "text_epub_bytes": 458413,
-            "text_pdf_bytes": 1273304
+            "epub_bytes": 454848,
+            "pdf_bytes": 1273260,
+            "text_epub_bytes": 454853,
+            "text_pdf_bytes": 1273260
         }
     },
     {
@@ -346,18 +346,18 @@
         "title": "Paige",
         "description": "A compelling story of camaraderie and ambition set amidst the grueling deadlines and late-night coding sessions of university life.",
         "image": "/raggiesoft-books/images/covers/2x3/paige.jpg",
-        "first_route": "/raggiesoft-books/books/paige/freshman-year/band-camp/scene-1-the-downbeat",
+        "first_route": "/raggiesoft-books/books/paige/freshman-year/band-camp/part-1-the-downbeat-rocket-burger",
         "folder": "paige",
         "hide": false,
         "ebook_sizes": {
-            "epub": "496 KB",
+            "epub": "492 KB",
             "pdf": "1.4 MB",
-            "text_epub": "496 KB",
+            "text_epub": "492 KB",
             "text_pdf": "1.4 MB",
-            "epub_bytes": 508184,
-            "pdf_bytes": 1452417,
-            "text_epub_bytes": 508180,
-            "text_pdf_bytes": 1452417
+            "epub_bytes": 503837,
+            "pdf_bytes": 1455612,
+            "text_epub_bytes": 503836,
+            "text_pdf_bytes": 1455612
         }
     },
     {
@@ -365,7 +365,7 @@
         "title": "Pebble Borrow",
         "description": "A tense, atmospheric thriller tracking a dangerous journey along US Highway 11.",
         "image": "/raggiesoft-books/images/covers/2x3/pebble-borrow.jpg",
-        "first_route": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway/the-threshold/scene-1-out-of-the-storm",
+        "first_route": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway/the-threshold/out-of-the-storm",
         "folder": "pebble-borrow",
         "hide": false,
         "ebook_sizes": {
@@ -373,10 +373,10 @@
             "pdf": "406 KB",
             "text_epub": "152 KB",
             "text_pdf": "406 KB",
-            "epub_bytes": 155218,
-            "pdf_bytes": 415818,
-            "text_epub_bytes": 155221,
-            "text_pdf_bytes": 415818
+            "epub_bytes": 155174,
+            "pdf_bytes": 415749,
+            "text_epub_bytes": 155170,
+            "text_pdf_bytes": 415749
         }
     },
     {
@@ -384,18 +384,18 @@
         "title": "The Quantum Directive: Jessica's Cut",
         "description": "A high-stakes corporate drama following Jessica Taylor in the late-90s tech boom.",
         "image": "/raggiesoft-books/images/covers/2x3/quantum-directive-1-jessica.jpg",
-        "first_route": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/an-ordinary-july/scene-1-day-to-day-at-quantum",
+        "first_route": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/an-ordinary-july/part-1-day-to-day-at-quantum-providence-to-boston",
         "folder": "quantum-directive-1-jessica",
         "hide": false,
         "ebook_sizes": {
-            "epub": "88 KB",
+            "epub": "86 KB",
             "pdf": "253 KB",
-            "text_epub": "88 KB",
+            "text_epub": "86 KB",
             "text_pdf": "253 KB",
-            "epub_bytes": 90479,
-            "pdf_bytes": 259480,
-            "text_epub_bytes": 90477,
-            "text_pdf_bytes": 259480
+            "epub_bytes": 87848,
+            "pdf_bytes": 259351,
+            "text_epub_bytes": 87849,
+            "text_pdf_bytes": 259351
         }
     },
     {
@@ -403,18 +403,18 @@
         "title": "The Quantum Directive: Kelly's Cut",
         "description": "A deeply personal corporate drama detailing the late-90s tech boom from the trenches.",
         "image": "/raggiesoft-books/images/covers/2x3/quantum-directive-2-kelly.jpg",
-        "first_route": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/a-fork-in-the-road/scene-1-the-bulletin-board",
+        "first_route": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/a-fork-in-the-road/the-bulletin-board-pager-code-005-1",
         "folder": "quantum-directive-2-kelly",
         "hide": false,
         "ebook_sizes": {
-            "epub": "80 KB",
-            "pdf": "7.5 MB",
-            "text_epub": "80 KB",
-            "text_pdf": "7.5 MB",
-            "epub_bytes": 81699,
-            "pdf_bytes": 7888871,
-            "text_epub_bytes": 81703,
-            "text_pdf_bytes": 7888871
+            "epub": "77 KB",
+            "pdf": "5.3 MB",
+            "text_epub": "77 KB",
+            "text_pdf": "5.3 MB",
+            "epub_bytes": 79117,
+            "pdf_bytes": 5514637,
+            "text_epub_bytes": 79119,
+            "text_pdf_bytes": 5514641
         }
     },
     {
@@ -422,18 +422,18 @@
         "title": "The Quantum Directive: The Caretakers",
         "description": "Follow the Vance and Delaney siblings as they navigate found family, trauma, and corporate maneuvering at Quantum.",
         "image": "/raggiesoft-books/images/covers/2x3/quantum-directive-3-casey.jpg",
-        "first_route": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-1-the-northern-regional/scene-1-departing-npn",
+        "first_route": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-1-the-northern-regional/departing-npn-the-crown-burger-debrief",
         "folder": "quantum-directive-3-casey",
         "hide": false,
         "ebook_sizes": {
             "epub": "1.4 MB",
             "pdf": "2.2 MB",
-            "text_epub": "402 KB",
+            "text_epub": "397 KB",
             "text_pdf": "1.2 MB",
-            "epub_bytes": 1462071,
-            "pdf_bytes": 2321004,
-            "text_epub_bytes": 411726,
-            "text_pdf_bytes": 1267782
+            "epub_bytes": 1457239,
+            "pdf_bytes": 2315571,
+            "text_epub_bytes": 406885,
+            "text_pdf_bytes": 1261268
         }
     },
     {
@@ -441,18 +441,18 @@
         "title": "The Rachel Narrative",
         "description": "A complex, multi-generational story tracking the life, challenges, and growth of Rachel and her brother Michael.",
         "image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
-        "first_route": "/raggiesoft-books/books/rachel/book-1-the-delaney-street-years/chapter-1-the-sabertooth-kitty/scene-1-the-sensory-avalanche",
+        "first_route": "/raggiesoft-books/books/rachel/book-1-the-delaney-street-years/chapter-1-the-sabertooth-kitty/the-sensory-avalanche",
         "folder": "rachel",
         "hide": false,
         "ebook_sizes": {
             "epub": "13.5 MB",
             "pdf": "15.2 MB",
-            "text_epub": "982 KB",
+            "text_epub": "975 KB",
             "text_pdf": "2.7 MB",
-            "epub_bytes": 14119930,
-            "pdf_bytes": 15985788,
-            "text_epub_bytes": 1005747,
-            "text_pdf_bytes": 2809765
+            "epub_bytes": 14112826,
+            "pdf_bytes": 15978888,
+            "text_epub_bytes": 998655,
+            "text_pdf_bytes": 2801968
         }
     },
     {
@@ -460,18 +460,18 @@
         "title": "Ruby Mountain",
         "description": "A high-stakes corporate family drama revolving around the battle for The Prospector's Keep.",
         "image": "/raggiesoft-books/images/covers/2x3/ruby-mountain.jpg",
-        "first_route": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism/chapter-1-the-eve-of-exile/scene-1-the-traitor",
+        "first_route": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism/chapter-1-the-eve-of-exile/the-traitor-the-migration",
         "folder": "ruby-mountain",
         "hide": false,
         "ebook_sizes": {
-            "epub": "233 KB",
+            "epub": "232 KB",
             "pdf": "648 KB",
-            "text_epub": "233 KB",
+            "text_epub": "232 KB",
             "text_pdf": "648 KB",
-            "epub_bytes": 238842,
-            "pdf_bytes": 663805,
-            "text_epub_bytes": 238843,
-            "text_pdf_bytes": 663805
+            "epub_bytes": 237598,
+            "pdf_bytes": 663054,
+            "text_epub_bytes": 237599,
+            "text_pdf_bytes": 663054
         }
     },
     {
@@ -479,7 +479,7 @@
         "title": "Runebreaker: The Dream Kingdom",
         "description": "For four hundred and four years of the Era of the Crystal, the inhabitants of the Dream Kingdom whispered of an ancient legend: that the Sundered Crystal\u2014one half crimson, one half sapphire\u2014would one day return to reunite the fractured code of their world. Over the centuries, as the tyrannical Grand Wizard seized the Great Directory and no trace of the two halves was ever found, the people came to believe the Crystal was nothing more than a myth. Then, on a quiet Friday night in October 1992, eighteen-year-old fraternal twins Ocea and Tay are pulled through the glass of their living room CRT television\u2014each carrying half of the painted clay summer-camp medallion they made together in the real world. Set to the 23-track Runebreaker (Original Soundtrack) by Mana Canvas, this chronicle follows Ocea's barefoot quest in her t-shirt and jeans to rescue her older twin brother and usher in the Era of the Restored Realm.",
         "image": "/raggiesoft-books/images/covers/2x3/runebreaker.jpg",
-        "first_route": "/raggiesoft-books/books/runebreaker/era-1-the-era-of-the-crystal/chapter-1-insert-coin-28th-day-of-the-last-frost-year-404-ec/scene-1-main-theme-the-living-room",
+        "first_route": "/raggiesoft-books/books/runebreaker/era-1-the-era-of-the-crystal/chapter-1-insert-coin-28th-day-of-the-last-frost-year-404-ec/part-1-main-theme-the-living-room",
         "folder": "runebreaker",
         "hide": false,
         "ebook_sizes": {
@@ -498,18 +498,18 @@
         "title": "Samantha",
         "description": "A heart-pounding thriller about a kidnapping and the fierce sibling bond that changes everything.",
         "image": "/raggiesoft-books/images/covers/2x3/samantha.jpg",
-        "first_route": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-1-the-father-and-the-uncle-sunday-july-13-1997/scene-1-untitled-chapter",
+        "first_route": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-1-the-father-and-the-uncle-sunday-july-13-1997/the-father-and-the-uncle",
         "folder": "samantha",
         "hide": false,
         "ebook_sizes": {
             "epub": "65 KB",
-            "pdf": "187 KB",
+            "pdf": "190 KB",
             "text_epub": "65 KB",
-            "text_pdf": "187 KB",
-            "epub_bytes": 66252,
-            "pdf_bytes": 191601,
-            "text_epub_bytes": 66256,
-            "text_pdf_bytes": 191601
+            "text_pdf": "190 KB",
+            "epub_bytes": 66694,
+            "pdf_bytes": 194611,
+            "text_epub_bytes": 66696,
+            "text_pdf_bytes": 194611
         }
     },
     {
@@ -517,18 +517,18 @@
         "title": "The Stardust Engine",
         "description": "The official history, archives, and lore of The Stardust Engine.",
         "image": "/raggiesoft-books/images/covers/2x3/stardust-engine.jpg",
-        "first_route": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra/chapter-1-escape-velocity-ndash-1995/scene-1-the-magnum-opus-ndash-12-00-pm",
+        "first_route": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra/chapter-1-escape-velocity-ndash-1995/the-magnum-opus-ndash-12-00-pm",
         "folder": "stardust-engine",
         "hide": false,
         "ebook_sizes": {
             "epub": "9.4 KB",
-            "pdf": "29 KB",
+            "pdf": "25 KB",
             "text_epub": "9.4 KB",
-            "text_pdf": "29 KB",
-            "epub_bytes": 9674,
-            "pdf_bytes": 29672,
-            "text_epub_bytes": 9676,
-            "text_pdf_bytes": 29672
+            "text_pdf": "25 KB",
+            "epub_bytes": 9657,
+            "pdf_bytes": 25449,
+            "text_epub_bytes": 9656,
+            "text_pdf_bytes": 25449
         }
     },
     {
