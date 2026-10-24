@@ -1617,6 +1617,123 @@ function initOceanViewReader() {
             localStorage.setItem('rs-last-read-title', document.title);
         }
     }
+
+    // ==========================================
+    // 10. RAGGIESOFT BACKSTAGE <dialog> API CONTROLLER
+    // ==========================================
+    // Connects `books.raggiesoft.com` to `backstage.raggiesoft.com` (with automatic
+    // CDN fallback to `assets.raggiesoft.com/raggiesoft-backstage/api/v1/`).
+    // Triggers when the reader clicks either:
+    //   1. A `[data-backstage-slug]` button in the scene's Backstage callout card, OR
+    //   2. Any inline link pointing to `https://backstage.raggiesoft.com/<slug>`
+    //      inside the reading pane (unless marked `data-backstage-direct="true"`).
+    const bsDialog = document.getElementById('rs-backstage-dialog');
+    const bsCloseBtn = document.getElementById('rs-backstage-dialog-close');
+    const bsTitleEl = document.getElementById('rs-backstage-dialog-title');
+    const bsKickerEl = document.getElementById('rs-backstage-dialog-kicker');
+    const bsMetaEl = document.getElementById('rs-backstage-dialog-meta');
+    const bsBodyEl = document.getElementById('rs-backstage-dialog-body');
+    const bsBounceLink = document.getElementById('rs-backstage-dialog-bounce');
+
+    if (bsDialog && bsCloseBtn && !bsDialog.dataset.bsBound) {
+        bsDialog.dataset.bsBound = 'true';
+        bsCloseBtn.addEventListener('click', () => bsDialog.close());
+        bsDialog.addEventListener('click', (e) => {
+            if (e.target === bsDialog) bsDialog.close();
+        });
+    }
+
+    if (!window.__rsBackstageClickBound) {
+        window.__rsBackstageClickBound = true;
+        document.addEventListener('click', (e) => {
+            const targetEl = e.target && e.target.closest ? e.target.closest('[data-backstage-slug], a[href*="backstage.raggiesoft.com/"]') : null;
+            if (!targetEl) return;
+            if (targetEl.getAttribute('data-backstage-direct') === 'true') return;
+
+            let slug = targetEl.getAttribute('data-backstage-slug') || '';
+            if (!slug && targetEl.tagName === 'A') {
+                try {
+                    const u = new URL(targetEl.href, window.location.origin);
+                    if (u.hostname === 'backstage.raggiesoft.com') {
+                        slug = u.pathname.replace(/^\/+|\/+$/g, '');
+                    }
+                } catch (err) {}
+            }
+            if (!slug) return;
+
+            const activeDialog = document.getElementById('rs-backstage-dialog');
+            if (!activeDialog) return;
+
+            e.preventDefault();
+            e.stopPropagation();
+
+            const titleEl = document.getElementById('rs-backstage-dialog-title');
+            const kickerEl = document.getElementById('rs-backstage-dialog-kicker');
+            const metaEl = document.getElementById('rs-backstage-dialog-meta');
+            const bodyEl = document.getElementById('rs-backstage-dialog-body');
+            const bounceEl = document.getElementById('rs-backstage-dialog-bounce');
+            const fullBackstageUrl = 'https://backstage.raggiesoft.com/' + slug;
+
+            if (titleEl) titleEl.textContent = 'Loading RaggieSoft Backstage Record...';
+            if (kickerEl) kickerEl.textContent = '🎬 RaggieSoft Backstage Archive';
+            if (metaEl) {
+                metaEl.style.display = 'none';
+                metaEl.textContent = '';
+            }
+            if (bodyEl) {
+                bodyEl.innerHTML = '<p style="text-indent: 0; opacity: 0.8;">Fetching correspondence &amp; behind-the-scenes dossier from RaggieSoft Backstage...</p>';
+            }
+            if (bounceEl) {
+                bounceEl.setAttribute('href', fullBackstageUrl);
+            }
+            if (typeof activeDialog.showModal === 'function') {
+                activeDialog.showModal();
+            } else {
+                activeDialog.setAttribute('open', 'open');
+            }
+
+            const primaryApiUrl = 'https://backstage.raggiesoft.com/api/v1/' + slug + '.json';
+            const fallbackCdnApiUrl = 'https://assets.raggiesoft.com/raggiesoft-backstage/api/v1/' + slug + '.json';
+
+            fetch(primaryApiUrl)
+                .then((res) => {
+                    if (!res.ok) throw new Error('Primary Backstage API returned ' + res.status);
+                    return res.json();
+                })
+                .catch(() =>
+                    fetch(fallbackCdnApiUrl).then((res) => {
+                        if (!res.ok) throw new Error('CDN Backstage API returned ' + res.status);
+                        return res.json();
+                    })
+                )
+                .then((data) => {
+                    if (titleEl) titleEl.textContent = data.title || 'Backstage Dossier';
+                    if (kickerEl) kickerEl.textContent = '🎬 ' + (data.category || 'RaggieSoft Backstage Archive');
+                    if (metaEl) {
+                        const metaParts = [];
+                        if (data.date) metaParts.push(data.date + (data.time ? ' • ' + data.time : ''));
+                        if (data.location) metaParts.push(data.location);
+                        if (data.sender) metaParts.push('From: ' + data.sender);
+                        if (data.subject) metaParts.push('Subject: ' + data.subject);
+                        if (metaParts.length > 0) {
+                            metaEl.textContent = metaParts.join('  |  ');
+                            metaEl.style.display = 'block';
+                        }
+                    }
+                    if (bodyEl) {
+                        bodyEl.innerHTML = data.html || '<p>No content available.</p>';
+                    }
+                    if (bounceEl && data.canonicalUrl) {
+                        bounceEl.setAttribute('href', data.canonicalUrl);
+                    }
+                })
+                .catch(() => {
+                    if (bodyEl) {
+                        bodyEl.innerHTML = '<p style="text-indent: 0;">Click below to open this dossier directly on <strong>RaggieSoft Backstage</strong>.</p>';
+                    }
+                });
+        });
+    }
 } // end initOceanViewReader()
 
 window.applyTranslationMode = function(mode) {

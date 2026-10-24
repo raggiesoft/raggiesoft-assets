@@ -7,13 +7,13 @@
     "next_series_url": "",
     "ebook_sizes": {
         "epub": "36.7 MB",
-        "pdf": "17.5 MB",
-        "text_epub": "893 KB",
-        "text_pdf": "3.4 MB",
-        "epub_bytes": 38493453,
-        "pdf_bytes": 18323733,
-        "text_epub_bytes": 914788,
-        "text_pdf_bytes": 3514181
+        "pdf": "17.4 MB",
+        "text_epub": "858 KB",
+        "text_pdf": "3.2 MB",
+        "epub_bytes": 38457514,
+        "pdf_bytes": 18199455,
+        "text_epub_bytes": 878859,
+        "text_pdf_bytes": 3389822
     },
     "eras": [
         {
@@ -38,13 +38,8 @@
                         },
                         {
                             "scene_num": 3,
-                            "scene_title": "Scene 3: Interlude: The Accommodation File",
+                            "scene_title": "Scene 3: The Shared Bed",
                             "file_path": "e001/c001/s003.md"
-                        },
-                        {
-                            "scene_num": 4,
-                            "scene_title": "Scene 4: The Shared Bed",
-                            "file_path": "e001/c001/s004.md"
                         }
                     ]
                 },
@@ -65,23 +60,18 @@
                         },
                         {
                             "scene_num": 3,
-                            "scene_title": "Scene 3: Interlude: The Counselor's Note",
+                            "scene_title": "Scene 3: All the Way",
                             "file_path": "e001/c002/s003.md"
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: All the Way",
+                            "scene_title": "Scene 4: The Routine",
                             "file_path": "e001/c002/s004.md"
                         },
                         {
                             "scene_num": 5,
-                            "scene_title": "Scene 5: The Routine",
+                            "scene_title": "Scene 5: One Last Night",
                             "file_path": "e001/c002/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: One Last Night",
-                            "file_path": "e001/c002/s006.md"
                         }
                     ]
                 },
@@ -107,13 +97,8 @@
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: Interlude: Early Check-In Rounds",
+                            "scene_title": "Scene 4: Stranded",
                             "file_path": "e001/c003/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: Stranded",
-                            "file_path": "e001/c003/s005.md"
                         }
                     ]
                 },
@@ -159,63 +144,58 @@
                         },
                         {
                             "scene_num": 8,
-                            "scene_title": "Scene 8: Interlude: The Clerical Error File",
+                            "scene_title": "Scene 8: Interlude: Across the Firewall",
                             "file_path": "e001/c004/s008.md"
                         },
                         {
                             "scene_num": 9,
-                            "scene_title": "Scene 9: Interlude: Across the Firewall",
+                            "scene_title": "Scene 9: Interlude: The Floor Two Inquiry",
                             "file_path": "e001/c004/s009.md"
                         },
                         {
                             "scene_num": 10,
-                            "scene_title": "Scene 10: Interlude: The Floor Two Inquiry",
+                            "scene_title": "Scene 10: The Provisional Agreement",
                             "file_path": "e001/c004/s010.md"
                         },
                         {
                             "scene_num": 11,
-                            "scene_title": "Scene 11: The Provisional Agreement",
+                            "scene_title": "Scene 11: Logistics of a Co-Ed Suite",
                             "file_path": "e001/c004/s011.md"
                         },
                         {
                             "scene_num": 12,
-                            "scene_title": "Scene 12: Logistics of a Co-Ed Suite",
+                            "scene_title": "Scene 12: The First Choice",
                             "file_path": "e001/c004/s012.md"
                         },
                         {
                             "scene_num": 13,
-                            "scene_title": "Scene 13: The First Choice",
+                            "scene_title": "Scene 13: The Kincaid Hall Tea Rebellion",
                             "file_path": "e001/c004/s013.md"
                         },
                         {
                             "scene_num": 14,
-                            "scene_title": "Scene 14: The Kincaid Hall Tea Rebellion",
+                            "scene_title": "Scene 14: The First Assist",
                             "file_path": "e001/c004/s014.md"
                         },
                         {
                             "scene_num": 15,
-                            "scene_title": "Scene 15: The First Assist",
+                            "scene_title": "Scene 15: The Spare Hardware",
                             "file_path": "e001/c004/s015.md"
                         },
                         {
                             "scene_num": 16,
-                            "scene_title": "Scene 16: The Spare Hardware",
+                            "scene_title": "Scene 16: The New Voice",
                             "file_path": "e001/c004/s016.md"
                         },
                         {
                             "scene_num": 17,
-                            "scene_title": "Scene 17: The New Voice",
+                            "scene_title": "Scene 17: The Antidote",
                             "file_path": "e001/c004/s017.md"
                         },
                         {
                             "scene_num": 18,
-                            "scene_title": "Scene 18: The Antidote",
+                            "scene_title": "Scene 18: The Trust Fall",
                             "file_path": "e001/c004/s018.md"
-                        },
-                        {
-                            "scene_num": 19,
-                            "scene_title": "Scene 19: The Trust Fall",
-                            "file_path": "e001/c004/s019.md"
                         }
                     ]
                 },
@@ -478,33 +458,18 @@
                         },
                         {
                             "scene_num": 2,
-                            "scene_title": "Scene 2: Interlude: The Joint Administrative Complaint",
+                            "scene_title": "Scene 2: Interlude: The Post-Census Verdict",
                             "file_path": "e001/c011/s002.md"
                         },
                         {
                             "scene_num": 3,
-                            "scene_title": "Scene 3: Interlude: The Fourteen-Day Floor Reports",
+                            "scene_title": "Scene 3: Interlude: Relief at the :45 Pulse",
                             "file_path": "e001/c011/s003.md"
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: Interlude: The Post-Census Verdict",
+                            "scene_title": "Scene 4: The Suite Arrangement Consent Form",
                             "file_path": "e001/c011/s004.md"
-                        },
-                        {
-                            "scene_num": 5,
-                            "scene_title": "Scene 5: Interlude: The Good-Faith Accord",
-                            "file_path": "e001/c011/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: Interlude: Relief at the :45 Pulse",
-                            "file_path": "e001/c011/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The Suite Arrangement Consent Form",
-                            "file_path": "e001/c011/s007.md"
                         }
                     ]
                 },
@@ -530,23 +495,13 @@
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: Interlude: The Mitigating Factor",
+                            "scene_title": "Scene 4: The Nightly Pact",
                             "file_path": "e001/c012/s004.md"
                         },
                         {
                             "scene_num": 5,
-                            "scene_title": "Scene 5: Interlude: The Bureaucratic Firewall",
+                            "scene_title": "Scene 5: The First Night of the Pact",
                             "file_path": "e001/c012/s005.md"
-                        },
-                        {
-                            "scene_num": 6,
-                            "scene_title": "Scene 6: The Nightly Pact",
-                            "file_path": "e001/c012/s006.md"
-                        },
-                        {
-                            "scene_num": 7,
-                            "scene_title": "Scene 7: The First Night of the Pact",
-                            "file_path": "e001/c012/s007.md"
                         }
                     ]
                 },
@@ -911,33 +866,28 @@
                         },
                         {
                             "scene_num": 9,
-                            "scene_title": "Scene 9: Interlude: Fifty-Eight Seconds",
+                            "scene_title": "Scene 9: The Final Exam",
                             "file_path": "e001/c025/s009.md"
                         },
                         {
                             "scene_num": 10,
-                            "scene_title": "Scene 10: The Final Exam",
+                            "scene_title": "Scene 10: The First Shot",
                             "file_path": "e001/c025/s010.md"
                         },
                         {
                             "scene_num": 11,
-                            "scene_title": "Scene 11: The First Shot",
+                            "scene_title": "Scene 11: Goodbye to Henry",
                             "file_path": "e001/c025/s011.md"
                         },
                         {
                             "scene_num": 12,
-                            "scene_title": "Scene 12: Goodbye to Henry",
+                            "scene_title": "Scene 12: Departure for Winter Break",
                             "file_path": "e001/c025/s012.md"
                         },
                         {
                             "scene_num": 13,
-                            "scene_title": "Scene 13: Departure for Winter Break",
+                            "scene_title": "Scene 13: Interlude: A Dangerous Idea",
                             "file_path": "e001/c025/s013.md"
-                        },
-                        {
-                            "scene_num": 14,
-                            "scene_title": "Scene 14: Interlude: A Dangerous Idea",
-                            "file_path": "e001/c025/s014.md"
                         }
                     ]
                 }
