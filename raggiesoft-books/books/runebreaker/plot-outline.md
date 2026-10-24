@@ -16,7 +16,7 @@ Ocea arrives in a glitching, unfamiliar pixelated realm. She is disoriented, try
 Ocea discovers she holds the Fire-Engine Red half of a mysterious magical medallion, establishing her resolve and anchoring her identity.
 
 **5. The Crystal Plains**
-Ocea steps out into the vibrant, 16-bit SNES-style overworld for the very first time.
+Ocea steps out into the vibrant, 16-bit Super Kinoka-style overworld for the very first time.
 
 **6. Sanctuary Village & 6. Sanctuary Inn (Rest Theme)**
 Ocea arrives at the first friendly settlement. She explores the item shops (Track 5) and rests to restore her health at the inn (Track 6).
@@ -67,7 +67,7 @@ The Grand Wizard is furious. His perfect order has been shattered. The realizati
 The first phase of the final boss battle. An intense, high-energy 16-bit epic as Ocea and Tay tag-team the frantic wizard.
 
 **20. The True Form**
-The Wizard transforms, shedding his mortal bounds for a terrifying final digital monstrosity. A cinematic, grandiose SNES battle theme pulling out all the soundchip stops.
+The Wizard transforms, shedding his mortal bounds for a terrifying final digital monstrosity. A cinematic, grandiose 16-bit battle theme pulling out all the soundchip stops.
 
 **21. The Grand Decree (Reprise)**
 The battle is won. The Wizard's digital form collapses, and his corrupted directory begins to dissolve around him. In his final moments, a haunting, slowed-down, desperate reprise of his booming anthem plays. He realizes his perfect order is completely shattered.

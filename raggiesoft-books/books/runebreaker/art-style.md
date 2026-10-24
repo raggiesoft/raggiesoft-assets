@@ -1,7 +1,7 @@
 # Dream Kingdom - Art Style Guide
 
 **Visual Aesthetic:** 
-Gorgeous, highly detailed 16-bit SNES-era RPG pixel art (or lush classic game manual illustration style). It should feature vibrant fantasy landscapes (aurora skies, floating islands, glowing crystal castles).
+Gorgeous, highly detailed 16-bit Super Kinoka-era RPG pixel art (or lush classic game manual illustration style). It should feature vibrant fantasy landscapes (aurora skies, floating islands, glowing crystal castles).
 
 **Ocea's Character Rules:**
 * **CRITICAL:** She MUST be wearing modern casual clothes (a t-shirt and jeans).

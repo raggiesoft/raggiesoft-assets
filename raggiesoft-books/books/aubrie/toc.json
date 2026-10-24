@@ -1674,8 +1674,8 @@
                 },
                 {
                     "chap_num": 6,
-                    "chap_title": "Chapter 6",
-                    "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/chapter-6",
+                    "chap_title": "The Quiet Sanctuary and the Bullet Train",
+                    "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/the-quiet-sanctuary-and-the-bullet-train",
                     "scenes": [
                         {
                             "scene_num": 1,
@@ -1689,7 +1689,7 @@
                         },
                         {
                             "scene_num": 3,
-                            "scene_title": "Scene 3: The Hassha Melody on the Shinkansen Platform",
+                            "scene_title": "Scene 3: The Hassha Melody on the Bullet Train Platform",
                             "file_path": "e004/c006/s003.md"
                         },
                         {
@@ -1701,8 +1701,8 @@
                 },
                 {
                     "chap_num": 7,
-                    "chap_title": "Chapter 7",
-                    "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/chapter-7",
+                    "chap_title": "Voyages on the Seto Inland Sea",
+                    "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/voyages-on-the-seto-inland-sea",
                     "scenes": [
                         {
                             "scene_num": 1,
