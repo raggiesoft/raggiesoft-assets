@@ -6,14 +6,14 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "36.6 MB",
-        "pdf": "17.3 MB",
-        "text_epub": "819 KB",
-        "text_pdf": "3.1 MB",
-        "epub_bytes": 38417655,
-        "pdf_bytes": 18093001,
-        "text_epub_bytes": 838996,
-        "text_pdf_bytes": 3281944
+        "epub": "36.7 MB",
+        "pdf": "17.5 MB",
+        "text_epub": "893 KB",
+        "text_pdf": "3.4 MB",
+        "epub_bytes": 38493453,
+        "pdf_bytes": 18323733,
+        "text_epub_bytes": 914788,
+        "text_pdf_bytes": 3514181
     },
     "eras": [
         {
@@ -2243,13 +2243,23 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Home on Geneva Street",
-                    "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/home-on-geneva-street",
+                    "chap_title": "Home on Geneva Street, The Paper Invasion & Fall Break",
+                    "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/home-on-geneva-street-the-paper-invasion-fall-break",
                     "scenes": [
                         {
                             "scene_num": 1,
                             "scene_title": "Scene 1: Home on Geneva Street",
                             "file_path": "e006/c004/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Paper Invasion (CP87A)",
+                            "file_path": "e006/c004/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Fall Break 2015: The I-64 Gauntlet & The Leviathan Cut",
+                            "file_path": "e006/c004/s003.md"
                         }
                     ]
                 },
@@ -2309,6 +2319,148 @@
                             "scene_num": 6,
                             "scene_title": "Scene 6: The Call from Star City & The Route 11 Diversion",
                             "file_path": "e006/c006/s006.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 7,
+                    "chap_title": "The Roanoke Fortress",
+                    "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/the-roanoke-fortress",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Arrival at Star City & The Surgeon's Briefing",
+                            "file_path": "e006/c007/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Theatrical Cut & The Virtual Fortress",
+                            "file_path": "e006/c007/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The 6:00 AM Pre-Op Goodbye & The Ten-Hour Wait",
+                            "file_path": "e006/c007/s003.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 8,
+                    "chap_title": "Waking Up & The Blizzard Fortress (A CVICU Romance)",
+                    "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/waking-up-the-blizzard-fortress-a-cvicu-romance",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The CPAP Crisis & The Early Arrival",
+                            "file_path": "e006/c008/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: A CVICU Romance (Protocol: Intimacy.v2)",
+                            "file_path": "e006/c008/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Psychological Deadlock, The Bed Scale, & The Discharge Argument",
+                            "file_path": "e006/c008/s003.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 9,
+                    "chap_title": "Home Recovery & A Thanksgiving of Victories",
+                    "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/home-recovery-a-thanksgiving-of-victories",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Return to the Sanctuary & The Sternal Meltdown",
+                            "file_path": "e006/c009/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Parents' Watch (Monday & Tuesday)",
+                            "file_path": "e006/c009/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: A Heart-Healthy Thanksgiving & The Slammed Door (Goodbye, Alex)",
+                            "file_path": "e006/c009/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Black Friday Road Trip & The Caregiver Handoff",
+                            "file_path": "e006/c009/s004.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 10,
+                    "chap_title": "A New Caregiver, A New Routine (Megan's Watch)",
+                    "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/a-new-caregiver-a-new-routine-megan-s-watch",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The 5:15 AM Handoff & The Morning Watch",
+                            "file_path": "e006/c010/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Daytime Watch, The Single-Lift Shower, & Midnight Butterflies",
+                            "file_path": "e006/c010/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: Work Buddies, The ENG 102 Accessibility Proposal, & Explicit Permission",
+                            "file_path": "e006/c010/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Dream of the Future & The Smokin' Anvil",
+                            "file_path": "e006/c010/s004.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 11,
+                    "chap_title": "The Comeback & The Breaking Point",
+                    "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/the-comeback-the-breaking-point",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Return to Campus & The Walton Hall Presentation",
+                            "file_path": "e006/c011/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The System Crash (The Breaking Point)",
+                            "file_path": "e006/c011/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The New Safe Person & The Solo Corporate Mixer",
+                            "file_path": "e006/c011/s003.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 12,
+                    "chap_title": "The Christmas Protocol (Jordan Shawn Kelly)",
+                    "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/the-christmas-protocol-jordan-shawn-kelly",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Christmas Night Invitation (Megan Joins the King Bed)",
+                            "file_path": "e006/c012/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Boxing Day Intervention & The First Kiss",
+                            "file_path": "e006/c012/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: A Legal Firewall for Jordan & The New Identity (Jordan Shawn Kelly)",
+                            "file_path": "e006/c012/s003.md"
                         }
                     ]
                 }
