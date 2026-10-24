@@ -1640,8 +1640,13 @@
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: Houghton Street and the Transatlantic Reunion Call",
+                            "scene_title": "Scene 4: Carnaby Street and the Hollow Square",
                             "file_path": "e004/c004/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: Houghton Street and the Transatlantic Reunion Call",
+                            "file_path": "e004/c004/s005.md"
                         }
                     ]
                 },
