@@ -7,13 +7,13 @@
     "next_series_url": "",
     "ebook_sizes": {
         "epub": "36.6 MB",
-        "pdf": "17.2 MB",
-        "text_epub": "792 KB",
-        "text_pdf": "3 MB",
-        "epub_bytes": 38389760,
-        "pdf_bytes": 18004345,
-        "text_epub_bytes": 811099,
-        "text_pdf_bytes": 3194599
+        "pdf": "17.3 MB",
+        "text_epub": "819 KB",
+        "text_pdf": "3.1 MB",
+        "epub_bytes": 38417655,
+        "pdf_bytes": 18093001,
+        "text_epub_bytes": 838996,
+        "text_pdf_bytes": 3281944
     },
     "eras": [
         {
@@ -2272,6 +2272,43 @@
                             "scene_num": 3,
                             "scene_title": "Scene 3: The Emergency Room & The Nuclear Medicine Lab",
                             "file_path": "e006/c005/s003.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 6,
+                    "chap_title": "The Longest Night (NPO & The Failed Angioplasty)",
+                    "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/the-longest-night-npo-the-failed-angioplasty",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: The Transfer, NPO, and the Fork in the Road",
+                            "file_path": "e006/c006/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Red Line and the Cath Lab",
+                            "file_path": "e006/c006/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: 99% Calcified: The Failed Angioplasty",
+                            "file_path": "e006/c006/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Longest Night & The Fifteen-Minute Torture",
+                            "file_path": "e006/c006/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Saturday & Sunday Watches (Forty-Eight Hours NPO)",
+                            "file_path": "e006/c006/s005.md"
+                        },
+                        {
+                            "scene_num": 6,
+                            "scene_title": "Scene 6: The Call from Star City & The Route 11 Diversion",
+                            "file_path": "e006/c006/s006.md"
                         }
                     ]
                 }
