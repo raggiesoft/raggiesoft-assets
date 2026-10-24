@@ -1,0 +1,186 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: SAFE PERSON (UNCONDITIONAL TRUST, FOUND FAMILY & THE HEART-HUM)
+ * ============================================================================
+ *
+ * Description:
+ * This stylesheet (`safe-person.css`) defines the reusable "Safe Person"
+ * reading theme for the Ocean View Archives / Stardust Engine
+ * (`theme: "safe-person"`). Crafted for scenes of deep emotional safety,
+ * non-verbal attunement, found-family devotion, and romantic warmth in
+ * *The Eleventh Child: The Story of Jordan* (`/aubrie`)—including Jordan's
+ * quiet moments and hallway hugs with Isabel Dawson, the Dawson family
+ * sanctuary in Charlottesville, and the powerful reunion hug at Gate 4 of
+ * Roanoke-Blacksburg Regional Airport (`ROA`) after the 35-hour flight home
+ * from Australia.
+ *
+ * Psychological & Visual Architecture:
+ * - Light Mode ("Warm Rose-Alabaster, Safe-Harbor Berry & Hearth Gold"):
+ *   Pairs a gentle, soothing Rose-Linen Alabaster canvas (`#fdf8f6`) and pure
+ *   ivory reading surfaces (`#ffffff`) with Deep Rosewood-Espresso prose ink
+ *   (`#1f1216`), Safe-Harbor Berry-Maroon primary accents (`#881337`), and
+ *   Warm Hearth Amber-Gold secondary accents (`#92400e`).
+ * - Dark Mode ("Heart-Hum Sanctuary, Velvet Rose-Coral & Candlelight Gold"):
+ *   Evokes the quiet, grounding warmth of being held by someone you trust
+ *   completely: a Deep Rosewood-Obsidian night canvas (`#140b0e`), Velvet
+ *   Plum-Mahogany card surfaces (`#24141a`), Soft Rose-Ivory prose text
+ *   (`#fdf2f8`), Radiant Rose-Coral primary accents (`#fda4af`), and Warm
+ *   Candlelight Honey-Gold secondary accents (`#fcd34d`).
+ *
+ * WCAG 2.1 AA / AAA Contrast Verification:
+ * - Light Mode:
+ *   - Body Text (`#1f1216` on `#fdf8f6` bg): 16.82:1 (WCAG AAA)
+ *   - Body Text (`#1f1216` on `#ffffff` surface): 17.58:1 (WCAG AAA)
+ *   - Primary Accent (`#881337` on `#fdf8f6` bg): 8.44:1 (WCAG AAA)
+ *   - Secondary Accent (`#92400e` on `#fdf8f6` bg): 6.68:1 (WCAG AA)
+ * - Dark Mode:
+ *   - Body Text (`#fdf2f8` on `#140b0e` bg): 16.94:1 (WCAG AAA)
+ *   - Body Text (`#fdf2f8` on `#24141a` surface): 14.18:1 (WCAG AAA)
+ *   - Primary Accent (`#fda4af` on `#140b0e` bg): 10.16:1 (WCAG AAA)
+ *   - Secondary Accent (`#fcd34d` on `#140b0e` bg): 12.84:1 (WCAG AAA)
+ *   - Primary Button (`#fff1f2` on `#881337` fill): 8.62:1 (WCAG AAA)
+ * ============================================================================
+ */
+
+/* Theme Name: Safe Person (`safe-person`) */
+
+/* --- 1. Light Mode (Base & Explicit OS/User Light Preference) --- */
+body.theme-safe-person,
+body.theme-light.theme-safe-person,
+body.theme-sepia.theme-safe-person {
+    color-scheme: light;
+    --rs-bg: #fdf8f6;        /* Soft Rose-Linen Alabaster sanctuary canvas */
+    --rs-bg-alt: #f5ebe6;    /* Warm Blush-Parchment sidebar background */
+    --rs-surface: #ffffff;   /* Crisp Ivory-White reading surface */
+    --rs-card-bg: #ffffff;   /* Modal and card container surface */
+    --rs-text: #1f1216;      /* Deep Rosewood-Espresso prose ink (16.82:1 contrast) */
+    --rs-heading: #4c0519;   /* Deep Burgundy-Rosewood heading token */
+    --rs-primary: #881337;   /* Safe-Harbor Berry-Maroon primary accent (8.44:1 contrast) */
+    --rs-secondary: #92400e; /* Warm Hearth Amber-Gold secondary accent (6.68:1 contrast) */
+    --rs-border: #e2cec7;    /* Soft Rose-Oak structural border */
+    accent-color: #881337;
+}
+
+@media (prefers-color-scheme: light) {
+    body.theme-auto.theme-safe-person,
+    body.theme-sepia-system.theme-safe-person {
+        color-scheme: light;
+        --rs-bg: #fdf8f6;
+        --rs-bg-alt: #f5ebe6;
+        --rs-surface: #ffffff;
+        --rs-card-bg: #ffffff;
+        --rs-text: #1f1216;
+        --rs-heading: #4c0519;
+        --rs-primary: #881337;
+        --rs-secondary: #92400e;
+        --rs-border: #e2cec7;
+        accent-color: #881337;
+    }
+}
+
+/* Subtle warm embrace halo along the top of the reading viewport in Light Mode */
+body.theme-safe-person #stardust-reading-pane,
+body.theme-light.theme-safe-person #stardust-reading-pane,
+body.theme-sepia.theme-safe-person #stardust-reading-pane {
+    box-shadow: inset 0 6px 30px rgba(136, 19, 55, 0.06);
+}
+
+/* --- 2. Dark Mode (Explicitly Forced by Reader Toggle) --- */
+body.theme-dark.theme-safe-person,
+body.theme-dark-sepia.theme-safe-person {
+    color-scheme: dark;
+    --rs-bg: #140b0e;        /* Deep Rosewood-Obsidian night sanctuary canvas */
+    --rs-bg-alt: #1c1015;    /* Soft Velvet-Plum sidebar background */
+    --rs-surface: #24141a;   /* Warm Rosewood-Mahogany reading surface */
+    --rs-card-bg: #24141a;   /* Matching elevated dark container surface */
+    --rs-text: #fdf2f8;      /* Soft Rose-Ivory prose text (16.94:1 contrast) */
+    --rs-heading: #ffe4e6;   /* Warm Blush-Starlight heading token */
+    --rs-primary: #fda4af;   /* Radiant Rose-Coral primary accent (10.16:1 contrast) */
+    --rs-secondary: #fcd34d; /* Candlelight Honey-Gold secondary accent (12.84:1 contrast) */
+    --rs-border: #4c2432;    /* Burnished Rosewood structural border */
+    accent-color: #fda4af;
+}
+
+body.theme-dark.theme-safe-person #stardust-reading-pane,
+body.theme-dark-sepia.theme-safe-person #stardust-reading-pane {
+    box-shadow: inset 0 6px 34px rgba(253, 164, 175, 0.06);
+}
+
+/* Ensure primary buttons in forced Dark Mode maintain AAA text contrast (8.62:1) */
+body.theme-dark.theme-safe-person .rs-btn-primary,
+body.theme-dark-sepia.theme-safe-person .rs-btn-primary {
+    background-color: #881337;
+    border-color: #fda4af;
+    color: #fff1f2;
+}
+
+body.theme-dark.theme-safe-person .rs-btn-primary:hover,
+body.theme-dark-sepia.theme-safe-person .rs-btn-primary:hover,
+body.theme-dark.theme-safe-person .rs-btn-primary:focus-visible,
+body.theme-dark-sepia.theme-safe-person .rs-btn-primary:focus-visible {
+    background-color: #9f1239;
+    border-color: #fcd34d;
+    color: #ffffff;
+}
+
+/* --- 3. Dark Mode (OS Preference via `prefers-color-scheme: dark`) --- */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-safe-person,
+    body.theme-sepia-system.theme-safe-person,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-safe-person {
+        color-scheme: dark;
+        --rs-bg: #140b0e;
+        --rs-bg-alt: #1c1015;
+        --rs-surface: #24141a;
+        --rs-card-bg: #24141a;
+        --rs-text: #fdf2f8;
+        --rs-heading: #ffe4e6;
+        --rs-primary: #fda4af;
+        --rs-secondary: #fcd34d;
+        --rs-border: #4c2432;
+        accent-color: #fda4af;
+    }
+
+    body.theme-auto.theme-safe-person #stardust-reading-pane,
+    body.theme-sepia-system.theme-safe-person #stardust-reading-pane,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-safe-person #stardust-reading-pane {
+        box-shadow: inset 0 6px 34px rgba(253, 164, 175, 0.06);
+    }
+
+    body.theme-auto.theme-safe-person .rs-btn-primary,
+    body.theme-sepia-system.theme-safe-person .rs-btn-primary,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-safe-person .rs-btn-primary {
+        background-color: #881337;
+        border-color: #fda4af;
+        color: #fff1f2;
+    }
+
+    body.theme-auto.theme-safe-person .rs-btn-primary:hover,
+    body.theme-sepia-system.theme-safe-person .rs-btn-primary:hover,
+    body.theme-auto.theme-safe-person .rs-btn-primary:focus-visible,
+    body.theme-sepia-system.theme-safe-person .rs-btn-primary:focus-visible {
+        background-color: #9f1239;
+        border-color: #fcd34d;
+        color: #ffffff;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast Mode) Safety --- */
+@media (forced-colors: active) {
+    body.theme-safe-person {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-secondary: Highlight;
+        --rs-border: ButtonBorder;
+    }
+
+    body.theme-safe-person #stardust-reading-pane {
+        box-shadow: none;
+    }
+}
+

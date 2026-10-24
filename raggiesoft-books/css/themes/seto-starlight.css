@@ -1,0 +1,187 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: SETO STARLIGHT (FERRY HOSHIZORA & SONG OF THE STARRY SKY)
+ * ============================================================================
+ *
+ * Description:
+ * This stylesheet (`seto-starlight.css`) defines the bespoke "Seto Starlight"
+ * reading theme for the Ocean View Archives / Stardust Engine
+ * (`theme: "seto-starlight"`). Crafted for the centerpiece overnight voyage
+ * aboard `Ferry Hoshizora` across the Seto Inland Sea from Osaka South Port
+ * to Beppu (`aubrie/e004/c007/s002`–`s003`), where the shipboard theme
+ * *"Hoshizora no Uta (Song of the Starry Sky)"* by The Hoshizora Ensemble
+ * plays across the open promenade deck and Jordan reaches `Threat Level: Zero`
+ * (*"For you are safe upon the sea"*).
+ *
+ * Psychological & Visual Architecture:
+ * - Light Mode ("Beppu Bay Morning Pearl, Inland Sea Sapphire & Compass Gold"):
+ *   Pairs a shimmering Sea-Pearl Alabaster canvas (`#f4f7fb`) and crisp
+ *   promenade white surfaces (`#ffffff`) with Deep Maritime Obsidian prose ink
+ *   (`#0b1528`), Seto Inland Sea Sapphire primary accents (`#1e40af`), and
+ *   Nautical Compass Brass-Gold secondary accents (`#854d0e`).
+ * - Dark Mode ("Hoshizora no Uta — Starry Sky Over the Seto Inland Sea"):
+ *   Pairs a deep, glass-calm Seto Midnight-Ocean void (`#050b16`) and
+ *   Starlit Upper-Deck Promenade surfaces (`#0d182c`) with Shimmering
+ *   Starlight Silver-Ivory prose (`#f1f5f9`), Hoshizora Star-Gold primary
+ *   accents (`#fde047`), and Gentle Sea-Breeze Cyan secondary accents
+ *   (`#7dd3fc`).
+ *
+ * WCAG 2.1 AA / AAA Contrast Verification:
+ * - Light Mode:
+ *   - Body Text (`#0b1528` on `#f4f7fb` bg): 17.28:1 (WCAG AAA)
+ *   - Body Text (`#0b1528` on `#ffffff` surface): 18.24:1 (WCAG AAA)
+ *   - Primary Accent (`#1e40af` on `#f4f7fb` bg): 8.16:1 (WCAG AAA)
+ *   - Secondary Accent (`#854d0e` on `#f4f7fb` bg): 6.58:1 (WCAG AA)
+ * - Dark Mode:
+ *   - Body Text (`#f1f5f9` on `#050b16` bg): 18.34:1 (WCAG AAA)
+ *   - Body Text (`#f1f5f9` on `#0d182c` surface): 15.62:1 (WCAG AAA)
+ *   - Primary Accent (`#fde047` on `#050b16` bg): 14.38:1 (WCAG AAA)
+ *   - Secondary Accent (`#7dd3fc` on `#050b16` bg): 11.48:1 (WCAG AAA)
+ *   - Primary Button (`#fefce8` on `#1e3a8a` fill): 10.42:1 (WCAG AAA)
+ * ============================================================================
+ */
+
+/* Theme Name: Seto Starlight (`seto-starlight`) */
+
+/* --- 1. Light Mode (Base & Explicit OS/User Light Preference) --- */
+body.theme-seto-starlight,
+body.theme-light.theme-seto-starlight,
+body.theme-sepia.theme-seto-starlight {
+    color-scheme: light;
+    --rs-bg: #f4f7fb;        /* Shimmering Seto Sea-Pearl Alabaster canvas */
+    --rs-bg-alt: #e3ebf5;    /* Beppu Bay Morning Mist sidebar background */
+    --rs-surface: #ffffff;   /* Crisp Upper-Deck White reading surface */
+    --rs-card-bg: #ffffff;   /* Modal and card container surface */
+    --rs-text: #0b1528;      /* Deep Maritime Obsidian prose ink (17.28:1 contrast) */
+    --rs-heading: #172554;   /* Deep Inland Sea Navy heading token */
+    --rs-primary: #1e40af;   /* Seto Inland Sea Sapphire primary accent (8.16:1 contrast) */
+    --rs-secondary: #854d0e; /* Nautical Compass Brass-Gold secondary accent (6.58:1 contrast) */
+    --rs-border: #bfd0e6;    /* Promenade Rail structural border */
+    accent-color: #1e40af;
+}
+
+@media (prefers-color-scheme: light) {
+    body.theme-auto.theme-seto-starlight,
+    body.theme-sepia-system.theme-seto-starlight {
+        color-scheme: light;
+        --rs-bg: #f4f7fb;
+        --rs-bg-alt: #e3ebf5;
+        --rs-surface: #ffffff;
+        --rs-card-bg: #ffffff;
+        --rs-text: #0b1528;
+        --rs-heading: #172554;
+        --rs-primary: #1e40af;
+        --rs-secondary: #854d0e;
+        --rs-border: #bfd0e6;
+        accent-color: #1e40af;
+    }
+}
+
+body.theme-seto-starlight #stardust-reading-pane,
+body.theme-light.theme-seto-starlight #stardust-reading-pane,
+body.theme-sepia.theme-seto-starlight #stardust-reading-pane {
+    box-shadow: inset 0 6px 30px rgba(30, 64, 175, 0.06);
+}
+
+/* --- 2. Dark Mode (Explicitly Forced by Reader Toggle: Hoshizora no Uta) --- */
+body.theme-dark.theme-seto-starlight,
+body.theme-dark-sepia.theme-seto-starlight {
+    color-scheme: dark;
+    --rs-bg: #050b16;        /* Glass-Calm Seto Midnight-Ocean void */
+    --rs-bg-alt: #091222;    /* Akashi Kaikyo Horizon Navy sidebar background */
+    --rs-surface: #0d182c;   /* Starlit Upper-Deck Promenade reading surface */
+    --rs-card-bg: #0d182c;   /* Matching elevated dark container surface */
+    --rs-text: #f1f5f9;      /* Shimmering Starlight Silver-Ivory prose (18.34:1 contrast) */
+    --rs-heading: #fefce8;   /* Warm Hoshizora Star-Crown Ivory heading token */
+    --rs-primary: #fde047;   /* Hoshizora Star-Gold primary accent (14.38:1 contrast) */
+    --rs-secondary: #7dd3fc; /* Gentle Sea-Breeze Cyan secondary accent (11.48:1 contrast) */
+    --rs-border: #1e3356;    /* Starlit Sea-Rail structural border */
+    accent-color: #fde047;
+}
+
+body.theme-dark.theme-seto-starlight #stardust-reading-pane,
+body.theme-dark-sepia.theme-seto-starlight #stardust-reading-pane {
+    box-shadow:
+        inset 0 6px 34px rgba(253, 224, 71, 0.06),
+        inset 0 -6px 34px rgba(125, 211, 252, 0.05);
+}
+
+body.theme-dark.theme-seto-starlight .rs-btn-primary,
+body.theme-dark-sepia.theme-seto-starlight .rs-btn-primary {
+    background-color: #1e3a8a;
+    border-color: #fde047;
+    color: #fefce8;
+}
+
+body.theme-dark.theme-seto-starlight .rs-btn-primary:hover,
+body.theme-dark-sepia.theme-seto-starlight .rs-btn-primary:hover,
+body.theme-dark.theme-seto-starlight .rs-btn-primary:focus-visible,
+body.theme-dark-sepia.theme-seto-starlight .rs-btn-primary:focus-visible {
+    background-color: #1d4ed8;
+    border-color: #7dd3fc;
+    color: #ffffff;
+}
+
+/* --- 3. Dark Mode (OS Preference via `prefers-color-scheme: dark`) --- */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-seto-starlight,
+    body.theme-sepia-system.theme-seto-starlight,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-seto-starlight {
+        color-scheme: dark;
+        --rs-bg: #050b16;
+        --rs-bg-alt: #091222;
+        --rs-surface: #0d182c;
+        --rs-card-bg: #0d182c;
+        --rs-text: #f1f5f9;
+        --rs-heading: #fefce8;
+        --rs-primary: #fde047;
+        --rs-secondary: #7dd3fc;
+        --rs-border: #1e3356;
+        accent-color: #fde047;
+    }
+
+    body.theme-auto.theme-seto-starlight #stardust-reading-pane,
+    body.theme-sepia-system.theme-seto-starlight #stardust-reading-pane,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-seto-starlight #stardust-reading-pane {
+        box-shadow:
+            inset 0 6px 34px rgba(253, 224, 71, 0.06),
+            inset 0 -6px 34px rgba(125, 211, 252, 0.05);
+    }
+
+    body.theme-auto.theme-seto-starlight .rs-btn-primary,
+    body.theme-sepia-system.theme-seto-starlight .rs-btn-primary,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-seto-starlight .rs-btn-primary {
+        background-color: #1e3a8a;
+        border-color: #fde047;
+        color: #fefce8;
+    }
+
+    body.theme-auto.theme-seto-starlight .rs-btn-primary:hover,
+    body.theme-sepia-system.theme-seto-starlight .rs-btn-primary:hover,
+    body.theme-auto.theme-seto-starlight .rs-btn-primary:focus-visible,
+    body.theme-sepia-system.theme-seto-starlight .rs-btn-primary:focus-visible {
+        background-color: #1d4ed8;
+        border-color: #7dd3fc;
+        color: #ffffff;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast Mode) Safety --- */
+@media (forced-colors: active) {
+    body.theme-seto-starlight {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-secondary: Highlight;
+        --rs-border: ButtonBorder;
+    }
+
+    body.theme-seto-starlight #stardust-reading-pane {
+        box-shadow: none;
+    }
+}
+
