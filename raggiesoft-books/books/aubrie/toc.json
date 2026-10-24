@@ -8,12 +8,12 @@
     "ebook_sizes": {
         "epub": "36.6 MB",
         "pdf": "17.2 MB",
-        "text_epub": "788 KB",
+        "text_epub": "792 KB",
         "text_pdf": "3 MB",
-        "epub_bytes": 38385690,
-        "pdf_bytes": 17990445,
-        "text_epub_bytes": 807017,
-        "text_pdf_bytes": 3180445
+        "epub_bytes": 38389760,
+        "pdf_bytes": 18004345,
+        "text_epub_bytes": 811099,
+        "text_pdf_bytes": 3194599
     },
     "eras": [
         {
@@ -1375,8 +1375,13 @@
                         },
                         {
                             "scene_num": 4,
-                            "scene_title": "Scene 4: The Call from Bluewater",
+                            "scene_title": "Scene 4: Starfield Calibration (The Cosmic Tidal Lock)",
                             "file_path": "e003/c006/s004.md"
+                        },
+                        {
+                            "scene_num": 5,
+                            "scene_title": "Scene 5: The Call from Bluewater",
+                            "file_path": "e003/c006/s005.md"
                         }
                     ]
                 },

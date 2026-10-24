@@ -1,0 +1,33 @@
+{
+  "slug": "john-and-erin",
+  "title": "Before the Distance: The Story of John & Erin",
+  "subtitle": "A Five-Song Twin Narrative by The Stardust Engine",
+  "curator": "The Stardust Engine (Ryan & Cassidy O'Connell)",
+  "artistSlug": "the-stardust-engine",
+  "year": "2004–2007 (Set at CPI, 2004–2005)",
+  "artwork": "https://assets.raggiesoft.com/engine-room-records/playlists/john-and-erin/cover.jpg",
+  "socialPreview": "https://assets.raggiesoft.com/engine-room-records/playlists/john-and-erin/social-preview.jpg",
+  "listeningRoomUrl": "https://music.raggiesoft.com/playlists/john-and-erin",
+  "tracks": [
+    {
+      "path": "the-stardust-engine/2004-progress-street/web-mp3/1-03-seconds-into-forever.mp3",
+      "actLabel": "Act I • Chapter 1, Scene 1 — The Three-Minute Bell"
+    },
+    {
+      "path": "the-stardust-engine/2004-progress-street/web-mp3/1-04-thunder-in-the-rain.mp3",
+      "actLabel": "Act II • Chapter 1, Scene 2 — Table Four"
+    },
+    {
+      "path": "the-stardust-engine/2004-progress-street/web-mp3/1-08-before-the-distance.mp3",
+      "actLabel": "Act III • Chapter 2, Scenes 1–2 — Before the Distance"
+    },
+    {
+      "path": "the-stardust-engine/2007-lost-sounds/web-mp3/1-12-sanctuary-in-the-storm.mp3",
+      "actLabel": "Act IV • Chapter 3, Scene 1 — The Locked Perimeter"
+    },
+    {
+      "path": "the-stardust-engine/2007-lost-sounds/web-mp3/1-13-not-her.mp3",
+      "actLabel": "Act V • Chapter 4, Scene 1 — The Practiced Smile"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "slug": "cosmic-tidal-lock-sound",
+  "title": "The Cosmic Tidal Lock Sound™",
+  "subtitle": "Cassidy O'Connell's Signature Space-Synth Architecture (1997–2011 • Thematic 1986 Origin)",
+  "curator": "Cassidy O'Connell (with her Safe Person, Ryan O'Connell)",
+  "artistSlug": "the-stardust-engine",
+  "year": "1997–2011 (1997 Hard Reset • 2001 Midnight Drivers • 2011 Starfield Calibration)",
+  "artwork": "https://assets.raggiesoft.com/engine-room-records/playlists/cosmic-tidal-lock-sound/cover.jpg",
+  "socialPreview": "https://assets.raggiesoft.com/engine-room-records/playlists/cosmic-tidal-lock-sound/social-preview.jpg",
+  "listeningRoomUrl": "https://music.raggiesoft.com/playlists/cosmic-tidal-lock-sound",
+  "tracks": [
+    {
+      "path": "the-stardust-engine/1997-hard-reset/web-mp3/2-04-moon-1-tidal-lock.mp3",
+      "actLabel": "I. The Catalyst Track • Hard Reset (Disc 2, 1997)"
+    },
+    {
+      "path": "the-stardust-engine/2001-midnight-drivers/web-mp3/1-08-terminal-velvet.mp3",
+      "actLabel": "II. The 2001 Retro-Engineered '1986' Paradox • Midnight Drivers (2001)"
+    },
+    {
+      "path": "the-stardust-engine/1997-hard-reset/web-mp3/2-01-apoapsis.mp3",
+      "actLabel": "III. The Apoapsis Suite (Part 1 of 3) • Hard Reset (1997)"
+    },
+    {
+      "path": "the-stardust-engine/1997-hard-reset/web-mp3/2-02-second-apoapsis.mp3",
+      "actLabel": "III. The Apoapsis Suite (Part 2 of 3) • Hard Reset (1997)"
+    },
+    {
+      "path": "the-stardust-engine/1997-hard-reset/web-mp3/2-03-the-spectrum-true-color.mp3",
+      "actLabel": "III. The Apoapsis Suite (Part 3 of 3) • Hard Reset (1997)"
+    },
+    {
+      "path": "the-stardust-engine/1997-hard-reset/web-mp3/2-06-escape-velocity-ad-astra.mp3",
+      "actLabel": "IV. The Resume Masterpiece (15:33) • Hard Reset (1997)"
+    },
+    {
+      "path": "the-stardust-engine/2011-starfield-calibration/web-mp3/1-01-the-stardust-engine.mp3",
+      "actLabel": "V. The 2011 Celebration • Starfield Calibration (Track 1)"
+    },
+    {
+      "path": "the-stardust-engine/2011-starfield-calibration/web-mp3/1-02-electric-color.mp3",
+      "actLabel": "V. The 2011 Celebration • Starfield Calibration (Track 2)"
+    },
+    {
+      "path": "the-stardust-engine/2011-starfield-calibration/web-mp3/1-03-plastic-sky.mp3",
+      "actLabel": "V. The 2011 Celebration • Starfield Calibration (Track 3)"
+    },
+    {
+      "path": "the-stardust-engine/2011-starfield-calibration/web-mp3/1-04-worlds-apart.mp3",
+      "actLabel": "V. The 2011 Celebration • Starfield Calibration (Track 4)"
+    },
+    {
+      "path": "the-stardust-engine/2011-starfield-calibration/web-mp3/1-05-my-anchor-holds.mp3",
+      "actLabel": "V. The 2011 Celebration • Starfield Calibration (Track 5)"
+    },
+    {
+      "path": "the-stardust-engine/2011-starfield-calibration/web-mp3/1-06-neon-hearts.mp3",
+      "actLabel": "V. The 2011 Celebration • Starfield Calibration (Track 6)"
+    },
+    {
+      "path": "the-stardust-engine/2011-starfield-calibration/web-mp3/1-07-rearview-mirror.mp3",
+      "actLabel": "V. The 2011 Celebration • Starfield Calibration (Track 7)"
+    },
+    {
+      "path": "the-stardust-engine/2011-starfield-calibration/web-mp3/1-08-atmosphere.mp3",
+      "actLabel": "V. The 2011 Celebration • Starfield Calibration (Track 8)"
+    },
+    {
+      "path": "the-stardust-engine/2011-starfield-calibration/web-mp3/1-09-no-hidden-gravity.mp3",
+      "actLabel": "V. The 2011 Celebration • Starfield Calibration (Track 9)"
+    },
+    {
+      "path": "the-stardust-engine/2011-starfield-calibration/web-mp3/1-10-inertia-unstoppable.mp3",
+      "actLabel": "V. The 2011 Celebration • Starfield Calibration (Track 10)"
+    },
+    {
+      "path": "the-stardust-engine/2011-starfield-calibration/web-mp3/1-11-echoes-in-the-wire.mp3",
+      "actLabel": "V. The 2011 Celebration • Starfield Calibration (Track 11)"
+    },
+    {
+      "path": "the-stardust-engine/2011-starfield-calibration/web-mp3/1-12-midnight-drivers.mp3",
+      "actLabel": "V. The 2011 Celebration • Starfield Calibration (Track 12)"
+    },
+    {
+      "path": "the-stardust-engine/2011-starfield-calibration/web-mp3/1-13-the-horizon-line.mp3",
+      "actLabel": "V. The 2011 Celebration • Starfield Calibration (Track 13)"
+    },
+    {
+      "path": "the-stardust-engine/2011-starfield-calibration/web-mp3/1-14-fade-to-dawn.mp3",
+      "actLabel": "V. The 2011 Celebration • Starfield Calibration (Track 14 • Finale)"
+    }
+  ]
+}

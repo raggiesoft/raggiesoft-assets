@@ -1,0 +1,16 @@
+{
+  "playlists": [
+    {
+      "slug": "john-and-erin",
+      "title": "Before the Distance: The Story of John & Erin",
+      "manifest": "playlists/john-and-erin/playlist.json",
+      "listeningRoomUrl": "https://music.raggiesoft.com/playlists/john-and-erin"
+    },
+    {
+      "slug": "cosmic-tidal-lock-sound",
+      "title": "The Cosmic Tidal Lock Sound™",
+      "manifest": "playlists/cosmic-tidal-lock-sound/playlist.json",
+      "listeningRoomUrl": "https://music.raggiesoft.com/playlists/cosmic-tidal-lock-sound"
+    }
+  ]
+}
