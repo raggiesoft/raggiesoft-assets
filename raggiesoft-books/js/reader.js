@@ -36,6 +36,38 @@
 function initOceanViewReader() {
 
     // ==========================================
+    // 0. CLIENT OPERATING SYSTEM RESOLVER
+    // ==========================================
+    // Sets `data-os="macos|windows|linux|ios|android"` on `<html>` so OS-native
+    // UI chrome (such as Zoë's `ZOË.Systems.Logs` diagnostic window header)
+    // automatically matches the device viewing the book.
+    try {
+        const params = new URLSearchParams(window.location.search);
+        const previewOs = (params.get('preview_os') || '').toLowerCase();
+        const validOs = ['macos', 'windows', 'linux', 'ios', 'android'];
+        let resolvedOs = '';
+        if (validOs.includes(previewOs)) {
+            resolvedOs = previewOs;
+        } else {
+            const ua = (navigator.userAgent || '').toLowerCase();
+            const plat = ((navigator.userAgentData && navigator.userAgentData.platform) || navigator.platform || '').toLowerCase();
+            const isIpadOs = (plat.includes('mac') || ua.includes('macintosh')) && navigator.maxTouchPoints && navigator.maxTouchPoints > 1;
+            if (isIpadOs || /iphone|ipad|ipod/.test(ua) || plat.includes('ios')) {
+                resolvedOs = 'ios';
+            } else if (ua.includes('android') || plat.includes('android')) {
+                resolvedOs = 'android';
+            } else if (plat.includes('win') || ua.includes('windows')) {
+                resolvedOs = 'windows';
+            } else if (plat.includes('linux') || ua.includes('linux') || ua.includes('cros')) {
+                resolvedOs = 'linux';
+            } else {
+                resolvedOs = 'macos';
+            }
+        }
+        document.documentElement.setAttribute('data-os', resolvedOs);
+    } catch (e) {}
+
+    // ==========================================
     // 1. SIDEBAR MANAGEMENT
     // ==========================================
     const sidebar = document.getElementById('stardust-sidebar');
