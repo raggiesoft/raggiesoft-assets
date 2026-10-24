@@ -1671,6 +1671,60 @@
                             "file_path": "e004/c005/s003.md"
                         }
                     ]
+                },
+                {
+                    "chap_num": 6,
+                    "chap_title": "Chapter 6",
+                    "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/chapter-6",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Pang-Pon-Pang-Pon: Haneda Airport and the Architecture of Respect",
+                            "file_path": "e004/c006/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: The Yamanote Slope Board and the City That Doesn't Yell",
+                            "file_path": "e004/c006/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: The Hassha Melody on the Shinkansen Platform",
+                            "file_path": "e004/c006/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: The Brooks Family's Osaka and a Question About the Future",
+                            "file_path": "e004/c006/s004.md"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 7,
+                    "chap_title": "Chapter 7",
+                    "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/chapter-7",
+                    "scenes": [
+                        {
+                            "scene_num": 1,
+                            "scene_title": "Scene 1: Osaka South Port and Boarding the Starry Sky",
+                            "file_path": "e004/c007/s001.md"
+                        },
+                        {
+                            "scene_num": 2,
+                            "scene_title": "Scene 2: Threat Level Zero: Hoshizora no Uta (Japanese Version)",
+                            "file_path": "e004/c007/s002.md"
+                        },
+                        {
+                            "scene_num": 3,
+                            "scene_title": "Scene 3: For You Are Safe Upon the Sea: Hoshizora no Uta (English Version)",
+                            "file_path": "e004/c007/s003.md"
+                        },
+                        {
+                            "scene_num": 4,
+                            "scene_title": "Scene 4: Morning Light on Beppu Bay and the JAPN 101 Pact",
+                            "file_path": "e004/c007/s004.md"
+                        }
+                    ]
                 }
             ]
         },
