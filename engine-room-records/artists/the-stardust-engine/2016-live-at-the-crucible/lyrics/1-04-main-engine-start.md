@@ -1,5 +1,5 @@
 **LORE NOTE:**
-As the Marching Forgers clear the field, the core four-piece band—Cassidy on her wraparound synthesizers, Ryan in his manual chair at stage left on lead guitar, and identical twins Evan (bass) and Tyler (drums) on the back risers—slams straight into the 142 BPM countdown thriller from 2015's *Reignition*. Sixty-five thousand fans count down from ten to liftoff in unison.
+As the main body of the Marching Forgers files into the tunnel (leaving their 20-piece Lead Brass & Drumline Honor Guard at the front lip of the turf), the core four-piece band—Cassidy on her wraparound synthesizers, Ryan in his manual chair at center-left on lead guitar, and identical twins Evan (bass) and Tyler (drums) on the back risers—backed on the stage-left riser by their 5-piece "Orbital Crew" stadium touring section (Marcus Vance on rhythm guitar, Darius "Doc" Holloway on second kit/percussion, Claire Lindqvist on auxiliary synths, and CPI Jazz soloists Prof. Julian Vance on trumpet and Elena Rostova on sax so not a single pre-recorded backing track is ever used on stage) slams straight into the 142 BPM countdown thriller from 2015's *Reignition*. Sixty-five thousand fans count down from ten to liftoff in unison.
 
 **LYRICS:**
 
