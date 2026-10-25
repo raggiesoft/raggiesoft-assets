@@ -12,7 +12,7 @@
 * **Record Label:** `Engine Room Records`
 * **Primary Genre:** `16-bit Ambient / SPC-700`
 * **In-Universe Release Date:** `1992-10-30`
-* **Real-World DSP Release Date:** `TBD`
+* **Real-World DSP Release Date:** `2026-10-23`
 * **Album UPC / GTIN-12:** `700521520499`
 * **3000×3000 Cover Art File:** `streaming-services/album-art/album-art.jpg`
 * **Songwriter / Lyricist (Real Human Name):** `Michael P. Ragsdale`

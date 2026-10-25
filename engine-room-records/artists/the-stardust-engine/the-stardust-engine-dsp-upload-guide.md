@@ -1249,91 +1249,91 @@
 
 ---
 ## Starfield Calibration (2011) — Studio Album
-* **Album Folder:** `2011-starfield-calibration` • **UPC:** `700299965607` • **Genre:** `80s Cosmic Pop / Atmospheric Synth-Pop / Space Rock`
+* **Album Folder:** `2011-starfield-calibration` • **UPC:** `None` • **Genre:** `80s Cosmic Pop / Atmospheric Synth-Pop / Space Rock`
 
 1. The Stardust Engine
 * Name: The Stardust Engine
 * Version: Cosmic Tidal Lock Mix
 * ID3 / Vorbis Tag: The Stardust Engine (Cosmic Tidal Lock Mix)
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600028
 
 2. Electric Color
 * Name: Electric Color
 * Version: Cosmic Tidal Lock Mix
 * ID3 / Vorbis Tag: Electric Color (Cosmic Tidal Lock Mix)
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600029
 
 3. Plastic Sky
 * Name: Plastic Sky
 * Version: Cosmic Tidal Lock Mix
 * ID3 / Vorbis Tag: Plastic Sky (Cosmic Tidal Lock Mix)
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600030
 
 4. Worlds Apart
 * Name: Worlds Apart
 * Version: Cosmic Tidal Lock Mix
 * ID3 / Vorbis Tag: Worlds Apart (Cosmic Tidal Lock Mix)
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600031
 
 5. My Anchor Holds
 * Name: My Anchor Holds
 * Version: Cosmic Tidal Lock Mix
 * ID3 / Vorbis Tag: My Anchor Holds (Cosmic Tidal Lock Mix)
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600032
 
 6. Neon Hearts
 * Name: Neon Hearts
 * Version: Cosmic Tidal Lock Mix
 * ID3 / Vorbis Tag: Neon Hearts (Cosmic Tidal Lock Mix)
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600033
 
 7. Rearview Mirror
 * Name: Rearview Mirror
 * Version: Cosmic Tidal Lock Mix
 * ID3 / Vorbis Tag: Rearview Mirror (Cosmic Tidal Lock Mix)
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600034
 
 8. Atmosphere
 * Name: Atmosphere
 * Version: Cosmic Tidal Lock Mix
 * ID3 / Vorbis Tag: Atmosphere (Cosmic Tidal Lock Mix)
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600035
 
 9. No Hidden Gravity
 * Name: No Hidden Gravity
 * Version: Cosmic Tidal Lock Mix
 * ID3 / Vorbis Tag: No Hidden Gravity (Cosmic Tidal Lock Mix)
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600036
 
 10. Inertia: Unstoppable
 * Name: Inertia: Unstoppable
 * Version: Cosmic Tidal Lock Mix
 * ID3 / Vorbis Tag: Inertia: Unstoppable (Cosmic Tidal Lock Mix)
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600037
 
 11. Echoes in the Wire
 * Name: Echoes in the Wire
 * Version: Cosmic Tidal Lock Mix
 * ID3 / Vorbis Tag: Echoes in the Wire (Cosmic Tidal Lock Mix)
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600038
 
 12. Midnight Drivers
 * Name: Midnight Drivers
 * Version: Cosmic Tidal Lock Mix
 * ID3 / Vorbis Tag: Midnight Drivers (Cosmic Tidal Lock Mix)
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600039
 
 13. The Horizon Line
 * Name: The Horizon Line
 * Version: Cosmic Tidal Lock Mix
 * ID3 / Vorbis Tag: The Horizon Line (Cosmic Tidal Lock Mix)
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600040
 
 14. Fade to Dawn
 * Name: Fade to Dawn
 * Version: Cosmic Tidal Lock Mix
 * ID3 / Vorbis Tag: Fade to Dawn (Cosmic Tidal Lock Mix)
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600041
 
 ---
 ## Reignition (2015) — Studio Album

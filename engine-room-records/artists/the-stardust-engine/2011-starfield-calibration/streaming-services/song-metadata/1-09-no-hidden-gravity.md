@@ -1,11 +1,13 @@
-# No Hidden Gravity (Cosmic Tidal Lock Mix) - DistroKid Quick-Copy Sheet
+# No Hidden Gravity (Cosmic Tidal Lock Mix) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** No Hidden Gravity (Cosmic Tidal Lock Mix)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** No Hidden Gravity
+* **Version:** Cosmic Tidal Lock Mix
+* **ID3 / Vorbis Tagged Title:** No Hidden Gravity (Cosmic Tidal Lock Mix)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Cosmic Pop / Atmospheric Synth-Pop / Space Rock
 * **Real-World DSP Release Date:** 2026-10-17
-* **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
+* **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTAHP2600036
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes
@@ -27,9 +29,9 @@
 
 ## 3. Internal Catalog Information
 * **Engine Room ID:** ERR-001-2011-109
-* **ISRC:** 
+* **ISRC:** QTAHP2600036
 * **US ISRC Agency Registrant:** Michael Ragsdale (Registrant ID: 185611 • Prefix: QTAHP • dsp.operations@engineroom-records.com)
-* **Album UPC / GTIN-12:** 700299965607
+* **Album UPC / GTIN-12:** None
 * **Track Length:** 4:57
 * **Fictional Narrative Release Date:** 2011-10-18
 * **Master File Located At:** ../../vault/wav/1-09-no-hidden-gravity.wav

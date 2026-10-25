@@ -1,10 +1,10 @@
 
 # Mana Canvas - Master Discography & Lore
-Compiled on: 10-25-2026 04:58:35 PM
+Compiled on: 10-25-2026 06:41:31 PM
 
 # Runebreaker (1992)
 * **Narrative Era:** 1992
-* **Real-World DSP Release:** 2026-10-25
+* **Real-World DSP Release:** 2026-10-23
 
 ## Main Theme
 ### Lore

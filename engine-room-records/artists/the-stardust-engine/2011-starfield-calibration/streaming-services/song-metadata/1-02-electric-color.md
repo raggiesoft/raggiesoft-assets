@@ -1,11 +1,13 @@
-# Electric Color (Cosmic Tidal Lock Mix) - DistroKid Quick-Copy Sheet
+# Electric Color (Cosmic Tidal Lock Mix) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Electric Color (Cosmic Tidal Lock Mix)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Electric Color
+* **Version:** Cosmic Tidal Lock Mix
+* **ID3 / Vorbis Tagged Title:** Electric Color (Cosmic Tidal Lock Mix)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Cosmic Pop / Atmospheric Synth-Pop / Space Rock
 * **Real-World DSP Release Date:** 2026-10-17
-* **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
+* **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTAHP2600029
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes
@@ -27,9 +29,9 @@
 
 ## 3. Internal Catalog Information
 * **Engine Room ID:** ERR-001-2011-102
-* **ISRC:** 
+* **ISRC:** QTAHP2600029
 * **US ISRC Agency Registrant:** Michael Ragsdale (Registrant ID: 185611 • Prefix: QTAHP • dsp.operations@engineroom-records.com)
-* **Album UPC / GTIN-12:** 700299965607
+* **Album UPC / GTIN-12:** None
 * **Track Length:** 4:18
 * **Fictional Narrative Release Date:** 2011-10-18
 * **Master File Located At:** ../../vault/wav/1-02-electric-color.wav
