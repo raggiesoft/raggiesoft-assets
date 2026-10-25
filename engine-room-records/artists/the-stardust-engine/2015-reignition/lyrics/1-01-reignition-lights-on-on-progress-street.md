@@ -1,13 +1,12 @@
 **LORE NOTE:**
-Directly answering the final piano fade-out of 2004's "Last Bus Home: Lights Out on Progress Street" ("Lights out on Progress Street... Goodnight, Forger Nation"), the opening title track of 2015's *Reignition* begins with a solitary warm upright piano chord and the heavy mechanical CLACK of the Progress Street studio power relays flipping back to ON. After a full decade of rest during the 2005–2014 Burnout Hiatus, Tyler's gated-reverb snare, Evan's driving eighth-note bassline, Cassidy's Roland Juno-106 analog brass fanfare, and Ryan's overdriven electric guitar erupt into the band's first new studio anthem in ten years.
+Thematically answering the sign-off of 2004's "Last Bus Home: Lights Out on Progress Street" ("Lights out on Progress Street... Goodnight, Forger Nation"), the opening anthem of 2015's *Reignition* celebrates the end of the band's decade-long **2005–2014 Burnout Hiatus**. Opening with warm acoustic piano chords that erupt into Cassidy's bright Roland Juno-106 analog brass fanfare, Tyler's booming gated-reverb snare, Evan's driving eighth-note bassline, and Ryan's soaring electric guitar, it marks the family's triumphant return to full-throttle 1980s AOR studio rock.
 
 **LYRICS:**
 
 [Intro]
-(Warm, solitary acoustic upright piano plays the final lingering chord from "Last Bus Home")
-(Heavy mechanical CLACK-THUMP of master studio breaker relays flipping ON)
-(60Hz tube amplifier hum swells into a blazing 1980s analog synthesizer brass fanfare)
-(Massive pounding gated-reverb snare roll and driving eighth-note bassline slam in)
+(Warm, solitary acoustic piano chords in D Major)
+(A bright, triumphant 1980s analog synthesizer brass fanfare erupts)
+(Massive, pounding 80s gated-reverb snare drum roll and driving eighth-note bassline kick in)
 
 [Spoken Word Intro]
 (Cassidy - warm, smiling)
@@ -84,7 +83,7 @@ This is Reignition! Hear the thrusters roar!
 We're lighting up the valley like we did before!
 
 [Bridge]
-(Music drops to pulsing analog synth pad and thunderous kick drum)
+(Music drops to pulsing analog synth pad and steady kick drum)
 (Cassidy)
 We didn't burn out, we just took our time
 (Ryan)
@@ -95,7 +94,7 @@ Now the meters are pinning in the crimson zone!
 Blacksburg, Virginia—your band is home!
 
 [Guitar & Synthesizer Solo]
-(Blistering 1980s AOR electric guitar solo trading triumphant phrases with a bright polyphonic analog synthesizer lead)
+(A soaring, melodic 1980s AOR electric guitar solo trading triumphant phrases with a bright polyphonic analog synthesizer lead)
 
 [Final Chorus]
 (Duet - Full Stadium Energy)
@@ -115,4 +114,3 @@ Lights on on Progress Street!
 (Ryan)
 The fire is back!
 (Final ringing D-Major stadium power chord and gong crash)
-

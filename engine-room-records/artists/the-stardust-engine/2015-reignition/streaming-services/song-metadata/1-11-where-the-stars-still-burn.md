@@ -1,7 +1,7 @@
-# See You at the Crucible: Thirty Years of Fire - DistroKid Quick-Copy Sheet
+# Where the Stars Still Burn - DistroKid Quick-Copy Sheet
 
 ## 1. DistroKid Upload Form Data
-* **Track Title:** See You at the Crucible: Thirty Years of Fire
+* **Track Title:** Where the Stars Still Burn
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 1980s AOR / Melodic Stadium Rock / 80s Cosmic Pop
 * **Real-World DSP Release Date:** 2026-10-25
@@ -32,7 +32,7 @@
 * **Album UPC / GTIN-12:** None
 * **Track Length:** 
 * **Fictional Narrative Release Date:** 2015-10-16
-* **Master File Located At:** ../../vault/wav/1-11-see-you-at-the-crucible-thirty-years-of-fire.wav
+* **Master File Located At:** ../../vault/wav/1-11-where-the-stars-still-burn.wav
 
 ## 4. Rights, Tri-License Architecture & Clearances
 * **Commercial Rights:** 100% cleared via commercial-tier Suno Premium.

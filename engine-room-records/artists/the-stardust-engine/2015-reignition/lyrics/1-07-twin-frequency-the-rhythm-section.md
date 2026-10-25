@@ -34,7 +34,7 @@ They're the iron chassis underneath every song!
 [Chorus]
 (Ryan & Gang Vocals)
 Twin Frequency! Hear the rhythm section roar!
-Shaking every rafters from the ceiling to the floor!
+Shaking every rafter from the ceiling to the floor!
 Bassline and the backbeat in a telepathic lock
 Steady as the gears inside an iron clock!
 Two brothers, one heartbeat, driving through the night
@@ -48,7 +48,7 @@ Airbrakes and the diesel humming under them
 Keeping us protected while the singers sleep
 Making every promise that a brother can keep
 Then the house lights drop and they take the riser stand
-Tightest rhythm section in the whole damn land!
+Tightest rhythm section anywhere we stand!
 
 [Pre-Chorus]
 (Ryan)
@@ -94,4 +94,3 @@ Turn up the low end—it's Twin Frequency!
 (Syncopated bass and drum lock ending on a massive unison hit)
 (Ryan)
 The heartbeat of the Engine!
-

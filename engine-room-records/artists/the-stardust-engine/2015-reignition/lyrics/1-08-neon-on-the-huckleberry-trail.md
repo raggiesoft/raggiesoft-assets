@@ -74,7 +74,7 @@ But nothing on earth ever feels as sweet
 As the six-mile path leading back to Progress Street!
 
 [Guitar Solo]
-(Uplifting, breezy 1980s melodic electric guitar solo harmonizing with shimmering analog synth bells)
+(An uplifting, breezy 1980s melodic electric guitar solo harmonizing with shimmering analog synth bells)
 
 [Final Chorus]
 (Cassidy & Ryan Harmonies)
@@ -91,4 +91,3 @@ We're home together on the Huckleberry Trail!
 (Shimmering chorus guitar and analog synth arpeggios fade into the autumn dusk)
 (Cassidy)
 Race you back to Progress Street.
-

@@ -1,5 +1,5 @@
 **LORE NOTE:**
-A sleek, driving 126 BPM 1980s melodic synth-rocker celebrating younger sister and CEO Holly O'Connell passing the Delaware Bar in August 2015 and executing "The Delaware Migration"—folding *Engine Room Records, LLC*, *Artists First Management, LLC*, *Stardust Properties, LLC*, and *Pacific Rim Properties, LLC* into anonymous Delaware corporate structures beneath *The O'Connell Family Revocable Trust*. As Cassidy sings over a sequenced analog bassline, nine-tenths of the family's $2.4B+ fortress sits permanently beneath the waterline where corporate sharks and tabloids can never see it.
+A sleek, driving 126 BPM 1980s melodic synth-rocker celebrating younger sister and CEO Holly O'Connell passing the Delaware Bar in August 2015 and executing "The Delaware Migration"—folding *Engine Room Records, LLC*, *Artists First Management, LLC*, *Stardust Properties, LLC*, and *Pacific Rim Properties, LLC* into anonymous Delaware corporate structures beneath *The O'Connell Family Revocable Trust*. As Cassidy sings over a sequenced analog bassline, nine-tenths of the family's $2.4B+ fortress sits permanently beneath the waterline where the outside world can never see it.
 
 **LYRICS:**
 
@@ -11,10 +11,10 @@ A sleek, driving 126 BPM 1980s melodic synth-rocker celebrating younger sister a
 [Verse 1]
 (Cassidy)
 Up on the surface it's a quiet street
-Five pairs of boots and a rhythmic beat
+Five pairs of boots and a steady beat
 Just a small-town band from the mountain air
 No flashy limousines anywhere
-The vultures circle with their legal pads
+The suited strangers with their legal pads
 Looking for the fortune that the lottery had
 They search the registries from coast to coast
 Chasing after shadows and a paper ghost!
@@ -22,14 +22,14 @@ Chasing after shadows and a paper ghost!
 [Pre-Chorus]
 (Cassidy)
 They only see the tip above the ocean wave
-They don't know the labyrinth our sister gave
-Wilmington filings in a vaulted room
-Locked behind a firewall of quiet doom!
+They don't know the sanctuary our sister gave
+Deep beneath the surface where the waters gleam
+Safe inside the quiet of a vaulted dream!
 
 [Chorus]
 (Cassidy & Backing Harmonies)
 Like an iceberg—nine-tenths underneath the sea!
-Submerged in the deep where the sharks can't see!
+Submerged in the deep where the world can't see!
 On paper we're just five kids from a mountain town
 While the fortress underneath can never be torn down!
 You can't buy the master and you can't find the key
@@ -37,26 +37,26 @@ The Iceberg is submerged and the family is free!
 
 [Verse 2]
 (Cassidy)
-Back in eighty-six with a crimson pen
-Sixteen years old in a lion's den
+Started with a notebook and a crimson pen
+Sixteen years old with a steady plan
 She crossed out the traps in the fine-print line
-And built a shield that would outlast time
-Now twenty-fifteen in the August heat
-She moved the whole empire on silent feet
-Century City to the Blue Ridge crest
-Held inside the armor of the family chest!
+And built a shelter that would outlast time
+Now the autumn wind blows across the bay
+And the whole foundation is tucked away
+From the western coast to the Blue Ridge crest
+Held inside the harbor of the family chest!
 
 [Pre-Chorus]
 (Cassidy)
 They only see the tip above the ocean wave
-They don't know the labyrinth our sister gave
+They don't know the sanctuary our sister gave
 No public shareholders, no board of greed
 Just the five of us and everything we'll ever need!
 
 [Chorus]
 (Cassidy & Backing Harmonies)
 Like an iceberg—nine-tenths underneath the sea!
-Submerged in the deep where the sharks can't see!
+Submerged in the deep where the world can't see!
 On paper we're just five kids from a mountain town
 While the fortress underneath can never be torn down!
 You can't buy the master and you can't find the key
@@ -71,12 +71,12 @@ We play for the kids in the bleachers tonight
 Because the foundation is watertight!
 
 [Guitar & Synth Duel]
-(Sleek, razor-sharp 1980s electric guitar solo trading rapid arpeggios with a bright analog synthesizer lead)
+(Sleek, melodic 1980s electric guitar solo trading rapid arpeggios with a bright analog synthesizer lead)
 
 [Final Chorus]
 (Cassidy & Full Band)
 Like an iceberg—nine-tenths underneath the sea!
-Submerged in the deep where the sharks can't see!
+Submerged in the deep where the world can't see!
 On paper we're just five kids from a mountain town
 While the fortress underneath can never be torn down!
 You can't buy the master and you can't find the key
@@ -88,4 +88,3 @@ The Iceberg is submerged and the family is free!
 Submerged and untouchable.
 Thank you, Holly.
 (Final crisp synth chord and gated snare hit)
-

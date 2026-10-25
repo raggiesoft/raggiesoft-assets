@@ -9,7 +9,7 @@ Cassidy's lush, zero-gravity 1980s Cosmic Pop centerpiece (**The Cosmic Tidal Lo
 
 [Verse 1]
 (Cassidy)
-Drifting in the silence on thelunar side
+Drifting in the silence on the lunar side
 Where the radio waves have nowhere left to hide
 Watching all the constellations wheeling slow
 Three hundred thousand miles from the world below
@@ -74,7 +74,7 @@ Stronger in the gravity, clearer in the sight
 Wrapped inside a halo of electric light!
 
 [Guitar Solo]
-(Soaring, weightless, deeply melodic 1980s electric guitar solo by Ryan floating over cascading analog synthesizer waves)
+(A soaring, weightless, deeply melodic 1980s electric guitar solo floating over cascading analog synthesizer waves)
 
 [Final Chorus]
 (Cassidy & Ryan Harmonies)
@@ -91,4 +91,3 @@ This is our Orbital Return—and we are here!
 (Cascading 1980s synthesizer arpeggios fade gently into warm cosmic starlight)
 (Cassidy)
 Telemetry locked. Welcome home.
-

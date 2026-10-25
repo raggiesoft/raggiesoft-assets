@@ -5,10 +5,9 @@ Inspired by the Space Shuttle launch on the album's cover and the band's lifelon
 
 [Intro]
 (Sweeping 1980s analog synthesizer arpeggios panning across the stereo field)
-(Crackling flight-deck radio static)
 
 [Spoken Word Intro]
-(Ryan - filtered like flight control)
+(Ryan - spoken clearly)
 Guidance is internal.
 T-minus ten... nine... eight...
 Seven... six...
@@ -17,7 +16,7 @@ Four... three... two... one...
 Zero! Liftoff!
 
 [Instrumental Hook]
-(Explosive 142 BPM palm-muted electric guitar riff and thunderous 80s gated-reverb drums slam in)
+(Explosive 142 BPM palm-muted electric guitar riff and thunderous 80s gated-reverb drums kick in)
 
 [Verse 1]
 (Ryan)
@@ -54,7 +53,7 @@ Thirty miles up and the sky turns black
 Nothing in the universe can hold us back
 Solid rocket separation, clean and true
 Look out the window at the endless view!
-We built this vessel out of blood and steel
+We built this vessel out of heart and steel
 Two twin brothers and a brother on wheels
 A sister on the keys and a sister at the helm
 Crossing the border to a higher realm!
@@ -83,10 +82,10 @@ Hold on to the throttle—it's Main Engine Start!
 They thought the countdown ended years ago
 Thought the cold dark winter froze the afterglow
 But an engine built for orbit never forgets the stars
-Even with the mileage and the battle scars!
+Reaching for the heavens where the cosmos are!
 
 [Guitar Solo]
-(Screaming 1980s two-hand tapping electric guitar solo soaring over galloping bass and rapid-fire double-kick drums)
+(A soaring, virtuosic 1980s two-hand tapping electric guitar solo over galloping bass and rapid-fire double-kick drums)
 
 [Final Chorus]
 (Ryan & Gang Chorus)
@@ -103,5 +102,4 @@ Main Engine Start!
 (Ryan)
 All thrusters at one hundred and four percent!
 We are in orbit!
-(Final blazing guitar harmonic and gated drum explosion)
-
+(Final blazing guitar harmonic and gated drum crescendo)

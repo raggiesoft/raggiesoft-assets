@@ -10,7 +10,7 @@ The emotional heart of *Reignition*. Opening with just Cassidy's acoustic grand 
 [Verse 1]
 (Cassidy)
 When the fluorescent lights are humming way too loud
-And you're drowning in the middle of a friendly crowd
+And you're spinning in the middle of a noisy crowd
 When the rules don't match the script inside your head
 And every single wire is flashing crimson red
 (Ryan)
@@ -41,7 +41,7 @@ I am still your safe person—let the quiet in!
 
 [Verse 2]
 (Ryan)
-Back when the highway crushed the steel beneath my seat
+Back when the winter changed the road beneath my seat
 And I had to learn a brand new way to move down Progress Street
 You never looked at me with pity in your eyes
 You just lowered every keyboard stand to match my size
@@ -72,7 +72,7 @@ Through every single storm and every place we've been
 I am still your safe person—let the quiet in!
 
 [Guitar Solo]
-(Monumental, weeping 1980s arena power-ballad electric guitar solo by Ryan, soaring with long sustained bends over Cassidy's grand piano and lush synth strings)
+(A monumental, weeping 1980s arena power-ballad electric guitar solo, soaring with long sustained bends over grand piano and lush synth strings)
 
 [Bridge]
 (Stripped back to just grand piano and sibling vocals)
@@ -98,4 +98,3 @@ I am still your safe person—let the quiet in!
 (Acoustic grand piano and clean electric guitar resolve on a warm, lingering C-Major chord)
 (Cassidy - soft)
 I've got you. Always.
-

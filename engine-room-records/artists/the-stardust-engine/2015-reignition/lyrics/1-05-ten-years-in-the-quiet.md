@@ -1,5 +1,5 @@
 **LORE NOTE:**
-An honest, deeply moving 84 BPM 1980s AOR power ballad reflecting on the **2005–2014 Burnout Hiatus**. After recording four studio albums in four years and reaching complete sensory and physical exhaustion at the end of the 2004 Norfolk tour, Ryan and Cassidy sing about how choosing to walk away from the spotlight for ten years—drinking coffee on the Progress Street porch, cooking family dinners, and protecting their neurodivergent boundaries—saved their lives and kept the five of them whole.
+Work-life balance in song form: an honest, deeply moving 84 BPM 1980s AOR power ballad reflecting on the **2005–2014 Burnout Hiatus**. After recording four studio albums in four years and reaching complete sensory and physical exhaustion at the end of the 2004 Norfolk tour, Ryan and Cassidy sing about how choosing to walk away from the spotlight for ten years—drinking coffee on the Progress Street porch, cooking family dinners, and protecting their neurodivergent boundaries—saved their lives and kept the five of them whole.
 
 **LYRICS:**
 
@@ -12,10 +12,10 @@ An honest, deeply moving 84 BPM 1980s AOR power ballad reflecting on the **2005�
 Two thousand and four under a concrete dome
 Four albums in the rearview on the highway home
 My hands were shaking on the steering rim
-And the stage lights felt a little too bright and grim
+And the stage lights felt a little too bright and dim
 (Cassidy)
 Every room was spinning at a hundred degrees
-Too many voices begging us to please
+Too many voices asking us to please
 So we walked off the stage and we closed the door
 And left the suitcases on the hallway floor
 
@@ -44,7 +44,7 @@ Sometimes stepping back is how you keep the stars in reach
 Sunday dinners at a wooden table for five
 Learning what it feels like just to be alive
 Walking through the autumn leaves without a crowd
-Where the only music wasn't painful or loud
+Where the morning melody was gentle and proud
 (Ryan)
 Evan fixing bicycles out in the drive
 Tyler laughing til the neighbors knew we were alive
@@ -52,8 +52,8 @@ Holly with her law books and her steady grace
 Keeping peace and quiet in our favorite place
 
 [Pre-Chorus]
-(Cassidy)
 (Massive gated-reverb drum fill enters)
+(Cassidy)
 They said if you step off the train you'll fade to gray
 (Ryan)
 But love doesn't rust when you put it away!
@@ -73,12 +73,12 @@ And now we know the secret that the road can't teach:
 Sometimes stepping back is how you keep the stars in reach!
 
 [Guitar Solo]
-(Deeply emotional, soaring 1980s arena power-ballad guitar solo climbing into the upper register over lush synth strings)
+(A deeply emotional, soaring 1980s arena power-ballad guitar solo climbing into the upper register over lush synth strings)
 
 [Bridge]
 (Piano and vocals only)
 (Cassidy)
-If your heart is running on a frayed-out wire
+If your heart is running on a worn-out wire
 (Ryan)
 You don't owe the world your very last fire
 (Duet)
