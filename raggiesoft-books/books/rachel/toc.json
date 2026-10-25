@@ -7,13 +7,13 @@
     "next_series_url": "",
     "ebook_sizes": {
         "epub": "13.5 MB",
-        "pdf": "15.2 MB",
-        "text_epub": "975 KB",
+        "pdf": "15.3 MB",
+        "text_epub": "986 KB",
         "text_pdf": "2.7 MB",
-        "epub_bytes": 14112826,
-        "pdf_bytes": 15978888,
-        "text_epub_bytes": 998655,
-        "text_pdf_bytes": 2801968
+        "epub_bytes": 14123424,
+        "pdf_bytes": 16015134,
+        "text_epub_bytes": 1009252,
+        "text_pdf_bytes": 2838101
     },
     "illustration_count": 18,
     "eras": [
@@ -2346,6 +2346,40 @@
                             "url": "/rachel/book-19-the-director-s-perimeter/chapter-4-ground-zero/the-demolition-directive-the-intact-architecture",
                             "date": "2007-06-15",
                             "start_time": "07:45"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "era_num": 20,
+            "era_title": "Book 20: The Mountain Conference (SAACURC 2016)",
+            "era_url": "/raggiesoft-books/books/rachel/book-20-the-mountain-conference-saacurc-2016",
+            "illustration_count": 0,
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Chapter 1: The Bear, The Bug, and The Forger",
+                    "chap_url": "/raggiesoft-books/books/rachel/book-20-the-mountain-conference-saacurc-2016/chapter-1-the-bear-the-bug-and-the-forger",
+                    "illustration_count": 0,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Clothespin Gauntlet & The Forger",
+                            "file_path": "e020/c001/p001.md",
+                            "url": "/rachel/book-20-the-mountain-conference-saacurc-2016/chapter-1-the-bear-the-bug-and-the-forger/part-1-the-clothespin-gauntlet-the-forger",
+                            "date": "2016-02-13",
+                            "start_time": "09:15",
+                            "location": "Kincaid Student Center (290 College Ave.), Commonwealth Polytechnic Institute, Blacksburg, Virginia"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Forty Via C-Burg",
+                            "file_path": "e020/c001/p002.md",
+                            "url": "/rachel/book-20-the-mountain-conference-saacurc-2016/chapter-1-the-bear-the-bug-and-the-forger/part-2-forty-via-c-burg",
+                            "date": "2016-02-13",
+                            "start_time": "11:00",
+                            "location": "College Avenue & Kincaid Student Center Plaza, Blacksburg, Virginia"
                         }
                     ]
                 }
