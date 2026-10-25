@@ -3,7 +3,7 @@
 * **Artist:** The Stardust Engine (featuring the 300-piece **CPI Marching Forgers** on Tracks 01–04 and the Grand Finale Encore)
 * **Album:** *Live at the Crucible*
   * **Concert Announced:** Mid-February 2016 (Spring Semester — with the Poly Pass-locked **Forger Nation Presale** reserving the entire Field Level and Lower Bowl for CPI students & alumni, plus the `$5.00` gold-foil *Ceremonial Ticket Stub* and `$15.00` *Soundboard Direct* raw archival CD-R add-ons)
-  * **Concert Recorded Live:** **Saturday, May 21, 2016** (End of the Spring 2016 semester; *The Electric Color Tour Finale* celebrating the 30th Anniversary of 1986's *Ignition: The Forger's Call*)
+  * **Concert Recorded Live:** **Saturday, May 21, 2016** (End of the Spring 2016 semester; *The Reignition World Tour Finale & 30th Anniversary Homecoming* celebrating the 30th Anniversary of 1986's *Ignition: The Forger's Call*)
   * **Commercial Album & 3-LP Deluxe Splatter Vinyl Box Set Released:** **`2016-10-15`** (Midnight release at The Foundry during **CPI Homecoming Weekend, Fall 2016**, followed on Friday afternoon by the band's free *"LUNCH IS ON THE ENGINE ROOM. EAT UP, FORGERS."* acoustic/electric mini-concert on the steps of Kincaid Hall)
 * **Venue:** **The Crucible** (Blacksburg, Virginia — CPI's 65,000+ seat open-air concrete-and-Ironstone football stadium; *"the LOUDEST house in ALL of College Football"*, protected by Jeremiah "Ironhead" Vance's 1995 $100M Acoustic Mandate Covenant)
 * **Genre:** Live Stadium Rock / 1980s AOR / Collegiate Marching Band Rock
