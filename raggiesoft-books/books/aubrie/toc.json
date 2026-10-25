@@ -10,10 +10,10 @@
         "pdf": "32.8 MB",
         "text_epub": "896 KB",
         "text_pdf": "3.4 MB",
-        "epub_bytes": 49013508,
-        "pdf_bytes": 34358024,
-        "text_epub_bytes": 917966,
-        "text_pdf_bytes": 3519660
+        "epub_bytes": 49012671,
+        "pdf_bytes": 34356233,
+        "text_epub_bytes": 917127,
+        "text_pdf_bytes": 3517593
     },
     "illustration_count": 42,
     "eras": [
@@ -2258,21 +2258,21 @@
         },
         {
             "era_num": 7,
-            "era_title": "Episode 7: Spring 2016",
-            "era_url": "/raggiesoft-books/books/aubrie/episode-7-spring-2016",
+            "era_title": "Spring Semester 2016",
+            "era_url": "/raggiesoft-books/books/aubrie/spring-semester-2016",
             "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: Off Precautions & Megan's First Night",
-                    "chap_url": "/raggiesoft-books/books/aubrie/episode-7-spring-2016/chapter-1-off-precautions-megan-s-first-night",
+                    "chap_title": "Off Precautions & Megan's First Night",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2016/off-precautions-megan-s-first-night",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Twelve Weeks Clear & The Eighth Point of the Constellation",
                             "file_path": "e007/c001/p001.md",
-                            "url": "/aubrie/episode-7-spring-2016/chapter-1-off-precautions-megan-s-first-night/twelve-weeks-clear-the-eighth-point-of-the-constellation",
+                            "url": "/aubrie/spring-semester-2016/off-precautions-megan-s-first-night/twelve-weeks-clear-the-eighth-point-of-the-constellation",
                             "date": "2016-01-18",
                             "start_time": "09:00",
                             "location": "Star City General Hospital Cardiology Clinic (Roanoke, VA) & 414 Geneva Street (Christiansburg, VA)"
@@ -2281,32 +2281,31 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: HEY SAACURC! & The Bear and the Bug",
-                    "chap_url": "/raggiesoft-books/books/aubrie/episode-7-spring-2016/chapter-2-hey-saacurc-the-bear-and-the-bug",
+                    "chap_title": "HEY SAACURC! & The Bear and the Bug",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2016/hey-saacurc-the-bear-and-the-bug",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Bear, The Bug, and The Forger",
+                            "part_title": "The Friday Arrival & The Bus to Christiansburg",
                             "file_path": "e007/c002/p001.md",
-                            "url": "/aubrie/episode-7-spring-2016/chapter-2-hey-saacurc-the-bear-and-the-bug/the-bear-the-bug-and-the-forger",
-                            "date": "2016-02-13",
-                            "start_time": "10:00",
-                            "location": "Kincaid Student Center (290 College Ave.), Commonwealth Polytechnic Institute, Blacksburg, Virginia"
+                            "url": "/aubrie/spring-semester-2016/hey-saacurc-the-bear-and-the-bug/the-friday-arrival-the-bus-to-christiansburg",
+                            "date": "2016-02-12 16:15",
+                            "location": "The Hotel at Poly & Commonwealth Mall to Christiansburg Transit Center, VA"
                         }
                     ]
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3: The Electric Alert & The Box Office Showdown",
-                    "chap_url": "/raggiesoft-books/books/aubrie/episode-7-spring-2016/chapter-3-the-electric-alert-the-box-office-showdown",
+                    "chap_title": "The Electric Alert & The Box Office Showdown",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2016/the-electric-alert-the-box-office-showdown",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Electric Alert & The 10:00 AM Rush",
                             "file_path": "e007/c003/p001.md",
-                            "url": "/aubrie/episode-7-spring-2016/chapter-3-the-electric-alert-the-box-office-showdown/part-1-the-electric-alert-the-10-00-am-rush",
+                            "url": "/aubrie/spring-semester-2016/the-electric-alert-the-box-office-showdown/part-1-the-electric-alert-the-10-00-am-rush",
                             "date": "2016-02-19 10:00",
                             "location": "414 Geneva Street & CPI Campus, Blacksburg, VA"
                         },
@@ -2314,7 +2313,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Letter From Home & The Box Office Confrontation",
                             "file_path": "e007/c003/p002.md",
-                            "url": "/aubrie/episode-7-spring-2016/chapter-3-the-electric-alert-the-box-office-showdown/part-2-the-letter-from-home-the-box-office-confrontation",
+                            "url": "/aubrie/spring-semester-2016/the-electric-alert-the-box-office-showdown/part-2-the-letter-from-home-the-box-office-confrontation",
                             "date": "2016-02-24 14:30",
                             "location": "The Crucible Gate 1 Box Office, Blacksburg, VA"
                         }
@@ -2322,15 +2321,15 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 4: Live at The Crucible & Senior Commencement",
-                    "chap_url": "/raggiesoft-books/books/aubrie/episode-7-spring-2016/chapter-4-live-at-the-crucible-senior-commencement",
+                    "chap_title": "Live at The Crucible & Senior Commencement",
+                    "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Crucible Shuttle, Forger Tailgate, & Ignition",
                             "file_path": "e007/c004/p001.md",
-                            "url": "/aubrie/episode-7-spring-2016/chapter-4-live-at-the-crucible-senior-commencement/part-1-the-crucible-shuttle-forger-tailgate-ignition",
+                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-1-the-crucible-shuttle-forger-tailgate-ignition",
                             "date": "2016-05-21 15:00",
                             "location": "414 Geneva Street to The Crucible (Section 104, Row A), Blacksburg, VA"
                         },
@@ -2338,7 +2337,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: Electric Color in the Dark & The Departure Loop",
                             "file_path": "e007/c004/p002.md",
-                            "url": "/aubrie/episode-7-spring-2016/chapter-4-live-at-the-crucible-senior-commencement/part-2-electric-color-in-the-dark-the-departure-loop",
+                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-2-electric-color-in-the-dark-the-departure-loop",
                             "date": "2016-05-21 20:30",
                             "location": "The Crucible & Stadium Transit Loop, Blacksburg, VA"
                         }
@@ -2348,21 +2347,21 @@
         },
         {
             "era_num": 8,
-            "era_title": "Episode 8: Summer 2016",
-            "era_url": "/raggiesoft-books/books/aubrie/episode-8-summer-2016",
+            "era_title": "Summer 2016",
+            "era_url": "/raggiesoft-books/books/aubrie/summer-2016",
             "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: The U.S. 11 Compound & The Sunken Sanctuary",
-                    "chap_url": "/raggiesoft-books/books/aubrie/episode-8-summer-2016/chapter-1-the-u-s-11-compound-the-sunken-sanctuary",
+                    "chap_title": "The U.S. 11 Compound & The Sunken Sanctuary",
+                    "chap_url": "/raggiesoft-books/books/aubrie/summer-2016/the-u-s-11-compound-the-sunken-sanctuary",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The U.S. 11 Compound & The Sunken Sanctuary",
                             "file_path": "e008/c001/p001.md",
-                            "url": "/aubrie/episode-8-summer-2016/chapter-1-the-u-s-11-compound-the-sunken-sanctuary/the-u-s-11-compound-the-sunken-sanctuary",
+                            "url": "/aubrie/summer-2016/the-u-s-11-compound-the-sunken-sanctuary/the-u-s-11-compound-the-sunken-sanctuary",
                             "date": "2016-07-01 11:00",
                             "location": "The Kelly-Anderson-Brooks Compound, U.S. Route 11, Christiansburg/Blacksburg Corridor, VA"
                         }
@@ -2370,15 +2369,15 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: The Double Wedding & The Legal Seal",
-                    "chap_url": "/raggiesoft-books/books/aubrie/episode-8-summer-2016/chapter-2-the-double-wedding-the-legal-seal",
+                    "chap_title": "The Double Wedding & The Legal Seal",
+                    "chap_url": "/raggiesoft-books/books/aubrie/summer-2016/the-double-wedding-the-legal-seal",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Morning Of, The Gathering, & The Vows",
                             "file_path": "e008/c002/p001.md",
-                            "url": "/aubrie/episode-8-summer-2016/chapter-2-the-double-wedding-the-legal-seal/part-1-the-morning-of-the-gathering-the-vows",
+                            "url": "/aubrie/summer-2016/the-double-wedding-the-legal-seal/part-1-the-morning-of-the-gathering-the-vows",
                             "date": "2016-07-16 07:30",
                             "location": "The U.S. 11 Compound to Old Town Ballroom & Conservatory, Christiansburg, VA"
                         },
@@ -2386,7 +2385,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Legal Seal, The Reception, & The First Night",
                             "file_path": "e008/c002/p002.md",
-                            "url": "/aubrie/episode-8-summer-2016/chapter-2-the-double-wedding-the-legal-seal/part-2-the-legal-seal-the-reception-the-first-night",
+                            "url": "/aubrie/summer-2016/the-double-wedding-the-legal-seal/part-2-the-legal-seal-the-reception-the-first-night",
                             "date": "2016-07-16 14:45",
                             "location": "Montgomery County Courthouse, Old Town Ballroom, & The Sunken Sanctuary (U.S. 11), VA"
                         }

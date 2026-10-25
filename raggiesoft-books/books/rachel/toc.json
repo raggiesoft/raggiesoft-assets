@@ -10,30 +10,30 @@
         "pdf": "15.3 MB",
         "text_epub": "986 KB",
         "text_pdf": "2.7 MB",
-        "epub_bytes": 14123424,
-        "pdf_bytes": 16015134,
-        "text_epub_bytes": 1009252,
-        "text_pdf_bytes": 2838101
+        "epub_bytes": 14123342,
+        "pdf_bytes": 16026621,
+        "text_epub_bytes": 1009174,
+        "text_pdf_bytes": 2849546
     },
     "illustration_count": 18,
     "eras": [
         {
             "era_num": 1,
-            "era_title": "Book 1: The Delaney Street Years",
-            "era_url": "/raggiesoft-books/books/rachel/book-1-the-delaney-street-years",
+            "era_title": "The Delaney Street Years",
+            "era_url": "/raggiesoft-books/books/rachel/the-delaney-street-years",
             "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: The Sabertooth Kitty",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-1-the-delaney-street-years/chapter-1-the-sabertooth-kitty",
+                    "chap_title": "The Sabertooth Kitty",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-delaney-street-years/the-sabertooth-kitty",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Sensory Avalanche",
                             "file_path": "e001/c001/p001.md",
-                            "url": "/rachel/book-1-the-delaney-street-years/chapter-1-the-sabertooth-kitty/the-sensory-avalanche",
+                            "url": "/rachel/the-delaney-street-years/the-sabertooth-kitty/the-sensory-avalanche",
                             "date": "1990-12-01",
                             "start_time": "09:00"
                         }
@@ -41,15 +41,15 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: The Lower Bunk",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-1-the-delaney-street-years/chapter-2-the-lower-bunk",
+                    "chap_title": "The Lower Bunk",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-delaney-street-years/the-lower-bunk",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Sanctuary & The New Arrangement",
                             "file_path": "e001/c002/p001.md",
-                            "url": "/rachel/book-1-the-delaney-street-years/chapter-2-the-lower-bunk/sanctuary-the-new-arrangement",
+                            "url": "/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement",
                             "date": "1993-12-22",
                             "start_time": "21:30"
                         }
@@ -57,15 +57,15 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3: The Morning After",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-1-the-delaney-street-years/chapter-3-the-morning-after",
+                    "chap_title": "The Morning After",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-delaney-street-years/the-morning-after",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Discovery & The Neon Quarter",
                             "file_path": "e001/c003/p001.md",
-                            "url": "/rachel/book-1-the-delaney-street-years/chapter-3-the-morning-after/part-1-the-discovery-the-neon-quarter",
+                            "url": "/rachel/the-delaney-street-years/the-morning-after/part-1-the-discovery-the-neon-quarter",
                             "date": "1993-12-23",
                             "start_time": "07:00"
                         },
@@ -73,7 +73,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: Not Proper & The Father's Perspective",
                             "file_path": "e001/c003/p002.md",
-                            "url": "/rachel/book-1-the-delaney-street-years/chapter-3-the-morning-after/part-2-not-proper-the-father-s-perspective",
+                            "url": "/rachel/the-delaney-street-years/the-morning-after/part-2-not-proper-the-father-s-perspective",
                             "date": "1993-12-23",
                             "start_time": "14:30"
                         }
@@ -83,21 +83,21 @@
         },
         {
             "era_num": 2,
-            "era_title": "Book 2: The Saltwater Summer",
-            "era_url": "/raggiesoft-books/books/rachel/book-2-the-saltwater-summer",
+            "era_title": "The Saltwater Summer",
+            "era_url": "/raggiesoft-books/books/rachel/the-saltwater-summer",
             "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: The Sanctuary \u2013 Friday, August 11th, 1995",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-2-the-saltwater-summer/chapter-1-the-sanctuary-friday-august-11th-1995",
+                    "chap_title": "The Sanctuary \u2013 Friday, August 11th, 1995",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-saltwater-summer/the-sanctuary-friday-august-11th-1995",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Safe Harbor & The Pal and the Perimeter",
                             "file_path": "e002/c001/p001.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-1-the-sanctuary-friday-august-11th-1995/part-1-the-safe-harbor-the-pal-and-the-perimeter",
+                            "url": "/rachel/the-saltwater-summer/the-sanctuary-friday-august-11th-1995/part-1-the-safe-harbor-the-pal-and-the-perimeter",
                             "date": "1995-08-11",
                             "start_time": "16:55"
                         },
@@ -105,7 +105,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Perimeter Secured & The Core Pack",
                             "file_path": "e002/c001/p002.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-1-the-sanctuary-friday-august-11th-1995/part-2-the-perimeter-secured-the-core-pack",
+                            "url": "/rachel/the-saltwater-summer/the-sanctuary-friday-august-11th-1995/part-2-the-perimeter-secured-the-core-pack",
                             "date": "1995-08-11",
                             "start_time": "18:25"
                         }
@@ -113,15 +113,15 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: The Catalyst \u2013 Saturday, August 12th, 1995",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-2-the-saltwater-summer/chapter-2-the-catalyst-saturday-august-12th-1995",
+                    "chap_title": "The Catalyst \u2013 Saturday, August 12th, 1995",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-saltwater-summer/the-catalyst-saturday-august-12th-1995",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Inventory & The Genesis of Hatred",
                             "file_path": "e002/c002/p001.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-2-the-catalyst-saturday-august-12th-1995/the-inventory-the-genesis-of-hatred",
+                            "url": "/rachel/the-saltwater-summer/the-catalyst-saturday-august-12th-1995/the-inventory-the-genesis-of-hatred",
                             "date": "1995-08-12",
                             "start_time": "09:00"
                         }
@@ -129,15 +129,15 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3: The Enforcer",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-2-the-saltwater-summer/chapter-3-the-enforcer",
+                    "chap_title": "The Enforcer",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-saltwater-summer/the-enforcer",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Mirrored Room & The Missing Cup",
                             "file_path": "e002/c003/p001.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-3-the-enforcer/part-1-the-mirrored-room-the-missing-cup",
+                            "url": "/rachel/the-saltwater-summer/the-enforcer/part-1-the-mirrored-room-the-missing-cup",
                             "date": "1995-08-15",
                             "start_time": "16:00"
                         },
@@ -145,7 +145,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: Breaking the Silence & The Top Row",
                             "file_path": "e002/c003/p002.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-3-the-enforcer/part-2-breaking-the-silence-the-top-row",
+                            "url": "/rachel/the-saltwater-summer/the-enforcer/part-2-breaking-the-silence-the-top-row",
                             "date": "1995-08-15",
                             "start_time": "16:55"
                         },
@@ -153,7 +153,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Delaney Street Revelation & The Code Wizard",
                             "file_path": "e002/c003/p003.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-3-the-enforcer/part-3-the-delaney-street-revelation-the-code-wizard",
+                            "url": "/rachel/the-saltwater-summer/the-enforcer/part-3-the-delaney-street-revelation-the-code-wizard",
                             "date": "1995-08-15",
                             "start_time": "17:45"
                         },
@@ -161,7 +161,7 @@
                             "part_num": 4,
                             "part_title": "Part 4: The Solstice Myth & The Twin-Bed Geometry",
                             "file_path": "e002/c003/p004.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-3-the-enforcer/part-4-the-solstice-myth-the-twin-bed-geometry",
+                            "url": "/rachel/the-saltwater-summer/the-enforcer/part-4-the-solstice-myth-the-twin-bed-geometry",
                             "date": "1995-08-15",
                             "start_time": "20:30"
                         }
@@ -169,15 +169,15 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 4: The Latchkey Solstice",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-2-the-saltwater-summer/chapter-4-the-latchkey-solstice",
+                    "chap_title": "The Latchkey Solstice",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-saltwater-summer/the-latchkey-solstice",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Latchkey Captain & The Canvas Fortress",
                             "file_path": "e002/c004/p001.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-4-the-latchkey-solstice/part-1-the-latchkey-captain-the-canvas-fortress",
+                            "url": "/rachel/the-saltwater-summer/the-latchkey-solstice/part-1-the-latchkey-captain-the-canvas-fortress",
                             "date": "1995-08-16",
                             "start_time": "08:30"
                         },
@@ -185,7 +185,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: Shore Power & Lights Out",
                             "file_path": "e002/c004/p002.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-4-the-latchkey-solstice/part-2-shore-power-lights-out",
+                            "url": "/rachel/the-saltwater-summer/the-latchkey-solstice/part-2-shore-power-lights-out",
                             "date": "1995-08-16",
                             "start_time": "19:00"
                         }
@@ -193,15 +193,15 @@
                 },
                 {
                     "chap_num": 5,
-                    "chap_title": "Chapter 5: The Thursday Deployment \u2013 Thursday, August 17, 1995",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-2-the-saltwater-summer/chapter-5-the-thursday-deployment-thursday-august-17-1995",
+                    "chap_title": "The Thursday Deployment \u2013 Thursday, August 17, 1995",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Breaking Camp & The Neurological Wall",
                             "file_path": "e002/c005/p001.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-5-the-thursday-deployment-thursday-august-17-1995/part-1-breaking-camp-the-neurological-wall",
+                            "url": "/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995/part-1-breaking-camp-the-neurological-wall",
                             "date": "1995-08-17",
                             "start_time": "07:30"
                         },
@@ -209,7 +209,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Observation Deck & The Core Check",
                             "file_path": "e002/c005/p002.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-5-the-thursday-deployment-thursday-august-17-1995/part-2-the-observation-deck-the-core-check",
+                            "url": "/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995/part-2-the-observation-deck-the-core-check",
                             "date": "1995-08-17",
                             "start_time": "13:30"
                         },
@@ -217,7 +217,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Rest of the Hour & The Broken Routine",
                             "file_path": "e002/c005/p003.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-5-the-thursday-deployment-thursday-august-17-1995/part-3-the-rest-of-the-hour-the-broken-routine",
+                            "url": "/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995/part-3-the-rest-of-the-hour-the-broken-routine",
                             "date": "1995-08-17",
                             "start_time": "17:30"
                         },
@@ -225,7 +225,7 @@
                             "part_num": 4,
                             "part_title": "Part 4: The Adult Echo Chamber & The Fracture",
                             "file_path": "e002/c005/p004.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-5-the-thursday-deployment-thursday-august-17-1995/part-4-the-adult-echo-chamber-the-fracture",
+                            "url": "/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995/part-4-the-adult-echo-chamber-the-fracture",
                             "date": "1995-08-17",
                             "start_time": "19:15"
                         }
@@ -233,15 +233,15 @@
                 },
                 {
                     "chap_num": 6,
-                    "chap_title": "Chapter 6: The Shattered Illusion",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-2-the-saltwater-summer/chapter-6-the-shattered-illusion",
+                    "chap_title": "The Shattered Illusion",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-saltwater-summer/the-shattered-illusion",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Physical Proof & The Admission",
                             "file_path": "e002/c006/p001.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-6-the-shattered-illusion/part-1-the-physical-proof-the-admission",
+                            "url": "/rachel/the-saltwater-summer/the-shattered-illusion/part-1-the-physical-proof-the-admission",
                             "date": "1995-08-18",
                             "start_time": "08:00"
                         },
@@ -249,7 +249,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The ICU Encounter & The Empty Mats",
                             "file_path": "e002/c006/p002.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-6-the-shattered-illusion/part-2-the-icu-encounter-the-empty-mats",
+                            "url": "/rachel/the-saltwater-summer/the-shattered-illusion/part-2-the-icu-encounter-the-empty-mats",
                             "date": "1995-08-18",
                             "start_time": "15:30"
                         },
@@ -257,7 +257,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Ultimate Bow & The Perimeter",
                             "file_path": "e002/c006/p003.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-6-the-shattered-illusion/part-3-the-ultimate-bow-the-perimeter",
+                            "url": "/rachel/the-saltwater-summer/the-shattered-illusion/part-3-the-ultimate-bow-the-perimeter",
                             "date": "1995-08-18",
                             "start_time": "18:45"
                         },
@@ -265,7 +265,7 @@
                             "part_num": 4,
                             "part_title": "Part 4: The Night Shift",
                             "file_path": "e002/c006/p004.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-6-the-shattered-illusion/part-4-the-night-shift",
+                            "url": "/rachel/the-saltwater-summer/the-shattered-illusion/part-4-the-night-shift",
                             "date": "1995-08-18",
                             "start_time": "21:00"
                         }
@@ -273,15 +273,15 @@
                 },
                 {
                     "chap_num": 7,
-                    "chap_title": "Chapter 7: The Long Road",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-2-the-saltwater-summer/chapter-7-the-long-road",
+                    "chap_title": "The Long Road",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-saltwater-summer/the-long-road",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Kehr\u2019s Sign & The Broken Anchor",
                             "file_path": "e002/c007/p001.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-7-the-long-road/part-1-kehr-s-sign-the-broken-anchor",
+                            "url": "/rachel/the-saltwater-summer/the-long-road/part-1-kehr-s-sign-the-broken-anchor",
                             "date": "1995-08-19",
                             "start_time": "07:30"
                         },
@@ -289,7 +289,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Transport & The Night Watch",
                             "file_path": "e002/c007/p002.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-7-the-long-road/part-2-the-transport-the-night-watch",
+                            "url": "/rachel/the-saltwater-summer/the-long-road/part-2-the-transport-the-night-watch",
                             "date": "1995-08-19",
                             "start_time": "13:30"
                         }
@@ -297,15 +297,15 @@
                 },
                 {
                     "chap_num": 8,
-                    "chap_title": "Chapter 8: The Warpath",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-2-the-saltwater-summer/chapter-8-the-warpath",
+                    "chap_title": "The Warpath",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-saltwater-summer/the-warpath",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Bear and Bug & The Interrogation",
                             "file_path": "e002/c008/p001.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-8-the-warpath/part-1-bear-and-bug-the-interrogation",
+                            "url": "/rachel/the-saltwater-summer/the-warpath/part-1-bear-and-bug-the-interrogation",
                             "date": "1995-08-20",
                             "start_time": "08:00"
                         },
@@ -313,7 +313,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: Stripping the Titles & The Night Watch",
                             "file_path": "e002/c008/p002.md",
-                            "url": "/rachel/book-2-the-saltwater-summer/chapter-8-the-warpath/part-2-stripping-the-titles-the-night-watch",
+                            "url": "/rachel/the-saltwater-summer/the-warpath/part-2-stripping-the-titles-the-night-watch",
                             "date": "1995-08-20",
                             "start_time": "10:15"
                         }
@@ -323,21 +323,21 @@
         },
         {
             "era_num": 3,
-            "era_title": "Book 3: Base Camp",
-            "era_url": "/raggiesoft-books/books/rachel/book-3-base-camp",
+            "era_title": "Base Camp",
+            "era_url": "/raggiesoft-books/books/rachel/base-camp",
             "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: The Monday War \u2013 Monday, August 21st, 1995",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-3-base-camp/chapter-1-the-monday-war-monday-august-21st-1995",
+                    "chap_title": "The Monday War \u2013 Monday, August 21st, 1995",
+                    "chap_url": "/raggiesoft-books/books/rachel/base-camp/the-monday-war-monday-august-21st-1995",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Weight of September & The Gavel",
                             "file_path": "e003/c001/p001.md",
-                            "url": "/rachel/book-3-base-camp/chapter-1-the-monday-war-monday-august-21st-1995/part-1-the-weight-of-september-the-gavel",
+                            "url": "/rachel/base-camp/the-monday-war-monday-august-21st-1995/part-1-the-weight-of-september-the-gavel",
                             "date": "1995-08-21",
                             "start_time": "07:00"
                         },
@@ -345,7 +345,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The War Room & The Meltdown",
                             "file_path": "e003/c001/p002.md",
-                            "url": "/rachel/book-3-base-camp/chapter-1-the-monday-war-monday-august-21st-1995/part-2-the-war-room-the-meltdown",
+                            "url": "/rachel/base-camp/the-monday-war-monday-august-21st-1995/part-2-the-war-room-the-meltdown",
                             "date": "1995-08-21",
                             "start_time": "09:00"
                         },
@@ -353,7 +353,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: Safe Harbor & The Art of Letting Go",
                             "file_path": "e003/c001/p003.md",
-                            "url": "/rachel/book-3-base-camp/chapter-1-the-monday-war-monday-august-21st-1995/part-3-safe-harbor-the-art-of-letting-go",
+                            "url": "/rachel/base-camp/the-monday-war-monday-august-21st-1995/part-3-safe-harbor-the-art-of-letting-go",
                             "date": "1995-08-21",
                             "start_time": "13:00"
                         },
@@ -361,7 +361,7 @@
                             "part_num": 4,
                             "part_title": "Part 4: The Cost of the War & Nightfall",
                             "file_path": "e003/c001/p004.md",
-                            "url": "/rachel/book-3-base-camp/chapter-1-the-monday-war-monday-august-21st-1995/part-4-the-cost-of-the-war-nightfall",
+                            "url": "/rachel/base-camp/the-monday-war-monday-august-21st-1995/part-4-the-cost-of-the-war-nightfall",
                             "date": "1995-08-21",
                             "start_time": "17:15"
                         }
@@ -369,15 +369,15 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: The Marathon \u2013 Tuesday, August 22, 1995",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-3-base-camp/chapter-2-the-marathon-tuesday-august-22-1995",
+                    "chap_title": "The Marathon \u2013 Tuesday, August 22, 1995",
+                    "chap_url": "/raggiesoft-books/books/rachel/base-camp/the-marathon-tuesday-august-22-1995",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Transfer of Trust & The First Lift",
                             "file_path": "e003/c002/p001.md",
-                            "url": "/rachel/book-3-base-camp/chapter-2-the-marathon-tuesday-august-22-1995/part-1-the-transfer-of-trust-the-first-lift",
+                            "url": "/rachel/base-camp/the-marathon-tuesday-august-22-1995/part-1-the-transfer-of-trust-the-first-lift",
                             "date": "1995-08-22",
                             "start_time": "08:30"
                         },
@@ -385,7 +385,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: Silly Fill-Ins and Mending & The Night Shift",
                             "file_path": "e003/c002/p002.md",
-                            "url": "/rachel/book-3-base-camp/chapter-2-the-marathon-tuesday-august-22-1995/part-2-silly-fill-ins-and-mending-the-night-shift",
+                            "url": "/rachel/base-camp/the-marathon-tuesday-august-22-1995/part-2-silly-fill-ins-and-mending-the-night-shift",
                             "date": "1995-08-22",
                             "start_time": "13:00"
                         }
@@ -393,15 +393,15 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3: The Birthday \u2013 Sunday, August 27, 1995",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-3-base-camp/chapter-3-the-birthday-sunday-august-27-1995",
+                    "chap_title": "The Birthday \u2013 Sunday, August 27, 1995",
+                    "chap_url": "/raggiesoft-books/books/rachel/base-camp/the-birthday-sunday-august-27-1995",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Sunday Shift & The Rootkit",
                             "file_path": "e003/c003/p001.md",
-                            "url": "/rachel/book-3-base-camp/chapter-3-the-birthday-sunday-august-27-1995/part-1-the-sunday-shift-the-rootkit",
+                            "url": "/rachel/base-camp/the-birthday-sunday-august-27-1995/part-1-the-sunday-shift-the-rootkit",
                             "date": "1995-08-27",
                             "start_time": "08:00"
                         },
@@ -409,7 +409,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Canine Guard & The Flat Relief",
                             "file_path": "e003/c003/p002.md",
-                            "url": "/rachel/book-3-base-camp/chapter-3-the-birthday-sunday-august-27-1995/part-2-the-canine-guard-the-flat-relief",
+                            "url": "/rachel/base-camp/the-birthday-sunday-august-27-1995/part-2-the-canine-guard-the-flat-relief",
                             "date": "1995-08-27",
                             "start_time": "14:30"
                         }
@@ -417,15 +417,15 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 4: The Homebound Tutor \u2013 Tuesday, September 5, 1995",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-3-base-camp/chapter-4-the-homebound-tutor-tuesday-september-5-1995",
+                    "chap_title": "The Homebound Tutor \u2013 Tuesday, September 5, 1995",
+                    "chap_url": "/raggiesoft-books/books/rachel/base-camp/the-homebound-tutor-tuesday-september-5-1995",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The First Bell & The Assessment",
                             "file_path": "e003/c004/p001.md",
-                            "url": "/rachel/book-3-base-camp/chapter-4-the-homebound-tutor-tuesday-september-5-1995/part-1-the-first-bell-the-assessment",
+                            "url": "/rachel/base-camp/the-homebound-tutor-tuesday-september-5-1995/part-1-the-first-bell-the-assessment",
                             "date": "1995-09-05",
                             "start_time": "07:30"
                         },
@@ -433,7 +433,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Brain Break & The Changing of the Guard",
                             "file_path": "e003/c004/p002.md",
-                            "url": "/rachel/book-3-base-camp/chapter-4-the-homebound-tutor-tuesday-september-5-1995/part-2-the-brain-break-the-changing-of-the-guard",
+                            "url": "/rachel/base-camp/the-homebound-tutor-tuesday-september-5-1995/part-2-the-brain-break-the-changing-of-the-guard",
                             "date": "1995-09-05",
                             "start_time": "10:15"
                         },
@@ -441,7 +441,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Afternoon Rest & The Way of Seondu",
                             "file_path": "e003/c004/p003.md",
-                            "url": "/rachel/book-3-base-camp/chapter-4-the-homebound-tutor-tuesday-september-5-1995/part-3-the-afternoon-rest-the-way-of-seondu",
+                            "url": "/rachel/base-camp/the-homebound-tutor-tuesday-september-5-1995/part-3-the-afternoon-rest-the-way-of-seondu",
                             "date": "1995-09-05",
                             "start_time": "12:10"
                         }
@@ -449,15 +449,15 @@
                 },
                 {
                     "chap_num": 5,
-                    "chap_title": "Chapter 5: The Chimney Sweep",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-3-base-camp/chapter-5-the-chimney-sweep",
+                    "chap_title": "The Chimney Sweep",
+                    "chap_url": "/raggiesoft-books/books/rachel/base-camp/the-chimney-sweep",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Autumn Shift & Fortifying the Perimeter",
                             "file_path": "e003/c005/p001.md",
-                            "url": "/rachel/book-3-base-camp/chapter-5-the-chimney-sweep/the-autumn-shift-fortifying-the-perimeter",
+                            "url": "/rachel/base-camp/the-chimney-sweep/the-autumn-shift-fortifying-the-perimeter",
                             "date": "1995-09-30",
                             "start_time": "08:30"
                         }
@@ -465,15 +465,15 @@
                 },
                 {
                     "chap_num": 6,
-                    "chap_title": "Chapter 6: The Foreclosure",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-3-base-camp/chapter-6-the-foreclosure",
+                    "chap_title": "The Foreclosure",
+                    "chap_url": "/raggiesoft-books/books/rachel/base-camp/the-foreclosure",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Wednesday Rhythm & Closure",
                             "file_path": "e003/c006/p001.md",
-                            "url": "/rachel/book-3-base-camp/chapter-6-the-foreclosure/the-wednesday-rhythm-closure",
+                            "url": "/rachel/base-camp/the-foreclosure/the-wednesday-rhythm-closure",
                             "date": "1995-10-04",
                             "start_time": "16:00"
                         }
@@ -481,15 +481,15 @@
                 },
                 {
                     "chap_num": 7,
-                    "chap_title": "Chapter 7: Jessica\u2019s 15th Birthday",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-3-base-camp/chapter-7-jessica-s-15th-birthday",
+                    "chap_title": "Jessica\u2019s 15th Birthday",
+                    "chap_url": "/raggiesoft-books/books/rachel/base-camp/jessica-s-15th-birthday",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A Full Perimeter & The Phantom Anchor",
                             "file_path": "e003/c007/p001.md",
-                            "url": "/rachel/book-3-base-camp/chapter-7-jessica-s-15th-birthday/a-full-perimeter-the-phantom-anchor",
+                            "url": "/rachel/base-camp/jessica-s-15th-birthday/a-full-perimeter-the-phantom-anchor",
                             "date": "1995-10-14",
                             "start_time": "17:00"
                         }
@@ -497,15 +497,15 @@
                 },
                 {
                     "chap_num": 8,
-                    "chap_title": "Chapter 8: The Consecration \u2013 Friday, October 20th, 1995",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-3-base-camp/chapter-8-the-consecration-friday-october-20th-1995",
+                    "chap_title": "The Consecration \u2013 Friday, October 20th, 1995",
+                    "chap_url": "/raggiesoft-books/books/rachel/base-camp/the-consecration-friday-october-20th-1995",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Midnight Blue Shield & The Shadow Arts",
                             "file_path": "e003/c008/p001.md",
-                            "url": "/rachel/book-3-base-camp/chapter-8-the-consecration-friday-october-20th-1995/part-1-the-midnight-blue-shield-the-shadow-arts",
+                            "url": "/rachel/base-camp/the-consecration-friday-october-20th-1995/part-1-the-midnight-blue-shield-the-shadow-arts",
                             "date": "1995-10-20",
                             "start_time": "16:30"
                         },
@@ -513,7 +513,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Internal Kihap & The Official Capacity",
                             "file_path": "e003/c008/p002.md",
-                            "url": "/rachel/book-3-base-camp/chapter-8-the-consecration-friday-october-20th-1995/part-2-the-internal-kihap-the-official-capacity",
+                            "url": "/rachel/base-camp/the-consecration-friday-october-20th-1995/part-2-the-internal-kihap-the-official-capacity",
                             "date": "1995-10-20",
                             "start_time": "17:15"
                         }
@@ -523,21 +523,21 @@
         },
         {
             "era_num": 4,
-            "era_title": "Book 4: Middle School",
-            "era_url": "/raggiesoft-books/books/rachel/book-4-middle-school",
+            "era_title": "Middle School",
+            "era_url": "/raggiesoft-books/books/rachel/middle-school",
             "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: The Spring Sound Showcase \u2013 Friday, May 14, 1999",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-4-middle-school/chapter-1-the-spring-sound-showcase-friday-may-14-1999",
+                    "chap_title": "The Spring Sound Showcase \u2013 Friday, May 14, 1999",
+                    "chap_url": "/raggiesoft-books/books/rachel/middle-school/the-spring-sound-showcase-friday-may-14-1999",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Friday Commute & Deploying Base Camp",
                             "file_path": "e004/c001/p001.md",
-                            "url": "/rachel/book-4-middle-school/chapter-1-the-spring-sound-showcase-friday-may-14-1999/the-friday-commute-deploying-base-camp",
+                            "url": "/rachel/middle-school/the-spring-sound-showcase-friday-may-14-1999/the-friday-commute-deploying-base-camp",
                             "date": "1999-05-14",
                             "start_time": "15:40"
                         }
@@ -545,15 +545,15 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: The Old World \u2013 Saturday, May 15, 1999",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-4-middle-school/chapter-2-the-old-world-saturday-may-15-1999",
+                    "chap_title": "The Old World \u2013 Saturday, May 15, 1999",
+                    "chap_url": "/raggiesoft-books/books/rachel/middle-school/the-old-world-saturday-may-15-1999",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Departure Protocol & The Sovereign Palace Theater",
                             "file_path": "e004/c002/p001.md",
-                            "url": "/rachel/book-4-middle-school/chapter-2-the-old-world-saturday-may-15-1999/part-1-the-departure-protocol-the-sovereign-palace-theater",
+                            "url": "/rachel/middle-school/the-old-world-saturday-may-15-1999/part-1-the-departure-protocol-the-sovereign-palace-theater",
                             "date": "1999-05-15",
                             "start_time": "06:30"
                         },
@@ -561,7 +561,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Loch Serpent & Heart Attack Hill",
                             "file_path": "e004/c002/p002.md",
-                            "url": "/rachel/book-4-middle-school/chapter-2-the-old-world-saturday-may-15-1999/part-2-the-loch-serpent-heart-attack-hill",
+                            "url": "/rachel/middle-school/the-old-world-saturday-may-15-1999/part-2-the-loch-serpent-heart-attack-hill",
                             "date": "1999-05-15",
                             "start_time": "09:15"
                         },
@@ -569,7 +569,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: Josephine\u2019s and the Ghost & The Translation in the Grand Hall",
                             "file_path": "e004/c002/p003.md",
-                            "url": "/rachel/book-4-middle-school/chapter-2-the-old-world-saturday-may-15-1999/part-3-josephine-s-and-the-ghost-the-translation-in-the-grand-hall",
+                            "url": "/rachel/middle-school/the-old-world-saturday-may-15-1999/part-3-josephine-s-and-the-ghost-the-translation-in-the-grand-hall",
                             "date": "1999-05-15",
                             "start_time": "12:30"
                         },
@@ -577,7 +577,7 @@
                             "part_num": 4,
                             "part_title": "Part 4: The Speed of Fright & The Imperial Rapids",
                             "file_path": "e004/c002/p004.md",
-                            "url": "/rachel/book-4-middle-school/chapter-2-the-old-world-saturday-may-15-1999/part-4-the-speed-of-fright-the-imperial-rapids",
+                            "url": "/rachel/middle-school/the-old-world-saturday-may-15-1999/part-4-the-speed-of-fright-the-imperial-rapids",
                             "date": "1999-05-15",
                             "start_time": "14:30"
                         },
@@ -585,7 +585,7 @@
                             "part_num": 5,
                             "part_title": "Part 5: The Sovereign Palace Theater & The Flawless Equation",
                             "file_path": "e004/c002/p005.md",
-                            "url": "/rachel/book-4-middle-school/chapter-2-the-old-world-saturday-may-15-1999/part-5-the-sovereign-palace-theater-the-flawless-equation",
+                            "url": "/rachel/middle-school/the-old-world-saturday-may-15-1999/part-5-the-sovereign-palace-theater-the-flawless-equation",
                             "date": "1999-05-15",
                             "start_time": "17:30"
                         },
@@ -593,7 +593,7 @@
                             "part_num": 6,
                             "part_title": "Part 6: The Mathematics of Victory & The Immutable Geometry",
                             "file_path": "e004/c002/p006.md",
-                            "url": "/rachel/book-4-middle-school/chapter-2-the-old-world-saturday-may-15-1999/part-6-the-mathematics-of-victory-the-immutable-geometry",
+                            "url": "/rachel/middle-school/the-old-world-saturday-may-15-1999/part-6-the-mathematics-of-victory-the-immutable-geometry",
                             "date": "1999-05-15",
                             "start_time": "20:30"
                         }
@@ -601,15 +601,15 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3: The Sunday Perimeter \u2013 Sunday, May 16, 1999",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-4-middle-school/chapter-3-the-sunday-perimeter-sunday-may-16-1999",
+                    "chap_title": "The Sunday Perimeter \u2013 Sunday, May 16, 1999",
+                    "chap_url": "/raggiesoft-books/books/rachel/middle-school/the-sunday-perimeter-sunday-may-16-1999",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Sleepover Calculation",
                             "file_path": "e004/c003/p001.md",
-                            "url": "/rachel/book-4-middle-school/chapter-3-the-sunday-perimeter-sunday-may-16-1999/the-sleepover-calculation",
+                            "url": "/rachel/middle-school/the-sunday-perimeter-sunday-may-16-1999/the-sleepover-calculation",
                             "date": "1999-05-16",
                             "start_time": "07:15"
                         }
@@ -619,21 +619,21 @@
         },
         {
             "era_num": 5,
-            "era_title": "Book 5: High School",
-            "era_url": "/raggiesoft-books/books/rachel/book-5-high-school",
+            "era_title": "High School",
+            "era_url": "/raggiesoft-books/books/rachel/high-school",
             "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: Marching Band",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-5-high-school/chapter-1-marching-band",
+                    "chap_title": "Marching Band",
+                    "chap_url": "/raggiesoft-books/books/rachel/high-school/marching-band",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Jessica\u2019s Wake Up Call & Band Camp",
                             "file_path": "e005/c001/p001.md",
-                            "url": "/rachel/book-5-high-school/chapter-1-marching-band/jessica-s-wake-up-call-band-camp",
+                            "url": "/rachel/high-school/marching-band/jessica-s-wake-up-call-band-camp",
                             "date": "1999-08-09",
                             "start_time": "06:00"
                         }
@@ -641,15 +641,15 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: The Concrete Walkway",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-5-high-school/chapter-2-the-concrete-walkway",
+                    "chap_title": "The Concrete Walkway",
+                    "chap_url": "/raggiesoft-books/books/rachel/high-school/the-concrete-walkway",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Black Friday & The Empty House",
                             "file_path": "e005/c002/p001.md",
-                            "url": "/rachel/book-5-high-school/chapter-2-the-concrete-walkway/black-friday-the-empty-house",
+                            "url": "/rachel/high-school/the-concrete-walkway/black-friday-the-empty-house",
                             "date": "1999-11-01",
                             "start_time": "16:15"
                         }
@@ -657,15 +657,15 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3: The Holding Pattern",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-5-high-school/chapter-3-the-holding-pattern",
+                    "chap_title": "The Holding Pattern",
+                    "chap_url": "/raggiesoft-books/books/rachel/high-school/the-holding-pattern",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Daytime Warden & The Logic Blueprint",
                             "file_path": "e005/c003/p001.md",
-                            "url": "/rachel/book-5-high-school/chapter-3-the-holding-pattern/the-daytime-warden-the-logic-blueprint",
+                            "url": "/rachel/high-school/the-holding-pattern/the-daytime-warden-the-logic-blueprint",
                             "date": "1999-11-27",
                             "start_time": "08:00"
                         }
@@ -673,15 +673,15 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 4: Christmas Eve",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-5-high-school/chapter-4-christmas-eve",
+                    "chap_title": "Christmas Eve",
+                    "chap_url": "/raggiesoft-books/books/rachel/high-school/christmas-eve",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Accessibility Calculation & The Honorary Lifters",
                             "file_path": "e005/c004/p001.md",
-                            "url": "/rachel/book-5-high-school/chapter-4-christmas-eve/part-1-the-accessibility-calculation-the-honorary-lifters",
+                            "url": "/rachel/high-school/christmas-eve/part-1-the-accessibility-calculation-the-honorary-lifters",
                             "date": "1999-12-24",
                             "start_time": "08:30"
                         },
@@ -689,7 +689,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Perimeter Defense & The Perimeter Epiphany",
                             "file_path": "e005/c004/p002.md",
-                            "url": "/rachel/book-5-high-school/chapter-4-christmas-eve/part-2-the-perimeter-defense-the-perimeter-epiphany",
+                            "url": "/rachel/high-school/christmas-eve/part-2-the-perimeter-defense-the-perimeter-epiphany",
                             "date": "1999-12-24",
                             "start_time": "17:27"
                         },
@@ -697,7 +697,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Santa Stakeout",
                             "file_path": "e005/c004/p003.md",
-                            "url": "/rachel/book-5-high-school/chapter-4-christmas-eve/part-3-the-santa-stakeout",
+                            "url": "/rachel/high-school/christmas-eve/part-3-the-santa-stakeout",
                             "date": "1999-12-24",
                             "start_time": "19:50"
                         }
@@ -705,15 +705,15 @@
                 },
                 {
                     "chap_num": 5,
-                    "chap_title": "Chapter 5: The Christmas Anomaly",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-5-high-school/chapter-5-the-christmas-anomaly",
+                    "chap_title": "The Christmas Anomaly",
+                    "chap_url": "/raggiesoft-books/books/rachel/high-school/the-christmas-anomaly",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Phantom Drop & The Social Algorithm",
                             "file_path": "e005/c005/p001.md",
-                            "url": "/rachel/book-5-high-school/chapter-5-the-christmas-anomaly/part-1-the-phantom-drop-the-social-algorithm",
+                            "url": "/rachel/high-school/the-christmas-anomaly/part-1-the-phantom-drop-the-social-algorithm",
                             "date": "1999-12-25",
                             "start_time": "04:21"
                         },
@@ -721,7 +721,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The First Crush & The Missing Exposure",
                             "file_path": "e005/c005/p002.md",
-                            "url": "/rachel/book-5-high-school/chapter-5-the-christmas-anomaly/part-2-the-first-crush-the-missing-exposure",
+                            "url": "/rachel/high-school/the-christmas-anomaly/part-2-the-first-crush-the-missing-exposure",
                             "date": "1999-12-25",
                             "start_time": "12:00"
                         },
@@ -729,7 +729,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Syntax of Survival & The Infinite Loop",
                             "file_path": "e005/c005/p003.md",
-                            "url": "/rachel/book-5-high-school/chapter-5-the-christmas-anomaly/part-3-the-syntax-of-survival-the-infinite-loop",
+                            "url": "/rachel/high-school/the-christmas-anomaly/part-3-the-syntax-of-survival-the-infinite-loop",
                             "date": "1999-12-25",
                             "start_time": "14:30"
                         },
@@ -737,7 +737,7 @@
                             "part_num": 4,
                             "part_title": "Part 4: The Night Watch",
                             "file_path": "e005/c005/p004.md",
-                            "url": "/rachel/book-5-high-school/chapter-5-the-christmas-anomaly/part-4-the-night-watch",
+                            "url": "/rachel/high-school/the-christmas-anomaly/part-4-the-night-watch",
                             "date": "1999-12-25",
                             "start_time": "22:30"
                         }
@@ -745,15 +745,15 @@
                 },
                 {
                     "chap_num": 6,
-                    "chap_title": "Chapter 6: The Catalyst Initiative",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-5-high-school/chapter-6-the-catalyst-initiative",
+                    "chap_title": "The Catalyst Initiative",
+                    "chap_url": "/raggiesoft-books/books/rachel/high-school/the-catalyst-initiative",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Bare Metal & The Holding Pattern",
                             "file_path": "e005/c006/p001.md",
-                            "url": "/rachel/book-5-high-school/chapter-6-the-catalyst-initiative/the-bare-metal-the-holding-pattern",
+                            "url": "/rachel/high-school/the-catalyst-initiative/the-bare-metal-the-holding-pattern",
                             "date": "1999-12-26",
                             "start_time": "01:00"
                         }
@@ -763,21 +763,21 @@
         },
         {
             "era_num": 6,
-            "era_title": "Book 6: Atlanta Spring Trip",
-            "era_url": "/raggiesoft-books/books/rachel/book-6-atlanta-spring-trip",
+            "era_title": "Atlanta Spring Trip",
+            "era_url": "/raggiesoft-books/books/rachel/atlanta-spring-trip",
             "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: The Catalyst Notification",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-6-atlanta-spring-trip/chapter-1-the-catalyst-notification",
+                    "chap_title": "The Catalyst Notification",
+                    "chap_url": "/raggiesoft-books/books/rachel/atlanta-spring-trip/the-catalyst-notification",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Desktop Under the Stairs & The Long-Distance Loophole",
                             "file_path": "e006/c001/p001.md",
-                            "url": "/rachel/book-6-atlanta-spring-trip/chapter-1-the-catalyst-notification/part-1-the-desktop-under-the-stairs-the-long-distance-loophole",
+                            "url": "/rachel/atlanta-spring-trip/the-catalyst-notification/part-1-the-desktop-under-the-stairs-the-long-distance-loophole",
                             "date": "2000-04-21",
                             "start_time": "16:00"
                         },
@@ -785,7 +785,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Vanguard & The Mirror",
                             "file_path": "e006/c001/p002.md",
-                            "url": "/rachel/book-6-atlanta-spring-trip/chapter-1-the-catalyst-notification/part-2-the-vanguard-the-mirror",
+                            "url": "/rachel/atlanta-spring-trip/the-catalyst-notification/part-2-the-vanguard-the-mirror",
                             "date": "2000-04-21",
                             "start_time": "16:45"
                         }
@@ -793,15 +793,15 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: Arrival at the Hotel",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-6-atlanta-spring-trip/chapter-2-arrival-at-the-hotel",
+                    "chap_title": "Arrival at the Hotel",
+                    "chap_url": "/raggiesoft-books/books/rachel/atlanta-spring-trip/arrival-at-the-hotel",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Wheelchair Lift & The Cafeteria Serenade",
                             "file_path": "e006/c002/p001.md",
-                            "url": "/rachel/book-6-atlanta-spring-trip/chapter-2-arrival-at-the-hotel/part-1-the-wheelchair-lift-the-cafeteria-serenade",
+                            "url": "/rachel/atlanta-spring-trip/arrival-at-the-hotel/part-1-the-wheelchair-lift-the-cafeteria-serenade",
                             "date": "2000-05-04",
                             "start_time": "16:00"
                         },
@@ -809,7 +809,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Lido Deck",
                             "file_path": "e006/c002/p002.md",
-                            "url": "/rachel/book-6-atlanta-spring-trip/chapter-2-arrival-at-the-hotel/part-2-the-lido-deck",
+                            "url": "/rachel/atlanta-spring-trip/arrival-at-the-hotel/part-2-the-lido-deck",
                             "date": "2000-05-04",
                             "start_time": "20:00"
                         }
@@ -817,15 +817,15 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3: The Roanoke Rapids Collapse",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-6-atlanta-spring-trip/chapter-3-the-roanoke-rapids-collapse",
+                    "chap_title": "The Roanoke Rapids Collapse",
+                    "chap_url": "/raggiesoft-books/books/rachel/atlanta-spring-trip/the-roanoke-rapids-collapse",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Crown Burger Trigger",
                             "file_path": "e006/c003/p001.md",
-                            "url": "/rachel/book-6-atlanta-spring-trip/chapter-3-the-roanoke-rapids-collapse/the-crown-burger-trigger",
+                            "url": "/rachel/atlanta-spring-trip/the-roanoke-rapids-collapse/the-crown-burger-trigger",
                             "date": "2000-10-28",
                             "start_time": "20:30"
                         }
@@ -835,21 +835,21 @@
         },
         {
             "era_num": 7,
-            "era_title": "Book 7: Seeds of a Divorce",
-            "era_url": "/raggiesoft-books/books/rachel/book-7-seeds-of-a-divorce",
+            "era_title": "Seeds of a Divorce",
+            "era_url": "/raggiesoft-books/books/rachel/seeds-of-a-divorce",
             "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: The Continental Shift",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-7-seeds-of-a-divorce/chapter-1-the-continental-shift",
+                    "chap_title": "The Continental Shift",
+                    "chap_url": "/raggiesoft-books/books/rachel/seeds-of-a-divorce/the-continental-shift",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Aunt Janet Extraction & The Perimeter Breach",
                             "file_path": "e007/c001/p001.md",
-                            "url": "/rachel/book-7-seeds-of-a-divorce/chapter-1-the-continental-shift/part-1-the-aunt-janet-extraction-the-perimeter-breach",
+                            "url": "/rachel/seeds-of-a-divorce/the-continental-shift/part-1-the-aunt-janet-extraction-the-perimeter-breach",
                             "date": "2000-08-17",
                             "start_time": "04:30"
                         },
@@ -857,7 +857,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Vanguard Flight & The Sunlit Valley",
                             "file_path": "e007/c001/p002.md",
-                            "url": "/rachel/book-7-seeds-of-a-divorce/chapter-1-the-continental-shift/part-2-the-vanguard-flight-the-sunlit-valley",
+                            "url": "/rachel/seeds-of-a-divorce/the-continental-shift/part-2-the-vanguard-flight-the-sunlit-valley",
                             "date": "2000-08-17",
                             "start_time": "06:15"
                         }
@@ -865,15 +865,15 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: The TAPS Grid & The Breda Fleet",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-7-seeds-of-a-divorce/chapter-2-the-taps-grid-the-breda-fleet",
+                    "chap_title": "The TAPS Grid & The Breda Fleet",
+                    "chap_url": "/raggiesoft-books/books/rachel/seeds-of-a-divorce/the-taps-grid-the-breda-fleet",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Reclaiming the Armor & The Room 412 Perimeter",
                             "file_path": "e007/c002/p001.md",
-                            "url": "/rachel/book-7-seeds-of-a-divorce/chapter-2-the-taps-grid-the-breda-fleet/reclaiming-the-armor-the-room-412-perimeter",
+                            "url": "/rachel/seeds-of-a-divorce/the-taps-grid-the-breda-fleet/reclaiming-the-armor-the-room-412-perimeter",
                             "date": "2000-08-17",
                             "start_time": "13:00"
                         }
@@ -881,15 +881,15 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3: The Provisions Run",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-7-seeds-of-a-divorce/chapter-3-the-provisions-run",
+                    "chap_title": "The Provisions Run",
+                    "chap_url": "/raggiesoft-books/books/rachel/seeds-of-a-divorce/the-provisions-run",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The ADA Fortress & The Ave",
                             "file_path": "e007/c003/p001.md",
-                            "url": "/rachel/book-7-seeds-of-a-divorce/chapter-3-the-provisions-run/part-1-the-ada-fortress-the-ave",
+                            "url": "/rachel/seeds-of-a-divorce/the-provisions-run/part-1-the-ada-fortress-the-ave",
                             "date": "2000-08-18",
                             "start_time": "08:00"
                         },
@@ -897,7 +897,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Perimeter Handoff & The Empty Flank",
                             "file_path": "e007/c003/p002.md",
-                            "url": "/rachel/book-7-seeds-of-a-divorce/chapter-3-the-provisions-run/part-2-the-perimeter-handoff-the-empty-flank",
+                            "url": "/rachel/seeds-of-a-divorce/the-provisions-run/part-2-the-perimeter-handoff-the-empty-flank",
                             "date": "2000-08-18",
                             "start_time": "20:00"
                         }
@@ -905,15 +905,15 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 4: The Tourist Perimeter",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-7-seeds-of-a-divorce/chapter-4-the-tourist-perimeter",
+                    "chap_title": "The Tourist Perimeter",
+                    "chap_url": "/raggiesoft-books/books/rachel/seeds-of-a-divorce/the-tourist-perimeter",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Reassembled Pack & The Saltwater Grid",
                             "file_path": "e007/c004/p001.md",
-                            "url": "/rachel/book-7-seeds-of-a-divorce/chapter-4-the-tourist-perimeter/part-1-the-reassembled-pack-the-saltwater-grid",
+                            "url": "/rachel/seeds-of-a-divorce/the-tourist-perimeter/part-1-the-reassembled-pack-the-saltwater-grid",
                             "date": "2000-08-19",
                             "start_time": "07:00"
                         },
@@ -921,7 +921,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Bremerton Landing",
                             "file_path": "e007/c004/p002.md",
-                            "url": "/rachel/book-7-seeds-of-a-divorce/chapter-4-the-tourist-perimeter/part-2-the-bremerton-landing",
+                            "url": "/rachel/seeds-of-a-divorce/the-tourist-perimeter/part-2-the-bremerton-landing",
                             "date": "2000-08-19",
                             "start_time": "14:30"
                         }
@@ -931,21 +931,21 @@
         },
         {
             "era_num": 8,
-            "era_title": "Book 8: The Delaney Street Fracture",
-            "era_url": "/raggiesoft-books/books/rachel/book-8-the-delaney-street-fracture",
+            "era_title": "The Delaney Street Fracture",
+            "era_url": "/raggiesoft-books/books/rachel/the-delaney-street-fracture",
             "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: Rachel\u2019s First Band Camp",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-8-the-delaney-street-fracture/chapter-1-rachel-s-first-band-camp",
+                    "chap_title": "Rachel\u2019s First Band Camp",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-delaney-street-fracture/rachel-s-first-band-camp",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Awakening My Sister & The Commercial Carpet",
                             "file_path": "e008/c001/p001.md",
-                            "url": "/rachel/book-8-the-delaney-street-fracture/chapter-1-rachel-s-first-band-camp/part-1-awakening-my-sister-the-commercial-carpet",
+                            "url": "/rachel/the-delaney-street-fracture/rachel-s-first-band-camp/part-1-awakening-my-sister-the-commercial-carpet",
                             "date": "2001-08-13",
                             "start_time": "06:00"
                         },
@@ -953,7 +953,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Anchor and the Alpine Snowdrop & The Stage Door Fortress",
                             "file_path": "e008/c001/p002.md",
-                            "url": "/rachel/book-8-the-delaney-street-fracture/chapter-1-rachel-s-first-band-camp/part-2-the-anchor-and-the-alpine-snowdrop-the-stage-door-fortress",
+                            "url": "/rachel/the-delaney-street-fracture/rachel-s-first-band-camp/part-2-the-anchor-and-the-alpine-snowdrop-the-stage-door-fortress",
                             "date": "2001-08-13",
                             "start_time": "09:15"
                         },
@@ -961,7 +961,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Afternoon Metronome & The Giant Bed",
                             "file_path": "e008/c001/p003.md",
-                            "url": "/rachel/book-8-the-delaney-street-fracture/chapter-1-rachel-s-first-band-camp/part-3-the-afternoon-metronome-the-giant-bed",
+                            "url": "/rachel/the-delaney-street-fracture/rachel-s-first-band-camp/part-3-the-afternoon-metronome-the-giant-bed",
                             "date": "2001-08-13",
                             "start_time": "13:00"
                         }
@@ -971,21 +971,21 @@
         },
         {
             "era_num": 9,
-            "era_title": "Book 9: The Divorce Reprieve",
-            "era_url": "/raggiesoft-books/books/rachel/book-9-the-divorce-reprieve",
+            "era_title": "The Divorce Reprieve",
+            "era_url": "/raggiesoft-books/books/rachel/the-divorce-reprieve",
             "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: The Mall",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-9-the-divorce-reprieve/chapter-1-the-mall",
+                    "chap_title": "The Mall",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-divorce-reprieve/the-mall",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Vacation from Parents & Up All Night Party",
                             "file_path": "e009/c001/p001.md",
-                            "url": "/rachel/book-9-the-divorce-reprieve/chapter-1-the-mall/vacation-from-parents-up-all-night-party",
+                            "url": "/rachel/the-divorce-reprieve/the-mall/vacation-from-parents-up-all-night-party",
                             "date": "2001-08-17",
                             "start_time": "10:30"
                         }
@@ -993,15 +993,15 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: The Teenage Script",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-9-the-divorce-reprieve/chapter-2-the-teenage-script",
+                    "chap_title": "The Teenage Script",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-divorce-reprieve/the-teenage-script",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Elephant in the Room & The Cross-Country Bargain",
                             "file_path": "e009/c002/p001.md",
-                            "url": "/rachel/book-9-the-divorce-reprieve/chapter-2-the-teenage-script/the-elephant-in-the-room-the-cross-country-bargain",
+                            "url": "/rachel/the-divorce-reprieve/the-teenage-script/the-elephant-in-the-room-the-cross-country-bargain",
                             "date": "2001-08-18",
                             "start_time": "08:30"
                         }
@@ -1011,21 +1011,21 @@
         },
         {
             "era_num": 10,
-            "era_title": "Book 10: The Divorce",
-            "era_url": "/raggiesoft-books/books/rachel/book-10-the-divorce",
+            "era_title": "The Divorce",
+            "era_url": "/raggiesoft-books/books/rachel/the-divorce",
             "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 3: The Broken Door",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-10-the-divorce/chapter-3-the-broken-door",
+                    "chap_title": "The Broken Door",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-divorce/the-broken-door",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Rachel's Fury & The Push-Button Lock",
                             "file_path": "e010/c001/p001.md",
-                            "url": "/rachel/book-10-the-divorce/chapter-3-the-broken-door/rachel-s-fury-the-push-button-lock",
+                            "url": "/rachel/the-divorce/the-broken-door/rachel-s-fury-the-push-button-lock",
                             "date": "2001-09-04",
                             "start_time": "17:30"
                         }
@@ -1033,15 +1033,15 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 4: The Inevitable Math",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-10-the-divorce/chapter-4-the-inevitable-math",
+                    "chap_title": "The Inevitable Math",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-divorce/the-inevitable-math",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Guidance Office",
                             "file_path": "e010/c002/p001.md",
-                            "url": "/rachel/book-10-the-divorce/chapter-4-the-inevitable-math/the-guidance-office",
+                            "url": "/rachel/the-divorce/the-inevitable-math/the-guidance-office",
                             "date": "2001-09-05",
                             "start_time": "06:30"
                         }
@@ -1049,15 +1049,15 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 5: The Grounded Skies",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-10-the-divorce/chapter-5-the-grounded-skies",
+                    "chap_title": "The Grounded Skies",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-divorce/the-grounded-skies",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Eerie Silence & System Shutdown",
                             "file_path": "e010/c003/p001.md",
-                            "url": "/rachel/book-10-the-divorce/chapter-5-the-grounded-skies/the-eerie-silence-system-shutdown",
+                            "url": "/rachel/the-divorce/the-grounded-skies/the-eerie-silence-system-shutdown",
                             "date": "2001-09-11",
                             "start_time": "16:00"
                         }
@@ -1065,15 +1065,15 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 6: The Compromised Perimeter",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-10-the-divorce/chapter-6-the-compromised-perimeter",
+                    "chap_title": "The Compromised Perimeter",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-divorce/the-compromised-perimeter",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Broken Routine & The Afternoon Siege",
                             "file_path": "e010/c004/p001.md",
-                            "url": "/rachel/book-10-the-divorce/chapter-6-the-compromised-perimeter/the-broken-routine-the-afternoon-siege",
+                            "url": "/rachel/the-divorce/the-compromised-perimeter/the-broken-routine-the-afternoon-siege",
                             "date": "2001-09-12",
                             "start_time": "05:45"
                         }
@@ -1081,15 +1081,15 @@
                 },
                 {
                     "chap_num": 5,
-                    "chap_title": "Chapter 7: The Loophole",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-10-the-divorce/chapter-7-the-loophole",
+                    "chap_title": "The Loophole",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-divorce/the-loophole",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Bleeding Finances & The Living Hell",
                             "file_path": "e010/c005/p001.md",
-                            "url": "/rachel/book-10-the-divorce/chapter-7-the-loophole/the-bleeding-finances-the-living-hell",
+                            "url": "/rachel/the-divorce/the-loophole/the-bleeding-finances-the-living-hell",
                             "date": "2001-09-17",
                             "start_time": "14:15"
                         }
@@ -1097,15 +1097,15 @@
                 },
                 {
                     "chap_num": 6,
-                    "chap_title": "Chapter 8: The Departure",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-10-the-divorce/chapter-8-the-departure",
+                    "chap_title": "The Departure",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-divorce/the-departure",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Bright Idea & The Calling Cards",
                             "file_path": "e010/c006/p001.md",
-                            "url": "/rachel/book-10-the-divorce/chapter-8-the-departure/the-bright-idea-the-calling-cards",
+                            "url": "/rachel/the-divorce/the-departure/the-bright-idea-the-calling-cards",
                             "date": "2001-09-20",
                             "start_time": "08:00"
                         }
@@ -1115,21 +1115,21 @@
         },
         {
             "era_num": 11,
-            "era_title": "Book 11: Michael's New Life",
-            "era_url": "/raggiesoft-books/books/rachel/book-11-michael-s-new-life",
+            "era_title": "Michael's New Life",
+            "era_url": "/raggiesoft-books/books/rachel/michael-s-new-life",
             "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: A Left Coast Christmas",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-11-michael-s-new-life/chapter-1-a-left-coast-christmas",
+                    "chap_title": "A Left Coast Christmas",
+                    "chap_url": "/raggiesoft-books/books/rachel/michael-s-new-life/a-left-coast-christmas",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Arrival at PDX & Sibling Cuddles",
                             "file_path": "e011/c001/p001.md",
-                            "url": "/rachel/book-11-michael-s-new-life/chapter-1-a-left-coast-christmas/arrival-at-pdx-sibling-cuddles",
+                            "url": "/rachel/michael-s-new-life/a-left-coast-christmas/arrival-at-pdx-sibling-cuddles",
                             "date": "2001-11-17",
                             "start_time": "14:30"
                         }
@@ -1137,15 +1137,15 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: A Clark County Christmas",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-11-michael-s-new-life/chapter-2-a-clark-county-christmas",
+                    "chap_title": "A Clark County Christmas",
+                    "chap_url": "/raggiesoft-books/books/rachel/michael-s-new-life/a-clark-county-christmas",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Left Coast Time & The Hard Conversation",
                             "file_path": "e011/c002/p001.md",
-                            "url": "/rachel/book-11-michael-s-new-life/chapter-2-a-clark-county-christmas/left-coast-time-the-hard-conversation",
+                            "url": "/rachel/michael-s-new-life/a-clark-county-christmas/left-coast-time-the-hard-conversation",
                             "date": "2001-11-18",
                             "start_time": "07:00"
                         }
@@ -1153,15 +1153,15 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3: Shopping in Portland",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-11-michael-s-new-life/chapter-3-shopping-in-portland",
+                    "chap_title": "Shopping in Portland",
+                    "chap_url": "/raggiesoft-books/books/rachel/michael-s-new-life/shopping-in-portland",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Transit Protocol & The Federal Way Proposal",
                             "file_path": "e011/c003/p001.md",
-                            "url": "/rachel/book-11-michael-s-new-life/chapter-3-shopping-in-portland/the-transit-protocol-the-federal-way-proposal",
+                            "url": "/rachel/michael-s-new-life/shopping-in-portland/the-transit-protocol-the-federal-way-proposal",
                             "date": "2001-11-18",
                             "start_time": "10:00"
                         }
@@ -1169,15 +1169,15 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 4: The Virginia Hammer",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-11-michael-s-new-life/chapter-4-the-virginia-hammer",
+                    "chap_title": "The Virginia Hammer",
+                    "chap_url": "/raggiesoft-books/books/rachel/michael-s-new-life/the-virginia-hammer",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Quantum Shield & The Status Quo",
                             "file_path": "e011/c004/p001.md",
-                            "url": "/rachel/book-11-michael-s-new-life/chapter-4-the-virginia-hammer/the-quantum-shield-the-status-quo",
+                            "url": "/rachel/michael-s-new-life/the-virginia-hammer/the-quantum-shield-the-status-quo",
                             "date": "2001-11-19",
                             "start_time": "10:00"
                         }
@@ -1185,15 +1185,15 @@
                 },
                 {
                     "chap_num": 5,
-                    "chap_title": "Chapter 5: A New Tradition",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-11-michael-s-new-life/chapter-5-a-new-tradition",
+                    "chap_title": "A New Tradition",
+                    "chap_url": "/raggiesoft-books/books/rachel/michael-s-new-life/a-new-tradition",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Legal Stranger & The Assembly Line",
                             "file_path": "e011/c005/p001.md",
-                            "url": "/rachel/book-11-michael-s-new-life/chapter-5-a-new-tradition/part-1-the-legal-stranger-the-assembly-line",
+                            "url": "/rachel/michael-s-new-life/a-new-tradition/part-1-the-legal-stranger-the-assembly-line",
                             "date": "2001-11-21",
                             "start_time": "10:00"
                         },
@@ -1201,7 +1201,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Escrow Anchor & The Regulated Sanctuary",
                             "file_path": "e011/c005/p002.md",
-                            "url": "/rachel/book-11-michael-s-new-life/chapter-5-a-new-tradition/part-2-the-escrow-anchor-the-regulated-sanctuary",
+                            "url": "/rachel/michael-s-new-life/a-new-tradition/part-2-the-escrow-anchor-the-regulated-sanctuary",
                             "date": "2001-11-21",
                             "start_time": "20:00"
                         }
@@ -1209,15 +1209,15 @@
                 },
                 {
                     "chap_num": 6,
-                    "chap_title": "Chapter 6: A Left Coast Thanksgiving",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-11-michael-s-new-life/chapter-6-a-left-coast-thanksgiving",
+                    "chap_title": "A Left Coast Thanksgiving",
+                    "chap_url": "/raggiesoft-books/books/rachel/michael-s-new-life/a-left-coast-thanksgiving",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Hudson's Parade & The Heavy Lifting",
                             "file_path": "e011/c006/p001.md",
-                            "url": "/rachel/book-11-michael-s-new-life/chapter-6-a-left-coast-thanksgiving/part-1-the-hudson-s-parade-the-heavy-lifting",
+                            "url": "/rachel/michael-s-new-life/a-left-coast-thanksgiving/part-1-the-hudson-s-parade-the-heavy-lifting",
                             "date": "2001-11-22",
                             "start_time": "09:00"
                         },
@@ -1225,7 +1225,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The 101% Secret & The Final Push",
                             "file_path": "e011/c006/p002.md",
-                            "url": "/rachel/book-11-michael-s-new-life/chapter-6-a-left-coast-thanksgiving/part-2-the-101-secret-the-final-push",
+                            "url": "/rachel/michael-s-new-life/a-left-coast-thanksgiving/part-2-the-101-secret-the-final-push",
                             "date": "2001-11-22",
                             "start_time": "13:30"
                         }
@@ -1233,15 +1233,15 @@
                 },
                 {
                     "chap_num": 7,
-                    "chap_title": "Chapter 9: The Southbound ARTS",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-11-michael-s-new-life/chapter-9-the-southbound-arts",
+                    "chap_title": "The Southbound ARTS",
+                    "chap_url": "/raggiesoft-books/books/rachel/michael-s-new-life/the-southbound-arts",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Reverse Route & The Security Checkpoint",
                             "file_path": "e011/c007/p001.md",
-                            "url": "/rachel/book-11-michael-s-new-life/chapter-9-the-southbound-arts/the-reverse-route-the-security-checkpoint",
+                            "url": "/rachel/michael-s-new-life/the-southbound-arts/the-reverse-route-the-security-checkpoint",
                             "date": "2001-11-25",
                             "start_time": "08:00"
                         }
@@ -1251,21 +1251,21 @@
         },
         {
             "era_num": 12,
-            "era_title": "Book 12: The East Coast",
-            "era_url": "/raggiesoft-books/books/rachel/book-12-the-east-coast",
+            "era_title": "The East Coast",
+            "era_url": "/raggiesoft-books/books/rachel/the-east-coast",
             "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: Outbound to ORF",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-12-the-east-coast/chapter-1-outbound-to-orf",
+                    "chap_title": "Outbound to ORF",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-east-coast/outbound-to-orf",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The First Class Algorithm & The Aisle Transfer",
                             "file_path": "e012/c001/p001.md",
-                            "url": "/rachel/book-12-the-east-coast/chapter-1-outbound-to-orf/part-1-the-first-class-algorithm-the-aisle-transfer",
+                            "url": "/rachel/the-east-coast/outbound-to-orf/part-1-the-first-class-algorithm-the-aisle-transfer",
                             "date": "2001-12-22",
                             "start_time": "06:00"
                         },
@@ -1273,7 +1273,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Cabin Sanctuary & The System Crash",
                             "file_path": "e012/c001/p002.md",
-                            "url": "/rachel/book-12-the-east-coast/chapter-1-outbound-to-orf/part-2-the-cabin-sanctuary-the-system-crash",
+                            "url": "/rachel/the-east-coast/outbound-to-orf/part-2-the-cabin-sanctuary-the-system-crash",
                             "date": "2001-12-22",
                             "start_time": "11:45"
                         },
@@ -1281,7 +1281,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Joyful Overload & The Midwestern Sanctuary",
                             "file_path": "e012/c001/p003.md",
-                            "url": "/rachel/book-12-the-east-coast/chapter-1-outbound-to-orf/part-3-the-joyful-overload-the-midwestern-sanctuary",
+                            "url": "/rachel/the-east-coast/outbound-to-orf/part-3-the-joyful-overload-the-midwestern-sanctuary",
                             "date": "2001-12-22",
                             "start_time": "17:00"
                         }
@@ -1289,15 +1289,15 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: Arrival at Norfolk",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-12-the-east-coast/chapter-2-arrival-at-norfolk",
+                    "chap_title": "Arrival at Norfolk",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-east-coast/arrival-at-norfolk",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Sibling Reunification & The Northern Star",
                             "file_path": "e012/c002/p001.md",
-                            "url": "/rachel/book-12-the-east-coast/chapter-2-arrival-at-norfolk/sibling-reunification-the-northern-star",
+                            "url": "/rachel/the-east-coast/arrival-at-norfolk/sibling-reunification-the-northern-star",
                             "date": "2001-12-22",
                             "start_time": "21:30"
                         }
@@ -1305,15 +1305,15 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3: The New Baseline",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-12-the-east-coast/chapter-3-the-new-baseline",
+                    "chap_title": "The New Baseline",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-east-coast/the-new-baseline",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Three-Hour Shift",
                             "file_path": "e012/c003/p001.md",
-                            "url": "/rachel/book-12-the-east-coast/chapter-3-the-new-baseline/the-three-hour-shift",
+                            "url": "/rachel/the-east-coast/the-new-baseline/the-three-hour-shift",
                             "date": "2001-12-23",
                             "start_time": "08:30"
                         }
@@ -1323,21 +1323,21 @@
         },
         {
             "era_num": 13,
-            "era_title": "Book 13: Michael\u2019s Senior Year",
-            "era_url": "/raggiesoft-books/books/rachel/book-13-michael-s-senior-year",
+            "era_title": "Michael\u2019s Senior Year",
+            "era_url": "/raggiesoft-books/books/rachel/michael-s-senior-year",
             "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: The Empty Shell",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-13-michael-s-senior-year/chapter-1-the-empty-shell",
+                    "chap_title": "The Empty Shell",
+                    "chap_url": "/raggiesoft-books/books/rachel/michael-s-senior-year/the-empty-shell",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Last Morning & The Baldwin Briefing",
                             "file_path": "e013/c001/p001.md",
-                            "url": "/rachel/book-13-michael-s-senior-year/chapter-1-the-empty-shell/part-1-the-last-morning-the-baldwin-briefing",
+                            "url": "/rachel/michael-s-senior-year/the-empty-shell/part-1-the-last-morning-the-baldwin-briefing",
                             "date": "2003-07-14",
                             "start_time": "07:30"
                         },
@@ -1345,7 +1345,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Frictionless Trap & The Logistical Paradox",
                             "file_path": "e013/c001/p002.md",
-                            "url": "/rachel/book-13-michael-s-senior-year/chapter-1-the-empty-shell/part-2-the-frictionless-trap-the-logistical-paradox",
+                            "url": "/rachel/michael-s-senior-year/the-empty-shell/part-2-the-frictionless-trap-the-logistical-paradox",
                             "date": "2003-07-14",
                             "start_time": "09:15"
                         },
@@ -1353,7 +1353,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Extraction Plan & The Bare Mechanics",
                             "file_path": "e013/c001/p003.md",
-                            "url": "/rachel/book-13-michael-s-senior-year/chapter-1-the-empty-shell/part-3-the-extraction-plan-the-bare-mechanics",
+                            "url": "/rachel/michael-s-senior-year/the-empty-shell/part-3-the-extraction-plan-the-bare-mechanics",
                             "date": "2003-07-14",
                             "start_time": "19:30"
                         }
@@ -1361,15 +1361,15 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: The Digital Mirage",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-13-michael-s-senior-year/chapter-2-the-digital-mirage",
+                    "chap_title": "The Digital Mirage",
+                    "chap_url": "/raggiesoft-books/books/rachel/michael-s-senior-year/the-digital-mirage",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Best Tech Ambush & The Hardware Check",
                             "file_path": "e013/c002/p001.md",
-                            "url": "/rachel/book-13-michael-s-senior-year/chapter-2-the-digital-mirage/part-1-the-best-tech-ambush-the-hardware-check",
+                            "url": "/rachel/michael-s-senior-year/the-digital-mirage/part-1-the-best-tech-ambush-the-hardware-check",
                             "date": "2003-07-15",
                             "start_time": "13:15"
                         },
@@ -1377,7 +1377,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Holding Pattern & The On-Us Override",
                             "file_path": "e013/c002/p002.md",
-                            "url": "/rachel/book-13-michael-s-senior-year/chapter-2-the-digital-mirage/part-2-the-holding-pattern-the-on-us-override",
+                            "url": "/rachel/michael-s-senior-year/the-digital-mirage/part-2-the-holding-pattern-the-on-us-override",
                             "date": "2003-07-15",
                             "start_time": "15:15"
                         },
@@ -1385,7 +1385,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Initial Provisioning & The New Parameter",
                             "file_path": "e013/c002/p003.md",
-                            "url": "/rachel/book-13-michael-s-senior-year/chapter-2-the-digital-mirage/part-3-the-initial-provisioning-the-new-parameter",
+                            "url": "/rachel/michael-s-senior-year/the-digital-mirage/part-3-the-initial-provisioning-the-new-parameter",
                             "date": "2003-07-15",
                             "start_time": "18:30"
                         }
@@ -1393,15 +1393,15 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3: The Extraction",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-13-michael-s-senior-year/chapter-3-the-extraction",
+                    "chap_title": "The Extraction",
+                    "chap_url": "/raggiesoft-books/books/rachel/michael-s-senior-year/the-extraction",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Morning Perimeter",
                             "file_path": "e013/c003/p001.md",
-                            "url": "/rachel/book-13-michael-s-senior-year/chapter-3-the-extraction/the-morning-perimeter",
+                            "url": "/rachel/michael-s-senior-year/the-extraction/the-morning-perimeter",
                             "date": "2003-07-16",
                             "start_time": "07:30"
                         }
@@ -1411,21 +1411,21 @@
         },
         {
             "era_num": 14,
-            "era_title": "Book 14: Delores",
-            "era_url": "/raggiesoft-books/books/rachel/book-14-delores",
+            "era_title": "Delores",
+            "era_url": "/raggiesoft-books/books/rachel/delores",
             "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: The Quiet Void",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-14-delores/chapter-1-the-quiet-void",
+                    "chap_title": "The Quiet Void",
+                    "chap_url": "/raggiesoft-books/books/rachel/delores/the-quiet-void",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Last of the Pack & The Ticket Line",
                             "file_path": "e014/c001/p001.md",
-                            "url": "/rachel/book-14-delores/chapter-1-the-quiet-void/part-1-the-last-of-the-pack-the-ticket-line",
+                            "url": "/rachel/delores/the-quiet-void/part-1-the-last-of-the-pack-the-ticket-line",
                             "date": "2004-09-02",
                             "start_time": "08:00"
                         },
@@ -1433,7 +1433,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Midtown Transfer",
                             "file_path": "e014/c001/p002.md",
-                            "url": "/rachel/book-14-delores/chapter-1-the-quiet-void/part-2-the-midtown-transfer",
+                            "url": "/rachel/delores/the-quiet-void/part-2-the-midtown-transfer",
                             "date": "2004-09-02",
                             "start_time": "21:00"
                         }
@@ -1441,15 +1441,15 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: The Gateway",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-14-delores/chapter-2-the-gateway",
+                    "chap_title": "The Gateway",
+                    "chap_url": "/raggiesoft-books/books/rachel/delores/the-gateway",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Morning Call",
                             "file_path": "e014/c002/p001.md",
-                            "url": "/rachel/book-14-delores/chapter-2-the-gateway/the-morning-call",
+                            "url": "/rachel/delores/the-gateway/the-morning-call",
                             "date": "2004-09-03",
                             "start_time": "07:00"
                         }
@@ -1459,21 +1459,21 @@
         },
         {
             "era_num": 15,
-            "era_title": "Book 15: The End of Hell",
-            "era_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell",
+            "era_title": "The End of Hell",
+            "era_url": "/raggiesoft-books/books/rachel/the-end-of-hell",
             "illustration_count": 6,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: The Setup",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell/chapter-1-the-setup",
+                    "chap_title": "The Setup",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-end-of-hell/the-setup",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Pitch",
                             "file_path": "e015/c001/p001.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-1-the-setup/the-pitch",
+                            "url": "/rachel/the-end-of-hell/the-setup/the-pitch",
                             "date": "2006-11-08",
                             "start_time": "18:00"
                         }
@@ -1481,15 +1481,15 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: The Departure",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell/chapter-2-the-departure",
+                    "chap_title": "The Departure",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-end-of-hell/the-departure",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Deception at Churchland Square & Interstate 81",
                             "file_path": "e015/c002/p001.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-2-the-departure/the-deception-at-churchland-square-interstate-81",
+                            "url": "/rachel/the-end-of-hell/the-departure/the-deception-at-churchland-square-interstate-81",
                             "date": "2006-11-11",
                             "start_time": "08:30"
                         }
@@ -1497,15 +1497,15 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3: The Appalachian Crossing",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell/chapter-3-the-appalachian-crossing",
+                    "chap_title": "The Appalachian Crossing",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-end-of-hell/the-appalachian-crossing",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Knoxville Layover & Kansas City",
                             "file_path": "e015/c003/p001.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-3-the-appalachian-crossing/the-knoxville-layover-kansas-city",
+                            "url": "/rachel/the-end-of-hell/the-appalachian-crossing/the-knoxville-layover-kansas-city",
                             "date": "2006-11-12",
                             "start_time": "03:30"
                         }
@@ -1513,15 +1513,15 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 4: The Northern Anchor",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell/chapter-4-the-northern-anchor",
+                    "chap_title": "The Northern Anchor",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-end-of-hell/the-northern-anchor",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The State Line & The Salt Lake Layover",
                             "file_path": "e015/c004/p001.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-4-the-northern-anchor/the-state-line-the-salt-lake-layover",
+                            "url": "/rachel/the-end-of-hell/the-northern-anchor/the-state-line-the-salt-lake-layover",
                             "date": "2006-11-13",
                             "start_time": "02:00"
                         }
@@ -1529,15 +1529,15 @@
                 },
                 {
                     "chap_num": 5,
-                    "chap_title": "Chapter 5: The Pasco Lock",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell/chapter-5-the-pasco-lock",
+                    "chap_title": "The Pasco Lock",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-end-of-hell/the-pasco-lock",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Idaho Crossing & The Ride Free Area",
                             "file_path": "e015/c005/p001.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-5-the-pasco-lock/part-1-the-idaho-crossing-the-ride-free-area",
+                            "url": "/rachel/the-end-of-hell/the-pasco-lock/part-1-the-idaho-crossing-the-ride-free-area",
                             "date": "2006-11-14",
                             "start_time": "00:00"
                         },
@@ -1545,7 +1545,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: King Street Station & Pizza Diplomacy",
                             "file_path": "e015/c005/p002.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-5-the-pasco-lock/part-2-king-street-station-pizza-diplomacy",
+                            "url": "/rachel/the-end-of-hell/the-pasco-lock/part-2-king-street-station-pizza-diplomacy",
                             "date": "2006-11-14",
                             "start_time": "16:15"
                         },
@@ -1553,7 +1553,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Ascent & Stille Nacht",
                             "file_path": "e015/c005/p003.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-5-the-pasco-lock/part-3-the-ascent-stille-nacht",
+                            "url": "/rachel/the-end-of-hell/the-pasco-lock/part-3-the-ascent-stille-nacht",
                             "date": "2006-11-14",
                             "start_time": "20:30"
                         }
@@ -1561,15 +1561,15 @@
                 },
                 {
                     "chap_num": 6,
-                    "chap_title": "Chapter 6: The Escape Route",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell/chapter-6-the-escape-route",
+                    "chap_title": "The Escape Route",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-end-of-hell/the-escape-route",
                     "illustration_count": 3,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Kent Station Transfer",
                             "file_path": "e015/c006/p001.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-6-the-escape-route/part-1-the-kent-station-transfer",
+                            "url": "/rachel/the-end-of-hell/the-escape-route/part-1-the-kent-station-transfer",
                             "date": "2006-11-15",
                             "start_time": "08:00",
                             "image": "/raggiesoft-books/images/scenes/rachel/b015/delores-polo-reaction.jpg",
@@ -1586,7 +1586,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: Jessica's Train Ride",
                             "file_path": "e015/c006/p002.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-6-the-escape-route/part-2-jessica-s-train-ride",
+                            "url": "/rachel/the-end-of-hell/the-escape-route/part-2-jessica-s-train-ride",
                             "date": "2006-11-15",
                             "start_time": "08:15",
                             "image": "/raggiesoft-books/images/scenes/jessica-taps-train-ghosts.jpg",
@@ -1603,7 +1603,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: Off to Pierce County & Quantum Reunion",
                             "file_path": "e015/c006/p003.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-6-the-escape-route/part-3-off-to-pierce-county-quantum-reunion",
+                            "url": "/rachel/the-end-of-hell/the-escape-route/part-3-off-to-pierce-county-quantum-reunion",
                             "date": "2006-11-15",
                             "start_time": "08:15",
                             "image": "/raggiesoft-books/images/scenes/rachel/b015/quantum-reunion-overlake.jpg",
@@ -1620,7 +1620,7 @@
                             "part_num": 4,
                             "part_title": "Part 4: The Shattered Fog",
                             "file_path": "e015/c006/p004.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-6-the-escape-route/part-4-the-shattered-fog",
+                            "url": "/rachel/the-end-of-hell/the-escape-route/part-4-the-shattered-fog",
                             "date": "2006-11-15",
                             "start_time": "23:45"
                         }
@@ -1628,15 +1628,15 @@
                 },
                 {
                     "chap_num": 7,
-                    "chap_title": "Chapter 7: Morning Hell",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell/chapter-7-morning-hell",
+                    "chap_title": "Morning Hell",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-end-of-hell/morning-hell",
                     "illustration_count": 3,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Forced Exit",
                             "file_path": "e015/c007/p001.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-7-morning-hell/part-1-forced-exit",
+                            "url": "/rachel/the-end-of-hell/morning-hell/part-1-forced-exit",
                             "date": "2006-11-16",
                             "start_time": "04:00",
                             "image": "/raggiesoft-books/images/scenes/rachel/b015/michael-gillig-bus-call.jpg",
@@ -1653,7 +1653,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Renton Transfer",
                             "file_path": "e015/c007/p002.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-7-morning-hell/part-2-the-renton-transfer",
+                            "url": "/rachel/the-end-of-hell/morning-hell/part-2-the-renton-transfer",
                             "date": "2006-11-16",
                             "start_time": "06:00",
                             "image": "/raggiesoft-books/images/scenes/rachel/b015/michael-jessica-renton-transfer.jpg",
@@ -1674,7 +1674,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Broil's Run & The Corporate Perimeter",
                             "file_path": "e015/c007/p003.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-7-morning-hell/part-3-the-broil-s-run-the-corporate-perimeter",
+                            "url": "/rachel/the-end-of-hell/morning-hell/part-3-the-broil-s-run-the-corporate-perimeter",
                             "date": "2006-11-16",
                             "start_time": "12:15"
                         },
@@ -1682,7 +1682,7 @@
                             "part_num": 4,
                             "part_title": "Part 4: The Clarity Upgrade",
                             "file_path": "e015/c007/p004.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-7-morning-hell/part-4-the-clarity-upgrade",
+                            "url": "/rachel/the-end-of-hell/morning-hell/part-4-the-clarity-upgrade",
                             "date": "2006-11-16",
                             "start_time": "14:30"
                         },
@@ -1690,7 +1690,7 @@
                             "part_num": 5,
                             "part_title": "Part 5: The Software Payload & The Physical Evidence",
                             "file_path": "e015/c007/p005.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-7-morning-hell/part-5-the-software-payload-the-physical-evidence",
+                            "url": "/rachel/the-end-of-hell/morning-hell/part-5-the-software-payload-the-physical-evidence",
                             "date": "2006-11-16",
                             "start_time": "15:00"
                         },
@@ -1698,7 +1698,7 @@
                             "part_num": 6,
                             "part_title": "Part 6: The Pack Secures the Perimeter",
                             "file_path": "e015/c007/p006.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-7-morning-hell/part-6-the-pack-secures-the-perimeter",
+                            "url": "/rachel/the-end-of-hell/morning-hell/part-6-the-pack-secures-the-perimeter",
                             "date": "2006-11-16",
                             "start_time": "18:30"
                         }
@@ -1706,15 +1706,15 @@
                 },
                 {
                     "chap_num": 8,
-                    "chap_title": "Chapter 8: Decompression Day",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell/chapter-8-decompression-day",
+                    "chap_title": "Decompression Day",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-end-of-hell/decompression-day",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Liquid Rebellion & The Victory Meal",
                             "file_path": "e015/c008/p001.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-8-decompression-day/part-1-the-liquid-rebellion-the-victory-meal",
+                            "url": "/rachel/the-end-of-hell/decompression-day/part-1-the-liquid-rebellion-the-victory-meal",
                             "date": "2006-11-17",
                             "start_time": "09:00"
                         },
@@ -1722,7 +1722,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: Forging the Armor & The First Citizen",
                             "file_path": "e015/c008/p002.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-8-decompression-day/part-2-forging-the-armor-the-first-citizen",
+                            "url": "/rachel/the-end-of-hell/decompression-day/part-2-forging-the-armor-the-first-citizen",
                             "date": "2006-11-17",
                             "start_time": "13:00"
                         },
@@ -1730,7 +1730,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Lost Sentinel & The Perimeter Holds",
                             "file_path": "e015/c008/p003.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-8-decompression-day/part-3-the-lost-sentinel-the-perimeter-holds",
+                            "url": "/rachel/the-end-of-hell/decompression-day/part-3-the-lost-sentinel-the-perimeter-holds",
                             "date": "2006-11-17",
                             "start_time": "18:00"
                         }
@@ -1738,15 +1738,15 @@
                 },
                 {
                     "chap_num": 9,
-                    "chap_title": "Chapter 9: The Southern Route",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-15-the-end-of-hell/chapter-9-the-southern-route",
+                    "chap_title": "The Southern Route",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-end-of-hell/the-southern-route",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Tukwila Extraction & Crossing the Rubicon",
                             "file_path": "e015/c009/p001.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-9-the-southern-route/part-1-the-tukwila-extraction-crossing-the-rubicon",
+                            "url": "/rachel/the-end-of-hell/the-southern-route/part-1-the-tukwila-extraction-crossing-the-rubicon",
                             "date": "2006-11-18",
                             "start_time": "05:30"
                         },
@@ -1754,7 +1754,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Forward Operating Base & The Hydrotherapy Protocol",
                             "file_path": "e015/c009/p002.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-9-the-southern-route/part-2-the-forward-operating-base-the-hydrotherapy-protocol",
+                            "url": "/rachel/the-end-of-hell/the-southern-route/part-2-the-forward-operating-base-the-hydrotherapy-protocol",
                             "date": "2006-11-18",
                             "start_time": "13:15"
                         },
@@ -1762,7 +1762,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The House Guard Protocol & The Final Baseline",
                             "file_path": "e015/c009/p003.md",
-                            "url": "/rachel/book-15-the-end-of-hell/chapter-9-the-southern-route/part-3-the-house-guard-protocol-the-final-baseline",
+                            "url": "/rachel/the-end-of-hell/the-southern-route/part-3-the-house-guard-protocol-the-final-baseline",
                             "date": "2006-11-18",
                             "start_time": "17:00"
                         }
@@ -1772,21 +1772,21 @@
         },
         {
             "era_num": 16,
-            "era_title": "Book 16: AWE Monday Night War",
-            "era_url": "/raggiesoft-books/books/rachel/book-16-awe-monday-night-war",
+            "era_title": "AWE Monday Night War",
+            "era_url": "/raggiesoft-books/books/rachel/awe-monday-night-war",
             "illustration_count": 6,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: The Portland Offensive",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-16-awe-monday-night-war/chapter-1-the-portland-offensive",
+                    "chap_title": "The Portland Offensive",
+                    "chap_url": "/raggiesoft-books/books/rachel/awe-monday-night-war/the-portland-offensive",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Morning Deployment",
                             "file_path": "e016/c001/p001.md",
-                            "url": "/rachel/book-16-awe-monday-night-war/chapter-1-the-portland-offensive/part-1-the-morning-deployment",
+                            "url": "/rachel/awe-monday-night-war/the-portland-offensive/part-1-the-morning-deployment",
                             "date": "2006-11-20",
                             "start_time": "06:00"
                         },
@@ -1794,7 +1794,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Logic of the Ban & The Holding Pattern",
                             "file_path": "e016/c001/p002.md",
-                            "url": "/rachel/book-16-awe-monday-night-war/chapter-1-the-portland-offensive/part-2-the-logic-of-the-ban-the-holding-pattern",
+                            "url": "/rachel/awe-monday-night-war/the-portland-offensive/part-2-the-logic-of-the-ban-the-holding-pattern",
                             "date": "2006-11-20",
                             "start_time": "06:45"
                         },
@@ -1802,7 +1802,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Plaza Approach",
                             "file_path": "e016/c001/p003.md",
-                            "url": "/rachel/book-16-awe-monday-night-war/chapter-1-the-portland-offensive/part-3-the-plaza-approach",
+                            "url": "/rachel/awe-monday-night-war/the-portland-offensive/part-3-the-plaza-approach",
                             "date": "2006-11-20",
                             "start_time": "14:20"
                         }
@@ -1810,15 +1810,15 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: Arrival at Rose City Center",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-16-awe-monday-night-war/chapter-2-arrival-at-rose-city-center",
+                    "chap_title": "Arrival at Rose City Center",
+                    "chap_url": "/raggiesoft-books/books/rachel/awe-monday-night-war/arrival-at-rose-city-center",
                     "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Will Call & The Tycoon, The Thief, and the Foam Finger",
                             "file_path": "e016/c002/p001.md",
-                            "url": "/rachel/book-16-awe-monday-night-war/chapter-2-arrival-at-rose-city-center/part-1-will-call-the-tycoon-the-thief-and-the-foam-finger",
+                            "url": "/rachel/awe-monday-night-war/arrival-at-rose-city-center/part-1-will-call-the-tycoon-the-thief-and-the-foam-finger",
                             "date": "2006-11-20",
                             "start_time": "14:30",
                             "image": "/raggiesoft-books/images/scenes/sensory_meltdown_regulation.jpg",
@@ -1835,7 +1835,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Descent and the Trust Fall & The Dark Matches",
                             "file_path": "e016/c002/p002.md",
-                            "url": "/rachel/book-16-awe-monday-night-war/chapter-2-arrival-at-rose-city-center/part-2-the-descent-and-the-trust-fall-the-dark-matches",
+                            "url": "/rachel/awe-monday-night-war/arrival-at-rose-city-center/part-2-the-descent-and-the-trust-fall-the-dark-matches",
                             "date": "2006-11-20",
                             "start_time": "16:15"
                         }
@@ -1843,15 +1843,15 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3: AWE Monday Night War",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-16-awe-monday-night-war/chapter-3-awe-monday-night-war",
+                    "chap_title": "AWE Monday Night War",
+                    "chap_url": "/raggiesoft-books/books/rachel/awe-monday-night-war/awe-monday-night-war",
                     "illustration_count": 5,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: LIVE From Portland & The Corporate Meltdown",
                             "file_path": "e016/c003/p001.md",
-                            "url": "/rachel/book-16-awe-monday-night-war/chapter-3-awe-monday-night-war/part-1-live-from-portland-the-corporate-meltdown",
+                            "url": "/rachel/awe-monday-night-war/awe-monday-night-war/part-1-live-from-portland-the-corporate-meltdown",
                             "date": "2006-11-20",
                             "start_time": "18:00",
                             "image": "/raggiesoft-books/images/characters/jaxson_vance/jaxson_vance.jpg",
@@ -1868,7 +1868,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Riot vs. The Empress & The Backstage Assault",
                             "file_path": "e016/c003/p002.md",
-                            "url": "/rachel/book-16-awe-monday-night-war/chapter-3-awe-monday-night-war/part-2-the-riot-vs-the-empress-the-backstage-assault",
+                            "url": "/rachel/awe-monday-night-war/awe-monday-night-war/part-2-the-riot-vs-the-empress-the-backstage-assault",
                             "date": "2006-11-20",
                             "start_time": "18:40",
                             "image": "/raggiesoft-books/images/characters/diego_chavez/diego_chavez.jpg",
@@ -1889,7 +1889,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Upset of the Century & The Main Event",
                             "file_path": "e016/c003/p003.md",
-                            "url": "/rachel/book-16-awe-monday-night-war/chapter-3-awe-monday-night-war/part-3-the-upset-of-the-century-the-main-event",
+                            "url": "/rachel/awe-monday-night-war/awe-monday-night-war/part-3-the-upset-of-the-century-the-main-event",
                             "date": "2006-11-20",
                             "start_time": "19:25"
                         },
@@ -1897,7 +1897,7 @@
                             "part_num": 4,
                             "part_title": "Part 4: The Rampage & The Ultimatum & The House Lights & The Journey Home",
                             "file_path": "e016/c003/p004.md",
-                            "url": "/rachel/book-16-awe-monday-night-war/chapter-3-awe-monday-night-war/part-4-the-rampage-the-ultimatum-the-house-lights-the-journey-home",
+                            "url": "/rachel/awe-monday-night-war/awe-monday-night-war/part-4-the-rampage-the-ultimatum-the-house-lights-the-journey-home",
                             "date": "2006-11-20",
                             "start_time": "19:56",
                             "image": "/raggiesoft-books/images/scenes/marcus_sterling_ultimatum.jpg",
@@ -1920,21 +1920,21 @@
         },
         {
             "era_num": 17,
-            "era_title": "Book 17: A Few Small Repairs",
-            "era_url": "/raggiesoft-books/books/rachel/book-17-a-few-small-repairs",
+            "era_title": "A Few Small Repairs",
+            "era_url": "/raggiesoft-books/books/rachel/a-few-small-repairs",
             "illustration_count": 4,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: Breakfast in Vancouver",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-17-a-few-small-repairs/chapter-1-breakfast-in-vancouver",
+                    "chap_title": "Breakfast in Vancouver",
+                    "chap_url": "/raggiesoft-books/books/rachel/a-few-small-repairs/breakfast-in-vancouver",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Anchor's Rest & The Pathetic Text",
                             "file_path": "e017/c001/p001.md",
-                            "url": "/rachel/book-17-a-few-small-repairs/chapter-1-breakfast-in-vancouver/part-1-the-anchor-s-rest-the-pathetic-text",
+                            "url": "/rachel/a-few-small-repairs/breakfast-in-vancouver/part-1-the-anchor-s-rest-the-pathetic-text",
                             "date": "2006-11-21",
                             "start_time": "07:00"
                         },
@@ -1942,7 +1942,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Financial Guillotine & The Union Station Protocol",
                             "file_path": "e017/c001/p002.md",
-                            "url": "/rachel/book-17-a-few-small-repairs/chapter-1-breakfast-in-vancouver/part-2-the-financial-guillotine-the-union-station-protocol",
+                            "url": "/rachel/a-few-small-repairs/breakfast-in-vancouver/part-2-the-financial-guillotine-the-union-station-protocol",
                             "date": "2006-11-21",
                             "start_time": "10:15"
                         }
@@ -1950,15 +1950,15 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: The Financial Extraction",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-17-a-few-small-repairs/chapter-2-the-financial-extraction",
+                    "chap_title": "The Financial Extraction",
+                    "chap_url": "/raggiesoft-books/books/rachel/a-few-small-repairs/the-financial-extraction",
                     "illustration_count": 4,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Transit Grid & The Financial Severance",
                             "file_path": "e017/c002/p001.md",
-                            "url": "/rachel/book-17-a-few-small-repairs/chapter-2-the-financial-extraction/part-1-the-transit-grid-the-financial-severance",
+                            "url": "/rachel/a-few-small-repairs/the-financial-extraction/part-1-the-transit-grid-the-financial-severance",
                             "date": "2006-11-22",
                             "start_time": "00:00",
                             "image": "/raggiesoft-books/images/scenes/delores_spots_michael.jpg",
@@ -1975,7 +1975,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Corporate Armor & Caf\u00e9 34 and The Code-Off",
                             "file_path": "e017/c002/p002.md",
-                            "url": "/rachel/book-17-a-few-small-repairs/chapter-2-the-financial-extraction/part-2-the-corporate-armor-caf-34-and-the-code-off",
+                            "url": "/rachel/a-few-small-repairs/the-financial-extraction/part-2-the-corporate-armor-caf-34-and-the-code-off",
                             "date": "2006-11-22",
                             "start_time": "09:45",
                             "image": "/raggiesoft-books/images/scenes/financial_severance_embrace.jpg",
@@ -1992,7 +1992,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Crossway Matinee & Bug and Bear",
                             "file_path": "e017/c002/p003.md",
-                            "url": "/rachel/book-17-a-few-small-repairs/chapter-2-the-financial-extraction/part-3-the-crossway-matinee-bug-and-bear",
+                            "url": "/rachel/a-few-small-repairs/the-financial-extraction/part-3-the-crossway-matinee-bug-and-bear",
                             "date": "2006-11-22",
                             "start_time": "13:15",
                             "image": "/raggiesoft-books/images/scenes/rachel/b017/jessica-office-sofa.jpg",
@@ -2013,7 +2013,7 @@
                             "part_num": 4,
                             "part_title": "Part 4: The Heavyweight Knockout Grill & The Sanctuary Bed",
                             "file_path": "e017/c002/p004.md",
-                            "url": "/rachel/book-17-a-few-small-repairs/chapter-2-the-financial-extraction/part-4-the-heavyweight-knockout-grill-the-sanctuary-bed",
+                            "url": "/rachel/a-few-small-repairs/the-financial-extraction/part-4-the-heavyweight-knockout-grill-the-sanctuary-bed",
                             "date": "2006-11-22",
                             "start_time": "18:45"
                         }
@@ -2021,15 +2021,15 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3: The Sanctuary Holiday",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-17-a-few-small-repairs/chapter-3-the-sanctuary-holiday",
+                    "chap_title": "The Sanctuary Holiday",
+                    "chap_url": "/raggiesoft-books/books/rachel/a-few-small-repairs/the-sanctuary-holiday",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Sentinel Tether & The Sanctuary Feast",
                             "file_path": "e017/c003/p001.md",
-                            "url": "/rachel/book-17-a-few-small-repairs/chapter-3-the-sanctuary-holiday/part-1-the-sentinel-tether-the-sanctuary-feast",
+                            "url": "/rachel/a-few-small-repairs/the-sanctuary-holiday/part-1-the-sentinel-tether-the-sanctuary-feast",
                             "date": "2006-11-23",
                             "start_time": "10:00"
                         },
@@ -2037,7 +2037,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Sugar Crash & The Independent Perimeter",
                             "file_path": "e017/c003/p002.md",
-                            "url": "/rachel/book-17-a-few-small-repairs/chapter-3-the-sanctuary-holiday/part-2-the-sugar-crash-the-independent-perimeter",
+                            "url": "/rachel/a-few-small-repairs/the-sanctuary-holiday/part-2-the-sugar-crash-the-independent-perimeter",
                             "date": "2006-11-23",
                             "start_time": "22:00"
                         }
@@ -2045,15 +2045,15 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 4: The Spectacle of the Season",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-17-a-few-small-repairs/chapter-4-the-spectacle-of-the-season",
+                    "chap_title": "The Spectacle of the Season",
+                    "chap_url": "/raggiesoft-books/books/rachel/a-few-small-repairs/the-spectacle-of-the-season",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Afterglow and the Doorbuster Clock & The Pine Street Skybridge",
                             "file_path": "e017/c004/p001.md",
-                            "url": "/rachel/book-17-a-few-small-repairs/chapter-4-the-spectacle-of-the-season/part-1-the-afterglow-and-the-doorbuster-clock-the-pine-street-skybridge",
+                            "url": "/rachel/a-few-small-repairs/the-spectacle-of-the-season/part-1-the-afterglow-and-the-doorbuster-clock-the-pine-street-skybridge",
                             "date": "2006-11-24",
                             "start_time": "05:30"
                         },
@@ -2061,7 +2061,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Holiday Windows & The Pocket Fortress",
                             "file_path": "e017/c004/p002.md",
-                            "url": "/rachel/book-17-a-few-small-repairs/chapter-4-the-spectacle-of-the-season/part-2-the-holiday-windows-the-pocket-fortress",
+                            "url": "/rachel/a-few-small-repairs/the-spectacle-of-the-season/part-2-the-holiday-windows-the-pocket-fortress",
                             "date": "2006-11-24",
                             "start_time": "10:00"
                         },
@@ -2069,7 +2069,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Pioneer Deli and The Regional Route & The Lakewood Fortress",
                             "file_path": "e017/c004/p003.md",
-                            "url": "/rachel/book-17-a-few-small-repairs/chapter-4-the-spectacle-of-the-season/part-3-the-pioneer-deli-and-the-regional-route-the-lakewood-fortress",
+                            "url": "/rachel/a-few-small-repairs/the-spectacle-of-the-season/part-3-the-pioneer-deli-and-the-regional-route-the-lakewood-fortress",
                             "date": "2006-11-24",
                             "start_time": "12:15"
                         },
@@ -2077,7 +2077,7 @@
                             "part_num": 4,
                             "part_title": "Part 4: The Southern Base Camp",
                             "file_path": "e017/c004/p004.md",
-                            "url": "/rachel/book-17-a-few-small-repairs/chapter-4-the-spectacle-of-the-season/part-4-the-southern-base-camp",
+                            "url": "/rachel/a-few-small-repairs/the-spectacle-of-the-season/part-4-the-southern-base-camp",
                             "date": "2006-11-24",
                             "start_time": "20:00"
                         }
@@ -2085,15 +2085,15 @@
                 },
                 {
                     "chap_num": 5,
-                    "chap_title": "Chapter 5: The Weekend Shift",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-17-a-few-small-repairs/chapter-5-the-weekend-shift",
+                    "chap_title": "The Weekend Shift",
+                    "chap_url": "/raggiesoft-books/books/rachel/a-few-small-repairs/the-weekend-shift",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Choice & The Dead Grid",
                             "file_path": "e017/c005/p001.md",
-                            "url": "/rachel/book-17-a-few-small-repairs/chapter-5-the-weekend-shift/part-1-the-choice-the-dead-grid",
+                            "url": "/rachel/a-few-small-repairs/the-weekend-shift/part-1-the-choice-the-dead-grid",
                             "date": "2006-11-25",
                             "start_time": "05:00"
                         },
@@ -2101,7 +2101,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Northbound Route & The Grocery Side",
                             "file_path": "e017/c005/p002.md",
-                            "url": "/rachel/book-17-a-few-small-repairs/chapter-5-the-weekend-shift/part-2-the-northbound-route-the-grocery-side",
+                            "url": "/rachel/a-few-small-repairs/the-weekend-shift/part-2-the-northbound-route-the-grocery-side",
                             "date": "2006-11-25",
                             "start_time": "08:00"
                         },
@@ -2109,7 +2109,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Pantry Algorithm",
                             "file_path": "e017/c005/p003.md",
-                            "url": "/rachel/book-17-a-few-small-repairs/chapter-5-the-weekend-shift/part-3-the-pantry-algorithm",
+                            "url": "/rachel/a-few-small-repairs/the-weekend-shift/part-3-the-pantry-algorithm",
                             "date": "2006-11-25",
                             "start_time": "10:00"
                         }
@@ -2119,21 +2119,21 @@
         },
         {
             "era_num": 18,
-            "era_title": "Book 18: The Eastern Anchor",
-            "era_url": "/raggiesoft-books/books/rachel/book-18-the-eastern-anchor",
+            "era_title": "The Eastern Anchor",
+            "era_url": "/raggiesoft-books/books/rachel/the-eastern-anchor",
             "illustration_count": 2,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: The Foundation",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-18-the-eastern-anchor/chapter-1-the-foundation",
+                    "chap_title": "The Foundation",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-foundation",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Tarmac and the Tear & The Decoy Protocol",
                             "file_path": "e018/c001/p001.md",
-                            "url": "/rachel/book-18-the-eastern-anchor/chapter-1-the-foundation/the-tarmac-and-the-tear-the-decoy-protocol",
+                            "url": "/rachel/the-eastern-anchor/the-foundation/the-tarmac-and-the-tear-the-decoy-protocol",
                             "date": "2007-03-30",
                             "start_time": "22:15"
                         }
@@ -2141,15 +2141,15 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: The Blueprint and the Sabomnim",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-18-the-eastern-anchor/chapter-2-the-blueprint-and-the-sabomnim",
+                    "chap_title": "The Blueprint and the Sabomnim",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-blueprint-and-the-sabomnim",
                     "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Transition Wake-Up & The Reunion at the Register",
                             "file_path": "e018/c002/p001.md",
-                            "url": "/rachel/book-18-the-eastern-anchor/chapter-2-the-blueprint-and-the-sabomnim/part-1-the-transition-wake-up-the-reunion-at-the-register",
+                            "url": "/rachel/the-eastern-anchor/the-blueprint-and-the-sabomnim/part-1-the-transition-wake-up-the-reunion-at-the-register",
                             "date": "2007-03-31",
                             "start_time": "09:00"
                         },
@@ -2157,7 +2157,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Alumni Roster & The Woven Stripe",
                             "file_path": "e018/c002/p002.md",
-                            "url": "/rachel/book-18-the-eastern-anchor/chapter-2-the-blueprint-and-the-sabomnim/part-2-the-alumni-roster-the-woven-stripe",
+                            "url": "/rachel/the-eastern-anchor/the-blueprint-and-the-sabomnim/part-2-the-alumni-roster-the-woven-stripe",
                             "date": "2007-03-31",
                             "start_time": "13:15",
                             "image": "/raggiesoft-books/images/scenes/rachel/b018/april_showing_dojang_street_clothes_p006.jpg",
@@ -2174,7 +2174,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Sea of Truth & The Criollo Drive Ascent",
                             "file_path": "e018/c002/p003.md",
-                            "url": "/rachel/book-18-the-eastern-anchor/chapter-2-the-blueprint-and-the-sabomnim/part-3-the-sea-of-truth-the-criollo-drive-ascent",
+                            "url": "/rachel/the-eastern-anchor/the-blueprint-and-the-sabomnim/part-3-the-sea-of-truth-the-criollo-drive-ascent",
                             "date": "2007-03-31",
                             "start_time": "18:45",
                             "image": "/raggiesoft-books/images/scenes/rachel/b018/april_reveals_diplomatic_status_p007.jpg",
@@ -2191,15 +2191,15 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3: The Sunday Reset",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-18-the-eastern-anchor/chapter-3-the-sunday-reset",
+                    "chap_title": "The Sunday Reset",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-sunday-reset",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Three-Day Math & The Evolution of the Anchor",
                             "file_path": "e018/c003/p001.md",
-                            "url": "/rachel/book-18-the-eastern-anchor/chapter-3-the-sunday-reset/the-three-day-math-the-evolution-of-the-anchor",
+                            "url": "/rachel/the-eastern-anchor/the-sunday-reset/the-three-day-math-the-evolution-of-the-anchor",
                             "date": "2007-04-01",
                             "start_time": "10:00"
                         }
@@ -2207,15 +2207,15 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 4: The Digital SOS",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-18-the-eastern-anchor/chapter-4-the-digital-sos",
+                    "chap_title": "The Digital SOS",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-digital-sos",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Command Center & The Blackwater Extraction",
                             "file_path": "e018/c004/p001.md",
-                            "url": "/rachel/book-18-the-eastern-anchor/chapter-4-the-digital-sos/part-1-the-command-center-the-blackwater-extraction",
+                            "url": "/rachel/the-eastern-anchor/the-digital-sos/part-1-the-command-center-the-blackwater-extraction",
                             "date": "2007-04-02",
                             "start_time": "14:00"
                         },
@@ -2223,7 +2223,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Evasive Route & The 1802 Perimeter",
                             "file_path": "e018/c004/p002.md",
-                            "url": "/rachel/book-18-the-eastern-anchor/chapter-4-the-digital-sos/part-2-the-evasive-route-the-1802-perimeter",
+                            "url": "/rachel/the-eastern-anchor/the-digital-sos/part-2-the-evasive-route-the-1802-perimeter",
                             "date": "2007-04-02",
                             "start_time": "15:15"
                         },
@@ -2231,7 +2231,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Legal Definition & The Weight of the Anchor",
                             "file_path": "e018/c004/p003.md",
-                            "url": "/rachel/book-18-the-eastern-anchor/chapter-4-the-digital-sos/part-3-the-legal-definition-the-weight-of-the-anchor",
+                            "url": "/rachel/the-eastern-anchor/the-digital-sos/part-3-the-legal-definition-the-weight-of-the-anchor",
                             "date": "2007-04-02",
                             "start_time": "22:30"
                         }
@@ -2239,15 +2239,15 @@
                 },
                 {
                     "chap_num": 5,
-                    "chap_title": "Chapter 5: The Fortress",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-18-the-eastern-anchor/chapter-5-the-fortress",
+                    "chap_title": "The Fortress",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-fortress",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Lifelong Partner & Shedding the Name",
                             "file_path": "e018/c005/p001.md",
-                            "url": "/rachel/book-18-the-eastern-anchor/chapter-5-the-fortress/part-1-the-lifelong-partner-shedding-the-name",
+                            "url": "/rachel/the-eastern-anchor/the-fortress/part-1-the-lifelong-partner-shedding-the-name",
                             "date": "2007-04-03",
                             "start_time": "07:00"
                         },
@@ -2255,7 +2255,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Dollar Lease",
                             "file_path": "e018/c005/p002.md",
-                            "url": "/rachel/book-18-the-eastern-anchor/chapter-5-the-fortress/part-2-the-dollar-lease",
+                            "url": "/rachel/the-eastern-anchor/the-fortress/part-2-the-dollar-lease",
                             "date": "2007-04-03",
                             "start_time": "12:30"
                         }
@@ -2263,15 +2263,15 @@
                 },
                 {
                     "chap_num": 6,
-                    "chap_title": "Chapter 6: The Deployment",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-18-the-eastern-anchor/chapter-6-the-deployment",
+                    "chap_title": "The Deployment",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-deployment",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The West Coast Wake-Up",
                             "file_path": "e018/c006/p001.md",
-                            "url": "/rachel/book-18-the-eastern-anchor/chapter-6-the-deployment/the-west-coast-wake-up",
+                            "url": "/rachel/the-eastern-anchor/the-deployment/the-west-coast-wake-up",
                             "date": "2007-04-04",
                             "start_time": "05:30"
                         }
@@ -2281,21 +2281,21 @@
         },
         {
             "era_num": 19,
-            "era_title": "Book 19: The Director's Perimeter",
-            "era_url": "/raggiesoft-books/books/rachel/book-19-the-director-s-perimeter",
+            "era_title": "The Director's Perimeter",
+            "era_url": "/raggiesoft-books/books/rachel/the-director-s-perimeter",
             "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: The Capture",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-19-the-director-s-perimeter/chapter-1-the-capture",
+                    "chap_title": "The Capture",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-director-s-perimeter/the-capture",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The SME Directive",
                             "file_path": "e019/c001/p001.md",
-                            "url": "/rachel/book-19-the-director-s-perimeter/chapter-1-the-capture/the-sme-directive",
+                            "url": "/rachel/the-director-s-perimeter/the-capture/the-sme-directive",
                             "date": "2007-05-16",
                             "start_time": "09:15"
                         }
@@ -2303,15 +2303,15 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: The Moosewood Anomaly",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-19-the-director-s-perimeter/chapter-2-the-moosewood-anomaly",
+                    "chap_title": "The Moosewood Anomaly",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-director-s-perimeter/the-moosewood-anomaly",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Twenty-First Milestone & The Evasive Route",
                             "file_path": "e019/c002/p001.md",
-                            "url": "/rachel/book-19-the-director-s-perimeter/chapter-2-the-moosewood-anomaly/the-twenty-first-milestone-the-evasive-route",
+                            "url": "/rachel/the-director-s-perimeter/the-moosewood-anomaly/the-twenty-first-milestone-the-evasive-route",
                             "date": "2007-05-25",
                             "start_time": "18:30"
                         }
@@ -2319,15 +2319,15 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Chapter 3: The Tactical Acquisition",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-19-the-director-s-perimeter/chapter-3-the-tactical-acquisition",
+                    "chap_title": "The Tactical Acquisition",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-director-s-perimeter/the-tactical-acquisition",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Route 36 Commute & The Corporate Guillotine",
                             "file_path": "e019/c003/p001.md",
-                            "url": "/rachel/book-19-the-director-s-perimeter/chapter-3-the-tactical-acquisition/the-route-36-commute-the-corporate-guillotine",
+                            "url": "/rachel/the-director-s-perimeter/the-tactical-acquisition/the-route-36-commute-the-corporate-guillotine",
                             "date": "2007-05-29",
                             "start_time": "06:40"
                         }
@@ -2335,15 +2335,15 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 4: Ground Zero",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-19-the-director-s-perimeter/chapter-4-ground-zero",
+                    "chap_title": "Ground Zero",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-director-s-perimeter/ground-zero",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Demolition Directive & The Intact Architecture",
                             "file_path": "e019/c004/p001.md",
-                            "url": "/rachel/book-19-the-director-s-perimeter/chapter-4-ground-zero/the-demolition-directive-the-intact-architecture",
+                            "url": "/rachel/the-director-s-perimeter/ground-zero/the-demolition-directive-the-intact-architecture",
                             "date": "2007-06-15",
                             "start_time": "07:45"
                         }
@@ -2353,33 +2353,39 @@
         },
         {
             "era_num": 20,
-            "era_title": "Book 20: The Mountain Conference (SAACURC 2016)",
-            "era_url": "/raggiesoft-books/books/rachel/book-20-the-mountain-conference-saacurc-2016",
+            "era_title": "The Mountain Conference (SAACURC 2016)",
+            "era_url": "/raggiesoft-books/books/rachel/the-mountain-conference-saacurc-2016",
             "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: The Bear, The Bug, and The Forger",
-                    "chap_url": "/raggiesoft-books/books/rachel/book-20-the-mountain-conference-saacurc-2016/chapter-1-the-bear-the-bug-and-the-forger",
+                    "chap_title": "The Bear, The Bug, and The Forger",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Clothespin Gauntlet & The Forger",
+                            "part_title": "Part 1: Friday Arrival, The Commonwealth Mall Curb, & The ADA Suite at The Hotel at Poly",
                             "file_path": "e020/c001/p001.md",
-                            "url": "/rachel/book-20-the-mountain-conference-saacurc-2016/chapter-1-the-bear-the-bug-and-the-forger/part-1-the-clothespin-gauntlet-the-forger",
-                            "date": "2016-02-13",
-                            "start_time": "09:15",
-                            "location": "Kincaid Student Center (290 College Ave.), Commonwealth Polytechnic Institute, Blacksburg, Virginia"
+                            "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-the-commonwealth-mall-curb-the-ada-suite-at-the-hotel-at-poly",
+                            "date": "2016-02-12 16:00",
+                            "location": "The Hotel at Poly & Commonwealth Mall, Commonwealth Polytechnic Institute, Blacksburg, VA"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Forty Via C-Burg",
+                            "part_title": "Part 2: Saturday at SAACURC: The Clothespin Gauntlet & The GIH Pilot Roundtable",
                             "file_path": "e020/c001/p002.md",
-                            "url": "/rachel/book-20-the-mountain-conference-saacurc-2016/chapter-1-the-bear-the-bug-and-the-forger/part-2-forty-via-c-burg",
-                            "date": "2016-02-13",
-                            "start_time": "11:00",
-                            "location": "College Avenue & Kincaid Student Center Plaza, Blacksburg, Virginia"
+                            "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-2-saturday-at-saacurc-the-clothespin-gauntlet-the-gih-pilot-roundtable",
+                            "date": "2016-02-13 09:00",
+                            "location": "Kincaid Student Center (290 College Ave.) & The Hotel at Poly, Blacksburg, VA"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Sunday Wrap-Up: Closing Lunch, Awards Ceremony, & Home to Norfolk",
+                            "file_path": "e020/c001/p003.md",
+                            "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-3-sunday-wrap-up-closing-lunch-awards-ceremony-home-to-norfolk",
+                            "date": "2016-02-14 11:30",
+                            "location": "Kincaid Student Center (290 College Ave.) to Interstate 81 North & Eastbound to Norfolk, VA"
                         }
                     ]
                 }
