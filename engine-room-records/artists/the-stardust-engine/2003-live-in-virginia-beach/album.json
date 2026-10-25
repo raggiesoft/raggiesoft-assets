@@ -12,15 +12,15 @@
   "albumProductionType": "LiveAlbum",
   "albumReleaseType": "AlbumRelease",
   "genre": "Live Arena Rock / 1980s Synth-Rock",
-  "temporalCoverage": "2002-11-22",
-  "description": "Recorded in Virginia Beach, Virginia on the 2001–2002 Across The World Tour and released in November 2002 following Crimson Node and Live at the Chancellery. Having road-tested a mysterious unnamed new song for a few weeks on tour, The Stardust Engine tests whether the hometown Virginia Beach crowd knows the words mid-concert—marking the first time 'The Flight Path' was ever recorded for a future live album while fans still believed it was simply a new Stardust Engine track.",
+  "temporalCoverage": "2003-02-18",
+  "description": "Recorded in Virginia Beach, Virginia on the 2001–2002 Midnight Drivers / Across The World Tour and released in February 2003 following Crimson Node and Live at the Chancellery. Having road-tested a mysterious unnamed new song for a few weeks on tour, The Stardust Engine tests whether the hometown Virginia Beach crowd knows the words mid-concert—marking the first time 'The Flight Path' was ever recorded for a future live album while fans still believed it was simply a new Stardust Engine track.",
   "publisher": {
     "@type": "Organization",
     "name": "Engine Room Records"
   },
   "albumRelease": {
     "@type": "MusicRelease",
-    "datePublished": "2002-11-22"
+    "datePublished": "2003-02-18"
   },
   "subtitle": "The 2001–2002 Across The World Tour — First Recorded Live Album Performance of \"The Flight Path\" (Mid-Concert Placement)",
   "linerNotes": [

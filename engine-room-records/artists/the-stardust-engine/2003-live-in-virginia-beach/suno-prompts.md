@@ -1,11 +1,11 @@
-# The Stardust Engine — *Live in Virginia Beach* (2002) Suno Production & Lore Sheet
+# The Stardust Engine — *Live in Virginia Beach* (2003) Suno Production & Lore Sheet
 
 * **Artist:** The Stardust Engine
-* **Album:** *Live in Virginia Beach* (`temporalCoverage: "2002-11-22"` — Recorded on the 2001–2002 *Across The World Tour* in Virginia Beach, VA; Released November 22, 2002 *after* *Live at the Chancellery*)
-* **Venue:** Virginia Beach, Virginia (Hometown Coastal Show on the *Across The World Tour*)
+* **Album:** *Live in Virginia Beach* (`temporalCoverage: "2003-02-18"` — Recorded on the 2001–2002 *Midnight Drivers / Across The World Tour* in Virginia Beach, VA; Released February 18, 2003 *after* 2002's *Live at the Chancellery*)
+* **Venue:** Virginia Beach, Virginia (Hometown Coastal Show on the *Midnight Drivers* World Tour)
 * **Genre:** Live Arena Rock / 1980s Synth-Rock / Progressive Pop
 * **Raw Master WAV Destination Directory:**
-  `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/live/2002-live-in-virginia-beach/`
+  `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/live/2003-live-in-virginia-beach/`
 
 ---
 
