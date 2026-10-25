@@ -1,5 +1,5 @@
 **LORE NOTE:**
-The mandatory closer—one final, cathartic explosion of color inside the Norfolk Scope Arena before the band heads home to Blacksburg for their 2005–2014 Burnout Hiatus. *(Note: By sacred band vow, 'Saturday Night Lights: The Crucible' and 'If You Walked Away' are strictly excluded).*
+The mandatory closer—one final, cathartic explosion of color inside the Norfolk Prism Arena before the band heads home to Blacksburg for their 2005–2014 Burnout Hiatus. *(Note: By sacred band vow, 'Saturday Night Lights: The Crucible' and 'If You Walked Away' are strictly excluded).*
 
 **LYRICS:**
 

@@ -1,5 +1,5 @@
 **LORE NOTE:**
-Transitions from Ryan's guitar storm into Cassidy's *Moon 1 (Anchor)* zero-gravity sanctuary, turning the ribbed concrete dome ceiling of the Norfolk Scope into a glowing planetarium.
+Transitions from Ryan's guitar storm into Cassidy's *Moon 1 (Anchor)* zero-gravity sanctuary, turning the ribbed concrete dome ceiling of the Norfolk Prism Arena into a glowing planetarium.
 
 **LYRICS:**
 

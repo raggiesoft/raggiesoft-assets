@@ -1,5 +1,5 @@
 **LORE NOTE:**
-Opens the final concert before the band's decade-long Burnout Hiatus as cosmic spotlights ignite Pier Luigi Nervi's ribbed concrete dome ceiling inside the **Norfolk Scope Arena**.
+Opens the final concert before the band's decade-long Burnout Hiatus as cosmic spotlights ignite the geometric ribbed concrete dome ceiling inside the **Norfolk Prism Arena**.
 
 **LYRICS:**
 

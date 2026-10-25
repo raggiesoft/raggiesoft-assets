@@ -1,5 +1,5 @@
 **LORE NOTE:**
-The emotional centerpiece of 2004's *Progress Street*, sung as a soaring sibling duet under the Scope dome.
+The emotional centerpiece of 2004's *Progress Street*, sung as a soaring sibling duet under the Prism dome.
 
 **LYRICS:**
 

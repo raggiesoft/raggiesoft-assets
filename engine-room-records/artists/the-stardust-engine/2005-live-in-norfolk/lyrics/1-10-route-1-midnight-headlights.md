@@ -1,5 +1,5 @@
 **LORE NOTE:**
-From 2004's *Progress Street*—celebrating the late-night highway miles and the custom tour coaches parked outside the Norfolk Scope Arena.
+From 2004's *Progress Street*—celebrating the late-night highway miles and the custom tour coaches parked outside the Norfolk Prism Arena.
 
 **LYRICS:**
 

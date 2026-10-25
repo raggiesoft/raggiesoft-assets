@@ -1,6 +1,6 @@
 
 # The Stardust Engine - Master Discography & Lore
-Compiled on: 10-25-2026 12:10:19 PM
+Compiled on: 10-25-2026 12:25:10 PM
 
 # Electric Color (1987)
 * **Narrative Era:** 1987
@@ -10533,7 +10533,7 @@ Goodnight, Forger Nation.
 
 ## The Stardust Engine
 ### Lore
-Opens the final concert before the band's decade-long Burnout Hiatus as cosmic spotlights ignite Pier Luigi Nervi's ribbed concrete dome ceiling inside the **Norfolk Scope Arena**.
+Opens the final concert before the band's decade-long Burnout Hiatus as cosmic spotlights ignite the geometric ribbed concrete dome ceiling inside the **Norfolk Prism Arena**.
 
 ### Lyrics
 
@@ -10938,7 +10938,7 @@ Through the penumbra.
 
 ## Sanctuary: Zero-G
 ### Lore
-Transitions from Ryan's guitar storm into Cassidy's *Moon 1 (Anchor)* zero-gravity sanctuary, turning the ribbed concrete dome ceiling of the Norfolk Scope into a glowing planetarium.
+Transitions from Ryan's guitar storm into Cassidy's *Moon 1 (Anchor)* zero-gravity sanctuary, turning the ribbed concrete dome ceiling of the Norfolk Prism Arena into a glowing planetarium.
 
 ### Lyrics
 
@@ -11268,7 +11268,7 @@ I'm right here.
 
 ## Route 1: Midnight Headlights
 ### Lore
-From 2004's *Progress Street*—celebrating the late-night highway miles and the custom tour coaches parked outside the Norfolk Scope Arena.
+From 2004's *Progress Street*—celebrating the late-night highway miles and the custom tour coaches parked outside the Norfolk Prism Arena.
 
 ### Lyrics
 
@@ -11348,7 +11348,7 @@ Midnight headlights in the valley fog!
 
 ## Before the Distance
 ### Lore
-The emotional centerpiece of 2004's *Progress Street*, sung as a soaring sibling duet under the Scope dome.
+The emotional centerpiece of 2004's *Progress Street*, sung as a soaring sibling duet under the Prism dome.
 
 ### Lyrics
 
@@ -11575,7 +11575,7 @@ Goodnight, Forger Nation.
 
 ## Electric Color
 ### Lore
-The mandatory closer—one final, cathartic explosion of color inside the Norfolk Scope Arena before the band heads home to Blacksburg for their 2005–2014 Burnout Hiatus. *(Note: By sacred band vow, 'Saturday Night Lights: The Crucible' and 'If You Walked Away' are strictly excluded).*
+The mandatory closer—one final, cathartic explosion of color inside the Norfolk Prism Arena before the band heads home to Blacksburg for their 2005–2014 Burnout Hiatus. *(Note: By sacred band vow, 'Saturday Night Lights: The Crucible' and 'If You Walked Away' are strictly excluded).*
 
 ### Lyrics
 
