@@ -255,5 +255,30 @@
         "description": "Released on October 18, 2011 during the Burnout Hiatus to celebrate the exact 25th Anniversary of 'Ignition (The Forger's Call)' debuting inside The Crucible on October 18, 1986, this 14-track retrospective reimagines foundational Stardust Engine classics (1987–2001) entirely within Cassidy O'Connell's zero-gravity Cosmic Tidal Lock Sound™."
       }
     ]
+  },
+  "reignition": {
+    "label": "The Reignition Era",
+    "heading": "2014-Present: The Reignition Era & 30th Anniversary Homecoming",
+    "description": "Returning from their ten-year Burnout Hiatus with renewed creative fire, The Stardust Engine launched their global Reignition return and brought the tour home to Blacksburg on May 21, 2016 inside The Crucible with all 300 members of the CPI Marching Forgers.",
+    "albums": [
+      {
+        "title": "Live at the Crucible",
+        "year": "2016",
+        "folder": "2016-live-at-the-crucible",
+        "url": "https://stardust.raggiesoft.com/discography/2016-live-at-the-crucible",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/album-art.jpg",
+        "spotifyId": "",
+        "appleId": "",
+        "amazonId": "",
+        "youtubeId": "",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": "",
+        "dspExempt": true,
+        "dspNotice": "Recorded live inside The Crucible on May 21, 2016 with the 300-piece CPI Marching Forgers. Full multi-disc live album in production following the studio release of 2015's Reignition; the Grand Finale Encore ('Electric Color (Live at the Crucible)') is available for immediate streaming in The Listening Room and RaggieSoft Book Reader.",
+        "realRelease": "2026-10-25",
+        "genre": "Live Stadium Rock / 1980s AOR / Collegiate Marching Band Rock",
+        "description": "Recorded live on Saturday, May 21, 2016 inside The Crucible in Blacksburg, Virginia—Commonwealth Polytechnic Institute's 65,000-seat stadium—celebrating the 30th Anniversary of 1986's 'Ignition: The Forger's Call' with the 300-piece CPI Marching Forgers and closing with a secret 5:26 1980s AOR Stadium Rock reclamation of 'Electric Color'."
+      }
+    ]
   }
 }
