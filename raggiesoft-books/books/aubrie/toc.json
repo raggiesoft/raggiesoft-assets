@@ -6,16 +6,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "50.7 MB",
-        "pdf": "37.1 MB",
-        "text_epub": "912 KB",
+        "epub": "51.5 MB",
+        "pdf": "37.9 MB",
+        "text_epub": "914 KB",
         "text_pdf": "3.4 MB",
-        "epub_bytes": 53168228,
-        "pdf_bytes": 38862662,
-        "text_epub_bytes": 934183,
-        "text_pdf_bytes": 3575342
+        "epub_bytes": 54002222,
+        "pdf_bytes": 39760995,
+        "text_epub_bytes": 935449,
+        "text_pdf_bytes": 3579242
     },
-    "illustration_count": 47,
+    "illustration_count": 48,
     "eras": [
         {
             "era_num": 1,
@@ -2260,7 +2260,7 @@
             "era_num": 7,
             "era_title": "Spring Semester 2016",
             "era_url": "/raggiesoft-books/books/aubrie/spring-semester-2016",
-            "illustration_count": 5,
+            "illustration_count": 6,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2323,7 +2323,7 @@
                     "chap_num": 4,
                     "chap_title": "Live at the Crucible & Senior Commencement",
                     "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement",
-                    "illustration_count": 5,
+                    "illustration_count": 6,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2372,9 +2372,13 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p003/fifty-two-to-nothing-scoreboard.jpg",
                                     "alt": "Inside The Crucible at night during 'Fifty-Two to Nothing: The Norfolk Reckoning', massive glowing Foundry Maroon and Molten Orange numerals on the North End Zone scoreboard display 'CPI 52 \u2014 VDU 0' while in the foreground on the Section 104, Row A accessible terrace, Jordan Fuller raises his fist in triumph from his wheelchair as Mark Cooper claps his shoulder and Aubrie Jean Kelly, Madison Scott, and Zo\u00eb Wren Brooks cheer wildly around him."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p003/not-your-doll-cassidy-front-and-center.jpg",
+                                    "alt": "Cassidy O'Connell takes the stage front and center at the lip of The Crucible stage in a fitted black leather jacket over a maroon CPI rock tee, gripping a tilted chrome stand microphone with both hands and belting with fierce hard-rock intensity as Ryan O'Connell shreds his electric guitar in his manual wheelchair to her left, twin fountains of gold and crimson pyrotechnic sparks erupt along the stage edge, and the 120-foot curved LED screen shatters a neon-pink doll mask into roaring flames reading NOT YOUR DOLL."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         },
                         {
                             "part_num": 4,
