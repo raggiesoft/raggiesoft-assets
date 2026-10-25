@@ -10,10 +10,10 @@
         "pdf": "32.8 MB",
         "text_epub": "896 KB",
         "text_pdf": "3.4 MB",
-        "epub_bytes": 49013270,
-        "pdf_bytes": 34357845,
-        "text_epub_bytes": 917702,
-        "text_pdf_bytes": 3518796
+        "epub_bytes": 49012917,
+        "pdf_bytes": 34357124,
+        "text_epub_bytes": 917395,
+        "text_pdf_bytes": 3518758
     },
     "illustration_count": 42,
     "eras": [
@@ -1235,7 +1235,7 @@
                             "url": "/aubrie/spring-semester-2015/hey-cacuho-the-residence-life-conference/part-2-breakout-session-4b-breaking-the-binary-corridor",
                             "date": "2015-02-14",
                             "start_time": "14:00",
-                            "location": "Conference Center Room 204, 2015 CACUHO Annual Conference, Virginia"
+                            "location": "Conference Center Room 204, Shenandoah Valley University (2015 CACUHO Annual Conference), Harrisonburg, Virginia"
                         },
                         {
                             "part_num": 3,
