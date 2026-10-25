@@ -30,8 +30,8 @@
 
 ## II. Complete 11-Track Suno Prompts (`llms-suno-usage.txt` Compliant)
 
-### Track 01 — `Reignition: Lights On on Progress Street`
-* **Target Filename:** `reignition-lights-on-on-progress-street.wav` (in `master-wav/studio/`)
+### Track 01 — `Reignition: Lights Up on Progress Street`
+* **Target Filename:** `reignition-lights-up-on-progress-street.wav` (in `master-wav/studio/`)
 * **Suno UI Settings:** `Vocal Gender: Unselected` (Duet) • `Weirdness: 0%`
 * **Style of Music Prompt ($\le 1,000$ chars):**
 ```text
@@ -77,7 +77,7 @@ And every word we left unsaid is waking up ahead!
 (full 1980s arena rock band)
 This is Reignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
-Lights on on Progress Street, the fire's burning bright
+Lights up on Progress Street, the fire's burning bright
 Splitting through the shadow of a ten-year night!
 From the basement breakers to the stadium sky
 The Stardust Engine never said goodbye!
@@ -111,7 +111,7 @@ And every dream we ever led is wide awake ahead!
 [Chorus]
 This is Reignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
-Lights on on Progress Street, the fire's burning bright
+Lights up on Progress Street, the fire's burning bright
 Splitting through the shadow of a ten-year night!
 From the basement breakers to the stadium sky
 The Stardust Engine never said goodbye!
@@ -136,7 +136,7 @@ Blacksburg, Virginia—your band is home!
 (music swells to maximum stadium energy)
 This is Reignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
-Lights on on Progress Street, the fire's burning bright
+Lights up on Progress Street, the fire's burning bright
 Splitting through the shadow of a ten-year night!
 From the basement breakers to the stadium sky
 The Stardust Engine never said goodbye!
@@ -146,7 +146,7 @@ We're lighting up the valley forevermore!
 [Outro]
 (soaring twin guitar and synth harmony over pounding gated drums)
 [female]
-Lights on on Progress Street!
+Lights up on Progress Street!
 [male]
 The fire is back!
 (final sustained D-Major stadium power chord and gong crash)

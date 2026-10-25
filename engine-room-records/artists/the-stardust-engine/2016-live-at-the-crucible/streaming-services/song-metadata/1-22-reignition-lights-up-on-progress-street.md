@@ -1,9 +1,11 @@
-# Reignition: Lights On on Progress Street - DistroKid Quick-Copy Sheet
+# Reignition: Lights Up on Progress Street (Live at the Crucible) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Reignition: Lights On on Progress Street
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Reignition: Lights Up on Progress Street
+* **Version:** Live at the Crucible
+* **ID3 / Vorbis Tagged Title:** Reignition: Lights Up on Progress Street (Live at the Crucible)
 * **Primary Artist:** The Stardust Engine
-* **Genre:** 1980s AOR / Melodic Stadium Rock / 80s Cosmic Pop
+* **Genre:** Live Stadium Rock / 1980s AOR / Collegiate Marching Band Rock
 * **Real-World DSP Release Date:** 2026-10-25
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
@@ -26,13 +28,13 @@
 * **Musician / Producer:** AI-Generated (Vocals & Instrumentation)
 
 ## 3. Internal Catalog Information
-* **Engine Room ID:** ERR-001-2015-101
+* **Engine Room ID:** ERR-001-2016-122
 * **ISRC:** 
 * **US ISRC Agency Registrant:** Michael Ragsdale (Registrant ID: 185611 • Prefix: QTAHP • dsp.operations@engineroom-records.com)
 * **Album UPC / GTIN-12:** None
 * **Track Length:** 
-* **Fictional Narrative Release Date:** 2015-10-16
-* **Master File Located At:** ../../vault/wav/1-01-reignition-lights-on-on-progress-street.wav
+* **Fictional Narrative Release Date:** 2016-10-15
+* **Master File Located At:** ../../vault/wav/1-22-reignition-lights-up-on-progress-street.wav
 
 ## 4. Rights, Tri-License Architecture & Clearances
 * **Commercial Rights:** 100% cleared via commercial-tier Suno Premium.

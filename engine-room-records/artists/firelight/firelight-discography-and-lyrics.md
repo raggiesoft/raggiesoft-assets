@@ -1,6 +1,6 @@
 
 # Firelight - Master Discography & Lore
-Compiled on: 10-25-2026 01:20:32 PM
+Compiled on: 10-25-2026 03:18:09 PM
 
 # The Silver Gauntlet of Aethel (Theatrical Soundtrack) (1987) [SoundtrackAlbum]
 * **Narrative Era:** 1987

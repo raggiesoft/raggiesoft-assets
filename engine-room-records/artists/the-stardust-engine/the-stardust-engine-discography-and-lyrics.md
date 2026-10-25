@@ -1,6 +1,6 @@
 
 # The Stardust Engine - Master Discography & Lore
-Compiled on: 10-25-2026 01:20:33 PM
+Compiled on: 10-25-2026 03:18:10 PM
 
 # Electric Color (1987)
 * **Narrative Era:** 1987
@@ -12823,7 +12823,7 @@ Just us...
 * **Narrative Era:** 2015
 * **Real-World DSP Release:** 2026-10-25
 
-## Reignition: Lights On on Progress Street
+## Reignition: Lights Up on Progress Street
 ### Lore
 Thematically answering the sign-off of 2004's "Last Bus Home: Lights Out on Progress Street" ("Lights out on Progress Street... Goodnight, Forger Nation"), the opening anthem of 2015's *Reignition* celebrates the end of the band's decade-long **2005–2014 Burnout Hiatus**. Opening with warm acoustic piano chords that erupt into Cassidy's bright Roland Juno-106 analog brass fanfare, Tyler's booming gated-reverb snare, Evan's driving eighth-note bassline, and Ryan's soaring electric guitar, it marks the family's triumphant return to full-throttle 1980s AOR studio rock.
 
@@ -12866,7 +12866,7 @@ And every word we left unsaid is waking up ahead!
 (Duet)
 This is Reignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
-Lights on on Progress Street, the fire's burning bright
+Lights up on Progress Street, the fire's burning bright
 Splitting through the shadow of a ten-year night!
 From the basement breakers to the stadium sky
 The Stardust Engine never said goodbye!
@@ -12901,7 +12901,7 @@ And every dream we ever led is wide awake ahead!
 (Duet)
 This is Reignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
-Lights on on Progress Street, the fire's burning bright
+Lights up on Progress Street, the fire's burning bright
 Splitting through the shadow of a ten-year night!
 From the basement breakers to the stadium sky
 The Stardust Engine never said goodbye!
@@ -12926,7 +12926,7 @@ Blacksburg, Virginia—your band is home!
 (Duet - Full Stadium Energy)
 This is Reignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
-Lights on on Progress Street, the fire's burning bright
+Lights up on Progress Street, the fire's burning bright
 Splitting through the shadow of a ten-year night!
 From the basement breakers to the stadium sky
 The Stardust Engine never said goodbye!
@@ -12936,10 +12936,11 @@ We're lighting up the valley forevermore!
 [Outro]
 (Soaring twin guitar and synth harmony over pounding gated drums)
 (Cassidy)
-Lights on on Progress Street!
+Lights up on Progress Street!
 (Ryan)
 The fire is back!
 (Final ringing D-Major stadium power chord and gong crash)
+
 
 ## Main Engine Start
 ### Lore
@@ -15520,7 +15521,7 @@ My anchor...
 My anchor holds...
 (Fades out with piano and synth)
 
-## Reignition: Lights On on Progress Street (Live at the Crucible)
+## Reignition: Lights Up on Progress Street (Live at the Crucible)
 ### Lore
 The triumphant opening title anthem of 2015's *Reignition*, celebrating the family's return from their ten-year Burnout Hiatus and the permanent homecoming ahead in Blacksburg.
 
@@ -15562,7 +15563,7 @@ And every word we left unsaid is waking up ahead!
 [Chorus]
 This is Reignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
-Lights on on Progress Street, the fire's burning bright
+Lights up on Progress Street, the fire's burning bright
 Splitting through the shadow of a ten-year night!
 From the basement breakers to the stadium sky
 The Stardust Engine never said goodbye!
@@ -15595,7 +15596,7 @@ And every dream we ever led is wide awake ahead!
 [Chorus]
 This is Reignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
-Lights on on Progress Street, the fire's burning bright
+Lights up on Progress Street, the fire's burning bright
 Splitting through the shadow of a ten-year night!
 From the basement breakers to the stadium sky
 The Stardust Engine never said goodbye!
@@ -15620,7 +15621,7 @@ Blacksburg, Virginia—your band is home!
 (Full Stadium Energy)
 This is Reignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
-Lights on on Progress Street, the fire's burning bright
+Lights up on Progress Street, the fire's burning bright
 Splitting through the shadow of a ten-year night!
 From the basement breakers to the stadium sky
 The Stardust Engine never said goodbye!
@@ -15630,10 +15631,11 @@ We're lighting up the valley forevermore!
 [Outro]
 (Soaring twin guitar and synth harmony over pounding gated drums)
 [female]
-Lights on on Progress Street!
-[male]
+Lights up on Progress Street!
+(Ryan)
 The fire is back!
 (Final ringing D-Major stadium power chord and gong crash)
+
 
 ## Last Bus Home: Lights Out on Progress Street (Live at the Crucible)
 ### Lore

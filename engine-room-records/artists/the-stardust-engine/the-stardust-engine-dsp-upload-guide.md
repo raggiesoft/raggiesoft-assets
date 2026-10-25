@@ -1339,10 +1339,10 @@
 ## Reignition (2015) — Studio Album
 * **Album Folder:** `2015-reignition` • **UPC:** `None` • **Genre:** `1980s AOR / Melodic Stadium Rock / 80s Cosmic Pop`
 
-1. Reignition: Lights On on Progress Street
-* Name: Reignition: Lights On on Progress Street
+1. Reignition: Lights Up on Progress Street
+* Name: Reignition: Lights Up on Progress Street
 * Version: None (Leave Blank on DSP)
-* ID3 / Vorbis Tag: Reignition: Lights On on Progress Street
+* ID3 / Vorbis Tag: Reignition: Lights Up on Progress Street
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
 2. Main Engine Start
@@ -1535,10 +1535,10 @@
 * ID3 / Vorbis Tag: My Anchor Holds (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-22. Reignition: Lights On on Progress Street
-* Name: Reignition: Lights On on Progress Street
+22. Reignition: Lights Up on Progress Street
+* Name: Reignition: Lights Up on Progress Street
 * Version: Live at the Crucible
-* ID3 / Vorbis Tag: Reignition: Lights On on Progress Street (Live at the Crucible)
+* ID3 / Vorbis Tag: Reignition: Lights Up on Progress Street (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
 23. Last Bus Home: Lights Out on Progress Street

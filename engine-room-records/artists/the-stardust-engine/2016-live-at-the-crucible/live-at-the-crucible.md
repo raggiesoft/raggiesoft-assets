@@ -1661,7 +1661,7 @@ My anchor holds...
 
 
 ***
-### **1-22-reignition-lights-on-on-progress-street.md**
+### **1-22-reignition-lights-up-on-progress-street.md**
 ***
 
 **LORE NOTE:**
@@ -1705,7 +1705,7 @@ And every word we left unsaid is waking up ahead!
 [Chorus]
 This is Reignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
-Lights on on Progress Street, the fire's burning bright
+Lights up on Progress Street, the fire's burning bright
 Splitting through the shadow of a ten-year night!
 From the basement breakers to the stadium sky
 The Stardust Engine never said goodbye!
@@ -1738,7 +1738,7 @@ And every dream we ever led is wide awake ahead!
 [Chorus]
 This is Reignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
-Lights on on Progress Street, the fire's burning bright
+Lights up on Progress Street, the fire's burning bright
 Splitting through the shadow of a ten-year night!
 From the basement breakers to the stadium sky
 The Stardust Engine never said goodbye!
@@ -1763,7 +1763,7 @@ Blacksburg, Virginia—your band is home!
 (Full Stadium Energy)
 This is Reignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
-Lights on on Progress Street, the fire's burning bright
+Lights up on Progress Street, the fire's burning bright
 Splitting through the shadow of a ten-year night!
 From the basement breakers to the stadium sky
 The Stardust Engine never said goodbye!
@@ -1773,10 +1773,11 @@ We're lighting up the valley forevermore!
 [Outro]
 (Soaring twin guitar and synth harmony over pounding gated drums)
 [female]
-Lights on on Progress Street!
-[male]
+Lights up on Progress Street!
+(Ryan)
 The fire is back!
 (Final ringing D-Major stadium power chord and gong crash)
+
 
 
 ***

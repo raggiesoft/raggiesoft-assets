@@ -51,7 +51,7 @@
      19. **`1-19-progress-street-where-the-fire-began` — `Progress Street: Where the Fire Began`** *(from 2004's *Progress Street*)*
      20. **`1-20-neon-hearts` — `Neon Hearts`** *(from 1989's *Neon Hearts*)*
      21. **`1-21-my-anchor-holds` — `My Anchor Holds`** *(from 1987's *Electric Color*)*
-     22. **`1-22-reignition-lights-on-on-progress-street` — `Reignition: Lights On on Progress Street`** *(from 2015's *Reignition*)*
+     22. **`1-22-reignition-lights-up-on-progress-street` — `Reignition: Lights Up on Progress Street`** *(from 2015's *Reignition*)*
      23. **`1-23-last-bus-home-lights-out-on-progress-street` — `Last Bus Home: Lights Out on Progress Street`** *(from 2004's *Progress Street* — **THE FALSE ENDING!** The band powers down the switches and the stadium goes pitch black)*
    - **Act VI — The True Ending (Track 24 — DOWNLOADED, HARPER-PACKAGED & LIVE, `ISRC: QTAHP2600023`):**
      24. **`electric-color-live-at-the-crucible` — `Electric Color (Live at the Crucible)`** *(Massive `5:26` 1980s AOR / Stadium Rock Reclamation Version with the 300-piece **CPI Marching Forgers** marching back onto the stage in the dark!)*

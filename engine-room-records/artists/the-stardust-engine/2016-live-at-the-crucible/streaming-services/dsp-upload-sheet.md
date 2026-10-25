@@ -234,15 +234,15 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-21-my-anchor-holds.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-21-my-anchor-holds.txt`
 
-22. Reignition: Lights On on Progress Street
-* **Name:** Reignition: Lights On on Progress Street
+22. Reignition: Lights Up on Progress Street
+* **Name:** Reignition: Lights Up on Progress Street
 * **Version:** Live at the Crucible
-* **ID3 / Vorbis Tagged Title:** `Reignition: Lights On on Progress Street (Live at the Crucible)`
+* **ID3 / Vorbis Tagged Title:** `Reignition: Lights Up on Progress Street (Live at the Crucible)`
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-22-reignition-lights-on-on-progress-street.wav` (⏳ In Studio)
-* **Clean DSP Lyrics:** `streaming-services/lyrics/1-22-reignition-lights-on-on-progress-street.txt`
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-22-reignition-lights-up-on-progress-street.wav` (⏳ In Studio)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/1-22-reignition-lights-up-on-progress-street.txt`
 
 23. Last Bus Home: Lights Out on Progress Street
 * **Name:** Last Bus Home: Lights Out on Progress Street

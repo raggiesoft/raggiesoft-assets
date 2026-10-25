@@ -1,10 +1,10 @@
 {
   "tracks": [
     {
-      "fileName": "1-01-reignition-lights-on-on-progress-street",
-      "title": "Reignition: Lights On on Progress Street",
+      "fileName": "1-01-reignition-lights-up-on-progress-street",
+      "title": "Reignition: Lights Up on Progress Street",
       "isrc": "",
-      "masterWavPath": "studio/reignition-lights-on-on-progress-street",
+      "masterWavPath": "studio/reignition-lights-up-on-progress-street",
       "disc": 1,
       "discName": "Reignition",
       "track": 1,
