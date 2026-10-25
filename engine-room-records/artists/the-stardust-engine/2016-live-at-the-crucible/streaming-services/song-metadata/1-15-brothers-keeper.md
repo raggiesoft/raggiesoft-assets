@@ -1,7 +1,7 @@
-# Safe Person - DistroKid Quick-Copy Sheet
+# Brother's Keeper - DistroKid Quick-Copy Sheet
 
 ## 1. DistroKid Upload Form Data
-* **Track Title:** Safe Person
+* **Track Title:** Brother's Keeper
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Stadium Rock / 1980s AOR / Collegiate Marching Band Rock
 * **Real-World DSP Release Date:** 2026-10-25
@@ -32,7 +32,7 @@
 * **Album UPC / GTIN-12:** None
 * **Track Length:** 
 * **Fictional Narrative Release Date:** 2016-10-15
-* **Master File Located At:** ../../vault/wav/1-15-safe-person.wav
+* **Master File Located At:** ../../vault/wav/1-15-brothers-keeper.wav
 
 ## 4. Rights, Tri-License Architecture & Clearances
 * **Commercial Rights:** 100% cleared via commercial-tier Suno Premium.

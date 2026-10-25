@@ -21,7 +21,7 @@
    2. ***Live at the Chancellery* (The Actual Concert Happens — May 2002, Charlottesville, VA) + Holly's FM Radio Campaign:** The Stardust Engine comes to ***The* University of the Piedmont (`UP`)**'s **The Chancellery** (in-universe John Paul Jones Arena) as **FRIENDS** of Albemarle County's **Crimson Node** despite the bitter CPI vs. UP rivalry. After playing their usual closer *"Electric Color"* (Track 13), they introduce **Crimson Node** as a band to close the concert (Track 14, still without giving the song's name on stage), and **Holly O'Connell works with Crimson Node to get the studio version of *"The Flight Path"* onto FM radio**.
    3. ***Crimson Node* (`2002-09-18` — Debut Studio Album, Already Produced):** Debuts on September 18, 2002, and **fans finally get the official name of the song (`"The Flight Path"`)**.
    4. ***Live at the Chancellery* (`2002-10-25` — The Live Album Is Released):** Released after *Crimson Node*'s studio debut.
-   5. ***Live in Virginia Beach* (`2002-11-22` — The Live Album Is Released):** Released after *Live at the Chancellery*, unlocking the archival recording of the first time *"The Flight Path"* was ever captured for a live album in its mid-concert placement!
+   5. ***Live in Virginia Beach* (`2003-02-18` — The Live Album Is Released):** Released after *Live at the Chancellery*, unlocking the archival recording of the first time *"The Flight Path"* was ever captured for a live album in its mid-concert placement!
 3. **Opening & Closing Rule + Permanent Boundaries:**
    - **MUST open with *"The Stardust Engine"*** (Track 01) and **MUST close with *"Electric Color"*** (Track 14).
    - ***"If You Walked Away"* is strictly OFF LIMITS** (replaced in the ballad spotlight by *"Echoes in the Wire"*).
@@ -37,11 +37,127 @@
 - [ ] **Track 05:** `Garbage` *(Cover of `master-wav/studio/garbage.wav`)* $\rightarrow$ `1-05-garbage.wav`
 - [ ] **Track 06:** `The Fortress` *(Cover of `master-wav/studio/the-fortress.wav`)* $\rightarrow$ `1-06-the-fortress.wav`
 - [ ] **Track 07:** `Moon 1: Tidal Lock` *(Cover of `master-wav/studio/moon-1-tidal-lock.wav`)* $\rightarrow$ `1-07-moon-1-tidal-lock.wav`
-- [x] **Track 08 (Mid-Concert Mystery Debut):** `The Flight Path` *(**ALREADY RENDERED IN SUNO** — Mid-concert placement designed to make concert-goers think it's just the new Stardust Engine song; ready to download when the monthly limit resets on November 10th!)* $\rightarrow$ `1-08-the-flight-path.wav`
+- [x] **Track 08 (Mid-Concert Mystery Debut):** `The Flight Path` *(**DOWNLOADED IN `ai-staging/suno-music-drop/` [`5:13.96`]** — Mid-concert unannounced placement designed to make concert-goers think it's just the new Stardust Engine song!)* $\rightarrow$ `1-08-the-flight-path.wav`
 - [ ] **Track 09:** `Echoes in the Wire` *(Replaces the permanently banned "If You Walked Away" — Cover of `master-wav/studio/echoes-in-the-wire.wav`)* $\rightarrow$ `1-09-echoes-in-the-wire.wav`
 - [ ] **Track 10:** `No Hidden Gravity` *(Hampton Roads / Ghent anthem — Cover of `master-wav/studio/no-hidden-gravity.wav`)* $\rightarrow$ `1-10-no-hidden-gravity.wav`
 - [ ] **Track 11:** `Redline` *(Cover of `master-wav/studio/redline.wav`)* $\rightarrow$ `1-11-redline.wav`
 - [ ] **Track 12:** `My Anchor: The Sail` *(Cover of `master-wav/studio/my-anchor-the-sail.wav`)* $\rightarrow$ `1-12-my-anchor-the-sail.wav`
 - [ ] **Track 13:** `Brand New Scene` *(Main-Set Closer — Cover of `master-wav/studio/brand-new-scene.wav`)* $\rightarrow$ `1-13-brand-new-scene.wav`
 - [ ] **Track 14 (Encore):** `Electric Color` *(Mandatory Concert Closer — Cover of `master-wav/studio/electric-color.wav`)* $\rightarrow$ `1-14-electric-color.wav`
+
+---
+
+## III. Verified Suno v6 Prompt & Transcribed Audio for Track 08 (`The Flight Path` — Mid-Concert Unannounced Placement, `5:13.96`)
+
+*(Verified against `ai-staging/suno-music-drop/The Flight Path_ Live in Virginia Beach.wav` — rendered using the Cover tool on Crimson Node's `1-01-the-flight-path.wav`)*
+
+### Styles to Include *(100% Copyright-Safe)*
+```text
+1980s progressive synth-rock, live arena concert recording, mid-show energy, male and female duet, massive gated reverb snare drum, driving analog synth arpeggios, soaring melodic electric guitar, loud audience singalong on chorus, triumphant, rhythmic precision
+```
+
+### Lyrics (Exact Transcription of `The Flight Path_ Live in Virginia Beach.wav` — Slipped Unannounced Mid-Concert, No Song Title or Crimson Node Mention!)
+```text
+[Live Arena Crowd Cheering]
+[Atmospheric Analog Synth Arpeggio]
+
+[Spoken Word Intro]
+[male]
+Thank you so much!
+You guys are sounding incredible out there tonight!
+We're gonna keep it moving.
+We've been testing this next one out on the road for the last few weeks.
+Let's see if you've caught on to the words yet!
+
+[Extended Live Instrumental Intro]
+(Soaring melodic lead guitar and driving 1980s synth-prog rhythm kick in)
+[male]
+Yeah-yeah!
+
+[Verse 1]
+[male]
+The static clears, the room is standing still
+We calculate the angles, bending time and will
+I draw the line across the open air
+No sudden moves, I know exactly where
+We're taking off, but first we need the key
+
+[Pre-Chorus]
+[male]
+I call the coordinates out loud
+A steady voice above the crowd
+I hold my hand out, wait for the command
+The double-tap upon my hand
+We never launch without the green light
+
+[Chorus]
+(20,000 fans roaring the chorus alongside the band)
+We are charting the flight path, perfectly aligned
+Leaving the gravity far behind
+We carry the weight, we balance the load
+Following the numbers in the silent code
+Shoulder to shoulder, synchronized and true
+I'll always share the flight path with you
+
+[Instrumental Break]
+(Blistering dual guitar and analog synth riff)
+
+[Verse 2]
+[female]
+The naval clock is ticking in my head
+We take the leverage, nothing left unsaid
+[male]
+An anchor grounded firmly on the floor
+We rise together, breaking through the door
+The heavy crane is ready on the line
+
+[Pre-Chorus]
+[male]
+I call the coordinates out loud
+A steady voice above the crowd
+I hold my hand out, wait for the command
+The double-tap upon my hand
+We never launch without the green light
+
+[Chorus]
+We are charting the flight path, perfectly aligned
+Leaving the gravity far behind
+We carry the weight, we balance the load
+Following the numbers in the silent code
+Shoulder to shoulder, synchronized and true
+I'll always share the flight path with you
+
+[Guitar Riff Interlude]
+[male]
+Let me hear you!
+Sing it out!
+
+[Bridge]
+[male]
+When the system overloads and the signals start to fray
+We build a fortress on the ground to keep the storm at bay
+A heavy blanket in the dark, the pressure brings you home
+You'll never have to navigate the atmosphere alone
+
+[Chorus]
+We are charting the flight path, perfectly aligned
+Leaving the gravity far behind
+We carry the weight, we balance the load
+Following the numbers in the silent code
+
+[Outro]
+[female]
+The flight path is clear
+[male]
+The anchor is here
+Double-tap, we are cleared to fly!
+Double-tap, reaching for the sky!
+
+(Soaring guitar outro over roaring Virginia Beach crowd)
+[male]
+You got it!
+
+(Final crashing power chord and thunderous arena applause)
+[End]
+```
 

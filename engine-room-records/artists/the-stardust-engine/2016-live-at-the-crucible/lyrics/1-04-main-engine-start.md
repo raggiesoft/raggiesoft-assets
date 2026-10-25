@@ -7,7 +7,8 @@ As the Marching Forgers clear the field, the core four-piece band—Cassidy on h
 (Sweeping 1980s analog synthesizer arpeggios panning across the stereo field)
 
 [Spoken Word Intro]
-(Ryan - spoken clearly)
+[male]
+(spoken clearly)
 Guidance is internal.
 T-minus ten... nine... eight...
 Seven... six...
@@ -19,7 +20,7 @@ Zero! Liftoff!
 (Explosive 142 BPM palm-muted electric guitar riff and thunderous 80s gated-reverb drums kick in)
 
 [Verse 1]
-(Ryan)
+[male]
 White-hot steam billowing across the pad
 Every ounce of horsepower we ever had
 Three million pounds of thrust beneath the floor
@@ -30,16 +31,16 @@ Now the gantry pulls away into the night
 And we're riding on a column of electric light!
 
 [Pre-Chorus]
-(Ryan)
+[male]
 Feel the G-force pressing on your chest!
 Put the titanium airframe to the test!
 (Gang Vocals)
 Roll program! Pitch into the sky!
-(Ryan)
+[male]
 Watch the blue horizon of the earth go by!
 
 [Chorus]
-(Ryan & Gang Chorus)
+(Gang Chorus)
 Main Engine Start! Feel the boosters burn!
 Past the point of hesitation, past no return!
 Through the maroon clouds and the orange flame
@@ -48,7 +49,7 @@ Punching through the atmosphere with all our heart
 Hold on to the throttle—it's Main Engine Start!
 
 [Verse 2]
-(Ryan)
+[male]
 Thirty miles up and the sky turns black
 Nothing in the universe can hold us back
 Solid rocket separation, clean and true
@@ -59,16 +60,16 @@ A sister on the keys and a sister at the helm
 Crossing the border to a higher realm!
 
 [Pre-Chorus]
-(Ryan)
+[male]
 Feel the G-force pressing on your chest!
 Put the titanium airframe to the test!
 (Gang Vocals)
 Max-Q cleared! Throttle up to full!
-(Ryan)
+[male]
 Breaking every tether of the gravity pull!
 
 [Chorus]
-(Ryan & Gang Chorus)
+(Gang Chorus)
 Main Engine Start! Feel the boosters burn!
 Past the point of hesitation, past no return!
 Through the maroon clouds and the orange flame
@@ -78,7 +79,7 @@ Hold on to the throttle—it's Main Engine Start!
 
 [Bridge]
 (Half-time heavy arena rock groove with soaring synthesizer brass)
-(Ryan)
+[male]
 They thought the countdown ended years ago
 Thought the cold dark winter froze the afterglow
 But an engine built for orbit never forgets the stars
@@ -88,7 +89,7 @@ Reaching for the heavens where the cosmos are!
 (A soaring, virtuosic 1980s two-hand tapping electric guitar solo over galloping bass and rapid-fire double-kick drums)
 
 [Final Chorus]
-(Ryan & Gang Chorus)
+(Gang Chorus)
 Main Engine Start! Feel the boosters burn!
 Past the point of hesitation, past no return!
 Through the maroon clouds and the orange flame
@@ -99,7 +100,7 @@ Hold on to the throttle—it's Main Engine Start!
 [Outro]
 (Gang Vocals)
 Main Engine Start!
-(Ryan)
+[male]
 All thrusters at one hundred and four percent!
 We are in orbit!
 (Final blazing guitar harmonic and gated drum crescendo)

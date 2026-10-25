@@ -9,35 +9,34 @@ The triumphant opening title anthem of 2015's *Reignition*, celebrating the fami
 (Massive, pounding 80s gated-reverb snare drum roll and driving eighth-note bassline kick in)
 
 [Spoken Word Intro]
-(Cassidy - warm, smiling)
+[female]
+(warm, smiling)
 Good morning, Forger Nation.
-(Ryan)
+[male]
 The switches are back on! Let's go!
 
 [Verse 1]
-(Ryan)
+[male]
 Ten years of quiet down a mountain lane
 Watching the seasons wash the windowpane
 We hung the guitars on the living room wall
 Let the silence heal us down the narrow hall
-(Cassidy)
+[female]
 We kept the promise that we made that night
 Turned down the dimmers on the blinding light
 No broken pieces, no fading away
 We were just resting for a brand new day!
 
 [Pre-Chorus]
-(Ryan)
+[male]
 Feel the transformers hum beneath the floor!
-(Cassidy)
+[female]
 Hear the twin rhythm knocking at the door!
-(Ryan)
+[male]
 Every tube is glowing cherry red!
-(Duet)
 And every word we left unsaid is waking up ahead!
 
 [Chorus]
-(Duet)
 This is Reignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
 Lights on on Progress Street, the fire's burning bright
@@ -48,31 +47,29 @@ This is Reignition! Hear the thrusters roar!
 We're lighting up the valley like we did before!
 
 [Verse 2]
-(Cassidy)
+[female]
 My Juno keys are warm beneath my hands
 Ready for the stages in a hundred lands
-(Ryan)
+[male]
 Locked my wheels in place beside the microphone
 Never had to roll a single mile alone
-(Cassidy)
+[female]
 Evan on the bassline, Tyler on the snare
-(Ryan)
+[male]
 Holly in the corner with a fortress to spare!
 Five hearts beating on the very same floor
 Opening the locks upon the studio door!
 
 [Pre-Chorus]
-(Cassidy)
+[female]
 Feel the transformers hum beneath the floor!
-(Ryan)
+[male]
 Hear the twin rhythm knocking at the door!
-(Cassidy)
+[female]
 Every tube is glowing cherry red!
-(Duet)
 And every dream we ever led is wide awake ahead!
 
 [Chorus]
-(Duet)
 This is Reignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
 Lights on on Progress Street, the fire's burning bright
@@ -84,20 +81,20 @@ We're lighting up the valley like we did before!
 
 [Bridge]
 (Music drops to pulsing analog synth pad and steady kick drum)
-(Cassidy)
+[female]
 We didn't burn out, we just took our time
-(Ryan)
+[male]
 Saved every spark for the second climb
-(Cassidy)
+[female]
 Now the meters are pinning in the crimson zone!
-(Ryan)
+[male]
 Blacksburg, Virginia—your band is home!
 
 [Guitar & Synthesizer Solo]
 (A soaring, melodic 1980s AOR electric guitar solo trading triumphant phrases with a bright polyphonic analog synthesizer lead)
 
 [Final Chorus]
-(Duet - Full Stadium Energy)
+(Full Stadium Energy)
 This is Reignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
 Lights on on Progress Street, the fire's burning bright
@@ -109,8 +106,8 @@ We're lighting up the valley forevermore!
 
 [Outro]
 (Soaring twin guitar and synth harmony over pounding gated drums)
-(Cassidy)
+[female]
 Lights on on Progress Street!
-(Ryan)
+[male]
 The fire is back!
 (Final ringing D-Major stadium power chord and gong crash)

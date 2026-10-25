@@ -20,11 +20,11 @@
    - **Step 2 — *Live at the Chancellery* (The Actual Concert Happens — May 2002, Post-Commencement) + Holly's FM Radio Campaign:** After playing their usual closer ***"Electric Color"*** (Track 13), The Stardust Engine returns for a special encore (Track 14) that **closes the concert** and **officially introduces the band Crimson Node** (still without giving the song's title on stage). Immediately after the concert, **Holly O'Connell works with Crimson Node to get the studio version of *"The Flight Path"* onto Charlottesville FM rock radio** (purchasing post-concert midnight airtime blocks so fans hear the studio master on their drive home and flood request lines all summer).
    - **Step 3 — *Crimson Node* (The Debut Studio Album Debuts — September 18, 2002, Already Produced):** Drops on Rachel Miller's birthday (`2002-09-18`), and **fans finally get the official name of the song** (`Track 01: "The Flight Path"`).
    - **Step 4 — *Live at the Chancellery* (The Live Album Is Released — October 25, 2002):** Released *after* Crimson Node's debut studio album drops.
-   - **Step 5 — *Live in Virginia Beach* (The Live Album Is Released — November 22, 2002):** Released *after* *Live at the Chancellery*, unlocking the archival recording of the earlier Virginia Beach concert where *"The Flight Path"* was first captured for a live album in its mid-concert placement.
-3. **Opening, Main-Set Closer & Special Encore Rule:**
+   - **Step 5 — *Live in Virginia Beach* (The Live Album Is Released — February 18, 2003):** Released *after* *Live at the Chancellery*, unlocking the archival recording of the earlier Virginia Beach concert where *"The Flight Path"* was first captured for a live album in its mid-concert placement.
+3. **Opening, False Ending (`Electric Color`) & Special Encore Finale Rule:**
    - **Track 01 (Opener):** **MUST open with *"The Stardust Engine"***.
-   - **Track 13 (Main-Set Closer):** ***"Electric Color"*** (their usual concert closer) is played at the end of the main set right before the special encore.
-   - **Track 14 (Special Encore Finale — ALREADY RENDERED IN SUNO!):** ***"The Flight Path"*** (`7:01` Suno v6 render with the 2:15 spoken intro + instrumental vamp, ready to download once the Suno download allowance resets on November 10th!).
+   - **Track 13 (False Ending):** ***"Electric Color"*** (their usual concert closer) serves as a **false ending** at the end of the main set right before the special joint encore.
+   - **Track 14 (True Concert Finale — DOWNLOADED IN `ai-staging/suno-music-drop/`, `6:23`):** ***"The Flight Path (Live at the Chancellery) [feat. Crimson Node]"*** (`6:23.44` Suno v6 master WAV with the 1:38 spoken intro + two drum kits & two sets of instruments on the arena floor).
 4. **Permanent Ban on *"If You Walked Away"*:**
    - Strictly **OFF LIMITS** to honor Cassidy's autistic boundaries; *"Echoes in the Wire"* holds the emotional ballad spotlight.
 
@@ -44,49 +44,59 @@
 - [ ] **Track 10:** `Thunderhead` *(Cover of `master-wav/studio/thunderhead.wav`)* $\rightarrow$ `1-10-thunderhead.wav`
 - [ ] **Track 11:** `My Anchor: The Sail` *(Cover of `master-wav/studio/my-anchor-the-sail.wav`)* $\rightarrow$ `1-11-my-anchor-the-sail.wav`
 - [ ] **Track 12:** `Brand New Scene` *(Cover of `master-wav/studio/brand-new-scene.wav`)* $\rightarrow$ `1-12-brand-new-scene.wav`
-- [ ] **Track 13:** `Electric Color` *(Main-Set Closer prior to the Special Encore — Cover of `master-wav/studio/electric-color.wav`)* $\rightarrow$ `1-13-electric-color.wav`
-- [x] **Track 14 (Special Encore):** `The Flight Path` *(**ALREADY RENDERED IN SUNO [`7:01`]** — Ready to download when the monthly limit resets on November 10th!)* $\rightarrow$ `1-14-the-flight-path.wav`
+- [ ] **Track 13 (False Ending):** `Electric Color` *(False Ending prior to the Special Encore — Cover of `master-wav/studio/electric-color.wav`)* $\rightarrow$ `1-13-electric-color.wav`
+- [x] **Track 14 (True Finale / Special Encore):** `The Flight Path` *(**DOWNLOADED IN `ai-staging/suno-music-drop/` [`6:23.44`]**)* $\rightarrow$ `1-14-the-flight-path.wav`
 
 ---
 
-## III. Verified Suno v6 Prompt Used for Track 14 (`The Flight Path` — Special Encore Presentation)
+## III. Verified Suno v6 Prompt & Transcribed Audio for Track 14 (`The Flight Path` — Special Encore Presentation, `6:23.44`)
 
-*(Preserved below for archival documentation — already rendered at `7:01` in Suno v6 using the Cover tool on Crimson Node's `1-01-the-flight-path.wav`)*
+*(Verified against `ai-staging/suno-music-drop/The Flight Path_ Live at the Chancellery (feat. Crimson Node).wav` — rendered using the Cover tool on Crimson Node's `1-01-the-flight-path.wav`)*
 
 ### Styles to Include *(100% Copyright-Safe)*
 ```text
 1980s progressive rock, live stadium concert, epic encore, male and female lead vocals, massive gated reverb snare drum, complex drum fills, sweeping analog synth pads, soaring melodic electric guitar, triumphant, rhythmic precision
 ```
 
-### Lyrics (Notice: Introduces `CRIMSON NODE`, Never Mentions the Song Title!)
+### Lyrics (Exact Transcription of `The Flight Path_ Live at the Chancellery (feat. Crimson Node).wav` — Introduces `CRIMSON NODE`, Never Mentions the Song Title!)
 ```text
 [Live Stadium Crowd Roar]
 [Single White Spotlight]
 
 [Spoken Word Intro]
-[Male]
+[male]
 Charlottesville! You have been absolutely beautiful tonight!
-I know exactly what you were thinking when you bought these tickets. 
-A bunch of stubborn Ironheads marching into The Chancellery... 
+I know exactly what you were thinking when you bought these tickets.
+A bunch of stubborn Ironheads marching into The Chancellery...
 You expected us to come out here bleeding maroon, right?
 But tonight, we aren't rivals. We're all just chasing the exact same signal.
 
-[Female]
-And for the record... your acoustic baffling in this arena is mathematically perfect. 
+[female]
+And for the record... your acoustic baffling in this arena is mathematically perfect.
 You have a very structurally sound home.
 
-[Male]
+[male]
 She's not wrong!
-Listen... we've been playing a new song for you all year. 
-You've been screaming the words back at us every single night. 
-But I have a confession to make... we didn't write it. We just kept it warm.
-Tonight, we brought the family who actually built the engine!
-Charlottesville, meet the architects... CRIMSON NODE!
+Listen... back on the Neon Hearts tour, we were just an opening act.
+We had family friends headlining, and they wanted us to jam with them to close the night.
+The label executives said, "Absolutely not."
+They kept us in our thirty-minute box.
+Well tonight, we call the shots! We don't do traditional opening acts anymore!
+If we're closing down The Chancellery, we're doing it with family!
+Two drum kits! Two sets of instruments! Everyone on the floor!
+We slipped a new song into the middle of our sets this year.
+We never announced it. We never said a word about it.
+But you've been screaming the lyrics back at us every single night!
+Well, I have a confession to make: we didn't write it. We just kept it warm.
+Tonight, we brought the architects out here to play it with us!
+You didn't have to look far to find them, either.
+They built this engine in a garage right here off Route 29!
+Charlottesville, meet your hometown heroes... CRIMSON NODE!
 
 [Extended Live Instrumental Intro]
 [Audience Cheering in the Dark]
 [Atmospheric Analog Synth Swell]
-(Building tension...)
+(Building tension with two drum kits and soaring lead guitar...)
 
 [Slow, Heavy Tom Drum Strike]
 (The crowd roars...)
@@ -95,14 +105,17 @@ Charlottesville, meet the architects... CRIMSON NODE!
 [Massive Beat Drop / Stage Lights Up]
 
 [Verse 1]
-[Female and Male Duet]
+[female]
 The static clears, the room is standing still
 We calculate the angles, bending time and will
+[male]
 I draw the line across the open air
 No sudden moves, I know exactly where
+[female]
 We're taking off, but first we need the key
 
 [Pre-Chorus]
+[male]
 I call the coordinates out loud
 A steady voice above the crowd
 I hold my hand out, wait for the command
@@ -118,6 +131,7 @@ Shoulder to shoulder, synchronized and true
 I'll always share the flight path with you
 
 [Verse 2]
+[male]
 The naval clock is ticking in my head
 We take the leverage, nothing left unsaid
 An anchor grounded firmly on the floor
@@ -125,6 +139,7 @@ We rise together, breaking through the door
 The heavy crane is ready on the line
 
 [Pre-Chorus]
+[male]
 I call the coordinates out loud
 A steady voice above the crowd
 I hold my hand out, wait for the command
@@ -140,13 +155,17 @@ Shoulder to shoulder, synchronized and true
 I'll always share the flight path with you
 
 [Bridge]
+[male]
 When the system overloads and the signals start to fray
+[female]
 We build a fortress on the ground to keep the storm at bay
+[male]
 A heavy blanket in the dark, the pressure brings you home
+[female]
 You'll never have to navigate the atmosphere alone
 
 [Instrumental Solo]
-(Soaring guitar solo trading off with a complex synth melody)
+(Soaring guitar solo trading off with a complex synth melody and dual drum kits)
 
 [Chorus]
 We are charting the flight path, perfectly aligned
@@ -155,17 +174,17 @@ We carry the weight, we balance the load
 Following the numbers in the silent code
 
 [Outro]
-The flight path is clear
-The anchor is here
-Double-tap, we are cleared to fly
-Double-tap, reaching for the sky!
+[male]
+The flight path is clear!
+The anchor is here!
+Double-tap! We are cleared to fly!
+Double-tap! Reaching for the sky!
 
 [Spoken Word / Live Sign-off]
-[Male and Female]
-Charlottesville, you've been incredible!
-Thank you from The Stardust Engine and Crimson Node!
-Take care of each other, drive safe, and have a great night!
-We love you!
+[male]
+Thank you, Charlottesville!
+The Stardust Engine and Crimson Node love you!
+Goodnight!
 
 (Massive ringing synth chord, crashing cymbals, and deafening crowd roar)
 [End]

@@ -5,9 +5,9 @@ While standard Stardust Engine concerts open directly with **"The Stardust Engin
 
 [Live Stadium Intro]
 (The 300-piece CPI Marching Forgers remain in formation across the stage and field)
-(Cassidy)
+[female]
 Keep the Marching Forgers right here with us!
-(Ryan)
+[male]
 Thirty years ago in 1986, Evan and Tyler walked into our basement and we wrote our very first song together about the cosmos and the rockets that get you there! Let's hear it, CPI!
 
 (Verse 1)

@@ -5,9 +5,9 @@
 
 [Spoken Word Intro - Live Concert Debut]
 (The four towering Ironstone floodlight banks of The Crucible blaze at full Saturday night power)
-(Ryan)
+[male]
 Back in October 2004, we snuck a gold CD into that press box up there for the fourth quarter against Monongahela State!
-(Cassidy)
+[female]
 And we made a sacred vow that we would NEVER play this song live anywhere on Earth except inside these four walls! For the very first time in concert... welcome to Saturday Night Lights inside The Crucible!
 
 [Intro]
@@ -15,29 +15,28 @@ And we made a sacred vow that we would NEVER play this song live anywhere on Ear
 (Roaring electric guitar riff kicks in with massive gated-reverb drums)
 
 [Verse 1]
-(Ryan)
+[male]
 October eighty-six and the mountain air is cold
 A student contest flyer printed out in bold
-(Cassidy)
+[female]
 They asked for a brand new anthem to shake the autumn night
 A song to lead the Forgers out into the stadium light!
-(Ryan)
+[male]
 We rolled the tape machine into our basement room
-(Cassidy)
+[female]
 And wrote a thunderclap to make the valley boom!
 
 [Pre-Chorus]
-(Ryan)
+[male]
 Sixty thousand standing in the maroon and orange sea!
-(Cassidy)
+[female]
 Waiting for the signal at CPI with me!
-(Ryan)
+[male]
 Feel the concrete tremble underneath your feet!
-(Cassidy)
+[female]
 Hear the loudest house in college sports repeat!
 
 [Chorus]
-(Duet)
 Under the Saturday night lights! Inside The Crucible!
 Where the sound of the engine makes us invincible!
 Hear the Forger's Call echoing across the sky!
@@ -46,31 +45,30 @@ When the tunnel opens up and the speakers roar
 We're not just a basement band anymore!
 
 [Verse 2]
-(Cassidy)
+[female]
 Tyler on the drums like a marching thunder line
-(Ryan)
+[male]
 Evan on the bass keeping clockwork time
-(Cassidy)
+[female]
 Analog synths rising like a rocket on the pad
-(Ryan)
+[male]
 Pouring out every ounce of fire that we had!
-(Cassidy)
+[female]
 From the press box roof down to the fifty-yard line
-(Ryan)
+[male]
 Sixty thousand voices singing every single line!
 
 [Pre-Chorus]
-(Ryan)
+[male]
 Sixty thousand standing in the maroon and orange sea!
-(Cassidy)
+[female]
 Waiting for the signal at CPI with me!
-(Ryan)
+[male]
 Feel the concrete tremble underneath your feet!
-(Cassidy)
+[female]
 Hear the loudest house in college sports repeat!
 
 [Chorus]
-(Duet)
 Under the Saturday night lights! Inside The Crucible!
 Where the sound of the engine makes us invincible!
 Hear the Forger's Call echoing across the sky!
@@ -82,17 +80,16 @@ We're not just a basement band anymore!
 (Explosive, celebratory 1980s stadium-rock guitar solo backed by triumphant synth brass and thunderous drumline fills)
 
 [Bridge]
-(Cassidy)
+[female]
 Go Forgers! Hear the valley sing!
-(Ryan)
+[male]
 Go CPI! Let the iron bell ring!
-(Cassidy)
+[female]
 That was the night our destiny was cast
-(Ryan)
+[male]
 A Saturday night memory built to last!
 
 [Chorus]
-(Duet)
 Under the Saturday night lights! Inside The Crucible!
 Where the sound of the engine makes us invincible!
 Hear the Forger's Call echoing across the sky!
@@ -101,8 +98,8 @@ When the tunnel opens up and the speakers roar
 We're not just a basement band anymore!
 
 [Outro]
-(Ryan)
+[male]
 Inside The Crucible!
-(Cassidy)
+[female]
 Under the Saturday night lights!
 (Massive stadium drum finale and soaring guitar chord)

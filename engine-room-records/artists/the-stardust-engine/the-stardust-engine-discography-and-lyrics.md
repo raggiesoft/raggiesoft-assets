@@ -1,6 +1,6 @@
 
 # The Stardust Engine - Master Discography & Lore
-Compiled on: 10-25-2026 11:31:25 AM
+Compiled on: 10-25-2026 11:49:48 AM
 
 # Electric Color (1987)
 * **Narrative Era:** 1987
@@ -10087,7 +10087,7 @@ The very first time in history that **"Ignition: The Forger's Call"** was ever p
 (Warm analog synthesizer pad hums beneath the stadium PA)
 
 [Spoken Word Intro]
-(Ryan)
+[male]
 Thirty years ago... we were just five kids in a garage on Progress Street!
 We didn't have a record deal... we didn't have a tour bus...
 All we had was a cassette tape... and an idea!
@@ -10103,17 +10103,17 @@ So tonight... for the Thirtieth Anniversary... let's see if we can break the sei
 (Thunderous stadium drums and 300-piece CPI Marching Forgers brass swell in)
 
 [Call and Response]
-(Ryan)
+[male]
 IGNITION!
 (Crowd)
 IGNITION!
-(Ryan)
+[male]
 IGNITION!
 (Crowd)
 IGNITION!
 
 [Verse 1]
-(Ryan)
+[male]
 The lights go dark, the tension builds!
 A single pounding heavy sound!
 The hammer striking on the steel!
@@ -10124,40 +10124,40 @@ The spark is lit, the fire burns!
 We're taking the anchor back to the mountains!
 
 [Chorus]
-(Ryan)
+[male]
 IGNITION!
 (Crowd)
 IGNITION!
-(Ryan & Cassidy)
+
 This is the Forger's Call!
-(Ryan)
+[male]
 IGNITION!
 (Crowd)
 IGNITION!
-(Ryan & Cassidy)
+
 We're standing ten feet tall!
 We are the hammer, we're the flame!
 This is our house, this is our game!
 
 [Verse 2]
-(Ryan)
+[male]
 Sixty thousand boots upon the iron floor!
 Hear the valley tremble when the Forgers roar!
 Concrete and Ironstone locked inside the night!
 Step into the furnace, step into the light!
 
 [Chorus]
-(Ryan)
+[male]
 IGNITION!
 (Crowd)
 IGNITION!
-(Ryan & Cassidy)
+
 This is the Forger's Call!
-(Ryan)
+[male]
 IGNITION!
 (Crowd)
 IGNITION!
-(Ryan & Cassidy)
+
 We're standing ten feet tall!
 We are the hammer, we're the flame!
 This is our house, this is our game!
@@ -10167,7 +10167,7 @@ This is our house, this is our game!
 
 [Bridge]
 (Half-time marching cadence)
-(Ryan)
+[male]
 Left! Right! Left! Right!
 Feel the earthquake in the night!
 Ride the stomp! Shake the steel!
@@ -10175,28 +10175,28 @@ Make the whole mountain feel!
 
 [Final Chorus]
 (Full Rock Band and 300-Piece CPI Marching Forgers Explosion)
-(Ryan)
+[male]
 IGNITION!
 (Crowd)
 IGNITION!
-(Ryan & Cassidy)
+
 This is the Forger's Call!
-(Ryan)
+[male]
 IGNITION!
 (Crowd)
 IGNITION!
-(Ryan & Cassidy)
+
 We're standing ten feet tall!
 We are the hammer, we're the flame!
 This is our house, this is our game!
 
 [Outro]
 (Blaring 300-horn brass fanfare, ringing steel anvil, and deafening stadium roar)
-(Ryan)
+[male]
 IGNITION!
 (Crowd)
 IGNITION!
-(Ryan)
+[male]
 Welcome home to The Crucible!
 (Sustained E-Minor power chord and pyrotechnic boom)
 
@@ -10247,9 +10247,9 @@ While standard Stardust Engine concerts open directly with **"The Stardust Engin
 
 [Live Stadium Intro]
 (The 300-piece CPI Marching Forgers remain in formation across the stage and field)
-(Cassidy)
+[female]
 Keep the Marching Forgers right here with us!
-(Ryan)
+[male]
 Thirty years ago in 1986, Evan and Tyler walked into our basement and we wrote our very first song together about the cosmos and the rockets that get you there! Let's hear it, CPI!
 
 (Verse 1)
@@ -10319,7 +10319,8 @@ As the Marching Forgers clear the field, the core four-piece band—Cassidy on h
 (Sweeping 1980s analog synthesizer arpeggios panning across the stereo field)
 
 [Spoken Word Intro]
-(Ryan - spoken clearly)
+[male]
+(spoken clearly)
 Guidance is internal.
 T-minus ten... nine... eight...
 Seven... six...
@@ -10331,7 +10332,7 @@ Zero! Liftoff!
 (Explosive 142 BPM palm-muted electric guitar riff and thunderous 80s gated-reverb drums kick in)
 
 [Verse 1]
-(Ryan)
+[male]
 White-hot steam billowing across the pad
 Every ounce of horsepower we ever had
 Three million pounds of thrust beneath the floor
@@ -10342,16 +10343,16 @@ Now the gantry pulls away into the night
 And we're riding on a column of electric light!
 
 [Pre-Chorus]
-(Ryan)
+[male]
 Feel the G-force pressing on your chest!
 Put the titanium airframe to the test!
 (Gang Vocals)
 Roll program! Pitch into the sky!
-(Ryan)
+[male]
 Watch the blue horizon of the earth go by!
 
 [Chorus]
-(Ryan & Gang Chorus)
+(Gang Chorus)
 Main Engine Start! Feel the boosters burn!
 Past the point of hesitation, past no return!
 Through the maroon clouds and the orange flame
@@ -10360,7 +10361,7 @@ Punching through the atmosphere with all our heart
 Hold on to the throttle—it's Main Engine Start!
 
 [Verse 2]
-(Ryan)
+[male]
 Thirty miles up and the sky turns black
 Nothing in the universe can hold us back
 Solid rocket separation, clean and true
@@ -10371,16 +10372,16 @@ A sister on the keys and a sister at the helm
 Crossing the border to a higher realm!
 
 [Pre-Chorus]
-(Ryan)
+[male]
 Feel the G-force pressing on your chest!
 Put the titanium airframe to the test!
 (Gang Vocals)
 Max-Q cleared! Throttle up to full!
-(Ryan)
+[male]
 Breaking every tether of the gravity pull!
 
 [Chorus]
-(Ryan & Gang Chorus)
+(Gang Chorus)
 Main Engine Start! Feel the boosters burn!
 Past the point of hesitation, past no return!
 Through the maroon clouds and the orange flame
@@ -10390,7 +10391,7 @@ Hold on to the throttle—it's Main Engine Start!
 
 [Bridge]
 (Half-time heavy arena rock groove with soaring synthesizer brass)
-(Ryan)
+[male]
 They thought the countdown ended years ago
 Thought the cold dark winter froze the afterglow
 But an engine built for orbit never forgets the stars
@@ -10400,7 +10401,7 @@ Reaching for the heavens where the cosmos are!
 (A soaring, virtuosic 1980s two-hand tapping electric guitar solo over galloping bass and rapid-fire double-kick drums)
 
 [Final Chorus]
-(Ryan & Gang Chorus)
+(Gang Chorus)
 Main Engine Start! Feel the boosters burn!
 Past the point of hesitation, past no return!
 Through the maroon clouds and the orange flame
@@ -10411,7 +10412,7 @@ Hold on to the throttle—it's Main Engine Start!
 [Outro]
 (Gang Vocals)
 Main Engine Start!
-(Ryan)
+[male]
 All thrusters at one hundred and four percent!
 We are in orbit!
 (Final blazing guitar harmonic and gated drum crescendo)
@@ -10660,28 +10661,27 @@ One of the loudest moments of the entire two-hour show. Pointing up at the North
 (Driving overdriven stadium electric guitar riff kicks in at 138 BPM)
 
 [Verse 1]
-(Ryan)
+[male]
 Three hundred sixty-five days with the numbers on the wall
 Stenciled on the mirrors down the weight-room hall
 We kept our focus steady through the winter rain
 Working every morning til we broke the chain
-(Cassidy)
+[female]
 Then we rolled down to the harbor for the autumn crown
 Saw the old numbers printed all across the town
 Banners in the tidewater, music in the street
 Listen to the iron marching down the concrete!
 
 [Pre-Chorus]
-(Ryan)
+[male]
 No holding back today! Keep the starters on the grass!
-(Cassidy)
+[female]
 Every single quarter is a masterclass!
-(Duet)
 From the opening kickoff to the final cheer
 Hear the anvils ringing loud and clear!
 
 [Chorus]
-(Duet & Stadium Gang Vocals)
+(Stadium Gang Vocals)
 Fifty-two to nothing! Put it on the board!
 Hear the mighty thunder of the Forger chord!
 You wore the old numbers on your Homecoming chest
@@ -10692,26 +10692,25 @@ Fifty-two to nothing! Hear the stadium call
 Forger Nation stands above it all!
 
 [Verse 2]
-(Cassidy)
+[female]
 Fourth quarter ticking and the defense holds the line
 Protecting every inch of the goal-line design
-(Ryan)
+[male]
 Maroon and burnt orange in the coastal breeze
 Every single play is a masterpiece!
 From Blacksburg to the harbor, hear the victory song
 This is where the heart of the mountains belongs!
 
 [Pre-Chorus]
-(Cassidy)
+[female]
 No holding back today! Keep the starters on the grass!
-(Ryan)
+[male]
 Every single quarter is a masterclass!
-(Duet)
 From the opening kickoff to the final cheer
 Hear the anvils ringing loud and clear!
 
 [Chorus]
-(Duet & Stadium Gang Vocals)
+(Stadium Gang Vocals)
 Fifty-two to nothing! Put it on the board!
 Hear the mighty thunder of the Forger chord!
 You wore the old numbers on your Homecoming chest
@@ -10726,7 +10725,7 @@ Forger Nation stands above it all!
 (Gang Chant)
 HOLD THAT LINE! STRIKE THAT IRON!
 HOLD THAT LINE! STRIKE THAT IRON!
-(Ryan)
+[male]
 From the weight-room mirror to the scoreboard sky—
 All hail CPI!
 
@@ -10734,7 +10733,7 @@ All hail CPI!
 (Blazing 1980s twin guitar and analog synth duel trading high-speed melodic runs over pounding double-kick drums)
 
 [Final Chorus]
-(Duet & Stadium Gang Vocals)
+(Stadium Gang Vocals)
 Fifty-two to nothing! Put it on the board!
 Hear the mighty thunder of the Forger chord!
 You wore the old numbers on your Homecoming chest
@@ -10744,7 +10743,6 @@ Forger Nation stands above it all!
 
 [Outro]
 (Stadium Brass & Gated Drums)
-(Duet)
 Fifty-two to nothing!
 Go Forgers!
 (Final ringing anvil chime and C-Minor power chord)
@@ -11022,39 +11020,38 @@ The cavalry is here.
 
 ## Our Own Frequency
 ### Lore
-**The Final World Tour & CPI Summer Festival Residency Announcement.** At the midpoint of the two-hour concert, stagehands roll out a warm Persian rug, an acoustic grand piano for Cassidy, and wooden stools for Evan (acoustic bass) and Tyler (cajón & brushes) right at the front lip of the stage—recreating the living room of 2008's *Our Own Frequency*. Before strumming the opening acoustic chords of **"Our Own Frequency"**, Ryan speaks candidly to his alma mater: after twenty-six years of navigating international airports, hotel freight elevators, and global arenas with T10 paraplegia, accommodating his paralysis on world tours has grown harder as they've gotten older, making the *Reignition* tour **the last world tour The Stardust Engine will ever do**. Before the crowd can mourn, Cassidy and Ryan announce the birth of the annual **CPI Summer Festival**—which The Stardust Engine will headline every single summer right here in Blacksburg as a permanent Hometown Residency!
+**Act IV: *Our Own Frequency* — The Intimate Brother & Sister Acoustic Block (Part 1 of 3).** Recorded in complete secrecy in the living room of the Blacksburg house during the middle of the band's decade-long Burnout Hiatus, 2008's *Our Own Frequency* was never toured, promoted, or accompanied by press interviews—Ryan and Cassidy simply uploaded it to the Engine Room Records website on a Tuesday morning with a one-sentence note: *"We're still here, and we're okay."* At the midpoint of *Live at the Crucible*, Evan and Tyler leave the stage completely, and the towering stadium light rigs dim to two solitary warm spotlights at center stage: Ryan in his wheelchair with an acoustic guitar, Cassidy at the piano, and two microphones. For the first time in front of a live audience, brother and sister strip away the stadium walls of sound to share their most private living-room conversation with their CPI family.
 
 ### Lyrics
 
-[Spoken Word Stage Address - The Progress Street Porch]
-(Acoustic grand piano, acoustic guitars, upright acoustic bass, and cajón at the front lip of the stage)
-(Ryan)
-Thank you, Blacksburg. You know, when you're twenty-two years old in a manual wheelchair, you think you can outrun every airport staircase and freight elevator in the world. Now that we're in our fifties... I'll be honest with you, family. This Reignition tour is going to be the last world tour we ever do.
-(Crowd groans softly, then cheers in support)
-(Cassidy)
-Hold on, don't be sad! We aren't quitting music! If Ryan doesn't want to fly around the world anymore, then the world can come to Blacksburg!
-(Ryan)
-Starting next summer, every single year right here at our alma mater, we are headlining the annual CPI Summer Festival! We're staying home!
+[Audience Applause Softens to a Respectful Hush]
+[Single Warm Spotlight on Acoustic Guitar and Piano]
+
+[Spoken Word Intro]
+[female]
+Evan and Tyler are gonna take five backstage for a little bit. Back in two thousand and eight, right in the middle of our ten-year hiatus, Ryan and I couldn't face the cameras or the stadiums anymore. So we locked the front door of our house right down the road on Progress Street, sat down in the living room with just an acoustic guitar, a piano, and two microphones, and recorded an album we never toured.
+[male]
+We just uploaded it on a Tuesday morning with one sentence: "We're still here, and we're okay." We never thought we'd play these three songs in a stadium... but tonight, sixty-five thousand of you feel just like our living room.
 
 [Intro]
-(A warm, inviting acoustic guitar and piano duet intro)
+(A warm, intimate acoustic guitar and piano duet intro in a hushed stadium)
 
 [Verse 1]
-(Cassidy)
+[female]
 They want to paint us in neon light
 They want to tell us how to burn tonight
 But you and me, we know the truth
 They can't buy what we built in our youth
 
 [Verse 2]
-(Ryan)
+[male]
 Turn off the synths, unplug the drum
 Look at the monsters that we have become
 Let's strip it down to the wood and wire
 And build ourselves a signal fire
 
 [Chorus]
-(Duet)
+(Intimate brother and sister vocal harmony over acoustic guitar and piano)
 Just the piano and the six-string strum
 Before the noise and the kingdom come
 No one to tell us how the story ends
@@ -11063,15 +11060,14 @@ On our own frequency
 Just you and me
 
 [Verse 3]
-(Cassidy)
+[female]
 They tried to sell a manufactured dream
 A perfect picture on a glowing screen
-(Ryan)
+[male]
 But all I need is sitting right here
 The melody is finally clear
 
 [Chorus]
-(Duet)
 Just the piano and the six-string strum
 Before the noise and the kingdom come
 No one to tell us how the story ends
@@ -11080,16 +11076,15 @@ On our own frequency
 Just you and me
 
 [Bridge]
-(A soaring, deeply emotional piano and acoustic guitar instrumental duet)
-(Cassidy)
+(A tender, deeply emotional piano and acoustic guitar instrumental duet)
+[female]
 No heavy gloss...
-(Ryan)
+[male]
 No studio boss...
-(Duet)
+[female]
 Just the music we wanted to make!
 
 [Chorus]
-(Duet)
 Just the piano and the six-string strum
 Before the noise and the kingdom come
 No one to tell us how the story ends
@@ -11098,24 +11093,115 @@ On our own frequency
 Just you and me
 
 [Outro]
-(Ryan)
+[male]
 Our own frequency...
-(Cassidy)
+[female]
 Just you and me...
-(Fades out with a lingering piano chord and a soft acoustic strum)
+(Fades out with a lingering piano chord, a soft acoustic strum, and gentle applause across The Crucible)
 
-## Safe Person
+## Brother's Keeper
 ### Lore
-Continuing the intimate *Our Own Frequency* (2008) acoustic block, Ryan and Cassidy perform **"Safe Person"** with just acoustic guitar and grand piano—sixty-five thousand people falling pin-drop quiet inside the loudest stadium in college football.
+**Act IV Centerpiece: *"Brother's Keeper"* — The Intimate Reality of Ryan's ADLs & The Final World Tour / CPI Summer Festival Residency Announcement (Part 2 of 3).** The emotional centerpiece of 2008's *Our Own Frequency* and the most private, vulnerable song Ryan and Cassidy have ever written. *"Brother's Keeper"* is an unflinchingly intimate look at the life-or-death mutual protection between brother and sister and what Cassidy and the family go through every single day taking care of Ryan's **ADLs (Activities of Daily Living)** due to his T10 paralysis—performing his daily toileting requirements and morning anti-atrophy leg stretches, pushing his wheelchair when the road is steep, and sharing a bed pushed against the wall at night with Ryan on the inside and Cassidy sleeping on the outside edge to act as a **human bed-rail** so he doesn't roll off, while Ryan serves as Cassidy's emotional anchor against the overwhelming sensory and psychological toll of the world. Before playing the song in the pin-drop silence of The Crucible, Ryan explains that because of the daily physical toll of those ADLs on the road as they have gotten older, the *Reignition* tour is the **last world tour they will ever do**—and announces that starting next summer, The Stardust Engine will stay home in Blacksburg to headline the annual **CPI Summer Festival** as a permanent Hometown Residency.
 
 ### Lyrics
 
+[Pin-Drop Stadium Silence]
+[Soft Fingerpicked Acoustic Guitar Note]
+
+[Spoken Word Intro]
+[male]
+This next song is the centerpiece of Our Own Frequency, and it's the most private song Cassidy and I have ever written. People look up at a stage and see two hours of lights and guitars. They don't see what T-ten paralysis actually takes behind closed doors. They don't see Cassidy and Evan and Tyler helping me through my daily care and toileting routines, or stretching my legs every morning so they don't atrophy. They don't see how we push the bed against the wall at night so I can sleep on the inside, and my sister sleeps on the outside edge as a human bed rail so I don't roll off in the dark.
+[female]
+And they don't see how you keep me anchored when the world gets too loud for my head to handle. We take care of each other. That's what family does.
+[male]
+Doing all of those daily routines on tour buses and in hotel rooms across the world was one thing when we were twenty-two. Now that we're older... I'm gonna be honest with you, Forger Nation. Accommodating this chair on the road has gotten too hard on my body, and on my family. So this Reignition tour is going to be the last world tour we ever do.
+[Audience Murmurs Softly, Then Applauds Warmly in Support]
+[female]
+Wait—don't be sad! We aren't retiring! If touring the world is too hard on Ryan, then the world can come to Blacksburg! Starting next summer, every single year right here at our alma mater, we're headlining the annual CPI Summer Festival—and sleeping in our own beds on Progress Street every night!
+[Deafening Cheers and Applause Before Hushing Back to Silence]
+[male]
+This is "Brother's Keeper."
+
 [Intro]
-(Gentle, solitary piano intro)
+(A delicate, melancholy grand piano intro)
+(Acoustic guitar joins with a steady, comforting fingerpicked rhythm)
+
+[Verse 1]
+[male]
+They look at the chair and they think it's weak
+They whisper their pity whenever we speak
+But they don't see the mornings, the stretches and pain
+The quiet routines keeping us sane
+[female]
+Sleeping on the edge, a human bed rail
+Catching the other whenever we fail
+
+[Verse 2]
+[female]
+Moving the pieces the body forgot
+Holding the line whenever we're caught
+Being the strength when the daily tasks break
+Giving up comfort for the other one's sake
+[male]
+A brother and a sister, fighting to survive
+The only reason we're staying alive
+
+[Pre-Chorus]
+[female]
+Are we each other's keeper? We'll take the blame
+[male]
+Standing in the fire, walking through the flame
+[female]
+Answering the call when it gets too deep
+[male]
+Guarding all the secrets we're trying to keep
+
+[Chorus]
+(Raw, emotional brother and sister vocal harmony over acoustic guitar and piano)
+We trade all the armor, we trade all the scars
+We built our own world underneath all the stars
+When the body won't work, we become our own feet
+When the pressure is heavy, we make it retreat
+They don't understand the blood in our veins
+We're holding the keys and we're breaking the chains
+
+[Interlude]
+(Intimate, emotional piano and acoustic guitar interlude in the quiet stadium night)
+
+[Verse 3]
+[female]
+Pushing the wheels wherever we go
+[male]
+Being the shelter when bitter winds blow
+
+[Chorus]
+We trade all the armor, we trade all the scars
+We built our own world underneath all the stars
+When the body won't work, we become our own feet
+When the pressure is heavy, we make it retreat
+They don't understand the blood in our veins
+We're holding the keys and we're breaking the chains
+
+[Outro]
+(Harmonizing gently into the two microphones)
+[female]
+We keep each other safe.
+[male]
+We keep each other grounded.
+(Fade out on a single, resonating piano chord as 65,000 fans rise in a deeply moved standing ovation)
+
+## Safe Person
+### Lore
+**Act IV: *Our Own Frequency* — The Intimate Brother & Sister Acoustic Block (Part 3 of 3).** Completing the three-song *Our Own Frequency* (2008) living-room trilogy, **"Safe Person"** answers the physical devotion of *"Brother's Keeper"* by revealing the other half of their unbreakable bond: how Ryan acts as Cassidy's safe person and emotional anchor when the flashing cameras, press questions, and autistic sensory overload threaten to overwhelm her. Performed strictly by Ryan on acoustic guitar and Cassidy at the piano with zero electric amps or stadium lights, sixty-five thousand Forgers hold up quiet white phone lights across the dark bowl of The Crucible.
+
+### Lyrics
+
+[Quiet Stadium Ambience]
+[Gentle, Solitary Piano Intro]
 (Acoustic guitar softly joins the piano)
 
 [Verse 1]
-(Cassidy)
+[female]
 The cameras flash, the questions start to blur
 I smile and nod, playing the character
 But underneath the makeup and the lights
@@ -11124,7 +11210,7 @@ Until I catch your eye across the room
 And suddenly I'm safe inside this tomb
 
 [Verse 2]
-(Ryan)
+[male]
 You never have to wear the mask for me
 I know exactly who you want to be
 When the oxygen gets thin up on the stage
@@ -11133,7 +11219,7 @@ Just breathe and let the heavy armor fall
 I've got you when your back is to the wall
 
 [Chorus]
-(Duet)
+(Heartfelt brother and sister duet over pure acoustic guitar and piano)
 You're my safe person, the calm inside the storm
 The only place I know where I am warm
 We tear down all the idols and the lies
@@ -11142,20 +11228,19 @@ No electric amps, no flashing lights
 Just you and me surviving all the nights
 
 [Interlude]
-(Soft acoustic guitar interlude)
+(Soft, delicate acoustic guitar and piano interlude)
 
 [Verse 3]
-(Cassidy)
+[female]
 You're the only one who sees me clear
 When everything I am begins to disappear
 
 [Verse 4]
-(Ryan)
+[male]
 And you're the melody I've always known
 I'll never let you face the dark alone
 
 [Chorus]
-(Duet)
 You're my safe person, the calm inside the storm
 The only place I know where I am warm
 We tear down all the idols and the lies
@@ -11164,158 +11249,82 @@ No electric amps, no flashing lights
 Just you and me surviving all the nights
 
 [Outro]
-(Cassidy)
+[female]
 You're my safe person...
-(Ryan)
+[male]
 Always.
-(Fade out on a single, resonating acoustic guitar chord)
-
-## Brother's Keeper
-### Lore
-With Evan and Tyler joining on four-part family harmonies around the front-porch microphones, the band performs **"Brother's Keeper"** from 2008's *Our Own Frequency*, celebrating forty years of the O'Connell and Wright siblings standing watch over one another.
-
-### Lyrics
-
-[Intro]
-(A delicate, melancholy piano intro)
-(Acoustic guitar joins with a steady, comforting rhythm)
-
-[Verse 1]
-(Duet or Solo - Organic Routing)
-They look at the chair and they think it's weak
-They whisper their pity whenever we speak
-But they don't see the mornings, the stretches and pain
-The quiet routines keeping us sane
-Sleeping on the edge, a human bed rail
-Catching the other whenever we fail
-
-[Verse 2]
-(Duet or Solo - Organic Routing)
-Moving the pieces the body forgot
-Holding the line whenever we're caught
-Being the strength when the daily tasks break
-Giving up comfort for the other one's sake
-A brother and a sister, fighting to survive
-The only reason we're staying alive
-
-[Pre-Chorus]
-Are we each other's keeper? We'll take the blame
-Standing in the fire, walking through the flame
-Answering the call when it gets too deep
-Guarding all the secrets we're trying to keep
-
-[Chorus]
-(Duet)
-We trade all the armor, we trade all the scars
-We built our own world underneath all the stars
-When the body won't work, we become our own feet
-When the pressure is heavy, we make it retreat
-They don't understand the blood in our veins
-We’re holding the keys and we’re breaking the chains
-
-[Interlude]
-(Emotional piano and acoustic guitar interlude)
-
-[Verse 3]
-Pushing the wheels wherever we go
-Being the shelter when bitter winds blow
-
-[Chorus]
-(Duet)
-We trade all the armor, we trade all the scars
-We built our own world underneath all the stars
-When the body won't work, we become our own feet
-When the pressure is heavy, we make it retreat
-They don't understand the blood in our veins
-We’re holding the keys and we’re breaking the chains
-
-[Outro]
-(Harmonizing gently)
-We keep each other safe.
-We keep each other grounded.
-(Fade out on a single, resonating piano chord)
+(Fade out on a single, resonating acoustic guitar chord followed by a warm, roaring ovation as the stadium applause swells)
 
 ## Echoes in the Wire
 ### Lore
-Bridging out of the acoustic block back into full stadium rock—and permanently occupying the emotional ballad slot because 1989's *"If You Walked Away"* is strictly banned from all post-1990 concerts to protect Cassidy from autistic sensory/abandonment overload—**"Echoes in the Wire"** (from 1997's *Hard Reset*) begins intimately at Cassidy's acoustic grand piano before Evan, Tyler, and Ryan's full electric stadium rig explodes back in on the second chorus.
+**Act V Opener: Full-Band Electric Return (Permanently Replacing *"If You Walked Away"*).** Following the three-song *Our Own Frequency* brother-and-sister acoustic block, Evan and Tyler walk back onto the stage and strap on their electric bass and drum kit. Because 1989's *"If You Walked Away"* is permanently banned from all post-1990 Stardust Engine concerts to protect Cassidy from autistic sensory and abandonment overload, **"Echoes in the Wire"** (from 1997's *Hard Reset*) holds the emotional power-ballad spotlight—beginning at Cassidy's grand piano before Evan, Tyler, and Ryan's full electric stadium rig roars back to life.
 
 ### Lyrics
 
+[Live Stadium Ambience]
 [Intro]
-*(A sweeping, atmospheric synthesizer pad swells into the silence, soon joined by a slow, heavy, echoing drum beat. A clean, chorus-drenched electric guitar picks out a gentle, reflective melody.)*
+(A lone, echoing piano plays a simple, sad melody in the dark stadium)
+(A warm, analog synth pad swells underneath)
 
 [Verse 1]
-The dust is settling on the stage
-We finally turned the heavy page
-I see the shadows on the wall
-Standing quiet after the fall
-All the static faded out
-Leaving nothing but the doubt
-
-[Pre-Chorus]
-But in the quiet, I can hear
-A frequency coming clear
-We made it through the longest night
-Now we're standing in the light
+[female]
+I found an old cassette inside a box today
+The tape was tangled, worn, and faded gray
+I pressed "play" and heard the static hiss
+A ghost of a melody I didn't know I'd miss
+It's the sound of a basement in eighty-five
+When the music was the only thing keeping us alive
 
 [Chorus]
-We're just echoes in the wire
-Sparks escaping from the fire
-Hold on to the memory
-Of who we used to be
-When the world is standing still
-I know we always will
-Leave a shadow in the sound
-Whenever we come down
+(A slow, heavy, gated-reverb drum beat kicks in as the full electric band returns)
+(65,000 stadium lights sway in the dark)
+There are echoes in the wire!
+Shadows of a long-forgotten fire!
+We're older now, the scars are deep
+We've got promises we couldn't keep
+Yeah, the signal's weak, the line is frayed
+From all the mistakes that we have made
+Just echoes... echoes in the wire.
 
 [Verse 2]
-Ten thousand voices in the dark
-Leaving a temporary mark
-We traded time for something real
-A kind of gravity you feel
-The city sleeping far below
-We're glowing in the afterglow
-
-[Pre-Chorus]
-And in the quiet, I can hear
-A frequency coming clear
-We made it through the longest night
-Now we're standing in the light
+[male]
+I look across the console at my sister's face
+We're survivors of a brutal, high-speed race
+We lost the rhythm, yeah, we lost the beat
+On a dark and frozen Midwest street
+Now I play my part from a different seat
+Trying to make this broken song complete
 
 [Chorus]
-We're just echoes in the wire
-Sparks escaping from the fire
-Hold on to the memory
-Of who we used to be
-When the world is standing still
-I know we always will
-Leave a shadow in the sound
-Whenever we come down
+(Full stadium power-ballad eruption with distorted electric guitar and soaring synths)
+There are echoes in the wire!
+Shadows of a long-forgotten fire!
+We're older now, the scars are deep
+We've got promises we couldn't keep
+Yeah, the signal's weak, the line is frayed
+From all the mistakes that we have made
+Just echoes... echoes in the wire.
 
 [Guitar Solo]
-*(The drums open up into a massive, booming half-time groove. Ryan steps forward and delivers a soaring, highly emotional power-ballad guitar solo, holding long, weeping notes that echo into the rafters.)*
+(A slow, weeping, deeply emotional electric guitar solo with heavy sustain and delay echoing off the stadium concrete)
 
 [Bridge]
-No more running from the ghost
-We're holding on to what matters most
-The silence is a kind of song
-Telling us where we belong
-
-[Chorus]
-We're just echoes in the wire
-Sparks escaping from the fire
-Hold on to the memory
-Of who we used to be
-When the world is standing still
-I know we always will
-Leave a shadow in the sound
-Whenever we come down
+(The music drops back to just the piano and a soft bass pulse)
+[female]
+Can you hear me on the other end?
+My brother, my anchor, my only friend?
+[male]
+The static's loud, the night is long
+[female]
+Let's help each other finish this song.
 
 [Outro]
-Echoes in the wire.
-Fading in the dark.
-Leaving our mark.
-*(The heavy drums drop out, leaving only Cassidy's gentle synthesizer pad and a final, clean guitar chord slowly fading into the darkness.)*
+(The piano melody repeats, slowly joined by the warm synth pad)
+[male]
+Echoes in the wire...
+[female]
+Still burning...
+(The synth pad swells to a warm, unresolved chord and fades into the roar of The Crucible)
 
 ## Saturday Night Lights: The Crucible
 ### Lore
@@ -11325,9 +11334,9 @@ Leaving our mark.
 
 [Spoken Word Intro - Live Concert Debut]
 (The four towering Ironstone floodlight banks of The Crucible blaze at full Saturday night power)
-(Ryan)
+[male]
 Back in October 2004, we snuck a gold CD into that press box up there for the fourth quarter against Monongahela State!
-(Cassidy)
+[female]
 And we made a sacred vow that we would NEVER play this song live anywhere on Earth except inside these four walls! For the very first time in concert... welcome to Saturday Night Lights inside The Crucible!
 
 [Intro]
@@ -11335,29 +11344,28 @@ And we made a sacred vow that we would NEVER play this song live anywhere on Ear
 (Roaring electric guitar riff kicks in with massive gated-reverb drums)
 
 [Verse 1]
-(Ryan)
+[male]
 October eighty-six and the mountain air is cold
 A student contest flyer printed out in bold
-(Cassidy)
+[female]
 They asked for a brand new anthem to shake the autumn night
 A song to lead the Forgers out into the stadium light!
-(Ryan)
+[male]
 We rolled the tape machine into our basement room
-(Cassidy)
+[female]
 And wrote a thunderclap to make the valley boom!
 
 [Pre-Chorus]
-(Ryan)
+[male]
 Sixty thousand standing in the maroon and orange sea!
-(Cassidy)
+[female]
 Waiting for the signal at CPI with me!
-(Ryan)
+[male]
 Feel the concrete tremble underneath your feet!
-(Cassidy)
+[female]
 Hear the loudest house in college sports repeat!
 
 [Chorus]
-(Duet)
 Under the Saturday night lights! Inside The Crucible!
 Where the sound of the engine makes us invincible!
 Hear the Forger's Call echoing across the sky!
@@ -11366,31 +11374,30 @@ When the tunnel opens up and the speakers roar
 We're not just a basement band anymore!
 
 [Verse 2]
-(Cassidy)
+[female]
 Tyler on the drums like a marching thunder line
-(Ryan)
+[male]
 Evan on the bass keeping clockwork time
-(Cassidy)
+[female]
 Analog synths rising like a rocket on the pad
-(Ryan)
+[male]
 Pouring out every ounce of fire that we had!
-(Cassidy)
+[female]
 From the press box roof down to the fifty-yard line
-(Ryan)
+[male]
 Sixty thousand voices singing every single line!
 
 [Pre-Chorus]
-(Ryan)
+[male]
 Sixty thousand standing in the maroon and orange sea!
-(Cassidy)
+[female]
 Waiting for the signal at CPI with me!
-(Ryan)
+[male]
 Feel the concrete tremble underneath your feet!
-(Cassidy)
+[female]
 Hear the loudest house in college sports repeat!
 
 [Chorus]
-(Duet)
 Under the Saturday night lights! Inside The Crucible!
 Where the sound of the engine makes us invincible!
 Hear the Forger's Call echoing across the sky!
@@ -11402,17 +11409,16 @@ We're not just a basement band anymore!
 (Explosive, celebratory 1980s stadium-rock guitar solo backed by triumphant synth brass and thunderous drumline fills)
 
 [Bridge]
-(Cassidy)
+[female]
 Go Forgers! Hear the valley sing!
-(Ryan)
+[male]
 Go CPI! Let the iron bell ring!
-(Cassidy)
+[female]
 That was the night our destiny was cast
-(Ryan)
+[male]
 A Saturday night memory built to last!
 
 [Chorus]
-(Duet)
 Under the Saturday night lights! Inside The Crucible!
 Where the sound of the engine makes us invincible!
 Hear the Forger's Call echoing across the sky!
@@ -11421,9 +11427,9 @@ When the tunnel opens up and the speakers roar
 We're not just a basement band anymore!
 
 [Outro]
-(Ryan)
+[male]
 Inside The Crucible!
-(Cassidy)
+[female]
 Under the Saturday night lights!
 (Massive stadium drum finale and soaring guitar chord)
 
@@ -11439,29 +11445,28 @@ Singing about the house on Progress Street NE just a mile and a half north of th
 (Melodic electric guitar harmonizes with the keyboard riff)
 
 [Verse 1]
-(Ryan)
+[male]
 Porch light burning through the mountain haze
 Autumn wind blowing through the college days
 Two amps humming through a plaster wall
 Chasing down a dream down a narrow hall
-(Cassidy)
+[female]
 Five pairs of sneakers by the front screen door
 Tangled up cables on the living room floor
 We didn't have a dime, we didn't have a plan
 Just a family promise where the fire began!
 
 [Pre-Chorus]
-(Ryan)
+[male]
 The town goes quiet when the sun goes down
-(Cassidy)
+[female]
 But the basement's shaking in this mountain town!
-(Ryan)
+[male]
 Turn the dials up to ten!
-(Cassidy)
+[female]
 Take us back to where we started then!
 
 [Chorus]
-(Duet)
 Down on Progress Street! Where the engines roar!
 We were building up a world behind a locked front door!
 Every chord we struck, every dream we made
@@ -11470,29 +11475,28 @@ From a living room spark to the stadium heat
 It all started beating down on Progress Street!
 
 [Verse 2]
-(Cassidy)
+[female]
 Twin brothers locking in the rhythm and the pace
 Shaking every window in this quiet place
-(Ryan)
+[male]
 Younger sister holding all the notebooks tight
 Keeping us together through the longest night
-(Cassidy)
+[female]
 Maroon and orange on our faded sleeves
-(Ryan)
+[male]
 Singing out a reckless kind of melody that believes!
 
 [Pre-Chorus]
-(Cassidy)
+[female]
 The years roll by like a highway train
-(Ryan)
+[male]
 Through the blinding sun and the pouring rain!
-(Cassidy)
+[female]
 Turn the dials up to ten!
-(Ryan)
+[male]
 Let the whole valley hear us once again!
 
 [Chorus]
-(Duet)
 Down on Progress Street! Where the engines roar!
 We were building up a world behind a locked front door!
 Every chord we struck, every dream we made
@@ -11502,13 +11506,13 @@ It all started beating down on Progress Street!
 
 [Bridge]
 (Music drops to a warm, pulsing analog synth pad and steady kick drum)
-(Cassidy)
+[female]
 Twenty years of highways, twenty years of miles
-(Ryan)
+[male]
 Through the broken promises and the crowded aisles
-(Cassidy)
+[female]
 When the static gets loud and the road gets long
-(Ryan)
+[male]
 We come back home to the very first song!
 (Massive drum crescendo builds)
 
@@ -11516,7 +11520,6 @@ We come back home to the very first song!
 (Soaring, uplifting 1980s arena-rock electric guitar solo trading melodies with a bright analog synthesizer lead)
 
 [Chorus]
-(Duet)
 Down on Progress Street! Where the engines roar!
 We were building up a world behind a locked front door!
 Every chord we struck, every dream we made
@@ -11525,11 +11528,10 @@ From a living room spark to the stadium heat
 It all started beating down on Progress Street!
 
 [Outro]
-(Ryan)
+[male]
 Down on Progress Street!
-(Cassidy)
+[female]
 Where the fire began!
-(Duet)
 Five hearts beating as one!
 (Triumphant final stadium rock chord and massive drum crash fade out)
 
@@ -11662,35 +11664,34 @@ The triumphant opening title anthem of 2015's *Reignition*, celebrating the fami
 (Massive, pounding 80s gated-reverb snare drum roll and driving eighth-note bassline kick in)
 
 [Spoken Word Intro]
-(Cassidy - warm, smiling)
+[female]
+(warm, smiling)
 Good morning, Forger Nation.
-(Ryan)
+[male]
 The switches are back on! Let's go!
 
 [Verse 1]
-(Ryan)
+[male]
 Ten years of quiet down a mountain lane
 Watching the seasons wash the windowpane
 We hung the guitars on the living room wall
 Let the silence heal us down the narrow hall
-(Cassidy)
+[female]
 We kept the promise that we made that night
 Turned down the dimmers on the blinding light
 No broken pieces, no fading away
 We were just resting for a brand new day!
 
 [Pre-Chorus]
-(Ryan)
+[male]
 Feel the transformers hum beneath the floor!
-(Cassidy)
+[female]
 Hear the twin rhythm knocking at the door!
-(Ryan)
+[male]
 Every tube is glowing cherry red!
-(Duet)
 And every word we left unsaid is waking up ahead!
 
 [Chorus]
-(Duet)
 This is Reignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
 Lights on on Progress Street, the fire's burning bright
@@ -11701,31 +11702,29 @@ This is Reignition! Hear the thrusters roar!
 We're lighting up the valley like we did before!
 
 [Verse 2]
-(Cassidy)
+[female]
 My Juno keys are warm beneath my hands
 Ready for the stages in a hundred lands
-(Ryan)
+[male]
 Locked my wheels in place beside the microphone
 Never had to roll a single mile alone
-(Cassidy)
+[female]
 Evan on the bassline, Tyler on the snare
-(Ryan)
+[male]
 Holly in the corner with a fortress to spare!
 Five hearts beating on the very same floor
 Opening the locks upon the studio door!
 
 [Pre-Chorus]
-(Cassidy)
+[female]
 Feel the transformers hum beneath the floor!
-(Ryan)
+[male]
 Hear the twin rhythm knocking at the door!
-(Cassidy)
+[female]
 Every tube is glowing cherry red!
-(Duet)
 And every dream we ever led is wide awake ahead!
 
 [Chorus]
-(Duet)
 This is Reignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
 Lights on on Progress Street, the fire's burning bright
@@ -11737,20 +11736,20 @@ We're lighting up the valley like we did before!
 
 [Bridge]
 (Music drops to pulsing analog synth pad and steady kick drum)
-(Cassidy)
+[female]
 We didn't burn out, we just took our time
-(Ryan)
+[male]
 Saved every spark for the second climb
-(Cassidy)
+[female]
 Now the meters are pinning in the crimson zone!
-(Ryan)
+[male]
 Blacksburg, Virginia—your band is home!
 
 [Guitar & Synthesizer Solo]
 (A soaring, melodic 1980s AOR electric guitar solo trading triumphant phrases with a bright polyphonic analog synthesizer lead)
 
 [Final Chorus]
-(Duet - Full Stadium Energy)
+(Full Stadium Energy)
 This is Reignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
 Lights on on Progress Street, the fire's burning bright
@@ -11762,9 +11761,9 @@ We're lighting up the valley forevermore!
 
 [Outro]
 (Soaring twin guitar and synth harmony over pounding gated drums)
-(Cassidy)
+[female]
 Lights on on Progress Street!
-(Ryan)
+[male]
 The fire is back!
 (Final ringing D-Major stadium power chord and gong crash)
 
@@ -11779,26 +11778,25 @@ The fire is back!
 (A melodic, crying electric guitar lead plays a nostalgic theme)
 
 [Verse 1]
-(Ryan)
+[male]
 The final spotlight fades across the empty arena floor
 The road cases are latched and rolled outside the stage door
-(Cassidy)
+[female]
 For twenty years we gave the world the thunder in our chest
 Now the highway's calling us to finally take our rest
-(Ryan)
+[male]
 Our custom low-floor shuttle bus is kneeling at the curb
-(Cassidy)
+[female]
 Leading to a quiet place the static can't disturb.
 
 [Pre-Chorus]
-(Ryan)
+[male]
 Aluminum ramp unfolds beneath the amber sign
-(Cassidy)
+[female]
 Five of us together at the end of the line!
 
 [Chorus]
 (Massive 80s gated-reverb drums and soaring stadium guitars swell in)
-(Duet)
 We're taking the last bus home! Back to Progress Street!
 Turning off the amplifiers and the stadium heat!
 Lock the front door tight and let the curtains fall
@@ -11807,21 +11805,20 @@ Through every storm we weathered and every song we played
 This family is the greatest music that we ever made!
 
 [Verse 2]
-(Cassidy)
+[female]
 Unplug the synthesizers, set the guitars in their stands
-(Ryan)
+[male]
 Rest the tired voices and the callused, aching hands
-(Cassidy)
+[female]
 Five pairs of sneakers lined up by the wooden stairs
-(Ryan)
+[male]
 Trading all the crowded rooms for quiet living room chairs
-(Cassidy)
+[female]
 We're not fading into nothing, we're just tuning out the noise
-(Ryan)
+[male]
 Back to three sisters and brothers and the twin Wright boys!
 
 [Chorus]
-(Duet)
 We're taking the last bus home! Back to Progress Street!
 Turning off the amplifiers and the stadium heat!
 Lock the front door tight and let the curtains fall
@@ -11831,20 +11828,19 @@ This family is the greatest music that we ever made!
 
 [Bridge]
 (Music softens to warm piano and glowing synth strings)
-(Cassidy)
+[female]
 Someday when we're ready, we'll turn the switches on
-(Ryan)
+[male]
 And find out that the fire in the engine's never gone
-(Cassidy)
+[female]
 But tonight the porch light's turning off in Blacksburg town
-(Ryan)
+[male]
 As we lay the heavy burden of the road right down!
 
 [Guitar Solo]
 (Epic, extended, deeply emotional 1980s stadium-rock guitar solo soaring over grand piano chords, lush analog synth pads, and massive slow gated-reverb drums)
 
 [Final Chorus]
-(Duet)
 We're taking the last bus home! Back to Progress Street!
 Turning off the amplifiers and the stadium heat!
 Lock the front door tight and let the curtains fall
@@ -11854,9 +11850,9 @@ This family is the greatest music that we ever made!
 
 [Outro]
 (Drums and guitars slowly fade out, leaving only the upright piano and a gentle acoustic guitar chord)
-(Cassidy)
+[female]
 Lights out on Progress Street...
-(Ryan)
+[male]
 Goodnight, Forger Nation.
 (A warm, sustained piano and analog synth chord slowly fades into silence)
 

@@ -175,38 +175,38 @@
       "isrc": "",
       "masterWavPath": "live/2016-live-at-the-crucible/1-14-our-own-frequency",
       "disc": 1,
-      "discName": "Act IV: The Progress Street Porch (Acoustic Block)",
+      "discName": "Act IV: Our Own Frequency (Intimate Acoustic Block)",
       "track": 14,
-      "suiteName": "Act IV: The Progress Street Porch (Acoustic)",
+      "suiteName": "Act IV: Our Own Frequency (Acoustic)",
       "suiteTrack": "1",
       "legacyTier": "Fan Favorite",
-      "loreNote": "**The Final World Tour & CPI Summer Festival Residency Announcement.** At the midpoint of the two-hour concert, stagehands roll out a warm Persian rug, an acoustic grand piano for Cassidy, and wooden stools for Evan (acoustic bass) and Tyler (cajón & brushes) right at the front lip of the stage—recreating the living room of 2008's *Our Own Frequency*. Before strumming the opening acoustic chords of **\"Our Own Frequency\"**, Ryan speaks candidly to his alma mater: after twenty-six years of navigating international airports, hotel freight elevators, and global arenas with T10 paraplegia, accommodating his paralysis on world tours has grown harder as they've gotten older, making the *Reignition* tour **the last world tour The Stardust Engine will ever do**. Before the crowd can mourn, Cassidy and Ryan announce the birth of the annual **CPI Summer Festival**—which The Stardust Engine will headline every single summer right here in Blacksburg as a permanent Hometown Residency!"
+      "loreNote": "**Act IV: *Our Own Frequency* — The Intimate Brother & Sister Acoustic Block (Part 1 of 3).** Recorded in complete secrecy in the living room of the Blacksburg house during the middle of the band's decade-long Burnout Hiatus, 2008's *Our Own Frequency* was never toured, promoted, or accompanied by press interviews—Ryan and Cassidy simply uploaded it to the Engine Room Records website on a Tuesday morning with a one-sentence note: *\"We're still here, and we're okay.\"* At the midpoint of *Live at the Crucible*, Evan and Tyler leave the stage completely, and the towering stadium light rigs dim to two solitary warm spotlights at center stage: Ryan in his wheelchair with an acoustic guitar, Cassidy at the piano, and two microphones. For the first time in front of a live audience, brother and sister strip away the stadium walls of sound to share their most private living-room conversation with their CPI family."
     },
     {
-      "fileName": "1-15-safe-person",
-      "title": "Safe Person",
-      "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/1-15-safe-person",
-      "disc": 1,
-      "discName": "Act IV: The Progress Street Porch (Acoustic Block)",
-      "track": 15,
-      "suiteName": "Act IV: The Progress Street Porch (Acoustic)",
-      "suiteTrack": "2",
-      "legacyTier": "Fan Anthem",
-      "loreNote": "Continuing the intimate *Our Own Frequency* (2008) acoustic block, Ryan and Cassidy perform **\"Safe Person\"** with just acoustic guitar and grand piano—sixty-five thousand people falling pin-drop quiet inside the loudest stadium in college football."
-    },
-    {
-      "fileName": "1-16-brothers-keeper",
+      "fileName": "1-15-brothers-keeper",
       "title": "Brother's Keeper",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/1-16-brothers-keeper",
+      "masterWavPath": "live/2016-live-at-the-crucible/1-15-brothers-keeper",
       "disc": 1,
-      "discName": "Act IV: The Progress Street Porch (Acoustic Block)",
+      "discName": "Act IV: Our Own Frequency (Intimate Acoustic Block)",
+      "track": 15,
+      "suiteName": "Act IV: Our Own Frequency (Acoustic)",
+      "suiteTrack": "2",
+      "legacyTier": "Fan Anthem",
+      "loreNote": "**Act IV Centerpiece: *\"Brother's Keeper\"* — The Intimate Reality of Ryan's ADLs & The Final World Tour / CPI Summer Festival Residency Announcement (Part 2 of 3).** The emotional centerpiece of 2008's *Our Own Frequency* and the most private, vulnerable song Ryan and Cassidy have ever written. *\"Brother's Keeper\"* is an unflinchingly intimate look at the life-or-death mutual protection between brother and sister and what Cassidy and the family go through every single day taking care of Ryan's **ADLs (Activities of Daily Living)** due to his T10 paralysis—performing his daily toileting requirements and morning anti-atrophy leg stretches, pushing his wheelchair when the road is steep, and sharing a bed pushed against the wall at night with Ryan on the inside and Cassidy sleeping on the outside edge to act as a **human bed-rail** so he doesn't roll off, while Ryan serves as Cassidy's emotional anchor against the overwhelming sensory and psychological toll of the world. Before playing the song in the pin-drop silence of The Crucible, Ryan explains that because of the daily physical toll of those ADLs on the road as they have gotten older, the *Reignition* tour is the **last world tour they will ever do**—and announces that starting next summer, The Stardust Engine will stay home in Blacksburg to headline the annual **CPI Summer Festival** as a permanent Hometown Residency."
+    },
+    {
+      "fileName": "1-16-safe-person",
+      "title": "Safe Person",
+      "isrc": "",
+      "masterWavPath": "live/2016-live-at-the-crucible/1-16-safe-person",
+      "disc": 1,
+      "discName": "Act IV: Our Own Frequency (Intimate Acoustic Block)",
       "track": 16,
-      "suiteName": "Act IV: The Progress Street Porch (Acoustic)",
+      "suiteName": "Act IV: Our Own Frequency (Acoustic)",
       "suiteTrack": "3",
-      "legacyTier": "Deep Cut",
-      "loreNote": "With Evan and Tyler joining on four-part family harmonies around the front-porch microphones, the band performs **\"Brother's Keeper\"** from 2008's *Our Own Frequency*, celebrating forty years of the O'Connell and Wright siblings standing watch over one another."
+      "legacyTier": "Fan Anthem",
+      "loreNote": "**Act IV: *Our Own Frequency* — The Intimate Brother & Sister Acoustic Block (Part 3 of 3).** Completing the three-song *Our Own Frequency* (2008) living-room trilogy, **\"Safe Person\"** answers the physical devotion of *\"Brother's Keeper\"* by revealing the other half of their unbreakable bond: how Ryan acts as Cassidy's safe person and emotional anchor when the flashing cameras, press questions, and autistic sensory overload threaten to overwhelm her. Performed strictly by Ryan on acoustic guitar and Cassidy at the piano with zero electric amps or stadium lights, sixty-five thousand Forgers hold up quiet white phone lights across the dark bowl of The Crucible."
     },
     {
       "fileName": "1-17-echoes-in-the-wire",
@@ -214,12 +214,12 @@
       "isrc": "",
       "masterWavPath": "live/2016-live-at-the-crucible/1-17-echoes-in-the-wire",
       "disc": 1,
-      "discName": "Act IV: The Progress Street Porch (Acoustic Block)",
+      "discName": "Act V: Saturday Night Lights & The Homecoming Sprint",
       "track": 17,
-      "suiteName": "Act IV: The Progress Street Porch (Acoustic)",
-      "suiteTrack": "4",
+      "suiteName": "Act V: Homecoming Sprint",
+      "suiteTrack": "1",
       "legacyTier": "Chart Smash",
-      "loreNote": "Bridging out of the acoustic block back into full stadium rock—and permanently occupying the emotional ballad slot because 1989's *\"If You Walked Away\"* is strictly banned from all post-1990 concerts to protect Cassidy from autistic sensory/abandonment overload—**\"Echoes in the Wire\"** (from 1997's *Hard Reset*) begins intimately at Cassidy's acoustic grand piano before Evan, Tyler, and Ryan's full electric stadium rig explodes back in on the second chorus."
+      "loreNote": "**Act V Opener: Full-Band Electric Return (Permanently Replacing *\"If You Walked Away\"*).** Following the three-song *Our Own Frequency* brother-and-sister acoustic block, Evan and Tyler walk back onto the stage and strap on their electric bass and drum kit. Because 1989's *\"If You Walked Away\"* is permanently banned from all post-1990 Stardust Engine concerts to protect Cassidy from autistic sensory and abandonment overload, **\"Echoes in the Wire\"** (from 1997's *Hard Reset*) holds the emotional power-ballad spotlight—beginning at Cassidy's grand piano before Evan, Tyler, and Ryan's full electric stadium rig roars back to life."
     },
     {
       "fileName": "1-18-saturday-night-lights-the-crucible",
@@ -230,7 +230,7 @@
       "discName": "Act V: Saturday Night Lights & The Homecoming Sprint",
       "track": 18,
       "suiteName": "Act V: Homecoming Sprint",
-      "suiteTrack": "1",
+      "suiteTrack": "2",
       "legacyTier": "Stadium Classic",
       "loreNote": "**THE LIVE CONCERT DEBUT.** Although the studio recording of **\"Saturday Night Lights: The Crucible\"** (from 2004's *Progress Street*) first blasted over the stadium PA between the 3rd and 4th quarters on October 8, 2004, the band vowed they would **ONLY ever perform the song live when playing inside The Crucible** (deliberately omitting it even from 2005's *Live in Norfolk*). As the four massive Ironstone floodlight towers blaze at 100% power to kick off the fourth-quarter sprint of the concert, The Stardust Engine unleashes the live concert debut of *\"Saturday Night Lights: The Crucible\"* to a 65,000-voice roar of *\"GO FORGERS! GO CPI!\"*"
     },
@@ -243,7 +243,7 @@
       "discName": "Act V: Saturday Night Lights & The Homecoming Sprint",
       "track": 19,
       "suiteName": "Act V: Homecoming Sprint",
-      "suiteTrack": "2",
+      "suiteTrack": "3",
       "legacyTier": "Fan Anthem",
       "loreNote": "Singing about the house on Progress Street NE just a mile and a half north of the stadium, Ryan and Cassidy lead the entire lower bowl and student section in a jubilant 1980s AOR hometown singalong."
     },
@@ -256,7 +256,7 @@
       "discName": "Act V: Saturday Night Lights & The Homecoming Sprint",
       "track": 20,
       "suiteName": "Act V: Homecoming Sprint",
-      "suiteTrack": "3",
+      "suiteTrack": "4",
       "legacyTier": "Chart Smash",
       "loreNote": "The band's 1989 hit title track, performed with the soaring 1980s arena-rock guitars and analog synth brass the band always wanted."
     },
@@ -269,7 +269,7 @@
       "discName": "Act V: Saturday Night Lights & The Homecoming Sprint",
       "track": 21,
       "suiteName": "Act V: Homecoming Sprint",
-      "suiteTrack": "4",
+      "suiteTrack": "5",
       "legacyTier": "Chart Smash",
       "loreNote": "One of the signature anthems from 1987's *Electric Color*, with 65,000 voices singing every word of the chorus back to the stage."
     },
@@ -282,7 +282,7 @@
       "discName": "Act V: Saturday Night Lights & The Homecoming Sprint",
       "track": 22,
       "suiteName": "Act V: Homecoming Sprint",
-      "suiteTrack": "5",
+      "suiteTrack": "6",
       "legacyTier": "Fan Anthem",
       "loreNote": "The triumphant opening title anthem of 2015's *Reignition*, celebrating the family's return from their ten-year Burnout Hiatus and the permanent homecoming ahead in Blacksburg."
     },
@@ -295,7 +295,7 @@
       "discName": "Act V: Saturday Night Lights & The Homecoming Sprint",
       "track": 23,
       "suiteName": "Act V: Homecoming Sprint",
-      "suiteTrack": "6",
+      "suiteTrack": "7",
       "legacyTier": "Fan Anthem",
       "loreNote": "**THE FALSE ENDING.** To close what the audience believes is the end of the concert (and the final stop of their last world tour before beginning their annual CPI Summer Festival residency), the band performs the grand stadium power-ballad finale of 2004's *Progress Street*. As the drums and guitars slowly fade to a lone upright piano chord, Cassidy whispers *\"Lights out on Progress Street...\"*, Ryan says *\"Goodnight, Forger Nation,\"* and every stage light and Jumbotron screen inside The Crucible cuts to pitch black—convincing 65,000 fans that the concert is over."
     },

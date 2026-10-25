@@ -8,7 +8,7 @@ The very first time in history that **"Ignition: The Forger's Call"** was ever p
 (Warm analog synthesizer pad hums beneath the stadium PA)
 
 [Spoken Word Intro]
-(Ryan)
+[male]
 Thirty years ago... we were just five kids in a garage on Progress Street!
 We didn't have a record deal... we didn't have a tour bus...
 All we had was a cassette tape... and an idea!
@@ -24,17 +24,17 @@ So tonight... for the Thirtieth Anniversary... let's see if we can break the sei
 (Thunderous stadium drums and 300-piece CPI Marching Forgers brass swell in)
 
 [Call and Response]
-(Ryan)
+[male]
 IGNITION!
 (Crowd)
 IGNITION!
-(Ryan)
+[male]
 IGNITION!
 (Crowd)
 IGNITION!
 
 [Verse 1]
-(Ryan)
+[male]
 The lights go dark, the tension builds!
 A single pounding heavy sound!
 The hammer striking on the steel!
@@ -45,40 +45,40 @@ The spark is lit, the fire burns!
 We're taking the anchor back to the mountains!
 
 [Chorus]
-(Ryan)
+[male]
 IGNITION!
 (Crowd)
 IGNITION!
-(Ryan & Cassidy)
+
 This is the Forger's Call!
-(Ryan)
+[male]
 IGNITION!
 (Crowd)
 IGNITION!
-(Ryan & Cassidy)
+
 We're standing ten feet tall!
 We are the hammer, we're the flame!
 This is our house, this is our game!
 
 [Verse 2]
-(Ryan)
+[male]
 Sixty thousand boots upon the iron floor!
 Hear the valley tremble when the Forgers roar!
 Concrete and Ironstone locked inside the night!
 Step into the furnace, step into the light!
 
 [Chorus]
-(Ryan)
+[male]
 IGNITION!
 (Crowd)
 IGNITION!
-(Ryan & Cassidy)
+
 This is the Forger's Call!
-(Ryan)
+[male]
 IGNITION!
 (Crowd)
 IGNITION!
-(Ryan & Cassidy)
+
 We're standing ten feet tall!
 We are the hammer, we're the flame!
 This is our house, this is our game!
@@ -88,7 +88,7 @@ This is our house, this is our game!
 
 [Bridge]
 (Half-time marching cadence)
-(Ryan)
+[male]
 Left! Right! Left! Right!
 Feel the earthquake in the night!
 Ride the stomp! Shake the steel!
@@ -96,28 +96,28 @@ Make the whole mountain feel!
 
 [Final Chorus]
 (Full Rock Band and 300-Piece CPI Marching Forgers Explosion)
-(Ryan)
+[male]
 IGNITION!
 (Crowd)
 IGNITION!
-(Ryan & Cassidy)
+
 This is the Forger's Call!
-(Ryan)
+[male]
 IGNITION!
 (Crowd)
 IGNITION!
-(Ryan & Cassidy)
+
 We're standing ten feet tall!
 We are the hammer, we're the flame!
 This is our house, this is our game!
 
 [Outro]
 (Blaring 300-horn brass fanfare, ringing steel anvil, and deafening stadium roar)
-(Ryan)
+[male]
 IGNITION!
 (Crowd)
 IGNITION!
-(Ryan)
+[male]
 Welcome home to The Crucible!
 (Sustained E-Minor power chord and pyrotechnic boom)
 

@@ -9,28 +9,27 @@ One of the loudest moments of the entire two-hour show. Pointing up at the North
 (Driving overdriven stadium electric guitar riff kicks in at 138 BPM)
 
 [Verse 1]
-(Ryan)
+[male]
 Three hundred sixty-five days with the numbers on the wall
 Stenciled on the mirrors down the weight-room hall
 We kept our focus steady through the winter rain
 Working every morning til we broke the chain
-(Cassidy)
+[female]
 Then we rolled down to the harbor for the autumn crown
 Saw the old numbers printed all across the town
 Banners in the tidewater, music in the street
 Listen to the iron marching down the concrete!
 
 [Pre-Chorus]
-(Ryan)
+[male]
 No holding back today! Keep the starters on the grass!
-(Cassidy)
+[female]
 Every single quarter is a masterclass!
-(Duet)
 From the opening kickoff to the final cheer
 Hear the anvils ringing loud and clear!
 
 [Chorus]
-(Duet & Stadium Gang Vocals)
+(Stadium Gang Vocals)
 Fifty-two to nothing! Put it on the board!
 Hear the mighty thunder of the Forger chord!
 You wore the old numbers on your Homecoming chest
@@ -41,26 +40,25 @@ Fifty-two to nothing! Hear the stadium call
 Forger Nation stands above it all!
 
 [Verse 2]
-(Cassidy)
+[female]
 Fourth quarter ticking and the defense holds the line
 Protecting every inch of the goal-line design
-(Ryan)
+[male]
 Maroon and burnt orange in the coastal breeze
 Every single play is a masterpiece!
 From Blacksburg to the harbor, hear the victory song
 This is where the heart of the mountains belongs!
 
 [Pre-Chorus]
-(Cassidy)
+[female]
 No holding back today! Keep the starters on the grass!
-(Ryan)
+[male]
 Every single quarter is a masterclass!
-(Duet)
 From the opening kickoff to the final cheer
 Hear the anvils ringing loud and clear!
 
 [Chorus]
-(Duet & Stadium Gang Vocals)
+(Stadium Gang Vocals)
 Fifty-two to nothing! Put it on the board!
 Hear the mighty thunder of the Forger chord!
 You wore the old numbers on your Homecoming chest
@@ -75,7 +73,7 @@ Forger Nation stands above it all!
 (Gang Chant)
 HOLD THAT LINE! STRIKE THAT IRON!
 HOLD THAT LINE! STRIKE THAT IRON!
-(Ryan)
+[male]
 From the weight-room mirror to the scoreboard sky—
 All hail CPI!
 
@@ -83,7 +81,7 @@ All hail CPI!
 (Blazing 1980s twin guitar and analog synth duel trading high-speed melodic runs over pounding double-kick drums)
 
 [Final Chorus]
-(Duet & Stadium Gang Vocals)
+(Stadium Gang Vocals)
 Fifty-two to nothing! Put it on the board!
 Hear the mighty thunder of the Forger chord!
 You wore the old numbers on your Homecoming chest
@@ -93,7 +91,6 @@ Forger Nation stands above it all!
 
 [Outro]
 (Stadium Brass & Gated Drums)
-(Duet)
 Fifty-two to nothing!
 Go Forgers!
 (Final ringing anvil chime and C-Minor power chord)

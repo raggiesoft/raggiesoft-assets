@@ -41,12 +41,12 @@
      11. **`1-11-steel-and-synthetics` — `Steel and Synthetics`** *(from 2007's *Lost Sounds*)*
      12. **`1-12-moon-1-tidal-lock` — `Moon 1: Tidal Lock`** *(from 1997's *Hard Reset* / 2003's *Sanctuary [Zero-G]*)*
      13. **`1-13-mayday-the-intercept` — `Mayday: The Intercept`** *(from 2003's *Mile Marker 98*)*
-   - **Act IV — The Progress Street Porch: Intimate Acoustic Block (*Our Own Frequency*) & Residency Announcement (Tracks 14–17):**
-     14. **`1-14-our-own-frequency` — `Our Own Frequency`** *(from 2008's *Our Own Frequency* — Includes the Final World Tour & annual **CPI Summer Festival** Hometown Residency announcement)*
-     15. **`1-15-safe-person` — `Safe Person`** *(from 2008's *Our Own Frequency*)*
-     16. **`1-16-brothers-keeper` — `Brother's Keeper`** *(from 2008's *Our Own Frequency*)*
-     17. **`1-17-echoes-in-the-wire` — `Echoes in the Wire`** *(from 1997's *Hard Reset* — Starts acoustic at the grand piano before the full electric stadium band kicks in; permanently replacing the banned *"If You Walked Away"*)*
-   - **Act V — Saturday Night Lights & The Homecoming Sprint to the False Ending (Tracks 18–23):**
+   - **Act IV — *Our Own Frequency*: The Intimate Brother & Sister Acoustic Block & Residency Announcement (Tracks 14–16):**
+     14. **`1-14-our-own-frequency` — `Our Own Frequency`** *(from 2008's *Our Own Frequency* — Evan and Tyler leave the stage so Ryan and Cassidy can perform their secret 2008 Burnout Hiatus living-room songs live for the very first time on acoustic guitar and piano)*
+     15. **`1-15-brothers-keeper` — `Brother's Keeper`** *(from 2008's *Our Own Frequency* — **THE CENTERPIECE OF OUR OWN FREQUENCY**: an unflinchingly intimate look at what Cassidy and the family go through every day taking care of Ryan's ADLs due to his T10 paralysis, where Ryan announces that the *Reignition* tour is their final world tour and unveils the annual **CPI Summer Festival** Hometown Residency in Blacksburg)*
+     16. **`1-16-safe-person` — `Safe Person`** *(from 2008's *Our Own Frequency* — Ryan and Cassidy's intimate acoustic guitar and piano duet about Ryan acting as Cassidy's safe person and emotional anchor)*
+   - **Act V — Full-Band Electric Return, Saturday Night Lights & The Homecoming Sprint to the False Ending (Tracks 17–23):**
+     17. **`1-17-echoes-in-the-wire` — `Echoes in the Wire`** *(from 1997's *Hard Reset* — Starts at the grand piano before Evan and Tyler's full electric stadium band roars back in; permanently replacing the banned *"If You Walked Away"*)*
      18. **`1-18-saturday-night-lights-the-crucible` — `Saturday Night Lights: The Crucible`** *(from 2004's *Progress Street* — **LIVE CONCERT DEBUT!** By sacred vow, this song will ONLY ever be played live at The Crucible)*
      19. **`1-19-progress-street-where-the-fire-began` — `Progress Street: Where the Fire Began`** *(from 2004's *Progress Street*)*
      20. **`1-20-neon-hearts` — `Neon Hearts`** *(from 1989's *Neon Hearts*)*
@@ -246,6 +246,288 @@ WIN! SEE-PEA-EYE!
 #### Styles to Exclude
 ```text
 studio flat mix, dry vocals, buried keyboards, modern pop, hip hop, rap, country, lo-fi
+```
+
+---
+
+### Track 14: `Our Own Frequency` *(Act IV: Intimate Brother & Sister Acoustic Block — Part 1 of 3)*
+* **Generation Mode:** **Suno v6 74% Cover Protocol** (Upload `master-wav/studio/our-own-frequency.wav` into Suno Cover)
+* **Save Downloaded WAV As:** `1-14-our-own-frequency.wav`
+* **Audio Influence:** `74%` • **Style Influence:** `90%` • **Weirdness:** `0%`
+* **Vocal Gender UI Setting:** `Unselected` (Duet Protocol — Strictly Ryan on acoustic guitar & Cassidy at the piano)
+
+#### Styles to Include
+```text
+intimate live acoustic concert recording in a hushed stadium, warm fingerpicked acoustic guitar and upright grand piano duet, emotional male and female vocal duet, raw vulnerable sibling harmonies, natural open-air stadium reverb, quiet respectful crowd ambience, stripped-back singer-songwriter ballad
+```
+
+#### Styles to Exclude
+```text
+drums, bass guitar, electric guitar, heavy distortion, brass section, marching band, studio flat mix, loud crowd screaming over vocals, hip hop, rap, electronic dance beat
+```
+
+#### Lyrics (Copy-Paste into Suno)
+```text
+[Audience Applause Softens to a Respectful Hush]
+[Single Warm Spotlight on Acoustic Guitar and Piano]
+
+[Spoken Word Intro]
+[female]
+Evan and Tyler are gonna take five backstage for a little bit. Back in two thousand and eight, right in the middle of our ten-year hiatus, Ryan and I couldn't face the cameras or the stadiums anymore. So we locked the front door of our house right down the road on Progress Street, sat down in the living room with just an acoustic guitar, a piano, and two microphones, and recorded an album we never toured.
+[male]
+We just uploaded it on a Tuesday morning with one sentence: "We're still here, and we're okay." We never thought we'd play these three songs in a stadium... but tonight, sixty-five thousand of you feel just like our living room.
+
+[Intro]
+(A warm, inviting acoustic guitar and piano duet intro in a hushed stadium)
+
+[Verse 1]
+[female]
+They want to paint us in neon light
+They want to tell us how to burn tonight
+But you and me, we know the truth
+They can't buy what we built in our youth
+
+[Verse 2]
+[male]
+Turn off the synths, unplug the drum
+Look at the monsters that we have become
+Let's strip it down to the wood and wire
+And build ourselves a signal fire
+
+[Chorus]
+(Intimate brother and sister vocal harmony over acoustic guitar and piano)
+Just the piano and the six-string strum
+Before the noise and the kingdom come
+No one to tell us how the story ends
+Just a brother and a sister and the time we spend
+On our own frequency
+Just you and me
+
+[Verse 3]
+[female]
+They tried to sell a manufactured dream
+A perfect picture on a glowing screen
+[male]
+But all I need is sitting right here
+The melody is finally clear
+
+[Chorus]
+Just the piano and the six-string strum
+Before the noise and the kingdom come
+No one to tell us how the story ends
+Just a brother and a sister and the time we spend
+On our own frequency
+Just you and me
+
+[Bridge]
+(A tender, deeply emotional piano and acoustic guitar instrumental duet)
+[female]
+No heavy gloss...
+[male]
+No studio boss...
+[female]
+Just the music we wanted to make!
+
+[Chorus]
+Just the piano and the six-string strum
+Before the noise and the kingdom come
+No one to tell us how the story ends
+Just a brother and a sister and the time we spend
+On our own frequency
+Just you and me
+
+[Outro]
+[male]
+Our own frequency...
+[female]
+Just you and me...
+(Fades out with a lingering piano chord, a soft acoustic strum, and gentle applause across the stadium)
+```
+
+---
+
+### Track 15: `Brother's Keeper` *(Act IV Centerpiece: Ryan's ADLs & The Final World Tour / CPI Summer Festival Residency Announcement — Part 2 of 3)*
+* **Generation Mode:** **Suno v6 74% Cover Protocol** (Upload `master-wav/studio/brothers-keeper.wav` into Suno Cover)
+* **Save Downloaded WAV As:** `1-15-brothers-keeper.wav`
+* **Audio Influence:** `74%` • **Style Influence:** `90%` • **Weirdness:** `0%`
+* **Vocal Gender UI Setting:** `Unselected` (Duet Protocol — Strictly Ryan on acoustic guitar & Cassidy at the piano)
+
+#### Styles to Include
+```text
+intimate live acoustic concert recording in a pin-drop quiet stadium, delicate melancholy grand piano and steady comforting fingerpicked acoustic guitar, deeply emotional male and female vocal duet, raw vulnerable confession, natural stadium acoustics, warm supportive crowd applause on spoken intro and outro, singer-songwriter acoustic ballad
+```
+
+#### Styles to Exclude
+```text
+drums, percussion, bass guitar, electric guitar, heavy distortion, brass section, studio flat mix, hip hop, rap, upbeat pop
+```
+
+#### Lyrics (Copy-Paste into Suno — Phonetic `See-Pea-Eye` Included)
+```text
+[Pin-Drop Stadium Silence]
+[Soft Fingerpicked Acoustic Guitar Note]
+
+[Spoken Word Intro]
+[male]
+This next song is the centerpiece of Our Own Frequency, and it's the most private song Cassidy and I have ever written. People look up at a stage and see two hours of lights and guitars. They don't see what T-ten paralysis actually takes behind closed doors. They don't see Cassidy and Evan and Tyler helping me through my daily care and toileting routines, or stretching my legs every morning so they don't atrophy. They don't see how we push the bed against the wall at night so I can sleep on the inside, and my sister sleeps on the outside edge as a human bed rail so I don't roll off in the dark.
+[female]
+And they don't see how you keep me anchored when the world gets too loud for my head to handle. We take care of each other. That's what family does.
+[male]
+Doing all of those daily routines on tour buses and in hotel rooms across the world was one thing when we were twenty-two. Now that we're older... I'm gonna be honest with you, Forger Nation. Accommodating this chair on the road has gotten too hard on my body, and on my family. So this Reignition tour is going to be the last world tour we ever do.
+[Audience Murmurs Softly, Then Applauds Warmly in Support]
+[female]
+Wait—don't be sad! We aren't retiring! If touring the world is too hard on Ryan, then the world can come to Blacksburg! Starting next summer, every single year right here at our alma mater, we're headlining the annual See-Pea-Eye Summer Festival—and sleeping in our own beds on Progress Street every night!
+[Deafening Cheers and Applause Before Hushing Back to Silence]
+[male]
+This is "Brother's Keeper."
+
+[Intro]
+(A delicate, melancholy grand piano intro)
+(Acoustic guitar joins with a steady, comforting fingerpicked rhythm)
+
+[Verse 1]
+[male]
+They look at the chair and they think it's weak
+They whisper their pity whenever we speak
+But they don't see the mornings, the stretches and pain
+The quiet routines keeping us sane
+[female]
+Sleeping on the edge, a human bed rail
+Catching the other whenever we fail
+
+[Verse 2]
+[female]
+Moving the pieces the body forgot
+Holding the line whenever we're caught
+Being the strength when the daily tasks break
+Giving up comfort for the other one's sake
+[male]
+A brother and a sister, fighting to survive
+The only reason we're staying alive
+
+[Pre-Chorus]
+[female]
+Are we each other's keeper? We'll take the blame
+[male]
+Standing in the fire, walking through the flame
+[female]
+Answering the call when it gets too deep
+[male]
+Guarding all the secrets we're trying to keep
+
+[Chorus]
+(Raw, emotional brother and sister vocal harmony over acoustic guitar and piano)
+We trade all the armor, we trade all the scars
+We built our own world underneath all the stars
+When the body won't work, we become our own feet
+When the pressure is heavy, we make it retreat
+They don't understand the blood in our veins
+We're holding the keys and we're breaking the chains
+
+[Interlude]
+(Intimate, emotional piano and acoustic guitar interlude in the quiet stadium night)
+
+[Verse 3]
+[female]
+Pushing the wheels wherever we go
+[male]
+Being the shelter when bitter winds blow
+
+[Chorus]
+We trade all the armor, we trade all the scars
+We built our own world underneath all the stars
+When the body won't work, we become our own feet
+When the pressure is heavy, we make it retreat
+They don't understand the blood in our veins
+We're holding the keys and we're breaking the chains
+
+[Outro]
+(Harmonizing gently into the two microphones)
+[female]
+We keep each other safe.
+[male]
+We keep each other grounded.
+(Fade out on a single, resonating piano chord as 65,000 fans rise in a deeply moved standing ovation)
+```
+
+---
+
+### Track 16: `Safe Person` *(Act IV: Intimate Brother & Sister Acoustic Block — Part 3 of 3)*
+* **Generation Mode:** **Suno v6 74% Cover Protocol** (Upload `master-wav/studio/safe-person.wav` into Suno Cover)
+* **Save Downloaded WAV As:** `1-16-safe-person.wav`
+* **Audio Influence:** `74%` • **Style Influence:** `90%` • **Weirdness:** `0%`
+* **Vocal Gender UI Setting:** `Unselected` (Duet Protocol — Strictly Ryan on acoustic guitar & Cassidy at the piano)
+
+#### Styles to Include
+```text
+intimate live acoustic concert recording in a hushed stadium, gentle solitary piano intro joined by warm acoustic guitar, heartfelt male and female vocal duet, tender sibling harmonies, natural stadium acoustics, warm ovation at the end, singer-songwriter acoustic ballad
+```
+
+#### Styles to Exclude
+```text
+drums, percussion, bass guitar, electric guitar, heavy distortion, brass section, studio flat mix, hip hop, rap, electronic dance beat
+```
+
+#### Lyrics (Copy-Paste into Suno)
+```text
+[Quiet Stadium Ambience]
+[Gentle, Solitary Piano Intro]
+(Acoustic guitar softly joins the piano)
+
+[Verse 1]
+[female]
+The cameras flash, the questions start to blur
+I smile and nod, playing the character
+But underneath the makeup and the lights
+I'm terrifyingly alone on these high wire nights
+Until I catch your eye across the room
+And suddenly I'm safe inside this tomb
+
+[Verse 2]
+[male]
+You never have to wear the mask for me
+I know exactly who you want to be
+When the oxygen gets thin up on the stage
+I'll be the one to open up the cage
+Just breathe and let the heavy armor fall
+I've got you when your back is to the wall
+
+[Chorus]
+(Heartfelt brother and sister duet over pure acoustic guitar and piano)
+You're my safe person, the calm inside the storm
+The only place I know where I am warm
+We tear down all the idols and the lies
+And find the truth inside each other's eyes
+No electric amps, no flashing lights
+Just you and me surviving all the nights
+
+[Interlude]
+(Soft, delicate acoustic guitar and piano interlude)
+
+[Verse 3]
+[female]
+You're the only one who sees me clear
+When everything I am begins to disappear
+
+[Verse 4]
+[male]
+And you're the melody I've always known
+I'll never let you face the dark alone
+
+[Chorus]
+You're my safe person, the calm inside the storm
+The only place I know where I am warm
+We tear down all the idols and the lies
+And find the truth inside each other's eyes
+No electric amps, no flashing lights
+Just you and me surviving all the nights
+
+[Outro]
+[female]
+You're my safe person...
+[male]
+Always.
+(Fade out on a single, resonating acoustic guitar chord followed by a warm, roaring ovation)
 ```
 
 ---

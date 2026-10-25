@@ -1,80 +1,69 @@
 **LORE NOTE:**
-Bridging out of the acoustic block back into full stadium rock—and permanently occupying the emotional ballad slot because 1989's *"If You Walked Away"* is strictly banned from all post-1990 concerts to protect Cassidy from autistic sensory/abandonment overload—**"Echoes in the Wire"** (from 1997's *Hard Reset*) begins intimately at Cassidy's acoustic grand piano before Evan, Tyler, and Ryan's full electric stadium rig explodes back in on the second chorus.
+**Act V Opener: Full-Band Electric Return (Permanently Replacing *"If You Walked Away"*).** Following the three-song *Our Own Frequency* brother-and-sister acoustic block, Evan and Tyler walk back onto the stage and strap on their electric bass and drum kit. Because 1989's *"If You Walked Away"* is permanently banned from all post-1990 Stardust Engine concerts to protect Cassidy from autistic sensory and abandonment overload, **"Echoes in the Wire"** (from 1997's *Hard Reset*) holds the emotional power-ballad spotlight—beginning at Cassidy's grand piano before Evan, Tyler, and Ryan's full electric stadium rig roars back to life.
 
 **LYRICS:**
 
+[Live Stadium Ambience]
 [Intro]
-*(A sweeping, atmospheric synthesizer pad swells into the silence, soon joined by a slow, heavy, echoing drum beat. A clean, chorus-drenched electric guitar picks out a gentle, reflective melody.)*
+(A lone, echoing piano plays a simple, sad melody in the dark stadium)
+(A warm, analog synth pad swells underneath)
 
 [Verse 1]
-The dust is settling on the stage
-We finally turned the heavy page
-I see the shadows on the wall
-Standing quiet after the fall
-All the static faded out
-Leaving nothing but the doubt
-
-[Pre-Chorus]
-But in the quiet, I can hear
-A frequency coming clear
-We made it through the longest night
-Now we're standing in the light
+[female]
+I found an old cassette inside a box today
+The tape was tangled, worn, and faded gray
+I pressed "play" and heard the static hiss
+A ghost of a melody I didn't know I'd miss
+It's the sound of a basement in eighty-five
+When the music was the only thing keeping us alive
 
 [Chorus]
-We're just echoes in the wire
-Sparks escaping from the fire
-Hold on to the memory
-Of who we used to be
-When the world is standing still
-I know we always will
-Leave a shadow in the sound
-Whenever we come down
+(A slow, heavy, gated-reverb drum beat kicks in as the full electric band returns)
+(65,000 stadium lights sway in the dark)
+There are echoes in the wire!
+Shadows of a long-forgotten fire!
+We're older now, the scars are deep
+We've got promises we couldn't keep
+Yeah, the signal's weak, the line is frayed
+From all the mistakes that we have made
+Just echoes... echoes in the wire.
 
 [Verse 2]
-Ten thousand voices in the dark
-Leaving a temporary mark
-We traded time for something real
-A kind of gravity you feel
-The city sleeping far below
-We're glowing in the afterglow
-
-[Pre-Chorus]
-And in the quiet, I can hear
-A frequency coming clear
-We made it through the longest night
-Now we're standing in the light
+[male]
+I look across the console at my sister's face
+We're survivors of a brutal, high-speed race
+We lost the rhythm, yeah, we lost the beat
+On a dark and frozen Midwest street
+Now I play my part from a different seat
+Trying to make this broken song complete
 
 [Chorus]
-We're just echoes in the wire
-Sparks escaping from the fire
-Hold on to the memory
-Of who we used to be
-When the world is standing still
-I know we always will
-Leave a shadow in the sound
-Whenever we come down
+(Full stadium power-ballad eruption with distorted electric guitar and soaring synths)
+There are echoes in the wire!
+Shadows of a long-forgotten fire!
+We're older now, the scars are deep
+We've got promises we couldn't keep
+Yeah, the signal's weak, the line is frayed
+From all the mistakes that we have made
+Just echoes... echoes in the wire.
 
 [Guitar Solo]
-*(The drums open up into a massive, booming half-time groove. Ryan steps forward and delivers a soaring, highly emotional power-ballad guitar solo, holding long, weeping notes that echo into the rafters.)*
+(A slow, weeping, deeply emotional electric guitar solo with heavy sustain and delay echoing off the stadium concrete)
 
 [Bridge]
-No more running from the ghost
-We're holding on to what matters most
-The silence is a kind of song
-Telling us where we belong
-
-[Chorus]
-We're just echoes in the wire
-Sparks escaping from the fire
-Hold on to the memory
-Of who we used to be
-When the world is standing still
-I know we always will
-Leave a shadow in the sound
-Whenever we come down
+(The music drops back to just the piano and a soft bass pulse)
+[female]
+Can you hear me on the other end?
+My brother, my anchor, my only friend?
+[male]
+The static's loud, the night is long
+[female]
+Let's help each other finish this song.
 
 [Outro]
-Echoes in the wire.
-Fading in the dark.
-Leaving our mark.
-*(The heavy drums drop out, leaving only Cassidy's gentle synthesizer pad and a final, clean guitar chord slowly fading into the darkness.)*
+(The piano melody repeats, slowly joined by the warm synth pad)
+[male]
+Echoes in the wire...
+[female]
+Still burning...
+(The synth pad swells to a warm, unresolved chord and fades into the roar of The Crucible)

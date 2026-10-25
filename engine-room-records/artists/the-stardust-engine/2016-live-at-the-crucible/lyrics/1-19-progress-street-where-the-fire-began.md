@@ -9,29 +9,28 @@ Singing about the house on Progress Street NE just a mile and a half north of th
 (Melodic electric guitar harmonizes with the keyboard riff)
 
 [Verse 1]
-(Ryan)
+[male]
 Porch light burning through the mountain haze
 Autumn wind blowing through the college days
 Two amps humming through a plaster wall
 Chasing down a dream down a narrow hall
-(Cassidy)
+[female]
 Five pairs of sneakers by the front screen door
 Tangled up cables on the living room floor
 We didn't have a dime, we didn't have a plan
 Just a family promise where the fire began!
 
 [Pre-Chorus]
-(Ryan)
+[male]
 The town goes quiet when the sun goes down
-(Cassidy)
+[female]
 But the basement's shaking in this mountain town!
-(Ryan)
+[male]
 Turn the dials up to ten!
-(Cassidy)
+[female]
 Take us back to where we started then!
 
 [Chorus]
-(Duet)
 Down on Progress Street! Where the engines roar!
 We were building up a world behind a locked front door!
 Every chord we struck, every dream we made
@@ -40,29 +39,28 @@ From a living room spark to the stadium heat
 It all started beating down on Progress Street!
 
 [Verse 2]
-(Cassidy)
+[female]
 Twin brothers locking in the rhythm and the pace
 Shaking every window in this quiet place
-(Ryan)
+[male]
 Younger sister holding all the notebooks tight
 Keeping us together through the longest night
-(Cassidy)
+[female]
 Maroon and orange on our faded sleeves
-(Ryan)
+[male]
 Singing out a reckless kind of melody that believes!
 
 [Pre-Chorus]
-(Cassidy)
+[female]
 The years roll by like a highway train
-(Ryan)
+[male]
 Through the blinding sun and the pouring rain!
-(Cassidy)
+[female]
 Turn the dials up to ten!
-(Ryan)
+[male]
 Let the whole valley hear us once again!
 
 [Chorus]
-(Duet)
 Down on Progress Street! Where the engines roar!
 We were building up a world behind a locked front door!
 Every chord we struck, every dream we made
@@ -72,13 +70,13 @@ It all started beating down on Progress Street!
 
 [Bridge]
 (Music drops to a warm, pulsing analog synth pad and steady kick drum)
-(Cassidy)
+[female]
 Twenty years of highways, twenty years of miles
-(Ryan)
+[male]
 Through the broken promises and the crowded aisles
-(Cassidy)
+[female]
 When the static gets loud and the road gets long
-(Ryan)
+[male]
 We come back home to the very first song!
 (Massive drum crescendo builds)
 
@@ -86,7 +84,6 @@ We come back home to the very first song!
 (Soaring, uplifting 1980s arena-rock electric guitar solo trading melodies with a bright analog synthesizer lead)
 
 [Chorus]
-(Duet)
 Down on Progress Street! Where the engines roar!
 We were building up a world behind a locked front door!
 Every chord we struck, every dream we made
@@ -95,10 +92,9 @@ From a living room spark to the stadium heat
 It all started beating down on Progress Street!
 
 [Outro]
-(Ryan)
+[male]
 Down on Progress Street!
-(Cassidy)
+[female]
 Where the fire began!
-(Duet)
 Five hearts beating as one!
 (Triumphant final stadium rock chord and massive drum crash fade out)
