@@ -345,7 +345,7 @@ studio flat mix, dry vocals, buried keyboards, modern pop, hip hop, rap, country
   - *Sanctuary (Zero-G)* & *Mile Marker 98* (2003): `Sanctuary: Zero-G`, `Deep Pressure`, `Impact`, `Twin Moons: Touchdown`
   - *Progress Street* (2004): `Progress Street: Where the Fire Began`, `Route 1: Midnight Headlights`, `Upright & Amplifier`, `Fifth Gear: The Architect's Shield`, `Before the Distance`
   - *Our Own Frequency* (2008) & *Starfield Calibration* (2011): `Our Own Frequency`, `Safe Person`, `Atmosphere`
-  - ***Reignition* (2015):** Key comeback singles from the 2015 studio album!
+  - ***Reignition* (2015):** `Reignition: Lights On on Progress Street`, `Main Engine Start`, `The Iceberg: Submerged`, `Orbital Return`, `Fifty-Two to Nothing: The Norfolk Reckoning`, `Still Your Safe Person`
 
 ---
 

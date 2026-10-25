@@ -262,6 +262,24 @@
     "description": "Returning from their ten-year Burnout Hiatus with renewed creative fire, The Stardust Engine launched their global Reignition return and brought the tour home to Blacksburg on May 21, 2016 inside The Crucible with all 300 members of the CPI Marching Forgers.",
     "albums": [
       {
+        "title": "Reignition",
+        "year": "2015",
+        "folder": "2015-reignition",
+        "url": "https://stardust.raggiesoft.com/discography/2015-reignition",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-stardust-engine/2015-reignition/album-art.jpg",
+        "spotifyId": "",
+        "appleId": "",
+        "amazonId": "",
+        "youtubeId": "",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": "",
+        "dspExempt": true,
+        "dspNotice": "In studio production — Complete 11-track 1980s AOR and Cosmic Synth-Pop comeback album setting the stage for 2016's Live at the Crucible.",
+        "realRelease": "2026-10-25",
+        "genre": "1980s AOR / Melodic Stadium Rock / 80s Cosmic Synth-Pop",
+        "description": "Ten years after exhaustion forced the family to turn off the studio switches on 2004's Progress Street ('Last Bus Home: Lights Out on Progress Street'), The Stardust Engine returns rested, recharged, and ready to perform again. Released in October 2015 immediately following Holly O'Connell's August 2015 Delaware Migration and CPI's 52–0 Norfolk Reckoning, Reignition ends the decade-long Burnout Hiatus and sets the stage for 2016's Live at the Crucible."
+      },
+      {
         "title": "Live at the Crucible",
         "year": "2016",
         "folder": "2016-live-at-the-crucible",
