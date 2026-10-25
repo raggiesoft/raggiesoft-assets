@@ -14,6 +14,10 @@
     "name": "Engine Room Records"
   },
   "gtin12": "700521520499",
+  "datePublished": "2026-10-23",
+  "spotifyId": "3NmbtTmm70oBp5oIR8kFZG",
+  "appleId": "6821775434",
+  "amazonId": "B0HMPHJB3C",
   "distroKidUploadDate": "2026-10-11",
   "distroKidPreorderDate": "2026-10-22",
   "albumRelease": {
@@ -21,6 +25,9 @@
     "datePublished": "2026-10-23"
   },
   "sameAs": [
-    "https://distrokid.com/hyperfollow/manacanvas/runebreakeroriginalsoundtrack"
+    "https://distrokid.com/hyperfollow/manacanvas/runebreakeroriginalsoundtrack",
+    "https://open.spotify.com/album/3NmbtTmm70oBp5oIR8kFZG",
+    "https://music.apple.com/us/album/runebreaker/6821775434",
+    "https://music.amazon.com/albums/B0HMPHJB3C"
   ]
 }
