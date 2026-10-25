@@ -79,3 +79,100 @@
   * *Source Seed:* `master-wav/studio/electric-color.wav` (74% Cover)
   * *Lore Note:* The mandatory closer. One final, cathartic explosion of color under the Norfolk Prism dome before the band boards the *Sainte-Claire 45H3* and *Prairie Coachworks RLFD30* and heads home to Blacksburg for their 2005–2014 Burnout Hiatus.
 
+---
+
+## III. Ready-to-Paste Suno v6 Cover Prompt for Track 14: *Electric Color (Live in Norfolk)*
+
+* **Cover Seed WAV:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/electric-color.wav`
+* **Audio Influence:** `74%`
+* **Style Influence:** `90%`
+* **Weirdness:** `0%`
+* **Vocal Gender:** `Female` (or leave unselected; Styles specifies `Female Vocals`)
+* **Phonetic Note (`Nor-fik`):** Written as `Nor-fik` in the Suno Lyrics box so Suno drops the `"L"` and `"O"` (never saying *"Nor-folk"*) and pronounces the unstressed Virginia second syllable (`/ˈnɔːrfək/`) cleanly without triggering Suno's `fuk`/`fuck` profanity filter.
+
+### Styles to Include
+```text
+Live Arena Concert, 1980s Synth-Pop, Dance-Rock, High Energy, Female Vocals, Gated Reverb Snare Drums, Funky Rhythm Guitar, Bright Analog Synthesizers, Blistering Shred Guitar Solo, Massive Crowd Cheering, Arena Reverb
+```
+
+### Styles to Exclude
+```text
+Heavy Metal, Slow, Acoustic, Collegiate Marching Band, Brass Section
+```
+
+### Lyrics Box (Phonetic Suno Version with `Nor-phuk`)
+```text
+[Live Arena Crowd Roar]
+
+[Extended Instrumental Vamp]
+(A massive, pulsing 1980s analog synthesizer pad and driving gated-reverb drum groove build tension across the arena floor as funky rhythm guitar scratches lock in)
+
+[Spoken Word Intro]
+(Spoken, female vocals, energetic and breathless over the vamp and cheering crowd)
+We have been all over the world on this tour, Nor-phuk!
+And there is no better place to finish this journey than right here on Virginia soil!
+Before we pack up the buses and head home to Blacksburg... we've got one last song left in the tank!
+Tonight, we're gonna turn the Prism into a dance floor one last time! Let me see you move, Nor-phuk!
+
+[Instrumental Hook]
+(The main sharp, catchy 1980s synthesizer hook and funky dance-rock beat slam in at full power)
+
+[Verse 1]
+Woke up this morning, the world was gray
+Didn't know the colors had all faded away
+Been living in a room with the curtains drawn tight
+Then you flipped a switch and turned on the light
+
+[Chorus]
+Oh, I'm seeing in electric color
+Finding a rhythm I never knew
+Dancing in a brand new summer
+My whole world feels bright and new
+It's an electric-colored feeling
+And it all started with you!
+
+[Verse 2]
+(Funky rhythm guitar scratches enter, synthesizer swells, bassline gets busier)
+The city sounds were just a buzz in my ear
+A static station I could never quite hear
+But now the noise is turning into a song
+And I finally feel like I belong
+
+[Chorus]
+Oh, I'm seeing in electric color
+Finding a rhythm I never knew
+Dancing in a brand new summer
+My whole world feels bright and new
+It's an electric-colored feeling
+And it all started with you!
+
+[Bridge]
+The beat is getting stronger
+I can't hide it any longer
+My heart is playing catch-up
+To the music turning way up!
+(Spoken, shouting to the crowd)
+Ryan, show them what you got!
+
+[Guitar Solo]
+(A blistering, high-gain 1980s rock guitar solo cuts through the synth-pop beat, melodic and fast)
+
+[Chorus]
+(High energy, drums crashing, arena crowd singing along)
+Oh, I'm seeing in electric color
+Finding a rhythm I never knew
+Dancing in a brand new summer
+My whole world feels bright and new
+It's an electric-colored feeling
+And it all started with you!
+
+[Outro]
+(The synth hook returns over roaring arena crowd)
+Electric color!
+Feeling so new!
+It's all because of you!
+(Spoken)
+Thank you Nor-phuk! We love you! Goodnight!
+(Music ends on a clean synth hit and deafening arena applause)
+```
+
