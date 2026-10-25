@@ -6,22 +6,22 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "44.1 MB",
-        "pdf": "24.7 MB",
+        "epub": "51.4 MB",
+        "pdf": "32.3 MB",
         "text_epub": "859 KB",
         "text_pdf": "3.2 MB",
-        "epub_bytes": 46280875,
-        "pdf_bytes": 25945930,
-        "text_epub_bytes": 879131,
-        "text_pdf_bytes": 3405838
+        "epub_bytes": 53933452,
+        "pdf_bytes": 33889357,
+        "text_epub_bytes": 879127,
+        "text_pdf_bytes": 3405837
     },
-    "illustration_count": 32,
+    "illustration_count": 42,
     "eras": [
         {
             "era_num": 1,
             "era_title": "The Eleventh Child, Off to College",
             "era_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college",
-            "illustration_count": 8,
+            "illustration_count": 9,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -655,7 +655,7 @@
                     "chap_num": 7,
                     "chap_title": "Jordan's Independence Day & The Fall Break Relay",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/jordan-s-independence-day-the-fall-break-relay",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -682,7 +682,16 @@
                             "url": "/aubrie/the-eleventh-child-off-to-college/jordan-s-independence-day-the-fall-break-relay/part-3-the-choice",
                             "date": "2014-10-18",
                             "start_time": "09:30",
-                            "location": "Room 214 & Exterior Lower Walkway, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
+                            "location": "Room 214 & Exterior Lower Walkway, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e001/c007/p003/the-choice-bennett-hall.jpg",
+                            "image_alt": "Inside the locked dorm sanctuary of Bennett Hall Room 214 on an October morning, eighteen-year-old Jordan Fuller sits upright in his manual wheelchair wearing his maroon CPI hoodie with his black laptop angled toward his face as he presses the execute key to declare 'I'm staying here,' surrounded in a fiercely protective circle by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, Lauren, and Hannah.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e001/c007/p003/the-choice-bennett-hall.jpg",
+                                    "alt": "Inside the locked dorm sanctuary of Bennett Hall Room 214 on an October morning, eighteen-year-old Jordan Fuller sits upright in his manual wheelchair wearing his maroon CPI hoodie with his black laptop angled toward his face as he presses the execute key to declare 'I'm staying here,' surrounded in a fiercely protective circle by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, Lauren, and Hannah."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 4,
@@ -842,7 +851,7 @@
             "era_num": 2,
             "era_title": "A New Winter Break Tradition",
             "era_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition",
-            "illustration_count": 2,
+            "illustration_count": 3,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1007,7 +1016,7 @@
                     "chap_num": 4,
                     "chap_title": "The Seminole Trail & The Dawson Sanctuary",
                     "chap_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition/the-seminole-trail-the-dawson-sanctuary",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1016,7 +1025,16 @@
                             "url": "/aubrie/a-new-winter-break-tradition/the-seminole-trail-the-dawson-sanctuary/part-1-gridlock-on-i-81-the-route-460-pivot-elana-stephen-stella",
                             "date": "2014-12-27",
                             "start_time": "08:00",
-                            "location": "Interstate 81 North (Milepost 148, Botetourt County) to U.S. Route 460 East & U.S. Route 29 North, Virginia"
+                            "location": "Interstate 81 North (Milepost 148, Botetourt County) to U.S. Route 460 East & U.S. Route 29 North, Virginia",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e002/c004/p001/dawson-sanctuary-elana-stephen-stella.jpg",
+                            "image_alt": "Inside the barrier-free living room of the Dawson home in Charlottesville with smooth oak hardwood floors, Jordan Fuller in his manual wheelchair and Isabel Dawson in a cream cable-knit sweater warmly greet Isabel's seventeen-year-old sister Elana Grace Dawson (in her rugged matte-charcoal heavy-duty sip-and-puff power chair with her mPad angled toward her) and seventeen-year-old cousin Stephen Dawson (in his compact joystick power chair, holding Elana's hand) alongside Stella, their silver-dapple miniature service horse in a maroon biothane harness and indoor rubber hoof boots.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e002/c004/p001/dawson-sanctuary-elana-stephen-stella.jpg",
+                                    "alt": "Inside the barrier-free living room of the Dawson home in Charlottesville with smooth oak hardwood floors, Jordan Fuller in his manual wheelchair and Isabel Dawson in a cream cable-knit sweater warmly greet Isabel's seventeen-year-old sister Elana Grace Dawson (in her rugged matte-charcoal heavy-duty sip-and-puff power chair with her mPad angled toward her) and seventeen-year-old cousin Stephen Dawson (in his compact joystick power chair, holding Elana's hand) alongside Stella, their silver-dapple miniature service horse in a maroon biothane harness and indoor rubber hoof boots."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -1070,13 +1088,13 @@
             "era_num": 3,
             "era_title": "Spring Semester 2015",
             "era_url": "/raggiesoft-books/books/aubrie/spring-semester-2015",
-            "illustration_count": 4,
+            "illustration_count": 6,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Return to The Old Lady & The New Pact",
                     "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/return-to-the-old-lady-the-new-pact",
-                    "illustration_count": 1,
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1103,7 +1121,16 @@
                             "url": "/aubrie/spring-semester-2015/return-to-the-old-lady-the-new-pact/part-2-introducing-garrett-to-suite-214-216-this-side-of-heaven",
                             "date": "2015-01-11",
                             "start_time": "14:40",
-                            "location": "Second Floor Washington Street Entrance & Suite 214/216, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
+                            "location": "Second Floor Washington Street Entrance & Suite 214/216, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e003/c001/p002/this-side-of-heaven-suite-214.jpg",
+                            "image_alt": "Inside Bennett Hall Suite 214/216 during Spring Semester unpacking, eighteen-year-old Jordan Fuller sits in his manual wheelchair wearing his maroon CPI sweatshirt with his black laptop angled toward his face, beaming with radiant joy through happy tears as Aubrie Jean Kelly kneels to embrace him and Madison Scott, Zo\u00eb Wren Brooks, Lauren, and Hannah surround him in a tearful group hug.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e003/c001/p002/this-side-of-heaven-suite-214.jpg",
+                                    "alt": "Inside Bennett Hall Suite 214/216 during Spring Semester unpacking, eighteen-year-old Jordan Fuller sits in his manual wheelchair wearing his maroon CPI sweatshirt with his black laptop angled toward his face, beaming with radiant joy through happy tears as Aubrie Jean Kelly kneels to embrace him and Madison Scott, Zo\u00eb Wren Brooks, Lauren, and Hannah surround him in a tearful group hug."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 3,
@@ -1190,7 +1217,7 @@
                     "chap_num": 4,
                     "chap_title": "HEY CACUHO! The Residence Life Conference",
                     "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/hey-cacuho-the-residence-life-conference",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1217,7 +1244,16 @@
                             "url": "/aubrie/spring-semester-2015/hey-cacuho-the-residence-life-conference/part-3-hey-cacuho-clothespins-and-the-gamble-aria-nightmare",
                             "date": "2015-02-15",
                             "start_time": "18:30",
-                            "location": "Suite 214/216 & Second-Floor Hallway, Bennett Hall, CPI, Blacksburg, Virginia"
+                            "location": "Suite 214/216 & Second-Floor Hallway, Bennett Hall, CPI, Blacksburg, Virginia",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e003/c004/p003/hey-cacuho-clothespins-roanoke.jpg",
+                            "image_alt": "Inside Bennett Hall Room 214 after returning from the CACUHO conference, Resident Advisor Isabel Dawson\u2014her woven conference lanyard covered in dozens of brightly painted wooden clothespins\u2014blushes warmly as she kneels beside Jordan's wheelchair to clip a hand-painted neon-teal clothespin onto his laptop bag while Kelsey Brennan, Garrett Reynolds, Aubrie Jean Kelly, and Madison Scott smile fondly behind them.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e003/c004/p003/hey-cacuho-clothespins-roanoke.jpg",
+                                    "alt": "Inside Bennett Hall Room 214 after returning from the CACUHO conference, Resident Advisor Isabel Dawson\u2014her woven conference lanyard covered in dozens of brightly painted wooden clothespins\u2014blushes warmly as she kneels beside Jordan's wheelchair to clip a hand-painted neon-teal clothespin onto his laptop bag while Kelsey Brennan, Garrett Reynolds, Aubrie Jean Kelly, and Madison Scott smile fondly behind them."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -1301,7 +1337,7 @@
             "era_num": 4,
             "era_title": "Jordan's World Trek",
             "era_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek",
-            "illustration_count": 7,
+            "illustration_count": 11,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1421,7 +1457,7 @@
                     "chap_num": 4,
                     "chap_title": "Leg 4: The Victorian Grid, The Wrong Liverpool, & Station X (United Kingdom)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-4-the-victorian-grid-the-wrong-liverpool-station-x-united-kingdom",
-                    "illustration_count": 1,
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1439,7 +1475,16 @@
                             "url": "/aubrie/jordan-s-world-trek/leg-4-the-victorian-grid-the-wrong-liverpool-station-x-united-kingdom/part-2-carnaby-street-the-thames-riverbus-babbage-s-engine",
                             "date": "2015-06-08",
                             "start_time": "15:00",
-                            "location": "Carnaby Street, Soho, City of Westminster, London, England, UK"
+                            "location": "Carnaby Street, Soho, City of Westminster, London, England, UK",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e004/c004/p002/carnaby-street-soho-record-shop.jpg",
+                            "image_alt": "On pedestrian Carnaby Street in Soho, London beneath the WELCOME TO CARNABY STREET arch, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair with his black laptop angled toward his face outside a classic vinyl record shop with wooden LP crates, surrounded by Zo\u00eb Wren Brooks, Aubrie Jean Kelly, Madison Scott, and Daniel and Laura Brooks pointing up toward their old third-floor flat window.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e004/c004/p002/carnaby-street-soho-record-shop.jpg",
+                                    "alt": "On pedestrian Carnaby Street in Soho, London beneath the WELCOME TO CARNABY STREET arch, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair with his black laptop angled toward his face outside a classic vinyl record shop with wooden LP crates, surrounded by Zo\u00eb Wren Brooks, Aubrie Jean Kelly, Madison Scott, and Daniel and Laura Brooks pointing up toward their old third-floor flat window."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 3,
@@ -1509,7 +1554,7 @@
                     "chap_num": 6,
                     "chap_title": "Leg 6: Starry Skies on the Seto Inland Sea & Beppu Bay (Ky\u016bsh\u016b)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-6-starry-skies-on-the-seto-inland-sea-beppu-bay-ky-sh",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1527,7 +1572,16 @@
                             "url": "/aubrie/jordan-s-world-trek/leg-6-starry-skies-on-the-seto-inland-sea-beppu-bay-ky-sh/part-2-threat-level-zero-hoshizora-no-uta-japanese-version",
                             "date": "2015-07-08",
                             "start_time": "19:05",
-                            "location": "Barrier-Free Upper-Deck Stateroom, Ferry Hoshizora, Sailing Out of Osaka Bay onto the Seto Inland Sea, Japan"
+                            "location": "Barrier-Free Upper-Deck Stateroom, Ferry Hoshizora, Sailing Out of Osaka Bay onto the Seto Inland Sea, Japan",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e004/c006/p002/ferry-hoshizora-threat-level-zero.jpg",
+                            "image_alt": "Inside the barrier-free upper-deck stateroom of Ferry Hoshizora sailing across Japan's Seto Inland Sea at twilight, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair with his black laptop angled toward his face, eyes closed in profound relief as Zo\u00eb Wren Brooks and Aubrie Jean Kelly wrap him in grounding bilateral compression.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e004/c006/p002/ferry-hoshizora-threat-level-zero.jpg",
+                                    "alt": "Inside the barrier-free upper-deck stateroom of Ferry Hoshizora sailing across Japan's Seto Inland Sea at twilight, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair with his black laptop angled toward his face, eyes closed in profound relief as Zo\u00eb Wren Brooks and Aubrie Jean Kelly wrap him in grounding bilateral compression."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 3,
@@ -1553,7 +1607,7 @@
                     "chap_num": 7,
                     "chap_title": "Leg 7: The Deterministic Sanctuary & ZO\u00cb.Systems.Logs (Singapore)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-7-the-deterministic-sanctuary-zo-systems-logs-singapore",
-                    "illustration_count": 1,
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1580,7 +1634,16 @@
                             "url": "/aubrie/jordan-s-world-trek/leg-7-the-deterministic-sanctuary-zo-systems-logs-singapore/part-2-the-three-continent-video-call-sentosa-monorail",
                             "date": "2015-07-17",
                             "start_time": "21:00",
-                            "location": "Accessible Family Living Suite, Marina Bay, Singapore (Conferenced with Charlottesville, VA & London, UK)"
+                            "location": "Accessible Family Living Suite, Marina Bay, Singapore (Conferenced with Charlottesville, VA & London, UK)",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e004/c007/p002/singapore-three-continent-call.jpg",
+                            "image_alt": "Inside their Marina Bay accessible suite in Singapore at night with the illuminated city skyline glowing behind the windows, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing his maroon CPI polo and holding up his blue MerlionLink transit smart card toward the foreground video-call tablet (angled toward the group so only its matte-black rear casing faces the viewer) while Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, Lauren, and Hannah laugh warmly around him.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e004/c007/p002/singapore-three-continent-call.jpg",
+                                    "alt": "Inside their Marina Bay accessible suite in Singapore at night with the illuminated city skyline glowing behind the windows, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing his maroon CPI polo and holding up his blue MerlionLink transit smart card toward the foreground video-call tablet (angled toward the group so only its matte-black rear casing faces the viewer) while Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, Lauren, and Hannah laugh warmly around him."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -1588,7 +1651,7 @@
                     "chap_num": 8,
                     "chap_title": "Leg 8: Southern Cross Winter, The Red Centre, & Home to Roanoke (Australia)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-8-southern-cross-winter-the-red-centre-home-to-roanoke-australia",
-                    "illustration_count": 2,
+                    "illustration_count": 3,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1597,7 +1660,16 @@
                             "url": "/aubrie/jordan-s-world-trek/leg-8-southern-cross-winter-the-red-centre-home-to-roanoke-australia/part-1-sydney-harbour-the-three-sisters-the-jamison-skyway",
                             "date": "2015-07-19",
                             "start_time": "09:30",
-                            "location": "Sydney Kingsford Smith International Airport (SYD) & Circular Quay, Sydney, New South Wales, Australia"
+                            "location": "Sydney Kingsford Smith International Airport (SYD) & Circular Quay, Sydney, New South Wales, Australia",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e004/c008/p001/right-liverpool-station-nsw.jpg",
+                            "image_alt": "On the sunny suburban rail platform at Liverpool Station, New South Wales, Australia beneath towering eucalyptus gum trees and silver double-decker Waratah trains, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing his maroon CPI fleece with his black laptop angled toward his face in front of the orange-and-white LIVERPOOL STATION sign while Australian suitemate Sarah Braithwaite grins and gives a triumphant thumbs-up alongside Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, tall Jessica Gallagher, Lauren, and Hannah.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e004/c008/p001/right-liverpool-station-nsw.jpg",
+                                    "alt": "On the sunny suburban rail platform at Liverpool Station, New South Wales, Australia beneath towering eucalyptus gum trees and silver double-decker Waratah trains, Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing his maroon CPI fleece with his black laptop angled toward his face in front of the orange-and-white LIVERPOOL STATION sign while Australian suitemate Sarah Braithwaite grins and gives a triumphant thumbs-up alongside Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, tall Jessica Gallagher, Lauren, and Hannah."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -1766,7 +1838,7 @@
             "era_num": 6,
             "era_title": "Fall Semester 2015",
             "era_url": "/raggiesoft-books/books/aubrie/fall-semester-2015",
-            "illustration_count": 8,
+            "illustration_count": 10,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1860,7 +1932,7 @@
                     "chap_num": 3,
                     "chap_title": "Friday, 9:32 AM: The Broken Foundation & The Failed Angioplasty",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/friday-9-32-am-the-broken-foundation-the-failed-angioplasty",
-                    "illustration_count": 1,
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1869,7 +1941,16 @@
                             "url": "/aubrie/fall-semester-2015/friday-9-32-am-the-broken-foundation-the-failed-angioplasty/part-1-friday-9-32-am-the-attack-the-wrong-bus-on-commonwealth-mall",
                             "date": "2015-11-13",
                             "start_time": "09:32",
-                            "location": "Walton Hall Auditorium (SOC 101), CPI, Blacksburg, VA"
+                            "location": "Walton Hall Auditorium (SOC 101), CPI, Blacksburg, VA",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e006/c003/p001/walton-hall-stemi-emergency.jpg",
+                            "image_alt": "Inside the back accessible row of the Walton Hall lecture auditorium at CPI, nineteen-year-old Jordan Fuller slumps in acute cardiac distress in his matte-black S.S. Freedom power wheelchair clutching his sternum beside a dropped water bottle, while Mark drops to one knee to steady his shoulder, Aubrie Jean Kelly holds his hand in terror, Madison Scott wipes his brow, Zo\u00eb Wren Brooks urgently calls 911 dispatch, and Lauren and Hannah clear the lecture hall aisle behind them.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e006/c003/p001/walton-hall-stemi-emergency.jpg",
+                                    "alt": "Inside the back accessible row of the Walton Hall lecture auditorium at CPI, nineteen-year-old Jordan Fuller slumps in acute cardiac distress in his matte-black S.S. Freedom power wheelchair clutching his sternum beside a dropped water bottle, while Mark drops to one knee to steady his shoulder, Aubrie Jean Kelly holds his hand in terror, Madison Scott wipes his brow, Zo\u00eb Wren Brooks urgently calls 911 dispatch, and Lauren and Hannah clear the lecture hall aisle behind them."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -2080,7 +2161,7 @@
                     "chap_num": 8,
                     "chap_title": "The Comeback, The Breaking Point, & The New Safe Person",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/the-comeback-the-breaking-point-the-new-safe-person",
-                    "illustration_count": 1,
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2107,7 +2188,16 @@
                             "url": "/aubrie/fall-semester-2015/the-comeback-the-breaking-point-the-new-safe-person/part-2-the-system-crash-the-breaking-point",
                             "date": "2015-12-09",
                             "start_time": "10:05",
-                            "location": "Walton Hall Accessible Parking Lot, CPI, Blacksburg, VA"
+                            "location": "Walton Hall Accessible Parking Lot, CPI, Blacksburg, VA",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e006/c008/p002/megan-grounding-jordan-parked-sedan.jpg",
+                            "image_alt": "Inside Megan Brooks's parked sedan outside Walton Hall on a crisp December morning, twenty-seven-year-old Megan leans across to rest her forehead tenderly against nineteen-year-old Jordan Fuller's and locks both of her hands firmly around his hands\u2014carefully protecting the red plush cardiac heart pillow buckled over his healing sternum\u2014as she anchors him safely through his post-op sensory crash while his closed mPad rests in its matte-black cover on the console.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e006/c008/p002/megan-grounding-jordan-parked-sedan.jpg",
+                                    "alt": "Inside Megan Brooks's parked sedan outside Walton Hall on a crisp December morning, twenty-seven-year-old Megan leans across to rest her forehead tenderly against nineteen-year-old Jordan Fuller's and locks both of her hands firmly around his hands\u2014carefully protecting the red plush cardiac heart pillow buckled over his healing sternum\u2014as she anchors him safely through his post-op sensory crash while his closed mPad rests in its matte-black cover on the console."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 3,
