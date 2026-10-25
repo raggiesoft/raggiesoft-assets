@@ -8,12 +8,12 @@
     "ebook_sizes": {
         "epub": "51.5 MB",
         "pdf": "37.9 MB",
-        "text_epub": "914 KB",
+        "text_epub": "915 KB",
         "text_pdf": "3.4 MB",
-        "epub_bytes": 54002222,
-        "pdf_bytes": 39760995,
-        "text_epub_bytes": 935449,
-        "text_pdf_bytes": 3579242
+        "epub_bytes": 54003342,
+        "pdf_bytes": 39766392,
+        "text_epub_bytes": 936557,
+        "text_pdf_bytes": 3585391
     },
     "illustration_count": 48,
     "eras": [
@@ -2290,7 +2290,8 @@
                             "part_title": "The Friday Arrival & The Bus to Christiansburg",
                             "file_path": "e007/c002/p001.md",
                             "url": "/aubrie/spring-semester-2016/hey-saacurc-the-bear-and-the-bug/the-friday-arrival-the-bus-to-christiansburg",
-                            "date": "2016-02-12 16:15",
+                            "date": "2016-02-12",
+                            "start_time": "16:15",
                             "location": "The Hotel at Poly & Commonwealth Mall to Christiansburg Transit Center, VA"
                         }
                     ]
@@ -2306,7 +2307,8 @@
                             "part_title": "Part 1: The Electric Alert & The 10:00 AM Rush",
                             "file_path": "e007/c003/p001.md",
                             "url": "/aubrie/spring-semester-2016/the-electric-alert-the-box-office-showdown/part-1-the-electric-alert-the-10-00-am-rush",
-                            "date": "2016-02-19 10:00",
+                            "date": "2016-02-16",
+                            "start_time": "19:00",
                             "location": "414 Geneva Street & CPI Campus, Blacksburg, VA"
                         },
                         {
@@ -2314,7 +2316,8 @@
                             "part_title": "Part 2: The Letter From Home & The Box Office Confrontation",
                             "file_path": "e007/c003/p002.md",
                             "url": "/aubrie/spring-semester-2016/the-electric-alert-the-box-office-showdown/part-2-the-letter-from-home-the-box-office-confrontation",
-                            "date": "2016-02-24 14:30",
+                            "date": "2016-02-22",
+                            "start_time": "10:00",
                             "location": "The Crucible Gate 1 Box Office, Blacksburg, VA"
                         }
                     ]
@@ -2330,7 +2333,8 @@
                             "part_title": "Part 1: The Crucible Shuttle & The Forger Nation Tailgate",
                             "file_path": "e007/c004/p001.md",
                             "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-1-the-crucible-shuttle-the-forger-nation-tailgate",
-                            "date": "2016-05-21 15:00",
+                            "date": "2016-05-21",
+                            "start_time": "15:00",
                             "location": "414 Geneva Street to The Forger Nation Tailgate Plaza & Section 104, Row A, The Crucible, Blacksburg, VA",
                             "image": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p001/forger-nation-tailgate-plaza.jpg",
                             "image_alt": "Outside the towering Gothic limestone arches of The Crucible stadium at golden hour inside the Forger Nation Tailgate Plaza, Jordan Fuller sits smiling in his Vanguard Pro wheelchair wearing rectangular glasses, a maroon Electric Color concert shirt, and a gold-foil ticket lanyard with a plate of Smokin' Anvil pulled pork BBQ and his mPad, surrounded by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, and Mark Cooper near an Engine Room Records filming notice sign.",
@@ -2347,7 +2351,8 @@
                             "part_title": "Part 2: Act I: The Anvil Strike & The Marching Forgers",
                             "file_path": "e007/c004/p002.md",
                             "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-2-act-i-the-anvil-strike-the-marching-forgers",
-                            "date": "2016-05-21 19:55",
+                            "date": "2016-05-21",
+                            "start_time": "19:55",
                             "location": "Section 104, Row A, The Crucible, Commonwealth Polytechnic Institute, Blacksburg, VA",
                             "image": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p002/act-i-ignition-marching-forgers.jpg",
                             "image_alt": "From the Section 104, Row A accessible terrace inside The Crucible at night, Jordan Fuller sits in his wheelchair beside Madison Scott, Aubrie Jean Kelly, Zo\u00eb Wren Brooks, and Mark Cooper cheering up at a sweeping cinema camera jib overhead while on the main stage all 300 members of the CPI Marching Forgers perform alongside Ryan and Cassidy O'Connell under molten-orange and foundry-maroon spotlights.",
@@ -2364,7 +2369,8 @@
                             "part_title": "Part 3: Acts II & III: Fifty-Two to Nothing & The Vault",
                             "file_path": "e007/c004/p003.md",
                             "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-3-acts-ii-iii-fifty-two-to-nothing-the-vault",
-                            "date": "2016-05-21 20:25",
+                            "date": "2016-05-21",
+                            "start_time": "20:25",
                             "location": "Section 104, Row A, The Crucible, Commonwealth Polytechnic Institute, Blacksburg, VA",
                             "image": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p003/fifty-two-to-nothing-scoreboard.jpg",
                             "image_alt": "Inside The Crucible at night during 'Fifty-Two to Nothing: The Norfolk Reckoning', massive glowing Foundry Maroon and Molten Orange numerals on the North End Zone scoreboard display 'CPI 52 \u2014 VDU 0' while in the foreground on the Section 104, Row A accessible terrace, Jordan Fuller raises his fist in triumph from his wheelchair as Mark Cooper claps his shoulder and Aubrie Jean Kelly, Madison Scott, and Zo\u00eb Wren Brooks cheer wildly around him.",
@@ -2385,7 +2391,8 @@
                             "part_title": "Part 4: Acts IV & V: Brother's Keeper, The Summer Festival Announcement, & Saturday Night Lights",
                             "file_path": "e007/c004/p004.md",
                             "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-4-acts-iv-v-brother-s-keeper-the-summer-festival-announcement-saturday-night-lights",
-                            "date": "2016-05-21 21:15",
+                            "date": "2016-05-21",
+                            "start_time": "21:15",
                             "location": "Section 104, Row A, The Crucible, Commonwealth Polytechnic Institute, Blacksburg, VA",
                             "image": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/brothers-keeper-acoustic-spotlight.jpg",
                             "image_alt": "Under two solitary warm golden spotlights at center stage inside the darkened 65,000-seat bowl of The Crucible, Ryan O'Connell sits in his manual wheelchair fingerpicking an acoustic guitar beside his sister Cassidy O'Connell at a gleaming black grand piano during 'Brother's Keeper', while the curved stage screen behind them displays 'THE FORGER NATION SUMMER FESTIVAL \u2022 AUGUST 2017' and thousands of fans hold up quiet white lights across the stands.",
@@ -2402,7 +2409,8 @@
                             "part_title": "Part 5: Act VI: Electric Color (Live at the Crucible) & The Departure Loop",
                             "file_path": "e007/c004/p005.md",
                             "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-5-act-vi-electric-color-live-at-the-crucible-the-departure-loop",
-                            "date": "2016-05-21 22:40",
+                            "date": "2016-05-21",
+                            "start_time": "22:40",
                             "location": "The Crucible & Stadium Transit Loop, Blacksburg, VA",
                             "image": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/electric-color-rainbow-reclamation.jpg",
                             "image_alt": "During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage, and in the foreground at Section 104, Row A, Jordan Fuller raises both hands in happy tears from his wheelchair surrounded by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, and Mark Cooper.",
@@ -2435,7 +2443,8 @@
                             "part_title": "The U.S. 11 Compound & The Sunken Sanctuary",
                             "file_path": "e008/c001/p001.md",
                             "url": "/aubrie/summer-2016/the-u-s-11-compound-the-sunken-sanctuary/the-u-s-11-compound-the-sunken-sanctuary",
-                            "date": "2016-07-01 11:00",
+                            "date": "2016-07-01",
+                            "start_time": "11:00",
                             "location": "The Kelly-Anderson-Brooks Compound, U.S. Route 11, Christiansburg/Blacksburg Corridor, VA"
                         }
                     ]
@@ -2451,7 +2460,8 @@
                             "part_title": "Part 1: The Morning Of, The Gathering, & The Vows",
                             "file_path": "e008/c002/p001.md",
                             "url": "/aubrie/summer-2016/the-double-wedding-the-legal-seal/part-1-the-morning-of-the-gathering-the-vows",
-                            "date": "2016-07-16 07:30",
+                            "date": "2016-07-16",
+                            "start_time": "07:30",
                             "location": "The U.S. 11 Compound to Old Town Ballroom & Conservatory, Christiansburg, VA"
                         },
                         {
@@ -2459,7 +2469,8 @@
                             "part_title": "Part 2: The Legal Seal, The Reception, & The First Night",
                             "file_path": "e008/c002/p002.md",
                             "url": "/aubrie/summer-2016/the-double-wedding-the-legal-seal/part-2-the-legal-seal-the-reception-the-first-night",
-                            "date": "2016-07-16 14:45",
+                            "date": "2016-07-16",
+                            "start_time": "14:45",
                             "location": "Montgomery County Courthouse, Old Town Ballroom, & The Sunken Sanctuary (U.S. 11), VA"
                         }
                     ]

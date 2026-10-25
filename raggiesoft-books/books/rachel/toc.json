@@ -10,10 +10,10 @@
         "pdf": "15.3 MB",
         "text_epub": "985 KB",
         "text_pdf": "2.7 MB",
-        "epub_bytes": 14122843,
-        "pdf_bytes": 16024991,
-        "text_epub_bytes": 1008672,
-        "text_pdf_bytes": 2848054
+        "epub_bytes": 14122860,
+        "pdf_bytes": 16025093,
+        "text_epub_bytes": 1008691,
+        "text_pdf_bytes": 2848155
     },
     "illustration_count": 18,
     "eras": [
@@ -2368,7 +2368,8 @@
                             "part_title": "Part 1: Friday Arrival, The Commonwealth Mall Curb, & The ADA Suite at The Hotel at Poly",
                             "file_path": "e020/c001/p001.md",
                             "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-the-commonwealth-mall-curb-the-ada-suite-at-the-hotel-at-poly",
-                            "date": "2016-02-12 16:00",
+                            "date": "2016-02-12",
+                            "start_time": "16:00",
                             "location": "The Hotel at Poly & Commonwealth Mall, Commonwealth Polytechnic Institute, Blacksburg, VA"
                         },
                         {
@@ -2376,7 +2377,8 @@
                             "part_title": "Part 2: Saturday at SAACURC: The Clothespin Gauntlet & The GIH Pilot Roundtable",
                             "file_path": "e020/c001/p002.md",
                             "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-2-saturday-at-saacurc-the-clothespin-gauntlet-the-gih-pilot-roundtable",
-                            "date": "2016-02-13 09:00",
+                            "date": "2016-02-13",
+                            "start_time": "09:00",
                             "location": "Kincaid Student Center (290 College Ave.) & The Hotel at Poly, Blacksburg, VA"
                         },
                         {
@@ -2384,7 +2386,8 @@
                             "part_title": "Part 3: Sunday Wrap-Up: Closing Lunch, Awards Ceremony, & Home to Norfolk",
                             "file_path": "e020/c001/p003.md",
                             "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-3-sunday-wrap-up-closing-lunch-awards-ceremony-home-to-norfolk",
-                            "date": "2016-02-14 11:30",
+                            "date": "2016-02-14",
+                            "start_time": "11:30",
                             "location": "Kincaid Student Center (290 College Ave.) to Interstate 81 North & Eastbound to Norfolk, VA"
                         }
                     ]
