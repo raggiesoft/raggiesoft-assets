@@ -58,6 +58,11 @@
 1980s progressive rock, live stadium concert, epic encore, male and female lead vocals, massive gated reverb snare drum, complex drum fills, sweeping analog synth pads, soaring melodic electric guitar, triumphant, rhythmic precision
 ```
 
+### Styles to Exclude
+```text
+studio flat mix, dry vocals, modern pop, hip hop, rap, country, acoustic ballad, lo-fi, edm, muffled, sluggish
+```
+
 ### Lyrics (Exact Transcription of `The Flight Path_ Live at the Chancellery (feat. Crimson Node).wav` — Introduces `CRIMSON NODE`, Never Mentions the Song Title!)
 ```text
 [Live Stadium Crowd Roar]

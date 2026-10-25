@@ -56,6 +56,11 @@
 1980s progressive synth-rock, live arena concert recording, mid-show energy, male and female duet, massive gated reverb snare drum, driving analog synth arpeggios, soaring melodic electric guitar, loud audience singalong on chorus, triumphant, rhythmic precision
 ```
 
+### Styles to Exclude
+```text
+studio flat mix, dry vocals, modern pop, hip hop, rap, country, acoustic ballad, lo-fi, edm, muffled, sluggish
+```
+
 ### Lyrics (Exact Transcription of `The Flight Path_ Live in Virginia Beach.wav` — Slipped Unannounced Mid-Concert, No Song Title or Crimson Node Mention!)
 ```text
 [Live Arena Crowd Cheering]

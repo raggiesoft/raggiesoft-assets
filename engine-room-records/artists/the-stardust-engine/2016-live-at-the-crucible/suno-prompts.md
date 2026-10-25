@@ -362,7 +362,7 @@ intimate live acoustic concert recording in a pin-drop quiet stadium, delicate m
 drums, percussion, bass guitar, electric guitar, heavy distortion, brass section, studio flat mix, hip hop, rap, upbeat pop
 ```
 
-#### Lyrics (Copy-Paste into Suno — Phonetic `See-Pea-Eye` Included)
+#### Lyrics (Copy-Paste into Suno — Phonetic `See-Pea-Eye` & `Ree-ignition` Included)
 ```text
 [Pin-Drop Stadium Silence]
 [Soft Fingerpicked Acoustic Guitar Note]
@@ -373,7 +373,7 @@ This next song is the centerpiece of Our Own Frequency, and it's the most privat
 [female]
 And they don't see how you keep me anchored when the world gets too loud for my head to handle. We take care of each other. That's what family does.
 [male]
-Doing all of those daily routines on tour buses and in hotel rooms across the world was one thing when we were twenty-two. Now that we're older... I'm gonna be honest with you, Forger Nation. Accommodating this chair on the road has gotten too hard on my body, and on my family. So this Reignition tour is going to be the last world tour we ever do.
+Doing all of those daily routines on tour buses and in hotel rooms across the world was one thing when we were twenty-two. Now that we're older... I'm gonna be honest with you, Forger Nation. Accommodating this chair on the road has gotten too hard on my body, and on my family. So this Ree-ignition tour is going to be the last world tour we ever do.
 [Audience Murmurs Softly, Then Applauds Warmly in Support]
 [female]
 Wait—don't be sad! We aren't retiring! If touring the world is too hard on Ryan, then the world can come to Blacksburg! Starting next summer, every single year right here at our alma mater, we're headlining the annual See-Pea-Eye Summer Festival—and sleeping in our own beds on Progress Street every night!
@@ -670,13 +670,23 @@ Under the Saturday night lights!
      ```text
      1980s stadium rock live concert recording, massive 65000-person open-air football stadium acoustics, roaring crowd singalong, heavy 80s gated reverb drums, driving electric bass, soaring overdriven electric guitar, bright polyphonic analog synthesizers, passionate live vocals, triumphant homecoming energy
      ```
-2. **Act IV Acoustic Porch Block (`Tracks 14–16: Our Own Frequency, Safe Person, Brother's Keeper`):**
+   - **Styles to Exclude:**
+     ```text
+     studio flat mix, dry vocals, modern pop, hip hop, rap, country, acoustic coffeehouse, lo-fi, edm, muffled, sluggish
+     ```
+2. **Act IV Acoustic Porch Block (`Tracks 14–16: Our Own Frequency, Brother's Keeper, Safe Person` — STRICTLY NO DRUMS OR ELECTRIC INSTRUMENTS):**
    - Upload each track's studio master WAV from `master-wav/studio/<slug>.wav` into Suno's **Cover** tool (`Audio Influence: 74%`, `Style Influence: 90%`, `Weirdness: 0%`).
    - **Styles to Include:**
      ```text
-     intimate live stadium acoustic performance, warm acoustic grand piano, unplugged acoustic guitar, upright acoustic bass, brushed percussion, male and female duet, pin-drop quiet 65000-person stadium ambience with warm applause, emotional, crystalline live acoustics
+     intimate live acoustic concert recording in a hushed 65000-person stadium, warm acoustic grand piano, unplugged fingerpicked acoustic guitar, male and female vocal duet, raw vulnerable sibling harmonies, pin-drop quiet stadium ambience with warm applause on intro and outro, crystalline live acoustics
      ```
-3. **Track 23 (`Last Bus Home: Lights Out on Progress Street` — The False Ending):**
+   - **Styles to Exclude (MANDATORY FOR ACT IV ACOUSTIC BLOCK):**
+     ```text
+     drums, drum kit, snare drum, percussion, bass guitar, electric guitar, heavy distortion, synthesizer, brass section, marching band, studio flat mix, loud crowd screaming over vocals, hip hop, rap, electronic dance beat
+     ```
+3. **Track 22 (`Reignition: Lights Up on Progress Street` —Phonetic `Ree-ignition`):**
+   - When covering `master-wav/studio/reignition-lights-up-on-progress-street.wav` for Track 22, always spell `Reignition` phonetically as **`Ree-ignition`** inside the Suno Lyrics box so Suno sings `"Ree-ignition"` rather than `"reg-nition"`.
+4. **Track 23 (`Last Bus Home: Lights Out on Progress Street` — The False Ending):**
    - Ends with the instruments fading to a lone upright piano chord, Cassidy whispering *"Lights out on Progress Street..."*, Ryan saying *"Goodnight, Forger Nation,"* and the stage lights cutting to black so the audience believes the show is over.
 
 ---

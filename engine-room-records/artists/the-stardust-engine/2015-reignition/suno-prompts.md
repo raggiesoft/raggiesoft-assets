@@ -22,8 +22,8 @@
 3. **Strict `llms-suno-usage.txt` Compliance Across All 11 Prompts:**
    - **Rule 1 (Aggression Filter):** All lyrics and style prompts are 100% positive and protagonist-focused (e.g., `"Go Forgers!"`, `"Raise our banners high for See-Pea-Eye!"`).
    - **Rule 2 (Producer Notes):** Musical cues inside the Suno Lyrics box use parenthetical producer notes `(like this)`.
-   - **Rule 4 (Phonetic Pronunciation):** `CPI` is spelled phonetically as `See-Pea-Eye` strictly inside the Suno Lyrics box below (while `lyrics/*.md` uses clean `CPI`).
-   - **Rule 5 & Rule 18 (100% Self-Contained Prompts):** Every track's Style and Lyrics prompt is 100% self-contained with zero references to previous songs' audio chords or external tracks.
+   - **Rule 4 (Phonetic Pronunciation):** `CPI` is spelled phonetically as `See-Pea-Eye` and `Reignition` is spelled phonetically as `Ree-ignition` strictly inside the Suno Lyrics box below so Suno's tokenizer does not mispronounce `Reig-` as `reg-nition` (while `lyrics/*.md` uses clean `CPI` and `Reignition`).
+   - **Rule 5 & Rule 18 (100% Self-Contained Prompts + Exclude Styles):** Every track's Style, Exclude Styles, and Lyrics prompt is 100% self-contained with zero references to previous songs' audio chords or external tracks.
    - **Rule 7 (Suno v6 Duet Protocol):** For duets, leave **Vocal Gender** unselected in the Suno UI, include `male and female duet` in the Style prompt, and use `[male]` and `[female]` before lines in the Lyrics box (never `[male and female duet]` or character names in the Lyrics box).
 
 ---
@@ -32,12 +32,16 @@
 
 ### Track 01 — `Reignition: Lights Up on Progress Street`
 * **Target Filename:** `reignition-lights-up-on-progress-street.wav` (in `master-wav/studio/`)
-* **Suno UI Settings:** `Vocal Gender: Unselected` (Duet) • `Weirdness: 0%`
+* **Suno UI Settings:** `Vocal Gender: Unselected` (Duet) • `Weirdness: 0%` • `Style Influence: 90%`
 * **Style of Music Prompt ($\le 1,000$ chars):**
 ```text
 1980s AOR anthem, melodic stadium rock, male and female duet, soaring high tenor male vocal, powerhouse alto female vocal, warm acoustic piano intro building into a bright 1980s polyphonic analog synthesizer brass fanfare, driving eighth-note electric bassline, massive pounding 80s gated reverb snare drum, crisp overdriven rhythm electric guitar, 132 BPM, D Major, triumphant comeback opener, soaring twin guitar and synthesizer solo
 ```
-* **Suno Lyrics Box:**
+* **Exclude Styles:**
+```text
+modern pop, hip hop, rap, country, acoustic folk, lo-fi, edm, techno, heavy metal screaming, sluggish, dragging, muffled
+```
+* **Suno Lyrics Box (Phonetic `Ree-ignition` Included):**
 ```text
 [Intro]
 (Warm, solitary acoustic piano chords in D Major)
@@ -75,13 +79,13 @@ And every word we left unsaid is waking up ahead!
 
 [Chorus]
 (full 1980s arena rock band)
-This is Reignition! Throw the master switch!
+This is Ree-ignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
 Lights up on Progress Street, the fire's burning bright
 Splitting through the shadow of a ten-year night!
 From the basement breakers to the stadium sky
 The Stardust Engine never said goodbye!
-This is Reignition! Hear the thrusters roar!
+This is Ree-ignition! Hear the thrusters roar!
 We're lighting up the valley like we did before!
 
 [Verse 2]
@@ -109,13 +113,13 @@ Every tube is glowing cherry red!
 And every dream we ever led is wide awake ahead!
 
 [Chorus]
-This is Reignition! Throw the master switch!
+This is Ree-ignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
 Lights up on Progress Street, the fire's burning bright
 Splitting through the shadow of a ten-year night!
 From the basement breakers to the stadium sky
 The Stardust Engine never said goodbye!
-This is Reignition! Hear the thrusters roar!
+This is Ree-ignition! Hear the thrusters roar!
 We're lighting up the valley like we did before!
 
 [Bridge]
@@ -134,13 +138,13 @@ Blacksburg, Virginia—your band is home!
 
 [Final Chorus]
 (music swells to maximum stadium energy)
-This is Reignition! Throw the master switch!
+This is Ree-ignition! Throw the master switch!
 Climbing out of the quiet to the highest pitch!
 Lights up on Progress Street, the fire's burning bright
 Splitting through the shadow of a ten-year night!
 From the basement breakers to the stadium sky
 The Stardust Engine never said goodbye!
-This is Reignition! Hear the thrusters roar!
+This is Ree-ignition! Hear the thrusters roar!
 We're lighting up the valley forevermore!
 
 [Outro]
@@ -156,10 +160,14 @@ The fire is back!
 
 ### Track 02 — `Main Engine Start`
 * **Target Filename:** `main-engine-start.wav` (in `master-wav/studio/`)
-* **Suno UI Settings:** `Vocal Gender: Male` • `Weirdness: 0%`
+* **Suno UI Settings:** `Vocal Gender: Male` • `Weirdness: 0%` • `Style Influence: 90%`
 * **Style of Music Prompt ($\le 1,000$ chars):**
 ```text
 1980s arena rock, high-energy AOR stadium rocker, solo high tenor male lead vocal with gang chorus harmonies, spoken countdown intro, chugging palm-muted electric guitar riff, sweeping 80s analog synthesizer arpeggios, driving bass guitar, massive pounding 80s gated reverb drums, 142 BPM, E Minor, exhilarating, cosmic launch energy, screaming melodic guitar solo
+```
+* **Exclude Styles:**
+```text
+female vocals, modern pop, hip hop, rap, country, acoustic ballad, lo-fi, edm, death metal screaming, sluggish, slow
 ```
 * **Suno Lyrics Box:**
 ```text
@@ -257,10 +265,14 @@ We are in orbit!
 
 ### Track 03 — `The Iceberg: Submerged`
 * **Target Filename:** `the-iceberg-submerged.wav` (in `master-wav/studio/`)
-* **Suno UI Settings:** `Vocal Gender: Female` • `Weirdness: 0%`
+* **Suno UI Settings:** `Vocal Gender: Female` • `Weirdness: 0%` • `Style Influence: 90%`
 * **Style of Music Prompt ($\le 1,000$ chars):**
 ```text
 1980s melodic synth-rock, New Wave AOR, solo powerhouse alto female lead vocal, punchy sequenced analog synthesizer bassline, shimmering 80s polyphonic synth hooks, rhythmic clean-to-overdriven electric guitar, crisp 80s gated reverb snare drum, 126 BPM, F# Minor, sleek, confident, untouchable, soaring guitar and synth duel
+```
+* **Exclude Styles:**
+```text
+male vocals, modern pop, hip hop, rap, country, acoustic folk, lo-fi, heavy metal screaming, sluggish, muffled
 ```
 * **Suno Lyrics Box:**
 ```text
@@ -346,10 +358,14 @@ Thank you, Holly.
 
 ### Track 04 — `Orbital Return`
 * **Target Filename:** `orbital-return.wav` (in `master-wav/studio/`)
-* **Suno UI Settings:** `Vocal Gender: Female` • `Weirdness: 0%`
+* **Suno UI Settings:** `Vocal Gender: Female` • `Weirdness: 0%` • `Style Influence: 90%`
 * **Style of Music Prompt ($\le 1,000$ chars):**
 ```text
 1980s cosmic synth-pop, melodic AOR, solo powerhouse alto female lead vocal, lush sweeping 80s analog polyphonic synthesizer pads, sparkling arpeggiated synth sequencer, melodic fretless-style electric bass, booming 80s gated reverb drums, soaring emotional electric guitar solo, 118 BPM, A Major, weightless, euphoric, celestial
+```
+* **Exclude Styles:**
+```text
+male vocals, heavy distortion, thrash metal, hip hop, rap, country, acoustic folk, lo-fi, harsh, abrasive
 ```
 * **Suno Lyrics Box:**
 ```text
@@ -440,10 +456,14 @@ Telemetry locked. Welcome home.
 
 ### Track 05 — `Ten Years in the Quiet`
 * **Target Filename:** `ten-years-in-the-quiet.wav` (in `master-wav/studio/`)
-* **Suno UI Settings:** `Vocal Gender: Unselected` (Duet) • `Weirdness: 0%`
+* **Suno UI Settings:** `Vocal Gender: Unselected` (Duet) • `Weirdness: 0%` • `Style Influence: 90%`
 * **Style of Music Prompt ($\le 1,000$ chars):**
 ```text
 1980s AOR power ballad, male and female duet, high tenor male vocal, warm alto female vocal, acoustic piano and clean chorused electric guitar arpeggios, lush 80s analog synth strings, massive 80s gated reverb snare drum entrance, melodic bassline, 84 BPM, G Major, reflective, healing, emotional stadium crescendo, soaring guitar solo
+```
+* **Exclude Styles:**
+```text
+fast tempo, thrash metal, hip hop, rap, edm, techno, modern pop, auto-tune, lo-fi, harsh screaming
 ```
 * **Suno Lyrics Box:**
 ```text
@@ -551,12 +571,16 @@ Ready when you are, sis.
 
 ### Track 06 — `Fifty-Two to Nothing: The Norfolk Reckoning`
 * **Target Filename:** `fifty-two-to-nothing-the-norfolk-reckoning.wav` (in `master-wav/studio/`)
-* **Suno UI Settings:** `Vocal Gender: Unselected` (Duet) • `Weirdness: 0%`
+* **Suno UI Settings:** `Vocal Gender: Unselected` (Duet) • `Weirdness: 0%` • `Style Influence: 90%`
 * **Style of Music Prompt ($\le 1,000$ chars):**
 ```text
 1980s stadium rock stomper, high-energy AOR arena anthem, male and female duet, roaring stadium gang vocals, thunderous marching drumline snare cadence with massive 80s gated reverb, driving overdriven electric guitar riff, triumphant 80s synthesizer brass stabs, 138 BPM, C Minor, triumphant, victorious, high-octane, blazing twin guitar and synth solo
 ```
-* **Suno Lyrics Box:**
+* **Exclude Styles:**
+```text
+slow ballad, acoustic folk, modern pop, hip hop, rap, country, lo-fi, edm, sluggish, quiet
+```
+* **Suno Lyrics Box (Phonetic `See-Pea-Eye` Included):**
 ```text
 [Intro]
 (Thunderous marching drumline snare cadence with massive 1980s gated reverb)
@@ -655,10 +679,14 @@ Go Forgers!
 
 ### Track 07 — `Twin Frequency: The Rhythm Section`
 * **Target Filename:** `twin-frequency-the-rhythm-section.wav` (in `master-wav/studio/`)
-* **Suno UI Settings:** `Vocal Gender: Male` • `Weirdness: 0%`
+* **Suno UI Settings:** `Vocal Gender: Male` • `Weirdness: 0%` • `Style Influence: 90%`
 * **Style of Music Prompt ($\le 1,000$ chars):**
 ```text
 1980s groove-driven arena rock, upbeat melodic AOR, solo high tenor male lead vocal with gang backing shouts, virtuosic syncopated electric bass groove, thunderous 1980s drum fills with octobans and massive gated reverb snare, punchy 80s synth brass hits, rhythmic electric guitar, 130 BPM, A Minor, infectious groove, dual bass and drum breakdown
+```
+* **Exclude Styles:**
+```text
+female lead vocals, slow ballad, acoustic folk, modern pop, hip hop, rap, country, lo-fi, buried bass, weak drums
 ```
 * **Suno Lyrics Box:**
 ```text
@@ -744,10 +772,14 @@ The heartbeat of the Engine!
 
 ### Track 08 — `Neon on the Huckleberry Trail`
 * **Target Filename:** `neon-on-the-huckleberry-trail.wav` (in `master-wav/studio/`)
-* **Suno UI Settings:** `Vocal Gender: Female` • `Weirdness: 0%`
+* **Suno UI Settings:** `Vocal Gender: Female` • `Weirdness: 0%` • `Style Influence: 90%`
 * **Style of Music Prompt ($\le 1,000$ chars):**
 ```text
 1980s dream-pop AOR, nostalgic melodic synth-rock, solo powerhouse alto female lead vocal, shimmering 1980s chorus electric guitar, warm analog polyphonic synthesizer arpeggios, driving eighth-note bassline, crisp 80s gated reverb drums, 124 BPM, E Major, autumnal, uplifting, breezy, melodic guitar solo
+```
+* **Exclude Styles:**
+```text
+male lead vocals, heavy metal distortion, screaming, hip hop, rap, country, edm, lo-fi, dark, aggressive
 ```
 * **Suno Lyrics Box:**
 ```text
@@ -838,10 +870,14 @@ Race you back to Progress Street.
 
 ### Track 09 — `No Strings on the Master`
 * **Target Filename:** `no-strings-on-the-master.wav` (in `master-wav/studio/`)
-* **Suno UI Settings:** `Vocal Gender: Male` • `Weirdness: 0%`
+* **Suno UI Settings:** `Vocal Gender: Male` • `Weirdness: 0%` • `Style Influence: 90%`
 * **Style of Music Prompt ($\le 1,000$ chars):**
 ```text
 1980s hard melodic rock, fast AOR guitar anthem, solo high tenor male lead vocal, blistering overdriven 80s electric guitar riff, driving analog organ and synthesizer stabs, galloping electric bass, rapid-fire 80s gated reverb drums, 146 BPM, D Minor, confident, triumphant, virtuosic two-hand tapping guitar solo
+```
+* **Exclude Styles:**
+```text
+female lead vocals, slow ballad, acoustic folk, modern pop, hip hop, rap, country, lo-fi, edm, sluggish
 ```
 * **Suno Lyrics Box:**
 ```text
@@ -932,10 +968,14 @@ Engine Room Records!
 
 ### Track 10 — `Still Your Safe Person`
 * **Target Filename:** `still-your-safe-person.wav` (in `master-wav/studio/`)
-* **Suno UI Settings:** `Vocal Gender: Unselected` (Duet) • `Weirdness: 0%`
+* **Suno UI Settings:** `Vocal Gender: Unselected` (Duet) • `Weirdness: 0%` • `Style Influence: 90%`
 * **Style of Music Prompt ($\le 1,000$ chars):**
 ```text
 1980s arena power ballad, male and female duet, high tenor male vocal, emotive alto female vocal, warm acoustic grand piano intro, weeping clean electric guitar leads, lush 1980s analog synthesizer strings, massive booming 80s gated reverb drum fill entrance, 78 BPM, C Major, deeply comforting, unconditional love, soaring emotional guitar solo
+```
+* **Exclude Styles:**
+```text
+fast tempo, thrash metal, hip hop, rap, edm, techno, modern pop, auto-tune, lo-fi, harsh screaming, aggressive
 ```
 * **Suno Lyrics Box:**
 ```text
@@ -1042,10 +1082,14 @@ I've got you. Always.
 
 ### Track 11 — `Where the Stars Still Burn`
 * **Target Filename:** `where-the-stars-still-burn.wav` (in `master-wav/studio/`)
-* **Suno UI Settings:** `Vocal Gender: Unselected` (Duet) • `Weirdness: 0%`
+* **Suno UI Settings:** `Vocal Gender: Unselected` (Duet) • `Weirdness: 0%` • `Style Influence: 90%`
 * **Style of Music Prompt ($\le 1,000$ chars):**
 ```text
 1980s AOR stadium finale, cosmic melodic rock anthem, male and female duet, soaring high tenor male vocal, powerhouse alto female vocal, lush 1980s polyphonic analog synthesizer fanfare, shimmering arpeggiated keyboards, twin harmonizing electric guitars, driving bassline, massive pounding 80s gated reverb drums, 134 BPM, G Major, uplifting, timeless, horizon-bound studio album closer, epic twin guitar and synth solo
+```
+* **Exclude Styles:**
+```text
+modern pop, hip hop, rap, country, acoustic folk, lo-fi, edm, techno, heavy metal screaming, sluggish, dark
 ```
 * **Suno Lyrics Box:**
 ```text
