@@ -15,36 +15,47 @@
         "text_epub_bytes": 454853,
         "text_pdf_bytes": 1273260
     },
+    "illustration_count": 0,
     "eras": [
         {
             "era_num": 1,
             "era_title": "Elementary School",
             "era_url": "/raggiesoft-books/books/nichole/elementary-school",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Newport Vacation",
                     "chap_url": "/raggiesoft-books/books/nichole/elementary-school/the-newport-vacation",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Bachelor Pad & The Pitch",
-                            "file_path": "e001/c001/p001.md"
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/nichole/elementary-school/the-newport-vacation/part-1-the-bachelor-pad-the-pitch",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Circuit Barn & The Park Summit",
-                            "file_path": "e001/c001/p002.md"
+                            "file_path": "e001/c001/p002.md",
+                            "url": "/nichole/elementary-school/the-newport-vacation/part-2-the-circuit-barn-the-park-summit",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Quiet Convoy",
-                            "file_path": "e001/c001/p003.md"
+                            "file_path": "e001/c001/p003.md",
+                            "url": "/nichole/elementary-school/the-newport-vacation/part-3-the-quiet-convoy",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: BayFront Creamery & The Bennett Beacon",
-                            "file_path": "e001/c001/p004.md"
+                            "file_path": "e001/c001/p004.md",
+                            "url": "/nichole/elementary-school/the-newport-vacation/part-4-bayfront-creamery-the-bennett-beacon",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -52,11 +63,14 @@
                     "chap_num": 2,
                     "chap_title": "Project Alpha",
                     "chap_url": "/raggiesoft-books/books/nichole/elementary-school/project-alpha",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Origin Story: Project Alpha",
-                            "file_path": "e001/c002/p001.md"
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/nichole/elementary-school/project-alpha/origin-story-project-alpha",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -66,16 +80,20 @@
             "era_num": 2,
             "era_title": "Middle School",
             "era_url": "/raggiesoft-books/books/nichole/middle-school",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Test Run",
                     "chap_url": "/raggiesoft-books/books/nichole/middle-school/the-test-run",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Curb Trap",
-                            "file_path": "e002/c001/p001.md"
+                            "file_path": "e002/c001/p001.md",
+                            "url": "/nichole/middle-school/the-test-run/the-curb-trap",
+                            "location": "Morrison Middle School (Main Entrance)"
                         }
                     ]
                 },
@@ -83,11 +101,14 @@
                     "chap_num": 2,
                     "chap_title": "The Yellow Wall",
                     "chap_url": "/raggiesoft-books/books/nichole/middle-school/the-yellow-wall",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Arrival at Morrison Middle School",
-                            "file_path": "e002/c002/p001.md"
+                            "file_path": "e002/c002/p001.md",
+                            "url": "/nichole/middle-school/the-yellow-wall/arrival-at-morrison-middle-school",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -95,21 +116,28 @@
                     "chap_num": 3,
                     "chap_title": "Middle School Life",
                     "chap_url": "/raggiesoft-books/books/nichole/middle-school/middle-school-life",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Fire Alarm",
-                            "file_path": "e002/c003/p001.md"
+                            "file_path": "e002/c003/p001.md",
+                            "url": "/nichole/middle-school/middle-school-life/part-1-the-fire-alarm",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Call",
-                            "file_path": "e002/c003/p002.md"
+                            "file_path": "e002/c003/p002.md",
+                            "url": "/nichole/middle-school/middle-school-life/part-2-the-call",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: 1850 Delaney Street, Virginia Beach & The Architect and the Laborer",
-                            "file_path": "e002/c003/p003.md"
+                            "file_path": "e002/c003/p003.md",
+                            "url": "/nichole/middle-school/middle-school-life/part-3-1850-delaney-street-virginia-beach-the-architect-and-the-laborer",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -119,21 +147,27 @@
             "era_num": 3,
             "era_title": "Freshman Year",
             "era_url": "/raggiesoft-books/books/nichole/freshman-year",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Welcome to Northwood High School",
                     "chap_url": "/raggiesoft-books/books/nichole/freshman-year/welcome-to-northwood-high-school",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The 5 AM Alarm & The Escort",
-                            "file_path": "e003/c001/p001.md"
+                            "file_path": "e003/c001/p001.md",
+                            "url": "/nichole/freshman-year/welcome-to-northwood-high-school/part-1-the-5-am-alarm-the-escort",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Return & The Hand-Off",
-                            "file_path": "e003/c001/p002.md"
+                            "file_path": "e003/c001/p002.md",
+                            "url": "/nichole/freshman-year/welcome-to-northwood-high-school/part-2-the-return-the-hand-off",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -141,11 +175,14 @@
                     "chap_num": 2,
                     "chap_title": "The Smoke Test",
                     "chap_url": "/raggiesoft-books/books/nichole/freshman-year/the-smoke-test",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Area of Rescue & The Return",
-                            "file_path": "e003/c002/p001.md"
+                            "file_path": "e003/c002/p001.md",
+                            "url": "/nichole/freshman-year/the-smoke-test/the-area-of-rescue-the-return",
+                            "location": "Northwood High School, Second Floor Academic Wing ("
                         }
                     ]
                 }
@@ -155,16 +192,20 @@
             "era_num": 4,
             "era_title": "Junior Year",
             "era_url": "/raggiesoft-books/books/nichole/junior-year",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Planning for the Future",
                     "chap_url": "/raggiesoft-books/books/nichole/junior-year/planning-for-the-future",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Transitioning Nichole\u2019s IEP & The Offer",
-                            "file_path": "e004/c001/p001.md"
+                            "file_path": "e004/c001/p001.md",
+                            "url": "/nichole/junior-year/planning-for-the-future/transitioning-nichole-s-iep-the-offer",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -172,16 +213,21 @@
                     "chap_num": 2,
                     "chap_title": "The Handover",
                     "chap_url": "/raggiesoft-books/books/nichole/junior-year/the-handover",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The First Shift",
-                            "file_path": "e004/c002/p001.md"
+                            "file_path": "e004/c002/p001.md",
+                            "url": "/nichole/junior-year/the-handover/part-1-the-first-shift",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Certification & The Maintenance Crew",
-                            "file_path": "e004/c002/p002.md"
+                            "file_path": "e004/c002/p002.md",
+                            "url": "/nichole/junior-year/the-handover/part-2-the-certification-the-maintenance-crew",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -191,21 +237,27 @@
             "era_num": 5,
             "era_title": "Senior Year",
             "era_url": "/raggiesoft-books/books/nichole/senior-year",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Graduation",
                     "chap_url": "/raggiesoft-books/books/nichole/senior-year/graduation",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Breach & The Search",
-                            "file_path": "e005/c001/p001.md"
+                            "file_path": "e005/c001/p001.md",
+                            "url": "/nichole/senior-year/graduation/part-1-the-breach-the-search",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Promise",
-                            "file_path": "e005/c001/p002.md"
+                            "file_path": "e005/c001/p002.md",
+                            "url": "/nichole/senior-year/graduation/part-2-the-promise",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -213,11 +265,14 @@
                     "chap_num": 2,
                     "chap_title": "The Reset",
                     "chap_url": "/raggiesoft-books/books/nichole/senior-year/the-reset",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Damage Control & The War Room",
-                            "file_path": "e005/c002/p001.md"
+                            "file_path": "e005/c002/p001.md",
+                            "url": "/nichole/senior-year/the-reset/damage-control-the-war-room",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -227,16 +282,20 @@
             "era_num": 6,
             "era_title": "College Tours",
             "era_url": "/raggiesoft-books/books/nichole/college-tours",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Misfit Tour",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/the-misfit-tour",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The \\ & The Commuter Special",
-                            "file_path": "e006/c001/p001.md"
+                            "file_path": "e006/c001/p001.md",
+                            "url": "/nichole/college-tours/the-misfit-tour/the-the-commuter-special",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -244,26 +303,35 @@
                     "chap_num": 2,
                     "chap_title": "The Institution",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/the-institution",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Valley of Hope & The Barracks",
-                            "file_path": "e006/c002/p001.md"
+                            "file_path": "e006/c002/p001.md",
+                            "url": "/nichole/college-tours/the-institution/part-1-the-valley-of-hope-the-barracks",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Rec Hall & The Safe House",
-                            "file_path": "e006/c002/p002.md"
+                            "file_path": "e006/c002/p002.md",
+                            "url": "/nichole/college-tours/the-institution/part-2-the-rec-hall-the-safe-house",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Pasture & The Night Watch",
-                            "file_path": "e006/c002/p003.md"
+                            "file_path": "e006/c002/p003.md",
+                            "url": "/nichole/college-tours/the-institution/part-3-the-pasture-the-night-watch",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Morning Report & The Pivot",
-                            "file_path": "e006/c002/p004.md"
+                            "file_path": "e006/c002/p004.md",
+                            "url": "/nichole/college-tours/the-institution/part-4-the-morning-report-the-pivot",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -271,21 +339,28 @@
                     "chap_num": 3,
                     "chap_title": "Virginia Dominion University",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/virginia-dominion-university",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Thirteen-Hour Problem & The Tower of Words",
-                            "file_path": "e006/c003/p001.md"
+                            "file_path": "e006/c003/p001.md",
+                            "url": "/nichole/college-tours/virginia-dominion-university/part-1-the-thirteen-hour-problem-the-tower-of-words",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Sanctuary & The Dealbreaker",
-                            "file_path": "e006/c003/p002.md"
+                            "file_path": "e006/c003/p002.md",
+                            "url": "/nichole/college-tours/virginia-dominion-university/part-2-the-sanctuary-the-dealbreaker",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Retreat",
-                            "file_path": "e006/c003/p003.md"
+                            "file_path": "e006/c003/p003.md",
+                            "url": "/nichole/college-tours/virginia-dominion-university/part-3-the-retreat",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -293,16 +368,21 @@
                     "chap_num": 4,
                     "chap_title": "Trek Up the East Coast",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/trek-up-the-east-coast",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Peninsula Run & The New Jersey Layover",
-                            "file_path": "e006/c004/p001.md"
+                            "file_path": "e006/c004/p001.md",
+                            "url": "/nichole/college-tours/trek-up-the-east-coast/part-1-the-peninsula-run-the-new-jersey-layover",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Machine at Rest & The Hopeful Morning",
-                            "file_path": "e006/c004/p002.md"
+                            "file_path": "e006/c004/p002.md",
+                            "url": "/nichole/college-tours/trek-up-the-east-coast/part-2-the-machine-at-rest-the-hopeful-morning",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -310,21 +390,28 @@
                     "chap_num": 5,
                     "chap_title": "Vermont",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/vermont",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Green Mountain Haul",
-                            "file_path": "e006/c005/p001.md"
+                            "file_path": "e006/c005/p001.md",
+                            "url": "/nichole/college-tours/vermont/part-1-the-green-mountain-haul",
+                            "location": "I-91 North (Crossing the Massachusetts/Vermont Line)"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Putney College Open House",
-                            "file_path": "e006/c005/p002.md"
+                            "file_path": "e006/c005/p002.md",
+                            "url": "/nichole/college-tours/vermont/part-2-putney-college-open-house",
+                            "location": "Putney College, Putney, Vermont"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Drive Back & The Fuel Stop",
-                            "file_path": "e006/c005/p003.md"
+                            "file_path": "e006/c005/p003.md",
+                            "url": "/nichole/college-tours/vermont/part-3-the-drive-back-the-fuel-stop",
+                            "location": "The Van (Leaving Putney)"
                         }
                     ]
                 },
@@ -332,21 +419,28 @@
                     "chap_num": 6,
                     "chap_title": "An Ocean of an Idea",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/an-ocean-of-an-idea",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The New Jersey Pivot",
-                            "file_path": "e006/c006/p001.md"
+                            "file_path": "e006/c006/p001.md",
+                            "url": "/nichole/college-tours/an-ocean-of-an-idea/part-1-the-new-jersey-pivot",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Juggernaut & The Ocean State Option",
-                            "file_path": "e006/c006/p002.md"
+                            "file_path": "e006/c006/p002.md",
+                            "url": "/nichole/college-tours/an-ocean-of-an-idea/part-2-the-juggernaut-the-ocean-state-option",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Ocean State Arrival",
-                            "file_path": "e006/c006/p003.md"
+                            "file_path": "e006/c006/p003.md",
+                            "url": "/nichole/college-tours/an-ocean-of-an-idea/part-3-the-ocean-state-arrival",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -354,16 +448,21 @@
                     "chap_num": 7,
                     "chap_title": "The Commuter Loop",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/the-commuter-loop",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Holy Cow & The Bull Run",
-                            "file_path": "e006/c007/p001.md"
+                            "file_path": "e006/c007/p001.md",
+                            "url": "/nichole/college-tours/the-commuter-loop/part-1-the-holy-cow-the-bull-run",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Braxton Link & The Upgrade",
-                            "file_path": "e006/c007/p002.md"
+                            "file_path": "e006/c007/p002.md",
+                            "url": "/nichole/college-tours/the-commuter-loop/part-2-the-braxton-link-the-upgrade",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -371,21 +470,28 @@
                     "chap_num": 8,
                     "chap_title": "The Gap Year Protocol",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/the-gap-year-protocol",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: 1850 Delaney Street, Virginia Beach, Virginia & The Departure",
-                            "file_path": "e006/c008/p001.md"
+                            "file_path": "e006/c008/p001.md",
+                            "url": "/nichole/college-tours/the-gap-year-protocol/part-1-1850-delaney-street-virginia-beach-virginia-the-departure",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Visitor & The Hydrostatic Lock",
-                            "file_path": "e006/c008/p002.md"
+                            "file_path": "e006/c008/p002.md",
+                            "url": "/nichole/college-tours/the-gap-year-protocol/part-2-the-visitor-the-hydrostatic-lock",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Milestone Payment & The Credential Hunt",
-                            "file_path": "e006/c008/p003.md"
+                            "file_path": "e006/c008/p003.md",
+                            "url": "/nichole/college-tours/the-gap-year-protocol/part-3-the-milestone-payment-the-credential-hunt",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -393,21 +499,28 @@
                     "chap_num": 9,
                     "chap_title": "The Independent Grid",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/the-independent-grid",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Commute & The Mole Lifestyle",
-                            "file_path": "e006/c009/p001.md"
+                            "file_path": "e006/c009/p001.md",
+                            "url": "/nichole/college-tours/the-independent-grid/part-1-the-commute-the-mole-lifestyle",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Commuter Waiver & The Credential Check",
-                            "file_path": "e006/c009/p002.md"
+                            "file_path": "e006/c009/p002.md",
+                            "url": "/nichole/college-tours/the-independent-grid/part-2-the-commuter-waiver-the-credential-check",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Detour and The Grid & The Debrief",
-                            "file_path": "e006/c009/p003.md"
+                            "file_path": "e006/c009/p003.md",
+                            "url": "/nichole/college-tours/the-independent-grid/part-3-the-detour-and-the-grid-the-debrief",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -417,26 +530,34 @@
             "era_num": 7,
             "era_title": "The Gap Year",
             "era_url": "/raggiesoft-books/books/nichole/the-gap-year",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Fleet Upgrade",
                     "chap_url": "/raggiesoft-books/books/nichole/the-gap-year/the-fleet-upgrade",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Dual-Grid Dilemma & The Christmas Compiler",
-                            "file_path": "e007/c001/p001.md"
+                            "file_path": "e007/c001/p001.md",
+                            "url": "/nichole/the-gap-year/the-fleet-upgrade/part-1-the-dual-grid-dilemma-the-christmas-compiler",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Winter Test & The Silent Investor",
-                            "file_path": "e007/c001/p002.md"
+                            "file_path": "e007/c001/p002.md",
+                            "url": "/nichole/the-gap-year/the-fleet-upgrade/part-2-the-winter-test-the-silent-investor",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Final Transfer",
-                            "file_path": "e007/c001/p003.md"
+                            "file_path": "e007/c001/p003.md",
+                            "url": "/nichole/the-gap-year/the-fleet-upgrade/part-3-the-final-transfer",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -444,16 +565,21 @@
                     "chap_num": 2,
                     "chap_title": "The Commuter Protocol",
                     "chap_url": "/raggiesoft-books/books/nichole/the-gap-year/the-commuter-protocol",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Intake & The Liability Lie",
-                            "file_path": "e007/c002/p001.md"
+                            "file_path": "e007/c002/p001.md",
+                            "url": "/nichole/the-gap-year/the-commuter-protocol/part-1-the-intake-the-liability-lie",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Bridge Fund & The Zero-Barrier Routine",
-                            "file_path": "e007/c002/p002.md"
+                            "file_path": "e007/c002/p002.md",
+                            "url": "/nichole/the-gap-year/the-commuter-protocol/part-2-the-bridge-fund-the-zero-barrier-routine",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -461,16 +587,21 @@
                     "chap_num": 3,
                     "chap_title": "Exploring Braxton",
                     "chap_url": "/raggiesoft-books/books/nichole/the-gap-year/exploring-braxton",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Zero-Friction Protocol & The Safe Harbor",
-                            "file_path": "e007/c003/p001.md"
+                            "file_path": "e007/c003/p001.md",
+                            "url": "/nichole/the-gap-year/exploring-braxton/part-1-the-zero-friction-protocol-the-safe-harbor",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Gen-Ed Pact",
-                            "file_path": "e007/c003/p002.md"
+                            "file_path": "e007/c003/p002.md",
+                            "url": "/nichole/the-gap-year/exploring-braxton/part-2-the-gen-ed-pact",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -478,11 +609,14 @@
                     "chap_num": 4,
                     "chap_title": "The Sync",
                     "chap_url": "/raggiesoft-books/books/nichole/the-gap-year/the-sync",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The War Room",
-                            "file_path": "e007/c004/p001.md"
+                            "file_path": "e007/c004/p001.md",
+                            "url": "/nichole/the-gap-year/the-sync/the-war-room",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -490,11 +624,14 @@
                     "chap_num": 5,
                     "chap_title": "The Fortress Test",
                     "chap_url": "/raggiesoft-books/books/nichole/the-gap-year/the-fortress-test",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Severed Link & The Sacred Trust",
-                            "file_path": "e007/c005/p001.md"
+                            "file_path": "e007/c005/p001.md",
+                            "url": "/nichole/the-gap-year/the-fortress-test/the-severed-link-the-sacred-trust",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -504,21 +641,27 @@
             "era_num": 8,
             "era_title": "Braxton Freshman",
             "era_url": "/raggiesoft-books/books/nichole/braxton-freshman",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The First Semester",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/the-first-semester",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Sorting Failure & The Tactical Retreat",
-                            "file_path": "e008/c001/p001.md"
+                            "file_path": "e008/c001/p001.md",
+                            "url": "/nichole/braxton-freshman/the-first-semester/part-1-the-sorting-failure-the-tactical-retreat",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Fortress Weekend",
-                            "file_path": "e008/c001/p002.md"
+                            "file_path": "e008/c001/p002.md",
+                            "url": "/nichole/braxton-freshman/the-first-semester/part-2-the-fortress-weekend",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -526,26 +669,35 @@
                     "chap_num": 2,
                     "chap_title": "The Machine in Motion",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/the-machine-in-motion",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Zero-Friction Morning & The Transit Chase",
-                            "file_path": "e008/c002/p001.md"
+                            "file_path": "e008/c002/p001.md",
+                            "url": "/nichole/braxton-freshman/the-machine-in-motion/part-1-the-zero-friction-morning-the-transit-chase",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Checkpoint Failure & The Treatment Protocol",
-                            "file_path": "e008/c002/p002.md"
+                            "file_path": "e008/c002/p002.md",
+                            "url": "/nichole/braxton-freshman/the-machine-in-motion/part-2-the-checkpoint-failure-the-treatment-protocol",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Double Ambush & The Filing",
-                            "file_path": "e008/c002/p003.md"
+                            "file_path": "e008/c002/p003.md",
+                            "url": "/nichole/braxton-freshman/the-machine-in-motion/part-3-the-double-ambush-the-filing",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Loudmouth",
-                            "file_path": "e008/c002/p004.md"
+                            "file_path": "e008/c002/p004.md",
+                            "url": "/nichole/braxton-freshman/the-machine-in-motion/part-4-the-loudmouth",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -553,16 +705,21 @@
                     "chap_num": 3,
                     "chap_title": "Nichole Adapts",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/nichole-adapts",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Engine Failure",
-                            "file_path": "e008/c003/p001.md"
+                            "file_path": "e008/c003/p001.md",
+                            "url": "/nichole/braxton-freshman/nichole-adapts/part-1-engine-failure",
+                            "location": "The Command Center (Second Bedroom), Unit 404, The Foundry Lofts"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Malpractice Shield & The Integration",
-                            "file_path": "e008/c003/p002.md"
+                            "file_path": "e008/c003/p002.md",
+                            "url": "/nichole/braxton-freshman/nichole-adapts/part-2-the-malpractice-shield-the-integration",
+                            "location": "The Command Center, Unit 404, The Foundry Lofts"
                         }
                     ]
                 },
@@ -570,16 +727,21 @@
                     "chap_num": 4,
                     "chap_title": "The Procedure: \"The Tune-Up\"",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/the-procedure-the-tune-up",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Handover (The Night Before) Time: 8:00 PM & The Separation",
-                            "file_path": "e008/c004/p001.md"
+                            "file_path": "e008/c004/p001.md",
+                            "url": "/nichole/braxton-freshman/the-procedure-the-tune-up/part-1-the-handover-the-night-before-time-8-00-pm-the-separation",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The War Room",
-                            "file_path": "e008/c004/p002.md"
+                            "file_path": "e008/c004/p002.md",
+                            "url": "/nichole/braxton-freshman/the-procedure-the-tune-up/part-2-the-war-room",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -587,21 +749,28 @@
                     "chap_num": 5,
                     "chap_title": "Nichole\u2019s Recovery",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/nichole-s-recovery",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Recovery Room & The Discharge",
-                            "file_path": "e008/c005/p001.md"
+                            "file_path": "e008/c005/p001.md",
+                            "url": "/nichole/braxton-freshman/nichole-s-recovery/part-1-the-recovery-room-the-discharge",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The \\ & The Night Shift",
-                            "file_path": "e008/c005/p002.md"
+                            "file_path": "e008/c005/p002.md",
+                            "url": "/nichole/braxton-freshman/nichole-s-recovery/part-2-the-the-night-shift",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: New Year's Eve",
-                            "file_path": "e008/c005/p003.md"
+                            "file_path": "e008/c005/p003.md",
+                            "url": "/nichole/braxton-freshman/nichole-s-recovery/part-3-new-year-s-eve",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -609,16 +778,21 @@
                     "chap_num": 6,
                     "chap_title": "The Routine",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/the-routine",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Winter Siege & The Physical Toll",
-                            "file_path": "e008/c006/p001.md"
+                            "file_path": "e008/c006/p001.md",
+                            "url": "/nichole/braxton-freshman/the-routine/part-1-the-winter-siege-the-physical-toll",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Downgrade",
-                            "file_path": "e008/c006/p002.md"
+                            "file_path": "e008/c006/p002.md",
+                            "url": "/nichole/braxton-freshman/the-routine/part-2-the-downgrade",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -628,16 +802,20 @@
             "era_num": 9,
             "era_title": "Braxton Junior Year",
             "era_url": "/raggiesoft-books/books/nichole/braxton-junior-year",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Concept: The Joint Defense",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-junior-year/concept-the-joint-defense",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Outcome",
-                            "file_path": "e009/c001/p001.md"
+                            "file_path": "e009/c001/p001.md",
+                            "url": "/nichole/braxton-junior-year/concept-the-joint-defense/the-outcome",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -647,16 +825,20 @@
             "era_num": 10,
             "era_title": "Braxton Senior Year",
             "era_url": "/raggiesoft-books/books/nichole/braxton-senior-year",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Graduation",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-senior-year/graduation",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Protocol Negotiation & The \\",
-                            "file_path": "e010/c001/p001.md"
+                            "file_path": "e010/c001/p001.md",
+                            "url": "/nichole/braxton-senior-year/graduation/the-protocol-negotiation-the",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -666,16 +848,20 @@
             "era_num": 11,
             "era_title": "Bennett Dynamics",
             "era_url": "/raggiesoft-books/books/nichole/bennett-dynamics",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "An Idea",
                     "chap_url": "/raggiesoft-books/books/nichole/bennett-dynamics/an-idea",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Incorporation & The Tablet Revolution",
-                            "file_path": "e011/c001/p001.md"
+                            "file_path": "e011/c001/p001.md",
+                            "url": "/nichole/bennett-dynamics/an-idea/the-incorporation-the-tablet-revolution",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -685,16 +871,20 @@
             "era_num": 12,
             "era_title": "The Twilight Years",
             "era_url": "/raggiesoft-books/books/nichole/the-twilight-years",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Long Retreat",
                     "chap_url": "/raggiesoft-books/books/nichole/the-twilight-years/the-long-retreat",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Last Funeral & The Return",
-                            "file_path": "e012/c001/p001.md"
+                            "file_path": "e012/c001/p001.md",
+                            "url": "/nichole/the-twilight-years/the-long-retreat/the-last-funeral-the-return",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -702,11 +892,14 @@
                     "chap_num": 2,
                     "chap_title": "The Slow Rust",
                     "chap_url": "/raggiesoft-books/books/nichole/the-twilight-years/the-slow-rust",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The First Breakdown & The Final Perimeter",
-                            "file_path": "e012/c002/p001.md"
+                            "file_path": "e012/c002/p001.md",
+                            "url": "/nichole/the-twilight-years/the-slow-rust/the-first-breakdown-the-final-perimeter",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -716,16 +909,20 @@
             "era_num": 13,
             "era_title": "The End",
             "era_url": "/raggiesoft-books/books/nichole/the-end",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Synchronized Shutdown",
                     "chap_url": "/raggiesoft-books/books/nichole/the-end/the-synchronized-shutdown",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Master Suite, 95 West Main Road, Portsmouth, RI & The Legacy",
-                            "file_path": "e013/c001/p001.md"
+                            "file_path": "e013/c001/p001.md",
+                            "url": "/nichole/the-end/the-synchronized-shutdown/the-master-suite-95-west-main-road-portsmouth-ri-the-legacy",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -735,6 +932,7 @@
             "era_num": 14,
             "era_title": "Book 14: Silent Whispers",
             "era_url": "/raggiesoft-books/books/nichole/book-14-silent-whispers",
+            "illustration_count": 0,
             "chapters": []
         }
     ]

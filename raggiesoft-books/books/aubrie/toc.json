@@ -15,61 +15,109 @@
         "text_epub_bytes": 879093,
         "text_pdf_bytes": 3405773
     },
+    "illustration_count": 33,
     "eras": [
         {
             "era_num": 1,
             "era_title": "The Eleventh Child, Off to College",
             "era_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college",
+            "illustration_count": 8,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Administrative Prelude & Early Move-In",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: An Extension of Me",
-                            "file_path": "e001/c001/p001.md"
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-1-an-extension-of-me",
+                            "date": "2014-08-20",
+                            "start_time": "08:00",
+                            "location": "Sinclair Residence, Virginia Beach, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Drive & The Shared Bed",
-                            "file_path": "e001/c001/p002.md"
+                            "file_path": "e001/c001/p002.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-2-the-drive-the-shared-bed",
+                            "date": "2014-08-20",
+                            "start_time": "10:00",
+                            "location": "I-64 West to Bowers Hill, U.S. Route 460 West to Roanoke, I-581 North, & Interstate 81 South to Christiansburg, Virginia"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Poly Pass & Educational Accessibility",
-                            "file_path": "e001/c001/p003.md"
+                            "file_path": "e001/c001/p003.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-3-the-poly-pass-educational-accessibility",
+                            "date": "2014-08-21",
+                            "start_time": "11:00",
+                            "location": "University Card Center, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: All the Way",
-                            "file_path": "e001/c001/p004.md"
+                            "file_path": "e001/c001/p004.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-4-all-the-way",
+                            "date": "2014-08-21",
+                            "start_time": "15:00",
+                            "location": "Merit Inn & Hickory Barrel Old Country Store, Roanoke Street, Christiansburg, Virginia"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: The Routine",
-                            "file_path": "e001/c001/p005.md"
+                            "file_path": "e001/c001/p005.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-5-the-routine",
+                            "date": "2014-08-21",
+                            "start_time": "20:00",
+                            "location": "Merit Inn, Roanoke Street, Christiansburg, Virginia"
                         },
                         {
                             "part_num": 6,
                             "part_title": "Part 6: One Last Night",
-                            "file_path": "e001/c001/p006.md"
+                            "file_path": "e001/c001/p006.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-6-one-last-night",
+                            "date": "2014-08-21",
+                            "start_time": "21:00",
+                            "location": "Merit Inn, Roanoke Street, Christiansburg, Virginia"
                         },
                         {
                             "part_num": 7,
                             "part_title": "Part 7: Eleanor Bennett Commonwealth Hall",
-                            "file_path": "e001/c001/p007.md"
+                            "file_path": "e001/c001/p007.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-7-eleanor-bennett-commonwealth-hall",
+                            "date": "2014-08-22",
+                            "start_time": "07:30",
+                            "location": "Merit Inn, Christiansburg to Eleanor Bennett Commonwealth Hall, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 8,
                             "part_title": "Part 8: Room 214 & The Awkward Outlet",
-                            "file_path": "e001/c001/p008.md"
+                            "file_path": "e001/c001/p008.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-8-room-214-the-awkward-outlet",
+                            "date": "2014-08-22",
+                            "start_time": "09:15",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c003/s003/isabel-greets-aubrey.jpg",
+                            "image_alt": "Resident Advisor Isabel Dawson in her maroon CPI Residence Life Student Staff uniform and nametag waving warmly from the doorway of Bennett Hall Room 214 to greet Aubrey, who smiles from his manual wheelchair while holding his unplugged laptop power cord.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c003/s003/isabel-greets-aubrey.jpg",
+                                    "alt": "Resident Advisor Isabel Dawson in her maroon CPI Residence Life Student Staff uniform and nametag waving warmly from the doorway of Bennett Hall Room 214 to greet Aubrey, who smiles from his manual wheelchair while holding his unplugged laptop power cord."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 9,
                             "part_title": "Part 9: Stranded",
-                            "file_path": "e001/c001/p009.md"
+                            "file_path": "e001/c001/p009.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-9-stranded",
+                            "date": "2014-08-22",
+                            "start_time": "14:00",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         }
                     ]
                 },
@@ -77,61 +125,142 @@
                     "chap_num": 2,
                     "chap_title": "The Mix-Up & The Naming of Jordan",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-mix-up-the-naming-of-jordan",
+                    "illustration_count": 4,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Morning Noise",
-                            "file_path": "e001/c002/p001.md"
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-mix-up-the-naming-of-jordan/part-1-morning-noise",
+                            "date": "2014-08-23",
+                            "start_time": "08:00",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Clerical Error",
-                            "file_path": "e001/c002/p002.md"
+                            "file_path": "e001/c002/p002.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-mix-up-the-naming-of-jordan/part-2-a-clerical-error",
+                            "date": "2014-08-23",
+                            "start_time": "10:30",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s002/clerical-error.jpg",
+                            "image_alt": "Aubrie Jean Kelly stepping through the open doorway of Bennett Hall Room 214 carrying canvas move-in bags and a storage tote while a startled Aubrey pushes himself upright on his low dorm bed beside his manual wheelchair.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s002/clerical-error.jpg",
+                                    "alt": "Aubrie Jean Kelly stepping through the open doorway of Bennett Hall Room 214 carrying canvas move-in bags and a storage tote while a startled Aubrey pushes himself upright on his low dorm bed beside his manual wheelchair."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: System.Crash",
-                            "file_path": "e001/c002/p003.md"
+                            "file_path": "e001/c002/p003.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-mix-up-the-naming-of-jordan/part-3-system-crash",
+                            "date": "2014-08-23",
+                            "start_time": "10:35",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s003/system-crash.jpg",
+                            "image_alt": "Inside Bennett Hall Room 214 under the glaring fluorescent ceiling light, Aubrey sits in his manual wheelchair with both hands clamped tightly over his ears in a severe autistic meltdown as Aubrie Jean Kelly steps calmly toward him and Madison Scott enters the doorway carrying a cardboard move-in box.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s003/system-crash.jpg",
+                                    "alt": "Inside Bennett Hall Room 214 under the glaring fluorescent ceiling light, Aubrey sits in his manual wheelchair with both hands clamped tightly over his ears in a severe autistic meltdown as Aubrie Jean Kelly steps calmly toward him and Madison Scott enters the doorway carrying a cardboard move-in box."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Anchor Holds & The Hall Director",
-                            "file_path": "e001/c002/p004.md"
+                            "file_path": "e001/c002/p004.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-mix-up-the-naming-of-jordan/part-4-the-anchor-holds-the-hall-director",
+                            "date": "2014-08-23",
+                            "start_time": "10:40",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s004/aubrie-first-hug.jpg",
+                            "image_alt": "Inside Bennett Hall Room 214 with the overhead fluorescent light switched off, Aubrie Jean Kelly leans beside Aubrey's manual wheelchair and wraps her arms firmly around his shoulders in his very first genuine hug to calm him during an autistic meltdown while Madison Scott watches compassionately.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s004/aubrie-first-hug.jpg",
+                                    "alt": "Inside Bennett Hall Room 214 with the overhead fluorescent light switched off, Aubrie Jean Kelly leans beside Aubrey's manual wheelchair and wraps her arms firmly around his shoulders in his very first genuine hug to calm him during an autistic meltdown while Madison Scott watches compassionately."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: A Joke That Stuck & Making It Official",
-                            "file_path": "e001/c002/p005.md"
+                            "file_path": "e001/c002/p005.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-mix-up-the-naming-of-jordan/part-5-a-joke-that-stuck-making-it-official",
+                            "date": "2014-08-23",
+                            "start_time": "11:50",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s006/a-joke-that-stuck.jpg",
+                            "image_alt": "Inside Room 214 of Eleanor Bennett Hall on freshman move-in weekend, eighteen-year-old Jordan Fuller sits in his manual wheelchair with his silver laptop resting on his lap and breaks into a relieved, hopeful smile as he claims the name Jordan and reveals he is an Astrophysics major, while Aubrie Jean Kelly leans forward from the lower wooden bunk bed with a brilliant grin of shared excitement, surrounded warmly by Madison Grace Miller at the desk and Zo\u00eb Wren Brooks, Lauren Elizabeth Taylor, and Hannah Marie Brooks.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s006/a-joke-that-stuck.jpg",
+                                    "alt": "Inside Room 214 of Eleanor Bennett Hall on freshman move-in weekend, eighteen-year-old Jordan Fuller sits in his manual wheelchair with his silver laptop resting on his lap and breaks into a relieved, hopeful smile as he claims the name Jordan and reveals he is an Astrophysics major, while Aubrie Jean Kelly leans forward from the lower wooden bunk bed with a brilliant grin of shared excitement, surrounded warmly by Madison Grace Miller at the desk and Zo\u00eb Wren Brooks, Lauren Elizabeth Taylor, and Hannah Marie Brooks."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 6,
                             "part_title": "Part 6: Interlude: Across the Firewall",
-                            "file_path": "e001/c002/p006.md"
+                            "file_path": "e001/c002/p006.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-mix-up-the-naming-of-jordan/part-6-interlude-across-the-firewall",
+                            "date": "2014-08-23",
+                            "start_time": "13:20",
+                            "location": "Central Office of Housing and Residence Life (Suite 115), Bennett Hall Lower Level, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 7,
                             "part_title": "Part 7: Interlude: The Floor Two Inquiry",
-                            "file_path": "e001/c002/p007.md"
+                            "file_path": "e001/c002/p007.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-mix-up-the-naming-of-jordan/part-7-interlude-the-floor-two-inquiry",
+                            "date": "2014-08-23",
+                            "start_time": "14:00",
+                            "location": "Second-Floor RA Duty Workroom (Room 200A), Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 8,
                             "part_title": "Part 8: The Provisional Agreement & The First Choice",
-                            "file_path": "e001/c002/p008.md"
+                            "file_path": "e001/c002/p008.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-mix-up-the-naming-of-jordan/part-8-the-provisional-agreement-the-first-choice",
+                            "date": "2014-08-23",
+                            "start_time": "14:20",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 9,
                             "part_title": "Part 9: The Kincaid Hall Tea Rebellion",
-                            "file_path": "e001/c002/p009.md"
+                            "file_path": "e001/c002/p009.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-mix-up-the-naming-of-jordan/part-9-the-kincaid-hall-tea-rebellion",
+                            "date": "2009-10-13",
+                            "start_time": "08:15",
+                            "location": "Kincaid Commons, Kincaid Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 10,
                             "part_title": "Part 10: The First Assist & The New Voice",
-                            "file_path": "e001/c002/p010.md"
+                            "file_path": "e001/c002/p010.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-mix-up-the-naming-of-jordan/part-10-the-first-assist-the-new-voice",
+                            "date": "2014-08-23",
+                            "start_time": "17:30",
+                            "location": "Suite 214/216, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 11,
                             "part_title": "Part 11: The Antidote & The Trust Fall",
-                            "file_path": "e001/c002/p011.md"
+                            "file_path": "e001/c002/p011.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-mix-up-the-naming-of-jordan/part-11-the-antidote-the-trust-fall",
+                            "date": "2014-08-23",
+                            "start_time": "18:30",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         }
                     ]
                 },
@@ -139,71 +268,124 @@
                     "chap_num": 3,
                     "chap_title": "The First Real Harbor & First Days of Class",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-first-real-harbor-first-days-of-class",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Awakening",
-                            "file_path": "e001/c003/p001.md"
+                            "file_path": "e001/c003/p001.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-first-real-harbor-first-days-of-class/part-1-the-awakening",
+                            "date": "2014-08-24",
+                            "start_time": "02:00",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: No Privacy",
-                            "file_path": "e001/c003/p002.md"
+                            "file_path": "e001/c003/p002.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-first-real-harbor-first-days-of-class/part-2-no-privacy",
+                            "date": "2014-08-24",
+                            "start_time": "08:00",
+                            "location": "Suite 214/216, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Worlds Aligned & The Campus Topography",
-                            "file_path": "e001/c003/p003.md"
+                            "file_path": "e001/c003/p003.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-first-real-harbor-first-days-of-class/part-3-worlds-aligned-the-campus-topography",
+                            "date": "2014-08-24",
+                            "start_time": "09:30",
+                            "location": "Kincaid Commons, Kincaid Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: A Different Kind of Constellation",
-                            "file_path": "e001/c003/p004.md"
+                            "file_path": "e001/c003/p004.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-first-real-harbor-first-days-of-class/part-4-a-different-kind-of-constellation",
+                            "date": "2014-08-24",
+                            "start_time": "13:00",
+                            "location": "Room 216, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: The Safe Harbor's Perimeter",
-                            "file_path": "e001/c003/p005.md"
+                            "file_path": "e001/c003/p005.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-first-real-harbor-first-days-of-class/part-5-the-safe-harbor-s-perimeter",
+                            "date": "2014-08-24",
+                            "start_time": "16:30",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 6,
                             "part_title": "Part 6: Kincaid Hall",
-                            "file_path": "e001/c003/p006.md"
+                            "file_path": "e001/c003/p006.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-first-real-harbor-first-days-of-class/part-6-kincaid-hall",
+                            "date": "2014-08-24",
+                            "start_time": "17:15",
+                            "location": "Kincaid Commons, Kincaid Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 7,
                             "part_title": "Part 7: The Interception",
-                            "file_path": "e001/c003/p007.md"
+                            "file_path": "e001/c003/p007.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-first-real-harbor-first-days-of-class/part-7-the-interception",
+                            "date": "2014-08-24",
+                            "start_time": "17:25",
+                            "location": "Kincaid Commons, Kincaid Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 8,
                             "part_title": "Part 8: The View from the Fifth Floor",
-                            "file_path": "e001/c003/p008.md"
+                            "file_path": "e001/c003/p008.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-first-real-harbor-first-days-of-class/part-8-the-view-from-the-fifth-floor",
+                            "date": "2014-08-24",
+                            "start_time": "18:00",
+                            "location": "Room 505, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 9,
                             "part_title": "Part 9: Morning Divergence & The Ascent",
-                            "file_path": "e001/c003/p009.md"
+                            "file_path": "e001/c003/p009.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-first-real-harbor-first-days-of-class/part-9-morning-divergence-the-ascent",
+                            "date": "2014-08-25",
+                            "start_time": "07:30",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 10,
                             "part_title": "Part 10: Western Civilization & The Taste of Freedom",
-                            "file_path": "e001/c003/p010.md"
+                            "file_path": "e001/c003/p010.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-first-real-harbor-first-days-of-class/part-10-western-civilization-the-taste-of-freedom",
+                            "date": "2014-08-25",
+                            "start_time": "10:30",
+                            "location": "Carter Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 11,
                             "part_title": "Part 11: The True Assessment & Afternoon Anchors",
-                            "file_path": "e001/c003/p011.md"
+                            "file_path": "e001/c003/p011.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-first-real-harbor-first-days-of-class/part-11-the-true-assessment-afternoon-anchors",
+                            "date": "2014-08-25",
+                            "start_time": "12:55",
+                            "location": "Office of Educational Accessibility, Callahan Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 12,
                             "part_title": "Part 12: The Girls of 505",
-                            "file_path": "e001/c003/p012.md"
+                            "file_path": "e001/c003/p012.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-first-real-harbor-first-days-of-class/part-12-the-girls-of-505",
+                            "date": "2014-08-25",
+                            "start_time": "15:30",
+                            "location": "Room 505, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 13,
                             "part_title": "Part 13: Evening Data & The Open Doors",
-                            "file_path": "e001/c003/p013.md"
+                            "file_path": "e001/c003/p013.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-first-real-harbor-first-days-of-class/part-13-evening-data-the-open-doors",
+                            "date": "2014-08-25",
+                            "start_time": "20:00",
+                            "location": "Room 216, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         }
                     ]
                 },
@@ -211,56 +393,106 @@
                     "chap_num": 4,
                     "chap_title": "The Anatomy of Trust & The Pepper Plaza Expedition",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-anatomy-of-trust-the-pepper-plaza-expedition",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Mega-Meetup & The Mega-Group Lunch",
-                            "file_path": "e001/c004/p001.md"
+                            "file_path": "e001/c004/p001.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-anatomy-of-trust-the-pepper-plaza-expedition/part-1-the-mega-meetup-the-mega-group-lunch",
+                            "date": "2014-08-26",
+                            "start_time": "09:45",
+                            "location": "College of Health Sciences Lecture Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Fifth Floor Hunch",
-                            "file_path": "e001/c004/p002.md"
+                            "file_path": "e001/c004/p002.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-anatomy-of-trust-the-pepper-plaza-expedition/part-2-the-fifth-floor-hunch",
+                            "date": "2014-08-26",
+                            "start_time": "15:15",
+                            "location": "Suite 505/507, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: An Unconventional Study Session",
-                            "file_path": "e001/c004/p003.md"
+                            "file_path": "e001/c004/p003.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-anatomy-of-trust-the-pepper-plaza-expedition/part-3-an-unconventional-study-session",
+                            "date": "2014-08-26",
+                            "start_time": "20:15",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Kincaid Hall Collision",
-                            "file_path": "e001/c004/p004.md"
+                            "file_path": "e001/c004/p004.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-anatomy-of-trust-the-pepper-plaza-expedition/part-4-the-kincaid-hall-collision",
+                            "date": "2014-08-26",
+                            "start_time": "20:25",
+                            "location": "Kincaid Hall to Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: The War Room & The Australian Voice",
-                            "file_path": "e001/c004/p005.md"
+                            "file_path": "e001/c004/p005.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-anatomy-of-trust-the-pepper-plaza-expedition/part-5-the-war-room-the-australian-voice",
+                            "date": "2014-08-26",
+                            "start_time": "20:45",
+                            "location": "Suite 214/216, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 6,
                             "part_title": "Part 6: Primary Care & The Good Faith Offer",
-                            "file_path": "e001/c004/p006.md"
+                            "file_path": "e001/c004/p006.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-anatomy-of-trust-the-pepper-plaza-expedition/part-6-primary-care-the-good-faith-offer",
+                            "date": "2014-08-27",
+                            "start_time": "15:30",
+                            "location": "Student Health Center, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 7,
                             "part_title": "Part 7: Route 1 to Pepper Plaza & The Prescription",
-                            "file_path": "e001/c004/p007.md"
+                            "file_path": "e001/c004/p007.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-anatomy-of-trust-the-pepper-plaza-expedition/part-7-route-1-to-pepper-plaza-the-prescription",
+                            "date": "2014-08-29",
+                            "start_time": "13:15",
+                            "location": "Commonwealth Mall to Pepper Plaza Transit Center, Christiansburg, Virginia"
                         },
                         {
                             "part_num": 8,
                             "part_title": "Part 8: The Audiologist's Verdict & The Ride Home in High Definition",
-                            "file_path": "e001/c004/p008.md"
+                            "file_path": "e001/c004/p008.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-anatomy-of-trust-the-pepper-plaza-expedition/part-8-the-audiologist-s-verdict-the-ride-home-in-high-definition",
+                            "date": "2014-08-29",
+                            "start_time": "14:25",
+                            "location": "Audiology Suite, Montgomery Vision and Hearing Clinic, Downtown Christiansburg, Virginia",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c009/s005/ride-home-in-high-definition.jpg",
+                            "image_alt": "Seated upright in his wheelchair in the accessible front bay of a Blue Ridge Transit bus bathed in golden late-afternoon Virginia sunlight, Jordan Fuller wears his brand-new rectangular eyeglasses, behind-the-ear digital hearing aids, and maroon CPI T-shirt while holding his CPI Poly Pass and looking out the wide panoramic window in awe at the soaring gray Ironstone collegiate-gothic towers of Commonwealth Polytechnic Institute and the Blue Ridge Mountains in 20/20 high definition, as Aubrie Jean Kelly, Madison Grace Miller, and Zo\u00eb Wren Brooks smile beside him.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c009/s005/ride-home-in-high-definition.jpg",
+                                    "alt": "Seated upright in his wheelchair in the accessible front bay of a Blue Ridge Transit bus bathed in golden late-afternoon Virginia sunlight, Jordan Fuller wears his brand-new rectangular eyeglasses, behind-the-ear digital hearing aids, and maroon CPI T-shirt while holding his CPI Poly Pass and looking out the wide panoramic window in awe at the soaring gray Ironstone collegiate-gothic towers of Commonwealth Polytechnic Institute and the Blue Ridge Mountains in 20/20 high definition, as Aubrie Jean Kelly, Madison Grace Miller, and Zo\u00eb Wren Brooks smile beside him."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 9,
                             "part_title": "Part 9: Dinner with Isabel & Taking Out the Trash",
-                            "file_path": "e001/c004/p009.md"
+                            "file_path": "e001/c004/p009.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-anatomy-of-trust-the-pepper-plaza-expedition/part-9-dinner-with-isabel-taking-out-the-trash",
+                            "date": "2014-08-29",
+                            "start_time": "17:30",
+                            "location": "Kincaid Commons, Kincaid Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 10,
                             "part_title": "Part 10: Face to Face",
-                            "file_path": "e001/c004/p010.md"
+                            "file_path": "e001/c004/p010.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-anatomy-of-trust-the-pepper-plaza-expedition/part-10-face-to-face",
+                            "date": "2014-08-29",
+                            "start_time": "20:30",
+                            "location": "Second-Floor Accessible Shower Room & Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         }
                     ]
                 },
@@ -268,41 +500,83 @@
                     "chap_num": 5,
                     "chap_title": "The Post-Census Verdict & The Nightly Pact",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-post-census-verdict-the-nightly-pact",
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Strategic Analysis & The Main Event",
-                            "file_path": "e001/c005/p001.md"
+                            "file_path": "e001/c005/p001.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-post-census-verdict-the-nightly-pact/part-1-strategic-analysis-the-main-event",
+                            "date": "2014-09-01",
+                            "start_time": "19:30",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Interlude: Mutiny at McConnell Transit Center",
-                            "file_path": "e001/c005/p002.md"
+                            "file_path": "e001/c005/p002.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-post-census-verdict-the-nightly-pact/part-2-interlude-mutiny-at-mcconnell-transit-center",
+                            "date": "2014-09-08",
+                            "start_time": "07:35",
+                            "location": "McConnell Transit Center, Radford University, City of Radford, Virginia"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Interlude: The Post-Census Verdict",
-                            "file_path": "e001/c005/p003.md"
+                            "file_path": "e001/c005/p003.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-post-census-verdict-the-nightly-pact/part-3-interlude-the-post-census-verdict",
+                            "date": "2014-09-08",
+                            "start_time": "14:00",
+                            "location": "Central Office of Housing and Residence Life (Suite 115), Bennett Hall Lower Level, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Interlude: Relief at the :45 Pulse",
-                            "file_path": "e001/c005/p004.md"
+                            "file_path": "e001/c005/p004.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-post-census-verdict-the-nightly-pact/part-4-interlude-relief-at-the-45-pulse",
+                            "date": "2014-09-08",
+                            "start_time": "16:40",
+                            "location": "McConnell Transit Center, Radford University, City of Radford, Virginia"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: The Suite Arrangement Consent Form & One Hundred and Five Percent",
-                            "file_path": "e001/c005/p005.md"
+                            "file_path": "e001/c005/p005.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-post-census-verdict-the-nightly-pact/part-5-the-suite-arrangement-consent-form-one-hundred-and-five-percent",
+                            "date": "2014-09-08",
+                            "start_time": "18:30",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 6,
                             "part_title": "Part 6: Fire Alarm in the Dormitory",
-                            "file_path": "e001/c005/p006.md"
+                            "file_path": "e001/c005/p006.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-post-census-verdict-the-nightly-pact/part-6-fire-alarm-in-the-dormitory",
+                            "date": "2014-09-19",
+                            "start_time": "20:00",
+                            "location": "Suite 214/216 to Washington Street, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c012/s003/fire-drill.jpg",
+                            "image_alt": "Inside Bennett Hall Room 214 with the corridor door swung open inward and the Simplex fire alarm strobe flashing, Isabel Dawson\u2014wearing a neon-yellow high-visibility vest over her sweater and blue jeans\u2014crouches at eye level holding open the official CPI EHS log folder to promise a tearful Jordan he is safe as he begins loosening his grip on his desk, while Madison supports an upset Aubrie near the doorway.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c012/s003/fire-drill.jpg",
+                                    "alt": "Inside Bennett Hall Room 214 with the corridor door swung open inward and the Simplex fire alarm strobe flashing, Isabel Dawson\u2014wearing a neon-yellow high-visibility vest over her sweater and blue jeans\u2014crouches at eye level holding open the official CPI EHS log folder to promise a tearful Jordan he is safe as he begins loosening his grip on his desk, while Madison supports an upset Aubrie near the doorway."
+                                },
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c012/s003/jordan-hugs-isabel-outside.jpg#fullwidth",
+                                    "alt": "Outside the three-story 1980s Bennett Hall Addition on the Washington Street sidewalk after the fire drill all-clear, Jordan leans forward from his manual wheelchair and pulls a momentarily surprised, deeply moved Isabel Dawson\u2014crouching in her high-visibility vest over her sweater and blue jeans\u2014into a grateful hug as he adds her to his circle of Safe People."
+                                }
+                            ],
+                            "image_count": 2
                         },
                         {
                             "part_num": 7,
                             "part_title": "Part 7: The Nightly Pact & The First Night of the Pact",
-                            "file_path": "e001/c005/p007.md"
+                            "file_path": "e001/c005/p007.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-post-census-verdict-the-nightly-pact/part-7-the-nightly-pact-the-first-night-of-the-pact",
+                            "date": "2014-09-19",
+                            "start_time": "21:00",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         }
                     ]
                 },
@@ -310,41 +584,70 @@
                     "chap_num": 6,
                     "chap_title": "Homecoming & The Safe Harbor",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/homecoming-the-safe-harbor",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Door Decorating Contest & Game Day",
-                            "file_path": "e001/c006/p001.md"
+                            "file_path": "e001/c006/p001.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/homecoming-the-safe-harbor/part-1-the-door-decorating-contest-game-day",
+                            "date": "2014-09-26",
+                            "start_time": "13:30",
+                            "location": "Suite 214/216, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Pre-Game & The First Quarter",
-                            "file_path": "e001/c006/p002.md"
+                            "file_path": "e001/c006/p002.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/homecoming-the-safe-harbor/part-2-the-pre-game-the-first-quarter",
+                            "date": "2014-09-27",
+                            "start_time": "12:30",
+                            "location": "The Crucible, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Second Quarter & The Retreat",
-                            "file_path": "e001/c006/p003.md"
+                            "file_path": "e001/c006/p003.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/homecoming-the-safe-harbor/part-3-the-second-quarter-the-retreat",
+                            "date": "2014-09-27",
+                            "start_time": "14:15",
+                            "location": "The Crucible, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Fortress of Truth",
-                            "file_path": "e001/c006/p004.md"
+                            "file_path": "e001/c006/p004.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/homecoming-the-safe-harbor/part-4-the-fortress-of-truth",
+                            "date": "2014-09-27",
+                            "start_time": "20:45",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: The Fortress at Night",
-                            "file_path": "e001/c006/p005.md"
+                            "file_path": "e001/c006/p005.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/homecoming-the-safe-harbor/part-5-the-fortress-at-night",
+                            "date": "2014-09-27",
+                            "start_time": "22:30",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 6,
                             "part_title": "Part 6: Interlude: Overnight Desk Duty",
-                            "file_path": "e001/c006/p006.md"
+                            "file_path": "e001/c006/p006.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/homecoming-the-safe-harbor/part-6-interlude-overnight-desk-duty",
+                            "date": "2014-09-27",
+                            "start_time": "22:40",
+                            "location": "Room 215, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 7,
                             "part_title": "Part 7: A Hug in the Hallway & A Safe Place on the First Floor",
-                            "file_path": "e001/c006/p007.md"
+                            "file_path": "e001/c006/p007.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/homecoming-the-safe-harbor/part-7-a-hug-in-the-hallway-a-safe-place-on-the-first-floor",
+                            "date": "2014-09-28",
+                            "start_time": "10:15",
+                            "location": "Second Floor Corridor, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         }
                     ]
                 },
@@ -352,36 +655,61 @@
                     "chap_num": 7,
                     "chap_title": "Jordan's Independence Day & The Fall Break Relay",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/jordan-s-independence-day-the-fall-break-relay",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Coming Storm",
-                            "file_path": "e001/c007/p001.md"
+                            "file_path": "e001/c007/p001.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/jordan-s-independence-day-the-fall-break-relay/part-1-the-coming-storm",
+                            "date": "2014-10-17",
+                            "start_time": "16:30",
+                            "location": "Second Floor Corridor & Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Confrontation",
-                            "file_path": "e001/c007/p002.md"
+                            "file_path": "e001/c007/p002.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/jordan-s-independence-day-the-fall-break-relay/part-2-the-confrontation",
+                            "date": "2014-10-18",
+                            "start_time": "09:15",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Choice",
-                            "file_path": "e001/c007/p003.md"
+                            "file_path": "e001/c007/p003.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/jordan-s-independence-day-the-fall-break-relay/part-3-the-choice",
+                            "date": "2014-10-18",
+                            "start_time": "09:30",
+                            "location": "Room 214 & Exterior Lower Walkway, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Cut Cord",
-                            "file_path": "e001/c007/p004.md"
+                            "file_path": "e001/c007/p004.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/jordan-s-independence-day-the-fall-break-relay/part-4-the-cut-cord",
+                            "date": "2014-10-18",
+                            "start_time": "10:45",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: The New Lifeline and a Winter Pact & The Thanksgiving Ultimatum",
-                            "file_path": "e001/c007/p005.md"
+                            "file_path": "e001/c007/p005.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/jordan-s-independence-day-the-fall-break-relay/part-5-the-new-lifeline-and-a-winter-pact-the-thanksgiving-ultimatum",
+                            "date": "2014-10-18",
+                            "start_time": "13:00",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 6,
                             "part_title": "Part 6: The Digital Wall & A Continent of Their Own",
-                            "file_path": "e001/c007/p006.md"
+                            "file_path": "e001/c007/p006.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/jordan-s-independence-day-the-fall-break-relay/part-6-the-digital-wall-a-continent-of-their-own",
+                            "date": "2014-10-20",
+                            "start_time": "20:50",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         }
                     ]
                 },
@@ -389,26 +717,43 @@
                     "chap_num": 8,
                     "chap_title": "The Thanksgiving Exodus & Sanctuary on Geneva Street",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-thanksgiving-exodus-sanctuary-on-geneva-street",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Setting the Board & The Maroon Express",
-                            "file_path": "e001/c008/p001.md"
+                            "file_path": "e001/c008/p001.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-thanksgiving-exodus-sanctuary-on-geneva-street/part-1-setting-the-board-the-maroon-express",
+                            "date": "2014-11-24",
+                            "start_time": "21:00",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Geneva Street & Settling into Sanctuary",
-                            "file_path": "e001/c008/p002.md"
+                            "file_path": "e001/c008/p002.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-thanksgiving-exodus-sanctuary-on-geneva-street/part-2-geneva-street-settling-into-sanctuary",
+                            "date": "2014-11-25",
+                            "start_time": "17:15",
+                            "location": "Brooks Residence, Geneva Street, Christiansburg, Virginia"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Interlude: The Unwelcome Arrival & Checkmate at Dispatch",
-                            "file_path": "e001/c008/p003.md"
+                            "file_path": "e001/c008/p003.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-thanksgiving-exodus-sanctuary-on-geneva-street/part-3-interlude-the-unwelcome-arrival-checkmate-at-dispatch",
+                            "date": "2014-11-26",
+                            "start_time": "09:00",
+                            "location": "Exterior Lower Walkway, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: All-Time Quarterback & The Turkey Brawl",
-                            "file_path": "e001/c008/p004.md"
+                            "file_path": "e001/c008/p004.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-thanksgiving-exodus-sanctuary-on-geneva-street/part-4-all-time-quarterback-the-turkey-brawl",
+                            "date": "2014-11-26",
+                            "start_time": "14:00",
+                            "location": "Brooks Residence Backyard, Geneva Street, Christiansburg, Virginia"
                         }
                     ]
                 },
@@ -416,16 +761,25 @@
                     "chap_num": 9,
                     "chap_title": "Operation Black Friday & The Family Charter",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/operation-black-friday-the-family-charter",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Mission Briefing & Truth or Dare",
-                            "file_path": "e001/c009/p001.md"
+                            "file_path": "e001/c009/p001.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/operation-black-friday-the-family-charter/part-1-the-mission-briefing-truth-or-dare",
+                            "date": "2014-11-28",
+                            "start_time": "07:30",
+                            "location": "Brooks Residence Basement, Geneva Street, Christiansburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Serious Talk & The Family Charter",
-                            "file_path": "e001/c009/p002.md"
+                            "file_path": "e001/c009/p002.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/operation-black-friday-the-family-charter/part-2-the-serious-talk-the-family-charter",
+                            "date": "2014-11-28",
+                            "start_time": "20:30",
+                            "location": "Downstairs Study, Brooks Residence, Geneva Street, Christiansburg, Virginia"
                         }
                     ]
                 },
@@ -433,31 +787,52 @@
                     "chap_num": 10,
                     "chap_title": "The New Normal & End of First Semester",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-new-normal-end-of-first-semester",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Return to The Old Lady & A Double Birthday Conspiracy",
-                            "file_path": "e001/c010/p001.md"
+                            "file_path": "e001/c010/p001.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-new-normal-end-of-first-semester/part-1-return-to-the-old-lady-a-double-birthday-conspiracy",
+                            "date": "2014-11-30",
+                            "start_time": "16:00",
+                            "location": "Second-Floor Entrance Walkway, Washington Street SW, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Preventable Crisis",
-                            "file_path": "e001/c010/p002.md"
+                            "file_path": "e001/c010/p002.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-new-normal-end-of-first-semester/part-2-a-preventable-crisis",
+                            "date": "2014-12-06",
+                            "start_time": "18:00",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Second Drill",
-                            "file_path": "e001/c010/p003.md"
+                            "file_path": "e001/c010/p003.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-new-normal-end-of-first-semester/part-3-the-second-drill",
+                            "date": "2014-12-06",
+                            "start_time": "19:15",
+                            "location": "Room 214 to Washington Street, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Final Exam & Departure for Winter Break",
-                            "file_path": "e001/c010/p004.md"
+                            "file_path": "e001/c010/p004.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-new-normal-end-of-first-semester/part-4-the-final-exam-departure-for-winter-break",
+                            "date": "2014-12-12",
+                            "start_time": "09:00",
+                            "location": "Suite 214/216, Bennett Hall to OEA Testing Center, Callahan Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: Interlude: A Dangerous Idea",
-                            "file_path": "e001/c010/p005.md"
+                            "file_path": "e001/c010/p005.md",
+                            "url": "/aubrie/the-eleventh-child-off-to-college/the-new-normal-end-of-first-semester/part-5-interlude-a-dangerous-idea",
+                            "date": "2014-12-12",
+                            "start_time": "15:00",
+                            "location": "Washington Street SW, Blacksburg Public Library, & Roadside Motel off U.S. Route 460, Blacksburg, Virginia"
                         }
                     ]
                 }
@@ -467,36 +842,67 @@
             "era_num": 2,
             "era_title": "A New Winter Break Tradition",
             "era_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition",
+            "illustration_count": 2,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Winter Wonderland in the Basement & The Winter Solstice",
                     "chap_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition/a-winter-wonderland-in-the-basement-the-winter-solstice",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Fortress Upgrades & Hunkering Down",
-                            "file_path": "e002/c001/p001.md"
+                            "file_path": "e002/c001/p001.md",
+                            "url": "/aubrie/a-new-winter-break-tradition/a-winter-wonderland-in-the-basement-the-winter-solstice/part-1-the-fortress-upgrades-hunkering-down",
+                            "date": "2014-12-12",
+                            "start_time": "19:30",
+                            "location": "Brooks Residence Basement, Geneva Street, Christiansburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Forty-Six Inches",
-                            "file_path": "e002/c001/p002.md"
+                            "file_path": "e002/c001/p002.md",
+                            "url": "/aubrie/a-new-winter-break-tradition/a-winter-wonderland-in-the-basement-the-winter-solstice/part-2-forty-six-inches",
+                            "date": "2014-12-14",
+                            "start_time": "08:30",
+                            "location": "Brooks Residence Basement & Main Living Room, Geneva Street, Christiansburg, Virginia"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Interlude: The Unbudgeted Blizzard",
-                            "file_path": "e002/c001/p003.md"
+                            "file_path": "e002/c001/p003.md",
+                            "url": "/aubrie/a-new-winter-break-tradition/a-winter-wonderland-in-the-basement-the-winter-solstice/part-3-interlude-the-unbudgeted-blizzard",
+                            "date": "2014-12-14",
+                            "start_time": "09:00",
+                            "location": "Roadside Motel off U.S. Route 460, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Blueprints for Mobility",
-                            "file_path": "e002/c001/p004.md"
+                            "file_path": "e002/c001/p004.md",
+                            "url": "/aubrie/a-new-winter-break-tradition/a-winter-wonderland-in-the-basement-the-winter-solstice/part-4-blueprints-for-mobility",
+                            "date": "2014-12-16",
+                            "start_time": "21:30",
+                            "location": "Brooks Residence Kitchen, Geneva Street, Christiansburg, Virginia"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: Solar Noon on the Winter Solstice",
-                            "file_path": "e002/c001/p005.md"
+                            "file_path": "e002/c001/p005.md",
+                            "url": "/aubrie/a-new-winter-break-tradition/a-winter-wonderland-in-the-basement-the-winter-solstice/part-5-solar-noon-on-the-winter-solstice",
+                            "date": "2014-12-21",
+                            "start_time": "12:20",
+                            "location": "Brooks Residence Dining Room, Geneva Street, Christiansburg, Virginia",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c001/s008/solar-noon-winter-solstice.jpg",
+                            "image_alt": "At 12:20 PM EST (True Solar Noon) on the Winter Solstice inside the sunlit Brooks dining room on Geneva Street with deep snowbanks sparkling outside the bay windows, nineteen-year-old birthday astrophysicists Jordan Fuller and Aubrie Jean Kelly sit side by side holding hands in front of their dark-chocolate deep-space nebula cake decorated with gold celestial lines, two binary golden shooting stars, and nineteen flickering golden candles, while Zo\u00eb Wren Brooks, Madison Grace Miller, Lauren Elizabeth Taylor, Hannah Marie Brooks, and Daniel and Laura Brooks cheer and clap around the table.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c001/s008/solar-noon-winter-solstice.jpg",
+                                    "alt": "At 12:20 PM EST (True Solar Noon) on the Winter Solstice inside the sunlit Brooks dining room on Geneva Street with deep snowbanks sparkling outside the bay windows, nineteen-year-old birthday astrophysicists Jordan Fuller and Aubrie Jean Kelly sit side by side holding hands in front of their dark-chocolate deep-space nebula cake decorated with gold celestial lines, two binary golden shooting stars, and nineteen flickering golden candles, while Zo\u00eb Wren Brooks, Madison Grace Miller, Lauren Elizabeth Taylor, Hannah Marie Brooks, and Daniel and Laura Brooks cheer and clap around the table."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -504,31 +910,52 @@
                     "chap_num": 2,
                     "chap_title": "The Road to Christmas & Adventures in Southwestern Virginia",
                     "chap_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition/the-road-to-christmas-adventures-in-southwestern-virginia",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Mall Gauntlet & The First Christmas Present",
-                            "file_path": "e002/c002/p001.md"
+                            "file_path": "e002/c002/p001.md",
+                            "url": "/aubrie/a-new-winter-break-tradition/the-road-to-christmas-adventures-in-southwestern-virginia/part-1-the-mall-gauntlet-the-first-christmas-present",
+                            "date": "2014-12-22",
+                            "start_time": "10:00",
+                            "location": "Christiansburg Transit Center to New River Valley Mall, Christiansburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Trip to Bluewater & The Heart-Hum",
-                            "file_path": "e002/c002/p002.md"
+                            "file_path": "e002/c002/p002.md",
+                            "url": "/aubrie/a-new-winter-break-tradition/the-road-to-christmas-adventures-in-southwestern-virginia/part-2-a-trip-to-bluewater-the-heart-hum",
+                            "date": "2014-12-23",
+                            "start_time": "08:45",
+                            "location": "Christiansburg Transit Center to Scott Residence, Bluewater, Virginia"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Lunch at Annabel's Deli",
-                            "file_path": "e002/c002/p003.md"
+                            "file_path": "e002/c002/p003.md",
+                            "url": "/aubrie/a-new-winter-break-tradition/the-road-to-christmas-adventures-in-southwestern-virginia/part-3-lunch-at-annabel-s-deli",
+                            "date": "2014-12-23",
+                            "start_time": "11:45",
+                            "location": "Annabel's Deli, Downtown Bluewater, Virginia"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: An Afternoon in Radford & Dinner at Luigi's Trattoria",
-                            "file_path": "e002/c002/p004.md"
+                            "file_path": "e002/c002/p004.md",
+                            "url": "/aubrie/a-new-winter-break-tradition/the-road-to-christmas-adventures-in-southwestern-virginia/part-4-an-afternoon-in-radford-dinner-at-luigi-s-trattoria",
+                            "date": "2014-12-23",
+                            "start_time": "14:15",
+                            "location": "Commonwealth Mall to Braithwaite Residence, Radford, Virginia"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: The Long Ride Home & The Unwinding",
-                            "file_path": "e002/c002/p005.md"
+                            "file_path": "e002/c002/p005.md",
+                            "url": "/aubrie/a-new-winter-break-tradition/the-road-to-christmas-adventures-in-southwestern-virginia/part-5-the-long-ride-home-the-unwinding",
+                            "date": "2014-12-23",
+                            "start_time": "17:50",
+                            "location": "McConnell Transit Center to Brooks Residence Basement, Christiansburg, Virginia"
                         }
                     ]
                 },
@@ -536,21 +963,43 @@
                     "chap_num": 3,
                     "chap_title": "Jordan's First Christmas & Boxing Day in Bluewater",
                     "chap_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition/jordan-s-first-christmas-boxing-day-in-bluewater",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Stockings on the Bookshelf & 'Jordan Kelly'",
-                            "file_path": "e002/c003/p001.md"
+                            "file_path": "e002/c003/p001.md",
+                            "url": "/aubrie/a-new-winter-break-tradition/jordan-s-first-christmas-boxing-day-in-bluewater/part-1-stockings-on-the-bookshelf-jordan-kelly",
+                            "date": "2014-12-25",
+                            "start_time": "08:00",
+                            "location": "Brooks Residence Living Room, Geneva Street, Christiansburg, Virginia",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c004/s001/stockings-on-the-bookshelf.jpg",
+                            "image_alt": "On Christmas morning inside the warm, fairy-lit Brooks living room on Geneva Street, nineteen-year-old Jordan Fuller sits in his wheelchair in maroon flannel pajamas and touches his red-and-cream velvet Christmas stocking embroidered with JORDAN in gold thread hanging on the built-in oak bookshelf as Laura Brooks guides his hand, Daniel Brooks rests a fatherly hand on his shoulder, Madison Grace Miller kneels warmly beside his wheel, and Aubrie Jean Kelly and Zo\u00eb Wren Brooks look on tenderly beside the glowing Christmas tree.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c004/s001/stockings-on-the-bookshelf.jpg",
+                                    "alt": "On Christmas morning inside the warm, fairy-lit Brooks living room on Geneva Street, nineteen-year-old Jordan Fuller sits in his wheelchair in maroon flannel pajamas and touches his red-and-cream velvet Christmas stocking embroidered with JORDAN in gold thread hanging on the built-in oak bookshelf as Laura Brooks guides his hand, Daniel Brooks rests a fatherly hand on his shoulder, Madison Grace Miller kneels warmly beside his wheel, and Aubrie Jean Kelly and Zo\u00eb Wren Brooks look on tenderly beside the glowing Christmas tree."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Someday Promise & The Bluewater Town Plaza Plan",
-                            "file_path": "e002/c003/p002.md"
+                            "file_path": "e002/c003/p002.md",
+                            "url": "/aubrie/a-new-winter-break-tradition/jordan-s-first-christmas-boxing-day-in-bluewater/part-2-the-someday-promise-the-bluewater-town-plaza-plan",
+                            "date": "2014-12-25",
+                            "start_time": "15:30",
+                            "location": "Brooks Residence First-Floor Guest Room, Geneva Street, Christiansburg, Virginia"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Lunch at The Corner Bistro & The Cushion & The Triumphant Return",
-                            "file_path": "e002/c003/p003.md"
+                            "file_path": "e002/c003/p003.md",
+                            "url": "/aubrie/a-new-winter-break-tradition/jordan-s-first-christmas-boxing-day-in-bluewater/part-3-lunch-at-the-corner-bistro-the-cushion-the-triumphant-return",
+                            "date": "2014-12-26",
+                            "start_time": "11:15",
+                            "location": "The Corner Bistro, Bluewater Town Plaza, Bluewater, Virginia"
                         }
                     ]
                 },
@@ -558,16 +1007,25 @@
                     "chap_num": 4,
                     "chap_title": "The Seminole Trail & The Dawson Sanctuary",
                     "chap_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition/the-seminole-trail-the-dawson-sanctuary",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Gridlock on I-81 & The Route 460 Pivot & Elana, Stephen, & Stella",
-                            "file_path": "e002/c004/p001.md"
+                            "file_path": "e002/c004/p001.md",
+                            "url": "/aubrie/a-new-winter-break-tradition/the-seminole-trail-the-dawson-sanctuary/part-1-gridlock-on-i-81-the-route-460-pivot-elana-stephen-stella",
+                            "date": "2014-12-27",
+                            "start_time": "08:00",
+                            "location": "Interstate 81 North (Milepost 148, Botetourt County) to U.S. Route 460 East & U.S. Route 29 North, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Architecture of Care & Fall 2015 & South on 29, West on 460",
-                            "file_path": "e002/c004/p002.md"
+                            "file_path": "e002/c004/p002.md",
+                            "url": "/aubrie/a-new-winter-break-tradition/the-seminole-trail-the-dawson-sanctuary/part-2-the-architecture-of-care-fall-2015-south-on-29-west-on-460",
+                            "date": "2014-12-27",
+                            "start_time": "13:45",
+                            "location": "Living Room & Server Study, Dawson\u2013Thornton Residence, Charlottesville, Virginia"
                         }
                     ]
                 },
@@ -575,21 +1033,34 @@
                     "chap_num": 5,
                     "chap_title": "Jordan's First New Year's, Silver Star Service, & Breaking Ground",
                     "chap_url": "/raggiesoft-books/books/aubrie/a-new-winter-break-tradition/jordan-s-first-new-year-s-silver-star-service-breaking-ground",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Midnight in London & Booms in the Light",
-                            "file_path": "e002/c005/p001.md"
+                            "file_path": "e002/c005/p001.md",
+                            "url": "/aubrie/a-new-winter-break-tradition/jordan-s-first-new-year-s-silver-star-service-breaking-ground/part-1-midnight-in-london-booms-in-the-light",
+                            "date": "2014-12-31",
+                            "start_time": "18:45",
+                            "location": "Brooks Family Residence, Geneva Street, Christiansburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: First Time in a Terminal & The Auger and the Blueprint",
-                            "file_path": "e002/c005/p002.md"
+                            "file_path": "e002/c005/p002.md",
+                            "url": "/aubrie/a-new-winter-break-tradition/jordan-s-first-new-year-s-silver-star-service-breaking-ground/part-2-first-time-in-a-terminal-the-auger-and-the-blueprint",
+                            "date": "2015-01-03",
+                            "start_time": "06:45",
+                            "location": "Main Terminal, Roanoke\u2013Blacksburg Regional Airport (ROA), Roanoke, Virginia"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Landfall in Southampton & The Sunday Plan",
-                            "file_path": "e002/c005/p003.md"
+                            "file_path": "e002/c005/p003.md",
+                            "url": "/aubrie/a-new-winter-break-tradition/jordan-s-first-new-year-s-silver-star-service-breaking-ground/part-3-landfall-in-southampton-the-sunday-plan",
+                            "date": "2015-01-10",
+                            "start_time": "14:00",
+                            "location": "Basement Sanctuary, Brooks Family Residence, Geneva Street, Christiansburg, Virginia"
                         }
                     ]
                 }
@@ -599,26 +1070,49 @@
             "era_num": 3,
             "era_title": "Spring Semester 2015",
             "era_url": "/raggiesoft-books/books/aubrie/spring-semester-2015",
+            "illustration_count": 5,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Return to The Old Lady & The New Pact",
                     "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/return-to-the-old-lady-the-new-pact",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Sunday Maroon Express & The Co-Ed Pilot Proposal",
-                            "file_path": "e003/c001/p001.md"
+                            "file_path": "e003/c001/p001.md",
+                            "url": "/aubrie/spring-semester-2015/return-to-the-old-lady-the-new-pact/part-1-the-sunday-maroon-express-the-co-ed-pilot-proposal",
+                            "date": "2015-01-11",
+                            "start_time": "13:05",
+                            "location": "Christiansburg Transit Center to Commonwealth Mall, Christiansburg & Blacksburg, Virginia",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c001/s003/isabel-hugs-jordan.jpg",
+                            "image_alt": "Resident Advisor Isabel Dawson in her maroon CPI Residence Life uniform kneeling on the terrazzo floor of the Bennett Hall lobby and crying tears of relief and gratitude behind her glasses as she hugs Jordan tightly in his manual wheelchair while Kelsey Brennan, Garrett Reynolds, and Jordan's found family look on.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c001/s003/isabel-hugs-jordan.jpg",
+                                    "alt": "Resident Advisor Isabel Dawson in her maroon CPI Residence Life uniform kneeling on the terrazzo floor of the Bennett Hall lobby and crying tears of relief and gratitude behind her glasses as she hugs Jordan tightly in his manual wheelchair while Kelsey Brennan, Garrett Reynolds, and Jordan's found family look on."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Introducing Garrett to Suite 214/216 & This Side of Heaven",
-                            "file_path": "e003/c001/p002.md"
+                            "file_path": "e003/c001/p002.md",
+                            "url": "/aubrie/spring-semester-2015/return-to-the-old-lady-the-new-pact/part-2-introducing-garrett-to-suite-214-216-this-side-of-heaven",
+                            "date": "2015-01-11",
+                            "start_time": "14:40",
+                            "location": "Second Floor Washington Street Entrance & Suite 214/216, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Proposal in Room 214 & The First Night of the New Pact",
-                            "file_path": "e003/c001/p003.md"
+                            "file_path": "e003/c001/p003.md",
+                            "url": "/aubrie/spring-semester-2015/return-to-the-old-lady-the-new-pact/part-3-the-proposal-in-room-214-the-first-night-of-the-new-pact",
+                            "date": "2015-01-11",
+                            "start_time": "20:30",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         }
                     ]
                 },
@@ -626,16 +1120,25 @@
                     "chap_num": 2,
                     "chap_title": "A Spring in Motion, The World Trek Blueprint, & Operation 'File First'",
                     "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/a-spring-in-motion-the-world-trek-blueprint-operation-file-first",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Alaskan King Discovery & The Roster of Eighteen",
-                            "file_path": "e003/c002/p001.md"
+                            "file_path": "e003/c002/p001.md",
+                            "url": "/aubrie/spring-semester-2015/a-spring-in-motion-the-world-trek-blueprint-operation-file-first/part-1-the-alaskan-king-discovery-the-roster-of-eighteen",
+                            "date": "2015-01-12",
+                            "start_time": "07:30",
+                            "location": "Suite 214/216, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Operation 'File First' & Sixteen Passports",
-                            "file_path": "e003/c002/p002.md"
+                            "file_path": "e003/c002/p002.md",
+                            "url": "/aubrie/spring-semester-2015/a-spring-in-motion-the-world-trek-blueprint-operation-file-first/part-2-operation-file-first-sixteen-passports",
+                            "date": "2015-01-17",
+                            "start_time": "09:00",
+                            "location": "Keystone Hall VITA Tax Clinic, CPI, Blacksburg & Virginia DMV, Christiansburg, Virginia"
                         }
                     ]
                 },
@@ -643,26 +1146,43 @@
                     "chap_num": 3,
                     "chap_title": "The Leviathan Cut, Electric Color, & The Call from Bluewater",
                     "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-leviathan-cut-electric-color-the-call-from-bluewater",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Leviathan Cut (A Sister's Love)",
-                            "file_path": "e003/c003/p001.md"
+                            "file_path": "e003/c003/p001.md",
+                            "url": "/aubrie/spring-semester-2015/the-leviathan-cut-electric-color-the-call-from-bluewater/part-1-the-leviathan-cut-a-sister-s-love",
+                            "date": "2015-01-18",
+                            "start_time": "10:00",
+                            "location": "The Walk-Out Basement, The Brooks Family Home, 414 Geneva Street, Christiansburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: An 80s Education (The Brooks Mix)",
-                            "file_path": "e003/c003/p002.md"
+                            "file_path": "e003/c003/p002.md",
+                            "url": "/aubrie/spring-semester-2015/the-leviathan-cut-electric-color-the-call-from-bluewater/part-2-an-80s-education-the-brooks-mix",
+                            "date": "2015-01-18",
+                            "start_time": "22:30",
+                            "location": "The Walk-Out Basement, The Brooks Family Home, 414 Geneva Street, Christiansburg, Virginia"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Electric Color",
-                            "file_path": "e003/c003/p003.md"
+                            "file_path": "e003/c003/p003.md",
+                            "url": "/aubrie/spring-semester-2015/the-leviathan-cut-electric-color-the-call-from-bluewater/part-3-electric-color",
+                            "date": "2015-01-18",
+                            "start_time": "23:15",
+                            "location": "The Walk-Out Basement, The Brooks Family Home, 414 Geneva Street, Christiansburg, Virginia"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Starfield Calibration & The Call from Bluewater",
-                            "file_path": "e003/c003/p004.md"
+                            "file_path": "e003/c003/p004.md",
+                            "url": "/aubrie/spring-semester-2015/the-leviathan-cut-electric-color-the-call-from-bluewater/part-4-starfield-calibration-the-call-from-bluewater",
+                            "date": "2015-01-19",
+                            "start_time": "21:30",
+                            "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         }
                     ]
                 },
@@ -670,21 +1190,34 @@
                     "chap_num": 4,
                     "chap_title": "HEY CACUHO! The Residence Life Conference",
                     "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/hey-cacuho-the-residence-life-conference",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Sending Off the RAs & The Empty Room Across the Hall",
-                            "file_path": "e003/c004/p001.md"
+                            "file_path": "e003/c004/p001.md",
+                            "url": "/aubrie/spring-semester-2015/hey-cacuho-the-residence-life-conference/part-1-sending-off-the-ras-the-empty-room-across-the-hall",
+                            "date": "2015-02-13",
+                            "start_time": "15:30",
+                            "location": "First-Floor Lobby, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Breakout Session 4B: Breaking the Binary Corridor",
-                            "file_path": "e003/c004/p002.md"
+                            "file_path": "e003/c004/p002.md",
+                            "url": "/aubrie/spring-semester-2015/hey-cacuho-the-residence-life-conference/part-2-breakout-session-4b-breaking-the-binary-corridor",
+                            "date": "2015-02-14",
+                            "start_time": "14:00",
+                            "location": "Conference Center Room 204, 2015 CACUHO Annual Conference, Virginia"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: HEY CACUHO! Clothespins and the Gamble Aria Nightmare",
-                            "file_path": "e003/c004/p003.md"
+                            "file_path": "e003/c004/p003.md",
+                            "url": "/aubrie/spring-semester-2015/hey-cacuho-the-residence-life-conference/part-3-hey-cacuho-clothespins-and-the-gamble-aria-nightmare",
+                            "date": "2015-02-15",
+                            "start_time": "18:30",
+                            "location": "Suite 214/216 & Second-Floor Hallway, Bennett Hall, CPI, Blacksburg, Virginia"
                         }
                     ]
                 },
@@ -692,16 +1225,25 @@
                     "chap_num": 5,
                     "chap_title": "The Stalker at the Desk & The Bluewater Bunker",
                     "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-stalker-at-the-desk-the-bluewater-bunker",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Investigator at the Front Desk & Convoy to Bluewater",
-                            "file_path": "e003/c005/p001.md"
+                            "file_path": "e003/c005/p001.md",
+                            "url": "/aubrie/spring-semester-2015/the-stalker-at-the-desk-the-bluewater-bunker/part-1-the-investigator-at-the-front-desk-convoy-to-bluewater",
+                            "date": "2015-03-02",
+                            "start_time": "14:45",
+                            "location": "First-Floor Office, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Making It Work in Bluewater & The Heart-Hum",
-                            "file_path": "e003/c005/p002.md"
+                            "file_path": "e003/c005/p002.md",
+                            "url": "/aubrie/spring-semester-2015/the-stalker-at-the-desk-the-bluewater-bunker/part-2-making-it-work-in-bluewater-the-heart-hum",
+                            "date": "2015-03-07",
+                            "start_time": "11:15",
+                            "location": "The Scott Family Home ('The Bluewater Bunker'), Bluewater, Virginia"
                         }
                     ]
                 },
@@ -709,16 +1251,51 @@
                     "chap_num": 6,
                     "chap_title": "The S.S. Freedom & Closing the Old Lady",
                     "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-s-s-freedom-closing-the-old-lady",
+                    "illustration_count": 4,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Three Hundred and Fifty Pounds of Freedom & Stripping Room 214",
-                            "file_path": "e003/c006/p001.md"
+                            "file_path": "e003/c006/p001.md",
+                            "url": "/aubrie/spring-semester-2015/the-s-s-freedom-closing-the-old-lady/part-1-three-hundred-and-fifty-pounds-of-freedom-stripping-room-214",
+                            "date": "2015-03-16",
+                            "start_time": "13:30",
+                            "location": "The Brooks Driveway, Christiansburg & The Hillside Walkway Outside Bennett Hall, CPI, Blacksburg, Virginia",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c010/s001/ss-freedom-hill-climb.jpg",
+                            "image_alt": "Beaming with triumphant confidence, nineteen-year-old Jordan Fuller drives his brand-new 350-pound matte-black Vanguard Titan-X350 all-terrain power wheelchair (S.S. Freedom, with six suspension wheels, glowing white LED fender path-lights, and his laptop mounted on a swing-away arm) effortlessly up the steep twelve-degree paved hillside walkway alongside the gray Ironstone facade of Eleanor Bennett Hall while Aubrie Jean Kelly, Madison Grace Miller, and Zo\u00eb Wren Brooks walk beside him and Resident Advisors Isabel Dawson and Garrett Reynolds cheer from the top of the ridge.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c010/s001/ss-freedom-hill-climb.jpg",
+                                    "alt": "Beaming with triumphant confidence, nineteen-year-old Jordan Fuller drives his brand-new 350-pound matte-black Vanguard Titan-X350 all-terrain power wheelchair (S.S. Freedom, with six suspension wheels, glowing white LED fender path-lights, and his laptop mounted on a swing-away arm) effortlessly up the steep twelve-degree paved hillside walkway alongside the gray Ironstone facade of Eleanor Bennett Hall while Aubrie Jean Kelly, Madison Grace Miller, and Zo\u00eb Wren Brooks walk beside him and Resident Advisors Isabel Dawson and Garrett Reynolds cheer from the top of the ridge."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Long Hug in the Hallway & Ready for the World",
-                            "file_path": "e003/c006/p002.md"
+                            "file_path": "e003/c006/p002.md",
+                            "url": "/aubrie/spring-semester-2015/the-s-s-freedom-closing-the-old-lady/part-2-a-long-hug-in-the-hallway-ready-for-the-world",
+                            "date": "2015-05-15",
+                            "start_time": "11:20",
+                            "location": "Second-Floor Hallway Outside Room 214/215, Bennett Hall, CPI, Blacksburg, Virginia",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c011/s002/isabel-goodbye-hug.jpg",
+                            "image_alt": "In the second-floor hallway outside stripped Room 214 on Spring 2015 Move-Out Day, Isabel Dawson kneels on the clean floor in her maroon-and-white CPI Residence Life uniform beside clean-shaven Jordan's matte-black S.S. Freedom power wheelchair, crying softly as she wraps both arms tightly around Jordan's neck in one last long, deep goodbye hug because she will miss him so much over the summer.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c011/s002/isabel-goodbye-hug.jpg",
+                                    "alt": "In the second-floor hallway outside stripped Room 214 on Spring 2015 Move-Out Day, Isabel Dawson kneels on the clean floor in her maroon-and-white CPI Residence Life uniform beside clean-shaven Jordan's matte-black S.S. Freedom power wheelchair, crying softly as she wraps both arms tightly around Jordan's neck in one last long, deep goodbye hug because she will miss him so much over the summer."
+                                },
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c011/s002/isabel-move-out-secret.jpg",
+                                    "alt": "Moments earlier at the doorway of stripped Room 214 (with Jordan's single low Bed A and bare oak desk behind him, and the black electronic Poly Pass RFID card reader mounted directly below the ROOM 214 sign), clean-shaven Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing a heather-grey CPI Forgers bookstore t-shirt while RA Isabel Dawson stands in her maroon-and-white CPI Residence Life Student Staff uniform holding his yellow RCR clipboard\u2014blushing rosy pink with one hand touching her collar and smiling through bright, emotional tears."
+                                },
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c011/s002/isabel-move-out-secret.jpg#fullwidth",
+                                    "alt": "At the doorway of stripped Room 214 (with Jordan's single low Bed A and bare oak desk behind him, and the black electronic Poly Pass RFID card reader mounted directly below the ROOM 214 sign), clean-shaven Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing a heather-grey CPI Forgers bookstore t-shirt while RA Isabel Dawson stands in her maroon-and-white CPI Residence Life Student Staff uniform holding his yellow RCR clipboard\u2014blushing rosy pink with one hand touching her collar and smiling through bright, emotional tears."
+                                }
+                            ],
+                            "image_count": 3
                         }
                     ]
                 }
@@ -728,31 +1305,58 @@
             "era_num": 4,
             "era_title": "Jordan's World Trek",
             "era_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek",
+            "illustration_count": 7,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Leg 1: The Northern Ascent (Christiansburg to Gander)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-1-the-northern-ascent-christiansburg-to-gander",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Vanguard Awakes & The Security Checkpoint",
-                            "file_path": "e004/c001/p001.md"
+                            "file_path": "e004/c001/p001.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-1-the-northern-ascent-christiansburg-to-gander/part-1-the-vanguard-awakes-the-security-checkpoint",
+                            "date": "2015-05-23",
+                            "start_time": "05:00",
+                            "location": "Brooks Residence Basement, Geneva Street, Christiansburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Ten-Thousand Foot Rule & The Border Briefing",
-                            "file_path": "e004/c001/p002.md"
+                            "file_path": "e004/c001/p002.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-1-the-northern-ascent-christiansburg-to-gander/part-2-the-ten-thousand-foot-rule-the-border-briefing",
+                            "date": "2015-05-23",
+                            "start_time": "07:30",
+                            "location": "Meridian Express Gate & Flight to IAD, Roanoke-Blacksburg Regional Airport (ROA), Roanoke, Virginia",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c001/s004/isabel-roa-video-message.jpg",
+                            "image_alt": "Viewed over the shoulders of clean-shaven Jordan Fuller (sitting in his matte-black S.S. Freedom power wheelchair) and Aubrie Jean Kelly (leaning in warmly beside his right shoulder) inside the sunlit departure gate lounge at Roanoke-Blacksburg Regional Airport (ROA) with the Meridian Express regional jet parked on the tarmac outside, Jordan and Aubrie look directly at his armrest-mounted mPad screen during a live video call with Isabel Dawson in Charlottesville\u2014who is dressed in a casual lavender summer top, smiling warmly behind her rectangular glasses and blushing a deep, rosy pink like she is trying to hide a big secret.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c001/s004/isabel-roa-video-message.jpg",
+                                    "alt": "Viewed over the shoulders of clean-shaven Jordan Fuller (sitting in his matte-black S.S. Freedom power wheelchair) and Aubrie Jean Kelly (leaning in warmly beside his right shoulder) inside the sunlit departure gate lounge at Roanoke-Blacksburg Regional Airport (ROA) with the Meridian Express regional jet parked on the tarmac outside, Jordan and Aubrie look directly at his armrest-mounted mPad screen during a live video call with Isabel Dawson in Charlottesville\u2014who is dressed in a casual lavender summer top, smiling warmly behind her rectangular glasses and blushing a deep, rosy pink like she is trying to hide a big secret."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Outback Lift & The ePassport Bottleneck",
-                            "file_path": "e004/c001/p003.md"
+                            "file_path": "e004/c001/p003.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-1-the-northern-ascent-christiansburg-to-gander/part-3-the-outback-lift-the-epassport-bottleneck",
+                            "date": "2015-05-23",
+                            "start_time": "11:30",
+                            "location": "International Departure Gate, Washington Dulles International Airport (IAD), Dulles, Virginia"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Yellow Ribbon Welcome & The Room 214 Reunion",
-                            "file_path": "e004/c001/p004.md"
+                            "file_path": "e004/c001/p004.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-1-the-northern-ascent-christiansburg-to-gander/part-4-the-yellow-ribbon-welcome-the-room-214-reunion",
+                            "date": "2015-05-23",
+                            "start_time": "19:00",
+                            "location": "Gander International Airport (YQX), Gander, Newfoundland and Labrador, Canada"
                         }
                     ]
                 },
@@ -760,16 +1364,25 @@
                     "chap_num": 2,
                     "chap_title": "Leg 2: Safe Haven on the Rock (Newfoundland, Canada)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-2-safe-haven-on-the-rock-newfoundland-canada",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Gander Morning, Iceberg Alley, & St. John's",
-                            "file_path": "e004/c002/p001.md"
+                            "file_path": "e004/c002/p001.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-2-safe-haven-on-the-rock-newfoundland-canada/part-1-the-gander-morning-iceberg-alley-st-john-s",
+                            "date": "2015-05-24",
+                            "start_time": "08:00",
+                            "location": "Barnes Family Residence, Gander, Newfoundland and Labrador, Canada"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Gander Heritage Boardwalk & The Crossroads of the World",
-                            "file_path": "e004/c002/p002.md"
+                            "file_path": "e004/c002/p002.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-2-safe-haven-on-the-rock-newfoundland-canada/part-2-gander-heritage-boardwalk-the-crossroads-of-the-world",
+                            "date": "2015-05-26",
+                            "start_time": "18:30",
+                            "location": "Gander Heritage Boardwalk & Pond and Barnes Family Residence, Gander, Newfoundland and Labrador, Canada"
                         }
                     ]
                 },
@@ -777,16 +1390,34 @@
                     "chap_num": 3,
                     "chap_title": "Leg 3: Midnight Sun, Azure Lagoon, & The Golden Circle (Iceland)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-3-midnight-sun-azure-lagoon-the-golden-circle-iceland",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Midnight Sun and the Yellow Bus Grid",
-                            "file_path": "e004/c003/p001.md"
+                            "file_path": "e004/c003/p001.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-3-midnight-sun-azure-lagoon-the-golden-circle-iceland/part-1-midnight-sun-and-the-yellow-bus-grid",
+                            "date": "2015-05-31",
+                            "start_time": "06:15",
+                            "location": "Keflav\u00edk International Airport (KEF) & Route 55 Bus to Reykjavik, Iceland"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Zero Gravity in the Azure Lagoon & The Victorian Grid Briefing",
-                            "file_path": "e004/c003/p002.md"
+                            "file_path": "e004/c003/p002.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-3-midnight-sun-azure-lagoon-the-golden-circle-iceland/part-2-zero-gravity-in-the-azure-lagoon-the-victorian-grid-briefing",
+                            "date": "2015-06-02",
+                            "start_time": "13:00",
+                            "location": "The Azure Lagoon (Hei\u00f0r\u00fanarl\u00f3n), Grindav\u00edk, Reykjanes Peninsula, Iceland",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c007/s001/azure-lagoon-zero-gravity.jpg",
+                            "image_alt": "In the steaming 100-degree milky-turquoise geothermal mineral waters of Iceland's Azure Lagoon (Hei\u00f0r\u00fanarl\u00f3n) surrounded by moss-crusted black volcanic basalt cliffs and billowing white steam, nineteen-year-old Jordan Fuller floats weightlessly on his back with white silica mud stripes on his cheeks and an expression of pure, uninhibited joy as Aubrie Jean Kelly, Madison Grace Miller, Zo\u00eb Wren Brooks, Lauren Elizabeth Taylor, Sarah Braithwaite, and Jessica Gallagher support him in a warm, protective circle.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c007/s001/azure-lagoon-zero-gravity.jpg",
+                                    "alt": "In the steaming 100-degree milky-turquoise geothermal mineral waters of Iceland's Azure Lagoon (Hei\u00f0r\u00fanarl\u00f3n) surrounded by moss-crusted black volcanic basalt cliffs and billowing white steam, nineteen-year-old Jordan Fuller floats weightlessly on his back with white silica mud stripes on his cheeks and an expression of pure, uninhibited joy as Aubrie Jean Kelly, Madison Grace Miller, Zo\u00eb Wren Brooks, Lauren Elizabeth Taylor, Sarah Braithwaite, and Jessica Gallagher support him in a warm, protective circle."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -794,26 +1425,52 @@
                     "chap_num": 4,
                     "chap_title": "Leg 4: The Victorian Grid, The Wrong Liverpool, & Station X (United Kingdom)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-4-the-victorian-grid-the-wrong-liverpool-station-x-united-kingdom",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Heathrow Ambush & Chief Navigator of the Red Buses",
-                            "file_path": "e004/c004/p001.md"
+                            "file_path": "e004/c004/p001.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-4-the-victorian-grid-the-wrong-liverpool-station-x-united-kingdom/part-1-the-heathrow-ambush-chief-navigator-of-the-red-buses",
+                            "date": "2015-06-07",
+                            "start_time": "13:15",
+                            "location": "Heathrow Airport Terminal 2 (The Britannia Terminal), London, England, UK"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Carnaby Street, the Thames Riverbus, & Babbage's Engine",
-                            "file_path": "e004/c004/p002.md"
+                            "file_path": "e004/c004/p002.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-4-the-victorian-grid-the-wrong-liverpool-station-x-united-kingdom/part-2-carnaby-street-the-thames-riverbus-babbage-s-engine",
+                            "date": "2015-06-08",
+                            "start_time": "15:00",
+                            "location": "Carnaby Street, Soho, City of Westminster, London, England, UK"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: London Euston, Edinburgh Castle, & The Royal Yacht",
-                            "file_path": "e004/c004/p003.md"
+                            "file_path": "e004/c004/p003.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-4-the-victorian-grid-the-wrong-liverpool-station-x-united-kingdom/part-3-london-euston-edinburgh-castle-the-royal-yacht",
+                            "date": "2015-06-11",
+                            "start_time": "08:30",
+                            "location": "London Euston Railway Station & Albion InterCity Rail Tilting Express, London, England, UK",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c014/s002/wrong-liverpool-pier-head.jpg",
+                            "image_alt": "On the waterfront plaza at Pier Head in Liverpool, Merseyside, England, with the historic Three Graces and Liver Bird clock towers rising behind them, nineteen-year-old Jordan Fuller sits parked dead-center in his matte-black S.S. Freedom power wheelchair in front of the large WELCOME TO LIVERPOOL sign while Australian suitemate Sarah Braithwaite laughs uproariously and gives an exaggerated thumbs-down beside Aubrie Jean Kelly, Madison Grace Miller, Zo\u00eb Wren Brooks (shading her eyes looking for kangaroos), tall Jessica Gallagher, Lauren Elizabeth Taylor, and Hannah Marie Brooks.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c014/s002/wrong-liverpool-pier-head.jpg",
+                                    "alt": "On the waterfront plaza at Pier Head in Liverpool, Merseyside, England, with the historic Three Graces and Liver Bird clock towers rising behind them, nineteen-year-old Jordan Fuller sits parked dead-center in his matte-black S.S. Freedom power wheelchair in front of the large WELCOME TO LIVERPOOL sign while Australian suitemate Sarah Braithwaite laughs uproariously and gives an exaggerated thumbs-down beside Aubrie Jean Kelly, Madison Grace Miller, Zo\u00eb Wren Brooks (shading her eyes looking for kangaroos), tall Jessica Gallagher, Lauren Elizabeth Taylor, and Hannah Marie Brooks."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Eastern Leap from Heathrow",
-                            "file_path": "e004/c004/p004.md"
+                            "file_path": "e004/c004/p004.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-4-the-victorian-grid-the-wrong-liverpool-station-x-united-kingdom/part-4-the-eastern-leap-from-heathrow",
+                            "date": "2015-06-27",
+                            "start_time": "11:00",
+                            "location": "Heathrow Airport Terminal 2 (The Britannia Terminal / LHR), London, England, UK"
                         }
                     ]
                 },
@@ -821,16 +1478,34 @@
                     "chap_num": 5,
                     "chap_title": "Leg 5: The Architecture of Respect (Tokyo, Kyoto, & Osaka)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-5-the-architecture-of-respect-tokyo-kyoto-osaka",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Haneda Airport, Asakusa Lanterns, & Tokyo Skytree",
-                            "file_path": "e004/c005/p001.md"
+                            "file_path": "e004/c005/p001.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-5-the-architecture-of-respect-tokyo-kyoto-osaka/part-1-haneda-airport-asakusa-lanterns-tokyo-skytree",
+                            "date": "2015-06-28",
+                            "start_time": "08:30",
+                            "location": "Tokyo International Airport (Haneda / HND) & Haneda Bay Monorail, Ota Ward, Tokyo, Japan"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Hassha Melody, Kyoto, & The Brooks Family's Osaka",
-                            "file_path": "e004/c005/p002.md"
+                            "file_path": "e004/c005/p002.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-5-the-architecture-of-respect-tokyo-kyoto-osaka/part-2-the-hassha-melody-kyoto-the-brooks-family-s-osaka",
+                            "date": "2015-07-04",
+                            "start_time": "09:45",
+                            "location": "T\u014dkaid\u014d Bullet Line Platform 18, Tokyo Station, Chiyoda Ward, Tokyo, Japan",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c021/s001/tokyo-shinkansen-hassha-melody.jpg",
+                            "image_alt": "On elevated Platform 18 at Tokyo Station behind the yellow tactile warning blocks as the gentle music-box Hassha melody chimes overhead, a courteous Nippon Rail attendant in a navy-blue uniform and pristine white gloves bows respectfully beside the yellow-and-aluminum boarding ramp at Car 11 of a gleaming white-and-blue N700A Series Bullet Train (Hikari Star Super Express), welcoming nineteen-year-old Jordan Fuller in his matte-black S.S. Freedom power wheelchair while Zo\u00eb Wren Brooks rests a grounding hand on his shoulder alongside Aubrie Jean Kelly and Madison Grace Miller.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c021/s001/tokyo-shinkansen-hassha-melody.jpg",
+                                    "alt": "On elevated Platform 18 at Tokyo Station behind the yellow tactile warning blocks as the gentle music-box Hassha melody chimes overhead, a courteous Nippon Rail attendant in a navy-blue uniform and pristine white gloves bows respectfully beside the yellow-and-aluminum boarding ramp at Car 11 of a gleaming white-and-blue N700A Series Bullet Train (Hikari Star Super Express), welcoming nineteen-year-old Jordan Fuller in his matte-black S.S. Freedom power wheelchair while Zo\u00eb Wren Brooks rests a grounding hand on his shoulder alongside Aubrie Jean Kelly and Madison Grace Miller."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -838,26 +1513,43 @@
                     "chap_num": 6,
                     "chap_title": "Leg 6: Starry Skies on the Seto Inland Sea & Beppu Bay (Ky\u016bsh\u016b)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-6-starry-skies-on-the-seto-inland-sea-beppu-bay-ky-sh",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Osaka South Port and Boarding the Starry Sky",
-                            "file_path": "e004/c006/p001.md"
+                            "file_path": "e004/c006/p001.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-6-starry-skies-on-the-seto-inland-sea-beppu-bay-ky-sh/part-1-osaka-south-port-and-boarding-the-starry-sky",
+                            "date": "2015-07-08",
+                            "start_time": "18:00",
+                            "location": "Osaka South Port (Nank\u014d) Ferry Terminal & Ferry Hoshizora, Suminoe Ward, Osaka, Japan"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Threat Level Zero: Hoshizora no Uta (Japanese Version)",
-                            "file_path": "e004/c006/p002.md"
+                            "file_path": "e004/c006/p002.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-6-starry-skies-on-the-seto-inland-sea-beppu-bay-ky-sh/part-2-threat-level-zero-hoshizora-no-uta-japanese-version",
+                            "date": "2015-07-08",
+                            "start_time": "19:05",
+                            "location": "Barrier-Free Upper-Deck Stateroom, Ferry Hoshizora, Sailing Out of Osaka Bay onto the Seto Inland Sea, Japan"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: For You Are Safe Upon the Sea: Hoshizora no Uta (English Version)",
-                            "file_path": "e004/c006/p003.md"
+                            "file_path": "e004/c006/p003.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-6-starry-skies-on-the-seto-inland-sea-beppu-bay-ky-sh/part-3-for-you-are-safe-upon-the-sea-hoshizora-no-uta-english-version",
+                            "date": "2015-07-08",
+                            "start_time": "19:12",
+                            "location": "Barrier-Free Upper-Deck Stateroom, Ferry Hoshizora, Seto Inland Sea, Japan"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Morning Light on Beppu Bay & The Seven Geothermal Springs",
-                            "file_path": "e004/c006/p004.md"
+                            "file_path": "e004/c006/p004.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-6-starry-skies-on-the-seto-inland-sea-beppu-bay-ky-sh/part-4-morning-light-on-beppu-bay-the-seven-geothermal-springs",
+                            "date": "2015-07-09",
+                            "start_time": "06:30",
+                            "location": "Upper Observation Deck, Ferry Hoshizora, Approaching Beppu International Tourist Port, \u014cita Prefecture, Ky\u016bsh\u016b, Japan"
                         }
                     ]
                 },
@@ -865,16 +1557,34 @@
                     "chap_num": 7,
                     "chap_title": "Leg 7: The Deterministic Sanctuary & ZO\u00cb.Systems.Logs (Singapore)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-7-the-deterministic-sanctuary-zo-systems-logs-singapore",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Changi Airport, Telok Ayer, & The Equator Wheel",
-                            "file_path": "e004/c007/p001.md"
+                            "file_path": "e004/c007/p001.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-7-the-deterministic-sanctuary-zo-systems-logs-singapore/part-1-changi-airport-telok-ayer-the-equator-wheel",
+                            "date": "2015-07-15",
+                            "start_time": "16:30",
+                            "location": "Terminal 3 Butterfly Garden & Changi Airport MRT Station, Singapore Changi Airport (SIN), Singapore",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c008/s003/zoe-disclosure-singapore.jpg",
+                            "image_alt": "On the warm lamp-lit outdoor sky terrace of their Marina Bay hotel suite in Singapore at night with the glowing solar arbors and glass conservatory domes of the Marina Bay Botanical Sanctuaries illuminated in teal, violet, and gold across the water behind them, 19-year-old Zo\u00eb Wren Brooks (with vibrant purple bobbed hair and rectangular glasses) holds her mPad displaying her dark-mode ZO\u00cb.Systems.Logs diagnostic telemetry as she openly discloses her age-3 autism diagnosis, while Aubrie Jean Kelly (with her brown side-braid) rests a supportive hand on Zo\u00eb's shoulder and clean-shaven Jordan Fuller smiles warmly at her from his matte-black S.S. Freedom power wheelchair.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c008/s003/zoe-disclosure-singapore.jpg",
+                                    "alt": "On the warm lamp-lit outdoor sky terrace of their Marina Bay hotel suite in Singapore at night with the glowing solar arbors and glass conservatory domes of the Marina Bay Botanical Sanctuaries illuminated in teal, violet, and gold across the water behind them, 19-year-old Zo\u00eb Wren Brooks (with vibrant purple bobbed hair and rectangular glasses) holds her mPad displaying her dark-mode ZO\u00cb.Systems.Logs diagnostic telemetry as she openly discloses her age-3 autism diagnosis, while Aubrie Jean Kelly (with her brown side-braid) rests a supportive hand on Zo\u00eb's shoulder and clean-shaven Jordan Fuller smiles warmly at her from his matte-black S.S. Freedom power wheelchair."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Three-Continent Video Call & Sentosa Monorail",
-                            "file_path": "e004/c007/p002.md"
+                            "file_path": "e004/c007/p002.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-7-the-deterministic-sanctuary-zo-systems-logs-singapore/part-2-the-three-continent-video-call-sentosa-monorail",
+                            "date": "2015-07-17",
+                            "start_time": "21:00",
+                            "location": "Accessible Family Living Suite, Marina Bay, Singapore (Conferenced with Charlottesville, VA & London, UK)"
                         }
                     ]
                 },
@@ -882,26 +1592,61 @@
                     "chap_num": 8,
                     "chap_title": "Leg 8: Southern Cross Winter, The Red Centre, & Home to Roanoke (Australia)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-world-trek/leg-8-southern-cross-winter-the-red-centre-home-to-roanoke-australia",
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Sydney Harbour, The Three Sisters, & The Jamison Skyway",
-                            "file_path": "e004/c008/p001.md"
+                            "file_path": "e004/c008/p001.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-8-southern-cross-winter-the-red-centre-home-to-roanoke-australia/part-1-sydney-harbour-the-three-sisters-the-jamison-skyway",
+                            "date": "2015-07-19",
+                            "start_time": "09:30",
+                            "location": "Sydney Kingsford Smith International Airport (SYD) & Circular Quay, Sydney, New South Wales, Australia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Ulu\u1e5fu & The Track to Gallagher's Roadhouse",
-                            "file_path": "e004/c008/p002.md"
+                            "file_path": "e004/c008/p002.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-8-southern-cross-winter-the-red-centre-home-to-roanoke-australia/part-2-ulu-u-the-track-to-gallagher-s-roadhouse",
+                            "date": "2015-08-01",
+                            "start_time": "11:30",
+                            "location": "Red Centre Desert Airport (AYQ), Ulu\u1e5fu Base Cultural Trail, & Gallagher's Roadhouse, Petermann, Northern Territory, Australia"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Frost on the Tires & The Royal Flying Doctor Service",
-                            "file_path": "e004/c008/p003.md"
+                            "file_path": "e004/c008/p003.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-8-southern-cross-winter-the-red-centre-home-to-roanoke-australia/part-3-frost-on-the-tires-the-royal-flying-doctor-service",
+                            "date": "2015-08-05",
+                            "start_time": "06:15",
+                            "location": "Gallagher's Roadhouse & Mechanical Workshop, Petermann, Northern Territory, Australia",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c010/s002/outback-frost-tires.jpg",
+                            "image_alt": "At 6:15 AM freezing winter dawn outside Gallagher's Roadhouse in the Petermann Outback of the Northern Territory, Australia (Respondent's Exhibit D), a crystalline layer of white winter frost coats the rust-red iron-oxide desert dirt, spinifex grass, and the thick rubber tire treads and casters of clean-shaven Jordan Fuller's matte-black S.S. Freedom power wheelchair at the foot of the custom-welded steel diamond-plate verandah ramp, while identical six-foot-three blonde Australian twin sisters Jessica and Bec Gallagher stand proudly behind him in warm Outback work jackets as their breath rises in the 27.8-degree Fahrenheit dawn air.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c010/s002/outback-frost-tires.jpg",
+                                    "alt": "At 6:15 AM freezing winter dawn outside Gallagher's Roadhouse in the Petermann Outback of the Northern Territory, Australia (Respondent's Exhibit D), a crystalline layer of white winter frost coats the rust-red iron-oxide desert dirt, spinifex grass, and the thick rubber tire treads and casters of clean-shaven Jordan Fuller's matte-black S.S. Freedom power wheelchair at the foot of the custom-welded steel diamond-plate verandah ramp, while identical six-foot-three blonde Australian twin sisters Jessica and Bec Gallagher stand proudly behind him in warm Outback work jackets as their breath rises in the 27.8-degree Fahrenheit dawn air."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Thirty-Five Hours to Roanoke (The Gate Hug)",
-                            "file_path": "e004/c008/p004.md"
+                            "file_path": "e004/c008/p004.md",
+                            "url": "/aubrie/jordan-s-world-trek/leg-8-southern-cross-winter-the-red-centre-home-to-roanoke-australia/part-4-thirty-five-hours-to-roanoke-the-gate-hug",
+                            "date": "2015-08-17",
+                            "start_time": "18:30",
+                            "location": "Arrivals Concourse, Gate 4, Roanoke-Blacksburg Regional Airport (ROA), Roanoke, Virginia",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c010/s004/roa-gate-hug.jpg",
+                            "image_alt": "Inside the sunlit Gate 4 Arrivals Concourse at Roanoke-Blacksburg Regional Airport (ROA) at 6:30 PM on August 17, 2015 after thirty-five hours of travel from the Australian Outback, clean-shaven Jordan Fuller leans forward in his matte-black S.S. Freedom power wheelchair (with red Petermann desert dirt in the tire treads and his armrest-mounted AAC tablet) to wrap both arms tightly around Isabel Dawson\u2014who kneels before him in blue jeans and a maroon CPI T-shirt with a deep rosy crimson blush and happy tears glistening on her cheeks\u2014while Henry Walsh, Aubrie Jean Kelly, and Zo\u00eb Wren Brooks look on from a few steps back with warm, knowing smiles.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c010/s004/roa-gate-hug.jpg",
+                                    "alt": "Inside the sunlit Gate 4 Arrivals Concourse at Roanoke-Blacksburg Regional Airport (ROA) at 6:30 PM on August 17, 2015 after thirty-five hours of travel from the Australian Outback, clean-shaven Jordan Fuller leans forward in his matte-black S.S. Freedom power wheelchair (with red Petermann desert dirt in the tire treads and his armrest-mounted AAC tablet) to wrap both arms tightly around Isabel Dawson\u2014who kneels before him in blue jeans and a maroon CPI T-shirt with a deep rosy crimson blush and happy tears glistening on her cheeks\u2014while Henry Walsh, Aubrie Jean Kelly, and Zo\u00eb Wren Brooks look on from a few steps back with warm, knowing smiles."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
@@ -911,26 +1656,49 @@
             "era_num": 5,
             "era_title": "Jordan's Court Case",
             "era_url": "/raggiesoft-books/books/aubrie/jordan-s-court-case",
+            "illustration_count": 3,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Dismissed with Prejudice (The Montgomery County Courthouse)",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-court-case/dismissed-with-prejudice-the-montgomery-county-courthouse",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The GAL Interview, The Phalanx, & The Gavel",
-                            "file_path": "e005/c001/p001.md"
+                            "file_path": "e005/c001/p001.md",
+                            "url": "/aubrie/jordan-s-court-case/dismissed-with-prejudice-the-montgomery-county-courthouse/part-1-the-gal-interview-the-phalanx-the-gavel",
+                            "date": "2015-08-18",
+                            "start_time": "08:30",
+                            "location": "Attorney Consultation Room, Montgomery County Courthouse, Christiansburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Institutional Shield & Testimony on the Stand",
-                            "file_path": "e005/c001/p002.md"
+                            "file_path": "e005/c001/p002.md",
+                            "url": "/aubrie/jordan-s-court-case/dismissed-with-prejudice-the-montgomery-county-courthouse/part-2-the-institutional-shield-testimony-on-the-stand",
+                            "date": "2015-08-18",
+                            "start_time": "10:10",
+                            "location": "Courtroom 3B, Montgomery County Courthouse, Christiansburg, Virginia"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Closing Argument, The Gavel, and The Handcuffs",
-                            "file_path": "e005/c001/p003.md"
+                            "file_path": "e005/c001/p003.md",
+                            "url": "/aubrie/jordan-s-court-case/dismissed-with-prejudice-the-montgomery-county-courthouse/part-3-the-closing-argument-the-gavel-and-the-handcuffs",
+                            "date": "2015-08-18",
+                            "start_time": "13:30",
+                            "location": "Courtroom 3B, Montgomery County Courthouse, Christiansburg, Virginia",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c001/s006/the-gavel-and-the-handcuffs.jpg",
+                            "image_alt": "Inside Courtroom 3B of the Montgomery County Courthouse in Christiansburg, Judge Harrison strikes his wooden gavel from the bench to dismiss the guardianship petition with prejudice while a uniformed Montgomery County Sheriff's deputy places steel handcuffs around the wrists of a stunned Aubrie Sinclair at the petitioner's table, as nineteen-year-old Jordan Fuller sits tall, composed, and sovereign in his matte-black S.S. Freedom power wheelchair in a navy suit and maroon tie beside attorney Ms. Helen Gable and his supportive gallery phalanx (Aubrie Jean Kelly, Zo\u00eb Wren Brooks, Madison Grace Miller, Isabel Dawson, and Henry Walsh).",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c001/s006/the-gavel-and-the-handcuffs.jpg",
+                                    "alt": "Inside Courtroom 3B of the Montgomery County Courthouse in Christiansburg, Judge Harrison strikes his wooden gavel from the bench to dismiss the guardianship petition with prejudice while a uniformed Montgomery County Sheriff's deputy places steel handcuffs around the wrists of a stunned Aubrie Sinclair at the petitioner's table, as nineteen-year-old Jordan Fuller sits tall, composed, and sovereign in his matte-black S.S. Freedom power wheelchair in a navy suit and maroon tie beside attorney Ms. Helen Gable and his supportive gallery phalanx (Aubrie Jean Kelly, Zo\u00eb Wren Brooks, Madison Grace Miller, Isabel Dawson, and Henry Walsh)."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -938,26 +1706,61 @@
                     "chap_num": 2,
                     "chap_title": "Welcome to Geneva Street & The No-Jealousy Pact",
                     "chap_url": "/raggiesoft-books/books/aubrie/jordan-s-court-case/welcome-to-geneva-street-the-no-jealousy-pact",
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: No Clipboard to Hide Behind",
-                            "file_path": "e005/c002/p001.md"
+                            "file_path": "e005/c002/p001.md",
+                            "url": "/aubrie/jordan-s-court-case/welcome-to-geneva-street-the-no-jealousy-pact/part-1-no-clipboard-to-hide-behind",
+                            "date": "2015-08-19",
+                            "start_time": "17:00",
+                            "location": "414 Geneva Street (Driveway, Switchback Ramp, & Walk-Out Basement), Christiansburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Secret Everyone Already Knew",
-                            "file_path": "e005/c002/p002.md"
+                            "file_path": "e005/c002/p002.md",
+                            "url": "/aubrie/jordan-s-court-case/welcome-to-geneva-street-the-no-jealousy-pact/part-2-the-secret-everyone-already-knew",
+                            "date": "2015-08-19",
+                            "start_time": "19:30",
+                            "location": "Brooks Residence Basement, 414 Geneva Street, Christiansburg, Virginia",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c002/p002/secret-everyone-already-knew.jpg",
+                            "image_alt": "Inside the walk-out basement sanctuary at 414 Geneva Street under warm amber fairy lights and Blue Ridge twilight, twenty-one-year-old Isabel Dawson kneels on the carpet beside Jordan Fuller's wheelchair with her palms framing his clean-shaven jaw right before their first romantic kiss, while Jordan holds her close and Aubrie Jean Kelly, Madison Scott, and Zo\u00eb Wren Brooks watch with warm, zero-jealousy smiles.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c002/p002/secret-everyone-already-knew.jpg",
+                                    "alt": "Inside the walk-out basement sanctuary at 414 Geneva Street under warm amber fairy lights and Blue Ridge twilight, twenty-one-year-old Isabel Dawson kneels on the carpet beside Jordan Fuller's wheelchair with her palms framing his clean-shaven jaw right before their first romantic kiss, while Jordan holds her close and Aubrie Jean Kelly, Madison Scott, and Zo\u00eb Wren Brooks watch with warm, zero-jealousy smiles."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Angles, Leverage, and the No-Jealousy Pact",
-                            "file_path": "e005/c002/p003.md"
+                            "file_path": "e005/c002/p003.md",
+                            "url": "/aubrie/jordan-s-court-case/welcome-to-geneva-street-the-no-jealousy-pact/part-3-angles-leverage-and-the-no-jealousy-pact",
+                            "date": "2015-08-20",
+                            "start_time": "09:30",
+                            "location": "Brooks Residence Basement, 414 Geneva Street, Christiansburg, Virginia"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: New River Hall Room 323 & Allegheny Commons Apartment 101",
-                            "file_path": "e005/c002/p004.md"
+                            "file_path": "e005/c002/p004.md",
+                            "url": "/aubrie/jordan-s-court-case/welcome-to-geneva-street-the-no-jealousy-pact/part-4-new-river-hall-room-323-allegheny-commons-apartment-101",
+                            "date": "2015-08-21",
+                            "start_time": "10:00",
+                            "location": "New River Hall (Room 323 & Forge Market) & Allegheny Commons (Apartment 101), CPI, Blacksburg, Virginia",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c002/p004/new-river-hall-welcoming.jpg",
+                            "image_alt": "Outside the modern Ironstone entrance of New River Hall at Commonwealth Polytechnic Institute on Freshman Move-In Friday, Jordan Fuller in his matte-black S.S. Freedom power wheelchair and Senior RA Isabel Dawson in her maroon-and-white CPI polo welcome incoming freshman Systems Architects Elana Grace Dawson (in her sip-and-puff power chair) and Stephen Dawson alongside Stella, their twenty-eight-inch silver-dapple American Miniature Horse wearing her burgundy service harness and four non-slip neoprene campus boots.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c002/p004/new-river-hall-welcoming.jpg",
+                                    "alt": "Outside the modern Ironstone entrance of New River Hall at Commonwealth Polytechnic Institute on Freshman Move-In Friday, Jordan Fuller in his matte-black S.S. Freedom power wheelchair and Senior RA Isabel Dawson in her maroon-and-white CPI polo welcome incoming freshman Systems Architects Elana Grace Dawson (in her sip-and-puff power chair) and Stephen Dawson alongside Stella, their twenty-eight-inch silver-dapple American Miniature Horse wearing her burgundy service harness and four non-slip neoprene campus boots."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
@@ -967,36 +1770,67 @@
             "era_num": 6,
             "era_title": "Fall Semester 2015",
             "era_url": "/raggiesoft-books/books/aubrie/fall-semester-2015",
+            "illustration_count": 8,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The 5:45 AM Problem, The Birth of Fin#, & Home on Geneva Street",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/the-5-45-am-problem-the-birth-of-fin-home-on-geneva-street",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The 5:45 AM Problem & The 45-Minute Wait on Commonwealth Mall",
-                            "file_path": "e006/c001/p001.md"
+                            "file_path": "e006/c001/p001.md",
+                            "url": "/aubrie/fall-semester-2015/the-5-45-am-problem-the-birth-of-fin-home-on-geneva-street/part-1-the-5-45-am-problem-the-45-minute-wait-on-commonwealth-mall",
+                            "date": "2015-08-24",
+                            "start_time": "05:00",
+                            "location": "414 Geneva Street, Christiansburg Transit Center & Commonwealth Mall, Blacksburg, VA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The New Normal (6:00 AM) & The Sociology Fortress",
-                            "file_path": "e006/c001/p002.md"
+                            "file_path": "e006/c001/p002.md",
+                            "url": "/aubrie/fall-semester-2015/the-5-45-am-problem-the-birth-of-fin-home-on-geneva-street/part-2-the-new-normal-6-00-am-the-sociology-fortress",
+                            "date": "2015-08-24",
+                            "start_time": "07:00",
+                            "location": "Kincaid Commons, Commonwealth Polytechnic Institute, Blacksburg, VA"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Question The Rules: The Birth of Fin#",
-                            "file_path": "e006/c001/p003.md"
+                            "file_path": "e006/c001/p003.md",
+                            "url": "/aubrie/fall-semester-2015/the-5-45-am-problem-the-birth-of-fin-home-on-geneva-street/part-3-question-the-rules-the-birth-of-fin",
+                            "date": "2015-08-26",
+                            "start_time": "19:30",
+                            "location": "414 Geneva Street (Dining Room & Basement Sanctuary), Christiansburg, VA",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c001/p003/birth-of-finsharp.jpg",
+                            "image_alt": "Around the oak dining table at 414 Geneva Street in Christiansburg, Zo\u00eb Wren Brooks (with lavender hair and cyan code reflected in her glasses) and Jordan Fuller (in his S.S. Freedom power wheelchair beside her) co-design the linear-type compiler for Fin# to enforce the First Law of Thermodynamics on double-entry accounting, while Daniel Brooks stands proudly behind Zo\u00eb and Aubrie Jean Kelly and Mark look on.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c001/p003/birth-of-finsharp.jpg",
+                                    "alt": "Around the oak dining table at 414 Geneva Street in Christiansburg, Zo\u00eb Wren Brooks (with lavender hair and cyan code reflected in her glasses) and Jordan Fuller (in his S.S. Freedom power wheelchair beside her) co-design the linear-type compiler for Fin# to enforce the First Law of Thermodynamics on double-entry accounting, while Daniel Brooks stands proudly behind Zo\u00eb and Aubrie Jean Kelly and Mark look on."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: One Week to Process & Updating the Medical Registry",
-                            "file_path": "e006/c001/p004.md"
+                            "file_path": "e006/c001/p004.md",
+                            "url": "/aubrie/fall-semester-2015/the-5-45-am-problem-the-birth-of-fin-home-on-geneva-street/part-4-one-week-to-process-updating-the-medical-registry",
+                            "date": "2015-09-04",
+                            "start_time": "14:00",
+                            "location": "New River Valley Women's Health, Christiansburg, VA"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: Home on Geneva Street",
-                            "file_path": "e006/c001/p005.md"
+                            "file_path": "e006/c001/p005.md",
+                            "url": "/aubrie/fall-semester-2015/the-5-45-am-problem-the-birth-of-fin-home-on-geneva-street/part-5-home-on-geneva-street",
+                            "date": "2015-09-15",
+                            "start_time": "20:30",
+                            "location": "414 Geneva Street (Walk-Out Basement Sanctuary), Christiansburg, VA"
                         }
                     ]
                 },
@@ -1004,16 +1838,25 @@
                     "chap_num": 2,
                     "chap_title": "The Paper Invasion (Notice CP87A) & Fall Break 2015",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/the-paper-invasion-notice-cp87a-fall-break-2015",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Envelope on the Table & Notice CP87A (The Paper Invasion)",
-                            "file_path": "e006/c002/p001.md"
+                            "file_path": "e006/c002/p001.md",
+                            "url": "/aubrie/fall-semester-2015/the-paper-invasion-notice-cp87a-fall-break-2015/part-1-the-envelope-on-the-table-notice-cp87a-the-paper-invasion",
+                            "date": "2015-10-06",
+                            "start_time": "18:15",
+                            "location": "414 Geneva Street (Walk-Out Basement Sanctuary), Christiansburg, VA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The I-64 Concurrency & The Twelve-Hour Leviathan Cut",
-                            "file_path": "e006/c002/p002.md"
+                            "file_path": "e006/c002/p002.md",
+                            "url": "/aubrie/fall-semester-2015/the-paper-invasion-notice-cp87a-fall-break-2015/part-2-the-i-64-concurrency-the-twelve-hour-leviathan-cut",
+                            "date": "2015-10-17",
+                            "start_time": "10:15",
+                            "location": "Interstate 81 / Interstate 64 Exit 221 (Staunton, VA), Fishersville, & Afton Overlook, VA"
                         }
                     ]
                 },
@@ -1021,31 +1864,61 @@
                     "chap_num": 3,
                     "chap_title": "Friday, 9:32 AM: The Broken Foundation & The Failed Angioplasty",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/friday-9-32-am-the-broken-foundation-the-failed-angioplasty",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Friday, 9:32 AM (The Attack) & The Wrong Bus on Commonwealth Mall",
-                            "file_path": "e006/c003/p001.md"
+                            "file_path": "e006/c003/p001.md",
+                            "url": "/aubrie/fall-semester-2015/friday-9-32-am-the-broken-foundation-the-failed-angioplasty/part-1-friday-9-32-am-the-attack-the-wrong-bus-on-commonwealth-mall",
+                            "date": "2015-11-13",
+                            "start_time": "09:32",
+                            "location": "Walton Hall Auditorium (SOC 101), CPI, Blacksburg, VA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Emergency Room (Cardiac Trauma Bay 3) & Room 312 (Strict NPO)",
-                            "file_path": "e006/c003/p002.md"
+                            "file_path": "e006/c003/p002.md",
+                            "url": "/aubrie/fall-semester-2015/friday-9-32-am-the-broken-foundation-the-failed-angioplasty/part-2-the-emergency-room-cardiac-trauma-bay-3-room-312-strict-npo",
+                            "date": "2015-11-13",
+                            "start_time": "10:15",
+                            "location": "Emergency Department (Bay 3), New River Valley Medical Center, Christiansburg, VA"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Fork in the Road & 99% Calcified: The Failed Angioplasty",
-                            "file_path": "e006/c003/p003.md"
+                            "file_path": "e006/c003/p003.md",
+                            "url": "/aubrie/fall-semester-2015/friday-9-32-am-the-broken-foundation-the-failed-angioplasty/part-3-the-fork-in-the-road-99-calcified-the-failed-angioplasty",
+                            "date": "2015-11-13",
+                            "start_time": "12:15",
+                            "location": "Room 312, New River Valley Medical Center, Christiansburg, VA"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Verdict (Open-Heart Bypass) & The Longest Wait",
-                            "file_path": "e006/c003/p004.md"
+                            "file_path": "e006/c003/p004.md",
+                            "url": "/aubrie/fall-semester-2015/friday-9-32-am-the-broken-foundation-the-failed-angioplasty/part-4-the-verdict-open-heart-bypass-the-longest-wait",
+                            "date": "2015-11-13",
+                            "start_time": "16:50",
+                            "location": "Room 312, New River Valley Medical Center, Christiansburg, VA"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: The First Watch & The Midnight Vitals Check",
-                            "file_path": "e006/c003/p005.md"
+                            "file_path": "e006/c003/p005.md",
+                            "url": "/aubrie/fall-semester-2015/friday-9-32-am-the-broken-foundation-the-failed-angioplasty/part-5-the-first-watch-the-midnight-vitals-check",
+                            "date": "2015-11-13",
+                            "start_time": "21:00",
+                            "location": "Room 312, New River Valley Medical Center, Christiansburg, VA",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c003/p005/midnight-vitals-first-watch.jpg",
+                            "image_alt": "Inside dimly lit Room 312 at New River Valley Medical Center at midnight under the cyan glow of the cardiac telemetry monitor, Aubrie Jean Kelly leans tenderly over the lowered hospital bed rail in her flannel pajamas to bury her face in Jordan Fuller's shoulder as Jordan holds her close with his left arm.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c003/p005/midnight-vitals-first-watch.jpg",
+                                    "alt": "Inside dimly lit Room 312 at New River Valley Medical Center at midnight under the cyan glow of the cardiac telemetry monitor, Aubrie Jean Kelly leans tenderly over the lowered hospital bed rail in her flannel pajamas to bury her face in Jordan Fuller's shoulder as Jordan holds her close with his left arm."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -1053,16 +1926,25 @@
                     "chap_num": 4,
                     "chap_title": "The Forty-Eight Hour Wait & Transfer to Star City General",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/the-forty-eight-hour-wait-transfer-to-star-city-general",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Weaning the Radial Band & The Call from Star City",
-                            "file_path": "e006/c004/p001.md"
+                            "file_path": "e006/c004/p001.md",
+                            "url": "/aubrie/fall-semester-2015/the-forty-eight-hour-wait-transfer-to-star-city-general/part-1-weaning-the-radial-band-the-call-from-star-city",
+                            "date": "2015-11-14",
+                            "start_time": "02:00",
+                            "location": "Room 312, New River Valley Medical Center, Christiansburg, VA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The 'Rubber Duck' Convoy & Zo\u00eb's Confession",
-                            "file_path": "e006/c004/p002.md"
+                            "file_path": "e006/c004/p002.md",
+                            "url": "/aubrie/fall-semester-2015/the-forty-eight-hour-wait-transfer-to-star-city-general/part-2-the-rubber-duck-convoy-zo-s-confession",
+                            "date": "2015-11-15",
+                            "start_time": "14:20",
+                            "location": "New River Valley Medical Center Ambulance Bay, Christiansburg, VA"
                         }
                     ]
                 },
@@ -1070,31 +1952,61 @@
                     "chap_num": 5,
                     "chap_title": "Open-Heart Bypass, The Blizzard Fortress, & A CVICU Romance",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/open-heart-bypass-the-blizzard-fortress-a-cvicu-romance",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Pre-Op Goodbye & The Coming Storm & Zo\u00eb's Early Arrival",
-                            "file_path": "e006/c005/p001.md"
+                            "file_path": "e006/c005/p001.md",
+                            "url": "/aubrie/fall-semester-2015/open-heart-bypass-the-blizzard-fortress-a-cvicu-romance/part-1-the-pre-op-goodbye-the-coming-storm-zo-s-early-arrival",
+                            "date": "2015-11-16",
+                            "start_time": "05:20",
+                            "location": "Cardiothoracic Pre-Op Unit, Star City General Hospital, Roanoke, VA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Incentive Spirometer & Parallel Sanctuaries",
-                            "file_path": "e006/c005/p002.md"
+                            "file_path": "e006/c005/p002.md",
+                            "url": "/aubrie/fall-semester-2015/open-heart-bypass-the-blizzard-fortress-a-cvicu-romance/part-2-the-incentive-spirometer-parallel-sanctuaries",
+                            "date": "2015-11-18",
+                            "start_time": "17:30",
+                            "location": "Room 618, Star City General Hospital, Roanoke, VA"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: A CVICU Romance (Protocol: Intimacy.v2)",
-                            "file_path": "e006/c005/p003.md"
+                            "file_path": "e006/c005/p003.md",
+                            "url": "/aubrie/fall-semester-2015/open-heart-bypass-the-blizzard-fortress-a-cvicu-romance/part-3-a-cvicu-romance-protocol-intimacy-v2",
+                            "date": "2015-11-18",
+                            "start_time": "21:30",
+                            "location": "Room 618, Star City General Hospital, Roanoke, VA",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c005/p003/cvicu-romance-intimacy-v2.jpg",
+                            "image_alt": "Inside sixth-floor Room 618 at Star City General Hospital in Roanoke as November snow swirls outside the dark window and the cardiac telemetry monitor displays 88 BPM Normal Sinus Rhythm, Zo\u00eb Wren Brooks in her CPI hoodie and flannel pajama pants leans gently over the lowered bed rail to cup Jordan Fuller's cheek for their very first romantic kiss under Protocol: Intimacy.v2 while Jordan rests his hands lightly on his red plush heart pillow.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c005/p003/cvicu-romance-intimacy-v2.jpg",
+                                    "alt": "Inside sixth-floor Room 618 at Star City General Hospital in Roanoke as November snow swirls outside the dark window and the cardiac telemetry monitor displays 88 BPM Normal Sinus Rhythm, Zo\u00eb Wren Brooks in her CPI hoodie and flannel pajama pants leans gently over the lowered bed rail to cup Jordan Fuller's cheek for their very first romantic kiss under Protocol: Intimacy.v2 while Jordan rests his hands lightly on his red plush heart pillow."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Diuretic & The Psychological Deadlock",
-                            "file_path": "e006/c005/p004.md"
+                            "file_path": "e006/c005/p004.md",
+                            "url": "/aubrie/fall-semester-2015/open-heart-bypass-the-blizzard-fortress-a-cvicu-romance/part-4-the-diuretic-the-psychological-deadlock",
+                            "date": "2015-11-19",
+                            "start_time": "02:15",
+                            "location": "Room 618, Star City General Hospital, Roanoke, VA"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: Protocol.Change(EnSuite) & The Bed Scale (338.0 lbs)",
-                            "file_path": "e006/c005/p005.md"
+                            "file_path": "e006/c005/p005.md",
+                            "url": "/aubrie/fall-semester-2015/open-heart-bypass-the-blizzard-fortress-a-cvicu-romance/part-5-protocol-change-ensuite-the-bed-scale-338-0-lbs",
+                            "date": "2015-11-19",
+                            "start_time": "14:00",
+                            "location": "Room 618, Star City General Hospital, Roanoke, VA"
                         }
                     ]
                 },
@@ -1102,16 +2014,34 @@
                     "chap_num": 6,
                     "chap_title": "Return to the Sanctuary, Thanksgiving, & Goodbye Alex",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/return-to-the-sanctuary-thanksgiving-goodbye-alex",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Discharge Argument & The Slammed Door (Goodbye, Alex)",
-                            "file_path": "e006/c006/p001.md"
+                            "file_path": "e006/c006/p001.md",
+                            "url": "/aubrie/fall-semester-2015/return-to-the-sanctuary-thanksgiving-goodbye-alex/part-1-the-discharge-argument-the-slammed-door-goodbye-alex",
+                            "date": "2015-11-20",
+                            "start_time": "10:30",
+                            "location": "Room 618, Star City General Hospital, Roanoke, VA & Interstate 81 South",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c006/p001/isabel-first-night-sternal-watch.jpg",
+                            "image_alt": "In the warm amber glow of a bedside Himalayan salt lamp in the Geneva Street walk-out basement sanctuary, twenty-one-year-old Isabel Dawson lies cautiously along the far right edge of the king-sized bed on her very first night ever spending the night at Geneva Street, blushing warmly as Jordan Fuller\u2014propped on wedge pillows in button-front flannel pajamas with his red plush heart pillow and a protective gray bolster pillow behind them\u2014reaches across the sheet to hold her hand.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c006/p001/isabel-first-night-sternal-watch.jpg",
+                                    "alt": "In the warm amber glow of a bedside Himalayan salt lamp in the Geneva Street walk-out basement sanctuary, twenty-one-year-old Isabel Dawson lies cautiously along the far right edge of the king-sized bed on her very first night ever spending the night at Geneva Street, blushing warmly as Jordan Fuller\u2014propped on wedge pillows in button-front flannel pajamas with his red plush heart pillow and a protective gray bolster pillow behind them\u2014reaches across the sheet to hold her hand."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Black Friday Compromise & Scenic Road Trip",
-                            "file_path": "e006/c006/p002.md"
+                            "file_path": "e006/c006/p002.md",
+                            "url": "/aubrie/fall-semester-2015/return-to-the-sanctuary-thanksgiving-goodbye-alex/part-2-the-black-friday-compromise-scenic-road-trip",
+                            "date": "2015-11-27",
+                            "start_time": "10:00",
+                            "location": "414 Geneva Street, Strickland Farm Shopping Center, CPI Campus, & U.S. Route 460, VA"
                         }
                     ]
                 },
@@ -1119,16 +2049,34 @@
                     "chap_num": 7,
                     "chap_title": "Enter Megan: A New Caregiver & A New Routine",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/enter-megan-a-new-caregiver-a-new-routine",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Caregiver Handoff (Enter Megan) & Work Buddies",
-                            "file_path": "e006/c007/p001.md"
+                            "file_path": "e006/c007/p001.md",
+                            "url": "/aubrie/fall-semester-2015/enter-megan-a-new-caregiver-a-new-routine/part-1-the-caregiver-handoff-enter-megan-work-buddies",
+                            "date": "2015-11-29",
+                            "start_time": "19:00",
+                            "location": "414 Geneva Street (Walk-Out Basement Sanctuary), Christiansburg, VA",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c007/p001/megan-jordan-work-buddies.jpg",
+                            "image_alt": "At the sunlit oak dining table in the 414 Geneva Street walk-out basement on December 1, 2015, twenty-seven-year-old Megan Brooks leans over from her dining chair to share a warm, lingering morning work-buddy hug with Jordan Fuller\u2014who sits upright in his S.S. Freedom power wheelchair holding his red plush heart pillow\u2014behind two identical cardiac-healthy breakfast plates of egg whites and whole-wheat toast with grape jelly.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c007/p001/megan-jordan-work-buddies.jpg",
+                                    "alt": "At the sunlit oak dining table in the 414 Geneva Street walk-out basement on December 1, 2015, twenty-seven-year-old Megan Brooks leans over from her dining chair to share a warm, lingering morning work-buddy hug with Jordan Fuller\u2014who sits upright in his S.S. Freedom power wheelchair holding his red plush heart pillow\u2014behind two identical cardiac-healthy breakfast plates of egg whites and whole-wheat toast with grape jelly."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Accessibility Map Proposal & The Smokin' Anvil",
-                            "file_path": "e006/c007/p002.md"
+                            "file_path": "e006/c007/p002.md",
+                            "url": "/aubrie/fall-semester-2015/enter-megan-a-new-caregiver-a-new-routine/part-2-the-accessibility-map-proposal-the-smokin-anvil",
+                            "date": "2015-12-04",
+                            "start_time": "17:45",
+                            "location": "414 Geneva Street (Walk-Out Basement Sanctuary), Christiansburg, VA"
                         }
                     ]
                 },
@@ -1136,21 +2084,43 @@
                     "chap_num": 8,
                     "chap_title": "The Comeback, The Breaking Point, & The New Safe Person",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/the-comeback-the-breaking-point-the-new-safe-person",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Morning Prep on Geneva Street & Return to Walton Hall",
-                            "file_path": "e006/c008/p001.md"
+                            "file_path": "e006/c008/p001.md",
+                            "url": "/aubrie/fall-semester-2015/the-comeback-the-breaking-point-the-new-safe-person/part-1-morning-prep-on-geneva-street-return-to-walton-hall",
+                            "date": "2015-12-09",
+                            "start_time": "08:00",
+                            "location": "414 Geneva Street (Walk-Out Basement Sanctuary), Christiansburg, VA",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c008/p001/walton-hall-comeback-presentation.jpg",
+                            "image_alt": "Inside a Walton Hall classroom at Commonwealth Polytechnic Institute in front of a projected CPI Campus Accessibility GIS Map, Jordan Fuller sits upright in his fourteen-pound brushed-titanium Shuttlecraft Galileo manual wheelchair in an Oxford shirt and navy sweater vest, hugging his red plush heart pillow with his left arm while tapping his mPad held at eye level by Hannah Parker, as teammates Zo\u00eb Wren Brooks and Mark stand proudly behind him and Isabel Dawson, Madison Scott, and Aubrie Jean Kelly applaud.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c008/p001/walton-hall-comeback-presentation.jpg",
+                                    "alt": "Inside a Walton Hall classroom at Commonwealth Polytechnic Institute in front of a projected CPI Campus Accessibility GIS Map, Jordan Fuller sits upright in his fourteen-pound brushed-titanium Shuttlecraft Galileo manual wheelchair in an Oxford shirt and navy sweater vest, hugging his red plush heart pillow with his left arm while tapping his mPad held at eye level by Hannah Parker, as teammates Zo\u00eb Wren Brooks and Mark stand proudly behind him and Isabel Dawson, Madison Scott, and Aubrie Jean Kelly applaud."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The System Crash (The Breaking Point)",
-                            "file_path": "e006/c008/p002.md"
+                            "file_path": "e006/c008/p002.md",
+                            "url": "/aubrie/fall-semester-2015/the-comeback-the-breaking-point-the-new-safe-person/part-2-the-system-crash-the-breaking-point",
+                            "date": "2015-12-09",
+                            "start_time": "10:05",
+                            "location": "Walton Hall Accessible Parking Lot, CPI, Blacksburg, VA"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The New Safe Person & The Solo Corporate Mixer",
-                            "file_path": "e006/c008/p003.md"
+                            "file_path": "e006/c008/p003.md",
+                            "url": "/aubrie/fall-semester-2015/the-comeback-the-breaking-point-the-new-safe-person/part-3-the-new-safe-person-the-solo-corporate-mixer",
+                            "date": "2015-12-09",
+                            "start_time": "11:30",
+                            "location": "414 Geneva Street (Walk-Out Basement Sanctuary), Christiansburg, VA"
                         }
                     ]
                 },
@@ -1158,16 +2128,43 @@
                     "chap_num": 9,
                     "chap_title": "The Christmas Night Invitation, The First Kiss, & Jordan Shawn Kelly",
                     "chap_url": "/raggiesoft-books/books/aubrie/fall-semester-2015/the-christmas-night-invitation-the-first-kiss-jordan-shawn-kelly",
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Christmas Night Invitation & Boxing Day Breakfast",
-                            "file_path": "e006/c009/p001.md"
+                            "file_path": "e006/c009/p001.md",
+                            "url": "/aubrie/fall-semester-2015/the-christmas-night-invitation-the-first-kiss-jordan-shawn-kelly/part-1-the-christmas-night-invitation-boxing-day-breakfast",
+                            "date": "2015-12-25",
+                            "start_time": "21:30",
+                            "location": "414 Geneva Street (Walk-Out Basement Sanctuary), Christiansburg, VA",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c009/p001/boxing-day-megan-first-kiss.jpg",
+                            "image_alt": "On Boxing Day morning in the sunlit walk-out basement sanctuary at 414 Geneva Street, twenty-seven-year-old Megan Brooks wraps her arms lovingly around Jordan Fuller's neck on the sectional sofa for their very first romantic kiss, surrounded by a cheering, zero-jealousy semicircle of Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, Isabel Dawson, and Lauren Barnes.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c009/p001/boxing-day-megan-first-kiss.jpg",
+                                    "alt": "On Boxing Day morning in the sunlit walk-out basement sanctuary at 414 Geneva Street, twenty-seven-year-old Megan Brooks wraps her arms lovingly around Jordan Fuller's neck on the sectional sofa for their very first romantic kiss, surrounded by a cheering, zero-jealousy semicircle of Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, Isabel Dawson, and Lauren Barnes."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Jordan Shawn Kelly & The Double Wedding Proposal",
-                            "file_path": "e006/c009/p002.md"
+                            "file_path": "e006/c009/p002.md",
+                            "url": "/aubrie/fall-semester-2015/the-christmas-night-invitation-the-first-kiss-jordan-shawn-kelly/part-2-jordan-shawn-kelly-the-double-wedding-proposal",
+                            "date": "2015-12-27",
+                            "start_time": "19:30",
+                            "location": "414 Geneva Street (Walk-Out Basement Sanctuary), Christiansburg, VA",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c009/p002/jordan-shawn-kelly-double-wedding.jpg",
+                            "image_alt": "In the glowing walk-out basement sanctuary at 414 Geneva Street on December 27, 2015, newly named Jordan Shawn Kelly sits on the sectional sofa flanked by his bride-to-be Aubrie Jean Kelly and Megan Brooks while Mark stands beside them with one hand on Jordan's shoulder and his other arm around Hannah Parker to celebrate their Double Wedding engagement, surrounded by cheering Madison, Zo\u00eb, Isabel, Lauren, Sarah, and Jessica and watched proudly from the stairs by Daniel and Laura Brooks.",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c009/p002/jordan-shawn-kelly-double-wedding.jpg",
+                                    "alt": "In the glowing walk-out basement sanctuary at 414 Geneva Street on December 27, 2015, newly named Jordan Shawn Kelly sits on the sectional sofa flanked by his bride-to-be Aubrie Jean Kelly and Megan Brooks while Mark stands beside them with one hand on Jordan's shoulder and his other arm around Hannah Parker to celebrate their Double Wedding engagement, surrounded by cheering Madison, Zo\u00eb, Isabel, Lauren, Sarah, and Jessica and watched proudly from the stairs by Daniel and Laura Brooks."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }

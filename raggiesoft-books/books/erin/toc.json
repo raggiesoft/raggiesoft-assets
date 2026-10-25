@@ -15,26 +15,37 @@
         "text_epub_bytes": 18515,
         "text_pdf_bytes": 57422
     },
+    "illustration_count": 0,
     "eras": [
         {
             "era_num": 1,
             "era_title": "Before the Distance: The Story of John & Erin",
             "era_url": "/raggiesoft-books/books/erin/before-the-distance-the-story-of-john-erin",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Seconds Into Thunder",
                     "chap_url": "/raggiesoft-books/books/erin/before-the-distance-the-story-of-john-erin/seconds-into-thunder",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Three-Minute Bell",
-                            "file_path": "e001/c001/p001.md"
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/erin/before-the-distance-the-story-of-john-erin/seconds-into-thunder/part-1-the-three-minute-bell",
+                            "date": "2004-09-17",
+                            "start_time": "19:00",
+                            "location": "Kincaid Hall Second-Floor Lounge, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Table Four",
-                            "file_path": "e001/c001/p002.md"
+                            "file_path": "e001/c001/p002.md",
+                            "url": "/erin/before-the-distance-the-story-of-john-erin/seconds-into-thunder/part-2-table-four",
+                            "date": "2004-09-17",
+                            "start_time": "19:20",
+                            "location": "Kincaid Hall Second-Floor Lounge, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         }
                     ]
                 },
@@ -42,16 +53,25 @@
                     "chap_num": 2,
                     "chap_title": "Before the Distance",
                     "chap_url": "/raggiesoft-books/books/erin/before-the-distance-the-story-of-john-erin/before-the-distance",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Frayed Mask",
-                            "file_path": "e001/c002/p001.md"
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/erin/before-the-distance-the-story-of-john-erin/before-the-distance/part-1-the-frayed-mask",
+                            "date": "2004-11-18",
+                            "start_time": "17:15",
+                            "location": "Commonwealth Mall (Beneath The Keystone Bridge), Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: When the Steel Doors Close",
-                            "file_path": "e001/c002/p002.md"
+                            "file_path": "e001/c002/p002.md",
+                            "url": "/erin/before-the-distance-the-story-of-john-erin/before-the-distance/part-2-when-the-steel-doors-close",
+                            "date": "2004-11-18",
+                            "start_time": "17:30",
+                            "location": "Commonwealth Mall Bus Lineup (Beneath The Keystone Bridge), Blacksburg, Virginia"
                         }
                     ]
                 },
@@ -59,11 +79,16 @@
                     "chap_num": 3,
                     "chap_title": "Sanctuary in the Storm",
                     "chap_url": "/raggiesoft-books/books/erin/before-the-distance-the-story-of-john-erin/sanctuary-in-the-storm",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Locked Perimeter",
-                            "file_path": "e001/c003/p001.md"
+                            "file_path": "e001/c003/p001.md",
+                            "url": "/erin/before-the-distance-the-story-of-john-erin/sanctuary-in-the-storm/the-locked-perimeter",
+                            "date": "2004-11-18",
+                            "start_time": "17:35",
+                            "location": "Sidewalk from Commonwealth Mall to Progress Street NE, Blacksburg, Virginia"
                         }
                     ]
                 },
@@ -71,11 +96,16 @@
                     "chap_num": 4,
                     "chap_title": "Not Her",
                     "chap_url": "/raggiesoft-books/books/erin/before-the-distance-the-story-of-john-erin/not-her",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Practiced Smile",
-                            "file_path": "e001/c004/p001.md"
+                            "file_path": "e001/c004/p001.md",
+                            "url": "/erin/before-the-distance-the-story-of-john-erin/not-her/the-practiced-smile",
+                            "date": "2005-04-08",
+                            "start_time": "21:30",
+                            "location": "Kincaid Hall East Colonnade, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
                         }
                     ]
                 }

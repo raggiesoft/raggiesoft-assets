@@ -15,21 +15,28 @@
         "text_epub_bytes": 795942,
         "text_pdf_bytes": 2373369
     },
+    "illustration_count": 3,
     "eras": [
         {
             "era_num": 1,
             "era_title": "Early Years",
             "era_url": "/raggiesoft-books/books/luna-leo/early-years",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Birthday Morning and the Grandparents' Arrival",
                     "chap_url": "/raggiesoft-books/books/luna-leo/early-years/birthday-morning-and-the-grandparents-arrival",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Birthday Morning and the Grandparents' Arrival & Birthday Cake and Sweet Memories on Ludlow Road",
-                            "file_path": "e001/c001/p001.md"
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/luna-leo/early-years/birthday-morning-and-the-grandparents-arrival/birthday-morning-and-the-grandparents-arrival-birthday-cake-and-sweet-memories-on-ludlow-road",
+                            "date": "1987-06-13",
+                            "start_time": "09:00",
+                            "location": "Ludlow Road, Middletown, RI"
                         }
                     ]
                 }
@@ -39,16 +46,22 @@
             "era_num": 2,
             "era_title": "Elementary and Middle School",
             "era_url": "/raggiesoft-books/books/luna-leo/elementary-and-middle-school",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Breakthrough for Leo",
                     "chap_url": "/raggiesoft-books/books/luna-leo/elementary-and-middle-school/breakthrough-for-leo",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Breakthrough for Leo & Student Training and Education Program",
-                            "file_path": "e002/c001/p001.md"
+                            "file_path": "e002/c001/p001.md",
+                            "url": "/luna-leo/elementary-and-middle-school/breakthrough-for-leo/breakthrough-for-leo-student-training-and-education-program",
+                            "date": "1992-09-15",
+                            "start_time": "10:00",
+                            "location": "Willow Creek Elementary, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -56,16 +69,25 @@
                     "chap_num": 2,
                     "chap_title": "Stella to the Sore Rescue",
                     "chap_url": "/raggiesoft-books/books/luna-leo/elementary-and-middle-school/stella-to-the-sore-rescue",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Stella to the Sore Rescue",
-                            "file_path": "e002/c002/p001.md"
+                            "file_path": "e002/c002/p001.md",
+                            "url": "/luna-leo/elementary-and-middle-school/stella-to-the-sore-rescue/part-1-stella-to-the-sore-rescue",
+                            "date": "1998-10-10",
+                            "start_time": "14:00",
+                            "location": "Parents' House, Virginia Beach, VA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Sunday with Stella",
-                            "file_path": "e002/c002/p002.md"
+                            "file_path": "e002/c002/p002.md",
+                            "url": "/luna-leo/elementary-and-middle-school/stella-to-the-sore-rescue/part-2-sunday-with-stella",
+                            "date": "1998-10-11",
+                            "start_time": "09:00",
+                            "location": "Stella's Apartment, Virginia Beach, VA"
                         }
                     ]
                 }
@@ -75,16 +97,22 @@
             "era_num": 3,
             "era_title": "The Equipment Arrivals",
             "era_url": "/raggiesoft-books/books/luna-leo/the-equipment-arrivals",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Introduction and Anticipation",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-equipment-arrivals/introduction-and-anticipation",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Introduction and Anticipation & A New Soundtrack and Leo's Poem",
-                            "file_path": "e003/c001/p001.md"
+                            "file_path": "e003/c001/p001.md",
+                            "url": "/luna-leo/the-equipment-arrivals/introduction-and-anticipation/introduction-and-anticipation-a-new-soundtrack-and-leo-s-poem",
+                            "date": "1999-12-01",
+                            "start_time": "09:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 }
@@ -94,16 +122,22 @@
             "era_num": 4,
             "era_title": "Twins Summer with Stella",
             "era_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The DeMarco Decree",
                     "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/the-demarco-decree",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The DeMarco Decree & Cafeteria Justice, Multilingual Edition",
-                            "file_path": "e004/c001/p001.md"
+                            "file_path": "e004/c001/p001.md",
+                            "url": "/luna-leo/twins-summer-with-stella/the-demarco-decree/the-demarco-decree-cafeteria-justice-multilingual-edition",
+                            "date": "1999-09-07",
+                            "start_time": "11:30",
+                            "location": "Northwood High School, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -111,11 +145,16 @@
                     "chap_num": 2,
                     "chap_title": "The Record Player Discovery",
                     "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/the-record-player-discovery",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Record Player Discovery",
-                            "file_path": "e004/c002/p001.md"
+                            "file_path": "e004/c002/p001.md",
+                            "url": "/luna-leo/twins-summer-with-stella/the-record-player-discovery/the-record-player-discovery",
+                            "date": "1999-09-25",
+                            "start_time": "15:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -123,11 +162,16 @@
                     "chap_num": 3,
                     "chap_title": "The Music Store",
                     "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/the-music-store",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Music Store",
-                            "file_path": "e004/c003/p001.md"
+                            "file_path": "e004/c003/p001.md",
+                            "url": "/luna-leo/twins-summer-with-stella/the-music-store/the-music-store",
+                            "date": "1999-09-27",
+                            "start_time": "15:00",
+                            "location": "Music Store, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -135,11 +179,16 @@
                     "chap_num": 4,
                     "chap_title": "The Doorbell Rings",
                     "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/the-doorbell-rings",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Doorbell Rings",
-                            "file_path": "e004/c004/p001.md"
+                            "file_path": "e004/c004/p001.md",
+                            "url": "/luna-leo/twins-summer-with-stella/the-doorbell-rings/the-doorbell-rings",
+                            "date": "1999-09-29",
+                            "start_time": "15:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -147,11 +196,16 @@
                     "chap_num": 5,
                     "chap_title": "Legal Issues Settled",
                     "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/legal-issues-settled",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Legal Issues Settled",
-                            "file_path": "e004/c005/p001.md"
+                            "file_path": "e004/c005/p001.md",
+                            "url": "/luna-leo/twins-summer-with-stella/legal-issues-settled/legal-issues-settled",
+                            "date": "1999-10-01",
+                            "start_time": "15:00",
+                            "location": "Virginia Beach, VA"
                         }
                     ]
                 },
@@ -159,11 +213,16 @@
                     "chap_num": 6,
                     "chap_title": "Programming the AAC",
                     "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/programming-the-aac",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Programming the AAC",
-                            "file_path": "e004/c006/p001.md"
+                            "file_path": "e004/c006/p001.md",
+                            "url": "/luna-leo/twins-summer-with-stella/programming-the-aac/programming-the-aac",
+                            "date": "1999-10-03",
+                            "start_time": "15:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -171,11 +230,16 @@
                     "chap_num": 7,
                     "chap_title": "Weight of Academic Neglect",
                     "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/weight-of-academic-neglect",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Weight of Academic Neglect",
-                            "file_path": "e004/c007/p001.md"
+                            "file_path": "e004/c007/p001.md",
+                            "url": "/luna-leo/twins-summer-with-stella/weight-of-academic-neglect/weight-of-academic-neglect",
+                            "date": "1999-10-05",
+                            "start_time": "15:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -183,11 +247,16 @@
                     "chap_num": 8,
                     "chap_title": "Opus Computers Setup",
                     "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/opus-computers-setup",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Opus Computers Setup",
-                            "file_path": "e004/c008/p001.md"
+                            "file_path": "e004/c008/p001.md",
+                            "url": "/luna-leo/twins-summer-with-stella/opus-computers-setup/opus-computers-setup",
+                            "date": "1999-10-07",
+                            "start_time": "15:00",
+                            "location": "Virginia Beach, VA"
                         }
                     ]
                 },
@@ -195,11 +264,16 @@
                     "chap_num": 9,
                     "chap_title": "Rainy Tuesday Evening",
                     "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/rainy-tuesday-evening",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Rainy Tuesday Evening",
-                            "file_path": "e004/c009/p001.md"
+                            "file_path": "e004/c009/p001.md",
+                            "url": "/luna-leo/twins-summer-with-stella/rainy-tuesday-evening/rainy-tuesday-evening",
+                            "date": "1999-10-09",
+                            "start_time": "15:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -207,11 +281,16 @@
                     "chap_num": 10,
                     "chap_title": "COMPUBLUE KeyMech",
                     "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/compublue-keymech",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "COMPUBLUE KeyMech",
-                            "file_path": "e004/c010/p001.md"
+                            "file_path": "e004/c010/p001.md",
+                            "url": "/luna-leo/twins-summer-with-stella/compublue-keymech/compublue-keymech",
+                            "date": "1999-10-11",
+                            "start_time": "15:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -219,11 +298,16 @@
                     "chap_num": 11,
                     "chap_title": "Oregon Trail Preparation",
                     "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/oregon-trail-preparation",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Oregon Trail Preparation",
-                            "file_path": "e004/c011/p001.md"
+                            "file_path": "e004/c011/p001.md",
+                            "url": "/luna-leo/twins-summer-with-stella/oregon-trail-preparation/oregon-trail-preparation",
+                            "date": "1999-10-13",
+                            "start_time": "15:00",
+                            "location": "Virginia Beach, VA"
                         }
                     ]
                 },
@@ -231,11 +315,16 @@
                     "chap_num": 12,
                     "chap_title": "Saturday Morning Research",
                     "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/saturday-morning-research",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Saturday Morning Research",
-                            "file_path": "e004/c012/p001.md"
+                            "file_path": "e004/c012/p001.md",
+                            "url": "/luna-leo/twins-summer-with-stella/saturday-morning-research/saturday-morning-research",
+                            "date": "1999-10-15",
+                            "start_time": "15:00",
+                            "location": "Virginia Beach, VA"
                         }
                     ]
                 },
@@ -243,11 +332,16 @@
                     "chap_num": 13,
                     "chap_title": "Printing the Reports",
                     "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/printing-the-reports",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Printing the Reports",
-                            "file_path": "e004/c013/p001.md"
+                            "file_path": "e004/c013/p001.md",
+                            "url": "/luna-leo/twins-summer-with-stella/printing-the-reports/printing-the-reports",
+                            "date": "1999-10-17",
+                            "start_time": "15:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -255,11 +349,16 @@
                     "chap_num": 14,
                     "chap_title": "Therapy Appointment Drive",
                     "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/therapy-appointment-drive",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Therapy Appointment Drive",
-                            "file_path": "e004/c014/p001.md"
+                            "file_path": "e004/c014/p001.md",
+                            "url": "/luna-leo/twins-summer-with-stella/therapy-appointment-drive/therapy-appointment-drive",
+                            "date": "1999-10-19",
+                            "start_time": "15:00",
+                            "location": "Virginia Beach, VA"
                         }
                     ]
                 },
@@ -267,11 +366,16 @@
                     "chap_num": 15,
                     "chap_title": "Classic Rock Discoveries",
                     "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/classic-rock-discoveries",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Classic Rock Discoveries",
-                            "file_path": "e004/c015/p001.md"
+                            "file_path": "e004/c015/p001.md",
+                            "url": "/luna-leo/twins-summer-with-stella/classic-rock-discoveries/classic-rock-discoveries",
+                            "date": "1999-10-21",
+                            "start_time": "15:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -279,11 +383,16 @@
                     "chap_num": 16,
                     "chap_title": "Wherever You Go",
                     "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/wherever-you-go",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Wherever You Go",
-                            "file_path": "e004/c016/p001.md"
+                            "file_path": "e004/c016/p001.md",
+                            "url": "/luna-leo/twins-summer-with-stella/wherever-you-go/wherever-you-go",
+                            "date": "1999-10-23",
+                            "start_time": "15:00",
+                            "location": "Virginia Beach, VA"
                         }
                     ]
                 },
@@ -291,11 +400,16 @@
                     "chap_num": 17,
                     "chap_title": "Friday Night Lights",
                     "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/friday-night-lights",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Friday Night Lights",
-                            "file_path": "e004/c017/p001.md"
+                            "file_path": "e004/c017/p001.md",
+                            "url": "/luna-leo/twins-summer-with-stella/friday-night-lights/friday-night-lights",
+                            "date": "1999-10-25",
+                            "start_time": "15:00",
+                            "location": "Northwood High School, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -303,11 +417,16 @@
                     "chap_num": 18,
                     "chap_title": "Charter Bus to the Mountains",
                     "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/charter-bus-to-the-mountains",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Charter Bus to the Mountains & Showtime Preparation",
-                            "file_path": "e004/c018/p001.md"
+                            "file_path": "e004/c018/p001.md",
+                            "url": "/luna-leo/twins-summer-with-stella/charter-bus-to-the-mountains/charter-bus-to-the-mountains-showtime-preparation",
+                            "date": "1999-11-13",
+                            "start_time": "06:00",
+                            "location": "Northwood High School, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -315,21 +434,34 @@
                     "chap_num": 19,
                     "chap_title": "A Form from School",
                     "chap_url": "/raggiesoft-books/books/luna-leo/twins-summer-with-stella/a-form-from-school",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Form from School & The Talk",
-                            "file_path": "e004/c019/p001.md"
+                            "file_path": "e004/c019/p001.md",
+                            "url": "/luna-leo/twins-summer-with-stella/a-form-from-school/part-1-a-form-from-school-the-talk",
+                            "date": "2000-04-15",
+                            "start_time": "15:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Mary is Snubbed",
-                            "file_path": "e004/c019/p002.md"
+                            "file_path": "e004/c019/p002.md",
+                            "url": "/luna-leo/twins-summer-with-stella/a-form-from-school/part-2-mary-is-snubbed",
+                            "date": "2000-04-15",
+                            "start_time": "17:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Kevin is Snubbed",
-                            "file_path": "e004/c019/p003.md"
+                            "file_path": "e004/c019/p003.md",
+                            "url": "/luna-leo/twins-summer-with-stella/a-form-from-school/part-3-kevin-is-snubbed",
+                            "date": "2000-04-15",
+                            "start_time": "18:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 }
@@ -339,26 +471,40 @@
             "era_num": 5,
             "era_title": "Sophomore Year",
             "era_url": "/raggiesoft-books/books/luna-leo/sophomore-year",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Porter Morning Machine",
                     "chap_url": "/raggiesoft-books/books/luna-leo/sophomore-year/the-porter-morning-machine",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Porter Morning Machine & The Unwritten Rules",
-                            "file_path": "e005/c001/p001.md"
+                            "file_path": "e005/c001/p001.md",
+                            "url": "/luna-leo/sophomore-year/the-porter-morning-machine/part-1-the-porter-morning-machine-the-unwritten-rules",
+                            "date": "2000-09-05",
+                            "start_time": "07:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Parallel Lines & The Sanctuary of the Stacks",
-                            "file_path": "e005/c001/p002.md"
+                            "file_path": "e005/c001/p002.md",
+                            "url": "/luna-leo/sophomore-year/the-porter-morning-machine/part-2-parallel-lines-the-sanctuary-of-the-stacks",
+                            "date": "2000-09-05",
+                            "start_time": "06:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Getaway Driver",
-                            "file_path": "e005/c001/p003.md"
+                            "file_path": "e005/c001/p003.md",
+                            "url": "/luna-leo/sophomore-year/the-porter-morning-machine/part-3-the-getaway-driver",
+                            "date": "2000-09-05",
+                            "start_time": "13:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -366,11 +512,16 @@
                     "chap_num": 2,
                     "chap_title": "Online Reconnaissance",
                     "chap_url": "/raggiesoft-books/books/luna-leo/sophomore-year/online-reconnaissance",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Online Reconnaissance & Built Holt Tough",
-                            "file_path": "e005/c002/p001.md"
+                            "file_path": "e005/c002/p001.md",
+                            "url": "/luna-leo/sophomore-year/online-reconnaissance/online-reconnaissance-built-holt-tough",
+                            "date": "2000-10-14",
+                            "start_time": "10:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -378,11 +529,16 @@
                     "chap_num": 3,
                     "chap_title": "Showing Off the New Car",
                     "chap_url": "/raggiesoft-books/books/luna-leo/sophomore-year/showing-off-the-new-car",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Showing Off the New Car & Range of Motion",
-                            "file_path": "e005/c003/p001.md"
+                            "file_path": "e005/c003/p001.md",
+                            "url": "/luna-leo/sophomore-year/showing-off-the-new-car/showing-off-the-new-car-range-of-motion",
+                            "date": "2000-10-14",
+                            "start_time": "15:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -390,11 +546,16 @@
                     "chap_num": 4,
                     "chap_title": "Difficult News",
                     "chap_url": "/raggiesoft-books/books/luna-leo/sophomore-year/difficult-news",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Difficult News & The Final Phone Call",
-                            "file_path": "e005/c004/p001.md"
+                            "file_path": "e005/c004/p001.md",
+                            "url": "/luna-leo/sophomore-year/difficult-news/difficult-news-the-final-phone-call",
+                            "date": "2000-10-20",
+                            "start_time": "16:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -402,16 +563,23 @@
                     "chap_num": 5,
                     "chap_title": "Turnpike Wonders",
                     "chap_url": "/raggiesoft-books/books/luna-leo/sophomore-year/turnpike-wonders",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Turnpike Wonders & A Colossal Good Distraction",
-                            "file_path": "e005/c005/p001.md"
+                            "file_path": "e005/c005/p001.md",
+                            "url": "/luna-leo/sophomore-year/turnpike-wonders/part-1-turnpike-wonders-a-colossal-good-distraction",
+                            "date": "2001-04-09",
+                            "start_time": "12:00",
+                            "location": "New Jersey Turnpike, NJ"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Jingle and the Mansions",
-                            "file_path": "e005/c005/p002.md"
+                            "file_path": "e005/c005/p002.md",
+                            "url": "/luna-leo/sophomore-year/turnpike-wonders/part-2-the-jingle-and-the-mansions",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -419,11 +587,16 @@
                     "chap_num": 6,
                     "chap_title": "Programming the AAC",
                     "chap_url": "/raggiesoft-books/books/luna-leo/sophomore-year/programming-the-aac",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Coastal Wonders Marine Center & The Jingle and the Mansions",
-                            "file_path": "e005/c006/p001.md"
+                            "file_path": "e005/c006/p001.md",
+                            "url": "/luna-leo/sophomore-year/programming-the-aac/coastal-wonders-marine-center-the-jingle-and-the-mansions",
+                            "date": "2001-04-10",
+                            "start_time": "10:00",
+                            "location": "Coastal Wonders Marine Center, Mystic, CT"
                         }
                     ]
                 }
@@ -433,26 +606,40 @@
             "era_num": 6,
             "era_title": "Junior Year",
             "era_url": "/raggiesoft-books/books/luna-leo/junior-year",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Rainy Saturday Session",
                     "chap_url": "/raggiesoft-books/books/luna-leo/junior-year/a-rainy-saturday-session",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Rainy Saturday Session",
-                            "file_path": "e006/c001/p001.md"
+                            "file_path": "e006/c001/p001.md",
+                            "url": "/luna-leo/junior-year/a-rainy-saturday-session/part-1-a-rainy-saturday-session",
+                            "date": "2001-11-10",
+                            "start_time": "14:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The True Light",
-                            "file_path": "e006/c001/p002.md"
+                            "file_path": "e006/c001/p002.md",
+                            "url": "/luna-leo/junior-year/a-rainy-saturday-session/part-2-the-true-light",
+                            "date": "2001-11-10",
+                            "start_time": "15:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Signal",
-                            "file_path": "e006/c001/p003.md"
+                            "file_path": "e006/c001/p003.md",
+                            "url": "/luna-leo/junior-year/a-rainy-saturday-session/part-3-the-signal",
+                            "date": "2001-11-10",
+                            "start_time": "16:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -460,11 +647,16 @@
                     "chap_num": 2,
                     "chap_title": "The Rental Agreement",
                     "chap_url": "/raggiesoft-books/books/luna-leo/junior-year/the-rental-agreement",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Rental Agreement & The Sterling Standard",
-                            "file_path": "e006/c002/p001.md"
+                            "file_path": "e006/c002/p001.md",
+                            "url": "/luna-leo/junior-year/the-rental-agreement/the-rental-agreement-the-sterling-standard",
+                            "date": "2001-09-12",
+                            "start_time": "16:00",
+                            "location": "Northwood High School, Virginia Beach, VA"
                         }
                     ]
                 }
@@ -474,21 +666,40 @@
             "era_num": 7,
             "era_title": "Senior Year and The New Beginning",
             "era_url": "/raggiesoft-books/books/luna-leo/senior-year-and-the-new-beginning",
+            "illustration_count": 2,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "An Unseen Ally",
                     "chap_url": "/raggiesoft-books/books/luna-leo/senior-year-and-the-new-beginning/an-unseen-ally",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: An Unseen Ally & A Grateful Introduction",
-                            "file_path": "e007/c001/p001.md"
+                            "file_path": "e007/c001/p001.md",
+                            "url": "/luna-leo/senior-year-and-the-new-beginning/an-unseen-ally/part-1-an-unseen-ally-a-grateful-introduction",
+                            "date": "2002-09-15",
+                            "start_time": "11:00",
+                            "location": "Northwood High School, Virginia Beach, VA",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/luna-leo/b007/olivia-leo-northwood-high-entrance.jpg#fullwidth",
+                            "image_alt": "Olivia meeting Leo at the entrance of Northwood High School",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/luna-leo/b007/olivia-leo-northwood-high-entrance.jpg#fullwidth",
+                                    "alt": "Olivia meeting Leo at the entrance of Northwood High School"
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Cafeteria Connection, Contact Exchange, and a Vile Misinterpretation",
-                            "file_path": "e007/c001/p002.md"
+                            "file_path": "e007/c001/p002.md",
+                            "url": "/luna-leo/senior-year-and-the-new-beginning/an-unseen-ally/part-2-cafeteria-connection-contact-exchange-and-a-vile-misinterpretation",
+                            "date": "2002-09-15",
+                            "start_time": "10:00",
+                            "location": "Northwood High School, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -496,21 +707,34 @@
                     "chap_num": 2,
                     "chap_title": "An Afternoon Visit and Gathering Clouds",
                     "chap_url": "/raggiesoft-books/books/luna-leo/senior-year-and-the-new-beginning/an-afternoon-visit-and-gathering-clouds",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: An Afternoon Visit and Gathering Clouds & Morning Calm and Sisterly Smiles",
-                            "file_path": "e007/c002/p001.md"
+                            "file_path": "e007/c002/p001.md",
+                            "url": "/luna-leo/senior-year-and-the-new-beginning/an-afternoon-visit-and-gathering-clouds/part-1-an-afternoon-visit-and-gathering-clouds-morning-calm-and-sisterly-smiles",
+                            "date": "2002-09-18",
+                            "start_time": "16:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Saturday Respite and a Planned Weekend Stay & A Sunday Well Spent",
-                            "file_path": "e007/c002/p002.md"
+                            "file_path": "e007/c002/p002.md",
+                            "url": "/luna-leo/senior-year-and-the-new-beginning/an-afternoon-visit-and-gathering-clouds/part-2-saturday-respite-and-a-planned-weekend-stay-a-sunday-well-spent",
+                            "date": "2002-09-18",
+                            "start_time": "17:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: A Guardian\u2019s Trust",
-                            "file_path": "e007/c002/p003.md"
+                            "file_path": "e007/c002/p003.md",
+                            "url": "/luna-leo/senior-year-and-the-new-beginning/an-afternoon-visit-and-gathering-clouds/part-3-a-guardian-s-trust",
+                            "date": "2002-09-18",
+                            "start_time": "22:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -518,11 +742,16 @@
                     "chap_num": 3,
                     "chap_title": "A Test of Trust",
                     "chap_url": "/raggiesoft-books/books/luna-leo/senior-year-and-the-new-beginning/a-test-of-trust",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A Test of Trust",
-                            "file_path": "e007/c003/p001.md"
+                            "file_path": "e007/c003/p001.md",
+                            "url": "/luna-leo/senior-year-and-the-new-beginning/a-test-of-trust/a-test-of-trust",
+                            "date": "2002-09-19",
+                            "start_time": "16:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -530,11 +759,16 @@
                     "chap_num": 4,
                     "chap_title": "The Guardian's Blessing",
                     "chap_url": "/raggiesoft-books/books/luna-leo/senior-year-and-the-new-beginning/the-guardian-s-blessing",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Guardian's Blessing",
-                            "file_path": "e007/c004/p001.md"
+                            "file_path": "e007/c004/p001.md",
+                            "url": "/luna-leo/senior-year-and-the-new-beginning/the-guardian-s-blessing/the-guardian-s-blessing",
+                            "date": "2002-09-20",
+                            "start_time": "15:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -542,16 +776,25 @@
                     "chap_num": 5,
                     "chap_title": "A Quiet Evening Promised",
                     "chap_url": "/raggiesoft-books/books/luna-leo/senior-year-and-the-new-beginning/a-quiet-evening-promised",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Calculus Tutoring & An Unwanted Attempt",
-                            "file_path": "e007/c005/p001.md"
+                            "file_path": "e007/c005/p001.md",
+                            "url": "/luna-leo/senior-year-and-the-new-beginning/a-quiet-evening-promised/part-1-calculus-tutoring-an-unwanted-attempt",
+                            "date": "2002-09-28",
+                            "start_time": "12:00",
+                            "location": "Northwood High School, Virginia Beach, VA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Band Room Practice & Saturday Matinee and a Souring Mood",
-                            "file_path": "e007/c005/p002.md"
+                            "file_path": "e007/c005/p002.md",
+                            "url": "/luna-leo/senior-year-and-the-new-beginning/a-quiet-evening-promised/part-2-band-room-practice-saturday-matinee-and-a-souring-mood",
+                            "date": "2002-09-28",
+                            "start_time": "15:00",
+                            "location": "Northwood High School, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -559,16 +802,34 @@
                     "chap_num": 6,
                     "chap_title": "Calculus Tutoring",
                     "chap_url": "/raggiesoft-books/books/luna-leo/senior-year-and-the-new-beginning/calculus-tutoring",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Quiet Evening Promised & The Call for Rescue",
-                            "file_path": "e007/c006/p001.md"
+                            "file_path": "e007/c006/p001.md",
+                            "url": "/luna-leo/senior-year-and-the-new-beginning/calculus-tutoring/part-1-a-quiet-evening-promised-the-call-for-rescue",
+                            "date": "2002-12-31",
+                            "start_time": "19:00",
+                            "location": "Richard and Elizabeth's House, Virginia Beach, VA",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/luna-leo/b007/olivia-leo-bed-together.jpg#fullwidth",
+                            "image_alt": "Olivia and Leo resting comfortably in his bed, watching a movie together",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/luna-leo/b007/olivia-leo-bed-together.jpg#fullwidth",
+                                    "alt": "Olivia and Leo resting comfortably in his bed, watching a movie together"
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Extraction and Stella's Quiet Wrath & A Quiet Countdown, A Noisy Neighborhood",
-                            "file_path": "e007/c006/p002.md"
+                            "file_path": "e007/c006/p002.md",
+                            "url": "/luna-leo/senior-year-and-the-new-beginning/calculus-tutoring/part-2-extraction-and-stella-s-quiet-wrath-a-quiet-countdown-a-noisy-neighborhood",
+                            "date": "2002-12-31",
+                            "start_time": "22:00",
+                            "location": "Richard and Elizabeth's House, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -576,11 +837,16 @@
                     "chap_num": 7,
                     "chap_title": "Chapter 7: A New Ally",
                     "chap_url": "/raggiesoft-books/books/luna-leo/senior-year-and-the-new-beginning/chapter-7-a-new-ally",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Happy New Year",
-                            "file_path": "e007/c007/p001.md"
+                            "file_path": "e007/c007/p001.md",
+                            "url": "/luna-leo/senior-year-and-the-new-beginning/chapter-7-a-new-ally/happy-new-year",
+                            "date": "2003-01-01",
+                            "start_time": "00:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 }
@@ -590,21 +856,31 @@
             "era_num": 8,
             "era_title": "Eastbound",
             "era_url": "/raggiesoft-books/books/luna-leo/eastbound",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "All Aboard",
                     "chap_url": "/raggiesoft-books/books/luna-leo/eastbound/all-aboard",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: All Aboard & A Necessary Interlude",
-                            "file_path": "e008/c001/p001.md"
+                            "file_path": "e008/c001/p001.md",
+                            "url": "/luna-leo/eastbound/all-aboard/part-1-all-aboard-a-necessary-interlude",
+                            "date": "2003-06-18",
+                            "start_time": "08:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: An Evening on the Town & A Fortress Assembles for the Night",
-                            "file_path": "e008/c001/p002.md"
+                            "file_path": "e008/c001/p002.md",
+                            "url": "/luna-leo/eastbound/all-aboard/part-2-an-evening-on-the-town-a-fortress-assembles-for-the-night",
+                            "date": "2003-06-19",
+                            "start_time": "18:00",
+                            "location": "Washington, D.C."
                         }
                     ]
                 },
@@ -612,16 +888,25 @@
                     "chap_num": 2,
                     "chap_title": "Museum Hopping",
                     "chap_url": "/raggiesoft-books/books/luna-leo/eastbound/museum-hopping",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: An Afternoon Among the Animals & A Fortress Assembles for the Night",
-                            "file_path": "e008/c002/p001.md"
+                            "file_path": "e008/c002/p001.md",
+                            "url": "/luna-leo/eastbound/museum-hopping/part-1-an-afternoon-among-the-animals-a-fortress-assembles-for-the-night",
+                            "date": "2003-06-19",
+                            "start_time": "09:00",
+                            "location": "Washington, D.C."
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Taste of Stanstead & The Fortress, Reassembled",
-                            "file_path": "e008/c002/p002.md"
+                            "file_path": "e008/c002/p002.md",
+                            "url": "/luna-leo/eastbound/museum-hopping/part-2-a-taste-of-stanstead-the-fortress-reassembled",
+                            "date": "2003-06-19",
+                            "start_time": "18:00",
+                            "location": "Washington, D.C."
                         }
                     ]
                 },
@@ -629,16 +914,25 @@
                     "chap_num": 3,
                     "chap_title": "The Practice Mission",
                     "chap_url": "/raggiesoft-books/books/luna-leo/eastbound/the-practice-mission",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Museum Hopping & A Walk Through Time",
-                            "file_path": "e008/c003/p001.md"
+                            "file_path": "e008/c003/p001.md",
+                            "url": "/luna-leo/eastbound/the-practice-mission/part-1-museum-hopping-a-walk-through-time",
+                            "date": "2003-06-20",
+                            "start_time": "09:00",
+                            "location": "Washington, D.C."
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Taste of Stanstead & The Fortress, Reassembled",
-                            "file_path": "e008/c003/p002.md"
+                            "file_path": "e008/c003/p002.md",
+                            "url": "/luna-leo/eastbound/the-practice-mission/part-2-a-taste-of-stanstead-the-fortress-reassembled",
+                            "date": "2003-06-20",
+                            "start_time": "18:00",
+                            "location": "Washington, D.C."
                         }
                     ]
                 },
@@ -646,11 +940,16 @@
                     "chap_num": 4,
                     "chap_title": "A Layover in Philly",
                     "chap_url": "/raggiesoft-books/books/luna-leo/eastbound/a-layover-in-philly",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Practice Mission & A Sanctuary of Calm",
-                            "file_path": "e008/c004/p001.md"
+                            "file_path": "e008/c004/p001.md",
+                            "url": "/luna-leo/eastbound/a-layover-in-philly/the-practice-mission-a-sanctuary-of-calm",
+                            "date": "2003-06-21",
+                            "start_time": "09:00",
+                            "location": "Washington, D.C."
                         }
                     ]
                 },
@@ -658,11 +957,16 @@
                     "chap_num": 5,
                     "chap_title": "The Journey West",
                     "chap_url": "/raggiesoft-books/books/luna-leo/eastbound/the-journey-west",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Journey Continues & A Day in the Steel City",
-                            "file_path": "e008/c005/p001.md"
+                            "file_path": "e008/c005/p001.md",
+                            "url": "/luna-leo/eastbound/the-journey-west/the-journey-continues-a-day-in-the-steel-city",
+                            "date": "2003-06-22",
+                            "start_time": "07:00",
+                            "location": "Washington, D.C."
                         }
                     ]
                 },
@@ -670,11 +974,16 @@
                     "chap_num": 6,
                     "chap_title": "The Shadow on the Platform",
                     "chap_url": "/raggiesoft-books/books/luna-leo/eastbound/the-shadow-on-the-platform",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A Desperate Search & A Day in the Steel City",
-                            "file_path": "e008/c006/p001.md"
+                            "file_path": "e008/c006/p001.md",
+                            "url": "/luna-leo/eastbound/the-shadow-on-the-platform/a-desperate-search-a-day-in-the-steel-city",
+                            "date": "2003-06-23",
+                            "start_time": "08:00",
+                            "location": "Pittsburgh, PA"
                         }
                     ]
                 },
@@ -682,11 +991,16 @@
                     "chap_num": 7,
                     "chap_title": "The Steel City",
                     "chap_url": "/raggiesoft-books/books/luna-leo/eastbound/the-steel-city",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Colors of the Steel City & A Sanctuary in the Steel City",
-                            "file_path": "e008/c007/p001.md"
+                            "file_path": "e008/c007/p001.md",
+                            "url": "/luna-leo/eastbound/the-steel-city/the-colors-of-the-steel-city-a-sanctuary-in-the-steel-city",
+                            "date": "2003-06-24",
+                            "start_time": "09:00",
+                            "location": "Pittsburgh, PA"
                         }
                     ]
                 }
@@ -696,21 +1010,31 @@
             "era_num": 9,
             "era_title": "Heartland to the Peaks",
             "era_url": "/raggiesoft-books/books/luna-leo/heartland-to-the-peaks",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 8,
                     "chap_title": "The Windy City",
                     "chap_url": "/raggiesoft-books/books/luna-leo/heartland-to-the-peaks/the-windy-city",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Good Morning, Chicago & Deep Dish",
-                            "file_path": "e009/c008/p001.md"
+                            "file_path": "e009/c008/p001.md",
+                            "url": "/luna-leo/heartland-to-the-peaks/the-windy-city/part-1-good-morning-chicago-deep-dish",
+                            "date": "2003-06-25",
+                            "start_time": "08:45",
+                            "location": "Chicago Union Station, IL"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Cheese Toll & Recovery",
-                            "file_path": "e009/c008/p002.md"
+                            "file_path": "e009/c008/p002.md",
+                            "url": "/luna-leo/heartland-to-the-peaks/the-windy-city/part-2-the-cheese-toll-recovery",
+                            "date": "2003-06-25",
+                            "start_time": "16:45",
+                            "location": "Chicago, IL"
                         }
                     ]
                 },
@@ -718,11 +1042,16 @@
                     "chap_num": 9,
                     "chap_title": "The Heartland",
                     "chap_url": "/raggiesoft-books/books/luna-leo/heartland-to-the-peaks/the-heartland",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The BRAT Diet & Crossing the Plains",
-                            "file_path": "e009/c009/p001.md"
+                            "file_path": "e009/c009/p001.md",
+                            "url": "/luna-leo/heartland-to-the-peaks/the-heartland/the-brat-diet-crossing-the-plains",
+                            "date": "2003-06-26",
+                            "start_time": "08:30",
+                            "location": "Chicago, IL"
                         }
                     ]
                 },
@@ -730,11 +1059,16 @@
                     "chap_num": 10,
                     "chap_title": "The Mile High City",
                     "chap_url": "/raggiesoft-books/books/luna-leo/heartland-to-the-peaks/the-mile-high-city",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Mile High City & Bison and Oysters",
-                            "file_path": "e009/c010/p001.md"
+                            "file_path": "e009/c010/p001.md",
+                            "url": "/luna-leo/heartland-to-the-peaks/the-mile-high-city/the-mile-high-city-bison-and-oysters",
+                            "date": "2003-06-27",
+                            "start_time": "06:30",
+                            "location": "Denver, CO"
                         }
                     ]
                 },
@@ -742,11 +1076,16 @@
                     "chap_num": 11,
                     "chap_title": "The Botanic Gardens",
                     "chap_url": "/raggiesoft-books/books/luna-leo/heartland-to-the-peaks/the-botanic-gardens",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Centennial Botanic Gardens & One More Night",
-                            "file_path": "e009/c011/p001.md"
+                            "file_path": "e009/c011/p001.md",
+                            "url": "/luna-leo/heartland-to-the-peaks/the-botanic-gardens/the-centennial-botanic-gardens-one-more-night",
+                            "date": "2003-06-28",
+                            "start_time": "10:00",
+                            "location": "Denver, CO"
                         }
                     ]
                 },
@@ -754,16 +1093,25 @@
                     "chap_num": 12,
                     "chap_title": "The Moffat Tunnel",
                     "chap_url": "/raggiesoft-books/books/luna-leo/heartland-to-the-peaks/the-moffat-tunnel",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Night Terrors & The Observation Deck",
-                            "file_path": "e009/c012/p001.md"
+                            "file_path": "e009/c012/p001.md",
+                            "url": "/luna-leo/heartland-to-the-peaks/the-moffat-tunnel/part-1-night-terrors-the-observation-deck",
+                            "date": "2003-06-29",
+                            "start_time": "02:00",
+                            "location": "Denver, CO"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Dining Car Service & The Utah Border",
-                            "file_path": "e009/c012/p002.md"
+                            "file_path": "e009/c012/p002.md",
+                            "url": "/luna-leo/heartland-to-the-peaks/the-moffat-tunnel/part-2-dining-car-service-the-utah-border",
+                            "date": "2003-06-29",
+                            "start_time": "12:50",
+                            "location": "Gore Canyon, CO"
                         }
                     ]
                 },
@@ -771,11 +1119,16 @@
                     "chap_num": 13,
                     "chap_title": "The Salt Lake Stop",
                     "chap_url": "/raggiesoft-books/books/luna-leo/heartland-to-the-peaks/the-salt-lake-stop",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Salt Lake Stop & The Sovereign Regency San Francisco",
-                            "file_path": "e009/c013/p001.md"
+                            "file_path": "e009/c013/p001.md",
+                            "url": "/luna-leo/heartland-to-the-peaks/the-salt-lake-stop/the-salt-lake-stop-the-sovereign-regency-san-francisco",
+                            "date": "2003-06-30",
+                            "start_time": "00:30",
+                            "location": "Salt Lake City, UT"
                         }
                     ]
                 }
@@ -785,21 +1138,31 @@
             "era_num": 10,
             "era_title": "The Golden State",
             "era_url": "/raggiesoft-books/books/luna-leo/the-golden-state",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 14,
                     "chap_title": "The City by the Bay",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-golden-state/the-city-by-the-bay",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Historic F-Line & The Transbay Tube",
-                            "file_path": "e010/c014/p001.md"
+                            "file_path": "e010/c014/p001.md",
+                            "url": "/luna-leo/the-golden-state/the-city-by-the-bay/part-1-the-historic-f-line-the-transbay-tube",
+                            "date": "2003-07-01",
+                            "start_time": "09:00",
+                            "location": "San Francisco, CA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: East Bay Diner & The Bridge at Night",
-                            "file_path": "e010/c014/p002.md"
+                            "file_path": "e010/c014/p002.md",
+                            "url": "/luna-leo/the-golden-state/the-city-by-the-bay/part-2-east-bay-diner-the-bridge-at-night",
+                            "date": "2003-07-01",
+                            "start_time": "17:30",
+                            "location": "Oakland, CA"
                         }
                     ]
                 },
@@ -807,16 +1170,25 @@
                     "chap_num": 15,
                     "chap_title": "The Sovereign Regency",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-golden-state/the-sovereign-regency",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Atrium & The Fourth of July Realization",
-                            "file_path": "e010/c015/p001.md"
+                            "file_path": "e010/c015/p001.md",
+                            "url": "/luna-leo/the-golden-state/the-sovereign-regency/part-1-the-atrium-the-fourth-of-july-realization",
+                            "date": "2003-07-02",
+                            "start_time": "09:00",
+                            "location": "The Sovereign Regency, San Francisco, CA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Team Transfer",
-                            "file_path": "e010/c015/p002.md"
+                            "file_path": "e010/c015/p002.md",
+                            "url": "/luna-leo/the-golden-state/the-sovereign-regency/part-2-the-team-transfer",
+                            "date": "2003-07-02",
+                            "start_time": "20:30",
+                            "location": "The Sovereign Regency, San Francisco, CA"
                         }
                     ]
                 },
@@ -824,16 +1196,25 @@
                     "chap_num": 16,
                     "chap_title": "Karl The Fog",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-golden-state/karl-the-fog",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Golden Gate & The Transbay Emergency",
-                            "file_path": "e010/c016/p001.md"
+                            "file_path": "e010/c016/p001.md",
+                            "url": "/luna-leo/the-golden-state/karl-the-fog/part-1-the-golden-gate-the-transbay-emergency",
+                            "date": "2003-07-03",
+                            "start_time": "11:00",
+                            "location": "The Golden Gate Bridge, San Francisco, CA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Premonition",
-                            "file_path": "e010/c016/p002.md"
+                            "file_path": "e010/c016/p002.md",
+                            "url": "/luna-leo/the-golden-state/karl-the-fog/part-2-the-premonition",
+                            "date": "2003-07-03",
+                            "start_time": "23:30",
+                            "location": "The Hotel, San Francisco, CA"
                         }
                     ]
                 },
@@ -841,11 +1222,16 @@
                     "chap_num": 17,
                     "chap_title": "The Sub-Basement",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-golden-state/the-sub-basement",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Lingering Shadows & Retreat",
-                            "file_path": "e010/c017/p001.md"
+                            "file_path": "e010/c017/p001.md",
+                            "url": "/luna-leo/the-golden-state/the-sub-basement/the-lingering-shadows-retreat",
+                            "date": "2003-07-04",
+                            "start_time": "08:00",
+                            "location": "The Hotel, San Francisco, CA"
                         }
                     ]
                 },
@@ -853,11 +1239,16 @@
                     "chap_num": 18,
                     "chap_title": "The Southbound Platform",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-golden-state/the-southbound-platform",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Southbound Platform & The Voyage Inn",
-                            "file_path": "e010/c018/p001.md"
+                            "file_path": "e010/c018/p001.md",
+                            "url": "/luna-leo/the-golden-state/the-southbound-platform/the-southbound-platform-the-voyage-inn",
+                            "date": "2003-07-05",
+                            "start_time": "08:15",
+                            "location": "ARTS Oakland Jack London Square Station"
                         }
                     ]
                 },
@@ -865,11 +1256,16 @@
                     "chap_num": 19,
                     "chap_title": "Global Studios",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-golden-state/global-studios",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Global City & The Shipping Box",
-                            "file_path": "e010/c019/p001.md"
+                            "file_path": "e010/c019/p001.md",
+                            "url": "/luna-leo/the-golden-state/global-studios/global-city-the-shipping-box",
+                            "date": "2003-07-06",
+                            "start_time": "09:00",
+                            "location": "LATA Red Line - Hollywood"
                         }
                     ]
                 },
@@ -877,16 +1273,25 @@
                     "chap_num": 20,
                     "chap_title": "The Enchanted Resort",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-golden-state/the-enchanted-resort",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Orange County Commute & The Silver Lining",
-                            "file_path": "e010/c020/p001.md"
+                            "file_path": "e010/c020/p001.md",
+                            "url": "/luna-leo/the-golden-state/the-enchanted-resort/part-1-the-orange-county-commute-the-silver-lining",
+                            "date": "2003-07-07",
+                            "start_time": "07:30",
+                            "location": "SCR Commuter Rail"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Evening News",
-                            "file_path": "e010/c020/p002.md"
+                            "file_path": "e010/c020/p002.md",
+                            "url": "/luna-leo/the-golden-state/the-enchanted-resort/part-2-the-evening-news",
+                            "date": "2003-07-07",
+                            "start_time": "18:30",
+                            "location": "Hollywood Hotel Room"
                         }
                     ]
                 },
@@ -894,11 +1299,16 @@
                     "chap_num": 21,
                     "chap_title": "Hollywood Forever",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-golden-state/hollywood-forever",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Fellowship with All Life",
-                            "file_path": "e010/c021/p001.md"
+                            "file_path": "e010/c021/p001.md",
+                            "url": "/luna-leo/the-golden-state/hollywood-forever/fellowship-with-all-life",
+                            "date": "2003-07-08",
+                            "start_time": "09:30",
+                            "location": "Hollywood Forever Cemetery"
                         }
                     ]
                 }
@@ -908,26 +1318,40 @@
             "era_num": 11,
             "era_title": "Emerald Endings",
             "era_url": "/raggiesoft-books/books/luna-leo/emerald-endings",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 98,
                     "chap_title": "Chapter 98: The Confrontation",
                     "chap_url": "/raggiesoft-books/books/luna-leo/emerald-endings/chapter-98-the-confrontation",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Shattering & A Sanctuary in the Storm",
-                            "file_path": "e011/c098/p001.md"
+                            "file_path": "e011/c098/p001.md",
+                            "url": "/luna-leo/emerald-endings/chapter-98-the-confrontation/part-1-the-shattering-a-sanctuary-in-the-storm",
+                            "date": "2003-08-21",
+                            "start_time": "21:00",
+                            "location": "ARTS Train"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Long Night Begins & The Feast of Homecoming",
-                            "file_path": "e011/c098/p002.md"
+                            "file_path": "e011/c098/p002.md",
+                            "url": "/luna-leo/emerald-endings/chapter-98-the-confrontation/part-2-the-long-night-begins-the-feast-of-homecoming",
+                            "date": "2003-08-21",
+                            "start_time": "21:00",
+                            "location": "ARTS Train"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Evening Rituals and Secure Sleep",
-                            "file_path": "e011/c098/p003.md"
+                            "file_path": "e011/c098/p003.md",
+                            "url": "/luna-leo/emerald-endings/chapter-98-the-confrontation/part-3-evening-rituals-and-secure-sleep",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         }
                     ]
                 },
@@ -935,21 +1359,34 @@
                     "chap_num": 99,
                     "chap_title": "Chapter 99: A Change of Plans",
                     "chap_url": "/raggiesoft-books/books/luna-leo/emerald-endings/chapter-99-a-change-of-plans",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Shadow on the Platform & A Mission of Agency",
-                            "file_path": "e011/c099/p001.md"
+                            "file_path": "e011/c099/p001.md",
+                            "url": "/luna-leo/emerald-endings/chapter-99-a-change-of-plans/part-1-the-shadow-on-the-platform-a-mission-of-agency",
+                            "date": "2003-08-22",
+                            "start_time": "18:00",
+                            "location": "Washington, D.C."
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Reclaiming a Sanctuary & A New Path Forward",
-                            "file_path": "e011/c099/p002.md"
+                            "file_path": "e011/c099/p002.md",
+                            "url": "/luna-leo/emerald-endings/chapter-99-a-change-of-plans/part-2-reclaiming-a-sanctuary-a-new-path-forward",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Fortress Goes to College & The First Peaceful Sleep",
-                            "file_path": "e011/c099/p003.md"
+                            "file_path": "e011/c099/p003.md",
+                            "url": "/luna-leo/emerald-endings/chapter-99-a-change-of-plans/part-3-fortress-goes-to-college-the-first-peaceful-sleep",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         }
                     ]
                 }
@@ -959,21 +1396,31 @@
             "era_num": 12,
             "era_title": "The Delores Nightmare",
             "era_url": "/raggiesoft-books/books/luna-leo/the-delores-nightmare",
+            "illustration_count": 1,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Grieving Start",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-delores-nightmare/a-grieving-start",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Grieving Start & A Cautious Assessment",
-                            "file_path": "e012/c001/p001.md"
+                            "file_path": "e012/c001/p001.md",
+                            "url": "/luna-leo/the-delores-nightmare/a-grieving-start/part-1-a-grieving-start-a-cautious-assessment",
+                            "date": "2003-08-25",
+                            "start_time": "08:00",
+                            "location": "Norfolk, VA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Confronting Quantum & A Long-Distance Lifeline",
-                            "file_path": "e012/c001/p002.md"
+                            "file_path": "e012/c001/p002.md",
+                            "url": "/luna-leo/the-delores-nightmare/a-grieving-start/part-2-confronting-quantum-a-long-distance-lifeline",
+                            "date": "2003-11-01",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         }
                     ]
                 },
@@ -981,16 +1428,25 @@
                     "chap_num": 2,
                     "chap_title": "The Tutor",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-delores-nightmare/the-tutor",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Tutor & A Guardian's Shadow",
-                            "file_path": "e012/c002/p001.md"
+                            "file_path": "e012/c002/p001.md",
+                            "url": "/luna-leo/the-delores-nightmare/the-tutor/part-1-the-tutor-a-guardian-s-shadow",
+                            "date": "2003-11-01",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Sleepless Resolve & A Fragile Normalcy",
-                            "file_path": "e012/c002/p002.md"
+                            "file_path": "e012/c002/p002.md",
+                            "url": "/luna-leo/the-delores-nightmare/the-tutor/part-2-a-sleepless-resolve-a-fragile-normalcy",
+                            "date": "2003-11-01",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         }
                     ]
                 },
@@ -998,21 +1454,34 @@
                     "chap_num": 3,
                     "chap_title": "The Hijacked Plan",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-delores-nightmare/the-hijacked-plan",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Hijacked Plan & MagnaByte Conflict",
-                            "file_path": "e012/c003/p001.md"
+                            "file_path": "e012/c003/p001.md",
+                            "url": "/luna-leo/the-delores-nightmare/the-hijacked-plan/part-1-the-hijacked-plan-magnabyte-conflict",
+                            "date": "2003-11-01",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Printer Rage, Guardianship Questions, and a Forceful Kiss & Leftovers, Bus Schedules, and Locked Doors",
-                            "file_path": "e012/c003/p002.md"
+                            "file_path": "e012/c003/p002.md",
+                            "url": "/luna-leo/the-delores-nightmare/the-hijacked-plan/part-2-printer-rage-guardianship-questions-and-a-forceful-kiss-leftovers-bus-schedules-and-locked-doors",
+                            "date": "2003-11-01",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: A Day Under Duress & Tuesday Morning Departure",
-                            "file_path": "e012/c003/p003.md"
+                            "file_path": "e012/c003/p003.md",
+                            "url": "/luna-leo/the-delores-nightmare/the-hijacked-plan/part-3-a-day-under-duress-tuesday-morning-departure",
+                            "date": "2003-11-01",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         }
                     ]
                 },
@@ -1020,66 +1489,115 @@
                     "chap_num": 4,
                     "chap_title": "The Trip Proposal",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-delores-nightmare/the-trip-proposal",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Trip Proposal",
-                            "file_path": "e012/c004/p001.md"
+                            "file_path": "e012/c004/p001.md",
+                            "url": "/luna-leo/the-delores-nightmare/the-trip-proposal/part-1-the-trip-proposal",
+                            "date": "2003-11-01",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Four Days on the Bus",
-                            "file_path": "e012/c004/p002.md"
+                            "file_path": "e012/c004/p002.md",
+                            "url": "/luna-leo/the-delores-nightmare/the-trip-proposal/part-2-four-days-on-the-bus",
+                            "date": "2003-11-01",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Music City Realization",
-                            "file_path": "e012/c004/p003.md"
+                            "file_path": "e012/c004/p003.md",
+                            "url": "/luna-leo/the-delores-nightmare/the-trip-proposal/part-3-the-music-city-realization",
+                            "date": "2003-11-01",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Colby Turn",
-                            "file_path": "e012/c004/p004.md"
+                            "file_path": "e012/c004/p004.md",
+                            "url": "/luna-leo/the-delores-nightmare/the-trip-proposal/part-4-the-colby-turn",
+                            "date": "2003-11-01",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: Mile High",
-                            "file_path": "e012/c004/p005.md"
+                            "file_path": "e012/c004/p005.md",
+                            "url": "/luna-leo/the-delores-nightmare/the-trip-proposal/part-5-mile-high",
+                            "date": "2003-11-01",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 6,
                             "part_title": "Part 6: Pressure and Lies",
-                            "file_path": "e012/c004/p006.md"
+                            "file_path": "e012/c004/p006.md",
+                            "url": "/luna-leo/the-delores-nightmare/the-trip-proposal/part-6-pressure-and-lies",
+                            "date": "2003-11-01",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 7,
                             "part_title": "Part 7: The Pasco Lock",
-                            "file_path": "e012/c004/p007.md"
+                            "file_path": "e012/c004/p007.md",
+                            "url": "/luna-leo/the-delores-nightmare/the-trip-proposal/part-7-the-pasco-lock",
+                            "date": "2003-11-01",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 8,
                             "part_title": "Part 8: Arrival in the Pacific Northwest",
-                            "file_path": "e012/c004/p008.md"
+                            "file_path": "e012/c004/p008.md",
+                            "url": "/luna-leo/the-delores-nightmare/the-trip-proposal/part-8-arrival-in-the-pacific-northwest",
+                            "date": "2003-11-01",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 9,
                             "part_title": "Part 9: An Unwelcoming House",
-                            "file_path": "e012/c004/p009.md"
+                            "file_path": "e012/c004/p009.md",
+                            "url": "/luna-leo/the-delores-nightmare/the-trip-proposal/part-9-an-unwelcoming-house",
+                            "date": "2003-11-01",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 10,
                             "part_title": "Part 10: Jet Lag, Pancakes, and a Fragile Plan",
-                            "file_path": "e012/c004/p010.md"
+                            "file_path": "e012/c004/p010.md",
+                            "url": "/luna-leo/the-delores-nightmare/the-trip-proposal/part-10-jet-lag-pancakes-and-a-fragile-plan",
+                            "date": "2003-11-01",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 11,
                             "part_title": "Part 11: Delores Forces Herself",
-                            "file_path": "e012/c004/p011.md"
+                            "file_path": "e012/c004/p011.md",
+                            "url": "/luna-leo/the-delores-nightmare/the-trip-proposal/part-11-delores-forces-herself",
+                            "date": "2003-11-01",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 12,
                             "part_title": "Part 12: The Breaking Point",
-                            "file_path": "e012/c004/p012.md"
+                            "file_path": "e012/c004/p012.md",
+                            "url": "/luna-leo/the-delores-nightmare/the-trip-proposal/part-12-the-breaking-point",
+                            "date": "2003-11-01",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         }
                     ]
                 },
@@ -1087,96 +1605,178 @@
                     "chap_num": 5,
                     "chap_title": "Escape Through the Rain",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-delores-nightmare/escape-through-the-rain",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Escape Through the Rain",
-                            "file_path": "e012/c005/p001.md"
+                            "file_path": "e012/c005/p001.md",
+                            "url": "/luna-leo/the-delores-nightmare/escape-through-the-rain/part-1-escape-through-the-rain",
+                            "date": "2003-11-26",
+                            "start_time": "04:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Carol Looks for Leo",
-                            "file_path": "e012/c005/p002.md"
+                            "file_path": "e012/c005/p002.md",
+                            "url": "/luna-leo/the-delores-nightmare/escape-through-the-rain/part-2-carol-looks-for-leo",
+                            "date": "2003-11-26",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The TTY Lifeline",
-                            "file_path": "e012/c005/p003.md"
+                            "file_path": "e012/c005/p003.md",
+                            "url": "/luna-leo/the-delores-nightmare/escape-through-the-rain/part-3-the-tty-lifeline",
+                            "date": "2003-11-26",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Longest Hour",
-                            "file_path": "e012/c005/p004.md"
+                            "file_path": "e012/c005/p004.md",
+                            "url": "/luna-leo/the-delores-nightmare/escape-through-the-rain/part-4-the-longest-hour",
+                            "date": "2003-11-26",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: Sanctuary in a Sterile Room & The Boarding Pass",
-                            "file_path": "e012/c005/p005.md"
+                            "file_path": "e012/c005/p005.md",
+                            "url": "/luna-leo/the-delores-nightmare/escape-through-the-rain/part-5-sanctuary-in-a-sterile-room-the-boarding-pass",
+                            "date": "2003-11-26",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 6,
                             "part_title": "Part 6: Airside Sanctuary",
-                            "file_path": "e012/c005/p006.md"
+                            "file_path": "e012/c005/p006.md",
+                            "url": "/luna-leo/the-delores-nightmare/escape-through-the-rain/part-6-airside-sanctuary",
+                            "date": "2003-11-26",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 7,
                             "part_title": "Part 7: Airside Mission \u2013 Clothing",
-                            "file_path": "e012/c005/p007.md"
+                            "file_path": "e012/c005/p007.md",
+                            "url": "/luna-leo/the-delores-nightmare/escape-through-the-rain/part-7-airside-mission-clothing",
+                            "date": "2003-11-26",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 8,
                             "part_title": "Part 8: Restoring Dignity",
-                            "file_path": "e012/c005/p008.md"
+                            "file_path": "e012/c005/p008.md",
+                            "url": "/luna-leo/the-delores-nightmare/escape-through-the-rain/part-8-restoring-dignity",
+                            "date": "2003-11-26",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 9,
                             "part_title": "Part 9: A Song of Homecoming",
-                            "file_path": "e012/c005/p009.md"
+                            "file_path": "e012/c005/p009.md",
+                            "url": "/luna-leo/the-delores-nightmare/escape-through-the-rain/part-9-a-song-of-homecoming",
+                            "date": "2003-11-26",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 10,
                             "part_title": "Part 10: The Storm Before the Calm",
-                            "file_path": "e012/c005/p010.md"
+                            "file_path": "e012/c005/p010.md",
+                            "url": "/luna-leo/the-delores-nightmare/escape-through-the-rain/part-10-the-storm-before-the-calm",
+                            "date": "2003-11-26",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 11,
                             "part_title": "Part 11: Flight 1138",
-                            "file_path": "e012/c005/p011.md"
+                            "file_path": "e012/c005/p011.md",
+                            "url": "/luna-leo/the-delores-nightmare/escape-through-the-rain/part-11-flight-1138",
+                            "date": "2003-11-26",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 12,
                             "part_title": "Part 12: A Longing for Simplicity",
-                            "file_path": "e012/c005/p012.md"
+                            "file_path": "e012/c005/p012.md",
+                            "url": "/luna-leo/the-delores-nightmare/escape-through-the-rain/part-12-a-longing-for-simplicity",
+                            "date": "2003-11-26",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 13,
                             "part_title": "Part 13: A Midway Dash",
-                            "file_path": "e012/c005/p013.md"
+                            "file_path": "e012/c005/p013.md",
+                            "url": "/luna-leo/the-delores-nightmare/escape-through-the-rain/part-13-a-midway-dash",
+                            "date": "2003-11-26",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 14,
                             "part_title": "Part 14: The Gate Pass",
-                            "file_path": "e012/c005/p014.md"
+                            "file_path": "e012/c005/p014.md",
+                            "url": "/luna-leo/the-delores-nightmare/escape-through-the-rain/part-14-the-gate-pass",
+                            "date": "2003-11-26",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 15,
                             "part_title": "Part 15: Sanctuary",
-                            "file_path": "e012/c005/p015.md"
+                            "file_path": "e012/c005/p015.md",
+                            "url": "/luna-leo/the-delores-nightmare/escape-through-the-rain/part-15-sanctuary",
+                            "date": "2003-11-26",
+                            "start_time": "10:00",
+                            "location": "Kent, WA",
+                            "image": "{{CDN}}/raggiesoft-books/images/scenes/luna-leo/b010/orf-airport-reunion-gate-a5.jpg#fullwidth",
+                            "image_alt": "Leo arriving at Gate A5 at ORF",
+                            "images": [
+                                {
+                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/luna-leo/b010/orf-airport-reunion-gate-a5.jpg#fullwidth",
+                                    "alt": "Leo arriving at Gate A5 at ORF"
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 16,
                             "part_title": "Part 16: Haven City",
-                            "file_path": "e012/c005/p016.md"
+                            "file_path": "e012/c005/p016.md",
+                            "url": "/luna-leo/the-delores-nightmare/escape-through-the-rain/part-16-haven-city",
+                            "date": "2003-11-26",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 17,
                             "part_title": "Part 17: The Contaminated Sanctuary & Later That Night",
-                            "file_path": "e012/c005/p017.md"
+                            "file_path": "e012/c005/p017.md",
+                            "url": "/luna-leo/the-delores-nightmare/escape-through-the-rain/part-17-the-contaminated-sanctuary-later-that-night",
+                            "date": "2003-11-26",
+                            "start_time": "10:00",
+                            "location": "Kent, WA"
                         },
                         {
                             "part_num": 18,
                             "part_title": "Part 18: I'll Drag You Back",
-                            "file_path": "e012/c005/p018.md"
+                            "file_path": "e012/c005/p018.md",
+                            "url": "/luna-leo/the-delores-nightmare/escape-through-the-rain/part-18-i-ll-drag-you-back",
+                            "date": "2003-11-27",
+                            "start_time": "04:00",
+                            "location": "Virginia Beach, VA"
                         }
                     ]
                 }
@@ -1186,21 +1786,31 @@
             "era_num": 13,
             "era_title": "Safe Harbor, Stark Reality",
             "era_url": "/raggiesoft-books/books/luna-leo/safe-harbor-stark-reality",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 3,
                     "chap_title": "The First Morning",
                     "chap_url": "/raggiesoft-books/books/luna-leo/safe-harbor-stark-reality/the-first-morning",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The First Morning & The Fortress Assembles for the Night",
-                            "file_path": "e013/c003/p001.md"
+                            "file_path": "e013/c003/p001.md",
+                            "url": "/luna-leo/safe-harbor-stark-reality/the-first-morning/part-1-the-first-morning-the-fortress-assembles-for-the-night",
+                            "date": "2004-09-18",
+                            "start_time": "07:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Kent? & Assembling the Case",
-                            "file_path": "e013/c003/p002.md"
+                            "file_path": "e013/c003/p002.md",
+                            "url": "/luna-leo/safe-harbor-stark-reality/the-first-morning/part-2-kent-assembling-the-case",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         }
                     ]
                 },
@@ -1208,11 +1818,16 @@
                     "chap_num": 4,
                     "chap_title": "Assembling the Fortress",
                     "chap_url": "/raggiesoft-books/books/luna-leo/safe-harbor-stark-reality/assembling-the-fortress",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Assembling the Fortress & Ordering a New Voice",
-                            "file_path": "e013/c004/p001.md"
+                            "file_path": "e013/c004/p001.md",
+                            "url": "/luna-leo/safe-harbor-stark-reality/assembling-the-fortress/assembling-the-fortress-ordering-a-new-voice",
+                            "date": "2004-09-18",
+                            "start_time": "07:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         }
                     ]
                 },
@@ -1220,26 +1835,43 @@
                     "chap_num": 5,
                     "chap_title": "A New Language of Home",
                     "chap_url": "/raggiesoft-books/books/luna-leo/safe-harbor-stark-reality/a-new-language-of-home",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A New Language of Home & Poutine Logistics and a Fortress in French Class",
-                            "file_path": "e013/c005/p001.md"
+                            "file_path": "e013/c005/p001.md",
+                            "url": "/luna-leo/safe-harbor-stark-reality/a-new-language-of-home/part-1-a-new-language-of-home-poutine-logistics-and-a-fortress-in-french-class",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Tale of Two Frances & The Final Secret",
-                            "file_path": "e013/c005/p002.md"
+                            "file_path": "e013/c005/p002.md",
+                            "url": "/luna-leo/safe-harbor-stark-reality/a-new-language-of-home/part-2-a-tale-of-two-frances-the-final-secret",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Grand Old Lady on the Hill & The Fortress Expanded",
-                            "file_path": "e013/c005/p003.md"
+                            "file_path": "e013/c005/p003.md",
+                            "url": "/luna-leo/safe-harbor-stark-reality/a-new-language-of-home/part-3-the-grand-old-lady-on-the-hill-the-fortress-expanded",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Prime-Time R\u00e9veillon & The Comfort of Home",
-                            "file_path": "e013/c005/p004.md"
+                            "file_path": "e013/c005/p004.md",
+                            "url": "/luna-leo/safe-harbor-stark-reality/a-new-language-of-home/part-4-the-prime-time-r-veillon-the-comfort-of-home",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         }
                     ]
                 },
@@ -1247,11 +1879,16 @@
                     "chap_num": 6,
                     "chap_title": "The Morning After",
                     "chap_url": "/raggiesoft-books/books/luna-leo/safe-harbor-stark-reality/the-morning-after",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Morning After & The Holiday Afterglow",
-                            "file_path": "e013/c006/p001.md"
+                            "file_path": "e013/c006/p001.md",
+                            "url": "/luna-leo/safe-harbor-stark-reality/the-morning-after/the-morning-after-the-holiday-afterglow",
+                            "date": "2003-11-27",
+                            "start_time": "07:00",
+                            "location": "Stella's House, Virginia Beach, VA"
                         }
                     ]
                 },
@@ -1259,11 +1896,16 @@
                     "chap_num": 7,
                     "chap_title": "A Day of Quiet",
                     "chap_url": "/raggiesoft-books/books/luna-leo/safe-harbor-stark-reality/a-day-of-quiet",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A Day of Quiet & A Nightmare in the Safe Harbor",
-                            "file_path": "e013/c007/p001.md"
+                            "file_path": "e013/c007/p001.md",
+                            "url": "/luna-leo/safe-harbor-stark-reality/a-day-of-quiet/a-day-of-quiet-a-nightmare-in-the-safe-harbor",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         }
                     ]
                 },
@@ -1271,11 +1913,16 @@
                     "chap_num": 8,
                     "chap_title": "The Day in Court",
                     "chap_url": "/raggiesoft-books/books/luna-leo/safe-harbor-stark-reality/the-day-in-court",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Day in Court",
-                            "file_path": "e013/c008/p001.md"
+                            "file_path": "e013/c008/p001.md",
+                            "url": "/luna-leo/safe-harbor-stark-reality/the-day-in-court/the-day-in-court",
+                            "date": "2004-09-17",
+                            "start_time": "09:00",
+                            "location": "Virginia Beach Circuit Court, Virginia Beach, VA"
                         }
                     ]
                 }
@@ -1285,26 +1932,40 @@
             "era_num": 14,
             "era_title": "The Trial and The Toast",
             "era_url": "/raggiesoft-books/books/luna-leo/the-trial-and-the-toast",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Judge's Order",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-trial-and-the-toast/the-judge-s-order",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Judge's Order",
-                            "file_path": "e014/c001/p001.md"
+                            "file_path": "e014/c001/p001.md",
+                            "url": "/luna-leo/the-trial-and-the-toast/the-judge-s-order/part-1-the-judge-s-order",
+                            "date": "2004-09-17",
+                            "start_time": "09:00",
+                            "location": "Virginia Beach Circuit Court, Virginia Beach, VA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Longest Morning",
-                            "file_path": "e014/c001/p002.md"
+                            "file_path": "e014/c001/p002.md",
+                            "url": "/luna-leo/the-trial-and-the-toast/the-judge-s-order/part-2-the-longest-morning",
+                            "date": "2004-09-17",
+                            "start_time": "07:00",
+                            "location": "Virginia Beach, VA"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The New Ms. Walker Porter & An Impossible Thought",
-                            "file_path": "e014/c001/p003.md"
+                            "file_path": "e014/c001/p003.md",
+                            "url": "/luna-leo/the-trial-and-the-toast/the-judge-s-order/part-3-the-new-ms-walker-porter-an-impossible-thought",
+                            "date": "2004-09-17",
+                            "start_time": "12:00",
+                            "location": "Virginia Beach, VA"
                         }
                     ]
                 },
@@ -1312,21 +1973,34 @@
                     "chap_num": 2,
                     "chap_title": "A Test and a Toast",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-trial-and-the-toast/a-test-and-a-toast",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Test and a Toast",
-                            "file_path": "e014/c002/p001.md"
+                            "file_path": "e014/c002/p001.md",
+                            "url": "/luna-leo/the-trial-and-the-toast/a-test-and-a-toast/part-1-a-test-and-a-toast",
+                            "date": "2004-09-17",
+                            "start_time": "07:00",
+                            "location": "Virginia Beach, VA"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Separation & The Toasts",
-                            "file_path": "e014/c002/p002.md"
+                            "file_path": "e014/c002/p002.md",
+                            "url": "/luna-leo/the-trial-and-the-toast/a-test-and-a-toast/part-2-the-separation-the-toasts",
+                            "date": "2004-09-17",
+                            "start_time": "12:00",
+                            "location": "Virginia Beach, VA"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Feast & Decompression",
-                            "file_path": "e014/c002/p003.md"
+                            "file_path": "e014/c002/p003.md",
+                            "url": "/luna-leo/the-trial-and-the-toast/a-test-and-a-toast/part-3-the-feast-decompression",
+                            "date": "2004-09-17",
+                            "start_time": "12:00",
+                            "location": "Virginia Beach, VA"
                         }
                     ]
                 }
@@ -1336,21 +2010,31 @@
             "era_num": 15,
             "era_title": "The Iron Point Transfer",
             "era_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Weapon",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer/the-weapon",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Weapon & The Tape",
-                            "file_path": "e015/c001/p001.md"
+                            "file_path": "e015/c001/p001.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-weapon/part-1-the-weapon-the-tape",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Verdict & The Long Twilight",
-                            "file_path": "e015/c001/p002.md"
+                            "file_path": "e015/c001/p002.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-weapon/part-2-the-verdict-the-long-twilight",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         }
                     ]
                 },
@@ -1358,21 +2042,34 @@
                     "chap_num": 2,
                     "chap_title": "The Iron Link",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer/the-iron-link",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Iron Link & The Victory Lap & The Blueprint",
-                            "file_path": "e015/c002/p001.md"
+                            "file_path": "e015/c002/p001.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-iron-link/part-1-the-iron-link-the-victory-lap-the-blueprint",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Subterranean City & The Foundation",
-                            "file_path": "e015/c002/p002.md"
+                            "file_path": "e015/c002/p002.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-iron-link/part-2-the-subterranean-city-the-foundation",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Last Train Out & The Lobster Toast",
-                            "file_path": "e015/c002/p003.md"
+                            "file_path": "e015/c002/p003.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-iron-link/part-3-the-last-train-out-the-lobster-toast",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         }
                     ]
                 },
@@ -1380,21 +2077,34 @@
                     "chap_num": 3,
                     "chap_title": "The Orange Army",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer/the-orange-army",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Orange Army & The Restoration",
-                            "file_path": "e015/c003/p001.md"
+                            "file_path": "e015/c003/p001.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-orange-army/part-1-the-orange-army-the-restoration",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Closing Table & The Vessel",
-                            "file_path": "e015/c003/p002.md"
+                            "file_path": "e015/c003/p002.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-orange-army/part-2-the-closing-table-the-vessel",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Final Passenger",
-                            "file_path": "e015/c003/p003.md"
+                            "file_path": "e015/c003/p003.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-orange-army/part-3-the-final-passenger",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         }
                     ]
                 },
@@ -1402,16 +2112,25 @@
                     "chap_num": 4,
                     "chap_title": "The Transfer of Power",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer/the-transfer-of-power",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Transfer of Power & The Final Crossing",
-                            "file_path": "e015/c004/p001.md"
+                            "file_path": "e015/c004/p001.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-transfer-of-power/part-1-the-transfer-of-power-the-final-crossing",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The ARTS-Box",
-                            "file_path": "e015/c004/p002.md"
+                            "file_path": "e015/c004/p002.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-transfer-of-power/part-2-the-arts-box",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         }
                     ]
                 },
@@ -1419,26 +2138,43 @@
                     "chap_num": 5,
                     "chap_title": "The Landing",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer/the-landing",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Landing",
-                            "file_path": "e015/c005/p001.md"
+                            "file_path": "e015/c005/p001.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-landing/part-1-the-landing",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Home Court",
-                            "file_path": "e015/c005/p002.md"
+                            "file_path": "e015/c005/p002.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-landing/part-2-the-home-court",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Traffic Report & The Twin Frequency",
-                            "file_path": "e015/c005/p003.md"
+                            "file_path": "e015/c005/p003.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-landing/part-3-the-traffic-report-the-twin-frequency",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Wall Test & The Warning Signs",
-                            "file_path": "e015/c005/p004.md"
+                            "file_path": "e015/c005/p004.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-landing/part-4-the-wall-test-the-warning-signs",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         }
                     ]
                 },
@@ -1446,16 +2182,25 @@
                     "chap_num": 6,
                     "chap_title": "The Ticket Kiosk",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer/the-ticket-kiosk",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Ticket Kiosk & The Crossing and the Calm",
-                            "file_path": "e015/c006/p001.md"
+                            "file_path": "e015/c006/p001.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-ticket-kiosk/part-1-the-ticket-kiosk-the-crossing-and-the-calm",
+                            "date": "2004-09-18",
+                            "start_time": "07:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Shield & The Return of the Fleet",
-                            "file_path": "e015/c006/p002.md"
+                            "file_path": "e015/c006/p002.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-ticket-kiosk/part-2-the-shield-the-return-of-the-fleet",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         }
                     ]
                 },
@@ -1463,16 +2208,25 @@
                     "chap_num": 7,
                     "chap_title": "The Official Stamp",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer/the-official-stamp",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Official Stamp & The Bill",
-                            "file_path": "e015/c007/p001.md"
+                            "file_path": "e015/c007/p001.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-official-stamp/part-1-the-official-stamp-the-bill",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Textbook Run & The Last Mile Problem",
-                            "file_path": "e015/c007/p002.md"
+                            "file_path": "e015/c007/p002.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-official-stamp/part-2-the-textbook-run-the-last-mile-problem",
+                            "date": "2004-09-18",
+                            "start_time": "10:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         }
                     ]
                 },
@@ -1480,16 +2234,25 @@
                     "chap_num": 8,
                     "chap_title": "The Ferry and the Fortress",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer/the-ferry-and-the-fortress",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Ferry and the Fortress & The Clean Break",
-                            "file_path": "e015/c008/p001.md"
+                            "file_path": "e015/c008/p001.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-ferry-and-the-fortress/part-1-the-ferry-and-the-fortress-the-clean-break",
+                            "date": "2004-09-18",
+                            "start_time": "07:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Night Watch",
-                            "file_path": "e015/c008/p002.md"
+                            "file_path": "e015/c008/p002.md",
+                            "url": "/luna-leo/the-iron-point-transfer/the-ferry-and-the-fortress/part-2-the-night-watch",
+                            "date": "2004-09-18",
+                            "start_time": "21:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         }
                     ]
                 }
@@ -1499,36 +2262,58 @@
             "era_num": 16,
             "era_title": "Finding a New House",
             "era_url": "/raggiesoft-books/books/luna-leo/finding-a-new-house",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The 05:30 Alarm",
                     "chap_url": "/raggiesoft-books/books/luna-leo/finding-a-new-house/the-05-30-alarm",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The 05:30 Alarm",
-                            "file_path": "e016/c001/p001.md"
+                            "file_path": "e016/c001/p001.md",
+                            "url": "/luna-leo/finding-a-new-house/the-05-30-alarm/part-1-the-05-30-alarm",
+                            "date": "2004-09-18",
+                            "start_time": "05:30",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Rainy Day Express",
-                            "file_path": "e016/c001/p002.md"
+                            "file_path": "e016/c001/p002.md",
+                            "url": "/luna-leo/finding-a-new-house/the-05-30-alarm/part-2-the-rainy-day-express",
+                            "date": "2004-09-20",
+                            "start_time": "08:00",
+                            "location": "Iron Point, RI"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Split Screen & The Vetting Process",
-                            "file_path": "e016/c001/p003.md"
+                            "file_path": "e016/c001/p003.md",
+                            "url": "/luna-leo/finding-a-new-house/the-05-30-alarm/part-3-the-split-screen-the-vetting-process",
+                            "date": "2004-09-20",
+                            "start_time": "07:00",
+                            "location": "Iron Point, RI"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Dialect Shock & The Audition",
-                            "file_path": "e016/c001/p004.md"
+                            "file_path": "e016/c001/p004.md",
+                            "url": "/luna-leo/finding-a-new-house/the-05-30-alarm/part-4-the-dialect-shock-the-audition",
+                            "date": "2004-09-20",
+                            "start_time": "07:00",
+                            "location": "Iron Point, RI"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: The Library Rendezvous & The Glass Wall",
-                            "file_path": "e016/c001/p005.md"
+                            "file_path": "e016/c001/p005.md",
+                            "url": "/luna-leo/finding-a-new-house/the-05-30-alarm/part-5-the-library-rendezvous-the-glass-wall",
+                            "date": "2004-09-20",
+                            "start_time": "07:00",
+                            "location": "Iron Point, RI"
                         }
                     ]
                 },
@@ -1536,21 +2321,34 @@
                     "chap_num": 2,
                     "chap_title": "The Green Room",
                     "chap_url": "/raggiesoft-books/books/luna-leo/finding-a-new-house/the-green-room",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Green Room & The Jurisdiction Trap",
-                            "file_path": "e016/c002/p001.md"
+                            "file_path": "e016/c002/p001.md",
+                            "url": "/luna-leo/finding-a-new-house/the-green-room/part-1-the-green-room-the-jurisdiction-trap",
+                            "date": "2004-09-20",
+                            "start_time": "08:00",
+                            "location": "Iron Point, RI"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Station Assault & The Identity Protocol",
-                            "file_path": "e016/c002/p002.md"
+                            "file_path": "e016/c002/p002.md",
+                            "url": "/luna-leo/finding-a-new-house/the-green-room/part-2-the-station-assault-the-identity-protocol",
+                            "date": "2004-09-20",
+                            "start_time": "07:00",
+                            "location": "Iron Point, RI"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Plastic Anchor & The Maiden Voyage",
-                            "file_path": "e016/c002/p003.md"
+                            "file_path": "e016/c002/p003.md",
+                            "url": "/luna-leo/finding-a-new-house/the-green-room/part-3-the-plastic-anchor-the-maiden-voyage",
+                            "date": "2004-09-18",
+                            "start_time": "07:00",
+                            "location": "8 Ocean View Lane, Iron Point, RI"
                         }
                     ]
                 }

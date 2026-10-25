@@ -15,16 +15,19 @@
         "text_epub_bytes": 9656,
         "text_pdf_bytes": 25449
     },
+    "illustration_count": 0,
     "eras": [
         {
             "era_num": 1,
             "era_title": "Book 1: CPI & The Forgers",
             "era_url": "/raggiesoft-books/books/stardust-engine/book-1-cpi-the-forgers",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Into the Unknown",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-1-cpi-the-forgers/chapter-1-into-the-unknown",
+                    "illustration_count": 0,
                     "parts": []
                 }
             ]
@@ -33,11 +36,13 @@
             "era_num": 2,
             "era_title": "Book 2: The Crash of '90",
             "era_url": "/raggiesoft-books/books/stardust-engine/book-2-the-crash-of-90",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Arrival",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-2-the-crash-of-90/chapter-1-the-arrival",
+                    "illustration_count": 0,
                     "parts": []
                 }
             ]
@@ -46,11 +51,13 @@
             "era_num": 3,
             "era_title": "Book 3: The Friction Catastrophe",
             "era_url": "/raggiesoft-books/books/stardust-engine/book-3-the-friction-catastrophe",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Revelations",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-3-the-friction-catastrophe/chapter-1-revelations",
+                    "illustration_count": 0,
                     "parts": []
                 }
             ]
@@ -59,16 +66,20 @@
             "era_num": 4,
             "era_title": "Book 4: Ad Astra",
             "era_url": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Escape Velocity &ndash; 1995",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra/chapter-1-escape-velocity-ndash-1995",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Magnum Opus &ndash; 12:00 PM",
-                            "file_path": "e004/c001/p001.md"
+                            "file_path": "e004/c001/p001.md",
+                            "url": "/stardust-engine/book-4-ad-astra/chapter-1-escape-velocity-ndash-1995/the-magnum-opus-ndash-12-00-pm",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -78,11 +89,13 @@
             "era_num": 5,
             "era_title": "Book 5: The $150M Refusal",
             "era_url": "/raggiesoft-books/books/stardust-engine/book-5-the-150m-refusal",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: A Desperate Escape",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-5-the-150m-refusal/chapter-1-a-desperate-escape",
+                    "illustration_count": 0,
                     "parts": []
                 }
             ]

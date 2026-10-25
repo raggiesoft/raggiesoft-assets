@@ -15,21 +15,27 @@
         "text_epub_bytes": 66696,
         "text_pdf_bytes": 194611
     },
+    "illustration_count": 0,
     "eras": [
         {
             "era_num": 1,
             "era_title": "Book 1: Toby\u2019s 6th Grade",
             "era_url": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Father and the Uncle (Sunday, July 13, 1997)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-1-the-father-and-the-uncle-sunday-july-13-1997",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Father and the Uncle",
-                            "file_path": "e001/c001/p001.md"
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/samantha/book-1-toby-s-6th-grade/chapter-1-the-father-and-the-uncle-sunday-july-13-1997/the-father-and-the-uncle",
+                            "start_time": "14:40",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -37,26 +43,39 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Extraction (Monday, July 14, 1997)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-2-the-extraction-monday-july-14-1997",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Night Flight Across Virginia",
-                            "file_path": "e001/c002/p001.md"
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/samantha/book-1-toby-s-6th-grade/chapter-2-the-extraction-monday-july-14-1997/part-1-the-night-flight-across-virginia",
+                            "start_time": "00:05",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Safe Harbor in Virginia Beach",
-                            "file_path": "e001/c002/p002.md"
+                            "file_path": "e001/c002/p002.md",
+                            "url": "/samantha/book-1-toby-s-6th-grade/chapter-2-the-extraction-monday-july-14-1997/part-2-safe-harbor-in-virginia-beach",
+                            "start_time": "09:45",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Emergency Room",
-                            "file_path": "e001/c002/p003.md"
+                            "file_path": "e001/c002/p003.md",
+                            "url": "/samantha/book-1-toby-s-6th-grade/chapter-2-the-extraction-monday-july-14-1997/part-3-the-emergency-room",
+                            "start_time": "19:30",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Pediatric Recovery",
-                            "file_path": "e001/c002/p004.md"
+                            "file_path": "e001/c002/p004.md",
+                            "url": "/samantha/book-1-toby-s-6th-grade/chapter-2-the-extraction-monday-july-14-1997/part-4-pediatric-recovery",
+                            "start_time": "23:30",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -64,11 +83,15 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Night Watch (Tuesday, July 15, 1997)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-3-the-night-watch-tuesday-july-15-1997",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Night Watch",
-                            "file_path": "e001/c003/p001.md"
+                            "file_path": "e001/c003/p001.md",
+                            "url": "/samantha/book-1-toby-s-6th-grade/chapter-3-the-night-watch-tuesday-july-15-1997/the-night-watch",
+                            "start_time": "01:55",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -78,16 +101,21 @@
             "era_num": 2,
             "era_title": "Book 2: Toby\u2019s 8th Grade Year",
             "era_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Matrix Anomaly (Tuesday, April 20, 1999)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year/chapter-1-the-matrix-anomaly-tuesday-april-20-1999",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Matrix Anomaly",
-                            "file_path": "e002/c001/p001.md"
+                            "file_path": "e002/c001/p001.md",
+                            "url": "/samantha/book-2-toby-s-8th-grade-year/chapter-1-the-matrix-anomaly-tuesday-april-20-1999/the-matrix-anomaly",
+                            "start_time": "13:15",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -95,11 +123,15 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Intent to Enroll (Friday, April 23, 1999)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year/chapter-2-the-intent-to-enroll-friday-april-23-1999",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Intent to Enroll",
-                            "file_path": "e002/c002/p001.md"
+                            "file_path": "e002/c002/p001.md",
+                            "url": "/samantha/book-2-toby-s-8th-grade-year/chapter-2-the-intent-to-enroll-friday-april-23-1999/the-intent-to-enroll",
+                            "start_time": "16:30",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -107,11 +139,15 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Bureaucratic Disbelief (Wednesday, April 28, 1999)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year/chapter-3-the-bureaucratic-disbelief-wednesday-april-28-1999",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Bureaucratic Disbelief",
-                            "file_path": "e002/c003/p001.md"
+                            "file_path": "e002/c003/p001.md",
+                            "url": "/samantha/book-2-toby-s-8th-grade-year/chapter-3-the-bureaucratic-disbelief-wednesday-april-28-1999/the-bureaucratic-disbelief",
+                            "start_time": "10:15",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -119,11 +155,15 @@
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Morrison Stand-Off (Thursday, May 6, 1999)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year/chapter-4-the-morrison-stand-off-thursday-may-6-1999",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Morrison Stand-Off",
-                            "file_path": "e002/c004/p001.md"
+                            "file_path": "e002/c004/p001.md",
+                            "url": "/samantha/book-2-toby-s-8th-grade-year/chapter-4-the-morrison-stand-off-thursday-may-6-1999/the-morrison-stand-off",
+                            "start_time": "15:05",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -133,16 +173,21 @@
             "era_num": 3,
             "era_title": "Book 3: The Environmental Doctrine",
             "era_url": "/raggiesoft-books/books/samantha/book-3-the-environmental-doctrine",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Cosmic Collapse (Tuesday, July 13, 1999)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-3-the-environmental-doctrine/chapter-1-the-cosmic-collapse-tuesday-july-13-1999",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Cosmic Collapse",
-                            "file_path": "e003/c001/p001.md"
+                            "file_path": "e003/c001/p001.md",
+                            "url": "/samantha/book-3-the-environmental-doctrine/chapter-1-the-cosmic-collapse-tuesday-july-13-1999/the-cosmic-collapse",
+                            "start_time": "10:15",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -152,6 +197,7 @@
             "era_num": 4,
             "era_title": "Book 4: Silent Whispers",
             "era_url": "/raggiesoft-books/books/samantha/book-4-silent-whispers",
+            "illustration_count": 0,
             "chapters": []
         }
     ]

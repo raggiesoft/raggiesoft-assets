@@ -15,21 +15,26 @@
         "text_epub_bytes": 85613,
         "text_pdf_bytes": 235362
     },
+    "illustration_count": 0,
     "eras": [
         {
             "era_num": 1,
             "era_title": "Life Without a Father",
             "era_url": "/raggiesoft-books/books/bob-emily/life-without-a-father",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Longest Day",
                     "chap_url": "/raggiesoft-books/books/bob-emily/life-without-a-father/the-longest-day",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Final Promise & A New Plan of Action",
-                            "file_path": "e001/c001/p001.md"
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/bob-emily/life-without-a-father/the-longest-day/the-final-promise-a-new-plan-of-action",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -37,21 +42,28 @@
                     "chap_num": 2,
                     "chap_title": "The New Normal",
                     "chap_url": "/raggiesoft-books/books/bob-emily/life-without-a-father/the-new-normal",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The First Day & A Failure to Communicate",
-                            "file_path": "e001/c002/p001.md"
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/bob-emily/life-without-a-father/the-new-normal/part-1-the-first-day-a-failure-to-communicate",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Teacher's Apology & A Message in Muscle",
-                            "file_path": "e001/c002/p002.md"
+                            "file_path": "e001/c002/p002.md",
+                            "url": "/bob-emily/life-without-a-father/the-new-normal/part-2-the-teacher-s-apology-a-message-in-muscle",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Gable Report & The Emily Jenkins Rule",
-                            "file_path": "e001/c002/p003.md"
+                            "file_path": "e001/c002/p003.md",
+                            "url": "/bob-emily/life-without-a-father/the-new-normal/part-3-the-gable-report-the-emily-jenkins-rule",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -61,16 +73,20 @@
             "era_num": 2,
             "era_title": "Assault",
             "era_url": "/raggiesoft-books/books/bob-emily/assault",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Locker",
                     "chap_url": "/raggiesoft-books/books/bob-emily/assault/the-locker",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Assault & The Perp Walk",
-                            "file_path": "e002/c001/p001.md"
+                            "file_path": "e002/c001/p001.md",
+                            "url": "/bob-emily/assault/the-locker/the-assault-the-perp-walk",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -78,11 +94,14 @@
                     "chap_num": 2,
                     "chap_title": "The Hospital",
                     "chap_url": "/raggiesoft-books/books/bob-emily/assault/the-hospital",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Long Wait & Chapter Notes: The Planetarium Promise",
-                            "file_path": "e002/c002/p001.md"
+                            "file_path": "e002/c002/p001.md",
+                            "url": "/bob-emily/assault/the-hospital/the-long-wait-chapter-notes-the-planetarium-promise",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -92,16 +111,20 @@
             "era_num": 3,
             "era_title": "Bob Healing",
             "era_url": "/raggiesoft-books/books/bob-emily/bob-healing",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Bob\u2019s New Reality",
                     "chap_url": "/raggiesoft-books/books/bob-emily/bob-healing/bob-s-new-reality",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The First Day Home & Cleared for Travel",
-                            "file_path": "e003/c001/p001.md"
+                            "file_path": "e003/c001/p001.md",
+                            "url": "/bob-emily/bob-healing/bob-s-new-reality/the-first-day-home-cleared-for-travel",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -109,11 +132,14 @@
                     "chap_num": 2,
                     "chap_title": "Bob and Emily See the Stars",
                     "chap_url": "/raggiesoft-books/books/bob-emily/bob-healing/bob-and-emily-see-the-stars",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A Trip to the Stars & Bluewater Transit Steps Up to the Plate",
-                            "file_path": "e003/c002/p001.md"
+                            "file_path": "e003/c002/p001.md",
+                            "url": "/bob-emily/bob-healing/bob-and-emily-see-the-stars/a-trip-to-the-stars-bluewater-transit-steps-up-to-the-plate",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -121,11 +147,14 @@
                     "chap_num": 3,
                     "chap_title": "Finishing the Semester Strong",
                     "chap_url": "/raggiesoft-books/books/bob-emily/bob-healing/finishing-the-semester-strong",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A Hard Limit & The Graduation Pact",
-                            "file_path": "e003/c003/p001.md"
+                            "file_path": "e003/c003/p001.md",
+                            "url": "/bob-emily/bob-healing/finishing-the-semester-strong/a-hard-limit-the-graduation-pact",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -135,21 +164,27 @@
             "era_num": 4,
             "era_title": "Summer 2015",
             "era_url": "/raggiesoft-books/books/bob-emily/summer-2015",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Tale of Two Sanctuaries",
                     "chap_url": "/raggiesoft-books/books/bob-emily/summer-2015/a-tale-of-two-sanctuaries",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Christiansburg Connection & The Best News",
-                            "file_path": "e004/c001/p001.md"
+                            "file_path": "e004/c001/p001.md",
+                            "url": "/bob-emily/summer-2015/a-tale-of-two-sanctuaries/part-1-the-christiansburg-connection-the-best-news",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Schedule and the Ride & The Last Drop of Summer",
-                            "file_path": "e004/c001/p002.md"
+                            "file_path": "e004/c001/p002.md",
+                            "url": "/bob-emily/summer-2015/a-tale-of-two-sanctuaries/part-2-the-schedule-and-the-ride-the-last-drop-of-summer",
+                            "location": "Unknown"
                         }
                     ]
                 }

@@ -15,26 +15,33 @@
         "text_epub_bytes": 87849,
         "text_pdf_bytes": 259351
     },
+    "illustration_count": 0,
     "eras": [
         {
             "era_num": 1,
             "era_title": "Currents and Crosswinds",
             "era_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "An Ordinary July",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/an-ordinary-july",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Day-to-Day at Quantum & Providence to Boston",
-                            "file_path": "e001/c001/p001.md"
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/quantum-directive-1-jessica/currents-and-crosswinds/an-ordinary-july/part-1-day-to-day-at-quantum-providence-to-boston",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Morning Hand-Off & The Debrief",
-                            "file_path": "e001/c001/p002.md"
+                            "file_path": "e001/c001/p002.md",
+                            "url": "/quantum-directive-1-jessica/currents-and-crosswinds/an-ordinary-july/part-2-the-morning-hand-off-the-debrief",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -42,11 +49,14 @@
                     "chap_num": 2,
                     "chap_title": "Currents to Still Water",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/currents-to-still-water",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Homecoming & The First Autograph",
-                            "file_path": "e001/c002/p001.md"
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/quantum-directive-1-jessica/currents-and-crosswinds/currents-to-still-water/homecoming-the-first-autograph",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -54,11 +64,14 @@
                     "chap_num": 3,
                     "chap_title": "The Spark of Rebellion",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-spark-of-rebellion",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Morning Commute & The Confrontation at Aurora",
-                            "file_path": "e001/c003/p001.md"
+                            "file_path": "e001/c003/p001.md",
+                            "url": "/quantum-directive-1-jessica/currents-and-crosswinds/the-spark-of-rebellion/the-morning-commute-the-confrontation-at-aurora",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -66,11 +79,14 @@
                     "chap_num": 4,
                     "chap_title": "The War Councils Assemble",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-war-councils-assemble",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Quantum's Alliance & Aurora's Rebellion",
-                            "file_path": "e001/c004/p001.md"
+                            "file_path": "e001/c004/p001.md",
+                            "url": "/quantum-directive-1-jessica/currents-and-crosswinds/the-war-councils-assemble/quantum-s-alliance-aurora-s-rebellion",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -78,11 +94,14 @@
                     "chap_num": 5,
                     "chap_title": "The Memo",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-memo",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Leak & Damage Control",
-                            "file_path": "e001/c005/p001.md"
+                            "file_path": "e001/c005/p001.md",
+                            "url": "/quantum-directive-1-jessica/currents-and-crosswinds/the-memo/the-leak-damage-control",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -90,11 +109,14 @@
                     "chap_num": 6,
                     "chap_title": "The Exodus",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-exodus",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Intercepted Letter & The Last Stand",
-                            "file_path": "e001/c006/p001.md"
+                            "file_path": "e001/c006/p001.md",
+                            "url": "/quantum-directive-1-jessica/currents-and-crosswinds/the-exodus/the-intercepted-letter-the-last-stand",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -102,11 +124,14 @@
                     "chap_num": 7,
                     "chap_title": "Sanctuary Across the Lake",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/sanctuary-across-the-lake",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A New Alliance & Solidarity in Action",
-                            "file_path": "e001/c007/p001.md"
+                            "file_path": "e001/c007/p001.md",
+                            "url": "/quantum-directive-1-jessica/currents-and-crosswinds/sanctuary-across-the-lake/a-new-alliance-solidarity-in-action",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -114,11 +139,14 @@
                     "chap_num": 8,
                     "chap_title": "The Fall of Aurora",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-fall-of-aurora",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Empty Loft & The Final Paycheck",
-                            "file_path": "e001/c008/p001.md"
+                            "file_path": "e001/c008/p001.md",
+                            "url": "/quantum-directive-1-jessica/currents-and-crosswinds/the-fall-of-aurora/the-empty-loft-the-final-paycheck",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -126,11 +154,14 @@
                     "chap_num": 9,
                     "chap_title": "The Final Straw",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-final-straw",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "An Intern's Story & A Poisoned Well",
-                            "file_path": "e001/c009/p001.md"
+                            "file_path": "e001/c009/p001.md",
+                            "url": "/quantum-directive-1-jessica/currents-and-crosswinds/the-final-straw/an-intern-s-story-a-poisoned-well",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -138,11 +169,14 @@
                     "chap_num": 10,
                     "chap_title": "A New Beginning",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/a-new-beginning",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Writing the Next Chapter & The First Line of Code",
-                            "file_path": "e001/c010/p001.md"
+                            "file_path": "e001/c010/p001.md",
+                            "url": "/quantum-directive-1-jessica/currents-and-crosswinds/a-new-beginning/writing-the-next-chapter-the-first-line-of-code",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -150,21 +184,28 @@
                     "chap_num": 11,
                     "chap_title": "The Bridge to Cupertino",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-bridge-to-cupertino",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Cupertino Trip & The Dev Lab",
-                            "file_path": "e001/c011/p001.md"
+                            "file_path": "e001/c011/p001.md",
+                            "url": "/quantum-directive-1-jessica/currents-and-crosswinds/the-bridge-to-cupertino/part-1-the-cupertino-trip-the-dev-lab",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Day at Work & Morning in Cupertino",
-                            "file_path": "e001/c011/p002.md"
+                            "file_path": "e001/c011/p002.md",
+                            "url": "/quantum-directive-1-jessica/currents-and-crosswinds/the-bridge-to-cupertino/part-2-a-day-at-work-morning-in-cupertino",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: A Picnic with Cousins & The Flight Home",
-                            "file_path": "e001/c011/p003.md"
+                            "file_path": "e001/c011/p003.md",
+                            "url": "/quantum-directive-1-jessica/currents-and-crosswinds/the-bridge-to-cupertino/part-3-a-picnic-with-cousins-the-flight-home",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -172,11 +213,14 @@
                     "chap_num": 12,
                     "chap_title": "Bidding for the Twins",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/bidding-for-the-twins",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Offer & A New Role",
-                            "file_path": "e001/c012/p001.md"
+                            "file_path": "e001/c012/p001.md",
+                            "url": "/quantum-directive-1-jessica/currents-and-crosswinds/bidding-for-the-twins/the-offer-a-new-role",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -184,11 +228,14 @@
                     "chap_num": 13,
                     "chap_title": "A New Family",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/a-new-family",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Pizza Night & Move-In Day",
-                            "file_path": "e001/c013/p001.md"
+                            "file_path": "e001/c013/p001.md",
+                            "url": "/quantum-directive-1-jessica/currents-and-crosswinds/a-new-family/pizza-night-move-in-day",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -198,17 +245,20 @@
             "era_num": 2,
             "era_title": "Book 2: Silent Whispers",
             "era_url": "/raggiesoft-books/books/quantum-directive-1-jessica/book-2-silent-whispers",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Revelations",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/book-2-silent-whispers/chapter-1-revelations",
+                    "illustration_count": 0,
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: A Moment of Peace",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/book-2-silent-whispers/chapter-2-a-moment-of-peace",
+                    "illustration_count": 0,
                     "parts": []
                 }
             ]

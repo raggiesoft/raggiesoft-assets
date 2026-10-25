@@ -15,26 +15,33 @@
         "text_epub_bytes": 608772,
         "text_pdf_bytes": 1764104
     },
+    "illustration_count": 0,
     "eras": [
         {
             "era_num": 1,
             "era_title": "Wyatt\u2019s Prologue",
             "era_url": "/raggiesoft-books/books/apex-fall-of-earth/wyatt-s-prologue",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Wyatt \u2013 Expendable Assets",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/wyatt-s-prologue/wyatt-expendable-assets",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Deep End \u2013 Mid-October 2044 & The Washroom",
-                            "file_path": "e001/c001/p001.md"
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/apex-fall-of-earth/wyatt-s-prologue/wyatt-expendable-assets/part-1-the-deep-end-mid-october-2044-the-washroom",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Trough & The Checkpoint",
-                            "file_path": "e001/c001/p002.md"
+                            "file_path": "e001/c001/p002.md",
+                            "url": "/apex-fall-of-earth/wyatt-s-prologue/wyatt-expendable-assets/part-2-the-trough-the-checkpoint",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -44,21 +51,27 @@
             "era_num": 2,
             "era_title": "Sarah\u2019s Prologue",
             "era_url": "/raggiesoft-books/books/apex-fall-of-earth/sarah-s-prologue",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Sarah \u2013 The Promise",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/sarah-s-prologue/sarah-the-promise",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: First Flight \u2013 Mid-October 2044 & The Glitch",
-                            "file_path": "e002/c001/p001.md"
+                            "file_path": "e002/c001/p001.md",
+                            "url": "/apex-fall-of-earth/sarah-s-prologue/sarah-the-promise/part-1-first-flight-mid-october-2044-the-glitch",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Washroom & The Checkpoint",
-                            "file_path": "e002/c001/p002.md"
+                            "file_path": "e002/c001/p002.md",
+                            "url": "/apex-fall-of-earth/sarah-s-prologue/sarah-the-promise/part-2-the-washroom-the-checkpoint",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -68,21 +81,27 @@
             "era_num": 3,
             "era_title": "The Acquisition",
             "era_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Wyatt \u2013 Orientation Day",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition/wyatt-orientation-day",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Powder Keg & The Break",
-                            "file_path": "e003/c001/p001.md"
+                            "file_path": "e003/c001/p001.md",
+                            "url": "/apex-fall-of-earth/the-acquisition/wyatt-orientation-day/part-1-the-powder-keg-the-break",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: 42-C",
-                            "file_path": "e003/c001/p002.md"
+                            "file_path": "e003/c001/p002.md",
+                            "url": "/apex-fall-of-earth/the-acquisition/wyatt-orientation-day/part-2-42-c",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -90,26 +109,35 @@
                     "chap_num": 2,
                     "chap_title": "The Second Shift",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition/the-second-shift",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Wake Up Call & The Checkpoint",
-                            "file_path": "e003/c002/p001.md"
+                            "file_path": "e003/c002/p001.md",
+                            "url": "/apex-fall-of-earth/the-acquisition/the-second-shift/part-1-wake-up-call-the-checkpoint",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Telemetry Anomaly & The Ghost Shift",
-                            "file_path": "e003/c002/p002.md"
+                            "file_path": "e003/c002/p002.md",
+                            "url": "/apex-fall-of-earth/the-acquisition/the-second-shift/part-2-the-telemetry-anomaly-the-ghost-shift",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Blind Spot & The Sanctuary",
-                            "file_path": "e003/c002/p003.md"
+                            "file_path": "e003/c002/p003.md",
+                            "url": "/apex-fall-of-earth/the-acquisition/the-second-shift/part-3-the-blind-spot-the-sanctuary",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Off the Clock & Return to The Sanctuary",
-                            "file_path": "e003/c002/p004.md"
+                            "file_path": "e003/c002/p004.md",
+                            "url": "/apex-fall-of-earth/the-acquisition/the-second-shift/part-4-off-the-clock-return-to-the-sanctuary",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -117,26 +145,35 @@
                     "chap_num": 3,
                     "chap_title": "Day Three",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition/day-three",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Illusion of Control & The Echo",
-                            "file_path": "e003/c003/p001.md"
+                            "file_path": "e003/c003/p001.md",
+                            "url": "/apex-fall-of-earth/the-acquisition/day-three/part-1-the-illusion-of-control-the-echo",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Bleeding Bedrock & Clear Parameters",
-                            "file_path": "e003/c003/p002.md"
+                            "file_path": "e003/c003/p002.md",
+                            "url": "/apex-fall-of-earth/the-acquisition/day-three/part-2-the-bleeding-bedrock-clear-parameters",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Masterclass & The Prison Break",
-                            "file_path": "e003/c003/p003.md"
+                            "file_path": "e003/c003/p003.md",
+                            "url": "/apex-fall-of-earth/the-acquisition/day-three/part-3-the-masterclass-the-prison-break",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Fallen Hierarchy",
-                            "file_path": "e003/c003/p004.md"
+                            "file_path": "e003/c003/p004.md",
+                            "url": "/apex-fall-of-earth/the-acquisition/day-three/part-4-the-fallen-hierarchy",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -144,16 +181,21 @@
                     "chap_num": 4,
                     "chap_title": "Day Four",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition/day-four",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Structural Failure & The Transit",
-                            "file_path": "e003/c004/p001.md"
+                            "file_path": "e003/c004/p001.md",
+                            "url": "/apex-fall-of-earth/the-acquisition/day-four/part-1-structural-failure-the-transit",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Relic & The Captain's Quarters",
-                            "file_path": "e003/c004/p002.md"
+                            "file_path": "e003/c004/p002.md",
+                            "url": "/apex-fall-of-earth/the-acquisition/day-four/part-2-the-relic-the-captain-s-quarters",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -163,16 +205,20 @@
             "era_num": 4,
             "era_title": "Analogue Ghosts",
             "era_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Delta Niner",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/delta-niner",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Blinking Clock & The Broadcast",
-                            "file_path": "e004/c001/p001.md"
+                            "file_path": "e004/c001/p001.md",
+                            "url": "/apex-fall-of-earth/analogue-ghosts/delta-niner/the-blinking-clock-the-broadcast",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -180,11 +226,14 @@
                     "chap_num": 2,
                     "chap_title": "The Lungs of the Station",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-lungs-of-the-station",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Hydroponics Bay & The Expanding Fracture",
-                            "file_path": "e004/c002/p001.md"
+                            "file_path": "e004/c002/p001.md",
+                            "url": "/apex-fall-of-earth/analogue-ghosts/the-lungs-of-the-station/the-hydroponics-bay-the-expanding-fracture",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -192,16 +241,21 @@
                     "chap_num": 3,
                     "chap_title": "The Boiler Room",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-boiler-room",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Descent & The Acceleration",
-                            "file_path": "e004/c003/p001.md"
+                            "file_path": "e004/c003/p001.md",
+                            "url": "/apex-fall-of-earth/analogue-ghosts/the-boiler-room/part-1-the-descent-the-acceleration",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Scorched Earth",
-                            "file_path": "e004/c003/p002.md"
+                            "file_path": "e004/c003/p002.md",
+                            "url": "/apex-fall-of-earth/analogue-ghosts/the-boiler-room/part-2-scorched-earth",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -209,16 +263,21 @@
                     "chap_num": 4,
                     "chap_title": "The Glass Wall",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-glass-wall",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: An Attempt at Normalcy & The Ghost Ship",
-                            "file_path": "e004/c004/p001.md"
+                            "file_path": "e004/c004/p001.md",
+                            "url": "/apex-fall-of-earth/analogue-ghosts/the-glass-wall/part-1-an-attempt-at-normalcy-the-ghost-ship",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Void & The Ghost Awakens",
-                            "file_path": "e004/c004/p002.md"
+                            "file_path": "e004/c004/p002.md",
+                            "url": "/apex-fall-of-earth/analogue-ghosts/the-glass-wall/part-2-the-void-the-ghost-awakens",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -226,16 +285,21 @@
                     "chap_num": 5,
                     "chap_title": "The Nomad",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-nomad",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Vector to Nowhere & The Billionaire\u2019s Secrets",
-                            "file_path": "e004/c005/p001.md"
+                            "file_path": "e004/c005/p001.md",
+                            "url": "/apex-fall-of-earth/analogue-ghosts/the-nomad/part-1-a-vector-to-nowhere-the-billionaire-s-secrets",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The 2044 Reveal & The Blank Slate",
-                            "file_path": "e004/c005/p002.md"
+                            "file_path": "e004/c005/p002.md",
+                            "url": "/apex-fall-of-earth/analogue-ghosts/the-nomad/part-2-the-2044-reveal-the-blank-slate",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -243,16 +307,21 @@
                     "chap_num": 6,
                     "chap_title": "The Frontier",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-frontier",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Coordinates & The Interstellar Road Trip",
-                            "file_path": "e004/c006/p001.md"
+                            "file_path": "e004/c006/p001.md",
+                            "url": "/apex-fall-of-earth/analogue-ghosts/the-frontier/part-1-the-coordinates-the-interstellar-road-trip",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Algorithm's Gift & The Backlog",
-                            "file_path": "e004/c006/p002.md"
+                            "file_path": "e004/c006/p002.md",
+                            "url": "/apex-fall-of-earth/analogue-ghosts/the-frontier/part-2-the-algorithm-s-gift-the-backlog",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -262,31 +331,41 @@
             "era_num": 5,
             "era_title": "The Sanctuary",
             "era_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Planetfall",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/planetfall",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Atmospheric Entry & The First Steps",
-                            "file_path": "e005/c001/p001.md"
+                            "file_path": "e005/c001/p001.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/planetfall/part-1-atmospheric-entry-the-first-steps",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Solar Bloom & The True Face of Apex",
-                            "file_path": "e005/c001/p002.md"
+                            "file_path": "e005/c001/p002.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/planetfall/part-2-the-solar-bloom-the-true-face-of-apex",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Ghost Protocol & The Blind Sweep",
-                            "file_path": "e005/c001/p003.md"
+                            "file_path": "e005/c001/p003.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/planetfall/part-3-the-ghost-protocol-the-blind-sweep",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Vow & Under the Stars",
-                            "file_path": "e005/c001/p004.md"
+                            "file_path": "e005/c001/p004.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/planetfall/part-4-the-vow-under-the-stars",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -294,16 +373,21 @@
                     "chap_num": 2,
                     "chap_title": "The First Morning",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-first-morning",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The River & The First Harvest",
-                            "file_path": "e005/c002/p001.md"
+                            "file_path": "e005/c002/p001.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/the-first-morning/part-1-the-river-the-first-harvest",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Bait & The Eden Rule",
-                            "file_path": "e005/c002/p002.md"
+                            "file_path": "e005/c002/p002.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/the-first-morning/part-2-the-bait-the-eden-rule",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -311,21 +395,28 @@
                     "chap_num": 3,
                     "chap_title": "The High Ground",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-high-ground",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Floodplain & The Winter Window",
-                            "file_path": "e005/c003/p001.md"
+                            "file_path": "e005/c003/p001.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/the-high-ground/part-1-the-floodplain-the-winter-window",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Genesis Vault & The Curriculum",
-                            "file_path": "e005/c003/p002.md"
+                            "file_path": "e005/c003/p002.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/the-high-ground/part-2-the-genesis-vault-the-curriculum",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Saltwater Oasis",
-                            "file_path": "e005/c003/p003.md"
+                            "file_path": "e005/c003/p003.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/the-high-ground/part-3-the-saltwater-oasis",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -333,26 +424,35 @@
                     "chap_num": 4,
                     "chap_title": "The Architects",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-architects",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The First Semester & The Earth Conservatory",
-                            "file_path": "e005/c004/p001.md"
+                            "file_path": "e005/c004/p001.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/the-architects/part-1-the-first-semester-the-earth-conservatory",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Ark & Biology 101",
-                            "file_path": "e005/c004/p002.md"
+                            "file_path": "e005/c004/p002.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/the-architects/part-2-the-ark-biology-101",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Vitality Roster & The First Generation",
-                            "file_path": "e005/c004/p003.md"
+                            "file_path": "e005/c004/p003.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/the-architects/part-3-the-vitality-roster-the-first-generation",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The First Landing & The Parent Protocol",
-                            "file_path": "e005/c004/p004.md"
+                            "file_path": "e005/c004/p004.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/the-architects/part-4-the-first-landing-the-parent-protocol",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -360,21 +460,28 @@
                     "chap_num": 5,
                     "chap_title": "The Pioneers",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-pioneers",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Upgrade & The Husk",
-                            "file_path": "e005/c005/p001.md"
+                            "file_path": "e005/c005/p001.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/the-pioneers/part-1-the-upgrade-the-husk",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Lost Time & The Mapmakers",
-                            "file_path": "e005/c005/p002.md"
+                            "file_path": "e005/c005/p002.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/the-pioneers/part-2-the-lost-time-the-mapmakers",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Helios System Hologram & The Runabout",
-                            "file_path": "e005/c005/p003.md"
+                            "file_path": "e005/c005/p003.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/the-pioneers/part-3-helios-system-hologram-the-runabout",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -382,26 +489,35 @@
                     "chap_num": 6,
                     "chap_title": "Planet Eden",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/planet-eden",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Maiden Voyage & The Alpine Meadow",
-                            "file_path": "e005/c006/p001.md"
+                            "file_path": "e005/c006/p001.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/planet-eden/part-1-the-maiden-voyage-the-alpine-meadow",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Anchor & The Reading List",
-                            "file_path": "e005/c006/p002.md"
+                            "file_path": "e005/c006/p002.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/planet-eden/part-2-anchor-the-reading-list",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The 2002 Fiction & Sowing the Seeds",
-                            "file_path": "e005/c006/p003.md"
+                            "file_path": "e005/c006/p003.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/planet-eden/part-3-the-2002-fiction-sowing-the-seeds",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Architect & The Overcompensation",
-                            "file_path": "e005/c006/p004.md"
+                            "file_path": "e005/c006/p004.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/planet-eden/part-4-the-architect-the-overcompensation",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -409,31 +525,42 @@
                     "chap_num": 7,
                     "chap_title": "The Blueprint",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-blueprint",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Three Pulses & The Multiplier",
-                            "file_path": "e005/c007/p001.md"
+                            "file_path": "e005/c007/p001.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/the-blueprint/part-1-three-pulses-the-multiplier",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Tax Evasion and Timber & The Constitution",
-                            "file_path": "e005/c007/p002.md"
+                            "file_path": "e005/c007/p002.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/the-blueprint/part-2-tax-evasion-and-timber-the-constitution",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Agrarian Model & The Toll of Three",
-                            "file_path": "e005/c007/p003.md"
+                            "file_path": "e005/c007/p003.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/the-blueprint/part-3-the-agrarian-model-the-toll-of-three",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Remedy & The Craving",
-                            "file_path": "e005/c007/p004.md"
+                            "file_path": "e005/c007/p004.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/the-blueprint/part-4-the-remedy-the-craving",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: The Foundation",
-                            "file_path": "e005/c007/p005.md"
+                            "file_path": "e005/c007/p005.md",
+                            "url": "/apex-fall-of-earth/the-sanctuary/the-blueprint/part-5-the-foundation",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -443,26 +570,34 @@
             "era_num": 6,
             "era_title": "The First Generation",
             "era_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Architect",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-architect",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Tolerances of Eden & The Ghost of Eden",
-                            "file_path": "e006/c001/p001.md"
+                            "file_path": "e006/c001/p001.md",
+                            "url": "/apex-fall-of-earth/the-first-generation/the-architect/part-1-the-tolerances-of-eden-the-ghost-of-eden",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Dead Rock & The Aegis Hallucination",
-                            "file_path": "e006/c001/p002.md"
+                            "file_path": "e006/c001/p002.md",
+                            "url": "/apex-fall-of-earth/the-first-generation/the-architect/part-2-the-dead-rock-the-aegis-hallucination",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Administrative Override & Cosmic Dust",
-                            "file_path": "e006/c001/p003.md"
+                            "file_path": "e006/c001/p003.md",
+                            "url": "/apex-fall-of-earth/the-first-generation/the-architect/part-3-the-administrative-override-cosmic-dust",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -470,21 +605,28 @@
                     "chap_num": 2,
                     "chap_title": "The Arrival",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-arrival",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Gravity of Eden & The Lion's Fight",
-                            "file_path": "e006/c002/p001.md"
+                            "file_path": "e006/c002/p001.md",
+                            "url": "/apex-fall-of-earth/the-first-generation/the-arrival/part-1-the-gravity-of-eden-the-lion-s-fight",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Incubator Watch & The Annoyance",
-                            "file_path": "e006/c002/p002.md"
+                            "file_path": "e006/c002/p002.md",
+                            "url": "/apex-fall-of-earth/the-first-generation/the-arrival/part-2-the-incubator-watch-the-annoyance",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Engine Block",
-                            "file_path": "e006/c002/p003.md"
+                            "file_path": "e006/c002/p003.md",
+                            "url": "/apex-fall-of-earth/the-first-generation/the-arrival/part-3-the-engine-block",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -492,16 +634,21 @@
                     "chap_num": 3,
                     "chap_title": "The Blueprint Fails",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-blueprint-fails",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Flaw in the Wood & The Gravity of the Hive",
-                            "file_path": "e006/c003/p001.md"
+                            "file_path": "e006/c003/p001.md",
+                            "url": "/apex-fall-of-earth/the-first-generation/the-blueprint-fails/part-1-the-flaw-in-the-wood-the-gravity-of-the-hive",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Sentinel Directive & The Soup Kitchen",
-                            "file_path": "e006/c003/p002.md"
+                            "file_path": "e006/c003/p002.md",
+                            "url": "/apex-fall-of-earth/the-first-generation/the-blueprint-fails/part-2-the-sentinel-directive-the-soup-kitchen",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -509,16 +656,21 @@
                     "chap_num": 4,
                     "chap_title": "The Vanguard Discovers Gravity",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-vanguard-discovers-gravity",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Rule of Three & The Milestones",
-                            "file_path": "e006/c004/p001.md"
+                            "file_path": "e006/c004/p001.md",
+                            "url": "/apex-fall-of-earth/the-first-generation/the-vanguard-discovers-gravity/part-1-the-rule-of-three-the-milestones",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Chariot & Establishing Comms",
-                            "file_path": "e006/c004/p002.md"
+                            "file_path": "e006/c004/p002.md",
+                            "url": "/apex-fall-of-earth/the-first-generation/the-vanguard-discovers-gravity/part-2-the-chariot-establishing-comms",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -526,16 +678,21 @@
                     "chap_num": 5,
                     "chap_title": "The Chain of Command",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-chain-of-command",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The New Recruit & The Tactical Latrine",
-                            "file_path": "e006/c005/p001.md"
+                            "file_path": "e006/c005/p001.md",
+                            "url": "/apex-fall-of-earth/the-first-generation/the-chain-of-command/part-1-the-new-recruit-the-tactical-latrine",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Defensive Perimeter & The Genesis Check",
-                            "file_path": "e006/c005/p002.md"
+                            "file_path": "e006/c005/p002.md",
+                            "url": "/apex-fall-of-earth/the-first-generation/the-chain-of-command/part-2-the-defensive-perimeter-the-genesis-check",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -543,21 +700,28 @@
                     "chap_num": 6,
                     "chap_title": "The Rapid Deployment",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-rapid-deployment",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Accelerated Recruit & The Multi-Front War",
-                            "file_path": "e006/c006/p001.md"
+                            "file_path": "e006/c006/p001.md",
+                            "url": "/apex-fall-of-earth/the-first-generation/the-rapid-deployment/part-1-the-accelerated-recruit-the-multi-front-war",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Ghost Planet & The Authorized Harvest",
-                            "file_path": "e006/c006/p002.md"
+                            "file_path": "e006/c006/p002.md",
+                            "url": "/apex-fall-of-earth/the-first-generation/the-rapid-deployment/part-2-the-ghost-planet-the-authorized-harvest",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Constitutional Override & The Perimeter Test",
-                            "file_path": "e006/c006/p003.md"
+                            "file_path": "e006/c006/p003.md",
+                            "url": "/apex-fall-of-earth/the-first-generation/the-rapid-deployment/part-3-the-constitutional-override-the-perimeter-test",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -567,26 +731,34 @@
             "era_num": 7,
             "era_title": "The Fall of Apex",
             "era_url": "/raggiesoft-books/books/apex-fall-of-earth/the-fall-of-apex",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Checkmate",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-fall-of-apex/checkmate",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Sovereign\u2019s Hubris & The Extraction",
-                            "file_path": "e007/c001/p001.md"
+                            "file_path": "e007/c001/p001.md",
+                            "url": "/apex-fall-of-earth/the-fall-of-apex/checkmate/part-1-the-sovereign-s-hubris-the-extraction",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Laws of War & The Interrogation",
-                            "file_path": "e007/c001/p002.md"
+                            "file_path": "e007/c001/p002.md",
+                            "url": "/apex-fall-of-earth/the-fall-of-apex/checkmate/part-2-the-laws-of-war-the-interrogation",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Handover & The Classified Intel",
-                            "file_path": "e007/c001/p003.md"
+                            "file_path": "e007/c001/p003.md",
+                            "url": "/apex-fall-of-earth/the-fall-of-apex/checkmate/part-3-the-handover-the-classified-intel",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -594,16 +766,21 @@
                     "chap_num": 2,
                     "chap_title": "The Trial of the Century",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-fall-of-apex/the-trial-of-the-century",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Government-in-Exile & The Fab-Foundry Apprentice",
-                            "file_path": "e007/c002/p001.md"
+                            "file_path": "e007/c002/p001.md",
+                            "url": "/apex-fall-of-earth/the-fall-of-apex/the-trial-of-the-century/part-1-the-government-in-exile-the-fab-foundry-apprentice",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Verdict and the Vault & The Sentinel Treaty",
-                            "file_path": "e007/c002/p002.md"
+                            "file_path": "e007/c002/p002.md",
+                            "url": "/apex-fall-of-earth/the-fall-of-apex/the-trial-of-the-century/part-2-the-verdict-and-the-vault-the-sentinel-treaty",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -611,11 +788,14 @@
                     "chap_num": 3,
                     "chap_title": "The Architects of Eden",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-fall-of-apex/the-architects-of-eden",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Healing Room & The History Lesson",
-                            "file_path": "e007/c003/p001.md"
+                            "file_path": "e007/c003/p001.md",
+                            "url": "/apex-fall-of-earth/the-fall-of-apex/the-architects-of-eden/the-healing-room-the-history-lesson",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -625,21 +805,27 @@
             "era_num": 8,
             "era_title": "The Growing World",
             "era_url": "/raggiesoft-books/books/apex-fall-of-earth/the-growing-world",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Final Roster",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-growing-world/the-final-roster",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Pattern Disruption & The Archives of Earth",
-                            "file_path": "e008/c001/p001.md"
+                            "file_path": "e008/c001/p001.md",
+                            "url": "/apex-fall-of-earth/the-growing-world/the-final-roster/part-1-the-pattern-disruption-the-archives-of-earth",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Fleet Upgrade & The Enforcers",
-                            "file_path": "e008/c001/p002.md"
+                            "file_path": "e008/c001/p002.md",
+                            "url": "/apex-fall-of-earth/the-growing-world/the-final-roster/part-2-the-fleet-upgrade-the-enforcers",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -647,21 +833,28 @@
                     "chap_num": 2,
                     "chap_title": "The Foundations of Genesis",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-growing-world/the-foundations-of-genesis",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Expanded Jurisdiction & The Biological Override",
-                            "file_path": "e008/c002/p001.md"
+                            "file_path": "e008/c002/p001.md",
+                            "url": "/apex-fall-of-earth/the-growing-world/the-foundations-of-genesis/part-1-the-expanded-jurisdiction-the-biological-override",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Anomalous Data & The First Ten",
-                            "file_path": "e008/c002/p002.md"
+                            "file_path": "e008/c002/p002.md",
+                            "url": "/apex-fall-of-earth/the-growing-world/the-foundations-of-genesis/part-2-the-anomalous-data-the-first-ten",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Sydney Protocol",
-                            "file_path": "e008/c002/p003.md"
+                            "file_path": "e008/c002/p003.md",
+                            "url": "/apex-fall-of-earth/the-growing-world/the-foundations-of-genesis/part-3-the-sydney-protocol",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -669,16 +862,21 @@
                     "chap_num": 3,
                     "chap_title": "The Awakening",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-growing-world/the-awakening",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The First Breath & The Gestation Protocol",
-                            "file_path": "e008/c003/p001.md"
+                            "file_path": "e008/c003/p001.md",
+                            "url": "/apex-fall-of-earth/the-growing-world/the-awakening/part-1-the-first-breath-the-gestation-protocol",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Arrival Day & The Nursery Logistics",
-                            "file_path": "e008/c003/p002.md"
+                            "file_path": "e008/c003/p002.md",
+                            "url": "/apex-fall-of-earth/the-growing-world/the-awakening/part-2-arrival-day-the-nursery-logistics",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -688,21 +886,27 @@
             "era_num": 9,
             "era_title": "The Village of Genesis",
             "era_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Second Wave",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/the-second-wave",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Expanding Perimeter & The Commander\u2019s Blessing",
-                            "file_path": "e009/c001/p001.md"
+                            "file_path": "e009/c001/p001.md",
+                            "url": "/apex-fall-of-earth/the-village-of-genesis/the-second-wave/part-1-the-expanding-perimeter-the-commander-s-blessing",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Lunar Embassy & Breaking Ground",
-                            "file_path": "e009/c001/p002.md"
+                            "file_path": "e009/c001/p002.md",
+                            "url": "/apex-fall-of-earth/the-village-of-genesis/the-second-wave/part-2-the-lunar-embassy-breaking-ground",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -710,11 +914,14 @@
                     "chap_num": 2,
                     "chap_title": "Jack \u2013 The Lunar Embassy",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/jack-the-lunar-embassy",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Fleet Girl & The Newport Fifty",
-                            "file_path": "e009/c002/p001.md"
+                            "file_path": "e009/c002/p001.md",
+                            "url": "/apex-fall-of-earth/the-village-of-genesis/jack-the-lunar-embassy/the-fleet-girl-the-newport-fifty",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -722,11 +929,14 @@
                     "chap_num": 3,
                     "chap_title": "The Refugee",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/the-refugee",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Great Chowder Rebellion & The Golden Cage",
-                            "file_path": "e009/c003/p001.md"
+                            "file_path": "e009/c003/p001.md",
+                            "url": "/apex-fall-of-earth/the-village-of-genesis/the-refugee/the-great-chowder-rebellion-the-golden-cage",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -734,21 +944,28 @@
                     "chap_num": 4,
                     "chap_title": "The Asylum",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/the-asylum",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Scavenger's Tale & The Village Square",
-                            "file_path": "e009/c004/p001.md"
+                            "file_path": "e009/c004/p001.md",
+                            "url": "/apex-fall-of-earth/the-village-of-genesis/the-asylum/part-1-the-scavenger-s-tale-the-village-square",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Collection Agency & The Extraction of Toxicity",
-                            "file_path": "e009/c004/p002.md"
+                            "file_path": "e009/c004/p002.md",
+                            "url": "/apex-fall-of-earth/the-village-of-genesis/the-asylum/part-2-the-collection-agency-the-extraction-of-toxicity",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Detox & The Filter",
-                            "file_path": "e009/c004/p003.md"
+                            "file_path": "e009/c004/p003.md",
+                            "url": "/apex-fall-of-earth/the-village-of-genesis/the-asylum/part-3-the-detox-the-filter",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -756,16 +973,21 @@
                     "chap_num": 5,
                     "chap_title": "Leo \u2013 The Overseer",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/leo-the-overseer",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Geometry of Peace & The Shenandoah Curve",
-                            "file_path": "e009/c005/p001.md"
+                            "file_path": "e009/c005/p001.md",
+                            "url": "/apex-fall-of-earth/the-village-of-genesis/leo-the-overseer/part-1-the-geometry-of-peace-the-shenandoah-curve",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Stewards",
-                            "file_path": "e009/c005/p002.md"
+                            "file_path": "e009/c005/p002.md",
+                            "url": "/apex-fall-of-earth/the-village-of-genesis/leo-the-overseer/part-2-the-stewards",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -773,11 +995,14 @@
                     "chap_num": 6,
                     "chap_title": "Wyatt \u2013 The Founders",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/wyatt-the-founders",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Watch & The Age of Majority",
-                            "file_path": "e009/c006/p001.md"
+                            "file_path": "e009/c006/p001.md",
+                            "url": "/apex-fall-of-earth/the-village-of-genesis/wyatt-the-founders/the-watch-the-age-of-majority",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -785,11 +1010,14 @@
                     "chap_num": 7,
                     "chap_title": "Leo \u2013 The Wilderness",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/leo-the-wilderness",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Logistics of the Wild & The Sydney Echo",
-                            "file_path": "e009/c007/p001.md"
+                            "file_path": "e009/c007/p001.md",
+                            "url": "/apex-fall-of-earth/the-village-of-genesis/leo-the-wilderness/the-logistics-of-the-wild-the-sydney-echo",
+                            "location": "Unknown"
                         }
                     ]
                 }

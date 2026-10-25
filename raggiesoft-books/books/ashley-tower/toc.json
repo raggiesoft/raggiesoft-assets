@@ -15,21 +15,28 @@
         "text_epub_bytes": 84495,
         "text_pdf_bytes": 241676
     },
+    "illustration_count": 0,
     "eras": [
         {
             "era_num": 1,
             "era_title": "Book 1: The Ascent",
             "era_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Gathering Storm \u2013 Tuesday, February 9, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-1-the-gathering-storm-tuesday-february-9-2021",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Best Laid Plans \u2013 7:30 PM & The Ten O'Clock News \u2013 10:00 PM",
-                            "file_path": "e001/c001/p001.md"
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/ashley-tower/book-1-the-ascent/chapter-1-the-gathering-storm-tuesday-february-9-2021/best-laid-plans-7-30-pm-the-ten-o-clock-news-10-00-pm",
+                            "date": "2021-02-09",
+                            "start_time": "19:30",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -37,11 +44,16 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Routine \u2013 Wednesday, February 10, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-2-the-routine-wednesday-february-10-2021",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Departure \u2013 7:00 AM & The Inventory \u2013 6:30 PM",
-                            "file_path": "e001/c002/p001.md"
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/ashley-tower/book-1-the-ascent/chapter-2-the-routine-wednesday-february-10-2021/the-departure-7-00-am-the-inventory-6-30-pm",
+                            "date": "2021-02-10",
+                            "start_time": "07:00",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -49,11 +61,16 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Ice \u2013 Thursday, February 11, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-3-the-ice-thursday-february-11-2021",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Video Link \u2013 7:00 AM",
-                            "file_path": "e001/c003/p001.md"
+                            "file_path": "e001/c003/p001.md",
+                            "url": "/ashley-tower/book-1-the-ascent/chapter-3-the-ice-thursday-february-11-2021/the-video-link-7-00-am",
+                            "date": "2021-02-11",
+                            "start_time": "07:00",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -61,11 +78,16 @@
                     "chap_num": 4,
                     "chap_title": "Chapter 4: Landing at TKI \u2013 Friday, February 12, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-4-landing-at-tki-friday-february-12-2021",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Interlude: The Vanguard Lands \u2013 10:15 AM",
-                            "file_path": "e001/c004/p001.md"
+                            "file_path": "e001/c004/p001.md",
+                            "url": "/ashley-tower/book-1-the-ascent/chapter-4-landing-at-tki-friday-february-12-2021/interlude-the-vanguard-lands-10-15-am",
+                            "date": "2021-02-12",
+                            "start_time": "10:15",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -73,11 +95,16 @@
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Deep Freeze \u2013 Saturday, February 13, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-5-the-deep-freeze-saturday-february-13-2021",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Agony of Proximity \u2013 8:30 AM",
-                            "file_path": "e001/c005/p001.md"
+                            "file_path": "e001/c005/p001.md",
+                            "url": "/ashley-tower/book-1-the-ascent/chapter-5-the-deep-freeze-saturday-february-13-2021/the-agony-of-proximity-8-30-am",
+                            "date": "2021-02-13",
+                            "start_time": "08:30",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -85,11 +112,16 @@
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Gridline \u2013 Sunday, February 14, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-6-the-gridline-sunday-february-14-2021",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Gentlemen Only \u2013 6:45 PM",
-                            "file_path": "e001/c006/p001.md"
+                            "file_path": "e001/c006/p001.md",
+                            "url": "/ashley-tower/book-1-the-ascent/chapter-6-the-gridline-sunday-february-14-2021/gentlemen-only-6-45-pm",
+                            "date": "2021-02-14",
+                            "start_time": "18:45",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -97,16 +129,25 @@
                     "chap_num": 7,
                     "chap_title": "Chapter 7: The Severance \u2013 Monday, February 15, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-7-the-severance-monday-february-15-2021",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Going Dark \u2013 1:20 AM & The Deep Freeze \u2013 10:30 AM",
-                            "file_path": "e001/c007/p001.md"
+                            "file_path": "e001/c007/p001.md",
+                            "url": "/ashley-tower/book-1-the-ascent/chapter-7-the-severance-monday-february-15-2021/part-1-going-dark-1-20-am-the-deep-freeze-10-30-am",
+                            "date": "2021-02-15",
+                            "start_time": "01:20",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Long Night \u2013 5:15 PM",
-                            "file_path": "e001/c007/p002.md"
+                            "file_path": "e001/c007/p002.md",
+                            "url": "/ashley-tower/book-1-the-ascent/chapter-7-the-severance-monday-february-15-2021/part-2-the-long-night-5-15-pm",
+                            "date": "2021-02-15",
+                            "start_time": "17:15",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -114,16 +155,24 @@
                     "chap_num": 8,
                     "chap_title": "Chapter 8: Midnight \u2013 Tuesday, February 16, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-8-midnight-tuesday-february-16-2021",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Birthday \u2013 3:15 AM & Morning Light \u2013 7:15 AM",
-                            "file_path": "e001/c008/p001.md"
+                            "file_path": "e001/c008/p001.md",
+                            "url": "/ashley-tower/book-1-the-ascent/chapter-8-midnight-tuesday-february-16-2021/part-1-the-birthday-3-15-am-morning-light-7-15-am",
+                            "date": "2021-02-16",
+                            "start_time": "03:15",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Siege & The Current Loop",
-                            "file_path": "e001/c008/p002.md"
+                            "file_path": "e001/c008/p002.md",
+                            "url": "/ashley-tower/book-1-the-ascent/chapter-8-midnight-tuesday-february-16-2021/part-2-the-siege-the-current-loop",
+                            "date": "2021-02-16",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -131,11 +180,16 @@
                     "chap_num": 9,
                     "chap_title": "Chapter 9: The Breach \u2013 Thursday, February 18, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-9-the-breach-thursday-february-18-2021",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Arrival \u2013 8:15 AM & Sanctuary \u2013 9:30 AM",
-                            "file_path": "e001/c009/p001.md"
+                            "file_path": "e001/c009/p001.md",
+                            "url": "/ashley-tower/book-1-the-ascent/chapter-9-the-breach-thursday-february-18-2021/the-arrival-8-15-am-sanctuary-9-30-am",
+                            "date": "2021-02-18",
+                            "start_time": "08:15",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -145,26 +199,40 @@
             "era_num": 2,
             "era_title": "Book 2: The Sterling Inheritance",
             "era_url": "/raggiesoft-books/books/ashley-tower/book-2-the-sterling-inheritance",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Longest Mile \u2013 Saturday, February 20, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-2-the-sterling-inheritance/chapter-1-the-longest-mile-saturday-february-20-2021",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Arrival at EBF \u2013 10:45 AM & The Hearth \u2013 12:28 PM",
-                            "file_path": "e002/c001/p001.md"
+                            "file_path": "e002/c001/p001.md",
+                            "url": "/ashley-tower/book-2-the-sterling-inheritance/chapter-1-the-longest-mile-saturday-february-20-2021/part-1-arrival-at-ebf-10-45-am-the-hearth-12-28-pm",
+                            "date": "2021-02-20",
+                            "start_time": "10:45",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Architect of the Transition & The Inheritance",
-                            "file_path": "e002/c001/p002.md"
+                            "file_path": "e002/c001/p002.md",
+                            "url": "/ashley-tower/book-2-the-sterling-inheritance/chapter-1-the-longest-mile-saturday-february-20-2021/part-2-the-architect-of-the-transition-the-inheritance",
+                            "date": "2021-02-20",
+                            "start_time": "13:15",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Legacy Boardroom \u2013 6:30 PM & The Town Square \u2013 7:15 PM",
-                            "file_path": "e002/c001/p003.md"
+                            "file_path": "e002/c001/p003.md",
+                            "url": "/ashley-tower/book-2-the-sterling-inheritance/chapter-1-the-longest-mile-saturday-february-20-2021/part-3-the-legacy-boardroom-6-30-pm-the-town-square-7-15-pm",
+                            "date": "2021-02-20",
+                            "start_time": "18:30",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -172,11 +240,16 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Sunday Morning Choice \u2013 Sunday, February 21, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-2-the-sterling-inheritance/chapter-2-the-sunday-morning-choice-sunday-february-21-2021",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Water Walls \u2013 7:00 AM",
-                            "file_path": "e002/c002/p001.md"
+                            "file_path": "e002/c002/p001.md",
+                            "url": "/ashley-tower/book-2-the-sterling-inheritance/chapter-2-the-sunday-morning-choice-sunday-february-21-2021/the-water-walls-7-00-am",
+                            "date": "2021-02-22",
+                            "start_time": "08:15",
+                            "location": "Unknown"
                         }
                     ]
                 }

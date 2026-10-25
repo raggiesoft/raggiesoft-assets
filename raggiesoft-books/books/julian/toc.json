@@ -15,21 +15,28 @@
         "text_epub_bytes": 169681,
         "text_pdf_bytes": 482428
     },
+    "illustration_count": 0,
     "eras": [
         {
             "era_num": 1,
             "era_title": "Era 1: The Winter Palace & The Breach (Spring \u2013 December 1996)",
             "era_url": "/raggiesoft-books/books/julian/era-1-the-winter-palace-the-breach-spring-december-1996",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Foreign Language",
                     "chap_url": "/raggiesoft-books/books/julian/era-1-the-winter-palace-the-breach-spring-december-1996/foreign-language",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The 8th Grade IEP Meeting",
-                            "file_path": "e001/c001/p001.md"
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/julian/era-1-the-winter-palace-the-breach-spring-december-1996/foreign-language/the-8th-grade-iep-meeting",
+                            "date": "1996-04-17",
+                            "start_time": "14:00",
+                            "location": "Main Conference Room, Berkeley Middle School, Williamsburg, Virginia"
                         }
                     ]
                 },
@@ -37,11 +44,16 @@
                     "chap_num": 2,
                     "chap_title": "The Empty Frame",
                     "chap_url": "/raggiesoft-books/books/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-empty-frame",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Breach & The Garrison",
-                            "file_path": "e001/c002/p001.md"
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-empty-frame/the-breach-the-garrison",
+                            "date": "1996-12-11",
+                            "start_time": "08:00",
+                            "location": "Rowlands Residence, Ewell, James City County, Virginia"
                         }
                     ]
                 },
@@ -49,16 +61,25 @@
                     "chap_num": 3,
                     "chap_title": "The War Room",
                     "chap_url": "/raggiesoft-books/books/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-war-room",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Reinforcements & The Makeshift Orchestra",
-                            "file_path": "e001/c003/p001.md"
+                            "file_path": "e001/c003/p001.md",
+                            "url": "/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-war-room/part-1-the-reinforcements-the-makeshift-orchestra",
+                            "date": "1996-12-11",
+                            "start_time": "09:30",
+                            "location": "Rowlands Residence, Ewell, James City County, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Prayer",
-                            "file_path": "e001/c003/p002.md"
+                            "file_path": "e001/c003/p002.md",
+                            "url": "/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-war-room/part-2-the-prayer",
+                            "date": "1996-12-11",
+                            "start_time": "11:15",
+                            "location": "The Spare Music Room, Ewell, James City County, Virginia"
                         }
                     ]
                 },
@@ -66,16 +87,25 @@
                     "chap_num": 4,
                     "chap_title": "The Signal",
                     "chap_url": "/raggiesoft-books/books/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-signal",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Override & The Near Miss",
-                            "file_path": "e001/c004/p001.md"
+                            "file_path": "e001/c004/p001.md",
+                            "url": "/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-signal/part-1-the-override-the-near-miss",
+                            "date": "1996-12-11",
+                            "start_time": "11:45",
+                            "location": "Regional Broadcast Center, Hampton Roads, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Hijack & The Longest Shadow",
-                            "file_path": "e001/c004/p002.md"
+                            "file_path": "e001/c004/p002.md",
+                            "url": "/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-signal/part-2-the-hijack-the-longest-shadow",
+                            "date": "1996-12-11",
+                            "start_time": "12:20",
+                            "location": "Westbound Corridor, Hardy County, West Virginia"
                         }
                     ]
                 },
@@ -83,21 +113,34 @@
                     "chap_num": 5,
                     "chap_title": "The Ohio Line",
                     "chap_url": "/raggiesoft-books/books/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-ohio-line",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Waiting Game & The Silent Alarm",
-                            "file_path": "e001/c005/p001.md"
+                            "file_path": "e001/c005/p001.md",
+                            "url": "/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-ohio-line/part-1-the-waiting-game-the-silent-alarm",
+                            "date": "1996-12-11",
+                            "start_time": "19:00",
+                            "location": "Rowlands Residence, Ewell, James City County, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The 9-1-1 Call & The Vector",
-                            "file_path": "e001/c005/p002.md"
+                            "file_path": "e001/c005/p002.md",
+                            "url": "/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-ohio-line/part-2-the-9-1-1-call-the-vector",
+                            "date": "1996-12-11",
+                            "start_time": "19:18",
+                            "location": "Independent Gas Station & Mini-Mart, US Route 50, Athens County, Ohio"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Wall & The Anchor",
-                            "file_path": "e001/c005/p003.md"
+                            "file_path": "e001/c005/p003.md",
+                            "url": "/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-ohio-line/part-3-the-wall-the-anchor",
+                            "date": "1996-12-11",
+                            "start_time": "20:15",
+                            "location": "Sunday Creek Bridge, High Street & Main Street, Glouster, Ohio"
                         }
                     ]
                 },
@@ -105,21 +148,34 @@
                     "chap_num": 6,
                     "chap_title": "The Long Dark",
                     "chap_url": "/raggiesoft-books/books/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-long-dark",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Midnight Relay & The Red Tape",
-                            "file_path": "e001/c006/p001.md"
+                            "file_path": "e001/c006/p001.md",
+                            "url": "/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-long-dark/part-1-the-midnight-relay-the-red-tape",
+                            "date": "1996-12-12",
+                            "start_time": "00:15",
+                            "location": "Interstate 64 & US Route 50 Westbound, West Virginia to Athens, Ohio"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Trauma Room 4 & The Severed Tie",
-                            "file_path": "e001/c006/p002.md"
+                            "file_path": "e001/c006/p002.md",
+                            "url": "/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-long-dark/part-2-trauma-room-4-the-severed-tie",
+                            "date": "1996-12-12",
+                            "start_time": "08:45",
+                            "location": "Trauma Room 4, Athens County Regional Medical Center, Athens, Ohio"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Loose Ends & The Perimeter Secured",
-                            "file_path": "e001/c006/p003.md"
+                            "file_path": "e001/c006/p003.md",
+                            "url": "/julian/era-1-the-winter-palace-the-breach-spring-december-1996/the-long-dark/part-3-the-loose-ends-the-perimeter-secured",
+                            "date": "1996-12-12",
+                            "start_time": "09:30",
+                            "location": "Athens County Regional Medical Center, Athens, Ohio"
                         }
                     ]
                 }
@@ -129,21 +185,31 @@
             "era_num": 2,
             "era_title": "Era 2: The Paper Shield & The Family Mix (December 1996)",
             "era_url": "/raggiesoft-books/books/julian/era-2-the-paper-shield-the-family-mix-december-1996",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Winter Palace",
                     "chap_url": "/raggiesoft-books/books/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-winter-palace",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Echo & The Perimeter Holds",
-                            "file_path": "e002/c001/p001.md"
+                            "file_path": "e002/c001/p001.md",
+                            "url": "/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-winter-palace/part-1-the-echo-the-perimeter-holds",
+                            "date": "1996-12-14",
+                            "start_time": "14:00",
+                            "location": "Rowlands Residence, Ewell, James City County, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Blended Table & The Open Doors",
-                            "file_path": "e002/c001/p002.md"
+                            "file_path": "e002/c001/p002.md",
+                            "url": "/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-winter-palace/part-2-the-blended-table-the-open-doors",
+                            "date": "1996-12-14",
+                            "start_time": "19:00",
+                            "location": "Rowlands Residence, Ewell, James City County, Virginia"
                         }
                     ]
                 },
@@ -151,11 +217,16 @@
                     "chap_num": 2,
                     "chap_title": "The Perimeter",
                     "chap_url": "/raggiesoft-books/books/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-perimeter",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Sunday Vultures & The Safe Harbor",
-                            "file_path": "e002/c002/p001.md"
+                            "file_path": "e002/c002/p001.md",
+                            "url": "/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-perimeter/the-sunday-vultures-the-safe-harbor",
+                            "date": "1996-12-15",
+                            "start_time": "09:00",
+                            "location": "Parking Lot, Historic Bruton Parish / Williamsburg, Virginia"
                         }
                     ]
                 },
@@ -163,11 +234,16 @@
                     "chap_num": 3,
                     "chap_title": "The Paper Shield",
                     "chap_url": "/raggiesoft-books/books/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-paper-shield",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Blue Line & The Exposed Aggregate",
-                            "file_path": "e002/c003/p001.md"
+                            "file_path": "e002/c003/p001.md",
+                            "url": "/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-paper-shield/the-blue-line-the-exposed-aggregate",
+                            "date": "1996-12-16",
+                            "start_time": "07:45",
+                            "location": "Rowlands Residence, Ewell, James City County, Virginia"
                         }
                     ]
                 },
@@ -175,11 +251,16 @@
                     "chap_num": 4,
                     "chap_title": "The Playback",
                     "chap_url": "/raggiesoft-books/books/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-playback",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Playback",
-                            "file_path": "e002/c004/p001.md"
+                            "file_path": "e002/c004/p001.md",
+                            "url": "/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-playback/the-playback",
+                            "date": "1996-12-17",
+                            "start_time": "15:00",
+                            "location": "Rowlands Residence, Ewell, James City County, Virginia"
                         }
                     ]
                 },
@@ -187,16 +268,25 @@
                     "chap_num": 5,
                     "chap_title": "The Master Track",
                     "chap_url": "/raggiesoft-books/books/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-master-track",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Soundstage & The Language Barrier",
-                            "file_path": "e002/c005/p001.md"
+                            "file_path": "e002/c005/p001.md",
+                            "url": "/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-master-track/part-1-the-soundstage-the-language-barrier",
+                            "date": "1996-12-20",
+                            "start_time": "14:00",
+                            "location": "Vanguard Horizon Studios, Richmond, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Laying the Groundwork & The Night Watch",
-                            "file_path": "e002/c005/p002.md"
+                            "file_path": "e002/c005/p002.md",
+                            "url": "/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-master-track/part-2-laying-the-groundwork-the-night-watch",
+                            "date": "1996-12-20",
+                            "start_time": "15:15",
+                            "location": "Studio A, Vanguard Horizon Studios, Richmond, Virginia"
                         }
                     ]
                 },
@@ -204,16 +294,25 @@
                     "chap_num": 6,
                     "chap_title": "The Quiet R\u00e9veillon",
                     "chap_url": "/raggiesoft-books/books/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-quiet-r-veillon",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Stanstead Shipment & The Hybrid Tradition",
-                            "file_path": "e002/c006/p001.md"
+                            "file_path": "e002/c006/p001.md",
+                            "url": "/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-quiet-r-veillon/part-1-the-stanstead-shipment-the-hybrid-tradition",
+                            "date": "1996-12-24",
+                            "start_time": "18:00",
+                            "location": "Rowlands Residence, Ewell, James City County, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Family Mix",
-                            "file_path": "e002/c006/p002.md"
+                            "file_path": "e002/c006/p002.md",
+                            "url": "/julian/era-2-the-paper-shield-the-family-mix-december-1996/the-quiet-r-veillon/part-2-the-family-mix",
+                            "date": "1996-12-24",
+                            "start_time": "20:30",
+                            "location": "Rowlands Residence, Ewell, James City County, Virginia"
                         }
                     ]
                 }
@@ -223,16 +322,22 @@
             "era_num": 3,
             "era_title": "Era 3: The Mother Tongue (Spring 1997)",
             "era_url": "/raggiesoft-books/books/julian/era-3-the-mother-tongue-spring-1997",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Substitute",
                     "chap_url": "/raggiesoft-books/books/julian/era-3-the-mother-tongue-spring-1997/the-substitute",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Breach & The Transit Loop",
-                            "file_path": "e003/c001/p001.md"
+                            "file_path": "e003/c001/p001.md",
+                            "url": "/julian/era-3-the-mother-tongue-spring-1997/the-substitute/the-breach-the-transit-loop",
+                            "date": "1997-03-18",
+                            "start_time": "10:15",
+                            "location": "Room 114, Lafayette High School, Williamsburg, Virginia"
                         }
                     ]
                 }
@@ -242,21 +347,31 @@
             "era_num": 4,
             "era_title": "Era 4: The Menai Strait (August 1998)",
             "era_url": "/raggiesoft-books/books/julian/era-4-the-menai-strait-august-1998",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Outbound",
                     "chap_url": "/raggiesoft-books/books/julian/era-4-the-menai-strait-august-1998/outbound",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The I-64 Corridor & The Ascent",
-                            "file_path": "e004/c001/p001.md"
+                            "file_path": "e004/c001/p001.md",
+                            "url": "/julian/era-4-the-menai-strait-august-1998/outbound/part-1-the-i-64-corridor-the-ascent",
+                            "date": "1998-08-02",
+                            "start_time": "10:00",
+                            "location": "Interstate 64 Westbound to Richmond International Airport, Virginia"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Hub & The Red-Eye",
-                            "file_path": "e004/c001/p002.md"
+                            "file_path": "e004/c001/p002.md",
+                            "url": "/julian/era-4-the-menai-strait-august-1998/outbound/part-2-the-hub-the-red-eye",
+                            "date": "1998-08-02",
+                            "start_time": "13:00",
+                            "location": "International Departures Terminal, John F. Kennedy International Airport, New York"
                         }
                     ]
                 },
@@ -264,16 +379,25 @@
                     "chap_num": 2,
                     "chap_title": "The Red Cave",
                     "chap_url": "/raggiesoft-books/books/julian/era-4-the-menai-strait-august-1998/the-red-cave",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Terminator Line & The Commuter Hop",
-                            "file_path": "e004/c002/p001.md"
+                            "file_path": "e004/c002/p001.md",
+                            "url": "/julian/era-4-the-menai-strait-august-1998/the-red-cave/part-1-the-terminator-line-the-commuter-hop",
+                            "date": "1998-08-03",
+                            "start_time": "07:00",
+                            "location": "Final Descent into Manchester Airport, England, United Kingdom"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Coastal Line & The Time Shift",
-                            "file_path": "e004/c002/p002.md"
+                            "file_path": "e004/c002/p002.md",
+                            "url": "/julian/era-4-the-menai-strait-august-1998/the-red-cave/part-2-the-coastal-line-the-time-shift",
+                            "date": "1998-08-03",
+                            "start_time": "08:50",
+                            "location": "North Wales Coast Line, Crewe across the Menai Strait to Llanfairpwllgwyngyll, Anglesey, Wales"
                         }
                     ]
                 }
@@ -283,16 +407,22 @@
             "era_num": 5,
             "era_title": "Era 5: The Solstice Symphony (January 2007)",
             "era_url": "/raggiesoft-books/books/julian/era-5-the-solstice-symphony-january-2007",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Liberation of a Winter's Night",
                     "chap_url": "/raggiesoft-books/books/julian/era-5-the-solstice-symphony-january-2007/liberation-of-a-winter-s-night",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Crown and Hound",
-                            "file_path": "e005/c001/p001.md"
+                            "file_path": "e005/c001/p001.md",
+                            "url": "/julian/era-5-the-solstice-symphony-january-2007/liberation-of-a-winter-s-night/the-crown-and-hound",
+                            "date": "2007-01-13",
+                            "start_time": "10:00",
+                            "location": "The Crown and Hound Tavern, Duke of Gloucester Street, Williamsburg, Virginia"
                         }
                     ]
                 }

@@ -15,21 +15,27 @@
         "text_epub_bytes": 70990,
         "text_pdf_bytes": 202768
     },
+    "illustration_count": 0,
     "eras": [
         {
             "era_num": 1,
             "era_title": "Book: The Architecture of Safe Spaces",
             "era_url": "/raggiesoft-books/books/nate/book-the-architecture-of-safe-spaces",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Triplet Anomaly \u2014 Saturday, April 16, 1994",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-architecture-of-safe-spaces/chapter-1-the-triplet-anomaly-saturday-april-16-1994",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Rhythmic Drumming",
-                            "file_path": "e001/c001/p001.md"
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/nate/book-the-architecture-of-safe-spaces/chapter-1-the-triplet-anomaly-saturday-april-16-1994/the-rhythmic-drumming",
+                            "date": "1994-04-16",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -39,26 +45,37 @@
             "era_num": 2,
             "era_title": "Book: The Demolition of the Cage",
             "era_url": "/raggiesoft-books/books/nate/book-the-demolition-of-the-cage",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Line in the Sand - Friday, November 10, 2006",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-demolition-of-the-cage/chapter-1-the-line-in-the-sand-friday-november-10-2006",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Hydraulic Hiss And Heavy & The Transition From The Chaotic",
-                            "file_path": "e002/c001/p001.md"
+                            "file_path": "e002/c001/p001.md",
+                            "url": "/nate/book-the-demolition-of-the-cage/chapter-1-the-line-in-the-sand-friday-november-10-2006/part-1-the-hydraulic-hiss-and-heavy-the-transition-from-the-chaotic",
+                            "date": "2006-11-10",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Sedan Hummed Steadily Along & Evelyn Walked Back Into",
-                            "file_path": "e002/c001/p002.md"
+                            "file_path": "e002/c001/p002.md",
+                            "url": "/nate/book-the-demolition-of-the-cage/chapter-1-the-line-in-the-sand-friday-november-10-2006/part-2-the-sedan-hummed-steadily-along-evelyn-walked-back-into",
+                            "date": "2006-11-10",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Transition From Chronic Survival-Mode & Nate Woke Up",
-                            "file_path": "e002/c001/p003.md"
+                            "file_path": "e002/c001/p003.md",
+                            "url": "/nate/book-the-demolition-of-the-cage/chapter-1-the-line-in-the-sand-friday-november-10-2006/part-3-the-transition-from-chronic-survival-mode-nate-woke-up",
+                            "date": "2006-11-10",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -66,16 +83,23 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Reinforcements - Saturday, November 11, 2006",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-demolition-of-the-cage/chapter-2-the-reinforcements-saturday-november-11-2006",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Nate Woke Up & The Click Of The Phone",
-                            "file_path": "e002/c002/p001.md"
+                            "file_path": "e002/c002/p001.md",
+                            "url": "/nate/book-the-demolition-of-the-cage/chapter-2-the-reinforcements-saturday-november-11-2006/part-1-nate-woke-up-the-click-of-the-phone",
+                            "date": "2006-11-11",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Crisp Bright November Air & The Heavy Frosted Glass Doors",
-                            "file_path": "e002/c002/p002.md"
+                            "file_path": "e002/c002/p002.md",
+                            "url": "/nate/book-the-demolition-of-the-cage/chapter-2-the-reinforcements-saturday-november-11-2006/part-2-the-crisp-bright-november-air-the-heavy-frosted-glass-doors",
+                            "date": "2006-11-11",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -83,16 +107,21 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: Christmas Holiday \u2013 Saturday, December 23<sup>rd</sup>, 2026",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-demolition-of-the-cage/chapter-3-christmas-holiday-saturday-december-23rd-2026",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chesapeake Bay Mall Was & The Giant Cheese-Covered Pretzel Had",
-                            "file_path": "e002/c003/p001.md"
+                            "file_path": "e002/c003/p001.md",
+                            "url": "/nate/book-the-demolition-of-the-cage/chapter-3-christmas-holiday-saturday-december-23rd-2026/part-1-chesapeake-bay-mall-was-the-giant-cheese-covered-pretzel-had",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Heavy Glass Doors",
-                            "file_path": "e002/c003/p002.md"
+                            "file_path": "e002/c003/p002.md",
+                            "url": "/nate/book-the-demolition-of-the-cage/chapter-3-christmas-holiday-saturday-december-23rd-2026/part-2-the-heavy-glass-doors",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -102,16 +131,21 @@
             "era_num": 3,
             "era_title": "Book: The Architecture of a Safe Space",
             "era_url": "/raggiesoft-books/books/nate/book-the-architecture-of-a-safe-space",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Fortress \u2013 Thursday, August 23, 2007",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-architecture-of-a-safe-space/chapter-1-the-fortress-thursday-august-23-2007",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Hydraulic Hiss & The Transition From The Late-Summer",
-                            "file_path": "e003/c001/p001.md"
+                            "file_path": "e003/c001/p001.md",
+                            "url": "/nate/book-the-architecture-of-a-safe-space/chapter-1-the-fortress-thursday-august-23-2007/the-hydraulic-hiss-the-transition-from-the-late-summer",
+                            "date": "2007-08-23",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -119,16 +153,23 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Logistics of Trust \u2013 Friday, August 24, 2007",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-architecture-of-a-safe-space/chapter-2-the-logistics-of-trust-friday-august-24-2007",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Alarm Went Off & The 1130 Am Dismissal Was",
-                            "file_path": "e003/c002/p001.md"
+                            "file_path": "e003/c002/p001.md",
+                            "url": "/nate/book-the-architecture-of-a-safe-space/chapter-2-the-logistics-of-trust-friday-august-24-2007/part-1-the-alarm-went-off-the-1130-am-dismissal-was",
+                            "date": "2007-08-24",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Community College Of Hampton & Saturday Morning Was Completely Silent",
-                            "file_path": "e003/c002/p002.md"
+                            "file_path": "e003/c002/p002.md",
+                            "url": "/nate/book-the-architecture-of-a-safe-space/chapter-2-the-logistics-of-trust-friday-august-24-2007/part-2-the-community-college-of-hampton-saturday-morning-was-completely-silent",
+                            "date": "2007-08-24",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -136,11 +177,15 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: Expanding the Perimeter \u2013 Monday, August 27, 2007",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-architecture-of-a-safe-space/chapter-3-expanding-the-perimeter-monday-august-27-2007",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Weekend Ended But",
-                            "file_path": "e003/c003/p001.md"
+                            "file_path": "e003/c003/p001.md",
+                            "url": "/nate/book-the-architecture-of-a-safe-space/chapter-3-expanding-the-perimeter-monday-august-27-2007/the-weekend-ended-but",
+                            "date": "2007-08-27",
+                            "location": "Unknown"
                         }
                     ]
                 }

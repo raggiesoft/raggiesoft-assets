@@ -15,36 +15,53 @@
         "text_epub_bytes": 14621,
         "text_pdf_bytes": 41824
     },
+    "illustration_count": 0,
     "eras": [
         {
             "era_num": 1,
             "era_title": "Era 1: The Era of the Crystal",
             "era_url": "/raggiesoft-books/books/runebreaker/era-1-the-era-of-the-crystal",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Insert Coin \u2013 28th Day of the Last Frost, Year 404 EC",
                     "chap_url": "/raggiesoft-books/books/runebreaker/era-1-the-era-of-the-crystal/chapter-1-insert-coin-28th-day-of-the-last-frost-year-404-ec",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Main Theme (The Living Room)",
-                            "file_path": "e001/c001/p001.md"
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-1-insert-coin-28th-day-of-the-last-frost-year-404-ec/part-1-main-theme-the-living-room",
+                            "date": "1992-10-30",
+                            "start_time": "20:15",
+                            "location": "The Living Room"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Insert Coin",
-                            "file_path": "e001/c001/p002.md"
+                            "file_path": "e001/c001/p002.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-1-insert-coin-28th-day-of-the-last-frost-year-404-ec/part-2-insert-coin",
+                            "date": "1992-10-30",
+                            "start_time": "20:45",
+                            "location": "The Living Room"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Static and Pixels",
-                            "file_path": "e001/c001/p003.md"
+                            "file_path": "e001/c001/p003.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-1-insert-coin-28th-day-of-the-last-frost-year-404-ec/part-3-static-and-pixels",
+                            "start_time": "21:05",
+                            "location": "The Digital Rift"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Ocea's Theme (Barefoot on the Crystal Grass)",
-                            "file_path": "e001/c001/p004.md"
+                            "file_path": "e001/c001/p004.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-1-insert-coin-28th-day-of-the-last-frost-year-404-ec/part-4-ocea-s-theme-barefoot-on-the-crystal-grass",
+                            "start_time": "22:10",
+                            "location": "Edge of the Crystal Plains"
                         }
                     ]
                 },
@@ -52,31 +69,47 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: Half a Medallion \u2013 29th Day of the Last Frost, Year 404 EC",
                     "chap_url": "/raggiesoft-books/books/runebreaker/era-1-the-era-of-the-crystal/chapter-2-half-a-medallion-29th-day-of-the-last-frost-year-404-ec",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Crystal Plains",
-                            "file_path": "e001/c002/p001.md"
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-2-half-a-medallion-29th-day-of-the-last-frost-year-404-ec/part-1-the-crystal-plains",
+                            "start_time": "08:30",
+                            "location": "The Crystal Plains"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Sanctuary Village",
-                            "file_path": "e001/c002/p002.md"
+                            "file_path": "e001/c002/p002.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-2-half-a-medallion-29th-day-of-the-last-frost-year-404-ec/part-2-sanctuary-village",
+                            "start_time": "11:15",
+                            "location": "Sanctuary Village"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Crystal Sage",
-                            "file_path": "e001/c002/p003.md"
+                            "file_path": "e001/c002/p003.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-2-half-a-medallion-29th-day-of-the-last-frost-year-404-ec/part-3-the-crystal-sage",
+                            "start_time": "14:00",
+                            "location": "The Crystal Sage's Observatory"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Half a Medallion",
-                            "file_path": "e001/c002/p004.md"
+                            "file_path": "e001/c002/p004.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-2-half-a-medallion-29th-day-of-the-last-frost-year-404-ec/part-4-half-a-medallion",
+                            "start_time": "15:20",
+                            "location": "The Crystal Sage's Observatory"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: Sanctuary Inn",
-                            "file_path": "e001/c002/p005.md"
+                            "file_path": "e001/c002/p005.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-2-half-a-medallion-29th-day-of-the-last-frost-year-404-ec/part-5-sanctuary-inn",
+                            "start_time": "21:30",
+                            "location": "Sanctuary Inn"
                         }
                     ]
                 },
@@ -84,41 +117,63 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Analog Jammer \u2013 30th Day of the Last Frost, Year 404 EC",
                     "chap_url": "/raggiesoft-books/books/runebreaker/era-1-the-era-of-the-crystal/chapter-3-the-analog-jammer-30th-day-of-the-last-frost-year-404-ec",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Glitch Phantoms",
-                            "file_path": "e001/c003/p001.md"
+                            "file_path": "e001/c003/p001.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-3-the-analog-jammer-30th-day-of-the-last-frost-year-404-ec/part-1-glitch-phantoms",
+                            "start_time": "13:15",
+                            "location": "The Jagged Wastes"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Iron Sentinels",
-                            "file_path": "e001/c003/p002.md"
+                            "file_path": "e001/c003/p002.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-3-the-analog-jammer-30th-day-of-the-last-frost-year-404-ec/part-2-the-iron-sentinels",
+                            "start_time": "17:40",
+                            "location": "Outer Perimeter of the Obsidian Spire"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Tay's Theme (The Hollow Apprentice)",
-                            "file_path": "e001/c003/p003.md"
+                            "file_path": "e001/c003/p003.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-3-the-analog-jammer-30th-day-of-the-last-frost-year-404-ec/part-3-tay-s-theme-the-hollow-apprentice",
+                            "start_time": "19:30",
+                            "location": "The Subterranean Basement Closet"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Grand Decree",
-                            "file_path": "e001/c003/p004.md"
+                            "file_path": "e001/c003/p004.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-3-the-analog-jammer-30th-day-of-the-last-frost-year-404-ec/part-4-the-grand-decree",
+                            "start_time": "21:15",
+                            "location": "High Altar of the Obsidian Spire"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: Golden Data",
-                            "file_path": "e001/c003/p005.md"
+                            "file_path": "e001/c003/p005.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-3-the-analog-jammer-30th-day-of-the-last-frost-year-404-ec/part-5-golden-data",
+                            "start_time": "23:42",
+                            "location": "The Subterranean Basement Closet"
                         },
                         {
                             "part_num": 6,
                             "part_title": "Part 6: The Sabotaged Scroll",
-                            "file_path": "e001/c003/p006.md"
+                            "file_path": "e001/c003/p006.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-3-the-analog-jammer-30th-day-of-the-last-frost-year-404-ec/part-6-the-sabotaged-scroll",
+                            "start_time": "23:45",
+                            "location": "The Subterranean Basement Closet"
                         },
                         {
                             "part_num": 7,
                             "part_title": "Part 7: Fractures in the Armor",
-                            "file_path": "e001/c003/p007.md"
+                            "file_path": "e001/c003/p007.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-3-the-analog-jammer-30th-day-of-the-last-frost-year-404-ec/part-7-fractures-in-the-armor",
+                            "start_time": "23:55",
+                            "location": "The Subterranean Basement Closet"
                         }
                     ]
                 },
@@ -126,61 +181,95 @@
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Ghost and the Gate \u2013 31st Day of the Last Frost, Year 404 EC",
                     "chap_url": "/raggiesoft-books/books/runebreaker/era-1-the-era-of-the-crystal/chapter-4-the-ghost-and-the-gate-31st-day-of-the-last-frost-year-404-ec",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Supposed to Be Dead",
-                            "file_path": "e001/c004/p001.md"
+                            "file_path": "e001/c004/p001.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-4-the-ghost-and-the-gate-31st-day-of-the-last-frost-year-404-ec/part-1-supposed-to-be-dead",
+                            "start_time": "00:03",
+                            "location": "The Subterranean Basement Closet"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Shield of Normalcy",
-                            "file_path": "e001/c004/p002.md"
+                            "file_path": "e001/c004/p002.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-4-the-ghost-and-the-gate-31st-day-of-the-last-frost-year-404-ec/part-2-shield-of-normalcy",
+                            "start_time": "00:15",
+                            "location": "The Subterranean Basement Closet"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: A Little Bit Like Home",
-                            "file_path": "e001/c004/p003.md"
+                            "file_path": "e001/c004/p003.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-4-the-ghost-and-the-gate-31st-day-of-the-last-frost-year-404-ec/part-3-a-little-bit-like-home",
+                            "start_time": "00:20",
+                            "location": "The Subterranean Basement Closet"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Dungeon Escape",
-                            "file_path": "e001/c004/p004.md"
+                            "file_path": "e001/c004/p004.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-4-the-ghost-and-the-gate-31st-day-of-the-last-frost-year-404-ec/part-4-dungeon-escape",
+                            "start_time": "06:30",
+                            "location": "Subterranean Corridors of the Obsidian Spire"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: Guardian of the Gate",
-                            "file_path": "e001/c004/p005.md"
+                            "file_path": "e001/c004/p005.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-4-the-ghost-and-the-gate-31st-day-of-the-last-frost-year-404-ec/part-5-guardian-of-the-gate",
+                            "start_time": "07:10",
+                            "location": "The Great Portcullis of the Obsidian Spire"
                         },
                         {
                             "part_num": 6,
                             "part_title": "Part 6: Game Over (The Spark in the Dark)",
-                            "file_path": "e001/c004/p006.md"
+                            "file_path": "e001/c004/p006.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-4-the-ghost-and-the-gate-31st-day-of-the-last-frost-year-404-ec/part-6-game-over-the-spark-in-the-dark",
+                            "start_time": "08:45",
+                            "location": "High Tower Holding Cell"
                         },
                         {
                             "part_num": 7,
                             "part_title": "Part 7: The Corrupted Ceremony",
-                            "file_path": "e001/c004/p007.md"
+                            "file_path": "e001/c004/p007.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-4-the-ghost-and-the-gate-31st-day-of-the-last-frost-year-404-ec/part-7-the-corrupted-ceremony",
+                            "start_time": "10:00",
+                            "location": "The Grand Cathedral of the Obsidian Spire"
                         },
                         {
                             "part_num": 8,
                             "part_title": "Part 8: The Wizard's Ruin",
-                            "file_path": "e001/c004/p008.md"
+                            "file_path": "e001/c004/p008.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-4-the-ghost-and-the-gate-31st-day-of-the-last-frost-year-404-ec/part-8-the-wizard-s-ruin",
+                            "start_time": "10:20",
+                            "location": "The Grand Cathedral of the Obsidian Spire"
                         },
                         {
                             "part_num": 9,
                             "part_title": "Part 9: The Wizard's Lair",
-                            "file_path": "e001/c004/p009.md"
+                            "file_path": "e001/c004/p009.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-4-the-ghost-and-the-gate-31st-day-of-the-last-frost-year-404-ec/part-9-the-wizard-s-lair",
+                            "start_time": "10:45",
+                            "location": "The Inner Core of the Obsidian Spire"
                         },
                         {
                             "part_num": 10,
                             "part_title": "Part 10: The True Form",
-                            "file_path": "e001/c004/p010.md"
+                            "file_path": "e001/c004/p010.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-4-the-ghost-and-the-gate-31st-day-of-the-last-frost-year-404-ec/part-10-the-true-form",
+                            "start_time": "11:15",
+                            "location": "The Abyssal Core of the Obsidian Spire"
                         },
                         {
                             "part_num": 11,
                             "part_title": "Part 11: The Grand Decree (Reprise)",
-                            "file_path": "e001/c004/p011.md"
+                            "file_path": "e001/c004/p011.md",
+                            "url": "/runebreaker/era-1-the-era-of-the-crystal/chapter-4-the-ghost-and-the-gate-31st-day-of-the-last-frost-year-404-ec/part-11-the-grand-decree-reprise",
+                            "start_time": "11:45",
+                            "location": "The Dissolving Spire"
                         }
                     ]
                 }
@@ -190,21 +279,30 @@
             "era_num": 2,
             "era_title": "Era 2: The Era of the Restored Realm",
             "era_url": "/raggiesoft-books/books/runebreaker/era-2-the-era-of-the-restored-realm",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Save State \u2013 1st Day of the First Dawn, Year 1 RR",
                     "chap_url": "/raggiesoft-books/books/runebreaker/era-2-the-era-of-the-restored-realm/chapter-1-save-state-1st-day-of-the-first-dawn-year-1-rr",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Dawn of the New Era",
-                            "file_path": "e002/c001/p001.md"
+                            "file_path": "e002/c001/p001.md",
+                            "url": "/runebreaker/era-2-the-era-of-the-restored-realm/chapter-1-save-state-1st-day-of-the-first-dawn-year-1-rr/part-1-dawn-of-the-new-era",
+                            "start_time": "12:15",
+                            "location": "Sanctuary Village Plaza"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Save State (Until Next Time)",
-                            "file_path": "e002/c001/p002.md"
+                            "file_path": "e002/c001/p002.md",
+                            "url": "/runebreaker/era-2-the-era-of-the-restored-realm/chapter-1-save-state-1st-day-of-the-first-dawn-year-1-rr/part-2-save-state-until-next-time",
+                            "date": "1992-10-30",
+                            "start_time": "20:50",
+                            "location": "The Living Room"
                         }
                     ]
                 }

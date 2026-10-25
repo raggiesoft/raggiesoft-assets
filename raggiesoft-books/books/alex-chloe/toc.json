@@ -15,21 +15,27 @@
         "text_epub_bytes": 673144,
         "text_pdf_bytes": 1801711
     },
+    "illustration_count": 0,
     "eras": [
         {
             "era_num": 1,
             "era_title": "Alex\u2019s Childhood",
             "era_url": "/raggiesoft-books/books/alex-chloe/alex-s-childhood",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Carter House",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/alex-s-childhood/the-carter-house",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The First Meeting",
-                            "file_path": "e001/c001/p001.md"
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/alex-chloe/alex-s-childhood/the-carter-house/the-first-meeting",
+                            "date": "1987-07-13",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -37,16 +43,21 @@
                     "chap_num": 2,
                     "chap_title": "Elementary School",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/alex-s-childhood/elementary-school",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The First Day of Kindergarten & The Nickname",
-                            "file_path": "e001/c002/p001.md"
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/alex-chloe/alex-s-childhood/elementary-school/part-1-the-first-day-of-kindergarten-the-nickname",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Quiet Place in the Chaos & The Grand Prix",
-                            "file_path": "e001/c002/p002.md"
+                            "file_path": "e001/c002/p002.md",
+                            "url": "/alex-chloe/alex-s-childhood/elementary-school/part-2-a-quiet-place-in-the-chaos-the-grand-prix",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -54,16 +65,21 @@
                     "chap_num": 3,
                     "chap_title": "A Date with Jennifer",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/alex-s-childhood/a-date-with-jennifer",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Dare and The Setup & The Fizzle",
-                            "file_path": "e001/c003/p001.md"
+                            "file_path": "e001/c003/p001.md",
+                            "url": "/alex-chloe/alex-s-childhood/a-date-with-jennifer/part-1-the-dare-and-the-setup-the-fizzle",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Better Kind of Friendship & The Aftermath at School",
-                            "file_path": "e001/c003/p002.md"
+                            "file_path": "e001/c003/p002.md",
+                            "url": "/alex-chloe/alex-s-childhood/a-date-with-jennifer/part-2-a-better-kind-of-friendship-the-aftermath-at-school",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -71,11 +87,14 @@
                     "chap_num": 4,
                     "chap_title": "Alex as a Teenager",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/alex-s-childhood/alex-as-a-teenager",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A Quiet Place in the Chaos & The Training Montage & The Sign",
-                            "file_path": "e001/c004/p001.md"
+                            "file_path": "e001/c004/p001.md",
+                            "url": "/alex-chloe/alex-s-childhood/alex-as-a-teenager/a-quiet-place-in-the-chaos-the-training-montage-the-sign",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -85,41 +104,55 @@
             "era_num": 2,
             "era_title": "Summer of Discovery 1999",
             "era_url": "/raggiesoft-books/books/alex-chloe/summer-of-discovery-1999",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The House Next Door",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/summer-of-discovery-1999/the-house-next-door",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: An Instant Connection & Boardwalk Blasts & Budding Bonds",
-                            "file_path": "e002/c001/p001.md"
+                            "file_path": "e002/c001/p001.md",
+                            "url": "/alex-chloe/summer-of-discovery-1999/the-house-next-door/part-1-an-instant-connection-boardwalk-blasts-budding-bonds",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Sandwiches and Shared Worlds & The Sweetness of a Hug",
-                            "file_path": "e002/c001/p002.md"
+                            "file_path": "e002/c001/p002.md",
+                            "url": "/alex-chloe/summer-of-discovery-1999/the-house-next-door/part-2-sandwiches-and-shared-worlds-the-sweetness-of-a-hug",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: A Day at Fairlawn and Shared Stories & A Ramp of Welcome",
-                            "file_path": "e002/c001/p003.md"
+                            "file_path": "e002/c001/p003.md",
+                            "url": "/alex-chloe/summer-of-discovery-1999/the-house-next-door/part-3-a-day-at-fairlawn-and-shared-stories-a-ramp-of-welcome",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Electives, Echoes of French, and an Informal Tutor & The First Sleepover",
-                            "file_path": "e002/c001/p004.md"
+                            "file_path": "e002/c001/p004.md",
+                            "url": "/alex-chloe/summer-of-discovery-1999/the-house-next-door/part-4-electives-echoes-of-french-and-an-informal-tutor-the-first-sleepover",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: The Morning After & Oceanfront Wonders",
-                            "file_path": "e002/c001/p005.md"
+                            "file_path": "e002/c001/p005.md",
+                            "url": "/alex-chloe/summer-of-discovery-1999/the-house-next-door/part-5-the-morning-after-oceanfront-wonders",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 6,
                             "part_title": "Part 6: A Drawer of Belonging",
-                            "file_path": "e002/c001/p006.md"
+                            "file_path": "e002/c001/p006.md",
+                            "url": "/alex-chloe/summer-of-discovery-1999/the-house-next-door/part-6-a-drawer-of-belonging",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -129,46 +162,66 @@
             "era_num": 3,
             "era_title": "Fresh Meat",
             "era_url": "/raggiesoft-books/books/alex-chloe/fresh-meat",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Welcome to High School",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/fresh-meat/welcome-to-high-school",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Unofficial Orientation & Bonjour, Madame Beaumont",
-                            "file_path": "e003/c001/p001.md"
+                            "file_path": "e003/c001/p001.md",
+                            "url": "/alex-chloe/fresh-meat/welcome-to-high-school/part-1-the-unofficial-orientation-bonjour-madame-beaumont",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The DeMarco Decree & The Lingering Aroma of Justice",
-                            "file_path": "e003/c001/p002.md"
+                            "file_path": "e003/c001/p002.md",
+                            "url": "/alex-chloe/fresh-meat/welcome-to-high-school/part-2-the-demarco-decree-the-lingering-aroma-of-justice",
+                            "date": "1999-09-07",
+                            "start_time": "11:30",
+                            "location": "Northwood High School, Virginia Beach, VA"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Delinquent, The Dumpsters, and The Deep Fryer's Due & A Humble Request and a Changing Tide",
-                            "file_path": "e003/c001/p003.md"
+                            "file_path": "e003/c001/p003.md",
+                            "url": "/alex-chloe/fresh-meat/welcome-to-high-school/part-3-the-delinquent-the-dumpsters-and-the-deep-fryer-s-due-a-humble-request-and-a-changing-tide",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: A Different Kind of \\ & A Quiet Understanding",
-                            "file_path": "e003/c001/p004.md"
+                            "file_path": "e003/c001/p004.md",
+                            "url": "/alex-chloe/fresh-meat/welcome-to-high-school/part-4-a-different-kind-of-a-quiet-understanding",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: An Interrupted Lesson and an Inevitable Summons",
-                            "file_path": "e003/c001/p005.md"
+                            "file_path": "e003/c001/p005.md",
+                            "url": "/alex-chloe/fresh-meat/welcome-to-high-school/part-5-an-interrupted-lesson-and-an-inevitable-summons",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 6,
                             "part_title": "Part 6: Cafeteria Justice, Multilingual Edition & A Canadian Word",
-                            "file_path": "e003/c001/p006.md"
+                            "file_path": "e003/c001/p006.md",
+                            "url": "/alex-chloe/fresh-meat/welcome-to-high-school/part-6-cafeteria-justice-multilingual-edition-a-canadian-word",
+                            "date": "1999-09-21",
+                            "start_time": "11:30",
+                            "location": "Northwood High School, Virginia Beach, VA"
                         },
                         {
                             "part_num": 7,
                             "part_title": "Part 7: A New Tradition & A Cross-Border Introduction",
-                            "file_path": "e003/c001/p007.md"
+                            "file_path": "e003/c001/p007.md",
+                            "url": "/alex-chloe/fresh-meat/welcome-to-high-school/part-7-a-new-tradition-a-cross-border-introduction",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -176,16 +229,21 @@
                     "chap_num": 2,
                     "chap_title": "Spring Semester at Northwood High",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/fresh-meat/spring-semester-at-northwood-high",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Gaelic Gambit and the Grease Trap Lament & A Miller-Mason Birthday Extravaganza",
-                            "file_path": "e003/c002/p001.md"
+                            "file_path": "e003/c002/p001.md",
+                            "url": "/alex-chloe/fresh-meat/spring-semester-at-northwood-high/part-1-the-gaelic-gambit-and-the-grease-trap-lament-a-miller-mason-birthday-extravaganza",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Change of Scenery & The First Step of the Adventure",
-                            "file_path": "e003/c002/p002.md"
+                            "file_path": "e003/c002/p002.md",
+                            "url": "/alex-chloe/fresh-meat/spring-semester-at-northwood-high/part-2-a-change-of-scenery-the-first-step-of-the-adventure",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -193,21 +251,28 @@
                     "chap_num": 3,
                     "chap_title": "One Town, Two Countries",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/fresh-meat/one-town-two-countries",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Adventure Becomes Real & One Street, Two Countries",
-                            "file_path": "e003/c003/p001.md"
+                            "file_path": "e003/c003/p001.md",
+                            "url": "/alex-chloe/fresh-meat/one-town-two-countries/part-1-the-adventure-becomes-real-one-street-two-countries",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Day of Two Nations & A Lesson in Chocolate and Law",
-                            "file_path": "e003/c003/p002.md"
+                            "file_path": "e003/c003/p002.md",
+                            "url": "/alex-chloe/fresh-meat/one-town-two-countries/part-2-a-day-of-two-nations-a-lesson-in-chocolate-and-law",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Forbidden Fruit",
-                            "file_path": "e003/c003/p003.md"
+                            "file_path": "e003/c003/p003.md",
+                            "url": "/alex-chloe/fresh-meat/one-town-two-countries/part-3-the-forbidden-fruit",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -215,11 +280,14 @@
                     "chap_num": 4,
                     "chap_title": "La Famille",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/fresh-meat/la-famille",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A Qu\u00e9b\u00e9cois Welcome & The Last Farewell",
-                            "file_path": "e003/c004/p001.md"
+                            "file_path": "e003/c004/p001.md",
+                            "url": "/alex-chloe/fresh-meat/la-famille/a-qu-b-cois-welcome-the-last-farewell",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -229,16 +297,20 @@
             "era_num": 4,
             "era_title": "Sophomore Year",
             "era_url": "/raggiesoft-books/books/alex-chloe/sophomore-year",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A New Rhythm",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/sophomore-year/a-new-rhythm",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The A/B Block & The Calendar Keeper",
-                            "file_path": "e004/c001/p001.md"
+                            "file_path": "e004/c001/p001.md",
+                            "url": "/alex-chloe/sophomore-year/a-new-rhythm/the-a-b-block-the-calendar-keeper",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -246,11 +318,14 @@
                     "chap_num": 2,
                     "chap_title": "The Longest Two Weeks",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/sophomore-year/the-longest-two-weeks",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A Simple Cough & Alex\u2019s Recovery",
-                            "file_path": "e004/c002/p001.md"
+                            "file_path": "e004/c002/p001.md",
+                            "url": "/alex-chloe/sophomore-year/the-longest-two-weeks/a-simple-cough-alex-s-recovery",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -258,11 +333,14 @@
                     "chap_num": 3,
                     "chap_title": "A New Normal",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/sophomore-year/a-new-normal",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Re-establishing a Rhythm & A New Low",
-                            "file_path": "e004/c003/p001.md"
+                            "file_path": "e004/c003/p001.md",
+                            "url": "/alex-chloe/sophomore-year/a-new-normal/re-establishing-a-rhythm-a-new-low",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -270,11 +348,14 @@
                     "chap_num": 4,
                     "chap_title": "The First Crack",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/sophomore-year/the-first-crack",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Blast Radius & The Unbreakable Bond",
-                            "file_path": "e004/c004/p001.md"
+                            "file_path": "e004/c004/p001.md",
+                            "url": "/alex-chloe/sophomore-year/the-first-crack/the-blast-radius-the-unbreakable-bond",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -282,11 +363,14 @@
                     "chap_num": 5,
                     "chap_title": "A Different Kind of Connection",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/sophomore-year/a-different-kind-of-connection",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Lab Partner & The Answer",
-                            "file_path": "e004/c005/p001.md"
+                            "file_path": "e004/c005/p001.md",
+                            "url": "/alex-chloe/sophomore-year/a-different-kind-of-connection/the-lab-partner-the-answer",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -296,16 +380,20 @@
             "era_num": 5,
             "era_title": "Juniors, They Are",
             "era_url": "/raggiesoft-books/books/alex-chloe/juniors-they-are",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Virtual Solution",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/juniors-they-are/the-virtual-solution",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A Compatibility Crisis & A Lesson in Virtualization",
-                            "file_path": "e005/c001/p001.md"
+                            "file_path": "e005/c001/p001.md",
+                            "url": "/alex-chloe/juniors-they-are/the-virtual-solution/a-compatibility-crisis-a-lesson-in-virtualization",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -313,16 +401,21 @@
                     "chap_num": 2,
                     "chap_title": "Spring Break",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/juniors-they-are/spring-break",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Parents Make Plans & A Quiet Domesticity",
-                            "file_path": "e005/c002/p001.md"
+                            "file_path": "e005/c002/p001.md",
+                            "url": "/alex-chloe/juniors-they-are/spring-break/part-1-parents-make-plans-a-quiet-domesticity",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: MEGAN!!!! & The Return",
-                            "file_path": "e005/c002/p002.md"
+                            "file_path": "e005/c002/p002.md",
+                            "url": "/alex-chloe/juniors-they-are/spring-break/part-2-megan-the-return",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -332,21 +425,27 @@
             "era_num": 6,
             "era_title": "Seniors Rule the School",
             "era_url": "/raggiesoft-books/books/alex-chloe/seniors-rule-the-school",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Last First Day of School",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/seniors-rule-the-school/a-last-first-day-of-school",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Cafeteria Entrance & Cafeteria & By the Dumpsters",
-                            "file_path": "e006/c001/p001.md"
+                            "file_path": "e006/c001/p001.md",
+                            "url": "/alex-chloe/seniors-rule-the-school/a-last-first-day-of-school/part-1-cafeteria-entrance-cafeteria-by-the-dumpsters",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Line too Far",
-                            "file_path": "e006/c001/p002.md"
+                            "file_path": "e006/c001/p002.md",
+                            "url": "/alex-chloe/seniors-rule-the-school/a-last-first-day-of-school/part-2-a-line-too-far",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -354,11 +453,14 @@
                     "chap_num": 2,
                     "chap_title": "A Quiet Miracle",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/seniors-rule-the-school/a-quiet-miracle",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The TADA Heard 'Round the Lab & The Missing Semicolon",
-                            "file_path": "e006/c002/p001.md"
+                            "file_path": "e006/c002/p001.md",
+                            "url": "/alex-chloe/seniors-rule-the-school/a-quiet-miracle/the-tada-heard-round-the-lab-the-missing-semicolon",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -366,11 +468,14 @@
                     "chap_num": 3,
                     "chap_title": "The Fork in the Road",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/seniors-rule-the-school/the-fork-in-the-road",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The \\",
-                            "file_path": "e006/c003/p001.md"
+                            "file_path": "e006/c003/p001.md",
+                            "url": "/alex-chloe/seniors-rule-the-school/the-fork-in-the-road/the",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -378,11 +483,14 @@
                     "chap_num": 4,
                     "chap_title": "A Different Kind of Anchor",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/seniors-rule-the-school/a-different-kind-of-anchor",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A Quiet Hurt & A Simple Offer",
-                            "file_path": "e006/c004/p001.md"
+                            "file_path": "e006/c004/p001.md",
+                            "url": "/alex-chloe/seniors-rule-the-school/a-different-kind-of-anchor/a-quiet-hurt-a-simple-offer",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -390,11 +498,14 @@
                     "chap_num": 5,
                     "chap_title": "The Weight of Care",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/seniors-rule-the-school/the-weight-of-care",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Accident & A Deeper Understanding",
-                            "file_path": "e006/c005/p001.md"
+                            "file_path": "e006/c005/p001.md",
+                            "url": "/alex-chloe/seniors-rule-the-school/the-weight-of-care/the-accident-a-deeper-understanding",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -402,11 +513,14 @@
                     "chap_num": 6,
                     "chap_title": "The Last Dance",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/seniors-rule-the-school/the-last-dance",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Decision & The Real Victory",
-                            "file_path": "e006/c006/p001.md"
+                            "file_path": "e006/c006/p001.md",
+                            "url": "/alex-chloe/seniors-rule-the-school/the-last-dance/the-decision-the-real-victory",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -416,16 +530,20 @@
             "era_num": 7,
             "era_title": "One Last Summer",
             "era_url": "/raggiesoft-books/books/alex-chloe/one-last-summer",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Pacific Northwest Interlude: Summer After Graduation",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/one-last-summer/a-pacific-northwest-interlude-summer-after-graduation",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Exploring Seattle and Lynnwood & A New Threshold of Trust",
-                            "file_path": "e007/c001/p001.md"
+                            "file_path": "e007/c001/p001.md",
+                            "url": "/alex-chloe/one-last-summer/a-pacific-northwest-interlude-summer-after-graduation/exploring-seattle-and-lynnwood-a-new-threshold-of-trust",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -433,11 +551,14 @@
                     "chap_num": 2,
                     "chap_title": "A Very Hard Goodbye",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/one-last-summer/a-very-hard-goodbye",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Two Separate Worlds & Home Safe",
-                            "file_path": "e007/c002/p001.md"
+                            "file_path": "e007/c002/p001.md",
+                            "url": "/alex-chloe/one-last-summer/a-very-hard-goodbye/two-separate-worlds-home-safe",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -447,21 +568,27 @@
             "era_num": 8,
             "era_title": "Separate Coast, Separate Lives",
             "era_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Community College Beginning",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/a-community-college-beginning",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Student Development 101 & Moving Fast",
-                            "file_path": "e008/c001/p001.md"
+                            "file_path": "e008/c001/p001.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/a-community-college-beginning/part-1-student-development-101-moving-fast",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: How I Met Her Mother & The Presentation and the Aftermath",
-                            "file_path": "e008/c001/p002.md"
+                            "file_path": "e008/c001/p002.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/a-community-college-beginning/part-2-how-i-met-her-mother-the-presentation-and-the-aftermath",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -469,16 +596,21 @@
                     "chap_num": 2,
                     "chap_title": "The First Alarm Bell",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/the-first-alarm-bell",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Doubt Starts to Form & A Debrief at Lisa Court",
-                            "file_path": "e008/c002/p001.md"
+                            "file_path": "e008/c002/p001.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/the-first-alarm-bell/part-1-a-doubt-starts-to-form-a-debrief-at-lisa-court",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Morning Debrief & The Love Bomb",
-                            "file_path": "e008/c002/p002.md"
+                            "file_path": "e008/c002/p002.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/the-first-alarm-bell/part-2-the-morning-debrief-the-love-bomb",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -486,11 +618,14 @@
                     "chap_num": 3,
                     "chap_title": "Lingering Connections, Looming Threats",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/lingering-connections-looming-threats",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Video Call Interruption & A Secret Rebellion",
-                            "file_path": "e008/c003/p001.md"
+                            "file_path": "e008/c003/p001.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/lingering-connections-looming-threats/the-video-call-interruption-a-secret-rebellion",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -498,26 +633,35 @@
                     "chap_num": 4,
                     "chap_title": "The VDU Open House",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/the-vdu-open-house",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Cavalry Arrives & A Taste of Normalcy",
-                            "file_path": "e008/c004/p001.md"
+                            "file_path": "e008/c004/p001.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/the-vdu-open-house/part-1-the-cavalry-arrives-a-taste-of-normalcy",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Night of Healing & The Campus Tour",
-                            "file_path": "e008/c004/p002.md"
+                            "file_path": "e008/c004/p002.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/the-vdu-open-house/part-2-a-night-of-healing-the-campus-tour",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Residential Tour & The Second Video Call",
-                            "file_path": "e008/c004/p003.md"
+                            "file_path": "e008/c004/p003.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/the-vdu-open-house/part-3-the-residential-tour-the-second-video-call",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Starship Sentinels & The Aftermath",
-                            "file_path": "e008/c004/p004.md"
+                            "file_path": "e008/c004/p004.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/the-vdu-open-house/part-4-starship-sentinels-the-aftermath",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -525,16 +669,21 @@
                     "chap_num": 5,
                     "chap_title": "The Longest Road",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/the-longest-road",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Vacuum & Across the Country on a Pathfinder",
-                            "file_path": "e008/c005/p001.md"
+                            "file_path": "e008/c005/p001.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/the-longest-road/part-1-the-vacuum-across-the-country-on-a-pathfinder",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Welcome to Hell, Welcome to Kent",
-                            "file_path": "e008/c005/p002.md"
+                            "file_path": "e008/c005/p002.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/the-longest-road/part-2-welcome-to-hell-welcome-to-kent",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -542,16 +691,21 @@
                     "chap_num": 6,
                     "chap_title": "Help is on the Way",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/help-is-on-the-way",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Desperate Call & Race to Kent",
-                            "file_path": "e008/c006/p001.md"
+                            "file_path": "e008/c006/p001.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/help-is-on-the-way/part-1-the-desperate-call-race-to-kent",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Confrontation and Choice & The Drive to Lynnwood",
-                            "file_path": "e008/c006/p002.md"
+                            "file_path": "e008/c006/p002.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/help-is-on-the-way/part-2-confrontation-and-choice-the-drive-to-lynnwood",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -559,16 +713,21 @@
                     "chap_num": 7,
                     "chap_title": "A New Plan",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/a-new-plan",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: An Urgent Call Home & A Healing Nap and a New Plan",
-                            "file_path": "e008/c007/p001.md"
+                            "file_path": "e008/c007/p001.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/a-new-plan/part-1-an-urgent-call-home-a-healing-nap-and-a-new-plan",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Quiet Thanksgiving",
-                            "file_path": "e008/c007/p002.md"
+                            "file_path": "e008/c007/p002.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/a-new-plan/part-2-a-quiet-thanksgiving",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -576,16 +735,21 @@
                     "chap_num": 8,
                     "chap_title": "Reestablishing Alex\u2019s Agency",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/reestablishing-alex-s-agency",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Quiet Conversation & The Weight of Certainty",
-                            "file_path": "e008/c008/p001.md"
+                            "file_path": "e008/c008/p001.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/reestablishing-alex-s-agency/part-1-a-quiet-conversation-the-weight-of-certainty",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Homeward Bound for Graduation",
-                            "file_path": "e008/c008/p002.md"
+                            "file_path": "e008/c008/p002.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/reestablishing-alex-s-agency/part-2-homeward-bound-for-graduation",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -593,16 +757,21 @@
                     "chap_num": 9,
                     "chap_title": "The Journey Home",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/the-journey-home",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Cavalry Arrives & Magna Cum Laude",
-                            "file_path": "e008/c009/p001.md"
+                            "file_path": "e008/c009/p001.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/the-journey-home/part-1-the-cavalry-arrives-magna-cum-laude",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Three-Way Escape Hatch",
-                            "file_path": "e008/c009/p002.md"
+                            "file_path": "e008/c009/p002.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/the-journey-home/part-2-the-three-way-escape-hatch",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -610,21 +779,28 @@
                     "chap_num": 10,
                     "chap_title": "Winter Break Decisions",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/winter-break-decisions",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Insurance Dilemma and a Loving Proposition & A Day of Two Cultures",
-                            "file_path": "e008/c010/p001.md"
+                            "file_path": "e008/c010/p001.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/winter-break-decisions/part-1-the-insurance-dilemma-and-a-loving-proposition-a-day-of-two-cultures",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Le R\u00e9veillon on Lisa Court & A Rivalry is Born",
-                            "file_path": "e008/c010/p002.md"
+                            "file_path": "e008/c010/p002.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/winter-break-decisions/part-2-le-r-veillon-on-lisa-court-a-rivalry-is-born",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: A Quiet \\ & A Shared Secret",
-                            "file_path": "e008/c010/p003.md"
+                            "file_path": "e008/c010/p003.md",
+                            "url": "/alex-chloe/separate-coast-separate-lives/winter-break-decisions/part-3-a-quiet-a-shared-secret",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -634,16 +810,20 @@
             "era_num": 9,
             "era_title": "A Fresh Start",
             "era_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A New Beginning",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start/a-new-beginning",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Gearing Up & A New Sanctuary",
-                            "file_path": "e009/c001/p001.md"
+                            "file_path": "e009/c001/p001.md",
+                            "url": "/alex-chloe/a-fresh-start/a-new-beginning/gearing-up-a-new-sanctuary",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -651,11 +831,14 @@
                     "chap_num": 2,
                     "chap_title": "The Final Severance",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start/the-final-severance",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Empty Seat & The Letter",
-                            "file_path": "e009/c002/p001.md"
+                            "file_path": "e009/c002/p001.md",
+                            "url": "/alex-chloe/a-fresh-start/the-final-severance/the-empty-seat-the-letter",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -663,21 +846,28 @@
                     "chap_num": 3,
                     "chap_title": "The Unraveling Lie",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start/the-unraveling-lie",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Family's Resolve & A New Beginning",
-                            "file_path": "e009/c003/p001.md"
+                            "file_path": "e009/c003/p001.md",
+                            "url": "/alex-chloe/a-fresh-start/the-unraveling-lie/part-1-a-family-s-resolve-a-new-beginning",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Vera\u2019s Reckoning & Un Avenir Sans Fardeau",
-                            "file_path": "e009/c003/p002.md"
+                            "file_path": "e009/c003/p002.md",
+                            "url": "/alex-chloe/a-fresh-start/the-unraveling-lie/part-2-vera-s-reckoning-un-avenir-sans-fardeau",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Building the Sanctuary",
-                            "file_path": "e009/c003/p003.md"
+                            "file_path": "e009/c003/p003.md",
+                            "url": "/alex-chloe/a-fresh-start/the-unraveling-lie/part-3-building-the-sanctuary",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -685,11 +875,14 @@
                     "chap_num": 4,
                     "chap_title": "A New Beginning",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start/a-new-beginning",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Morning Commute & The Breaking Point",
-                            "file_path": "e009/c004/p001.md"
+                            "file_path": "e009/c004/p001.md",
+                            "url": "/alex-chloe/a-fresh-start/a-new-beginning/the-morning-commute-the-breaking-point",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -697,16 +890,21 @@
                     "chap_num": 5,
                     "chap_title": "The Apartment Hunt",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start/the-apartment-hunt",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Excitement and the Learning Curve & The Discovery",
-                            "file_path": "e009/c005/p001.md"
+                            "file_path": "e009/c005/p001.md",
+                            "url": "/alex-chloe/a-fresh-start/the-apartment-hunt/part-1-the-excitement-and-the-learning-curve-the-discovery",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Project Freedom & Shopping for a Van",
-                            "file_path": "e009/c005/p002.md"
+                            "file_path": "e009/c005/p002.md",
+                            "url": "/alex-chloe/a-fresh-start/the-apartment-hunt/part-2-project-freedom-shopping-for-a-van",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -714,11 +912,14 @@
                     "chap_num": 6,
                     "chap_title": "Spring Break",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start/spring-break",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A Quiet Day Trip & The Three Musketeers",
-                            "file_path": "e009/c006/p001.md"
+                            "file_path": "e009/c006/p001.md",
+                            "url": "/alex-chloe/a-fresh-start/spring-break/a-quiet-day-trip-the-three-musketeers",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -726,11 +927,14 @@
                     "chap_num": 7,
                     "chap_title": "A New Home",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start/a-new-home",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Keys & A New (Old) Trusted Friend",
-                            "file_path": "e009/c007/p001.md"
+                            "file_path": "e009/c007/p001.md",
+                            "url": "/alex-chloe/a-fresh-start/a-new-home/the-keys-a-new-old-trusted-friend",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -738,16 +942,21 @@
                     "chap_num": 8,
                     "chap_title": "The Long Wait",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start/the-long-wait",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Marathon, Not a Sprint & A Fragile Sanctuary",
-                            "file_path": "e009/c008/p001.md"
+                            "file_path": "e009/c008/p001.md",
+                            "url": "/alex-chloe/a-fresh-start/the-long-wait/part-1-a-marathon-not-a-sprint-a-fragile-sanctuary",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Aftermath & The Approval",
-                            "file_path": "e009/c008/p002.md"
+                            "file_path": "e009/c008/p002.md",
+                            "url": "/alex-chloe/a-fresh-start/the-long-wait/part-2-the-aftermath-the-approval",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -757,16 +966,20 @@
             "era_num": 10,
             "era_title": "Young Adults, New Worlds",
             "era_url": "/raggiesoft-books/books/alex-chloe/young-adults-new-worlds",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Standing Tall",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/young-adults-new-worlds/standing-tall",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Delivery Day & A New Day on Campus",
-                            "file_path": "e010/c001/p001.md"
+                            "file_path": "e010/c001/p001.md",
+                            "url": "/alex-chloe/young-adults-new-worlds/standing-tall/delivery-day-a-new-day-on-campus",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -774,11 +987,14 @@
                     "chap_num": 2,
                     "chap_title": "The Final Semester",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/young-adults-new-worlds/the-final-semester",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Power Couple of Campus & Graduation Day",
-                            "file_path": "e010/c002/p001.md"
+                            "file_path": "e010/c002/p001.md",
+                            "url": "/alex-chloe/young-adults-new-worlds/the-final-semester/the-power-couple-of-campus-graduation-day",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -786,26 +1002,35 @@
                     "chap_num": 3,
                     "chap_title": "The Northern Road",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/young-adults-new-worlds/the-northern-road",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Launch & A Sweet Discovery",
-                            "file_path": "e010/c003/p001.md"
+                            "file_path": "e010/c003/p001.md",
+                            "url": "/alex-chloe/young-adults-new-worlds/the-northern-road/part-1-the-launch-a-sweet-discovery",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Walk Through a Changed Town & Tensions at the Deli",
-                            "file_path": "e010/c003/p002.md"
+                            "file_path": "e010/c003/p002.md",
+                            "url": "/alex-chloe/young-adults-new-worlds/the-northern-road/part-2-a-walk-through-a-changed-town-tensions-at-the-deli",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: A Quiet Day of Decompression & A New Dream on the Boardwalk",
-                            "file_path": "e010/c003/p003.md"
+                            "file_path": "e010/c003/p003.md",
+                            "url": "/alex-chloe/young-adults-new-worlds/the-northern-road/part-3-a-quiet-day-of-decompression-a-new-dream-on-the-boardwalk",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Long Road Home",
-                            "file_path": "e010/c003/p004.md"
+                            "file_path": "e010/c003/p004.md",
+                            "url": "/alex-chloe/young-adults-new-worlds/the-northern-road/part-4-the-long-road-home",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -813,16 +1038,21 @@
                     "chap_num": 4,
                     "chap_title": "The Last Summer in Virginia",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/young-adults-new-worlds/the-last-summer-in-virginia",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Operation: Pacific Northwest & The Last Swim",
-                            "file_path": "e010/c004/p001.md"
+                            "file_path": "e010/c004/p001.md",
+                            "url": "/alex-chloe/young-adults-new-worlds/the-last-summer-in-virginia/part-1-operation-pacific-northwest-the-last-swim",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Weathering the Storm",
-                            "file_path": "e010/c004/p002.md"
+                            "file_path": "e010/c004/p002.md",
+                            "url": "/alex-chloe/young-adults-new-worlds/the-last-summer-in-virginia/part-2-weathering-the-storm",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -832,21 +1062,27 @@
             "era_num": 11,
             "era_title": "Forging a Future",
             "era_url": "/raggiesoft-books/books/alex-chloe/forging-a-future",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Road West",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/forging-a-future/the-road-west",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Launch & The First Adventure",
-                            "file_path": "e011/c001/p001.md"
+                            "file_path": "e011/c001/p001.md",
+                            "url": "/alex-chloe/forging-a-future/the-road-west/part-1-the-launch-the-first-adventure",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Day in the City & The Welcome Home",
-                            "file_path": "e011/c001/p002.md"
+                            "file_path": "e011/c001/p002.md",
+                            "url": "/alex-chloe/forging-a-future/the-road-west/part-2-a-day-in-the-city-the-welcome-home",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -854,11 +1090,14 @@
                     "chap_num": 2,
                     "chap_title": "The First Ecosystem",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/forging-a-future/the-first-ecosystem",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Micro-Test & A Quiet Success",
-                            "file_path": "e011/c002/p001.md"
+                            "file_path": "e011/c002/p001.md",
+                            "url": "/alex-chloe/forging-a-future/the-first-ecosystem/the-micro-test-a-quiet-success",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -866,11 +1105,15 @@
                     "chap_num": 3,
                     "chap_title": "The Evergreen Project",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/forging-a-future/the-evergreen-project",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Weekend Warriors & The Long Road to a Dream",
-                            "file_path": "e011/c003/p001.md"
+                            "file_path": "e011/c003/p001.md",
+                            "url": "/alex-chloe/forging-a-future/the-evergreen-project/weekend-warriors-the-long-road-to-a-dream",
+                            "date": "2026-07-13",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -880,27 +1123,35 @@
             "era_num": 12,
             "era_title": "Chapter 4: Building the Foundation",
             "era_url": "/raggiesoft-books/books/alex-chloe/chapter-4-building-the-foundation",
+            "illustration_count": 0,
             "chapters": []
         },
         {
             "era_num": 13,
             "era_title": "Canada Winter Games",
             "era_url": "/raggiesoft-books/books/alex-chloe/canada-winter-games",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A House Divided",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/canada-winter-games/a-house-divided",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Matchup is Set & The Spoils of Victory",
-                            "file_path": "e013/c001/p001.md"
+                            "file_path": "e013/c001/p001.md",
+                            "url": "/alex-chloe/canada-winter-games/a-house-divided/part-1-the-matchup-is-set-the-spoils-of-victory",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Uniform of Defeat & The Preclearance Predicament",
-                            "file_path": "e013/c001/p002.md"
+                            "file_path": "e013/c001/p002.md",
+                            "url": "/alex-chloe/canada-winter-games/a-house-divided/part-2-the-uniform-of-defeat-the-preclearance-predicament",
+                            "date": "2026-07-13",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -908,11 +1159,14 @@
                     "chap_num": 2,
                     "chap_title": "The Weight of Care, Revisited",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/canada-winter-games/the-weight-of-care-revisited",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Accident & The Hospital Revelation",
-                            "file_path": "e013/c002/p001.md"
+                            "file_path": "e013/c002/p001.md",
+                            "url": "/alex-chloe/canada-winter-games/the-weight-of-care-revisited/the-accident-the-hospital-revelation",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -922,16 +1176,20 @@
             "era_num": 14,
             "era_title": "No Boundaries",
             "era_url": "/raggiesoft-books/books/alex-chloe/no-boundaries",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Vision Takes Shape",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/no-boundaries/a-vision-takes-shape",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Blueprint of Home & A Border of Our Own",
-                            "file_path": "e014/c001/p001.md"
+                            "file_path": "e014/c001/p001.md",
+                            "url": "/alex-chloe/no-boundaries/a-vision-takes-shape/the-blueprint-of-home-a-border-of-our-own",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -939,11 +1197,15 @@
                     "chap_num": 2,
                     "chap_title": "The Northern Annex",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/no-boundaries/the-northern-annex",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Peace Arch Crossing & The Peak of the City",
-                            "file_path": "e014/c002/p001.md"
+                            "file_path": "e014/c002/p001.md",
+                            "url": "/alex-chloe/no-boundaries/the-northern-annex/the-peace-arch-crossing-the-peak-of-the-city",
+                            "date": "2026-07-13",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -953,16 +1215,20 @@
             "era_num": 15,
             "era_title": "Our Real Beginning",
             "era_url": "/raggiesoft-books/books/alex-chloe/our-real-beginning",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Vow, Revisited",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/our-real-beginning/the-vow-revisited",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Proposition & The Family Announcement",
-                            "file_path": "e015/c001/p001.md"
+                            "file_path": "e015/c001/p001.md",
+                            "url": "/alex-chloe/our-real-beginning/the-vow-revisited/the-proposition-the-family-announcement",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -970,16 +1236,21 @@
                     "chap_num": 2,
                     "chap_title": "Operation: Stanstead Wedding",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/our-real-beginning/operation-stanstead-wedding",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Boots on the Ground & A Brand is Born",
-                            "file_path": "e015/c002/p001.md"
+                            "file_path": "e015/c002/p001.md",
+                            "url": "/alex-chloe/our-real-beginning/operation-stanstead-wedding/part-1-boots-on-the-ground-a-brand-is-born",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Art Director & The Point of No Return",
-                            "file_path": "e015/c002/p002.md"
+                            "file_path": "e015/c002/p002.md",
+                            "url": "/alex-chloe/our-real-beginning/operation-stanstead-wedding/part-2-the-art-director-the-point-of-no-return",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -987,11 +1258,14 @@
                     "chap_num": 3,
                     "chap_title": "The Homecoming",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/our-real-beginning/the-homecoming",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Journey East & The Journey North",
-                            "file_path": "e015/c003/p001.md"
+                            "file_path": "e015/c003/p001.md",
+                            "url": "/alex-chloe/our-real-beginning/the-homecoming/the-journey-east-the-journey-north",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -999,21 +1273,28 @@
                     "chap_num": 4,
                     "chap_title": "Le Grand Jour (The Big Day)",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/our-real-beginning/le-grand-jour-the-big-day",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Les Pr\u00e9paratifs & Special Dances",
-                            "file_path": "e015/c004/p001.md"
+                            "file_path": "e015/c004/p001.md",
+                            "url": "/alex-chloe/our-real-beginning/le-grand-jour-the-big-day/part-1-les-pr-paratifs-special-dances",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: L'Unit\u00e9 Ins\u00e9parable & La Fin de la Soir\u00e9e",
-                            "file_path": "e015/c004/p002.md"
+                            "file_path": "e015/c004/p002.md",
+                            "url": "/alex-chloe/our-real-beginning/le-grand-jour-the-big-day/part-2-l-unit-ins-parable-la-fin-de-la-soir-e",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Bonus Scene: A View from Portsmouth",
-                            "file_path": "e015/c004/p003.md"
+                            "file_path": "e015/c004/p003.md",
+                            "url": "/alex-chloe/our-real-beginning/le-grand-jour-the-big-day/part-3-bonus-scene-a-view-from-portsmouth",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -1021,11 +1302,14 @@
                     "chap_num": 5,
                     "chap_title": "A Day in the Townships",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/our-real-beginning/a-day-in-the-townships",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Morning After & The Departure",
-                            "file_path": "e015/c005/p001.md"
+                            "file_path": "e015/c005/p001.md",
+                            "url": "/alex-chloe/our-real-beginning/a-day-in-the-townships/the-morning-after-the-departure",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -1035,16 +1319,20 @@
             "era_num": 16,
             "era_title": "Needs a Name",
             "era_url": "/raggiesoft-books/books/alex-chloe/needs-a-name",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Revenge of the Brawlers",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/needs-a-name/the-revenge-of-the-brawlers",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Boston Showdown & Breakfast with the Enemy",
-                            "file_path": "e016/c001/p001.md"
+                            "file_path": "e016/c001/p001.md",
+                            "url": "/alex-chloe/needs-a-name/the-revenge-of-the-brawlers/the-boston-showdown-breakfast-with-the-enemy",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -1054,21 +1342,27 @@
             "era_num": 17,
             "era_title": "COVID",
             "era_url": "/raggiesoft-books/books/alex-chloe/covid",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Great Unraveling",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/covid/the-great-unraveling",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The World Shuts Down & The Cross-Country Problem",
-                            "file_path": "e017/c001/p001.md"
+                            "file_path": "e017/c001/p001.md",
+                            "url": "/alex-chloe/covid/the-great-unraveling/part-1-the-world-shuts-down-the-cross-country-problem",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Long Road Home & A Full House",
-                            "file_path": "e017/c001/p002.md"
+                            "file_path": "e017/c001/p002.md",
+                            "url": "/alex-chloe/covid/the-great-unraveling/part-2-the-long-road-home-a-full-house",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -1076,11 +1370,14 @@
                     "chap_num": 2,
                     "chap_title": "The Longest Two Weeks",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/covid/the-longest-two-weeks",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The First Sign & The Fever Breaks",
-                            "file_path": "e017/c002/p001.md"
+                            "file_path": "e017/c002/p001.md",
+                            "url": "/alex-chloe/covid/the-longest-two-weeks/the-first-sign-the-fever-breaks",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -1088,11 +1385,14 @@
                     "chap_num": 3,
                     "chap_title": "A World Reopened",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/covid/a-world-reopened",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The New Normal & The First Venture Out",
-                            "file_path": "e017/c003/p001.md"
+                            "file_path": "e017/c003/p001.md",
+                            "url": "/alex-chloe/covid/a-world-reopened/the-new-normal-the-first-venture-out",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -1102,16 +1402,20 @@
             "era_num": 18,
             "era_title": "A Dream Built",
             "era_url": "/raggiesoft-books/books/alex-chloe/a-dream-built",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Great Focus",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/a-dream-built/the-great-focus",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Leap of Faith & The Grant",
-                            "file_path": "e018/c001/p001.md"
+                            "file_path": "e018/c001/p001.md",
+                            "url": "/alex-chloe/a-dream-built/the-great-focus/the-leap-of-faith-the-grant",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -1119,11 +1423,14 @@
                     "chap_num": 2,
                     "chap_title": "A Winter Homecoming",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/a-dream-built/a-winter-homecoming",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A Much-Needed Breather & Return to Lynnwood",
-                            "file_path": "e018/c002/p001.md"
+                            "file_path": "e018/c002/p001.md",
+                            "url": "/alex-chloe/a-dream-built/a-winter-homecoming/a-much-needed-breather-return-to-lynnwood",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -1131,11 +1438,14 @@
                     "chap_num": 3,
                     "chap_title": "The Great Focus",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/a-dream-built/the-great-focus",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Call and the Land & From Blueprint to Reality",
-                            "file_path": "e018/c003/p001.md"
+                            "file_path": "e018/c003/p001.md",
+                            "url": "/alex-chloe/a-dream-built/the-great-focus/the-call-and-the-land-from-blueprint-to-reality",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -1143,11 +1453,14 @@
                     "chap_num": 4,
                     "chap_title": "Echoes and Reunions",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/a-dream-built/echoes-and-reunions",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The 20-Year Reunion & The Flight Home",
-                            "file_path": "e018/c004/p001.md"
+                            "file_path": "e018/c004/p001.md",
+                            "url": "/alex-chloe/a-dream-built/echoes-and-reunions/the-20-year-reunion-the-flight-home",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -1155,11 +1468,14 @@
                     "chap_num": 5,
                     "chap_title": "The New Workshop",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/a-dream-built/the-new-workshop",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A Cross-Platform Future & The First Prototype",
-                            "file_path": "e018/c005/p001.md"
+                            "file_path": "e018/c005/p001.md",
+                            "url": "/alex-chloe/a-dream-built/the-new-workshop/a-cross-platform-future-the-first-prototype",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -1167,16 +1483,22 @@
                     "chap_num": 6,
                     "chap_title": "From the Ground Up",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/a-dream-built/from-the-ground-up",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Montage of Progress & A New Horizon",
-                            "file_path": "e018/c006/p001.md"
+                            "file_path": "e018/c006/p001.md",
+                            "url": "/alex-chloe/a-dream-built/from-the-ground-up/part-1-a-montage-of-progress-a-new-horizon",
+                            "date": "2026-07-13",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Rejection & The Rejection Letter",
-                            "file_path": "e018/c006/p002.md"
+                            "file_path": "e018/c006/p002.md",
+                            "url": "/alex-chloe/a-dream-built/from-the-ground-up/part-2-the-rejection-the-rejection-letter",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -1184,11 +1506,14 @@
                     "chap_num": 7,
                     "chap_title": "Bridges of Understanding",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/a-dream-built/bridges-of-understanding",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "An Unexpected Encounter & The Directors\u2019 Work",
-                            "file_path": "e018/c007/p001.md"
+                            "file_path": "e018/c007/p001.md",
+                            "url": "/alex-chloe/a-dream-built/bridges-of-understanding/an-unexpected-encounter-the-directors-work",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -1198,16 +1523,20 @@
             "era_num": 19,
             "era_title": "The Long Quiet *(Working Title)*",
             "era_url": "/raggiesoft-books/books/alex-chloe/the-long-quiet-working-title",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Future in the Townships",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/the-long-quiet-working-title/a-future-in-the-townships",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A Quiet Question",
-                            "file_path": "e019/c001/p001.md"
+                            "file_path": "e019/c001/p001.md",
+                            "url": "/alex-chloe/the-long-quiet-working-title/a-future-in-the-townships/a-quiet-question",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -1217,21 +1546,27 @@
             "era_num": 20,
             "era_title": "The Final Chapter",
             "era_url": "/raggiesoft-books/books/alex-chloe/the-final-chapter",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Forever Yours",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/the-final-chapter/forever-yours",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Conscious Goodbye & The Last Guardian",
-                            "file_path": "e020/c001/p001.md"
+                            "file_path": "e020/c001/p001.md",
+                            "url": "/alex-chloe/the-final-chapter/forever-yours/part-1-a-conscious-goodbye-the-last-guardian",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Service for Three",
-                            "file_path": "e020/c001/p002.md"
+                            "file_path": "e020/c001/p002.md",
+                            "url": "/alex-chloe/the-final-chapter/forever-yours/part-2-a-service-for-three",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -1241,17 +1576,20 @@
             "era_num": 21,
             "era_title": "Book 21: The Turning Point",
             "era_url": "/raggiesoft-books/books/alex-chloe/book-21-the-turning-point",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Confrontation",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/book-21-the-turning-point/chapter-1-the-confrontation",
+                    "illustration_count": 0,
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Turning of the Tide",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/book-21-the-turning-point/chapter-2-the-turning-of-the-tide",
+                    "illustration_count": 0,
                     "parts": []
                 }
             ]

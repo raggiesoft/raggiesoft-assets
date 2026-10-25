@@ -15,26 +15,33 @@
         "text_epub_bytes": 300816,
         "text_pdf_bytes": 848571
     },
+    "illustration_count": 0,
     "eras": [
         {
             "era_num": 1,
             "era_title": "Era 1: The Age of Myth",
             "era_url": "/raggiesoft-books/books/aethel/era-1-the-age-of-myth",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Book I: The Silver Sun",
                     "chap_url": "/raggiesoft-books/books/aethel/era-1-the-age-of-myth/book-i-the-silver-sun",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chapter 1: The Architect's Lesson",
-                            "file_path": "e001/c001/p001.md"
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/aethel/era-1-the-age-of-myth/book-i-the-silver-sun/part-1-chapter-1-the-architect-s-lesson",
+                            "location": "The Solar Garden (The Sanctum of the Zenith)"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Chapter 2: The Age of Twilight",
-                            "file_path": "e001/c001/p002.md"
+                            "file_path": "e001/c001/p002.md",
+                            "url": "/aethel/era-1-the-age-of-myth/book-i-the-silver-sun/part-2-chapter-2-the-age-of-twilight",
+                            "location": "The Royal Observatory"
                         }
                     ]
                 }
@@ -44,21 +51,27 @@
             "era_num": 2,
             "era_title": "Era 2: The Age of Silence",
             "era_url": "/raggiesoft-books/books/aethel/era-2-the-age-of-silence",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Book I: The Silver Gauntlet of Aethel",
                     "chap_url": "/raggiesoft-books/books/aethel/era-2-the-age-of-silence/book-i-the-silver-gauntlet-of-aethel",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chapter 1: The Sundering of Sunstead",
-                            "file_path": "e002/c001/p001.md"
+                            "file_path": "e002/c001/p001.md",
+                            "url": "/aethel/era-2-the-age-of-silence/book-i-the-silver-gauntlet-of-aethel/part-1-chapter-1-the-sundering-of-sunstead",
+                            "location": "The Cottage on the Ridge"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Chapter 2: The Silence of the Hearth",
-                            "file_path": "e002/c001/p002.md"
+                            "file_path": "e002/c001/p002.md",
+                            "url": "/aethel/era-2-the-age-of-silence/book-i-the-silver-gauntlet-of-aethel/part-2-chapter-2-the-silence-of-the-hearth",
+                            "location": "The Cottage on the Ridge"
                         }
                     ]
                 },
@@ -66,26 +79,35 @@
                     "chap_num": 2,
                     "chap_title": "Book II: The Shadow's Heart",
                     "chap_url": "/raggiesoft-books/books/aethel/era-2-the-age-of-silence/book-ii-the-shadow-s-heart",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chapter 1: The Hunted and the Caged",
-                            "file_path": "e002/c002/p001.md"
+                            "file_path": "e002/c002/p001.md",
+                            "url": "/aethel/era-2-the-age-of-silence/book-ii-the-shadow-s-heart/part-1-chapter-1-the-hunted-and-the-caged",
+                            "location": "The Razor Peaks"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Chapter 2: The Tyrant's Throne",
-                            "file_path": "e002/c002/p002.md"
+                            "file_path": "e002/c002/p002.md",
+                            "url": "/aethel/era-2-the-age-of-silence/book-ii-the-shadow-s-heart/part-2-chapter-2-the-tyrant-s-throne",
+                            "location": "The Obsidian Throne Room"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Chapter 3: The Last Temptation",
-                            "file_path": "e002/c002/p003.md"
+                            "file_path": "e002/c002/p003.md",
+                            "url": "/aethel/era-2-the-age-of-silence/book-ii-the-shadow-s-heart/part-3-chapter-3-the-last-temptation",
+                            "location": "The Voidlands (Illusion)"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Chapter 4: The Bridge of a Thousand Truths",
-                            "file_path": "e002/c002/p004.md"
+                            "file_path": "e002/c002/p004.md",
+                            "url": "/aethel/era-2-the-age-of-silence/book-ii-the-shadow-s-heart/part-4-chapter-4-the-bridge-of-a-thousand-truths",
+                            "location": "The Great Divide"
                         }
                     ]
                 },
@@ -93,31 +115,42 @@
                     "chap_num": 3,
                     "chap_title": "Book III: The Dawn of the Twins",
                     "chap_url": "/raggiesoft-books/books/aethel/era-2-the-age-of-silence/book-iii-the-dawn-of-the-twins",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chapter 1: The Siege of the Shadowspire",
-                            "file_path": "e002/c003/p001.md"
+                            "file_path": "e002/c003/p001.md",
+                            "url": "/aethel/era-2-the-age-of-silence/book-iii-the-dawn-of-the-twins/part-1-chapter-1-the-siege-of-the-shadowspire",
+                            "location": "The Hall of Shattered Heroes (Shadowspire)"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Chapter 2: The Heart of the Gloom",
-                            "file_path": "e002/c003/p002.md"
+                            "file_path": "e002/c003/p002.md",
+                            "url": "/aethel/era-2-the-age-of-silence/book-iii-the-dawn-of-the-twins/part-2-chapter-2-the-heart-of-the-gloom",
+                            "location": "The Obsidian Throne Room (Shadowspire)"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Chapter 3: The Long Road Home",
-                            "file_path": "e002/c003/p003.md"
+                            "file_path": "e002/c003/p003.md",
+                            "url": "/aethel/era-2-the-age-of-silence/book-iii-the-dawn-of-the-twins/part-3-chapter-3-the-long-road-home",
+                            "location": "The Abandoned Shack"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Chapter 4: The Scouring of Sunstead",
-                            "file_path": "e002/c003/p004.md"
+                            "file_path": "e002/c003/p004.md",
+                            "url": "/aethel/era-2-the-age-of-silence/book-iii-the-dawn-of-the-twins/part-4-chapter-4-the-scouring-of-sunstead",
+                            "location": "The Outer Gates"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: Chapter 5: The Aftermath",
-                            "file_path": "e002/c003/p005.md"
+                            "file_path": "e002/c003/p005.md",
+                            "url": "/aethel/era-2-the-age-of-silence/book-iii-the-dawn-of-the-twins/part-5-chapter-5-the-aftermath",
+                            "location": "The Market Square"
                         }
                     ]
                 }
@@ -127,31 +160,41 @@
             "era_num": 3,
             "era_title": "Era 3: The Age of Tides",
             "era_url": "/raggiesoft-books/books/aethel/era-3-the-age-of-tides",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Book I: The Glass Sea",
                     "chap_url": "/raggiesoft-books/books/aethel/era-3-the-age-of-tides/book-i-the-glass-sea",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chapter 1: The Tide and the Torch",
-                            "file_path": "e003/c001/p001.md"
+                            "file_path": "e003/c001/p001.md",
+                            "url": "/aethel/era-3-the-age-of-tides/book-i-the-glass-sea/part-1-chapter-1-the-tide-and-the-torch",
+                            "location": "The River Docks"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Chapter 2: The Heart of the World",
-                            "file_path": "e003/c001/p002.md"
+                            "file_path": "e003/c001/p002.md",
+                            "url": "/aethel/era-3-the-age-of-tides/book-i-the-glass-sea/part-2-chapter-2-the-heart-of-the-world",
+                            "location": "The Crater Rim"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Chapter 3: The Weave of the Water",
-                            "file_path": "e003/c001/p003.md"
+                            "file_path": "e003/c001/p003.md",
+                            "url": "/aethel/era-3-the-age-of-tides/book-i-the-glass-sea/part-3-chapter-3-the-weave-of-the-water",
+                            "location": "The Open Sea (South of the Archipelago)"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Chapter 4: The Gyre",
-                            "file_path": "e003/c001/p004.md"
+                            "file_path": "e003/c001/p004.md",
+                            "url": "/aethel/era-3-the-age-of-tides/book-i-the-glass-sea/part-4-chapter-4-the-gyre",
+                            "location": "The Approach to Sector 4"
                         }
                     ]
                 },
@@ -159,31 +202,42 @@
                     "chap_num": 2,
                     "chap_title": "Book II: The Star-Eater",
                     "chap_url": "/raggiesoft-books/books/aethel/era-3-the-age-of-tides/book-ii-the-star-eater",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chapter 1: The Silent Sector",
-                            "file_path": "e003/c002/p001.md"
+                            "file_path": "e003/c002/p001.md",
+                            "url": "/aethel/era-3-the-age-of-tides/book-ii-the-star-eater/part-1-chapter-1-the-silent-sector",
+                            "location": "The First Orbital Decoy (The Silent Sector)"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Chapter 2: The Ribcage of the Gods",
-                            "file_path": "e003/c002/p002.md"
+                            "file_path": "e003/c002/p002.md",
+                            "url": "/aethel/era-3-the-age-of-tides/book-ii-the-star-eater/part-2-chapter-2-the-ribcage-of-the-gods",
+                            "location": "The Outer Ribcage (The Approaches)"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Chapter 3: The War for the Mind",
-                            "file_path": "e003/c002/p003.md"
+                            "file_path": "e003/c002/p003.md",
+                            "url": "/aethel/era-3-the-age-of-tides/book-ii-the-star-eater/part-3-chapter-3-the-war-for-the-mind",
+                            "location": "The Brain Stem (The Node Room)"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Chapter 4: The Long Way Down",
-                            "file_path": "e003/c002/p004.md"
+                            "file_path": "e003/c002/p004.md",
+                            "url": "/aethel/era-3-the-age-of-tides/book-ii-the-star-eater/part-4-chapter-4-the-long-way-down",
+                            "location": "The Inner Ribcage (The Brain Stem Dock)"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: Chapter 5: The Cottage",
-                            "file_path": "e003/c002/p005.md"
+                            "file_path": "e003/c002/p005.md",
+                            "url": "/aethel/era-3-the-age-of-tides/book-ii-the-star-eater/part-5-chapter-5-the-cottage",
+                            "location": "The Cottage on the Ridge"
                         }
                     ]
                 }
@@ -193,36 +247,48 @@
             "era_num": 4,
             "era_title": "Era 4: The Iron Heart",
             "era_url": "/raggiesoft-books/books/aethel/era-4-the-iron-heart",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Book I: The Magnetic North",
                     "chap_url": "/raggiesoft-books/books/aethel/era-4-the-iron-heart/book-i-the-magnetic-north",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chapter 1: The Art of Doing Nothing",
-                            "file_path": "e004/c001/p001.md"
+                            "file_path": "e004/c001/p001.md",
+                            "url": "/aethel/era-4-the-iron-heart/book-i-the-magnetic-north/part-1-chapter-1-the-art-of-doing-nothing",
+                            "location": "The Cottage on the Ridge"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Chapter 2: The Alarm Clock",
-                            "file_path": "e004/c001/p002.md"
+                            "file_path": "e004/c001/p002.md",
+                            "url": "/aethel/era-4-the-iron-heart/book-i-the-magnetic-north/part-2-chapter-2-the-alarm-clock",
+                            "location": "The Cottage Garden"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Chapter 3: The Magnetic Highway",
-                            "file_path": "e004/c001/p003.md"
+                            "file_path": "e004/c001/p003.md",
+                            "url": "/aethel/era-4-the-iron-heart/book-i-the-magnetic-north/part-3-chapter-3-the-magnetic-highway",
+                            "location": "The Foothills of the Razor Peaks"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Chapter 4: The Clockwork Ocean",
-                            "file_path": "e004/c001/p004.md"
+                            "file_path": "e004/c001/p004.md",
+                            "url": "/aethel/era-4-the-iron-heart/book-i-the-magnetic-north/part-4-chapter-4-the-clockwork-ocean",
+                            "location": "The Crater of Silence / The Magma Tube"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: Chapter 4: The Return Journey",
-                            "file_path": "e004/c001/p005.md"
+                            "file_path": "e004/c001/p005.md",
+                            "url": "/aethel/era-4-the-iron-heart/book-i-the-magnetic-north/part-5-chapter-4-the-return-journey",
+                            "location": "The Voidlands Plateau"
                         }
                     ]
                 },
@@ -230,36 +296,49 @@
                     "chap_num": 2,
                     "chap_title": "Book II: The Pilgrimage",
                     "chap_url": "/raggiesoft-books/books/aethel/era-4-the-iron-heart/book-ii-the-pilgrimage",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chapter 1: The Privacy of Stone",
-                            "file_path": "e004/c002/p001.md"
+                            "file_path": "e004/c002/p001.md",
+                            "url": "/aethel/era-4-the-iron-heart/book-ii-the-pilgrimage/part-1-chapter-1-the-privacy-of-stone",
+                            "location": "The Cottage Kitchen"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Chapter 2: The Smoke and the Fire",
-                            "file_path": "e004/c002/p002.md"
+                            "file_path": "e004/c002/p002.md",
+                            "url": "/aethel/era-4-the-iron-heart/book-ii-the-pilgrimage/part-2-chapter-2-the-smoke-and-the-fire",
+                            "location": "The Town Square / The Graveyard"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Chapter 3: The Council of Neighbors",
-                            "file_path": "e004/c002/p003.md"
+                            "file_path": "e004/c002/p003.md",
+                            "url": "/aethel/era-4-the-iron-heart/book-ii-the-pilgrimage/part-3-chapter-3-the-council-of-neighbors",
+                            "location": "Outside The Drunken Mule"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Chapter 4: The King at the Gate",
-                            "file_path": "e004/c002/p004.md"
+                            "file_path": "e004/c002/p004.md",
+                            "url": "/aethel/era-4-the-iron-heart/book-ii-the-pilgrimage/part-4-chapter-4-the-king-at-the-gate",
+                            "location": "The Main Gate"
                         },
                         {
                             "part_num": 5,
                             "part_title": "Part 5: Chapter 5: The Demon and the Witch",
-                            "file_path": "e004/c002/p005.md"
+                            "file_path": "e004/c002/p005.md",
+                            "url": "/aethel/era-4-the-iron-heart/book-ii-the-pilgrimage/part-5-chapter-5-the-demon-and-the-witch",
+                            "location": "Mrs. Gable\u2019s Bakery"
                         },
                         {
                             "part_num": 6,
                             "part_title": "Part 6: Chapter 6: The Starlight Check-In",
-                            "file_path": "e004/c002/p006.md"
+                            "file_path": "e004/c002/p006.md",
+                            "url": "/aethel/era-4-the-iron-heart/book-ii-the-pilgrimage/part-6-chapter-6-the-starlight-check-in",
+                            "location": "The Garden Bath"
                         }
                     ]
                 },
@@ -267,21 +346,28 @@
                     "chap_num": 3,
                     "chap_title": "Book III: The Zero Point",
                     "chap_url": "/raggiesoft-books/books/aethel/era-4-the-iron-heart/book-iii-the-zero-point",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Prologue: The Silence Between Stars",
-                            "file_path": "e004/c003/p001.md"
+                            "file_path": "e004/c003/p001.md",
+                            "url": "/aethel/era-4-the-iron-heart/book-iii-the-zero-point/part-1-prologue-the-silence-between-stars",
+                            "location": "The Void Beyond the Rim"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Chapter 1: The Shadow at Noon",
-                            "file_path": "e004/c003/p002.md"
+                            "file_path": "e004/c003/p002.md",
+                            "url": "/aethel/era-4-the-iron-heart/book-iii-the-zero-point/part-2-chapter-1-the-shadow-at-noon",
+                            "location": "The Cottage Bedroom"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Chapter 2: The Needle and the Shroud",
-                            "file_path": "e004/c003/p003.md"
+                            "file_path": "e004/c003/p003.md",
+                            "url": "/aethel/era-4-the-iron-heart/book-iii-the-zero-point/part-3-chapter-2-the-needle-and-the-shroud",
+                            "location": "The Garden Bath"
                         }
                     ]
                 }

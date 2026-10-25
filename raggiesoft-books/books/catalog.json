@@ -16,7 +16,8 @@
             "pdf_bytes": 848571,
             "text_epub_bytes": 300816,
             "text_pdf_bytes": 848571
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "alex-chloe",
@@ -35,7 +36,8 @@
             "pdf_bytes": 1801711,
             "text_epub_bytes": 673144,
             "text_pdf_bytes": 1801711
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "apex-fall-of-earth",
@@ -54,7 +56,8 @@
             "pdf_bytes": 1764104,
             "text_epub_bytes": 608772,
             "text_pdf_bytes": 1764104
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "ashley-tower",
@@ -73,7 +76,8 @@
             "pdf_bytes": 241676,
             "text_epub_bytes": 84495,
             "text_pdf_bytes": 241676
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "aubrie",
@@ -92,7 +96,8 @@
             "pdf_bytes": 26022235,
             "text_epub_bytes": 879093,
             "text_pdf_bytes": 3405773
-        }
+        },
+        "illustration_count": 33
     },
     {
         "slug": "beth",
@@ -111,7 +116,8 @@
             "pdf_bytes": 3540,
             "text_epub_bytes": 5403,
             "text_pdf_bytes": 3540
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "bob-emily",
@@ -130,7 +136,8 @@
             "pdf_bytes": 235362,
             "text_epub_bytes": 85613,
             "text_pdf_bytes": 235362
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "crimson-node",
@@ -149,7 +156,8 @@
             "pdf_bytes": 21144211,
             "text_epub_bytes": 55591,
             "text_pdf_bytes": 169054
-        }
+        },
+        "illustration_count": 9
     },
     {
         "slug": "drew",
@@ -168,7 +176,8 @@
             "pdf_bytes": 204249,
             "text_epub_bytes": 73332,
             "text_pdf_bytes": 204249
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "erin",
@@ -187,7 +196,8 @@
             "pdf_bytes": 57422,
             "text_epub_bytes": 18515,
             "text_pdf_bytes": 57422
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "fractured-prisms",
@@ -206,7 +216,8 @@
             "pdf_bytes": 16540,
             "text_epub_bytes": 8788,
             "text_pdf_bytes": 16540
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "jack-sarah",
@@ -225,7 +236,8 @@
             "pdf_bytes": 3367309,
             "text_epub_bytes": 189664,
             "text_pdf_bytes": 3367303
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "julian",
@@ -244,7 +256,8 @@
             "pdf_bytes": 482428,
             "text_epub_bytes": 169681,
             "text_pdf_bytes": 482428
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "luna-leo",
@@ -263,7 +276,8 @@
             "pdf_bytes": 12180058,
             "text_epub_bytes": 795942,
             "text_pdf_bytes": 2373369
-        }
+        },
+        "illustration_count": 3
     },
     {
         "slug": "mary-childhood",
@@ -282,7 +296,8 @@
             "pdf_bytes": 25934,
             "text_epub_bytes": 9640,
             "text_pdf_bytes": 25934
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "meredith",
@@ -301,7 +316,8 @@
             "pdf_bytes": 121729,
             "text_epub_bytes": 41120,
             "text_pdf_bytes": 121729
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "nate",
@@ -320,7 +336,8 @@
             "pdf_bytes": 202768,
             "text_epub_bytes": 70990,
             "text_pdf_bytes": 202768
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "nichole",
@@ -339,7 +356,8 @@
             "pdf_bytes": 1273260,
             "text_epub_bytes": 454853,
             "text_pdf_bytes": 1273260
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "paige",
@@ -358,7 +376,8 @@
             "pdf_bytes": 1455612,
             "text_epub_bytes": 503836,
             "text_pdf_bytes": 1455612
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "pebble-borrow",
@@ -377,7 +396,8 @@
             "pdf_bytes": 415749,
             "text_epub_bytes": 155170,
             "text_pdf_bytes": 415749
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "quantum-directive-1-jessica",
@@ -396,7 +416,8 @@
             "pdf_bytes": 259351,
             "text_epub_bytes": 87849,
             "text_pdf_bytes": 259351
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "quantum-directive-2-kelly",
@@ -415,7 +436,8 @@
             "pdf_bytes": 5514637,
             "text_epub_bytes": 79119,
             "text_pdf_bytes": 5514641
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "quantum-directive-3-casey",
@@ -434,7 +456,8 @@
             "pdf_bytes": 2315571,
             "text_epub_bytes": 406885,
             "text_pdf_bytes": 1261268
-        }
+        },
+        "illustration_count": 2
     },
     {
         "slug": "rachel",
@@ -453,7 +476,8 @@
             "pdf_bytes": 15978888,
             "text_epub_bytes": 998655,
             "text_pdf_bytes": 2801968
-        }
+        },
+        "illustration_count": 18
     },
     {
         "slug": "ruby-mountain",
@@ -472,7 +496,8 @@
             "pdf_bytes": 663054,
             "text_epub_bytes": 237599,
             "text_pdf_bytes": 663054
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "runebreaker",
@@ -491,7 +516,8 @@
             "pdf_bytes": 41824,
             "text_epub_bytes": 14621,
             "text_pdf_bytes": 41824
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "samantha",
@@ -510,7 +536,8 @@
             "pdf_bytes": 194611,
             "text_epub_bytes": 66696,
             "text_pdf_bytes": 194611
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "stardust-engine",
@@ -529,7 +556,8 @@
             "pdf_bytes": 25449,
             "text_epub_bytes": 9656,
             "text_pdf_bytes": 25449
-        }
+        },
+        "illustration_count": 0
     },
     {
         "slug": "water-planet",
@@ -548,6 +576,7 @@
             "pdf_bytes": 3262,
             "text_epub_bytes": 5410,
             "text_pdf_bytes": 3262
-        }
+        },
+        "illustration_count": 0
     }
 ]

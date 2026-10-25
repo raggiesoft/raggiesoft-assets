@@ -15,26 +15,33 @@
         "text_epub_bytes": 503836,
         "text_pdf_bytes": 1455612
     },
+    "illustration_count": 0,
     "eras": [
         {
             "era_num": 1,
             "era_title": "Freshman Year",
             "era_url": "/raggiesoft-books/books/paige/freshman-year",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Band Camp",
                     "chap_url": "/raggiesoft-books/books/paige/freshman-year/band-camp",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Downbeat & Rocket Burger",
-                            "file_path": "e001/c001/p001.md"
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/paige/freshman-year/band-camp/part-1-the-downbeat-rocket-burger",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Connection & The Table",
-                            "file_path": "e001/c001/p002.md"
+                            "file_path": "e001/c001/p002.md",
+                            "url": "/paige/freshman-year/band-camp/part-2-the-connection-the-table",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -42,11 +49,14 @@
                     "chap_num": 2,
                     "chap_title": "The Fall",
                     "chap_url": "/raggiesoft-books/books/paige/freshman-year/the-fall",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Third Quarter & The Signal",
-                            "file_path": "e001/c002/p001.md"
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/paige/freshman-year/the-fall/third-quarter-the-signal",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -54,16 +64,21 @@
                     "chap_num": 3,
                     "chap_title": "Winter 2000",
                     "chap_url": "/raggiesoft-books/books/paige/freshman-year/winter-2000",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Visitor & The Clinic",
-                            "file_path": "e001/c003/p001.md"
+                            "file_path": "e001/c003/p001.md",
+                            "url": "/paige/freshman-year/winter-2000/part-1-the-visitor-the-clinic",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Law of the Lunchroom",
-                            "file_path": "e001/c003/p002.md"
+                            "file_path": "e001/c003/p002.md",
+                            "url": "/paige/freshman-year/winter-2000/part-2-the-law-of-the-lunchroom",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -71,11 +86,14 @@
                     "chap_num": 4,
                     "chap_title": "The Static",
                     "chap_url": "/raggiesoft-books/books/paige/freshman-year/the-static",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The First Satellite & The Dinner Table",
-                            "file_path": "e001/c004/p001.md"
+                            "file_path": "e001/c004/p001.md",
+                            "url": "/paige/freshman-year/the-static/the-first-satellite-the-dinner-table",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -85,21 +103,27 @@
             "era_num": 2,
             "era_title": "The Blueprint",
             "era_url": "/raggiesoft-books/books/paige/the-blueprint",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Cracks",
                     "chap_url": "/raggiesoft-books/books/paige/the-blueprint/the-cracks",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Static & The Route",
-                            "file_path": "e002/c001/p001.md"
+                            "file_path": "e002/c001/p001.md",
+                            "url": "/paige/the-blueprint/the-cracks/part-1-static-the-route",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Sugar Rush & The Closet",
-                            "file_path": "e002/c001/p002.md"
+                            "file_path": "e002/c001/p002.md",
+                            "url": "/paige/the-blueprint/the-cracks/part-2-the-sugar-rush-the-closet",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -107,11 +131,14 @@
                     "chap_num": 2,
                     "chap_title": "The Severance",
                     "chap_url": "/raggiesoft-books/books/paige/the-blueprint/the-severance",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Sofa",
-                            "file_path": "e002/c002/p001.md"
+                            "file_path": "e002/c002/p001.md",
+                            "url": "/paige/the-blueprint/the-severance/the-sofa",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -119,11 +146,14 @@
                     "chap_num": 3,
                     "chap_title": "The Iron City",
                     "chap_url": "/raggiesoft-books/books/paige/the-blueprint/the-iron-city",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Transfer Point & The Configuration",
-                            "file_path": "e002/c003/p001.md"
+                            "file_path": "e002/c003/p001.md",
+                            "url": "/paige/the-blueprint/the-iron-city/the-transfer-point-the-configuration",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -131,26 +161,35 @@
                     "chap_num": 4,
                     "chap_title": "The Machine",
                     "chap_url": "/raggiesoft-books/books/paige/the-blueprint/the-machine",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Route 1 & The Foundry",
-                            "file_path": "e002/c004/p001.md"
+                            "file_path": "e002/c004/p001.md",
+                            "url": "/paige/the-blueprint/the-machine/part-1-route-1-the-foundry",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Old Lady on the Hill & The Iron Sea",
-                            "file_path": "e002/c004/p002.md"
+                            "file_path": "e002/c004/p002.md",
+                            "url": "/paige/the-blueprint/the-machine/part-2-the-old-lady-on-the-hill-the-iron-sea",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Forger's Call & The Shutout",
-                            "file_path": "e002/c004/p003.md"
+                            "file_path": "e002/c004/p003.md",
+                            "url": "/paige/the-blueprint/the-machine/part-3-the-forger-s-call-the-shutout",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Shuttle",
-                            "file_path": "e002/c004/p004.md"
+                            "file_path": "e002/c004/p004.md",
+                            "url": "/paige/the-blueprint/the-machine/part-4-the-shuttle",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -158,11 +197,14 @@
                     "chap_num": 5,
                     "chap_title": "The Source Code",
                     "chap_url": "/raggiesoft-books/books/paige/the-blueprint/the-source-code",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Diagnosis & The Protocol Upgrade",
-                            "file_path": "e002/c005/p001.md"
+                            "file_path": "e002/c005/p001.md",
+                            "url": "/paige/the-blueprint/the-source-code/the-diagnosis-the-protocol-upgrade",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -172,16 +214,20 @@
             "era_num": 3,
             "era_title": "A New Beginning",
             "era_url": "/raggiesoft-books/books/paige/a-new-beginning",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Launch Code",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-launch-code",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Loop & The Base",
-                            "file_path": "e003/c001/p001.md"
+                            "file_path": "e003/c001/p001.md",
+                            "url": "/paige/a-new-beginning/the-launch-code/the-loop-the-base",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -189,21 +235,28 @@
                     "chap_num": 2,
                     "chap_title": "The Source Code",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-source-code",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Manual & The Curriculum",
-                            "file_path": "e003/c002/p001.md"
+                            "file_path": "e003/c002/p001.md",
+                            "url": "/paige/a-new-beginning/the-source-code/part-1-the-manual-the-curriculum",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Open Door & The Morning After",
-                            "file_path": "e003/c002/p002.md"
+                            "file_path": "e003/c002/p002.md",
+                            "url": "/paige/a-new-beginning/the-source-code/part-2-the-open-door-the-morning-after",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Cartridge Exchange & Channel 3",
-                            "file_path": "e003/c002/p003.md"
+                            "file_path": "e003/c002/p003.md",
+                            "url": "/paige/a-new-beginning/the-source-code/part-3-the-cartridge-exchange-channel-3",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -211,16 +264,21 @@
                     "chap_num": 3,
                     "chap_title": "The Syllabus",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-syllabus",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Loophole & The Medical Logistics",
-                            "file_path": "e003/c003/p001.md"
+                            "file_path": "e003/c003/p001.md",
+                            "url": "/paige/a-new-beginning/the-syllabus/part-1-the-loophole-the-medical-logistics",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Schematic & The Silo",
-                            "file_path": "e003/c003/p002.md"
+                            "file_path": "e003/c003/p002.md",
+                            "url": "/paige/a-new-beginning/the-syllabus/part-2-the-schematic-the-silo",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -228,11 +286,14 @@
                     "chap_num": 4,
                     "chap_title": "The Network",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-network",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Primary Node & The Maintenance Run",
-                            "file_path": "e003/c004/p001.md"
+                            "file_path": "e003/c004/p001.md",
+                            "url": "/paige/a-new-beginning/the-network/the-primary-node-the-maintenance-run",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -240,26 +301,35 @@
                     "chap_num": 5,
                     "chap_title": "Proper Terminology",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/proper-terminology",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Ground Rules & The Predator",
-                            "file_path": "e003/c005/p001.md"
+                            "file_path": "e003/c005/p001.md",
+                            "url": "/paige/a-new-beginning/proper-terminology/part-1-ground-rules-the-predator",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Geometry and Physics & The Safe Zone",
-                            "file_path": "e003/c005/p002.md"
+                            "file_path": "e003/c005/p002.md",
+                            "url": "/paige/a-new-beginning/proper-terminology/part-2-geometry-and-physics-the-safe-zone",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Incorrect Variable & The Distortion",
-                            "file_path": "e003/c005/p003.md"
+                            "file_path": "e003/c005/p003.md",
+                            "url": "/paige/a-new-beginning/proper-terminology/part-3-the-incorrect-variable-the-distortion",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Contaminant & The Humidity Index",
-                            "file_path": "e003/c005/p004.md"
+                            "file_path": "e003/c005/p004.md",
+                            "url": "/paige/a-new-beginning/proper-terminology/part-4-the-contaminant-the-humidity-index",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -267,16 +337,21 @@
                     "chap_num": 6,
                     "chap_title": "The Admin Console",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-admin-console",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Cool Down & The Final Frontier",
-                            "file_path": "e003/c006/p001.md"
+                            "file_path": "e003/c006/p001.md",
+                            "url": "/paige/a-new-beginning/the-admin-console/part-1-the-cool-down-the-final-frontier",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The System Architecture & The Sandwich Configuration",
-                            "file_path": "e003/c006/p002.md"
+                            "file_path": "e003/c006/p002.md",
+                            "url": "/paige/a-new-beginning/the-admin-console/part-2-the-system-architecture-the-sandwich-configuration",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -284,16 +359,21 @@
                     "chap_num": 7,
                     "chap_title": "Autism Diagnosis",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/autism-diagnosis",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Debugger & The Thunderhead",
-                            "file_path": "e003/c007/p001.md"
+                            "file_path": "e003/c007/p001.md",
+                            "url": "/paige/a-new-beginning/autism-diagnosis/part-1-the-debugger-the-thunderhead",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Warning & The All Clear",
-                            "file_path": "e003/c007/p002.md"
+                            "file_path": "e003/c007/p002.md",
+                            "url": "/paige/a-new-beginning/autism-diagnosis/part-2-the-warning-the-all-clear",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -301,16 +381,21 @@
                     "chap_num": 8,
                     "chap_title": "The Prime Time Block",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-prime-time-block",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Decompression Protocol & The Awakening",
-                            "file_path": "e003/c008/p001.md"
+                            "file_path": "e003/c008/p001.md",
+                            "url": "/paige/a-new-beginning/the-prime-time-block/part-1-the-decompression-protocol-the-awakening",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Recovery Cycle & Manual Override",
-                            "file_path": "e003/c008/p002.md"
+                            "file_path": "e003/c008/p002.md",
+                            "url": "/paige/a-new-beginning/the-prime-time-block/part-2-the-recovery-cycle-manual-override",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -318,21 +403,28 @@
                     "chap_num": 9,
                     "chap_title": "The Anatomy of Resilience",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-anatomy-of-resilience",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Purge & The Quiet Room",
-                            "file_path": "e003/c009/p001.md"
+                            "file_path": "e003/c009/p001.md",
+                            "url": "/paige/a-new-beginning/the-anatomy-of-resilience/part-1-the-purge-the-quiet-room",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Transit & The Trail & The Cost-Benefit Analysis",
-                            "file_path": "e003/c009/p002.md"
+                            "file_path": "e003/c009/p002.md",
+                            "url": "/paige/a-new-beginning/the-anatomy-of-resilience/part-2-the-transit-the-trail-the-cost-benefit-analysis",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Analog Archive & The Shutdown Sequence",
-                            "file_path": "e003/c009/p003.md"
+                            "file_path": "e003/c009/p003.md",
+                            "url": "/paige/a-new-beginning/the-anatomy-of-resilience/part-3-the-analog-archive-the-shutdown-sequence",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -342,16 +434,20 @@
             "era_num": 4,
             "era_title": "The False Anchor",
             "era_url": "/raggiesoft-books/books/paige/the-false-anchor",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The New Variable",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-new-variable",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Remainder & The Static Stack",
-                            "file_path": "e004/c001/p001.md"
+                            "file_path": "e004/c001/p001.md",
+                            "url": "/paige/the-false-anchor/the-new-variable/the-remainder-the-static-stack",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -359,16 +455,21 @@
                     "chap_num": 2,
                     "chap_title": "The Seed",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-seed",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Observation & The Split Screen",
-                            "file_path": "e004/c002/p001.md"
+                            "file_path": "e004/c002/p001.md",
+                            "url": "/paige/the-false-anchor/the-seed/part-1-the-observation-the-split-screen",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Syntax Error",
-                            "file_path": "e004/c002/p002.md"
+                            "file_path": "e004/c002/p002.md",
+                            "url": "/paige/the-false-anchor/the-seed/part-2-the-syntax-error",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -376,21 +477,28 @@
                     "chap_num": 3,
                     "chap_title": "The Orbital Decay",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-orbital-decay",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Logic Bomb & The Disconnect",
-                            "file_path": "e004/c003/p001.md"
+                            "file_path": "e004/c003/p001.md",
+                            "url": "/paige/the-false-anchor/the-orbital-decay/part-1-the-logic-bomb-the-disconnect",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Horizon Line & The Point of No Return",
-                            "file_path": "e004/c003/p002.md"
+                            "file_path": "e004/c003/p002.md",
+                            "url": "/paige/the-false-anchor/the-orbital-decay/part-2-the-horizon-line-the-point-of-no-return",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Detour & The Silence",
-                            "file_path": "e004/c003/p003.md"
+                            "file_path": "e004/c003/p003.md",
+                            "url": "/paige/the-false-anchor/the-orbital-decay/part-3-the-detour-the-silence",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -398,26 +506,35 @@
                     "chap_num": 4,
                     "chap_title": "The Rescue",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-rescue",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Advance Team",
-                            "file_path": "e004/c004/p001.md"
+                            "file_path": "e004/c004/p001.md",
+                            "url": "/paige/the-false-anchor/the-rescue/part-1-the-advance-team",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Intercept & The Time Lock",
-                            "file_path": "e004/c004/p002.md"
+                            "file_path": "e004/c004/p002.md",
+                            "url": "/paige/the-false-anchor/the-rescue/part-2-the-intercept-the-time-lock",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Decontamination Protocol & Frequency Tuned",
-                            "file_path": "e004/c004/p003.md"
+                            "file_path": "e004/c004/p003.md",
+                            "url": "/paige/the-false-anchor/the-rescue/part-3-the-decontamination-protocol-frequency-tuned",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Signal Cut",
-                            "file_path": "e004/c004/p004.md"
+                            "file_path": "e004/c004/p004.md",
+                            "url": "/paige/the-false-anchor/the-rescue/part-4-the-signal-cut",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -425,21 +542,28 @@
                     "chap_num": 5,
                     "chap_title": "The Tourist Protocol",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-tourist-protocol",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Fueling the Expedition & The Wheelchair Epiphany",
-                            "file_path": "e004/c005/p001.md"
+                            "file_path": "e004/c005/p001.md",
+                            "url": "/paige/the-false-anchor/the-tourist-protocol/part-1-fueling-the-expedition-the-wheelchair-epiphany",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Scar & The Restoration",
-                            "file_path": "e004/c005/p002.md"
+                            "file_path": "e004/c005/p002.md",
+                            "url": "/paige/the-false-anchor/the-tourist-protocol/part-2-the-scar-the-restoration",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Flight Plan & The Northern Trajectory",
-                            "file_path": "e004/c005/p003.md"
+                            "file_path": "e004/c005/p003.md",
+                            "url": "/paige/the-false-anchor/the-tourist-protocol/part-3-the-flight-plan-the-northern-trajectory",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -447,21 +571,28 @@
                     "chap_num": 6,
                     "chap_title": "Flight to Tahoma",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/flight-to-tahoma",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Bypass & The Supply Run",
-                            "file_path": "e004/c006/p001.md"
+                            "file_path": "e004/c006/p001.md",
+                            "url": "/paige/the-false-anchor/flight-to-tahoma/part-1-the-bypass-the-supply-run",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Hypothesis & The Lock & The Silent Engines",
-                            "file_path": "e004/c006/p002.md"
+                            "file_path": "e004/c006/p002.md",
+                            "url": "/paige/the-false-anchor/flight-to-tahoma/part-2-the-hypothesis-the-lock-the-silent-engines",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Refueling & The Null Hypothesis",
-                            "file_path": "e004/c006/p003.md"
+                            "file_path": "e004/c006/p003.md",
+                            "url": "/paige/the-false-anchor/flight-to-tahoma/part-3-the-refueling-the-null-hypothesis",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -469,26 +600,35 @@
                     "chap_num": 7,
                     "chap_title": "The Flight Home",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-flight-home",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Final Bill & The Checkpoint Protocol",
-                            "file_path": "e004/c007/p001.md"
+                            "file_path": "e004/c007/p001.md",
+                            "url": "/paige/the-false-anchor/the-flight-home/part-1-the-final-bill-the-checkpoint-protocol",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Soundtrack Protocol & The Mid-Air Transfer",
-                            "file_path": "e004/c007/p002.md"
+                            "file_path": "e004/c007/p002.md",
+                            "url": "/paige/the-false-anchor/the-flight-home/part-2-the-soundtrack-protocol-the-mid-air-transfer",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Descent Protocol & The Valley Protocol",
-                            "file_path": "e004/c007/p003.md"
+                            "file_path": "e004/c007/p003.md",
+                            "url": "/paige/the-false-anchor/the-flight-home/part-3-the-descent-protocol-the-valley-protocol",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Final Mile & The Shutdown Protocol",
-                            "file_path": "e004/c007/p004.md"
+                            "file_path": "e004/c007/p004.md",
+                            "url": "/paige/the-false-anchor/the-flight-home/part-4-the-final-mile-the-shutdown-protocol",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -496,16 +636,21 @@
                     "chap_num": 8,
                     "chap_title": "The Trojan Horse",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-trojan-horse",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Invalid Variable & The Legal Shield",
-                            "file_path": "e004/c008/p001.md"
+                            "file_path": "e004/c008/p001.md",
+                            "url": "/paige/the-false-anchor/the-trojan-horse/part-1-the-invalid-variable-the-legal-shield",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Null Hypothesis & The Restoration",
-                            "file_path": "e004/c008/p002.md"
+                            "file_path": "e004/c008/p002.md",
+                            "url": "/paige/the-false-anchor/the-trojan-horse/part-2-the-null-hypothesis-the-restoration",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -513,11 +658,14 @@
                     "chap_num": 9,
                     "chap_title": "The Optimization Protocol",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-optimization-protocol",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Transaction & The Deed of Trust",
-                            "file_path": "e004/c009/p001.md"
+                            "file_path": "e004/c009/p001.md",
+                            "url": "/paige/the-false-anchor/the-optimization-protocol/the-transaction-the-deed-of-trust",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -525,26 +673,35 @@
                     "chap_num": 10,
                     "chap_title": "The Satellite Convergence",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-satellite-convergence",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Invasion Force & Fueling the Army",
-                            "file_path": "e004/c010/p001.md"
+                            "file_path": "e004/c010/p001.md",
+                            "url": "/paige/the-false-anchor/the-satellite-convergence/part-1-the-invasion-force-fueling-the-army",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Division of Labor & The Rotation of the Guard",
-                            "file_path": "e004/c010/p002.md"
+                            "file_path": "e004/c010/p002.md",
+                            "url": "/paige/the-false-anchor/the-satellite-convergence/part-2-division-of-labor-the-rotation-of-the-guard",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Black Box Review",
-                            "file_path": "e004/c010/p003.md"
+                            "file_path": "e004/c010/p003.md",
+                            "url": "/paige/the-false-anchor/the-satellite-convergence/part-3-the-black-box-review",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Clearance Denied",
-                            "file_path": "e004/c010/p004.md"
+                            "file_path": "e004/c010/p004.md",
+                            "url": "/paige/the-false-anchor/the-satellite-convergence/part-4-clearance-denied",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -552,16 +709,21 @@
                     "chap_num": 11,
                     "chap_title": "The Big One-Five",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-big-one-five",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Trajectory Calculations & Pyrotechnic Redundancy",
-                            "file_path": "e004/c011/p001.md"
+                            "file_path": "e004/c011/p001.md",
+                            "url": "/paige/the-false-anchor/the-big-one-five/part-1-trajectory-calculations-pyrotechnic-redundancy",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Voltage Spike & The Decompression Chamber",
-                            "file_path": "e004/c011/p002.md"
+                            "file_path": "e004/c011/p002.md",
+                            "url": "/paige/the-false-anchor/the-big-one-five/part-2-the-voltage-spike-the-decompression-chamber",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -571,21 +733,27 @@
             "era_num": 5,
             "era_title": "System Integration",
             "era_url": "/raggiesoft-books/books/paige/system-integration",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Transfer Point",
                     "chap_url": "/raggiesoft-books/books/paige/system-integration/the-transfer-point",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Pathfinder & The Pressure Check",
-                            "file_path": "e005/c001/p001.md"
+                            "file_path": "e005/c001/p001.md",
+                            "url": "/paige/system-integration/the-transfer-point/part-1-the-pathfinder-the-pressure-check",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Migration",
-                            "file_path": "e005/c001/p002.md"
+                            "file_path": "e005/c001/p002.md",
+                            "url": "/paige/system-integration/the-transfer-point/part-2-the-migration",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -593,21 +761,28 @@
                     "chap_num": 2,
                     "chap_title": "The Physical Layer",
                     "chap_url": "/raggiesoft-books/books/paige/system-integration/the-physical-layer",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Descent & The Mega-Bed",
-                            "file_path": "e005/c002/p001.md"
+                            "file_path": "e005/c002/p001.md",
+                            "url": "/paige/system-integration/the-physical-layer/part-1-the-descent-the-mega-bed",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Pittsburgh Toilet & The Wet Room",
-                            "file_path": "e005/c002/p002.md"
+                            "file_path": "e005/c002/p002.md",
+                            "url": "/paige/system-integration/the-physical-layer/part-2-the-pittsburgh-toilet-the-wet-room",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Mega-Bed Assembly",
-                            "file_path": "e005/c002/p003.md"
+                            "file_path": "e005/c002/p003.md",
+                            "url": "/paige/system-integration/the-physical-layer/part-3-the-mega-bed-assembly",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -615,16 +790,21 @@
                     "chap_num": 3,
                     "chap_title": "The Satellite Link",
                     "chap_url": "/raggiesoft-books/books/paige/system-integration/the-satellite-link",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Radford Protocol & The Cargo Bay",
-                            "file_path": "e005/c003/p001.md"
+                            "file_path": "e005/c003/p001.md",
+                            "url": "/paige/system-integration/the-satellite-link/part-1-the-radford-protocol-the-cargo-bay",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Mess Hall & The Transit Bible",
-                            "file_path": "e005/c003/p002.md"
+                            "file_path": "e005/c003/p002.md",
+                            "url": "/paige/system-integration/the-satellite-link/part-2-the-mess-hall-the-transit-bible",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -632,11 +812,14 @@
                     "chap_num": 4,
                     "chap_title": "The Fishersville Protocol",
                     "chap_url": "/raggiesoft-books/books/paige/system-integration/the-fishersville-protocol",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Last Supper & Suite 200",
-                            "file_path": "e005/c004/p001.md"
+                            "file_path": "e005/c004/p001.md",
+                            "url": "/paige/system-integration/the-fishersville-protocol/the-last-supper-suite-200",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -644,11 +827,14 @@
                     "chap_num": 5,
                     "chap_title": "The Signal-to-Noise Ratio",
                     "chap_url": "/raggiesoft-books/books/paige/system-integration/the-signal-to-noise-ratio",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Circuit & The Midnight Threshold",
-                            "file_path": "e005/c005/p001.md"
+                            "file_path": "e005/c005/p001.md",
+                            "url": "/paige/system-integration/the-signal-to-noise-ratio/the-circuit-the-midnight-threshold",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -656,11 +842,14 @@
                     "chap_num": 6,
                     "chap_title": "The Extraction",
                     "chap_url": "/raggiesoft-books/books/paige/system-integration/the-extraction",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Pickup & The Reunion",
-                            "file_path": "e005/c006/p001.md"
+                            "file_path": "e005/c006/p001.md",
+                            "url": "/paige/system-integration/the-extraction/the-pickup-the-reunion",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -668,11 +857,14 @@
                     "chap_num": 7,
                     "chap_title": "The Closed Circuit",
                     "chap_url": "/raggiesoft-books/books/paige/system-integration/the-closed-circuit",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Intruder & The Exception",
-                            "file_path": "e005/c007/p001.md"
+                            "file_path": "e005/c007/p001.md",
+                            "url": "/paige/system-integration/the-closed-circuit/the-intruder-the-exception",
+                            "location": "Unknown"
                         }
                     ]
                 }

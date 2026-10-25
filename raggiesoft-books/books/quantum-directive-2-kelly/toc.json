@@ -15,21 +15,26 @@
         "text_epub_bytes": 79119,
         "text_pdf_bytes": 5514641
     },
+    "illustration_count": 0,
     "eras": [
         {
             "era_num": 1,
             "era_title": "The Anchor",
             "era_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Fork in the Road",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/a-fork-in-the-road",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Bulletin Board \ud83d\udccc & Pager Code 005.1 \ud83d\udcdf",
-                            "file_path": "e001/c001/p001.md"
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/quantum-directive-2-kelly/the-anchor/a-fork-in-the-road/the-bulletin-board-pager-code-005-1",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -37,16 +42,21 @@
                     "chap_num": 2,
                     "chap_title": "The Keynote",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/the-keynote",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Peace Treaty Before Sunrise\u2600\ufe0f & The Envelope \u2709\ufe0f",
-                            "file_path": "e001/c002/p001.md"
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/quantum-directive-2-kelly/the-anchor/the-keynote/part-1-peace-treaty-before-sunrise-the-envelope",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Story Breaks \ud83d\udcf0 & Out of the Loop \ud83d\udeec",
-                            "file_path": "e001/c002/p002.md"
+                            "file_path": "e001/c002/p002.md",
+                            "url": "/quantum-directive-2-kelly/the-anchor/the-keynote/part-2-the-story-breaks-out-of-the-loop",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -54,11 +64,14 @@
                     "chap_num": 3,
                     "chap_title": "The Implosion",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/the-implosion",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Last Stand \ud83d\udeb6\u200d\u2642\ufe0f & The Verdict \u2696\ufe0f",
-                            "file_path": "e001/c003/p001.md"
+                            "file_path": "e001/c003/p001.md",
+                            "url": "/quantum-directive-2-kelly/the-anchor/the-implosion/the-last-stand-the-verdict",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -66,16 +79,21 @@
                     "chap_num": 4,
                     "chap_title": "Closing the Book",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/closing-the-book",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Press Conference \ud83c\udfa4 & First Steps, First Stumbles \ud83d\udc63",
-                            "file_path": "e001/c004/p001.md"
+                            "file_path": "e001/c004/p001.md",
+                            "url": "/quantum-directive-2-kelly/the-anchor/closing-the-book/part-1-the-press-conference-first-steps-first-stumbles",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Blue Badge \ud83d\udfe6 & Clocking Out for the Last Time \ud83d\udd70\ufe0f",
-                            "file_path": "e001/c004/p002.md"
+                            "file_path": "e001/c004/p002.md",
+                            "url": "/quantum-directive-2-kelly/the-anchor/closing-the-book/part-2-the-blue-badge-clocking-out-for-the-last-time",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -83,11 +101,14 @@
                     "chap_num": 5,
                     "chap_title": "Welcome to Quantum",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/welcome-to-quantum",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Your Voices Matter Here \ud83e\udd1d & The First Line of Code \u2328\ufe0f",
-                            "file_path": "e001/c005/p001.md"
+                            "file_path": "e001/c005/p001.md",
+                            "url": "/quantum-directive-2-kelly/the-anchor/welcome-to-quantum/your-voices-matter-here-the-first-line-of-code",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -95,16 +116,21 @@
                     "chap_num": 6,
                     "chap_title": "The Bridge to Cupertino",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/the-bridge-to-cupertino",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: An Unexpected Invitation \u2708\ufe0f & Welcome to Cupertino \u2600\ufe0f",
-                            "file_path": "e001/c006/p001.md"
+                            "file_path": "e001/c006/p001.md",
+                            "url": "/quantum-directive-2-kelly/the-anchor/the-bridge-to-cupertino/part-1-an-unexpected-invitation-welcome-to-cupertino",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Best Behavior \ud83e\udd1d & The Binary Canteen \ud83e\udd6a",
-                            "file_path": "e001/c006/p002.md"
+                            "file_path": "e001/c006/p002.md",
+                            "url": "/quantum-directive-2-kelly/the-anchor/the-bridge-to-cupertino/part-2-best-behavior-the-binary-canteen",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -112,16 +138,21 @@
                     "chap_num": 7,
                     "chap_title": "Inside Infinite Loop",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/inside-infinite-loop",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Company Policy \ud83d\udccb & The Right Tool for the Job \ud83c\udf7d\ufe0f",
-                            "file_path": "e001/c007/p001.md"
+                            "file_path": "e001/c007/p001.md",
+                            "url": "/quantum-directive-2-kelly/the-anchor/inside-infinite-loop/part-1-company-policy-the-right-tool-for-the-job",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: What's Really Going On? \ud83d\udcac",
-                            "file_path": "e001/c007/p002.md"
+                            "file_path": "e001/c007/p002.md",
+                            "url": "/quantum-directive-2-kelly/the-anchor/inside-infinite-loop/part-2-what-s-really-going-on",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -129,16 +160,21 @@
                     "chap_num": 8,
                     "chap_title": "A New Reality",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/a-new-reality",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Right Tool for the Job \u267f & The Bidding War Begins \u2696\ufe0f",
-                            "file_path": "e001/c008/p001.md"
+                            "file_path": "e001/c008/p001.md",
+                            "url": "/quantum-directive-2-kelly/the-anchor/a-new-reality/part-1-the-right-tool-for-the-job-the-bidding-war-begins",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Professional Courtesy \ud83e\udd2b",
-                            "file_path": "e001/c008/p002.md"
+                            "file_path": "e001/c008/p002.md",
+                            "url": "/quantum-directive-2-kelly/the-anchor/a-new-reality/part-2-professional-courtesy",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -148,22 +184,27 @@
             "era_num": 2,
             "era_title": "The Bidding War as seen on DevNet",
             "era_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-bidding-war-as-seen-on-devnet",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Turning of the Tide",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-bidding-war-as-seen-on-devnet/chapter-1-the-turning-of-the-tide",
+                    "illustration_count": 0,
                     "parts": []
                 },
                 {
                     "chap_num": 2,
                     "chap_title": "The Players",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-bidding-war-as-seen-on-devnet/the-players",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Developer Community & The CEOs",
-                            "file_path": "e002/c002/p001.md"
+                            "file_path": "e002/c002/p001.md",
+                            "url": "/quantum-directive-2-kelly/the-bidding-war-as-seen-on-devnet/the-players/the-developer-community-the-ceos",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -171,11 +212,14 @@
                     "chap_num": 3,
                     "chap_title": "Choosing a Future",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-bidding-war-as-seen-on-devnet/choosing-a-future",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "All the Offers on the Table \ud83d\udcc2",
-                            "file_path": "e002/c003/p001.md"
+                            "file_path": "e002/c003/p001.md",
+                            "url": "/quantum-directive-2-kelly/the-bidding-war-as-seen-on-devnet/choosing-a-future/all-the-offers-on-the-table",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -185,6 +229,7 @@
             "era_num": 3,
             "era_title": "Book 3: The Turning Point",
             "era_url": "/raggiesoft-books/books/quantum-directive-2-kelly/book-3-the-turning-point",
+            "illustration_count": 0,
             "chapters": []
         }
     ]

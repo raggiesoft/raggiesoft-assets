@@ -15,36 +15,51 @@
         "text_epub_bytes": 41120,
         "text_pdf_bytes": 121729
     },
+    "illustration_count": 0,
     "eras": [
         {
             "era_num": 1,
             "era_title": "Book 4: The Vanguard",
             "era_url": "/raggiesoft-books/books/meredith/book-4-the-vanguard",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The First Drop-Off",
                     "chap_url": "/raggiesoft-books/books/meredith/book-4-the-vanguard/chapter-1-the-first-drop-off",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Garage Barracks & The Color Correction",
-                            "file_path": "e001/c001/p001.md"
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/meredith/book-4-the-vanguard/chapter-1-the-first-drop-off/part-1-the-garage-barracks-the-color-correction",
+                            "start_time": "06:00",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: SDV 100 & The Promenade at Granby",
-                            "file_path": "e001/c001/p002.md"
+                            "file_path": "e001/c001/p002.md",
+                            "url": "/meredith/book-4-the-vanguard/chapter-1-the-first-drop-off/part-2-sdv-100-the-promenade-at-granby",
+                            "start_time": "11:00",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Debrief & The Family Briefing",
-                            "file_path": "e001/c001/p003.md"
+                            "file_path": "e001/c001/p003.md",
+                            "url": "/meredith/book-4-the-vanguard/chapter-1-the-first-drop-off/part-3-the-debrief-the-family-briefing",
+                            "start_time": "12:45",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Evening Routine & The Vanguard Rests",
-                            "file_path": "e001/c001/p004.md"
+                            "file_path": "e001/c001/p004.md",
+                            "url": "/meredith/book-4-the-vanguard/chapter-1-the-first-drop-off/part-4-the-evening-routine-the-vanguard-rests",
+                            "start_time": "20:00",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -52,11 +67,15 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Virginia Beach Perimeter",
                     "chap_url": "/raggiesoft-books/books/meredith/book-4-the-vanguard/chapter-2-the-virginia-beach-perimeter",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Morning in the Barracks & The Princess Anne Perimeter",
-                            "file_path": "e001/c002/p001.md"
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/meredith/book-4-the-vanguard/chapter-2-the-virginia-beach-perimeter/morning-in-the-barracks-the-princess-anne-perimeter",
+                            "start_time": "08:30",
+                            "location": "Unknown"
                         }
                     ]
                 }

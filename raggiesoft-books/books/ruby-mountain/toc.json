@@ -15,21 +15,27 @@
         "text_epub_bytes": 237599,
         "text_pdf_bytes": 663054
     },
+    "illustration_count": 0,
     "eras": [
         {
             "era_num": 1,
             "era_title": "Book: The Great Schism",
             "era_url": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Eve of Exile",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism/chapter-1-the-eve-of-exile",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Traitor & The Migration",
-                            "file_path": "e001/c001/p001.md"
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/ruby-mountain/book-the-great-schism/chapter-1-the-eve-of-exile/the-traitor-the-migration",
+                            "date": "1999-05-04",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -37,11 +43,15 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Gates of Exile",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism/chapter-2-the-gates-of-exile",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Final Ultimatum & The Assessment",
-                            "file_path": "e001/c002/p001.md"
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/ruby-mountain/book-the-great-schism/chapter-2-the-gates-of-exile/the-final-ultimatum-the-assessment",
+                            "date": "1999-05-05",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -49,11 +59,15 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Architecture of Survival",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism/chapter-3-the-architecture-of-survival",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Diagnostics & The Truman Execution",
-                            "file_path": "e001/c003/p001.md"
+                            "file_path": "e001/c003/p001.md",
+                            "url": "/ruby-mountain/book-the-great-schism/chapter-3-the-architecture-of-survival/the-diagnostics-the-truman-execution",
+                            "date": "1999-05-06",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -63,21 +77,27 @@
             "era_num": 2,
             "era_title": "Book: Vanessa",
             "era_url": "/raggiesoft-books/books/ruby-mountain/book-vanessa",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Coastal Assessment",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-vanessa/chapter-1-the-coastal-assessment",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Handover & The Island Anomaly",
-                            "file_path": "e002/c001/p001.md"
+                            "file_path": "e002/c001/p001.md",
+                            "url": "/ruby-mountain/book-vanessa/chapter-1-the-coastal-assessment/part-1-the-handover-the-island-anomaly",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Domestic Delusion & The Autonomous Transfer",
-                            "file_path": "e002/c001/p002.md"
+                            "file_path": "e002/c001/p002.md",
+                            "url": "/ruby-mountain/book-vanessa/chapter-1-the-coastal-assessment/part-2-the-domestic-delusion-the-autonomous-transfer",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -87,21 +107,27 @@
             "era_num": 3,
             "era_title": "Book: Johnny's Rescue",
             "era_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: SOS from the Salish Sea",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-1-sos-from-the-salish-sea",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Dial-Up Escape & The Mountain Mobilizes",
-                            "file_path": "e003/c001/p001.md"
+                            "file_path": "e003/c001/p001.md",
+                            "url": "/ruby-mountain/book-johnny-s-rescue/chapter-1-sos-from-the-salish-sea/part-1-the-dial-up-escape-the-mountain-mobilizes",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Wrong Schedule & The Terminal",
-                            "file_path": "e003/c001/p002.md"
+                            "file_path": "e003/c001/p002.md",
+                            "url": "/ruby-mountain/book-johnny-s-rescue/chapter-1-sos-from-the-salish-sea/part-2-the-wrong-schedule-the-terminal",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -109,16 +135,21 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Mainland",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-2-the-mainland",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Reunion & The Gateway",
-                            "file_path": "e003/c002/p001.md"
+                            "file_path": "e003/c002/p001.md",
+                            "url": "/ruby-mountain/book-johnny-s-rescue/chapter-2-the-mainland/part-1-the-reunion-the-gateway",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Prospector Road & The Ticking Clock & Johnny is Home",
-                            "file_path": "e003/c002/p002.md"
+                            "file_path": "e003/c002/p002.md",
+                            "url": "/ruby-mountain/book-johnny-s-rescue/chapter-2-the-mainland/part-2-prospector-road-the-ticking-clock-johnny-is-home",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -126,11 +157,15 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Curriculum",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-3-the-curriculum",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Proxy",
-                            "file_path": "e003/c003/p001.md"
+                            "file_path": "e003/c003/p001.md",
+                            "url": "/ruby-mountain/book-johnny-s-rescue/chapter-3-the-curriculum/the-proxy",
+                            "date": "2003-09-09",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -138,16 +173,23 @@
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Annihilation of Vanessa Hayes",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-4-the-annihilation-of-vanessa-hayes",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Pro Se & The Federal Trap",
-                            "file_path": "e003/c004/p001.md"
+                            "file_path": "e003/c004/p001.md",
+                            "url": "/ruby-mountain/book-johnny-s-rescue/chapter-4-the-annihilation-of-vanessa-hayes/part-1-pro-se-the-federal-trap",
+                            "date": "2003-09-15",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Recess & The Gavel",
-                            "file_path": "e003/c004/p002.md"
+                            "file_path": "e003/c004/p002.md",
+                            "url": "/ruby-mountain/book-johnny-s-rescue/chapter-4-the-annihilation-of-vanessa-hayes/part-2-the-recess-the-gavel",
+                            "date": "2003-09-15",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -155,21 +197,31 @@
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Golden Window",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-5-the-golden-window",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Baseline Telemetry & The Winter Manifest",
-                            "file_path": "e003/c005/p001.md"
+                            "file_path": "e003/c005/p001.md",
+                            "url": "/ruby-mountain/book-johnny-s-rescue/chapter-5-the-golden-window/part-1-baseline-telemetry-the-winter-manifest",
+                            "date": "2003-10-01",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Legal Nuke & The Perimeter",
-                            "file_path": "e003/c005/p002.md"
+                            "file_path": "e003/c005/p002.md",
+                            "url": "/ruby-mountain/book-johnny-s-rescue/chapter-5-the-golden-window/part-2-the-legal-nuke-the-perimeter",
+                            "date": "2003-10-01",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Final Perimeter",
-                            "file_path": "e003/c005/p003.md"
+                            "file_path": "e003/c005/p003.md",
+                            "url": "/ruby-mountain/book-johnny-s-rescue/chapter-5-the-golden-window/part-3-the-final-perimeter",
+                            "date": "2003-10-01",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -177,16 +229,23 @@
                     "chap_num": 6,
                     "chap_title": "Chapter 6: The Anomaly",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-6-the-anomaly",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Pineapple Express & The Air-Gap",
-                            "file_path": "e003/c006/p001.md"
+                            "file_path": "e003/c006/p001.md",
+                            "url": "/ruby-mountain/book-johnny-s-rescue/chapter-6-the-anomaly/part-1-the-pineapple-express-the-air-gap",
+                            "date": "2003-10-07",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Escort & The Tactical Seed",
-                            "file_path": "e003/c006/p002.md"
+                            "file_path": "e003/c006/p002.md",
+                            "url": "/ruby-mountain/book-johnny-s-rescue/chapter-6-the-anomaly/part-2-the-escort-the-tactical-seed",
+                            "date": "2003-10-07",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -194,11 +253,15 @@
                     "chap_num": 7,
                     "chap_title": "Chapter 7: The Model Collapse",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-7-the-model-collapse",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Backchannel & The War Council",
-                            "file_path": "e003/c007/p001.md"
+                            "file_path": "e003/c007/p001.md",
+                            "url": "/ruby-mountain/book-johnny-s-rescue/chapter-7-the-model-collapse/the-backchannel-the-war-council",
+                            "date": "2003-10-09",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -206,11 +269,14 @@
                     "chap_num": 8,
                     "chap_title": "Chapter 8: The Sovereign Pivot",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-8-the-sovereign-pivot",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "All Hands & The Line of Fire",
-                            "file_path": "e003/c008/p001.md"
+                            "file_path": "e003/c008/p001.md",
+                            "url": "/ruby-mountain/book-johnny-s-rescue/chapter-8-the-sovereign-pivot/all-hands-the-line-of-fire",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -218,11 +284,14 @@
                     "chap_num": 9,
                     "chap_title": "Chapter 9: The Redline",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-johnny-s-rescue/chapter-9-the-redline",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Breaking Point",
-                            "file_path": "e003/c009/p001.md"
+                            "file_path": "e003/c009/p001.md",
+                            "url": "/ruby-mountain/book-johnny-s-rescue/chapter-9-the-redline/the-breaking-point",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -232,21 +301,29 @@
             "era_num": 4,
             "era_title": "Book: The Centennial Gala",
             "era_url": "/raggiesoft-books/books/ruby-mountain/book-the-centennial-gala",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Centennial Eve",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-centennial-gala/chapter-1-the-centennial-eve",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Dining Hall & The Iron Shield & The Revelation",
-                            "file_path": "e004/c001/p001.md"
+                            "file_path": "e004/c001/p001.md",
+                            "url": "/ruby-mountain/book-the-centennial-gala/chapter-1-the-centennial-eve/part-1-the-dining-hall-the-iron-shield-the-revelation",
+                            "date": "2003-10-15",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Midnight War Room",
-                            "file_path": "e004/c001/p002.md"
+                            "file_path": "e004/c001/p002.md",
+                            "url": "/ruby-mountain/book-the-centennial-gala/chapter-1-the-centennial-eve/part-2-the-midnight-war-room",
+                            "date": "2003-10-15",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -254,16 +331,23 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 4: The Drawbridge",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-centennial-gala/chapter-4-the-drawbridge",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Waking Fortress & The Five-Mile Moat",
-                            "file_path": "e004/c002/p001.md"
+                            "file_path": "e004/c002/p001.md",
+                            "url": "/ruby-mountain/book-the-centennial-gala/chapter-4-the-drawbridge/part-1-the-waking-fortress-the-five-mile-moat",
+                            "date": "2003-10-16",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The 1903 Illusion & The Golden Hour",
-                            "file_path": "e004/c002/p002.md"
+                            "file_path": "e004/c002/p002.md",
+                            "url": "/ruby-mountain/book-the-centennial-gala/chapter-4-the-drawbridge/part-2-the-1903-illusion-the-golden-hour",
+                            "date": "2003-10-16",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -271,16 +355,23 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 5: The Centennial Gala",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-centennial-gala/chapter-5-the-centennial-gala",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Grand Seating & The Palate Cleanser",
-                            "file_path": "e004/c003/p001.md"
+                            "file_path": "e004/c003/p001.md",
+                            "url": "/ruby-mountain/book-the-centennial-gala/chapter-5-the-centennial-gala/part-1-the-grand-seating-the-palate-cleanser",
+                            "date": "2003-10-16",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Sanctuary",
-                            "file_path": "e004/c003/p002.md"
+                            "file_path": "e004/c003/p002.md",
+                            "url": "/ruby-mountain/book-the-centennial-gala/chapter-5-the-centennial-gala/part-2-the-sanctuary",
+                            "date": "2003-10-16",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -288,16 +379,23 @@
                     "chap_num": 4,
                     "chap_title": "Chapter 6: The Evacuation",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-centennial-gala/chapter-6-the-evacuation",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Cascades Concrete & The Heavy Escort",
-                            "file_path": "e004/c004/p001.md"
+                            "file_path": "e004/c004/p001.md",
+                            "url": "/ruby-mountain/book-the-centennial-gala/chapter-6-the-evacuation/part-1-the-cascades-concrete-the-heavy-escort",
+                            "date": "2003-10-17",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Handoff & The Steel Drops",
-                            "file_path": "e004/c004/p002.md"
+                            "file_path": "e004/c004/p002.md",
+                            "url": "/ruby-mountain/book-the-centennial-gala/chapter-6-the-evacuation/part-2-the-handoff-the-steel-drops",
+                            "date": "2003-10-17",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -307,21 +405,29 @@
             "era_num": 5,
             "era_title": "Book: Winter on the Mountain",
             "era_url": "/raggiesoft-books/books/ruby-mountain/book-winter-on-the-mountain",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Diana\u2019s Lessons",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-winter-on-the-mountain/chapter-1-diana-s-lessons",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Winter Syllabus & The Presentation",
-                            "file_path": "e005/c001/p001.md"
+                            "file_path": "e005/c001/p001.md",
+                            "url": "/ruby-mountain/book-winter-on-the-mountain/chapter-1-diana-s-lessons/part-1-the-winter-syllabus-the-presentation",
+                            "date": "2003-10-17",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Pack",
-                            "file_path": "e005/c001/p002.md"
+                            "file_path": "e005/c001/p002.md",
+                            "url": "/ruby-mountain/book-winter-on-the-mountain/chapter-1-diana-s-lessons/part-2-the-pack",
+                            "date": "2003-10-17",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -329,11 +435,15 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Fortress Within",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-winter-on-the-mountain/chapter-2-the-fortress-within",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Pajama Protocol",
-                            "file_path": "e005/c002/p001.md"
+                            "file_path": "e005/c002/p001.md",
+                            "url": "/ruby-mountain/book-winter-on-the-mountain/chapter-2-the-fortress-within/the-pajama-protocol",
+                            "date": "2003-10-17",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -341,26 +451,35 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: Cascades Concrete",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-winter-on-the-mountain/chapter-3-cascades-concrete",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Whiteout & The Anchor and the Kitchen",
-                            "file_path": "e005/c003/p001.md"
+                            "file_path": "e005/c003/p001.md",
+                            "url": "/ruby-mountain/book-winter-on-the-mountain/chapter-3-cascades-concrete/part-1-the-whiteout-the-anchor-and-the-kitchen",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Thaw & The West Wing",
-                            "file_path": "e005/c003/p002.md"
+                            "file_path": "e005/c003/p002.md",
+                            "url": "/ruby-mountain/book-winter-on-the-mountain/chapter-3-cascades-concrete/part-2-the-thaw-the-west-wing",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Heist & The Tripwire",
-                            "file_path": "e005/c003/p003.md"
+                            "file_path": "e005/c003/p003.md",
+                            "url": "/ruby-mountain/book-winter-on-the-mountain/chapter-3-cascades-concrete/part-3-the-heist-the-tripwire",
+                            "location": "Unknown"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The SS7 Layer & The Legacy Grid",
-                            "file_path": "e005/c003/p004.md"
+                            "file_path": "e005/c003/p004.md",
+                            "url": "/ruby-mountain/book-winter-on-the-mountain/chapter-3-cascades-concrete/part-4-the-ss7-layer-the-legacy-grid",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -368,11 +487,14 @@
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Air-Gap Transition",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-winter-on-the-mountain/chapter-4-the-air-gap-transition",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Logistical Triage",
-                            "file_path": "e005/c004/p001.md"
+                            "file_path": "e005/c004/p001.md",
+                            "url": "/ruby-mountain/book-winter-on-the-mountain/chapter-4-the-air-gap-transition/logistical-triage",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -380,11 +502,15 @@
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Brotherhood of the Air-Gap",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-winter-on-the-mountain/chapter-5-the-brotherhood-of-the-air-gap",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The First Summit",
-                            "file_path": "e005/c005/p001.md"
+                            "file_path": "e005/c005/p001.md",
+                            "url": "/ruby-mountain/book-winter-on-the-mountain/chapter-5-the-brotherhood-of-the-air-gap/the-first-summit",
+                            "date": "2003-10-23",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -394,16 +520,20 @@
             "era_num": 6,
             "era_title": "Book: Vanessa's Downfall",
             "era_url": "/raggiesoft-books/books/ruby-mountain/book-vanessa-s-downfall",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Sovereign Tribunal",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-vanessa-s-downfall/chapter-1-the-sovereign-tribunal",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Broadcast & The Sentencing",
-                            "file_path": "e006/c001/p001.md"
+                            "file_path": "e006/c001/p001.md",
+                            "url": "/ruby-mountain/book-vanessa-s-downfall/chapter-1-the-sovereign-tribunal/the-broadcast-the-sentencing",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -413,16 +543,21 @@
             "era_num": 7,
             "era_title": "Book: A Rogue Inspector",
             "era_url": "/raggiesoft-books/books/ruby-mountain/book-a-rogue-inspector",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Brotherhood of the Air-Gap",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-a-rogue-inspector/chapter-1-the-brotherhood-of-the-air-gap",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A Pulled Permit & The Vanguard Assembly",
-                            "file_path": "e007/c001/p001.md"
+                            "file_path": "e007/c001/p001.md",
+                            "url": "/ruby-mountain/book-a-rogue-inspector/chapter-1-the-brotherhood-of-the-air-gap/a-pulled-permit-the-vanguard-assembly",
+                            "date": "2004-01-13",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -430,11 +565,15 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Proxy War",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-a-rogue-inspector/chapter-2-the-proxy-war",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Judicial Fury & The Rendezvous",
-                            "file_path": "e007/c002/p001.md"
+                            "file_path": "e007/c002/p001.md",
+                            "url": "/ruby-mountain/book-a-rogue-inspector/chapter-2-the-proxy-war/judicial-fury-the-rendezvous",
+                            "date": "2004-01-14",
+                            "location": "Unknown"
                         }
                     ]
                 }
@@ -444,16 +583,21 @@
             "era_num": 8,
             "era_title": "Book: The Air-Gap Chronicles",
             "era_url": "/raggiesoft-books/books/ruby-mountain/book-the-air-gap-chronicles",
+            "illustration_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 3: Mountain Rules",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-air-gap-chronicles/chapter-3-mountain-rules",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Rookie & The Gridmaster",
-                            "file_path": "e008/c001/p001.md"
+                            "file_path": "e008/c001/p001.md",
+                            "url": "/ruby-mountain/book-the-air-gap-chronicles/chapter-3-mountain-rules/the-rookie-the-gridmaster",
+                            "date": "2004-02-12",
+                            "location": "Unknown"
                         }
                     ]
                 },
@@ -461,11 +605,15 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 4: The 911 Fallacy",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-air-gap-chronicles/chapter-4-the-911-fallacy",
+                    "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Civilian Instinct & The Apex Protocol",
-                            "file_path": "e008/c002/p001.md"
+                            "file_path": "e008/c002/p001.md",
+                            "url": "/ruby-mountain/book-the-air-gap-chronicles/chapter-4-the-911-fallacy/the-civilian-instinct-the-apex-protocol",
+                            "date": "2004-02-24",
+                            "location": "Unknown"
                         }
                     ]
                 }
