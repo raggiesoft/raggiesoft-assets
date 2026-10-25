@@ -17970,7 +17970,7 @@ To the music turning way up!
 [Deafening Crowd Roar]
 
 [Spoken Word]
-Can you feel that, See-Pea-Eye?
+Can you feel that, CPI?
 That's the sound of a new world.
 No more gray.
 Just... color.
