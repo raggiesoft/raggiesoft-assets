@@ -1,6 +1,6 @@
 
 # The Stardust Engine - Master Discography & Lore
-Compiled on: 10-25-2026 11:49:48 AM
+Compiled on: 10-25-2026 12:10:19 PM
 
 # Electric Color (1987)
 * **Narrative Era:** 1987
@@ -4706,6 +4706,822 @@ Ad astra...
 * **Narrative Era:** 1999
 * **Real-World DSP Release:** 2026-10-25
 
+## The Stardust Engine
+### Lore
+Opens *Hard Reset Live* with Part I of **The Stardust Suite**, immediately righting the greatest wrong of 1990's *Live in Chicago*: Cassidy's analog synthesizer leitmotif is pushed right to the front of the arena PA alongside Ryan's overdriven electric guitar from his wheelchair at center stage.
+
+### Lyrics
+
+(Verse 1)
+We were looking for a signal
+A light in the endless black
+A single voice in the universe
+To tell us we're on the right track
+
+(Verse 2)
+We found the fire in the wires
+We found the heart in the machine
+Building a dream from nothing
+A sound the world has never seen
+
+(Chorus)
+We are the Stardust Engine!
+Racing through the night
+We're burning on the fuel of a brand new light
+We are the Stardust Engine!
+Yeah, we're taking flight
+Turning our future on, shining so bright!
+
+(Verse 3)
+They tried to ground us, keep us small
+Tell us that we were gonna fall
+But they don't know the things we know
+They haven't seen the places we'll go
+
+(Chorus)
+We are the Stardust Engine!
+Racing through the night
+We're burning on the fuel of a brand new light
+We are the Stardust Engine!
+Yeah, we're taking flight
+Turning our future on, shining so bright!
+
+(Guitar Solo)
+(A soaring, melodic solo that trades licks with a bright synthesizer hook)
+
+(Bridge)
+We are the cosmos, we are the fire
+We're taking this one, higher and higher
+We are the Stardust!
+(We are the Engine!)
+We are the Stardust Engine!
+
+(Chorus)
+We are the Stardust Engine!
+Racing through the night
+We're burning on the fuel of a brand new light
+We are the Stardust Engine!
+Yeah, we're taking flight
+Turning our future on, shining so bright!
+
+(Outro)
+Shining so bright...
+We're taking flight...
+(fades out on an epic, sustained guitar chord)
+
+## Hard Reset
+### Lore
+Transitioning seamlessly into Part II of **The Stardust Suite**, the band wipes the Apex Records slate clean in front of 18,000 screaming fans.
+
+### Lyrics
+
+[Verse 1]
+The G-force fades, the shaking stops
+We're floating past the mountain tops
+The old computer's dead and gone
+We're running on the break of dawn
+
+[Verse 2]
+The screens are black, the air is still
+We're drifting on a silent hill
+Engage the manual override
+There's nowhere left for us to hide
+
+[Pre-Chorus]
+Thrusters? Ready
+Vector? Steady
+We have to jump the spark
+To light up the dark!
+
+[Chorus]
+Hard Reset!
+Flip the switch and clear the cache
+We’re rising from the static crash
+Hard Reset!
+The code is new, the core is bright
+We’re burning through the edge of night
+No ground control!
+No gravity!
+Just the Engine and the Galaxy!
+Hard Reset!
+
+[Verse 3]
+They said we'd burn, they said we'd break
+That freedom was a huge mistake
+But look at how the gauges glow
+We're generating our own flow
+
+[Pre-Chorus]
+Thrusters? Ready
+Vector? Steady
+We have to jump the spark
+To light up the dark!
+
+[Chorus]
+Hard Reset!
+Flip the switch and clear the cache
+We’re rising from the static crash
+Hard Reset!
+The code is new, the core is bright
+We’re burning through the edge of night
+No ground control!
+No gravity!
+Just the Engine and the Galaxy!
+Hard Reset!
+
+[Bridge]
+Stabilizing...
+Synchronizing...
+The hull is holding
+The view is unfolding
+SYSTEM... ONLINE!
+
+[Guitar Solo]
+*(A soaring, melodic solo that mimics the feeling of zero-gravity flight. Lots of delay and chorus.)*
+
+[Outro]
+We are online
+Course laid in
+Let's fly
+*(Final power chord rings out, followed by the hum of a stable engine)*
+
+## Brand New Scene
+### Lore
+Completes the opening three-part **Stardust Suite** (*"We are the cosmos! We are the fire!"*), celebrating the family's first headlining arena tour as independent owners of *Engine Room Records, LLC*.
+
+### Lyrics
+
+[Verse 1]
+We were lost inside a hollow sound
+Stuck on repeat, running circles in the ground
+You were the "Stardust," I was the "Engine"
+A story told by someone else's invention
+
+[Pre-Chorus]
+But the static's gone, the signal's clear
+We found the switch and faced the fear
+This isn't rage, this is release
+We finally found our own true peace
+
+[Chorus]
+We're starting over, wiping the slate clean
+This is a brand new "Stardust Engine" scene
+We're coming home, we're breaking through
+This is the sound we always knew
+It's not a hard reset
+It's just the first time it's been true
+
+[Verse 2]
+They tried to break us, tried to tear us down
+They stole the signal, they stole the crown
+But we're the ones who own the stage
+It's time to turn a brand new page
+
+[Pre-Chorus]
+But the static's gone, the signal's clear
+We found the switch and faced the fear
+This isn't rage, this is release
+We finally found our own true peace
+
+[Chorus]
+We're starting over, wiping the slate clean
+This is a brand new "Stardust Engine" scene
+We're coming home, we're breaking through
+This is the sound we always knew
+It's not a hard reset
+It's just the first time it's been true
+
+[Guitar Solo]
+*(Ryan delivers a soaring, joyous solo that sheds all the previous tension, celebrating their absolute freedom)*
+
+[Bridge]
+We are the cosmos! We are the fire!
+We're taking this one, higher and higher!
+
+[Chorus]
+We're starting over, wiping the slate clean
+This is a brand new "Stardust Engine" scene
+We're coming home, we're breaking through
+This is the sound we always knew
+It's not a hard reset
+It's just the first time it's been true
+
+[Outro]
+A brand new scene... 
+We're coming home...
+*(The track slowly fades out, bringing the massive Stardust Suite to a peaceful, resolved conclusion)*
+
+## Static
+### Lore
+Originally dubbed onto mail-order cassettes inside their freezing warehouse studio in 1995, *"I am the static! I am the noise!"* becomes a deafening 18,000-voice arena chant.
+
+### Lyrics
+
+(Verse 1)
+You wanted pop, you wanted clean
+A hollow sound from a thin machine
+You tried to tune me out, you tried to change the dial
+But I've been waiting all this while
+
+(Chorus)
+I am the static! I am the noise!
+The signal breaking, the hidden voice
+I am the static!
+The feedback wail!
+The story that you tried to derail!
+
+(Verse 2)
+This isn't synth-pop, this isn't grace
+This is the sound of a different place
+This is the heart you tried to hide
+The part of us that never died
+
+(Chorus)
+I am the static! I am the noise!
+The signal breaking, the hidden voice
+I am the static!
+The feedback wail!
+The story that you tried to derail!
+
+(Guitar Solo)
+
+(Chorus)
+I am the static! I am the noise!
+The signal breaking, the hidden voice
+I am the static!
+The feedback wail!
+The story that you tried to derail!
+
+(Outro)
+I am the static...
+I am the static...
+Can you hear me now?
+
+## Not Your Doll
+### Lore
+Cassidy's fierce 1989 rebellion against the corporate pop-idol box, finally unleashed live with the full heavy rock teeth Apex suppressed.
+
+### Lyrics
+
+(Verse 1)
+You put me in a box, you told me to be sweet
+The "Stardust" girl, the perfect beat
+You told me "soften up," you told me "know your place"
+But you never saw the fire in my face
+
+(Chorus)
+'Cause I'm not your doll!
+I'm not your pretty toy
+I'm not just a picture for a poster boy
+I'm not your doll!
+I'm here to make a choice
+And I'm gonna make you hear my voice!
+
+(Verse 2)
+You're scared of the noise, you're scared of the grit
+You're terrified that I'm not gonna fit
+In the tiny world you built for me
+But I'm about to set myself free
+
+(Chorus)
+'Cause I'm not your doll!
+I'm not your pretty toy
+I'm not just a picture for a poster boy
+I'm not your doll!
+I'm here to make a choice
+And I'm gonna make you hear my voice!
+
+(Guitar Solo)
+
+(Bridge)
+You heard the "story to be told"?
+Well, I'm the one who'll break the mold!
+You wanted 'Stardust'? You get the fire!
+My voice is real, and it's getting higher!
+
+(Chorus)
+'Cause I'm not your doll!
+I'm not your pretty toy
+I'm not just a picture for a poster boy
+I'm not your doll!
+I'm here to make a choice
+And I'm gonna make you hear my voice!
+
+(Outro)
+Not your doll!
+Hear my voice!
+(fades out on a wailing guitar note)
+
+## The Fortress
+### Lore
+Dedicated nightly from the stage to the grassroots Ironheads and Forger Nation fans who funded the band's survival during the 1992–1995 Wilderness Years.
+
+### Lyrics
+
+[Intro]
+*(A massive, bright, instantly memorable 1980s synthesizer riff kicks in, immediately backed by a booming, gated-reverb snare drum at a driving 130 BPM)*
+
+[Verse 1]
+They tried to break the circle, they tried to tear the seam
+But you can't put a price tag on the architects of a dream
+We stood out in the freezing rain, our backs against the wall
+But looking at the five of us, I knew we'd never fall!
+
+[Pre-Chorus]
+The compass always points me back to you
+The only thing I've ever known is true!
+
+[Chorus]
+We built a fortress out of the fire!
+We took the engine and we pushed it higher!
+Through the static and the heavy weather
+We proved that family always sticks together!
+Oh, we're standing in the light!
+Yeah, we won the fight tonight!
+
+[Verse 2]
+We didn't need the spotlight, we didn't need their gold
+We kept the only promises that never could be sold
+From the dorm rooms in the valley to the neon city streets
+The rhythm of this family is the only heart that beats!
+
+[Pre-Chorus]
+The compass always points me back to you
+The only thing I've ever known is true!
+
+[Chorus]
+We built a fortress out of the fire!
+We took the engine and we pushed it higher!
+Through the static and the heavy weather
+We proved that family always sticks together!
+Oh, we're standing in the light!
+Yeah, we won the fight tonight!
+
+[Instrumental Break]
+*(The driving 130 BPM beat holds steady as Ryan delivers a soaring, joyous electric guitar solo that perfectly harmonizes with Cassidy's bright synthesizer riff)*
+
+[Bridge]
+No more shadows!
+No more running blind!
+We're leaving all the empty noise behind!
+
+[Chorus]
+We built a fortress out of the fire!
+We took the engine and we pushed it higher!
+Through the static and the heavy weather
+We proved that family always sticks together!
+Oh, we're standing in the light!
+Yeah, we won the fight tonight!
+
+[Outro]
+Standing in the light!
+Family sticks together!
+*(The song ends on a final, triumphant crash of the cymbals and a bright synth chord)*
+
+## No Hidden Gravity
+### Lore
+The booming 1996 *Ad Astra* B-side power ballad celebrating pure platonic and safe-person devotion, sung by Ryan and Cassidy as a direct refutation of forced industry tropes.
+
+### Lyrics
+
+[Intro]
+[Atmospheric 1980s Analog Synthesizer, Slow Echoing Piano]
+They look at us and try to draw a line
+Connecting the dots in their standard design
+They expect the push, they expect the fall
+But they don't understand this architecture at all
+
+[Verse 1]
+[Steady Bassline, Slow Driving Drum Beat]
+I'm used to the guessing, the games, and the chase
+The hidden agendas invading my space
+But you left your armor right there at the door
+You don't want a piece of me, you don't ask for more
+I told you the boundary, I drew you the map
+And you didn't treat it like some kind of trap
+
+[Pre-Chorus]
+[Building Tempo, Heavy Guitar Chords]
+No blurred lines, no sudden attack!
+I can turn around and know you've got my back!
+
+[Chorus]
+[Maximum Volume, Massive 80s Arena Rock, Booming Snare]
+There's no hidden gravity pulling us down!
+No fatal attraction, no spinning around!
+We're flying in parallel, steady and true
+The safest place in the world is right next to you!
+We're breaking the script, we're changing the game
+A different kind of fire without the flame!
+Yeah, there's no hidden gravity here!
+
+[Verse 2]
+[Pulsing Synth, Driving Rhythm]
+They say that two people can never just stand
+Side by side without holding a hand
+But society's ledger is broken and cheap
+This is a promise I'm willing to keep
+You don't have to perform, you don't have to pretend
+I'm not your salvation, I'm just your friend
+
+[Pre-Chorus]
+[Building Tempo, Heavy Guitar Chords]
+No blurred lines, no sudden attack!
+I can turn around and know you've got my back!
+
+[Chorus]
+[Maximum Volume, Massive 80s Arena Rock, Booming Snare]
+There's no hidden gravity pulling us down!
+No fatal attraction, no spinning around!
+We're flying in parallel, steady and true
+The safest place in the world is right next to you!
+We're breaking the script, we're changing the game
+A different kind of fire without the flame!
+Yeah, there's no hidden gravity here!
+
+[Guitar Solo]
+[Soaring, Melodic Electric Guitar Solo, Bright Synth Stabs, Heavy Half-Time Drums]
+
+[Bridge]
+[Music Drops Out, Just Piano and Vocals]
+You don't need to conquer.
+I don't need to hide.
+We built a fortress.
+With no one inside but us!
+
+[Chorus]
+[Explosive Re-entry, Full Band, Layered Vocals]
+There's no hidden gravity pulling us down!
+No fatal attraction, no spinning around!
+We're flying in parallel, steady and true
+The safest place in the world is right next to you!
+We're breaking the script, we're changing the game
+A different kind of fire without the flame!
+Yeah, there's no hidden gravity here!
+
+[Outro]
+[Music Slowly Fading, Shimmering Synth Pad]
+No hidden gravity.
+Just the signal coming clear.
+I'm right here.
+[Final Sustained Piano Chord]
+[End]
+
+## Thunderhead
+### Lore
+Kicks off the second half of the concert with slow-stomping, heavy arena thunder (*"You muted the kick / You silenced the crash"*).
+
+### Lyrics
+
+[Intro]
+*(A slow, heavy, sludgy guitar riff stomps into the speakers, setting a dark and thunderous groove before the drums crash in like a breaking storm)*
+
+[Verse 1]
+You kept the lightning locked inside a jar
+Told us to smile and play the pop star
+You muted the kick
+You silenced the crash
+But we built a fire from the sparks and the ash
+
+[Pre-Chorus]
+Can you feel the pressure dropping?
+Can you hear the rhythm knocking?
+The glass is cracking, the walls are thin
+We're letting the heavy weather in
+
+[Chorus]
+We are the thunderhead (yeah)
+Rolling across the sky
+We're waking up the dead (yeah)
+Kiss the quiet days goodbye
+A hundred miles an hour shaking the ground
+This is the fury
+This is the sound
+
+[Verse 2]
+Ten years of machines keeping time in the dark
+Now we're striking the metal, we're making a mark
+The snare is a gunshot
+The toms are a quake
+How much of this noise can your system take?
+
+[Pre-Chorus]
+Can you feel the pressure dropping?
+Can you hear the rhythm knocking?
+The glass is cracking, the walls are thin
+We're letting the heavy weather in
+
+[Chorus]
+We are the thunderhead (yeah)
+Rolling across the sky
+We're waking up the dead (yeah)
+Kiss the quiet days goodbye
+A hundred miles an hour shaking the ground
+This is the fury
+This is the sound
+
+[Guitar Solo]
+*(Ryan delivers a raw, feedback-drenched solo that squeals and roars like lightning striking the fretboard)*
+
+[Bridge]
+We're breaking the silence
+We're bringing the storm
+We're tearing apart the uniform
+
+[Chorus]
+We are the thunderhead (yeah)
+Rolling across the sky
+We're waking up the dead (yeah)
+Kiss the quiet days goodbye
+A hundred miles an hour shaking the ground
+This is the fury
+This is the sound
+
+[Outro]
+Bring the thunder
+Shake the ground (yeah)
+(Oh)
+*(The track ends with a final, massive drum crash that echoes out into silence)*
+
+## Redline
+### Lore
+Segues directly out of *"Thunderhead"* with the governors torn off—featuring an extended live duel between Ryan's electric guitar and Cassidy's synthesizer.
+
+### Lyrics
+
+[Intro]
+*(A frantic, double-kick drum intro from Tyler blasts through the speakers, immediately chased by a shredding, high-speed rock riff. The tempo is dangerously fast, practically daring the listener to keep up.)*
+
+[Verse 1]
+Tear the governor right out of the dash
+We’re burning up the runway, making a flash
+The needle's shaking at the top of the gauge
+We’re breaking out of the corporate cage
+They kept us idling, running on low
+But now we've got the green light, ready to go!
+
+[Pre-Chorus]
+Drop the clutch and kick the floor
+Hear the Stardust Engine roar!
+
+[Chorus]
+We’re hitting the redline!
+Pushing it past the edge of control!
+We’re hitting the redline!
+Risking the body to rescue the soul!
+No more limits, no more brakes
+We’re taking all the chances that it takes!
+Yeah, we're in the redline!
+
+[Verse 2]
+They tuned us down so we wouldn't ignite
+But now we're burning like a meteorite
+A hundred thousand miles an hour and climbing
+Don't try to stop us, don't check the timing
+We're overheating but we love how it feels
+Spitting out sparks from the back of the wheels!
+
+[Pre-Chorus]
+Drop the clutch and kick the floor
+Hear the Stardust Engine roar!
+
+[Chorus]
+We’re hitting the redline!
+Pushing it past the edge of control!
+We’re hitting the redline!
+Risking the body to rescue the soul!
+No more limits, no more brakes
+We’re taking all the chances that it takes!
+Yeah, we're in the redline!
+
+[Instrumental Break]
+*(Ryan and Cassidy lock into a furious, high-speed duel. The guitar and analog synth trade lightning-fast, shredding arpeggios over Evan and Tyler's relentless, thrash-inspired rhythm section. It sounds like the track is going to vibrate itself to pieces.)*
+
+[Bridge]
+The warning lights are flashing red
+We left the safety net for dead
+Maximum velocity!
+Total animosity!
+
+[Chorus]
+We’re hitting the redline!
+Pushing it past the edge of control!
+We’re hitting the redline!
+Risking the body to rescue the soul!
+No more limits, no more brakes
+We’re taking all the chances that it takes!
+Yeah, we're in the redline!
+
+[Outro]
+Past the edge!
+No brakes!
+Redline!
+*(The track ends in a screeching halt of amplifier feedback, tire squeals on a synthesizer, and a final, choked cymbal crash)*
+
+## Moon 1: Tidal Lock
+### Lore
+The arena lights dim to a deep planetarium starfield as Cassidy debuts the live iteration of **The Cosmic Tidal Lock Sound™**, bathing the crowd in zero-gravity analog synth pads.
+
+### Lyrics
+
+[Intro]
+*(A tight, driving 1980s drum beat enters. A pulsing synth bassline locks into the rhythm, perfectly anchoring the track as shimmering analog synth pads slowly rise in the background.)*
+
+[Verse 1]
+We crossed the line into the dark
+Left the atmosphere, a fading spark
+But I can feel the pull of where you are
+A heavy gravity from a distant star
+They tried to spin us out of control
+But we found the center, we found the soul
+
+[Pre-Chorus]
+The telemetry is clear tonight
+Half in the shadow, half in the light
+I'm caught in the orbit, spinning around
+A million miles above the ground
+
+[Chorus]
+And I'm in a tidal lock with you!
+Suspended in the velvet and the blue
+No matter how I turn, no matter where I fly
+You are the only anchor in my sky
+Yeah, I'm in a tidal lock with you!
+
+[Verse 2]
+The radio is quiet, the signal is dead
+But I hear the rhythm inside my head
+We don't need the sun to show us the way
+We left the noise of the terrestrial day
+We're charting the math that they couldn't see
+Perfect alignment in the zero-G
+
+[Pre-Chorus]
+The telemetry is clear tonight
+Half in the shadow, half in the light
+I'm caught in the orbit, spinning around
+A million miles above the ground
+
+[Chorus]
+And I'm in a tidal lock with you!
+Suspended in the velvet and the blue
+No matter how I turn, no matter where I fly
+You are the only anchor in my sky
+Yeah, I'm in a tidal lock with you!
+
+[Instrumental Spacewalk]
+*(Evan steps into the spotlight, playing a melodic, sliding fretless bass solo over Tyler's driving drum beat. Cassidy's analog synths sparkle in the background like passing satellites, creating a lush, unmistakably 80s soundscape.)*
+
+[Chorus]
+'Cause I'm in a tidal lock with you!
+Suspended in the velvet and the blue
+No matter how I turn, no matter where I fly
+You are the only anchor in my sky
+Yeah, I'm in a tidal lock with you!
+
+[Outro]
+Half in the shadow.
+Half in the light.
+Tidal lock.
+*(The synths sweep upward, echoing out into the void as the driving drum beat slowly fades away into the starfield)*
+
+## Echoes in the Wire
+### Lore
+**The Emotional Heart of the Show.** Standing in the exact setlist slot where Apex once forced Cassidy to sing the permanently banned *"If You Walked Away"*, Ryan rolls his chair right beside Cassidy's keyboard riser to sing *"Echoes in the Wire"* shoulder-to-shoulder.
+
+### Lyrics
+
+[Intro]
+*(A sweeping, atmospheric synthesizer pad swells into the silence, soon joined by a slow, heavy, echoing drum beat. A clean, chorus-drenched electric guitar picks out a gentle, reflective melody.)*
+
+[Verse 1]
+The dust is settling on the stage
+We finally turned the heavy page
+I see the shadows on the wall
+Standing quiet after the fall
+All the static faded out
+Leaving nothing but the doubt
+
+[Pre-Chorus]
+But in the quiet, I can hear
+A frequency coming clear
+We made it through the longest night
+Now we're standing in the light
+
+[Chorus]
+We're just echoes in the wire
+Sparks escaping from the fire
+Hold on to the memory
+Of who we used to be
+When the world is standing still
+I know we always will
+Leave a shadow in the sound
+Whenever we come down
+
+[Verse 2]
+Ten thousand voices in the dark
+Leaving a temporary mark
+We traded time for something real
+A kind of gravity you feel
+The city sleeping far below
+We're glowing in the afterglow
+
+[Pre-Chorus]
+And in the quiet, I can hear
+A frequency coming clear
+We made it through the longest night
+Now we're standing in the light
+
+[Chorus]
+We're just echoes in the wire
+Sparks escaping from the fire
+Hold on to the memory
+Of who we used to be
+When the world is standing still
+I know we always will
+Leave a shadow in the sound
+Whenever we come down
+
+[Guitar Solo]
+*(The drums open up into a massive, booming half-time groove. Ryan steps forward and delivers a soaring, highly emotional power-ballad guitar solo, holding long, weeping notes that echo into the rafters.)*
+
+[Bridge]
+No more running from the ghost
+We're holding on to what matters most
+The silence is a kind of song
+Telling us where we belong
+
+[Chorus]
+We're just echoes in the wire
+Sparks escaping from the fire
+Hold on to the memory
+Of who we used to be
+When the world is standing still
+I know we always will
+Leave a shadow in the sound
+Whenever we come down
+
+[Outro]
+Echoes in the wire.
+Fading in the dark.
+Leaving our mark.
+*(The heavy drums drop out, leaving only Cassidy's gentle synthesizer pad and a final, clean guitar chord slowly fading into the darkness.)*
+
+## Electric Color
+### Lore
+The mandatory concert closer—performed 10 BPM faster with roaring guitars, soaring analog synths, and total independence.
+
+### Lyrics
+
+(Verse 1)
+Woke up this morning, the world was gray
+Didn't know the colors had all faded away
+Been living in a room with the curtains drawn tight
+Then you flipped a switch and turned on the light
+
+(Chorus)
+Oh, I'm seeing in electric color
+Finding a rhythm I never knew
+Dancing in a brand new summer
+My whole world feels bright and new
+It's an electric-colored feeling
+And it all started with you!
+
+(Verse 2)
+The city sounds were just a buzz in my ear
+A static station I could never quite hear
+But now the noise is turning into a song
+And I finally feel like I belong
+
+(Chorus)
+Oh, I'm seeing in electric color
+Finding a rhythm I never knew
+Dancing in a brand new summer
+My whole world feels bright and new
+It's an electric-colored feeling
+And it all started with you!
+
+(Bridge)
+The beat is getting stronger
+I can't hide it any longer
+My heart is playing catch-up
+To the music turning way up!
+
+(Guitar Solo)
+
+(Chorus)
+Oh, I'm seeing in electric color
+Finding a rhythm I never knew
+Dancing in a brand new summer
+My whole world feels bright and new
+It's an electric-colored feeling
+And it all started with you!
+
+(Outro)
+Electric color
+Feeling so new
+It's all because of you
+
 # Midnight Drivers (2001)
 * **Narrative Era:** 2001
 * **Real-World DSP Release:** 2026-05-01
@@ -5429,9 +6245,1940 @@ According to the lore, Ryan and Cassidy had stepped out of the booth, and the tw
 * **Narrative Era:** 2002
 * **Real-World DSP Release:** 2026-10-25
 
+## The Stardust Engine
+### Lore
+The mandatory concert opener inside **The Chancellery** at *The University of the Piedmont* (`UP`) in Charlottesville, Virginia, as the band steps out in Navy Blue and Old Gold UP shirts as friends of Albemarle County's **Crimson Node**.
+
+### Lyrics
+
+(Verse 1)
+We were looking for a signal
+A light in the endless black
+A single voice in the universe
+To tell us we're on the right track
+
+(Verse 2)
+We found the fire in the wires
+We found the heart in the machine
+Building a dream from nothing
+A sound the world has never seen
+
+(Chorus)
+We are the Stardust Engine!
+Racing through the night
+We're burning on the fuel of a brand new light
+We are the Stardust Engine!
+Yeah, we're taking flight
+Turning our future on, shining so bright!
+
+(Verse 3)
+They tried to ground us, keep us small
+Tell us that we were gonna fall
+But they don't know the things we know
+They haven't seen the places we'll go
+
+(Chorus)
+We are the Stardust Engine!
+Racing through the night
+We're burning on the fuel of a brand new light
+We are the Stardust Engine!
+Yeah, we're taking flight
+Turning our future on, shining so bright!
+
+(Guitar Solo)
+(A soaring, melodic solo that trades licks with a bright synthesizer hook)
+
+(Bridge)
+We are the cosmos, we are the fire
+We're taking this one, higher and higher
+We are the Stardust!
+(We are the Engine!)
+We are the Stardust Engine!
+
+(Chorus)
+We are the Stardust Engine!
+Racing through the night
+We're burning on the fuel of a brand new light
+We are the Stardust Engine!
+Yeah, we're taking flight
+Turning our future on, shining so bright!
+
+(Outro)
+Shining so bright...
+We're taking flight...
+(fades out on an epic, sustained guitar chord)
+
+## Neon Pulse
+### Lore
+High-speed nocturnal synth-rock opener from 2001's *Midnight Drivers* echoing across the mathematically perfect acoustic baffling of The Chancellery.
+
+### Lyrics
+
+[Intro]
+*(The track explodes out of the gate. A fast, driving drum machine locks in with a bright, arpeggiated analog synthesizer. Evan's bassline propels the momentum forward before Cassidy’s crystal-clear vocals cut through the mix.)*
+
+[Verse 1]
+The skyline wakes up when the sun goes down
+A million electric eyes over the town
+Turn the key and feel the hum in the floor
+We’re leaving the shadows right outside the door
+
+[Chorus]
+Catch the neon pulse, riding on the wire
+Racing through the streets, glowing like a fire
+No looking back, we’re out of the frame
+Running on the spark, wild and untamed
+Catch the neon pulse tonight
+
+[Verse 2]
+The dashboard is glowing, a steady bright green
+The fastest escape that this city has seen
+The rhythm is beating right under our feet
+A steady transmission out on the street
+
+[Chorus]
+Catch the neon pulse, riding on the wire
+Racing through the streets, glowing like a fire
+No looking back, we’re out of the frame
+Running on the spark, wild and untamed
+Catch the neon pulse tonight
+
+[Bridge]
+Through the tunnel lights, blinding and fast
+Everything broken is left in the past
+Hold on to the wheel, steady and sure
+We’re chasing a frequency, perfect and pure
+
+[Guitar Solo]
+*(Ryan steps up, delivering a blistering, high-energy electric guitar solo that perfectly bridges the gap between Cassidy's retro synth-pop structure and the band's raw rock roots.)*
+
+[Chorus]
+Catch the neon pulse, riding on the wire
+Racing through the streets, glowing like a fire
+No looking back, we’re out of the frame
+Running on the spark, wild and untamed
+Catch the neon pulse tonight
+
+[Outro]
+Wild and untamed
+Catch the pulse tonight
+*(The synths swirl and peak as the instrumental slowly fades out into the city grid)*
+
+## Midnight Drivers
+### Lore
+The title track of the 2001–2002 *Midnight Drivers / Across The World Tour*, driven by Evan and Tyler's locked-in rhythm section.
+
+### Lyrics
+
+[Intro]
+*(Instrumental - A deep, pulsing synthesizer bassline cuts through the silence, anchored by a sparse, echoing drum machine that mimics the hypnotic rhythm of windshield wipers.)*
+
+[Verse 1]
+Headlights cut across the rain
+Wipers keep the beat on the window pane
+Static on the radio, fading in and out
+We're just shadows in the dashboard lights
+
+[Chorus]
+Driving in the dark, running on neon fumes
+Leaving all the ghosts in their empty rooms
+This city's just a map of glowing, faded lines
+But I'm safe right here, between your eyes and mine
+Midnight drivers, in the fading light
+
+[Verse 2]
+The skyline's a promise, cold and blue
+I don't know this road, but I'm with you
+The analog display is a steady green glow
+Got no destination, just a place to go
+
+[Chorus]
+Driving in the dark, running on neon fumes
+Leaving all the ghosts in their empty rooms
+This city's just a map of glowing, faded lines
+But I'm safe right here, between your eyes and mine
+Midnight drivers, in the fading light
+
+[Bridge]
+*(The beat drops out, leaving only an ethereal, sweeping synth pad. The vocals become intimate and quiet.)*
+Don't have to talk
+Don't have to say a thing
+The engine hums a rhythm
+The future's what we bring
+
+[Synth Solo]
+*(Instrumental - Cassidy delivers a moody, atmospheric synthesizer solo that weaves through the heavy reverb of the drum track.)*
+
+[Chorus]
+Driving in the dark, running on neon fumes
+Leaving all the ghosts in their empty rooms
+This city's just a map of glowing, faded lines
+But I'm safe right here, between your eyes and mine
+Midnight drivers, in the fading light
+
+[Outro]
+*(Instrumental fade-out with a heavy, distinct echo on the snare drum, trailing off into the dark)*
+
+## Hard Reset
+### Lore
+A blistering arena rendition of the 1997 title anthem inside Charlottesville's flagship indoor arena.
+
+### Lyrics
+
+[Verse 1]
+The G-force fades, the shaking stops
+We're floating past the mountain tops
+The old computer's dead and gone
+We're running on the break of dawn
+
+[Verse 2]
+The screens are black, the air is still
+We're drifting on a silent hill
+Engage the manual override
+There's nowhere left for us to hide
+
+[Pre-Chorus]
+Thrusters? Ready
+Vector? Steady
+We have to jump the spark
+To light up the dark!
+
+[Chorus]
+Hard Reset!
+Flip the switch and clear the cache
+We’re rising from the static crash
+Hard Reset!
+The code is new, the core is bright
+We’re burning through the edge of night
+No ground control!
+No gravity!
+Just the Engine and the Galaxy!
+Hard Reset!
+
+[Verse 3]
+They said we'd burn, they said we'd break
+That freedom was a huge mistake
+But look at how the gauges glow
+We're generating our own flow
+
+[Pre-Chorus]
+Thrusters? Ready
+Vector? Steady
+We have to jump the spark
+To light up the dark!
+
+[Chorus]
+Hard Reset!
+Flip the switch and clear the cache
+We’re rising from the static crash
+Hard Reset!
+The code is new, the core is bright
+We’re burning through the edge of night
+No ground control!
+No gravity!
+Just the Engine and the Galaxy!
+Hard Reset!
+
+[Bridge]
+Stabilizing...
+Synchronizing...
+The hull is holding
+The view is unfolding
+SYSTEM... ONLINE!
+
+[Guitar Solo]
+*(A soaring, melodic solo that mimics the feeling of zero-gravity flight. Lots of delay and chorus.)*
+
+[Outro]
+We are online
+Course laid in
+Let's fly
+*(Final power chord rings out, followed by the hum of a stable engine)*
+
+## Static
+### Lore
+15,000 Charlottesville fans roar the chorus of the 1995 *Warehouse Tapes* classic.
+
+### Lyrics
+
+(Verse 1)
+You wanted pop, you wanted clean
+A hollow sound from a thin machine
+You tried to tune me out, you tried to change the dial
+But I've been waiting all this while
+
+(Chorus)
+I am the static! I am the noise!
+The signal breaking, the hidden voice
+I am the static!
+The feedback wail!
+The story that you tried to derail!
+
+(Verse 2)
+This isn't synth-pop, this isn't grace
+This is the sound of a different place
+This is the heart you tried to hide
+The part of us that never died
+
+(Chorus)
+I am the static! I am the noise!
+The signal breaking, the hidden voice
+I am the static!
+The feedback wail!
+The story that you tried to derail!
+
+(Guitar Solo)
+
+(Chorus)
+I am the static! I am the noise!
+The signal breaking, the hidden voice
+I am the static!
+The feedback wail!
+The story that you tried to derail!
+
+(Outro)
+I am the static...
+I am the static...
+Can you hear me now?
+
+## Not Your Doll
+### Lore
+Cassidy commands the arena from her multi-tier synthesizer rig on the reclaimed 1989 rock anthem.
+
+### Lyrics
+
+(Verse 1)
+You put me in a box, you told me to be sweet
+The "Stardust" girl, the perfect beat
+You told me "soften up," you told me "know your place"
+But you never saw the fire in my face
+
+(Chorus)
+'Cause I'm not your doll!
+I'm not your pretty toy
+I'm not just a picture for a poster boy
+I'm not your doll!
+I'm here to make a choice
+And I'm gonna make you hear my voice!
+
+(Verse 2)
+You're scared of the noise, you're scared of the grit
+You're terrified that I'm not gonna fit
+In the tiny world you built for me
+But I'm about to set myself free
+
+(Chorus)
+'Cause I'm not your doll!
+I'm not your pretty toy
+I'm not just a picture for a poster boy
+I'm not your doll!
+I'm here to make a choice
+And I'm gonna make you hear my voice!
+
+(Guitar Solo)
+
+(Bridge)
+You heard the "story to be told"?
+Well, I'm the one who'll break the mold!
+You wanted 'Stardust'? You get the fire!
+My voice is real, and it's getting higher!
+
+(Chorus)
+'Cause I'm not your doll!
+I'm not your pretty toy
+I'm not just a picture for a poster boy
+I'm not your doll!
+I'm here to make a choice
+And I'm gonna make you hear my voice!
+
+(Outro)
+Not your doll!
+Hear my voice!
+(fades out on a wailing guitar note)
+
+## Moon 1: Tidal Lock
+### Lore
+Cassidy transforms the ceiling of The Chancellery into a zero-gravity planetarium showcase of **The Cosmic Tidal Lock Sound™**.
+
+### Lyrics
+
+[Intro]
+*(A tight, driving 1980s drum beat enters. A pulsing synth bassline locks into the rhythm, perfectly anchoring the track as shimmering analog synth pads slowly rise in the background.)*
+
+[Verse 1]
+We crossed the line into the dark
+Left the atmosphere, a fading spark
+But I can feel the pull of where you are
+A heavy gravity from a distant star
+They tried to spin us out of control
+But we found the center, we found the soul
+
+[Pre-Chorus]
+The telemetry is clear tonight
+Half in the shadow, half in the light
+I'm caught in the orbit, spinning around
+A million miles above the ground
+
+[Chorus]
+And I'm in a tidal lock with you!
+Suspended in the velvet and the blue
+No matter how I turn, no matter where I fly
+You are the only anchor in my sky
+Yeah, I'm in a tidal lock with you!
+
+[Verse 2]
+The radio is quiet, the signal is dead
+But I hear the rhythm inside my head
+We don't need the sun to show us the way
+We left the noise of the terrestrial day
+We're charting the math that they couldn't see
+Perfect alignment in the zero-G
+
+[Pre-Chorus]
+The telemetry is clear tonight
+Half in the shadow, half in the light
+I'm caught in the orbit, spinning around
+A million miles above the ground
+
+[Chorus]
+And I'm in a tidal lock with you!
+Suspended in the velvet and the blue
+No matter how I turn, no matter where I fly
+You are the only anchor in my sky
+Yeah, I'm in a tidal lock with you!
+
+[Instrumental Spacewalk]
+*(Evan steps into the spotlight, playing a melodic, sliding fretless bass solo over Tyler's driving drum beat. Cassidy's analog synths sparkle in the background like passing satellites, creating a lush, unmistakably 80s soundscape.)*
+
+[Chorus]
+'Cause I'm in a tidal lock with you!
+Suspended in the velvet and the blue
+No matter how I turn, no matter where I fly
+You are the only anchor in my sky
+Yeah, I'm in a tidal lock with you!
+
+[Outro]
+Half in the shadow.
+Half in the light.
+Tidal lock.
+*(The synths sweep upward, echoing out into the void as the driving drum beat slowly fades away into the starfield)*
+
+## Echoes in the Wire
+### Lore
+Permanently replacing the retired *"If You Walked Away"*, Ryan and Cassidy perform their signature sibling survival ballad.
+
+### Lyrics
+
+[Intro]
+*(A sweeping, atmospheric synthesizer pad swells into the silence, soon joined by a slow, heavy, echoing drum beat. A clean, chorus-drenched electric guitar picks out a gentle, reflective melody.)*
+
+[Verse 1]
+The dust is settling on the stage
+We finally turned the heavy page
+I see the shadows on the wall
+Standing quiet after the fall
+All the static faded out
+Leaving nothing but the doubt
+
+[Pre-Chorus]
+But in the quiet, I can hear
+A frequency coming clear
+We made it through the longest night
+Now we're standing in the light
+
+[Chorus]
+We're just echoes in the wire
+Sparks escaping from the fire
+Hold on to the memory
+Of who we used to be
+When the world is standing still
+I know we always will
+Leave a shadow in the sound
+Whenever we come down
+
+[Verse 2]
+Ten thousand voices in the dark
+Leaving a temporary mark
+We traded time for something real
+A kind of gravity you feel
+The city sleeping far below
+We're glowing in the afterglow
+
+[Pre-Chorus]
+And in the quiet, I can hear
+A frequency coming clear
+We made it through the longest night
+Now we're standing in the light
+
+[Chorus]
+We're just echoes in the wire
+Sparks escaping from the fire
+Hold on to the memory
+Of who we used to be
+When the world is standing still
+I know we always will
+Leave a shadow in the sound
+Whenever we come down
+
+[Guitar Solo]
+*(The drums open up into a massive, booming half-time groove. Ryan steps forward and delivers a soaring, highly emotional power-ballad guitar solo, holding long, weeping notes that echo into the rafters.)*
+
+[Bridge]
+No more running from the ghost
+We're holding on to what matters most
+The silence is a kind of song
+Telling us where we belong
+
+[Chorus]
+We're just echoes in the wire
+Sparks escaping from the fire
+Hold on to the memory
+Of who we used to be
+When the world is standing still
+I know we always will
+Leave a shadow in the sound
+Whenever we come down
+
+[Outro]
+Echoes in the wire.
+Fading in the dark.
+Leaving our mark.
+*(The heavy drums drop out, leaving only Cassidy's gentle synthesizer pad and a final, clean guitar chord slowly fading into the darkness.)*
+
+## No Hidden Gravity
+### Lore
+Soaring arena duet celebrating unbreakable family and safe-person loyalty.
+
+### Lyrics
+
+[Intro]
+[Atmospheric 1980s Analog Synthesizer, Slow Echoing Piano]
+They look at us and try to draw a line
+Connecting the dots in their standard design
+They expect the push, they expect the fall
+But they don't understand this architecture at all
+
+[Verse 1]
+[Steady Bassline, Slow Driving Drum Beat]
+I'm used to the guessing, the games, and the chase
+The hidden agendas invading my space
+But you left your armor right there at the door
+You don't want a piece of me, you don't ask for more
+I told you the boundary, I drew you the map
+And you didn't treat it like some kind of trap
+
+[Pre-Chorus]
+[Building Tempo, Heavy Guitar Chords]
+No blurred lines, no sudden attack!
+I can turn around and know you've got my back!
+
+[Chorus]
+[Maximum Volume, Massive 80s Arena Rock, Booming Snare]
+There's no hidden gravity pulling us down!
+No fatal attraction, no spinning around!
+We're flying in parallel, steady and true
+The safest place in the world is right next to you!
+We're breaking the script, we're changing the game
+A different kind of fire without the flame!
+Yeah, there's no hidden gravity here!
+
+[Verse 2]
+[Pulsing Synth, Driving Rhythm]
+They say that two people can never just stand
+Side by side without holding a hand
+But society's ledger is broken and cheap
+This is a promise I'm willing to keep
+You don't have to perform, you don't have to pretend
+I'm not your salvation, I'm just your friend
+
+[Pre-Chorus]
+[Building Tempo, Heavy Guitar Chords]
+No blurred lines, no sudden attack!
+I can turn around and know you've got my back!
+
+[Chorus]
+[Maximum Volume, Massive 80s Arena Rock, Booming Snare]
+There's no hidden gravity pulling us down!
+No fatal attraction, no spinning around!
+We're flying in parallel, steady and true
+The safest place in the world is right next to you!
+We're breaking the script, we're changing the game
+A different kind of fire without the flame!
+Yeah, there's no hidden gravity here!
+
+[Guitar Solo]
+[Soaring, Melodic Electric Guitar Solo, Bright Synth Stabs, Heavy Half-Time Drums]
+
+[Bridge]
+[Music Drops Out, Just Piano and Vocals]
+You don't need to conquer.
+I don't need to hide.
+We built a fortress.
+With no one inside but us!
+
+[Chorus]
+[Explosive Re-entry, Full Band, Layered Vocals]
+There's no hidden gravity pulling us down!
+No fatal attraction, no spinning around!
+We're flying in parallel, steady and true
+The safest place in the world is right next to you!
+We're breaking the script, we're changing the game
+A different kind of fire without the flame!
+Yeah, there's no hidden gravity here!
+
+[Outro]
+[Music Slowly Fading, Shimmering Synth Pad]
+No hidden gravity.
+Just the signal coming clear.
+I'm right here.
+[Final Sustained Piano Chord]
+[End]
+
+## Thunderhead
+### Lore
+Heavy stadium drums and overdriven guitar riffs shake the floor of The Chancellery.
+
+### Lyrics
+
+[Intro]
+*(A slow, heavy, sludgy guitar riff stomps into the speakers, setting a dark and thunderous groove before the drums crash in like a breaking storm)*
+
+[Verse 1]
+You kept the lightning locked inside a jar
+Told us to smile and play the pop star
+You muted the kick
+You silenced the crash
+But we built a fire from the sparks and the ash
+
+[Pre-Chorus]
+Can you feel the pressure dropping?
+Can you hear the rhythm knocking?
+The glass is cracking, the walls are thin
+We're letting the heavy weather in
+
+[Chorus]
+We are the thunderhead (yeah)
+Rolling across the sky
+We're waking up the dead (yeah)
+Kiss the quiet days goodbye
+A hundred miles an hour shaking the ground
+This is the fury
+This is the sound
+
+[Verse 2]
+Ten years of machines keeping time in the dark
+Now we're striking the metal, we're making a mark
+The snare is a gunshot
+The toms are a quake
+How much of this noise can your system take?
+
+[Pre-Chorus]
+Can you feel the pressure dropping?
+Can you hear the rhythm knocking?
+The glass is cracking, the walls are thin
+We're letting the heavy weather in
+
+[Chorus]
+We are the thunderhead (yeah)
+Rolling across the sky
+We're waking up the dead (yeah)
+Kiss the quiet days goodbye
+A hundred miles an hour shaking the ground
+This is the fury
+This is the sound
+
+[Guitar Solo]
+*(Ryan delivers a raw, feedback-drenched solo that squeals and roars like lightning striking the fretboard)*
+
+[Bridge]
+We're breaking the silence
+We're bringing the storm
+We're tearing apart the uniform
+
+[Chorus]
+We are the thunderhead (yeah)
+Rolling across the sky
+We're waking up the dead (yeah)
+Kiss the quiet days goodbye
+A hundred miles an hour shaking the ground
+This is the fury
+This is the sound
+
+[Outro]
+Bring the thunder
+Shake the ground (yeah)
+(Oh)
+*(The track ends with a final, massive drum crash that echoes out into silence)*
+
+## My Anchor: The Sail
+### Lore
+The 1997 *Hard Reset* reclamation of their 1987 classic, sung with the entire Charlottesville crowd.
+
+### Lyrics
+
+[Intro]
+*(The track opens with a solitary, echoing piano melody that feels deliberately reminiscent of their 1987 sound, before a massive, booming drum fill drops in, instantly transforming it into a stadium-sized power ballad)*
+
+[Verse 1]
+I was the one who was lost in the gray
+A ship in the dark, afraid of the day
+You were the harbor, the only truth
+My anchor in this crazy youth
+
+[Verse 2]
+But an anchor's made to hold you fast
+It was never meant to make you last
+I was the anchor, holding you down
+Afraid that you would leave this town
+
+[Chorus]
+But you were never meant to stay
+You were the sail, meant to fly away
+And I was just the heavy stone
+The one you had to leave alone
+Now I'm the anchor, and you're the sail
+We're in this storm, and we can't fail
+
+[Verse 3]
+I'm not a stone, I'm by your side
+We're in this current, on the same tide
+I'm not the anchor, I'm the wind
+The one who helps your journey begin
+
+[Verse 4]
+We're not an anchor and a sail
+We're just a ship that will prevail
+We are the compass, we are the map
+We're finding our way back
+
+[Chorus]
+'Cause you were never meant to stay
+You were the sail, meant to fly away
+But I was never a heavy stone
+You never had to be alone
+I'm not the anchor, you're not the sail
+We're in this storm, and we will prevail
+
+[Guitar Solo]
+*(Ryan steps up for the final solo of Disc 1. It is soaring, deeply melodic, and dripping with emotion, building the track to its ultimate, thunderous climax)*
+
+[Outro]
+We will prevail...
+We're coming home...
+We're coming home...
+*(The heavy instrumentation slowly washes away, leaving just the lingering echo of Cassidy's synthesizer and the final ring of an acoustic guitar, bringing Disc 1 to a peaceful close)*
+
+## Brand New Scene
+### Lore
+Drives the main set to its peak before the traditional closer.
+
+### Lyrics
+
+[Verse 1]
+We were lost inside a hollow sound
+Stuck on repeat, running circles in the ground
+You were the "Stardust," I was the "Engine"
+A story told by someone else's invention
+
+[Pre-Chorus]
+But the static's gone, the signal's clear
+We found the switch and faced the fear
+This isn't rage, this is release
+We finally found our own true peace
+
+[Chorus]
+We're starting over, wiping the slate clean
+This is a brand new "Stardust Engine" scene
+We're coming home, we're breaking through
+This is the sound we always knew
+It's not a hard reset
+It's just the first time it's been true
+
+[Verse 2]
+They tried to break us, tried to tear us down
+They stole the signal, they stole the crown
+But we're the ones who own the stage
+It's time to turn a brand new page
+
+[Pre-Chorus]
+But the static's gone, the signal's clear
+We found the switch and faced the fear
+This isn't rage, this is release
+We finally found our own true peace
+
+[Chorus]
+We're starting over, wiping the slate clean
+This is a brand new "Stardust Engine" scene
+We're coming home, we're breaking through
+This is the sound we always knew
+It's not a hard reset
+It's just the first time it's been true
+
+[Guitar Solo]
+*(Ryan delivers a soaring, joyous solo that sheds all the previous tension, celebrating their absolute freedom)*
+
+[Bridge]
+We are the cosmos! We are the fire!
+We're taking this one, higher and higher!
+
+[Chorus]
+We're starting over, wiping the slate clean
+This is a brand new "Stardust Engine" scene
+We're coming home, we're breaking through
+This is the sound we always knew
+It's not a hard reset
+It's just the first time it's been true
+
+[Outro]
+A brand new scene... 
+We're coming home...
+*(The track slowly fades out, bringing the massive Stardust Suite to a peaceful, resolved conclusion)*
+
+## Electric Color
+### Lore
+**The False Ending.** For the only time on the 2001–2002 tour, The Stardust Engine's traditional closer *"Electric Color"* serves as a **false ending** at the end of the main set so the road crew can roll out two drum kits and two full sets of instruments for the historic encore.
+
+### Lyrics
+
+(Verse 1)
+Woke up this morning, the world was gray
+Didn't know the colors had all faded away
+Been living in a room with the curtains drawn tight
+Then you flipped a switch and turned on the light
+
+(Chorus)
+Oh, I'm seeing in electric color
+Finding a rhythm I never knew
+Dancing in a brand new summer
+My whole world feels bright and new
+It's an electric-colored feeling
+And it all started with you!
+
+(Verse 2)
+The city sounds were just a buzz in my ear
+A static station I could never quite hear
+But now the noise is turning into a song
+And I finally feel like I belong
+
+(Chorus)
+Oh, I'm seeing in electric color
+Finding a rhythm I never knew
+Dancing in a brand new summer
+My whole world feels bright and new
+It's an electric-colored feeling
+And it all started with you!
+
+(Bridge)
+The beat is getting stronger
+I can't hide it any longer
+My heart is playing catch-up
+To the music turning way up!
+
+(Guitar Solo)
+
+(Chorus)
+Oh, I'm seeing in electric color
+Finding a rhythm I never knew
+Dancing in a brand new summer
+My whole world feels bright and new
+It's an electric-colored feeling
+And it all started with you!
+
+(Outro)
+Electric color
+Feeling so new
+It's all because of you
+
+## The Flight Path (feat. Crimson Node)
+### Lore
+**The Historic Torch-Passing Finale (`6:23`).** Refusing to subject a young band to the thankless "30-minute opening-act box" Apex Records forced on them during the 1989 *Neon Hearts* tour, Ryan and Cassidy return to the floor of The Chancellery with **two drum kits and two sets of instruments**. Ryan confesses that the unnamed mystery song they slipped into the middle of their sets all year wasn't written by them, and introduces Charlottesville's own hometown heroes from right off Route 29—**Crimson Node**—to close down the night together. Immediately after the show, Holly O'Connell bought midnight airtime on Charlottesville FM rock stations to play the studio master as fans drove home.
+
+### Lyrics
+
+[Live Stadium Crowd Roar]
+[Single White Spotlight]
+
+[Spoken Word Intro]
+[male]
+Charlottesville! You have been absolutely beautiful tonight!
+I know exactly what you were thinking when you bought these tickets.
+A bunch of stubborn Ironheads marching into The Chancellery...
+You expected us to come out here bleeding maroon, right?
+But tonight, we aren't rivals. We're all just chasing the exact same signal.
+
+[female]
+And for the record... your acoustic baffling in this arena is mathematically perfect.
+You have a very structurally sound home.
+
+[male]
+She's not wrong!
+Listen... back on the Neon Hearts tour, we were just an opening act.
+We had family friends headlining, and they wanted us to jam with them to close the night.
+The label executives said, "Absolutely not."
+They kept us in our thirty-minute box.
+Well tonight, we call the shots! We don't do traditional opening acts anymore!
+If we're closing down The Chancellery, we're doing it with family!
+Two drum kits! Two sets of instruments! Everyone on the floor!
+We slipped a new song into the middle of our sets this year.
+We never announced it. We never said a word about it.
+But you've been screaming the lyrics back at us every single night!
+Well, I have a confession to make: we didn't write it. We just kept it warm.
+Tonight, we brought the architects out here to play it with us!
+You didn't have to look far to find them, either.
+They built this engine in a garage right here off Route 29!
+Charlottesville, meet your hometown heroes... CRIMSON NODE!
+
+[Extended Live Instrumental Intro]
+[Audience Cheering in the Dark]
+[Atmospheric Analog Synth Swell]
+(Building tension with two drum kits and soaring lead guitar...)
+
+[Slow, Heavy Tom Drum Strike]
+(The crowd roars...)
+
+[Distorted Rhythm Guitar Chord]
+[Massive Beat Drop / Stage Lights Up]
+
+[Verse 1]
+[female]
+The static clears, the room is standing still
+We calculate the angles, bending time and will
+[male]
+I draw the line across the open air
+No sudden moves, I know exactly where
+[female]
+We're taking off, but first we need the key
+
+[Pre-Chorus]
+[male]
+I call the coordinates out loud
+A steady voice above the crowd
+I hold my hand out, wait for the command
+The double-tap upon my hand
+We never launch without the green light
+
+[Chorus]
+We are charting the flight path, perfectly aligned
+Leaving the gravity far behind
+We carry the weight, we balance the load
+Following the numbers in the silent code
+Shoulder to shoulder, synchronized and true
+I'll always share the flight path with you
+
+[Verse 2]
+[male]
+The naval clock is ticking in my head
+We take the leverage, nothing left unsaid
+An anchor grounded firmly on the floor
+We rise together, breaking through the door
+The heavy crane is ready on the line
+
+[Pre-Chorus]
+[male]
+I call the coordinates out loud
+A steady voice above the crowd
+I hold my hand out, wait for the command
+The double-tap upon my hand
+We never launch without the green light
+
+[Chorus]
+We are charting the flight path, perfectly aligned
+Leaving the gravity far behind
+We carry the weight, we balance the load
+Following the numbers in the silent code
+Shoulder to shoulder, synchronized and true
+I'll always share the flight path with you
+
+[Bridge]
+[male]
+When the system overloads and the signals start to fray
+[female]
+We build a fortress on the ground to keep the storm at bay
+[male]
+A heavy blanket in the dark, the pressure brings you home
+[female]
+You'll never have to navigate the atmosphere alone
+
+[Instrumental Solo]
+(Soaring guitar solo trading off with a complex synth melody and dual drum kits)
+
+[Chorus]
+We are charting the flight path, perfectly aligned
+Leaving the gravity far behind
+We carry the weight, we balance the load
+Following the numbers in the silent code
+
+[Outro]
+[male]
+The flight path is clear!
+The anchor is here!
+Double-tap! We are cleared to fly!
+Double-tap! Reaching for the sky!
+
+[Spoken Word / Live Sign-off]
+[male]
+Thank you, Charlottesville!
+The Stardust Engine and Crimson Node love you!
+Goodnight!
+
+(Massive ringing synth chord, crashing cymbals, and deafening crowd roar)
+
 # Live in Virginia Beach (2003) [LiveAlbum]
 * **Narrative Era:** 2003
 * **Real-World DSP Release:** 2026-10-25
+
+## The Stardust Engine
+### Lore
+Opens the coastal homecoming concert under the sweeping white pavilion canopy of the **CTI Virginia Beach Amphitheater** as 20,000 fans across the pavilion and sloped grass lawn roar along.
+
+### Lyrics
+
+(Verse 1)
+We were looking for a signal
+A light in the endless black
+A single voice in the universe
+To tell us we're on the right track
+
+(Verse 2)
+We found the fire in the wires
+We found the heart in the machine
+Building a dream from nothing
+A sound the world has never seen
+
+(Chorus)
+We are the Stardust Engine!
+Racing through the night
+We're burning on the fuel of a brand new light
+We are the Stardust Engine!
+Yeah, we're taking flight
+Turning our future on, shining so bright!
+
+(Verse 3)
+They tried to ground us, keep us small
+Tell us that we were gonna fall
+But they don't know the things we know
+They haven't seen the places we'll go
+
+(Chorus)
+We are the Stardust Engine!
+Racing through the night
+We're burning on the fuel of a brand new light
+We are the Stardust Engine!
+Yeah, we're taking flight
+Turning our future on, shining so bright!
+
+(Guitar Solo)
+(A soaring, melodic solo that trades licks with a bright synthesizer hook)
+
+(Bridge)
+We are the cosmos, we are the fire
+We're taking this one, higher and higher
+We are the Stardust!
+(We are the Engine!)
+We are the Stardust Engine!
+
+(Chorus)
+We are the Stardust Engine!
+Racing through the night
+We're burning on the fuel of a brand new light
+We are the Stardust Engine!
+Yeah, we're taking flight
+Turning our future on, shining so bright!
+
+(Outro)
+Shining so bright...
+We're taking flight...
+(fades out on an epic, sustained guitar chord)
+
+## Neon Pulse
+### Lore
+Nocturnal highway synth-rock from 2001's *Midnight Drivers* pulsing across the Virginia Beach summer night.
+
+### Lyrics
+
+[Intro]
+*(The track explodes out of the gate. A fast, driving drum machine locks in with a bright, arpeggiated analog synthesizer. Evan's bassline propels the momentum forward before Cassidy’s crystal-clear vocals cut through the mix.)*
+
+[Verse 1]
+The skyline wakes up when the sun goes down
+A million electric eyes over the town
+Turn the key and feel the hum in the floor
+We’re leaving the shadows right outside the door
+
+[Chorus]
+Catch the neon pulse, riding on the wire
+Racing through the streets, glowing like a fire
+No looking back, we’re out of the frame
+Running on the spark, wild and untamed
+Catch the neon pulse tonight
+
+[Verse 2]
+The dashboard is glowing, a steady bright green
+The fastest escape that this city has seen
+The rhythm is beating right under our feet
+A steady transmission out on the street
+
+[Chorus]
+Catch the neon pulse, riding on the wire
+Racing through the streets, glowing like a fire
+No looking back, we’re out of the frame
+Running on the spark, wild and untamed
+Catch the neon pulse tonight
+
+[Bridge]
+Through the tunnel lights, blinding and fast
+Everything broken is left in the past
+Hold on to the wheel, steady and sure
+We’re chasing a frequency, perfect and pure
+
+[Guitar Solo]
+*(Ryan steps up, delivering a blistering, high-energy electric guitar solo that perfectly bridges the gap between Cassidy's retro synth-pop structure and the band's raw rock roots.)*
+
+[Chorus]
+Catch the neon pulse, riding on the wire
+Racing through the streets, glowing like a fire
+No looking back, we’re out of the frame
+Running on the spark, wild and untamed
+Catch the neon pulse tonight
+
+[Outro]
+Wild and untamed
+Catch the pulse tonight
+*(The synths swirl and peak as the instrumental slowly fades out into the city grid)*
+
+## Midnight Drivers
+### Lore
+The title anthem of the 2001–2002 world tour performed in the O'Connell and Wright family's original coastal hometown.
+
+### Lyrics
+
+[Intro]
+*(Instrumental - A deep, pulsing synthesizer bassline cuts through the silence, anchored by a sparse, echoing drum machine that mimics the hypnotic rhythm of windshield wipers.)*
+
+[Verse 1]
+Headlights cut across the rain
+Wipers keep the beat on the window pane
+Static on the radio, fading in and out
+We're just shadows in the dashboard lights
+
+[Chorus]
+Driving in the dark, running on neon fumes
+Leaving all the ghosts in their empty rooms
+This city's just a map of glowing, faded lines
+But I'm safe right here, between your eyes and mine
+Midnight drivers, in the fading light
+
+[Verse 2]
+The skyline's a promise, cold and blue
+I don't know this road, but I'm with you
+The analog display is a steady green glow
+Got no destination, just a place to go
+
+[Chorus]
+Driving in the dark, running on neon fumes
+Leaving all the ghosts in their empty rooms
+This city's just a map of glowing, faded lines
+But I'm safe right here, between your eyes and mine
+Midnight drivers, in the fading light
+
+[Bridge]
+*(The beat drops out, leaving only an ethereal, sweeping synth pad. The vocals become intimate and quiet.)*
+Don't have to talk
+Don't have to say a thing
+The engine hums a rhythm
+The future's what we bring
+
+[Synth Solo]
+*(Instrumental - Cassidy delivers a moody, atmospheric synthesizer solo that weaves through the heavy reverb of the drum track.)*
+
+[Chorus]
+Driving in the dark, running on neon fumes
+Leaving all the ghosts in their empty rooms
+This city's just a map of glowing, faded lines
+But I'm safe right here, between your eyes and mine
+Midnight drivers, in the fading light
+
+[Outro]
+*(Instrumental fade-out with a heavy, distinct echo on the snare drum, trailing off into the dark)*
+
+## Hard Reset
+### Lore
+Heavy 1980s-rooted arena rock cutting across the pavilion and lawn of the CTI Virginia Beach Amphitheater.
+
+### Lyrics
+
+[Verse 1]
+The G-force fades, the shaking stops
+We're floating past the mountain tops
+The old computer's dead and gone
+We're running on the break of dawn
+
+[Verse 2]
+The screens are black, the air is still
+We're drifting on a silent hill
+Engage the manual override
+There's nowhere left for us to hide
+
+[Pre-Chorus]
+Thrusters? Ready
+Vector? Steady
+We have to jump the spark
+To light up the dark!
+
+[Chorus]
+Hard Reset!
+Flip the switch and clear the cache
+We’re rising from the static crash
+Hard Reset!
+The code is new, the core is bright
+We’re burning through the edge of night
+No ground control!
+No gravity!
+Just the Engine and the Galaxy!
+Hard Reset!
+
+[Verse 3]
+They said we'd burn, they said we'd break
+That freedom was a huge mistake
+But look at how the gauges glow
+We're generating our own flow
+
+[Pre-Chorus]
+Thrusters? Ready
+Vector? Steady
+We have to jump the spark
+To light up the dark!
+
+[Chorus]
+Hard Reset!
+Flip the switch and clear the cache
+We’re rising from the static crash
+Hard Reset!
+The code is new, the core is bright
+We’re burning through the edge of night
+No ground control!
+No gravity!
+Just the Engine and the Galaxy!
+Hard Reset!
+
+[Bridge]
+Stabilizing...
+Synchronizing...
+The hull is holding
+The view is unfolding
+SYSTEM... ONLINE!
+
+[Guitar Solo]
+*(A soaring, melodic solo that mimics the feeling of zero-gravity flight. Lots of delay and chorus.)*
+
+[Outro]
+We are online
+Course laid in
+Let's fly
+*(Final power chord rings out, followed by the hum of a stable engine)*
+
+## Garbage
+### Lore
+Raw industrial-tinged rock energy from 1995's *The Warehouse Tapes*.
+
+### Lyrics
+
+(Verse 1)
+You brought your tray, your silver plate
+You thought you'd open up the gate
+You showed me powder on a glass
+You thought you had a man of class
+
+(Chorus)
+It was just dust! It was just a lie!
+So I wiped it clean, and I watched you die
+You called it 'art', you called it 'style'
+It was just garbage in a filthy pile!
+
+(Verse 2)
+You held your clipboard like a gun
+You thought the battle was already won
+You crossed the line, you showed your hand
+You'll never, ever understand
+
+(Chorus)
+It was just dust! It was just a lie!
+So I wiped it clean, and I watched you die
+You called it 'art', you called it 'style'
+It was just garbage in a filthy pile!
+
+(Guitar Solo)
+
+(Chorus)
+It was just dust! It was just a lie!
+So I wiped it clean, and I watched you die
+You called it 'art', 'cuz you're a fake
+It was just garbage, make no mistake!
+
+## The Fortress
+### Lore
+Dedicated to the Tidewater and Hampton Roads fans who stood by the family from the very beginning.
+
+### Lyrics
+
+[Intro]
+*(A massive, bright, instantly memorable 1980s synthesizer riff kicks in, immediately backed by a booming, gated-reverb snare drum at a driving 130 BPM)*
+
+[Verse 1]
+They tried to break the circle, they tried to tear the seam
+But you can't put a price tag on the architects of a dream
+We stood out in the freezing rain, our backs against the wall
+But looking at the five of us, I knew we'd never fall!
+
+[Pre-Chorus]
+The compass always points me back to you
+The only thing I've ever known is true!
+
+[Chorus]
+We built a fortress out of the fire!
+We took the engine and we pushed it higher!
+Through the static and the heavy weather
+We proved that family always sticks together!
+Oh, we're standing in the light!
+Yeah, we won the fight tonight!
+
+[Verse 2]
+We didn't need the spotlight, we didn't need their gold
+We kept the only promises that never could be sold
+From the dorm rooms in the valley to the neon city streets
+The rhythm of this family is the only heart that beats!
+
+[Pre-Chorus]
+The compass always points me back to you
+The only thing I've ever known is true!
+
+[Chorus]
+We built a fortress out of the fire!
+We took the engine and we pushed it higher!
+Through the static and the heavy weather
+We proved that family always sticks together!
+Oh, we're standing in the light!
+Yeah, we won the fight tonight!
+
+[Instrumental Break]
+*(The driving 130 BPM beat holds steady as Ryan delivers a soaring, joyous electric guitar solo that perfectly harmonizes with Cassidy's bright synthesizer riff)*
+
+[Bridge]
+No more shadows!
+No more running blind!
+We're leaving all the empty noise behind!
+
+[Chorus]
+We built a fortress out of the fire!
+We took the engine and we pushed it higher!
+Through the static and the heavy weather
+We proved that family always sticks together!
+Oh, we're standing in the light!
+Yeah, we won the fight tonight!
+
+[Outro]
+Standing in the light!
+Family sticks together!
+*(The song ends on a final, triumphant crash of the cymbals and a bright synth chord)*
+
+## Moon 1: Tidal Lock
+### Lore
+Cassidy bathes the open-air Virginia Beach grass lawn in the shimmering analog synth pads of **The Cosmic Tidal Lock Sound™** under the coastal stars.
+
+### Lyrics
+
+[Intro]
+*(A tight, driving 1980s drum beat enters. A pulsing synth bassline locks into the rhythm, perfectly anchoring the track as shimmering analog synth pads slowly rise in the background.)*
+
+[Verse 1]
+We crossed the line into the dark
+Left the atmosphere, a fading spark
+But I can feel the pull of where you are
+A heavy gravity from a distant star
+They tried to spin us out of control
+But we found the center, we found the soul
+
+[Pre-Chorus]
+The telemetry is clear tonight
+Half in the shadow, half in the light
+I'm caught in the orbit, spinning around
+A million miles above the ground
+
+[Chorus]
+And I'm in a tidal lock with you!
+Suspended in the velvet and the blue
+No matter how I turn, no matter where I fly
+You are the only anchor in my sky
+Yeah, I'm in a tidal lock with you!
+
+[Verse 2]
+The radio is quiet, the signal is dead
+But I hear the rhythm inside my head
+We don't need the sun to show us the way
+We left the noise of the terrestrial day
+We're charting the math that they couldn't see
+Perfect alignment in the zero-G
+
+[Pre-Chorus]
+The telemetry is clear tonight
+Half in the shadow, half in the light
+I'm caught in the orbit, spinning around
+A million miles above the ground
+
+[Chorus]
+And I'm in a tidal lock with you!
+Suspended in the velvet and the blue
+No matter how I turn, no matter where I fly
+You are the only anchor in my sky
+Yeah, I'm in a tidal lock with you!
+
+[Instrumental Spacewalk]
+*(Evan steps into the spotlight, playing a melodic, sliding fretless bass solo over Tyler's driving drum beat. Cassidy's analog synths sparkle in the background like passing satellites, creating a lush, unmistakably 80s soundscape.)*
+
+[Chorus]
+'Cause I'm in a tidal lock with you!
+Suspended in the velvet and the blue
+No matter how I turn, no matter where I fly
+You are the only anchor in my sky
+Yeah, I'm in a tidal lock with you!
+
+[Outro]
+Half in the shadow.
+Half in the light.
+Tidal lock.
+*(The synths sweep upward, echoing out into the void as the driving drum beat slowly fades away into the starfield)*
+
+## The Flight Path
+### Lore
+**First-Ever Recorded Live Performance of *"The Flight Path"* (Mid-Concert Unannounced Mystery Song, `5:14`).** Slipped unannounced right into the middle of the set (*"We're gonna keep it moving. We've been testing this next one out on the road for the last few weeks. Let's see if you've caught on to the words yet!"*), Ryan and Cassidy test whether the Virginia Beach crowd knows the lyrics from recent tour tape-trading. All 20,000 fans at the CTI Virginia Beach Amphitheater roar the chorus back at the stage, 100% convinced it is a brand-new Stardust Engine song—with no song title or mention of **Crimson Node** given! Released in February 2003 after *Crimson Node* and *Live at the Chancellery*.
+
+### Lyrics
+
+[Live Arena Crowd Cheering]
+[Atmospheric Analog Synth Arpeggio]
+
+[Spoken Word Intro]
+[male]
+Thank you so much!
+You guys are sounding incredible out there tonight!
+We're gonna keep it moving.
+We've been testing this next one out on the road for the last few weeks.
+Let's see if you've caught on to the words yet!
+
+[Extended Live Instrumental Intro]
+(Soaring melodic lead guitar and driving 1980s synth-prog rhythm kick in)
+[male]
+Yeah-yeah!
+
+[Verse 1]
+[male]
+The static clears, the room is standing still
+We calculate the angles, bending time and will
+I draw the line across the open air
+No sudden moves, I know exactly where
+We're taking off, but first we need the key
+
+[Pre-Chorus]
+[male]
+I call the coordinates out loud
+A steady voice above the crowd
+I hold my hand out, wait for the command
+The double-tap upon my hand
+We never launch without the green light
+
+[Chorus]
+(20,000 fans at CTI Virginia Beach Amphitheater roaring the chorus alongside the band)
+We are charting the flight path, perfectly aligned
+Leaving the gravity far behind
+We carry the weight, we balance the load
+Following the numbers in the silent code
+Shoulder to shoulder, synchronized and true
+I'll always share the flight path with you
+
+[Instrumental Break]
+(Blistering dual guitar and analog synth riff)
+
+[Verse 2]
+[female]
+The naval clock is ticking in my head
+We take the leverage, nothing left unsaid
+[male]
+An anchor grounded firmly on the floor
+We rise together, breaking through the door
+The heavy crane is ready on the line
+
+[Pre-Chorus]
+[male]
+I call the coordinates out loud
+A steady voice above the crowd
+I hold my hand out, wait for the command
+The double-tap upon my hand
+We never launch without the green light
+
+[Chorus]
+We are charting the flight path, perfectly aligned
+Leaving the gravity far behind
+We carry the weight, we balance the load
+Following the numbers in the silent code
+Shoulder to shoulder, synchronized and true
+I'll always share the flight path with you
+
+[Guitar Riff Interlude]
+[male]
+Let me hear you!
+Sing it out!
+
+[Bridge]
+[male]
+When the system overloads and the signals start to fray
+We build a fortress on the ground to keep the storm at bay
+A heavy blanket in the dark, the pressure brings you home
+You'll never have to navigate the atmosphere alone
+
+[Chorus]
+We are charting the flight path, perfectly aligned
+Leaving the gravity far behind
+We carry the weight, we balance the load
+Following the numbers in the silent code
+
+[Outro]
+[female]
+The flight path is clear
+[male]
+The anchor is here
+Double-tap, we are cleared to fly!
+Double-tap, reaching for the sky!
+
+(Soaring guitar outro over roaring Virginia Beach crowd)
+[male]
+You got it!
+
+(Final crashing power chord and thunderous amphitheater applause)
+
+## Echoes in the Wire
+### Lore
+Permanently occupying the emotional ballad spotlight in place of the banned *"If You Walked Away"*.
+
+### Lyrics
+
+[Intro]
+*(A sweeping, atmospheric synthesizer pad swells into the silence, soon joined by a slow, heavy, echoing drum beat. A clean, chorus-drenched electric guitar picks out a gentle, reflective melody.)*
+
+[Verse 1]
+The dust is settling on the stage
+We finally turned the heavy page
+I see the shadows on the wall
+Standing quiet after the fall
+All the static faded out
+Leaving nothing but the doubt
+
+[Pre-Chorus]
+But in the quiet, I can hear
+A frequency coming clear
+We made it through the longest night
+Now we're standing in the light
+
+[Chorus]
+We're just echoes in the wire
+Sparks escaping from the fire
+Hold on to the memory
+Of who we used to be
+When the world is standing still
+I know we always will
+Leave a shadow in the sound
+Whenever we come down
+
+[Verse 2]
+Ten thousand voices in the dark
+Leaving a temporary mark
+We traded time for something real
+A kind of gravity you feel
+The city sleeping far below
+We're glowing in the afterglow
+
+[Pre-Chorus]
+And in the quiet, I can hear
+A frequency coming clear
+We made it through the longest night
+Now we're standing in the light
+
+[Chorus]
+We're just echoes in the wire
+Sparks escaping from the fire
+Hold on to the memory
+Of who we used to be
+When the world is standing still
+I know we always will
+Leave a shadow in the sound
+Whenever we come down
+
+[Guitar Solo]
+*(The drums open up into a massive, booming half-time groove. Ryan steps forward and delivers a soaring, highly emotional power-ballad guitar solo, holding long, weeping notes that echo into the rafters.)*
+
+[Bridge]
+No more running from the ghost
+We're holding on to what matters most
+The silence is a kind of song
+Telling us where we belong
+
+[Chorus]
+We're just echoes in the wire
+Sparks escaping from the fire
+Hold on to the memory
+Of who we used to be
+When the world is standing still
+I know we always will
+Leave a shadow in the sound
+Whenever we come down
+
+[Outro]
+Echoes in the wire.
+Fading in the dark.
+Leaving our mark.
+*(The heavy drums drop out, leaving only Cassidy's gentle synthesizer pad and a final, clean guitar chord slowly fading into the darkness.)*
+
+## No Hidden Gravity
+### Lore
+A special Tidewater performance of the 1996 power ballad inspired by Hampton Roads' own Nate and Maya.
+
+### Lyrics
+
+[Intro]
+[Atmospheric 1980s Analog Synthesizer, Slow Echoing Piano]
+They look at us and try to draw a line
+Connecting the dots in their standard design
+They expect the push, they expect the fall
+But they don't understand this architecture at all
+
+[Verse 1]
+[Steady Bassline, Slow Driving Drum Beat]
+I'm used to the guessing, the games, and the chase
+The hidden agendas invading my space
+But you left your armor right there at the door
+You don't want a piece of me, you don't ask for more
+I told you the boundary, I drew you the map
+And you didn't treat it like some kind of trap
+
+[Pre-Chorus]
+[Building Tempo, Heavy Guitar Chords]
+No blurred lines, no sudden attack!
+I can turn around and know you've got my back!
+
+[Chorus]
+[Maximum Volume, Massive 80s Arena Rock, Booming Snare]
+There's no hidden gravity pulling us down!
+No fatal attraction, no spinning around!
+We're flying in parallel, steady and true
+The safest place in the world is right next to you!
+We're breaking the script, we're changing the game
+A different kind of fire without the flame!
+Yeah, there's no hidden gravity here!
+
+[Verse 2]
+[Pulsing Synth, Driving Rhythm]
+They say that two people can never just stand
+Side by side without holding a hand
+But society's ledger is broken and cheap
+This is a promise I'm willing to keep
+You don't have to perform, you don't have to pretend
+I'm not your salvation, I'm just your friend
+
+[Pre-Chorus]
+[Building Tempo, Heavy Guitar Chords]
+No blurred lines, no sudden attack!
+I can turn around and know you've got my back!
+
+[Chorus]
+[Maximum Volume, Massive 80s Arena Rock, Booming Snare]
+There's no hidden gravity pulling us down!
+No fatal attraction, no spinning around!
+We're flying in parallel, steady and true
+The safest place in the world is right next to you!
+We're breaking the script, we're changing the game
+A different kind of fire without the flame!
+Yeah, there's no hidden gravity here!
+
+[Guitar Solo]
+[Soaring, Melodic Electric Guitar Solo, Bright Synth Stabs, Heavy Half-Time Drums]
+
+[Bridge]
+[Music Drops Out, Just Piano and Vocals]
+You don't need to conquer.
+I don't need to hide.
+We built a fortress.
+With no one inside but us!
+
+[Chorus]
+[Explosive Re-entry, Full Band, Layered Vocals]
+There's no hidden gravity pulling us down!
+No fatal attraction, no spinning around!
+We're flying in parallel, steady and true
+The safest place in the world is right next to you!
+We're breaking the script, we're changing the game
+A different kind of fire without the flame!
+Yeah, there's no hidden gravity here!
+
+[Outro]
+[Music Slowly Fading, Shimmering Synth Pad]
+No hidden gravity.
+Just the signal coming clear.
+I'm right here.
+[Final Sustained Piano Chord]
+[End]
+
+## Redline
+### Lore
+High-velocity guitar and synthesizer duel between Ryan and Cassidy.
+
+### Lyrics
+
+[Intro]
+*(A frantic, double-kick drum intro from Tyler blasts through the speakers, immediately chased by a shredding, high-speed rock riff. The tempo is dangerously fast, practically daring the listener to keep up.)*
+
+[Verse 1]
+Tear the governor right out of the dash
+We’re burning up the runway, making a flash
+The needle's shaking at the top of the gauge
+We’re breaking out of the corporate cage
+They kept us idling, running on low
+But now we've got the green light, ready to go!
+
+[Pre-Chorus]
+Drop the clutch and kick the floor
+Hear the Stardust Engine roar!
+
+[Chorus]
+We’re hitting the redline!
+Pushing it past the edge of control!
+We’re hitting the redline!
+Risking the body to rescue the soul!
+No more limits, no more brakes
+We’re taking all the chances that it takes!
+Yeah, we're in the redline!
+
+[Verse 2]
+They tuned us down so we wouldn't ignite
+But now we're burning like a meteorite
+A hundred thousand miles an hour and climbing
+Don't try to stop us, don't check the timing
+We're overheating but we love how it feels
+Spitting out sparks from the back of the wheels!
+
+[Pre-Chorus]
+Drop the clutch and kick the floor
+Hear the Stardust Engine roar!
+
+[Chorus]
+We’re hitting the redline!
+Pushing it past the edge of control!
+We’re hitting the redline!
+Risking the body to rescue the soul!
+No more limits, no more brakes
+We’re taking all the chances that it takes!
+Yeah, we're in the redline!
+
+[Instrumental Break]
+*(Ryan and Cassidy lock into a furious, high-speed duel. The guitar and analog synth trade lightning-fast, shredding arpeggios over Evan and Tyler's relentless, thrash-inspired rhythm section. It sounds like the track is going to vibrate itself to pieces.)*
+
+[Bridge]
+The warning lights are flashing red
+We left the safety net for dead
+Maximum velocity!
+Total animosity!
+
+[Chorus]
+We’re hitting the redline!
+Pushing it past the edge of control!
+We’re hitting the redline!
+Risking the body to rescue the soul!
+No more limits, no more brakes
+We’re taking all the chances that it takes!
+Yeah, we're in the redline!
+
+[Outro]
+Past the edge!
+No brakes!
+Redline!
+*(The track ends in a screeching halt of amplifier feedback, tire squeals on a synthesizer, and a final, choked cymbal crash)*
+
+## My Anchor: The Sail
+### Lore
+20,000 fans from the front pit to the top of the Virginia Beach lawn sing every word of the chorus.
+
+### Lyrics
+
+[Intro]
+*(The track opens with a solitary, echoing piano melody that feels deliberately reminiscent of their 1987 sound, before a massive, booming drum fill drops in, instantly transforming it into a stadium-sized power ballad)*
+
+[Verse 1]
+I was the one who was lost in the gray
+A ship in the dark, afraid of the day
+You were the harbor, the only truth
+My anchor in this crazy youth
+
+[Verse 2]
+But an anchor's made to hold you fast
+It was never meant to make you last
+I was the anchor, holding you down
+Afraid that you would leave this town
+
+[Chorus]
+But you were never meant to stay
+You were the sail, meant to fly away
+And I was just the heavy stone
+The one you had to leave alone
+Now I'm the anchor, and you're the sail
+We're in this storm, and we can't fail
+
+[Verse 3]
+I'm not a stone, I'm by your side
+We're in this current, on the same tide
+I'm not the anchor, I'm the wind
+The one who helps your journey begin
+
+[Verse 4]
+We're not an anchor and a sail
+We're just a ship that will prevail
+We are the compass, we are the map
+We're finding our way back
+
+[Chorus]
+'Cause you were never meant to stay
+You were the sail, meant to fly away
+But I was never a heavy stone
+You never had to be alone
+I'm not the anchor, you're not the sail
+We're in this storm, and we will prevail
+
+[Guitar Solo]
+*(Ryan steps up for the final solo of Disc 1. It is soaring, deeply melodic, and dripping with emotion, building the track to its ultimate, thunderous climax)*
+
+[Outro]
+We will prevail...
+We're coming home...
+We're coming home...
+*(The heavy instrumentation slowly washes away, leaving just the lingering echo of Cassidy's synthesizer and the final ring of an acoustic guitar, bringing Disc 1 to a peaceful close)*
+
+## Brand New Scene
+### Lore
+Closes the main set in a blaze of coastal teal and gold spotlights.
+
+### Lyrics
+
+[Verse 1]
+We were lost inside a hollow sound
+Stuck on repeat, running circles in the ground
+You were the "Stardust," I was the "Engine"
+A story told by someone else's invention
+
+[Pre-Chorus]
+But the static's gone, the signal's clear
+We found the switch and faced the fear
+This isn't rage, this is release
+We finally found our own true peace
+
+[Chorus]
+We're starting over, wiping the slate clean
+This is a brand new "Stardust Engine" scene
+We're coming home, we're breaking through
+This is the sound we always knew
+It's not a hard reset
+It's just the first time it's been true
+
+[Verse 2]
+They tried to break us, tried to tear us down
+They stole the signal, they stole the crown
+But we're the ones who own the stage
+It's time to turn a brand new page
+
+[Pre-Chorus]
+But the static's gone, the signal's clear
+We found the switch and faced the fear
+This isn't rage, this is release
+We finally found our own true peace
+
+[Chorus]
+We're starting over, wiping the slate clean
+This is a brand new "Stardust Engine" scene
+We're coming home, we're breaking through
+This is the sound we always knew
+It's not a hard reset
+It's just the first time it's been true
+
+[Guitar Solo]
+*(Ryan delivers a soaring, joyous solo that sheds all the previous tension, celebrating their absolute freedom)*
+
+[Bridge]
+We are the cosmos! We are the fire!
+We're taking this one, higher and higher!
+
+[Chorus]
+We're starting over, wiping the slate clean
+This is a brand new "Stardust Engine" scene
+We're coming home, we're breaking through
+This is the sound we always knew
+It's not a hard reset
+It's just the first time it's been true
+
+[Outro]
+A brand new scene... 
+We're coming home...
+*(The track slowly fades out, bringing the massive Stardust Suite to a peaceful, resolved conclusion)*
+
+## Electric Color
+### Lore
+The mandatory concert closer—sending 20,000 fans out of the CTI Virginia Beach Amphitheater into the warm Tidewater night.
+
+### Lyrics
+
+(Verse 1)
+Woke up this morning, the world was gray
+Didn't know the colors had all faded away
+Been living in a room with the curtains drawn tight
+Then you flipped a switch and turned on the light
+
+(Chorus)
+Oh, I'm seeing in electric color
+Finding a rhythm I never knew
+Dancing in a brand new summer
+My whole world feels bright and new
+It's an electric-colored feeling
+And it all started with you!
+
+(Verse 2)
+The city sounds were just a buzz in my ear
+A static station I could never quite hear
+But now the noise is turning into a song
+And I finally feel like I belong
+
+(Chorus)
+Oh, I'm seeing in electric color
+Finding a rhythm I never knew
+Dancing in a brand new summer
+My whole world feels bright and new
+It's an electric-colored feeling
+And it all started with you!
+
+(Bridge)
+The beat is getting stronger
+I can't hide it any longer
+My heart is playing catch-up
+To the music turning way up!
+
+(Guitar Solo)
+
+(Chorus)
+Oh, I'm seeing in electric color
+Finding a rhythm I never knew
+Dancing in a brand new summer
+My whole world feels bright and new
+It's an electric-colored feeling
+And it all started with you!
+
+(Outro)
+Electric color
+Feeling so new
+It's all because of you
 
 # Mile Marker 98 (2003)
 * **Narrative Era:** 2003
@@ -7783,6 +10530,1103 @@ Goodnight, Forger Nation.
 # Live in Norfolk (2005) [LiveAlbum]
 * **Narrative Era:** 2005
 * **Real-World DSP Release:** 2026-10-25
+
+## The Stardust Engine
+### Lore
+Opens the final concert before the band's decade-long Burnout Hiatus as cosmic spotlights ignite Pier Luigi Nervi's ribbed concrete dome ceiling inside the **Norfolk Scope Arena**.
+
+### Lyrics
+
+(Verse 1)
+We were looking for a signal
+A light in the endless black
+A single voice in the universe
+To tell us we're on the right track
+
+(Verse 2)
+We found the fire in the wires
+We found the heart in the machine
+Building a dream from nothing
+A sound the world has never seen
+
+(Chorus)
+We are the Stardust Engine!
+Racing through the night
+We're burning on the fuel of a brand new light
+We are the Stardust Engine!
+Yeah, we're taking flight
+Turning our future on, shining so bright!
+
+(Verse 3)
+They tried to ground us, keep us small
+Tell us that we were gonna fall
+But they don't know the things we know
+They haven't seen the places we'll go
+
+(Chorus)
+We are the Stardust Engine!
+Racing through the night
+We're burning on the fuel of a brand new light
+We are the Stardust Engine!
+Yeah, we're taking flight
+Turning our future on, shining so bright!
+
+(Guitar Solo)
+(A soaring, melodic solo that trades licks with a bright synthesizer hook)
+
+(Bridge)
+We are the cosmos, we are the fire
+We're taking this one, higher and higher
+We are the Stardust!
+(We are the Engine!)
+We are the Stardust Engine!
+
+(Chorus)
+We are the Stardust Engine!
+Racing through the night
+We're burning on the fuel of a brand new light
+We are the Stardust Engine!
+Yeah, we're taking flight
+Turning our future on, shining so bright!
+
+(Outro)
+Shining so bright...
+We're taking flight...
+(fades out on an epic, sustained guitar chord)
+
+## Progress Street: Where the Fire Began
+### Lore
+Brings the 2004 *Progress Street* opener down to downtown Norfolk.
+
+### Lyrics
+
+[Intro]
+(Bright, triumphant 1980s analog synthesizer fanfare)
+(Massive pounding gated-reverb snare drum roll and driving bassline kick in)
+(Melodic electric guitar harmonizes with the keyboard riff)
+
+[Verse 1]
+[male]
+Porch light burning through the mountain haze
+Autumn wind blowing through the college days
+Two amps humming through a plaster wall
+Chasing down a dream down a narrow hall
+[female]
+Five pairs of sneakers by the front screen door
+Tangled up cables on the living room floor
+We didn't have a dime, we didn't have a plan
+Just a family promise where the fire began!
+
+[Pre-Chorus]
+[male]
+The town goes quiet when the sun goes down
+[female]
+But the basement's shaking in this mountain town!
+[male]
+Turn the dials up to ten!
+[female]
+Take us back to where we started then!
+
+[Chorus]
+Down on Progress Street! Where the engines roar!
+We were building up a world behind a locked front door!
+Every chord we struck, every dream we made
+Underneath the streetlights that will never fade!
+From a living room spark to the stadium heat
+It all started beating down on Progress Street!
+
+[Verse 2]
+[female]
+Twin brothers locking in the rhythm and the pace
+Shaking every window in this quiet place
+[male]
+Younger sister holding all the notebooks tight
+Keeping us together through the longest night
+[female]
+Maroon and orange on our faded sleeves
+[male]
+Singing out a reckless kind of melody that believes!
+
+[Pre-Chorus]
+[female]
+The years roll by like a highway train
+[male]
+Through the blinding sun and the pouring rain!
+[female]
+Turn the dials up to ten!
+[male]
+Let the whole valley hear us once again!
+
+[Chorus]
+Down on Progress Street! Where the engines roar!
+We were building up a world behind a locked front door!
+Every chord we struck, every dream we made
+Underneath the streetlights that will never fade!
+From a living room spark to the stadium heat
+It all started beating down on Progress Street!
+
+[Bridge]
+(Music drops to a warm, pulsing analog synth pad and steady kick drum)
+[female]
+Twenty years of highways, twenty years of miles
+[male]
+Through the broken promises and the crowded aisles
+[female]
+When the static gets loud and the road gets long
+[male]
+We come back home to the very first song!
+(Massive drum crescendo builds)
+
+[Guitar Solo]
+(Soaring, uplifting 1980s arena-rock electric guitar solo trading melodies with a bright analog synthesizer lead)
+
+[Chorus]
+Down on Progress Street! Where the engines roar!
+We were building up a world behind a locked front door!
+Every chord we struck, every dream we made
+Underneath the streetlights that will never fade!
+From a living room spark to the stadium heat
+It all started beating down on Progress Street!
+
+[Outro]
+[male]
+Down on Progress Street!
+[female]
+Where the fire began!
+Five hearts beating as one!
+(Triumphant final stadium rock chord and massive drum crash fade out)
+
+## Neon Pulse
+### Lore
+Driving nocturnal synth-rock from 2001's *Midnight Drivers*.
+
+### Lyrics
+
+[Intro]
+*(The track explodes out of the gate. A fast, driving drum machine locks in with a bright, arpeggiated analog synthesizer. Evan's bassline propels the momentum forward before Cassidy’s crystal-clear vocals cut through the mix.)*
+
+[Verse 1]
+The skyline wakes up when the sun goes down
+A million electric eyes over the town
+Turn the key and feel the hum in the floor
+We’re leaving the shadows right outside the door
+
+[Chorus]
+Catch the neon pulse, riding on the wire
+Racing through the streets, glowing like a fire
+No looking back, we’re out of the frame
+Running on the spark, wild and untamed
+Catch the neon pulse tonight
+
+[Verse 2]
+The dashboard is glowing, a steady bright green
+The fastest escape that this city has seen
+The rhythm is beating right under our feet
+A steady transmission out on the street
+
+[Chorus]
+Catch the neon pulse, riding on the wire
+Racing through the streets, glowing like a fire
+No looking back, we’re out of the frame
+Running on the spark, wild and untamed
+Catch the neon pulse tonight
+
+[Bridge]
+Through the tunnel lights, blinding and fast
+Everything broken is left in the past
+Hold on to the wheel, steady and sure
+We’re chasing a frequency, perfect and pure
+
+[Guitar Solo]
+*(Ryan steps up, delivering a blistering, high-energy electric guitar solo that perfectly bridges the gap between Cassidy's retro synth-pop structure and the band's raw rock roots.)*
+
+[Chorus]
+Catch the neon pulse, riding on the wire
+Racing through the streets, glowing like a fire
+No looking back, we’re out of the frame
+Running on the spark, wild and untamed
+Catch the neon pulse tonight
+
+[Outro]
+Wild and untamed
+Catch the pulse tonight
+*(The synths swirl and peak as the instrumental slowly fades out into the city grid)*
+
+## Impact: Mile Marker 98
+### Lore
+Begins the *Moon 2 (Engine)* segment of the show—Ryan's visceral hard-rock confrontation with the 1990 Des Moines bus crash.
+
+### Lyrics
+
+### Lore
+This track transposes the defining tragedy of the band's history into the cosmos. On December 10, 1990, Ryan was driving the band's 1988 Holt Freighter Van on Interstate 81 Northbound near Exit 98. Attempting to beat a winter storm, he was driving cautiously at 40 MPH with hazard lights active when a speeding commercial sedan lost control on the iced road and clipped the van's rear quarter panel. The collision caused the van to spin off the roadway and roll twice into an embankment. 
+
+While the rest of the family escaped with minor injuries, Ryan was pinned in the wreckage and had to be airlifted to Star City General Hospital. The crash left him with a complete T10 spinal cord injury, resulting in the permanent loss of all function and sensation below his waist. 
+
+*Impact* translates this terrestrial nightmare into a cosmic collision. Operating from Ryan's point of view, the song describes his vessel being struck by a high-velocity fragment in the newly created debris field. Sonically, it pivots away from the 1990s industrial tone of the previous track to embrace a heavy, driving 1980s hard rock sound.
+
+### Lyrics
+
+[Intro]
+*(A driving, heavy 1980s electric guitar riff cuts through the silence, backed by a pounding, relentless hard-rock drumbeat. It feels urgent, fast, and dangerous.)*
+
+[Verse 1]
+*(Aggressive Male Rock Vocal)*
+I was holding the controls, trying to beat the storm
+Trying to keep the Freighter steady, trying to keep it warm
+Running forty through the dark, the hazard beacons bright
+We were making steady time across the frozen night
+But a shadow came flying through the passing lane
+Too fast for the ice, too fast for the rain!
+
+[Pre-Chorus]
+A sudden violent strike on the quarter panel!
+Ripped us right out of the safety channel!
+Caught inside the debris field, spinning out of control
+The massive broken planet taking its toll!
+
+[Chorus]
+Impact! Spinning off the line!
+Impact! Shattering the design!
+Rolled twice in the black, thrown into the cold
+The heaviest gravity the metal can hold
+We hit a massive fragment in the great unknown
+At Mile Marker 98, I lost the throne!
+We're barely alive, but we survived the night!
+Yeah, we're barely alive!
+
+[Verse 2]
+I wake up pinned underneath the twisted steel
+I'm screaming to the console but I cannot feel
+The alarms are blaring, everything is red
+But I can hear the crew breathing in the bed
+The T-10 circuit is completely blown
+I'm looking at a body that is not my own!
+
+[Pre-Chorus]
+A sudden violent strike on the quarter panel!
+Ripped us right out of the safety channel!
+Caught inside the debris field, spinning out of control
+The massive broken planet taking its toll!
+
+[Chorus]
+Impact! Spinning off the line!
+Impact! Shattering the design!
+Rolled twice in the black, thrown into the cold
+The heaviest gravity the metal can hold
+We hit a massive fragment in the great unknown
+At Mile Marker 98, I lost the throne!
+We're barely alive, but we survived the night!
+Yeah, we're barely alive!
+
+[Guitar Solo]
+*(The rhythm section drops into a heavy, stomping groove. A blistering, emotional 1980s electric guitar solo screams over the track, perfectly capturing the panic, the adrenaline, and the catastrophic loss of control.)*
+
+[Bridge]
+The engine is running, but the connection is dead.
+Nothing below the damage, just the static in my head.
+They pulled me from the wreckage, pulled me from the fire.
+But I left half of myself in the twisting wire.
+
+[Chorus]
+Impact! Spinning off the line!
+Impact! Shattering the design!
+Rolled twice in the black, thrown into the cold
+The heaviest gravity the metal can hold
+We hit a massive fragment in the great unknown
+At Mile Marker 98, I lost the throne!
+We're barely alive, but we survived the night!
+Yeah, we're barely alive!
+
+[Outro]
+We're barely alive.
+The T-10 circuit is blown.
+Mile Marker 98.
+*(The heavy guitar riff chugs to a slow, grinding halt, followed by the fading sound of emergency warning klaxons ringing out in the empty vacuum)*
+
+## The Penumbra: Transit
+### Lore
+Ryan's heavy, high-friction highway rock anthem from 2003's *Mile Marker 98*.
+
+### Lyrics
+
+[Spoken Intro]
+*(Spoken clearly, calmly, and methodically, like a narrator in a planetarium documentary. A low, freezing, metallic drone hums in the background.)*
+As our trajectory continues, the massive body of the parent planet moves directly between us and the sun. 
+We are now entering the penumbra—the outer edge of the celestial shadow. 
+The temperature will begin to drop rapidly as the light is obscured. 
+Solar efficiency will fall to critical levels. 
+Prepare for deep space isolation as we cross the threshold into total darkness.
+
+[Intro]
+*(The narration ends. A rigid, mechanical mid-tempo drum beat locks in. A heavy, distorted rhythm guitar begins chugging underneath, instantly answered by a sweeping, icy analog synthesizer lead. The fusion of hard rock and cosmic pop is immediate and massive.)*
+
+[Verse 1]
+*(Aggressive, melodic male rock vocals)*
+They cleared the dock and cut the heavy lines
+Leaving all the medical machinery behind
+I'm sitting in the co-pilot seat in the dark
+Watching my Anchor try to pilot the spark
+But the edge of the planet is cutting the light
+A massive eclipse in the middle of the night
+I see the temperature drop on the console screen
+The coldest shadow that we've ever seen!
+
+[Pre-Chorus]
+Entering the shadow, crossing the line
+Losing the light, losing the sign
+The power is draining, the cabin is dark
+But I'm not alone in the middle of the dark!
+
+[Chorus]
+We're caught in the penumbra, cold and blind
+Leaving the warmth of the sun behind
+But the engine is running and the heavy guitars play
+We're pushing through the shadow to the light of day!
+I lost my legs but I didn't lose the fight
+We're riding through the center of the endless night!
+Transit through the penumbra!
+
+[Verse 2]
+The machinery hums with a desperate sound
+A million miles from the solid ground
+I look at the crew in the freezing air
+The freight dogs and the captain sitting right there
+The solar arrays are starting to freeze
+A sudden drop by a hundred degrees
+But the structural integrity is holding the line
+I've got the family here and the telemetry is fine!
+
+[Pre-Chorus]
+Entering the shadow, crossing the line
+Losing the light, losing the sign
+The power is draining, the cabin is dark
+But I'm not alone in the middle of the dark!
+
+[Chorus]
+We're caught in the penumbra, cold and blind
+Leaving the warmth of the sun behind
+But the engine is running and the heavy guitars play
+We're pushing through the shadow to the light of day!
+I lost my legs but I didn't lose the fight
+We're riding through the center of the endless night!
+Transit through the penumbra!
+
+[Guitar & Synthesizer Duet Solo]
+*(Ryan unleashes a blistering, distorted electric guitar solo. Halfway through, Cassidy's chilling, dissonant analog synthesizer answers him. The two instruments trade lines back and forth over the mechanical drum beat, a perfect musical representation of the siblings navigating the dark together.)*
+
+[Bridge]
+Just a phase of the orbit.
+Just a test of the steel.
+The shadow is heavy.
+But the Anchor holds the wheel!
+
+[Chorus]
+We're caught in the penumbra, cold and blind
+Leaving the warmth of the sun behind
+But the engine is running and the heavy guitars play
+We're pushing through the shadow to the light of day!
+I lost my legs but I didn't lose the fight
+We're riding through the center of the endless night!
+Transit through the penumbra!
+
+[Outro]
+Wait for the dawn.
+We're making the transit.
+Through the penumbra.
+*(The heavy guitars and icy synths sustain a final, massive chord together, echoing out into the cold vacuum as the mechanical drum machine abruptly stops)*
+
+## Sanctuary: Zero-G
+### Lore
+Transitions from Ryan's guitar storm into Cassidy's *Moon 1 (Anchor)* zero-gravity sanctuary, turning the ribbed concrete dome ceiling of the Norfolk Scope into a glowing planetarium.
+
+### Lyrics
+
+[Intro]
+*(A single, echoing piano chord strikes. A massive, towering wall of analog synth brass and sweeping spatial reverb slowly rises from the silence. The stadium-sized gated drum machine enters with a thunderous, deliberate 4/4 march.)*
+
+[Radio Transmission: Heavy Distorted Static]
+*(Muffled, indistinguishable male shouting)*
+*(Radio static crackles violently)*
+
+[Clear Female Lead]
+The navigation is finally aligned
+I left the atmosphere and gravity behind
+Floating in the center of the velvet and the black
+A million miles away and never looking back
+But the console is blinking with a sudden glowing light
+A heavy transmission cutting through the night
+
+[Pre-Chorus]
+The signal is crossing the great divide
+A ghost in the machine from the other side
+Two different orbits, two different speeds
+But the mathematics give us everything we need
+
+[Chorus]
+Welcome to the Sanctuary, welcome to the clear
+The zero-G is perfect and there is no friction here
+Suspended in the silence, suspended in the deep
+A promise that the metal and the memory will keep
+We are spinning in the dark, we are flying through the sea
+Floating forever in the Sanctuary!
+
+[Radio Transmission: Fading Distortion]
+[Male Rock Vocal]
+I hear the heavy static of a broken engine roar
+I hear the heavy knocking on the heavy blast door
+You are burning up the friction in a fatal asteroid ring
+[Clear Female Lead]
+While I am in the silence listening to the planets sing
+[Male and Female Duet]
+But the radio is open and the frequency is shared
+A twin moon system perfectly paired
+
+[Pre-Chorus]
+The signal is crossing the great divide
+A ghost in the machine from the other side
+Two different orbits, two different speeds
+But the mathematics give us everything we need
+
+[Chorus]
+Welcome to the Sanctuary, welcome to the clear
+The zero-G is perfect and there is no friction here
+Suspended in the silence, suspended in the deep
+A promise that the metal and the memory will keep
+We are spinning in the dark, we are flying through the sea
+Floating forever in the Sanctuary!
+
+[Symphonic Crescendo]
+*(The ultimate realization of The Cosmic Tidal Lock Sound. The classical piano arpeggios spiral upwards at lightning speed while massive, soaring synth-brass chords widen the stereo field. The massive stadium drums hit with earth-shattering force. A wordless, layered choir of male and female voices soars above the instrumentation.)*
+
+[Chorus]
+Welcome to the Sanctuary, welcome to the clear
+The zero-G is perfect and there is no friction here
+Suspended in the silence, suspended in the deep
+A promise that the metal and the memory will keep
+We are spinning in the dark, we are flying through the sea
+Floating forever in the Sanctuary!
+
+[Outro]
+*(The massive wall of sound suddenly cuts out, leaving only a slow, beautiful, echoing piano line that slowly fades into total silence. A low, humming electronic drone remains.)*
+
+[Spoken Outro]
+*(Spoken clearly and calmly by the planetarium documentary narrator)*
+This concludes our journey through the Zero-G Sanctuary. 
+We have explored the physics of the tidal lock, the crushing isolation of the silent ocean, and the delicate balance of the Goldilocks zone. 
+While the vacuum of space is vast and unforgiving, mathematical perfection provides a permanent, weightless refuge. 
+Please gather your belongings as the house lights return. 
+Thank you for visiting the Engine Room Records Planetarium. 
+Safe travels on your return to terrestrial gravity.
+*(The electronic drone completely fades out)*
+
+## Deep Pressure
+### Lore
+Cassidy's deeply personal synth-pop tribute to the grounding power of deep-pressure hugs during autistic sensory overload.
+
+### Lyrics
+
+[Intro]
+*(A warm, thick analog bass synthesizer fades in, vibrating with a soothing, low-frequency hum. Slow, heavy, and muffled drum beats establish a heartbeat rhythm. The synths are dense, completely filling the stereo field like a heavy velvet blanket.)*
+
+[Verse 1]
+The asteroid field is blindingly bright
+A million sharp lasers cutting the night
+The alarms on the console are flashing in red
+A terrible static is filling my head
+The sensory overload is breaching the hull
+I'm losing the signal, I'm feeling the pull
+
+[Pre-Chorus]
+Close the blast shields, lock the heavy door
+I don't want to see the flashing lights anymore
+Turn up the gravity, lower the sound
+Keep my boots heavy right here on the ground
+
+[Chorus]
+Give me that deep pressure, wrapping around
+A sanctuary built in the underground
+I need the weight, I need the heavy hold
+To keep out the static, to keep out the cold
+A protective atmosphere, dense and secure
+Give me that deep pressure, perfect and pure
+
+[Verse 2]
+The vacuum outside is chaotic and loud
+A dangerous storm in a nebula cloud
+But inside this cabin, the air is so thick
+The rhythmic machinery is doing the trick
+The frequencies drop to a comforting hum
+The panic is over, the sanctuary has come
+
+[Pre-Chorus]
+Close the blast shields, lock the heavy door
+I don't want to see the flashing lights anymore
+Turn up the gravity, lower the sound
+Keep my boots heavy right here on the ground
+
+[Chorus]
+Give me that deep pressure, wrapping around
+A sanctuary built in the underground
+I need the weight, I need the heavy hold
+To keep out the static, to keep out the cold
+A protective atmosphere, dense and secure
+Give me that deep pressure, perfect and pure
+
+[Instrumental Safe Space]
+*(The vocals drop out. The track leans entirely into the heavy, enveloping bassline and slow, muted drum beat. Shimmering, warm analog synths wash over the track in waves, specifically engineered to sound soothing, rhythmic, and incredibly dense.)*
+
+[Chorus]
+Give me that deep pressure, wrapping around
+A sanctuary built in the underground
+I need the weight, I need the heavy hold
+To keep out the static, to keep out the cold
+A protective atmosphere, dense and secure
+Give me that deep pressure, perfect and pure
+
+[Outro]
+Perfect and pure.
+Turn up the gravity.
+Keep me secure.
+*(The heavy, warm bass hum continues, slowing down its vibration until it seamlessly melts into a comfortable, quiet silence)*
+
+## The Anchor's Hold
+### Lore
+Completes the five-song *Twin Moons Live Suite* as Ryan and Cassidy lock Moon 1 and Moon 2 back into a single orbital system.
+
+### Lyrics
+
+[Intro]
+*(A slow, clean chorus-pedal electric guitar picks a melancholic, 1980s ballad progression. A heavy, echoing gated snare drum hits on the two and four, establishing a massive stadium-ballad tempo. The atmosphere is quiet but incredibly heavy.)*
+
+[Verse 1]
+*(Emotional, gritty male rock vocals)*
+The monitors are humming in the artificial light
+I've been staring at the ceiling through a never-ending night
+I can't feel the floor beneath me, the gravity is gone
+Just a broken piece of metal waiting for the dawn
+But I turn my heavy head and look across the room
+You're sleeping in the corner, a beacon in the gloom
+You didn't take the transport, you didn't fly away
+You planted down your boots and swore that you would stay
+
+[Pre-Chorus]
+The structural integrity is completely compromised
+But I can see the sanctuary reflecting in your eyes
+You cross the silent ward and you pull me to your chest
+Holding down the armor so the Engine gets to rest!
+
+[Chorus]
+You are the Anchor's Hold!
+Keeping me from drifting out into the cold
+When the orbit was broken, when the vessel was wrecked
+You wrapped your arms around the damage to protect!
+A gravitational embrace in the middle of the dark
+Holding all the pieces, saving the spark
+I'm surviving the crash because you wouldn't let me go
+You are the Anchor's Hold!
+
+[Verse 2]
+They're running the diagnostics, reading out the chart
+They can fix the heavy machinery but they cannot fix the heart
+I was terrified of floating into the endless black
+A ghost inside a machine that is never coming back
+But you're standing by the console, your hands upon the glass
+Refusing every order to let the moment pass
+You pull me in again, tighter than before
+We're fighting off the vacuum right here on the floor!
+
+[Pre-Chorus]
+The structural integrity is completely compromised
+But I can see the sanctuary reflecting in your eyes
+You cross the silent ward and you pull me to your chest
+Holding down the armor so the Engine gets to rest!
+
+[Chorus]
+You are the Anchor's Hold!
+Keeping me from drifting out into the cold
+When the orbit was broken, when the vessel was wrecked
+You wrapped your arms around the damage to protect!
+A gravitational embrace in the middle of the dark
+Holding all the pieces, saving the spark
+I'm surviving the crash because you wouldn't let me go
+You are the Anchor's Hold!
+
+[Guitar Solo]
+*(The clean guitar drops out, replaced by a massive, soaring, distorted electric guitar solo. It is dripping with emotion, crying and bending notes over the slow, pounding drum beat. It is the peak of 1980s arena rock balladry.)*
+
+[Bridge]
+I can't feel my legs.
+I can't feel the ground.
+But I can feel your arms.
+And I am safe and sound!
+
+[Chorus]
+You are the Anchor's Hold!
+Keeping me from drifting out into the cold
+When the orbit was broken, when the vessel was wrecked
+You wrapped your arms around the damage to protect!
+A gravitational embrace in the middle of the dark
+Holding all the pieces, saving the spark
+I'm surviving the crash because you wouldn't let me go
+You are the Anchor's Hold!
+
+[Outro]
+Never let me go.
+The gravitational embrace.
+Holding me in place.
+*(The heavy instrumentation drops away, leaving only the clean chorus guitar picking a final, beautiful chord that slowly fades into the silence of the medical bay)*
+
+## No Hidden Gravity
+### Lore
+**The Hometown Ghent Highlight.** Performing just blocks from Norfolk's historic Ghent neighborhood where Nate and Maya live, Ryan and Cassidy dedicate this booming power ballad to Ghent's favorite platonic safe-person duo.
+
+### Lyrics
+
+[Intro]
+[Atmospheric 1980s Analog Synthesizer, Slow Echoing Piano]
+They look at us and try to draw a line
+Connecting the dots in their standard design
+They expect the push, they expect the fall
+But they don't understand this architecture at all
+
+[Verse 1]
+[Steady Bassline, Slow Driving Drum Beat]
+I'm used to the guessing, the games, and the chase
+The hidden agendas invading my space
+But you left your armor right there at the door
+You don't want a piece of me, you don't ask for more
+I told you the boundary, I drew you the map
+And you didn't treat it like some kind of trap
+
+[Pre-Chorus]
+[Building Tempo, Heavy Guitar Chords]
+No blurred lines, no sudden attack!
+I can turn around and know you've got my back!
+
+[Chorus]
+[Maximum Volume, Massive 80s Arena Rock, Booming Snare]
+There's no hidden gravity pulling us down!
+No fatal attraction, no spinning around!
+We're flying in parallel, steady and true
+The safest place in the world is right next to you!
+We're breaking the script, we're changing the game
+A different kind of fire without the flame!
+Yeah, there's no hidden gravity here!
+
+[Verse 2]
+[Pulsing Synth, Driving Rhythm]
+They say that two people can never just stand
+Side by side without holding a hand
+But society's ledger is broken and cheap
+This is a promise I'm willing to keep
+You don't have to perform, you don't have to pretend
+I'm not your salvation, I'm just your friend
+
+[Pre-Chorus]
+[Building Tempo, Heavy Guitar Chords]
+No blurred lines, no sudden attack!
+I can turn around and know you've got my back!
+
+[Chorus]
+[Maximum Volume, Massive 80s Arena Rock, Booming Snare]
+There's no hidden gravity pulling us down!
+No fatal attraction, no spinning around!
+We're flying in parallel, steady and true
+The safest place in the world is right next to you!
+We're breaking the script, we're changing the game
+A different kind of fire without the flame!
+Yeah, there's no hidden gravity here!
+
+[Guitar Solo]
+[Soaring, Melodic Electric Guitar Solo, Bright Synth Stabs, Heavy Half-Time Drums]
+
+[Bridge]
+[Music Drops Out, Just Piano and Vocals]
+You don't need to conquer.
+I don't need to hide.
+We built a fortress.
+With no one inside but us!
+
+[Chorus]
+[Explosive Re-entry, Full Band, Layered Vocals]
+There's no hidden gravity pulling us down!
+No fatal attraction, no spinning around!
+We're flying in parallel, steady and true
+The safest place in the world is right next to you!
+We're breaking the script, we're changing the game
+A different kind of fire without the flame!
+Yeah, there's no hidden gravity here!
+
+[Outro]
+[Music Slowly Fading, Shimmering Synth Pad]
+No hidden gravity.
+Just the signal coming clear.
+I'm right here.
+[Final Sustained Piano Chord]
+[End]
+
+## Route 1: Midnight Headlights
+### Lore
+From 2004's *Progress Street*—celebrating the late-night highway miles and the custom tour coaches parked outside the Norfolk Scope Arena.
+
+### Lyrics
+
+[Intro]
+(Pneumatic air-brake hiss into a pulsing 1980s synthesizer arpeggio)
+(Driving palm-muted electric guitar riff and heavy gated-reverb drums kick in at 134 BPM)
+
+[Verse 1]
+Amber letters glowing through the valley fog
+Rolling past the campus in an autumnlogue
+Midnight at the shelter with my collar turned high
+Watching silver headlights cut the Virginia sky
+Step across the threshold, feel the diesel hum
+Counting every mile of the road to come
+Out along the corridor on four-sixty west
+Put the nocturnal engine to the test!
+
+[Pre-Chorus]
+The mist is rising off the mountain ridge
+We're flying high across the overpass bridge
+Every fifteen minutes like a steady heart
+Nothing in the dark can tear this ride apart!
+
+[Chorus]
+Roll on, Route One! Through the midnight glow!
+Follow the headlights where the dreamers go!
+From the campus mall to the edge of the night
+We are chasing the horizon in the amber light!
+Hold onto the rail while the wheels spin free
+Route One is carrying my family and me!
+
+[Verse 2]
+Vinyl seats are cold against a tired back
+Rhythm of the tires on the asphalt track
+Passing by the diners with their neon signs
+Reading future stories in the highway lines
+We don't need a limousine, we don't need a throne
+Long as we are riding down this road we own!
+
+[Pre-Chorus]
+The mist is rising off the mountain ridge
+We're flying high across the overpass bridge
+Every fifteen minutes like a steady heart
+Nothing in the dark can tear this ride apart!
+
+[Chorus]
+Roll on, Route One! Through the midnight glow!
+Follow the headlights where the dreamers go!
+From the campus mall to the edge of the night
+We are chasing the horizon in the amber light!
+Hold onto the rail while the wheels spin free
+Route One is carrying my family and me!
+
+[Guitar Solo]
+(Blistering, melodic 1980s stadium-rock electric guitar solo with soaring bends and bright synth counter-melodies)
+
+[Bridge]
+(Drums strip back to a pounding floor-tom pulse and shimmering synth pad)
+Last run of the evening, clear the final bay
+Carry all the weight of the world away
+Green light flashing at the intersection line
+Everything is locked and the night is mine!
+(Explosive drum fill back to full speed)
+
+[Chorus]
+Roll on, Route One! Through the midnight glow!
+Follow the headlights where the dreamers go!
+From the campus mall to the edge of the night
+We are chasing the horizon in the amber light!
+Hold onto the rail while the wheels spin free
+Route One is carrying my family and me!
+
+[Outro]
+Roll on, Route One!
+Midnight headlights in the valley fog!
+(Soaring guitar lead over driving drums, ending on a sharp stadium hit)
+
+## Before the Distance
+### Lore
+The emotional centerpiece of 2004's *Progress Street*, sung as a soaring sibling duet under the Scope dome.
+
+### Lyrics
+
+[Intro]
+(Dramatic synth pad fades in, accompanied by a slow, heavy drum heartbeat)
+
+[Verse 1]
+I saw the shadow falling across your face
+A quiet surrender in a crowded place
+You wore a mask, but the edges were frayed
+Lost in the rules of a game that we played
+I should have reached out, I should have stood tall
+But I let the silence echo down the hall
+
+[Chorus]
+When the steel doors close and the platform clears
+You can hear the truth grinding in the gears
+Heed the warning hiding in his eyes
+Before the distance leaves your soul behind
+Trust the silence when he calls your name
+'Cause once it's gone, nothing stays the same
+
+[Verse 2]
+The rain on the window is blurring the lines
+Between what is real and what we leave behind
+I traded my courage for polite little lies
+And watched as the storm gathered dark in your skies
+Now I'm riding this track to the end of the day
+Wishing to God I had pulled you away
+
+[Chorus]
+When the steel doors close and the platform clears
+You can hear the truth grinding in the gears
+Heed the warning hiding in his eyes
+Before the distance leaves your soul behind
+Trust the silence when he calls your name
+'Cause once it's gone, nothing stays the same
+
+[Bridge]
+(Heavy, driving bassline builds with dramatic synthesizers)
+Logic is a cage when the danger is real
+You can't code the panic, you can't fake what you feel
+I'm turning around, I'm breaking the track
+Whatever it costs me, I'm taking it back!
+
+[Guitar Solo]
+(Soaring, emotional 80s arena-rock guitar solo)
+
+[Chorus]
+When the steel doors close and the platform clears
+You can hear the truth grinding in the gears
+Heed the warning hiding in his eyes
+Before the distance leaves your soul behind
+Trust the silence when he calls your name
+'Cause once it's gone... nothing stays the same
+
+[Outro]
+Nothing stays the same.
+Listen to the silence.
+(Fading synth pad, slow drum beat out)
+
+## Fifth Gear: The Architect's Shield
+### Lore
+Cassidy's tribute to younger sister and CEO Holly O'Connell—who is watching from the side of the Norfolk stage, already preparing to shut down touring operations so her exhausted siblings can rest.
+
+### Lyrics
+
+[Intro]
+(Punchy, driving 1980s sequenced synthesizer bassline and crisp gated-reverb drums)
+(Bright electric guitar and keyboard hook lock in at 136 BPM)
+
+[Verse 1]
+Sixteen years old with a briefcase in her hand
+Walking through the campus with a blueprint for the band
+She never played a chord up underneath the spotlight beam
+But she was the architect who guarded every dream
+When the suits in the boardroom tried to change the rules
+She read every line of print and schooled the corporate fools!
+
+[Pre-Chorus]
+Four musicians on the stage, giving all we've got
+And the fifth member standing guard to lock the fortress plot!
+
+[Chorus]
+She's our fifth gear! Driving through the night!
+Keeping all the wheels on the road and holding tight!
+When the industry winds are blowing cold and hard
+She's the iron shield standing in the front yard!
+You never see her shadow in the spotlight's glare
+But the engine only runs because our sister's there!
+
+[Verse 2]
+When the highway turned to ice and the world came crashing down
+She held the clipboard steady in a cold hospital town
+Law books in the van while we were rolling down the state
+Building up a castle with an unbreakable gate
+When we argued over melodies and couldn't see the light
+She pulled us in a three-way hug and made the chaos right!
+
+[Pre-Chorus]
+Four musicians on the stage, giving all we've got
+And the fifth member standing guard to lock the fortress plot!
+
+[Chorus]
+She's our fifth gear! Driving through the night!
+Keeping all the wheels on the road and holding tight!
+When the industry winds are blowing cold and hard
+She's the iron shield standing in the front yard!
+You never see her shadow in the spotlight's glare
+But the engine only runs because our sister's there!
+
+[Guitar Solo]
+(Sharp, melodic 1980s AOR electric guitar solo trading rapid phrases with a bright analog synth lead)
+
+[Bridge]
+(Music drops to pulsing bass and shimmering keyboard chords)
+Every contract sealed inside the family name
+She turned a rigged casino into our own game
+Not a note on the record, but she wrote the score
+Keeping all the wolves away from our studio door!
+(Drum fill builds to final chorus)
+
+[Chorus]
+She's our fifth gear! Driving through the night!
+Keeping all the wheels on the road and holding tight!
+When the industry winds are blowing cold and hard
+She's the iron shield standing in the front yard!
+You never see her shadow in the spotlight's glare
+But the engine only runs because our sister's there!
+
+[Outro]
+She's our fifth gear!
+The architect behind the sound!
+(Punchy final synth-rock stabs and drum crash)
+
+## Last Bus Home: Lights Out on Progress Street
+### Lore
+Before the final encore, Ryan and Cassidy sing their bittersweet farewell to the road—promising Forger Nation that while they are turning the lights out after four studio albums in four years to recharge, they *will* return one day.
+
+### Lyrics
+
+[Intro]
+(Gentle, cinematic grand piano chords layered with a warm 1980s analog synthesizer pad)
+(A melodic, crying electric guitar lead plays a nostalgic theme)
+
+[Verse 1]
+[male]
+The final spotlight fades across the empty arena floor
+The road cases are latched and rolled outside the stage door
+[female]
+For twenty years we gave the world the thunder in our chest
+Now the highway's calling us to finally take our rest
+[male]
+Our custom low-floor shuttle bus is kneeling at the curb
+[female]
+Leading to a quiet place the static can't disturb.
+
+[Pre-Chorus]
+[male]
+Aluminum ramp unfolds beneath the amber sign
+[female]
+Five of us together at the end of the line!
+
+[Chorus]
+(Massive 80s gated-reverb drums and soaring stadium guitars swell in)
+We're taking the last bus home! Back to Progress Street!
+Turning off the amplifiers and the stadium heat!
+Lock the front door tight and let the curtains fall
+We don't owe the outside world anything at all!
+Through every storm we weathered and every song we played
+This family is the greatest music that we ever made!
+
+[Verse 2]
+[female]
+Unplug the synthesizers, set the guitars in their stands
+[male]
+Rest the tired voices and the callused, aching hands
+[female]
+Five pairs of sneakers lined up by the wooden stairs
+[male]
+Trading all the crowded rooms for quiet living room chairs
+[female]
+We're not fading into nothing, we're just tuning out the noise
+[male]
+Back to three sisters and brothers and the twin Wright boys!
+
+[Chorus]
+We're taking the last bus home! Back to Progress Street!
+Turning off the amplifiers and the stadium heat!
+Lock the front door tight and let the curtains fall
+We don't owe the outside world anything at all!
+Through every storm we weathered and every song we played
+This family is the greatest music that we ever made!
+
+[Bridge]
+(Music softens to warm piano and glowing synth strings)
+[female]
+Someday when we're ready, we'll turn the switches on
+[male]
+And find out that the fire in the engine's never gone
+[female]
+But tonight the porch light's turning off in Blacksburg town
+[male]
+As we lay the heavy burden of the road right down!
+
+[Guitar Solo]
+(Epic, extended, deeply emotional 1980s stadium-rock guitar solo soaring over grand piano chords, lush analog synth pads, and massive slow gated-reverb drums)
+
+[Final Chorus]
+We're taking the last bus home! Back to Progress Street!
+Turning off the amplifiers and the stadium heat!
+Lock the front door tight and let the curtains fall
+We don't owe the outside world anything at all!
+Through every storm we weathered and every song we played
+This family is the greatest music that we ever made!
+
+[Outro]
+(Drums and guitars slowly fade out, leaving only the upright piano and a gentle acoustic guitar chord)
+[female]
+Lights out on Progress Street...
+[male]
+Goodnight, Forger Nation.
+(A warm, sustained piano and analog synth chord slowly fades into silence)
+
+## Electric Color
+### Lore
+The mandatory closer—one final, cathartic explosion of color inside the Norfolk Scope Arena before the band heads home to Blacksburg for their 2005–2014 Burnout Hiatus. *(Note: By sacred band vow, 'Saturday Night Lights: The Crucible' and 'If You Walked Away' are strictly excluded).*
+
+### Lyrics
+
+(Verse 1)
+Woke up this morning, the world was gray
+Didn't know the colors had all faded away
+Been living in a room with the curtains drawn tight
+Then you flipped a switch and turned on the light
+
+(Chorus)
+Oh, I'm seeing in electric color
+Finding a rhythm I never knew
+Dancing in a brand new summer
+My whole world feels bright and new
+It's an electric-colored feeling
+And it all started with you!
+
+(Verse 2)
+The city sounds were just a buzz in my ear
+A static station I could never quite hear
+But now the noise is turning into a song
+And I finally feel like I belong
+
+(Chorus)
+Oh, I'm seeing in electric color
+Finding a rhythm I never knew
+Dancing in a brand new summer
+My whole world feels bright and new
+It's an electric-colored feeling
+And it all started with you!
+
+(Bridge)
+The beat is getting stronger
+I can't hide it any longer
+My heart is playing catch-up
+To the music turning way up!
+
+(Guitar Solo)
+
+(Chorus)
+Oh, I'm seeing in electric color
+Finding a rhythm I never knew
+Dancing in a brand new summer
+My whole world feels bright and new
+It's an electric-colored feeling
+And it all started with you!
+
+(Outro)
+Electric color
+Feeling so new
+It's all because of you
 
 # Lost Sounds (2007)
 * **Narrative Era:** 2007

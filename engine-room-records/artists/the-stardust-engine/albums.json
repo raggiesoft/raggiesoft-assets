@@ -136,6 +136,24 @@
         "description": "A heavy, political compilation dedicated to the loyal fans who stood by them during the label wars."
       },
       {
+        "title": "Hard Reset Live",
+        "year": "1999",
+        "folder": "1999-hard-reset-live",
+        "url": "https://stardust.raggiesoft.com/discography/1999-hard-reset-live",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/album-art.jpg",
+        "spotifyId": "",
+        "appleId": "",
+        "amazonId": "",
+        "youtubeId": "",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": "",
+        "dspExempt": true,
+        "dspNotice": "This simulated live environment violates commercial streaming metadata guidelines. It is available exclusively through the Engine Room Vault.",
+        "realRelease": "2026-10-25",
+        "genre": "Live Arena Rock / 1980s Melodic Synth-Rock",
+        "description": "Recorded live on the 1998–1999 Hard Reset World Tour. Opens with the legendary continuous 3-song 'Stardust Suite' ('The Stardust Engine' -> 'Hard Reset' -> 'Brand New Scene') and closes with 'Electric Color'."
+      },
+      {
         "title": "Midnight Drivers",
         "year": "2001",
         "url": "https://stardust.raggiesoft.com/discography/2001-midnight-drivers",
@@ -149,14 +167,50 @@
         "realRelease": "2026-05-01",
         "genre": "80s New Wave / Darkwave / Synth-Pop",
         "description": "A slick, nocturnal album infused with the anxiety and rapid technological shifts of the new millennium."
+      },
+      {
+        "title": "Live at the Chancellery",
+        "year": "2002",
+        "folder": "2002-live-at-the-chancellery",
+        "url": "https://stardust.raggiesoft.com/discography/2002-live-at-the-chancellery",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-stardust-engine/2002-live-at-the-chancellery/album-art.jpg",
+        "spotifyId": "",
+        "appleId": "",
+        "amazonId": "",
+        "youtubeId": "",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": "",
+        "dspExempt": true,
+        "dspNotice": "This simulated live environment violates commercial streaming metadata guidelines. It is available exclusively through the Engine Room Vault.",
+        "realRelease": "2026-10-25",
+        "genre": "Live Arena Rock / 1980s Synth-Rock",
+        "description": "Recorded live on August 24, 2002 at The Chancellery (University of the Piedmont, Charlottesville, VA) during the Midnight Drivers World Tour. Stages 'Electric Color' at Track 13 as a false ending before Ryan O'Connell formally introduces Crimson Node to close the night with 'The Flight Path (feat. Crimson Node)'."
       }
     ]
   },
   "err-planetarium": {
     "label": "The Twin Moons & Progress Street",
-    "heading": "2003-2004: The Twin Moons Project & Blacksburg Homecoming",
-    "description": "An ambitious dual-release planetarium project confronting the trauma of The Crash of '90, followed immediately by a nostalgic 2004 homecoming to Progress Street NE in Blacksburg before exhaustion forced the band into their Burnout Hiatus.",
+    "heading": "2003-2005: The Twin Moons Project & Blacksburg Homecoming",
+    "description": "An ambitious dual-release planetarium project confronting the trauma of The Crash of '90, followed immediately by a nostalgic 2004 homecoming to Progress Street NE in Blacksburg and a triumphant farewell arena show in Norfolk before exhaustion forced the band into their Burnout Hiatus.",
     "albums": [
+      {
+        "title": "Live in Virginia Beach",
+        "year": "2003",
+        "folder": "2003-live-in-virginia-beach",
+        "url": "https://stardust.raggiesoft.com/discography/2003-live-in-virginia-beach",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-stardust-engine/2003-live-in-virginia-beach/album-art.jpg",
+        "spotifyId": "",
+        "appleId": "",
+        "amazonId": "",
+        "youtubeId": "",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": "",
+        "dspExempt": true,
+        "dspNotice": "This simulated live environment violates commercial streaming metadata guidelines. It is available exclusively through the Engine Room Vault.",
+        "realRelease": "2026-10-25",
+        "genre": "Live Amphitheater Rock / 1980s Synth-Rock",
+        "description": "Recorded live on July 19, 2002 at the CTI Virginia Beach Amphitheater during the Midnight Drivers World Tour and released from the vault on February 18, 2003. Captures the first-ever recorded performance of 'The Flight Path', slipped unannounced into the middle of the set at Track 08 as a 5:14 mystery test run."
+      },
       {
         "title": "Sanctuary (Zero-G)",
         "year": "2003",
@@ -201,6 +255,24 @@
         "realRelease": "2026-10-15",
         "genre": "80s AOR / Stadium Rock / Synth-Rock",
         "description": "Recorded at their home on Progress Street NE in Blacksburg, Virginia, this unapologetic 1980s AOR and stadium synth-rock love letter to their collegiate roots was the final studio album the band released before signing off to recharge during their Burnout Hiatus."
+      },
+      {
+        "title": "Live in Norfolk",
+        "year": "2005",
+        "folder": "2005-live-in-norfolk",
+        "url": "https://stardust.raggiesoft.com/discography/2005-live-in-norfolk",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/album-art.jpg",
+        "spotifyId": "",
+        "appleId": "",
+        "amazonId": "",
+        "youtubeId": "",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": "",
+        "dspExempt": true,
+        "dspNotice": "This simulated live environment violates commercial streaming metadata guidelines. It is available exclusively through the Engine Room Vault.",
+        "realRelease": "2026-10-25",
+        "genre": "Live Arena Rock / 1980s AOR / Synth-Rock",
+        "description": "Recorded live in November 2004 under the geometric ribbed concrete dome of the Norfolk Scope Arena and released in March 2005. The final album The Stardust Engine put out before entering their ten-year Burnout Hiatus, featuring the live arena debuts of 'Sanctuary (Zero-G)', 'Mile Marker 98', and 'Progress Street'."
       }
     ]
   },

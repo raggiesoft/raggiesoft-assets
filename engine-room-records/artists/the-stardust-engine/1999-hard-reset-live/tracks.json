@@ -1,4 +1,131 @@
 {
   "tracks": [
+    {
+      "fileName": "1-01-the-stardust-engine",
+      "title": "The Stardust Engine",
+      "isrc": "QTAHP2600024",
+      "masterWavPath": "live/1999-hard-reset-live/1-01-the-stardust-engine",
+      "disc": 1,
+      "discName": "Hard Reset Live (1998–1999 World Tour)",
+      "track": 1,
+      "loreNote": "Opens *Hard Reset Live* with Part I of **The Stardust Suite**, immediately righting the greatest wrong of 1990's *Live in Chicago*: Cassidy's analog synthesizer leitmotif is pushed right to the front of the arena PA alongside Ryan's overdriven electric guitar from his wheelchair at center stage.",
+      "duration": "4:57",
+      "suiteName": "The Stardust Suite",
+      "suiteTrack": "1"
+    },
+    {
+      "fileName": "1-02-hard-reset",
+      "title": "Hard Reset",
+      "isrc": "",
+      "masterWavPath": "live/1999-hard-reset-live/1-02-hard-reset",
+      "disc": 1,
+      "discName": "Hard Reset Live (1998–1999 World Tour)",
+      "track": 2,
+      "loreNote": "Transitioning seamlessly into Part II of **The Stardust Suite**, the band wipes the Apex Records slate clean in front of 18,000 screaming fans.",
+      "suiteName": "The Stardust Suite",
+      "suiteTrack": "2"
+    },
+    {
+      "fileName": "1-03-brand-new-scene",
+      "title": "Brand New Scene",
+      "isrc": "",
+      "masterWavPath": "live/1999-hard-reset-live/1-03-brand-new-scene",
+      "disc": 1,
+      "discName": "Hard Reset Live (1998–1999 World Tour)",
+      "track": 3,
+      "loreNote": "Completes the opening three-part **Stardust Suite** (*\"We are the cosmos! We are the fire!\"*), celebrating the family's first headlining arena tour as independent owners of *Engine Room Records, LLC*.",
+      "suiteName": "The Stardust Suite",
+      "suiteTrack": "3"
+    },
+    {
+      "fileName": "1-04-static",
+      "title": "Static",
+      "isrc": "",
+      "masterWavPath": "live/1999-hard-reset-live/1-04-static",
+      "disc": 1,
+      "discName": "Hard Reset Live (1998–1999 World Tour)",
+      "track": 4,
+      "loreNote": "Originally dubbed onto mail-order cassettes inside their freezing warehouse studio in 1995, *\"I am the static! I am the noise!\"* becomes a deafening 18,000-voice arena chant."
+    },
+    {
+      "fileName": "1-05-not-your-doll",
+      "title": "Not Your Doll",
+      "isrc": "",
+      "masterWavPath": "live/1999-hard-reset-live/1-05-not-your-doll",
+      "disc": 1,
+      "discName": "Hard Reset Live (1998–1999 World Tour)",
+      "track": 5,
+      "loreNote": "Cassidy's fierce 1989 rebellion against the corporate pop-idol box, finally unleashed live with the full heavy rock teeth Apex suppressed."
+    },
+    {
+      "fileName": "1-06-the-fortress",
+      "title": "The Fortress",
+      "isrc": "",
+      "masterWavPath": "live/1999-hard-reset-live/1-06-the-fortress",
+      "disc": 1,
+      "discName": "Hard Reset Live (1998–1999 World Tour)",
+      "track": 6,
+      "loreNote": "Dedicated nightly from the stage to the grassroots Ironheads and Forger Nation fans who funded the band's survival during the 1992–1995 Wilderness Years."
+    },
+    {
+      "fileName": "1-07-no-hidden-gravity",
+      "title": "No Hidden Gravity",
+      "isrc": "",
+      "masterWavPath": "live/1999-hard-reset-live/1-07-no-hidden-gravity",
+      "disc": 1,
+      "discName": "Hard Reset Live (1998–1999 World Tour)",
+      "track": 7,
+      "loreNote": "The booming 1996 *Ad Astra* B-side power ballad celebrating pure platonic and safe-person devotion, sung by Ryan and Cassidy as a direct refutation of forced industry tropes."
+    },
+    {
+      "fileName": "1-08-thunderhead",
+      "title": "Thunderhead",
+      "isrc": "",
+      "masterWavPath": "live/1999-hard-reset-live/1-08-thunderhead",
+      "disc": 1,
+      "discName": "Hard Reset Live (1998–1999 World Tour)",
+      "track": 8,
+      "loreNote": "Kicks off the second half of the concert with slow-stomping, heavy arena thunder (*\"You muted the kick / You silenced the crash\"*)."
+    },
+    {
+      "fileName": "1-09-redline",
+      "title": "Redline",
+      "isrc": "",
+      "masterWavPath": "live/1999-hard-reset-live/1-09-redline",
+      "disc": 1,
+      "discName": "Hard Reset Live (1998–1999 World Tour)",
+      "track": 9,
+      "loreNote": "Segues directly out of *\"Thunderhead\"* with the governors torn off—featuring an extended live duel between Ryan's electric guitar and Cassidy's synthesizer."
+    },
+    {
+      "fileName": "1-10-moon-1-tidal-lock",
+      "title": "Moon 1: Tidal Lock",
+      "isrc": "",
+      "masterWavPath": "live/1999-hard-reset-live/1-10-moon-1-tidal-lock",
+      "disc": 1,
+      "discName": "Hard Reset Live (1998–1999 World Tour)",
+      "track": 10,
+      "loreNote": "The arena lights dim to a deep planetarium starfield as Cassidy debuts the live iteration of **The Cosmic Tidal Lock Sound™**, bathing the crowd in zero-gravity analog synth pads."
+    },
+    {
+      "fileName": "1-11-echoes-in-the-wire",
+      "title": "Echoes in the Wire",
+      "isrc": "",
+      "masterWavPath": "live/1999-hard-reset-live/1-11-echoes-in-the-wire",
+      "disc": 1,
+      "discName": "Hard Reset Live (1998–1999 World Tour)",
+      "track": 11,
+      "loreNote": "**The Emotional Heart of the Show.** Standing in the exact setlist slot where Apex once forced Cassidy to sing the permanently banned *\"If You Walked Away\"*, Ryan rolls his chair right beside Cassidy's keyboard riser to sing *\"Echoes in the Wire\"* shoulder-to-shoulder."
+    },
+    {
+      "fileName": "1-12-electric-color",
+      "title": "Electric Color",
+      "isrc": "",
+      "masterWavPath": "live/1999-hard-reset-live/1-12-electric-color",
+      "disc": 1,
+      "discName": "Hard Reset Live (1998–1999 World Tour)",
+      "track": 12,
+      "loreNote": "The mandatory concert closer—performed 10 BPM faster with roaring guitars, soaring analog synths, and total independence."
+    }
   ]
 }

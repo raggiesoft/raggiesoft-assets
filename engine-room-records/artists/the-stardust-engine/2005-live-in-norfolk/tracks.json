@@ -1,4 +1,154 @@
 {
   "tracks": [
+    {
+      "fileName": "1-01-the-stardust-engine",
+      "title": "The Stardust Engine",
+      "isrc": "",
+      "masterWavPath": "live/2005-live-in-norfolk/1-01-the-stardust-engine",
+      "disc": 1,
+      "discName": "Live in Norfolk (Norfolk Scope Arena)",
+      "track": 1,
+      "loreNote": "Opens the final concert before the band's decade-long Burnout Hiatus as cosmic spotlights ignite Pier Luigi Nervi's ribbed concrete dome ceiling inside the **Norfolk Scope Arena**."
+    },
+    {
+      "fileName": "1-02-progress-street-where-the-fire-began",
+      "title": "Progress Street: Where the Fire Began",
+      "isrc": "",
+      "masterWavPath": "live/2005-live-in-norfolk/1-02-progress-street-where-the-fire-began",
+      "disc": 1,
+      "discName": "Live in Norfolk (Norfolk Scope Arena)",
+      "track": 2,
+      "loreNote": "Brings the 2004 *Progress Street* opener down to downtown Norfolk."
+    },
+    {
+      "fileName": "1-03-neon-pulse",
+      "title": "Neon Pulse",
+      "isrc": "",
+      "masterWavPath": "live/2005-live-in-norfolk/1-03-neon-pulse",
+      "disc": 1,
+      "discName": "Live in Norfolk (Norfolk Scope Arena)",
+      "track": 3,
+      "loreNote": "Driving nocturnal synth-rock from 2001's *Midnight Drivers*."
+    },
+    {
+      "fileName": "1-04-impact-mile-marker-98",
+      "title": "Impact: Mile Marker 98",
+      "isrc": "",
+      "masterWavPath": "live/2005-live-in-norfolk/1-04-impact-mile-marker-98",
+      "disc": 1,
+      "discName": "Live in Norfolk (Norfolk Scope Arena)",
+      "track": 4,
+      "loreNote": "Begins the *Moon 2 (Engine)* segment of the show\u2014Ryan's visceral hard-rock confrontation with the 1990 Des Moines bus crash.",
+      "suiteName": "The Twin Moons Live Suite",
+      "suiteTrack": "1"
+    },
+    {
+      "fileName": "1-05-the-penumbra-transit",
+      "title": "The Penumbra: Transit",
+      "isrc": "",
+      "masterWavPath": "live/2005-live-in-norfolk/1-05-the-penumbra-transit",
+      "disc": 1,
+      "discName": "Live in Norfolk (Norfolk Scope Arena)",
+      "track": 5,
+      "loreNote": "Ryan's heavy, high-friction highway rock anthem from 2003's *Mile Marker 98*.",
+      "suiteName": "The Twin Moons Live Suite",
+      "suiteTrack": "2"
+    },
+    {
+      "fileName": "1-06-sanctuary-zero-g",
+      "title": "Sanctuary: Zero-G",
+      "isrc": "",
+      "masterWavPath": "live/2005-live-in-norfolk/1-06-sanctuary-zero-g",
+      "disc": 1,
+      "discName": "Live in Norfolk (Norfolk Scope Arena)",
+      "track": 6,
+      "loreNote": "Transitions from Ryan's guitar storm into Cassidy's *Moon 1 (Anchor)* zero-gravity sanctuary, turning the ribbed concrete dome ceiling of the Norfolk Scope into a glowing planetarium.",
+      "suiteName": "The Twin Moons Live Suite",
+      "suiteTrack": "3"
+    },
+    {
+      "fileName": "1-07-deep-pressure",
+      "title": "Deep Pressure",
+      "isrc": "",
+      "masterWavPath": "live/2005-live-in-norfolk/1-07-deep-pressure",
+      "disc": 1,
+      "discName": "Live in Norfolk (Norfolk Scope Arena)",
+      "track": 7,
+      "loreNote": "Cassidy's deeply personal synth-pop tribute to the grounding power of deep-pressure hugs during autistic sensory overload.",
+      "suiteName": "The Twin Moons Live Suite",
+      "suiteTrack": "4"
+    },
+    {
+      "fileName": "1-08-the-anchors-hold",
+      "title": "The Anchor's Hold",
+      "isrc": "",
+      "masterWavPath": "live/2005-live-in-norfolk/1-08-the-anchors-hold",
+      "disc": 1,
+      "discName": "Live in Norfolk (Norfolk Scope Arena)",
+      "track": 8,
+      "loreNote": "Completes the five-song *Twin Moons Live Suite* as Ryan and Cassidy lock Moon 1 and Moon 2 back into a single orbital system.",
+      "suiteName": "The Twin Moons Live Suite",
+      "suiteTrack": "5"
+    },
+    {
+      "fileName": "1-09-no-hidden-gravity",
+      "title": "No Hidden Gravity",
+      "isrc": "",
+      "masterWavPath": "live/2005-live-in-norfolk/1-09-no-hidden-gravity",
+      "disc": 1,
+      "discName": "Live in Norfolk (Norfolk Scope Arena)",
+      "track": 9,
+      "loreNote": "**The Hometown Ghent Highlight.** Performing just blocks from Norfolk's historic Ghent neighborhood where Nate and Maya live, Ryan and Cassidy dedicate this booming power ballad to Ghent's favorite platonic safe-person duo."
+    },
+    {
+      "fileName": "1-10-route-1-midnight-headlights",
+      "title": "Route 1: Midnight Headlights",
+      "isrc": "",
+      "masterWavPath": "live/2005-live-in-norfolk/1-10-route-1-midnight-headlights",
+      "disc": 1,
+      "discName": "Live in Norfolk (Norfolk Scope Arena)",
+      "track": 10,
+      "loreNote": "From 2004's *Progress Street*\u2014celebrating the late-night highway miles and the custom tour coaches parked outside the Norfolk Scope Arena."
+    },
+    {
+      "fileName": "1-11-before-the-distance",
+      "title": "Before the Distance",
+      "isrc": "",
+      "masterWavPath": "live/2005-live-in-norfolk/1-11-before-the-distance",
+      "disc": 1,
+      "discName": "Live in Norfolk (Norfolk Scope Arena)",
+      "track": 11,
+      "loreNote": "The emotional centerpiece of 2004's *Progress Street*, sung as a soaring sibling duet under the Scope dome."
+    },
+    {
+      "fileName": "1-12-fifth-gear-the-architects-shield",
+      "title": "Fifth Gear: The Architect's Shield",
+      "isrc": "",
+      "masterWavPath": "live/2005-live-in-norfolk/1-12-fifth-gear-the-architects-shield",
+      "disc": 1,
+      "discName": "Live in Norfolk (Norfolk Scope Arena)",
+      "track": 12,
+      "loreNote": "Cassidy's tribute to younger sister and CEO Holly O'Connell\u2014who is watching from the side of the Norfolk stage, already preparing to shut down touring operations so her exhausted siblings can rest."
+    },
+    {
+      "fileName": "1-13-last-bus-home-lights-out-on-progress-street",
+      "title": "Last Bus Home: Lights Out on Progress Street",
+      "isrc": "",
+      "masterWavPath": "live/2005-live-in-norfolk/1-13-last-bus-home-lights-out-on-progress-street",
+      "disc": 1,
+      "discName": "Live in Norfolk (Norfolk Scope Arena)",
+      "track": 13,
+      "loreNote": "Before the final encore, Ryan and Cassidy sing their bittersweet farewell to the road\u2014promising Forger Nation that while they are turning the lights out after four studio albums in four years to recharge, they *will* return one day."
+    },
+    {
+      "fileName": "1-14-electric-color",
+      "title": "Electric Color",
+      "isrc": "",
+      "masterWavPath": "live/2005-live-in-norfolk/1-14-electric-color",
+      "disc": 1,
+      "discName": "Live in Norfolk (Norfolk Scope Arena)",
+      "track": 14,
+      "loreNote": "The mandatory closer\u2014one final, cathartic explosion of color inside the Norfolk Scope Arena before the band heads home to Blacksburg for their 2005\u20132014 Burnout Hiatus. *(Note: By sacred band vow, 'Saturday Night Lights: The Crucible' and 'If You Walked Away' are strictly excluded).*"
+    }
   ]
 }

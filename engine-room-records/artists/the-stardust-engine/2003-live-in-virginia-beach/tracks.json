@@ -1,4 +1,145 @@
 {
-  "tracks": []
+  "tracks": [
+    {
+      "fileName": "1-01-the-stardust-engine",
+      "title": "The Stardust Engine",
+      "isrc": "",
+      "masterWavPath": "live/2003-live-in-virginia-beach/1-01-the-stardust-engine",
+      "disc": 1,
+      "discName": "Live in Virginia Beach (CTI Virginia Beach Amphitheater)",
+      "track": 1,
+      "loreNote": "Opens the coastal homecoming concert under the sweeping white pavilion canopy of the **CTI Virginia Beach Amphitheater** as 20,000 fans across the pavilion and sloped grass lawn roar along."
+    },
+    {
+      "fileName": "1-02-neon-pulse",
+      "title": "Neon Pulse",
+      "isrc": "",
+      "masterWavPath": "live/2003-live-in-virginia-beach/1-02-neon-pulse",
+      "disc": 1,
+      "discName": "Live in Virginia Beach (CTI Virginia Beach Amphitheater)",
+      "track": 2,
+      "loreNote": "Nocturnal highway synth-rock from 2001's *Midnight Drivers* pulsing across the Virginia Beach summer night."
+    },
+    {
+      "fileName": "1-03-midnight-drivers",
+      "title": "Midnight Drivers",
+      "isrc": "",
+      "masterWavPath": "live/2003-live-in-virginia-beach/1-03-midnight-drivers",
+      "disc": 1,
+      "discName": "Live in Virginia Beach (CTI Virginia Beach Amphitheater)",
+      "track": 3,
+      "loreNote": "The title anthem of the 2001–2002 world tour performed in the O'Connell and Wright family's original coastal hometown."
+    },
+    {
+      "fileName": "1-04-hard-reset",
+      "title": "Hard Reset",
+      "isrc": "",
+      "masterWavPath": "live/2003-live-in-virginia-beach/1-04-hard-reset",
+      "disc": 1,
+      "discName": "Live in Virginia Beach (CTI Virginia Beach Amphitheater)",
+      "track": 4,
+      "loreNote": "Heavy 1980s-rooted arena rock cutting across the pavilion and lawn of the CTI Virginia Beach Amphitheater."
+    },
+    {
+      "fileName": "1-05-garbage",
+      "title": "Garbage",
+      "isrc": "",
+      "masterWavPath": "live/2003-live-in-virginia-beach/1-05-garbage",
+      "disc": 1,
+      "discName": "Live in Virginia Beach (CTI Virginia Beach Amphitheater)",
+      "track": 5,
+      "loreNote": "Raw industrial-tinged rock energy from 1995's *The Warehouse Tapes*."
+    },
+    {
+      "fileName": "1-06-the-fortress",
+      "title": "The Fortress",
+      "isrc": "",
+      "masterWavPath": "live/2003-live-in-virginia-beach/1-06-the-fortress",
+      "disc": 1,
+      "discName": "Live in Virginia Beach (CTI Virginia Beach Amphitheater)",
+      "track": 6,
+      "loreNote": "Dedicated to the Tidewater and Hampton Roads fans who stood by the family from the very beginning."
+    },
+    {
+      "fileName": "1-07-moon-1-tidal-lock",
+      "title": "Moon 1: Tidal Lock",
+      "isrc": "",
+      "masterWavPath": "live/2003-live-in-virginia-beach/1-07-moon-1-tidal-lock",
+      "disc": 1,
+      "discName": "Live in Virginia Beach (CTI Virginia Beach Amphitheater)",
+      "track": 7,
+      "loreNote": "Cassidy bathes the open-air Virginia Beach grass lawn in the shimmering analog synth pads of **The Cosmic Tidal Lock Sound™** under the coastal stars."
+    },
+    {
+      "fileName": "1-08-the-flight-path",
+      "title": "The Flight Path",
+      "isrc": "QTAHP2600026",
+      "masterWavPath": "live/2003-live-in-virginia-beach/1-08-the-flight-path",
+      "disc": 1,
+      "discName": "Live in Virginia Beach (CTI Virginia Beach Amphitheater)",
+      "track": 8,
+      "loreNote": "**First-Ever Recorded Live Performance of *\"The Flight Path\"* (Mid-Concert Unannounced Mystery Song, `5:14`).** Slipped unannounced right into the middle of the set (*\"We're gonna keep it moving. We've been testing this next one out on the road for the last few weeks. Let's see if you've caught on to the words yet!\"*), Ryan and Cassidy test whether the Virginia Beach crowd knows the lyrics from recent tour tape-trading. All 20,000 fans at the CTI Virginia Beach Amphitheater roar the chorus back at the stage, 100% convinced it is a brand-new Stardust Engine song—with no song title or mention of **Crimson Node** given! Released in February 2003 after *Crimson Node* and *Live at the Chancellery*.",
+      "duration": "5:13"
+    },
+    {
+      "fileName": "1-09-echoes-in-the-wire",
+      "title": "Echoes in the Wire",
+      "isrc": "",
+      "masterWavPath": "live/2003-live-in-virginia-beach/1-09-echoes-in-the-wire",
+      "disc": 1,
+      "discName": "Live in Virginia Beach (CTI Virginia Beach Amphitheater)",
+      "track": 9,
+      "loreNote": "Permanently occupying the emotional ballad spotlight in place of the banned *\"If You Walked Away\"*."
+    },
+    {
+      "fileName": "1-10-no-hidden-gravity",
+      "title": "No Hidden Gravity",
+      "isrc": "",
+      "masterWavPath": "live/2003-live-in-virginia-beach/1-10-no-hidden-gravity",
+      "disc": 1,
+      "discName": "Live in Virginia Beach (CTI Virginia Beach Amphitheater)",
+      "track": 10,
+      "loreNote": "A special Tidewater performance of the 1996 power ballad inspired by Hampton Roads' own Nate and Maya."
+    },
+    {
+      "fileName": "1-11-redline",
+      "title": "Redline",
+      "isrc": "",
+      "masterWavPath": "live/2003-live-in-virginia-beach/1-11-redline",
+      "disc": 1,
+      "discName": "Live in Virginia Beach (CTI Virginia Beach Amphitheater)",
+      "track": 11,
+      "loreNote": "High-velocity guitar and synthesizer duel between Ryan and Cassidy."
+    },
+    {
+      "fileName": "1-12-my-anchor-the-sail",
+      "title": "My Anchor: The Sail",
+      "isrc": "",
+      "masterWavPath": "live/2003-live-in-virginia-beach/1-12-my-anchor-the-sail",
+      "disc": 1,
+      "discName": "Live in Virginia Beach (CTI Virginia Beach Amphitheater)",
+      "track": 12,
+      "loreNote": "20,000 fans from the front pit to the top of the Virginia Beach lawn sing every word of the chorus."
+    },
+    {
+      "fileName": "1-13-brand-new-scene",
+      "title": "Brand New Scene",
+      "isrc": "",
+      "masterWavPath": "live/2003-live-in-virginia-beach/1-13-brand-new-scene",
+      "disc": 1,
+      "discName": "Live in Virginia Beach (CTI Virginia Beach Amphitheater)",
+      "track": 13,
+      "loreNote": "Closes the main set in a blaze of coastal teal and gold spotlights."
+    },
+    {
+      "fileName": "1-14-electric-color",
+      "title": "Electric Color",
+      "isrc": "",
+      "masterWavPath": "live/2003-live-in-virginia-beach/1-14-electric-color",
+      "disc": 1,
+      "discName": "Live in Virginia Beach (CTI Virginia Beach Amphitheater)",
+      "track": 14,
+      "loreNote": "The mandatory concert closer—sending 20,000 fans out of the CTI Virginia Beach Amphitheater into the warm Tidewater night."
+    }
+  ]
 }
-

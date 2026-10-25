@@ -1,4 +1,145 @@
 {
   "tracks": [
+    {
+      "fileName": "1-01-the-stardust-engine",
+      "title": "The Stardust Engine",
+      "isrc": "",
+      "masterWavPath": "live/2002-live-at-the-chancellery/1-01-the-stardust-engine",
+      "disc": 1,
+      "discName": "Live at the Chancellery (Charlottesville, VA)",
+      "track": 1,
+      "loreNote": "The mandatory concert opener inside **The Chancellery** at *The University of the Piedmont* (`UP`) in Charlottesville, Virginia, as the band steps out in Navy Blue and Old Gold UP shirts as friends of Albemarle County's **Crimson Node**."
+    },
+    {
+      "fileName": "1-02-neon-pulse",
+      "title": "Neon Pulse",
+      "isrc": "",
+      "masterWavPath": "live/2002-live-at-the-chancellery/1-02-neon-pulse",
+      "disc": 1,
+      "discName": "Live at the Chancellery (Charlottesville, VA)",
+      "track": 2,
+      "loreNote": "High-speed nocturnal synth-rock opener from 2001's *Midnight Drivers* echoing across the mathematically perfect acoustic baffling of The Chancellery."
+    },
+    {
+      "fileName": "1-03-midnight-drivers",
+      "title": "Midnight Drivers",
+      "isrc": "",
+      "masterWavPath": "live/2002-live-at-the-chancellery/1-03-midnight-drivers",
+      "disc": 1,
+      "discName": "Live at the Chancellery (Charlottesville, VA)",
+      "track": 3,
+      "loreNote": "The title track of the 2001–2002 *Midnight Drivers / Across The World Tour*, driven by Evan and Tyler's locked-in rhythm section."
+    },
+    {
+      "fileName": "1-04-hard-reset",
+      "title": "Hard Reset",
+      "isrc": "",
+      "masterWavPath": "live/2002-live-at-the-chancellery/1-04-hard-reset",
+      "disc": 1,
+      "discName": "Live at the Chancellery (Charlottesville, VA)",
+      "track": 4,
+      "loreNote": "A blistering arena rendition of the 1997 title anthem inside Charlottesville's flagship indoor arena."
+    },
+    {
+      "fileName": "1-05-static",
+      "title": "Static",
+      "isrc": "",
+      "masterWavPath": "live/2002-live-at-the-chancellery/1-05-static",
+      "disc": 1,
+      "discName": "Live at the Chancellery (Charlottesville, VA)",
+      "track": 5,
+      "loreNote": "15,000 Charlottesville fans roar the chorus of the 1995 *Warehouse Tapes* classic."
+    },
+    {
+      "fileName": "1-06-not-your-doll",
+      "title": "Not Your Doll",
+      "isrc": "",
+      "masterWavPath": "live/2002-live-at-the-chancellery/1-06-not-your-doll",
+      "disc": 1,
+      "discName": "Live at the Chancellery (Charlottesville, VA)",
+      "track": 6,
+      "loreNote": "Cassidy commands the arena from her multi-tier synthesizer rig on the reclaimed 1989 rock anthem."
+    },
+    {
+      "fileName": "1-07-moon-1-tidal-lock",
+      "title": "Moon 1: Tidal Lock",
+      "isrc": "",
+      "masterWavPath": "live/2002-live-at-the-chancellery/1-07-moon-1-tidal-lock",
+      "disc": 1,
+      "discName": "Live at the Chancellery (Charlottesville, VA)",
+      "track": 7,
+      "loreNote": "Cassidy transforms the ceiling of The Chancellery into a zero-gravity planetarium showcase of **The Cosmic Tidal Lock Sound™**."
+    },
+    {
+      "fileName": "1-08-echoes-in-the-wire",
+      "title": "Echoes in the Wire",
+      "isrc": "",
+      "masterWavPath": "live/2002-live-at-the-chancellery/1-08-echoes-in-the-wire",
+      "disc": 1,
+      "discName": "Live at the Chancellery (Charlottesville, VA)",
+      "track": 8,
+      "loreNote": "Permanently replacing the retired *\"If You Walked Away\"*, Ryan and Cassidy perform their signature sibling survival ballad."
+    },
+    {
+      "fileName": "1-09-no-hidden-gravity",
+      "title": "No Hidden Gravity",
+      "isrc": "",
+      "masterWavPath": "live/2002-live-at-the-chancellery/1-09-no-hidden-gravity",
+      "disc": 1,
+      "discName": "Live at the Chancellery (Charlottesville, VA)",
+      "track": 9,
+      "loreNote": "Soaring arena duet celebrating unbreakable family and safe-person loyalty."
+    },
+    {
+      "fileName": "1-10-thunderhead",
+      "title": "Thunderhead",
+      "isrc": "",
+      "masterWavPath": "live/2002-live-at-the-chancellery/1-10-thunderhead",
+      "disc": 1,
+      "discName": "Live at the Chancellery (Charlottesville, VA)",
+      "track": 10,
+      "loreNote": "Heavy stadium drums and overdriven guitar riffs shake the floor of The Chancellery."
+    },
+    {
+      "fileName": "1-11-my-anchor-the-sail",
+      "title": "My Anchor: The Sail",
+      "isrc": "",
+      "masterWavPath": "live/2002-live-at-the-chancellery/1-11-my-anchor-the-sail",
+      "disc": 1,
+      "discName": "Live at the Chancellery (Charlottesville, VA)",
+      "track": 11,
+      "loreNote": "The 1997 *Hard Reset* reclamation of their 1987 classic, sung with the entire Charlottesville crowd."
+    },
+    {
+      "fileName": "1-12-brand-new-scene",
+      "title": "Brand New Scene",
+      "isrc": "",
+      "masterWavPath": "live/2002-live-at-the-chancellery/1-12-brand-new-scene",
+      "disc": 1,
+      "discName": "Live at the Chancellery (Charlottesville, VA)",
+      "track": 12,
+      "loreNote": "Drives the main set to its peak before the traditional closer."
+    },
+    {
+      "fileName": "1-13-electric-color",
+      "title": "Electric Color",
+      "isrc": "",
+      "masterWavPath": "live/2002-live-at-the-chancellery/1-13-electric-color",
+      "disc": 1,
+      "discName": "Live at the Chancellery (Charlottesville, VA)",
+      "track": 13,
+      "loreNote": "**The False Ending.** For the only time on the 2001–2002 tour, The Stardust Engine's traditional closer *\"Electric Color\"* serves as a **false ending** at the end of the main set so the road crew can roll out two drum kits and two full sets of instruments for the historic encore."
+    },
+    {
+      "fileName": "1-14-the-flight-path",
+      "title": "The Flight Path (feat. Crimson Node)",
+      "isrc": "QTAHP2600025",
+      "masterWavPath": "live/2002-live-at-the-chancellery/1-14-the-flight-path",
+      "disc": 1,
+      "discName": "Live at the Chancellery (Charlottesville, VA)",
+      "track": 14,
+      "loreNote": "**The Historic Torch-Passing Finale (`6:23`).** Refusing to subject a young band to the thankless \"30-minute opening-act box\" Apex Records forced on them during the 1989 *Neon Hearts* tour, Ryan and Cassidy return to the floor of The Chancellery with **two drum kits and two sets of instruments**. Ryan confesses that the unnamed mystery song they slipped into the middle of their sets all year wasn't written by them, and introduces Charlottesville's own hometown heroes from right off Route 29—**Crimson Node**—to close down the night together. Immediately after the show, Holly O'Connell bought midnight airtime on Charlottesville FM rock stations to play the studio master as fans drove home.",
+      "duration": "6:23"
+    }
   ]
 }
