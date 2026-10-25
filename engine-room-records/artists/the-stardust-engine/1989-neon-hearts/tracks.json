@@ -112,7 +112,8 @@
     },
     {
       "fileName": "1-11-the-promise-corporate-demo",
-      "title": "The Promise (Corporate Demo)",
+      "title": "The Promise",
+      "version": "Corporate Demo",
       "isrc": "QZTBA2678359",
       "masterWavPath": "demos/the-promise-corporate-demo",
       "disc": 1,
@@ -123,7 +124,8 @@
     },
     {
       "fileName": "1-12-the-promise-sabotage-demo",
-      "title": "The Promise (Sabotage Demo)",
+      "title": "The Promise",
+      "version": "Sabotage Demo",
       "isrc": "QZTBA2678360",
       "masterWavPath": "demos/the-promise-sabotage-demo",
       "disc": 1,

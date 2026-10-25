@@ -2,7 +2,8 @@
   "tracks": [
     {
       "fileName": "1-01-the-stardust-engine-alternate",
-      "title": "The Stardust Engine (The Rejected Mix)",
+      "title": "The Stardust Engine",
+      "version": "The Rejected Mix",
       "masterWavPath": "alternate-takes/the-stardust-engine-alternate-take",
       "disc": 1,
       "discName": "Lost Sounds",
@@ -13,7 +14,8 @@
     },
     {
       "fileName": "1-02-midnight-drivers-demo",
-      "title": "Midnight Drivers (Basement Demo)",
+      "title": "Midnight Drivers",
+      "version": "Basement Demo",
       "masterWavPath": "demos/midnight-drivers-basement-demo",
       "disc": 1,
       "discName": "Lost Sounds",
@@ -35,7 +37,8 @@
     },
     {
       "fileName": "1-04-empty-arenas",
-      "title": "Empty Arenas (Early Demo)",
+      "title": "Empty Arenas",
+      "version": "Early Demo",
       "masterWavPath": "outtakes/empty-arenas",
       "disc": 1,
       "discName": "Lost Sounds",
@@ -57,7 +60,8 @@
     },
     {
       "fileName": "1-06-neon-hearts-acoustic",
-      "title": "Neon Hearts (Acoustic Sketch)",
+      "title": "Neon Hearts",
+      "version": "Acoustic Sketch",
       "masterWavPath": "demos/neon-hearts-acoustic",
       "disc": 1,
       "discName": "Lost Sounds",
@@ -68,7 +72,8 @@
     },
     {
       "fileName": "1-07-zero-g-sanctuary",
-      "title": "Sanctuary: Zero G (Rough Mix)",
+      "title": "Sanctuary: Zero G",
+      "version": "Rough Mix",
       "masterWavPath": "outtakes/zero-g-sanctuary",
       "disc": 1,
       "discName": "Lost Sounds",
@@ -101,7 +106,8 @@
     },
     {
       "fileName": "1-09-the-promise-corporate-demo",
-      "title": "The Promise (Corporate Demo)",
+      "title": "The Promise",
+      "version": "Corporate Demo",
       "masterWavPath": "demos/the-promise-corporate-demo",
       "disc": 1,
       "discName": "Lost Sounds",
@@ -111,7 +117,8 @@
     },
     {
       "fileName": "1-10-the-promise-sabotage-demo",
-      "title": "The Promise (Sabotage Demo)",
+      "title": "The Promise",
+      "version": "Sabotage Demo",
       "masterWavPath": "demos/the-promise-sabotage-demo",
       "disc": 1,
       "discName": "Lost Sounds",
@@ -121,7 +128,8 @@
     },
     {
       "fileName": "1-11-atmosphere-warehouse-demo",
-      "title": "Atmosphere (Warehouse Demo)",
+      "title": "Atmosphere",
+      "version": "Warehouse Demo",
       "masterWavPath": "demos/atmosphere-warehouse-demo",
       "disc": 1,
       "discName": "Lost Sounds",

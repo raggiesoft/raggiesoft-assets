@@ -2,7 +2,8 @@
   "tracks": [
     {
       "fileName": "1-01-the-stardust-engine",
-      "title": "The Stardust Engine (Cosmic Tidal Lock Mix)",
+      "title": "The Stardust Engine",
+      "version": "Cosmic Tidal Lock Mix",
       "isrc": "",
       "masterWavPath": "cosmic-tidal-lock/the-stardust-engine-cosmic-tidal-lock",
       "disc": 1,
@@ -16,7 +17,8 @@
     },
     {
       "fileName": "1-02-electric-color",
-      "title": "Electric Color (Cosmic Tidal Lock Mix)",
+      "title": "Electric Color",
+      "version": "Cosmic Tidal Lock Mix",
       "isrc": "",
       "masterWavPath": "cosmic-tidal-lock/electric-color-cosmic-tidal-lock",
       "disc": 1,
@@ -30,7 +32,8 @@
     },
     {
       "fileName": "1-03-plastic-sky",
-      "title": "Plastic Sky (Cosmic Tidal Lock Mix)",
+      "title": "Plastic Sky",
+      "version": "Cosmic Tidal Lock Mix",
       "isrc": "",
       "masterWavPath": "cosmic-tidal-lock/plastic-sky-cosmic-tidal-lock",
       "disc": 1,
@@ -44,7 +47,8 @@
     },
     {
       "fileName": "1-04-worlds-apart",
-      "title": "Worlds Apart (Cosmic Tidal Lock Mix)",
+      "title": "Worlds Apart",
+      "version": "Cosmic Tidal Lock Mix",
       "isrc": "",
       "masterWavPath": "cosmic-tidal-lock/worlds-apart-cosmic-tidal-lock",
       "disc": 1,
@@ -58,7 +62,8 @@
     },
     {
       "fileName": "1-05-my-anchor-holds",
-      "title": "My Anchor Holds (Cosmic Tidal Lock Mix)",
+      "title": "My Anchor Holds",
+      "version": "Cosmic Tidal Lock Mix",
       "isrc": "",
       "masterWavPath": "cosmic-tidal-lock/my-anchor-holds-cosmic-tidal-lock",
       "disc": 1,
@@ -72,7 +77,8 @@
     },
     {
       "fileName": "1-06-neon-hearts",
-      "title": "Neon Hearts (Cosmic Tidal Lock Mix)",
+      "title": "Neon Hearts",
+      "version": "Cosmic Tidal Lock Mix",
       "isrc": "",
       "masterWavPath": "cosmic-tidal-lock/neon-hearts-cosmic-tidal-lock",
       "disc": 1,
@@ -86,7 +92,8 @@
     },
     {
       "fileName": "1-07-rearview-mirror",
-      "title": "Rearview Mirror (Cosmic Tidal Lock Mix)",
+      "title": "Rearview Mirror",
+      "version": "Cosmic Tidal Lock Mix",
       "isrc": "",
       "masterWavPath": "cosmic-tidal-lock/rearview-mirror-cosmic-tidal-lock",
       "disc": 1,
@@ -100,7 +107,8 @@
     },
     {
       "fileName": "1-08-atmosphere",
-      "title": "Atmosphere (Cosmic Tidal Lock Mix)",
+      "title": "Atmosphere",
+      "version": "Cosmic Tidal Lock Mix",
       "isrc": "",
       "masterWavPath": "cosmic-tidal-lock/atmosphere-cosmic-tidal-lock",
       "disc": 1,
@@ -114,7 +122,8 @@
     },
     {
       "fileName": "1-09-no-hidden-gravity",
-      "title": "No Hidden Gravity (Cosmic Tidal Lock Mix)",
+      "title": "No Hidden Gravity",
+      "version": "Cosmic Tidal Lock Mix",
       "isrc": "",
       "masterWavPath": "cosmic-tidal-lock/no-hidden-gravity-cosmic-tidal-lock",
       "disc": 1,
@@ -128,7 +137,8 @@
     },
     {
       "fileName": "1-10-inertia-unstoppable",
-      "title": "Inertia: Unstoppable (Cosmic Tidal Lock Mix)",
+      "title": "Inertia: Unstoppable",
+      "version": "Cosmic Tidal Lock Mix",
       "isrc": "",
       "masterWavPath": "cosmic-tidal-lock/inertia-unstoppable-cosmic-tidal-lock",
       "disc": 1,
@@ -142,7 +152,8 @@
     },
     {
       "fileName": "1-11-echoes-in-the-wire",
-      "title": "Echoes in the Wire (Cosmic Tidal Lock Mix)",
+      "title": "Echoes in the Wire",
+      "version": "Cosmic Tidal Lock Mix",
       "isrc": "",
       "masterWavPath": "cosmic-tidal-lock/echoes-in-the-wire-cosmic-tidal-lock",
       "disc": 1,
@@ -156,7 +167,8 @@
     },
     {
       "fileName": "1-12-midnight-drivers",
-      "title": "Midnight Drivers (Cosmic Tidal Lock Mix)",
+      "title": "Midnight Drivers",
+      "version": "Cosmic Tidal Lock Mix",
       "isrc": "",
       "masterWavPath": "cosmic-tidal-lock/midnight-drivers-cosmic-tidal-lock",
       "disc": 1,
@@ -170,7 +182,8 @@
     },
     {
       "fileName": "1-13-the-horizon-line",
-      "title": "The Horizon Line (Cosmic Tidal Lock Mix)",
+      "title": "The Horizon Line",
+      "version": "Cosmic Tidal Lock Mix",
       "isrc": "",
       "masterWavPath": "cosmic-tidal-lock/the-horizon-line-cosmic-tidal-lock",
       "disc": 1,
@@ -184,7 +197,8 @@
     },
     {
       "fileName": "1-14-fade-to-dawn",
-      "title": "Fade to Dawn (Cosmic Tidal Lock Mix)",
+      "title": "Fade to Dawn",
+      "version": "Cosmic Tidal Lock Mix",
       "isrc": "",
       "masterWavPath": "cosmic-tidal-lock/fade-to-dawn-cosmic-tidal-lock",
       "disc": 1,

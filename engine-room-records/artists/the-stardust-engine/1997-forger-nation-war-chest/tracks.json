@@ -119,7 +119,8 @@
     },
     {
       "fileName": "1-10-escape-velocity-ad-astra-radio-edit",
-      "title": "Escape Velocity (Ad Astra) [Radio Edit]",
+      "title": "Escape Velocity (Ad Astra)",
+      "version": "Radio Edit",
       "isrc": "QZTB62697617",
       "masterWavPath": "alternate-takes/escape-velocity-ad-astra-radio-edit",
       "disc": 1,

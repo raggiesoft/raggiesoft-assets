@@ -1,7 +1,9 @@
-# No Hidden Gravity - DistroKid Quick-Copy Sheet
+# No Hidden Gravity (Live in Norfolk) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** No Hidden Gravity
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** No Hidden Gravity
+* **Version:** Live in Norfolk
+* **ID3 / Vorbis Tagged Title:** No Hidden Gravity (Live in Norfolk)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Arena Rock / 80s Cosmic Pop / Melodic Stadium Rock
 * **Real-World DSP Release Date:** 2026-10-25

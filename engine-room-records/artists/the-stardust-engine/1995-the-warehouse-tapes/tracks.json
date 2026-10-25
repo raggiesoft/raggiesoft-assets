@@ -35,7 +35,8 @@
     },
     {
       "fileName": "1-04-atmosphere-warehouse-demo",
-      "title": "Atmosphere (Warehouse Demo)",
+      "title": "Atmosphere",
+      "version": "Warehouse Demo",
       "isrc": "QZTB62697618",
       "masterWavPath": "demos/atmosphere-warehouse-demo",
       "disc": 1,

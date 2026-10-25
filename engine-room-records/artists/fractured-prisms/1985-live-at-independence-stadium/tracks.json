@@ -2,7 +2,8 @@
   "tracks": [
     {
       "fileName": "1-01-the-hollow-square-live",
-      "title": "The Hollow Square (Live at Independence Stadium)",
+      "title": "The Hollow Square",
+      "version": "Live at Independence Stadium",
       "isrc": "QTAHP2600007",
       "masterWavPath": "live/the-hollow-square-live",
       "disc": 1,

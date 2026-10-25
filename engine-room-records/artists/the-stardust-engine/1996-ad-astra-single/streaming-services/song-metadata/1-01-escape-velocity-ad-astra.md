@@ -1,7 +1,9 @@
-# Escape Velocity (Ad Astra) [Full Suite] - DistroKid Quick-Copy Sheet
+# Escape Velocity (Ad Astra) (Full Suite) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Escape Velocity (Ad Astra) [Full Suite]
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Escape Velocity (Ad Astra)
+* **Version:** Full Suite
+* **ID3 / Vorbis Tagged Title:** Escape Velocity (Ad Astra) (Full Suite)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Prog Rock / Space Rock
 * **Real-World DSP Release Date:** 2026-04-03

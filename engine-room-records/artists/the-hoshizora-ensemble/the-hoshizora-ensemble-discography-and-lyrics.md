@@ -1,12 +1,12 @@
 
 # The Hoshizora Ensemble - Master Discography & Lore
-Compiled on: 10-25-2026 12:25:07 PM
+Compiled on: 10-25-2026 01:20:25 PM
 
 # Hoshizora no Uta: Voyages on the Seto Inland Sea (1978)
 * **Narrative Era:** 1978
 * **Real-World DSP Release:** 2026-10-25
 
-## Hoshizora no Uta (Song of the Starry Sky) [Japanese Version]
+## Hoshizora no Uta (Song of the Starry Sky) (Japanese Version)
 ### Lore
 
 The original Japanese-language broadcast recording of 'Hoshizora no Uta (星空の歌)' played aboard the overnight passenger ferry across the Inland Sea.
@@ -39,7 +39,7 @@ The original Japanese-language broadcast recording of 'Hoshizora no Uta (星空�
 おやすみ、旅人、また明日 (Oyasumi, tabibito, mata ashita) [Goodnight, traveler, see you tomorrow]
 
 
-## Hoshizora no Uta (Song of the Starry Sky) [English Version]
+## Hoshizora no Uta (Song of the Starry Sky) (English Version)
 ### Lore
 A gentle maritime City Pop lullaby from the family's global healing voyage across Japan—assuring the weary traveler that the heavy shadows have been left behind on the shore and that he is finally safe upon the sea.
 

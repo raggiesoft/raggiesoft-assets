@@ -2,7 +2,8 @@
   "tracks": [
     {
       "fileName": "1-01-hoshizora-no-uta-song-of-the-starry-sky-japanese",
-      "title": "Hoshizora no Uta (Song of the Starry Sky) [Japanese Version]",
+      "title": "Hoshizora no Uta (Song of the Starry Sky)",
+      "version": "Japanese Version",
       "masterWavPath": "studio/hoshizora-no-uta-song-of-the-starry-sky-japanese",
       "disc": 1,
       "discName": "Voyages on the Seto Inland Sea (1978 Osaka Master / 2002 US Edition)",
@@ -16,7 +17,8 @@
     },
     {
       "fileName": "1-02-hoshizora-no-uta-song-of-the-starry-sky-english",
-      "title": "Hoshizora no Uta (Song of the Starry Sky) [English Version]",
+      "title": "Hoshizora no Uta (Song of the Starry Sky)",
+      "version": "English Version",
       "masterWavPath": "studio/hoshizora-no-uta-song-of-the-starry-sky-english",
       "disc": 1,
       "discName": "Voyages on the Seto Inland Sea (1978 Osaka Master / 2002 US Edition)",

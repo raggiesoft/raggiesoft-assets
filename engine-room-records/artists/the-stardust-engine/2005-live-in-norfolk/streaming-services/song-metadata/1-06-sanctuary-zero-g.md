@@ -1,7 +1,9 @@
-# Sanctuary: Zero-G - DistroKid Quick-Copy Sheet
+# Sanctuary: Zero-G (Live in Norfolk) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Sanctuary: Zero-G
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Sanctuary: Zero-G
+* **Version:** Live in Norfolk
+* **ID3 / Vorbis Tagged Title:** Sanctuary: Zero-G (Live in Norfolk)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Arena Rock / 80s Cosmic Pop / Melodic Stadium Rock
 * **Real-World DSP Release Date:** 2026-10-25

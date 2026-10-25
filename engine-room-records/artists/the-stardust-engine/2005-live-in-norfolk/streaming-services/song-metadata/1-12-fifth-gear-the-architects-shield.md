@@ -1,7 +1,9 @@
-# Fifth Gear: The Architect's Shield - DistroKid Quick-Copy Sheet
+# Fifth Gear: The Architect's Shield (Live in Norfolk) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Fifth Gear: The Architect's Shield
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Fifth Gear: The Architect's Shield
+* **Version:** Live in Norfolk
+* **ID3 / Vorbis Tagged Title:** Fifth Gear: The Architect's Shield (Live in Norfolk)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Arena Rock / 80s Cosmic Pop / Melodic Stadium Rock
 * **Real-World DSP Release Date:** 2026-10-25

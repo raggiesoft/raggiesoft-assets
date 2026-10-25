@@ -122,7 +122,8 @@
     },
     {
       "fileName": "1-11-midnight-drivers-basement-demo",
-      "title": "Midnight Drivers (Basement Demo)",
+      "title": "Midnight Drivers",
+      "version": "Basement Demo",
       "isrc": "QZWFW2601366",
       "masterWavPath": "demos/midnight-drivers-basement-demo",
       "disc": 1,
@@ -134,7 +135,8 @@
     },
     {
       "fileName": "1-12-neon-pulse-12-inch-extended-club-mix",
-      "title": "Neon Pulse (12\" Extended Club Mix)",
+      "title": "Neon Pulse",
+      "version": "12\" Extended Club Mix",
       "isrc": "QZWFW2601367",
       "masterWavPath": "alternate-takes/neon-pulse-12in-club-mix",
       "disc": 1,
@@ -146,7 +148,8 @@
     },
     {
       "fileName": "1-13-static-on-the-wire-instrumental-b-side",
-      "title": "Static on the Wire (Instrumental B-Side)",
+      "title": "Static on the Wire",
+      "version": "Instrumental B-Side",
       "isrc": "QZWFW2601368",
       "masterWavPath": "alternate-takes/static-on-the-wire-instrumental-b-side",
       "disc": 1,
@@ -158,7 +161,8 @@
     },
     {
       "fileName": "1-14-the-engine-room-studio-jam",
-      "title": "The Engine Room (Studio Jam)",
+      "title": "The Engine Room",
+      "version": "Studio Jam",
       "isrc": "QZWFW2601369",
       "masterWavPath": "studio/the-engine-room-studio-jam",
       "disc": 1,

@@ -1,6 +1,6 @@
 
 # The Stardust Engine - Master Discography & Lore
-Compiled on: 10-25-2026 12:25:10 PM
+Compiled on: 10-25-2026 01:20:33 PM
 
 # Electric Color (1987)
 * **Narrative Era:** 1987
@@ -2073,7 +2073,7 @@ Ad astra...
 * **Narrative Era:** 1996
 * **Real-World DSP Release:** 2026-04-03
 
-## Escape Velocity (Ad Astra) [Full Suite]
+## Escape Velocity (Ad Astra) (Full Suite)
 ### Lore
 The "Magnum Opus." Originally released as the B-Side of *The Warehouse Tapes*, this suite stands here as the monumental A-Side it was always meant to be.
 
@@ -3018,7 +3018,7 @@ It was just dust! It was just a lie!
 So I wiped it clean, and I watched you die
 You called it 'art', 'cuz you're a fake
 It was just garbage, make no mistake!
-## Escape Velocity (Ad Astra) [Radio Edit]
+## Escape Velocity (Ad Astra) (Radio Edit)
 ### Lore
 Closing out Act III ("The Wilderness") is the necessary evil of this compilation. This 5:10 "Radio Edit" is the version of *Escape Velocity* that actually charted and introduced millions of new fans to the band's independent sound, but there is one crucial caveat: **The band absolutely hates it.**
 
@@ -4706,7 +4706,7 @@ Ad astra...
 * **Narrative Era:** 1999
 * **Real-World DSP Release:** 2026-10-25
 
-## The Stardust Engine
+## The Stardust Engine (Hard Reset Live)
 ### Lore
 Opens *Hard Reset Live* with Part I of **The Stardust Suite**, immediately righting the greatest wrong of 1990's *Live in Chicago*: Cassidy's analog synthesizer leitmotif is pushed right to the front of the arena PA alongside Ryan's overdriven electric guitar from his wheelchair at center stage.
 
@@ -4769,7 +4769,7 @@ Shining so bright...
 We're taking flight...
 (fades out on an epic, sustained guitar chord)
 
-## Hard Reset
+## Hard Reset (Hard Reset Live)
 ### Lore
 Transitioning seamlessly into Part II of **The Stardust Suite**, the band wipes the Apex Records slate clean in front of 18,000 screaming fans.
 
@@ -4845,7 +4845,7 @@ Course laid in
 Let's fly
 *(Final power chord rings out, followed by the hum of a stable engine)*
 
-## Brand New Scene
+## Brand New Scene (Hard Reset Live)
 ### Lore
 Completes the opening three-part **Stardust Suite** (*"We are the cosmos! We are the fire!"*), celebrating the family's first headlining arena tour as independent owners of *Engine Room Records, LLC*.
 
@@ -4911,7 +4911,7 @@ A brand new scene...
 We're coming home...
 *(The track slowly fades out, bringing the massive Stardust Suite to a peaceful, resolved conclusion)*
 
-## Static
+## Static (Hard Reset Live)
 ### Lore
 Originally dubbed onto mail-order cassettes inside their freezing warehouse studio in 1995, *"I am the static! I am the noise!"* becomes a deafening 18,000-voice arena chant.
 
@@ -4957,7 +4957,7 @@ I am the static...
 I am the static...
 Can you hear me now?
 
-## Not Your Doll
+## Not Your Doll (Hard Reset Live)
 ### Lore
 Cassidy's fierce 1989 rebellion against the corporate pop-idol box, finally unleashed live with the full heavy rock teeth Apex suppressed.
 
@@ -5012,7 +5012,7 @@ Not your doll!
 Hear my voice!
 (fades out on a wailing guitar note)
 
-## The Fortress
+## The Fortress (Hard Reset Live)
 ### Lore
 Dedicated nightly from the stage to the grassroots Ironheads and Forger Nation fans who funded the band's survival during the 1992–1995 Wilderness Years.
 
@@ -5078,7 +5078,7 @@ Standing in the light!
 Family sticks together!
 *(The song ends on a final, triumphant crash of the cymbals and a bright synth chord)*
 
-## No Hidden Gravity
+## No Hidden Gravity (Hard Reset Live)
 ### Lore
 The booming 1996 *Ad Astra* B-side power ballad celebrating pure platonic and safe-person devotion, sung by Ryan and Cassidy as a direct refutation of forced industry tropes.
 
@@ -5167,7 +5167,7 @@ I'm right here.
 [Final Sustained Piano Chord]
 [End]
 
-## Thunderhead
+## Thunderhead (Hard Reset Live)
 ### Lore
 Kicks off the second half of the concert with slow-stomping, heavy arena thunder (*"You muted the kick / You silenced the crash"*).
 
@@ -5243,7 +5243,7 @@ Shake the ground (yeah)
 (Oh)
 *(The track ends with a final, massive drum crash that echoes out into silence)*
 
-## Redline
+## Redline (Hard Reset Live)
 ### Lore
 Segues directly out of *"Thunderhead"* with the governors torn off—featuring an extended live duel between Ryan's electric guitar and Cassidy's synthesizer.
 
@@ -5318,7 +5318,7 @@ No brakes!
 Redline!
 *(The track ends in a screeching halt of amplifier feedback, tire squeals on a synthesizer, and a final, choked cymbal crash)*
 
-## Moon 1: Tidal Lock
+## Moon 1: Tidal Lock (Hard Reset Live)
 ### Lore
 The arena lights dim to a deep planetarium starfield as Cassidy debuts the live iteration of **The Cosmic Tidal Lock Sound™**, bathing the crowd in zero-gravity analog synth pads.
 
@@ -5385,7 +5385,7 @@ Half in the light.
 Tidal lock.
 *(The synths sweep upward, echoing out into the void as the driving drum beat slowly fades away into the starfield)*
 
-## Echoes in the Wire
+## Echoes in the Wire (Hard Reset Live)
 ### Lore
 **The Emotional Heart of the Show.** Standing in the exact setlist slot where Apex once forced Cassidy to sing the permanently banned *"If You Walked Away"*, Ryan rolls his chair right beside Cassidy's keyboard riser to sing *"Echoes in the Wire"* shoulder-to-shoulder.
 
@@ -5467,7 +5467,7 @@ Fading in the dark.
 Leaving our mark.
 *(The heavy drums drop out, leaving only Cassidy's gentle synthesizer pad and a final, clean guitar chord slowly fading into the darkness.)*
 
-## Electric Color
+## Electric Color (Hard Reset Live)
 ### Lore
 The mandatory concert closer—performed 10 BPM faster with roaring guitars, soaring analog synths, and total independence.
 
@@ -6245,7 +6245,7 @@ According to the lore, Ryan and Cassidy had stepped out of the booth, and the tw
 * **Narrative Era:** 2002
 * **Real-World DSP Release:** 2026-10-25
 
-## The Stardust Engine
+## The Stardust Engine (Live at the Chancellery)
 ### Lore
 The mandatory concert opener inside **The Chancellery** at *The University of the Piedmont* (`UP`) in Charlottesville, Virginia, as the band steps out in Navy Blue and Old Gold UP shirts as friends of Albemarle County's **Crimson Node**.
 
@@ -6308,7 +6308,7 @@ Shining so bright...
 We're taking flight...
 (fades out on an epic, sustained guitar chord)
 
-## Neon Pulse
+## Neon Pulse (Live at the Chancellery)
 ### Lore
 High-speed nocturnal synth-rock opener from 2001's *Midnight Drivers* echoing across the mathematically perfect acoustic baffling of The Chancellery.
 
@@ -6364,7 +6364,7 @@ Wild and untamed
 Catch the pulse tonight
 *(The synths swirl and peak as the instrumental slowly fades out into the city grid)*
 
-## Midnight Drivers
+## Midnight Drivers (Live at the Chancellery)
 ### Lore
 The title track of the 2001–2002 *Midnight Drivers / Across The World Tour*, driven by Evan and Tyler's locked-in rhythm section.
 
@@ -6419,7 +6419,7 @@ Midnight drivers, in the fading light
 [Outro]
 *(Instrumental fade-out with a heavy, distinct echo on the snare drum, trailing off into the dark)*
 
-## Hard Reset
+## Hard Reset (Live at the Chancellery)
 ### Lore
 A blistering arena rendition of the 1997 title anthem inside Charlottesville's flagship indoor arena.
 
@@ -6495,7 +6495,7 @@ Course laid in
 Let's fly
 *(Final power chord rings out, followed by the hum of a stable engine)*
 
-## Static
+## Static (Live at the Chancellery)
 ### Lore
 15,000 Charlottesville fans roar the chorus of the 1995 *Warehouse Tapes* classic.
 
@@ -6541,7 +6541,7 @@ I am the static...
 I am the static...
 Can you hear me now?
 
-## Not Your Doll
+## Not Your Doll (Live at the Chancellery)
 ### Lore
 Cassidy commands the arena from her multi-tier synthesizer rig on the reclaimed 1989 rock anthem.
 
@@ -6596,7 +6596,7 @@ Not your doll!
 Hear my voice!
 (fades out on a wailing guitar note)
 
-## Moon 1: Tidal Lock
+## Moon 1: Tidal Lock (Live at the Chancellery)
 ### Lore
 Cassidy transforms the ceiling of The Chancellery into a zero-gravity planetarium showcase of **The Cosmic Tidal Lock Sound™**.
 
@@ -6663,7 +6663,7 @@ Half in the light.
 Tidal lock.
 *(The synths sweep upward, echoing out into the void as the driving drum beat slowly fades away into the starfield)*
 
-## Echoes in the Wire
+## Echoes in the Wire (Live at the Chancellery)
 ### Lore
 Permanently replacing the retired *"If You Walked Away"*, Ryan and Cassidy perform their signature sibling survival ballad.
 
@@ -6745,7 +6745,7 @@ Fading in the dark.
 Leaving our mark.
 *(The heavy drums drop out, leaving only Cassidy's gentle synthesizer pad and a final, clean guitar chord slowly fading into the darkness.)*
 
-## No Hidden Gravity
+## No Hidden Gravity (Live at the Chancellery)
 ### Lore
 Soaring arena duet celebrating unbreakable family and safe-person loyalty.
 
@@ -6834,7 +6834,7 @@ I'm right here.
 [Final Sustained Piano Chord]
 [End]
 
-## Thunderhead
+## Thunderhead (Live at the Chancellery)
 ### Lore
 Heavy stadium drums and overdriven guitar riffs shake the floor of The Chancellery.
 
@@ -6910,7 +6910,7 @@ Shake the ground (yeah)
 (Oh)
 *(The track ends with a final, massive drum crash that echoes out into silence)*
 
-## My Anchor: The Sail
+## My Anchor: The Sail (Live at the Chancellery)
 ### Lore
 The 1997 *Hard Reset* reclamation of their 1987 classic, sung with the entire Charlottesville crowd.
 
@@ -6968,7 +6968,7 @@ We're coming home...
 We're coming home...
 *(The heavy instrumentation slowly washes away, leaving just the lingering echo of Cassidy's synthesizer and the final ring of an acoustic guitar, bringing Disc 1 to a peaceful close)*
 
-## Brand New Scene
+## Brand New Scene (Live at the Chancellery)
 ### Lore
 Drives the main set to its peak before the traditional closer.
 
@@ -7034,7 +7034,7 @@ A brand new scene...
 We're coming home...
 *(The track slowly fades out, bringing the massive Stardust Suite to a peaceful, resolved conclusion)*
 
-## Electric Color
+## Electric Color (Live at the Chancellery)
 ### Lore
 **The False Ending.** For the only time on the 2001–2002 tour, The Stardust Engine's traditional closer *"Electric Color"* serves as a **false ending** at the end of the main set so the road crew can roll out two drum kits and two full sets of instruments for the historic encore.
 
@@ -7089,7 +7089,7 @@ Electric color
 Feeling so new
 It's all because of you
 
-## The Flight Path (feat. Crimson Node)
+## The Flight Path (feat. Crimson Node) (Live at the Chancellery)
 ### Lore
 **The Historic Torch-Passing Finale (`6:23`).** Refusing to subject a young band to the thankless "30-minute opening-act box" Apex Records forced on them during the 1989 *Neon Hearts* tour, Ryan and Cassidy return to the floor of The Chancellery with **two drum kits and two sets of instruments**. Ryan confesses that the unnamed mystery song they slipped into the middle of their sets all year wasn't written by them, and introduces Charlottesville's own hometown heroes from right off Route 29—**Crimson Node**—to close down the night together. Immediately after the show, Holly O'Connell bought midnight airtime on Charlottesville FM rock stations to play the studio master as fans drove home.
 
@@ -7227,7 +7227,7 @@ Goodnight!
 * **Narrative Era:** 2003
 * **Real-World DSP Release:** 2026-10-25
 
-## The Stardust Engine
+## The Stardust Engine (Live in Virginia Beach)
 ### Lore
 Opens the coastal homecoming concert under the sweeping white pavilion canopy of the **CTI Virginia Beach Amphitheater** as 20,000 fans across the pavilion and sloped grass lawn roar along.
 
@@ -7290,7 +7290,7 @@ Shining so bright...
 We're taking flight...
 (fades out on an epic, sustained guitar chord)
 
-## Neon Pulse
+## Neon Pulse (Live in Virginia Beach)
 ### Lore
 Nocturnal highway synth-rock from 2001's *Midnight Drivers* pulsing across the Virginia Beach summer night.
 
@@ -7346,7 +7346,7 @@ Wild and untamed
 Catch the pulse tonight
 *(The synths swirl and peak as the instrumental slowly fades out into the city grid)*
 
-## Midnight Drivers
+## Midnight Drivers (Live in Virginia Beach)
 ### Lore
 The title anthem of the 2001–2002 world tour performed in the O'Connell and Wright family's original coastal hometown.
 
@@ -7401,7 +7401,7 @@ Midnight drivers, in the fading light
 [Outro]
 *(Instrumental fade-out with a heavy, distinct echo on the snare drum, trailing off into the dark)*
 
-## Hard Reset
+## Hard Reset (Live in Virginia Beach)
 ### Lore
 Heavy 1980s-rooted arena rock cutting across the pavilion and lawn of the CTI Virginia Beach Amphitheater.
 
@@ -7477,7 +7477,7 @@ Course laid in
 Let's fly
 *(Final power chord rings out, followed by the hum of a stable engine)*
 
-## Garbage
+## Garbage (Live in Virginia Beach)
 ### Lore
 Raw industrial-tinged rock energy from 1995's *The Warehouse Tapes*.
 
@@ -7515,7 +7515,7 @@ So I wiped it clean, and I watched you die
 You called it 'art', 'cuz you're a fake
 It was just garbage, make no mistake!
 
-## The Fortress
+## The Fortress (Live in Virginia Beach)
 ### Lore
 Dedicated to the Tidewater and Hampton Roads fans who stood by the family from the very beginning.
 
@@ -7581,7 +7581,7 @@ Standing in the light!
 Family sticks together!
 *(The song ends on a final, triumphant crash of the cymbals and a bright synth chord)*
 
-## Moon 1: Tidal Lock
+## Moon 1: Tidal Lock (Live in Virginia Beach)
 ### Lore
 Cassidy bathes the open-air Virginia Beach grass lawn in the shimmering analog synth pads of **The Cosmic Tidal Lock Sound™** under the coastal stars.
 
@@ -7648,7 +7648,7 @@ Half in the light.
 Tidal lock.
 *(The synths sweep upward, echoing out into the void as the driving drum beat slowly fades away into the starfield)*
 
-## The Flight Path
+## The Flight Path (Live in Virginia Beach)
 ### Lore
 **First-Ever Recorded Live Performance of *"The Flight Path"* (Mid-Concert Unannounced Mystery Song, `5:14`).** Slipped unannounced right into the middle of the set (*"We're gonna keep it moving. We've been testing this next one out on the road for the last few weeks. Let's see if you've caught on to the words yet!"*), Ryan and Cassidy test whether the Virginia Beach crowd knows the lyrics from recent tour tape-trading. All 20,000 fans at the CTI Virginia Beach Amphitheater roar the chorus back at the stage, 100% convinced it is a brand-new Stardust Engine song—with no song title or mention of **Crimson Node** given! Released in February 2003 after *Crimson Node* and *Live at the Chancellery*.
 
@@ -7755,7 +7755,7 @@ You got it!
 
 (Final crashing power chord and thunderous amphitheater applause)
 
-## Echoes in the Wire
+## Echoes in the Wire (Live in Virginia Beach)
 ### Lore
 Permanently occupying the emotional ballad spotlight in place of the banned *"If You Walked Away"*.
 
@@ -7837,7 +7837,7 @@ Fading in the dark.
 Leaving our mark.
 *(The heavy drums drop out, leaving only Cassidy's gentle synthesizer pad and a final, clean guitar chord slowly fading into the darkness.)*
 
-## No Hidden Gravity
+## No Hidden Gravity (Live in Virginia Beach)
 ### Lore
 A special Tidewater performance of the 1996 power ballad inspired by Hampton Roads' own Nate and Maya.
 
@@ -7926,7 +7926,7 @@ I'm right here.
 [Final Sustained Piano Chord]
 [End]
 
-## Redline
+## Redline (Live in Virginia Beach)
 ### Lore
 High-velocity guitar and synthesizer duel between Ryan and Cassidy.
 
@@ -8001,7 +8001,7 @@ No brakes!
 Redline!
 *(The track ends in a screeching halt of amplifier feedback, tire squeals on a synthesizer, and a final, choked cymbal crash)*
 
-## My Anchor: The Sail
+## My Anchor: The Sail (Live in Virginia Beach)
 ### Lore
 20,000 fans from the front pit to the top of the Virginia Beach lawn sing every word of the chorus.
 
@@ -8059,7 +8059,7 @@ We're coming home...
 We're coming home...
 *(The heavy instrumentation slowly washes away, leaving just the lingering echo of Cassidy's synthesizer and the final ring of an acoustic guitar, bringing Disc 1 to a peaceful close)*
 
-## Brand New Scene
+## Brand New Scene (Live in Virginia Beach)
 ### Lore
 Closes the main set in a blaze of coastal teal and gold spotlights.
 
@@ -8125,7 +8125,7 @@ A brand new scene...
 We're coming home...
 *(The track slowly fades out, bringing the massive Stardust Suite to a peaceful, resolved conclusion)*
 
-## Electric Color
+## Electric Color (Live in Virginia Beach)
 ### Lore
 The mandatory concert closer—sending 20,000 fans out of the CTI Virginia Beach Amphitheater into the warm Tidewater night.
 
@@ -10531,7 +10531,7 @@ Goodnight, Forger Nation.
 * **Narrative Era:** 2005
 * **Real-World DSP Release:** 2026-10-25
 
-## The Stardust Engine
+## The Stardust Engine (Live in Norfolk)
 ### Lore
 Opens the final concert before the band's decade-long Burnout Hiatus as cosmic spotlights ignite the geometric ribbed concrete dome ceiling inside the **Norfolk Prism Arena**.
 
@@ -10594,7 +10594,7 @@ Shining so bright...
 We're taking flight...
 (fades out on an epic, sustained guitar chord)
 
-## Progress Street: Where the Fire Began
+## Progress Street: Where the Fire Began (Live in Norfolk)
 ### Lore
 Brings the 2004 *Progress Street* opener down to downtown Norfolk.
 
@@ -10696,7 +10696,7 @@ Where the fire began!
 Five hearts beating as one!
 (Triumphant final stadium rock chord and massive drum crash fade out)
 
-## Neon Pulse
+## Neon Pulse (Live in Norfolk)
 ### Lore
 Driving nocturnal synth-rock from 2001's *Midnight Drivers*.
 
@@ -10752,7 +10752,7 @@ Wild and untamed
 Catch the pulse tonight
 *(The synths swirl and peak as the instrumental slowly fades out into the city grid)*
 
-## Impact: Mile Marker 98
+## Impact: Mile Marker 98 (Live in Norfolk)
 ### Lore
 Begins the *Moon 2 (Engine)* segment of the show—Ryan's visceral hard-rock confrontation with the 1990 Des Moines bus crash.
 
@@ -10844,7 +10844,7 @@ The T-10 circuit is blown.
 Mile Marker 98.
 *(The heavy guitar riff chugs to a slow, grinding halt, followed by the fading sound of emergency warning klaxons ringing out in the empty vacuum)*
 
-## The Penumbra: Transit
+## The Penumbra: Transit (Live in Norfolk)
 ### Lore
 Ryan's heavy, high-friction highway rock anthem from 2003's *Mile Marker 98*.
 
@@ -10936,7 +10936,7 @@ We're making the transit.
 Through the penumbra.
 *(The heavy guitars and icy synths sustain a final, massive chord together, echoing out into the cold vacuum as the mechanical drum machine abruptly stops)*
 
-## Sanctuary: Zero-G
+## Sanctuary: Zero-G (Live in Norfolk)
 ### Lore
 Transitions from Ryan's guitar storm into Cassidy's *Moon 1 (Anchor)* zero-gravity sanctuary, turning the ribbed concrete dome ceiling of the Norfolk Prism Arena into a glowing planetarium.
 
@@ -11020,7 +11020,7 @@ Thank you for visiting the Engine Room Records Planetarium.
 Safe travels on your return to terrestrial gravity.
 *(The electronic drone completely fades out)*
 
-## Deep Pressure
+## Deep Pressure (Live in Norfolk)
 ### Lore
 Cassidy's deeply personal synth-pop tribute to the grounding power of deep-pressure hugs during autistic sensory overload.
 
@@ -11090,7 +11090,7 @@ Turn up the gravity.
 Keep me secure.
 *(The heavy, warm bass hum continues, slowing down its vibration until it seamlessly melts into a comfortable, quiet silence)*
 
-## The Anchor's Hold
+## The Anchor's Hold (Live in Norfolk)
 ### Lore
 Completes the five-song *Twin Moons Live Suite* as Ryan and Cassidy lock Moon 1 and Moon 2 back into a single orbital system.
 
@@ -11177,7 +11177,7 @@ The gravitational embrace.
 Holding me in place.
 *(The heavy instrumentation drops away, leaving only the clean chorus guitar picking a final, beautiful chord that slowly fades into the silence of the medical bay)*
 
-## No Hidden Gravity
+## No Hidden Gravity (Live in Norfolk)
 ### Lore
 **The Hometown Ghent Highlight.** Performing just blocks from Norfolk's historic Ghent neighborhood where Nate and Maya live, Ryan and Cassidy dedicate this booming power ballad to Ghent's favorite platonic safe-person duo.
 
@@ -11266,7 +11266,7 @@ I'm right here.
 [Final Sustained Piano Chord]
 [End]
 
-## Route 1: Midnight Headlights
+## Route 1: Midnight Headlights (Live in Norfolk)
 ### Lore
 From 2004's *Progress Street*—celebrating the late-night highway miles and the custom tour coaches parked outside the Norfolk Prism Arena.
 
@@ -11346,7 +11346,7 @@ Roll on, Route One!
 Midnight headlights in the valley fog!
 (Soaring guitar lead over driving drums, ending on a sharp stadium hit)
 
-## Before the Distance
+## Before the Distance (Live in Norfolk)
 ### Lore
 The emotional centerpiece of 2004's *Progress Street*, sung as a soaring sibling duet under the Prism dome.
 
@@ -11410,7 +11410,7 @@ Nothing stays the same.
 Listen to the silence.
 (Fading synth pad, slow drum beat out)
 
-## Fifth Gear: The Architect's Shield
+## Fifth Gear: The Architect's Shield (Live in Norfolk)
 ### Lore
 Cassidy's tribute to younger sister and CEO Holly O'Connell—who is watching from the side of the Norfolk stage, already preparing to shut down touring operations so her exhausted siblings can rest.
 
@@ -11484,7 +11484,7 @@ She's our fifth gear!
 The architect behind the sound!
 (Punchy final synth-rock stabs and drum crash)
 
-## Last Bus Home: Lights Out on Progress Street
+## Last Bus Home: Lights Out on Progress Street (Live in Norfolk)
 ### Lore
 Before the final encore, Ryan and Cassidy sing their bittersweet farewell to the road—promising Forger Nation that while they are turning the lights out after four studio albums in four years to recharge, they *will* return one day.
 
@@ -11573,19 +11573,34 @@ Lights out on Progress Street...
 Goodnight, Forger Nation.
 (A warm, sustained piano and analog synth chord slowly fades into silence)
 
-## Electric Color
+## Electric Color (Live in Norfolk)
 ### Lore
-The mandatory closer—one final, cathartic explosion of color inside the Norfolk Prism Arena before the band heads home to Blacksburg for their 2005–2014 Burnout Hiatus. *(Note: By sacred band vow, 'Saturday Night Lights: The Crucible' and 'If You Walked Away' are strictly excluded).*
+The mandatory closer—one final, cathartic explosion of color inside the Norfolk Prism Arena before the band heads home to Blacksburg for their 2005–2014 Burnout Hiatus. Unlike the 2016 *Live at the Crucible* AOR/Marching Band reclamation, this 2004 Norfolk tour finale preserves the classic high-energy 1980s Synth-Pop / Dance-Rock arrangement of *Electric Color*, supercharged with Ryan's live arena shred guitar solo. *(Note: By sacred band vow, 'Saturday Night Lights: The Crucible' and 'If You Walked Away' are strictly excluded).*
 
 ### Lyrics
 
-(Verse 1)
+[Live Arena Crowd Roar]
+
+[Extended Instrumental Vamp]
+(A massive, pulsing 1980s analog synthesizer pad and driving gated-reverb drum groove build tension across the arena floor as funky rhythm guitar scratches lock in)
+
+[Spoken Word Intro]
+(Spoken, female vocals, energetic and breathless over the vamp and cheering crowd)
+We have been all over the world on this tour, Norfolk!
+And there is no better place to finish this journey than right here on Virginia soil!
+Before we pack up the buses and head home to Blacksburg... we've got one last song left in the tank!
+Tonight, we're gonna turn the Prism into a dance floor one last time! Let me see you move, Norfolk!
+
+[Instrumental Hook]
+(The main sharp, catchy 1980s synthesizer hook and funky dance-rock beat slam in at full power)
+
+[Verse 1]
 Woke up this morning, the world was gray
 Didn't know the colors had all faded away
 Been living in a room with the curtains drawn tight
 Then you flipped a switch and turned on the light
 
-(Chorus)
+[Chorus]
 Oh, I'm seeing in electric color
 Finding a rhythm I never knew
 Dancing in a brand new summer
@@ -11593,13 +11608,14 @@ My whole world feels bright and new
 It's an electric-colored feeling
 And it all started with you!
 
-(Verse 2)
+[Verse 2]
+(Funky rhythm guitar scratches enter, synthesizer swells, bassline gets busier)
 The city sounds were just a buzz in my ear
 A static station I could never quite hear
 But now the noise is turning into a song
 And I finally feel like I belong
 
-(Chorus)
+[Chorus]
 Oh, I'm seeing in electric color
 Finding a rhythm I never knew
 Dancing in a brand new summer
@@ -11607,15 +11623,19 @@ My whole world feels bright and new
 It's an electric-colored feeling
 And it all started with you!
 
-(Bridge)
+[Bridge]
 The beat is getting stronger
 I can't hide it any longer
 My heart is playing catch-up
 To the music turning way up!
+(Spoken, shouting to the crowd)
+Ryan, show them what you got!
 
-(Guitar Solo)
+[Guitar Solo]
+(A blistering, high-gain rock guitar solo cuts through the synth-pop beat, melodic and fast)
 
-(Chorus)
+[Chorus]
+(High energy, drums crashing, crowd singing along)
 Oh, I'm seeing in electric color
 Finding a rhythm I never knew
 Dancing in a brand new summer
@@ -11623,10 +11643,14 @@ My whole world feels bright and new
 It's an electric-colored feeling
 And it all started with you!
 
-(Outro)
-Electric color
-Feeling so new
-It's all because of you
+[Outro]
+(The synth hook returns over roaring arena crowd)
+Electric color!
+Feeling so new!
+It's all because of you!
+(Spoken)
+Thank you Norfolk! We love you! Goodnight!
+(Music ends on a clean synth hit and roaring arena applause)
 
 # Lost Sounds (2007)
 * **Narrative Era:** 2007
@@ -13920,7 +13944,7 @@ See you out on the horizon!
 * **Narrative Era:** 2016
 * **Real-World DSP Release:** 2026-10-25
 
-## Ignition: The Forger's Call
+## Ignition: The Forger's Call (Live at the Crucible)
 ### Lore
 The very first time in history that **"Ignition: The Forger's Call"** was ever played and recorded for a live concert release (previously, the only way to hear *Ignition* was to attend a CPI Home Football Game in person inside **The Crucible**). With no opening act—just CPI Alumni (*Class of 1989*) coming home to play for their alma mater—Ryan O'Connell rolls out to the edge of the stage in his manual chair, recalls the 1986 student contest cassette protected by 16-year-old Holly O'Connell's `$1.00` Perpetual Mutual Cross-License, and cues the stadium blackout. As Tyler strikes his steel brake drum and 65,000 Ironheads execute **The Stomp** on the galvanized bleachers of **The Anvil** until the Copernicus Hall seismographs spike, the four-piece rock band and the 300-piece **CPI Marching Forgers** erupt into a deafening call-and-response of **"IGNITION!"**
 
@@ -14045,7 +14069,7 @@ Welcome home to The Crucible!
 (Sustained E-Minor power chord and pyrotechnic boom)
 
 
-## CPI Tech Triumph: The Marching Forgers
+## CPI Tech Triumph: The Marching Forgers (Live at the Crucible)
 ### Lore
 Directly out of the final anvil strike of *"Ignition"*, the Drum Major's whistle pierces the night air (`Tweet-Tweet-Tweet-Tweet!`) and **"The Engine Room"**—the high-tension Kevlar marching snare battery of the 300-piece **CPI Marching Forgers**—launches into the official Commonwealth Polytechnic Institute Fight Song. Forming the **CPI Hammer and Anvil** across the turf while 65,000 students and alumni clap in time and roar *"GO! FORGERS! FIGHT! FORGERS! WIN! CPI!"*, the Marching Forgers turn the opening minutes of the concert into the ultimate Saturday night inside The Crucible.
 
@@ -14083,7 +14107,7 @@ WIN! CPI!
 (Sharp Drum Major cut-off snap to instant silence, followed by a deafening 65,000-person stadium eruption)
 
 
-## The Stardust Engine
+## The Stardust Engine (Live at the Crucible)
 ### Lore
 While standard Stardust Engine concerts open directly with **"The Stardust Engine"**, here at their alma mater it serves as the culminating third movement of the opening sequence—performed with all 300 members of the **CPI Marching Forgers** still on the stage! Harmonizing 300 collegiate brass instruments and sousaphones with Cassidy's iconic 1986 **"Stardust"** analog synthesizer leitmotif and locking the Kevlar snare battery to Ryan's **"Engine"** guitar and Tyler's gated drums, the performance brings the stadium to a fever pitch before the Marching Forgers march off through the field tunnel—convincing everyone in the building that their guest appearance for the night is over.
 
@@ -14153,7 +14177,7 @@ Shining so bright...
 We're taking flight...
 (fades out on an epic, sustained guitar chord)
 
-## Main Engine Start
+## Main Engine Start (Live at the Crucible)
 ### Lore
 As the Marching Forgers clear the field, the core four-piece band—Cassidy on her wraparound synthesizers, Ryan in his manual chair at stage left on lead guitar, and identical twins Evan (bass) and Tyler (drums) on the back risers—slams straight into the 142 BPM countdown thriller from 2015's *Reignition*. Sixty-five thousand fans count down from ten to liftoff in unison.
 
@@ -14261,7 +14285,7 @@ All thrusters at one hundred and four percent!
 We are in orbit!
 (Final blazing guitar harmonic and gated drum crescendo)
 
-## Hard Reset
+## Hard Reset (Live at the Crucible)
 ### Lore
 Rewinding to the 1997 title track that launched their independent stadium era after buying out their masters in 1996, Ryan and Cassidy trade blistering verses over Evan and Tyler's pounding arena rhythm section.
 
@@ -14337,7 +14361,7 @@ Course laid in
 Let's fly
 *(Final power chord rings out, followed by the hum of a stable engine)*
 
-## Not Your Doll
+## Not Your Doll (Live at the Crucible)
 ### Lore
 Cassidy steps to the front microphone for her fierce 1989 *Neon Hearts* rebellion against the corporate record executives who tried to package her as a fragile pop idol—reclaimed here with full-throttle 1980s hard-rock guitars and analog synth brass.
 
@@ -14392,7 +14416,7 @@ Not your doll!
 Hear my voice!
 (fades out on a wailing guitar note)
 
-## Static
+## Static (Live at the Crucible)
 ### Lore
 From 1995's independent cassette release *The Warehouse Tapes*. Ryan dedicates the song to the Class of '89 and the original CPI dormitory tape-traders who kept the band alive during the 1992–1995 Wilderness Years.
 
@@ -14438,7 +14462,7 @@ I am the static...
 I am the static...
 Can you hear me now?
 
-## Midnight Drivers
+## Midnight Drivers (Live at the Crucible)
 ### Lore
 As twilight deepens into blue hour over the Appalachian ridges behind the stadium press box, the band launches into the nocturnal title anthem of 2001's *Midnight Drivers*, honoring Evan and Tyler's decades behind the wheel on I-81.
 
@@ -14493,7 +14517,7 @@ Midnight drivers, in the fading light
 [Outro]
 *(Instrumental fade-out with a heavy, distinct echo on the snare drum, trailing off into the dark)*
 
-## Fifty-Two to Nothing: The Norfolk Reckoning
+## Fifty-Two to Nothing: The Norfolk Reckoning (Live at the Crucible)
 ### Lore
 One of the loudest moments of the entire two-hour show. Pointing up at the North End Zone scoreboard of The Crucible—where sophomore **Jordan Shawn Kelly** (sitting in Accessible Field Section 104, Row A) had suffered his catastrophic `38–0` Homecoming meltdown against Virginia Dominion University (VDU) in September 2014—Ryan and Cassidy unleash the stadium stomper from 2015's *Reignition* celebrating CPI's retaliatory **52–0 shutout victory** in Norfolk, permanently overwriting the `38–0` ghost with 65,000 Forgers roaring *"FIFTY-TWO TO NOTHING! PUT IT ON THE BOARD!"*
 
@@ -14591,7 +14615,7 @@ Fifty-two to nothing!
 Go Forgers!
 (Final ringing anvil chime and C-Minor power chord)
 
-## The Contract
+## The Contract (Live at the Crucible)
 ### Lore
 Because they are playing at home for their alma mater, the band digs deep into 2007's archival vault compilation *Lost Sounds*—performing **"The Contract"** live as a tribute to younger sister and CEO **Holly O'Connell** watching from the side of the stage.
 
@@ -14659,7 +14683,7 @@ We are out of here!
 
 ***
 
-## Steel and Synthetics
+## Steel and Synthetics (Live at the Crucible)
 ### Lore
 A second live rarity pulled from 2007's *Lost Sounds* vault compilation, spotlighting the high-voltage interplay between Cassidy's analog synthesizer rig and Ryan's overdriven electric guitar.
 
@@ -14716,7 +14740,7 @@ Synthetics!
 Human heat!
 (The track ends on a massive, combined guitar and synth power chord that rings out for ten seconds before a digital power-down sound cuts it off)
 
-## Moon 1: Tidal Lock
+## Moon 1: Tidal Lock (Live at the Crucible)
 ### Lore
 The stadium floodlights dim to a deep cosmic indigo as Cassidy bathes all 65,000 fans in the zero-gravity analog pads of **The Cosmic Tidal Lock Sound™** (from 1997's *Hard Reset* and 2003's *Sanctuary [Zero-G]*), turning the entire bowl of The Crucible into a glowing planetarium under the Blacksburg stars.
 
@@ -14783,7 +14807,7 @@ Half in the light.
 Tidal lock.
 *(The synths sweep upward, echoing out into the void as the driving drum beat slowly fades away into the starfield)*
 
-## Mayday: The Intercept
+## Mayday: The Intercept (Live at the Crucible)
 ### Lore
 Transitioning directly from *Moon 1* into the heavy, high-friction arena rock of 2003's *Moon 2: Mile Marker 98*, Ryan and Cassidy sing the story of how their family intercepted the darkness after the 1990 Des Moines bus crash and brought everyone home alive.
 
@@ -14862,7 +14886,7 @@ You made the time.
 The cavalry is here.
 *(The driving drum beat ends with a massive, final cymbal crash. The heavy guitar chords ring out victoriously, slowly fading into a stable, pulsing electronic hum)*
 
-## Our Own Frequency
+## Our Own Frequency (Live at the Crucible)
 ### Lore
 **Act IV: *Our Own Frequency* — The Intimate Brother & Sister Acoustic Block (Part 1 of 3).** Recorded in complete secrecy in the living room of the Blacksburg house during the middle of the band's decade-long Burnout Hiatus, 2008's *Our Own Frequency* was never toured, promoted, or accompanied by press interviews—Ryan and Cassidy simply uploaded it to the Engine Room Records website on a Tuesday morning with a one-sentence note: *"We're still here, and we're okay."* At the midpoint of *Live at the Crucible*, Evan and Tyler leave the stage completely, and the towering stadium light rigs dim to two solitary warm spotlights at center stage: Ryan in his wheelchair with an acoustic guitar, Cassidy at the piano, and two microphones. For the first time in front of a live audience, brother and sister strip away the stadium walls of sound to share their most private living-room conversation with their CPI family.
 
@@ -14943,7 +14967,7 @@ Our own frequency...
 Just you and me...
 (Fades out with a lingering piano chord, a soft acoustic strum, and gentle applause across The Crucible)
 
-## Brother's Keeper
+## Brother's Keeper (Live at the Crucible)
 ### Lore
 **Act IV Centerpiece: *"Brother's Keeper"* — The Intimate Reality of Ryan's ADLs & The Final World Tour / CPI Summer Festival Residency Announcement (Part 2 of 3).** The emotional centerpiece of 2008's *Our Own Frequency* and the most private, vulnerable song Ryan and Cassidy have ever written. *"Brother's Keeper"* is an unflinchingly intimate look at the life-or-death mutual protection between brother and sister and what Cassidy and the family go through every single day taking care of Ryan's **ADLs (Activities of Daily Living)** due to his T10 paralysis—performing his daily toileting requirements and morning anti-atrophy leg stretches, pushing his wheelchair when the road is steep, and sharing a bed pushed against the wall at night with Ryan on the inside and Cassidy sleeping on the outside edge to act as a **human bed-rail** so he doesn't roll off, while Ryan serves as Cassidy's emotional anchor against the overwhelming sensory and psychological toll of the world. Before playing the song in the pin-drop silence of The Crucible, Ryan explains that because of the daily physical toll of those ADLs on the road as they have gotten older, the *Reignition* tour is the **last world tour they will ever do**—and announces that starting next summer, The Stardust Engine will stay home in Blacksburg to headline the annual **CPI Summer Festival** as a permanent Hometown Residency.
 
@@ -15034,7 +15058,7 @@ We keep each other safe.
 We keep each other grounded.
 (Fade out on a single, resonating piano chord as 65,000 fans rise in a deeply moved standing ovation)
 
-## Safe Person
+## Safe Person (Live at the Crucible)
 ### Lore
 **Act IV: *Our Own Frequency* — The Intimate Brother & Sister Acoustic Block (Part 3 of 3).** Completing the three-song *Our Own Frequency* (2008) living-room trilogy, **"Safe Person"** answers the physical devotion of *"Brother's Keeper"* by revealing the other half of their unbreakable bond: how Ryan acts as Cassidy's safe person and emotional anchor when the flashing cameras, press questions, and autistic sensory overload threaten to overwhelm her. Performed strictly by Ryan on acoustic guitar and Cassidy at the piano with zero electric amps or stadium lights, sixty-five thousand Forgers hold up quiet white phone lights across the dark bowl of The Crucible.
 
@@ -15099,7 +15123,7 @@ You're my safe person...
 Always.
 (Fade out on a single, resonating acoustic guitar chord followed by a warm, roaring ovation as the stadium applause swells)
 
-## Echoes in the Wire
+## Echoes in the Wire (Live at the Crucible)
 ### Lore
 **Act V Opener: Full-Band Electric Return (Permanently Replacing *"If You Walked Away"*).** Following the three-song *Our Own Frequency* brother-and-sister acoustic block, Evan and Tyler walk back onto the stage and strap on their electric bass and drum kit. Because 1989's *"If You Walked Away"* is permanently banned from all post-1990 Stardust Engine concerts to protect Cassidy from autistic sensory and abandonment overload, **"Echoes in the Wire"** (from 1997's *Hard Reset*) holds the emotional power-ballad spotlight—beginning at Cassidy's grand piano before Evan, Tyler, and Ryan's full electric stadium rig roars back to life.
 
@@ -15170,7 +15194,7 @@ Echoes in the wire...
 Still burning...
 (The synth pad swells to a warm, unresolved chord and fades into the roar of The Crucible)
 
-## Saturday Night Lights: The Crucible
+## Saturday Night Lights: The Crucible (Live at the Crucible)
 ### Lore
 **THE LIVE CONCERT DEBUT.** Although the studio recording of **"Saturday Night Lights: The Crucible"** (from 2004's *Progress Street*) first blasted over the stadium PA between the 3rd and 4th quarters on October 8, 2004, the band vowed they would **ONLY ever perform the song live when playing inside The Crucible** (deliberately omitting it even from 2005's *Live in Norfolk*). As the four massive Ironstone floodlight towers blaze at 100% power to kick off the fourth-quarter sprint of the concert, The Stardust Engine unleashes the live concert debut of *"Saturday Night Lights: The Crucible"* to a 65,000-voice roar of *"GO FORGERS! GO CPI!"*
 
@@ -15277,7 +15301,7 @@ Inside The Crucible!
 Under the Saturday night lights!
 (Massive stadium drum finale and soaring guitar chord)
 
-## Progress Street: Where the Fire Began
+## Progress Street: Where the Fire Began (Live at the Crucible)
 ### Lore
 Singing about the house on Progress Street NE just a mile and a half north of the stadium, Ryan and Cassidy lead the entire lower bowl and student section in a jubilant 1980s AOR hometown singalong.
 
@@ -15379,7 +15403,7 @@ Where the fire began!
 Five hearts beating as one!
 (Triumphant final stadium rock chord and massive drum crash fade out)
 
-## Neon Hearts
+## Neon Hearts (Live at the Crucible)
 ### Lore
 The band's 1989 hit title track, performed with the soaring 1980s arena-rock guitars and analog synth brass the band always wanted.
 
@@ -15441,7 +15465,7 @@ My neon heart... (Shining for you)
 My neon heart...
 (fades out)
 
-## My Anchor Holds
+## My Anchor Holds (Live at the Crucible)
 ### Lore
 One of the signature anthems from 1987's *Electric Color*, with 65,000 voices singing every word of the chorus back to the stage.
 
@@ -15496,7 +15520,7 @@ My anchor...
 My anchor holds...
 (Fades out with piano and synth)
 
-## Reignition: Lights On on Progress Street
+## Reignition: Lights On on Progress Street (Live at the Crucible)
 ### Lore
 The triumphant opening title anthem of 2015's *Reignition*, celebrating the family's return from their ten-year Burnout Hiatus and the permanent homecoming ahead in Blacksburg.
 
@@ -15611,7 +15635,7 @@ Lights on on Progress Street!
 The fire is back!
 (Final ringing D-Major stadium power chord and gong crash)
 
-## Last Bus Home: Lights Out on Progress Street
+## Last Bus Home: Lights Out on Progress Street (Live at the Crucible)
 ### Lore
 **THE FALSE ENDING.** To close what the audience believes is the end of the concert (and the final stop of their last world tour before beginning their annual CPI Summer Festival residency), the band performs the grand stadium power-ballad finale of 2004's *Progress Street*. As the drums and guitars slowly fade to a lone upright piano chord, Cassidy whispers *"Lights out on Progress Street..."*, Ryan says *"Goodnight, Forger Nation,"* and every stage light and Jumbotron screen inside The Crucible cuts to pitch black—convincing 65,000 fans that the concert is over.
 

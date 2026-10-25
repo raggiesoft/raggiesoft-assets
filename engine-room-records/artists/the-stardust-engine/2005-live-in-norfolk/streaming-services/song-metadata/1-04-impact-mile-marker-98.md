@@ -1,7 +1,9 @@
-# Impact: Mile Marker 98 - DistroKid Quick-Copy Sheet
+# Impact: Mile Marker 98 (Live in Norfolk) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Impact: Mile Marker 98
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Impact: Mile Marker 98
+* **Version:** Live in Norfolk
+* **ID3 / Vorbis Tagged Title:** Impact: Mile Marker 98 (Live in Norfolk)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Arena Rock / 80s Cosmic Pop / Melodic Stadium Rock
 * **Real-World DSP Release Date:** 2026-10-25

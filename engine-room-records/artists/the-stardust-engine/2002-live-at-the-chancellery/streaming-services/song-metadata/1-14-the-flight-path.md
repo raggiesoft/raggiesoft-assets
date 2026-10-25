@@ -1,7 +1,9 @@
-# The Flight Path (feat. Crimson Node) - DistroKid Quick-Copy Sheet
+# The Flight Path (feat. Crimson Node) (Live at the Chancellery) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Flight Path (feat. Crimson Node)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Flight Path (feat. Crimson Node)
+* **Version:** Live at the Chancellery
+* **ID3 / Vorbis Tagged Title:** The Flight Path (feat. Crimson Node) (Live at the Chancellery)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Arena Rock / 1980s Synth-Rock
 * **Real-World DSP Release Date:** 2026-10-25

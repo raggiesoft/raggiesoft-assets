@@ -1,7 +1,9 @@
-# The Flight Path - DistroKid Quick-Copy Sheet
+# The Flight Path (Live in Virginia Beach) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Flight Path
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Flight Path
+* **Version:** Live in Virginia Beach
+* **ID3 / Vorbis Tagged Title:** The Flight Path (Live in Virginia Beach)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Arena Rock / 1980s Synth-Rock
 * **Real-World DSP Release Date:** 2026-10-25

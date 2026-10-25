@@ -1,7 +1,9 @@
-# The Stardust Engine - DistroKid Quick-Copy Sheet
+# The Stardust Engine (Hard Reset Live) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Stardust Engine
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Stardust Engine
+* **Version:** Hard Reset Live
+* **ID3 / Vorbis Tagged Title:** The Stardust Engine (Hard Reset Live)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Arena Rock / Progressive Synth-Rock
 * **Real-World DSP Release Date:** 2026-10-25

@@ -1,7 +1,9 @@
-# Last Bus Home: Lights Out on Progress Street - DistroKid Quick-Copy Sheet
+# Last Bus Home: Lights Out on Progress Street (Live in Norfolk) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Last Bus Home: Lights Out on Progress Street
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Last Bus Home: Lights Out on Progress Street
+* **Version:** Live in Norfolk
+* **ID3 / Vorbis Tagged Title:** Last Bus Home: Lights Out on Progress Street (Live in Norfolk)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Arena Rock / 80s Cosmic Pop / Melodic Stadium Rock
 * **Real-World DSP Release Date:** 2026-10-25

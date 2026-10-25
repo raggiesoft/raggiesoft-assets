@@ -1,10 +1,12 @@
-# Hoshizora no Uta (Song of the Starry Sky) [Japanese Version] - DistroKid Quick-Copy Sheet
+# Hoshizora no Uta (Song of the Starry Sky) (Japanese Version) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Hoshizora no Uta (Song of the Starry Sky) [Japanese Version]
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Hoshizora no Uta (Song of the Starry Sky)
+* **Version:** Japanese Version
+* **ID3 / Vorbis Tagged Title:** Hoshizora no Uta (Song of the Starry Sky) (Japanese Version)
 * **Primary Artist:** The Hoshizora Ensemble
 * **Genre:** 70s Japanese Folk-Pop / City Pop / Maritime Acoustic
-* **Real-World DSP Release Date:** 2026-10-19
+* **Real-World DSP Release Date:** 2026-10-25
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTAHP2600001
 
 **DistroKid AI Credits Questionnaire:**

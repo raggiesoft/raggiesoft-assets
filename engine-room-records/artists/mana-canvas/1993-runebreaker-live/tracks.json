@@ -2,7 +2,8 @@
   "tracks": [
     {
       "fileName": "the-grand-decree-live",
-      "title": "The Grand Decree (Live at Sanctuary Stadium)",
+      "title": "The Grand Decree",
+      "version": "Live at Sanctuary Stadium",
       "masterWavPath": "live/the-grand-decree-live",
       "disc": 1,
       "discName": "Runebreaker Live",

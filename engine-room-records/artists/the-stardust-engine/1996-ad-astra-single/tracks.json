@@ -2,7 +2,8 @@
   "tracks": [
     {
       "fileName": "1-01-escape-velocity-ad-astra",
-      "title": "Escape Velocity (Ad Astra) [Full Suite]",
+      "title": "Escape Velocity (Ad Astra)",
+      "version": "Full Suite",
       "isrc": "QZTB62697616",
       "masterWavPath": "studio/escape-velocity-ad-astra",
       "disc": 1,
@@ -13,7 +14,8 @@
     },
     {
       "fileName": "1-02-escape-velocity-ad-astra-radio-edit",
-      "title": "Escape Velocity (Ad Astra) (Radio Edit)",
+      "title": "Escape Velocity (Ad Astra)",
+      "version": "Radio Edit",
       "isrc": "QZTB62697617",
       "masterWavPath": "alternate-takes/escape-velocity-ad-astra-radio-edit",
       "disc": 1,
@@ -24,7 +26,8 @@
     },
     {
       "fileName": "1-03-atmosphere-warehouse-demo",
-      "title": "Atmosphere (1992 Demo)",
+      "title": "Atmosphere",
+      "version": "1992 Demo",
       "isrc": "QZTB62697618",
       "masterWavPath": "demos/atmosphere-warehouse-demo",
       "disc": 1,

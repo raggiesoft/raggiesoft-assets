@@ -1,11 +1,13 @@
-# Electric Color - DistroKid Quick-Copy Sheet
+# Electric Color (Live in Norfolk) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Electric Color
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Electric Color
+* **Version:** Live in Norfolk
+* **ID3 / Vorbis Tagged Title:** Electric Color (Live in Norfolk)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Arena Rock / 80s Cosmic Pop / Melodic Stadium Rock
 * **Real-World DSP Release Date:** 2026-10-25
-* **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
+* **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTAHP2600027
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes
@@ -27,10 +29,10 @@
 
 ## 3. Internal Catalog Information
 * **Engine Room ID:** ERR-001-2005-114
-* **ISRC:** 
+* **ISRC:** QTAHP2600027
 * **US ISRC Agency Registrant:** Michael Ragsdale (Registrant ID: 185611 • Prefix: QTAHP • dsp.operations@engineroom-records.com)
 * **Album UPC / GTIN-12:** None
-* **Track Length:** 
+* **Track Length:** 4:35
 * **Fictional Narrative Release Date:** 2005-04-18
 * **Master File Located At:** ../../vault/wav/1-14-electric-color.wav
 
