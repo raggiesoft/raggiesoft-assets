@@ -36,11 +36,11 @@
                             "url": "/crimson-node/book-1-the-illusion/chapter-1-the-approach-ndash-friday-april-23-1999/anomalies",
                             "start_time": "10:15 AM",
                             "location": "Unknown",
-                            "image": "{{CDN}}/raggiesoft-lore/shiloh/images/story/log-02.jpg#fullwidth",
+                            "image": "/raggiesoft-lore/shiloh/images/story/log-02.jpg",
                             "image_alt": "Courtney hugging Matt in the hallway",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-lore/shiloh/images/story/log-02.jpg#fullwidth",
+                                    "src": "/raggiesoft-lore/shiloh/images/story/log-02.jpg",
                                     "alt": "Courtney hugging Matt in the hallway"
                                 }
                             ],
@@ -61,15 +61,15 @@
                             "url": "/crimson-node/book-1-the-illusion/chapter-2-the-core-ecosystem-ndash-friday-april-30-1999/the-commons-the-fallout",
                             "start_time": "07:15",
                             "location": "Unknown",
-                            "image": "{{CDN}}/raggiesoft-lore/shiloh/images/story/sarah-comfort-matt.jpg#fullwidth",
+                            "image": "/raggiesoft-lore/shiloh/images/story/sarah-comfort-matt.jpg",
                             "image_alt": "Sarah comforting Matt in their bedroom",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-lore/shiloh/images/story/sarah-comfort-matt.jpg#fullwidth",
+                                    "src": "/raggiesoft-lore/shiloh/images/story/sarah-comfort-matt.jpg",
                                     "alt": "Sarah comforting Matt in their bedroom"
                                 },
                                 {
-                                    "src": "{{CDN}}/raggiesoft-lore/shiloh/images/story/matt-computer-drawing.jpg#fullwidth",
+                                    "src": "/raggiesoft-lore/shiloh/images/story/matt-computer-drawing.jpg",
                                     "alt": "Matt's crayon drawing of Sarah's computer"
                                 }
                             ],
@@ -90,11 +90,11 @@
                             "url": "/crimson-node/book-1-the-illusion/chapter-3-the-triple-birthday-ndash-sunday-may-2-1999/part-1-the-morning-routine-player-two",
                             "start_time": "08:00",
                             "location": "Unknown",
-                            "image": "{{CDN}}/raggiesoft-lore/shiloh/images/story/matt-sarah-shiloh.jpg#fullwidth",
+                            "image": "/raggiesoft-lore/shiloh/images/story/matt-sarah-shiloh.jpg",
                             "image_alt": "Matt getting hugged by Sarah and Shiloh at breakfast",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-lore/shiloh/images/story/matt-sarah-shiloh.jpg#fullwidth",
+                                    "src": "/raggiesoft-lore/shiloh/images/story/matt-sarah-shiloh.jpg",
                                     "alt": "Matt getting hugged by Sarah and Shiloh at breakfast"
                                 }
                             ],
@@ -123,15 +123,15 @@
                             "url": "/crimson-node/book-1-the-illusion/chapter-4-the-failed-apology-ndash-monday-may-3-1999/part-1-the-band-room-hallway-the-charlottesville-plan",
                             "start_time": "10:15 AM",
                             "location": "Unknown",
-                            "image": "{{CDN}}/raggiesoft-lore/shiloh/images/story/courtney-principal-office.jpg#fullwidth",
+                            "image": "/raggiesoft-lore/shiloh/images/story/courtney-principal-office.jpg",
                             "image_alt": "Courtney facing Principal Morgan in his office",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-lore/shiloh/images/story/courtney-principal-office.jpg#fullwidth",
+                                    "src": "/raggiesoft-lore/shiloh/images/story/courtney-principal-office.jpg",
                                     "alt": "Courtney facing Principal Morgan in his office"
                                 },
                                 {
-                                    "src": "{{CDN}}/raggiesoft-lore/shiloh/images/story/courtney-evans-iss.jpg#fullwidth",
+                                    "src": "/raggiesoft-lore/shiloh/images/story/courtney-evans-iss.jpg",
                                     "alt": "Courtney sitting alone in the ISS trailer"
                                 }
                             ],
@@ -160,19 +160,19 @@
                             "url": "/crimson-node/book-1-the-illusion/interlude-the-reckoning/the-new-hierarchy-the-thunderstorm",
                             "start_time": "15:00",
                             "location": "Unknown",
-                            "image": "{{CDN}}/raggiesoft-lore/shiloh/images/story/courtney-doorless-room.jpg#fullwidth",
+                            "image": "/raggiesoft-lore/shiloh/images/story/courtney-doorless-room.jpg",
                             "image_alt": "Courtney sitting alone in her doorless bedroom",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-lore/shiloh/images/story/courtney-doorless-room.jpg#fullwidth",
+                                    "src": "/raggiesoft-lore/shiloh/images/story/courtney-doorless-room.jpg",
                                     "alt": "Courtney sitting alone in her doorless bedroom"
                                 },
                                 {
-                                    "src": "{{CDN}}/raggiesoft-lore/shiloh/images/story/courtney-jason-chores.jpg#fullwidth",
+                                    "src": "/raggiesoft-lore/shiloh/images/story/courtney-jason-chores.jpg",
                                     "alt": "Jason dropping his muddy jersey for Courtney to clean"
                                 },
                                 {
-                                    "src": "{{CDN}}/raggiesoft-lore/shiloh/images/story/courtney-brothers-hug.jpg#fullwidth",
+                                    "src": "/raggiesoft-lore/shiloh/images/story/courtney-brothers-hug.jpg",
                                     "alt": "Courtney crying and hugging her brothers Jason and Ryan"
                                 }
                             ],

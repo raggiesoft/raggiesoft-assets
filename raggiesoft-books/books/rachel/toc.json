@@ -1572,11 +1572,11 @@
                             "url": "/rachel/book-15-the-end-of-hell/chapter-6-the-escape-route/part-1-the-kent-station-transfer",
                             "date": "2006-11-15",
                             "start_time": "08:00",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/rachel/b015/delores-polo-reaction.jpg#fullwidth",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b015/delores-polo-reaction.jpg",
                             "image_alt": "Delores reacts in terror to Jessica's embroidered Senior Technical Program Manager title",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/rachel/b015/delores-polo-reaction.jpg#fullwidth",
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b015/delores-polo-reaction.jpg",
                                     "alt": "Delores reacts in terror to Jessica's embroidered Senior Technical Program Manager title"
                                 }
                             ],
@@ -1589,11 +1589,11 @@
                             "url": "/rachel/book-15-the-end-of-hell/chapter-6-the-escape-route/part-2-jessica-s-train-ride",
                             "date": "2006-11-15",
                             "start_time": "08:15",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/jessica-taps-train-ghosts.jpg#fullwidth",
+                            "image": "/raggiesoft-books/images/scenes/jessica-taps-train-ghosts.jpg",
                             "image_alt": "Jessica weeping while ghost Michael begs for help",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/jessica-taps-train-ghosts.jpg#fullwidth",
+                                    "src": "/raggiesoft-books/images/scenes/jessica-taps-train-ghosts.jpg",
                                     "alt": "Jessica weeping while ghost Michael begs for help"
                                 }
                             ],
@@ -1606,11 +1606,11 @@
                             "url": "/rachel/book-15-the-end-of-hell/chapter-6-the-escape-route/part-3-off-to-pierce-county-quantum-reunion",
                             "date": "2006-11-15",
                             "start_time": "08:15",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/rachel/b015/quantum-reunion-overlake.jpg#fullwidth",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b015/quantum-reunion-overlake.jpg",
                             "image_alt": "Andromeda and the Quantaneers stage a desperate intervention at the Overlake Transit Center while the ghost of Delores maintains her grip on Michael",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/rachel/b015/quantum-reunion-overlake.jpg#fullwidth",
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b015/quantum-reunion-overlake.jpg",
                                     "alt": "Andromeda and the Quantaneers stage a desperate intervention at the Overlake Transit Center while the ghost of Delores maintains her grip on Michael"
                                 }
                             ],
@@ -1639,11 +1639,11 @@
                             "url": "/rachel/book-15-the-end-of-hell/chapter-7-morning-hell/part-1-forced-exit",
                             "date": "2006-11-16",
                             "start_time": "04:00",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/rachel/b015/michael-gillig-bus-call.jpg#fullwidth",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b015/michael-gillig-bus-call.jpg",
                             "image_alt": "Michael frantically calling Jessica from a crowded Stalwart Phantom bus in the early morning darkness",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/rachel/b015/michael-gillig-bus-call.jpg#fullwidth",
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b015/michael-gillig-bus-call.jpg",
                                     "alt": "Michael frantically calling Jessica from a crowded Stalwart Phantom bus in the early morning darkness"
                                 }
                             ],
@@ -1656,15 +1656,15 @@
                             "url": "/rachel/book-15-the-end-of-hell/chapter-7-morning-hell/part-2-the-renton-transfer",
                             "date": "2006-11-16",
                             "start_time": "06:00",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/rachel/b015/michael-jessica-renton-transfer.jpg#fullwidth",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b015/michael-jessica-renton-transfer.jpg",
                             "image_alt": "POV: Looking out from the stairs of the TAPS transit bus into the dark, rainy morning, Michael sees his sister Jessica waiting for him with hot food on the Renton Transit Center platform",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/rachel/b015/michael-jessica-renton-transfer.jpg#fullwidth",
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b015/michael-jessica-renton-transfer.jpg",
                                     "alt": "POV: Looking out from the stairs of the TAPS transit bus into the dark, rainy morning, Michael sees his sister Jessica waiting for him with hot food on the Renton Transit Center platform"
                                 },
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/rachel/b015/michael-jessica-apartment-comfort.jpg#fullwidth",
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b015/michael-jessica-apartment-comfort.jpg",
                                     "alt": "Jessica comforting Michael on her bed as he breaks down in tears"
                                 }
                             ],
@@ -1821,11 +1821,11 @@
                             "url": "/rachel/book-16-awe-monday-night-war/chapter-2-arrival-at-rose-city-center/part-1-will-call-the-tycoon-the-thief-and-the-foam-finger",
                             "date": "2006-11-20",
                             "start_time": "14:30",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/sensory_meltdown_regulation.jpg",
+                            "image": "/raggiesoft-books/images/scenes/sensory_meltdown_regulation.jpg",
                             "image_alt": "Sensory Meltdown Regulation",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/sensory_meltdown_regulation.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/sensory_meltdown_regulation.jpg",
                                     "alt": "Sensory Meltdown Regulation"
                                 }
                             ],
@@ -1854,11 +1854,11 @@
                             "url": "/rachel/book-16-awe-monday-night-war/chapter-3-awe-monday-night-war/part-1-live-from-portland-the-corporate-meltdown",
                             "date": "2006-11-20",
                             "start_time": "18:00",
-                            "image": "{{CDN}}/raggiesoft-books/images/characters/jaxson_vance/jaxson_vance.jpg",
+                            "image": "/raggiesoft-books/images/characters/jaxson_vance/jaxson_vance.jpg",
                             "image_alt": "Jaxson Vance",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/characters/jaxson_vance/jaxson_vance.jpg",
+                                    "src": "/raggiesoft-books/images/characters/jaxson_vance/jaxson_vance.jpg",
                                     "alt": "Jaxson Vance"
                                 }
                             ],
@@ -1871,15 +1871,15 @@
                             "url": "/rachel/book-16-awe-monday-night-war/chapter-3-awe-monday-night-war/part-2-the-riot-vs-the-empress-the-backstage-assault",
                             "date": "2006-11-20",
                             "start_time": "18:40",
-                            "image": "{{CDN}}/raggiesoft-books/images/characters/diego_chavez/diego_chavez.jpg",
+                            "image": "/raggiesoft-books/images/characters/diego_chavez/diego_chavez.jpg",
                             "image_alt": "Sly Diego Chavez",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/characters/diego_chavez/diego_chavez.jpg",
+                                    "src": "/raggiesoft-books/images/characters/diego_chavez/diego_chavez.jpg",
                                     "alt": "Sly Diego Chavez"
                                 },
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/characters/preston_sinclair/preston_sinclair.jpg",
+                                    "src": "/raggiesoft-books/images/characters/preston_sinclair/preston_sinclair.jpg",
                                     "alt": "The Tycoon Preston Sinclair"
                                 }
                             ],
@@ -1900,15 +1900,15 @@
                             "url": "/rachel/book-16-awe-monday-night-war/chapter-3-awe-monday-night-war/part-4-the-rampage-the-ultimatum-the-house-lights-the-journey-home",
                             "date": "2006-11-20",
                             "start_time": "19:56",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/marcus_sterling_ultimatum.jpg",
+                            "image": "/raggiesoft-books/images/scenes/marcus_sterling_ultimatum.jpg",
                             "image_alt": "Marcus Sterling Ultimatum",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/marcus_sterling_ultimatum.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/marcus_sterling_ultimatum.jpg",
                                     "alt": "Marcus Sterling Ultimatum"
                                 },
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/michael_jessica_piggyback.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/michael_jessica_piggyback.jpg",
                                     "alt": "Piggy-back Carry"
                                 }
                             ],
@@ -1961,11 +1961,11 @@
                             "url": "/rachel/book-17-a-few-small-repairs/chapter-2-the-financial-extraction/part-1-the-transit-grid-the-financial-severance",
                             "date": "2006-11-22",
                             "start_time": "00:00",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/delores_spots_michael.jpg",
+                            "image": "/raggiesoft-books/images/scenes/delores_spots_michael.jpg",
                             "image_alt": "The Sentinel's Shield",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/delores_spots_michael.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/delores_spots_michael.jpg",
                                     "alt": "The Sentinel's Shield"
                                 }
                             ],
@@ -1978,11 +1978,11 @@
                             "url": "/rachel/book-17-a-few-small-repairs/chapter-2-the-financial-extraction/part-2-the-corporate-armor-caf-34-and-the-code-off",
                             "date": "2006-11-22",
                             "start_time": "09:45",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/financial_severance_embrace.jpg",
+                            "image": "/raggiesoft-books/images/scenes/financial_severance_embrace.jpg",
                             "image_alt": "The Pack Embrace",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/financial_severance_embrace.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/financial_severance_embrace.jpg",
                                     "alt": "The Pack Embrace"
                                 }
                             ],
@@ -1995,15 +1995,15 @@
                             "url": "/rachel/book-17-a-few-small-repairs/chapter-2-the-financial-extraction/part-3-the-crossway-matinee-bug-and-bear",
                             "date": "2006-11-22",
                             "start_time": "13:15",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/rachel/b017/jessica-office-sofa.jpg#fullwidth",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b017/jessica-office-sofa.jpg",
                             "image_alt": "Jessica consoles Michael on the sofa in her Building 35 corner office",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/rachel/b017/jessica-office-sofa.jpg#fullwidth",
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b017/jessica-office-sofa.jpg",
                                     "alt": "Jessica consoles Michael on the sofa in her Building 35 corner office"
                                 },
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/rachel/b017/ragsdale-siblings-1999-photo.jpg#fullwidth",
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b017/ragsdale-siblings-1999-photo.jpg",
                                     "alt": "The Ragsdale siblings cuddling in late 1998"
                                 }
                             ],
@@ -2160,11 +2160,11 @@
                             "url": "/rachel/book-18-the-eastern-anchor/chapter-2-the-blueprint-and-the-sabomnim/part-2-the-alumni-roster-the-woven-stripe",
                             "date": "2007-03-31",
                             "start_time": "13:15",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/rachel/b018/april_showing_dojang_street_clothes_p006.jpg",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b018/april_showing_dojang_street_clothes_p006.jpg",
                             "image_alt": "Master April shows Michael and Rachel the Lynnhaven Academy Dojang",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/rachel/b018/april_showing_dojang_street_clothes_p006.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/april_showing_dojang_street_clothes_p006.jpg",
                                     "alt": "Master April shows Michael and Rachel the Lynnhaven Academy Dojang"
                                 }
                             ],
@@ -2177,11 +2177,11 @@
                             "url": "/rachel/book-18-the-eastern-anchor/chapter-2-the-blueprint-and-the-sabomnim/part-3-the-sea-of-truth-the-criollo-drive-ascent",
                             "date": "2007-03-31",
                             "start_time": "18:45",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/rachel/b018/april_reveals_diplomatic_status_p007.jpg",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b018/april_reveals_diplomatic_status_p007.jpg",
                             "image_alt": "Master April reveals her true geopolitical status",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/rachel/b018/april_reveals_diplomatic_status_p007.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/april_reveals_diplomatic_status_p007.jpg",
                                     "alt": "Master April reveals her true geopolitical status"
                                 }
                             ],

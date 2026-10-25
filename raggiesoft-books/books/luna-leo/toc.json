@@ -682,11 +682,11 @@
                             "date": "2002-09-15",
                             "start_time": "11:00",
                             "location": "Northwood High School, Virginia Beach, VA",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/luna-leo/b007/olivia-leo-northwood-high-entrance.jpg#fullwidth",
+                            "image": "/raggiesoft-books/images/scenes/luna-leo/b007/olivia-leo-northwood-high-entrance.jpg",
                             "image_alt": "Olivia meeting Leo at the entrance of Northwood High School",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/luna-leo/b007/olivia-leo-northwood-high-entrance.jpg#fullwidth",
+                                    "src": "/raggiesoft-books/images/scenes/luna-leo/b007/olivia-leo-northwood-high-entrance.jpg",
                                     "alt": "Olivia meeting Leo at the entrance of Northwood High School"
                                 }
                             ],
@@ -812,11 +812,11 @@
                             "date": "2002-12-31",
                             "start_time": "19:00",
                             "location": "Richard and Elizabeth's House, Virginia Beach, VA",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/luna-leo/b007/olivia-leo-bed-together.jpg#fullwidth",
+                            "image": "/raggiesoft-books/images/scenes/luna-leo/b007/olivia-leo-bed-together.jpg",
                             "image_alt": "Olivia and Leo resting comfortably in his bed, watching a movie together",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/luna-leo/b007/olivia-leo-bed-together.jpg#fullwidth",
+                                    "src": "/raggiesoft-books/images/scenes/luna-leo/b007/olivia-leo-bed-together.jpg",
                                     "alt": "Olivia and Leo resting comfortably in his bed, watching a movie together"
                                 }
                             ],
@@ -1741,11 +1741,11 @@
                             "date": "2003-11-26",
                             "start_time": "10:00",
                             "location": "Kent, WA",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/luna-leo/b010/orf-airport-reunion-gate-a5.jpg#fullwidth",
+                            "image": "/raggiesoft-books/images/scenes/luna-leo/b010/orf-airport-reunion-gate-a5.jpg",
                             "image_alt": "Leo arriving at Gate A5 at ORF",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/luna-leo/b010/orf-airport-reunion-gate-a5.jpg#fullwidth",
+                                    "src": "/raggiesoft-books/images/scenes/luna-leo/b010/orf-airport-reunion-gate-a5.jpg",
                                     "alt": "Leo arriving at Gate A5 at ORF"
                                 }
                             ],

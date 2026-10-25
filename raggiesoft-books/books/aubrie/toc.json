@@ -6,16 +6,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "44.2 MB",
-        "pdf": "24.8 MB",
-        "text_epub": "858 KB",
+        "epub": "44.1 MB",
+        "pdf": "24.7 MB",
+        "text_epub": "859 KB",
         "text_pdf": "3.2 MB",
-        "epub_bytes": 46357644,
-        "pdf_bytes": 26022235,
-        "text_epub_bytes": 879093,
-        "text_pdf_bytes": 3405773
+        "epub_bytes": 46280875,
+        "pdf_bytes": 25945930,
+        "text_epub_bytes": 879131,
+        "text_pdf_bytes": 3405838
     },
-    "illustration_count": 33,
+    "illustration_count": 32,
     "eras": [
         {
             "era_num": 1,
@@ -100,11 +100,11 @@
                             "date": "2014-08-22",
                             "start_time": "09:15",
                             "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c003/s003/isabel-greets-aubrey.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e001/c003/s003/isabel-greets-aubrey.jpg",
                             "image_alt": "Resident Advisor Isabel Dawson in her maroon CPI Residence Life Student Staff uniform and nametag waving warmly from the doorway of Bennett Hall Room 214 to greet Aubrey, who smiles from his manual wheelchair while holding his unplugged laptop power cord.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c003/s003/isabel-greets-aubrey.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e001/c003/s003/isabel-greets-aubrey.jpg",
                                     "alt": "Resident Advisor Isabel Dawson in her maroon CPI Residence Life Student Staff uniform and nametag waving warmly from the doorway of Bennett Hall Room 214 to greet Aubrey, who smiles from his manual wheelchair while holding his unplugged laptop power cord."
                                 }
                             ],
@@ -144,11 +144,11 @@
                             "date": "2014-08-23",
                             "start_time": "10:30",
                             "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s002/clerical-error.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e001/c004/s002/clerical-error.jpg",
                             "image_alt": "Aubrie Jean Kelly stepping through the open doorway of Bennett Hall Room 214 carrying canvas move-in bags and a storage tote while a startled Aubrey pushes himself upright on his low dorm bed beside his manual wheelchair.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s002/clerical-error.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e001/c004/s002/clerical-error.jpg",
                                     "alt": "Aubrie Jean Kelly stepping through the open doorway of Bennett Hall Room 214 carrying canvas move-in bags and a storage tote while a startled Aubrey pushes himself upright on his low dorm bed beside his manual wheelchair."
                                 }
                             ],
@@ -162,11 +162,11 @@
                             "date": "2014-08-23",
                             "start_time": "10:35",
                             "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s003/system-crash.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e001/c004/s003/system-crash.jpg",
                             "image_alt": "Inside Bennett Hall Room 214 under the glaring fluorescent ceiling light, Aubrey sits in his manual wheelchair with both hands clamped tightly over his ears in a severe autistic meltdown as Aubrie Jean Kelly steps calmly toward him and Madison Scott enters the doorway carrying a cardboard move-in box.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s003/system-crash.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e001/c004/s003/system-crash.jpg",
                                     "alt": "Inside Bennett Hall Room 214 under the glaring fluorescent ceiling light, Aubrey sits in his manual wheelchair with both hands clamped tightly over his ears in a severe autistic meltdown as Aubrie Jean Kelly steps calmly toward him and Madison Scott enters the doorway carrying a cardboard move-in box."
                                 }
                             ],
@@ -180,11 +180,11 @@
                             "date": "2014-08-23",
                             "start_time": "10:40",
                             "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s004/aubrie-first-hug.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e001/c004/s004/aubrie-first-hug.jpg",
                             "image_alt": "Inside Bennett Hall Room 214 with the overhead fluorescent light switched off, Aubrie Jean Kelly leans beside Aubrey's manual wheelchair and wraps her arms firmly around his shoulders in his very first genuine hug to calm him during an autistic meltdown while Madison Scott watches compassionately.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s004/aubrie-first-hug.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e001/c004/s004/aubrie-first-hug.jpg",
                                     "alt": "Inside Bennett Hall Room 214 with the overhead fluorescent light switched off, Aubrie Jean Kelly leans beside Aubrey's manual wheelchair and wraps her arms firmly around his shoulders in his very first genuine hug to calm him during an autistic meltdown while Madison Scott watches compassionately."
                                 }
                             ],
@@ -198,11 +198,11 @@
                             "date": "2014-08-23",
                             "start_time": "11:50",
                             "location": "Room 214, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s006/a-joke-that-stuck.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e001/c004/s006/a-joke-that-stuck.jpg",
                             "image_alt": "Inside Room 214 of Eleanor Bennett Hall on freshman move-in weekend, eighteen-year-old Jordan Fuller sits in his manual wheelchair with his silver laptop resting on his lap and breaks into a relieved, hopeful smile as he claims the name Jordan and reveals he is an Astrophysics major, while Aubrie Jean Kelly leans forward from the lower wooden bunk bed with a brilliant grin of shared excitement, surrounded warmly by Madison Grace Miller at the desk and Zo\u00eb Wren Brooks, Lauren Elizabeth Taylor, and Hannah Marie Brooks.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c004/s006/a-joke-that-stuck.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e001/c004/s006/a-joke-that-stuck.jpg",
                                     "alt": "Inside Room 214 of Eleanor Bennett Hall on freshman move-in weekend, eighteen-year-old Jordan Fuller sits in his manual wheelchair with his silver laptop resting on his lap and breaks into a relieved, hopeful smile as he claims the name Jordan and reveals he is an Astrophysics major, while Aubrie Jean Kelly leans forward from the lower wooden bunk bed with a brilliant grin of shared excitement, surrounded warmly by Madison Grace Miller at the desk and Zo\u00eb Wren Brooks, Lauren Elizabeth Taylor, and Hannah Marie Brooks."
                                 }
                             ],
@@ -466,11 +466,11 @@
                             "date": "2014-08-29",
                             "start_time": "14:25",
                             "location": "Audiology Suite, Montgomery Vision and Hearing Clinic, Downtown Christiansburg, Virginia",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c009/s005/ride-home-in-high-definition.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e001/c009/s005/ride-home-in-high-definition.jpg",
                             "image_alt": "Seated upright in his wheelchair in the accessible front bay of a Blue Ridge Transit bus bathed in golden late-afternoon Virginia sunlight, Jordan Fuller wears his brand-new rectangular eyeglasses, behind-the-ear digital hearing aids, and maroon CPI T-shirt while holding his CPI Poly Pass and looking out the wide panoramic window in awe at the soaring gray Ironstone collegiate-gothic towers of Commonwealth Polytechnic Institute and the Blue Ridge Mountains in 20/20 high definition, as Aubrie Jean Kelly, Madison Grace Miller, and Zo\u00eb Wren Brooks smile beside him.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c009/s005/ride-home-in-high-definition.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e001/c009/s005/ride-home-in-high-definition.jpg",
                                     "alt": "Seated upright in his wheelchair in the accessible front bay of a Blue Ridge Transit bus bathed in golden late-afternoon Virginia sunlight, Jordan Fuller wears his brand-new rectangular eyeglasses, behind-the-ear digital hearing aids, and maroon CPI T-shirt while holding his CPI Poly Pass and looking out the wide panoramic window in awe at the soaring gray Ironstone collegiate-gothic towers of Commonwealth Polytechnic Institute and the Blue Ridge Mountains in 20/20 high definition, as Aubrie Jean Kelly, Madison Grace Miller, and Zo\u00eb Wren Brooks smile beside him."
                                 }
                             ],
@@ -555,15 +555,15 @@
                             "date": "2014-09-19",
                             "start_time": "20:00",
                             "location": "Suite 214/216 to Washington Street, Bennett Hall, Commonwealth Polytechnic Institute, Blacksburg, Virginia",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c012/s003/fire-drill.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e001/c012/s003/fire-drill.jpg",
                             "image_alt": "Inside Bennett Hall Room 214 with the corridor door swung open inward and the Simplex fire alarm strobe flashing, Isabel Dawson\u2014wearing a neon-yellow high-visibility vest over her sweater and blue jeans\u2014crouches at eye level holding open the official CPI EHS log folder to promise a tearful Jordan he is safe as he begins loosening his grip on his desk, while Madison supports an upset Aubrie near the doorway.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c012/s003/fire-drill.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e001/c012/s003/fire-drill.jpg",
                                     "alt": "Inside Bennett Hall Room 214 with the corridor door swung open inward and the Simplex fire alarm strobe flashing, Isabel Dawson\u2014wearing a neon-yellow high-visibility vest over her sweater and blue jeans\u2014crouches at eye level holding open the official CPI EHS log folder to promise a tearful Jordan he is safe as he begins loosening his grip on his desk, while Madison supports an upset Aubrie near the doorway."
                                 },
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e001/c012/s003/jordan-hugs-isabel-outside.jpg#fullwidth",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e001/c012/s003/jordan-hugs-isabel-outside.jpg",
                                     "alt": "Outside the three-story 1980s Bennett Hall Addition on the Washington Street sidewalk after the fire drill all-clear, Jordan leans forward from his manual wheelchair and pulls a momentarily surprised, deeply moved Isabel Dawson\u2014crouching in her high-visibility vest over her sweater and blue jeans\u2014into a grateful hug as he adds her to his circle of Safe People."
                                 }
                             ],
@@ -894,11 +894,11 @@
                             "date": "2014-12-21",
                             "start_time": "12:20",
                             "location": "Brooks Residence Dining Room, Geneva Street, Christiansburg, Virginia",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c001/s008/solar-noon-winter-solstice.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e002/c001/s008/solar-noon-winter-solstice.jpg",
                             "image_alt": "At 12:20 PM EST (True Solar Noon) on the Winter Solstice inside the sunlit Brooks dining room on Geneva Street with deep snowbanks sparkling outside the bay windows, nineteen-year-old birthday astrophysicists Jordan Fuller and Aubrie Jean Kelly sit side by side holding hands in front of their dark-chocolate deep-space nebula cake decorated with gold celestial lines, two binary golden shooting stars, and nineteen flickering golden candles, while Zo\u00eb Wren Brooks, Madison Grace Miller, Lauren Elizabeth Taylor, Hannah Marie Brooks, and Daniel and Laura Brooks cheer and clap around the table.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c001/s008/solar-noon-winter-solstice.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e002/c001/s008/solar-noon-winter-solstice.jpg",
                                     "alt": "At 12:20 PM EST (True Solar Noon) on the Winter Solstice inside the sunlit Brooks dining room on Geneva Street with deep snowbanks sparkling outside the bay windows, nineteen-year-old birthday astrophysicists Jordan Fuller and Aubrie Jean Kelly sit side by side holding hands in front of their dark-chocolate deep-space nebula cake decorated with gold celestial lines, two binary golden shooting stars, and nineteen flickering golden candles, while Zo\u00eb Wren Brooks, Madison Grace Miller, Lauren Elizabeth Taylor, Hannah Marie Brooks, and Daniel and Laura Brooks cheer and clap around the table."
                                 }
                             ],
@@ -973,11 +973,11 @@
                             "date": "2014-12-25",
                             "start_time": "08:00",
                             "location": "Brooks Residence Living Room, Geneva Street, Christiansburg, Virginia",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c004/s001/stockings-on-the-bookshelf.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e002/c004/s001/stockings-on-the-bookshelf.jpg",
                             "image_alt": "On Christmas morning inside the warm, fairy-lit Brooks living room on Geneva Street, nineteen-year-old Jordan Fuller sits in his wheelchair in maroon flannel pajamas and touches his red-and-cream velvet Christmas stocking embroidered with JORDAN in gold thread hanging on the built-in oak bookshelf as Laura Brooks guides his hand, Daniel Brooks rests a fatherly hand on his shoulder, Madison Grace Miller kneels warmly beside his wheel, and Aubrie Jean Kelly and Zo\u00eb Wren Brooks look on tenderly beside the glowing Christmas tree.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e002/c004/s001/stockings-on-the-bookshelf.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e002/c004/s001/stockings-on-the-bookshelf.jpg",
                                     "alt": "On Christmas morning inside the warm, fairy-lit Brooks living room on Geneva Street, nineteen-year-old Jordan Fuller sits in his wheelchair in maroon flannel pajamas and touches his red-and-cream velvet Christmas stocking embroidered with JORDAN in gold thread hanging on the built-in oak bookshelf as Laura Brooks guides his hand, Daniel Brooks rests a fatherly hand on his shoulder, Madison Grace Miller kneels warmly beside his wheel, and Aubrie Jean Kelly and Zo\u00eb Wren Brooks look on tenderly beside the glowing Christmas tree."
                                 }
                             ],
@@ -1070,7 +1070,7 @@
             "era_num": 3,
             "era_title": "Spring Semester 2015",
             "era_url": "/raggiesoft-books/books/aubrie/spring-semester-2015",
-            "illustration_count": 5,
+            "illustration_count": 4,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1086,11 +1086,11 @@
                             "date": "2015-01-11",
                             "start_time": "13:05",
                             "location": "Christiansburg Transit Center to Commonwealth Mall, Christiansburg & Blacksburg, Virginia",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c001/s003/isabel-hugs-jordan.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e003/c001/s003/isabel-hugs-jordan.jpg",
                             "image_alt": "Resident Advisor Isabel Dawson in her maroon CPI Residence Life uniform kneeling on the terrazzo floor of the Bennett Hall lobby and crying tears of relief and gratitude behind her glasses as she hugs Jordan tightly in his manual wheelchair while Kelsey Brennan, Garrett Reynolds, and Jordan's found family look on.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c001/s003/isabel-hugs-jordan.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e003/c001/s003/isabel-hugs-jordan.jpg",
                                     "alt": "Resident Advisor Isabel Dawson in her maroon CPI Residence Life uniform kneeling on the terrazzo floor of the Bennett Hall lobby and crying tears of relief and gratitude behind her glasses as she hugs Jordan tightly in his manual wheelchair while Kelsey Brennan, Garrett Reynolds, and Jordan's found family look on."
                                 }
                             ],
@@ -1251,7 +1251,7 @@
                     "chap_num": 6,
                     "chap_title": "The S.S. Freedom & Closing the Old Lady",
                     "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2015/the-s-s-freedom-closing-the-old-lady",
-                    "illustration_count": 4,
+                    "illustration_count": 3,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1261,11 +1261,11 @@
                             "date": "2015-03-16",
                             "start_time": "13:30",
                             "location": "The Brooks Driveway, Christiansburg & The Hillside Walkway Outside Bennett Hall, CPI, Blacksburg, Virginia",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c010/s001/ss-freedom-hill-climb.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e003/c010/s001/ss-freedom-hill-climb.jpg",
                             "image_alt": "Beaming with triumphant confidence, nineteen-year-old Jordan Fuller drives his brand-new 350-pound matte-black Vanguard Titan-X350 all-terrain power wheelchair (S.S. Freedom, with six suspension wheels, glowing white LED fender path-lights, and his laptop mounted on a swing-away arm) effortlessly up the steep twelve-degree paved hillside walkway alongside the gray Ironstone facade of Eleanor Bennett Hall while Aubrie Jean Kelly, Madison Grace Miller, and Zo\u00eb Wren Brooks walk beside him and Resident Advisors Isabel Dawson and Garrett Reynolds cheer from the top of the ridge.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c010/s001/ss-freedom-hill-climb.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e003/c010/s001/ss-freedom-hill-climb.jpg",
                                     "alt": "Beaming with triumphant confidence, nineteen-year-old Jordan Fuller drives his brand-new 350-pound matte-black Vanguard Titan-X350 all-terrain power wheelchair (S.S. Freedom, with six suspension wheels, glowing white LED fender path-lights, and his laptop mounted on a swing-away arm) effortlessly up the steep twelve-degree paved hillside walkway alongside the gray Ironstone facade of Eleanor Bennett Hall while Aubrie Jean Kelly, Madison Grace Miller, and Zo\u00eb Wren Brooks walk beside him and Resident Advisors Isabel Dawson and Garrett Reynolds cheer from the top of the ridge."
                                 }
                             ],
@@ -1279,23 +1279,19 @@
                             "date": "2015-05-15",
                             "start_time": "11:20",
                             "location": "Second-Floor Hallway Outside Room 214/215, Bennett Hall, CPI, Blacksburg, Virginia",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c011/s002/isabel-goodbye-hug.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e003/c011/s002/isabel-goodbye-hug.jpg",
                             "image_alt": "In the second-floor hallway outside stripped Room 214 on Spring 2015 Move-Out Day, Isabel Dawson kneels on the clean floor in her maroon-and-white CPI Residence Life uniform beside clean-shaven Jordan's matte-black S.S. Freedom power wheelchair, crying softly as she wraps both arms tightly around Jordan's neck in one last long, deep goodbye hug because she will miss him so much over the summer.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c011/s002/isabel-goodbye-hug.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e003/c011/s002/isabel-goodbye-hug.jpg",
                                     "alt": "In the second-floor hallway outside stripped Room 214 on Spring 2015 Move-Out Day, Isabel Dawson kneels on the clean floor in her maroon-and-white CPI Residence Life uniform beside clean-shaven Jordan's matte-black S.S. Freedom power wheelchair, crying softly as she wraps both arms tightly around Jordan's neck in one last long, deep goodbye hug because she will miss him so much over the summer."
                                 },
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c011/s002/isabel-move-out-secret.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e003/c011/s002/isabel-move-out-secret.jpg",
                                     "alt": "Moments earlier at the doorway of stripped Room 214 (with Jordan's single low Bed A and bare oak desk behind him, and the black electronic Poly Pass RFID card reader mounted directly below the ROOM 214 sign), clean-shaven Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing a heather-grey CPI Forgers bookstore t-shirt while RA Isabel Dawson stands in her maroon-and-white CPI Residence Life Student Staff uniform holding his yellow RCR clipboard\u2014blushing rosy pink with one hand touching her collar and smiling through bright, emotional tears."
-                                },
-                                {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e003/c011/s002/isabel-move-out-secret.jpg#fullwidth",
-                                    "alt": "At the doorway of stripped Room 214 (with Jordan's single low Bed A and bare oak desk behind him, and the black electronic Poly Pass RFID card reader mounted directly below the ROOM 214 sign), clean-shaven Jordan Fuller sits in his matte-black S.S. Freedom power wheelchair wearing a heather-grey CPI Forgers bookstore t-shirt while RA Isabel Dawson stands in her maroon-and-white CPI Residence Life Student Staff uniform holding his yellow RCR clipboard\u2014blushing rosy pink with one hand touching her collar and smiling through bright, emotional tears."
                                 }
                             ],
-                            "image_count": 3
+                            "image_count": 2
                         }
                     ]
                 }
@@ -1330,11 +1326,11 @@
                             "date": "2015-05-23",
                             "start_time": "07:30",
                             "location": "Meridian Express Gate & Flight to IAD, Roanoke-Blacksburg Regional Airport (ROA), Roanoke, Virginia",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c001/s004/isabel-roa-video-message.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e004/c001/s004/isabel-roa-video-message.jpg",
                             "image_alt": "Viewed over the shoulders of clean-shaven Jordan Fuller (sitting in his matte-black S.S. Freedom power wheelchair) and Aubrie Jean Kelly (leaning in warmly beside his right shoulder) inside the sunlit departure gate lounge at Roanoke-Blacksburg Regional Airport (ROA) with the Meridian Express regional jet parked on the tarmac outside, Jordan and Aubrie look directly at his armrest-mounted mPad screen during a live video call with Isabel Dawson in Charlottesville\u2014who is dressed in a casual lavender summer top, smiling warmly behind her rectangular glasses and blushing a deep, rosy pink like she is trying to hide a big secret.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c001/s004/isabel-roa-video-message.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e004/c001/s004/isabel-roa-video-message.jpg",
                                     "alt": "Viewed over the shoulders of clean-shaven Jordan Fuller (sitting in his matte-black S.S. Freedom power wheelchair) and Aubrie Jean Kelly (leaning in warmly beside his right shoulder) inside the sunlit departure gate lounge at Roanoke-Blacksburg Regional Airport (ROA) with the Meridian Express regional jet parked on the tarmac outside, Jordan and Aubrie look directly at his armrest-mounted mPad screen during a live video call with Isabel Dawson in Charlottesville\u2014who is dressed in a casual lavender summer top, smiling warmly behind her rectangular glasses and blushing a deep, rosy pink like she is trying to hide a big secret."
                                 }
                             ],
@@ -1409,11 +1405,11 @@
                             "date": "2015-06-02",
                             "start_time": "13:00",
                             "location": "The Azure Lagoon (Hei\u00f0r\u00fanarl\u00f3n), Grindav\u00edk, Reykjanes Peninsula, Iceland",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c007/s001/azure-lagoon-zero-gravity.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e004/c007/s001/azure-lagoon-zero-gravity.jpg",
                             "image_alt": "In the steaming 100-degree milky-turquoise geothermal mineral waters of Iceland's Azure Lagoon (Hei\u00f0r\u00fanarl\u00f3n) surrounded by moss-crusted black volcanic basalt cliffs and billowing white steam, nineteen-year-old Jordan Fuller floats weightlessly on his back with white silica mud stripes on his cheeks and an expression of pure, uninhibited joy as Aubrie Jean Kelly, Madison Grace Miller, Zo\u00eb Wren Brooks, Lauren Elizabeth Taylor, Sarah Braithwaite, and Jessica Gallagher support him in a warm, protective circle.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c007/s001/azure-lagoon-zero-gravity.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e004/c007/s001/azure-lagoon-zero-gravity.jpg",
                                     "alt": "In the steaming 100-degree milky-turquoise geothermal mineral waters of Iceland's Azure Lagoon (Hei\u00f0r\u00fanarl\u00f3n) surrounded by moss-crusted black volcanic basalt cliffs and billowing white steam, nineteen-year-old Jordan Fuller floats weightlessly on his back with white silica mud stripes on his cheeks and an expression of pure, uninhibited joy as Aubrie Jean Kelly, Madison Grace Miller, Zo\u00eb Wren Brooks, Lauren Elizabeth Taylor, Sarah Braithwaite, and Jessica Gallagher support him in a warm, protective circle."
                                 }
                             ],
@@ -1453,11 +1449,11 @@
                             "date": "2015-06-11",
                             "start_time": "08:30",
                             "location": "London Euston Railway Station & Albion InterCity Rail Tilting Express, London, England, UK",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c014/s002/wrong-liverpool-pier-head.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e004/c014/s002/wrong-liverpool-pier-head.jpg",
                             "image_alt": "On the waterfront plaza at Pier Head in Liverpool, Merseyside, England, with the historic Three Graces and Liver Bird clock towers rising behind them, nineteen-year-old Jordan Fuller sits parked dead-center in his matte-black S.S. Freedom power wheelchair in front of the large WELCOME TO LIVERPOOL sign while Australian suitemate Sarah Braithwaite laughs uproariously and gives an exaggerated thumbs-down beside Aubrie Jean Kelly, Madison Grace Miller, Zo\u00eb Wren Brooks (shading her eyes looking for kangaroos), tall Jessica Gallagher, Lauren Elizabeth Taylor, and Hannah Marie Brooks.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c014/s002/wrong-liverpool-pier-head.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e004/c014/s002/wrong-liverpool-pier-head.jpg",
                                     "alt": "On the waterfront plaza at Pier Head in Liverpool, Merseyside, England, with the historic Three Graces and Liver Bird clock towers rising behind them, nineteen-year-old Jordan Fuller sits parked dead-center in his matte-black S.S. Freedom power wheelchair in front of the large WELCOME TO LIVERPOOL sign while Australian suitemate Sarah Braithwaite laughs uproariously and gives an exaggerated thumbs-down beside Aubrie Jean Kelly, Madison Grace Miller, Zo\u00eb Wren Brooks (shading her eyes looking for kangaroos), tall Jessica Gallagher, Lauren Elizabeth Taylor, and Hannah Marie Brooks."
                                 }
                             ],
@@ -1497,11 +1493,11 @@
                             "date": "2015-07-04",
                             "start_time": "09:45",
                             "location": "T\u014dkaid\u014d Bullet Line Platform 18, Tokyo Station, Chiyoda Ward, Tokyo, Japan",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c021/s001/tokyo-shinkansen-hassha-melody.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e004/c021/s001/tokyo-shinkansen-hassha-melody.jpg",
                             "image_alt": "On elevated Platform 18 at Tokyo Station behind the yellow tactile warning blocks as the gentle music-box Hassha melody chimes overhead, a courteous Nippon Rail attendant in a navy-blue uniform and pristine white gloves bows respectfully beside the yellow-and-aluminum boarding ramp at Car 11 of a gleaming white-and-blue N700A Series Bullet Train (Hikari Star Super Express), welcoming nineteen-year-old Jordan Fuller in his matte-black S.S. Freedom power wheelchair while Zo\u00eb Wren Brooks rests a grounding hand on his shoulder alongside Aubrie Jean Kelly and Madison Grace Miller.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c021/s001/tokyo-shinkansen-hassha-melody.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e004/c021/s001/tokyo-shinkansen-hassha-melody.jpg",
                                     "alt": "On elevated Platform 18 at Tokyo Station behind the yellow tactile warning blocks as the gentle music-box Hassha melody chimes overhead, a courteous Nippon Rail attendant in a navy-blue uniform and pristine white gloves bows respectfully beside the yellow-and-aluminum boarding ramp at Car 11 of a gleaming white-and-blue N700A Series Bullet Train (Hikari Star Super Express), welcoming nineteen-year-old Jordan Fuller in his matte-black S.S. Freedom power wheelchair while Zo\u00eb Wren Brooks rests a grounding hand on his shoulder alongside Aubrie Jean Kelly and Madison Grace Miller."
                                 }
                             ],
@@ -1567,11 +1563,11 @@
                             "date": "2015-07-15",
                             "start_time": "16:30",
                             "location": "Terminal 3 Butterfly Garden & Changi Airport MRT Station, Singapore Changi Airport (SIN), Singapore",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c008/s003/zoe-disclosure-singapore.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e004/c008/s003/zoe-disclosure-singapore.jpg",
                             "image_alt": "On the warm lamp-lit outdoor sky terrace of their Marina Bay hotel suite in Singapore at night with the glowing solar arbors and glass conservatory domes of the Marina Bay Botanical Sanctuaries illuminated in teal, violet, and gold across the water behind them, 19-year-old Zo\u00eb Wren Brooks (with vibrant purple bobbed hair and rectangular glasses) holds her mPad displaying her dark-mode ZO\u00cb.Systems.Logs diagnostic telemetry as she openly discloses her age-3 autism diagnosis, while Aubrie Jean Kelly (with her brown side-braid) rests a supportive hand on Zo\u00eb's shoulder and clean-shaven Jordan Fuller smiles warmly at her from his matte-black S.S. Freedom power wheelchair.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c008/s003/zoe-disclosure-singapore.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e004/c008/s003/zoe-disclosure-singapore.jpg",
                                     "alt": "On the warm lamp-lit outdoor sky terrace of their Marina Bay hotel suite in Singapore at night with the glowing solar arbors and glass conservatory domes of the Marina Bay Botanical Sanctuaries illuminated in teal, violet, and gold across the water behind them, 19-year-old Zo\u00eb Wren Brooks (with vibrant purple bobbed hair and rectangular glasses) holds her mPad displaying her dark-mode ZO\u00cb.Systems.Logs diagnostic telemetry as she openly discloses her age-3 autism diagnosis, while Aubrie Jean Kelly (with her brown side-braid) rests a supportive hand on Zo\u00eb's shoulder and clean-shaven Jordan Fuller smiles warmly at her from his matte-black S.S. Freedom power wheelchair."
                                 }
                             ],
@@ -1620,11 +1616,11 @@
                             "date": "2015-08-05",
                             "start_time": "06:15",
                             "location": "Gallagher's Roadhouse & Mechanical Workshop, Petermann, Northern Territory, Australia",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c010/s002/outback-frost-tires.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e004/c010/s002/outback-frost-tires.jpg",
                             "image_alt": "At 6:15 AM freezing winter dawn outside Gallagher's Roadhouse in the Petermann Outback of the Northern Territory, Australia (Respondent's Exhibit D), a crystalline layer of white winter frost coats the rust-red iron-oxide desert dirt, spinifex grass, and the thick rubber tire treads and casters of clean-shaven Jordan Fuller's matte-black S.S. Freedom power wheelchair at the foot of the custom-welded steel diamond-plate verandah ramp, while identical six-foot-three blonde Australian twin sisters Jessica and Bec Gallagher stand proudly behind him in warm Outback work jackets as their breath rises in the 27.8-degree Fahrenheit dawn air.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c010/s002/outback-frost-tires.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e004/c010/s002/outback-frost-tires.jpg",
                                     "alt": "At 6:15 AM freezing winter dawn outside Gallagher's Roadhouse in the Petermann Outback of the Northern Territory, Australia (Respondent's Exhibit D), a crystalline layer of white winter frost coats the rust-red iron-oxide desert dirt, spinifex grass, and the thick rubber tire treads and casters of clean-shaven Jordan Fuller's matte-black S.S. Freedom power wheelchair at the foot of the custom-welded steel diamond-plate verandah ramp, while identical six-foot-three blonde Australian twin sisters Jessica and Bec Gallagher stand proudly behind him in warm Outback work jackets as their breath rises in the 27.8-degree Fahrenheit dawn air."
                                 }
                             ],
@@ -1638,11 +1634,11 @@
                             "date": "2015-08-17",
                             "start_time": "18:30",
                             "location": "Arrivals Concourse, Gate 4, Roanoke-Blacksburg Regional Airport (ROA), Roanoke, Virginia",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c010/s004/roa-gate-hug.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e004/c010/s004/roa-gate-hug.jpg",
                             "image_alt": "Inside the sunlit Gate 4 Arrivals Concourse at Roanoke-Blacksburg Regional Airport (ROA) at 6:30 PM on August 17, 2015 after thirty-five hours of travel from the Australian Outback, clean-shaven Jordan Fuller leans forward in his matte-black S.S. Freedom power wheelchair (with red Petermann desert dirt in the tire treads and his armrest-mounted AAC tablet) to wrap both arms tightly around Isabel Dawson\u2014who kneels before him in blue jeans and a maroon CPI T-shirt with a deep rosy crimson blush and happy tears glistening on her cheeks\u2014while Henry Walsh, Aubrie Jean Kelly, and Zo\u00eb Wren Brooks look on from a few steps back with warm, knowing smiles.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e004/c010/s004/roa-gate-hug.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e004/c010/s004/roa-gate-hug.jpg",
                                     "alt": "Inside the sunlit Gate 4 Arrivals Concourse at Roanoke-Blacksburg Regional Airport (ROA) at 6:30 PM on August 17, 2015 after thirty-five hours of travel from the Australian Outback, clean-shaven Jordan Fuller leans forward in his matte-black S.S. Freedom power wheelchair (with red Petermann desert dirt in the tire treads and his armrest-mounted AAC tablet) to wrap both arms tightly around Isabel Dawson\u2014who kneels before him in blue jeans and a maroon CPI T-shirt with a deep rosy crimson blush and happy tears glistening on her cheeks\u2014while Henry Walsh, Aubrie Jean Kelly, and Zo\u00eb Wren Brooks look on from a few steps back with warm, knowing smiles."
                                 }
                             ],
@@ -1690,11 +1686,11 @@
                             "date": "2015-08-18",
                             "start_time": "13:30",
                             "location": "Courtroom 3B, Montgomery County Courthouse, Christiansburg, Virginia",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c001/s006/the-gavel-and-the-handcuffs.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e005/c001/s006/the-gavel-and-the-handcuffs.jpg",
                             "image_alt": "Inside Courtroom 3B of the Montgomery County Courthouse in Christiansburg, Judge Harrison strikes his wooden gavel from the bench to dismiss the guardianship petition with prejudice while a uniformed Montgomery County Sheriff's deputy places steel handcuffs around the wrists of a stunned Aubrie Sinclair at the petitioner's table, as nineteen-year-old Jordan Fuller sits tall, composed, and sovereign in his matte-black S.S. Freedom power wheelchair in a navy suit and maroon tie beside attorney Ms. Helen Gable and his supportive gallery phalanx (Aubrie Jean Kelly, Zo\u00eb Wren Brooks, Madison Grace Miller, Isabel Dawson, and Henry Walsh).",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c001/s006/the-gavel-and-the-handcuffs.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e005/c001/s006/the-gavel-and-the-handcuffs.jpg",
                                     "alt": "Inside Courtroom 3B of the Montgomery County Courthouse in Christiansburg, Judge Harrison strikes his wooden gavel from the bench to dismiss the guardianship petition with prejudice while a uniformed Montgomery County Sheriff's deputy places steel handcuffs around the wrists of a stunned Aubrie Sinclair at the petitioner's table, as nineteen-year-old Jordan Fuller sits tall, composed, and sovereign in his matte-black S.S. Freedom power wheelchair in a navy suit and maroon tie beside attorney Ms. Helen Gable and his supportive gallery phalanx (Aubrie Jean Kelly, Zo\u00eb Wren Brooks, Madison Grace Miller, Isabel Dawson, and Henry Walsh)."
                                 }
                             ],
@@ -1725,11 +1721,11 @@
                             "date": "2015-08-19",
                             "start_time": "19:30",
                             "location": "Brooks Residence Basement, 414 Geneva Street, Christiansburg, Virginia",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c002/p002/secret-everyone-already-knew.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e005/c002/p002/secret-everyone-already-knew.jpg",
                             "image_alt": "Inside the walk-out basement sanctuary at 414 Geneva Street under warm amber fairy lights and Blue Ridge twilight, twenty-one-year-old Isabel Dawson kneels on the carpet beside Jordan Fuller's wheelchair with her palms framing his clean-shaven jaw right before their first romantic kiss, while Jordan holds her close and Aubrie Jean Kelly, Madison Scott, and Zo\u00eb Wren Brooks watch with warm, zero-jealousy smiles.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c002/p002/secret-everyone-already-knew.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e005/c002/p002/secret-everyone-already-knew.jpg",
                                     "alt": "Inside the walk-out basement sanctuary at 414 Geneva Street under warm amber fairy lights and Blue Ridge twilight, twenty-one-year-old Isabel Dawson kneels on the carpet beside Jordan Fuller's wheelchair with her palms framing his clean-shaven jaw right before their first romantic kiss, while Jordan holds her close and Aubrie Jean Kelly, Madison Scott, and Zo\u00eb Wren Brooks watch with warm, zero-jealousy smiles."
                                 }
                             ],
@@ -1752,11 +1748,11 @@
                             "date": "2015-08-21",
                             "start_time": "10:00",
                             "location": "New River Hall (Room 323 & Forge Market) & Allegheny Commons (Apartment 101), CPI, Blacksburg, Virginia",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c002/p004/new-river-hall-welcoming.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e005/c002/p004/new-river-hall-welcoming.jpg",
                             "image_alt": "Outside the modern Ironstone entrance of New River Hall at Commonwealth Polytechnic Institute on Freshman Move-In Friday, Jordan Fuller in his matte-black S.S. Freedom power wheelchair and Senior RA Isabel Dawson in her maroon-and-white CPI polo welcome incoming freshman Systems Architects Elana Grace Dawson (in her sip-and-puff power chair) and Stephen Dawson alongside Stella, their twenty-eight-inch silver-dapple American Miniature Horse wearing her burgundy service harness and four non-slip neoprene campus boots.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e005/c002/p004/new-river-hall-welcoming.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e005/c002/p004/new-river-hall-welcoming.jpg",
                                     "alt": "Outside the modern Ironstone entrance of New River Hall at Commonwealth Polytechnic Institute on Freshman Move-In Friday, Jordan Fuller in his matte-black S.S. Freedom power wheelchair and Senior RA Isabel Dawson in her maroon-and-white CPI polo welcome incoming freshman Systems Architects Elana Grace Dawson (in her sip-and-puff power chair) and Stephen Dawson alongside Stella, their twenty-eight-inch silver-dapple American Miniature Horse wearing her burgundy service harness and four non-slip neoprene campus boots."
                                 }
                             ],
@@ -1804,11 +1800,11 @@
                             "date": "2015-08-26",
                             "start_time": "19:30",
                             "location": "414 Geneva Street (Dining Room & Basement Sanctuary), Christiansburg, VA",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c001/p003/birth-of-finsharp.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e006/c001/p003/birth-of-finsharp.jpg",
                             "image_alt": "Around the oak dining table at 414 Geneva Street in Christiansburg, Zo\u00eb Wren Brooks (with lavender hair and cyan code reflected in her glasses) and Jordan Fuller (in his S.S. Freedom power wheelchair beside her) co-design the linear-type compiler for Fin# to enforce the First Law of Thermodynamics on double-entry accounting, while Daniel Brooks stands proudly behind Zo\u00eb and Aubrie Jean Kelly and Mark look on.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c001/p003/birth-of-finsharp.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e006/c001/p003/birth-of-finsharp.jpg",
                                     "alt": "Around the oak dining table at 414 Geneva Street in Christiansburg, Zo\u00eb Wren Brooks (with lavender hair and cyan code reflected in her glasses) and Jordan Fuller (in his S.S. Freedom power wheelchair beside her) co-design the linear-type compiler for Fin# to enforce the First Law of Thermodynamics on double-entry accounting, while Daniel Brooks stands proudly behind Zo\u00eb and Aubrie Jean Kelly and Mark look on."
                                 }
                             ],
@@ -1910,11 +1906,11 @@
                             "date": "2015-11-13",
                             "start_time": "21:00",
                             "location": "Room 312, New River Valley Medical Center, Christiansburg, VA",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c003/p005/midnight-vitals-first-watch.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e006/c003/p005/midnight-vitals-first-watch.jpg",
                             "image_alt": "Inside dimly lit Room 312 at New River Valley Medical Center at midnight under the cyan glow of the cardiac telemetry monitor, Aubrie Jean Kelly leans tenderly over the lowered hospital bed rail in her flannel pajamas to bury her face in Jordan Fuller's shoulder as Jordan holds her close with his left arm.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c003/p005/midnight-vitals-first-watch.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e006/c003/p005/midnight-vitals-first-watch.jpg",
                                     "alt": "Inside dimly lit Room 312 at New River Valley Medical Center at midnight under the cyan glow of the cardiac telemetry monitor, Aubrie Jean Kelly leans tenderly over the lowered hospital bed rail in her flannel pajamas to bury her face in Jordan Fuller's shoulder as Jordan holds her close with his left arm."
                                 }
                             ],
@@ -1980,11 +1976,11 @@
                             "date": "2015-11-18",
                             "start_time": "21:30",
                             "location": "Room 618, Star City General Hospital, Roanoke, VA",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c005/p003/cvicu-romance-intimacy-v2.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e006/c005/p003/cvicu-romance-intimacy-v2.jpg",
                             "image_alt": "Inside sixth-floor Room 618 at Star City General Hospital in Roanoke as November snow swirls outside the dark window and the cardiac telemetry monitor displays 88 BPM Normal Sinus Rhythm, Zo\u00eb Wren Brooks in her CPI hoodie and flannel pajama pants leans gently over the lowered bed rail to cup Jordan Fuller's cheek for their very first romantic kiss under Protocol: Intimacy.v2 while Jordan rests his hands lightly on his red plush heart pillow.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c005/p003/cvicu-romance-intimacy-v2.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e006/c005/p003/cvicu-romance-intimacy-v2.jpg",
                                     "alt": "Inside sixth-floor Room 618 at Star City General Hospital in Roanoke as November snow swirls outside the dark window and the cardiac telemetry monitor displays 88 BPM Normal Sinus Rhythm, Zo\u00eb Wren Brooks in her CPI hoodie and flannel pajama pants leans gently over the lowered bed rail to cup Jordan Fuller's cheek for their very first romantic kiss under Protocol: Intimacy.v2 while Jordan rests his hands lightly on his red plush heart pillow."
                                 }
                             ],
@@ -2024,11 +2020,11 @@
                             "date": "2015-11-20",
                             "start_time": "10:30",
                             "location": "Room 618, Star City General Hospital, Roanoke, VA & Interstate 81 South",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c006/p001/isabel-first-night-sternal-watch.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e006/c006/p001/isabel-first-night-sternal-watch.jpg",
                             "image_alt": "In the warm amber glow of a bedside Himalayan salt lamp in the Geneva Street walk-out basement sanctuary, twenty-one-year-old Isabel Dawson lies cautiously along the far right edge of the king-sized bed on her very first night ever spending the night at Geneva Street, blushing warmly as Jordan Fuller\u2014propped on wedge pillows in button-front flannel pajamas with his red plush heart pillow and a protective gray bolster pillow behind them\u2014reaches across the sheet to hold her hand.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c006/p001/isabel-first-night-sternal-watch.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e006/c006/p001/isabel-first-night-sternal-watch.jpg",
                                     "alt": "In the warm amber glow of a bedside Himalayan salt lamp in the Geneva Street walk-out basement sanctuary, twenty-one-year-old Isabel Dawson lies cautiously along the far right edge of the king-sized bed on her very first night ever spending the night at Geneva Street, blushing warmly as Jordan Fuller\u2014propped on wedge pillows in button-front flannel pajamas with his red plush heart pillow and a protective gray bolster pillow behind them\u2014reaches across the sheet to hold her hand."
                                 }
                             ],
@@ -2059,11 +2055,11 @@
                             "date": "2015-11-29",
                             "start_time": "19:00",
                             "location": "414 Geneva Street (Walk-Out Basement Sanctuary), Christiansburg, VA",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c007/p001/megan-jordan-work-buddies.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e006/c007/p001/megan-jordan-work-buddies.jpg",
                             "image_alt": "At the sunlit oak dining table in the 414 Geneva Street walk-out basement on December 1, 2015, twenty-seven-year-old Megan Brooks leans over from her dining chair to share a warm, lingering morning work-buddy hug with Jordan Fuller\u2014who sits upright in his S.S. Freedom power wheelchair holding his red plush heart pillow\u2014behind two identical cardiac-healthy breakfast plates of egg whites and whole-wheat toast with grape jelly.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c007/p001/megan-jordan-work-buddies.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e006/c007/p001/megan-jordan-work-buddies.jpg",
                                     "alt": "At the sunlit oak dining table in the 414 Geneva Street walk-out basement on December 1, 2015, twenty-seven-year-old Megan Brooks leans over from her dining chair to share a warm, lingering morning work-buddy hug with Jordan Fuller\u2014who sits upright in his S.S. Freedom power wheelchair holding his red plush heart pillow\u2014behind two identical cardiac-healthy breakfast plates of egg whites and whole-wheat toast with grape jelly."
                                 }
                             ],
@@ -2094,11 +2090,11 @@
                             "date": "2015-12-09",
                             "start_time": "08:00",
                             "location": "414 Geneva Street (Walk-Out Basement Sanctuary), Christiansburg, VA",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c008/p001/walton-hall-comeback-presentation.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e006/c008/p001/walton-hall-comeback-presentation.jpg",
                             "image_alt": "Inside a Walton Hall classroom at Commonwealth Polytechnic Institute in front of a projected CPI Campus Accessibility GIS Map, Jordan Fuller sits upright in his fourteen-pound brushed-titanium Shuttlecraft Galileo manual wheelchair in an Oxford shirt and navy sweater vest, hugging his red plush heart pillow with his left arm while tapping his mPad held at eye level by Hannah Parker, as teammates Zo\u00eb Wren Brooks and Mark stand proudly behind him and Isabel Dawson, Madison Scott, and Aubrie Jean Kelly applaud.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c008/p001/walton-hall-comeback-presentation.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e006/c008/p001/walton-hall-comeback-presentation.jpg",
                                     "alt": "Inside a Walton Hall classroom at Commonwealth Polytechnic Institute in front of a projected CPI Campus Accessibility GIS Map, Jordan Fuller sits upright in his fourteen-pound brushed-titanium Shuttlecraft Galileo manual wheelchair in an Oxford shirt and navy sweater vest, hugging his red plush heart pillow with his left arm while tapping his mPad held at eye level by Hannah Parker, as teammates Zo\u00eb Wren Brooks and Mark stand proudly behind him and Isabel Dawson, Madison Scott, and Aubrie Jean Kelly applaud."
                                 }
                             ],
@@ -2138,11 +2134,11 @@
                             "date": "2015-12-25",
                             "start_time": "21:30",
                             "location": "414 Geneva Street (Walk-Out Basement Sanctuary), Christiansburg, VA",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c009/p001/boxing-day-megan-first-kiss.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e006/c009/p001/boxing-day-megan-first-kiss.jpg",
                             "image_alt": "On Boxing Day morning in the sunlit walk-out basement sanctuary at 414 Geneva Street, twenty-seven-year-old Megan Brooks wraps her arms lovingly around Jordan Fuller's neck on the sectional sofa for their very first romantic kiss, surrounded by a cheering, zero-jealousy semicircle of Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, Isabel Dawson, and Lauren Barnes.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c009/p001/boxing-day-megan-first-kiss.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e006/c009/p001/boxing-day-megan-first-kiss.jpg",
                                     "alt": "On Boxing Day morning in the sunlit walk-out basement sanctuary at 414 Geneva Street, twenty-seven-year-old Megan Brooks wraps her arms lovingly around Jordan Fuller's neck on the sectional sofa for their very first romantic kiss, surrounded by a cheering, zero-jealousy semicircle of Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, Isabel Dawson, and Lauren Barnes."
                                 }
                             ],
@@ -2156,11 +2152,11 @@
                             "date": "2015-12-27",
                             "start_time": "19:30",
                             "location": "414 Geneva Street (Walk-Out Basement Sanctuary), Christiansburg, VA",
-                            "image": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c009/p002/jordan-shawn-kelly-double-wedding.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e006/c009/p002/jordan-shawn-kelly-double-wedding.jpg",
                             "image_alt": "In the glowing walk-out basement sanctuary at 414 Geneva Street on December 27, 2015, newly named Jordan Shawn Kelly sits on the sectional sofa flanked by his bride-to-be Aubrie Jean Kelly and Megan Brooks while Mark stands beside them with one hand on Jordan's shoulder and his other arm around Hannah Parker to celebrate their Double Wedding engagement, surrounded by cheering Madison, Zo\u00eb, Isabel, Lauren, Sarah, and Jessica and watched proudly from the stairs by Daniel and Laura Brooks.",
                             "images": [
                                 {
-                                    "src": "{{CDN}}/raggiesoft-books/images/scenes/aubrie/e006/c009/p002/jordan-shawn-kelly-double-wedding.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e006/c009/p002/jordan-shawn-kelly-double-wedding.jpg",
                                     "alt": "In the glowing walk-out basement sanctuary at 414 Geneva Street on December 27, 2015, newly named Jordan Shawn Kelly sits on the sectional sofa flanked by his bride-to-be Aubrie Jean Kelly and Megan Brooks while Mark stands beside them with one hand on Jordan's shoulder and his other arm around Hannah Parker to celebrate their Double Wedding engagement, surrounded by cheering Madison, Zo\u00eb, Isabel, Lauren, Sarah, and Jessica and watched proudly from the stairs by Daniel and Laura Brooks."
                                 }
                             ],
