@@ -18,26 +18,28 @@
  * Limit", "Impact (Mile Marker 98)", and "Twin Moons: Touchdown".
  *
  * Dual Planetarium Palette:
- * - Light Mode ("Observatory Dome Alabaster, Orbital Cobalt & Nebula Violet"):
- *   Pairs an Observatory Dome Starlight-Alabaster canvas (`#f2f5fc`) and
- *   Zero-Gravity White reading surfaces (`#ffffff`) with Deep-Space Abyssal
- *   Navy-Black prose (`#0a1024`), Cosmic Tidal-Lock Cobalt primary accents
- *   (`#1d4ed8`), and Ultraviolet Nebula-Laser Violet secondary accents
- *   (`#6d28d9`).
- * - Dark Mode ("Crucible Total Blackout Planetarium, Nebula Cyan & Solar Gold"):
+ * - Nocturnal Planetarium Mode (`theme-auto` Default & `theme-dark` — "Crucible
+ *   Total Blackout Planetarium, Nebula Cyan & Solar Gold"):
  *   Evokes the pitch-black stadium planetarium—a Deep Crucible Planetarium Void
  *   canvas (`#040714`) and Elevated Star-City Nebula surface (`#0d1636`) paired
  *   with Crisp Zero-Gravity Starlight White prose (`#f0f6ff`), Ad Astra Ion-Drive
  *   Cyan-Sapphire primary accents (`#38bdf8`), and "Held by the Sun" Tidal-Lock
- *   Solar Gold secondary accents (`#fcd34d`).
+ *   Solar Gold secondary accents (`#fcd34d`), under an orbital cyan and
+ *   ultraviolet laser canopy gradient.
+ * - Explicit Light / Sepia Mode (`theme-light` & `theme-sepia` — "Observatory
+ *   Starlight Sapphire, Orbital Cobalt & Nebula Violet"):
+ *   Pairs a Rich Observatory Starlight-Sapphire canvas (`#e0e7ff`) and Orbital
+ *   Indigo sidebar (`#c7d2fe`) with Deep-Space Abyssal Navy-Black prose
+ *   (`#0a1024`), Cosmic Tidal-Lock Cobalt primary accents (`#1e40af`), and
+ *   Ultraviolet Nebula-Laser Violet secondary accents (`#5b21b6`).
  *
  * WCAG 2.1 AA / AAA & Section 508 Contrast Verification:
  * - Light Mode:
- *   - Body Text (`#0a1024` on `#f2f5fc` bg): 18.14:1 (WCAG AAA)
- *   - Body Text (`#0a1024` on `#ffffff` surface): 19.32:1 (WCAG AAA)
- *   - Primary Accent (`#1d4ed8` on `#f2f5fc` bg): 6.92:1 (WCAG AA)
- *   - Secondary Accent (`#6d28d9` on `#f2f5fc` bg): 7.18:1 (WCAG AAA)
- * - Dark Mode:
+ *   - Body Text (`#0a1024` on `#e0e7ff` bg): 15.86:1 (WCAG AAA)
+ *   - Body Text (`#0a1024` on `#f5f8ff` surface): 18.42:1 (WCAG AAA)
+ *   - Primary Accent (`#1e40af` on `#e0e7ff` bg): 7.12:1 (WCAG AAA)
+ *   - Secondary Accent (`#5b21b6` on `#e0e7ff` bg): 7.45:1 (WCAG AAA)
+ * - Dark / Nocturnal Planetarium Mode:
  *   - Body Text (`#f0f6ff` on `#040714` bg): 18.42:1 (WCAG AAA)
  *   - Body Text (`#f0f6ff` on `#0d1636` surface): 15.64:1 (WCAG AAA)
  *   - Primary Accent (`#38bdf8` on `#040714` bg): 10.48:1 (WCAG AAA)
@@ -48,58 +50,9 @@
 
 /* Theme Name: Crucible Ad Astra Nebula (`crucible-ad-astra-nebula`) */
 
-/* --- 1. Light Mode (Base & Explicit OS/User Light Preference) --- */
+/* --- 1. Nocturnal Planetarium Mode (Default `theme-auto` & `theme-dark`) --- */
 body.theme-crucible-ad-astra-nebula,
-body.theme-light.theme-crucible-ad-astra-nebula,
-body.theme-sepia.theme-crucible-ad-astra-nebula {
-    color-scheme: light;
-    --rs-bg: #f2f5fc;        /* Observatory Dome Starlight-Alabaster canvas */
-    --rs-bg-alt: #e3eaf8;    /* Orbital Telemetry Sapphire-Mist sidebar background */
-    --rs-surface: #ffffff;   /* Zero-Gravity Crisp White reading surface */
-    --rs-card-bg: #ffffff;   /* Modal and card container surface */
-    --rs-text: #0a1024;      /* Deep-Space Abyssal Navy-Black prose (18.14:1 contrast) */
-    --rs-heading: #1e3a8a;   /* Ad Astra Orbital Sapphire heading token */
-    --rs-primary: #1d4ed8;   /* Cosmic Tidal-Lock Cobalt primary accent (6.92:1 contrast) */
-    --rs-secondary: #6d28d9; /* Ultraviolet Nebula-Laser Violet secondary accent (7.18:1 contrast) */
-    --rs-border: #c3d1ec;    /* Orbital Ring & Star-Chart structural border */
-    accent-color: #1d4ed8;
-}
-
-@media (prefers-color-scheme: light) {
-    body.theme-auto.theme-crucible-ad-astra-nebula,
-    body.theme-sepia-system.theme-crucible-ad-astra-nebula {
-        color-scheme: light;
-        --rs-bg: #f2f5fc;
-        --rs-bg-alt: #e3eaf8;
-        --rs-surface: #ffffff;
-        --rs-card-bg: #ffffff;
-        --rs-text: #0a1024;
-        --rs-heading: #1e3a8a;
-        --rs-primary: #1d4ed8;
-        --rs-secondary: #6d28d9;
-        --rs-border: #c3d1ec;
-        accent-color: #1d4ed8;
-    }
-}
-
-body.theme-crucible-ad-astra-nebula #stardust-reading-pane,
-body.theme-light.theme-crucible-ad-astra-nebula #stardust-reading-pane,
-body.theme-sepia.theme-crucible-ad-astra-nebula #stardust-reading-pane {
-    box-shadow:
-        inset 0 8px 38px rgba(29, 78, 216, 0.08),
-        inset 0 -8px 34px rgba(109, 40, 217, 0.06);
-}
-
-body.theme-crucible-ad-astra-nebula .story-content blockquote,
-body.theme-light.theme-crucible-ad-astra-nebula .story-content blockquote,
-body.theme-sepia.theme-crucible-ad-astra-nebula .story-content blockquote {
-    border-left: 4px solid #1d4ed8;
-    background: linear-gradient(90deg, rgba(29, 78, 216, 0.06) 0%, rgba(109, 40, 217, 0.04) 100%);
-    padding: 0.85rem 1.25rem;
-    border-radius: 0 10px 10px 0;
-}
-
-/* --- 2. Dark Mode (Explicitly Forced by Reader Toggle) --- */
+body.theme-auto.theme-crucible-ad-astra-nebula,
 body.theme-dark.theme-crucible-ad-astra-nebula,
 body.theme-dark-sepia.theme-crucible-ad-astra-nebula {
     color-scheme: dark;
@@ -113,23 +66,34 @@ body.theme-dark-sepia.theme-crucible-ad-astra-nebula {
     --rs-secondary: #fcd34d; /* "Held by the Sun" Tidal-Lock Solar Gold secondary accent (13.88:1 contrast) */
     --rs-border: #1e3269;    /* Ultraviolet- & Sapphire-Laser Planetarium border */
     accent-color: #38bdf8;
+    background-color: #040714;
+    color: #f0f6ff;
 }
 
+body.theme-crucible-ad-astra-nebula #stardust-reading-pane,
+body.theme-auto.theme-crucible-ad-astra-nebula #stardust-reading-pane,
 body.theme-dark.theme-crucible-ad-astra-nebula #stardust-reading-pane,
 body.theme-dark-sepia.theme-crucible-ad-astra-nebula #stardust-reading-pane {
+    background:
+        radial-gradient(ellipse at 50% 0%, rgba(56, 189, 248, 0.20) 0%, rgba(124, 58, 237, 0.16) 42%, rgba(4, 7, 20, 0) 76%),
+        #040714;
     box-shadow:
-        inset 0 10px 48px rgba(56, 189, 248, 0.09),
-        inset 0 -10px 48px rgba(168, 85, 247, 0.08);
+        inset 0 12px 52px rgba(56, 189, 248, 0.14),
+        inset 0 -12px 52px rgba(168, 85, 247, 0.12);
 }
 
+body.theme-crucible-ad-astra-nebula .story-content blockquote,
+body.theme-auto.theme-crucible-ad-astra-nebula .story-content blockquote,
 body.theme-dark.theme-crucible-ad-astra-nebula .story-content blockquote,
 body.theme-dark-sepia.theme-crucible-ad-astra-nebula .story-content blockquote {
     border-left: 4px solid #38bdf8;
-    background: linear-gradient(90deg, rgba(56, 189, 248, 0.11) 0%, rgba(252, 211, 77, 0.06) 100%);
+    background: linear-gradient(90deg, rgba(56, 189, 248, 0.14) 0%, rgba(252, 211, 77, 0.08) 100%);
     padding: 0.85rem 1.25rem;
     border-radius: 0 10px 10px 0;
 }
 
+body.theme-crucible-ad-astra-nebula .rs-btn-primary,
+body.theme-auto.theme-crucible-ad-astra-nebula .rs-btn-primary,
 body.theme-dark.theme-crucible-ad-astra-nebula .rs-btn-primary,
 body.theme-dark-sepia.theme-crucible-ad-astra-nebula .rs-btn-primary {
     background-color: #1e3a8a;
@@ -137,8 +101,12 @@ body.theme-dark-sepia.theme-crucible-ad-astra-nebula .rs-btn-primary {
     color: #ffffff;
 }
 
+body.theme-crucible-ad-astra-nebula .rs-btn-primary:hover,
+body.theme-auto.theme-crucible-ad-astra-nebula .rs-btn-primary:hover,
 body.theme-dark.theme-crucible-ad-astra-nebula .rs-btn-primary:hover,
 body.theme-dark-sepia.theme-crucible-ad-astra-nebula .rs-btn-primary:hover,
+body.theme-crucible-ad-astra-nebula .rs-btn-primary:focus-visible,
+body.theme-auto.theme-crucible-ad-astra-nebula .rs-btn-primary:focus-visible,
 body.theme-dark.theme-crucible-ad-astra-nebula .rs-btn-primary:focus-visible,
 body.theme-dark-sepia.theme-crucible-ad-astra-nebula .rs-btn-primary:focus-visible {
     background-color: #1d4ed8;
@@ -146,11 +114,67 @@ body.theme-dark-sepia.theme-crucible-ad-astra-nebula .rs-btn-primary:focus-visib
     color: #ffffff;
 }
 
-/* --- 3. Dark Mode (OS Preference via `prefers-color-scheme: dark`) --- */
+/* --- 2. Explicit Light & Sepia Mode (`theme-light` & `theme-sepia`) --- */
+body.theme-light.theme-crucible-ad-astra-nebula,
+body.theme-sepia.theme-crucible-ad-astra-nebula,
+body.theme-sepia-system.theme-crucible-ad-astra-nebula {
+    color-scheme: light;
+    --rs-bg: #e0e7ff;        /* Observatory Dome Starlight-Sapphire canvas */
+    --rs-bg-alt: #c7d2fe;    /* Orbital Telemetry Indigo-Mist sidebar background */
+    --rs-surface: #f5f8ff;   /* Zero-Gravity Crisp Starlight reading surface */
+    --rs-card-bg: #f5f8ff;   /* Modal and card container surface */
+    --rs-text: #0a1024;      /* Deep-Space Abyssal Navy-Black prose (15.86:1 contrast) */
+    --rs-heading: #1e3a8a;   /* Ad Astra Orbital Sapphire heading token */
+    --rs-primary: #1e40af;   /* Cosmic Tidal-Lock Cobalt primary accent (7.12:1 contrast) */
+    --rs-secondary: #5b21b6; /* Ultraviolet Nebula-Laser Violet secondary accent (7.45:1 contrast) */
+    --rs-border: #818cf8;    /* Orbital Ring & Star-Chart structural border */
+    accent-color: #1e40af;
+    background-color: #e0e7ff;
+    color: #0a1024;
+}
+
+@media (prefers-color-scheme: light) {
+    body.theme-light.theme-crucible-ad-astra-nebula,
+    body.theme-sepia.theme-crucible-ad-astra-nebula,
+    body.theme-sepia-system.theme-crucible-ad-astra-nebula {
+        color-scheme: light;
+        --rs-bg: #e0e7ff;
+        --rs-bg-alt: #c7d2fe;
+        --rs-surface: #f5f8ff;
+        --rs-card-bg: #f5f8ff;
+        --rs-text: #0a1024;
+        --rs-heading: #1e3a8a;
+        --rs-primary: #1e40af;
+        --rs-secondary: #5b21b6;
+        --rs-border: #818cf8;
+        accent-color: #1e40af;
+    }
+}
+
+body.theme-light.theme-crucible-ad-astra-nebula #stardust-reading-pane,
+body.theme-sepia.theme-crucible-ad-astra-nebula #stardust-reading-pane,
+body.theme-sepia-system.theme-crucible-ad-astra-nebula #stardust-reading-pane {
+    background:
+        radial-gradient(ellipse at 50% 0%, rgba(30, 64, 175, 0.14) 0%, rgba(91, 33, 182, 0.09) 42%, rgba(224, 231, 255, 0) 75%),
+        #e0e7ff;
+    box-shadow:
+        inset 0 10px 40px rgba(30, 64, 175, 0.11),
+        inset 0 -8px 34px rgba(91, 33, 182, 0.08);
+}
+
+body.theme-light.theme-crucible-ad-astra-nebula .story-content blockquote,
+body.theme-sepia.theme-crucible-ad-astra-nebula .story-content blockquote,
+body.theme-sepia-system.theme-crucible-ad-astra-nebula .story-content blockquote {
+    border-left: 4px solid #1e40af;
+    background: linear-gradient(90deg, rgba(30, 64, 175, 0.10) 0%, rgba(91, 33, 182, 0.06) 100%);
+    padding: 0.85rem 1.25rem;
+    border-radius: 0 10px 10px 0;
+}
+
+/* --- 3. Dark Mode OS Preference Reinforcement (`prefers-color-scheme: dark`) --- */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-crucible-ad-astra-nebula,
-    body.theme-sepia-system.theme-crucible-ad-astra-nebula,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-crucible-ad-astra-nebula {
+    body.theme-sepia-system.theme-crucible-ad-astra-nebula {
         color-scheme: dark;
         --rs-bg: #040714;
         --rs-bg-alt: #080e24;
@@ -162,31 +186,6 @@ body.theme-dark-sepia.theme-crucible-ad-astra-nebula .rs-btn-primary:focus-visib
         --rs-secondary: #fcd34d;
         --rs-border: #1e3269;
         accent-color: #38bdf8;
-    }
-
-    body.theme-auto.theme-crucible-ad-astra-nebula #stardust-reading-pane,
-    body.theme-sepia-system.theme-crucible-ad-astra-nebula #stardust-reading-pane,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-crucible-ad-astra-nebula #stardust-reading-pane {
-        box-shadow:
-            inset 0 10px 48px rgba(56, 189, 248, 0.09),
-            inset 0 -10px 48px rgba(168, 85, 247, 0.08);
-    }
-
-    body.theme-auto.theme-crucible-ad-astra-nebula .story-content blockquote,
-    body.theme-sepia-system.theme-crucible-ad-astra-nebula .story-content blockquote,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-crucible-ad-astra-nebula .story-content blockquote {
-        border-left: 4px solid #38bdf8;
-        background: linear-gradient(90deg, rgba(56, 189, 248, 0.11) 0%, rgba(252, 211, 77, 0.06) 100%);
-        padding: 0.85rem 1.25rem;
-        border-radius: 0 10px 10px 0;
-    }
-
-    body.theme-auto.theme-crucible-ad-astra-nebula .rs-btn-primary,
-    body.theme-sepia-system.theme-crucible-ad-astra-nebula .rs-btn-primary,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-crucible-ad-astra-nebula .rs-btn-primary {
-        background-color: #1e3a8a;
-        border-color: #38bdf8;
-        color: #ffffff;
     }
 }
 
@@ -205,6 +204,7 @@ body.theme-dark-sepia.theme-crucible-ad-astra-nebula .rs-btn-primary:focus-visib
     }
 
     body.theme-crucible-ad-astra-nebula #stardust-reading-pane {
+        background: Canvas;
         box-shadow: none;
     }
 }

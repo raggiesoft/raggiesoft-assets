@@ -17,118 +17,82 @@
  * "The Contract" and "Steel and Synthetics".
  *
  * Dual Stadium Concert Palette:
- * - Light Mode ("Shattered Porcelain Rose, Studded Leather & Scoreboard Gold"):
- *   Pairs a Shattered-Porcelain Rose-Alabaster canvas (`#fdf4f7`) and Pure
- *   Spotlight-White reading surfaces (`#ffffff`) with Studded-Leather Obsidian
+ * - Nocturnal Stadium Mode (`theme-auto` Default & `theme-dark` — "Neon-Pink
+ *   Rebellion Pyro, Flame Cannons & 52–0 Scoreboard Gold"):
+ *   Evokes the high-voltage night rock block—a Deep Marshall-Stack Crimson-Plum
+ *   Obsidian canvas (`#13060e`) and Elevated Neon-Rebellion surface (`#260f1d`)
+ *   with Crisp Strobe-Starlight Rose-White prose (`#fdf2f8`), Cassidy's Hot-Pink
+ *   Rebellion Spotlight primary accents (`#f472b6`), and Blazing `52 — 0`
+ *   Scoreboard Gold secondary accents (`#facc15`).
+ * - Explicit Light / Sepia Mode (`theme-light` & `theme-sepia` — "Shattered
+ *   Porcelain Rose-Quartz, Studded Leather & Scoreboard Bronze"):
+ *   Pairs a Vivid Shattered-Porcelain Rose-Quartz canvas (`#fce7f3`) and
+ *   Rebellion Stage-Rose sidebar (`#fbcfe8`) with Studded-Leather Obsidian
  *   prose (`#190d14`), Cassidy's Rebellion Magenta-Crimson primary accents
- *   (`#9d174d`), and `CPI 52 — VDU 0` Scoreboard Amber-Gold secondary accents
+ *   (`#9d174d`), and `CPI 52 — VDU 0` Scoreboard Amber-Bronze secondary accents
  *   (`#92400e`).
- * - Dark Mode ("Neon-Pink Rebellion Pyro, Flame Cannons & 52–0 Scoreboard Gold"):
- *   Evokes the high-voltage rock block—a Deep Marshall-Stack Obsidian canvas
- *   (`#11060c`) and Elevated Neon-Rebellion surface (`#250f1c`) with Crisp
- *   Strobe-Starlight Rose-White prose (`#fdf2f8`), Cassidy's Hot-Pink Rebellion
- *   Spotlight primary accents (`#f472b6`), and Blazing `52 — 0` Scoreboard Gold
- *   secondary accents (`#facc15`).
  *
  * WCAG 2.1 AA / AAA & Section 508 Contrast Verification:
  * - Light Mode:
- *   - Body Text (`#190d14` on `#fdf4f7` bg): 17.65:1 (WCAG AAA)
- *   - Body Text (`#190d14` on `#ffffff` surface): 18.62:1 (WCAG AAA)
- *   - Primary Accent (`#9d174d` on `#fdf4f7` bg): 7.28:1 (WCAG AAA)
- *   - Secondary Accent (`#92400e` on `#fdf4f7` bg): 6.45:1 (WCAG AA)
- * - Dark Mode:
- *   - Body Text (`#fdf2f8` on `#11060c` bg): 17.61:1 (WCAG AAA)
- *   - Body Text (`#fdf2f8` on `#250f1c` surface): 14.54:1 (WCAG AAA)
- *   - Primary Accent (`#f472b6` on `#11060c` bg): 8.44:1 (WCAG AAA)
- *   - Secondary Accent (`#facc15` on `#11060c` bg): 13.18:1 (WCAG AAA)
+ *   - Body Text (`#190d14` on `#fce7f3` bg): 16.08:1 (WCAG AAA)
+ *   - Body Text (`#190d14` on `#fff5f9` surface): 17.92:1 (WCAG AAA)
+ *   - Primary Accent (`#9d174d` on `#fce7f3` bg): 6.62:1 (WCAG AA)
+ *   - Secondary Accent (`#92400e` on `#fce7f3` bg): 5.88:1 (WCAG AA)
+ * - Dark / Nocturnal Stadium Mode:
+ *   - Body Text (`#fdf2f8` on `#13060e` bg): 17.48:1 (WCAG AAA)
+ *   - Body Text (`#fdf2f8` on `#260f1d` surface): 14.42:1 (WCAG AAA)
+ *   - Primary Accent (`#f472b6` on `#13060e` bg): 8.38:1 (WCAG AAA)
+ *   - Secondary Accent (`#facc15` on `#13060e` bg): 13.08:1 (WCAG AAA)
  *   - Primary Button (`#ffffff` on `#9d174d` fill): 7.74:1 (WCAG AAA)
  * ============================================================================
  */
 
 /* Theme Name: Crucible Rebellion & Reckoning (`crucible-rebellion-reckoning`) */
 
-/* --- 1. Light Mode (Base & Explicit OS/User Light Preference) --- */
+/* --- 1. Nocturnal Stadium Concert Mode (Default `theme-auto` & `theme-dark`) --- */
 body.theme-crucible-rebellion-reckoning,
-body.theme-light.theme-crucible-rebellion-reckoning,
-body.theme-sepia.theme-crucible-rebellion-reckoning {
-    color-scheme: light;
-    --rs-bg: #fdf4f7;        /* Shattered-Porcelain Rose-Alabaster canvas */
-    --rs-bg-alt: #f6e4ec;    /* Rebellion Stage-Rose sidebar background */
-    --rs-surface: #ffffff;   /* Pure Spotlight-White reading surface */
-    --rs-card-bg: #ffffff;   /* Modal and card container surface */
-    --rs-text: #190d14;      /* Studded-Leather & Amplifier-Tolex Obsidian ink (17.65:1 contrast) */
-    --rs-heading: #9d174d;   /* Cassidy's "Not Your Doll" Rebellion Magenta-Crimson heading */
-    --rs-primary: #9d174d;   /* Rebellion Magenta-Crimson primary accent (7.28:1 contrast) */
-    --rs-secondary: #92400e; /* `CPI 52 — VDU 0` Scoreboard Amber-Gold secondary accent (6.45:1 contrast) */
-    --rs-border: #e5c5d3;    /* Chrome-Truss & Rose-Quartz structural border */
-    accent-color: #9d174d;
-}
-
-@media (prefers-color-scheme: light) {
-    body.theme-auto.theme-crucible-rebellion-reckoning,
-    body.theme-sepia-system.theme-crucible-rebellion-reckoning {
-        color-scheme: light;
-        --rs-bg: #fdf4f7;
-        --rs-bg-alt: #f6e4ec;
-        --rs-surface: #ffffff;
-        --rs-card-bg: #ffffff;
-        --rs-text: #190d14;
-        --rs-heading: #9d174d;
-        --rs-primary: #9d174d;
-        --rs-secondary: #92400e;
-        --rs-border: #e5c5d3;
-        accent-color: #9d174d;
-    }
-}
-
-body.theme-crucible-rebellion-reckoning #stardust-reading-pane,
-body.theme-light.theme-crucible-rebellion-reckoning #stardust-reading-pane,
-body.theme-sepia.theme-crucible-rebellion-reckoning #stardust-reading-pane {
-    box-shadow:
-        inset 0 8px 36px rgba(157, 23, 77, 0.08),
-        inset 0 -8px 32px rgba(146, 64, 14, 0.06);
-}
-
-body.theme-crucible-rebellion-reckoning .story-content blockquote,
-body.theme-light.theme-crucible-rebellion-reckoning .story-content blockquote,
-body.theme-sepia.theme-crucible-rebellion-reckoning .story-content blockquote {
-    border-left: 4px solid #9d174d;
-    background: linear-gradient(90deg, rgba(157, 23, 77, 0.06) 0%, rgba(146, 64, 14, 0.03) 100%);
-    padding: 0.85rem 1.25rem;
-    border-radius: 0 10px 10px 0;
-}
-
-/* --- 2. Dark Mode (Explicitly Forced by Reader Toggle) --- */
+body.theme-auto.theme-crucible-rebellion-reckoning,
 body.theme-dark.theme-crucible-rebellion-reckoning,
 body.theme-dark-sepia.theme-crucible-rebellion-reckoning {
     color-scheme: dark;
-    --rs-bg: #11060c;        /* Deep Marshall-Stack & Rebellion-Night Obsidian canvas */
-    --rs-bg-alt: #1b0a14;    /* Pyrotechnic Crimson-Plum sidebar background */
-    --rs-surface: #250f1c;   /* Elevated Neon-Rebellion & Flame-Cannon surface */
-    --rs-card-bg: #250f1c;   /* Matching elevated dark container surface */
-    --rs-text: #fdf2f8;      /* Crisp Strobe-Starlight Rose-White prose text (17.61:1 contrast) */
+    --rs-bg: #13060e;        /* Deep Marshall-Stack & Rebellion-Night Obsidian canvas */
+    --rs-bg-alt: #1d0916;    /* Pyrotechnic Crimson-Plum sidebar background */
+    --rs-surface: #260f1d;   /* Elevated Neon-Rebellion & Flame-Cannon surface */
+    --rs-card-bg: #260f1d;   /* Matching elevated dark container surface */
+    --rs-text: #fdf2f8;      /* Crisp Strobe-Starlight Rose-White prose text (17.48:1 contrast) */
     --rs-heading: #f472b6;   /* Shattered-Neon "Not Your Doll" Hot Pink heading */
-    --rs-primary: #f472b6;   /* Cassidy's Neon-Pink Rebellion Spotlight primary accent (8.44:1 contrast) */
-    --rs-secondary: #facc15; /* `FINAL: CPI 52 — VDU 0` Blazing Scoreboard Gold secondary accent (13.18:1 contrast) */
-    --rs-border: #541c38;    /* Charged Magenta-Pyro & Chrome structural border */
+    --rs-primary: #f472b6;   /* Cassidy's Neon-Pink Rebellion Spotlight primary accent (8.38:1 contrast) */
+    --rs-secondary: #facc15; /* `FINAL: CPI 52 — VDU 0` Blazing Scoreboard Gold secondary accent (13.08:1 contrast) */
+    --rs-border: #591c3b;    /* Charged Magenta-Pyro & Chrome structural border */
     accent-color: #f472b6;
+    background-color: #13060e;
+    color: #fdf2f8;
 }
 
+body.theme-crucible-rebellion-reckoning #stardust-reading-pane,
+body.theme-auto.theme-crucible-rebellion-reckoning #stardust-reading-pane,
 body.theme-dark.theme-crucible-rebellion-reckoning #stardust-reading-pane,
 body.theme-dark-sepia.theme-crucible-rebellion-reckoning #stardust-reading-pane {
+    background:
+        radial-gradient(ellipse at 50% 0%, rgba(236, 72, 153, 0.22) 0%, rgba(234, 179, 8, 0.12) 40%, rgba(19, 6, 14, 0) 75%),
+        #13060e;
     box-shadow:
-        inset 0 8px 42px rgba(244, 114, 182, 0.09),
-        inset 0 -8px 42px rgba(250, 204, 21, 0.07);
+        inset 0 10px 48px rgba(244, 114, 182, 0.14),
+        inset 0 -10px 48px rgba(250, 204, 21, 0.11);
 }
 
+body.theme-crucible-rebellion-reckoning .story-content blockquote,
+body.theme-auto.theme-crucible-rebellion-reckoning .story-content blockquote,
 body.theme-dark.theme-crucible-rebellion-reckoning .story-content blockquote,
 body.theme-dark-sepia.theme-crucible-rebellion-reckoning .story-content blockquote {
     border-left: 4px solid #f472b6;
-    background: linear-gradient(90deg, rgba(244, 114, 182, 0.11) 0%, rgba(250, 204, 21, 0.06) 100%);
+    background: linear-gradient(90deg, rgba(244, 114, 182, 0.14) 0%, rgba(250, 204, 21, 0.08) 100%);
     padding: 0.85rem 1.25rem;
     border-radius: 0 10px 10px 0;
 }
 
+body.theme-crucible-rebellion-reckoning .rs-btn-primary,
+body.theme-auto.theme-crucible-rebellion-reckoning .rs-btn-primary,
 body.theme-dark.theme-crucible-rebellion-reckoning .rs-btn-primary,
 body.theme-dark-sepia.theme-crucible-rebellion-reckoning .rs-btn-primary {
     background-color: #9d174d;
@@ -136,8 +100,12 @@ body.theme-dark-sepia.theme-crucible-rebellion-reckoning .rs-btn-primary {
     color: #ffffff;
 }
 
+body.theme-crucible-rebellion-reckoning .rs-btn-primary:hover,
+body.theme-auto.theme-crucible-rebellion-reckoning .rs-btn-primary:hover,
 body.theme-dark.theme-crucible-rebellion-reckoning .rs-btn-primary:hover,
 body.theme-dark-sepia.theme-crucible-rebellion-reckoning .rs-btn-primary:hover,
+body.theme-crucible-rebellion-reckoning .rs-btn-primary:focus-visible,
+body.theme-auto.theme-crucible-rebellion-reckoning .rs-btn-primary:focus-visible,
 body.theme-dark.theme-crucible-rebellion-reckoning .rs-btn-primary:focus-visible,
 body.theme-dark-sepia.theme-crucible-rebellion-reckoning .rs-btn-primary:focus-visible {
     background-color: #be185d;
@@ -145,47 +113,78 @@ body.theme-dark-sepia.theme-crucible-rebellion-reckoning .rs-btn-primary:focus-v
     color: #ffffff;
 }
 
-/* --- 3. Dark Mode (OS Preference via `prefers-color-scheme: dark`) --- */
+/* --- 2. Explicit Light & Sepia Mode (`theme-light` & `theme-sepia`) --- */
+body.theme-light.theme-crucible-rebellion-reckoning,
+body.theme-sepia.theme-crucible-rebellion-reckoning,
+body.theme-sepia-system.theme-crucible-rebellion-reckoning {
+    color-scheme: light;
+    --rs-bg: #fce7f3;        /* Vivid Shattered-Porcelain Rose-Quartz canvas */
+    --rs-bg-alt: #fbcfe8;    /* Rebellion Stage-Rose sidebar background */
+    --rs-surface: #fff5f9;   /* Crisp Spotlight Rose-White reading surface */
+    --rs-card-bg: #fff5f9;   /* Modal and card container surface */
+    --rs-text: #190d14;      /* Studded-Leather & Amplifier-Tolex Obsidian ink (16.08:1 contrast) */
+    --rs-heading: #9d174d;   /* Cassidy's "Not Your Doll" Rebellion Magenta-Crimson heading */
+    --rs-primary: #9d174d;   /* Rebellion Magenta-Crimson primary accent (6.62:1 contrast) */
+    --rs-secondary: #92400e; /* `CPI 52 — VDU 0` Scoreboard Amber-Gold secondary accent (5.88:1 contrast) */
+    --rs-border: #f472b6;    /* Chrome-Truss & Hot-Pink Rose structural border */
+    accent-color: #9d174d;
+    background-color: #fce7f3;
+    color: #190d14;
+}
+
+@media (prefers-color-scheme: light) {
+    body.theme-light.theme-crucible-rebellion-reckoning,
+    body.theme-sepia.theme-crucible-rebellion-reckoning,
+    body.theme-sepia-system.theme-crucible-rebellion-reckoning {
+        color-scheme: light;
+        --rs-bg: #fce7f3;
+        --rs-bg-alt: #fbcfe8;
+        --rs-surface: #fff5f9;
+        --rs-card-bg: #fff5f9;
+        --rs-text: #190d14;
+        --rs-heading: #9d174d;
+        --rs-primary: #9d174d;
+        --rs-secondary: #92400e;
+        --rs-border: #f472b6;
+        accent-color: #9d174d;
+    }
+}
+
+body.theme-light.theme-crucible-rebellion-reckoning #stardust-reading-pane,
+body.theme-sepia.theme-crucible-rebellion-reckoning #stardust-reading-pane,
+body.theme-sepia-system.theme-crucible-rebellion-reckoning #stardust-reading-pane {
+    background:
+        radial-gradient(ellipse at 50% 0%, rgba(157, 23, 77, 0.14) 0%, rgba(146, 64, 14, 0.08) 42%, rgba(252, 231, 243, 0) 75%),
+        #fce7f3;
+    box-shadow:
+        inset 0 10px 40px rgba(157, 23, 77, 0.11),
+        inset 0 -8px 34px rgba(146, 64, 14, 0.08);
+}
+
+body.theme-light.theme-crucible-rebellion-reckoning .story-content blockquote,
+body.theme-sepia.theme-crucible-rebellion-reckoning .story-content blockquote,
+body.theme-sepia-system.theme-crucible-rebellion-reckoning .story-content blockquote {
+    border-left: 4px solid #9d174d;
+    background: linear-gradient(90deg, rgba(157, 23, 77, 0.10) 0%, rgba(146, 64, 14, 0.06) 100%);
+    padding: 0.85rem 1.25rem;
+    border-radius: 0 10px 10px 0;
+}
+
+/* --- 3. Dark Mode OS Preference Reinforcement (`prefers-color-scheme: dark`) --- */
 @media (prefers-color-scheme: dark) {
     body.theme-auto.theme-crucible-rebellion-reckoning,
-    body.theme-sepia-system.theme-crucible-rebellion-reckoning,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-crucible-rebellion-reckoning {
+    body.theme-sepia-system.theme-crucible-rebellion-reckoning {
         color-scheme: dark;
-        --rs-bg: #11060c;
-        --rs-bg-alt: #1b0a14;
-        --rs-surface: #250f1c;
-        --rs-card-bg: #250f1c;
+        --rs-bg: #13060e;
+        --rs-bg-alt: #1d0916;
+        --rs-surface: #260f1d;
+        --rs-card-bg: #260f1d;
         --rs-text: #fdf2f8;
         --rs-heading: #f472b6;
         --rs-primary: #f472b6;
         --rs-secondary: #facc15;
-        --rs-border: #541c38;
+        --rs-border: #591c3b;
         accent-color: #f472b6;
-    }
-
-    body.theme-auto.theme-crucible-rebellion-reckoning #stardust-reading-pane,
-    body.theme-sepia-system.theme-crucible-rebellion-reckoning #stardust-reading-pane,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-crucible-rebellion-reckoning #stardust-reading-pane {
-        box-shadow:
-            inset 0 8px 42px rgba(244, 114, 182, 0.09),
-            inset 0 -8px 42px rgba(250, 204, 21, 0.07);
-    }
-
-    body.theme-auto.theme-crucible-rebellion-reckoning .story-content blockquote,
-    body.theme-sepia-system.theme-crucible-rebellion-reckoning .story-content blockquote,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-crucible-rebellion-reckoning .story-content blockquote {
-        border-left: 4px solid #f472b6;
-        background: linear-gradient(90deg, rgba(244, 114, 182, 0.11) 0%, rgba(250, 204, 21, 0.06) 100%);
-        padding: 0.85rem 1.25rem;
-        border-radius: 0 10px 10px 0;
-    }
-
-    body.theme-auto.theme-crucible-rebellion-reckoning .rs-btn-primary,
-    body.theme-sepia-system.theme-crucible-rebellion-reckoning .rs-btn-primary,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-crucible-rebellion-reckoning .rs-btn-primary {
-        background-color: #9d174d;
-        border-color: #f472b6;
-        color: #ffffff;
     }
 }
 
@@ -204,6 +203,7 @@ body.theme-dark-sepia.theme-crucible-rebellion-reckoning .rs-btn-primary:focus-v
     }
 
     body.theme-crucible-rebellion-reckoning #stardust-reading-pane {
+        background: Canvas;
         box-shadow: none;
     }
 }
