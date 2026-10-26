@@ -1,7 +1,9 @@
-# Not Her - DistroKid Quick-Copy Sheet
+# Not Her - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Not Her
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Not Her
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Not Her
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Rock, B-Sides, Rarities
 * **Real-World DSP Release Date:** 2026-10-11

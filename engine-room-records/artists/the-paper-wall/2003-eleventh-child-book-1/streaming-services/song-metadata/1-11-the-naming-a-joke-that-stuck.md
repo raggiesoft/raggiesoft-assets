@@ -1,10 +1,12 @@
-# The Naming (A Joke That Stuck) - DistroKid Quick-Copy Sheet
+# The Naming (A Joke That Stuck) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Naming (A Joke That Stuck)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Naming (A Joke That Stuck)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Naming (A Joke That Stuck)
 * **Primary Artist:** The Paper Wall
 * **Genre:** Electronic / Narrative / Rock Opera
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2673230
 
 **DistroKid AI Credits Questionnaire:**

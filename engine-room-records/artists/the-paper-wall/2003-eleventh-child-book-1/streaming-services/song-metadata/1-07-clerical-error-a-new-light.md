@@ -1,10 +1,12 @@
-# Clerical Error (A New Light) - DistroKid Quick-Copy Sheet
+# Clerical Error (A New Light) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Clerical Error (A New Light)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Clerical Error (A New Light)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Clerical Error (A New Light)
 * **Primary Artist:** The Paper Wall
 * **Genre:** Electronic / Narrative / Rock Opera
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2673226
 
 **DistroKid AI Credits Questionnaire:**

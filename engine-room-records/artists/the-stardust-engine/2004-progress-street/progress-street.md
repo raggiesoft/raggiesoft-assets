@@ -332,7 +332,7 @@ IT'S THUNDER IN THE RAIN! YEAH!
 ***
 
 **LORE NOTE:**
-An emotional 1980s AOR power ballad chronicling the band's true origin: Cassidy sitting at the family's upright piano with Ryan playing guitar right beside her in 1983, Tyler bringing his childhood drum kit and Evan plugging in his bass in 1985, and their middle-class family purchasing Cassidy's used 1984 six-voice analog synthesizer (a second-hand Roland Juno-106) in 1986.
+An emotional 1980s AOR power ballad chronicling the band's true origin: Cassidy sitting at the family's upright piano with Ryan playing guitar right beside her in 1983, Tyler bringing his childhood drum kit and Evan plugging in his bass in 1985, and their middle-class family purchasing Cassidy's used 1984 six-voice analog synthesizer (a second-hand analog polyphonic) in 1986.
 
 **LYRICS:**
 

@@ -1,7 +1,9 @@
-# A Prophecy Unfolds - DistroKid Quick-Copy Sheet
+# A Prophecy Unfolds - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** A Prophecy Unfolds
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** A Prophecy Unfolds
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** A Prophecy Unfolds
 * **Primary Artist:** Fractured Prisms
 * **Genre:** Progressive Rock / Art Pop
 * **Real-World DSP Release Date:** 2026-04-17

@@ -1,7 +1,9 @@
-# Friction: Reentry - DistroKid Quick-Copy Sheet
+# Friction: Reentry - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Friction: Reentry
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Friction: Reentry
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Friction: Reentry
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Heavy Rock / Industrial / Arena Rock
 * **Real-World DSP Release Date:** 2026-08-18

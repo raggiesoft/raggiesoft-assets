@@ -1,7 +1,9 @@
-# A Cage of Silver Light - DistroKid Quick-Copy Sheet
+# A Cage of Silver Light - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** A Cage of Silver Light
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** A Cage of Silver Light
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** A Cage of Silver Light
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-09

@@ -1,10 +1,12 @@
-# The Anchor's Hold - DistroKid Quick-Copy Sheet
+# The Anchor's Hold - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Anchor's Hold
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Anchor's Hold
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Anchor's Hold
 * **Primary Artist:** The Arctic Symphony Project
 * **Genre:** Symphonic Rock / Rock Opera / Holiday
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**

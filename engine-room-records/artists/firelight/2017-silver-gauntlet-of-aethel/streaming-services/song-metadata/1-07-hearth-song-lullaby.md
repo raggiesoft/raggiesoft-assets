@@ -1,7 +1,9 @@
-# Hearth-Song (Lullaby) - DistroKid Quick-Copy Sheet
+# Hearth-Song (Lullaby) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Hearth-Song (Lullaby)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Hearth-Song (Lullaby)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Hearth-Song (Lullaby)
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-09

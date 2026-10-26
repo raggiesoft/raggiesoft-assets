@@ -1,10 +1,12 @@
-# Diesel and Dust - DistroKid Quick-Copy Sheet
+# Diesel and Dust - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Diesel and Dust
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Diesel and Dust
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Diesel and Dust
 * **Primary Artist:** The Arctic Symphony Project
 * **Genre:** Symphonic Rock / Rock Opera / Holiday
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**

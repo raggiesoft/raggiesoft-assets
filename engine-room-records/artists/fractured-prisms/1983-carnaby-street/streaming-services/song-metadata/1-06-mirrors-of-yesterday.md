@@ -1,7 +1,9 @@
-# Mirrors of Yesterday - DistroKid Quick-Copy Sheet
+# Mirrors of Yesterday - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Mirrors of Yesterday
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Mirrors of Yesterday
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Mirrors of Yesterday
 * **Primary Artist:** Fractured Prisms
 * **Genre:** Progressive Rock / Art Pop
 * **Real-World DSP Release Date:** 2026-04-17

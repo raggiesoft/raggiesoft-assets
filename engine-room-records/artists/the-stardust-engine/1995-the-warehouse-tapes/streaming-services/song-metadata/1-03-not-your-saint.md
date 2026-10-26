@@ -1,7 +1,9 @@
-# Not Your Saint - DistroKid Quick-Copy Sheet
+# Not Your Saint - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Not Your Saint
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Not Your Saint
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Not Your Saint
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Rock
 * **Real-World DSP Release Date:** 2026-04-02

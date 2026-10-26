@@ -1,7 +1,9 @@
-# Unplugged - DistroKid Quick-Copy Sheet
+# Unplugged - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Unplugged
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Unplugged
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Unplugged
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Singer / Songwriter
 * **Real-World DSP Release Date:** 2026-10-16

@@ -1,10 +1,12 @@
-# Echoes in the Wire - DistroKid Quick-Copy Sheet
+# Echoes in the Wire (Live at the Crucible) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Echoes in the Wire
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Echoes in the Wire
+* **Version:** Live at the Crucible
+* **ID3 / Vorbis Tagged Title:** Echoes in the Wire (Live at the Crucible)
 * **Primary Artist:** The Stardust Engine
-* **Genre:** Live Stadium Rock / 1980s AOR / Collegiate Marching Band Rock
-* **Real-World DSP Release Date:** 2026-10-25
+* **Genre:** Live Stadium Rock / 1980s AOR / Progressive Symphonic Space-Rock / Collegiate Marching Band Rock
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**
@@ -26,7 +28,7 @@
 * **Musician / Producer:** AI-Generated (Vocals & Instrumentation)
 
 ## 3. Internal Catalog Information
-* **Engine Room ID:** ERR-001-2016-117
+* **Engine Room ID:** ERR-001-2016-125
 * **ISRC:** 
 * **US ISRC Agency Registrant:** Michael Ragsdale (Registrant ID: 185611 • Prefix: QTAHP • dsp.operations@engineroom-records.com)
 * **Album UPC / GTIN-12:** None

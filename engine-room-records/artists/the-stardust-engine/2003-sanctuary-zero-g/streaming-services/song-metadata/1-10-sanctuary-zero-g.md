@@ -1,7 +1,9 @@
-# Sanctuary: Zero G - DistroKid Quick-Copy Sheet
+# Sanctuary: Zero G - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Sanctuary: Zero G
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Sanctuary: Zero G
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Sanctuary: Zero G
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Atmospheric Synth-Pop / Ambient / Space Rock
 * **Real-World DSP Release Date:** 2026-08-17

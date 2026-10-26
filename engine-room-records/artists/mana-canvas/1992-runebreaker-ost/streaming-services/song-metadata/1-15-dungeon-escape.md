@@ -1,10 +1,12 @@
-# Dungeon Escape - DistroKid Quick-Copy Sheet
+# Dungeon Escape - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Dungeon Escape
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Dungeon Escape
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Dungeon Escape
 * **Primary Artist:** Mana Canvas
 * **Genre:** 16-bit Ambient / SPC-700
-* **Real-World DSP Release Date:** 2026-10-19
+* **Real-World DSP Release Date:** 2026-10-23
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTA7V2622559
 
 **DistroKid AI Credits Questionnaire:**

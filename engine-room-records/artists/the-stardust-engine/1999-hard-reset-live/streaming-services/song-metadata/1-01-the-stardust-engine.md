@@ -6,7 +6,7 @@
 * **ID3 / Vorbis Tagged Title:** The Stardust Engine (Hard Reset Live)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Arena Rock / Progressive Synth-Rock
-* **Real-World DSP Release Date:** 2026-10-25
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTAHP2600024
 
 **DistroKid AI Credits Questionnaire:**

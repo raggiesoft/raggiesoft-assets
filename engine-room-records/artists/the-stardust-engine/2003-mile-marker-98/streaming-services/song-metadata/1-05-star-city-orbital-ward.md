@@ -1,7 +1,9 @@
-# Star City: Orbital Ward - DistroKid Quick-Copy Sheet
+# Star City: Orbital Ward - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Star City: Orbital Ward
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Star City: Orbital Ward
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Star City: Orbital Ward
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Heavy Rock / Industrial / Arena Rock
 * **Real-World DSP Release Date:** 2026-08-18

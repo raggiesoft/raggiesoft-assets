@@ -1,7 +1,9 @@
-# An Empathetic Victory - DistroKid Quick-Copy Sheet
+# An Empathetic Victory - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** An Empathetic Victory
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** An Empathetic Victory
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** An Empathetic Victory
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-09

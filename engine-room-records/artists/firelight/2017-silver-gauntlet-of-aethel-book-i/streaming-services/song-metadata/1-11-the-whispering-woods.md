@@ -1,7 +1,9 @@
-# The Whispering Woods - DistroKid Quick-Copy Sheet
+# The Whispering Woods - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Whispering Woods
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Whispering Woods
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Whispering Woods
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-24

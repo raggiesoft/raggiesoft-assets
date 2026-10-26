@@ -1,7 +1,9 @@
-# Echoes in the Wire - DistroKid Quick-Copy Sheet
+# Echoes in the Wire - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Echoes in the Wire
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Echoes in the Wire
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Echoes in the Wire
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Arena Rock / Progressive Pop
 * **Real-World DSP Release Date:** 2026-04-14

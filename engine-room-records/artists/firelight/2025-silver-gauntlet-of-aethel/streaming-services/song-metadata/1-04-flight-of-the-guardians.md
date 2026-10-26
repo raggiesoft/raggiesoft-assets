@@ -1,7 +1,9 @@
-# Flight of the Guardians - DistroKid Quick-Copy Sheet
+# Flight of the Guardians - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Flight of the Guardians
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Flight of the Guardians
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Flight of the Guardians
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-09

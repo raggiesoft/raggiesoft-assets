@@ -1,7 +1,9 @@
-# Sunken City of Sorrows - DistroKid Quick-Copy Sheet
+# Sunken City of Sorrows - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Sunken City of Sorrows
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Sunken City of Sorrows
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Sunken City of Sorrows
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-09

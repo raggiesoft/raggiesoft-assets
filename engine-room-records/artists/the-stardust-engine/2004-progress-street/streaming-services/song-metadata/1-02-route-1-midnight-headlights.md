@@ -1,7 +1,9 @@
-# Route 1: Midnight Headlights - DistroKid Quick-Copy Sheet
+# Route 1: Midnight Headlights - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Route 1: Midnight Headlights
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Route 1: Midnight Headlights
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Route 1: Midnight Headlights
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s AOR / Stadium Rock / Synth-Rock
 * **Real-World DSP Release Date:** 2026-10-15

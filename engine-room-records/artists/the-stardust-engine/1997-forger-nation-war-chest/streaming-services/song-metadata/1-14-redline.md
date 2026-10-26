@@ -1,7 +1,9 @@
-# Redline - DistroKid Quick-Copy Sheet
+# Redline - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Redline
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Redline
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Redline
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Arena Rock / Progressive Pop
 * **Real-World DSP Release Date:** 2026-04-14

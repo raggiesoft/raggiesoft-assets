@@ -1,7 +1,9 @@
-# Empty Arenas - DistroKid Quick-Copy Sheet
+# Empty Arenas - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Empty Arenas
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Empty Arenas
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Empty Arenas
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s AOR / Stadium Rock / Synth-Rock
 * **Real-World DSP Release Date:** 2026-10-15

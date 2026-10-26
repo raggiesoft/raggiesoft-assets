@@ -1,7 +1,9 @@
-# The Promise (Corporate Demo) - DistroKid Quick-Copy Sheet
+# The Promise (Corporate Demo) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Promise (Corporate Demo)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Promise
+* **Version:** Corporate Demo
+* **ID3 / Vorbis Tagged Title:** The Promise (Corporate Demo)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Synth-Pop
 * **Real-World DSP Release Date:** 2026-03-31

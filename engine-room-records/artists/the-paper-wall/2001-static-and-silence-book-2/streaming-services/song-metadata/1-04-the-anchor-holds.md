@@ -1,10 +1,12 @@
-# The Anchor Holds (Part 1: The Longest Hour / Part 2: My Anchor (Reunion)) - DistroKid Quick-Copy Sheet
+# The Anchor Holds (Part 1: The Longest Hour / Part 2: My Anchor (Reunion)) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Anchor Holds (Part 1: The Longest Hour / Part 2: My Anchor (Reunion))
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Anchor Holds (Part 1: The Longest Hour / Part 2: My Anchor (Reunion))
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Anchor Holds (Part 1: The Longest Hour / Part 2: My Anchor (Reunion))
 * **Primary Artist:** The Paper Wall
 * **Genre:** Rock Opera / Industrial / 80s Pop
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2647815
 
 **DistroKid AI Credits Questionnaire:**

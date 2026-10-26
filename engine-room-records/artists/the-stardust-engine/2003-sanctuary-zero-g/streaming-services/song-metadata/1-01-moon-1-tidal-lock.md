@@ -1,7 +1,9 @@
-# Moon 1 (Tidal Lock) - DistroKid Quick-Copy Sheet
+# Moon 1 (Tidal Lock) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Moon 1 (Tidal Lock)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Moon 1 (Tidal Lock)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Moon 1 (Tidal Lock)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Atmospheric Synth-Pop / Ambient / Space Rock
 * **Real-World DSP Release Date:** 2026-08-17

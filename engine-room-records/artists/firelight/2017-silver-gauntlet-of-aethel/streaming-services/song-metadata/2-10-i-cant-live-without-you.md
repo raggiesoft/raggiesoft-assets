@@ -1,7 +1,9 @@
-# I Can't Live Without You (Kaela's Theme) - DistroKid Quick-Copy Sheet
+# I Can't Live Without You (Kaela's Theme) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** I Can't Live Without You (Kaela's Theme)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** I Can't Live Without You (Kaela's Theme)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** I Can't Live Without You (Kaela's Theme)
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-09

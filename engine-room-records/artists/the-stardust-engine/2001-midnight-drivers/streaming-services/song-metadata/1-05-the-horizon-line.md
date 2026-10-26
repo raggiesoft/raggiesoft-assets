@@ -1,7 +1,9 @@
-# The Horizon Line - DistroKid Quick-Copy Sheet
+# The Horizon Line - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Horizon Line
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Horizon Line
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Horizon Line
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s New Wave / Darkwave / Synth-Pop
 * **Real-World DSP Release Date:** 2026-05-01

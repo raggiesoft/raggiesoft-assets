@@ -1,7 +1,9 @@
-# The Steward's Law - DistroKid Quick-Copy Sheet
+# The Steward's Law - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Steward's Law
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Steward's Law
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Steward's Law
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-09

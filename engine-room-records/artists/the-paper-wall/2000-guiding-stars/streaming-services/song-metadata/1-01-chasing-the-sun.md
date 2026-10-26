@@ -1,10 +1,12 @@
-# Chasing the Sun - DistroKid Quick-Copy Sheet
+# Chasing the Sun - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Chasing the Sun
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Chasing the Sun
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Chasing the Sun
 * **Primary Artist:** The Paper Wall
 * **Genre:** 80s Rock / New Wave / Heartland Rock
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2658742
 
 **DistroKid AI Credits Questionnaire:**

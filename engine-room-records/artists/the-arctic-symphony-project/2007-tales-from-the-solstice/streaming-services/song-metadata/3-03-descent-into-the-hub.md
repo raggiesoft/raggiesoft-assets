@@ -1,10 +1,12 @@
-# Descent into the Hub - DistroKid Quick-Copy Sheet
+# Descent into the Hub - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Descent into the Hub
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Descent into the Hub
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Descent into the Hub
 * **Primary Artist:** The Arctic Symphony Project
 * **Genre:** Symphonic Rock / Rock Opera / Holiday
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**

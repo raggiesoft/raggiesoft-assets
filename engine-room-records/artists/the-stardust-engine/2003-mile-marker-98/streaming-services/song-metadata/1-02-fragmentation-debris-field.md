@@ -1,7 +1,9 @@
-# Fragmentation: Debris Field - DistroKid Quick-Copy Sheet
+# Fragmentation: Debris Field - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Fragmentation: Debris Field
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Fragmentation: Debris Field
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Fragmentation: Debris Field
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Heavy Rock / Industrial / Arena Rock
 * **Real-World DSP Release Date:** 2026-08-18

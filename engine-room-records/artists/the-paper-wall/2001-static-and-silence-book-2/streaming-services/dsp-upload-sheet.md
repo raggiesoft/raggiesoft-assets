@@ -58,9 +58,10 @@
 * **Version:** None (Leave Blank on DSP)
 * **ID3 / Vorbis Tagged Title:** `The Anchor Holds (Part 1: The Longest Hour / Part 2: My Anchor (Reunion))`
 * **ISRC:** QT6HJ2647815
-* **Duration:** 7:50 • **Instrumental:** Yes • **Explicit:** No
+* **Duration:** 7:50 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-2/vault/wav/1-04-the-anchor-holds.wav` (✅ Ready)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-the-anchor-holds.txt`
 
 5. Airside Sanctuary
 * **Name:** Airside Sanctuary

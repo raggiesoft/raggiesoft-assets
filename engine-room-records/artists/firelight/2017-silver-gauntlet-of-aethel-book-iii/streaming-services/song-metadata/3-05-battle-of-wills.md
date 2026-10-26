@@ -1,7 +1,9 @@
-# Battle of Wills - DistroKid Quick-Copy Sheet
+# Battle of Wills - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Battle of Wills
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Battle of Wills
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Battle of Wills
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-05-08

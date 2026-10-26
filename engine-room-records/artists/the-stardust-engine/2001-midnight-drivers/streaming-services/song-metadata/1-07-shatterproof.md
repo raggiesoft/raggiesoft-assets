@@ -1,7 +1,9 @@
-# Shatterproof - DistroKid Quick-Copy Sheet
+# Shatterproof - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Shatterproof
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Shatterproof
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Shatterproof
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s New Wave / Darkwave / Synth-Pop
 * **Real-World DSP Release Date:** 2026-05-01

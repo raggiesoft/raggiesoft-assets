@@ -1,10 +1,12 @@
-# The Hollow Square (Live at Independence Stadium) - DistroKid Quick-Copy Sheet
+# The Hollow Square (Live at Independence Stadium) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Hollow Square (Live at Independence Stadium)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Hollow Square
+* **Version:** Live at Independence Stadium
+* **ID3 / Vorbis Tagged Title:** The Hollow Square (Live at Independence Stadium)
 * **Primary Artist:** Fractured Prisms
 * **Genre:** Live Rock
-* **Real-World DSP Release Date:** 2026-10-19
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTAHP2600007
 
 **DistroKid AI Credits Questionnaire:**

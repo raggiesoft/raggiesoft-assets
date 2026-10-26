@@ -1,7 +1,9 @@
-# Twin Moons: Touchdown - DistroKid Quick-Copy Sheet
+# Twin Moons: Touchdown - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Twin Moons: Touchdown
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Twin Moons: Touchdown
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Twin Moons: Touchdown
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Heavy Rock / Industrial / Arena Rock
 * **Real-World DSP Release Date:** 2026-08-18

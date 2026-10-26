@@ -1,7 +1,9 @@
-# Fifth Gear: The Architect's Shield - DistroKid Quick-Copy Sheet
+# Fifth Gear: The Architect's Shield - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Fifth Gear: The Architect's Shield
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Fifth Gear: The Architect's Shield
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Fifth Gear: The Architect's Shield
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s AOR / Stadium Rock / Synth-Rock
 * **Real-World DSP Release Date:** 2026-10-15

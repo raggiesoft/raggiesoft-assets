@@ -1,10 +1,12 @@
-# Tay's Theme - DistroKid Quick-Copy Sheet
+# Tay's Theme - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Tay's Theme
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Tay's Theme
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Tay's Theme
 * **Primary Artist:** Mana Canvas
 * **Genre:** 16-bit Ambient / SPC-700
-* **Real-World DSP Release Date:** 2026-10-19
+* **Real-World DSP Release Date:** 2026-10-23
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTA7V2622556
 
 **DistroKid AI Credits Questionnaire:**

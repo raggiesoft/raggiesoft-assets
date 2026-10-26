@@ -1,10 +1,12 @@
-# Shield of Empathy - DistroKid Quick-Copy Sheet
+# Shield of Empathy - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Shield of Empathy
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Shield of Empathy
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Shield of Empathy
 * **Primary Artist:** The Arctic Symphony Project
 * **Genre:** Symphonic Rock / Rock Opera / Holiday
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**

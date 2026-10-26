@@ -1,7 +1,9 @@
-# Concrete Angels - DistroKid Quick-Copy Sheet
+# Concrete Angels - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Concrete Angels
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Concrete Angels
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Concrete Angels
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s New Wave / Darkwave / Synth-Pop
 * **Real-World DSP Release Date:** 2026-05-01

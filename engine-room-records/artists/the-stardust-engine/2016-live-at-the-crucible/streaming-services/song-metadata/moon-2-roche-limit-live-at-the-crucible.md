@@ -6,7 +6,7 @@
 * **ID3 / Vorbis Tagged Title:** Moon 2: Roche Limit (Live at the Crucible)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Stadium Rock / 1980s AOR / Progressive Symphonic Space-Rock / Collegiate Marching Band Rock
-* **Real-World DSP Release Date:** 2026-10-25
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**

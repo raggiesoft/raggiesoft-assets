@@ -1,10 +1,12 @@
-# The House on Lisa Court (Alternate Take) - DistroKid Quick-Copy Sheet
+# The House on Lisa Court (Alternate Take) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The House on Lisa Court (Alternate Take)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The House on Lisa Court
+* **Version:** Alternate Take
+* **ID3 / Vorbis Tagged Title:** The House on Lisa Court (Alternate Take)
 * **Primary Artist:** The Paper Wall
 * **Genre:** 80s Rock / New Wave / Heartland Rock
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2658751
 
 **DistroKid AI Credits Questionnaire:**

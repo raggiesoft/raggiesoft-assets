@@ -1,10 +1,12 @@
-# The Wizard's Lair - DistroKid Quick-Copy Sheet
+# The Wizard's Lair - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Wizard's Lair
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Wizard's Lair
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Wizard's Lair
 * **Primary Artist:** Mana Canvas
 * **Genre:** 16-bit Ambient / SPC-700
-* **Real-World DSP Release Date:** 2026-10-19
+* **Real-World DSP Release Date:** 2026-10-23
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTA7V2622564
 
 **DistroKid AI Credits Questionnaire:**

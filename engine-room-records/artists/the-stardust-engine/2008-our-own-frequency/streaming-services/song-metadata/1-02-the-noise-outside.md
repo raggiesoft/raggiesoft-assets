@@ -1,7 +1,9 @@
-# The Noise Outside - DistroKid Quick-Copy Sheet
+# The Noise Outside - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Noise Outside
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Noise Outside
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Noise Outside
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Singer / Songwriter
 * **Real-World DSP Release Date:** 2026-10-16

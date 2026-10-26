@@ -1,10 +1,12 @@
-# Radio Waves - DistroKid Quick-Copy Sheet
+# Radio Waves - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Radio Waves
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Radio Waves
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Radio Waves
 * **Primary Artist:** The Paper Wall
 * **Genre:** 80s Rock / New Wave / Heartland Rock
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2658747
 
 **DistroKid AI Credits Questionnaire:**

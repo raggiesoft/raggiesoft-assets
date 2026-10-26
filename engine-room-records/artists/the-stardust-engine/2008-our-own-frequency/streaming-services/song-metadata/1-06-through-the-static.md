@@ -1,7 +1,9 @@
-# Through the Static - DistroKid Quick-Copy Sheet
+# Through the Static - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Through the Static
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Through the Static
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Through the Static
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Singer / Songwriter
 * **Real-World DSP Release Date:** 2026-10-16

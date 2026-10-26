@@ -1,7 +1,9 @@
-# After the Show - DistroKid Quick-Copy Sheet
+# After the Show - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** After the Show
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** After the Show
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** After the Show
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Synth-Pop
 * **Real-World DSP Release Date:** 2026-03-31

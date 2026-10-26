@@ -1,10 +1,12 @@
-# The Weighted Blankets - DistroKid Quick-Copy Sheet
+# The Weighted Blankets - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Weighted Blankets
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Weighted Blankets
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Weighted Blankets
 * **Primary Artist:** Crimson Node
 * **Genre:** 1980s Pop & Rock / Synth-Prog
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6J52643490
 
 **DistroKid AI Credits Questionnaire:**

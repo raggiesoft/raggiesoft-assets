@@ -1,7 +1,9 @@
-# Hunter and the Hunted - DistroKid Quick-Copy Sheet
+# Hunter and the Hunted - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Hunter and the Hunted
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Hunter and the Hunted
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Hunter and the Hunted
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-24

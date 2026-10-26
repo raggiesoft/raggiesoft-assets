@@ -1,7 +1,9 @@
-# Static on the Wire (Instrumental B-Side) - DistroKid Quick-Copy Sheet
+# Static on the Wire (Instrumental B-Side) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Static on the Wire (Instrumental B-Side)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Static on the Wire
+* **Version:** Instrumental B-Side
+* **ID3 / Vorbis Tagged Title:** Static on the Wire (Instrumental B-Side)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s New Wave / Darkwave / Synth-Pop
 * **Real-World DSP Release Date:** 2026-05-01

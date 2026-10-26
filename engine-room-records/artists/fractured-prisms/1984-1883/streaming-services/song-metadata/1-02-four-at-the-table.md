@@ -1,7 +1,9 @@
-# Four at the Table - DistroKid Quick-Copy Sheet
+# Four at the Table - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Four at the Table
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Four at the Table
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Four at the Table
 * **Primary Artist:** Fractured Prisms
 * **Genre:** Progressive Pop / Gothic Synth-Rock Opera
 * **Real-World DSP Release Date:** 2026-10-15

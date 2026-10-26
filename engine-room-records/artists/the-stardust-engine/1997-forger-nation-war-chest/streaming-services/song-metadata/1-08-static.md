@@ -1,7 +1,9 @@
-# Static - DistroKid Quick-Copy Sheet
+# Static - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Static
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Static
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Static
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Arena Rock / Progressive Pop
 * **Real-World DSP Release Date:** 2026-04-14

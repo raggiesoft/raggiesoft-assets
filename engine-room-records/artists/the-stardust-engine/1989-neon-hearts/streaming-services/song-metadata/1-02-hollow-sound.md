@@ -1,7 +1,9 @@
-# Hollow Sound - DistroKid Quick-Copy Sheet
+# Hollow Sound - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Hollow Sound
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Hollow Sound
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Hollow Sound
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Synth-Pop
 * **Real-World DSP Release Date:** 2026-03-31

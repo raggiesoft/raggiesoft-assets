@@ -1,10 +1,12 @@
-# One of the Girls - DistroKid Quick-Copy Sheet
+# One of the Girls - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** One of the Girls
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** One of the Girls
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** One of the Girls
 * **Primary Artist:** Crimson Node
 * **Genre:** 1980s Pop & Rock / Synth-Prog
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6J52643495
 
 **DistroKid AI Credits Questionnaire:**

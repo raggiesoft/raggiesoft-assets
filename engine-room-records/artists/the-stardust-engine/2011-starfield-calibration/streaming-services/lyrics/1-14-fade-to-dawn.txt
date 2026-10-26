@@ -1,42 +1,43 @@
-The longest orbit was quiet and cold
-The final chapter of the story we told
-The telemetry shifts from indigo to gold
-As the solar wings begin to unfold
 
-Look out the viewport at the curvature below
-The whole horizon is beginning to glow
+[female] The longest orbit was quiet and cold
+[female] The final chapter of the story we told
+[male] The telemetry shifts from indigo to gold
+[male] As the solar wings begin to unfold
 
-Fade to dawn
-The night is breaking and the shadows are gone
-Keep the engine humming, keep the frequency drawn
-We made it through the dark
-Now we fade to dawn
+[female] Look out the viewport at the curvature below
+[male] The whole horizon is beginning to glow
 
-There is a crown of light on the velvet sky
-A golden sunrise reflected in your eye
-The synthesizers hum a timeless song
-We held our tidal lock all night long
+[female] Fade to dawn
+[male] The night is breaking and the shadows are gone
+[female] Keep the engine humming, keep the frequency drawn
+[male] We made it through the dark
+[female] Now we fade to dawn
 
-Look out the viewport at the curvature below
-The whole horizon is beginning to glow
+[male] There is a crown of light on the velvet sky
+[male] A golden sunrise reflected in your eye
+[female] The synthesizers hum a timeless song
+[female] We held our tidal lock all night long
 
-Fade to dawn
-The night is breaking and the shadows are gone
-Keep the engine humming, keep the frequency drawn
-We made it through the dark
-Now we fade to dawn
+[female] Look out the viewport at the curvature below
+[male] The whole horizon is beginning to glow
 
-The pressure clears
-The signal nears
-The night is done
-Here comes the sun
+[female] Fade to dawn
+[male] The night is breaking and the shadows are gone
+[female] Keep the engine humming, keep the frequency drawn
+[male] We made it through the dark
+[female] Now we fade to dawn
 
-Fade to dawn
-The night is breaking and the shadows are gone
-Keep the engine humming, keep the frequency drawn
-We made it through the dark
-Now we fade to dawn
+[female] The pressure clears
+[male] The signal nears
+[female] The night is done
+[male] Here comes the sun
 
-We made it through the dark
-Locked in the starlight
-Fade to dawn
+[female] Fade to dawn
+[male] The night is breaking and the shadows are gone
+[female] Keep the engine humming, keep the frequency drawn
+[male] We made it through the dark
+[female] Now we fade to dawn
+
+[female] We made it through the dark
+[male] Locked in the starlight
+[female] Fade to dawn

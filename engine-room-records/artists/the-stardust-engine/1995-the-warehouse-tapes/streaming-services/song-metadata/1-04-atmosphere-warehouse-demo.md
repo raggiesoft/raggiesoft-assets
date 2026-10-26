@@ -1,7 +1,9 @@
-# Atmosphere (Warehouse Demo) - DistroKid Quick-Copy Sheet
+# Atmosphere (Warehouse Demo) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Atmosphere (Warehouse Demo)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Atmosphere
+* **Version:** Warehouse Demo
+* **ID3 / Vorbis Tagged Title:** Atmosphere (Warehouse Demo)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Rock
 * **Real-World DSP Release Date:** 2026-04-02

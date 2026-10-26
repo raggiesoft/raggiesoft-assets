@@ -1,10 +1,12 @@
-# Logically Unfounded (The Pact of Six) - DistroKid Quick-Copy Sheet
+# Logically Unfounded (The Pact of Six) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Logically Unfounded (The Pact of Six)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Logically Unfounded (The Pact of Six)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Logically Unfounded (The Pact of Six)
 * **Primary Artist:** The Paper Wall
 * **Genre:** 80s Pop / Synthwave / Rock Opera
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2652208
 
 **DistroKid AI Credits Questionnaire:**

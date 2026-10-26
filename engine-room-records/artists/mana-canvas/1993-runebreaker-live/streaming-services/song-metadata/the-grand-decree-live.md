@@ -1,7 +1,9 @@
-# The Grand Decree (Live at Sanctuary Stadium) - DistroKid Quick-Copy Sheet
+# The Grand Decree (Live at Sanctuary Stadium) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Grand Decree (Live at Sanctuary Stadium)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Grand Decree
+* **Version:** Live at Sanctuary Stadium
+* **ID3 / Vorbis Tagged Title:** The Grand Decree (Live at Sanctuary Stadium)
 * **Primary Artist:** Mana Canvas
 * **Genre:** 16-Bit Symphonic Prog / Live Arena Rock
 * **Real-World DSP Release Date:** 2026-10-30

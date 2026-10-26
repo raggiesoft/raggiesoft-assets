@@ -1,7 +1,9 @@
-# If You Walked Away (Live in Chicago) - DistroKid Quick-Copy Sheet
+# If You Walked Away (Live in Chicago) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** If You Walked Away (Live in Chicago)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** If You Walked Away
+* **Version:** Live in Chicago
+* **ID3 / Vorbis Tagged Title:** If You Walked Away (Live in Chicago)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Rock
 * **Real-World DSP Release Date:** 2026-04-01

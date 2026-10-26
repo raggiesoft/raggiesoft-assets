@@ -1,7 +1,9 @@
-# Chain Reaction - DistroKid Quick-Copy Sheet
+# Chain Reaction - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Chain Reaction
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Chain Reaction
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Chain Reaction
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Synth-Pop
 * **Real-World DSP Release Date:** 2026-03-31

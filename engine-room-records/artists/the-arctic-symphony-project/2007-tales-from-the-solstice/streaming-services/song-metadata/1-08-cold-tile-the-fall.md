@@ -1,10 +1,12 @@
-# Cold Tile (The Fall) - DistroKid Quick-Copy Sheet
+# Cold Tile (The Fall) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Cold Tile (The Fall)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Cold Tile (The Fall)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Cold Tile (The Fall)
 * **Primary Artist:** The Arctic Symphony Project
 * **Genre:** Symphonic Rock / Rock Opera / Holiday
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**

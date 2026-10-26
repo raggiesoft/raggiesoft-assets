@@ -1,7 +1,9 @@
-# Before the Distance - DistroKid Quick-Copy Sheet
+# Before the Distance - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Before the Distance
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Before the Distance
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Before the Distance
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s AOR / Stadium Rock / Synth-Rock
 * **Real-World DSP Release Date:** 2026-10-15

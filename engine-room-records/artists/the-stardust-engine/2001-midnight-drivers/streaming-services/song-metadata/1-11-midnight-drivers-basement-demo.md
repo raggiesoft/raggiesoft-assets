@@ -1,7 +1,9 @@
-# Midnight Drivers (Basement Demo) - DistroKid Quick-Copy Sheet
+# Midnight Drivers (Basement Demo) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Midnight Drivers (Basement Demo)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Midnight Drivers
+* **Version:** Basement Demo
+* **ID3 / Vorbis Tagged Title:** Midnight Drivers (Basement Demo)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s New Wave / Darkwave / Synth-Pop
 * **Real-World DSP Release Date:** 2026-05-01

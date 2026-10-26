@@ -1,7 +1,9 @@
-# Saturday Night Lights: The Crucible - DistroKid Quick-Copy Sheet
+# Saturday Night Lights: The Crucible - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Saturday Night Lights: The Crucible
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Saturday Night Lights: The Crucible
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Saturday Night Lights: The Crucible
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s AOR / Stadium Rock / Synth-Rock
 * **Real-World DSP Release Date:** 2026-10-15

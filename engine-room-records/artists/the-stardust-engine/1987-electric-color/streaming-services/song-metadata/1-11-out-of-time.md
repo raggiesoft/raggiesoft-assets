@@ -1,7 +1,9 @@
-# Out of Time - DistroKid Quick-Copy Sheet
+# Out of Time - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Out of Time
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Out of Time
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Out of Time
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Synth-Rock
 * **Real-World DSP Release Date:** 2026-03-29

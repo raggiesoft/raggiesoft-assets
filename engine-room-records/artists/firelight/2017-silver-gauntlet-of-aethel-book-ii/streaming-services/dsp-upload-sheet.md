@@ -65,9 +65,10 @@
 * **Version:** None (Leave Blank on DSP)
 * **ID3 / Vorbis Tagged Title:** `The Tyrant's Throne (Shadow's Heart)`
 * **ISRC:** QTAHP2600022
-* **Duration:** 7:06 • **Instrumental:** Yes • **Explicit:** No
+* **Duration:** 7:06 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-05-the-tyrants-throne.wav` (✅ Ready)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/2-05-the-tyrants-throne.txt`
 
 6. Sacrifice or Queen?
 * **Name:** Sacrifice or Queen?

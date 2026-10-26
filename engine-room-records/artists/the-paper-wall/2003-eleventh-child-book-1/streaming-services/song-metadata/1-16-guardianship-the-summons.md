@@ -1,10 +1,12 @@
-# Guardianship (The Summons) - DistroKid Quick-Copy Sheet
+# Guardianship (The Summons) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Guardianship (The Summons)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Guardianship (The Summons)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Guardianship (The Summons)
 * **Primary Artist:** The Paper Wall
 * **Genre:** Electronic / Narrative / Rock Opera
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2673235
 
 **DistroKid AI Credits Questionnaire:**

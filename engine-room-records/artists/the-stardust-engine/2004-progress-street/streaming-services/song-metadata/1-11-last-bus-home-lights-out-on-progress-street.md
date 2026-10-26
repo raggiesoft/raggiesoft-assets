@@ -1,7 +1,9 @@
-# Last Bus Home: Lights Out on Progress Street - DistroKid Quick-Copy Sheet
+# Last Bus Home: Lights Out on Progress Street - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Last Bus Home: Lights Out on Progress Street
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Last Bus Home: Lights Out on Progress Street
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Last Bus Home: Lights Out on Progress Street
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s AOR / Stadium Rock / Synth-Rock
 * **Real-World DSP Release Date:** 2026-10-15

@@ -1,7 +1,9 @@
-# The Promise (Sabotage Demo) - DistroKid Quick-Copy Sheet
+# The Promise (Sabotage Demo) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Promise (Sabotage Demo)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Promise
+* **Version:** Sabotage Demo
+* **ID3 / Vorbis Tagged Title:** The Promise (Sabotage Demo)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Rock, B-Sides, Rarities
 * **Real-World DSP Release Date:** 2026-10-11

@@ -10,10 +10,10 @@
         "pdf": "42.4 MB",
         "text_epub": "928 KB",
         "text_pdf": "3.5 MB",
-        "epub_bytes": 58499787,
-        "pdf_bytes": 44411834,
-        "text_epub_bytes": 949931,
-        "text_pdf_bytes": 3630999
+        "epub_bytes": 58499699,
+        "pdf_bytes": 44408618,
+        "text_epub_bytes": 949870,
+        "text_pdf_bytes": 3629022
     },
     "illustration_count": 53,
     "eras": [
@@ -2337,47 +2337,47 @@
                             "start_time": "15:00",
                             "location": "414 Geneva Street to The Forger Nation Tailgate Plaza & Section 104, Row A, The Crucible, Blacksburg, VA",
                             "image": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p001/forger-nation-tailgate-plaza.jpg",
-                            "image_alt": "Outside the towering Gothic limestone arches of The Crucible stadium at golden hour inside the Forger Nation Tailgate Plaza, Jordan Fuller sits smiling in his Vanguard Pro wheelchair wearing rectangular glasses, a maroon Electric Color concert shirt, and a gold-foil ticket lanyard with a plate of Smokin' Anvil pulled pork BBQ and his mPad, surrounded by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, and Mark Cooper near an Engine Room Records filming notice sign.",
+                            "image_alt": "Outside the towering Gothic limestone arches of The Crucible stadium at golden hour inside the Forger Nation Tailgate Plaza, Jordan Fuller sits smiling in his Vanguard Pro wheelchair wearing rectangular glasses, a maroon Electric Color concert shirt, and a gold-foil ticket lanyard with a plate of Smokin' Anvil pulled pork BBQ and his mPad, surrounded by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, and Mark Anderson near an Engine Room Records filming notice sign.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p001/forger-nation-tailgate-plaza.jpg",
-                                    "alt": "Outside the towering Gothic limestone arches of The Crucible stadium at golden hour inside the Forger Nation Tailgate Plaza, Jordan Fuller sits smiling in his Vanguard Pro wheelchair wearing rectangular glasses, a maroon Electric Color concert shirt, and a gold-foil ticket lanyard with a plate of Smokin' Anvil pulled pork BBQ and his mPad, surrounded by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, and Mark Cooper near an Engine Room Records filming notice sign."
+                                    "alt": "Outside the towering Gothic limestone arches of The Crucible stadium at golden hour inside the Forger Nation Tailgate Plaza, Jordan Fuller sits smiling in his Vanguard Pro wheelchair wearing rectangular glasses, a maroon Electric Color concert shirt, and a gold-foil ticket lanyard with a plate of Smokin' Anvil pulled pork BBQ and his mPad, surrounded by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, and Mark Anderson near an Engine Room Records filming notice sign."
                                 }
                             ],
                             "image_count": 1
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Act I: The Anvil Strike & The Marching Forgers",
+                            "part_title": "Part 2: The Anvil Strike & The Marching Forgers",
                             "file_path": "e007/c004/p002.md",
-                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-2-act-i-the-anvil-strike-the-marching-forgers",
+                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-2-the-anvil-strike-the-marching-forgers",
                             "date": "2016-05-21",
                             "start_time": "19:55",
                             "location": "Section 104, Row A, The Crucible, Commonwealth Polytechnic Institute, Blacksburg, VA",
                             "image": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p002/act-i-ignition-marching-forgers.jpg",
-                            "image_alt": "From the Section 104, Row A accessible terrace inside The Crucible at night, Jordan Fuller sits in his wheelchair beside Madison Scott, Aubrie Jean Kelly, Zo\u00eb Wren Brooks, and Mark Cooper cheering up at a sweeping cinema camera jib overhead while on the main stage all 300 members of the CPI Marching Forgers perform alongside Ryan and Cassidy O'Connell under molten-orange and foundry-maroon spotlights.",
+                            "image_alt": "From the Section 104, Row A accessible terrace inside The Crucible at night, Jordan Fuller sits in his wheelchair beside Madison Scott, Aubrie Jean Kelly, Zo\u00eb Wren Brooks, and Mark Anderson cheering up at a sweeping cinema camera jib overhead while on the main stage all 300 members of the CPI Marching Forgers perform alongside Ryan and Cassidy O'Connell under molten-orange and foundry-maroon spotlights.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p002/act-i-ignition-marching-forgers.jpg",
-                                    "alt": "From the Section 104, Row A accessible terrace inside The Crucible at night, Jordan Fuller sits in his wheelchair beside Madison Scott, Aubrie Jean Kelly, Zo\u00eb Wren Brooks, and Mark Cooper cheering up at a sweeping cinema camera jib overhead while on the main stage all 300 members of the CPI Marching Forgers perform alongside Ryan and Cassidy O'Connell under molten-orange and foundry-maroon spotlights."
+                                    "alt": "From the Section 104, Row A accessible terrace inside The Crucible at night, Jordan Fuller sits in his wheelchair beside Madison Scott, Aubrie Jean Kelly, Zo\u00eb Wren Brooks, and Mark Anderson cheering up at a sweeping cinema camera jib overhead while on the main stage all 300 members of the CPI Marching Forgers perform alongside Ryan and Cassidy O'Connell under molten-orange and foundry-maroon spotlights."
                                 }
                             ],
                             "image_count": 1
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Act II: Not Your Doll, Fifty-Two to Nothing & The Vault",
+                            "part_title": "Part 3: Not Your Doll & Fifty-Two to Nothing",
                             "file_path": "e007/c004/p003.md",
-                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-3-act-ii-not-your-doll-fifty-two-to-nothing-the-vault",
+                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-3-not-your-doll-fifty-two-to-nothing",
                             "date": "2016-05-21",
                             "start_time": "20:25",
                             "location": "Section 104, Row A, The Crucible, Commonwealth Polytechnic Institute, Blacksburg, VA",
                             "image": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p003/fifty-two-to-nothing-scoreboard.jpg",
-                            "image_alt": "Inside The Crucible at night during 'Fifty-Two to Nothing: The Norfolk Reckoning', massive glowing Foundry Maroon and Molten Orange numerals on the North End Zone scoreboard display 'CPI 52 \u2014 VDU 0' while in the foreground on the Section 104, Row A accessible terrace, Jordan Fuller raises his fist in triumph from his wheelchair as Mark Cooper claps his shoulder and Aubrie Jean Kelly, Madison Scott, and Zo\u00eb Wren Brooks cheer wildly around him.",
+                            "image_alt": "Inside The Crucible at night during 'Fifty-Two to Nothing: The Norfolk Reckoning', massive glowing Foundry Maroon and Molten Orange numerals on the North End Zone scoreboard display 'CPI 52 \u2014 VDU 0' while in the foreground on the Section 104, Row A accessible terrace, Jordan Fuller raises his fist in triumph from his wheelchair as Mark Anderson claps his shoulder and Aubrie Jean Kelly, Madison Scott, and Zo\u00eb Wren Brooks cheer wildly around him.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p003/fifty-two-to-nothing-scoreboard.jpg",
-                                    "alt": "Inside The Crucible at night during 'Fifty-Two to Nothing: The Norfolk Reckoning', massive glowing Foundry Maroon and Molten Orange numerals on the North End Zone scoreboard display 'CPI 52 \u2014 VDU 0' while in the foreground on the Section 104, Row A accessible terrace, Jordan Fuller raises his fist in triumph from his wheelchair as Mark Cooper claps his shoulder and Aubrie Jean Kelly, Madison Scott, and Zo\u00eb Wren Brooks cheer wildly around him."
+                                    "alt": "Inside The Crucible at night during 'Fifty-Two to Nothing: The Norfolk Reckoning', massive glowing Foundry Maroon and Molten Orange numerals on the North End Zone scoreboard display 'CPI 52 \u2014 VDU 0' while in the foreground on the Section 104, Row A accessible terrace, Jordan Fuller raises his fist in triumph from his wheelchair as Mark Anderson claps his shoulder and Aubrie Jean Kelly, Madison Scott, and Zo\u00eb Wren Brooks cheer wildly around him."
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p003/not-your-doll-cassidy-front-and-center.jpg",
@@ -2388,27 +2388,27 @@
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: Acts III & IV: Escape Velocity (Ad Astra), Cosmic Tidal Lock & Mile Marker 98",
+                            "part_title": "Part 4: Escape Velocity (Ad Astra), Tidal Lock & Mile Marker 98",
                             "file_path": "e007/c004/p004.md",
-                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-4-acts-iii-iv-escape-velocity-ad-astra-cosmic-tidal-lock-mile-marker-98",
+                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-4-escape-velocity-ad-astra-tidal-lock-mile-marker-98",
                             "date": "2016-05-21",
                             "start_time": "20:55",
                             "location": "Section 104, Row A, The Crucible, Commonwealth Polytechnic Institute, Blacksburg, VA",
                             "image": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/escape-velocity-ad-astra-cassidy-nebula.jpg",
-                            "image_alt": "Cassidy O'Connell stands front and center at the edge of The Crucible stadium stage singing 'Escape Velocity (Ad Astra)' with soaring emotion while Ryan O'Connell plays a zero-gravity solo on his sunburst Gibson Les Paul from his manual wheelchair to her left, backed by a 120-foot curved LED screen and 65,000 synchronized LED wristbands glowing in the crimson reds, sapphire blues, ultraviolet purples, and solar gold of a deep-space nebula.",
+                            "image_alt": "Cassidy O'Connell stands front and center at the edge of The Crucible stadium stage singing 'Escape Velocity (Ad Astra)' with soaring emotion while Ryan O'Connell plays a zero-gravity solo on his sunburst electric guitar from his manual wheelchair to her left, backed by a 120-foot curved LED screen and 65,000 synchronized LED wristbands glowing in the crimson reds, sapphire blues, ultraviolet purples, and solar gold of a deep-space nebula.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/escape-velocity-ad-astra-cassidy-nebula.jpg",
-                                    "alt": "Cassidy O'Connell stands front and center at the edge of The Crucible stadium stage singing 'Escape Velocity (Ad Astra)' with soaring emotion while Ryan O'Connell plays a zero-gravity solo on his sunburst Gibson Les Paul from his manual wheelchair to her left, backed by a 120-foot curved LED screen and 65,000 synchronized LED wristbands glowing in the crimson reds, sapphire blues, ultraviolet purples, and solar gold of a deep-space nebula."
+                                    "alt": "Cassidy O'Connell stands front and center at the edge of The Crucible stadium stage singing 'Escape Velocity (Ad Astra)' with soaring emotion while Ryan O'Connell plays a zero-gravity solo on his sunburst electric guitar from his manual wheelchair to her left, backed by a 120-foot curved LED screen and 65,000 synchronized LED wristbands glowing in the crimson reds, sapphire blues, ultraviolet purples, and solar gold of a deep-space nebula."
                                 }
                             ],
                             "image_count": 1
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: Acts V & VI: Brother's Keeper, The Summer Festival Announcement, & Saturday Night Lights",
+                            "part_title": "Part 5: Brother's Keeper, The Summer Festival Announcement, & Saturday Night Lights",
                             "file_path": "e007/c004/p005.md",
-                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-5-acts-v-vi-brother-s-keeper-the-summer-festival-announcement-saturday-night-lights",
+                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-5-brother-s-keeper-the-summer-festival-announcement-saturday-night-lights",
                             "date": "2016-05-21",
                             "start_time": "21:50",
                             "location": "Section 104, Row A, The Crucible, Commonwealth Polytechnic Institute, Blacksburg, VA",
@@ -2424,18 +2424,18 @@
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Part 6: Act VII: Electric Color (Live at the Crucible) & The Departure Loop",
+                            "part_title": "Part 6: Electric Color (Live at the Crucible) & The Ride Home",
                             "file_path": "e007/c004/p006.md",
-                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-6-act-vii-electric-color-live-at-the-crucible-the-departure-loop",
+                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-6-electric-color-live-at-the-crucible-the-ride-home",
                             "date": "2016-05-21",
                             "start_time": "22:40",
                             "location": "The Crucible & Stadium Transit Loop, Blacksburg, VA",
                             "image": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/electric-color-rainbow-reclamation.jpg",
-                            "image_alt": "During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage, and in the foreground at Section 104, Row A, Jordan Fuller raises both hands in happy tears from his wheelchair surrounded by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, and Mark Cooper.",
+                            "image_alt": "During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage, and in the foreground at Section 104, Row A, Jordan Fuller raises both hands in happy tears from his wheelchair surrounded by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, and Mark Anderson.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/electric-color-rainbow-reclamation.jpg",
-                                    "alt": "During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage, and in the foreground at Section 104, Row A, Jordan Fuller raises both hands in happy tears from his wheelchair surrounded by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, and Mark Cooper."
+                                    "alt": "During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage, and in the foreground at Section 104, Row A, Jordan Fuller raises both hands in happy tears from his wheelchair surrounded by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, and Mark Anderson."
                                 }
                             ],
                             "image_count": 1
@@ -2463,13 +2463,13 @@
                             "url": "/aubrie/summer-2016/the-u-s-11-compound-the-sunken-sanctuary/the-u-s-11-compound-the-sunken-sanctuary-the-wedding-blueprint",
                             "date": "2016-07-01",
                             "start_time": "11:00",
-                            "location": "The Kelly-Cooper-Brooks Compound, U.S. Route 11, Christiansburg/Blacksburg Corridor, VA",
+                            "location": "The Kelly-Anderson-Brooks Compound, U.S. Route 11, Christiansburg/Blacksburg Corridor, VA",
                             "image": "/raggiesoft-books/images/scenes/aubrie/e008/c001/p001/sunken-sanctuary-commissioning.jpg",
-                            "image_alt": "Inside the sunlit custom-built West Wing master bedroom of the U.S. Route 11 Compound on July 1, 2016, Jordan Fuller sits happily near the center of the recessed fifteen-foot-by-fifteen-foot Sunken Sanctuary mattress looking at his mPad at zero elevation delta from his parked titanium Vanguard Pro wheelchair, surrounded on the velvet-bolstered mattress by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks (holding her tablet), Megan Brooks, Isabel Dawson, Lauren Barnes, Sarah Braithwaite, and Jessica Gallagher, while Daniel Brooks stands on the flush hardwood transfer deck holding the Montgomery County Circuit Court docket folder beside Laura Brooks, Mark Cooper, and Hannah Morales.",
+                            "image_alt": "Inside the sunlit custom-built West Wing master bedroom of the U.S. Route 11 Compound on July 1, 2016, Jordan Fuller sits happily near the center of the recessed fifteen-foot-by-fifteen-foot Sunken Sanctuary mattress looking at his mPad at zero elevation delta from his parked titanium Vanguard Pro wheelchair, surrounded on the velvet-bolstered mattress by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks (holding her tablet), Megan Brooks, Isabel Dawson, Lauren Barnes, Sarah Braithwaite, and Jessica Gallagher, while Daniel Brooks stands on the flush hardwood transfer deck holding the Montgomery County Circuit Court docket folder beside Laura Brooks, Mark Anderson, and Hannah Parker.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e008/c001/p001/sunken-sanctuary-commissioning.jpg",
-                                    "alt": "Inside the sunlit custom-built West Wing master bedroom of the U.S. Route 11 Compound on July 1, 2016, Jordan Fuller sits happily near the center of the recessed fifteen-foot-by-fifteen-foot Sunken Sanctuary mattress looking at his mPad at zero elevation delta from his parked titanium Vanguard Pro wheelchair, surrounded on the velvet-bolstered mattress by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks (holding her tablet), Megan Brooks, Isabel Dawson, Lauren Barnes, Sarah Braithwaite, and Jessica Gallagher, while Daniel Brooks stands on the flush hardwood transfer deck holding the Montgomery County Circuit Court docket folder beside Laura Brooks, Mark Cooper, and Hannah Morales."
+                                    "alt": "Inside the sunlit custom-built West Wing master bedroom of the U.S. Route 11 Compound on July 1, 2016, Jordan Fuller sits happily near the center of the recessed fifteen-foot-by-fifteen-foot Sunken Sanctuary mattress looking at his mPad at zero elevation delta from his parked titanium Vanguard Pro wheelchair, surrounded on the velvet-bolstered mattress by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks (holding her tablet), Megan Brooks, Isabel Dawson, Lauren Barnes, Sarah Braithwaite, and Jessica Gallagher, while Daniel Brooks stands on the flush hardwood transfer deck holding the Montgomery County Circuit Court docket folder beside Laura Brooks, Mark Anderson, and Hannah Parker."
                                 }
                             ],
                             "image_count": 1
@@ -2491,11 +2491,11 @@
                             "start_time": "07:00",
                             "location": "The U.S. 11 Compound to Old Town Ballroom & Conservatory, Christiansburg, VA",
                             "image": "/raggiesoft-books/images/scenes/aubrie/e008/c002/p001/double-wedding-conservatory-vows.jpg",
-                            "image_alt": "Inside the sunlit glass-and-limestone atrium of the Old Town Ballroom & Conservatory in downtown Christiansburg on July 16, 2016, Jordan Fuller sits tall in his Vanguard Pro wheelchair wearing a custom charcoal three-piece suit, midnight-blue silk tie, and white rose boutonniere with his mPad mounted at his side, exchanging eye-level vows with his bride Aubrie Jean Kelly as she kneels gracefully on a plush velvet cushion holding both of his hands, while his brother Mark Cooper stands right beside him in a matching charcoal suit and emerald tie resting a proud hand on Jordan's shoulder alongside his bride Hannah Morales in her ivory lace gown.",
+                            "image_alt": "Inside the sunlit glass-and-limestone atrium of the Old Town Ballroom & Conservatory in downtown Christiansburg on July 16, 2016, Jordan Fuller sits tall in his Vanguard Pro wheelchair wearing a custom charcoal three-piece suit, midnight-blue silk tie, and white rose boutonniere with his mPad mounted at his side, exchanging eye-level vows with his bride Aubrie Jean Kelly as she kneels gracefully on a plush velvet cushion holding both of his hands, while his brother Mark Anderson stands right beside him in a matching charcoal suit and emerald tie resting a proud hand on Jordan's shoulder alongside his bride Hannah Parker in her ivory lace gown.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e008/c002/p001/double-wedding-conservatory-vows.jpg",
-                                    "alt": "Inside the sunlit glass-and-limestone atrium of the Old Town Ballroom & Conservatory in downtown Christiansburg on July 16, 2016, Jordan Fuller sits tall in his Vanguard Pro wheelchair wearing a custom charcoal three-piece suit, midnight-blue silk tie, and white rose boutonniere with his mPad mounted at his side, exchanging eye-level vows with his bride Aubrie Jean Kelly as she kneels gracefully on a plush velvet cushion holding both of his hands, while his brother Mark Cooper stands right beside him in a matching charcoal suit and emerald tie resting a proud hand on Jordan's shoulder alongside his bride Hannah Morales in her ivory lace gown."
+                                    "alt": "Inside the sunlit glass-and-limestone atrium of the Old Town Ballroom & Conservatory in downtown Christiansburg on July 16, 2016, Jordan Fuller sits tall in his Vanguard Pro wheelchair wearing a custom charcoal three-piece suit, midnight-blue silk tie, and white rose boutonniere with his mPad mounted at his side, exchanging eye-level vows with his bride Aubrie Jean Kelly as she kneels gracefully on a plush velvet cushion holding both of his hands, while his brother Mark Anderson stands right beside him in a matching charcoal suit and emerald tie resting a proud hand on Jordan's shoulder alongside his bride Hannah Parker in her ivory lace gown."
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e008/c002/p001/wedding-final-touches-all-hands-setup.jpg",
@@ -2513,11 +2513,11 @@
                             "start_time": "14:45",
                             "location": "Montgomery County Courthouse, Old Town Ballroom, & The Sunken Sanctuary (U.S. 11), VA",
                             "image": "/raggiesoft-books/images/scenes/aubrie/e008/c002/p002/chamber-b-jordan-shawn-kelly-seal.jpg",
-                            "image_alt": "Inside sunlit wood-paneled Chamber B of the Montgomery County Courthouse in Christiansburg on July 16, 2016, newlywed Jordan Shawn Kelly sits upright in his Vanguard Pro wheelchair in his charcoal three-piece suit and midnight-blue tie, signing his new legal name 'Jordan Shawn Kelly' with a fountain pen onto the Virginia Marriage Register beside his gold-sealed Final Order for Change of Name, while his bride Aubrie Jean Kelly rests her hand on his shoulder, Mark and Hannah Cooper and attorney Daniel Brooks beam beside them, and Judge Warren T. Aldridge smiles from the judicial bench.",
+                            "image_alt": "Inside sunlit wood-paneled Chamber B of the Montgomery County Courthouse in Christiansburg on July 16, 2016, newlywed Jordan Shawn Kelly sits upright in his Vanguard Pro wheelchair in his charcoal three-piece suit and midnight-blue tie, signing his new legal name 'Jordan Shawn Kelly' with a fountain pen onto the Virginia Marriage Register beside his gold-sealed Final Order for Change of Name, while his bride Aubrie Jean Kelly rests her hand on his shoulder, Mark and Hannah Anderson and attorney Daniel Brooks beam beside them, and Judge Warren T. Aldridge smiles from the judicial bench.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e008/c002/p002/chamber-b-jordan-shawn-kelly-seal.jpg",
-                                    "alt": "Inside sunlit wood-paneled Chamber B of the Montgomery County Courthouse in Christiansburg on July 16, 2016, newlywed Jordan Shawn Kelly sits upright in his Vanguard Pro wheelchair in his charcoal three-piece suit and midnight-blue tie, signing his new legal name 'Jordan Shawn Kelly' with a fountain pen onto the Virginia Marriage Register beside his gold-sealed Final Order for Change of Name, while his bride Aubrie Jean Kelly rests her hand on his shoulder, Mark and Hannah Cooper and attorney Daniel Brooks beam beside them, and Judge Warren T. Aldridge smiles from the judicial bench."
+                                    "alt": "Inside sunlit wood-paneled Chamber B of the Montgomery County Courthouse in Christiansburg on July 16, 2016, newlywed Jordan Shawn Kelly sits upright in his Vanguard Pro wheelchair in his charcoal three-piece suit and midnight-blue tie, signing his new legal name 'Jordan Shawn Kelly' with a fountain pen onto the Virginia Marriage Register beside his gold-sealed Final Order for Change of Name, while his bride Aubrie Jean Kelly rests her hand on his shoulder, Mark and Hannah Anderson and attorney Daniel Brooks beam beside them, and Judge Warren T. Aldridge smiles from the judicial bench."
                                 }
                             ],
                             "image_count": 1

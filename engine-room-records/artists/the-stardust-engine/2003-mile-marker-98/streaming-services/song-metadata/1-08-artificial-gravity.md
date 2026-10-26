@@ -1,7 +1,9 @@
-# Artificial Gravity - DistroKid Quick-Copy Sheet
+# Artificial Gravity - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Artificial Gravity
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Artificial Gravity
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Artificial Gravity
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Heavy Rock / Industrial / Arena Rock
 * **Real-World DSP Release Date:** 2026-08-18

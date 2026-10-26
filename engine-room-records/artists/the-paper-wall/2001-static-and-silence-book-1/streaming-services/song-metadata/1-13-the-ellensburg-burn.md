@@ -1,10 +1,12 @@
-# The Ellensburg Burn - DistroKid Quick-Copy Sheet
+# The Ellensburg Burn - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Ellensburg Burn
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Ellensburg Burn
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Ellensburg Burn
 * **Primary Artist:** The Paper Wall
 * **Genre:** Rock Opera / Industrial / 80s Pop
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2647726
 
 **DistroKid AI Credits Questionnaire:**

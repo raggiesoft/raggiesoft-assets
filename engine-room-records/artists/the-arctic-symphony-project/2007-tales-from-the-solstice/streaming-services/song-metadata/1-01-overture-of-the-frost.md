@@ -1,10 +1,12 @@
-# Overture of the Frost - DistroKid Quick-Copy Sheet
+# Overture of the Frost - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Overture of the Frost
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Overture of the Frost
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Overture of the Frost
 * **Primary Artist:** The Arctic Symphony Project
 * **Genre:** Symphonic Rock / Rock Opera / Holiday
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTAHP2600015
 
 **DistroKid AI Credits Questionnaire:**

@@ -1,7 +1,9 @@
-# The Stardust Engine (The Rejected Mix) - DistroKid Quick-Copy Sheet
+# The Stardust Engine (The Rejected Mix) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Stardust Engine (The Rejected Mix)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Stardust Engine
+* **Version:** The Rejected Mix
+* **ID3 / Vorbis Tagged Title:** The Stardust Engine (The Rejected Mix)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Rock, B-Sides, Rarities
 * **Real-World DSP Release Date:** 2026-10-11

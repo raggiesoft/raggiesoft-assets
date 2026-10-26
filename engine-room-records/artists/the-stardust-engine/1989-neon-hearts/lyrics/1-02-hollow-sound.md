@@ -1,5 +1,5 @@
 **LORE NOTE:**
-Ryan's act of "malicious compliance." He delivered the requested synth-pop sound but made the track **5:31 long**—knowing it was too long for radio—and included the protest line, "They're all afraid of the burning cross" (a reference to the canceled "Promise" single). [cite_start]It stands as a middle finger to the studio's "safe" direction.
+Ryan's act of "malicious compliance." He delivered the requested synth-pop sound but made the track **5:31 long**—knowing it was too long for radio—and included the protest line, "They're all afraid of the burning cross" (a reference to the canceled "Promise" single). It stands as a middle finger to the studio's "safe" direction.
 
 **LYRICS:**
 
@@ -39,6 +39,8 @@ I'm singing all alone
 
 (Bridge)
 (A very clean, melodic, studio-approved keyboard solo)
+A hollow sound...
+Just a hollow sound...
 
 (Chorus)
 It's just a hollow sound
@@ -47,8 +49,4 @@ But the words are not my own
 It's just a hollow sound
 Another plastic fix
 I'm singing all alone
-
-(Outro)
-A hollow sound...
-Just a hollow sound...
 (fades)

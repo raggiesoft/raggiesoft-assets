@@ -1,10 +1,12 @@
-# First Class Sanctuary - DistroKid Quick-Copy Sheet
+# First Class Sanctuary - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** First Class Sanctuary
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** First Class Sanctuary
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** First Class Sanctuary
 * **Primary Artist:** The Arctic Symphony Project
 * **Genre:** Symphonic Rock / Rock Opera / Holiday
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**

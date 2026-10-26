@@ -1,10 +1,12 @@
-# An 80s Education (The Brooks Mix) - DistroKid Quick-Copy Sheet
+# An 80s Education (The Brooks Mix) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** An 80s Education (The Brooks Mix)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** An 80s Education (The Brooks Mix)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** An 80s Education (The Brooks Mix)
 * **Primary Artist:** The Paper Wall
 * **Genre:** 80s Pop / Synthwave / Rock Opera
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2652206
 
 **DistroKid AI Credits Questionnaire:**

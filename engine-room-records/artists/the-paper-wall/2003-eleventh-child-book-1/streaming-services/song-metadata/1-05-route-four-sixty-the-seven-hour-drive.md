@@ -1,10 +1,12 @@
-# Route Four-Sixty (The Seven-Hour Drive) - DistroKid Quick-Copy Sheet
+# Route Four-Sixty (The Seven-Hour Drive) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Route Four-Sixty (The Seven-Hour Drive)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Route Four-Sixty (The Seven-Hour Drive)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Route Four-Sixty (The Seven-Hour Drive)
 * **Primary Artist:** The Paper Wall
 * **Genre:** Electronic / Narrative / Rock Opera
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2673224
 
 **DistroKid AI Credits Questionnaire:**

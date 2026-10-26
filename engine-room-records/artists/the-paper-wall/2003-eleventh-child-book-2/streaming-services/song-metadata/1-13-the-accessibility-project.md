@@ -1,10 +1,12 @@
-# The Accessibility Project - DistroKid Quick-Copy Sheet
+# The Accessibility Project - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Accessibility Project
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Accessibility Project
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Accessibility Project
 * **Primary Artist:** The Paper Wall
 * **Genre:** 80s Pop / Synthwave / Rock Opera
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2652213
 
 **DistroKid AI Credits Questionnaire:**

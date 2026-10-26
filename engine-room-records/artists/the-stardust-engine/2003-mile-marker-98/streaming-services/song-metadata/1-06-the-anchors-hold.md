@@ -1,7 +1,9 @@
-# The Anchor's Hold - DistroKid Quick-Copy Sheet
+# The Anchor's Hold - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Anchor's Hold
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Anchor's Hold
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Anchor's Hold
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Heavy Rock / Industrial / Arena Rock
 * **Real-World DSP Release Date:** 2026-08-18

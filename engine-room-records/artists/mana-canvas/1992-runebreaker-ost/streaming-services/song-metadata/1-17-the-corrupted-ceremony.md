@@ -1,10 +1,12 @@
-# The Corrupted Ceremony - DistroKid Quick-Copy Sheet
+# The Corrupted Ceremony - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Corrupted Ceremony
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Corrupted Ceremony
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Corrupted Ceremony
 * **Primary Artist:** Mana Canvas
 * **Genre:** 16-bit Ambient / SPC-700
-* **Real-World DSP Release Date:** 2026-10-19
+* **Real-World DSP Release Date:** 2026-10-23
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTA7V2622561
 
 **DistroKid AI Credits Questionnaire:**

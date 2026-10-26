@@ -1,7 +1,9 @@
-# Silent Ocean (Mare Tranquillitatis) - DistroKid Quick-Copy Sheet
+# Silent Ocean (Mare Tranquillitatis) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Silent Ocean (Mare Tranquillitatis)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Silent Ocean (Mare Tranquillitatis)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Silent Ocean (Mare Tranquillitatis)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Atmospheric Synth-Pop / Ambient / Space Rock
 * **Real-World DSP Release Date:** 2026-08-17

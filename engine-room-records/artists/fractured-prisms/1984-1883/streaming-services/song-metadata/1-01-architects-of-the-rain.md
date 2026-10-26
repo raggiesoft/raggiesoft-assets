@@ -1,7 +1,9 @@
-# Architects of the Rain - DistroKid Quick-Copy Sheet
+# Architects of the Rain - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Architects of the Rain
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Architects of the Rain
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Architects of the Rain
 * **Primary Artist:** Fractured Prisms
 * **Genre:** Progressive Pop / Gothic Synth-Rock Opera
 * **Real-World DSP Release Date:** 2026-10-15

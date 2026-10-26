@@ -1,7 +1,9 @@
-# Radio Silence - DistroKid Quick-Copy Sheet
+# Radio Silence - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Radio Silence
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Radio Silence
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Radio Silence
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Rock, B-Sides, Rarities
 * **Real-World DSP Release Date:** 2026-10-11

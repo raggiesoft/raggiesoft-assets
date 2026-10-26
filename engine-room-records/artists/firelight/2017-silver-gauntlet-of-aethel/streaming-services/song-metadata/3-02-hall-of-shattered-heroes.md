@@ -1,7 +1,9 @@
-# Hall of Shattered Heroes - DistroKid Quick-Copy Sheet
+# Hall of Shattered Heroes - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Hall of Shattered Heroes
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Hall of Shattered Heroes
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Hall of Shattered Heroes
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-09

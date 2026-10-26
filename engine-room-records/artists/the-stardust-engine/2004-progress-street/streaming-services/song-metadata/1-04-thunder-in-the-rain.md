@@ -1,7 +1,9 @@
-# Thunder in the Rain - DistroKid Quick-Copy Sheet
+# Thunder in the Rain - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Thunder in the Rain
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Thunder in the Rain
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Thunder in the Rain
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s AOR / Stadium Rock / Synth-Rock
 * **Real-World DSP Release Date:** 2026-10-15

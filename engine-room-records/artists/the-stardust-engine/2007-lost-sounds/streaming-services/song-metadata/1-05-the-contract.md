@@ -1,7 +1,9 @@
-# The Contract - DistroKid Quick-Copy Sheet
+# The Contract - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Contract
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Contract
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Contract
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Rock, B-Sides, Rarities
 * **Real-World DSP Release Date:** 2026-10-11

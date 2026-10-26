@@ -1,7 +1,9 @@
-# Quiet on the Set - DistroKid Quick-Copy Sheet
+# Quiet on the Set - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Quiet on the Set
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Quiet on the Set
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Quiet on the Set
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Synth-Pop
 * **Real-World DSP Release Date:** 2026-03-31

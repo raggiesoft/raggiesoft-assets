@@ -5,7 +5,7 @@ A scorching 146 BPM 1980s hard-AOR guitar anthem celebrating thirty years of fie
 
 [Intro]
 (Blistering 146 BPM overdriven 1980s electric guitar riff in D Minor)
-(Driving analog Hammond-style organ and polyphonic synth stabs)
+(Driving analog tonewheel organ and polyphonic synth stabs)
 (Galloping bassline and rapid-fire gated-reverb drums kick in)
 
 [Verse 1]

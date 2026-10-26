@@ -1,7 +1,9 @@
-# The Bridge of a Thousand Truths - DistroKid Quick-Copy Sheet
+# The Bridge of a Thousand Truths - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Bridge of a Thousand Truths
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Bridge of a Thousand Truths
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Bridge of a Thousand Truths
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-09

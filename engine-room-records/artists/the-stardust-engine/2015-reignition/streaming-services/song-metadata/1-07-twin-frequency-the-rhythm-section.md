@@ -1,10 +1,12 @@
-# Twin Frequency: The Rhythm Section - DistroKid Quick-Copy Sheet
+# Twin Frequency: The Rhythm Section - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Twin Frequency: The Rhythm Section
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Twin Frequency: The Rhythm Section
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Twin Frequency: The Rhythm Section
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 1980s AOR / Melodic Stadium Rock / 80s Cosmic Pop
-* **Real-World DSP Release Date:** 2026-10-25
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**

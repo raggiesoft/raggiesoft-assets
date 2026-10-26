@@ -1,7 +1,9 @@
-# Brother's Keeper - DistroKid Quick-Copy Sheet
+# Brother's Keeper - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Brother's Keeper
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Brother's Keeper
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Brother's Keeper
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Singer / Songwriter
 * **Real-World DSP Release Date:** 2026-10-16

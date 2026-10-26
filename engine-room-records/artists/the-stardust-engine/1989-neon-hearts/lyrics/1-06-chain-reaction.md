@@ -4,46 +4,47 @@ The start of the "Side B Rebellion." After an A-Side full of studio-mandated syn
 **LYRICS:**
 
 (Verse 1)
-Been counting the days in this neon cage
-Smiling for the cameras on a plastic stage
-They turned the synths up, drowned the sound
-But you can't keep a good thing down
+Another day, another line to say
+They're trying to wash the real me away
+But there's a fire, a burning sound
+You can't keep a good thing down
 
 (Chorus)
-We're gonna break the walls tonight! (Yeah!)
-Turn up the volume, hit the light!
-No more whispers, time to shout
-The Engine's roaring, let it out!
+It's a chain reaction! (Oh-oh)
+I can't be contained
+Starting up a fire that can't be explained
+A chain reaction!
+It's time to break the mold
+A story that's about to be told!
 
-(Verse 2)
-I'm tired of the glitter, tired of the gloss
-Tired of the suits who think they're the boss
-This guitar is loaded, it's ready to scream
-Waking up from their pretty dream
-
-(Chorus)
-We're gonna break the walls tonight! (Yeah!)
-Turn up the volume, hit the light!
-No more whispers, time to shout
-The Engine's roaring, let it out!
-
-(Guitar Solo)
+(Guitar Solo 1)
 (A blistering, technical, shredding solo that Ryan fought to keep on the record)
 
-(Bridge)
-For every kid who feels the same
-Trapped in a world, playing their game
-This one's for you, this one's for me
-Time to be free!
+(Verse 2)
+This plastic world is gonna crack
+I'm never ever looking back
+I'm turning up my guitar loud
+I'm gonna stand out from the crowd
 
 (Chorus)
-We're gonna break the walls tonight! (Yeah!)
-Turn up the volume, hit the light!
-No more whispers, time to shout
-The Engine's roaring, let it out!
+A chain reaction!
+I can't be contained
+Starting up a fire that can't be explained
+A chain reaction!
+It's time to break the mold
+A story that's about to be told!
+
+(Guitar Solo 2)
+(Extended technical guitar solo)
+
+(Chorus)
+A chain reaction!
+I can't be contained
+Starting up a fire that can't be explained
+A chain reaction!
+It's time to break the mold
+A story that's about to be told!
 
 (Outro)
-Let it out!
-Break the walls!
-C'mon!
+Chain reaction...
 (fades on a hanging guitar chord)

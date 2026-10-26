@@ -1,7 +1,9 @@
-# Goldilocks Zone - DistroKid Quick-Copy Sheet
+# Goldilocks Zone - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Goldilocks Zone
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Goldilocks Zone
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Goldilocks Zone
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Atmospheric Synth-Pop / Ambient / Space Rock
 * **Real-World DSP Release Date:** 2026-08-17

@@ -1,7 +1,9 @@
-# The Fortress - DistroKid Quick-Copy Sheet
+# The Fortress - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Fortress
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Fortress
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Fortress
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Prog Rock / Space Rock
 * **Real-World DSP Release Date:** 2026-04-03

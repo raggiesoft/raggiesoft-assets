@@ -1,7 +1,9 @@
-# Starlight Love (End Credits) - DistroKid Quick-Copy Sheet
+# Starlight Love (End Credits) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Starlight Love (End Credits)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Starlight Love (End Credits)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Starlight Love (End Credits)
 * **Primary Artist:** Firelight
 * **Genre:** 80s Pop / Soundtrack
 * **Real-World DSP Release Date:** 2026-04-02

@@ -6,7 +6,7 @@
 * **ID3 / Vorbis Tagged Title:** Reignition: Lights Up on Progress Street
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 1980s AOR / Melodic Stadium Rock / 80s Cosmic Pop
-* **Real-World DSP Release Date:** 2026-10-25
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**

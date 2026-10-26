@@ -1,7 +1,9 @@
-# Seconds Into Forever - DistroKid Quick-Copy Sheet
+# Seconds Into Forever - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Seconds Into Forever
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Seconds Into Forever
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Seconds Into Forever
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s AOR / Stadium Rock / Synth-Rock
 * **Real-World DSP Release Date:** 2026-10-15

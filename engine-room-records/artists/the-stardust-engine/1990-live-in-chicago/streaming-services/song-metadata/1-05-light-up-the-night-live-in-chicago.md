@@ -1,7 +1,9 @@
-# Light Up the Night (Live in Chicago) - DistroKid Quick-Copy Sheet
+# Light Up the Night (Live in Chicago) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Light Up the Night (Live in Chicago)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Light Up the Night
+* **Version:** Live in Chicago
+* **ID3 / Vorbis Tagged Title:** Light Up the Night (Live in Chicago)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Rock
 * **Real-World DSP Release Date:** 2026-04-01

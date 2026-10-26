@@ -1,7 +1,9 @@
-# Hard Reset - DistroKid Quick-Copy Sheet
+# Hard Reset - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Hard Reset
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Hard Reset
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Hard Reset
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Arena Rock / Progressive Pop
 * **Real-World DSP Release Date:** 2026-04-05

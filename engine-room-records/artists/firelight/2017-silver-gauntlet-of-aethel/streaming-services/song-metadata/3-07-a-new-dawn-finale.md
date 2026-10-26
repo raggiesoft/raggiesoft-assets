@@ -1,7 +1,9 @@
-# A New Dawn (Finale) - DistroKid Quick-Copy Sheet
+# A New Dawn (Finale) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** A New Dawn (Finale)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** A New Dawn (Finale)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** A New Dawn (Finale)
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-09

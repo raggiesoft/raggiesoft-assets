@@ -1,7 +1,9 @@
-# Running on the Edge - DistroKid Quick-Copy Sheet
+# Running on the Edge - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Running on the Edge
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Running on the Edge
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Running on the Edge
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Synth-Rock
 * **Real-World DSP Release Date:** 2026-03-29

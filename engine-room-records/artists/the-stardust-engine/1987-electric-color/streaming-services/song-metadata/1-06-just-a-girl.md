@@ -1,7 +1,9 @@
-# Just a Girl - DistroKid Quick-Copy Sheet
+# Just a Girl - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Just a Girl
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Just a Girl
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Just a Girl
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Synth-Rock
 * **Real-World DSP Release Date:** 2026-03-29

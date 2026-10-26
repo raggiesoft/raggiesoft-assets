@@ -1,7 +1,9 @@
-# Terminal Velvet - DistroKid Quick-Copy Sheet
+# Terminal Velvet - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Terminal Velvet
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Terminal Velvet
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Terminal Velvet
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s New Wave / Darkwave / Synth-Pop
 * **Real-World DSP Release Date:** 2026-05-01

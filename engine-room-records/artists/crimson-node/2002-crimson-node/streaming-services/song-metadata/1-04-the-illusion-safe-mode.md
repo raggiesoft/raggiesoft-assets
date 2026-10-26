@@ -1,10 +1,12 @@
-# The Illusion: Syntax Error - DistroKid Quick-Copy Sheet
+# The Illusion: Syntax Error - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Illusion: Syntax Error
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Illusion: Syntax Error
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Illusion: Syntax Error
 * **Primary Artist:** Crimson Node
 * **Genre:** 1980s Pop & Rock / Synth-Prog
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6J52643489
 
 **DistroKid AI Credits Questionnaire:**

@@ -1,10 +1,12 @@
-# Paired Devices - DistroKid Quick-Copy Sheet
+# Paired Devices - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Paired Devices
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Paired Devices
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Paired Devices
 * **Primary Artist:** Crimson Node
 * **Genre:** 1980s Pop & Rock / Synth-Prog
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6J52643494
 
 **DistroKid AI Credits Questionnaire:**

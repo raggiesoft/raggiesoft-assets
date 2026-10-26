@@ -1,7 +1,9 @@
-# Shadows on the Slate - DistroKid Quick-Copy Sheet
+# Shadows on the Slate - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Shadows on the Slate
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Shadows on the Slate
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Shadows on the Slate
 * **Primary Artist:** Fractured Prisms
 * **Genre:** Progressive Pop / Gothic Synth-Rock Opera
 * **Real-World DSP Release Date:** 2026-10-15

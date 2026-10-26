@@ -1,7 +1,9 @@
-# Dancing in the Neon - DistroKid Quick-Copy Sheet
+# Dancing in the Neon - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Dancing in the Neon
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Dancing in the Neon
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Dancing in the Neon
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Arena Rock / Progressive Pop
 * **Real-World DSP Release Date:** 2026-04-14

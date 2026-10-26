@@ -1,7 +1,9 @@
-# Our Own Frequency - DistroKid Quick-Copy Sheet
+# Our Own Frequency - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Our Own Frequency
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Our Own Frequency
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Our Own Frequency
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Singer / Songwriter
 * **Real-World DSP Release Date:** 2026-10-16

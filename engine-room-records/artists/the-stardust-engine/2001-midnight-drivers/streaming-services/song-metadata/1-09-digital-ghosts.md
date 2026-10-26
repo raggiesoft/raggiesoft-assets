@@ -1,7 +1,9 @@
-# Digital Ghosts - DistroKid Quick-Copy Sheet
+# Digital Ghosts - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Digital Ghosts
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Digital Ghosts
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Digital Ghosts
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s New Wave / Darkwave / Synth-Pop
 * **Real-World DSP Release Date:** 2026-05-01

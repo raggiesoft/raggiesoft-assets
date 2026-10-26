@@ -1,7 +1,9 @@
-# The Tyrant's Throne (Shadow's Heart) - DistroKid Quick-Copy Sheet
+# The Tyrant's Throne (Shadow's Heart) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Tyrant's Throne (Shadow's Heart)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Tyrant's Throne (Shadow's Heart)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Tyrant's Throne (Shadow's Heart)
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-09

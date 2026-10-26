@@ -1,10 +1,12 @@
-# 99.8 (The Fever) - DistroKid Quick-Copy Sheet
+# 99.8 (The Fever) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** 99.8 (The Fever)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** 99.8 (The Fever)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** 99.8 (The Fever)
 * **Primary Artist:** The Paper Wall
 * **Genre:** 80s Pop / Synthwave / Rock Opera
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2652204
 
 **DistroKid AI Credits Questionnaire:**

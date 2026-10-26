@@ -29,9 +29,10 @@
 * **Version:** None (Leave Blank on DSP)
 * **ID3 / Vorbis Tagged Title:** `A Sister's Love (Main Theme)`
 * **ISRC:** QTAHP2600020
-* **Duration:** 4:19 • **Instrumental:** Yes • **Explicit:** No
+* **Duration:** 4:19 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2025-silver-gauntlet-of-aethel/vault/wav/1-01-a-sisters-love.wav` (✅ Ready)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-a-sisters-love.txt`
 
 2. [Disc 1 • Track 2] The Scholar of the Twin Suns
 * **Name:** The Scholar of the Twin Suns
@@ -101,9 +102,10 @@
 * **Version:** None (Leave Blank on DSP)
 * **ID3 / Vorbis Tagged Title:** `One Step at a Time (The Gauntlet's Path)`
 * **ISRC:** QTAHP2600021
-* **Duration:** 4:11 • **Instrumental:** Yes • **Explicit:** No
+* **Duration:** 4:11 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2025-silver-gauntlet-of-aethel/vault/wav/1-09-one-step-at-a-time.wav` (✅ Ready)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/1-09-one-step-at-a-time.txt`
 
 10. [Disc 1 • Track 10] Sunken City of Sorrows
 * **Name:** Sunken City of Sorrows
@@ -164,9 +166,10 @@
 * **Version:** None (Leave Blank on DSP)
 * **ID3 / Vorbis Tagged Title:** `The Tyrant's Throne (Shadow's Heart)`
 * **ISRC:** QTAHP2600022
-* **Duration:** 7:06 • **Instrumental:** Yes • **Explicit:** No
+* **Duration:** 7:06 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2025-silver-gauntlet-of-aethel/vault/wav/2-05-the-tyrants-throne.wav` (✅ Ready)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/2-05-the-tyrants-throne.txt`
 
 17. [Disc 2 • Track 6] Sacrifice or Queen?
 * **Name:** Sacrifice or Queen?

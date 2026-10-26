@@ -1,7 +1,9 @@
-# Running on Redline - DistroKid Quick-Copy Sheet
+# Running on Redline - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Running on Redline
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Running on Redline
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Running on Redline
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s AOR / Stadium Rock / Synth-Rock
 * **Real-World DSP Release Date:** 2026-10-15

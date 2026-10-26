@@ -1,10 +1,12 @@
-# The Cut Cord (No Service) - DistroKid Quick-Copy Sheet
+# The Cut Cord (No Service) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Cut Cord (No Service)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Cut Cord (No Service)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Cut Cord (No Service)
 * **Primary Artist:** The Paper Wall
 * **Genre:** Electronic / Narrative / Rock Opera
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2673232
 
 **DistroKid AI Credits Questionnaire:**

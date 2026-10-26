@@ -1,10 +1,12 @@
-# Blind Faith - DistroKid Quick-Copy Sheet
+# Blind Faith - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Blind Faith
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Blind Faith
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Blind Faith
 * **Primary Artist:** The Arctic Symphony Project
 * **Genre:** Symphonic Rock / Rock Opera / Holiday
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**

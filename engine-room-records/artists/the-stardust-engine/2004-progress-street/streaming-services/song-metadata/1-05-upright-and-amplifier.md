@@ -1,7 +1,9 @@
-# Upright & Amplifier - DistroKid Quick-Copy Sheet
+# Upright & Amplifier - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Upright & Amplifier
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Upright & Amplifier
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Upright & Amplifier
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s AOR / Stadium Rock / Synth-Rock
 * **Real-World DSP Release Date:** 2026-10-15

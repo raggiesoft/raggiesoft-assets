@@ -1,7 +1,9 @@
-# The Ascent - DistroKid Quick-Copy Sheet
+# The Ascent - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Ascent
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Ascent
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Ascent
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-05-08

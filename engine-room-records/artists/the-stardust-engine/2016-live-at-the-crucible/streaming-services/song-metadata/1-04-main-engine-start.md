@@ -1,10 +1,12 @@
-# Main Engine Start - DistroKid Quick-Copy Sheet
+# Main Engine Start (Live at the Crucible) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Main Engine Start
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Main Engine Start
+* **Version:** Live at the Crucible
+* **ID3 / Vorbis Tagged Title:** Main Engine Start (Live at the Crucible)
 * **Primary Artist:** The Stardust Engine
-* **Genre:** Live Stadium Rock / 1980s AOR / Collegiate Marching Band Rock
-* **Real-World DSP Release Date:** 2026-10-25
+* **Genre:** Live Stadium Rock / 1980s AOR / Progressive Symphonic Space-Rock / Collegiate Marching Band Rock
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**

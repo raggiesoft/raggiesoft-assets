@@ -1,7 +1,9 @@
-# Homeward on This Day - DistroKid Quick-Copy Sheet
+# Homeward on This Day - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Homeward on This Day
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Homeward on This Day
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Homeward on This Day
 * **Primary Artist:** The Arctic Symphony Project
 * **Genre:** Symphonic Rock / Christmas
 * **Real-World DSP Release Date:** 2026-10-04

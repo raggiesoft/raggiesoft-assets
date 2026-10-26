@@ -1,7 +1,9 @@
-# Side by Side - DistroKid Quick-Copy Sheet
+# Side by Side - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Side by Side
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Side by Side
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Side by Side
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Synth-Pop
 * **Real-World DSP Release Date:** 2026-03-31

@@ -1,7 +1,9 @@
-# Foundlings of Sunstead - DistroKid Quick-Copy Sheet
+# Foundlings of Sunstead - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Foundlings of Sunstead
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Foundlings of Sunstead
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Foundlings of Sunstead
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-09

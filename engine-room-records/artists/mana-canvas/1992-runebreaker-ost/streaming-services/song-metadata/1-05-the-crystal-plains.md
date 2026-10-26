@@ -1,10 +1,12 @@
-# The Crystal Plains - DistroKid Quick-Copy Sheet
+# The Crystal Plains - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Crystal Plains
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Crystal Plains
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Crystal Plains
 * **Primary Artist:** Mana Canvas
 * **Genre:** 16-bit Ambient / SPC-700
-* **Real-World DSP Release Date:** 2026-10-19
+* **Real-World DSP Release Date:** 2026-10-23
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTA7V2622549
 
 **DistroKid AI Credits Questionnaire:**

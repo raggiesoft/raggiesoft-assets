@@ -1,7 +1,9 @@
-# Embers of Hope - DistroKid Quick-Copy Sheet
+# Embers of Hope - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Embers of Hope
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Embers of Hope
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Embers of Hope
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-09

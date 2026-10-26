@@ -1,7 +1,9 @@
-# My Anchor Holds - DistroKid Quick-Copy Sheet
+# My Anchor Holds - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** My Anchor Holds
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** My Anchor Holds
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** My Anchor Holds
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Synth-Rock
 * **Real-World DSP Release Date:** 2026-03-29

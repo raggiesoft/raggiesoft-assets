@@ -1,7 +1,9 @@
-# Another Night - DistroKid Quick-Copy Sheet
+# Another Night - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Another Night
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Another Night
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Another Night
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Synth-Rock
 * **Real-World DSP Release Date:** 2026-03-29

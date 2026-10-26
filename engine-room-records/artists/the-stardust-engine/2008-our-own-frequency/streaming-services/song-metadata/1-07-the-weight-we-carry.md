@@ -1,7 +1,9 @@
-# The Weight We Carry - DistroKid Quick-Copy Sheet
+# The Weight We Carry - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Weight We Carry
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Weight We Carry
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Weight We Carry
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Singer / Songwriter
 * **Real-World DSP Release Date:** 2026-10-16

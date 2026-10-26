@@ -1,32 +1,33 @@
-The curvature is turning violet and gold
-The greatest story that we ever told
-We're gliding past the edge of the planetary light
-Where the atmosphere gives way to the infinite night
 
-Out on the horizon line
-Where the earth and the heavens align
-Leaving terrestrial time behind
-Out on the horizon line
+[female] The curvature is turning violet and gold
+[female] The greatest story that we ever told
+[male] We're gliding past the edge of the planetary light
+[male] Where the atmosphere gives way to the infinite night
 
-The old static is fading away
-We're rising above the noise of the day
-The engine hums a frequency crystal clear
-Perfect orbital equilibrium is here
+[female] Out on the horizon line
+[male] Where the earth and the heavens align
+[female] Leaving terrestrial time behind
+[male] Out on the horizon line
 
-Out on the horizon line
-Where the earth and the heavens align
-Leaving terrestrial time behind
-Out on the horizon line
+[male] The old static is fading away
+[male] We're rising above the noise of the day
+[female] The engine hums a frequency crystal clear
+[female] Perfect orbital equilibrium is here
 
-The colors bloom, the shadows fall
-We're suspended at the crest of it all
-We hold the note, we hold the breath
-Above the world, beyond the rest
+[female] Out on the horizon line
+[male] Where the earth and the heavens align
+[female] Leaving terrestrial time behind
+[male] Out on the horizon line
 
-Out on the horizon line
-Where the earth and the heavens align
-Leaving terrestrial time behind
-Out on the horizon line
+[female] The colors bloom, the shadows fall
+[male] We're suspended at the crest of it all
+[female] We hold the note, we hold the breath
+[male] Above the world, beyond the rest
 
-The horizon line
-Where the heavens align
+[female] Out on the horizon line
+[male] Where the earth and the heavens align
+[female] Leaving terrestrial time behind
+[male] Out on the horizon line
+
+[female] The horizon line
+[male] Where the heavens align

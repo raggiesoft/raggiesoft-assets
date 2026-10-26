@@ -1,7 +1,9 @@
-# A Sister's Love (Main Theme) - DistroKid Quick-Copy Sheet
+# A Sister's Love (Main Theme) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** A Sister's Love (Main Theme)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** A Sister's Love (Main Theme)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** A Sister's Love (Main Theme)
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-09

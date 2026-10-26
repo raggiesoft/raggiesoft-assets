@@ -1,10 +1,12 @@
-# The Boy Inside - DistroKid Quick-Copy Sheet
+# The Boy Inside - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Boy Inside
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Boy Inside
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Boy Inside
 * **Primary Artist:** The Paper Wall
 * **Genre:** 80s Rock / New Wave / Heartland Rock
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2658745
 
 **DistroKid AI Credits Questionnaire:**

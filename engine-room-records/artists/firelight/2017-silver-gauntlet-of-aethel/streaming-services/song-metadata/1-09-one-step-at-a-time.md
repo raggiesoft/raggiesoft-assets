@@ -1,7 +1,9 @@
-# One Step at a Time (The Gauntlet's Path) - DistroKid Quick-Copy Sheet
+# One Step at a Time (The Gauntlet's Path) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** One Step at a Time (The Gauntlet's Path)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** One Step at a Time (The Gauntlet's Path)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** One Step at a Time (The Gauntlet's Path)
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-09

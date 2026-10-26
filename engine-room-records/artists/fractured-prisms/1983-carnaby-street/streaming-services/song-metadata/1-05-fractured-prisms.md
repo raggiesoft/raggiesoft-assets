@@ -1,7 +1,9 @@
-# Fractured Prisms - DistroKid Quick-Copy Sheet
+# Fractured Prisms - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Fractured Prisms
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Fractured Prisms
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Fractured Prisms
 * **Primary Artist:** Fractured Prisms
 * **Genre:** Progressive Rock / Art Pop
 * **Real-World DSP Release Date:** 2026-04-17

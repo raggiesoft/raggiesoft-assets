@@ -1,7 +1,9 @@
-# Safe Person - DistroKid Quick-Copy Sheet
+# Safe Person - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Safe Person
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Safe Person
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Safe Person
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Singer / Songwriter
 * **Real-World DSP Release Date:** 2026-10-16

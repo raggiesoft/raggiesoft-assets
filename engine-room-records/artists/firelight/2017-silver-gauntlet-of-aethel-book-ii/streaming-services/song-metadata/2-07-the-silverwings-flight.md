@@ -1,7 +1,9 @@
-# The Silverwing's Flight - DistroKid Quick-Copy Sheet
+# The Silverwing's Flight - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Silverwing's Flight
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Silverwing's Flight
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Silverwing's Flight
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-24

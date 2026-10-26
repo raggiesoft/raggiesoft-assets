@@ -1,10 +1,12 @@
-# 165 to Burien - DistroKid Quick-Copy Sheet
+# 165 to Burien - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** 165 to Burien
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** 165 to Burien
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** 165 to Burien
 * **Primary Artist:** The Paper Wall
 * **Genre:** Rock Opera / Industrial / 80s Pop
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2647813
 
 **DistroKid AI Credits Questionnaire:**

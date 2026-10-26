@@ -69,9 +69,10 @@
 * **Version:** None (Leave Blank on DSP)
 * **ID3 / Vorbis Tagged Title:** `Running on the Edge`
 * **ISRC:** QZTB52600723
-* **Duration:** 4:00 • **Instrumental:** Yes • **Explicit:** No
+* **Duration:** 4:00 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-05-running-on-the-edge.wav` (✅ Ready)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/1-05-running-on-the-edge.txt`
 
 6. Just a Girl
 * **Name:** Just a Girl

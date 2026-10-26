@@ -1,10 +1,12 @@
-# Guardian of the Gate - DistroKid Quick-Copy Sheet
+# Guardian of the Gate - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Guardian of the Gate
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Guardian of the Gate
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Guardian of the Gate
 * **Primary Artist:** Mana Canvas
 * **Genre:** 16-bit Ambient / SPC-700
-* **Real-World DSP Release Date:** 2026-10-19
+* **Real-World DSP Release Date:** 2026-10-23
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTA7V2622560
 
 **DistroKid AI Credits Questionnaire:**

@@ -6,7 +6,7 @@
 * **ID3 / Vorbis Tagged Title:** Hoshizora no Uta (Song of the Starry Sky) (English Version)
 * **Primary Artist:** The Hoshizora Ensemble
 * **Genre:** 70s Japanese Folk-Pop / City Pop / Maritime Acoustic
-* **Real-World DSP Release Date:** 2026-10-25
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTAHP2600002
 
 **DistroKid AI Credits Questionnaire:**

@@ -1,5 +1,5 @@
 **LORE NOTE:**
-Thematically answering the sign-off of 2004's "Last Bus Home: Lights Out on Progress Street" ("Lights out on Progress Street... Goodnight, Forger Nation"), the opening anthem of 2015's *Reignition* celebrates the end of the band's decade-long **2005–2014 Burnout Hiatus**. Opening with warm acoustic piano chords that erupt into Cassidy's bright Roland Juno-106 analog brass fanfare, Tyler's booming gated-reverb snare, Evan's driving eighth-note bassline, and Ryan's soaring electric guitar, it marks the family's triumphant return to full-throttle 1980s AOR studio rock.
+Thematically answering the sign-off of 2004's "Last Bus Home: Lights Out on Progress Street" ("Lights out on Progress Street... Goodnight, Forger Nation"), the opening anthem of 2015's *Reignition* celebrates the end of the band's decade-long **2005–2014 Burnout Hiatus**. Opening with warm acoustic piano chords that erupt into Cassidy's bright analog polyphonic analog brass fanfare, Tyler's booming gated-reverb snare, Evan's driving eighth-note bassline, and Ryan's soaring electric guitar, it marks the family's triumphant return to full-throttle 1980s AOR studio rock.
 
 **LYRICS:**
 

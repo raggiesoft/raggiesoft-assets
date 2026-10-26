@@ -1,10 +1,12 @@
-# Inappropriate (The Opt-Out) - DistroKid Quick-Copy Sheet
+# Inappropriate (The Opt-Out) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Inappropriate (The Opt-Out)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Inappropriate (The Opt-Out)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Inappropriate (The Opt-Out)
 * **Primary Artist:** The Paper Wall
 * **Genre:** Electronic / Narrative / Rock Opera
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2673222
 
 **DistroKid AI Credits Questionnaire:**

@@ -1,7 +1,9 @@
-# The Overpass - DistroKid Quick-Copy Sheet
+# The Overpass - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Overpass
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Overpass
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Overpass
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s New Wave / Darkwave / Synth-Pop
 * **Real-World DSP Release Date:** 2026-05-01

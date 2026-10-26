@@ -1,7 +1,9 @@
-# The Abduction - DistroKid Quick-Copy Sheet
+# The Abduction - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Abduction
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Abduction
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Abduction
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-24

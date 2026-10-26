@@ -1,7 +1,9 @@
-# Neon Hearts (Acoustic Sketch) - DistroKid Quick-Copy Sheet
+# Neon Hearts (Acoustic Sketch) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Neon Hearts (Acoustic Sketch)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Neon Hearts
+* **Version:** Acoustic Sketch
+* **ID3 / Vorbis Tagged Title:** Neon Hearts (Acoustic Sketch)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Rock, B-Sides, Rarities
 * **Real-World DSP Release Date:** 2026-10-11

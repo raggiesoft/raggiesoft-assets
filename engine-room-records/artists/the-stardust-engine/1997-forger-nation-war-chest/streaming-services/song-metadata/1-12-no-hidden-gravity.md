@@ -1,7 +1,9 @@
-# No Hidden Gravity - DistroKid Quick-Copy Sheet
+# No Hidden Gravity - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** No Hidden Gravity
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** No Hidden Gravity
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** No Hidden Gravity
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Arena Rock / Progressive Pop
 * **Real-World DSP Release Date:** 2026-04-14

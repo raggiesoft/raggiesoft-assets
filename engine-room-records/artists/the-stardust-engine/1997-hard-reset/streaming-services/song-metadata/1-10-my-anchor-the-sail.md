@@ -1,7 +1,9 @@
-# My Anchor (The Sail) - DistroKid Quick-Copy Sheet
+# My Anchor (The Sail) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** My Anchor (The Sail)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** My Anchor (The Sail)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** My Anchor (The Sail)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Arena Rock / Progressive Pop
 * **Real-World DSP Release Date:** 2026-04-05

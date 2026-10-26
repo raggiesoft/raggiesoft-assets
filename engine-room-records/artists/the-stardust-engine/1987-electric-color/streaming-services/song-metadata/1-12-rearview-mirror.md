@@ -1,7 +1,9 @@
-# Rearview Mirror - DistroKid Quick-Copy Sheet
+# Rearview Mirror - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Rearview Mirror
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Rearview Mirror
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Rearview Mirror
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Synth-Rock
 * **Real-World DSP Release Date:** 2026-03-29

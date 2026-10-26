@@ -1,10 +1,12 @@
-# Stranded (A Real College Kid) - DistroKid Quick-Copy Sheet
+# Stranded (A Real College Kid) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Stranded (A Real College Kid)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Stranded (A Real College Kid)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Stranded (A Real College Kid)
 * **Primary Artist:** The Paper Wall
 * **Genre:** Electronic / Narrative / Rock Opera
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2673225
 
 **DistroKid AI Credits Questionnaire:**

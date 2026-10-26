@@ -1,7 +1,9 @@
-# The Twin Suns' Hearth (Epilogue) - DistroKid Quick-Copy Sheet
+# The Twin Suns' Hearth (Epilogue) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Twin Suns' Hearth (Epilogue)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Twin Suns' Hearth (Epilogue)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Twin Suns' Hearth (Epilogue)
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-05-08

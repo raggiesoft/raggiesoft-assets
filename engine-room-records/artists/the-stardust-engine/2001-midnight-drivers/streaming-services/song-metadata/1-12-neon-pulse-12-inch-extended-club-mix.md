@@ -1,7 +1,9 @@
-# Neon Pulse (12" Extended Club Mix) - DistroKid Quick-Copy Sheet
+# Neon Pulse (12" Extended Club Mix) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Neon Pulse (12" Extended Club Mix)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Neon Pulse
+* **Version:** 12" Extended Club Mix
+* **ID3 / Vorbis Tagged Title:** Neon Pulse (12" Extended Club Mix)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s New Wave / Darkwave / Synth-Pop
 * **Real-World DSP Release Date:** 2026-05-01

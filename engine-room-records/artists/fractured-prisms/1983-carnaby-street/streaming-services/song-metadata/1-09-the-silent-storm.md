@@ -1,7 +1,9 @@
-# The Silent Storm - DistroKid Quick-Copy Sheet
+# The Silent Storm - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Silent Storm
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Silent Storm
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Silent Storm
 * **Primary Artist:** Fractured Prisms
 * **Genre:** Progressive Rock / Art Pop
 * **Real-World DSP Release Date:** 2026-04-17

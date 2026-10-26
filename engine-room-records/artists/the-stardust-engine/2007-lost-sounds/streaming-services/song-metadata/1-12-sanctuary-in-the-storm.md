@@ -1,7 +1,9 @@
-# Sanctuary in the Storm - DistroKid Quick-Copy Sheet
+# Sanctuary in the Storm - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Sanctuary in the Storm
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Sanctuary in the Storm
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Sanctuary in the Storm
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Rock, B-Sides, Rarities
 * **Real-World DSP Release Date:** 2026-10-11

@@ -1,10 +1,12 @@
-# The Clearance Protocol - DistroKid Quick-Copy Sheet
+# The Clearance Protocol - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Clearance Protocol
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Clearance Protocol
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Clearance Protocol
 * **Primary Artist:** Crimson Node
 * **Genre:** 1980s Pop & Rock / Synth-Prog
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6J52643499
 
 **DistroKid AI Credits Questionnaire:**

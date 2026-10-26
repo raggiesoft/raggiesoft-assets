@@ -6,7 +6,7 @@
 * **ID3 / Vorbis Tagged Title:** The Flight Path (feat. Crimson Node) (Live at the Chancellery)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Arena Rock / 1980s Synth-Rock
-* **Real-World DSP Release Date:** 2026-10-25
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTAHP2600025
 
 **DistroKid AI Credits Questionnaire:**

@@ -1,7 +1,9 @@
-# Atmosphere (1992 Demo) - DistroKid Quick-Copy Sheet
+# Atmosphere (1992 Demo) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Atmosphere (1992 Demo)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Atmosphere
+* **Version:** 1992 Demo
+* **ID3 / Vorbis Tagged Title:** Atmosphere (1992 Demo)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Prog Rock / Space Rock
 * **Real-World DSP Release Date:** 2026-04-03

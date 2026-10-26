@@ -1,6 +1,6 @@
 
 # The Stardust Engine - Master Discography & Lore
-Compiled on: 10-25-2026 10:30:41 PM
+Compiled on: 10-26-2026 06:02:44 AM
 
 # Electric Color (1987)
 * **Narrative Era:** 1987
@@ -215,7 +215,59 @@ Dancing in the neon... (Oh-oh, oh-oh)
 'Til the night is gone...
 (fades)
 ## Running on the Edge
-*(Instrumental / Structure-Only Track)*
+### Lore
+Another protest song. Ryan sings about being a "shadow in the light" and having his guitar suppressed ("This keyboard hook is all a bore / I know this guitar's made for more"). It features angsty, anti-corporate lyrics hidden inside a "safe" pop-rock wrapper.
+
+### Lyrics
+
+(Verse 1)
+Another day, another show
+They tell me which way the wind should blow
+I'm smiling 'til my face is numb
+Waiting for the day to come
+
+(Pre-Chorus)
+I can hear a different sound
+A rumble starting underground
+This pretty world is gonna break
+How much more can I take?
+
+(Chorus)
+I'm running on the edge, about to lose control (Oh-oh-oh)
+Trying to save my rock and roll soul
+I'm running on the edge, a shadow in the light (Oh-oh-oh)
+Gonna break out into the night!
+
+(Verse 2)
+This keyboard hook is all a bore
+I know this guitar's made for more
+I want to feel the fire and grit
+I'm getting really sick of it
+
+(Pre-Chorus)
+I can hear a different sound
+A rumble starting underground
+This pretty world is gonna break
+How much more can I take?
+
+(Chorus)
+I'm running on the edge, about to lose control (Oh-oh-oh)
+Trying to save my rock and roll soul
+I'm running on the edge, a shadow in the light (Oh-oh-oh)
+Gonna break out into the night!
+
+(Guitar Solo)
+
+(Chorus)
+I'm running on the edge, about to lose control (Oh-oh-oh)
+Trying to save my rock and roll soul
+I'm running on the edge, a shadow in the light (Oh-oh-oh)
+Gonna break out into the night!
+
+(Outro)
+Running on the edge...
+Running on the edge...
+(fades)
 
 ## Just a Girl
 ### Lore
@@ -701,7 +753,7 @@ My neon heart...
 (fades out)
 ## Hollow Sound
 ### Lore
-Ryan's act of "malicious compliance." He delivered the requested synth-pop sound but made the track **5:31 long**—knowing it was too long for radio—and included the protest line, "They're all afraid of the burning cross" (a reference to the canceled "Promise" single). [cite_start]It stands as a middle finger to the studio's "safe" direction.
+Ryan's act of "malicious compliance." He delivered the requested synth-pop sound but made the track **5:31 long**—knowing it was too long for radio—and included the protest line, "They're all afraid of the burning cross" (a reference to the canceled "Promise" single). It stands as a middle finger to the studio's "safe" direction.
 
 ### Lyrics
 
@@ -741,6 +793,8 @@ I'm singing all alone
 
 (Bridge)
 (A very clean, melodic, studio-approved keyboard solo)
+A hollow sound...
+Just a hollow sound...
 
 (Chorus)
 It's just a hollow sound
@@ -749,11 +803,8 @@ But the words are not my own
 It's just a hollow sound
 Another plastic fix
 I'm singing all alone
-
-(Outro)
-A hollow sound...
-Just a hollow sound...
 (fades)
+
 ## Side by Side
 ### Lore
 The studio's furious overcorrection to "Hollow Sound." After Ryan delivered a 5:31 protest track, Apex demanded an absurdly short, safe pop song to balance the runtime and "fix" the album's pacing. The result is this 1:54 "bubblegum" track that feels almost manic in its enforced cheerfulness.
@@ -915,49 +966,51 @@ The start of the "Side B Rebellion." After an A-Side full of studio-mandated syn
 ### Lyrics
 
 (Verse 1)
-Been counting the days in this neon cage
-Smiling for the cameras on a plastic stage
-They turned the synths up, drowned the sound
-But you can't keep a good thing down
+Another day, another line to say
+They're trying to wash the real me away
+But there's a fire, a burning sound
+You can't keep a good thing down
 
 (Chorus)
-We're gonna break the walls tonight! (Yeah!)
-Turn up the volume, hit the light!
-No more whispers, time to shout
-The Engine's roaring, let it out!
+It's a chain reaction! (Oh-oh)
+I can't be contained
+Starting up a fire that can't be explained
+A chain reaction!
+It's time to break the mold
+A story that's about to be told!
 
-(Verse 2)
-I'm tired of the glitter, tired of the gloss
-Tired of the suits who think they're the boss
-This guitar is loaded, it's ready to scream
-Waking up from their pretty dream
-
-(Chorus)
-We're gonna break the walls tonight! (Yeah!)
-Turn up the volume, hit the light!
-No more whispers, time to shout
-The Engine's roaring, let it out!
-
-(Guitar Solo)
+(Guitar Solo 1)
 (A blistering, technical, shredding solo that Ryan fought to keep on the record)
 
-(Bridge)
-For every kid who feels the same
-Trapped in a world, playing their game
-This one's for you, this one's for me
-Time to be free!
+(Verse 2)
+This plastic world is gonna crack
+I'm never ever looking back
+I'm turning up my guitar loud
+I'm gonna stand out from the crowd
 
 (Chorus)
-We're gonna break the walls tonight! (Yeah!)
-Turn up the volume, hit the light!
-No more whispers, time to shout
-The Engine's roaring, let it out!
+A chain reaction!
+I can't be contained
+Starting up a fire that can't be explained
+A chain reaction!
+It's time to break the mold
+A story that's about to be told!
+
+(Guitar Solo 2)
+(Extended technical guitar solo)
+
+(Chorus)
+A chain reaction!
+I can't be contained
+Starting up a fire that can't be explained
+A chain reaction!
+It's time to break the mold
+A story that's about to be told!
 
 (Outro)
-Let it out!
-Break the walls!
-C'mon!
+Chain reaction...
 (fades on a hanging guitar chord)
+
 ## Not Your Doll
 ### Lore
 Cassidy's "fierce side" finally breaking through. Following immediately after "Chain Reaction," this arena rock anthem completes the "Side B Rebellion." In it, Cassidy directly rejects the "Stardust" persona Apex forced upon her. While the studio tried to suppress her "Engine" side, this track became the definitive proof that she could rock just as hard as her brother.
@@ -1061,7 +1114,8 @@ After the laughter...
 (Outro)
 After the laughter...
 Just... quiet...
-(fades out on a single piano note)s
+(fades out on a single piano note)
+
 ## Shadow Dancing
 ### Lore
 The studio strikes back. Immediately following the "rebellion" of Side B's opening tracks, Apex Records moved to crush the momentum. They forced Cassidy back into her "Stardust" persona for this moody, atmospheric synth track, explicitly banning electric guitars from the mix to ensure the album returned to a "safe, marketable" sound before the end.
@@ -1116,7 +1170,7 @@ Shadow dancing...
 (fades)
 ## After the Show
 ### Lore
-Ryan's final laugh. As "punishment" for the heavy rock tracks earlier on Side B, Apex ordered him to close the album with a quiet ballad, explicitly forbidding "pounding drums" on the track sheet. [cite_start]Ryan complied by recording the song using **percussive acoustic guitar**—slapping the body of the instrument to simulate a beat. It was a subtle, rhythmic "middle finger" to the executives who tried to silence the "Engine."
+Ryan's final laugh. As "punishment" for the heavy rock tracks earlier on Side B, Apex ordered him to close the album with a quiet ballad, explicitly forbidding "pounding drums" on the track sheet. Ryan complied by recording the song using **percussive acoustic guitar**—slapping the body of the instrument to simulate a beat. It was a subtle, rhythmic "middle finger" to the executives who tried to silence the "Engine."
 
 ### Lyrics
 
@@ -1144,8 +1198,6 @@ Another day...
 Another way...
 
 (Chorus)
-We're just echoes in the city
-It's not so bad, it's not so pretty
 Just echoes, turning to gray
 We'll come back and fight another day
 
@@ -1153,6 +1205,7 @@ We'll come back and fight another day
 After the show...
 Goodnight...
 (fades out on acoustic guitar)
+
 ## The Promise (Corporate Demo)
 ### Lore
 The exact sound Apex Records wanted: safe, sterile, and perfectly calibrated for a televangelist broadcast. This was the studio's cynical attempt to cash in on the "religious pop" trend. The guitar solo is painfully restrained, engineered specifically not to offend anyone. The entire project was scrapped in a panic by executives after the massive controversy surrounding Cydele's "Worship" video dropped on MTV the very next day.
@@ -4704,7 +4757,7 @@ Ad astra...
 *(Song fades out on a final, sustained, peaceful synthesizer chord)*
 # Hard Reset Live (1999) [LiveAlbum]
 * **Narrative Era:** 1999
-* **Real-World DSP Release:** 2026-10-25
+* **Real-World DSP Release:** 2026-10-26
 
 ## The Stardust Engine (Hard Reset Live)
 ### Lore
@@ -6243,7 +6296,7 @@ According to the lore, Ryan and Cassidy had stepped out of the booth, and the tw
 [Abrupt Stop]
 # Live at the Chancellery (2002) [LiveAlbum]
 * **Narrative Era:** 2002
-* **Real-World DSP Release:** 2026-10-25
+* **Real-World DSP Release:** 2026-10-26
 
 ## The Stardust Engine (Live at the Chancellery)
 ### Lore
@@ -7225,7 +7278,7 @@ Goodnight!
 
 # Live in Virginia Beach (2003) [LiveAlbum]
 * **Narrative Era:** 2003
-* **Real-World DSP Release:** 2026-10-25
+* **Real-World DSP Release:** 2026-10-26
 
 ## The Stardust Engine (Live in Virginia Beach)
 ### Lore
@@ -9942,7 +9995,7 @@ IT'S THUNDER IN THE RAIN! YEAH!
 
 ## Upright & Amplifier
 ### Lore
-An emotional 1980s AOR power ballad chronicling the band's true origin: Cassidy sitting at the family's upright piano with Ryan playing guitar right beside her in 1983, Tyler bringing his childhood drum kit and Evan plugging in his bass in 1985, and their middle-class family purchasing Cassidy's used 1984 six-voice analog synthesizer (a second-hand Roland Juno-106) in 1986.
+An emotional 1980s AOR power ballad chronicling the band's true origin: Cassidy sitting at the family's upright piano with Ryan playing guitar right beside her in 1983, Tyler bringing his childhood drum kit and Evan plugging in his bass in 1985, and their middle-class family purchasing Cassidy's used 1984 six-voice analog synthesizer (a second-hand analog polyphonic) in 1986.
 
 ### Lyrics
 
@@ -10529,7 +10582,7 @@ Goodnight, Forger Nation.
 
 # Live in Norfolk (2005) [LiveAlbum]
 * **Narrative Era:** 2005
-* **Real-World DSP Release:** 2026-10-25
+* **Real-World DSP Release:** 2026-10-26
 
 ## The Stardust Engine (Live in Norfolk)
 ### Lore
@@ -12859,7 +12912,7 @@ Like the rest of *Electric Color*, *"The Stardust Engine"* was officially releas
 
 ## Electric Color (Cosmic Tidal Lock Mix)
 ### Lore
-In 1987, *"Electric Color"* was the band's Trojan horse—a blindingly bright synth-pop hit engineered to satisfy Apex Records' radio quotas while concealing lyrics about dissociation and creative captivity. Twenty-four years later, Cassidy O'Connell reclaims the song completely on solo vocals, replacing the brittle 1980s studio brass with warm, zero-gravity Oberheim pads and a hypnotic fretless bassline by Evan Wright. In the Cosmic Tidal Lock mix, the "neon lights" are no longer fluorescent studio cages—they are deep-space auroras.
+In 1987, *"Electric Color"* was the band's Trojan horse—a blindingly bright synth-pop hit engineered to satisfy Apex Records' radio quotas while concealing lyrics about dissociation and creative captivity. Twenty-four years later, Cassidy O'Connell reclaims the song completely on solo vocals, replacing the brittle 1980s studio brass with warm, zero-gravity analog polyphonic pads and a hypnotic fretless bassline by Evan Wright. In the Cosmic Tidal Lock mix, the "neon lights" are no longer fluorescent studio cages—they are deep-space auroras.
 
 ### Lyrics
 
@@ -13762,11 +13815,11 @@ First recorded in 1991 for the ill-fated *Friction* sessions and later rescued f
 
 # Reignition (2015)
 * **Narrative Era:** 2015
-* **Real-World DSP Release:** 2026-10-25
+* **Real-World DSP Release:** 2026-10-26
 
 ## Reignition: Lights Up on Progress Street
 ### Lore
-Thematically answering the sign-off of 2004's "Last Bus Home: Lights Out on Progress Street" ("Lights out on Progress Street... Goodnight, Forger Nation"), the opening anthem of 2015's *Reignition* celebrates the end of the band's decade-long **2005–2014 Burnout Hiatus**. Opening with warm acoustic piano chords that erupt into Cassidy's bright Roland Juno-106 analog brass fanfare, Tyler's booming gated-reverb snare, Evan's driving eighth-note bassline, and Ryan's soaring electric guitar, it marks the family's triumphant return to full-throttle 1980s AOR studio rock.
+Thematically answering the sign-off of 2004's "Last Bus Home: Lights Out on Progress Street" ("Lights out on Progress Street... Goodnight, Forger Nation"), the opening anthem of 2015's *Reignition* celebrates the end of the band's decade-long **2005–2014 Burnout Hiatus**. Opening with warm acoustic piano chords that erupt into Cassidy's bright analog polyphonic analog brass fanfare, Tyler's booming gated-reverb snare, Evan's driving eighth-note bassline, and Ryan's soaring electric guitar, it marks the family's triumphant return to full-throttle 1980s AOR studio rock.
 
 ### Lyrics
 
@@ -14084,12 +14137,12 @@ Thank you, Holly.
 
 ## Orbital Return
 ### Lore
-Cassidy's lush, zero-gravity 1980s Cosmic Pop centerpiece (**The Cosmic Tidal Lock Sound™**), bridging her 2011 silver-anniversary studio project *Starfield Calibration* into the full four-piece band's 2015 comeback. Layered with sweeping Oberheim OB-Xa pads, cascading Roland Jupiter-8 arpeggios, and a weightless, singing lead guitar solo from Ryan, it captures the sensation of a spacecraft rounding the far side of the moon and locking back onto the radio beacon of home.
+Cassidy's lush, zero-gravity 1980s Cosmic Pop centerpiece (**The Cosmic Tidal Lock Sound™**), bridging her 2011 silver-anniversary studio project *Starfield Calibration* into the full four-piece band's 2015 comeback. Layered with sweeping analog polyphonic pads, cascading analog polyphonic arpeggios, and a weightless, singing lead guitar solo from Ryan, it captures the sensation of a spacecraft rounding the far side of the moon and locking back onto the radio beacon of home.
 
 ### Lyrics
 
 [Intro]
-(Lush, sweeping 1980s Oberheim analog synthesizer pads and sparkling Jupiter-8 arpeggios)
+(Lush, sweeping 1980s analog polyphonic analog synthesizer pads and sparkling analog polyphonic arpeggios)
 (Warm melodic bassline and booming gated-reverb drums enter at 118 BPM)
 
 [Verse 1]
@@ -14583,7 +14636,7 @@ A scorching 146 BPM 1980s hard-AOR guitar anthem celebrating thirty years of fie
 
 [Intro]
 (Blistering 146 BPM overdriven 1980s electric guitar riff in D Minor)
-(Driving analog Hammond-style organ and polyphonic synth stabs)
+(Driving analog tonewheel organ and polyphonic synth stabs)
 (Galloping bassline and rapid-fire gated-reverb drums kick in)
 
 [Verse 1]
@@ -14884,7 +14937,7 @@ See you out on the horizon!
 
 # Live at the Crucible (2016) [LiveAlbum]
 * **Narrative Era:** 2016
-* **Real-World DSP Release:** 2026-10-25
+* **Real-World DSP Release:** 2026-10-26
 
 ## Ignition: The Forger's Call (Live at the Crucible)
 ### Lore

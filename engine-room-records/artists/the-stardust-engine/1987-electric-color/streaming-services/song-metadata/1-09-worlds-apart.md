@@ -1,7 +1,9 @@
-# Worlds Apart - DistroKid Quick-Copy Sheet
+# Worlds Apart - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Worlds Apart
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Worlds Apart
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Worlds Apart
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Synth-Rock
 * **Real-World DSP Release Date:** 2026-03-29

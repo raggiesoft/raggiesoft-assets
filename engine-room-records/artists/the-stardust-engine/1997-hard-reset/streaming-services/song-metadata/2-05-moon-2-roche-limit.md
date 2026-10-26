@@ -1,7 +1,9 @@
-# Moon 2 (Roche Limit) - DistroKid Quick-Copy Sheet
+# Moon 2 (Roche Limit) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Moon 2 (Roche Limit)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Moon 2 (Roche Limit)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Moon 2 (Roche Limit)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Arena Rock / Progressive Pop
 * **Real-World DSP Release Date:** 2026-04-05

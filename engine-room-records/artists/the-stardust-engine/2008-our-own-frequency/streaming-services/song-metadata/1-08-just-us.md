@@ -1,7 +1,9 @@
-# Just Us - DistroKid Quick-Copy Sheet
+# Just Us - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Just Us
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Just Us
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Just Us
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Singer / Songwriter
 * **Real-World DSP Release Date:** 2026-10-16

@@ -1,7 +1,9 @@
-# The Penumbra: Transit - DistroKid Quick-Copy Sheet
+# The Penumbra: Transit - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Penumbra: Transit
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Penumbra: Transit
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Penumbra: Transit
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Heavy Rock / Industrial / Arena Rock
 * **Real-World DSP Release Date:** 2026-08-18

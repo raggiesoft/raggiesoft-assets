@@ -1,7 +1,9 @@
-# Seeds of Rebellion - DistroKid Quick-Copy Sheet
+# Seeds of Rebellion - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Seeds of Rebellion
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Seeds of Rebellion
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Seeds of Rebellion
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-09

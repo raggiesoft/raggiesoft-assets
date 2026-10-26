@@ -1,10 +1,12 @@
-# Midnight Lullaby - DistroKid Quick-Copy Sheet
+# Midnight Lullaby - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Midnight Lullaby
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Midnight Lullaby
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Midnight Lullaby
 * **Primary Artist:** The Arctic Symphony Project
 * **Genre:** Symphonic Rock / Rock Opera / Holiday
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**

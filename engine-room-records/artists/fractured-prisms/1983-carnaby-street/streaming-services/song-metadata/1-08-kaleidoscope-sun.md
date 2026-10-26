@@ -1,7 +1,9 @@
-# Kaleidoscope Sun - DistroKid Quick-Copy Sheet
+# Kaleidoscope Sun - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Kaleidoscope Sun
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Kaleidoscope Sun
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Kaleidoscope Sun
 * **Primary Artist:** Fractured Prisms
 * **Genre:** Progressive Rock / Art Pop
 * **Real-World DSP Release Date:** 2026-04-17

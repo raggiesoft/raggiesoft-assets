@@ -1,7 +1,9 @@
-# The Engine Room (Studio Jam) - DistroKid Quick-Copy Sheet
+# The Engine Room (Studio Jam) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Engine Room (Studio Jam)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Engine Room
+* **Version:** Studio Jam
+* **ID3 / Vorbis Tagged Title:** The Engine Room (Studio Jam)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s New Wave / Darkwave / Synth-Pop
 * **Real-World DSP Release Date:** 2026-05-01

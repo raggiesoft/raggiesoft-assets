@@ -1,10 +1,12 @@
-# A Night in Kent - DistroKid Quick-Copy Sheet
+# A Night in Kent - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** A Night in Kent
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** A Night in Kent
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** A Night in Kent
 * **Primary Artist:** The Paper Wall
 * **Genre:** Rock Opera / Industrial / 80s Pop
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2647728
 
 **DistroKid AI Credits Questionnaire:**

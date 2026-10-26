@@ -1,7 +1,9 @@
-# Escape Velocity (Ad Astra) - DistroKid Quick-Copy Sheet
+# Escape Velocity (Ad Astra) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Escape Velocity (Ad Astra)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Escape Velocity (Ad Astra)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Escape Velocity (Ad Astra)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Rock
 * **Real-World DSP Release Date:** 2026-04-02

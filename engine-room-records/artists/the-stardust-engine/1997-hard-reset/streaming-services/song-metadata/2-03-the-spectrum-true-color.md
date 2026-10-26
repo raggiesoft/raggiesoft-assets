@@ -1,7 +1,9 @@
-# The Spectrum (True Color) - DistroKid Quick-Copy Sheet
+# The Spectrum (True Color) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Spectrum (True Color)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Spectrum (True Color)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Spectrum (True Color)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Arena Rock / Progressive Pop
 * **Real-World DSP Release Date:** 2026-04-05

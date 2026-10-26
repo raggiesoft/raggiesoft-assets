@@ -1,7 +1,9 @@
-# Guardian of the Bridge - DistroKid Quick-Copy Sheet
+# Guardian of the Bridge - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Guardian of the Bridge
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Guardian of the Bridge
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Guardian of the Bridge
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-09

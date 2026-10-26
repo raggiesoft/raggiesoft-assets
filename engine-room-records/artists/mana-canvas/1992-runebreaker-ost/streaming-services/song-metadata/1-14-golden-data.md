@@ -1,10 +1,12 @@
-# Golden Data - DistroKid Quick-Copy Sheet
+# Golden Data - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Golden Data
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Golden Data
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Golden Data
 * **Primary Artist:** Mana Canvas
 * **Genre:** 16-bit Ambient / SPC-700
-* **Real-World DSP Release Date:** 2026-10-19
+* **Real-World DSP Release Date:** 2026-10-23
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTA7V2622558
 
 **DistroKid AI Credits Questionnaire:**

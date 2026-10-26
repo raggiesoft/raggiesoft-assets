@@ -1,7 +1,9 @@
-# Progress Street: Where the Fire Began - DistroKid Quick-Copy Sheet
+# Progress Street: Where the Fire Began - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Progress Street: Where the Fire Began
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Progress Street: Where the Fire Began
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Progress Street: Where the Fire Began
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s AOR / Stadium Rock / Synth-Rock
 * **Real-World DSP Release Date:** 2026-10-15

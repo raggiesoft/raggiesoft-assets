@@ -5,7 +5,7 @@
 ***
 
 **LORE NOTE:**
-Thematically answering the sign-off of 2004's "Last Bus Home: Lights Out on Progress Street" ("Lights out on Progress Street... Goodnight, Forger Nation"), the opening anthem of 2015's *Reignition* celebrates the end of the band's decade-long **2005–2014 Burnout Hiatus**. Opening with warm acoustic piano chords that erupt into Cassidy's bright Roland Juno-106 analog brass fanfare, Tyler's booming gated-reverb snare, Evan's driving eighth-note bassline, and Ryan's soaring electric guitar, it marks the family's triumphant return to full-throttle 1980s AOR studio rock.
+Thematically answering the sign-off of 2004's "Last Bus Home: Lights Out on Progress Street" ("Lights out on Progress Street... Goodnight, Forger Nation"), the opening anthem of 2015's *Reignition* celebrates the end of the band's decade-long **2005–2014 Burnout Hiatus**. Opening with warm acoustic piano chords that erupt into Cassidy's bright analog polyphonic analog brass fanfare, Tyler's booming gated-reverb snare, Evan's driving eighth-note bassline, and Ryan's soaring electric guitar, it marks the family's triumphant return to full-throttle 1980s AOR studio rock.
 
 **LYRICS:**
 
@@ -335,12 +335,12 @@ Thank you, Holly.
 ***
 
 **LORE NOTE:**
-Cassidy's lush, zero-gravity 1980s Cosmic Pop centerpiece (**The Cosmic Tidal Lock Sound™**), bridging her 2011 silver-anniversary studio project *Starfield Calibration* into the full four-piece band's 2015 comeback. Layered with sweeping Oberheim OB-Xa pads, cascading Roland Jupiter-8 arpeggios, and a weightless, singing lead guitar solo from Ryan, it captures the sensation of a spacecraft rounding the far side of the moon and locking back onto the radio beacon of home.
+Cassidy's lush, zero-gravity 1980s Cosmic Pop centerpiece (**The Cosmic Tidal Lock Sound™**), bridging her 2011 silver-anniversary studio project *Starfield Calibration* into the full four-piece band's 2015 comeback. Layered with sweeping analog polyphonic pads, cascading analog polyphonic arpeggios, and a weightless, singing lead guitar solo from Ryan, it captures the sensation of a spacecraft rounding the far side of the moon and locking back onto the radio beacon of home.
 
 **LYRICS:**
 
 [Intro]
-(Lush, sweeping 1980s Oberheim analog synthesizer pads and sparkling Jupiter-8 arpeggios)
+(Lush, sweeping 1980s analog polyphonic analog synthesizer pads and sparkling analog polyphonic arpeggios)
 (Warm melodic bassline and booming gated-reverb drums enter at 118 BPM)
 
 [Verse 1]
@@ -854,7 +854,7 @@ A scorching 146 BPM 1980s hard-AOR guitar anthem celebrating thirty years of fie
 
 [Intro]
 (Blistering 146 BPM overdriven 1980s electric guitar riff in D Minor)
-(Driving analog Hammond-style organ and polyphonic synth stabs)
+(Driving analog tonewheel organ and polyphonic synth stabs)
 (Galloping bassline and rapid-fire gated-reverb drums kick in)
 
 [Verse 1]

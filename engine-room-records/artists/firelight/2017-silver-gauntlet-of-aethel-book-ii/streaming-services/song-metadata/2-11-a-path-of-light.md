@@ -1,7 +1,9 @@
-# A Path of Light - DistroKid Quick-Copy Sheet
+# A Path of Light - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** A Path of Light
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** A Path of Light
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** A Path of Light
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-24

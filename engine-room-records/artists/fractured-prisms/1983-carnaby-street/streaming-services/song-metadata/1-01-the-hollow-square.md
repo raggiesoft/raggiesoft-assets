@@ -1,7 +1,9 @@
-# The Hollow Square - DistroKid Quick-Copy Sheet
+# The Hollow Square - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Hollow Square
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Hollow Square
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Hollow Square
 * **Primary Artist:** Fractured Prisms
 * **Genre:** Progressive Rock / Art Pop
 * **Real-World DSP Release Date:** 2026-04-17

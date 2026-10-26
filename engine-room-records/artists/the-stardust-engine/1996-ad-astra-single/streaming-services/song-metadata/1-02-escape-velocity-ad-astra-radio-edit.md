@@ -1,7 +1,9 @@
-# Escape Velocity (Ad Astra) (Radio Edit) - DistroKid Quick-Copy Sheet
+# Escape Velocity (Ad Astra) (Radio Edit) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Escape Velocity (Ad Astra) (Radio Edit)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Escape Velocity (Ad Astra)
+* **Version:** Radio Edit
+* **ID3 / Vorbis Tagged Title:** Escape Velocity (Ad Astra) (Radio Edit)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Prog Rock / Space Rock
 * **Real-World DSP Release Date:** 2026-04-03

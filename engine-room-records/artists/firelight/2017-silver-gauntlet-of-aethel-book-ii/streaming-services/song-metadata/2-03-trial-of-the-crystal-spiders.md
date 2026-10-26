@@ -1,7 +1,9 @@
-# Trial of the Crystal Spiders - DistroKid Quick-Copy Sheet
+# Trial of the Crystal Spiders - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Trial of the Crystal Spiders
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Trial of the Crystal Spiders
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Trial of the Crystal Spiders
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-24

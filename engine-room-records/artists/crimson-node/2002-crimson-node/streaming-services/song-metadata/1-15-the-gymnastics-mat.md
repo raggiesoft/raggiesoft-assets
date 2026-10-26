@@ -1,10 +1,12 @@
-# Safe Mode: The Gymnastic Mat - DistroKid Quick-Copy Sheet
+# Safe Mode: The Gymnastic Mat - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Safe Mode: The Gymnastic Mat
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Safe Mode: The Gymnastic Mat
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Safe Mode: The Gymnastic Mat
 * **Primary Artist:** Crimson Node
 * **Genre:** 1980s Pop & Rock / Synth-Prog
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6J52643500
 
 **DistroKid AI Credits Questionnaire:**

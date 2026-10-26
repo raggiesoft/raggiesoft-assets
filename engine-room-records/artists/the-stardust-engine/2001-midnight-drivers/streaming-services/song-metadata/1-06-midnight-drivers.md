@@ -1,7 +1,9 @@
-# Midnight Drivers - DistroKid Quick-Copy Sheet
+# Midnight Drivers - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Midnight Drivers
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Midnight Drivers
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Midnight Drivers
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s New Wave / Darkwave / Synth-Pop
 * **Real-World DSP Release Date:** 2026-05-01

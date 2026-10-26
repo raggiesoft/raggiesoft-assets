@@ -1,7 +1,9 @@
-# The Anchor's Weight - DistroKid Quick-Copy Sheet
+# The Anchor's Weight - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Anchor's Weight
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Anchor's Weight
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Anchor's Weight
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Atmospheric Synth-Pop / Ambient / Space Rock
 * **Real-World DSP Release Date:** 2026-08-17

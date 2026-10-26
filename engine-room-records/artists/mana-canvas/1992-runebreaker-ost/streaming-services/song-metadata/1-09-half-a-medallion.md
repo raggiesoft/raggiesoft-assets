@@ -1,10 +1,12 @@
-# Half a Medallion - DistroKid Quick-Copy Sheet
+# Half a Medallion - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Half a Medallion
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Half a Medallion
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Half a Medallion
 * **Primary Artist:** Mana Canvas
 * **Genre:** 16-bit Ambient / SPC-700
-* **Real-World DSP Release Date:** 2026-10-19
+* **Real-World DSP Release Date:** 2026-10-23
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTA7V2622553
 
 **DistroKid AI Credits Questionnaire:**

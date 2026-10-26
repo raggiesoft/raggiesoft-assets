@@ -1,7 +1,9 @@
-# Telemetry - DistroKid Quick-Copy Sheet
+# Telemetry - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Telemetry
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Telemetry
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Telemetry
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Atmospheric Synth-Pop / Ambient / Space Rock
 * **Real-World DSP Release Date:** 2026-08-17

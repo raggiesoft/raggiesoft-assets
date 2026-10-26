@@ -1,7 +1,9 @@
-# Periapsis (Closest Approach) - DistroKid Quick-Copy Sheet
+# Periapsis (Closest Approach) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Periapsis (Closest Approach)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Periapsis (Closest Approach)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Periapsis (Closest Approach)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Atmospheric Synth-Pop / Ambient / Space Rock
 * **Real-World DSP Release Date:** 2026-08-17

@@ -1,7 +1,9 @@
-# Strangers in the Stream - DistroKid Quick-Copy Sheet
+# Strangers in the Stream - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Strangers in the Stream
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Strangers in the Stream
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Strangers in the Stream
 * **Primary Artist:** Fractured Prisms
 * **Genre:** Progressive Rock / Art Pop
 * **Real-World DSP Release Date:** 2026-04-17

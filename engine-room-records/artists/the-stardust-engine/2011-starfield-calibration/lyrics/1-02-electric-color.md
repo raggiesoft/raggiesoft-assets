@@ -1,5 +1,5 @@
 **LORE NOTE:**
-In 1987, *"Electric Color"* was the band's Trojan horse—a blindingly bright synth-pop hit engineered to satisfy Apex Records' radio quotas while concealing lyrics about dissociation and creative captivity. Twenty-four years later, Cassidy O'Connell reclaims the song completely on solo vocals, replacing the brittle 1980s studio brass with warm, zero-gravity Oberheim pads and a hypnotic fretless bassline by Evan Wright. In the Cosmic Tidal Lock mix, the "neon lights" are no longer fluorescent studio cages—they are deep-space auroras.
+In 1987, *"Electric Color"* was the band's Trojan horse—a blindingly bright synth-pop hit engineered to satisfy Apex Records' radio quotas while concealing lyrics about dissociation and creative captivity. Twenty-four years later, Cassidy O'Connell reclaims the song completely on solo vocals, replacing the brittle 1980s studio brass with warm, zero-gravity analog polyphonic pads and a hypnotic fretless bassline by Evan Wright. In the Cosmic Tidal Lock mix, the "neon lights" are no longer fluorescent studio cages—they are deep-space auroras.
 
 **LYRICS:**
 

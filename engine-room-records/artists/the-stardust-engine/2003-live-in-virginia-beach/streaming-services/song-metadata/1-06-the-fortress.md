@@ -1,10 +1,12 @@
-# The Fortress - DistroKid Quick-Copy Sheet
+# The Fortress (Live in Virginia Beach) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Fortress
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Fortress
+* **Version:** Live in Virginia Beach
+* **ID3 / Vorbis Tagged Title:** The Fortress (Live in Virginia Beach)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Arena Rock / 1980s Synth-Rock
-* **Real-World DSP Release Date:** 2026-10-25
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**

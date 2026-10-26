@@ -70,7 +70,7 @@ My neon heart...
 ***
 
 **LORE NOTE:**
-Ryan's act of "malicious compliance." He delivered the requested synth-pop sound but made the track **5:31 long**—knowing it was too long for radio—and included the protest line, "They're all afraid of the burning cross" (a reference to the canceled "Promise" single). [cite_start]It stands as a middle finger to the studio's "safe" direction.
+Ryan's act of "malicious compliance." He delivered the requested synth-pop sound but made the track **5:31 long**—knowing it was too long for radio—and included the protest line, "They're all afraid of the burning cross" (a reference to the canceled "Promise" single). It stands as a middle finger to the studio's "safe" direction.
 
 **LYRICS:**
 
@@ -110,6 +110,8 @@ I'm singing all alone
 
 (Bridge)
 (A very clean, melodic, studio-approved keyboard solo)
+A hollow sound...
+Just a hollow sound...
 
 (Chorus)
 It's just a hollow sound
@@ -118,11 +120,8 @@ But the words are not my own
 It's just a hollow sound
 Another plastic fix
 I'm singing all alone
-
-(Outro)
-A hollow sound...
-Just a hollow sound...
 (fades)
+
 
 ***
 ### **1-03-side-by-side.md**
@@ -300,49 +299,51 @@ The start of the "Side B Rebellion." After an A-Side full of studio-mandated syn
 **LYRICS:**
 
 (Verse 1)
-Been counting the days in this neon cage
-Smiling for the cameras on a plastic stage
-They turned the synths up, drowned the sound
-But you can't keep a good thing down
+Another day, another line to say
+They're trying to wash the real me away
+But there's a fire, a burning sound
+You can't keep a good thing down
 
 (Chorus)
-We're gonna break the walls tonight! (Yeah!)
-Turn up the volume, hit the light!
-No more whispers, time to shout
-The Engine's roaring, let it out!
+It's a chain reaction! (Oh-oh)
+I can't be contained
+Starting up a fire that can't be explained
+A chain reaction!
+It's time to break the mold
+A story that's about to be told!
 
-(Verse 2)
-I'm tired of the glitter, tired of the gloss
-Tired of the suits who think they're the boss
-This guitar is loaded, it's ready to scream
-Waking up from their pretty dream
-
-(Chorus)
-We're gonna break the walls tonight! (Yeah!)
-Turn up the volume, hit the light!
-No more whispers, time to shout
-The Engine's roaring, let it out!
-
-(Guitar Solo)
+(Guitar Solo 1)
 (A blistering, technical, shredding solo that Ryan fought to keep on the record)
 
-(Bridge)
-For every kid who feels the same
-Trapped in a world, playing their game
-This one's for you, this one's for me
-Time to be free!
+(Verse 2)
+This plastic world is gonna crack
+I'm never ever looking back
+I'm turning up my guitar loud
+I'm gonna stand out from the crowd
 
 (Chorus)
-We're gonna break the walls tonight! (Yeah!)
-Turn up the volume, hit the light!
-No more whispers, time to shout
-The Engine's roaring, let it out!
+A chain reaction!
+I can't be contained
+Starting up a fire that can't be explained
+A chain reaction!
+It's time to break the mold
+A story that's about to be told!
+
+(Guitar Solo 2)
+(Extended technical guitar solo)
+
+(Chorus)
+A chain reaction!
+I can't be contained
+Starting up a fire that can't be explained
+A chain reaction!
+It's time to break the mold
+A story that's about to be told!
 
 (Outro)
-Let it out!
-Break the walls!
-C'mon!
+Chain reaction...
 (fades on a hanging guitar chord)
+
 
 ***
 ### **1-07-not-your-doll.md**
@@ -454,7 +455,8 @@ After the laughter...
 (Outro)
 After the laughter...
 Just... quiet...
-(fades out on a single piano note)s
+(fades out on a single piano note)
+
 
 ***
 ### **1-09-shadow-dancing.md**
@@ -517,7 +519,7 @@ Shadow dancing...
 ***
 
 **LORE NOTE:**
-Ryan's final laugh. As "punishment" for the heavy rock tracks earlier on Side B, Apex ordered him to close the album with a quiet ballad, explicitly forbidding "pounding drums" on the track sheet. [cite_start]Ryan complied by recording the song using **percussive acoustic guitar**—slapping the body of the instrument to simulate a beat. It was a subtle, rhythmic "middle finger" to the executives who tried to silence the "Engine."
+Ryan's final laugh. As "punishment" for the heavy rock tracks earlier on Side B, Apex ordered him to close the album with a quiet ballad, explicitly forbidding "pounding drums" on the track sheet. Ryan complied by recording the song using **percussive acoustic guitar**—slapping the body of the instrument to simulate a beat. It was a subtle, rhythmic "middle finger" to the executives who tried to silence the "Engine."
 
 **LYRICS:**
 
@@ -545,8 +547,6 @@ Another day...
 Another way...
 
 (Chorus)
-We're just echoes in the city
-It's not so bad, it's not so pretty
 Just echoes, turning to gray
 We'll come back and fight another day
 
@@ -554,6 +554,7 @@ We'll come back and fight another day
 After the show...
 Goodnight...
 (fades out on acoustic guitar)
+
 
 ***
 ### **1-11-the-promise-corporate-demo.md**

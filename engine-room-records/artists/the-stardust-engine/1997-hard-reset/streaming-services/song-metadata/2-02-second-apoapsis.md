@@ -1,7 +1,9 @@
-# Second Apoapsis - DistroKid Quick-Copy Sheet
+# Second Apoapsis - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Second Apoapsis
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Second Apoapsis
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Second Apoapsis
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Arena Rock / Progressive Pop
 * **Real-World DSP Release Date:** 2026-04-05

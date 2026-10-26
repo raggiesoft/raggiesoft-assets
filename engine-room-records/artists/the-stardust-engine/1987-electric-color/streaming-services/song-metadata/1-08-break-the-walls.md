@@ -1,7 +1,9 @@
-# Break the Walls - DistroKid Quick-Copy Sheet
+# Break the Walls - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Break the Walls
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Break the Walls
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Break the Walls
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Synth-Rock
 * **Real-World DSP Release Date:** 2026-03-29

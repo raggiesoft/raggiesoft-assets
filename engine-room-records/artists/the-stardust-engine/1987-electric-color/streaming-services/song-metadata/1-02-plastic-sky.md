@@ -1,7 +1,9 @@
-# Plastic Sky - DistroKid Quick-Copy Sheet
+# Plastic Sky - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Plastic Sky
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Plastic Sky
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Plastic Sky
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Synth-Rock
 * **Real-World DSP Release Date:** 2026-03-29

@@ -1,7 +1,9 @@
-# Empty Arenas (Early Demo) - DistroKid Quick-Copy Sheet
+# Empty Arenas (Early Demo) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Empty Arenas (Early Demo)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Empty Arenas
+* **Version:** Early Demo
+* **ID3 / Vorbis Tagged Title:** Empty Arenas (Early Demo)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Rock, B-Sides, Rarities
 * **Real-World DSP Release Date:** 2026-10-11

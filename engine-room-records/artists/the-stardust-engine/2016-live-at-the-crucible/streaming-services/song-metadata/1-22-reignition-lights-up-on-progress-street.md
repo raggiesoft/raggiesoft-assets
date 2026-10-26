@@ -5,8 +5,8 @@
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** Reignition: Lights Up on Progress Street (Live at the Crucible)
 * **Primary Artist:** The Stardust Engine
-* **Genre:** Live Stadium Rock / 1980s AOR / Collegiate Marching Band Rock
-* **Real-World DSP Release Date:** 2026-10-25
+* **Genre:** Live Stadium Rock / 1980s AOR / Progressive Symphonic Space-Rock / Collegiate Marching Band Rock
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**
@@ -28,7 +28,7 @@
 * **Musician / Producer:** AI-Generated (Vocals & Instrumentation)
 
 ## 3. Internal Catalog Information
-* **Engine Room ID:** ERR-001-2016-122
+* **Engine Room ID:** ERR-001-2016-130
 * **ISRC:** 
 * **US ISRC Agency Registrant:** Michael Ragsdale (Registrant ID: 185611 • Prefix: QTAHP • dsp.operations@engineroom-records.com)
 * **Album UPC / GTIN-12:** None

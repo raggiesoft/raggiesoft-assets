@@ -1,10 +1,12 @@
-# The Eleventh Child (A Gauntlet of Hearts) - DistroKid Quick-Copy Sheet
+# The Eleventh Child (A Gauntlet of Hearts) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Eleventh Child (A Gauntlet of Hearts)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Eleventh Child (A Gauntlet of Hearts)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Eleventh Child (A Gauntlet of Hearts)
 * **Primary Artist:** The Paper Wall
 * **Genre:** 80s Pop / Synthwave / Rock Opera
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2652214
 
 **DistroKid AI Credits Questionnaire:**

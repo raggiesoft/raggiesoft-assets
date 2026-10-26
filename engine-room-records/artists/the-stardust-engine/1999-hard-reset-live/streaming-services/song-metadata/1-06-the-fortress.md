@@ -1,10 +1,12 @@
-# The Fortress - DistroKid Quick-Copy Sheet
+# The Fortress (Hard Reset Live) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Fortress
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Fortress
+* **Version:** Hard Reset Live
+* **ID3 / Vorbis Tagged Title:** The Fortress (Hard Reset Live)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Arena Rock / Progressive Synth-Rock
-* **Real-World DSP Release Date:** 2026-10-25
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**

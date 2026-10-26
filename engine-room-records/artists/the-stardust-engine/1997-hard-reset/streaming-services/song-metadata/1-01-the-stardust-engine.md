@@ -1,7 +1,9 @@
-# The Stardust Engine - DistroKid Quick-Copy Sheet
+# The Stardust Engine - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Stardust Engine
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Stardust Engine
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Stardust Engine
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Arena Rock / Progressive Pop
 * **Real-World DSP Release Date:** 2026-04-05

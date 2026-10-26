@@ -1,10 +1,12 @@
-# Dead Weight - DistroKid Quick-Copy Sheet
+# Dead Weight - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Dead Weight
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Dead Weight
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Dead Weight
 * **Primary Artist:** The Arctic Symphony Project
 * **Genre:** Symphonic Rock / Rock Opera / Holiday
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**

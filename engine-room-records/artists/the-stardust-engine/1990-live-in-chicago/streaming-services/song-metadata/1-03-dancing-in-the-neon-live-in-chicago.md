@@ -1,7 +1,9 @@
-# Dancing in the Neon (Live in Chicago) - DistroKid Quick-Copy Sheet
+# Dancing in the Neon (Live in Chicago) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Dancing in the Neon (Live in Chicago)
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Dancing in the Neon
+* **Version:** Live in Chicago
+* **ID3 / Vorbis Tagged Title:** Dancing in the Neon (Live in Chicago)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Rock
 * **Real-World DSP Release Date:** 2026-04-01

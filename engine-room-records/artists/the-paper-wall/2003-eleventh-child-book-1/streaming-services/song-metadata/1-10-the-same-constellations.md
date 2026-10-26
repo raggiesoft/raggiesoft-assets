@@ -1,10 +1,12 @@
-# The Same Constellations - DistroKid Quick-Copy Sheet
+# The Same Constellations - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Same Constellations
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Same Constellations
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Same Constellations
 * **Primary Artist:** The Paper Wall
 * **Genre:** Electronic / Narrative / Rock Opera
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2673229
 
 **DistroKid AI Credits Questionnaire:**

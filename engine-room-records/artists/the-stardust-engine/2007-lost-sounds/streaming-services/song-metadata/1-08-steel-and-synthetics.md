@@ -1,7 +1,9 @@
-# Steel and Synthetics - DistroKid Quick-Copy Sheet
+# Steel and Synthetics - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Steel and Synthetics
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Steel and Synthetics
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Steel and Synthetics
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Rock, B-Sides, Rarities
 * **Real-World DSP Release Date:** 2026-10-11

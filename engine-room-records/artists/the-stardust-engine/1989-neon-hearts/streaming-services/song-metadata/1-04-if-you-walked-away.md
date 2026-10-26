@@ -1,7 +1,9 @@
-# If You Walked Away - DistroKid Quick-Copy Sheet
+# If You Walked Away - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** If You Walked Away
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** If You Walked Away
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** If You Walked Away
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Synth-Pop
 * **Real-World DSP Release Date:** 2026-03-31

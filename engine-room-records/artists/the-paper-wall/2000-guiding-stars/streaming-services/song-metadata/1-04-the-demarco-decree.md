@@ -1,10 +1,12 @@
-# The DeMarco Decree - DistroKid Quick-Copy Sheet
+# The DeMarco Decree - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The DeMarco Decree
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The DeMarco Decree
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The DeMarco Decree
 * **Primary Artist:** The Paper Wall
 * **Genre:** 80s Rock / New Wave / Heartland Rock
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QT6HJ2658746
 
 **DistroKid AI Credits Questionnaire:**

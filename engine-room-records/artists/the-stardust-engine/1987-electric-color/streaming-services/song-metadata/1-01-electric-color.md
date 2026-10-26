@@ -1,7 +1,9 @@
-# Electric Color - DistroKid Quick-Copy Sheet
+# Electric Color - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Electric Color
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Electric Color
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Electric Color
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Synth-Rock
 * **Real-World DSP Release Date:** 2026-03-29

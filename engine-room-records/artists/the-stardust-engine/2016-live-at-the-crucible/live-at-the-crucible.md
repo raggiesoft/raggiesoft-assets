@@ -250,7 +250,7 @@ We're taking flight...
 ***
 
 **LORE NOTE:**
-As the Marching Forgers clear the field, the core four-piece band—Cassidy on her wraparound synthesizers, Ryan in his manual chair at stage left on lead guitar, and identical twins Evan (bass) and Tyler (drums) on the back risers—slams straight into the 142 BPM countdown thriller from 2015's *Reignition*. Sixty-five thousand fans count down from ten to liftoff in unison.
+As the main body of the Marching Forgers files into the tunnel (leaving their 20-piece Lead Brass & Drumline Honor Guard at the front lip of the turf), the core four-piece band—Cassidy on her wraparound synthesizers, Ryan in his manual chair at center-left on lead guitar, and identical twins Evan (bass) and Tyler (drums) on the back risers—backed on the stage-left riser by their 5-piece "Orbital Crew" stadium touring section (Marcus Vance on rhythm guitar, Darius "Doc" Holloway on second kit/percussion, Claire Lindqvist on auxiliary synths, and CPI Jazz soloists Prof. Julian Vance on trumpet and Elena Rostova on sax so not a single pre-recorded backing track is ever used on stage) slams straight into the 142 BPM countdown thriller from 2015's *Reignition*. Sixty-five thousand fans count down from ten to liftoff in unison.
 
 **LYRICS:**
 
@@ -442,58 +442,118 @@ Let's fly
 ***
 
 **LORE NOTE:**
-Cassidy steps to the front microphone for her fierce 1989 *Neon Hearts* rebellion against the corporate record executives who tried to package her as a fragile pop idol—reclaimed here with full-throttle 1980s hard-rock guitars and analog synth brass.
+A massive, full-throttle stadium production number where Cassidy O'Connell hands her wraparound synthesizer rig over to touring keyboardist Claire Lindqvist, throws on a black leather jacket, and takes the stage **FRONT AND CENTER** at the lip of the thrust stage. Channeling ferocious 1980s hard-rock frontwoman grit, she tears apart Apex Records' 1980s attempt to package her as their fragile, obedient "Stardust" pop mascot while the 120-foot curved LED wall shatters a neon-pink porcelain doll mask into roaring crimson flames and twin fountains of gold pyrotechnics erupt across The Crucible.
 
 **LYRICS:**
 
-(Verse 1)
+[Live Stadium Crowd Roar]
+[Heavy Palm-Muted Electric Guitar Drone & Pounding Dual Stadium Drums]
+
+[Spoken Word Intro]
+[female]
+Back in nineteen eighty-seven, a record executive in a three-thousand-dollar suit looked at my brother and me and decided that a girl from Blacksburg wasn't allowed to play heavy rock and roll! They pointed at Ryan and called him the Engine... and they pointed at me, handed me a pink plastic script, and told me to smile, stay quiet behind the keyboards, and be their little Stardust! Well, tonight I'm standing front and center in our house—and nobody puts a cage around this voice ever again!
+
+[Intro]
+(Explosive twin-lead 1980s hard rock electric guitars, thundering dual drum kits, and punchy stadium brass stabs)
+
+[Verse 1]
+[female]
+(Raw, gritty, ferocious female rock vocals)
 You put me in a box, you told me to be sweet
 The "Stardust" girl, the perfect beat
 You told me "soften up," you told me "know your place"
-But you never saw the fire in my face
+But you never saw the fire in my face!
 
-(Chorus)
+[Pre-Chorus]
+[female]
+Tear up the contract, shatter the glass!
+Watch your little empire crumble and pass!
+I'm stepping out from behind the keys
+Down on the front line, off of my knees!
+
+[Chorus]
+(Massive stadium hard rock chorus with roaring 65,000-person crowd backing)
+[female]
 'Cause I'm not your doll!
-I'm not your pretty toy
-I'm not just a picture for a poster boy
+I'm not your pretty toy!
+I'm not just a picture for a poster boy!
 I'm not your doll!
 I'm here to make a choice
 And I'm gonna make you hear my voice!
 
-(Verse 2)
+[Verse 2]
+[female]
 You're scared of the noise, you're scared of the grit
 You're terrified that I'm not gonna fit
 In the tiny world you built for me
-But I'm about to set myself free
+But I'm about to set myself free!
 
-(Chorus)
+[Verse 3]
+[female]
+You painted on a smile and you locked the door
+Said a girl shouldn't roar on the stadium floor
+You wanted sugar-coated, polite and tame
+While you cashed every check written out in our name!
+Well, look at the stage and look at this crowd
+I'm rough and I'm jagged and I'm singing it loud!
+
+[Pre-Chorus]
+[female]
+Tear up the contract, shatter the glass!
+Watch your little empire crumble and pass!
+I'm stepping out from behind the keys
+Down on the front line, off of my knees!
+
+[Chorus]
+[female]
 'Cause I'm not your doll!
-I'm not your pretty toy
-I'm not just a picture for a poster boy
+I'm not your pretty toy!
+I'm not just a picture for a poster boy!
 I'm not your doll!
 I'm here to make a choice
 And I'm gonna make you hear my voice!
 
-(Guitar Solo)
+[Guitar Solo]
+(Blistering, high-voltage 1980s stadium hard rock twin-guitar solo with Ryan and Marcus trading fiery lead phrases over pounding double-kit drums and analog synth brass)
 
-(Bridge)
+[Bridge]
+[female]
 You heard the "story to be told"?
 Well, I'm the one who'll break the mold!
-You wanted 'Stardust'? You get the fire!
+You wanted "Stardust"? You get the fire!
 My voice is real, and it's getting higher!
 
-(Chorus)
+[Breakdown]
+(Guitars drop out to pounding dual stadium drums and 65,000-person rhythmic handclaps)
+[female]
+Let me hear every voice in The Crucible tonight—if nobody owns you, scream it back to me!
+(Crowd Vocals Only)
+NOT YOUR DOLL!
+[female]
+Louder, Blacksburg!
+(Crowd Vocals Only)
+NOT YOUR DOLL!
+[female]
+(Sustained, roof-shattering high-register rock belt)
+YEAH, HEAR MY VOICE!!
+
+[Final Chorus]
+(Full stadium rock band, blazing brass section, and pyrotechnic explosion)
+[female]
 'Cause I'm not your doll!
-I'm not your pretty toy
-I'm not just a picture for a poster boy
+I'm not your pretty toy!
+I'm not just a picture for a poster boy!
 I'm not your doll!
 I'm here to make a choice
 And I'm gonna make you hear my voice!
 
-(Outro)
+[Outro]
+[female]
 Not your doll!
+No, I'm not your pretty toy!
 Hear my voice!
-(fades out on a wailing guitar note)
+Hear my voice!
+(Crashing final stadium power chord, wailing guitar feedback, and deafening 65,000-person roar)
 
 
 ***
@@ -1030,6 +1090,7 @@ Ad astra!
 Thank you so much...
 
 
+
 ***
 ### **apoapsis-live-at-the-crucible.md**
 ***
@@ -1047,6 +1108,7 @@ Having achieved escape velocity (`11.2 km/s`) to break free of Earth's gravity o
 *(Ryan utilizes a volume pedal on his electric guitar, creating swelling, atmospheric waves of sound that mimic the slow, majestic rotation of a planet viewed from high orbit.)*
 
 
+
 ***
 ### **second-apoapsis-live-at-the-crucible.md**
 ***
@@ -1062,6 +1124,7 @@ The second movement of **The Apoapsis Suite** from Disc 2 of 1997's *Hard Reset*
 *(Cassidy's synthesizers grow brighter and more complex, weaving intricate arpeggios around Evan's melodic bassline.)*
 
 *(Ryan's volume-pedal guitar swells transform into a massive, echoing, cinematic build across the stadium PA, reaching a towering crescendo before suddenly dropping away into a quiet, ethereal outro that sets the stage for the vocals of "The Spectrum [True Color]".)*
+
 
 
 ***
@@ -1129,6 +1192,7 @@ The true spectrum.
 Ultraviolet and blue.
 We finally found the color.
 *(The song slowly dissolves into an atmospheric synth fade-out, trailing off like stardust into "Moon 1: Tidal Lock".)*
+
 
 
 ***
@@ -1278,6 +1342,7 @@ System failure.
 *(A final, heavy guitar chord rings out into a wall of amplifier feedback that launches straight into "Impact [Mile Marker 98]".)*
 
 
+
 ***
 ### **impact-mile-marker-98-live-at-the-crucible.md**
 ***
@@ -1362,6 +1427,7 @@ We're barely alive.
 The T-10 circuit is blown.
 Mile Marker 98.
 *(The heavy guitar riff chugs to a grinding halt as emergency warning klaxons echo across the stadium straight into "Mayday: The Intercept".)*
+
 
 
 ***
@@ -1538,6 +1604,7 @@ Star City dock.
 *(The heavy guitar fades into the slow rhythmic beeping of the monitor before exploding into the triumphant finale of Act IV, "Twin Moons: Touchdown".)*
 
 
+
 ***
 ### **twin-moons-touchdown-live-at-the-crucible.md**
 ***
@@ -1607,6 +1674,7 @@ Atmospheric entry complete. Gravity is stable.
 On behalf of the crew, we would like to thank you for visiting the Engine Room Records Planetarium.
 The simulation is now concluded.
 Please exit safely, and welcome home.
+
 
 
 ***
@@ -1699,7 +1767,7 @@ Just you and me...
 ***
 
 **LORE NOTE:**
-**Act IV Centerpiece: *"Brother's Keeper"* — The Intimate Reality of Ryan's ADLs & The Final World Tour / CPI Summer Festival Residency Announcement (Part 2 of 3).** The emotional centerpiece of 2008's *Our Own Frequency* and the most private, vulnerable song Ryan and Cassidy have ever written. *"Brother's Keeper"* is an unflinchingly intimate look at the life-or-death mutual protection between brother and sister and what Cassidy and the family go through every single day taking care of Ryan's **ADLs (Activities of Daily Living)** due to his T10 paralysis—performing his daily toileting requirements and morning anti-atrophy leg stretches, pushing his wheelchair when the road is steep, and sharing a bed pushed against the wall at night with Ryan on the inside and Cassidy sleeping on the outside edge to act as a **human bed-rail** so he doesn't roll off, while Ryan serves as Cassidy's emotional anchor against the overwhelming sensory and psychological toll of the world. Before playing the song in the pin-drop silence of The Crucible, Ryan explains that because of the daily physical toll of those ADLs on the road as they have gotten older, the *Reignition* tour is the **last world tour they will ever do**—and announces that starting next summer, The Stardust Engine will stay home in Blacksburg to headline the annual **CPI Summer Festival** as a permanent Hometown Residency.
+**Act IV Centerpiece: *"Brother's Keeper"* — The Intimate Reality of Ryan's ADLs & The End of Touring / Forger Nation Summer Festival Announcement (Part 2 of 3).** The emotional centerpiece of 2008's *Our Own Frequency* and the most private, vulnerable song Ryan and Cassidy have ever written. *"Brother's Keeper"* is an unflinchingly intimate look at the life-or-death mutual protection between brother and sister and what Cassidy and the family go through every single day taking care of Ryan's **ADLs (Activities of Daily Living)** due to his T10 paralysis from the 1990 crash—performing his daily toileting requirements and morning anti-atrophy leg stretches, pushing his wheelchair when the road is steep, and sharing a bed pushed against the wall at night with Ryan on the inside and Cassidy sleeping on the outside edge to act as a **human bed-rail** so he doesn't roll off, while Ryan serves as Cassidy's emotional anchor against the overwhelming sensory and psychological toll of the world. Before playing the song in the pin-drop silence of The Crucible, Ryan explains that twenty-six years after the 1990 crash, the daily physical toll of those ADLs on the road has gotten too hard on his body and family—revealing that tonight's *Reignition* Tour finale at The Crucible is the **last concert a touring The Stardust Engine will ever play**. When the stadium gasps, Cassidy immediately reassures the crowd that they aren't retiring: to give the Town of Blacksburg and CPI time to plan, starting in **August 2017** (the first weekend of August), The Stardust Engine will stay home in Blacksburg to headline the annual **Forger Nation Summer Festival**—combining a campus-wide CPI Open House, a massive downtown Blacksburg block party for signed and unsigned bands, and The Stardust Engine's permanent annual residency concert + fireworks inside The Crucible.
 
 **LYRICS:**
 
@@ -1712,10 +1780,10 @@ This next song is the centerpiece of Our Own Frequency, and it's the most privat
 [female]
 And they don't see how you keep me anchored when the world gets too loud for my head to handle. We take care of each other. That's what family does.
 [male]
-Doing all of those daily routines on tour buses and in hotel rooms across the world was one thing when we were twenty-two. Now that we're older... I'm gonna be honest with you, Forger Nation. Accommodating this chair on the road has gotten too hard on my body, and on my family. So this Reignition tour is going to be the last world tour we ever do.
-[Audience Murmurs Softly, Then Applauds Warmly in Support]
+Doing all of those daily routines on tour buses and in hotel rooms across the world was one thing when I was twenty-two in nineteen-ninety. Twenty-six years later... I'm gonna be honest with you, Forger Nation. Accommodating this chair on the road has gotten too hard on my body, and on my family. Tonight is the final stop of the Reignition tour, and tonight is the last concert a touring Stardust Engine will ever play.
+[Audience Gasps Softly, Then Applauds Warmly in Support]
 [female]
-Wait—don't be sad! We aren't retiring! If touring the world is too hard on Ryan, then the world can come to Blacksburg! Starting next summer, every single year right here at our alma mater, we're headlining the annual CPI Summer Festival—and sleeping in our own beds on Progress Street every night!
+Wait—don't be sad! We aren't retiring! If touring the world is too hard on Ryan, then the world can come to Blacksburg! To give the Town of Blacksburg and CPI time to build this right, starting in August twenty-seventeen, we're launching the annual Forger Nation Summer Festival! A massive CPI Open House for incoming and prospective freshmen, the biggest downtown Blacksburg block party of the summer with stages for signed and unsigned bands, and every single year we'll close the festival right here inside The Crucible with fireworks—and sleep in our own beds on Progress Street every night!
 [Deafening Cheers and Applause Before Hushing Back to Silence]
 [male]
 This is "Brother's Keeper."

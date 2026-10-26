@@ -1,7 +1,9 @@
-# Mayday: The Intercept - DistroKid Quick-Copy Sheet
+# Mayday: The Intercept - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Mayday: The Intercept
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Mayday: The Intercept
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Mayday: The Intercept
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Heavy Rock / Industrial / Arena Rock
 * **Real-World DSP Release Date:** 2026-08-18

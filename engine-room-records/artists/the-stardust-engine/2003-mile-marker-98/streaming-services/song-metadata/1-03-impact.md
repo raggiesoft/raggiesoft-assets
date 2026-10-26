@@ -1,7 +1,9 @@
-# Impact - DistroKid Quick-Copy Sheet
+# Impact - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Impact
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Impact
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Impact
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Heavy Rock / Industrial / Arena Rock
 * **Real-World DSP Release Date:** 2026-08-18

@@ -1,7 +1,9 @@
-# Brand New Scene - DistroKid Quick-Copy Sheet
+# Brand New Scene - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** Brand New Scene
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** Brand New Scene
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Brand New Scene
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Arena Rock / Progressive Pop
 * **Real-World DSP Release Date:** 2026-04-05

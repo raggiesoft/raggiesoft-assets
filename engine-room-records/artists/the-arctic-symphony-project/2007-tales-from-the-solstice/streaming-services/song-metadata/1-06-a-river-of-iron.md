@@ -1,10 +1,12 @@
-# A River of Iron - DistroKid Quick-Copy Sheet
+# A River of Iron - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** A River of Iron
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** A River of Iron
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** A River of Iron
 * **Primary Artist:** The Arctic Symphony Project
 * **Genre:** Symphonic Rock / Rock Opera / Holiday
-* **Real-World DSP Release Date:** 2026-10-20
+* **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**

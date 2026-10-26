@@ -1,7 +1,9 @@
-# The Northern Wastes - DistroKid Quick-Copy Sheet
+# The Northern Wastes - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Northern Wastes
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Northern Wastes
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Northern Wastes
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-09

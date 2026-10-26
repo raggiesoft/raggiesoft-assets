@@ -1,7 +1,9 @@
-# The Scholar of the Twin Suns - DistroKid Quick-Copy Sheet
+# The Scholar of the Twin Suns - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Scholar of the Twin Suns
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Scholar of the Twin Suns
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Scholar of the Twin Suns
 * **Primary Artist:** Firelight
 * **Genre:** Soundtrack / 80s Rock / Orchestral
 * **Real-World DSP Release Date:** 2026-04-09

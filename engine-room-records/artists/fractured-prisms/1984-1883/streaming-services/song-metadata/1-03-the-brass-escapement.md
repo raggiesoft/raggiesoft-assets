@@ -1,7 +1,9 @@
-# The Brass Escapement - DistroKid Quick-Copy Sheet
+# The Brass Escapement - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Brass Escapement
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Brass Escapement
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Brass Escapement
 * **Primary Artist:** Fractured Prisms
 * **Genre:** Progressive Pop / Gothic Synth-Rock Opera
 * **Real-World DSP Release Date:** 2026-10-15

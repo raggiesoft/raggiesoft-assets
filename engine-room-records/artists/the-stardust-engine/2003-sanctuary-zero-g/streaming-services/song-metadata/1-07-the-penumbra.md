@@ -1,7 +1,9 @@
-# The Penumbra - DistroKid Quick-Copy Sheet
+# The Penumbra - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
-## 1. DistroKid Upload Form Data
-* **Track Title:** The Penumbra
+## 1. Distributor Upload Form Data
+* **Track Title (Name):** The Penumbra
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** The Penumbra
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Atmospheric Synth-Pop / Ambient / Space Rock
 * **Real-World DSP Release Date:** 2026-08-17
