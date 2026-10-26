@@ -8,7 +8,7 @@
 * **Artist / Band Name:** `The Stardust Engine`
 * **Album Title:** `Live at the Crucible`
 * **Release Type:** `Live Album` (`LiveAlbum`)
-* **Total Tracks:** `32` (`3` WAV Masters Ready / `29` In Studio)
+* **Total Tracks:** `34` (`3` WAV Masters Ready / `31` In Studio)
 * **Record Label:** `Engine Room Records`
 * **Primary Genre:** `Live Stadium Rock / 1980s AOR / Progressive Symphonic Space-Rock / Collegiate Marching Band Rock`
 * **In-Universe Release Date:** `2016-10-15`
@@ -22,7 +22,7 @@
 
 ---
 
-### Songs (32 Tracks)
+### Songs (34 Tracks)
 
 1. [Disc 1 • Track 1] Ignition: The Forger's Call
 * **Name:** Ignition: The Forger's Call
@@ -264,7 +264,17 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-16-safe-person.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-16-safe-person.txt`
 
-25. [Disc 3 • Track 4] Echoes in the Wire
+25. [Disc 3 • Track 4] Still Your Safe Person
+* **Name:** Still Your Safe Person
+* **Version:** Live at the Crucible
+* **ID3 / Vorbis Tagged Title:** `Still Your Safe Person (Live at the Crucible)`
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* **Duration:** 4:15 • **Instrumental:** No • **Explicit:** No
+* **Songwriter (Lyricist):** Michael P. Ragsdale
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/still-your-safe-person-live-at-the-crucible.wav` (⏳ In Studio)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/still-your-safe-person-live-at-the-crucible.txt`
+
+26. [Disc 3 • Track 5] Echoes in the Wire
 * **Name:** Echoes in the Wire
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Echoes in the Wire (Live at the Crucible)`
@@ -274,7 +284,7 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-17-echoes-in-the-wire.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-17-echoes-in-the-wire.txt`
 
-26. [Disc 3 • Track 5] Saturday Night Lights: The Crucible
+27. [Disc 3 • Track 6] Saturday Night Lights: The Crucible
 * **Name:** Saturday Night Lights: The Crucible
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Saturday Night Lights: The Crucible (Live at the Crucible)`
@@ -284,7 +294,7 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-18-saturday-night-lights-the-crucible.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-18-saturday-night-lights-the-crucible.txt`
 
-27. [Disc 3 • Track 6] Progress Street: Where the Fire Began
+28. [Disc 3 • Track 7] Progress Street: Where the Fire Began
 * **Name:** Progress Street: Where the Fire Began
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Progress Street: Where the Fire Began (Live at the Crucible)`
@@ -294,7 +304,17 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-19-progress-street-where-the-fire-began.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-19-progress-street-where-the-fire-began.txt`
 
-28. [Disc 3 • Track 7] Neon Hearts
+29. [Disc 3 • Track 8] Neon on the Huckleberry Trail
+* **Name:** Neon on the Huckleberry Trail
+* **Version:** Live at the Crucible
+* **ID3 / Vorbis Tagged Title:** `Neon on the Huckleberry Trail (Live at the Crucible)`
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* **Duration:** 4:05 • **Instrumental:** No • **Explicit:** No
+* **Songwriter (Lyricist):** Michael P. Ragsdale
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/neon-on-the-huckleberry-trail-live-at-the-crucible.wav` (⏳ In Studio)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/neon-on-the-huckleberry-trail-live-at-the-crucible.txt`
+
+30. [Disc 3 • Track 9] Neon Hearts
 * **Name:** Neon Hearts
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Neon Hearts (Live at the Crucible)`
@@ -304,7 +324,7 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-20-neon-hearts.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-20-neon-hearts.txt`
 
-29. [Disc 3 • Track 8] My Anchor Holds
+31. [Disc 3 • Track 10] My Anchor Holds
 * **Name:** My Anchor Holds
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `My Anchor Holds (Live at the Crucible)`
@@ -314,7 +334,7 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-21-my-anchor-holds.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-21-my-anchor-holds.txt`
 
-30. [Disc 3 • Track 9] Reignition: Lights Up on Progress Street
+32. [Disc 3 • Track 11] Reignition: Lights Up on Progress Street
 * **Name:** Reignition: Lights Up on Progress Street
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Reignition: Lights Up on Progress Street (Live at the Crucible)`
@@ -324,7 +344,7 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-22-reignition-lights-up-on-progress-street.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-22-reignition-lights-up-on-progress-street.txt`
 
-31. [Disc 3 • Track 10] Last Bus Home: Lights Out on Progress Street
+33. [Disc 3 • Track 12] Last Bus Home: Lights Out on Progress Street
 * **Name:** Last Bus Home: Lights Out on Progress Street
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Last Bus Home: Lights Out on Progress Street (Live at the Crucible)`
@@ -334,7 +354,7 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-23-last-bus-home-lights-out-on-progress-street.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-23-last-bus-home-lights-out-on-progress-street.txt`
 
-32. [Disc 3 • Track 11] Electric Color
+34. [Disc 3 • Track 13] Electric Color
 * **Name:** Electric Color
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Electric Color (Live at the Crucible)`

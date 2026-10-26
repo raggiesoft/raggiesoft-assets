@@ -41,14 +41,16 @@
      11. **`1-11-steel-and-synthetics` — `Steel and Synthetics`** *(from 2007's *Lost Sounds*)*
      12. **`1-12-moon-1-tidal-lock` — `Moon 1: Tidal Lock`** *(from 1997's *Hard Reset* / 2003's *Sanctuary [Zero-G]*)*
      13. **`1-13-mayday-the-intercept` — `Mayday: The Intercept`** *(from 2003's *Mile Marker 98*)*
-   - **Act IV — *Our Own Frequency*: The Intimate Brother & Sister Acoustic Block & Residency Announcement (Tracks 14–16):**
+   - **Act V — *Our Own Frequency*: The Intimate Brother & Sister Acoustic Block & Residency Announcement (Disc 3, Tracks 01–04):**
      14. **`1-14-our-own-frequency` — `Our Own Frequency`** *(from 2008's *Our Own Frequency* — Evan and Tyler leave the stage so Ryan and Cassidy can perform their secret 2008 Burnout Hiatus living-room songs live for the very first time on acoustic guitar and piano)*
      15. **`1-15-brothers-keeper` — `Brother's Keeper`** *(from 2008's *Our Own Frequency* — **THE CENTERPIECE OF OUR OWN FREQUENCY**: an unflinchingly intimate look at what Cassidy and the family go through every day taking care of Ryan's ADLs due to his T10 paralysis, where Ryan announces that tonight is the final concert of a touring The Stardust Engine and Cassidy unveils the annual **Forger Nation Summer Festival** launching in August 2017)*
      16. **`1-16-safe-person` — `Safe Person`** *(from 2008's *Our Own Frequency* — Ryan and Cassidy's intimate acoustic guitar and piano duet about Ryan acting as Cassidy's safe person and emotional anchor)*
-   - **Act V — Full-Band Electric Return, Saturday Night Lights & The Homecoming Sprint to the False Ending (Tracks 17–23):**
+     16B. **`still-your-safe-person-live-at-the-crucible` — `Still Your Safe Person (Live at the Crucible)`** *(from 2015's *Reignition* — Stripped all the way down from the studio AOR power ballad to strictly Cassidy's acoustic grand piano and Ryan's fingerpicked acoustic guitar to close the *Our Own Frequency* living-room block as the seven-year sequel to *"Safe Person"*)*
+   - **Act VI — Full-Band Electric Return, Saturday Night Lights & The Homecoming Sprint to the False Ending (Disc 3, Tracks 05–12):**
      17. **`1-17-echoes-in-the-wire` — `Echoes in the Wire`** *(from 1997's *Hard Reset* — Starts at the grand piano before Evan and Tyler's full electric stadium band roars back in; permanently replacing the banned *"If You Walked Away"*)*
      18. **`1-18-saturday-night-lights-the-crucible` — `Saturday Night Lights: The Crucible`** *(from 2004's *Progress Street* — **LIVE CONCERT DEBUT!** By sacred vow, this song will ONLY ever be played live at The Crucible)*
      19. **`1-19-progress-street-where-the-fire-began` — `Progress Street: Where the Fire Began`** *(from 2004's *Progress Street*)*
+     19B. **`neon-on-the-huckleberry-trail-live-at-the-crucible` — `Neon on the Huckleberry Trail (Live at the Crucible)`** *(from 2015's *Reignition* — Hometown singalong for 65,000 fellow Forgers celebrating twilight walks and rides along the Huckleberry Trail while the stadium lights of The Crucible glow over the valley)*
      20. **`1-20-neon-hearts` — `Neon Hearts`** *(from 1989's *Neon Hearts*)*
      21. **`1-21-my-anchor-holds` — `My Anchor Holds`** *(from 1987's *Electric Color*)*
      22. **`1-22-reignition-lights-up-on-progress-street` — `Reignition: Lights Up on Progress Street`** *(from 2015's *Reignition*)*
@@ -960,6 +962,234 @@ You're my safe person...
 [male]
 Always.
 (Fade out on a single, resonating acoustic guitar chord followed by a warm, roaring ovation)
+```
+
+---
+
+### Track 16B (Disc 3, Track 04): `Still Your Safe Person (Live at the Crucible)` *(Act V Acoustic Finale — Stripped Down to Grand Piano & Acoustic Guitar Only — Part 4 of 4)*
+* **Generation Mode:** **Suno v6 74% Cover Protocol** (Upload `master-wav/studio/still-your-safe-person.wav` into Suno Cover)
+* **Save Downloaded WAV As:** `still-your-safe-person-live-at-the-crucible.wav`
+* **Audio Influence:** `74%` • **Style Influence:** `90%` • **Weirdness:** `0%`
+* **Vocal Gender UI Setting:** `Unselected` (Duet Protocol — Strictly Cassidy at the acoustic grand piano & Ryan on fingerpicked acoustic guitar, ZERO drums or electric instruments)
+
+#### Styles to Include
+```text
+intimate live acoustic concert recording in a hushed 65000-person stadium, warm acoustic grand piano and fingerpicked acoustic guitar duet only, heartfelt male and female vocal duet, tender vulnerable sibling harmonies, natural open-air stadium reverb, quiet respectful crowd ambience with warm standing ovation at the end, stripped-back singer-songwriter ballad, 78 BPM, F Major
+```
+
+#### Styles to Exclude
+```text
+drums, drum kit, snare drum, percussion, bass guitar, electric guitar, guitar solo, heavy distortion, synthesizer, brass section, marching band, studio flat mix, loud crowd screaming over vocals, hip hop, rap, electronic dance beat
+```
+
+#### Lyrics (Copy-Paste into Suno — Stripped-Down Piano & Acoustic Guitar Arrangement)
+```text
+[Warm Stadium Applause Fades to Pin-Drop Silence]
+[Spoken Word Intro]
+[female]
+Back in two thousand and eight, when we recorded "Safe Person" in our living room, we didn't know if we would ever step onto a stage like this again.
+[male]
+Seven years later, when we wrote Reignition, we wrote the next chapter of that promise. Before Evan and Tyler come back out here with the electric rigs, we wanted to strip this one all the way back down to the piano and the six-string—just the way it started in the living room. This is "Still Your Safe Person."
+
+[Intro]
+(Gentle, resonant acoustic grand piano arpeggio in a hushed open-air stadium, joined by warm fingerpicked acoustic guitar)
+
+[Verse 1]
+[male]
+Seven years since we sat on that living room floor
+Two microphones running behind a locked door
+We sang about surviving the flashes and noise
+And protecting our peace from the corporate boys
+Now the stadium's waiting, the lights are turned high
+Sixty thousand old friends underneath the night sky
+
+[Verse 2]
+[female]
+I still feel the static when cameras close in
+I still feel the tremor before we begin
+But I look to my left and your wheels are locked tight
+Right beside my piano in warm golden light
+And the panic dissolves in the first chord you play
+Just like it did on that quiet Tuesday
+
+[Chorus]
+(Tender, soaring brother and sister vocal harmony over strictly acoustic grand piano and fingerpicked acoustic guitar)
+I'm still your safe person, after all these years
+Still the quiet harbor when the world appears
+Through the stadium thunder and the bright marquee
+You can drop the armor when you look at me
+No matter how loud all the echoes become
+I'm still your safe person when the night is done
+
+[Verse 3]
+[male]
+Time put some silver inside of our hair
+Put a few more miles on this titanium chair
+[female]
+We don't have to prove anything anymore
+We already won what we were fighting for
+[male]
+So take a deep breath, Cass, and open your hands
+We're home with our family in these mountain stands
+
+[Chorus]
+(Intimate brother and sister duet over pure grand piano and acoustic guitar)
+I'm still your safe person, after all these years
+Still the quiet harbor when the world appears
+Through the stadium thunder and the bright marquee
+You can drop the armor when you look at me
+No matter how loud all the echoes become
+I'm still your safe person when the night is done
+
+[Instrumental Interlude]
+(A deeply emotional, delicate acoustic guitar and grand piano duet echoing across the silent stadium bowl, with no drums or electric instruments)
+
+[Bridge]
+(Stripped back to just grand piano and fingerpicked acoustic guitar)
+[female]
+You're still my anchor when the lights get too bright
+[male]
+You're still my brother's keeper in the middle of the night
+(Both in close sibling harmony)
+Two halves of the engine, two halves of the song
+Right where we belong!
+
+[Final Chorus]
+(Soaring, emotional acoustic vocal harmony filling the quiet night air)
+I'm still your safe person, after all these years
+Still the quiet harbor when the world appears
+Through the stadium thunder and the bright marquee
+You can drop the armor when you look at me
+No matter how loud all the echoes become
+I'm still your safe person when the night is done
+
+[Outro]
+[female]
+Still your safe person...
+[male]
+Always, Cass.
+(Final lingering grand piano chord and warm acoustic guitar strum fading into a deeply moved, roaring 65000-person standing ovation)
+```
+
+---
+
+### Track 19B (Disc 3, Track 08): `Neon on the Huckleberry Trail (Live at the Crucible)` *(Act VI Hometown Singalong for 65,000 Fellow Forgers)*
+* **Generation Mode:** **Suno v6 74% Cover Protocol** (Upload `master-wav/studio/neon-on-the-huckleberry-trail.wav` into Suno Cover)
+* **Save Downloaded WAV As:** `neon-on-the-huckleberry-trail-live-at-the-crucible.wav`
+* **Audio Influence:** `74%` • **Style Influence:** `90%` • **Weirdness:** `0%`
+* **Vocal Gender UI Setting:** `Unselected` (Duet Protocol + 65,000 Fellow Forgers Singalong)
+
+#### Styles to Include
+```text
+1980s heartland synth-rock and AOR stadium anthem live concert recording, shimmering 12-string electric and acoustic guitars, warm analog polyphonic synthesizer pads, driving melodic bass and live gated stadium drums, joyous male and female vocal duet with 65000 person college stadium crowd singalong, nostalgic Appalachian twilight atmosphere, 122 BPM, D Major, uplifting, hometown pride
+```
+
+#### Styles to Exclude
+```text
+studio flat mix, dry vocals, modern pop, hip hop, rap, bro-country, heavy metal, screamo, lo-fi, sluggish
+```
+
+#### Lyrics (Copy-Paste into Suno)
+```text
+[Roaring 65000 Person Stadium Crowd Cheers]
+[Shimmering 12-String Guitar and Warm Analog Synth Pad]
+
+[Spoken Word Intro]
+[female]
+Every single Forger in this stadium knows that paved path winding through the trees between Blacksburg and Christiansburg!
+[male]
+For ten years while we were away from the stages, that old rail trail was where we went every evening at sundown—rolling my chair under the oak trees while the stadium lights of The Crucible lit up the sky over the valley! Sing this one with us, Forger Nation!
+
+[Intro]
+(Shimmering 12-string electric guitar arpeggio and warm analog polyphonic synth pad, joined by Tyler's driving live stadium beat)
+
+[Verse 1]
+[female]
+The sun goes down behind the western ridge
+Golden hour fading by the wooden bridge
+Six miles of asphalt winding through the trees
+Where the old coal trains used to catch the breeze
+[male]
+I oil the bearings on my racing wheels
+You lace your sneakers for the evening hills
+Evan and Tyler riding side by side
+No cameras watching on the mountain ride
+
+[Pre-Chorus]
+[female]
+Past the university and the pastures green
+The quietest peace that we have ever seen
+[male]
+And when the twilight turns to purple blue
+The stadium towers light the sky for you!
+
+[Chorus]
+(Full stadium AOR band and 65000 fellow Forgers singing along in unison)
+Like neon on the Huckleberry Trail!
+Where the mountain wind fills up the silver sail!
+Just the four of us rolling through the autumn air
+With the Blue Ridge glowing like a quiet prayer!
+Where nobody asks for a piece of our soul
+And the mountain air makes the broken parts whole
+Under neon on the Huckleberry Trail!
+
+[Verse 2]
+[male]
+Students on bicycles ring a little bell
+Wave a quick hello and they never tell
+In this college town we're just neighborsagain
+Out for a breath at the day's gentle end
+[female]
+Fireflies rising from the meadow grass
+Watching the shadows of the valley pass
+This paved little ribbon on the railroad bed
+Cleared every ghost out of my tired head!
+
+[Pre-Chorus]
+[female]
+Past the university and the pastures green
+The quietest peace that we have ever seen
+[male]
+And when the twilight turns to purple blue
+The stadium towers light the sky for you!
+
+[Chorus]
+(65000 voices roaring the chorus across The Crucible)
+Like neon on the Huckleberry Trail!
+Where the mountain wind fills up the silver sail!
+Just the four of us rolling through the autumn air
+With the Blue Ridge glowing like a quiet prayer!
+Where nobody asks for a piece of our soul
+And the mountain air makes the broken parts whole
+Under neon on the Huckleberry Trail!
+
+[Guitar & Synth Solo]
+(Breezy, soaring 1980s heartland electric guitar lead harmonizing with a crystalline analog synthesizer melody over roaring stadium applause)
+
+[Bridge]
+[female]
+From the library steps to the Christiansburg line
+Every mile marker is a friend of mine
+[male]
+We spent ten summers healing in the shade
+Of the best decision that we ever made!
+
+[Final Chorus]
+(Maximum stadium singalong energy with 65000 Forgers)
+Like neon on the Huckleberry Trail!
+Where the mountain wind fills up the silver sail!
+Just the four of us rolling through the autumn air
+With the Blue Ridge glowing like a quiet prayer!
+Where nobody asks for a piece of our soul
+And the mountain air makes the broken parts whole
+Under neon on the Huckleberry Trail!
+
+[Outro]
+[female]
+Under neon on the Huckleberry Trail...
+[male]
+Rolling home to Blacksburg...
+(Shimmering 12-string guitar chime and warm synth chord fading into a deafening 65000-person hometown ovation)
 ```
 
 ---

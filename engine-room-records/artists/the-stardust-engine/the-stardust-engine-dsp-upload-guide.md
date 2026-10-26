@@ -1343,67 +1343,67 @@
 * Name: Reignition: Lights Up on Progress Street
 * Version: None (Leave Blank on DSP)
 * ID3 / Vorbis Tag: Reignition: Lights Up on Progress Street
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600046
 
 2. Main Engine Start
 * Name: Main Engine Start
 * Version: None (Leave Blank on DSP)
 * ID3 / Vorbis Tag: Main Engine Start
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600047
 
 3. The Iceberg: Submerged
 * Name: The Iceberg: Submerged
 * Version: None (Leave Blank on DSP)
 * ID3 / Vorbis Tag: The Iceberg: Submerged
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600048
 
 4. Orbital Return
 * Name: Orbital Return
 * Version: None (Leave Blank on DSP)
 * ID3 / Vorbis Tag: Orbital Return
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600049
 
 5. Ten Years in the Quiet
 * Name: Ten Years in the Quiet
 * Version: None (Leave Blank on DSP)
 * ID3 / Vorbis Tag: Ten Years in the Quiet
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600050
 
 6. Fifty-Two to Nothing: The Norfolk Reckoning
 * Name: Fifty-Two to Nothing: The Norfolk Reckoning
 * Version: None (Leave Blank on DSP)
 * ID3 / Vorbis Tag: Fifty-Two to Nothing: The Norfolk Reckoning
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600051
 
 7. Twin Frequency: The Rhythm Section
 * Name: Twin Frequency: The Rhythm Section
 * Version: None (Leave Blank on DSP)
 * ID3 / Vorbis Tag: Twin Frequency: The Rhythm Section
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600052
 
 8. Neon on the Huckleberry Trail
 * Name: Neon on the Huckleberry Trail
 * Version: None (Leave Blank on DSP)
 * ID3 / Vorbis Tag: Neon on the Huckleberry Trail
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600053
 
 9. No Strings on the Master
 * Name: No Strings on the Master
 * Version: None (Leave Blank on DSP)
 * ID3 / Vorbis Tag: No Strings on the Master
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600054
 
 10. Still Your Safe Person
 * Name: Still Your Safe Person
 * Version: None (Leave Blank on DSP)
 * ID3 / Vorbis Tag: Still Your Safe Person
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600055
 
 11. Where the Stars Still Burn
 * Name: Where the Stars Still Burn
 * Version: None (Leave Blank on DSP)
 * ID3 / Vorbis Tag: Where the Stars Still Burn
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600056
 
 ---
 ## Live at the Crucible (2016) — Live Album
@@ -1553,49 +1553,61 @@
 * ID3 / Vorbis Tag: Safe Person (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-25 (D3-T4). Echoes in the Wire
+25 (D3-T4). Still Your Safe Person
+* Name: Still Your Safe Person
+* Version: Live at the Crucible
+* ID3 / Vorbis Tag: Still Your Safe Person (Live at the Crucible)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+26 (D3-T5). Echoes in the Wire
 * Name: Echoes in the Wire
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Echoes in the Wire (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-26 (D3-T5). Saturday Night Lights: The Crucible
+27 (D3-T6). Saturday Night Lights: The Crucible
 * Name: Saturday Night Lights: The Crucible
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Saturday Night Lights: The Crucible (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-27 (D3-T6). Progress Street: Where the Fire Began
+28 (D3-T7). Progress Street: Where the Fire Began
 * Name: Progress Street: Where the Fire Began
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Progress Street: Where the Fire Began (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-28 (D3-T7). Neon Hearts
+29 (D3-T8). Neon on the Huckleberry Trail
+* Name: Neon on the Huckleberry Trail
+* Version: Live at the Crucible
+* ID3 / Vorbis Tag: Neon on the Huckleberry Trail (Live at the Crucible)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+30 (D3-T9). Neon Hearts
 * Name: Neon Hearts
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Neon Hearts (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-29 (D3-T8). My Anchor Holds
+31 (D3-T10). My Anchor Holds
 * Name: My Anchor Holds
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: My Anchor Holds (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-30 (D3-T9). Reignition: Lights Up on Progress Street
+32 (D3-T11). Reignition: Lights Up on Progress Street
 * Name: Reignition: Lights Up on Progress Street
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Reignition: Lights Up on Progress Street (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-31 (D3-T10). Last Bus Home: Lights Out on Progress Street
+33 (D3-T12). Last Bus Home: Lights Out on Progress Street
 * Name: Last Bus Home: Lights Out on Progress Street
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Last Bus Home: Lights Out on Progress Street (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-32 (D3-T11). Electric Color
+34 (D3-T13). Electric Color
 * Name: Electric Color
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Electric Color (Live at the Crucible)

@@ -3,134 +3,145 @@
     {
       "fileName": "1-01-reignition-lights-up-on-progress-street",
       "title": "Reignition: Lights Up on Progress Street",
-      "isrc": "",
+      "isrc": "QTAHP2600046",
       "masterWavPath": "studio/reignition-lights-up-on-progress-street",
       "disc": 1,
       "discName": "Reignition",
       "track": 1,
       "legacyTier": "Fan Anthem",
       "loreNote": "Thematically answering the sign-off of 2004's \"Last Bus Home: Lights Out on Progress Street\" (\"Lights out on Progress Street... Goodnight, Forger Nation\"), the opening anthem of 2015's *Reignition* celebrates the end of the band's decade-long **2005–2014 Burnout Hiatus**. Opening with warm acoustic piano chords that erupt into Cassidy's bright analog polyphonic analog brass fanfare, Tyler's booming gated-reverb snare, Evan's driving eighth-note bassline, and Ryan's soaring electric guitar, it marks the family's triumphant return to full-throttle 1980s AOR studio rock.",
-      "stylePrompt": "1980s AOR anthem, melodic stadium rock, male and female duet, soaring high tenor male vocal, powerhouse alto female vocal, warm acoustic piano intro building into a bright 1980s polyphonic analog synthesizer brass fanfare, driving eighth-note electric bassline, massive pounding 80s gated reverb snare drum, crisp overdriven rhythm electric guitar, 132 BPM, D Major, triumphant comeback opener, soaring twin guitar and synthesizer solo"
+      "stylePrompt": "1980s AOR anthem, melodic stadium rock, male and female duet, soaring high tenor male vocal, powerhouse alto female vocal, warm acoustic piano intro building into a bright 1980s polyphonic analog synthesizer brass fanfare, driving eighth-note electric bassline, massive pounding 80s gated reverb snare drum, crisp overdriven rhythm electric guitar, 132 BPM, D Major, triumphant comeback opener, soaring twin guitar and synthesizer solo",
+      "duration": "5:06"
     },
     {
       "fileName": "1-02-main-engine-start",
       "title": "Main Engine Start",
-      "isrc": "",
+      "isrc": "QTAHP2600047",
       "masterWavPath": "studio/main-engine-start",
       "disc": 1,
       "discName": "Reignition",
       "track": 2,
       "legacyTier": "Chart Smash",
       "loreNote": "Inspired by the Space Shuttle launch on the album's cover and the band's lifelong love of the rockets that take you to the cosmos (\"Engine\"), Ryan leads a 142 BPM 1980s arena-rock thriller structured around a Cape Canaveral launch countdown (\"T-minus six seconds... Main Engine Start... Zero... Liftoff!\"). The song celebrates the sheer physical exhilaration of feeling the band's creative thrusters roar back to full power after ten years on the ground.",
-      "stylePrompt": "1980s arena rock, high-energy AOR stadium rocker, solo high tenor male lead vocal with gang chorus harmonies, spoken countdown intro, chugging palm-muted electric guitar riff, sweeping 80s analog synthesizer arpeggios, driving bass guitar, massive pounding 80s gated reverb drums, 142 BPM, E Minor, exhilarating, cosmic launch energy, screaming melodic guitar solo"
+      "stylePrompt": "1980s arena rock, high-energy AOR stadium rocker, solo high tenor male lead vocal with gang chorus harmonies, spoken countdown intro, chugging palm-muted electric guitar riff, sweeping 80s analog synthesizer arpeggios, driving bass guitar, massive pounding 80s gated reverb drums, 142 BPM, E Minor, exhilarating, cosmic launch energy, screaming melodic guitar solo",
+      "duration": "6:27"
     },
     {
       "fileName": "1-03-the-iceberg-submerged",
       "title": "The Iceberg: Submerged",
-      "isrc": "",
+      "isrc": "QTAHP2600048",
       "masterWavPath": "studio/the-iceberg-submerged",
       "disc": 1,
       "discName": "Reignition",
       "track": 3,
       "legacyTier": "Fan Favorite",
       "loreNote": "A sleek, driving 126 BPM 1980s melodic synth-rocker celebrating younger sister and CEO Holly O'Connell passing the Delaware Bar in August 2015 and executing \"The Delaware Migration\"—folding *Engine Room Records, LLC*, *Artists First Management, LLC*, *Stardust Properties, LLC*, and *Pacific Rim Properties, LLC* into anonymous Delaware corporate structures beneath *The O'Connell Family Revocable Trust*. As Cassidy sings over a sequenced analog bassline, nine-tenths of the family's $2.4B+ fortress sits permanently beneath the waterline where the outside world can never see it.",
-      "stylePrompt": "1980s melodic synth-rock, New Wave AOR, solo powerhouse alto female lead vocal, punchy sequenced analog synthesizer bassline, shimmering 80s polyphonic synth hooks, rhythmic clean-to-overdriven electric guitar, crisp 80s gated reverb snare drum, 126 BPM, F# Minor, sleek, confident, untouchable, soaring guitar and synth duel"
+      "stylePrompt": "1980s melodic synth-rock, New Wave AOR, solo powerhouse alto female lead vocal, punchy sequenced analog synthesizer bassline, shimmering 80s polyphonic synth hooks, rhythmic clean-to-overdriven electric guitar, crisp 80s gated reverb snare drum, 126 BPM, F# Minor, sleek, confident, untouchable, soaring guitar and synth duel",
+      "duration": "4:46"
     },
     {
       "fileName": "1-04-orbital-return",
       "title": "Orbital Return",
-      "isrc": "",
+      "isrc": "QTAHP2600049",
       "masterWavPath": "studio/orbital-return",
       "disc": 1,
       "discName": "Reignition",
       "track": 4,
       "legacyTier": "Fan Anthem",
       "loreNote": "Cassidy's lush, zero-gravity 1980s Cosmic Pop centerpiece (**The Cosmic Tidal Lock Sound™**), bridging her 2011 silver-anniversary studio project *Starfield Calibration* into the full four-piece band's 2015 comeback. Layered with sweeping analog polyphonic pads, cascading analog polyphonic arpeggios, and a weightless, singing lead guitar solo from Ryan, it captures the sensation of a spacecraft rounding the far side of the moon and locking back onto the radio beacon of home.",
-      "stylePrompt": "1980s cosmic synth-pop, melodic AOR, solo powerhouse alto female lead vocal, lush sweeping 80s analog polyphonic synthesizer pads, sparkling arpeggiated synth sequencer, melodic fretless-style electric bass, booming 80s gated reverb drums, soaring emotional electric guitar solo, 118 BPM, A Major, weightless, euphoric, celestial"
+      "stylePrompt": "1980s cosmic synth-pop, melodic AOR, solo powerhouse alto female lead vocal, lush sweeping 80s analog polyphonic synthesizer pads, sparkling arpeggiated synth sequencer, melodic fretless-style electric bass, booming 80s gated reverb drums, soaring emotional electric guitar solo, 118 BPM, A Major, weightless, euphoric, celestial",
+      "duration": "5:42"
     },
     {
       "fileName": "1-05-ten-years-in-the-quiet",
       "title": "Ten Years in the Quiet",
-      "isrc": "",
+      "isrc": "QTAHP2600050",
       "masterWavPath": "studio/ten-years-in-the-quiet",
       "disc": 1,
       "discName": "Reignition",
       "track": 5,
       "legacyTier": "Deep Cut",
       "loreNote": "An honest, deeply moving 84 BPM 1980s AOR power ballad reflecting on the **2005–2014 Burnout Hiatus**. After recording four studio albums in four years and reaching complete sensory and physical exhaustion at the end of the 2004 Norfolk tour, Ryan and Cassidy sing about how choosing to walk away from the spotlight for ten years—drinking coffee on the Progress Street porch, cooking family dinners, and protecting their neurodivergent boundaries—saved their lives and kept the five of them whole.",
-      "stylePrompt": "1980s AOR power ballad, male and female duet, high tenor male vocal, warm alto female vocal, acoustic piano and clean chorused electric guitar arpeggios, lush 80s analog synth strings, massive 80s gated reverb snare drum entrance, melodic bassline, 84 BPM, G Major, reflective, healing, emotional stadium crescendo, soaring guitar solo"
+      "stylePrompt": "1980s AOR power ballad, male and female duet, high tenor male vocal, warm alto female vocal, acoustic piano and clean chorused electric guitar arpeggios, lush 80s analog synth strings, massive 80s gated reverb snare drum entrance, melodic bassline, 84 BPM, G Major, reflective, healing, emotional stadium crescendo, soaring guitar solo",
+      "duration": "6:00"
     },
     {
       "fileName": "1-06-fifty-two-to-nothing-the-norfolk-reckoning",
       "title": "Fifty-Two to Nothing: The Norfolk Reckoning",
-      "isrc": "",
+      "isrc": "QTAHP2600051",
       "masterWavPath": "studio/fifty-two-to-nothing-the-norfolk-reckoning",
       "disc": 1,
       "discName": "Reignition",
       "track": 6,
       "legacyTier": "Stadium Classic",
       "loreNote": "Written and recorded in a burst of autumn excitement in October 2015 immediately after **Commonwealth Polytechnic Institute (CPI)** traveled down to Norfolk for **Virginia Dominion University (VDU)**'s Homecoming game. After VDU students printed thousands of mocking *\"38–0\"* t-shirts commemorating their 2014 upset, the Forgers walked into Norfolk and delivered a triumphant **52–0 shutout victory**. Featuring Tyler's thunderous marching snare cadence and a roaring stadium chorus, it became an instant autumn anthem across Blacksburg.",
-      "stylePrompt": "1980s stadium rock stomper, high-energy AOR arena anthem, male and female duet, roaring stadium gang vocals, thunderous marching drumline snare cadence with massive 80s gated reverb, driving overdriven electric guitar riff, triumphant 80s synthesizer brass stabs, 138 BPM, C Minor, triumphant, victorious, high-octane, blazing twin guitar and synth solo"
+      "stylePrompt": "1980s stadium rock stomper, high-energy AOR arena anthem, male and female duet, roaring stadium gang vocals, thunderous marching drumline snare cadence with massive 80s gated reverb, driving overdriven electric guitar riff, triumphant 80s synthesizer brass stabs, 138 BPM, C Minor, triumphant, victorious, high-octane, blazing twin guitar and synth solo",
+      "duration": "4:55"
     },
     {
       "fileName": "1-07-twin-frequency-the-rhythm-section",
       "title": "Twin Frequency: The Rhythm Section",
-      "isrc": "",
+      "isrc": "QTAHP2600052",
       "masterWavPath": "studio/twin-frequency-the-rhythm-section",
       "disc": 1,
       "discName": "Reignition",
       "track": 7,
       "legacyTier": "Fan Favorite",
       "loreNote": "A high-energy, groove-driven 130 BPM 1980s arena rocker spotlighting identical twin brothers **Evan** (bass guitar) and **Tyler** (drums)—the unshakeable rhythmic engine of The Stardust Engine since 1985. Built around a syncopated slap-and-fingerstyle bass groove locked to Tyler's booming octoban fills and gated-reverb snare, the track celebrates the twins' telepathic connection both on stage and behind the wheel of *The Iron Horse*.",
-      "stylePrompt": "1980s groove-driven arena rock, upbeat melodic AOR, solo high tenor male lead vocal with gang backing shouts, virtuosic syncopated electric bass groove, thunderous 1980s drum fills with octobans and massive gated reverb snare, punchy 80s synth brass hits, rhythmic electric guitar, 130 BPM, A Minor, infectious groove, dual bass and drum breakdown"
+      "stylePrompt": "1980s groove-driven arena rock, upbeat melodic AOR, solo high tenor male lead vocal with gang backing shouts, virtuosic syncopated electric bass groove, thunderous 1980s drum fills with octobans and massive gated reverb snare, punchy 80s synth brass hits, rhythmic electric guitar, 130 BPM, A Minor, infectious groove, dual bass and drum breakdown",
+      "duration": "4:52"
     },
     {
       "fileName": "1-08-neon-on-the-huckleberry-trail",
       "title": "Neon on the Huckleberry Trail",
-      "isrc": "",
+      "isrc": "QTAHP2600053",
       "masterWavPath": "studio/neon-on-the-huckleberry-trail",
       "disc": 1,
       "discName": "Reignition",
       "track": 8,
       "legacyTier": "Deep Cut",
       "loreNote": "A nostalgic, shimmering 124 BPM 1980s melodic synth-pop and AOR gem celebrating autumn dusks in Blacksburg and Christiansburg—Cassidy riding her bicycle and Ryan rolling his everyday wheelchair along the paved six-mile **Huckleberry Trail** under a canopy of golden and crimson Appalachian maples as twilight settles over the New River Valley and the stadium lights of **The Crucible** flicker on in the distance.",
-      "stylePrompt": "1980s dream-pop AOR, nostalgic melodic synth-rock, solo powerhouse alto female lead vocal, shimmering 1980s chorus electric guitar, warm analog polyphonic synthesizer arpeggios, driving eighth-note bassline, crisp 80s gated reverb drums, 124 BPM, E Major, autumnal, uplifting, breezy, melodic guitar solo"
+      "stylePrompt": "1980s dream-pop AOR, nostalgic melodic synth-rock, solo powerhouse alto female lead vocal, shimmering 1980s chorus electric guitar, warm analog polyphonic synthesizer arpeggios, driving eighth-note bassline, crisp 80s gated reverb drums, 124 BPM, E Major, autumnal, uplifting, breezy, melodic guitar solo",
+      "duration": "5:13"
     },
     {
       "fileName": "1-09-no-strings-on-the-master",
       "title": "No Strings on the Master",
-      "isrc": "",
+      "isrc": "QTAHP2600054",
       "masterWavPath": "studio/no-strings-on-the-master",
       "disc": 1,
       "discName": "Reignition",
       "track": 9,
       "legacyTier": "Fan Favorite",
       "loreNote": "A scorching 146 BPM 1980s hard-AOR guitar anthem celebrating thirty years of fiercely guarded creative independence. Ryan calls out the 1980s corporate label executives at Apex Records who once tried to reduce Cassidy to their \"Stardust\" and Ryan to their \"Engine\" as a cheap marketing gimmick, raising a glass to Holly's 1986 `$1.00` Cross-License and Cassidy's 1996 buyout that ensured the family owns every master tape in the vault.",
-      "stylePrompt": "1980s hard melodic rock, fast AOR guitar anthem, solo high tenor male lead vocal, blistering overdriven 80s electric guitar riff, driving analog organ and synthesizer stabs, galloping electric bass, rapid-fire 80s gated reverb drums, 146 BPM, D Minor, confident, triumphant, virtuosic two-hand tapping guitar solo"
+      "stylePrompt": "1980s hard melodic rock, fast AOR guitar anthem, solo high tenor male lead vocal, blistering overdriven 80s electric guitar riff, driving analog organ and synthesizer stabs, galloping electric bass, rapid-fire 80s gated reverb drums, 146 BPM, D Minor, confident, triumphant, virtuosic two-hand tapping guitar solo",
+      "duration": "5:31"
     },
     {
       "fileName": "1-10-still-your-safe-person",
       "title": "Still Your Safe Person",
-      "isrc": "",
+      "isrc": "QTAHP2600055",
       "masterWavPath": "studio/still-your-safe-person",
       "disc": 1,
       "discName": "Reignition",
       "track": 10,
       "legacyTier": "Fan Anthem",
       "loreNote": "The emotional heart of *Reignition*. Opening with just Cassidy's acoustic grand piano and Ryan's weeping clean electric guitar before building into a monumental 78 BPM 1980s arena power ballad, the brother and sister sing to each other—and to every neurodivergent, overwhelmed, or healing listener in Forger Nation: *\"When the static hits a hundred and the room begins to spin / I am still your safe person, let the quiet in.\"*",
-      "stylePrompt": "1980s arena power ballad, male and female duet, high tenor male vocal, emotive alto female vocal, warm acoustic grand piano intro, weeping clean electric guitar leads, lush 1980s analog synthesizer strings, massive booming 80s gated reverb drum fill entrance, 78 BPM, C Major, deeply comforting, unconditional love, soaring emotional guitar solo"
+      "stylePrompt": "1980s arena power ballad, male and female duet, high tenor male vocal, emotive alto female vocal, warm acoustic grand piano intro, weeping clean electric guitar leads, lush 1980s analog synthesizer strings, massive booming 80s gated reverb drum fill entrance, 78 BPM, C Major, deeply comforting, unconditional love, soaring emotional guitar solo",
+      "duration": "5:59"
     },
     {
       "fileName": "1-11-where-the-stars-still-burn",
       "title": "Where the Stars Still Burn",
-      "isrc": "",
+      "isrc": "QTAHP2600056",
       "masterWavPath": "studio/where-the-stars-still-burn",
       "disc": 1,
       "discName": "Reignition",
       "track": 11,
       "legacyTier": "Stadium Classic",
       "loreNote": "The sweeping, horizon-bound 134 BPM 1980s AOR and cosmic stadium-rock finale of *Reignition*. Looking up at the autumn constellations above the Blue Ridge after a ten-year hiatus, Ryan and Cassidy celebrate the enduring bond of their five-person family—knowing that time has not dimmed the spark they lit in 1986 and that the open highway ahead is still waiting where the stars still burn.",
-      "stylePrompt": "1980s AOR stadium finale, cosmic melodic rock anthem, male and female duet, soaring high tenor male vocal, powerhouse alto female vocal, lush 1980s polyphonic analog synthesizer fanfare, shimmering arpeggiated keyboards, twin harmonizing electric guitars, driving bassline, massive pounding 80s gated reverb drums, 134 BPM, G Major, uplifting, timeless, horizon-bound studio album closer, epic twin guitar and synth solo"
+      "stylePrompt": "1980s AOR stadium finale, cosmic melodic rock anthem, male and female duet, soaring high tenor male vocal, powerhouse alto female vocal, lush 1980s polyphonic analog synthesizer fanfare, shimmering arpeggiated keyboards, twin harmonizing electric guitars, driving bassline, massive pounding 80s gated reverb drums, 134 BPM, G Major, uplifting, timeless, horizon-bound studio album closer, epic twin guitar and synth solo",
+      "duration": "6:32"
     }
   ]
 }

@@ -7,7 +7,7 @@
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 1980s AOR / Melodic Stadium Rock / 80s Cosmic Pop
 * **Real-World DSP Release Date:** 2026-10-26
-* **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
+* **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTAHP2600046
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes
@@ -29,10 +29,10 @@
 
 ## 3. Internal Catalog Information
 * **Engine Room ID:** ERR-001-2015-101
-* **ISRC:** 
+* **ISRC:** QTAHP2600046
 * **US ISRC Agency Registrant:** Michael Ragsdale (Registrant ID: 185611 • Prefix: QTAHP • dsp.operations@engineroom-records.com)
 * **Album UPC / GTIN-12:** None
-* **Track Length:** 
+* **Track Length:** 5:06
 * **Fictional Narrative Release Date:** 2015-10-16
 * **Master File Located At:** ../../vault/wav/1-01-reignition-lights-up-on-progress-street.wav
 

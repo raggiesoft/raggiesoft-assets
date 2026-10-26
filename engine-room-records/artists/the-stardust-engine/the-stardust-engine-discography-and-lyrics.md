@@ -1,6 +1,6 @@
 
 # The Stardust Engine - Master Discography & Lore
-Compiled on: 10-26-2026 12:09:19 PM
+Compiled on: 10-26-2026 12:43:38 PM
 
 # Electric Color (1987)
 * **Narrative Era:** 1987
@@ -15410,7 +15410,7 @@ See you out on the horizon!
 
 ## Ignition: The Forger's Call (Live at the Crucible)
 ### Lore
-The very first time in history that **"Ignition: The Forger's Call"** was ever played and recorded for a live concert release (previously, the only way to hear *Ignition* was to attend a CPI Home Football Game in person inside **The Crucible**). With no opening act—just CPI Alumni (*Class of 1989*) coming home to play for their alma mater—Ryan O'Connell rolls out to the edge of the stage in his manual chair, recalls the October 1986 student contest cassette recorded by five kids (Ryan, Cassidy, Evan, Tyler, and 16-year-old dual-enrolled Holly O'Connell) in the garage at `412 Progress Street NE` and protected by Holly's `$1.00` Perpetual Mutual Cross-License, and cues the stadium blackout. As Tyler strikes his steel brake drum (`TING... BOOM!`), 65,000 Ironheads execute **The Stomp** on the galvanized bleachers of **The Anvil** until the Copernicus Hall seismographs spike, and Ryan shouts his triumphant November 2015 `52–0` ad-lib (*"We're taking the Anchor BACK to the Mountains!"*) while the four-piece rock band and the 300-piece **CPI Marching Forgers** erupt into a deafening call-and-response of **"IGNITION!"**
+The very first time in history that **"Ignition: The Forger's Call"** was ever played and recorded for a live concert release (previously, the only way to hear *Ignition* was to attend a CPI Home Football Game in person inside **The Crucible**). With no opening act—just CPI Alumni (*Class of 1989*) coming home to play for their alma mater—Ryan O'Connell rolls out to the edge of the stage in his manual chair, recalls the October 1986 student contest cassette recorded by five kids (Ryan, Cassidy, Evan, Tyler, and 16-year-old dual-enrolled Holly O'Connell) in the garage on Progress Street and protected by Holly's `$1.00` Perpetual Mutual Cross-License, and cues the stadium blackout. As Tyler strikes his steel brake drum (`TING... BOOM!`), 65,000 Ironheads execute **The Stomp** on the galvanized bleachers of **The Anvil** until the Copernicus Hall seismographs spike, and Ryan shouts his triumphant November 2015 `52–0` ad-lib (*"We're taking the Anchor BACK to the Mountains!"*) while the four-piece rock band and the 300-piece **CPI Marching Forgers** erupt into a deafening call-and-response of **"IGNITION!"**
 
 ### Lyrics
 
@@ -17248,6 +17248,117 @@ You're my safe person...
 Always.
 (Fade out on a single, resonating acoustic guitar chord followed by a warm, roaring ovation as the stadium applause swells)
 
+## Still Your Safe Person (Live at the Crucible)
+### Lore
+**Act V Finale: *Our Own Frequency* — The Intimate Brother & Sister Acoustic Block (Part 4 of 4 — Stripped Down to Acoustic Grand Piano & Acoustic Guitar).** Although originally recorded on 2015's *Reignition* as a monumental 78 BPM 1980s arena power ballad, for the May 21, 2016 homecoming concert inside **The Crucible**, **Ryan** and **Cassidy O'Connell** strip **"Still Your Safe Person"** all the way down to **just Cassidy's acoustic grand piano and Ryan's acoustic guitar**—performing it in the hushed, pin-drop quiet stadium directly after 2008's *"Safe Person"* to close **Act V: *Our Own Frequency***. Sitting hip-to-hip at the left edge of the grand-piano bench under two warm golden spotlights while 65,000 Forgers hold up quiet white lights across the stands, brother and sister bridge their 2008 living-room hiatus sanctuary directly into 2015—singing straight to every neurodivergent, overwhelmed, or healing student in the bleachers (*"When the static hits a hundred and the room begins to spin / I am still your safe person—let the quiet in"*).
+
+### Lyrics
+
+[Quiet Stadium Ambience]
+[Spoken Intro - Cassidy O'Connell]
+(Warm, gentle voice at the grand piano microphone)
+[female]
+Back in two thousand and eight, when we recorded "Safe Person" in our living room, we didn't know if we would ever stand on a stage again. Seven years later, when we went back into the studio for Reignition, we realized that no matter how much time passes, that promise never changes. So before Evan and Tyler come back out here with the big amplifiers... we wanted to play this one the way we wrote it at home. Just the piano, the acoustic guitar, and all of you.
+
+[Intro]
+(Warm, intimate unplugged acoustic grand piano chord progression at 78 BPM)
+(Tender fingerpicked acoustic guitar counter-melody enters gently — strictly no drums or electric instruments)
+
+[Verse 1]
+[female]
+When the fluorescent lights are humming way too loud
+And you're spinning in the middle of a noisy crowd
+When the rules don't match the script inside your head
+And every single wire is flashing crimson red
+[male]
+You don't have to explain why your hands are shaking now
+You don't have to force a smile or take a final bow
+Just reach across the console, I'm right beside your chair
+Breathing in the cadence of the quiet mountain air
+
+[Pre-Chorus]
+[female]
+We've known each other since the nursery floor
+[male]
+And I know what the heavy wooden door is for
+[Duet]
+No questions asked, no judgment in this room
+Just a harbor in the middle of the sonic boom
+
+[Chorus]
+(Intimate, heartfelt brother and sister vocal harmony over pure acoustic grand piano and acoustic guitar)
+When the static hits a hundred and the room begins to spin
+I am still your safe person—let the quiet in!
+Put your headphones on or lean against my shoulder tight
+I will hold the perimeter throughout the longest night!
+You don't have to be unbroken just to be enough
+I will be the anchor when the ocean gets too rough
+Through every single storm and every place we've been
+I am still your safe person—let the quiet in!
+
+[Verse 2]
+[male]
+Back when the winter changed the road beneath my seat
+And I had to learn a brand new way to move down Progress Street
+You never looked at me with pity in your eyes
+You just lowered every keyboard stand to match my size
+[female]
+And when the tour arenas made my senses overflow
+You pulled the curtain closed and told the crowd we had to go
+Because a brother and a sister don't leave anyone behind
+When the world is overwhelming to a tender mind!
+
+[Pre-Chorus]
+[male]
+And to every single kid out in the bleachers tonight
+[female]
+Who feels a little different in the stadium light
+[Duet]
+Take this song and keep it in your coat pocket deep
+For the nights when the mountain feels a little too steep!
+
+[Chorus]
+(Soaring, emotional unplugged sibling duet over resonant grand piano chords and warm acoustic guitar strumming)
+When the static hits a hundred and the room begins to spin
+I am still your safe person—let the quiet in!
+Put your headphones on or lean against my shoulder tight
+I will hold the perimeter throughout the longest night!
+You don't have to be unbroken just to be enough
+I will be the anchor when the ocean gets too rough
+Through every single storm and every place we've been
+I am still your safe person—let the quiet in!
+
+[Acoustic Guitar & Piano Interlude]
+(An intimate, deeply moving unplugged acoustic guitar solo by Ryan harmonizing with Cassidy's delicate grand piano arpeggios in the hushed stadium night)
+
+[Bridge]
+(Stripped back to soft grand piano notes and whispered sibling vocals)
+[female]
+Breathe in for four...
+[male]
+Hold it steady now...
+[female]
+Let the noise fall away...
+[Duet]
+You are safe right here today!
+
+[Final Chorus]
+(Raw, soaring brother and sister harmonies filling the quiet stadium bowl)
+When the static hits a hundred and the room begins to spin
+I am still your safe person—let the quiet in!
+You don't have to be unbroken just to be enough
+I will be the anchor when the ocean gets too rough
+Through every single storm and every place we've been
+I am still your safe person—let the quiet in!
+
+[Outro]
+(Acoustic grand piano and fingerpicked acoustic guitar resolve on a warm, lingering C-Major chord)
+[female]
+I've got you. Always.
+[male]
+Always, Cass.
+(Warm, thunderous standing ovation erupts across 65,000 fans inside The Crucible)
+
 ## Echoes in the Wire (Live at the Crucible)
 ### Lore
 **Act V Opener: Full-Band Electric Return (Permanently Replacing *"If You Walked Away"*).** Following the three-song *Our Own Frequency* brother-and-sister acoustic block, Evan and Tyler walk back onto the stage and strap on their electric bass and drum kit. Because 1989's *"If You Walked Away"* is permanently banned from all post-1990 Stardust Engine concerts to protect Cassidy from autistic sensory and abandonment overload, **"Echoes in the Wire"** (from 1997's *Hard Reset*) holds the emotional power-ballad spotlight—beginning at Cassidy's grand piano before Evan, Tyler, and Ryan's full electric stadium rig roars back to life.
@@ -17527,6 +17638,110 @@ Down on Progress Street!
 Where the fire began!
 Five hearts beating as one!
 (Triumphant final stadium rock chord and massive drum crash fade out)
+
+## Neon on the Huckleberry Trail (Live at the Crucible)
+### Lore
+Performed live in **Act VI: *Homecoming Sprint*** right after *"Progress Street: Where the Fire Began"*, **"Neon on the Huckleberry Trail"** (from 2015's *Reignition*) becomes a joyous 65,000-voice New River Valley love letter when played inside **The Crucible** for the band's fellow Forgers. Every CPI student and alum in the stands knows the paved six-mile **Huckleberry Trail** running from the library lawn to Christiansburg where Cassidy rides her bicycle and Ryan rolls his everyday manual wheelchair under the autumn maples—where students jogging past in their CPI hoodies never pester them for autographs, offering only a warm smile and a neighbor's wave. As Cassidy belts out *"See the stadium towers flicker on in the night / Painting the valley in electric light!"*, all four massive floodlight towers of **The Crucible** shimmer in amber and violet above the Blacksburg night sky.
+
+### Lyrics
+
+[Live Stadium Crowd Cheers]
+[Spoken Intro - Cassidy O'Connell]
+(Bright, joyful voice over shimmering chorus electric guitar arpeggios)
+[female]
+This next one is for every single student and neighbor we've ever passed between the library lawn and Christiansburg at five-thirty in the afternoon! Thank you for never asking for an autograph... thank you for just waving hello and letting five kids from Progress Street have our hometown!
+
+[Intro]
+(Shimmering 1980s chorused electric guitar arpeggios and warm polyphonic analog synthesizer bells at 124 BPM)
+(Breezy eighth-note bassline and crisp gated-reverb stadium drums enter)
+
+[Verse 1]
+[female]
+October five-thirty and the air turns crisp
+Woodsmoke curling in a silver wisp
+Maples turning crimson by the old rail bed
+Canopy of burnt orange overhead
+You're pushing on your hand-rims at an easy pace
+With the mountain wind cooling off your face
+Six miles of asphalt from the library lawn
+Where the old Huckleberry train used to roll on
+
+[Pre-Chorus]
+[female]
+No studio clocks and no city stress
+Just the valley dressed in its autumn dress
+Watch the sun dip low behind Price Mountain's crest
+In the quiet corner that we love the best!
+
+[Chorus]
+(Uplifting 1980s melodic synth-rock stadium chorus with 65,000 Forgers singing along)
+Chasing the neon on the Huckleberry Trail!
+Where the twilight glows and the shadows sail!
+Spinning our wheels through the golden leaves
+Underneath a sky that still believes!
+See the stadium towers flicker on in the night
+Painting the valley in electric light!
+Every autumn evening tells the same old tale
+We're home together on the Huckleberry Trail!
+
+[Verse 2]
+[female]
+Passing by the pastures where the cattle graze
+Wrapped inside the amber of the college days
+Students in their hoodies jogging two by two
+Nodding with a smile as we roll on through
+No autographs asked, just a neighbor's wave
+In the mountain sanctuary that our hometown gave
+Thirty years of music and we still belong
+To the winding path where we wrote this song!
+
+[Pre-Chorus]
+[female]
+No studio clocks and no city stress
+Just the valley dressed in its autumn dress
+Watch the stars come out above the mountain's crest
+In the quiet corner that we love the best!
+
+[Chorus]
+(Cassidy, Ryan & 65,000-Voice Stadium Singalong)
+Chasing the neon on the Huckleberry Trail!
+Where the twilight glows and the shadows sail!
+Spinning our wheels through the golden leaves
+Underneath a sky that still believes!
+See the stadium towers flicker on in the night
+Painting the valley in electric light!
+Every autumn evening tells the same old tale
+We're home together on the Huckleberry Trail!
+
+[Bridge]
+(Warm analog synth pad and melodic bassline over clapping stadium crowd)
+[female]
+We've seen Tokyo towers and the London rain
+Paris boulevards and the coastal train
+But nothing on earth ever feels as sweet
+As the six-mile path leading back to Progress Street!
+
+[Guitar Solo]
+(An uplifting, breezy 1980s melodic electric guitar solo by Ryan harmonizing with Cassidy's shimmering analog synth bells)
+
+[Final Chorus]
+(Full band and roaring 65,000-person CPI crowd singalong)
+Chasing the neon on the Huckleberry Trail!
+Where the twilight glows and the shadows sail!
+Spinning our wheels through the golden leaves
+Underneath a sky that still believes!
+See the stadium towers flicker on in the night
+Painting the valley in electric light!
+Every autumn evening tells the same old tale
+We're home together on the Huckleberry Trail!
+
+[Outro]
+(Shimmering chorus guitar and analog synth arpeggios resolve into roaring stadium applause)
+[female]
+Race you back to Progress Street!
+[male]
+You're on, Cass!
+(Roaring cheers from 65,000 Forgers)
 
 ## Neon Hearts (Live at the Crucible)
 ### Lore
@@ -18083,7 +18298,7 @@ IGNITION!
 
 ## Ignition: The Forger's Call (Demo Take 3)
 ### Lore
-The legendary **October 1986 4-track Tascam Portastudio cassette demo (`Demo Take 3`)** recorded inside the unheated garage at `412 Progress Street NE` in Blacksburg, Virginia—submitted by five college kids (Ryan O'Connell, Cassidy O'Connell, Evan Wright, Tyler Wright, and 16-year-old dual-enrolled Holly O'Connell) to the CPI Student Government Association contest to replace the football team's entrance march. Before submitting the Maxell XLII-S 90 cassette tape, 16-year-old Holly redlined the university's standard *"Work Made for Hire"* entry form at the Progress Street kitchen table and negotiated the historic **`$1.00` Perpetual Mutual Cross-License** ("The Progress Street Redline"), retaining 100% of the band's master and publishing ownership while granting CPI Athletics and the Marching Forgers a perpetual, royalty-free stadium license.
+The legendary **October 1986 4-track Tascam Portastudio cassette demo (`Demo Take 3`)** recorded inside the unheated garage on Progress Street in Blacksburg, Virginia—submitted by five college kids (Ryan O'Connell, Cassidy O'Connell, Evan Wright, Tyler Wright, and 16-year-old dual-enrolled Holly O'Connell) to the CPI Student Government Association contest to replace the football team's entrance march. Before submitting the Maxell XLII-S 90 cassette tape, 16-year-old Holly redlined the university's standard *"Work Made for Hire"* entry form at the Progress Street kitchen table and negotiated the historic **`$1.00` Perpetual Mutual Cross-License** ("The Progress Street Redline"), retaining 100% of the band's master and publishing ownership while granting CPI Athletics and the Marching Forgers a perpetual, royalty-free stadium license.
 
 Recorded before the student section in **The Anvil** ever organically invented **The Stomp** over several successive plays in the stadium—and twenty-eight years before the VDU *Anchor* rivalry inspired Ryan's 2016 live ad-lib—this raw 1986 cassette cut is the very first of the three canonical versions of *"Ignition: The Forger's Call"* (followed by the 1986 Crucible Stadium Version played at CPI football games and the 2016 *Live at the Crucible* concert opener). Because the five college kids were tracking inside an unheated garage without a real foundry anvil yet, the demo features the mechanical click of Holly's 4-track tape deck, the band members vocalizing `(TING... BOOM!)` to test the idea of where the anvil strike and heavy kick-drum impact would go, Cassidy's raw Oberheim OB-Xa analog synth brass, Ryan's overdriven garage-rock guitar riff, and Cassidy, Evan, and Tyler shouting the gang-vocal `(IGNITION!)` response into a single shared Shure SM57 microphone.
 
