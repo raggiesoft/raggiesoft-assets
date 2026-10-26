@@ -1,6 +1,6 @@
 
 # Fractured Prisms - Master Discography & Lore
-Compiled on: 10-25-2026 06:41:23 PM
+Compiled on: 10-25-2026 10:30:38 PM
 
 # Carnaby Street (1983)
 * **Narrative Era:** 1983

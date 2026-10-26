@@ -1407,7 +1407,7 @@
 
 ---
 ## Live at the Crucible (2016) — Live Album
-* **Album Folder:** `2016-live-at-the-crucible` • **UPC:** `None` • **Genre:** `Live Stadium Rock / 1980s AOR / Collegiate Marching Band Rock`
+* **Album Folder:** `2016-live-at-the-crucible` • **UPC:** `None` • **Genre:** `Live Stadium Rock / 1980s AOR / Progressive Symphonic Space-Rock / Collegiate Marching Band Rock`
 
 1. Ignition: The Forger's Call
 * Name: Ignition: The Forger's Call
@@ -1475,79 +1475,127 @@
 * ID3 / Vorbis Tag: Steel and Synthetics (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-12. Moon 1: Tidal Lock
+12. Escape Velocity (Ad Astra)
+* Name: Escape Velocity (Ad Astra)
+* Version: Live at the Crucible
+* ID3 / Vorbis Tag: Escape Velocity (Ad Astra) (Live at the Crucible)
+* ISRC: QTAHP2600042
+
+13. Apoapsis
+* Name: Apoapsis
+* Version: Live at the Crucible
+* ID3 / Vorbis Tag: Apoapsis (Live at the Crucible)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+14. Second Apoapsis
+* Name: Second Apoapsis
+* Version: Live at the Crucible
+* ID3 / Vorbis Tag: Second Apoapsis (Live at the Crucible)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+15. The Spectrum (True Color)
+* Name: The Spectrum (True Color)
+* Version: Live at the Crucible
+* ID3 / Vorbis Tag: The Spectrum (True Color) (Live at the Crucible)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+16. Moon 1: Tidal Lock
 * Name: Moon 1: Tidal Lock
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Moon 1: Tidal Lock (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-13. Mayday: The Intercept
+17. Moon 2: Roche Limit
+* Name: Moon 2: Roche Limit
+* Version: Live at the Crucible
+* ID3 / Vorbis Tag: Moon 2: Roche Limit (Live at the Crucible)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+18. Impact (Mile Marker 98)
+* Name: Impact (Mile Marker 98)
+* Version: Live at the Crucible
+* ID3 / Vorbis Tag: Impact (Mile Marker 98) (Live at the Crucible)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+19. Mayday: The Intercept
 * Name: Mayday: The Intercept
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Mayday: The Intercept (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-14. Our Own Frequency
+20. Star City: Orbital Ward
+* Name: Star City: Orbital Ward
+* Version: Live at the Crucible
+* ID3 / Vorbis Tag: Star City: Orbital Ward (Live at the Crucible)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+21. Twin Moons: Touchdown
+* Name: Twin Moons: Touchdown
+* Version: Live at the Crucible
+* ID3 / Vorbis Tag: Twin Moons: Touchdown (Live at the Crucible)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+22. Our Own Frequency
 * Name: Our Own Frequency
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Our Own Frequency (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-15. Brother's Keeper
+23. Brother's Keeper
 * Name: Brother's Keeper
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Brother's Keeper (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-16. Safe Person
+24. Safe Person
 * Name: Safe Person
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Safe Person (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-17. Echoes in the Wire
+25. Echoes in the Wire
 * Name: Echoes in the Wire
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Echoes in the Wire (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-18. Saturday Night Lights: The Crucible
+26. Saturday Night Lights: The Crucible
 * Name: Saturday Night Lights: The Crucible
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Saturday Night Lights: The Crucible (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-19. Progress Street: Where the Fire Began
+27. Progress Street: Where the Fire Began
 * Name: Progress Street: Where the Fire Began
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Progress Street: Where the Fire Began (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-20. Neon Hearts
+28. Neon Hearts
 * Name: Neon Hearts
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Neon Hearts (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-21. My Anchor Holds
+29. My Anchor Holds
 * Name: My Anchor Holds
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: My Anchor Holds (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-22. Reignition: Lights Up on Progress Street
+30. Reignition: Lights Up on Progress Street
 * Name: Reignition: Lights Up on Progress Street
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Reignition: Lights Up on Progress Street (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-23. Last Bus Home: Lights Out on Progress Street
+31. Last Bus Home: Lights Out on Progress Street
 * Name: Last Bus Home: Lights Out on Progress Street
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Last Bus Home: Lights Out on Progress Street (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-24. Electric Color
+32. Electric Color
 * Name: Electric Color
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Electric Color (Live at the Crucible)

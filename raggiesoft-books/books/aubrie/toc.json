@@ -8,12 +8,12 @@
     "ebook_sizes": {
         "epub": "54.9 MB",
         "pdf": "41.4 MB",
-        "text_epub": "922 KB",
-        "text_pdf": "3.4 MB",
-        "epub_bytes": 57594336,
-        "pdf_bytes": 43399916,
-        "text_epub_bytes": 943827,
-        "text_pdf_bytes": 3607898
+        "text_epub": "925 KB",
+        "text_pdf": "3.5 MB",
+        "epub_bytes": 57597963,
+        "pdf_bytes": 43411241,
+        "text_epub_bytes": 947452,
+        "text_pdf_bytes": 3620573
     },
     "illustration_count": 52,
     "eras": [
@@ -2366,9 +2366,9 @@
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Acts II & III: Fifty-Two to Nothing & The Vault",
+                            "part_title": "Part 3: Acts II, III & IV: Fifty-Two to Nothing, Escape Velocity (Ad Astra) & The Twin Moons",
                             "file_path": "e007/c004/p003.md",
-                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-3-acts-ii-iii-fifty-two-to-nothing-the-vault",
+                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-3-acts-ii-iii-iv-fifty-two-to-nothing-escape-velocity-ad-astra-the-twin-moons",
                             "date": "2016-05-21",
                             "start_time": "20:25",
                             "location": "Section 104, Row A, The Crucible, Commonwealth Polytechnic Institute, Blacksburg, VA",
@@ -2388,11 +2388,11 @@
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: Acts IV & V: Brother's Keeper, The Summer Festival Announcement, & Saturday Night Lights",
+                            "part_title": "Part 4: Acts V & VI: Brother's Keeper, The Summer Festival Announcement, & Saturday Night Lights",
                             "file_path": "e007/c004/p004.md",
-                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-4-acts-iv-v-brother-s-keeper-the-summer-festival-announcement-saturday-night-lights",
+                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-4-acts-v-vi-brother-s-keeper-the-summer-festival-announcement-saturday-night-lights",
                             "date": "2016-05-21",
-                            "start_time": "21:15",
+                            "start_time": "21:50",
                             "location": "Section 104, Row A, The Crucible, Commonwealth Polytechnic Institute, Blacksburg, VA",
                             "image": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/brothers-keeper-acoustic-spotlight.jpg",
                             "image_alt": "Under two solitary warm golden spotlights at center stage inside the darkened 65,000-seat bowl of The Crucible, Ryan O'Connell sits in his manual wheelchair fingerpicking an acoustic guitar beside his sister Cassidy O'Connell at a gleaming black grand piano during 'Brother's Keeper', while the curved stage screen behind them displays 'THE FORGER NATION SUMMER FESTIVAL \u2022 AUGUST 2017' and thousands of fans hold up quiet white lights across the stands.",
@@ -2406,9 +2406,9 @@
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: Act VI: Electric Color (Live at the Crucible) & The Departure Loop",
+                            "part_title": "Part 5: Act VII: Electric Color (Live at the Crucible) & The Departure Loop",
                             "file_path": "e007/c004/p005.md",
-                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-5-act-vi-electric-color-live-at-the-crucible-the-departure-loop",
+                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-5-act-vii-electric-color-live-at-the-crucible-the-departure-loop",
                             "date": "2016-05-21",
                             "start_time": "22:40",
                             "location": "The Crucible & Stadium Transit Loop, Blacksburg, VA",

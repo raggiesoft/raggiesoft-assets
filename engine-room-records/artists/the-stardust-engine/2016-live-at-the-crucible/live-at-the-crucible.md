@@ -841,6 +841,297 @@ Human heat!
 
 
 ***
+### **escape-velocity-ad-astra-live-at-the-crucible.md**
+***
+
+**LORE NOTE:**
+**THE LIVE ALBUM PREMIERE — THE ONLY RECORDED LIVE CONCERT PERFORMANCE OF *"ESCAPE VELOCITY (AD ASTRA)"* IN THE BAND'S ENTIRE CATALOG.** Originally written and recorded by **Cassidy O'Connell** in 1995 during the financial struggle of the band's Wilderness Years (*The Warehouse Tapes*) and later featured as the closing magnum opus of 1997's *Hard Reset* (Disc 2: *The Twin Moons*), this monumental four-movement progressive symphonic rock suite (*Part I: The Cage*, *Part II: Ignition [Ad Astra]*, *Part III: The Cosmos*, and *Part IV: Re-entry [The New World]*) is Cassidy's autobiography and what she considers her single most important piece of work. Because it had not been written yet during 1990's *Live in Chicago* and was omitted from the tighter two-hour waterfront amphitheater setlist of 2005's *Live in Norfolk*, **2016's *Live at the Crucible* is the ONLY live album where you can experience *"Escape Velocity (Ad Astra)"* performed live**.
+
+To open **Act III: *Cosmic Tidal Lock*** in astrophysical launch order (achieving the `11.2 km/s` escape velocity required to break free of Earth's gravity before coasting to *Apoapsis* and locking into *Moon 1: Tidal Lock*), all four towering stadium floodlight banks inside The Crucible shut off completely, plunging 65,000 fans into the pitch-black Appalachian starfield while overhead planetarium lasers and the 120-foot curved LED screen transform the bowl into deep space. Across **13 minutes and 3 seconds** of uninterrupted live musicianship with **The Orbital Crew**, Cassidy journeys from the suffocating trauma of the 1992 *Friction* trial (*"The Shark was right, the nuke went off! / We won the battle, but at what cost?!"*), through the roaring rocket liftoff of *Ignition* (`0:00–6:30`) and the stadium-shaking **Main Engine Cutoff** applause at `6:30`, into the weightless zero-gravity sanctuary of *The Cosmos* (`6:30–10:45`, where she sings the line that defines the band's 1986 origin: *"This is the Stardust that is me! / The cosmos and the rocket's fire! / My one, my only true desire!"*), and finally into the triumphant stadium splashdown of *Part IV: Re-entry* (`10:45–13:03`), where all 65,000 Forgers roar ***"HELD BY THE SUN!"*** in unison before Cassidy whispers a breathless, deeply moved ***"Thank you so much..."*** into the microphone—bringing her 26-year journey from 1990's *"If You Walked Away"* full circle under the Blacksburg stars.
+
+**LYRICS:**
+
+[Live Stadium Crowd Hush]
+[Ambient Synth Drone & Haunting Woodwind Intro]
+[Operatic Female Vocalise]
+Ahhhh-ahhh-ahhhhhh...
+Oooooh-ahhhhh-ahhhhhh...
+
+[16th-Note Synth Arpeggiator, Double-Kick Drums & Shred Guitar Duel]
+
+[Part I: The Cage]
+[Shimmering Piano & Dark Synth Pad]
+The walls are cold, the air is thin
+The noise outside is closing in
+A single light, a buzzing sound
+Another day in the underground...
+
+[Twin-Lead Synth & Guitar Interlude]
+
+[Galloping Prog-Rock Rhythm, Heavy Guitar]
+I'm running from the face I see!
+The victim-saint they made of me!
+The wholesome girl, so sad and worn!
+A David for their Goliath's scorn!
+
+This rage is just a heavy stone!
+A gravity I've outgrown!
+Shedding skin, shedding weight!
+Escaping from this world of hate!
+
+They loved the trial, the family torn!
+They loved the story, a new star born!
+But not from music, not from grace!
+From the hot-chocolate-drinking angel face!
+
+The Shark was right, the nuke went off!
+We won the battle, but at what cost?!
+We're radioactive, we're litigious!
+We're just the joke, the victim-saints!
+
+[Half-Time Symphonic Chorus]
+I'm trapped inside this Wilderness!
+This Fortress built on bitterness!
+
+[Dark Pulsing Sequencer]
+This isn't freedom...
+This is a cell...
+This righteous hell...
+This righteous hell...
+
+[Part II: Ignition (Ad Astra)]
+[High-Speed Prog-Rock Launch & Melodic Guitar Solo]
+
+[Verse 1]
+I see a signal in the endless black
+A single light, no turning back
+The pull of the old world fades away
+A new horizon, a new day!
+
+[Full Band Roars In]
+The countdown's running in my head!
+Ignoring all the things they said!
+The Engine roars, a crimson light!
+A pillar of fire in the night!
+
+The pressure builds, I'm pinned to the seat!
+My heart is pounding with the beat!
+The G-force pulling a heavy stone!
+The last chain breaks, I'm not alone!
+
+[Chorus]
+I'm climbing! Climbing!
+Past the point of no return!
+I'm flying! Flying!
+With the fire I let burn!
+Just a signal, a distant light!
+Burning through the endless night!
+Ad astra! (To the stars!)
+Ad astra!
+
+[Extended Guitar & Synth Arpeggio Duel]
+
+[Verse 2]
+The sky is tearing at the seams!
+Awake now from their broken dreams!
+The Stardust is just a trail of dust!
+The Stardust is the thing I trust!
+
+The clouds are falling far below!
+A place of pain I used to know!
+The blue gives way to endless black!
+There is no thought of turning back!
+
+[Chorus]
+I'm climbing! Climbing!
+Past the point of no return!
+I'm flying! Flying!
+With the fire I let burn!
+Just a signal, a distant light!
+Burning through the endless night!
+Ad astra! (To the stars!)
+Ad astra!
+
+[High-Velocity Synth & Guitar Booster Climax]
+[Abrupt Main Engine Cutoff into Roaring Stadium Applause]
+
+[Part III: The Cosmos]
+[Zero-G Liquid Synth Pads Swelling Out of the Darkness, Slow Tempo]
+I'm floating now, the engine's off
+The silence is a holy sound
+The rage is gone, the fear is lost
+In this new universe I've found
+
+The Cage is just a distant star
+A tiny light I left behind
+I finally know just who you are
+The other half of my own mind
+
+[Celestial Chorus, Layered Vocals & Sweeping Strings]
+I'm loved by the sun!
+I'm held by the void!
+An orbit just begun!
+A life not destroyed!
+
+I'm loved by the moon!
+I'm cradled by the black!
+My heart is back in tune!
+There is no turning back!
+
+And the stars are singing!
+A song I understand!
+I'm finally, finally
+Reaching for your hand!
+
+[Emotional Weeping Guitar Solo & Cosmic Synth Arpeggios]
+
+[Bridge: Shimmering Synth Pad]
+I see the colors of the nebula
+A place I've only seen in dreams
+The reds, the blues, the purples call
+Flowing in majestic streams...
+
+[Full Band Swells Triumphantly]
+This is the place I was meant to be!
+This is the Stardust that is me!
+The cosmos and the rocket's fire!
+My one, my only true desire!
+Loved by the sun!
+
+[Soaring Melodic Guitar Lead Into Driving Re-entry Groove]
+
+[Part IV: Re-entry (The New World)]
+[Warm Driving Stadium Rock, Bright Acoustic & Electric Guitars, Pounding Drums]
+The walls are gone, the air is clear!
+There is no noise, there is no fear!
+The Stardust is a forgotten ghost!
+The Engine has delivered me to the coast!
+
+Of a new world, a new shore!
+A place I've never been before!
+The Cage is broken, the victim-saint is gone!
+A new clean script is in my head!
+The friction burned away in the fire!
+Leaving only my true desire!
+
+[Grand Finale: Maximum Stadium Volume, Full Band, Strings & Synths]
+(65,000 Fans in Unison: HELD BY THE SUN!)
+I'm held by the void!
+My orbit has begun!
+A life is not destroyed!
+
+[Epic Sustained Guitar & Synth Finale Over Thundering Drums]
+Ad astra!
+Ad astra!
+Ad astra!
+
+[Final Crashing Stadium Chord & Roaring Ovation]
+(Spoken softly into the microphone over the cheering crowd)
+Thank you so much...
+
+
+***
+### **apoapsis-live-at-the-crucible.md**
+***
+
+**LORE NOTE:**
+Having achieved escape velocity (`11.2 km/s`) to break free of Earth's gravity on the preceding 13-minute centerpiece, the vessel coasts upward to the highest point of its elliptical orbit on **"Apoapsis"**—the opening movement of **The Apoapsis Suite** from Disc 2 of 1997's *Hard Reset*. As the stadium bowl remains bathed in deep-space planetarium projections, Cassidy's shimmering analog synthesizers, Evan's floating fretless bassline, and Ryan's volume-pedal guitar swells recreate the weightless silence of deep space inside The Crucible.
+
+**LYRICS:**
+
+[Instrumental]
+*(The track opens with a sprawling, ethereal ambient intro across the darkened stadium. Shimmering, pristine analog synthesizers wash over the 65,000-seat bowl.)*
+
+*(Evan introduces a slow, highly melodic bassline that anchors the floating atmosphere, joined by spacious, echoing percussion from Tyler Wright and Darius "Doc" Holloway.)*
+
+*(Ryan utilizes a volume pedal on his electric guitar, creating swelling, atmospheric waves of sound that mimic the slow, majestic rotation of a planet viewed from high orbit.)*
+
+
+***
+### **second-apoapsis-live-at-the-crucible.md**
+***
+
+**LORE NOTE:**
+The second movement of **The Apoapsis Suite** from Disc 2 of 1997's *Hard Reset*. Drawing structural inspiration from the sprawling, multi-part instrumental epics on **Origin**'s self-titled 1983 album, **"Second Apoapsis"** flows gaplessly out of *"Apoapsis"*, introducing cinematic tension and intricate interlocking synthesizer arpeggios between Cassidy O'Connell and touring keyboardist Claire Lindqvist before dissolving directly into the vocal finale of the suite, *"The Spectrum (True Color)"*.
+
+**LYRICS:**
+
+[Instrumental]
+*(Bleeding directly out of "Apoapsis", the spacious stadium percussion slowly begins to drive a more cinematic, deliberate rhythm.)*
+
+*(Cassidy's synthesizers grow brighter and more complex, weaving intricate arpeggios around Evan's melodic bassline.)*
+
+*(Ryan's volume-pedal guitar swells transform into a massive, echoing, cinematic build across the stadium PA, reaching a towering crescendo before suddenly dropping away into a quiet, ethereal outro that sets the stage for the vocals of "The Spectrum [True Color]".)*
+
+
+***
+### **the-spectrum-true-color-live-at-the-crucible.md**
+***
+
+**LORE NOTE:**
+The sweeping vocal finale of **The Apoapsis Suite** from Disc 2 of 1997's *Hard Reset*. This progressive space-rock epic reimagines the band's 1987 debut single, *"Electric Color"*, from a sanitized corporate pop track into a sprawling observation of the cosmos (*"We left the atmosphere, the world was gray / The heavy gravity has finally faded away... And we are seeing the true spectrum! / A billion stars burning ultraviolet and blue"*). Performed here in **Act III: *Cosmic Tidal Lock***, it also serves as a brilliant mid-concert foreshadowing of the secret **Act VII True Ending**, when the band and all 300 **CPI Marching Forgers** will reclaim the original 1987 *"Electric Color"* as a blistering 1980s AOR Stadium Rock anthem to close the night.
+
+**LYRICS:**
+
+[Intro: The Gray]
+*(The track opens seamlessly out of the fading echoes of "Second Apoapsis". A slow, pulsing bassline anchors a massive, shimmering synth pad across the darkened stadium before Cassidy's ethereal vocals drift in.)*
+
+[Verse 1]
+We left the atmosphere, the world was gray
+The heavy gravity has finally faded away
+We were living in a room with the curtains drawn tight
+But out here in the void, there is only the light
+
+[Pre-Chorus]
+The terrestrial sounds are just a buzz in the ear
+A static station that we no longer hear
+The silence is turning into a song
+This is the orbit where we belong
+
+[Chorus]
+And we are seeing the true spectrum!
+A billion stars burning ultraviolet and blue
+Dancing in the dust of a cosmic summer
+The nebula is splitting the dark in two
+This is the electric color!
+The universe waking up for you...
+
+[Instrumental Spacewalk]
+*(A sweeping instrumental section. Evan's bassline locks into a slow, hypnotic groove while Cassidy layers intricate, sparkling synthesizer arpeggios that mimic stars passing by the observation deck window.)*
+
+[Verse 2]
+They wanted a painted sky, a plastic sun
+A little radio hit when the day was done
+But you cannot capture the burning of a star
+When you keep the engine locked inside a jar
+We're charting the coordinates they couldn't see
+Out here in the quiet of the zero-G
+
+[Pre-Chorus]
+The terrestrial sounds are just a buzz in the ear
+A static station that we no longer hear
+The silence is turning into a song
+This is the orbit where we belong
+
+[Chorus]
+And we are seeing the true spectrum!
+A billion stars burning ultraviolet and blue
+Dancing in the dust of a cosmic summer
+The nebula is splitting the dark in two
+This is the electric color!
+The universe waking up for you...
+
+[The Solo]
+*(Ryan delivers a massive, soaring, and highly emotional electric guitar solo—vast and echoing, filling the open-air bowl of The Crucible under the Blacksburg stars.)*
+
+[Outro]
+The true spectrum.
+Ultraviolet and blue.
+We finally found the color.
+*(The song slowly dissolves into an atmospheric synth fade-out, trailing off like stardust into "Moon 1: Tidal Lock".)*
+
+
+***
 ### **1-12-moon-1-tidal-lock.md**
 ***
 
@@ -909,6 +1200,168 @@ Half in the shadow.
 Half in the light.
 Tidal lock.
 *(The synths sweep upward, echoing out into the void as the driving drum beat slowly fades away into the starfield)*
+
+
+***
+### **moon-2-roche-limit-live-at-the-crucible.md**
+***
+
+**LORE NOTE:**
+Exploding directly out of the fading starfield of Cassidy's *"Moon 1: Tidal Lock"* to kick off **Act IV: *Roche Limit & Mile Marker 98 (Moon 2 — Ryan's Heavy-Friction Orbit)***, **"Moon 2: Roche Limit"** (from Disc 2 of 1997's *Hard Reset* and Track 1 of Ryan's 2003 solo-led concept album *Mile Marker 98*) shatters the zero-gravity calm of the stadium with crimson strobe lights, pounding double-kit drums, and Ryan O'Connell's blistering, distorted electric guitar. Where Cassidy's *Moon 1* used the astrophysics of a tidal lock to celebrate stable, unbreakable loyalty, Ryan uses the **Roche limit**—the exact gravitational distance at which a satellite is torn to pieces by tidal forces—as a visceral, high-friction thesis statement confronting the trauma of the December 10, 1990 crash.
+
+**LYRICS:**
+
+[Intro]
+*(An aggressive, pounding 1980s drum fill shatters the ambient space. Ryan's heavy, distorted electric guitar riff locks in with Evan's driving synth-bass.)*
+
+[Verse 1]
+I see the warning on the console screen
+You're pulling harder than I've ever seen
+I'm caught inside the gravity well
+A one-way ticket on a carousel
+The navigation is totally blind
+I'm leaving all the safety behind
+
+[Pre-Chorus]
+The structural integrity is starting to bend
+I'm accelerating faster to the bitter end
+You're a massive body, I'm a satellite
+I'm breaking into pieces in the dead of night!
+
+[Chorus]
+We crossed the Roche Limit!
+Tearing me apart, tearing me apart!
+We crossed the Roche Limit!
+A fatal attraction, a heavy heart!
+There's no surviving when you get this close
+A total system failure, a lethal dose
+Yeah, we crossed the Roche Limit!
+
+[Verse 2]
+The telemetry is spinning into the red
+I should've listened to the things they said
+But the magnetic field is pulling me in
+I feel the friction underneath my skin
+I'm caught in the orbit of a dangerous star
+I didn't mean to take it this far!
+
+[Pre-Chorus]
+The structural integrity is starting to bend
+I'm accelerating faster to the bitter end
+You're a massive body, I'm a satellite
+I'm breaking into pieces in the dead of night!
+
+[Chorus]
+We crossed the Roche Limit!
+Tearing me apart, tearing me apart!
+We crossed the Roche Limit!
+A fatal attraction, a heavy heart!
+There's no surviving when you get this close
+A total system failure, a lethal dose
+Yeah, we crossed the Roche Limit!
+
+[Guitar Solo]
+*(Ryan unleashes a blisteringly fast, aggressive electric guitar solo at center-left stage while explosive drums and heavy synth pads pulse underneath, simulating a vessel vibrating itself to pieces under extreme gravitational stress.)*
+
+[Chorus]
+We crossed the Roche Limit!
+Tearing me apart, tearing me apart!
+We crossed the Roche Limit!
+A fatal attraction, a heavy heart!
+There's no surviving when you get this close
+A total system failure, a lethal dose
+Yeah, we crossed the Roche Limit!
+
+[Outro]
+Tearing me apart.
+System failure.
+*(A final, heavy guitar chord rings out into a wall of amplifier feedback that launches straight into "Impact [Mile Marker 98]".)*
+
+
+***
+### **impact-mile-marker-98-live-at-the-crucible.md**
+***
+
+**LORE NOTE:**
+The visceral title cut of Ryan's 2003 concept album *Mile Marker 98* (*Moon 2*). Translating the night of December 10, 1990 into a cosmic collision in a treacherous debris field, **"Impact (Mile Marker 98)"** recounts how Ryan was cautiously piloting the band's 1988 Holt Freighter van at 40 MPH with hazard beacons active when a speeding vehicle clipped their rear quarter panel near Mile Marker 98, rolling the van twice and leaving Ryan pinned in the wreckage with a complete T10 spinal cord injury (*"We hit a massive fragment in the great unknown / At Mile Marker 98, I lost the throne! / We're barely alive, but we survived the night!"*).
+
+**LYRICS:**
+
+[Intro]
+*(A driving, heavy 1980s electric guitar riff cuts through the stadium darkness, backed by a pounding, relentless hard-rock drumbeat.)*
+
+[Verse 1]
+I was holding the controls, trying to beat the storm
+Trying to keep the Freighter steady, trying to keep it warm
+Running forty through the dark, the hazard beacons bright
+We were making steady time across the frozen night
+But a shadow came flying through the passing lane
+Too fast for the ice, too fast for the rain!
+
+[Pre-Chorus]
+A sudden violent strike on the quarter panel!
+Ripped us right out of the safety channel!
+Caught inside the debris field, spinning out of control
+The massive broken planet taking its toll!
+
+[Chorus]
+Impact! Spinning off the line!
+Impact! Shattering the design!
+Rolled twice in the black, thrown into the cold
+The heaviest gravity the metal can hold
+We hit a massive fragment in the great unknown
+At Mile Marker 98, I lost the throne!
+We're barely alive, but we survived the night!
+Yeah, we're barely alive!
+
+[Verse 2]
+I wake up pinned underneath the twisted steel
+I'm screaming to the console but I cannot feel
+The alarms are blaring, everything is red
+But I can hear the crew breathing in the bed
+The T-10 circuit is completely blown
+I'm looking at a body that is not my own!
+
+[Pre-Chorus]
+A sudden violent strike on the quarter panel!
+Ripped us right out of the safety channel!
+Caught inside the debris field, spinning out of control
+The massive broken planet taking its toll!
+
+[Chorus]
+Impact! Spinning off the line!
+Impact! Shattering the design!
+Rolled twice in the black, thrown into the cold
+The heaviest gravity the metal can hold
+We hit a massive fragment in the great unknown
+At Mile Marker 98, I lost the throne!
+We're barely alive, but we survived the night!
+Yeah, we're barely alive!
+
+[Guitar Solo]
+*(The rhythm section drops into a heavy, stomping groove as Ryan unleashes a blistering, emotional 1980s electric guitar solo capturing the adrenaline and catastrophic loss of control.)*
+
+[Bridge]
+The engine is running, but the connection is dead.
+Nothing below the damage, just the static in my head.
+They pulled me from the wreckage, pulled me from the fire.
+But I left half of myself in the twisting wire.
+
+[Chorus]
+Impact! Spinning off the line!
+Impact! Shattering the design!
+Rolled twice in the black, thrown into the cold
+The heaviest gravity the metal can hold
+We hit a massive fragment in the great unknown
+At Mile Marker 98, I lost the throne!
+We're barely alive, but we survived the night!
+Yeah, we're barely alive!
+
+[Outro]
+We're barely alive.
+The T-10 circuit is blown.
+Mile Marker 98.
+*(The heavy guitar riff chugs to a grinding halt as emergency warning klaxons echo across the stadium straight into "Mayday: The Intercept".)*
 
 
 ***
@@ -992,6 +1445,168 @@ You read the line.
 You made the time.
 The cavalry is here.
 *(The driving drum beat ends with a massive, final cymbal crash. The heavy guitar chords ring out victoriously, slowly fading into a stable, pulsing electronic hum)*
+
+
+***
+### **star-city-orbital-ward-live-at-the-crucible.md**
+***
+
+**LORE NOTE:**
+Following the rescue of *"Mayday: The Intercept"*, **"Star City: Orbital Ward"** (from 2003's *Mile Marker 98*) slows the tempo into a brooding, heavy 1980s hard-rock power ballad that transposes Ryan's 1990 recovery at Star City General Hospital into an orbital medical bay. Translating the strict daily survival routines of **"Protocol T-10"**—the four-hour hydration and catheterization clock, the 15-minute wheelchair pressure weight shifts, and Evan and Tyler's synchronized "Freight Dog" twin-lifts—into the manual maintenance of a damaged but surviving starship, this performance directly sets the stage for the next Act (*Our Own Frequency*), where Ryan will strip away the sci-fi metaphors on *"Brother's Keeper"* and talk openly about how those daily ADLs led to tonight's decision to end global touring and stay home in Blacksburg.
+
+**LYRICS:**
+
+[Spoken Intro]
+*(Spoken clearly, calmly, and methodically by the Planetarium Narrator over a slow, echoing heartbeat monitor and Ryan's brooding clean electric guitar.)*
+Welcome back to the Engine Room Records Planetarium.
+Following the fragmentation event, the central engine has been salvaged and transported to the Star City Orbital Ward.
+Diagnostics indicate a complete and permanent severing of the T-10 power conduit.
+Automated systems below the damage threshold have officially failed.
+Strict manual maintenance protocols must now be initiated to ensure system survival.
+
+[Intro]
+*(The narrator cuts out. The clean guitar is joined by a heavy, slow, stomping 1980s drum beat and a deep, pulsing bassline.)*
+
+[Verse 1]
+Strapped down to the diagnostic bed
+Static and the sirens ringing in my head
+They towed the broken metal to the Star City dock
+Now I'm running my life on a four-hour clock
+The automated systems are completely dead
+I've got to run the heavy engine on the manual instead
+
+[Pre-Chorus]
+The T-10 conduit is severed in the dark
+I lost the lower thrusters, but I still have the spark
+Lock the Iron Dome, keep the perimeter tight
+I'm learning how to fly it in the middle of the night!
+
+[Chorus]
+Star City Orbital Ward!
+Strapped to the table, strapped to the board!
+I hate the heavy chair, I hate the diagnostic room
+But I'm pushing through the fire and I'm pushing through the gloom
+I've got a crew to lift me, I've got a spotter on the time
+A heavy metal mountain that I still have to climb!
+In the Orbital Ward!
+
+[Verse 2]
+Every fifteen minutes I've got to shift the weight
+Trying to keep the pressure off, trying to stay straight
+The freight dogs pull me up the maintenance hatch
+A synchronized lift, a heavy metal catch
+My hands are on the console, I've got the upper gear
+We're rewriting the protocols right out here!
+
+[Pre-Chorus]
+The T-10 conduit is severed in the dark
+I lost the lower thrusters, but I still have the spark
+Lock the Iron Dome, keep the perimeter tight
+I'm learning how to fly it in the middle of the night!
+
+[Chorus]
+Star City Orbital Ward!
+Strapped to the table, strapped to the board!
+I hate the heavy chair, I hate the diagnostic room
+But I'm pushing through the fire and I'm pushing through the gloom
+I've got a crew to lift me, I've got a spotter on the time
+A heavy metal mountain that I still have to climb!
+In the Orbital Ward!
+
+[Guitar Solo]
+*(Ryan unleashes a soaring, emotional electric guitar solo full of bent notes and sustained amplifier feedback.)*
+
+[Bridge]
+The connection is broken.
+But the hands still work.
+The legs are silent.
+But the engine still roars!
+
+[Chorus]
+Star City Orbital Ward!
+Strapped to the table, strapped to the board!
+I hate the heavy chair, I hate the diagnostic room
+But I'm pushing through the fire and I'm pushing through the gloom
+I've got a crew to lift me, I've got a spotter on the time
+A heavy metal mountain that I still have to climb!
+In the Orbital Ward!
+
+[Outro]
+Shift the weight.
+Watch the clock.
+Star City dock.
+*(The heavy guitar fades into the slow rhythmic beeping of the monitor before exploding into the triumphant finale of Act IV, "Twin Moons: Touchdown".)*
+
+
+***
+### **twin-moons-touchdown-live-at-the-crucible.md**
+***
+
+**LORE NOTE:**
+Closing **Act IV: *Roche Limit & Mile Marker 98 (Moon 2)*** and uniting both halves of the 10-song *Twin Moons* cosmic journey (*Act III: Cosmic Tidal Lock* + *Act IV: Roche Limit & Mile Marker 98*), **"Twin Moons: Touchdown"** is the triumphant sibling duet that concludes 2003's *Mile Marker 98*. Fusing Ryan's heavy, distorted 1980s arena-rock guitar with Cassidy's sweeping analog synthesizers in locked unison (*"The Engine and the Anchor locking into the groove / We finally found the gravity, we're ready to move! / Touchdown!"*), the song brings the vessel out of the freezing vacuum of space and sets it safely down on solid ground in Blacksburg—concluding with the Planetarium Narrator's sign-off (*"Atmospheric entry complete. Gravity is stable... Please exit safely, and welcome home"*) right as Evan and Tyler leave the stage for the intimate living-room acoustic block of **Act V: *Our Own Frequency***.
+
+**LYRICS:**
+
+[Intro]
+*(A massive, thundering 1980s hard-rock drum fill explodes out of the gate. Instantly, Ryan's heavy, distorted electric guitar locks into a triumphant riff, mirrored note-for-note by Cassidy's sweeping analog synthesizer.)*
+
+[Verse 1: Ryan]
+The heat shield cracked but the metal held the line
+I'm breaking through the clouds, I'm reading every sign
+The atmospheric fire is fading in the rear
+I'm dropping down the landing gear!
+I spent a stalemate year floating in the dark
+But I brought the heavy engine back to light the spark!
+
+[Verse 2: Cassidy]
+I tracked the telemetry across the velvet black
+I held the heavy tether just to pull you back
+The gravity is equal, the orbital is done
+We're landing in the light of the setting sun
+The silent ocean fades, the violent friction ends
+We're touching down exactly where the atmosphere bends!
+
+[Pre-Chorus: Ryan & Cassidy]
+The altitude is dropping, the horizon is wide
+We're crossing the terminator side by side!
+The pressure is returning, the compass is true
+The center of the universe is coming into view!
+
+[Chorus: Ryan & Cassidy]
+Twin Moons! Touching down on the solid ground!
+Twin Moons! Listen to the heavy sound!
+The metal and the stardust shining in the light
+We're walking from the shadow and surviving the night!
+The Engine and the Anchor locking into the groove
+We finally found the gravity, we're ready to move!
+Touchdown!
+
+[Guitar and Synthesizer Solo]
+*(Ryan and Cassidy trade solos across the stage—Ryan unleashing a blistering, bluesy hard-rock guitar lead and Cassidy answering immediately with a soaring, ethereal synthesizer run before intertwining in twin harmony.)*
+
+[Bridge]
+(Ryan) I thought I lost the wheels in the middle of the crash.
+(Cassidy) But we built a sanctuary right out of the ash!
+(Both) No more floating in the freezing unknown!
+The orbit is over, we are finally home!
+
+[Chorus: Ryan & Cassidy]
+Twin Moons! Touching down on the solid ground!
+Twin Moons! Listen to the heavy sound!
+The metal and the stardust shining in the light
+We're walking from the shadow and surviving the night!
+The Engine and the Anchor locking into the groove
+We finally found the gravity, we're ready to move!
+Touchdown!
+
+[Outro]
+*(The heavy music crescendos into a massive, sustained final chord. The guitars and drums slowly fade away, leaving only a warm, pulsing synthesizer drone.)*
+
+[Spoken Word Outro: Planetarium Narrator]
+Atmospheric entry complete. Gravity is stable.
+On behalf of the crew, we would like to thank you for visiting the Engine Room Records Planetarium.
+The simulation is now concluded.
+Please exit safely, and welcome home.
 
 
 ***

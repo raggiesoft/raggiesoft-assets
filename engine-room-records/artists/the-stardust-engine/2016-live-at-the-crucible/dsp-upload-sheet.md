@@ -8,9 +8,9 @@
 * **Artist / Band Name:** `The Stardust Engine`
 * **Album Title:** `Live at the Crucible`
 * **Release Type:** `Live Album` (`LiveAlbum`)
-* **Total Tracks:** `24` (`1` WAV Masters Ready / `23` In Studio)
+* **Total Tracks:** `32` (`2` WAV Masters Ready / `30` In Studio)
 * **Record Label:** `Engine Room Records`
-* **Primary Genre:** `Live Stadium Rock / 1980s AOR / Collegiate Marching Band Rock`
+* **Primary Genre:** `Live Stadium Rock / 1980s AOR / Progressive Symphonic Space-Rock / Collegiate Marching Band Rock`
 * **In-Universe Release Date:** `2016-10-15`
 * **Real-World DSP Release Date:** `TBD`
 * **Album UPC / GTIN-12:** `None (Use Distributor-Assigned UPC)`
@@ -22,7 +22,7 @@
 
 ---
 
-### Songs (24 Tracks)
+### Songs (32 Tracks)
 
 1. Ignition: The Forger's Call
 * **Name:** Ignition: The Forger's Call
@@ -134,7 +134,47 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-11-steel-and-synthetics.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-11-steel-and-synthetics.txt`
 
-12. Moon 1: Tidal Lock
+12. Escape Velocity (Ad Astra)
+* **Name:** Escape Velocity (Ad Astra)
+* **Version:** Live at the Crucible
+* **ID3 / Vorbis Tagged Title:** `Escape Velocity (Ad Astra) (Live at the Crucible)`
+* **ISRC:** QTAHP2600042
+* **Duration:** 13:03 • **Instrumental:** No • **Explicit:** No
+* **Songwriter (Lyricist):** Michael P. Ragsdale
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/escape-velocity-ad-astra-live-at-the-crucible.wav` (✅ Ready)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/escape-velocity-ad-astra-live-at-the-crucible.txt`
+
+13. Apoapsis
+* **Name:** Apoapsis
+* **Version:** Live at the Crucible
+* **ID3 / Vorbis Tagged Title:** `Apoapsis (Live at the Crucible)`
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
+* **Songwriter (Lyricist):** Michael P. Ragsdale
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/apoapsis-live-at-the-crucible.wav` (⏳ In Studio)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/apoapsis-live-at-the-crucible.txt`
+
+14. Second Apoapsis
+* **Name:** Second Apoapsis
+* **Version:** Live at the Crucible
+* **ID3 / Vorbis Tagged Title:** `Second Apoapsis (Live at the Crucible)`
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
+* **Songwriter (Lyricist):** Michael P. Ragsdale
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/second-apoapsis-live-at-the-crucible.wav` (⏳ In Studio)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/second-apoapsis-live-at-the-crucible.txt`
+
+15. The Spectrum (True Color)
+* **Name:** The Spectrum (True Color)
+* **Version:** Live at the Crucible
+* **ID3 / Vorbis Tagged Title:** `The Spectrum (True Color) (Live at the Crucible)`
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
+* **Songwriter (Lyricist):** Michael P. Ragsdale
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/the-spectrum-true-color-live-at-the-crucible.wav` (⏳ In Studio)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/the-spectrum-true-color-live-at-the-crucible.txt`
+
+16. Moon 1: Tidal Lock
 * **Name:** Moon 1: Tidal Lock
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Moon 1: Tidal Lock (Live at the Crucible)`
@@ -144,7 +184,27 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-12-moon-1-tidal-lock.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-12-moon-1-tidal-lock.txt`
 
-13. Mayday: The Intercept
+17. Moon 2: Roche Limit
+* **Name:** Moon 2: Roche Limit
+* **Version:** Live at the Crucible
+* **ID3 / Vorbis Tagged Title:** `Moon 2: Roche Limit (Live at the Crucible)`
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
+* **Songwriter (Lyricist):** Michael P. Ragsdale
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/moon-2-roche-limit-live-at-the-crucible.wav` (⏳ In Studio)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/moon-2-roche-limit-live-at-the-crucible.txt`
+
+18. Impact (Mile Marker 98)
+* **Name:** Impact (Mile Marker 98)
+* **Version:** Live at the Crucible
+* **ID3 / Vorbis Tagged Title:** `Impact (Mile Marker 98) (Live at the Crucible)`
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
+* **Songwriter (Lyricist):** Michael P. Ragsdale
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/impact-mile-marker-98-live-at-the-crucible.wav` (⏳ In Studio)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/impact-mile-marker-98-live-at-the-crucible.txt`
+
+19. Mayday: The Intercept
 * **Name:** Mayday: The Intercept
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Mayday: The Intercept (Live at the Crucible)`
@@ -154,7 +214,27 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-13-mayday-the-intercept.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-13-mayday-the-intercept.txt`
 
-14. Our Own Frequency
+20. Star City: Orbital Ward
+* **Name:** Star City: Orbital Ward
+* **Version:** Live at the Crucible
+* **ID3 / Vorbis Tagged Title:** `Star City: Orbital Ward (Live at the Crucible)`
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
+* **Songwriter (Lyricist):** Michael P. Ragsdale
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/star-city-orbital-ward-live-at-the-crucible.wav` (⏳ In Studio)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/star-city-orbital-ward-live-at-the-crucible.txt`
+
+21. Twin Moons: Touchdown
+* **Name:** Twin Moons: Touchdown
+* **Version:** Live at the Crucible
+* **ID3 / Vorbis Tagged Title:** `Twin Moons: Touchdown (Live at the Crucible)`
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
+* **Songwriter (Lyricist):** Michael P. Ragsdale
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/twin-moons-touchdown-live-at-the-crucible.wav` (⏳ In Studio)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/twin-moons-touchdown-live-at-the-crucible.txt`
+
+22. Our Own Frequency
 * **Name:** Our Own Frequency
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Our Own Frequency (Live at the Crucible)`
@@ -164,7 +244,7 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-14-our-own-frequency.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-14-our-own-frequency.txt`
 
-15. Brother's Keeper
+23. Brother's Keeper
 * **Name:** Brother's Keeper
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Brother's Keeper (Live at the Crucible)`
@@ -174,7 +254,7 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-15-brothers-keeper.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-15-brothers-keeper.txt`
 
-16. Safe Person
+24. Safe Person
 * **Name:** Safe Person
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Safe Person (Live at the Crucible)`
@@ -184,7 +264,7 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-16-safe-person.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-16-safe-person.txt`
 
-17. Echoes in the Wire
+25. Echoes in the Wire
 * **Name:** Echoes in the Wire
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Echoes in the Wire (Live at the Crucible)`
@@ -194,7 +274,7 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-17-echoes-in-the-wire.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-17-echoes-in-the-wire.txt`
 
-18. Saturday Night Lights: The Crucible
+26. Saturday Night Lights: The Crucible
 * **Name:** Saturday Night Lights: The Crucible
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Saturday Night Lights: The Crucible (Live at the Crucible)`
@@ -204,7 +284,7 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-18-saturday-night-lights-the-crucible.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-18-saturday-night-lights-the-crucible.txt`
 
-19. Progress Street: Where the Fire Began
+27. Progress Street: Where the Fire Began
 * **Name:** Progress Street: Where the Fire Began
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Progress Street: Where the Fire Began (Live at the Crucible)`
@@ -214,7 +294,7 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-19-progress-street-where-the-fire-began.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-19-progress-street-where-the-fire-began.txt`
 
-20. Neon Hearts
+28. Neon Hearts
 * **Name:** Neon Hearts
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Neon Hearts (Live at the Crucible)`
@@ -224,7 +304,7 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-20-neon-hearts.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-20-neon-hearts.txt`
 
-21. My Anchor Holds
+29. My Anchor Holds
 * **Name:** My Anchor Holds
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `My Anchor Holds (Live at the Crucible)`
@@ -234,7 +314,7 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-21-my-anchor-holds.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-21-my-anchor-holds.txt`
 
-22. Reignition: Lights Up on Progress Street
+30. Reignition: Lights Up on Progress Street
 * **Name:** Reignition: Lights Up on Progress Street
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Reignition: Lights Up on Progress Street (Live at the Crucible)`
@@ -244,7 +324,7 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-22-reignition-lights-up-on-progress-street.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-22-reignition-lights-up-on-progress-street.txt`
 
-23. Last Bus Home: Lights Out on Progress Street
+31. Last Bus Home: Lights Out on Progress Street
 * **Name:** Last Bus Home: Lights Out on Progress Street
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Last Bus Home: Lights Out on Progress Street (Live at the Crucible)`
@@ -254,7 +334,7 @@
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-23-last-bus-home-lights-out-on-progress-street.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-23-last-bus-home-lights-out-on-progress-street.txt`
 
-24. Electric Color
+32. Electric Color
 * **Name:** Electric Color
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Electric Color (Live at the Crucible)`
