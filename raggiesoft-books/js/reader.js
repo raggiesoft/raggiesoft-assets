@@ -913,6 +913,11 @@ function initOceanViewReader() {
             document.body.classList.add('theme-custom');
             document.body.classList.add(`theme-${narrativeTheme}`);
             if (customThemeLink) {
+                const rawHref = customThemeLink.getAttribute('href') || '';
+                if (rawHref) {
+                    const baseHref = rawHref.split('?')[0];
+                    customThemeLink.setAttribute('href', baseHref + '?v=20261026c');
+                }
                 customThemeLink.removeAttribute('disabled');
                 customThemeLink.disabled = false;
             }
