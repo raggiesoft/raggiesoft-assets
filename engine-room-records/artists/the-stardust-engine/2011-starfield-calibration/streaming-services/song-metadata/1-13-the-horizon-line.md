@@ -7,7 +7,7 @@
 * **Primary Artist:** The Stardust Engine
 * **Genre:** 80s Cosmic Pop / Atmospheric Synth-Pop / Space Rock
 * **Real-World DSP Release Date:** 2026-10-17
-* **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTAHP2600040
+* **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes
@@ -29,10 +29,10 @@
 
 ## 3. Internal Catalog Information
 * **Engine Room ID:** ERR-001-2011-113
-* **ISRC:** QTAHP2600040
+* **ISRC:** 
 * **US ISRC Agency Registrant:** Michael Ragsdale (Registrant ID: 185611 • Prefix: QTAHP • dsp.operations@engineroom-records.com)
-* **Album UPC / GTIN-12:** None
-* **Track Length:** 4:31
+* **Album UPC / GTIN-12:** 700299965607
+* **Track Length:** 4:34
 * **Fictional Narrative Release Date:** 2011-10-18
 * **Master File Located At:** ../../vault/wav/1-13-the-horizon-line.wav
 

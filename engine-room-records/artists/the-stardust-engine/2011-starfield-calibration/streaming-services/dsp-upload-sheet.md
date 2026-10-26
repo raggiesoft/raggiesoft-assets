@@ -13,7 +13,7 @@
 * **Primary Genre:** `80s Cosmic Pop / Atmospheric Synth-Pop / Space Rock`
 * **In-Universe Release Date:** `2011-10-18`
 * **Real-World DSP Release Date:** `2026-10-17`
-* **Album UPC / GTIN-12:** `None (Use Distributor-Assigned UPC)`
+* **Album UPC / GTIN-12:** `700299965607`
 * **3000×3000 Cover Art File:** `streaming-services/album-art/album-art.jpg`
 * **Songwriter / Lyricist (Real Human Name):** `Michael P. Ragsdale`
 * **P-Line & C-Line (`℗` & `©`):** `2026 Engine Room Records / Michael P. Ragsdale`
@@ -28,7 +28,7 @@
 * **Name:** The Stardust Engine
 * **Version:** Cosmic Tidal Lock Mix
 * **ID3 / Vorbis Tagged Title:** `The Stardust Engine (Cosmic Tidal Lock Mix)`
-* **ISRC:** QTAHP2600028
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 5:03 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-01-the-stardust-engine.wav` (✅ Ready)
@@ -38,7 +38,7 @@
 * **Name:** Electric Color
 * **Version:** Cosmic Tidal Lock Mix
 * **ID3 / Vorbis Tagged Title:** `Electric Color (Cosmic Tidal Lock Mix)`
-* **ISRC:** QTAHP2600029
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:18 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-02-electric-color.wav` (✅ Ready)
@@ -48,7 +48,7 @@
 * **Name:** Plastic Sky
 * **Version:** Cosmic Tidal Lock Mix
 * **ID3 / Vorbis Tagged Title:** `Plastic Sky (Cosmic Tidal Lock Mix)`
-* **ISRC:** QTAHP2600030
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:47 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-03-plastic-sky.wav` (✅ Ready)
@@ -58,7 +58,7 @@
 * **Name:** Worlds Apart
 * **Version:** Cosmic Tidal Lock Mix
 * **ID3 / Vorbis Tagged Title:** `Worlds Apart (Cosmic Tidal Lock Mix)`
-* **ISRC:** QTAHP2600031
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:57 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-04-worlds-apart.wav` (✅ Ready)
@@ -68,7 +68,7 @@
 * **Name:** My Anchor Holds
 * **Version:** Cosmic Tidal Lock Mix
 * **ID3 / Vorbis Tagged Title:** `My Anchor Holds (Cosmic Tidal Lock Mix)`
-* **ISRC:** QTAHP2600032
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 5:02 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-05-my-anchor-holds.wav` (✅ Ready)
@@ -78,7 +78,7 @@
 * **Name:** Neon Hearts
 * **Version:** Cosmic Tidal Lock Mix
 * **ID3 / Vorbis Tagged Title:** `Neon Hearts (Cosmic Tidal Lock Mix)`
-* **ISRC:** QTAHP2600033
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 3:57 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-06-neon-hearts.wav` (✅ Ready)
@@ -88,7 +88,7 @@
 * **Name:** Rearview Mirror
 * **Version:** Cosmic Tidal Lock Mix
 * **ID3 / Vorbis Tagged Title:** `Rearview Mirror (Cosmic Tidal Lock Mix)`
-* **ISRC:** QTAHP2600034
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 5:33 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-07-rearview-mirror.wav` (✅ Ready)
@@ -98,7 +98,7 @@
 * **Name:** Atmosphere
 * **Version:** Cosmic Tidal Lock Mix
 * **ID3 / Vorbis Tagged Title:** `Atmosphere (Cosmic Tidal Lock Mix)`
-* **ISRC:** QTAHP2600035
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:22 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-08-atmosphere.wav` (✅ Ready)
@@ -108,7 +108,7 @@
 * **Name:** No Hidden Gravity
 * **Version:** Cosmic Tidal Lock Mix
 * **ID3 / Vorbis Tagged Title:** `No Hidden Gravity (Cosmic Tidal Lock Mix)`
-* **ISRC:** QTAHP2600036
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:57 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-09-no-hidden-gravity.wav` (✅ Ready)
@@ -118,7 +118,7 @@
 * **Name:** Inertia: Unstoppable
 * **Version:** Cosmic Tidal Lock Mix
 * **ID3 / Vorbis Tagged Title:** `Inertia: Unstoppable (Cosmic Tidal Lock Mix)`
-* **ISRC:** QTAHP2600037
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:44 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-10-inertia-unstoppable.wav` (✅ Ready)
@@ -128,7 +128,7 @@
 * **Name:** Echoes in the Wire
 * **Version:** Cosmic Tidal Lock Mix
 * **ID3 / Vorbis Tagged Title:** `Echoes in the Wire (Cosmic Tidal Lock Mix)`
-* **ISRC:** QTAHP2600038
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:29 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-11-echoes-in-the-wire.wav` (✅ Ready)
@@ -138,7 +138,7 @@
 * **Name:** Midnight Drivers
 * **Version:** Cosmic Tidal Lock Mix
 * **ID3 / Vorbis Tagged Title:** `Midnight Drivers (Cosmic Tidal Lock Mix)`
-* **ISRC:** QTAHP2600039
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 5:08 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-12-midnight-drivers.wav` (✅ Ready)
@@ -148,8 +148,8 @@
 * **Name:** The Horizon Line
 * **Version:** Cosmic Tidal Lock Mix
 * **ID3 / Vorbis Tagged Title:** `The Horizon Line (Cosmic Tidal Lock Mix)`
-* **ISRC:** QTAHP2600040
-* **Duration:** 4:31 • **Instrumental:** No • **Explicit:** No
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* **Duration:** 4:34 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-13-the-horizon-line.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-13-the-horizon-line.txt`
@@ -158,7 +158,7 @@
 * **Name:** Fade to Dawn
 * **Version:** Cosmic Tidal Lock Mix
 * **ID3 / Vorbis Tagged Title:** `Fade to Dawn (Cosmic Tidal Lock Mix)`
-* **ISRC:** QTAHP2600041
+* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 5:14 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-14-fade-to-dawn.wav` (✅ Ready)

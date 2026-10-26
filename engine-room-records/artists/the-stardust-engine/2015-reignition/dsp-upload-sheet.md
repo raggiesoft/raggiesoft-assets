@@ -14,10 +14,6 @@
 * **In-Universe Release Date:** `2015-10-16`
 * **Real-World DSP Release Date:** `2026-10-26`
 * **Album UPC / GTIN-12:** `700224184417`
-* **Spotify Album URL:** `https://open.spotify.com/album/5ROnOD6m85a9C6YpbogQm0`
-* **Apple Music Album URL:** `https://music.apple.com/us/album/reignition/6827274774`
-* **Amazon Music Album URL:** `https://music.amazon.com/albums/B0HPCWMPF2`
-* **YouTube Music Playlist URL:** `https://music.youtube.com/playlist?list=OLAK5uy_nHLJbNoRlH4KUcAYMx4UCZJv0yjwVglTc`
 * **3000×3000 Cover Art File:** `streaming-services/album-art/album-art.jpg`
 * **Songwriter / Lyricist (Real Human Name):** `Michael P. Ragsdale`
 * **P-Line & C-Line (`℗` & `©`):** `2026 Engine Room Records / Michael P. Ragsdale`

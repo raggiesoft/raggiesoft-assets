@@ -12,8 +12,8 @@
 * **Record Label:** `Engine Room Records`
 * **Primary Genre:** `1980s AOR / Melodic Stadium Rock / 80s Cosmic Pop`
 * **In-Universe Release Date:** `2015-10-16`
-* **Real-World DSP Release Date:** `TBD`
-* **Album UPC / GTIN-12:** `None (Use Distributor-Assigned UPC)`
+* **Real-World DSP Release Date:** `2026-10-26`
+* **Album UPC / GTIN-12:** `700224184417`
 * **3000×3000 Cover Art File:** `streaming-services/album-art/album-art.jpg`
 * **Songwriter / Lyricist (Real Human Name):** `Michael P. Ragsdale`
 * **P-Line & C-Line (`℗` & `©`):** `2026 Engine Room Records / Michael P. Ragsdale`
