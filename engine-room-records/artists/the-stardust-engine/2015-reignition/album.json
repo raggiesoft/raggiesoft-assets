@@ -18,9 +18,14 @@
     "@type": "Organization",
     "name": "Engine Room Records"
   },
+  "gtin12": "700224184417",
+  "datePublished": "2026-10-26",
+  "distroKidUploadDate": "2026-10-26",
+  "conditionsOfAccess": "Public",
+  "creativeWorkStatus": "Published",
   "albumRelease": {
     "@type": "MusicRelease",
-    "datePublished": "2015-10-16"
+    "datePublished": "2026-10-26"
   },
   "realWorldReleaseDate": "2026-10-26",
   "subtitle": "The 2015 Post-Hiatus Comeback Studio Album",
