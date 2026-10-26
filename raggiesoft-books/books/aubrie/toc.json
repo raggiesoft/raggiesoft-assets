@@ -6,16 +6,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "60 MB",
-        "pdf": "47.1 MB",
-        "text_epub": "929 KB",
+        "epub": "60.8 MB",
+        "pdf": "48.1 MB",
+        "text_epub": "935 KB",
         "text_pdf": "3.5 MB",
-        "epub_bytes": 62965113,
-        "pdf_bytes": 49397464,
-        "text_epub_bytes": 951474,
-        "text_pdf_bytes": 3633613
+        "epub_bytes": 63759908,
+        "pdf_bytes": 50470554,
+        "text_epub_bytes": 957834,
+        "text_pdf_bytes": 3654537
     },
-    "illustration_count": 58,
+    "illustration_count": 59,
     "eras": [
         {
             "era_num": 1,
@@ -2468,7 +2468,7 @@
             "era_num": 8,
             "era_title": "Summer 2016",
             "era_url": "/raggiesoft-books/books/aubrie/summer-2016",
-            "illustration_count": 4,
+            "illustration_count": 5,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2500,7 +2500,7 @@
                     "chap_num": 2,
                     "chap_title": "The Double Wedding & The Legal Seal",
                     "chap_url": "/raggiesoft-books/books/aubrie/summer-2016/the-double-wedding-the-legal-seal",
-                    "illustration_count": 3,
+                    "illustration_count": 4,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2526,21 +2526,25 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Legal Seal, The Reception, & The First Night",
+                            "part_title": "Part 2: The Legal Seal, The Grand Ballroom Reception, & His Chariot of Choice",
                             "file_path": "e008/c002/p002.md",
-                            "url": "/aubrie/summer-2016/the-double-wedding-the-legal-seal/part-2-the-legal-seal-the-reception-the-first-night",
+                            "url": "/aubrie/summer-2016/the-double-wedding-the-legal-seal/part-2-the-legal-seal-the-grand-ballroom-reception-his-chariot-of-choice",
                             "date": "2016-07-15",
                             "start_time": "14:45",
-                            "location": "Montgomery County Courthouse, Old Town Ballroom, & The Sunken Sanctuary (U.S. 11), VA",
+                            "location": "Montgomery County Courthouse, Old Town Ballroom, & Route 3 via Lee Hwy to The Sunken Sanctuary, VA",
                             "image": "/raggiesoft-books/images/scenes/aubrie/e008/c002/p002/chamber-b-jordan-shawn-kelly-seal.jpg",
                             "image_alt": "Inside sunlit wood-paneled Chamber B of the Montgomery County Courthouse in Christiansburg on Friday, July 15, 2016, newlywed Jordan Shawn Kelly sits upright in his Vanguard Pro wheelchair in his charcoal three-piece suit and midnight-blue tie, signing his new legal name 'Jordan Shawn Kelly' with a fountain pen onto the Virginia Marriage Register beside his gold-sealed Final Order for Change of Name, while his bride Aubrie Jean Kelly rests her hand on his shoulder, Mark and Hannah Anderson and attorney Daniel Brooks beam beside them, and Judge Warren T. Aldridge smiles from the judicial bench.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e008/c002/p002/chamber-b-jordan-shawn-kelly-seal.jpg",
                                     "alt": "Inside sunlit wood-paneled Chamber B of the Montgomery County Courthouse in Christiansburg on Friday, July 15, 2016, newlywed Jordan Shawn Kelly sits upright in his Vanguard Pro wheelchair in his charcoal three-piece suit and midnight-blue tie, signing his new legal name 'Jordan Shawn Kelly' with a fountain pen onto the Virginia Marriage Register beside his gold-sealed Final Order for Change of Name, while his bride Aubrie Jean Kelly rests her hand on his shoulder, Mark and Hannah Anderson and attorney Daniel Brooks beam beside them, and Judge Warren T. Aldridge smiles from the judicial bench."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e008/c002/p002/route-3-lee-hwy-wedding-chariot.jpg",
+                                    "alt": "At 10:30 PM on Friday night, July 15, 2016, under the warm amber streetlamps of Main Street in downtown Christiansburg after the wedding reception, newlywed Jordan Shawn Kelly in his charcoal three-piece wedding suit, midnight-blue silk tie, and white rose boutonniere smoothly backs his manual wheelchair up the front-door ramp in reverse onto a Blue Ridge Transit low-floor city bus displaying '3 via LEE HWY' on its amber LED destination sign, smiling toward his bride Aubrie Jean Kelly in her ivory lace wedding gown, Mark and Hannah Anderson, and the midnight-blue-gowned bridesmaids on the brick sidewalk."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         }
                     ]
                 }
