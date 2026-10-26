@@ -24,17 +24,15 @@ For thirty years... you guys have been stomping your feet to our song every sing
 So tonight... for the 30th Anniversary...
 Let's see if we can break the seismographs!
 
-[Drum Fill: Massive, Thundering]
+[Drum Fill: Slow, Massive, Thundering Stadium Kit - 82 BPM]
 [male]
 IGNITION!
 
 [Crowd Response: 60,000 People]
 (IGNITION!)
 
-[Music Starts: Heavy Industrial Riff, Slow and Stomping]
-[Sound Effect: Rhythmic Metallic Clang and Stomp]
-(TING... BOOM!)
-(TING... BOOM!)
+[Music Starts: Slow, Crushing 82 BPM Industrial Riff - Heavy Half-Time Kick-Drum Groove]
+[Instrumental Anvil & Stomp Intro: Ringing Steel Anvil Strike Answered by Thundering Kick Drum and 60,000-Person Bleacher Stomp]
 
 [Verse 1]
 [male]
@@ -67,9 +65,12 @@ We're standing ten feet tall!
 We are the hammer, we're the flame
 This is our house, this is our game!
 
+[Instrumental Anvil & Bleacher Stomp Break: Slow 82 BPM Steel Anvil Strike and Kick-Drum Stomp]
+(Rhythmic metallic steel anvil strike answered by thundering kick drum and 60,000 boots stomping on metal bleachers)
+
 [Verse 2]
 [male]
-Sixty thousand boots upon the iron floor!
+Molten iron pouring on the foundry floor!
 Hear the valley tremble when the Forgers roar!
 Concrete and Ironstone locked inside the night!
 Step into the furnace, step into the light!
@@ -94,14 +95,14 @@ We are the hammer, we're the flame
 This is our house, this is our game!
 
 [Guitar Solo]
-(Blistering 1980s stadium electric guitar solo soaring over the synchronized 60,000-person bleacher stomp and 300-piece CPI Marching Forgers brass stabs)
+(Slow, soaring 1980s stadium electric guitar lead over the synchronized 60,000-person kick-drum bleacher stomp and 300-piece CPI Marching Forgers brass stabs)
 
 [Bridge]
-(Half-time marching cadence)
+(Slow half-time foundry cadence)
 [male]
-Left! Right! Left! Right!
+Strike! ... Strike! ... Strike the steel!
 Feel the earthquake in the night!
-Ride the stomp! Shake the steel!
+Drop the hammer! ... Shake the steel!
 Make the whole mountain feel!
 
 [Final Chorus]
@@ -129,4 +130,4 @@ This is our house, this is our game!
 IGNITION!
 [Crowd Chant]
 (IGNITION!)
-(Massive Explosion and Guitar Feedback)
+(Massive Pyrotechnic Explosion, Ringing Anvil Strike, and Guitar Feedback)

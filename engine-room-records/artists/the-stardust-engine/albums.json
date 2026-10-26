@@ -364,10 +364,26 @@
         "storeStandardUrl": "",
         "storeAudiophileUrl": "",
         "dspExempt": true,
-        "dspNotice": "Recorded live inside The Crucible on May 21, 2016 with the 300-piece CPI Marching Forgers. Full multi-disc live album in production following the studio release of 2015's Reignition; the Grand Finale Encore ('Electric Color (Live at the Crucible)') is available for immediate streaming in The Listening Room and RaggieSoft Book Reader.",
-        "realRelease": "2026-10-25",
+        "dspNotice": "Recorded live inside The Crucible on May 21, 2016 with the 300-piece CPI Marching Forgers and released Homecoming Weekend (October 15, 2016) alongside the archival companion album The Forger's Call. 'Ignition: The Forger's Call (Live at the Crucible)', 'Escape Velocity (Ad Astra)', and 'Electric Color (Live at the Crucible)' are available for immediate streaming in The Listening Room and RaggieSoft Book Reader.",
+        "realRelease": "2026-10-26",
         "genre": "Live Stadium Rock / 1980s AOR / Collegiate Marching Band Rock",
         "description": "Recorded live on Saturday, May 21, 2016 inside The Crucible in Blacksburg, Virginia—Commonwealth Polytechnic Institute's 65,000-seat stadium—celebrating the 30th Anniversary of 1986's 'Ignition: The Forger's Call' with the 300-piece CPI Marching Forgers and closing with a secret 5:26 1980s AOR Stadium Rock reclamation of 'Electric Color'."
+      },
+      {
+        "title": "The Forger's Call",
+        "year": "2016",
+        "folder": "2016-the-forgers-call",
+        "url": "https://stardust.raggiesoft.com/discography/2016-the-forgers-call",
+        "img": "https://assets.raggiesoft.com/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/album-art.jpg",
+        "spotifyId": "",
+        "appleId": "",
+        "amazonId": "",
+        "youtubeId": "",
+        "storeStandardUrl": "",
+        "storeAudiophileUrl": "",
+        "realRelease": "2026-10-26",
+        "genre": "1980s Stadium Hard Rock / 1986 Archival Garage Demo",
+        "description": "Released on CPI Homecoming Weekend (October 15, 2016) as a bonus archival companion disc inside the Live at the Crucible 30th-Anniversary Box Set at The Foundry (and available separately). Brings both original October 1986 versions of 'Ignition: The Forger's Call' to an album for the very first time: the finished 1986 Crucible Stadium Master played as the CPI Forgers football team runs out onto the field, and 'Demo Take 3'—the 4-track Progress Street garage cassette submitted to the 1986 student contest."
       }
     ]
   }

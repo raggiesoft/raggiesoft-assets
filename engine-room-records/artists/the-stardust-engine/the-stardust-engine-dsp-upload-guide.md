@@ -1195,12 +1195,6 @@
 * ID3 / Vorbis Tag: Not Her
 * ISRC: QTA7V2642611
 
-15. Ignition: The Forger's Call
-* Name: Ignition: The Forger's Call
-* Version: 1986 Progress Street Cassette Demo
-* ID3 / Vorbis Tag: Ignition: The Forger's Call (1986 Progress Street Cassette Demo)
-* ISRC: QTAHP2600043
-
 ---
 ## Our Own Frequency (2008) — Studio Album
 * **Album Folder:** `2008-our-own-frequency` • **UPC:** `700521288573` • **Genre:** `Singer / Songwriter`
@@ -1419,7 +1413,7 @@
 * Name: Ignition: The Forger's Call
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Ignition: The Forger's Call (Live at the Crucible)
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600043
 
 2 (D1-T2). CPI Tech Triumph: The Marching Forgers
 * Name: CPI Tech Triumph: The Marching Forgers
@@ -1606,5 +1600,21 @@
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Electric Color (Live at the Crucible)
 * ISRC: QTAHP2600023
+
+---
+## The Forger's Call (2016) — Compilation / Anthology
+* **Album Folder:** `2016-the-forgers-call` • **UPC:** `None` • **Genre:** `1980s Stadium Hard Rock / 1986 Archival Garage Demo / Collegiate Football Anthem`
+
+1. Ignition: The Forger's Call
+* Name: Ignition: The Forger's Call
+* Version: None (Leave Blank on DSP)
+* ID3 / Vorbis Tag: Ignition: The Forger's Call
+* ISRC: QTAHP2600044
+
+2. Ignition: The Forger's Call
+* Name: Ignition: The Forger's Call
+* Version: Demo Take 3
+* ID3 / Vorbis Tag: Ignition: The Forger's Call (Demo Take 3)
+* ISRC: QTAHP2600045
 
 ---

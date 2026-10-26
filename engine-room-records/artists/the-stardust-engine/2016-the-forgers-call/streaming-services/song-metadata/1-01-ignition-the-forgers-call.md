@@ -1,13 +1,13 @@
-# Ignition: The Forger's Call (1986 Progress Street Cassette Demo) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Ignition: The Forger's Call - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Ignition: The Forger's Call
-* **Version:** 1986 Progress Street Cassette Demo
-* **ID3 / Vorbis Tagged Title:** Ignition: The Forger's Call (1986 Progress Street Cassette Demo)
+* **Version:** None (Leave Blank on DSP)
+* **ID3 / Vorbis Tagged Title:** Ignition: The Forger's Call
 * **Primary Artist:** The Stardust Engine
-* **Genre:** 80s Rock, B-Sides, Rarities
-* **Real-World DSP Release Date:** 2026-10-11
-* **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTAHP2600043
+* **Genre:** 1980s Stadium Hard Rock / 1986 Archival Garage Demo / Collegiate Football Anthem
+* **Real-World DSP Release Date:** 2026-10-26
+* **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTAHP2600044
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes
@@ -28,13 +28,13 @@
 * **Musician / Producer:** AI-Generated (Vocals & Instrumentation)
 
 ## 3. Internal Catalog Information
-* **Engine Room ID:** ERR-001-2007-115
-* **ISRC:** QTAHP2600043
+* **Engine Room ID:** ERR-001-2016-101
+* **ISRC:** QTAHP2600044
 * **US ISRC Agency Registrant:** Michael Ragsdale (Registrant ID: 185611 • Prefix: QTAHP • dsp.operations@engineroom-records.com)
-* **Album UPC / GTIN-12:** 700521345184
-* **Track Length:** 
-* **Fictional Narrative Release Date:** 2007-11-20
-* **Master File Located At:** ../../vault/wav/1-14-ignition-the-forgers-call-1986-cassette-demo.wav
+* **Album UPC / GTIN-12:** None
+* **Track Length:** 4:33
+* **Fictional Narrative Release Date:** 2016-10-15
+* **Master File Located At:** ../../vault/wav/1-01-ignition-the-forgers-call.wav
 
 ## 4. Rights, Tri-License Architecture & Clearances
 * **Commercial Rights:** 100% cleared via commercial-tier Suno Premium.

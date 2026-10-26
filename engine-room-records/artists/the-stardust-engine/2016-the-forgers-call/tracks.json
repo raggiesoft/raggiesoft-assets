@@ -1,0 +1,29 @@
+{
+  "tracks": [
+    {
+      "fileName": "1-01-ignition-the-forgers-call",
+      "title": "Ignition: The Forger's Call",
+      "isrc": "QTAHP2600044",
+      "masterWavPath": "studio/2016-the-forgers-call/1-01-ignition-the-forgers-call",
+      "disc": 1,
+      "discName": "The Forger's Call: 30th-Anniversary Archival Companion (1986–2016)",
+      "track": 1,
+      "duration": "4:33",
+      "legacyTier": "Stadium Classic",
+      "loreNote": "The official October 1986 Crucible Stadium Master played over the PA towers at every CPI Forgers home football game as the football team charges out of the tunnel onto the field—released on an album for the very first time in October 2016 alongside *Live at the Crucible*. Replacing the garage demo's vocalized `(TING... BOOM!)` placeholders with a real steel foundry anvil strike and Tyler Wright's chest-rattling **`82 BPM`** kick-drum groove, this is the exact recording to which the student section in **The Anvil** organically crafted **The Stomp** over several successive home games inside **The Crucible**."
+    },
+    {
+      "fileName": "1-02-ignition-the-forgers-call-demo-take-3",
+      "title": "Ignition: The Forger's Call",
+      "version": "Demo Take 3",
+      "isrc": "QTAHP2600045",
+      "masterWavPath": "studio/2016-the-forgers-call/1-02-ignition-the-forgers-call-demo-take-3",
+      "disc": 1,
+      "discName": "The Forger's Call: 30th-Anniversary Archival Companion (1986–2016)",
+      "track": 2,
+      "duration": "4:31",
+      "legacyTier": "Archival Vault Demo",
+      "loreNote": "The legendary October 1986 4-track Tascam Portastudio cassette recording (`Demo Take 3`) tracked inside the unheated garage at `412 Progress Street NE` in Blacksburg, Virginia, and submitted by Ryan O'Connell, Cassidy O'Connell, Evan Wright, Tyler Wright, and 16-year-old dual-enrolled Holly O'Connell to the CPI Student Government Association stadium anthem contest. Protected by Holly's historic **`$1.00` Perpetual Mutual Cross-License** ('The Progress Street Redline'), this raw cassette cut captures the mechanical click of the 4-track tape deck, 22-year-old Ryan's spoken garage slate, and the band members vocalizing `(TING... BOOM!)` on the tape to test the idea of where the foundry anvil strikes."
+    }
+  ]
+}

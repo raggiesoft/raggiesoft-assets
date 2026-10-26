@@ -8,7 +8,7 @@
 * **Artist / Band Name:** `The Stardust Engine`
 * **Album Title:** `Live at the Crucible`
 * **Release Type:** `Live Album` (`LiveAlbum`)
-* **Total Tracks:** `32` (`2` WAV Masters Ready / `30` In Studio)
+* **Total Tracks:** `32` (`3` WAV Masters Ready / `29` In Studio)
 * **Record Label:** `Engine Room Records`
 * **Primary Genre:** `Live Stadium Rock / 1980s AOR / Progressive Symphonic Space-Rock / Collegiate Marching Band Rock`
 * **In-Universe Release Date:** `2016-10-15`
@@ -28,10 +28,10 @@
 * **Name:** Ignition: The Forger's Call
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Ignition: The Forger's Call (Live at the Crucible)`
-* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
-* **Duration:** 4:30 • **Instrumental:** No • **Explicit:** No
+* **ISRC:** QTAHP2600043
+* **Duration:** 4:55 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-01-ignition-the-forgers-call.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-01-ignition-the-forgers-call.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-ignition-the-forgers-call.txt`
 
 2. [Disc 1 • Track 2] CPI Tech Triumph: The Marching Forgers
