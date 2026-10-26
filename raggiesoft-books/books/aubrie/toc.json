@@ -6,16 +6,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "54.9 MB",
-        "pdf": "41.4 MB",
-        "text_epub": "925 KB",
+        "epub": "55.8 MB",
+        "pdf": "42.4 MB",
+        "text_epub": "928 KB",
         "text_pdf": "3.5 MB",
-        "epub_bytes": 57597963,
-        "pdf_bytes": 43411241,
-        "text_epub_bytes": 947452,
-        "text_pdf_bytes": 3620573
+        "epub_bytes": 58499787,
+        "pdf_bytes": 44411834,
+        "text_epub_bytes": 949931,
+        "text_pdf_bytes": 3630999
     },
-    "illustration_count": 52,
+    "illustration_count": 53,
     "eras": [
         {
             "era_num": 1,
@@ -2260,7 +2260,7 @@
             "era_num": 7,
             "era_title": "Spring Semester 2016",
             "era_url": "/raggiesoft-books/books/aubrie/spring-semester-2016",
-            "illustration_count": 6,
+            "illustration_count": 7,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2326,7 +2326,7 @@
                     "chap_num": 4,
                     "chap_title": "Live at the Crucible & Senior Commencement",
                     "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement",
-                    "illustration_count": 6,
+                    "illustration_count": 7,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2366,9 +2366,9 @@
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Acts II, III & IV: Fifty-Two to Nothing, Escape Velocity (Ad Astra) & The Twin Moons",
+                            "part_title": "Part 3: Act II: Not Your Doll, Fifty-Two to Nothing & The Vault",
                             "file_path": "e007/c004/p003.md",
-                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-3-acts-ii-iii-iv-fifty-two-to-nothing-escape-velocity-ad-astra-the-twin-moons",
+                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-3-act-ii-not-your-doll-fifty-two-to-nothing-the-vault",
                             "date": "2016-05-21",
                             "start_time": "20:25",
                             "location": "Section 104, Row A, The Crucible, Commonwealth Polytechnic Institute, Blacksburg, VA",
@@ -2388,35 +2388,53 @@
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: Acts V & VI: Brother's Keeper, The Summer Festival Announcement, & Saturday Night Lights",
+                            "part_title": "Part 4: Acts III & IV: Escape Velocity (Ad Astra), Cosmic Tidal Lock & Mile Marker 98",
                             "file_path": "e007/c004/p004.md",
-                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-4-acts-v-vi-brother-s-keeper-the-summer-festival-announcement-saturday-night-lights",
+                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-4-acts-iii-iv-escape-velocity-ad-astra-cosmic-tidal-lock-mile-marker-98",
                             "date": "2016-05-21",
-                            "start_time": "21:50",
+                            "start_time": "20:55",
                             "location": "Section 104, Row A, The Crucible, Commonwealth Polytechnic Institute, Blacksburg, VA",
-                            "image": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/brothers-keeper-acoustic-spotlight.jpg",
-                            "image_alt": "Under two solitary warm golden spotlights at center stage inside the darkened 65,000-seat bowl of The Crucible, Ryan O'Connell sits in his manual wheelchair fingerpicking an acoustic guitar beside his sister Cassidy O'Connell at a gleaming black grand piano during 'Brother's Keeper', while the curved stage screen behind them displays 'THE FORGER NATION SUMMER FESTIVAL \u2022 AUGUST 2017' and thousands of fans hold up quiet white lights across the stands.",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/escape-velocity-ad-astra-cassidy-nebula.jpg",
+                            "image_alt": "Cassidy O'Connell stands front and center at the edge of The Crucible stadium stage singing 'Escape Velocity (Ad Astra)' with soaring emotion while Ryan O'Connell plays a zero-gravity solo on his sunburst Gibson Les Paul from his manual wheelchair to her left, backed by a 120-foot curved LED screen and 65,000 synchronized LED wristbands glowing in the crimson reds, sapphire blues, ultraviolet purples, and solar gold of a deep-space nebula.",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/brothers-keeper-acoustic-spotlight.jpg",
-                                    "alt": "Under two solitary warm golden spotlights at center stage inside the darkened 65,000-seat bowl of The Crucible, Ryan O'Connell sits in his manual wheelchair fingerpicking an acoustic guitar beside his sister Cassidy O'Connell at a gleaming black grand piano during 'Brother's Keeper', while the curved stage screen behind them displays 'THE FORGER NATION SUMMER FESTIVAL \u2022 AUGUST 2017' and thousands of fans hold up quiet white lights across the stands."
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/escape-velocity-ad-astra-cassidy-nebula.jpg",
+                                    "alt": "Cassidy O'Connell stands front and center at the edge of The Crucible stadium stage singing 'Escape Velocity (Ad Astra)' with soaring emotion while Ryan O'Connell plays a zero-gravity solo on his sunburst Gibson Les Paul from his manual wheelchair to her left, backed by a 120-foot curved LED screen and 65,000 synchronized LED wristbands glowing in the crimson reds, sapphire blues, ultraviolet purples, and solar gold of a deep-space nebula."
                                 }
                             ],
                             "image_count": 1
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: Act VII: Electric Color (Live at the Crucible) & The Departure Loop",
+                            "part_title": "Part 5: Acts V & VI: Brother's Keeper, The Summer Festival Announcement, & Saturday Night Lights",
                             "file_path": "e007/c004/p005.md",
-                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-5-act-vii-electric-color-live-at-the-crucible-the-departure-loop",
+                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-5-acts-v-vi-brother-s-keeper-the-summer-festival-announcement-saturday-night-lights",
+                            "date": "2016-05-21",
+                            "start_time": "21:50",
+                            "location": "Section 104, Row A, The Crucible, Commonwealth Polytechnic Institute, Blacksburg, VA",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/brothers-keeper-acoustic-spotlight.jpg",
+                            "image_alt": "Under two solitary warm golden spotlights at center stage inside the darkened 65,000-seat bowl of The Crucible, Ryan O'Connell sits in his manual wheelchair fingerpicking an acoustic guitar beside his sister Cassidy O'Connell at a gleaming black grand piano during 'Brother's Keeper', while the curved stage screen behind them displays 'THE FORGER NATION SUMMER FESTIVAL \u2022 AUGUST 2017' and thousands of fans hold up quiet white lights across the stands.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/brothers-keeper-acoustic-spotlight.jpg",
+                                    "alt": "Under two solitary warm golden spotlights at center stage inside the darkened 65,000-seat bowl of The Crucible, Ryan O'Connell sits in his manual wheelchair fingerpicking an acoustic guitar beside his sister Cassidy O'Connell at a gleaming black grand piano during 'Brother's Keeper', while the curved stage screen behind them displays 'THE FORGER NATION SUMMER FESTIVAL \u2022 AUGUST 2017' and thousands of fans hold up quiet white lights across the stands."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: Act VII: Electric Color (Live at the Crucible) & The Departure Loop",
+                            "file_path": "e007/c004/p006.md",
+                            "url": "/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement/part-6-act-vii-electric-color-live-at-the-crucible-the-departure-loop",
                             "date": "2016-05-21",
                             "start_time": "22:40",
                             "location": "The Crucible & Stadium Transit Loop, Blacksburg, VA",
-                            "image": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/electric-color-rainbow-reclamation.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/electric-color-rainbow-reclamation.jpg",
                             "image_alt": "During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage, and in the foreground at Section 104, Row A, Jordan Fuller raises both hands in happy tears from his wheelchair surrounded by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, and Mark Cooper.",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/electric-color-rainbow-reclamation.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/electric-color-rainbow-reclamation.jpg",
                                     "alt": "During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage, and in the foreground at Section 104, Row A, Jordan Fuller raises both hands in happy tears from his wheelchair surrounded by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, and Mark Cooper."
                                 }
                             ],
