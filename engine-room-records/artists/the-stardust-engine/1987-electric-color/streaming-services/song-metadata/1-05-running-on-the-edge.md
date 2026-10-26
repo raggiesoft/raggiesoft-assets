@@ -1,4 +1,4 @@
-# Running on the Edge - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Running on the Edge - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Running on the Edge

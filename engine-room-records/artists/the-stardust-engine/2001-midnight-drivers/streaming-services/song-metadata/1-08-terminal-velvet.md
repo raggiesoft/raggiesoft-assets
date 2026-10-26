@@ -1,4 +1,4 @@
-# Terminal Velvet - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Terminal Velvet - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Terminal Velvet

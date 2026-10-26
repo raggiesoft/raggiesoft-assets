@@ -1,4 +1,4 @@
-# The Cut Cord (No Service) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Cut Cord (No Service) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Cut Cord (No Service)

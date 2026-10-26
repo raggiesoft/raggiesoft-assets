@@ -1,4 +1,4 @@
-# Echoes in the Wire (Live in Virginia Beach) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Echoes in the Wire (Live in Virginia Beach) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Echoes in the Wire

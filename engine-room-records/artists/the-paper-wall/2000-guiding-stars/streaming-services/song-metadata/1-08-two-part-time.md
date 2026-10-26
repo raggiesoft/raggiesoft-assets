@@ -1,4 +1,4 @@
-# Two-Part Time - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Two-Part Time - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Two-Part Time

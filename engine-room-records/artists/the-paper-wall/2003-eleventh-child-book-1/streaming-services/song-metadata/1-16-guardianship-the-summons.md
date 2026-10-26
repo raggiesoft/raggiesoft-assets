@@ -1,4 +1,4 @@
-# Guardianship (The Summons) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Guardianship (The Summons) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Guardianship (The Summons)

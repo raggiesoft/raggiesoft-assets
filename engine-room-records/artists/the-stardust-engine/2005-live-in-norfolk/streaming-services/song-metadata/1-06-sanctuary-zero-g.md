@@ -1,4 +1,4 @@
-# Sanctuary: Zero-G (Live in Norfolk) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Sanctuary: Zero-G (Live in Norfolk) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Sanctuary: Zero-G

@@ -1,4 +1,4 @@
-# Diesel and Dust - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Diesel and Dust - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Diesel and Dust

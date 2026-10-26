@@ -1,4 +1,4 @@
-# Plastic Sky - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Plastic Sky - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Plastic Sky

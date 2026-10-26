@@ -1,4 +1,4 @@
-# The Eleventh Child (A Gauntlet of Hearts) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Eleventh Child (A Gauntlet of Hearts) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Eleventh Child (A Gauntlet of Hearts)

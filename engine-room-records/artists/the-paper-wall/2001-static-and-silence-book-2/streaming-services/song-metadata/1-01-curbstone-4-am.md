@@ -1,4 +1,4 @@
-# Curbstone, 4 AM - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Curbstone, 4 AM - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Curbstone, 4 AM

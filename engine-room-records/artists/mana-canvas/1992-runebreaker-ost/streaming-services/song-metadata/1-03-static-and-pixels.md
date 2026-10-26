@@ -1,4 +1,4 @@
-# Static and Pixels - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Static and Pixels - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Static and Pixels

@@ -1,4 +1,4 @@
-# No Hidden Gravity (Live in Norfolk) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# No Hidden Gravity (Live in Norfolk) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** No Hidden Gravity

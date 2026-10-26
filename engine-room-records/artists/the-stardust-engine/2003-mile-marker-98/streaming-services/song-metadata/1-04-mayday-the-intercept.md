@@ -1,4 +1,4 @@
-# Mayday: The Intercept - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Mayday: The Intercept - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Mayday: The Intercept

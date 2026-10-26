@@ -1,4 +1,4 @@
-# Quality of Service - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Quality of Service - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Quality of Service

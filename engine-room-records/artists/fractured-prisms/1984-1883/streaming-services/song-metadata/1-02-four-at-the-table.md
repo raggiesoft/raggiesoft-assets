@@ -1,4 +1,4 @@
-# Four at the Table - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Four at the Table - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Four at the Table

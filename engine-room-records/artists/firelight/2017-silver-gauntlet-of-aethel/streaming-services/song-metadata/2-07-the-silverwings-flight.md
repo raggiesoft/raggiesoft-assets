@@ -1,4 +1,4 @@
-# The Silverwing's Flight - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Silverwing's Flight - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Silverwing's Flight

@@ -1,4 +1,4 @@
-# Sanctuary: Zero G (Rough Mix) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Sanctuary: Zero G (Rough Mix) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Sanctuary: Zero G

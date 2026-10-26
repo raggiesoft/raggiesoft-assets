@@ -1,4 +1,4 @@
-# The Horizon Line (Cosmic Tidal Lock Mix) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Horizon Line (Cosmic Tidal Lock Mix) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Horizon Line

@@ -1,4 +1,4 @@
-# Neon Pulse - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Neon Pulse - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Neon Pulse

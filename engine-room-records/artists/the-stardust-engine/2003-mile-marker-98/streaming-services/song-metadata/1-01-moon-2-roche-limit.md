@@ -1,4 +1,4 @@
-# Moon 2 (Roche Limit) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Moon 2 (Roche Limit) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Moon 2 (Roche Limit)

@@ -1,4 +1,4 @@
-# Brand New Scene (Live at the Chancellery) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Brand New Scene (Live at the Chancellery) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Brand New Scene

@@ -1,4 +1,4 @@
-# Orbital Return - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Orbital Return - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Orbital Return

@@ -1,4 +1,4 @@
-# Telemetry - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Telemetry - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Telemetry

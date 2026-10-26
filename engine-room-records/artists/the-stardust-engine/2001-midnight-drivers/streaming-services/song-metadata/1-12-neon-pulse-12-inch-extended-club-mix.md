@@ -1,4 +1,4 @@
-# Neon Pulse (12" Extended Club Mix) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Neon Pulse (12" Extended Club Mix) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Neon Pulse

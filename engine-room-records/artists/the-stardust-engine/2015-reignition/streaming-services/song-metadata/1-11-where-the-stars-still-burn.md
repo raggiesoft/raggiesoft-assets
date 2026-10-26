@@ -1,4 +1,4 @@
-# Where the Stars Still Burn - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Where the Stars Still Burn - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Where the Stars Still Burn

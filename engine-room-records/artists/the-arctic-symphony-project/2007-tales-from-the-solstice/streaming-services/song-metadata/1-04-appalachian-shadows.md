@@ -1,4 +1,4 @@
-# Appalachian Shadows - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Appalachian Shadows - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Appalachian Shadows

@@ -1,4 +1,4 @@
-# Unhandled Exception - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Unhandled Exception - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Unhandled Exception

@@ -1,4 +1,4 @@
-# Quiet on the Set - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Quiet on the Set - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Quiet on the Set

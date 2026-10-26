@@ -1,4 +1,4 @@
-# Hoshizora no Uta (Song of the Starry Sky) (Japanese Version) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Hoshizora no Uta (Song of the Starry Sky) (Japanese Version) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Hoshizora no Uta (Song of the Starry Sky)

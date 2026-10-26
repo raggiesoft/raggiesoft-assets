@@ -1,4 +1,4 @@
-# System.Crash(Meltdown_01) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# System.Crash(Meltdown_01) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** System.Crash(Meltdown_01)

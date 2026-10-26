@@ -1,4 +1,4 @@
-# A River of Iron - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# A River of Iron - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** A River of Iron

@@ -1,4 +1,4 @@
-# The Anchor Holds (Aubrie's Theme) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Anchor Holds (Aubrie's Theme) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Anchor Holds (Aubrie's Theme)

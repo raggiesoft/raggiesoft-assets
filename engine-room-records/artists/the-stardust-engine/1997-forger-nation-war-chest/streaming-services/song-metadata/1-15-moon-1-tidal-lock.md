@@ -1,4 +1,4 @@
-# Moon 1 (Tidal Lock) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Moon 1 (Tidal Lock) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Moon 1 (Tidal Lock)

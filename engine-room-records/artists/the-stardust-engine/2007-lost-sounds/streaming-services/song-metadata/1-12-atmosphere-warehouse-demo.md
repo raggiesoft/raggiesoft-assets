@@ -1,4 +1,4 @@
-# Atmosphere (Warehouse Demo) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Atmosphere (Warehouse Demo) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Atmosphere

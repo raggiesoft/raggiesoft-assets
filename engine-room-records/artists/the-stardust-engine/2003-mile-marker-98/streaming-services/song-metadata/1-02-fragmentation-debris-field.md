@@ -1,4 +1,4 @@
-# Fragmentation: Debris Field - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Fragmentation: Debris Field - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Fragmentation: Debris Field

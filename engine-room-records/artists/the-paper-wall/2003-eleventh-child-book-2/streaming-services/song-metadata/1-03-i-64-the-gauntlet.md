@@ -1,4 +1,4 @@
-# I-64 (The Gauntlet) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# I-64 (The Gauntlet) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** I-64 (The Gauntlet)

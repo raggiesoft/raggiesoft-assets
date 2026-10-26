@@ -1,4 +1,4 @@
-# No Hidden Gravity (Cosmic Tidal Lock Mix) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# No Hidden Gravity (Cosmic Tidal Lock Mix) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** No Hidden Gravity

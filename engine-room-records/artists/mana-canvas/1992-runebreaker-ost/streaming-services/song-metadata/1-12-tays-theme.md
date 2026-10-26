@@ -1,4 +1,4 @@
-# Tay's Theme - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Tay's Theme - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Tay's Theme

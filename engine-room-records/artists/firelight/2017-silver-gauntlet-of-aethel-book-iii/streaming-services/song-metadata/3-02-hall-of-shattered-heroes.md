@@ -1,4 +1,4 @@
-# Hall of Shattered Heroes - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Hall of Shattered Heroes - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Hall of Shattered Heroes

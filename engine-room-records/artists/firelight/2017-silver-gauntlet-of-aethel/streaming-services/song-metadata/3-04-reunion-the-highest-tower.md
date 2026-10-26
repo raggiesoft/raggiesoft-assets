@@ -1,4 +1,4 @@
-# Reunion (The Highest Tower) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Reunion (The Highest Tower) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Reunion (The Highest Tower)

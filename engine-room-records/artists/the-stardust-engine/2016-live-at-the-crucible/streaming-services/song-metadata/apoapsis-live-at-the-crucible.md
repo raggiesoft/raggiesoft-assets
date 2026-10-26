@@ -1,4 +1,4 @@
-# Apoapsis (Live at the Crucible) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Apoapsis (Live at the Crucible) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Apoapsis

@@ -1,4 +1,4 @@
-# This House Stands - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# This House Stands - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** This House Stands

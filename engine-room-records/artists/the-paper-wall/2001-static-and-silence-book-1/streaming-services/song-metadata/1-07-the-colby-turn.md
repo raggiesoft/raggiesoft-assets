@@ -1,4 +1,4 @@
-# The Colby Turn - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Colby Turn - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Colby Turn

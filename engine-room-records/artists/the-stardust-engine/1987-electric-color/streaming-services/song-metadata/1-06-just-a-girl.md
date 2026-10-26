@@ -1,4 +1,4 @@
-# Just a Girl - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Just a Girl - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Just a Girl

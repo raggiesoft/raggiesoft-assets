@@ -1,4 +1,4 @@
-# The Grand Decree (Reprise) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Grand Decree (Reprise) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Grand Decree (Reprise)

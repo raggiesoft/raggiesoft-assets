@@ -1,4 +1,4 @@
-# My Anchor: The Sail (Live at the Chancellery) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# My Anchor: The Sail (Live at the Chancellery) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** My Anchor: The Sail

@@ -1,4 +1,4 @@
-# Redline (Live in Virginia Beach) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Redline (Live in Virginia Beach) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Redline

@@ -1,4 +1,4 @@
-# CPI Tech Triumph: The Marching Forgers (Live at the Crucible) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# CPI Tech Triumph: The Marching Forgers (Live at the Crucible) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** CPI Tech Triumph: The Marching Forgers

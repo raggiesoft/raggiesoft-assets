@@ -1,4 +1,4 @@
-# Periapsis (Closest Approach) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Periapsis (Closest Approach) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Periapsis (Closest Approach)

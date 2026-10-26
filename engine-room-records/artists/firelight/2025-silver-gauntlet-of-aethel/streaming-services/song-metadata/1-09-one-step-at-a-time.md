@@ -1,4 +1,4 @@
-# One Step at a Time (The Gauntlet's Path) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# One Step at a Time (The Gauntlet's Path) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** One Step at a Time (The Gauntlet's Path)

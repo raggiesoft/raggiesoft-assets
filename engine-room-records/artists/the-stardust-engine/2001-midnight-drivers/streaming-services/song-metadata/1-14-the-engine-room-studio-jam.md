@@ -1,4 +1,4 @@
-# The Engine Room (Studio Jam) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Engine Room (Studio Jam) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Engine Room

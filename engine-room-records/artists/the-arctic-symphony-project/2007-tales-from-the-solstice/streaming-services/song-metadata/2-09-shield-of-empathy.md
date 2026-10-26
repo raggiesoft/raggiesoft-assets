@@ -1,4 +1,4 @@
-# Shield of Empathy - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Shield of Empathy - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Shield of Empathy

@@ -1,4 +1,4 @@
-# The Northern Wastes - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Northern Wastes - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Northern Wastes

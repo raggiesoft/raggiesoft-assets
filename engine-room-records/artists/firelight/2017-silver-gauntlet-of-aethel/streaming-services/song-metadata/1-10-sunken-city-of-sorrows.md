@@ -1,4 +1,4 @@
-# Sunken City of Sorrows - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Sunken City of Sorrows - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Sunken City of Sorrows

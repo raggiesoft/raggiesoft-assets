@@ -1,4 +1,4 @@
-# The Anchor Holds (Part 1: The Longest Hour / Part 2: My Anchor (Reunion)) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Anchor Holds (Part 1: The Longest Hour / Part 2: My Anchor (Reunion)) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Anchor Holds (Part 1: The Longest Hour / Part 2: My Anchor (Reunion))

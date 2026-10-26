@@ -1,4 +1,4 @@
-# The Boy Inside - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Boy Inside - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Boy Inside

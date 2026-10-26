@@ -1,4 +1,4 @@
-# Upon This Winter's Night (The Family Mix - Trilingual Edition) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Upon This Winter's Night (The Family Mix - Trilingual Edition) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Upon This Winter's Night

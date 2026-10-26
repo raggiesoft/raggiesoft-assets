@@ -1,4 +1,4 @@
-# Static on the Wire - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Static on the Wire - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Static on the Wire

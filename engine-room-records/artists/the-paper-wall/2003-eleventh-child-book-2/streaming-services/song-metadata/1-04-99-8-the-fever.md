@@ -1,4 +1,4 @@
-# 99.8 (The Fever) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# 99.8 (The Fever) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** 99.8 (The Fever)

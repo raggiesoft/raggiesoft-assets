@@ -1,4 +1,4 @@
-# Architects of the Rain - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Architects of the Rain - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Architects of the Rain

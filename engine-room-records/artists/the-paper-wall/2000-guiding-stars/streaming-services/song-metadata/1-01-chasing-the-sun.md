@@ -1,4 +1,4 @@
-# Chasing the Sun - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Chasing the Sun - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Chasing the Sun

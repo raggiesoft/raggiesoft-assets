@@ -1,4 +1,4 @@
-# Radio Silence - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Radio Silence - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Radio Silence

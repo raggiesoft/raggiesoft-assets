@@ -1,4 +1,4 @@
-# Sanctuary - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Sanctuary - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Sanctuary

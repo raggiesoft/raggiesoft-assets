@@ -1,4 +1,4 @@
-# The Rain in the Sound - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Rain in the Sound - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Rain in the Sound

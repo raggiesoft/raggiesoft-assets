@@ -1,4 +1,4 @@
-# The Leviathan Cut (A Sister's Love) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Leviathan Cut (A Sister's Love) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Leviathan Cut (A Sister's Love)

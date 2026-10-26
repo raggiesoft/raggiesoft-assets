@@ -1,4 +1,4 @@
-# Just Us - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Just Us - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Just Us

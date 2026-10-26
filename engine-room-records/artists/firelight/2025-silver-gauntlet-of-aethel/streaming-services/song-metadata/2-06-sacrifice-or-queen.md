@@ -1,4 +1,4 @@
-# Sacrifice or Queen? - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Sacrifice or Queen? - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Sacrifice or Queen?

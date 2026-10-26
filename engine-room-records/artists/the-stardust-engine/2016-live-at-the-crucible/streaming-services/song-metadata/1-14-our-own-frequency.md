@@ -1,4 +1,4 @@
-# Our Own Frequency (Live at the Crucible) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Our Own Frequency (Live at the Crucible) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Our Own Frequency

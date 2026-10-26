@@ -1,4 +1,4 @@
-# Friday, 9:32 AM (The Attack) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Friday, 9:32 AM (The Attack) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Friday, 9:32 AM (The Attack)

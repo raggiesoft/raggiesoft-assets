@@ -1,4 +1,4 @@
-# The Ellensburg Burn - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Ellensburg Burn - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Ellensburg Burn

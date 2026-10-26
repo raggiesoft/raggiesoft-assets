@@ -1,4 +1,4 @@
-# Shatterproof - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Shatterproof - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Shatterproof

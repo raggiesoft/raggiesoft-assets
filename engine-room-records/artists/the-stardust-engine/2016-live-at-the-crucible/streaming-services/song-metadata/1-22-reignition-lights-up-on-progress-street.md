@@ -1,4 +1,4 @@
-# Reignition: Lights Up on Progress Street (Live at the Crucible) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Reignition: Lights Up on Progress Street (Live at the Crucible) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Reignition: Lights Up on Progress Street

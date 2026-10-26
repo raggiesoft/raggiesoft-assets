@@ -1,4 +1,4 @@
-# The Fading Spark - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Fading Spark - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Fading Spark

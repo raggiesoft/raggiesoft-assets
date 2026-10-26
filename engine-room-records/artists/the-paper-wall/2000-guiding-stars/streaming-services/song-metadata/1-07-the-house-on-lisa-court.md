@@ -1,4 +1,4 @@
-# The House on Lisa Court - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The House on Lisa Court - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The House on Lisa Court

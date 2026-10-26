@@ -1,4 +1,4 @@
-# The Bridge of a Thousand Truths - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Bridge of a Thousand Truths - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Bridge of a Thousand Truths

@@ -1,4 +1,4 @@
-# Descent into the Hub - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Descent into the Hub - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Descent into the Hub

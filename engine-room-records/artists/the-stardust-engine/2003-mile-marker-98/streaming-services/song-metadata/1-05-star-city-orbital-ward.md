@@ -1,4 +1,4 @@
-# Star City: Orbital Ward - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Star City: Orbital Ward - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Star City: Orbital Ward

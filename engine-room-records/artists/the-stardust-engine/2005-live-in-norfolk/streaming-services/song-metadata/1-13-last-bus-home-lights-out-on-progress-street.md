@@ -1,4 +1,4 @@
-# Last Bus Home: Lights Out on Progress Street (Live in Norfolk) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Last Bus Home: Lights Out on Progress Street (Live in Norfolk) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Last Bus Home: Lights Out on Progress Street

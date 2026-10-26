@@ -1,4 +1,4 @@
-# Progress Street: Where the Fire Began (Live in Norfolk) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Progress Street: Where the Fire Began (Live in Norfolk) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Progress Street: Where the Fire Began

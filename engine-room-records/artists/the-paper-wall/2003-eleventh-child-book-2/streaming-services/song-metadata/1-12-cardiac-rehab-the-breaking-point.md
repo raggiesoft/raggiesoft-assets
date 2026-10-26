@@ -1,4 +1,4 @@
-# Cardiac Rehab (The Breaking Point) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Cardiac Rehab (The Breaking Point) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Cardiac Rehab (The Breaking Point)

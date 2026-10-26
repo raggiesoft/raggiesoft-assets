@@ -1,4 +1,4 @@
-# I Can't Live Without You (Kaela's Theme) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# I Can't Live Without You (Kaela's Theme) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** I Can't Live Without You (Kaela's Theme)

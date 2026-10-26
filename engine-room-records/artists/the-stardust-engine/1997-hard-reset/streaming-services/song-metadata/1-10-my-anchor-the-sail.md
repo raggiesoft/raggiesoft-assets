@@ -1,4 +1,4 @@
-# My Anchor (The Sail) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# My Anchor (The Sail) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** My Anchor (The Sail)

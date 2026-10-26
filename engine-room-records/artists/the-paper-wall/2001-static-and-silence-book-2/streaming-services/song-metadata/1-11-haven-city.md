@@ -1,4 +1,4 @@
-# Haven City - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Haven City - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Haven City

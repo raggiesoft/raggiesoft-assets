@@ -1,4 +1,4 @@
-# Digital Ghosts - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Digital Ghosts - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Digital Ghosts

@@ -1,4 +1,4 @@
-# Seconds Into Forever - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Seconds Into Forever - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Seconds Into Forever

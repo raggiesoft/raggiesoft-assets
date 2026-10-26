@@ -1,4 +1,4 @@
-# The New Normal (6:00 AM) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The New Normal (6:00 AM) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The New Normal (6:00 AM)

@@ -1,4 +1,4 @@
-# Sanctuary (The Thanksgiving Exodus) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Sanctuary (The Thanksgiving Exodus) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Sanctuary (The Thanksgiving Exodus)

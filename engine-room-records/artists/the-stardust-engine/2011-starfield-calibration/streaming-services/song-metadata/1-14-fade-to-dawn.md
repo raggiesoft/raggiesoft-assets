@@ -1,4 +1,4 @@
-# Fade to Dawn (Cosmic Tidal Lock Mix) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Fade to Dawn (Cosmic Tidal Lock Mix) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Fade to Dawn

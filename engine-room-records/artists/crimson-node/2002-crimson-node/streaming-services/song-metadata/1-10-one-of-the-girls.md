@@ -1,4 +1,4 @@
-# One of the Girls - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# One of the Girls - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** One of the Girls

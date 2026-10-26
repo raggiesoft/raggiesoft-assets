@@ -1,4 +1,4 @@
-# The Same Constellations - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Same Constellations - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Same Constellations

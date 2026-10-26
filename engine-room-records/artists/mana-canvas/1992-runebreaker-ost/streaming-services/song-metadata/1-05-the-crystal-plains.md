@@ -1,4 +1,4 @@
-# The Crystal Plains - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Crystal Plains - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Crystal Plains

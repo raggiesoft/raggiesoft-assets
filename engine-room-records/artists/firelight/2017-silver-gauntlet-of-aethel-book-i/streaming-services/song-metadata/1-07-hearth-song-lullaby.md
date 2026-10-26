@@ -1,4 +1,4 @@
-# Hearth-Song (Lullaby) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Hearth-Song (Lullaby) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Hearth-Song (Lullaby)

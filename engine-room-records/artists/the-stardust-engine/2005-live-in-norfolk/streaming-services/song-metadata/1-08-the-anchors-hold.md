@@ -1,4 +1,4 @@
-# The Anchor's Hold (Live in Norfolk) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Anchor's Hold (Live in Norfolk) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Anchor's Hold

@@ -1,4 +1,4 @@
-# Ignition: The Forger's Call (Demo Take 3) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Ignition: The Forger's Call (Demo Take 3) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Ignition: The Forger's Call

@@ -1,4 +1,4 @@
-# Garbage - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Garbage - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Garbage

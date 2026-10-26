@@ -1,4 +1,4 @@
-# A Cage of Silver Light - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# A Cage of Silver Light - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** A Cage of Silver Light

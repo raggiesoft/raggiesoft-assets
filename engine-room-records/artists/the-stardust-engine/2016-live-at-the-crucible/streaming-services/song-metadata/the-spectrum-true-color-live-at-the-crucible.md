@@ -1,4 +1,4 @@
-# The Spectrum (True Color) (Live at the Crucible) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Spectrum (True Color) (Live at the Crucible) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Spectrum (True Color)

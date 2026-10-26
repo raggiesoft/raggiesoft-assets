@@ -1,4 +1,4 @@
-# A House Divided - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# A House Divided - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** A House Divided

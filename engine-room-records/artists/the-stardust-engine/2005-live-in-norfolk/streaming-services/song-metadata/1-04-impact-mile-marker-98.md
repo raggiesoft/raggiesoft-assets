@@ -1,4 +1,4 @@
-# Impact: Mile Marker 98 (Live in Norfolk) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Impact: Mile Marker 98 (Live in Norfolk) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Impact: Mile Marker 98

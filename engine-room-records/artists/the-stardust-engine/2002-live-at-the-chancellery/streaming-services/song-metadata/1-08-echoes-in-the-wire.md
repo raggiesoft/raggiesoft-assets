@@ -1,4 +1,4 @@
-# Echoes in the Wire (Live at the Chancellery) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Echoes in the Wire (Live at the Chancellery) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Echoes in the Wire

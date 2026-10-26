@@ -1,4 +1,4 @@
-# No Hidden Gravity (Hard Reset Live) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# No Hidden Gravity (Hard Reset Live) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** No Hidden Gravity

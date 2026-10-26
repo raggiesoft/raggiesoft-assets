@@ -1,4 +1,4 @@
-# Brother's Keeper - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Brother's Keeper - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Brother's Keeper

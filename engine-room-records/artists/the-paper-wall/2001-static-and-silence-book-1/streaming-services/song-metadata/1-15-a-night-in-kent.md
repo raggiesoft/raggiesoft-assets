@@ -1,4 +1,4 @@
-# A Night in Kent - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# A Night in Kent - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** A Night in Kent

@@ -1,4 +1,4 @@
-# Before the Distance - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Before the Distance - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Before the Distance

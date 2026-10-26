@@ -1,4 +1,4 @@
-# Guardian of the Gate - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Guardian of the Gate - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Guardian of the Gate

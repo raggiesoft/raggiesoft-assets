@@ -1,4 +1,4 @@
-# Silent Ocean (Mare Tranquillitatis) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Silent Ocean (Mare Tranquillitatis) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Silent Ocean (Mare Tranquillitatis)

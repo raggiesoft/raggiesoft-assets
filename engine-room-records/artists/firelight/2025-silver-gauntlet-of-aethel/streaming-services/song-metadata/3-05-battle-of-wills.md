@@ -1,4 +1,4 @@
-# Battle of Wills - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Battle of Wills - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Battle of Wills

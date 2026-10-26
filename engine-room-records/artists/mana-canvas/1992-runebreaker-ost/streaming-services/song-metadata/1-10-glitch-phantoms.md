@@ -1,4 +1,4 @@
-# Glitch Phantoms - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Glitch Phantoms - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Glitch Phantoms

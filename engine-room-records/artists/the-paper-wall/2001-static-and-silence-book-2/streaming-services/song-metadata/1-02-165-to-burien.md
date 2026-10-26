@@ -1,4 +1,4 @@
-# 165 to Burien - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# 165 to Burien - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** 165 to Burien

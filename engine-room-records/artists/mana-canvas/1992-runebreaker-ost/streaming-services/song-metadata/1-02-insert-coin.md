@@ -1,4 +1,4 @@
-# Insert Coin - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Insert Coin - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Insert Coin

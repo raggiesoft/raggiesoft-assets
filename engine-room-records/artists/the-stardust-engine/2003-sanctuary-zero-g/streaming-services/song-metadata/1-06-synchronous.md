@@ -1,4 +1,4 @@
-# Synchronous - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Synchronous - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Synchronous

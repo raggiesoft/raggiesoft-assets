@@ -1,4 +1,4 @@
-# The Spectrum (True Color) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Spectrum (True Color) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Spectrum (True Color)

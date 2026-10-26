@@ -1,4 +1,4 @@
-# Cold Tile (The Fall) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Cold Tile (The Fall) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Cold Tile (The Fall)

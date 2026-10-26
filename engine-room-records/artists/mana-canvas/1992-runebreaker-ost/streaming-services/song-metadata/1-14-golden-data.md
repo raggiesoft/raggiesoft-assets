@@ -1,4 +1,4 @@
-# Golden Data - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Golden Data - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Golden Data

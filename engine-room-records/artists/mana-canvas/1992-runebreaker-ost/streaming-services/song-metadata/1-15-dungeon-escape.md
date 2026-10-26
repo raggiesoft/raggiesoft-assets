@@ -1,4 +1,4 @@
-# Dungeon Escape - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Dungeon Escape - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Dungeon Escape

@@ -1,4 +1,4 @@
-# Homeward on This Day - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Homeward on This Day - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Homeward on This Day

@@ -1,4 +1,4 @@
-# Empty Arenas - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Empty Arenas - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Empty Arenas

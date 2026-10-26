@@ -1,7 +1,7 @@
 # The Arctic Symphony Project
 ## A Symphony of Snow
 
-> **DSP Upload Quick-Reference Sheet (DistroKid & DistributeMusic.ai)**
+> **DSP Upload Quick-Reference Sheet (DistroKid)**
 > Designed for side-by-side use on the distributor upload screen. All version, live venue, demo, mix, and edit suffixes have been stripped from `Name` and placed into `Version` to satisfy strict DSP title validation.
 
 ### Album-Level Upload Settings

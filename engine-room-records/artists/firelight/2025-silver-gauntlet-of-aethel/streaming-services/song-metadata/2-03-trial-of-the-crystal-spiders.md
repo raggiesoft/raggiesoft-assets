@@ -1,4 +1,4 @@
-# Trial of the Crystal Spiders - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Trial of the Crystal Spiders - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Trial of the Crystal Spiders

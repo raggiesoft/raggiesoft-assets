@@ -1,4 +1,4 @@
-# Neon Hearts (Live in Chicago) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Neon Hearts (Live in Chicago) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Neon Hearts

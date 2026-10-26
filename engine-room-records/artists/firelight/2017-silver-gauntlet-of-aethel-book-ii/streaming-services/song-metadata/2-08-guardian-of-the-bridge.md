@@ -1,4 +1,4 @@
-# Guardian of the Bridge - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Guardian of the Bridge - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Guardian of the Bridge

@@ -1,4 +1,4 @@
-# Hunter and the Hunted - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Hunter and the Hunted - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Hunter and the Hunted

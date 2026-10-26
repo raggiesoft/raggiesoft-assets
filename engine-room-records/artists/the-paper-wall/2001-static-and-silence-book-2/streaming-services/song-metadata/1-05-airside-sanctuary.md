@@ -1,4 +1,4 @@
-# Airside Sanctuary - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Airside Sanctuary - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Airside Sanctuary

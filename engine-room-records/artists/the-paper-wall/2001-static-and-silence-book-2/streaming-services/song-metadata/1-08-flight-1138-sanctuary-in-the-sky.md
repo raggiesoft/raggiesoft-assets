@@ -1,4 +1,4 @@
-# Flight 1138 - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Flight 1138 - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Flight 1138

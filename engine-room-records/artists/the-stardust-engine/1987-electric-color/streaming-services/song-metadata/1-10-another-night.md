@@ -1,4 +1,4 @@
-# Another Night - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Another Night - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Another Night

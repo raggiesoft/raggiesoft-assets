@@ -1,4 +1,4 @@
-# The Hollow Square - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Hollow Square - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Hollow Square

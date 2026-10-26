@@ -1,4 +1,4 @@
-# The Flight Path (Live in Virginia Beach) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Flight Path (Live in Virginia Beach) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Flight Path

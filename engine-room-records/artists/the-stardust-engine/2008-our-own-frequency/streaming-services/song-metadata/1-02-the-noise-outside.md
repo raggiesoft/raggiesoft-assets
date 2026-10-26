@@ -1,4 +1,4 @@
-# The Noise Outside - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Noise Outside - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Noise Outside

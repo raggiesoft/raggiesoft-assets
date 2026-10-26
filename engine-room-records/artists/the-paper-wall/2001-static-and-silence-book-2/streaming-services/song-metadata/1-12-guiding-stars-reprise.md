@@ -1,4 +1,4 @@
-# Guiding Stars (Reprise) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Guiding Stars (Reprise) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Guiding Stars (Reprise)

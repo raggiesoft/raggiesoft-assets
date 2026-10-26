@@ -1,4 +1,4 @@
-# Electric Color (Live in Norfolk) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Electric Color (Live in Norfolk) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Electric Color

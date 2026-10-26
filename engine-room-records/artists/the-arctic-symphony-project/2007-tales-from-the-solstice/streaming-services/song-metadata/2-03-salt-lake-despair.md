@@ -1,4 +1,4 @@
-# Salt Lake Despair - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Salt Lake Despair - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Salt Lake Despair

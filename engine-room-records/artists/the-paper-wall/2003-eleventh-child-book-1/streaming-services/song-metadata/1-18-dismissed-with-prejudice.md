@@ -1,4 +1,4 @@
-# Dismissed (With Prejudice) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Dismissed (With Prejudice) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Dismissed (With Prejudice)

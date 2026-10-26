@@ -1,4 +1,4 @@
-# Thunder in the Rain - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Thunder in the Rain - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Thunder in the Rain

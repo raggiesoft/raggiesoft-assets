@@ -1,4 +1,4 @@
-# Running on Redline - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Running on Redline - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Running on Redline

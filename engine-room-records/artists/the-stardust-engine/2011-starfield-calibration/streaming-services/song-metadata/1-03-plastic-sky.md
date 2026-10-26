@@ -1,4 +1,4 @@
-# Plastic Sky (Cosmic Tidal Lock Mix) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Plastic Sky (Cosmic Tidal Lock Mix) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Plastic Sky

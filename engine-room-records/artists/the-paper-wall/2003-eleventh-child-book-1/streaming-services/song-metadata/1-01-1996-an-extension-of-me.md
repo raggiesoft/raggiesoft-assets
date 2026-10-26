@@ -1,4 +1,4 @@
-# 1996 (An Extension of Me) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# 1996 (An Extension of Me) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** 1996 (An Extension of Me)

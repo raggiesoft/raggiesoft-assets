@@ -1,4 +1,4 @@
-# Inertia (Unstoppable) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Inertia (Unstoppable) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Inertia (Unstoppable)

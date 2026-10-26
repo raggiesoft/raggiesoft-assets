@@ -1,4 +1,4 @@
-# The Stardust Engine - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Stardust Engine - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Stardust Engine

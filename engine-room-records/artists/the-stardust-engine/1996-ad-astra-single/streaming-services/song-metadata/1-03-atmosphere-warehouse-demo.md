@@ -1,4 +1,4 @@
-# Atmosphere (1992 Demo) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Atmosphere (1992 Demo) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Atmosphere

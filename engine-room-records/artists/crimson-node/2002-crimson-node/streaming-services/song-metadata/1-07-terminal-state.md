@@ -1,4 +1,4 @@
-# Terminal State - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Terminal State - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Terminal State

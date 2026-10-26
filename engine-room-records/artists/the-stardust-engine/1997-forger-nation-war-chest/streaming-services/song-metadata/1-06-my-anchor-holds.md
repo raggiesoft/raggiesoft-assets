@@ -1,4 +1,4 @@
-# My Anchor Holds - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# My Anchor Holds - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** My Anchor Holds

@@ -1,4 +1,4 @@
-# The Wizard's Ruin - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Wizard's Ruin - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Wizard's Ruin

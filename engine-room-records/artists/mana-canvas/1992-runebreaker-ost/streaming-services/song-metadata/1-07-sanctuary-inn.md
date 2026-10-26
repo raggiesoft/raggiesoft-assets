@@ -1,4 +1,4 @@
-# Sanctuary Inn - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Sanctuary Inn - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Sanctuary Inn

@@ -1,4 +1,4 @@
-# The Scholar of the Twin Suns - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Scholar of the Twin Suns - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Scholar of the Twin Suns

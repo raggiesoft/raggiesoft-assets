@@ -1,4 +1,4 @@
-# Mile High - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Mile High - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Mile High

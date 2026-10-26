@@ -1,4 +1,4 @@
-# The Abduction - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Abduction - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Abduction

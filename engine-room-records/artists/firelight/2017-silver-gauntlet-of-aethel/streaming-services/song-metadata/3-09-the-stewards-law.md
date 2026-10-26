@@ -1,4 +1,4 @@
-# The Steward's Law - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Steward's Law - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Steward's Law

@@ -1,4 +1,4 @@
-# Fifth Gear: The Architect's Shield (Live in Norfolk) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Fifth Gear: The Architect's Shield (Live in Norfolk) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Fifth Gear: The Architect's Shield

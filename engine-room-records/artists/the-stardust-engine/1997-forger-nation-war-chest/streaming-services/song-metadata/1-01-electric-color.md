@@ -1,4 +1,4 @@
-# Electric Color - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Electric Color - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Electric Color

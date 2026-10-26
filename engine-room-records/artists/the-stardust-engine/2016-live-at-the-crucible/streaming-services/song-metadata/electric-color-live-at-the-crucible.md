@@ -1,4 +1,4 @@
-# Electric Color (Live at the Crucible) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Electric Color (Live at the Crucible) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Electric Color

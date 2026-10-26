@@ -1,4 +1,4 @@
-# Ten Years in the Quiet - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Ten Years in the Quiet - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Ten Years in the Quiet

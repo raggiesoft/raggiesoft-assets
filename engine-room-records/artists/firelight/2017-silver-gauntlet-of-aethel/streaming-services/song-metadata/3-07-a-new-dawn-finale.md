@@ -1,4 +1,4 @@
-# A New Dawn (Finale) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# A New Dawn (Finale) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** A New Dawn (Finale)

@@ -1,4 +1,4 @@
-# A Song of Homecoming - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# A Song of Homecoming - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** A Song of Homecoming

@@ -1,4 +1,4 @@
-# Midnight Lullaby - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Midnight Lullaby - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Midnight Lullaby

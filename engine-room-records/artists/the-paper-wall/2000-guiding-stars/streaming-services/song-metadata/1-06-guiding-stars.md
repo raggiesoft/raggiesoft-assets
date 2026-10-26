@@ -1,4 +1,4 @@
-# Guiding Stars - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Guiding Stars - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Guiding Stars

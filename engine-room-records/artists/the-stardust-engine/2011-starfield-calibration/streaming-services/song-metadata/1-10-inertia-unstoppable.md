@@ -1,4 +1,4 @@
-# Inertia: Unstoppable (Cosmic Tidal Lock Mix) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Inertia: Unstoppable (Cosmic Tidal Lock Mix) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Inertia: Unstoppable

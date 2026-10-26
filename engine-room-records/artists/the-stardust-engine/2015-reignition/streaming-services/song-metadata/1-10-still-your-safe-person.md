@@ -1,4 +1,4 @@
-# Still Your Safe Person - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Still Your Safe Person - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Still Your Safe Person

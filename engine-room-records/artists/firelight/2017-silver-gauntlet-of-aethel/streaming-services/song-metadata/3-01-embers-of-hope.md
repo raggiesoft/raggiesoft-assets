@@ -1,4 +1,4 @@
-# Embers of Hope - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Embers of Hope - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Embers of Hope

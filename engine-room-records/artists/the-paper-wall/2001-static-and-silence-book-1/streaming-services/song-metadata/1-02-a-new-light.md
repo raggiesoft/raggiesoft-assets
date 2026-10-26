@@ -1,4 +1,4 @@
-# A New Light - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# A New Light - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** A New Light

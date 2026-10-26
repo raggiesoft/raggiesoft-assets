@@ -1,4 +1,4 @@
-# Foundlings of Sunstead - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Foundlings of Sunstead - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Foundlings of Sunstead

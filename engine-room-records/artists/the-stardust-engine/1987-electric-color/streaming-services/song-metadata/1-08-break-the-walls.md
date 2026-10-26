@@ -1,4 +1,4 @@
-# Break the Walls - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Break the Walls - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Break the Walls

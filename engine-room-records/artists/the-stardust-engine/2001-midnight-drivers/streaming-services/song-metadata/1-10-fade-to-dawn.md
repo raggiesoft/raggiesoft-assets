@@ -1,4 +1,4 @@
-# Fade to Dawn - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Fade to Dawn - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Fade to Dawn

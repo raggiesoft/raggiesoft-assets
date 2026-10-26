@@ -1,4 +1,4 @@
-# Neon Hearts (Acoustic Sketch) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Neon Hearts (Acoustic Sketch) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Neon Hearts

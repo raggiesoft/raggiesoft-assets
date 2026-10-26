@@ -1,4 +1,4 @@
-# Player Two - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Player Two - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Player Two

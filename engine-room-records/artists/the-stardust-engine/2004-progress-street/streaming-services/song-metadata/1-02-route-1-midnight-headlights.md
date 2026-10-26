@@ -1,4 +1,4 @@
-# Route 1: Midnight Headlights - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Route 1: Midnight Headlights - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Route 1: Midnight Headlights

@@ -1,4 +1,4 @@
-# Sanctuary: Zero G - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Sanctuary: Zero G - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Sanctuary: Zero G

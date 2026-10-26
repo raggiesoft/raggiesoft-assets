@@ -1,4 +1,4 @@
-# Our Own Frequency - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Our Own Frequency - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Our Own Frequency

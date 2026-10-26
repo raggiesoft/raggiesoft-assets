@@ -1,4 +1,4 @@
-# A Sister's Love (Main Theme) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# A Sister's Love (Main Theme) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** A Sister's Love (Main Theme)

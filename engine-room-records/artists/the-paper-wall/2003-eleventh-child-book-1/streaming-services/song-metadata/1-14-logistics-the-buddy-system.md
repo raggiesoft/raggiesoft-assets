@@ -1,4 +1,4 @@
-# [LOGISTICS] (The Buddy System) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# [LOGISTICS] (The Buddy System) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** [LOGISTICS] (The Buddy System)

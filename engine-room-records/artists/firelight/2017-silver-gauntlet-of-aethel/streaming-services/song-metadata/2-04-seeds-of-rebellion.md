@@ -1,4 +1,4 @@
-# Seeds of Rebellion - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Seeds of Rebellion - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Seeds of Rebellion

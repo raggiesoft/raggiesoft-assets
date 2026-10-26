@@ -1,4 +1,4 @@
-# Light Up the Night (Live in Chicago) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Light Up the Night (Live in Chicago) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Light Up the Night

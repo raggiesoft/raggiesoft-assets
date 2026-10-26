@@ -1,4 +1,4 @@
-# Mirrors of Yesterday - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Mirrors of Yesterday - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Mirrors of Yesterday

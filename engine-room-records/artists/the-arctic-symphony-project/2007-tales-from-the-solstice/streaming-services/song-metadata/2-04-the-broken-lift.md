@@ -1,4 +1,4 @@
-# The Broken Lift - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Broken Lift - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Broken Lift

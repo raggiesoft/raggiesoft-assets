@@ -1,4 +1,4 @@
-# Logically Unfounded (The Pact of Six) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Logically Unfounded (The Pact of Six) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Logically Unfounded (The Pact of Six)

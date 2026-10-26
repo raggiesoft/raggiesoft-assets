@@ -1,4 +1,4 @@
-# Ignition: The Forger's Call (Live at the Crucible) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Ignition: The Forger's Call (Live at the Crucible) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Ignition: The Forger's Call

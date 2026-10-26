@@ -1,4 +1,4 @@
-# Shadows on the Slate - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Shadows on the Slate - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Shadows on the Slate

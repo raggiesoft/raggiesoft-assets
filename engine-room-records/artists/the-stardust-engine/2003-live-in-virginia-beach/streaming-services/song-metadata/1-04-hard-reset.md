@@ -1,4 +1,4 @@
-# Hard Reset (Live in Virginia Beach) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Hard Reset (Live in Virginia Beach) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Hard Reset

@@ -1,4 +1,4 @@
-# Goldilocks Zone - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Goldilocks Zone - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Goldilocks Zone

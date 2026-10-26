@@ -1,4 +1,4 @@
-# Midnight Drivers (Live at the Chancellery) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Midnight Drivers (Live at the Chancellery) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Midnight Drivers

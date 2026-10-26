@@ -1,4 +1,4 @@
-# Out of Time - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Out of Time - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Out of Time

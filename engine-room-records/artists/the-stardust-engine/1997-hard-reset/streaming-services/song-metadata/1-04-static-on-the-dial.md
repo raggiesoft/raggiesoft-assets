@@ -1,4 +1,4 @@
-# Static on the Dial - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Static on the Dial - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Static on the Dial

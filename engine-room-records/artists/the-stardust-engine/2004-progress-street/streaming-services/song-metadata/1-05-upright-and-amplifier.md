@@ -1,4 +1,4 @@
-# Upright & Amplifier - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Upright & Amplifier - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Upright & Amplifier

@@ -1,4 +1,4 @@
-# Friction: Reentry - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Friction: Reentry - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Friction: Reentry

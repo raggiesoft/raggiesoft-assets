@@ -1,4 +1,4 @@
-# The Twin Suns' Hearth (Epilogue) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Twin Suns' Hearth (Epilogue) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Twin Suns' Hearth (Epilogue)

@@ -1,4 +1,4 @@
-# The Weighted Blankets - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Weighted Blankets - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Weighted Blankets

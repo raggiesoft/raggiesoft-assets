@@ -1,4 +1,4 @@
-# The Illusion: Syntax Error - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Illusion: Syntax Error - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Illusion: Syntax Error

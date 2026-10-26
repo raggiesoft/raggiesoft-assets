@@ -1,4 +1,4 @@
-# Crimson Node - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Crimson Node - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Crimson Node

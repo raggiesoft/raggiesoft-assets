@@ -1,4 +1,4 @@
-# A Path of Light - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# A Path of Light - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** A Path of Light

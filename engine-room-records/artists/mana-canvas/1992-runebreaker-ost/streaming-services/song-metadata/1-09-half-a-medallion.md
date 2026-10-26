@@ -1,4 +1,4 @@
-# Half a Medallion - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Half a Medallion - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Half a Medallion

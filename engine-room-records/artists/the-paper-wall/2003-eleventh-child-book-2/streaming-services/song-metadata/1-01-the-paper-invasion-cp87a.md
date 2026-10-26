@@ -1,4 +1,4 @@
-# The Paper Invasion (CP87A) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Paper Invasion (CP87A) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Paper Invasion (CP87A)

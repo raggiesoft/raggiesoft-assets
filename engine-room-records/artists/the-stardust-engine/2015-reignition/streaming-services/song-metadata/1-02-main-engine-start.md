@@ -1,4 +1,4 @@
-# Main Engine Start - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Main Engine Start - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Main Engine Start

@@ -1,4 +1,4 @@
-# The Stardust Engine (Live in Chicago) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Stardust Engine (Live in Chicago) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Stardust Engine

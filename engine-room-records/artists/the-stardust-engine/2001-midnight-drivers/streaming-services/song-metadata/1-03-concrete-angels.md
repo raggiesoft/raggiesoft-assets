@@ -1,4 +1,4 @@
-# Concrete Angels - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Concrete Angels - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Concrete Angels

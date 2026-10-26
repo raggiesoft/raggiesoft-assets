@@ -1,4 +1,4 @@
-# The Stardust Engine (Live at the Crucible) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Stardust Engine (Live at the Crucible) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Stardust Engine

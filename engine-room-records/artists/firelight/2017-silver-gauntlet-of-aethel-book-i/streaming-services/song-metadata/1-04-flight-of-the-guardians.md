@@ -1,4 +1,4 @@
-# Flight of the Guardians - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Flight of the Guardians - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Flight of the Guardians

@@ -1,4 +1,4 @@
-# Second Apoapsis - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Second Apoapsis - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Second Apoapsis

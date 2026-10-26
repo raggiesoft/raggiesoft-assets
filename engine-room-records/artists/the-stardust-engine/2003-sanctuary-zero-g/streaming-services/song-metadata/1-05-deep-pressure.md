@@ -1,4 +1,4 @@
-# Deep Pressure - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Deep Pressure - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Deep Pressure

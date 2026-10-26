@@ -1,4 +1,4 @@
-# A Prophecy Unfolds - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# A Prophecy Unfolds - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** A Prophecy Unfolds

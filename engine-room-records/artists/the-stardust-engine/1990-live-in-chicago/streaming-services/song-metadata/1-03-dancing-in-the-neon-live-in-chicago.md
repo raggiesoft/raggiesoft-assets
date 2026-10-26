@@ -1,4 +1,4 @@
-# Dancing in the Neon (Live in Chicago) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Dancing in the Neon (Live in Chicago) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Dancing in the Neon

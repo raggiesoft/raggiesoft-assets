@@ -1,4 +1,4 @@
-# The Dependency Loop - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Dependency Loop - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Dependency Loop

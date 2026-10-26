@@ -1,4 +1,4 @@
-# Steel and Synthetics - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Steel and Synthetics - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Steel and Synthetics

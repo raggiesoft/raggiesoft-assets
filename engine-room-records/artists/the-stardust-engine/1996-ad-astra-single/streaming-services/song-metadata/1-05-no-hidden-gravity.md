@@ -1,4 +1,4 @@
-# No Hidden Gravity - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# No Hidden Gravity - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** No Hidden Gravity

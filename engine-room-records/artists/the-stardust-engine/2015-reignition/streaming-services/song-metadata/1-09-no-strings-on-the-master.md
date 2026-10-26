@@ -1,4 +1,4 @@
-# No Strings on the Master - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# No Strings on the Master - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** No Strings on the Master

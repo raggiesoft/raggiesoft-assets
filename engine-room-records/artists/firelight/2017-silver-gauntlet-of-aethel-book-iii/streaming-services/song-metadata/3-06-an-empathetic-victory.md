@@ -1,4 +1,4 @@
-# An Empathetic Victory - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# An Empathetic Victory - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** An Empathetic Victory

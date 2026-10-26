@@ -1,4 +1,4 @@
-# Westward, Broken - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Westward, Broken - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Westward, Broken

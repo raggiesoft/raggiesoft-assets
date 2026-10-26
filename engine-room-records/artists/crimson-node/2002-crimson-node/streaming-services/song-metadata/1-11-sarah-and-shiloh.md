@@ -1,4 +1,4 @@
-# Sarah and Shiloh - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Sarah and Shiloh - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Sarah and Shiloh

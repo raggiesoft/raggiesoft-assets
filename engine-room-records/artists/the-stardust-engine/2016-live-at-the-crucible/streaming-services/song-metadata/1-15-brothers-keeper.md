@@ -1,4 +1,4 @@
-# Brother's Keeper (Live at the Crucible) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Brother's Keeper (Live at the Crucible) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Brother's Keeper

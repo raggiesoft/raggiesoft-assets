@@ -1,4 +1,4 @@
-# The Prismatic Corridor - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Prismatic Corridor - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Prismatic Corridor

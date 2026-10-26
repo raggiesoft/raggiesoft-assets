@@ -1,4 +1,4 @@
-# The Longest Shadow - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Longest Shadow - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Longest Shadow

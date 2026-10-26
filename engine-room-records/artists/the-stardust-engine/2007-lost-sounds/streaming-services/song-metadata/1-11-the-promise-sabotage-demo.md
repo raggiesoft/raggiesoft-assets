@@ -1,4 +1,4 @@
-# The Promise (Sabotage Demo) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Promise (Sabotage Demo) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Promise

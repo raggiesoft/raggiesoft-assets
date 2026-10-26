@@ -1,4 +1,4 @@
-# Twin Frequency: The Rhythm Section - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Twin Frequency: The Rhythm Section - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Twin Frequency: The Rhythm Section

@@ -1,4 +1,4 @@
-# Pressure & Lies - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Pressure & Lies - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Pressure & Lies

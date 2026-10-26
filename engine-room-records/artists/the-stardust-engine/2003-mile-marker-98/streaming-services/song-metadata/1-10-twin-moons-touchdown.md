@@ -1,4 +1,4 @@
-# Twin Moons: Touchdown - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Twin Moons: Touchdown - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Twin Moons: Touchdown

@@ -1,4 +1,4 @@
-# Fractured Prisms - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Fractured Prisms - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Fractured Prisms

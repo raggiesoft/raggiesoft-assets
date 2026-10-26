@@ -1,4 +1,4 @@
-# Neon on the Huckleberry Trail (Live at the Crucible) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Neon on the Huckleberry Trail (Live at the Crucible) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Neon on the Huckleberry Trail

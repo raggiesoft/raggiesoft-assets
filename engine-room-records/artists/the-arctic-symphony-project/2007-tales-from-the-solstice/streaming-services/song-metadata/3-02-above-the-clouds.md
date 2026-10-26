@@ -1,4 +1,4 @@
-# Above the Clouds - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Above the Clouds - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Above the Clouds

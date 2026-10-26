@@ -1,4 +1,4 @@
-# Fifty-Two to Nothing: The Norfolk Reckoning (Live at the Crucible) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Fifty-Two to Nothing: The Norfolk Reckoning (Live at the Crucible) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Fifty-Two to Nothing: The Norfolk Reckoning

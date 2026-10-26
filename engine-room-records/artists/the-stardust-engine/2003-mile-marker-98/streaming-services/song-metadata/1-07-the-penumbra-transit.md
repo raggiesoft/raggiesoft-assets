@@ -1,4 +1,4 @@
-# The Penumbra: Transit - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Penumbra: Transit - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Penumbra: Transit

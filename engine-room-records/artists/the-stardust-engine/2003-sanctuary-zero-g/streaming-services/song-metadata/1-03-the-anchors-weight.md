@@ -1,4 +1,4 @@
-# The Anchor's Weight - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Anchor's Weight - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Anchor's Weight

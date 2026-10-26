@@ -1,4 +1,4 @@
-# Sanctuary in the Storm - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Sanctuary in the Storm - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Sanctuary in the Storm

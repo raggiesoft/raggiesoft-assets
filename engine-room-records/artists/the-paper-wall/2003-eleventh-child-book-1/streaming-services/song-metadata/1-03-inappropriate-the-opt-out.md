@@ -1,4 +1,4 @@
-# Inappropriate (The Opt-Out) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Inappropriate (The Opt-Out) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Inappropriate (The Opt-Out)

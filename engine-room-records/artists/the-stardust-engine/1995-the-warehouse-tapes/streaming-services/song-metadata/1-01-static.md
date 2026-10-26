@@ -1,4 +1,4 @@
-# Static - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Static - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Static

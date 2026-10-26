@@ -1,4 +1,4 @@
-# After the Show - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# After the Show - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** After the Show

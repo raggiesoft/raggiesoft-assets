@@ -1,4 +1,4 @@
-# Side by Side - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Side by Side - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Side by Side

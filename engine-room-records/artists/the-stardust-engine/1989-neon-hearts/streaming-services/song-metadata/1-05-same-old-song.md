@@ -1,4 +1,4 @@
-# Same Old Song - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Same Old Song - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Same Old Song

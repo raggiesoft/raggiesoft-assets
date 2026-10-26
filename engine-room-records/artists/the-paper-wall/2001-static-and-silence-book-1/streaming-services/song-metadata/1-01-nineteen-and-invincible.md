@@ -1,4 +1,4 @@
-# Nineteen and Invincible - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Nineteen and Invincible - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Nineteen and Invincible

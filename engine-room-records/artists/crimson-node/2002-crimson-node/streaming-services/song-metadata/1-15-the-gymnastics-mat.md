@@ -1,4 +1,4 @@
-# Safe Mode: The Gymnastic Mat - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Safe Mode: The Gymnastic Mat - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Safe Mode: The Gymnastic Mat

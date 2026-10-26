@@ -1,4 +1,4 @@
-# Stranded (A Real College Kid) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Stranded (A Real College Kid) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Stranded (A Real College Kid)

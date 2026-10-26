@@ -1,4 +1,4 @@
-# A Different Kind of Constellation (The Pact) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# A Different Kind of Constellation (The Pact) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** A Different Kind of Constellation (The Pact)

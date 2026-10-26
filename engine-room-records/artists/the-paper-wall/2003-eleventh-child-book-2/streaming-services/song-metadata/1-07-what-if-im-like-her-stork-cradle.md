@@ -1,4 +1,4 @@
-# What If I'm Like Her? (Stork & Cradle) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# What If I'm Like Her? (Stork & Cradle) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** What If I'm Like Her? (Stork & Cradle)

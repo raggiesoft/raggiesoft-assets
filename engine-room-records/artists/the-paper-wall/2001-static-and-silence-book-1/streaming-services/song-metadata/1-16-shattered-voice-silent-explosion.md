@@ -1,4 +1,4 @@
-# Shattered Voice, Silent Explosion - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Shattered Voice, Silent Explosion - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Shattered Voice, Silent Explosion

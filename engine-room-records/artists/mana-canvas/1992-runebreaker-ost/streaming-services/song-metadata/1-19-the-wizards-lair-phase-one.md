@@ -1,4 +1,4 @@
-# The Wizard's Lair - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Wizard's Lair - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Wizard's Lair

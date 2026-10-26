@@ -1,4 +1,4 @@
-# Blind Faith - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Blind Faith - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Blind Faith

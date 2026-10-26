@@ -1,4 +1,4 @@
-# Star City: Orbital Ward (Live at the Crucible) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Star City: Orbital Ward (Live at the Crucible) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Star City: Orbital Ward

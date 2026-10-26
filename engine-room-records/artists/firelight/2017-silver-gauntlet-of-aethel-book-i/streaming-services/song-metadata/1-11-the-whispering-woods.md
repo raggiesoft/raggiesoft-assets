@@ -1,4 +1,4 @@
-# The Whispering Woods - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Whispering Woods - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Whispering Woods

@@ -1,4 +1,4 @@
-# I'll Drag You Back - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# I'll Drag You Back - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** I'll Drag You Back

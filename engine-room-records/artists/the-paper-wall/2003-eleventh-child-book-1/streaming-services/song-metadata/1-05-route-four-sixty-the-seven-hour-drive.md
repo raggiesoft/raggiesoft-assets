@@ -1,4 +1,4 @@
-# Route Four-Sixty (The Seven-Hour Drive) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Route Four-Sixty (The Seven-Hour Drive) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Route Four-Sixty (The Seven-Hour Drive)

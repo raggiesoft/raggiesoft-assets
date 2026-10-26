@@ -1,4 +1,4 @@
-# Hollow Sound - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Hollow Sound - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Hollow Sound

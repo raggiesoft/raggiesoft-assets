@@ -1,4 +1,4 @@
-# Artificial Gravity - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Artificial Gravity - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Artificial Gravity

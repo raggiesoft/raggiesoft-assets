@@ -1,4 +1,4 @@
-# A CVICU Romance (Intimacy v2) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# A CVICU Romance (Intimacy v2) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** A CVICU Romance (Intimacy v2)

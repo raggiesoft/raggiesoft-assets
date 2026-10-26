@@ -1,4 +1,4 @@
-# Paired Devices - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Paired Devices - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Paired Devices

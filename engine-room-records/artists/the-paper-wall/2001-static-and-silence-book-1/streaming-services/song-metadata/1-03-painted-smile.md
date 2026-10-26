@@ -1,4 +1,4 @@
-# Painted Smile - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Painted Smile - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Painted Smile

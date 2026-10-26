@@ -1,4 +1,4 @@
-# A TTY Lifeline - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# A TTY Lifeline - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** A TTY Lifeline

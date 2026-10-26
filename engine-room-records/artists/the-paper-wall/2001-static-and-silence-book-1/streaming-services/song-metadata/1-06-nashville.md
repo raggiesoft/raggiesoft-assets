@@ -1,4 +1,4 @@
-# Nashville - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Nashville - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Nashville

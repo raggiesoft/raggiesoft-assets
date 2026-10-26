@@ -1,4 +1,4 @@
-# Ignition: The Forger's Call - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Ignition: The Forger's Call - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Ignition: The Forger's Call

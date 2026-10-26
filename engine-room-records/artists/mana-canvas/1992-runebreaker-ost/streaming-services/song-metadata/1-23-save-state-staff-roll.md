@@ -1,4 +1,4 @@
-# Save State - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Save State - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Save State

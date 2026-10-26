@@ -1,4 +1,4 @@
-# The Stardust Engine (The Rejected Mix) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Stardust Engine (The Rejected Mix) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Stardust Engine

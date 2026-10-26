@@ -1,4 +1,4 @@
-# An 80s Education (The Brooks Mix) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# An 80s Education (The Brooks Mix) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** An 80s Education (The Brooks Mix)

@@ -1,4 +1,4 @@
-# Overture of the Frost - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Overture of the Frost - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Overture of the Frost

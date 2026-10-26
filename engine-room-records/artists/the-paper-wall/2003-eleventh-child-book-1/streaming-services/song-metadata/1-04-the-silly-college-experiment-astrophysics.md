@@ -1,4 +1,4 @@
-# The Silly College Experiment (Astrophysics) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Silly College Experiment (Astrophysics) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Silly College Experiment (Astrophysics)

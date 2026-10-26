@@ -1,4 +1,4 @@
-# The Naming (A Joke That Stuck) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Naming (A Joke That Stuck) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Naming (A Joke That Stuck)

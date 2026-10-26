@@ -1,4 +1,4 @@
-# If You Walked Away - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# If You Walked Away - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** If You Walked Away

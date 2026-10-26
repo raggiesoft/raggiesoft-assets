@@ -1,4 +1,4 @@
-# Light Up the Night - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Light Up the Night - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Light Up the Night

@@ -1,4 +1,4 @@
-# Strangers in the Stream - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Strangers in the Stream - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Strangers in the Stream

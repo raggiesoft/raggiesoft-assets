@@ -1,4 +1,4 @@
-# Rearview Mirror - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Rearview Mirror - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Rearview Mirror

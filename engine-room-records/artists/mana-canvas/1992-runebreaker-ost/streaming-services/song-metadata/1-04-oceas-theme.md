@@ -1,4 +1,4 @@
-# Ocea's Theme - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Ocea's Theme - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Ocea's Theme

@@ -1,4 +1,4 @@
-# Escape Velocity (Ad Astra) (Radio Edit) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Escape Velocity (Ad Astra) (Radio Edit) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Escape Velocity (Ad Astra)

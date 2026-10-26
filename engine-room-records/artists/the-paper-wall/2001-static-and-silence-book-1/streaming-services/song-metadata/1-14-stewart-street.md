@@ -1,4 +1,4 @@
-# Stewart Street - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Stewart Street - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Stewart Street

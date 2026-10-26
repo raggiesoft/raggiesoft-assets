@@ -1,4 +1,4 @@
-# The Bluewater Bunker - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Bluewater Bunker - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Bluewater Bunker

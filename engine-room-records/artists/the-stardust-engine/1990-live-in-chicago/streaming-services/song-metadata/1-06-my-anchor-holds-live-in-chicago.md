@@ -1,4 +1,4 @@
-# My Anchor Holds (Live in Chicago) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# My Anchor Holds (Live in Chicago) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** My Anchor Holds

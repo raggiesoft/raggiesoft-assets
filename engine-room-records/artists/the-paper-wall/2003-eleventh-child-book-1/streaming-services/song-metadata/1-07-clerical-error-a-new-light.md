@@ -1,4 +1,4 @@
-# Clerical Error (A New Light) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Clerical Error (A New Light) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Clerical Error (A New Light)

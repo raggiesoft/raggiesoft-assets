@@ -1,4 +1,4 @@
-# The Heresy of Order - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# The Heresy of Order - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** The Heresy of Order

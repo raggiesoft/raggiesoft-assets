@@ -1,4 +1,4 @@
-# Dead Weight - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Dead Weight - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Dead Weight

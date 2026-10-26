@@ -1,4 +1,4 @@
-# Midway to Norfolk - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Midway to Norfolk - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Midway to Norfolk

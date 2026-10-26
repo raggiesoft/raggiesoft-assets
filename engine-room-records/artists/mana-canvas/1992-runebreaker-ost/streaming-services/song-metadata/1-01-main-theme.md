@@ -1,4 +1,4 @@
-# Main Theme - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Main Theme - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Main Theme

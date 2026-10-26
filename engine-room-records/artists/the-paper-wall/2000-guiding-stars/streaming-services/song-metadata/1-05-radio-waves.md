@@ -1,4 +1,4 @@
-# Radio Waves - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Radio Waves - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Radio Waves

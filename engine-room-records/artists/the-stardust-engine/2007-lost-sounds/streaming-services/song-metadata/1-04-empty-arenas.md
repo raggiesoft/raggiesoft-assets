@@ -1,4 +1,4 @@
-# Empty Arenas (Early Demo) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Empty Arenas (Early Demo) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Empty Arenas

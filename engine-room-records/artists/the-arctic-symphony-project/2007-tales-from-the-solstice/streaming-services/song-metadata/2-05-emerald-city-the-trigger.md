@@ -1,4 +1,4 @@
-# Emerald City (The Trigger) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Emerald City (The Trigger) - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Emerald City (The Trigger)

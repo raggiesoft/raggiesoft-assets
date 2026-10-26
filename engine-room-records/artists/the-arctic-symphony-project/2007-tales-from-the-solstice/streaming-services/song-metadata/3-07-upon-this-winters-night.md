@@ -1,4 +1,4 @@
-# Upon This Winter's Night - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# Upon This Winter's Night - DistroKid Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
 * **Track Title (Name):** Upon This Winter's Night
