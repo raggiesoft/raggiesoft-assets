@@ -6,16 +6,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "55.8 MB",
-        "pdf": "42.4 MB",
-        "text_epub": "928 KB",
+        "epub": "60 MB",
+        "pdf": "47.1 MB",
+        "text_epub": "929 KB",
         "text_pdf": "3.5 MB",
-        "epub_bytes": 58499986,
-        "pdf_bytes": 44409376,
-        "text_epub_bytes": 950157,
-        "text_pdf_bytes": 3629481
+        "epub_bytes": 62964705,
+        "pdf_bytes": 49396870,
+        "text_epub_bytes": 951073,
+        "text_pdf_bytes": 3632815
     },
-    "illustration_count": 53,
+    "illustration_count": 58,
     "eras": [
         {
             "era_num": 1,
@@ -2260,7 +2260,7 @@
             "era_num": 7,
             "era_title": "Spring Semester 2016",
             "era_url": "/raggiesoft-books/books/aubrie/spring-semester-2016",
-            "illustration_count": 7,
+            "illustration_count": 12,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2326,7 +2326,7 @@
                     "chap_num": 4,
                     "chap_title": "Live at the Crucible & Senior Commencement",
                     "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement",
-                    "illustration_count": 7,
+                    "illustration_count": 12,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2342,9 +2342,13 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p001/forger-nation-tailgate-plaza.jpg",
                                     "alt": "Outside the towering Gothic limestone arches of The Crucible stadium at golden hour inside the Forger Nation Tailgate Plaza, Jordan Fuller sits smiling in his Vanguard Pro wheelchair wearing rectangular glasses, a maroon Electric Color concert shirt, and a gold-foil ticket lanyard with a plate of Smokin' Anvil pulled pork BBQ and his mPad, surrounded by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, and Mark Anderson near an Engine Room Records filming notice sign."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p001/section-104-row-a-arrival.jpg",
+                                    "alt": "At 6:00 PM golden hour inside The Crucible stadium from the Section 104, Row A accessible terrace behind the front railing, Jordan Fuller sits happily in his manual wheelchair wearing a maroon CPI shirt, rectangular glasses, and a gold ticket lanyard alongside Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, and Mark Anderson looking across the green turf toward the concert stage on the front-left."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         },
                         {
                             "part_num": 2,
@@ -2360,9 +2364,13 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p002/act-i-ignition-marching-forgers.jpg",
                                     "alt": "From the Section 104, Row A accessible terrace inside The Crucible at night, Jordan Fuller sits in his wheelchair beside Madison Scott, Aubrie Jean Kelly, Zo\u00eb Wren Brooks, and Mark Anderson cheering up at a sweeping cinema camera jib overhead while on the main stage all 300 members of the CPI Marching Forgers perform alongside Ryan and Cassidy O'Connell under molten-orange and foundry-maroon spotlights."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p002/stardust-engine-300-marching-forgers.jpg",
+                                    "alt": "On stage inside The Crucible during 'The Stardust Engine', Ryan O'Connell plays a soaring lead on his sunburst Les Paul electric guitar from his manual wheelchair on stage-left while Cassidy O'Connell sings and plays her wraparound analog synthesizer rig at center-right, backed by Evan Wright, Tyler Wright, and the 300 uniformed brass and percussionists of the CPI Marching Forgers under deep cosmic-violet nebula projections."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         },
                         {
                             "part_num": 3,
@@ -2381,7 +2389,7 @@
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p003/not-your-doll-cassidy-front-and-center.jpg",
-                                    "alt": "Cassidy O'Connell takes the stage front and center at the lip of The Crucible stage in a fitted black leather jacket over a maroon CPI rock tee, gripping a tilted chrome stand microphone with both hands and belting with fierce hard-rock intensity as Ryan O'Connell shreds his electric guitar in his manual wheelchair to her left, twin fountains of gold and crimson pyrotechnic sparks erupt along the stage edge, and the 120-foot curved LED screen shatters a neon-pink doll mask into roaring flames reading NOT YOUR DOLL."
+                                    "alt": "Cassidy O'Connell stands fiercely at the front edge of The Crucible stadium stage in a black leather jacket over a maroon CPI Alumni shirt, gripping a tilted microphone stand and belting 'Not Your Doll' while Ryan O'Connell shreds on his sunburst electric guitar from his manual wheelchair beside her and crimson pyrotechnics erupt behind them."
                                 }
                             ],
                             "image_count": 2
@@ -2400,9 +2408,13 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/escape-velocity-ad-astra-cassidy-nebula.jpg",
                                     "alt": "Cassidy O'Connell stands front and center at the edge of The Crucible stadium stage singing 'Escape Velocity (Ad Astra)' with soaring emotion while Ryan O'Connell plays a zero-gravity solo on his sunburst electric guitar from his manual wheelchair to her left, backed by a 120-foot curved LED screen and 65,000 synchronized LED wristbands glowing in the crimson reds, sapphire blues, ultraviolet purples, and solar gold of a deep-space nebula."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p004/roche-limit-twin-moons-touchdown.jpg",
+                                    "alt": "During 'Moon 2: Roche Limit' inside The Crucible, Ryan O'Connell sits front and center in his manual wheelchair playing an aggressive riff on his sunburst Les Paul electric guitar while Cassidy O'Connell plays her synthesizer rig behind him and the 120-foot curved LED screen displays a fracturing moon glowing with molten-gold and crimson fissures under emergency crimson planetarium lasers."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         },
                         {
                             "part_num": 5,
@@ -2418,9 +2430,13 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/brothers-keeper-acoustic-spotlight.jpg",
                                     "alt": "Under two solitary warm golden spotlights at center stage inside the darkened 65,000-seat bowl of The Crucible, Ryan O'Connell sits in his manual wheelchair fingerpicking an acoustic guitar beside his sister Cassidy O'Connell at a gleaming black grand piano during 'Brother's Keeper', while the curved stage screen behind them displays 'THE FORGER NATION SUMMER FESTIVAL \u2022 AUGUST 2017' and thousands of fans hold up quiet white lights across the stands."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/my-anchor-holds-section-104.jpg",
+                                    "alt": "During the romantic 1987 piano ballad 'My Anchor Holds' inside The Crucible bathed in warm candlelight gold and starlight white, Jordan Fuller sits peacefully in his wheelchair at the Section 104, Row A railing while Aubrie Jean Kelly wraps her arms warmly around his shoulders beside Madison Scott, Zo\u00eb Wren Brooks, and Mark Anderson."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         },
                         {
                             "part_num": 6,
@@ -2436,9 +2452,13 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/electric-color-rainbow-reclamation.jpg",
                                     "alt": "During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage, and in the foreground at Section 104, Row A, Jordan Fuller raises both hands in happy tears from his wheelchair surrounded by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, and Mark Anderson."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/crucible-bus-loop-forgers-shuttle.jpg",
+                                    "alt": "At 10:50 PM outside the illuminated Gothic limestone arches of The Crucible at the Crucible Bus Loop, Jordan Fuller backs his manual wheelchair smoothly up the front-door low-floor ramp in reverse into a white-and-maroon Blue Ridge Transit articulated shuttle displaying 'CBURG TRANS CTR' / 'GO FORGERS!' on its amber LED destination sign, smiling toward Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks, and Mark Anderson on the sidewalk."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         }
                     ]
                 }

@@ -8,7 +8,7 @@
 * **Artist / Band Name:** `The Stardust Engine`
 * **Album Title:** `Lost Sounds`
 * **Release Type:** `Studio Album` (`StudioAlbum`)
-* **Total Tracks:** `14` (`14` WAV Masters Ready / `0` In Studio)
+* **Total Tracks:** `15` (`14` WAV Masters Ready / `1` In Studio)
 * **Record Label:** `Engine Room Records`
 * **Primary Genre:** `80s Rock, B-Sides, Rarities`
 * **In-Universe Release Date:** `2007-11-20`
@@ -22,7 +22,7 @@
 
 ---
 
-### Songs (14 Tracks)
+### Songs (15 Tracks)
 
 1. The Stardust Engine
 * **Name:** The Stardust Engine
@@ -158,3 +158,13 @@
 * **Duration:** 4:24 • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-13-not-her.wav` (✅ Ready)
+
+15. Ignition: The Forger's Call
+* **Name:** Ignition: The Forger's Call
+* **Version:** 1986 Progress Street Cassette Demo
+* **ID3 / Vorbis Tagged Title:** `Ignition: The Forger's Call (1986 Progress Street Cassette Demo)`
+* **ISRC:** QTAHP2600043
+* **Duration:** 3:42 • **Instrumental:** No • **Explicit:** No
+* **Songwriter (Lyricist):** Michael P. Ragsdale
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-14-ignition-the-forgers-call-1986-cassette-demo.wav` (⏳ In Studio)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/1-14-ignition-the-forgers-call-1986-cassette-demo.txt`

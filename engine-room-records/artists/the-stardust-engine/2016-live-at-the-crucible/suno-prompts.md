@@ -60,100 +60,107 @@
 
 ## II. Ready-to-Paste Suno v6 Prompts (`llms-suno-usage.txt` Compliant)
 
-### Track 01: `Ignition: The Forger's Call`
-* **Generation Mode:** Fresh Suno v6 Generation (First time *Ignition* has ever been recorded for a live concert release!)
-* **Save Downloaded WAV As:** `1-01-ignition-the-forgers-call.wav`
-* **Vocal Gender UI Setting:** `Male` (Ryan O'Connell gravelly stadium vocal + 65,000-person crowd gang-vocal response)
+### Track 01A (Reference Seed — 1986 Cassette Tape Version): `Ignition: The Forger's Call (1986 Progress Street Cassette Demo)`
+* **Generation Mode:** Fresh Suno v6 Generation (**Generate This 1986 Cassette Version FIRST!** Once generated in Suno, save it for *Lost Sounds* [`1-14-ignition-the-forgers-call-1986-cassette-demo.wav`] AND use it as the **Cover Reference (`Audio Influence: 74%`)** for Track 01B [*Live at the Crucible*] so both the 1986 cassette demo and the 2016 30th-Anniversary stadium version share the exact same iconic guitar riff, anvil-and-stomp cadence, and melody!)
+* **Save Downloaded WAV As:** `1-14-ignition-the-forgers-call-1986-cassette-demo.wav` (for `2007-lost-sounds`)
+* **Vocal Gender UI Setting:** `Male` (22-year-old Ryan O'Connell lead vocal + Cassidy, Evan, & Tyler garage gang-vocal response)
 * **Weirdness:** `0%` • **Style Influence:** `90%`
 
 #### Styles to Include
 ```text
-1980s stadium hard rock, live arena rock anthem, spoken word stadium intro, rhythmic metallic anvil chime, 60000 person synchronized bleacher foot stomp, thundering gated stadium drums, heavy overdriven electric guitar riff, roaring college stadium crowd call and response, gravelly male rock vocal, full collegiate marching band brass hits, 124 BPM, E Minor, seismic, triumphant, victorious
+1986 4-track cassette demo, raw 1980s garage hard rock, heavy industrial metal riff, slow and stomping, rhythmic metallic sledgehammer striking steel brake drum clang and boom, analog cassette tape saturation, raw tube guitar amplifier, 1980s Oberheim analog synth brass, gritty young male rock vocal, 4-person garage gang vocal chant, 124 BPM, E Minor, raw, heavy, aggressive
 ```
 
 #### Styles to Exclude
 ```text
-modern pop, hip hop, rap, country, acoustic ballad, lo-fi, studio flat mix, dry vocals, muffled
+stadium crowd noise, live arena reverb, marching band, modern pop, hip hop, rap, country, acoustic ballad, clean digital polish
 ```
 
-#### Lyrics (Copy-Paste into Suno — Phonetic `See-Pea-Eye` Included)
+#### Lyrics (Copy-Paste into Suno — 1986 Progress Street Cassette Tape Version)
 ```text
-[Live Stadium Crowd Roar]
-(A warm analog synthesizer pad hums beneath the stadium roar)
+[Sound Effect: Mechanical Cassette Tape Click, Analog Tape Hiss, 1986 Garage Room Ambience]
 
-[Spoken Word Intro]
+[Spoken Studio Slate - Ryan O'Connell]
+(Young, eager voice in a concrete garage)
 [male]
-Thirty years ago... we were just five kids in a garage on Progress Street!
-We didn't have a record deal... we didn't have a tour bus...
-All we had was a cassette tape... and an idea!
-We entered a contest to write a song for this stadium!
-We wanted to make something loud enough to shake the mountains for anyone who stepped into our house!
-For thirty years, you have been stomping your feet to our song every single Saturday at See-Pea-Eye!
-So tonight... for the Thirtieth Anniversary... let's see if we can break the seismographs!
+Holly, is the four-track rolling?
+Alright... Progress Street Garage, Take Three.
+For the Crucible Stadium Contest.
+Tyler, hit the brake drum! One, two, three, four!
 
-[Intro]
-(Stadium lights cut to black)
-(Rhythmic metallic hammer striking a steel anvil)
-(Massive synchronized 60000 person foot stomp on metal bleachers)
-(Heavy stadium drum beat builds)
-
-[Shouted Call and Response]
-[male] IGNITION!
-(Crowd Vocals Only)
-IGNITION!
-[male] IGNITION!
-(Crowd Vocals Only)
+[Drum Fill: Raw, Thundering Garage Kit]
+[male]
 IGNITION!
 
-(An explosive heavy overdriven electric guitar riff and thundering stadium drums kick in)
+[Gang Vocal Response: Band in Garage]
+(IGNITION!)
+
+[Music Starts: Heavy Industrial Riff, Slow and Stomping]
+[Sound Effect: Rhythmic Metallic Clang and Stomp]
+(TING... BOOM!)
+(TING... BOOM!)
 
 [Verse 1]
 [male]
-The lights go dark, the tension builds!
-A single pounding heavy sound!
-The hammer striking on the steel!
-It shakes the air, it shakes the ground!
-The pressure's on, the time is now!
+The lights go dark... the tension builds...
+A single pounding heavy sound...
+The hammer striking on the steel...
+It shakes the air... it shakes the ground!
+The pressure's on... the time is now...
 We're here to forge our name!
-The spark is lit, the fire burns!
-We're taking the anchor back to the mountains!
+The spark is lit... the fire burns...
+Step inside the flame!
 
 [Chorus]
-[male] IGNITION!
-(Crowd Vocals Only)
+[male]
 IGNITION!
-[male] This is the Forger's Call!
-[male] IGNITION!
-(Crowd Vocals Only)
+[Gang Vocal Chant]
+(IGNITION!)
+
+[male]
+This is the Forger's Call!
+
+[male]
 IGNITION!
-[male] We're standing ten feet tall!
-We are the hammer, we're the flame!
+[Gang Vocal Chant]
+(IGNITION!)
+
+[male]
+We're standing ten feet tall!
+We are the hammer, we're the flame
 This is our house, this is our game!
 
 [Verse 2]
 [male]
 Sixty thousand boots upon the iron floor!
 Hear the valley tremble when the Forgers roar!
-Concrete and ironstone locked inside the night!
+Concrete and Ironstone locked inside the night!
 Step into the furnace, step into the light!
 
 [Chorus]
-[male] IGNITION!
-(Crowd Vocals Only)
+[male]
 IGNITION!
-[male] This is the Forger's Call!
-[male] IGNITION!
-(Crowd Vocals Only)
+[Gang Vocal Chant]
+(IGNITION!)
+
+[male]
+This is the Forger's Call!
+
+[male]
 IGNITION!
-[male] We're standing ten feet tall!
-We are the hammer, we're the flame!
+[Gang Vocal Chant]
+(IGNITION!)
+
+[male]
+We're standing ten feet tall!
+We are the hammer, we're the flame
 This is our house, this is our game!
 
 [Guitar Solo]
-(A blazing 1980s stadium electric guitar solo over the synchronized stadium bleacher stomp)
+(Raw, blistering 1986 garage-metal electric guitar solo trading licks with an analog Oberheim synthesizer brass lead over the rhythmic steel brake-drum clang)
 
 [Bridge]
-(half-time marching cadence)
+(Half-time stomping garage cadence)
 [male]
 Left! Right! Left! Right!
 Feel the earthquake in the night!
@@ -161,25 +168,179 @@ Ride the stomp! Shake the steel!
 Make the whole mountain feel!
 
 [Final Chorus]
-(Full rock band and collegiate brass section explosion)
-[male] IGNITION!
-(Crowd Vocals Only)
+[male]
 IGNITION!
-[male] This is the Forger's Call!
-[male] IGNITION!
-(Crowd Vocals Only)
+[Gang Vocal Chant]
+(IGNITION!)
+
+[male]
+This is the Forger's Call!
+
+[male]
 IGNITION!
-[male] We're standing ten feet tall!
-We are the hammer, we're the flame!
+[Gang Vocal Chant]
+(IGNITION!)
+
+[male]
+We're standing ten feet tall!
+We are the hammer, we're the flame
 This is our house, this is our game!
 
 [Outro]
-(Blaring brass fanfare, ringing metallic anvil, and deafening crowd roar)
-[male] IGNITION!
-(Crowd Vocals Only)
+[male]
 IGNITION!
-[male] Welcome home to The Crucible!
-(Sustained power chord and stadium drum crescendo)
+[Gang Vocal Chant]
+(IGNITION!)
+(Ringing steel brake-drum strike, raw tube-amp guitar feedback, and mechanical click of the cassette recorder stopping)
+```
+
+---
+
+### Track 01B (2016 Live Stadium Opener): `Ignition: The Forger's Call (Live at the Crucible)`
+* **Generation Mode:** **Cover Mode (`Audio Influence: 74%`)** using **Track 01A (`1986 Progress Street Cassette Demo`)** as the reference seed (or Fresh Suno v6 Generation!)
+* **Save Downloaded WAV As:** `1-01-ignition-the-forgers-call.wav`
+* **Vocal Gender UI Setting:** `Male` (Ryan O'Connell gravelly stadium vocal + 60,000-person crowd gang-vocal response)
+* **Weirdness:** `0%` • **Style Influence:** `90%` • **Audio Influence (if Covering 01A):** `74%`
+
+#### Styles to Include
+```text
+1980s stadium hard rock, live arena rock anthem, spoken word stadium intro over faint synth pad, heavy industrial riff slow and stomping, rhythmic metallic anvil clang and 60000 person synchronized bleacher stomp, thundering gated stadium drums, roaring college stadium crowd call and response, gravelly male rock vocal, full 300-piece collegiate marching band brass hits, 124 BPM, E Minor, seismic, triumphant, victorious
+```
+
+#### Styles to Exclude
+```text
+modern pop, hip hop, rap, country, acoustic ballad, lo-fi, studio flat mix, dry vocals, muffled
+```
+
+#### Lyrics (Copy-Paste into Suno — Canonical 2016 Live at the Crucible Script)
+```text
+[Ambient Sound: Massive Crowd Roar, Wind, Feedback]
+
+[Spoken Intro - Ryan O'Connell]
+(Gravelly voice, intimate, over faint synth pad)
+[male]
+Thirty years ago...
+We were just five kids in a garage on Progress Street.
+We didn't have a record deal...
+We didn't have a tour bus...
+All we had was a cassette tape... and an idea.
+
+(Voice gets louder, commanding)
+We entered a contest to write a song for this stadium.
+We wanted to make something loud enough...
+To scare the HELL out of anyone who dared to come into our house!
+
+(Crowd cheers swell)
+For thirty years... you guys have been stomping your feet to our song every single Saturday.
+So tonight... for the 30th Anniversary...
+Let's see if we can break the seismographs!
+
+[Drum Fill: Massive, Thundering]
+[male]
+IGNITION!
+
+[Crowd Response: 60,000 People]
+(IGNITION!)
+
+[Music Starts: Heavy Industrial Riff, Slow and Stomping]
+[Sound Effect: Rhythmic Metallic Clang and Stomp]
+(TING... BOOM!)
+(TING... BOOM!)
+
+[Verse 1]
+[male]
+The lights go dark... the tension builds...
+A single pounding heavy sound...
+The hammer striking on the steel...
+It shakes the air... it shakes the ground!
+The pressure's on... the time is now...
+We're here to forge our name!
+The spark is lit... the fire burns...
+(Ryan Ad-Lib - Shouted)
+We're taking the Anchor BACK to the Mountains!
+
+[Chorus]
+[male]
+IGNITION!
+[Crowd Chant]
+(IGNITION!)
+
+[male]
+This is the Forger's Call!
+
+[male]
+IGNITION!
+[Crowd Chant]
+(IGNITION!)
+
+[male]
+We're standing ten feet tall!
+We are the hammer, we're the flame
+This is our house, this is our game!
+
+[Verse 2]
+[male]
+Sixty thousand boots upon the iron floor!
+Hear the valley tremble when the Forgers roar!
+Concrete and Ironstone locked inside the night!
+Step into the furnace, step into the light!
+
+[Chorus]
+[male]
+IGNITION!
+[Crowd Chant]
+(IGNITION!)
+
+[male]
+This is the Forger's Call!
+
+[male]
+IGNITION!
+[Crowd Chant]
+(IGNITION!)
+
+[male]
+We're standing ten feet tall!
+We are the hammer, we're the flame
+This is our house, this is our game!
+
+[Guitar Solo]
+(A blazing 1980s stadium electric guitar solo over the synchronized stadium bleacher stomp and 300-piece marching band brass stabs)
+
+[Bridge]
+(Half-time marching cadence)
+[male]
+Left! Right! Left! Right!
+Feel the earthquake in the night!
+Ride the stomp! Shake the steel!
+Make the whole mountain feel!
+
+[Final Chorus]
+(Full rock band and 300-piece collegiate brass section explosion)
+[male]
+IGNITION!
+[Crowd Chant]
+(IGNITION!)
+
+[male]
+This is the Forger's Call!
+
+[male]
+IGNITION!
+[Crowd Chant]
+(IGNITION!)
+
+[male]
+We're standing ten feet tall!
+We are the hammer, we're the flame
+This is our house, this is our game!
+
+[Outro]
+[male]
+IGNITION!
+[Crowd Chant]
+(IGNITION!)
+(Massive Explosion and Guitar Feedback)
 ```
 
 ---

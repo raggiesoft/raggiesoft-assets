@@ -1,6 +1,6 @@
 
 # The Stardust Engine - Master Discography & Lore
-Compiled on: 10-26-2026 06:02:44 AM
+Compiled on: 10-26-2026 07:56:32 AM
 
 # Electric Color (1987)
 * **Narrative Era:** 1987
@@ -12298,6 +12298,129 @@ Just you and me...
 ## Not Her
 *(Instrumental / Structure-Only Track)*
 
+## Ignition: The Forger's Call (1986 Progress Street Cassette Demo)
+### Lore
+The legendary **October 1986 4-track Tascam Portastudio cassette demo** recorded inside the unheated garage at `412 Progress Street NE` in Blacksburg, Virginia—submitted by five college kids (Ryan O'Connell, Cassidy O'Connell, Evan Wright, Tyler Wright, and 16-year-old dual-enrolled Holly O'Connell) to the CPI Student Government Association contest to replace the football team's entrance march. Before submitting the Maxell XLII-S 90 cassette tape, 16-year-old Holly redlined the university's standard *"Work Made for Hire"* entry form at the Progress Street kitchen table and negotiated the historic **`$1.00` Perpetual Mutual Cross-License** ("The Progress Street Redline"), retaining 100% of the band's master and publishing ownership while granting CPI Athletics and the Marching Forgers a perpetual, royalty-free stadium license.
+
+Recorded three years before the November 1989 UP night game birthed the 60,000-person stadium bleacher stomp—and twenty-eight years before the VDU *Anchor* rivalry inspired Ryan's 2016 live ad-lib—this raw 1986 cassette cut features the mechanical click of Holly's 4-track tape deck, Tyler Wright striking a salvaged automobile brake drum on the concrete garage floor with a sledgehammer (`TING... BOOM!`), Cassidy's raw Oberheim OB-Xa analog synth brass, Ryan's overdriven garage-metal guitar riff, and Cassidy, Evan, and Tyler shouting the gang-vocal `(IGNITION!)` response into a single shared Shure SM57 microphone.
+
+### Lyrics
+
+[Sound Effect: Mechanical Cassette Tape Click, Analog Tape Hiss, 1986 Garage Room Ambience]
+
+[Spoken Studio Slate - Ryan O'Connell]
+(Young, eager 22-year-old voice in a concrete garage)
+[male]
+Holly, is the four-track rolling?
+Alright... Progress Street Garage, Take Three.
+For the Crucible Stadium Contest.
+Tyler, hit the brake drum! One, two, three, four!
+
+[Drum Fill: Raw, Thundering Garage Kit]
+[male]
+IGNITION!
+
+[Gang Vocal Response: Band in Garage]
+(IGNITION!)
+
+[Music Starts: Heavy 1980s Industrial Garage-Metal Riff, Slow and Stomping]
+[Sound Effect: Sledgehammer Striking a Steel Automobile Brake Drum on Concrete]
+(TING... BOOM!)
+(TING... BOOM!)
+
+[Verse 1]
+[male]
+The lights go dark... the tension builds...
+A single pounding heavy sound...
+The hammer striking on the steel...
+It shakes the air... it shakes the ground!
+The pressure's on... the time is now...
+We're here to forge our name!
+The spark is lit... the fire burns...
+Step inside the flame!
+
+[Chorus]
+[male]
+IGNITION!
+[Gang Vocal Chant]
+(IGNITION!)
+
+[male]
+This is the Forger's Call!
+
+[male]
+IGNITION!
+[Gang Vocal Chant]
+(IGNITION!)
+
+[male]
+We're standing ten feet tall!
+We are the hammer, we're the flame
+This is our house, this is our game!
+
+[Verse 2]
+[male]
+Sixty thousand boots upon the iron floor!
+Hear the valley tremble when the Forgers roar!
+Concrete and Ironstone locked inside the night!
+Step into the furnace, step into the light!
+
+[Chorus]
+[male]
+IGNITION!
+[Gang Vocal Chant]
+(IGNITION!)
+
+[male]
+This is the Forger's Call!
+
+[male]
+IGNITION!
+[Gang Vocal Chant]
+(IGNITION!)
+
+[male]
+We're standing ten feet tall!
+We are the hammer, we're the flame
+This is our house, this is our game!
+
+[Guitar Solo]
+(Raw, blistering 1986 garage-metal electric guitar solo trading licks with an analog Oberheim OB-Xa synthesizer brass lead over the rhythmic steel brake-drum clang)
+
+[Bridge]
+(Half-time stomping garage cadence)
+[male]
+Left! Right! Left! Right!
+Feel the earthquake in the night!
+Ride the stomp! Shake the steel!
+Make the whole mountain feel!
+
+[Final Chorus]
+[male]
+IGNITION!
+[Gang Vocal Chant]
+(IGNITION!)
+
+[male]
+This is the Forger's Call!
+
+[male]
+IGNITION!
+[Gang Vocal Chant]
+(IGNITION!)
+
+[male]
+We're standing ten feet tall!
+We are the hammer, we're the flame
+This is our house, this is our game!
+
+[Outro]
+[male]
+IGNITION!
+[Gang Vocal Chant]
+(IGNITION!)
+(Ringing steel brake-drum strike, raw tube-amp guitar feedback, and mechanical click of the cassette recorder stopping)
+
 # Our Own Frequency (2008)
 * **Narrative Era:** 2008
 * **Real-World DSP Release:** 2026-10-16
@@ -14941,65 +15064,72 @@ See you out on the horizon!
 
 ## Ignition: The Forger's Call (Live at the Crucible)
 ### Lore
-The very first time in history that **"Ignition: The Forger's Call"** was ever played and recorded for a live concert release (previously, the only way to hear *Ignition* was to attend a CPI Home Football Game in person inside **The Crucible**). With no opening act—just CPI Alumni (*Class of 1989*) coming home to play for their alma mater—Ryan O'Connell rolls out to the edge of the stage in his manual chair, recalls the 1986 student contest cassette protected by 16-year-old Holly O'Connell's `$1.00` Perpetual Mutual Cross-License, and cues the stadium blackout. As Tyler strikes his steel brake drum and 65,000 Ironheads execute **The Stomp** on the galvanized bleachers of **The Anvil** until the Copernicus Hall seismographs spike, the four-piece rock band and the 300-piece **CPI Marching Forgers** erupt into a deafening call-and-response of **"IGNITION!"**
+The very first time in history that **"Ignition: The Forger's Call"** was ever played and recorded for a live concert release (previously, the only way to hear *Ignition* was to attend a CPI Home Football Game in person inside **The Crucible**). With no opening act—just CPI Alumni (*Class of 1989*) coming home to play for their alma mater—Ryan O'Connell rolls out to the edge of the stage in his manual chair, recalls the October 1986 student contest cassette recorded by five kids (Ryan, Cassidy, Evan, Tyler, and 16-year-old dual-enrolled Holly O'Connell) in the garage at `412 Progress Street NE` and protected by Holly's `$1.00` Perpetual Mutual Cross-License, and cues the stadium blackout. As Tyler strikes his steel brake drum (`TING... BOOM!`), 65,000 Ironheads execute **The Stomp** on the galvanized bleachers of **The Anvil** until the Copernicus Hall seismographs spike, and Ryan shouts his triumphant November 2015 `52–0` ad-lib (*"We're taking the Anchor BACK to the Mountains!"*) while the four-piece rock band and the 300-piece **CPI Marching Forgers** erupt into a deafening call-and-response of **"IGNITION!"**
 
 ### Lyrics
 
-[Intro]
-(Deafening roar of 65,000 fans inside The Crucible)
-(Warm analog synthesizer pad hums beneath the stadium PA)
+[Ambient Sound: Massive Crowd Roar, Wind, Feedback]
 
-[Spoken Word Intro]
+[Spoken Intro - Ryan O'Connell]
+(Gravelly voice, intimate, over faint synth pad)
 [male]
-Thirty years ago... we were just five kids in a garage on Progress Street!
-We didn't have a record deal... we didn't have a tour bus...
-All we had was a cassette tape... and an idea!
-We entered a contest to write a song for this stadium!
-We wanted to make something loud enough to shake the mountains for anyone who stepped into our house!
-For thirty years, you have been stomping your feet to our song every single Saturday at CPI!
-So tonight... for the Thirtieth Anniversary... let's see if we can break the seismographs!
+Thirty years ago...
+We were just five kids in a garage on Progress Street.
+We didn't have a record deal...
+We didn't have a tour bus...
+All we had was a cassette tape... and an idea.
 
-[The Stadium Stomp]
-(All stadium floodlights cut to pitch black)
-(Heavy metallic hammer strikes a steel anvil: CLANG... BOOM!)
-(65,000 pairs of boots stomp in unison on the galvanized steel bleachers of The Anvil)
-(Thunderous stadium drums and 300-piece CPI Marching Forgers brass swell in)
+(Voice gets louder, commanding)
+We entered a contest to write a song for this stadium.
+We wanted to make something loud enough...
+To scare the HELL out of anyone who dared to come into our house!
 
-[Call and Response]
-[male]
-IGNITION!
-(Crowd)
-IGNITION!
+(Crowd cheers swell)
+For thirty years... you guys have been stomping your feet to our song every single Saturday.
+So tonight... for the 30th Anniversary...
+Let's see if we can break the seismographs!
+
+[Drum Fill: Massive, Thundering]
 [male]
 IGNITION!
-(Crowd)
-IGNITION!
+
+[Crowd Response: 60,000 People]
+(IGNITION!)
+
+[Music Starts: Heavy Industrial Riff, Slow and Stomping]
+[Sound Effect: Rhythmic Metallic Clang and Stomp]
+(TING... BOOM!)
+(TING... BOOM!)
 
 [Verse 1]
 [male]
-The lights go dark, the tension builds!
-A single pounding heavy sound!
-The hammer striking on the steel!
-It shakes the air, it shakes the ground!
-The pressure's on, the time is now!
+The lights go dark... the tension builds...
+A single pounding heavy sound...
+The hammer striking on the steel...
+It shakes the air... it shakes the ground!
+The pressure's on... the time is now...
 We're here to forge our name!
-The spark is lit, the fire burns!
-We're taking the anchor back to the mountains!
+The spark is lit... the fire burns...
+(Ryan Ad-Lib - Shouted)
+We're taking the Anchor BACK to the Mountains!
 
 [Chorus]
 [male]
 IGNITION!
-(Crowd)
-IGNITION!
+[Crowd Chant]
+(IGNITION!)
 
+[male]
 This is the Forger's Call!
+
 [male]
 IGNITION!
-(Crowd)
-IGNITION!
+[Crowd Chant]
+(IGNITION!)
 
+[male]
 We're standing ten feet tall!
-We are the hammer, we're the flame!
+We are the hammer, we're the flame
 This is our house, this is our game!
 
 [Verse 2]
@@ -15012,21 +15142,24 @@ Step into the furnace, step into the light!
 [Chorus]
 [male]
 IGNITION!
-(Crowd)
-IGNITION!
+[Crowd Chant]
+(IGNITION!)
 
+[male]
 This is the Forger's Call!
+
 [male]
 IGNITION!
-(Crowd)
-IGNITION!
+[Crowd Chant]
+(IGNITION!)
 
+[male]
 We're standing ten feet tall!
-We are the hammer, we're the flame!
+We are the hammer, we're the flame
 This is our house, this is our game!
 
 [Guitar Solo]
-(Blistering 1980s stadium electric guitar solo soaring over the synchronized 65,000-person bleacher stomp and Marching Forgers brass stabs)
+(Blistering 1980s stadium electric guitar solo soaring over the synchronized 60,000-person bleacher stomp and 300-piece CPI Marching Forgers brass stabs)
 
 [Bridge]
 (Half-time marching cadence)
@@ -15040,29 +15173,28 @@ Make the whole mountain feel!
 (Full Rock Band and 300-Piece CPI Marching Forgers Explosion)
 [male]
 IGNITION!
-(Crowd)
-IGNITION!
+[Crowd Chant]
+(IGNITION!)
 
+[male]
 This is the Forger's Call!
+
 [male]
 IGNITION!
-(Crowd)
-IGNITION!
+[Crowd Chant]
+(IGNITION!)
 
+[male]
 We're standing ten feet tall!
-We are the hammer, we're the flame!
+We are the hammer, we're the flame
 This is our house, this is our game!
 
 [Outro]
-(Blaring 300-horn brass fanfare, ringing steel anvil, and deafening stadium roar)
 [male]
 IGNITION!
-(Crowd)
-IGNITION!
-[male]
-Welcome home to The Crucible!
-(Sustained E-Minor power chord and pyrotechnic boom)
-
+[Crowd Chant]
+(IGNITION!)
+(Massive Explosion and Guitar Feedback)
 
 ## CPI Tech Triumph: The Marching Forgers (Live at the Crucible)
 ### Lore

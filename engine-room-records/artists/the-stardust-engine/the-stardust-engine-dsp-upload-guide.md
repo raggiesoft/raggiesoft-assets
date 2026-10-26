@@ -1195,6 +1195,12 @@
 * ID3 / Vorbis Tag: Not Her
 * ISRC: QTA7V2642611
 
+15. Ignition: The Forger's Call
+* Name: Ignition: The Forger's Call
+* Version: 1986 Progress Street Cassette Demo
+* ID3 / Vorbis Tag: Ignition: The Forger's Call (1986 Progress Street Cassette Demo)
+* ISRC: QTAHP2600043
+
 ---
 ## Our Own Frequency (2008) — Studio Album
 * **Album Folder:** `2008-our-own-frequency` • **UPC:** `700521288573` • **Genre:** `Singer / Songwriter`
@@ -1409,193 +1415,193 @@
 ## Live at the Crucible (2016) — Live Album
 * **Album Folder:** `2016-live-at-the-crucible` • **UPC:** `None` • **Genre:** `Live Stadium Rock / 1980s AOR / Progressive Symphonic Space-Rock / Collegiate Marching Band Rock`
 
-1. Ignition: The Forger's Call
+1 (D1-T1). Ignition: The Forger's Call
 * Name: Ignition: The Forger's Call
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Ignition: The Forger's Call (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-2. CPI Tech Triumph: The Marching Forgers
+2 (D1-T2). CPI Tech Triumph: The Marching Forgers
 * Name: CPI Tech Triumph: The Marching Forgers
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: CPI Tech Triumph: The Marching Forgers (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-3. The Stardust Engine
+3 (D1-T3). The Stardust Engine
 * Name: The Stardust Engine
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: The Stardust Engine (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-4. Main Engine Start
+4 (D1-T4). Main Engine Start
 * Name: Main Engine Start
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Main Engine Start (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-5. Hard Reset
+5 (D1-T5). Hard Reset
 * Name: Hard Reset
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Hard Reset (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-6. Not Your Doll
+6 (D1-T6). Not Your Doll
 * Name: Not Your Doll
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Not Your Doll (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-7. Static
+7 (D1-T7). Static
 * Name: Static
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Static (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-8. Midnight Drivers
+8 (D1-T8). Midnight Drivers
 * Name: Midnight Drivers
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Midnight Drivers (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-9. Fifty-Two to Nothing: The Norfolk Reckoning
+9 (D1-T9). Fifty-Two to Nothing: The Norfolk Reckoning
 * Name: Fifty-Two to Nothing: The Norfolk Reckoning
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Fifty-Two to Nothing: The Norfolk Reckoning (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-10. The Contract
+10 (D1-T10). The Contract
 * Name: The Contract
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: The Contract (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-11. Steel and Synthetics
+11 (D1-T11). Steel and Synthetics
 * Name: Steel and Synthetics
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Steel and Synthetics (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-12. Escape Velocity (Ad Astra)
+12 (D2-T1). Escape Velocity (Ad Astra)
 * Name: Escape Velocity (Ad Astra)
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Escape Velocity (Ad Astra) (Live at the Crucible)
 * ISRC: QTAHP2600042
 
-13. Apoapsis
+13 (D2-T2). Apoapsis
 * Name: Apoapsis
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Apoapsis (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-14. Second Apoapsis
+14 (D2-T3). Second Apoapsis
 * Name: Second Apoapsis
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Second Apoapsis (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-15. The Spectrum (True Color)
+15 (D2-T4). The Spectrum (True Color)
 * Name: The Spectrum (True Color)
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: The Spectrum (True Color) (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-16. Moon 1: Tidal Lock
+16 (D2-T5). Moon 1: Tidal Lock
 * Name: Moon 1: Tidal Lock
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Moon 1: Tidal Lock (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-17. Moon 2: Roche Limit
+17 (D2-T6). Moon 2: Roche Limit
 * Name: Moon 2: Roche Limit
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Moon 2: Roche Limit (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-18. Impact (Mile Marker 98)
+18 (D2-T7). Impact (Mile Marker 98)
 * Name: Impact (Mile Marker 98)
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Impact (Mile Marker 98) (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-19. Mayday: The Intercept
+19 (D2-T8). Mayday: The Intercept
 * Name: Mayday: The Intercept
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Mayday: The Intercept (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-20. Star City: Orbital Ward
+20 (D2-T9). Star City: Orbital Ward
 * Name: Star City: Orbital Ward
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Star City: Orbital Ward (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-21. Twin Moons: Touchdown
+21 (D2-T10). Twin Moons: Touchdown
 * Name: Twin Moons: Touchdown
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Twin Moons: Touchdown (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-22. Our Own Frequency
+22 (D3-T1). Our Own Frequency
 * Name: Our Own Frequency
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Our Own Frequency (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-23. Brother's Keeper
+23 (D3-T2). Brother's Keeper
 * Name: Brother's Keeper
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Brother's Keeper (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-24. Safe Person
+24 (D3-T3). Safe Person
 * Name: Safe Person
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Safe Person (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-25. Echoes in the Wire
+25 (D3-T4). Echoes in the Wire
 * Name: Echoes in the Wire
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Echoes in the Wire (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-26. Saturday Night Lights: The Crucible
+26 (D3-T5). Saturday Night Lights: The Crucible
 * Name: Saturday Night Lights: The Crucible
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Saturday Night Lights: The Crucible (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-27. Progress Street: Where the Fire Began
+27 (D3-T6). Progress Street: Where the Fire Began
 * Name: Progress Street: Where the Fire Began
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Progress Street: Where the Fire Began (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-28. Neon Hearts
+28 (D3-T7). Neon Hearts
 * Name: Neon Hearts
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Neon Hearts (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-29. My Anchor Holds
+29 (D3-T8). My Anchor Holds
 * Name: My Anchor Holds
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: My Anchor Holds (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-30. Reignition: Lights Up on Progress Street
+30 (D3-T9). Reignition: Lights Up on Progress Street
 * Name: Reignition: Lights Up on Progress Street
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Reignition: Lights Up on Progress Street (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-31. Last Bus Home: Lights Out on Progress Street
+31 (D3-T10). Last Bus Home: Lights Out on Progress Street
 * Name: Last Bus Home: Lights Out on Progress Street
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Last Bus Home: Lights Out on Progress Street (Live at the Crucible)
 * ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
 
-32. Electric Color
+32 (D3-T11). Electric Color
 * Name: Electric Color
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Electric Color (Live at the Crucible)
