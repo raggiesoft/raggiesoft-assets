@@ -1,0 +1,183 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: CONSTELLATION WEDDING (DOUBLE WEDDING & CHAMBER B SEAL)
+ * ============================================================================
+ *
+ * Description:
+ * This stylesheet (`constellation-wedding.css`) defines the bespoke
+ * "Constellation Wedding" reading theme (`theme: "constellation-wedding"`) for
+ * the Ocean View Archives / Stardust Engine. Crafted for Era 8, Chapter 2
+ * ("July 16, 2016: The Double Wedding & The Legal Seal") of *The Eleventh
+ * Child: The Story of Jordan*, it celebrates the joint wedding of Jordan &
+ * Aubrie Jean Kelly and Mark & Hannah Cooper at the Old Town Ballroom &
+ * Conservatory in Christiansburg, the Ceremony of the Constellation with all
+ * seven Pact bridesmaids in midnight-blue silk gowns, and the walk across Main
+ * Street to Chamber B of the Montgomery County Courthouse where Judge Warren T.
+ * Aldridge signs Final Order `CL16-001104` making him legally `Jordan Shawn Kelly`.
+ *
+ * Dual Ceremonial Palette:
+ * - Light Mode ("Sunlit Conservatory Atrium, Ivory Lace & Pact Midnight Silk"):
+ *   Pairs a warm Ivory-Lace Bridal canvas (`#fcfaf5`) and pure Conservatory
+ *   Atrium White reading surfaces (`#ffffff`) with Deep Charcoal-Suit Ink prose
+ *   (`#141824`), Pact Midnight-Sapphire Silk primary accents (`#1e3a8a`), and
+ *   Hannah's Emerald Bouquet secondary accents (`#065f46`).
+ * - Dark Mode ("Candlelit Grand Ballroom & Starlight Constellation"):
+ *   Evokes the evening reception waltz to "Just Us" and the gold-embossed
+ *   Virginia judicial seal—a Deep Midnight-Silk Ballroom canvas (`#0b1120`)
+ *   and Elevated Starlight-Sapphire surface (`#152038`) paired with Crisp
+ *   Ivory-Champagne prose (`#f8fafc`), Wedding-Band Champagne Gold primary
+ *   accents (`#fde047`), and Emerald-Rose Corsage secondary accents (`#6ee7b7`).
+ *
+ * WCAG 2.1 AA / AAA & Section 508 Contrast Verification:
+ * - Light Mode:
+ *   - Body Text (`#141824` on `#fcfaf5` bg): 17.21:1 (WCAG AAA)
+ *   - Body Text (`#141824` on `#ffffff` surface): 17.84:1 (WCAG AAA)
+ *   - Primary Accent (`#1e3a8a` on `#fcfaf5` bg): 9.62:1 (WCAG AAA)
+ *   - Secondary Accent (`#065f46` on `#fcfaf5` bg): 7.51:1 (WCAG AAA)
+ * - Dark Mode:
+ *   - Body Text (`#f8fafc` on `#0b1120` bg): 17.14:1 (WCAG AAA)
+ *   - Body Text (`#f8fafc` on `#152038` surface): 14.18:1 (WCAG AAA)
+ *   - Primary Accent (`#fde047` on `#0b1120` bg): 14.22:1 (WCAG AAA)
+ *   - Secondary Accent (`#6ee7b7` on `#0b1120` bg): 11.94:1 (WCAG AAA)
+ *   - Primary Button (`#fffbeb` on `#1e3a8a` fill): 9.85:1 (WCAG AAA)
+ * ============================================================================
+ */
+
+/* Theme Name: Constellation Wedding (`constellation-wedding`) */
+
+/* --- 1. Light Mode (Base & Explicit OS/User Light Preference) --- */
+body.theme-constellation-wedding,
+body.theme-light.theme-constellation-wedding,
+body.theme-sepia.theme-constellation-wedding {
+    color-scheme: light;
+    --rs-bg: #fcfaf5;        /* Warm Ivory-Lace Bridal canvas */
+    --rs-bg-alt: #f3ede2;    /* Champagne-Limestone Conservatory sidebar background */
+    --rs-surface: #ffffff;   /* Pure Sunlit Atrium reading card surface */
+    --rs-card-bg: #ffffff;   /* Modal and card container surface */
+    --rs-text: #141824;      /* Deep Charcoal-Suit Ink prose (17.21:1 contrast) */
+    --rs-heading: #1e3a8a;   /* Pact Midnight-Sapphire Silk heading token */
+    --rs-primary: #1e3a8a;   /* Pact Midnight-Sapphire primary accent (9.62:1 contrast) */
+    --rs-secondary: #065f46; /* Hannah's Emerald-Silk Bouquet secondary accent (7.51:1 contrast) */
+    --rs-border: #d6cebf;    /* Warm Courthouse-Parchment & Gold-Seal structural border */
+    accent-color: #1e3a8a;
+}
+
+@media (prefers-color-scheme: light) {
+    body.theme-auto.theme-constellation-wedding,
+    body.theme-sepia-system.theme-constellation-wedding {
+        color-scheme: light;
+        --rs-bg: #fcfaf5;
+        --rs-bg-alt: #f3ede2;
+        --rs-surface: #ffffff;
+        --rs-card-bg: #ffffff;
+        --rs-text: #141824;
+        --rs-heading: #1e3a8a;
+        --rs-primary: #1e3a8a;
+        --rs-secondary: #065f46;
+        --rs-border: #d6cebf;
+        accent-color: #1e3a8a;
+    }
+}
+
+/* Sunlit conservatory & champagne-gold border glow in Light Mode */
+body.theme-constellation-wedding #stardust-reading-pane,
+body.theme-light.theme-constellation-wedding #stardust-reading-pane,
+body.theme-sepia.theme-constellation-wedding #stardust-reading-pane {
+    box-shadow:
+        inset 0 6px 32px rgba(30, 58, 138, 0.06),
+        inset 0 -6px 28px rgba(6, 95, 70, 0.05);
+}
+
+/* --- 2. Dark Mode (Explicitly Forced by Reader Toggle) --- */
+body.theme-dark.theme-constellation-wedding,
+body.theme-dark-sepia.theme-constellation-wedding {
+    color-scheme: dark;
+    --rs-bg: #0b1120;        /* Deep Midnight-Silk Ballroom night canvas */
+    --rs-bg-alt: #10182d;    /* Starlight Conservatory sidebar background */
+    --rs-surface: #152038;   /* Elevated Sapphire-Velvet card and modal surface */
+    --rs-card-bg: #152038;   /* Matching elevated dark container surface */
+    --rs-text: #f8fafc;      /* Crisp Ivory-Champagne prose text (17.14:1 contrast) */
+    --rs-heading: #fef08a;   /* Judicial Seal & Wedding-Band Gold heading token */
+    --rs-primary: #fde047;   /* Champagne Starlight Gold primary accent (14.22:1 contrast) */
+    --rs-secondary: #6ee7b7; /* Luminous Emerald-Bouquet secondary accent (11.94:1 contrast) */
+    --rs-border: #283a63;    /* Burnished Midnight-Sapphire structural border */
+    accent-color: #fde047;
+}
+
+body.theme-dark.theme-constellation-wedding #stardust-reading-pane,
+body.theme-dark-sepia.theme-constellation-wedding #stardust-reading-pane {
+    box-shadow:
+        inset 0 6px 36px rgba(253, 224, 71, 0.06),
+        inset 0 -6px 36px rgba(110, 231, 183, 0.05);
+}
+
+body.theme-dark.theme-constellation-wedding .rs-btn-primary,
+body.theme-dark-sepia.theme-constellation-wedding .rs-btn-primary {
+    background-color: #1e3a8a;
+    border-color: #fde047;
+    color: #fffbeb;
+}
+
+body.theme-dark.theme-constellation-wedding .rs-btn-primary:hover,
+body.theme-dark-sepia.theme-constellation-wedding .rs-btn-primary:hover,
+body.theme-dark.theme-constellation-wedding .rs-btn-primary:focus-visible,
+body.theme-dark-sepia.theme-constellation-wedding .rs-btn-primary:focus-visible {
+    background-color: #1d4ed8;
+    border-color: #6ee7b7;
+    color: #ffffff;
+}
+
+/* --- 3. Dark Mode (OS Preference via `prefers-color-scheme: dark`) --- */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-constellation-wedding,
+    body.theme-sepia-system.theme-constellation-wedding,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-constellation-wedding {
+        color-scheme: dark;
+        --rs-bg: #0b1120;
+        --rs-bg-alt: #10182d;
+        --rs-surface: #152038;
+        --rs-card-bg: #152038;
+        --rs-text: #f8fafc;
+        --rs-heading: #fef08a;
+        --rs-primary: #fde047;
+        --rs-secondary: #6ee7b7;
+        --rs-border: #283a63;
+        accent-color: #fde047;
+    }
+
+    body.theme-auto.theme-constellation-wedding #stardust-reading-pane,
+    body.theme-sepia-system.theme-constellation-wedding #stardust-reading-pane,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-constellation-wedding #stardust-reading-pane {
+        box-shadow:
+            inset 0 6px 36px rgba(253, 224, 71, 0.06),
+            inset 0 -6px 36px rgba(110, 231, 183, 0.05);
+    }
+
+    body.theme-auto.theme-constellation-wedding .rs-btn-primary,
+    body.theme-sepia-system.theme-constellation-wedding .rs-btn-primary,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-constellation-wedding .rs-btn-primary {
+        background-color: #1e3a8a;
+        border-color: #fde047;
+        color: #fffbeb;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast Mode) Safety --- */
+@media (forced-colors: active) {
+    body.theme-constellation-wedding {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-secondary: Highlight;
+        --rs-border: ButtonBorder;
+    }
+
+    body.theme-constellation-wedding #stardust-reading-pane {
+        box-shadow: none;
+    }
+}
+

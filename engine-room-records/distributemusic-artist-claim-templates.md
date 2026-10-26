@@ -184,4 +184,68 @@ WHY I INTENTIONALLY DO NOT OPT INTO YOUTUBE CONTENT ID / SOCIAL MEDIA PACK:
    - Leaving Content ID unchecked is a deliberate compliance decision to honor YouTube's Content ID rules and protect both my licensed CC BY-SA 4.0 community and commercial sync licensees from automated false-positive claims.
 ```
 
+---
+
+## Part 4: DistributeMusic.ai Upload Wizard Schema (Saved for Future Harper Integration)
+
+When DistributeMusic.ai approves the artist claim (or once we decide whether to tailor Harper's `dsp-upload-sheet.md` generator to DistributeMusic.ai vs. DistroKid), here is the exact DOM schema from DistributeMusic.ai's 6-step release wizard:
+
+### Step 1 (`1. TYPE` — `data-testid="release-step-type"`)
+* **`Single` (`data-testid="release-type-single`):** `1 track`
+* **`EP` (`data-testid="release-type-ep"`):** `2–6 tracks`
+* **`Album` (`data-testid="release-type-album"`):** `7+ tracks` *(Must select `Album` so Step 3 allows adding all 14 tracks!)*
+
+### Step 2 (`2. METADATA` — `data-testid="release-step-metadata"`)
+1. **AI Toggle (`release-input-is-ai-generated`):** `ON` (`checked`)
+2. **Release Title (`release-input-title`) & Version Dropdown (`release-input-version-type`):**
+   * Allowed `<select>` values: `Original`, `Remix`, `Cover`, `Live`, `Acoustic`, `Instrumental`, `Radio Edit`, `Extended Mix`, `Sped Up`, `Slowed`, `Remastered`, `__other` (`Other version…`).
+3. **Artist Name (`release-input-artist`) & Spotify Profile (`release-input-spotify-url`):**
+   * Auto-links Spotify (`https://open.spotify.com/artist/...`) and MusicBrainz (`https://musicbrainz.org/artist/585a0586-339b-4202-b0f9-93c4434ef206`).
+4. **Primary Genre (`release-input-genre`):**
+   * Allowed `<select>` values: `Pop`, `Hip-Hop`, `R&B`, `Rap`, `Trap`, `Rock`, `Indie Rock`, `Alternative Rock`, `Metal`, `Punk`, `Country`, `Folk`, `Blues`, `Jazz`, `Soul`, `Funk`, `Reggae`, `Reggaeton`, `Latin`, `Salsa`, `Bachata`, `Cumbia`, `Afrobeat`, `Afropop`, `Amapiano`, `K-Pop`, `J-Pop`, `C-Pop`, `Bollywood`, `Bhajan`, `Ghazal`, `Classical`, `Orchestral`, `Opera`, `Soundtrack`, `Ambient`, `New Age`, `Electronic`, `Dance`, `House`, `Deep House`, `Tech House`, `Techno`, `Trance`, `Progressive House`, `Drum & Bass`, `Dubstep`, `Garage`, `Future Bass`, `Lo-Fi`, `Chill`, `Chillout`, `Downtempo`, `Synthwave`, `Vaporwave`, `EDM`, `Big Room`, `Hardstyle`, `Trap EDM`, `Indie Pop`, `Indie Folk`, `Singer-Songwriter`, `Alternative`, `Gospel`, `Christian`, `Devotional`, `Spiritual`, `World`, `Traditional`, `Instrumental`, `Kids`, `Comedy`, `Spoken Word`, `Film Score`, `Video Game Music`, `Anime`, `Cinematic`.
+5. **Composer (`release-input-composer`) & Lyricist (`release-input-lyricist`):**
+   * `Michael Ragsdale` *(First + Last legal name without middle initial, matching ID and DistributeMusic.ai account).*
+6. **Previously Distributed Toggle (`release-prev-distributed-toggle`) & UPC (`release-input-upc`):**
+   * Keep `Previously distributed` **ON** whenever supplying custom `QTAHP` or migrated `QZW`/`QZR` track ISRCs in Step 3 (`3. AUDIO`).
+   * Leave `UPC` blank for brand-new releases (like *Starfield Calibration*) so DistributeMusic.ai assigns a new barcode, or enter the existing 12-digit UPC when migrating a live release.
+7. **Song Language (`release-input-song-language`):** `en` (`English`) or `ja` (`Japanese`).
+8. **Label & Copyright Lines (`release-custom-label-fields` — Overwrite `"DistributeMusic.AI"` Default!):**
+   * **Label name (`release-input-label-name`):** `Engine Room Records`
+   * **© C-line (`release-input-c-line`):** `2026 Engine Room Records / Michael Ragsdale`
+   * **℗ P-line (`release-input-p-line`):** `2026 Engine Room Records / Michael Ragsdale`
+9. **Made with AI — Suno Song Link (`release-input-ai-music-link`):**
+   * Paste Suno song/playlist share URL (plus optional screenshot/PDF proof in `release-ai-proof-drop`).
+
+### Step 3 (`3. AUDIO` — `Tracks & audio`)
+* Each track card (`data-testid="release-track-0"`, `release-track-1`, ...) contains:
+  * **`Track title *` (`data-testid="release-track-title-0"`):** DistributeMusic.ai uses a single `Track title *` input box (their backend DDEX ERN 4.3 builder parses parenthetical version suffixes like `(Cosmic Tidal Lock Mix)` into `<SubTitle>` for Apple Music, or you can use the clean `Name` if `Remastered` is set at the album level).
+  * **`Explicit content` Toggle (`data-testid="release-track-explicit-0"`):** `OFF` (`unchecked`)
+  * **Track ISRC Field:** Appears inside each track card when `Previously distributed` is toggled `ON` in Step 2.
+  * **Audio Dropzone (`data-testid="release-track-drop-0"`):** Accepts `.wav` master files from `vault/wav/`.
+
+### Step 4 (`4. COVER ART` — `data-testid="release-step-artwork"`)
+* **Cover Art Dropzone (`data-testid="release-cover-drop"`):** Upload our pre-scaled `3000×3000` `streaming-services/album-art/album-art.jpg` (ignore their `Generate with AI` button).
+
+### Step 5 (`5. PLATFORMS` — `data-testid="release-step-platforms"`)
+1. **Release Timing (`data-testid="release-schedule-block"`):**
+   * **`ASAP (fastest)` (`data-testid="release-delivery-asap"`):** Distributes immediately after QC approval (2–4 days).
+   * **`On a specific date` (`data-testid="release-delivery-scheduled"`):** Choose specific release date.
+2. **Streaming Stores (`22 of 22 DSPs selected` — `data-testid="release-step-platforms-dsps"`):**
+   * Keep all **22 Streaming Stores** (`Spotify`, `Apple Music`, `YouTube Music`, `Amazon Music`, `Tidal`, `Deezer`, `Pandora`, `SoundCloud`, `Anghami`, `Boomplay`, `Napster`, `Qobuz`, `iHeartRadio`, `Audiomack`, `KKBOX`, `JOOX`, `LINE Music`, `JioSaavn`, `Gaana`, `Wynk Music`, `Claro Música`, `Yandex Music`) **SELECTED**.
+3. **⚠️ CRITICAL — `UGC & Content ID` Section (PRE-CHECKED BY DEFAULT!):**
+   * By default, DistributeMusic.ai pre-checks all **6 `UGC & Content ID` tiles** at the bottom of Step 5:
+     * `TikTok` (`Content ID + UGC` — `data-testid="release-ugc-tiktok"`)
+     * `Instagram / Facebook Reels` (`Meta Music Library` — `data-testid="release-ugc-instagram_reels"`)
+     * `YouTube Shorts + Content ID` (`UGC + monetization` — `data-testid="release-ugc-youtube_shorts"`)
+     * `Snapchat Sounds` (`UGC sound library` — `data-testid="release-ugc-snapchat"`)
+     * `Triller` (`UGC + Content ID` — `data-testid="release-ugc-triller"`)
+     * `Resso` (`ByteDance UGC` — `data-testid="release-ugc-resso"`)
+   * **MUST UNCHECK / DESELECT ALL 6 `UGC & Content ID` TILES** on Step 5 before clicking Next so our **Zero Content-ID Ambush Guarantee** (`CC BY-SA 4.0` + `Direct Commercial Sync License`) is honored!
+
+### Step 6 (`6. REVIEW` — `data-testid="release-review-step"`)
+* Verify summary shows **`22 of 22 DSPs · 0 UGC platforms`** (confirming Content ID is off), check `Distribution Agreement` (`data-testid="release-agreement-checkbox"`), and click **`Submit for QC`** (`data-testid="release-submit-btn"`).
+
+
+
+
 

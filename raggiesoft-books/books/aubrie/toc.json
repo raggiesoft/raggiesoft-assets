@@ -6,16 +6,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "51.5 MB",
-        "pdf": "37.9 MB",
-        "text_epub": "915 KB",
+        "epub": "55 MB",
+        "pdf": "41.5 MB",
+        "text_epub": "922 KB",
         "text_pdf": "3.4 MB",
-        "epub_bytes": 54003342,
-        "pdf_bytes": 39766392,
-        "text_epub_bytes": 936557,
-        "text_pdf_bytes": 3585391
+        "epub_bytes": 57695702,
+        "pdf_bytes": 43488526,
+        "text_epub_bytes": 943832,
+        "text_pdf_bytes": 3607894
     },
-    "illustration_count": 48,
+    "illustration_count": 52,
     "eras": [
         {
             "era_num": 1,
@@ -2430,22 +2430,31 @@
             "era_num": 8,
             "era_title": "Summer 2016",
             "era_url": "/raggiesoft-books/books/aubrie/summer-2016",
-            "illustration_count": 0,
+            "illustration_count": 4,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The U.S. 11 Compound & The Sunken Sanctuary",
                     "chap_url": "/raggiesoft-books/books/aubrie/summer-2016/the-u-s-11-compound-the-sunken-sanctuary",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The U.S. 11 Compound & The Sunken Sanctuary",
+                            "part_title": "The U.S. 11 Compound, The Sunken Sanctuary, & The Wedding Blueprint",
                             "file_path": "e008/c001/p001.md",
-                            "url": "/aubrie/summer-2016/the-u-s-11-compound-the-sunken-sanctuary/the-u-s-11-compound-the-sunken-sanctuary",
+                            "url": "/aubrie/summer-2016/the-u-s-11-compound-the-sunken-sanctuary/the-u-s-11-compound-the-sunken-sanctuary-the-wedding-blueprint",
                             "date": "2016-07-01",
                             "start_time": "11:00",
-                            "location": "The Kelly-Anderson-Brooks Compound, U.S. Route 11, Christiansburg/Blacksburg Corridor, VA"
+                            "location": "The Kelly-Cooper-Brooks Compound, U.S. Route 11, Christiansburg/Blacksburg Corridor, VA",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e008/c001/p001/sunken-sanctuary-commissioning.jpg",
+                            "image_alt": "Inside the sunlit custom-built West Wing master bedroom of the U.S. Route 11 Compound on July 1, 2016, Jordan Fuller sits happily near the center of the recessed fifteen-foot-by-fifteen-foot Sunken Sanctuary mattress holding his mPad at zero elevation delta from his parked titanium Vanguard Pro wheelchair, surrounded on the velvet-bolstered mattress by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks (holding her cyan 3D CAD wireframe tablet), Megan Brooks, Isabel Dawson, Lauren Barnes, Sarah Braithwaite, and Jessica Gallagher, while Daniel Brooks stands on the flush hardwood transfer deck holding the Montgomery County Circuit Court docket folder beside Laura Brooks, Mark Cooper, and Hannah Morales.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e008/c001/p001/sunken-sanctuary-commissioning.jpg",
+                                    "alt": "Inside the sunlit custom-built West Wing master bedroom of the U.S. Route 11 Compound on July 1, 2016, Jordan Fuller sits happily near the center of the recessed fifteen-foot-by-fifteen-foot Sunken Sanctuary mattress holding his mPad at zero elevation delta from his parked titanium Vanguard Pro wheelchair, surrounded on the velvet-bolstered mattress by Aubrie Jean Kelly, Madison Scott, Zo\u00eb Wren Brooks (holding her cyan 3D CAD wireframe tablet), Megan Brooks, Isabel Dawson, Lauren Barnes, Sarah Braithwaite, and Jessica Gallagher, while Daniel Brooks stands on the flush hardwood transfer deck holding the Montgomery County Circuit Court docket folder beside Laura Brooks, Mark Cooper, and Hannah Morales."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -2453,16 +2462,29 @@
                     "chap_num": 2,
                     "chap_title": "The Double Wedding & The Legal Seal",
                     "chap_url": "/raggiesoft-books/books/aubrie/summer-2016/the-double-wedding-the-legal-seal",
-                    "illustration_count": 0,
+                    "illustration_count": 3,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Morning Of, The Gathering, & The Vows",
+                            "part_title": "Part 1: The Morning Of, The Final Touches, The Gathering, & The Vows",
                             "file_path": "e008/c002/p001.md",
-                            "url": "/aubrie/summer-2016/the-double-wedding-the-legal-seal/part-1-the-morning-of-the-gathering-the-vows",
+                            "url": "/aubrie/summer-2016/the-double-wedding-the-legal-seal/part-1-the-morning-of-the-final-touches-the-gathering-the-vows",
                             "date": "2016-07-16",
-                            "start_time": "07:30",
-                            "location": "The U.S. 11 Compound to Old Town Ballroom & Conservatory, Christiansburg, VA"
+                            "start_time": "07:00",
+                            "location": "The U.S. 11 Compound to Old Town Ballroom & Conservatory, Christiansburg, VA",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e008/c002/p001/double-wedding-conservatory-vows.jpg",
+                            "image_alt": "Inside the sunlit glass-and-limestone atrium of the Old Town Ballroom & Conservatory in downtown Christiansburg on July 16, 2016, Jordan Fuller sits tall in his Vanguard Pro wheelchair wearing a custom charcoal three-piece suit, midnight-blue silk tie, and white rose boutonniere with his mPad mounted at his side, exchanging eye-level vows with his bride Aubrie Jean Kelly as she kneels gracefully on a plush velvet cushion holding both of his hands, while his brother Mark Cooper stands right beside him in a matching charcoal suit and emerald tie resting a proud hand on Jordan's shoulder alongside his bride Hannah Morales in her ivory lace gown.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e008/c002/p001/double-wedding-conservatory-vows.jpg",
+                                    "alt": "Inside the sunlit glass-and-limestone atrium of the Old Town Ballroom & Conservatory in downtown Christiansburg on July 16, 2016, Jordan Fuller sits tall in his Vanguard Pro wheelchair wearing a custom charcoal three-piece suit, midnight-blue silk tie, and white rose boutonniere with his mPad mounted at his side, exchanging eye-level vows with his bride Aubrie Jean Kelly as she kneels gracefully on a plush velvet cushion holding both of his hands, while his brother Mark Cooper stands right beside him in a matching charcoal suit and emerald tie resting a proud hand on Jordan's shoulder alongside his bride Hannah Morales in her ivory lace gown."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e008/c002/p001/wedding-final-touches-all-hands-setup.jpg",
+                                    "alt": "Inside the sunlit conservatory atrium of the Old Town Ballroom thirty minutes before doors open, Zo\u00eb coordinates the venue setup with her tablet while Hannah tests a gold pen on the guest book beside the \"Choose a seat, not a side. We're all family here\" sign, Lauren and Megan arrange and photograph the centerpieces, and Jordan watches happily from his wheelchair."
+                                }
+                            ],
+                            "image_count": 2
                         },
                         {
                             "part_num": 2,
@@ -2471,7 +2493,16 @@
                             "url": "/aubrie/summer-2016/the-double-wedding-the-legal-seal/part-2-the-legal-seal-the-reception-the-first-night",
                             "date": "2016-07-16",
                             "start_time": "14:45",
-                            "location": "Montgomery County Courthouse, Old Town Ballroom, & The Sunken Sanctuary (U.S. 11), VA"
+                            "location": "Montgomery County Courthouse, Old Town Ballroom, & The Sunken Sanctuary (U.S. 11), VA",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e008/c002/p002/chamber-b-jordan-shawn-kelly-seal.jpg",
+                            "image_alt": "Inside sunlit wood-paneled Chamber B of the Montgomery County Courthouse in Christiansburg on July 16, 2016, newlywed Jordan Shawn Kelly sits upright in his Vanguard Pro wheelchair in his charcoal three-piece suit and midnight-blue tie, signing his new legal name 'Jordan Shawn Kelly' with a fountain pen onto the Virginia Marriage Register beside his gold-sealed Final Order for Change of Name, while his bride Aubrie Jean Kelly rests her hand on his shoulder, Mark and Hannah Cooper and attorney Daniel Brooks beam beside them, and Judge Warren T. Aldridge smiles from the judicial bench.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e008/c002/p002/chamber-b-jordan-shawn-kelly-seal.jpg",
+                                    "alt": "Inside sunlit wood-paneled Chamber B of the Montgomery County Courthouse in Christiansburg on July 16, 2016, newlywed Jordan Shawn Kelly sits upright in his Vanguard Pro wheelchair in his charcoal three-piece suit and midnight-blue tie, signing his new legal name 'Jordan Shawn Kelly' with a fountain pen onto the Virginia Marriage Register beside his gold-sealed Final Order for Change of Name, while his bride Aubrie Jean Kelly rests her hand on his shoulder, Mark and Hannah Cooper and attorney Daniel Brooks beam beside them, and Judge Warren T. Aldridge smiles from the judicial bench."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
