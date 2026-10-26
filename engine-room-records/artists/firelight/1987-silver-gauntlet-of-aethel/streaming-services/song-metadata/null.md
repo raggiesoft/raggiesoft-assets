@@ -1,9 +1,9 @@
-# Starlight Love (End Credits) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
+# A Sister's Love (Main Theme) - DistroKid & DistributeMusic.ai Quick-Copy Sheet
 
 ## 1. Distributor Upload Form Data
-* **Track Title (Name):** Starlight Love (End Credits)
+* **Track Title (Name):** A Sister's Love (Main Theme)
 * **Version:** None (Leave Blank on DSP)
-* **ID3 / Vorbis Tagged Title:** Starlight Love (End Credits)
+* **ID3 / Vorbis Tagged Title:** A Sister's Love (Main Theme)
 * **Primary Artist:** Firelight
 * **Genre:** 80s Pop / Soundtrack
 * **Real-World DSP Release Date:** 2026-04-02

@@ -1,6 +1,6 @@
 
 # Crimson Node - Master Discography & Lore
-Compiled on: 10-26-2026 10:57:49 AM
+Compiled on: 10-26-2026 12:09:44 PM
 
 # Crimson Node (2002)
 * **Narrative Era:** 2002
@@ -826,8 +826,84 @@ We are the system.
 (The massive snare drum hits one last time as the sweeping synthesizers slowly fade out)
 [End]
 ## The Ejection: Honey Chicken
-*(Instrumental / Structure-Only Track)*
+### Lore
+"The Ejection: Honey Chicken" is a fierce, driving punk-rock anthem that memorializes one of the most legendary events in the Kids House: the flawless, clinical ejection of Chloe’s exhausting lacrosse-bro boyfriend, Trent. On a Friday night in 1999, Trent's insecure, neurotypical brain completely short-circuited when he misinterpreted a platonic, two-person clinical leverage lift (executed by Chloe and Emily to remove Matt's shirt after a piece of sticky honey chicken fell on it) as inappropriate intimacy. When Trent shouted about boundaries and invaded the workspace, the family's "automated security system" engaged instantly. Sarah bulldozed him with her bodybuilder frame, Rachel and Jessica unleashed a verbal symphony of destruction, and the Huskies joined the riot line to march him out the front door. The track captures this triumphant, drama-free ejection with pure 1980s rebellious attitude, intentionally scrubbing the actual naval profanity from the lyrics to keep the digital censors happy.
 
+### Lyrics
+
+[Intro]
+(Heavy, pounding drum beat and a driving, distorted punk-rock guitar riff. Pure rebellious 1980s attitude.)
+
+[Verse 1]
+[Vocal: defiant, bratty, aggressive]
+He walked into the room with a pastel yellow shirt
+Popped the collar up, trying to treat us like the dirt
+Sitting on the couch while the movie hit the screen
+Trying to act macho in a clinical machine
+But the VIP is eating and ignoring all the noise
+We don't have the time for the fragile little boys!
+
+[Pre-Chorus]
+A piece of sticky chicken takes a tumble to the floor
+We initiate the leverage like a hundred times before
+We lock the lower anchor and we elevate the chest
+But the country club intruder couldn't handle the test!
+
+[Chorus]
+(Massive, fist-pumping hard rock chorus)
+You thought you had the power, but you stepped across the line!
+We are taking back the space, and we are taking back our time!
+You invaded the perimeter, you misunderstood the frame!
+Now the automated system is deleting your name!
+Hit the pavement! We are locking the door!
+We don't need your reputation around here anymore!
+
+[Verse 2]
+He started shouting boundaries, trying to make a stand
+So the Heavy Crane rises and she takes absolute command
+The Navy cousin fires off a verbal symphony
+While the youngest delivers the ultimate final decree!
+The Husky riot squad is barking right at his feet!
+And we march the intruder right out onto the street!
+
+[Pre-Chorus]
+A piece of sticky chicken takes a tumble to the floor
+We initiate the leverage like a hundred times before
+We lock the lower anchor and we elevate the chest
+But the country club intruder couldn't handle the test!
+
+[Chorus]
+You thought you had the power, but you stepped across the line!
+We are taking back the space, and we are taking back our time!
+You invaded the perimeter, you misunderstood the frame!
+Now the automated system is deleting your name!
+Hit the pavement! We are locking the door!
+We don't need your reputation around here anymore!
+
+[Bridge]
+(Stomping drum beat with a heavy, rhythmic bassline)
+The deadbolt clicks! The system is clean!
+The most efficient ejection that you've ever seen!
+No tears, no drama, we just laugh and reboot!
+And finish up the transfer in a single tactical swoop!
+
+[Guitar Solo]
+(A blistering, high-energy, distorted 1980s punk-rock guitar solo)
+
+[Chorus]
+You thought you had the power, but you stepped across the line!
+We are taking back the space, and we are taking back our time!
+You invaded the perimeter, you misunderstood the frame!
+Now the automated system is deleting your name!
+Hit the pavement! We are locking the door!
+We don't need your reputation around here anymore!
+
+[Outro]
+System rebooted.
+Virus deleted.
+Hit the pavement!
+(A final, aggressive power chord and a crashing cymbal hit)
+[End]
 ## The Vivarium
 ### Lore
 "The Vivarium" is a quirky, atmospheric 1980s worldbeat art-pop track dedicated to the sweltering, simulated jungle ecosystem of Bedroom 5. The song celebrates the bizarre mechanics of the room—from the acrylic highway for isopods to the nightly acoustic drywall war between Admiral the highly territorial Tokay Gecko and Echo the Husky (represented in the outro by a theatrical, howling vocal ad-lib). Crucially, the chorus acts as a defiant celebration of Matt's absolute, non-negotiable phobia of snakes, weaponizing the Adults House homeowners insurance policy as a bureaucratic shield to keep the sanctuary permanently serpent-free. Acoustically, the track features a prominent, breathy "flute" melody. Because Chloe was still focused on her collegiate research and hadn't yet brought her premium conservatory flute down to the garage, this sound is actually Jessica playing a synthetic patch on her analog keyboards—a brilliant sonic placeholder that perfectly sets the stage for Chloe's triumphant musical integration on the band's sophomore album.

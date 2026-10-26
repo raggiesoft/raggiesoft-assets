@@ -119,42 +119,47 @@
 * **Version:** Corporate Demo
 * **ID3 / Vorbis Tagged Title:** `The Promise (Corporate Demo)`
 * **ISRC:** QZTBA2678359
-* **Duration:** 3:48 • **Instrumental:** Yes • **Explicit:** No
+* **Duration:** 3:48 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-09-the-promise-corporate-demo.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-10-the-promise-corporate-demo.wav` (✅ Ready)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/1-10-the-promise-corporate-demo.txt`
 
 11. The Promise
 * **Name:** The Promise
 * **Version:** Sabotage Demo
 * **ID3 / Vorbis Tagged Title:** `The Promise (Sabotage Demo)`
 * **ISRC:** QZTBA2678360
-* **Duration:** 3:38 • **Instrumental:** Yes • **Explicit:** No
+* **Duration:** 3:38 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-10-the-promise-sabotage-demo.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-11-the-promise-sabotage-demo.wav` (✅ Ready)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/1-11-the-promise-sabotage-demo.txt`
 
 12. Atmosphere
 * **Name:** Atmosphere
 * **Version:** Warehouse Demo
 * **ID3 / Vorbis Tagged Title:** `Atmosphere (Warehouse Demo)`
 * **ISRC:** QZTB62697618
-* **Duration:** 5:01 • **Instrumental:** Yes • **Explicit:** No
+* **Duration:** 5:01 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-11-atmosphere-warehouse-demo.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-12-atmosphere-warehouse-demo.wav` (✅ Ready)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/1-12-atmosphere-warehouse-demo.txt`
 
 13. Sanctuary in the Storm
 * **Name:** Sanctuary in the Storm
 * **Version:** None (Leave Blank on DSP)
 * **ID3 / Vorbis Tagged Title:** `Sanctuary in the Storm`
 * **ISRC:** QTA7V2642610
-* **Duration:** 5:19 • **Instrumental:** Yes • **Explicit:** No
+* **Duration:** 5:19 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-12-sanctuary-in-the-storm.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-13-sanctuary-in-the-storm.wav` (✅ Ready)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/1-13-sanctuary-in-the-storm.txt`
 
 14. Not Her
 * **Name:** Not Her
 * **Version:** None (Leave Blank on DSP)
 * **ID3 / Vorbis Tagged Title:** `Not Her`
 * **ISRC:** QTA7V2642611
-* **Duration:** 4:24 • **Instrumental:** Yes • **Explicit:** No
+* **Duration:** 4:24 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-13-not-her.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-14-not-her.wav` (✅ Ready)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/1-14-not-her.txt`

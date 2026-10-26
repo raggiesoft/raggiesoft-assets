@@ -105,7 +105,7 @@
       "loreNote": "A brand new track recorded specifically for the 2007 *Lost Sounds* compilation, intentionally designed to simulate the stripped-down, acoustic music Ryan and Cassidy were making together back in 1985 (before their cousins Evan and Tyler joined to form The Stardust Engine). After digging through years of painful, heavily-manufactured Apex Records history, they wanted to close the album by returning to their roots. Written and recorded in a single afternoon with just an acoustic guitar and a piano, \"Our Own Frequency\" is a triumphant, intimate declaration of their bond as brother and sister. It is the exact kind of acoustic scratch track they always wanted to make, completely free of label interference."
     },
     {
-      "fileName": "1-09-the-promise-corporate-demo",
+      "fileName": "1-10-the-promise-corporate-demo",
       "title": "The Promise",
       "version": "Corporate Demo",
       "masterWavPath": "demos/the-promise-corporate-demo",
@@ -116,7 +116,7 @@
       "isrc": "QZTBA2678359"
     },
     {
-      "fileName": "1-10-the-promise-sabotage-demo",
+      "fileName": "1-11-the-promise-sabotage-demo",
       "title": "The Promise",
       "version": "Sabotage Demo",
       "masterWavPath": "demos/the-promise-sabotage-demo",
@@ -127,7 +127,7 @@
       "isrc": "QZTBA2678360"
     },
     {
-      "fileName": "1-11-atmosphere-warehouse-demo",
+      "fileName": "1-12-atmosphere-warehouse-demo",
       "title": "Atmosphere",
       "version": "Warehouse Demo",
       "masterWavPath": "demos/atmosphere-warehouse-demo",
@@ -139,7 +139,7 @@
       "loreNote": "Recorded in September 1992 for the canceled *Friction* album, this early rough cut sounds distinctly like an early-1990s demo—and the band was never happy with it. Four years after including this raw archival cut on *Lost Sounds*, Cassidy and Ryan finally recorded the definitive, finalized studio version of *\"Atmosphere\"* on 2011's *Starfield Calibration*, using **The Cosmic Tidal Lock Sound™** to bring the song back to the 1980s sound they loved so much."
     },
     {
-      "fileName": "1-12-sanctuary-in-the-storm",
+      "fileName": "1-13-sanctuary-in-the-storm",
       "title": "Sanctuary in the Storm",
       "masterWavPath": "outtakes/sanctuary-in-the-storm",
       "disc": 1,
@@ -149,7 +149,7 @@
       "isrc": "QTA7V2642610"
     },
     {
-      "fileName": "1-13-not-her",
+      "fileName": "1-14-not-her",
       "title": "Not Her",
       "masterWavPath": "outtakes/not-her",
       "disc": 1,

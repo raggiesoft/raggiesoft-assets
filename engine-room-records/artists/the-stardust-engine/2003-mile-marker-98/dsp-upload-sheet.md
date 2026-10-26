@@ -49,9 +49,10 @@
 * **Version:** None (Leave Blank on DSP)
 * **ID3 / Vorbis Tagged Title:** `Impact`
 * **ISRC:** QT6HM2673710
-* **Duration:** 4:49 • **Instrumental:** Yes • **Explicit:** No
+* **Duration:** 4:49 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-03-impact.wav` (✅ Ready)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-impact.txt`
 
 4. Mayday: The Intercept
 * **Name:** Mayday: The Intercept
@@ -118,6 +119,7 @@
 * **Version:** None (Leave Blank on DSP)
 * **ID3 / Vorbis Tagged Title:** `Twin Moons: Touchdown`
 * **ISRC:** QT6HM2673717
-* **Duration:** 5:25 • **Instrumental:** Yes • **Explicit:** No
+* **Duration:** 5:25 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-10-twin-moons-touchdown.wav` (✅ Ready)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/1-10-twin-moons-touchdown.txt`

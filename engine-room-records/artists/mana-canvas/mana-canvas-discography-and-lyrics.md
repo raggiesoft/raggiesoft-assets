@@ -1,6 +1,6 @@
 
 # Mana Canvas - Master Discography & Lore
-Compiled on: 10-26-2026 10:57:30 AM
+Compiled on: 10-26-2026 12:09:23 PM
 
 # Runebreaker (1992)
 * **Narrative Era:** 1992

@@ -139,9 +139,10 @@
 * **Version:** None (Leave Blank on DSP)
 * **ID3 / Vorbis Tagged Title:** `The Ejection: Honey Chicken`
 * **ISRC:** QT6J52643497
-* **Duration:** 4:18 • **Instrumental:** Yes • **Explicit:** No
+* **Duration:** 4:18 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/crimson-node/2002-crimson-node/vault/wav/1-12-the-ejection-honey-chicken.wav` (✅ Ready)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/1-12-the-ejection-honey-chicken.txt`
 
 13. The Vivarium
 * **Name:** The Vivarium
