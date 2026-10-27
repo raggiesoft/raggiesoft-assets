@@ -5,7 +5,7 @@
 * **Version:** None (Leave Blank on DSP)
 * **ID3 / Vorbis Tagged Title:** Ignition: The Forger's Call
 * **Primary Artist:** The Stardust Engine
-* **Genre:** 1980s Stadium Hard Rock / 1986 Archival Garage Demo / Collegiate Football Anthem
+* **Genre:** 1980s Stadium Hard Rock / Melodic AOR / 1986–2016 CPI & Blacksburg Archival Anthology
 * **Real-World DSP Release Date:** 2026-10-26
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTAHP2600044
 

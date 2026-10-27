@@ -1108,7 +1108,7 @@
 * ISRC: QTAHP2600027
 
 ---
-## Lost Sounds (2007) — Studio Album
+## Lost Sounds (2007) — Compilation / Anthology
 * **Album Folder:** `2007-lost-sounds` • **UPC:** `700521345184` • **Genre:** `80s Rock, B-Sides, Rarities`
 
 1. The Stardust Engine
@@ -1615,7 +1615,7 @@
 
 ---
 ## The Forger's Call (2016) — Compilation / Anthology
-* **Album Folder:** `2016-the-forgers-call` • **UPC:** `None` • **Genre:** `1980s Stadium Hard Rock / 1986 Archival Garage Demo / Collegiate Football Anthem`
+* **Album Folder:** `2016-the-forgers-call` • **UPC:** `None` • **Genre:** `1980s Stadium Hard Rock / Melodic AOR / 1986–2016 CPI & Blacksburg Archival Anthology`
 
 1. Ignition: The Forger's Call
 * Name: Ignition: The Forger's Call
@@ -1623,7 +1623,91 @@
 * ID3 / Vorbis Tag: Ignition: The Forger's Call
 * ISRC: QTAHP2600044
 
-2. Ignition: The Forger's Call
+2. This Side of Heaven
+* Name: This Side of Heaven
+* Version: 1988 Blacksburg Campus Cut
+* ID3 / Vorbis Tag: This Side of Heaven (1988 Blacksburg Campus Cut)
+* ISRC: QTAHP2600028
+
+3. Kerosene & 4-Track Tape
+* Name: Kerosene & 4-Track Tape
+* Version: 1986 Garage Outtake
+* ID3 / Vorbis Tag: Kerosene & 4-Track Tape (1986 Garage Outtake)
+* ISRC: QTAHP2600029
+
+4. The Anvil: 126.2 Decibels
+* Name: The Anvil: 126.2 Decibels
+* Version: 1989 Seismograph Instrumental
+* ID3 / Vorbis Tag: The Anvil: 126.2 Decibels (1989 Seismograph Instrumental)
+* ISRC: QTAHP2600030
+
+5. Snowfall on Commonwealth Green
+* Name: Snowfall on Commonwealth Green
+* Version: 1990 Winter Acoustic Session
+* ID3 / Vorbis Tag: Snowfall on Commonwealth Green (1990 Winter Acoustic Session)
+* ISRC: QTAHP2600031
+
+6. Under the Keystone Bridge
+* Name: Under the Keystone Bridge
+* Version: 1991 Blacksburg B-Side
+* ID3 / Vorbis Tag: Under the Keystone Bridge (1991 Blacksburg B-Side)
+* ISRC: QTAHP2600032
+
+7. One Dollar on the Kitchen Table
+* Name: One Dollar on the Kitchen Table
+* Version: 1992 Founding Jam
+* ID3 / Vorbis Tag: One Dollar on the Kitchen Table (1992 Founding Jam)
+* ISRC: QTAHP2600033
+
+8. Copernicus Hall: Roof of the World
+* Name: Copernicus Hall: Roof of the World
+* Version: 1994 Observatory Instrumental
+* ID3 / Vorbis Tag: Copernicus Hall: Roof of the World (1994 Observatory Instrumental)
+* ISRC: QTAHP2600034
+
+9. Foundry Maroon & Molten Orange
+* Name: Foundry Maroon & Molten Orange
+* Version: 1996 Homecoming Single
+* ID3 / Vorbis Tag: Foundry Maroon & Molten Orange (1996 Homecoming Single)
+* ISRC: QTAHP2600035
+
+10. The Old Lady on the Hill
+* Name: The Old Lady on the Hill
+* Version: 1998 Bennett Hall Acoustic Cut
+* ID3 / Vorbis Tag: The Old Lady on the Hill (1998 Bennett Hall Acoustic Cut)
+* ISRC: QTAHP2600036
+
+11. Cadence in The Furnace
+* Name: Cadence in The Furnace
+* Version: 2000 Drumline & Guitar Studio Cut
+* ID3 / Vorbis Tag: Cadence in The Furnace (2000 Drumline & Guitar Studio Cut)
+* ISRC: QTAHP2600037
+
+12. Ironstone & Starlight
+* Name: Ironstone & Starlight
+* Version: 2004 Progress Street Outtake
+* ID3 / Vorbis Tag: Ironstone & Starlight (2004 Progress Street Outtake)
+* ISRC: QTAHP2600038
+
+13. Walk-On: Tunnel to the Crucible
+* Name: Walk-On: Tunnel to the Crucible
+* Version: 2006 Athletics Vault Cut
+* ID3 / Vorbis Tag: Walk-On: Tunnel to the Crucible (2006 Athletics Vault Cut)
+* ISRC: QTAHP2600039
+
+14. Living Room Reignition
+* Name: Living Room Reignition
+* Version: 2012 Progress Street Tape
+* ID3 / Vorbis Tag: Living Room Reignition (2012 Progress Street Tape)
+* ISRC: QTAHP2600040
+
+15. Ad Astra, Per Aspera: Hymn for the Crucible
+* Name: Ad Astra, Per Aspera: Hymn for the Crucible
+* Version: 2016 Brass & Band Studio Master
+* ID3 / Vorbis Tag: Ad Astra, Per Aspera: Hymn for the Crucible (2016 Brass & Band Studio Master)
+* ISRC: QTAHP2600041
+
+16. Ignition: The Forger's Call
 * Name: Ignition: The Forger's Call
 * Version: Demo Take 3
 * ID3 / Vorbis Tag: Ignition: The Forger's Call (Demo Take 3)

@@ -7,7 +7,7 @@
 ### Album-Level Upload Settings
 * **Artist / Band Name:** `The Stardust Engine`
 * **Album Title:** `Lost Sounds`
-* **Release Type:** `Studio Album` (`StudioAlbum`)
+* **Release Type:** `Compilation / Anthology` (`CompilationAlbum`)
 * **Total Tracks:** `14` (`14` WAV Masters Ready / `0` In Studio)
 * **Record Label:** `Engine Room Records`
 * **Primary Genre:** `80s Rock, B-Sides, Rarities`
