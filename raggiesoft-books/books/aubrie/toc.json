@@ -6,16 +6,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "60.8 MB",
-        "pdf": "48.2 MB",
-        "text_epub": "942 KB",
+        "epub": "61.7 MB",
+        "pdf": "49 MB",
+        "text_epub": "943 KB",
         "text_pdf": "3.5 MB",
-        "epub_bytes": 63767119,
-        "pdf_bytes": 50495502,
-        "text_epub_bytes": 965045,
-        "text_pdf_bytes": 3679984
+        "epub_bytes": 64649109,
+        "pdf_bytes": 51409040,
+        "text_epub_bytes": 965203,
+        "text_pdf_bytes": 3680887
     },
-    "illustration_count": 59,
+    "illustration_count": 60,
     "eras": [
         {
             "era_num": 1,
@@ -2260,7 +2260,7 @@
             "era_num": 7,
             "era_title": "Spring Semester 2016",
             "era_url": "/raggiesoft-books/books/aubrie/spring-semester-2016",
-            "illustration_count": 12,
+            "illustration_count": 13,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2326,7 +2326,7 @@
                     "chap_num": 4,
                     "chap_title": "Live at the Crucible & Senior Commencement",
                     "chap_url": "/raggiesoft-books/books/aubrie/spring-semester-2016/live-at-the-crucible-senior-commencement",
-                    "illustration_count": 12,
+                    "illustration_count": 13,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2432,11 +2432,15 @@
                                     "alt": "Under two solitary warm golden spotlights at center stage inside the darkened 65,000-seat bowl of The Crucible, Ryan O'Connell sits in his manual wheelchair fingerpicking an acoustic guitar beside his sister Cassidy O'Connell at a gleaming black grand piano during 'Brother's Keeper', while the curved stage screen behind them displays 'THE FORGER NATION SUMMER FESTIVAL \u2022 AUGUST 2017' and thousands of fans hold up quiet white lights across the stands."
                                 },
                                 {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/neon-on-the-huckleberry-trail-crucible.jpg",
+                                    "alt": "Inside The Crucible during 'Neon on the Huckleberry Trail', a 120-foot curved LED screen projects an autumn sunset over the paved Huckleberry Trail ('HUCKLEBERRY TRAIL \u2022 1904\u20131958') while Ryan O'Connell strums his 12-string electric guitar from his manual wheelchair and Cassidy O'Connell steps back from her microphone with her hand over her heart; in the foreground stands, an 80-year-old 1956 CPI alumnus wipes a nostalgic tear, CPI students in maroon and burnt-orange hoodies sing around a beaming Jordan Fuller in his wheelchair, and a bewildered out-of-towner in a blue polo looks around in amazement."
+                                },
+                                {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/my-anchor-holds-section-104.jpg",
                                     "alt": "During the romantic 1987 piano ballad 'My Anchor Holds' inside The Crucible bathed in warm candlelight gold and starlight white, Jordan Fuller sits peacefully in his wheelchair at the Section 104, Row A railing while Aubrie Jean Kelly wraps her arms warmly around his shoulders beside Madison Scott, Zo\u00eb Wren Brooks, and Mark Anderson."
                                 }
                             ],
-                            "image_count": 2
+                            "image_count": 3
                         },
                         {
                             "part_num": 6,
