@@ -1092,104 +1092,109 @@ studio flat mix, dry vocals, modern pop, hip hop, rap, bro-country, heavy metal,
 #### Lyrics (Copy-Paste into Suno)
 ```text
 [Roaring 65000 Person Stadium Crowd Cheers]
-[Shimmering 12-String Guitar and Warm Analog Synth Pad]
+[Shimmering 12-String Chorus Electric Guitar Arpeggios and Warm Analog Synth Bells]
 
 [Spoken Word Intro]
-[female]
-Every single Forger in this stadium knows that paved path winding through the trees between Blacksburg and Christiansburg!
 [male]
-For ten years while we were away from the stages, that old rail trail was where we went every evening at sundown—rolling my chair under the oak trees while the stadium lights of The Crucible lit up the sky over the valley! Sing this one with us, Forger Nation!
+When we're home in Blacksburg and the sun starts going down behind the mountains, there's one place the four of us always go—six miles of paved rail-trail between here and Christiansburg, with The Crucible tower lights glowing like neon in the evening sky!
+[female]
+Now, if you're visiting from out of town tonight, you might not know what the Huckleberry is all about—but if you're from Blacksburg or Christiansburg, or if you're a Forger who's walked that path from the library lawn—or if you're old-school enough to remember the actual Huckleberry Train—this one belongs to you!
 
 [Intro]
-(Shimmering 12-string electric guitar arpeggio and warm analog polyphonic synth pad, joined by Tyler's driving live stadium beat)
+(Shimmering 1980s chorused 12-string electric guitar arpeggios and warm polyphonic analog synthesizer bells at 124 BPM)
+(Breezy eighth-note bassline and crisp gated-reverb stadium drums enter as the local crowd roars in instant recognition)
 
 [Verse 1]
 [female]
-The sun goes down behind the western ridge
-Golden hour fading by the wooden bridge
-Six miles of asphalt winding through the trees
-Where the old coal trains used to catch the breeze
-[male]
-I oil the bearings on my racing wheels
-You lace your sneakers for the evening hills
-Evan and Tyler riding side by side
-No cameras watching on the mountain ride
+October five-thirty and the air turns crisp
+Woodsmoke curling in a silver wisp
+Maples turning crimson by the old rail bed
+Canopy of burnt orange overhead
+You're pushing on your hand-rims at an easy pace
+With the mountain wind cooling off your face
+Six miles of asphalt from the library lawn
+Where the old Huckleberry train used to roll on
+(Massive cheer of nostalgic recognition from the older alumni and local sections across the stands)
 
 [Pre-Chorus]
 [female]
-Past the university and the pastures green
-The quietest peace that we have ever seen
-[male]
-And when the twilight turns to purple blue
-The stadium towers light the sky for you!
+No studio clocks and no city stress
+Just the valley dressed in its autumn dress
+Watch the sun dip low behind Price Mountain's crest
+In the quiet corner that we love the best!
 
 [Chorus]
-(Full stadium AOR band and 65000 fellow Forgers singing along in unison)
-Like neon on the Huckleberry Trail!
-Where the mountain wind fills up the silver sail!
-Just the four of us rolling through the autumn air
-With the Blue Ridge glowing like a quiet prayer!
-Where nobody asks for a piece of our soul
-And the mountain air makes the broken parts whole
-Under neon on the Huckleberry Trail!
+(Uplifting 1980s melodic synth-rock stadium chorus as 65000 Forgers spontaneously latch onto the melody and sing at the top of their lungs)
+Chasing the neon on the Huckleberry Trail!
+Where the twilight glows and the shadows sail!
+Spinning our wheels through the golden leaves
+Underneath a sky that still believes!
+See the stadium towers flicker on in the night
+Painting the valley in electric light!
+Every autumn evening tells the same old tale
+We're home together on the Huckleberry Trail!
 
 [Verse 2]
-[male]
-Students on bicycles ring a little bell
-Wave a quick hello and they never tell
-In this college town we're just neighborsagain
-Out for a breath at the day's gentle end
 [female]
-Fireflies rising from the meadow grass
-Watching the shadows of the valley pass
-This paved little ribbon on the railroad bed
-Cleared every ghost out of my tired head!
+Passing by the pastures where the cattle graze
+Wrapped inside the amber of the college days
+Students in their hoodies jogging two by two
+Nodding with a smile as we roll on through
+No autographs asked, just a neighbor's wave
+In the mountain sanctuary that our hometown gave
+Thirty years of music and we still belong
+To the winding path where we wrote this song!
 
 [Pre-Chorus]
 [female]
-Past the university and the pastures green
-The quietest peace that we have ever seen
-[male]
-And when the twilight turns to purple blue
-The stadium towers light the sky for you!
+No studio clocks and no city stress
+Just the valley dressed in its autumn dress
+Watch the stars come out above the mountain's crest
+In the quiet corner that we love the best!
 
-[Chorus]
-(65000 voices roaring the chorus across The Crucible)
-Like neon on the Huckleberry Trail!
-Where the mountain wind fills up the silver sail!
-Just the four of us rolling through the autumn air
-With the Blue Ridge glowing like a quiet prayer!
-Where nobody asks for a piece of our soul
-And the mountain air makes the broken parts whole
-Under neon on the Huckleberry Trail!
-
-[Guitar & Synth Solo]
-(Breezy, soaring 1980s heartland electric guitar lead harmonizing with a crystalline analog synthesizer melody over roaring stadium applause)
+[Chorus - The Audience Takeover]
+[female]
+(Spoken, overwhelmed) Take it, Forger Nation! It's yours!
+(65000-Voice Stadium Choir Carrying the Chorus)
+Chasing the neon on the Huckleberry Trail!
+Where the twilight glows and the shadows sail!
+Spinning our wheels through the golden leaves
+Underneath a sky that still believes!
+See the stadium towers flicker on in the night
+Painting the valley in electric light!
+Every autumn evening tells the same old tale
+We're home together on the Huckleberry Trail!
 
 [Bridge]
+(Warm analog synth pad and melodic bassline over 65000 rhythmic clapping hands)
 [female]
-From the library steps to the Christiansburg line
-Every mile marker is a friend of mine
+We've seen Tokyo towers and the London rain
+Paris boulevards and the coastal train
 [male]
-We spent ten summers healing in the shade
-Of the best decision that we ever made!
+But nothing on earth ever feels as sweet
+As the six-mile path leading back to Progress Street!
+
+[Guitar Solo]
+(An uplifting, breezy 1980s melodic 12-string and lead electric guitar solo by Ryan harmonizing with Cassidy's shimmering analog synth bells)
 
 [Final Chorus]
-(Maximum stadium singalong energy with 65000 Forgers)
-Like neon on the Huckleberry Trail!
-Where the mountain wind fills up the silver sail!
-Just the four of us rolling through the autumn air
-With the Blue Ridge glowing like a quiet prayer!
-Where nobody asks for a piece of our soul
-And the mountain air makes the broken parts whole
-Under neon on the Huckleberry Trail!
+(Full band and roaring 65000-person multi-generational CPI crowd singalong)
+Chasing the neon on the Huckleberry Trail!
+Where the twilight glows and the shadows sail!
+Spinning our wheels through the golden leaves
+Underneath a sky that still believes!
+See the stadium towers flicker on in the night
+Painting the valley in electric light!
+Every autumn evening tells the same old tale
+We're home together on the Huckleberry Trail!
 
 [Outro]
+(Shimmering chorus guitar and analog synth arpeggios resolve into a deafening hometown ovation)
 [female]
-Under neon on the Huckleberry Trail...
+Race you back to Progress Street!
 [male]
-Rolling home to Blacksburg...
-(Shimmering 12-string guitar chime and warm synth chord fading into a deafening 65000-person hometown ovation)
+You're on, Cass!
+(Roaring cheers from 65000 Forgers)
 ```
 
 ---
