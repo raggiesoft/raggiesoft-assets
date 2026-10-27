@@ -542,22 +542,22 @@
     {
         "slug": "stardust-engine",
         "title": "The Stardust Engine",
-        "description": "The official history, archives, and lore of The Stardust Engine.",
+        "description": "The thirty-year story of The Stardust Engine, told from lead guitarist Ryan O'Connell's third-person limited perspective\u2014from a 1986 student contest cassette on Progress Street in Blacksburg, through the 1990 Des Moines highway crash and the 1992 Friction trial, to the 2016 homecoming concert inside The Crucible.",
         "image": "/raggiesoft-books/images/covers/2x3/stardust-engine.jpg",
-        "first_route": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra/chapter-1-escape-velocity-ndash-1995/the-magnum-opus-ndash-12-00-pm",
+        "first_route": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1996-2005/chapter-1-escape-velocity-ad-astra-main-engine-cutoff-1995-1997/main-engine-cutoff-the-magnum-opus",
         "folder": "stardust-engine",
         "hide": false,
         "ebook_sizes": {
-            "epub": "9.4 KB",
-            "pdf": "25 KB",
-            "text_epub": "9.4 KB",
-            "text_pdf": "25 KB",
-            "epub_bytes": 9661,
-            "pdf_bytes": 25515,
-            "text_epub_bytes": 9662,
-            "text_pdf_bytes": 25515
+            "epub": "9.9 MB",
+            "pdf": "11 MB",
+            "text_epub": "36 KB",
+            "text_pdf": "125 KB",
+            "epub_bytes": 10375459,
+            "pdf_bytes": 11489777,
+            "text_epub_bytes": 36743,
+            "text_pdf_bytes": 128291
         },
-        "illustration_count": 0
+        "illustration_count": 12
     },
     {
         "slug": "water-planet",
