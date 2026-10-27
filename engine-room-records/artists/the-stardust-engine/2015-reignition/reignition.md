@@ -672,7 +672,7 @@ Look across the stage—they don't even have to speak!
 (Gang Shouts)
 Locked in!
 (Ryan)
-Forty-five-foot Prevost rolling through the mountain peak!
+Forty-five-foot Sainte-Claire rolling through the mountain peak!
 (Gang Shouts)
 Twin power!
 (Ryan)

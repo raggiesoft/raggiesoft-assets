@@ -707,7 +707,7 @@ Every single measure is a dead-center hit!
 [Pre-Chorus]
 Look across the stage—they don't even have to speak!
 Locked in!
-Forty-five-foot Prevost rolling through the mountain peak!
+Forty-five-foot Sainte-Claire rolling through the mountain peak!
 Twin power!
 When the road gets rough and the night gets long
 They're the iron chassis underneath every song!

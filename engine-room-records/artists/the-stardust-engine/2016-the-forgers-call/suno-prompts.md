@@ -20,7 +20,7 @@
 
 ### Styles to Include
 ```text
-82 BPM, slow heavy half-time stadium rock, massive chest-rattling kick drum beat, ringing metallic steel anvil strike followed by heavy low-end kick drum thud, 1986 analog studio arena hard rock, heavy overdriven electric guitar riff, 1980s Oberheim OB-Xa analog synthesizer brass fanfare, powerful gritty male rock vocal, anthemic gang vocal chant, E Minor, slow, heavy, industrial foundry power
+82 BPM, slow heavy half-time stadium rock, massive chest-rattling kick drum beat, ringing metallic steel anvil strike followed by heavy low-end kick drum thud, 1986 analog studio arena hard rock, heavy overdriven electric guitar riff, 1980s analog polyphonic analog synthesizer brass fanfare, powerful gritty male rock vocal, anthemic gang vocal chant, E Minor, slow, heavy, industrial foundry power
 ```
 
 ### Styles to Exclude
@@ -40,7 +40,7 @@ uptempo, fast tempo, double-time, speed metal, thrash, punk, fast drums, 120 BPM
 
 ### Styles to Include
 ```text
-126 BPM, sunlit 1988 melodic synth-rock, exuberant 1980s AOR stadium rock anthem, shimmering cascade of Roland D-50 and Oberheim OB-Xa synthesizer chords, soaring joyful electric guitar hook, punchy 1980s gated reverb drums, driving bass guitar, male and female vocal duet, soaring sibling vocal harmonies, A Major, uplifting, triumphant, joyful, warm campus sunlight
+126 BPM, sunlit 1988 melodic synth-rock, exuberant 1980s AOR stadium rock anthem, shimmering cascade of 1988 digital and analog polyphonic synthesizer chords, soaring joyful electric guitar hook, punchy 1980s gated reverb drums, driving bass guitar, male and female vocal duet, soaring sibling vocal harmonies, A Major, uplifting, triumphant, joyful, warm campus sunlight
 ```
 
 ### Styles to Exclude
@@ -51,7 +51,7 @@ dark, gloomy, sad, slow ballad, heavy metal, thrash, industrial noise, screaming
 ### Lyrics Prompt
 ```text
 [Tempo: 126 BPM - Sunlit, Driving 1988 Melodic Synth-Rock & Stadium Guitar Anthem]
-[Intro: Shimmering Sunlit Cascade of 1988 Roland D-50 & Oberheim OB-Xa Synthesizer Chords]
+[Intro: Shimmering Sunlit Cascade of 1988 Digital & Analog Polyphonic Synthesizer Chords]
 (Bright, crystalline late-1980s synthesizer arpeggios opening like morning sunlight over the Blue Ridge Mountains, joined by a soaring, exuberant electric guitar hook and punchy gated snare fill)
 
 [Verse 1]
@@ -122,7 +122,7 @@ You're safe inside this open door!
 Yeah, we're finally alive on This Side of Heaven!
 
 [Guitar & Synth Solo]
-(Triumphant, joyous 1988 melodic rock guitar solo soaring high over a driving bassline and sunlit cascade of Oberheim synth chords, lifting into a radiant key-change modulation)
+(Triumphant, joyous 1988 melodic rock guitar solo soaring high over a driving bassline and sunlit cascade of analog polyphonic synth chords, lifting into a radiant key-change modulation)
 
 [Bridge]
 (Music drops to shimmering synth pads, clean chorus guitar, and steady heartbeat kick drum)
@@ -164,7 +164,7 @@ Safe and home on This Side of Heaven!
 
 ### Styles to Include
 ```text
-138 BPM, raw 1986 4-track cassette garage rock, energetic 1980s college hard rock, overdriven tube guitar amplifier, warm analog Oberheim synth organ and brass stabs, punchy live garage drum kit, driving four-string bass, young passionate male and female rock duet vocals, analog tape saturation, E Major, rebellious, joyous, raw
+138 BPM, raw 1986 4-track cassette garage rock, energetic 1980s college hard rock, overdriven tube guitar amplifier, warm analog analog polyphonic synth organ and brass stabs, punchy live garage drum kit, driving four-string bass, young passionate male and female rock duet vocals, analog tape saturation, E Major, rebellious, joyous, raw
 ```
 
 ### Styles to Exclude
@@ -185,7 +185,7 @@ slow ballad, orchestral, modern pop, autotune, hip hop, rap, country, sterile di
 
 ### Styles to Include
 ```text
-84 BPM, instrumental stadium hard rock, heavy stomping kick drum and floor tom cadence, ringing metallic foundry anvil strikes, sub-bass Moog Taurus pedal drone, swaggering 1989 overdriven electric guitar riff, towering Oberheim OB-Xa analog brass fanfare, guitar and synthesizer duel, E Minor, seismic, powerful, instrumental only, no vocals
+84 BPM, instrumental stadium hard rock, heavy stomping kick drum and floor tom cadence, ringing metallic foundry anvil strikes, sub-bass analog synth pedal drone, swaggering 1989 overdriven electric guitar riff, towering polyphonic analog brass fanfare, guitar and synthesizer duel, E Minor, seismic, powerful, instrumental only, no vocals
 ```
 
 ### Styles to Exclude
@@ -204,7 +204,7 @@ vocals, singing, lyrics, spoken word, fast tempo, double-time, acoustic ballad, 
 
 ### Styles to Include
 ```text
-92 BPM, warm 1990 winter acoustic rock ballad, shimmering 12-string acoustic guitar arpeggios, warm concert grand piano, lush Roland Juno-106 analog string pads, melodic fretless bass, soft brushed snare and tambourine, intimate male and female sibling vocal duet, D Major, peaceful, nostalgic, snowy mountain twilight
+92 BPM, warm 1990 winter acoustic rock ballad, shimmering 12-string acoustic guitar arpeggios, warm concert grand piano, lush analog chorus string pads, melodic fretless bass, soft brushed snare and tambourine, intimate male and female sibling vocal duet, D Major, peaceful, nostalgic, snowy mountain twilight
 ```
 
 ### Styles to Exclude
@@ -226,7 +226,7 @@ heavy distortion, screaming, fast drums, industrial, metal, hip hop, rap, electr
 
 ### Styles to Include
 ```text
-124 BPM, driving 1991 heartland synth-rock, melodic arena rock, chimey 12-string electric rhythm guitar, warm Oberheim analog synthesizer chords, soaring emotional electric guitar solo, steady driving acoustic drums, male and female vocal duet, G Major, resilient, uplifting, triumphant
+124 BPM, driving 1991 heartland synth-rock, melodic arena rock, chimey 12-string electric rhythm guitar, warm analog polyphonic analog synthesizer chords, soaring emotional electric guitar solo, steady driving acoustic drums, male and female vocal duet, G Major, resilient, uplifting, triumphant
 ```
 
 ### Styles to Exclude
@@ -248,7 +248,7 @@ slow dirge, heavy metal, thrash, hip hop, rap, country twang, lo-fi, muffled
 
 ### Styles to Include
 ```text
-132 BPM, upbeat 1992 melodic arena rock, celebratory 1980s-style AOR synth-rock, punchy crunching electric guitar riffs, bright Oberheim synthesizer brass fanfare, driving drums and bass, joyous male and female vocal duet with gang vocal shouts, C Major, triumphant, defiant, celebratory
+132 BPM, upbeat 1992 melodic arena rock, celebratory 1980s-style AOR synth-rock, punchy crunching electric guitar riffs, bright analog polyphonic synthesizer brass fanfare, driving drums and bass, joyous male and female vocal duet with gang vocal shouts, C Major, triumphant, defiant, celebratory
 ```
 
 ### Styles to Exclude
@@ -269,7 +269,7 @@ sad, slow ballad, dark ambient, metalcore, hip hop, rap, country, acoustic solo
 
 ### Styles to Include
 ```text
-108 BPM, cosmic space-rock instrumental, 1994 progressive melodic synth-rock, crystalline Roland Jupiter-8 and Oberheim OB-Xa arpeggiators, deep Moog Taurus bass pedals, soaring sustain-rich electric guitar lead, twin-lead guitar and Minimoog dialogue, reverberant arena drums, F# Minor to D Major, celestial, majestic, instrumental only, no vocals
+108 BPM, cosmic space-rock instrumental, 1994 progressive melodic synth-rock, crystalline eight-voice analog polyphonic synthesizer arpeggiators, deep sub-bass synthesizer pedals, soaring sustain-rich electric guitar lead, twin-lead guitar and monophonic analog lead synth dialogue, reverberant arena drums, F# Minor to D Major, celestial, majestic, instrumental only, no vocals
 ```
 
 ### Styles to Exclude
@@ -288,7 +288,7 @@ vocals, singing, lyrics, spoken word, punk, thrash, country, lo-fi, dry mix
 
 ### Styles to Include
 ```text
-130 BPM, high-energy 1980s-style stadium rock, melodic AOR homecoming anthem, blazing twin electric guitars, punchy Oberheim analog synth brass fanfare, booming gated stadium drums, powerful male and female vocal duet, anthemic chorus harmonies, E Major, electric, autumnal, celebratory
+130 BPM, high-energy 1980s-style stadium rock, melodic AOR homecoming anthem, blazing twin electric guitars, punchy analog polyphonic analog synth brass fanfare, booming gated stadium drums, powerful male and female vocal duet, anthemic chorus harmonies, E Major, electric, autumnal, celebratory
 ```
 
 ### Styles to Exclude
@@ -310,7 +310,7 @@ slow acoustic, sad, dark industrial, hip hop, rap, country, lo-fi
 
 ### Styles to Include
 ```text
-112 BPM, warm 1998 heartland acoustic rock, strumming 6-string and 12-string acoustic guitars, soulful Hammond B3 organ with Leslie speaker swell, woody acoustic bass, steady snare and tambourine groove, fingerpicked acoustic-electric guitar solo, warm male and female sibling vocal harmonies, G Major, nostalgic, timeless, heartfelt
+112 BPM, warm 1998 heartland acoustic rock, strumming 6-string and 12-string acoustic guitars, soulful tonewheel organ with rotary speaker swell, woody acoustic bass, steady snare and tambourine groove, fingerpicked acoustic-electric guitar solo, warm male and female sibling vocal harmonies, G Major, nostalgic, timeless, heartfelt
 ```
 
 ### Styles to Exclude
@@ -350,7 +350,7 @@ vocals, singing, lyrics, spoken word, slow ballad, ambient drone, country, folk
 
 ### Styles to Include
 ```text
-118 BPM, soaring 2004 melodic 1980s-style AOR and cosmic synth-rock duet, lush wide-screen Oberheim and Roland analog synthesizer pads and crystalline arpeggios, singing sustain-rich electric guitar lead, booming gated arena snare, emotive male and female vocal duet, D Major, majestic, cosmic, grounded
+118 BPM, soaring 2004 melodic 1980s-style AOR and cosmic synth-rock duet, lush wide-screen polyphonic analog synthesizer pads and crystalline arpeggios, singing sustain-rich electric guitar lead, booming gated arena snare, emotive male and female vocal duet, D Major, majestic, cosmic, grounded
 ```
 
 ### Styles to Exclude
@@ -372,7 +372,7 @@ punk, thrash, lo-fi garage, hip hop, rap, country, harsh distortion
 
 ### Styles to Include
 ```text
-142 BPM, high-octane locker-room hard rock, fast palm-muted stadium electric guitar riff, aggressive Oberheim analog brass stabs, relentless double-time kick and snare drums, shred-infused melodic stadium guitar solo, powerful gritty male and female rock duet vocals, E Minor, intense, relentless, victorious
+142 BPM, high-octane locker-room hard rock, fast palm-muted stadium electric guitar riff, aggressive analog polyphonic analog brass stabs, relentless double-time kick and snare drums, shred-infused melodic stadium guitar solo, powerful gritty male and female rock duet vocals, E Minor, intense, relentless, victorious
 ```
 
 ### Styles to Exclude
@@ -394,7 +394,7 @@ slow ballad, acoustic folk, soft pop, jazz, hip hop, rap, country
 
 ### Styles to Include
 ```text
-116 BPM, warm live-in-the-living-room four-piece rock rehearsal tape, organic room acoustics, warm overdriven tube guitar amplifier, vintage Oberheim OB-Xa analog synth chords, punchy acoustic drum kit and warm four-string bass, joyful spontaneous male and female vocal duet, A Major, intimate, energetic, triumphant reunion
+116 BPM, warm live-in-the-living-room four-piece rock rehearsal tape, organic room acoustics, warm overdriven tube guitar amplifier, vintage analog polyphonic analog synth chords, punchy acoustic drum kit and warm four-string bass, joyful spontaneous male and female vocal duet, A Major, intimate, energetic, triumphant reunion
 ```
 
 ### Styles to Exclude
@@ -438,7 +438,7 @@ fast tempo, punk, thrash, speed metal, electronic dance, hip hop, rap, lo-fi, dr
 
 ### Styles to Include
 ```text
-82 BPM, slow heavy groove, slow half-time hard rock cadence, ponderous foundry anvil beat, 1986 4-track cassette demo, raw 1980s garage hard rock, heavy slow-marching guitar riff, rhythmic metallic sledgehammer striking steel brake drum clang and heavy bass-drum boom, analog cassette tape saturation, raw tube guitar amplifier, 1980s Oberheim analog synth brass, gritty young male rock vocal, 4-person garage gang vocal chant, E Minor, slow, heavy, massive
+82 BPM, slow heavy groove, slow half-time hard rock cadence, ponderous foundry anvil beat, 1986 4-track cassette demo, raw 1980s garage hard rock, heavy slow-marching guitar riff, rhythmic metallic sledgehammer striking steel brake drum clang and heavy bass-drum boom, analog cassette tape saturation, raw tube guitar amplifier, 1980s analog polyphonic analog synth brass, gritty young male rock vocal, 4-person garage gang vocal chant, E Minor, slow, heavy, massive
 ```
 
 ### Styles to Exclude

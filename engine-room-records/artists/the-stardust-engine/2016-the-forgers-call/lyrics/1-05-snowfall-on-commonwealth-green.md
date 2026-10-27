@@ -1,12 +1,12 @@
 **LORE NOTE:**
 Recorded in **January 1990** in the living room on **Progress Street** during a quiet winter break in Blacksburg—just eleven months before the December 10, 1990 I-81 tour bus crash—***"Snowfall on Commonwealth Green"*** (`1990 Winter Acoustic Session`) captures The Stardust Engine at their warmest and most reflective. Escaping the relentless promotional grind of *Neon Hearts* for two weeks in the Blue Ridge Mountains, Ryan and Cassidy wrote this **`92 BPM`** acoustic-and-synth winter ballad while watching a heavy Appalachian snowstorm blanket the vast central oval of **Commonwealth Green** (`The Green`), turning the gray-and-pink **Ironstone** battlements of **Preston Hall**, **Pendleton Library**, and **Keystone Hall** into a silent cathedral of white.
 
-Featuring Ryan on a shimmering Guild 12-string acoustic guitar, Cassidy on grand piano and warm Roland Juno-106 analog pads, Evan on fretless bass, and Tyler on brushed snare and sleigh-bell tambourine, the track was preserved in Holly O'Connell's Blacksburg vault for twenty-six years before its official release on *The Forger's Call*.
+Featuring Ryan on a shimmering 12-string acoustic guitar, Cassidy on grand piano and warm analog chorus synthesizer pads, Evan on fretless bass, and Tyler on brushed snare and sleigh-bell tambourine, the track was preserved in Holly O'Connell's Blacksburg vault for twenty-six years before its official release on *The Forger's Call*.
 
 **LYRICS:**
 
 [Tempo: 92 BPM - Warm 1990 12-String Acoustic Guitar, Grand Piano & Analog Synth Winter Ballad]
-[Intro: Shimmering 12-String Acoustic Guitar Arpeggios, Warm Grand Piano & Soft Roland Juno-106 Pad]
+[Intro: Shimmering 12-String Acoustic Guitar Arpeggios, Warm Grand Piano & Soft Analog Chorus Synthesizer Pad]
 (Gentle, crystalline 12-string acoustic guitar picking and warm grand piano chords evoking quiet snowflakes falling across a mountain campus at twilight)
 
 [Verse 1]

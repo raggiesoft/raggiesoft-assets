@@ -6,7 +6,7 @@ Because the band refused to let **Apex Records** twist a deeply personal song ab
 **LYRICS:**
 
 [Tempo: 126 BPM - Sunlit, Driving 1988 Melodic Synth-Rock & Stadium Guitar Anthem]
-[Intro: Shimmering Sunlit Cascade of 1988 Roland D-50 & Oberheim OB-Xa Synthesizer Chords]
+[Intro: Shimmering Sunlit Cascade of 1988 Digital & Analog Polyphonic Synthesizer Chords]
 (Bright, crystalline late-1980s synthesizer arpeggios opening like morning sunlight over the Blue Ridge Mountains, joined by a soaring, exuberant electric guitar hook and Tyler Wright's punchy gated snare fill)
 
 [Verse 1]

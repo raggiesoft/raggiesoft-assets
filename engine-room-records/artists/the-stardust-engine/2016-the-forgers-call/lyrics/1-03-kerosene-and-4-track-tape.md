@@ -7,7 +7,7 @@ Never submitted to **Apex Records**—who would have balked at the unvarnished t
 
 [Tempo: 138 BPM - Driving, Raw 1986 4-Track Garage Hard Rock]
 [Intro: Mechanical Cassette Click, Hum of a Garage Kerosene Heater, and Overdriven Tube Guitar Riff]
-(Raw 1986 Marshall tube-amp guitar chord ringing out in a concrete two-car garage, joined by Tyler Wright's four-on-the-snare count-in and Cassidy's gritty analog Oberheim organ-synth stab)
+(Raw 1986 dual-stack tube-amp guitar chord ringing out in a concrete two-car garage, joined by Tyler Wright's four-on-the-snare count-in and Cassidy's gritty analog polyphonic organ-synth stab)
 
 [Verse 1]
 [male]

@@ -14930,7 +14930,7 @@ Look across the stage—they don't even have to speak!
 (Gang Shouts)
 Locked in!
 (Ryan)
-Forty-five-foot Prevost rolling through the mountain peak!
+Forty-five-foot Sainte-Claire rolling through the mountain peak!
 (Gang Shouts)
 Twin power!
 (Ryan)
@@ -18265,7 +18265,7 @@ We are the hammer, we're the flame
 This is our house, this is our game!
 
 [Guitar Solo]
-(Slow, soaring 1986 electric guitar lead trading phrases with an analog Oberheim OB-Xa synthesizer brass motif over the heavy kick-drum and anvil beat)
+(Slow, soaring 1986 electric guitar lead trading phrases with an analog analog polyphonic synthesizer brass motif over the heavy kick-drum and anvil beat)
 
 [Bridge]
 (Slow half-time foundry cadence)
@@ -18311,7 +18311,7 @@ Because the band refused to let **Apex Records** twist a deeply personal song ab
 ### Lyrics
 
 [Tempo: 126 BPM - Sunlit, Driving 1988 Melodic Synth-Rock & Stadium Guitar Anthem]
-[Intro: Shimmering Sunlit Cascade of 1988 Roland D-50 & Oberheim OB-Xa Synthesizer Chords]
+[Intro: Shimmering Sunlit Cascade of 1988 Digital & Analog Polyphonic Synthesizer Chords]
 (Bright, crystalline late-1980s synthesizer arpeggios opening like morning sunlight over the Blue Ridge Mountains, joined by a soaring, exuberant electric guitar hook and Tyler Wright's punchy gated snare fill)
 
 [Verse 1]
@@ -18382,7 +18382,7 @@ You're safe inside this open door!
 Yeah, we're finally alive on This Side of Heaven!
 
 [Guitar & Synth Solo]
-(Triumphant, joyous 1988 melodic rock guitar solo by Ryan O'Connell soaring high over Evan Wright's driving bassline and Cassidy O'Connell's sunlit cascade of Oberheim synth chords, lifting into a radiant key-change modulation)
+(Triumphant, joyous 1988 melodic rock guitar solo by Ryan O'Connell soaring high over Evan Wright's driving bassline and Cassidy O'Connell's sunlit cascade of analog polyphonic synth chords, lifting into a radiant key-change modulation)
 
 [Bridge]
 (Music drops to shimmering synth pads, clean chorus guitar, and steady heartbeat kick drum)
@@ -18423,7 +18423,7 @@ Never submitted to **Apex Records**—who would have balked at the unvarnished t
 
 [Tempo: 138 BPM - Driving, Raw 1986 4-Track Garage Hard Rock]
 [Intro: Mechanical Cassette Click, Hum of a Garage Kerosene Heater, and Overdriven Tube Guitar Riff]
-(Raw 1986 Marshall tube-amp guitar chord ringing out in a concrete two-car garage, joined by Tyler Wright's four-on-the-snare count-in and Cassidy's gritty analog Oberheim organ-synth stab)
+(Raw 1986 dual-stack tube-amp guitar chord ringing out in a concrete two-car garage, joined by Tyler Wright's four-on-the-snare count-in and Cassidy's gritty analog polyphonic organ-synth stab)
 
 [Verse 1]
 [male]
@@ -18461,7 +18461,7 @@ Yeah, we're running on kerosene and four-track tape!
 [male]
 Evan's got the bass rattling the window frame
 Tyler's cracking hickory like a football game
-Cassidy's stacked up the Juno and the Oberheim
+Cassidy's stacked up the Juno and the analog polyphonic
 Making this concrete box sound like a cathedral chime!
 [female]
 Instant ramen boiling on the kitchen stove
@@ -18524,7 +18524,7 @@ Yeah, Progress Street, nineteen eighty-six!
 ### Lore
 Recorded in **November 1989** for the press-box audio booth at **The Crucible**, ***"The Anvil: 126.2 Decibels"*** (`1989 Seismograph Instrumental`) commemorates the legendary November 1989 goal-line stand when the North End Zone student section (**The Anvil**) stomped the galvanized steel bleachers in unison to Tyler Wright's kick drum at a verified peak of **`126.2 dBA`**—registering a localized micro-earthquake on the Department of Geosciences seismograph needle inside **Copernicus Hall** half a mile away.
 
-Built around an earth-shaking **`84 BPM`** stomping kick-drum and foundry-anvil groove, Evan Wright's sub-harmonic Moog Taurus bass pedals, Cassidy O'Connell's roaring Oberheim brass fanfares, and Ryan O'Connell's pinched-harmonic stadium guitar riffs, this instrumental cue has been blasted over The Crucible PA system before every crucial 3rd-and-short and 4th-and-goal defensive stand since 1989.
+Built around an earth-shaking **`84 BPM`** stomping kick-drum and foundry-anvil groove, Evan Wright's sub-harmonic analog bass synth pedals, Cassidy O'Connell's roaring analog polyphonic brass fanfares, and Ryan O'Connell's pinched-harmonic stadium guitar riffs, this instrumental cue has been blasted over The Crucible PA system before every crucial 3rd-and-short and 4th-and-goal defensive stand since 1989.
 
 ### Lyrics
 
@@ -18533,10 +18533,10 @@ Built around an earth-shaking **`84 BPM`** stomping kick-drum and foundry-anvil 
 [Tempo: 84 BPM - Heavy, Seismic Stadium Stomp & Foundry Brass Instrumental]
 
 [Intro: Seismograph Needle Alarm Pulse, Metallic Foundry Anvil Strike & Crushing 84 BPM Kick-Drum Stomp]
-(High-pitched metallic steel anvil strike answered by Tyler Wright's massive, chest-rattling 84 BPM kick drum and Evan Wright's sub-bass Moog Taurus pedal drone)
+(High-pitched metallic steel anvil strike answered by Tyler Wright's massive, chest-rattling 84 BPM kick drum and Evan Wright's sub-bass analog synth pedal drone)
 
-[Main Riff: Heavy Overdriven 1989 Stadium Guitar & Oberheim Analog Brass Fanfare]
-(Ryan O'Connell's palm-muted, swaggering E-Minor stadium rock guitar riff locks in with Cassidy O'Connell's towering Oberheim OB-Xa brass chords)
+[Main Riff: Heavy Overdriven 1989 Stadium Guitar & analog polyphonic Analog Brass Fanfare]
+(Ryan O'Connell's palm-muted, swaggering E-Minor stadium rock guitar riff locks in with Cassidy O'Connell's towering analog polyphonic brass chords)
 
 [Section A: The North End Zone Bleacher Cadence]
 (Rhythmic, synchronized stomping percussion and pounding floor toms driving a relentless 84 BPM defensive-stand groove)
@@ -18548,7 +18548,7 @@ Built around an earth-shaking **`84 BPM`** stomping kick-drum and foundry-anvil 
 (Drums and sub-bass strip down to a seismic half-time anvil-and-kick-drum stomp, building tension octave by octave as analog synth risers climb toward the redline)
 
 [Climax: Full Stadium Roar & Dual-Lead Finale]
-(Full band explodes back in at maximum intensity—harmonized electric guitar and Oberheim synth leads soaring over thunderous double-kick drums and ringing steel anvil strikes)
+(Full band explodes back in at maximum intensity—harmonized electric guitar and analog polyphonic synth leads soaring over thunderous double-kick drums and ringing steel anvil strikes)
 
 [Outro: Final Anvil Strike & Sustaining Sub-Bass Tremor]
 (One final deafening steel anvil chime and sustained E-minor power chord echoing into silence)
@@ -18558,12 +18558,12 @@ Built around an earth-shaking **`84 BPM`** stomping kick-drum and foundry-anvil 
 ### Lore
 Recorded in **January 1990** in the living room on **Progress Street** during a quiet winter break in Blacksburg—just eleven months before the December 10, 1990 I-81 tour bus crash—***"Snowfall on Commonwealth Green"*** (`1990 Winter Acoustic Session`) captures The Stardust Engine at their warmest and most reflective. Escaping the relentless promotional grind of *Neon Hearts* for two weeks in the Blue Ridge Mountains, Ryan and Cassidy wrote this **`92 BPM`** acoustic-and-synth winter ballad while watching a heavy Appalachian snowstorm blanket the vast central oval of **Commonwealth Green** (`The Green`), turning the gray-and-pink **Ironstone** battlements of **Preston Hall**, **Pendleton Library**, and **Keystone Hall** into a silent cathedral of white.
 
-Featuring Ryan on a shimmering Guild 12-string acoustic guitar, Cassidy on grand piano and warm Roland Juno-106 analog pads, Evan on fretless bass, and Tyler on brushed snare and sleigh-bell tambourine, the track was preserved in Holly O'Connell's Blacksburg vault for twenty-six years before its official release on *The Forger's Call*.
+Featuring Ryan on a shimmering 12-string acoustic guitar, Cassidy on grand piano and warm analog chorus synthesizer pads, Evan on fretless bass, and Tyler on brushed snare and sleigh-bell tambourine, the track was preserved in Holly O'Connell's Blacksburg vault for twenty-six years before its official release on *The Forger's Call*.
 
 ### Lyrics
 
 [Tempo: 92 BPM - Warm 1990 12-String Acoustic Guitar, Grand Piano & Analog Synth Winter Ballad]
-[Intro: Shimmering 12-String Acoustic Guitar Arpeggios, Warm Grand Piano & Soft Roland Juno-106 Pad]
+[Intro: Shimmering 12-String Acoustic Guitar Arpeggios, Warm Grand Piano & Soft Analog Chorus Synthesizer Pad]
 (Gentle, crystalline 12-string acoustic guitar picking and warm grand piano chords evoking quiet snowflakes falling across a mountain campus at twilight)
 
 [Verse 1]
@@ -18673,7 +18673,7 @@ For weeks after coming home, Ryan was hesitant to roll across the hilly CPI camp
 
 [Tempo: 124 BPM - Driving 1991 Heartland Synth-Rock & Melodic Arena Guitar]
 [Intro: Crisp Arpeggiated 12-String Electric Guitar, Warm Analog Synth Pad & Driving Drum Beat]
-(Bright, propulsive 1991 heartland rock guitar riff locked in with Cassidy's warm Oberheim synth chords and Tyler's steady, determined backbeat)
+(Bright, propulsive 1991 heartland rock guitar riff locked in with Cassidy's warm analog polyphonic synth chords and Tyler's steady, determined backbeat)
 
 [Verse 1]
 [male]
@@ -18781,7 +18781,7 @@ Six years earlier, in October 1986, sixteen-year-old dual-enrolled CPI freshman 
 ### Lyrics
 
 [Tempo: 132 BPM - Upbeat, Joyous 1992 Melodic Arena Rock & Synth-Rock Founding Anthem]
-[Intro: Punchy Arena Rock Guitar Riff, Bright Oberheim Brass Hook & Driving 132 BPM Drum Beat]
+[Intro: Punchy Arena Rock Guitar Riff, Bright analog polyphonic Brass Hook & Driving 132 BPM Drum Beat]
 (Energetic, triumphant 1980s-style melodic rock riff with Ryan's crunching rhythm guitar, Cassidy's celebratory synth brass fanfare, and a four-person gang shout)
 
 [Verse 1]
@@ -18887,7 +18887,7 @@ Thank you, Holly!
 ### Lore
 Recorded in **April 1994** immediately after **Holly O'Connell** won the landmark legal settlement emancipating 100% of The Stardust Engine's master tapes from Apex Records, ***"Copernicus Hall: Roof of the World"*** (`1994 Observatory Instrumental`) documents the night the five family members returned to the CPI campus to celebrate their freedom under the stars.
 
-Climbing up to the rooftop astronomy observation deck of **Copernicus Hall**—home to CPI's Department of Physics, Astrophysics, and Geosciences on the north rim of **Commonwealth Green**—Cassidy and Ryan looked up at the clear Appalachian night sky where they had first dreamed up the band's name in 1986. Returning to the studio at dawn, Cassidy (on sweeping analog Oberheim OB-Xa, Minimoog, and zero-gravity arpeggiators) and Ryan (on soaring, delay-drenched electric guitar) tracked this **`108 BPM`** cosmic space-rock instrumental—serving as the direct sonic bridge between 1986's *"The Stardust Engine"* and Cassidy's 1996 magnum opus, *"Escape Velocity (Ad Astra)"*.
+Climbing up to the rooftop astronomy observation deck of **Copernicus Hall**—home to CPI's Department of Physics, Astrophysics, and Geosciences on the north rim of **Commonwealth Green**—Cassidy and Ryan looked up at the clear Appalachian night sky where they had first dreamed up the band's name in 1986. Returning to the studio at dawn, Cassidy (on sweeping analog analog polyphonic, Minimoog, and zero-gravity arpeggiators) and Ryan (on soaring, delay-drenched electric guitar) tracked this **`108 BPM`** cosmic space-rock instrumental—serving as the direct sonic bridge between 1986's *"The Stardust Engine"* and Cassidy's 1996 magnum opus, *"Escape Velocity (Ad Astra)"*.
 
 ### Lyrics
 
@@ -18896,7 +18896,7 @@ Climbing up to the rooftop astronomy observation deck of **Copernicus Hall**—h
 [Tempo: 108 BPM - Soaring 1994 Cosmic Synthesizer & Melodic Electric Guitar Space-Rock Instrumental]
 
 [Intro: Zero-Gravity Analog Synthesizer Arpeggios & Night-Sky Pad]
-(Crystalline Roland Jupiter-8 and Oberheim OB-Xa arpeggiators sparkling like constellations above the Blue Ridge Mountains, underpinned by Evan Wright's deep Moog Taurus bass pedal sustain)
+(Crystalline eight-voice analog polyphonic synthesizer arpeggiators sparkling like constellations above the Blue Ridge Mountains, underpinned by Evan Wright's deep sub-bass synthesizer pedal sustain)
 
 [Theme A: The Copernicus Hall Observatory Dome Opens]
 (Cassidy O'Connell introduces a majestic, wide-interval analog brass and poly-synth melody at 108 BPM as Tyler Wright's crisp, reverberant acoustic drums enter on a steady orbital pulse)
@@ -18924,7 +18924,7 @@ Written at **`130 BPM`** in the band's signature 1980s AOR stadium-rock style, t
 
 [Tempo: 130 BPM - High-Energy 1980s-Style Stadium Rock & Melodic AOR Duet]
 [Intro: Blazing Twin-Guitar & Analog Synth Brass Fanfare over Driving 130 BPM Stadium Drums]
-(Triumphant, sunlit stadium rock riff with Cassidy's punchy Oberheim brass chords, Ryan's soaring electric guitar hook, and Tyler's booming arena drums)
+(Triumphant, sunlit stadium rock riff with Cassidy's punchy analog polyphonic brass chords, Ryan's soaring electric guitar hook, and Tyler's booming arena drums)
 
 [Verse 1]
 [male]
@@ -19029,9 +19029,9 @@ Before the campus expanded into the gothic **Ironstone** quadrangles of **Common
 
 ### Lyrics
 
-[Tempo: 112 BPM - Warm 1998 Heartland Acoustic Rock with 12-String Guitar, Hammond Organ & Sibling Harmonies]
-[Intro: Strumming Acoustic 6-String & 12-String Guitars, Warm Hammond B3 Organ Swell & Gentle Rimshot Beat]
-(Warm, nostalgic acoustic guitar chord progression joined by a soulful Hammond B3 organ melody and Evan Wright's woody acoustic bass)
+[Tempo: 112 BPM - Warm 1998 Heartland Acoustic Rock with 12-String Guitar, Tonewheel Organ & Sibling Harmonies]
+[Intro: Strumming Acoustic 6-String & 12-String Guitars, Warm Tonewheel Organ Swell & Gentle Rimshot Beat]
+(Warm, nostalgic acoustic guitar chord progression joined by a soulful tonewheel organ melody and Evan Wright's woody acoustic bass)
 
 [Verse 1]
 [male]
@@ -19098,7 +19098,7 @@ Holding every story since the school begun!
 God bless the Old Lady on the Hill!
 
 [Acoustic Guitar & Organ Solo]
-(Warm, melodic duel between Ryan's fingerpicked acoustic-electric lead guitar and Cassidy's Leslie-speaker Hammond B3 organ over Tyler's steady tambourine and snare groove)
+(Warm, melodic duel between Ryan's fingerpicked acoustic-electric lead guitar and Cassidy's rotary-speaker tonewheel organ over Tyler's steady tambourine and snare groove)
 
 [Bridge]
 [female]
@@ -19125,7 +19125,7 @@ God bless the Old Lady on the Hill!
 [duet]
 Old Lady on the Hill...
 Still standing strong on the Blacksburg hill...
-(Warm 12-string acoustic guitar chord and gentle Hammond organ sustain fading into the mountain breeze)
+(Warm 12-string acoustic guitar chord and gentle tonewheel organ sustain fading into the mountain breeze)
 
 
 ## Cadence in The Furnace (2000 Drumline & Guitar Studio Cut)
@@ -19381,13 +19381,13 @@ Earn the hammer—charge the Crucible!
 ### Lore
 Captured live on a single stereo pair of condenser microphones in the **Progress Street** living room in **November 2012**—eight years into the band's ten-year Burnout Hiatus—***"Living Room Reignition"*** (`2012 Progress Street Tape`) documents the exact night **Ryan O'Connell**, **Cassidy O'Connell**, **Evan Wright**, and **Tyler Wright** plugged in all four electric instruments together as a full rock band for the first time since 2005's *Live in Norfolk*.
 
-After Thanksgiving dinner at the Progress Street house, Tyler sat down behind the living-room drum kit, Evan picked up his four-string bass, Cassidy switched on her vintage Oberheim OB-Xa, and Ryan rolled his wheelchair over to his tube amplifier and hit an open A-major chord. What followed was this spontaneous, joyful **`116 BPM`** rehearsal tape—the exact creative spark that led to the writing of 2015's *Reignition* and their May 21, 2016 homecoming inside **The Crucible**.
+After Thanksgiving dinner at the Progress Street house, Tyler sat down behind the living-room drum kit, Evan picked up his four-string bass, Cassidy switched on her vintage analog polyphonic, and Ryan rolled his wheelchair over to his tube amplifier and hit an open A-major chord. What followed was this spontaneous, joyful **`116 BPM`** rehearsal tape—the exact creative spark that led to the writing of 2015's *Reignition* and their May 21, 2016 homecoming inside **The Crucible**.
 
 ### Lyrics
 
 [Tempo: 116 BPM - Warm, Raw, Joyful 2012 Four-Piece Living-Room Rock Rehearsal Tape]
 [Intro: Living-Room Ambience, Guitar Amp Switch Click, Warm Tube Hum & Spontaneous Drum Count-In]
-(Warm living-room acoustics: click of a guitar cable plugging into a tube amp, Cassidy laughing softly as her Oberheim synth warms up, and Tyler counting "One, two, three, four!" into a punchy 116 BPM four-piece rock groove)
+(Warm living-room acoustics: click of a guitar cable plugging into a tube amp, Cassidy laughing softly as her analog polyphonic synth warms up, and Tyler counting "One, two, three, four!" into a punchy 116 BPM four-piece rock groove)
 
 [Verse 1]
 [male]
@@ -19600,7 +19600,7 @@ Forever Forgers... home among the stars.
 ### Lore
 The legendary **October 1986 4-track Tascam Portastudio cassette demo (`Demo Take 3`)** recorded inside the unheated garage on Progress Street in Blacksburg, Virginia—submitted by five college kids (Ryan O'Connell, Cassidy O'Connell, Evan Wright, Tyler Wright, and 16-year-old dual-enrolled Holly O'Connell) to the CPI Student Government Association contest to replace the football team's entrance march. Before submitting the Maxell XLII-S 90 cassette tape, 16-year-old Holly redlined the university's standard *"Work Made for Hire"* entry form at the Progress Street kitchen table and negotiated the historic **`$1.00` Perpetual Mutual Cross-License** ("The Progress Street Redline"), retaining 100% of the band's master and publishing ownership while granting CPI Athletics and the Marching Forgers a perpetual, royalty-free stadium license.
 
-Recorded before the student section in **The Anvil** ever organically invented **The Stomp** over several successive plays in the stadium—and twenty-eight years before the VDU *Anchor* rivalry inspired Ryan's 2016 live ad-lib—this raw 1986 cassette cut is the very first of the three canonical versions of *"Ignition: The Forger's Call"* (followed by the 1986 Crucible Stadium Version played at CPI football games and the 2016 *Live at the Crucible* concert opener). Because the five college kids were tracking inside an unheated garage without a real foundry anvil yet, the demo features the mechanical click of Holly's 4-track tape deck, the band members vocalizing `(TING... BOOM!)` to test the idea of where the anvil strike and heavy kick-drum impact would go, Cassidy's raw Oberheim OB-Xa analog synth brass, Ryan's overdriven garage-rock guitar riff, and Cassidy, Evan, and Tyler shouting the gang-vocal `(IGNITION!)` response into a single shared Shure SM57 microphone.
+Recorded before the student section in **The Anvil** ever organically invented **The Stomp** over several successive plays in the stadium—and twenty-eight years before the VDU *Anchor* rivalry inspired Ryan's 2016 live ad-lib—this raw 1986 cassette cut is the very first of the three canonical versions of *"Ignition: The Forger's Call"* (followed by the 1986 Crucible Stadium Version played at CPI football games and the 2016 *Live at the Crucible* concert opener). Because the five college kids were tracking inside an unheated garage without a real foundry anvil yet, the demo features the mechanical click of Holly's 4-track tape deck, the band members vocalizing `(TING... BOOM!)` to test the idea of where the anvil strike and heavy kick-drum impact would go, Cassidy's raw analog polyphonic analog synth brass, Ryan's overdriven garage-rock guitar riff, and Cassidy, Evan, and Tyler shouting the gang-vocal `(IGNITION!)` response into a single shared Shure SM57 microphone.
 
 ### Lyrics
 
@@ -19692,7 +19692,7 @@ We are the hammer, we're the flame
 This is our house, this is our game!
 
 [Guitar Solo]
-(Slow, soaring 1986 electric guitar lead trading phrases with an analog Oberheim OB-Xa synthesizer brass motif over the slow, ponderous steel brake-drum clang and kick-drum boom)
+(Slow, soaring 1986 electric guitar lead trading phrases with an analog analog polyphonic synthesizer brass motif over the slow, ponderous steel brake-drum clang and kick-drum boom)
 
 [Bridge]
 (Slow half-time foundry cadence)

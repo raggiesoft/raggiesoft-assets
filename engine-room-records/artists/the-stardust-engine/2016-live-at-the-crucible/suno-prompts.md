@@ -70,7 +70,7 @@
 
 #### Styles to Include
 ```text
-82 BPM, slow heavy groove, slow half-time hard rock cadence, ponderous foundry anvil beat, 1986 4-track cassette demo, raw 1980s garage hard rock, heavy slow-marching guitar riff, rhythmic metallic sledgehammer striking steel brake drum clang and heavy kick-drum boom, analog cassette tape saturation, raw tube guitar amplifier, 1980s Oberheim analog synth brass, gritty young male rock vocal, 4-person garage gang vocal chant, E Minor, slow, heavy, massive
+82 BPM, slow heavy groove, slow half-time hard rock cadence, ponderous foundry anvil beat, 1986 4-track cassette demo, raw 1980s garage hard rock, heavy slow-marching guitar riff, rhythmic metallic sledgehammer striking steel brake drum clang and heavy kick-drum boom, analog cassette tape saturation, raw tube guitar amplifier, 1980s analog polyphonic analog synth brass, gritty young male rock vocal, 4-person garage gang vocal chant, E Minor, slow, heavy, massive
 ```
 
 #### Styles to Exclude
@@ -169,7 +169,7 @@ We are the hammer, we're the flame
 This is our house, this is our game!
 
 [Guitar Solo: Slow, Heavy, Melodic 1986 Arena-Rock Guitar Lead at 82 BPM over Pounding Kick-Drum Beat]
-(Slow, soaring 1986 electric guitar lead trading phrases with an analog Oberheim synthesizer brass motif over the slow, ponderous steel brake-drum clang and kick-drum boom)
+(Slow, soaring 1986 electric guitar lead trading phrases with an analog analog polyphonic synthesizer brass motif over the slow, ponderous steel brake-drum clang and kick-drum boom)
 
 [Bridge: Slow Half-Time Foundry Cadence - 82 BPM]
 [male]
@@ -217,7 +217,7 @@ IGNITION!
 
 #### Styles to Include
 ```text
-82 BPM, slow heavy half-time stadium rock, massive chest-rattling kick drum beat, ringing metallic steel anvil strike followed by heavy low-end kick drum thud, 1986 analog studio arena hard rock, heavy overdriven electric guitar riff, 1980s Oberheim OB-Xa analog synthesizer brass fanfare, powerful gritty male rock vocal, anthemic gang vocal chant, E Minor, slow, heavy, industrial foundry power
+82 BPM, slow heavy half-time stadium rock, massive chest-rattling kick drum beat, ringing metallic steel anvil strike followed by heavy low-end kick drum thud, 1986 analog studio arena hard rock, heavy overdriven electric guitar riff, 1980s analog polyphonic analog synthesizer brass fanfare, powerful gritty male rock vocal, anthemic gang vocal chant, E Minor, slow, heavy, industrial foundry power
 ```
 
 #### Styles to Exclude
@@ -300,7 +300,7 @@ We are the hammer, we're the flame
 This is our house, this is our game!
 
 [Guitar Solo: Slow, Heavy, Soaring 1986 Arena-Rock Guitar Lead at 82 BPM over Pounding Kick Drum]
-(Slow, soaring 1986 electric guitar lead trading phrases with an analog Oberheim OB-Xa synthesizer brass motif over the heavy kick-drum and anvil beat)
+(Slow, soaring 1986 electric guitar lead trading phrases with an analog analog polyphonic synthesizer brass motif over the heavy kick-drum and anvil beat)
 
 [Bridge: Slow Half-Time Foundry Cadence - 82 BPM]
 [male]
@@ -543,7 +543,7 @@ WIN! SEE-PEA-EYE!
 
 #### Styles to Include
 ```text
-1980s arena synth-rock anthem live stadium recording, full rock band fused with 300-piece collegiate marching band, soaring polyphonic analog synthesizer leitmotif harmonized with heavy collegiate brass section and sousaphones, high-tension Kevlar marching snare battery layered with gated LinnDrum and rock drums, overdriven 80s electric guitar, male and female duet, deafening 60000 person stadium crowd, triumphant, cosmic
+1980s arena synth-rock anthem live stadium recording, full rock band fused with 300-piece collegiate marching band, soaring polyphonic analog synthesizer leitmotif harmonized with heavy collegiate brass section and sousaphones, high-tension Kevlar marching snare battery layered with gated 1980s drum machine and rock drums, overdriven 80s electric guitar, male and female duet, deafening 60000 person stadium crowd, triumphant, cosmic
 ```
 
 #### Styles to Exclude

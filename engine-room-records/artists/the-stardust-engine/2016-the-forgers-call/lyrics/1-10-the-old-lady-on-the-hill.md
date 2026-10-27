@@ -5,9 +5,9 @@ Before the campus expanded into the gothic **Ironstone** quadrangles of **Common
 
 **LYRICS:**
 
-[Tempo: 112 BPM - Warm 1998 Heartland Acoustic Rock with 12-String Guitar, Hammond Organ & Sibling Harmonies]
-[Intro: Strumming Acoustic 6-String & 12-String Guitars, Warm Hammond B3 Organ Swell & Gentle Rimshot Beat]
-(Warm, nostalgic acoustic guitar chord progression joined by a soulful Hammond B3 organ melody and Evan Wright's woody acoustic bass)
+[Tempo: 112 BPM - Warm 1998 Heartland Acoustic Rock with 12-String Guitar, Tonewheel Organ & Sibling Harmonies]
+[Intro: Strumming Acoustic 6-String & 12-String Guitars, Warm Tonewheel Organ Swell & Gentle Rimshot Beat]
+(Warm, nostalgic acoustic guitar chord progression joined by a soulful tonewheel organ melody and Evan Wright's woody acoustic bass)
 
 [Verse 1]
 [male]
@@ -74,7 +74,7 @@ Holding every story since the school begun!
 God bless the Old Lady on the Hill!
 
 [Acoustic Guitar & Organ Solo]
-(Warm, melodic duel between Ryan's fingerpicked acoustic-electric lead guitar and Cassidy's Leslie-speaker Hammond B3 organ over Tyler's steady tambourine and snare groove)
+(Warm, melodic duel between Ryan's fingerpicked acoustic-electric lead guitar and Cassidy's rotary-speaker tonewheel organ over Tyler's steady tambourine and snare groove)
 
 [Bridge]
 [female]
@@ -101,5 +101,5 @@ God bless the Old Lady on the Hill!
 [duet]
 Old Lady on the Hill...
 Still standing strong on the Blacksburg hill...
-(Warm 12-string acoustic guitar chord and gentle Hammond organ sustain fading into the mountain breeze)
+(Warm 12-string acoustic guitar chord and gentle tonewheel organ sustain fading into the mountain breeze)
 

@@ -10,7 +10,7 @@ Climbing up to the rooftop astronomy observation deck of **Copernicus Hall**—h
 [Tempo: 108 BPM - Soaring 1994 Cosmic Synthesizer & Melodic Electric Guitar Space-Rock Instrumental]
 
 [Intro: Zero-Gravity Analog Synthesizer Arpeggios & Night-Sky Pad]
-(Crystalline Roland Jupiter-8 and Oberheim OB-Xa arpeggiators sparkling like constellations above the Blue Ridge Mountains, underpinned by Evan Wright's deep Moog Taurus bass pedal sustain)
+(Crystalline eight-voice analog polyphonic synthesizer arpeggiators sparkling like constellations above the Blue Ridge Mountains, underpinned by Evan Wright's deep sub-bass synthesizer pedal sustain)
 
 [Theme A: The Copernicus Hall Observatory Dome Opens]
 (Cassidy O'Connell introduces a majestic, wide-interval analog brass and poly-synth melody at 108 BPM as Tyler Wright's crisp, reverberant acoustic drums enter on a steady orbital pulse)
