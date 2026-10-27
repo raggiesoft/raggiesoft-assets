@@ -1,5 +1,5 @@
 **LORE NOTE:**
-**Act IV: *Our Own Frequency* — The Intimate Brother & Sister Acoustic Block (Part 3 of 3).** Completing the three-song *Our Own Frequency* (2008) living-room trilogy, **"Safe Person"** answers the physical devotion of *"Brother's Keeper"* by revealing the other half of their unbreakable bond: how Ryan acts as Cassidy's safe person and emotional anchor when the flashing cameras, press questions, and autistic sensory overload threaten to overwhelm her. Performed strictly by Ryan on acoustic guitar and Cassidy at the piano with zero electric amps or stadium lights, sixty-five thousand Forgers hold up quiet white phone lights across the dark bowl of The Crucible.
+**Act V: *Our Own Frequency* — The Intimate Brother & Sister Acoustic Block (Part 3 of 4).** Drawn from 2008's *Our Own Frequency* living-room sessions, **"Safe Person"** answers the physical devotion of *"Brother's Keeper"* by revealing the other half of their unbreakable bond: how Ryan acts as Cassidy's safe person and emotional anchor when the flashing cameras, press questions, and autistic sensory overload threaten to overwhelm her. Performed strictly by Ryan on acoustic guitar and Cassidy at the piano with zero electric amps or stadium lights, sixty-five thousand Forgers hold up quiet white phone lights across the dark bowl of The Crucible.
 
 **LYRICS:**
 

@@ -1,5 +1,5 @@
 **LORE NOTE:**
-**Act V Opener: Full-Band Electric Return (Permanently Replacing *"If You Walked Away"*).** Following the three-song *Our Own Frequency* brother-and-sister acoustic block, Evan and Tyler walk back onto the stage and strap on their electric bass and drum kit. Because 1989's *"If You Walked Away"* is permanently banned from all post-1990 Stardust Engine concerts to protect Cassidy from autistic sensory and abandonment overload, **"Echoes in the Wire"** (from 1997's *Hard Reset*) holds the emotional power-ballad spotlight—beginning at Cassidy's grand piano before Evan, Tyler, and Ryan's full electric stadium rig roars back to life.
+**Act VI Opener: Full-Band Electric Return (Permanently Replacing *"If You Walked Away"*).** Following the four-song *Our Own Frequency* brother-and-sister acoustic block, Evan and Tyler walk back onto the stage and strap on their electric bass and drum kit. Because 1989's *"If You Walked Away"* is permanently banned from all post-1990 Stardust Engine concerts to protect Cassidy from autistic sensory and abandonment overload, **"Echoes in the Wire"** (from 1997's *Hard Reset*) holds the emotional power-ballad spotlight—beginning at Cassidy's grand piano before Evan, Tyler, and Ryan's full electric stadium rig roars back to life.
 
 **LYRICS:**
 

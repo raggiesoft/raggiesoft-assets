@@ -8,12 +8,12 @@
     "ebook_sizes": {
         "epub": "9.9 MB",
         "pdf": "11 MB",
-        "text_epub": "37 KB",
-        "text_pdf": "133 KB",
-        "epub_bytes": 10376203,
-        "pdf_bytes": 11497545,
-        "text_epub_bytes": 37509,
-        "text_pdf_bytes": 136592
+        "text_epub": "44 KB",
+        "text_pdf": "156 KB",
+        "epub_bytes": 10383809,
+        "pdf_bytes": 11520752,
+        "text_epub_bytes": 45023,
+        "text_pdf_bytes": 159417
     },
     "illustration_count": 12,
     "eras": [
@@ -82,6 +82,23 @@
                             "date": "1995-11-14",
                             "start_time": "12:00",
                             "location": "Engine Room Warehouse Studio, Blacksburg, VA"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "Chapter 2: Writing Before the Distance on Progress Street (2004)",
+                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1996-2005/chapter-2-writing-before-the-distance-on-progress-street-2004",
+                    "illustration_count": 0,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Two Blocks from Commonwealth Mall",
+                            "file_path": "e004/c002/p001.md",
+                            "url": "/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1996-2005/chapter-2-writing-before-the-distance-on-progress-street-2004/two-blocks-from-commonwealth-mall",
+                            "date": "2004-06-14",
+                            "start_time": "16:30",
+                            "location": "Progress Street NE, Blacksburg, VA"
                         }
                     ]
                 }
