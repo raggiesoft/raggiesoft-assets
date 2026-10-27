@@ -1,7 +1,7 @@
 **LORE NOTE:**
 Recorded in **May 2016** inside **Callahan Hall** (CPI's School of Performing Arts concert hall and home of the **CPI Marching Forgers**) during the week leading up to the May 21, 2016 *Live at the Crucible* concert, ***"Ad Astra, Per Aspera: Hymn for the Crucible"*** (`2016 Brass & Band Studio Master`) is a majestic **`78 BPM`** rock-and-brass alma mater benediction written by Cassidy and Ryan O'Connell to honor the 30th Anniversary of their 1986 CPI origins.
 
-Translating the Latin motto (`"Through Hardship to the Stars"`) into a sweeping cathedral of sound combining Cassidy's grand piano and analog synthesizers, Ryan's weeping sustain electric guitar, Evan and Tyler's stately rhythm section, and the 60-horn symphonic brass choir of the **CPI Marching Forgers**, Track 15 brings the thirty-year arc of *The Forger's Call* to a deeply moving close—right before Track 16 (`"Ignition: The Forger's Call [Demo Take 3]"`) rewinds the tape thirty years back to the October 1986 Progress Street garage where the five teenagers started it all.
+Translating the Latin motto (`"Through Hardship to the Stars"`) into a sweeping cathedral of sound combining Cassidy's grand piano and analog synthesizers, Ryan's weeping sustain electric guitar, Evan and Tyler's stately rhythm section, and the 60-horn symphonic brass choir of the **CPI Marching Forgers**, Track 15 brings the thirty-year arc of *The Forger's Call* to a deeply moving close—right before Track 16 (`"Ignition: The Forger's Call [Demo Take 3]"`) rewinds the tape thirty years back to the October 1986 Progress Street garage where the five of them started it all.
 
 **LYRICS:**
 

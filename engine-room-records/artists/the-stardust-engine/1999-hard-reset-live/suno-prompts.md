@@ -12,7 +12,7 @@
 ## I. Canonical Lore & Setlist Rules for *Hard Reset Live* (1999)
 
 1. **Why the Band Hates 1990's *Live in Chicago* vs. Why They Love *Hard Reset Live*:**
-   - On 1990's *Live in Chicago* (recorded two weeks before the Des Moines I-80 bus crash), Apex Records trapped the band in a 30-minute opening slot, buried Cassidy O'Connell's signature *"Stardust"* synthesizer leitmotif in the mix, and forced Cassidy to sing *"If You Walked Away"*—which she experienced viscerally as a terrifying scenario of her brother/safe person Ryan abandoning her, resulting in a backstage autistic meltdown where Ryan had to hold her in a 20-minute deep-pressure grounding hug repeating *"Family sticks together."*
+   - On 1990's *Live in Chicago* (recorded months before the December 10, 1990 Interstate 81 Mile Marker 98 crash), Apex Records trapped the band in a 30-minute opening slot, buried Cassidy O'Connell's signature *"Stardust"* synthesizer leitmotif in the mix, and forced Cassidy to sing *"If You Walked Away"*—which she experienced viscerally as a terrifying scenario of her brother/safe person Ryan abandoning her, resulting in a backstage autistic meltdown where Ryan had to hold her in a 20-minute deep-pressure grounding hug repeating *"Family sticks together."*
    - *Hard Reset Live* (recorded on the 1998–1999 world tour supporting 1997's *Hard Reset*) is the band's first headlining tour as independent owners of **Engine Room Records, LLC** following the 1996 *American Dream* lottery windfall.
 2. **Mandatory Opener & Closer Rule (Opening with *The Stardust Suite*):**
    - **Tracks 01–03 (*The Stardust Suite* Opener):** **MUST open with the complete 3-part *Stardust Suite*** from 1997's *Hard Reset*:

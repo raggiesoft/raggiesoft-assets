@@ -1444,7 +1444,7 @@ Mile Marker 98.
 ***
 
 **LORE NOTE:**
-Transitioning directly from *Moon 1* into the heavy, high-friction arena rock of 2003's *Moon 2: Mile Marker 98*, Ryan and Cassidy sing the story of how their family intercepted the darkness after the 1990 Des Moines bus crash and brought everyone home alive.
+Transitioning directly from *Moon 1* into the heavy, high-friction arena rock of 2003's *Moon 2: Mile Marker 98*, Ryan and Cassidy sing the story of how their family intercepted the darkness after the December 10, 1990 Interstate 81 Mile Marker 98 crash and brought everyone home alive.
 
 **LYRICS:**
 
@@ -1789,7 +1789,7 @@ This next song is the centerpiece of Our Own Frequency, and it's the most privat
 [female]
 And they don't see how you keep me anchored when the world gets too loud for my head to handle. We take care of each other. That's what family does.
 [male]
-Doing all of those daily routines on tour buses and in hotel rooms across the world was one thing when I was twenty-two in nineteen-ninety. Twenty-six years later... I'm gonna be honest with you, Forger Nation. Accommodating this chair on the road has gotten too hard on my body, and on my family. Tonight is the final stop of the Reignition tour, and tonight is the last concert a touring Stardust Engine will ever play.
+Doing all of those daily routines on tour buses and in hotel rooms across the world was one thing when I was twenty-six in nineteen-ninety. Twenty-six years later... I'm gonna be honest with you, Forger Nation. Accommodating this chair on the road has gotten too hard on my body, and on my family. Tonight is the final stop of the Reignition tour, and tonight is the last concert a touring Stardust Engine will ever play.
 [Audience Gasps Softly, Then Applauds Warmly in Support]
 [female]
 Wait—don't be sad! We aren't retiring! If touring the world is too hard on Ryan, then the world can come to Blacksburg! To give the Town of Blacksburg and CPI time to build this right, starting in August twenty-seventeen, we're launching the annual Forger Nation Summer Festival! A massive CPI Open House for incoming and prospective freshmen, the biggest downtown Blacksburg block party of the summer with stages for signed and unsigned bands, and every single year we'll close the festival right here inside The Crucible with fireworks—and sleep in our own beds on Progress Street every night!

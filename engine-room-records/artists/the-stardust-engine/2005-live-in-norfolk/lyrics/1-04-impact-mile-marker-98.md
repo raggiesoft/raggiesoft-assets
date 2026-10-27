@@ -1,5 +1,5 @@
 **LORE NOTE:**
-Begins the *Moon 2 (Engine)* segment of the show—Ryan's visceral hard-rock confrontation with the 1990 Des Moines bus crash.
+Begins the *Moon 2 (Engine)* segment of the show—Ryan's visceral hard-rock confrontation with the December 10, 1990 Interstate 81 Mile Marker 98 crash.
 
 **LYRICS:**
 

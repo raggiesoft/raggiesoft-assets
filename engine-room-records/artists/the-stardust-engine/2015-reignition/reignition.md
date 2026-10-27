@@ -647,7 +647,7 @@ Go Forgers!
 ***
 
 **LORE NOTE:**
-A high-energy, groove-driven 130 BPM 1980s arena rocker spotlighting identical twin brothers **Evan** (bass guitar) and **Tyler** (drums)—the unshakeable rhythmic engine of The Stardust Engine since 1985. Built around a syncopated slap-and-fingerstyle bass groove locked to Tyler's booming octoban fills and gated-reverb snare, the track celebrates the twins' telepathic connection both on stage and behind the wheel of *The Iron Horse*.
+A high-energy, groove-driven 130 BPM 1980s arena rocker spotlighting Ryan, Cassidy, and Holly's maternal cousins, identical twin brothers **Evan** (bass guitar) and **Tyler Wright** (drums)—the unshakeable rhythmic engine of The Stardust Engine since 1986. Built around a syncopated slap-and-fingerstyle bass groove locked to Tyler's booming octoban fills and gated-reverb snare, the track celebrates the twins' telepathic connection both on stage and behind the wheel of *The Iron Horse*.
 
 **LYRICS:**
 

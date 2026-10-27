@@ -10971,7 +10971,7 @@ Catch the pulse tonight
 
 ## Impact: Mile Marker 98 (Live in Norfolk)
 ### Lore
-Begins the *Moon 2 (Engine)* segment of the show—Ryan's visceral hard-rock confrontation with the 1990 Des Moines bus crash.
+Begins the *Moon 2 (Engine)* segment of the show—Ryan's visceral hard-rock confrontation with the December 10, 1990 Interstate 81 Mile Marker 98 crash.
 
 ### Lyrics
 
@@ -14091,8 +14091,7 @@ Long after we leave the ground
 
 [Outro]
 Echoes in the wire...
-Floating in the velvet dark...
-Leaving our mark...
+Floating in the velvet 
 (Gentle analog synthesizer pad and fretless bass harmonic fade into deep space)
 
 ## Midnight Drivers (Cosmic Tidal Lock Mix)
@@ -14906,7 +14905,7 @@ Go Forgers!
 
 ## Twin Frequency: The Rhythm Section
 ### Lore
-A high-energy, groove-driven 130 BPM 1980s arena rocker spotlighting identical twin brothers **Evan** (bass guitar) and **Tyler** (drums)—the unshakeable rhythmic engine of The Stardust Engine since 1985. Built around a syncopated slap-and-fingerstyle bass groove locked to Tyler's booming octoban fills and gated-reverb snare, the track celebrates the twins' telepathic connection both on stage and behind the wheel of *The Iron Horse*.
+A high-energy, groove-driven 130 BPM 1980s arena rocker spotlighting Ryan, Cassidy, and Holly's maternal cousins, identical twin brothers **Evan** (bass guitar) and **Tyler Wright** (drums)—the unshakeable rhythmic engine of The Stardust Engine since 1986. Built around a syncopated slap-and-fingerstyle bass groove locked to Tyler's booming octoban fills and gated-reverb snare, the track celebrates the twins' telepathic connection both on stage and behind the wheel of *The Iron Horse*.
 
 ### Lyrics
 
@@ -16778,7 +16777,7 @@ Mile Marker 98.
 
 ## Mayday: The Intercept (Live at the Crucible)
 ### Lore
-Transitioning directly from *Moon 1* into the heavy, high-friction arena rock of 2003's *Moon 2: Mile Marker 98*, Ryan and Cassidy sing the story of how their family intercepted the darkness after the 1990 Des Moines bus crash and brought everyone home alive.
+Transitioning directly from *Moon 1* into the heavy, high-friction arena rock of 2003's *Moon 2: Mile Marker 98*, Ryan and Cassidy sing the story of how their family intercepted the darkness after the December 10, 1990 Interstate 81 Mile Marker 98 crash and brought everyone home alive.
 
 ### Lyrics
 
@@ -17107,7 +17106,7 @@ This next song is the centerpiece of Our Own Frequency, and it's the most privat
 [female]
 And they don't see how you keep me anchored when the world gets too loud for my head to handle. We take care of each other. That's what family does.
 [male]
-Doing all of those daily routines on tour buses and in hotel rooms across the world was one thing when I was twenty-two in nineteen-ninety. Twenty-six years later... I'm gonna be honest with you, Forger Nation. Accommodating this chair on the road has gotten too hard on my body, and on my family. Tonight is the final stop of the Reignition tour, and tonight is the last concert a touring Stardust Engine will ever play.
+Doing all of those daily routines on tour buses and in hotel rooms across the world was one thing when I was twenty-six in nineteen-ninety. Twenty-six years later... I'm gonna be honest with you, Forger Nation. Accommodating this chair on the road has gotten too hard on my body, and on my family. Tonight is the final stop of the Reignition tour, and tonight is the last concert a touring Stardust Engine will ever play.
 [Audience Gasps Softly, Then Applauds Warmly in Support]
 [female]
 Wait—don't be sad! We aren't retiring! If touring the world is too hard on Ryan, then the world can come to Blacksburg! To give the Town of Blacksburg and CPI time to build this right, starting in August twenty-seventeen, we're launching the annual Forger Nation Summer Festival! A massive CPI Open House for incoming and prospective freshmen, the biggest downtown Blacksburg block party of the summer with stages for signed and unsigned bands, and every single year we'll close the festival right here inside The Crucible with fireworks—and sleep in our own beds on Progress Street every night!
@@ -19486,7 +19485,7 @@ We're back, baby—Progress Street!
 ### Lore
 Recorded in **May 2016** inside **Callahan Hall** (CPI's School of Performing Arts concert hall and home of the **CPI Marching Forgers**) during the week leading up to the May 21, 2016 *Live at the Crucible* concert, ***"Ad Astra, Per Aspera: Hymn for the Crucible"*** (`2016 Brass & Band Studio Master`) is a majestic **`78 BPM`** rock-and-brass alma mater benediction written by Cassidy and Ryan O'Connell to honor the 30th Anniversary of their 1986 CPI origins.
 
-Translating the Latin motto (`"Through Hardship to the Stars"`) into a sweeping cathedral of sound combining Cassidy's grand piano and analog synthesizers, Ryan's weeping sustain electric guitar, Evan and Tyler's stately rhythm section, and the 60-horn symphonic brass choir of the **CPI Marching Forgers**, Track 15 brings the thirty-year arc of *The Forger's Call* to a deeply moving close—right before Track 16 (`"Ignition: The Forger's Call [Demo Take 3]"`) rewinds the tape thirty years back to the October 1986 Progress Street garage where the five teenagers started it all.
+Translating the Latin motto (`"Through Hardship to the Stars"`) into a sweeping cathedral of sound combining Cassidy's grand piano and analog synthesizers, Ryan's weeping sustain electric guitar, Evan and Tyler's stately rhythm section, and the 60-horn symphonic brass choir of the **CPI Marching Forgers**, Track 15 brings the thirty-year arc of *The Forger's Call* to a deeply moving close—right before Track 16 (`"Ignition: The Forger's Call [Demo Take 3]"`) rewinds the tape thirty years back to the October 1986 Progress Street garage where the five of them started it all.
 
 ### Lyrics
 

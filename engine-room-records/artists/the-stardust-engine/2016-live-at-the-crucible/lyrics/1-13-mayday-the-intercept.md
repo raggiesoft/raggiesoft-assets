@@ -1,5 +1,5 @@
 **LORE NOTE:**
-Transitioning directly from *Moon 1* into the heavy, high-friction arena rock of 2003's *Moon 2: Mile Marker 98*, Ryan and Cassidy sing the story of how their family intercepted the darkness after the 1990 Des Moines bus crash and brought everyone home alive.
+Transitioning directly from *Moon 1* into the heavy, high-friction arena rock of 2003's *Moon 2: Mile Marker 98*, Ryan and Cassidy sing the story of how their family intercepted the darkness after the December 10, 1990 Interstate 81 Mile Marker 98 crash and brought everyone home alive.
 
 **LYRICS:**
 

@@ -33,10 +33,10 @@
       "title": "Historical Context",
       "icon": "fa-clock-rotate-left",
       "variant": "info",
-      "content": "This is the last official recording of Ryan O'Connell performing standing up. Two weeks after this show, on the icy highway outside Des Moines, the tour bus hit a patch of black ice.",
+      "content": "This is the last official recording of Ryan O'Connell performing standing up. Later that year, on the night of December 10, 1990 on Interstate 81 Northbound at Mile Marker 98 (Exit 98, Newbern, Virginia), the band's 1988 Holt Freighter touring van was clipped on black ice.",
       "link": {
         "label": "Read \"The Crash of '90\" Case File",
-        "url": "https://stardust.raggiesoft.com/story/crash-of-1990"
+        "url": "https://stardust.raggiesoft.com/story/crash-of-90"
       }
     },
     {
@@ -59,8 +59,8 @@
   "loreLinks": [
     {
       "label": "Read \"The Crash of '90\" Case File",
-      "url": "https://stardust.raggiesoft.com/story/crash-of-1990",
-      "description": "Official investigation and narrative archive of the 1990 I-80 bus crash."
+      "url": "https://stardust.raggiesoft.com/story/crash-of-90",
+      "description": "Official investigation and narrative archive of the December 10, 1990 I-81 Mile Marker 98 crash."
     }
   ]
 }
