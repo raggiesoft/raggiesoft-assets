@@ -9,11 +9,11 @@
         "epub": "10.8 MB",
         "pdf": "12.1 MB",
         "text_epub": "46 KB",
-        "text_pdf": "161 KB",
-        "epub_bytes": 11315132,
-        "pdf_bytes": 12655988,
-        "text_epub_bytes": 46973,
-        "text_pdf_bytes": 164672
+        "text_pdf": "164 KB",
+        "epub_bytes": 11306213,
+        "pdf_bytes": 12673507,
+        "text_epub_bytes": 47378,
+        "text_pdf_bytes": 167603
     },
     "illustration_count": 13,
     "eras": [
@@ -221,9 +221,9 @@
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: Acts V & VI: Brother's Keeper, The Summer Festival & Saturday Night Lights",
+                            "part_title": "Part 5: Act V: Our Own Frequency, Brother's Keeper & The Summer Festival",
                             "file_path": "e006/c001/p005.md",
-                            "url": "/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-5-acts-v-vi-brother-s-keeper-the-summer-festival-saturday-night-lights",
+                            "url": "/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-5-act-v-our-own-frequency-brother-s-keeper-the-summer-festival",
                             "date": "2016-05-21",
                             "start_time": "21:50",
                             "location": "Center Stage, The Crucible, Commonwealth Polytechnic Institute, Blacksburg, VA",
@@ -233,35 +233,49 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/brothers-keeper-acoustic-spotlight.jpg",
                                     "alt": "Under two solitary warm golden spotlights at center stage inside the darkened 65,000-seat bowl of The Crucible, Ryan O'Connell sits in his manual wheelchair fingerpicking an acoustic guitar beside his sister Cassidy O'Connell at a gleaming black grand piano during 'Brother's Keeper', while the curved stage screen behind them displays 'THE FORGER NATION SUMMER FESTIVAL \u2022 AUGUST 2017' and thousands of fans hold up quiet white lights across the stands."
-                                },
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/neon-on-the-huckleberry-trail-crucible.jpg",
-                                    "alt": "Inside The Crucible during 'Neon on the Huckleberry Trail', a 120-foot curved LED screen projects an autumn sunset over the narrow paved Huckleberry rail-trail between wooden split-rail pasture fences while Ryan O'Connell plays his sunburst electric guitar from his manual wheelchair and Cassidy O'Connell steps back from her microphone with her hand over her heart; at the Section 104, Row A railing in the foreground, an 80-year-old 1956 CPI alumnus wipes joyful tears, Jordan Fuller smiles in his wheelchair in his Foundry Maroon CPI shirt holding Madison Scott's hand alongside Aubrie Jean Kelly, Zo\u00eb Wren Brooks, and Mark Anderson, and a bewildered out-of-towner in a blue polo looks around in amazement."
-                                },
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p005/my-anchor-holds-section-104.jpg",
-                                    "alt": "During the romantic 1987 piano ballad 'My Anchor Holds' inside The Crucible bathed in warm candlelight gold and starlight white, fans in Section 104, Row A hold each other close along the terrace railing."
                                 }
                             ],
-                            "image_count": 3
+                            "image_count": 1
                         },
                         {
                             "part_num": 6,
-                            "part_title": "Part 6: Act VII: Electric Color & Lights Out on Progress Street",
+                            "part_title": "Part 6: Act VI: Neon on the Huckleberry Trail & Saturday Night Lights",
                             "file_path": "e006/c001/p006.md",
-                            "url": "/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-6-act-vii-electric-color-lights-out-on-progress-street",
+                            "url": "/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-6-act-vi-neon-on-the-huckleberry-trail-saturday-night-lights",
+                            "date": "2016-05-21",
+                            "start_time": "22:15",
+                            "location": "Center Stage, The Crucible, Commonwealth Polytechnic Institute, Blacksburg, VA",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/neon-on-the-huckleberry-trail-crucible.jpg",
+                            "image_alt": "Inside The Crucible during 'Neon on the Huckleberry Trail', a 120-foot curved LED screen projects an autumn sunset over the narrow paved Huckleberry rail-trail between wooden split-rail pasture fences while Ryan O'Connell plays his sunburst electric guitar from his manual wheelchair and Cassidy O'Connell steps back from her microphone with her hand over her heart; at the Section 104, Row A railing in the foreground, a bearded 80-year-old 1956 CPI alumnus in a maroon flat cap wipes joyful tears, Jordan Fuller smiles in his wheelchair in his Foundry Maroon CPI shirt holding Aubrie Jean Kelly's hand alongside Madison Scott, Zo\u00eb Wren Brooks, and Mark Anderson, and a bewildered out-of-towner in a blue polo looks around in amazement.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/neon-on-the-huckleberry-trail-crucible.jpg",
+                                    "alt": "Inside The Crucible during 'Neon on the Huckleberry Trail', a 120-foot curved LED screen projects an autumn sunset over the narrow paved Huckleberry rail-trail between wooden split-rail pasture fences while Ryan O'Connell plays his sunburst electric guitar from his manual wheelchair and Cassidy O'Connell steps back from her microphone with her hand over her heart; at the Section 104, Row A railing in the foreground, a bearded 80-year-old 1956 CPI alumnus in a maroon flat cap wipes joyful tears, Jordan Fuller smiles in his wheelchair in his Foundry Maroon CPI shirt holding Aubrie Jean Kelly's hand alongside Madison Scott, Zo\u00eb Wren Brooks, and Mark Anderson, and a bewildered out-of-towner in a blue polo looks around in amazement."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/my-anchor-holds-section-104.jpg",
+                                    "alt": "During the romantic 1987 piano ballad 'My Anchor Holds' inside The Crucible bathed in warm candlelight gold and starlight white, fans in Section 104, Row A hold each other close along the terrace railing."
+                                }
+                            ],
+                            "image_count": 2
+                        },
+                        {
+                            "part_num": 7,
+                            "part_title": "Part 7: Act VII: Electric Color & Lights Out on Progress Street",
+                            "file_path": "e006/c001/p007.md",
+                            "url": "/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-7-act-vii-electric-color-lights-out-on-progress-street",
                             "date": "2016-05-21",
                             "start_time": "22:40",
                             "location": "The Crucible to Progress Street NE, Blacksburg, VA",
-                            "image": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/electric-color-rainbow-reclamation.jpg",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p007/electric-color-rainbow-reclamation.jpg",
                             "image_alt": "During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage.",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/electric-color-rainbow-reclamation.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p007/electric-color-rainbow-reclamation.jpg",
                                     "alt": "During the grand finale of 'Electric Color (Live at the Crucible)' inside The Crucible at night, all 65,000 synchronized LED wristbands across the Gothic limestone stadium bowl erupt into a sweeping rainbow wave of cyan, magenta, solar gold, emerald, and violet while the 300-piece CPI Marching Forgers and The Stardust Engine perform on stage."
                                 },
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p006/crucible-bus-loop-forgers-shuttle.jpg",
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e007/c004/p007/crucible-bus-loop-forgers-shuttle.jpg",
                                     "alt": "At 10:50 PM outside the illuminated Gothic limestone arches of The Crucible at the Crucible Bus Loop, white-and-maroon Blue Ridge Transit articulated shuttles displaying 'CBURG TRANS CTR' / 'GO FORGERS!' on their amber LED destination signs board students and alumni for the ride home."
                                 }
                             ],

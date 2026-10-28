@@ -1,198 +1,176 @@
 /**
  * ============================================================================
- * STARDUST THEME: CRUCIBLE ELECTRIC COLOR (ACT VII: RAINBOW RECLAMATION FINALE)
+ * STARDUST THEME: CRUCIBLE ACOUSTIC SANCTUARY (ACT V: OUR OWN FREQUENCY)
  * ============================================================================
  *
  * Description:
- * This stylesheet (`crucible-electric-color.css`) defines the bespoke
- * "Crucible Electric Color" reading theme (`theme: "crucible-electric-color"`)
- * for the Ocean View Archives / Stardust Engine. Created for Era 7, Chapter 4,
- * Part 6 ("10:35 PM — The False Ending, Act VII: Electric Color & The Ride
- * Home") of *The Eleventh Child: The Story of Jordan*, it celebrates the climax
- * of *Live at the Crucible*: the false ending of "Last Bus Home: Lights Out on
- * Progress Street", the secret return of all 300 CPI Marching Forgers in the
- * dark, and the 5:26 1980s AOR / Stadium Rock reclamation of "Electric Color
- * (Live at the Crucible)" (`QTAHP2600023`) as 65,000 DMX-synchronized LED
- * wristbands ignite in a rolling rainbow wave across the Blacksburg mountains
- * and Jordan remembers hearing the 1987 cassette in Suite 214/216 when his
- * world turned from gray to pure color.
+ * This stylesheet (`crucible-acoustic-sanctuary.css`) defines the bespoke
+ * "Crucible Acoustic Sanctuary" reading theme
+ * (`theme: "crucible-acoustic-sanctuary"`) for the Ocean View Archives /
+ * Stardust Engine. Created for Act V ("9:50 PM — Our Own Frequency, Brother's
+ * Keeper & The Summer Festival Announcement") of *The Eleventh Child* and
+ * *The Stardust Engine*, it captures the intimate center-stage acoustic
+ * sanctuary where Evan, Tyler, and The Orbital Crew leave the stage so Ryan
+ * (on acoustic guitar in his manual chair) and Cassidy (at her grand piano)
+ * can perform "Our Own Frequency", "Brother's Keeper" (and unveil the annual
+ * *Forger Nation Summer Festival*), "Safe Person", and "Still Your Safe Person"
+ * surrounded by 65,000 soft white cell-phone lights.
  *
- * Dual Prismatic Spectrum Palette:
- * - Nocturnal Rainbow Encore Mode (`theme-auto` Default & `theme-dark` —
- *   "65,000 Rainbow LED Wristbands, Oberheim Magenta & Electric Cyan"):
- *   Evokes the full-spectrum stadium encore—a Deep Midnight-Violet Encore canvas
- *   (`#090614`) and Elevated Full-Spectrum Synth-Wave surface (`#191033`) paired
- *   with Pure White-Light Prism prose (`#faf5ff`), Electric-Cyan LED Wristband
- *   primary accents (`#38bdf8`), and 1980s Oberheim Synth-Magenta secondary
- *   accents (`#e879f9`), crowned by a multi-color rainbow stage glow.
- * - Explicit Light / Sepia Mode (`theme-light` & `theme-sepia` — "1987 Prism-
- *   Foil Lavender, Spectrum Purple & Wristband Cyan"):
- *   Pairs a Rich Prismatic Spectrum-Lavender canvas (`#f3e8ff`) and Iridescent
- *   Synth-Violet sidebar (`#e9d5ff`) with Deep Midnight-Obsidian prose
- *   (`#120f24`), Radiant Spectrum-Purple primary accents (`#6b21a8`), and
- *   Electric-Cyan Wristband Blue secondary accents (`#0369a1`).
+ * Dual Acoustic & Candlelight Palette:
+ * - Nocturnal Candlelight Mode (`theme-auto` Default & `theme-dark` — "65,000
+ *   Cell-Phone Fireflies, Grand-Piano Amber & Sanctuary Gold"):
+ *   Evokes the hushed stadium bowl lit by two warm amber pin-spots and 65,000
+ *   phone flashlights—a Hushed Mahogany-Bowl Night canvas (`#100c08`) and
+ *   Elevated Grand-Piano Amber surface (`#221911`) paired with Firefly
+ *   Warm-White prose (`#fef9f0`), "Our Own Frequency" Amber-Gold Spotlight
+ *   primary accents (`#fbbf24`), and Safe-Harbor Seafoam-Teal secondary
+ *   accents (`#5eead4`).
+ * - Explicit Light / Sepia Mode (`theme-light` & `theme-sepia` — "Spruce-Top
+ *   Acoustic Amber, Concert Grand Ivory & Harbor Teal"):
+ *   Pairs a Warm Concert-Grand Ivory Parchment canvas (`#fbf7f0`) and Pure
+ *   Sheet-Music White reading surfaces (`#ffffff`) with Deep Rosewood-Fretboard
+ *   Espresso ink (`#1c150e`), Warm Acoustic Amber-Mahogany primary accents
+ *   (`#92400e`), and Safe-Harbor Teal secondary accents (`#0f5e54`).
  *
  * WCAG 2.1 AA / AAA & Section 508 Contrast Verification:
  * - Light Mode:
- *   - Body Text (`#120f24` on `#f3e8ff` bg): 16.04:1 (WCAG AAA)
- *   - Body Text (`#120f24` on `#faf5ff` surface): 18.18:1 (WCAG AAA)
- *   - Primary Accent (`#6b21a8` on `#f3e8ff` bg): 7.42:1 (WCAG AAA)
- *   - Secondary Accent (`#0369a1` on `#f3e8ff` bg): 5.68:1 (WCAG AA)
- * - Dark / Nocturnal Rainbow Encore Mode:
- *   - Body Text (`#faf5ff` on `#090614` bg): 18.18:1 (WCAG AAA)
- *   - Body Text (`#faf5ff` on `#191033` surface): 15.32:1 (WCAG AAA)
- *   - Primary Accent (`#38bdf8` on `#090614` bg): 10.32:1 (WCAG AAA)
- *   - Secondary Accent (`#e879f9` on `#090614` bg): 8.16:1 (WCAG AAA)
- *   - Primary Button (`#ffffff` on `#6b21a8` fill): 8.46:1 (WCAG AAA)
+ *   - Body Text (`#1c150e` on `#fbf7f0` bg): 17.38:1 (WCAG AAA)
+ *   - Body Text (`#1c150e` on `#ffffff` surface): 18.45:1 (WCAG AAA)
+ *   - Primary Accent (`#92400e` on `#fbf7f0` bg): 6.58:1 (WCAG AA)
+ *   - Secondary Accent (`#0f5e54` on `#fbf7f0` bg): 7.22:1 (WCAG AAA)
+ * - Dark / Nocturnal Candlelight Mode:
+ *   - Body Text (`#fef9f0` on `#100c08` bg): 18.06:1 (WCAG AAA)
+ *   - Body Text (`#fef9f0` on `#221911` surface): 15.14:1 (WCAG AAA)
+ *   - Primary Accent (`#fbbf24` on `#100c08` bg): 12.14:1 (WCAG AAA)
+ *   - Secondary Accent (`#5eead4` on `#100c08` bg): 12.64:1 (WCAG AAA)
+ *   - Primary Button (`#fffbeb` on `#78350f` fill): 9.48:1 (WCAG AAA)
  * ============================================================================
  */
 
-/* Theme Name: Crucible Electric Color (`crucible-electric-color`) */
+/* Theme Name: Crucible Acoustic Sanctuary (`crucible-acoustic-sanctuary`) */
 
-/* --- 1. Nocturnal Rainbow Encore Mode (Default `theme-auto` & `theme-dark`) --- */
-body.theme-crucible-electric-color,
-body.theme-auto.theme-crucible-electric-color,
-body.theme-dark.theme-crucible-electric-color,
-body.theme-dark-sepia.theme-crucible-electric-color {
+/* --- 1. Nocturnal Candlelight Mode (Default `theme-auto` & `theme-dark`) --- */
+body.theme-crucible-acoustic-sanctuary,
+body.theme-auto.theme-crucible-acoustic-sanctuary,
+body.theme-dark.theme-crucible-acoustic-sanctuary,
+body.theme-dark-sepia.theme-crucible-acoustic-sanctuary {
     color-scheme: dark;
-    --rs-bg: #090614;        /* Deep Midnight-Violet Crucible Encore canvas */
-    --rs-bg-alt: #110b24;    /* Prismatic Stage-Truss Indigo sidebar background */
-    --rs-surface: #191033;   /* Elevated Full-Spectrum Synth-Wave surface */
-    --rs-card-bg: #191033;   /* Matching elevated dark container surface */
-    --rs-text: #faf5ff;      /* Pure White-Light Prism prose text (18.18:1 contrast) */
-    --rs-heading: #f0abfc;   /* Radiant "Electric Color" Neon-Magenta heading token */
-    --rs-primary: #38bdf8;   /* Electric-Cyan LED Wristband primary accent (10.32:1 contrast) */
-    --rs-secondary: #e879f9; /* 1980s Oberheim Synth-Magenta secondary accent (8.16:1 contrast) */
-    --rs-border: #4c2d91;    /* Full-Spectrum Ultraviolet-Prism structural border */
-    accent-color: #38bdf8;
-    background-color: #090614;
-    color: #faf5ff;
+    --rs-bg: #100c08;        /* Hushed Mahogany- & Candlelight-Bowl Night canvas */
+    --rs-bg-alt: #18120c;    /* Warm Rosewood Stage-Center sidebar background */
+    --rs-surface: #221911;   /* Elevated Grand-Piano & Amber-Spotlight surface */
+    --rs-card-bg: #221911;   /* Matching elevated dark container surface */
+    --rs-text: #fef9f0;      /* 65,000 Cell-Phone Firefly Warm-White prose (18.06:1 contrast) */
+    --rs-heading: #fde68a;   /* Candlelight Acoustic Gold heading token */
+    --rs-primary: #fbbf24;   /* Warm "Our Own Frequency" Amber-Gold Spotlight primary (12.14:1 contrast) */
+    --rs-secondary: #5eead4; /* Safe-Harbor Seafoam-Teal secondary (12.64:1 contrast) */
+    --rs-border: #4a3723;    /* Burnished Acoustic-Brass & Mahogany structural border */
+    accent-color: #fbbf24;
+    background-color: #100c08;
+    color: #fef9f0;
 }
 
-body.theme-crucible-electric-color #stardust-reading-pane,
-body.theme-auto.theme-crucible-electric-color #stardust-reading-pane,
-body.theme-dark.theme-crucible-electric-color #stardust-reading-pane,
-body.theme-dark-sepia.theme-crucible-electric-color #stardust-reading-pane {
+body.theme-crucible-acoustic-sanctuary #stardust-reading-pane,
+body.theme-auto.theme-crucible-acoustic-sanctuary #stardust-reading-pane,
+body.theme-dark.theme-crucible-acoustic-sanctuary #stardust-reading-pane,
+body.theme-dark-sepia.theme-crucible-acoustic-sanctuary #stardust-reading-pane {
     background:
-        radial-gradient(ellipse at 25% 0%, rgba(56, 189, 248, 0.20) 0%, rgba(9, 6, 20, 0) 60%),
-        radial-gradient(ellipse at 75% 0%, rgba(232, 121, 249, 0.22) 0%, rgba(250, 204, 21, 0.10) 45%, rgba(9, 6, 20, 0) 72%),
-        #090614;
+        radial-gradient(ellipse at 50% 0%, rgba(251, 191, 36, 0.16) 0%, rgba(94, 234, 212, 0.06) 45%, rgba(16, 12, 8, 0) 75%),
+        #100c08;
     box-shadow:
-        inset 0 12px 52px rgba(56, 189, 248, 0.14),
-        inset 0 -12px 52px rgba(232, 121, 249, 0.13);
+        inset 0 8px 42px rgba(251, 191, 36, 0.10),
+        inset 0 -8px 42px rgba(94, 234, 212, 0.05);
 }
 
-body.theme-crucible-electric-color .story-content blockquote,
-body.theme-auto.theme-crucible-electric-color .story-content blockquote,
-body.theme-dark.theme-crucible-electric-color .story-content blockquote,
-body.theme-dark-sepia.theme-crucible-electric-color .story-content blockquote {
-    border-left: 4px solid #38bdf8;
-    background: linear-gradient(90deg, rgba(56, 189, 248, 0.14) 0%, rgba(232, 121, 249, 0.12) 50%, rgba(250, 204, 21, 0.08) 100%);
+body.theme-crucible-acoustic-sanctuary .story-content blockquote,
+body.theme-auto.theme-crucible-acoustic-sanctuary .story-content blockquote,
+body.theme-dark.theme-crucible-acoustic-sanctuary .story-content blockquote,
+body.theme-dark-sepia.theme-crucible-acoustic-sanctuary .story-content blockquote {
+    border-left: 4px solid #fbbf24;
+    background: linear-gradient(90deg, rgba(251, 191, 36, 0.12) 0%, rgba(94, 234, 212, 0.05) 100%);
     padding: 0.85rem 1.25rem;
     border-radius: 0 10px 10px 0;
 }
 
-body.theme-crucible-electric-color .rs-btn-primary,
-body.theme-auto.theme-crucible-electric-color .rs-btn-primary,
-body.theme-dark.theme-crucible-electric-color .rs-btn-primary,
-body.theme-dark-sepia.theme-crucible-electric-color .rs-btn-primary {
-    background-color: #6b21a8;
-    border-color: #38bdf8;
-    color: #ffffff;
+body.theme-crucible-acoustic-sanctuary .rs-btn-primary,
+body.theme-auto.theme-crucible-acoustic-sanctuary .rs-btn-primary,
+body.theme-dark.theme-crucible-acoustic-sanctuary .rs-btn-primary,
+body.theme-dark-sepia.theme-crucible-acoustic-sanctuary .rs-btn-primary {
+    background-color: #78350f;
+    border-color: #fbbf24;
+    color: #fffbeb;
 }
 
-body.theme-crucible-electric-color .rs-btn-primary:hover,
-body.theme-auto.theme-crucible-electric-color .rs-btn-primary:hover,
-body.theme-dark.theme-crucible-electric-color .rs-btn-primary:hover,
-body.theme-dark-sepia.theme-crucible-electric-color .rs-btn-primary:hover,
-body.theme-crucible-electric-color .rs-btn-primary:focus-visible,
-body.theme-auto.theme-crucible-electric-color .rs-btn-primary:focus-visible,
-body.theme-dark.theme-crucible-electric-color .rs-btn-primary:focus-visible,
-body.theme-dark-sepia.theme-crucible-electric-color .rs-btn-primary:focus-visible {
-    background-color: #7e22ce;
-    border-color: #e879f9;
+body.theme-crucible-acoustic-sanctuary .rs-btn-primary:hover,
+body.theme-auto.theme-crucible-acoustic-sanctuary .rs-btn-primary:hover,
+body.theme-dark.theme-crucible-acoustic-sanctuary .rs-btn-primary:hover,
+body.theme-dark-sepia.theme-crucible-acoustic-sanctuary .rs-btn-primary:hover,
+body.theme-crucible-acoustic-sanctuary .rs-btn-primary:focus-visible,
+body.theme-auto.theme-crucible-acoustic-sanctuary .rs-btn-primary:focus-visible,
+body.theme-dark.theme-crucible-acoustic-sanctuary .rs-btn-primary:focus-visible,
+body.theme-dark-sepia.theme-crucible-acoustic-sanctuary .rs-btn-primary:focus-visible {
+    background-color: #92400e;
+    border-color: #5eead4;
     color: #ffffff;
 }
 
 /* --- 2. Explicit Light & Sepia Mode (`theme-light` & `theme-sepia`) --- */
-body.theme-light.theme-crucible-electric-color,
-body.theme-sepia.theme-crucible-electric-color,
-body.theme-sepia-system.theme-crucible-electric-color {
+body.theme-light.theme-crucible-acoustic-sanctuary,
+body.theme-sepia.theme-crucible-acoustic-sanctuary,
+body.theme-sepia-system.theme-crucible-acoustic-sanctuary {
     color-scheme: light;
-    --rs-bg: #f3e8ff;        /* Prismatic Spectrum-Lavender canvas */
-    --rs-bg-alt: #e9d5ff;    /* Iridescent Synth-Violet sidebar background */
-    --rs-surface: #faf5ff;   /* Pure Prism-White reading surface */
-    --rs-card-bg: #faf5ff;   /* Modal and card container surface */
-    --rs-text: #120f24;      /* Deep Midnight-Obsidian prose ink (16.04:1 contrast) */
-    --rs-heading: #6b21a8;   /* 1987 "Electric Color" Prism-Violet heading token */
-    --rs-primary: #6b21a8;   /* Radiant Spectrum-Purple primary accent (7.42:1 contrast) */
-    --rs-secondary: #0369a1; /* Electric-Cyan Wristband Blue secondary accent (5.68:1 contrast) */
-    --rs-border: #c084fc;    /* Prismatic Foil structural border */
-    accent-color: #6b21a8;
-    background-color: #f3e8ff;
-    color: #120f24;
+    --rs-bg: #fbf7f0;        /* Warm Concert-Grand Ivory & Candlelight Parchment canvas */
+    --rs-bg-alt: #f2e8d9;    /* Acoustic Spruce-Wood sidebar background */
+    --rs-surface: #ffffff;   /* Pure Sheet-Music Ivory-White reading surface */
+    --rs-card-bg: #ffffff;   /* Modal and card container surface */
+    --rs-text: #1c150e;      /* Deep Rosewood-Fretboard Espresso ink (17.38:1 contrast) */
+    --rs-heading: #78350f;   /* Vintage Sunburst Mahogany heading token */
+    --rs-primary: #92400e;   /* Warm Acoustic Amber-Mahogany primary accent (6.58:1 contrast) */
+    --rs-secondary: #0f5e54; /* Safe-Harbor Teal secondary accent (7.22:1 contrast) */
+    --rs-border: #decbb3;    /* Warm Phosphor-Bronze Guitar-String structural border */
+    accent-color: #92400e;
+    background-color: #fbf7f0;
+    color: #1c150e;
 }
 
 @media (prefers-color-scheme: light) {
-    body.theme-light.theme-crucible-electric-color,
-    body.theme-sepia.theme-crucible-electric-color,
-    body.theme-sepia-system.theme-crucible-electric-color {
+    body.theme-light.theme-crucible-acoustic-sanctuary,
+    body.theme-sepia.theme-crucible-acoustic-sanctuary,
+    body.theme-sepia-system.theme-crucible-acoustic-sanctuary {
         color-scheme: light;
-        --rs-bg: #f3e8ff;
-        --rs-bg-alt: #e9d5ff;
-        --rs-surface: #faf5ff;
-        --rs-card-bg: #faf5ff;
-        --rs-text: #120f24;
-        --rs-heading: #6b21a8;
-        --rs-primary: #6b21a8;
-        --rs-secondary: #0369a1;
-        --rs-border: #c084fc;
-        accent-color: #6b21a8;
+        --rs-bg: #fbf7f0;
+        --rs-bg-alt: #f2e8d9;
+        --rs-surface: #ffffff;
+        --rs-card-bg: #ffffff;
+        --rs-text: #1c150e;
+        --rs-heading: #78350f;
+        --rs-primary: #92400e;
+        --rs-secondary: #0f5e54;
+        --rs-border: #decbb3;
+        accent-color: #92400e;
     }
 }
 
-body.theme-light.theme-crucible-electric-color #stardust-reading-pane,
-body.theme-sepia.theme-crucible-electric-color #stardust-reading-pane,
-body.theme-sepia-system.theme-crucible-electric-color #stardust-reading-pane {
-    background:
-        radial-gradient(ellipse at 30% 0%, rgba(126, 34, 206, 0.14) 0%, rgba(243, 232, 255, 0) 60%),
-        radial-gradient(ellipse at 70% 0%, rgba(3, 105, 161, 0.12) 0%, rgba(243, 232, 255, 0) 65%),
-        #f3e8ff;
+body.theme-light.theme-crucible-acoustic-sanctuary #stardust-reading-pane,
+body.theme-sepia.theme-crucible-acoustic-sanctuary #stardust-reading-pane,
+body.theme-sepia-system.theme-crucible-acoustic-sanctuary #stardust-reading-pane {
+    background: #fbf7f0;
     box-shadow:
-        inset 0 10px 40px rgba(126, 34, 206, 0.11),
-        inset 0 -8px 34px rgba(3, 105, 161, 0.08);
+        inset 0 8px 36px rgba(146, 64, 14, 0.07),
+        inset 0 -8px 32px rgba(15, 94, 84, 0.05);
 }
 
-body.theme-light.theme-crucible-electric-color .story-content blockquote,
-body.theme-sepia.theme-crucible-electric-color .story-content blockquote,
-body.theme-sepia-system.theme-crucible-electric-color .story-content blockquote {
-    border-left: 4px solid #6b21a8;
-    background: linear-gradient(90deg, rgba(107, 33, 168, 0.10) 0%, rgba(3, 105, 161, 0.08) 50%, rgba(190, 24, 93, 0.06) 100%);
+body.theme-light.theme-crucible-acoustic-sanctuary .story-content blockquote,
+body.theme-sepia.theme-crucible-acoustic-sanctuary .story-content blockquote,
+body.theme-sepia-system.theme-crucible-acoustic-sanctuary .story-content blockquote {
+    border-left: 4px solid #92400e;
+    background: linear-gradient(90deg, rgba(146, 64, 14, 0.09) 0%, rgba(15, 94, 84, 0.05) 100%);
     padding: 0.85rem 1.25rem;
     border-radius: 0 10px 10px 0;
 }
 
-/* --- 3. Dark Mode OS Preference Reinforcement (`prefers-color-scheme: dark`) --- */
-@media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-crucible-electric-color,
-    body.theme-sepia-system.theme-crucible-electric-color {
-        color-scheme: dark;
-        --rs-bg: #090614;
-        --rs-bg-alt: #110b24;
-        --rs-surface: #191033;
-        --rs-card-bg: #191033;
-        --rs-text: #faf5ff;
-        --rs-heading: #f0abfc;
-        --rs-primary: #38bdf8;
-        --rs-secondary: #e879f9;
-        --rs-border: #4c2d91;
-        accent-color: #38bdf8;
-    }
-}
-
-/* --- 4. Forced Colors (Windows High Contrast Mode) Safety --- */
+/* --- 3. Forced Colors (Windows High Contrast Mode) Safety --- */
 @media (forced-colors: active) {
-    body.theme-crucible-electric-color {
+    body.theme-crucible-acoustic-sanctuary {
         --rs-bg: Canvas;
         --rs-bg-alt: Canvas;
         --rs-surface: Canvas;
@@ -204,7 +182,7 @@ body.theme-sepia-system.theme-crucible-electric-color .story-content blockquote 
         --rs-border: ButtonBorder;
     }
 
-    body.theme-crucible-electric-color #stardust-reading-pane {
+    body.theme-crucible-acoustic-sanctuary #stardust-reading-pane {
         background: Canvas;
         box-shadow: none;
     }

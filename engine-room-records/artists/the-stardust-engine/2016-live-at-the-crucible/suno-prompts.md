@@ -1091,18 +1091,11 @@ studio flat mix, dry vocals, modern pop, hip hop, rap, bro-country, heavy metal,
 
 #### Lyrics (Copy-Paste into Suno)
 ```text
-[Roaring 65000 Person Stadium Crowd Cheers]
-[Shimmering 12-String Chorus Electric Guitar Arpeggios and Warm Analog Synth Bells]
-
-[Spoken Word Intro]
-[male]
-When we're home in Blacksburg and the sun starts going down behind the mountains, there's one place the four of us always go—six miles of paved rail-trail between here and Christiansburg, with The Crucible tower lights glowing like neon in the evening sky!
-[female]
-Now, if you're visiting from out of town tonight, you might not know what the Huckleberry is all about—but if you're from Blacksburg or Christiansburg, or if you're a Forger who's walked that path from the library lawn—or if you're old-school enough to remember the actual Huckleberry Train—this one belongs to you!
+[Live Stadium Crowd Ambience]
 
 [Intro]
-(Shimmering 1980s chorused 12-string electric guitar arpeggios and warm polyphonic analog synthesizer bells at 124 BPM)
-(Breezy eighth-note bassline and crisp gated-reverb stadium drums enter as the local crowd roars in instant recognition)
+(Without a word of spoken introduction, shimmering 1980s chorused 12-string electric guitar arpeggios and warm polyphonic analog synthesizer bells chime in at 124 BPM)
+(Stunned gasps of disbelief across 65000 people inside The Crucible before the breezy eighth-note bassline and crisp gated-reverb stadium drums kick in and the entire stadium erupts into a deafening roar of hometown cheers!)
 
 [Verse 1]
 [female]
