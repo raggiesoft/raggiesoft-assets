@@ -6,14 +6,14 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/paige.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "492 KB",
+        "epub": "496 KB",
         "pdf": "1.4 MB",
-        "text_epub": "492 KB",
+        "text_epub": "496 KB",
         "text_pdf": "1.4 MB",
-        "epub_bytes": 503837,
-        "pdf_bytes": 1455612,
-        "text_epub_bytes": 503836,
-        "text_pdf_bytes": 1455612
+        "epub_bytes": 507402,
+        "pdf_bytes": 1469151,
+        "text_epub_bytes": 507398,
+        "text_pdf_bytes": 1469151
     },
     "illustration_count": 0,
     "eras": [
@@ -861,10 +861,17 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Intruder & The Exception",
+                            "part_title": "Part 1: The Intruder & The Exception",
                             "file_path": "e005/c007/p001.md",
-                            "url": "/paige/system-integration/the-closed-circuit/the-intruder-the-exception",
+                            "url": "/paige/system-integration/the-closed-circuit/part-1-the-intruder-the-exception",
                             "location": "Unknown"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Thermal Hydro-Protocol: The Blue Ridge Regional Aquatic Center & The Huckleberry Trail",
+                            "file_path": "e005/c007/p002.md",
+                            "url": "/paige/system-integration/the-closed-circuit/part-2-the-thermal-hydro-protocol-the-blue-ridge-regional-aquatic-center-the-huckleberry-trail",
+                            "location": "Blue Ridge Regional Aquatic Center (Christiansburg, VA) & The Huckleberry Trail"
                         }
                     ]
                 }
