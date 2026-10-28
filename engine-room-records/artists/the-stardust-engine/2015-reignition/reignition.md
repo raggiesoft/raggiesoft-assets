@@ -749,7 +749,7 @@ The heartbeat of the Engine!
 ***
 
 **LORE NOTE:**
-Known informally to Blacksburg/Christiansburg locals and Forgers simply as **"Huckleberry Trail"**, this nostalgic, shimmering 124 BPM 1980s melodic synth-pop and AOR gem celebrates autumn dusks in the New River Valley—Cassidy riding her bicycle and Ryan rolling his everyday wheelchair along the paved six-mile **Huckleberry Trail** (built on the historic rail bed of the old Huckleberry Train) under a canopy of golden and crimson Appalachian maples as twilight settles and the stadium lights of **The Crucible** flicker on in the distance.
+Known informally to Blacksburg/Christiansburg locals and Forgers simply as **"Huckleberry Trail"**, this nostalgic, shimmering 124 BPM 1980s melodic synth-pop and AOR gem celebrates October evenings at 5:30 PM in the New River Valley—Cassidy pushing Ryan's everyday wheelchair while Holly, Evan, and Tyler walk alongside them along the paved six-mile **Huckleberry Trail** (built on the historic rail bed of the old Huckleberry Train) where the valley is dressed in its autumn dress of golden and crimson Appalachian maples and the stadium lights of **The Crucible** flicker on in the distance.
 
 **LYRICS:**
 

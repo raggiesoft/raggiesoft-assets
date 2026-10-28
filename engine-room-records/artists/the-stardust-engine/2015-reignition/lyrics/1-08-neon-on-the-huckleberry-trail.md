@@ -1,5 +1,5 @@
 **LORE NOTE:**
-A nostalgic, shimmering 124 BPM 1980s melodic synth-pop and AOR gem celebrating autumn dusks in Blacksburg and Christiansburg—Cassidy riding her bicycle and Ryan rolling his everyday wheelchair along the paved six-mile **Huckleberry Trail** under a canopy of golden and crimson Appalachian maples as twilight settles over the New River Valley and the stadium lights of **The Crucible** flicker on in the distance.
+A nostalgic, shimmering 124 BPM 1980s melodic synth-pop and AOR gem celebrating October evenings at 5:30 PM in Blacksburg and Christiansburg—Cassidy pushing Ryan's everyday wheelchair while Holly, Evan, and Tyler walk alongside them along the paved six-mile **Huckleberry Trail** where the valley is dressed in its autumn dress of golden and crimson Appalachian maples and the stadium lights of **The Crucible** flicker on in the distance.
 
 **LYRICS:**
 
