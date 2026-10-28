@@ -6,8 +6,8 @@
 * **ID3 / Vorbis Tagged Title:** Neon on the Huckleberry Trail (Live at the Crucible)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Stadium Rock / 1980s AOR / Progressive Symphonic Space-Rock / Collegiate Marching Band Rock
-* **Real-World DSP Release Date:** 2026-10-26
-* **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
+* **Real-World DSP Release Date:** 2026-10-27
+* **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTAHP2600057
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes
@@ -29,10 +29,10 @@
 
 ## 3. Internal Catalog Information
 * **Engine Room ID:** ERR-001-2016-308
-* **ISRC:** 
+* **ISRC:** QTAHP2600057
 * **US ISRC Agency Registrant:** Michael Ragsdale (Registrant ID: 185611 • Prefix: QTAHP • dsp.operations@engineroom-records.com)
 * **Album UPC / GTIN-12:** None
-* **Track Length:** 
+* **Track Length:** 5:31
 * **Fictional Narrative Release Date:** 2016-10-15
 * **Master File Located At:** ../../vault/wav/neon-on-the-huckleberry-trail-live-at-the-crucible.wav
 

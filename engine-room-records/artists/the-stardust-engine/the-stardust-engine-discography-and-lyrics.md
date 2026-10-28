@@ -1,6 +1,6 @@
 
 # The Stardust Engine - Master Discography & Lore
-Compiled on: 10-26-2026 09:01:12 PM
+Compiled on: 10-27-2026 11:14:23 PM
 
 # Electric Color (1987)
 * **Narrative Era:** 1987
@@ -4757,7 +4757,7 @@ Ad astra...
 *(Song fades out on a final, sustained, peaceful synthesizer chord)*
 # Hard Reset Live (1999) [LiveAlbum]
 * **Narrative Era:** 1999
-* **Real-World DSP Release:** 2026-10-26
+* **Real-World DSP Release:** 2026-10-27
 
 ## The Stardust Engine (Hard Reset Live)
 ### Lore
@@ -6296,7 +6296,7 @@ According to the lore, Ryan and Cassidy had stepped out of the booth, and the tw
 [Abrupt Stop]
 # Live at the Chancellery (2002) [LiveAlbum]
 * **Narrative Era:** 2002
-* **Real-World DSP Release:** 2026-10-26
+* **Real-World DSP Release:** 2026-10-27
 
 ## The Stardust Engine (Live at the Chancellery)
 ### Lore
@@ -7278,7 +7278,7 @@ Goodnight!
 
 # Live in Virginia Beach (2003) [LiveAlbum]
 * **Narrative Era:** 2003
-* **Real-World DSP Release:** 2026-10-26
+* **Real-World DSP Release:** 2026-10-27
 
 ## The Stardust Engine (Live in Virginia Beach)
 ### Lore
@@ -10746,7 +10746,7 @@ Goodnight, Forger Nation.
 
 # Live in Norfolk (2005) [LiveAlbum]
 * **Narrative Era:** 2005
-* **Real-World DSP Release:** 2026-10-26
+* **Real-World DSP Release:** 2026-10-27
 
 ## The Stardust Engine (Live in Norfolk)
 ### Lore
@@ -14091,7 +14091,8 @@ Long after we leave the ground
 
 [Outro]
 Echoes in the wire...
-Floating in the velvet 
+Floating in the velvet dark...
+Leaving our mark...
 (Gentle analog synthesizer pad and fretless bass harmonic fade into deep space)
 
 ## Midnight Drivers (Cosmic Tidal Lock Mix)
@@ -15405,7 +15406,7 @@ See you out on the horizon!
 
 # Live at the Crucible (2016) [LiveAlbum]
 * **Narrative Era:** 2016
-* **Real-World DSP Release:** 2026-10-26
+* **Real-World DSP Release:** 2026-10-27
 
 ## Ignition: The Forger's Call (Live at the Crucible)
 ### Lore
@@ -17012,7 +17013,7 @@ Please exit safely, and welcome home.
 
 ## Our Own Frequency (Live at the Crucible)
 ### Lore
-**Act IV: *Our Own Frequency* — The Intimate Brother & Sister Acoustic Block (Part 1 of 3).** Recorded in complete secrecy in the living room of the Blacksburg house during the middle of the band's decade-long Burnout Hiatus, 2008's *Our Own Frequency* was never toured, promoted, or accompanied by press interviews—Ryan and Cassidy simply uploaded it to the Engine Room Records website on a Tuesday morning with a one-sentence note: *"We're still here, and we're okay."* At the midpoint of *Live at the Crucible*, Evan and Tyler leave the stage completely, and the towering stadium light rigs dim to two solitary warm spotlights at center stage: Ryan in his wheelchair with an acoustic guitar, Cassidy at the piano, and two microphones. For the first time in front of a live audience, brother and sister strip away the stadium walls of sound to share their most private living-room conversation with their CPI family.
+**Act V: *Our Own Frequency* — The Intimate Brother & Sister Acoustic Block (Part 1 of 4).** Recorded in complete secrecy in the living room of the Blacksburg house during the middle of the band's decade-long Burnout Hiatus, 2008's *Our Own Frequency* was never toured, promoted, or accompanied by press interviews—Ryan and Cassidy simply uploaded it to the Engine Room Records website on a Tuesday morning with a one-sentence note: *"We're still here, and we're okay."* At the midpoint of *Live at the Crucible*, Evan and Tyler leave the stage completely, and the towering stadium light rigs dim to two solitary warm spotlights at center stage: Ryan in his wheelchair with an acoustic guitar, Cassidy at the piano, and two microphones. For the first time in front of a live audience, brother and sister strip away the stadium walls of sound to share their most private living-room conversation with their CPI family.
 
 ### Lyrics
 
@@ -17093,7 +17094,7 @@ Just you and me...
 
 ## Brother's Keeper (Live at the Crucible)
 ### Lore
-**Act IV Centerpiece: *"Brother's Keeper"* — The Intimate Reality of Ryan's ADLs & The End of Touring / Forger Nation Summer Festival Announcement (Part 2 of 3).** The emotional centerpiece of 2008's *Our Own Frequency* and the most private, vulnerable song Ryan and Cassidy have ever written. *"Brother's Keeper"* is an unflinchingly intimate look at the life-or-death mutual protection between brother and sister and what Cassidy and the family go through every single day taking care of Ryan's **ADLs (Activities of Daily Living)** due to his T10 paralysis from the 1990 crash—performing his daily toileting requirements and morning anti-atrophy leg stretches, pushing his wheelchair when the road is steep, and sharing a bed pushed against the wall at night with Ryan on the inside and Cassidy sleeping on the outside edge to act as a **human bed-rail** so he doesn't roll off, while Ryan serves as Cassidy's emotional anchor against the overwhelming sensory and psychological toll of the world. Before playing the song in the pin-drop silence of The Crucible, Ryan explains that twenty-six years after the 1990 crash, the daily physical toll of those ADLs on the road has gotten too hard on his body and family—revealing that tonight's *Reignition* Tour finale at The Crucible is the **last concert a touring The Stardust Engine will ever play**. When the stadium gasps, Cassidy immediately reassures the crowd that they aren't retiring: to give the Town of Blacksburg and CPI time to plan, starting in **August 2017** (the first weekend of August), The Stardust Engine will stay home in Blacksburg to headline the annual **Forger Nation Summer Festival**—combining a campus-wide CPI Open House, a massive downtown Blacksburg block party for signed and unsigned bands, and The Stardust Engine's permanent annual residency concert + fireworks inside The Crucible.
+**Act V Centerpiece: *"Brother's Keeper"* — The Intimate Reality of Ryan's ADLs & The End of Touring / Forger Nation Summer Festival Announcement (Part 2 of 4).** The emotional centerpiece of 2008's *Our Own Frequency* and the most private, vulnerable song Ryan and Cassidy have ever written. *"Brother's Keeper"* is an unflinchingly intimate look at the life-or-death mutual protection between brother and sister and what Cassidy and the family go through every single day taking care of Ryan's **ADLs (Activities of Daily Living)** due to his T10 paralysis from the 1990 crash—performing his daily toileting requirements and morning anti-atrophy leg stretches, pushing his wheelchair when the road is steep, and sharing a bed pushed against the wall at night with Ryan on the inside and Cassidy sleeping on the outside edge to act as a **human bed-rail** so he doesn't roll off, while Ryan serves as Cassidy's emotional anchor against the overwhelming sensory and psychological toll of the world. Before playing the song in the pin-drop silence of The Crucible, Ryan explains that twenty-six years after the 1990 crash, the daily physical toll of those ADLs on the road has gotten too hard on his body and family—revealing that tonight's *Reignition* Tour finale at The Crucible is the **last concert a touring The Stardust Engine will ever play**. When the stadium gasps, Cassidy immediately reassures the crowd that they aren't retiring: to give the Town of Blacksburg and CPI time to plan, starting in **August 2017** (the first weekend of August), The Stardust Engine will stay home in Blacksburg to headline the annual **Forger Nation Summer Festival**—combining a campus-wide CPI Open House, a massive downtown Blacksburg block party for signed and unsigned bands, and The Stardust Engine's permanent annual residency concert + fireworks inside The Crucible.
 
 ### Lyrics
 
@@ -17102,7 +17103,7 @@ Just you and me...
 
 [Spoken Word Intro]
 [male]
-This next song is the centerpiece of Our Own Frequency, and it's the most private song Cassidy and I have ever written. People look up at a stage and see two hours of lights and guitars. They don't see what T-ten paralysis actually takes behind closed doors. They don't see Cassidy and Evan and Tyler helping me through my daily care and toileting routines, or stretching my legs every morning so they don't atrophy. They don't see how we push the bed against the wall at night so I can sleep on the inside, and my sister sleeps on the outside edge as a human bed rail so I don't roll off in the dark.
+Earlier in Star City: Orbital Ward, we sang about the four-hour clock and the maintenance protocols in sci-fi metaphors. This next song is the centerpiece of Our Own Frequency, and it's the most private song Cassidy and I have ever written—without any metaphors at all. People look up at a stage and see two hours of lights and guitars. They don't see what T-ten paralysis actually takes behind closed doors. They don't see Cassidy and Evan and Tyler helping me through my daily care and toileting routines, or stretching my legs every morning so they don't atrophy. They don't see how we push the bed against the wall at night so I can sleep on the inside, and my sister sleeps on the outside edge as a human bed rail so I don't roll off in the dark.
 [female]
 And they don't see how you keep me anchored when the world gets too loud for my head to handle. We take care of each other. That's what family does.
 [male]
@@ -17184,7 +17185,7 @@ We keep each other grounded.
 
 ## Safe Person (Live at the Crucible)
 ### Lore
-**Act IV: *Our Own Frequency* — The Intimate Brother & Sister Acoustic Block (Part 3 of 3).** Completing the three-song *Our Own Frequency* (2008) living-room trilogy, **"Safe Person"** answers the physical devotion of *"Brother's Keeper"* by revealing the other half of their unbreakable bond: how Ryan acts as Cassidy's safe person and emotional anchor when the flashing cameras, press questions, and autistic sensory overload threaten to overwhelm her. Performed strictly by Ryan on acoustic guitar and Cassidy at the piano with zero electric amps or stadium lights, sixty-five thousand Forgers hold up quiet white phone lights across the dark bowl of The Crucible.
+**Act V: *Our Own Frequency* — The Intimate Brother & Sister Acoustic Block (Part 3 of 4).** Drawn from 2008's *Our Own Frequency* living-room sessions, **"Safe Person"** answers the physical devotion of *"Brother's Keeper"* by revealing the other half of their unbreakable bond: how Ryan acts as Cassidy's safe person and emotional anchor when the flashing cameras, press questions, and autistic sensory overload threaten to overwhelm her. Performed strictly by Ryan on acoustic guitar and Cassidy at the piano with zero electric amps or stadium lights, sixty-five thousand Forgers hold up quiet white phone lights across the dark bowl of The Crucible.
 
 ### Lyrics
 
@@ -17360,7 +17361,7 @@ Always, Cass.
 
 ## Echoes in the Wire (Live at the Crucible)
 ### Lore
-**Act V Opener: Full-Band Electric Return (Permanently Replacing *"If You Walked Away"*).** Following the three-song *Our Own Frequency* brother-and-sister acoustic block, Evan and Tyler walk back onto the stage and strap on their electric bass and drum kit. Because 1989's *"If You Walked Away"* is permanently banned from all post-1990 Stardust Engine concerts to protect Cassidy from autistic sensory and abandonment overload, **"Echoes in the Wire"** (from 1997's *Hard Reset*) holds the emotional power-ballad spotlight—beginning at Cassidy's grand piano before Evan, Tyler, and Ryan's full electric stadium rig roars back to life.
+**Act VI Opener: Full-Band Electric Return (Permanently Replacing *"If You Walked Away"*).** Following the four-song *Our Own Frequency* brother-and-sister acoustic block, Evan and Tyler walk back onto the stage and strap on their electric bass and drum kit. Because 1989's *"If You Walked Away"* is permanently banned from all post-1990 Stardust Engine concerts to protect Cassidy from autistic sensory and abandonment overload, **"Echoes in the Wire"** (from 1997's *Hard Reset*) holds the emotional power-ballad spotlight—beginning at Cassidy's grand piano before Evan, Tyler, and Ryan's full electric stadium rig roars back to life.
 
 ### Lyrics
 
@@ -17640,21 +17641,15 @@ Five hearts beating as one!
 
 ## Neon on the Huckleberry Trail (Live at the Crucible)
 ### Lore
-Performed live in **Act VI: *Homecoming Sprint*** right after *"Progress Street: Where the Fire Began"*, **"Neon on the Huckleberry Trail"** (a deep album cut from 2015's *Reignition*) produces one of the most unexpected, goosebump-inducing moments of the entire May 21, 2016 concert: **the night the audience decided to make the song their own**. To anyone in the stadium who isn't from the Blacksburg or Christiansburg area, a song about the "Huckleberry Trail" is a local mystery—but to **Forgers**, it cuts straight to the heart of home. Every CPI student and young alum knows the six-mile paved rail-trail winding from the **Pendleton Library** lawn past the pastures and Price Mountain down to Christiansburg, where they jog in their CPI hoodies and wave a quiet neighbor's hello as Cassidy rides her bicycle and Ryan pushes his manual wheelchair at dusk. And for the older alumni and lifelong New River Valley locals in the stands—some of whom actually rode the historic **Huckleberry Train** before its final run in 1958, or grew up on their parents' stories of the slow branch-line train between Cambria Depot and campus—hearing *"Six miles of asphalt from the library lawn / Where the old Huckleberry train used to roll on"* triggers an emotional wave of multi-generational nostalgia. By the first chorus, 65,000 Forgers have latched onto the song so fiercely that on the second and final choruses, a visibly moved Cassidy and Ryan step back from their microphones completely—letting three generations of CPI students, townies, and Old Guard alumni roar the chorus across the valley as they claim *"Neon on the Huckleberry Trail"* as their own hometown anthem.
+Performed live in **Act VI: *Homecoming Sprint*** right after *"Progress Street: Where the Fire Began"*, **"Neon on the Huckleberry Trail"** (a deep album cut from 2015's *Reignition*, known affectionately to locals and Forgers simply as **"Huckleberry Trail"**) becomes the unexpected standout number of the entire May 21, 2016 concert inside **The Crucible**: **the night the audience decided to make the song their own**. Because concerts don't publish setlists in advance, nobody expected a hyperlocal deep cut about a local rail-trail to be played live—and Ryan and Cassidy don't even introduce it with a spoken speech. Instead, the band simply starts playing the opening 12-string chord and analog synth bells. For a split second, all 65,000 people inside **The Crucible** are in stunned disbelief that The Stardust Engine is playing something so hyperlocal (*"Wait—no way! Are they seriously playing 'Huckleberry Trail' right now?!"*) before erupting into a deafening roar of cheers. On out-of-state *Reignition* Tour stops, 99% of arena concertgoers swayed politely while scattered pockets of CPI alumni and former valley residents lost their minds. Inside **The Crucible**, the reverse happens: the 1% of out-of-towners who drove into Blacksburg for the concert look around wondering what is going on, while to the 65,000 **Forgers** and Blacksburg/Christiansburg residents in attendance, **it's HOME**. Every CPI student and young alum knows the six-mile paved rail-trail winding from the **Pendleton Library** lawn past the pastures and Price Mountain down to Christiansburg, where they jog in their CPI hoodies and wave a quiet neighbor's hello as Cassidy rides her bicycle and Ryan pushes his manual wheelchair at dusk. And for the older alumni and lifelong New River Valley locals in the stands—some of whom actually rode the historic **Huckleberry Train** before its final run in 1958, or grew up on their parents' stories of the slow branch-line train between Cambria Depot and campus—hearing *"Six miles of asphalt from the library lawn / Where the old Huckleberry train used to roll on"* triggers an emotional wave of multi-generational nostalgia. By the first chorus, 65,000 Forgers have latched onto the song so fiercely that going into the second chorus, Ryan screams *"Take it, Forger Nation! It's yours!"* into his microphone as he and Cassidy step back—letting three generations of CPI students, townies, and Old Guard alumni roar the chorus across the valley as they claim *"Huckleberry Trail"* as their own hometown anthem.
 
 ### Lyrics
 
-[Live Stadium Crowd Cheers]
-[Spoken Intro - Ryan & Cassidy O'Connell]
-(Bright, joyful voices over shimmering 12-string chorus electric guitar arpeggios)
-[male]
-When we're home in Blacksburg and the sun starts going down behind the mountains, there's one place the four of us always go—six miles of paved rail-trail between here and Christiansburg, with The Crucible tower lights glowing like neon in the evening sky!
-[female]
-Now, if you're visiting from out of town tonight, you might not know what the Huckleberry is all about—but if you're from Blacksburg or Christiansburg, or if you're a Forger who's walked that path from the library lawn—or if you're old-school enough to remember the actual Huckleberry Train—this one belongs to you!
+[Live Stadium Crowd Ambience]
 
 [Intro]
-(Shimmering 1980s chorused 12-string electric guitar arpeggios and warm polyphonic analog synthesizer bells at 124 BPM)
-(Breezy eighth-note bassline and crisp gated-reverb stadium drums enter as the local crowd roars in instant recognition)
+(Without a word of spoken introduction, Ryan strikes the opening shimmering 1980s chorused 12-string electric guitar arpeggios and Cassidy's warm polyphonic analog synthesizer bells chime in at 124 BPM)
+(A wave of stunned disbelief ripples across 65,000 people inside The Crucible—"Wait, no way! Are they seriously playing Huckleberry Trail?!"—before the breezy eighth-note bassline and crisp gated-reverb stadium drums kick in and the entire stadium erupts into a deafening roar of hometown cheers!)
 
 [Verse 1]
 [female]
@@ -17706,8 +17701,8 @@ In the quiet corner that we love the best!
 
 [Chorus - The Audience Takeover]
 (Cassidy and Ryan step back from their microphones in stunned, smiling awe as 65,000 Forgers—from 19-year-old students to older alumni who remember the original Huckleberry Train—take over the song and roar every word across the valley)
-[female]
-(Spoken, overwhelmed) Take it, Forger Nation! It's yours!
+[male]
+(Screamed over the drum build, overwhelmed with hometown pride) Take it, Forger Nation! It's yours!
 (65,000-Voice Stadium Choir Carrying the Chorus)
 Chasing the neon on the Huckleberry Trail!
 Where the twilight glows and the shadows sail!
@@ -18184,7 +18179,7 @@ We love you! We're home! Goodnight!
 
 # The Forger's Call (2016) [CompilationAlbum]
 * **Narrative Era:** 2016
-* **Real-World DSP Release:** 2026-10-26
+* **Real-World DSP Release:** 2026-10-27
 
 ## Ignition: The Forger's Call
 ### Lore
@@ -18265,7 +18260,7 @@ We are the hammer, we're the flame
 This is our house, this is our game!
 
 [Guitar Solo]
-(Slow, soaring 1986 electric guitar lead trading phrases with an analog analog polyphonic synthesizer brass motif over the heavy kick-drum and anvil beat)
+(Slow, soaring 1986 electric guitar lead trading phrases with an analog Oberheim OB-Xa synthesizer brass motif over the heavy kick-drum and anvil beat)
 
 [Bridge]
 (Slow half-time foundry cadence)
@@ -18382,7 +18377,7 @@ You're safe inside this open door!
 Yeah, we're finally alive on This Side of Heaven!
 
 [Guitar & Synth Solo]
-(Triumphant, joyous 1988 melodic rock guitar solo by Ryan O'Connell soaring high over Evan Wright's driving bassline and Cassidy O'Connell's sunlit cascade of analog polyphonic synth chords, lifting into a radiant key-change modulation)
+(Triumphant, joyous 1988 melodic rock guitar solo by Ryan O'Connell soaring high over Evan Wright's driving bassline and Cassidy O'Connell's sunlit cascade of Oberheim synth chords, lifting into a radiant key-change modulation)
 
 [Bridge]
 (Music drops to shimmering synth pads, clean chorus guitar, and steady heartbeat kick drum)
@@ -18461,7 +18456,7 @@ Yeah, we're running on kerosene and four-track tape!
 [male]
 Evan's got the bass rattling the window frame
 Tyler's cracking hickory like a football game
-Cassidy's stacked up the Juno and the analog polyphonic
+Cassidy's stacked up the Juno and the Oberheim
 Making this concrete box sound like a cathedral chime!
 [female]
 Instant ramen boiling on the kitchen stove
@@ -18535,8 +18530,8 @@ Built around an earth-shaking **`84 BPM`** stomping kick-drum and foundry-anvil 
 [Intro: Seismograph Needle Alarm Pulse, Metallic Foundry Anvil Strike & Crushing 84 BPM Kick-Drum Stomp]
 (High-pitched metallic steel anvil strike answered by Tyler Wright's massive, chest-rattling 84 BPM kick drum and Evan Wright's sub-bass analog synth pedal drone)
 
-[Main Riff: Heavy Overdriven 1989 Stadium Guitar & analog polyphonic Analog Brass Fanfare]
-(Ryan O'Connell's palm-muted, swaggering E-Minor stadium rock guitar riff locks in with Cassidy O'Connell's towering analog polyphonic brass chords)
+[Main Riff: Heavy Overdriven 1989 Stadium Guitar & Oberheim Analog Brass Fanfare]
+(Ryan O'Connell's palm-muted, swaggering E-Minor stadium rock guitar riff locks in with Cassidy O'Connell's towering Oberheim OB-Xa brass chords)
 
 [Section A: The North End Zone Bleacher Cadence]
 (Rhythmic, synchronized stomping percussion and pounding floor toms driving a relentless 84 BPM defensive-stand groove)
@@ -18548,7 +18543,7 @@ Built around an earth-shaking **`84 BPM`** stomping kick-drum and foundry-anvil 
 (Drums and sub-bass strip down to a seismic half-time anvil-and-kick-drum stomp, building tension octave by octave as analog synth risers climb toward the redline)
 
 [Climax: Full Stadium Roar & Dual-Lead Finale]
-(Full band explodes back in at maximum intensity—harmonized electric guitar and analog polyphonic synth leads soaring over thunderous double-kick drums and ringing steel anvil strikes)
+(Full band explodes back in at maximum intensity—harmonized electric guitar and Oberheim synth leads soaring over thunderous double-kick drums and ringing steel anvil strikes)
 
 [Outro: Final Anvil Strike & Sustaining Sub-Bass Tremor]
 (One final deafening steel anvil chime and sustained E-minor power chord echoing into silence)
@@ -18673,7 +18668,7 @@ For weeks after coming home, Ryan was hesitant to roll across the hilly CPI camp
 
 [Tempo: 124 BPM - Driving 1991 Heartland Synth-Rock & Melodic Arena Guitar]
 [Intro: Crisp Arpeggiated 12-String Electric Guitar, Warm Analog Synth Pad & Driving Drum Beat]
-(Bright, propulsive 1991 heartland rock guitar riff locked in with Cassidy's warm analog polyphonic synth chords and Tyler's steady, determined backbeat)
+(Bright, propulsive 1991 heartland rock guitar riff locked in with Cassidy's warm Oberheim synth chords and Tyler's steady, determined backbeat)
 
 [Verse 1]
 [male]
@@ -18781,7 +18776,7 @@ Six years earlier, in October 1986, sixteen-year-old dual-enrolled CPI freshman 
 ### Lyrics
 
 [Tempo: 132 BPM - Upbeat, Joyous 1992 Melodic Arena Rock & Synth-Rock Founding Anthem]
-[Intro: Punchy Arena Rock Guitar Riff, Bright analog polyphonic Brass Hook & Driving 132 BPM Drum Beat]
+[Intro: Punchy Arena Rock Guitar Riff, Bright Oberheim Brass Hook & Driving 132 BPM Drum Beat]
 (Energetic, triumphant 1980s-style melodic rock riff with Ryan's crunching rhythm guitar, Cassidy's celebratory synth brass fanfare, and a four-person gang shout)
 
 [Verse 1]
@@ -18887,7 +18882,7 @@ Thank you, Holly!
 ### Lore
 Recorded in **April 1994** immediately after **Holly O'Connell** won the landmark legal settlement emancipating 100% of The Stardust Engine's master tapes from Apex Records, ***"Copernicus Hall: Roof of the World"*** (`1994 Observatory Instrumental`) documents the night the five family members returned to the CPI campus to celebrate their freedom under the stars.
 
-Climbing up to the rooftop astronomy observation deck of **Copernicus Hall**—home to CPI's Department of Physics, Astrophysics, and Geosciences on the north rim of **Commonwealth Green**—Cassidy and Ryan looked up at the clear Appalachian night sky where they had first dreamed up the band's name in 1986. Returning to the studio at dawn, Cassidy (on sweeping analog analog polyphonic, Minimoog, and zero-gravity arpeggiators) and Ryan (on soaring, delay-drenched electric guitar) tracked this **`108 BPM`** cosmic space-rock instrumental—serving as the direct sonic bridge between 1986's *"The Stardust Engine"* and Cassidy's 1996 magnum opus, *"Escape Velocity (Ad Astra)"*.
+Climbing up to the rooftop astronomy observation deck of **Copernicus Hall**—home to CPI's Department of Physics, Astrophysics, and Geosciences on the north rim of **Commonwealth Green**—Cassidy and Ryan looked up at the clear Appalachian night sky where they had first dreamed up the band's name in 1986. Returning to the studio at dawn, Cassidy (on sweeping analog Oberheim OB-Xa, Minimoog, and zero-gravity arpeggiators) and Ryan (on soaring, delay-drenched electric guitar) tracked this **`108 BPM`** cosmic space-rock instrumental—serving as the direct sonic bridge between 1986's *"The Stardust Engine"* and Cassidy's 1996 magnum opus, *"Escape Velocity (Ad Astra)"*.
 
 ### Lyrics
 
@@ -18924,7 +18919,7 @@ Written at **`130 BPM`** in the band's signature 1980s AOR stadium-rock style, t
 
 [Tempo: 130 BPM - High-Energy 1980s-Style Stadium Rock & Melodic AOR Duet]
 [Intro: Blazing Twin-Guitar & Analog Synth Brass Fanfare over Driving 130 BPM Stadium Drums]
-(Triumphant, sunlit stadium rock riff with Cassidy's punchy analog polyphonic brass chords, Ryan's soaring electric guitar hook, and Tyler's booming arena drums)
+(Triumphant, sunlit stadium rock riff with Cassidy's punchy Oberheim brass chords, Ryan's soaring electric guitar hook, and Tyler's booming arena drums)
 
 [Verse 1]
 [male]
@@ -19381,13 +19376,13 @@ Earn the hammer—charge the Crucible!
 ### Lore
 Captured live on a single stereo pair of condenser microphones in the **Progress Street** living room in **November 2012**—eight years into the band's ten-year Burnout Hiatus—***"Living Room Reignition"*** (`2012 Progress Street Tape`) documents the exact night **Ryan O'Connell**, **Cassidy O'Connell**, **Evan Wright**, and **Tyler Wright** plugged in all four electric instruments together as a full rock band for the first time since 2005's *Live in Norfolk*.
 
-After Thanksgiving dinner at the Progress Street house, Tyler sat down behind the living-room drum kit, Evan picked up his four-string bass, Cassidy switched on her vintage analog polyphonic, and Ryan rolled his wheelchair over to his tube amplifier and hit an open A-major chord. What followed was this spontaneous, joyful **`116 BPM`** rehearsal tape—the exact creative spark that led to the writing of 2015's *Reignition* and their May 21, 2016 homecoming inside **The Crucible**.
+After Thanksgiving dinner at the Progress Street house, Tyler sat down behind the living-room drum kit, Evan picked up his four-string bass, Cassidy switched on her vintage Oberheim OB-Xa, and Ryan rolled his wheelchair over to his tube amplifier and hit an open A-major chord. What followed was this spontaneous, joyful **`116 BPM`** rehearsal tape—the exact creative spark that led to the writing of 2015's *Reignition* and their May 21, 2016 homecoming inside **The Crucible**.
 
 ### Lyrics
 
 [Tempo: 116 BPM - Warm, Raw, Joyful 2012 Four-Piece Living-Room Rock Rehearsal Tape]
 [Intro: Living-Room Ambience, Guitar Amp Switch Click, Warm Tube Hum & Spontaneous Drum Count-In]
-(Warm living-room acoustics: click of a guitar cable plugging into a tube amp, Cassidy laughing softly as her analog polyphonic synth warms up, and Tyler counting "One, two, three, four!" into a punchy 116 BPM four-piece rock groove)
+(Warm living-room acoustics: click of a guitar cable plugging into a tube amp, Cassidy laughing softly as her Oberheim synth warms up, and Tyler counting "One, two, three, four!" into a punchy 116 BPM four-piece rock groove)
 
 [Verse 1]
 [male]
@@ -19600,7 +19595,7 @@ Forever Forgers... home among the stars.
 ### Lore
 The legendary **October 1986 4-track Tascam Portastudio cassette demo (`Demo Take 3`)** recorded inside the unheated garage on Progress Street in Blacksburg, Virginia—submitted by five college kids (Ryan O'Connell, Cassidy O'Connell, Evan Wright, Tyler Wright, and 16-year-old dual-enrolled Holly O'Connell) to the CPI Student Government Association contest to replace the football team's entrance march. Before submitting the Maxell XLII-S 90 cassette tape, 16-year-old Holly redlined the university's standard *"Work Made for Hire"* entry form at the Progress Street kitchen table and negotiated the historic **`$1.00` Perpetual Mutual Cross-License** ("The Progress Street Redline"), retaining 100% of the band's master and publishing ownership while granting CPI Athletics and the Marching Forgers a perpetual, royalty-free stadium license.
 
-Recorded before the student section in **The Anvil** ever organically invented **The Stomp** over several successive plays in the stadium—and twenty-eight years before the VDU *Anchor* rivalry inspired Ryan's 2016 live ad-lib—this raw 1986 cassette cut is the very first of the three canonical versions of *"Ignition: The Forger's Call"* (followed by the 1986 Crucible Stadium Version played at CPI football games and the 2016 *Live at the Crucible* concert opener). Because the five college kids were tracking inside an unheated garage without a real foundry anvil yet, the demo features the mechanical click of Holly's 4-track tape deck, the band members vocalizing `(TING... BOOM!)` to test the idea of where the anvil strike and heavy kick-drum impact would go, Cassidy's raw analog polyphonic analog synth brass, Ryan's overdriven garage-rock guitar riff, and Cassidy, Evan, and Tyler shouting the gang-vocal `(IGNITION!)` response into a single shared Shure SM57 microphone.
+Recorded before the student section in **The Anvil** ever organically invented **The Stomp** over several successive plays in the stadium—and twenty-eight years before the VDU *Anchor* rivalry inspired Ryan's 2016 live ad-lib—this raw 1986 cassette cut is the very first of the three canonical versions of *"Ignition: The Forger's Call"* (followed by the 1986 Crucible Stadium Version played at CPI football games and the 2016 *Live at the Crucible* concert opener). Because the five college kids were tracking inside an unheated garage without a real foundry anvil yet, the demo features the mechanical click of Holly's 4-track tape deck, the band members vocalizing `(TING... BOOM!)` to test the idea of where the anvil strike and heavy kick-drum impact would go, Cassidy's raw Oberheim OB-Xa analog synth brass, Ryan's overdriven garage-rock guitar riff, and Cassidy, Evan, and Tyler shouting the gang-vocal `(IGNITION!)` response into a single shared Shure SM57 microphone.
 
 ### Lyrics
 
@@ -19692,7 +19687,7 @@ We are the hammer, we're the flame
 This is our house, this is our game!
 
 [Guitar Solo]
-(Slow, soaring 1986 electric guitar lead trading phrases with an analog analog polyphonic synthesizer brass motif over the slow, ponderous steel brake-drum clang and kick-drum boom)
+(Slow, soaring 1986 electric guitar lead trading phrases with an analog Oberheim OB-Xa synthesizer brass motif over the slow, ponderous steel brake-drum clang and kick-drum boom)
 
 [Bridge]
 (Slow half-time foundry cadence)

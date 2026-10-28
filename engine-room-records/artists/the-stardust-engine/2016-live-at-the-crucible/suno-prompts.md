@@ -1146,8 +1146,8 @@ Watch the stars come out above the mountain's crest
 In the quiet corner that we love the best!
 
 [Chorus - The Audience Takeover]
-[female]
-(Spoken, overwhelmed) Take it, Forger Nation! It's yours!
+[male]
+(Screamed over the drum build, overwhelmed with hometown pride) Take it, Forger Nation! It's yours!
 (65000-Voice Stadium Choir Carrying the Chorus)
 Chasing the neon on the Huckleberry Trail!
 Where the twilight glows and the shadows sail!

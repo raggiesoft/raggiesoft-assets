@@ -30,17 +30,15 @@ For thirty years... you guys have been stomping your feet to our song every sing
 So tonight... for the 30th Anniversary...
 Let's see if we can break the seismographs!
 
-[Drum Fill: Massive, Thundering]
+[Drum Fill: Slow, Massive, Thundering Stadium Kit - 82 BPM]
 [male]
 IGNITION!
 
 [Crowd Response: 60,000 People]
 (IGNITION!)
 
-[Music Starts: Heavy Industrial Riff, Slow and Stomping]
-[Sound Effect: Rhythmic Metallic Clang and Stomp]
-(TING... BOOM!)
-(TING... BOOM!)
+[Music Starts: Slow, Crushing 82 BPM Industrial Riff - Heavy Half-Time Kick-Drum Groove]
+[Instrumental Anvil & Stomp Intro: Ringing Steel Anvil Strike Answered by Thundering Kick Drum and 60,000-Person Bleacher Stomp]
 
 [Verse 1]
 [male]
@@ -73,9 +71,12 @@ We're standing ten feet tall!
 We are the hammer, we're the flame
 This is our house, this is our game!
 
+[Instrumental Anvil & Bleacher Stomp Break: Slow 82 BPM Steel Anvil Strike and Kick-Drum Stomp]
+(Rhythmic metallic steel anvil strike answered by thundering kick drum and 60,000 boots stomping on metal bleachers)
+
 [Verse 2]
 [male]
-Sixty thousand boots upon the iron floor!
+Molten iron pouring on the foundry floor!
 Hear the valley tremble when the Forgers roar!
 Concrete and Ironstone locked inside the night!
 Step into the furnace, step into the light!
@@ -100,14 +101,14 @@ We are the hammer, we're the flame
 This is our house, this is our game!
 
 [Guitar Solo]
-(Blistering 1980s stadium electric guitar solo soaring over the synchronized 60,000-person bleacher stomp and 300-piece CPI Marching Forgers brass stabs)
+(Slow, soaring 1980s stadium electric guitar lead over the synchronized 60,000-person kick-drum bleacher stomp and 300-piece CPI Marching Forgers brass stabs)
 
 [Bridge]
-(Half-time marching cadence)
+(Slow half-time foundry cadence)
 [male]
-Left! Right! Left! Right!
+Strike! ... Strike! ... Strike the steel!
 Feel the earthquake in the night!
-Ride the stomp! Shake the steel!
+Drop the hammer! ... Shake the steel!
 Make the whole mountain feel!
 
 [Final Chorus]
@@ -135,7 +136,7 @@ This is our house, this is our game!
 IGNITION!
 [Crowd Chant]
 (IGNITION!)
-(Massive Explosion and Guitar Feedback)
+(Massive Pyrotechnic Explosion, Ringing Anvil Strike, and Guitar Feedback)
 
 
 ***
@@ -1691,7 +1692,7 @@ Please exit safely, and welcome home.
 ***
 
 **LORE NOTE:**
-**Act IV: *Our Own Frequency* — The Intimate Brother & Sister Acoustic Block (Part 1 of 3).** Recorded in complete secrecy in the living room of the Blacksburg house during the middle of the band's decade-long Burnout Hiatus, 2008's *Our Own Frequency* was never toured, promoted, or accompanied by press interviews—Ryan and Cassidy simply uploaded it to the Engine Room Records website on a Tuesday morning with a one-sentence note: *"We're still here, and we're okay."* At the midpoint of *Live at the Crucible*, Evan and Tyler leave the stage completely, and the towering stadium light rigs dim to two solitary warm spotlights at center stage: Ryan in his wheelchair with an acoustic guitar, Cassidy at the piano, and two microphones. For the first time in front of a live audience, brother and sister strip away the stadium walls of sound to share their most private living-room conversation with their CPI family.
+**Act V: *Our Own Frequency* — The Intimate Brother & Sister Acoustic Block (Part 1 of 4).** Recorded in complete secrecy in the living room of the Blacksburg house during the middle of the band's decade-long Burnout Hiatus, 2008's *Our Own Frequency* was never toured, promoted, or accompanied by press interviews—Ryan and Cassidy simply uploaded it to the Engine Room Records website on a Tuesday morning with a one-sentence note: *"We're still here, and we're okay."* At the midpoint of *Live at the Crucible*, Evan and Tyler leave the stage completely, and the towering stadium light rigs dim to two solitary warm spotlights at center stage: Ryan in his wheelchair with an acoustic guitar, Cassidy at the piano, and two microphones. For the first time in front of a live audience, brother and sister strip away the stadium walls of sound to share their most private living-room conversation with their CPI family.
 
 **LYRICS:**
 
@@ -1776,7 +1777,7 @@ Just you and me...
 ***
 
 **LORE NOTE:**
-**Act IV Centerpiece: *"Brother's Keeper"* — The Intimate Reality of Ryan's ADLs & The End of Touring / Forger Nation Summer Festival Announcement (Part 2 of 3).** The emotional centerpiece of 2008's *Our Own Frequency* and the most private, vulnerable song Ryan and Cassidy have ever written. *"Brother's Keeper"* is an unflinchingly intimate look at the life-or-death mutual protection between brother and sister and what Cassidy and the family go through every single day taking care of Ryan's **ADLs (Activities of Daily Living)** due to his T10 paralysis from the 1990 crash—performing his daily toileting requirements and morning anti-atrophy leg stretches, pushing his wheelchair when the road is steep, and sharing a bed pushed against the wall at night with Ryan on the inside and Cassidy sleeping on the outside edge to act as a **human bed-rail** so he doesn't roll off, while Ryan serves as Cassidy's emotional anchor against the overwhelming sensory and psychological toll of the world. Before playing the song in the pin-drop silence of The Crucible, Ryan explains that twenty-six years after the 1990 crash, the daily physical toll of those ADLs on the road has gotten too hard on his body and family—revealing that tonight's *Reignition* Tour finale at The Crucible is the **last concert a touring The Stardust Engine will ever play**. When the stadium gasps, Cassidy immediately reassures the crowd that they aren't retiring: to give the Town of Blacksburg and CPI time to plan, starting in **August 2017** (the first weekend of August), The Stardust Engine will stay home in Blacksburg to headline the annual **Forger Nation Summer Festival**—combining a campus-wide CPI Open House, a massive downtown Blacksburg block party for signed and unsigned bands, and The Stardust Engine's permanent annual residency concert + fireworks inside The Crucible.
+**Act V Centerpiece: *"Brother's Keeper"* — The Intimate Reality of Ryan's ADLs & The End of Touring / Forger Nation Summer Festival Announcement (Part 2 of 4).** The emotional centerpiece of 2008's *Our Own Frequency* and the most private, vulnerable song Ryan and Cassidy have ever written. *"Brother's Keeper"* is an unflinchingly intimate look at the life-or-death mutual protection between brother and sister and what Cassidy and the family go through every single day taking care of Ryan's **ADLs (Activities of Daily Living)** due to his T10 paralysis from the 1990 crash—performing his daily toileting requirements and morning anti-atrophy leg stretches, pushing his wheelchair when the road is steep, and sharing a bed pushed against the wall at night with Ryan on the inside and Cassidy sleeping on the outside edge to act as a **human bed-rail** so he doesn't roll off, while Ryan serves as Cassidy's emotional anchor against the overwhelming sensory and psychological toll of the world. Before playing the song in the pin-drop silence of The Crucible, Ryan explains that twenty-six years after the 1990 crash, the daily physical toll of those ADLs on the road has gotten too hard on his body and family—revealing that tonight's *Reignition* Tour finale at The Crucible is the **last concert a touring The Stardust Engine will ever play**. When the stadium gasps, Cassidy immediately reassures the crowd that they aren't retiring: to give the Town of Blacksburg and CPI time to plan, starting in **August 2017** (the first weekend of August), The Stardust Engine will stay home in Blacksburg to headline the annual **Forger Nation Summer Festival**—combining a campus-wide CPI Open House, a massive downtown Blacksburg block party for signed and unsigned bands, and The Stardust Engine's permanent annual residency concert + fireworks inside The Crucible.
 
 **LYRICS:**
 
@@ -1785,7 +1786,7 @@ Just you and me...
 
 [Spoken Word Intro]
 [male]
-This next song is the centerpiece of Our Own Frequency, and it's the most private song Cassidy and I have ever written. People look up at a stage and see two hours of lights and guitars. They don't see what T-ten paralysis actually takes behind closed doors. They don't see Cassidy and Evan and Tyler helping me through my daily care and toileting routines, or stretching my legs every morning so they don't atrophy. They don't see how we push the bed against the wall at night so I can sleep on the inside, and my sister sleeps on the outside edge as a human bed rail so I don't roll off in the dark.
+Earlier in Star City: Orbital Ward, we sang about the four-hour clock and the maintenance protocols in sci-fi metaphors. This next song is the centerpiece of Our Own Frequency, and it's the most private song Cassidy and I have ever written—without any metaphors at all. People look up at a stage and see two hours of lights and guitars. They don't see what T-ten paralysis actually takes behind closed doors. They don't see Cassidy and Evan and Tyler helping me through my daily care and toileting routines, or stretching my legs every morning so they don't atrophy. They don't see how we push the bed against the wall at night so I can sleep on the inside, and my sister sleeps on the outside edge as a human bed rail so I don't roll off in the dark.
 [female]
 And they don't see how you keep me anchored when the world gets too loud for my head to handle. We take care of each other. That's what family does.
 [male]
@@ -1871,7 +1872,7 @@ We keep each other grounded.
 ***
 
 **LORE NOTE:**
-**Act IV: *Our Own Frequency* — The Intimate Brother & Sister Acoustic Block (Part 3 of 3).** Completing the three-song *Our Own Frequency* (2008) living-room trilogy, **"Safe Person"** answers the physical devotion of *"Brother's Keeper"* by revealing the other half of their unbreakable bond: how Ryan acts as Cassidy's safe person and emotional anchor when the flashing cameras, press questions, and autistic sensory overload threaten to overwhelm her. Performed strictly by Ryan on acoustic guitar and Cassidy at the piano with zero electric amps or stadium lights, sixty-five thousand Forgers hold up quiet white phone lights across the dark bowl of The Crucible.
+**Act V: *Our Own Frequency* — The Intimate Brother & Sister Acoustic Block (Part 3 of 4).** Drawn from 2008's *Our Own Frequency* living-room sessions, **"Safe Person"** answers the physical devotion of *"Brother's Keeper"* by revealing the other half of their unbreakable bond: how Ryan acts as Cassidy's safe person and emotional anchor when the flashing cameras, press questions, and autistic sensory overload threaten to overwhelm her. Performed strictly by Ryan on acoustic guitar and Cassidy at the piano with zero electric amps or stadium lights, sixty-five thousand Forgers hold up quiet white phone lights across the dark bowl of The Crucible.
 
 **LYRICS:**
 
@@ -1936,11 +1937,126 @@ Always.
 
 
 ***
+### **still-your-safe-person-live-at-the-crucible.md**
+***
+
+**LORE NOTE:**
+**Act V Finale: *Our Own Frequency* — The Intimate Brother & Sister Acoustic Block (Part 4 of 4 — Stripped Down to Acoustic Grand Piano & Acoustic Guitar).** Although originally recorded on 2015's *Reignition* as a monumental 78 BPM 1980s arena power ballad, for the May 21, 2016 homecoming concert inside **The Crucible**, **Ryan** and **Cassidy O'Connell** strip **"Still Your Safe Person"** all the way down to **just Cassidy's acoustic grand piano and Ryan's acoustic guitar**—performing it in the hushed, pin-drop quiet stadium directly after 2008's *"Safe Person"* to close **Act V: *Our Own Frequency***. Sitting hip-to-hip at the left edge of the grand-piano bench under two warm golden spotlights while 65,000 Forgers hold up quiet white lights across the stands, brother and sister bridge their 2008 living-room hiatus sanctuary directly into 2015—singing straight to every neurodivergent, overwhelmed, or healing student in the bleachers (*"When the static hits a hundred and the room begins to spin / I am still your safe person—let the quiet in"*).
+
+**LYRICS:**
+
+[Quiet Stadium Ambience]
+[Spoken Intro - Cassidy O'Connell]
+(Warm, gentle voice at the grand piano microphone)
+[female]
+Back in two thousand and eight, when we recorded "Safe Person" in our living room, we didn't know if we would ever stand on a stage again. Seven years later, when we went back into the studio for Reignition, we realized that no matter how much time passes, that promise never changes. So before Evan and Tyler come back out here with the big amplifiers... we wanted to play this one the way we wrote it at home. Just the piano, the acoustic guitar, and all of you.
+
+[Intro]
+(Warm, intimate unplugged acoustic grand piano chord progression at 78 BPM)
+(Tender fingerpicked acoustic guitar counter-melody enters gently — strictly no drums or electric instruments)
+
+[Verse 1]
+[female]
+When the fluorescent lights are humming way too loud
+And you're spinning in the middle of a noisy crowd
+When the rules don't match the script inside your head
+And every single wire is flashing crimson red
+[male]
+You don't have to explain why your hands are shaking now
+You don't have to force a smile or take a final bow
+Just reach across the console, I'm right beside your chair
+Breathing in the cadence of the quiet mountain air
+
+[Pre-Chorus]
+[female]
+We've known each other since the nursery floor
+[male]
+And I know what the heavy wooden door is for
+[Duet]
+No questions asked, no judgment in this room
+Just a harbor in the middle of the sonic boom
+
+[Chorus]
+(Intimate, heartfelt brother and sister vocal harmony over pure acoustic grand piano and acoustic guitar)
+When the static hits a hundred and the room begins to spin
+I am still your safe person—let the quiet in!
+Put your headphones on or lean against my shoulder tight
+I will hold the perimeter throughout the longest night!
+You don't have to be unbroken just to be enough
+I will be the anchor when the ocean gets too rough
+Through every single storm and every place we've been
+I am still your safe person—let the quiet in!
+
+[Verse 2]
+[male]
+Back when the winter changed the road beneath my seat
+And I had to learn a brand new way to move down Progress Street
+You never looked at me with pity in your eyes
+You just lowered every keyboard stand to match my size
+[female]
+And when the tour arenas made my senses overflow
+You pulled the curtain closed and told the crowd we had to go
+Because a brother and a sister don't leave anyone behind
+When the world is overwhelming to a tender mind!
+
+[Pre-Chorus]
+[male]
+And to every single kid out in the bleachers tonight
+[female]
+Who feels a little different in the stadium light
+[Duet]
+Take this song and keep it in your coat pocket deep
+For the nights when the mountain feels a little too steep!
+
+[Chorus]
+(Soaring, emotional unplugged sibling duet over resonant grand piano chords and warm acoustic guitar strumming)
+When the static hits a hundred and the room begins to spin
+I am still your safe person—let the quiet in!
+Put your headphones on or lean against my shoulder tight
+I will hold the perimeter throughout the longest night!
+You don't have to be unbroken just to be enough
+I will be the anchor when the ocean gets too rough
+Through every single storm and every place we've been
+I am still your safe person—let the quiet in!
+
+[Acoustic Guitar & Piano Interlude]
+(An intimate, deeply moving unplugged acoustic guitar solo by Ryan harmonizing with Cassidy's delicate grand piano arpeggios in the hushed stadium night)
+
+[Bridge]
+(Stripped back to soft grand piano notes and whispered sibling vocals)
+[female]
+Breathe in for four...
+[male]
+Hold it steady now...
+[female]
+Let the noise fall away...
+[Duet]
+You are safe right here today!
+
+[Final Chorus]
+(Raw, soaring brother and sister harmonies filling the quiet stadium bowl)
+When the static hits a hundred and the room begins to spin
+I am still your safe person—let the quiet in!
+You don't have to be unbroken just to be enough
+I will be the anchor when the ocean gets too rough
+Through every single storm and every place we've been
+I am still your safe person—let the quiet in!
+
+[Outro]
+(Acoustic grand piano and fingerpicked acoustic guitar resolve on a warm, lingering C-Major chord)
+[female]
+I've got you. Always.
+[male]
+Always, Cass.
+(Warm, thunderous standing ovation erupts across 65,000 fans inside The Crucible)
+
+
+***
 ### **1-17-echoes-in-the-wire.md**
 ***
 
 **LORE NOTE:**
-**Act V Opener: Full-Band Electric Return (Permanently Replacing *"If You Walked Away"*).** Following the three-song *Our Own Frequency* brother-and-sister acoustic block, Evan and Tyler walk back onto the stage and strap on their electric bass and drum kit. Because 1989's *"If You Walked Away"* is permanently banned from all post-1990 Stardust Engine concerts to protect Cassidy from autistic sensory and abandonment overload, **"Echoes in the Wire"** (from 1997's *Hard Reset*) holds the emotional power-ballad spotlight—beginning at Cassidy's grand piano before Evan, Tyler, and Ryan's full electric stadium rig roars back to life.
+**Act VI Opener: Full-Band Electric Return (Permanently Replacing *"If You Walked Away"*).** Following the four-song *Our Own Frequency* brother-and-sister acoustic block, Evan and Tyler walk back onto the stage and strap on their electric bass and drum kit. Because 1989's *"If You Walked Away"* is permanently banned from all post-1990 Stardust Engine concerts to protect Cassidy from autistic sensory and abandonment overload, **"Echoes in the Wire"** (from 1997's *Hard Reset*) holds the emotional power-ballad spotlight—beginning at Cassidy's grand piano before Evan, Tyler, and Ryan's full electric stadium rig roars back to life.
 
 **LYRICS:**
 
@@ -2232,7 +2348,7 @@ Five hearts beating as one!
 ***
 
 **LORE NOTE:**
-Performed live in **Act VI: *Homecoming Sprint*** right after *"Progress Street: Where the Fire Began"*, **"Neon on the Huckleberry Trail"** (a deep album cut from 2015's *Reignition*, known affectionately to locals and Forgers simply as **"Huckleberry Trail"**) becomes the unexpected standout number of the entire May 21, 2016 concert inside **The Crucible**: **the night the audience decided to make the song their own**. Because concerts don't publish setlists in advance, nobody expected a hyperlocal deep cut about a local rail-trail to be played live—and Ryan and Cassidy don't even introduce it with a spoken speech. Instead, the band simply starts playing the opening 12-string chord and analog synth bells. For a split second, all 65,000 people inside **The Crucible** are in stunned disbelief that The Stardust Engine is playing something so hyperlocal (*"Wait—no way! Are they seriously playing 'Huckleberry Trail' right now?!"*) before erupting into a deafening roar of cheers. On out-of-state *Reignition* Tour stops, 99% of arena concertgoers swayed politely while scattered pockets of CPI alumni and former valley residents lost their minds. Inside **The Crucible**, the reverse happens: the 1% of out-of-towners who drove into Blacksburg for the concert look around wondering what is going on, while to the 65,000 **Forgers** and Blacksburg/Christiansburg residents in attendance, **it's HOME**. Every CPI student and young alum knows the six-mile paved rail-trail winding from the **Pendleton Library** lawn past the pastures and Price Mountain down to Christiansburg, where they jog in their CPI hoodies and wave a quiet neighbor's hello as Cassidy rides her bicycle and Ryan pushes his manual wheelchair at dusk. And for the older alumni and lifelong New River Valley locals in the stands—some of whom actually rode the historic **Huckleberry Train** before its final run in 1958, or grew up on their parents' stories of the slow branch-line train between Cambria Depot and campus—hearing *"Six miles of asphalt from the library lawn / Where the old Huckleberry train used to roll on"* triggers an emotional wave of multi-generational nostalgia. By the first chorus, 65,000 Forgers have latched onto the song so fiercely that on the second and final choruses, a visibly moved Cassidy calls out *"Take it, Forger Nation! It's yours!"* and steps back from her microphone alongside Ryan—letting three generations of CPI students, townies, and Old Guard alumni roar the chorus across the valley as they claim *"Huckleberry Trail"* as their own hometown anthem.
+Performed live in **Act VI: *Homecoming Sprint*** right after *"Progress Street: Where the Fire Began"*, **"Neon on the Huckleberry Trail"** (a deep album cut from 2015's *Reignition*, known affectionately to locals and Forgers simply as **"Huckleberry Trail"**) becomes the unexpected standout number of the entire May 21, 2016 concert inside **The Crucible**: **the night the audience decided to make the song their own**. Because concerts don't publish setlists in advance, nobody expected a hyperlocal deep cut about a local rail-trail to be played live—and Ryan and Cassidy don't even introduce it with a spoken speech. Instead, the band simply starts playing the opening 12-string chord and analog synth bells. For a split second, all 65,000 people inside **The Crucible** are in stunned disbelief that The Stardust Engine is playing something so hyperlocal (*"Wait—no way! Are they seriously playing 'Huckleberry Trail' right now?!"*) before erupting into a deafening roar of cheers. On out-of-state *Reignition* Tour stops, 99% of arena concertgoers swayed politely while scattered pockets of CPI alumni and former valley residents lost their minds. Inside **The Crucible**, the reverse happens: the 1% of out-of-towners who drove into Blacksburg for the concert look around wondering what is going on, while to the 65,000 **Forgers** and Blacksburg/Christiansburg residents in attendance, **it's HOME**. Every CPI student and young alum knows the six-mile paved rail-trail winding from the **Pendleton Library** lawn past the pastures and Price Mountain down to Christiansburg, where they jog in their CPI hoodies and wave a quiet neighbor's hello as Cassidy rides her bicycle and Ryan pushes his manual wheelchair at dusk. And for the older alumni and lifelong New River Valley locals in the stands—some of whom actually rode the historic **Huckleberry Train** before its final run in 1958, or grew up on their parents' stories of the slow branch-line train between Cambria Depot and campus—hearing *"Six miles of asphalt from the library lawn / Where the old Huckleberry train used to roll on"* triggers an emotional wave of multi-generational nostalgia. By the first chorus, 65,000 Forgers have latched onto the song so fiercely that going into the second chorus, Ryan screams *"Take it, Forger Nation! It's yours!"* into his microphone as he and Cassidy step back—letting three generations of CPI students, townies, and Old Guard alumni roar the chorus across the valley as they claim *"Huckleberry Trail"* as their own hometown anthem.
 
 **LYRICS:**
 
@@ -2292,8 +2408,8 @@ In the quiet corner that we love the best!
 
 [Chorus - The Audience Takeover]
 (Cassidy and Ryan step back from their microphones in stunned, smiling awe as 65,000 Forgers—from 19-year-old students to older alumni who remember the original Huckleberry Train—take over the song and roar every word across the valley)
-[female]
-(Spoken, overwhelmed) Take it, Forger Nation! It's yours!
+[male]
+(Screamed over the drum build, overwhelmed with hometown pride) Take it, Forger Nation! It's yours!
 (65,000-Voice Stadium Choir Carrying the Chorus)
 Chasing the neon on the Huckleberry Trail!
 Where the twilight glows and the shadows sail!

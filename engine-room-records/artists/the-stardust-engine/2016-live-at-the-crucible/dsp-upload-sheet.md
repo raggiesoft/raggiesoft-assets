@@ -8,7 +8,7 @@
 * **Artist / Band Name:** `The Stardust Engine`
 * **Album Title:** `Live at the Crucible`
 * **Release Type:** `Live Album` (`LiveAlbum`)
-* **Total Tracks:** `34` (`3` WAV Masters Ready / `31` In Studio)
+* **Total Tracks:** `34` (`4` WAV Masters Ready / `30` In Studio)
 * **Record Label:** `Engine Room Records`
 * **Primary Genre:** `Live Stadium Rock / 1980s AOR / Progressive Symphonic Space-Rock / Collegiate Marching Band Rock`
 * **In-Universe Release Date:** `2016-10-15`
@@ -308,10 +308,10 @@
 * **Name:** Neon on the Huckleberry Trail
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `Neon on the Huckleberry Trail (Live at the Crucible)`
-* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
-* **Duration:** 4:05 • **Instrumental:** No • **Explicit:** No
+* **ISRC:** QTAHP2600057
+* **Duration:** 5:31 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/neon-on-the-huckleberry-trail-live-at-the-crucible.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/neon-on-the-huckleberry-trail-live-at-the-crucible.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/neon-on-the-huckleberry-trail-live-at-the-crucible.txt`
 
 30. [Disc 3 • Track 9] Neon Hearts

@@ -1581,7 +1581,7 @@
 * Name: Neon on the Huckleberry Trail
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Neon on the Huckleberry Trail (Live at the Crucible)
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600057
 
 30 (D3-T9). Neon Hearts
 * Name: Neon Hearts
