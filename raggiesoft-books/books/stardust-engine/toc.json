@@ -8,12 +8,12 @@
     "ebook_sizes": {
         "epub": "13.8 MB",
         "pdf": "15.4 MB",
-        "text_epub": "138 KB",
-        "text_pdf": "425 KB",
-        "epub_bytes": 14504691,
-        "pdf_bytes": 16128874,
-        "text_epub_bytes": 141244,
-        "text_pdf_bytes": 435522
+        "text_epub": "143 KB",
+        "text_pdf": "440 KB",
+        "epub_bytes": 14510110,
+        "pdf_bytes": 16143837,
+        "text_epub_bytes": 146570,
+        "text_pdf_bytes": 450666
     },
     "illustration_count": 20,
     "eras": [
@@ -464,12 +464,12 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Summit, The Retrofit & The Sting Operation (September 14\u201325, 2018)",
+                            "part_title": "The Summit, The Retrofit, The Sting & The ARTS Sleeper Problem (September 14\u201327, 2018)",
                             "file_path": "e007/c003/p001.md",
-                            "url": "/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-3-the-summit-the-retrofit-the-sting-operation-september-14-25-2018/the-summit-the-retrofit-the-sting-operation-september-14-25-2018",
+                            "url": "/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-3-the-summit-the-retrofit-the-sting-operation-september-14-25-2018/the-summit-the-retrofit-the-sting-the-arts-sleeper-problem-september-14-27-2018",
                             "date": "2018-09-14",
                             "start_time": "09:56",
-                            "location": "Dogtown Coffee, Builder's Depot, Santa Monica Proper & Westwood, CA",
+                            "location": "Dogtown Coffee, Santa Monica Proper, Westwood, Valley Regional Airport & Roanoke, VA",
                             "image": "/raggiesoft-books/images/scenes/stardust-engine/e007/c003/p001/dogtown-coffee-cocoa-protocol.jpg",
                             "image_alt": "Photorealistic morning scene on the foggy outdoor wooden patio of Dogtown Coffee in Santa Monica showing 54-year-old silver-haired Ryan O'Connell in his manual wheelchair, 19-year-old Jessica Miller in her manual wheelchair beside him, Cassidy O'Connell, Holly O'Connell, Robert Miller, and 19-year-old Justin Miller clinking steaming ceramic mugs of hot chocolate topped with whipped cream while Justin holds his mPad Mini angled toward his own eyes.",
                             "images": [
