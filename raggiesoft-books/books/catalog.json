@@ -92,10 +92,10 @@
             "pdf": "49.3 MB",
             "text_epub": "969 KB",
             "text_pdf": "3.6 MB",
-            "epub_bytes": 64714915,
-            "pdf_bytes": 51728785,
-            "text_epub_bytes": 992468,
-            "text_pdf_bytes": 3768342
+            "epub_bytes": 64714921,
+            "pdf_bytes": 51728805,
+            "text_epub_bytes": 992475,
+            "text_pdf_bytes": 3768356
         },
         "illustration_count": 60
     },
@@ -542,20 +542,20 @@
     {
         "slug": "stardust-engine",
         "title": "The Stardust Engine",
-        "description": "The thirty-year story of The Stardust Engine, told from lead guitarist Ryan O'Connell's third-person limited perspective\u2014from a 1986 student contest cassette on Progress Street in Blacksburg, through the 1990 Des Moines highway crash and the 1992 Friction trial, to the 2016 homecoming concert inside The Crucible.",
+        "description": "The forty-year story of The Stardust Engine (1978\u20132018), told in third-person limited perspective through the eyes of lead guitarist Ryan O'Connell\u2014from the sonic frequencies of Blacksburg High School and Aunt Martha Wright's farmhouse on Progress Street NE, through the 1990 highway crash at Mile Marker 98 and the 1992 Friction catastrophe in Los Angeles, to the 2016 homecoming concert inside The Crucible and the 2018 Nine-Figure Refusal.",
         "image": "/raggiesoft-books/images/covers/2x3/stardust-engine.jpg",
-        "first_route": "/raggiesoft-books/books/stardust-engine/book-1-cpi-electric-color-1986-1989/chapter-1-progress-street-the-forger-s-call-1986/progress-street-ignition-the-apex-signing-1986-1989",
+        "first_route": "/raggiesoft-books/books/stardust-engine/book-1-analog-heart-teenager-in-the-valley-1978-1989/chapter-1-the-noise-floor-september-1978/high-fidelity-safe-harbor-the-circuit",
         "folder": "stardust-engine",
         "hide": false,
         "ebook_sizes": {
-            "epub": "10.8 MB",
-            "pdf": "12.2 MB",
-            "text_epub": "76 KB",
-            "text_pdf": "246 KB",
-            "epub_bytes": 11336230,
-            "pdf_bytes": 12758285,
-            "text_epub_bytes": 77386,
-            "text_pdf_bytes": 252358
+            "epub": "10.9 MB",
+            "pdf": "12.3 MB",
+            "text_epub": "127 KB",
+            "text_pdf": "391 KB",
+            "epub_bytes": 11388596,
+            "pdf_bytes": 12906682,
+            "text_epub_bytes": 129750,
+            "text_pdf_bytes": 400625
         },
         "illustration_count": 13
     },
