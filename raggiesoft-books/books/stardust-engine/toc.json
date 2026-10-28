@@ -6,16 +6,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/stardust-engine.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "12.8 MB",
-        "pdf": "14.3 MB",
-        "text_epub": "127 KB",
-        "text_pdf": "393 KB",
-        "epub_bytes": 13399513,
-        "pdf_bytes": 14970369,
-        "text_epub_bytes": 130444,
-        "text_pdf_bytes": 402400
+        "epub": "13.8 MB",
+        "pdf": "15.4 MB",
+        "text_epub": "128 KB",
+        "text_pdf": "394 KB",
+        "epub_bytes": 14494018,
+        "pdf_bytes": 16098420,
+        "text_epub_bytes": 130653,
+        "text_pdf_bytes": 403891
     },
-    "illustration_count": 19,
+    "illustration_count": 20,
     "eras": [
         {
             "era_num": 1,
@@ -396,21 +396,21 @@
         },
         {
             "era_num": 7,
-            "era_title": "Book 7: The Nine-Figure Refusal & The Transfer Protocol (September 2018)",
-            "era_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-transfer-protocol-september-2018",
-            "illustration_count": 6,
+            "era_title": "Book 7: The Nine-Figure Refusal & The Jessica Miller Center (2018\u20132019)",
+            "era_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019",
+            "illustration_count": 7,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Approach Vector (September 13, 2018)",
-                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-transfer-protocol-september-2018/chapter-1-the-approach-vector-september-13-2018",
+                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-1-the-approach-vector-september-13-2018",
                     "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Approach Vector (September 13, 2018)",
                             "file_path": "e007/c001/p001.md",
-                            "url": "/stardust-engine/book-7-the-nine-figure-refusal-the-transfer-protocol-september-2018/chapter-1-the-approach-vector-september-13-2018/the-approach-vector-september-13-2018",
+                            "url": "/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-1-the-approach-vector-september-13-2018/the-approach-vector-september-13-2018",
                             "date": "2018-09-13",
                             "start_time": "08:30",
                             "location": "Valley Regional Airport, SCR Ventura Line & Downtown Los Angeles, CA",
@@ -429,14 +429,14 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: Omni-Global Media, Clause 88 & The Twin Protocol (September 14\u201319, 2018)",
-                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-transfer-protocol-september-2018/chapter-2-omni-global-media-clause-88-the-twin-protocol-september-14-19-2018",
+                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-2-omni-global-media-clause-88-the-twin-protocol-september-14-19-2018",
                     "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Omni-Global Media, Clause 88 & The Twin Protocol (September 14\u201319, 2018)",
                             "file_path": "e007/c002/p001.md",
-                            "url": "/stardust-engine/book-7-the-nine-figure-refusal-the-transfer-protocol-september-2018/chapter-2-omni-global-media-clause-88-the-twin-protocol-september-14-19-2018/omni-global-media-clause-88-the-twin-protocol-september-14-19-2018",
+                            "url": "/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-2-omni-global-media-clause-88-the-twin-protocol-september-14-19-2018/omni-global-media-clause-88-the-twin-protocol-september-14-19-2018",
                             "date": "2018-09-14",
                             "start_time": "09:35",
                             "location": "Omni-Global HQ (Century City), Westwood, Santa Monica & Pacific Science Center, CA",
@@ -459,56 +459,60 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Summit, The Retrofit & The Sting Operation (September 14\u201325, 2018)",
-                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-transfer-protocol-september-2018/chapter-3-the-summit-the-retrofit-the-sting-operation-september-14-25-2018",
-                    "illustration_count": 2,
+                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-3-the-summit-the-retrofit-the-sting-operation-september-14-25-2018",
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Summit, The Retrofit & The Sting Operation (September 14\u201325, 2018)",
                             "file_path": "e007/c003/p001.md",
-                            "url": "/stardust-engine/book-7-the-nine-figure-refusal-the-transfer-protocol-september-2018/chapter-3-the-summit-the-retrofit-the-sting-operation-september-14-25-2018/the-summit-the-retrofit-the-sting-operation-september-14-25-2018",
+                            "url": "/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-3-the-summit-the-retrofit-the-sting-operation-september-14-25-2018/the-summit-the-retrofit-the-sting-operation-september-14-25-2018",
                             "date": "2018-09-14",
                             "start_time": "09:56",
                             "location": "Dogtown Coffee, Builder's Depot, Santa Monica Proper & Westwood, CA",
                             "image": "/raggiesoft-books/images/scenes/stardust-engine/e007/c003/p001/dogtown-coffee-cocoa-protocol.jpg",
-                            "image_alt": "Photorealistic morning scene on the foggy outdoor wooden patio of Dogtown Coffee in Santa Monica showing 54-year-old silver-haired Ryan O'Connell in his manual wheelchair, 19-year-old Jessica Miller in her manual wheelchair beside him, Cassidy O'Connell, Holly O'Connell, and Robert Miller clinking steaming ceramic mugs of hot chocolate topped with whipped cream while 19-year-old Justin Miller stands in the center holding up his mPad Mini displaying the corporate organizational chart.",
+                            "image_alt": "Photorealistic morning scene on the foggy outdoor wooden patio of Dogtown Coffee in Santa Monica showing 54-year-old silver-haired Ryan O'Connell in his manual wheelchair, 19-year-old Jessica Miller in her manual wheelchair beside him, Cassidy O'Connell, Holly O'Connell, Robert Miller, and 19-year-old Justin Miller clinking steaming ceramic mugs of hot chocolate topped with whipped cream while Justin holds his mPad Mini angled toward his own eyes.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/stardust-engine/e007/c003/p001/dogtown-coffee-cocoa-protocol.jpg",
-                                    "alt": "Photorealistic morning scene on the foggy outdoor wooden patio of Dogtown Coffee in Santa Monica showing 54-year-old silver-haired Ryan O'Connell in his manual wheelchair, 19-year-old Jessica Miller in her manual wheelchair beside him, Cassidy O'Connell, Holly O'Connell, and Robert Miller clinking steaming ceramic mugs of hot chocolate topped with whipped cream while 19-year-old Justin Miller stands in the center holding up his mPad Mini displaying the corporate organizational chart."
-                                },
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/stardust-engine/e007/c003/p001/frost-interview.jpg",
-                                    "alt": "Photorealistic scene inside The Jessica Miller Center showing silver-haired Jameson Frost sitting across a table from 19-year-old twins Jessica Miller (in her manual wheelchair wearing a black The Stardust Engine t-shirt) and Justin Miller (standing beside her holding his mPad Mini in a matching The Stardust Engine t-shirt)."
+                                    "alt": "Photorealistic morning scene on the foggy outdoor wooden patio of Dogtown Coffee in Santa Monica showing 54-year-old silver-haired Ryan O'Connell in his manual wheelchair, 19-year-old Jessica Miller in her manual wheelchair beside him, Cassidy O'Connell, Holly O'Connell, Robert Miller, and 19-year-old Justin Miller clinking steaming ceramic mugs of hot chocolate topped with whipped cream while Justin holds his mPad Mini angled toward his own eyes."
                                 }
                             ],
-                            "image_count": 2
+                            "image_count": 1
                         }
                     ]
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Chapter 4: The Transfer Protocol (September 27, 2018)",
-                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-transfer-protocol-september-2018/chapter-4-the-transfer-protocol-september-27-2018",
-                    "illustration_count": 1,
+                    "chap_title": "Chapter 4: The Jessica Miller Center & The Frost Interview (December 2018\u2013February 2019)",
+                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-4-the-jessica-miller-center-the-frost-interview-december-2018-february-2019",
+                    "illustration_count": 3,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Transfer Protocol (September 27, 2018)",
+                            "part_title": "The Jessica Miller Center & The Frost Interview (December 2018\u2013February 2019)",
                             "file_path": "e007/c004/p001.md",
-                            "url": "/stardust-engine/book-7-the-nine-figure-refusal-the-transfer-protocol-september-2018/chapter-4-the-transfer-protocol-september-27-2018/the-transfer-protocol-september-27-2018",
-                            "date": "2018-09-27",
-                            "start_time": "17:50",
-                            "location": "Roanoke Regional Airport, Third Street Station, I-81 South & Progress Street NE (Blacksburg, VA)",
-                            "image": "/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/progress-street-suite-b-welcome.jpg",
-                            "image_alt": "Photorealistic autumn dusk scene inside the step-free Great Room of Suite B on Progress Street NE in Blacksburg showing 54-year-old silver-haired Ryan O'Connell in his matte-black carbon-fiber manual wheelchair alongside Cassidy and Holly O'Connell warmly welcoming 19-year-old twins Jessica Miller (in her manual wheelchair wearing a black-and-silver Engine Room Records bomber jacket) and Justin Miller (holding his mPad Mini tablet while one-eared tabby cat Fader rubs against his shin), with the illuminated Gothic gray Ironstone towers of Kincaid Hall glowing through the floor-to-ceiling window behind them.",
+                            "url": "/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-4-the-jessica-miller-center-the-frost-interview-december-2018-february-2019/the-jessica-miller-center-the-frost-interview-december-2018-february-2019",
+                            "date": "2019-02-14",
+                            "start_time": "10:00",
+                            "location": "The Jessica Miller Center, 2000 Avenue of the Stars, Floors 38\u201340, Century City, Los Angeles, CA",
+                            "image": "/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/jessica-miller.jpg",
+                            "image_alt": "Twenty-year-old Executive Director Jessica Miller seated comfortably in her titanium manual wheelchair wearing blue jeans, sneakers, black-framed glasses, and a black The Stardust Engine t-shirt, holding her mPad angled toward herself in front of the warm cork-paneled wall reading 'The Jessica Miller Center.' on Floor 38 of 2000 Avenue of the Stars in Century City, Los Angeles.",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/progress-street-suite-b-welcome.jpg",
-                                    "alt": "Photorealistic autumn dusk scene inside the step-free Great Room of Suite B on Progress Street NE in Blacksburg showing 54-year-old silver-haired Ryan O'Connell in his matte-black carbon-fiber manual wheelchair alongside Cassidy and Holly O'Connell warmly welcoming 19-year-old twins Jessica Miller (in her manual wheelchair wearing a black-and-silver Engine Room Records bomber jacket) and Justin Miller (holding his mPad Mini tablet while one-eared tabby cat Fader rubs against his shin), with the illuminated Gothic gray Ironstone towers of Kincaid Hall glowing through the floor-to-ceiling window behind them."
+                                    "src": "/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/jessica-miller.jpg",
+                                    "alt": "Twenty-year-old Executive Director Jessica Miller seated comfortably in her titanium manual wheelchair wearing blue jeans, sneakers, black-framed glasses, and a black The Stardust Engine t-shirt, holding her mPad angled toward herself in front of the warm cork-paneled wall reading 'The Jessica Miller Center.' on Floor 38 of 2000 Avenue of the Stars in Century City, Los Angeles."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/justin-server-rom.jpg",
+                                    "alt": "Chief Systems Architect Justin Miller standing inside the 19th-floor server room at 2000 Avenue of the Stars wearing his black The Stardust Engine t-shirt and glasses, inspecting network diagnostics on his mPad Mini angled toward his own eyes with the solid unbranded aluminum back facing outward."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/frost-interview.jpg",
+                                    "alt": "Inside the glass-walled Floor 38 office of The Jessica Miller Center in Century City, silver-haired Jameson Frost sits across the height-adjustable desk from twenty-year-old Executive Director Jessica Miller (in her manual wheelchair eating a lunch taco in her black The Stardust Engine t-shirt) while Justin Miller stands beside her holding his mPad Mini."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 3
                         }
                     ]
                 }
