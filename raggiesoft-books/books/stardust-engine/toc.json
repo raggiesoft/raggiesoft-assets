@@ -6,16 +6,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/stardust-engine.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "10.9 MB",
-        "pdf": "12.3 MB",
+        "epub": "12.8 MB",
+        "pdf": "14.3 MB",
         "text_epub": "127 KB",
         "text_pdf": "393 KB",
-        "epub_bytes": 11390837,
-        "pdf_bytes": 12912942,
-        "text_epub_bytes": 130442,
+        "epub_bytes": 13399513,
+        "pdf_bytes": 14970369,
+        "text_epub_bytes": 130444,
         "text_pdf_bytes": 402400
     },
-    "illustration_count": 13,
+    "illustration_count": 19,
     "eras": [
         {
             "era_num": 1,
@@ -398,13 +398,13 @@
             "era_num": 7,
             "era_title": "Book 7: The Nine-Figure Refusal & The Transfer Protocol (September 2018)",
             "era_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-transfer-protocol-september-2018",
-            "illustration_count": 0,
+            "illustration_count": 6,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Approach Vector (September 13, 2018)",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-transfer-protocol-september-2018/chapter-1-the-approach-vector-september-13-2018",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -413,7 +413,16 @@
                             "url": "/stardust-engine/book-7-the-nine-figure-refusal-the-transfer-protocol-september-2018/chapter-1-the-approach-vector-september-13-2018/the-approach-vector-september-13-2018",
                             "date": "2018-09-13",
                             "start_time": "08:30",
-                            "location": "Valley Regional Airport, SCR Ventura Line & Downtown Los Angeles, CA"
+                            "location": "Valley Regional Airport, SCR Ventura Line & Downtown Los Angeles, CA",
+                            "image": "/raggiesoft-books/images/scenes/stardust-engine/e007/c001/p001/valley-regional-scr-commuter-train.jpg",
+                            "image_alt": "Photorealistic scene outside Valley Regional Airport on a sunny Southern California afternoon showing 54-year-old Ryan O'Connell\u2014with wavy silver-grey hair, rectangular glasses, and a trimmed greying beard\u2014rolling in his matte-black carbon-fiber manual wheelchair across the yellow ADA tactile platform ramp toward the level-boarding doors of a double-decker SCR commuter train, flanked by Cassidy, Holly carrying her Florentine leather briefcase, and twin cousins Evan and Tyler Wright pulling black equipment cases, while a bewildered chauffeur in a black suit stands beside a lifted black SUV holding a placard reading MR. & MRS. O'CONNELL.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/stardust-engine/e007/c001/p001/valley-regional-scr-commuter-train.jpg",
+                                    "alt": "Photorealistic scene outside Valley Regional Airport on a sunny Southern California afternoon showing 54-year-old Ryan O'Connell\u2014with wavy silver-grey hair, rectangular glasses, and a trimmed greying beard\u2014rolling in his matte-black carbon-fiber manual wheelchair across the yellow ADA tactile platform ramp toward the level-boarding doors of a double-decker SCR commuter train, flanked by Cassidy, Holly carrying her Florentine leather briefcase, and twin cousins Evan and Tyler Wright pulling black equipment cases, while a bewildered chauffeur in a black suit stands beside a lifted black SUV holding a placard reading MR. & MRS. O'CONNELL."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -421,7 +430,7 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: Omni-Global Media, Clause 88 & The Twin Protocol (September 14\u201319, 2018)",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-transfer-protocol-september-2018/chapter-2-omni-global-media-clause-88-the-twin-protocol-september-14-19-2018",
-                    "illustration_count": 0,
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
@@ -430,7 +439,20 @@
                             "url": "/stardust-engine/book-7-the-nine-figure-refusal-the-transfer-protocol-september-2018/chapter-2-omni-global-media-clause-88-the-twin-protocol-september-14-19-2018/omni-global-media-clause-88-the-twin-protocol-september-14-19-2018",
                             "date": "2018-09-14",
                             "start_time": "09:35",
-                            "location": "Omni-Global HQ (Century City), Westwood, Santa Monica & Pacific Science Center, CA"
+                            "location": "Omni-Global HQ (Century City), Westwood, Santa Monica & Pacific Science Center, CA",
+                            "image": "/raggiesoft-books/images/scenes/stardust-engine/e007/c002/p001/150-million-refusal.jpg",
+                            "image_alt": "Photorealistic boardroom scene in Conference Room A on the 40th floor of Omni-Global Media HQ in Century City showing 54-year-old Ryan O'Connell (with silver-grey hair, rectangular glasses, and trimmed greying beard, seated in his manual wheelchair wearing a midnight-blue The Stardust Engine polo), 51-year-old Cassidy O'Connell (in a matching midnight-blue polo and glasses), and 49-year-old Holly O'Connell (in a charcoal suit with the yellowed 1992 Clause 88 binder across from an OFFER contract folder), backed by 51-year-old identical twin cousins Evan (in a CPI maroon polo) and Tyler Wright (in a burnt-orange polo) with arms crossed facing three silver-haired corporate executives.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/stardust-engine/e007/c002/p001/150-million-refusal.jpg",
+                                    "alt": "Photorealistic boardroom scene in Conference Room A on the 40th floor of Omni-Global Media HQ in Century City showing 54-year-old Ryan O'Connell (with silver-grey hair, rectangular glasses, and trimmed greying beard, seated in his manual wheelchair wearing a midnight-blue The Stardust Engine polo), 51-year-old Cassidy O'Connell (in a matching midnight-blue polo and glasses), and 49-year-old Holly O'Connell (in a charcoal suit with the yellowed 1992 Clause 88 binder across from an OFFER contract folder), backed by 51-year-old identical twin cousins Evan (in a CPI maroon polo) and Tyler Wright (in a burnt-orange polo) with arms crossed facing three silver-haired corporate executives."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/stardust-engine/e007/c002/p001/cassidy-extraction.jpg",
+                                    "alt": "Photorealistic hallway scene outside Conference Room A beneath a glowing EXIT sign showing identical twins Evan and Tyler Wright protectively escorting a sobbing Cassidy O'Connell out through the wood-paneled doors while 54-year-old silver-haired Ryan O'Connell rolls alongside in his manual wheelchair looking up at his sister with fierce concern and Holly O'Connell strides ahead in her charcoal business suit carrying her brown leather briefcase."
+                                }
+                            ],
+                            "image_count": 2
                         }
                     ]
                 },
@@ -438,7 +460,7 @@
                     "chap_num": 3,
                     "chap_title": "Chapter 3: The Summit, The Retrofit & The Sting Operation (September 14\u201325, 2018)",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-transfer-protocol-september-2018/chapter-3-the-summit-the-retrofit-the-sting-operation-september-14-25-2018",
-                    "illustration_count": 0,
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
@@ -447,7 +469,20 @@
                             "url": "/stardust-engine/book-7-the-nine-figure-refusal-the-transfer-protocol-september-2018/chapter-3-the-summit-the-retrofit-the-sting-operation-september-14-25-2018/the-summit-the-retrofit-the-sting-operation-september-14-25-2018",
                             "date": "2018-09-14",
                             "start_time": "09:56",
-                            "location": "Dogtown Coffee, Builder's Depot, Santa Monica Proper & Westwood, CA"
+                            "location": "Dogtown Coffee, Builder's Depot, Santa Monica Proper & Westwood, CA",
+                            "image": "/raggiesoft-books/images/scenes/stardust-engine/e007/c003/p001/dogtown-coffee-cocoa-protocol.jpg",
+                            "image_alt": "Photorealistic morning scene on the foggy outdoor wooden patio of Dogtown Coffee in Santa Monica showing 54-year-old silver-haired Ryan O'Connell in his manual wheelchair, 19-year-old Jessica Miller in her manual wheelchair beside him, Cassidy O'Connell, Holly O'Connell, and Robert Miller clinking steaming ceramic mugs of hot chocolate topped with whipped cream while 19-year-old Justin Miller stands in the center holding up his mPad Mini displaying the corporate organizational chart.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/stardust-engine/e007/c003/p001/dogtown-coffee-cocoa-protocol.jpg",
+                                    "alt": "Photorealistic morning scene on the foggy outdoor wooden patio of Dogtown Coffee in Santa Monica showing 54-year-old silver-haired Ryan O'Connell in his manual wheelchair, 19-year-old Jessica Miller in her manual wheelchair beside him, Cassidy O'Connell, Holly O'Connell, and Robert Miller clinking steaming ceramic mugs of hot chocolate topped with whipped cream while 19-year-old Justin Miller stands in the center holding up his mPad Mini displaying the corporate organizational chart."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/stardust-engine/e007/c003/p001/frost-interview.jpg",
+                                    "alt": "Photorealistic scene inside The Jessica Miller Center showing silver-haired Jameson Frost sitting across a table from 19-year-old twins Jessica Miller (in her manual wheelchair wearing a black The Stardust Engine t-shirt) and Justin Miller (standing beside her holding his mPad Mini in a matching The Stardust Engine t-shirt)."
+                                }
+                            ],
+                            "image_count": 2
                         }
                     ]
                 },
@@ -455,7 +490,7 @@
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Transfer Protocol (September 27, 2018)",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-transfer-protocol-september-2018/chapter-4-the-transfer-protocol-september-27-2018",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -464,7 +499,16 @@
                             "url": "/stardust-engine/book-7-the-nine-figure-refusal-the-transfer-protocol-september-2018/chapter-4-the-transfer-protocol-september-27-2018/the-transfer-protocol-september-27-2018",
                             "date": "2018-09-27",
                             "start_time": "17:50",
-                            "location": "Roanoke Regional Airport, Third Street Station, I-81 South & Progress Street NE (Blacksburg, VA)"
+                            "location": "Roanoke Regional Airport, Third Street Station, I-81 South & Progress Street NE (Blacksburg, VA)",
+                            "image": "/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/progress-street-suite-b-welcome.jpg",
+                            "image_alt": "Photorealistic autumn dusk scene inside the step-free Great Room of Suite B on Progress Street NE in Blacksburg showing 54-year-old silver-haired Ryan O'Connell in his matte-black carbon-fiber manual wheelchair alongside Cassidy and Holly O'Connell warmly welcoming 19-year-old twins Jessica Miller (in her manual wheelchair wearing a black-and-silver Engine Room Records bomber jacket) and Justin Miller (holding his mPad Mini tablet while one-eared tabby cat Fader rubs against his shin), with the illuminated Gothic gray Ironstone towers of Kincaid Hall glowing through the floor-to-ceiling window behind them.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/progress-street-suite-b-welcome.jpg",
+                                    "alt": "Photorealistic autumn dusk scene inside the step-free Great Room of Suite B on Progress Street NE in Blacksburg showing 54-year-old silver-haired Ryan O'Connell in his matte-black carbon-fiber manual wheelchair alongside Cassidy and Holly O'Connell warmly welcoming 19-year-old twins Jessica Miller (in her manual wheelchair wearing a black-and-silver Engine Room Records bomber jacket) and Justin Miller (holding his mPad Mini tablet while one-eared tabby cat Fader rubs against his shin), with the illuminated Gothic gray Ironstone towers of Kincaid Hall glowing through the floor-to-ceiling window behind them."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
