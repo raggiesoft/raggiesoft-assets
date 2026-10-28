@@ -8,12 +8,12 @@
     "ebook_sizes": {
         "epub": "10.8 MB",
         "pdf": "12.1 MB",
-        "text_epub": "54 KB",
-        "text_pdf": "184 KB",
-        "epub_bytes": 11313776,
-        "pdf_bytes": 12694349,
-        "text_epub_bytes": 54930,
-        "text_pdf_bytes": 188628
+        "text_epub": "58 KB",
+        "text_pdf": "199 KB",
+        "epub_bytes": 11318245,
+        "pdf_bytes": 12709334,
+        "text_epub_bytes": 59400,
+        "text_pdf_bytes": 203451
     },
     "illustration_count": 13,
     "eras": [
@@ -290,6 +290,15 @@
                                 }
                             ],
                             "image_count": 2
+                        },
+                        {
+                            "part_num": 8,
+                            "part_title": "Part 8: The Morning After: 95.5\u00b0F at the Blue Ridge Regional Aquatic Center",
+                            "file_path": "e006/c001/p008.md",
+                            "url": "/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-8-the-morning-after-95-5-f-at-the-blue-ridge-regional-aquatic-center",
+                            "date": "2016-05-22",
+                            "start_time": "14:00",
+                            "location": "\\"
                         }
                     ]
                 }
