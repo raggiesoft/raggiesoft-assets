@@ -9,11 +9,11 @@
         "epub": "13.8 MB",
         "pdf": "15.4 MB",
         "text_epub": "128 KB",
-        "text_pdf": "394 KB",
-        "epub_bytes": 14494018,
-        "pdf_bytes": 16098420,
-        "text_epub_bytes": 130653,
-        "text_pdf_bytes": 403891
+        "text_pdf": "395 KB",
+        "epub_bytes": 14494331,
+        "pdf_bytes": 16099281,
+        "text_epub_bytes": 130914,
+        "text_pdf_bytes": 404474
     },
     "illustration_count": 20,
     "eras": [
@@ -449,7 +449,7 @@
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/stardust-engine/e007/c002/p001/cassidy-extraction.jpg",
-                                    "alt": "Photorealistic hallway scene outside Conference Room A beneath a glowing EXIT sign showing identical twins Evan and Tyler Wright protectively escorting a sobbing Cassidy O'Connell out through the wood-paneled doors while 54-year-old silver-haired Ryan O'Connell rolls alongside in his manual wheelchair looking up at his sister with fierce concern and Holly O'Connell strides ahead in her charcoal business suit carrying her brown leather briefcase."
+                                    "alt": "Photorealistic hallway scene outside Conference Room A beneath a glowing <EXIT sign showing identical twins Evan (maroon shirt) and Tyler Wright (burnt-orange shirt) physically carrying a sobbing, glasses-free Cassidy O'Connell off the floor on a black conference chair cushion, while 54-year-old silver-haired Ryan O'Connell\u2014positioned on the left toward the service corridor while waiting for Holly's routing call\u2014looks across at Holly as she takes her first stride straight forward toward the open bullpen carrying her black hard-shell briefcase, a split second before Ryan grabs his push-rims to pivot and follow her."
                                 }
                             ],
                             "image_count": 2
