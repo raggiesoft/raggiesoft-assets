@@ -38,7 +38,9 @@ studio flat mix, dry vocals, hip hop, rap, country, lo-fi
 
 ## IV. Narrative & Studio Lore
 
-The Grand Finale. Because The Stardust Engine was the opening act with a strict 30-minute slot, there was no "fake exit" or encore. They had to transition straight from the emotional weight of "My Anchor Holds" directly into this high-energy closer. The performance is frantic and joyful, designed to leave the audience buzzing for the headliner while proving that the "opening act" could steal the show.
+The Grand Finale—and the dam breaking backstage. Because Apex Records locked the band into a strict 30-minute support slot (even forbidding them from jamming later that night with the headliners, who were close family friends), there was no "fake exit" or encore. Anchored by Ryan standing beside her riser, Cassidy pours the last of her adrenaline into this frantic, joyful closer.
+
+**The moment Ryan shouts *"Goodnight, everybody! We're The Stardust Engine!"* and they step past the side-stage curtain of Midwest Horizon, the mask finally drops. Delayed from Track 4, Cassidy breaks down in tears backstage, and Ryan holds her in a deep-pressure hug for twenty minutes—repeating *"Family sticks together"*—while their headlining family friends stand guard outside the dressing room door to keep the Apex tour manager away.**
 
 ---
 

@@ -38,7 +38,9 @@ studio flat mix, dry vocals, hip hop, rap, country, lo-fi
 
 ## IV. Narrative & Studio Lore
 
-The "Big Bet." Apex Records had poured their entire marketing budget into this track, convinced it was the #1 hit that would define the album. Consequently, the band was under immense pressure to deliver a "perfect," high-energy performance of it every night. You can hear the professional polish here—Cassidy hits every note and Ryan plays the "good soldier," executing the catchy hooks exactly as the studio demanded, proving they could play the game even if they hated the rules.
+The "Big Bet"—performed on pure survival autopilot. Apex Records had poured their entire marketing budget into this track, convinced it was the #1 hit that would define the album, putting the band under immense pressure to deliver a "perfect" rendition every night.
+
+Coming immediately after the emotional trigger of *"If You Walked Away,"* Cassidy is holding herself together here by a thread. You can hear her relying on years of classical muscle memory to hit every synth cue and vocal harmony with mechanical precision while Ryan shouts *"Are you ready to light up the night, Chicago?!"* to draw the arena's eyes onto himself and buy his sister three minutes of breathing room.
 
 ---
 

@@ -205,11 +205,9 @@ Dancing in the neon... (Oh-oh, oh-oh)
 ***
 
 **LORE NOTE:**
-For Cassidy, who is autistic, the lyrics of this song were not a performance—they were a terrifying "what-if" scenario that she experienced viscerally every time she sang it. While the studio marketed it as a romantic breakup ballad, Cassidy sang it as a desperate plea to her brother. **The fear in her voice on this recording is real.**
+For Cassidy, who is autistic, the lyrics of this song were not a performance—they were a terrifying "what-if" scenario that she experienced viscerally every time she sang it. While Apex Records marketed it as a romantic breakup ballad, Cassidy sang it as a desperate plea to her brother. **The fear in her voice on this recording—especially when her voice trembles on the final whispered *"Don't walk away... Thank you so much"*—is 100% real.**
 
-Ryan, who is also autistic, understood her need for absolute certainty better than anyone. He famously had to reassure her after *every single concert*—often using the exact same phrase, **"Family sticks together"**—to ground her back in reality and confirm that he was never going to leave her.
-
-**Note: After this specific performance, Cassidy broke down in tears backstage. Ryan had to hold her in a deep pressure hug for twenty minutes to help her reset and remind her that he was right there.**
+Because The Stardust Engine was locked into a strict 30-minute opening-act slot at the 18,000-seat Midwest Horizon Arena with an Apex tour manager tapping his watch in the wings, Cassidy couldn't walk off stage to recover. With three songs still left in the set, she had to lock her terror behind sheer autistic masking and muscle memory until Ryan could physically ground her on stage during *"My Anchor Holds"* (Track 6)—resulting in a total emotional collapse the second they cleared the curtain after Track 7.
 
 **LYRICS:**
 
@@ -275,7 +273,9 @@ Don't walk away...
 ***
 
 **LORE NOTE:**
-The "Big Bet." Apex Records had poured their entire marketing budget into this track, convinced it was the #1 hit that would define the album. Consequently, the band was under immense pressure to deliver a "perfect," high-energy performance of it every night. You can hear the professional polish here—Cassidy hits every note and Ryan plays the "good soldier," executing the catchy hooks exactly as the studio demanded, proving they could play the game even if they hated the rules.
+The "Big Bet"—performed on pure survival autopilot. Apex Records had poured their entire marketing budget into this track, convinced it was the #1 hit that would define the album, putting the band under immense pressure to deliver a "perfect" rendition every night.
+
+Coming immediately after the emotional trigger of *"If You Walked Away,"* Cassidy is holding herself together here by a thread. You can hear her relying on years of classical muscle memory to hit every synth cue and vocal harmony with mechanical precision while Ryan shouts *"Are you ready to light up the night, Chicago?!"* to draw the arena's eyes onto himself and buy his sister three minutes of breathing room.
 
 **LYRICS:**
 
@@ -342,7 +342,9 @@ Shining so bright...
 ***
 
 **LORE NOTE:**
-A love letter between siblings disguised as a power ballad. While Apex Records marketed this as a romantic duet to sell records, the "Ironheads" in the audience knew the truth. When Ryan and Cassidy sang this to each other on stage, it wasn't about romance; it was about survival. It was their public promise that no matter what the studio threw at them, they would be each other's anchor in the storm.
+A love letter between siblings disguised as a power ballad—and the on-stage rescue that saved the concert. Seeing Cassidy's hands still shaking behind her keyboard tier after *"If You Walked Away"* and *"Light Up the Night,"* Ryan looks right at her and dedicates the song into the mic: *"This is a song for that one person who keeps you sane... the one who's your anchor."*
+
+During the guitar solo, Ryan walks across the stage and stands pressed **back-to-back** against Cassidy at her keyboard rig, using his own spine to give her deep-pressure grounding right in front of 18,000 people at Midwest Horizon. While Apex marketed the song as a romance, the "Ironheads" knew the truth: this was Ryan physically anchoring his sister so she could make it to the end of the set.
 
 **LYRICS:**
 
@@ -404,7 +406,9 @@ My anchor holds...
 ***
 
 **LORE NOTE:**
-The Grand Finale. Because The Stardust Engine was the opening act with a strict 30-minute slot, there was no "fake exit" or encore. They had to transition straight from the emotional weight of "My Anchor Holds" directly into this high-energy closer. The performance is frantic and joyful, designed to leave the audience buzzing for the headliner while proving that the "opening act" could steal the show.
+The Grand Finale—and the dam breaking backstage. Because Apex Records locked the band into a strict 30-minute support slot (even forbidding them from jamming later that night with the headliners, who were close family friends), there was no "fake exit" or encore. Anchored by Ryan standing beside her riser, Cassidy pours the last of her adrenaline into this frantic, joyful closer.
+
+**The moment Ryan shouts *"Goodnight, everybody! We're The Stardust Engine!"* and they step past the side-stage curtain of Midwest Horizon, the mask finally drops. Delayed from Track 4, Cassidy breaks down in tears backstage, and Ryan holds her in a deep-pressure hug for twenty minutes—repeating *"Family sticks together"*—while their headlining family friends stand guard outside the dressing room door to keep the Apex tour manager away.**
 
 **LYRICS:**
 

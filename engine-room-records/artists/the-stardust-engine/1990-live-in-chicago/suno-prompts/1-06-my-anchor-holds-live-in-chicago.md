@@ -38,7 +38,9 @@ studio flat mix, dry vocals, hip hop, rap, country, lo-fi
 
 ## IV. Narrative & Studio Lore
 
-A love letter between siblings disguised as a power ballad. While Apex Records marketed this as a romantic duet to sell records, the "Ironheads" in the audience knew the truth. When Ryan and Cassidy sang this to each other on stage, it wasn't about romance; it was about survival. It was their public promise that no matter what the studio threw at them, they would be each other's anchor in the storm.
+A love letter between siblings disguised as a power ballad—and the on-stage rescue that saved the concert. Seeing Cassidy's hands still shaking behind her keyboard tier after *"If You Walked Away"* and *"Light Up the Night,"* Ryan looks right at her and dedicates the song into the mic: *"This is a song for that one person who keeps you sane... the one who's your anchor."*
+
+During the guitar solo, Ryan walks across the stage and stands pressed **back-to-back** against Cassidy at her keyboard rig, using his own spine to give her deep-pressure grounding right in front of 18,000 people at Midwest Horizon. While Apex marketed the song as a romance, the "Ironheads" knew the truth: this was Ryan physically anchoring his sister so she could make it to the end of the set.
 
 ---
 

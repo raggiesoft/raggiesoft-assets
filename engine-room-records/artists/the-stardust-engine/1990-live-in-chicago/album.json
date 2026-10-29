@@ -25,8 +25,8 @@
   },
   "subtitle": "The 1990 Tour EP (Recorded Before \"The Crash\")",
   "linerNotes": [
-    "Recorded at the Rosemont Horizon just weeks before the bus accident that changed everything. For years, this tape sat in the vault, too painful for the band to listen to.",
-    "Released in 1997 as a fan-club exclusive, it captures the band at the absolute peak of their \"First Era\" physical powers. They are playing the \"plastic\" pop hits of 1987–1989, but they are playing them with the ferocity of a garage band trying to break out of a cage."
+    "Recorded at The Midwest Horizon Arena (commonly called Midwest Horizon) in Chicago as the opening act on the Neon Hearts tour, just weeks before the December 10, 1990 accident on I-81 that changed everything. For years, this tape sat in the vault, too painful for the band to listen to.",
+    "Released in 1997 as a fan-club exclusive, it captures the band at the absolute peak of their \"First Era\" physical powers inside a strict 30-minute support-slot box. Even though the headliners on the tour were close family friends who wanted The Stardust Engine to come back out and jam with them at the end of the night, Apex Records executives said \"Absolutely not\"—so Ryan, Cassidy, Evan, and Tyler poured every ounce of their frustration into those thirty minutes, playing the \"plastic\" pop hits of 1987–1989 with the ferocity of a garage band trying to break out of a cage."
   ],
   "studioArchives": [
     {
@@ -40,6 +40,16 @@
       }
     },
     {
+      "title": "The 30-Minute Opening-Act Box",
+      "icon": "fa-handcuffs",
+      "variant": "danger",
+      "content": "Why was The Stardust Engine playing an 18,000-seat arena like Midwest Horizon in 1989–1990? Because they were the opening act for headliners who happened to be close family friends. The headliners wanted Ryan and Cassidy to come back out during the main set to jam with them, but Apex Records executives flatly forbade it (\"Absolutely not—stay in your thirty-minute box\"). Twelve years later at The Chancellery in 2002, when opening act Crimson Node joined The Stardust Engine on stage for an eleven-minute jam on \"The Flight Path,\" Ryan finally righted that wrong.",
+      "link": {
+        "label": "Listen to \"The Flight Path (Live at the Chancellery)\"",
+        "url": "https://music.raggiesoft.com/the-stardust-engine/2002-live-at-the-chancellery?track=1-14-the-flight-path"
+      }
+    },
+    {
       "title": "The \"Engine\" Awakens",
       "icon": "fa-volume-high",
       "variant": "warning",
@@ -47,14 +57,14 @@
     }
   ],
   "liveTranscript": {
-    "title": "The \"Scream\": Live Transcript",
-    "venue": "Rosemont Horizon, Chicago, IL (1990)",
+    "title": "The Anchor On Stage: Live Transcript",
+    "venue": "The Midwest Horizon Arena (Midwest Horizon), Chicago, IL (1990)",
     "paragraphs": [
-      "As the final, synth-heavy chord of \"Light Up the Night\" fades, the arena is deafening. 18,000 teenagers are screaming for the pop idols they see on MTV.",
-      "At center stage, Ryan O'Connell stands gripping the mic stand, chest heaving, drenched in sweat under the blinding pink and teal stage lights. He looks over at Cassidy behind her towering rack of keyboards, then back at Tyler and Evan. A rebellious, exhausted grin breaks across his face. He leans into the microphone—ignoring the teleprompter—and shouts over the roar:"
+      "Midway through the thirty-minute opening set, singing \"If You Walked Away\" (Track 4) triggers a visceral wave of abandonment terror in Cassidy. With the Apex tour manager standing in the wings tapping his watch, there is no time to stop—she has to survive \"Light Up the Night\" (Track 5) on sheer autistic masking and muscle memory while 18,000 teenagers roar in the dark.",
+      "As the final synth chord of \"Light Up the Night\" fades, Ryan looks across the stage and sees his sister's hands trembling on her keyboard tier. Ignoring the label's script, Ryan walks straight over to Cassidy's riser, plants himself right beside her, and speaks into his microphone before playing the entire guitar solo of \"My Anchor Holds\" pressed back-to-back against his sister to ground her through the end of the set:"
     ],
-    "quote": "CHICAGO! ARE YOU STILL WITH US?! ... We've got one more for you tonight! The suits in L.A. told us to keep it quiet, they told us to play it safe... SO TYLER, COUNT US IN AND LET'S BLOW THE ROOF OFF THIS PLACE!",
-    "attribution": "Cue the blistering, overdriven opening riff of \"My Anchor Holds\""
+    "quote": "This is a song for that one person who keeps you sane... the one who's your anchor.",
+    "attribution": "Ryan O'Connell, grounding Cassidy on stage before \"My Anchor Holds\" (Track 6)"
   },
   "loreLinks": [
     {
