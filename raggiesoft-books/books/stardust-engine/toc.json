@@ -6,16 +6,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/stardust-engine.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "17.4 MB",
-        "pdf": "19 MB",
+        "epub": "18.8 MB",
+        "pdf": "20.4 MB",
         "text_epub": "162 KB",
-        "text_pdf": "492 KB",
-        "epub_bytes": 18236054,
-        "pdf_bytes": 19911715,
-        "text_epub_bytes": 165581,
-        "text_pdf_bytes": 503801
+        "text_pdf": "493 KB",
+        "epub_bytes": 19704491,
+        "pdf_bytes": 21414909,
+        "text_epub_bytes": 165892,
+        "text_pdf_bytes": 505064
     },
-    "illustration_count": 21,
+    "illustration_count": 24,
     "eras": [
         {
             "era_num": 1,
@@ -80,7 +80,7 @@
             "era_num": 2,
             "era_title": "Book 2: Live in Chicago & Mile Marker 98 (1989\u20131990)",
             "era_url": "/raggiesoft-books/books/stardust-engine/book-2-live-in-chicago-mile-marker-98-1989-1990",
-            "illustration_count": 0,
+            "illustration_count": 3,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -103,7 +103,7 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: Mile Marker 98 & Protocol T-10 (December 10, 1990)",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-2-live-in-chicago-mile-marker-98-1989-1990/chapter-2-mile-marker-98-protocol-t-10-december-10-1990",
-                    "illustration_count": 0,
+                    "illustration_count": 3,
                     "parts": [
                         {
                             "part_num": 1,
@@ -112,7 +112,24 @@
                             "url": "/stardust-engine/book-2-live-in-chicago-mile-marker-98-1989-1990/chapter-2-mile-marker-98-protocol-t-10-december-10-1990/mile-marker-98-protocol-t-10-1990",
                             "date": "1990-12-10",
                             "start_time": "23:42",
-                            "location": "Interstate 81 (Mile Marker 98) & Star City General Hospital, VA"
+                            "location": "Interstate 81 (Mile Marker 98) & Star City General Hospital, VA",
+                            "image": "/raggiesoft-books/images/scenes/stardust-engine/e002/c002/p001/dec-14-90-cassidy-overnight-anchor.jpg",
+                            "image_alt": "December 14, 1990 (DEC 14 '90) at Star City General Hospital in Roanoke: on the first night Ryan is cleared for an overnight visitor, twenty-three-year-old Cassidy O'Connell (in her Burnt Orange CPI sweatshirt) sits on the edge of twenty-six-year-old Ryan's hospital bed beside her brown vinyl sleeper-recliner and folded patchwork quilt, wrapping her arms around his shoulders and kissing his cheek while Ryan closes his eyes in quiet relief as snow falls outside the night window.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/stardust-engine/e002/c002/p001/dec-14-90-cassidy-overnight-anchor.jpg",
+                                    "alt": "December 14, 1990 (DEC 14 '90) at Star City General Hospital in Roanoke: on the first night Ryan is cleared for an overnight visitor, twenty-three-year-old Cassidy O'Connell (in her Burnt Orange CPI sweatshirt) sits on the edge of twenty-six-year-old Ryan's hospital bed beside her brown vinyl sleeper-recliner and folded patchwork quilt, wrapping her arms around his shoulders and kissing his cheek while Ryan closes his eyes in quiet relief as snow falls outside the night window."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/stardust-engine/e002/c002/p001/dec-18-90-first-wheelchair-lap.jpg",
+                                    "alt": "December 18, 1990 (DEC 18 '90) at Star City General Hospital: eight days after the crash, twenty-six-year-old Ryan O'Connell sits upright in a hospital wheelchair for the first time while his sisters Holly (21) and Cassidy (23) hug him in their Burnt Orange CPI t-shirts before taking him for a fifteen-minute lap around the medical ward."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/stardust-engine/e002/c002/p001/dec-19-90-family-circle-protocol-t10.jpg",
+                                    "alt": "December 19, 1990 (DEC 19 '90) at Star City General Hospital: twenty-six-year-old Ryan O'Connell sits propped up in bed in a comfortable maroon sweatshirt surrounded by his family in their twenties\u2014Cassidy (23) on his left, Holly (21) on his right holding the black three-ring Protocol T-10 binder, and identical twenty-two-year-old twin cousins Evan and Tyler Wright standing behind them in plaid flannel shirts."
+                                }
+                            ],
+                            "image_count": 3
                         }
                     ]
                 }
