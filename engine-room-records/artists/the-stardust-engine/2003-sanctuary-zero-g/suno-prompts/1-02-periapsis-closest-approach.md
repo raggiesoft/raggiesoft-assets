@@ -1,0 +1,121 @@
+# `1-02-periapsis-closest-approach` — *Periapsis (Closest Approach)*
+
+* **Artist:** The Stardust Engine
+* **Album:** *Sanctuary (Zero-G)* (`2003-sanctuary-zero-g`)
+* **Disc / Track:** Disc 1, Track 02
+* **Genre:** Atmospheric Synth-Pop / Ambient / Space Rock
+* **ISRC:** `QT6HM2622629` • **Duration:** `4:58`
+* **Master WAV Vault Path:** `studio/periapsis-closest-approach.wav`
+* **License:** Creative Commons Attribution-ShareAlike 4.0 International (**CC BY-SA 4.0**)
+
+---
+
+## I. Suno Generation Settings
+
+* **Generation Mode:** **Standard Suno Generation** *(or **Cover Mode at `75%` Audio Influence** when creating a remix, live arrangement, or alternate take from `studio/periapsis-closest-approach.wav`)*
+* **Style Influence:** **`90%`**
+* **Weirdness:** **`0%`**
+
+---
+
+## II. Styles to Include (`Style of Music`)
+
+```text
+2003 1980s cosmic synth-pop and mid-tempo space-rock concept album (Moon 1: Cassidy's Solo Orbit — The Cosmic Tidal Lock Sound), driving 4/4 gated drum beat, melodic sliding fretless electric bass, shimmering zero-gravity analog polyphonic synthesizer pads, crystal-clear soaring female lead vocals, lush planetarium spatial reverb
+```
+
+---
+
+## III. Styles to Exclude (`Exclude Styles`)
+
+```text
+heavy metal distortion, screaming vocals, hip hop, rap, country, dry vocals, lo-fi
+```
+
+---
+
+## IV. Narrative & Studio Lore
+
+Following the mid-tempo, sweeping introduction of the title track, *Periapsis (Closest Approach)* immediately hits the accelerator. With *Moon 1 (Tidal Lock)* acting as the prologue, this track officially welcomes the listener to the *Sanctuary* exhibition with a 1990s planetarium documentary introduction. Engineered to showcase the kinetic side of **The Cosmic Tidal Lock Sound**, this track is driven by a relentless 16th-note analog synth sequencer and a crisp, tight drum machine. Lyrically, Cassidy uses the concept of an "orbital slingshot" to describe stealing momentum from a massive, dangerous gravitational body (like her terrestrial past) just to propel herself further into deep space. It is a brilliant, high-speed 80s synth-pop rush.
+
+---
+
+## V. Lyrics & Structural Cues (Copy-Paste into Suno)
+
+```text
+[Spoken Intro]
+*(Spoken clearly, calmly, and methodically, like a narrator in a planetarium documentary. A fast-pulsing electronic hum begins to build.)*
+Welcome to the Engine Room Records Planetarium and our presentation of Sanctuary. Having established our initial tidal lock, our trajectory now brings us to the periapsis. This is the point in our orbit closest to the parent body, where gravitational pull is strongest and our velocity reaches its absolute maximum. Please remain seated as we initiate the orbital slingshot maneuver.
+
+[Intro]
+*(Instrumental - The track immediately blasts off with a fast, pulsing 16th-note analog synthesizer sequencer. A crisp, highly quantized drum machine locks in, setting a dangerously fast, driving tempo before Cassidy's vocals cut in, drenched in spatial reverb.)*
+
+[Verse 1]
+The shadow grows, the planet swells
+I'm dropping down the gravity wells
+But I'm not here to crash and burn
+I'm riding on the massive turn
+The telemetry is spinning wild
+But my trajectory is perfectly dialed
+
+[Pre-Chorus]
+The sequencer is running hot
+I'm lining up the perfect shot
+A hundred thousand miles an hour
+Stealing all the giant's power!
+
+[Chorus]
+Periapsis! Cutting through the zone
+Flying faster than I've ever known
+Closest approach, scraping the sky
+Using the pull just to watch it fly by
+We're taking the momentum and breaking the route
+Periapsis! Riding the slingshot out!
+
+[Verse 2]
+The atmosphere is brushing the glass
+A blur of violet as I pass
+I feel the friction start to heat
+But I am perfectly on the beat
+They thought the gravity would hold me down
+But I'm just using it to leave this town
+
+[Pre-Chorus]
+The sequencer is running hot
+I'm lining up the perfect shot
+A hundred thousand miles an hour
+Stealing all the giant's power!
+
+[Chorus]
+Periapsis! Cutting through the zone
+Flying faster than I've ever known
+Closest approach, scraping the sky
+Using the pull just to watch it fly by
+We're taking the momentum and breaking the route
+Periapsis! Riding the slingshot out!
+
+[Bridge]
+*(The driving drum machine drops out. The rapid sequencer continues alone, creating a feeling of breathless suspension at the very bottom of the orbital curve.)*
+Hold your breath at the edge of the wire
+Don't look down at the atmospheric fire
+Feel the apex.
+Hold the nerve.
+Slingshot... release!
+
+[Synth Solo]
+*(Instrumental - The drums slam back in. Cassidy delivers a blistering, high-speed arpeggiated synthesizer solo that cascades over the driving beat, simulating the feeling of absolute velocity.)*
+
+[Chorus]
+Periapsis! Cutting through the zone
+Flying faster than I've ever known
+Closest approach, scraping the sky
+Using the pull just to watch it fly by
+We're taking the momentum and breaking the route
+Periapsis! Riding the slingshot out!
+
+[Outro]
+Riding the slingshot out.
+Maximum velocity.
+Periapsis.
+*(The vocals echo into the distance as the fast sequencer slowly fades out, simulating a ship disappearing into the black)*
+```

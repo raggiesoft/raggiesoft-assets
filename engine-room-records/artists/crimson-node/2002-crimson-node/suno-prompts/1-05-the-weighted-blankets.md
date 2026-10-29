@@ -1,0 +1,108 @@
+# `1-05-the-weighted-blankets` — *The Weighted Blankets*
+
+* **Artist:** Crimson Node
+* **Album:** *Crimson Node* (`2002-crimson-node`)
+* **Disc / Track:** Disc 1, Track 05
+* **Genre:** 1980s Pop & Rock / Synth-Prog
+* **ISRC:** `QT6J52643490` • **Duration:** `3:51`
+* **Master WAV Vault Path:** `studio/the-weighted-blankets.wav`
+* **License:** Creative Commons Attribution-ShareAlike 4.0 International (**CC BY-SA 4.0**)
+
+---
+
+## I. Suno Generation Settings
+
+* **Generation Mode:** **Standard Suno Generation** *(or **Cover Mode at `75%` Audio Influence** when creating a remix, live arrangement, or alternate take from `studio/the-weighted-blankets.wav`)*
+* **Style Influence:** **`90%`**
+* **Weirdness:** **`0%`**
+
+---
+
+## II. Styles to Include (`Style of Music`)
+
+```text
+1980s synth-prog and arena rock, heavy sequenced MIDI synth bass, mathematical artillery-strike gated reverb drums, clinical overdriven rhythm and soaring lead electric guitar, rotating male and female powerhouse lead vocals, 1980s analog polyphonic synthesizers, triumphant high-energy studio production
+```
+
+---
+
+## III. Styles to Exclude (`Exclude Styles`)
+
+```text
+modern pop, trap, hip hop, rap, country twang, acoustic coffeehouse, lo-fi, muffled, sloppy timing
+```
+
+---
+
+## IV. Narrative & Studio Lore
+
+"The Weighted Blankets" is a heavy, bouncy, high-energy stadium anthem dedicated to the Albemarle County compound's three Siberian Huskies: Kodiak, Maverick, and Echo. The lyrics introduce the pack's distinct personalities: Maverick is the tactical instigator who wedges himself into the living room puppy pile, while Echo is the dramatic vocal siren who screams through the drywall at Admiral the Tokay Gecko—and will absolutely let the entire neighborhood know with a deafening yodel if her dinner is even sixty seconds late. Yet, beneath the acoustic warfare and the chaos, the track honors their critical medical function. When Matt’s system flashes red into an Err 6 meltdown, Kodiak (the stoic anchor) flawlessly drops his seventy-five-pound frame across Matt's legs, providing the immediate, grounding deep-pressure therapy necessary to stabilize the central processor.
+
+---
+
+## V. Lyrics & Structural Cues (Copy-Paste into Suno)
+
+```text
+[Intro]
+(Heavy rhythmic tom drums and a driving bassline, a high synth note bending like a siren)
+
+[Verse 1]
+Seventy pounds of tactical grace
+Running the perimeter, securing the space
+The instigator wedges right into the fold
+While the stoic anchor comes in from the cold
+We’ve got a riot squad pacing the floor
+Waiting for the signal right outside the door
+
+[Pre-Chorus]
+When the system starts flashing and the circuits overload
+They are running down the hallway, they are taking up the road
+
+[Chorus]
+Bring in the heavy weight, the gravity we need
+A living blanket to slow down the speed
+When the static is screaming and the processor is trapped
+We are safely anchored, perfectly wrapped
+Yeah, we are safely anchored, perfectly wrapped!
+
+[Verse 2]
+Down by the jungle room, the siren starts to wail
+Arguing with shadows, chasing her own tail
+A screaming match echoing straight through the wall
+With the apex predator refusing to fall
+It's an acoustic war in the middle of the night
+But it tells the central processor that everything is right
+
+[Pre-Chorus]
+When the system starts flashing and the circuits overload
+They are running down the hallway, they are taking up the road
+
+[Chorus]
+Bring in the heavy weight, the gravity we need
+A living blanket to slow down the speed
+When the static is screaming and the processor is trapped
+We are safely anchored, perfectly wrapped
+Yeah, we are safely anchored, perfectly wrapped!
+
+[Bridge]
+(Tempo slows, heavy sustained bass)
+Deep pressure on the mat.
+The panic fades to black.
+We build a fortress on the floor, and we are coming back.
+We are coming back!
+
+[Guitar Solo]
+(Playful, high-energy rhythm guitar solo)
+
+[Chorus]
+Bring in the heavy weight, the gravity we need
+A living blanket to slow down the speed
+When the static is screaming and the processor is trapped
+We are safely anchored, perfectly wrapped
+
+[Outro]
+The acoustic war.
+The weighted blanket.
+System stabilized.
+(Fade out on a heavy drum beat and a final synth pulse)
+```

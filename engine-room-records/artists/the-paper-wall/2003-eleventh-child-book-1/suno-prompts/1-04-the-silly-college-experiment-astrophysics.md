@@ -1,0 +1,118 @@
+# `1-04-the-silly-college-experiment-astrophysics` — *The Silly College Experiment (Astrophysics)*
+
+* **Artist:** The Paper Wall
+* **Album:** *The Eleventh Child, Book 1: System.Crash* (`2003-eleventh-child-book-1`)
+* **Disc / Track:** Disc 1, Track 04
+* **Genre:** Electronic / Narrative / Rock Opera
+* **ISRC:** `QT6HJ2673223` • **Duration:** `3:29`
+* **Master WAV Vault Path:** `studio/the-silly-college-experiment-astrophysics.wav`
+* **License:** Creative Commons Attribution-ShareAlike 4.0 International (**CC BY-SA 4.0**)
+
+---
+
+## I. Suno Generation Settings
+
+* **Generation Mode:** **Standard Suno Generation** *(or **Cover Mode at `75%` Audio Influence** when creating a remix, live arrangement, or alternate take from `studio/the-silly-college-experiment-astrophysics.wav`)*
+* **Style Influence:** **`90%`**
+* **Weirdness:** **`0%`**
+
+---
+
+## II. Styles to Include (`Style of Music`)
+
+```text
+2000s atmospheric alternative prog-rock and cinematic post-rock concept album, emotional dynamic shifts from delicate clean delay-drenched electric guitar and piano to soaring wall-of-sound distortion, expressive vocals, tight live-feel drums, poignant narrative tension
+```
+
+---
+
+## III. Styles to Exclude (`Exclude Styles`)
+
+```text
+bubblegum pop, hip hop, rap, country, club edm, lo-fi
+```
+
+---
+
+## IV. Narrative & Studio Lore
+
+# The Silly College Experiment (Astrophysics)
+
+
+This track explores Aubrie Sinclair's manipulative mindset regarding Jordan's enrollment at Commonwealth Polytechnic Institute. She views his desire for higher education as a "silly college experiment" and deliberately sets him up to fail by selecting Astrophysics—a highly complex and mathematically demanding major—as his degree path. Her intention is not for him to succeed, but to use this "insurmountable mountain" to prove his incompetence, shatter his confidence, and force him to return home, cementing his lifelong dependency on her.
+
+---
+
+## V. Lyrics & Structural Cues (Copy-Paste into Suno)
+
+```text
+(Intro)
+(A slow, grinding industrial beat, similar to "Dependency Loop," but with a new, mocking, high-pitched synth melody, like a warped nursery rhyme.)
+
+(Verse 1)
+You want to go to college
+You want to play pretend
+This silly little game of yours
+I know just how it ends
+You think you're smart, my Aubrey
+You think you'll get away
+But I know how to break you
+I know the words to say
+
+(Chorus)
+(The beat becomes heavier, more deliberate and cruel)
+So choose the stars, my little one
+Choose the great unknown
+A world of math you'll never pass
+Out there, all alone
+It's far too hard, it's far too cold
+A trap I've set for you
+This "silly college experiment"
+Will be your Waterloo
+
+(Verse 2)
+You'll fail your first assignment
+You'll panic at the tests
+You'll realize you're not like them
+You're not as good as them
+You'll see you're just a burden
+Incapable and weak
+You'll call me, crying, begging
+You won't last a single week
+
+(Chorus)
+So choose the stars, my little one
+Choose the great unknown
+A world of math you'll never pass
+Out there, all alone
+It's far too hard, it's far too cold
+A trap I've set for you
+This "silly college experiment"
+Will be your Waterloo
+
+(Bridge)
+(Music drops to just a buzzing, electrical drone)
+(Whispered)
+Run along. Play your game.
+It's all part of the plan.
+You'll come back home.
+You'll come back to me.
+They always come back to me...
+(The grinding beat crashes back in)
+
+(Chorus)
+So choose the stars, my little one
+Choose the great unknown
+A world of math you'll never pass
+Out there, all alone
+It's far too hard, it's far too cold
+A trap I've set for you
+This "silly college experiment"
+Will be your Waterloo
+
+(Outro)
+(The "warped nursery rhyme" synth melody fades out)
+You'll come home...
+You'll fail...
+You'll come home...
+```

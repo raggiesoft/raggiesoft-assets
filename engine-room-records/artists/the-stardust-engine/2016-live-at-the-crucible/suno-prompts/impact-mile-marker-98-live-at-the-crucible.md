@@ -9,12 +9,12 @@
 
 ---
 
-## I. Suno v5 / v6 Cover Mode Settings (74% Audio Influence Protocol)
+## I. Suno v5 / v6 Cover Mode Settings (75% Audio Influence Protocol)
 
 * **Generation Mode:** **Cover** of Studio Master
 * **Source Studio Master WAV to Upload:**
   `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/impact-mile-marker-98.wav`
-* **Audio Influence:** **`74%`**
+* **Audio Influence:** **`75%`**
 * **Style Influence:** **`90%`**
 * **Weirdness:** **`0%`**
 * **Vocal Gender UI Setting:** `Male (Ryan O'Connell lead vocal with Cassidy dramatic harmonies)`

@@ -1,0 +1,116 @@
+# `1-08-kaleidoscope-sun` — *Kaleidoscope Sun*
+
+* **Artist:** Fractured Prisms
+* **Album:** *Carnaby Street* (`1983-carnaby-street`)
+* **Disc / Track:** Disc 1, Track 08
+* **Genre:** Progressive Rock / Art Pop
+* **ISRC:** `QZWFJ2690393` • **Duration:** `5:08`
+* **Master WAV Vault Path:** `studio/kaleidoscope-sun.wav`
+* **License:** Creative Commons Attribution-ShareAlike 4.0 International (**CC BY-SA 4.0**)
+
+---
+
+## I. Suno Generation Settings
+
+* **Generation Mode:** **Standard Suno Generation** *(or **Cover Mode at `75%` Audio Influence** when creating a remix, live arrangement, or alternate take from `studio/kaleidoscope-sun.wav`)*
+* **Style Influence:** **`90%`**
+* **Weirdness:** **`0%`**
+
+---
+
+## II. Styles to Include (`Style of Music`)
+
+```text
+early 1980s British New Wave and dark progressive synth-rock, lush vintage analog polyphonic synthesizers, chorus-drenched post-punk electric guitar arpeggios, driving melodic bassline, punchy 1980s gated snare drums, dramatic expressive male and female vocals
+```
+
+---
+
+## III. Styles to Exclude (`Exclude Styles`)
+
+```text
+modern pop, hip hop, rap, country, heavy metal screaming, edm, lo-fi
+```
+
+---
+
+## IV. Narrative & Studio Lore
+
+Released on Fractured Prisms' 1983 album, Carnaby Street. Following the devastating loss of their four bandmates and siblings in a 1981 crash, and Claire’s subsequent escape from an abusive, legally fraudulent relationship in Romford, the surviving siblings fled to their father's childhood home in Williamsport, Maryland.
+
+Written in the safety of that transatlantic sanctuary, "Kaleidoscope Sun" is a literal call to come home. Claire penned the lyrics as a beacon of hope for anyone trapped in a false reality, urging them toward where the "true light gleams." The track represents a massive emotional breakthrough for Claire. After struggling to play her late cousin Gwen’s salvaged wooden flute on earlier tracks, she finally feels ready to properly play it here. She delivers a distinct flute melody from 1:45 to 2:00, a returning leitmotif at 3:50, and most importantly, a soaring flute solo from 4:00 to 4:32 that completely replaces a traditional rock guitar solo.
+
+In the extended timeline of the Ocean View Archives, this track transcends its 1983 origins. Luna uses the exact melody from the 1:45 mark—either played on her own instrument or simply hummed—as a non-verbal lifeline for her brother, Leo, communicating: "We hear you, and we're getting you out now."
+
+---
+
+## V. Lyrics & Structural Cues (Copy-Paste into Suno)
+
+```text
+*(Vocal Style: British Pop, male and female duet)*
+
+[Intro]
+*(Begins with a distinctive, slightly melancholic keyboard arpeggio, joined by a driving bassline and crisp drumming. A soaring guitar melody enters, then fades as Rhys Manning's vocals begin.)*
+
+[Verse 1]
+The city sleeps in shades of grey, another dawn begins
+Another street, another day, where no one ever wins
+A hollow echo in the square, a promise whispered low
+Of somewhere else, beyond compare, a place where true things grow.
+The faces blur, a passing stream, a river deep and wide
+Lost in a half-forgotten dream, where do the lost ones hide?
+
+[Chorus]
+*(Music swells, becoming more layered, with harmonies. The tempo lifts slightly.)*
+Do you hear it?
+A whisper on the wind, a melody so clear?
+*(Keyboard flourish, echoing a flute-like sound)*
+(Oh, the true light gleams...)
+Will you come back?
+To where the true light gleams, and home is always near?
+
+[Short Instrumental Break]
+*(From 1:45 to 2:00, the specific, brief, and distinctive FLUTE MELODY plays. It is poignant, clear, and memorable—the exact melody Luna uses as Leo's lifeline.)*
+
+[Verse 2]
+We chase the shadows on the wall, illusions that we build
+Afraid to leap, afraid to fall, a prophecy fulfilled.
+The painted smiles, a masquerade, to hide the fading spark
+A fragile fortress we have made, against the growing dark.
+But in the distance, I can see a shimmer in the air
+A different kind of mystery, a world beyond compare.
+
+[Chorus]
+Do you hear it?
+A whisper on the wind, a melody so clear?
+*(Keyboard flourish, echoing a flute-like sound)*
+(Oh, the true light gleams...)
+Will you come back?
+To where the true light gleams, and home is always near?
+
+[Bridge]
+*(Music becomes more atmospheric, layered keyboards, a searching guitar line, and more prominent bass. Tempo slows slightly before building again.)*
+Through fractured prisms, light divides, in patterns sharp and bright
+A thousand paths, where fate presides, between the day and night.
+Is it a vision, just a trace? A trick of weary eyes?
+Or is there truly such a place, beneath those shifting skies?
+A shelter from the endless rain, a refuge from the cold…
+A story waiting to unfold, a legend to be told.
+
+[Instrumental Section]
+*(At 3:50, the flute leitmotif echoes subtly. Then, from 4:00 to 4:32, Claire takes center stage with a sweeping, virtuoso FLUTE SOLO, fully replacing the traditional guitar lead and cementing her emotional return.)*
+
+[Chorus]
+Do you hear it?
+A whisper on the wind, a melody so clear?
+*(Keyboard flourish, echoing a flute-like sound)*
+(Oh, the true light gleams...)
+Will you come back?
+To where the true light gleams, and home is always near?
+
+[Outro]
+*(Music begins to fade, the initial keyboard arpeggio returning. The vocals become softer, more distant)*
+Home is always near...
+Kaleidoscope Sun...
+*(The distinctive flute melody plays one last time, very softly, as the song fades to silence)*
+```

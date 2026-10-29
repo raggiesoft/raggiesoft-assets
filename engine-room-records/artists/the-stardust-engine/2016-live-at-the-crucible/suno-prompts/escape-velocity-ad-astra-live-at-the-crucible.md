@@ -9,7 +9,7 @@
 ## *Escape Velocity (Ad Astra)* (Live at the Crucible) — 15:33 4-Movement Prog-Rock Epic (Multi-Reel Suno v5 Max Mode Protocol)
 
 - **Source Audio Reference**: `/raggiesoft-assets/engine-room-records/artists/the-stardust-engine/1996-ad-astra-single/web-mp3/1-01-escape-velocity-ad-astra.mp3` (`15:33.0`)
-- **Why Multi-Reel Is Required**: Suno v5 has a hard `~8:45` maximum total length ceiling per track/Extend chain. By slicing the `15:33` master right at the canonical **`07:42.8` Main Engine Cutoff (MECO)** into two `< 7:55` reels (plus an optional `4:00` Part IV-only reel at `11:34.0`), each movement pair gets its own full Suno v5 **Max Mode** reel (`Audio Influence: 74%`, Persona: `The Stardust Engine`) without rushing solos or hitting the `8:45` wall, and `ffmpeg` joins Reel 1 + Reel 2 seamlessly across the zero-gravity MECO silence on the Mac.
+- **Why Multi-Reel Is Required**: Suno v5 has a hard `~8:45` maximum total length ceiling per track/Extend chain. By slicing the `15:33` master right at the canonical **`07:42.8` Main Engine Cutoff (MECO)** into two `< 7:55` reels (plus an optional `4:00` Part IV-only reel at `11:34.0`), each movement pair gets its own full Suno v5 **Max Mode** reel (`Audio Influence: 75%`, Persona: `The Stardust Engine`) without rushing solos or hitting the `8:45` wall, and `ffmpeg` joins Reel 1 + Reel 2 seamlessly across the zero-gravity MECO silence on the Mac.
 - **Pre-Sliced Reference Audio Files in `/ai-staging/suno-music-drop/`**:
   1. `Escape-Velocity-Reel-1-Parts-1-and-2 (7m42s).mp3` (`00:00.0 – 07:42.8` — *Overture + Part I: The Cage + Part II: Ignition*)
   2. `Escape-Velocity-Reel-2-Parts-3-and-4 (7m50s).mp3` (`07:42.8 – 15:34.0` — *Part III: The Cosmos + Part IV: Re-entry*)

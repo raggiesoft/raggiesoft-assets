@@ -7,7 +7,7 @@
 ---
 
 ### Track 01A (Version 1 — 1986 Garage Cassette Demo): `Ignition: The Forger's Call (1986 Progress Street Cassette Demo)`
-* **Generation Mode:** Fresh Suno v6 Generation (**Generate This 1986 Cassette Demo FIRST!** On this raw 4-track garage demo tape, the band members vocalize `(TING... BOOM!)` to test out the idea of where the foundry anvil strike and kick-drum drop will go. Save this WAV for *Lost Sounds* [`1-14-ignition-the-forgers-call-1986-cassette-demo.wav`] AND use it as the **Cover Reference (`Audio Influence: 74%`)** for **Track 01B** [1986 Stadium Football Game PA Version] and **Track 01C** [2016 *Live at the Crucible* Version]!)
+* **Generation Mode:** Fresh Suno v6 Generation (**Generate This 1986 Cassette Demo FIRST!** On this raw 4-track garage demo tape, the band members vocalize `(TING... BOOM!)` to test out the idea of where the foundry anvil strike and kick-drum drop will go. Save this WAV for *Lost Sounds* [`1-14-ignition-the-forgers-call-1986-cassette-demo.wav`] AND use it as the **Cover Reference (`Audio Influence: 75%`)** for **Track 01B** [1986 Stadium Football Game PA Version] and **Track 01C** [2016 *Live at the Crucible* Version]!)
 * **Save Downloaded WAV As:** `1-14-ignition-the-forgers-call-1986-cassette-demo.wav` (for `2007-lost-sounds`)
 * **Vocal Gender UI Setting:** `Male` (22-year-old Ryan O'Connell lead vocal + Cassidy, Evan, & Tyler garage gang-vocal response)
 * **Weirdness:** `0%` • **Style Influence:** `90%`
@@ -153,11 +153,11 @@ IGNITION!
 ---
 
 ### Track 01B (Version 2 — 1986 Crucible Football Game PA Version): `Ignition: The Forger's Call (1986 Crucible Stadium Version)`
-* **Generation Mode:** **Cover Mode (`Audio Influence: 74%`)** using **Track 01A (`1986 Progress Street Cassette Demo`)** as the reference seed!
+* **Generation Mode:** **Cover Mode (`Audio Influence: 75%`)** using **Track 01A (`1986 Progress Street Cassette Demo`)** as the reference seed!
 * **What Changes from Version 1:** This is the finished 1986 studio/stadium master played over The Crucible's PA towers before kickoff at every CPI home football game (the track to which the student section in **The Anvil** organically crafted **The Stomp** on the heavy kick-drum hits over several successive plays). The vocalized `(TING... BOOM!)` placeholders from the garage demo are **removed** and replaced by actual instrumental steel-anvil strikes and chest-rattling kick-drum hits!
 * **Save Downloaded WAV As:** `1-15-ignition-the-forgers-call-1986-stadium-version.wav`
 * **Vocal Gender UI Setting:** `Male` (Ryan O'Connell lead vocal + full studio gang-vocal chant)
-* **Weirdness:** `0%` • **Style Influence:** `90%` • **Audio Influence:** `74%`
+* **Weirdness:** `0%` • **Style Influence:** `90%` • **Audio Influence:** `75%`
 
 #### Styles to Include
 ```text
@@ -283,10 +283,10 @@ IGNITION!
 ---
 
 ### Track 01C (Version 3 — 2016 Live Stadium Opener): `Ignition: The Forger's Call (Live at the Crucible)`
-* **Generation Mode:** **Cover Mode (`Audio Influence: 74%`)** using **Track 01A** (or **Track 01B**) as the reference seed!
+* **Generation Mode:** **Cover Mode (`Audio Influence: 75%`)** using **Track 01A** (or **Track 01B**) as the reference seed!
 * **Save Downloaded WAV As:** `1-01-ignition-the-forgers-call.wav`
 * **Vocal Gender UI Setting:** `Male` (Ryan O'Connell gravelly stadium vocal + 60,000-person crowd gang-vocal response)
-* **Weirdness:** `0%` • **Style Influence:** `90%` • **Audio Influence:** `74%`
+* **Weirdness:** `0%` • **Style Influence:** `90%` • **Audio Influence:** `75%`
 
 #### Styles to Include
 ```text

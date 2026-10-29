@@ -7,9 +7,9 @@
 ---
 
 ### Track 18: `Saturday Night Lights: The Crucible` *(Live Concert Debut — Mid-Show Floodlight Anthem)*
-* **Generation Mode:** **Suno v6 74% Cover Protocol** (Upload `master-wav/studio/saturday-night-lights-the-crucible.wav` into Suno Cover)
+* **Generation Mode:** **Suno v6 75% Cover Protocol** (Upload `master-wav/studio/saturday-night-lights-the-crucible.wav` into Suno Cover)
 * **Save Downloaded WAV As:** `1-18-saturday-night-lights-the-crucible.wav`
-* **Audio Influence:** `74%` • **Style Influence:** `90%` • **Weirdness:** `0%`
+* **Audio Influence:** `75%` • **Style Influence:** `90%` • **Weirdness:** `0%`
 * **Vocal Gender UI Setting:** `Unselected` (Duet Protocol + 65,000 Ironheads Crowd Singalong)
 * **Sacred Canon Rule:** This is the **live concert debut** of *"Saturday Night Lights: The Crucible"*, and by unbreakable band vow it will **ONLY ever be played live at The Crucible**.
 

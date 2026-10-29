@@ -1,4 +1,6 @@
-# `2004-progress-street` — Per-Song Suno Prompts Directory
+# The Stardust Engine — *Progress Street* (`2004-progress-street`) Suno Prompts Directory
+
+> **CC BY-SA 4.0 Open-Culture Recreation Guide:** Every song on this album has its own standalone Markdown file below containing the exact Suno style prompts, exclusions, Cover Audio Influence settings (`75%` when using Cover mode), and structural/phonetic lyric cues.
 
 # The Stardust Engine — *Progress Street* (2004) Suno Production Sheet
 
@@ -26,16 +28,18 @@
 
 ---
 
-## Individual Track Prompt Files (`suno-prompts/`)
+---
 
-- [`track-01-progress-street-where-the-fire-began.md`](./track-01-progress-street-where-the-fire-began.md) — Track 01: Progress Street: Where the Fire Began
-- [`track-02-route-1-midnight-headlights.md`](./track-02-route-1-midnight-headlights.md) — Track 02: Route 1: Midnight Headlights
-- [`track-03-seconds-into-forever-already-rendered-2-32.md`](./track-03-seconds-into-forever-already-rendered-2-32.md) — Track 03: Seconds Into Forever *(ALREADY RENDERED — `2:32`)*
-- [`track-04-thunder-in-the-rain-already-rendered-4-34.md`](./track-04-thunder-in-the-rain-already-rendered-4-34.md) — Track 04: Thunder in the Rain *(ALREADY RENDERED — `4:34`)*
-- [`track-05-upright-amplifier.md`](./track-05-upright-amplifier.md) — Track 05: Upright & Amplifier
-- [`track-06-saturday-night-lights-the-crucible.md`](./track-06-saturday-night-lights-the-crucible.md) — Track 06: Saturday Night Lights: The Crucible
-- [`track-07-fifth-gear-the-architect-s-shield.md`](./track-07-fifth-gear-the-architect-s-shield.md) — Track 07: Fifth Gear: The Architect's Shield
-- [`track-08-before-the-distance-already-rendered-5-01.md`](./track-08-before-the-distance-already-rendered-5-01.md) — Track 08: Before the Distance *(ALREADY RENDERED — `5:01`)*
-- [`track-09-running-on-redline.md`](./track-09-running-on-redline.md) — Track 09: Running on Redline
-- [`track-10-empty-arenas-full-2004-aor-studio-version-suno-cover.md`](./track-10-empty-arenas-full-2004-aor-studio-version-suno-cover.md) — Track 10: Empty Arenas *(Full 2004 AOR Studio Version — Suno Cover)*
-- [`track-11-last-bus-home-lights-out-on-progress-street.md`](./track-11-last-bus-home-lights-out-on-progress-street.md) — Track 11: Last Bus Home: Lights Out on Progress Street
+## Per-Track Suno Prompt Files (`suno-prompts/`)
+
+- **Track 01:** [`1-01-progress-street-where-the-fire-began.md`](./1-01-progress-street-where-the-fire-began.md) — *Progress Street: Where the Fire Began*
+- **Track 02:** [`1-02-route-1-midnight-headlights.md`](./1-02-route-1-midnight-headlights.md) — *Route 1: Midnight Headlights*
+- **Track 03:** [`1-03-seconds-into-forever.md`](./1-03-seconds-into-forever.md) — *Seconds Into Forever*
+- **Track 04:** [`1-04-thunder-in-the-rain.md`](./1-04-thunder-in-the-rain.md) — *Thunder in the Rain*
+- **Track 05:** [`1-05-upright-and-amplifier.md`](./1-05-upright-and-amplifier.md) — *Upright & Amplifier*
+- **Track 06:** [`1-06-saturday-night-lights-the-crucible.md`](./1-06-saturday-night-lights-the-crucible.md) — *Saturday Night Lights: The Crucible*
+- **Track 07:** [`1-07-fifth-gear-the-architects-shield.md`](./1-07-fifth-gear-the-architects-shield.md) — *Fifth Gear: The Architect's Shield*
+- **Track 08:** [`1-08-before-the-distance.md`](./1-08-before-the-distance.md) — *Before the Distance*
+- **Track 09:** [`1-09-running-on-redline.md`](./1-09-running-on-redline.md) — *Running on Redline*
+- **Track 10:** [`1-10-empty-arenas.md`](./1-10-empty-arenas.md) — *Empty Arenas*
+- **Track 11:** [`1-11-last-bus-home-lights-out-on-progress-street.md`](./1-11-last-bus-home-lights-out-on-progress-street.md) — *Last Bus Home: Lights Out on Progress Street*

@@ -1,4 +1,6 @@
-# `2015-reignition` — Per-Song Suno Prompts Directory
+# The Stardust Engine — *Reignition* (`2015-reignition`) Suno Prompts Directory
+
+> **CC BY-SA 4.0 Open-Culture Recreation Guide:** Every song on this album has its own standalone Markdown file below containing the exact Suno style prompts, exclusions, Cover Audio Influence settings (`75%` when using Cover mode), and structural/phonetic lyric cues.
 
 # The Stardust Engine — *Reignition* (2015) Complete Suno Production & Lore Sheet
 
@@ -8,7 +10,7 @@
 * **Raw Master WAV Destination Directory:**
   `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/`
 * **CRITICAL PRODUCTION ORDER:**
-  ***Reignition* (2015) is the final studio prerequisite before completing 2016's *Live at the Crucible*** so that its comeback anthems can be included in the 2-hour career-spanning main set of *Live at the Crucible* (via the **74% Cover Audio Influence** workflow).
+  ***Reignition* (2015) is the final studio prerequisite before completing 2016's *Live at the Crucible*** so that its comeback anthems can be included in the 2-hour career-spanning main set of *Live at the Crucible* (via the **75% Cover Audio Influence** workflow).
 
 ---
 
@@ -32,16 +34,18 @@
 
 ## II. Complete 11-Track Suno Prompts (`llms-suno-usage.txt` Compliant)
 
-## Individual Track Prompt Files (`suno-prompts/`)
+---
 
-- [`track-01-reignition-lights-up-on-progress-street.md`](./track-01-reignition-lights-up-on-progress-street.md) — Track 01 — `Reignition: Lights Up on Progress Street`
-- [`track-02-main-engine-start.md`](./track-02-main-engine-start.md) — Track 02 — `Main Engine Start`
-- [`track-03-the-iceberg-submerged.md`](./track-03-the-iceberg-submerged.md) — Track 03 — `The Iceberg: Submerged`
-- [`track-04-orbital-return.md`](./track-04-orbital-return.md) — Track 04 — `Orbital Return`
-- [`track-05-ten-years-in-the-quiet.md`](./track-05-ten-years-in-the-quiet.md) — Track 05 — `Ten Years in the Quiet`
-- [`track-06-fifty-two-to-nothing-the-norfolk-reckoning.md`](./track-06-fifty-two-to-nothing-the-norfolk-reckoning.md) — Track 06 — `Fifty-Two to Nothing: The Norfolk Reckoning`
-- [`track-07-twin-frequency-the-rhythm-section.md`](./track-07-twin-frequency-the-rhythm-section.md) — Track 07 — `Twin Frequency: The Rhythm Section`
-- [`track-08-neon-on-the-huckleberry-trail.md`](./track-08-neon-on-the-huckleberry-trail.md) — Track 08 — `Neon on the Huckleberry Trail`
-- [`track-09-no-strings-on-the-master.md`](./track-09-no-strings-on-the-master.md) — Track 09 — `No Strings on the Master`
-- [`track-10-still-your-safe-person.md`](./track-10-still-your-safe-person.md) — Track 10 — `Still Your Safe Person`
-- [`track-11-where-the-stars-still-burn.md`](./track-11-where-the-stars-still-burn.md) — Track 11 — `Where the Stars Still Burn`
+## Per-Track Suno Prompt Files (`suno-prompts/`)
+
+- **Track 01:** [`1-01-reignition-lights-up-on-progress-street.md`](./1-01-reignition-lights-up-on-progress-street.md) — *Reignition: Lights Up on Progress Street*
+- **Track 02:** [`1-02-main-engine-start.md`](./1-02-main-engine-start.md) — *Main Engine Start*
+- **Track 03:** [`1-03-the-iceberg-submerged.md`](./1-03-the-iceberg-submerged.md) — *The Iceberg: Submerged*
+- **Track 04:** [`1-04-orbital-return.md`](./1-04-orbital-return.md) — *Orbital Return*
+- **Track 05:** [`1-05-ten-years-in-the-quiet.md`](./1-05-ten-years-in-the-quiet.md) — *Ten Years in the Quiet*
+- **Track 06:** [`1-06-fifty-two-to-nothing-the-norfolk-reckoning.md`](./1-06-fifty-two-to-nothing-the-norfolk-reckoning.md) — *Fifty-Two to Nothing: The Norfolk Reckoning*
+- **Track 07:** [`1-07-twin-frequency-the-rhythm-section.md`](./1-07-twin-frequency-the-rhythm-section.md) — *Twin Frequency: The Rhythm Section*
+- **Track 08:** [`1-08-neon-on-the-huckleberry-trail.md`](./1-08-neon-on-the-huckleberry-trail.md) — *Neon on the Huckleberry Trail*
+- **Track 09:** [`1-09-no-strings-on-the-master.md`](./1-09-no-strings-on-the-master.md) — *No Strings on the Master*
+- **Track 10:** [`1-10-still-your-safe-person.md`](./1-10-still-your-safe-person.md) — *Still Your Safe Person*
+- **Track 11:** [`1-11-where-the-stars-still-burn.md`](./1-11-where-the-stars-still-burn.md) — *Where the Stars Still Burn*

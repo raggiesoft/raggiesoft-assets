@@ -1,0 +1,113 @@
+# `1-01-our-own-frequency` — *Our Own Frequency*
+
+* **Artist:** The Stardust Engine
+* **Album:** *Our Own Frequency* (`2008-our-own-frequency`)
+* **Disc / Track:** Disc 1, Track 01
+* **Genre:** Singer / Songwriter
+* **ISRC:** `QTA7V2642609` • **Duration:** `3:24`
+* **Master WAV Vault Path:** `studio/our-own-frequency.wav`
+* **License:** Creative Commons Attribution-ShareAlike 4.0 International (**CC BY-SA 4.0**)
+
+---
+
+## I. Suno Generation Settings
+
+* **Generation Mode:** **Standard Suno Generation** *(or **Cover Mode at `75%` Audio Influence** when creating a remix, live arrangement, or alternate take from `studio/our-own-frequency.wav`)*
+* **Style Influence:** **`90%`**
+* **Weirdness:** **`0%`**
+
+---
+
+## II. Styles to Include (`Style of Music`)
+
+```text
+acoustic guitar and piano, emotional duet, 2008 intimate unplugged acoustic singer-songwriter album recorded in a quiet living room, warm fingerpicked acoustic guitar, upright grand piano, subtle atmospheric analog synth pad, raw vulnerable male and female sibling vocal duet harmonies, strictly no drums or heavy electric distortion
+```
+
+---
+
+## III. Styles to Exclude (`Exclude Styles`)
+
+```text
+drums, drum kit, snare, percussion, heavy electric guitar distortion, bass guitar, stadium crowd noise, hip hop, rap, edm
+```
+
+---
+
+## IV. Narrative & Studio Lore
+
+Originally recorded as the closer for the 2007 *Lost Sounds* compilation, this intimate acoustic track became the catalyst for the band's entirely new direction. Ryan and Cassidy realized that stripping away the noise and returning to the raw, unfiltered "wood and wire" sound of their youth was the only way forward. They promoted this track to be the opener and title track of their 2008 album, *Our Own Frequency*, setting the intimate, deeply personal tone for the rest of the record.
+
+---
+
+## V. Lyrics & Structural Cues (Copy-Paste into Suno)
+
+```text
+[Intro]
+(A warm, inviting acoustic guitar and piano duet intro)
+
+[Verse 1]
+(Cassidy)
+They want to paint us in neon light
+They want to tell us how to burn tonight
+But you and me, we know the truth
+They can't buy what we built in our youth
+
+[Verse 2]
+(Ryan)
+Turn off the synths, unplug the drum
+Look at the monsters that we have become
+Let's strip it down to the wood and wire
+And build ourselves a signal fire
+
+[Chorus]
+(Duet)
+Just the piano and the six-string strum
+Before the noise and the kingdom come
+No one to tell us how the story ends
+Just a brother and a sister and the time we spend
+On our own frequency
+Just you and me
+
+[Verse 3]
+(Cassidy)
+They tried to sell a manufactured dream
+A perfect picture on a glowing screen
+(Ryan)
+But all I need is sitting right here
+The melody is finally clear
+
+[Chorus]
+(Duet)
+Just the piano and the six-string strum
+Before the noise and the kingdom come
+No one to tell us how the story ends
+Just a brother and a sister and the time we spend
+On our own frequency
+Just you and me
+
+[Bridge]
+(A soaring, deeply emotional piano and acoustic guitar instrumental duet)
+(Cassidy)
+No heavy gloss...
+(Ryan)
+No studio boss...
+(Duet)
+Just the music we wanted to make!
+
+[Chorus]
+(Duet)
+Just the piano and the six-string strum
+Before the noise and the kingdom come
+No one to tell us how the story ends
+Just a brother and a sister and the time we spend
+On our own frequency
+Just you and me
+
+[Outro]
+(Ryan)
+Our own frequency...
+(Cassidy)
+Just you and me...
+(Fades out with a lingering piano chord and a soft acoustic strum)
+```

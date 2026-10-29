@@ -9,12 +9,12 @@
 
 ---
 
-## I. Suno v5 / v6 Cover Mode Settings (74% Audio Influence Protocol)
+## I. Suno v5 / v6 Cover Mode Settings (75% Audio Influence Protocol)
 
 * **Generation Mode:** **Cover** of Studio Master
 * **Source Studio Master WAV to Upload:**
   `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/the-spectrum-true-color.wav`
-* **Audio Influence:** **`74%`**
+* **Audio Influence:** **`75%`**
 * **Style Influence:** **`90%`**
 * **Weirdness:** **`0%`**
 * **Vocal Gender UI Setting:** `Female (Cassidy O'Connell solo Cosmic Tidal Lock showcase)`

@@ -12,7 +12,7 @@
 
 ---
 
-## I. Suno v5 / v6 Cover Mode Settings (74% Audio Influence Protocol)
+## I. Suno v5 / v6 Cover Mode Settings (75% Audio Influence Protocol)
 
 * **Generation Mode:** **Cover** of Studio Master
 * **Source Audio File to Upload:**
@@ -20,7 +20,7 @@
     `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/moon-1-tidal-lock.wav`
   * **Fast-Upload Web MP3 Alternative:**
     `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-assets/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/web-mp3/1-01-moon-1-tidal-lock.mp3`
-* **Audio Influence:** **`74%`** *(locks onto the studio melody, chord progression, and tempo while allowing the open-air stadium acoustics, live fretless bass spotlight, and 65,000-fan Crucible atmosphere to bloom)*
+* **Audio Influence:** **`75%`** *(locks onto the studio melody, chord progression, and tempo while allowing the open-air stadium acoustics, live fretless bass spotlight, and 65,000-fan Crucible atmosphere to bloom)*
 * **Style Influence:** **`90%`**
 * **Weirdness:** **`0%`**
 * **Vocal Gender UI Setting:** **`Female`** *(or leave Unselected — lyrics use explicit `[female]` tags)*
@@ -136,3 +136,4 @@ Tidal lock...
 [Roaring Stadium Crowd Applause]
 [End]
 ```
+

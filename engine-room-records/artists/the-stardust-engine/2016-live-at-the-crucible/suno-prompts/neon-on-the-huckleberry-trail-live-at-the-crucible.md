@@ -7,9 +7,9 @@
 ---
 
 ### Track 19B (Disc 3, Track 08): `Neon on the Huckleberry Trail (Live at the Crucible)` *(Act VI Hometown Singalong for 65,000 Fellow Forgers)*
-* **Generation Mode:** **Suno v6 74% Cover Protocol** (Upload `master-wav/studio/neon-on-the-huckleberry-trail.wav` into Suno Cover)
+* **Generation Mode:** **Suno v6 75% Cover Protocol** (Upload `master-wav/studio/neon-on-the-huckleberry-trail.wav` into Suno Cover)
 * **Save Downloaded WAV As:** `neon-on-the-huckleberry-trail-live-at-the-crucible.wav`
-* **Audio Influence:** `74%` • **Style Influence:** `90%` • **Weirdness:** `0%`
+* **Audio Influence:** `75%` • **Style Influence:** `90%` • **Weirdness:** `0%`
 * **Vocal Gender UI Setting:** `Unselected` (Duet Protocol + 65,000 Fellow Forgers Singalong)
 
 #### Styles to Include

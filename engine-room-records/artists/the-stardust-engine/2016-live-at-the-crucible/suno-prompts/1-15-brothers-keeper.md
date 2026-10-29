@@ -7,9 +7,9 @@
 ---
 
 ### Track 15: `Brother's Keeper` *(Act IV Centerpiece: Ryan's ADLs & The Final World Tour / CPI Summer Festival Residency Announcement — Part 2 of 3)*
-* **Generation Mode:** **Suno v6 74% Cover Protocol** (Upload `master-wav/studio/brothers-keeper.wav` into Suno Cover)
+* **Generation Mode:** **Suno v6 75% Cover Protocol** (Upload `master-wav/studio/brothers-keeper.wav` into Suno Cover)
 * **Save Downloaded WAV As:** `1-15-brothers-keeper.wav`
-* **Audio Influence:** `74%` • **Style Influence:** `90%` • **Weirdness:** `0%`
+* **Audio Influence:** `75%` • **Style Influence:** `90%` • **Weirdness:** `0%`
 * **Vocal Gender UI Setting:** `Unselected` (Duet Protocol — Strictly Ryan on acoustic guitar & Cassidy at the piano)
 
 #### Styles to Include

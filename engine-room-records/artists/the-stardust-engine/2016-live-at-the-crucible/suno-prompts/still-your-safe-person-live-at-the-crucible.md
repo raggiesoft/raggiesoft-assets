@@ -7,9 +7,9 @@
 ---
 
 ### Track 16B (Disc 3, Track 04): `Still Your Safe Person (Live at the Crucible)` *(Act V Acoustic Finale — Stripped Down to Grand Piano & Acoustic Guitar Only — Part 4 of 4)*
-* **Generation Mode:** **Suno v6 74% Cover Protocol** (Upload `master-wav/studio/still-your-safe-person.wav` into Suno Cover)
+* **Generation Mode:** **Suno v6 75% Cover Protocol** (Upload `master-wav/studio/still-your-safe-person.wav` into Suno Cover)
 * **Save Downloaded WAV As:** `still-your-safe-person-live-at-the-crucible.wav`
-* **Audio Influence:** `74%` • **Style Influence:** `90%` • **Weirdness:** `0%`
+* **Audio Influence:** `75%` • **Style Influence:** `90%` • **Weirdness:** `0%`
 * **Vocal Gender UI Setting:** `Unselected` (Duet Protocol — Strictly Cassidy at the acoustic grand piano & Ryan on fingerpicked acoustic guitar, ZERO drums or electric instruments)
 
 #### Styles to Include

@@ -3,9 +3,9 @@
 * **Artist:** The Stardust Engine
 * **Album:** *Live in Virginia Beach (2003)* (`2003-live-in-virginia-beach`)
 * **Venue:** Virginia Beach Coastal Amphitheater (August 2003)
-* **Source Studio Master WAV for 74% Cover Mode:**
+* **Source Studio Master WAV for 75% Cover Mode:**
   `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/brand-new-scene.wav`
-* **Suno Cover Settings:** `Audio Influence: 74%` • `Style Influence: 90%` • `Weirdness: 0%`
+* **Suno Cover Settings:** `Audio Influence: 75%` • `Style Influence: 90%` • `Weirdness: 0%`
 
 ---
 

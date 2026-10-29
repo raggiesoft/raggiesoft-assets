@@ -1,0 +1,91 @@
+# `1-04-worlds-apart` — *Worlds Apart (Cosmic Tidal Lock Mix)*
+
+* **Artist:** The Stardust Engine
+* **Album:** *Starfield Calibration* (`2011-starfield-calibration`)
+* **Track Number:** 4
+* **License:** CC BY-SA 4.0 International
+
+---
+
+## Track 04: Worlds Apart (Cosmic Tidal Lock Mix)
+* **Original Album / Suno Workspace:** 1987: *Electric Color* (Track 9)
+* **Status:** Needs Suno Generation
+* **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/worlds-apart-cosmic-tidal-lock.wav`
+* **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
+* **Weirdness:** `0%`
+* **Style Influence:** `90%`
+
+### Styles to Include
+```text
+1980s synth-pop, mid-tempo space-rock, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, male and female duet, crystal clear female vocals, warm high tenor male vocals, lush spatial reverb, celestial atmosphere, 104 BPM, A Minor, emotional, orbital longing, sibling harmony, soaring synth and clean guitar duet solo
+```
+
+### Styles to Exclude
+```text
+heavy metal, screaming, modern pop, hip hop, rap, country, fast punk, dry studio mix
+```
+
+### Lyrics (Copy-Paste into Suno)
+```text
+[Intro]
+(Distant radio telemetry ping fades into a lush, sweeping 1980s analog synthesizer pad)
+(A warm, melodic fretless bassline and steady 4/4 gated drum beat establish a gentle orbital pulse)
+
+[Verse 1]
+[male] Another orbit on a lonely road
+[male] Just trying to send a signal back to you
+[male] Carrying the weight of this heavy load
+[male] Charting the course that is pulling us through
+
+[Verse 2]
+[female] The lights are bright, the station is cold
+[female] They tried to lock us in their terrestrial mold
+[female] I see your beacon across the endless black
+[female] I know our gravity will bring us back
+
+[Chorus]
+[female] We're worlds apart, but our hearts beat the same!
+[male] Across the starfield I can hear you call my name!
+[female] Through the distance, through the static and the dark
+[male] We're locked in orbit right back where we start!
+[female] Even when we're worlds apart!
+
+[Verse 3]
+[male] They wanted the glitter, they wanted the show
+[female] A hollow reflection of the people we know
+[male] But we built a sanctuary out in the deep
+[female] A sibling promise that we always keep!
+
+[Chorus]
+[female] We're worlds apart, but our hearts beat the same!
+[male] Across the starfield I can hear you call my name!
+[female] Through the distance, through the static and the dark
+[male] We're locked in orbit right back where we start!
+[female] Even when we're worlds apart!
+
+[Instrumental Break]
+(A lush, emotional interplay between a chorus-drenched electric guitar and shimmering analog synthesizers over a sliding fretless bassline)
+
+[Bridge]
+(Music drops to zero-gravity ambient synth pads and ethereal vocal reverb)
+[female] And when the satellites fall
+[male] And when the nebulae rise
+[female] I'll find your signal
+[male] In the velvet skies!
+(Pounding 80s gated snare roll launches the final chorus)
+
+[Chorus]
+[female] We're worlds apart, but our hearts beat the same!
+[male] Across the starfield I can hear you call my name!
+[female] Through the distance, through the static and the dark
+[male] We're locked in orbit right back where we start!
+[female] Even when we're worlds apart!
+
+[Outro]
+[female] Worlds apart...
+[male] Locked in the same orbit...
+[female] Coming home to you...
+(Sustained celestial synthesizer chord and fretless bass harmonic fade into silence)
+```
+
+---

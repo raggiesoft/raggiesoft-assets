@@ -7,9 +7,9 @@
 ---
 
 ### Track 14: `Our Own Frequency` *(Act IV: Intimate Brother & Sister Acoustic Block — Part 1 of 3)*
-* **Generation Mode:** **Suno v6 74% Cover Protocol** (Upload `master-wav/studio/our-own-frequency.wav` into Suno Cover)
+* **Generation Mode:** **Suno v6 75% Cover Protocol** (Upload `master-wav/studio/our-own-frequency.wav` into Suno Cover)
 * **Save Downloaded WAV As:** `1-14-our-own-frequency.wav`
-* **Audio Influence:** `74%` • **Style Influence:** `90%` • **Weirdness:** `0%`
+* **Audio Influence:** `75%` • **Style Influence:** `90%` • **Weirdness:** `0%`
 * **Vocal Gender UI Setting:** `Unselected` (Duet Protocol — Strictly Ryan on acoustic guitar & Cassidy at the piano)
 
 #### Styles to Include

@@ -1,0 +1,108 @@
+# `1-15-moon-1-tidal-lock` — *Moon 1 (Tidal Lock)*
+
+* **Artist:** The Stardust Engine
+* **Album:** *Forger Nation War Chest* (`1997-forger-nation-war-chest`)
+* **Disc / Track:** Disc 1, Track 15
+* **Genre:** 80s Arena Rock / Progressive Pop
+* **ISRC:** `QZTB92611796` • **Duration:** `5:29`
+* **Master WAV Vault Path:** `studio/moon-1-tidal-lock.wav`
+* **License:** Creative Commons Attribution-ShareAlike 4.0 International (**CC BY-SA 4.0**)
+
+---
+
+## I. Suno Generation Settings
+
+* **Generation Mode:** **Standard Suno Generation** *(or **Cover Mode at `75%` Audio Influence** when creating a remix, live arrangement, or alternate take from `studio/moon-1-tidal-lock.wav`)*
+* **Style Influence:** **`90%`**
+* **Weirdness:** **`0%`**
+
+---
+
+## II. Styles to Include (`Style of Music`)
+
+```text
+1980s/1990s collegiate stadium hard rock, AOR, and cosmic synth-rock anthology, thundering arena drums, blazing analog synth brass and electric guitar riffs, triumphant male and female sibling vocals
+```
+
+---
+
+## III. Styles to Exclude (`Exclude Styles`)
+
+```text
+hip hop, rap, country, edm, lo-fi
+```
+
+---
+
+## IV. Narrative & Studio Lore
+
+As the compilation approaches its finale, *Moon 1 (Tidal Lock)* proves that The Stardust Engine didn't simply destroy their pop past—they reclaimed it. Unabashedly Cassidy’s favorite song from their 1997 comeback album, *Hard Reset*, this track is a brilliant, uncompromised execution of pure 1980s synth-pop, but transposed entirely into the deep cosmos. 
+
+For ten years, Apex Records tried to force the band into a "safe," terrestrial pop box. Here, Cassidy takes those analog synths into zero-gravity. Lyrically, it uses the astrophysical concept of a "tidal lock"—where a moon is gravitationally bound to always show the exact same face to its planet—as a gorgeous metaphor for the family's unwavering loyalty to one another. It also features a clever lyrical callback to the "anchor" motif from the start of the compilation, proving that their terrestrial past and their independent cosmic future are finally perfectly aligned.
+
+---
+
+## V. Lyrics & Structural Cues (Copy-Paste into Suno)
+
+```text
+[Intro]
+*(A tight, driving 1980s drum beat enters. A pulsing synth bassline locks into the rhythm, perfectly anchoring the track as shimmering analog synth pads slowly rise in the background.)*
+
+[Verse 1]
+We crossed the line into the dark
+Left the atmosphere, a fading spark
+But I can feel the pull of where you are
+A heavy gravity from a distant star
+They tried to spin us out of control
+But we found the center, we found the soul
+
+[Pre-Chorus]
+The telemetry is clear tonight
+Half in the shadow, half in the light
+I'm caught in the orbit, spinning around
+A million miles above the ground
+
+[Chorus]
+And I'm in a tidal lock with you!
+Suspended in the velvet and the blue
+No matter how I turn, no matter where I fly
+You are the only anchor in my sky
+Yeah, I'm in a tidal lock with you!
+
+[Verse 2]
+The radio is quiet, the signal is dead
+But I hear the rhythm inside my head
+We don't need the sun to show us the way
+We left the noise of the terrestrial day
+We're charting the math that they couldn't see
+Perfect alignment in the zero-G
+
+[Pre-Chorus]
+The telemetry is clear tonight
+Half in the shadow, half in the light
+I'm caught in the orbit, spinning around
+A million miles above the ground
+
+[Chorus]
+And I'm in a tidal lock with you!
+Suspended in the velvet and the blue
+No matter how I turn, no matter where I fly
+You are the only anchor in my sky
+Yeah, I'm in a tidal lock with you!
+
+[Instrumental Spacewalk]
+*(Evan steps into the spotlight, playing a melodic, sliding fretless bass solo over Tyler's driving drum beat. Cassidy's analog synths sparkle in the background like passing satellites, creating a lush, unmistakably 80s soundscape.)*
+
+[Chorus]
+'Cause I'm in a tidal lock with you!
+Suspended in the velvet and the blue
+No matter how I turn, no matter where I fly
+You are the only anchor in my sky
+Yeah, I'm in a tidal lock with you!
+
+[Outro]
+Half in the shadow.
+Half in the light.
+Tidal lock.
+*(The synths sweep upward, echoing out into the void as the driving drum beat slowly fades away into the starfield)*
+```

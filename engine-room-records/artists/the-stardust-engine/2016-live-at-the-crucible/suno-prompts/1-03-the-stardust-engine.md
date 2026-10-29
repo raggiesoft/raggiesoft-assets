@@ -7,9 +7,9 @@
 ---
 
 ### Track 03: `The Stardust Engine` *(Featuring the 300-Piece CPI Marching Forgers)*
-* **Generation Mode:** **Suno v6 74% Cover Protocol** (Upload `master-wav/studio/the-stardust-engine.wav` into Suno Cover)
+* **Generation Mode:** **Suno v6 75% Cover Protocol** (Upload `master-wav/studio/the-stardust-engine.wav` into Suno Cover)
 * **Save Downloaded WAV As:** `1-03-the-stardust-engine.wav`
-* **Audio Influence:** `74%` • **Style Influence:** `90%` • **Weirdness:** `0%`
+* **Audio Influence:** `75%` • **Style Influence:** `90%` • **Weirdness:** `0%`
 * **Vocal Gender UI Setting:** `Unselected` (Duet Protocol)
 
 #### Styles to Include

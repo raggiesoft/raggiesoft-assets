@@ -53,9 +53,9 @@
 
 ---
 
-## II. Proposed 14-Track Setlist & Suno v6 74% Cover Checklist
+## II. Proposed 14-Track Setlist & Suno v6 75% Cover Checklist
 
-- [ ] **Track 01:** `The Stardust Engine` *(Mandatory Concert Opener — Cover of `master-wav/studio/the-stardust-engine.wav` at 74% Audio Influence)* $\rightarrow$ `1-01-the-stardust-engine.wav`
+- [ ] **Track 01:** `The Stardust Engine` *(Mandatory Concert Opener — Cover of `master-wav/studio/the-stardust-engine.wav` at 75% Audio Influence)* $\rightarrow$ `1-01-the-stardust-engine.wav`
 - [ ] **Track 02:** `Neon Pulse` *(From 2001's Midnight Drivers — Cover of `master-wav/studio/neon-pulse.wav`)* $\rightarrow$ `1-02-neon-pulse.wav`
 - [ ] **Track 03:** `Midnight Drivers` *(Cover of `master-wav/studio/midnight-drivers.wav`)* $\rightarrow$ `1-03-midnight-drivers.wav`
 - [ ] **Track 04:** `Hard Reset` *(Cover of `master-wav/studio/hard-reset.wav`)* $\rightarrow$ `1-04-hard-reset.wav`

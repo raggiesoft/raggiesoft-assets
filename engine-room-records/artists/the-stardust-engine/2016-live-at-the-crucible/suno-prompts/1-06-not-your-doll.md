@@ -7,9 +7,9 @@
 ---
 
 ### Track 06: `Not Your Doll` *(Act II Centerpiece Production Number — Cassidy Front and Center)*
-* **Generation Mode:** **Suno v6 74% Cover Protocol** (Upload `master-wav/studio/not-your-doll.wav` into Suno Cover) or **Standalone Stadium Hard-Rock Render**
+* **Generation Mode:** **Suno v6 75% Cover Protocol** (Upload `master-wav/studio/not-your-doll.wav` into Suno Cover) or **Standalone Stadium Hard-Rock Render**
 * **Save Downloaded WAV As:** `1-06-not-your-doll.wav`
-* **Audio Influence:** `74%` • **Style Influence:** `90%` • **Weirdness:** `0%`
+* **Audio Influence:** `75%` • **Style Influence:** `90%` • **Weirdness:** `0%`
 * **Vocal Gender UI Setting:** `Female` (Fierce Solo Frontwoman Lead + 65,000-Person Stadium Crowd Chant)
 * **Production Note:** Cassidy hands her synthesizer rig over to touring keyboardist Claire Lindqvist, throws on a black leather jacket, and takes the stage **FRONT AND CENTER** with a tilted chrome stand mic for a full-throttle 1980s hard-rock rebellion production number.
 

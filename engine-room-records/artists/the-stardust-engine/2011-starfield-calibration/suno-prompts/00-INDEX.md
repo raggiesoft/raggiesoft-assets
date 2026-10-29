@@ -1,4 +1,6 @@
-# `2011-starfield-calibration` — Per-Song Suno Prompts Directory
+# The Stardust Engine — *Starfield Calibration* (`2011-starfield-calibration`) Suno Prompts Directory
+
+> **CC BY-SA 4.0 Open-Culture Recreation Guide:** Every song on this album has its own standalone Markdown file below containing the exact Suno style prompts, exclusions, Cover Audio Influence settings (`75%` when using Cover mode), and structural/phonetic lyric cues.
 
 # The Stardust Engine — *Starfield Calibration* (2011) Suno Production Sheet
 
@@ -15,7 +17,7 @@
 
 ## Core Studio Master Prompt Formula (*The Cosmic Tidal Lock Sound™*)
 > **Base Formula:** `1980s synth-pop, mid-tempo space-rock, driving 4/4 gated drum beat, shimmering analog synthesizers, melodic fretless bassline, [crystal clear female vocals | male and female duet], lush spatial reverb, celestial atmosphere`
-> **Suno v6 Cover Setting:** Set **Audio Influence to `74%`**. Because `74%` locks onto the baseline song's melody and structure from the source audio, you **only** need the new Cosmic Tidal Lock Sound™ style prompt and Exclude Styles (no need to combine with the original song's style prompt).
+> **Suno v6 Cover Setting:** Set **Audio Influence to `75%`**. Because `75%` locks onto the baseline song's melody and structure from the source audio, you **only** need the new Cosmic Tidal Lock Sound™ style prompt and Exclude Styles (no need to combine with the original song's style prompt).
 
 ---
 
@@ -30,9 +32,9 @@ When re-engineering these 14 foundational songs (originally spanning 1987–2001
    - The original terrestrial rock and AOR versions (especially tracks from *Hard Reset* Disc 1 and *Electric Color*) used clipped, percussive consonants designed to punch through distorted rhythm guitars and 130+ BPM arena drums.
    - In *The Cosmic Tidal Lock Sound™* (~106–114 BPM with wide spatial reverb and fretless bass), clipped lyrics cause Suno's vocal synthesizer to sound rushed or dry. Tweaking lines to favor **open, sustained vowels and liquid consonants** (*"gliding," "velvet," "alignment," "starlight," "zero-G," "tidal lock," "sanctuary"*) physically forces Suno's vocal engine to hold long, shimmering legato notes that bloom inside the planetarium reverb tail.
 3. **Explicit `[female]` / `[male]` Sibling Duet Choreography & Call-and-Response:**
-   - Several early catalog songs were originally solo vocal tracks or lacked explicit line-by-line duet handoffs. By restructuring verses and choruses into balanced `[female]` (Cassidy) and `[male]` (Ryan) call-and-response pairs—while keeping signature tracks like *"Plastic Sky"* and *"Atmosphere"* as pure Cassidy solo showcases—Suno v6's 74% Cover engine locks onto the original melody while trading phrases cleanly between brother and sister without vocal bleed.
+   - Several early catalog songs were originally solo vocal tracks or lacked explicit line-by-line duet handoffs. By restructuring verses and choruses into balanced `[female]` (Cassidy) and `[male]` (Ryan) call-and-response pairs—while keeping signature tracks like *"Plastic Sky"* and *"Atmosphere"* as pure Cassidy solo showcases—Suno v6's 75% Cover engine locks onto the original melody while trading phrases cleanly between brother and sister without vocal bleed.
 4. **Replacing Terrestrial Stage/Road Cues with `[Instrumental Spacewalk]` & Orbital Stage Directions:**
-   - Suno v5/v6 reads parenthetical stage directions in the lyrics box as real-time arrangement instructions. Replacing terrestrial cues (like `[Guitar Solo]` or `[Heavy Drum Fill]`) with `[Instrumental Spacewalk]`, `(Drums drop out into weightless zero-gravity synth pads and echoing vocal reverb)`, and `(A melodic, sliding fretless bassline locks into a steady 4/4 gated reverb drum beat)` prevents the 74% Cover reference audio from pulling Suno back into heavy terrestrial distortion during solos and breakdowns.
+   - Suno v5/v6 reads parenthetical stage directions in the lyrics box as real-time arrangement instructions. Replacing terrestrial cues (like `[Guitar Solo]` or `[Heavy Drum Fill]`) with `[Instrumental Spacewalk]`, `(Drums drop out into weightless zero-gravity synth pads and echoing vocal reverb)`, and `(A melodic, sliding fretless bassline locks into a steady 4/4 gated reverb drum beat)` prevents the 75% Cover reference audio from pulling Suno back into heavy terrestrial distortion during solos and breakdowns.
 
 ---
 
@@ -55,19 +57,21 @@ When re-engineering these 14 foundational songs (originally spanning 1987–2001
 
 ---
 
-## Individual Track Prompt Files (`suno-prompts/`)
+---
 
-- [`track-01-the-stardust-engine-cosmic-tidal-lock-mix.md`](./track-01-the-stardust-engine-cosmic-tidal-lock-mix.md) — Track 01: The Stardust Engine (Cosmic Tidal Lock Mix)
-- [`track-02-electric-color-cosmic-tidal-lock-mix.md`](./track-02-electric-color-cosmic-tidal-lock-mix.md) — Track 02: Electric Color (Cosmic Tidal Lock Mix)
-- [`track-03-plastic-sky-cosmic-tidal-lock-mix.md`](./track-03-plastic-sky-cosmic-tidal-lock-mix.md) — Track 03: Plastic Sky (Cosmic Tidal Lock Mix)
-- [`track-04-worlds-apart-cosmic-tidal-lock-mix.md`](./track-04-worlds-apart-cosmic-tidal-lock-mix.md) — Track 04: Worlds Apart (Cosmic Tidal Lock Mix)
-- [`track-05-my-anchor-holds-cosmic-tidal-lock-mix.md`](./track-05-my-anchor-holds-cosmic-tidal-lock-mix.md) — Track 05: My Anchor Holds (Cosmic Tidal Lock Mix)
-- [`track-06-neon-hearts-cosmic-tidal-lock-mix.md`](./track-06-neon-hearts-cosmic-tidal-lock-mix.md) — Track 06: Neon Hearts (Cosmic Tidal Lock Mix)
-- [`track-07-rearview-mirror-cosmic-tidal-lock-mix.md`](./track-07-rearview-mirror-cosmic-tidal-lock-mix.md) — Track 07: Rearview Mirror (Cosmic Tidal Lock Mix)
-- [`track-08-atmosphere-cosmic-tidal-lock-mix.md`](./track-08-atmosphere-cosmic-tidal-lock-mix.md) — Track 08: Atmosphere (Cosmic Tidal Lock Mix)
-- [`track-09-no-hidden-gravity-cosmic-tidal-lock-mix.md`](./track-09-no-hidden-gravity-cosmic-tidal-lock-mix.md) — Track 09: No Hidden Gravity (Cosmic Tidal Lock Mix)
-- [`track-10-inertia-unstoppable-cosmic-tidal-lock-mix.md`](./track-10-inertia-unstoppable-cosmic-tidal-lock-mix.md) — Track 10: Inertia: Unstoppable (Cosmic Tidal Lock Mix)
-- [`track-11-echoes-in-the-wire-cosmic-tidal-lock-mix.md`](./track-11-echoes-in-the-wire-cosmic-tidal-lock-mix.md) — Track 11: Echoes in the Wire (Cosmic Tidal Lock Mix)
-- [`track-12-midnight-drivers-cosmic-tidal-lock-mix.md`](./track-12-midnight-drivers-cosmic-tidal-lock-mix.md) — Track 12: Midnight Drivers (Cosmic Tidal Lock Mix)
-- [`track-13-the-horizon-line-cosmic-tidal-lock-mix.md`](./track-13-the-horizon-line-cosmic-tidal-lock-mix.md) — Track 13: The Horizon Line (Cosmic Tidal Lock Mix)
-- [`track-14-fade-to-dawn-cosmic-tidal-lock-mix.md`](./track-14-fade-to-dawn-cosmic-tidal-lock-mix.md) — Track 14: Fade to Dawn (Cosmic Tidal Lock Mix)
+## Per-Track Suno Prompt Files (`suno-prompts/`)
+
+- **Track 01:** [`1-01-the-stardust-engine.md`](./1-01-the-stardust-engine.md) — *The Stardust Engine (Cosmic Tidal Lock Mix)*
+- **Track 02:** [`1-02-electric-color.md`](./1-02-electric-color.md) — *Electric Color (Cosmic Tidal Lock Mix)*
+- **Track 03:** [`1-03-plastic-sky.md`](./1-03-plastic-sky.md) — *Plastic Sky (Cosmic Tidal Lock Mix)*
+- **Track 04:** [`1-04-worlds-apart.md`](./1-04-worlds-apart.md) — *Worlds Apart (Cosmic Tidal Lock Mix)*
+- **Track 05:** [`1-05-my-anchor-holds.md`](./1-05-my-anchor-holds.md) — *My Anchor Holds (Cosmic Tidal Lock Mix)*
+- **Track 06:** [`1-06-neon-hearts.md`](./1-06-neon-hearts.md) — *Neon Hearts (Cosmic Tidal Lock Mix)*
+- **Track 07:** [`1-07-rearview-mirror.md`](./1-07-rearview-mirror.md) — *Rearview Mirror (Cosmic Tidal Lock Mix)*
+- **Track 08:** [`1-08-atmosphere.md`](./1-08-atmosphere.md) — *Atmosphere (Cosmic Tidal Lock Mix)*
+- **Track 09:** [`1-09-no-hidden-gravity.md`](./1-09-no-hidden-gravity.md) — *No Hidden Gravity (Cosmic Tidal Lock Mix)*
+- **Track 10:** [`1-10-inertia-unstoppable.md`](./1-10-inertia-unstoppable.md) — *Inertia: Unstoppable (Cosmic Tidal Lock Mix)*
+- **Track 11:** [`1-11-echoes-in-the-wire.md`](./1-11-echoes-in-the-wire.md) — *Echoes in the Wire (Cosmic Tidal Lock Mix)*
+- **Track 12:** [`1-12-midnight-drivers.md`](./1-12-midnight-drivers.md) — *Midnight Drivers (Cosmic Tidal Lock Mix)*
+- **Track 13:** [`1-13-the-horizon-line.md`](./1-13-the-horizon-line.md) — *The Horizon Line (Cosmic Tidal Lock Mix)*
+- **Track 14:** [`1-14-fade-to-dawn.md`](./1-14-fade-to-dawn.md) — *Fade to Dawn (Cosmic Tidal Lock Mix)*
