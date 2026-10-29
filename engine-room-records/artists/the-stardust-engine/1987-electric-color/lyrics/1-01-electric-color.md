@@ -1,5 +1,5 @@
 **LORE NOTE:**
-The solid **#2 hit**. It sat at the runner-up spot for six weeks, famously blocked from #1 by a certain "novelty song" that swept the summer of '87.
+The band's solid **#2 hit** from the summer of 1987. Pushed by Apex Records as the debut lead single in a bouncy 1980s dance synth-pop arrangement (over the band's objections that they were a rock act), *"Electric Color"* climbed all the way to **#2 on the national charts** and sat in the runner-up spot for six straight weeks—famously blocked from #1 by *"La Rumba Loca"*, a three-chord summer novelty craze that swept top-40 radio. Much like a rock legend losing out on the #1 spot to a novelty record, being held at #2 by a novelty song genuinely stung the band—especially knowing that if Apex had released Track 13 (*"The Stardust Engine"*) as the lead single instead, it would have blown past the novelty craze and spent **11 straight weeks at #1**.
 
 **LYRICS:**
 
