@@ -1,0 +1,96 @@
+# `1-06-the-fortress` — *Live in Virginia Beach (2003)*
+
+* **Artist:** The Stardust Engine
+* **Album:** *Live in Virginia Beach (2003)* (`2003-live-in-virginia-beach`)
+* **Venue:** Virginia Beach Coastal Amphitheater (August 2003)
+* **Source Studio Master WAV for 74% Cover Mode:**
+  `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/the-fortress.wav`
+* **Suno Cover Settings:** `Audio Influence: 74%` • `Style Influence: 90%` • `Weirdness: 0%`
+
+---
+
+## I. Styles to Include (`Style of Music`)
+
+```text
+2003 coastal amphitheater live concert recording, 1980s AOR and cosmic progressive synth-rock, warm humid summer night amphitheater acoustics, driving gated reverb drums, melodic electric and fretless bass, soaring electric guitar, lush analog synthesizers, passionate live vocals, cheering coastal crowd
+```
+
+---
+
+## II. Styles to Exclude (`Exclude Styles`)
+
+```text
+studio flat mix, dry vocals, modern pop, hip hop, rap, country, lo-fi, edm, muffled
+```
+
+---
+
+## III. Lore & Stage Context
+
+Dedicated to the Tidewater and Hampton Roads fans who stood by the family from the very beginning.
+
+---
+
+## IV. Lyrics (Copy-Paste into Suno)
+
+```text
+[Intro]
+*(A massive, bright, instantly memorable 1980s synthesizer riff kicks in, immediately backed by a booming, gated-reverb snare drum at a driving 130 BPM)*
+
+[Verse 1]
+They tried to break the circle, they tried to tear the seam
+But you can't put a price tag on the architects of a dream
+We stood out in the freezing rain, our backs against the wall
+But looking at the five of us, I knew we'd never fall!
+
+[Pre-Chorus]
+The compass always points me back to you
+The only thing I've ever known is true!
+
+[Chorus]
+We built a fortress out of the fire!
+We took the engine and we pushed it higher!
+Through the static and the heavy weather
+We proved that family always sticks together!
+Oh, we're standing in the light!
+Yeah, we won the fight tonight!
+
+[Verse 2]
+We didn't need the spotlight, we didn't need their gold
+We kept the only promises that never could be sold
+From the dorm rooms in the valley to the neon city streets
+The rhythm of this family is the only heart that beats!
+
+[Pre-Chorus]
+The compass always points me back to you
+The only thing I've ever known is true!
+
+[Chorus]
+We built a fortress out of the fire!
+We took the engine and we pushed it higher!
+Through the static and the heavy weather
+We proved that family always sticks together!
+Oh, we're standing in the light!
+Yeah, we won the fight tonight!
+
+[Instrumental Break]
+*(The driving 130 BPM beat holds steady as Ryan delivers a soaring, joyous electric guitar solo that perfectly harmonizes with Cassidy's bright synthesizer riff)*
+
+[Bridge]
+No more shadows!
+No more running blind!
+We're leaving all the empty noise behind!
+
+[Chorus]
+We built a fortress out of the fire!
+We took the engine and we pushed it higher!
+Through the static and the heavy weather
+We proved that family always sticks together!
+Oh, we're standing in the light!
+Yeah, we won the fight tonight!
+
+[Outro]
+Standing in the light!
+Family sticks together!
+*(The song ends on a final, triumphant crash of the cymbals and a bright synth chord)*
+```
