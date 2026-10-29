@@ -1,5 +1,5 @@
 **LORE NOTE:**
-Opens *Hard Reset Live* with Part I of **The Stardust Suite**, immediately righting the greatest wrong of 1990's *Live in Chicago*: Cassidy's analog synthesizer leitmotif is pushed right to the front of the arena PA alongside Ryan's overdriven electric guitar from his wheelchair at center stage.
+Opens *Hard Reset Live* with Part I of **The Stardust Suite**, immediately righting the greatest heartbreak of 1990's *Live in Chicago*. In 1989, Cassidy's chorus vocal call and analog synthesizer leitmotif response (*Ba-da-DA-da-DAAA!*) was her deepest pride and joy—and having Apex Records mute that synthesizer response out of the chorus on *Live in Chicago* broke Cassidy's and the family's hearts. Here on *Hard Reset Live*, from the opening bars (`0:00–1:26`) through every single chorus pocket (`2:14–2:18`, `2:30–2:34`, `3:03–3:07`, `4:12–4:16`), Cassidy's soaring vocal call (`"Hey-ey-ey-ey!"`) is answered at full, blazing arena volume by her Vektron analog synthesizer leitmotif right alongside Ryan's overdriven electric guitar from his wheelchair at center stage.
 
 **LYRICS:**
 
