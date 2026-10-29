@@ -8,12 +8,12 @@
     "ebook_sizes": {
         "epub": "66 MB",
         "pdf": "53.5 MB",
-        "text_epub": "1000 KB",
+        "text_epub": "1001 KB",
         "text_pdf": "3.7 MB",
-        "epub_bytes": 69241099,
-        "pdf_bytes": 56088317,
-        "text_epub_bytes": 1023797,
-        "text_pdf_bytes": 3850960
+        "epub_bytes": 69241961,
+        "pdf_bytes": 56100692,
+        "text_epub_bytes": 1024667,
+        "text_pdf_bytes": 3863284
     },
     "illustration_count": 72,
     "eras": [
@@ -2805,7 +2805,7 @@
                             "url": "/aubrie/fall-semester-2016/a-familiar-face-the-hug-four-years-in-the-making/part-3-the-separation-crash-the-forge-hall-extraction-the-new-social-script",
                             "date": "2016-08-22",
                             "start_time": "12:00",
-                            "location": "Kincaid Hall, Commonwealth Mall, Forge Hall, & The Sunken Sanctuary on Geneva Street, VA"
+                            "location": "Kincaid Hall, Commonwealth Mall, Forge Hall, & The Sunken Sanctuary at the U.S. Route 11 Compound, VA"
                         }
                     ]
                 }
