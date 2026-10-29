@@ -8,12 +8,12 @@
     "ebook_sizes": {
         "epub": "14.7 MB",
         "pdf": "16.3 MB",
-        "text_epub": "145 KB",
-        "text_pdf": "447 KB",
-        "epub_bytes": 15439440,
-        "pdf_bytes": 17081770,
-        "text_epub_bytes": 148844,
-        "text_pdf_bytes": 457619
+        "text_epub": "154 KB",
+        "text_pdf": "472 KB",
+        "epub_bytes": 15448454,
+        "pdf_bytes": 17108053,
+        "text_epub_bytes": 157857,
+        "text_pdf_bytes": 482866
     },
     "illustration_count": 21,
     "eras": [
@@ -84,15 +84,32 @@
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: Mile Marker 98 (December 10, 1990)",
-                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-2-live-in-chicago-mile-marker-98-1990/chapter-1-mile-marker-98-december-10-1990",
+                    "chap_title": "Chapter 1: Live in Chicago \u2014 The Thirty-Minute Box & The Backstage Vow (October 12, 1990)",
+                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-2-live-in-chicago-mile-marker-98-1990/chapter-1-live-in-chicago-the-thirty-minute-box-the-backstage-vow-october-12-1990",
+                    "illustration_count": 0,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Live in Chicago: The Thirty-Minute Box & The Backstage Vow (1990)",
+                            "file_path": "e002/c001/p001.md",
+                            "url": "/stardust-engine/book-2-live-in-chicago-mile-marker-98-1990/chapter-1-live-in-chicago-the-thirty-minute-box-the-backstage-vow-october-12-1990/live-in-chicago-the-thirty-minute-box-the-backstage-vow-1990",
+                            "date": "1990-10-12",
+                            "start_time": "19:30",
+                            "location": "The Midwest Horizon Arena (Midwest Horizon), Chicago, IL"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "Chapter 2: Mile Marker 98 & Protocol T-10 (December 10, 1990)",
+                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-2-live-in-chicago-mile-marker-98-1990/chapter-2-mile-marker-98-protocol-t-10-december-10-1990",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Mile Marker 98 & Protocol T-10 (1990)",
-                            "file_path": "e002/c001/p001.md",
-                            "url": "/stardust-engine/book-2-live-in-chicago-mile-marker-98-1990/chapter-1-mile-marker-98-december-10-1990/mile-marker-98-protocol-t-10-1990",
+                            "file_path": "e002/c002/p001.md",
+                            "url": "/stardust-engine/book-2-live-in-chicago-mile-marker-98-1990/chapter-2-mile-marker-98-protocol-t-10-december-10-1990/mile-marker-98-protocol-t-10-1990",
                             "date": "1990-12-10",
                             "start_time": "23:42",
                             "location": "Interstate 81 (Mile Marker 98) & Star City General Hospital, VA"
