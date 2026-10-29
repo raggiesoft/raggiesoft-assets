@@ -8,7 +8,7 @@
 * **Artist / Band Name:** `The Stardust Engine`
 * **Album Title:** `Live at the Crucible`
 * **Release Type:** `Live Album` (`LiveAlbum`)
-* **Total Tracks:** `34` (`5` WAV Masters Ready / `29` In Studio)
+* **Total Tracks:** `34` (`6` WAV Masters Ready / `28` In Studio)
 * **Record Label:** `Engine Room Records`
 * **Primary Genre:** `Live Stadium Rock / 1980s AOR / Progressive Symphonic Space-Rock / Collegiate Marching Band Rock`
 * **In-Universe Release Date:** `2016-10-15`
@@ -31,7 +31,7 @@
 * **ISRC:** QTAHP2600043
 * **Duration:** 4:55 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-01-ignition-the-forgers-call.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-01-ignition-the-forgers-call.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-ignition-the-forgers-call.txt`
 
 2. [Disc 1 • Track 2] CPI Tech Triumph: The Marching Forgers
@@ -41,17 +41,17 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 2:30 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-02-cpi-tech-triumph-the-marching-forgers.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-02-cpi-tech-triumph-the-marching-forgers.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-cpi-tech-triumph-the-marching-forgers.txt`
 
 3. [Disc 1 • Track 3] The Stardust Engine
 * **Name:** The Stardust Engine
 * **Version:** Live at the Crucible
 * **ID3 / Vorbis Tagged Title:** `The Stardust Engine (Live at the Crucible)`
-* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
-* **Duration:** 4:16 • **Instrumental:** No • **Explicit:** No
+* **ISRC:** QTAHP2600059
+* **Duration:** 4:55 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-03-the-stardust-engine.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-03-the-stardust-engine.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-the-stardust-engine.txt`
 
 4. [Disc 1 • Track 4] Main Engine Start
@@ -61,7 +61,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:15 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-04-main-engine-start.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-04-main-engine-start.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-main-engine-start.txt`
 
 5. [Disc 1 • Track 5] Hard Reset
@@ -71,7 +71,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 3:44 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-05-hard-reset.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-05-hard-reset.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-05-hard-reset.txt`
 
 6. [Disc 1 • Track 6] Not Your Doll
@@ -81,7 +81,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 3:21 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-06-not-your-doll.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-06-not-your-doll.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-not-your-doll.txt`
 
 7. [Disc 1 • Track 7] Static
@@ -91,7 +91,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 3:56 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-07-static.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-07-static.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-07-static.txt`
 
 8. [Disc 1 • Track 8] Midnight Drivers
@@ -101,7 +101,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:26 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-08-midnight-drivers.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-08-midnight-drivers.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-08-midnight-drivers.txt`
 
 9. [Disc 1 • Track 9] Fifty-Two to Nothing: The Norfolk Reckoning
@@ -111,7 +111,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:15 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-09-fifty-two-to-nothing-the-norfolk-reckoning.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-09-fifty-two-to-nothing-the-norfolk-reckoning.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-09-fifty-two-to-nothing-the-norfolk-reckoning.txt`
 
 10. [Disc 1 • Track 10] The Contract
@@ -121,7 +121,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 3:18 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-10-the-contract.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-10-the-contract.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-10-the-contract.txt`
 
 11. [Disc 1 • Track 11] Steel and Synthetics
@@ -131,7 +131,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:36 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-11-steel-and-synthetics.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/1-11-steel-and-synthetics.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-11-steel-and-synthetics.txt`
 
 12. [Disc 2 • Track 1] Escape Velocity (Ad Astra)
@@ -141,7 +141,7 @@
 * **ISRC:** QTAHP2600042
 * **Duration:** 13:03 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-01-escape-velocity-ad-astra.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-01-escape-velocity-ad-astra.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/2-01-escape-velocity-ad-astra.txt`
 
 13. [Disc 2 • Track 2] Apoapsis
@@ -151,7 +151,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 5:21 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-02-apoapsis.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-02-apoapsis.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/2-02-apoapsis.txt`
 
 14. [Disc 2 • Track 3] Second Apoapsis
@@ -161,7 +161,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 3:41 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-03-second-apoapsis.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-03-second-apoapsis.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/2-03-second-apoapsis.txt`
 
 15. [Disc 2 • Track 4] The Spectrum (True Color)
@@ -171,7 +171,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 7:54 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-04-the-spectrum-true-color.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-04-the-spectrum-true-color.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/2-04-the-spectrum-true-color.txt`
 
 16. [Disc 2 • Track 5] Moon 1: Tidal Lock
@@ -181,7 +181,7 @@
 * **ISRC:** QTAHP2600058
 * **Duration:** 5:34 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-05-moon-1-tidal-lock.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-05-moon-1-tidal-lock.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/2-05-moon-1-tidal-lock.txt`
 
 17. [Disc 2 • Track 6] Moon 2: Roche Limit
@@ -191,7 +191,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:15 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-06-moon-2-roche-limit.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-06-moon-2-roche-limit.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/2-06-moon-2-roche-limit.txt`
 
 18. [Disc 2 • Track 7] Impact (Mile Marker 98)
@@ -201,7 +201,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:49 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-07-impact-mile-marker-98.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-07-impact-mile-marker-98.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/2-07-impact-mile-marker-98.txt`
 
 19. [Disc 2 • Track 8] Mayday: The Intercept
@@ -211,7 +211,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 5:03 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-08-mayday-the-intercept.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-08-mayday-the-intercept.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/2-08-mayday-the-intercept.txt`
 
 20. [Disc 2 • Track 9] Star City: Orbital Ward
@@ -221,7 +221,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 5:59 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-09-star-city-orbital-ward.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-09-star-city-orbital-ward.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/2-09-star-city-orbital-ward.txt`
 
 21. [Disc 2 • Track 10] Twin Moons: Touchdown
@@ -231,7 +231,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 5:25 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-10-twin-moons-touchdown.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/2-10-twin-moons-touchdown.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/2-10-twin-moons-touchdown.txt`
 
 22. [Disc 3 • Track 1] Our Own Frequency
@@ -241,7 +241,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 3:24 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-01-our-own-frequency.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-01-our-own-frequency.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/3-01-our-own-frequency.txt`
 
 23. [Disc 3 • Track 2] Brother's Keeper
@@ -251,7 +251,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:29 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-02-brothers-keeper.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-02-brothers-keeper.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/3-02-brothers-keeper.txt`
 
 24. [Disc 3 • Track 3] Safe Person
@@ -261,7 +261,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 3:07 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-03-safe-person.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-03-safe-person.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/3-03-safe-person.txt`
 
 25. [Disc 3 • Track 4] Still Your Safe Person
@@ -271,7 +271,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:15 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-04-still-your-safe-person.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-04-still-your-safe-person.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/3-04-still-your-safe-person.txt`
 
 26. [Disc 3 • Track 5] Echoes in the Wire
@@ -281,7 +281,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:41 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-05-echoes-in-the-wire.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-05-echoes-in-the-wire.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/3-05-echoes-in-the-wire.txt`
 
 27. [Disc 3 • Track 6] Saturday Night Lights: The Crucible
@@ -291,7 +291,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:37 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-06-saturday-night-lights-the-crucible.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-06-saturday-night-lights-the-crucible.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/3-06-saturday-night-lights-the-crucible.txt`
 
 28. [Disc 3 • Track 7] Progress Street: Where the Fire Began
@@ -301,7 +301,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:31 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-07-progress-street-where-the-fire-began.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-07-progress-street-where-the-fire-began.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/3-07-progress-street-where-the-fire-began.txt`
 
 29. [Disc 3 • Track 8] Neon on the Huckleberry Trail
@@ -311,7 +311,7 @@
 * **ISRC:** QTAHP2600057
 * **Duration:** 5:31 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-08-neon-on-the-huckleberry-trail.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-08-neon-on-the-huckleberry-trail.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/3-08-neon-on-the-huckleberry-trail.txt`
 
 30. [Disc 3 • Track 9] Neon Hearts
@@ -321,7 +321,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 3:57 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-09-neon-hearts.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-09-neon-hearts.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/3-09-neon-hearts.txt`
 
 31. [Disc 3 • Track 10] My Anchor Holds
@@ -331,7 +331,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 5:02 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-10-my-anchor-holds.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-10-my-anchor-holds.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/3-10-my-anchor-holds.txt`
 
 32. [Disc 3 • Track 11] Reignition: Lights Up on Progress Street
@@ -341,7 +341,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:20 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-11-reignition-lights-up-on-progress-street.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-11-reignition-lights-up-on-progress-street.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/3-11-reignition-lights-up-on-progress-street.txt`
 
 33. [Disc 3 • Track 12] Last Bus Home: Lights Out on Progress Street
@@ -351,7 +351,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 5:24 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-12-last-bus-home-lights-out-on-progress-street.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-12-last-bus-home-lights-out-on-progress-street.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/3-12-last-bus-home-lights-out-on-progress-street.txt`
 
 34. [Disc 3 • Track 13] Electric Color
@@ -361,5 +361,5 @@
 * **ISRC:** QTAHP2600023
 * **Duration:** 5:26 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-13-electric-color.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-live-at-the-crucible/vault/wav/3-13-electric-color.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/3-13-electric-color.txt`

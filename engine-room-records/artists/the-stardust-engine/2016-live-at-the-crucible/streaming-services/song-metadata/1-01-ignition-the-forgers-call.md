@@ -6,7 +6,7 @@
 * **ID3 / Vorbis Tagged Title:** Ignition: The Forger's Call (Live at the Crucible)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Stadium Rock / 1980s AOR / Progressive Symphonic Space-Rock / Collegiate Marching Band Rock
-* **Real-World DSP Release Date:** 2026-10-28
+* **Real-World DSP Release Date:** 2026-10-29
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTAHP2600043
 
 **DistroKid AI Credits Questionnaire:**

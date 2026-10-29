@@ -31,7 +31,7 @@
 * **ISRC:** QT6HJ2673220
 * **Duration:** 4:58 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-01-1996-an-extension-of-me.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-01-1996-an-extension-of-me.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-1996-an-extension-of-me.txt`
 
 2. The Dependency Loop
@@ -41,7 +41,7 @@
 * **ISRC:** QT6HJ2673221
 * **Duration:** 5:00 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-02-the-dependency-loop.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-02-the-dependency-loop.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-the-dependency-loop.txt`
 
 3. Inappropriate (The Opt-Out)
@@ -51,7 +51,7 @@
 * **ISRC:** QT6HJ2673222
 * **Duration:** 3:19 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-03-inappropriate-the-opt-out.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-03-inappropriate-the-opt-out.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-inappropriate-the-opt-out.txt`
 
 4. The Silly College Experiment (Astrophysics)
@@ -61,7 +61,7 @@
 * **ISRC:** QT6HJ2673223
 * **Duration:** 3:29 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-04-the-silly-college-experiment-astrophysics.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-04-the-silly-college-experiment-astrophysics.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-the-silly-college-experiment-astrophysics.txt`
 
 5. Route Four-Sixty (The Seven-Hour Drive)
@@ -71,7 +71,7 @@
 * **ISRC:** QT6HJ2673224
 * **Duration:** 3:59 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-05-route-four-sixty-the-seven-hour-drive.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-05-route-four-sixty-the-seven-hour-drive.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-05-route-four-sixty-the-seven-hour-drive.txt`
 
 6. Stranded (A Real College Kid)
@@ -81,7 +81,7 @@
 * **ISRC:** QT6HJ2673225
 * **Duration:** 4:31 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-06-stranded-a-real-college-kid.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-06-stranded-a-real-college-kid.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-stranded-a-real-college-kid.txt`
 
 7. Clerical Error (A New Light)
@@ -91,7 +91,7 @@
 * **ISRC:** QT6HJ2673226
 * **Duration:** 4:34 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-07-clerical-error-a-new-light.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-07-clerical-error-a-new-light.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-07-clerical-error-a-new-light.txt`
 
 8. System.Crash(Meltdown_01)
@@ -101,7 +101,7 @@
 * **ISRC:** QT6HJ2673227
 * **Duration:** 4:15 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-08-system-crash-meltdown-01.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-08-system-crash-meltdown-01.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-08-system-crash-meltdown-01.txt`
 
 9. The Anchor Holds (Aubrie's Theme)
@@ -111,7 +111,7 @@
 * **ISRC:** QT6HJ2673228
 * **Duration:** 2:39 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-09-the-anchor-holds-aubries-theme.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-09-the-anchor-holds-aubries-theme.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-09-the-anchor-holds-aubries-theme.txt`
 
 10. The Same Constellations
@@ -121,7 +121,7 @@
 * **ISRC:** QT6HJ2673229
 * **Duration:** 3:16 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-10-the-same-constellations.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-10-the-same-constellations.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-10-the-same-constellations.txt`
 
 11. The Naming (A Joke That Stuck)
@@ -131,7 +131,7 @@
 * **ISRC:** QT6HJ2673230
 * **Duration:** 3:03 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-11-the-naming-a-joke-that-stuck.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-11-the-naming-a-joke-that-stuck.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-11-the-naming-a-joke-that-stuck.txt`
 
 12. A Different Kind of Constellation (The Pact)
@@ -141,7 +141,7 @@
 * **ISRC:** QT6HJ2673231
 * **Duration:** 3:44 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-12-a-different-kind-of-constellation-the-pact.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-12-a-different-kind-of-constellation-the-pact.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-12-a-different-kind-of-constellation-the-pact.txt`
 
 13. The Cut Cord (No Service)
@@ -151,7 +151,7 @@
 * **ISRC:** QT6HJ2673232
 * **Duration:** 4:02 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-13-the-cut-cord-no-service.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-13-the-cut-cord-no-service.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-13-the-cut-cord-no-service.txt`
 
 14. (The Buddy System)
@@ -161,7 +161,7 @@
 * **ISRC:** QT6HJ2673233
 * **Duration:** 4:11 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-14-logistics-the-buddy-system.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-14-logistics-the-buddy-system.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-14-logistics-the-buddy-system.txt`
 
 15. Sanctuary (The Thanksgiving Exodus)
@@ -171,7 +171,7 @@
 * **ISRC:** QT6HJ2673234
 * **Duration:** 3:09 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-15-sanctuary-the-thanksgiving-exodus.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-15-sanctuary-the-thanksgiving-exodus.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-15-sanctuary-the-thanksgiving-exodus.txt`
 
 16. Guardianship (The Summons)
@@ -181,7 +181,7 @@
 * **ISRC:** QT6HJ2673235
 * **Duration:** 3:51 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-16-guardianship-the-summons.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-16-guardianship-the-summons.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-16-guardianship-the-summons.txt`
 
 17. The Bluewater Bunker
@@ -191,7 +191,7 @@
 * **ISRC:** QT6HJ2673236
 * **Duration:** 4:56 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-17-the-bluewater-bunker.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-17-the-bluewater-bunker.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-17-the-bluewater-bunker.txt`
 
 18. Dismissed (With Prejudice)
@@ -201,5 +201,5 @@
 * **ISRC:** QT6HJ2673237
 * **Duration:** 3:26 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-18-dismissed-with-prejudice.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-1/vault/wav/1-18-dismissed-with-prejudice.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-18-dismissed-with-prejudice.txt`

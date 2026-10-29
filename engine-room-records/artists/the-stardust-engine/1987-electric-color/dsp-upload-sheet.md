@@ -31,7 +31,7 @@
 * **ISRC:** QZTB52600719
 * **Duration:** 3:09 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-01-electric-color.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-01-electric-color.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-electric-color.txt`
 
 2. Plastic Sky
@@ -41,7 +41,7 @@
 * **ISRC:** QZTB52600720
 * **Duration:** 3:04 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-02-plastic-sky.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-02-plastic-sky.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-plastic-sky.txt`
 
 3. My Anchor Holds
@@ -51,7 +51,7 @@
 * **ISRC:** QZTB52600721
 * **Duration:** 4:24 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-03-my-anchor-holds.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-03-my-anchor-holds.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-my-anchor-holds.txt`
 
 4. Dancing in the Neon
@@ -61,7 +61,7 @@
 * **ISRC:** QZTB52600722
 * **Duration:** 2:24 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-04-dancing-in-the-neon.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-04-dancing-in-the-neon.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-dancing-in-the-neon.txt`
 
 5. Running on the Edge
@@ -71,7 +71,7 @@
 * **ISRC:** QZTB52600723
 * **Duration:** 4:00 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-05-running-on-the-edge.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-05-running-on-the-edge.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-05-running-on-the-edge.txt`
 
 6. Just a Girl
@@ -81,7 +81,7 @@
 * **ISRC:** QZTB52600724
 * **Duration:** 3:01 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-06-just-a-girl.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-06-just-a-girl.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-just-a-girl.txt`
 
 7. Light Up the Night
@@ -91,7 +91,7 @@
 * **ISRC:** QZTB52600725
 * **Duration:** 3:29 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-07-light-up-the-night.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-07-light-up-the-night.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-07-light-up-the-night.txt`
 
 8. Break the Walls
@@ -101,7 +101,7 @@
 * **ISRC:** QZTB52600726
 * **Duration:** 4:08 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-08-break-the-walls.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-08-break-the-walls.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-08-break-the-walls.txt`
 
 9. Worlds Apart
@@ -111,7 +111,7 @@
 * **ISRC:** QZTB52600727
 * **Duration:** 4:12 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-09-worlds-apart.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-09-worlds-apart.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-09-worlds-apart.txt`
 
 10. Another Night
@@ -121,7 +121,7 @@
 * **ISRC:** QZTB52600728
 * **Duration:** 2:42 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-10-another-night.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-10-another-night.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-10-another-night.txt`
 
 11. Out of Time
@@ -131,7 +131,7 @@
 * **ISRC:** QZTB52600729
 * **Duration:** 1:35 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-11-out-of-time.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-11-out-of-time.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-11-out-of-time.txt`
 
 12. Rearview Mirror
@@ -141,7 +141,7 @@
 * **ISRC:** QZTB52600730
 * **Duration:** 4:04 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-12-rearview-mirror.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-12-rearview-mirror.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-12-rearview-mirror.txt`
 
 13. The Stardust Engine
@@ -151,5 +151,5 @@
 * **ISRC:** QZTB52600731
 * **Duration:** 4:16 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-13-the-stardust-engine.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1987-electric-color/vault/wav/1-13-the-stardust-engine.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-13-the-stardust-engine.txt`

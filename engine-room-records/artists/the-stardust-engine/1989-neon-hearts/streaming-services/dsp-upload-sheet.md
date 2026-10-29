@@ -31,7 +31,7 @@
 * **ISRC:** QZTB92611792
 * **Duration:** 3:03 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-01-neon-hearts.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-01-neon-hearts.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-neon-hearts.txt`
 
 2. Hollow Sound
@@ -41,7 +41,7 @@
 * **ISRC:** QZTBA2678351
 * **Duration:** 5:31 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-02-hollow-sound.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-02-hollow-sound.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-hollow-sound.txt`
 
 3. Side by Side
@@ -51,7 +51,7 @@
 * **ISRC:** QZTBA2678352
 * **Duration:** 1:54 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-03-side-by-side.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-03-side-by-side.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-side-by-side.txt`
 
 4. If You Walked Away
@@ -61,7 +61,7 @@
 * **ISRC:** QZTBA2678353
 * **Duration:** 4:11 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-04-if-you-walked-away.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-04-if-you-walked-away.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-if-you-walked-away.txt`
 
 5. Same Old Song
@@ -71,7 +71,7 @@
 * **ISRC:** QZTBA2678354
 * **Duration:** 3:31 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-05-same-old-song.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-05-same-old-song.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-05-same-old-song.txt`
 
 6. Chain Reaction
@@ -81,7 +81,7 @@
 * **ISRC:** QZTBA2678355
 * **Duration:** 4:01 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-06-chain-reaction.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-06-chain-reaction.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-chain-reaction.txt`
 
 7. Not Your Doll
@@ -91,7 +91,7 @@
 * **ISRC:** QZTB92611793
 * **Duration:** 3:21 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-07-not-your-doll.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-07-not-your-doll.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-07-not-your-doll.txt`
 
 8. Quiet on the Set
@@ -101,7 +101,7 @@
 * **ISRC:** QZTBA2678356
 * **Duration:** 3:49 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-08-quiet-on-the-set.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-08-quiet-on-the-set.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-08-quiet-on-the-set.txt`
 
 9. Shadow Dancing
@@ -111,7 +111,7 @@
 * **ISRC:** QZTBA2678357
 * **Duration:** 3:51 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-09-shadow-dancing.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-09-shadow-dancing.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-09-shadow-dancing.txt`
 
 10. After the Show
@@ -121,7 +121,7 @@
 * **ISRC:** QZTBA2678358
 * **Duration:** 2:53 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-10-after-the-show.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-10-after-the-show.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-10-after-the-show.txt`
 
 11. The Promise
@@ -131,7 +131,7 @@
 * **ISRC:** QZTBA2678359
 * **Duration:** 3:48 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-11-the-promise-corporate-demo.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-11-the-promise-corporate-demo.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-11-the-promise-corporate-demo.txt`
 
 12. The Promise
@@ -141,5 +141,5 @@
 * **ISRC:** QZTBA2678360
 * **Duration:** 3:38 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-12-the-promise-sabotage-demo.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1989-neon-hearts/vault/wav/1-12-the-promise-sabotage-demo.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-12-the-promise-sabotage-demo.txt`

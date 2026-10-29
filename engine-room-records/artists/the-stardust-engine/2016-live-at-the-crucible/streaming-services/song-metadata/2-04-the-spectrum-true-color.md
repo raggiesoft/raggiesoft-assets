@@ -6,7 +6,7 @@
 * **ID3 / Vorbis Tagged Title:** The Spectrum (True Color) (Live at the Crucible)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Stadium Rock / 1980s AOR / Progressive Symphonic Space-Rock / Collegiate Marching Band Rock
-* **Real-World DSP Release Date:** 2026-10-28
+* **Real-World DSP Release Date:** 2026-10-29
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**
@@ -34,7 +34,7 @@
 * **Album UPC / GTIN-12:** None
 * **Track Length:** 
 * **Fictional Narrative Release Date:** 2016-10-15
-* **Master File Located At:** ../../vault/wav/the-spectrum-true-color-live-at-the-crucible.wav
+* **Master File Located At:** ../../vault/wav/2-04-the-spectrum-true-color.wav
 
 ## 4. Rights, Tri-License Architecture & Clearances
 * **Commercial Rights:** 100% cleared via commercial-tier Suno Premium.

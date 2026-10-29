@@ -31,7 +31,7 @@
 * **ISRC:** QZTB92611796
 * **Duration:** 5:29 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-01-moon-1-tidal-lock.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-01-moon-1-tidal-lock.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-moon-1-tidal-lock.txt`
 
 2. Periapsis (Closest Approach)
@@ -41,7 +41,7 @@
 * **ISRC:** QT6HM2622629
 * **Duration:** 4:58 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-02-periapsis-closest-approach.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-02-periapsis-closest-approach.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-periapsis-closest-approach.txt`
 
 3. The Anchor's Weight
@@ -51,7 +51,7 @@
 * **ISRC:** QT6HM2622630
 * **Duration:** 5:29 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-03-the-anchors-weight.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-03-the-anchors-weight.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-the-anchors-weight.txt`
 
 4. Silent Ocean (Mare Tranquillitatis)
@@ -61,7 +61,7 @@
 * **ISRC:** QT6HM2622631
 * **Duration:** 5:59 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-04-silent-ocean-mare-tranquillitatis.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-04-silent-ocean-mare-tranquillitatis.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-silent-ocean-mare-tranquillitatis.txt`
 
 5. Deep Pressure
@@ -71,7 +71,7 @@
 * **ISRC:** QT6HM2622632
 * **Duration:** 5:29 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-05-deep-pressure.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-05-deep-pressure.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-05-deep-pressure.txt`
 
 6. Synchronous
@@ -81,7 +81,7 @@
 * **ISRC:** QT6HM2622633
 * **Duration:** 5:58 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-06-synchronous.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-06-synchronous.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-synchronous.txt`
 
 7. The Penumbra
@@ -91,7 +91,7 @@
 * **ISRC:** QT6HM2622634
 * **Duration:** 6:00 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-07-the-penumbra.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-07-the-penumbra.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-07-the-penumbra.txt`
 
 8. Goldilocks Zone
@@ -101,7 +101,7 @@
 * **ISRC:** QT6HM2622635
 * **Duration:** 5:02 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-08-goldilocks-zone.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-08-goldilocks-zone.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-08-goldilocks-zone.txt`
 
 9. Telemetry
@@ -111,7 +111,7 @@
 * **ISRC:** QT6HM2622636
 * **Duration:** 5:01 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-09-telemetry.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-09-telemetry.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-09-telemetry.txt`
 
 10. Sanctuary: Zero G
@@ -121,5 +121,5 @@
 * **ISRC:** QT6HM2622637
 * **Duration:** 5:59 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-10-sanctuary-zero-g.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/vault/wav/1-10-sanctuary-zero-g.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-10-sanctuary-zero-g.txt`

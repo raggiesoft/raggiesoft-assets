@@ -31,7 +31,7 @@
 * **ISRC:** QTAHP2600008
 * **Duration:** 4:39 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1990-live-in-chicago/vault/wav/1-01-the-stardust-engine-live-in-chicago.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1990-live-in-chicago/vault/wav/1-01-the-stardust-engine-live-in-chicago.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-the-stardust-engine-live-in-chicago.txt`
 
 2. Neon Hearts
@@ -41,7 +41,7 @@
 * **ISRC:** QTAHP2600009
 * **Duration:** 3:06 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1990-live-in-chicago/vault/wav/1-02-neon-hearts-live-in-chicago.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1990-live-in-chicago/vault/wav/1-02-neon-hearts-live-in-chicago.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-neon-hearts-live-in-chicago.txt`
 
 3. Dancing in the Neon
@@ -51,7 +51,7 @@
 * **ISRC:** QTAHP2600010
 * **Duration:** 2:41 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1990-live-in-chicago/vault/wav/1-03-dancing-in-the-neon-live-in-chicago.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1990-live-in-chicago/vault/wav/1-03-dancing-in-the-neon-live-in-chicago.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-dancing-in-the-neon-live-in-chicago.txt`
 
 4. If You Walked Away
@@ -61,7 +61,7 @@
 * **ISRC:** QTAHP2600011
 * **Duration:** 4:08 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1990-live-in-chicago/vault/wav/1-04-if-you-walked-away-live-in-chicago.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1990-live-in-chicago/vault/wav/1-04-if-you-walked-away-live-in-chicago.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-if-you-walked-away-live-in-chicago.txt`
 
 5. Light Up the Night
@@ -71,7 +71,7 @@
 * **ISRC:** QTAHP2600012
 * **Duration:** 3:19 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1990-live-in-chicago/vault/wav/1-05-light-up-the-night-live-in-chicago.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1990-live-in-chicago/vault/wav/1-05-light-up-the-night-live-in-chicago.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-05-light-up-the-night-live-in-chicago.txt`
 
 6. My Anchor Holds
@@ -81,5 +81,5 @@
 * **ISRC:** QTAHP2600013
 * **Duration:** 4:18 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1990-live-in-chicago/vault/wav/1-06-my-anchor-holds-live-in-chicago.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1990-live-in-chicago/vault/wav/1-06-my-anchor-holds-live-in-chicago.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-my-anchor-holds-live-in-chicago.txt`

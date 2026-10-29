@@ -31,7 +31,7 @@
 * **ISRC:** QTAHP2600003
 * **Duration:** 4:51 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1984-1883/vault/wav/1-01-architects-of-the-rain.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1984-1883/vault/wav/1-01-architects-of-the-rain.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-architects-of-the-rain.txt`
 
 2. Four at the Table
@@ -41,7 +41,7 @@
 * **ISRC:** QTAHP2600004
 * **Duration:** 4:23 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1984-1883/vault/wav/1-02-four-at-the-table.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1984-1883/vault/wav/1-02-four-at-the-table.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-four-at-the-table.txt`
 
 3. The Brass Escapement
@@ -51,7 +51,7 @@
 * **ISRC:** QTAHP2600005
 * **Duration:** 4:17 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1984-1883/vault/wav/1-03-the-brass-escapement.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1984-1883/vault/wav/1-03-the-brass-escapement.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-the-brass-escapement.txt`
 
 4. Shadows on the Slate
@@ -61,5 +61,5 @@
 * **ISRC:** QTAHP2600006
 * **Duration:** 4:44 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1984-1883/vault/wav/1-04-shadows-on-the-slate.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1984-1883/vault/wav/1-04-shadows-on-the-slate.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-shadows-on-the-slate.txt`

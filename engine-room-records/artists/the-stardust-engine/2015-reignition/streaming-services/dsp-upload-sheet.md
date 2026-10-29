@@ -31,7 +31,7 @@
 * **ISRC:** QTAHP2600046
 * **Duration:** 5:06 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-01-reignition-lights-up-on-progress-street.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-01-reignition-lights-up-on-progress-street.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-reignition-lights-up-on-progress-street.txt`
 
 2. Main Engine Start
@@ -41,7 +41,7 @@
 * **ISRC:** QTAHP2600047
 * **Duration:** 6:27 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-02-main-engine-start.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-02-main-engine-start.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-main-engine-start.txt`
 
 3. The Iceberg: Submerged
@@ -51,7 +51,7 @@
 * **ISRC:** QTAHP2600048
 * **Duration:** 4:46 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-03-the-iceberg-submerged.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-03-the-iceberg-submerged.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-the-iceberg-submerged.txt`
 
 4. Orbital Return
@@ -61,7 +61,7 @@
 * **ISRC:** QTAHP2600049
 * **Duration:** 5:42 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-04-orbital-return.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-04-orbital-return.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-orbital-return.txt`
 
 5. Ten Years in the Quiet
@@ -71,7 +71,7 @@
 * **ISRC:** QTAHP2600050
 * **Duration:** 6:00 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-05-ten-years-in-the-quiet.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-05-ten-years-in-the-quiet.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-05-ten-years-in-the-quiet.txt`
 
 6. Fifty-Two to Nothing: The Norfolk Reckoning
@@ -81,7 +81,7 @@
 * **ISRC:** QTAHP2600051
 * **Duration:** 4:55 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-06-fifty-two-to-nothing-the-norfolk-reckoning.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-06-fifty-two-to-nothing-the-norfolk-reckoning.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-fifty-two-to-nothing-the-norfolk-reckoning.txt`
 
 7. Twin Frequency: The Rhythm Section
@@ -91,7 +91,7 @@
 * **ISRC:** QTAHP2600052
 * **Duration:** 4:52 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-07-twin-frequency-the-rhythm-section.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-07-twin-frequency-the-rhythm-section.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-07-twin-frequency-the-rhythm-section.txt`
 
 8. Neon on the Huckleberry Trail
@@ -101,7 +101,7 @@
 * **ISRC:** QTAHP2600053
 * **Duration:** 5:13 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-08-neon-on-the-huckleberry-trail.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-08-neon-on-the-huckleberry-trail.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-08-neon-on-the-huckleberry-trail.txt`
 
 9. No Strings on the Master
@@ -111,7 +111,7 @@
 * **ISRC:** QTAHP2600054
 * **Duration:** 5:31 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-09-no-strings-on-the-master.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-09-no-strings-on-the-master.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-09-no-strings-on-the-master.txt`
 
 10. Still Your Safe Person
@@ -121,7 +121,7 @@
 * **ISRC:** QTAHP2600055
 * **Duration:** 5:59 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-10-still-your-safe-person.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-10-still-your-safe-person.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-10-still-your-safe-person.txt`
 
 11. Where the Stars Still Burn
@@ -131,5 +131,5 @@
 * **ISRC:** QTAHP2600056
 * **Duration:** 6:32 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-11-where-the-stars-still-burn.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2015-reignition/vault/wav/1-11-where-the-stars-still-burn.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-11-where-the-stars-still-burn.txt`

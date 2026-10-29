@@ -31,7 +31,7 @@
 * **ISRC:** QZTB52600719
 * **Duration:** 3:09 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-01-electric-color.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-01-electric-color.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-electric-color.txt`
 
 2. Light Up the Night
@@ -41,7 +41,7 @@
 * **ISRC:** QZTB52600725
 * **Duration:** 3:29 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-02-light-up-the-night.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-02-light-up-the-night.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-light-up-the-night.txt`
 
 3. Neon Hearts
@@ -51,7 +51,7 @@
 * **ISRC:** QZTB92611792
 * **Duration:** 3:03 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-03-neon-hearts.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-03-neon-hearts.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-neon-hearts.txt`
 
 4. Dancing in the Neon
@@ -61,7 +61,7 @@
 * **ISRC:** QZTB52600722
 * **Duration:** 2:24 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-04-dancing-in-the-neon.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-04-dancing-in-the-neon.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-dancing-in-the-neon.txt`
 
 5. Not Your Doll
@@ -71,7 +71,7 @@
 * **ISRC:** QZTB92611793
 * **Duration:** 3:21 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-05-not-your-doll.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-05-not-your-doll.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-05-not-your-doll.txt`
 
 6. My Anchor Holds
@@ -81,7 +81,7 @@
 * **ISRC:** QZTB52600721
 * **Duration:** 4:24 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-06-my-anchor-holds.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-06-my-anchor-holds.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-my-anchor-holds.txt`
 
 7. The Stardust Engine
@@ -91,7 +91,7 @@
 * **ISRC:** QZTB52600731
 * **Duration:** 4:16 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-07-the-stardust-engine.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-07-the-stardust-engine.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-07-the-stardust-engine.txt`
 
 8. Static
@@ -101,7 +101,7 @@
 * **ISRC:** QZTB92611631
 * **Duration:** 3:56 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-08-static.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-08-static.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-08-static.txt`
 
 9. Garbage
@@ -111,7 +111,7 @@
 * **ISRC:** QZTB92611632
 * **Duration:** 1:49 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-09-garbage.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-09-garbage.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-09-garbage.txt`
 
 10. Escape Velocity (Ad Astra)
@@ -121,7 +121,7 @@
 * **ISRC:** QZTB62697617
 * **Duration:** 5:09 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-10-escape-velocity-ad-astra-radio-edit.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-10-escape-velocity-ad-astra-radio-edit.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-10-escape-velocity-ad-astra-radio-edit.txt`
 
 11. The Fortress
@@ -131,7 +131,7 @@
 * **ISRC:** QZTB62697619
 * **Duration:** 3:19 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-11-the-fortress.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-11-the-fortress.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-11-the-fortress.txt`
 
 12. No Hidden Gravity
@@ -141,7 +141,7 @@
 * **ISRC:** QZTBC2635158
 * **Duration:** 5:22 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-12-no-hidden-gravity.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-12-no-hidden-gravity.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-12-no-hidden-gravity.txt`
 
 13. Thunderhead
@@ -151,7 +151,7 @@
 * **ISRC:** QZTB92611794
 * **Duration:** 6:02 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-13-thunderhead.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-13-thunderhead.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-13-thunderhead.txt`
 
 14. Redline
@@ -161,7 +161,7 @@
 * **ISRC:** QZTB92611795
 * **Duration:** 3:32 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-14-redline.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-14-redline.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-14-redline.txt`
 
 15. Moon 1 (Tidal Lock)
@@ -171,7 +171,7 @@
 * **ISRC:** QZTB92611796
 * **Duration:** 5:29 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-15-moon-1-tidal-lock.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-15-moon-1-tidal-lock.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-15-moon-1-tidal-lock.txt`
 
 16. Echoes in the Wire
@@ -181,7 +181,7 @@
 * **ISRC:** QZTB92611797
 * **Duration:** 4:41 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-16-echoes-in-the-wire.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-16-echoes-in-the-wire.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-16-echoes-in-the-wire.txt`
 
 17. Brand New Scene
@@ -191,5 +191,5 @@
 * **ISRC:** QZTB92611798
 * **Duration:** 4:46 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-17-brand-new-scene.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1997-forger-nation-war-chest/vault/wav/1-17-brand-new-scene.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-17-brand-new-scene.txt`

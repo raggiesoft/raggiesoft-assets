@@ -1,10 +1,10 @@
 
 # The Paper Wall - Master Discography & Lore
-Compiled on: 10-28-2026 09:25:25 PM
+Compiled on: 10-29-2026 08:22:12 AM
 
 # Guiding Stars (2000)
 * **Narrative Era:** 2000
-* **Real-World DSP Release:** 2026-10-28
+* **Real-World DSP Release:** 2026-10-29
 
 ## Chasing the Sun
 # Chasing the Sun
@@ -599,7 +599,7 @@ With your loving, steady hand!
 A mid-tempo, heartfelt 80s rock anthem with a strong New Wave influence, around 120 BPM, The music should be melodic and driving, featuring a prominent, catchy synthesizer riff, a clean chorus-effect electric guitar, and a steady, powerful drum machine beat, The mood is one of profound gratitude and a sense of quiet strength, a tribute to an older sister who built a safe home, (Exclude: ‑Pop, ‑Funk, ‑Acoustic, ‑Folk, ‑Orchestral)
 # Static & Silence, Book 1: The Long Road West (2001)
 * **Narrative Era:** 2001
-* **Real-World DSP Release:** 2026-10-28
+* **Real-World DSP Release:** 2026-10-29
 
 ## Nineteen and Invincible
 ### Lore
@@ -1311,7 +1311,7 @@ This is the "Death of the Voice." The crash is followed by a long, dead silence,
 (The track ends with the heavy, final sound of a door slamming and the *click* of a deadbolt sliding home.)
 # Static & Silence, Book 2: The Journey Home (2001)
 * **Narrative Era:** 2001
-* **Real-World DSP Release:** 2026-10-28
+* **Real-World DSP Release:** 2026-10-29
 
 ## Curbstone, 4 AM
 ### Lore
@@ -2184,7 +2184,7 @@ For you...
 (Final sustained chord, resolving perfectly into silence)
 # The Eleventh Child, Book 1: System.Crash (2003)
 * **Narrative Era:** 2003
-* **Real-World DSP Release:** 2026-10-28
+* **Real-World DSP Release:** 2026-10-29
 
 ## 1996 (An Extension of Me)
 # 1996 (An Extension of Me)
@@ -3479,7 +3479,7 @@ Dismissed!
 With prejudice!
 # The Eleventh Child, Book 2: System.Restore (2003)
 * **Narrative Era:** 2003
-* **Real-World DSP Release:** 2026-10-28
+* **Real-World DSP Release:** 2026-10-29
 
 ## The New Normal (6:00 AM)
 # The New Normal (6:00 AM)

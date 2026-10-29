@@ -31,7 +31,7 @@
 * **ISRC:** QTA7V2642609
 * **Duration:** 3:24 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2008-our-own-frequency/vault/wav/1-01-our-own-frequency.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2008-our-own-frequency/vault/wav/1-01-our-own-frequency.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-our-own-frequency.txt`
 
 2. The Noise Outside
@@ -41,7 +41,7 @@
 * **ISRC:** QTA7V2647552
 * **Duration:** 3:33 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2008-our-own-frequency/vault/wav/1-02-the-noise-outside.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2008-our-own-frequency/vault/wav/1-02-the-noise-outside.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-the-noise-outside.txt`
 
 3. Safe Person
@@ -51,7 +51,7 @@
 * **ISRC:** QTA7V2647553
 * **Duration:** 3:07 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2008-our-own-frequency/vault/wav/1-03-safe-person.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2008-our-own-frequency/vault/wav/1-03-safe-person.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-safe-person.txt`
 
 4. Unplugged
@@ -61,7 +61,7 @@
 * **ISRC:** QTA7V2647554
 * **Duration:** 3:16 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2008-our-own-frequency/vault/wav/1-04-unplugged.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2008-our-own-frequency/vault/wav/1-04-unplugged.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-unplugged.txt`
 
 5. Brother's Keeper
@@ -71,7 +71,7 @@
 * **ISRC:** QTA7V2647555
 * **Duration:** 4:29 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2008-our-own-frequency/vault/wav/1-05-brother-s-keeper.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2008-our-own-frequency/vault/wav/1-05-brother-s-keeper.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-05-brother-s-keeper.txt`
 
 6. Through the Static
@@ -81,7 +81,7 @@
 * **ISRC:** QTA7V2647556
 * **Duration:** 3:17 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2008-our-own-frequency/vault/wav/1-06-through-the-static.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2008-our-own-frequency/vault/wav/1-06-through-the-static.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-through-the-static.txt`
 
 7. The Weight We Carry
@@ -91,7 +91,7 @@
 * **ISRC:** QTA7V2647557
 * **Duration:** 4:02 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2008-our-own-frequency/vault/wav/1-07-the-weight-we-carry.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2008-our-own-frequency/vault/wav/1-07-the-weight-we-carry.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-07-the-weight-we-carry.txt`
 
 8. Just Us
@@ -101,5 +101,5 @@
 * **ISRC:** QTA7V2647558
 * **Duration:** 3:38 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2008-our-own-frequency/vault/wav/1-08-just-us.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2008-our-own-frequency/vault/wav/1-08-just-us.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-08-just-us.txt`

@@ -31,7 +31,7 @@
 * **ISRC:** QTA7V2642601
 * **Duration:** 4:14 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-01-the-stardust-engine-alternate.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-01-the-stardust-engine-alternate.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-the-stardust-engine-alternate.txt`
 
 2. Midnight Drivers
@@ -41,7 +41,7 @@
 * **ISRC:** QZWFW2601366
 * **Duration:** 3:10 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-02-midnight-drivers-demo.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-02-midnight-drivers-demo.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-midnight-drivers-demo.txt`
 
 3. Radio Silence
@@ -51,7 +51,7 @@
 * **ISRC:** QTA7V2642602
 * **Duration:** 4:29 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-03-radio-silence.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-03-radio-silence.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-radio-silence.txt`
 
 4. Empty Arenas
@@ -61,7 +61,7 @@
 * **ISRC:** QTA7V2642604
 * **Duration:** 4:57 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-04-empty-arenas.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-04-empty-arenas.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-empty-arenas.txt`
 
 5. The Contract
@@ -71,7 +71,7 @@
 * **ISRC:** QTA7V2642605
 * **Duration:** 3:18 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-05-the-contract.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-05-the-contract.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-05-the-contract.txt`
 
 6. Neon Hearts
@@ -81,7 +81,7 @@
 * **ISRC:** QTA7V2642606
 * **Duration:** 3:22 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-06-neon-hearts-acoustic.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-06-neon-hearts-acoustic.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-neon-hearts-acoustic.txt`
 
 7. Sanctuary: Zero G
@@ -91,7 +91,7 @@
 * **ISRC:** QTA7V2642607
 * **Duration:** 5:18 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-07-zero-g-sanctuary.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-07-zero-g-sanctuary.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-07-zero-g-sanctuary.txt`
 
 8. Steel and Synthetics
@@ -101,7 +101,7 @@
 * **ISRC:** QTA7V2642608
 * **Duration:** 4:36 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-08-steel-and-synthetics.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-08-steel-and-synthetics.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-08-steel-and-synthetics.txt`
 
 9. Our Own Frequency
@@ -111,7 +111,7 @@
 * **ISRC:** QTA7V2642609
 * **Duration:** 3:24 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-09-our-own-frequency.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-09-our-own-frequency.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-09-our-own-frequency.txt`
 
 10. The Promise
@@ -121,7 +121,7 @@
 * **ISRC:** QZTBA2678359
 * **Duration:** 3:48 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-10-the-promise-corporate-demo.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-10-the-promise-corporate-demo.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-10-the-promise-corporate-demo.txt`
 
 11. The Promise
@@ -131,7 +131,7 @@
 * **ISRC:** QZTBA2678360
 * **Duration:** 3:38 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-11-the-promise-sabotage-demo.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-11-the-promise-sabotage-demo.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-11-the-promise-sabotage-demo.txt`
 
 12. Atmosphere
@@ -141,7 +141,7 @@
 * **ISRC:** QZTB62697618
 * **Duration:** 5:01 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-12-atmosphere-warehouse-demo.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-12-atmosphere-warehouse-demo.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-12-atmosphere-warehouse-demo.txt`
 
 13. Sanctuary in the Storm
@@ -151,7 +151,7 @@
 * **ISRC:** QTA7V2642610
 * **Duration:** 5:19 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-13-sanctuary-in-the-storm.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-13-sanctuary-in-the-storm.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-13-sanctuary-in-the-storm.txt`
 
 14. Not Her
@@ -161,5 +161,5 @@
 * **ISRC:** QTA7V2642611
 * **Duration:** 4:24 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-14-not-her.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2007-lost-sounds/vault/wav/1-14-not-her.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-14-not-her.txt`

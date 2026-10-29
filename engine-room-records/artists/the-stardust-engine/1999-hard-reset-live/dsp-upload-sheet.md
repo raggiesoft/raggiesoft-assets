@@ -31,7 +31,7 @@
 * **ISRC:** QTAHP2600024
 * **Duration:** 4:57 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-01-the-stardust-engine.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-01-the-stardust-engine.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-the-stardust-engine.txt`
 
 2. Hard Reset
@@ -41,7 +41,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-02-hard-reset.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-02-hard-reset.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-hard-reset.txt`
 
 3. Brand New Scene
@@ -51,7 +51,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-03-brand-new-scene.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-03-brand-new-scene.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-brand-new-scene.txt`
 
 4. Static
@@ -61,7 +61,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-04-static.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-04-static.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-static.txt`
 
 5. Not Your Doll
@@ -71,7 +71,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-05-not-your-doll.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-05-not-your-doll.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-05-not-your-doll.txt`
 
 6. The Fortress
@@ -81,7 +81,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-06-the-fortress.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-06-the-fortress.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-the-fortress.txt`
 
 7. No Hidden Gravity
@@ -91,7 +91,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-07-no-hidden-gravity.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-07-no-hidden-gravity.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-07-no-hidden-gravity.txt`
 
 8. Thunderhead
@@ -101,7 +101,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-08-thunderhead.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-08-thunderhead.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-08-thunderhead.txt`
 
 9. Redline
@@ -111,7 +111,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-09-redline.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-09-redline.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-09-redline.txt`
 
 10. Moon 1: Tidal Lock
@@ -121,7 +121,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-10-moon-1-tidal-lock.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-10-moon-1-tidal-lock.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-10-moon-1-tidal-lock.txt`
 
 11. Echoes in the Wire
@@ -131,7 +131,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-11-echoes-in-the-wire.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-11-echoes-in-the-wire.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-11-echoes-in-the-wire.txt`
 
 12. Electric Color
@@ -141,5 +141,5 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-12-electric-color.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1999-hard-reset-live/vault/wav/1-12-electric-color.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-12-electric-color.txt`

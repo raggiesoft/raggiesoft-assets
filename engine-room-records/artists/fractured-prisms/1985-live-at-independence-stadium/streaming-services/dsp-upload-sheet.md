@@ -31,5 +31,5 @@
 * **ISRC:** QTAHP2600007
 * **Duration:** 5:24 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1985-live-at-independence-stadium/vault/wav/1-01-the-hollow-square-live.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1985-live-at-independence-stadium/vault/wav/1-01-the-hollow-square-live.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-the-hollow-square-live.txt`

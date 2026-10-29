@@ -31,7 +31,7 @@
 * **ISRC:** QTA7X2646234
 * **Duration:** 4:31 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-01-progress-street-where-the-fire-began.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-01-progress-street-where-the-fire-began.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-progress-street-where-the-fire-began.txt`
 
 2. Route 1: Midnight Headlights
@@ -41,7 +41,7 @@
 * **ISRC:** QTA7X2646235
 * **Duration:** 5:09 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-02-route-1-midnight-headlights.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-02-route-1-midnight-headlights.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-route-1-midnight-headlights.txt`
 
 3. Seconds Into Forever
@@ -51,7 +51,7 @@
 * **ISRC:** QTA7X2646236
 * **Duration:** 2:32 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-03-seconds-into-forever.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-03-seconds-into-forever.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-seconds-into-forever.txt`
 
 4. Thunder in the Rain
@@ -61,7 +61,7 @@
 * **ISRC:** QTA7X2646237
 * **Duration:** 4:34 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-04-thunder-in-the-rain.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-04-thunder-in-the-rain.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-thunder-in-the-rain.txt`
 
 5. Upright & Amplifier
@@ -71,7 +71,7 @@
 * **ISRC:** QTA7X2646238
 * **Duration:** 6:07 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-05-upright-and-amplifier.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-05-upright-and-amplifier.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-05-upright-and-amplifier.txt`
 
 6. Saturday Night Lights: The Crucible
@@ -81,7 +81,7 @@
 * **ISRC:** QTA7X2646239
 * **Duration:** 4:37 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-06-saturday-night-lights-the-crucible.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-06-saturday-night-lights-the-crucible.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-saturday-night-lights-the-crucible.txt`
 
 7. Fifth Gear: The Architect's Shield
@@ -91,7 +91,7 @@
 * **ISRC:** QTA7X2646240
 * **Duration:** 4:39 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-07-fifth-gear-the-architects-shield.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-07-fifth-gear-the-architects-shield.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-07-fifth-gear-the-architects-shield.txt`
 
 8. Before the Distance
@@ -101,7 +101,7 @@
 * **ISRC:** QTA7X2646241
 * **Duration:** 5:01 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-08-before-the-distance.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-08-before-the-distance.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-08-before-the-distance.txt`
 
 9. Running on Redline
@@ -111,7 +111,7 @@
 * **ISRC:** QTA7X2646242
 * **Duration:** 5:52 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-09-running-on-redline.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-09-running-on-redline.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-09-running-on-redline.txt`
 
 10. Empty Arenas
@@ -121,7 +121,7 @@
 * **ISRC:** QTA7X2646243
 * **Duration:** 5:33 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-10-empty-arenas.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-10-empty-arenas.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-10-empty-arenas.txt`
 
 11. Last Bus Home: Lights Out on Progress Street
@@ -131,5 +131,5 @@
 * **ISRC:** QTA7X2646244
 * **Duration:** 5:24 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-11-last-bus-home-lights-out-on-progress-street.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2004-progress-street/vault/wav/1-11-last-bus-home-lights-out-on-progress-street.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-11-last-bus-home-lights-out-on-progress-street.txt`

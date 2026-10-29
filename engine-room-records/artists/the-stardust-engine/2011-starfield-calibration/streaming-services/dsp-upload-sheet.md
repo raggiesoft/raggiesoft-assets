@@ -31,7 +31,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 5:03 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-01-the-stardust-engine.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-01-the-stardust-engine.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-the-stardust-engine.txt`
 
 2. Electric Color
@@ -41,7 +41,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:18 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-02-electric-color.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-02-electric-color.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-electric-color.txt`
 
 3. Plastic Sky
@@ -51,7 +51,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:47 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-03-plastic-sky.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-03-plastic-sky.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-plastic-sky.txt`
 
 4. Worlds Apart
@@ -61,7 +61,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:57 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-04-worlds-apart.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-04-worlds-apart.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-worlds-apart.txt`
 
 5. My Anchor Holds
@@ -71,7 +71,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 5:02 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-05-my-anchor-holds.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-05-my-anchor-holds.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-05-my-anchor-holds.txt`
 
 6. Neon Hearts
@@ -81,7 +81,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 3:57 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-06-neon-hearts.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-06-neon-hearts.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-neon-hearts.txt`
 
 7. Rearview Mirror
@@ -91,7 +91,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 5:33 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-07-rearview-mirror.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-07-rearview-mirror.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-07-rearview-mirror.txt`
 
 8. Atmosphere
@@ -101,7 +101,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:22 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-08-atmosphere.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-08-atmosphere.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-08-atmosphere.txt`
 
 9. No Hidden Gravity
@@ -111,7 +111,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:57 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-09-no-hidden-gravity.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-09-no-hidden-gravity.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-09-no-hidden-gravity.txt`
 
 10. Inertia: Unstoppable
@@ -121,7 +121,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:44 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-10-inertia-unstoppable.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-10-inertia-unstoppable.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-10-inertia-unstoppable.txt`
 
 11. Echoes in the Wire
@@ -131,7 +131,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:29 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-11-echoes-in-the-wire.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-11-echoes-in-the-wire.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-11-echoes-in-the-wire.txt`
 
 12. Midnight Drivers
@@ -141,7 +141,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 5:08 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-12-midnight-drivers.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-12-midnight-drivers.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-12-midnight-drivers.txt`
 
 13. The Horizon Line
@@ -151,7 +151,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 4:34 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-13-the-horizon-line.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-13-the-horizon-line.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-13-the-horizon-line.txt`
 
 14. Fade to Dawn
@@ -161,5 +161,5 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** 5:14 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-14-fade-to-dawn.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2011-starfield-calibration/vault/wav/1-14-fade-to-dawn.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-14-fade-to-dawn.txt`

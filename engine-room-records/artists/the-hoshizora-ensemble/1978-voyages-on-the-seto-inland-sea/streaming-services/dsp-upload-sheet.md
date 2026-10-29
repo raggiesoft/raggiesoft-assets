@@ -31,7 +31,7 @@
 * **ISRC:** QTAHP2600001
 * **Duration:** 2:29 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-hoshizora-ensemble/1978-voyages-on-the-seto-inland-sea/vault/wav/1-01-hoshizora-no-uta-song-of-the-starry-sky-japanese.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-hoshizora-ensemble/1978-voyages-on-the-seto-inland-sea/vault/wav/1-01-hoshizora-no-uta-song-of-the-starry-sky-japanese.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-hoshizora-no-uta-song-of-the-starry-sky-japanese.txt`
 
 2. Hoshizora no Uta (Song of the Starry Sky)
@@ -41,5 +41,5 @@
 * **ISRC:** QTAHP2600002
 * **Duration:** 1:49 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-hoshizora-ensemble/1978-voyages-on-the-seto-inland-sea/vault/wav/1-02-hoshizora-no-uta-song-of-the-starry-sky-english.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-hoshizora-ensemble/1978-voyages-on-the-seto-inland-sea/vault/wav/1-02-hoshizora-no-uta-song-of-the-starry-sky-english.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-hoshizora-no-uta-song-of-the-starry-sky-english.txt`

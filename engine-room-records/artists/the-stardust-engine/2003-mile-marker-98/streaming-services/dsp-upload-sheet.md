@@ -31,7 +31,7 @@
 * **ISRC:** QZTBE2640384
 * **Duration:** 4:15 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-01-moon-2-roche-limit.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-01-moon-2-roche-limit.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-moon-2-roche-limit.txt`
 
 2. Fragmentation: Debris Field
@@ -41,7 +41,7 @@
 * **ISRC:** QT6HM2673709
 * **Duration:** 6:00 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-02-fragmentation-debris-field.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-02-fragmentation-debris-field.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-fragmentation-debris-field.txt`
 
 3. Impact
@@ -51,7 +51,7 @@
 * **ISRC:** QT6HM2673710
 * **Duration:** 4:49 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-03-impact.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-03-impact.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-impact.txt`
 
 4. Mayday: The Intercept
@@ -61,7 +61,7 @@
 * **ISRC:** QT6HM2673711
 * **Duration:** 5:03 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-04-mayday-the-intercept.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-04-mayday-the-intercept.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-mayday-the-intercept.txt`
 
 5. Star City: Orbital Ward
@@ -71,7 +71,7 @@
 * **ISRC:** QT6HM2673712
 * **Duration:** 5:59 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-05-star-city-orbital-ward.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-05-star-city-orbital-ward.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-05-star-city-orbital-ward.txt`
 
 6. The Anchor's Hold
@@ -81,7 +81,7 @@
 * **ISRC:** QT6HM2673713
 * **Duration:** 5:59 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-06-the-anchors-hold.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-06-the-anchors-hold.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-the-anchors-hold.txt`
 
 7. The Penumbra: Transit
@@ -91,7 +91,7 @@
 * **ISRC:** QT6HM2673714
 * **Duration:** 6:00 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-07-the-penumbra-transit.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-07-the-penumbra-transit.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-07-the-penumbra-transit.txt`
 
 8. Artificial Gravity
@@ -101,7 +101,7 @@
 * **ISRC:** QT6HM2673715
 * **Duration:** 6:01 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-08-artificial-gravity.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-08-artificial-gravity.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-08-artificial-gravity.txt`
 
 9. Friction: Reentry
@@ -111,7 +111,7 @@
 * **ISRC:** QT6HM2673716
 * **Duration:** 5:30 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-09-friction-re-entry.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-09-friction-re-entry.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-09-friction-re-entry.txt`
 
 10. Twin Moons: Touchdown
@@ -121,5 +121,5 @@
 * **ISRC:** QT6HM2673717
 * **Duration:** 5:25 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-10-twin-moons-touchdown.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2003-mile-marker-98/vault/wav/1-10-twin-moons-touchdown.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-10-twin-moons-touchdown.txt`

@@ -911,7 +911,7 @@ Human heat!
 
 
 ***
-### **escape-velocity-ad-astra-live-at-the-crucible.md**
+### **2-01-escape-velocity-ad-astra.md**
 ***
 
 **LORE NOTE:**
@@ -1102,7 +1102,7 @@ Thank you so much...
 
 
 ***
-### **apoapsis-live-at-the-crucible.md**
+### **2-02-apoapsis.md**
 ***
 
 **LORE NOTE:**
@@ -1120,7 +1120,7 @@ Having achieved escape velocity (`11.2 km/s`) to break free of Earth's gravity o
 
 
 ***
-### **second-apoapsis-live-at-the-crucible.md**
+### **2-03-second-apoapsis.md**
 ***
 
 **LORE NOTE:**
@@ -1138,7 +1138,7 @@ The second movement of **The Apoapsis Suite** from Disc 2 of 1997's *Hard Reset*
 
 
 ***
-### **the-spectrum-true-color-live-at-the-crucible.md**
+### **2-04-the-spectrum-true-color.md**
 ***
 
 **LORE NOTE:**
@@ -1206,7 +1206,7 @@ We finally found the color.
 
 
 ***
-### **1-12-moon-1-tidal-lock.md**
+### **2-05-moon-1-tidal-lock.md**
 ***
 
 **LORE NOTE:**
@@ -1277,7 +1277,7 @@ Tidal lock.
 
 
 ***
-### **moon-2-roche-limit-live-at-the-crucible.md**
+### **2-06-moon-2-roche-limit.md**
 ***
 
 **LORE NOTE:**
@@ -1354,7 +1354,7 @@ System failure.
 
 
 ***
-### **impact-mile-marker-98-live-at-the-crucible.md**
+### **2-07-impact-mile-marker-98.md**
 ***
 
 **LORE NOTE:**
@@ -1441,7 +1441,7 @@ Mile Marker 98.
 
 
 ***
-### **1-13-mayday-the-intercept.md**
+### **2-08-mayday-the-intercept.md**
 ***
 
 **LORE NOTE:**
@@ -1524,7 +1524,7 @@ The cavalry is here.
 
 
 ***
-### **star-city-orbital-ward-live-at-the-crucible.md**
+### **2-09-star-city-orbital-ward.md**
 ***
 
 **LORE NOTE:**
@@ -1616,7 +1616,7 @@ Star City dock.
 
 
 ***
-### **twin-moons-touchdown-live-at-the-crucible.md**
+### **2-10-twin-moons-touchdown.md**
 ***
 
 **LORE NOTE:**
@@ -1688,7 +1688,7 @@ Please exit safely, and welcome home.
 
 
 ***
-### **1-14-our-own-frequency.md**
+### **3-01-our-own-frequency.md**
 ***
 
 **LORE NOTE:**
@@ -1773,7 +1773,7 @@ Just you and me...
 
 
 ***
-### **1-15-brothers-keeper.md**
+### **3-02-brothers-keeper.md**
 ***
 
 **LORE NOTE:**
@@ -1868,7 +1868,7 @@ We keep each other grounded.
 
 
 ***
-### **1-16-safe-person.md**
+### **3-03-safe-person.md**
 ***
 
 **LORE NOTE:**
@@ -1937,7 +1937,7 @@ Always.
 
 
 ***
-### **still-your-safe-person-live-at-the-crucible.md**
+### **3-04-still-your-safe-person.md**
 ***
 
 **LORE NOTE:**
@@ -2052,7 +2052,7 @@ Always, Cass.
 
 
 ***
-### **1-17-echoes-in-the-wire.md**
+### **3-05-echoes-in-the-wire.md**
 ***
 
 **LORE NOTE:**
@@ -2127,7 +2127,7 @@ Still burning...
 
 
 ***
-### **1-18-saturday-night-lights-the-crucible.md**
+### **3-06-saturday-night-lights-the-crucible.md**
 ***
 
 **LORE NOTE:**
@@ -2238,7 +2238,7 @@ Under the Saturday night lights!
 
 
 ***
-### **1-19-progress-street-where-the-fire-began.md**
+### **3-07-progress-street-where-the-fire-began.md**
 ***
 
 **LORE NOTE:**
@@ -2344,7 +2344,7 @@ Five hearts beating as one!
 
 
 ***
-### **neon-on-the-huckleberry-trail-live-at-the-crucible.md**
+### **3-08-neon-on-the-huckleberry-trail.md**
 ***
 
 **LORE NOTE:**
@@ -2453,7 +2453,7 @@ You're on, Cass!
 
 
 ***
-### **1-20-neon-hearts.md**
+### **3-09-neon-hearts.md**
 ***
 
 **LORE NOTE:**
@@ -2519,7 +2519,7 @@ My neon heart...
 
 
 ***
-### **1-21-my-anchor-holds.md**
+### **3-10-my-anchor-holds.md**
 ***
 
 **LORE NOTE:**
@@ -2578,7 +2578,7 @@ My anchor holds...
 
 
 ***
-### **1-22-reignition-lights-up-on-progress-street.md**
+### **3-11-reignition-lights-up-on-progress-street.md**
 ***
 
 **LORE NOTE:**
@@ -2698,7 +2698,7 @@ The fire is back!
 
 
 ***
-### **1-23-last-bus-home-lights-out-on-progress-street.md**
+### **3-12-last-bus-home-lights-out-on-progress-street.md**
 ***
 
 **LORE NOTE:**
@@ -2796,7 +2796,7 @@ Goodnight, Forger Nation.
 
 
 ***
-### **electric-color-live-at-the-crucible.md**
+### **3-13-electric-color.md**
 ***
 
 **LORE NOTE:**

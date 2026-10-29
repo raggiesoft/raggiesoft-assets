@@ -31,7 +31,7 @@
 * **ISRC:** QT6HJ2647714
 * **Duration:** 4:44 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-01-nineteen-and-invincible.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-01-nineteen-and-invincible.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-nineteen-and-invincible.txt`
 
 2. A New Light
@@ -41,7 +41,7 @@
 * **ISRC:** QT6HJ2647715
 * **Duration:** 5:06 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-02-a-new-light.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-02-a-new-light.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-a-new-light.txt`
 
 3. Painted Smile
@@ -51,7 +51,7 @@
 * **ISRC:** QT6HJ2647716
 * **Duration:** 5:23 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-03-painted-smile.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-03-painted-smile.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-painted-smile.txt`
 
 4. The Unspoken Word
@@ -61,7 +61,7 @@
 * **ISRC:** QT6HJ2647717
 * **Duration:** 4:08 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-04-the-unspoken-word.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-04-the-unspoken-word.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-the-unspoken-word.txt`
 
 5. Westward, Broken
@@ -71,7 +71,7 @@
 * **ISRC:** QT6HJ2647718
 * **Duration:** 2:34 • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-05-westward-broken.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-05-westward-broken.wav` (✅ Ready)
 
 6. Nashville
 * **Name:** Nashville
@@ -80,7 +80,7 @@
 * **ISRC:** QT6HJ2647719
 * **Duration:** 5:33 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-06-nashville.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-06-nashville.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-nashville.txt`
 
 7. The Colby Turn
@@ -90,7 +90,7 @@
 * **ISRC:** QT6HJ2647720
 * **Duration:** 4:29 • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-07-the-colby-turn.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-07-the-colby-turn.wav` (✅ Ready)
 
 8. Mile High
 * **Name:** Mile High
@@ -99,7 +99,7 @@
 * **ISRC:** QT6HJ2647721
 * **Duration:** 5:28 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-08-mile-high.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-08-mile-high.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-08-mile-high.txt`
 
 9. Pressure & Lies
@@ -109,7 +109,7 @@
 * **ISRC:** QT6HJ2647722
 * **Duration:** 5:02 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-09-pressure-and-lies.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-09-pressure-and-lies.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-09-pressure-and-lies.txt`
 
 10. The Idaho Line
@@ -119,7 +119,7 @@
 * **ISRC:** QT6HJ2647723
 * **Duration:** 5:17 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-10-the-idaho-line.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-10-the-idaho-line.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-10-the-idaho-line.txt`
 
 11. The High Desert
@@ -129,7 +129,7 @@
 * **ISRC:** QT6HJ2647724
 * **Duration:** 4:05 • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-11-the-high-desert.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-11-the-high-desert.wav` (✅ Ready)
 
 12. The Pasco Lock
 * **Name:** The Pasco Lock
@@ -138,7 +138,7 @@
 * **ISRC:** QT6HJ2647725
 * **Duration:** 3:58 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-12-the-pasco-lock.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-12-the-pasco-lock.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-12-the-pasco-lock.txt`
 
 13. The Ellensburg Burn
@@ -148,7 +148,7 @@
 * **ISRC:** QT6HJ2647726
 * **Duration:** 3:03 • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-13-the-ellensburg-burn.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-13-the-ellensburg-burn.wav` (✅ Ready)
 
 14. Stewart Street
 * **Name:** Stewart Street
@@ -157,7 +157,7 @@
 * **ISRC:** QT6HJ2647727
 * **Duration:** 5:17 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-14-stewart-street.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-14-stewart-street.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-14-stewart-street.txt`
 
 15. A Night in Kent
@@ -167,7 +167,7 @@
 * **ISRC:** QT6HJ2647728
 * **Duration:** 1:19 • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-15-a-night-in-kent.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-15-a-night-in-kent.wav` (✅ Ready)
 
 16. Shattered Voice, Silent Explosion
 * **Name:** Shattered Voice, Silent Explosion
@@ -176,5 +176,5 @@
 * **ISRC:** QT6HJ2647729
 * **Duration:** 3:59 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-16-shattered-voice-silent-explosion.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2001-static-and-silence-book-1/vault/wav/1-16-shattered-voice-silent-explosion.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-16-shattered-voice-silent-explosion.txt`

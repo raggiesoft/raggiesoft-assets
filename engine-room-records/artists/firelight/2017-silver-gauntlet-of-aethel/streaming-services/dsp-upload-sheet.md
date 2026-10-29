@@ -31,7 +31,7 @@
 * **ISRC:** QTAHP2600020
 * **Duration:** 4:19 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-01-a-sisters-love.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-01-a-sisters-love.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-a-sisters-love.txt`
 
 2. [Disc 1 • Track 2] The Scholar of the Twin Suns
@@ -41,7 +41,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-02-the-scholar-of-the-twin-suns.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-02-the-scholar-of-the-twin-suns.wav` (⏳ In Studio)
 
 3. [Disc 1 • Track 3] The Heresy of Order
 * **Name:** The Heresy of Order
@@ -50,7 +50,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-03-the-heresy-of-order.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-03-the-heresy-of-order.wav` (⏳ In Studio)
 
 4. [Disc 1 • Track 4] Flight of the Guardians
 * **Name:** Flight of the Guardians
@@ -59,7 +59,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-04-flight-of-the-guardians.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-04-flight-of-the-guardians.wav` (⏳ In Studio)
 
 5. [Disc 1 • Track 5] The Northern Wastes
 * **Name:** The Northern Wastes
@@ -68,7 +68,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-05-the-northern-wastes.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-05-the-northern-wastes.wav` (⏳ In Studio)
 
 6. [Disc 1 • Track 6] Foundlings of Sunstead
 * **Name:** Foundlings of Sunstead
@@ -77,7 +77,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-06-foundlings-of-sunstead.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-06-foundlings-of-sunstead.wav` (⏳ In Studio)
 
 7. [Disc 1 • Track 7] Hearth-Song (Lullaby)
 * **Name:** Hearth-Song (Lullaby)
@@ -86,7 +86,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-07-hearth-song-lullaby.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-07-hearth-song-lullaby.wav` (⏳ In Studio)
 
 8. [Disc 1 • Track 8] The Abduction
 * **Name:** The Abduction
@@ -95,7 +95,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-08-the-abduction.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-08-the-abduction.wav` (⏳ In Studio)
 
 9. [Disc 1 • Track 9] One Step at a Time (The Gauntlet's Path)
 * **Name:** One Step at a Time (The Gauntlet's Path)
@@ -104,7 +104,7 @@
 * **ISRC:** QTAHP2600021
 * **Duration:** 4:11 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-09-one-step-at-a-time.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-09-one-step-at-a-time.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-09-one-step-at-a-time.txt`
 
 10. [Disc 1 • Track 10] Sunken City of Sorrows
@@ -114,7 +114,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-10-sunken-city-of-sorrows.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-10-sunken-city-of-sorrows.wav` (⏳ In Studio)
 
 11. [Disc 1 • Track 11] The Whispering Woods
 * **Name:** The Whispering Woods
@@ -123,7 +123,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-11-the-whispering-woods.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/1-11-the-whispering-woods.wav` (⏳ In Studio)
 
 12. [Disc 2 • Track 1] Hunter and the Hunted
 * **Name:** Hunter and the Hunted
@@ -132,7 +132,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-01-hunter-and-the-hunted.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-01-hunter-and-the-hunted.wav` (⏳ In Studio)
 
 13. [Disc 2 • Track 2] A Cage of Silver Light
 * **Name:** A Cage of Silver Light
@@ -141,7 +141,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-02-a-cage-of-silver-light.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-02-a-cage-of-silver-light.wav` (⏳ In Studio)
 
 14. [Disc 2 • Track 3] Trial of the Crystal Spiders
 * **Name:** Trial of the Crystal Spiders
@@ -150,7 +150,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-03-trial-of-the-crystal-spiders.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-03-trial-of-the-crystal-spiders.wav` (⏳ In Studio)
 
 15. [Disc 2 • Track 4] Seeds of Rebellion
 * **Name:** Seeds of Rebellion
@@ -159,7 +159,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-04-seeds-of-rebellion.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-04-seeds-of-rebellion.wav` (⏳ In Studio)
 
 16. [Disc 2 • Track 5] The Tyrant's Throne (Shadow's Heart)
 * **Name:** The Tyrant's Throne (Shadow's Heart)
@@ -168,7 +168,7 @@
 * **ISRC:** QTAHP2600022
 * **Duration:** 7:06 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-05-the-tyrants-throne.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-05-the-tyrants-throne.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/2-05-the-tyrants-throne.txt`
 
 17. [Disc 2 • Track 6] Sacrifice or Queen?
@@ -178,7 +178,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-06-sacrifice-or-queen.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-06-sacrifice-or-queen.wav` (⏳ In Studio)
 
 18. [Disc 2 • Track 7] The Silverwing's Flight
 * **Name:** The Silverwing's Flight
@@ -187,7 +187,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-07-the-silverwings-flight.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-07-the-silverwings-flight.wav` (⏳ In Studio)
 
 19. [Disc 2 • Track 8] Guardian of the Bridge
 * **Name:** Guardian of the Bridge
@@ -196,7 +196,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-08-guardian-of-the-bridge.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-08-guardian-of-the-bridge.wav` (⏳ In Studio)
 
 20. [Disc 2 • Track 9] The Bridge of a Thousand Truths
 * **Name:** The Bridge of a Thousand Truths
@@ -205,7 +205,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-09-the-bridge-of-a-thousand-truths.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-09-the-bridge-of-a-thousand-truths.wav` (⏳ In Studio)
 
 21. [Disc 2 • Track 10] I Can't Live Without You (Kaela's Theme)
 * **Name:** I Can't Live Without You (Kaela's Theme)
@@ -214,7 +214,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-10-i-cant-live-without-you.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-10-i-cant-live-without-you.wav` (⏳ In Studio)
 
 22. [Disc 2 • Track 11] A Path of Light
 * **Name:** A Path of Light
@@ -223,7 +223,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-11-a-path-of-light.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/2-11-a-path-of-light.wav` (⏳ In Studio)
 
 23. [Disc 3 • Track 1] Embers of Hope
 * **Name:** Embers of Hope
@@ -232,7 +232,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-01-embers-of-hope.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-01-embers-of-hope.wav` (⏳ In Studio)
 
 24. [Disc 3 • Track 2] Hall of Shattered Heroes
 * **Name:** Hall of Shattered Heroes
@@ -241,7 +241,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-02-hall-of-shattered-heroes.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-02-hall-of-shattered-heroes.wav` (⏳ In Studio)
 
 25. [Disc 3 • Track 3] The Ascent
 * **Name:** The Ascent
@@ -250,7 +250,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-03-the-ascent.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-03-the-ascent.wav` (⏳ In Studio)
 
 26. [Disc 3 • Track 4] Reunion (The Highest Tower)
 * **Name:** Reunion (The Highest Tower)
@@ -259,7 +259,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-04-reunion-the-highest-tower.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-04-reunion-the-highest-tower.wav` (⏳ In Studio)
 
 27. [Disc 3 • Track 5] Battle of Wills
 * **Name:** Battle of Wills
@@ -268,7 +268,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-05-battle-of-wills.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-05-battle-of-wills.wav` (⏳ In Studio)
 
 28. [Disc 3 • Track 6] An Empathetic Victory
 * **Name:** An Empathetic Victory
@@ -277,7 +277,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-06-an-empathetic-victory.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-06-an-empathetic-victory.wav` (⏳ In Studio)
 
 29. [Disc 3 • Track 7] A New Dawn (Finale)
 * **Name:** A New Dawn (Finale)
@@ -286,7 +286,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-07-a-new-dawn-finale.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-07-a-new-dawn-finale.wav` (⏳ In Studio)
 
 30. [Disc 3 • Track 8] The Long Road Home
 * **Name:** The Long Road Home
@@ -295,7 +295,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-08-the-long-road-home.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-08-the-long-road-home.wav` (⏳ In Studio)
 
 31. [Disc 3 • Track 9] The Steward's Law
 * **Name:** The Steward's Law
@@ -304,7 +304,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-09-the-stewards-law.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-09-the-stewards-law.wav` (⏳ In Studio)
 
 32. [Disc 3 • Track 10] The Twin Suns' Hearth (Epilogue)
 * **Name:** The Twin Suns' Hearth (Epilogue)
@@ -313,4 +313,4 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-10-the-twin-suns-hearth-epilogue.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel/vault/wav/3-10-the-twin-suns-hearth-epilogue.wav` (⏳ In Studio)

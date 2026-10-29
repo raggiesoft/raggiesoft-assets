@@ -9,7 +9,7 @@
 
 ## Track 02: `This Side of Heaven (1988 Blacksburg Campus Cut)` — ⏳ Queued (`QTAHP2600028`)
 
-* **Canonical Narrative Tie-In:** *The Eleventh Child: The Story of Jordan* (`books/aubrie/e003/c001/p002.md` — January 11, 2015 CPI Move-In Day in Bennett Hall Suite 214/216)
+* **Canonical Narrative Tie-In:** *The Eleventh Child: The Story of Jordan* (`books/aubrie/e004/c001/p002.md` — January 11, 2015 CPI Move-In Day in Bennett Hall Suite 214/216)
 * **Generation Mode:** Fresh Suno v6 Generation
 * **Save Downloaded WAV As:** `/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/2016-the-forgers-call/1-02-this-side-of-heaven.wav`
 * **Vocal Gender UI Setting:** `Duet (Male & Female)` (Ryan & Cassidy O'Connell)

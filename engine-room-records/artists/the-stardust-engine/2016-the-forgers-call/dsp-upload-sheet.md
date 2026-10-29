@@ -31,7 +31,7 @@
 * **ISRC:** QTAHP2600044
 * **Duration:** 4:33 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-01-ignition-the-forgers-call.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-01-ignition-the-forgers-call.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-ignition-the-forgers-call.txt`
 
 2. This Side of Heaven
@@ -41,7 +41,7 @@
 * **ISRC:** QTAHP2600028
 * **Duration:** 0:00 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-02-this-side-of-heaven.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-02-this-side-of-heaven.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-this-side-of-heaven.txt`
 
 3. Kerosene & 4-Track Tape
@@ -51,7 +51,7 @@
 * **ISRC:** QTAHP2600029
 * **Duration:** 0:00 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-03-kerosene-and-4-track-tape.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-03-kerosene-and-4-track-tape.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-kerosene-and-4-track-tape.txt`
 
 4. The Anvil: 126.2 Decibels
@@ -61,7 +61,7 @@
 * **ISRC:** QTAHP2600030
 * **Duration:** 0:00 • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-04-the-anvil-126-2-decibels.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-04-the-anvil-126-2-decibels.wav` (⏳ In Studio)
 
 5. Snowfall on Commonwealth Green
 * **Name:** Snowfall on Commonwealth Green
@@ -70,7 +70,7 @@
 * **ISRC:** QTAHP2600031
 * **Duration:** 0:00 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-05-snowfall-on-commonwealth-green.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-05-snowfall-on-commonwealth-green.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-05-snowfall-on-commonwealth-green.txt`
 
 6. Under the Keystone Bridge
@@ -80,7 +80,7 @@
 * **ISRC:** QTAHP2600032
 * **Duration:** 0:00 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-06-under-the-keystone-bridge.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-06-under-the-keystone-bridge.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-under-the-keystone-bridge.txt`
 
 7. One Dollar on the Kitchen Table
@@ -90,7 +90,7 @@
 * **ISRC:** QTAHP2600033
 * **Duration:** 0:00 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-07-one-dollar-on-the-kitchen-table.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-07-one-dollar-on-the-kitchen-table.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-07-one-dollar-on-the-kitchen-table.txt`
 
 8. Copernicus Hall: Roof of the World
@@ -100,7 +100,7 @@
 * **ISRC:** QTAHP2600034
 * **Duration:** 0:00 • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-08-copernicus-hall-roof-of-the-world.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-08-copernicus-hall-roof-of-the-world.wav` (⏳ In Studio)
 
 9. Foundry Maroon & Molten Orange
 * **Name:** Foundry Maroon & Molten Orange
@@ -109,7 +109,7 @@
 * **ISRC:** QTAHP2600035
 * **Duration:** 0:00 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-09-foundry-maroon-and-molten-orange.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-09-foundry-maroon-and-molten-orange.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-09-foundry-maroon-and-molten-orange.txt`
 
 10. The Old Lady on the Hill
@@ -119,7 +119,7 @@
 * **ISRC:** QTAHP2600036
 * **Duration:** 0:00 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-10-the-old-lady-on-the-hill.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-10-the-old-lady-on-the-hill.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-10-the-old-lady-on-the-hill.txt`
 
 11. Cadence in The Furnace
@@ -129,7 +129,7 @@
 * **ISRC:** QTAHP2600037
 * **Duration:** 0:00 • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-11-cadence-in-the-furnace.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-11-cadence-in-the-furnace.wav` (⏳ In Studio)
 
 12. Ironstone & Starlight
 * **Name:** Ironstone & Starlight
@@ -138,7 +138,7 @@
 * **ISRC:** QTAHP2600038
 * **Duration:** 0:00 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-12-ironstone-and-starlight.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-12-ironstone-and-starlight.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-12-ironstone-and-starlight.txt`
 
 13. Walk-On: Tunnel to the Crucible
@@ -148,7 +148,7 @@
 * **ISRC:** QTAHP2600039
 * **Duration:** 0:00 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-13-walk-on-tunnel-to-the-crucible.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-13-walk-on-tunnel-to-the-crucible.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-13-walk-on-tunnel-to-the-crucible.txt`
 
 14. Living Room Reignition
@@ -158,7 +158,7 @@
 * **ISRC:** QTAHP2600040
 * **Duration:** 0:00 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-14-living-room-reignition.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-14-living-room-reignition.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-14-living-room-reignition.txt`
 
 15. Ad Astra, Per Aspera: Hymn for the Crucible
@@ -168,7 +168,7 @@
 * **ISRC:** QTAHP2600041
 * **Duration:** 0:00 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-15-ad-astra-per-aspera-hymn-for-the-crucible.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-15-ad-astra-per-aspera-hymn-for-the-crucible.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-15-ad-astra-per-aspera-hymn-for-the-crucible.txt`
 
 16. Ignition: The Forger's Call
@@ -178,5 +178,5 @@
 * **ISRC:** QTAHP2600045
 * **Duration:** 4:31 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-16-ignition-the-forgers-call-demo-take-3.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2016-the-forgers-call/vault/wav/1-16-ignition-the-forgers-call-demo-take-3.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-16-ignition-the-forgers-call-demo-take-3.txt`

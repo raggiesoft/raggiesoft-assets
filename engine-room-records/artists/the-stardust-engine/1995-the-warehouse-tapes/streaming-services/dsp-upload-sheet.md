@@ -31,7 +31,7 @@
 * **ISRC:** QZTB92611631
 * **Duration:** 3:56 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1995-the-warehouse-tapes/vault/wav/1-01-static.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1995-the-warehouse-tapes/vault/wav/1-01-static.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-static.txt`
 
 2. Garbage
@@ -41,7 +41,7 @@
 * **ISRC:** QZTB92611632
 * **Duration:** 1:49 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1995-the-warehouse-tapes/vault/wav/1-02-garbage.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1995-the-warehouse-tapes/vault/wav/1-02-garbage.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-garbage.txt`
 
 3. Not Your Saint
@@ -51,7 +51,7 @@
 * **ISRC:** QZTB92611633
 * **Duration:** 2:59 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1995-the-warehouse-tapes/vault/wav/1-03-not-your-saint.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1995-the-warehouse-tapes/vault/wav/1-03-not-your-saint.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-not-your-saint.txt`
 
 4. Atmosphere
@@ -61,7 +61,7 @@
 * **ISRC:** QZTB62697618
 * **Duration:** 5:01 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1995-the-warehouse-tapes/vault/wav/1-04-atmosphere-warehouse-demo.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1995-the-warehouse-tapes/vault/wav/1-04-atmosphere-warehouse-demo.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-atmosphere-warehouse-demo.txt`
 
 5. The Fortress
@@ -71,7 +71,7 @@
 * **ISRC:** QZTB62697619
 * **Duration:** 3:19 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1995-the-warehouse-tapes/vault/wav/1-05-the-fortress.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1995-the-warehouse-tapes/vault/wav/1-05-the-fortress.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-05-the-fortress.txt`
 
 6. Escape Velocity (Ad Astra)
@@ -81,5 +81,5 @@
 * **ISRC:** QZTB62697616
 * **Duration:** 15:33 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1995-the-warehouse-tapes/vault/wav/1-06-escape-velocity-ad-astra.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1995-the-warehouse-tapes/vault/wav/1-06-escape-velocity-ad-astra.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-escape-velocity-ad-astra.txt`

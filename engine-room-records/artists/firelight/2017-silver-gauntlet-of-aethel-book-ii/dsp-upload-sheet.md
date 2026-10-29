@@ -31,7 +31,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-01-hunter-and-the-hunted.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-01-hunter-and-the-hunted.wav` (⏳ In Studio)
 
 2. A Cage of Silver Light
 * **Name:** A Cage of Silver Light
@@ -40,7 +40,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-02-a-cage-of-silver-light.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-02-a-cage-of-silver-light.wav` (⏳ In Studio)
 
 3. Trial of the Crystal Spiders
 * **Name:** Trial of the Crystal Spiders
@@ -49,7 +49,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-03-trial-of-the-crystal-spiders.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-03-trial-of-the-crystal-spiders.wav` (⏳ In Studio)
 
 4. Seeds of Rebellion
 * **Name:** Seeds of Rebellion
@@ -58,7 +58,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-04-seeds-of-rebellion.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-04-seeds-of-rebellion.wav` (⏳ In Studio)
 
 5. The Tyrant's Throne (Shadow's Heart)
 * **Name:** The Tyrant's Throne (Shadow's Heart)
@@ -67,7 +67,7 @@
 * **ISRC:** QTAHP2600022
 * **Duration:** 7:06 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-05-the-tyrants-throne.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-05-the-tyrants-throne.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/2-05-the-tyrants-throne.txt`
 
 6. Sacrifice or Queen?
@@ -77,7 +77,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-06-sacrifice-or-queen.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-06-sacrifice-or-queen.wav` (⏳ In Studio)
 
 7. The Silverwing's Flight
 * **Name:** The Silverwing's Flight
@@ -86,7 +86,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-07-the-silverwings-flight.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-07-the-silverwings-flight.wav` (⏳ In Studio)
 
 8. Guardian of the Bridge
 * **Name:** Guardian of the Bridge
@@ -95,7 +95,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-08-guardian-of-the-bridge.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-08-guardian-of-the-bridge.wav` (⏳ In Studio)
 
 9. The Bridge of a Thousand Truths
 * **Name:** The Bridge of a Thousand Truths
@@ -104,7 +104,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-09-the-bridge-of-a-thousand-truths.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-09-the-bridge-of-a-thousand-truths.wav` (⏳ In Studio)
 
 10. I Can't Live Without You (Kaela's Theme)
 * **Name:** I Can't Live Without You (Kaela's Theme)
@@ -113,7 +113,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-10-i-cant-live-without-you.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-10-i-cant-live-without-you.wav` (⏳ In Studio)
 
 11. A Path of Light
 * **Name:** A Path of Light
@@ -122,4 +122,4 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-11-a-path-of-light.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/2017-silver-gauntlet-of-aethel-book-ii/vault/wav/2-11-a-path-of-light.wav` (⏳ In Studio)

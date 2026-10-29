@@ -1,6 +1,6 @@
 
 # The Arctic Symphony Project - Master Discography & Lore
-Compiled on: 10-28-2026 09:25:18 PM
+Compiled on: 10-29-2026 08:22:05 AM
 
 # A Symphony of Snow (1996)
 * **Narrative Era:** 1996
@@ -76,7 +76,7 @@ On this day!
 
 # Tales from the Solstice (2007)
 * **Narrative Era:** 2007
-* **Real-World DSP Release:** 2026-10-28
+* **Real-World DSP Release:** 2026-10-29
 
 ## Overture of the Frost
 ### Lore

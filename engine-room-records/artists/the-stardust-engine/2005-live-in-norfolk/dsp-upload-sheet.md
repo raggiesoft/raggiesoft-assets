@@ -31,7 +31,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-01-the-stardust-engine.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-01-the-stardust-engine.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-the-stardust-engine.txt`
 
 2. Progress Street: Where the Fire Began
@@ -41,7 +41,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-02-progress-street-where-the-fire-began.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-02-progress-street-where-the-fire-began.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-progress-street-where-the-fire-began.txt`
 
 3. Neon Pulse
@@ -51,7 +51,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-03-neon-pulse.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-03-neon-pulse.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-neon-pulse.txt`
 
 4. Impact: Mile Marker 98
@@ -61,7 +61,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-04-impact-mile-marker-98.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-04-impact-mile-marker-98.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-impact-mile-marker-98.txt`
 
 5. The Penumbra: Transit
@@ -71,7 +71,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-05-the-penumbra-transit.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-05-the-penumbra-transit.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-05-the-penumbra-transit.txt`
 
 6. Sanctuary: Zero-G
@@ -81,7 +81,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-06-sanctuary-zero-g.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-06-sanctuary-zero-g.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-sanctuary-zero-g.txt`
 
 7. Deep Pressure
@@ -91,7 +91,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-07-deep-pressure.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-07-deep-pressure.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-07-deep-pressure.txt`
 
 8. The Anchor's Hold
@@ -101,7 +101,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-08-the-anchors-hold.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-08-the-anchors-hold.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-08-the-anchors-hold.txt`
 
 9. No Hidden Gravity
@@ -111,7 +111,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-09-no-hidden-gravity.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-09-no-hidden-gravity.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-09-no-hidden-gravity.txt`
 
 10. Route 1: Midnight Headlights
@@ -121,7 +121,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-10-route-1-midnight-headlights.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-10-route-1-midnight-headlights.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-10-route-1-midnight-headlights.txt`
 
 11. Before the Distance
@@ -131,7 +131,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-11-before-the-distance.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-11-before-the-distance.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-11-before-the-distance.txt`
 
 12. Fifth Gear: The Architect's Shield
@@ -141,7 +141,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-12-fifth-gear-the-architects-shield.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-12-fifth-gear-the-architects-shield.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-12-fifth-gear-the-architects-shield.txt`
 
 13. Last Bus Home: Lights Out on Progress Street
@@ -151,7 +151,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-13-last-bus-home-lights-out-on-progress-street.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-13-last-bus-home-lights-out-on-progress-street.wav` (⏳ In Studio)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-13-last-bus-home-lights-out-on-progress-street.txt`
 
 14. Electric Color
@@ -161,5 +161,5 @@
 * **ISRC:** QTAHP2600027
 * **Duration:** 4:35 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-14-electric-color.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/2005-live-in-norfolk/vault/wav/1-14-electric-color.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-14-electric-color.txt`

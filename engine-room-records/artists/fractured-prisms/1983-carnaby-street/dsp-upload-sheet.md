@@ -31,7 +31,7 @@
 * **ISRC:** QZWFJ2690386
 * **Duration:** 4:49 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1983-carnaby-street/vault/wav/1-01-the-hollow-square.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1983-carnaby-street/vault/wav/1-01-the-hollow-square.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-the-hollow-square.txt`
 
 2. A Prophecy Unfolds
@@ -41,7 +41,7 @@
 * **ISRC:** QZWFJ2690387
 * **Duration:** 4:34 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1983-carnaby-street/vault/wav/1-02-a-prophecy-unfolds.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1983-carnaby-street/vault/wav/1-02-a-prophecy-unfolds.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-a-prophecy-unfolds.txt`
 
 3. Strangers in the Stream
@@ -51,7 +51,7 @@
 * **ISRC:** QZWFJ2690388
 * **Duration:** 4:25 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1983-carnaby-street/vault/wav/1-03-strangers-in-the-stream.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1983-carnaby-street/vault/wav/1-03-strangers-in-the-stream.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-03-strangers-in-the-stream.txt`
 
 4. The Masquerade
@@ -61,7 +61,7 @@
 * **ISRC:** QZWFJ2690389
 * **Duration:** 4:08 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1983-carnaby-street/vault/wav/1-04-the-masquerade.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1983-carnaby-street/vault/wav/1-04-the-masquerade.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-04-the-masquerade.txt`
 
 5. Fractured Prisms
@@ -71,7 +71,7 @@
 * **ISRC:** QZWFJ2690390
 * **Duration:** 3:54 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1983-carnaby-street/vault/wav/1-05-fractured-prisms.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1983-carnaby-street/vault/wav/1-05-fractured-prisms.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-05-fractured-prisms.txt`
 
 6. Mirrors of Yesterday
@@ -81,7 +81,7 @@
 * **ISRC:** QZWFJ2690391
 * **Duration:** 4:29 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1983-carnaby-street/vault/wav/1-06-mirrors-of-yesterday.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1983-carnaby-street/vault/wav/1-06-mirrors-of-yesterday.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-mirrors-of-yesterday.txt`
 
 7. The Fading Spark
@@ -91,7 +91,7 @@
 * **ISRC:** QZWFJ2690392
 * **Duration:** 3:27 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1983-carnaby-street/vault/wav/1-07-the-fading-spark.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1983-carnaby-street/vault/wav/1-07-the-fading-spark.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-07-the-fading-spark.txt`
 
 8. Kaleidoscope Sun
@@ -101,7 +101,7 @@
 * **ISRC:** QZWFJ2690393
 * **Duration:** 5:08 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1983-carnaby-street/vault/wav/1-08-kaleidoscope-sun.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1983-carnaby-street/vault/wav/1-08-kaleidoscope-sun.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-08-kaleidoscope-sun.txt`
 
 9. The Silent Storm
@@ -111,5 +111,5 @@
 * **ISRC:** QZWFJ2690394
 * **Duration:** 4:59 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1983-carnaby-street/vault/wav/1-09-the-silent-storm.wav` (✅ Ready)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/fractured-prisms/1983-carnaby-street/vault/wav/1-09-the-silent-storm.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-09-the-silent-storm.txt`
