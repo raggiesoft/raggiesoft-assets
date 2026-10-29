@@ -10,3 +10,4 @@
 - **Track 04:** [`1-04-if-you-walked-away-live-in-chicago.md`](./1-04-if-you-walked-away-live-in-chicago.md) — *If You Walked Away (Live in Chicago)*
 - **Track 05:** [`1-05-light-up-the-night-live-in-chicago.md`](./1-05-light-up-the-night-live-in-chicago.md) — *Light Up the Night (Live in Chicago)*
 - **Track 06:** [`1-06-my-anchor-holds-live-in-chicago.md`](./1-06-my-anchor-holds-live-in-chicago.md) — *My Anchor Holds (Live in Chicago)*
+- **Track 07:** [`1-07-electric-color-live-in-chicago.md`](./1-07-electric-color-live-in-chicago.md) — *Electric Color (Live in Chicago)*

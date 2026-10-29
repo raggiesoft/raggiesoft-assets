@@ -8,7 +8,7 @@
 * **Artist / Band Name:** `The Stardust Engine`
 * **Album Title:** `Live in Chicago`
 * **Release Type:** `Live Album` (`LiveAlbum`)
-* **Total Tracks:** `6` (`6` WAV Masters Ready / `0` In Studio)
+* **Total Tracks:** `7` (`7` WAV Masters Ready / `0` In Studio)
 * **Record Label:** `Engine Room Records`
 * **Primary Genre:** `Live Rock`
 * **In-Universe Release Date:** `1990-05-10`
@@ -22,7 +22,7 @@
 
 ---
 
-### Songs (6 Tracks)
+### Songs (7 Tracks)
 
 1. The Stardust Engine
 * **Name:** The Stardust Engine
@@ -83,3 +83,13 @@
 * **Songwriter (Lyricist):** Michael P. Ragsdale
 * **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1990-live-in-chicago/vault/wav/1-06-my-anchor-holds-live-in-chicago.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-06-my-anchor-holds-live-in-chicago.txt`
+
+7. Electric Color
+* **Name:** Electric Color
+* **Version:** Live in Chicago
+* **ID3 / Vorbis Tagged Title:** `Electric Color (Live in Chicago)`
+* **ISRC:** QTAHP2600060
+* **Duration:** 3:27 • **Instrumental:** No • **Explicit:** No
+* **Songwriter (Lyricist):** Michael P. Ragsdale
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/1990-live-in-chicago/vault/wav/1-07-electric-color-live-in-chicago.wav` (✅ Ready)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/1-07-electric-color-live-in-chicago.txt`

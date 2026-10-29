@@ -87,8 +87,23 @@
       "suiteName": "",
       "suiteTrack": "",
       "duration": "4:18",
-      "legacyTier": "Final Standing Encore",
+      "legacyTier": "Live Ballad",
       "loreNote": "A love letter between siblings disguised as a power ballad. While Apex Records marketed this as a romantic duet to sell records, the \"Ironheads\" in the audience knew the truth. When Ryan and Cassidy sang this to each other on stage, it wasn't about romance; it was about survival. It was their public promise that no matter what the studio threw at them, they would be each other's anchor in the storm."
+    },
+    {
+      "fileName": "1-07-electric-color-live-in-chicago",
+      "title": "Electric Color",
+      "version": "Live in Chicago",
+      "isrc": "QTAHP2600060",
+      "masterWavPath": "live/1990-chicago/1-07-electric-color-live-in-chicago",
+      "disc": 1,
+      "discName": "",
+      "track": 7,
+      "suiteName": "",
+      "suiteTrack": "",
+      "duration": "3:27",
+      "legacyTier": "Final Standing Encore",
+      "loreNote": "The Grand Finale. Because The Stardust Engine was the opening act with a strict 30-minute slot, there was no \"fake exit\" or encore. They had to transition straight from the emotional weight of \"My Anchor Holds\" directly into this high-energy closer. The performance is frantic and joyful, designed to leave the audience buzzing for the headliner while proving that the \"opening act\" could steal the show."
     }
   ]
 }

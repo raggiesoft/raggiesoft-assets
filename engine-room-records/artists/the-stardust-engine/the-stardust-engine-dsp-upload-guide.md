@@ -200,6 +200,12 @@
 * ID3 / Vorbis Tag: My Anchor Holds (Live in Chicago)
 * ISRC: QTAHP2600013
 
+7. Electric Color
+* Name: Electric Color
+* Version: Live in Chicago
+* ID3 / Vorbis Tag: Electric Color (Live in Chicago)
+* ISRC: QTAHP2600060
+
 ---
 ## The Warehouse Tapes (1995) — Studio Album
 * **Album Folder:** `1995-the-warehouse-tapes` • **UPC:** `825626429581` • **Genre:** `80s Rock`
