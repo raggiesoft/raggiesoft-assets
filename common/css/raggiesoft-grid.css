@@ -14,6 +14,8 @@
 :root,
 [data-theme="light"],
 [data-bs-theme="light"] {
+  /* Modern Web Guidance (dark-mode): Apply color-scheme to :root / html for viewport-wide theming */
+  color-scheme: light;
   --rg-gutter-x: 1.5rem;
   --rg-gutter-y: 0;
 
@@ -31,6 +33,12 @@
   --bs-warning: #b45309;
   --bs-info: #0369a1;
   --bs-secondary-rgb: 71, 85, 105;
+
+  /* Synchronize DaisyUI 5 root canvas tokens with RaggieSoft body palette so html & body never diverge */
+  --root-bg: var(--bs-body-bg);
+  --color-base-100: var(--bs-body-bg);
+  --color-base-200: var(--bs-tertiary-bg);
+  --color-base-300: var(--bs-border-color);
 
   /* Legacy variable aliases for backward-compatible inline styles */
   --wa-font-sans: system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
@@ -55,6 +63,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]):not([data-bs-theme="light"]) {
+    color-scheme: dark;
     --bs-body-bg: #0b0f19;
     --bs-body-color: #f1f5f9;
     --bs-tertiary-bg: #111827;
@@ -68,11 +77,16 @@
     --bs-warning: #fbbf24;
     --bs-info: #38bdf8;
     --wa-color-surface-lowered: #070a12;
+    --root-bg: var(--bs-body-bg);
+    --color-base-100: var(--bs-body-bg);
+    --color-base-200: var(--bs-tertiary-bg);
+    --color-base-300: var(--bs-border-color);
   }
 }
 
 [data-theme="dark"],
 [data-bs-theme="dark"] {
+  color-scheme: dark;
   --bs-body-bg: #0b0f19;
   --bs-body-color: #f1f5f9;
   --bs-tertiary-bg: #111827;
@@ -86,14 +100,31 @@
   --bs-warning: #fbbf24;
   --bs-info: #38bdf8;
   --wa-color-surface-lowered: #070a12;
+  --root-bg: var(--bs-body-bg);
+  --color-base-100: var(--bs-body-bg);
+  --color-base-200: var(--bs-tertiary-bg);
+  --color-base-300: var(--bs-border-color);
 }
 
-/* Global body resets */
+/* Global root & body resets — ensure html and body share identical canvas background and body grows past 100vh */
+html {
+  min-height: 100%;
+  background-color: var(--bs-body-bg);
+  color: var(--bs-body-color);
+}
+
 body {
+  min-height: 100vh;
   margin: 0;
   font-family: var(--wa-font-sans);
   background-color: var(--bs-body-bg);
   color: var(--bs-body-color);
+}
+
+/* Prevent body.h-100 from clamping the document flex container to 100vh when content scrolls */
+body.h-100 {
+  height: auto !important;
+  min-height: 100vh !important;
 }
 
 /* Container */
