@@ -6,16 +6,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/stardust-engine.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "13.8 MB",
-        "pdf": "15.4 MB",
+        "epub": "14.6 MB",
+        "pdf": "16.2 MB",
         "text_epub": "145 KB",
         "text_pdf": "447 KB",
-        "epub_bytes": 14512277,
-        "pdf_bytes": 16150491,
-        "text_epub_bytes": 148711,
-        "text_pdf_bytes": 457267
+        "epub_bytes": 15335482,
+        "pdf_bytes": 16990190,
+        "text_epub_bytes": 148799,
+        "text_pdf_bytes": 457493
     },
-    "illustration_count": 20,
+    "illustration_count": 21,
     "eras": [
         {
             "era_num": 1,
@@ -398,7 +398,7 @@
             "era_num": 7,
             "era_title": "Book 7: The Nine-Figure Refusal & The Jessica Miller Center (2018\u20132019)",
             "era_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019",
-            "illustration_count": 7,
+            "illustration_count": 8,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -486,7 +486,7 @@
                     "chap_num": 4,
                     "chap_title": "Chapter 4: The Jessica Miller Center & The Frost Interview (December 2018\u2013February 2019)",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-4-the-jessica-miller-center-the-frost-interview-december-2018-february-2019",
-                    "illustration_count": 3,
+                    "illustration_count": 4,
                     "parts": [
                         {
                             "part_num": 1,
@@ -496,9 +496,13 @@
                             "date": "2019-02-14",
                             "start_time": "10:00",
                             "location": "The Jessica Miller Center, 2000 Avenue of the Stars, Floors 38\u201340, Century City, Los Angeles, CA",
-                            "image": "/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/jessica-miller.jpg",
-                            "image_alt": "Twenty-year-old Executive Director Jessica Miller seated comfortably in her titanium manual wheelchair wearing blue jeans, sneakers, black-framed glasses, and a black The Stardust Engine t-shirt, holding her mPad angled toward herself in front of the warm cork-paneled wall reading 'The Jessica Miller Center.' on Floor 38 of 2000 Avenue of the Stars in Century City, Los Angeles.",
+                            "image": "/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/frost-former-office-quiet-floor.jpg",
+                            "image_alt": "Photorealistic scene inside Jameson Frost's former 40th-floor corner office at 2000 Avenue of the Stars\u2014now reborn as Zone C of The Quiet Floor\u2014during a private tour ahead of the official ribbon-cutting, showing 20-year-old Executive Director Jessica Miller in her titanium manual wheelchair and Chief Systems Architect Justin Miller (holding his mPad Mini angled toward his own eyes with the solid unbranded aluminum back facing outward) leading 51-year-old Cassidy O'Connell (reaching up in wide-eyed child-like wonder toward the 12-foot living emerald moss and Boston fern wall), 54-year-old Ryan O'Connell in his matte-black manual wheelchair smiling up at his sister, 49-year-old Holly O'Connell holding her Florentine leather briefcase, and twin cousins Evan and Tyler Wright beneath the constellation pin-light ceiling.",
                             "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/frost-former-office-quiet-floor.jpg",
+                                    "alt": "Photorealistic scene inside Jameson Frost's former 40th-floor corner office at 2000 Avenue of the Stars\u2014now reborn as Zone C of The Quiet Floor\u2014during a private tour ahead of the official ribbon-cutting, showing 20-year-old Executive Director Jessica Miller in her titanium manual wheelchair and Chief Systems Architect Justin Miller (holding his mPad Mini angled toward his own eyes with the solid unbranded aluminum back facing outward) leading 51-year-old Cassidy O'Connell (reaching up in wide-eyed child-like wonder toward the 12-foot living emerald moss and Boston fern wall), 54-year-old Ryan O'Connell in his matte-black manual wheelchair smiling up at his sister, 49-year-old Holly O'Connell holding her Florentine leather briefcase, and twin cousins Evan and Tyler Wright beneath the constellation pin-light ceiling."
+                                },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/jessica-miller.jpg",
                                     "alt": "Twenty-year-old Executive Director Jessica Miller seated comfortably in her titanium manual wheelchair wearing blue jeans, sneakers, black-framed glasses, and a black The Stardust Engine t-shirt, holding her mPad angled toward herself in front of the warm cork-paneled wall reading 'The Jessica Miller Center.' on Floor 38 of 2000 Avenue of the Stars in Century City, Los Angeles."
@@ -512,7 +516,7 @@
                                     "alt": "Inside the glass-walled Floor 38 office of The Jessica Miller Center in Century City, silver-haired Jameson Frost sits across the height-adjustable desk from twenty-year-old Executive Director Jessica Miller (in her manual wheelchair eating a lunch taco in her black The Stardust Engine t-shirt) while Justin Miller stands beside her holding his mPad Mini."
                                 }
                             ],
-                            "image_count": 3
+                            "image_count": 4
                         }
                     ]
                 }
