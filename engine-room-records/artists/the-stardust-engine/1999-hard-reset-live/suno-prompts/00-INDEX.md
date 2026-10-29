@@ -27,7 +27,7 @@
 * **Album:** *Hard Reset Live* (`temporalCoverage: "1999-11-20"`)
 * **Genre:** 1980s-Rooted Arena Rock / Progressive Synth-Rock (Live Concert Recording)
 * **Raw Master WAV Destination Directory:**
-  `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/live/1999-hard-reset-live/`
+  `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/live/1999-hard-reset-live/`
   *(Note: Track 01 is currently stored at `raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/live/1999-har-reset-live/1-01-the-stardust-engine.wav` — `4:57.96`)*
 
 ---

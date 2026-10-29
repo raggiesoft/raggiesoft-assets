@@ -8,7 +8,7 @@
 * **Concert Date & Venue:** Saturday, May 21, 2016 • **The Crucible** (Blacksburg, VA — 65,000+ open-air stadium)
 * **Lead Vocalist:** Cassidy O'Connell (`[female]` solo lead showcase, with Ryan O'Connell's atmospheric space-rock guitar swells & Evan Wright's spotlight sliding fretless bass solo)
 * **Save Downloaded Master WAV As:**
-  `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/live/2016-live-at-the-crucible/2-05-moon-1-tidal-lock.wav`
+  `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/live/2016-live-at-the-crucible/2-05-moon-1-tidal-lock.wav`
 
 ---
 
@@ -17,9 +17,9 @@
 * **Generation Mode:** **Cover** of Studio Master
 * **Source Audio File to Upload:**
   * **Lossless Studio Master WAV:**
-    `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/moon-1-tidal-lock.wav`
+    `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/moon-1-tidal-lock.wav`
   * **Fast-Upload Web MP3 Alternative:**
-    `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-assets/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/web-mp3/1-01-moon-1-tidal-lock.mp3`
+    `/Users/michael/Developer/raggiesoft-servers/raggiesoft-assets/engine-room-records/artists/the-stardust-engine/2003-sanctuary-zero-g/web-mp3/1-01-moon-1-tidal-lock.mp3`
 * **Audio Influence:** **`75%`** *(locks onto the studio melody, chord progression, and tempo while allowing the open-air stadium acoustics, live fretless bass spotlight, and 65,000-fan Crucible atmosphere to bloom)*
 * **Style Influence:** **`90%`**
 * **Weirdness:** **`0%`**

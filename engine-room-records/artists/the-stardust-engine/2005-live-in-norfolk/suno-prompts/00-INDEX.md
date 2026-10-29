@@ -31,7 +31,7 @@
 * **Tour Era:** The 2003–2004 *Twin Moons* (*Sanctuary [Zero-G]* / *Mile Marker 98*) & *Progress Street* Tour
 * **Genre:** Live Arena Rock / 80s Cosmic Pop / Melodic Stadium Rock
 * **Raw Master WAV Destination Directory:**
-  `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/live/2005-live-in-norfolk/`
+  `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/live/2005-live-in-norfolk/`
 
 ---
 
@@ -108,7 +108,7 @@
 
 ## III. Ready-to-Paste Suno v6 Cover Prompt for Track 14: *Electric Color (Live in Norfolk)*
 
-* **Cover Seed WAV:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/electric-color.wav`
+* **Cover Seed WAV:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/electric-color.wav`
 * **Audio Influence:** `75%`
 * **Style Influence:** `90%`
 * **Weirdness:** `0%`

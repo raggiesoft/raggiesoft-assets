@@ -8,7 +8,7 @@
 * **Album:** *Reignition* (`2015-reignition` • `temporalCoverage: "2015-10-16"`)
 * **Genre:** 1980s AOR / Melodic Stadium Rock / 80s Cosmic Synth-Pop
 * **Raw Master WAV Destination Directory:**
-  `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/`
+  `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/`
 * **CRITICAL PRODUCTION ORDER:**
   ***Reignition* (2015) is the final studio prerequisite before completing 2016's *Live at the Crucible*** so that its comeback anthems can be included in the 2-hour career-spanning main set of *Live at the Crucible* (via the **75% Cover Audio Influence** workflow).
 

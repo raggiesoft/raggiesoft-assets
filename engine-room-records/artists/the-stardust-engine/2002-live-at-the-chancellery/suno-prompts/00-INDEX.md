@@ -30,7 +30,7 @@
 * **Venue:** **The Chancellery** (Charlottesville, Virginia — 15,000-seat enclosed indoor collegiate arena at *The University of the Piedmont* [UP], the in-universe John Paul Jones Arena)
 * **Genre:** Live Arena Rock / 1980s Synth-Rock / Progressive Pop
 * **Raw Master WAV Destination Directory:**
-  `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/live/2002-live-at-the-chancellery/`
+  `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/live/2002-live-at-the-chancellery/`
 
 ---
 

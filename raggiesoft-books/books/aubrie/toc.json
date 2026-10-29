@@ -6,28 +6,28 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "61.7 MB",
-        "pdf": "49.3 MB",
-        "text_epub": "969 KB",
+        "epub": "64.8 MB",
+        "pdf": "52.8 MB",
+        "text_epub": "970 KB",
         "text_pdf": "3.6 MB",
-        "epub_bytes": 64714914,
-        "pdf_bytes": 51728764,
-        "text_epub_bytes": 992477,
-        "text_pdf_bytes": 3768332
+        "epub_bytes": 67997075,
+        "pdf_bytes": 55363289,
+        "text_epub_bytes": 992961,
+        "text_pdf_bytes": 3769437
     },
-    "illustration_count": 60,
+    "illustration_count": 65,
     "eras": [
         {
             "era_num": 1,
             "era_title": "The Eleventh Child, Off to College",
             "era_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college",
-            "illustration_count": 9,
+            "illustration_count": 14,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Administrative Prelude & Early Move-In",
                     "chap_url": "/raggiesoft-books/books/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in",
-                    "illustration_count": 1,
+                    "illustration_count": 6,
                     "parts": [
                         {
                             "part_num": 1,
@@ -36,7 +36,16 @@
                             "url": "/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-1-an-extension-of-me",
                             "date": "2014-08-20",
                             "start_time": "08:00",
-                            "location": "Sinclair Residence, Virginia Beach, Virginia"
+                            "location": "Sinclair Residence, Virginia Beach, Virginia",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e001/c001/p001/an-extension-of-me.jpg",
+                            "image_alt": "Inside the dim hallway of the Sinclair house in Virginia Beach with the window blinds drawn shut, Aubrie Renee Sinclair\u2014with Aubrey's packed gym bag slung over her shoulder\u2014possessively straightens the collar of eighteen-year-old Aubrey Fuller's navy polo shirt as he sits motionless in his manual wheelchair with his backpack zipped shut on the floor beside him.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e001/c001/p001/an-extension-of-me.jpg",
+                                    "alt": "Inside the dim hallway of the Sinclair house in Virginia Beach with the window blinds drawn shut, Aubrie Renee Sinclair\u2014with Aubrey's packed gym bag slung over her shoulder\u2014possessively straightens the collar of eighteen-year-old Aubrey Fuller's navy polo shirt as he sits motionless in his manual wheelchair with his backpack zipped shut on the floor beside him."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -45,7 +54,16 @@
                             "url": "/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-2-the-drive-the-shared-bed",
                             "date": "2014-08-20",
                             "start_time": "10:00",
-                            "location": "I-64 West to Bowers Hill, U.S. Route 460 West to Roanoke, I-581 North, & Interstate 81 South to Christiansburg, Virginia"
+                            "location": "I-64 West to Bowers Hill, U.S. Route 460 West to Roanoke, I-581 North, & Interstate 81 South to Christiansburg, Virginia",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e001/c001/p002/the-drive-route-460.jpg",
+                            "image_alt": "Inside the front cabin of her sedan driving westbound along U.S. Route 460 across Southside Virginia, Aubrie Renee Sinclair grips the steering wheel and glares sideways in cold disapproval as eighteen-year-old Aubrey Fuller hunches inches from his bulky laptop in the passenger seat, squinting intensely to type his response.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e001/c001/p002/the-drive-route-460.jpg",
+                                    "alt": "Inside the front cabin of her sedan driving westbound along U.S. Route 460 across Southside Virginia, Aubrie Renee Sinclair grips the steering wheel and glares sideways in cold disapproval as eighteen-year-old Aubrey Fuller hunches inches from his bulky laptop in the passenger seat, squinting intensely to type his response."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 3,
@@ -54,7 +72,16 @@
                             "url": "/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-3-the-poly-pass-educational-accessibility",
                             "date": "2014-08-21",
                             "start_time": "11:00",
-                            "location": "University Card Center, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
+                            "location": "University Card Center, Commonwealth Polytechnic Institute, Blacksburg, Virginia",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e001/c001/p003/educational-accessibility-higgins.jpg",
+                            "image_alt": "Inside the Office of Educational Accessibility in Callahan Hall, counselor Ms. Higgins leans warmly across her desk to hand a Monday appointment card directly to eighteen-year-old Aubrey Fuller in his manual wheelchair while his mother, Aubrie Renee Sinclair, stands rigidly behind his chair clutching her purse in cold disapproval.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e001/c001/p003/educational-accessibility-higgins.jpg",
+                                    "alt": "Inside the Office of Educational Accessibility in Callahan Hall, counselor Ms. Higgins leans warmly across her desk to hand a Monday appointment card directly to eighteen-year-old Aubrey Fuller in his manual wheelchair while his mother, Aubrie Renee Sinclair, stands rigidly behind his chair clutching her purse in cold disapproval."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 4,
@@ -63,7 +90,16 @@
                             "url": "/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-4-all-the-way",
                             "date": "2014-08-21",
                             "start_time": "15:00",
-                            "location": "Merit Inn & Hickory Barrel Old Country Store, Roanoke Street, Christiansburg, Virginia"
+                            "location": "Merit Inn & Hickory Barrel Old Country Store, Roanoke Street, Christiansburg, Virginia",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e001/c001/p004/hickory-barrel-all-the-way.jpg",
+                            "image_alt": "Inside the rustic timber dining room of the Hickory Barrel Old Country Store, eighteen-year-old Aubrey Fuller leans forward from his manual wheelchair to point his index finger at the fine print on the laminated menu for the waitress, right as his mother Aubrie Renee Sinclair reaches across the wooden table to fold the menu shut over his hand with a dismissive smile.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e001/c001/p004/hickory-barrel-all-the-way.jpg",
+                                    "alt": "Inside the rustic timber dining room of the Hickory Barrel Old Country Store, eighteen-year-old Aubrey Fuller leans forward from his manual wheelchair to point his index finger at the fine print on the laminated menu for the waitress, right as his mother Aubrie Renee Sinclair reaches across the wooden table to fold the menu shut over his hand with a dismissive smile."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 5,
@@ -90,7 +126,16 @@
                             "url": "/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-7-eleanor-bennett-commonwealth-hall",
                             "date": "2014-08-22",
                             "start_time": "07:30",
-                            "location": "Merit Inn, Christiansburg to Eleanor Bennett Commonwealth Hall, Blacksburg, Virginia"
+                            "location": "Merit Inn, Christiansburg to Eleanor Bennett Commonwealth Hall, Blacksburg, Virginia",
+                            "image": "/raggiesoft-books/images/scenes/aubrie/e001/c001/p007/a-real-college-kid-room-214.jpg",
+                            "image_alt": "Standing at the open hallway doorway of Bennett Hall Room 214, Aubrie Renee Sinclair puts on a bright, theatrical smile and waves goodbye for the hallway while leaving eighteen-year-old Aubrey Fuller stranded in his manual wheelchair beside a bare wooden desk, unmade dorm mattresses, his zipped backpack on the floor, and his unopened cardboard mailroom box.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/aubrie/e001/c001/p007/a-real-college-kid-room-214.jpg",
+                                    "alt": "Standing at the open hallway doorway of Bennett Hall Room 214, Aubrie Renee Sinclair puts on a bright, theatrical smile and waves goodbye for the hallway while leaving eighteen-year-old Aubrey Fuller stranded in his manual wheelchair beside a bare wooden desk, unmade dorm mattresses, his zipped backpack on the floor, and his unopened cardboard mailroom box."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 8,

@@ -5,7 +5,7 @@
 * **Original Studio Release:** 2003: *Mile Marker 98* (Track 08)
 * **Concert Date & Venue:** Saturday, May 21, 2016 • **The Crucible** (Blacksburg, VA — 65,000+ open-air stadium)
 * **Save Downloaded Master WAV As:**
-  `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/live/2016-live-at-the-crucible/2-09-star-city-orbital-ward.wav`
+  `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/live/2016-live-at-the-crucible/2-09-star-city-orbital-ward.wav`
 
 ---
 
@@ -13,7 +13,7 @@
 
 * **Generation Mode:** **Cover** of Studio Master
 * **Source Studio Master WAV to Upload:**
-  `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/star-city-orbital-ward.wav`
+  `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/star-city-orbital-ward.wav`
 * **Audio Influence:** **`75%`**
 * **Style Influence:** **`90%`**
 * **Weirdness:** **`0%`**

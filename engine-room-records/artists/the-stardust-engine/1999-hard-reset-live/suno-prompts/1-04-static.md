@@ -4,7 +4,7 @@
 * **Album:** *Hard Reset Live (1999)* (`1999-hard-reset-live`)
 * **Venue:** 1998–1999 Hard Reset Arena Tour
 * **Source Studio Master WAV for 75% Cover Mode:**
-  `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/static.wav`
+  `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/static.wav`
 * **Suno Cover Settings:** `Audio Influence: 75%` • `Style Influence: 90%` • `Weirdness: 0%`
 
 ---

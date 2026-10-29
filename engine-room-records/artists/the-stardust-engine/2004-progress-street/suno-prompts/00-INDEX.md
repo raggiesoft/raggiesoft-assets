@@ -8,7 +8,7 @@
 * **Album:** *Progress Street* (`2004-10-15`)
 * **Genre:** 1980s AOR / Melodic Stadium Rock / Synth-Rock
 * **Raw Master WAV Destination Directory:**
-  `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-assets/engine-room-records/artists/the-stardust-engine/master-wav/studio/`
+  `/Users/michael/Developer/raggiesoft-servers/raggiesoft-assets/engine-room-records/artists/the-stardust-engine/master-wav/studio/`
 
 ---
 

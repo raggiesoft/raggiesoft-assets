@@ -66,7 +66,7 @@ Each of the **34 concert tracks** in *Live at the Crucible* (`2016-live-at-the-c
 * **Venue:** **The Crucible** (Blacksburg, Virginia — CPI's 65,000+ seat open-air concrete-and-Ironstone football stadium; *"the LOUDEST house in ALL of College Football"*, protected by Jeremiah "Ironhead" Vance's 1995 $100M Acoustic Mandate Covenant)
 * **Genre:** Live Stadium Rock / 1980s AOR / Collegiate Marching Band Rock
 * **Raw Master WAV Destination Directory:**
-  `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/live/2016-live-at-the-crucible/`
+  `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/live/2016-live-at-the-crucible/`
 
 ---
 

@@ -4,7 +4,7 @@
 * **Album:** *Live at the Chancellery (2002)* (`2002-live-at-the-chancellery`)
 * **Venue:** The Chancellery Amphitheater (July 20, 2002)
 * **Source Studio Master WAV for 75% Cover Mode:**
-  `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/the-flight-path.wav`
+  `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/the-flight-path.wav`
 * **Suno Cover Settings:** `Audio Influence: 75%` • `Style Influence: 90%` • `Weirdness: 0%`
 
 ---

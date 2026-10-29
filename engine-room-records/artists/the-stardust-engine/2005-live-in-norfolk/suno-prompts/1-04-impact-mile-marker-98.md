@@ -4,7 +4,7 @@
 * **Album:** *Live in Norfolk (2005)* (`2005-live-in-norfolk`)
 * **Venue:** The Norfolk Prism Dome (November 12, 2004 — Last Road Show Before the 10-Year Burnout Hiatus)
 * **Source Studio Master WAV for 75% Cover Mode:**
-  `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/impact-mile-marker-98.wav`
+  `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-stardust-engine/master-wav/studio/impact-mile-marker-98.wav`
 * **Suno Cover Settings:** `Audio Influence: 75%` • `Style Influence: 90%` • `Weirdness: 0%`
 
 ---
