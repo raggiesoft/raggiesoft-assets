@@ -14,8 +14,128 @@
  *    like `.text-warning` (#ffc107) and `.text-info` (#0dcaf0) on light surfaces.
  * 3. Enforces strict image and card containment (`.aero-card-img-container img`)
  *    so high-resolution 4K assets never spill out of cards.
+ * 4. Styles the auto-expiring "Second Star to the Right" In Memoriam cosmic
+ *    tribute ribbon (`.rs-memoriam-bar`) honoring Sir Patrick Stewart
+ *    (July 13, 1940 – October 28, 2026), active across all RaggieSoft web
+ *    properties through November 28, 2026 (`2026-11-28T23:59:59-05:00`).
  * ============================================================================
  */
+
+/* ==========================================================================
+   0. Auto-Expiring "Second Star to the Right" In Memoriam Ribbon
+      Honoring Sir Patrick Stewart (July 13, 1940 – October 28, 2026)
+      Automatically injected by raggiesoft-network.js through 2026-11-28.
+   ========================================================================== */
+.rs-memoriam-bar {
+  width: 100%;
+  background: linear-gradient(90deg, #040711 0%, #0b132b 50%, #040711 100%) !important;
+  color: #f8fafc !important;
+  border-bottom: 1px solid rgba(251, 191, 36, 0.45) !important;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  font-size: 0.78rem;
+  line-height: 1.45;
+  z-index: 1054;
+  position: relative;
+}
+
+html[data-bs-theme="light"] .rs-memoriam-bar,
+html[data-theme="light"] .rs-memoriam-bar,
+html[data-color-scheme="light"] .rs-memoriam-bar {
+  background: linear-gradient(90deg, #0b1120 0%, #172554 50%, #0b1120 100%) !important;
+  color: #f8fafc !important;
+  border-bottom: 1px solid #d97706 !important;
+}
+
+.rs-memoriam-inner {
+  max-width: 1360px;
+  margin: 0 auto;
+  padding: 0.42rem 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.4rem 1rem;
+}
+
+.rs-memoriam-text {
+  margin: 0 !important;
+  padding: 0 !important;
+  color: #f1f5f9 !important;
+  font-size: 0.78rem;
+  line-height: 1.45;
+  text-wrap: pretty;
+}
+
+.rs-memoriam-star {
+  color: #fbbf24 !important;
+  margin-right: 0.35rem;
+  font-size: 0.85rem;
+}
+
+.rs-memoriam-label {
+  color: #fde68a !important;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.rs-memoriam-sep {
+  color: #94a3b8 !important;
+  margin: 0 0.35rem;
+}
+
+.rs-memoriam-quote {
+  color: #e2e8f0 !important;
+}
+
+.rs-memoriam-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  min-block-size: 26px;
+  padding: 0.2rem 0.65rem;
+  border-radius: 999px;
+  background-color: rgba(251, 191, 36, 0.14) !important;
+  color: #fde68a !important;
+  border: 1px solid rgba(251, 191, 36, 0.55) !important;
+  font-size: 0.74rem;
+  font-weight: 700;
+  text-decoration: none !important;
+  white-space: nowrap;
+  transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+.rs-memoriam-link:hover,
+.rs-memoriam-link:focus-visible {
+  background-color: #fbbf24 !important;
+  color: #090d16 !important;
+  border-color: #fbbf24 !important;
+}
+
+.rs-memoriam-link:focus-visible {
+  outline: 3px solid #38bdf8 !important;
+  outline-offset: 2px !important;
+}
+
+.rs-memoriam-link[aria-current="page"] {
+  background-color: rgba(56, 189, 248, 0.2) !important;
+  color: #7dd3fc !important;
+  border-color: rgba(56, 189, 248, 0.65) !important;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .rs-memoriam-link {
+    transition: none !important;
+  }
+}
+
+@media (max-width: 767.98px) {
+  .rs-memoriam-inner {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 0.35rem;
+    padding: 0.5rem 0.85rem;
+  }
+}
 
 /* ==========================================================================
    1. Omnidirectional RaggieSoft Network Bar (`.rs-network-bar`)
@@ -751,6 +871,7 @@ html[data-bs-theme="light"] .terminal-card .text-muted {
 }
 
 @media print {
+  .rs-memoriam-bar,
   .rs-network-bar,
   .rs-mobile-network-section {
     display: none !important;
@@ -770,14 +891,17 @@ html[data-bs-theme="light"] .terminal-card .text-muted {
        (display-mode: window-controls-overlay),
        (display-mode: minimal-ui),
        (display-mode: fullscreen) {
+  .rs-memoriam-bar,
   .rs-network-bar,
   .rs-mobile-network-section {
     display: none !important;
   }
 }
 
+html.is-pwa-standalone .rs-memoriam-bar,
 html.is-pwa-standalone .rs-network-bar,
 html.is-pwa-standalone .rs-mobile-network-section,
+body.is-pwa-standalone .rs-memoriam-bar,
 body.is-pwa-standalone .rs-network-bar,
 body.is-pwa-standalone .rs-mobile-network-section {
   display: none !important;

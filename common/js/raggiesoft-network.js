@@ -45,6 +45,25 @@
   'use strict';
 
   /**
+   * 30-Day Network-Wide In Memoriam Ribbon Expiration Timestamp
+   * Honoring Sir Patrick Stewart (July 13, 1940 – October 28, 2026).
+   * Automatically hides `.rs-memoriam-bar` across all RaggieSoft properties after
+   * November 28, 2026 at 23:59:59 EST (`2026-11-28T23:59:59-05:00`), even if not
+   * manually removed on November 29, 2026.
+   */
+  var MEMORIAM_EXPIRES_ISO = '2026-11-28T23:59:59-05:00';
+
+  function isMemoriamActive() {
+    try {
+      var expiryMs = Date.parse(MEMORIAM_EXPIRES_ISO);
+      if (isNaN(expiryMs)) return false;
+      return Date.now() <= expiryMs;
+    } catch (e) {
+      return false;
+    }
+  }
+
+  /**
    * Top-level RaggieSoft properties for the Mobile Network Switcher (4x2 balanced grid).
    */
   var NETWORK_SITES = [
@@ -360,8 +379,20 @@
       '@media (max-width: 1120px) { body.rs-has-primary-nav .rs-network-bar { display: none !important; } .rs-mobile-network-section[data-rs-breakpoint="1120"] { display: block !important; } #primary-navigation { max-height: calc(100vh - 4.5rem) !important; max-height: calc(100dvh - 4.5rem) !important; overflow-y: auto !important; overflow-x: hidden !important; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; padding-bottom: calc(3.25rem + env(safe-area-inset-bottom, 0px)) !important; } }',
       '@media (max-width: 767.98px) { body.rs-has-md-nav .rs-network-bar { display: none !important; } .rs-mobile-network-section[data-rs-breakpoint="768"] { display: block !important; } #header-navigation-panel, #navbarCollapse, #music-mobile-navigation, .rs-standalone-network-bar.is-open .rs-network-links { max-height: calc(100vh - 4.5rem) !important; max-height: calc(100dvh - 4.5rem) !important; overflow-y: auto !important; overflow-x: hidden !important; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; padding-bottom: calc(3.25rem + env(safe-area-inset-bottom, 0px)) !important; } .rs-standalone-network-bar { position: sticky !important; top: 0 !important; z-index: 1055 !important; } .rs-standalone-network-bar .rs-network-mobile-toggle { display: inline-flex !important; } .rs-standalone-network-bar .rs-network-links { display: none !important; width: 100%; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.4rem; padding-top: 0.5rem; margin-top: 0.35rem; border-top: 1px solid rgba(148, 163, 184, 0.28); } .rs-standalone-network-bar.is-open .rs-network-links { display: grid !important; } .rs-standalone-network-bar .rs-network-links > li > a, .rs-standalone-network-bar .rs-network-dropdown-toggle { width: 100% !important; min-height: 38px; padding: 0.4rem 0.6rem !important; background-color: rgba(30, 41, 59, 0.75) !important; border-color: rgba(148, 163, 184, 0.3) !important; justify-content: flex-start; } .rs-standalone-network-bar .rs-network-dropdown { display: flex !important; flex-direction: column; align-items: stretch; } .rs-standalone-network-bar .rs-network-dropdown.is-open { grid-column: 1 / -1; } .rs-standalone-network-bar .rs-network-dropdown-menu { position: static !important; width: 100% !important; margin-top: 0.35rem !important; box-shadow: none !important; } }',
       '.rs-mobile-network-section[data-rs-breakpoint="always"] { display: block !important; }',
-      '@media (display-mode: standalone), (display-mode: window-controls-overlay), (display-mode: minimal-ui), (display-mode: fullscreen) { .rs-network-bar, .rs-mobile-network-section { display: none !important; } }',
-      'html.is-pwa-standalone .rs-network-bar, html.is-pwa-standalone .rs-mobile-network-section, body.is-pwa-standalone .rs-network-bar, body.is-pwa-standalone .rs-mobile-network-section { display: none !important; }'
+      '.rs-memoriam-bar { width: 100%; background: linear-gradient(90deg, #040711 0%, #0b132b 50%, #040711 100%) !important; color: #f8fafc !important; border-bottom: 1px solid rgba(251, 191, 36, 0.45) !important; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 0.78rem; line-height: 1.45; z-index: 1054; position: relative; }',
+      'html[data-bs-theme="light"] .rs-memoriam-bar, html[data-theme="light"] .rs-memoriam-bar, html[data-color-scheme="light"] .rs-memoriam-bar { background: linear-gradient(90deg, #0b1120 0%, #172554 50%, #0b1120 100%) !important; color: #f8fafc !important; border-bottom: 1px solid #d97706 !important; }',
+      '.rs-memoriam-inner { max-width: 1360px; margin: 0 auto; padding: 0.42rem 1rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.4rem 1rem; }',
+      '.rs-memoriam-text { margin: 0 !important; padding: 0 !important; color: #f1f5f9 !important; font-size: 0.78rem; line-height: 1.45; text-wrap: pretty; }',
+      '.rs-memoriam-star { color: #fbbf24 !important; margin-right: 0.35rem; font-size: 0.85rem; }',
+      '.rs-memoriam-label { color: #fde68a !important; font-weight: 700; letter-spacing: 0.02em; }',
+      '.rs-memoriam-sep { color: #94a3b8 !important; margin: 0 0.35rem; }',
+      '.rs-memoriam-quote { color: #e2e8f0 !important; }',
+      '.rs-memoriam-link { display: inline-flex; align-items: center; gap: 0.3rem; min-block-size: 26px; padding: 0.2rem 0.65rem; border-radius: 999px; background-color: rgba(251, 191, 36, 0.14) !important; color: #fde68a !important; border: 1px solid rgba(251, 191, 36, 0.55) !important; font-size: 0.74rem; font-weight: 700; text-decoration: none !important; white-space: nowrap; transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease; }',
+      '.rs-memoriam-link:hover, .rs-memoriam-link:focus-visible { background-color: #fbbf24 !important; color: #090d16 !important; border-color: #fbbf24 !important; }',
+      '.rs-memoriam-link:focus-visible { outline: 3px solid #38bdf8 !important; outline-offset: 2px !important; }',
+      '@media (max-width: 767.98px) { .rs-memoriam-inner { flex-direction: column; align-items: flex-start; gap: 0.35rem; padding: 0.5rem 0.85rem; } }',
+      '@media (display-mode: standalone), (display-mode: window-controls-overlay), (display-mode: minimal-ui), (display-mode: fullscreen) { .rs-memoriam-bar, .rs-network-bar, .rs-mobile-network-section { display: none !important; } }',
+      'html.is-pwa-standalone .rs-memoriam-bar, html.is-pwa-standalone .rs-network-bar, html.is-pwa-standalone .rs-mobile-network-section, body.is-pwa-standalone .rs-memoriam-bar, body.is-pwa-standalone .rs-network-bar, body.is-pwa-standalone .rs-mobile-network-section { display: none !important; }'
     ].join('\n');
     document.head.appendChild(style);
   }
@@ -952,6 +983,80 @@
     }
   }
 
+  /**
+   * Injects or removes the auto-expiring "Second Star to the Right" In Memoriam
+   * cosmic tribute ribbon across all RaggieSoft web properties.
+   * Automatically expires after `2026-11-28T23:59:59-05:00` (30 days).
+   */
+  function syncMemoriamRibbon() {
+    if (!document.body) return;
+    var existingBars = document.querySelectorAll('.rs-memoriam-bar');
+
+    if (!isMemoriamActive() || isStandalonePwa()) {
+      for (var i = 0; i < existingBars.length; i++) {
+        if (existingBars[i] && existingBars[i].parentNode) {
+          existingBars[i].parentNode.removeChild(existingBars[i]);
+        }
+      }
+      return;
+    }
+
+    var currentHost = getCurrentHost();
+    var currentPath = getCurrentPathname();
+    var isTributePage =
+      currentHost === 'raggiesoft.com' &&
+      (currentPath === '/in-memoriam' || currentPath === '/about/in-memoriam');
+    var tributeHref =
+      currentHost === 'raggiesoft.com' ? '/in-memoriam' : 'https://raggiesoft.com/in-memoriam';
+
+    var innerHtml =
+      '<div class="rs-memoriam-inner">' +
+      '<p class="rs-memoriam-text">' +
+      '<span class="rs-memoriam-star" aria-hidden="true">✦</span>' +
+      '<strong class="rs-memoriam-label">In Memoriam: Sir Patrick Stewart (1940–2026)</strong>' +
+      '<span class="rs-memoriam-sep" aria-hidden="true">—</span>' +
+      '<span class="rs-memoriam-quote">&ldquo;Thank you for teaching a kid watching weeknight television with his family to look up at the cosmos and wonder what is out there. <em>Ad Astra.</em>&rdquo;</span>' +
+      '</p>' +
+      '<a href="' +
+      tributeHref +
+      '" class="rs-memoriam-link"' +
+      (isTributePage ? ' aria-current="page"' : '') +
+      (currentHost === 'raggiesoft.com' ? '' : ' data-no-spa="true"') +
+      '>' +
+      '<span>' +
+      (isTributePage ? 'Reading Creator&rsquo;s Tribute' : 'Read Creator&rsquo;s Tribute') +
+      '</span>' +
+      '<span aria-hidden="true">' +
+      (isTributePage ? '✦' : '→') +
+      '</span>' +
+      '</a>' +
+      '</div>';
+
+    if (existingBars.length > 0) {
+      existingBars[0].setAttribute('data-rs-memoriam-expires', MEMORIAM_EXPIRES_ISO);
+      existingBars[0].innerHTML = innerHtml;
+      return;
+    }
+
+    var ribbon = document.createElement('div');
+    ribbon.className = 'rs-memoriam-bar';
+    ribbon.setAttribute('data-rs-memoriam-expires', MEMORIAM_EXPIRES_ISO);
+    ribbon.innerHTML = innerHtml;
+
+    var networkBar = document.querySelector('.rs-network-bar');
+    if (networkBar && networkBar.parentNode) {
+      if (networkBar.nextSibling) {
+        networkBar.parentNode.insertBefore(ribbon, networkBar.nextSibling);
+      } else {
+        networkBar.parentNode.appendChild(ribbon);
+      }
+    } else if (document.body.firstChild) {
+      document.body.insertBefore(ribbon, document.body.firstChild);
+    } else {
+      document.body.appendChild(ribbon);
+    }
+  }
+
   function initRaggieSoftNetworkMenu() {
     ensureNetworkStylesInjected();
     ensureStandaloneExternalLinkRouting();
@@ -961,6 +1066,7 @@
     if (isStandalonePwa()) {
       document.documentElement.classList.add('is-pwa-standalone');
       document.body.classList.add('is-pwa-standalone');
+      syncMemoriamRibbon();
       var pwaBar = document.querySelector('.rs-network-bar');
       if (pwaBar) {
         pwaBar.hidden = true;
@@ -977,6 +1083,7 @@
     }
 
     upgradeDesktopNetworkBar();
+    syncMemoriamRibbon();
 
     /* 1. Group A: Properties using #primary-navigation (1120px mobile breakpoint) */
     var primaryNav = document.getElementById('primary-navigation');
