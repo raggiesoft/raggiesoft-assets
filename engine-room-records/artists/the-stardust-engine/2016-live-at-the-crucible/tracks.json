@@ -166,11 +166,11 @@
       "duration": "4:36"
     },
     {
-      "fileName": "escape-velocity-ad-astra-live-at-the-crucible",
+      "fileName": "2-01-escape-velocity-ad-astra",
       "title": "Escape Velocity (Ad Astra)",
       "version": "Live at the Crucible",
       "isrc": "QTAHP2600042",
-      "masterWavPath": "live/2016-live-at-the-crucible/escape-velocity-ad-astra-live-at-the-crucible",
+      "masterWavPath": "live/2016-live-at-the-crucible/2-01-escape-velocity-ad-astra",
       "disc": 2,
       "discName": "Ad Astra: The Twin Moons Live Suite",
       "track": 1,
@@ -181,11 +181,11 @@
       "loreNote": "**THE LIVE ALBUM PREMIERE — THE ONLY RECORDED LIVE CONCERT PERFORMANCE OF *\"ESCAPE VELOCITY (AD ASTRA)\"* IN THE BAND'S ENTIRE CATALOG.** Originally written and recorded by **Cassidy O'Connell** in 1995 during the financial struggle of the band's Wilderness Years (*The Warehouse Tapes*) and later featured as the closing magnum opus of 1997's *Hard Reset* (Disc 2: *The Twin Moons*), this monumental four-movement progressive symphonic rock suite (*Part I: The Cage*, *Part II: Ignition [Ad Astra]*, *Part III: The Cosmos*, and *Part IV: Re-entry [The New World]*)—commonly known to Stardust Engine fans simply as *\"Ad Astra\"* when referring to it informally—is Cassidy's autobiography and what she considers her single most important piece of work. Because it had not been written yet during 1990's *Live in Chicago* and was omitted from the tighter two-hour waterfront amphitheater setlist of 2005's *Live in Norfolk*, **2016's *Live at the Crucible* is the ONLY live album where you can experience *\"Escape Velocity (Ad Astra)\"* performed live**.\n\nTo open **Act III: *Cosmic Tidal Lock*** in astrophysical launch order (achieving the `11.2 km/s` escape velocity required to break free of Earth's gravity before coasting to *Apoapsis* and locking into *Moon 1: Tidal Lock*), all four towering stadium floodlight banks inside The Crucible shut off completely, plunging 65,000 fans into the pitch-black Appalachian starfield while overhead planetarium lasers and the 120-foot curved LED screen transform the bowl into deep space. Across **13 minutes and 3 seconds** of uninterrupted live musicianship with **The Orbital Crew**, Cassidy journeys from the suffocating trauma of the 1992 *Friction* trial (*\"The Shark was right, the nuke went off! / We won the battle, but at what cost?!\"*), through the roaring rocket liftoff of *Ignition* (`0:00–6:30`) and the stadium-shaking **Main Engine Cutoff** applause at `6:30`, into the weightless zero-gravity sanctuary of *The Cosmos* (`6:30–10:45`, where she sings the line that defines the band's 1986 origin: *\"This is the Stardust that is me! / The cosmos and the rocket's fire! / My one, my only true desire!\"*), and finally into the triumphant stadium splashdown of *Part IV: Re-entry* (`10:45–13:03`), where all 65,000 Forgers roar ***\"HELD BY THE SUN!\"*** in unison before Cassidy whispers a breathless, deeply moved ***\"Thank you so much...\"*** into the microphone—bringing her 26-year journey from 1990's *\"If You Walked Away\"* full circle under the Blacksburg stars."
     },
     {
-      "fileName": "apoapsis-live-at-the-crucible",
+      "fileName": "2-02-apoapsis",
       "title": "Apoapsis",
       "version": "Live at the Crucible",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/apoapsis-live-at-the-crucible",
+      "masterWavPath": "live/2016-live-at-the-crucible/2-02-apoapsis",
       "disc": 2,
       "discName": "Ad Astra: The Twin Moons Live Suite",
       "track": 2,
@@ -196,11 +196,11 @@
       "duration": "5:21"
     },
     {
-      "fileName": "second-apoapsis-live-at-the-crucible",
+      "fileName": "2-03-second-apoapsis",
       "title": "Second Apoapsis",
       "version": "Live at the Crucible",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/second-apoapsis-live-at-the-crucible",
+      "masterWavPath": "live/2016-live-at-the-crucible/2-03-second-apoapsis",
       "disc": 2,
       "discName": "Ad Astra: The Twin Moons Live Suite",
       "track": 3,
@@ -211,11 +211,11 @@
       "duration": "3:41"
     },
     {
-      "fileName": "the-spectrum-true-color-live-at-the-crucible",
+      "fileName": "2-04-the-spectrum-true-color",
       "title": "The Spectrum (True Color)",
       "version": "Live at the Crucible",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/the-spectrum-true-color-live-at-the-crucible",
+      "masterWavPath": "live/2016-live-at-the-crucible/2-04-the-spectrum-true-color",
       "disc": 2,
       "discName": "Ad Astra: The Twin Moons Live Suite",
       "track": 4,
@@ -226,11 +226,11 @@
       "duration": "7:54"
     },
     {
-      "fileName": "1-12-moon-1-tidal-lock",
+      "fileName": "2-05-moon-1-tidal-lock",
       "title": "Moon 1: Tidal Lock",
       "version": "Live at the Crucible",
-      "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/1-12-moon-1-tidal-lock",
+      "isrc": "QTAHP2600058",
+      "masterWavPath": "live/2016-live-at-the-crucible/2-05-moon-1-tidal-lock",
       "disc": 2,
       "discName": "Ad Astra: The Twin Moons Live Suite",
       "track": 5,
@@ -238,14 +238,14 @@
       "suiteTrack": "5",
       "legacyTier": "Chart Smash",
       "loreNote": "Culminating **Act III: *Cosmic Tidal Lock*** in astrophysical sequence (Escape Velocity $\\rightarrow$ Apoapsis $\\rightarrow$ Stable Orbital Capture), the stadium floodlights glow a deep cosmic indigo as Cassidy bathes all 65,000 fans in the signature anthem of **The Cosmic Tidal Lock Sound™** (from 1997's *Hard Reset* and 2003's *Sanctuary [Zero-G]*), turning the entire bowl of The Crucible into a weightless planetarium under the Blacksburg stars.",
-      "duration": "5:29"
+      "duration": "5:34"
     },
     {
-      "fileName": "moon-2-roche-limit-live-at-the-crucible",
+      "fileName": "2-06-moon-2-roche-limit",
       "title": "Moon 2: Roche Limit",
       "version": "Live at the Crucible",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/moon-2-roche-limit-live-at-the-crucible",
+      "masterWavPath": "live/2016-live-at-the-crucible/2-06-moon-2-roche-limit",
       "disc": 2,
       "discName": "Ad Astra: The Twin Moons Live Suite",
       "track": 6,
@@ -256,11 +256,11 @@
       "duration": "4:15"
     },
     {
-      "fileName": "impact-mile-marker-98-live-at-the-crucible",
+      "fileName": "2-07-impact-mile-marker-98",
       "title": "Impact (Mile Marker 98)",
       "version": "Live at the Crucible",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/impact-mile-marker-98-live-at-the-crucible",
+      "masterWavPath": "live/2016-live-at-the-crucible/2-07-impact-mile-marker-98",
       "disc": 2,
       "discName": "Ad Astra: The Twin Moons Live Suite",
       "track": 7,
@@ -271,11 +271,11 @@
       "duration": "4:49"
     },
     {
-      "fileName": "1-13-mayday-the-intercept",
+      "fileName": "2-08-mayday-the-intercept",
       "title": "Mayday: The Intercept",
       "version": "Live at the Crucible",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/1-13-mayday-the-intercept",
+      "masterWavPath": "live/2016-live-at-the-crucible/2-08-mayday-the-intercept",
       "disc": 2,
       "discName": "Ad Astra: The Twin Moons Live Suite",
       "track": 8,
@@ -286,11 +286,11 @@
       "duration": "5:03"
     },
     {
-      "fileName": "star-city-orbital-ward-live-at-the-crucible",
+      "fileName": "2-09-star-city-orbital-ward",
       "title": "Star City: Orbital Ward",
       "version": "Live at the Crucible",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/star-city-orbital-ward-live-at-the-crucible",
+      "masterWavPath": "live/2016-live-at-the-crucible/2-09-star-city-orbital-ward",
       "disc": 2,
       "discName": "Ad Astra: The Twin Moons Live Suite",
       "track": 9,
@@ -301,11 +301,11 @@
       "duration": "5:59"
     },
     {
-      "fileName": "twin-moons-touchdown-live-at-the-crucible",
+      "fileName": "2-10-twin-moons-touchdown",
       "title": "Twin Moons: Touchdown",
       "version": "Live at the Crucible",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/twin-moons-touchdown-live-at-the-crucible",
+      "masterWavPath": "live/2016-live-at-the-crucible/2-10-twin-moons-touchdown",
       "disc": 2,
       "discName": "Ad Astra: The Twin Moons Live Suite",
       "track": 10,
@@ -316,11 +316,11 @@
       "duration": "5:25"
     },
     {
-      "fileName": "1-14-our-own-frequency",
+      "fileName": "3-01-our-own-frequency",
       "title": "Our Own Frequency",
       "version": "Live at the Crucible",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/1-14-our-own-frequency",
+      "masterWavPath": "live/2016-live-at-the-crucible/3-01-our-own-frequency",
       "disc": 3,
       "discName": "Our Own Frequency & Saturday Night Lights: The Homecoming Finale",
       "track": 1,
@@ -331,11 +331,11 @@
       "duration": "3:24"
     },
     {
-      "fileName": "1-15-brothers-keeper",
+      "fileName": "3-02-brothers-keeper",
       "title": "Brother's Keeper",
       "version": "Live at the Crucible",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/1-15-brothers-keeper",
+      "masterWavPath": "live/2016-live-at-the-crucible/3-02-brothers-keeper",
       "disc": 3,
       "discName": "Our Own Frequency & Saturday Night Lights: The Homecoming Finale",
       "track": 2,
@@ -346,11 +346,11 @@
       "duration": "4:29"
     },
     {
-      "fileName": "1-16-safe-person",
+      "fileName": "3-03-safe-person",
       "title": "Safe Person",
       "version": "Live at the Crucible",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/1-16-safe-person",
+      "masterWavPath": "live/2016-live-at-the-crucible/3-03-safe-person",
       "disc": 3,
       "discName": "Our Own Frequency & Saturday Night Lights: The Homecoming Finale",
       "track": 3,
@@ -361,11 +361,11 @@
       "duration": "3:07"
     },
     {
-      "fileName": "still-your-safe-person-live-at-the-crucible",
+      "fileName": "3-04-still-your-safe-person",
       "title": "Still Your Safe Person",
       "version": "Live at the Crucible",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/still-your-safe-person-live-at-the-crucible",
+      "masterWavPath": "live/2016-live-at-the-crucible/3-04-still-your-safe-person",
       "disc": 3,
       "discName": "Our Own Frequency & Saturday Night Lights: The Homecoming Finale",
       "track": 4,
@@ -376,11 +376,11 @@
       "duration": "4:15"
     },
     {
-      "fileName": "1-17-echoes-in-the-wire",
+      "fileName": "3-05-echoes-in-the-wire",
       "title": "Echoes in the Wire",
       "version": "Live at the Crucible",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/1-17-echoes-in-the-wire",
+      "masterWavPath": "live/2016-live-at-the-crucible/3-05-echoes-in-the-wire",
       "disc": 3,
       "discName": "Our Own Frequency & Saturday Night Lights: The Homecoming Finale",
       "track": 5,
@@ -391,11 +391,11 @@
       "duration": "4:41"
     },
     {
-      "fileName": "1-18-saturday-night-lights-the-crucible",
+      "fileName": "3-06-saturday-night-lights-the-crucible",
       "title": "Saturday Night Lights: The Crucible",
       "version": "Live at the Crucible",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/1-18-saturday-night-lights-the-crucible",
+      "masterWavPath": "live/2016-live-at-the-crucible/3-06-saturday-night-lights-the-crucible",
       "disc": 3,
       "discName": "Our Own Frequency & Saturday Night Lights: The Homecoming Finale",
       "track": 6,
@@ -406,11 +406,11 @@
       "duration": "4:37"
     },
     {
-      "fileName": "1-19-progress-street-where-the-fire-began",
+      "fileName": "3-07-progress-street-where-the-fire-began",
       "title": "Progress Street: Where the Fire Began",
       "version": "Live at the Crucible",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/1-19-progress-street-where-the-fire-began",
+      "masterWavPath": "live/2016-live-at-the-crucible/3-07-progress-street-where-the-fire-began",
       "disc": 3,
       "discName": "Our Own Frequency & Saturday Night Lights: The Homecoming Finale",
       "track": 7,
@@ -421,11 +421,11 @@
       "duration": "4:31"
     },
     {
-      "fileName": "neon-on-the-huckleberry-trail-live-at-the-crucible",
+      "fileName": "3-08-neon-on-the-huckleberry-trail",
       "title": "Neon on the Huckleberry Trail",
       "version": "Live at the Crucible",
       "isrc": "QTAHP2600057",
-      "masterWavPath": "live/2016-live-at-the-crucible/neon-on-the-huckleberry-trail-live-at-the-crucible",
+      "masterWavPath": "live/2016-live-at-the-crucible/3-08-neon-on-the-huckleberry-trail",
       "disc": 3,
       "discName": "Our Own Frequency & Saturday Night Lights: The Homecoming Finale",
       "track": 8,
@@ -436,11 +436,11 @@
       "duration": "5:31"
     },
     {
-      "fileName": "1-20-neon-hearts",
+      "fileName": "3-09-neon-hearts",
       "title": "Neon Hearts",
       "version": "Live at the Crucible",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/1-20-neon-hearts",
+      "masterWavPath": "live/2016-live-at-the-crucible/3-09-neon-hearts",
       "disc": 3,
       "discName": "Our Own Frequency & Saturday Night Lights: The Homecoming Finale",
       "track": 9,
@@ -451,11 +451,11 @@
       "duration": "3:57"
     },
     {
-      "fileName": "1-21-my-anchor-holds",
+      "fileName": "3-10-my-anchor-holds",
       "title": "My Anchor Holds",
       "version": "Live at the Crucible",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/1-21-my-anchor-holds",
+      "masterWavPath": "live/2016-live-at-the-crucible/3-10-my-anchor-holds",
       "disc": 3,
       "discName": "Our Own Frequency & Saturday Night Lights: The Homecoming Finale",
       "track": 10,
@@ -466,11 +466,11 @@
       "duration": "5:02"
     },
     {
-      "fileName": "1-22-reignition-lights-up-on-progress-street",
+      "fileName": "3-11-reignition-lights-up-on-progress-street",
       "title": "Reignition: Lights Up on Progress Street",
       "version": "Live at the Crucible",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/1-22-reignition-lights-up-on-progress-street",
+      "masterWavPath": "live/2016-live-at-the-crucible/3-11-reignition-lights-up-on-progress-street",
       "disc": 3,
       "discName": "Our Own Frequency & Saturday Night Lights: The Homecoming Finale",
       "track": 11,
@@ -481,11 +481,11 @@
       "duration": "4:20"
     },
     {
-      "fileName": "1-23-last-bus-home-lights-out-on-progress-street",
+      "fileName": "3-12-last-bus-home-lights-out-on-progress-street",
       "title": "Last Bus Home: Lights Out on Progress Street",
       "version": "Live at the Crucible",
       "isrc": "",
-      "masterWavPath": "live/2016-live-at-the-crucible/1-23-last-bus-home-lights-out-on-progress-street",
+      "masterWavPath": "live/2016-live-at-the-crucible/3-12-last-bus-home-lights-out-on-progress-street",
       "disc": 3,
       "discName": "Our Own Frequency & Saturday Night Lights: The Homecoming Finale",
       "track": 12,
@@ -496,11 +496,11 @@
       "duration": "5:24"
     },
     {
-      "fileName": "electric-color-live-at-the-crucible",
+      "fileName": "3-13-electric-color",
       "title": "Electric Color",
       "version": "Live at the Crucible",
       "isrc": "QTAHP2600023",
-      "masterWavPath": "live/2016-live-at-the-crucible/electric-color-live-at-the-crucible",
+      "masterWavPath": "live/2016-live-at-the-crucible/3-13-electric-color",
       "disc": 3,
       "discName": "Our Own Frequency & Saturday Night Lights: The Homecoming Finale",
       "track": 13,

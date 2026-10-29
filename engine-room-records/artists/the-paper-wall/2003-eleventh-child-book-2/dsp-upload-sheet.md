@@ -41,8 +41,8 @@
 * **ISRC:** QT6HJ2652202
 * **Duration:** 4:26 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-2/vault/wav/1-01-the-paper-invasion-cp87a.wav` (✅ Ready)
-* **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-the-paper-invasion-cp87a.txt`
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/the-paper-wall/2003-eleventh-child-book-2/vault/wav/1-02-the-paper-invasion-cp87a.wav` (✅ Ready)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/1-02-the-paper-invasion-cp87a.txt`
 
 3. I-64 (The Gauntlet)
 * **Name:** I-64 (The Gauntlet)

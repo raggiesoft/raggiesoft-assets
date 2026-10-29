@@ -31,7 +31,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-01.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-01-a-sisters-love-main-theme.wav` (⏳ In Studio)
 
 2. The Architect's Lesson
 * **Name:** The Architect's Lesson
@@ -40,7 +40,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-02.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-02-the-architects-lesson.wav` (⏳ In Studio)
 
 3. Seraphina's Promise
 * **Name:** Seraphina's Promise
@@ -49,7 +49,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-03.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-03-seraphinas-promise.wav` (⏳ In Studio)
 
 4. The Fall of Sunstead
 * **Name:** The Fall of Sunstead
@@ -58,7 +58,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-04.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-04-the-fall-of-sunstead.wav` (⏳ In Studio)
 
 5. A World Without Suns
 * **Name:** A World Without Suns
@@ -67,7 +67,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-05.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-05-a-world-without-suns.wav` (⏳ In Studio)
 
 6. Blind Navigation
 * **Name:** Blind Navigation
@@ -76,7 +76,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-06.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-06-blind-navigation.wav` (⏳ In Studio)
 
 7. The Tyrant's Throne (Shadow's Heart)
 * **Name:** The Tyrant's Throne (Shadow's Heart)
@@ -85,7 +85,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-07.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-07-the-tyrants-throne-shadows-heart.wav` (⏳ In Studio)
 
 8. The Iron Heart (Action Cue)
 * **Name:** The Iron Heart (Action Cue)
@@ -94,7 +94,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-08.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-08-the-iron-heart-action-cue.wav` (⏳ In Studio)
 
 9. The Rescue (Theatrical Ending)
 * **Name:** The Rescue (Theatrical Ending)
@@ -103,7 +103,7 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-09.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-09-the-rescue-theatrical-ending.wav` (⏳ In Studio)
 
 10. Starlight Love (End Credits)
 * **Name:** Starlight Love (End Credits)
@@ -112,4 +112,4 @@
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** Yes • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-10.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/firelight/1987-silver-gauntlet-of-aethel/vault/wav/1-10-starlight-love-end-credits.wav` (⏳ In Studio)

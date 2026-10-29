@@ -21,37 +21,37 @@ Each of the **34 concert tracks** in *Live at the Crucible* (`2016-live-at-the-c
 
 - **Track 10:** [`1-10-the-contract.md`](./1-10-the-contract.md) — *The Contract (Live at the Crucible)*
 - **Track 11:** [`1-11-steel-and-synthetics.md`](./1-11-steel-and-synthetics.md) — *Steel and Synthetics (Live at the Crucible)*
-- **Track 12:** [`escape-velocity-ad-astra-live-at-the-crucible.md`](./escape-velocity-ad-astra-live-at-the-crucible.md) — *Escape Velocity (Ad Astra) (Live at the Crucible)*
-- **Track 13:** [`apoapsis-live-at-the-crucible.md`](./apoapsis-live-at-the-crucible.md) — *Apoapsis (Live at the Crucible)*
-- **Track 14:** [`second-apoapsis-live-at-the-crucible.md`](./second-apoapsis-live-at-the-crucible.md) — *Second Apoapsis (Live at the Crucible)*
-- **Track 15:** [`the-spectrum-true-color-live-at-the-crucible.md`](./the-spectrum-true-color-live-at-the-crucible.md) — *The Spectrum (True Color) (Live at the Crucible)*
-- **Track 16:** [`1-12-moon-1-tidal-lock.md`](./1-12-moon-1-tidal-lock.md) — *Moon 1: Tidal Lock (Live at the Crucible)*
+- **Track 12:** [`2-01-escape-velocity-ad-astra.md`](./2-01-escape-velocity-ad-astra.md) — *Escape Velocity (Ad Astra) (Live at the Crucible)*
+- **Track 13:** [`2-02-apoapsis.md`](./2-02-apoapsis.md) — *Apoapsis (Live at the Crucible)*
+- **Track 14:** [`second-2-02-apoapsis.md`](./second-2-02-apoapsis.md) — *Second Apoapsis (Live at the Crucible)*
+- **Track 15:** [`2-04-the-spectrum-true-color.md`](./2-04-the-spectrum-true-color.md) — *The Spectrum (True Color) (Live at the Crucible)*
+- **Track 16:** [`2-05-moon-1-tidal-lock.md`](./2-05-moon-1-tidal-lock.md) — *Moon 1: Tidal Lock (Live at the Crucible)*
 ### Act IV — Roche Limit & Mile Marker 98 (Moon 2)
 
-- **Track 17:** [`moon-2-roche-limit-live-at-the-crucible.md`](./moon-2-roche-limit-live-at-the-crucible.md) — *Moon 2: Roche Limit (Live at the Crucible)*
-- **Track 18:** [`impact-mile-marker-98-live-at-the-crucible.md`](./impact-mile-marker-98-live-at-the-crucible.md) — *Impact (Mile Marker 98) (Live at the Crucible)*
-- **Track 19:** [`1-13-mayday-the-intercept.md`](./1-13-mayday-the-intercept.md) — *Mayday: The Intercept (Live at the Crucible)*
-- **Track 20:** [`star-city-orbital-ward-live-at-the-crucible.md`](./star-city-orbital-ward-live-at-the-crucible.md) — *Star City (Orbital Ward) (Live at the Crucible)*
-- **Track 21:** [`twin-moons-touchdown-live-at-the-crucible.md`](./twin-moons-touchdown-live-at-the-crucible.md) — *Twin Moons (Touchdown) (Live at the Crucible)*
+- **Track 17:** [`2-06-moon-2-roche-limit.md`](./2-06-moon-2-roche-limit.md) — *Moon 2: Roche Limit (Live at the Crucible)*
+- **Track 18:** [`2-07-impact-mile-marker-98.md`](./2-07-impact-mile-marker-98.md) — *Impact (Mile Marker 98) (Live at the Crucible)*
+- **Track 19:** [`2-08-mayday-the-intercept.md`](./2-08-mayday-the-intercept.md) — *Mayday: The Intercept (Live at the Crucible)*
+- **Track 20:** [`2-09-star-city-orbital-ward.md`](./2-09-star-city-orbital-ward.md) — *Star City (Orbital Ward) (Live at the Crucible)*
+- **Track 21:** [`2-10-twin-moons-touchdown.md`](./2-10-twin-moons-touchdown.md) — *Twin Moons (Touchdown) (Live at the Crucible)*
 ### Act V — Our Own Frequency: Intimate Acoustic Block
 
-- **Track 22:** [`1-14-our-own-frequency.md`](./1-14-our-own-frequency.md) — *Our Own Frequency (Live at the Crucible)*
-- **Track 23:** [`1-15-brothers-keeper.md`](./1-15-brothers-keeper.md) — *Brother's Keeper (Live at the Crucible)*
-- **Track 24:** [`1-16-safe-person.md`](./1-16-safe-person.md) — *Safe Person (Live at the Crucible)*
-- **Track 25:** [`still-your-safe-person-live-at-the-crucible.md`](./still-your-safe-person-live-at-the-crucible.md) — *Still Your Safe Person (Live at the Crucible)*
+- **Track 22:** [`3-01-our-own-frequency.md`](./3-01-our-own-frequency.md) — *Our Own Frequency (Live at the Crucible)*
+- **Track 23:** [`3-02-brothers-keeper.md`](./3-02-brothers-keeper.md) — *Brother's Keeper (Live at the Crucible)*
+- **Track 24:** [`3-03-safe-person.md`](./3-03-safe-person.md) — *Safe Person (Live at the Crucible)*
+- **Track 25:** [`3-04-still-your-safe-person.md`](./3-04-still-your-safe-person.md) — *Still Your Safe Person (Live at the Crucible)*
 ### Act VI — Full-Band Electric Return & Homecoming Finale
 
-- **Track 26:** [`1-17-echoes-in-the-wire.md`](./1-17-echoes-in-the-wire.md) — *Echoes in the Wire (Live at the Crucible)*
-- **Track 27:** [`1-18-saturday-night-lights-the-crucible.md`](./1-18-saturday-night-lights-the-crucible.md) — *Saturday Night Lights: The Crucible (Live at the Crucible)*
-- **Track 28:** [`1-19-progress-street-where-the-fire-began.md`](./1-19-progress-street-where-the-fire-began.md) — *Progress Street: Where the Fire Began (Live at the Crucible)*
-- **Track 29:** [`neon-on-the-huckleberry-trail-live-at-the-crucible.md`](./neon-on-the-huckleberry-trail-live-at-the-crucible.md) — *Neon on the Huckleberry Trail (Live at the Crucible)*
-- **Track 30:** [`1-20-neon-hearts.md`](./1-20-neon-hearts.md) — *Neon Hearts (Live at the Crucible)*
-- **Track 31:** [`1-21-my-anchor-holds.md`](./1-21-my-anchor-holds.md) — *My Anchor Holds (Live at the Crucible)*
-- **Track 32:** [`1-22-reignition-lights-up-on-progress-street.md`](./1-22-reignition-lights-up-on-progress-street.md) — *Reignition: Lights Up on Progress Street (Live at the Crucible)*
-- **Track 33:** [`1-23-last-bus-home-lights-out-on-progress-street.md`](./1-23-last-bus-home-lights-out-on-progress-street.md) — *Last Bus Home: Lights Out on Progress Street (Live at the Crucible)*
+- **Track 26:** [`3-05-echoes-in-the-wire.md`](./3-05-echoes-in-the-wire.md) — *Echoes in the Wire (Live at the Crucible)*
+- **Track 27:** [`3-06-saturday-night-lights-the-crucible.md`](./3-06-saturday-night-lights-the-crucible.md) — *Saturday Night Lights: The Crucible (Live at the Crucible)*
+- **Track 28:** [`3-07-progress-street-where-the-fire-began.md`](./3-07-progress-street-where-the-fire-began.md) — *Progress Street: Where the Fire Began (Live at the Crucible)*
+- **Track 29:** [`3-08-neon-on-the-huckleberry-trail.md`](./3-08-neon-on-the-huckleberry-trail.md) — *Neon on the Huckleberry Trail (Live at the Crucible)*
+- **Track 30:** [`3-09-neon-hearts.md`](./3-09-neon-hearts.md) — *Neon Hearts (Live at the Crucible)*
+- **Track 31:** [`3-10-my-anchor-holds.md`](./3-10-my-anchor-holds.md) — *My Anchor Holds (Live at the Crucible)*
+- **Track 32:** [`3-11-reignition-lights-up-on-progress-street.md`](./3-11-reignition-lights-up-on-progress-street.md) — *Reignition: Lights Up on Progress Street (Live at the Crucible)*
+- **Track 33:** [`3-12-last-bus-home-lights-out-on-progress-street.md`](./3-12-last-bus-home-lights-out-on-progress-street.md) — *Last Bus Home: Lights Out on Progress Street (Live at the Crucible)*
 ### Act VI — The True Ending (with the 300-Piece CPI Marching Forgers)
 
-- **Track 34:** [`electric-color-live-at-the-crucible.md`](./electric-color-live-at-the-crucible.md) — *Electric Color (Live at the Crucible)*
+- **Track 34:** [`3-13-electric-color.md`](./3-13-electric-color.md) — *Electric Color (Live at the Crucible)*
 
 
 ---
@@ -97,23 +97,23 @@ Each of the **34 concert tracks** in *Live at the Crucible* (`2016-live-at-the-c
    - **Act III — The Vault (*Lost Sounds*) & Twin Moons Cosmic Block (Tracks 10–13):**
      10. **`1-10-the-contract` — `The Contract`** *(from 2007's *Lost Sounds*)*
      11. **`1-11-steel-and-synthetics` — `Steel and Synthetics`** *(from 2007's *Lost Sounds*)*
-     12. **`1-12-moon-1-tidal-lock` — `Moon 1: Tidal Lock`** *(from 1997's *Hard Reset* / 2003's *Sanctuary [Zero-G]*)*
-     13. **`1-13-mayday-the-intercept` — `Mayday: The Intercept`** *(from 2003's *Mile Marker 98*)*
+     12. **`2-05-moon-1-tidal-lock` — `Moon 1: Tidal Lock`** *(from 1997's *Hard Reset* / 2003's *Sanctuary [Zero-G]*)*
+     13. **`2-08-mayday-the-intercept` — `Mayday: The Intercept`** *(from 2003's *Mile Marker 98*)*
    - **Act V — *Our Own Frequency*: The Intimate Brother & Sister Acoustic Block & Residency Announcement (Disc 3, Tracks 01–04):**
-     14. **`1-14-our-own-frequency` — `Our Own Frequency`** *(from 2008's *Our Own Frequency* — Evan and Tyler leave the stage so Ryan and Cassidy can perform their secret 2008 Burnout Hiatus living-room songs live for the very first time on acoustic guitar and piano)*
-     15. **`1-15-brothers-keeper` — `Brother's Keeper`** *(from 2008's *Our Own Frequency* — **THE CENTERPIECE OF OUR OWN FREQUENCY**: an unflinchingly intimate look at what Cassidy and the family go through every day taking care of Ryan's ADLs due to his T10 paralysis, where Ryan announces that tonight is the final concert of a touring The Stardust Engine and Cassidy unveils the annual **Forger Nation Summer Festival** launching in August 2017)*
-     16. **`1-16-safe-person` — `Safe Person`** *(from 2008's *Our Own Frequency* — Ryan and Cassidy's intimate acoustic guitar and piano duet about Ryan acting as Cassidy's safe person and emotional anchor)*
-     16B. **`still-your-safe-person-live-at-the-crucible` — `Still Your Safe Person (Live at the Crucible)`** *(from 2015's *Reignition* — Stripped all the way down from the studio AOR power ballad to strictly Cassidy's acoustic grand piano and Ryan's fingerpicked acoustic guitar to close the *Our Own Frequency* living-room block as the seven-year sequel to *"Safe Person"*)*
+     14. **`3-01-our-own-frequency` — `Our Own Frequency`** *(from 2008's *Our Own Frequency* — Evan and Tyler leave the stage so Ryan and Cassidy can perform their secret 2008 Burnout Hiatus living-room songs live for the very first time on acoustic guitar and piano)*
+     15. **`3-02-brothers-keeper` — `Brother's Keeper`** *(from 2008's *Our Own Frequency* — **THE CENTERPIECE OF OUR OWN FREQUENCY**: an unflinchingly intimate look at what Cassidy and the family go through every day taking care of Ryan's ADLs due to his T10 paralysis, where Ryan announces that tonight is the final concert of a touring The Stardust Engine and Cassidy unveils the annual **Forger Nation Summer Festival** launching in August 2017)*
+     16. **`3-03-safe-person` — `Safe Person`** *(from 2008's *Our Own Frequency* — Ryan and Cassidy's intimate acoustic guitar and piano duet about Ryan acting as Cassidy's safe person and emotional anchor)*
+     16B. **`3-04-still-your-safe-person` — `Still Your Safe Person (Live at the Crucible)`** *(from 2015's *Reignition* — Stripped all the way down from the studio AOR power ballad to strictly Cassidy's acoustic grand piano and Ryan's fingerpicked acoustic guitar to close the *Our Own Frequency* living-room block as the seven-year sequel to *"Safe Person"*)*
    - **Act VI — Full-Band Electric Return, Saturday Night Lights & The Homecoming Sprint to the False Ending (Disc 3, Tracks 05–12):**
-     17. **`1-17-echoes-in-the-wire` — `Echoes in the Wire`** *(from 1997's *Hard Reset* — Starts at the grand piano before Evan and Tyler's full electric stadium band roars back in; permanently replacing the banned *"If You Walked Away"*)*
-     18. **`1-18-saturday-night-lights-the-crucible` — `Saturday Night Lights: The Crucible`** *(from 2004's *Progress Street* — **LIVE CONCERT DEBUT!** By sacred vow, this song will ONLY ever be played live at The Crucible)*
-     19. **`1-19-progress-street-where-the-fire-began` — `Progress Street: Where the Fire Began`** *(from 2004's *Progress Street*)*
-     19B. **`neon-on-the-huckleberry-trail-live-at-the-crucible` — `Neon on the Huckleberry Trail (Live at the Crucible)`** *(from 2015's *Reignition* — Hometown singalong for 65,000 fellow Forgers celebrating twilight walks and rides along the Huckleberry Trail while the stadium lights of The Crucible glow over the valley)*
-     20. **`1-20-neon-hearts` — `Neon Hearts`** *(from 1989's *Neon Hearts*)*
-     21. **`1-21-my-anchor-holds` — `My Anchor Holds`** *(from 1987's *Electric Color*)*
-     22. **`1-22-reignition-lights-up-on-progress-street` — `Reignition: Lights Up on Progress Street`** *(from 2015's *Reignition*)*
-     23. **`1-23-last-bus-home-lights-out-on-progress-street` — `Last Bus Home: Lights Out on Progress Street`** *(from 2004's *Progress Street* — **THE FALSE ENDING!** The band powers down the switches and the stadium goes pitch black)*
+     17. **`3-05-echoes-in-the-wire` — `Echoes in the Wire`** *(from 1997's *Hard Reset* — Starts at the grand piano before Evan and Tyler's full electric stadium band roars back in; permanently replacing the banned *"If You Walked Away"*)*
+     18. **`3-06-saturday-night-lights-the-crucible` — `Saturday Night Lights: The Crucible`** *(from 2004's *Progress Street* — **LIVE CONCERT DEBUT!** By sacred vow, this song will ONLY ever be played live at The Crucible)*
+     19. **`3-07-progress-street-where-the-fire-began` — `Progress Street: Where the Fire Began`** *(from 2004's *Progress Street*)*
+     19B. **`3-08-neon-on-the-huckleberry-trail` — `Neon on the Huckleberry Trail (Live at the Crucible)`** *(from 2015's *Reignition* — Hometown singalong for 65,000 fellow Forgers celebrating twilight walks and rides along the Huckleberry Trail while the stadium lights of The Crucible glow over the valley)*
+     20. **`3-09-neon-hearts` — `Neon Hearts`** *(from 1989's *Neon Hearts*)*
+     21. **`3-10-my-anchor-holds` — `My Anchor Holds`** *(from 1987's *Electric Color*)*
+     22. **`3-11-reignition-lights-up-on-progress-street` — `Reignition: Lights Up on Progress Street`** *(from 2015's *Reignition*)*
+     23. **`3-12-last-bus-home-lights-out-on-progress-street` — `Last Bus Home: Lights Out on Progress Street`** *(from 2004's *Progress Street* — **THE FALSE ENDING!** The band powers down the switches and the stadium goes pitch black)*
    - **Act VI — The True Ending (Track 24 — DOWNLOADED, HARPER-PACKAGED & LIVE, `ISRC: QTAHP2600023`):**
-     24. **`electric-color-live-at-the-crucible` — `Electric Color (Live at the Crucible)`** *(Massive `5:26` 1980s AOR / Stadium Rock Reclamation Version with the 300-piece **CPI Marching Forgers** marching back onto the stage in the dark!)*
+     24. **`3-13-electric-color` — `Electric Color (Live at the Crucible)`** *(Massive `5:26` 1980s AOR / Stadium Rock Reclamation Version with the 300-piece **CPI Marching Forgers** marching back onto the stage in the dark!)*
 
 ---

@@ -1,6 +1,6 @@
 
 # Fractured Prisms - Master Discography & Lore
-Compiled on: 10-27-2026 11:14:20 PM
+Compiled on: 10-28-2026 09:25:06 PM
 
 # Carnaby Street (1983)
 * **Narrative Era:** 1983
@@ -903,7 +903,7 @@ Hold the line.
 
 # Live at Independence Stadium (1985) [LiveAlbum]
 * **Narrative Era:** 1985
-* **Real-World DSP Release:** 2026-10-27
+* **Real-World DSP Release:** 2026-10-28
 
 ## The Hollow Square (Live at Independence Stadium)
 ### Lore

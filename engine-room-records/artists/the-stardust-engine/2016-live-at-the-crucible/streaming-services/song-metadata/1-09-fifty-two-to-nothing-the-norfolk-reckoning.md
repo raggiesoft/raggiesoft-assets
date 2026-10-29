@@ -6,7 +6,7 @@
 * **ID3 / Vorbis Tagged Title:** Fifty-Two to Nothing: The Norfolk Reckoning (Live at the Crucible)
 * **Primary Artist:** The Stardust Engine
 * **Genre:** Live Stadium Rock / 1980s AOR / Progressive Symphonic Space-Rock / Collegiate Marching Band Rock
-* **Real-World DSP Release Date:** 2026-10-26
+* **Real-World DSP Release Date:** 2026-10-28
 * **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
 
 **DistroKid AI Credits Questionnaire:**

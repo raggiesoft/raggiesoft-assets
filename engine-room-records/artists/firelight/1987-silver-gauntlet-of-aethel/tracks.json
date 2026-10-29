@@ -8,7 +8,11 @@
       "album": "The Silver Gauntlet of Aethel (1987 Theatrical Soundtrack)",
       "narrativeYear": "1987",
       "realReleaseDate": "2026-04-02",
-      "status": "Pending DSP"
+      "status": "Pending DSP",
+      "disc": 1,
+      "track": 1,
+      "fileName": "1-01-a-sisters-love-main-theme",
+      "masterWavPath": "studio/1987-silver-gauntlet-of-aethel/a-sisters-love-main-theme"
     },
     {
       "err_id": "ERR-004-1987-02",
@@ -19,7 +23,11 @@
       "album": "The Silver Gauntlet of Aethel (1987 Theatrical Soundtrack)",
       "narrativeYear": "1987",
       "realReleaseDate": "2026-04-02",
-      "status": "Pending DSP"
+      "status": "Pending DSP",
+      "disc": 1,
+      "track": 2,
+      "fileName": "1-02-the-architects-lesson",
+      "masterWavPath": "studio/1987-silver-gauntlet-of-aethel/the-architects-lesson"
     },
     {
       "err_id": "ERR-004-1987-03",
@@ -29,7 +37,11 @@
       "album": "The Silver Gauntlet of Aethel (1987 Theatrical Soundtrack)",
       "narrativeYear": "1987",
       "realReleaseDate": "2026-04-02",
-      "status": "Pending DSP"
+      "status": "Pending DSP",
+      "disc": 1,
+      "track": 3,
+      "fileName": "1-03-seraphinas-promise",
+      "masterWavPath": "studio/1987-silver-gauntlet-of-aethel/seraphinas-promise"
     },
     {
       "err_id": "ERR-004-1987-04",
@@ -39,7 +51,11 @@
       "album": "The Silver Gauntlet of Aethel (1987 Theatrical Soundtrack)",
       "narrativeYear": "1987",
       "realReleaseDate": "2026-04-02",
-      "status": "Pending DSP"
+      "status": "Pending DSP",
+      "disc": 1,
+      "track": 4,
+      "fileName": "1-04-the-fall-of-sunstead",
+      "masterWavPath": "studio/1987-silver-gauntlet-of-aethel/the-fall-of-sunstead"
     },
     {
       "err_id": "ERR-004-1987-05",
@@ -49,7 +65,11 @@
       "album": "The Silver Gauntlet of Aethel (1987 Theatrical Soundtrack)",
       "narrativeYear": "1987",
       "realReleaseDate": "2026-04-02",
-      "status": "Pending DSP"
+      "status": "Pending DSP",
+      "disc": 1,
+      "track": 5,
+      "fileName": "1-05-a-world-without-suns",
+      "masterWavPath": "studio/1987-silver-gauntlet-of-aethel/a-world-without-suns"
     },
     {
       "err_id": "ERR-004-1987-06",
@@ -59,7 +79,11 @@
       "album": "The Silver Gauntlet of Aethel (1987 Theatrical Soundtrack)",
       "narrativeYear": "1987",
       "realReleaseDate": "2026-04-02",
-      "status": "Pending DSP"
+      "status": "Pending DSP",
+      "disc": 1,
+      "track": 6,
+      "fileName": "1-06-blind-navigation",
+      "masterWavPath": "studio/1987-silver-gauntlet-of-aethel/blind-navigation"
     },
     {
       "err_id": "ERR-004-1987-07",
@@ -69,7 +93,11 @@
       "album": "The Silver Gauntlet of Aethel (1987 Theatrical Soundtrack)",
       "narrativeYear": "1987",
       "realReleaseDate": "2026-04-02",
-      "status": "Pending DSP"
+      "status": "Pending DSP",
+      "disc": 1,
+      "track": 7,
+      "fileName": "1-07-the-tyrants-throne-shadows-heart",
+      "masterWavPath": "studio/1987-silver-gauntlet-of-aethel/the-tyrants-throne-shadows-heart"
     },
     {
       "err_id": "ERR-004-1987-08",
@@ -79,7 +107,11 @@
       "album": "The Silver Gauntlet of Aethel (1987 Theatrical Soundtrack)",
       "narrativeYear": "1987",
       "realReleaseDate": "2026-04-02",
-      "status": "Pending DSP"
+      "status": "Pending DSP",
+      "disc": 1,
+      "track": 8,
+      "fileName": "1-08-the-iron-heart-action-cue",
+      "masterWavPath": "studio/1987-silver-gauntlet-of-aethel/the-iron-heart-action-cue"
     },
     {
       "err_id": "ERR-004-1987-09",
@@ -89,7 +121,11 @@
       "album": "The Silver Gauntlet of Aethel (1987 Theatrical Soundtrack)",
       "narrativeYear": "1987",
       "realReleaseDate": "2026-04-02",
-      "status": "Pending DSP"
+      "status": "Pending DSP",
+      "disc": 1,
+      "track": 9,
+      "fileName": "1-09-the-rescue-theatrical-ending",
+      "masterWavPath": "studio/1987-silver-gauntlet-of-aethel/the-rescue-theatrical-ending"
     },
     {
       "err_id": "ERR-004-1987-10",
@@ -99,7 +135,11 @@
       "album": "The Silver Gauntlet of Aethel (1987 Theatrical Soundtrack)",
       "narrativeYear": "1987",
       "realReleaseDate": "2026-04-02",
-      "status": "Pending DSP"
+      "status": "Pending DSP",
+      "disc": 1,
+      "track": 10,
+      "fileName": "1-10-starlight-love-end-credits",
+      "masterWavPath": "studio/1987-silver-gauntlet-of-aethel/starlight-love-end-credits"
     }
   ]
 }

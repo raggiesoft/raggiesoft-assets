@@ -1503,7 +1503,7 @@
 * Name: Moon 1: Tidal Lock
 * Version: Live at the Crucible
 * ID3 / Vorbis Tag: Moon 1: Tidal Lock (Live at the Crucible)
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600058
 
 17 (D2-T6). Moon 2: Roche Limit
 * Name: Moon 2: Roche Limit

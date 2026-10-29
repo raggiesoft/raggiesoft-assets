@@ -148,7 +148,7 @@
 ## Runebreaker Live (1993) — Live Album
 * **Album Folder:** `1993-runebreaker-live` • **UPC:** `None` • **Genre:** `16-Bit Symphonic Prog / Live Arena Rock`
 
-99. The Grand Decree
+1. The Grand Decree
 * Name: The Grand Decree
 * Version: Live at Sanctuary Stadium
 * ID3 / Vorbis Tag: The Grand Decree (Live at Sanctuary Stadium)

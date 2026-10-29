@@ -24,12 +24,12 @@
 
 ### Songs (1 Tracks)
 
-99. The Grand Decree
+1. The Grand Decree
 * **Name:** The Grand Decree
 * **Version:** Live at Sanctuary Stadium
 * **ID3 / Vorbis Tagged Title:** `The Grand Decree (Live at Sanctuary Stadium)`
 * **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
 * **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/mana-canvas/1993-runebreaker-live/vault/wav/the-grand-decree-live.wav` (⏳ In Studio)
-* **Clean DSP Lyrics:** `streaming-services/lyrics/the-grand-decree-live.txt`
+* **WAV File:** `/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/mana-canvas/1993-runebreaker-live/vault/wav/1-01-the-grand-decree-live.wav` (⏳ In Studio)
+* **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-the-grand-decree-live.txt`

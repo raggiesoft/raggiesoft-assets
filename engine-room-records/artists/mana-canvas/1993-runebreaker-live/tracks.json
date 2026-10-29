@@ -1,13 +1,13 @@
 {
   "tracks": [
     {
-      "fileName": "the-grand-decree-live",
+      "fileName": "1-01-the-grand-decree-live",
       "title": "The Grand Decree",
       "version": "Live at Sanctuary Stadium",
       "masterWavPath": "live/the-grand-decree-live",
       "disc": 1,
       "discName": "Runebreaker Live",
-      "track": 99,
+      "track": 1,
       "duration": "In Studio",
       "loreNote": "This track captures the live arena performance of the villain's signature anthem, recorded at Sanctuary Stadium."
     }
