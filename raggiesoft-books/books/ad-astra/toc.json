@@ -9,12 +9,12 @@
     "ebook_sizes": {
         "epub": "3.6 MB",
         "pdf": "1.9 MB",
-        "text_epub": "73 KB",
-        "text_pdf": "236 KB",
-        "epub_bytes": 3744646,
-        "pdf_bytes": 1941678,
-        "text_epub_bytes": 74687,
-        "text_pdf_bytes": 241381
+        "text_epub": "76 KB",
+        "text_pdf": "250 KB",
+        "epub_bytes": 3748274,
+        "pdf_bytes": 1956078,
+        "text_epub_bytes": 78291,
+        "text_pdf_bytes": 255659
     },
     "illustration_count": 12,
     "eras": [
@@ -337,17 +337,17 @@
                 },
                 {
                     "chap_num": 9,
-                    "chap_title": "Chapter 9: The Mother-Grove Amphitheater & The Unburied Leitmotif (Stardate 49603.5)",
-                    "chap_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-9-the-mother-grove-amphitheater-the-unburied-leitmotif-stardate-49603-5",
+                    "chap_title": "Chapter 9: The Mother-Grove Amphitheater, The Unburied Leitmotif & The Starfield Calibration Sessions (Stardate 49603.5)",
+                    "chap_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-9-the-mother-grove-amphitheater-the-unburied-leitmotif-the-starfield-calibration-sessions-stardate-49603-5",
                     "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Mother-Grove Amphitheater & The Unburied Leitmotif",
+                            "part_title": "The Mother-Grove Amphitheater, The Unburied Leitmotif & The Starfield Calibration Sessions",
                             "file_path": "e002/c009/p001.md",
-                            "url": "/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-9-the-mother-grove-amphitheater-the-unburied-leitmotif-stardate-49603-5/the-mother-grove-amphitheater-the-unburied-leitmotif",
+                            "url": "/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-9-the-mother-grove-amphitheater-the-unburied-leitmotif-the-starfield-calibration-sessions-stardate-49603-5/the-mother-grove-amphitheater-the-unburied-leitmotif-the-starfield-calibration-sessions",
                             "stardate": "49603.5",
-                            "realm_time": "Third Vesperan Orbit \u2022 Full Vespera Ring-Night (120.0 BPM Lock)",
+                            "realm_time": "Third Vesperan Orbit \u2022 Full Vespera Ring-Night to Solis-V Sunrise (120.0 BPM Lock)",
                             "start_time": "HC 25:10 (Following the Converging Veins)",
                             "location": "The Mother-Grove Basalt Amphitheater, Inland Sanctuary Peninsula, Caelum-IV (Kepler-442c)",
                             "image": "/raggiesoft-books/images/scenes/ad-astra/e002-c009-p001-mother-grove-amphitheater.jpg",
