@@ -233,6 +233,23 @@ html[data-color-scheme="light"] .rs-network-bar {
   font-weight: 700;
 }
 
+.rs-network-links > li > a.rs-network-memoriam-pill,
+.rs-network-bar > div > ul > li > a.rs-network-memoriam-pill {
+  background-color: rgba(251, 191, 36, 0.14) !important;
+  color: #fde68a !important;
+  border: 1px solid rgba(251, 191, 36, 0.55) !important;
+  font-weight: 700;
+}
+
+.rs-network-links > li > a.rs-network-memoriam-pill:hover,
+.rs-network-links > li > a.rs-network-memoriam-pill:focus-visible,
+.rs-network-bar > div > ul > li > a.rs-network-memoriam-pill:hover,
+.rs-network-bar > div > ul > li > a.rs-network-memoriam-pill:focus-visible {
+  background-color: #fbbf24 !important;
+  color: #090d16 !important;
+  border-color: #fbbf24 !important;
+}
+
 /* Engine Room Band Roster Dropdown Menu (`.rs-network-dropdown`) */
 .rs-network-bar,
 .rs-network-bar-inner,
@@ -805,17 +822,43 @@ html[data-bs-theme="light"] .text-body-secondary {
   color: #334155 !important; /* 8.4:1 on white */
 }
 
-/* --- Light Mode `.btn-outline-*` & `.border-light` Normalization --- */
-html[data-bs-theme="light"] .btn-outline-light {
+/* --- Light & Dark Mode `.btn-outline-light` & `.btn-ghost` Normalization --- */
+html[data-bs-theme="dark"] .btn-outline-light,
+html[data-theme="dark"] .btn-outline-light,
+[data-bs-theme="dark"] .btn-outline-light,
+[data-theme="dark"] .btn-outline-light {
+  color: #ffffff !important;
+  border: 1.5px solid rgba(248, 250, 252, 0.85) !important;
+  background-color: rgba(15, 23, 42, 0.88) !important;
+}
+html[data-bs-theme="dark"] .btn-outline-light:hover,
+html[data-bs-theme="dark"] .btn-outline-light:focus-visible,
+html[data-theme="dark"] .btn-outline-light:hover,
+html[data-theme="dark"] .btn-outline-light:focus-visible,
+[data-bs-theme="dark"] .btn-outline-light:hover,
+[data-bs-theme="dark"] .btn-outline-light:focus-visible,
+[data-theme="dark"] .btn-outline-light:hover,
+[data-theme="dark"] .btn-outline-light:focus-visible {
+  color: #090d16 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
+}
+html[data-bs-theme="light"] .btn-outline-light:not([data-bs-theme="dark"] *):not(.memoriam-hero *):not(.bg-dark *):not(.bg-black *) {
   color: #0f172a !important;
   border-color: #334155 !important;
   background-color: #f8fafc !important;
 }
-html[data-bs-theme="light"] .btn-outline-light:hover,
-html[data-bs-theme="light"] .btn-outline-light:focus-visible {
+html[data-bs-theme="light"] .btn-outline-light:not([data-bs-theme="dark"] *):not(.memoriam-hero *):not(.bg-dark *):not(.bg-black *):hover,
+html[data-bs-theme="light"] .btn-outline-light:not([data-bs-theme="dark"] *):not(.memoriam-hero *):not(.bg-dark *):not(.bg-black *):focus-visible {
   color: #ffffff !important;
   background-color: #0f172a !important;
   border-color: #0f172a !important;
+}
+html[data-bs-theme="dark"] .btn-ghost:not(.btn-primary):not(.btn-warning):not(.btn-info):not(.btn-success):not(.btn-danger) {
+  color: #f1f5f9 !important;
+}
+html[data-bs-theme="light"] .btn-ghost:not(.btn-primary):not(.btn-warning):not(.btn-info):not(.btn-success):not(.btn-danger) {
+  color: #0f172a !important;
 }
 html[data-bs-theme="light"] .btn-outline-info {
   color: #0369a1 !important;

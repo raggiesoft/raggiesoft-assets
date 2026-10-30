@@ -82,6 +82,13 @@
    */
   var OCEAN_VIEW_ITEMS = [
     {
+      id: 'ad-astra',
+      name: 'Escape Velocity (Ad Astra)',
+      href: 'https://books.raggiesoft.com/ad-astra',
+      pathPrefix: '/ad-astra',
+      icon: '🚀'
+    },
+    {
       id: 'contemporary',
       name: 'Contemporary Fiction (Library)',
       href: 'https://books.raggiesoft.com/library',
@@ -240,6 +247,9 @@
 
   function isOceanViewItemActive(item, currentHost, currentPath) {
     if (currentHost !== 'books.raggiesoft.com') return false;
+    if (item.id === 'ad-astra') {
+      return currentPath === '/ad-astra' || currentPath.indexOf('/ad-astra/') === 0;
+    }
     if (item.id === 'contemporary') {
       return currentPath === '/library' || currentPath === '/catalog';
     }
@@ -391,6 +401,12 @@
       '.rs-memoriam-link:hover, .rs-memoriam-link:focus-visible { background-color: #fbbf24 !important; color: #090d16 !important; border-color: #fbbf24 !important; }',
       '.rs-memoriam-link:focus-visible { outline: 3px solid #38bdf8 !important; outline-offset: 2px !important; }',
       '@media (max-width: 767.98px) { .rs-memoriam-inner { flex-direction: column; align-items: flex-start; gap: 0.35rem; padding: 0.5rem 0.85rem; } }',
+      'html[data-bs-theme="dark"] .btn-ghost:not(.btn-primary):not(.btn-warning):not(.btn-info):not(.btn-success):not(.btn-danger) { color: #f1f5f9 !important; }',
+      'html[data-bs-theme="light"] .btn-ghost:not(.btn-primary):not(.btn-warning):not(.btn-info):not(.btn-success):not(.btn-danger) { color: #0f172a !important; }',
+      '[data-bs-theme="dark"] .btn-outline-light, [data-theme="dark"] .btn-outline-light, .memoriam-hero .btn-outline-light { color: #ffffff !important; background-color: rgba(15, 23, 42, 0.88) !important; border: 1.5px solid rgba(248, 250, 252, 0.85) !important; }',
+      '[data-bs-theme="dark"] .btn-outline-light:hover, [data-bs-theme="dark"] .btn-outline-light:focus-visible, [data-theme="dark"] .btn-outline-light:hover, [data-theme="dark"] .btn-outline-light:focus-visible, .memoriam-hero .btn-outline-light:hover, .memoriam-hero .btn-outline-light:focus-visible { color: #090d16 !important; background-color: #ffffff !important; border-color: #ffffff !important; }',
+      '.rs-network-links > li > a.rs-network-memoriam-pill { background-color: rgba(251, 191, 36, 0.14) !important; color: #fde68a !important; border: 1px solid rgba(251, 191, 36, 0.55) !important; font-weight: 700; }',
+      '.rs-network-links > li > a.rs-network-memoriam-pill:hover, .rs-network-links > li > a.rs-network-memoriam-pill:focus-visible { background-color: #fbbf24 !important; color: #090d16 !important; border-color: #fbbf24 !important; }',
       '@media (display-mode: standalone), (display-mode: window-controls-overlay), (display-mode: minimal-ui), (display-mode: fullscreen) { .rs-memoriam-bar, .rs-network-bar, .rs-mobile-network-section { display: none !important; } }',
       'html.is-pwa-standalone .rs-memoriam-bar, html.is-pwa-standalone .rs-network-bar, html.is-pwa-standalone .rs-mobile-network-section, body.is-pwa-standalone .rs-memoriam-bar, body.is-pwa-standalone .rs-network-bar, body.is-pwa-standalone .rs-mobile-network-section { display: none !important; }'
     ].join('\n');
@@ -580,12 +596,13 @@
    * Builds the complete canonical `<ul>` innerHTML for `.rs-network-links`.
    */
   function buildDesktopNetworkLinksHtml(currentHost, currentPath) {
-    var isHubActive = currentHost === 'raggiesoft.com';
+    var isHubActive = currentHost === 'raggiesoft.com' && currentPath !== '/in-memoriam' && currentPath !== '/about/in-memoriam';
+    var isMemoriamPage = currentHost === 'raggiesoft.com' && (currentPath === '/in-memoriam' || currentPath === '/about/in-memoriam');
     var isNebulaeActive = currentHost === 'nebulae.raggiesoft.com';
     var isCorporateActive = currentHost === 'corporate.raggiesoft.com';
     var isStoreTrainerActive = currentHost === 'storetrainer.raggiesoft.com';
 
-    return [
+    var links = [
       '<li><a href="https://raggiesoft.com"' +
         (isHubActive ? ' aria-current="page" class="is-active"' : '') +
         ' data-no-spa="true">🌐 Hub</a></li>',
@@ -601,7 +618,22 @@
         (isStoreTrainerActive ? ' aria-current="page" class="is-active"' : '') +
         ' data-no-spa="true">💾 StoreTrainer</a></li>',
       buildPortfolioDropdownLiHtml(currentHost, currentPath)
-    ].join('');
+    ];
+
+    if (isMemoriamActive()) {
+      var memoriamHref = currentHost === 'raggiesoft.com' ? '/in-memoriam' : 'https://raggiesoft.com/in-memoriam';
+      links.push(
+        '<li><a href="' +
+          memoriamHref +
+          '" class="rs-network-memoriam-pill' +
+          (isMemoriamPage ? ' is-active' : '') +
+          '"' +
+          (isMemoriamPage ? ' aria-current="page"' : '') +
+          ' data-no-spa="true">✦ In Memoriam</a></li>'
+      );
+    }
+
+    return links.join('');
   }
 
   /**

@@ -154,10 +154,14 @@ async function navigateTo(url, pushState = true) {
             });
 
             // 3. THE SYSTEM RESTORE: Re-apply OS preference if Elara purged the theme attribute
+            // Synchronizes both Bootstrap (`data-bs-theme`) and DaisyUI 5 (`data-theme`) root attributes
             if (!doc.documentElement.hasAttribute('data-bs-theme')) {
                 const storedTheme = localStorage.getItem('theme');
                 const preferredTheme = storedTheme ? storedTheme : (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
                 document.documentElement.setAttribute('data-bs-theme', preferredTheme);
+                document.documentElement.setAttribute('data-theme', preferredTheme);
+            } else if (!doc.documentElement.hasAttribute('data-theme')) {
+                document.documentElement.setAttribute('data-theme', doc.documentElement.getAttribute('data-bs-theme'));
             }
 
             // Diff and Update Stylesheets to prevent CSS leakage or memory leaks
@@ -179,13 +183,21 @@ async function navigateTo(url, pushState = true) {
                 }
             });
 
-            // Update Inline Styles (Head only, to avoid interfering with swapped body styles)
+            // Update Inline Styles (Head only, preserving persistent network styles #rs-network-core-css)
             const newHeadStyles = Array.from(doc.head.querySelectorAll('style'));
             const oldHeadStyles = Array.from(document.head.querySelectorAll('style'));
 
-            // Naively remove all old inline styles and inject all new ones
-            oldHeadStyles.forEach(style => style.remove());
-            newHeadStyles.forEach(style => document.head.appendChild(style.cloneNode(true)));
+            // Remove old page-specific head styles while preserving #rs-network-core-css
+            oldHeadStyles.forEach(style => {
+                if (style.id !== 'rs-network-core-css') {
+                    style.remove();
+                }
+            });
+            newHeadStyles.forEach(style => {
+                if (style.id !== 'rs-network-core-css') {
+                    document.head.appendChild(style.cloneNode(true));
+                }
+            });
 
 
             // --- 2. LOADER STATE UPDATE ---
