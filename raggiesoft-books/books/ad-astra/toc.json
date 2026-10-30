@@ -7,16 +7,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/ad-astra.jpg",
     "next_series_url": "/raggiesoft-books/books/stardust-engine",
     "ebook_sizes": {
-        "epub": "2.6 MB",
-        "pdf": "1.3 MB",
-        "text_epub": "55 KB",
-        "text_pdf": "179 KB",
-        "epub_bytes": 2730065,
-        "pdf_bytes": 1345411,
-        "text_epub_bytes": 56452,
-        "text_pdf_bytes": 183244
+        "epub": "3.6 MB",
+        "pdf": "1.9 MB",
+        "text_epub": "73 KB",
+        "text_pdf": "236 KB",
+        "epub_bytes": 3744646,
+        "pdf_bytes": 1941678,
+        "text_epub_bytes": 74687,
+        "text_pdf_bytes": 241381
     },
-    "illustration_count": 8,
+    "illustration_count": 12,
     "eras": [
         {
             "era_num": 1,
@@ -126,7 +126,7 @@
             "era_num": 2,
             "era_title": "Book 1: Sanctuary on Caelum-IV (Movement IV \u2014 Stardate 49601)",
             "era_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601",
-            "illustration_count": 4,
+            "illustration_count": 8,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -248,6 +248,114 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/ad-astra/e002-c005-p001-purple-ocean-swim-and-scan.jpg",
                                     "alt": "Photorealistic widescreen view on the purple-sand beach of Caelum-IV beside the open landing ramp of the U.S.S. Aethelgard. Mid-20s Ryan O'Connell in his manual wheelchair with rear push-handles, Cassidy O'Connell resting her left hand on his push-handle for balance while holding a tethered hydro-chemical sensor probe in the glowing violet surf, Holly O'Connell reading the emerald SAFE assay on her MagnaPad, and twins Tyler and Evan Wright scanning a coastal shrub of glowing golden-violet Lantern-Berries."
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 6,
+                    "chap_title": "Chapter 6: The Singing Lava-Tubes & The 95.5\u00b0F Obsidian Cove (Stardate 49602.3)",
+                    "chap_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-6-the-singing-lava-tubes-the-95-5-f-obsidian-cove-stardate-49602-3",
+                    "illustration_count": 1,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "The Singing Lava-Tubes & The 95.5\u00b0F Obsidian Cove",
+                            "file_path": "e002/c006/p001.md",
+                            "url": "/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-6-the-singing-lava-tubes-the-95-5-f-obsidian-cove-stardate-49602-3/the-singing-lava-tubes-the-95-5-f-obsidian-cove",
+                            "stardate": "49602.3",
+                            "realm_time": "Second Vesperan Orbit \u2022 Crown Light Sun-Cycle (120.0 BPM Lock)",
+                            "start_time": "HC 08:15 (The Basalt Causeway)",
+                            "location": "The East Ridge Causeway, Cathedral Lava-Tube & Obsidian Geothermal Cove, Caelum-IV (Kepler-442c)",
+                            "image": "/raggiesoft-books/images/scenes/ad-astra/e002-c006-p001-singing-lava-tube-and-cove.jpg",
+                            "image_alt": "Photorealistic widescreen view on Caelum-IV where a wide, smooth black-basalt lava-tube cavern lined with glowing violet and cyan piezoelectric quartz crystals opens out onto a terraced geothermal caldera filled with steaming turquoise-and-violet mineral water under the ringed gas giant Vespera. On the smooth basalt causeway beside the lower lagoon, youthful 1996-era Ryan O'Connell sits in his manual wheelchair with rear push-handles holding an acoustic guitar, while Cassidy O'Connell rests one hand on his push-handle for balance and dips a handheld hydro-chemical sensor probe into the steaming 95.5\u00b0F pool as Holly, Tyler, and Evan check the telemetry.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/ad-astra/e002-c006-p001-singing-lava-tube-and-cove.jpg",
+                                    "alt": "Photorealistic widescreen view on Caelum-IV where a wide, smooth black-basalt lava-tube cavern lined with glowing violet and cyan piezoelectric quartz crystals opens out onto a terraced geothermal caldera filled with steaming turquoise-and-violet mineral water under the ringed gas giant Vespera. On the smooth basalt causeway beside the lower lagoon, youthful 1996-era Ryan O'Connell sits in his manual wheelchair with rear push-handles holding an acoustic guitar, while Cassidy O'Connell rests one hand on his push-handle for balance and dips a handheld hydro-chemical sensor probe into the steaming 95.5\u00b0F pool as Holly, Tyler, and Evan check the telemetry."
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 7,
+                    "chap_title": "Chapter 7: Warm Ring-Shadow Rain, Sanctuary Hot Chocolate & The Family Stateroom (Stardate 49602.6)",
+                    "chap_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-7-warm-ring-shadow-rain-sanctuary-hot-chocolate-the-family-stateroom-stardate-49602-6",
+                    "illustration_count": 1,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Warm Ring-Shadow Rain, Sanctuary Hot Chocolate & The Family Stateroom",
+                            "file_path": "e002/c007/p001.md",
+                            "url": "/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-7-warm-ring-shadow-rain-sanctuary-hot-chocolate-the-family-stateroom-stardate-49602-6/warm-ring-shadow-rain-sanctuary-hot-chocolate-the-family-stateroom",
+                            "stardate": "49602.6",
+                            "realm_time": "Second Vesperan Orbit \u2022 Early Ring-Night Shower (120.0 BPM Lock)",
+                            "start_time": "HC 18:20 (First Raindrop on the West Headland)",
+                            "location": "Western Bio-Silica Grove & The Family Stateroom, U.S.S. Aethelgard \u2014 Caelum-IV (Kepler-442c)",
+                            "image": "/raggiesoft-books/images/scenes/ad-astra/e002-c007-p001-warm-rain-and-family-stateroom.jpg",
+                            "image_alt": "Photorealistic widescreen interior view inside the warm wood-and-titanium Family Stateroom aboard the U.S.S. Aethelgard at night while warm violet rain falls against the panoramic viewport overlooking the ringed gas giant Vespera. Inside the shared room are two side-by-side King-sized beds: on the left King bed, youthful 1996-era Ryan O'Connell in navy pajamas sits propped against the pillows in the middle holding a mug of hot chocolate, flanked closely by his sisters Cassidy (on his left) and Holly (on his right) in cozy pajamas acting as his human bed rails, with Ryan's manual wheelchair and its rear push-handles parked right beside the bed; on the right King bed, identical twins Tyler and Evan Wright relax in pajamas with mugs of hot cocoa.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/ad-astra/e002-c007-p001-warm-rain-and-family-stateroom.jpg",
+                                    "alt": "Photorealistic widescreen interior view inside the warm wood-and-titanium Family Stateroom aboard the U.S.S. Aethelgard at night while warm violet rain falls against the panoramic viewport overlooking the ringed gas giant Vespera. Inside the shared room are two side-by-side King-sized beds: on the left King bed, youthful 1996-era Ryan O'Connell in navy pajamas sits propped against the pillows in the middle holding a mug of hot chocolate, flanked closely by his sisters Cassidy (on his left) and Holly (on his right) in cozy pajamas acting as his human bed rails, with Ryan's manual wheelchair and its rear push-handles parked right beside the bed; on the right King bed, identical twins Tyler and Evan Wright relax in pajamas with mugs of hot cocoa."
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 8,
+                    "chap_title": "Chapter 8: Syzygy Low Tide & The Three-Hour Glass Reef Window (Stardate 49603.1)",
+                    "chap_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-8-syzygy-low-tide-the-three-hour-glass-reef-window-stardate-49603-1",
+                    "illustration_count": 1,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Syzygy Low Tide & The Three-Hour Glass Reef Window",
+                            "file_path": "e002/c008/p001.md",
+                            "url": "/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-8-syzygy-low-tide-the-three-hour-glass-reef-window-stardate-49603-1/syzygy-low-tide-the-three-hour-glass-reef-window",
+                            "stardate": "49603.1",
+                            "realm_time": "Third Vesperan Orbit \u2022 Lumen\u2013Umbra Vertical Syzygy (120.0 BPM Lock)",
+                            "start_time": "HC 03:00 (Tide Recession & Protocol T-10 Sync)",
+                            "location": "The Exposed Glass Reef Plaza, Sanctuary Bay, Caelum-IV (Kepler-442c)",
+                            "image": "/raggiesoft-books/images/scenes/ad-astra/e002-c008-p001-syzygy-glass-reef.jpg",
+                            "image_alt": "Photorealistic widescreen view on Caelum-IV during Syzygy Low Tide, where the purple ocean has receded half a mile to expose a mirror-smooth seabed plaza of amethyst and cyan bio-silica crystal dotted with glowing spiral tide-pools under the vertically aligned shepherd moons Lumen and Umbra in front of Vespera's golden rings. Youthful 1996-era Ryan O'Connell propels his manual wheelchair with his hands on the wheel rims while Cassidy O'Connell walks right beside him resting her hand on his wheelchair push-handle like a walker; Tyler and Evan Wright kneel by a glowing spiral crystal pool with a boom microphone, and Holly O'Connell checks her MagnaPad.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/ad-astra/e002-c008-p001-syzygy-glass-reef.jpg",
+                                    "alt": "Photorealistic widescreen view on Caelum-IV during Syzygy Low Tide, where the purple ocean has receded half a mile to expose a mirror-smooth seabed plaza of amethyst and cyan bio-silica crystal dotted with glowing spiral tide-pools under the vertically aligned shepherd moons Lumen and Umbra in front of Vespera's golden rings. Youthful 1996-era Ryan O'Connell propels his manual wheelchair with his hands on the wheel rims while Cassidy O'Connell walks right beside him resting her hand on his wheelchair push-handle like a walker; Tyler and Evan Wright kneel by a glowing spiral crystal pool with a boom microphone, and Holly O'Connell checks her MagnaPad."
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 9,
+                    "chap_title": "Chapter 9: The Mother-Grove Amphitheater & The Unburied Leitmotif (Stardate 49603.5)",
+                    "chap_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-9-the-mother-grove-amphitheater-the-unburied-leitmotif-stardate-49603-5",
+                    "illustration_count": 1,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "The Mother-Grove Amphitheater & The Unburied Leitmotif",
+                            "file_path": "e002/c009/p001.md",
+                            "url": "/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-9-the-mother-grove-amphitheater-the-unburied-leitmotif-stardate-49603-5/the-mother-grove-amphitheater-the-unburied-leitmotif",
+                            "stardate": "49603.5",
+                            "realm_time": "Third Vesperan Orbit \u2022 Full Vespera Ring-Night (120.0 BPM Lock)",
+                            "start_time": "HC 25:10 (Following the Converging Veins)",
+                            "location": "The Mother-Grove Basalt Amphitheater, Inland Sanctuary Peninsula, Caelum-IV (Kepler-442c)",
+                            "image": "/raggiesoft-books/images/scenes/ad-astra/e002-c009-p001-mother-grove-amphitheater.jpg",
+                            "image_alt": "Photorealistic widescreen view inside the natural tiered black-basalt Mother-Grove Amphitheater on Caelum-IV during Golden-Violet Ring-Night under the giant illuminated disk and rings of Vespera. Encircled by towering 100-foot glowing lavender Bio-Silica Resonance Fronds and giant bioluminescent Myco-Towers with crimson-and-cyan mycelial veins converging across the smooth stone floor, youthful 1996-era Cassidy O'Connell sings into a vintage microphone while playing her analog synthesizer rig beside Ryan O'Connell in his manual wheelchair playing his cherry-sunburst electric guitar, backed by Evan on bass, Tyler on drums, and Holly at the field mixing console as golden-and-cyan acoustic shimmer waves ripple up the crystal fronds.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/ad-astra/e002-c009-p001-mother-grove-amphitheater.jpg",
+                                    "alt": "Photorealistic widescreen view inside the natural tiered black-basalt Mother-Grove Amphitheater on Caelum-IV during Golden-Violet Ring-Night under the giant illuminated disk and rings of Vespera. Encircled by towering 100-foot glowing lavender Bio-Silica Resonance Fronds and giant bioluminescent Myco-Towers with crimson-and-cyan mycelial veins converging across the smooth stone floor, youthful 1996-era Cassidy O'Connell sings into a vintage microphone while playing her analog synthesizer rig beside Ryan O'Connell in his manual wheelchair playing his cherry-sunburst electric guitar, backed by Evan on bass, Tyler on drums, and Holly at the field mixing console as golden-and-cyan acoustic shimmer waves ripple up the crystal fronds."
                                 }
                             ],
                             "image_count": 1
