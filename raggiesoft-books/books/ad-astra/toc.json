@@ -2,39 +2,107 @@
     "series_title": "Escape Velocity: Ad Astra",
     "series_slug": "ad-astra",
     "series_theme": "ad-astra-nebulae",
-    "series_description": "The cosmic visual storybook and planetary expedition chronicles of The Stardust Engine aboard the U.S.S. Aethelgard. Picking up during Movement IV of the 15-minute progressive rock suite 'Escape Velocity (Ad Astra)', Ryan, Cassidy, and Holly O'Connell\u2014alongside twin pilots Tyler and Evan Wright\u2014leave the fluorescent Cage of Earth behind and step onto Caelum-IV, a tidally locked, purple-ocean moon orbiting the ringed super-Jovian Vespera (Kepler-442c) whose living biosphere pulses at 120.0 BPM.",
+    "series_description": "The cosmic visual storybook and planetary expedition chronicles of The Stardust Engine aboard the U.S.S. Aethelgard. Beginning inside the subterranean launch cavern beneath 'The Fortress' on Industrial Park Road in Blacksburg, Virginia (Movements I\u2013III), Ryan, Cassidy, and Holly O'Connell\u2014alongside twin pilots Tyler and Evan Wright\u2014leave the fluorescent Cage of Earth behind, cross 1,200 light-years at FTL Harmonic Continuum speed, and step onto Caelum-IV (Movement IV, Stardate 49601): a tidally locked, 0.90G purple-ocean moon orbiting the ringed super-Jovian Vespera (Kepler-442c) whose living biosphere pulses at 120.0 BPM.",
     "series_description_long": "",
     "series_image": "/raggiesoft-books/images/covers/2x3/ad-astra.jpg",
     "next_series_url": "/raggiesoft-books/books/stardust-engine",
     "ebook_sizes": {
-        "epub": "311 KB",
-        "pdf": "197 KB",
-        "text_epub": "20 KB",
-        "text_pdf": "73 KB",
-        "epub_bytes": 318680,
-        "pdf_bytes": 201386,
-        "text_epub_bytes": 20702,
-        "text_pdf_bytes": 75234
+        "epub": "574 KB",
+        "pdf": "356 KB",
+        "text_epub": "37 KB",
+        "text_pdf": "123 KB",
+        "epub_bytes": 588182,
+        "pdf_bytes": 364327,
+        "text_epub_bytes": 38175,
+        "text_pdf_bytes": 126379
     },
-    "illustration_count": 1,
+    "illustration_count": 2,
     "eras": [
         {
             "era_num": 1,
-            "era_title": "Book 1: Sanctuary on Caelum-IV (Stardate 49601)",
-            "era_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-stardate-49601",
+            "era_title": "Prologue: Escape Velocity (Movements I\u2013III \u2014 Earth to the Stars)",
+            "era_url": "/raggiesoft-books/books/ad-astra/prologue-escape-velocity-movements-i-iii-earth-to-the-stars",
+            "illustration_count": 1,
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Movement I: The Cage (Industrial Park Road & Subterranean Silo Alpha)",
+                    "chap_url": "/raggiesoft-books/books/ad-astra/prologue-escape-velocity-movements-i-iii-earth-to-the-stars/movement-i-the-cage-industrial-park-road-subterranean-silo-alpha",
+                    "illustration_count": 0,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Industrial Park Road & Subterranean Silo Alpha",
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/ad-astra/prologue-escape-velocity-movements-i-iii-earth-to-the-stars/movement-i-the-cage-industrial-park-road-subterranean-silo-alpha/industrial-park-road-subterranean-silo-alpha",
+                            "date": "1996-07-16",
+                            "start_time": "21:30",
+                            "location": "The Fortress (Industrial Park Road) & Subterranean Launch Silo Alpha, Blacksburg, VA"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "Movement II: Ignition (Ad Astra \u2014 Breaking the Tether & MECO)",
+                    "chap_url": "/raggiesoft-books/books/ad-astra/prologue-escape-velocity-movements-i-iii-earth-to-the-stars/movement-ii-ignition-ad-astra-breaking-the-tether-meco",
+                    "illustration_count": 1,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Ad Astra, Breaking the Tether & MECO",
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/ad-astra/prologue-escape-velocity-movements-i-iii-earth-to-the-stars/movement-ii-ignition-ad-astra-breaking-the-tether-meco/ad-astra-breaking-the-tether-meco",
+                            "date": "1996-07-16",
+                            "start_time": "23:45",
+                            "location": "Forward Cockpit, U.S.S. Aethelgard \u2014 Ascent from Blacksburg Silo Alpha to Low Earth Orbit",
+                            "image": "/raggiesoft-books/images/scenes/ad-astra/e001-c002-p001-aethelgard-cockpit.jpg",
+                            "image_alt": "Forward cockpit of the star-cruiser U.S.S. Aethelgard looking out through the octagonal forward viewport toward a glowing crimson-and-violet nebula and ringed exoplanet. Twin high-back leather flight seats with multipoint harnesses flank the glowing cyan and amber center helm console.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/ad-astra/e001-c002-p001-aethelgard-cockpit.jpg",
+                                    "alt": "Forward cockpit of the star-cruiser U.S.S. Aethelgard looking out through the octagonal forward viewport toward a glowing crimson-and-violet nebula and ringed exoplanet. Twin high-back leather flight seats with multipoint harnesses flank the glowing cyan and amber center helm console."
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "Movement III: The Cosmos (Zero-G Hugs & The Nebula Stream)",
+                    "chap_url": "/raggiesoft-books/books/ad-astra/prologue-escape-velocity-movements-i-iii-earth-to-the-stars/movement-iii-the-cosmos-zero-g-hugs-the-nebula-stream",
+                    "illustration_count": 0,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Zero-G Hugs & The Nebula Stream at Continuum Factor 8.4",
+                            "file_path": "e001/c003/p001.md",
+                            "url": "/ad-astra/prologue-escape-velocity-movements-i-iii-earth-to-the-stars/movement-iii-the-cosmos-zero-g-hugs-the-nebula-stream/zero-g-hugs-the-nebula-stream-at-continuum-factor-8-4",
+                            "date": "1996-07-17",
+                            "start_time": "00:15",
+                            "location": "Forward Cockpit & Observation Deck, U.S.S. Aethelgard \u2014 Deep-Space Continuum Transit (Earth to Kepler-442c)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "era_num": 2,
+            "era_title": "Book 1: Sanctuary on Caelum-IV (Movement IV \u2014 Stardate 49601)",
+            "era_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601",
             "illustration_count": 1,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Aft Cargo Hatch Open (Stardate 49601.0)",
-                    "chap_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-stardate-49601/chapter-1-aft-cargo-hatch-open-stardate-49601-0",
+                    "chap_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-1-aft-cargo-hatch-open-stardate-49601-0",
                     "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Aft Cargo Hatch Open",
-                            "file_path": "e001/c001/p001.md",
-                            "url": "/ad-astra/book-1-sanctuary-on-caelum-iv-stardate-49601/chapter-1-aft-cargo-hatch-open-stardate-49601-0/aft-cargo-hatch-open",
+                            "file_path": "e002/c001/p001.md",
+                            "url": "/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-1-aft-cargo-hatch-open-stardate-49601-0/aft-cargo-hatch-open",
                             "stardate": "49601.0",
                             "realm_time": "Vespera Zenith \u2022 Lumen\u2013Umbra First Conjunction (120.0 BPM Lock)",
                             "start_time": "HC 00:00 (Hatch Unseal)",
@@ -54,14 +122,14 @@
                 {
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Acoustic Forest & Basaltic Shore (Stardate 49601.4)",
-                    "chap_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-stardate-49601/chapter-2-the-acoustic-forest-basaltic-shore-stardate-49601-4",
+                    "chap_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-2-the-acoustic-forest-basaltic-shore-stardate-49601-4",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Acoustic Forest & Basaltic Shore",
-                            "file_path": "e001/c002/p001.md",
-                            "url": "/ad-astra/book-1-sanctuary-on-caelum-iv-stardate-49601/chapter-2-the-acoustic-forest-basaltic-shore-stardate-49601-4/the-acoustic-forest-basaltic-shore",
+                            "file_path": "e002/c002/p001.md",
+                            "url": "/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-2-the-acoustic-forest-basaltic-shore-stardate-49601-4/the-acoustic-forest-basaltic-shore",
                             "stardate": "49601.4",
                             "realm_time": "Vespera Zenith \u2022 Lumen Ring-Shadow Transit (120.0 BPM Lock)",
                             "start_time": "HC 00:39 (First Tire Track)",
@@ -72,14 +140,14 @@
                 {
                     "chap_num": 3,
                     "chap_title": "Chapter 3: Hailing Frequencies at 120 BPM (Stardate 49601.8)",
-                    "chap_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-stardate-49601/chapter-3-hailing-frequencies-at-120-bpm-stardate-49601-8",
+                    "chap_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-3-hailing-frequencies-at-120-bpm-stardate-49601-8",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Hailing Frequencies at 120 BPM",
-                            "file_path": "e001/c003/p001.md",
-                            "url": "/ad-astra/book-1-sanctuary-on-caelum-iv-stardate-49601/chapter-3-hailing-frequencies-at-120-bpm-stardate-49601-8/hailing-frequencies-at-120-bpm",
+                            "file_path": "e002/c003/p001.md",
+                            "url": "/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-3-hailing-frequencies-at-120-bpm-stardate-49601-8/hailing-frequencies-at-120-bpm",
                             "stardate": "49601.8",
                             "realm_time": "Vespera Golden Dusk \u2022 Dual Shepherd Harmonic Tide (120.0 BPM Lock)",
                             "start_time": "HC 01:46 (Chorus-Ray Breach)",
