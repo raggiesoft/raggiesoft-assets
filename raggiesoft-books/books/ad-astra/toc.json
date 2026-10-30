@@ -7,16 +7,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/ad-astra.jpg",
     "next_series_url": "/raggiesoft-books/books/stardust-engine",
     "ebook_sizes": {
-        "epub": "3.6 MB",
-        "pdf": "1.9 MB",
-        "text_epub": "76 KB",
-        "text_pdf": "250 KB",
-        "epub_bytes": 3748274,
-        "pdf_bytes": 1956078,
-        "text_epub_bytes": 78291,
-        "text_pdf_bytes": 255659
+        "epub": "3.8 MB",
+        "pdf": "2.1 MB",
+        "text_epub": "83 KB",
+        "text_pdf": "271 KB",
+        "epub_bytes": 3951618,
+        "pdf_bytes": 2175766,
+        "text_epub_bytes": 85395,
+        "text_pdf_bytes": 277807
     },
-    "illustration_count": 12,
+    "illustration_count": 13,
     "eras": [
         {
             "era_num": 1,
@@ -126,7 +126,7 @@
             "era_num": 2,
             "era_title": "Book 1: Sanctuary on Caelum-IV (Movement IV \u2014 Stardate 49601)",
             "era_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601",
-            "illustration_count": 8,
+            "illustration_count": 9,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -356,6 +356,33 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/ad-astra/e002-c009-p001-mother-grove-amphitheater.jpg",
                                     "alt": "Photorealistic widescreen view inside the natural tiered black-basalt Mother-Grove Amphitheater on Caelum-IV during Golden-Violet Ring-Night under the giant illuminated disk and rings of Vespera. Encircled by towering 100-foot glowing lavender Bio-Silica Resonance Fronds and giant bioluminescent Myco-Towers with crimson-and-cyan mycelial veins converging across the smooth stone floor, youthful 1996-era Cassidy O'Connell sings into a vintage microphone while playing her analog synthesizer rig beside Ryan O'Connell in his manual wheelchair playing his cherry-sunburst electric guitar, backed by Evan on bass, Tyler on drums, and Holly at the field mixing console as golden-and-cyan acoustic shimmer waves ripple up the crystal fronds."
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 10,
+                    "chap_title": "Chapter 10: Job Shadowing the Mission Commander \u2014 A Day in the Life of Holly on Caelum-IV (Stardate 49604.2)",
+                    "chap_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-10-job-shadowing-the-mission-commander-a-day-in-the-life-of-holly-on-caelum-iv-stardate-49604-2",
+                    "illustration_count": 1,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Job Shadowing the Mission Commander \u2014 A Day in the Life of Holly on Caelum-IV",
+                            "file_path": "e002/c010/p001.md",
+                            "url": "/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-10-job-shadowing-the-mission-commander-a-day-in-the-life-of-holly-on-caelum-iv-stardate-49604-2/job-shadowing-the-mission-commander-a-day-in-the-life-of-holly-on-caelum-iv",
+                            "stardate": "49604.2",
+                            "realm_time": "Fourth Vesperan Orbit \u2022 Sunlit Day Shift (120.0 BPM Lock)",
+                            "start_time": "HC 00:45 (Morning Triage Aboard the U.S.S. Aethelgard)",
+                            "location": "U.S.S. Aethelgard & The Prism-Moss Terrace, Sanctuary Peninsula, Caelum-IV (Kepler-442c)",
+                            "image": "/raggiesoft-books/images/scenes/ad-astra/e002-c010-p001-holly-mission-ops-job-shadow.jpg",
+                            "image_alt": "Photorealistic widescreen view inside the Mission Operations & Telemetry Alcove aboard the U.S.S. Aethelgard on Caelum-IV during sunlit daytime. Youthful 1996-era Holly O'Connell (in her slate-blue and charcoal deep-space survey tunic, wearing glasses and a ponytail, holding her ruggedized MagnaPad with its blank aluminum back facing the camera) explains the orbital radar and biospheric assay consoles while Ryan O'Connell (in his manual wheelchair with rear push-handles), Cassidy O'Connell (resting her hand on Ryan's push-handle), and twin cousins Evan and Tyler Wright crowd around her with coffee mugs and field notebooks to job-shadow her for the day.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/ad-astra/e002-c010-p001-holly-mission-ops-job-shadow.jpg",
+                                    "alt": "Photorealistic widescreen view inside the Mission Operations & Telemetry Alcove aboard the U.S.S. Aethelgard on Caelum-IV during sunlit daytime. Youthful 1996-era Holly O'Connell (in her slate-blue and charcoal deep-space survey tunic, wearing glasses and a ponytail, holding her ruggedized MagnaPad with its blank aluminum back facing the camera) explains the orbital radar and biospheric assay consoles while Ryan O'Connell (in his manual wheelchair with rear push-handles), Cassidy O'Connell (resting her hand on Ryan's push-handle), and twin cousins Evan and Tyler Wright crowd around her with coffee mugs and field notebooks to job-shadow her for the day."
                                 }
                             ],
                             "image_count": 1

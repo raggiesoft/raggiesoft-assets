@@ -7,16 +7,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/stardust-engine.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "16.9 MB",
-        "pdf": "18.5 MB",
-        "text_epub": "167 KB",
-        "text_pdf": "511 KB",
-        "epub_bytes": 17693834,
-        "pdf_bytes": 19429516,
-        "text_epub_bytes": 171155,
-        "text_pdf_bytes": 523461
+        "epub": "17.1 MB",
+        "pdf": "18.8 MB",
+        "text_epub": "175 KB",
+        "text_pdf": "536 KB",
+        "epub_bytes": 17913130,
+        "pdf_bytes": 19665473,
+        "text_epub_bytes": 179676,
+        "text_pdf_bytes": 548673
     },
-    "illustration_count": 24,
+    "illustration_count": 25,
     "eras": [
         {
             "era_num": 1,
@@ -180,21 +180,21 @@
         },
         {
             "era_num": 4,
-            "era_title": "Book 4: Ad Astra, Hard Reset & The Stadium Years (1996\u20132005)",
-            "era_url": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1996-2005",
-            "illustration_count": 0,
+            "era_title": "Book 4: Ad Astra, Hard Reset & The Stadium Years (1995\u20132004)",
+            "era_url": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1995-2004",
+            "illustration_count": 1,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Escape Velocity (Ad Astra) & Main Engine Cutoff (1995\u20131997)",
-                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1996-2005/chapter-1-escape-velocity-ad-astra-main-engine-cutoff-1995-1997",
+                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1995-2004/chapter-1-escape-velocity-ad-astra-main-engine-cutoff-1995-1997",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Main Engine Cutoff & The Magnum Opus",
                             "file_path": "e004/c001/p001.md",
-                            "url": "/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1996-2005/chapter-1-escape-velocity-ad-astra-main-engine-cutoff-1995-1997/main-engine-cutoff-the-magnum-opus",
+                            "url": "/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1995-2004/chapter-1-escape-velocity-ad-astra-main-engine-cutoff-1995-1997/main-engine-cutoff-the-magnum-opus",
                             "date": "1995-11-14",
                             "start_time": "12:00",
                             "location": "Engine Room Warehouse Studio, Blacksburg, VA"
@@ -203,15 +203,41 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: Writing Before the Distance on Progress Street (2004)",
-                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1996-2005/chapter-2-writing-before-the-distance-on-progress-street-2004",
+                    "chap_title": "Chapter 2: Job Shadowing the Manager \u2014 A Day in the Life of Holly O'Connell (October 18, 2002)",
+                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1995-2004/chapter-2-job-shadowing-the-manager-a-day-in-the-life-of-holly-o-connell-october-18-2002",
+                    "illustration_count": 1,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Job Shadowing the Manager \u2014 A Day in the Life of Holly O'Connell",
+                            "file_path": "e004/c002/p001.md",
+                            "url": "/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1995-2004/chapter-2-job-shadowing-the-manager-a-day-in-the-life-of-holly-o-connell-october-18-2002/job-shadowing-the-manager-a-day-in-the-life-of-holly-o-connell",
+                            "date": "2002-10-18",
+                            "start_time": "07:15",
+                            "location": "Progress Street NE & The Fortress (Industrial Park Road), Blacksburg, VA",
+                            "image": "/raggiesoft-books/images/scenes/stardust-engine/e004/c002/p001/holly-band-manager-job-shadow.jpg",
+                            "image_alt": "Photorealistic widescreen view inside Holly O'Connell's sunlit glass-walled corner office at The Fortress on Industrial Park Road in Blacksburg, Virginia in October 2002. Holly O'Connell (in a tailored charcoal blazer over a maroon CPI shirt, wearing glasses) sits at her oak desk surrounded by legal binders, tour-advancing blueprints, and a speakerphone, while Ryan O'Connell (in his manual wheelchair with rear push-handles), Cassidy O'Connell (resting her hand on Ryan's push-handle), and twin cousins Evan and Tyler Wright lean in with coffee mugs and notepads as they job-shadow her for the day.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/stardust-engine/e004/c002/p001/holly-band-manager-job-shadow.jpg",
+                                    "alt": "Photorealistic widescreen view inside Holly O'Connell's sunlit glass-walled corner office at The Fortress on Industrial Park Road in Blacksburg, Virginia in October 2002. Holly O'Connell (in a tailored charcoal blazer over a maroon CPI shirt, wearing glasses) sits at her oak desk surrounded by legal binders, tour-advancing blueprints, and a speakerphone, while Ryan O'Connell (in his manual wheelchair with rear push-handles), Cassidy O'Connell (resting her hand on Ryan's push-handle), and twin cousins Evan and Tyler Wright lean in with coffee mugs and notepads as they job-shadow her for the day."
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "Chapter 3: Writing Before the Distance on Progress Street (2004)",
+                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1995-2004/chapter-3-writing-before-the-distance-on-progress-street-2004",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Two Blocks from Commonwealth Mall",
-                            "file_path": "e004/c002/p001.md",
-                            "url": "/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1996-2005/chapter-2-writing-before-the-distance-on-progress-street-2004/two-blocks-from-commonwealth-mall",
+                            "file_path": "e004/c003/p001.md",
+                            "url": "/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1995-2004/chapter-3-writing-before-the-distance-on-progress-street-2004/two-blocks-from-commonwealth-mall",
                             "date": "2004-06-14",
                             "start_time": "16:30",
                             "location": "Progress Street NE, Blacksburg, VA"
