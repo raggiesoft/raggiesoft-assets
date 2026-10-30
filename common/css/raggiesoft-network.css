@@ -427,7 +427,7 @@ html[data-color-scheme="light"] .rs-network-bar {
      safe-area bottom padding so links at the bottom are NEVER clipped off-screen. */
   #primary-navigation {
     max-height: calc(100vh - 4.5rem) !important;
-    max-height: calc(100dvh - 4.5rem) !important;
+    max-height: calc(100dvh - 4.5rem - env(safe-area-inset-top, 0px)) !important;
     overflow-y: auto !important;
     overflow-x: hidden !important;
     -webkit-overflow-scrolling: touch;
@@ -448,7 +448,7 @@ html[data-color-scheme="light"] .rs-network-bar {
   #music-mobile-navigation,
   .rs-standalone-network-bar.is-open .rs-network-links {
     max-height: calc(100vh - 4.5rem) !important;
-    max-height: calc(100dvh - 4.5rem) !important;
+    max-height: calc(100dvh - 4.5rem - env(safe-area-inset-top, 0px)) !important;
     overflow-y: auto !important;
     overflow-x: hidden !important;
     -webkit-overflow-scrolling: touch;

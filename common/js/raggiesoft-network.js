@@ -386,8 +386,8 @@
       '.rs-mobile-submenu-body { padding: 0.2rem 0.5rem 0.55rem; border-top: 1px solid rgba(148, 163, 184, 0.2); }',
       '[data-bs-theme="light"] .rs-mobile-submenu, [data-theme="light"] .rs-mobile-submenu, [data-color-scheme="light"] .rs-mobile-submenu, html.light .rs-mobile-submenu { background-color: #f8fafc !important; border-color: #94a3b8 !important; }',
       '[data-bs-theme="light"] .rs-mobile-submenu-summary, [data-theme="light"] .rs-mobile-submenu-summary, [data-color-scheme="light"] .rs-mobile-submenu-summary, html.light .rs-mobile-submenu-summary { color: #854d0e !important; }',
-      '@media (max-width: 1120px) { body.rs-has-primary-nav .rs-network-bar { display: none !important; } .rs-mobile-network-section[data-rs-breakpoint="1120"] { display: block !important; } #primary-navigation { max-height: calc(100vh - 4.5rem) !important; max-height: calc(100dvh - 4.5rem) !important; overflow-y: auto !important; overflow-x: hidden !important; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; padding-bottom: calc(3.25rem + env(safe-area-inset-bottom, 0px)) !important; } }',
-      '@media (max-width: 767.98px) { body.rs-has-md-nav .rs-network-bar { display: none !important; } .rs-mobile-network-section[data-rs-breakpoint="768"] { display: block !important; } #header-navigation-panel, #navbarCollapse, #music-mobile-navigation, .rs-standalone-network-bar.is-open .rs-network-links { max-height: calc(100vh - 4.5rem) !important; max-height: calc(100dvh - 4.5rem) !important; overflow-y: auto !important; overflow-x: hidden !important; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; padding-bottom: calc(3.25rem + env(safe-area-inset-bottom, 0px)) !important; } .rs-standalone-network-bar { position: sticky !important; top: 0 !important; z-index: 1055 !important; } .rs-standalone-network-bar .rs-network-mobile-toggle { display: inline-flex !important; } .rs-standalone-network-bar .rs-network-links { display: none !important; width: 100%; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.4rem; padding-top: 0.5rem; margin-top: 0.35rem; border-top: 1px solid rgba(148, 163, 184, 0.28); } .rs-standalone-network-bar.is-open .rs-network-links { display: grid !important; } .rs-standalone-network-bar .rs-network-links > li > a, .rs-standalone-network-bar .rs-network-dropdown-toggle { width: 100% !important; min-height: 38px; padding: 0.4rem 0.6rem !important; background-color: rgba(30, 41, 59, 0.75) !important; border-color: rgba(148, 163, 184, 0.3) !important; justify-content: flex-start; } .rs-standalone-network-bar .rs-network-dropdown { display: flex !important; flex-direction: column; align-items: stretch; } .rs-standalone-network-bar .rs-network-dropdown.is-open { grid-column: 1 / -1; } .rs-standalone-network-bar .rs-network-dropdown-menu { position: static !important; width: 100% !important; margin-top: 0.35rem !important; box-shadow: none !important; } }',
+      '@media (max-width: 1120px) { body.rs-has-primary-nav .rs-network-bar { display: none !important; } .rs-mobile-network-section[data-rs-breakpoint="1120"] { display: block !important; } #primary-navigation { max-height: calc(100vh - 4.5rem) !important; max-height: calc(100dvh - 4.5rem - env(safe-area-inset-top, 0px)) !important; overflow-y: auto !important; overflow-x: hidden !important; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; padding-bottom: calc(3.25rem + env(safe-area-inset-bottom, 0px)) !important; } }',
+      '@media (max-width: 767.98px) { body.rs-has-md-nav .rs-network-bar { display: none !important; } .rs-mobile-network-section[data-rs-breakpoint="768"] { display: block !important; } #header-navigation-panel, #navbarCollapse, #music-mobile-navigation, .rs-standalone-network-bar.is-open .rs-network-links { max-height: calc(100vh - 4.5rem) !important; max-height: calc(100dvh - 4.5rem - env(safe-area-inset-top, 0px)) !important; overflow-y: auto !important; overflow-x: hidden !important; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; padding-bottom: calc(3.25rem + env(safe-area-inset-bottom, 0px)) !important; } .rs-standalone-network-bar { position: sticky !important; top: 0 !important; z-index: 1055 !important; } .rs-standalone-network-bar .rs-network-mobile-toggle { display: inline-flex !important; } .rs-standalone-network-bar .rs-network-links { display: none !important; width: 100%; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.4rem; padding-top: 0.5rem; margin-top: 0.35rem; border-top: 1px solid rgba(148, 163, 184, 0.28); } .rs-standalone-network-bar.is-open .rs-network-links { display: grid !important; } .rs-standalone-network-bar .rs-network-links > li > a, .rs-standalone-network-bar .rs-network-dropdown-toggle { width: 100% !important; min-height: 38px; padding: 0.4rem 0.6rem !important; background-color: rgba(30, 41, 59, 0.75) !important; border-color: rgba(148, 163, 184, 0.3) !important; justify-content: flex-start; } .rs-standalone-network-bar .rs-network-dropdown { display: flex !important; flex-direction: column; align-items: stretch; } .rs-standalone-network-bar .rs-network-dropdown.is-open { grid-column: 1 / -1; } .rs-standalone-network-bar .rs-network-dropdown-menu { position: static !important; width: 100% !important; margin-top: 0.35rem !important; box-shadow: none !important; } }',
       '.rs-mobile-network-section[data-rs-breakpoint="always"] { display: block !important; }',
       '.rs-memoriam-bar { width: 100%; background: linear-gradient(90deg, #040711 0%, #0b132b 50%, #040711 100%) !important; color: #f8fafc !important; border-bottom: 1px solid rgba(251, 191, 36, 0.45) !important; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 0.78rem; line-height: 1.45; z-index: 1054; position: relative; }',
       'html[data-bs-theme="light"] .rs-memoriam-bar, html[data-theme="light"] .rs-memoriam-bar, html[data-color-scheme="light"] .rs-memoriam-bar { background: linear-gradient(90deg, #0b1120 0%, #172554 50%, #0b1120 100%) !important; color: #f8fafc !important; border-bottom: 1px solid #d97706 !important; }',
@@ -1064,28 +1064,50 @@
       '</a>' +
       '</div>';
 
-    if (existingBars.length > 0) {
-      existingBars[0].setAttribute('data-rs-memoriam-expires', MEMORIAM_EXPIRES_ISO);
-      existingBars[0].innerHTML = innerHtml;
+    var networkBar = document.querySelector('.rs-network-bar');
+
+    /* On Angular / SPA properties (`michaelpragsdale.com` `<mpr-root>`), wait until
+       the root component mounts `.rs-network-bar` so `.rs-memoriam-bar` NEVER renders
+       above `.rs-network-bar`. */
+    if (!networkBar && document.querySelector('mpr-root, app-root')) {
       return;
     }
 
-    var ribbon = document.createElement('div');
-    ribbon.className = 'rs-memoriam-bar';
-    ribbon.setAttribute('data-rs-memoriam-expires', MEMORIAM_EXPIRES_ISO);
-    ribbon.innerHTML = innerHtml;
-
-    var networkBar = document.querySelector('.rs-network-bar');
-    if (networkBar && networkBar.parentNode) {
-      if (networkBar.nextSibling) {
-        networkBar.parentNode.insertBefore(ribbon, networkBar.nextSibling);
-      } else {
-        networkBar.parentNode.appendChild(ribbon);
+    var ribbon;
+    if (existingBars.length > 0) {
+      for (var j = 1; j < existingBars.length; j++) {
+        if (existingBars[j] && existingBars[j].parentNode) {
+          existingBars[j].parentNode.removeChild(existingBars[j]);
+        }
       }
-    } else if (document.body.firstChild) {
-      document.body.insertBefore(ribbon, document.body.firstChild);
+      ribbon = existingBars[0];
+      ribbon.setAttribute('data-rs-memoriam-expires', MEMORIAM_EXPIRES_ISO);
+      ribbon.innerHTML = innerHtml;
     } else {
-      document.body.appendChild(ribbon);
+      ribbon = document.createElement('div');
+      ribbon.className = 'rs-memoriam-bar';
+      ribbon.setAttribute('data-rs-memoriam-expires', MEMORIAM_EXPIRES_ISO);
+      ribbon.innerHTML = innerHtml;
+    }
+
+    /* Always enforce canonical top-of-page order:
+       1. `.rs-network-bar` (Top Network Switcher)
+       2. `.rs-memoriam-bar` (Immediately below `.rs-network-bar`)
+       3. Site Header (`<header>`) */
+    if (networkBar && networkBar.parentNode) {
+      if (networkBar.nextElementSibling !== ribbon) {
+        if (networkBar.nextSibling) {
+          networkBar.parentNode.insertBefore(ribbon, networkBar.nextSibling);
+        } else {
+          networkBar.parentNode.appendChild(ribbon);
+        }
+      }
+    } else if (!ribbon.parentNode) {
+      if (document.body.firstChild) {
+        document.body.insertBefore(ribbon, document.body.firstChild);
+      } else {
+        document.body.appendChild(ribbon);
+      }
     }
   }
 
@@ -1259,5 +1281,20 @@
       }
     });
     obs.observe(stardustApp, { childList: true });
+  }
+
+  /* Observe Angular `<mpr-root>` / `<app-root>` on michaelpragsdale.com so the instant
+     `.rs-network-bar` mounts, `initRaggieSoftNetworkMenu()` upgrades it and places
+     `.rs-memoriam-bar` directly below it. */
+  var angularRoot = document.querySelector('mpr-root, app-root');
+  if (angularRoot && typeof MutationObserver !== 'undefined') {
+    var ngObs = new MutationObserver(function () {
+      var bar = angularRoot.querySelector('.rs-network-bar');
+      if (bar) {
+        initRaggieSoftNetworkMenu();
+        ngObs.disconnect();
+      }
+    });
+    ngObs.observe(angularRoot, { childList: true, subtree: true });
   }
 })();
