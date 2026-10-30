@@ -1118,7 +1118,7 @@
    * permanent "Second Star to the Right" In Memoriam tribute to Sir Patrick Stewart.
    */
   function ensureEcosystemJsonLdInjected() {
-    if (!document.head || document.getElementById('rs-ecosystem-jsonld')) return;
+    if (!document.head || document.getElementById('rs-ecosystem-jsonld') || document.getElementById('raggiesoft-head-jsonld')) return;
     try {
       var script = document.createElement('script');
       script.type = 'application/ld+json';
@@ -1133,7 +1133,7 @@
             name: 'RaggieSoft',
             alternateName: ['RaggieSoft Media', 'Engine Room Records', 'Ocean View Archives'],
             url: 'https://raggiesoft.com',
-            logo: 'https://assets.raggiesoft.com/raggiesoft-corporate/images/logos/raggiesoft-logo.png',
+            logo: 'https://assets.raggiesoft.com/raggiesoft-corporate/images/logo/raggiesoft-logo.png',
             founder: {
               '@type': 'Person',
               '@id': 'https://michaelpragsdale.com/#michael-ragsdale',
@@ -1177,7 +1177,7 @@
               { '@type': 'WebPage', name: 'In Memoriam: Sir Patrick Stewart', url: 'https://raggiesoft.com/in-memoriam' },
               { '@type': 'WebPage', name: 'RaggieSoft Nebulae (Caelum-IV Survey)', url: 'https://nebulae.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'RaggieSoft Book Reader (Ocean View Archives)', url: 'https://books.raggiesoft.com/' },
-              { '@type': 'WebPage', name: 'Escape Velocity: Ad Astra Book Series', url: 'https://books.raggiesoft.com/raggiesoft-books/ad-astra' },
+              { '@type': 'WebPage', name: 'Escape Velocity: Ad Astra Book Series', url: 'https://books.raggiesoft.com/ad-astra' },
               { '@type': 'WebPage', name: 'RaggieSoft Lore Graph', url: 'https://lore.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'RaggieSoft Backstage', url: 'https://backstage.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'The Listening Room', url: 'https://music.raggiesoft.com/' },
