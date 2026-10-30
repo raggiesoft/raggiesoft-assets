@@ -1,318 +1,1048 @@
 /**
- * @license MIT
  * ============================================================================
- * assets/nebulae.css — The RaggieSoft Nebulae (nebulae.raggiesoft.com)
+ * THE RAGGIESOFT NEBULAE — "ESCAPE VELOCITY (AD ASTRA)" STYLESHEET
  * ============================================================================
- * Implements the "Star-Chart Parchment (Light Mode) vs. Deep-Space Nebulae
- * Observatory (Dark Mode)" design system with strict WCAG 2.1 AA contrast and
- * prefers-reduced-motion compliance.
+ * File: /raggiesoft-assets/nebulae/css/nebulae.css
+ * Served via CDN: https://assets.raggiesoft.com/nebulae/css/nebulae.css
+ * License: MIT License (Code) / CC BY-SA 4.0 (Creative Content)
+ *
+ * ARCHITECTURAL & ACCESSIBILITY OVERVIEW:
+ * 1. Palette Extracted Directly from `ad-astra-landing.jpg`:
+ *    - Deep Cosmic Void / Midnight Indigo (`#0b0914`, `#120e24`)
+ *    - Vesperan Violet / Bioluminescent Purple (`#6b3fa0`, `#9d65d0`, `#c49bff`)
+ *    - Horizon Amber / Solis-V Gold (`#f5b041`, `#ffd166`)
+ *    - Mycelial Cyan & Crimson Accents (`#38ef7d`, `#00d2ff`, `#ff4b72`)
+ *    - Console Slate / Metallic Hull (`#1e222d`, `#2b3040`)
+ * 2. Dual Adaptive Theme Engine (WCAG 2.1 AA & 7:1 AAA Reading Blocks):
+ *    - Dark Mode (`@media (prefers-color-scheme: dark)` / `[data-theme="dark"]`):
+ *      Deep Cosmic Void & U.S.S. Aethelgard Bridge Telemetry aesthetic.
+ *    - Light Mode (`@media (prefers-color-scheme: light)` / `[data-theme="light"]`):
+ *      High-contrast "Daylight Starfleet Technical Manual / LCARS Parchment"
+ *      aesthetic using warm cream (`#f8f5f0`) and deep indigo typography (`#1a1033`).
+ * 3. Reduced Motion Safety (`@media (prefers-reduced-motion: reduce)`):
+ *    - Disables all pulsing bioluminescent keyframe animations, starfield drift,
+ *      and smooth-scroll transitions when requested by the operating system.
  * ============================================================================
  */
-:root,
-[data-theme="light"] {
-  color-scheme: light dark;
-  --neb-bg: #f4f6fb;
-  --neb-surface: rgba(255, 255, 255, 0.94);
-  --neb-elevated: #e6ecf8;
-  --neb-text: #0b132b;
-  --neb-muted: #334155;
-  --neb-border: #94a3b8;
-  --neb-accent: #1d4ed8;
-  --neb-gold: #9a5b00;
-  --neb-badge-bg: #dbeafe;
-  --neb-badge-text: #1e3a8a;
+
+/* ----------------------------------------------------------------------------
+ * 1. CORE PALETTE & ADAPTIVE THEME TOKENS
+ * ---------------------------------------------------------------------------- */
+:root {
+  /* Raw Palette Constants Extracted from `ad-astra-landing.jpg` */
+  --void-deep: #0b0914;
+  --void-indigo: #120e24;
+  --vespera-violet-deep: #6b3fa0;
+  --vespera-violet-mid: #9d65d0;
+  --vespera-violet-bright: #c49bff;
+  --solis-amber: #f5b041;
+  --solis-gold: #ffd166;
+  --mycelial-emerald: #38ef7d;
+  --mycelial-cyan: #00d2ff;
+  --mycelial-crimson: #ff4b72;
+  --console-slate: #1e222d;
+  --metallic-hull: #2b3040;
+
+  /* Typography & Layout Tokens */
+  --font-display: 'Audiowide', 'Orbitron', system-ui, -apple-system, sans-serif;
+  --font-sans: 'Titillium Web', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  --font-mono: ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace;
+  --max-width-container: 1360px;
+  --radius-panel: 1rem;
+  --radius-pill: 9999px;
+
+  /* Default to Dark Cosmic Theme Variables (> 11:1 AAA text contrast) */
+  color-scheme: dark;
+  --bg-canvas: var(--void-deep);
+  --bg-canvas-secondary: var(--void-indigo);
+  --bg-surface: #161329;
+  --bg-surface-elevated: var(--console-slate);
+  --bg-surface-glass: rgba(18, 14, 36, 0.88);
+  --bg-code-lyrics: #0e0b1c;
+  --text-primary: #f8f5ff;
+  --text-secondary: #ded4f4;
+  --text-muted: #bdb0dc;
+  --accent-gold: var(--solis-gold);
+  --accent-amber: var(--solis-amber);
+  --accent-violet: var(--vespera-violet-bright);
+  --accent-cyan: #5ce1ff;
+  --accent-crimson: #ff7592;
+  --accent-emerald: var(--mycelial-emerald);
+  --border-subtle: rgba(196, 155, 255, 0.26);
+  --border-strong: rgba(255, 209, 102, 0.55);
+  --focus-ring: var(--solis-gold);
+  --shadow-panel: 0 18px 42px rgba(0, 0, 0, 0.55);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --neb-bg: #050814;
-    --neb-surface: rgba(15, 23, 42, 0.92);
-    --neb-elevated: #111c38;
-    --neb-text: #f8fafc;
-    --neb-muted: #cbd5e1;
-    --neb-border: #334155;
-    --neb-accent: #38bdf8;
-    --neb-gold: #fbbf24;
-    --neb-badge-bg: #1e293b;
-    --neb-badge-text: #7dd3fc;
+/* High-Contrast Daylight Starfleet Technical Manual / LCARS Parchment Theme */
+@media (prefers-color-scheme: light) {
+  :root:not([data-theme="dark"]) {
+    color-scheme: light;
+    --bg-canvas: #f8f5f0;
+    --bg-canvas-secondary: #efe9df;
+    --bg-surface: #ffffff;
+    --bg-surface-elevated: #f3ede2;
+    --bg-surface-glass: rgba(255, 255, 255, 0.94);
+    --bg-code-lyrics: #f1ebe0;
+    --text-primary: #1a1033;
+    --text-secondary: #2c1e4a;
+    --text-muted: #4a396e;
+    --accent-gold: #7a3e00;
+    --accent-amber: #8c4600;
+    --accent-violet: #4b1d80;
+    --accent-cyan: #00546b;
+    --accent-crimson: #9c1434;
+    --accent-emerald: #0d6332;
+    --border-subtle: #cbbde0;
+    --border-strong: #9c6b19;
+    --focus-ring: #4b1d80;
+    --shadow-panel: 0 10px 28px rgba(26, 16, 51, 0.08);
   }
+}
+
+/* Explicit User Theme Override via Header Button (`data-theme="light"` | `"dark"`) */
+[data-theme="light"] {
+  color-scheme: light;
+  --bg-canvas: #f8f5f0;
+  --bg-canvas-secondary: #efe9df;
+  --bg-surface: #ffffff;
+  --bg-surface-elevated: #f3ede2;
+  --bg-surface-glass: rgba(255, 255, 255, 0.94);
+  --bg-code-lyrics: #f1ebe0;
+  --text-primary: #1a1033;
+  --text-secondary: #2c1e4a;
+  --text-muted: #4a396e;
+  --accent-gold: #7a3e00;
+  --accent-amber: #8c4600;
+  --accent-violet: #4b1d80;
+  --accent-cyan: #00546b;
+  --accent-crimson: #9c1434;
+  --accent-emerald: #0d6332;
+  --border-subtle: #cbbde0;
+  --border-strong: #9c6b19;
+  --focus-ring: #4b1d80;
+  --shadow-panel: 0 10px 28px rgba(26, 16, 51, 0.08);
 }
 
 [data-theme="dark"] {
-  --neb-bg: #050814;
-  --neb-surface: rgba(15, 23, 42, 0.92);
-  --neb-elevated: #111c38;
-  --neb-text: #f8fafc;
-  --neb-muted: #cbd5e1;
-  --neb-border: #334155;
-  --neb-accent: #38bdf8;
-  --neb-gold: #fbbf24;
-  --neb-badge-bg: #1e293b;
-  --neb-badge-text: #7dd3fc;
+  color-scheme: dark;
+  --bg-canvas: var(--void-deep);
+  --bg-canvas-secondary: var(--void-indigo);
+  --bg-surface: #161329;
+  --bg-surface-elevated: var(--console-slate);
+  --bg-surface-glass: rgba(18, 14, 36, 0.88);
+  --bg-code-lyrics: #0e0b1c;
+  --text-primary: #f8f5ff;
+  --text-secondary: #ded4f4;
+  --text-muted: #bdb0dc;
+  --accent-gold: var(--solis-gold);
+  --accent-amber: var(--solis-amber);
+  --accent-violet: var(--vespera-violet-bright);
+  --accent-cyan: #5ce1ff;
+  --accent-crimson: #ff7592;
+  --accent-emerald: var(--mycelial-emerald);
+  --border-subtle: rgba(196, 155, 255, 0.26);
+  --border-strong: rgba(255, 209, 102, 0.55);
+  --focus-ring: var(--solis-gold);
+  --shadow-panel: 0 18px 42px rgba(0, 0, 0, 0.55);
 }
 
-*, *::before, *::after {
+/* ----------------------------------------------------------------------------
+ * 2. DOCUMENT RESET, TYPOGRAPHY & FOCUS RINGS
+ * ---------------------------------------------------------------------------- */
+*,
+*::before,
+*::after {
   box-sizing: border-box;
 }
 
-body {
-  margin: 0;
-  min-height: 100vh;
-  background-color: var(--neb-bg);
-  color: var(--neb-text);
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-  line-height: 1.6;
-  display: flex;
-  flex-direction: column;
-  overflow-x: hidden;
+html {
+  min-height: 100%;
+  background-color: var(--bg-canvas);
+  color: var(--text-primary);
+  font-family: var(--font-sans);
+  line-height: 1.65;
+  scroll-behavior: smooth;
 }
 
-.nebulae-sky {
-  position: fixed;
-  inset: 0;
-  z-index: 0;
-  pointer-events: none;
-  background:
-    radial-gradient(circle at 18% 22%, rgba(56, 189, 248, 0.12), transparent 42%),
-    radial-gradient(circle at 82% 28%, rgba(168, 85, 247, 0.12), transparent 45%),
-    radial-gradient(circle at 50% 80%, rgba(251, 191, 36, 0.08), transparent 50%);
+body {
+  min-height: 100vh;
+  margin: 0;
+  background-color: var(--bg-canvas);
+  background-image:
+    radial-gradient(circle at 18% 12%, rgba(107, 63, 160, 0.14), transparent 42%),
+    radial-gradient(circle at 82% 18%, rgba(245, 176, 65, 0.1), transparent 45%);
+  color: var(--text-primary);
+  display: flex;
+  flex-direction: column;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-display);
+  line-height: 1.25;
+  margin-top: 0;
+  color: var(--text-primary);
+  text-wrap: balance;
+}
+
+p, li, dd, blockquote {
+  text-wrap: pretty;
+}
+
+a {
+  color: var(--accent-cyan);
+  text-decoration: underline;
+  text-underline-offset: 0.2em;
+}
+
+a:hover {
+  color: var(--accent-gold);
+}
+
+/* Modern Web Guidance (accessibility): Explicit high-contrast :focus-visible rings */
+:where(a:any-link, button, [tabindex="0"]):focus-visible {
+  outline: 3px solid var(--focus-ring);
+  outline-offset: 3px;
+}
+
+/* Modern Web Guidance (accessibility): Visually Hidden / Skip Link Utility */
+.visually-hidden:where(:not(:focus-within, :active)) {
+  position: absolute !important;
+  clip-path: inset(50%) !important;
+  overflow: hidden !important;
+  width: 1px !important;
+  height: 1px !important;
+  margin: -1px !important;
+  padding: 0 !important;
+  border: 0 !important;
+  white-space: nowrap !important;
 }
 
 .skip-link {
-  position: absolute;
-  top: -100px;
-  left: 1rem;
-  z-index: 9999;
-  padding: 0.6rem 1.1rem;
-  background: var(--neb-accent);
-  color: var(--neb-bg);
-  font-weight: 800;
+  position: fixed;
+  top: 0.75rem;
+  left: 0.75rem;
+  z-index: 10000;
+  background-color: var(--void-deep);
+  color: var(--solis-gold);
+  border: 2px solid var(--solis-gold);
   border-radius: 0.5rem;
+  padding: 0.65rem 1.1rem;
+  font-family: var(--font-mono);
+  font-weight: 700;
   text-decoration: none;
 }
-.skip-link:focus {
-  top: 1rem;
-}
 
-:focus-visible {
-  outline: 3px solid var(--neb-accent);
-  outline-offset: 2px;
-}
-
-.container {
-  position: relative;
-  z-index: 1;
-  width: 100%;
-  max-width: 1280px;
-  margin: 0 auto;
-  padding: 0 1.25rem;
-}
-
-/* Compact Sticky Observatory Header (michaelpragsdale.com pattern) */
-.site-header {
-  position: sticky;
-  top: 0;
-  z-index: 50;
-  background-color: var(--neb-surface);
+/* ----------------------------------------------------------------------------
+ * 3. HEADER & SUBDOMAIN COMMAND BAR
+ * ---------------------------------------------------------------------------- */
+.nebulae-header {
+  background-color: var(--bg-surface-glass);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
-  border-bottom: 1px solid var(--neb-border);
+  border-bottom: 2px solid var(--border-strong);
+  position: sticky;
+  top: 0;
+  z-index: 100;
 }
 
-.header-inner {
+.nebulae-header-inner {
+  max-width: var(--max-width-container);
+  margin: 0 auto;
+  padding: 0.85rem 1.5rem;
   display: flex;
-  flex-wrap: nowrap;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.brand-lockup {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  text-decoration: none;
+  color: var(--text-primary);
+}
+
+.brand-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.35rem 0.7rem;
+  border-radius: 0.45rem;
+  background: linear-gradient(135deg, var(--vespera-violet-deep), var(--metallic-hull));
+  border: 1px solid var(--solis-gold);
+  color: var(--solis-gold);
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+.brand-titles {
+  display: flex;
+  flex-direction: column;
+}
+
+.brand-title-main {
+  font-family: var(--font-display);
+  font-size: 1.05rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--text-primary);
+}
+
+.brand-title-sub {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.section-nav ul {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.section-nav a,
+.theme-toggle-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-block-size: 2.5rem;
+  padding: 0.4rem 0.85rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background-color: var(--bg-surface);
+  color: var(--text-primary);
+  font-size: 0.86rem;
+  font-weight: 600;
+  text-decoration: none;
+  cursor: pointer;
+  transition: border-color 0.2s ease, transform 0.2s ease;
+}
+
+.section-nav a:hover,
+.theme-toggle-btn:hover {
+  border-color: var(--accent-gold);
+  color: var(--accent-gold);
+}
+
+/* ----------------------------------------------------------------------------
+ * 4. MAIN CONTAINER & TELEMETRY RIBBON
+ * ---------------------------------------------------------------------------- */
+.nebulae-main {
+  flex: 1 0 auto;
+  max-width: var(--max-width-container);
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 4rem;
+}
+
+.hero-intro {
+  margin-bottom: 1.75rem;
+}
+
+.eyebrow-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--accent-gold);
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-strong);
+  border-radius: var(--radius-pill);
+  padding: 0.3rem 0.9rem;
+  margin-bottom: 0.9rem;
+}
+
+.pulse-dot {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  background-color: var(--mycelial-emerald);
+  box-shadow: 0 0 10px var(--mycelial-emerald);
+  animation: pulse120bpm 0.5s infinite alternate ease-in-out;
+}
+
+@keyframes pulse120bpm {
+  from {
+    opacity: 0.45;
+    transform: scale(0.9);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1.18);
+  }
+}
+
+.hero-title {
+  font-size: clamp(1.85rem, 3.6vw, 3rem);
+  margin-bottom: 0.65rem;
+  letter-spacing: 0.02em;
+}
+
+.hero-lead {
+  font-size: clamp(1.05rem, 1.4vw, 1.22rem);
+  color: var(--text-secondary);
+  max-width: 78ch;
+  margin: 0 0 1.25rem;
+}
+
+.hero-cta-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  margin-bottom: 1.75rem;
+}
+
+.btn-cosmic {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  min-block-size: 2.75rem;
+  padding: 0.65rem 1.25rem;
+  border-radius: 0.6rem;
+  font-weight: 700;
+  font-size: 0.95rem;
+  text-decoration: none;
+  border: 1px solid transparent;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.btn-cosmic-primary {
+  background-color: var(--solis-gold);
+  color: #0b0914;
+  border-color: var(--solis-gold);
+}
+
+.btn-cosmic-primary:hover {
+  background-color: var(--solis-amber);
+  color: #0b0914;
+  transform: translateY(-2px);
+}
+
+.btn-cosmic-secondary {
+  background-color: var(--bg-surface);
+  color: var(--text-primary);
+  border-color: var(--border-strong);
+}
+
+.btn-cosmic-secondary:hover {
+  border-color: var(--accent-gold);
+  color: var(--accent-gold);
+  transform: translateY(-2px);
+}
+
+/* Telemetry Strip */
+.telemetry-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
+  gap: 0.75rem;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-left: 4px solid var(--accent-gold);
+  border-radius: var(--radius-panel);
+  box-shadow: var(--shadow-panel);
+}
+
+.telemetry-item {
+  padding: 0.35rem 0.5rem;
+}
+
+.telemetry-label {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: 0.72rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent-gold);
+}
+
+.telemetry-value {
+  display: block;
+  font-size: 0.92rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin-top: 0.15rem;
+}
+
+/* ----------------------------------------------------------------------------
+ * 5. AETHELGARD HATCH 16:9 VIEWPORT & ACCESSIBLE SENSOR HOTSPOTS
+ * ---------------------------------------------------------------------------- */
+.hatch-frame {
+  background: linear-gradient(180deg, var(--metallic-hull) 0%, var(--console-slate) 100%);
+  border: 2px solid var(--border-strong);
+  border-radius: 1.25rem;
+  padding: 0.85rem;
+  box-shadow: var(--shadow-panel);
+  margin-bottom: 1.5rem;
+}
+
+.hatch-status-bar {
+  display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: space-between;
   gap: 0.75rem;
-  padding: 0.55rem 0;
+  padding: 0.45rem 0.75rem 0.8rem;
+  color: #f8f5ff;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
 }
 
-.brand-title {
-  font-size: 0.96rem;
-  font-weight: 900;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: var(--neb-text);
-  text-decoration: none;
-  white-space: nowrap;
-}
-
-.mobile-menu-toggle {
-  display: none;
+.hatch-status-left,
+.hatch-status-right {
+  display: flex;
   align-items: center;
-  justify-content: center;
-  width: 44px;
-  height: 44px;
-  padding: 0;
-  border-radius: 0.5rem;
-  border: 1px solid var(--neb-border);
-  background-color: var(--neb-elevated);
-  color: var(--neb-text);
+  gap: 0.65rem;
+  flex-wrap: wrap;
+}
+
+.hatch-badge {
+  background-color: rgba(11, 9, 20, 0.85);
+  color: var(--solis-gold);
+  border: 1px solid rgba(255, 209, 102, 0.55);
+  border-radius: 0.35rem;
+  padding: 0.2rem 0.55rem;
+  font-weight: 700;
+}
+
+.viewport-stage {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border-radius: 0.85rem;
+  overflow: hidden;
+  background-color: #0b0914;
+  border: 1px solid rgba(255, 255, 255, 0.22);
+}
+
+.viewport-stage img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+/* Overlaid Accessible Sensor Hotspot Buttons on the 16:9 Viewport */
+.hotspot-pin {
+  position: absolute;
+  left: calc(var(--pin-x, 50) * 1%);
+  top: calc(var(--pin-y, 50) * 1%);
+  transform: translate(-50%, -50%);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  min-block-size: 2.5rem;
+  min-inline-size: 2.5rem;
+  padding: 0.35rem 0.75rem;
+  border-radius: var(--radius-pill);
+  background-color: rgba(11, 9, 20, 0.9);
+  color: #f8f5ff;
+  border: 2px solid var(--solis-gold);
+  box-shadow: 0 0 0 3px rgba(11, 9, 20, 0.75), 0 6px 18px rgba(0, 0, 0, 0.7);
+  font-family: var(--font-mono);
+  font-size: 0.78rem;
+  font-weight: 700;
   cursor: pointer;
+  z-index: 5;
+  transition: transform 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+}
+
+.hotspot-pin:hover,
+.hotspot-pin[aria-expanded="true"] {
+  background-color: var(--solis-gold);
+  color: #0b0914;
+  border-color: #ffffff;
+  transform: translate(-50%, -50%) scale(1.06);
+  z-index: 6;
+}
+
+.hotspot-pin-dot {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  background-color: var(--mycelial-cyan);
   flex-shrink: 0;
 }
 
-.control-bar {
+.hotspot-pin[aria-expanded="true"] .hotspot-pin-dot {
+  background-color: #0b0914;
+}
+
+@media (max-width: 768px) {
+  .hotspot-pin-label {
+    display: none;
+  }
+  .hotspot-pin {
+    padding: 0.35rem 0.55rem;
+  }
+}
+
+.hatch-caption {
+  margin: 0.75rem 0 0;
+  padding: 0.25rem 0.65rem;
+  color: #e2d9f3;
+  font-size: 0.88rem;
+}
+
+/* Sensor Selector Button Bar Below Viewport */
+.sensor-selector-bar {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 0.65rem;
+  margin-bottom: 1.25rem;
+}
+
+.sensor-tab-btn {
   display: flex;
-  flex-wrap: nowrap;
-  gap: 0.45rem;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.2rem;
+  min-block-size: 3.25rem;
+  padding: 0.75rem 1rem;
+  border-radius: 0.75rem;
+  background-color: var(--bg-surface);
+  color: var(--text-primary);
+  border: 2px solid var(--border-subtle);
+  text-align: left;
+  cursor: pointer;
+  transition: border-color 0.2s ease, background-color 0.2s ease;
+}
+
+.sensor-tab-btn:hover {
+  border-color: var(--accent-violet);
+}
+
+.sensor-tab-btn[aria-expanded="true"] {
+  border-color: var(--accent-gold);
+  background-color: var(--bg-surface-elevated);
+}
+
+.sensor-tab-code {
+  font-family: var(--font-mono);
+  font-size: 0.74rem;
+  font-weight: 700;
+  color: var(--accent-gold);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.sensor-tab-title {
+  font-weight: 700;
+  font-size: 0.94rem;
+  color: var(--text-primary);
+}
+
+/* Active Sensor Readout Panel */
+.sensor-readout-deck {
+  margin-bottom: 3.5rem;
+}
+
+.sensor-panel {
+  background-color: var(--bg-surface);
+  border: 2px solid var(--border-strong);
+  border-radius: var(--radius-panel);
+  padding: 1.75rem;
+  box-shadow: var(--shadow-panel);
+}
+
+.sensor-panel[hidden] {
+  display: none !important;
+}
+
+.sensor-panel-header {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 0.75rem;
+  border-bottom: 1px solid var(--border-subtle);
+  padding-bottom: 1rem;
+  margin-bottom: 1.25rem;
+}
+
+.sensor-panel-category {
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--accent-cyan);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.sensor-panel-summary {
+  font-size: 1.08rem;
+  font-weight: 600;
+  color: var(--text-primary);
+  margin: 0 0 1.25rem;
+}
+
+.sensor-details-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+}
+
+.sensor-detail-card {
+  background-color: var(--bg-surface-elevated);
+  border: 1px solid var(--border-subtle);
+  border-left: 4px solid var(--accent-violet);
+  border-radius: 0.75rem;
+  padding: 1.1rem 1.25rem;
+}
+
+.sensor-detail-card h4 {
+  font-family: var(--font-sans);
+  font-size: 1.02rem;
+  font-weight: 700;
+  color: var(--accent-gold);
+  margin: 0 0 0.45rem;
+}
+
+.sensor-detail-card p {
+  margin: 0;
+  font-size: 0.96rem;
+  color: var(--text-secondary);
+}
+
+/* ----------------------------------------------------------------------------
+ * 6. 4-ACT DIRECTOR'S STORYBOARD & LORE TREATMENT
+ * ---------------------------------------------------------------------------- */
+.section-block {
+  margin-bottom: 4rem;
+}
+
+.section-header {
+  margin-bottom: 1.75rem;
+}
+
+.section-title {
+  font-size: clamp(1.55rem, 2.6vw, 2.25rem);
+  margin-bottom: 0.5rem;
+}
+
+.section-subtitle {
+  color: var(--text-secondary);
+  font-size: 1.05rem;
+  max-width: 75ch;
+  margin: 0;
+}
+
+.act-filter-bar {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+
+.act-filter-btn {
+  min-block-size: 2.65rem;
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius-pill);
+  border: 1px solid var(--border-subtle);
+  background-color: var(--bg-surface);
+  color: var(--text-primary);
+  font-family: var(--font-mono);
+  font-size: 0.84rem;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.act-filter-btn[aria-pressed="true"] {
+  background-color: var(--solis-gold);
+  color: #0b0914;
+  border-color: var(--solis-gold);
+}
+
+.storyboard-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+}
+
+.act-card {
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-top: 4px solid var(--accent-gold);
+  border-radius: var(--radius-panel);
+  padding: 1.75rem;
+  box-shadow: var(--shadow-panel);
+}
+
+.act-card[hidden] {
+  display: none !important;
+}
+
+.act-card-header {
+  display: flex;
+  flex-wrap: wrap;
   align-items: center;
+  justify-content: space-between;
+  gap: 0.75rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.85rem;
+  border-bottom: 1px solid var(--border-subtle);
+}
+
+.act-badge-group {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.6rem;
+}
+
+.act-number-pill {
+  background-color: var(--vespera-violet-deep);
+  color: #ffffff;
+  border: 1px solid var(--vespera-violet-bright);
+  padding: 0.25rem 0.7rem;
+  border-radius: 0.4rem;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.act-timecode-pill {
+  background-color: var(--bg-surface-elevated);
+  color: var(--accent-gold);
+  border: 1px solid var(--border-strong);
+  padding: 0.25rem 0.7rem;
+  border-radius: 0.4rem;
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  font-weight: 700;
+}
+
+.act-tempo {
+  font-family: var(--font-mono);
+  font-size: 0.82rem;
+  color: var(--accent-cyan);
+}
+
+.act-card-body {
+  display: grid;
+  grid-template-columns: 1.35fr 1fr;
+  gap: 1.5rem;
+  align-items: start;
 }
 
 @media (max-width: 900px) {
-  .header-inner {
-    flex-wrap: wrap;
-  }
-  .mobile-menu-toggle {
-    display: inline-flex;
-  }
-  .control-bar {
-    display: none;
-    width: 100%;
-    flex-direction: column;
-    align-items: stretch;
-    padding-top: 0.5rem;
-    border-top: 1px solid var(--neb-border);
-  }
-  .control-bar.is-open {
-    display: flex;
+  .act-card-body {
+    grid-template-columns: 1fr;
   }
 }
 
-.btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.35rem;
-  padding: 0.38rem 0.75rem;
-  border-radius: 0.45rem;
-  border: 1px solid var(--neb-border);
-  background-color: var(--neb-elevated);
-  color: var(--neb-text);
-  font-size: 0.8rem;
+.act-meta-label {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
   font-weight: 700;
-  text-decoration: none;
-  cursor: pointer;
-  white-space: nowrap;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent-gold);
+  margin: 0.85rem 0 0.25rem;
 }
 
-.btn[aria-pressed="true"],
-.btn-active {
-  background-color: var(--neb-accent);
-  color: var(--neb-bg);
-  border-color: transparent;
+.act-meta-label:first-child {
+  margin-top: 0;
 }
 
-.hero-panel {
-  background-color: var(--neb-surface);
-  border: 1px solid var(--neb-border);
-  border-radius: 1rem;
-  padding: 2rem;
-  margin: 2rem 0 1.5rem;
-  min-width: 0;
-  max-width: 100%;
-  overflow: hidden;
-}
-
-.search-input {
-  width: 100%;
-  padding: 0.85rem 1.1rem;
+.act-prose {
+  margin: 0 0 0.75rem;
+  color: var(--text-secondary);
   font-size: 1rem;
-  border-radius: 0.65rem;
-  border: 2px solid var(--neb-border);
-  background-color: var(--neb-bg);
-  color: var(--neb-text);
-  margin-bottom: 1rem;
 }
 
-.filter-pills {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.45rem;
+.act-lyrics-box {
+  background-color: var(--bg-code-lyrics);
+  border: 1px solid var(--border-subtle);
+  border-left: 4px solid var(--accent-cyan);
+  border-radius: 0.75rem;
+  padding: 1.15rem 1.35rem;
+  margin: 0;
 }
 
-.constellation-card {
-  background-color: var(--neb-surface);
-  border: 1px solid var(--neb-border);
-  border-radius: 1rem;
-  padding: 1.5rem;
-  margin-bottom: 1.5rem;
-  min-width: 0;
-  max-width: 100%;
-  overflow: hidden;
-  overflow-wrap: break-word;
+.act-lyrics-box figcaption {
+  font-family: var(--font-mono);
+  font-size: 0.76rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--accent-cyan);
+  margin-bottom: 0.65rem;
 }
 
-.route-grid {
+.act-lyrics-box blockquote {
+  margin: 0;
+  font-family: var(--font-sans);
+  font-style: italic;
+  font-size: 0.96rem;
+  line-height: 1.6;
+  color: var(--text-primary);
+}
+
+/* ----------------------------------------------------------------------------
+ * 7. PLANETARY SURVEY DOSSIER (PART 1 DEEP-DIVE PILLARS)
+ * ---------------------------------------------------------------------------- */
+.pillars-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(min(100%, 320px), 1fr));
-  gap: 0.75rem;
-  margin-top: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
 }
 
-.route-grid > * {
-  min-width: 0;
-  max-width: 100%;
-}
-
-.route-item {
+.pillar-card {
+  background-color: var(--bg-surface);
+  border: 1px solid var(--border-subtle);
+  border-radius: var(--radius-panel);
+  padding: 1.75rem;
+  box-shadow: var(--shadow-panel);
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
-  padding: 0.75rem 0.95rem;
-  border-radius: 0.65rem;
-  background-color: var(--neb-elevated);
-  border: 1px solid var(--neb-border);
-  min-width: 0;
-  max-width: 100%;
-  overflow: hidden;
-  overflow-wrap: break-word;
+  gap: 1rem;
 }
 
-.route-item a {
-  color: var(--neb-accent);
-  font-weight: 700;
-  text-decoration: none;
-}
-.route-item a:hover {
-  text-decoration: underline;
-}
-
-.route-path {
-  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+.pillar-eyebrow {
+  font-family: var(--font-mono);
   font-size: 0.76rem;
-  color: var(--neb-muted);
-  word-break: break-all;
-}
-
-.badge {
-  display: inline-block;
-  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
-  font-size: 0.72rem;
   font-weight: 700;
-  padding: 0.15rem 0.5rem;
-  border-radius: 0.35rem;
-  background-color: var(--neb-badge-bg);
-  color: var(--neb-badge-text);
-  max-width: 100%;
-  white-space: normal !important;
-  overflow-wrap: break-word;
-  word-break: break-word;
+  color: var(--accent-gold);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
-.site-footer {
-  background-color: var(--neb-surface);
-  border-top: 1px solid var(--neb-border);
-  padding: 2rem 0;
-  margin-top: 3rem;
+.pillar-title {
+  font-size: 1.3rem;
+  margin: 0;
+}
+
+.pillar-intro {
+  margin: 0;
+  color: var(--text-secondary);
+  font-size: 0.98rem;
+}
+
+.pillar-dl {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+}
+
+.pillar-dl-item {
+  background-color: var(--bg-surface-elevated);
+  border: 1px solid var(--border-subtle);
+  border-left: 3px solid var(--accent-gold);
+  border-radius: 0.65rem;
+  padding: 0.9rem 1.05rem;
+}
+
+.pillar-dl-item dt {
+  font-weight: 700;
+  color: var(--text-primary);
+  font-size: 0.98rem;
+  margin-bottom: 0.3rem;
+}
+
+.pillar-dl-item dd {
+  margin: 0;
+  color: var(--text-secondary);
+  font-size: 0.94rem;
+}
+
+/* ----------------------------------------------------------------------------
+ * 8. CREATOR'S COSMIC DEDICATION & GLOBAL FOOTER
+ * ---------------------------------------------------------------------------- */
+.dedication-banner {
+  background: linear-gradient(135deg, rgba(18, 14, 36, 0.96), rgba(30, 34, 45, 0.96));
+  color: #f8f5ff;
+  border: 1px solid var(--solis-gold);
+  border-left: 5px solid var(--solis-gold);
+  border-radius: var(--radius-panel);
+  padding: 1.75rem;
+  margin-bottom: 3rem;
+  box-shadow: var(--shadow-panel);
+}
+
+.dedication-banner h2 {
+  color: #f8f5ff;
+  font-size: 1.35rem;
+  margin-bottom: 0.5rem;
+}
+
+.dedication-banner p {
+  color: #e2d9f3;
+  margin: 0 0 0.85rem;
+  max-width: 82ch;
+}
+
+.dedication-banner a {
+  color: var(--solis-gold);
+  font-weight: 700;
+}
+
+.nebulae-footer {
+  background-color: var(--bg-surface);
+  border-top: 2px solid var(--border-subtle);
+  padding: 2.5rem 1.5rem;
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+}
+
+.nebulae-footer-inner {
+  max-width: var(--max-width-container);
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.footer-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.1rem;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.fictitious-disclaimer {
+  background-color: var(--bg-surface-elevated);
+  border: 1px solid var(--border-subtle);
+  border-radius: 0.65rem;
+  padding: 0.9rem 1.1rem;
   font-size: 0.84rem;
-  color: var(--neb-muted);
+  color: var(--text-secondary);
 }
 
-.disclaimer-box {
-  background-color: var(--neb-elevated);
-  border: 1px solid var(--neb-border);
-  border-radius: 0.75rem;
-  padding: 1rem 1.25rem;
-  margin: 1rem 0;
+/* ----------------------------------------------------------------------------
+ * 9. REDUCED MOTION COMPLIANCE (WCAG 2.1 SC 2.3.3 & Modern Web Guidance `motion`)
+ * ---------------------------------------------------------------------------- */
+@property --animation-reduced {
+  syntax: "*";
+  inherits: false;
+  initial-value: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto !important;
+  }
+  * {
+    animation: var(--animation-reduced) !important;
+    transition: none !important;
+  }
 }
