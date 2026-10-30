@@ -2,21 +2,21 @@
     "series_title": "Escape Velocity: Ad Astra",
     "series_slug": "ad-astra",
     "series_theme": "ad-astra-nebulae",
-    "series_description": "The cosmic visual storybook and planetary expedition chronicles of The Stardust Engine aboard the U.S.S. Aethelgard. Beginning inside the subterranean launch cavern beneath 'The Fortress' on Industrial Park Road in Blacksburg, Virginia (Movements I\u2013III), Ryan, Cassidy, and Holly O'Connell\u2014alongside twin pilots Tyler and Evan Wright\u2014leave the fluorescent Cage of Earth behind, cross 1,200 light-years at FTL Harmonic Continuum speed, and step onto Caelum-IV (Movement IV, Stardate 49601): a tidally locked, 0.90G purple-ocean moon orbiting the ringed super-Jovian Vespera (Kepler-442c) whose living biosphere pulses at 120.0 BPM.",
+    "series_description": "The cosmic visual storybook and planetary expedition chronicles of The Stardust Engine aboard the U.S.S. Aethelgard. Beginning inside the subterranean launch cavern beneath 'The Fortress' on Industrial Park Road in Blacksburg, Virginia (Movements I\u2013III), Ryan, Cassidy, and Holly O'Connell\u2014alongside twin pilots Tyler and Evan Wright\u2014leave the fluorescent Cage of Earth behind, cross 1,200 light-years at FTL Harmonic Continuum speed, and step onto Caelum-IV (Movement IV, Stardate 49601): a 48-hour tidally locked, 0.88G purple-ocean moon orbiting the ringed super-Jovian Vespera (Kepler-442c) whose living biosphere pulses at 120.0 BPM.",
     "series_description_long": "",
     "series_image": "/raggiesoft-books/images/covers/2x3/ad-astra.jpg",
     "next_series_url": "/raggiesoft-books/books/stardust-engine",
     "ebook_sizes": {
-        "epub": "2.3 MB",
-        "pdf": "1.1 MB",
-        "text_epub": "45 KB",
-        "text_pdf": "149 KB",
-        "epub_bytes": 2374904,
-        "pdf_bytes": 1164539,
-        "text_epub_bytes": 45744,
-        "text_pdf_bytes": 152781
+        "epub": "2.6 MB",
+        "pdf": "1.3 MB",
+        "text_epub": "54 KB",
+        "text_pdf": "176 KB",
+        "epub_bytes": 2729109,
+        "pdf_bytes": 1343291,
+        "text_epub_bytes": 55507,
+        "text_pdf_bytes": 180097
     },
-    "illustration_count": 7,
+    "illustration_count": 8,
     "eras": [
         {
             "era_num": 1,
@@ -102,9 +102,9 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Days 2\u20133 in the Continuum: Pilot Shift Swaps, Onboard Studio Jam & Calibrating to 0.90G",
+                            "part_title": "Part 2: Days 2\u20133 in the Continuum: Pilot Shift Swaps, Onboard Studio Jam & Calibrating to 0.88G",
                             "file_path": "e001/c003/p002.md",
-                            "url": "/ad-astra/prologue-escape-velocity-movements-i-iii-earth-to-the-stars/movement-iii-the-cosmos-zero-g-hugs-the-nebula-stream/part-2-days-2-3-in-the-continuum-pilot-shift-swaps-onboard-studio-jam-calibrating-to-0-90g",
+                            "url": "/ad-astra/prologue-escape-velocity-movements-i-iii-earth-to-the-stars/movement-iii-the-cosmos-zero-g-hugs-the-nebula-stream/part-2-days-2-3-in-the-continuum-pilot-shift-swaps-onboard-studio-jam-calibrating-to-0-88g",
                             "date": "1996-07-18",
                             "start_time": "14:00",
                             "location": "Forward Cockpit & Onboard Recording Studio Lounge, U.S.S. Aethelgard \u2014 Deep-Space Continuum Transit (Days 2\u20133)",
@@ -126,7 +126,7 @@
             "era_num": 2,
             "era_title": "Book 1: Sanctuary on Caelum-IV (Movement IV \u2014 Stardate 49601)",
             "era_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601",
-            "illustration_count": 3,
+            "illustration_count": 4,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -141,8 +141,8 @@
                             "url": "/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-1-aft-cargo-hatch-open-stardate-49601-0/aft-cargo-hatch-open",
                             "stardate": "49601.0",
                             "realm_time": "Vespera Zenith \u2022 Lumen\u2013Umbra First Conjunction (120.0 BPM Lock)",
-                            "start_time": "HC 00:00 (Hatch Unseal)",
-                            "location": "Aft Cargo Bay & Landing Ramp, U.S.S. Aethelgard \u2014 Caelum-IV Shoreline (Kepler-442c)",
+                            "start_time": "HC 00:00 (Touchdown, Hailing Silence & Breathability Scan)",
+                            "location": "Aft Locker Bay, Cargo Bay & Landing Ramp, U.S.S. Aethelgard \u2014 Caelum-IV Shoreline (Kepler-442c)",
                             "image": "/raggiesoft-books/images/scenes/ad-astra/e001-c001-p001-caelum-iv-landing.jpg",
                             "image_alt": "Widescreen view from inside the open cargo hatch of the star-cruiser U.S.S. Aethelgard looking out onto the purple-sand beach and violet ocean of Caelum-IV. On the left, pilot twin Tyler/Evan Wright stands beside lead guitarist Ryan O'Connell in his custom manual wheelchair at the top of the landing ramp. Beside Ryan, lead vocalist Cassidy O'Connell holds a handheld frequency scanner and points out toward the bay in curiosity. On the right, manager Holly O'Connell stands by the starboard telemetry console with a datapad, keeping clear line-of-sight with her siblings. Outside, lavender bio-silica fronds and giant bioluminescent mushroom canopies frame a sky dominated by the ringed gas giant Vespera, its shepherd moons Lumen and Umbra, and the golden twilight of the orange dwarf star Solis-V.",
                             "images": [
@@ -221,6 +221,33 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/ad-astra/e002-c004-p001-umbral-hush-ring-night.jpg",
                                     "alt": "Photorealistic widescreen view on the purple-sand beach of Caelum-IV during the Umbral Hush eclipse at the center of the 24-hour Ring-Night. Overhead, the orange sun is hidden directly behind the dark disk of the gas giant Vespera, rimming the giant planet in a blazing 360-degree halo of backlit golden-and-violet rings. Along the shoreline, the 40-foot lavender bio-silica fronds, giant Myco-Tower mushroom canopies, crimson-and-cyan mycelial root veins, and two breaching Vesperan Chorus-Rays glow in full bioluminescence around mid-20s Ryan O'Connell in his manual wheelchair, Cassidy O'Connell resting her hand on his wheelchair push-handle like a walker, Holly O'Connell, and twins Tyler and Evan Wright."
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 5,
+                    "chap_title": "Chapter 5: 0.88G Calibration, Water Scans & The Purple Sea (Stardate 49602.1)",
+                    "chap_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-5-0-88g-calibration-water-scans-the-purple-sea-stardate-49602-1",
+                    "illustration_count": 1,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "0.88G Calibration, Water Scans & The Purple Sea",
+                            "file_path": "e002/c005/p001.md",
+                            "url": "/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-5-0-88g-calibration-water-scans-the-purple-sea-stardate-49602-1/0-88g-calibration-water-scans-the-purple-sea",
+                            "stardate": "49602.1",
+                            "realm_time": "Second Vesperan Orbit \u2022 Rising Solis Sun-Cycle (120.0 BPM Lock)",
+                            "start_time": "HC 02:10 (0.88G Wheelie Calibration)",
+                            "location": "Aft Landing Ramp & Basaltic Crescent Beach, U.S.S. Aethelgard \u2014 Caelum-IV (Kepler-442c)",
+                            "image": "/raggiesoft-books/images/scenes/ad-astra/e002-c005-p001-purple-ocean-swim-and-scan.jpg",
+                            "image_alt": "Photorealistic widescreen view on the purple-sand beach of Caelum-IV beside the open landing ramp of the U.S.S. Aethelgard. Mid-20s Ryan O'Connell in his manual wheelchair with rear push-handles, Cassidy O'Connell resting her left hand on his push-handle for balance while holding a tethered hydro-chemical sensor probe in the glowing violet surf, Holly O'Connell reading the emerald SAFE assay on her MagnaPad, and twins Tyler and Evan Wright scanning a coastal shrub of glowing golden-violet Lantern-Berries.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/ad-astra/e002-c005-p001-purple-ocean-swim-and-scan.jpg",
+                                    "alt": "Photorealistic widescreen view on the purple-sand beach of Caelum-IV beside the open landing ramp of the U.S.S. Aethelgard. Mid-20s Ryan O'Connell in his manual wheelchair with rear push-handles, Cassidy O'Connell resting her left hand on his push-handle for balance while holding a tethered hydro-chemical sensor probe in the glowing violet surf, Holly O'Connell reading the emerald SAFE assay on her MagnaPad, and twins Tyler and Evan Wright scanning a coastal shrub of glowing golden-violet Lantern-Berries."
                                 }
                             ],
                             "image_count": 1

@@ -2,22 +2,22 @@
     {
         "slug": "ad-astra",
         "title": "Escape Velocity: Ad Astra",
-        "description": "The cosmic visual storybook and planetary expedition chronicles of The Stardust Engine aboard the U.S.S. Aethelgard. Beginning inside the subterranean launch cavern beneath 'The Fortress' on Industrial Park Road in Blacksburg, Virginia (Movements I\u2013III), Ryan, Cassidy, and Holly O'Connell\u2014alongside twin pilots Tyler and Evan Wright\u2014leave the fluorescent Cage of Earth behind, cross 1,200 light-years at FTL Harmonic Continuum speed, and step onto Caelum-IV (Movement IV, Stardate 49601): a tidally locked, 0.90G purple-ocean moon orbiting the ringed super-Jovian Vespera (Kepler-442c) whose living biosphere pulses at 120.0 BPM.",
+        "description": "The cosmic visual storybook and planetary expedition chronicles of The Stardust Engine aboard the U.S.S. Aethelgard. Beginning inside the subterranean launch cavern beneath 'The Fortress' on Industrial Park Road in Blacksburg, Virginia (Movements I\u2013III), Ryan, Cassidy, and Holly O'Connell\u2014alongside twin pilots Tyler and Evan Wright\u2014leave the fluorescent Cage of Earth behind, cross 1,200 light-years at FTL Harmonic Continuum speed, and step onto Caelum-IV (Movement IV, Stardate 49601): a 48-hour tidally locked, 0.88G purple-ocean moon orbiting the ringed super-Jovian Vespera (Kepler-442c) whose living biosphere pulses at 120.0 BPM.",
         "image": "/raggiesoft-books/images/covers/2x3/ad-astra.jpg",
         "first_route": "/raggiesoft-books/books/ad-astra/prologue-escape-velocity-movements-i-iii-earth-to-the-stars/movement-i-the-cage-industrial-park-road-subterranean-silo-alpha/industrial-park-road-subterranean-silo-alpha",
         "folder": "ad-astra",
         "hide": false,
         "ebook_sizes": {
-            "epub": "2.3 MB",
-            "pdf": "1.1 MB",
-            "text_epub": "45 KB",
-            "text_pdf": "149 KB",
-            "epub_bytes": 2374904,
-            "pdf_bytes": 1164539,
-            "text_epub_bytes": 45744,
-            "text_pdf_bytes": 152781
+            "epub": "2.6 MB",
+            "pdf": "1.3 MB",
+            "text_epub": "54 KB",
+            "text_pdf": "176 KB",
+            "epub_bytes": 2729109,
+            "pdf_bytes": 1343291,
+            "text_epub_bytes": 55507,
+            "text_pdf_bytes": 180097
         },
-        "illustration_count": 7
+        "illustration_count": 8
     },
     {
         "slug": "aethel",
