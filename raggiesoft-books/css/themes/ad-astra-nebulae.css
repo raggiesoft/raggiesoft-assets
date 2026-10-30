@@ -1,0 +1,285 @@
+/**
+ * ============================================================================
+ * RAGGIESOFT BOOK READER THEME: AD ASTRA NEBULAE (`ad-astra-nebulae.css`)
+ * ============================================================================
+ *
+ * Architectural Overview:
+ * Base Series & Scene Theme for `/ad-astra` ("Escape Velocity: Ad Astra —
+ * The Caelum-IV Chronicles") in the RaggieSoft Book Reader (`books.raggiesoft.com`).
+ *
+ * This theme mirrors the exact color architecture of `nebulae.raggiesoft.com`
+ * (`/raggiesoft-assets/nebulae/css/nebulae.css`), extracted directly from the
+ * widescreen cargo-hatch landing painting (`ad-astra-landing.jpg`):
+ *   - Deep Cosmic Void & Midnight Indigo (`#0b0914`, `#120e24`, `#161329`)
+ *   - Vesperan Violet & Bioluminescent Purple (`#c49bff`, `#4b1d80`)
+ *   - Solis-V Amber & Golden Ringlight (`#ffd166`, `#f4a261`, `#7a3e00`)
+ *   - Telemetry Cyan & Subterranean Mycelial Glow (`#5ce1ff`, `#ff5d73`, `#38ef7d`)
+ *   - Starlight Ivory (`#f8f5ff`) & Warm Parchment (`#f8f5f0`)
+ *
+ * Accessibility & Modern Web Guidance Compliance:
+ *   - WCAG 2.1 AA / Section 508 contrast ratios verified across Light, Sepia,
+ *     Dark, Dark-Sepia, and Auto (`prefers-color-scheme`) modes:
+ *       * Dark Mode primary prose (`#f8f5ff` on `#0b0914`): ~18.1:1 (>= 4.5:1)
+ *       * Dark Mode secondary prose (`#dcd3f2` on `#161329`): ~11.8:1 (>= 4.5:1)
+ *       * Light Mode primary prose (`#1a1033` on `#f8f5f0`): ~15.6:1 (>= 4.5:1)
+ *       * Light Mode accent links (`#4b1d80` on `#f8f5f0`): ~9.8:1 (>= 4.5:1)
+ *   - Explicit `color-scheme` declarations (`dark` / `light`) per mode so native
+ *     scrollbars, form controls, and dialogs match the active canvas.
+ *   - `@media (forced-colors: active)` and `@media (prefers-reduced-motion: reduce)`
+ *     safeguards.
+ *   - Scoped drop-cap rule so `p::first-letter` never leaks into blockquotes or lists.
+ *
+ * License: MIT License (Copyright (c) 2026 Michael P. Ragsdale / RaggieSoft)
+ * ============================================================================
+ */
+
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Titillium+Web:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;600&display=swap');
+
+/* ============================================================================
+   1. LIGHT & SEPIA MODES (Warm Starlight Parchment — High-Contrast Daylight)
+   ============================================================================ */
+body,
+body.theme-light,
+body.theme-sepia {
+    color-scheme: light;
+    --rs-bg: #f8f5f0 !important;
+    --rs-bg-alt: #efe9df !important;
+    --rs-surface: #ffffff !important;
+    --rs-card-bg: #ffffff !important;
+    --rs-text: #1a1033 !important;
+    --rs-text-muted: #433566 !important;
+    --rs-heading: #2d124d !important;
+    --rs-primary: #4b1d80 !important;
+    --rs-accent: #7a3e00 !important;
+    --rs-border: #c5b4e3 !important;
+    --nebulae-telemetry-accent: #005577;
+    --nebulae-quote-bg: rgba(75, 29, 128, 0.05);
+    --nebulae-quote-border: #4b1d80;
+    --nebulae-code-bg: #efe9df;
+    --nebulae-code-text: #2d124d;
+    --nebulae-glow-shadow: 0 10px 28px rgba(26, 16, 51, 0.08);
+    background-color: var(--rs-bg) !important;
+    color: var(--rs-text) !important;
+}
+
+/* ============================================================================
+   2. DARK & DARK-SEPIA MODES (Caelum-IV Cosmic Void & Vesperan Ringlight)
+   ============================================================================ */
+body.theme-dark,
+body.theme-dark-sepia {
+    color-scheme: dark;
+    --rs-bg: #0b0914 !important;
+    --rs-bg-alt: #120e24 !important;
+    --rs-surface: #161329 !important;
+    --rs-card-bg: #161329 !important;
+    --rs-text: #f8f5ff !important;
+    --rs-text-muted: #dcd3f2 !important;
+    --rs-heading: #ffd166 !important;
+    --rs-primary: #ffd166 !important;
+    --rs-accent: #c49bff !important;
+    --rs-border: #493870 !important;
+    --nebulae-telemetry-accent: #5ce1ff;
+    --nebulae-quote-bg: rgba(22, 19, 41, 0.88);
+    --nebulae-quote-border: #ffd166;
+    --nebulae-code-bg: #120e24;
+    --nebulae-code-text: #5ce1ff;
+    --nebulae-glow-shadow: 0 14px 36px rgba(0, 0, 0, 0.55), 0 0 24px rgba(107, 63, 160, 0.22);
+    background-color: var(--rs-bg) !important;
+    background-image:
+        radial-gradient(circle at 18% 10%, rgba(107, 63, 160, 0.20) 0%, transparent 45%),
+        radial-gradient(circle at 82% 16%, rgba(244, 162, 97, 0.12) 0%, transparent 40%),
+        linear-gradient(180deg, #0b0914 0%, #120e24 52%, #0b0914 100%) !important;
+    background-attachment: fixed;
+    color: var(--rs-text) !important;
+}
+
+/* System Dark Mode Auto-Detection (`theme-auto` and `theme-sepia-system`) */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto,
+    body.theme-sepia-system {
+        color-scheme: dark;
+        --rs-bg: #0b0914 !important;
+        --rs-bg-alt: #120e24 !important;
+        --rs-surface: #161329 !important;
+        --rs-card-bg: #161329 !important;
+        --rs-text: #f8f5ff !important;
+        --rs-text-muted: #dcd3f2 !important;
+        --rs-heading: #ffd166 !important;
+        --rs-primary: #ffd166 !important;
+        --rs-accent: #c49bff !important;
+        --rs-border: #493870 !important;
+        --nebulae-telemetry-accent: #5ce1ff;
+        --nebulae-quote-bg: rgba(22, 19, 41, 0.88);
+        --nebulae-quote-border: #ffd166;
+        --nebulae-code-bg: #120e24;
+        --nebulae-code-text: #5ce1ff;
+        --nebulae-glow-shadow: 0 14px 36px rgba(0, 0, 0, 0.55), 0 0 24px rgba(107, 63, 160, 0.22);
+        background-color: var(--rs-bg) !important;
+        background-image:
+            radial-gradient(circle at 18% 10%, rgba(107, 63, 160, 0.20) 0%, transparent 45%),
+            radial-gradient(circle at 82% 16%, rgba(244, 162, 97, 0.12) 0%, transparent 40%),
+            linear-gradient(180deg, #0b0914 0%, #120e24 52%, #0b0914 100%) !important;
+        background-attachment: fixed;
+        color: var(--rs-text) !important;
+    }
+}
+
+/* ============================================================================
+   3. TYPOGRAPHY & HEADINGS (AUDIOWIDE DISPLAY + TITILLIUM WEB PROSE)
+   ============================================================================ */
+.story-content {
+    font-family: var(--rs-font-family, 'Titillium Web', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif);
+    font-size: var(--rs-font-size, 1.18rem);
+    line-height: var(--rs-line-height, 1.85);
+    color: var(--rs-text);
+}
+
+.reader-series-header {
+    font-family: 'Audiowide', system-ui, sans-serif;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--rs-primary) !important;
+}
+
+.reader-part-header,
+.story-content h1,
+.story-content h2,
+.story-content h3 {
+    font-family: 'Audiowide', system-ui, sans-serif;
+    color: var(--rs-heading) !important;
+    letter-spacing: 0.03em;
+    line-height: 1.3;
+}
+
+.story-content h2 {
+    margin-top: 2.5rem;
+    margin-bottom: 1.15rem;
+    padding-bottom: 0.55rem;
+    border-bottom: 1px solid var(--rs-border);
+    font-size: clamp(1.25rem, 2.5vw, 1.55rem);
+}
+
+.story-content p {
+    margin-bottom: 1.5rem;
+}
+
+/* First-paragraph drop cap scoped strictly to direct prose paragraphs */
+.story-content > p:first-of-type::first-letter {
+    float: left;
+    font-family: 'Audiowide', system-ui, sans-serif;
+    font-size: 3.35rem;
+    line-height: 0.86;
+    margin-right: 0.65rem;
+    margin-top: 0.15rem;
+    color: var(--rs-primary);
+    font-weight: 700;
+}
+
+/* ============================================================================
+   4. U.S.S. AETHELGARD TELEMETRY LOGS, BLOCKQUOTES & SCENE PLATES
+   ============================================================================ */
+.reader-chapter-plate {
+    border: 1px solid var(--rs-border) !important;
+    box-shadow: var(--nebulae-glow-shadow) !important;
+    background: var(--rs-surface) !important;
+}
+
+.story-content blockquote {
+    border-left: 4px solid var(--nebulae-quote-border);
+    background: var(--nebulae-quote-bg);
+    padding: 1.25rem 1.5rem;
+    margin: 2rem 0;
+    border-radius: 0 12px 12px 0;
+    border-top: 1px solid var(--rs-border);
+    border-right: 1px solid var(--rs-border);
+    border-bottom: 1px solid var(--rs-border);
+    color: var(--rs-text);
+    box-shadow: var(--nebulae-glow-shadow);
+}
+
+.story-content blockquote strong {
+    color: var(--rs-heading);
+    letter-spacing: 0.02em;
+}
+
+.story-content code,
+.story-content pre {
+    font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    background: var(--nebulae-code-bg);
+    color: var(--nebulae-code-text);
+    border: 1px solid var(--rs-border);
+    border-radius: 6px;
+}
+
+.story-content code {
+    padding: 0.15rem 0.4rem;
+    font-size: 0.92em;
+}
+
+.story-content pre {
+    padding: 1.15rem 1.35rem;
+    margin: 1.75rem 0;
+}
+
+.story-content pre code {
+    border: none;
+    padding: 0;
+    background: transparent;
+}
+
+/* Scene Break Divider (`***`) */
+.story-content hr {
+    border: none;
+    height: 1px;
+    background: linear-gradient(90deg, transparent, var(--rs-primary), var(--rs-accent), transparent);
+    margin: 3rem 0;
+    position: relative;
+    overflow: visible;
+}
+
+.story-content hr::after {
+    content: "✦ CAELUM-IV • 120 BPM ✦";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background: var(--rs-bg);
+    color: var(--rs-primary);
+    font-family: 'Audiowide', system-ui, sans-serif;
+    font-size: 0.72rem;
+    letter-spacing: 0.16em;
+    padding: 0.2rem 0.85rem;
+    border: 1px solid var(--rs-border);
+    border-radius: 999px;
+    white-space: nowrap;
+}
+
+/* High-visibility keyboard focus rings */
+.story-content a:focus-visible,
+.reader-page a:focus-visible,
+.reader-page button:focus-visible {
+    outline: 3px solid var(--rs-primary) !important;
+    outline-offset: 3px !important;
+}
+
+/* Forced-Colors (Windows High Contrast) Assistive Mode */
+@media (forced-colors: active) {
+    body,
+    .story-content blockquote,
+    .reader-chapter-plate {
+        background-image: none !important;
+        box-shadow: none !important;
+        border-color: CanvasText !important;
+    }
+}
+
+/* Reduced Motion Preference */
+@media (prefers-reduced-motion: reduce) {
+    *,
+    *::before,
+    *::after {
+        animation-duration: 0.01ms !important;
+        transition-duration: 0.01ms !important;
+    }
+}
+

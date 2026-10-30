@@ -1,0 +1,93 @@
+{
+    "series_title": "Escape Velocity: Ad Astra",
+    "series_slug": "ad-astra",
+    "series_theme": "ad-astra-nebulae",
+    "series_description": "The cosmic visual storybook and planetary expedition chronicles of The Stardust Engine aboard the U.S.S. Aethelgard. Picking up during Movement IV of the 15-minute progressive rock suite 'Escape Velocity (Ad Astra)', Ryan, Cassidy, and Holly O'Connell\u2014alongside twin pilots Tyler and Evan Wright\u2014leave the fluorescent Cage of Earth behind and step onto Caelum-IV, a tidally locked, purple-ocean moon orbiting the ringed super-Jovian Vespera (Kepler-442c) whose living biosphere pulses at 120.0 BPM.",
+    "series_description_long": "",
+    "series_image": "/raggiesoft-books/images/covers/2x3/ad-astra.jpg",
+    "next_series_url": "/raggiesoft-books/books/stardust-engine",
+    "ebook_sizes": {
+        "epub": "311 KB",
+        "pdf": "197 KB",
+        "text_epub": "20 KB",
+        "text_pdf": "73 KB",
+        "epub_bytes": 318680,
+        "pdf_bytes": 201386,
+        "text_epub_bytes": 20702,
+        "text_pdf_bytes": 75234
+    },
+    "illustration_count": 1,
+    "eras": [
+        {
+            "era_num": 1,
+            "era_title": "Book 1: Sanctuary on Caelum-IV (Stardate 49601)",
+            "era_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-stardate-49601",
+            "illustration_count": 1,
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Chapter 1: Aft Cargo Hatch Open (Stardate 49601.0)",
+                    "chap_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-stardate-49601/chapter-1-aft-cargo-hatch-open-stardate-49601-0",
+                    "illustration_count": 1,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Aft Cargo Hatch Open",
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/ad-astra/book-1-sanctuary-on-caelum-iv-stardate-49601/chapter-1-aft-cargo-hatch-open-stardate-49601-0/aft-cargo-hatch-open",
+                            "stardate": "49601.0",
+                            "realm_time": "Vespera Zenith \u2022 Lumen\u2013Umbra First Conjunction (120.0 BPM Lock)",
+                            "start_time": "HC 00:00 (Hatch Unseal)",
+                            "location": "Aft Cargo Bay & Landing Ramp, U.S.S. Aethelgard \u2014 Caelum-IV Shoreline (Kepler-442c)",
+                            "image": "/raggiesoft-books/images/scenes/ad-astra/e001-c001-p001-caelum-iv-landing.jpg",
+                            "image_alt": "Widescreen view from inside the open cargo hatch of the star-cruiser U.S.S. Aethelgard looking out onto the purple-sand beach and violet ocean of Caelum-IV. On the left, pilot twin Tyler/Evan Wright stands beside lead guitarist Ryan O'Connell in his custom manual wheelchair at the top of the landing ramp. Beside Ryan, lead vocalist Cassidy O'Connell holds a handheld frequency scanner and points out toward the bay in curiosity. On the right, manager Holly O'Connell stands by the starboard telemetry console with a datapad, keeping clear line-of-sight with her siblings. Outside, lavender bio-silica fronds and giant bioluminescent mushroom canopies frame a sky dominated by the ringed gas giant Vespera, its shepherd moons Lumen and Umbra, and the golden twilight of the orange dwarf star Solis-V.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/ad-astra/e001-c001-p001-caelum-iv-landing.jpg",
+                                    "alt": "Widescreen view from inside the open cargo hatch of the star-cruiser U.S.S. Aethelgard looking out onto the purple-sand beach and violet ocean of Caelum-IV. On the left, pilot twin Tyler/Evan Wright stands beside lead guitarist Ryan O'Connell in his custom manual wheelchair at the top of the landing ramp. Beside Ryan, lead vocalist Cassidy O'Connell holds a handheld frequency scanner and points out toward the bay in curiosity. On the right, manager Holly O'Connell stands by the starboard telemetry console with a datapad, keeping clear line-of-sight with her siblings. Outside, lavender bio-silica fronds and giant bioluminescent mushroom canopies frame a sky dominated by the ringed gas giant Vespera, its shepherd moons Lumen and Umbra, and the golden twilight of the orange dwarf star Solis-V."
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "Chapter 2: The Acoustic Forest & Basaltic Shore (Stardate 49601.4)",
+                    "chap_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-stardate-49601/chapter-2-the-acoustic-forest-basaltic-shore-stardate-49601-4",
+                    "illustration_count": 0,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "The Acoustic Forest & Basaltic Shore",
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/ad-astra/book-1-sanctuary-on-caelum-iv-stardate-49601/chapter-2-the-acoustic-forest-basaltic-shore-stardate-49601-4/the-acoustic-forest-basaltic-shore",
+                            "stardate": "49601.4",
+                            "realm_time": "Vespera Zenith \u2022 Lumen Ring-Shadow Transit (120.0 BPM Lock)",
+                            "start_time": "HC 00:39 (First Tire Track)",
+                            "location": "Basaltic Crescent Beach & Bilateral Shoreline Groves, Caelum-IV (Kepler-442c)"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "Chapter 3: Hailing Frequencies at 120 BPM (Stardate 49601.8)",
+                    "chap_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-stardate-49601/chapter-3-hailing-frequencies-at-120-bpm-stardate-49601-8",
+                    "illustration_count": 0,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Hailing Frequencies at 120 BPM",
+                            "file_path": "e001/c003/p001.md",
+                            "url": "/ad-astra/book-1-sanctuary-on-caelum-iv-stardate-49601/chapter-3-hailing-frequencies-at-120-bpm-stardate-49601-8/hailing-frequencies-at-120-bpm",
+                            "stardate": "49601.8",
+                            "realm_time": "Vespera Golden Dusk \u2022 Dual Shepherd Harmonic Tide (120.0 BPM Lock)",
+                            "start_time": "HC 01:46 (Chorus-Ray Breach)",
+                            "location": "Sanctuary Bay & Open Cargo Hatch of the U.S.S. Aethelgard, Caelum-IV (Kepler-442c)"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
