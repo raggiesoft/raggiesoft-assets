@@ -7,28 +7,28 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/ad-astra.jpg",
     "next_series_url": "/raggiesoft-books/books/stardust-engine",
     "ebook_sizes": {
-        "epub": "574 KB",
-        "pdf": "356 KB",
-        "text_epub": "37 KB",
-        "text_pdf": "123 KB",
-        "epub_bytes": 588182,
-        "pdf_bytes": 364327,
-        "text_epub_bytes": 38175,
-        "text_pdf_bytes": 126379
+        "epub": "2.3 MB",
+        "pdf": "1.1 MB",
+        "text_epub": "45 KB",
+        "text_pdf": "149 KB",
+        "epub_bytes": 2374904,
+        "pdf_bytes": 1164539,
+        "text_epub_bytes": 45744,
+        "text_pdf_bytes": 152781
     },
-    "illustration_count": 2,
+    "illustration_count": 7,
     "eras": [
         {
             "era_num": 1,
             "era_title": "Prologue: Escape Velocity (Movements I\u2013III \u2014 Earth to the Stars)",
             "era_url": "/raggiesoft-books/books/ad-astra/prologue-escape-velocity-movements-i-iii-earth-to-the-stars",
-            "illustration_count": 1,
+            "illustration_count": 4,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Movement I: The Cage (Industrial Park Road & Subterranean Silo Alpha)",
                     "chap_url": "/raggiesoft-books/books/ad-astra/prologue-escape-velocity-movements-i-iii-earth-to-the-stars/movement-i-the-cage-industrial-park-road-subterranean-silo-alpha",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -37,7 +37,16 @@
                             "url": "/ad-astra/prologue-escape-velocity-movements-i-iii-earth-to-the-stars/movement-i-the-cage-industrial-park-road-subterranean-silo-alpha/industrial-park-road-subterranean-silo-alpha",
                             "date": "1996-07-16",
                             "start_time": "21:30",
-                            "location": "The Fortress (Industrial Park Road) & Subterranean Launch Silo Alpha, Blacksburg, VA"
+                            "location": "The Fortress (Industrial Park Road) & Subterranean Launch Silo Alpha, Blacksburg, VA",
+                            "image": "/raggiesoft-books/images/scenes/ad-astra/e001-c001-p001-subterranean-silo-alpha.jpg",
+                            "image_alt": "Photorealistic widescreen view inside Subterranean Launch Silo Alpha 200 feet beneath Industrial Park Road in Blacksburg. The star-cruiser U.S.S. Aethelgard rests on hydraulic launch cradles over a misting flame trench as camouflaged quarry blast doors part overhead toward the starry Virginia night sky. In the foreground, mid-20s Ryan O'Connell propels his manual wheelchair toward the open aft boarding ramp with his hands on the wheel push-rims while his sister Cassidy O'Connell\u2014who has cerebral palsy\u2014holds onto the ergonomic rear push-handles of Ryan's wheelchair like a walker to steady her gait, followed by Holly O'Connell with her MagnaPad and twin cousins Tyler and Evan Wright in maroon CPI shirts.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/ad-astra/e001-c001-p001-subterranean-silo-alpha.jpg",
+                                    "alt": "Photorealistic widescreen view inside Subterranean Launch Silo Alpha 200 feet beneath Industrial Park Road in Blacksburg. The star-cruiser U.S.S. Aethelgard rests on hydraulic launch cradles over a misting flame trench as camouflaged quarry blast doors part overhead toward the starry Virginia night sky. In the foreground, mid-20s Ryan O'Connell propels his manual wheelchair toward the open aft boarding ramp with his hands on the wheel push-rims while his sister Cassidy O'Connell\u2014who has cerebral palsy\u2014holds onto the ergonomic rear push-handles of Ryan's wheelchair like a walker to steady her gait, followed by Holly O'Connell with her MagnaPad and twin cousins Tyler and Evan Wright in maroon CPI shirts."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -56,11 +65,11 @@
                             "start_time": "23:45",
                             "location": "Forward Cockpit, U.S.S. Aethelgard \u2014 Ascent from Blacksburg Silo Alpha to Low Earth Orbit",
                             "image": "/raggiesoft-books/images/scenes/ad-astra/e001-c002-p001-aethelgard-cockpit.jpg",
-                            "image_alt": "Forward cockpit of the star-cruiser U.S.S. Aethelgard looking out through the octagonal forward viewport toward a glowing crimson-and-violet nebula and ringed exoplanet. Twin high-back leather flight seats with multipoint harnesses flank the glowing cyan and amber center helm console.",
+                            "image_alt": "Photorealistic widescreen view inside the forward cockpit of the U.S.S. Aethelgard during orbital ascent. Identical twin cousins Tyler and Evan Wright sit in the Port (Pilot) and Starboard (Copilot) leather flight seats wearing 5-point harnesses with their hands on dual flight sticks. Centered between them on the diamond-plate deck, mid-20s Ryan O'Connell sits in his manual wheelchair anchored by four heavy-duty floor ratchet tie-down straps and a 6-point aerospace chest harness over his maroon CPI shirt. Beside him, Cassidy O'Connell holds the overhead grab rail while steadying her left hand on Ryan's wheelchair push-handle, and Holly O'Connell monitors telemetry on her MagnaPad as Earth's blue horizon curves below the crimson-and-violet starfield.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/ad-astra/e001-c002-p001-aethelgard-cockpit.jpg",
-                                    "alt": "Forward cockpit of the star-cruiser U.S.S. Aethelgard looking out through the octagonal forward viewport toward a glowing crimson-and-violet nebula and ringed exoplanet. Twin high-back leather flight seats with multipoint harnesses flank the glowing cyan and amber center helm console."
+                                    "alt": "Photorealistic widescreen view inside the forward cockpit of the U.S.S. Aethelgard during orbital ascent. Identical twin cousins Tyler and Evan Wright sit in the Port (Pilot) and Starboard (Copilot) leather flight seats wearing 5-point harnesses with their hands on dual flight sticks. Centered between them on the diamond-plate deck, mid-20s Ryan O'Connell sits in his manual wheelchair anchored by four heavy-duty floor ratchet tie-down straps and a 6-point aerospace chest harness over his maroon CPI shirt. Beside him, Cassidy O'Connell holds the overhead grab rail while steadying her left hand on Ryan's wheelchair push-handle, and Holly O'Connell monitors telemetry on her MagnaPad as Earth's blue horizon curves below the crimson-and-violet starfield."
                                 }
                             ],
                             "image_count": 1
@@ -71,16 +80,43 @@
                     "chap_num": 3,
                     "chap_title": "Movement III: The Cosmos (Zero-G Hugs & The Nebula Stream)",
                     "chap_url": "/raggiesoft-books/books/ad-astra/prologue-escape-velocity-movements-i-iii-earth-to-the-stars/movement-iii-the-cosmos-zero-g-hugs-the-nebula-stream",
-                    "illustration_count": 0,
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Zero-G Hugs & The Nebula Stream at Continuum Factor 8.4",
+                            "part_title": "Part 1: Day 1 in the Continuum: Zero-G Hugs & Unbuckling the Tether",
                             "file_path": "e001/c003/p001.md",
-                            "url": "/ad-astra/prologue-escape-velocity-movements-i-iii-earth-to-the-stars/movement-iii-the-cosmos-zero-g-hugs-the-nebula-stream/zero-g-hugs-the-nebula-stream-at-continuum-factor-8-4",
+                            "url": "/ad-astra/prologue-escape-velocity-movements-i-iii-earth-to-the-stars/movement-iii-the-cosmos-zero-g-hugs-the-nebula-stream/part-1-day-1-in-the-continuum-zero-g-hugs-unbuckling-the-tether",
                             "date": "1996-07-17",
                             "start_time": "00:15",
-                            "location": "Forward Cockpit & Observation Deck, U.S.S. Aethelgard \u2014 Deep-Space Continuum Transit (Earth to Kepler-442c)"
+                            "location": "Forward Cockpit & Panoramic Observation Lounge, U.S.S. Aethelgard \u2014 Deep-Space Continuum Transit (Day 1)",
+                            "image": "/raggiesoft-books/images/scenes/ad-astra/e001-c003-p001-zero-g-family-hug.jpg",
+                            "image_alt": "Photorealistic widescreen view inside the panoramic observation lounge of the U.S.S. Aethelgard during faster-than-light transit with artificial gravity set to 0.00G. On the diamond-plate deck in the lower foreground, Ryan's empty manual wheelchair (with its rear push-handles) remains anchored to the floor by four heavy-duty ratchet tie-down straps while its unbuckled 6-point harness straps float upward. Floating weightlessly in mid-air above the empty wheelchair in front of three panoramic nebula windows, mid-20s Ryan O'Connell shares a joyful zero-gravity group hug with his sisters Cassidy and Holly and his twin cousins Tyler and Evan in their maroon CPI shirts as guitar picks and sheet music drift around them.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/ad-astra/e001-c003-p001-zero-g-family-hug.jpg",
+                                    "alt": "Photorealistic widescreen view inside the panoramic observation lounge of the U.S.S. Aethelgard during faster-than-light transit with artificial gravity set to 0.00G. On the diamond-plate deck in the lower foreground, Ryan's empty manual wheelchair (with its rear push-handles) remains anchored to the floor by four heavy-duty ratchet tie-down straps while its unbuckled 6-point harness straps float upward. Floating weightlessly in mid-air above the empty wheelchair in front of three panoramic nebula windows, mid-20s Ryan O'Connell shares a joyful zero-gravity group hug with his sisters Cassidy and Holly and his twin cousins Tyler and Evan in their maroon CPI shirts as guitar picks and sheet music drift around them."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Days 2\u20133 in the Continuum: Pilot Shift Swaps, Onboard Studio Jam & Calibrating to 0.90G",
+                            "file_path": "e001/c003/p002.md",
+                            "url": "/ad-astra/prologue-escape-velocity-movements-i-iii-earth-to-the-stars/movement-iii-the-cosmos-zero-g-hugs-the-nebula-stream/part-2-days-2-3-in-the-continuum-pilot-shift-swaps-onboard-studio-jam-calibrating-to-0-90g",
+                            "date": "1996-07-18",
+                            "start_time": "14:00",
+                            "location": "Forward Cockpit & Onboard Recording Studio Lounge, U.S.S. Aethelgard \u2014 Deep-Space Continuum Transit (Days 2\u20133)",
+                            "image": "/raggiesoft-books/images/scenes/ad-astra/e001-c003-p002-onboard-studio-jam.jpg",
+                            "image_alt": "Photorealistic widescreen view inside the onboard recording studio lounge of the U.S.S. Aethelgard during faster-than-light transit. Through the large panoramic windows on the left, a glowing crimson, gold, and violet nebula streams past in deep space. On the diamond-plate studio deck, mid-20s Ryan O'Connell sits in his manual wheelchair (secured by four floor ratchet tie-down straps and a 6-point harness, with rear push-handles) playing his cherry-sunburst solid-body electric guitar. Beside his wheelchair stands Cassidy O'Connell in her maroon CPI shirt and jeans, singing into a vintage condenser microphone while resting one hand lightly on Ryan's wheelchair push-handle for balance, as twins Evan and Tyler Wright play electric bass and drums and Holly O'Connell watches by the console.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/ad-astra/e001-c003-p002-onboard-studio-jam.jpg",
+                                    "alt": "Photorealistic widescreen view inside the onboard recording studio lounge of the U.S.S. Aethelgard during faster-than-light transit. Through the large panoramic windows on the left, a glowing crimson, gold, and violet nebula streams past in deep space. On the diamond-plate studio deck, mid-20s Ryan O'Connell sits in his manual wheelchair (secured by four floor ratchet tie-down straps and a 6-point harness, with rear push-handles) playing his cherry-sunburst solid-body electric guitar. Beside his wheelchair stands Cassidy O'Connell in her maroon CPI shirt and jeans, singing into a vintage condenser microphone while resting one hand lightly on Ryan's wheelchair push-handle for balance, as twins Evan and Tyler Wright play electric bass and drums and Holly O'Connell watches by the console."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
@@ -90,7 +126,7 @@
             "era_num": 2,
             "era_title": "Book 1: Sanctuary on Caelum-IV (Movement IV \u2014 Stardate 49601)",
             "era_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601",
-            "illustration_count": 1,
+            "illustration_count": 3,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -123,7 +159,7 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Acoustic Forest & Basaltic Shore (Stardate 49601.4)",
                     "chap_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-2-the-acoustic-forest-basaltic-shore-stardate-49601-4",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -133,7 +169,16 @@
                             "stardate": "49601.4",
                             "realm_time": "Vespera Zenith \u2022 Lumen Ring-Shadow Transit (120.0 BPM Lock)",
                             "start_time": "HC 00:39 (First Tire Track)",
-                            "location": "Basaltic Crescent Beach & Bilateral Shoreline Groves, Caelum-IV (Kepler-442c)"
+                            "location": "Basaltic Crescent Beach & Bilateral Shoreline Groves, Caelum-IV (Kepler-442c)",
+                            "image": "/raggiesoft-books/images/scenes/ad-astra/e002-c002-p001-acoustic-forest-shore.jpg",
+                            "image_alt": "Photorealistic widescreen view on the dark purple-black basaltic beach of Caelum-IV beside the violet ocean under the ringed gas giant Vespera. Mid-20s Ryan O'Connell propels his manual wheelchair across the firm purple sand with his hands on the push-rims while his sister Cassidy O'Connell walks right beside him, resting one hand on Ryan's wheelchair push-handle like a walker to steady her cerebral palsy gait and holding a frequency scanner in her other hand. Beneath Ryan's tires and Cassidy's red sneakers, subterranean mycelial veins glow in crimson and cyan, flanked by 40-foot lavender bio-silica resonance fronds on the left and glowing violet Myco-Towers on the right.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/ad-astra/e002-c002-p001-acoustic-forest-shore.jpg",
+                                    "alt": "Photorealistic widescreen view on the dark purple-black basaltic beach of Caelum-IV beside the violet ocean under the ringed gas giant Vespera. Mid-20s Ryan O'Connell propels his manual wheelchair across the firm purple sand with his hands on the push-rims while his sister Cassidy O'Connell walks right beside him, resting one hand on Ryan's wheelchair push-handle like a walker to steady her cerebral palsy gait and holding a frequency scanner in her other hand. Beneath Ryan's tires and Cassidy's red sneakers, subterranean mycelial veins glow in crimson and cyan, flanked by 40-foot lavender bio-silica resonance fronds on the left and glowing violet Myco-Towers on the right."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -152,6 +197,33 @@
                             "realm_time": "Vespera Golden Dusk \u2022 Dual Shepherd Harmonic Tide (120.0 BPM Lock)",
                             "start_time": "HC 01:46 (Chorus-Ray Breach)",
                             "location": "Sanctuary Bay & Open Cargo Hatch of the U.S.S. Aethelgard, Caelum-IV (Kepler-442c)"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 4,
+                    "chap_title": "Chapter 4: The 48-Hour Orbit (Stardate 49601.5)",
+                    "chap_url": "/raggiesoft-books/books/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-4-the-48-hour-orbit-stardate-49601-5",
+                    "illustration_count": 1,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "The 48-Hour Orbit: Sun-Cycle, Ring-Night & The Umbral Hush",
+                            "file_path": "e002/c004/p001.md",
+                            "url": "/ad-astra/book-1-sanctuary-on-caelum-iv-movement-iv-stardate-49601/chapter-4-the-48-hour-orbit-stardate-49601-5/the-48-hour-orbit-sun-cycle-ring-night-the-umbral-hush",
+                            "stardate": "49601.5",
+                            "realm_time": "48-Hour Vesperan Orbital Cycle \u2022 Transition from Sun-Cycle (.0\u2013.5) to Ring-Night (.5\u2013.99)",
+                            "start_time": "HC 16:00 (Circadian Wall)",
+                            "location": "Sanctuary Bay & Observation Deck of the U.S.S. Aethelgard, Caelum-IV (Kepler-442c)",
+                            "image": "/raggiesoft-books/images/scenes/ad-astra/e002-c004-p001-umbral-hush-ring-night.jpg",
+                            "image_alt": "Photorealistic widescreen view on the purple-sand beach of Caelum-IV during the Umbral Hush eclipse at the center of the 24-hour Ring-Night. Overhead, the orange sun is hidden directly behind the dark disk of the gas giant Vespera, rimming the giant planet in a blazing 360-degree halo of backlit golden-and-violet rings. Along the shoreline, the 40-foot lavender bio-silica fronds, giant Myco-Tower mushroom canopies, crimson-and-cyan mycelial root veins, and two breaching Vesperan Chorus-Rays glow in full bioluminescence around mid-20s Ryan O'Connell in his manual wheelchair, Cassidy O'Connell resting her hand on his wheelchair push-handle like a walker, Holly O'Connell, and twins Tyler and Evan Wright.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/ad-astra/e002-c004-p001-umbral-hush-ring-night.jpg",
+                                    "alt": "Photorealistic widescreen view on the purple-sand beach of Caelum-IV during the Umbral Hush eclipse at the center of the 24-hour Ring-Night. Overhead, the orange sun is hidden directly behind the dark disk of the gas giant Vespera, rimming the giant planet in a blazing 360-degree halo of backlit golden-and-violet rings. Along the shoreline, the 40-foot lavender bio-silica fronds, giant Myco-Tower mushroom canopies, crimson-and-cyan mycelial root veins, and two breaching Vesperan Chorus-Rays glow in full bioluminescence around mid-20s Ryan O'Connell in his manual wheelchair, Cassidy O'Connell resting her hand on his wheelchair push-handle like a walker, Holly O'Connell, and twins Tyler and Evan Wright."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
