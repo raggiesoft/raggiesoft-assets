@@ -7,16 +7,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "13.5 MB",
-        "pdf": "15.3 MB",
-        "text_epub": "1009 KB",
+        "epub": "17.7 MB",
+        "pdf": "19.7 MB",
+        "text_epub": "1010 KB",
         "text_pdf": "2.8 MB",
-        "epub_bytes": 14147330,
-        "pdf_bytes": 16091706,
-        "text_epub_bytes": 1033152,
-        "text_pdf_bytes": 2914904
+        "epub_bytes": 18555368,
+        "pdf_bytes": 20682457,
+        "text_epub_bytes": 1034168,
+        "text_pdf_bytes": 2917874
     },
-    "illustration_count": 18,
+    "illustration_count": 24,
     "eras": [
         {
             "era_num": 1,
@@ -2122,7 +2122,7 @@
             "era_num": 18,
             "era_title": "The Shallow End",
             "era_url": "/raggiesoft-books/books/rachel/the-shallow-end",
-            "illustration_count": 2,
+            "illustration_count": 8,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2210,7 +2210,7 @@
                     "chap_num": 4,
                     "chap_title": "The Open-Door Sanctuary",
                     "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/the-open-door-sanctuary",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2226,7 +2226,16 @@
                             "file_path": "e018/c004/p002.md",
                             "url": "/rachel/the-shallow-end/the-open-door-sanctuary/part-2-the-three-room-geometry-the-open-door-policy-the-midnight-blue-belts",
                             "date": "2007-04-06",
-                            "start_time": "15:30"
+                            "start_time": "15:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b018/adult_michael_and_rachel_lynnhaven_dojang.jpg",
+                            "image_alt": "Michael and Rachel in their Midnight Blue Belts at the Lynnhaven Academy of Seondu",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/adult_michael_and_rachel_lynnhaven_dojang.jpg",
+                                    "alt": "Michael and Rachel in their Midnight Blue Belts at the Lynnhaven Academy of Seondu"
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -2234,7 +2243,7 @@
                     "chap_num": 5,
                     "chap_title": "The Route 25 Loop & The Shallow End",
                     "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/the-route-25-loop-the-shallow-end",
-                    "illustration_count": 0,
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2242,7 +2251,16 @@
                             "file_path": "e018/c005/p001.md",
                             "url": "/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-1-first-contact-the-engineered-route-25-commute",
                             "date": "2007-08-24",
-                            "start_time": "07:35"
+                            "start_time": "07:35",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b018/cchr_route_25_bus_commute.jpg",
+                            "image_alt": "Michael and Heather Bouchard riding CVTA Route 25 together to CCHR",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/cchr_route_25_bus_commute.jpg",
+                                    "alt": "Michael and Heather Bouchard riding CVTA Route 25 together to CCHR"
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -2250,7 +2268,16 @@
                             "file_path": "e018/c005/p002.md",
                             "url": "/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-2",
                             "date": "2007-10-18",
-                            "start_time": "12:15"
+                            "start_time": "12:15",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b018/cchr_rachel_meets_heather_lounge.jpg",
+                            "image_alt": "Rachel meets Heather Bouchard in the CCHR student lounge and extends the first invitation to 3701 Canadian Arch",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/cchr_rachel_meets_heather_lounge.jpg",
+                                    "alt": "Rachel meets Heather Bouchard in the CCHR student lounge and extends the first invitation to 3701 Canadian Arch"
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -2258,7 +2285,7 @@
                     "chap_num": 6,
                     "chap_title": "Twin Magic & The Chesapeake Bay Aquarium",
                     "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium",
-                    "illustration_count": 0,
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2266,7 +2293,16 @@
                             "file_path": "e018/c006/p001.md",
                             "url": "/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-1-twin-magic-at-susquehanna-drive",
                             "date": "2008-04-01",
-                            "start_time": "07:55"
+                            "start_time": "07:55",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b018/susquehanna_twin_magic_prank.jpg",
+                            "image_alt": "Hailey and Heather Bouchard pulling the April Fools' Day Twin Magic prank on Michael at the Susquehanna Drive bus stop",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/susquehanna_twin_magic_prank.jpg",
+                                    "alt": "Hailey and Heather Bouchard pulling the April Fools' Day Twin Magic prank on Michael at the Susquehanna Drive bus stop"
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -2274,7 +2310,16 @@
                             "file_path": "e018/c006/p002.md",
                             "url": "/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-2-the-chesapeake-bay-aquarium",
                             "date": "2008-07-18",
-                            "start_time": "11:00"
+                            "start_time": "11:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b018/chesapeake_bay_aquarium_hug.jpg",
+                            "image_alt": "Michael and Heather Bouchard sharing a grounding deep-pressure hug inside the Chesapeake Bay Aquarium tunnel",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/chesapeake_bay_aquarium_hug.jpg",
+                                    "alt": "Michael and Heather Bouchard sharing a grounding deep-pressure hug inside the Chesapeake Bay Aquarium tunnel"
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -2282,7 +2327,7 @@
                     "chap_num": 7,
                     "chap_title": "Unhandled Exception & The Living Firewall",
                     "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/unhandled-exception-the-living-firewall",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2290,7 +2335,16 @@
                             "file_path": "e018/c007/p001.md",
                             "url": "/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-susquehanna-cutoff-unhandled-exception",
                             "date": "2009-05-08",
-                            "start_time": "15:45"
+                            "start_time": "15:45",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b018/susquehanna_bus_stop_cutoff.jpg",
+                            "image_alt": "Heather Bouchard stepping back and refusing Michael's goodbye hug at Princess Anne & Susquehanna Drive",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/susquehanna_bus_stop_cutoff.jpg",
+                                    "alt": "Heather Bouchard stepping back and refusing Michael's goodbye hug at Princess Anne & Susquehanna Drive"
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
