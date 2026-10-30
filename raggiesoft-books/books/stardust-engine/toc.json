@@ -9,12 +9,12 @@
     "ebook_sizes": {
         "epub": "17.1 MB",
         "pdf": "18.8 MB",
-        "text_epub": "175 KB",
-        "text_pdf": "536 KB",
-        "epub_bytes": 17913130,
-        "pdf_bytes": 19665473,
-        "text_epub_bytes": 179676,
-        "text_pdf_bytes": 548673
+        "text_epub": "180 KB",
+        "text_pdf": "547 KB",
+        "epub_bytes": 17917432,
+        "pdf_bytes": 19678086,
+        "text_epub_bytes": 184000,
+        "text_pdf_bytes": 560541
     },
     "illustration_count": 25,
     "eras": [
@@ -203,24 +203,24 @@
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "Chapter 2: Job Shadowing the Manager \u2014 A Day in the Life of Holly O'Connell (October 18, 2002)",
-                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1995-2004/chapter-2-job-shadowing-the-manager-a-day-in-the-life-of-holly-o-connell-october-18-2002",
+                    "chap_title": "Chapter 2: Job Shadowing the Manager \u2014 A Day in the Life of Holly O'Connell (October 15, 1999)",
+                    "chap_url": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1995-2004/chapter-2-job-shadowing-the-manager-a-day-in-the-life-of-holly-o-connell-october-15-1999",
                     "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Job Shadowing the Manager \u2014 A Day in the Life of Holly O'Connell",
                             "file_path": "e004/c002/p001.md",
-                            "url": "/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1995-2004/chapter-2-job-shadowing-the-manager-a-day-in-the-life-of-holly-o-connell-october-18-2002/job-shadowing-the-manager-a-day-in-the-life-of-holly-o-connell",
-                            "date": "2002-10-18",
-                            "start_time": "07:15",
+                            "url": "/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1995-2004/chapter-2-job-shadowing-the-manager-a-day-in-the-life-of-holly-o-connell-october-15-1999/job-shadowing-the-manager-a-day-in-the-life-of-holly-o-connell",
+                            "date": "1999-10-15",
+                            "start_time": "09:40",
                             "location": "Progress Street NE & The Fortress (Industrial Park Road), Blacksburg, VA",
                             "image": "/raggiesoft-books/images/scenes/stardust-engine/e004/c002/p001/holly-band-manager-job-shadow.jpg",
-                            "image_alt": "Photorealistic widescreen view inside Holly O'Connell's sunlit glass-walled corner office at The Fortress on Industrial Park Road in Blacksburg, Virginia in October 2002. Holly O'Connell (in a tailored charcoal blazer over a maroon CPI shirt, wearing glasses) sits at her oak desk surrounded by legal binders, tour-advancing blueprints, and a speakerphone, while Ryan O'Connell (in his manual wheelchair with rear push-handles), Cassidy O'Connell (resting her hand on Ryan's push-handle), and twin cousins Evan and Tyler Wright lean in with coffee mugs and notepads as they job-shadow her for the day.",
+                            "image_alt": "Photorealistic widescreen view inside Holly O'Connell's sunlit glass-walled corner office at The Fortress on Industrial Park Road in Blacksburg, Virginia in October 1999. Holly O'Connell (in her early thirties, wearing a tailored charcoal blazer over a maroon CPI shirt and glasses) sits at her oak desk surrounded by legal binders, tour-advancing blueprints, and a speakerphone, while Ryan O'Connell (in his manual wheelchair with rear push-handles), Cassidy O'Connell (resting her hand on Ryan's push-handle), and twin cousins Evan and Tyler Wright lean in with coffee mugs and notepads as they job-shadow her for the day.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/stardust-engine/e004/c002/p001/holly-band-manager-job-shadow.jpg",
-                                    "alt": "Photorealistic widescreen view inside Holly O'Connell's sunlit glass-walled corner office at The Fortress on Industrial Park Road in Blacksburg, Virginia in October 2002. Holly O'Connell (in a tailored charcoal blazer over a maroon CPI shirt, wearing glasses) sits at her oak desk surrounded by legal binders, tour-advancing blueprints, and a speakerphone, while Ryan O'Connell (in his manual wheelchair with rear push-handles), Cassidy O'Connell (resting her hand on Ryan's push-handle), and twin cousins Evan and Tyler Wright lean in with coffee mugs and notepads as they job-shadow her for the day."
+                                    "alt": "Photorealistic widescreen view inside Holly O'Connell's sunlit glass-walled corner office at The Fortress on Industrial Park Road in Blacksburg, Virginia in October 1999. Holly O'Connell (in her early thirties, wearing a tailored charcoal blazer over a maroon CPI shirt and glasses) sits at her oak desk surrounded by legal binders, tour-advancing blueprints, and a speakerphone, while Ryan O'Connell (in his manual wheelchair with rear push-handles), Cassidy O'Connell (resting her hand on Ryan's push-handle), and twin cousins Evan and Tyler Wright lean in with coffee mugs and notepads as they job-shadow her for the day."
                                 }
                             ],
                             "image_count": 1
