@@ -1089,8 +1089,93 @@
     }
   }
 
+  /**
+   * Injects a unified ecosystem Schema.org JSON-LD `@graph` (`#rs-ecosystem-jsonld`)
+   * into `<head>` on every property in the RaggieSoft network so search engines and
+   * structured-data crawlers can traverse the 10-property polyglot ecosystem and the
+   * permanent "Second Star to the Right" In Memoriam tribute to Sir Patrick Stewart.
+   */
+  function ensureEcosystemJsonLdInjected() {
+    if (!document.head || document.getElementById('rs-ecosystem-jsonld')) return;
+    try {
+      var script = document.createElement('script');
+      script.type = 'application/ld+json';
+      script.id = 'rs-ecosystem-jsonld';
+      var currentUrl = window.location ? window.location.origin + window.location.pathname : 'https://raggiesoft.com/';
+      var graphData = {
+        '@context': 'https://schema.org',
+        '@graph': [
+          {
+            '@type': 'Organization',
+            '@id': 'https://raggiesoft.com/#organization',
+            name: 'RaggieSoft',
+            alternateName: ['RaggieSoft Media', 'Engine Room Records', 'Ocean View Archives'],
+            url: 'https://raggiesoft.com',
+            logo: 'https://assets.raggiesoft.com/raggiesoft-corporate/images/logos/raggiesoft-logo.png',
+            founder: {
+              '@type': 'Person',
+              '@id': 'https://michaelpragsdale.com/#michael-ragsdale',
+              name: 'Michael P. Ragsdale',
+              url: 'https://michaelpragsdale.com'
+            },
+            sameAs: [
+              'https://raggiesoft.com',
+              'https://nebulae.raggiesoft.com',
+              'https://books.raggiesoft.com',
+              'https://lore.raggiesoft.com',
+              'https://backstage.raggiesoft.com',
+              'https://music.raggiesoft.com',
+              'https://stardust.raggiesoft.com',
+              'https://engineroom.raggiesoft.com',
+              'https://corporate.raggiesoft.com',
+              'https://storetrainer.raggiesoft.com',
+              'https://michaelpragsdale.com',
+              'https://github.com/raggiesoft'
+            ],
+            subjectOf: {
+              '@type': 'Article',
+              '@id': 'https://raggiesoft.com/in-memoriam#article',
+              headline: 'In Memoriam: Sir Patrick Stewart (July 13, 1940 – October 28, 2026) — Second Star to the Right',
+              url: 'https://raggiesoft.com/in-memoriam',
+              about: {
+                '@type': 'Person',
+                '@id': 'https://raggiesoft.com/in-memoriam#sir-patrick-stewart',
+                name: 'Sir Patrick Stewart',
+                birthDate: '1940-07-13',
+                deathDate: '2026-10-28'
+              }
+            }
+          },
+          {
+            '@type': 'SiteNavigationElement',
+            '@id': currentUrl + '#rs-network-navigation',
+            name: 'RaggieSoft Ecosystem Network Navigation',
+            hasPart: [
+              { '@type': 'WebPage', name: 'RaggieSoft Hub', url: 'https://raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'In Memoriam: Sir Patrick Stewart', url: 'https://raggiesoft.com/in-memoriam' },
+              { '@type': 'WebPage', name: 'RaggieSoft Nebulae (Caelum-IV Survey)', url: 'https://nebulae.raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'RaggieSoft Book Reader (Ocean View Archives)', url: 'https://books.raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'Escape Velocity: Ad Astra Book Series', url: 'https://books.raggiesoft.com/raggiesoft-books/ad-astra' },
+              { '@type': 'WebPage', name: 'RaggieSoft Lore Graph', url: 'https://lore.raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'RaggieSoft Backstage', url: 'https://backstage.raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'The Listening Room', url: 'https://music.raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'The Stardust Engine', url: 'https://stardust.raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'Engine Room Records', url: 'https://engineroom.raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'RaggieSoft Media (Corporate & Licensing)', url: 'https://corporate.raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'RaggieSoft StoreTrainer', url: 'https://storetrainer.raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'Michael P. Ragsdale Portfolio', url: 'https://michaelpragsdale.com/' }
+            ]
+          }
+        ]
+      };
+      script.textContent = JSON.stringify(graphData);
+      document.head.appendChild(script);
+    } catch (e) {}
+  }
+
   function initRaggieSoftNetworkMenu() {
     ensureNetworkStylesInjected();
+    ensureEcosystemJsonLdInjected();
     ensureStandaloneExternalLinkRouting();
     if (!document.body) return;
 

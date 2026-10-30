@@ -199,6 +199,20 @@ async function navigateTo(url, pushState = true) {
                 }
             });
 
+            // Synchronize <head> JSON-LD structured data (<script type="application/ld+json">) across SPA transitions
+            const newHeadJsonLd = Array.from(doc.head.querySelectorAll('script[type="application/ld+json"]'));
+            const oldHeadJsonLd = Array.from(document.head.querySelectorAll('script[type="application/ld+json"]'));
+            oldHeadJsonLd.forEach(script => {
+                if (script.id !== 'rs-ecosystem-jsonld') {
+                    script.remove();
+                }
+            });
+            newHeadJsonLd.forEach(script => {
+                if (script.id !== 'rs-ecosystem-jsonld') {
+                    document.head.appendChild(script.cloneNode(true));
+                }
+            });
+
 
             // --- 2. LOADER STATE UPDATE ---
             // Silently update the loader text so it displays correctly on the *next* click
