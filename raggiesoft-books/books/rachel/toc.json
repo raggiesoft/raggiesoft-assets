@@ -9,12 +9,12 @@
     "ebook_sizes": {
         "epub": "13.5 MB",
         "pdf": "15.3 MB",
-        "text_epub": "985 KB",
-        "text_pdf": "2.7 MB",
-        "epub_bytes": 14122860,
-        "pdf_bytes": 16025093,
-        "text_epub_bytes": 1008691,
-        "text_pdf_bytes": 2848155
+        "text_epub": "1009 KB",
+        "text_pdf": "2.8 MB",
+        "epub_bytes": 14146971,
+        "pdf_bytes": 16090882,
+        "text_epub_bytes": 1032801,
+        "text_pdf_bytes": 2914090
     },
     "illustration_count": 18,
     "eras": [
@@ -2120,21 +2120,21 @@
         },
         {
             "era_num": 18,
-            "era_title": "The Eastern Anchor",
-            "era_url": "/raggiesoft-books/books/rachel/the-eastern-anchor",
+            "era_title": "The Shallow End",
+            "era_url": "/raggiesoft-books/books/rachel/the-shallow-end",
             "illustration_count": 2,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Foundation",
-                    "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-foundation",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/the-foundation",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Tarmac and the Tear & The Decoy Protocol",
                             "file_path": "e018/c001/p001.md",
-                            "url": "/rachel/the-eastern-anchor/the-foundation/the-tarmac-and-the-tear-the-decoy-protocol",
+                            "url": "/rachel/the-shallow-end/the-foundation/the-tarmac-and-the-tear-the-decoy-protocol",
                             "date": "2007-03-30",
                             "start_time": "22:15"
                         }
@@ -2143,14 +2143,14 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Blueprint and the Sabomnim",
-                    "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-blueprint-and-the-sabomnim",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/the-blueprint-and-the-sabomnim",
                     "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Transition Wake-Up & The Reunion at the Register",
                             "file_path": "e018/c002/p001.md",
-                            "url": "/rachel/the-eastern-anchor/the-blueprint-and-the-sabomnim/part-1-the-transition-wake-up-the-reunion-at-the-register",
+                            "url": "/rachel/the-shallow-end/the-blueprint-and-the-sabomnim/part-1-the-transition-wake-up-the-reunion-at-the-register",
                             "date": "2007-03-31",
                             "start_time": "09:00"
                         },
@@ -2158,7 +2158,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Alumni Roster & The Woven Stripe",
                             "file_path": "e018/c002/p002.md",
-                            "url": "/rachel/the-eastern-anchor/the-blueprint-and-the-sabomnim/part-2-the-alumni-roster-the-woven-stripe",
+                            "url": "/rachel/the-shallow-end/the-blueprint-and-the-sabomnim/part-2-the-alumni-roster-the-woven-stripe",
                             "date": "2007-03-31",
                             "start_time": "13:15",
                             "image": "/raggiesoft-books/images/scenes/rachel/b018/april_showing_dojang_street_clothes_p006.jpg",
@@ -2175,7 +2175,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The Sea of Truth & The Criollo Drive Ascent",
                             "file_path": "e018/c002/p003.md",
-                            "url": "/rachel/the-eastern-anchor/the-blueprint-and-the-sabomnim/part-3-the-sea-of-truth-the-criollo-drive-ascent",
+                            "url": "/rachel/the-shallow-end/the-blueprint-and-the-sabomnim/part-3-the-sea-of-truth-the-criollo-drive-ascent",
                             "date": "2007-03-31",
                             "start_time": "18:45",
                             "image": "/raggiesoft-books/images/scenes/rachel/b018/april_reveals_diplomatic_status_p007.jpg",
@@ -2193,14 +2193,14 @@
                 {
                     "chap_num": 3,
                     "chap_title": "The Sunday Reset",
-                    "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-sunday-reset",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/the-sunday-reset",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Three-Day Math & The Evolution of the Anchor",
                             "file_path": "e018/c003/p001.md",
-                            "url": "/rachel/the-eastern-anchor/the-sunday-reset/the-three-day-math-the-evolution-of-the-anchor",
+                            "url": "/rachel/the-shallow-end/the-sunday-reset/the-three-day-math-the-evolution-of-the-anchor",
                             "date": "2007-04-01",
                             "start_time": "10:00"
                         }
@@ -2208,73 +2208,97 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "The Digital SOS",
-                    "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-digital-sos",
+                    "chap_title": "The Open-Door Sanctuary",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/the-open-door-sanctuary",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Command Center & The Blackwater Extraction",
+                            "part_title": "Part 1: The Keys to 3701 & The Dollar Lease",
                             "file_path": "e018/c004/p001.md",
-                            "url": "/rachel/the-eastern-anchor/the-digital-sos/part-1-the-command-center-the-blackwater-extraction",
+                            "url": "/rachel/the-shallow-end/the-open-door-sanctuary/part-1-the-keys-to-3701-the-dollar-lease",
                             "date": "2007-04-02",
                             "start_time": "14:00"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Evasive Route & The 1802 Perimeter",
+                            "part_title": "Part 2: The Three-Room Geometry, The Open-Door Policy, & The Midnight Blue Belts",
                             "file_path": "e018/c004/p002.md",
-                            "url": "/rachel/the-eastern-anchor/the-digital-sos/part-2-the-evasive-route-the-1802-perimeter",
-                            "date": "2007-04-02",
-                            "start_time": "15:15"
-                        },
-                        {
-                            "part_num": 3,
-                            "part_title": "Part 3: The Legal Definition & The Weight of the Anchor",
-                            "file_path": "e018/c004/p003.md",
-                            "url": "/rachel/the-eastern-anchor/the-digital-sos/part-3-the-legal-definition-the-weight-of-the-anchor",
-                            "date": "2007-04-02",
-                            "start_time": "22:30"
+                            "url": "/rachel/the-shallow-end/the-open-door-sanctuary/part-2-the-three-room-geometry-the-open-door-policy-the-midnight-blue-belts",
+                            "date": "2007-04-06",
+                            "start_time": "15:30"
                         }
                     ]
                 },
                 {
                     "chap_num": 5,
-                    "chap_title": "The Fortress",
-                    "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-fortress",
+                    "chap_title": "The Route 25 Loop & The Shallow End",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/the-route-25-loop-the-shallow-end",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Lifelong Partner & Shedding the Name",
+                            "part_title": "Part 1: First Contact & The Engineered Route 25 Commute",
                             "file_path": "e018/c005/p001.md",
-                            "url": "/rachel/the-eastern-anchor/the-fortress/part-1-the-lifelong-partner-shedding-the-name",
-                            "date": "2007-04-03",
-                            "start_time": "07:00"
+                            "url": "/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-1-first-contact-the-engineered-route-25-commute",
+                            "date": "2007-08-24",
+                            "start_time": "07:35"
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Dollar Lease",
+                            "part_title": "Part 2: \\",
                             "file_path": "e018/c005/p002.md",
-                            "url": "/rachel/the-eastern-anchor/the-fortress/part-2-the-dollar-lease",
-                            "date": "2007-04-03",
-                            "start_time": "12:30"
+                            "url": "/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-2",
+                            "date": "2007-10-18",
+                            "start_time": "12:15"
                         }
                     ]
                 },
                 {
                     "chap_num": 6,
-                    "chap_title": "The Deployment",
-                    "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-deployment",
+                    "chap_title": "Twin Magic & The Chesapeake Bay Aquarium",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium",
                     "illustration_count": 0,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The West Coast Wake-Up",
+                            "part_title": "Part 1: Twin Magic at Susquehanna Drive",
                             "file_path": "e018/c006/p001.md",
-                            "url": "/rachel/the-eastern-anchor/the-deployment/the-west-coast-wake-up",
-                            "date": "2007-04-04",
-                            "start_time": "05:30"
+                            "url": "/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-1-twin-magic-at-susquehanna-drive",
+                            "date": "2008-04-01",
+                            "start_time": "07:55"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Chesapeake Bay Aquarium",
+                            "file_path": "e018/c006/p002.md",
+                            "url": "/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-2-the-chesapeake-bay-aquarium",
+                            "date": "2008-07-18",
+                            "start_time": "11:00"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 7,
+                    "chap_title": "Unhandled Exception & The Living Firewall",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/unhandled-exception-the-living-firewall",
+                    "illustration_count": 0,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Susquehanna Cutoff & Unhandled Exception",
+                            "file_path": "e018/c007/p001.md",
+                            "url": "/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-susquehanna-cutoff-unhandled-exception",
+                            "date": "2009-05-08",
+                            "start_time": "15:45"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Reclaiming the Narrative: The Living Firewall",
+                            "file_path": "e018/c007/p002.md",
+                            "url": "/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-2-reclaiming-the-narrative-the-living-firewall",
+                            "date": "2009-05-08",
+                            "start_time": "16:35"
                         }
                     ]
                 }
@@ -2282,6 +2306,86 @@
         },
         {
             "era_num": 19,
+            "era_title": "The Eastern Anchor",
+            "era_url": "/raggiesoft-books/books/rachel/the-eastern-anchor",
+            "illustration_count": 0,
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "The Passcode & The Blackwater Extraction",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction",
+                    "illustration_count": 0,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Passcode & The Blackwater Extraction",
+                            "file_path": "e019/c001/p001.md",
+                            "url": "/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction/part-1-the-passcode-the-blackwater-extraction",
+                            "date": "2009-05-11",
+                            "start_time": "14:30"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Evasive Route & The 1802 Perimeter",
+                            "file_path": "e019/c001/p002.md",
+                            "url": "/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction/part-2-the-evasive-route-the-1802-perimeter",
+                            "date": "2009-05-11",
+                            "start_time": "15:15"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Legal Definition & The Weight of the Anchor",
+                            "file_path": "e019/c001/p003.md",
+                            "url": "/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction/part-3-the-legal-definition-the-weight-of-the-anchor",
+                            "date": "2009-05-11",
+                            "start_time": "22:30"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "The Fortress",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-fortress",
+                    "illustration_count": 0,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Lifelong Partner & Shedding the Name",
+                            "file_path": "e019/c002/p001.md",
+                            "url": "/rachel/the-eastern-anchor/the-fortress/part-1-the-lifelong-partner-shedding-the-name",
+                            "date": "2009-05-12",
+                            "start_time": "07:00"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Amended Dollar Lease",
+                            "file_path": "e019/c002/p002.md",
+                            "url": "/rachel/the-eastern-anchor/the-fortress/part-2-the-amended-dollar-lease",
+                            "date": "2009-05-12",
+                            "start_time": "12:30"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "The Deployment",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-deployment",
+                    "illustration_count": 0,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "The West Coast Wake-Up",
+                            "file_path": "e019/c003/p001.md",
+                            "url": "/rachel/the-eastern-anchor/the-deployment/the-west-coast-wake-up",
+                            "date": "2009-05-13",
+                            "start_time": "06:30"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "era_num": 20,
             "era_title": "The Director's Perimeter",
             "era_url": "/raggiesoft-books/books/rachel/the-director-s-perimeter",
             "illustration_count": 0,
@@ -2295,9 +2399,9 @@
                         {
                             "part_num": 1,
                             "part_title": "The SME Directive",
-                            "file_path": "e019/c001/p001.md",
+                            "file_path": "e020/c001/p001.md",
                             "url": "/rachel/the-director-s-perimeter/the-capture/the-sme-directive",
-                            "date": "2007-05-16",
+                            "date": "2009-05-18",
                             "start_time": "09:15"
                         }
                     ]
@@ -2310,10 +2414,10 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Twenty-First Milestone & The Evasive Route",
-                            "file_path": "e019/c002/p001.md",
-                            "url": "/rachel/the-director-s-perimeter/the-moosewood-anomaly/the-twenty-first-milestone-the-evasive-route",
-                            "date": "2007-05-25",
+                            "part_title": "The Twenty-Third Milestone & The Evasive Route",
+                            "file_path": "e020/c002/p001.md",
+                            "url": "/rachel/the-director-s-perimeter/the-moosewood-anomaly/the-twenty-third-milestone-the-evasive-route",
+                            "date": "2009-05-25",
                             "start_time": "18:30"
                         }
                     ]
@@ -2327,9 +2431,9 @@
                         {
                             "part_num": 1,
                             "part_title": "The Route 36 Commute & The Corporate Guillotine",
-                            "file_path": "e019/c003/p001.md",
+                            "file_path": "e020/c003/p001.md",
                             "url": "/rachel/the-director-s-perimeter/the-tactical-acquisition/the-route-36-commute-the-corporate-guillotine",
-                            "date": "2007-05-29",
+                            "date": "2009-05-26",
                             "start_time": "06:40"
                         }
                     ]
@@ -2342,18 +2446,26 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Demolition Directive & The Intact Architecture",
-                            "file_path": "e019/c004/p001.md",
-                            "url": "/rachel/the-director-s-perimeter/ground-zero/the-demolition-directive-the-intact-architecture",
-                            "date": "2007-06-15",
+                            "part_title": "Part 1: The Demolition Directive & The Intact Architecture",
+                            "file_path": "e020/c004/p001.md",
+                            "url": "/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture",
+                            "date": "2009-06-15",
                             "start_time": "07:45"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The June Upgrade",
+                            "file_path": "e020/c004/p002.md",
+                            "url": "/rachel/the-director-s-perimeter/ground-zero/part-2-the-june-upgrade",
+                            "date": "2009-06-15",
+                            "start_time": "20:30"
                         }
                     ]
                 }
             ]
         },
         {
-            "era_num": 20,
+            "era_num": 21,
             "era_title": "The Mountain Conference (SAACURC 2016)",
             "era_url": "/raggiesoft-books/books/rachel/the-mountain-conference-saacurc-2016",
             "illustration_count": 0,
@@ -2367,7 +2479,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Friday Arrival, The Commonwealth Mall Curb, & The ADA Suite at The Hotel at Poly",
-                            "file_path": "e020/c001/p001.md",
+                            "file_path": "e021/c001/p001.md",
                             "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-the-commonwealth-mall-curb-the-ada-suite-at-the-hotel-at-poly",
                             "date": "2016-02-12",
                             "start_time": "16:00",
@@ -2376,7 +2488,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Saturday at SAACURC: The Clothespin Gauntlet & The GIH Pilot Roundtable",
-                            "file_path": "e020/c001/p002.md",
+                            "file_path": "e021/c001/p002.md",
                             "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-2-saturday-at-saacurc-the-clothespin-gauntlet-the-gih-pilot-roundtable",
                             "date": "2016-02-13",
                             "start_time": "09:00",
@@ -2385,7 +2497,7 @@
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Sunday Wrap-Up: Closing Lunch, Awards Ceremony, & Home to Norfolk",
-                            "file_path": "e020/c001/p003.md",
+                            "file_path": "e021/c001/p003.md",
                             "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-3-sunday-wrap-up-closing-lunch-awards-ceremony-home-to-norfolk",
                             "date": "2016-02-14",
                             "start_time": "11:30",
