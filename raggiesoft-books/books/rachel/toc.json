@@ -7,14 +7,14 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "26.8 MB",
-        "pdf": "29.5 MB",
-        "text_epub": "1012 KB",
+        "epub": "27.1 MB",
+        "pdf": "29.8 MB",
+        "text_epub": "1013 KB",
         "text_pdf": "2.8 MB",
-        "epub_bytes": 28117113,
-        "pdf_bytes": 30918089,
-        "text_epub_bytes": 1036787,
-        "text_pdf_bytes": 2927817
+        "epub_bytes": 28364020,
+        "pdf_bytes": 31210487,
+        "text_epub_bytes": 1036865,
+        "text_pdf_bytes": 2927667
     },
     "illustration_count": 37,
     "eras": [
@@ -2645,11 +2645,11 @@
                             "start_time": "16:00",
                             "location": "The Hotel at Poly & Commonwealth Mall, Commonwealth Polytechnic Institute, Blacksburg, VA",
                             "image": "/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg",
-                            "image_alt": "Michael and Rachel standing arm-in-arm in front of the Ironstone buildings on the CPI campus in Blacksburg during SAACURC 2016",
+                            "image_alt": "Michael in his manual wheelchair with push rims and Rachel gripping the rear push handles on the hilly CPI campus in Blacksburg during SAACURC 2016, both wearing jeans, Blue-and-Silver VDU t-shirts, and winter jackets surrounded by visiting SAACURC student delegations",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg",
-                                    "alt": "Michael and Rachel standing arm-in-arm in front of the Ironstone buildings on the CPI campus in Blacksburg during SAACURC 2016"
+                                    "alt": "Michael in his manual wheelchair with push rims and Rachel gripping the rear push handles on the hilly CPI campus in Blacksburg during SAACURC 2016, both wearing jeans, Blue-and-Silver VDU t-shirts, and winter jackets surrounded by visiting SAACURC student delegations"
                                 }
                             ],
                             "image_count": 1
