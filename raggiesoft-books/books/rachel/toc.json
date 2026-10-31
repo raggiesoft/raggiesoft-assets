@@ -7,16 +7,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "19.1 MB",
-        "pdf": "21.4 MB",
-        "text_epub": "1013 KB",
+        "epub": "19.9 MB",
+        "pdf": "22.1 MB",
+        "text_epub": "1014 KB",
         "text_pdf": "2.8 MB",
-        "epub_bytes": 20046121,
-        "pdf_bytes": 22414678,
-        "text_epub_bytes": 1037461,
-        "text_pdf_bytes": 2929107
+        "epub_bytes": 20832838,
+        "pdf_bytes": 23138460,
+        "text_epub_bytes": 1038487,
+        "text_pdf_bytes": 2933157
     },
-    "illustration_count": 26,
+    "illustration_count": 27,
     "eras": [
         {
             "era_num": 1,
@@ -2122,7 +2122,7 @@
             "era_num": 18,
             "era_title": "The Shallow End",
             "era_url": "/raggiesoft-books/books/rachel/the-shallow-end",
-            "illustration_count": 10,
+            "illustration_count": 11,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2348,24 +2348,28 @@
                     "chap_num": 7,
                     "chap_title": "Unhandled Exception & The Living Firewall",
                     "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/unhandled-exception-the-living-firewall",
-                    "illustration_count": 1,
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Susquehanna Cutoff & Unhandled Exception",
+                            "part_title": "Part 1: The 10:45 AM Lineup & Unhandled Exception",
                             "file_path": "e018/c007/p001.md",
-                            "url": "/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-susquehanna-cutoff-unhandled-exception",
+                            "url": "/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception",
                             "date": "2009-05-08",
-                            "start_time": "15:45",
+                            "start_time": "07:40",
                             "image": "/raggiesoft-books/images/scenes/rachel/b018/susquehanna_bus_stop_cutoff.jpg",
-                            "image_alt": "Heather Bouchard stepping back and refusing Michael's goodbye hug at Princess Anne & Susquehanna Drive",
+                            "image_alt": "Heather Bouchard suddenly pushing Michael away to resist his goodbye hug aboard CVTA Route 25",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b018/susquehanna_bus_stop_cutoff.jpg",
-                                    "alt": "Heather Bouchard stepping back and refusing Michael's goodbye hug at Princess Anne & Susquehanna Drive"
+                                    "alt": "Heather Bouchard suddenly pushing Michael away to resist his goodbye hug aboard CVTA Route 25"
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/route_25_leslie_crying_mirror.jpg",
+                                    "alt": "Michael crying and situationally mute in his seat on CVTA Route 25 as bus driver Leslie Treece looks up into the rearview mirror"
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         },
                         {
                             "part_num": 2,
