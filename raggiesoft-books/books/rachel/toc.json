@@ -7,16 +7,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "19.9 MB",
-        "pdf": "22.1 MB",
-        "text_epub": "1014 KB",
+        "epub": "20.6 MB",
+        "pdf": "22.8 MB",
+        "text_epub": "1012 KB",
         "text_pdf": "2.8 MB",
-        "epub_bytes": 20832838,
-        "pdf_bytes": 23138460,
-        "text_epub_bytes": 1038487,
-        "text_pdf_bytes": 2933157
+        "epub_bytes": 21556773,
+        "pdf_bytes": 23915407,
+        "text_epub_bytes": 1036495,
+        "text_pdf_bytes": 2926992
     },
-    "illustration_count": 27,
+    "illustration_count": 28,
     "eras": [
         {
             "era_num": 1,
@@ -2122,7 +2122,7 @@
             "era_num": 18,
             "era_title": "The Shallow End",
             "era_url": "/raggiesoft-books/books/rachel/the-shallow-end",
-            "illustration_count": 11,
+            "illustration_count": 12,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2247,9 +2247,9 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Ms. Doris, The Stalwart Advantage, & The Penny's Run",
+                            "part_title": "Part 1: Ms. Doris, Route 25, & The Penny's Run",
                             "file_path": "e018/c005/p001.md",
-                            "url": "/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-1-ms-doris-the-stalwart-advantage-the-penny-s-run",
+                            "url": "/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-1-ms-doris-route-25-the-penny-s-run",
                             "date": "2007-08-23",
                             "start_time": "11:55",
                             "image": "/raggiesoft-books/images/scenes/rachel/b018/cchr_route_25_ms_doris_pennys_run.jpg",
@@ -2278,7 +2278,7 @@
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b018/cchr_route_25_bus_commute.jpg",
-                                    "alt": "Michael and Heather Bouchard riding the 30-foot Stalwart Advantage on CVTA Route 25 together to CCHR"
+                                    "alt": "Michael and Heather Bouchard riding CVTA Route 25 together to CCHR"
                                 }
                             ],
                             "image_count": 2
@@ -2348,7 +2348,7 @@
                     "chap_num": 7,
                     "chap_title": "Unhandled Exception & The Living Firewall",
                     "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/unhandled-exception-the-living-firewall",
-                    "illustration_count": 2,
+                    "illustration_count": 3,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2373,11 +2373,20 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Reclaiming the Narrative: The Living Firewall",
+                            "part_title": "Part 2: 3:13 PM: Refusing to Let Go",
                             "file_path": "e018/c007/p002.md",
-                            "url": "/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-2-reclaiming-the-narrative-the-living-firewall",
+                            "url": "/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-2-3-13-pm-refusing-to-let-go",
                             "date": "2009-05-08",
-                            "start_time": "16:35"
+                            "start_time": "15:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b018/rachel_comforting_michael_sofa_3701.jpg",
+                            "image_alt": "Michael pulling Rachel into a fierce, desperate squeeze hug on the living room sofa at 3:13 PM as she leans in to comfort him",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/rachel_comforting_michael_sofa_3701.jpg",
+                                    "alt": "Michael pulling Rachel into a fierce, desperate squeeze hug on the living room sofa at 3:13 PM as she leans in to comfort him"
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
