@@ -11,12 +11,12 @@
         "pdf": "29.8 MB",
         "text_epub": "1013 KB",
         "text_pdf": "2.8 MB",
-        "epub_bytes": 28364020,
-        "pdf_bytes": 31210487,
-        "text_epub_bytes": 1036865,
+        "epub_bytes": 28364427,
+        "pdf_bytes": 31213494,
+        "text_epub_bytes": 1036866,
         "text_pdf_bytes": 2927667
     },
-    "illustration_count": 37,
+    "illustration_count": 46,
     "eras": [
         {
             "era_num": 1,
@@ -2122,7 +2122,7 @@
             "era_num": 18,
             "era_title": "The Shallow End",
             "era_url": "/raggiesoft-books/books/rachel/the-shallow-end",
-            "illustration_count": 15,
+            "illustration_count": 16,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2153,7 +2153,7 @@
                     "chap_num": 2,
                     "chap_title": "The Blueprint and the Sabomnim",
                     "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/the-blueprint-and-the-sabomnim",
-                    "illustration_count": 2,
+                    "illustration_count": 3,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2161,7 +2161,16 @@
                             "file_path": "e018/c002/p001.md",
                             "url": "/rachel/the-shallow-end/the-blueprint-and-the-sabomnim/part-1-the-transition-wake-up-the-reunion-at-the-register",
                             "date": "2007-03-31",
-                            "start_time": "09:00"
+                            "start_time": "09:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b018/april_showing_dojang_street_clothes_p006.jpg",
+                            "image_alt": "Back in Virginia Beach, Michael and Rachel execute the furniture store decoy routine and reunite with Master April at the grocery register.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/april_showing_dojang_street_clothes_p006.jpg",
+                                    "alt": "Back in Virginia Beach, Michael and Rachel execute the furniture store decoy routine and reunite with Master April at the grocery register."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -2423,13 +2432,13 @@
             "era_num": 19,
             "era_title": "The Eastern Anchor",
             "era_url": "/raggiesoft-books/books/rachel/the-eastern-anchor",
-            "illustration_count": 3,
+            "illustration_count": 6,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Passcode & The Blackwater Extraction",
                     "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction",
-                    "illustration_count": 1,
+                    "illustration_count": 3,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2437,7 +2446,16 @@
                             "file_path": "e019/c001/p001.md",
                             "url": "/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction/part-1-the-passcode-the-blackwater-extraction",
                             "date": "2009-05-11",
-                            "start_time": "14:30"
+                            "start_time": "14:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b019/blackwater_reunion_pack_hug.jpg",
+                            "image_alt": "Three days after the Route 25 cutoff, Ashley reaches out with an emergency passcode and the pack executes the Blackwater Extraction.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b019/blackwater_reunion_pack_hug.jpg",
+                                    "alt": "Three days after the Route 25 cutoff, Ashley reaches out with an emergency passcode and the pack executes the Blackwater Extraction."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -2462,7 +2480,16 @@
                             "file_path": "e019/c001/p003.md",
                             "url": "/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction/part-3-the-legal-definition-the-weight-of-the-anchor",
                             "date": "2009-05-11",
-                            "start_time": "22:30"
+                            "start_time": "22:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg",
+                            "image_alt": "In the dark of 1802 Rich Court, Rachel and Ashley anchor Michael through a terrifying flashback of Kent using deep-pressure grounding.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg",
+                                    "alt": "In the dark of 1802 Rich Court, Rachel and Ashley anchor Michael through a terrifying flashback of Kent using deep-pressure grounding."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -2470,7 +2497,7 @@
                     "chap_num": 2,
                     "chap_title": "The Fortress",
                     "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-fortress",
-                    "illustration_count": 1,
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2495,7 +2522,16 @@
                             "file_path": "e019/c002/p002.md",
                             "url": "/rachel/the-eastern-anchor/the-fortress/part-2-the-amended-dollar-lease",
                             "date": "2009-05-12",
-                            "start_time": "12:30"
+                            "start_time": "12:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg",
+                            "image_alt": "Back at 3701 Canadian Arch, Ashley signs the amended one-dollar lease and officially moves into the townhouse sanctuary.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg",
+                                    "alt": "Back at 3701 Canadian Arch, Ashley signs the amended one-dollar lease and officially moves into the townhouse sanctuary."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -2530,13 +2566,13 @@
             "era_num": 20,
             "era_title": "The Director's Perimeter",
             "era_url": "/raggiesoft-books/books/rachel/the-director-s-perimeter",
-            "illustration_count": 2,
+            "illustration_count": 5,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Capture",
                     "chap_url": "/raggiesoft-books/books/rachel/the-director-s-perimeter/the-capture",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2544,7 +2580,16 @@
                             "file_path": "e020/c001/p001.md",
                             "url": "/rachel/the-director-s-perimeter/the-capture/the-sme-directive",
                             "date": "2009-05-18",
-                            "start_time": "09:15"
+                            "start_time": "09:15",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b020/kemp_woods_bench_press_hug.jpg",
+                            "image_alt": "At NAVSTA Norfolk and Kemp Woods Park, Jessica commands the Quantum cutover while the pack debuts the Human Bench Press.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b020/kemp_woods_bench_press_hug.jpg",
+                                    "alt": "At NAVSTA Norfolk and Kemp Woods Park, Jessica commands the Quantum cutover while the pack debuts the Human Bench Press."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -2577,7 +2622,7 @@
                     "chap_num": 3,
                     "chap_title": "The Tactical Acquisition",
                     "chap_url": "/raggiesoft-books/books/rachel/the-director-s-perimeter/the-tactical-acquisition",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2585,7 +2630,16 @@
                             "file_path": "e020/c003/p001.md",
                             "url": "/rachel/the-director-s-perimeter/the-tactical-acquisition/the-route-36-commute-the-corporate-guillotine",
                             "date": "2009-05-26",
-                            "start_time": "06:40"
+                            "start_time": "06:40",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b020/june_upgrade_official_pack_3701.jpg",
+                            "image_alt": "Michael and Kristin ride CVTA Route 36 together while Jessica's Quantum directive brings the corporate guillotine down on David Lawson.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b020/june_upgrade_official_pack_3701.jpg",
+                                    "alt": "Michael and Kristin ride CVTA Route 36 together while Jessica's Quantum directive brings the corporate guillotine down on David Lawson."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -2593,7 +2647,7 @@
                     "chap_num": 4,
                     "chap_title": "Ground Zero",
                     "chap_url": "/raggiesoft-books/books/rachel/the-director-s-perimeter/ground-zero",
-                    "illustration_count": 1,
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2601,7 +2655,16 @@
                             "file_path": "e020/c004/p001.md",
                             "url": "/rachel/the-director-s-perimeter/ground-zero/part-1-the-demolition-directive-the-intact-architecture",
                             "date": "2009-06-15",
-                            "start_time": "07:45"
+                            "start_time": "07:45",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b020/june_upgrade_official_pack_3701.jpg",
+                            "image_alt": "On June 15, 2009, Michael and Rachel receive their official joint Autism diagnosis, validating a lifetime of pack survival architecture.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b020/june_upgrade_official_pack_3701.jpg",
+                                    "alt": "On June 15, 2009, Michael and Rachel receive their official joint Autism diagnosis, validating a lifetime of pack survival architecture."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -2628,13 +2691,13 @@
             "era_num": 21,
             "era_title": "The Mountain Conference (SAACURC 2016)",
             "era_url": "/raggiesoft-books/books/rachel/the-mountain-conference-saacurc-2016",
-            "illustration_count": 1,
+            "illustration_count": 3,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Bear, The Bug, and The Forger",
                     "chap_url": "/raggiesoft-books/books/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger",
-                    "illustration_count": 1,
+                    "illustration_count": 3,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2661,7 +2724,16 @@
                             "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-2-saturday-at-saacurc-the-clothespin-gauntlet-the-gih-pilot-roundtable",
                             "date": "2016-02-13",
                             "start_time": "09:00",
-                            "location": "Kincaid Student Center (290 College Ave.) & The Hotel at Poly, Blacksburg, VA"
+                            "location": "Kincaid Student Center (290 College Ave.) & The Hotel at Poly, Blacksburg, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg",
+                            "image_alt": "At CPI's Kincaid Student Center, Michael and Rachel navigate the SAACURC 2016 sessions and champion the Gender-Inclusive Housing pilot.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg",
+                                    "alt": "At CPI's Kincaid Student Center, Michael and Rachel navigate the SAACURC 2016 sessions and champion the Gender-Inclusive Housing pilot."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 3,
@@ -2670,7 +2742,16 @@
                             "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-3-sunday-wrap-up-closing-lunch-awards-ceremony-home-to-norfolk",
                             "date": "2016-02-14",
                             "start_time": "11:30",
-                            "location": "Kincaid Student Center (290 College Ave.) to Interstate 81 North & Eastbound to Norfolk, VA"
+                            "location": "Kincaid Student Center (290 College Ave.) to Interstate 81 North & Eastbound to Norfolk, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg",
+                            "image_alt": "Wrapping up SAACURC 2016 at CPI in Blacksburg, Michael and Rachel bring twenty-four housing reports home to Norfolk.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg",
+                                    "alt": "Wrapping up SAACURC 2016 at CPI in Blacksburg, Michael and Rachel bring twenty-four housing reports home to Norfolk."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
