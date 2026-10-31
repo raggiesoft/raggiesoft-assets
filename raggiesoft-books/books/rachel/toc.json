@@ -7,16 +7,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "20.6 MB",
-        "pdf": "22.9 MB",
+        "epub": "26.8 MB",
+        "pdf": "29.5 MB",
         "text_epub": "1012 KB",
         "text_pdf": "2.8 MB",
-        "epub_bytes": 21557281,
-        "pdf_bytes": 24019122,
-        "text_epub_bytes": 1036789,
+        "epub_bytes": 28117113,
+        "pdf_bytes": 30918089,
+        "text_epub_bytes": 1036787,
         "text_pdf_bytes": 2927817
     },
-    "illustration_count": 28,
+    "illustration_count": 37,
     "eras": [
         {
             "era_num": 1,
@@ -2122,13 +2122,13 @@
             "era_num": 18,
             "era_title": "The Shallow End",
             "era_url": "/raggiesoft-books/books/rachel/the-shallow-end",
-            "illustration_count": 12,
+            "illustration_count": 15,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Foundation",
                     "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/the-foundation",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2136,7 +2136,16 @@
                             "file_path": "e018/c001/p001.md",
                             "url": "/rachel/the-shallow-end/the-foundation/the-tarmac-and-the-tear-the-decoy-protocol",
                             "date": "2007-03-30",
-                            "start_time": "22:15"
+                            "start_time": "22:15",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b018/norfolk_tarmac_homecoming_hug.jpg",
+                            "image_alt": "Rachel leaning across the aircraft armrest to hold Michael as they land at Norfolk International Airport",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/norfolk_tarmac_homecoming_hug.jpg",
+                                    "alt": "Rachel leaning across the aircraft armrest to hold Michael as they land at Norfolk International Airport"
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -2194,7 +2203,7 @@
                     "chap_num": 3,
                     "chap_title": "The Sunday Reset",
                     "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/the-sunday-reset",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2202,7 +2211,16 @@
                             "file_path": "e018/c003/p001.md",
                             "url": "/rachel/the-shallow-end/the-sunday-reset/the-three-day-math-the-evolution-of-the-anchor",
                             "date": "2007-04-01",
-                            "start_time": "10:00"
+                            "start_time": "10:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b018/blue_leather_anchor_criollo.jpg",
+                            "image_alt": "Rachel lying stomach-to-stomach on top of Michael on the blue leather sofa as a grounding anchor",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/blue_leather_anchor_criollo.jpg",
+                                    "alt": "Rachel lying stomach-to-stomach on top of Michael on the blue leather sofa as a grounding anchor"
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -2210,7 +2228,7 @@
                     "chap_num": 4,
                     "chap_title": "The Open-Door Sanctuary",
                     "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/the-open-door-sanctuary",
-                    "illustration_count": 1,
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2218,7 +2236,16 @@
                             "file_path": "e018/c004/p001.md",
                             "url": "/rachel/the-shallow-end/the-open-door-sanctuary/part-1-the-keys-to-3701-the-dollar-lease",
                             "date": "2007-04-02",
-                            "start_time": "14:00"
+                            "start_time": "14:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b018/command_center_3701_canadian_arch.jpg",
+                            "image_alt": "Michael and Rachel sitting shoulder-to-shoulder at their desks in the upstairs Command Center of 3701 Canadian Arch",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/command_center_3701_canadian_arch.jpg",
+                                    "alt": "Michael and Rachel sitting shoulder-to-shoulder at their desks in the upstairs Command Center of 3701 Canadian Arch"
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -2396,13 +2423,13 @@
             "era_num": 19,
             "era_title": "The Eastern Anchor",
             "era_url": "/raggiesoft-books/books/rachel/the-eastern-anchor",
-            "illustration_count": 0,
+            "illustration_count": 3,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Passcode & The Blackwater Extraction",
                     "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2418,7 +2445,16 @@
                             "file_path": "e019/c001/p002.md",
                             "url": "/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction/part-2-the-evasive-route-the-1802-perimeter",
                             "date": "2009-05-11",
-                            "start_time": "15:15"
+                            "start_time": "15:15",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b019/blackwater_reunion_pack_hug.jpg",
+                            "image_alt": "Michael and Rachel wrapping Ashley Raybourn in a fierce, grounding three-way pack hug inside the foyer after the Blackwater Extraction",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b019/blackwater_reunion_pack_hug.jpg",
+                                    "alt": "Michael and Rachel wrapping Ashley Raybourn in a fierce, grounding three-way pack hug inside the foyer after the Blackwater Extraction"
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 3,
@@ -2434,7 +2470,7 @@
                     "chap_num": 2,
                     "chap_title": "The Fortress",
                     "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-fortress",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2442,7 +2478,16 @@
                             "file_path": "e019/c002/p001.md",
                             "url": "/rachel/the-eastern-anchor/the-fortress/part-1-the-lifelong-partner-shedding-the-name",
                             "date": "2009-05-12",
-                            "start_time": "07:00"
+                            "start_time": "07:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg",
+                            "image_alt": "Rachel lying stomach-to-stomach on top of Michael as a grounding anchor while Ashley rests beside them at 1802 Rich Court",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg",
+                                    "alt": "Rachel lying stomach-to-stomach on top of Michael as a grounding anchor while Ashley rests beside them at 1802 Rich Court"
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -2458,7 +2503,7 @@
                     "chap_num": 3,
                     "chap_title": "The Deployment",
                     "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-deployment",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2466,7 +2511,16 @@
                             "file_path": "e019/c003/p001.md",
                             "url": "/rachel/the-eastern-anchor/the-deployment/the-west-coast-wake-up",
                             "date": "2009-05-13",
-                            "start_time": "06:30"
+                            "start_time": "06:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b019/norfolk_airport_pack_convergence.jpg",
+                            "image_alt": "Michael, Rachel, and Ashley welcoming Jessica and Kristin at Norfolk International Airport baggage claim",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b019/norfolk_airport_pack_convergence.jpg",
+                                    "alt": "Michael, Rachel, and Ashley welcoming Jessica and Kristin at Norfolk International Airport baggage claim"
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
@@ -2476,7 +2530,7 @@
             "era_num": 20,
             "era_title": "The Director's Perimeter",
             "era_url": "/raggiesoft-books/books/rachel/the-director-s-perimeter",
-            "illustration_count": 0,
+            "illustration_count": 2,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2498,7 +2552,7 @@
                     "chap_num": 2,
                     "chap_title": "The Moosewood Anomaly",
                     "chap_url": "/raggiesoft-books/books/rachel/the-director-s-perimeter/the-moosewood-anomaly",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2506,7 +2560,16 @@
                             "file_path": "e020/c002/p001.md",
                             "url": "/rachel/the-director-s-perimeter/the-moosewood-anomaly/the-twenty-third-milestone-the-evasive-route",
                             "date": "2009-05-25",
-                            "start_time": "18:30"
+                            "start_time": "18:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b020/kemp_woods_bench_press_hug.jpg",
+                            "image_alt": "Michael, Rachel, Kristin, Ashley, and Jessica sharing the Human Bench Press pack hug in the sunshine",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b020/kemp_woods_bench_press_hug.jpg",
+                                    "alt": "Michael, Rachel, Kristin, Ashley, and Jessica sharing the Human Bench Press pack hug in the sunshine"
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -2530,7 +2593,7 @@
                     "chap_num": 4,
                     "chap_title": "Ground Zero",
                     "chap_url": "/raggiesoft-books/books/rachel/the-director-s-perimeter/ground-zero",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2546,7 +2609,16 @@
                             "file_path": "e020/c004/p002.md",
                             "url": "/rachel/the-director-s-perimeter/ground-zero/part-2-the-june-upgrade",
                             "date": "2009-06-15",
-                            "start_time": "20:30"
+                            "start_time": "20:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b020/june_upgrade_official_pack_3701.jpg",
+                            "image_alt": "Michael, Kristin, Rachel, Ashley, and Jessica together in the living room of 3701 Canadian Arch after the June Upgrade",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b020/june_upgrade_official_pack_3701.jpg",
+                                    "alt": "Michael, Kristin, Rachel, Ashley, and Jessica together in the living room of 3701 Canadian Arch after the June Upgrade"
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
@@ -2556,13 +2628,13 @@
             "era_num": 21,
             "era_title": "The Mountain Conference (SAACURC 2016)",
             "era_url": "/raggiesoft-books/books/rachel/the-mountain-conference-saacurc-2016",
-            "illustration_count": 0,
+            "illustration_count": 1,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Bear, The Bug, and The Forger",
                     "chap_url": "/raggiesoft-books/books/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2571,7 +2643,16 @@
                             "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-the-commonwealth-mall-curb-the-ada-suite-at-the-hotel-at-poly",
                             "date": "2016-02-12",
                             "start_time": "16:00",
-                            "location": "The Hotel at Poly & Commonwealth Mall, Commonwealth Polytechnic Institute, Blacksburg, VA"
+                            "location": "The Hotel at Poly & Commonwealth Mall, Commonwealth Polytechnic Institute, Blacksburg, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg",
+                            "image_alt": "Michael and Rachel standing arm-in-arm in front of the Ironstone buildings on the CPI campus in Blacksburg during SAACURC 2016",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg",
+                                    "alt": "Michael and Rachel standing arm-in-arm in front of the Ironstone buildings on the CPI campus in Blacksburg during SAACURC 2016"
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
