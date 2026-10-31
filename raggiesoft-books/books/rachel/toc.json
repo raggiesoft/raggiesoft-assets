@@ -7,16 +7,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "17.7 MB",
-        "pdf": "19.7 MB",
-        "text_epub": "1010 KB",
+        "epub": "19.1 MB",
+        "pdf": "21.4 MB",
+        "text_epub": "1013 KB",
         "text_pdf": "2.8 MB",
-        "epub_bytes": 18555368,
-        "pdf_bytes": 20682457,
-        "text_epub_bytes": 1034168,
-        "text_pdf_bytes": 2917874
+        "epub_bytes": 20046121,
+        "pdf_bytes": 22414678,
+        "text_epub_bytes": 1037461,
+        "text_pdf_bytes": 2929107
     },
-    "illustration_count": 24,
+    "illustration_count": 26,
     "eras": [
         {
             "era_num": 1,
@@ -2122,7 +2122,7 @@
             "era_num": 18,
             "era_title": "The Shallow End",
             "era_url": "/raggiesoft-books/books/rachel/the-shallow-end",
-            "illustration_count": 8,
+            "illustration_count": 10,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2243,30 +2243,51 @@
                     "chap_num": 5,
                     "chap_title": "The Route 25 Loop & The Shallow End",
                     "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/the-route-25-loop-the-shallow-end",
-                    "illustration_count": 2,
+                    "illustration_count": 4,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: First Contact & The Engineered Route 25 Commute",
+                            "part_title": "Part 1: Ms. Doris, The Stalwart Advantage, & The Penny's Run",
                             "file_path": "e018/c005/p001.md",
-                            "url": "/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-1-first-contact-the-engineered-route-25-commute",
-                            "date": "2007-08-24",
-                            "start_time": "07:35",
-                            "image": "/raggiesoft-books/images/scenes/rachel/b018/cchr_route_25_bus_commute.jpg",
-                            "image_alt": "Michael and Heather Bouchard riding CVTA Route 25 together to CCHR",
+                            "url": "/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-1-ms-doris-the-stalwart-advantage-the-penny-s-run",
+                            "date": "2007-08-23",
+                            "start_time": "11:55",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b018/cchr_route_25_ms_doris_pennys_run.jpg",
+                            "image_alt": "Michael and Rachel cuddled up and chatting with Ms. Doris aboard CVTA Route 25 as Heather looks across the aisle",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/cchr_route_25_bus_commute.jpg",
-                                    "alt": "Michael and Heather Bouchard riding CVTA Route 25 together to CCHR"
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/cchr_route_25_ms_doris_pennys_run.jpg",
+                                    "alt": "Michael and Rachel cuddled up and chatting with Ms. Doris aboard CVTA Route 25 as Heather looks across the aisle"
                                 }
                             ],
                             "image_count": 1
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: \\",
+                            "part_title": "Part 2: First Contact, The First Embrace, & The Route 25 Equation",
                             "file_path": "e018/c005/p002.md",
-                            "url": "/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-2",
+                            "url": "/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-2-first-contact-the-first-embrace-the-route-25-equation",
+                            "date": "2007-08-24",
+                            "start_time": "11:45",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b018/cchr_first_day_cafeteria_hug.jpg",
+                            "image_alt": "Michael pulls Heather Bouchard into a tight, hopeful first embrace in the CCHR cafeteria",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/cchr_first_day_cafeteria_hug.jpg",
+                                    "alt": "Michael pulls Heather Bouchard into a tight, hopeful first embrace in the CCHR cafeteria"
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/cchr_route_25_bus_commute.jpg",
+                                    "alt": "Michael and Heather Bouchard riding the 30-foot Stalwart Advantage on CVTA Route 25 together to CCHR"
+                                }
+                            ],
+                            "image_count": 2
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: \\",
+                            "file_path": "e018/c005/p003.md",
+                            "url": "/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-3",
                             "date": "2007-10-18",
                             "start_time": "12:15",
                             "image": "/raggiesoft-books/images/scenes/rachel/b018/cchr_rachel_meets_heather_lounge.jpg",
