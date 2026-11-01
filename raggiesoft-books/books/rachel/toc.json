@@ -8,16 +8,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "51.6 MB",
-        "pdf": "57.3 MB",
+        "epub": "49.1 MB",
+        "pdf": "52.6 MB",
         "text_epub": "1019 KB",
         "text_pdf": "2.8 MB",
-        "epub_bytes": 54078319,
-        "pdf_bytes": 60102555,
-        "text_epub_bytes": 1042975,
-        "text_pdf_bytes": 2944867
+        "epub_bytes": 51522931,
+        "pdf_bytes": 55130313,
+        "text_epub_bytes": 1043342,
+        "text_pdf_bytes": 2945430
     },
-    "illustration_count": 84,
+    "illustration_count": 85,
     "eras": [
         {
             "era_num": 1,
@@ -807,7 +807,7 @@
             "era_num": 5,
             "era_title": "High School",
             "era_url": "/raggiesoft-books/books/rachel/high-school",
-            "illustration_count": 3,
+            "illustration_count": 4,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -870,7 +870,7 @@
                     "chap_num": 4,
                     "chap_title": "Christmas Eve",
                     "chap_url": "/raggiesoft-books/books/rachel/high-school/christmas-eve",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -878,7 +878,16 @@
                             "file_path": "e005/c004/p001.md",
                             "url": "/rachel/high-school/christmas-eve/part-1-the-accessibility-calculation-the-honorary-lifters",
                             "date": "1999-12-24",
-                            "start_time": "08:30"
+                            "start_time": "08:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b005/december_1999_jessica_sofa_bed_base_camp.jpg",
+                            "image_alt": "Nineteen-year-old Jessica with bilateral lower-leg orthopedic casts resting on the deployed floral-print pull-out sofa bed alongside fourteen-year-old Michael and twelve-year-old Rachel in the 1852 Delaney Street living room, with her manual wheelchair parked beside the bed and purebred black Labs Baby and Archie on the dark blue carpet.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b005/december_1999_jessica_sofa_bed_base_camp.jpg",
+                                    "alt": "Nineteen-year-old Jessica with bilateral lower-leg orthopedic casts resting on the deployed floral-print pull-out sofa bed alongside fourteen-year-old Michael and twelve-year-old Rachel in the 1852 Delaney Street living room, with her manual wheelchair parked beside the bed and purebred black Labs Baby and Archie on the dark blue carpet."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
