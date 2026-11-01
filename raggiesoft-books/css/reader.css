@@ -33,8 +33,43 @@
 
 
 /* Reader Page (oliver.php) */
-/* Constrain story content width for optimal reading line length */
-.reader-page { max-width: 800px; margin: 0 auto; padding: 1rem; }
+/* Constrain story content width for optimal reading line length and offset top/horizontal edges by OS safe-area insets (iOS Dynamic Island, notch, and landscape sensor housing) */
+.reader-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding-top: max(1rem, calc(env(safe-area-inset-top, 0px) + 0.75rem));
+    padding-right: max(1rem, env(safe-area-inset-right, 0px));
+    padding-bottom: 1rem;
+    padding-left: max(1rem, env(safe-area-inset-left, 0px));
+}
+
+/* Standalone PWA & iOS Dynamic Island Clearance:
+ * When running as an installed PWA (`display-mode: standalone` / `html.is-pwa-standalone`),
+ * the cross-site `.rs-network-bar` is hidden so `.reader-page` starts at the physical top
+ * edge of the screen (`y = 0`). On iPhones with Dynamic Island (`59px` safe area) or
+ * previously installed iOS Home Screen WebClips (where cached status-bar metadata may report
+ * `env(safe-area-inset-top)` as `0px` despite rendering behind the Dynamic Island),
+ * enforce a minimum `3.75rem` (`60px`) top offset on `html[data-os="ios"]` so the
+ * breadcrumb bar (`.reader-nav`) and `#stardust-sidebar-toggle` ("Menu" button) are
+ * never occluded by the Dynamic Island or status bar.
+ */
+@media (display-mode: standalone),
+       (display-mode: window-controls-overlay),
+       (display-mode: minimal-ui),
+       (display-mode: fullscreen) {
+    .reader-page {
+        padding-top: max(1.5rem, calc(env(safe-area-inset-top, 0px) + 1rem)) !important;
+    }
+    html[data-os="ios"] .reader-page {
+        padding-top: max(3.75rem, calc(env(safe-area-inset-top, 0px) + 0.85rem)) !important;
+    }
+}
+html.is-pwa-standalone .reader-page {
+    padding-top: max(1.5rem, calc(env(safe-area-inset-top, 0px) + 1rem)) !important;
+}
+html[data-os="ios"].is-pwa-standalone .reader-page {
+    padding-top: max(3.75rem, calc(env(safe-area-inset-top, 0px) + 0.85rem)) !important;
+}
 .story-content {
     font-family: var(--rs-font-family, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif);
     font-size: var(--rs-font-size, 1.15rem);
@@ -104,10 +139,34 @@
 /* Transition handles the slide animation on mobile */
 .reader-sidebar { padding: 1.5rem; overflow-y: auto; background: var(--rs-bg-alt, #fafafa); transition: transform 0.3s ease; }
 
-/* Mobile: Off-canvas sidebar hidden by default */
+/* Mobile: Off-canvas sidebar hidden by default; uses `#stardust-sidebar.reader-sidebar` + `!important` to override `stardust-engine.min.css` (`#stardust-sidebar { padding: 20px; }`) and clear the iOS Dynamic Island at the top and `.ios-tab-bar` at the bottom */
 @media (max-width: 991px) {
-    .reader-sidebar { position: fixed !important; top: 0; left: 0; width: min(320px, 86vw); height: 100vh; height: 100dvh; padding-bottom: calc(5.5rem + env(safe-area-inset-bottom, 0px)); z-index: 1000; transform: translateX(-100%); box-shadow: 5px 0 15px rgba(0,0,0,0.1); -webkit-overflow-scrolling: touch; overscroll-behavior: contain; }
-    .reader-sidebar.open { transform: translateX(0); }
+    #stardust-sidebar.reader-sidebar,
+    .reader-sidebar {
+        position: fixed !important;
+        top: 0;
+        left: 0;
+        width: min(320px, 86vw) !important;
+        height: 100vh;
+        height: 100dvh;
+        padding-top: max(1.5rem, calc(env(safe-area-inset-top, 0px) + 1rem)) !important;
+        padding-right: 1.25rem !important;
+        padding-bottom: calc(5.5rem + env(safe-area-inset-bottom, 0px)) !important;
+        padding-left: max(1.25rem, env(safe-area-inset-left, 0px)) !important;
+        z-index: 1000;
+        transform: translateX(-100%);
+        box-shadow: 5px 0 15px rgba(0,0,0,0.1);
+        -webkit-overflow-scrolling: touch;
+        overscroll-behavior: contain;
+    }
+    html[data-os="ios"].is-pwa-standalone #stardust-sidebar.reader-sidebar,
+    html[data-os="ios"].is-pwa-standalone .reader-sidebar {
+        padding-top: max(3.75rem, calc(env(safe-area-inset-top, 0px) + 1rem)) !important;
+    }
+    #stardust-sidebar.reader-sidebar.open,
+    .reader-sidebar.open {
+        transform: translateX(0);
+    }
 }
 
 /* Desktop: Static, permanent sidebar pushing content */
