@@ -8,16 +8,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "51.7 MB",
-        "pdf": "57.6 MB",
+        "epub": "51.8 MB",
+        "pdf": "57.8 MB",
         "text_epub": "1017 KB",
         "text_pdf": "2.8 MB",
-        "epub_bytes": 54237984,
-        "pdf_bytes": 60393639,
-        "text_epub_bytes": 1041059,
+        "epub_bytes": 54304035,
+        "pdf_bytes": 60619357,
+        "text_epub_bytes": 1041060,
         "text_pdf_bytes": 2940137
     },
-    "illustration_count": 82,
+    "illustration_count": 83,
     "eras": [
         {
             "era_num": 1,
@@ -527,11 +527,11 @@
                             "date": "1995-08-27",
                             "start_time": "14:30",
                             "image": "/raggiesoft-books/images/scenes/rachel/b003/canine_guard_sanctuary_1995.jpg",
-                            "image_alt": "Michael and Rachel resting on the living room pull-out sofa bed holding hands over the pillows while the family dogs Baby and Archie lie on guard beside the floor mattress and Uncle Jim reads in the armchair.",
+                            "image_alt": "Michael and Rachel resting on the living room pull-out sofa bed holding hands over the pillows while their purebred black Labs\u2014massive Great Dane-sized Baby and average-sized Archie\u2014lie on guard beside Jessica's floor mattress and Uncle Jim reads in the armchair.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b003/canine_guard_sanctuary_1995.jpg",
-                                    "alt": "Michael and Rachel resting on the living room pull-out sofa bed holding hands over the pillows while the family dogs Baby and Archie lie on guard beside the floor mattress and Uncle Jim reads in the armchair."
+                                    "alt": "Michael and Rachel resting on the living room pull-out sofa bed holding hands over the pillows while their purebred black Labs\u2014massive Great Dane-sized Baby and average-sized Archie\u2014lie on guard beside Jessica's floor mattress and Uncle Jim reads in the armchair."
                                 }
                             ],
                             "image_count": 1
@@ -675,7 +675,7 @@
             "era_num": 4,
             "era_title": "Middle School",
             "era_url": "/raggiesoft-books/books/rachel/middle-school",
-            "illustration_count": 3,
+            "illustration_count": 4,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -691,11 +691,11 @@
                             "date": "1999-05-14",
                             "start_time": "15:40",
                             "image": "/raggiesoft-books/images/scenes/rachel/b004/morrison_band_room_perimeter_1999.jpg",
-                            "image_alt": "Fourteen-year-old Michael with his bass drum mallets, fourteen-year-old Ashley Raybourn with her snare drumsticks, and twelve-year-old Rachel with her percussion mallets standing in a tight three-person perimeter in the Morrison Middle School band room.",
+                            "image_alt": "Eighth-grade percussionists Michael with his concert bass drum mallets, Ashley Raybourn with her snare drumsticks, and Bonnie Reed with her percussion mallets standing together in the Morrison Middle School eighth-grade band room.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b004/morrison_band_room_perimeter_1999.jpg",
-                                    "alt": "Fourteen-year-old Michael with his bass drum mallets, fourteen-year-old Ashley Raybourn with her snare drumsticks, and twelve-year-old Rachel with her percussion mallets standing in a tight three-person perimeter in the Morrison Middle School band room."
+                                    "alt": "Eighth-grade percussionists Michael with his concert bass drum mallets, Ashley Raybourn with her snare drumsticks, and Bonnie Reed with her percussion mallets standing together in the Morrison Middle School eighth-grade band room."
                                 }
                             ],
                             "image_count": 1
@@ -706,7 +706,7 @@
                     "chap_num": 2,
                     "chap_title": "The Old World \u2013 Saturday, May 15, 1999",
                     "chap_url": "/raggiesoft-books/books/rachel/middle-school/the-old-world-saturday-may-15-1999",
-                    "illustration_count": 2,
+                    "illustration_count": 3,
                     "parts": [
                         {
                             "part_num": 1,
@@ -739,7 +739,16 @@
                             "file_path": "e004/c002/p003.md",
                             "url": "/rachel/middle-school/the-old-world-saturday-may-15-1999/part-3-josephine-s-and-the-ghost-the-translation-in-the-grand-hall",
                             "date": "1999-05-15",
-                            "start_time": "12:30"
+                            "start_time": "12:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b004/josephines_ice_cream_booth_1999.jpg",
+                            "image_alt": "Inside a corner booth at Josephine's ice cream parlor at Brewster Gardens with waffle-cone bowls on the table, fourteen-year-old Ashley Raybourn explains the 1995 history across the table while fourteen-year-old Bonnie Reed sits beside Michael and presses her hand firmly onto his knee in grounding solidarity.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b004/josephines_ice_cream_booth_1999.jpg",
+                                    "alt": "Inside a corner booth at Josephine's ice cream parlor at Brewster Gardens with waffle-cone bowls on the table, fourteen-year-old Ashley Raybourn explains the 1995 history across the table while fourteen-year-old Bonnie Reed sits beside Michael and presses her hand firmly onto his knee in grounding solidarity."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 4,
@@ -846,11 +855,11 @@
                             "date": "1999-11-27",
                             "start_time": "08:00",
                             "image": "/raggiesoft-books/images/scenes/rachel/b005/november_1999_pack_bed_vigil.jpg",
-                            "image_alt": "Fourteen-year-old Michael and twelve-year-old Rachel sitting under a patchwork quilt in pajamas holding hands as their dogs Baby and Archie rest across their shins and their father Tom checks in from the bedroom doorway.",
+                            "image_alt": "Fourteen-year-old Michael and twelve-year-old Rachel sitting under a patchwork quilt in pajamas holding hands as their purebred black Labs\u2014massive Great Dane-sized Baby and average-sized Archie\u2014rest on the bed and their father Tom checks in from the bedroom doorway.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b005/november_1999_pack_bed_vigil.jpg",
-                                    "alt": "Fourteen-year-old Michael and twelve-year-old Rachel sitting under a patchwork quilt in pajamas holding hands as their dogs Baby and Archie rest across their shins and their father Tom checks in from the bedroom doorway."
+                                    "alt": "Fourteen-year-old Michael and twelve-year-old Rachel sitting under a patchwork quilt in pajamas holding hands as their purebred black Labs\u2014massive Great Dane-sized Baby and average-sized Archie\u2014rest on the bed and their father Tom checks in from the bedroom doorway."
                                 }
                             ],
                             "image_count": 1
@@ -927,11 +936,11 @@
                             "date": "1999-12-25",
                             "start_time": "22:30",
                             "image": "/raggiesoft-books/images/scenes/rachel/b005/christmas_1999_living_room_fortress.jpg",
-                            "image_alt": "Christmas night 1999 in the Delaney Street living room as Jessica in her manual wheelchair holds Michael's hand beside the illuminated Christmas tree while Rachel and Ashley sit on the pull-out sofa bed with Archie and Baby resting on the carpet.",
+                            "image_alt": "Christmas night 1999 in the Delaney Street living room as Jessica in her manual wheelchair holds Michael's hand beside the illuminated Christmas tree while Rachel and Ashley sit on the pull-out sofa bed with their purebred black Labs Baby and Archie resting on the carpet.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b005/christmas_1999_living_room_fortress.jpg",
-                                    "alt": "Christmas night 1999 in the Delaney Street living room as Jessica in her manual wheelchair holds Michael's hand beside the illuminated Christmas tree while Rachel and Ashley sit on the pull-out sofa bed with Archie and Baby resting on the carpet."
+                                    "alt": "Christmas night 1999 in the Delaney Street living room as Jessica in her manual wheelchair holds Michael's hand beside the illuminated Christmas tree while Rachel and Ashley sit on the pull-out sofa bed with their purebred black Labs Baby and Archie resting on the carpet."
                                 }
                             ],
                             "image_count": 1
@@ -1245,11 +1254,11 @@
                             "date": "2001-08-18",
                             "start_time": "08:30",
                             "image": "/raggiesoft-books/images/scenes/rachel/b009/delaney_sofa_bed_vacation_2001.jpg",
-                            "image_alt": "Sixteen-year-old Michael and fourteen-year-old Rachel sitting side-by-side under a patchwork quilt on the pull-out sofa bed at 1852 Delaney Street during their two-week vacation from parents, flanked by their loyal dogs Archie and Baby.",
+                            "image_alt": "Sixteen-year-old Michael and fourteen-year-old Rachel sitting side-by-side under a patchwork quilt on the pull-out sofa bed at 1852 Delaney Street during their two-week vacation from parents, flanked by their purebred black Labs Baby and Archie.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b009/delaney_sofa_bed_vacation_2001.jpg",
-                                    "alt": "Sixteen-year-old Michael and fourteen-year-old Rachel sitting side-by-side under a patchwork quilt on the pull-out sofa bed at 1852 Delaney Street during their two-week vacation from parents, flanked by their loyal dogs Archie and Baby."
+                                    "alt": "Sixteen-year-old Michael and fourteen-year-old Rachel sitting side-by-side under a patchwork quilt on the pull-out sofa bed at 1852 Delaney Street during their two-week vacation from parents, flanked by their purebred black Labs Baby and Archie."
                                 }
                             ],
                             "image_count": 1
