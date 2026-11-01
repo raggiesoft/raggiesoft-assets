@@ -1,5 +1,5 @@
 **LORE NOTE:**
-The second movement of **The Apoapsis Suite**. Drawing heavy structural inspiration from the sprawling, multi-part instrumental epics found on **Origin's** self-titled 1983 album, *Second Apoapsis* is an unbroken continuation of the first track. While the first half established the ambient atmosphere of zero gravity, this second half introduces the cinematic tension of deep-space exploration, building the tempo and layering the instrumentation before seamlessly dissolving into the suite's vocal finale.
+The second movement of **The Apoapsis Suite**. Drawing heavy structural inspiration from the sprawling, multi-part instrumental epics found on **Fractured Prisms'** 1983 album *Carnaby Street*, *Second Apoapsis* is an unbroken continuation of the first track. While the first half established the ambient atmosphere of zero gravity, this second half introduces the cinematic tension of deep-space exploration, building the tempo and layering the instrumentation before seamlessly dissolving into the suite's vocal finale.
 
 **LYRICS:**
 

@@ -39,7 +39,7 @@ heavy metal distortion, aggressive vocals, fast drums, studio flat mix, hip hop,
 
 ## IV. Lore & Stage Context
 
-The second movement of **The Apoapsis Suite** from Disc 2 of 1997's *Hard Reset*. Drawing structural inspiration from the sprawling, multi-part instrumental epics on **Origin**'s self-titled 1983 album, **"Second Apoapsis"** flows gaplessly out of *"Apoapsis"*, introducing cinematic tension and intricate interlocking synthesizer arpeggios between Cassidy O'Connell and touring keyboardist Claire Lindqvist before dissolving directly into the vocal finale of the suite, *"The Spectrum (True Color)"*.
+The second movement of **The Apoapsis Suite** from Disc 2 of 1997's *Hard Reset*. Drawing structural inspiration from the sprawling, multi-part instrumental epics on **Fractured Prisms'** 1983 album *Carnaby Street*, **"Second Apoapsis"** flows gaplessly out of *"Apoapsis"*, introducing cinematic tension and intricate interlocking synthesizer arpeggios between Cassidy O'Connell and touring keyboardist Claire Lindqvist before dissolving directly into the vocal finale of the suite, *"The Spectrum (True Color)"*.
 
 ---
 

@@ -8,28 +8,28 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "27.1 MB",
-        "pdf": "29.8 MB",
-        "text_epub": "1015 KB",
+        "epub": "51.7 MB",
+        "pdf": "57.6 MB",
+        "text_epub": "1017 KB",
         "text_pdf": "2.8 MB",
-        "epub_bytes": 28366871,
-        "pdf_bytes": 31220831,
-        "text_epub_bytes": 1039327,
-        "text_pdf_bytes": 2934424
+        "epub_bytes": 54237984,
+        "pdf_bytes": 60393639,
+        "text_epub_bytes": 1041059,
+        "text_pdf_bytes": 2940137
     },
-    "illustration_count": 46,
+    "illustration_count": 82,
     "eras": [
         {
             "era_num": 1,
             "era_title": "The Delaney Street Years",
             "era_url": "/raggiesoft-books/books/rachel/the-delaney-street-years",
-            "illustration_count": 0,
+            "illustration_count": 4,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Sabertooth Kitty",
                     "chap_url": "/raggiesoft-books/books/rachel/the-delaney-street-years/the-sabertooth-kitty",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -37,7 +37,16 @@
                             "file_path": "e001/c001/p001.md",
                             "url": "/rachel/the-delaney-street-years/the-sabertooth-kitty/the-sensory-avalanche",
                             "date": "1990-12-01",
-                            "start_time": "09:00"
+                            "start_time": "09:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b001/stone_age_sports_1990.jpg",
+                            "image_alt": "Six-year-old Michael playing Stone Age Sports on the living room CRT television with four-year-old Rachel anchored beside him and cousin Maria cheering over his shoulder in December 1990.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b001/stone_age_sports_1990.jpg",
+                                    "alt": "Six-year-old Michael playing Stone Age Sports on the living room CRT television with four-year-old Rachel anchored beside him and cousin Maria cheering over his shoulder in December 1990."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -45,7 +54,7 @@
                     "chap_num": 2,
                     "chap_title": "The Lower Bunk",
                     "chap_url": "/raggiesoft-books/books/rachel/the-delaney-street-years/the-lower-bunk",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -53,7 +62,16 @@
                             "file_path": "e001/c002/p001.md",
                             "url": "/rachel/the-delaney-street-years/the-lower-bunk/sanctuary-the-new-arrangement",
                             "date": "1993-12-22",
-                            "start_time": "21:30"
+                            "start_time": "21:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b001/bottom_bunk_sanctuary_1993.jpg",
+                            "image_alt": "Eight-year-old Michael and six-year-old Rachel hugging under the heavy quilt in the bottom bunk while thirteen-year-old Jessica smiles down from the top bunk in December 1993.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b001/bottom_bunk_sanctuary_1993.jpg",
+                                    "alt": "Eight-year-old Michael and six-year-old Rachel hugging under the heavy quilt in the bottom bunk while thirteen-year-old Jessica smiles down from the top bunk in December 1993."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -61,7 +79,7 @@
                     "chap_num": 3,
                     "chap_title": "The Morning After",
                     "chap_url": "/raggiesoft-books/books/rachel/the-delaney-street-years/the-morning-after",
-                    "illustration_count": 0,
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
@@ -69,7 +87,16 @@
                             "file_path": "e001/c003/p001.md",
                             "url": "/rachel/the-delaney-street-years/the-morning-after/part-1-the-discovery-the-neon-quarter",
                             "date": "1993-12-23",
-                            "start_time": "07:00"
+                            "start_time": "07:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b001/neon_quarter_arcade_1993.jpg",
+                            "image_alt": "Eight-year-old Michael and six-year-old Rachel playing side-by-side at an arcade cabinet inside The Neon Quarter while thirteen-year-old Jessica stands protective watch behind them.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b001/neon_quarter_arcade_1993.jpg",
+                                    "alt": "Eight-year-old Michael and six-year-old Rachel playing side-by-side at an arcade cabinet inside The Neon Quarter while thirteen-year-old Jessica stands protective watch behind them."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -77,7 +104,16 @@
                             "file_path": "e001/c003/p002.md",
                             "url": "/rachel/the-delaney-street-years/the-morning-after/part-2-not-proper-the-father-s-perspective",
                             "date": "1993-12-23",
-                            "start_time": "14:30"
+                            "start_time": "14:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b001/izumi_bantam_cab_1993.jpg",
+                            "image_alt": "Tom Ragsdale driving his compact red pickup truck while eight-year-old Michael holds six-year-old Rachel on his lap singing along to the radio and thirteen-year-old Jessica smiles from the passenger seat.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b001/izumi_bantam_cab_1993.jpg",
+                                    "alt": "Tom Ragsdale driving his compact red pickup truck while eight-year-old Michael holds six-year-old Rachel on his lap singing along to the radio and thirteen-year-old Jessica smiles from the passenger seat."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
@@ -87,13 +123,13 @@
             "era_num": 2,
             "era_title": "The Saltwater Summer",
             "era_url": "/raggiesoft-books/books/rachel/the-saltwater-summer",
-            "illustration_count": 0,
+            "illustration_count": 7,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Sanctuary \u2013 Friday, August 11th, 1995",
                     "chap_url": "/raggiesoft-books/books/rachel/the-saltwater-summer/the-sanctuary-friday-august-11th-1995",
-                    "illustration_count": 0,
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
@@ -101,7 +137,16 @@
                             "file_path": "e002/c001/p001.md",
                             "url": "/rachel/the-saltwater-summer/the-sanctuary-friday-august-11th-1995/part-1-the-safe-harbor-the-pal-and-the-perimeter",
                             "date": "1995-08-11",
-                            "start_time": "16:55"
+                            "start_time": "16:55",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b002/aprils_garage_open_gym_1995.jpg",
+                            "image_alt": "Master April Mercer kneeling on colorful foam puzzle mats in her Lynnhaven garage dojang to guide ten-year-old Michael and eight-year-old Rachel as they hold hands, with ten-year-old Ashley Raybourn watching warmly.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b002/aprils_garage_open_gym_1995.jpg",
+                                    "alt": "Master April Mercer kneeling on colorful foam puzzle mats in her Lynnhaven garage dojang to guide ten-year-old Michael and eight-year-old Rachel as they hold hands, with ten-year-old Ashley Raybourn watching warmly."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -109,7 +154,16 @@
                             "file_path": "e002/c001/p002.md",
                             "url": "/rachel/the-saltwater-summer/the-sanctuary-friday-august-11th-1995/part-2-the-perimeter-secured-the-core-pack",
                             "date": "1995-08-11",
-                            "start_time": "18:25"
+                            "start_time": "18:25",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b002/ashley_pickup_hug_1995.jpg",
+                            "image_alt": "Ten-year-old Ashley Raybourn wrapping Michael and Rachel in a fierce three-way hug on the Delaney Street front lawn at golden hour while Tom Ragsdale, Jim Raybourn, and Melissa smile in the driveway.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b002/ashley_pickup_hug_1995.jpg",
+                                    "alt": "Ten-year-old Ashley Raybourn wrapping Michael and Rachel in a fierce three-way hug on the Delaney Street front lawn at golden hour while Tom Ragsdale, Jim Raybourn, and Melissa smile in the driveway."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -117,7 +171,7 @@
                     "chap_num": 2,
                     "chap_title": "The Catalyst \u2013 Saturday, August 12th, 1995",
                     "chap_url": "/raggiesoft-books/books/rachel/the-saltwater-summer/the-catalyst-saturday-august-12th-1995",
-                    "illustration_count": 0,
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
@@ -125,7 +179,20 @@
                             "file_path": "e002/c002/p001.md",
                             "url": "/rachel/the-saltwater-summer/the-catalyst-saturday-august-12th-1995/the-inventory-the-genesis-of-hatred",
                             "date": "1995-08-12",
-                            "start_time": "09:00"
+                            "start_time": "09:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b002/brown_belt_testing_1995.jpg",
+                            "image_alt": "Master Scott and Master April Mercer presenting ten-year-old Michael and eight-year-old Rachel with their Brown Belts while Master Ray Shackford applauds.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b002/brown_belt_testing_1995.jpg",
+                                    "alt": "Master Scott and Master April Mercer presenting ten-year-old Michael and eight-year-old Rachel with their Brown Belts while Master Ray Shackford applauds."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b002/master_april_hugging_michael_and_rachel.jpg",
+                                    "alt": "Master Scott and Master April Mercer presenting ten-year-old Michael and eight-year-old Rachel with their Brown Belts while Master Ray Shackford applauds."
+                                }
+                            ],
+                            "image_count": 2
                         }
                     ]
                 },
@@ -133,7 +200,7 @@
                     "chap_num": 3,
                     "chap_title": "The Enforcer",
                     "chap_url": "/raggiesoft-books/books/rachel/the-saltwater-summer/the-enforcer",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -149,7 +216,16 @@
                             "file_path": "e002/c003/p002.md",
                             "url": "/rachel/the-saltwater-summer/the-enforcer/part-2-breaking-the-silence-the-top-row",
                             "date": "1995-08-15",
-                            "start_time": "16:55"
+                            "start_time": "16:55",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b002/bleachers_top_row_anchor_1995.jpg",
+                            "image_alt": "Ten-year-old Michael and eight-year-old Rachel sitting anchored in the ninety-degree corner of the top row of the wooden observation deck bleachers overlooking the gymnastics floor below as Rachel speaks to Michael.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b002/bleachers_top_row_anchor_1995.jpg",
+                                    "alt": "Ten-year-old Michael and eight-year-old Rachel sitting anchored in the ninety-degree corner of the top row of the wooden observation deck bleachers overlooking the gymnastics floor below as Rachel speaks to Michael."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 3,
@@ -173,7 +249,7 @@
                     "chap_num": 4,
                     "chap_title": "The Latchkey Solstice",
                     "chap_url": "/raggiesoft-books/books/rachel/the-saltwater-summer/the-latchkey-solstice",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -189,7 +265,16 @@
                             "file_path": "e002/c004/p002.md",
                             "url": "/rachel/the-saltwater-summer/the-latchkey-solstice/part-2-shore-power-lights-out",
                             "date": "1995-08-16",
-                            "start_time": "19:00"
+                            "start_time": "19:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b002/bear_and_bug_bunk_fortress_1995.jpg",
+                            "image_alt": "Ten-year-old Michael and eight-year-old Rachel holding hands on the bottom bunk in their pajamas as Bear and Bug while fourteen-year-old Jessica sits cross-legged with a flashlight guarding the closed bedroom door.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b002/bear_and_bug_bunk_fortress_1995.jpg",
+                                    "alt": "Ten-year-old Michael and eight-year-old Rachel holding hands on the bottom bunk in their pajamas as Bear and Bug while fourteen-year-old Jessica sits cross-legged with a flashlight guarding the closed bedroom door."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -237,7 +322,7 @@
                     "chap_num": 6,
                     "chap_title": "The Shattered Illusion",
                     "chap_url": "/raggiesoft-books/books/rachel/the-saltwater-summer/the-shattered-illusion",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -261,7 +346,16 @@
                             "file_path": "e002/c006/p003.md",
                             "url": "/rachel/the-saltwater-summer/the-shattered-illusion/part-3-the-ultimate-bow-the-perimeter",
                             "date": "1995-08-18",
-                            "start_time": "18:45"
+                            "start_time": "18:45",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b002/hospital_sabomnim_bow_1995.jpg",
+                            "image_alt": "Master April Mercer bowing deeply in respect at the foot of Michael and Rachel's adjacent hospital beds as they hold hands across the gap and Tom and Ellen Ragsdale watch with gratitude.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b002/hospital_sabomnim_bow_1995.jpg",
+                                    "alt": "Master April Mercer bowing deeply in respect at the foot of Michael and Rachel's adjacent hospital beds as they hold hands across the gap and Tom and Ellen Ragsdale watch with gratitude."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 4,
@@ -327,13 +421,13 @@
             "era_num": 3,
             "era_title": "Base Camp",
             "era_url": "/raggiesoft-books/books/rachel/base-camp",
-            "illustration_count": 0,
+            "illustration_count": 6,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Monday War \u2013 Monday, August 21st, 1995",
                     "chap_url": "/raggiesoft-books/books/rachel/base-camp/the-monday-war-monday-august-21st-1995",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -341,7 +435,16 @@
                             "file_path": "e003/c001/p001.md",
                             "url": "/rachel/base-camp/the-monday-war-monday-august-21st-1995/part-1-the-weight-of-september-the-gavel",
                             "date": "1995-08-21",
-                            "start_time": "07:00"
+                            "start_time": "07:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b003/chesapeake_courthouse_gavel_1995.jpg",
+                            "image_alt": "Tom Ragsdale, Master April Mercer, and Dr. Allison Evans sitting shoulder-to-shoulder in the front row of the Chesapeake Courthouse gallery while Master Ray Shackford bows his head in remorse from the prosecution witness side.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b003/chesapeake_courthouse_gavel_1995.jpg",
+                                    "alt": "Tom Ragsdale, Master April Mercer, and Dr. Allison Evans sitting shoulder-to-shoulder in the front row of the Chesapeake Courthouse gallery while Master Ray Shackford bows his head in remorse from the prosecution witness side."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -373,7 +476,7 @@
                     "chap_num": 2,
                     "chap_title": "The Marathon \u2013 Tuesday, August 22, 1995",
                     "chap_url": "/raggiesoft-books/books/rachel/base-camp/the-marathon-tuesday-august-22-1995",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -381,7 +484,16 @@
                             "file_path": "e003/c002/p001.md",
                             "url": "/rachel/base-camp/the-marathon-tuesday-august-22-1995/part-1-the-transfer-of-trust-the-first-lift",
                             "date": "1995-08-22",
-                            "start_time": "08:30"
+                            "start_time": "08:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b003/living_room_base_camp_1995.jpg",
+                            "image_alt": "Michael and Rachel propped up on the Delaney Street living room pull-out sofa bed holding hands over a three-pillow divider while Grandma Loretta knits and Jessica and Janette sit on the floor mattresses.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b003/living_room_base_camp_1995.jpg",
+                                    "alt": "Michael and Rachel propped up on the Delaney Street living room pull-out sofa bed holding hands over a three-pillow divider while Grandma Loretta knits and Jessica and Janette sit on the floor mattresses."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -397,7 +509,7 @@
                     "chap_num": 3,
                     "chap_title": "The Birthday \u2013 Sunday, August 27, 1995",
                     "chap_url": "/raggiesoft-books/books/rachel/base-camp/the-birthday-sunday-august-27-1995",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -413,7 +525,16 @@
                             "file_path": "e003/c003/p002.md",
                             "url": "/rachel/base-camp/the-birthday-sunday-august-27-1995/part-2-the-canine-guard-the-flat-relief",
                             "date": "1995-08-27",
-                            "start_time": "14:30"
+                            "start_time": "14:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b003/canine_guard_sanctuary_1995.jpg",
+                            "image_alt": "Michael and Rachel resting on the living room pull-out sofa bed holding hands over the pillows while the family dogs Baby and Archie lie on guard beside the floor mattress and Uncle Jim reads in the armchair.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b003/canine_guard_sanctuary_1995.jpg",
+                                    "alt": "Michael and Rachel resting on the living room pull-out sofa bed holding hands over the pillows while the family dogs Baby and Archie lie on guard beside the floor mattress and Uncle Jim reads in the armchair."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -421,7 +542,7 @@
                     "chap_num": 4,
                     "chap_title": "The Homebound Tutor \u2013 Tuesday, September 5, 1995",
                     "chap_url": "/raggiesoft-books/books/rachel/base-camp/the-homebound-tutor-tuesday-september-5-1995",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -445,7 +566,16 @@
                             "file_path": "e003/c004/p003.md",
                             "url": "/rachel/base-camp/the-homebound-tutor-tuesday-september-5-1995/part-3-the-afternoon-rest-the-way-of-seondu",
                             "date": "1995-09-05",
-                            "start_time": "12:10"
+                            "start_time": "12:10",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b003/way_of_seondu_lesson_1995.jpg",
+                            "image_alt": "Master April Mercer sitting in street clothes at the foot of the living room sofa bed reading from The Way of Seondu to Michael, Rachel, Jessica, and Janette.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b003/way_of_seondu_lesson_1995.jpg",
+                                    "alt": "Master April Mercer sitting in street clothes at the foot of the living room sofa bed reading from The Way of Seondu to Michael, Rachel, Jessica, and Janette."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -469,7 +599,7 @@
                     "chap_num": 6,
                     "chap_title": "The Foreclosure",
                     "chap_url": "/raggiesoft-books/books/rachel/base-camp/the-foreclosure",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -477,7 +607,16 @@
                             "file_path": "e003/c006/p001.md",
                             "url": "/rachel/base-camp/the-foreclosure/the-wednesday-rhythm-closure",
                             "date": "1995-10-04",
-                            "start_time": "16:00"
+                            "start_time": "16:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b003/eviction_polaroid_closure_1995.jpg",
+                            "image_alt": "Tom Ragsdale showing Michael and Rachel a Polaroid photograph of the evicted, empty Tidewater Tumblers storefront while Ellen, Grandma Loretta, Jessica, and Janette celebrate behind him.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b003/eviction_polaroid_closure_1995.jpg",
+                                    "alt": "Tom Ragsdale showing Michael and Rachel a Polaroid photograph of the evicted, empty Tidewater Tumblers storefront while Ellen, Grandma Loretta, Jessica, and Janette celebrate behind him."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -501,7 +640,7 @@
                     "chap_num": 8,
                     "chap_title": "The Consecration \u2013 Friday, October 20th, 1995",
                     "chap_url": "/raggiesoft-books/books/rachel/base-camp/the-consecration-friday-october-20th-1995",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -509,7 +648,16 @@
                             "file_path": "e003/c008/p001.md",
                             "url": "/rachel/base-camp/the-consecration-friday-october-20th-1995/part-1-the-midnight-blue-shield-the-shadow-arts",
                             "date": "1995-10-20",
-                            "start_time": "16:30"
+                            "start_time": "16:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b003/midnight_blue_shield_shadow_arts_1995.jpg",
+                            "image_alt": "Master April Mercer in her new midnight-blue Lynnhaven Academy of Seondu dobok guiding Michael and Rachel through seated upper-body martial arts blocks on the living room sofa bed.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b003/midnight_blue_shield_shadow_arts_1995.jpg",
+                                    "alt": "Master April Mercer in her new midnight-blue Lynnhaven Academy of Seondu dobok guiding Michael and Rachel through seated upper-body martial arts blocks on the living room sofa bed."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -527,13 +675,13 @@
             "era_num": 4,
             "era_title": "Middle School",
             "era_url": "/raggiesoft-books/books/rachel/middle-school",
-            "illustration_count": 0,
+            "illustration_count": 3,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Spring Sound Showcase \u2013 Friday, May 14, 1999",
                     "chap_url": "/raggiesoft-books/books/rachel/middle-school/the-spring-sound-showcase-friday-may-14-1999",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -541,7 +689,16 @@
                             "file_path": "e004/c001/p001.md",
                             "url": "/rachel/middle-school/the-spring-sound-showcase-friday-may-14-1999/the-friday-commute-deploying-base-camp",
                             "date": "1999-05-14",
-                            "start_time": "15:40"
+                            "start_time": "15:40",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b004/morrison_band_room_perimeter_1999.jpg",
+                            "image_alt": "Fourteen-year-old Michael with his bass drum mallets, fourteen-year-old Ashley Raybourn with her snare drumsticks, and twelve-year-old Rachel with her percussion mallets standing in a tight three-person perimeter in the Morrison Middle School band room.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b004/morrison_band_room_perimeter_1999.jpg",
+                                    "alt": "Fourteen-year-old Michael with his bass drum mallets, fourteen-year-old Ashley Raybourn with her snare drumsticks, and twelve-year-old Rachel with her percussion mallets standing in a tight three-person perimeter in the Morrison Middle School band room."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -549,7 +706,7 @@
                     "chap_num": 2,
                     "chap_title": "The Old World \u2013 Saturday, May 15, 1999",
                     "chap_url": "/raggiesoft-books/books/rachel/middle-school/the-old-world-saturday-may-15-1999",
-                    "illustration_count": 0,
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
@@ -565,7 +722,16 @@
                             "file_path": "e004/c002/p002.md",
                             "url": "/rachel/middle-school/the-old-world-saturday-may-15-1999/part-2-the-loch-serpent-heart-attack-hill",
                             "date": "1999-05-15",
-                            "start_time": "09:15"
+                            "start_time": "09:15",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b004/brewster_gardens_loch_serpent_1999.jpg",
+                            "image_alt": "Eighth-graders Michael, Ashley Raybourn, and Bonnie Reed standing together on the stone footbridge at Brewster Gardens with the bright yellow interlocking loops of The Loch Serpent roller coaster rising behind them.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b004/brewster_gardens_loch_serpent_1999.jpg",
+                                    "alt": "Eighth-graders Michael, Ashley Raybourn, and Bonnie Reed standing together on the stone footbridge at Brewster Gardens with the bright yellow interlocking loops of The Loch Serpent roller coaster rising behind them."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 3,
@@ -597,7 +763,16 @@
                             "file_path": "e004/c002/p006.md",
                             "url": "/rachel/middle-school/the-old-world-saturday-may-15-1999/part-6-the-mathematics-of-victory-the-immutable-geometry",
                             "date": "1999-05-15",
-                            "start_time": "20:30"
+                            "start_time": "20:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b004/sovereign_palace_trophy_1999.jpg",
+                            "image_alt": "Eighth-grade percussionists Michael, Ashley Raybourn, and Bonnie Reed in their white Morrison Middle School band polos proudly holding the Outstanding Percussion Section trophy on the Sovereign Palace Theater amphitheater stage.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b004/sovereign_palace_trophy_1999.jpg",
+                                    "alt": "Eighth-grade percussionists Michael, Ashley Raybourn, and Bonnie Reed in their white Morrison Middle School band polos proudly holding the Outstanding Percussion Section trophy on the Sovereign Palace Theater amphitheater stage."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -623,7 +798,7 @@
             "era_num": 5,
             "era_title": "High School",
             "era_url": "/raggiesoft-books/books/rachel/high-school",
-            "illustration_count": 0,
+            "illustration_count": 2,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -661,7 +836,7 @@
                     "chap_num": 3,
                     "chap_title": "The Holding Pattern",
                     "chap_url": "/raggiesoft-books/books/rachel/high-school/the-holding-pattern",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -669,7 +844,16 @@
                             "file_path": "e005/c003/p001.md",
                             "url": "/rachel/high-school/the-holding-pattern/the-daytime-warden-the-logic-blueprint",
                             "date": "1999-11-27",
-                            "start_time": "08:00"
+                            "start_time": "08:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b005/november_1999_pack_bed_vigil.jpg",
+                            "image_alt": "Fourteen-year-old Michael and twelve-year-old Rachel sitting under a patchwork quilt in pajamas holding hands as their dogs Baby and Archie rest across their shins and their father Tom checks in from the bedroom doorway.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b005/november_1999_pack_bed_vigil.jpg",
+                                    "alt": "Fourteen-year-old Michael and twelve-year-old Rachel sitting under a patchwork quilt in pajamas holding hands as their dogs Baby and Archie rest across their shins and their father Tom checks in from the bedroom doorway."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -709,7 +893,7 @@
                     "chap_num": 5,
                     "chap_title": "The Christmas Anomaly",
                     "chap_url": "/raggiesoft-books/books/rachel/high-school/the-christmas-anomaly",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -741,7 +925,16 @@
                             "file_path": "e005/c005/p004.md",
                             "url": "/rachel/high-school/the-christmas-anomaly/part-4-the-night-watch",
                             "date": "1999-12-25",
-                            "start_time": "22:30"
+                            "start_time": "22:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b005/christmas_1999_living_room_fortress.jpg",
+                            "image_alt": "Christmas night 1999 in the Delaney Street living room as Jessica in her manual wheelchair holds Michael's hand beside the illuminated Christmas tree while Rachel and Ashley sit on the pull-out sofa bed with Archie and Baby resting on the carpet.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b005/christmas_1999_living_room_fortress.jpg",
+                                    "alt": "Christmas night 1999 in the Delaney Street living room as Jessica in her manual wheelchair holds Michael's hand beside the illuminated Christmas tree while Rachel and Ashley sit on the pull-out sofa bed with Archie and Baby resting on the carpet."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -767,13 +960,13 @@
             "era_num": 6,
             "era_title": "Atlanta Spring Trip",
             "era_url": "/raggiesoft-books/books/rachel/atlanta-spring-trip",
-            "illustration_count": 0,
+            "illustration_count": 2,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Catalyst Notification",
                     "chap_url": "/raggiesoft-books/books/rachel/atlanta-spring-trip/the-catalyst-notification",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -781,7 +974,16 @@
                             "file_path": "e006/c001/p001.md",
                             "url": "/rachel/atlanta-spring-trip/the-catalyst-notification/part-1-the-desktop-under-the-stairs-the-long-distance-loophole",
                             "date": "2000-04-21",
-                            "start_time": "16:00"
+                            "start_time": "16:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b006/desktop_under_the_stairs_2000.jpg",
+                            "image_alt": "Fifteen-year-old Michael at the beige CRT desktop computer under the oak staircase at 1852 Delaney Street while nineteen-year-old Jessica in her manual wheelchair holds her university admissions brochure and thirteen-year-old Rachel looks on.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b006/desktop_under_the_stairs_2000.jpg",
+                                    "alt": "Fifteen-year-old Michael at the beige CRT desktop computer under the oak staircase at 1852 Delaney Street while nineteen-year-old Jessica in her manual wheelchair holds her university admissions brochure and thirteen-year-old Rachel looks on."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -797,7 +999,7 @@
                     "chap_num": 2,
                     "chap_title": "Arrival at the Hotel",
                     "chap_url": "/raggiesoft-books/books/rachel/atlanta-spring-trip/arrival-at-the-hotel",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -813,7 +1015,16 @@
                             "file_path": "e006/c002/p002.md",
                             "url": "/rachel/atlanta-spring-trip/arrival-at-the-hotel/part-2-the-lido-deck",
                             "date": "2000-05-04",
-                            "start_time": "20:00"
+                            "start_time": "20:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b006/atlanta_lido_deck_pool_2000.jpg",
+                            "image_alt": "Nineteen-year-old Jessica smiling triumphantly in the warm indoor Atlanta hotel pool as fifteen-year-old Michael stands right beside her in the water, with Jessica's manual wheelchair parked poolside.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b006/atlanta_lido_deck_pool_2000.jpg",
+                                    "alt": "Nineteen-year-old Jessica smiling triumphantly in the warm indoor Atlanta hotel pool as fifteen-year-old Michael stands right beside her in the water, with Jessica's manual wheelchair parked poolside."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -839,7 +1050,7 @@
             "era_num": 7,
             "era_title": "Seeds of a Divorce",
             "era_url": "/raggiesoft-books/books/rachel/seeds-of-a-divorce",
-            "illustration_count": 0,
+            "illustration_count": 2,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -885,7 +1096,7 @@
                     "chap_num": 3,
                     "chap_title": "The Provisions Run",
                     "chap_url": "/raggiesoft-books/books/rachel/seeds-of-a-divorce/the-provisions-run",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -893,7 +1104,16 @@
                             "file_path": "e007/c003/p001.md",
                             "url": "/rachel/seeds-of-a-divorce/the-provisions-run/part-1-the-ada-fortress-the-ave",
                             "date": "2000-08-18",
-                            "start_time": "08:00"
+                            "start_time": "08:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b007/seattle_campus_red_square_2000.jpg",
+                            "image_alt": "Nineteen-year-old Jessica propelling her manual wheelchair across the sunlit red-brick plaza of Northwest Pacific University in Seattle flanked by fifteen-year-old Michael and thirteen-year-old Rachel, with Ellen and Aunt Janet walking behind them.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b007/seattle_campus_red_square_2000.jpg",
+                                    "alt": "Nineteen-year-old Jessica propelling her manual wheelchair across the sunlit red-brick plaza of Northwest Pacific University in Seattle flanked by fifteen-year-old Michael and thirteen-year-old Rachel, with Ellen and Aunt Janet walking behind them."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -909,7 +1129,7 @@
                     "chap_num": 4,
                     "chap_title": "The Tourist Perimeter",
                     "chap_url": "/raggiesoft-books/books/rachel/seeds-of-a-divorce/the-tourist-perimeter",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -917,7 +1137,16 @@
                             "file_path": "e007/c004/p001.md",
                             "url": "/rachel/seeds-of-a-divorce/the-tourist-perimeter/part-1-the-reassembled-pack-the-saltwater-grid",
                             "date": "2000-08-19",
-                            "start_time": "07:00"
+                            "start_time": "07:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b007/bremerton_ferry_sun_deck_2000.jpg",
+                            "image_alt": "Jessica in her manual wheelchair, Rachel, Michael, Tom, and Ellen standing together at the railing on the open sun deck of the Bremerton ferry crossing Puget Sound with the Seattle skyline in the distance.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b007/bremerton_ferry_sun_deck_2000.jpg",
+                                    "alt": "Jessica in her manual wheelchair, Rachel, Michael, Tom, and Ellen standing together at the railing on the open sun deck of the Bremerton ferry crossing Puget Sound with the Seattle skyline in the distance."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -935,13 +1164,13 @@
             "era_num": 8,
             "era_title": "The Delaney Street Fracture",
             "era_url": "/raggiesoft-books/books/rachel/the-delaney-street-fracture",
-            "illustration_count": 0,
+            "illustration_count": 1,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Rachel\u2019s First Band Camp",
                     "chap_url": "/raggiesoft-books/books/rachel/the-delaney-street-fracture/rachel-s-first-band-camp",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -965,7 +1194,16 @@
                             "file_path": "e008/c001/p003.md",
                             "url": "/rachel/the-delaney-street-fracture/rachel-s-first-band-camp/part-3-the-afternoon-metronome-the-giant-bed",
                             "date": "2001-08-13",
-                            "start_time": "13:00"
+                            "start_time": "13:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b008/northwood_pit_ensemble_2001.jpg",
+                            "image_alt": "Sixteen-year-old Michael and fourteen-year-old Rachel holding blue yarn mallets behind the front sideline marimba on the Northwood High School marching band field as sixteen-year-old Ashley Raybourn stands watch behind her vibraphone with her mallets.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b008/northwood_pit_ensemble_2001.jpg",
+                                    "alt": "Sixteen-year-old Michael and fourteen-year-old Rachel holding blue yarn mallets behind the front sideline marimba on the Northwood High School marching band field as sixteen-year-old Ashley Raybourn stands watch behind her vibraphone with her mallets."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
@@ -975,7 +1213,7 @@
             "era_num": 9,
             "era_title": "The Divorce Reprieve",
             "era_url": "/raggiesoft-books/books/rachel/the-divorce-reprieve",
-            "illustration_count": 0,
+            "illustration_count": 1,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -997,7 +1235,7 @@
                     "chap_num": 2,
                     "chap_title": "The Teenage Script",
                     "chap_url": "/raggiesoft-books/books/rachel/the-divorce-reprieve/the-teenage-script",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1005,7 +1243,16 @@
                             "file_path": "e009/c002/p001.md",
                             "url": "/rachel/the-divorce-reprieve/the-teenage-script/the-elephant-in-the-room-the-cross-country-bargain",
                             "date": "2001-08-18",
-                            "start_time": "08:30"
+                            "start_time": "08:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b009/delaney_sofa_bed_vacation_2001.jpg",
+                            "image_alt": "Sixteen-year-old Michael and fourteen-year-old Rachel sitting side-by-side under a patchwork quilt on the pull-out sofa bed at 1852 Delaney Street during their two-week vacation from parents, flanked by their loyal dogs Archie and Baby.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b009/delaney_sofa_bed_vacation_2001.jpg",
+                                    "alt": "Sixteen-year-old Michael and fourteen-year-old Rachel sitting side-by-side under a patchwork quilt on the pull-out sofa bed at 1852 Delaney Street during their two-week vacation from parents, flanked by their loyal dogs Archie and Baby."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
@@ -1015,13 +1262,13 @@
             "era_num": 10,
             "era_title": "The Divorce",
             "era_url": "/raggiesoft-books/books/rachel/the-divorce",
-            "illustration_count": 0,
+            "illustration_count": 1,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Broken Door",
                     "chap_url": "/raggiesoft-books/books/rachel/the-divorce/the-broken-door",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1029,7 +1276,16 @@
                             "file_path": "e010/c001/p001.md",
                             "url": "/rachel/the-divorce/the-broken-door/rachel-s-fury-the-push-button-lock",
                             "date": "2001-09-04",
-                            "start_time": "17:30"
+                            "start_time": "17:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b010/push_button_lock_speakerphone_2001.jpg",
+                            "image_alt": "Sixteen-year-old Michael and fourteen-year-old Rachel sitting together on the bottom bunk in Rachel's locked bedroom holding hands with the cordless telephone on speakerphone connected to Jessica in Seattle.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b010/push_button_lock_speakerphone_2001.jpg",
+                                    "alt": "Sixteen-year-old Michael and fourteen-year-old Rachel sitting together on the bottom bunk in Rachel's locked bedroom holding hands with the cordless telephone on speakerphone connected to Jessica in Seattle."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -1119,13 +1375,13 @@
             "era_num": 11,
             "era_title": "Michael's New Life",
             "era_url": "/raggiesoft-books/books/rachel/michael-s-new-life",
-            "illustration_count": 0,
+            "illustration_count": 2,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Left Coast Christmas",
                     "chap_url": "/raggiesoft-books/books/rachel/michael-s-new-life/a-left-coast-christmas",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1133,7 +1389,16 @@
                             "file_path": "e011/c001/p001.md",
                             "url": "/rachel/michael-s-new-life/a-left-coast-christmas/arrival-at-pdx-sibling-cuddles",
                             "date": "2001-11-17",
-                            "start_time": "14:30"
+                            "start_time": "14:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b011/pdx_airport_reunion_2001.jpg",
+                            "image_alt": "Sixteen-year-old Michael stepping out of the Portland International Airport arrivals concourse into a joyful three-way Thanksgiving embrace with fourteen-year-old Rachel and twenty-year-old Jessica in her manual wheelchair.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b011/pdx_airport_reunion_2001.jpg",
+                                    "alt": "Sixteen-year-old Michael stepping out of the Portland International Airport arrivals concourse into a joyful three-way Thanksgiving embrace with fourteen-year-old Rachel and twenty-year-old Jessica in her manual wheelchair."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -1213,7 +1478,7 @@
                     "chap_num": 6,
                     "chap_title": "A Left Coast Thanksgiving",
                     "chap_url": "/raggiesoft-books/books/rachel/michael-s-new-life/a-left-coast-thanksgiving",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1229,7 +1494,16 @@
                             "file_path": "e011/c006/p002.md",
                             "url": "/rachel/michael-s-new-life/a-left-coast-thanksgiving/part-2-the-101-secret-the-final-push",
                             "date": "2001-11-22",
-                            "start_time": "13:30"
+                            "start_time": "13:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b011/thanksgiving_gorilla_kingdom_2001.jpg",
+                            "image_alt": "Sixteen-year-old Michael and fourteen-year-old Rachel sitting cross-legged on the carpet playing co-op Gorilla Kingdom on the Super Nova 16 console while twenty-year-old Jessica watches warmly from her manual wheelchair at the dining table.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b011/thanksgiving_gorilla_kingdom_2001.jpg",
+                                    "alt": "Sixteen-year-old Michael and fourteen-year-old Rachel sitting cross-legged on the carpet playing co-op Gorilla Kingdom on the Super Nova 16 console while twenty-year-old Jessica watches warmly from her manual wheelchair at the dining table."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -1255,13 +1529,13 @@
             "era_num": 12,
             "era_title": "The East Coast",
             "era_url": "/raggiesoft-books/books/rachel/the-east-coast",
-            "illustration_count": 0,
+            "illustration_count": 2,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Outbound to ORF",
                     "chap_url": "/raggiesoft-books/books/rachel/the-east-coast/outbound-to-orf",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1269,7 +1543,16 @@
                             "file_path": "e012/c001/p001.md",
                             "url": "/rachel/the-east-coast/outbound-to-orf/part-1-the-first-class-algorithm-the-aisle-transfer",
                             "date": "2001-12-22",
-                            "start_time": "06:00"
+                            "start_time": "06:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b012/seatac_concourse_wheelchair_engine_2001.jpg",
+                            "image_alt": "Fourteen-year-old Rachel gripping the push-handles of twenty-year-old Jessica's manual wheelchair as her engine and anchor through the Seattle-Tacoma International Airport concourse on their way to board their First Class Christmas flight.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b012/seatac_concourse_wheelchair_engine_2001.jpg",
+                                    "alt": "Fourteen-year-old Rachel gripping the push-handles of twenty-year-old Jessica's manual wheelchair as her engine and anchor through the Seattle-Tacoma International Airport concourse on their way to board their First Class Christmas flight."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -1293,7 +1576,7 @@
                     "chap_num": 2,
                     "chap_title": "Arrival at Norfolk",
                     "chap_url": "/raggiesoft-books/books/rachel/the-east-coast/arrival-at-norfolk",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1301,7 +1584,16 @@
                             "file_path": "e012/c002/p001.md",
                             "url": "/rachel/the-east-coast/arrival-at-norfolk/sibling-reunification-the-northern-star",
                             "date": "2001-12-22",
-                            "start_time": "21:30"
+                            "start_time": "21:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b012/norfolk_airport_christmas_reunion_2001.jpg",
+                            "image_alt": "Sixteen-year-old Michael dropping to his knees on the Norfolk International Airport terminal carpet to wrap twenty-year-old Jessica in her manual wheelchair and fourteen-year-old Rachel in a joyful three-way Christmas reunion hug while Ellen watches.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b012/norfolk_airport_christmas_reunion_2001.jpg",
+                                    "alt": "Sixteen-year-old Michael dropping to his knees on the Norfolk International Airport terminal carpet to wrap twenty-year-old Jessica in her manual wheelchair and fourteen-year-old Rachel in a joyful three-way Christmas reunion hug while Ellen watches."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -1327,13 +1619,13 @@
             "era_num": 13,
             "era_title": "Michael\u2019s Senior Year",
             "era_url": "/raggiesoft-books/books/rachel/michael-s-senior-year",
-            "illustration_count": 0,
+            "illustration_count": 1,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Empty Shell",
                     "chap_url": "/raggiesoft-books/books/rachel/michael-s-senior-year/the-empty-shell",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1341,7 +1633,16 @@
                             "file_path": "e013/c001/p001.md",
                             "url": "/rachel/michael-s-senior-year/the-empty-shell/part-1-the-last-morning-the-baldwin-briefing",
                             "date": "2003-07-14",
-                            "start_time": "07:30"
+                            "start_time": "07:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b013/last_morning_delaney_sentinel_hug_2003.jpg",
+                            "image_alt": "Eighteen-year-old Ashley Raybourn wrapping eighteen-year-old Michael in a steady, protective Sentinel hug on the bottom mattress of the nearly empty Delaney Street bedroom on moving morning.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b013/last_morning_delaney_sentinel_hug_2003.jpg",
+                                    "alt": "Eighteen-year-old Ashley Raybourn wrapping eighteen-year-old Michael in a steady, protective Sentinel hug on the bottom mattress of the nearly empty Delaney Street bedroom on moving morning."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -1415,13 +1716,13 @@
             "era_num": 14,
             "era_title": "Delores",
             "era_url": "/raggiesoft-books/books/rachel/delores",
-            "illustration_count": 0,
+            "illustration_count": 1,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Quiet Void",
                     "chap_url": "/raggiesoft-books/books/rachel/delores/the-quiet-void",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1429,7 +1730,16 @@
                             "file_path": "e014/c001/p001.md",
                             "url": "/rachel/delores/the-quiet-void/part-1-the-last-of-the-pack-the-ticket-line",
                             "date": "2004-09-02",
-                            "start_time": "08:00"
+                            "start_time": "08:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b014/greenway_court_archie_walk_2004.jpg",
+                            "image_alt": "Nineteen-year-old Michael kneeling in the sunlit late-summer grass outside his Greenway Court apartment in Norfolk with a gentle hand resting on the neck of his loyal one-eyed black Lab Archie.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b014/greenway_court_archie_walk_2004.jpg",
+                                    "alt": "Nineteen-year-old Michael kneeling in the sunlit late-summer grass outside his Greenway Court apartment in Norfolk with a gentle hand resting on the neck of his loyal one-eyed black Lab Archie."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -1463,7 +1773,7 @@
             "era_num": 15,
             "era_title": "The End of Hell",
             "era_url": "/raggiesoft-books/books/rachel/the-end-of-hell",
-            "illustration_count": 6,
+            "illustration_count": 7,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1533,7 +1843,7 @@
                     "chap_num": 5,
                     "chap_title": "The Pasco Lock",
                     "chap_url": "/raggiesoft-books/books/rachel/the-end-of-hell/the-pasco-lock",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1549,7 +1859,16 @@
                             "file_path": "e015/c005/p002.md",
                             "url": "/rachel/the-end-of-hell/the-pasco-lock/part-2-king-street-station-pizza-diplomacy",
                             "date": "2006-11-14",
-                            "start_time": "16:15"
+                            "start_time": "16:15",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b015/king_street_station_arrival_2006.jpg",
+                            "image_alt": "Twenty-one-year-old Michael standing under the wrought-iron awning outside the brick clocktower entrance of Seattle's King Street Station in the misty November dusk, calling his sister Jessica on his silver flip phone.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b015/king_street_station_arrival_2006.jpg",
+                                    "alt": "Twenty-one-year-old Michael standing under the wrought-iron awning outside the brick clocktower entrance of Seattle's King Street Station in the misty November dusk, calling his sister Jessica on his silver flip phone."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 3,
@@ -2005,8 +2324,8 @@
                                     "alt": "Jessica consoles Michael on the sofa in her Building 35 corner office"
                                 },
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/rachel/b017/ragsdale-siblings-1999-photo.jpg",
-                                    "alt": "The Ragsdale siblings cuddling in late 1998"
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b017/ragsdale-siblings-1998-photo.jpg",
+                                    "alt": "The Ragsdale siblings cuddling on the floral sofa in December 1998 wearing matching The Stardust Engine: Hard Reset Tour '98 t-shirts"
                                 }
                             ],
                             "image_count": 2
