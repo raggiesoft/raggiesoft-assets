@@ -8,16 +8,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "51.8 MB",
-        "pdf": "57.8 MB",
-        "text_epub": "1017 KB",
+        "epub": "52.6 MB",
+        "pdf": "58.7 MB",
+        "text_epub": "1018 KB",
         "text_pdf": "2.8 MB",
-        "epub_bytes": 54304035,
-        "pdf_bytes": 60619357,
-        "text_epub_bytes": 1041060,
-        "text_pdf_bytes": 2940137
+        "epub_bytes": 55136358,
+        "pdf_bytes": 61538726,
+        "text_epub_bytes": 1042650,
+        "text_pdf_bytes": 2944589
     },
-    "illustration_count": 83,
+    "illustration_count": 84,
     "eras": [
         {
             "era_num": 1,
@@ -181,15 +181,15 @@
                             "date": "1995-08-12",
                             "start_time": "09:00",
                             "image": "/raggiesoft-books/images/scenes/rachel/b002/brown_belt_testing_1995.jpg",
-                            "image_alt": "Master Scott and Master April Mercer presenting ten-year-old Michael and eight-year-old Rachel with their Brown Belts while Master Ray Shackford applauds.",
+                            "image_alt": "On the blue gymnastics spring floor at Tidewater Tumblers beneath the second-floor observation deck bleachers, 7th Dan Regional Director Master Scott formally yields the Gwonhan to 22-year-old Sunhoe Sabomnim Master April Mercer as ten-year-old Michael and eight-year-old Rachel test for their Brown Belts.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b002/brown_belt_testing_1995.jpg",
-                                    "alt": "Master Scott and Master April Mercer presenting ten-year-old Michael and eight-year-old Rachel with their Brown Belts while Master Ray Shackford applauds."
+                                    "alt": "On the blue gymnastics spring floor at Tidewater Tumblers beneath the second-floor observation deck bleachers, 7th Dan Regional Director Master Scott formally yields the Gwonhan to 22-year-old Sunhoe Sabomnim Master April Mercer as ten-year-old Michael and eight-year-old Rachel test for their Brown Belts."
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b002/master_april_hugging_michael_and_rachel.jpg",
-                                    "alt": "Master Scott and Master April Mercer presenting ten-year-old Michael and eight-year-old Rachel with their Brown Belts while Master Ray Shackford applauds."
+                                    "alt": "On the blue gymnastics spring floor at Tidewater Tumblers beneath the second-floor observation deck bleachers, 7th Dan Regional Director Master Scott formally yields the Gwonhan to 22-year-old Sunhoe Sabomnim Master April Mercer as ten-year-old Michael and eight-year-old Rachel test for their Brown Belts."
                                 }
                             ],
                             "image_count": 2
@@ -218,11 +218,11 @@
                             "date": "1995-08-15",
                             "start_time": "16:55",
                             "image": "/raggiesoft-books/images/scenes/rachel/b002/bleachers_top_row_anchor_1995.jpg",
-                            "image_alt": "Ten-year-old Michael and eight-year-old Rachel sitting anchored in the ninety-degree corner of the top row of the wooden observation deck bleachers overlooking the gymnastics floor below as Rachel speaks to Michael.",
+                            "image_alt": "Ten-year-old Michael and eight-year-old Rachel in their white doboks and Brown belts sitting anchored on the top row at the far right end of the second-floor observation deck bleachers against the late-1970s wood-paneled corner wall overlooking the gymnastics spring floor below.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b002/bleachers_top_row_anchor_1995.jpg",
-                                    "alt": "Ten-year-old Michael and eight-year-old Rachel sitting anchored in the ninety-degree corner of the top row of the wooden observation deck bleachers overlooking the gymnastics floor below as Rachel speaks to Michael."
+                                    "alt": "Ten-year-old Michael and eight-year-old Rachel in their white doboks and Brown belts sitting anchored on the top row at the far right end of the second-floor observation deck bleachers against the late-1970s wood-paneled corner wall overlooking the gymnastics spring floor below."
                                 }
                             ],
                             "image_count": 1
@@ -807,7 +807,7 @@
             "era_num": 5,
             "era_title": "High School",
             "era_url": "/raggiesoft-books/books/rachel/high-school",
-            "illustration_count": 2,
+            "illustration_count": 3,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -902,7 +902,7 @@
                     "chap_num": 5,
                     "chap_title": "The Christmas Anomaly",
                     "chap_url": "/raggiesoft-books/books/rachel/high-school/the-christmas-anomaly",
-                    "illustration_count": 1,
+                    "illustration_count": 2,
                     "parts": [
                         {
                             "part_num": 1,
@@ -918,7 +918,16 @@
                             "file_path": "e005/c005/p002.md",
                             "url": "/rachel/high-school/the-christmas-anomaly/part-2-the-first-crush-the-missing-exposure",
                             "date": "1999-12-25",
-                            "start_time": "12:00"
+                            "start_time": "12:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b005/christmas_1999_bonnie_hug.jpg",
+                            "image_alt": "Fourteen-year-old Michael and fourteen-year-old Bonnie Reed in her gray drumset sweatshirt sharing a fierce deep-pressure Christmas Day 1999 hug in front of the glowing Christmas tree and brick fireplace at 1852 Delaney Street while Ashley Raybourn smiles with her yellow disposable camera.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b005/christmas_1999_bonnie_hug.jpg",
+                                    "alt": "Fourteen-year-old Michael and fourteen-year-old Bonnie Reed in her gray drumset sweatshirt sharing a fierce deep-pressure Christmas Day 1999 hug in front of the glowing Christmas tree and brick fireplace at 1852 Delaney Street while Ashley Raybourn smiles with her yellow disposable camera."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 3,
