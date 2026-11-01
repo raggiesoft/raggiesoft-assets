@@ -2,6 +2,7 @@
     {
         "slug": "ad-astra",
         "title": "Escape Velocity: Ad Astra",
+        "short_description": "The Stardust Engine's cosmic expedition aboard the U.S.S. Aethelgard to the purple-ocean sanctuary moon Caelum-IV.",
         "description": "The cosmic visual storybook and planetary expedition chronicles of The Stardust Engine aboard the U.S.S. Aethelgard. Beginning inside the subterranean launch cavern beneath 'The Fortress' on Industrial Park Road in Blacksburg, Virginia (Movements I\u2013III), Ryan, Cassidy, and Holly O'Connell\u2014alongside twin pilots Tyler and Evan Wright\u2014leave the fluorescent Cage of Earth behind, cross 1,200 light-years at FTL Harmonic Continuum speed, and step onto Caelum-IV (Movement IV, Stardate 49601): a 48-hour tidally locked, 0.88G purple-ocean moon orbiting the ringed super-Jovian Vespera (Kepler-442c) whose living biosphere pulses at 120.0 BPM.",
         "image": "/raggiesoft-books/images/covers/2x3/ad-astra.jpg",
         "first_route": "/raggiesoft-books/books/ad-astra/prologue-escape-velocity-movements-i-iii-earth-to-the-stars/movement-i-the-cage-industrial-park-road-subterranean-silo-alpha/industrial-park-road-subterranean-silo-alpha",
@@ -22,7 +23,8 @@
     {
         "slug": "aethel",
         "title": "The Silver Gauntlet of Aethel",
-        "description": "An epic fantasy saga set in a world of twin suns, ancient magic, and the endless struggle between Order and Chaos.",
+        "short_description": "An epic fantasy saga set in a world of twin suns, ancient magic, and the endless struggle between Order and Chaos.",
+        "description": "Welcome to the world of Aethel, an epic fantasy saga where twin suns illuminate a continent fractured by ancient magic and modern political intrigue. As the fragile balance between Order and Chaos is threatened, unlikely heroes must rise to secure the legendary Silver Gauntlet. This series explores vast kingdoms, intricate magic systems, and the deeply human cost of war and destiny.",
         "image": "/raggiesoft-books/images/covers/2x3/aethel.jpg",
         "first_route": "/raggiesoft-books/books/aethel/era-1-the-age-of-myth/book-i-the-silver-sun/part-1-chapter-1-the-architect-s-lesson",
         "folder": "aethel",
@@ -42,6 +44,7 @@
     {
         "slug": "alex-chloe",
         "title": "Beyond Words",
+        "short_description": "A lifelong coming-of-age journey tracing the unbreakable platonic bond between Alex, his cousin Megan, and Chlo\u00e9.",
         "description": "A beautiful, lifelong coming-of-age journey of connection, resilience, and the deeply profound platonic bond between Alex Miller, his cousin Megan, and his best friend Chlo\u00e9 Mason.",
         "image": "/raggiesoft-books/images/covers/2x3/alex-chloe.jpg",
         "first_route": "/raggiesoft-books/books/alex-chloe/alex-s-childhood/the-carter-house/the-first-meeting",
@@ -62,7 +65,8 @@
     {
         "slug": "apex-fall-of-earth",
         "title": "Apex: Fall of Earth",
-        "description": "The dramatic origin story of Project APEX and the musical revolution that followed.",
+        "short_description": "Inside the acoustic fortress of Studio B, a defiant band sparks the dramatic origin story of Project APEX.",
+        "description": "Step into the acoustic fortress of Studio B and witness the birth of a revolution. Apex: Fall of Earth chronicles the intense creative process, the corporate battles, and the brilliant minds behind Project APEX. This narrative delves deep into the struggles of artists fighting for their vision against the backdrop of a relentless music industry, blending intense character drama with the raw energy of creation.",
         "image": "/raggiesoft-books/images/covers/2x3/apex-fall-of-earth.jpg",
         "first_route": "/raggiesoft-books/books/apex-fall-of-earth/wyatt-s-prologue/wyatt-expendable-assets/part-1-the-deep-end-mid-october-2044-the-washroom",
         "folder": "apex-fall-of-earth",
@@ -82,7 +86,8 @@
     {
         "slug": "ashley-tower",
         "title": "Fortress in the Clouds",
-        "description": "Donald's harrowing escape from Texas to the safety of the Fortress in the Clouds.",
+        "short_description": "A high-stakes survival drama following Donald's harrowing escape from Texas to the sanctuary of Ashley Tower.",
+        "description": "A thrilling, high-stakes narrative following Donald's desperate and harrowing escape from a dangerous life in Texas to the imposing, secure sanctuary of Ashley Tower. This story is a tense exploration of survival, trauma, and the lengths one will go to protect the people they love in a world that offers no easy ways out.",
         "image": "/raggiesoft-books/images/covers/2x3/ashley-tower.jpg",
         "first_route": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-1-the-gathering-storm-tuesday-february-9-2021/best-laid-plans-7-30-pm-the-ten-o-clock-news-10-00-pm",
         "folder": "ashley-tower",
@@ -102,6 +107,7 @@
     {
         "slug": "aubrie",
         "title": "The Eleventh Child",
+        "short_description": "Eighteen-year-old Jordan Fuller breaks free from his suffocating mother and builds a fiercely protective found family.",
         "description": "The emotional journey of eighteen-year-old Aubrey Jordan Fuller as he navigates college life, disability, and breaking free from his suffocating mother, Aubrie Sinclair.",
         "image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
         "first_route": "/raggiesoft-books/books/aubrie/the-eleventh-child-the-virginia-beach-years/the-ninth-grade-loophole-the-quiet-corner/part-1-the-ninth-grade-loophole-the-opt-out-stamp",
@@ -122,6 +128,7 @@
     {
         "slug": "beth",
         "title": "Synchronized",
+        "short_description": "Eighteen-year-old twins Beth and Jake Kemp protect their autonomy and embark on a life-changing college transition.",
         "description": "An intimate survival dynamic between eighteen-year-old twins Beth and Jake Kemp as they bypass the system to preserve their autonomy and embark on a life-changing college transition aboard the ARTS Atlas-Liner.",
         "image": "/raggiesoft-books/images/covers/2x3/beth.jpg",
         "first_route": null,
@@ -142,6 +149,7 @@
     {
         "slug": "bob-emily",
         "title": "The Heart-Hum",
+        "short_description": "Fifteen-year-old Emily and her wheelchair-using cousin Bob build a private language and an unbreakable sanctuary.",
         "description": "A heartfelt story of fifteen-year-old Emily and her wheelchair-using cousin Bob, who build an unbreakable bond and a private language called 'The Heart-Hum' to protect each other from a chaotic world.",
         "image": "/raggiesoft-books/images/covers/2x3/bob-emily.jpg",
         "first_route": "/raggiesoft-books/books/bob-emily/life-without-a-father/the-longest-day/the-final-promise-a-new-plan-of-action",
@@ -162,7 +170,8 @@
     {
         "slug": "crimson-node",
         "title": "Crimson Node",
-        "description": "A gripping sci-fi tale of digital espionage and the mysteries of the Crimson Node project.",
+        "short_description": "A gripping sci-fi thriller of corporate espionage, underground hacking, and the mysterious Crimson Node.",
+        "description": "Dive into the dark, pulsating heart of the digital underground with Crimson Node. This gripping narrative explores the dangerous world of corporate espionage, high-stakes hacking, and the terrifying implications of a mysterious project known only as the Crimson Node. It's a thrilling ride through a world where data is the ultimate weapon.",
         "image": "/raggiesoft-books/images/covers/2x3/crimson-node.jpg",
         "first_route": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-1-the-approach-ndash-friday-april-23-1999/anomalies",
         "folder": "crimson-node",
@@ -182,7 +191,8 @@
     {
         "slug": "drew",
         "title": "The Drew Narrative",
-        "description": "The story of Drew and his twin sister Maggie.",
+        "short_description": "Follow Drew and his twin sister Maggie as they summon the enduring strength to rebuild life after the Dojang.",
+        "description": "Welcome to Drew's story. This narrative explores the life of Drew, his twin sister Maggie, and the profound, enduring strength it takes to navigate a world forever changed by the events of the Dojang.",
         "image": "/raggiesoft-books/images/covers/2x3/drew.jpg",
         "first_route": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-1-the-dojang-incident/part-1-the-core-check-unannounced-arrival",
         "folder": "drew",
@@ -202,6 +212,7 @@
     {
         "slug": "erin",
         "title": "Before the Distance: The Story of John & Erin",
+        "short_description": "Fraternal twins John and Erin navigate CPI's steep Ironstone hills in their power wheelchairs to protect each other.",
         "description": "An official five-song narrative story published by Ryan and Cassidy O'Connell of The Stardust Engine across Progress Street (2004) and Lost Sounds (2007). At Commonwealth Polytechnic Institute (CPI) in Blacksburg, Virginia, fraternal twins John and Erin navigate the steep Ironstone hills of campus in their power wheelchairs\u2014forging an unbreakable bond of sibling sanctuary across the rain-slicked curbs of Commonwealth Mall and the limestone halls of campus.",
         "image": "/raggiesoft-books/images/covers/2x3/erin.jpg",
         "first_route": "/raggiesoft-books/books/erin/before-the-distance-the-story-of-john-erin/seconds-into-thunder/part-1-the-three-minute-bell",
@@ -222,7 +233,8 @@
     {
         "slug": "fractured-prisms",
         "title": "Fractured Prisms",
-        "description": "A mind-bending thriller exploring fragmented realities and the nature of truth.",
+        "short_description": "A mind-bending thriller where protagonists piece together fragmented realities and shifting shards of truth.",
+        "description": "Fractured Prisms is a mind-bending, abstract thriller that shatters conventional narrative. As the protagonists navigate a world of fragmented realities and shifting truths, they must piece together the vibrant, dangerous shards of their past to understand their future. It is a story of perception, memory, and the colorful, often painful nature of existence.",
         "image": "/raggiesoft-books/images/covers/2x3/fractured-prisms.jpg",
         "first_route": null,
         "folder": "fractured-prisms",
@@ -242,7 +254,8 @@
     {
         "slug": "jack-sarah",
         "title": "Jack & Sarah",
-        "description": "A poignant story of familial connection, second chances, and finding solace in the unexpected support of loved ones.",
+        "short_description": "A poignant story of familial connection, second chances, and finding solace in the unexpected support of loved ones.",
+        "description": "A poignant story of familial connection, second chances, and finding solace in the unexpected support of loved ones. Jack and Sarah's narrative explores the complexities of their family dynamic, the healing power of shared experiences, and the ways in which they help each other navigate life's most difficult moments. It is a deeply emotional journey of growth and resilience.",
         "image": "/raggiesoft-books/images/covers/2x3/jack-sarah.jpg",
         "first_route": "/raggiesoft-books/books/jack-sarah/life-at-fairlawn/the-end-of-a-war/the-discovery-the-alliance",
         "folder": "jack-sarah",
@@ -262,6 +275,7 @@
     {
         "slug": "julian",
         "title": "Upon This Winter's Night: The Story of Julian Rowlands",
+        "short_description": "After fourteen-year-old Julian Rowlands is abducted in 1996, his twin siblings broadcast a symphonic rescue beacon.",
         "description": "The complete origin narrative behind The Arctic Symphony Project (originally formed as The Winter Palace) and their 3-disc symphonic rock opera 'Tales from the Solstice'. When fourteen-year-old Julian Thomas Rowlands ('Julep')\u2014who is non-verbal, autistic, and uses a manual wheelchair\u2014is abducted from Ewell, Virginia on December 11, 1996 by his estranged father, his fierce twin siblings Gabriel and Gwendolyn Rowlands and his twin anchors Maria and Clara Harrison turn their living room into a war room and broadcast a symphonic rock rescue beacon across the Appalachian radio towers. Spanning from Julian's 1996 abduction and Ohio rescue, the forging of the vaulted Trilingual 'Family Mix' in Cymraeg, Qu\u00e9b\u00e9cois French, and English, and the family's 1998 return to Anglesey, Wales, to their 2007 meeting in Williamsburg with Samantha, Jyn, and Matthew\u2014whose cross-country abduction from Norfolk to Seattle was survived using Julian's song as his sonic armor.",
         "image": "/raggiesoft-books/images/covers/2x3/julian.jpg",
         "first_route": "/raggiesoft-books/books/julian/era-1-the-winter-palace-the-breach-spring-december-1996/foreign-language/the-8th-grade-iep-meeting",
@@ -282,7 +296,8 @@
     {
         "slug": "luna-leo",
         "title": "Luna & Leo",
-        "description": "Welcome to Luna & Leo, an expansive narrative detailing their Great North American Excursion and beyond.",
+        "short_description": "Following a life-changing diagnosis, twins Luna and Leo hit the road on their Great North American Excursion.",
+        "description": "Welcome to Luna & Leo, an expansive narrative detailing their Great North American Excursion and beyond. After receiving a devastating diagnosis, Leo and his twin sister Luna decide to hit the road. They leave behind the comfort of their home to explore the vast landscapes of North America, seeking adventure, answers, and a way to come to terms with an uncertain future. Along the way, they encounter unexpected challenges, form new friendships, and discover that the journey itself might be exactly what they needed. This series explores themes of family, resilience, and the enduring bond between siblings facing the unknown together.",
         "image": "/raggiesoft-books/images/covers/2x3/luna-leo.jpg",
         "first_route": "/raggiesoft-books/books/luna-leo/early-years/birthday-morning-and-the-grandparents-arrival/birthday-morning-and-the-grandparents-arrival-birthday-cake-and-sweet-memories-on-ludlow-road",
         "folder": "luna-leo",
@@ -302,7 +317,8 @@
     {
         "slug": "mary-childhood",
         "title": "Mary's Childhood",
-        "description": "A nostalgic, heartwarming look back at a chaotic but deeply loving childhood.",
+        "short_description": "A nostalgic, heartwarming look back at growing up inside a chaotic, imaginative, and fiercely loving household.",
+        "description": "Mary's Childhood is a nostalgic, beautifully rendered exploration of growing up in a chaotic but fiercely loving household. From transforming the living room rug into an active battlefield to the quiet, protective presence of older brothers, this narrative captures the innocence, imagination, and absolute sanctuary of a happy childhood.",
         "image": "/raggiesoft-books/images/covers/2x3/mary-childhood.jpg",
         "first_route": "/raggiesoft-books/books/mary-childhood/mary-s-early-years/chapter-1-a-moment-of-peace/high-command-the-blanket-tent-sanctuary",
         "folder": "mary-childhood",
@@ -322,7 +338,8 @@
     {
         "slug": "meredith",
         "title": "Meredith",
-        "description": "A profound exploration of grief, healing, and the protective embrace of chosen family.",
+        "short_description": "A profound exploration of grief, quiet routine, and the protective anchor of chosen family after a deep loss.",
+        "description": "Meredith is a profoundly moving story about the heavy, grounding anchor of chosen family in the aftermath of devastating loss. Following David and the girls he protects, this narrative explores the complex architecture of grief, the deep comfort of routine, and the fierce, quiet love required to heal a fractured heart.",
         "image": "/raggiesoft-books/images/covers/2x3/meredith.jpg",
         "first_route": "/raggiesoft-books/books/meredith/book-4-the-vanguard/chapter-1-the-first-drop-off/part-1-the-garage-barracks-the-color-correction",
         "folder": "meredith",
@@ -342,7 +359,8 @@
     {
         "slug": "nate",
         "title": "Nate",
-        "description": "A deeply moving story of sibling devotion, chronic illness, and finding joy in quiet rebellion.",
+        "short_description": "A deeply moving story of chronic illness, fierce sibling devotion, and finding joy in quiet acts of rebellion.",
+        "description": "Nate is a raw, beautiful exploration of chronic illness, intense sibling devotion, and the critical importance of autonomy. As Sarah navigates the physical and emotional demands of caring for her brother Nate, they build a world defined not by limitations, but by fierce love, profound understanding, and the quiet, delicious acts of rebellion that make life worth living.",
         "image": "/raggiesoft-books/images/covers/2x3/nate.jpg",
         "first_route": "/raggiesoft-books/books/nate/book-the-architecture-of-safe-spaces/chapter-1-the-triplet-anomaly-saturday-april-16-1994/the-rhythmic-drumming",
         "folder": "nate",
@@ -362,7 +380,8 @@
     {
         "slug": "nichole",
         "title": "Nichole",
-        "description": "The extraordinary life of Nichole Bennett, the brilliant architect of the Bennet Machine.",
+        "short_description": "The extraordinary life of Nichole Bennett, brilliant architect of the Bennet Machine, and her bond with Patrick.",
+        "description": "Discover the extraordinary life and mind of Nichole Bennett in this sweeping narrative. From the salty air of Newport to the high-stakes world of technological innovation, Nichole chronicles the creation of the revolutionary Bennet Machine and the unbreakable, defining bond she shares with her brother Patrick. It is a story of genius, family, and leaving a lasting legacy.",
         "image": "/raggiesoft-books/images/covers/2x3/nichole.jpg",
         "first_route": "/raggiesoft-books/books/nichole/elementary-school/the-newport-vacation/part-1-the-bachelor-pad-the-pitch",
         "folder": "nichole",
@@ -382,7 +401,8 @@
     {
         "slug": "paige",
         "title": "Paige",
-        "description": "A compelling story of camaraderie and ambition set amidst the grueling deadlines and late-night coding sessions of university life.",
+        "short_description": "A story of camaraderie and ambition forged amidst grueling computer science deadlines and late-night debugging.",
+        "description": "A compelling story of camaraderie and ambition set amidst the grueling deadlines and late-night coding sessions of university life. Paige and Freddie navigate the high-pressure environment of their computer science program, forging a bond built on shared struggles, late-night debugging, and mutual respect. Their journey highlights the power of friendship and teamwork in overcoming seemingly insurmountable academic challenges.",
         "image": "/raggiesoft-books/images/covers/2x3/paige.jpg",
         "first_route": "/raggiesoft-books/books/paige/freshman-year/band-camp/part-1-the-downbeat-rocket-burger",
         "folder": "paige",
@@ -402,7 +422,8 @@
     {
         "slug": "pebble-borrow",
         "title": "Pebble Borrow",
-        "description": "A tense, atmospheric thriller tracking a dangerous journey along US Highway 11.",
+        "short_description": "A tense, atmospheric thriller tracking a group of friends through a dangerous downpour along US Highway 11.",
+        "description": "Pebble Borrow is a tense, atmospheric thriller that kicks off with a sudden, freezing downpour on the unforgiving asphalt of US Highway 11. As a group of friends navigates a dangerous, uncertain journey, the narrative ratchets up the suspense, exploring the limits of endurance, the bonds of loyalty, and the terrifying reality of being entirely exposed to the elements.",
         "image": "/raggiesoft-books/images/covers/2x3/pebble-borrow.jpg",
         "first_route": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway/the-threshold/out-of-the-storm",
         "folder": "pebble-borrow",
@@ -422,7 +443,8 @@
     {
         "slug": "quantum-directive-1-jessica",
         "title": "The Quantum Directive: Jessica's Cut",
-        "description": "A high-stakes corporate drama following Jessica Taylor in the late-90s tech boom.",
+        "short_description": "A high-stakes corporate drama following Jessica Taylor as she shields her developer team in the late-90s boom.",
+        "description": "Set against the frenetic backdrop of the late-90s tech boom, The Quantum Directive: Jessica's Cut follows Jessica Taylor as she navigates the intense, cutthroat pressures of management at Quantum. Balancing the demands of a massive tech conglomerate while fiercely protecting her team of talented developers, Jessica's story is a masterclass in leadership, resilience, and survival in Silicon Valley.",
         "image": "/raggiesoft-books/images/covers/2x3/quantum-directive-1-jessica.jpg",
         "first_route": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/an-ordinary-july/part-1-day-to-day-at-quantum-providence-to-boston",
         "folder": "quantum-directive-1-jessica",
@@ -442,7 +464,8 @@
     {
         "slug": "quantum-directive-2-kelly",
         "title": "The Quantum Directive: Kelly's Cut",
-        "description": "A deeply personal corporate drama detailing the late-90s tech boom from the trenches.",
+        "short_description": "Experience the late-90s tech boom from the trenches alongside Kelly Madsen and her twin brother Ryan at Quantum.",
+        "description": "Experience the late-90s tech boom from the absolute trenches in The Quantum Directive: Kelly's Cut. Follow Kelly Madsen and her twin brother Ryan as they navigate grueling deadlines, high-stakes bug bashes, and the immense emotional weight of building the software that runs the world. This is a deeply personal, ground-level view of the people who quietly built the digital age.",
         "image": "/raggiesoft-books/images/covers/2x3/quantum-directive-2-kelly.jpg",
         "first_route": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/a-fork-in-the-road/the-bulletin-board-pager-code-005-1",
         "folder": "quantum-directive-2-kelly",
@@ -462,7 +485,8 @@
     {
         "slug": "quantum-directive-3-casey",
         "title": "The Quantum Directive: The Caretakers",
-        "description": "Follow the Vance and Delaney siblings as they navigate found family, trauma, and corporate maneuvering at Quantum.",
+        "short_description": "Follow the Vance and Delaney siblings as they navigate found family, trauma, and corporate maneuvering at Quantum.",
+        "description": "Grounded by the powerful executive authority of Cassandra Vance, The Quantum Directive: The Caretakers follows the Vance and Delaney siblings as they build an impenetrable emotional fortress that bridges the miles between Virginia Beach, Rhode Island, and Seattle. This corporate drama intricately weaves themes of found family, healing from deep trauma, and the complex maneuvers required to survive at the top of the tech world.",
         "image": "/raggiesoft-books/images/covers/2x3/quantum-directive-3-casey.jpg",
         "first_route": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-1-the-northern-regional/departing-npn-the-crown-burger-debrief",
         "folder": "quantum-directive-3-casey",
@@ -482,7 +506,8 @@
     {
         "slug": "rachel",
         "title": "The Rachel Narrative",
-        "description": "A complex, multi-generational story tracking the life, challenges, and growth of Rachel and her brother Michael.",
+        "short_description": "A complex, multi-generational story tracking the life, challenges, and growth of Rachel and her brother Michael.",
+        "description": "The Rachel Narrative is a sweeping, multi-generational family epic that tracks the complex lives, immense challenges, and profound growth of Rachel and her brother Michael. From chaotic Saturday mornings filled with cousins and cartoons to the heavy responsibilities of adulthood, this series is a beautiful, intricate tapestry of family history and enduring love.",
         "image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
         "first_route": "/raggiesoft-books/books/rachel/the-delaney-street-years/the-sabertooth-kitty/the-sensory-avalanche",
         "folder": "rachel",
@@ -502,7 +527,8 @@
     {
         "slug": "ruby-mountain",
         "title": "Ruby Mountain",
-        "description": "A high-stakes corporate family drama revolving around the battle for The Prospector's Keep.",
+        "short_description": "A high-stakes corporate family drama where Victoria Vance defends The Prospector's Keep from generational greed.",
+        "description": "Welcome to The Prospector's Keep, a luxury alpine lodge that has become a besieged bunker. Ruby Mountain is a fierce, high-stakes corporate and family drama where Victoria Vance must wield her sovereign authority to protect her family's legacy from the toxic, desperate greed of the older generation. It's a masterclass in power, betrayal, and the heavy crown of leadership.",
         "image": "/raggiesoft-books/images/covers/2x3/ruby-mountain.jpg",
         "first_route": "/raggiesoft-books/books/ruby-mountain/book-the-great-schism/chapter-1-the-eve-of-exile/the-traitor-the-migration",
         "folder": "ruby-mountain",
@@ -522,6 +548,7 @@
     {
         "slug": "runebreaker",
         "title": "Runebreaker: The Dream Kingdom",
+        "short_description": "Pulled through their CRT television in 1992, twins Ocea and Tay fight to reunite the Sundered Crystal of the realm.",
         "description": "For four hundred and four years of the Era of the Crystal, the inhabitants of the Dream Kingdom whispered of an ancient legend: that the Sundered Crystal\u2014one half crimson, one half sapphire\u2014would one day return to reunite the fractured code of their world. Over the centuries, as the tyrannical Grand Wizard seized the Great Directory and no trace of the two halves was ever found, the people came to believe the Crystal was nothing more than a myth. Then, on a quiet Friday night in October 1992, eighteen-year-old fraternal twins Ocea and Tay are pulled through the glass of their living room CRT television\u2014each carrying half of the painted clay summer-camp medallion they made together in the real world. Set to the 23-track Runebreaker (Original Soundtrack) by Mana Canvas, this chronicle follows Ocea's barefoot quest in her t-shirt and jeans to rescue her older twin brother and usher in the Era of the Restored Realm.",
         "image": "/raggiesoft-books/images/covers/2x3/runebreaker.jpg",
         "first_route": "/raggiesoft-books/books/runebreaker/era-1-the-era-of-the-crystal/chapter-1-insert-coin-28th-day-of-the-last-frost-year-404-ec/part-1-main-theme-the-living-room",
@@ -542,7 +569,8 @@
     {
         "slug": "samantha",
         "title": "Samantha",
-        "description": "A heart-pounding thriller about a kidnapping and the fierce sibling bond that changes everything.",
+        "short_description": "A relentless thriller about a terrifying kidnapping and the unbreakable sibling devotion that changes everything.",
+        "description": "Samantha is a heart-pounding, relentless thriller that begins with a terrifying abduction and quickly transforms into a story of absolute, unbreakable sibling devotion. When Samantha refuses to let her sister be taken alone, she sets off a chain of events that will test their courage, their resilience, and their desperate determination to survive against impossible odds.",
         "image": "/raggiesoft-books/images/covers/2x3/samantha.jpg",
         "first_route": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-1-the-father-and-the-uncle-sunday-july-13-1997/the-father-and-the-uncle",
         "folder": "samantha",
@@ -562,6 +590,7 @@
     {
         "slug": "stardust-engine",
         "title": "The Stardust Engine",
+        "short_description": "The forty-year rock-opera chronicle of The Stardust Engine (1978\u20132018), told through guitarist Ryan O'Connell's eyes.",
         "description": "The forty-year story of The Stardust Engine (1978\u20132018), told in third-person limited perspective through the eyes of lead guitarist Ryan O'Connell\u2014from the sonic frequencies of Blacksburg High School and Aunt Martha Wright's farmhouse on Progress Street NE, through the 1990 highway crash at Mile Marker 98 and the 1992 Friction catastrophe in Los Angeles, to the 2016 homecoming concert inside The Crucible and the 2018 Nine-Figure Refusal.",
         "image": "/raggiesoft-books/images/covers/2x3/stardust-engine.jpg",
         "first_route": "/raggiesoft-books/books/stardust-engine/book-1-analog-heart-teenager-in-the-valley-1978-1989/chapter-1-the-noise-floor-september-1978/high-fidelity-safe-harbor-the-circuit",
@@ -582,7 +611,8 @@
     {
         "slug": "water-planet",
         "title": "Water Planet",
-        "description": "A breathtaking sci-fi adventure exploring the depths of a mysterious, aquatic world.",
+        "short_description": "A breathtaking science fiction adventure exploring the submerged landscapes of a mysterious, aquatic world.",
+        "description": "Dive into the unknown with Water Planet, a breathtaking science fiction adventure set on a mysterious, entirely aquatic world. This series explores massive, submerged landscapes, the thrill of discovery, and the profound, isolating beauty of a planet entirely consumed by the ocean.",
         "image": "/raggiesoft-books/images/covers/2x3/water-planet.jpg",
         "first_route": null,
         "folder": "water-planet",
