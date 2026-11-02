@@ -9,13 +9,13 @@
     "next_series_url": "",
     "ebook_sizes": {
         "epub": "70 MB",
-        "pdf": "73.9 MB",
+        "pdf": "74 MB",
         "text_epub": "1.1 MB",
         "text_pdf": "3.1 MB",
-        "epub_bytes": 73386234,
-        "pdf_bytes": 77512987,
-        "text_epub_bytes": 1133954,
-        "text_pdf_bytes": 3218925
+        "epub_bytes": 73367355,
+        "pdf_bytes": 77552336,
+        "text_epub_bytes": 1134208,
+        "text_pdf_bytes": 3219642
     },
     "illustration_count": 124,
     "eras": [
@@ -132,11 +132,11 @@
                             "start_time": "08:45",
                             "location": "Virginia Dominion University (VDU), Norfolk, VA",
                             "image": "/raggiesoft-books/images/scenes/rachel/b001/jul_1994_vdu_childhood_summer_camp_michael_rachel_jessica.jpg",
-                            "image_alt": "On a sunny July 1994 morning on the wide concrete plaza of Dominion Mall at Virginia Dominion University in Norfolk, nine-year-old Michael, seven-year-old Rachel holding hands, and fourteen-year-old Jessica walk right in the middle of their VDU Summer Camp group behind their camp counselor in front of the modern flat-roofed glass-and-brick Student Center and University Library",
+                            "image_alt": "On a sunny July 1994 morning on the wide concrete plaza of Dominion Mall at Virginia Dominion University in Norfolk, nine-year-old Michael, seven-year-old Rachel holding hands, and fourteen-year-old Jessica in her clear wire-rimmed glasses walk right in the middle of their VDU Summer Camp group behind their camp counselor in front of the modern flat-roofed glass-and-brick Student Center and University Library",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b001/jul_1994_vdu_childhood_summer_camp_michael_rachel_jessica.jpg",
-                                    "alt": "On a sunny July 1994 morning on the wide concrete plaza of Dominion Mall at Virginia Dominion University in Norfolk, nine-year-old Michael, seven-year-old Rachel holding hands, and fourteen-year-old Jessica walk right in the middle of their VDU Summer Camp group behind their camp counselor in front of the modern flat-roofed glass-and-brick Student Center and University Library"
+                                    "alt": "On a sunny July 1994 morning on the wide concrete plaza of Dominion Mall at Virginia Dominion University in Norfolk, nine-year-old Michael, seven-year-old Rachel holding hands, and fourteen-year-old Jessica in her clear wire-rimmed glasses walk right in the middle of their VDU Summer Camp group behind their camp counselor in front of the modern flat-roofed glass-and-brick Student Center and University Library"
                                 }
                             ],
                             "image_count": 1
