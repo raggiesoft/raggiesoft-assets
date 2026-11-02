@@ -8,16 +8,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "49.2 MB",
-        "pdf": "52.5 MB",
+        "epub": "50 MB",
+        "pdf": "53.2 MB",
         "text_epub": "1021 KB",
         "text_pdf": "2.8 MB",
-        "epub_bytes": 51587343,
-        "pdf_bytes": 55046866,
-        "text_epub_bytes": 1045010,
-        "text_pdf_bytes": 2949805
+        "epub_bytes": 52418883,
+        "pdf_bytes": 55803455,
+        "text_epub_bytes": 1045415,
+        "text_pdf_bytes": 2951651
     },
-    "illustration_count": 85,
+    "illustration_count": 93,
     "eras": [
         {
             "era_num": 1,
@@ -1743,13 +1743,13 @@
             "era_num": 14,
             "era_title": "Delores",
             "era_url": "/raggiesoft-books/books/rachel/delores",
-            "illustration_count": 1,
+            "illustration_count": 3,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Quiet Void",
                     "chap_url": "/raggiesoft-books/books/rachel/delores/the-quiet-void",
-                    "illustration_count": 1,
+                    "illustration_count": 3,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1764,9 +1764,13 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b014/greenway_court_archie_walk_2004.jpg",
                                     "alt": "Nineteen-year-old Michael kneeling in the sunlit late-summer grass outside his Greenway Court apartment in Norfolk with a gentle hand resting on the neck of his loyal one-eyed black Lab Archie."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b014/roper_theater_ticket_line_2004.jpg",
+                                    "alt": "Inside the crowded Roper Performing Arts Center lobby in Downtown Norfolk on September 2, 2004, nineteen-year-old Michael stands solo in the ticket line with his heavy black backpack as Delores turns around with an eager smile while her mother Robyn nudges her elbow."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         },
                         {
                             "part_num": 2,
@@ -1774,7 +1778,16 @@
                             "file_path": "e014/c001/p002.md",
                             "url": "/rachel/delores/the-quiet-void/part-2-the-midtown-transfer",
                             "date": "2004-09-02",
-                            "start_time": "21:00"
+                            "start_time": "21:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b014/greenway_court_delores_first_hug_2004.jpg",
+                            "image_alt": "Outside 801 Greenway Court at night beside Robyn's dark blue minivan, Delores pulls nineteen-year-old Michael into a fierce, heavy goodbye hug that tricks his deep-pressure sensory receptors into thinking she is safe.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b014/greenway_court_delores_first_hug_2004.jpg",
+                                    "alt": "Outside 801 Greenway Court at night beside Robyn's dark blue minivan, Delores pulls nineteen-year-old Michael into a fierce, heavy goodbye hug that tricks his deep-pressure sensory receptors into thinking she is safe."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -1800,13 +1813,13 @@
             "era_num": 15,
             "era_title": "The End of Hell",
             "era_url": "/raggiesoft-books/books/rachel/the-end-of-hell",
-            "illustration_count": 7,
+            "illustration_count": 9,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Setup",
                     "chap_url": "/raggiesoft-books/books/rachel/the-end-of-hell/the-setup",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1814,7 +1827,16 @@
                             "file_path": "e015/c001/p001.md",
                             "url": "/rachel/the-end-of-hell/the-setup/the-pitch",
                             "date": "2006-11-08",
-                            "start_time": "18:00"
+                            "start_time": "18:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b015/westbreeze_the_pitch_2006.jpg",
+                            "image_alt": "Inside the cramped bedroom of the Westbreeze Apartments in Portsmouth, twenty-one-year-old Michael sits exhausted on the edge of the mattress as Delores leans against the closed bedroom door with a manic, possessive grin announcing her 'surprise' trip.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b015/westbreeze_the_pitch_2006.jpg",
+                                    "alt": "Inside the cramped bedroom of the Westbreeze Apartments in Portsmouth, twenty-one-year-old Michael sits exhausted on the edge of the mattress as Delores leans against the closed bedroom door with a manic, possessive grin announcing her 'surprise' trip."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -1822,7 +1844,7 @@
                     "chap_num": 2,
                     "chap_title": "The Departure",
                     "chap_url": "/raggiesoft-books/books/rachel/the-end-of-hell/the-departure",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1830,7 +1852,16 @@
                             "file_path": "e015/c002/p001.md",
                             "url": "/rachel/the-end-of-hell/the-departure/the-deception-at-churchland-square-interstate-81",
                             "date": "2006-11-11",
-                            "start_time": "08:30"
+                            "start_time": "08:30",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b015/churchland_square_suitcases_2006.jpg",
+                            "image_alt": "In the damp gray morning parking lot of Churchland Square, Michael braces his stiff right leg as he hauls two massive rolling suitcases out of the open liftgate of Robyn's dark blue minivan while Delores watches calculatingly.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b015/churchland_square_suitcases_2006.jpg",
+                                    "alt": "In the damp gray morning parking lot of Churchland Square, Michael braces his stiff right leg as he hauls two massive rolling suitcases out of the open liftgate of Robyn's dark blue minivan while Delores watches calculatingly."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -2122,13 +2153,13 @@
             "era_num": 16,
             "era_title": "AWE Monday Night War",
             "era_url": "/raggiesoft-books/books/rachel/awe-monday-night-war",
-            "illustration_count": 6,
+            "illustration_count": 7,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Portland Offensive",
                     "chap_url": "/raggiesoft-books/books/rachel/awe-monday-night-war/the-portland-offensive",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2136,7 +2167,16 @@
                             "file_path": "e016/c001/p001.md",
                             "url": "/rachel/awe-monday-night-war/the-portland-offensive/part-1-the-morning-deployment",
                             "date": "2006-11-20",
-                            "start_time": "06:00"
+                            "start_time": "06:00",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b016/portland_hotel_extraction_rig_2006.jpg",
+                            "image_alt": "Inside the Portland hotel room at 6:00 AM, Rachel hooks her arm securely around Michael's waist and rests her chin on his shoulder at the mahogany desk as Michael works on his 17-inch laptop ('The Extraction Rig').",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b016/portland_hotel_extraction_rig_2006.jpg",
+                                    "alt": "Inside the Portland hotel room at 6:00 AM, Rachel hooks her arm securely around Michael's waist and rests her chin on his shoulder at the mahogany desk as Michael works on his 17-inch laptop ('The Extraction Rig')."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -2469,7 +2509,7 @@
             "era_num": 18,
             "era_title": "The Shallow End",
             "era_url": "/raggiesoft-books/books/rachel/the-shallow-end",
-            "illustration_count": 16,
+            "illustration_count": 19,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2626,7 +2666,7 @@
                     "chap_num": 5,
                     "chap_title": "The Route 25 Loop & The Shallow End",
                     "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/the-route-25-loop-the-shallow-end",
-                    "illustration_count": 4,
+                    "illustration_count": 5,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2679,9 +2719,13 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b018/cchr_rachel_meets_heather_lounge.jpg",
                                     "alt": "Rachel meets Heather Bouchard over Monday lunch in the CCHR student lounge and extends the first invitation to 3701 Canadian Arch"
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/cchr_quad_unmasked_walk_2007.jpg",
+                                    "alt": "Michael and Heather Bouchard walking side-by-side across the autumn brick quad of CCHR talking and laughing with effortless, unmasked warmth"
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         }
                     ]
                 },
@@ -2689,24 +2733,28 @@
                     "chap_num": 6,
                     "chap_title": "Twin Magic & The Chesapeake Bay Aquarium",
                     "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium",
-                    "illustration_count": 2,
+                    "illustration_count": 3,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Twin Magic at Susquehanna Drive",
+                            "part_title": "Part 1: Twin Magic at Susquehanna Drive & The Hidden Birth Mark",
                             "file_path": "e018/c006/p001.md",
-                            "url": "/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-1-twin-magic-at-susquehanna-drive",
+                            "url": "/rachel/the-shallow-end/twin-magic-the-chesapeake-bay-aquarium/part-1-twin-magic-at-susquehanna-drive-the-hidden-birth-mark",
                             "date": "2008-04-01",
                             "start_time": "07:55",
                             "image": "/raggiesoft-books/images/scenes/rachel/b018/susquehanna_twin_magic_prank.jpg",
-                            "image_alt": "Hailey and Heather Bouchard pulling the April Fools' Day Twin Magic prank on Michael at the Susquehanna Drive bus stop",
+                            "image_alt": "At the Susquehanna Drive bus stop, Hailey Bouchard (looking 100% identical to Heather with the same face, glasses, and chestnut-auburn hair) pulls Michael into a hug that he calmly accepts\u2014until the real Heather walks up beside the shelter laughing and Michael's eyes widen in stunned confusion.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b018/susquehanna_twin_magic_prank.jpg",
-                                    "alt": "Hailey and Heather Bouchard pulling the April Fools' Day Twin Magic prank on Michael at the Susquehanna Drive bus stop"
+                                    "alt": "At the Susquehanna Drive bus stop, Hailey Bouchard (looking 100% identical to Heather with the same face, glasses, and chestnut-auburn hair) pulls Michael into a hug that he calmly accepts\u2014until the real Heather walks up beside the shelter laughing and Michael's eyes widen in stunned confusion."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/heather_forehead_birthmark_checksum_2008.jpg",
+                                    "alt": "Aboard the outbound CVTA Route 25 bus, Heather smiles warmly and lifts the hair at her upper forehead hairline with her fingers to show Michael the tiny hidden freckle ('birth mark') that her identical twin Hailey does not have."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         },
                         {
                             "part_num": 2,
@@ -2731,7 +2779,7 @@
                     "chap_num": 7,
                     "chap_title": "Unhandled Exception & The Living Firewall",
                     "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/unhandled-exception-the-living-firewall",
-                    "illustration_count": 3,
+                    "illustration_count": 4,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2750,9 +2798,13 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b018/route_25_leslie_crying_mirror.jpg",
                                     "alt": "Michael crying and situationally mute in his seat on CVTA Route 25 as bus driver Leslie Treece looks up into the rearview mirror"
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/route_25_moira_greenwich_road_2009.jpg",
+                                    "alt": "Outside the Leisure Inn on Greenwich Road, kind Scottish bus operator Moira Deesenburg waves a heartbroken, tearful Michael past the farebox into the front row of outbound CVTA Route 25 to get him home to Rachel"
                                 }
                             ],
-                            "image_count": 2
+                            "image_count": 3
                         },
                         {
                             "part_num": 2,
