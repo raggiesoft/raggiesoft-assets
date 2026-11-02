@@ -12,10 +12,10 @@
         "pdf": "78.6 MB",
         "text_epub": "1.1 MB",
         "text_pdf": "3.1 MB",
-        "epub_bytes": 77982358,
-        "pdf_bytes": 82391446,
-        "text_epub_bytes": 1153943,
-        "text_pdf_bytes": 3215958
+        "epub_bytes": 77981864,
+        "pdf_bytes": 82390650,
+        "text_epub_bytes": 1153476,
+        "text_pdf_bytes": 3215262
     },
     "illustration_count": 128,
     "eras": [
@@ -307,11 +307,11 @@
                             "start_time": "19:00",
                             "excerpt": "Dad walked through the front door right at seven o'clock, still wearing his Baja Taco manager's uniform, completely exhausted but smiling the second he saw the energy in the house. Mom had gotten home from the\u2026",
                             "image": "/raggiesoft-books/images/scenes/rachel/b002/bear_and_bug_bunk_fortress_1995.jpg",
-                            "image_alt": "Ten-year-old Michael and eight-year-old Rachel holding hands on the bottom bunk in their pajamas as Bear and Bug while fourteen-year-old Jessica sits cross-legged with a flashlight guarding the closed bedroom door.",
+                            "image_alt": "Ten-year-old Michael and eight-year-old Rachel holding hands on the bottom bunk in their pajamas while fourteen-year-old Jessica sits cross-legged with a flashlight guarding the closed bedroom door.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b002/bear_and_bug_bunk_fortress_1995.jpg",
-                                    "alt": "Ten-year-old Michael and eight-year-old Rachel holding hands on the bottom bunk in their pajamas as Bear and Bug while fourteen-year-old Jessica sits cross-legged with a flashlight guarding the closed bedroom door."
+                                    "alt": "Ten-year-old Michael and eight-year-old Rachel holding hands on the bottom bunk in their pajamas while fourteen-year-old Jessica sits cross-legged with a flashlight guarding the closed bedroom door."
                                 }
                             ],
                             "image_count": 1
