@@ -8,16 +8,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "54 MB",
-        "pdf": "57.5 MB",
+        "epub": "55.3 MB",
+        "pdf": "59 MB",
         "text_epub": "1 MB",
         "text_pdf": "2.9 MB",
-        "epub_bytes": 56640409,
-        "pdf_bytes": 60301947,
-        "text_epub_bytes": 1067115,
-        "text_pdf_bytes": 3022320
+        "epub_bytes": 58019533,
+        "pdf_bytes": 61842117,
+        "text_epub_bytes": 1070071,
+        "text_pdf_bytes": 3032940
     },
-    "illustration_count": 99,
+    "illustration_count": 101,
     "eras": [
         {
             "era_num": 1,
@@ -3160,22 +3160,58 @@
             "era_num": 22,
             "era_title": "Code Susquehanna",
             "era_url": "/raggiesoft-books/books/rachel/code-susquehanna",
-            "illustration_count": 6,
+            "illustration_count": 8,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Wall Behind the Desk (Spring 2024 \u2013 Fall 2025)",
                     "chap_url": "/raggiesoft-books/books/rachel/code-susquehanna/the-wall-behind-the-desk-spring-2024-fall-2025",
-                    "illustration_count": 1,
+                    "illustration_count": 3,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Ms. Susan, The Mutual Double-Take, & The Secret Only Rachel Carries",
+                            "part_title": "Part 1: 5:55 PM: Five Minutes to Clock-Out & The Parking Lot Hand-Off",
                             "file_path": "e022/c001/p001.md",
-                            "url": "/rachel/code-susquehanna/the-wall-behind-the-desk-spring-2024-fall-2025/ms-susan-the-mutual-double-take-the-secret-only-rachel-carries",
+                            "url": "/rachel/code-susquehanna/the-wall-behind-the-desk-spring-2024-fall-2025/part-1-5-55-pm-five-minutes-to-clock-out-the-parking-lot-hand-off",
+                            "date": "2024-03-13",
+                            "start_time": "17:55",
+                            "location": "Front Desk & Parking Lot, Fairlawn Recreation Center, Marlborough Drive, Virginia Beach, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b022/march_2024_parking_lot_rachel_drives_home.jpg",
+                            "image_alt": "At 6:02 PM in the 2017 Fairlawn Recreation Center parking lot, Rachel sits in the driver's seat of their shared car looking across at a visibly shaken Michael in his royal blue work polo shirt as he asks her to drive them home instead of taking over the wheel",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b022/march_2024_parking_lot_rachel_drives_home.jpg",
+                                    "alt": "At 6:02 PM in the 2017 Fairlawn Recreation Center parking lot, Rachel sits in the driver's seat of their shared car looking across at a visibly shaken Michael in his royal blue work polo shirt as he asks her to drive them home instead of taking over the wheel"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: 6:25 PM: Crying in Rachel's Arms & The Secret Pact",
+                            "file_path": "e022/c001/p002.md",
+                            "url": "/rachel/code-susquehanna/the-wall-behind-the-desk-spring-2024-fall-2025/part-2-6-25-pm-crying-in-rachel-s-arms-the-secret-pact",
+                            "date": "2024-03-13",
+                            "start_time": "18:25",
+                            "location": "3701 Canadian Arch, Virginia Beach, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b022/march_2024_crying_in_rachels_arms_secret_pact.jpg",
+                            "image_alt": "Inside the living room of their townhouse, Michael in his royal blue Fairlawn Rec Center polo shirt cries in Rachel's arms on the sofa as she holds him tightly against her shoulder, promising she is his sister and agreeing to keep the secret strictly between the two of them",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b022/march_2024_crying_in_rachels_arms_secret_pact.jpg",
+                                    "alt": "Inside the living room of their townhouse, Michael in his royal blue Fairlawn Rec Center polo shirt cries in Rachel's arms on the sofa as she holds him tightly against her shoulder, promising she is his sister and agreeing to keep the secret strictly between the two of them"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: April 19, 2024: Ms. Susan, The Mutual Double-Take, & Anthony's Tape Review",
+                            "file_path": "e022/c001/p003.md",
+                            "url": "/rachel/code-susquehanna/the-wall-behind-the-desk-spring-2024-fall-2025/part-3-april-19-2024-ms-susan-the-mutual-double-take-anthony-s-tape-review",
                             "date": "2024-04-19",
                             "start_time": "17:31",
-                            "location": "Fairlawn Recreation Center (2017 Building), Marlborough Drive, Virginia Beach, VA",
+                            "location": "Front Desk & Back Office, Fairlawn Recreation Center, Virginia Beach, VA",
                             "image": "/raggiesoft-books/images/scenes/rachel/b022/april_2024_mutual_double_take_scan_station.jpg",
                             "image_alt": "At the 2017 Fairlawn Recreation Center Scan Station under the soaring glulam timber roof, Michael in his royal blue polo shirt and Heather Bouchard lock eyes in a startled mutual double-take across the high counter while coworker Ms. Susan reaches for the handheld two-way radio",
                             "images": [
