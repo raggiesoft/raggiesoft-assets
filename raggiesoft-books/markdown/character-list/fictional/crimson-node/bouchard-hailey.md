@@ -26,9 +26,10 @@ name: Hailey Bouchard
                     <h5 class="fw-bold mb-3 text-uppercase border-bottom pb-2">Profile Data</h5>
                     <ul class="list-unstyled mb-0 small" style="line-height: 1.8;">
                         <li><strong>Major:</strong> Desktop Publishing</li>
-                        <li><strong>Status:</strong> Disconnected</li>
+                        <li><strong>Born:</strong> September 3, 1988 (Identical Twin B)</li>
+                        <li><strong>Status:</strong> Disconnected (Resides on Susquehanna Drive, Virginia Beach)</li>
                         <li><strong>Role:</strong> The Creative Co-Processor</li>
-                        <li><strong>Ecosystem:</strong> The CCC Quad</li>
+                        <li><strong>Ecosystem:</strong> The CCC Quad &amp; Fairlawn Rec Center</li>
                     </ul>
                 </div>
             </div>
@@ -50,10 +51,17 @@ name: Hailey Bouchard
                 </p>
             </div>
 
-            <div class="mb-4">
+            <div class="mb-5">
                 <h3 class="h4 fw-bold border-bottom pb-2 mb-3 text-body-emphasis">The Campus Ecosystem</h3>
                 <p class="text-body-secondary mb-0">
                     Hailey was an essential structural component of the "CCC Quad" (Matt, Shiloh, Heather, and Hailey). She shared her sister's complete, unbothered acceptance of Matt's physical and neurological realities. Whenever Shiloh needed to pause the group's hangout to assist Matt with an Activity of Daily Living (ADL), Hailey effortlessly held down the social space, ensuring the medical reality never felt taboo or burdensome. When Heather uninstalled herself from Matt's routine on the CTS bus, Hailey's presence in Matt's life was simultaneously and permanently disconnected as catastrophic collateral damage.
+                </p>
+            </div>
+
+            <div class="mb-4">
+                <h3 class="h4 fw-bold border-bottom pb-2 mb-3 text-body-emphasis">Susquehanna Drive &amp; The 2026 Fairlawn Rec Center Ambush</h3>
+                <p class="text-body-secondary mb-0">
+                    Five years after the 2002 Charlottesville era, when the twins resided on <strong>Susquehanna Drive</strong> in Virginia Beach during Heather's 2007–2009 Nuclear Medicine program at <code>CCHR</code>, Hailey famously pulled the April Fools' Day 2008 <em>"Twin Magic"</em> prank on Michael Ragsdale at the Princess Anne &amp; Susquehanna Drive bus stop—walking up first and pulling Michael into a morning hug that he happily returned before the real Heather stepped into view seconds later (<a href="https://books.raggiesoft.com/rachel"><em>The Rachel Narrative</em> — Era 18: <em>The Shallow End</em></a>). While Heather later moved back to Charlottesville to work as a hospital Nuclear Medicine Technologist, Hailey remained full-time at their longtime family house on Susquehanna Drive, just five minutes up the road from the modern 2017 <strong>Fairlawn Recreation Center</strong>. On <strong>August 11, 2026 at 7:29 PM</strong>—eighteen years after that April Fools' prank—Hailey scanned her Adult Resident Annual Membership card into Fairlawn Recreation Center while Michael was on duty as Front Desk Supervisor (<a href="https://books.raggiesoft.com/rachel"><em>The Rachel Narrative</em> — Era 22: <em>Code Susquehanna</em></a>). Because her facial geometry is a 100% <code>1:1</code> match for Heather (lacking only Heather's hidden hairline freckle), her unexpected appearance on the check-in monitor triggered the creation of Michael's <em>Teflon Protocol</em> and <em>Québécois Phonetic Firewall</em>—setting the stage for Heather's own unexpected scan seven weeks later on October 2, 2026.
                 </p>
             </div>
         </div>

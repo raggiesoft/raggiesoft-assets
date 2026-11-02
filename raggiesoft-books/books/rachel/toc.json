@@ -9,15 +9,15 @@
     "next_series_url": "",
     "ebook_sizes": {
         "epub": "50 MB",
-        "pdf": "53.2 MB",
-        "text_epub": "1021 KB",
-        "text_pdf": "2.8 MB",
-        "epub_bytes": 52418883,
-        "pdf_bytes": 55803455,
-        "text_epub_bytes": 1045415,
-        "text_pdf_bytes": 2951651
+        "pdf": "53.3 MB",
+        "text_epub": "1 MB",
+        "text_pdf": "2.9 MB",
+        "epub_bytes": 52440519,
+        "pdf_bytes": 55874828,
+        "text_epub_bytes": 1066691,
+        "text_pdf_bytes": 3021236
     },
-    "illustration_count": 93,
+    "illustration_count": 97,
     "eras": [
         {
             "era_num": 1,
@@ -3148,6 +3148,110 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg",
                                     "alt": "Wrapping up SAACURC 2016 at CPI in Blacksburg, Michael and Rachel bring twenty-four housing reports home to Norfolk."
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "era_num": 22,
+            "era_title": "Code Susquehanna",
+            "era_url": "/raggiesoft-books/books/rachel/code-susquehanna",
+            "illustration_count": 4,
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "The Wall Behind the Desk (Spring 2024 \u2013 Fall 2025)",
+                    "chap_url": "/raggiesoft-books/books/rachel/code-susquehanna/the-wall-behind-the-desk-spring-2024-fall-2025",
+                    "illustration_count": 1,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Ms. Susan, The Mutual Double-Take, & The Secret Only Rachel Carries",
+                            "file_path": "e022/c001/p001.md",
+                            "url": "/rachel/code-susquehanna/the-wall-behind-the-desk-spring-2024-fall-2025/ms-susan-the-mutual-double-take-the-secret-only-rachel-carries",
+                            "date": "2024-04-19",
+                            "start_time": "17:31",
+                            "location": "Fairlawn Recreation Center (2017 Building), Marlborough Drive, Virginia Beach, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b018/rachel_comforting_michael_sofa_3701.jpg",
+                            "image_alt": "Rachel holding Michael on the living room sofa at 3701 Canadian Arch\u2014the only person in his life who carries the secret of how deeply the memory of Heather still hurts him",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/rachel_comforting_michael_sofa_3701.jpg",
+                                    "alt": "Rachel holding Michael on the living room sofa at 3701 Canadian Arch\u2014the only person in his life who carries the secret of how deeply the memory of Heather still hurts him"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "Twin B & The Qu\u00e9b\u00e9cois Firewall (August 2026)",
+                    "chap_url": "/raggiesoft-books/books/rachel/code-susquehanna/twin-b-the-qu-b-cois-firewall-august-2026",
+                    "illustration_count": 2,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: 7:29 PM: The Identical-Twin Digital Ambush & Rebooting into Safe Mode",
+                            "file_path": "e022/c002/p001.md",
+                            "url": "/rachel/code-susquehanna/twin-b-the-qu-b-cois-firewall-august-2026/part-1-7-29-pm-the-identical-twin-digital-ambush-rebooting-into-safe-mode",
+                            "date": "2026-08-11",
+                            "start_time": "19:29",
+                            "location": "Front Desk & Scan Station, Fairlawn Recreation Center, Virginia Beach, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b018/susquehanna_twin_magic_prank.jpg",
+                            "image_alt": "Flashback to the April 1, 2008 Twin Magic prank at Susquehanna Drive\u2014the last time Michael had seen Hailey Bouchard before her unexpected August 11, 2026 scan at Fairlawn Recreation Center",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/susquehanna_twin_magic_prank.jpg",
+                                    "alt": "Flashback to the April 1, 2008 Twin Magic prank at Susquehanna Drive\u2014the last time Michael had seen Hailey Bouchard before her unexpected August 11, 2026 scan at Fairlawn Recreation Center"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Engineering the Teflon Protocol, The Corporate We, & The 88 MPH Paradox",
+                            "file_path": "e022/c002/p002.md",
+                            "url": "/rachel/code-susquehanna/twin-b-the-qu-b-cois-firewall-august-2026/part-2-engineering-the-teflon-protocol-the-corporate-we-the-88-mph-paradox",
+                            "date": "2026-08-15",
+                            "start_time": "21:30",
+                            "location": "The Command Center & Fairlawn Recreation Center, Virginia Beach, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b018/heather_forehead_birthmark_checksum_2008.jpg",
+                            "image_alt": "Flashback to April 1, 2008 on outbound CVTA Route 25 when Heather lifted her bangs to show Michael her tiny hairline freckle\u2014a visual checksum impossible to see across the 2026 Fairlawn Rec Center front desk until the barcode scans",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/heather_forehead_birthmark_checksum_2008.jpg",
+                                    "alt": "Flashback to April 1, 2008 on outbound CVTA Route 25 when Heather lifted her bangs to show Michael her tiny hairline freckle\u2014a visual checksum impossible to see across the 2026 Fairlawn Rec Center front desk until the barcode scans"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "7:16 PM: Unhandled Exception (October 2, 2026)",
+                    "chap_url": "/raggiesoft-books/books/rachel/code-susquehanna/7-16-pm-unhandled-exception-october-2-2026",
+                    "illustration_count": 1,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Code Susquehanna \u2014 Twin A, The Desk Speaker, & Holding the Line at Status Yellow",
+                            "file_path": "e022/c003/p001.md",
+                            "url": "/rachel/code-susquehanna/7-16-pm-unhandled-exception-october-2-2026/code-susquehanna-twin-a-the-desk-speaker-holding-the-line-at-status-yellow",
+                            "date": "2026-10-02",
+                            "start_time": "19:16",
+                            "location": "Front Desk, Scan Station, & Back Office, Fairlawn Recreation Center, Virginia Beach, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b018/rachel_comforting_michael_sofa_3701.jpg",
+                            "image_alt": "Rachel holding Michael in a grounding sibling hug at home\u2014the only person in the world who knows what happened at 7:16 PM on October 2, 2026 when Heather scanned in at Fairlawn Recreation Center",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/rachel_comforting_michael_sofa_3701.jpg",
+                                    "alt": "Rachel holding Michael in a grounding sibling hug at home\u2014the only person in the world who knows what happened at 7:16 PM on October 2, 2026 when Heather scanned in at Fairlawn Recreation Center"
                                 }
                             ],
                             "image_count": 1
