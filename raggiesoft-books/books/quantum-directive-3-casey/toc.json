@@ -8,16 +8,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/quantum-directive-3-casey.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "1.4 MB",
-        "pdf": "2.2 MB",
-        "text_epub": "397 KB",
+        "epub": "3.1 MB",
+        "pdf": "4 MB",
+        "text_epub": "398 KB",
         "text_pdf": "1.2 MB",
-        "epub_bytes": 1457239,
-        "pdf_bytes": 2315571,
-        "text_epub_bytes": 406885,
-        "text_pdf_bytes": 1261268
+        "epub_bytes": 3276121,
+        "pdf_bytes": 4170769,
+        "text_epub_bytes": 407511,
+        "text_pdf_bytes": 1263296
     },
-    "illustration_count": 1,
+    "illustration_count": 3,
     "eras": [
         {
             "era_num": 1,
@@ -1015,13 +1015,13 @@
             "era_num": 5,
             "era_title": "Book 5: The Sovereign Ascension",
             "era_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-5-the-sovereign-ascension",
-            "illustration_count": 0,
+            "illustration_count": 2,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Bloodline Convergence",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-5-the-sovereign-ascension/chapter-1-the-bloodline-convergence",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1030,7 +1030,16 @@
                             "url": "/quantum-directive-3-casey/book-5-the-sovereign-ascension/chapter-1-the-bloodline-convergence/the-rotor-wash-the-floorboards",
                             "date": "2014-02-14",
                             "start_time": "08:15",
-                            "location": "Redmond, WA"
+                            "location": "Redmond, WA",
+                            "image": "/raggiesoft-books/images/scenes/casey/feb_2014_keswick_auditorium_cassandra_ceo_handover.jpg",
+                            "image_alt": "Steve Ballantine handing Cassandra Vance the brass master key to Building 33 on the William Keswick Auditorium stage while Jessica Ragsdale and her pack applaud from the middle aisle",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/casey/feb_2014_keswick_auditorium_cassandra_ceo_handover.jpg",
+                                    "alt": "Steve Ballantine handing Cassandra Vance the brass master key to Building 33 on the William Keswick Auditorium stage while Jessica Ragsdale and her pack applaud from the middle aisle"
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -1038,7 +1047,7 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The After Party",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-5-the-sovereign-ascension/chapter-2-the-after-party",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1047,7 +1056,16 @@
                             "url": "/quantum-directive-3-casey/book-5-the-sovereign-ascension/chapter-2-the-after-party/part-1-the-food-truck-festival-the-transit-pledge",
                             "date": "2014-02-14",
                             "start_time": "12:00",
-                            "location": "Redmond, WA"
+                            "location": "Redmond, WA",
+                            "image": "/raggiesoft-books/images/scenes/casey/feb_2014_zero_proof_pavilion_cassandra_jessica_pack.jpg",
+                            "image_alt": "Cassandra Vance and Jessica Ragsdale in their manual wheelchairs at the Zero-Proof Pavilion table with Jessica Taylor, Kelly and Ryan Madsen, and Michael, Rachel, Kristin, and Ashley",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/casey/feb_2014_zero_proof_pavilion_cassandra_jessica_pack.jpg",
+                                    "alt": "Cassandra Vance and Jessica Ragsdale in their manual wheelchairs at the Zero-Proof Pavilion table with Jessica Taylor, Kelly and Ryan Madsen, and Michael, Rachel, Kristin, and Ashley"
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
