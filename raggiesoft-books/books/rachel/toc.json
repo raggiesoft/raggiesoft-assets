@@ -8,14 +8,14 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "74.6 MB",
-        "pdf": "78.9 MB",
+        "epub": "74.4 MB",
+        "pdf": "78.6 MB",
         "text_epub": "1.1 MB",
         "text_pdf": "3.1 MB",
-        "epub_bytes": 78243262,
-        "pdf_bytes": 82726784,
-        "text_epub_bytes": 1152882,
-        "text_pdf_bytes": 3273428
+        "epub_bytes": 77982150,
+        "pdf_bytes": 82451629,
+        "text_epub_bytes": 1153642,
+        "text_pdf_bytes": 3275551
     },
     "illustration_count": 128,
     "eras": [
@@ -3622,11 +3622,11 @@
                             "location": "Moosewood Drive to Ferrell Parkway, Princess Anne Road, & Salem Road Interchange, Virginia Beach, VA",
                             "excerpt": "On his very first Behind-the-Wheel session in charge of the car, Michael hits 55 MPH on Ferrell Parkway where it merges with Princess Anne Road at Salem Road.",
                             "image": "/raggiesoft-books/images/scenes/rachel/b022_btw_2016/jun_2016_ferrell_pkwy_55mph_first_session.jpg",
-                            "image_alt": "Michael in the driver's seat of the dual-control driver training sedan with hands at 9 and 3 merging at 55 MPH on Ferrell Parkway at the Princess Anne Road and Salem Road interchange in Virginia Beach, with the driving instructor in the passenger seat and Rachel observing proudly from the back seat",
+                            "image_alt": "Michael in the driver's seat of the dual-control driver training sedan with hands at 9 and 3 at 55 MPH on Ferrell Parkway approaching the unnumbered Lynnhaven Parkway East, Ferrell Parkway / Princess Anne Road East, and North Princess Anne Road / Salem Road overhead gantry in Virginia Beach, with his eyes in the center rearview mirror, the driving instructor in the front passenger seat, and Rachel beaming from the back seat in the secondary instructor mirror",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b022_btw_2016/jun_2016_ferrell_pkwy_55mph_first_session.jpg",
-                                    "alt": "Michael in the driver's seat of the dual-control driver training sedan with hands at 9 and 3 merging at 55 MPH on Ferrell Parkway at the Princess Anne Road and Salem Road interchange in Virginia Beach, with the driving instructor in the passenger seat and Rachel observing proudly from the back seat"
+                                    "alt": "Michael in the driver's seat of the dual-control driver training sedan with hands at 9 and 3 at 55 MPH on Ferrell Parkway approaching the unnumbered Lynnhaven Parkway East, Ferrell Parkway / Princess Anne Road East, and North Princess Anne Road / Salem Road overhead gantry in Virginia Beach, with his eyes in the center rearview mirror, the driving instructor in the front passenger seat, and Rachel beaming from the back seat in the secondary instructor mirror"
                                 }
                             ],
                             "image_count": 1
