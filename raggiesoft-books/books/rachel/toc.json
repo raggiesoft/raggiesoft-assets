@@ -9,13 +9,13 @@
     "next_series_url": "",
     "ebook_sizes": {
         "epub": "55.3 MB",
-        "pdf": "59 MB",
+        "pdf": "58.7 MB",
         "text_epub": "1 MB",
         "text_pdf": "2.9 MB",
-        "epub_bytes": 58019533,
-        "pdf_bytes": 61842117,
-        "text_epub_bytes": 1070071,
-        "text_pdf_bytes": 3032940
+        "epub_bytes": 57950004,
+        "pdf_bytes": 61552731,
+        "text_epub_bytes": 1068607,
+        "text_pdf_bytes": 3029172
     },
     "illustration_count": 101,
     "eras": [
@@ -3213,11 +3213,11 @@
                             "start_time": "17:31",
                             "location": "Front Desk & Back Office, Fairlawn Recreation Center, Virginia Beach, VA",
                             "image": "/raggiesoft-books/images/scenes/rachel/b022/april_2024_mutual_double_take_scan_station.jpg",
-                            "image_alt": "At the 2017 Fairlawn Recreation Center Scan Station under the soaring glulam timber roof, Michael in his royal blue polo shirt and Heather Bouchard lock eyes in a startled mutual double-take across the high counter while coworker Ms. Susan reaches for the handheld two-way radio",
+                            "image_alt": "At the Fairlawn Recreation Center Scan Station, Michael seated in his royal blue polo shirt and Heather Bouchard lock eyes in a startled mutual double-take across the front counter while coworker Ms. Susan sits beside him at her register",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b022/april_2024_mutual_double_take_scan_station.jpg",
-                                    "alt": "At the 2017 Fairlawn Recreation Center Scan Station under the soaring glulam timber roof, Michael in his royal blue polo shirt and Heather Bouchard lock eyes in a startled mutual double-take across the high counter while coworker Ms. Susan reaches for the handheld two-way radio"
+                                    "alt": "At the Fairlawn Recreation Center Scan Station, Michael seated in his royal blue polo shirt and Heather Bouchard lock eyes in a startled mutual double-take across the front counter while coworker Ms. Susan sits beside him at her register"
                                 }
                             ],
                             "image_count": 1
