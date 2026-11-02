@@ -8,16 +8,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "71.7 MB",
-        "pdf": "75.8 MB",
+        "epub": "74.6 MB",
+        "pdf": "78.7 MB",
         "text_epub": "1.1 MB",
         "text_pdf": "3.1 MB",
-        "epub_bytes": 75196941,
-        "pdf_bytes": 79437827,
-        "text_epub_bytes": 1145565,
-        "text_pdf_bytes": 3251475
+        "epub_bytes": 78249170,
+        "pdf_bytes": 82553749,
+        "text_epub_bytes": 1150135,
+        "text_pdf_bytes": 3266675
     },
-    "illustration_count": 126,
+    "illustration_count": 128,
     "eras": [
         {
             "era_num": 1,
@@ -3186,13 +3186,13 @@
             "era_num": 21,
             "era_title": "The GIH Pilot & The Heel Cord Surgery (2015\u20132016)",
             "era_url": "/raggiesoft-books/books/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016",
-            "illustration_count": 9,
+            "illustration_count": 10,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "From CCHR to VDU: The Upperclass GIH Pilot Apartment",
                     "chap_url": "/raggiesoft-books/books/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment",
-                    "illustration_count": 8,
+                    "illustration_count": 9,
                     "parts": [
                         {
                             "part_num": 1,
@@ -3267,6 +3267,24 @@
                                 }
                             ],
                             "image_count": 4
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Our Shared Academic Track: Information Systems & Technology, Haunted by the Past, & Sitting Side-by-Side",
+                            "file_path": "e021/c001/p004.md",
+                            "url": "/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-4-our-shared-academic-track-information-systems-technology-haunted-by-the-past-sitting-side-by-side",
+                            "date": "2015-08-26",
+                            "start_time": "09:30",
+                            "location": "Department of Information Systems & Technology, Virginia Dominion University, Norfolk, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_ist_shared_academic_track_classroom.jpg",
+                            "image_alt": "Inside a modern computer lab and lecture classroom at Virginia Dominion University in Fall 2015, Michael and Rachel sit side-by-side at adjacent computer workstations in matching royal-blue VDU t-shirts and jeans, holding hands with their fingers laced together between their keyboards while looking warmly at each other",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_ist_shared_academic_track_classroom.jpg",
+                                    "alt": "Inside a modern computer lab and lecture classroom at Virginia Dominion University in Fall 2015, Michael and Rachel sit side-by-side at adjacent computer workstations in matching royal-blue VDU t-shirts and jeans, holding hands with their fingers laced together between their keyboards while looking warmly at each other"
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -3302,64 +3320,68 @@
             "era_num": 22,
             "era_title": "The Mountain Conference (SAACURC 2016)",
             "era_url": "/raggiesoft-books/books/rachel/the-mountain-conference-saacurc-2016",
-            "illustration_count": 3,
+            "illustration_count": 4,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Bear, The Bug, and The Forger",
                     "chap_url": "/raggiesoft-books/books/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger",
-                    "illustration_count": 3,
+                    "illustration_count": 4,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Friday Arrival, The Commonwealth Mall Curb, & The ADA Suite at The Hotel at Poly",
+                            "part_title": "Part 1: Friday Arrival, Struggling Up the Steep Hills of CPI, & Two Queen Beds at The Hotel at Poly",
                             "file_path": "e022/c001/p001.md",
-                            "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-the-commonwealth-mall-curb-the-ada-suite-at-the-hotel-at-poly",
+                            "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-struggling-up-the-steep-hills-of-cpi-two-queen-beds-at-the-hotel-at-poly",
                             "date": "2016-02-12",
                             "start_time": "16:00",
-                            "location": "The Hotel at Poly & Commonwealth Mall, Commonwealth Polytechnic Institute, Blacksburg, VA",
-                            "image": "/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg",
-                            "image_alt": "Michael in his manual wheelchair with push rims and Rachel gripping the rear push handles on the hilly CPI campus in Blacksburg during SAACURC 2016, both wearing jeans, Blue-and-Silver VDU t-shirts, and winter jackets surrounded by visiting SAACURC student delegations",
+                            "location": "The Hotel at Poly, Commonwealth Mall, & Kincaid Student Center, Commonwealth Polytechnic Institute, Blacksburg, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_cpi_steep_hill_rachel_struggling_push.jpg",
+                            "image_alt": "Rachel leaning her body weight forward and straining against the rear push-handles as she struggles to push Michael in his manual wheelchair up a steep limestone hill on the CPI campus in Blacksburg during SAACURC 2016, surrounded by visiting students in their school colors",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg",
-                                    "alt": "Michael in his manual wheelchair with push rims and Rachel gripping the rear push handles on the hilly CPI campus in Blacksburg during SAACURC 2016, both wearing jeans, Blue-and-Silver VDU t-shirts, and winter jackets surrounded by visiting SAACURC student delegations"
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_cpi_steep_hill_rachel_struggling_push.jpg",
+                                    "alt": "Rachel leaning her body weight forward and straining against the rear push-handles as she struggles to push Michael in his manual wheelchair up a steep limestone hill on the CPI campus in Blacksburg during SAACURC 2016, surrounded by visiting students in their school colors"
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_hotel_at_poly_two_queen_room_sharing_bed.jpg",
+                                    "alt": "Inside their school-sanctioned two-queen ADA room at The Hotel at Poly, one Queen bed sits untouched while Michael and Rachel cuddle together in the other Queen bed in their Blue and Silver VDU t-shirts with Michael's blue wheelchair parked beside the mattress"
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Saturday at SAACURC: The Clothespin Gauntlet & The GIH Pilot Roundtable",
+                            "part_title": "Part 2: Saturday at SAACURC: Visiting School Colors, The Clothespin Gauntlet, & The GIH Pilot Roundtable",
                             "file_path": "e022/c001/p002.md",
-                            "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-2-saturday-at-saacurc-the-clothespin-gauntlet-the-gih-pilot-roundtable",
+                            "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-2-saturday-at-saacurc-visiting-school-colors-the-clothespin-gauntlet-the-gih-pilot-roundtable",
                             "date": "2016-02-13",
                             "start_time": "09:00",
                             "location": "Kincaid Student Center (290 College Ave.) & The Hotel at Poly, Blacksburg, VA",
-                            "image": "/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg",
-                            "image_alt": "At CPI's Kincaid Student Center, Michael and Rachel navigate the SAACURC 2016 sessions and champion the Gender-Inclusive Housing pilot.",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_kincaid_student_center_school_colors_clothespins.jpg",
+                            "image_alt": "Inside the bright atrium of Kincaid Student Center during SAACURC 2016, Michael sits in his parked blue manual wheelchair and Rachel stands right beside him holding his hand with their fingers laced together in matching royal-blue VDU t-shirts and clothespin-covered lanyards, surrounded by smiling college delegates repping their CPI, SVU, RADFORD, UP, and GWU school colors and shirts",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg",
-                                    "alt": "At CPI's Kincaid Student Center, Michael and Rachel navigate the SAACURC 2016 sessions and champion the Gender-Inclusive Housing pilot."
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_kincaid_student_center_school_colors_clothespins.jpg",
+                                    "alt": "Inside the bright atrium of Kincaid Student Center during SAACURC 2016, Michael sits in his parked blue manual wheelchair and Rachel stands right beside him holding his hand with their fingers laced together in matching royal-blue VDU t-shirts and clothespin-covered lanyards, surrounded by smiling college delegates repping their CPI, SVU, RADFORD, UP, and GWU school colors and shirts"
                                 }
                             ],
                             "image_count": 1
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Sunday Wrap-Up: Closing Lunch, Awards Ceremony, & Home to Norfolk",
+                            "part_title": "Part 3: Sunday Wrap-Up: Closing Banquet, The SAACURC Documentation Plaque, & Back to Flat VDU",
                             "file_path": "e022/c001/p003.md",
-                            "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-3-sunday-wrap-up-closing-lunch-awards-ceremony-home-to-norfolk",
+                            "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-3-sunday-wrap-up-closing-banquet-the-saacurc-documentation-plaque-back-to-flat-vdu",
                             "date": "2016-02-14",
                             "start_time": "11:30",
                             "location": "Kincaid Student Center (290 College Ave.) to Interstate 81 North & Eastbound to Norfolk, VA",
-                            "image": "/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg",
-                            "image_alt": "Wrapping up SAACURC 2016 at CPI in Blacksburg, Michael and Rachel bring twenty-four housing reports home to Norfolk.",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_gih_roundtable_and_closing_award.jpg",
+                            "image_alt": "Inside the Commonwealth Ballroom at Kincaid Student Center during the SAACURC 2016 Sunday Closing Banquet, Michael in his blue manual wheelchair and Rachel standing right beside him in matching royal-blue VDU t-shirts hold their wooden SAACURC recognition plaque angled toward their own eyes while holding hands as surrounding student delegations in CPI, SVU, RADFORD, UP, and GWU shirts applaud",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/rachel/b021/saacurc_2016_cpi_blacksburg.jpg",
-                                    "alt": "Wrapping up SAACURC 2016 at CPI in Blacksburg, Michael and Rachel bring twenty-four housing reports home to Norfolk."
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_gih_roundtable_and_closing_award.jpg",
+                                    "alt": "Inside the Commonwealth Ballroom at Kincaid Student Center during the SAACURC 2016 Sunday Closing Banquet, Michael in his blue manual wheelchair and Rachel standing right beside him in matching royal-blue VDU t-shirts hold their wooden SAACURC recognition plaque angled toward their own eyes while holding hands as surrounding student delegations in CPI, SVU, RADFORD, UP, and GWU shirts applaud"
                                 }
                             ],
                             "image_count": 1
