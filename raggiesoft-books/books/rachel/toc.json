@@ -12,10 +12,10 @@
         "pdf": "74 MB",
         "text_epub": "1.1 MB",
         "text_pdf": "3.1 MB",
-        "epub_bytes": 73472615,
-        "pdf_bytes": 77583134,
-        "text_epub_bytes": 1133531,
-        "text_pdf_bytes": 3217498
+        "epub_bytes": 73472543,
+        "pdf_bytes": 77583424,
+        "text_epub_bytes": 1133497,
+        "text_pdf_bytes": 3217610
     },
     "illustration_count": 124,
     "eras": [
@@ -23,7 +23,7 @@
             "era_num": 1,
             "era_title": "The Delaney Street Years",
             "era_url": "/raggiesoft-books/books/rachel/the-delaney-street-years",
-            "illustration_count": 4,
+            "illustration_count": 5,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -111,6 +111,32 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b001/izumi_bantam_cab_1993.jpg",
                                     "alt": "Inside the cab of the red 1989 Izumi Bantam pickup truck, eight-year-old Michael sits wedged on the narrow bench seat with his arm wrapped tightly around six-year-old Rachel's shoulders as both enthusiastically belt out Arthur Sterling's 'The Bitch is on the Loose' (Rachel non-verbally), while thirteen-year-old Jessica watches them from the passenger window with a knowing older-sibling expression and Tom glances over with an embarrassed, sheepish smirk at the loophole he created by picking the radio station."
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 4,
+                    "chap_title": "Summer Camp at Virginia Dominion University",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-delaney-street-years/summer-camp-at-virginia-dominion-university",
+                    "illustration_count": 1,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "The Brick Walkways of Summer Camp: Mapping VDU with Rachel and Jessica",
+                            "file_path": "e001/c004/p001.md",
+                            "url": "/rachel/the-delaney-street-years/summer-camp-at-virginia-dominion-university/the-brick-walkways-of-summer-camp-mapping-vdu-with-rachel-and-jessica",
+                            "date": "1994-07-12",
+                            "start_time": "08:45",
+                            "location": "Virginia Dominion University (VDU), Norfolk, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b001/jul_1994_vdu_childhood_summer_camp_michael_rachel_jessica.jpg",
+                            "image_alt": "On a sunny July 1994 morning on the red-brick pedestrian quad of Virginia Dominion University in Norfolk, nine-year-old Michael and seven-year-old Rachel walk side by side holding hands with their fingers laced together in matching blue VDU Summer Camp t-shirts, while fourteen-year-old Jessica walks right beside them pointing cheerfully toward the campus student center",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b001/jul_1994_vdu_childhood_summer_camp_michael_rachel_jessica.jpg",
+                                    "alt": "On a sunny July 1994 morning on the red-brick pedestrian quad of Virginia Dominion University in Norfolk, nine-year-old Michael and seven-year-old Rachel walk side by side holding hands with their fingers laced together in matching blue VDU Summer Camp t-shirts, while fourteen-year-old Jessica walks right beside them pointing cheerfully toward the campus student center"
                                 }
                             ],
                             "image_count": 1
@@ -675,7 +701,7 @@
             "era_num": 4,
             "era_title": "Middle School",
             "era_url": "/raggiesoft-books/books/rachel/middle-school",
-            "illustration_count": 5,
+            "illustration_count": 4,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -798,32 +824,6 @@
                             "url": "/rachel/middle-school/the-sunday-perimeter-sunday-may-16-1999/the-sleepover-calculation",
                             "date": "1999-05-16",
                             "start_time": "07:15"
-                        }
-                    ]
-                },
-                {
-                    "chap_num": 4,
-                    "chap_title": "Summer Camp at Virginia Dominion University",
-                    "chap_url": "/raggiesoft-books/books/rachel/middle-school/summer-camp-at-virginia-dominion-university",
-                    "illustration_count": 1,
-                    "parts": [
-                        {
-                            "part_num": 1,
-                            "part_title": "The Brick Walkways of Summer Camp: Mapping VDU with Rachel and Jessica",
-                            "file_path": "e004/c004/p001.md",
-                            "url": "/rachel/middle-school/summer-camp-at-virginia-dominion-university/the-brick-walkways-of-summer-camp-mapping-vdu-with-rachel-and-jessica",
-                            "date": "1999-07-12",
-                            "start_time": "08:45",
-                            "location": "Virginia Dominion University (VDU), Norfolk, VA",
-                            "image": "/raggiesoft-books/images/scenes/rachel/b004/jul_1999_vdu_childhood_summer_camp_michael_rachel_jessica.jpg",
-                            "image_alt": "On a sunny July 1999 morning on the red-brick pedestrian quad of Virginia Dominion University in Norfolk, eleven-year-old Michael and nine-year-old Rachel walk side by side holding hands with their fingers laced together in matching blue VDU Summer Camp t-shirts, while thirteen-year-old Jessica walks right beside them pointing cheerfully toward the campus student center",
-                            "images": [
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/rachel/b004/jul_1999_vdu_childhood_summer_camp_michael_rachel_jessica.jpg",
-                                    "alt": "On a sunny July 1999 morning on the red-brick pedestrian quad of Virginia Dominion University in Norfolk, eleven-year-old Michael and nine-year-old Rachel walk side by side holding hands with their fingers laced together in matching blue VDU Summer Camp t-shirts, while thirteen-year-old Jessica walks right beside them pointing cheerfully toward the campus student center"
-                                }
-                            ],
-                            "image_count": 1
                         }
                     ]
                 }
@@ -1676,6 +1676,32 @@
             "chapters": [
                 {
                     "chap_num": 1,
+                    "chap_title": "The High School Field Trip to VDU",
+                    "chap_url": "/raggiesoft-books/books/rachel/michael-s-senior-year/the-high-school-field-trip-to-vdu",
+                    "illustration_count": 1,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Walking the Old Camp Paths Alone & The Promise to Reunite First",
+                            "file_path": "e013/c001/p001.md",
+                            "url": "/rachel/michael-s-senior-year/the-high-school-field-trip-to-vdu/walking-the-old-camp-paths-alone-the-promise-to-reunite-first",
+                            "date": "2002-10-18",
+                            "start_time": "10:15",
+                            "location": "Virginia Dominion University (VDU), Norfolk, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b013/oct_2002_vdu_high_school_field_trip_tour_michael.jpg",
+                            "image_alt": "On a crisp October 2002 morning at Virginia Dominion University in Norfolk during a high school senior field trip, seventeen-year-old Michael walks near the back of his tour group across the red-brick plaza, looking thoughtfully toward the walkways where he, Rachel, and Jessica attended childhood summer camp together",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b013/oct_2002_vdu_high_school_field_trip_tour_michael.jpg",
+                                    "alt": "On a crisp October 2002 morning at Virginia Dominion University in Norfolk during a high school senior field trip, seventeen-year-old Michael walks near the back of his tour group across the red-brick plaza, looking thoughtfully toward the walkways where he, Rachel, and Jessica attended childhood summer camp together"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
                     "chap_title": "The Empty Shell",
                     "chap_url": "/raggiesoft-books/books/rachel/michael-s-senior-year/the-empty-shell",
                     "illustration_count": 1,
@@ -1683,7 +1709,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Last Morning & The Baldwin Briefing",
-                            "file_path": "e013/c001/p001.md",
+                            "file_path": "e013/c002/p001.md",
                             "url": "/rachel/michael-s-senior-year/the-empty-shell/part-1-the-last-morning-the-baldwin-briefing",
                             "date": "2003-07-14",
                             "start_time": "07:30",
@@ -1700,7 +1726,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Frictionless Trap & The Logistical Paradox",
-                            "file_path": "e013/c001/p002.md",
+                            "file_path": "e013/c002/p002.md",
                             "url": "/rachel/michael-s-senior-year/the-empty-shell/part-2-the-frictionless-trap-the-logistical-paradox",
                             "date": "2003-07-14",
                             "start_time": "09:15"
@@ -1708,7 +1734,7 @@
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Extraction Plan & The Bare Mechanics",
-                            "file_path": "e013/c001/p003.md",
+                            "file_path": "e013/c002/p003.md",
                             "url": "/rachel/michael-s-senior-year/the-empty-shell/part-3-the-extraction-plan-the-bare-mechanics",
                             "date": "2003-07-14",
                             "start_time": "19:30"
@@ -1716,7 +1742,7 @@
                     ]
                 },
                 {
-                    "chap_num": 2,
+                    "chap_num": 3,
                     "chap_title": "The Digital Mirage",
                     "chap_url": "/raggiesoft-books/books/rachel/michael-s-senior-year/the-digital-mirage",
                     "illustration_count": 0,
@@ -1724,7 +1750,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Best Tech Ambush & The Hardware Check",
-                            "file_path": "e013/c002/p001.md",
+                            "file_path": "e013/c003/p001.md",
                             "url": "/rachel/michael-s-senior-year/the-digital-mirage/part-1-the-best-tech-ambush-the-hardware-check",
                             "date": "2003-07-15",
                             "start_time": "13:15"
@@ -1732,7 +1758,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Holding Pattern & The On-Us Override",
-                            "file_path": "e013/c002/p002.md",
+                            "file_path": "e013/c003/p002.md",
                             "url": "/rachel/michael-s-senior-year/the-digital-mirage/part-2-the-holding-pattern-the-on-us-override",
                             "date": "2003-07-15",
                             "start_time": "15:15"
@@ -1740,7 +1766,7 @@
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Initial Provisioning & The New Parameter",
-                            "file_path": "e013/c002/p003.md",
+                            "file_path": "e013/c003/p003.md",
                             "url": "/rachel/michael-s-senior-year/the-digital-mirage/part-3-the-initial-provisioning-the-new-parameter",
                             "date": "2003-07-15",
                             "start_time": "18:30"
@@ -1748,7 +1774,7 @@
                     ]
                 },
                 {
-                    "chap_num": 3,
+                    "chap_num": 4,
                     "chap_title": "The Extraction",
                     "chap_url": "/raggiesoft-books/books/rachel/michael-s-senior-year/the-extraction",
                     "illustration_count": 0,
@@ -1756,36 +1782,10 @@
                         {
                             "part_num": 1,
                             "part_title": "The Morning Perimeter",
-                            "file_path": "e013/c003/p001.md",
+                            "file_path": "e013/c004/p001.md",
                             "url": "/rachel/michael-s-senior-year/the-extraction/the-morning-perimeter",
                             "date": "2003-07-16",
                             "start_time": "07:30"
-                        }
-                    ]
-                },
-                {
-                    "chap_num": 4,
-                    "chap_title": "The High School Field Trip to VDU",
-                    "chap_url": "/raggiesoft-books/books/rachel/michael-s-senior-year/the-high-school-field-trip-to-vdu",
-                    "illustration_count": 1,
-                    "parts": [
-                        {
-                            "part_num": 1,
-                            "part_title": "Walking the Old Camp Paths Alone & The Promise to Reunite First",
-                            "file_path": "e013/c004/p001.md",
-                            "url": "/rachel/michael-s-senior-year/the-high-school-field-trip-to-vdu/walking-the-old-camp-paths-alone-the-promise-to-reunite-first",
-                            "date": "2003-10-17",
-                            "start_time": "10:15",
-                            "location": "Virginia Dominion University (VDU), Norfolk, VA",
-                            "image": "/raggiesoft-books/images/scenes/rachel/b013/oct_2003_vdu_high_school_field_trip_tour_michael.jpg",
-                            "image_alt": "On a crisp October 2003 morning at Virginia Dominion University in Norfolk during a high school senior field trip, eighteen-year-old Michael walks near the back of his tour group across the red-brick plaza, looking thoughtfully toward the walkways where he, Rachel, and Jessica attended childhood summer camp together",
-                            "images": [
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/rachel/b013/oct_2003_vdu_high_school_field_trip_tour_michael.jpg",
-                                    "alt": "On a crisp October 2003 morning at Virginia Dominion University in Norfolk during a high school senior field trip, eighteen-year-old Michael walks near the back of his tour group across the red-brick plaza, looking thoughtfully toward the walkways where he, Rachel, and Jessica attended childhood summer camp together"
-                                }
-                            ],
-                            "image_count": 1
                         }
                     ]
                 }
