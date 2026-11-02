@@ -8,16 +8,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "67 MB",
-        "pdf": "70.9 MB",
+        "epub": "70.1 MB",
+        "pdf": "74 MB",
         "text_epub": "1.1 MB",
         "text_pdf": "3.1 MB",
-        "epub_bytes": 70264036,
-        "pdf_bytes": 74325704,
-        "text_epub_bytes": 1129056,
-        "text_pdf_bytes": 3203746
+        "epub_bytes": 73472615,
+        "pdf_bytes": 77583134,
+        "text_epub_bytes": 1133531,
+        "text_pdf_bytes": 3217498
     },
-    "illustration_count": 120,
+    "illustration_count": 124,
     "eras": [
         {
             "era_num": 1,
@@ -675,7 +675,7 @@
             "era_num": 4,
             "era_title": "Middle School",
             "era_url": "/raggiesoft-books/books/rachel/middle-school",
-            "illustration_count": 4,
+            "illustration_count": 5,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -798,6 +798,32 @@
                             "url": "/rachel/middle-school/the-sunday-perimeter-sunday-may-16-1999/the-sleepover-calculation",
                             "date": "1999-05-16",
                             "start_time": "07:15"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 4,
+                    "chap_title": "Summer Camp at Virginia Dominion University",
+                    "chap_url": "/raggiesoft-books/books/rachel/middle-school/summer-camp-at-virginia-dominion-university",
+                    "illustration_count": 1,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "The Brick Walkways of Summer Camp: Mapping VDU with Rachel and Jessica",
+                            "file_path": "e004/c004/p001.md",
+                            "url": "/rachel/middle-school/summer-camp-at-virginia-dominion-university/the-brick-walkways-of-summer-camp-mapping-vdu-with-rachel-and-jessica",
+                            "date": "1999-07-12",
+                            "start_time": "08:45",
+                            "location": "Virginia Dominion University (VDU), Norfolk, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b004/jul_1999_vdu_childhood_summer_camp_michael_rachel_jessica.jpg",
+                            "image_alt": "On a sunny July 1999 morning on the red-brick pedestrian quad of Virginia Dominion University in Norfolk, eleven-year-old Michael and nine-year-old Rachel walk side by side holding hands with their fingers laced together in matching blue VDU Summer Camp t-shirts, while thirteen-year-old Jessica walks right beside them pointing cheerfully toward the campus student center",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b004/jul_1999_vdu_childhood_summer_camp_michael_rachel_jessica.jpg",
+                                    "alt": "On a sunny July 1999 morning on the red-brick pedestrian quad of Virginia Dominion University in Norfolk, eleven-year-old Michael and nine-year-old Rachel walk side by side holding hands with their fingers laced together in matching blue VDU Summer Camp t-shirts, while thirteen-year-old Jessica walks right beside them pointing cheerfully toward the campus student center"
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
@@ -1646,7 +1672,7 @@
             "era_num": 13,
             "era_title": "Michael\u2019s Senior Year",
             "era_url": "/raggiesoft-books/books/rachel/michael-s-senior-year",
-            "illustration_count": 1,
+            "illustration_count": 2,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1734,6 +1760,32 @@
                             "url": "/rachel/michael-s-senior-year/the-extraction/the-morning-perimeter",
                             "date": "2003-07-16",
                             "start_time": "07:30"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 4,
+                    "chap_title": "The High School Field Trip to VDU",
+                    "chap_url": "/raggiesoft-books/books/rachel/michael-s-senior-year/the-high-school-field-trip-to-vdu",
+                    "illustration_count": 1,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Walking the Old Camp Paths Alone & The Promise to Reunite First",
+                            "file_path": "e013/c004/p001.md",
+                            "url": "/rachel/michael-s-senior-year/the-high-school-field-trip-to-vdu/walking-the-old-camp-paths-alone-the-promise-to-reunite-first",
+                            "date": "2003-10-17",
+                            "start_time": "10:15",
+                            "location": "Virginia Dominion University (VDU), Norfolk, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b013/oct_2003_vdu_high_school_field_trip_tour_michael.jpg",
+                            "image_alt": "On a crisp October 2003 morning at Virginia Dominion University in Norfolk during a high school senior field trip, eighteen-year-old Michael walks near the back of his tour group across the red-brick plaza, looking thoughtfully toward the walkways where he, Rachel, and Jessica attended childhood summer camp together",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b013/oct_2003_vdu_high_school_field_trip_tour_michael.jpg",
+                                    "alt": "On a crisp October 2003 morning at Virginia Dominion University in Norfolk during a high school senior field trip, eighteen-year-old Michael walks near the back of his tour group across the red-brick plaza, looking thoughtfully toward the walkways where he, Rachel, and Jessica attended childhood summer camp together"
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
@@ -3090,50 +3142,72 @@
             "era_num": 21,
             "era_title": "The GIH Pilot & The Heel Cord Surgery (2015\u20132016)",
             "era_url": "/raggiesoft-books/books/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016",
-            "illustration_count": 7,
+            "illustration_count": 9,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "From CCHR to VDU: The Upperclass GIH Pilot Apartment",
                     "chap_url": "/raggiesoft-books/books/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment",
-                    "illustration_count": 6,
+                    "illustration_count": 8,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Upperclass Credits from CCHR & Signing Up for VDU's Gender-Inclusive Housing Pilot in a Heartbeat",
+                            "part_title": "Part 1: The Spring Campus Tour, Remembering Summer Camp, & Asking Housing About the GIH Pilot",
                             "file_path": "e021/c001/p001.md",
-                            "url": "/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-1-upperclass-credits-from-cchr-signing-up-for-vdu-s-gender-inclusive-housing-pilot-in-a-heartbeat",
-                            "date": "2015-08-22",
-                            "start_time": "14:00",
-                            "location": "Moosewood Drive, Virginia Beach, VA & Virginia Dominion University (VDU), Norfolk, VA",
-                            "image": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_gih_pilot_upperclass_apartment_move_in.jpg",
-                            "image_alt": "Michael and Rachel standing side by side holding hands with their fingers laced together in their new 2-bedroom upperclass on-campus apartment at Virginia Dominion University in August 2015, wearing royal-blue and silver VDU t-shirts with both open bedroom doors and full-sized beds visible behind them",
+                            "url": "/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-1-the-spring-campus-tour-remembering-summer-camp-asking-housing-about-the-gih-pilot",
+                            "date": "2015-05-01",
+                            "start_time": "13:30",
+                            "location": "Virginia Dominion University (VDU), Norfolk, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/may_2015_vdu_spring_tour_housing_desk_gih_inquiry.jpg",
+                            "image_alt": "Inside the Virginia Dominion University Housing desk area during their May 2015 campus tour, Michael and Rachel stand side by side holding hands with their fingers laced together as a full-time VDU Housing staffer goes over the Dominion Village floor plans and Fall 2015 Gender-Inclusive Housing Pilot Program rules",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_gih_pilot_upperclass_apartment_move_in.jpg",
-                                    "alt": "Michael and Rachel standing side by side holding hands with their fingers laced together in their new 2-bedroom upperclass on-campus apartment at Virginia Dominion University in August 2015, wearing royal-blue and silver VDU t-shirts with both open bedroom doors and full-sized beds visible behind them"
-                                },
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_2bed_2bath_floorplan.jpg",
-                                    "alt": "Architectural floor plan of Michael and Rachel's ground-floor 2 Bed / 2 Bath on-campus apartment in Dominion Village at Virginia Dominion University (VDU)"
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/may_2015_vdu_spring_tour_housing_desk_gih_inquiry.jpg",
+                                    "alt": "Inside the Virginia Dominion University Housing desk area during their May 2015 campus tour, Michael and Rachel stand side by side holding hands with their fingers laced together as a full-time VDU Housing staffer goes over the Dominion Village floor plans and Fall 2015 Gender-Inclusive Housing Pilot Program rules"
                                 }
                             ],
-                            "image_count": 2
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Building's First GIH Pair, Double-Takes from Housing, & The 1st-Floor Laundry Room",
+                            "part_title": "Part 2: Move-In Day at 1016 Hampton House ('Building 2'), The 2 Bed / 2 Bath Floor Plan, & Alternating Beds",
                             "file_path": "e021/c001/p002.md",
-                            "url": "/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-2-the-building-s-first-gih-pair-double-takes-from-housing-the-1st-floor-laundry-room",
+                            "url": "/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-2-move-in-day-at-1016-hampton-house-building-2-the-2-bed-2-bath-floor-plan-alternating-beds",
+                            "date": "2015-08-22",
+                            "start_time": "14:00",
+                            "location": "1016 Hampton House ('Building 2'), Dominion Village, Virginia Dominion University, Norfolk, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_gih_pilot_upperclass_apartment_move_in.jpg",
+                            "image_alt": "Michael and Rachel standing barefoot in the living room of their ground-floor 2 Bed / 2 Bath apartment in Building 2 (1016 Hampton House) at Virginia Dominion University in August 2015, holding hands with their fingers laced together in matching blue VDU t-shirts with Bedroom 1 open on the left wall, Bedroom 2 open on the right wall, and the sofa and HVAC closet on the back wall",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_gih_pilot_upperclass_apartment_move_in.jpg",
+                                    "alt": "Michael and Rachel standing barefoot in the living room of their ground-floor 2 Bed / 2 Bath apartment in Building 2 (1016 Hampton House) at Virginia Dominion University in August 2015, holding hands with their fingers laced together in matching blue VDU t-shirts with Bedroom 1 open on the left wall, Bedroom 2 open on the right wall, and the sofa and HVAC closet on the back wall"
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_1016_hampton_house_building_2_exterior.jpg",
+                                    "alt": "Michael and Rachel walking hand-in-hand up the front walkway to the double entry doors of 1016 Hampton House (\"Building 2\") at Virginia Dominion University on move-in day in August 2015"
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_2bed_2bath_floorplan.jpg",
+                                    "alt": "Architectural floor plan of Michael and Rachel's ground-floor 2 Bed / 2 Bath on-campus apartment in Building 2 (Hampton House) at Virginia Dominion University (VDU)"
+                                }
+                            ],
+                            "image_count": 3
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Only GIH Pair in Building 2 (Hampton House), The RA's Look in the Hallway, & The 1st-Floor Laundry Room",
+                            "file_path": "e021/c001/p003.md",
+                            "url": "/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-3-the-only-gih-pair-in-building-2-hampton-house-the-ra-s-look-in-the-hallway-the-1st-floor-laundry-room",
                             "date": "2015-08-25",
                             "start_time": "19:30",
-                            "location": "Dominion Village (1st-Floor Hallway & Laundry Room), Virginia Dominion University, Norfolk, VA",
+                            "location": "Building 2 (1016 Hampton House \u2014 1st-Floor Hallway & Laundry Room), Virginia Dominion University, Norfolk, VA",
                             "image": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_first_gih_building_hallway_laundry.jpg",
-                            "image_alt": "Walking down the ground-floor interior hallway of their Dominion Village building toward the 1st-floor laundry room with 5 washers and 6 dryers, Michael and Rachel hold hands with their fingers laced together and lean warmly against each other like a romantic couple while a VDU Housing RA pauses with a polite double-take",
+                            "image_alt": "Walking down the ground-floor interior hallway of Building 2 (1016 Hampton House) toward the 1st-floor laundry room with 5 washers and 6 dryers, Michael and Rachel hold hands with their fingers laced together and lean warmly against each other like a romantic couple while the building RA pauses in the hallway with a stunned double-take",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_first_gih_building_hallway_laundry.jpg",
-                                    "alt": "Walking down the ground-floor interior hallway of their Dominion Village building toward the 1st-floor laundry room with 5 washers and 6 dryers, Michael and Rachel hold hands with their fingers laced together and lean warmly against each other like a romantic couple while a VDU Housing RA pauses with a polite double-take"
+                                    "alt": "Walking down the ground-floor interior hallway of Building 2 (1016 Hampton House) toward the 1st-floor laundry room with 5 washers and 6 dryers, Michael and Rachel hold hands with their fingers laced together and lean warmly against each other like a romantic couple while the building RA pauses in the hallway with a stunned double-take"
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_1bed_1bath_floorplan.jpg",
