@@ -8,16 +8,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "63.6 MB",
-        "pdf": "67.4 MB",
+        "epub": "64.9 MB",
+        "pdf": "68.7 MB",
         "text_epub": "1.1 MB",
         "text_pdf": "3 MB",
-        "epub_bytes": 66727334,
-        "pdf_bytes": 70666404,
-        "text_epub_bytes": 1116308,
-        "text_pdf_bytes": 3167855
+        "epub_bytes": 68055228,
+        "pdf_bytes": 72028946,
+        "text_epub_bytes": 1124939,
+        "text_pdf_bytes": 3190258
     },
-    "illustration_count": 113,
+    "illustration_count": 115,
     "eras": [
         {
             "era_num": 1,
@@ -3088,6 +3088,66 @@
         },
         {
             "era_num": 21,
+            "era_title": "The GIH Pilot & The Heel Cord Surgery (2015\u20132016)",
+            "era_url": "/raggiesoft-books/books/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016",
+            "illustration_count": 2,
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "From CCHR to VDU: The Upperclass GIH Pilot Apartment",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment",
+                    "illustration_count": 1,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Upperclass Credits from CCHR & Signing Up for VDU's Gender-Inclusive Housing Pilot in a Heartbeat",
+                            "file_path": "e021/c001/p001.md",
+                            "url": "/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/upperclass-credits-from-cchr-signing-up-for-vdu-s-gender-inclusive-housing-pilot-in-a-heartbeat",
+                            "date": "2015-08-22",
+                            "start_time": "14:00",
+                            "location": "Moosewood Drive, Virginia Beach, VA & Virginia Dominion University (VDU), Norfolk, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_gih_pilot_upperclass_apartment_move_in.jpg",
+                            "image_alt": "Michael and Rachel standing side by side holding hands with their fingers laced together in their new 2-bedroom upperclass on-campus apartment at Virginia Dominion University in August 2015, wearing royal-blue and silver VDU t-shirts with both open bedroom doors and full-sized beds visible behind them",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_gih_pilot_upperclass_apartment_move_in.jpg",
+                                    "alt": "Michael and Rachel standing side by side holding hands with their fingers laced together in their new 2-bedroom upperclass on-campus apartment at Virginia Dominion University in August 2015, wearing royal-blue and silver VDU t-shirts with both open bedroom doors and full-sized beds visible behind them"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "Bilateral Achilles Heel Cord Lengthening & Cleared for CPI",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/bilateral-achilles-heel-cord-lengthening-cleared-for-cpi",
+                    "illustration_count": 1,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Bilateral Achilles Heel Cord Lengthening, Why Rachel Waited for Me, & Cleared to Travel to CPI",
+                            "file_path": "e021/c002/p001.md",
+                            "url": "/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/bilateral-achilles-heel-cord-lengthening-cleared-for-cpi/bilateral-achilles-heel-cord-lengthening-why-rachel-waited-for-me-cleared-to-travel-to-cpi",
+                            "date": "2016-02-10",
+                            "start_time": "10:30",
+                            "location": "Hampton Roads Orthopedic Clinic & Moosewood Drive, Virginia Beach, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/feb_2016_achilles_clearance_for_cpi_saacurc_travel.jpg",
+                            "image_alt": "In a bright orthopedic clinic exam room in early February 2016, Michael sits comfortably on the exam bench while Rachel stands right beside him holding his hand with their fingers laced together, as his orthopedic surgeon smiles with his medical chart and clears Michael to travel to CPI in Blacksburg using the blue manual wheelchair beside the wall",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/feb_2016_achilles_clearance_for_cpi_saacurc_travel.jpg",
+                                    "alt": "In a bright orthopedic clinic exam room in early February 2016, Michael sits comfortably on the exam bench while Rachel stands right beside him holding his hand with their fingers laced together, as his orthopedic surgeon smiles with his medical chart and clears Michael to travel to CPI in Blacksburg using the blue manual wheelchair beside the wall"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "era_num": 22,
             "era_title": "The Mountain Conference (SAACURC 2016)",
             "era_url": "/raggiesoft-books/books/rachel/the-mountain-conference-saacurc-2016",
             "illustration_count": 3,
@@ -3101,7 +3161,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Friday Arrival, The Commonwealth Mall Curb, & The ADA Suite at The Hotel at Poly",
-                            "file_path": "e021/c001/p001.md",
+                            "file_path": "e022/c001/p001.md",
                             "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-the-commonwealth-mall-curb-the-ada-suite-at-the-hotel-at-poly",
                             "date": "2016-02-12",
                             "start_time": "16:00",
@@ -3119,7 +3179,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Saturday at SAACURC: The Clothespin Gauntlet & The GIH Pilot Roundtable",
-                            "file_path": "e021/c001/p002.md",
+                            "file_path": "e022/c001/p002.md",
                             "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-2-saturday-at-saacurc-the-clothespin-gauntlet-the-gih-pilot-roundtable",
                             "date": "2016-02-13",
                             "start_time": "09:00",
@@ -3137,7 +3197,7 @@
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Sunday Wrap-Up: Closing Lunch, Awards Ceremony, & Home to Norfolk",
-                            "file_path": "e021/c001/p003.md",
+                            "file_path": "e022/c001/p003.md",
                             "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-3-sunday-wrap-up-closing-lunch-awards-ceremony-home-to-norfolk",
                             "date": "2016-02-14",
                             "start_time": "11:30",
@@ -3157,7 +3217,7 @@
             ]
         },
         {
-            "era_num": 22,
+            "era_num": 23,
             "era_title": "Behind the Wheel: 55 MPH on Ferrell Parkway (Summer 2016)",
             "era_url": "/raggiesoft-books/books/rachel/behind-the-wheel-55-mph-on-ferrell-parkway-summer-2016",
             "illustration_count": 3,
@@ -3171,7 +3231,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Ellen's Gift, Upgrading from State IDs, & Passing the DMV Knowledge Test on the First Try",
-                            "file_path": "e022/c001/p001.md",
+                            "file_path": "e023/c001/p001.md",
                             "url": "/rachel/behind-the-wheel-55-mph-on-ferrell-parkway-summer-2016/the-dmv-knowledge-test-55-mph-on-session-one/part-1-ellen-s-gift-upgrading-from-state-ids-passing-the-dmv-knowledge-test-on-the-first-try",
                             "date": "2016-06-14",
                             "start_time": "10:00",
@@ -3189,7 +3249,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Session One: Fifty-Five Miles Per Hour on Ferrell Parkway",
-                            "file_path": "e022/c001/p002.md",
+                            "file_path": "e023/c001/p002.md",
                             "url": "/rachel/behind-the-wheel-55-mph-on-ferrell-parkway-summer-2016/the-dmv-knowledge-test-55-mph-on-session-one/part-2-session-one-fifty-five-miles-per-hour-on-ferrell-parkway",
                             "date": "2016-06-21",
                             "start_time": "13:00",
@@ -3215,7 +3275,7 @@
                         {
                             "part_num": 1,
                             "part_title": "45 MPH on the Kempsville & Lynnhaven Curves & Passing the Road Test on the First Try",
-                            "file_path": "e022/c002/p001.md",
+                            "file_path": "e023/c002/p001.md",
                             "url": "/rachel/behind-the-wheel-55-mph-on-ferrell-parkway-summer-2016/the-45-mph-curves-passing-the-road-test-on-the-first-try/45-mph-on-the-kempsville-lynnhaven-curves-passing-the-road-test-on-the-first-try",
                             "date": "2016-07-19",
                             "start_time": "14:00",
@@ -3235,7 +3295,7 @@
             ]
         },
         {
-            "era_num": 23,
+            "era_num": 24,
             "era_title": "Thanksgiving in Luray & The Court Square Crosswalk (November 2017)",
             "era_url": "/raggiesoft-books/books/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017",
             "illustration_count": 3,
@@ -3249,7 +3309,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Borrowing Mom's Car, Thanksgiving with Terry in Luray, & The Single-Queen Bed on US-211",
-                            "file_path": "e023/c001/p001.md",
+                            "file_path": "e024/c001/p001.md",
                             "url": "/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017/thanksgiving-in-the-page-valley-u-s-route-211-dinner-with-terry-the-single-queen-sanctuary/borrowing-mom-s-car-thanksgiving-with-terry-in-luray-the-single-queen-bed-on-us-211",
                             "date": "2017-11-23",
                             "start_time": "14:30",
@@ -3275,7 +3335,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The VDOT Message Board (MM 244), Exit 251 onto Southbound US-11, & Rear-Ended at the Harrisonburg Courthouse Crosswalk",
-                            "file_path": "e023/c002/p001.md",
+                            "file_path": "e024/c002/p001.md",
                             "url": "/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017/the-sunday-return-exit-251-court-square-us-11-at-us-33-the-call-to-mom/part-1-the-vdot-message-board-mm-244-exit-251-onto-southbound-us-11-rear-ended-at-the-harrisonburg-courthouse-crosswalk",
                             "date": "2017-11-26",
                             "start_time": "13:15",
@@ -3293,7 +3353,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Scared of Getting in Trouble, Calling Ellen, & Rejoining I-81 South at Exit 243",
-                            "file_path": "e023/c002/p002.md",
+                            "file_path": "e024/c002/p002.md",
                             "url": "/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017/the-sunday-return-exit-251-court-square-us-11-at-us-33-the-call-to-mom/part-2-scared-of-getting-in-trouble-calling-ellen-rejoining-i-81-south-at-exit-243",
                             "date": "2017-11-26",
                             "start_time": "14:05",
@@ -3313,7 +3373,7 @@
             ]
         },
         {
-            "era_num": 24,
+            "era_num": 25,
             "era_title": "The 2020 Horizon Avalon (February 2020)",
             "era_url": "/raggiesoft-books/books/rachel/the-2020-horizon-avalon-february-2020",
             "illustration_count": 6,
@@ -3327,7 +3387,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: January 2020 Train Tickets, The Rainy Bus Stop, & Anchor Federal Credit Union",
-                            "file_path": "e024/c001/p001.md",
+                            "file_path": "e025/c001/p001.md",
                             "url": "/rachel/the-2020-horizon-avalon-february-2020/anchor-federal-credit-union-the-five-accounts/part-1-january-2020-train-tickets-the-rainy-bus-stop-anchor-federal-credit-union",
                             "date": "2020-02-08",
                             "start_time": "10:00",
@@ -3345,7 +3405,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Command Center Reconnaissance: Comparing Four Family Sedans",
-                            "file_path": "e024/c001/p002.md",
+                            "file_path": "e025/c001/p002.md",
                             "url": "/rachel/the-2020-horizon-avalon-february-2020/anchor-federal-credit-union-the-five-accounts/part-2-command-center-reconnaissance-comparing-four-family-sedans",
                             "date": "2020-02-09",
                             "start_time": "14:00",
@@ -3371,7 +3431,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Stop 1 (Holt Automotive): Holding Hands, The 'Husband & Wife' Assumption, & Dismissing Rachel's Voice",
-                            "file_path": "e024/c002/p001.md",
+                            "file_path": "e025/c002/p001.md",
                             "url": "/rachel/the-2020-horizon-avalon-february-2020/the-dealership-gauntlet-you-and-the-missus-the-four-square-trap-the-addendum-markup/part-1-stop-1-holt-automotive-holding-hands-the-husband-wife-assumption-dismissing-rachel-s-voice",
                             "date": "2020-02-15",
                             "start_time": "10:15",
@@ -3389,7 +3449,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Stops 2 & 3 (Summit Motors & Coastal Horizon): The Four-Square Financing Trap, Test-Driving the Avalon, & Reverse-Engineering the Out-the-Door Price",
-                            "file_path": "e024/c002/p002.md",
+                            "file_path": "e025/c002/p002.md",
                             "url": "/rachel/the-2020-horizon-avalon-february-2020/the-dealership-gauntlet-you-and-the-missus-the-four-square-trap-the-addendum-markup/part-2-stops-2-3-summit-motors-coastal-horizon-the-four-square-financing-trap-test-driving-the-avalon-reverse-engineering-the-out-the-door-price",
                             "date": "2020-02-15",
                             "start_time": "11:45",
@@ -3415,7 +3475,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Stop 4 (Bayside Horizon): Treating Brother & Sister as Equals & The Clean Out-the-Door Buyer's Order",
-                            "file_path": "e024/c003/p001.md",
+                            "file_path": "e025/c003/p001.md",
                             "url": "/rachel/the-2020-horizon-avalon-february-2020/bayside-horizon-equal-co-owners-cashier-s-check-two-sets-of-keys/part-1-stop-4-bayside-horizon-treating-brother-sister-as-equals-the-clean-out-the-door-buyer-s-order",
                             "date": "2020-02-15",
                             "start_time": "15:15",
@@ -3433,7 +3493,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Cashier's Check, Joint Virginia Title (VSA 17A), & Driving Our Avalon Home",
-                            "file_path": "e024/c003/p002.md",
+                            "file_path": "e025/c003/p002.md",
                             "url": "/rachel/the-2020-horizon-avalon-february-2020/bayside-horizon-equal-co-owners-cashier-s-check-two-sets-of-keys/part-2-the-cashier-s-check-joint-virginia-title-vsa-17a-driving-our-avalon-home",
                             "date": "2020-02-15",
                             "start_time": "16:15",
@@ -3453,7 +3513,7 @@
             ]
         },
         {
-            "era_num": 25,
+            "era_num": 26,
             "era_title": "Code Susquehanna",
             "era_url": "/raggiesoft-books/books/rachel/code-susquehanna",
             "illustration_count": 8,
@@ -3467,7 +3527,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: 5:55 PM: Five Minutes to Clock-Out & The Parking Lot Hand-Off",
-                            "file_path": "e025/c001/p001.md",
+                            "file_path": "e026/c001/p001.md",
                             "url": "/rachel/code-susquehanna/the-wall-behind-the-desk-spring-2024-fall-2025/part-1-5-55-pm-five-minutes-to-clock-out-the-parking-lot-hand-off",
                             "date": "2024-03-13",
                             "start_time": "17:55",
@@ -3485,7 +3545,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: 6:25 PM: Crying in Rachel's Arms & The Secret Pact",
-                            "file_path": "e025/c001/p002.md",
+                            "file_path": "e026/c001/p002.md",
                             "url": "/rachel/code-susquehanna/the-wall-behind-the-desk-spring-2024-fall-2025/part-2-6-25-pm-crying-in-rachel-s-arms-the-secret-pact",
                             "date": "2024-03-13",
                             "start_time": "18:25",
@@ -3503,7 +3563,7 @@
                         {
                             "part_num": 3,
                             "part_title": "Part 3: April 19, 2024: Ms. Susan, The Mutual Double-Take, & Anthony's Tape Review",
-                            "file_path": "e025/c001/p003.md",
+                            "file_path": "e026/c001/p003.md",
                             "url": "/rachel/code-susquehanna/the-wall-behind-the-desk-spring-2024-fall-2025/part-3-april-19-2024-ms-susan-the-mutual-double-take-anthony-s-tape-review",
                             "date": "2024-04-19",
                             "start_time": "17:31",
@@ -3529,7 +3589,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: 7:29 PM: The Identical-Twin Digital Ambush & Rebooting into Safe Mode",
-                            "file_path": "e025/c002/p001.md",
+                            "file_path": "e026/c002/p001.md",
                             "url": "/rachel/code-susquehanna/twin-b-the-qu-b-cois-firewall-august-2026/part-1-7-29-pm-the-identical-twin-digital-ambush-rebooting-into-safe-mode",
                             "date": "2026-08-11",
                             "start_time": "19:29",
@@ -3547,7 +3607,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Engineering the Teflon Protocol, The Corporate We, & The 88 MPH Paradox",
-                            "file_path": "e025/c002/p002.md",
+                            "file_path": "e026/c002/p002.md",
                             "url": "/rachel/code-susquehanna/twin-b-the-qu-b-cois-firewall-august-2026/part-2-engineering-the-teflon-protocol-the-corporate-we-the-88-mph-paradox",
                             "date": "2026-08-15",
                             "start_time": "21:30",
@@ -3573,7 +3633,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: 7:16 PM: Code Susquehanna \u2014 Twin A & 'Unhandled Exception' on the Desk Speaker",
-                            "file_path": "e025/c003/p001.md",
+                            "file_path": "e026/c003/p001.md",
                             "url": "/rachel/code-susquehanna/7-16-pm-unhandled-exception-october-2-2026/part-1-7-16-pm-code-susquehanna-twin-a-unhandled-exception-on-the-desk-speaker",
                             "date": "2026-10-02",
                             "start_time": "19:16",
@@ -3591,7 +3651,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: 7:20 PM \u2013 8:00 PM: Status Yellow, The Back Office Count, & The Deliberate Look Away",
-                            "file_path": "e025/c003/p002.md",
+                            "file_path": "e026/c003/p002.md",
                             "url": "/rachel/code-susquehanna/7-16-pm-unhandled-exception-october-2-2026/part-2-7-20-pm-8-00-pm-status-yellow-the-back-office-count-the-deliberate-look-away",
                             "date": "2026-10-02",
                             "start_time": "19:20",
@@ -3609,7 +3669,7 @@
                         {
                             "part_num": 3,
                             "part_title": "Part 3: 9:00 PM: The Only Vault in the Universe",
-                            "file_path": "e025/c003/p003.md",
+                            "file_path": "e026/c003/p003.md",
                             "url": "/rachel/code-susquehanna/7-16-pm-unhandled-exception-october-2-2026/part-3-9-00-pm-the-only-vault-in-the-universe",
                             "date": "2026-10-02",
                             "start_time": "21:00",
