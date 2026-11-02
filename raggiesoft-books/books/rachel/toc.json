@@ -8,14 +8,14 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "49.1 MB",
-        "pdf": "52.6 MB",
+        "epub": "49.2 MB",
+        "pdf": "52.5 MB",
         "text_epub": "1019 KB",
         "text_pdf": "2.8 MB",
-        "epub_bytes": 51522931,
-        "pdf_bytes": 55130313,
-        "text_epub_bytes": 1043342,
-        "text_pdf_bytes": 2945430
+        "epub_bytes": 51585732,
+        "pdf_bytes": 55042027,
+        "text_epub_bytes": 1043404,
+        "text_pdf_bytes": 2945545
     },
     "illustration_count": 85,
     "eras": [
@@ -106,11 +106,11 @@
                             "date": "1993-12-23",
                             "start_time": "14:30",
                             "image": "/raggiesoft-books/images/scenes/rachel/b001/izumi_bantam_cab_1993.jpg",
-                            "image_alt": "Tom Ragsdale driving his compact red pickup truck while eight-year-old Michael holds six-year-old Rachel on his lap singing along to the radio and thirteen-year-old Jessica smiles from the passenger seat.",
+                            "image_alt": "Inside the cab of the red 1989 Izumi Bantam pickup truck, eight-year-old Michael holds six-year-old Rachel on his lap as both enthusiastically belt out Arthur Sterling's 'The Bitch is on the Loose' (Rachel non-verbally), while thirteen-year-old Jessica watches them with a knowing older-sibling expression and Tom glances over with an embarrassed, sheepish smirk at the loophole he created by picking the radio station.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b001/izumi_bantam_cab_1993.jpg",
-                                    "alt": "Tom Ragsdale driving his compact red pickup truck while eight-year-old Michael holds six-year-old Rachel on his lap singing along to the radio and thirteen-year-old Jessica smiles from the passenger seat."
+                                    "alt": "Inside the cab of the red 1989 Izumi Bantam pickup truck, eight-year-old Michael holds six-year-old Rachel on his lap as both enthusiastically belt out Arthur Sterling's 'The Bitch is on the Loose' (Rachel non-verbally), while thirteen-year-old Jessica watches them with a knowing older-sibling expression and Tom glances over with an embarrassed, sheepish smirk at the loophole he created by picking the radio station."
                                 }
                             ],
                             "image_count": 1
