@@ -9,13 +9,13 @@
     "next_series_url": "",
     "ebook_sizes": {
         "epub": "20 KB",
-        "pdf": "71 KB",
+        "pdf": "72 KB",
         "text_epub": "20 KB",
-        "text_pdf": "71 KB",
-        "epub_bytes": 20273,
-        "pdf_bytes": 73061,
-        "text_epub_bytes": 20272,
-        "text_pdf_bytes": 73061
+        "text_pdf": "72 KB",
+        "epub_bytes": 20323,
+        "pdf_bytes": 73855,
+        "text_epub_bytes": 20317,
+        "text_pdf_bytes": 73855
     },
     "illustration_count": 0,
     "eras": [
@@ -38,7 +38,8 @@
                             "url": "/erin/before-the-distance-the-story-of-john-erin/seconds-into-thunder/part-1-the-three-minute-bell",
                             "date": "2004-09-17",
                             "start_time": "19:00",
-                            "location": "Kincaid Hall Second-Floor Lounge, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
+                            "location": "Kincaid Hall Second-Floor Lounge, Commonwealth Polytechnic Institute, Blacksburg, Virginia",
+                            "excerpt": "The dual-motor drive base of John's power wheelchair hummed in a steady, low-frequency harmony with Erin's chair beside him as they crested the final paved incline leading up from the Commonwealth Green to the\u2026"
                         },
                         {
                             "part_num": 2,
@@ -47,7 +48,8 @@
                             "url": "/erin/before-the-distance-the-story-of-john-erin/seconds-into-thunder/part-2-table-four",
                             "date": "2004-09-17",
                             "start_time": "19:20",
-                            "location": "Kincaid Hall Second-Floor Lounge, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
+                            "location": "Kincaid Hall Second-Floor Lounge, Commonwealth Polytechnic Institute, Blacksburg, Virginia",
+                            "excerpt": "A woman in a fitted black leather jacket stepped into the open space opposite Table 4 and pulled out the wooden chair across from John's power wheelchair. Unlike the previous three students, who had glanced\u2026"
                         }
                     ]
                 },
@@ -64,7 +66,8 @@
                             "url": "/erin/before-the-distance-the-story-of-john-erin/before-the-distance/part-1-the-frayed-mask",
                             "date": "2004-11-18",
                             "start_time": "17:15",
-                            "location": "Commonwealth Mall (Beneath The Keystone Bridge), Commonwealth Polytechnic Institute, Blacksburg, Virginia"
+                            "location": "Commonwealth Mall (Beneath The Keystone Bridge), Commonwealth Polytechnic Institute, Blacksburg, Virginia",
+                            "excerpt": "Cold November rain slanted sideways across Commonwealth Mall, drumming against a wall of umbrellas and pooling in dark, diesel-streaked puddles along the granite curb beneath the vaulted Ironstone arch of The\u2026"
                         },
                         {
                             "part_num": 2,
@@ -73,7 +76,8 @@
                             "url": "/erin/before-the-distance-the-story-of-john-erin/before-the-distance/part-2-when-the-steel-doors-close",
                             "date": "2004-11-18",
                             "start_time": "17:30",
-                            "location": "Commonwealth Mall Bus Lineup (Beneath The Keystone Bridge), Blacksburg, Virginia"
+                            "location": "Commonwealth Mall Bus Lineup (Beneath The Keystone Bridge), Blacksburg, Virginia",
+                            "excerpt": "At the curb directly beside them, a sixty-foot articulated Blue Ridge Transit coach hissed to a stop in the bumper-to-bumper lineup along Commonwealth Mall. Its amber overhead LED sign glowed through the sheets\u2026"
                         }
                     ]
                 },
@@ -90,7 +94,8 @@
                             "url": "/erin/before-the-distance-the-story-of-john-erin/sanctuary-in-the-storm/the-locked-perimeter",
                             "date": "2004-11-18",
                             "start_time": "17:35",
-                            "location": "Sidewalk from Commonwealth Mall to Progress Street NE, Blacksburg, Virginia"
+                            "location": "Sidewalk from Commonwealth Mall to Progress Street NE, Blacksburg, Virginia",
+                            "excerpt": "As the first articulated coach pulled away from the granite curb in a cloud of diesel spray, a second Blue Ridge Transit bus immediately rolled forward to take its place along the Commonwealth Mall sidewalk, its\u2026"
                         }
                     ]
                 },
@@ -107,7 +112,8 @@
                             "url": "/erin/before-the-distance-the-story-of-john-erin/not-her/the-practiced-smile",
                             "date": "2005-04-08",
                             "start_time": "21:30",
-                            "location": "Kincaid Hall East Colonnade, Commonwealth Polytechnic Institute, Blacksburg, Virginia"
+                            "location": "Kincaid Hall East Colonnade, Commonwealth Polytechnic Institute, Blacksburg, Virginia",
+                            "excerpt": "Spring arrived late on the plateau, trading November's sleet for warm April rain that smelled of wet Ironstone and blooming dogwoods along Commonwealth Mall. It was nine-thirty on a Friday night outside the\u2026"
                         }
                     ]
                 }
