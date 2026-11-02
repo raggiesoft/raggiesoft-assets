@@ -8,16 +8,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "70 MB",
-        "pdf": "74 MB",
+        "epub": "71.6 MB",
+        "pdf": "75.6 MB",
         "text_epub": "1.1 MB",
         "text_pdf": "3.1 MB",
-        "epub_bytes": 73368064,
-        "pdf_bytes": 77553481,
-        "text_epub_bytes": 1134909,
-        "text_pdf_bytes": 3220415
+        "epub_bytes": 75040459,
+        "pdf_bytes": 79281119,
+        "text_epub_bytes": 1145536,
+        "text_pdf_bytes": 3251337
     },
-    "illustration_count": 124,
+    "illustration_count": 126,
     "eras": [
         {
             "era_num": 1,
@@ -3017,7 +3017,7 @@
             "era_num": 20,
             "era_title": "The Director's Perimeter",
             "era_url": "/raggiesoft-books/books/rachel/the-director-s-perimeter",
-            "illustration_count": 5,
+            "illustration_count": 7,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -3130,6 +3130,50 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b020/june_upgrade_official_pack_3701.jpg",
                                     "alt": "Michael, Kristin, Rachel, Ashley, and Jessica together in the living room of 3701 Canadian Arch after the June Upgrade"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 5,
+                    "chap_title": "The Courtyard CEO & The Zero-Proof Pavilion (2014)",
+                    "chap_url": "/raggiesoft-books/books/rachel/the-director-s-perimeter/the-courtyard-ceo-the-zero-proof-pavilion-2014",
+                    "illustration_count": 2,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Building 35 Pipeline, The Rotor Wash, & The Floorboards Speech",
+                            "file_path": "e020/c005/p001.md",
+                            "url": "/rachel/the-director-s-perimeter/the-courtyard-ceo-the-zero-proof-pavilion-2014/part-1-the-building-35-pipeline-the-rotor-wash-the-floorboards-speech",
+                            "date": "2014-02-14",
+                            "start_time": "08:15",
+                            "location": "Redmond, WA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b020/feb_2014_keswick_auditorium_cassandra_ceo_handover.jpg",
+                            "image_alt": "Jessica Ragsdale in her manual wheelchair alongside Michael, Rachel, Kristin, and Ashley applauding Cassandra Vance receiving the brass master key to Building 33 on the William Keswick Auditorium stage",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b020/feb_2014_keswick_auditorium_cassandra_ceo_handover.jpg",
+                                    "alt": "Jessica Ragsdale in her manual wheelchair alongside Michael, Rachel, Kristin, and Ashley applauding Cassandra Vance receiving the brass master key to Building 33 on the William Keswick Auditorium stage"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Zero-Proof Pavilion, The Sovereign Workstation, & The Transit Pledge",
+                            "file_path": "e020/c005/p002.md",
+                            "url": "/rachel/the-director-s-perimeter/the-courtyard-ceo-the-zero-proof-pavilion-2014/part-2-the-zero-proof-pavilion-the-sovereign-workstation-the-transit-pledge",
+                            "date": "2014-02-14",
+                            "start_time": "12:00",
+                            "location": "Redmond, WA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b020/feb_2014_zero_proof_pavilion_cassandra_jessica_pack.jpg",
+                            "image_alt": "Cassandra Vance and Jessica Ragsdale in their manual wheelchairs at the Zero-Proof Pavilion wooden table with Jessica Taylor, Kelly and Ryan Madsen, and Michael, Rachel, Kristin, and Ashley nearby",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b020/feb_2014_zero_proof_pavilion_cassandra_jessica_pack.jpg",
+                                    "alt": "Cassandra Vance and Jessica Ragsdale in their manual wheelchairs at the Zero-Proof Pavilion wooden table with Jessica Taylor, Kelly and Ryan Madsen, and Michael, Rachel, Kristin, and Ashley nearby"
                                 }
                             ],
                             "image_count": 1
