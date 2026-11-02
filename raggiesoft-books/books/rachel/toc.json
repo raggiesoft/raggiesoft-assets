@@ -8,16 +8,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "59.3 MB",
-        "pdf": "62.9 MB",
-        "text_epub": "1 MB",
+        "epub": "61.6 MB",
+        "pdf": "65.3 MB",
+        "text_epub": "1.1 MB",
         "text_pdf": "3 MB",
-        "epub_bytes": 62137796,
-        "pdf_bytes": 65959196,
-        "text_epub_bytes": 1094293,
-        "text_pdf_bytes": 3109318
+        "epub_bytes": 64560282,
+        "pdf_bytes": 68424046,
+        "text_epub_bytes": 1105032,
+        "text_pdf_bytes": 3137363
     },
-    "illustration_count": 107,
+    "illustration_count": 110,
     "eras": [
         {
             "era_num": 1,
@@ -3158,6 +3158,84 @@
         },
         {
             "era_num": 22,
+            "era_title": "Thanksgiving in Luray & The Court Square Crosswalk (November 2017)",
+            "era_url": "/raggiesoft-books/books/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017",
+            "illustration_count": 3,
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Thanksgiving in the Page Valley: U.S. Route 211, Dinner with Terry, & The Single-Queen Sanctuary",
+                    "chap_url": "/raggiesoft-books/books/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017/thanksgiving-in-the-page-valley-u-s-route-211-dinner-with-terry-the-single-queen-sanctuary",
+                    "illustration_count": 1,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Borrowing Mom's Car, Thanksgiving with Terry in Luray, & The Single-Queen Bed on US-211",
+                            "file_path": "e022/c001/p001.md",
+                            "url": "/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017/thanksgiving-in-the-page-valley-u-s-route-211-dinner-with-terry-the-single-queen-sanctuary/borrowing-mom-s-car-thanksgiving-with-terry-in-luray-the-single-queen-bed-on-us-211",
+                            "date": "2017-11-23",
+                            "start_time": "14:30",
+                            "location": "Luray, VA (Page Valley & U.S. Route 211)",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b022_luray_2017/nov_2017_luray_thanksgiving_terry_us211_motel.jpg",
+                            "image_alt": "On Thanksgiving afternoon in November 2017 in Luray, Virginia, Michael and Rachel hold hands with their fingers laced together as their friend Terry welcomes them onto her porch with the Blue Ridge Mountains rising in the background",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b022_luray_2017/nov_2017_luray_thanksgiving_terry_us211_motel.jpg",
+                                    "alt": "On Thanksgiving afternoon in November 2017 in Luray, Virginia, Michael and Rachel hold hands with their fingers laced together as their friend Terry welcomes them onto her porch with the Blue Ridge Mountains rising in the background"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "The Sunday Return: Exit 251, Court Square (US-11 at US-33), & The Call to Mom",
+                    "chap_url": "/raggiesoft-books/books/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017/the-sunday-return-exit-251-court-square-us-11-at-us-33-the-call-to-mom",
+                    "illustration_count": 2,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The VDOT Message Board (MM 244), Exit 251 onto Southbound US-11, & Rear-Ended at the Harrisonburg Courthouse Crosswalk",
+                            "file_path": "e022/c002/p001.md",
+                            "url": "/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017/the-sunday-return-exit-251-court-square-us-11-at-us-33-the-call-to-mom/part-1-the-vdot-message-board-mm-244-exit-251-onto-southbound-us-11-rear-ended-at-the-harrisonburg-courthouse-crosswalk",
+                            "date": "2017-11-26",
+                            "start_time": "13:15",
+                            "location": "I-81 South (Exit 251) & Court Square (US-11 South at US-33), Downtown Harrisonburg, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b022_luray_2017/nov_2017_harrisonburg_courthouse_crosswalk_deputy.jpg",
+                            "image_alt": "At Court Square in Downtown Harrisonburg where US-33 meets US-11 beside the historic courthouse, a Rockingham County Sheriff's Deputy with flashing blue lights takes a statement from two grateful crosswalk pedestrians and Michael and Rachel behind Ellen's rear-ended car while the panicked at-fault driver stands nearby",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b022_luray_2017/nov_2017_harrisonburg_courthouse_crosswalk_deputy.jpg",
+                                    "alt": "At Court Square in Downtown Harrisonburg where US-33 meets US-11 beside the historic courthouse, a Rockingham County Sheriff's Deputy with flashing blue lights takes a statement from two grateful crosswalk pedestrians and Michael and Rachel behind Ellen's rear-ended car while the panicked at-fault driver stands nearby"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Scared of Getting in Trouble, Calling Ellen, & Rejoining I-81 South at Exit 243",
+                            "file_path": "e022/c002/p002.md",
+                            "url": "/rachel/thanksgiving-in-luray-the-court-square-crosswalk-november-2017/the-sunday-return-exit-251-court-square-us-11-at-us-33-the-call-to-mom/part-2-scared-of-getting-in-trouble-calling-ellen-rejoining-i-81-south-at-exit-243",
+                            "date": "2017-11-26",
+                            "start_time": "14:05",
+                            "location": "Downtown Harrisonburg, VA (US-11 South to I-81 Exit 243)",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b022_luray_2017/nov_2017_calling_ellen_harrisonburg_nervous_wreck.jpg",
+                            "image_alt": "Parked near Court Square in Harrisonburg inside Ellen's car, Rachel holds Michael's trembling hand across the center console as a visibly anxious Michael talks to Mom (Ellen) on speakerphone with the Sheriff's Deputy's crash report resting on the dash",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b022_luray_2017/nov_2017_calling_ellen_harrisonburg_nervous_wreck.jpg",
+                                    "alt": "Parked near Court Square in Harrisonburg inside Ellen's car, Rachel holds Michael's trembling hand across the center console as a visibly anxious Michael talks to Mom (Ellen) on speakerphone with the Sheriff's Deputy's crash report resting on the dash"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "era_num": 23,
             "era_title": "The 2020 Horizon Avalon (February 2020)",
             "era_url": "/raggiesoft-books/books/rachel/the-2020-horizon-avalon-february-2020",
             "illustration_count": 6,
@@ -3171,7 +3249,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: January 2020 Train Tickets, The Rainy Bus Stop, & Anchor Federal Credit Union",
-                            "file_path": "e022/c001/p001.md",
+                            "file_path": "e023/c001/p001.md",
                             "url": "/rachel/the-2020-horizon-avalon-february-2020/anchor-federal-credit-union-the-five-accounts/part-1-january-2020-train-tickets-the-rainy-bus-stop-anchor-federal-credit-union",
                             "date": "2020-02-08",
                             "start_time": "10:00",
@@ -3189,7 +3267,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Command Center Reconnaissance: Comparing Four Family Sedans",
-                            "file_path": "e022/c001/p002.md",
+                            "file_path": "e023/c001/p002.md",
                             "url": "/rachel/the-2020-horizon-avalon-february-2020/anchor-federal-credit-union-the-five-accounts/part-2-command-center-reconnaissance-comparing-four-family-sedans",
                             "date": "2020-02-09",
                             "start_time": "14:00",
@@ -3215,7 +3293,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Stop 1 (Holt Automotive): Holding Hands, The 'Husband & Wife' Assumption, & Dismissing Rachel's Voice",
-                            "file_path": "e022/c002/p001.md",
+                            "file_path": "e023/c002/p001.md",
                             "url": "/rachel/the-2020-horizon-avalon-february-2020/the-dealership-gauntlet-you-and-the-missus-the-four-square-trap-the-addendum-markup/part-1-stop-1-holt-automotive-holding-hands-the-husband-wife-assumption-dismissing-rachel-s-voice",
                             "date": "2020-02-15",
                             "start_time": "10:15",
@@ -3233,7 +3311,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Stops 2 & 3 (Summit Motors & Coastal Horizon): The Four-Square Financing Trap, Test-Driving the Avalon, & Reverse-Engineering the Out-the-Door Price",
-                            "file_path": "e022/c002/p002.md",
+                            "file_path": "e023/c002/p002.md",
                             "url": "/rachel/the-2020-horizon-avalon-february-2020/the-dealership-gauntlet-you-and-the-missus-the-four-square-trap-the-addendum-markup/part-2-stops-2-3-summit-motors-coastal-horizon-the-four-square-financing-trap-test-driving-the-avalon-reverse-engineering-the-out-the-door-price",
                             "date": "2020-02-15",
                             "start_time": "11:45",
@@ -3259,7 +3337,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Stop 4 (Bayside Horizon): Treating Brother & Sister as Equals & The Clean Out-the-Door Buyer's Order",
-                            "file_path": "e022/c003/p001.md",
+                            "file_path": "e023/c003/p001.md",
                             "url": "/rachel/the-2020-horizon-avalon-february-2020/bayside-horizon-equal-co-owners-cashier-s-check-two-sets-of-keys/part-1-stop-4-bayside-horizon-treating-brother-sister-as-equals-the-clean-out-the-door-buyer-s-order",
                             "date": "2020-02-15",
                             "start_time": "15:15",
@@ -3277,7 +3355,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Cashier's Check, Joint Virginia Title (VSA 17A), & Driving Our Avalon Home",
-                            "file_path": "e022/c003/p002.md",
+                            "file_path": "e023/c003/p002.md",
                             "url": "/rachel/the-2020-horizon-avalon-february-2020/bayside-horizon-equal-co-owners-cashier-s-check-two-sets-of-keys/part-2-the-cashier-s-check-joint-virginia-title-vsa-17a-driving-our-avalon-home",
                             "date": "2020-02-15",
                             "start_time": "16:15",
@@ -3297,7 +3375,7 @@
             ]
         },
         {
-            "era_num": 23,
+            "era_num": 24,
             "era_title": "Code Susquehanna",
             "era_url": "/raggiesoft-books/books/rachel/code-susquehanna",
             "illustration_count": 8,
@@ -3311,7 +3389,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: 5:55 PM: Five Minutes to Clock-Out & The Parking Lot Hand-Off",
-                            "file_path": "e023/c001/p001.md",
+                            "file_path": "e024/c001/p001.md",
                             "url": "/rachel/code-susquehanna/the-wall-behind-the-desk-spring-2024-fall-2025/part-1-5-55-pm-five-minutes-to-clock-out-the-parking-lot-hand-off",
                             "date": "2024-03-13",
                             "start_time": "17:55",
@@ -3329,7 +3407,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: 6:25 PM: Crying in Rachel's Arms & The Secret Pact",
-                            "file_path": "e023/c001/p002.md",
+                            "file_path": "e024/c001/p002.md",
                             "url": "/rachel/code-susquehanna/the-wall-behind-the-desk-spring-2024-fall-2025/part-2-6-25-pm-crying-in-rachel-s-arms-the-secret-pact",
                             "date": "2024-03-13",
                             "start_time": "18:25",
@@ -3347,7 +3425,7 @@
                         {
                             "part_num": 3,
                             "part_title": "Part 3: April 19, 2024: Ms. Susan, The Mutual Double-Take, & Anthony's Tape Review",
-                            "file_path": "e023/c001/p003.md",
+                            "file_path": "e024/c001/p003.md",
                             "url": "/rachel/code-susquehanna/the-wall-behind-the-desk-spring-2024-fall-2025/part-3-april-19-2024-ms-susan-the-mutual-double-take-anthony-s-tape-review",
                             "date": "2024-04-19",
                             "start_time": "17:31",
@@ -3373,7 +3451,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: 7:29 PM: The Identical-Twin Digital Ambush & Rebooting into Safe Mode",
-                            "file_path": "e023/c002/p001.md",
+                            "file_path": "e024/c002/p001.md",
                             "url": "/rachel/code-susquehanna/twin-b-the-qu-b-cois-firewall-august-2026/part-1-7-29-pm-the-identical-twin-digital-ambush-rebooting-into-safe-mode",
                             "date": "2026-08-11",
                             "start_time": "19:29",
@@ -3391,7 +3469,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Engineering the Teflon Protocol, The Corporate We, & The 88 MPH Paradox",
-                            "file_path": "e023/c002/p002.md",
+                            "file_path": "e024/c002/p002.md",
                             "url": "/rachel/code-susquehanna/twin-b-the-qu-b-cois-firewall-august-2026/part-2-engineering-the-teflon-protocol-the-corporate-we-the-88-mph-paradox",
                             "date": "2026-08-15",
                             "start_time": "21:30",
@@ -3417,7 +3495,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: 7:16 PM: Code Susquehanna \u2014 Twin A & 'Unhandled Exception' on the Desk Speaker",
-                            "file_path": "e023/c003/p001.md",
+                            "file_path": "e024/c003/p001.md",
                             "url": "/rachel/code-susquehanna/7-16-pm-unhandled-exception-october-2-2026/part-1-7-16-pm-code-susquehanna-twin-a-unhandled-exception-on-the-desk-speaker",
                             "date": "2026-10-02",
                             "start_time": "19:16",
@@ -3435,7 +3513,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: 7:20 PM \u2013 8:00 PM: Status Yellow, The Back Office Count, & The Deliberate Look Away",
-                            "file_path": "e023/c003/p002.md",
+                            "file_path": "e024/c003/p002.md",
                             "url": "/rachel/code-susquehanna/7-16-pm-unhandled-exception-october-2-2026/part-2-7-20-pm-8-00-pm-status-yellow-the-back-office-count-the-deliberate-look-away",
                             "date": "2026-10-02",
                             "start_time": "19:20",
@@ -3453,7 +3531,7 @@
                         {
                             "part_num": 3,
                             "part_title": "Part 3: 9:00 PM: The Only Vault in the Universe",
-                            "file_path": "e023/c003/p003.md",
+                            "file_path": "e024/c003/p003.md",
                             "url": "/rachel/code-susquehanna/7-16-pm-unhandled-exception-october-2-2026/part-3-9-00-pm-the-only-vault-in-the-universe",
                             "date": "2026-10-02",
                             "start_time": "21:00",
