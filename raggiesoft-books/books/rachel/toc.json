@@ -8,16 +8,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "50 MB",
-        "pdf": "53.3 MB",
+        "epub": "54 MB",
+        "pdf": "57.5 MB",
         "text_epub": "1 MB",
         "text_pdf": "2.9 MB",
-        "epub_bytes": 52440519,
-        "pdf_bytes": 55874828,
-        "text_epub_bytes": 1066691,
-        "text_pdf_bytes": 3021236
+        "epub_bytes": 56640409,
+        "pdf_bytes": 60301947,
+        "text_epub_bytes": 1067115,
+        "text_pdf_bytes": 3022320
     },
-    "illustration_count": 97,
+    "illustration_count": 99,
     "eras": [
         {
             "era_num": 1,
@@ -3160,7 +3160,7 @@
             "era_num": 22,
             "era_title": "Code Susquehanna",
             "era_url": "/raggiesoft-books/books/rachel/code-susquehanna",
-            "illustration_count": 4,
+            "illustration_count": 6,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -3176,12 +3176,12 @@
                             "date": "2024-04-19",
                             "start_time": "17:31",
                             "location": "Fairlawn Recreation Center (2017 Building), Marlborough Drive, Virginia Beach, VA",
-                            "image": "/raggiesoft-books/images/scenes/rachel/b018/rachel_comforting_michael_sofa_3701.jpg",
-                            "image_alt": "Rachel holding Michael on the living room sofa at 3701 Canadian Arch\u2014the only person in his life who carries the secret of how deeply the memory of Heather still hurts him",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b022/april_2024_mutual_double_take_scan_station.jpg",
+                            "image_alt": "At the 2017 Fairlawn Recreation Center Scan Station under the soaring glulam timber roof, Michael in his royal blue polo shirt and Heather Bouchard lock eyes in a startled mutual double-take across the high counter while coworker Ms. Susan reaches for the handheld two-way radio",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/rachel_comforting_michael_sofa_3701.jpg",
-                                    "alt": "Rachel holding Michael on the living room sofa at 3701 Canadian Arch\u2014the only person in his life who carries the secret of how deeply the memory of Heather still hurts him"
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b022/april_2024_mutual_double_take_scan_station.jpg",
+                                    "alt": "At the 2017 Fairlawn Recreation Center Scan Station under the soaring glulam timber roof, Michael in his royal blue polo shirt and Heather Bouchard lock eyes in a startled mutual double-take across the high counter while coworker Ms. Susan reaches for the handheld two-way radio"
                                 }
                             ],
                             "image_count": 1
@@ -3202,12 +3202,12 @@
                             "date": "2026-08-11",
                             "start_time": "19:29",
                             "location": "Front Desk & Scan Station, Fairlawn Recreation Center, Virginia Beach, VA",
-                            "image": "/raggiesoft-books/images/scenes/rachel/b018/susquehanna_twin_magic_prank.jpg",
-                            "image_alt": "Flashback to the April 1, 2008 Twin Magic prank at Susquehanna Drive\u2014the last time Michael had seen Hailey Bouchard before her unexpected August 11, 2026 scan at Fairlawn Recreation Center",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b022/aug_2026_hailey_digital_ambush_729pm.jpg",
+                            "image_alt": "At 7:29 PM on August 11, 2026, Michael stands frozen behind the Fairlawn Recreation Center Adjacent Register in his royal blue polo shirt as Hailey Bouchard ('Twin B') scans her Adult Resident Annual pass across the high counter, presenting a 1:1 identical facial match for Heather after eighteen years",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/susquehanna_twin_magic_prank.jpg",
-                                    "alt": "Flashback to the April 1, 2008 Twin Magic prank at Susquehanna Drive\u2014the last time Michael had seen Hailey Bouchard before her unexpected August 11, 2026 scan at Fairlawn Recreation Center"
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b022/aug_2026_hailey_digital_ambush_729pm.jpg",
+                                    "alt": "At 7:29 PM on August 11, 2026, Michael stands frozen behind the Fairlawn Recreation Center Adjacent Register in his royal blue polo shirt as Hailey Bouchard ('Twin B') scans her Adult Resident Annual pass across the high counter, presenting a 1:1 identical facial match for Heather after eighteen years"
                                 }
                             ],
                             "image_count": 1
@@ -3220,12 +3220,12 @@
                             "date": "2026-08-15",
                             "start_time": "21:30",
                             "location": "The Command Center & Fairlawn Recreation Center, Virginia Beach, VA",
-                            "image": "/raggiesoft-books/images/scenes/rachel/b018/heather_forehead_birthmark_checksum_2008.jpg",
-                            "image_alt": "Flashback to April 1, 2008 on outbound CVTA Route 25 when Heather lifted her bangs to show Michael her tiny hairline freckle\u2014a visual checksum impossible to see across the 2026 Fairlawn Rec Center front desk until the barcode scans",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b022/aug_2026_command_center_code_susquehanna_firewall.jpg",
+                            "image_alt": "In the upstairs Command Center at night, Michael and Rachel sit side by side in their adjacent desk chairs with Rachel's hand resting warmly on Michael's forearm as they engineer the three-layer Code Susquehanna Firewall together",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/heather_forehead_birthmark_checksum_2008.jpg",
-                                    "alt": "Flashback to April 1, 2008 on outbound CVTA Route 25 when Heather lifted her bangs to show Michael her tiny hairline freckle\u2014a visual checksum impossible to see across the 2026 Fairlawn Rec Center front desk until the barcode scans"
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b022/aug_2026_command_center_code_susquehanna_firewall.jpg",
+                                    "alt": "In the upstairs Command Center at night, Michael and Rachel sit side by side in their adjacent desk chairs with Rachel's hand resting warmly on Michael's forearm as they engineer the three-layer Code Susquehanna Firewall together"
                                 }
                             ],
                             "image_count": 1
@@ -3236,22 +3236,58 @@
                     "chap_num": 3,
                     "chap_title": "7:16 PM: Unhandled Exception (October 2, 2026)",
                     "chap_url": "/raggiesoft-books/books/rachel/code-susquehanna/7-16-pm-unhandled-exception-october-2-2026",
-                    "illustration_count": 1,
+                    "illustration_count": 3,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Code Susquehanna \u2014 Twin A, The Desk Speaker, & Holding the Line at Status Yellow",
+                            "part_title": "Part 1: 7:16 PM: Code Susquehanna \u2014 Twin A & 'Unhandled Exception' on the Desk Speaker",
                             "file_path": "e022/c003/p001.md",
-                            "url": "/rachel/code-susquehanna/7-16-pm-unhandled-exception-october-2-2026/code-susquehanna-twin-a-the-desk-speaker-holding-the-line-at-status-yellow",
+                            "url": "/rachel/code-susquehanna/7-16-pm-unhandled-exception-october-2-2026/part-1-7-16-pm-code-susquehanna-twin-a-unhandled-exception-on-the-desk-speaker",
                             "date": "2026-10-02",
                             "start_time": "19:16",
-                            "location": "Front Desk, Scan Station, & Back Office, Fairlawn Recreation Center, Virginia Beach, VA",
-                            "image": "/raggiesoft-books/images/scenes/rachel/b018/rachel_comforting_michael_sofa_3701.jpg",
-                            "image_alt": "Rachel holding Michael in a grounding sibling hug at home\u2014the only person in the world who knows what happened at 7:16 PM on October 2, 2026 when Heather scanned in at Fairlawn Recreation Center",
+                            "location": "Front Desk & Scan Station, Fairlawn Recreation Center, Virginia Beach, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b022/oct_2026_716pm_unhandled_exception_bottleneck.jpg",
+                            "image_alt": "At 7:16 PM on Friday, October 2, 2026, Heather Bouchard ('Twin A') is held up in a brief check-in bottleneck at the Fairlawn Recreation Center Scan Station while coworker Tyler checks in a patron and Michael stands composed in his royal blue polo shirt beside the front desk employee speaker",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/rachel/b018/rachel_comforting_michael_sofa_3701.jpg",
-                                    "alt": "Rachel holding Michael in a grounding sibling hug at home\u2014the only person in the world who knows what happened at 7:16 PM on October 2, 2026 when Heather scanned in at Fairlawn Recreation Center"
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b022/oct_2026_716pm_unhandled_exception_bottleneck.jpg",
+                                    "alt": "At 7:16 PM on Friday, October 2, 2026, Heather Bouchard ('Twin A') is held up in a brief check-in bottleneck at the Fairlawn Recreation Center Scan Station while coworker Tyler checks in a patron and Michael stands composed in his royal blue polo shirt beside the front desk employee speaker"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: 7:20 PM \u2013 8:00 PM: Status Yellow, The Back Office Count, & The Deliberate Look Away",
+                            "file_path": "e022/c003/p002.md",
+                            "url": "/rachel/code-susquehanna/7-16-pm-unhandled-exception-october-2-2026/part-2-7-20-pm-8-00-pm-status-yellow-the-back-office-count-the-deliberate-look-away",
+                            "date": "2026-10-02",
+                            "start_time": "19:20",
+                            "location": "Front Desk, Back Office, & Main Lobby, Fairlawn Recreation Center, Virginia Beach, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b022/oct_2026_800pm_mutual_avoidance_exit.jpg",
+                            "image_alt": "At 8:00 PM Friday closing time at Fairlawn Recreation Center, Michael and Tyler stand behind the Front Desk in their royal blue polo shirts as Heather Bouchard walks out from behind the Weight Room wall toward the glass exit doors, recognizing Michael at the desk and deliberately averting her gaze",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b022/oct_2026_800pm_mutual_avoidance_exit.jpg",
+                                    "alt": "At 8:00 PM Friday closing time at Fairlawn Recreation Center, Michael and Tyler stand behind the Front Desk in their royal blue polo shirts as Heather Bouchard walks out from behind the Weight Room wall toward the glass exit doors, recognizing Michael at the desk and deliberately averting her gaze"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: 9:00 PM: The Only Vault in the Universe",
+                            "file_path": "e022/c003/p003.md",
+                            "url": "/rachel/code-susquehanna/7-16-pm-unhandled-exception-october-2-2026/part-3-9-00-pm-the-only-vault-in-the-universe",
+                            "date": "2026-10-02",
+                            "start_time": "21:00",
+                            "location": "The Command Center, Virginia Beach, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b022/oct_2026_900pm_rachel_only_vault_hug.jpg",
+                            "image_alt": "At 9:00 PM in the upstairs Command Center, Rachel stands between their adjacent computer desks and pulls Michael\u2014still in his royal blue work polo shirt\u2014into a deep, grounding Bear and Bug hug as he rests his forehead against her shoulder",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b022/oct_2026_900pm_rachel_only_vault_hug.jpg",
+                                    "alt": "At 9:00 PM in the upstairs Command Center, Rachel stands between their adjacent computer desks and pulls Michael\u2014still in his royal blue work polo shirt\u2014into a deep, grounding Bear and Bug hug as he rests his forehead against her shoulder"
                                 }
                             ],
                             "image_count": 1
