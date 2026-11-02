@@ -8,16 +8,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "65.3 MB",
-        "pdf": "69.1 MB",
+        "epub": "67 MB",
+        "pdf": "70.9 MB",
         "text_epub": "1.1 MB",
-        "text_pdf": "3 MB",
-        "epub_bytes": 68451376,
-        "pdf_bytes": 72433698,
-        "text_epub_bytes": 1126182,
-        "text_pdf_bytes": 3194613
+        "text_pdf": "3.1 MB",
+        "epub_bytes": 70264036,
+        "pdf_bytes": 74325704,
+        "text_epub_bytes": 1129056,
+        "text_pdf_bytes": 3203746
     },
-    "illustration_count": 116,
+    "illustration_count": 120,
     "eras": [
         {
             "era_num": 1,
@@ -3090,19 +3090,19 @@
             "era_num": 21,
             "era_title": "The GIH Pilot & The Heel Cord Surgery (2015\u20132016)",
             "era_url": "/raggiesoft-books/books/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016",
-            "illustration_count": 3,
+            "illustration_count": 7,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "From CCHR to VDU: The Upperclass GIH Pilot Apartment",
                     "chap_url": "/raggiesoft-books/books/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment",
-                    "illustration_count": 2,
+                    "illustration_count": 6,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Upperclass Credits from CCHR & Signing Up for VDU's Gender-Inclusive Housing Pilot in a Heartbeat",
+                            "part_title": "Part 1: Upperclass Credits from CCHR & Signing Up for VDU's Gender-Inclusive Housing Pilot in a Heartbeat",
                             "file_path": "e021/c001/p001.md",
-                            "url": "/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/upperclass-credits-from-cchr-signing-up-for-vdu-s-gender-inclusive-housing-pilot-in-a-heartbeat",
+                            "url": "/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-1-upperclass-credits-from-cchr-signing-up-for-vdu-s-gender-inclusive-housing-pilot-in-a-heartbeat",
                             "date": "2015-08-22",
                             "start_time": "14:00",
                             "location": "Moosewood Drive, Virginia Beach, VA & Virginia Dominion University (VDU), Norfolk, VA",
@@ -3119,6 +3119,36 @@
                                 }
                             ],
                             "image_count": 2
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Building's First GIH Pair, Double-Takes from Housing, & The 1st-Floor Laundry Room",
+                            "file_path": "e021/c001/p002.md",
+                            "url": "/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-2-the-building-s-first-gih-pair-double-takes-from-housing-the-1st-floor-laundry-room",
+                            "date": "2015-08-25",
+                            "start_time": "19:30",
+                            "location": "Dominion Village (1st-Floor Hallway & Laundry Room), Virginia Dominion University, Norfolk, VA",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_first_gih_building_hallway_laundry.jpg",
+                            "image_alt": "Walking down the ground-floor interior hallway of their Dominion Village building toward the 1st-floor laundry room with 5 washers and 6 dryers, Michael and Rachel hold hands with their fingers laced together and lean warmly against each other like a romantic couple while a VDU Housing RA pauses with a polite double-take",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_first_gih_building_hallway_laundry.jpg",
+                                    "alt": "Walking down the ground-floor interior hallway of their Dominion Village building toward the 1st-floor laundry room with 5 washers and 6 dryers, Michael and Rachel hold hands with their fingers laced together and lean warmly against each other like a romantic couple while a VDU Housing RA pauses with a polite double-take"
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_1bed_1bath_floorplan.jpg",
+                                    "alt": "VDU Dominion Village 1 Bed / 1 Bath Floor Plan \u2014 the unit Michael and Rachel would have gladly picked if university occupancy rules had allowed two people to share a 1-bedroom apartment"
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_4bed_2bath_version_a_floorplan.jpg",
+                                    "alt": "VDU Dominion Village 4 Bed / 2 Bath Version A Floor Plan"
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_4bed_2bath_version_b_floorplan.jpg",
+                                    "alt": "VDU Dominion Village 4 Bed / 2 Bath Version B Floor Plan"
+                                }
+                            ],
+                            "image_count": 4
                         }
                     ]
                 },
