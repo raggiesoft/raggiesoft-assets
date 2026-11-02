@@ -8,14 +8,14 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "70.1 MB",
-        "pdf": "74 MB",
+        "epub": "70 MB",
+        "pdf": "73.9 MB",
         "text_epub": "1.1 MB",
         "text_pdf": "3.1 MB",
-        "epub_bytes": 73472543,
-        "pdf_bytes": 77583424,
-        "text_epub_bytes": 1133497,
-        "text_pdf_bytes": 3217610
+        "epub_bytes": 73386234,
+        "pdf_bytes": 77512987,
+        "text_epub_bytes": 1133954,
+        "text_pdf_bytes": 3218925
     },
     "illustration_count": 124,
     "eras": [
@@ -125,18 +125,18 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Brick Walkways of Summer Camp: Mapping VDU with Rachel and Jessica",
+                            "part_title": "Dominion Mall & The Summer Camp Map: Mapping VDU with Rachel and Jessica",
                             "file_path": "e001/c004/p001.md",
-                            "url": "/rachel/the-delaney-street-years/summer-camp-at-virginia-dominion-university/the-brick-walkways-of-summer-camp-mapping-vdu-with-rachel-and-jessica",
+                            "url": "/rachel/the-delaney-street-years/summer-camp-at-virginia-dominion-university/dominion-mall-the-summer-camp-map-mapping-vdu-with-rachel-and-jessica",
                             "date": "1994-07-12",
                             "start_time": "08:45",
                             "location": "Virginia Dominion University (VDU), Norfolk, VA",
                             "image": "/raggiesoft-books/images/scenes/rachel/b001/jul_1994_vdu_childhood_summer_camp_michael_rachel_jessica.jpg",
-                            "image_alt": "On a sunny July 1994 morning on the red-brick pedestrian quad of Virginia Dominion University in Norfolk, nine-year-old Michael and seven-year-old Rachel walk side by side holding hands with their fingers laced together in matching blue VDU Summer Camp t-shirts, while fourteen-year-old Jessica walks right beside them pointing cheerfully toward the campus student center",
+                            "image_alt": "On a sunny July 1994 morning on the wide concrete plaza of Dominion Mall at Virginia Dominion University in Norfolk, nine-year-old Michael, seven-year-old Rachel holding hands, and fourteen-year-old Jessica walk right in the middle of their VDU Summer Camp group behind their camp counselor in front of the modern flat-roofed glass-and-brick Student Center and University Library",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b001/jul_1994_vdu_childhood_summer_camp_michael_rachel_jessica.jpg",
-                                    "alt": "On a sunny July 1994 morning on the red-brick pedestrian quad of Virginia Dominion University in Norfolk, nine-year-old Michael and seven-year-old Rachel walk side by side holding hands with their fingers laced together in matching blue VDU Summer Camp t-shirts, while fourteen-year-old Jessica walks right beside them pointing cheerfully toward the campus student center"
+                                    "alt": "On a sunny July 1994 morning on the wide concrete plaza of Dominion Mall at Virginia Dominion University in Norfolk, nine-year-old Michael, seven-year-old Rachel holding hands, and fourteen-year-old Jessica walk right in the middle of their VDU Summer Camp group behind their camp counselor in front of the modern flat-roofed glass-and-brick Student Center and University Library"
                                 }
                             ],
                             "image_count": 1
@@ -1682,18 +1682,18 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Walking the Old Camp Paths Alone & The Promise to Reunite First",
+                            "part_title": "Walking the Old Camp Paths with Northwood High & The Promise to Reunite First",
                             "file_path": "e013/c001/p001.md",
-                            "url": "/rachel/michael-s-senior-year/the-high-school-field-trip-to-vdu/walking-the-old-camp-paths-alone-the-promise-to-reunite-first",
+                            "url": "/rachel/michael-s-senior-year/the-high-school-field-trip-to-vdu/walking-the-old-camp-paths-with-northwood-high-the-promise-to-reunite-first",
                             "date": "2002-10-18",
                             "start_time": "10:15",
                             "location": "Virginia Dominion University (VDU), Norfolk, VA",
                             "image": "/raggiesoft-books/images/scenes/rachel/b013/oct_2002_vdu_high_school_field_trip_tour_michael.jpg",
-                            "image_alt": "On a crisp October 2002 morning at Virginia Dominion University in Norfolk during a high school senior field trip, seventeen-year-old Michael walks near the back of his tour group across the red-brick plaza, looking thoughtfully toward the walkways where he, Rachel, and Jessica attended childhood summer camp together",
+                            "image_alt": "On a crisp October 2002 morning on the wide concrete plaza of Dominion Mall at Virginia Dominion University in Norfolk, seventeen-year-old Michael stands right inside his sanctioned Northwood High School senior field trip tour group alongside his classmates and guidance counselor chaperone as a VDU Admissions tour guide gestures toward the modern flat-roofed glass-and-concrete campus buildings",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b013/oct_2002_vdu_high_school_field_trip_tour_michael.jpg",
-                                    "alt": "On a crisp October 2002 morning at Virginia Dominion University in Norfolk during a high school senior field trip, seventeen-year-old Michael walks near the back of his tour group across the red-brick plaza, looking thoughtfully toward the walkways where he, Rachel, and Jessica attended childhood summer camp together"
+                                    "alt": "On a crisp October 2002 morning on the wide concrete plaza of Dominion Mall at Virginia Dominion University in Norfolk, seventeen-year-old Michael stands right inside his sanctioned Northwood High School senior field trip tour group alongside his classmates and guidance counselor chaperone as a VDU Admissions tour guide gestures toward the modern flat-roofed glass-and-concrete campus buildings"
                                 }
                             ],
                             "image_count": 1
