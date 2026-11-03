@@ -137,7 +137,7 @@ html[data-os="ios"].is-pwa-standalone .reader-page {
 
 /* Sidebar (sidebar.php) */
 /* Transition handles the slide animation on mobile */
-.reader-sidebar { padding: 1.5rem; overflow-y: auto; background: var(--rs-bg-alt, #fafafa); transition: transform 0.3s ease; }
+.reader-sidebar { padding: 1rem 1.15rem; overflow-y: auto; background: var(--rs-bg-alt, #fafafa); transition: transform 0.3s ease; }
 
 /* Mobile: Off-canvas sidebar hidden by default; uses `#stardust-sidebar.reader-sidebar` + `!important` to override `stardust-engine.min.css` (`#stardust-sidebar { padding: 20px; }`) and clear the iOS Dynamic Island at the top and `.ios-tab-bar` at the bottom */
 @media (max-width: 991px) {
@@ -146,13 +146,13 @@ html[data-os="ios"].is-pwa-standalone .reader-page {
         position: fixed !important;
         top: 0;
         left: 0;
-        width: min(320px, 86vw) !important;
+        width: min(310px, 86vw) !important;
         height: 100vh;
         height: 100dvh;
-        padding-top: max(1.5rem, calc(env(safe-area-inset-top, 0px) + 1rem)) !important;
-        padding-right: 1.25rem !important;
-        padding-bottom: calc(5.5rem + env(safe-area-inset-bottom, 0px)) !important;
-        padding-left: max(1.25rem, env(safe-area-inset-left, 0px)) !important;
+        padding-top: max(1.15rem, calc(env(safe-area-inset-top, 0px) + 0.75rem)) !important;
+        padding-right: 1rem !important;
+        padding-bottom: calc(4.75rem + env(safe-area-inset-bottom, 0px)) !important;
+        padding-left: max(1rem, env(safe-area-inset-left, 0px)) !important;
         z-index: 1000;
         transform: translateX(-100%);
         box-shadow: 5px 0 15px rgba(0,0,0,0.1);
@@ -161,7 +161,7 @@ html[data-os="ios"].is-pwa-standalone .reader-page {
     }
     html[data-os="ios"].is-pwa-standalone #stardust-sidebar.reader-sidebar,
     html[data-os="ios"].is-pwa-standalone .reader-sidebar {
-        padding-top: max(3.75rem, calc(env(safe-area-inset-top, 0px) + 1rem)) !important;
+        padding-top: max(3.5rem, calc(env(safe-area-inset-top, 0px) + 0.85rem)) !important;
     }
     #stardust-sidebar.reader-sidebar.open,
     .reader-sidebar.open {
@@ -169,9 +169,9 @@ html[data-os="ios"].is-pwa-standalone .reader-page {
     }
 }
 
-/* Desktop: Static, permanent sidebar pushing content */
+/* Desktop & iPad Landscape: Static, permanent sidebar pushing content with compact padding so it fits without scrolling */
 @media (min-width: 992px) {
-    #stardust-sidebar.reader-sidebar { position: static !important; transform: none !important; width: 350px !important; height: 100vh !important; z-index: 1 !important; box-shadow: none !important; flex-shrink: 0; border-right: 1px solid var(--rs-border); }
+    #stardust-sidebar.reader-sidebar { position: static !important; transform: none !important; width: 310px !important; height: 100vh !important; height: 100dvh !important; padding: 1rem 1.1rem !important; z-index: 1 !important; box-shadow: none !important; flex-shrink: 0; border-right: 1px solid var(--rs-border); }
     #stardust-sidebar-toggle { display: none !important; }
     #reader-sidebar-backdrop { display: none !important; }
 }
