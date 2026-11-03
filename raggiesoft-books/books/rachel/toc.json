@@ -13,11 +13,11 @@
         "text_epub": "1.1 MB",
         "text_pdf": "3.1 MB",
         "package_7z": "784 KB",
-        "epub_bytes": 79569629,
-        "pdf_bytes": 84072905,
-        "text_epub_bytes": 1160487,
-        "text_pdf_bytes": 3238246,
-        "package_7z_bytes": 802519
+        "epub_bytes": 79569627,
+        "pdf_bytes": 84072887,
+        "text_epub_bytes": 1160489,
+        "text_pdf_bytes": 3238242,
+        "package_7z_bytes": 802402
     },
     "illustration_count": 130,
     "word_stats": {
@@ -179,7 +179,7 @@
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b001/jul_1994_vdu_summer_camp_two_sibling_pairs_computer_lab.jpg",
-                                    "alt": "Inside the 1994 Virginia Dominion University computer lab, nine-year-old Michael and seven-year-old Rachel share Terminal 4 while eight-year-old fraternal twins Nathaniel and Katie Prairie share Terminal 5 beside them in matching royal-blue VDU Summer Camp shirts"
+                                    "alt": "Inside the 1994 Virginia Dominion University computer lab, nine-year-old Michael and seven-year-old Rachel share Terminal 4 while nine-year-old fraternal twins Nathaniel and Katie Prairie share Terminal 5 beside them in matching royal-blue VDU Summer Camp shirts"
                                 }
                             ],
                             "image_count": 2
