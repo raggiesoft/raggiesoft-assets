@@ -10,32 +10,32 @@
     "ebook_sizes": {
         "epub": "10.8 MB",
         "pdf": "11.8 MB",
-        "text_epub": "65 KB",
-        "text_pdf": "194 KB",
-        "package_7z": "52 KB",
-        "epub_bytes": 11277968,
-        "pdf_bytes": 12395038,
-        "text_epub_bytes": 66351,
-        "text_pdf_bytes": 198187,
-        "package_7z_bytes": 53186
+        "text_epub": "70 KB",
+        "text_pdf": "205 KB",
+        "package_7z": "55 KB",
+        "epub_bytes": 11283588,
+        "pdf_bytes": 12407433,
+        "text_epub_bytes": 71821,
+        "text_pdf_bytes": 209742,
+        "package_7z_bytes": 56544
     },
-    "illustration_count": 17,
+    "illustration_count": 18,
     "word_stats": {
-        "story_word_count": 23970,
+        "story_word_count": 25716,
         "lore_word_count": 121,
-        "combined_word_count": 24091,
-        "story_page_count": 87,
-        "combined_page_count": 88,
-        "reading_hours": 1.6,
-        "reading_minutes": 96,
+        "combined_word_count": 25837,
+        "story_page_count": 94,
+        "combined_page_count": 94,
+        "reading_hours": 1.7,
+        "reading_minutes": 103,
         "novel_equivalent": 0.3,
         "scale_category": "Novella",
         "scale_badge": "Novella",
         "benchmark_note": "Standard contemporary novella length (17,500\u201340,000 words)",
-        "era_count": 3,
-        "chapter_count": 10,
-        "part_count": 17,
-        "illustration_count": 17
+        "era_count": 4,
+        "chapter_count": 11,
+        "part_count": 18,
+        "illustration_count": 18
     },
     "eras": [
         {
@@ -504,6 +504,45 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b003/oct_2001_military_hwy_indian_river_cvta_route_15_wheelchairs.jpg",
                                     "alt": "At the CVTA Route 15 bus stop along US-13 Military Highway near Indian River Road in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact power wheelchairs holding hands beside their father David Prairie"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "era_num": 4,
+            "era_title": "Seventeen & Senior Year",
+            "era_url": "/raggiesoft-books/books/katie/seventeen-senior-year",
+            "illustration_count": 1,
+            "word_count": 1746,
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Drunken New Year",
+                    "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year/drunken-new-year",
+                    "illustration_count": 1,
+                    "word_count": 1746,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "The Gas-Station Run, The Locked Bedroom Door, & Why I Never Had a Twenty-First Birthday Drink",
+                            "file_path": "e004/c001/p001.md",
+                            "url": "/katie/seventeen-senior-year/drunken-new-year/the-gas-station-run-the-locked-bedroom-door-why-i-never-had-a-twenty-first-birthday-drink",
+                            "word_count": 1746,
+                            "reading_minutes": 7,
+                            "date": "2002-12-31",
+                            "start_time": "21:30",
+                            "location": "Virginia Beach, VA (Rental House off Military Highway & Indian River Road)",
+                            "excerpt": "When cousin Chelsea defies the house ground rules on New Year's Eve 2002 by inviting friends and a twenty-one-year-old to buy gas-station alcohol, seventeen-year-old Nathaniel and Katie lock themselves in the bedroom to watch the ball drop together\u2014cementing why Nathaniel never had a twenty-first birthday drink.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b003/jun_2001_bonding_with_my_sister_katie_bedroom_butterfly.jpg",
+                            "image_alt": "Seventeen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in the quiet sanctuary of their bedroom holding hands beneath the framed blue butterfly print while watching the New Year's Eve countdown together",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b003/jun_2001_bonding_with_my_sister_katie_bedroom_butterfly.jpg",
+                                    "alt": "Seventeen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in the quiet sanctuary of their bedroom holding hands beneath the framed blue butterfly print while watching the New Year's Eve countdown together"
                                 }
                             ],
                             "image_count": 1
