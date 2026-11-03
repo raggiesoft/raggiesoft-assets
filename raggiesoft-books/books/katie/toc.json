@@ -1,0 +1,240 @@
+{
+    "series_title": "Katie & Nathaniel",
+    "series_slug": "katie",
+    "series_theme": "",
+    "series_short_description": "Growing up in Virginia Beach as autistic fraternal twins, Katie and Nathaniel (\"Nate\") Prairie build an unbreakable sibling sanctuary to weather school heartbreaks, family storms, and the Blizzard of '96.",
+    "series_description": "Katie & Nathaniel follows the childhood and teenage years of autistic fraternal twins Katie and Nathaniel (\"Nate\") Prairie in Virginia Beach. From secret afternoon cartoon passwords, summer camp at Virginia Dominion University alongside Michael and Rachel Ragsdale, and holiday sofa-bed sanctuaries to the historic Blizzard of '96 and middle-school Spirit Week, Nate and Katie discover that while the outside world\u2014and their mother's alcoholism\u2014can be loud and unforgiving, twin brothers and sisters never leave each other behind.",
+    "series_description_long": "",
+    "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
+    "next_series_url": "",
+    "ebook_sizes": {
+        "epub": "4.4 MB",
+        "pdf": "4.5 MB",
+        "text_epub": "25 KB",
+        "text_pdf": "72 KB",
+        "package_7z": "18 KB",
+        "epub_bytes": 4615347,
+        "pdf_bytes": 4755224,
+        "text_epub_bytes": 25372,
+        "text_pdf_bytes": 73963,
+        "package_7z_bytes": 18763
+    },
+    "illustration_count": 6,
+    "word_stats": {
+        "story_word_count": 7346,
+        "lore_word_count": 107,
+        "combined_word_count": 7453,
+        "story_page_count": 27,
+        "combined_page_count": 27,
+        "reading_hours": 0.5,
+        "reading_minutes": 29,
+        "novel_equivalent": 0.08,
+        "scale_category": "Short Fiction & Novelette",
+        "scale_badge": "Short Fiction",
+        "benchmark_note": "Short story / novelette companion (< 17,500 words)",
+        "era_count": 2,
+        "chapter_count": 6,
+        "part_count": 6,
+        "illustration_count": 6
+    },
+    "eras": [
+        {
+            "era_num": 1,
+            "era_title": "Early Childhood",
+            "era_url": "/raggiesoft-books/books/katie/early-childhood",
+            "illustration_count": 3,
+            "word_count": 3632,
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "The Great Afternoon",
+                    "chap_url": "/raggiesoft-books/books/katie/early-childhood/the-great-afternoon",
+                    "illustration_count": 1,
+                    "word_count": 591,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Cartoons Are for Life: The Secret Password & The Afternoon Sanctuary",
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/katie/early-childhood/the-great-afternoon/cartoons-are-for-life-the-secret-password-the-afternoon-sanctuary",
+                            "word_count": 591,
+                            "reading_minutes": 3,
+                            "date": "1994-05-18",
+                            "start_time": "15:30",
+                            "location": "Virginia Beach, VA",
+                            "excerpt": "At eight years old in Virginia Beach, fraternal twins Nathaniel and Katie Prairie use their secret knock and password\u2014'Cartoons are for life'\u2014to seal their afternoon bedroom sanctuary.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b001/cartoon_afternoon_nathaniel_katie_1994.jpg",
+                            "image_alt": "Inside Nathaniel's deep-blue bedroom in Virginia Beach in 1994, eight-year-old fraternal twins Nathaniel and Katie Prairie with matching light platinum-blonde hair sit side by side on the carpeted floor in front of a 1990s CRT television and cable converter box, holding hands and smiling as their favorite afternoon cartoon theme plays",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b001/cartoon_afternoon_nathaniel_katie_1994.jpg",
+                                    "alt": "Inside Nathaniel's deep-blue bedroom in Virginia Beach in 1994, eight-year-old fraternal twins Nathaniel and Katie Prairie with matching light platinum-blonde hair sit side by side on the carpeted floor in front of a 1990s CRT television and cable converter box, holding hands and smiling as their favorite afternoon cartoon theme plays"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "Summer Camp at Virginia Dominion University",
+                    "chap_url": "/raggiesoft-books/books/katie/early-childhood/summer-camp-at-virginia-dominion-university",
+                    "illustration_count": 1,
+                    "word_count": 1955,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "The Parallel Pair: Dominion Mall & The VDU Fieldhouse",
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/katie/early-childhood/summer-camp-at-virginia-dominion-university/the-parallel-pair-dominion-mall-the-vdu-fieldhouse",
+                            "word_count": 1955,
+                            "reading_minutes": 8,
+                            "date": "1994-07-12",
+                            "start_time": "08:45",
+                            "location": "Virginia Dominion University (VDU), Norfolk, VA",
+                            "excerpt": "During a two-week summer camp session at Virginia Dominion University in July 1994, eight-year-old autistic twins Nathaniel and Katie Prairie and siblings Michael and Rachel Ragsdale refuse every counselor attempt to split them into boy-and-girl pairs.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b001/jul_1994_vdu_summer_camp_two_sibling_pairs_computer_lab.jpg",
+                            "image_alt": "Inside the 1994 Virginia Dominion University computer lab, eight-year-old platinum-blonde fraternal twins Nathaniel and Katie Prairie share a desktop computer at Terminal 5 right beside nine-year-old Michael Ragsdale and seven-year-old Rachel Ragsdale at Terminal 4, all wearing royal-blue VDU Summer Camp t-shirts",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b001/jul_1994_vdu_summer_camp_two_sibling_pairs_computer_lab.jpg",
+                                    "alt": "Inside the 1994 Virginia Dominion University computer lab, eight-year-old platinum-blonde fraternal twins Nathaniel and Katie Prairie share a desktop computer at Terminal 5 right beside nine-year-old Michael Ragsdale and seven-year-old Rachel Ragsdale at Terminal 4, all wearing royal-blue VDU Summer Camp t-shirts"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "Big Family Christmas",
+                    "chap_url": "/raggiesoft-books/books/katie/early-childhood/big-family-christmas",
+                    "illustration_count": 1,
+                    "word_count": 1086,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "The Newport News Train & The Downstairs Sofa Bed",
+                            "file_path": "e001/c003/p001.md",
+                            "url": "/katie/early-childhood/big-family-christmas/the-newport-news-train-the-downstairs-sofa-bed",
+                            "word_count": 1086,
+                            "reading_minutes": 5,
+                            "date": "1994-12-23",
+                            "start_time": "18:15",
+                            "location": "Newport News & Virginia Beach, VA",
+                            "excerpt": "When Grandma, Aunt Elizabeth, and cousin Chelsea arrive on the evening train in Newport News for Christmas, eight-year-old twins Katie and Nathaniel Prairie claim the downstairs sofa bed as their holiday sanctuary.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b001/christmas_1994_newport_news_station_sofa_bed_sanctuary.jpg",
+                            "image_alt": "On a December 1994 evening in the downstairs living room in Virginia Beach, eight-year-old fraternal twins Nathaniel and Katie Prairie in modest long-sleeved winter flannel pajamas sit side by side under a warm quilt on the unfolded living-room sofa bed holding hands while their cousin Chelsea in flannel pajamas sits near the foot of the bed",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b001/christmas_1994_newport_news_station_sofa_bed_sanctuary.jpg",
+                                    "alt": "On a December 1994 evening in the downstairs living room in Virginia Beach, eight-year-old fraternal twins Nathaniel and Katie Prairie in modest long-sleeved winter flannel pajamas sit side by side under a warm quilt on the unfolded living-room sofa bed holding hands while their cousin Chelsea in flannel pajamas sits near the foot of the bed"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "era_num": 2,
+            "era_title": "Middle School & The Blizzard of '96",
+            "era_url": "/raggiesoft-books/books/katie/middle-school-the-blizzard-of-96",
+            "illustration_count": 3,
+            "word_count": 3714,
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "The Blizzard of '96",
+                    "chap_url": "/raggiesoft-books/books/katie/middle-school-the-blizzard-of-96/the-blizzard-of-96",
+                    "illustration_count": 1,
+                    "word_count": 1207,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Snow Day in Virginia Beach & The Backyard Promise",
+                            "file_path": "e002/c001/p001.md",
+                            "url": "/katie/middle-school-the-blizzard-of-96/the-blizzard-of-96/snow-day-in-virginia-beach-the-backyard-promise",
+                            "word_count": 1207,
+                            "reading_minutes": 5,
+                            "date": "1996-01-06",
+                            "start_time": "11:30",
+                            "location": "Virginia Beach, VA",
+                            "excerpt": "As the historic Blizzard of January 1996 blankets Virginia Beach and their parents argue inside the house, Katie pulls Nathaniel into a fierce bear hug in the snow-covered backyard and promises she will never leave him.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b002/jan_1996_blizzard_backyard_snow_hug_katie_nathaniel.jpg",
+                            "image_alt": "During the Blizzard of January 1996 in their snow-covered Virginia Beach backyard in front of a white wooden picket fence at dusk, Katie Prairie in a blue winter jacket and dark jeans and her twin brother Nathaniel Prairie in a black winter jacket and blue jeans hold each other in a tight bear hug in the falling snow",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b002/jan_1996_blizzard_backyard_snow_hug_katie_nathaniel.jpg",
+                                    "alt": "During the Blizzard of January 1996 in their snow-covered Virginia Beach backyard in front of a white wooden picket fence at dusk, Katie Prairie in a blue winter jacket and dark jeans and her twin brother Nathaniel Prairie in a black winter jacket and blue jeans hold each other in a tight bear hug in the falling snow"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "Katie Is Dumped",
+                    "chap_url": "/raggiesoft-books/books/katie/middle-school-the-blizzard-of-96/katie-is-dumped",
+                    "illustration_count": 1,
+                    "word_count": 1308,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "No More Fighting & The Dinner Dance Promise",
+                            "file_path": "e002/c002/p001.md",
+                            "url": "/katie/middle-school-the-blizzard-of-96/katie-is-dumped/no-more-fighting-the-dinner-dance-promise",
+                            "word_count": 1308,
+                            "reading_minutes": 6,
+                            "date": "1997-10-16",
+                            "start_time": "16:15",
+                            "location": "Virginia Beach, VA",
+                            "excerpt": "When middle-school heartbreak leaves Katie sobbing in her bedroom, Nathaniel steps in to comfort her, ending their childhood squabbles forever and promising to take her to the school Dinner Dance.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b002/katie_dumped_bedroom_butterfly_holding_hands.jpg",
+                            "image_alt": "Inside Katie's magenta-purple bedroom with a framed blue morpho butterfly artwork on the wall, early-teen Katie Prairie in a dark navy short-sleeve t-shirt and white jeans and her twin brother Nathaniel Prairie in a maroon short-sleeve t-shirt and blue jeans stand facing each other holding both hands as Nathaniel comforts her",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b002/katie_dumped_bedroom_butterfly_holding_hands.jpg",
+                                    "alt": "Inside Katie's magenta-purple bedroom with a framed blue morpho butterfly artwork on the wall, early-teen Katie Prairie in a dark navy short-sleeve t-shirt and white jeans and her twin brother Nathaniel Prairie in a maroon short-sleeve t-shirt and blue jeans stand facing each other holding both hands as Nathaniel comforts her"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "The Pretend Boyfriend & Twins' Day",
+                    "chap_url": "/raggiesoft-books/books/katie/middle-school-the-blizzard-of-96/the-pretend-boyfriend-twins-day",
+                    "illustration_count": 1,
+                    "word_count": 1199,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Twin Brothers Always Stay: Spirit Week & The Living Room Sofa",
+                            "file_path": "e002/c003/p001.md",
+                            "url": "/katie/middle-school-the-blizzard-of-96/the-pretend-boyfriend-twins-day/twin-brothers-always-stay-spirit-week-the-living-room-sofa",
+                            "word_count": 1199,
+                            "reading_minutes": 5,
+                            "date": "1997-10-17",
+                            "start_time": "07:30",
+                            "location": "Virginia Beach, VA",
+                            "excerpt": "Waking up side by side the next morning, Nathaniel promises Katie that 'boyfriends come and go, but Twin Brothers always stay'\u2014before the two of them dress alike for Spirit Week Twins' Day and curl up together on the living room sofa.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b002/twins_day_spirit_week_matching_maroon_shirts_sofa_snuggle.jpg",
+                            "image_alt": "Early-teen fraternal twins Katie and Nathaniel Prairie with matching light platinum-blonde hair, wearing identical maroon short-sleeve t-shirts and blue jeans for Spirit Week Twins' Day, sit snuggled close together on their tan-brown living room sofa with Katie's arm draped around Nathaniel's shoulders",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b002/twins_day_spirit_week_matching_maroon_shirts_sofa_snuggle.jpg",
+                                    "alt": "Early-teen fraternal twins Katie and Nathaniel Prairie with matching light platinum-blonde hair, wearing identical maroon short-sleeve t-shirts and blue jeans for Spirit Week Twins' Day, sit snuggled close together on their tan-brown living room sofa with Katie's arm draped around Nathaniel's shoulders"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

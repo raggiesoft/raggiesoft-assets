@@ -18,7 +18,7 @@
             "pdf_bytes": 2175766,
             "text_epub_bytes": 85395,
             "text_pdf_bytes": 277807,
-            "package_7z_bytes": 68656
+            "package_7z_bytes": 68663
         },
         "illustration_count": 13,
         "word_stats": {
@@ -58,7 +58,7 @@
             "pdf_bytes": 858237,
             "text_epub_bytes": 301711,
             "text_pdf_bytes": 858237,
-            "package_7z_bytes": 228964
+            "package_7z_bytes": 228973
         },
         "illustration_count": 0,
         "word_stats": {
@@ -98,7 +98,7 @@
             "pdf_bytes": 1801711,
             "text_epub_bytes": 673144,
             "text_pdf_bytes": 1801711,
-            "package_7z_bytes": 463307
+            "package_7z_bytes": 463320
         },
         "illustration_count": 0,
         "word_stats": {
@@ -138,7 +138,7 @@
             "pdf_bytes": 1764104,
             "text_epub_bytes": 608772,
             "text_pdf_bytes": 1764104,
-            "package_7z_bytes": 426535
+            "package_7z_bytes": 426538
         },
         "illustration_count": 0,
         "word_stats": {
@@ -178,7 +178,7 @@
             "pdf_bytes": 241676,
             "text_epub_bytes": 84495,
             "text_pdf_bytes": 241676,
-            "package_7z_bytes": 68205
+            "package_7z_bytes": 68200
         },
         "illustration_count": 0,
         "word_stats": {
@@ -218,7 +218,7 @@
             "pdf_bytes": 56106461,
             "text_epub_bytes": 1026776,
             "text_pdf_bytes": 3869214,
-            "package_7z_bytes": 733161
+            "package_7z_bytes": 733151
         },
         "illustration_count": 72,
         "word_stats": {
@@ -298,7 +298,7 @@
             "pdf_bytes": 235362,
             "text_epub_bytes": 85613,
             "text_pdf_bytes": 235362,
-            "package_7z_bytes": 63763
+            "package_7z_bytes": 63756
         },
         "illustration_count": 0,
         "word_stats": {
@@ -378,7 +378,7 @@
             "pdf_bytes": 206051,
             "text_epub_bytes": 74040,
             "text_pdf_bytes": 206051,
-            "package_7z_bytes": 57790
+            "package_7z_bytes": 57793
         },
         "illustration_count": 0,
         "word_stats": {
@@ -418,7 +418,7 @@
             "pdf_bytes": 73850,
             "text_epub_bytes": 20317,
             "text_pdf_bytes": 73850,
-            "package_7z_bytes": 15359
+            "package_7z_bytes": 15363
         },
         "illustration_count": 0,
         "word_stats": {
@@ -458,7 +458,7 @@
             "pdf_bytes": 16540,
             "text_epub_bytes": 8788,
             "text_pdf_bytes": 16540,
-            "package_7z_bytes": 2010
+            "package_7z_bytes": 2019
         },
         "illustration_count": 0,
         "word_stats": {
@@ -498,7 +498,7 @@
             "pdf_bytes": 3367309,
             "text_epub_bytes": 189671,
             "text_pdf_bytes": 3367313,
-            "package_7z_bytes": 144956
+            "package_7z_bytes": 144949
         },
         "illustration_count": 0,
         "word_stats": {
@@ -538,7 +538,7 @@
             "pdf_bytes": 482428,
             "text_epub_bytes": 169681,
             "text_pdf_bytes": 482428,
-            "package_7z_bytes": 126116
+            "package_7z_bytes": 126107
         },
         "illustration_count": 0,
         "word_stats": {
@@ -560,6 +560,46 @@
         }
     },
     {
+        "slug": "katie",
+        "title": "Katie & Nathaniel",
+        "short_description": "Growing up in Virginia Beach as autistic fraternal twins, Katie and Nathaniel (\"Nate\") Prairie build an unbreakable sibling sanctuary to weather school heartbreaks, family storms, and the Blizzard of '96.",
+        "description": "Katie & Nathaniel follows the childhood and teenage years of autistic fraternal twins Katie and Nathaniel (\"Nate\") Prairie in Virginia Beach. From secret afternoon cartoon passwords, summer camp at Virginia Dominion University alongside Michael and Rachel Ragsdale, and holiday sofa-bed sanctuaries to the historic Blizzard of '96 and middle-school Spirit Week, Nate and Katie discover that while the outside world\u2014and their mother's alcoholism\u2014can be loud and unforgiving, twin brothers and sisters never leave each other behind.",
+        "image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
+        "first_route": "/raggiesoft-books/books/katie/early-childhood/the-great-afternoon/cartoons-are-for-life-the-secret-password-the-afternoon-sanctuary",
+        "folder": "katie",
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "4.4 MB",
+            "pdf": "4.5 MB",
+            "text_epub": "25 KB",
+            "text_pdf": "72 KB",
+            "package_7z": "18 KB",
+            "epub_bytes": 4615347,
+            "pdf_bytes": 4755224,
+            "text_epub_bytes": 25372,
+            "text_pdf_bytes": 73963,
+            "package_7z_bytes": 18763
+        },
+        "illustration_count": 6,
+        "word_stats": {
+            "story_word_count": 7346,
+            "lore_word_count": 107,
+            "combined_word_count": 7453,
+            "story_page_count": 27,
+            "combined_page_count": 27,
+            "reading_hours": 0.5,
+            "reading_minutes": 29,
+            "novel_equivalent": 0.08,
+            "scale_category": "Short Fiction & Novelette",
+            "scale_badge": "Short Fiction",
+            "benchmark_note": "Short story / novelette companion (< 17,500 words)",
+            "era_count": 2,
+            "chapter_count": 6,
+            "part_count": 6,
+            "illustration_count": 6
+        }
+    },
+    {
         "slug": "luna-leo",
         "title": "Luna & Leo",
         "short_description": "Following a life-changing diagnosis, twins Luna and Leo hit the road on their Great North American Excursion.",
@@ -578,7 +618,7 @@
             "pdf_bytes": 12180023,
             "text_epub_bytes": 795940,
             "text_pdf_bytes": 2373352,
-            "package_7z_bytes": 569265
+            "package_7z_bytes": 569271
         },
         "illustration_count": 3,
         "word_stats": {
@@ -618,7 +658,7 @@
             "pdf_bytes": 25934,
             "text_epub_bytes": 9640,
             "text_pdf_bytes": 25934,
-            "package_7z_bytes": 4900
+            "package_7z_bytes": 4901
         },
         "illustration_count": 0,
         "word_stats": {
@@ -658,7 +698,7 @@
             "pdf_bytes": 121729,
             "text_epub_bytes": 41120,
             "text_pdf_bytes": 121729,
-            "package_7z_bytes": 32519
+            "package_7z_bytes": 32521
         },
         "illustration_count": 0,
         "word_stats": {
@@ -698,7 +738,7 @@
             "pdf_bytes": 202768,
             "text_epub_bytes": 70990,
             "text_pdf_bytes": 202768,
-            "package_7z_bytes": 53979
+            "package_7z_bytes": 53974
         },
         "illustration_count": 0,
         "word_stats": {
@@ -738,7 +778,7 @@
             "pdf_bytes": 1273223,
             "text_epub_bytes": 454871,
             "text_pdf_bytes": 1273223,
-            "package_7z_bytes": 327997
+            "package_7z_bytes": 328007
         },
         "illustration_count": 0,
         "word_stats": {
@@ -778,7 +818,7 @@
             "pdf_bytes": 1469151,
             "text_epub_bytes": 507398,
             "text_pdf_bytes": 1469151,
-            "package_7z_bytes": 369554
+            "package_7z_bytes": 369557
         },
         "illustration_count": 0,
         "word_stats": {
@@ -818,7 +858,7 @@
             "pdf_bytes": 415749,
             "text_epub_bytes": 155170,
             "text_pdf_bytes": 415749,
-            "package_7z_bytes": 112017
+            "package_7z_bytes": 112013
         },
         "illustration_count": 0,
         "word_stats": {
@@ -858,7 +898,7 @@
             "pdf_bytes": 259351,
             "text_epub_bytes": 87849,
             "text_pdf_bytes": 259351,
-            "package_7z_bytes": 70782
+            "package_7z_bytes": 70791
         },
         "illustration_count": 0,
         "word_stats": {
@@ -938,7 +978,7 @@
             "pdf_bytes": 4170889,
             "text_epub_bytes": 407529,
             "text_pdf_bytes": 1263465,
-            "package_7z_bytes": 300726
+            "package_7z_bytes": 300719
         },
         "illustration_count": 3,
         "word_stats": {
@@ -969,26 +1009,26 @@
         "folder": "rachel",
         "hide": false,
         "ebook_sizes": {
-            "epub": "75.1 MB",
-            "pdf": "79.4 MB",
+            "epub": "75.9 MB",
+            "pdf": "80.2 MB",
             "text_epub": "1.1 MB",
             "text_pdf": "3.1 MB",
-            "package_7z": "783 KB",
-            "epub_bytes": 78742979,
-            "pdf_bytes": 83213390,
-            "text_epub_bytes": 1159905,
-            "text_pdf_bytes": 3236648,
-            "package_7z_bytes": 801765
+            "package_7z": "784 KB",
+            "epub_bytes": 79569629,
+            "pdf_bytes": 84072905,
+            "text_epub_bytes": 1160487,
+            "text_pdf_bytes": 3238246,
+            "package_7z_bytes": 802528
         },
-        "illustration_count": 129,
+        "illustration_count": 130,
         "word_stats": {
-            "story_word_count": 495465,
+            "story_word_count": 495755,
             "lore_word_count": 78061,
-            "combined_word_count": 573526,
-            "story_page_count": 1802,
-            "combined_page_count": 2086,
-            "reading_hours": 33,
-            "reading_minutes": 1982,
+            "combined_word_count": 573816,
+            "story_page_count": 1803,
+            "combined_page_count": 2087,
+            "reading_hours": 33.1,
+            "reading_minutes": 1983,
             "novel_equivalent": 5.5,
             "scale_category": "Multi-Volume Epic Omnibus",
             "scale_badge": "Multi-Volume Omnibus",
@@ -996,7 +1036,7 @@
             "era_count": 26,
             "chapter_count": 106,
             "part_count": 211,
-            "illustration_count": 129
+            "illustration_count": 130
         }
     },
     {
@@ -1058,7 +1098,7 @@
             "pdf_bytes": 41824,
             "text_epub_bytes": 14621,
             "text_pdf_bytes": 41824,
-            "package_7z_bytes": 35539
+            "package_7z_bytes": 35538
         },
         "illustration_count": 0,
         "word_stats": {
@@ -1098,7 +1138,7 @@
             "pdf_bytes": 194611,
             "text_epub_bytes": 66696,
             "text_pdf_bytes": 194611,
-            "package_7z_bytes": 50592
+            "package_7z_bytes": 50595
         },
         "illustration_count": 0,
         "word_stats": {
@@ -1138,7 +1178,7 @@
             "pdf_bytes": 19678008,
             "text_epub_bytes": 183949,
             "text_pdf_bytes": 560495,
-            "package_7z_bytes": 139064
+            "package_7z_bytes": 139061
         },
         "illustration_count": 25,
         "word_stats": {
