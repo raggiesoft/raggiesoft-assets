@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "10.9 MB",
+        "epub": "10.8 MB",
         "pdf": "11.8 MB",
-        "text_epub": "55 KB",
-        "text_pdf": "165 KB",
-        "package_7z": "44 KB",
-        "epub_bytes": 11437750,
-        "pdf_bytes": 12332674,
-        "text_epub_bytes": 56695,
-        "text_pdf_bytes": 169320,
-        "package_7z_bytes": 45159
+        "text_epub": "65 KB",
+        "text_pdf": "194 KB",
+        "package_7z": "52 KB",
+        "epub_bytes": 11277928,
+        "pdf_bytes": 12395345,
+        "text_epub_bytes": 66313,
+        "text_pdf_bytes": 198296,
+        "package_7z_bytes": 53237
     },
-    "illustration_count": 15,
+    "illustration_count": 17,
     "word_stats": {
-        "story_word_count": 19636,
+        "story_word_count": 23934,
         "lore_word_count": 121,
-        "combined_word_count": 19757,
-        "story_page_count": 71,
-        "combined_page_count": 72,
-        "reading_hours": 1.3,
-        "reading_minutes": 79,
-        "novel_equivalent": 0.2,
+        "combined_word_count": 24055,
+        "story_page_count": 87,
+        "combined_page_count": 87,
+        "reading_hours": 1.6,
+        "reading_minutes": 96,
+        "novel_equivalent": 0.3,
         "scale_category": "Novella",
         "scale_badge": "Novella",
         "benchmark_note": "Standard contemporary novella length (17,500\u201340,000 words)",
         "era_count": 3,
-        "chapter_count": 9,
-        "part_count": 15,
-        "illustration_count": 15
+        "chapter_count": 10,
+        "part_count": 17,
+        "illustration_count": 17
     },
     "eras": [
         {
@@ -240,8 +240,8 @@
             "era_num": 3,
             "era_title": "Sixteen & Summer Sanctuary",
             "era_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary",
-            "illustration_count": 9,
-            "word_count": 12473,
+            "illustration_count": 11,
+            "word_count": 16771,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -392,7 +392,7 @@
                     "chap_title": "Junior Year at Northwood High & The Prognosis",
                     "chap_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis",
                     "illustration_count": 3,
-                    "word_count": 4027,
+                    "word_count": 4190,
                     "parts": [
                         {
                             "part_num": 1,
@@ -420,7 +420,7 @@
                             "part_title": "Part 2: Part 2: The Test Results & Dr. Chen's Prognosis for Our Arms and Legs",
                             "file_path": "e003/c003/p002.md",
                             "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-2-part-2-the-test-results-dr-chen-s-prognosis-for-our-arms-and-legs",
-                            "word_count": 1087,
+                            "word_count": 1092,
                             "reading_minutes": 5,
                             "date": "2001-09-14",
                             "start_time": "15:30",
@@ -438,21 +438,72 @@
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Part 3: Two Folding Wheelchairs in the Trunk, Downsizing to Military Highway, & CVTA Route 15",
+                            "part_title": "Part 3: Part 3: Two Compact Power Wheelchairs in the Trunk, Downsizing to Military Highway, & CVTA Route 15",
                             "file_path": "e003/c003/p003.md",
-                            "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-3-part-3-two-folding-wheelchairs-in-the-trunk-downsizing-to-military-highway-cvta-route-15",
-                            "word_count": 1930,
-                            "reading_minutes": 8,
+                            "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-3-part-3-two-compact-power-wheelchairs-in-the-trunk-downsizing-to-military-highway-cvta-route-15",
+                            "word_count": 2088,
+                            "reading_minutes": 9,
                             "date": "2001-10-06",
                             "start_time": "13:10",
                             "location": "Virginia Beach, VA (Military Highway & Indian River Road \u2014 CVTA Route 15)",
                             "excerpt": "Saddled with cruise debt and down to one student income after the divorce filing, David downsizes into a modest single-story rental house off Military Highway near Indian River Road\u2014right inside Northwood High's zone and right along CVTA Route 15.",
                             "image": "/raggiesoft-books/images/scenes/katie/b003/oct_2001_military_hwy_indian_river_cvta_route_15_wheelchairs.jpg",
-                            "image_alt": "At the CVTA Route 15 bus stop along the wide eight-lane corridor of US-13 Military Highway near Indian River Road in October 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their lightweight wheelchairs holding hands beside their father David Prairie as high-floor Beacon V transit bus #914\u2014wearing legacy Tidewater Regional Transit horizontal blue-and-teal stripes with a CVTA logo sticker beside the front door\u2014lowers its front-doorway hydraulic wheelchair step-lift to the curb",
+                            "image_alt": "At the CVTA Route 15 bus stop along the wide eight-lane corridor of US-13 Military Highway near Indian River Road in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact power wheelchairs holding hands beside their father David Prairie as high-floor Beacon V transit bus #914\u2014wearing legacy Tidewater Regional Transit horizontal blue-and-green stripes with a CVTA logo sticker beside the front door\u2014lowers its Elevate-U front-stairwell hydraulic wheelchair lift to the sidewalk",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b003/oct_2001_military_hwy_indian_river_cvta_route_15_wheelchairs.jpg",
-                                    "alt": "At the CVTA Route 15 bus stop along the wide eight-lane corridor of US-13 Military Highway near Indian River Road in October 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their lightweight wheelchairs holding hands beside their father David Prairie as high-floor Beacon V transit bus #914\u2014wearing legacy Tidewater Regional Transit horizontal blue-and-teal stripes with a CVTA logo sticker beside the front door\u2014lowers its front-doorway hydraulic wheelchair step-lift to the curb"
+                                    "alt": "At the CVTA Route 15 bus stop along the wide eight-lane corridor of US-13 Military Highway near Indian River Road in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact power wheelchairs holding hands beside their father David Prairie as high-floor Beacon V transit bus #914\u2014wearing legacy Tidewater Regional Transit horizontal blue-and-green stripes with a CVTA logo sticker beside the front door\u2014lowers its Elevate-U front-stairwell hydraulic wheelchair lift to the sidewalk"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 4,
+                    "chap_title": "Sixteen on Four Wheels & Finding Dates",
+                    "chap_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary/sixteen-on-four-wheels-finding-dates",
+                    "illustration_count": 2,
+                    "word_count": 4135,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Part 1: Navigating Northwood High on Four Wheels & The Homecoming Pact",
+                            "file_path": "e003/c004/p001.md",
+                            "url": "/katie/sixteen-summer-sanctuary/sixteen-on-four-wheels-finding-dates/part-1-part-1-navigating-northwood-high-on-four-wheels-the-homecoming-pact",
+                            "word_count": 1610,
+                            "reading_minutes": 7,
+                            "date": "2001-10-15",
+                            "start_time": "07:10",
+                            "location": "Virginia Beach, VA (Northwood High School \u2014 The Blue Mile & Cafeteria)",
+                            "excerpt": "Rolling into Northwood High School in their new compact power wheelchairs with elevator keys and a Section 504 plan, sixteen-year-old twins Nathaniel and Katie navigate the social shockwaves of eleventh grade\u2014and make a pact at lunch to find dates for Homecoming.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b003/sep_2001_northwood_high_junior_year_shared_lunch.jpg",
+                            "image_alt": "Inside the sunlit cafeteria of Northwood High School in Virginia Beach, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side holding hands during their shared Junior-year lunch period",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b003/sep_2001_northwood_high_junior_year_shared_lunch.jpg",
+                                    "alt": "Inside the sunlit cafeteria of Northwood High School in Virginia Beach, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side holding hands during their shared Junior-year lunch period"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Part 2: Asking Out Heather and Ryan & The Double Date at Emerald Creek Mall",
+                            "file_path": "e003/c004/p002.md",
+                            "url": "/katie/sixteen-summer-sanctuary/sixteen-on-four-wheels-finding-dates/part-2-part-2-asking-out-heather-and-ryan-the-double-date-at-emerald-creek-mall",
+                            "word_count": 2525,
+                            "reading_minutes": 11,
+                            "date": "2001-10-20",
+                            "start_time": "12:45",
+                            "location": "Chesapeake, VA (Emerald Creek Mall \u2014 Food Court & Glass Elevator)",
+                            "excerpt": "After Nathaniel asks out Heather Collins and Katie asks out Ryan Miller, the twins ride CVTA Route 15 to Emerald Creek Mall for a Saturday afternoon double date\u2014only to discover that their lifelong twin bond leaves zero room for dates who are embarrassed by their wheelchairs.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b003/oct_2001_military_hwy_indian_river_cvta_route_15_wheelchairs.jpg",
+                            "image_alt": "At the CVTA Route 15 bus stop along US-13 Military Highway near Indian River Road in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact power wheelchairs holding hands beside their father David Prairie",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b003/oct_2001_military_hwy_indian_river_cvta_route_15_wheelchairs.jpg",
+                                    "alt": "At the CVTA Route 15 bus stop along US-13 Military Highway near Indian River Road in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact power wheelchairs holding hands beside their father David Prairie"
                                 }
                             ],
                             "image_count": 1
