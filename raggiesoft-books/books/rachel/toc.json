@@ -8,18 +8,18 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "74.4 MB",
-        "pdf": "78.6 MB",
+        "epub": "75.1 MB",
+        "pdf": "79.3 MB",
         "text_epub": "1.1 MB",
         "text_pdf": "3.1 MB",
         "package_7z": "776 KB",
-        "epub_bytes": 77981152,
-        "pdf_bytes": 82388180,
-        "text_epub_bytes": 1152774,
-        "text_pdf_bytes": 3212071,
-        "package_7z_bytes": 794315
+        "epub_bytes": 78738168,
+        "pdf_bytes": 83176141,
+        "text_epub_bytes": 1152956,
+        "text_pdf_bytes": 3212512,
+        "package_7z_bytes": 794567
     },
-    "illustration_count": 128,
+    "illustration_count": 129,
     "eras": [
         {
             "era_num": 1,
@@ -3749,7 +3749,7 @@
             "era_num": 25,
             "era_title": "The 2020 Horizon Avalon (February 2020)",
             "era_url": "/raggiesoft-books/books/rachel/the-2020-horizon-avalon-february-2020",
-            "illustration_count": 6,
+            "illustration_count": 7,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -3847,7 +3847,7 @@
                     "chap_num": 3,
                     "chap_title": "Bayside Horizon: Equal Co-Owners, Cashier's Check, & Two Sets of Keys",
                     "chap_url": "/raggiesoft-books/books/rachel/the-2020-horizon-avalon-february-2020/bayside-horizon-equal-co-owners-cashier-s-check-two-sets-of-keys",
-                    "illustration_count": 2,
+                    "illustration_count": 3,
                     "parts": [
                         {
                             "part_num": 1,
@@ -3883,9 +3883,13 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b022/feb_2020_bayside_horizon_two_keys_handover.jpg",
                                     "alt": "In the delivery bay at Bayside Horizon, Michael and Rachel hug tightly beside their new royal blue 2020 Horizon Avalon holding their matching sets of keys while Ellen and saleswoman Denise Carter smile nearby"
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b022/feb_2020_avalon_windshield_toll_transponder_drive_home.jpg",
+                                    "alt": "Inside the cabin of their new 2020 Horizon Avalon parked in their Moosewood Drive driveway, Michael and Rachel hold hands across the center console as Rachel flips their generic white interior windshield toll transponder switch to green HOV mode for free HOV-2+ passage on the Hampton Roads Express Lanes"
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         }
                     ]
                 }
@@ -3913,11 +3917,11 @@
                             "location": "Front Desk & Parking Lot, Fairlawn Recreation Center, Marlborough Drive, Virginia Beach, VA",
                             "excerpt": "On Wednesday, March 13, 2024 at 5:55 PM\u2014five minutes before clock-out\u2014Heather Bouchard shows up at Fairlawn Rec Center, sending Michael's mind haywire as he asks Rachel to drive their shared car home.",
                             "image": "/raggiesoft-books/images/scenes/rachel/b023/march_2024_parking_lot_rachel_drives_home.jpg",
-                            "image_alt": "At 6:02 PM in the 2017 Fairlawn Recreation Center parking lot, Rachel sits in the driver's seat of their shared car looking across at a visibly shaken Michael in his royal blue work polo shirt as he asks her to drive them home instead of taking over the wheel",
+                            "image_alt": "At 6:02 PM in the Fairlawn Recreation Center parking lot, viewed through the front windshield of their royal blue 2020 Horizon Avalon with its white switchable HOV toll transponder mounted on the interior glass beside the rearview mirror, Rachel sits in the driver's seat looking across at a visibly shaken Michael in his royal blue work polo shirt as he asks her to drive them home",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b023/march_2024_parking_lot_rachel_drives_home.jpg",
-                                    "alt": "At 6:02 PM in the 2017 Fairlawn Recreation Center parking lot, Rachel sits in the driver's seat of their shared car looking across at a visibly shaken Michael in his royal blue work polo shirt as he asks her to drive them home instead of taking over the wheel"
+                                    "alt": "At 6:02 PM in the Fairlawn Recreation Center parking lot, viewed through the front windshield of their royal blue 2020 Horizon Avalon with its white switchable HOV toll transponder mounted on the interior glass beside the rearview mirror, Rachel sits in the driver's seat looking across at a visibly shaken Michael in his royal blue work polo shirt as he asks her to drive them home"
                                 }
                             ],
                             "image_count": 1
