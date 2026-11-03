@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "9.9 MB",
-        "pdf": "10.8 MB",
-        "text_epub": "51 KB",
-        "text_pdf": "149 KB",
-        "package_7z": "40 KB",
-        "epub_bytes": 10401234,
-        "pdf_bytes": 11277389,
-        "text_epub_bytes": 52011,
-        "text_pdf_bytes": 152118,
-        "package_7z_bytes": 41013
+        "epub": "10.9 MB",
+        "pdf": "11.8 MB",
+        "text_epub": "55 KB",
+        "text_pdf": "165 KB",
+        "package_7z": "44 KB",
+        "epub_bytes": 11437750,
+        "pdf_bytes": 12332674,
+        "text_epub_bytes": 56695,
+        "text_pdf_bytes": 169320,
+        "package_7z_bytes": 45159
     },
-    "illustration_count": 14,
+    "illustration_count": 15,
     "word_stats": {
-        "story_word_count": 17706,
+        "story_word_count": 19636,
         "lore_word_count": 121,
-        "combined_word_count": 17827,
-        "story_page_count": 64,
-        "combined_page_count": 65,
-        "reading_hours": 1.2,
-        "reading_minutes": 71,
+        "combined_word_count": 19757,
+        "story_page_count": 71,
+        "combined_page_count": 72,
+        "reading_hours": 1.3,
+        "reading_minutes": 79,
         "novel_equivalent": 0.2,
         "scale_category": "Novella",
         "scale_badge": "Novella",
         "benchmark_note": "Standard contemporary novella length (17,500\u201340,000 words)",
         "era_count": 3,
         "chapter_count": 9,
-        "part_count": 14,
-        "illustration_count": 14
+        "part_count": 15,
+        "illustration_count": 15
     },
     "eras": [
         {
@@ -240,8 +240,8 @@
             "era_num": 3,
             "era_title": "Sixteen & Summer Sanctuary",
             "era_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary",
-            "illustration_count": 8,
-            "word_count": 10543,
+            "illustration_count": 9,
+            "word_count": 12473,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -391,8 +391,8 @@
                     "chap_num": 3,
                     "chap_title": "Junior Year at Northwood High & The Prognosis",
                     "chap_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis",
-                    "illustration_count": 2,
-                    "word_count": 2097,
+                    "illustration_count": 3,
+                    "word_count": 4027,
                     "parts": [
                         {
                             "part_num": 1,
@@ -432,6 +432,27 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b003/sep_2001_dr_chen_prognosis_arms_legs_consultation.jpg",
                                     "alt": "Inside Dr. Evelyn Chen's consultation office in Virginia Beach in September 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in padded chairs holding hands beside their father David Prairie while Dr. Chen reviews their neuromuscular test results and prognosis across her desk"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Part 3: Two Folding Wheelchairs in the Trunk, Downsizing to Military Highway, & CVTA Route 15",
+                            "file_path": "e003/c003/p003.md",
+                            "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-3-part-3-two-folding-wheelchairs-in-the-trunk-downsizing-to-military-highway-cvta-route-15",
+                            "word_count": 1930,
+                            "reading_minutes": 8,
+                            "date": "2001-10-06",
+                            "start_time": "13:10",
+                            "location": "Virginia Beach, VA (Military Highway & Indian River Road \u2014 CVTA Route 15)",
+                            "excerpt": "Saddled with cruise debt and down to one student income after the divorce filing, David downsizes into a modest single-story rental house off Military Highway near Indian River Road\u2014right inside Northwood High's zone and right along CVTA Route 15.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b003/oct_2001_military_hwy_indian_river_cvta_route_15_wheelchairs.jpg",
+                            "image_alt": "At the CVTA Route 15 bus stop along the wide eight-lane corridor of US-13 Military Highway near Indian River Road in October 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their lightweight wheelchairs holding hands beside their father David Prairie as high-floor Beacon V transit bus #914\u2014wearing legacy Tidewater Regional Transit horizontal blue-and-teal stripes with a CVTA logo sticker beside the front door\u2014lowers its front-doorway hydraulic wheelchair step-lift to the curb",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b003/oct_2001_military_hwy_indian_river_cvta_route_15_wheelchairs.jpg",
+                                    "alt": "At the CVTA Route 15 bus stop along the wide eight-lane corridor of US-13 Military Highway near Indian River Road in October 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their lightweight wheelchairs holding hands beside their father David Prairie as high-floor Beacon V transit bus #914\u2014wearing legacy Tidewater Regional Transit horizontal blue-and-teal stripes with a CVTA logo sticker beside the front door\u2014lowers its front-doorway hydraulic wheelchair step-lift to the curb"
                                 }
                             ],
                             "image_count": 1
