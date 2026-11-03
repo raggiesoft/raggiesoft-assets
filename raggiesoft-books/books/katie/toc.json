@@ -8,23 +8,23 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "8.7 MB",
+        "epub": "8.6 MB",
         "pdf": "9.3 MB",
         "text_epub": "44 KB",
         "text_pdf": "128 KB",
         "package_7z": "34 KB",
-        "epub_bytes": 9083325,
-        "pdf_bytes": 9789168,
-        "text_epub_bytes": 44702,
-        "text_pdf_bytes": 130950,
-        "package_7z_bytes": 34594
+        "epub_bytes": 9045660,
+        "pdf_bytes": 9751313,
+        "text_epub_bytes": 44876,
+        "text_pdf_bytes": 131267,
+        "package_7z_bytes": 34731
     },
     "illustration_count": 12,
     "word_stats": {
-        "story_word_count": 14650,
+        "story_word_count": 14737,
         "lore_word_count": 121,
-        "combined_word_count": 14771,
-        "story_page_count": 53,
+        "combined_word_count": 14858,
+        "story_page_count": 54,
         "combined_page_count": 54,
         "reading_hours": 1,
         "reading_minutes": 59,
@@ -241,7 +241,7 @@
             "era_title": "Sixteen & Summer Sanctuary",
             "era_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary",
             "illustration_count": 6,
-            "word_count": 7487,
+            "word_count": 7574,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -278,7 +278,7 @@
                     "chap_title": "End of Summer Cruise",
                     "chap_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary/end-of-summer-cruise",
                     "illustration_count": 5,
-                    "word_count": 6267,
+                    "word_count": 6354,
                     "parts": [
                         {
                             "part_num": 1,
@@ -348,18 +348,18 @@
                             "part_title": "Part 4: Part 4: Back on Dry Land & The Twelve-Hour Drive Up I-95",
                             "file_path": "e003/c002/p004.md",
                             "url": "/katie/sixteen-summer-sanctuary/end-of-summer-cruise/part-4-part-4-back-on-dry-land-the-twelve-hour-drive-up-i-95",
-                            "word_count": 1800,
+                            "word_count": 1887,
                             "reading_minutes": 8,
                             "date": "2001-08-25",
                             "start_time": "08:30",
                             "location": "Port Canaveral, FL, Interstate 95 North (GA & NC), & Virginia Beach, VA",
                             "excerpt": "On the twelve-hour drive from Port Canaveral back to Virginia Beach, David helps Nathaniel and Katie through every highway stop without the ship's wheelchairs while Brenda's attempts to bargain only harden his resolve to hire a divorce lawyer.",
                             "image": "/raggiesoft-books/images/scenes/katie/b003/aug_2001_i95_drive_home_backseat_quantum_basic.jpg",
-                            "image_alt": "Parked under pine trees at an Interstate 95 North rest and drive-thru stop in August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in the back seat of their silver-blue Holt sedan holding hands with their father's Quantum Basic library book open across their laps while David Prairie hands them a paper lunch bag and cold sodas from the front seat",
+                            "image_alt": "Sitting side by side on the gray cloth rear bench seat of their family sedan along Interstate 95 North in August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie hold hands with their father's mylar-wrapped Quantum Basic library textbook open across their laps and a white paper drive-thru lunch bag beside them",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b003/aug_2001_i95_drive_home_backseat_quantum_basic.jpg",
-                                    "alt": "Parked under pine trees at an Interstate 95 North rest and drive-thru stop in August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in the back seat of their silver-blue Holt sedan holding hands with their father's Quantum Basic library book open across their laps while David Prairie hands them a paper lunch bag and cold sodas from the front seat"
+                                    "alt": "Sitting side by side on the gray cloth rear bench seat of their family sedan along Interstate 95 North in August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie hold hands with their father's mylar-wrapped Quantum Basic library textbook open across their laps and a white paper drive-thru lunch bag beside them"
                                 }
                             ],
                             "image_count": 1
