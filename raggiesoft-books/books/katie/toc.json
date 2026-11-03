@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "5.1 MB",
-        "pdf": "5.3 MB",
-        "text_epub": "29 KB",
-        "text_pdf": "85 KB",
-        "package_7z": "21 KB",
-        "epub_bytes": 5363819,
-        "pdf_bytes": 5577292,
-        "text_epub_bytes": 29409,
-        "text_pdf_bytes": 87015,
-        "package_7z_bytes": 21254
+        "epub": "6.5 MB",
+        "pdf": "6.8 MB",
+        "text_epub": "37 KB",
+        "text_pdf": "106 KB",
+        "package_7z": "28 KB",
+        "epub_bytes": 6770776,
+        "pdf_bytes": 7154351,
+        "text_epub_bytes": 37869,
+        "text_pdf_bytes": 108942,
+        "package_7z_bytes": 28541
     },
-    "illustration_count": 7,
+    "illustration_count": 9,
     "word_stats": {
-        "story_word_count": 8495,
+        "story_word_count": 11934,
         "lore_word_count": 121,
-        "combined_word_count": 8616,
-        "story_page_count": 31,
-        "combined_page_count": 31,
-        "reading_hours": 0.6,
-        "reading_minutes": 34,
-        "novel_equivalent": 0.09,
+        "combined_word_count": 12055,
+        "story_page_count": 43,
+        "combined_page_count": 44,
+        "reading_hours": 0.8,
+        "reading_minutes": 48,
+        "novel_equivalent": 0.13,
         "scale_category": "Short Fiction & Novelette",
         "scale_badge": "Short Fiction",
         "benchmark_note": "Short story / novelette companion (< 17,500 words)",
         "era_count": 3,
-        "chapter_count": 7,
-        "part_count": 7,
-        "illustration_count": 7
+        "chapter_count": 8,
+        "part_count": 9,
+        "illustration_count": 9
     },
     "eras": [
         {
@@ -240,22 +240,22 @@
             "era_num": 3,
             "era_title": "Sixteen & Summer Sanctuary",
             "era_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary",
-            "illustration_count": 1,
-            "word_count": 1080,
+            "illustration_count": 3,
+            "word_count": 4519,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Bonding With My Sister",
                     "chap_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary/bonding-with-my-sister",
                     "illustration_count": 1,
-                    "word_count": 1080,
+                    "word_count": 1198,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Summer Sanctuary: Hearthstone Pizza, The Sunlit Valley, & Katie's Room",
                             "file_path": "e003/c001/p001.md",
                             "url": "/katie/sixteen-summer-sanctuary/bonding-with-my-sister/summer-sanctuary-hearthstone-pizza-the-sunlit-valley-katie-s-room",
-                            "word_count": 1080,
+                            "word_count": 1198,
                             "reading_minutes": 5,
                             "date": "2001-06-18",
                             "start_time": "08:30",
@@ -267,6 +267,57 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b003/jun_2001_bonding_with_my_sister_katie_bedroom_butterfly.jpg",
                                     "alt": "Inside sixteen-year-old Katie Prairie's magenta-purple bedroom beneath the framed blue morpho butterfly artwork on the wall, fraternal twins Katie and Nathaniel Prairie sit propped up against the pillows on her green-and-gold bedspread in modest t-shirts and pajama pants, holding hands with Katie's arm draped warmly around Nathaniel's shoulders"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "End of Summer Cruise",
+                    "chap_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary/end-of-summer-cruise",
+                    "illustration_count": 2,
+                    "word_count": 3321,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Part 1: The I-95 Haul, The CCHR Library Books, & The Last Straw",
+                            "file_path": "e003/c002/p001.md",
+                            "url": "/katie/sixteen-summer-sanctuary/end-of-summer-cruise/part-1-part-1-the-i-95-haul-the-cchr-library-books-the-last-straw",
+                            "word_count": 2093,
+                            "reading_minutes": 9,
+                            "date": "2001-08-22",
+                            "start_time": "14:00",
+                            "location": "Aboard the M/S Sunward Tropics, Caribbean Sea",
+                            "excerpt": "On an end-of-summer Caribbean cruise that neither Dad nor the sixteen-year-old twins wanted to take, David Prairie encourages Katie and Nathaniel's coding dreams, cuts off Brenda's shipboard alcohol tab at Guest Services, and stands by his twins when their mother chooses the bottle over her family.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b003/aug_2001_end_of_summer_cruise_corridor_for_three.jpg",
+                            "image_alt": "Inside a quiet passenger corridor alcove aboard the M/S Sunward Tropics cruise ship in August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side holding hands and comforting their father David Prairie, who holds their three plastic shipboard keycards with soda-package stickers",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b003/aug_2001_end_of_summer_cruise_corridor_for_three.jpg",
+                                    "alt": "Inside a quiet passenger corridor alcove aboard the M/S Sunward Tropics cruise ship in August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side holding hands and comforting their father David Prairie, who holds their three plastic shipboard keycards with soda-package stickers"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Part 2: Back on Dry Land \u2014 The Divorce Lawyer, The PCP, & Borrowed Time",
+                            "file_path": "e003/c002/p002.md",
+                            "url": "/katie/sixteen-summer-sanctuary/end-of-summer-cruise/part-2-part-2-back-on-dry-land-the-divorce-lawyer-the-pcp-borrowed-time",
+                            "word_count": 1228,
+                            "reading_minutes": 5,
+                            "date": "2001-08-25",
+                            "start_time": "08:30",
+                            "location": "Port Canaveral, FL & Virginia Beach, VA",
+                            "excerpt": "Back on dry land in Florida and home in Virginia Beach, David Prairie makes two life-changing appointments\u2014one with a divorce attorney, and one with Nathaniel and Katie's primary care physician, who discovers that their weakening arms and legs are more than cerebral palsy.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b003/aug_2001_back_on_dry_land_pcp_exam_borrowed_time.jpg",
+                            "image_alt": "Inside a Virginia Beach primary care physician's exam room in late August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side on the exam bench holding hands while their father David Prairie stands beside them and the family doctor tests Nathaniel's arm and grip strength",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b003/aug_2001_back_on_dry_land_pcp_exam_borrowed_time.jpg",
+                                    "alt": "Inside a Virginia Beach primary care physician's exam room in late August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side on the exam bench holding hands while their father David Prairie stands beside them and the family doctor tests Nathaniel's arm and grip strength"
                                 }
                             ],
                             "image_count": 1
