@@ -9,26 +9,26 @@
     "next_series_url": "",
     "ebook_sizes": {
         "epub": "8.6 MB",
-        "pdf": "9.3 MB",
-        "text_epub": "44 KB",
-        "text_pdf": "128 KB",
-        "package_7z": "34 KB",
-        "epub_bytes": 9045660,
-        "pdf_bytes": 9751313,
-        "text_epub_bytes": 44876,
-        "text_pdf_bytes": 131267,
-        "package_7z_bytes": 34731
+        "pdf": "9.2 MB",
+        "text_epub": "45 KB",
+        "text_pdf": "131 KB",
+        "package_7z": "35 KB",
+        "epub_bytes": 9026565,
+        "pdf_bytes": 9676882,
+        "text_epub_bytes": 46012,
+        "text_pdf_bytes": 134474,
+        "package_7z_bytes": 35725
     },
     "illustration_count": 12,
     "word_stats": {
-        "story_word_count": 14737,
+        "story_word_count": 15265,
         "lore_word_count": 121,
-        "combined_word_count": 14858,
-        "story_page_count": 54,
-        "combined_page_count": 54,
+        "combined_word_count": 15386,
+        "story_page_count": 56,
+        "combined_page_count": 56,
         "reading_hours": 1,
-        "reading_minutes": 59,
-        "novel_equivalent": 0.16,
+        "reading_minutes": 61,
+        "novel_equivalent": 0.17,
         "scale_category": "Short Fiction & Novelette",
         "scale_badge": "Short Fiction",
         "benchmark_note": "Short story / novelette companion (< 17,500 words)",
@@ -241,7 +241,7 @@
             "era_title": "Sixteen & Summer Sanctuary",
             "era_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary",
             "illustration_count": 6,
-            "word_count": 7574,
+            "word_count": 8102,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -278,7 +278,7 @@
                     "chap_title": "End of Summer Cruise",
                     "chap_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary/end-of-summer-cruise",
                     "illustration_count": 5,
-                    "word_count": 6354,
+                    "word_count": 6882,
                     "parts": [
                         {
                             "part_num": 1,
@@ -348,18 +348,18 @@
                             "part_title": "Part 4: Part 4: Back on Dry Land & The Twelve-Hour Drive Up I-95",
                             "file_path": "e003/c002/p004.md",
                             "url": "/katie/sixteen-summer-sanctuary/end-of-summer-cruise/part-4-part-4-back-on-dry-land-the-twelve-hour-drive-up-i-95",
-                            "word_count": 1887,
-                            "reading_minutes": 8,
+                            "word_count": 2415,
+                            "reading_minutes": 10,
                             "date": "2001-08-25",
                             "start_time": "08:30",
                             "location": "Port Canaveral, FL, Interstate 95 North (GA & NC), & Virginia Beach, VA",
                             "excerpt": "On the twelve-hour drive from Port Canaveral back to Virginia Beach, David helps Nathaniel and Katie through every highway stop without the ship's wheelchairs while Brenda's attempts to bargain only harden his resolve to hire a divorce lawyer.",
                             "image": "/raggiesoft-books/images/scenes/katie/b003/aug_2001_i95_drive_home_backseat_quantum_basic.jpg",
-                            "image_alt": "Sitting side by side on the gray cloth rear bench seat of their family sedan along Interstate 95 North in August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie hold hands with their father's mylar-wrapped Quantum Basic library textbook open across their laps and a white paper drive-thru lunch bag beside them",
+                            "image_alt": "Buckled safely in their three-point seatbelts side by side on the gray cloth rear bench seat of their family sedan along Interstate 95 North in August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie hold hands with their father's mylar-wrapped Quantum Basic library textbook open across Nathaniel's lap and a white paper drive-thru lunch bag on Katie's lap",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b003/aug_2001_i95_drive_home_backseat_quantum_basic.jpg",
-                                    "alt": "Sitting side by side on the gray cloth rear bench seat of their family sedan along Interstate 95 North in August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie hold hands with their father's mylar-wrapped Quantum Basic library textbook open across their laps and a white paper drive-thru lunch bag beside them"
+                                    "alt": "Buckled safely in their three-point seatbelts side by side on the gray cloth rear bench seat of their family sedan along Interstate 95 North in August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie hold hands with their father's mylar-wrapped Quantum Basic library textbook open across Nathaniel's lap and a white paper drive-thru lunch bag on Katie's lap"
                                 }
                             ],
                             "image_count": 1
