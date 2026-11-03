@@ -8,22 +8,22 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "10.8 MB",
-        "pdf": "11.9 MB",
-        "text_epub": "78 KB",
+        "epub": "11.6 MB",
+        "pdf": "12.7 MB",
+        "text_epub": "79 KB",
         "text_pdf": "229 KB",
         "package_7z": "62 KB",
-        "epub_bytes": 11292133,
-        "pdf_bytes": 12431969,
-        "text_epub_bytes": 80347,
-        "text_pdf_bytes": 234413,
-        "package_7z_bytes": 63105
+        "epub_bytes": 12147398,
+        "pdf_bytes": 13350315,
+        "text_epub_bytes": 80550,
+        "text_pdf_bytes": 234509,
+        "package_7z_bytes": 63384
     },
     "illustration_count": 19,
     "word_stats": {
-        "story_word_count": 29678,
+        "story_word_count": 29698,
         "lore_word_count": 121,
-        "combined_word_count": 29799,
+        "combined_word_count": 29819,
         "story_page_count": 108,
         "combined_page_count": 108,
         "reading_hours": 2,
@@ -241,7 +241,7 @@
             "era_title": "Sixteen & Summer Sanctuary",
             "era_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary",
             "illustration_count": 11,
-            "word_count": 18696,
+            "word_count": 18716,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -392,7 +392,7 @@
                     "chap_title": "Junior Year at Northwood High & The Prognosis",
                     "chap_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis",
                     "illustration_count": 3,
-                    "word_count": 5944,
+                    "word_count": 5964,
                     "parts": [
                         {
                             "part_num": 1,
@@ -417,15 +417,15 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Part 2: When Borrowed Time Runs Out \u2014 The Collapse at School, The Clinic Emergency, & Time for Powerchairs",
+                            "part_title": "Part 2: Part 2: When Borrowed Time Runs Out \u2014 The Collapse at School, The Emergency Room Escalation, & Time for Powerchairs",
                             "file_path": "e003/c003/p002.md",
-                            "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-2-part-2-when-borrowed-time-runs-out-the-collapse-at-school-the-clinic-emergency-time-for-powerchairs",
-                            "word_count": 2782,
+                            "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-2-part-2-when-borrowed-time-runs-out-the-collapse-at-school-the-emergency-room-escalation-time-for-powerchairs",
+                            "word_count": 2802,
                             "reading_minutes": 12,
                             "date": "2001-09-14",
                             "start_time": "13:15",
-                            "location": "Virginia Beach, VA (Northwood High School & Dr. Evelyn Chen's Family Practice)",
-                            "excerpt": "Forty-five minutes before Friday's 2:00 PM dismissal for their 3:00 PM doctor's appointment, Nathaniel and Katie's legs finally give out for good at Northwood High School\u2014triggering an escalated clinic emergency after both twins collapse a second time and hit their heads while trying to get back up.",
+                            "location": "Virginia Beach, VA (Northwood High School, Bayside General Hospital ER, & Dr. Evelyn Chen's Consultation)",
+                            "excerpt": "Forty-five minutes before Friday's 2:00 PM dismissal for their 3:00 PM doctor's appointment, Nathaniel and Katie's legs finally give out for good at Northwood High School\u2014triggering an Emergency Room escalation after both twins collapse a second time, hit their heads on the floor, and immediately reach out to hold hands.",
                             "image": "/raggiesoft-books/images/scenes/katie/b003/sep_2001_dr_chen_prognosis_arms_legs_consultation.jpg",
                             "image_alt": "Inside Dr. Evelyn Chen's consultation office in Virginia Beach in September 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in wheelchairs holding hands beside their father David Prairie while Dr. Chen reviews their neuromuscular test results and prescribes their power wheelchairs",
                             "images": [
@@ -498,12 +498,12 @@
                             "start_time": "12:45",
                             "location": "Chesapeake, VA (Emerald Creek Mall \u2014 Second-Floor Food Court & Concourse)",
                             "excerpt": "On their first high-school double date at Emerald Creek Mall, Heather proves why she loves Nate and respects the twins' bond because of her disabled cousin Wesley\u2014while Ryan bails down the escalator when Katie puts her brother first.",
-                            "image": "/raggiesoft-books/images/scenes/katie/b003/oct_2001_military_hwy_indian_river_cvta_route_15_wheelchairs.jpg",
-                            "image_alt": "At the CVTA Route 15 bus stop along US-13 Military Highway near Indian River Road in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact power wheelchairs holding hands beside their father David Prairie",
+                            "image": "/raggiesoft-books/images/scenes/katie/b003/oct_2001_emerald_creek_mall_food_court_double_date.jpg",
+                            "image_alt": "Inside the bustling second-floor food court of Emerald Creek Mall beneath its sunlit white tented canopy ceiling in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact power wheelchairs holding hands across from Heather Collins and Ryan Miller",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b003/oct_2001_military_hwy_indian_river_cvta_route_15_wheelchairs.jpg",
-                                    "alt": "At the CVTA Route 15 bus stop along US-13 Military Highway near Indian River Road in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact power wheelchairs holding hands beside their father David Prairie"
+                                    "src": "/raggiesoft-books/images/scenes/katie/b003/oct_2001_emerald_creek_mall_food_court_double_date.jpg",
+                                    "alt": "Inside the bustling second-floor food court of Emerald Creek Mall beneath its sunlit white tented canopy ceiling in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact power wheelchairs holding hands across from Heather Collins and Ryan Miller"
                                 }
                             ],
                             "image_count": 1
