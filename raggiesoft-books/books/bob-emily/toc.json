@@ -17,27 +17,48 @@
         "pdf_bytes": 235362,
         "text_epub_bytes": 85613,
         "text_pdf_bytes": 235362,
-        "package_7z_bytes": 63467
+        "package_7z_bytes": 63756
     },
     "illustration_count": 0,
+    "word_stats": {
+        "story_word_count": 33772,
+        "lore_word_count": 157,
+        "combined_word_count": 33929,
+        "story_page_count": 123,
+        "combined_page_count": 123,
+        "reading_hours": 2.3,
+        "reading_minutes": 135,
+        "novel_equivalent": 0.4,
+        "scale_category": "Novella",
+        "scale_badge": "Novella",
+        "benchmark_note": "Standard contemporary novella length (17,500\u201340,000 words)",
+        "era_count": 4,
+        "chapter_count": 8,
+        "part_count": 11,
+        "illustration_count": 0
+    },
     "eras": [
         {
             "era_num": 1,
             "era_title": "Life Without a Father",
             "era_url": "/raggiesoft-books/books/bob-emily/life-without-a-father",
             "illustration_count": 0,
+            "word_count": 11768,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Longest Day",
                     "chap_url": "/raggiesoft-books/books/bob-emily/life-without-a-father/the-longest-day",
                     "illustration_count": 0,
+                    "word_count": 3484,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Final Promise & A New Plan of Action",
                             "file_path": "e001/c001/p001.md",
                             "url": "/bob-emily/life-without-a-father/the-longest-day/the-final-promise-a-new-plan-of-action",
+                            "word_count": 3484,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The hospital room was cold and sterile, the only sound the soft, rhythmic beep of the heart monitor. Emily Jenkins, all of fifteen years old, sat in a chair pulled up close to her father's bed. On her lap sat\u2026"
                         }
@@ -48,12 +69,15 @@
                     "chap_title": "The New Normal",
                     "chap_url": "/raggiesoft-books/books/bob-emily/life-without-a-father/the-new-normal",
                     "illustration_count": 0,
+                    "word_count": 8284,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The First Day & A Failure to Communicate",
                             "file_path": "e001/c002/p001.md",
                             "url": "/bob-emily/life-without-a-father/the-new-normal/part-1-the-first-day-a-failure-to-communicate",
+                            "word_count": 3792,
+                            "reading_minutes": 16,
                             "location": "Unknown",
                             "excerpt": "The morning after the longest day of their lives was a quiet, somber affair. After a simple breakfast, Diane drove Emily and Bob to Bluewater High School. She walked them past the throngs of students and\u2026"
                         },
@@ -62,6 +86,8 @@
                             "part_title": "Part 2: The Teacher's Apology & A Message in Muscle",
                             "file_path": "e001/c002/p002.md",
                             "url": "/bob-emily/life-without-a-father/the-new-normal/part-2-the-teacher-s-apology-a-message-in-muscle",
+                            "word_count": 3766,
+                            "reading_minutes": 16,
                             "location": "Unknown",
                             "excerpt": "The atmosphere in Language Arts on Thursday was tense. The students who had witnessed the incident with the substitute two days prior were quiet, watching Bob with supportive but worried eyes. Their regular\u2026"
                         },
@@ -70,6 +96,8 @@
                             "part_title": "Part 3: The Gable Report & The Emily Jenkins Rule",
                             "file_path": "e001/c002/p003.md",
                             "url": "/bob-emily/life-without-a-father/the-new-normal/part-3-the-gable-report-the-emily-jenkins-rule",
+                            "word_count": 726,
+                            "reading_minutes": 3,
                             "location": "Unknown",
                             "excerpt": "Jim Gable had been the weight room attendant and a gym teacher at Bluewater High for twenty-five years. He thought he had seen it all. He was wrong. After Emily and Bob left the weight room, he just stood there\u2026"
                         }
@@ -82,18 +110,22 @@
             "era_title": "Assault",
             "era_url": "/raggiesoft-books/books/bob-emily/assault",
             "illustration_count": 0,
+            "word_count": 5805,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Locker",
                     "chap_url": "/raggiesoft-books/books/bob-emily/assault/the-locker",
                     "illustration_count": 0,
+                    "word_count": 2300,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Assault & The Perp Walk",
                             "file_path": "e002/c001/p001.md",
                             "url": "/bob-emily/assault/the-locker/the-assault-the-perp-walk",
+                            "word_count": 2300,
+                            "reading_minutes": 10,
                             "location": "Unknown",
                             "excerpt": "The legend of the \"Emily Jenkins Rule\" gave the cousins a wide berth of respect and safety in the crowded hallways of Bluewater High. Bullies and troublemakers, having heard the story of the girl who was\u2026"
                         }
@@ -104,12 +136,15 @@
                     "chap_title": "The Hospital",
                     "chap_url": "/raggiesoft-books/books/bob-emily/assault/the-hospital",
                     "illustration_count": 0,
+                    "word_count": 3505,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Long Wait & Chapter Notes: The Planetarium Promise",
                             "file_path": "e002/c002/p001.md",
                             "url": "/bob-emily/assault/the-hospital/the-long-wait-chapter-notes-the-planetarium-promise",
+                            "word_count": 3505,
+                            "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The controlled chaos of the children's hospital emergency room swirled around them, but the Scott family was an island of tense, focused silence. Bob lay on a gurney in a curtained-off bay, his face pale with\u2026"
                         }
@@ -122,18 +157,22 @@
             "era_title": "Bob Healing",
             "era_url": "/raggiesoft-books/books/bob-emily/bob-healing",
             "illustration_count": 0,
+            "word_count": 9461,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Bob\u2019s New Reality",
                     "chap_url": "/raggiesoft-books/books/bob-emily/bob-healing/bob-s-new-reality",
                     "illustration_count": 0,
+                    "word_count": 3432,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The First Day Home & Cleared for Travel",
                             "file_path": "e003/c001/p001.md",
                             "url": "/bob-emily/bob-healing/bob-s-new-reality/the-first-day-home-cleared-for-travel",
+                            "word_count": 3432,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The ride home from the hospital was quiet, the car filled with a heavy mixture of relief and dread. After David carefully lifted Bob from the car into the new wheelchair, they wheeled him up the ramp and into\u2026"
                         }
@@ -144,12 +183,15 @@
                     "chap_title": "Bob and Emily See the Stars",
                     "chap_url": "/raggiesoft-books/books/bob-emily/bob-healing/bob-and-emily-see-the-stars",
                     "illustration_count": 0,
+                    "word_count": 3176,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A Trip to the Stars & Bluewater Transit Steps Up to the Plate",
                             "file_path": "e003/c002/p001.md",
                             "url": "/bob-emily/bob-healing/bob-and-emily-see-the-stars/a-trip-to-the-stars-bluewater-transit-steps-up-to-the-plate",
+                            "word_count": 3176,
+                            "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "The first Friday in April arrived, buzzing with an energy that felt like a holiday. It was the day of the planetarium field trip. For Bob, who had clung to the promise of this day through the darkest weeks of\u2026"
                         }
@@ -160,12 +202,15 @@
                     "chap_title": "Finishing the Semester Strong",
                     "chap_url": "/raggiesoft-books/books/bob-emily/bob-healing/finishing-the-semester-strong",
                     "illustration_count": 0,
+                    "word_count": 2853,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A Hard Limit & The Graduation Pact",
                             "file_path": "e003/c003/p001.md",
                             "url": "/bob-emily/bob-healing/finishing-the-semester-strong/a-hard-limit-the-graduation-pact",
+                            "word_count": 2853,
+                            "reading_minutes": 12,
                             "location": "Unknown",
                             "excerpt": "It was a late spring afternoon, several weeks after the planetarium trip, during a comprehensive follow-up appointment with Bob\u2019s orthopedic surgeon and his physical therapist. Bob, now weighing about 90 pounds\u2026"
                         }
@@ -178,18 +223,22 @@
             "era_title": "Summer 2015",
             "era_url": "/raggiesoft-books/books/bob-emily/summer-2015",
             "illustration_count": 0,
+            "word_count": 6738,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Tale of Two Sanctuaries",
                     "chap_url": "/raggiesoft-books/books/bob-emily/summer-2015/a-tale-of-two-sanctuaries",
                     "illustration_count": 0,
+                    "word_count": 6738,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Christiansburg Connection & The Best News",
                             "file_path": "e004/c001/p001.md",
                             "url": "/bob-emily/summer-2015/a-tale-of-two-sanctuaries/part-1-the-christiansburg-connection-the-best-news",
+                            "word_count": 3361,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The humid, heavy heat of a southwestern Virginia summer settled over Bluewater, bringing with it a quiet, lazy rhythm. With the grueling pressure of their freshman year and the stress of the SOLs officially\u2026"
                         },
@@ -198,6 +247,8 @@
                             "part_title": "Part 2: The Schedule and the Ride & The Last Drop of Summer",
                             "file_path": "e004/c001/p002.md",
                             "url": "/bob-emily/summer-2015/a-tale-of-two-sanctuaries/part-2-the-schedule-and-the-ride-the-last-drop-of-summer",
+                            "word_count": 3377,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "As July melted into August, the lazy summer days gave way to the inevitable preparations for the Fall 2015 semester. One afternoon, Diane walked into the living room holding two thick envelopes stamped with the\u2026"
                         }

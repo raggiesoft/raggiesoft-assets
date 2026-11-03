@@ -17,27 +17,48 @@
         "pdf_bytes": 194611,
         "text_epub_bytes": 66696,
         "text_pdf_bytes": 194611,
-        "package_7z_bytes": 50277
+        "package_7z_bytes": 50596
     },
     "illustration_count": 0,
+    "word_stats": {
+        "story_word_count": 25132,
+        "lore_word_count": 1431,
+        "combined_word_count": 26563,
+        "story_page_count": 91,
+        "combined_page_count": 97,
+        "reading_hours": 1.7,
+        "reading_minutes": 101,
+        "novel_equivalent": 0.3,
+        "scale_category": "Novella",
+        "scale_badge": "Novella",
+        "benchmark_note": "Standard contemporary novella length (17,500\u201340,000 words)",
+        "era_count": 4,
+        "chapter_count": 8,
+        "part_count": 11,
+        "illustration_count": 0
+    },
     "eras": [
         {
             "era_num": 1,
             "era_title": "Book 1: Toby\u2019s 6th Grade",
             "era_url": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade",
             "illustration_count": 0,
+            "word_count": 16137,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Father and the Uncle (Sunday, July 13, 1997)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-1-the-father-and-the-uncle-sunday-july-13-1997",
                     "illustration_count": 0,
+                    "word_count": 2933,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Father and the Uncle",
                             "file_path": "e001/c001/p001.md",
                             "url": "/samantha/book-1-toby-s-6th-grade/chapter-1-the-father-and-the-uncle-sunday-july-13-1997/the-father-and-the-uncle",
+                            "word_count": 2933,
+                            "reading_minutes": 12,
                             "start_time": "14:40",
                             "location": "Unknown",
                             "excerpt": "The suffocating heat of the car was absolute. I was shoved into the far corner of the backseat, my body rigid, my muscles locked in a constant, vibrating state of terror. In the front seats, Richard and\u2026"
@@ -49,12 +70,15 @@
                     "chap_title": "Chapter 2: The Extraction (Monday, July 14, 1997)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-2-the-extraction-monday-july-14-1997",
                     "illustration_count": 0,
+                    "word_count": 12399,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Night Flight Across Virginia",
                             "file_path": "e001/c002/p001.md",
                             "url": "/samantha/book-1-toby-s-6th-grade/chapter-2-the-extraction-monday-july-14-1997/part-1-the-night-flight-across-virginia",
+                            "word_count": 3791,
+                            "reading_minutes": 16,
                             "start_time": "00:05",
                             "location": "Unknown",
                             "excerpt": "The heavy wooden door to the cellar shut with a sickening thud, permanently sealing my father and my uncle in the dark. I couldn't stop crying. The tears were blinding, burning my eyes and soaking my face. My\u2026"
@@ -64,6 +88,8 @@
                             "part_title": "Part 2: Safe Harbor in Virginia Beach",
                             "file_path": "e001/c002/p002.md",
                             "url": "/samantha/book-1-toby-s-6th-grade/chapter-2-the-extraction-monday-july-14-1997/part-2-safe-harbor-in-virginia-beach",
+                            "word_count": 3228,
+                            "reading_minutes": 13,
                             "start_time": "09:45",
                             "location": "Unknown",
                             "excerpt": "We emerged from the Hampton Roads Bridge-Tunnel, bursting out of the tiled, fluorescent descent and back into the gray, overcast daylight of the Norfolk side. The rain had completely stopped, leaving the coastal\u2026"
@@ -73,6 +99,8 @@
                             "part_title": "Part 3: The Emergency Room",
                             "file_path": "e001/c002/p003.md",
                             "url": "/samantha/book-1-toby-s-6th-grade/chapter-2-the-extraction-monday-july-14-1997/part-3-the-emergency-room",
+                            "word_count": 3715,
+                            "reading_minutes": 15,
                             "start_time": "19:30",
                             "location": "Unknown",
                             "excerpt": "After the staggering amount of food we had just consumed, the house settled into a heavy, quiet lull. But Abbey and Sarah weren't built to simply sit still. Abbey pushed my custom manual wheelchair through the\u2026"
@@ -82,6 +110,8 @@
                             "part_title": "Part 4: Pediatric Recovery",
                             "file_path": "e001/c002/p004.md",
                             "url": "/samantha/book-1-toby-s-6th-grade/chapter-2-the-extraction-monday-july-14-1997/part-4-pediatric-recovery",
+                            "word_count": 1665,
+                            "reading_minutes": 7,
                             "start_time": "23:30",
                             "location": "Unknown",
                             "excerpt": "Coming up from the twilight sedation was slow and heavy. There was no sudden jolt of awareness, just a gradual, soft return to the bright lights of the trauma bay. The first thing I noticed was the absolute\u2026"
@@ -93,12 +123,15 @@
                     "chap_title": "Chapter 3: The Night Watch (Tuesday, July 15, 1997)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-3-the-night-watch-tuesday-july-15-1997",
                     "illustration_count": 0,
+                    "word_count": 805,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Night Watch",
                             "file_path": "e001/c003/p001.md",
                             "url": "/samantha/book-1-toby-s-6th-grade/chapter-3-the-night-watch-tuesday-july-15-1997/the-night-watch",
+                            "word_count": 805,
+                            "reading_minutes": 4,
                             "start_time": "01:55",
                             "location": "Unknown",
                             "excerpt": "The heavy, narcotic sleep was dreamless, acting as a thick chemical wall between my brain and the trauma of the day. As the heavy sedatives began to cycle through my system, the distant hum of the hospital\u2026"
@@ -112,18 +145,22 @@
             "era_title": "Book 2: Toby\u2019s 8th Grade Year",
             "era_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year",
             "illustration_count": 0,
+            "word_count": 6718,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Matrix Anomaly (Tuesday, April 20, 1999)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year/chapter-1-the-matrix-anomaly-tuesday-april-20-1999",
                     "illustration_count": 0,
+                    "word_count": 2695,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Matrix Anomaly",
                             "file_path": "e002/c001/p001.md",
                             "url": "/samantha/book-2-toby-s-8th-grade-year/chapter-1-the-matrix-anomaly-tuesday-april-20-1999/the-matrix-anomaly",
+                            "word_count": 2695,
+                            "reading_minutes": 11,
                             "start_time": "13:15",
                             "location": "Unknown",
                             "excerpt": "The intercom speaker mounted high on the cinderblock wall crackled. I felt the sharp burst of static in my teeth a split second before the administrative voice actually spoke. \"Pardon the interruption. Will\u2026"
@@ -135,12 +172,15 @@
                     "chap_title": "Chapter 2: The Intent to Enroll (Friday, April 23, 1999)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year/chapter-2-the-intent-to-enroll-friday-april-23-1999",
                     "illustration_count": 0,
+                    "word_count": 779,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Intent to Enroll",
                             "file_path": "e002/c002/p001.md",
                             "url": "/samantha/book-2-toby-s-8th-grade-year/chapter-2-the-intent-to-enroll-friday-april-23-1999/the-intent-to-enroll",
+                            "word_count": 779,
+                            "reading_minutes": 4,
                             "start_time": "16:30",
                             "location": "Unknown",
                             "excerpt": "Sarah walked through the front door, the heavy deadbolt immediately clicking shut behind her to secure the perimeter. In her massive hand, she held a small stack of Friday mail, dominated entirely by a thick\u2026"
@@ -152,12 +192,15 @@
                     "chap_title": "Chapter 3: The Bureaucratic Disbelief (Wednesday, April 28, 1999)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year/chapter-3-the-bureaucratic-disbelief-wednesday-april-28-1999",
                     "illustration_count": 0,
+                    "word_count": 588,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Bureaucratic Disbelief",
                             "file_path": "e002/c003/p001.md",
                             "url": "/samantha/book-2-toby-s-8th-grade-year/chapter-3-the-bureaucratic-disbelief-wednesday-april-28-1999/the-bureaucratic-disbelief",
+                            "word_count": 588,
+                            "reading_minutes": 3,
                             "start_time": "10:15",
                             "location": "Unknown",
                             "excerpt": "The wall-mounted telephone in the kitchen rang, shattering the mid-morning quiet of the house. Abbey, who was at the counter prepping a massive caloric meal for herself and Sarah, wiped her hands on a towel and\u2026"
@@ -169,12 +212,15 @@
                     "chap_title": "Chapter 4: The Morrison Stand-Off (Thursday, May 6, 1999)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year/chapter-4-the-morrison-stand-off-thursday-may-6-1999",
                     "illustration_count": 0,
+                    "word_count": 2656,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Morrison Stand-Off",
                             "file_path": "e002/c004/p001.md",
                             "url": "/samantha/book-2-toby-s-8th-grade-year/chapter-4-the-morrison-stand-off-thursday-may-6-1999/the-morrison-stand-off",
+                            "word_count": 2656,
+                            "reading_minutes": 11,
                             "start_time": "15:05",
                             "location": "Unknown",
                             "excerpt": "The final bell had rung twenty minutes ago. The chaotic tide of eighth graders had already washed out of the building, leaving the main lobby of Morrison Middle School echoing and mostly empty. I sat in my\u2026"
@@ -188,18 +234,22 @@
             "era_title": "Book 3: The Environmental Doctrine",
             "era_url": "/raggiesoft-books/books/samantha/book-3-the-environmental-doctrine",
             "illustration_count": 0,
+            "word_count": 2277,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Cosmic Collapse (Tuesday, July 13, 1999)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-3-the-environmental-doctrine/chapter-1-the-cosmic-collapse-tuesday-july-13-1999",
                     "illustration_count": 0,
+                    "word_count": 2277,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Cosmic Collapse",
                             "file_path": "e003/c001/p001.md",
                             "url": "/samantha/book-3-the-environmental-doctrine/chapter-1-the-cosmic-collapse-tuesday-july-13-1999/the-cosmic-collapse",
+                            "word_count": 2277,
+                            "reading_minutes": 10,
                             "start_time": "10:15",
                             "location": "Unknown",
                             "excerpt": "We arrived in the sprawling asphalt of the strip mall parking lot. Abbey cut the engine of her sedan. I could feel the vibrations of the car fade, replaced immediately by the tight, familiar hum of my own locked\u2026"
@@ -213,6 +263,7 @@
             "era_title": "Book 4: Silent Whispers",
             "era_url": "/raggiesoft-books/books/samantha/book-4-silent-whispers",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": []
         }
     ]

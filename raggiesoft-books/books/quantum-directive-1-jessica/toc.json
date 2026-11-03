@@ -17,27 +17,48 @@
         "pdf_bytes": 259351,
         "text_epub_bytes": 87849,
         "text_pdf_bytes": 259351,
-        "package_7z_bytes": 70472
+        "package_7z_bytes": 70784
     },
     "illustration_count": 0,
+    "word_stats": {
+        "story_word_count": 34858,
+        "lore_word_count": 133,
+        "combined_word_count": 34991,
+        "story_page_count": 127,
+        "combined_page_count": 127,
+        "reading_hours": 2.3,
+        "reading_minutes": 139,
+        "novel_equivalent": 0.4,
+        "scale_category": "Novella",
+        "scale_badge": "Novella",
+        "benchmark_note": "Standard contemporary novella length (17,500\u201340,000 words)",
+        "era_count": 2,
+        "chapter_count": 15,
+        "part_count": 16,
+        "illustration_count": 0
+    },
     "eras": [
         {
             "era_num": 1,
             "era_title": "Currents and Crosswinds",
             "era_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds",
             "illustration_count": 0,
+            "word_count": 34858,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "An Ordinary July",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/an-ordinary-july",
                     "illustration_count": 0,
+                    "word_count": 7143,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Day-to-Day at Quantum & Providence to Boston",
                             "file_path": "e001/c001/p001.md",
                             "url": "/quantum-directive-1-jessica/currents-and-crosswinds/an-ordinary-july/part-1-day-to-day-at-quantum-providence-to-boston",
+                            "word_count": 3385,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The hum of Jessica\u2019s office was a sound she knew better than her own heartbeat \u2014 the low, steady whir of two workstations running side by side. On her left, the Quantum OS tower was chewing through a debug build\u2026"
                         },
@@ -46,6 +67,8 @@
                             "part_title": "Part 2: The Morning Hand-Off & The Debrief",
                             "file_path": "e001/c001/p002.md",
                             "url": "/quantum-directive-1-jessica/currents-and-crosswinds/an-ordinary-july/part-2-the-morning-hand-off-the-debrief",
+                            "word_count": 3758,
+                            "reading_minutes": 16,
                             "location": "Unknown",
                             "excerpt": "The first light of morning spilled through the narrow gap in the blackout curtains, painting a thin gold line across the carpet. Jessica blinked awake in the unfamiliar stillness of the hotel room. For a moment\u2026"
                         }
@@ -56,12 +79,15 @@
                     "chap_title": "Currents to Still Water",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/currents-to-still-water",
                     "illustration_count": 0,
+                    "word_count": 3274,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Homecoming & The First Autograph",
                             "file_path": "e001/c002/p001.md",
                             "url": "/quantum-directive-1-jessica/currents-and-crosswinds/currents-to-still-water/homecoming-the-first-autograph",
+                            "word_count": 3274,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The late\u2011summer light was already slanting low when the car turned off the main road and onto the long gravel drive. Jessica leaned her head against the window, watching the familiar silhouette of the old\u2026"
                         }
@@ -72,12 +98,15 @@
                     "chap_title": "The Spark of Rebellion",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-spark-of-rebellion",
                     "illustration_count": 0,
+                    "word_count": 976,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Morning Commute & The Confrontation at Aurora",
                             "file_path": "e001/c003/p001.md",
                             "url": "/quantum-directive-1-jessica/currents-and-crosswinds/the-spark-of-rebellion/the-morning-commute-the-confrontation-at-aurora",
+                            "word_count": 976,
+                            "reading_minutes": 4,
                             "location": "Unknown",
                             "excerpt": "The 174 rumbled north through the early Seattle light, its diesel engine humming under the low murmur from the back third of the bus. This was the \u201cclub\u201d\u2014a loose-knit knot of developers from across the city\u2019s\u2026"
                         }
@@ -88,12 +117,15 @@
                     "chap_title": "The War Councils Assemble",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-war-councils-assemble",
                     "illustration_count": 0,
+                    "word_count": 416,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Quantum's Alliance & Aurora's Rebellion",
                             "file_path": "e001/c004/p001.md",
                             "url": "/quantum-directive-1-jessica/currents-and-crosswinds/the-war-councils-assemble/quantum-s-alliance-aurora-s-rebellion",
+                            "word_count": 416,
+                            "reading_minutes": 2,
                             "location": "Unknown",
                             "excerpt": "The next day, on the \\#253 eastbound bus across the SR 520 Bridge, the Quantum engineers who shared Jessica\u2019s transfer leaned in. They\u2019d heard every word of yesterday\u2019s warning from the Aurora crew. \u201cJess, we\u2019ve\u2026"
                         }
@@ -104,12 +136,15 @@
                     "chap_title": "The Memo",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-memo",
                     "illustration_count": 0,
+                    "word_count": 1227,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Leak & Damage Control",
                             "file_path": "e001/c005/p001.md",
                             "url": "/quantum-directive-1-jessica/currents-and-crosswinds/the-memo/the-leak-damage-control",
+                            "word_count": 1227,
+                            "reading_minutes": 5,
                             "location": "Unknown",
                             "excerpt": "The next morning, a sharp gasp cut through the mid-morning lull in the Aurora loft. On a developer\u2019s screen, the front page of TechWire Daily was displayed. The headline blazed: THE TAYLOR MEMO: CEO\u2019S\u2026"
                         }
@@ -120,12 +155,15 @@
                     "chap_title": "The Exodus",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-exodus",
                     "illustration_count": 0,
+                    "word_count": 1142,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Intercepted Letter & The Last Stand",
                             "file_path": "e001/c006/p001.md",
                             "url": "/quantum-directive-1-jessica/currents-and-crosswinds/the-exodus/the-intercepted-letter-the-last-stand",
+                            "word_count": 1142,
+                            "reading_minutes": 5,
                             "location": "Unknown",
                             "excerpt": "That evening, the fourth-floor loft of the Colman-Harrington Building was unnervingly quiet. The only sounds were the hum of the servers and the distant moan of a siren in the streets of Pioneer Square. The\u2026"
                         }
@@ -136,12 +174,15 @@
                     "chap_title": "Sanctuary Across the Lake",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/sanctuary-across-the-lake",
                     "illustration_count": 0,
+                    "word_count": 663,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A New Alliance & Solidarity in Action",
                             "file_path": "e001/c007/p001.md",
                             "url": "/quantum-directive-1-jessica/currents-and-crosswinds/sanctuary-across-the-lake/a-new-alliance-solidarity-in-action",
+                            "word_count": 663,
+                            "reading_minutes": 3,
                             "location": "Unknown",
                             "excerpt": "The Quantum lobby was a controlled storm of arriving developers. The War Council was waiting\u2014Jessica at the center, flanked by Quantineers, independents, and even a few allies who\u2019d flown in overnight from\u2026"
                         }
@@ -152,12 +193,15 @@
                     "chap_title": "The Fall of Aurora",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-fall-of-aurora",
                     "illustration_count": 0,
+                    "word_count": 2476,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Empty Loft & The Final Paycheck",
                             "file_path": "e001/c008/p001.md",
                             "url": "/quantum-directive-1-jessica/currents-and-crosswinds/the-fall-of-aurora/the-empty-loft-the-final-paycheck",
+                            "word_count": 2476,
+                            "reading_minutes": 10,
                             "location": "Unknown",
                             "excerpt": "The muffled roar of footsteps began as a faint vibration through the old hardwood floors of the fourth-floor executive suite. At first, no one paid it much mind. Then it grew louder, becoming a steady\u2026"
                         }
@@ -168,12 +212,15 @@
                     "chap_title": "The Final Straw",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-final-straw",
                     "illustration_count": 0,
+                    "word_count": 924,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "An Intern's Story & A Poisoned Well",
                             "file_path": "e001/c009/p001.md",
                             "url": "/quantum-directive-1-jessica/currents-and-crosswinds/the-final-straw/an-intern-s-story-a-poisoned-well",
+                            "word_count": 924,
+                            "reading_minutes": 4,
                             "location": "Unknown",
                             "excerpt": "Kelly Madsen stepped through the glass doors of Quantum's Building Four, clutching the strap of her messenger bag. The lobby was bright and alive with the buzz of quiet innovation, a world away from the tense\u2026"
                         }
@@ -184,12 +231,15 @@
                     "chap_title": "A New Beginning",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/a-new-beginning",
                     "illustration_count": 0,
+                    "word_count": 2480,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Writing the Next Chapter & The First Line of Code",
                             "file_path": "e001/c010/p001.md",
                             "url": "/quantum-directive-1-jessica/currents-and-crosswinds/a-new-beginning/writing-the-next-chapter-the-first-line-of-code",
+                            "word_count": 2480,
+                            "reading_minutes": 10,
                             "location": "Unknown",
                             "excerpt": "In the open workspace they\u2019d been given at Quantum, the ex-Aurora developers were busy. Laptops hummed as they polished r\u00e9sum\u00e9s, drafted cover letters, and proofread each other\u2019s work. Jessica stopped by each\u2026"
                         }
@@ -200,12 +250,15 @@
                     "chap_title": "The Bridge to Cupertino",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/the-bridge-to-cupertino",
                     "illustration_count": 0,
+                    "word_count": 7551,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Cupertino Trip & The Dev Lab",
                             "file_path": "e001/c011/p001.md",
                             "url": "/quantum-directive-1-jessica/currents-and-crosswinds/the-bridge-to-cupertino/part-1-the-cupertino-trip-the-dev-lab",
+                            "word_count": 2634,
+                            "reading_minutes": 11,
                             "location": "Unknown",
                             "excerpt": "The air at Seattle-Tacoma International Airport hummed with the chaotic energy of a thousand intersecting journeys. For Kelly and Ryan Madsen, standing just inside the sliding glass doors of the departure level\u2026"
                         },
@@ -214,6 +267,8 @@
                             "part_title": "Part 2: A Day at Work & Morning in Cupertino",
                             "file_path": "e001/c011/p002.md",
                             "url": "/quantum-directive-1-jessica/currents-and-crosswinds/the-bridge-to-cupertino/part-2-a-day-at-work-morning-in-cupertino",
+                            "word_count": 3708,
+                            "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The conference room was on one of the upper floors of the main Infinite Loop building, its glass walls looking out over the perfectly manicured central courtyard. For Jessica, this room was as familiar as her\u2026"
                         },
@@ -222,6 +277,8 @@
                             "part_title": "Part 3: A Picnic with Cousins & The Flight Home",
                             "file_path": "e001/c011/p003.md",
                             "url": "/quantum-directive-1-jessica/currents-and-crosswinds/the-bridge-to-cupertino/part-3-a-picnic-with-cousins-the-flight-home",
+                            "word_count": 1209,
+                            "reading_minutes": 5,
                             "location": "Unknown",
                             "excerpt": "Instead of a formal restaurant, the MagnaByte van dropped them off at a large, sun-drenched courtyard nestled in the center of the Infinite Loop campus. Long picnic tables were arranged on a vast lawn, and the\u2026"
                         }
@@ -232,12 +289,15 @@
                     "chap_title": "Bidding for the Twins",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/bidding-for-the-twins",
                     "illustration_count": 0,
+                    "word_count": 3307,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Offer & A New Role",
                             "file_path": "e001/c012/p001.md",
                             "url": "/quantum-directive-1-jessica/currents-and-crosswinds/bidding-for-the-twins/the-offer-a-new-role",
+                            "word_count": 3307,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The familiar, cool gray of a Seattle evening was a welcome sight as the plane descended toward Sea-Tac. The trip had been a whirlwind, and the twins were buzzing with a quiet, confident energy that hadn't been\u2026"
                         }
@@ -248,12 +308,15 @@
                     "chap_title": "A New Family",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/currents-and-crosswinds/a-new-family",
                     "illustration_count": 0,
+                    "word_count": 3279,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Pizza Night & Move-In Day",
                             "file_path": "e001/c013/p001.md",
                             "url": "/quantum-directive-1-jessica/currents-and-crosswinds/a-new-family/pizza-night-move-in-day",
+                            "word_count": 3279,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The invitation had been casual. After a particularly grueling week of debugging a legacy module, Jessica had turned to the twins as they were packing up on Friday afternoon. \"You two have worked hard. My place\u2026"
                         }
@@ -266,12 +329,14 @@
             "era_title": "Book 2: Silent Whispers",
             "era_url": "/raggiesoft-books/books/quantum-directive-1-jessica/book-2-silent-whispers",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Revelations",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/book-2-silent-whispers/chapter-1-revelations",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -279,6 +344,7 @@
                     "chap_title": "Chapter 2: A Moment of Peace",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-1-jessica/book-2-silent-whispers/chapter-2-a-moment-of-peace",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]

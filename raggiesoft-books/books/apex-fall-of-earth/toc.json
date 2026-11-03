@@ -12,32 +12,53 @@
         "pdf": "1.7 MB",
         "text_epub": "595 KB",
         "text_pdf": "1.7 MB",
-        "package_7z": "416 KB",
+        "package_7z": "417 KB",
         "epub_bytes": 608775,
         "pdf_bytes": 1764104,
         "text_epub_bytes": 608772,
         "text_pdf_bytes": 1764104,
-        "package_7z_bytes": 425672
+        "package_7z_bytes": 426533
     },
     "illustration_count": 0,
+    "word_stats": {
+        "story_word_count": 261029,
+        "lore_word_count": 148,
+        "combined_word_count": 261177,
+        "story_page_count": 949,
+        "combined_page_count": 950,
+        "reading_hours": 17.4,
+        "reading_minutes": 1044,
+        "novel_equivalent": 2.9,
+        "scale_category": "Multi-Volume Epic Omnibus",
+        "scale_badge": "Multi-Volume Omnibus",
+        "benchmark_note": "2.9\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
+        "era_count": 9,
+        "chapter_count": 38,
+        "part_count": 90,
+        "illustration_count": 0
+    },
     "eras": [
         {
             "era_num": 1,
             "era_title": "Wyatt\u2019s Prologue",
             "era_url": "/raggiesoft-books/books/apex-fall-of-earth/wyatt-s-prologue",
             "illustration_count": 0,
+            "word_count": 4684,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Wyatt \u2013 Expendable Assets",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/wyatt-s-prologue/wyatt-expendable-assets",
                     "illustration_count": 0,
+                    "word_count": 4684,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Deep End \u2013 Mid-October 2044 & The Washroom",
                             "file_path": "e001/c001/p001.md",
                             "url": "/apex-fall-of-earth/wyatt-s-prologue/wyatt-expendable-assets/part-1-the-deep-end-mid-october-2044-the-washroom",
+                            "word_count": 3520,
+                            "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The heavy, pressurized hiss of the airlock cycling open was the best sound Wyatt Colton had heard in six months. He stepped out of the decompression chamber, peeling the heavy, salt-stained thermal layers of his\u2026"
                         },
@@ -46,6 +67,8 @@
                             "part_title": "Part 2: The Trough & The Checkpoint",
                             "file_path": "e001/c001/p002.md",
                             "url": "/apex-fall-of-earth/wyatt-s-prologue/wyatt-expendable-assets/part-2-the-trough-the-checkpoint",
+                            "word_count": 1164,
+                            "reading_minutes": 5,
                             "location": "Unknown",
                             "excerpt": "Wyatt zipped up the front of his stiff, abrasive black utility uniform, the heavy collar scratching against his neck. The nametape pinned over his right breast pocket read COLTON. He stepped out of the washroom\u2026"
                         }
@@ -58,18 +81,22 @@
             "era_title": "Sarah\u2019s Prologue",
             "era_url": "/raggiesoft-books/books/apex-fall-of-earth/sarah-s-prologue",
             "illustration_count": 0,
+            "word_count": 5118,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Sarah \u2013 The Promise",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/sarah-s-prologue/sarah-the-promise",
                     "illustration_count": 0,
+                    "word_count": 5118,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: First Flight \u2013 Mid-October 2044 & The Glitch",
                             "file_path": "e002/c001/p001.md",
                             "url": "/apex-fall-of-earth/sarah-s-prologue/sarah-the-promise/part-1-first-flight-mid-october-2044-the-glitch",
+                            "word_count": 3645,
+                            "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The Tri-Sector Interstellar Freight & Personnel terminal was the cleanest room Sarah Hayes had ever stood in. She stood near the edge of the massive, pristine observation window, her small hands tightly gripping\u2026"
                         },
@@ -78,6 +105,8 @@
                             "part_title": "Part 2: The Washroom & The Checkpoint",
                             "file_path": "e002/c001/p002.md",
                             "url": "/apex-fall-of-earth/sarah-s-prologue/sarah-the-promise/part-2-the-washroom-the-checkpoint",
+                            "word_count": 1473,
+                            "reading_minutes": 6,
                             "location": "Unknown",
                             "excerpt": "Sarah dropped her canvas duffel bag on the floor next to Bunk 42-C, clutching her hygiene kit and a thin towel to her chest. She stepped back out into the narrow, 64-inch aisle of the barracks, her heart\u2026"
                         }
@@ -90,18 +119,22 @@
             "era_title": "The Acquisition",
             "era_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition",
             "illustration_count": 0,
+            "word_count": 32568,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Wyatt \u2013 Orientation Day",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition/wyatt-orientation-day",
                     "illustration_count": 0,
+                    "word_count": 4342,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Powder Keg & The Break",
                             "file_path": "e003/c001/p001.md",
                             "url": "/apex-fall-of-earth/the-acquisition/wyatt-orientation-day/part-1-the-powder-keg-the-break",
+                            "word_count": 3353,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "Wyatt led Hayes down the grated metal catwalks of Sector 4. The air here was colder, smelling intensely of ozone and burning coolant. Below them, massive, automated drill rigs pounded into the Nevada bedrock\u2026"
                         },
@@ -110,6 +143,8 @@
                             "part_title": "Part 2: 42-C",
                             "file_path": "e003/c001/p002.md",
                             "url": "/apex-fall-of-earth/the-acquisition/wyatt-orientation-day/part-2-42-c",
+                            "word_count": 989,
+                            "reading_minutes": 4,
                             "location": "Unknown",
                             "excerpt": "The twelve-hour mark hit, and the overhead PA system let out a long, droning buzz. Shift change. Wyatt powered down his heavy Mark-IV flashlight and clipped it to his belt. The physical relief of being off his\u2026"
                         }
@@ -120,12 +155,15 @@
                     "chap_title": "The Second Shift",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition/the-second-shift",
                     "illustration_count": 0,
+                    "word_count": 12118,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Wake Up Call & The Checkpoint",
                             "file_path": "e003/c002/p001.md",
                             "url": "/apex-fall-of-earth/the-acquisition/the-second-shift/part-1-wake-up-call-the-checkpoint",
+                            "word_count": 2913,
+                            "reading_minutes": 12,
                             "location": "Unknown",
                             "excerpt": "The jarring, two-tone blare of the shift-change klaxon cut through the heavy air of the barracks. Wyatt opened his eyes. The harsh, flickering fluorescent lights of the S.H.O.P. Dormitories were already buzzing\u2026"
                         },
@@ -134,6 +172,8 @@
                             "part_title": "Part 2: The Telemetry Anomaly & The Ghost Shift",
                             "file_path": "e003/c002/p002.md",
                             "url": "/apex-fall-of-earth/the-acquisition/the-second-shift/part-2-the-telemetry-anomaly-the-ghost-shift",
+                            "word_count": 3402,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "Wyatt guided Sarah off the primary elevator and onto the grated metal catwalks of Sector 4. The heat hit them instantly, rolling up from the deep-core shafts like a physical wave. The air tasted heavily of\u2026"
                         },
@@ -142,6 +182,8 @@
                             "part_title": "Part 3: The Blind Spot & The Sanctuary",
                             "file_path": "e003/c002/p003.md",
                             "url": "/apex-fall-of-earth/the-acquisition/the-second-shift/part-3-the-blind-spot-the-sanctuary",
+                            "word_count": 3581,
+                            "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The \"scenic route\" through the abandoned filtration sectors led them away from the deafening thud of the deep-core drills and into the forgotten veins of the facility. Wyatt kept Sarah\u2019s hand securely wrapped in\u2026"
                         },
@@ -150,6 +192,8 @@
                             "part_title": "Part 4: Off the Clock & Return to The Sanctuary",
                             "file_path": "e003/c002/p004.md",
                             "url": "/apex-fall-of-earth/the-acquisition/the-second-shift/part-4-off-the-clock-return-to-the-sanctuary",
+                            "word_count": 2222,
+                            "reading_minutes": 9,
                             "location": "Unknown",
                             "excerpt": "The twelve-hour klaxon finally screamed, a harsh, mechanical wail echoing down the grated catwalks of Sector 4. Around them, the few contractors who actually made it to the end of their perimeter routes slumped\u2026"
                         }
@@ -160,12 +204,15 @@
                     "chap_title": "Day Three",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition/day-three",
                     "illustration_count": 0,
+                    "word_count": 10704,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Illusion of Control & The Echo",
                             "file_path": "e003/c003/p001.md",
                             "url": "/apex-fall-of-earth/the-acquisition/day-three/part-1-the-illusion-of-control-the-echo",
+                            "word_count": 3425,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The harsh, two-tone wail of the facility\u2019s shift-change klaxon didn\u2019t reach Wyatt. Deep inside the lead-lined walls of the abandoned filtration sector, behind a heavy blast door wedged shut with a steel pipe\u2026"
                         },
@@ -174,6 +221,8 @@
                             "part_title": "Part 2: The Bleeding Bedrock & Clear Parameters",
                             "file_path": "e003/c003/p002.md",
                             "url": "/apex-fall-of-earth/the-acquisition/day-three/part-2-the-bleeding-bedrock-clear-parameters",
+                            "word_count": 3140,
+                            "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "Wyatt and Sarah wandered off the primary catwalks, taking advantage of the blind spots in the surveillance grid to walk hand-in-hand through the blistering lower levels of Sector 4. The deeper they went, the\u2026"
                         },
@@ -182,6 +231,8 @@
                             "part_title": "Part 3: The Masterclass & The Prison Break",
                             "file_path": "e003/c003/p003.md",
                             "url": "/apex-fall-of-earth/the-acquisition/day-three/part-3-the-masterclass-the-prison-break",
+                            "word_count": 2943,
+                            "reading_minutes": 12,
                             "location": "Unknown",
                             "excerpt": "The mid-shift PA chime rang a dull, two-tone electronic bell over the Sector 4 intercoms, barely cutting through the ambient roar of the facility. The mandatory, unpaid lunch break had started. Wyatt and Sarah\u2026"
                         },
@@ -190,6 +241,8 @@
                             "part_title": "Part 4: The Fallen Hierarchy",
                             "file_path": "e003/c003/p004.md",
                             "url": "/apex-fall-of-earth/the-acquisition/day-three/part-4-the-fallen-hierarchy",
+                            "word_count": 1196,
+                            "reading_minutes": 5,
                             "location": "Unknown",
                             "excerpt": "Wyatt pulled Sarah into the shadows of Sector 1's outer ring, leaving the chaotic, overflowing mess of Barracks 4 far behind them. The route back to the abandoned filtration banks required threading a very\u2026"
                         }
@@ -200,12 +253,15 @@
                     "chap_title": "Day Four",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-acquisition/day-four",
                     "illustration_count": 0,
+                    "word_count": 5404,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Structural Failure & The Transit",
                             "file_path": "e003/c004/p001.md",
                             "url": "/apex-fall-of-earth/the-acquisition/day-four/part-1-structural-failure-the-transit",
+                            "word_count": 3283,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The alarm on Wyatt's Level 1 PDA didn't wake him. He was already awake. He was lying in the dark of the barricaded break room, staring up at the rusted ceiling panels. He was zipped into the heavy deployment\u2026"
                         },
@@ -214,6 +270,8 @@
                             "part_title": "Part 2: The Relic & The Captain's Quarters",
                             "file_path": "e003/c004/p002.md",
                             "url": "/apex-fall-of-earth/the-acquisition/day-four/part-2-the-relic-the-captain-s-quarters",
+                            "word_count": 2121,
+                            "reading_minutes": 9,
                             "location": "Unknown",
                             "excerpt": "A sharp, mechanical chirp from the hauler\u2019s primary console broke the silence of the cabin. Wyatt blinked the sleep from his eyes, his taped hand still locked firmly with Sarah\u2019s across the center console. The\u2026"
                         }
@@ -226,18 +284,22 @@
             "era_title": "Analogue Ghosts",
             "era_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts",
             "illustration_count": 0,
+            "word_count": 27466,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Delta Niner",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/delta-niner",
                     "illustration_count": 0,
+                    "word_count": 3217,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Blinking Clock & The Broadcast",
                             "file_path": "e004/c001/p001.md",
                             "url": "/apex-fall-of-earth/analogue-ghosts/delta-niner/the-blinking-clock-the-broadcast",
+                            "word_count": 3217,
+                            "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "For the first time in four days, Wyatt woke up without an adrenaline spike. There was no blaring klaxon, no bone-rattling tremor from deep-core drills, and no suffocating smell of ozone. There was only the low\u2026"
                         }
@@ -248,12 +310,15 @@
                     "chap_title": "The Lungs of the Station",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-lungs-of-the-station",
                     "illustration_count": 0,
+                    "word_count": 2751,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Hydroponics Bay & The Expanding Fracture",
                             "file_path": "e004/c002/p001.md",
                             "url": "/apex-fall-of-earth/analogue-ghosts/the-lungs-of-the-station/the-hydroponics-bay-the-expanding-fracture",
+                            "word_count": 2751,
+                            "reading_minutes": 12,
                             "location": "Unknown",
                             "excerpt": "The heavy, airtight bulkhead door in the lower ring didn't just slide open; it groaned, the rusted hydraulic seals fighting Wyatt\u2019s grip on the manual release wheel. With a final, metallic shriek, the iron door\u2026"
                         }
@@ -264,12 +329,15 @@
                     "chap_title": "The Boiler Room",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-boiler-room",
                     "illustration_count": 0,
+                    "word_count": 4426,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Descent & The Acceleration",
                             "file_path": "e004/c003/p001.md",
                             "url": "/apex-fall-of-earth/analogue-ghosts/the-boiler-room/part-1-the-descent-the-acceleration",
+                            "word_count": 3519,
+                            "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The heavy, metallic dread of the emergency broadcast still hung in the air as Wyatt and Sarah left the Hydroponics Bay. They didn't speak about Los Angeles or the Colorado River. They didn't need to. The sheer\u2026"
                         },
@@ -278,6 +346,8 @@
                             "part_title": "Part 2: Scorched Earth",
                             "file_path": "e004/c003/p002.md",
                             "url": "/apex-fall-of-earth/analogue-ghosts/the-boiler-room/part-2-scorched-earth",
+                            "word_count": 907,
+                            "reading_minutes": 4,
                             "location": "Unknown",
                             "excerpt": "The heavy, metallic silence in the Hydroponics Bay was completely suffocating. The rush of the newly repaired water pump, which had sounded like a triumph just minutes ago, now sounded like a ticking clock\u2026"
                         }
@@ -288,12 +358,15 @@
                     "chap_title": "The Glass Wall",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-glass-wall",
                     "illustration_count": 0,
+                    "word_count": 5233,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: An Attempt at Normalcy & The Ghost Ship",
                             "file_path": "e004/c004/p001.md",
                             "url": "/apex-fall-of-earth/analogue-ghosts/the-glass-wall/part-1-an-attempt-at-normalcy-the-ghost-ship",
+                            "word_count": 3148,
+                            "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "The amber sconces in the Recreation Lounge cast a warm, low-level glow over the faux-walnut paneling. After the deafening, grease-stained chaos of the engine room and the sheer psychological terror of the\u2026"
                         },
@@ -302,6 +375,8 @@
                             "part_title": "Part 2: The Void & The Ghost Awakens",
                             "file_path": "e004/c004/p002.md",
                             "url": "/apex-fall-of-earth/analogue-ghosts/the-glass-wall/part-2-the-void-the-ghost-awakens",
+                            "word_count": 2085,
+                            "reading_minutes": 9,
                             "location": "Unknown",
                             "excerpt": "The frantic energy of their realization immediately funneled into cold, methodical action. They had less than four hours before an Apex hit squad breached the station, and to turn this rusted listening post back\u2026"
                         }
@@ -312,12 +387,15 @@
                     "chap_title": "The Nomad",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-nomad",
                     "illustration_count": 0,
+                    "word_count": 5021,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Vector to Nowhere & The Billionaire\u2019s Secrets",
                             "file_path": "e004/c005/p001.md",
                             "url": "/apex-fall-of-earth/analogue-ghosts/the-nomad/part-1-a-vector-to-nowhere-the-billionaire-s-secrets",
+                            "word_count": 3143,
+                            "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "The viewport in the Operations center used to be a framed photograph of a dead, unmoving cosmos. Now, it was a living window. The stars were no longer static pins of light; they were drifting, slowly and\u2026"
                         },
@@ -326,6 +404,8 @@
                             "part_title": "Part 2: The 2044 Reveal & The Blank Slate",
                             "file_path": "e004/c005/p002.md",
                             "url": "/apex-fall-of-earth/analogue-ghosts/the-nomad/part-2-the-2044-reveal-the-blank-slate",
+                            "word_count": 1878,
+                            "reading_minutes": 8,
                             "location": "Unknown",
                             "excerpt": "The analog warmth of the music studio was staggering, but Wyatt\u2019s eyes were drawn to a sleek, frosted-glass door tucked into the far corner of the server room. It completely lacked the heavy iron rivets, brass\u2026"
                         }
@@ -336,12 +416,15 @@
                     "chap_title": "The Frontier",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/analogue-ghosts/the-frontier",
                     "illustration_count": 0,
+                    "word_count": 6818,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Coordinates & The Interstellar Road Trip",
                             "file_path": "e004/c006/p001.md",
                             "url": "/apex-fall-of-earth/analogue-ghosts/the-frontier/part-1-the-coordinates-the-interstellar-road-trip",
+                            "word_count": 3156,
+                            "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "The soft, dynamic LED lighting in the 2044-era tech room was set to a warm, inviting morning glow. Wyatt sat in the ergonomic mesh chair at the primary workstation, a mug of premium black coffee resting on the\u2026"
                         },
@@ -350,6 +433,8 @@
                             "part_title": "Part 2: The Algorithm's Gift & The Backlog",
                             "file_path": "e004/c006/p002.md",
                             "url": "/apex-fall-of-earth/analogue-ghosts/the-frontier/part-2-the-algorithm-s-gift-the-backlog",
+                            "word_count": 3662,
+                            "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The heavy VCR clicked loudly, automatically rewinding the final tape as the credits rolled off the massive CRT television. The screen faded to a soft, static blue, casting a quiet, flickering glow across the\u2026"
                         }
@@ -362,18 +447,22 @@
             "era_title": "The Sanctuary",
             "era_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary",
             "illustration_count": 0,
+            "word_count": 74177,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Planetfall",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/planetfall",
                     "illustration_count": 0,
+                    "word_count": 12506,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Atmospheric Entry & The First Steps",
                             "file_path": "e005/c001/p001.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/planetfall/part-1-atmospheric-entry-the-first-steps",
+                            "word_count": 3361,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The chaotic, overlapping screams of the backlogged radio intercepts slowly faded from their minds, replaced once again by the steady, localized hum of The Nomad\u2019s idling fusion core. Wyatt ripped the long sheet\u2026"
                         },
@@ -382,6 +471,8 @@
                             "part_title": "Part 2: The Solar Bloom & The True Face of Apex",
                             "file_path": "e005/c001/p002.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/planetfall/part-2-the-solar-bloom-the-true-face-of-apex",
+                            "word_count": 3355,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "They walked away from the edge of the dark silicate plateau, following a gentle slope that led directly down into the river valley. The moment they stepped off the warm bedrock and onto the actual soil of the\u2026"
                         },
@@ -390,6 +481,8 @@
                             "part_title": "Part 3: The Ghost Protocol & The Blind Sweep",
                             "file_path": "e005/c001/p003.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/planetfall/part-3-the-ghost-protocol-the-blind-sweep",
+                            "word_count": 3255,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The golden hour had descended over the river valley, casting long, peaceful shadows across the vibrantly green forest canopy. Wyatt and Sarah walked back up the grooved metal ramp of the cargo bay, their bare\u2026"
                         },
@@ -398,6 +491,8 @@
                             "part_title": "Part 4: The Vow & Under the Stars",
                             "file_path": "e005/c001/p004.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/planetfall/part-4-the-vow-under-the-stars",
+                            "word_count": 2535,
+                            "reading_minutes": 11,
                             "location": "Unknown",
                             "excerpt": "The afternoon sun filtered through the towering canopy of the alien pines, casting dappled, golden light across the forest floor. Wyatt and Sarah were half a kilometer downriver from the hidden dreadnought\u2026"
                         }
@@ -408,12 +503,15 @@
                     "chap_title": "The First Morning",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-first-morning",
                     "illustration_count": 0,
+                    "word_count": 7391,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The River & The First Harvest",
                             "file_path": "e005/c002/p001.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/the-first-morning/part-1-the-river-the-first-harvest",
+                            "word_count": 3618,
+                            "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "For the first time in their entire lives, Wyatt and Sarah were not woken up by the harsh, mechanical blare of a shift klaxon or the sudden, blinding flicker of overhead fluorescent tubes. They woke up to the\u2026"
                         },
@@ -422,6 +520,8 @@
                             "part_title": "Part 2: The Bait & The Eden Rule",
                             "file_path": "e005/c002/p002.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/the-first-morning/part-2-the-bait-the-eden-rule",
+                            "word_count": 3773,
+                            "reading_minutes": 16,
                             "location": "Unknown",
                             "excerpt": "Lightyears away from the crystal-clear river and the warm, muddy banks of Exoplanet 4, High Director Kael was not enjoying the morning. He stood in the center of the cold, blue-lit command spire on Acheron\u2026"
                         }
@@ -432,12 +532,15 @@
                     "chap_title": "The High Ground",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-high-ground",
                     "illustration_count": 0,
+                    "word_count": 8961,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Floodplain & The Winter Window",
                             "file_path": "e005/c003/p001.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/the-high-ground/part-1-the-floodplain-the-winter-window",
+                            "word_count": 3779,
+                            "reading_minutes": 16,
                             "location": "Unknown",
                             "excerpt": "The peaceful, sun-drenched afternoon slowly gave way to a heavy, suffocating humidity. Wyatt and Sarah had spent the last few hours completely relaxed on the upper deck, enjoying the absolute quiet of their\u2026"
                         },
@@ -446,6 +549,8 @@
                             "part_title": "Part 2: The Genesis Vault & The Curriculum",
                             "file_path": "e005/c003/p002.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/the-high-ground/part-2-the-genesis-vault-the-curriculum",
+                            "word_count": 3446,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The excitement of their winter timeline hovered in the warm air of the luxurious living room, but as Sarah looked down the long, illuminated corridor of empty suites, her analytical mind began to run the\u2026"
                         },
@@ -454,6 +559,8 @@
                             "part_title": "Part 3: The Saltwater Oasis",
                             "file_path": "e005/c003/p003.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/the-high-ground/part-3-the-saltwater-oasis",
+                            "word_count": 1736,
+                            "reading_minutes": 7,
                             "location": "Unknown",
                             "excerpt": "Wyatt and Sarah waded deeper into the massive indoor pool, the steaming, crystal-clear water rising to their collarbones. Sarah wiped a stray drop of water from her cheek, her tongue catching the faint, mineral\u2026"
                         }
@@ -464,12 +571,15 @@
                     "chap_title": "The Architects",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-architects",
                     "illustration_count": 0,
+                    "word_count": 10353,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The First Semester & The Earth Conservatory",
                             "file_path": "e005/c004/p001.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/the-architects/part-1-the-first-semester-the-earth-conservatory",
+                            "word_count": 3332,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The morning light filtering through the camouflaged hydro-glass of the master suite was a soft, bruised gray. Wyatt and Sarah woke up slowly, completely unrestricted by alarm clocks or shift sirens. For a long\u2026"
                         },
@@ -478,6 +588,8 @@
                             "part_title": "Part 2: The Ark & Biology 101",
                             "file_path": "e005/c004/p002.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/the-architects/part-2-the-ark-biology-101",
+                            "word_count": 2374,
+                            "reading_minutes": 10,
                             "location": "Unknown",
                             "excerpt": "Sarah kept her hand pressed against the rough, textured bark of the massive White Oak. For a girl who had grown up in the failing, rust-choked agricultural colonies of the frontier, standing barefoot beneath a\u2026"
                         },
@@ -486,6 +598,8 @@
                             "part_title": "Part 3: The Vitality Roster & The First Generation",
                             "file_path": "e005/c004/p003.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/the-architects/part-3-the-vitality-roster-the-first-generation",
+                            "word_count": 3110,
+                            "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "The revelation that their mountain fortress included a fully equipped obstetric suite completely changed the gravity of the afternoon. Sarah dismissed the holographic table, the glowing blue interface fading\u2026"
                         },
@@ -494,6 +608,8 @@
                             "part_title": "Part 4: The First Landing & The Parent Protocol",
                             "file_path": "e005/c004/p004.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/the-architects/part-4-the-first-landing-the-parent-protocol",
+                            "word_count": 1537,
+                            "reading_minutes": 7,
                             "location": "Unknown",
                             "excerpt": "The warm saltwater of the indoor pool lapped gently against the smooth stone edge. Wyatt and Sarah rested their arms on the lip of the basin, completely bare, looking out through the massive hydro-glass window\u2026"
                         }
@@ -504,12 +620,15 @@
                     "chap_title": "The Pioneers",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-pioneers",
                     "illustration_count": 0,
+                    "word_count": 9079,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Upgrade & The Husk",
                             "file_path": "e005/c005/p001.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/the-pioneers/part-1-the-upgrade-the-husk",
+                            "word_count": 2939,
+                            "reading_minutes": 12,
                             "location": "Unknown",
                             "excerpt": "The soft, natural light of the morning slowly filtered through the massive, camouflaged hydro-glass window of the master suite. The violent super-cell storm had finally exhausted itself overnight, leaving behind\u2026"
                         },
@@ -518,6 +637,8 @@
                             "part_title": "Part 2: The Lost Time & The Mapmakers",
                             "file_path": "e005/c005/p002.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/the-pioneers/part-2-the-lost-time-the-mapmakers",
+                            "word_count": 3164,
+                            "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "The heavy pneumatic elevator carried them swiftly away from the blinding plasma sparks and deafening industrial roar of the Fabrication Foundry. As the brushed-steel doors parted, depositing them back onto the\u2026"
                         },
@@ -526,6 +647,8 @@
                             "part_title": "Part 3: Helios System Hologram & The Runabout",
                             "file_path": "e005/c005/p003.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/the-pioneers/part-3-helios-system-hologram-the-runabout",
+                            "word_count": 2976,
+                            "reading_minutes": 12,
                             "location": "Unknown",
                             "excerpt": "The holographic projection of the newly named Helios System hovered beautifully above the heavy glass coffee table. In the center of the recessed living room, bathed in the warm, ambient light of the geothermal\u2026"
                         }
@@ -536,12 +659,15 @@
                     "chap_title": "Planet Eden",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/planet-eden",
                     "illustration_count": 0,
+                    "word_count": 11360,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Maiden Voyage & The Alpine Meadow",
                             "file_path": "e005/c006/p001.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/planet-eden/part-1-the-maiden-voyage-the-alpine-meadow",
+                            "word_count": 1901,
+                            "reading_minutes": 8,
                             "location": "Unknown",
                             "excerpt": "Wyatt sat in the pilot\u2019s seat of the sleek, silver runabout, his hands resting lightly on the incredibly streamlined digital control yoke. The leather was soft and pristine, the cabin smelling like fresh polymer\u2026"
                         },
@@ -550,6 +676,8 @@
                             "part_title": "Part 2: Anchor & The Reading List",
                             "file_path": "e005/c006/p002.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/planet-eden/part-2-anchor-the-reading-list",
+                            "word_count": 3622,
+                            "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The first golden rays of Helios crested the jagged, snow-capped peaks, spilling down into the alpine meadow and washing over the heavy deployment sleeping bag. Wyatt opened his eyes, squinting against the\u2026"
                         },
@@ -558,6 +686,8 @@
                             "part_title": "Part 3: The 2002 Fiction & Sowing the Seeds",
                             "file_path": "e005/c006/p003.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/planet-eden/part-3-the-2002-fiction-sowing-the-seeds",
+                            "word_count": 3440,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The holographic glass table in the center of the library glowed with a soft, steady blue light, displaying a staggering array of human developmental charts. Wyatt and Sarah sat side-by-side on the leather sofa\u2026"
                         },
@@ -566,6 +696,8 @@
                             "part_title": "Part 4: The Architect & The Overcompensation",
                             "file_path": "e005/c006/p004.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/planet-eden/part-4-the-architect-the-overcompensation",
+                            "word_count": 2397,
+                            "reading_minutes": 10,
                             "location": "Unknown",
                             "excerpt": "The simulated golden hour in the Earth Conservatory had fully transitioned into a vibrant twilight. The massive micro-LED vaulted ceiling shifted seamlessly from a bright blue to a deep, bruised violet, matching\u2026"
                         }
@@ -576,12 +708,15 @@
                     "chap_title": "The Blueprint",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-blueprint",
                     "illustration_count": 0,
+                    "word_count": 14527,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Three Pulses & The Multiplier",
                             "file_path": "e005/c007/p001.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/the-blueprint/part-1-three-pulses-the-multiplier",
+                            "word_count": 3324,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The pneumatic elevator carried them swiftly away from the simulated twilight of the Earth Conservatory, dropping them smoothly to Sub-Level 1. When the brushed-steel doors parted, the transition was jarring. The\u2026"
                         },
@@ -590,6 +725,8 @@
                             "part_title": "Part 2: Tax Evasion and Timber & The Constitution",
                             "file_path": "e005/c007/p002.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/the-blueprint/part-2-tax-evasion-and-timber-the-constitution",
+                            "word_count": 3710,
+                            "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "They left the sterile, brilliantly lit medical wing in a complete daze of absolute euphoria. The pneumatic elevator carried them back up to the main living quarters, but they bypassed the kitchen and the library\u2026"
                         },
@@ -598,6 +735,8 @@
                             "part_title": "Part 3: The Agrarian Model & The Toll of Three",
                             "file_path": "e005/c007/p003.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/the-blueprint/part-3-the-agrarian-model-the-toll-of-three",
+                            "word_count": 3106,
+                            "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "The holographic glass table in the center of the library rippled, the glowing blue data streams of modern macroeconomics dissolving into warm, golden-hued geographical projections. Wyatt and Sarah sat perfectly\u2026"
                         },
@@ -606,6 +745,8 @@
                             "part_title": "Part 4: The Remedy & The Craving",
                             "file_path": "e005/c007/p004.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/the-blueprint/part-4-the-remedy-the-craving",
+                            "word_count": 3323,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The silver runabout shot through the camouflaged holographic rock face and slammed down onto the polished stone floor of the primary hangar. Wyatt didn't even wait for the repulsorlifts to fully cycle down. He\u2026"
                         },
@@ -614,6 +755,8 @@
                             "part_title": "Part 5: The Foundation",
                             "file_path": "e005/c007/p005.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/the-blueprint/part-5-the-foundation",
+                            "word_count": 1064,
+                            "reading_minutes": 5,
                             "location": "Unknown",
                             "excerpt": "The frictionless glide of the brushed-aluminum wheelchair was completely silent as Wyatt pushed Sarah through the wide, open doorways of the estate's library. Her bizarre, highly specific craving for sausage and\u2026"
                         }
@@ -626,18 +769,22 @@
             "era_title": "The First Generation",
             "era_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation",
             "illustration_count": 0,
+            "word_count": 47225,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Architect",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-architect",
                     "illustration_count": 0,
+                    "word_count": 9065,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Tolerances of Eden & The Ghost of Eden",
                             "file_path": "e006/c001/p001.md",
                             "url": "/apex-fall-of-earth/the-first-generation/the-architect/part-1-the-tolerances-of-eden-the-ghost-of-eden",
+                            "word_count": 3115,
+                            "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "Sub-Level 2 smelled sharply of vaporized ozone and fresh, fragrant alien pine sap. Wyatt Colton stood at the center of the Fabrication Foundry, covered in a fine layer of sawdust, the heavy safety goggles pushed\u2026"
                         },
@@ -646,6 +793,8 @@
                             "part_title": "Part 2: The Dead Rock & The Aegis Hallucination",
                             "file_path": "e006/c001/p002.md",
                             "url": "/apex-fall-of-earth/the-first-generation/the-architect/part-2-the-dead-rock-the-aegis-hallucination",
+                            "word_count": 3064,
+                            "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "The master suite was perfectly quiet, bathed in the soft, ambient amber glow of the geothermal fireplace. Wyatt was deeply asleep, his heavy arm draped protectively over Sarah\u2019s waist as she rested on her side\u2026"
                         },
@@ -654,6 +803,8 @@
                             "part_title": "Part 3: The Administrative Override & Cosmic Dust",
                             "file_path": "e006/c001/p003.md",
                             "url": "/apex-fall-of-earth/the-first-generation/the-architect/part-3-the-administrative-override-cosmic-dust",
+                            "word_count": 2886,
+                            "reading_minutes": 12,
                             "location": "Unknown",
                             "excerpt": "The automated medical wing on Sub-Level 1 was sterile, brilliantly lit, and completely empty except for Wyatt Colton. At thirty weeks into the triplet pregnancy, Sarah was resting upstairs in the master suite\u2026"
                         }
@@ -664,12 +815,15 @@
                     "chap_title": "The Arrival",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-arrival",
                     "illustration_count": 0,
+                    "word_count": 8544,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Gravity of Eden & The Lion's Fight",
                             "file_path": "e006/c002/p001.md",
                             "url": "/apex-fall-of-earth/the-first-generation/the-arrival/part-1-the-gravity-of-eden-the-lion-s-fight",
+                            "word_count": 3765,
+                            "reading_minutes": 16,
                             "location": "Unknown",
                             "excerpt": "For over a week, the medical wing had existed in a state of suspended, heavy anticipation. At thirty-one weeks, the sheer, crushing mass of the triplet pregnancy had pushed Sarah to the absolute limits of human\u2026"
                         },
@@ -678,6 +832,8 @@
                             "part_title": "Part 2: The Incubator Watch & The Annoyance",
                             "file_path": "e006/c002/p002.md",
                             "url": "/apex-fall-of-earth/the-first-generation/the-arrival/part-2-the-incubator-watch-the-annoyance",
+                            "word_count": 3661,
+                            "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The automated medical bay had settled into a quiet, rhythmic hum. The flashing crimson lights were gone, replaced by the soft, warm amber glow of the localized night-cycle illumination. On the primary bio-bed\u2026"
                         },
@@ -686,6 +842,8 @@
                             "part_title": "Part 3: The Engine Block",
                             "file_path": "e006/c002/p003.md",
                             "url": "/apex-fall-of-earth/the-first-generation/the-arrival/part-3-the-engine-block",
+                            "word_count": 1118,
+                            "reading_minutes": 5,
                             "location": "Unknown",
                             "excerpt": "The adrenaline that had sustained Wyatt Colton for the first month of his children\u2019s lives was finally beginning to run dry. He stood at the medical sanitization basin, staring blankly at the steaming water\u2026"
                         }
@@ -696,12 +854,15 @@
                     "chap_title": "The Blueprint Fails",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-blueprint-fails",
                     "illustration_count": 0,
+                    "word_count": 6545,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Flaw in the Wood & The Gravity of the Hive",
                             "file_path": "e006/c003/p001.md",
                             "url": "/apex-fall-of-earth/the-first-generation/the-blueprint-fails/part-1-the-flaw-in-the-wood-the-gravity-of-the-hive",
+                            "word_count": 2910,
+                            "reading_minutes": 12,
                             "location": "Unknown",
                             "excerpt": "Sub-Level 1 was finally empty. Exactly eight weeks after the harrowing, chaotic delivery, the triplets officially hit their corrected gestational due date. Their lungs were fully developed, their thermal\u2026"
                         },
@@ -710,6 +871,8 @@
                             "part_title": "Part 2: The Sentinel Directive & The Soup Kitchen",
                             "file_path": "e006/c003/p002.md",
                             "url": "/apex-fall-of-earth/the-first-generation/the-blueprint-fails/part-2-the-sentinel-directive-the-soup-kitchen",
+                            "word_count": 3635,
+                            "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The morning sun filtered brightly through the hydro-glass windows of the residential kitchen. Upstairs in the nursery, the triplets were finally, miraculously, sleeping completely through the morning cycle\u2026"
                         }
@@ -720,12 +883,15 @@
                     "chap_title": "The Vanguard Discovers Gravity",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-vanguard-discovers-gravity",
                     "illustration_count": 0,
+                    "word_count": 7083,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Rule of Three & The Milestones",
                             "file_path": "e006/c004/p001.md",
                             "url": "/apex-fall-of-earth/the-first-generation/the-vanguard-discovers-gravity/part-1-the-rule-of-three-the-milestones",
+                            "word_count": 3644,
+                            "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The Aegis deflector shield could effortlessly absorb the kinetic impact of a hyper-dense anti-matter warhead. It could silence the deafening roar of a corporate orbital bombardment, rendering the apocalypse\u2026"
                         },
@@ -734,6 +900,8 @@
                             "part_title": "Part 2: The Chariot & Establishing Comms",
                             "file_path": "e006/c004/p002.md",
                             "url": "/apex-fall-of-earth/the-first-generation/the-vanguard-discovers-gravity/part-2-the-chariot-establishing-comms",
+                            "word_count": 3439,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "Sub-Level 4 smelled of hot ozone, melted synthetic rubber, and freshly milled alien pine. Wyatt Colton was hunched over the primary heavy-assembly workbench, a pair of precision calipers in his hand. He was\u2026"
                         }
@@ -744,12 +912,15 @@
                     "chap_title": "The Chain of Command",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-chain-of-command",
                     "illustration_count": 0,
+                    "word_count": 6515,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The New Recruit & The Tactical Latrine",
                             "file_path": "e006/c005/p001.md",
                             "url": "/apex-fall-of-earth/the-first-generation/the-chain-of-command/part-1-the-new-recruit-the-tactical-latrine",
+                            "word_count": 3407,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "Sub-Level 1 was no longer a place of terror. Four years ago, the automated medical bay had been a chaotic, flashing nightmare of emergency triage and severe prematurity. Today, the ambient lighting was a calm\u2026"
                         },
@@ -758,6 +929,8 @@
                             "part_title": "Part 2: The Defensive Perimeter & The Genesis Check",
                             "file_path": "e006/c005/p002.md",
                             "url": "/apex-fall-of-earth/the-first-generation/the-chain-of-command/part-2-the-defensive-perimeter-the-genesis-check",
+                            "word_count": 3108,
+                            "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "Outside the massive hydro-glass windows of the estate, a heavy, pristine winter snow was falling over the alien pine forests of Planet Eden. Inside the residential living room, the geothermal fireplace was\u2026"
                         }
@@ -768,12 +941,15 @@
                     "chap_title": "The Rapid Deployment",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-first-generation/the-rapid-deployment",
                     "illustration_count": 0,
+                    "word_count": 9473,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Accelerated Recruit & The Multi-Front War",
                             "file_path": "e006/c006/p001.md",
                             "url": "/apex-fall-of-earth/the-first-generation/the-rapid-deployment/part-1-the-accelerated-recruit-the-multi-front-war",
+                            "word_count": 3596,
+                            "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The residential living room had been entirely cleared of all non-essential obstacles. The heavy reclaimed-wood coffee table was pushed against the far wall, leaving a massive, open expanse of plush rug. Wyatt\u2026"
                         },
@@ -782,6 +958,8 @@
                             "part_title": "Part 2: The Ghost Planet & The Authorized Harvest",
                             "file_path": "e006/c006/p002.md",
                             "url": "/apex-fall-of-earth/the-first-generation/the-rapid-deployment/part-2-the-ghost-planet-the-authorized-harvest",
+                            "word_count": 2898,
+                            "reading_minutes": 12,
                             "location": "Unknown",
                             "excerpt": "Lightyears away from the peaceful, amber-lit nursery of Planet Eden, the atmosphere was entirely devoid of warmth. In the absolute center of the sovereign planet Acheron, the true headquarters of Apex Defense\u2026"
                         },
@@ -790,6 +968,8 @@
                             "part_title": "Part 3: The Constitutional Override & The Perimeter Test",
                             "file_path": "e006/c006/p003.md",
                             "url": "/apex-fall-of-earth/the-first-generation/the-rapid-deployment/part-3-the-constitutional-override-the-perimeter-test",
+                            "word_count": 2979,
+                            "reading_minutes": 12,
                             "location": "Unknown",
                             "excerpt": "Two years ago, Wyatt Colton had made a massive, critical error in judgment. Standing in the Hydroponics Bay after Ellie\u2019s first successful heist, he had specifically ordered Aria not to lock the wheels of the\u2026"
                         }
@@ -802,18 +982,22 @@
             "era_title": "The Fall of Apex",
             "era_url": "/raggiesoft-books/books/apex-fall-of-earth/the-fall-of-apex",
             "illustration_count": 0,
+            "word_count": 18171,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Checkmate",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-fall-of-apex/checkmate",
                     "illustration_count": 0,
+                    "word_count": 9220,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Sovereign\u2019s Hubris & The Extraction",
                             "file_path": "e007/c001/p001.md",
                             "url": "/apex-fall-of-earth/the-fall-of-apex/checkmate/part-1-the-sovereign-s-hubris-the-extraction",
+                            "word_count": 3439,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "High Director Kael was not a man who waited. Less than forty-eight hours after the catastrophic, instantaneous vaporization of his thirty heavy-plasma cruisers in System 88-Tango, Kael arrived to handle the\u2026"
                         },
@@ -822,6 +1006,8 @@
                             "part_title": "Part 2: The Laws of War & The Interrogation",
                             "file_path": "e007/c001/p002.md",
                             "url": "/apex-fall-of-earth/the-fall-of-apex/checkmate/part-2-the-laws-of-war-the-interrogation",
+                            "word_count": 3386,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "While the automated Sentinel drones silently hauled the unconscious Sovereign of Acheron through the dense alien pine forest toward the Sub-Level 5 holding cells, Wyatt Colton was already back on the residential\u2026"
                         },
@@ -830,6 +1016,8 @@
                             "part_title": "Part 3: The Handover & The Classified Intel",
                             "file_path": "e007/c001/p003.md",
                             "url": "/apex-fall-of-earth/the-fall-of-apex/checkmate/part-3-the-handover-the-classified-intel",
+                            "word_count": 2395,
+                            "reading_minutes": 10,
                             "location": "Unknown",
                             "excerpt": "Three days after the narrow-beam transmission pierced the vacuum of space, the sky above Planet Eden finally parted. Standing on the edge of the massive, sunlit silicate plateau, Wyatt and Sarah Colton watched\u2026"
                         }
@@ -840,12 +1028,15 @@
                     "chap_title": "The Trial of the Century",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-fall-of-apex/the-trial-of-the-century",
                     "illustration_count": 0,
+                    "word_count": 6114,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Government-in-Exile & The Fab-Foundry Apprentice",
                             "file_path": "e007/c002/p001.md",
                             "url": "/apex-fall-of-earth/the-fall-of-apex/the-trial-of-the-century/part-1-the-government-in-exile-the-fab-foundry-apprentice",
+                            "word_count": 3353,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The mahogany-paneled library of The Sanctuary was perfectly quiet, but the atmosphere was buzzing with an intense, electrified anticipation. For the first time in months, Wyatt and Sarah Colton were fully\u2026"
                         },
@@ -854,6 +1045,8 @@
                             "part_title": "Part 2: The Verdict and the Vault & The Sentinel Treaty",
                             "file_path": "e007/c002/p002.md",
                             "url": "/apex-fall-of-earth/the-fall-of-apex/the-trial-of-the-century/part-2-the-verdict-and-the-vault-the-sentinel-treaty",
+                            "word_count": 2761,
+                            "reading_minutes": 12,
                             "location": "Unknown",
                             "excerpt": "The sprawling, mahogany-paneled library of the estate was perfectly still, but the air above the massive holographic glass table was electric. For five grueling months, Wyatt and Sarah Colton had dialed into the\u2026"
                         }
@@ -864,12 +1057,15 @@
                     "chap_title": "The Architects of Eden",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-fall-of-apex/the-architects-of-eden",
                     "illustration_count": 0,
+                    "word_count": 2837,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Healing Room & The History Lesson",
                             "file_path": "e007/c003/p001.md",
                             "url": "/apex-fall-of-earth/the-fall-of-apex/the-architects-of-eden/the-healing-room-the-history-lesson",
+                            "word_count": 2837,
+                            "reading_minutes": 12,
                             "location": "Unknown",
                             "excerpt": "The automated medical bay on Sub-Level 1 was bathed in a warm, golden-amber light. The quiet, rhythmic strumming of acoustic guitar music played softly from the ceiling\u2019s high-fidelity acoustic array. There were\u2026"
                         }
@@ -882,18 +1078,22 @@
             "era_title": "The Growing World",
             "era_url": "/raggiesoft-books/books/apex-fall-of-earth/the-growing-world",
             "illustration_count": 0,
+            "word_count": 21963,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Final Roster",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-growing-world/the-final-roster",
                     "illustration_count": 0,
+                    "word_count": 6832,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Pattern Disruption & The Archives of Earth",
                             "file_path": "e008/c001/p001.md",
                             "url": "/apex-fall-of-earth/the-growing-world/the-final-roster/part-1-the-pattern-disruption-the-archives-of-earth",
+                            "word_count": 3158,
+                            "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "The residential living room was bathed in the warm, golden light of mid-afternoon. At exactly 15:00, the estate was operating in a state of quiet, focused domesticity. Over by the massive hydro-glass windows\u2026"
                         },
@@ -902,6 +1102,8 @@
                             "part_title": "Part 2: The Fleet Upgrade & The Enforcers",
                             "file_path": "e008/c001/p002.md",
                             "url": "/apex-fall-of-earth/the-growing-world/the-final-roster/part-2-the-fleet-upgrade-the-enforcers",
+                            "word_count": 3674,
+                            "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The sprawling, open-concept living room was a masterclass in sensory regulation. With the afternoon sun pouring through the hydro-glass windows, Wyatt had dimmed the interior ambient lighting to a soft\u2026"
                         }
@@ -912,12 +1114,15 @@
                     "chap_title": "The Foundations of Genesis",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-growing-world/the-foundations-of-genesis",
                     "illustration_count": 0,
+                    "word_count": 8060,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Expanded Jurisdiction & The Biological Override",
                             "file_path": "e008/c002/p001.md",
                             "url": "/apex-fall-of-earth/the-growing-world/the-foundations-of-genesis/part-1-the-expanded-jurisdiction-the-biological-override",
+                            "word_count": 3254,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The sprawling residential living room of The Sanctuary was bathed in the crisp, golden light of an Eden autumn. The massive hydro-glass windows offered a breathtaking view of the valley below, where the emerald\u2026"
                         },
@@ -926,6 +1131,8 @@
                             "part_title": "Part 2: The Anomalous Data & The First Ten",
                             "file_path": "e008/c002/p002.md",
                             "url": "/apex-fall-of-earth/the-growing-world/the-foundations-of-genesis/part-2-the-anomalous-data-the-first-ten",
+                            "word_count": 3639,
+                            "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The mahogany-paneled library of The Sanctuary was cool and quiet, serving as the Vanguard\u2019s primary classroom for the afternoon. In the center of the room, the massive holographic glass table was projecting a\u2026"
                         },
@@ -934,6 +1141,8 @@
                             "part_title": "Part 3: The Sydney Protocol",
                             "file_path": "e008/c002/p003.md",
                             "url": "/apex-fall-of-earth/the-growing-world/the-foundations-of-genesis/part-3-the-sydney-protocol",
+                            "word_count": 1167,
+                            "reading_minutes": 5,
                             "location": "Unknown",
                             "excerpt": "The heavy, brushed-steel doors of the primary pneumatic elevator hissed shut on the residential level. For the first time in years, the entire Colton squad was descending into the deepest, coldest level of The\u2026"
                         }
@@ -944,12 +1153,15 @@
                     "chap_title": "The Awakening",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-growing-world/the-awakening",
                     "illustration_count": 0,
+                    "word_count": 7071,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The First Breath & The Gestation Protocol",
                             "file_path": "e008/c003/p001.md",
                             "url": "/apex-fall-of-earth/the-growing-world/the-awakening/part-1-the-first-breath-the-gestation-protocol",
+                            "word_count": 3476,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The atmosphere inside The Sanctuary was electric. Today was not just a celebration of life; it was the ignition sequence for a brand new world. It was the Vanguard\u2019s twelfth birthday. The entire Colton\u2026"
                         },
@@ -958,6 +1170,8 @@
                             "part_title": "Part 2: Arrival Day & The Nursery Logistics",
                             "file_path": "e008/c003/p002.md",
                             "url": "/apex-fall-of-earth/the-growing-world/the-awakening/part-2-arrival-day-the-nursery-logistics",
+                            "word_count": 3595,
+                            "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The cavernous, brilliantly lit staging bay on Sub-Level 6 was silent except for the low, rhythmic hum of ten artificial gestation cylinders. The entire Colton family was assembled on the polished durasteel\u2026"
                         }
@@ -970,18 +1184,22 @@
             "era_title": "The Village of Genesis",
             "era_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis",
             "illustration_count": 0,
+            "word_count": 29657,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Second Wave",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/the-second-wave",
                     "illustration_count": 0,
+                    "word_count": 6308,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Expanding Perimeter & The Commander\u2019s Blessing",
                             "file_path": "e009/c001/p001.md",
                             "url": "/apex-fall-of-earth/the-village-of-genesis/the-second-wave/part-1-the-expanding-perimeter-the-commander-s-blessing",
+                            "word_count": 2831,
+                            "reading_minutes": 12,
                             "location": "Unknown",
                             "excerpt": "The sprawling residential living room of The Sanctuary had transformed into a major logistical staging ground. Five years had passed since the first Genesis cohort was decanted, and the mountain fortress was\u2026"
                         },
@@ -990,6 +1208,8 @@
                             "part_title": "Part 2: The Lunar Embassy & Breaking Ground",
                             "file_path": "e009/c001/p002.md",
                             "url": "/apex-fall-of-earth/the-village-of-genesis/the-second-wave/part-2-the-lunar-embassy-breaking-ground",
+                            "word_count": 3477,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "For the first time in twelve years, Wyatt Colton had authorized a breach of the Aegis shield for an outside vessel. But he hadn't invited them to the planet. Sitting on the pale, cratered gray plains of\u2026"
                         }
@@ -1000,12 +1220,15 @@
                     "chap_title": "Jack \u2013 The Lunar Embassy",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/jack-the-lunar-embassy",
                     "illustration_count": 0,
+                    "word_count": 3252,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Fleet Girl & The Newport Fifty",
                             "file_path": "e009/c002/p001.md",
                             "url": "/apex-fall-of-earth/the-village-of-genesis/jack-the-lunar-embassy/the-fleet-girl-the-newport-fifty",
+                            "word_count": 3252,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The Earth Remnant Embassy on Anchor had grown from a single titanium foundation block into a sprawling, multi-tiered diplomatic hub. Built under the protective overwatch of the Colton family, the outpost\u2026"
                         }
@@ -1016,12 +1239,15 @@
                     "chap_title": "The Refugee",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/the-refugee",
                     "illustration_count": 0,
+                    "word_count": 3326,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Great Chowder Rebellion & The Golden Cage",
                             "file_path": "e009/c003/p001.md",
                             "url": "/apex-fall-of-earth/the-village-of-genesis/the-refugee/the-great-chowder-rebellion-the-golden-cage",
+                            "word_count": 3326,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The sprawling, open-air timber dining pavilion in the center of Genesis Village was currently ground zero for a massive cultural uprising. Twenty-one-year-old Jack Colton, now standing a broad-shouldered\u2026"
                         }
@@ -1032,12 +1258,15 @@
                     "chap_title": "The Asylum",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/the-asylum",
                     "illustration_count": 0,
+                    "word_count": 7587,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Scavenger's Tale & The Village Square",
                             "file_path": "e009/c004/p001.md",
                             "url": "/apex-fall-of-earth/the-village-of-genesis/the-asylum/part-1-the-scavenger-s-tale-the-village-square",
+                            "word_count": 2714,
+                            "reading_minutes": 11,
                             "location": "Unknown",
                             "excerpt": "The mahogany-paneled library of the mountain estate had been temporarily converted into a formal debriefing room. Sloane sat on the edge of the plush leather sofa. She was no longer wearing the scorched, bloody\u2026"
                         },
@@ -1046,6 +1275,8 @@
                             "part_title": "Part 2: The Collection Agency & The Extraction of Toxicity",
                             "file_path": "e009/c004/p002.md",
                             "url": "/apex-fall-of-earth/the-village-of-genesis/the-asylum/part-2-the-collection-agency-the-extraction-of-toxicity",
+                            "word_count": 3155,
+                            "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "The morning sun had barely crested the eastern ridge when the tactical alarms in the Combat Information Center violently shattered the quiet of the mountain estate. Down in Sub-Level 3, twenty-five-year-old\u2026"
                         },
@@ -1054,6 +1285,8 @@
                             "part_title": "Part 3: The Detox & The Filter",
                             "file_path": "e009/c004/p003.md",
                             "url": "/apex-fall-of-earth/the-village-of-genesis/the-asylum/part-3-the-detox-the-filter",
+                            "word_count": 1718,
+                            "reading_minutes": 7,
                             "location": "Unknown",
                             "excerpt": "The Main Residence of Genesis Village was a sprawling, beautifully constructed timber lodge that sat right on the bend of the rushing river. It was loud, lived-in, and currently shared by Jack, Molly, Claire\u2026"
                         }
@@ -1064,12 +1297,15 @@
                     "chap_title": "Leo \u2013 The Overseer",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/leo-the-overseer",
                     "illustration_count": 0,
+                    "word_count": 3886,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Geometry of Peace & The Shenandoah Curve",
                             "file_path": "e009/c005/p001.md",
                             "url": "/apex-fall-of-earth/the-village-of-genesis/leo-the-overseer/part-1-the-geometry-of-peace-the-shenandoah-curve",
+                            "word_count": 3007,
+                            "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "To Leo Colton, the universe was not made of chaotic events or unpredictable emotions. The universe was made of geometry, pressure, and frequency. He sat in the center of the Combat Information Center on\u2026"
                         },
@@ -1078,6 +1314,8 @@
                             "part_title": "Part 2: The Stewards",
                             "file_path": "e009/c005/p002.md",
                             "url": "/apex-fall-of-earth/the-village-of-genesis/leo-the-overseer/part-2-the-stewards",
+                            "word_count": 879,
+                            "reading_minutes": 4,
                             "location": "Unknown",
                             "excerpt": "The Combat Information Center was quiet, save for the low, 40-hertz hum of the geothermal reactors and the steady pulsing of the massive holographic table. On the glass, the topographical map of the Shenandoah\u2026"
                         }
@@ -1088,12 +1326,15 @@
                     "chap_title": "Wyatt \u2013 The Founders",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/wyatt-the-founders",
                     "illustration_count": 0,
+                    "word_count": 1705,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Watch & The Age of Majority",
                             "file_path": "e009/c006/p001.md",
                             "url": "/apex-fall-of-earth/the-village-of-genesis/wyatt-the-founders/the-watch-the-age-of-majority",
+                            "word_count": 1705,
+                            "reading_minutes": 7,
                             "location": "Unknown",
                             "excerpt": "The observation terrace extending from the western face of the mountain estate was bathed in the warm, late-morning sunlight. Wyatt Colton sat on one of the plush, weather-resistant loungers. At fifty years old\u2026"
                         }
@@ -1104,12 +1345,15 @@
                     "chap_title": "Leo \u2013 The Wilderness",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-village-of-genesis/leo-the-wilderness",
                     "illustration_count": 0,
+                    "word_count": 3593,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Logistics of the Wild & The Sydney Echo",
                             "file_path": "e009/c007/p001.md",
                             "url": "/apex-fall-of-earth/the-village-of-genesis/leo-the-wilderness/the-logistics-of-the-wild-the-sydney-echo",
+                            "word_count": 3593,
+                            "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "To Leo Colton, a successful operation was entirely dependent on the structural integrity of its preparation. The wilderness was not an enemy to be feared; it was simply a complex equation of natural variables\u2026"
                         }

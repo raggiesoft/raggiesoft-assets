@@ -17,15 +17,33 @@
         "pdf_bytes": 415749,
         "text_epub_bytes": 155170,
         "text_pdf_bytes": 415749,
-        "package_7z_bytes": 111677
+        "package_7z_bytes": 112016
     },
     "illustration_count": 0,
+    "word_stats": {
+        "story_word_count": 57383,
+        "lore_word_count": 135,
+        "combined_word_count": 57518,
+        "story_page_count": 209,
+        "combined_page_count": 209,
+        "reading_hours": 3.8,
+        "reading_minutes": 230,
+        "novel_equivalent": 0.6,
+        "scale_category": "Compact Novel",
+        "scale_badge": "Compact Novel",
+        "benchmark_note": "Compact single-volume trade paperback length (40,000\u201370,000 words)",
+        "era_count": 24,
+        "chapter_count": 89,
+        "part_count": 17,
+        "illustration_count": 0
+    },
     "eras": [
         {
             "era_num": 1,
             "era_title": "Book 1: Echoes of the Past",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-1-echoes-of-the-past",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": []
         },
         {
@@ -33,18 +51,22 @@
             "era_title": "The Motel on the Highway",
             "era_url": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway",
             "illustration_count": 0,
+            "word_count": 20124,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Threshold",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway/the-threshold",
                     "illustration_count": 0,
+                    "word_count": 6775,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Out of the Storm",
                             "file_path": "e002/c001/p001.md",
                             "url": "/pebble-borrow/the-motel-on-the-highway/the-threshold/out-of-the-storm",
+                            "word_count": 6775,
+                            "reading_minutes": 28,
                             "location": "Unknown",
                             "excerpt": "US Highway 11 was not built for pedestrians. There was no shoulder, no sidewalk\u2014just a harsh ribbon of asphalt consisting of a northbound lane, a center turn lane, and a southbound lane where cars whipped past\u2026"
                         }
@@ -55,12 +77,15 @@
                     "chap_title": "Setting the Scene",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway/setting-the-scene",
                     "illustration_count": 0,
+                    "word_count": 1374,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The APEX Late-Night Switch",
                             "file_path": "e002/c002/p001.md",
                             "url": "/pebble-borrow/the-motel-on-the-highway/setting-the-scene/part-1-the-apex-late-night-switch",
+                            "word_count": 644,
+                            "reading_minutes": 3,
                             "location": "Unknown",
                             "excerpt": "The credits of some cheesy, explosions-and-bad-dialogue action flick rolled across the screen, casting a flickering, blue-white glow over the cramped space of Room 114. It was exactly 11:00 PM on a Friday\u2026"
                         },
@@ -69,6 +94,8 @@
                             "part_title": "Part 2: The APEX World Premier Presentation",
                             "file_path": "e002/c002/p002.md",
                             "url": "/pebble-borrow/the-motel-on-the-highway/setting-the-scene/part-2-the-apex-world-premier-presentation",
+                            "word_count": 730,
+                            "reading_minutes": 3,
                             "location": "Unknown",
                             "excerpt": "The following night, the legal pads and the LPN brochures were temporarily shoved into the desk drawer. For the first time all week, the heavy, static-laced CRT television wasn't muted. It was 7:59 PM on a\u2026"
                         }
@@ -79,12 +106,15 @@
                     "chap_title": "Amanda Protects her Siblings",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/the-motel-on-the-highway/amanda-protects-her-siblings",
                     "illustration_count": 0,
+                    "word_count": 11975,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The APEX Late\u2011Night Switch",
                             "file_path": "e002/c003/p001.md",
                             "url": "/pebble-borrow/the-motel-on-the-highway/amanda-protects-her-siblings/part-1-the-apex-late-night-switch",
+                            "word_count": 454,
+                            "reading_minutes": 2,
                             "location": "Unknown",
                             "excerpt": "The motel room was silent except for the low hum of the CRT television and the faint buzz of the neon sign outside. Amanda had fallen asleep at the desk again, cheek pressed against the open LPN textbook\u2026"
                         },
@@ -93,6 +123,8 @@
                             "part_title": "Part 2: Saturday Morning \u2014 The Teasing Begins",
                             "file_path": "e002/c003/p002.md",
                             "url": "/pebble-borrow/the-motel-on-the-highway/amanda-protects-her-siblings/part-2-saturday-morning-the-teasing-begins",
+                            "word_count": 11521,
+                            "reading_minutes": 47,
                             "location": "Unknown",
                             "excerpt": "Morning sunlight pushed through the plastic blinds in thin, uneven stripes, cutting across the motel room like a barcode. The neon sign outside had finally flickered off, leaving only the distant hum of highway\u2026"
                         }
@@ -105,6 +137,7 @@
             "era_title": "Book 3: Beyond the Horizon",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-3-beyond-the-horizon",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": []
         },
         {
@@ -112,6 +145,7 @@
             "era_title": "Book 4: The Turning Point",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-4-the-turning-point",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": []
         },
         {
@@ -119,12 +153,14 @@
             "era_title": "Book 5: A Glimmer of Hope",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-5-a-glimmer-of-hope",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Confrontation",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-5-a-glimmer-of-hope/chapter-1-the-confrontation",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]
@@ -134,6 +170,7 @@
             "era_title": "Book 6: Shadows Fall",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-6-shadows-fall",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": []
         },
         {
@@ -141,12 +178,14 @@
             "era_title": "Welcome to Pebble Burrow",
             "era_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow",
             "illustration_count": 0,
+            "word_count": 2412,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Aftermath",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-1-the-aftermath",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -154,6 +193,7 @@
                     "chap_title": "Chapter 2: The Trial",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-2-the-trial",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -161,6 +201,7 @@
                     "chap_title": "Chapter 3: A Change of Plans",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-3-a-change-of-plans",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -168,6 +209,7 @@
                     "chap_title": "Chapter 4: The Betrayal",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-4-the-betrayal",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -175,6 +217,7 @@
                     "chap_title": "Chapter 5: The Sacrifice",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-5-the-sacrifice",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -182,6 +225,7 @@
                     "chap_title": "Chapter 6: A Moment of Peace",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-6-a-moment-of-peace",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -189,6 +233,7 @@
                     "chap_title": "Chapter 7: A Moment of Peace",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-7-a-moment-of-peace",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -196,6 +241,7 @@
                     "chap_title": "Chapter 8: A Moment of Peace",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-8-a-moment-of-peace",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -203,6 +249,7 @@
                     "chap_title": "Chapter 9: The Betrayal",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-9-the-betrayal",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -210,6 +257,7 @@
                     "chap_title": "Chapter 10: Unexpected Encounters",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-10-unexpected-encounters",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -217,6 +265,7 @@
                     "chap_title": "Chapter 11: The Turning of the Tide",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-11-the-turning-of-the-tide",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -224,6 +273,7 @@
                     "chap_title": "Chapter 12: The Confrontation",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-12-the-confrontation",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -231,6 +281,7 @@
                     "chap_title": "Chapter 13: A New Ally",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-13-a-new-ally",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -238,12 +289,15 @@
                     "chap_title": "Returning to the Surface",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/returning-to-the-surface",
                     "illustration_count": 0,
+                    "word_count": 2412,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Apocalyptic Reality",
                             "file_path": "e007/c014/p001.md",
                             "url": "/pebble-borrow/welcome-to-pebble-burrow/returning-to-the-surface/part-1-the-apocalyptic-reality",
+                            "word_count": 344,
+                            "reading_minutes": 2,
                             "location": "Unknown",
                             "excerpt": "The triplets exchanged a confused look. Drake stepped forward, gesturing to the silent walls. \"Was it a drill? The noise that stopped?\" \"Yes. A Mark IV Seismic Penetrator,\" Victor said, leaning forward and\u2026"
                         },
@@ -252,6 +306,8 @@
                             "part_title": "Part 2: The Burden of Ownership",
                             "file_path": "e007/c014/p002.md",
                             "url": "/pebble-borrow/welcome-to-pebble-burrow/returning-to-the-surface/part-2-the-burden-of-ownership",
+                            "word_count": 2068,
+                            "reading_minutes": 9,
                             "location": "Unknown",
                             "excerpt": "Amanda let out a shaky breath, stepping back to lean against the kitchen counter. \"So... what now? Do we pack up and leave? Hand it over to the government?\" \"No,\" Victor said, standing back up and straightening\u2026"
                         }
@@ -262,6 +318,7 @@
                     "chap_title": "Chapter 15: The Aftermath",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-15-the-aftermath",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -269,6 +326,7 @@
                     "chap_title": "Chapter 16: Unexpected Encounters",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/welcome-to-pebble-burrow/chapter-16-unexpected-encounters",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]
@@ -278,12 +336,14 @@
             "era_title": "The General's Arrival",
             "era_url": "/raggiesoft-books/books/pebble-borrow/the-general-s-arrival",
             "illustration_count": 0,
+            "word_count": 32710,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Confrontation",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/the-general-s-arrival/chapter-1-the-confrontation",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -291,12 +351,15 @@
                     "chap_title": "The Holy Grail of Geothermal Energy",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/the-general-s-arrival/the-holy-grail-of-geothermal-energy",
                     "illustration_count": 0,
+                    "word_count": 732,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "0700 Hours: The First Refusal",
                             "file_path": "e008/c002/p001.md",
                             "url": "/pebble-borrow/the-general-s-arrival/the-holy-grail-of-geothermal-energy/0700-hours-the-first-refusal",
+                            "word_count": 732,
+                            "reading_minutes": 3,
                             "location": "Unknown",
                             "excerpt": "Outside the reinforced steel gates of the Pebble Burrow Institute, the early morning Virginia fog still clung to the asphalt. General Peter Vance stood inside his mobile command center\u2014a heavily armored\u2026"
                         }
@@ -307,12 +370,15 @@
                     "chap_title": "0830 Hours: The Four-Star Directive",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/the-general-s-arrival/0830-hours-the-four-star-directive",
                     "illustration_count": 0,
+                    "word_count": 1557,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Net Closes",
                             "file_path": "e008/c003/p001.md",
                             "url": "/pebble-borrow/the-general-s-arrival/0830-hours-the-four-star-directive/the-net-closes",
+                            "word_count": 1557,
+                            "reading_minutes": 7,
                             "location": "Unknown",
                             "excerpt": "Before Vance could even react to the message, the secondary monitors on the command console lit up. These were tied into the local Department of Transportation traffic cameras monitoring the Middletown exit of\u2026"
                         }
@@ -323,6 +389,7 @@
                     "chap_title": "Chapter 4: A Change of Plans",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/the-general-s-arrival/chapter-4-a-change-of-plans",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -330,12 +397,15 @@
                     "chap_title": "1015 Hours: The Commander-in-Chief",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/the-general-s-arrival/1015-hours-the-commander-in-chief",
                     "illustration_count": 0,
+                    "word_count": 30421,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Breach",
                             "file_path": "e008/c005/p001.md",
                             "url": "/pebble-borrow/the-general-s-arrival/1015-hours-the-commander-in-chief/the-breach",
+                            "word_count": 30421,
+                            "reading_minutes": 122,
                             "location": "Unknown",
                             "excerpt": "Vance was entirely, utterly alone. He stared at the empty driver's seat. The final betrayal snapped whatever tether to reality he had left. He wasn't a general anymore. He was a dead man walking, and he was\u2026"
                         }
@@ -348,12 +418,14 @@
             "era_title": "Book 9: The Endless Journey",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-9-the-endless-journey",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Unexpected Encounters",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-9-the-endless-journey/chapter-1-unexpected-encounters",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -361,6 +433,7 @@
                     "chap_title": "Chapter 2: The Turning of the Tide",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-9-the-endless-journey/chapter-2-the-turning-of-the-tide",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]
@@ -370,12 +443,14 @@
             "era_title": "Book 10: The Lost Memories",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Unexpected Encounters",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-1-unexpected-encounters",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -383,6 +458,7 @@
                     "chap_title": "Chapter 2: A Moment of Peace",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-2-a-moment-of-peace",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -390,6 +466,7 @@
                     "chap_title": "Chapter 3: A Desperate Escape",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-3-a-desperate-escape",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -397,6 +474,7 @@
                     "chap_title": "Chapter 4: Into the Unknown",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-4-into-the-unknown",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -404,6 +482,7 @@
                     "chap_title": "Chapter 5: A Change of Plans",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-5-a-change-of-plans",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -411,6 +490,7 @@
                     "chap_title": "Chapter 6: The Trial",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-6-the-trial",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -418,6 +498,7 @@
                     "chap_title": "Chapter 7: A Desperate Escape",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-7-a-desperate-escape",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -425,6 +506,7 @@
                     "chap_title": "Chapter 8: Unexpected Encounters",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-8-unexpected-encounters",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -432,6 +514,7 @@
                     "chap_title": "Chapter 9: Into the Unknown",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-9-into-the-unknown",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -439,6 +522,7 @@
                     "chap_title": "Chapter 10: The Aftermath",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-10-the-aftermath",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -446,6 +530,7 @@
                     "chap_title": "Chapter 11: The Arrival",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-11-the-arrival",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -453,6 +538,7 @@
                     "chap_title": "Chapter 12: The Confrontation",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-10-the-lost-memories/chapter-12-the-confrontation",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]
@@ -462,12 +548,14 @@
             "era_title": "Book 11: Hidden Paths",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-11-hidden-paths",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Turning of the Tide",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-11-hidden-paths/chapter-1-the-turning-of-the-tide",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -475,6 +563,7 @@
                     "chap_title": "Chapter 2: The Confrontation",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-11-hidden-paths/chapter-2-the-confrontation",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -482,6 +571,7 @@
                     "chap_title": "Chapter 3: A New Ally",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-11-hidden-paths/chapter-3-a-new-ally",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -489,6 +579,7 @@
                     "chap_title": "Chapter 4: The Aftermath",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-11-hidden-paths/chapter-4-the-aftermath",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]
@@ -498,12 +589,14 @@
             "era_title": "Book 12: The Turning Point",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-12-the-turning-point",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Into the Unknown",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-12-the-turning-point/chapter-1-into-the-unknown",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -511,6 +604,7 @@
                     "chap_title": "Chapter 2: The Sacrifice",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-12-the-turning-point/chapter-2-the-sacrifice",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -518,6 +612,7 @@
                     "chap_title": "Chapter 3: The Arrival",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-12-the-turning-point/chapter-3-the-arrival",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]
@@ -527,12 +622,14 @@
             "era_title": "Book 13: Beyond the Horizon",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-13-beyond-the-horizon",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Turning of the Tide",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-13-beyond-the-horizon/chapter-1-the-turning-of-the-tide",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -540,6 +637,7 @@
                     "chap_title": "Chapter 2: The Trial",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-13-beyond-the-horizon/chapter-2-the-trial",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -547,6 +645,7 @@
                     "chap_title": "Chapter 3: The Sacrifice",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-13-beyond-the-horizon/chapter-3-the-sacrifice",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -554,6 +653,7 @@
                     "chap_title": "Chapter 4: A Desperate Escape",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-13-beyond-the-horizon/chapter-4-a-desperate-escape",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -561,6 +661,7 @@
                     "chap_title": "Chapter 5: The Sacrifice",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-13-beyond-the-horizon/chapter-5-the-sacrifice",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -568,6 +669,7 @@
                     "chap_title": "Chapter 6: The Aftermath",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-13-beyond-the-horizon/chapter-6-the-aftermath",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]
@@ -577,12 +679,14 @@
             "era_title": "Book 14: A New Dawn",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-14-a-new-dawn",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Turning of the Tide",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-14-a-new-dawn/chapter-1-the-turning-of-the-tide",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -590,6 +694,7 @@
                     "chap_title": "Chapter 2: A Desperate Escape",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-14-a-new-dawn/chapter-2-a-desperate-escape",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -597,6 +702,7 @@
                     "chap_title": "Chapter 3: The Trial",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-14-a-new-dawn/chapter-3-the-trial",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]
@@ -606,12 +712,14 @@
             "era_title": "Book 15: The Final Stand",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-15-the-final-stand",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: A New Ally",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-15-the-final-stand/chapter-1-a-new-ally",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -619,6 +727,7 @@
                     "chap_title": "Chapter 2: The Betrayal",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-15-the-final-stand/chapter-2-the-betrayal",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -626,6 +735,7 @@
                     "chap_title": "Chapter 3: A Moment of Peace",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-15-the-final-stand/chapter-3-a-moment-of-peace",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]
@@ -635,12 +745,14 @@
             "era_title": "Book 16: A New Dawn",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-16-a-new-dawn",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Sacrifice",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-16-a-new-dawn/chapter-1-the-sacrifice",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -648,6 +760,7 @@
                     "chap_title": "Chapter 2: A Change of Plans",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-16-a-new-dawn/chapter-2-a-change-of-plans",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -655,6 +768,7 @@
                     "chap_title": "Chapter 3: A Moment of Peace",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-16-a-new-dawn/chapter-3-a-moment-of-peace",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -662,6 +776,7 @@
                     "chap_title": "Chapter 4: Into the Unknown",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-16-a-new-dawn/chapter-4-into-the-unknown",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]
@@ -671,12 +786,14 @@
             "era_title": "Book 17: The Final Stand",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-17-the-final-stand",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Trial",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-17-the-final-stand/chapter-1-the-trial",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -684,6 +801,7 @@
                     "chap_title": "Chapter 2: Unexpected Encounters",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-17-the-final-stand/chapter-2-unexpected-encounters",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -691,6 +809,7 @@
                     "chap_title": "Chapter 3: Unexpected Encounters",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-17-the-final-stand/chapter-3-unexpected-encounters",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -698,6 +817,7 @@
                     "chap_title": "Chapter 4: Into the Unknown",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-17-the-final-stand/chapter-4-into-the-unknown",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -705,6 +825,7 @@
                     "chap_title": "Chapter 5: Revelations",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-17-the-final-stand/chapter-5-revelations",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -712,6 +833,7 @@
                     "chap_title": "Chapter 6: The Arrival",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-17-the-final-stand/chapter-6-the-arrival",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]
@@ -721,12 +843,14 @@
             "era_title": "Book 18: Silent Whispers",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-18-silent-whispers",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Into the Unknown",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-18-silent-whispers/chapter-1-into-the-unknown",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -734,6 +858,7 @@
                     "chap_title": "Chapter 2: Revelations",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-18-silent-whispers/chapter-2-revelations",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]
@@ -743,12 +868,14 @@
             "era_title": "Book 19: Silent Whispers",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-19-silent-whispers",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Confrontation",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-19-silent-whispers/chapter-1-the-confrontation",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -756,6 +883,7 @@
                     "chap_title": "Chapter 2: The Aftermath",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-19-silent-whispers/chapter-2-the-aftermath",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -763,6 +891,7 @@
                     "chap_title": "Chapter 3: The Arrival",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-19-silent-whispers/chapter-3-the-arrival",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]
@@ -772,12 +901,14 @@
             "era_title": "Book 20: A New Dawn",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-20-a-new-dawn",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Unexpected Encounters",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-20-a-new-dawn/chapter-1-unexpected-encounters",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -785,6 +916,7 @@
                     "chap_title": "Chapter 2: The Aftermath",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-20-a-new-dawn/chapter-2-the-aftermath",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -792,6 +924,7 @@
                     "chap_title": "Chapter 3: The Betrayal",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-20-a-new-dawn/chapter-3-the-betrayal",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]
@@ -801,12 +934,14 @@
             "era_title": "Book 21: A New Dawn",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-21-a-new-dawn",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Arrival",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-21-a-new-dawn/chapter-1-the-arrival",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -814,6 +949,7 @@
                     "chap_title": "Chapter 2: A Desperate Escape",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-21-a-new-dawn/chapter-2-a-desperate-escape",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -821,6 +957,7 @@
                     "chap_title": "Chapter 3: Into the Unknown",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-21-a-new-dawn/chapter-3-into-the-unknown",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]
@@ -830,6 +967,7 @@
             "era_title": "Book 22: The Final Stand",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-22-the-final-stand",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": []
         },
         {
@@ -837,12 +975,14 @@
             "era_title": "Amanda Interviews Care Nurses",
             "era_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses",
             "illustration_count": 0,
+            "word_count": 2137,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Trial",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/chapter-1-the-trial",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -850,6 +990,7 @@
                     "chap_title": "Chapter 2: The Aftermath",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/chapter-2-the-aftermath",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -857,6 +998,7 @@
                     "chap_title": "Chapter 3: The Betrayal",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/chapter-3-the-betrayal",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -864,6 +1006,7 @@
                     "chap_title": "Chapter 4: The Trial",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/chapter-4-the-trial",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -871,6 +1014,7 @@
                     "chap_title": "Chapter 5: Revelations",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/chapter-5-revelations",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -878,6 +1022,7 @@
                     "chap_title": "Chapter 6: The Confrontation",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/chapter-6-the-confrontation",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -885,12 +1030,15 @@
                     "chap_title": "The Verification",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/the-verification",
                     "illustration_count": 0,
+                    "word_count": 832,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Call 1: The Surgeon",
                             "file_path": "e023/c007/p001.md",
                             "url": "/pebble-borrow/amanda-interviews-care-nurses/the-verification/part-1-call-1-the-surgeon",
+                            "word_count": 227,
+                            "reading_minutes": 1,
                             "location": "Unknown",
                             "excerpt": "The first number belonged to Dr. Marcus Vance, Chief of Neuro-Trauma Surgery at Johns Hopkins. Amanda expected to be routed to a voicemail or brushed off by a receptionist, but when she stated she was calling\u2026"
                         },
@@ -899,6 +1047,8 @@
                             "part_title": "Part 2: Call 2: The Social Worker",
                             "file_path": "e023/c007/p002.md",
                             "url": "/pebble-borrow/amanda-interviews-care-nurses/the-verification/part-2-call-2-the-social-worker",
+                            "word_count": 191,
+                            "reading_minutes": 1,
                             "location": "Unknown",
                             "excerpt": "Amanda carefully noted Dr. Vance's exact words on her legal pad before dialing the second number. It belonged to Elaine Croft, the Lead Clinical Social Worker for the Hopkins SCI (Spinal Cord Injury) unit. \"Oh\u2026"
                         },
@@ -907,6 +1057,8 @@
                             "part_title": "Part 3: Call 3: The Director of Nursing",
                             "file_path": "e023/c007/p003.md",
                             "url": "/pebble-borrow/amanda-interviews-care-nurses/the-verification/part-3-call-3-the-director-of-nursing",
+                            "word_count": 414,
+                            "reading_minutes": 2,
                             "location": "Unknown",
                             "excerpt": "Amanda\u2019s shoulders had finally dropped away from her ears. The knot of anxiety in her stomach was unraveling. She dialed the final number: Helen Ruiz, the Director of Critical Care Nursing at Johns Hopkins\u2026"
                         }
@@ -917,12 +1069,15 @@
                     "chap_title": "The Fortress is Staffed",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/amanda-interviews-care-nurses/the-fortress-is-staffed",
                     "illustration_count": 0,
+                    "word_count": 1305,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Night Watch",
                             "file_path": "e023/c008/p001.md",
                             "url": "/pebble-borrow/amanda-interviews-care-nurses/the-fortress-is-staffed/part-1-the-night-watch",
+                            "word_count": 69,
+                            "reading_minutes": 1,
                             "location": "Unknown",
                             "excerpt": "Amanda hired two hyper-vigilant Cardiac ICU veterans for the night shifts. They were the silent owls of the operation. They didn't need the warm bedside manner of the day shift; their only job was to sit in the\u2026"
                         },
@@ -931,6 +1086,8 @@
                             "part_title": "Part 2: The Muscle",
                             "file_path": "e023/c008/p002.md",
                             "url": "/pebble-borrow/amanda-interviews-care-nurses/the-fortress-is-staffed/part-2-the-muscle",
+                            "word_count": 61,
+                            "reading_minutes": 1,
                             "location": "Unknown",
                             "excerpt": "Amanda hired a rotation of highly experienced Certified Nursing Assistants. Paid the exact same \\$100-an-hour flat rate as the RNs, these men and women were built like linebackers but possessed the gentlest\u2026"
                         },
@@ -939,6 +1096,8 @@
                             "part_title": "Part 3: The Rebuilders",
                             "file_path": "e023/c008/p003.md",
                             "url": "/pebble-borrow/amanda-interviews-care-nurses/the-fortress-is-staffed/part-3-the-rebuilders",
+                            "word_count": 85,
+                            "reading_minutes": 1,
                             "location": "Unknown",
                             "excerpt": "The Physical Therapist Assistant was a strict but deeply empathetic former military medic who knew exactly how to push Drake and Ashleigh's upper-body conditioning without triggering orthostatic hypotension. But\u2026"
                         },
@@ -947,6 +1106,8 @@
                             "part_title": "Part 4: The Shield",
                             "file_path": "e023/c008/p004.md",
                             "url": "/pebble-borrow/amanda-interviews-care-nurses/the-fortress-is-staffed/part-4-the-shield",
+                            "word_count": 1090,
+                            "reading_minutes": 5,
                             "location": "Unknown",
                             "excerpt": "Finally, Victor Thorne\u2019s trust finalized the back-office hires. Operating out of a converted guest house near the estate's security gates, a ruthless former hospital compliance officer and a meticulous\u2026"
                         }
@@ -959,12 +1120,14 @@
             "era_title": "Book 24: Silent Whispers",
             "era_url": "/raggiesoft-books/books/pebble-borrow/book-24-silent-whispers",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Arrival",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-24-silent-whispers/chapter-1-the-arrival",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -972,6 +1135,7 @@
                     "chap_title": "Chapter 2: Into the Unknown",
                     "chap_url": "/raggiesoft-books/books/pebble-borrow/book-24-silent-whispers/chapter-2-into-the-unknown",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]

@@ -12,32 +12,53 @@
         "pdf": "198 KB",
         "text_epub": "69 KB",
         "text_pdf": "198 KB",
-        "package_7z": "52 KB",
+        "package_7z": "53 KB",
         "epub_bytes": 70992,
         "pdf_bytes": 202768,
         "text_epub_bytes": 70990,
         "text_pdf_bytes": 202768,
-        "package_7z_bytes": 53678
+        "package_7z_bytes": 53969
     },
     "illustration_count": 0,
+    "word_stats": {
+        "story_word_count": 26090,
+        "lore_word_count": 537,
+        "combined_word_count": 26627,
+        "story_page_count": 95,
+        "combined_page_count": 97,
+        "reading_hours": 1.7,
+        "reading_minutes": 104,
+        "novel_equivalent": 0.3,
+        "scale_category": "Novella",
+        "scale_badge": "Novella",
+        "benchmark_note": "Standard contemporary novella length (17,500\u201340,000 words)",
+        "era_count": 3,
+        "chapter_count": 7,
+        "part_count": 12,
+        "illustration_count": 0
+    },
     "eras": [
         {
             "era_num": 1,
             "era_title": "Book: The Architecture of Safe Spaces",
             "era_url": "/raggiesoft-books/books/nate/book-the-architecture-of-safe-spaces",
             "illustration_count": 0,
+            "word_count": 846,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Triplet Anomaly \u2014 Saturday, April 16, 1994",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-architecture-of-safe-spaces/chapter-1-the-triplet-anomaly-saturday-april-16-1994",
                     "illustration_count": 0,
+                    "word_count": 846,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Rhythmic Drumming",
                             "file_path": "e001/c001/p001.md",
                             "url": "/nate/book-the-architecture-of-safe-spaces/chapter-1-the-triplet-anomaly-saturday-april-16-1994/the-rhythmic-drumming",
+                            "word_count": 846,
+                            "reading_minutes": 4,
                             "date": "1994-04-16",
                             "location": "Unknown",
                             "excerpt": "The rhythmic drumming of the rain against the flat roof of the converted garage was a heavy, comforting blanket. For Nate, the sound was a physical weight that pressed the rest of the world away, leaving only\u2026"
@@ -51,18 +72,22 @@
             "era_title": "Book: The Demolition of the Cage",
             "era_url": "/raggiesoft-books/books/nate/book-the-demolition-of-the-cage",
             "illustration_count": 0,
+            "word_count": 17370,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Line in the Sand - Friday, November 10, 2006",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-demolition-of-the-cage/chapter-1-the-line-in-the-sand-friday-november-10-2006",
                     "illustration_count": 0,
+                    "word_count": 8599,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Hydraulic Hiss And Heavy & The Transition From The Chaotic",
                             "file_path": "e002/c001/p001.md",
                             "url": "/nate/book-the-demolition-of-the-cage/chapter-1-the-line-in-the-sand-friday-november-10-2006/part-1-the-hydraulic-hiss-and-heavy-the-transition-from-the-chaotic",
+                            "word_count": 3341,
+                            "reading_minutes": 14,
                             "date": "2006-11-10",
                             "location": "Unknown",
                             "excerpt": "The hydraulic hiss and heavy diesel fumes of the Norfolk Pathfinder terminal were overwhelming, but they were nothing compared to the sharp, sudden sting of Valerie\u2019s voice. Nate flinched visibly as she screamed\u2026"
@@ -72,6 +97,8 @@
                             "part_title": "Part 2: The Sedan Hummed Steadily Along & Evelyn Walked Back Into",
                             "file_path": "e002/c001/p002.md",
                             "url": "/nate/book-the-demolition-of-the-cage/chapter-1-the-line-in-the-sand-friday-november-10-2006/part-2-the-sedan-hummed-steadily-along-evelyn-walked-back-into",
+                            "word_count": 3791,
+                            "reading_minutes": 16,
                             "date": "2006-11-10",
                             "location": "Unknown",
                             "excerpt": "The sedan hummed steadily along Interstate 264 Eastbound, putting miles between Nate and the nightmare at the Pathfinder terminal. As the green highway sign for Exit 18 loomed overhead, Evelyn engaged the turn\u2026"
@@ -81,6 +108,8 @@
                             "part_title": "Part 3: The Transition From Chronic Survival-Mode & Nate Woke Up",
                             "file_path": "e002/c001/p003.md",
                             "url": "/nate/book-the-demolition-of-the-cage/chapter-1-the-line-in-the-sand-friday-november-10-2006/part-3-the-transition-from-chronic-survival-mode-nate-woke-up",
+                            "word_count": 1467,
+                            "reading_minutes": 6,
                             "date": "2006-11-10",
                             "location": "Unknown",
                             "excerpt": "The transition from chronic, survival-mode terror to the sudden, overwhelming reality of profound joy is not a gentle slope. For a neurodivergent nervous system that has been running on the redline for two\u2026"
@@ -92,12 +121,15 @@
                     "chap_title": "Chapter 2: The Reinforcements - Saturday, November 11, 2006",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-demolition-of-the-cage/chapter-2-the-reinforcements-saturday-november-11-2006",
                     "illustration_count": 0,
+                    "word_count": 4748,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Nate Woke Up & The Click Of The Phone",
                             "file_path": "e002/c002/p001.md",
                             "url": "/nate/book-the-demolition-of-the-cage/chapter-2-the-reinforcements-saturday-november-11-2006/part-1-nate-woke-up-the-click-of-the-phone",
+                            "word_count": 2905,
+                            "reading_minutes": 12,
                             "date": "2006-11-11",
                             "location": "Unknown",
                             "excerpt": "Nate woke up to the smell of brewing coffee and the quiet, rhythmic hum of the countertop dishwasher. He opened his eyes, blinking against the soft, muted daylight filtering through the blinds of the garage\u2026"
@@ -107,6 +139,8 @@
                             "part_title": "Part 2: The Crisp Bright November Air & The Heavy Frosted Glass Doors",
                             "file_path": "e002/c002/p002.md",
                             "url": "/nate/book-the-demolition-of-the-cage/chapter-2-the-reinforcements-saturday-november-11-2006/part-2-the-crisp-bright-november-air-the-heavy-frosted-glass-doors",
+                            "word_count": 1843,
+                            "reading_minutes": 8,
                             "date": "2006-11-11",
                             "location": "Unknown",
                             "excerpt": "The crisp, bright November air felt entirely different today. Yesterday, the cold had felt biting and hostile as Nate sat shivering in the back of his mother's sedan, fleeing the Pathfinder terminal. Today, as\u2026"
@@ -118,12 +152,15 @@
                     "chap_title": "Chapter 3: Christmas Holiday \u2013 Saturday, December 23<sup>rd</sup>, 2026",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-demolition-of-the-cage/chapter-3-christmas-holiday-saturday-december-23rd-2026",
                     "illustration_count": 0,
+                    "word_count": 4023,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chesapeake Bay Mall Was & The Giant Cheese-Covered Pretzel Had",
                             "file_path": "e002/c003/p001.md",
                             "url": "/nate/book-the-demolition-of-the-cage/chapter-3-christmas-holiday-saturday-december-23rd-2026/part-1-chesapeake-bay-mall-was-the-giant-cheese-covered-pretzel-had",
+                            "word_count": 3076,
+                            "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "Chesapeake Bay Mall was a sensory nightmare of blaring holiday music, blinding fluorescent lights, and thousands of panicked, last-minute shoppers. But for Nate, Megan, and Brittany, the chaos wasn't triggering\u2026"
                         },
@@ -132,6 +169,8 @@
                             "part_title": "Part 2: The Heavy Glass Doors",
                             "file_path": "e002/c003/p002.md",
                             "url": "/nate/book-the-demolition-of-the-cage/chapter-3-christmas-holiday-saturday-december-23rd-2026/part-2-the-heavy-glass-doors",
+                            "word_count": 947,
+                            "reading_minutes": 4,
                             "location": "Unknown",
                             "excerpt": "The heavy glass doors of Chesapeake Bay Mall slid shut behind them, cutting off the blaring holiday music and replacing it with the sharp, crisp chill of the December afternoon. The sun was already beginning its\u2026"
                         }
@@ -144,18 +183,22 @@
             "era_title": "Book: The Architecture of a Safe Space",
             "era_url": "/raggiesoft-books/books/nate/book-the-architecture-of-a-safe-space",
             "illustration_count": 0,
+            "word_count": 7874,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Fortress \u2013 Thursday, August 23, 2007",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-architecture-of-a-safe-space/chapter-1-the-fortress-thursday-august-23-2007",
                     "illustration_count": 0,
+                    "word_count": 2501,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Hydraulic Hiss & The Transition From The Late-Summer",
                             "file_path": "e003/c001/p001.md",
                             "url": "/nate/book-the-architecture-of-a-safe-space/chapter-1-the-fortress-thursday-august-23-2007/the-hydraulic-hiss-the-transition-from-the-late-summer",
+                            "word_count": 2501,
+                            "reading_minutes": 11,
                             "date": "2007-08-23",
                             "location": "Unknown",
                             "excerpt": "The hydraulic hiss of the Coastal Virginia Transit Authority bus was a familiar, rhythmic punctuation to Nate\u2019s week. The heavy metal ramp clattered against the concrete curb just outside the Community College\u2026"
@@ -167,12 +210,15 @@
                     "chap_title": "Chapter 2: The Logistics of Trust \u2013 Friday, August 24, 2007",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-architecture-of-a-safe-space/chapter-2-the-logistics-of-trust-friday-august-24-2007",
                     "illustration_count": 0,
+                    "word_count": 4709,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Alarm Went Off & The 1130 Am Dismissal Was",
                             "file_path": "e003/c002/p001.md",
                             "url": "/nate/book-the-architecture-of-a-safe-space/chapter-2-the-logistics-of-trust-friday-august-24-2007/part-1-the-alarm-went-off-the-1130-am-dismissal-was",
+                            "word_count": 3363,
+                            "reading_minutes": 14,
                             "date": "2007-08-24",
                             "location": "Unknown",
                             "excerpt": "The alarm went off at 6:30 AM, slicing through the quiet hum of the bedroom. Sarah was up before the second beep. She moved through the morning routine with the clinical efficiency of a seasoned combat medic\u2026"
@@ -182,6 +228,8 @@
                             "part_title": "Part 2: The Community College Of Hampton & Saturday Morning Was Completely Silent",
                             "file_path": "e003/c002/p002.md",
                             "url": "/nate/book-the-architecture-of-a-safe-space/chapter-2-the-logistics-of-trust-friday-august-24-2007/part-2-the-community-college-of-hampton-saturday-morning-was-completely-silent",
+                            "word_count": 1346,
+                            "reading_minutes": 6,
                             "date": "2007-08-24",
                             "location": "Unknown",
                             "excerpt": "The Community College of Hampton Roads was built on the coastal plain of Virginia Beach, which meant the campus geography was a wheelchair user's dream: one hundred percent, unequivocally flat. There were no\u2026"
@@ -193,12 +241,15 @@
                     "chap_title": "Chapter 3: Expanding the Perimeter \u2013 Monday, August 27, 2007",
                     "chap_url": "/raggiesoft-books/books/nate/book-the-architecture-of-a-safe-space/chapter-3-expanding-the-perimeter-monday-august-27-2007",
                     "illustration_count": 0,
+                    "word_count": 664,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Weekend Ended But",
                             "file_path": "e003/c003/p001.md",
                             "url": "/nate/book-the-architecture-of-a-safe-space/chapter-3-expanding-the-perimeter-monday-august-27-2007/the-weekend-ended-but",
+                            "word_count": 664,
+                            "reading_minutes": 3,
                             "date": "2007-08-27",
                             "location": "Unknown",
                             "excerpt": "The weekend ended, but the quiet, unfamiliar sense of anticipation in Nate's chest did not. Monday morning was a repeat of Friday\u2019s logistical gauntlet\u2014the alarm, the deadlift, the bowl of cereal with milk, and\u2026"

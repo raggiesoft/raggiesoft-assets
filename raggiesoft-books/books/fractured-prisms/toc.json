@@ -12,26 +12,45 @@
         "pdf": "16 KB",
         "text_epub": "8.6 KB",
         "text_pdf": "16 KB",
-        "package_7z": "1.8 KB",
+        "package_7z": "2 KB",
         "epub_bytes": 8786,
         "pdf_bytes": 16540,
         "text_epub_bytes": 8788,
         "text_pdf_bytes": 16540,
-        "package_7z_bytes": 1823
+        "package_7z_bytes": 2008
     },
     "illustration_count": 0,
+    "word_stats": {
+        "story_word_count": 0,
+        "lore_word_count": 1597,
+        "combined_word_count": 1597,
+        "story_page_count": 0,
+        "combined_page_count": 6,
+        "reading_hours": 0,
+        "reading_minutes": 0,
+        "novel_equivalent": 0,
+        "scale_category": "Lore & Outline Archive",
+        "scale_badge": "Lore & Outline",
+        "benchmark_note": "In-development series outline & canonical lore treatment",
+        "era_count": 5,
+        "chapter_count": 18,
+        "part_count": 0,
+        "illustration_count": 0
+    },
     "eras": [
         {
             "era_num": 1,
             "era_title": "Book 1: Shadows Fall",
             "era_url": "/raggiesoft-books/books/fractured-prisms/book-1-shadows-fall",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Revelations",
                     "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1-shadows-fall/chapter-1-revelations",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -39,6 +58,7 @@
                     "chap_title": "Chapter 2: The Turning of the Tide",
                     "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1-shadows-fall/chapter-2-the-turning-of-the-tide",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -46,6 +66,7 @@
                     "chap_title": "Chapter 3: The Confrontation",
                     "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1-shadows-fall/chapter-3-the-confrontation",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -53,6 +74,7 @@
                     "chap_title": "Chapter 4: Unexpected Encounters",
                     "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1-shadows-fall/chapter-4-unexpected-encounters",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -60,6 +82,7 @@
                     "chap_title": "Chapter 5: The Betrayal",
                     "chap_url": "/raggiesoft-books/books/fractured-prisms/book-1-shadows-fall/chapter-5-the-betrayal",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]
@@ -69,12 +92,14 @@
             "era_title": "Book 2: Shadows Fall",
             "era_url": "/raggiesoft-books/books/fractured-prisms/book-2-shadows-fall",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Confrontation",
                     "chap_url": "/raggiesoft-books/books/fractured-prisms/book-2-shadows-fall/chapter-1-the-confrontation",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -82,6 +107,7 @@
                     "chap_title": "Chapter 2: The Storm Breaks",
                     "chap_url": "/raggiesoft-books/books/fractured-prisms/book-2-shadows-fall/chapter-2-the-storm-breaks",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -89,6 +115,7 @@
                     "chap_title": "Chapter 3: A Change of Plans",
                     "chap_url": "/raggiesoft-books/books/fractured-prisms/book-2-shadows-fall/chapter-3-a-change-of-plans",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -96,6 +123,7 @@
                     "chap_title": "Chapter 4: Into the Unknown",
                     "chap_url": "/raggiesoft-books/books/fractured-prisms/book-2-shadows-fall/chapter-4-into-the-unknown",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]
@@ -105,6 +133,7 @@
             "era_title": "Book 3: A New Dawn",
             "era_url": "/raggiesoft-books/books/fractured-prisms/book-3-a-new-dawn",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": []
         },
         {
@@ -112,12 +141,14 @@
             "era_title": "Book 4: The Endless Journey",
             "era_url": "/raggiesoft-books/books/fractured-prisms/book-4-the-endless-journey",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Confrontation",
                     "chap_url": "/raggiesoft-books/books/fractured-prisms/book-4-the-endless-journey/chapter-1-the-confrontation",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -125,6 +156,7 @@
                     "chap_title": "Chapter 2: The Aftermath",
                     "chap_url": "/raggiesoft-books/books/fractured-prisms/book-4-the-endless-journey/chapter-2-the-aftermath",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -132,6 +164,7 @@
                     "chap_title": "Chapter 3: The Storm Breaks",
                     "chap_url": "/raggiesoft-books/books/fractured-prisms/book-4-the-endless-journey/chapter-3-the-storm-breaks",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]
@@ -141,12 +174,14 @@
             "era_title": "Book 5: A New Dawn",
             "era_url": "/raggiesoft-books/books/fractured-prisms/book-5-a-new-dawn",
             "illustration_count": 0,
+            "word_count": 0,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Arrival",
                     "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5-a-new-dawn/chapter-1-the-arrival",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -154,6 +189,7 @@
                     "chap_title": "Chapter 2: A Change of Plans",
                     "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5-a-new-dawn/chapter-2-a-change-of-plans",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -161,6 +197,7 @@
                     "chap_title": "Chapter 3: A Desperate Escape",
                     "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5-a-new-dawn/chapter-3-a-desperate-escape",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -168,6 +205,7 @@
                     "chap_title": "Chapter 4: The Sacrifice",
                     "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5-a-new-dawn/chapter-4-the-sacrifice",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -175,6 +213,7 @@
                     "chap_title": "Chapter 5: The Sacrifice",
                     "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5-a-new-dawn/chapter-5-the-sacrifice",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 },
                 {
@@ -182,6 +221,7 @@
                     "chap_title": "Chapter 6: The Turning of the Tide",
                     "chap_url": "/raggiesoft-books/books/fractured-prisms/book-5-a-new-dawn/chapter-6-the-turning-of-the-tide",
                     "illustration_count": 0,
+                    "word_count": 0,
                     "parts": []
                 }
             ]

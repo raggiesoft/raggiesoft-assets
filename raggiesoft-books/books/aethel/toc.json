@@ -12,32 +12,53 @@
         "pdf": "838 KB",
         "text_epub": "295 KB",
         "text_pdf": "838 KB",
-        "package_7z": "223 KB",
+        "package_7z": "224 KB",
         "epub_bytes": 301717,
         "pdf_bytes": 858237,
         "text_epub_bytes": 301711,
         "text_pdf_bytes": 858237,
-        "package_7z_bytes": 228480
+        "package_7z_bytes": 228965
     },
     "illustration_count": 0,
+    "word_stats": {
+        "story_word_count": 132610,
+        "lore_word_count": 501,
+        "combined_word_count": 133111,
+        "story_page_count": 482,
+        "combined_page_count": 484,
+        "reading_hours": 8.8,
+        "reading_minutes": 530,
+        "novel_equivalent": 1.5,
+        "scale_category": "Epic Full-Length Novel",
+        "scale_badge": "Epic Novel",
+        "benchmark_note": "1.5\u00d7 a standard 90,000-word contemporary novel (Epic 110k\u2013200k tier)",
+        "era_count": 4,
+        "chapter_count": 9,
+        "part_count": 36,
+        "illustration_count": 0
+    },
     "eras": [
         {
             "era_num": 1,
             "era_title": "Era 1: The Age of Myth",
             "era_url": "/raggiesoft-books/books/aethel/era-1-the-age-of-myth",
             "illustration_count": 0,
+            "word_count": 9407,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Book I: The Silver Sun",
                     "chap_url": "/raggiesoft-books/books/aethel/era-1-the-age-of-myth/book-i-the-silver-sun",
                     "illustration_count": 0,
+                    "word_count": 9407,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chapter 1: The Architect's Lesson",
                             "file_path": "e001/c001/p001.md",
                             "url": "/aethel/era-1-the-age-of-myth/book-i-the-silver-sun/part-1-chapter-1-the-architect-s-lesson",
+                            "word_count": 2254,
+                            "reading_minutes": 10,
                             "location": "The Solar Garden (The Sanctum of the Zenith)",
                             "excerpt": "The Solar Garden did not smell of flowers; it smelled of ozone and potential. Solas stood in the center of the tuning ring, a circular platform suspended in the golden nebula of the Zenith. He was not a boy of\u2026"
                         },
@@ -46,6 +67,8 @@
                             "part_title": "Part 2: Chapter 2: The Age of Twilight",
                             "file_path": "e001/c001/p002.md",
                             "url": "/aethel/era-1-the-age-of-myth/book-i-the-silver-sun/part-2-chapter-2-the-age-of-twilight",
+                            "word_count": 7153,
+                            "reading_minutes": 29,
                             "location": "The Royal Observatory",
                             "excerpt": "The light was wrong. That was the problem. It was always, fundamentally, wrong. High Sage Malakor stood on the highest balcony of the Royal Observatory, his hands gripping the cold marble railing until his\u2026"
                         }
@@ -58,18 +81,22 @@
             "era_title": "Era 2: The Age of Silence",
             "era_url": "/raggiesoft-books/books/aethel/era-2-the-age-of-silence",
             "illustration_count": 0,
+            "word_count": 64336,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Book I: The Silver Gauntlet of Aethel",
                     "chap_url": "/raggiesoft-books/books/aethel/era-2-the-age-of-silence/book-i-the-silver-gauntlet-of-aethel",
                     "illustration_count": 0,
+                    "word_count": 25487,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chapter 1: The Sundering of Sunstead",
                             "file_path": "e002/c001/p001.md",
                             "url": "/aethel/era-2-the-age-of-silence/book-i-the-silver-gauntlet-of-aethel/part-1-chapter-1-the-sundering-of-sunstead",
+                            "word_count": 14411,
+                            "reading_minutes": 58,
                             "location": "The Cottage on the Ridge",
                             "excerpt": "The world outside was ending. At least, that was how it felt to seven-year-old Kaelan. The cottage on the ridge was groaning. The heavy timber beams, usually so solid, creaked under the assault of the wind. Rain\u2026"
                         },
@@ -78,6 +105,8 @@
                             "part_title": "Part 2: Chapter 2: The Silence of the Hearth",
                             "file_path": "e002/c001/p002.md",
                             "url": "/aethel/era-2-the-age-of-silence/book-i-the-silver-gauntlet-of-aethel/part-2-chapter-2-the-silence-of-the-hearth",
+                            "word_count": 11076,
+                            "reading_minutes": 45,
                             "location": "The Cottage on the Ridge",
                             "excerpt": "The winter of their sixteenth year did not arrive; it invaded. It started with a frost that killed the late pumpkins in the garden. Then came the wind, a shrieking gale that funneled down the Red Canyon\u2026"
                         }
@@ -88,12 +117,15 @@
                     "chap_title": "Book II: The Shadow's Heart",
                     "chap_url": "/raggiesoft-books/books/aethel/era-2-the-age-of-silence/book-ii-the-shadow-s-heart",
                     "illustration_count": 0,
+                    "word_count": 18176,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chapter 1: The Hunted and the Caged",
                             "file_path": "e002/c002/p001.md",
                             "url": "/aethel/era-2-the-age-of-silence/book-ii-the-shadow-s-heart/part-1-chapter-1-the-hunted-and-the-caged",
+                            "word_count": 9437,
+                            "reading_minutes": 38,
                             "location": "The Razor Peaks",
                             "excerpt": "The Razor Peaks were not merely a mountain range; they were a warning carved in stone. Kaelan had been climbing for three weeks since the encounter with the bear. The lush green of the southern valleys was a\u2026"
                         },
@@ -102,6 +134,8 @@
                             "part_title": "Part 2: Chapter 2: The Tyrant's Throne",
                             "file_path": "e002/c002/p002.md",
                             "url": "/aethel/era-2-the-age-of-silence/book-ii-the-shadow-s-heart/part-2-chapter-2-the-tyrant-s-throne",
+                            "word_count": 2779,
+                            "reading_minutes": 12,
                             "location": "The Obsidian Throne Room",
                             "excerpt": "The dungeon was cold, but the Throne Room was freezing for a different reason. It was the cold of absolute, sterile perfection. Lord Malakor had grown bored of visiting the cells. He needed a better stage. He\u2026"
                         },
@@ -110,6 +144,8 @@
                             "part_title": "Part 3: Chapter 3: The Last Temptation",
                             "file_path": "e002/c002/p003.md",
                             "url": "/aethel/era-2-the-age-of-silence/book-ii-the-shadow-s-heart/part-3-chapter-3-the-last-temptation",
+                            "word_count": 2781,
+                            "reading_minutes": 12,
                             "location": "The Voidlands (Illusion)",
                             "excerpt": "The Razor Peaks were behind him now, a jagged wall that blocked out the rest of the world. Ahead lay the true Voidlands. It was not a land of snow, but of black ice. The ground was a vast, frozen lake that\u2026"
                         },
@@ -118,6 +154,8 @@
                             "part_title": "Part 4: Chapter 4: The Bridge of a Thousand Truths",
                             "file_path": "e002/c002/p004.md",
                             "url": "/aethel/era-2-the-age-of-silence/book-ii-the-shadow-s-heart/part-4-chapter-4-the-bridge-of-a-thousand-truths",
+                            "word_count": 3179,
+                            "reading_minutes": 13,
                             "location": "The Great Divide",
                             "excerpt": "The illusion of the oasis had vanished, leaving Kaelan standing on the scorched, cracked earth of the Voidlands. The wind had picked up again, carrying with it the scent of sulfur and deep, ancient dampness. He\u2026"
                         }
@@ -128,12 +166,15 @@
                     "chap_title": "Book III: The Dawn of the Twins",
                     "chap_url": "/raggiesoft-books/books/aethel/era-2-the-age-of-silence/book-iii-the-dawn-of-the-twins",
                     "illustration_count": 0,
+                    "word_count": 20673,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chapter 1: The Siege of the Shadowspire",
                             "file_path": "e002/c003/p001.md",
                             "url": "/aethel/era-2-the-age-of-silence/book-iii-the-dawn-of-the-twins/part-1-chapter-1-the-siege-of-the-shadowspire",
+                            "word_count": 3108,
+                            "reading_minutes": 13,
                             "location": "The Hall of Shattered Heroes (Shadowspire)",
                             "excerpt": "Kaelan kicked the doors open, his iron sword raised, a scream of defiance already building in his throat. \"MALAKOR!\" he roared, expecting his voice to be swallowed by a legion of Gloomwraiths. Instead, he was\u2026"
                         },
@@ -142,6 +183,8 @@
                             "part_title": "Part 2: Chapter 2: The Heart of the Gloom",
                             "file_path": "e002/c003/p002.md",
                             "url": "/aethel/era-2-the-age-of-silence/book-iii-the-dawn-of-the-twins/part-2-chapter-2-the-heart-of-the-gloom",
+                            "word_count": 4649,
+                            "reading_minutes": 19,
                             "location": "The Obsidian Throne Room (Shadowspire)",
                             "excerpt": "The bone doors didn't just open; they shattered inward, blasted off their hinges by a kick fueled by three months of rage and nuclear fire. Kaelan stepped through the debris. He was a mess. His Stellium mail was\u2026"
                         },
@@ -150,6 +193,8 @@
                             "part_title": "Part 3: Chapter 3: The Long Road Home",
                             "file_path": "e002/c003/p003.md",
                             "url": "/aethel/era-2-the-age-of-silence/book-iii-the-dawn-of-the-twins/part-3-chapter-3-the-long-road-home",
+                            "word_count": 7607,
+                            "reading_minutes": 31,
                             "location": "The Abandoned Shack",
                             "excerpt": "The Shadowspire did not look majestic in the daylight. With the magic of the crystal gone and the sorcerer unmade, the tower was just a pile of wet, black rock. The terrifying violet glow was extinguished. The\u2026"
                         },
@@ -158,6 +203,8 @@
                             "part_title": "Part 4: Chapter 4: The Scouring of Sunstead",
                             "file_path": "e002/c003/p004.md",
                             "url": "/aethel/era-2-the-age-of-silence/book-iii-the-dawn-of-the-twins/part-4-chapter-4-the-scouring-of-sunstead",
+                            "word_count": 3327,
+                            "reading_minutes": 14,
                             "location": "The Outer Gates",
                             "excerpt": "The race ended at the bottom of the switchback trail, where the red dirt of the canyon floor met the packed gravel of the trade road. Kaelan skidded to a halt, his boots kicking up a small cloud of red dust. He\u2026"
                         },
@@ -166,6 +213,8 @@
                             "part_title": "Part 5: Chapter 5: The Aftermath",
                             "file_path": "e002/c003/p005.md",
                             "url": "/aethel/era-2-the-age-of-silence/book-iii-the-dawn-of-the-twins/part-5-chapter-5-the-aftermath",
+                            "word_count": 1982,
+                            "reading_minutes": 8,
                             "location": "The Market Square",
                             "excerpt": "The sound of Sunstead was back. It wasn't the terrified silence of the Occupation, nor was it the roar of the uprising. It was the chaotic, messy, wonderful hum of life. It was the clang of Horg\u2019s hammer, the\u2026"
                         }
@@ -178,18 +227,22 @@
             "era_title": "Era 3: The Age of Tides",
             "era_url": "/raggiesoft-books/books/aethel/era-3-the-age-of-tides",
             "illustration_count": 0,
+            "word_count": 26486,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Book I: The Glass Sea",
                     "chap_url": "/raggiesoft-books/books/aethel/era-3-the-age-of-tides/book-i-the-glass-sea",
                     "illustration_count": 0,
+                    "word_count": 12078,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chapter 1: The Tide and the Torch",
                             "file_path": "e003/c001/p001.md",
                             "url": "/aethel/era-3-the-age-of-tides/book-i-the-glass-sea/part-1-chapter-1-the-tide-and-the-torch",
+                            "word_count": 3938,
+                            "reading_minutes": 16,
                             "location": "The River Docks",
                             "excerpt": "The river that ran past Sunstead was usually a lazy, shallow thing, muddy with the red runoff of the plateau. But Horg led them three miles downstream, to a deep-water cove hidden by weeping willows. \"I built\u2026"
                         },
@@ -198,6 +251,8 @@
                             "part_title": "Part 2: Chapter 2: The Heart of the World",
                             "file_path": "e003/c001/p002.md",
                             "url": "/aethel/era-3-the-age-of-tides/book-i-the-glass-sea/part-2-chapter-2-the-heart-of-the-world",
+                            "word_count": 2683,
+                            "reading_minutes": 11,
                             "location": "The Crater Rim",
                             "excerpt": "Seraphina did not run. She did not cower as she had in the square at Sunstead. She stood on the ridge of jagged basalt, looking down at the twins and the shattered remains of her Magma Golems. The heat\u2026"
                         },
@@ -206,6 +261,8 @@
                             "part_title": "Part 3: Chapter 3: The Weave of the Water",
                             "file_path": "e003/c001/p003.md",
                             "url": "/aethel/era-3-the-age-of-tides/book-i-the-glass-sea/part-3-chapter-3-the-weave-of-the-water",
+                            "word_count": 2420,
+                            "reading_minutes": 10,
                             "location": "The Open Sea (South of the Archipelago)",
                             "excerpt": "The heat of the volcano was a memory now, replaced by the suffocating humidity of the tropics. For two days, they had drifted South, the Iron Keel cutting through water that was glassy and still. But on the\u2026"
                         },
@@ -214,6 +271,8 @@
                             "part_title": "Part 4: Chapter 4: The Gyre",
                             "file_path": "e003/c001/p004.md",
                             "url": "/aethel/era-3-the-age-of-tides/book-i-the-glass-sea/part-4-chapter-4-the-gyre",
+                            "word_count": 3037,
+                            "reading_minutes": 13,
                             "location": "The Approach to Sector 4",
                             "excerpt": "The ocean ahead looked like a washing machine filled with blue glass and razor blades. They were approaching Sector 4\u2014the Gyre. Even from five miles out, Kaelan could see the violence of the water. The currents\u2026"
                         }
@@ -224,12 +283,15 @@
                     "chap_title": "Book II: The Star-Eater",
                     "chap_url": "/raggiesoft-books/books/aethel/era-3-the-age-of-tides/book-ii-the-star-eater",
                     "illustration_count": 0,
+                    "word_count": 14408,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chapter 1: The Silent Sector",
                             "file_path": "e003/c002/p001.md",
                             "url": "/aethel/era-3-the-age-of-tides/book-ii-the-star-eater/part-1-chapter-1-the-silent-sector",
+                            "word_count": 3126,
+                            "reading_minutes": 13,
                             "location": "The First Orbital Decoy (The Silent Sector)",
                             "excerpt": "Space was not silent. Kaelan had expected it to be dead quiet, but inside the Celestial Keel, the air hummed with the vibration of the gravity drives and the low, constant whisper of the solar wind buffeting the\u2026"
                         },
@@ -238,6 +300,8 @@
                             "part_title": "Part 2: Chapter 2: The Ribcage of the Gods",
                             "file_path": "e003/c002/p002.md",
                             "url": "/aethel/era-3-the-age-of-tides/book-ii-the-star-eater/part-2-chapter-2-the-ribcage-of-the-gods",
+                            "word_count": 1409,
+                            "reading_minutes": 6,
                             "location": "The Outer Ribcage (The Approaches)",
                             "excerpt": "The Celestial Keel didn't just sail; it drifted like a speck of dust into the mouth of a giant. They were passing between the first two ribs of the Star-Eater. From a distance, the ribs had looked like\u2026"
                         },
@@ -246,6 +310,8 @@
                             "part_title": "Part 3: Chapter 3: The War for the Mind",
                             "file_path": "e003/c002/p003.md",
                             "url": "/aethel/era-3-the-age-of-tides/book-ii-the-star-eater/part-3-chapter-3-the-war-for-the-mind",
+                            "word_count": 4138,
+                            "reading_minutes": 17,
                             "location": "The Brain Stem (The Node Room)",
                             "excerpt": "The Brain Stem was a cavern of pulsating light. Massive nerve endings\u2014cables of silver and glass thick as tree trunks\u2014converged in the center of the room, plugging into a central console that hummed with the\u2026"
                         },
@@ -254,6 +320,8 @@
                             "part_title": "Part 4: Chapter 4: The Long Way Down",
                             "file_path": "e003/c002/p004.md",
                             "url": "/aethel/era-3-the-age-of-tides/book-ii-the-star-eater/part-4-chapter-4-the-long-way-down",
+                            "word_count": 4631,
+                            "reading_minutes": 19,
                             "location": "The Inner Ribcage (The Brain Stem Dock)",
                             "excerpt": "The walk back from the Memory Core was quiet, but it wasn't the heavy, suffocating silence of the last three years. It was the comfortable silence of a job finished. Kaelan walked beside her, his arm draped\u2026"
                         },
@@ -262,6 +330,8 @@
                             "part_title": "Part 5: Chapter 5: The Cottage",
                             "file_path": "e003/c002/p005.md",
                             "url": "/aethel/era-3-the-age-of-tides/book-ii-the-star-eater/part-5-chapter-5-the-cottage",
+                            "word_count": 1104,
+                            "reading_minutes": 5,
                             "location": "The Cottage on the Ridge",
                             "excerpt": "The morning suns did not burst into the cottage; they crept in, filtered through the thick glass of the small eastern window and the grey slate of the low eaves. The cottage was small\u2014a single, square room of\u2026"
                         }
@@ -274,18 +344,22 @@
             "era_title": "Era 4: The Iron Heart",
             "era_url": "/raggiesoft-books/books/aethel/era-4-the-iron-heart",
             "illustration_count": 0,
+            "word_count": 32381,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Book I: The Magnetic North",
                     "chap_url": "/raggiesoft-books/books/aethel/era-4-the-iron-heart/book-i-the-magnetic-north",
                     "illustration_count": 0,
+                    "word_count": 18202,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chapter 1: The Art of Doing Nothing",
                             "file_path": "e004/c001/p001.md",
                             "url": "/aethel/era-4-the-iron-heart/book-i-the-magnetic-north/part-1-chapter-1-the-art-of-doing-nothing",
+                            "word_count": 1835,
+                            "reading_minutes": 8,
                             "location": "The Cottage on the Ridge",
                             "excerpt": "The morning suns were late, or perhaps Kaela was just early. She lay in the grey twilight of the cottage, listening to the world wake up. The wind was brushing against the slate roof\u2014the roof Kaelan had laid\u2026"
                         },
@@ -294,6 +368,8 @@
                             "part_title": "Part 2: Chapter 2: The Alarm Clock",
                             "file_path": "e004/c001/p002.md",
                             "url": "/aethel/era-4-the-iron-heart/book-i-the-magnetic-north/part-2-chapter-2-the-alarm-clock",
+                            "word_count": 1474,
+                            "reading_minutes": 6,
                             "location": "The Cottage Garden",
                             "excerpt": "The potatoes were coming in nicely. Kaelan knelt in the rich, red soil of the garden, his hands caked in dirt. The stone wall he had finished yesterday stood solid and grey against the morning suns, a fortress\u2026"
                         },
@@ -302,6 +378,8 @@
                             "part_title": "Part 3: Chapter 3: The Magnetic Highway",
                             "file_path": "e004/c001/p003.md",
                             "url": "/aethel/era-4-the-iron-heart/book-i-the-magnetic-north/part-3-chapter-3-the-magnetic-highway",
+                            "word_count": 6397,
+                            "reading_minutes": 26,
                             "location": "The Foothills of the Razor Peaks",
                             "excerpt": "The Iron Keel sat in the middle of the dusty street outside the forge, looking completely out of its element. It was heavy, squat, and distinctly marine. \"You want to do what?\" Horg asked, flipping up his\u2026"
                         },
@@ -310,6 +388,8 @@
                             "part_title": "Part 4: Chapter 4: The Clockwork Ocean",
                             "file_path": "e004/c001/p004.md",
                             "url": "/aethel/era-4-the-iron-heart/book-i-the-magnetic-north/part-4-chapter-4-the-clockwork-ocean",
+                            "word_count": 6362,
+                            "reading_minutes": 26,
                             "location": "The Crater of Silence / The Magma Tube",
                             "excerpt": "The suns rose over the Voidlands, but they brought no warmth to the crater. The light merely highlighted the jagged, black teeth of the obsidian rim. Kaelan stood by the Iron Keel. He checked the drag-plows. He\u2026"
                         },
@@ -318,6 +398,8 @@
                             "part_title": "Part 5: Chapter 4: The Return Journey",
                             "file_path": "e004/c001/p005.md",
                             "url": "/aethel/era-4-the-iron-heart/book-i-the-magnetic-north/part-5-chapter-4-the-return-journey",
+                            "word_count": 2134,
+                            "reading_minutes": 9,
                             "location": "The Voidlands Plateau",
                             "excerpt": "The Voidlands were beautiful in the way a knife was beautiful\u2014sharp, clean, and dangerously cold. The Iron Keel was flying South, the magnetic runners humming a high, steady note as they skimmed over the black\u2026"
                         }
@@ -328,12 +410,15 @@
                     "chap_title": "Book II: The Pilgrimage",
                     "chap_url": "/raggiesoft-books/books/aethel/era-4-the-iron-heart/book-ii-the-pilgrimage",
                     "illustration_count": 0,
+                    "word_count": 11666,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chapter 1: The Privacy of Stone",
                             "file_path": "e004/c002/p001.md",
                             "url": "/aethel/era-4-the-iron-heart/book-ii-the-pilgrimage/part-1-chapter-1-the-privacy-of-stone",
+                            "word_count": 2465,
+                            "reading_minutes": 10,
                             "location": "The Cottage Kitchen",
                             "excerpt": "The cottage smelled of damp earth, sawdust, and ambition. Kaelan stood waist-deep in a rectangular pit in the middle of the kitchen floor. He had pried up the heavy oak planks near the pantry and was currently\u2026"
                         },
@@ -342,6 +427,8 @@
                             "part_title": "Part 2: Chapter 2: The Smoke and the Fire",
                             "file_path": "e004/c002/p002.md",
                             "url": "/aethel/era-4-the-iron-heart/book-ii-the-pilgrimage/part-2-chapter-2-the-smoke-and-the-fire",
+                            "word_count": 3025,
+                            "reading_minutes": 13,
                             "location": "The Town Square / The Graveyard",
                             "excerpt": "The death of a Matron usually brought silence. This time, it brought a carnival. News traveled fast in the post-Iron Heart world. The red auroras had been seen for a thousand miles. The magnetic quake had been\u2026"
                         },
@@ -350,6 +437,8 @@
                             "part_title": "Part 3: Chapter 3: The Council of Neighbors",
                             "file_path": "e004/c002/p003.md",
                             "url": "/aethel/era-4-the-iron-heart/book-ii-the-pilgrimage/part-3-chapter-3-the-council-of-neighbors",
+                            "word_count": 1371,
+                            "reading_minutes": 6,
                             "location": "Outside The Drunken Mule",
                             "excerpt": "The sign above the door depicted a mule kicking a keg of ale. It was peeling, crooked, and accurate. Kaelan stood outside The Drunken Mule, arms crossed, looking at the door like it was a portal to the\u2026"
                         },
@@ -358,6 +447,8 @@
                             "part_title": "Part 4: Chapter 4: The King at the Gate",
                             "file_path": "e004/c002/p004.md",
                             "url": "/aethel/era-4-the-iron-heart/book-ii-the-pilgrimage/part-4-chapter-4-the-king-at-the-gate",
+                            "word_count": 1348,
+                            "reading_minutes": 6,
                             "location": "The Main Gate",
                             "excerpt": "The Council of Neighbors had been in power for exactly three weeks when the first war arrived. It didn't come with a declaration. It came with a cloud of dust on the southern horizon that resolved into two\u2026"
                         },
@@ -366,6 +457,8 @@
                             "part_title": "Part 5: Chapter 5: The Demon and the Witch",
                             "file_path": "e004/c002/p005.md",
                             "url": "/aethel/era-4-the-iron-heart/book-ii-the-pilgrimage/part-5-chapter-5-the-demon-and-the-witch",
+                            "word_count": 1919,
+                            "reading_minutes": 8,
                             "location": "Mrs. Gable\u2019s Bakery",
                             "excerpt": "Three days after the army fled, the spies arrived. They weren't soldiers. They were men in nondescript grey cloaks, sitting in the corners of The Drunken Mule, loitering near the well, and asking dangerous\u2026"
                         },
@@ -374,6 +467,8 @@
                             "part_title": "Part 6: Chapter 6: The Starlight Check-In",
                             "file_path": "e004/c002/p006.md",
                             "url": "/aethel/era-4-the-iron-heart/book-ii-the-pilgrimage/part-6-chapter-6-the-starlight-check-in",
+                            "word_count": 1538,
+                            "reading_minutes": 7,
                             "location": "The Garden Bath",
                             "excerpt": "The water in the stone tub was calm, reflecting the Milky Way\u2014a galaxy Kaelan had hand-crafted billions of years ago when he was just Solas, a being of pure fusion. But tonight, looking at the stars didn't bring\u2026"
                         }
@@ -384,12 +479,15 @@
                     "chap_title": "Book III: The Zero Point",
                     "chap_url": "/raggiesoft-books/books/aethel/era-4-the-iron-heart/book-iii-the-zero-point",
                     "illustration_count": 0,
+                    "word_count": 2513,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Prologue: The Silence Between Stars",
                             "file_path": "e004/c003/p001.md",
                             "url": "/aethel/era-4-the-iron-heart/book-iii-the-zero-point/part-1-prologue-the-silence-between-stars",
+                            "word_count": 333,
+                            "reading_minutes": 2,
                             "location": "The Void Beyond the Rim",
                             "excerpt": "The universe was too loud. It clicked. It whirred. It spun. Atoms vibrated. Planets orbited. Hearts beat. It was a cacophony of motion that disgusted Him. The Unseen sat on a throne made of dead starlight\u2026"
                         },
@@ -398,6 +496,8 @@
                             "part_title": "Part 2: Chapter 1: The Shadow at Noon",
                             "file_path": "e004/c003/p002.md",
                             "url": "/aethel/era-4-the-iron-heart/book-iii-the-zero-point/part-2-chapter-1-the-shadow-at-noon",
+                            "word_count": 865,
+                            "reading_minutes": 4,
                             "location": "The Cottage Bedroom",
                             "excerpt": "Kaela woke up because the birds had stopped singing. She lay in bed, staring at the timber beams. Usually, at this hour, the sparrows in the ivy were noisy. The rooster at the mill was crowing. The town was\u2026"
                         },
@@ -406,6 +506,8 @@
                             "part_title": "Part 3: Chapter 2: The Needle and the Shroud",
                             "file_path": "e004/c003/p003.md",
                             "url": "/aethel/era-4-the-iron-heart/book-iii-the-zero-point/part-3-chapter-2-the-needle-and-the-shroud",
+                            "word_count": 1315,
+                            "reading_minutes": 6,
                             "location": "The Garden Bath",
                             "excerpt": "The water in the granite tub was trying to freeze. A thin skin of ice kept forming on the surface, cracking only when Kaelan sent a pulse of heat through the stone. They sat submerged to their chins, eyes\u2026"
                         }

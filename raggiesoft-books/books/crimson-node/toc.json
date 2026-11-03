@@ -17,27 +17,48 @@
         "pdf_bytes": 21143357,
         "text_epub_bytes": 55576,
         "text_pdf_bytes": 168226,
-        "package_7z_bytes": 44844
+        "package_7z_bytes": 45138
     },
     "illustration_count": 9,
+    "word_stats": {
+        "story_word_count": 20942,
+        "lore_word_count": 27244,
+        "combined_word_count": 48186,
+        "story_page_count": 76,
+        "combined_page_count": 175,
+        "reading_hours": 1.4,
+        "reading_minutes": 84,
+        "novel_equivalent": 0.2,
+        "scale_category": "Novella",
+        "scale_badge": "Novella",
+        "benchmark_note": "Standard contemporary novella length (17,500\u201340,000 words)",
+        "era_count": 1,
+        "chapter_count": 8,
+        "part_count": 11,
+        "illustration_count": 9
+    },
     "eras": [
         {
             "era_num": 1,
             "era_title": "Book 1: The Illusion",
             "era_url": "/raggiesoft-books/books/crimson-node/book-1-the-illusion",
             "illustration_count": 9,
+            "word_count": 20942,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Approach &ndash; Friday, April 23, 1999",
                     "chap_url": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-1-the-approach-ndash-friday-april-23-1999",
                     "illustration_count": 1,
+                    "word_count": 449,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Anomalies",
                             "file_path": "e001/c001/p001.md",
                             "url": "/crimson-node/book-1-the-illusion/chapter-1-the-approach-ndash-friday-april-23-1999/anomalies",
+                            "word_count": 449,
+                            "reading_minutes": 2,
                             "start_time": "10:15 AM",
                             "location": "Unknown",
                             "excerpt": "The social ecosystem of Northwood High School was brutal, rigidly structured, and entirely unforgiving of anomalies. So when Courtney Evans\u2014a girl who effortlessly belonged to the upper-middle tier of the high\u2026",
@@ -58,12 +79,15 @@
                     "chap_title": "Chapter 2: The Core Ecosystem &ndash; Friday, April 30, 1999",
                     "chap_url": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-2-the-core-ecosystem-ndash-friday-april-30-1999",
                     "illustration_count": 2,
+                    "word_count": 1861,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Commons & The Fallout",
                             "file_path": "e001/c002/p001.md",
                             "url": "/crimson-node/book-1-the-illusion/chapter-2-the-core-ecosystem-ndash-friday-april-30-1999/the-commons-the-fallout",
+                            "word_count": 1861,
+                            "reading_minutes": 8,
                             "start_time": "07:15",
                             "location": "Unknown",
                             "excerpt": "The wide, bumpy tiles of the Northwood High Commons created a continuous, bone-rattling vibration for anyone in a wheelchair, but in this exact moment, Matt didn't feel the drag. The heavy fire doors of the\u2026",
@@ -88,12 +112,15 @@
                     "chap_title": "Chapter 3: The Triple Birthday &ndash; Sunday, May 2, 1999",
                     "chap_url": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-3-the-triple-birthday-ndash-sunday-may-2-1999",
                     "illustration_count": 1,
+                    "word_count": 4156,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Morning Routine & Player Two",
                             "file_path": "e001/c003/p001.md",
                             "url": "/crimson-node/book-1-the-illusion/chapter-3-the-triple-birthday-ndash-sunday-may-2-1999/part-1-the-morning-routine-player-two",
+                            "word_count": 3333,
+                            "reading_minutes": 14,
                             "start_time": "08:00",
                             "location": "Unknown",
                             "excerpt": "The morning light filtered softly through the blinds of the shared bedroom, casting thin, dusty stripes across the mattress. It was Sunday, May 2nd. A massive milestone. It was Matt's eighteenth birthday, and\u2026",
@@ -112,6 +139,8 @@
                             "part_title": "Part 2: The Legal Baseline & The Triad",
                             "file_path": "e001/c003/p002.md",
                             "url": "/crimson-node/book-1-the-illusion/chapter-3-the-triple-birthday-ndash-sunday-may-2-1999/part-2-the-legal-baseline-the-triad",
+                            "word_count": 823,
+                            "reading_minutes": 4,
                             "start_time": "19:00",
                             "location": "Unknown",
                             "excerpt": "By the time they arrived back at the house, the adrenaline from the movie had completely evaporated. The massive intake of sugar and the sheer sensory load of the afternoon left Matt profoundly, deeply\u2026"
@@ -123,12 +152,15 @@
                     "chap_title": "Chapter 4: The Failed Apology &ndash; Monday, May 3, 1999",
                     "chap_url": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-4-the-failed-apology-ndash-monday-may-3-1999",
                     "illustration_count": 2,
+                    "word_count": 4017,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Band Room Hallway & The Charlottesville Plan",
                             "file_path": "e001/c004/p001.md",
                             "url": "/crimson-node/book-1-the-illusion/chapter-4-the-failed-apology-ndash-monday-may-3-1999/part-1-the-band-room-hallway-the-charlottesville-plan",
+                            "word_count": 3451,
+                            "reading_minutes": 14,
                             "start_time": "10:15 AM",
                             "location": "Unknown",
                             "excerpt": "The loud, chaotic bell signaled the end of second period, flooding the massive Northwood High School commons with hundreds of teenagers. Matt sat quietly in his manual wheelchair near the entrance to the band\u2026",
@@ -151,6 +183,8 @@
                             "part_title": "Part 2: The Final Transfer",
                             "file_path": "e001/c004/p002.md",
                             "url": "/crimson-node/book-1-the-illusion/chapter-4-the-failed-apology-ndash-monday-may-3-1999/part-2-the-final-transfer",
+                            "word_count": 566,
+                            "reading_minutes": 3,
                             "start_time": "21:00",
                             "location": "Unknown",
                             "excerpt": "By the time nine o'clock rolled around, the adrenaline and sheer emotional exhaustion of the day had finally caught up with the Miller household. Rather than his usual quick evening shower, Matt had made it\u2026"
@@ -162,12 +196,15 @@
                     "chap_title": "Interlude: The Reckoning",
                     "chap_url": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/interlude-the-reckoning",
                     "illustration_count": 3,
+                    "word_count": 3032,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The New Hierarchy & The Thunderstorm",
                             "file_path": "e001/c005/p001.md",
                             "url": "/crimson-node/book-1-the-illusion/interlude-the-reckoning/the-new-hierarchy-the-thunderstorm",
+                            "word_count": 3032,
+                            "reading_minutes": 13,
                             "start_time": "15:00",
                             "location": "Unknown",
                             "excerpt": "Courtney serves her suspension, completely stripped of her social standing. The transition from the undisputed queen of the Northwood High social ecosystem to a disgraced, indentured servant within the walls of\u2026",
@@ -196,12 +233,15 @@
                     "chap_title": "Chapter 6: The Senior Prom &ndash; May 1999",
                     "chap_url": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-6-the-senior-prom-ndash-may-1999",
                     "illustration_count": 0,
+                    "word_count": 4292,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Request & The Assault",
                             "file_path": "e001/c006/p001.md",
                             "url": "/crimson-node/book-1-the-illusion/chapter-6-the-senior-prom-ndash-may-1999/part-1-the-request-the-assault",
+                            "word_count": 2862,
+                            "reading_minutes": 12,
                             "start_time": "15:30",
                             "location": "Unknown",
                             "excerpt": "The afternoon sun cast long, angular shadows across the linoleum floor of the main office. Inside Principal Bernard\u2019s office, the atmosphere was heavy with unspoken tension. The hum of the air conditioner\u2026"
@@ -211,6 +251,8 @@
                             "part_title": "Part 2: The Aftermath",
                             "file_path": "e001/c006/p002.md",
                             "url": "/crimson-node/book-1-the-illusion/chapter-6-the-senior-prom-ndash-may-1999/part-2-the-aftermath",
+                            "word_count": 1430,
+                            "reading_minutes": 6,
                             "start_time": "23:30",
                             "location": "Crystal Affairs / Miller Household",
                             "excerpt": "Matt\u2019s screams tore through the Crystal Affairs ballroom, raw and utterly heartbroken. He thrashed in his wheelchair, his hands hitting the sides of the armrests as the sensory nightmare swallowed him whole\u2026"
@@ -222,12 +264,15 @@
                     "chap_title": "Chapter 7: The Blueprint",
                     "chap_url": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-7-the-blueprint",
                     "illustration_count": 0,
+                    "word_count": 1364,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "A New Day & The Plan",
                             "file_path": "e001/c007/p001.md",
                             "url": "/crimson-node/book-1-the-illusion/chapter-7-the-blueprint/a-new-day-the-plan",
+                            "word_count": 1364,
+                            "reading_minutes": 6,
                             "start_time": "08:00",
                             "location": "Miller Household",
                             "excerpt": "The morning sun streamed through the blinds, casting warm, golden slats of light across the living room. It was Sunday, the day after Prom, and the Miller household was quiet. David and Linda had already left\u2026"
@@ -239,12 +284,15 @@
                     "chap_title": "Chapter 8: The Administration",
                     "chap_url": "/raggiesoft-books/books/crimson-node/book-1-the-illusion/chapter-8-the-administration",
                     "illustration_count": 0,
+                    "word_count": 1771,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Drop-Off & The Victory",
                             "file_path": "e001/c008/p001.md",
                             "url": "/crimson-node/book-1-the-illusion/chapter-8-the-administration/the-drop-off-the-victory",
+                            "word_count": 1771,
+                            "reading_minutes": 8,
                             "start_time": "06:30",
                             "location": "Unknown",
                             "excerpt": "The sharp, rhythmic beeping of the alarm clock pierced the quiet bedroom at exactly 5:30 AM, but Matt had been awake for hours. As Sarah reached over to slap the snooze button, she immediately noticed his rapid\u2026"
