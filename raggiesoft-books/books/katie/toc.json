@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "8.6 MB",
-        "pdf": "9.2 MB",
-        "text_epub": "46 KB",
-        "text_pdf": "134 KB",
-        "package_7z": "36 KB",
-        "epub_bytes": 9027326,
-        "pdf_bytes": 9679229,
-        "text_epub_bytes": 46774,
-        "text_pdf_bytes": 136882,
-        "package_7z_bytes": 36392
+        "epub": "9.9 MB",
+        "pdf": "10.8 MB",
+        "text_epub": "50 KB",
+        "text_pdf": "147 KB",
+        "package_7z": "40 KB",
+        "epub_bytes": 10400706,
+        "pdf_bytes": 11276208,
+        "text_epub_bytes": 51479,
+        "text_pdf_bytes": 150698,
+        "package_7z_bytes": 40543
     },
-    "illustration_count": 12,
+    "illustration_count": 14,
     "word_stats": {
-        "story_word_count": 15609,
+        "story_word_count": 17470,
         "lore_word_count": 121,
-        "combined_word_count": 15730,
-        "story_page_count": 57,
-        "combined_page_count": 57,
-        "reading_hours": 1,
-        "reading_minutes": 62,
-        "novel_equivalent": 0.17,
+        "combined_word_count": 17591,
+        "story_page_count": 64,
+        "combined_page_count": 64,
+        "reading_hours": 1.2,
+        "reading_minutes": 70,
+        "novel_equivalent": 0.19,
         "scale_category": "Short Fiction & Novelette",
         "scale_badge": "Short Fiction",
         "benchmark_note": "Short story / novelette companion (< 17,500 words)",
         "era_count": 3,
-        "chapter_count": 8,
-        "part_count": 12,
-        "illustration_count": 12
+        "chapter_count": 9,
+        "part_count": 14,
+        "illustration_count": 14
     },
     "eras": [
         {
@@ -240,8 +240,8 @@
             "era_num": 3,
             "era_title": "Sixteen & Summer Sanctuary",
             "era_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary",
-            "illustration_count": 6,
-            "word_count": 8446,
+            "illustration_count": 8,
+            "word_count": 10307,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -381,6 +381,57 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b003/aug_2001_back_on_dry_land_pcp_exam_borrowed_time.jpg",
                                     "alt": "Inside a Virginia Beach primary care physician's exam room in late August 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side on the exam bench holding hands while their father David Prairie stands beside them and the family doctor tests Nathaniel's arm and grip strength"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "Junior Year at Northwood High & The Prognosis",
+                    "chap_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis",
+                    "illustration_count": 2,
+                    "word_count": 1861,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Part 1: The Fault-Grounds Filing, The Protective Order, & Junior Year at Northwood High School",
+                            "file_path": "e003/c003/p001.md",
+                            "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-1-part-1-the-fault-grounds-filing-the-protective-order-junior-year-at-northwood-high-school",
+                            "word_count": 1010,
+                            "reading_minutes": 5,
+                            "date": "2001-09-04",
+                            "start_time": "11:40",
+                            "location": "Virginia Beach, VA (Independence Boulevard & Northwood High School)",
+                            "excerpt": "Armed with the cruise ship's Deck 4 security tape, David files an immediate fault-based divorce and custody action in Virginia Beach\u2014just as Nathaniel and Katie return to Northwood High School for their Junior year and share the daily lunch period they earned in summer school.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b003/sep_2001_northwood_high_junior_year_shared_lunch.jpg",
+                            "image_alt": "Inside the sunlit cafeteria of Northwood High School in Virginia Beach in September 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side at a quiet corner table holding hands during their shared Junior-year lunch period with their lunch bags and coding notebook open before them",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b003/sep_2001_northwood_high_junior_year_shared_lunch.jpg",
+                                    "alt": "Inside the sunlit cafeteria of Northwood High School in Virginia Beach in September 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side at a quiet corner table holding hands during their shared Junior-year lunch period with their lunch bags and coding notebook open before them"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Part 2: The Test Results & Dr. Chen's Prognosis for Our Arms and Legs",
+                            "file_path": "e003/c003/p002.md",
+                            "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-2-part-2-the-test-results-dr-chen-s-prognosis-for-our-arms-and-legs",
+                            "word_count": 851,
+                            "reading_minutes": 4,
+                            "date": "2001-09-14",
+                            "start_time": "15:30",
+                            "location": "Virginia Beach, VA (Dr. Evelyn Chen's Family Practice)",
+                            "excerpt": "When the genetic and nerve-conduction results return in September 2001, Dr. Evelyn Chen explains the exact prognosis for Nathaniel and Katie's legs and arms\u2014confirming they will transition to wheelchairs before graduation while preserving their finger dexterity for coding through ergonomic and power-mobility supports.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b003/sep_2001_dr_chen_prognosis_arms_legs_consultation.jpg",
+                            "image_alt": "Inside Dr. Evelyn Chen's consultation office in Virginia Beach in September 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in padded chairs holding hands beside their father David Prairie while Dr. Chen reviews their neuromuscular test results and prognosis across her desk",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b003/sep_2001_dr_chen_prognosis_arms_legs_consultation.jpg",
+                                    "alt": "Inside Dr. Evelyn Chen's consultation office in Virginia Beach in September 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in padded chairs holding hands beside their father David Prairie while Dr. Chen reviews their neuromuscular test results and prognosis across her desk"
                                 }
                             ],
                             "image_count": 1
