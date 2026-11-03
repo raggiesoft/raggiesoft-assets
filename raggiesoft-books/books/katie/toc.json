@@ -13,21 +13,21 @@
         "text_epub": "80 KB",
         "text_pdf": "233 KB",
         "package_7z": "63 KB",
-        "epub_bytes": 12173047,
-        "pdf_bytes": 13557550,
-        "text_epub_bytes": 81834,
-        "text_pdf_bytes": 238392,
-        "package_7z_bytes": 64485
+        "epub_bytes": 12173227,
+        "pdf_bytes": 13557887,
+        "text_epub_bytes": 82016,
+        "text_pdf_bytes": 238833,
+        "package_7z_bytes": 64606
     },
     "illustration_count": 19,
     "word_stats": {
-        "story_word_count": 30331,
+        "story_word_count": 30410,
         "lore_word_count": 121,
-        "combined_word_count": 30452,
-        "story_page_count": 110,
+        "combined_word_count": 30531,
+        "story_page_count": 111,
         "combined_page_count": 111,
         "reading_hours": 2,
-        "reading_minutes": 121,
+        "reading_minutes": 122,
         "novel_equivalent": 0.3,
         "scale_category": "Novella",
         "scale_badge": "Novella",
@@ -241,7 +241,7 @@
             "era_title": "Sixteen & Summer Sanctuary",
             "era_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary",
             "illustration_count": 11,
-            "word_count": 19349,
+            "word_count": 19428,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -464,7 +464,7 @@
                     "chap_title": "Sixteen on Four Wheels & Finding Dates",
                     "chap_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary/sixteen-on-four-wheels-finding-dates",
                     "illustration_count": 2,
-                    "word_count": 4171,
+                    "word_count": 4250,
                     "parts": [
                         {
                             "part_num": 1,
@@ -492,7 +492,7 @@
                             "part_title": "Part 2: Part 2: Cousin Wesley, Ryan's Escalator Exit, & Two Dates at Emerald Creek Mall",
                             "file_path": "e003/c004/p002.md",
                             "url": "/katie/sixteen-summer-sanctuary/sixteen-on-four-wheels-finding-dates/part-2-part-2-cousin-wesley-ryan-s-escalator-exit-two-dates-at-emerald-creek-mall",
-                            "word_count": 2269,
+                            "word_count": 2348,
                             "reading_minutes": 10,
                             "date": "2001-10-20",
                             "start_time": "12:45",
