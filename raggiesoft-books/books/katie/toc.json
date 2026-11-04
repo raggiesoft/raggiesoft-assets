@@ -10,14 +10,14 @@
     "ebook_sizes": {
         "epub": "11.6 MB",
         "pdf": "12.9 MB",
-        "text_epub": "80 KB",
+        "text_epub": "79 KB",
         "text_pdf": "222 KB",
         "package_7z": "63 KB",
-        "epub_bytes": 12172705,
-        "pdf_bytes": 13546617,
-        "text_epub_bytes": 81517,
-        "text_pdf_bytes": 227798,
-        "package_7z_bytes": 64285
+        "epub_bytes": 12172585,
+        "pdf_bytes": 13546511,
+        "text_epub_bytes": 81388,
+        "text_pdf_bytes": 227658,
+        "package_7z_bytes": 64274
     },
     "illustration_count": 19,
     "word_stats": {
@@ -282,9 +282,9 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Part 1: The I-95 Haul, The Quantum Basic Library Book, & Ditching Captain Barnaby",
+                            "part_title": "Part 1: The I-95 Haul, The Quantum Basic Library Book, & Ditching Captain Barnaby",
                             "file_path": "e003/c002/p001.md",
-                            "url": "/katie/sixteen-summer-sanctuary/end-of-summer-cruise/part-1-part-1-the-i-95-haul-the-quantum-basic-library-book-ditching-captain-barnaby",
+                            "url": "/katie/sixteen-summer-sanctuary/end-of-summer-cruise/part-1-the-i-95-haul-the-quantum-basic-library-book-ditching-captain-barnaby",
                             "word_count": 1238,
                             "reading_minutes": 5,
                             "date": "2001-08-19",
@@ -303,9 +303,9 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Part 2: The Nassau Pier, Guest Services, & The Last Straw",
+                            "part_title": "Part 2: The Nassau Pier, Guest Services, & The Last Straw",
                             "file_path": "e003/c002/p002.md",
-                            "url": "/katie/sixteen-summer-sanctuary/end-of-summer-cruise/part-2-part-2-the-nassau-pier-guest-services-the-last-straw",
+                            "url": "/katie/sixteen-summer-sanctuary/end-of-summer-cruise/part-2-the-nassau-pier-guest-services-the-last-straw",
                             "word_count": 1683,
                             "reading_minutes": 7,
                             "date": "2001-08-22",
@@ -324,9 +324,9 @@
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Part 3: Stateroom 6004, The Loaner Wheelchairs, & Pizza for Three on the Aft Deck",
+                            "part_title": "Part 3: Stateroom 6004, The Loaner Wheelchairs, & Pizza for Three on the Aft Deck",
                             "file_path": "e003/c002/p003.md",
-                            "url": "/katie/sixteen-summer-sanctuary/end-of-summer-cruise/part-3-part-3-stateroom-6004-the-loaner-wheelchairs-pizza-for-three-on-the-aft-deck",
+                            "url": "/katie/sixteen-summer-sanctuary/end-of-summer-cruise/part-3-stateroom-6004-the-loaner-wheelchairs-pizza-for-three-on-the-aft-deck",
                             "word_count": 1117,
                             "reading_minutes": 5,
                             "date": "2001-08-23",
@@ -345,9 +345,9 @@
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: Part 4: Back on Dry Land & The Twelve-Hour Drive Up I-95",
+                            "part_title": "Part 4: Back on Dry Land & The Twelve-Hour Drive Up I-95",
                             "file_path": "e003/c002/p004.md",
-                            "url": "/katie/sixteen-summer-sanctuary/end-of-summer-cruise/part-4-part-4-back-on-dry-land-the-twelve-hour-drive-up-i-95",
+                            "url": "/katie/sixteen-summer-sanctuary/end-of-summer-cruise/part-4-back-on-dry-land-the-twelve-hour-drive-up-i-95",
                             "word_count": 2415,
                             "reading_minutes": 10,
                             "date": "2001-08-25",
@@ -366,9 +366,9 @@
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: Part 5: Monday Morning in Virginia Beach \u2014 The Divorce Lawyer, The PCP, & Borrowed Time",
+                            "part_title": "Part 5: Monday Morning in Virginia Beach \u2014 The Divorce Lawyer, The PCP, & Borrowed Time",
                             "file_path": "e003/c002/p005.md",
-                            "url": "/katie/sixteen-summer-sanctuary/end-of-summer-cruise/part-5-part-5-monday-morning-in-virginia-beach-the-divorce-lawyer-the-pcp-borrowed-time",
+                            "url": "/katie/sixteen-summer-sanctuary/end-of-summer-cruise/part-5-monday-morning-in-virginia-beach-the-divorce-lawyer-the-pcp-borrowed-time",
                             "word_count": 908,
                             "reading_minutes": 4,
                             "date": "2001-08-27",
@@ -396,9 +396,9 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Part 1: The Fault-Grounds Filing, The Protective Order, & Junior Year at Northwood High School",
+                            "part_title": "Part 1: The Fault-Grounds Filing, The Protective Order, & Junior Year at Northwood High School",
                             "file_path": "e003/c003/p001.md",
-                            "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-1-part-1-the-fault-grounds-filing-the-protective-order-junior-year-at-northwood-high-school",
+                            "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-1-the-fault-grounds-filing-the-protective-order-junior-year-at-northwood-high-school",
                             "word_count": 1034,
                             "reading_minutes": 5,
                             "date": "2001-09-04",
@@ -417,9 +417,9 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Part 2: When Borrowed Time Runs Out \u2014 The Collapse at School, The Emergency Room Escalation, & Time for Powerchairs",
+                            "part_title": "Part 2: When Borrowed Time Runs Out \u2014 The Collapse at School, The Emergency Room Escalation, & Time for Powerchairs",
                             "file_path": "e003/c003/p002.md",
-                            "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-2-part-2-when-borrowed-time-runs-out-the-collapse-at-school-the-emergency-room-escalation-time-for-powerchairs",
+                            "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-2-when-borrowed-time-runs-out-the-collapse-at-school-the-emergency-room-escalation-time-for-powerchairs",
                             "word_count": 3435,
                             "reading_minutes": 14,
                             "date": "2001-09-14",
@@ -438,9 +438,9 @@
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Part 3: Two Compact Power Wheelchairs in the Trunk, Downsizing to Military Highway, & CVTA Route 15",
+                            "part_title": "Part 3: Two Compact Power Wheelchairs in the Trunk, Downsizing to Military Highway, & CVTA Route 15",
                             "file_path": "e003/c003/p003.md",
-                            "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-3-part-3-two-compact-power-wheelchairs-in-the-trunk-downsizing-to-military-highway-cvta-route-15",
+                            "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-3-two-compact-power-wheelchairs-in-the-trunk-downsizing-to-military-highway-cvta-route-15",
                             "word_count": 2126,
                             "reading_minutes": 9,
                             "date": "2001-10-06",
@@ -468,9 +468,9 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Part 1: Navigating Northwood High on Four Wheels, Two First Dates, & Why We Ride on Saturday",
+                            "part_title": "Part 1: Navigating Northwood High on Four Wheels, Two First Dates, & Why We Ride on Saturday",
                             "file_path": "e003/c004/p001.md",
-                            "url": "/katie/sixteen-summer-sanctuary/sixteen-on-four-wheels-finding-dates/part-1-part-1-navigating-northwood-high-on-four-wheels-two-first-dates-why-we-ride-on-saturday",
+                            "url": "/katie/sixteen-summer-sanctuary/sixteen-on-four-wheels-finding-dates/part-1-navigating-northwood-high-on-four-wheels-two-first-dates-why-we-ride-on-saturday",
                             "word_count": 1902,
                             "reading_minutes": 8,
                             "date": "2001-10-15",
@@ -489,9 +489,9 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Part 2: Cousin Wesley, Ryan's Escalator Exit, & Two Dates at Emerald Creek Mall",
+                            "part_title": "Part 2: Cousin Wesley, Ryan's Escalator Exit, & Two Dates at Emerald Creek Mall",
                             "file_path": "e003/c004/p002.md",
-                            "url": "/katie/sixteen-summer-sanctuary/sixteen-on-four-wheels-finding-dates/part-2-part-2-cousin-wesley-ryan-s-escalator-exit-two-dates-at-emerald-creek-mall",
+                            "url": "/katie/sixteen-summer-sanctuary/sixteen-on-four-wheels-finding-dates/part-2-cousin-wesley-ryan-s-escalator-exit-two-dates-at-emerald-creek-mall",
                             "word_count": 2348,
                             "reading_minutes": 10,
                             "date": "2001-10-20",
@@ -528,9 +528,9 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Part 1: The Gas-Station Run, A Box of Dry Cereal, & Why I Never Had a Twenty-First Birthday Drink",
+                            "part_title": "Part 1: The Gas-Station Run, A Box of Dry Cereal, & Why I Never Had a Twenty-First Birthday Drink",
                             "file_path": "e004/c001/p001.md",
-                            "url": "/katie/seventeen-senior-year/drunken-new-year/part-1-part-1-the-gas-station-run-a-box-of-dry-cereal-why-i-never-had-a-twenty-first-birthday-drink",
+                            "url": "/katie/seventeen-senior-year/drunken-new-year/part-1-the-gas-station-run-a-box-of-dry-cereal-why-i-never-had-a-twenty-first-birthday-drink",
                             "word_count": 1963,
                             "reading_minutes": 8,
                             "date": "2002-12-31",
@@ -549,9 +549,9 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Part 2: The Drunken New Year Lie, Heather's Bitter Goodbye, & Twin Sisters Always Stay",
+                            "part_title": "Part 2: The Drunken New Year Lie, Heather's Bitter Goodbye, & Twin Sisters Always Stay",
                             "file_path": "e004/c001/p002.md",
-                            "url": "/katie/seventeen-senior-year/drunken-new-year/part-2-part-2-the-drunken-new-year-lie-heather-s-bitter-goodbye-twin-sisters-always-stay",
+                            "url": "/katie/seventeen-senior-year/drunken-new-year/part-2-the-drunken-new-year-lie-heather-s-bitter-goodbye-twin-sisters-always-stay",
                             "word_count": 1856,
                             "reading_minutes": 8,
                             "date": "2003-01-06",
