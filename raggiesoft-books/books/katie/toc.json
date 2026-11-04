@@ -10,14 +10,14 @@
     "ebook_sizes": {
         "epub": "16.1 MB",
         "pdf": "17.6 MB",
-        "text_epub": "115 KB",
+        "text_epub": "116 KB",
         "text_pdf": "319 KB",
         "package_7z": "91 KB",
-        "epub_bytes": 16919560,
-        "pdf_bytes": 18502722,
-        "text_epub_bytes": 118052,
-        "text_pdf_bytes": 326609,
-        "package_7z_bytes": 93047
+        "epub_bytes": 16920084,
+        "pdf_bytes": 18502657,
+        "text_epub_bytes": 118572,
+        "text_pdf_bytes": 327162,
+        "package_7z_bytes": 93082
     },
     "illustration_count": 29,
     "word_stats": {
@@ -32,8 +32,8 @@
         "scale_category": "Compact Novel",
         "scale_badge": "Compact Novel",
         "benchmark_note": "Compact single-volume trade paperback length (40,000\u201370,000 words)",
-        "era_count": 5,
-        "chapter_count": 14,
+        "era_count": 6,
+        "chapter_count": 15,
         "part_count": 26,
         "illustration_count": 29
     },
@@ -578,6 +578,23 @@
         },
         {
             "era_num": 5,
+            "era_title": "Era 5",
+            "era_url": "/raggiesoft-books/books/katie/era-5",
+            "illustration_count": 0,
+            "word_count": 0,
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Chapter 1",
+                    "chap_url": "/raggiesoft-books/books/katie/era-5/chapter-1",
+                    "illustration_count": 0,
+                    "word_count": 0,
+                    "parts": []
+                }
+            ]
+        },
+        {
+            "era_num": 6,
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 9,
@@ -593,7 +610,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Polls Close at Seven, The 8:42 PM Decision Desk Call, & Victory in Virginia Beach",
-                            "file_path": "e005/c001/p001.md",
+                            "file_path": "e006/c001/p001.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-1-polls-close-at-seven-the-8-42-pm-decision-desk-call-victory-in-virginia-beach",
                             "word_count": 2230,
                             "reading_minutes": 9,
@@ -614,7 +631,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Morning After in Kempsville, The School Tax Referendum, & Jess's Open Letter on The Grid",
-                            "file_path": "e005/c001/p002.md",
+                            "file_path": "e006/c001/p002.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-2-the-morning-after-in-kempsville-the-school-tax-referendum-jess-s-open-letter-on-the-grid",
                             "word_count": 1656,
                             "reading_minutes": 7,
@@ -644,7 +661,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Minified ZIP Trick, Barely Commented Code, & The Live WCAG Takedown",
-                            "file_path": "e005/c002/p001.md",
+                            "file_path": "e006/c002/p001.md",
                             "url": "/katie/the-senator-from-virginia/the-minified-zip-file-the-raw-html-takedown-resigning-from-richmond/part-1-the-minified-zip-trick-barely-commented-code-the-live-wcag-takedown",
                             "word_count": 2566,
                             "reading_minutes": 11,
@@ -665,7 +682,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Article IV Section 4, Hand-Delivering Her Resignation in Richmond, & The Writ of Special Election",
-                            "file_path": "e005/c002/p002.md",
+                            "file_path": "e006/c002/p002.md",
                             "url": "/katie/the-senator-from-virginia/the-minified-zip-file-the-raw-html-takedown-resigning-from-richmond/part-2-article-iv-section-4-hand-delivering-her-resignation-in-richmond-the-writ-of-special-election",
                             "word_count": 1137,
                             "reading_minutes": 5,
@@ -695,7 +712,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Three Business Class Tickets for Free Caf\u00e9 Car Drinks & The Mobile Lift at Alexandria",
-                            "file_path": "e005/c003/p001.md",
+                            "file_path": "e006/c003/p001.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution/part-1-three-business-class-tickets-for-free-caf-car-drinks-the-mobile-lift-at-alexandria",
                             "word_count": 1681,
                             "reading_minutes": 7,
@@ -720,7 +737,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Yellow Line Over the Fenwick Bridge, The Full-Chair Portrait, & Swearing In on the Constitution",
-                            "file_path": "e005/c003/p002.md",
+                            "file_path": "e006/c003/p002.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution/part-2-the-yellow-line-over-the-fenwick-bridge-the-full-chair-portrait-swearing-in-on-the-constitution",
                             "word_count": 2252,
                             "reading_minutes": 10,
@@ -745,7 +762,7 @@
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The First Invite to Cocktails, A Known Side Effect of Death, & Home to Sunset Drive",
-                            "file_path": "e005/c003/p003.md",
+                            "file_path": "e006/c003/p003.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution/part-3-the-first-invite-to-cocktails-a-known-side-effect-of-death-home-to-sunset-drive",
                             "word_count": 2590,
                             "reading_minutes": 11,
