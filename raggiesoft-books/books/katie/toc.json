@@ -13,18 +13,18 @@
         "text_epub": "80 KB",
         "text_pdf": "224 KB",
         "package_7z": "63 KB",
-        "epub_bytes": 13040629,
-        "pdf_bytes": 14680566,
-        "text_epub_bytes": 81797,
-        "text_pdf_bytes": 229146,
-        "package_7z_bytes": 64752
+        "epub_bytes": 13042538,
+        "pdf_bytes": 14683214,
+        "text_epub_bytes": 81968,
+        "text_pdf_bytes": 229484,
+        "package_7z_bytes": 64899
     },
     "illustration_count": 20,
     "word_stats": {
-        "story_word_count": 30639,
+        "story_word_count": 30720,
         "lore_word_count": 121,
-        "combined_word_count": 30760,
-        "story_page_count": 111,
+        "combined_word_count": 30841,
+        "story_page_count": 112,
         "combined_page_count": 112,
         "reading_hours": 2,
         "reading_minutes": 123,
@@ -241,7 +241,7 @@
             "era_title": "Sixteen & Summer Sanctuary",
             "era_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary",
             "illustration_count": 12,
-            "word_count": 19657,
+            "word_count": 19738,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -464,14 +464,14 @@
                     "chap_title": "Sixteen on Four Wheels & Finding Dates",
                     "chap_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary/sixteen-on-four-wheels-finding-dates",
                     "illustration_count": 3,
-                    "word_count": 4481,
+                    "word_count": 4562,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Navigating Northwood High on Four Wheels, Two First Dates, & Why We Ride on Saturday",
                             "file_path": "e003/c004/p001.md",
                             "url": "/katie/sixteen-summer-sanctuary/sixteen-on-four-wheels-finding-dates/part-1-navigating-northwood-high-on-four-wheels-two-first-dates-why-we-ride-on-saturday",
-                            "word_count": 1902,
+                            "word_count": 1983,
                             "reading_minutes": 8,
                             "date": "2001-10-15",
                             "start_time": "07:10",
