@@ -10,32 +10,32 @@
     "ebook_sizes": {
         "epub": "14.6 MB",
         "pdf": "16.5 MB",
-        "text_epub": "91 KB",
-        "text_pdf": "250 KB",
-        "package_7z": "71 KB",
-        "epub_bytes": 15309225,
-        "pdf_bytes": 17303320,
-        "text_epub_bytes": 92906,
-        "text_pdf_bytes": 255493,
-        "package_7z_bytes": 72823
+        "text_epub": "96 KB",
+        "text_pdf": "266 KB",
+        "package_7z": "75 KB",
+        "epub_bytes": 15314882,
+        "pdf_bytes": 17320055,
+        "text_epub_bytes": 98513,
+        "text_pdf_bytes": 272012,
+        "package_7z_bytes": 77229
     },
-    "illustration_count": 23,
+    "illustration_count": 24,
     "word_stats": {
-        "story_word_count": 34666,
+        "story_word_count": 37071,
         "lore_word_count": 121,
-        "combined_word_count": 34787,
-        "story_page_count": 126,
-        "combined_page_count": 126,
-        "reading_hours": 2.3,
-        "reading_minutes": 139,
+        "combined_word_count": 37192,
+        "story_page_count": 135,
+        "combined_page_count": 135,
+        "reading_hours": 2.5,
+        "reading_minutes": 148,
         "novel_equivalent": 0.4,
         "scale_category": "Novella",
         "scale_badge": "Novella",
         "benchmark_note": "Standard contemporary novella length (17,500\u201340,000 words)",
         "era_count": 5,
         "chapter_count": 12,
-        "part_count": 21,
-        "illustration_count": 23
+        "part_count": 22,
+        "illustration_count": 24
     },
     "eras": [
         {
@@ -580,15 +580,15 @@
             "era_num": 5,
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
-            "illustration_count": 3,
-            "word_count": 3892,
+            "illustration_count": 4,
+            "word_count": 6297,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "First Train from Norfolk & Swearing In on the Constitution",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution",
-                    "illustration_count": 3,
-                    "word_count": 3892,
+                    "illustration_count": 4,
+                    "word_count": 6297,
                     "parts": [
                         {
                             "part_num": 1,
@@ -626,6 +626,27 @@
                             "start_time": "09:25",
                             "location": "Alexandria, VA & Washington, D.C. (King St\u2013Old Town Metro, Charles R. Fenwick Bridge, L'Enfant Plaza, Capitol South, & The United States Senate)",
                             "excerpt": "Proving her transit-insider credentials by taking the Capital Transit Yellow Line across the Charles R. Fenwick Bridge to L'Enfant Plaza instead of the long Blue Line detour via Rosslyn, Katie refuses to hide her powerchair in her official Senate portrait and swears her oath on the Constitution of the United States of America.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait.jpg",
+                            "image_alt": "Official full-seated U.S. Senate portrait of forty-one-year-old U.S. Senator Katie Prairie of Virginia proudly seated in her compact SwiftChair power wheelchair in a royal-blue blazer between the United States and Virginia flags with the Capitol dome visible through the arched window behind her",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait.jpg",
+                                    "alt": "Official full-seated U.S. Senate portrait of forty-one-year-old U.S. Senator Katie Prairie of Virginia proudly seated in her compact SwiftChair power wheelchair in a royal-blue blazer between the United States and Virginia flags with the Capitol dome visible through the arched window behind her"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The First Invite to Cocktails, A Known Side Effect of Death, & Home to Sunset Drive",
+                            "file_path": "e005/c001/p003.md",
+                            "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution/part-3-the-first-invite-to-cocktails-a-known-side-effect-of-death-home-to-sunset-drive",
+                            "word_count": 2405,
+                            "reading_minutes": 10,
+                            "date": "2027-01-03",
+                            "start_time": "16:30",
+                            "location": "Washington, D.C. & Alexandria, VA (The Mansfield Room at the U.S. Capitol, Capital Transit Yellow Line, & The Brick House on Sunset Drive)",
+                            "excerpt": "Invited to her first Senate leadership cocktail reception, Senator Katie Prairie establishes that she, Nate, and their dad take a daily medication where mixing with alcohol or tobacco has a known side effect of death\u2014before riding the Yellow Line back to their two-story brick house on Sunset Drive.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait.jpg",
                             "image_alt": "Official full-seated U.S. Senate portrait of forty-one-year-old U.S. Senator Katie Prairie of Virginia proudly seated in her compact SwiftChair power wheelchair in a royal-blue blazer between the United States and Virginia flags with the Capitol dome visible through the arched window behind her",
                             "images": [
