@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "15.2 MB",
-        "pdf": "17.2 MB",
-        "text_epub": "97 KB",
-        "text_pdf": "266 KB",
-        "package_7z": "76 KB",
-        "epub_bytes": 15938158,
-        "pdf_bytes": 18024519,
-        "text_epub_bytes": 98837,
-        "text_pdf_bytes": 272760,
-        "package_7z_bytes": 77497
+        "epub": "16.1 MB",
+        "pdf": "17.6 MB",
+        "text_epub": "115 KB",
+        "text_pdf": "319 KB",
+        "package_7z": "91 KB",
+        "epub_bytes": 16919494,
+        "pdf_bytes": 18502657,
+        "text_epub_bytes": 117988,
+        "text_pdf_bytes": 326525,
+        "package_7z_bytes": 92988
     },
-    "illustration_count": 25,
+    "illustration_count": 29,
     "word_stats": {
-        "story_word_count": 37264,
+        "story_word_count": 44864,
         "lore_word_count": 121,
-        "combined_word_count": 37385,
-        "story_page_count": 136,
-        "combined_page_count": 136,
-        "reading_hours": 2.5,
-        "reading_minutes": 149,
-        "novel_equivalent": 0.4,
-        "scale_category": "Novella",
-        "scale_badge": "Novella",
-        "benchmark_note": "Standard contemporary novella length (17,500\u201340,000 words)",
+        "combined_word_count": 44985,
+        "story_page_count": 163,
+        "combined_page_count": 164,
+        "reading_hours": 3,
+        "reading_minutes": 179,
+        "novel_equivalent": 0.5,
+        "scale_category": "Compact Novel",
+        "scale_badge": "Compact Novel",
+        "benchmark_note": "Compact single-volume trade paperback length (40,000\u201370,000 words)",
         "era_count": 5,
-        "chapter_count": 12,
-        "part_count": 22,
-        "illustration_count": 25
+        "chapter_count": 14,
+        "part_count": 26,
+        "illustration_count": 29
     },
     "eras": [
         {
@@ -580,20 +580,122 @@
             "era_num": 5,
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
-            "illustration_count": 5,
-            "word_count": 6490,
+            "illustration_count": 9,
+            "word_count": 14090,
             "chapters": [
                 {
                     "chap_num": 1,
+                    "chap_title": "Election Night, The Decision Desk Call, & The Referendum Mandate",
+                    "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate",
+                    "illustration_count": 2,
+                    "word_count": 3873,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Polls Close at Seven, The 8:42 PM Decision Desk Call, & Victory in Virginia Beach",
+                            "file_path": "e005/c001/p001.md",
+                            "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-1-polls-close-at-seven-the-8-42-pm-decision-desk-call-victory-in-virginia-beach",
+                            "word_count": 2217,
+                            "reading_minutes": 9,
+                            "date": "2026-11-03",
+                            "start_time": "19:00",
+                            "location": "Virginia Beach, VA (Kempsville & The Virginia Beach Convention Ballroom)",
+                            "excerpt": "On Election Night in Virginia Beach, Nate tracks precinct returns on their custom PHP dashboard until the GNN, GBS, and Beacon News Decision Desks project forty-one-year-old State Senator Katie Prairie as the newest United States Senator from Virginia.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2026_election_night_decision_desk_victory_katie_nate_david.jpg",
+                            "image_alt": "Forty-one-year-old U.S. Senator-Elect Katie Prairie and her fraternal twin brother Nate hold hands across their compact SwiftChair power wheelchairs on a ballroom stage in Virginia Beach with their proud father David standing on his own two feet beside them beneath falling confetti and the GNN Decision Desk projection screen",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2026_election_night_decision_desk_victory_katie_nate_david.jpg",
+                                    "alt": "Forty-one-year-old U.S. Senator-Elect Katie Prairie and her fraternal twin brother Nate hold hands across their compact SwiftChair power wheelchairs on a ballroom stage in Virginia Beach with their proud father David standing on his own two feet beside them beneath falling confetti and the GNN Decision Desk projection screen"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Morning After in Kempsville, The School Tax Referendum, & Jess's Open Letter on The Grid",
+                            "file_path": "e005/c001/p002.md",
+                            "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-2-the-morning-after-in-kempsville-the-school-tax-referendum-jess-s-open-letter-on-the-grid",
+                            "word_count": 1656,
+                            "reading_minutes": 7,
+                            "date": "2026-11-04",
+                            "start_time": "08:30",
+                            "location": "Virginia Beach, VA (Katie & Nate's 50\u201350 Home in Kempsville)",
+                            "excerpt": "Over morning ginger ale, black coffee, and their daily prescription medication in their Kempsville kitchen, Senator-Elect Katie Prairie and Nate read Jess's viral open letter on The Grid and adopt its eight pillars as her ironclad governing mandate for the U.S. Senate.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2026_kempsville_morning_after_the_grid_referendum_mandate.jpg",
+                            "image_alt": "Inside the sunlit accessible kitchen of their Kempsville home beneath the framed blue butterfly print, forty-one-year-old Senator-Elect Katie Prairie and her twin brother Nate sit side by side in their compact SwiftChair power wheelchairs holding hands at the roll-under breakfast table looking at their open MagnaBook Pro laptop with glasses of ginger ale and prescription pill bottles while their father David stands beside them pouring hot black coffee",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2026_kempsville_morning_after_the_grid_referendum_mandate.jpg",
+                                    "alt": "Inside the sunlit accessible kitchen of their Kempsville home beneath the framed blue butterfly print, forty-one-year-old Senator-Elect Katie Prairie and her twin brother Nate sit side by side in their compact SwiftChair power wheelchairs holding hands at the roll-under breakfast table looking at their open MagnaBook Pro laptop with glasses of ginger ale and prescription pill bottles while their father David stands beside them pouring hot black coffee"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "The Minified ZIP File, The Raw HTML Takedown, & Resigning from Richmond",
+                    "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/the-minified-zip-file-the-raw-html-takedown-resigning-from-richmond",
+                    "illustration_count": 2,
+                    "word_count": 3700,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Minified ZIP Trick, Barely Commented Code, & The Live WCAG Takedown",
+                            "file_path": "e005/c002/p001.md",
+                            "url": "/katie/the-senator-from-virginia/the-minified-zip-file-the-raw-html-takedown-resigning-from-richmond/part-1-the-minified-zip-trick-barely-commented-code-the-live-wcag-takedown",
+                            "word_count": 2563,
+                            "reading_minutes": 11,
+                            "date": "2026-12-11",
+                            "start_time": "10:00",
+                            "location": "Washington, D.C. (Dirksen Senate Office Building Freshman Transition Suite)",
+                            "excerpt": "When the Senate website vendor tries to brush Senator-Elect Katie Prairie off with a ZIP file of minified code, Katie demands the raw unminified repository with the bewildered build team on speakerphone\u2014and both twins erupt in fury over the barely commented, WCAG-failing source code.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/dec_2026_prairie_senate_gov_raw_html_wcag_audit_takedown.jpg",
+                            "image_alt": "Inside a Dirksen Senate Office Building transition room overlooking the Capitol dome, forty-one-year-old U.S. Senator-Elect Katie Prairie and her twin brother Nate sit side by side in their compact SwiftChair power wheelchairs auditing raw HTML and WCAG accessibility failures on their MagnaBook Pro laptops over a conference speakerphone while two beltway digital contractor executives sit across the table sweating and shell-shocked",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/dec_2026_prairie_senate_gov_raw_html_wcag_audit_takedown.jpg",
+                                    "alt": "Inside a Dirksen Senate Office Building transition room overlooking the Capitol dome, forty-one-year-old U.S. Senator-Elect Katie Prairie and her twin brother Nate sit side by side in their compact SwiftChair power wheelchairs auditing raw HTML and WCAG accessibility failures on their MagnaBook Pro laptops over a conference speakerphone while two beltway digital contractor executives sit across the table sweating and shell-shocked"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Article IV Section 4, Hand-Delivering Her Resignation in Richmond, & The Writ of Special Election",
+                            "file_path": "e005/c002/p002.md",
+                            "url": "/katie/the-senator-from-virginia/the-minified-zip-file-the-raw-html-takedown-resigning-from-richmond/part-2-article-iv-section-4-hand-delivering-her-resignation-in-richmond-the-writ-of-special-election",
+                            "word_count": 1137,
+                            "reading_minutes": 5,
+                            "date": "2026-12-15",
+                            "start_time": "14:00",
+                            "location": "Richmond, VA (The Virginia State Capitol & The Office of the Clerk of the Senate of Virginia)",
+                            "excerpt": "Because Article IV, Section 4 of the Constitution of Virginia forbids holding both a state legislative seat and federal office, State Senator Katie Prairie travels to the Virginia State Capitol in Richmond with Nate to formally hand-deliver her resignation to the Clerk of the Senate.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/dec_2026_richmond_state_senate_resignation_hand_delivery.jpg",
+                            "image_alt": "Inside the historic neoclassical Clerk's Office of the Senate of Virginia at the State Capitol in Richmond, forty-one-year-old State Senator and U.S. Senator-Elect Katie Prairie sits in her compact SwiftChair power wheelchair alongside her twin brother Nate in his matching powerchair and formally hands her gold-sealed parchment resignation letter across the mahogany counter to the Clerk of the Senate",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/dec_2026_richmond_state_senate_resignation_hand_delivery.jpg",
+                                    "alt": "Inside the historic neoclassical Clerk's Office of the Senate of Virginia at the State Capitol in Richmond, forty-one-year-old State Senator and U.S. Senator-Elect Katie Prairie sits in her compact SwiftChair power wheelchair alongside her twin brother Nate in his matching powerchair and formally hands her gold-sealed parchment resignation letter across the mahogany counter to the Clerk of the Senate"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
                     "chap_title": "First Train from Norfolk & Swearing In on the Constitution",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution",
                     "illustration_count": 5,
-                    "word_count": 6490,
+                    "word_count": 6517,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Three Business Class Tickets for Free Caf\u00e9 Car Drinks & The Mobile Lift at Alexandria",
-                            "file_path": "e005/c001/p001.md",
+                            "file_path": "e005/c003/p001.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution/part-1-three-business-class-tickets-for-free-caf-car-drinks-the-mobile-lift-at-alexandria",
                             "word_count": 1681,
                             "reading_minutes": 7,
@@ -618,7 +720,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Yellow Line Over the Fenwick Bridge, The Full-Chair Portrait, & Swearing In on the Constitution",
-                            "file_path": "e005/c001/p002.md",
+                            "file_path": "e005/c003/p002.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution/part-2-the-yellow-line-over-the-fenwick-bridge-the-full-chair-portrait-swearing-in-on-the-constitution",
                             "word_count": 2252,
                             "reading_minutes": 10,
@@ -643,9 +745,9 @@
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The First Invite to Cocktails, A Known Side Effect of Death, & Home to Sunset Drive",
-                            "file_path": "e005/c001/p003.md",
+                            "file_path": "e005/c003/p003.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution/part-3-the-first-invite-to-cocktails-a-known-side-effect-of-death-home-to-sunset-drive",
-                            "word_count": 2557,
+                            "word_count": 2584,
                             "reading_minutes": 11,
                             "date": "2027-01-03",
                             "start_time": "16:30",
