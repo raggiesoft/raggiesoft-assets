@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "12.4 MB",
-        "pdf": "14 MB",
-        "text_epub": "80 KB",
-        "text_pdf": "224 KB",
-        "package_7z": "63 KB",
-        "epub_bytes": 13042681,
-        "pdf_bytes": 14683334,
-        "text_epub_bytes": 82103,
-        "text_pdf_bytes": 229572,
-        "package_7z_bytes": 65002
+        "epub": "14.6 MB",
+        "pdf": "16.5 MB",
+        "text_epub": "90 KB",
+        "text_pdf": "249 KB",
+        "package_7z": "71 KB",
+        "epub_bytes": 15308852,
+        "pdf_bytes": 17302475,
+        "text_epub_bytes": 92528,
+        "text_pdf_bytes": 254657,
+        "package_7z_bytes": 72496
     },
-    "illustration_count": 20,
+    "illustration_count": 23,
     "word_stats": {
-        "story_word_count": 30774,
+        "story_word_count": 34502,
         "lore_word_count": 121,
-        "combined_word_count": 30895,
-        "story_page_count": 112,
-        "combined_page_count": 112,
-        "reading_hours": 2.1,
-        "reading_minutes": 123,
-        "novel_equivalent": 0.3,
+        "combined_word_count": 34623,
+        "story_page_count": 125,
+        "combined_page_count": 126,
+        "reading_hours": 2.3,
+        "reading_minutes": 138,
+        "novel_equivalent": 0.4,
         "scale_category": "Novella",
         "scale_badge": "Novella",
         "benchmark_note": "Standard contemporary novella length (17,500\u201340,000 words)",
-        "era_count": 4,
-        "chapter_count": 11,
-        "part_count": 19,
-        "illustration_count": 20
+        "era_count": 5,
+        "chapter_count": 12,
+        "part_count": 21,
+        "illustration_count": 23
     },
     "eras": [
         {
@@ -568,6 +568,70 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b003/jun_2001_bonding_with_my_sister_katie_bedroom_butterfly.jpg",
                                     "alt": "Seventeen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in the quiet sanctuary of Katie's bedroom beneath the framed blue butterfly print as Katie comforts her heartbroken brother"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "era_num": 5,
+            "era_title": "The Senator from Virginia",
+            "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
+            "illustration_count": 3,
+            "word_count": 3728,
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "First Train from Norfolk & Swearing In on the Constitution",
+                    "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution",
+                    "illustration_count": 3,
+                    "word_count": 3728,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Three Business Class Tickets for Free Caf\u00e9 Car Drinks & The Mobile Lift at Alexandria",
+                            "file_path": "e005/c001/p001.md",
+                            "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution/part-1-three-business-class-tickets-for-free-caf-car-drinks-the-mobile-lift-at-alexandria",
+                            "word_count": 1489,
+                            "reading_minutes": 6,
+                            "date": "2027-01-03",
+                            "start_time": "05:00",
+                            "location": "Norfolk & Alexandria, VA (Norfolk Station NFK, ARTS Northeast Regional, & Alexandria Union Station ALX)",
+                            "excerpt": "On the morning of her U.S. Senate swearing-in, forty-one-year-old Senator-Elect Katie Prairie, her twin brother Nate, and their dad David ride the 5:00 AM ARTS Business Class train from Norfolk for the free Caf\u00e9 Car drinks\u2014and shock commuters by detraining on the mobile lift at Alexandria instead of Washington Union Station.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/jan_2027_alx_arts_mobile_lift_senator_elect_katie_prairie.jpg",
+                            "image_alt": "Forty-one-year-old U.S. Senator-Elect Katie Prairie sits in her compact SwiftChair power wheelchair on the yellow-and-silver ARTS Mobile Lift outside the open ARTS Business Class door at Alexandria Union Station while her twin brother Nate in his matching powerchair holding a Caf\u00e9 Car cup and their proud father David wait on the low-level red-brick platform below",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/jan_2027_alx_arts_mobile_lift_senator_elect_katie_prairie.jpg",
+                                    "alt": "Forty-one-year-old U.S. Senator-Elect Katie Prairie sits in her compact SwiftChair power wheelchair on the yellow-and-silver ARTS Mobile Lift outside the open ARTS Business Class door at Alexandria Union Station while her twin brother Nate in his matching powerchair holding a Caf\u00e9 Car cup and their proud father David wait on the low-level red-brick platform below"
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/jan_2027_alx_platform_to_king_st_metro_katie_nate_david.jpg",
+                                    "alt": "Forty-one-year-old Senator-Elect Katie Prairie and her twin brother Nate roll side by side in their compact SwiftChair power wheelchairs holding hands down the open-air red-brick platform of historic Alexandria Union Station with their proud father David walking beside them under the clear winter sky and the George Washington Masonic National Memorial on the hill"
+                                }
+                            ],
+                            "image_count": 2
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Yellow Line Over the Fenwick Bridge, The Full-Chair Portrait, & Swearing In on the Constitution",
+                            "file_path": "e005/c001/p002.md",
+                            "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution/part-2-the-yellow-line-over-the-fenwick-bridge-the-full-chair-portrait-swearing-in-on-the-constitution",
+                            "word_count": 2239,
+                            "reading_minutes": 9,
+                            "date": "2027-01-03",
+                            "start_time": "09:25",
+                            "location": "Alexandria, VA & Washington, D.C. (King St\u2013Old Town Metro, Charles R. Fenwick Bridge, L'Enfant Plaza, Capitol South, & The United States Senate)",
+                            "excerpt": "Proving her transit-insider credentials by taking the Capital Transit Yellow Line across the Charles R. Fenwick Bridge to L'Enfant Plaza instead of the long Blue Line detour via Rosslyn, Katie refuses to hide her powerchair in her official Senate portrait and swears her oath on the Constitution of the United States of America.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait.jpg",
+                            "image_alt": "Official full-seated U.S. Senate portrait of forty-one-year-old U.S. Senator Katie Prairie of Virginia proudly seated in her compact SwiftChair power wheelchair in a royal-blue blazer between the United States and Virginia flags with the Capitol dome visible through the arched window behind her",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait.jpg",
+                                    "alt": "Official full-seated U.S. Senate portrait of forty-one-year-old U.S. Senator Katie Prairie of Virginia proudly seated in her compact SwiftChair power wheelchair in a royal-blue blazer between the United States and Virginia flags with the Capitol dome visible through the arched window behind her"
                                 }
                             ],
                             "image_count": 1
