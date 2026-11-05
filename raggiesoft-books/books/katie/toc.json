@@ -9,32 +9,32 @@
     "next_series_url": "",
     "ebook_sizes": {
         "epub": "17.7 MB",
-        "pdf": "18.6 MB",
-        "text_epub": "190 KB",
-        "text_pdf": "527 KB",
-        "package_7z": "148 KB",
-        "epub_bytes": 18586603,
-        "pdf_bytes": 19551306,
-        "text_epub_bytes": 194995,
-        "text_pdf_bytes": 539421,
-        "package_7z_bytes": 151947
+        "pdf": "18.7 MB",
+        "text_epub": "202 KB",
+        "text_pdf": "559 KB",
+        "package_7z": "157 KB",
+        "epub_bytes": 18598069,
+        "pdf_bytes": 19584151,
+        "text_epub_bytes": 206467,
+        "text_pdf_bytes": 572165,
+        "package_7z_bytes": 160682
     },
     "illustration_count": 37,
     "word_stats": {
-        "story_word_count": 79142,
+        "story_word_count": 84295,
         "lore_word_count": 121,
-        "combined_word_count": 79263,
-        "story_page_count": 288,
-        "combined_page_count": 288,
-        "reading_hours": 5.3,
-        "reading_minutes": 317,
+        "combined_word_count": 84416,
+        "story_page_count": 307,
+        "combined_page_count": 307,
+        "reading_hours": 5.6,
+        "reading_minutes": 337,
         "novel_equivalent": 0.9,
         "scale_category": "Full-Length Contemporary Novel",
         "scale_badge": "Full-Length Novel",
         "benchmark_note": "0.9\u00d7 a standard 90,000-word contemporary novel (70k\u2013110k trade benchmark)",
         "era_count": 6,
         "chapter_count": 19,
-        "part_count": 37,
+        "part_count": 39,
         "illustration_count": 37
     },
     "eras": [
@@ -581,7 +581,7 @@
             "era_title": "West Ocean View, Ideas for CVTA, & The Delegate from Virginia Beach",
             "era_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach",
             "illustration_count": 8,
-            "word_count": 34254,
+            "word_count": 39407,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -715,16 +715,16 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Do Better: Challenging CVTA's Complacency & The 2008 Mayoral Invitation",
-                    "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach/do-better-challenging-cvta-s-complacency-the-2008-mayoral-invitation",
+                    "chap_title": "Do Better: The Four-Bus Loop, Kempsville City Council, & The Path to the 85th House District",
+                    "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach/do-better-the-four-bus-loop-kempsville-city-council-the-path-to-the-85th-house-district",
                     "illustration_count": 0,
-                    "word_count": 6018,
+                    "word_count": 11171,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Does the Bus Run? Calling Out CVTA's Complacency & The 2008 Regional Mayoral Challenge",
                             "file_path": "e005/c003/p001.md",
-                            "url": "/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach/do-better-challenging-cvta-s-complacency-the-2008-mayoral-invitation/part-1-does-the-bus-run-calling-out-cvta-s-complacency-the-2008-regional-mayoral-challenge",
+                            "url": "/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach/do-better-the-four-bus-loop-kempsville-city-council-the-path-to-the-85th-house-district/part-1-does-the-bus-run-calling-out-cvta-s-complacency-the-2008-regional-mayoral-challenge",
                             "word_count": 3606,
                             "reading_minutes": 15,
                             "date": "2008-04-14",
@@ -734,15 +734,39 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Stopped at the Third-Floor Gallery by Capitol Police, Seated on the House Floor Near Delegate Ronald Villa, & The Spark to Run",
+                            "part_title": "Part 2: The Four-Bus Mayoral Loop, The 5:48 PM Municipal Center Curfew Trap, & Winning the Kempsville City Council Seat",
                             "file_path": "e005/c003/p002.md",
-                            "url": "/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach/do-better-challenging-cvta-s-complacency-the-2008-mayoral-invitation/part-2-stopped-at-the-third-floor-gallery-by-capitol-police-seated-on-the-house-floor-near-delegate-ronald-villa-the-spark-to-run",
-                            "word_count": 2412,
+                            "url": "/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach/do-better-the-four-bus-loop-kempsville-city-council-the-path-to-the-85th-house-district/part-2-the-four-bus-mayoral-loop-the-5-48-pm-municipal-center-curfew-trap-winning-the-kempsville-city-council-seat",
+                            "word_count": 2291,
                             "reading_minutes": 10,
-                            "date": "2011-02-10",
+                            "date": "2008-09-16",
+                            "start_time": "14:00",
+                            "location": "Virginia Beach & Norfolk, VA (CCHR Bus Loop, CVTA Routes 29/20/15/12, & Virginia Beach Municipal Center)",
+                            "excerpt": "Riding a four-bus circuit (#29 -> #20 -> #15 -> #12) with Virginia Beach mayoral candidate Scott Tanner, Nate and Katie expose the expired two-hour transfer penalty and the 5:48 PM evening bus curfew that locks citizens out of 6:00 PM City Council meetings\u2014sparking Katie's victorious 2010 campaign for the Kempsville District seat on the Virginia Beach City Council."
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Stopped at the Third-Floor Gallery by Capitol Police, Seated on the House Floor Near Delegate Ronald Villa, & The Spark to Run",
+                            "file_path": "e005/c003/p003.md",
+                            "url": "/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach/do-better-the-four-bus-loop-kempsville-city-council-the-path-to-the-85th-house-district/part-3-stopped-at-the-third-floor-gallery-by-capitol-police-seated-on-the-house-floor-near-delegate-ronald-villa-the-spark-to-run",
+                            "word_count": 2479,
+                            "reading_minutes": 10,
+                            "date": "2012-02-09",
                             "start_time": "11:35",
                             "location": "Richmond, VA (Virginia State Capitol Third-Floor Gallery Corridor & House of Delegates Floor)",
-                            "excerpt": "Visiting Richmond in February 2011 as citizen transit advocates for Ideas for Coastal Virginia Transit, twenty-five-year-old Nate and Katie head upstairs to the third-floor public viewing gallery\u2014only to be stopped by Capitol Police over emergency-evacuation safety concerns and granted the rare honor by House Leadership of sitting right on the Floor of the Virginia House of Delegates near Virginia Beach Delegate Ronald Villa."
+                            "excerpt": "Visiting Richmond in February 2012 during her second year on the Virginia Beach City Council to testify for state transit funding, twenty-six-year-old Katie and Nate head upstairs to the third-floor public viewing gallery\u2014only to be stopped by Capitol Police over emergency-evacuation safety concerns and granted the rare honor by House Leadership of sitting right on the Floor of the Virginia House of Delegates near former Virginia Beach City Councilman and State Delegate Ronald Villa."
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Telling Dad at Our Kempsville Kitchen Table, The 125-Signature Ballot Petition at CCHR, & Winning the Eighty-Fifth House District",
+                            "file_path": "e005/c003/p004.md",
+                            "url": "/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach/do-better-the-four-bus-loop-kempsville-city-council-the-path-to-the-85th-house-district/part-4-telling-dad-at-our-kempsville-kitchen-table-the-125-signature-ballot-petition-at-cchr-winning-the-eighty-fifth-house-district",
+                            "word_count": 2795,
+                            "reading_minutes": 12,
+                            "date": "2012-11-23",
+                            "start_time": "18:30",
+                            "location": "Virginia Beach, VA (741 Lord Nelson Drive in Kempsville, CCHR Bus Loop, & Virginia Beach Municipal Center)",
+                            "excerpt": "Sitting down with their father David at their Kempsville kitchen table, Katie and Nate brainstorm every legal and grassroots step of a 2013 Virginia House of Delegates campaign\u2014from filing her candidate qualification paperwork and collecting 400 voter signatures at CCHR to defeating Delegate Richard Tatum in the 85th District and wrapping up her service on the Virginia Beach City Council."
                         }
                     ]
                 },
