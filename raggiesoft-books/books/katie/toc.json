@@ -8,26 +8,26 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "17.4 MB",
-        "pdf": "18.2 MB",
-        "text_epub": "139 KB",
-        "text_pdf": "382 KB",
-        "package_7z": "109 KB",
-        "epub_bytes": 18217950,
-        "pdf_bytes": 19093243,
-        "text_epub_bytes": 142826,
-        "text_pdf_bytes": 391396,
-        "package_7z_bytes": 112022
+        "epub": "17.6 MB",
+        "pdf": "18.3 MB",
+        "text_epub": "140 KB",
+        "text_pdf": "384 KB",
+        "package_7z": "110 KB",
+        "epub_bytes": 18457869,
+        "pdf_bytes": 19198163,
+        "text_epub_bytes": 143502,
+        "text_pdf_bytes": 393558,
+        "package_7z_bytes": 112657
     },
-    "illustration_count": 36,
+    "illustration_count": 37,
     "word_stats": {
-        "story_word_count": 55706,
+        "story_word_count": 56081,
         "lore_word_count": 121,
-        "combined_word_count": 55827,
-        "story_page_count": 203,
-        "combined_page_count": 203,
+        "combined_word_count": 56202,
+        "story_page_count": 204,
+        "combined_page_count": 204,
         "reading_hours": 3.7,
-        "reading_minutes": 223,
+        "reading_minutes": 224,
         "novel_equivalent": 0.6,
         "scale_category": "Compact Novel",
         "scale_badge": "Compact Novel",
@@ -35,7 +35,7 @@
         "era_count": 6,
         "chapter_count": 16,
         "part_count": 29,
-        "illustration_count": 36
+        "illustration_count": 37
     },
     "eras": [
         {
@@ -580,8 +580,8 @@
             "era_num": 5,
             "era_title": "West Ocean View & The End of Hell",
             "era_url": "/raggiesoft-books/books/katie/west-ocean-view-the-end-of-hell",
-            "illustration_count": 7,
-            "word_count": 10820,
+            "illustration_count": 8,
+            "word_count": 11195,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -617,33 +617,37 @@
                     "chap_num": 2,
                     "chap_title": "The End of Hell & Reclaiming Apartment 3",
                     "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-the-end-of-hell/the-end-of-hell-reclaiming-apartment-3",
-                    "illustration_count": 6,
-                    "word_count": 9132,
+                    "illustration_count": 7,
+                    "word_count": 9507,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Sister's Worst Nightmare, Tiffany Forces a Choice, & Scrubbing Out the Filth",
                             "file_path": "e005/c002/p001.md",
                             "url": "/katie/west-ocean-view-the-end-of-hell/the-end-of-hell-reclaiming-apartment-3/part-1-a-sister-s-worst-nightmare-tiffany-forces-a-choice-scrubbing-out-the-filth",
-                            "word_count": 5557,
-                            "reading_minutes": 23,
+                            "word_count": 5932,
+                            "reading_minutes": 24,
                             "date": "2005-11-12",
                             "start_time": "20:20",
                             "location": "Norfolk, VA (Sea Breeze West Apartment 3 & Crown Burger on West Ocean View Avenue)",
-                            "excerpt": "After escaping Williamsburg on five consecutive buses in the pouring rain to reach Nate's filthy Sea Breeze West apartment in West Ocean View, twenty-year-old Katie helps Nate break free from Tiffany Sloan and scrub their sanctuary clean.",
+                            "excerpt": "After escaping Williamsburg on five consecutive buses in the pouring rain to reach Nate's filthy Sea Breeze West apartment in West Ocean View, nineteen-year-old Katie helps Nate break free from Tiffany Sloan and scrub their sanctuary clean.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg",
-                            "image_alt": "Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp\u2014after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs\u2014Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while twenty-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs",
+                            "image_alt": "Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp\u2014after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs\u2014Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while nineteen-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg",
-                                    "alt": "Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp\u2014after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs\u2014Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while twenty-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs"
+                                    "alt": "Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp\u2014after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs\u2014Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while nineteen-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs"
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg",
-                                    "alt": "Part of the way through the heavy-duty cleanout of Sea Breeze West Apartment 3\u2014after hauling the first waves of overflowing trash out to the dumpsters\u2014twenty-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the kitchen counters and tie up the remaining black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, L-shaped olive-green upper and lower cabinets, and the hallway opening on the far right"
+                                    "alt": "Part of the way through the heavy-duty cleanout of Sea Breeze West Apartment 3\u2014after hauling the first waves of overflowing trash out to the dumpsters\u2014nineteen-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the kitchen counters and tie up the remaining black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, L-shaped olive-green upper and lower cabinets, and the hallway opening on the far right"
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_green_sofa_never_separate_again_promise.jpg",
+                                    "alt": "Inside the living room of Sea Breeze West Apartment 3 in front of the bright green three-cushion sofa and the front windows with white horizontal mini-blinds at night: nineteen-year-old Katie in her mustard-yellow ringer t-shirt and blue jeans sits in her compact black SwiftChair power wheelchair with tears rolling down her cheeks as she holds nineteen-year-old Nate's hand across their wheelchairs and promises her brother that they will never separate ever again"
                                 }
                             ],
-                            "image_count": 2
+                            "image_count": 3
                         },
                         {
                             "part_num": 2,
@@ -657,19 +661,19 @@
                             "location": "Norfolk & Virginia Beach, VA (Sea Breeze West Apartment 3, CCHR Beach Campus, & Chesapeake Bay Mall)",
                             "excerpt": "On Monday morning, Katie and Nate ride CVTA Route 1 to CCHR Beach Campus, buy all-new queen bedding at Chesapeake Bay Mall, welcome Dad in his pickup truck to send Tiffany's van away for good, and build their deep-pressure sanctuary on the hallway closet floor.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg",
-                            "image_alt": "Part of the way through the heavy-duty cleanout of Sea Breeze West Apartment 3\u2014after hauling the first waves of overflowing trash out to the dumpsters\u2014twenty-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the kitchen counters and tie up the remaining black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, L-shaped olive-green upper and lower cabinets, and the hallway opening on the far right",
+                            "image_alt": "Part of the way through the heavy-duty cleanout of Sea Breeze West Apartment 3\u2014after hauling the first waves of overflowing trash out to the dumpsters\u2014nineteen-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the kitchen counters and tie up the remaining black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, L-shaped olive-green upper and lower cabinets, and the hallway opening on the far right",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg",
-                                    "alt": "Part of the way through the heavy-duty cleanout of Sea Breeze West Apartment 3\u2014after hauling the first waves of overflowing trash out to the dumpsters\u2014twenty-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the kitchen counters and tie up the remaining black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, L-shaped olive-green upper and lower cabinets, and the hallway opening on the far right"
+                                    "alt": "Part of the way through the heavy-duty cleanout of Sea Breeze West Apartment 3\u2014after hauling the first waves of overflowing trash out to the dumpsters\u2014nineteen-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the kitchen counters and tie up the remaining black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, L-shaped olive-green upper and lower cabinets, and the hallway opening on the far right"
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_bedroom_ac_unit_and_bathroom_baseline.jpg",
-                                    "alt": "Inside the back bedroom of Sea Breeze West Apartment 3 looking from the open hallway end toward the far-left corner: along the back exterior wall sit the through-wall box A/C unit on the right, the bedroom window with white horizontal mini-blinds in the center, and the queen bed pushed flush against the far corner wall in its new navy-and-slate-blue comforter set to leave wide wheelchair clearance in front of the bathroom entrance on the left interior wall, where the white bathroom door opens inward into the bathroom from the bedroom while twenty-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs"
+                                    "alt": "Inside the back bedroom of Sea Breeze West Apartment 3 looking from the open hallway end toward the far-left corner: along the back exterior wall sit the through-wall box A/C unit on the right, the bedroom window with white horizontal mini-blinds in the center, and the queen bed pushed flush against the far corner wall in its new navy-and-slate-blue comforter set to leave wide wheelchair clearance in front of the bathroom entrance on the left interior wall, where the white bathroom door opens inward into the bathroom from the bedroom while nineteen-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs"
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_dad_confronts_van_reclaimed_twin_apartment.jpg",
-                                    "alt": "Inside the combination living room and open kitchen of Sea Breeze West Apartment 3 as their father David Prairie steps in with cleaning spray and paper towels to help twenty-year-old twins Katie and Nate finish cleaning and unpack fresh groceries onto the L-shaped olive-green counters, with the 17-inch off-white CRT monitor running Quantum OS XN Pro and the 2004 tower with salvaged beige drives on the far-left dining table"
+                                    "alt": "Inside the combination living room and open kitchen of Sea Breeze West Apartment 3 as their father David Prairie steps in with cleaning spray and paper towels to help nineteen-year-old twins Katie and Nate finish cleaning and unpack fresh groceries onto the L-shaped olive-green counters, with the 17-inch off-white CRT monitor running Quantum OS XN Pro and the 2004 tower with salvaged beige drives on the far-left dining table"
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_hallway_and_left_closet_sanctuary_baseline.jpg",
