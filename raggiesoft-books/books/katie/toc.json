@@ -10,31 +10,31 @@
     "ebook_sizes": {
         "epub": "17.7 MB",
         "pdf": "18.6 MB",
-        "text_epub": "173 KB",
-        "text_pdf": "477 KB",
-        "package_7z": "135 KB",
-        "epub_bytes": 18568339,
-        "pdf_bytes": 19500416,
-        "text_epub_bytes": 176732,
-        "text_pdf_bytes": 488524,
-        "package_7z_bytes": 138601
+        "text_epub": "184 KB",
+        "text_pdf": "508 KB",
+        "package_7z": "144 KB",
+        "epub_bytes": 18579938,
+        "pdf_bytes": 19532499,
+        "text_epub_bytes": 188328,
+        "text_pdf_bytes": 520681,
+        "package_7z_bytes": 147139
     },
     "illustration_count": 37,
     "word_stats": {
-        "story_word_count": 71337,
+        "story_word_count": 76157,
         "lore_word_count": 121,
-        "combined_word_count": 71458,
-        "story_page_count": 259,
-        "combined_page_count": 260,
-        "reading_hours": 4.8,
-        "reading_minutes": 285,
+        "combined_word_count": 76278,
+        "story_page_count": 277,
+        "combined_page_count": 277,
+        "reading_hours": 5.1,
+        "reading_minutes": 305,
         "novel_equivalent": 0.8,
         "scale_category": "Full-Length Contemporary Novel",
         "scale_badge": "Full-Length Novel",
         "benchmark_note": "0.8\u00d7 a standard 90,000-word contemporary novel (70k\u2013110k trade benchmark)",
         "era_count": 6,
-        "chapter_count": 18,
-        "part_count": 34,
+        "chapter_count": 19,
+        "part_count": 36,
         "illustration_count": 37
     },
     "eras": [
@@ -581,7 +581,7 @@
             "era_title": "West Ocean View, Ideas for CVTA, & The Delegate from Virginia Beach",
             "era_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach",
             "illustration_count": 8,
-            "word_count": 26450,
+            "word_count": 31269,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -736,17 +736,50 @@
                 },
                 {
                     "chap_num": 4,
+                    "chap_title": "Freshman Session on West Broad Street & Riding JRTC Route 6 to the Capitol",
+                    "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach/freshman-session-on-west-broad-street-riding-jrtc-route-6-to-the-capitol",
+                    "illustration_count": 0,
+                    "word_count": 4780,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The West Broad Street Loft, Unpacking Our Shared Queen Bed, & Weekend Reconnaissance on JRTC Route 6",
+                            "file_path": "e005/c004/p001.md",
+                            "url": "/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach/freshman-session-on-west-broad-street-riding-jrtc-route-6-to-the-capitol/part-1-the-west-broad-street-loft-unpacking-our-shared-queen-bed-weekend-reconnaissance-on-jrtc-route-6",
+                            "word_count": 2056,
+                            "reading_minutes": 9,
+                            "date": "2014-01-03",
+                            "start_time": "14:15",
+                            "location": "Richmond, VA (Broad & Boulevard Lofts on West Broad Street & Willow Lawn)",
+                            "excerpt": "Five days before the 2014 Virginia General Assembly convenes for Freshman Delegate Katie Prairie's first legislative session, Nate, Katie, and their dad unpack their furnished one-bedroom apartment on West Broad Street\u2014spending the weekend buying regular 30-day JRTC bus passes and mapping out Route 6 between Willow Lawn and Capitol Square."
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Gold License Plates vs. JRTC Route 6, Turning Down the Parking Deck Pass, & The 60-Inch ADA Restroom Showdown",
+                            "file_path": "e005/c004/p002.md",
+                            "url": "/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach/freshman-session-on-west-broad-street-riding-jrtc-route-6-to-the-capitol/part-2-gold-license-plates-vs-jrtc-route-6-turning-down-the-parking-deck-pass-the-60-inch-ada-restroom-showdown",
+                            "word_count": 2724,
+                            "reading_minutes": 11,
+                            "date": "2014-01-06",
+                            "start_time": "08:15",
+                            "location": "Richmond, VA (Ninth & Broad Street, General Assembly Building, & Virginia State Capitol)",
+                            "excerpt": "Arriving for New Member Orientation on Monday morning, Freshman Delegate Katie Prairie and Nate shock veteran lawmakers and lobbyists by rolling down the front ramp of a JRTC Route 6 city bus at Ninth and Broad\u2014before turning down her legislative parking pass and forcing Capitol Facilities to fix the non-compliant restroom stalls before Opening Day."
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 5,
                     "chap_title": "House Bill 663",
                     "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach/house-bill-663",
                     "illustration_count": 0,
-                    "word_count": 5416,
+                    "word_count": 5455,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Line 18, The Third-Floor Public Gallery, & A Question on the House Floor",
-                            "file_path": "e005/c004/p001.md",
+                            "file_path": "e005/c005/p001.md",
                             "url": "/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach/house-bill-663/part-1-line-18-the-third-floor-public-gallery-a-question-on-the-house-floor",
-                            "word_count": 2848,
+                            "word_count": 2864,
                             "reading_minutes": 12,
                             "date": "2016-02-04",
                             "start_time": "11:35",
@@ -756,9 +789,9 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Thursday Evening at Six, Friday on Capitol Square, & Sunday Morning on Meet the Nation",
-                            "file_path": "e005/c004/p002.md",
+                            "file_path": "e005/c005/p002.md",
                             "url": "/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach/house-bill-663/part-2-thursday-evening-at-six-friday-on-capitol-square-sunday-morning-on-meet-the-nation",
-                            "word_count": 2568,
+                            "word_count": 2591,
                             "reading_minutes": 11,
                             "date": "2016-02-04",
                             "start_time": "18:00",
@@ -774,7 +807,7 @@
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 9,
-            "word_count": 14113,
+            "word_count": 14114,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -832,7 +865,7 @@
                     "chap_title": "The Minified ZIP File, The Raw HTML Takedown, & Resigning from Richmond",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/the-minified-zip-file-the-raw-html-takedown-resigning-from-richmond",
                     "illustration_count": 2,
-                    "word_count": 3704,
+                    "word_count": 3705,
                     "parts": [
                         {
                             "part_num": 1,
@@ -860,7 +893,7 @@
                             "part_title": "Part 2: Article IV Section 4, Hand-Delivering Her Resignation in Richmond, & The Writ of Special Election",
                             "file_path": "e006/c002/p002.md",
                             "url": "/katie/the-senator-from-virginia/the-minified-zip-file-the-raw-html-takedown-resigning-from-richmond/part-2-article-iv-section-4-hand-delivering-her-resignation-in-richmond-the-writ-of-special-election",
-                            "word_count": 1138,
+                            "word_count": 1139,
                             "reading_minutes": 5,
                             "date": "2026-12-15",
                             "start_time": "14:00",
