@@ -13,17 +13,17 @@
         "text_epub": "190 KB",
         "text_pdf": "527 KB",
         "package_7z": "148 KB",
-        "epub_bytes": 18586604,
-        "pdf_bytes": 19551321,
-        "text_epub_bytes": 195000,
-        "text_pdf_bytes": 539440,
-        "package_7z_bytes": 151971
+        "epub_bytes": 18586603,
+        "pdf_bytes": 19551306,
+        "text_epub_bytes": 194995,
+        "text_pdf_bytes": 539421,
+        "package_7z_bytes": 151947
     },
     "illustration_count": 37,
     "word_stats": {
-        "story_word_count": 79143,
+        "story_word_count": 79142,
         "lore_word_count": 121,
-        "combined_word_count": 79264,
+        "combined_word_count": 79263,
         "story_page_count": 288,
         "combined_page_count": 288,
         "reading_hours": 5.3,
@@ -581,7 +581,7 @@
             "era_title": "West Ocean View, Ideas for CVTA, & The Delegate from Virginia Beach",
             "era_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach",
             "illustration_count": 8,
-            "word_count": 34255,
+            "word_count": 34254,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -751,7 +751,7 @@
                     "chap_title": "Freshman Session on West Broad Street & Riding JRTC Route 6 to the Capitol",
                     "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach/freshman-session-on-west-broad-street-riding-jrtc-route-6-to-the-capitol",
                     "illustration_count": 0,
-                    "word_count": 5180,
+                    "word_count": 5179,
                     "parts": [
                         {
                             "part_num": 1,
@@ -762,15 +762,15 @@
                             "reading_minutes": 10,
                             "date": "2014-01-03",
                             "start_time": "14:15",
-                            "location": "Richmond, VA (Broad & Boulevard Lofts on West Broad Street & Willow Lawn)",
-                            "excerpt": "Five days before the 2014 Virginia General Assembly convenes for Freshman Delegate Katie Prairie's first legislative session, Nate, Katie, and their dad unpack their furnished one-bedroom apartment on West Broad Street\u2014spending the weekend buying regular 30-day JRTC bus passes and mapping out Route 6 between Willow Lawn and Capitol Square."
+                            "location": "Richmond, VA (Broad & Boulevard Lofts on West Broad Street & Oak Lawn)",
+                            "excerpt": "Five days before the 2014 Virginia General Assembly convenes for Freshman Delegate Katie Prairie's first legislative session, Nate, Katie, and their dad unpack their furnished one-bedroom apartment on West Broad Street\u2014spending the weekend buying regular 30-day JRTC bus passes and mapping out Route 6 between Oak Lawn and Capitol Square."
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Gold License Plates vs. JRTC Route 6, Turning Down the Parking Deck Pass, & The 60-Inch ADA Restroom Showdown",
                             "file_path": "e005/c004/p002.md",
                             "url": "/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach/freshman-session-on-west-broad-street-riding-jrtc-route-6-to-the-capitol/part-2-gold-license-plates-vs-jrtc-route-6-turning-down-the-parking-deck-pass-the-60-inch-ada-restroom-showdown",
-                            "word_count": 2842,
+                            "word_count": 2841,
                             "reading_minutes": 12,
                             "date": "2014-01-06",
                             "start_time": "08:15",
