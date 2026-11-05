@@ -10,24 +10,24 @@
     "ebook_sizes": {
         "epub": "17.7 MB",
         "pdf": "18.6 MB",
-        "text_epub": "169 KB",
-        "text_pdf": "464 KB",
-        "package_7z": "132 KB",
-        "epub_bytes": 18564546,
-        "pdf_bytes": 19487689,
-        "text_epub_bytes": 172946,
-        "text_pdf_bytes": 475167,
-        "package_7z_bytes": 135632
+        "text_epub": "170 KB",
+        "text_pdf": "468 KB",
+        "package_7z": "133 KB",
+        "epub_bytes": 18565695,
+        "pdf_bytes": 19491121,
+        "text_epub_bytes": 174093,
+        "text_pdf_bytes": 478779,
+        "package_7z_bytes": 136530
     },
     "illustration_count": 37,
     "word_stats": {
-        "story_word_count": 69322,
+        "story_word_count": 69943,
         "lore_word_count": 121,
-        "combined_word_count": 69443,
-        "story_page_count": 252,
-        "combined_page_count": 253,
-        "reading_hours": 4.6,
-        "reading_minutes": 277,
+        "combined_word_count": 70064,
+        "story_page_count": 254,
+        "combined_page_count": 255,
+        "reading_hours": 4.7,
+        "reading_minutes": 280,
         "novel_equivalent": 0.8,
         "scale_category": "Compact Novel",
         "scale_badge": "Compact Novel",
@@ -581,7 +581,7 @@
             "era_title": "West Ocean View, Ideas for CVTA, & The Delegate from Virginia Beach",
             "era_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach",
             "illustration_count": 8,
-            "word_count": 24436,
+            "word_count": 25057,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -739,19 +739,19 @@
                     "chap_title": "House Bill 663 & The Speech That Broke the Internet",
                     "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach/house-bill-663-the-speech-that-broke-the-internet",
                     "illustration_count": 0,
-                    "word_count": 3390,
+                    "word_count": 4011,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Pull My Pants Down to Prove I'm Female? Delegate Katie Prairie & The 24-Hour Viral Firestorm in Richmond",
+                            "part_title": "Pull My Pants Down to Prove I'm Female? From Local Evening News to Meet the Nation",
                             "file_path": "e005/c004/p001.md",
-                            "url": "/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach/house-bill-663-the-speech-that-broke-the-internet/pull-my-pants-down-to-prove-i-m-female-delegate-katie-prairie-the-24-hour-viral-firestorm-in-richmond",
-                            "word_count": 3390,
-                            "reading_minutes": 14,
+                            "url": "/katie/west-ocean-view-ideas-for-cvta-the-delegate-from-virginia-beach/house-bill-663-the-speech-that-broke-the-internet/pull-my-pants-down-to-prove-i-m-female-from-local-evening-news-to-meet-the-nation",
+                            "word_count": 4011,
+                            "reading_minutes": 17,
                             "date": "2016-02-04",
                             "start_time": "08:00",
-                            "location": "Richmond, VA (General Assembly Building Subcommittee Room & Virginia State Capitol)",
-                            "excerpt": "Inside a cramped early-morning House General Laws Subcommittee hearing in Richmond, thirty-year-old State Delegate Katie Prairie dismantles the HB 663 'anatomical sex' bathroom bill\u2014igniting an unexpected coast-to-coast viral firestorm within hours that forces the subcommittee to table its own bill."
+                            "location": "Richmond, VA (General Assembly Building Subcommittee Room, Capitol Square, & GBS Richmond Studio)",
+                            "excerpt": "Inside a cramped early-morning House General Laws Subcommittee hearing in Richmond, thirty-year-old State Delegate Katie Prairie dismantles the HB 663 'anatomical sex' bathroom bill\u2014building from Thursday's Richmond and Norfolk evening news and Friday's local TV interviews into a live Sunday morning appearance on Meet the Nation that forces the subcommittee to table its own bill."
                         }
                     ]
                 }
