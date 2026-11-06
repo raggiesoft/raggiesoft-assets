@@ -11,19 +11,19 @@
         "epub": "17.8 MB",
         "pdf": "18.7 MB",
         "text_epub": "219 KB",
-        "text_pdf": "607 KB",
+        "text_pdf": "608 KB",
         "package_7z": "169 KB",
-        "epub_bytes": 18616273,
-        "pdf_bytes": 19634736,
-        "text_epub_bytes": 224569,
-        "text_pdf_bytes": 621909,
-        "package_7z_bytes": 173159
+        "epub_bytes": 18616338,
+        "pdf_bytes": 19634570,
+        "text_epub_bytes": 224638,
+        "text_pdf_bytes": 622109,
+        "package_7z_bytes": 173240
     },
     "illustration_count": 39,
     "word_stats": {
-        "story_word_count": 91915,
+        "story_word_count": 91949,
         "lore_word_count": 121,
-        "combined_word_count": 92036,
+        "combined_word_count": 92070,
         "story_page_count": 334,
         "combined_page_count": 335,
         "reading_hours": 6.1,
@@ -521,7 +521,7 @@
             "era_title": "Seventeen, Senior Year, & Greenway Court",
             "era_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court",
             "illustration_count": 4,
-            "word_count": 6874,
+            "word_count": 6908,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -579,14 +579,14 @@
                     "chap_title": "Greenway Court, Apartment A6 & The Square Closet Sanctuary",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary",
                     "illustration_count": 2,
-                    "word_count": 3013,
+                    "word_count": 3047,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Apartment A6 on Greenway Court, Dad's Microwave Cart, & Across-the-Hall Neighbors",
                             "file_path": "e004/c002/p001.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary/part-1-apartment-a6-on-greenway-court-dad-s-microwave-cart-across-the-hall-neighbors",
-                            "word_count": 1612,
+                            "word_count": 1646,
                             "reading_minutes": 7,
                             "date": "2003-07-16",
                             "start_time": "07:40",
