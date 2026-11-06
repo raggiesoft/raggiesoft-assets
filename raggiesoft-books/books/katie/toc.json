@@ -10,24 +10,24 @@
     "ebook_sizes": {
         "epub": "17.8 MB",
         "pdf": "18.8 MB",
-        "text_epub": "261 KB",
-        "text_pdf": "726 KB",
-        "package_7z": "200 KB",
-        "epub_bytes": 18659575,
-        "pdf_bytes": 19757802,
-        "text_epub_bytes": 267608,
-        "text_pdf_bytes": 743451,
-        "package_7z_bytes": 204906
+        "text_epub": "262 KB",
+        "text_pdf": "728 KB",
+        "package_7z": "201 KB",
+        "epub_bytes": 18660367,
+        "pdf_bytes": 19759616,
+        "text_epub_bytes": 268432,
+        "text_pdf_bytes": 745916,
+        "package_7z_bytes": 205527
     },
     "illustration_count": 41,
     "word_stats": {
-        "story_word_count": 110847,
+        "story_word_count": 111222,
         "lore_word_count": 121,
-        "combined_word_count": 110968,
-        "story_page_count": 403,
-        "combined_page_count": 404,
+        "combined_word_count": 111343,
+        "story_page_count": 404,
+        "combined_page_count": 405,
         "reading_hours": 7.4,
-        "reading_minutes": 443,
+        "reading_minutes": 445,
         "novel_equivalent": 1.2,
         "scale_category": "Epic Full-Length Novel",
         "scale_badge": "Epic Novel",
@@ -695,14 +695,14 @@
             "era_title": "West Ocean View, Ideas for CVTA, & From City Council to the Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia",
             "illustration_count": 8,
-            "word_count": 57950,
+            "word_count": 58325,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Ocean View Station, Dirty Old Tonomy Hill, & Katie's Move to Williamsburg",
                     "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/ocean-view-station-dirty-old-tonomy-hill-katie-s-move-to-williamsburg",
                     "illustration_count": 1,
-                    "word_count": 7739,
+                    "word_count": 8114,
                     "parts": [
                         {
                             "part_num": 1,
@@ -739,27 +739,27 @@
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: The Worst Christmas Ever: Pathfinder to Newport, Dirty Old Tonomy Hill, & Chelsea's Christmas Eve Nightmare",
+                            "part_title": "Part 3: Patience at Katie's Pace, Winning Over Nate and Dad, & Katie's Move to Williamsburg",
                             "file_path": "e005/c001/p003.md",
-                            "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/ocean-view-station-dirty-old-tonomy-hill-katie-s-move-to-williamsburg/part-3-the-worst-christmas-ever-pathfinder-to-newport-dirty-old-tonomy-hill-chelsea-s-christmas-eve-nightmare",
-                            "word_count": 2111,
-                            "reading_minutes": 9,
-                            "date": "2004-12-24",
-                            "start_time": "15:30",
-                            "location": "Newport, RI (Tonomy Hill Apartments & Newport Gateway Center)",
-                            "excerpt": "After riding Pathfinder buses through ten Northeast cities and transferring onto OSTA Route 63 up to Newport's World War II-era Tonomy Hill public housing apartments for Cousin Chelsea's first Christmas without her mother Aunt Liz, nineteen-year-old Nathaniel faces Tiffany Sloan's cruel jealousy."
+                            "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/ocean-view-station-dirty-old-tonomy-hill-katie-s-move-to-williamsburg/part-3-patience-at-katie-s-pace-winning-over-nate-and-dad-katie-s-move-to-williamsburg",
+                            "word_count": 1681,
+                            "reading_minutes": 7,
+                            "date": "2004-11-20",
+                            "start_time": "14:00",
+                            "location": "Norfolk, VA (Greenway Court, Apartment A6 \u2014 West Ghent)",
+                            "excerpt": "After two months of patiently visiting Norfolk every weekend at Katie's pace and winning the trust of Katie, Nate, and their father David, Brandon Mercer gently convinces a lonely Katie to move out of Apartment A6 into his ground-floor apartment on Virginia Avenue in Williamsburg right before the holidays."
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: Five Months of Patience, Winning Over Nate and Dad, & Katie's Move to Williamsburg",
+                            "part_title": "Part 4: The Worst Christmas Ever: Eighteen Stops to Dirty Old Tonomy Hill, Four Days with Cousin Chelsea, & The West Main Road Shortcut Home",
                             "file_path": "e005/c001/p004.md",
-                            "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/ocean-view-station-dirty-old-tonomy-hill-katie-s-move-to-williamsburg/part-4-five-months-of-patience-winning-over-nate-and-dad-katie-s-move-to-williamsburg",
-                            "word_count": 1710,
-                            "reading_minutes": 7,
-                            "date": "2005-02-05",
-                            "start_time": "14:00",
-                            "location": "Norfolk, VA (Greenway Court, Apartment A6 \u2014 West Ghent)",
-                            "excerpt": "After five months of patiently visiting Norfolk every weekend at Katie's pace and winning the trust of Katie, Nate, and their father David, Brandon Mercer gently convinces a lonely Katie to move out of Apartment A6 into his ground-floor apartment on Virginia Avenue in Williamsburg."
+                            "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/ocean-view-station-dirty-old-tonomy-hill-katie-s-move-to-williamsburg/part-4-the-worst-christmas-ever-eighteen-stops-to-dirty-old-tonomy-hill-four-days-with-cousin-chelsea-the-west-main-road-shortcut-home",
+                            "word_count": 2515,
+                            "reading_minutes": 11,
+                            "date": "2004-12-24",
+                            "start_time": "15:30",
+                            "location": "Newport, RI (Tonomy Hill Apartments) & Interstate 95 / Interstate 64 South",
+                            "excerpt": "After an eighteen-stop northbound Pathfinder and OSTA bus haul to Newport's World War II-era Tonomy Hill public housing apartments for Cousin Chelsea's first Christmas without Aunt Liz, nineteen-year-old Nathaniel endures four days of Tiffany Sloan's cruel jealousy before riding OSTA Route 60 and Pathfinder back to Virginia."
                         }
                     ]
                 },
