@@ -8,16 +8,16 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "22.1 MB",
-        "pdf": "23.8 MB",
+        "epub": "22 MB",
+        "pdf": "23.7 MB",
         "text_epub": "262 KB",
         "text_pdf": "729 KB",
         "package_7z": "201 KB",
-        "epub_bytes": 23197709,
-        "pdf_bytes": 24949188,
-        "text_epub_bytes": 268444,
+        "epub_bytes": 23116715,
+        "pdf_bytes": 24867502,
+        "text_epub_bytes": 268440,
         "text_pdf_bytes": 745991,
-        "package_7z_bytes": 205809
+        "package_7z_bytes": 205821
     },
     "illustration_count": 38,
     "word_stats": {
@@ -605,11 +605,11 @@
                             "location": "Norfolk, VA (Greenway Court, Apartment A6 & Downtown Norfolk)",
                             "excerpt": "When their estranged mother Brenda slips into the first-floor back alley behind the exterior iron stairs at Greenway Court looking for their window, eighteen-year-old Katie and Nate hide inside the dark square closet in their shared sleeping bag and fall fast asleep\u2014discovering the deep-pressure closet sanctuary that anchors their happy year together in Apartment A6.",
                             "image": "/raggiesoft-books/images/scenes/katie/b004/aug_2003_greenway_court_apt_a6_square_closet_sleeping_bag_sanctuary.jpg",
-                            "image_alt": "Inside the square walk-in closet of Apartment A6 at Greenway Court in August 2003, eighteen-year-old fraternal twins Nathaniel and Katie Prairie in modest long-sleeved shirts and plaid pajama pants rest peacefully side by side inside their shared navy-blue double sleeping bag on the carpeted closet floor holding hands",
+                            "image_alt": "Inside the compact square closet of Apartment A6 at Greenway Court in August 2003, eighteen-year-old fraternal twins Nathaniel and Katie Prairie in modest long-sleeved shirts are cuddled up close together inside their single shared navy-blue sleeping bag on the carpeted closet floor",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b004/aug_2003_greenway_court_apt_a6_square_closet_sleeping_bag_sanctuary.jpg",
-                                    "alt": "Inside the square walk-in closet of Apartment A6 at Greenway Court in August 2003, eighteen-year-old fraternal twins Nathaniel and Katie Prairie in modest long-sleeved shirts and plaid pajama pants rest peacefully side by side inside their shared navy-blue double sleeping bag on the carpeted closet floor holding hands"
+                                    "alt": "Inside the compact square closet of Apartment A6 at Greenway Court in August 2003, eighteen-year-old fraternal twins Nathaniel and Katie Prairie in modest long-sleeved shirts are cuddled up close together inside their single shared navy-blue sleeping bag on the carpeted closet floor"
                                 }
                             ],
                             "image_count": 1
