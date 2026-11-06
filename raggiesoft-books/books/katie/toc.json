@@ -11,13 +11,13 @@
         "epub": "22.1 MB",
         "pdf": "23.8 MB",
         "text_epub": "262 KB",
-        "text_pdf": "728 KB",
+        "text_pdf": "729 KB",
         "package_7z": "201 KB",
-        "epub_bytes": 23197675,
-        "pdf_bytes": 24949081,
-        "text_epub_bytes": 268432,
-        "text_pdf_bytes": 745916,
-        "package_7z_bytes": 205935
+        "epub_bytes": 23197709,
+        "pdf_bytes": 24949188,
+        "text_epub_bytes": 268444,
+        "text_pdf_bytes": 745991,
+        "package_7z_bytes": 205809
     },
     "illustration_count": 38,
     "word_stats": {
@@ -424,14 +424,14 @@
                             "reading_minutes": 14,
                             "date": "2001-09-14",
                             "start_time": "13:15",
-                            "location": "Virginia Beach, VA (Northwood High School, Bayside General Hospital ER, & Dr. Evelyn Chen's Consultation)",
+                            "location": "Virginia Beach, VA (Northwood High School, Bayside General Hospital ER, & Dr. Evelyn Carter's Consultation)",
                             "excerpt": "Forty-five minutes before Friday's 2:00 PM dismissal for their 3:00 PM doctor's appointment, Nathaniel and Katie's legs finally give out for good at Northwood High School\u2014triggering an Emergency Room escalation after both twins collapse a second time, hit their heads on the floor, and immediately reach out to hold hands.",
-                            "image": "/raggiesoft-books/images/scenes/katie/b003/sep_2001_dr_chen_prognosis_arms_legs_consultation.jpg",
-                            "image_alt": "Inside a bright Bayside General Hospital Emergency Room double bay in Virginia Beach in September 2001, sixteen-year-old fraternal twins Nathaniel and Katie Prairie sit upright side by side on two adjacent ER beds holding hands beside their father David Prairie while their family doctor reviews their neuromuscular test results and prescribes their power wheelchairs",
+                            "image": "/raggiesoft-books/images/scenes/katie/b003/sep_2001_dr_carter_prognosis_arms_legs_consultation.jpg",
+                            "image_alt": "Inside a bright Bayside General Hospital Emergency Room double bay in Virginia Beach in September 2001, sixteen-year-old fraternal twins Nathaniel and Katie Prairie sit upright side by side on two adjacent ER beds holding hands beside their father David Prairie while their family doctor Dr. Evelyn Carter reviews their neuromuscular test results and prescribes their power wheelchairs",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b003/sep_2001_dr_chen_prognosis_arms_legs_consultation.jpg",
-                                    "alt": "Inside a bright Bayside General Hospital Emergency Room double bay in Virginia Beach in September 2001, sixteen-year-old fraternal twins Nathaniel and Katie Prairie sit upright side by side on two adjacent ER beds holding hands beside their father David Prairie while their family doctor reviews their neuromuscular test results and prescribes their power wheelchairs"
+                                    "src": "/raggiesoft-books/images/scenes/katie/b003/sep_2001_dr_carter_prognosis_arms_legs_consultation.jpg",
+                                    "alt": "Inside a bright Bayside General Hospital Emergency Room double bay in Virginia Beach in September 2001, sixteen-year-old fraternal twins Nathaniel and Katie Prairie sit upright side by side on two adjacent ER beds holding hands beside their father David Prairie while their family doctor Dr. Evelyn Carter reviews their neuromuscular test results and prescribes their power wheelchairs"
                                 }
                             ],
                             "image_count": 1
