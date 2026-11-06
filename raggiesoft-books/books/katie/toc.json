@@ -10,31 +10,31 @@
     "ebook_sizes": {
         "epub": "17.8 MB",
         "pdf": "18.8 MB",
-        "text_epub": "245 KB",
-        "text_pdf": "682 KB",
-        "package_7z": "188 KB",
-        "epub_bytes": 18642964,
-        "pdf_bytes": 19711967,
-        "text_epub_bytes": 251111,
-        "text_pdf_bytes": 698041,
-        "package_7z_bytes": 193002
+        "text_epub": "256 KB",
+        "text_pdf": "712 KB",
+        "package_7z": "196 KB",
+        "epub_bytes": 18653904,
+        "pdf_bytes": 19742872,
+        "text_epub_bytes": 262050,
+        "text_pdf_bytes": 729222,
+        "package_7z_bytes": 200669
     },
     "illustration_count": 41,
     "word_stats": {
-        "story_word_count": 103500,
+        "story_word_count": 108443,
         "lore_word_count": 121,
-        "combined_word_count": 103621,
-        "story_page_count": 376,
-        "combined_page_count": 377,
-        "reading_hours": 6.9,
-        "reading_minutes": 414,
+        "combined_word_count": 108564,
+        "story_page_count": 394,
+        "combined_page_count": 395,
+        "reading_hours": 7.2,
+        "reading_minutes": 434,
         "novel_equivalent": 1.2,
         "scale_category": "Full-Length Contemporary Novel",
         "scale_badge": "Full-Length Novel",
         "benchmark_note": "1.2\u00d7 a standard 90,000-word contemporary novel (70k\u2013110k trade benchmark)",
         "era_count": 6,
         "chapter_count": 22,
-        "part_count": 47,
+        "part_count": 50,
         "illustration_count": 41
     },
     "eras": [
@@ -521,7 +521,7 @@
             "era_title": "Seventeen, Senior Year, & Greenway Court",
             "era_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court",
             "illustration_count": 6,
-            "word_count": 10576,
+            "word_count": 11844,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -630,7 +630,7 @@
                     "chap_title": "The Admiral Center Bookstore & Meeting Tiffany",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/the-admiral-center-bookstore-meeting-tiffany",
                     "illustration_count": 2,
-                    "word_count": 3668,
+                    "word_count": 4936,
                     "parts": [
                         {
                             "part_num": 1,
@@ -673,6 +673,18 @@
                                 }
                             ],
                             "image_count": 1
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Tiffany's Pitch for Our Own Place in Ocean View & The Promise of Brother-and-Sister Weekends",
+                            "file_path": "e004/c003/p003.md",
+                            "url": "/katie/seventeen-senior-year-greenway-court/the-admiral-center-bookstore-meeting-tiffany/part-3-tiffany-s-pitch-for-our-own-place-in-ocean-view-the-promise-of-brother-and-sister-weekends",
+                            "word_count": 1268,
+                            "reading_minutes": 6,
+                            "date": "2004-08-14",
+                            "start_time": "14:30",
+                            "location": "Norfolk, VA (Greenway Court, Apartment A6 \u2014 West Ghent)",
+                            "excerpt": "After three idyllic summer months of dating Nate, Tiffany Sloan gently convinces Nate and Katie that she and Nate should move into a ground-floor one-bedroom apartment at Sea Breeze West in West Ocean View\u2014promising that Katie is only one Route 1 bus ride away and that the twins will still have Brother-and-Sister Weekends together."
                         }
                     ]
                 }
@@ -683,20 +695,20 @@
             "era_title": "West Ocean View, Ideas for CVTA, & From City Council to the Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia",
             "illustration_count": 8,
-            "word_count": 51871,
+            "word_count": 55546,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "My Brother Only & The Speak Now Vow",
-                    "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/my-brother-only-the-speak-now-vow",
+                    "chap_title": "Ocean View Station, Speak Now or Forever Hold Your Peace, & Katie's Move to Williamsburg",
+                    "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/ocean-view-station-speak-now-or-forever-hold-your-peace-katie-s-move-to-williamsburg",
                     "illustration_count": 1,
-                    "word_count": 1688,
+                    "word_count": 5335,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Ocean View Station, The Green Sofa Confrontation, & Speak Now or Forever Hold Your Peace",
+                            "part_title": "Part 1: Ocean View Station, The Green Sofa Confrontation, & Speak Now or Forever Hold Your Peace",
                             "file_path": "e005/c001/p001.md",
-                            "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/my-brother-only-the-speak-now-vow/ocean-view-station-the-green-sofa-confrontation-speak-now-or-forever-hold-your-peace",
+                            "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/ocean-view-station-speak-now-or-forever-hold-your-peace-katie-s-move-to-williamsburg/part-1-ocean-view-station-the-green-sofa-confrontation-speak-now-or-forever-hold-your-peace",
                             "word_count": 1688,
                             "reading_minutes": 7,
                             "date": "2004-09-18",
@@ -712,6 +724,30 @@
                                 }
                             ],
                             "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Riding Route 1 Back to West Ghent, Meeting Brandon Mercer at The Admiral Center, & Taking Things Slow",
+                            "file_path": "e005/c001/p002.md",
+                            "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/ocean-view-station-speak-now-or-forever-hold-your-peace-katie-s-move-to-williamsburg/part-2-riding-route-1-back-to-west-ghent-meeting-brandon-mercer-at-the-admiral-center-taking-things-slow",
+                            "word_count": 2230,
+                            "reading_minutes": 9,
+                            "date": "2004-09-19",
+                            "start_time": "13:15",
+                            "location": "Norfolk, VA (Greenway Court, Apartment A6 & The Admiral Center in Ghent)",
+                            "excerpt": "Riding the Route 1 bus down from Ocean View on Sunday afternoon to apologize to Katie for their ruined Brother-and-Sister Weekend, Nate finds his twin sister at The Admiral Center talking with twenty-two-year-old Williamsburg visitor Brandon Mercer\u2014who presents himself as a total gentleman, assumes last night wasn't Nate's fault, and respects Katie's wish to get to know him slowly."
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Five Months of Patience, Winning Over Nate and Dad, & Katie's Move to Williamsburg",
+                            "file_path": "e005/c001/p003.md",
+                            "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/ocean-view-station-speak-now-or-forever-hold-your-peace-katie-s-move-to-williamsburg/part-3-five-months-of-patience-winning-over-nate-and-dad-katie-s-move-to-williamsburg",
+                            "word_count": 1417,
+                            "reading_minutes": 6,
+                            "date": "2005-02-05",
+                            "start_time": "14:00",
+                            "location": "Norfolk, VA (Greenway Court, Apartment A6 \u2014 West Ghent)",
+                            "excerpt": "After five months of patiently visiting Norfolk every weekend at Katie's pace and winning the trust of Katie, Nate, and their father David, Brandon Mercer gently convinces a lonely Katie to move out of Apartment A6 into his ground-floor apartment on Virginia Avenue in Williamsburg."
                         }
                     ]
                 },
@@ -820,7 +856,7 @@
                     "chap_title": "Do Better: The Four-Bus Loop, Kempsville City Council, & The Path to the 85th House District",
                     "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/do-better-the-four-bus-loop-kempsville-city-council-the-path-to-the-85th-house-district",
                     "illustration_count": 0,
-                    "word_count": 19044,
+                    "word_count": 19072,
                     "parts": [
                         {
                             "part_num": 1,
@@ -848,27 +884,27 @@
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: The Empty Podium on WHRO TV-15, The 8:24 PM Three-Bus Sprint Home, & The Front-Page Metro Headline",
+                            "part_title": "Part 3: The Empty Podium on WHRC TV-15, The 8:24 PM Three-Bus Sprint Home, & The Front-Page Metro Headline",
                             "file_path": "e005/c003/p003.md",
-                            "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/do-better-the-four-bus-loop-kempsville-city-council-the-path-to-the-85th-house-district/part-3-the-empty-podium-on-whro-tv-15-the-8-24-pm-three-bus-sprint-home-the-front-page-metro-headline",
-                            "word_count": 3565,
+                            "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/do-better-the-four-bus-loop-kempsville-city-council-the-path-to-the-85th-house-district/part-3-the-empty-podium-on-whrc-tv-15-the-8-24-pm-three-bus-sprint-home-the-front-page-metro-headline",
+                            "word_count": 3573,
                             "reading_minutes": 15,
                             "date": "2010-10-14",
                             "start_time": "19:28",
-                            "location": "Norfolk & Virginia Beach, VA (WHRO TV-15 Studios on Hampton Boulevard, CVTA Routes 2/20/15, & Lord Nelson Drive)",
-                            "excerpt": "When incumbent Councilman Harold Dietz fails to RSVP for the live WHRO TV-15 debate, twenty-five-year-old Katie commands the studio broadcast beside his brightly lit empty mahogany podium\u2014and then stunned Tidewater Pilot reporter Greg Mercer sprints across six lanes of Hampton Boulevard with Katie and Nate as they race to catch the 8:24 PM Route 2 bus home."
+                            "location": "Norfolk & Virginia Beach, VA (WHRC TV-15 Studios on Hampton Boulevard, CVTA Routes 2/20/15, & Lord Nelson Drive)",
+                            "excerpt": "When incumbent Councilman Harold Dietz fails to RSVP for the live WHRC TV-15 debate, twenty-five-year-old Katie commands the studio broadcast beside his brightly lit empty mahogany podium\u2014and then stunned Tidewater Pilot reporter Greg Mercer sprints across six lanes of Hampton Boulevard with Katie and Nate as they race to catch the 8:24 PM Route 2 bus home."
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: The WNIS 790 AM Disability Attack, The 94.1% Landslide, & The Eighteenth Street Reckoning",
+                            "part_title": "Part 4: The WTGA 790 AM Disability Attack, The 94.1% Landslide, & The Eighteenth Street Reckoning",
                             "file_path": "e005/c003/p004.md",
-                            "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/do-better-the-four-bus-loop-kempsville-city-council-the-path-to-the-85th-house-district/part-4-the-wnis-790-am-disability-attack-the-94-1-landslide-the-eighteenth-street-reckoning",
-                            "word_count": 4083,
+                            "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/do-better-the-four-bus-loop-kempsville-city-council-the-path-to-the-85th-house-district/part-4-the-wtga-790-am-disability-attack-the-94-1-landslide-the-eighteenth-street-reckoning",
+                            "word_count": 4103,
                             "reading_minutes": 17,
                             "date": "2010-10-28",
                             "start_time": "08:15",
                             "location": "Virginia Beach & Norfolk, VA (Lord Nelson Drive in Kempsville, Virginia Beach Municipal Center Building 1, & 509 E. 18th Street)",
-                            "excerpt": "Five days before the election, a desperate Councilman Harold Dietz calls into conservative talk radio WNIS 790 AM to attack Katie's wheelchair and question the taxpayer cost of a City Hall dais ramp\u2014triggering a nuclear backlash across Hampton Roads, an unprecedented 94.1% to 5.9% Election Night landslide, and a historic reckoning for CVTA's executive suite."
+                            "excerpt": "Five days before the election, a desperate Councilman Harold Dietz calls into conservative talk radio WTGA 790 AM to attack Katie's wheelchair and question the taxpayer cost of a City Hall dais ramp\u2014triggering a nuclear backlash across Hampton Roads, an unprecedented 94.1% to 5.9% Election Night landslide, and a historic reckoning for CVTA's executive suite."
                         },
                         {
                             "part_num": 5,
