@@ -10,24 +10,24 @@
     "ebook_sizes": {
         "epub": "17.8 MB",
         "pdf": "18.7 MB",
-        "text_epub": "227 KB",
+        "text_epub": "228 KB",
         "text_pdf": "631 KB",
         "package_7z": "175 KB",
-        "epub_bytes": 18624802,
-        "pdf_bytes": 19659755,
-        "text_epub_bytes": 232956,
-        "text_pdf_bytes": 646188,
-        "package_7z_bytes": 179487
+        "epub_bytes": 18624905,
+        "pdf_bytes": 19659985,
+        "text_epub_bytes": 233052,
+        "text_pdf_bytes": 646363,
+        "package_7z_bytes": 179543
     },
     "illustration_count": 41,
     "word_stats": {
-        "story_word_count": 95601,
+        "story_word_count": 95645,
         "lore_word_count": 121,
-        "combined_word_count": 95722,
+        "combined_word_count": 95766,
         "story_page_count": 348,
         "combined_page_count": 348,
         "reading_hours": 6.4,
-        "reading_minutes": 382,
+        "reading_minutes": 383,
         "novel_equivalent": 1.1,
         "scale_category": "Full-Length Contemporary Novel",
         "scale_badge": "Full-Length Novel",
@@ -521,7 +521,7 @@
             "era_title": "Seventeen, Senior Year, & Greenway Court",
             "era_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court",
             "illustration_count": 6,
-            "word_count": 10560,
+            "word_count": 10576,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -630,7 +630,7 @@
                     "chap_title": "The Admiral Center Bookstore & Meeting Tiffany",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/the-admiral-center-bookstore-meeting-tiffany",
                     "illustration_count": 2,
-                    "word_count": 3652,
+                    "word_count": 3668,
                     "parts": [
                         {
                             "part_num": 1,
@@ -658,7 +658,7 @@
                             "part_title": "Part 2: Saturday Pizza in Apartment A6 & Katie's Wholehearted Blessing",
                             "file_path": "e004/c003/p002.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/the-admiral-center-bookstore-meeting-tiffany/part-2-saturday-pizza-in-apartment-a6-katie-s-wholehearted-blessing",
-                            "word_count": 1233,
+                            "word_count": 1249,
                             "reading_minutes": 5,
                             "date": "2004-05-15",
                             "start_time": "13:00",
@@ -683,7 +683,7 @@
             "era_title": "West Ocean View, Ideas for CVTA, & From City Council to the Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia",
             "illustration_count": 8,
-            "word_count": 44014,
+            "word_count": 44016,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -820,14 +820,14 @@
                     "chap_title": "Do Better: The Four-Bus Loop, Kempsville City Council, & The Path to the 85th House District",
                     "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/do-better-the-four-bus-loop-kempsville-city-council-the-path-to-the-85th-house-district",
                     "illustration_count": 0,
-                    "word_count": 11187,
+                    "word_count": 11189,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Does the Bus Run? Calling Out CVTA's Complacency & The 2008 Regional Mayoral Challenge",
                             "file_path": "e005/c003/p001.md",
                             "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/do-better-the-four-bus-loop-kempsville-city-council-the-path-to-the-85th-house-district/part-1-does-the-bus-run-calling-out-cvta-s-complacency-the-2008-regional-mayoral-challenge",
-                            "word_count": 3606,
+                            "word_count": 3608,
                             "reading_minutes": 15,
                             "date": "2008-04-14",
                             "start_time": "13:30",
@@ -978,14 +978,14 @@
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 9,
-            "word_count": 14114,
+            "word_count": 14140,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Election Night, The Decision Desk Call, & The Referendum Mandate",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate",
                     "illustration_count": 2,
-                    "word_count": 3886,
+                    "word_count": 3912,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1013,7 +1013,7 @@
                             "part_title": "Part 2: The Morning After in Kempsville, The School Tax Referendum, & Jess's Open Letter on The Grid",
                             "file_path": "e006/c001/p002.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-2-the-morning-after-in-kempsville-the-school-tax-referendum-jess-s-open-letter-on-the-grid",
-                            "word_count": 1656,
+                            "word_count": 1682,
                             "reading_minutes": 7,
                             "date": "2026-11-04",
                             "start_time": "08:30",
