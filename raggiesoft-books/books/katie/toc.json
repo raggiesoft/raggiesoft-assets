@@ -10,31 +10,31 @@
     "ebook_sizes": {
         "epub": "21.3 MB",
         "pdf": "10 MB",
-        "text_epub": "336 KB",
-        "text_pdf": "914 KB",
-        "package_7z": "255 KB",
-        "epub_bytes": 22319832,
-        "pdf_bytes": 10480397,
-        "text_epub_bytes": 344366,
-        "text_pdf_bytes": 936192,
-        "package_7z_bytes": 261142
+        "text_epub": "356 KB",
+        "text_pdf": "965 KB",
+        "package_7z": "268 KB",
+        "epub_bytes": 22340424,
+        "pdf_bytes": 10531931,
+        "text_epub_bytes": 364963,
+        "text_pdf_bytes": 988554,
+        "package_7z_bytes": 274899
     },
     "illustration_count": 80,
     "word_stats": {
-        "story_word_count": 141968,
+        "story_word_count": 150269,
         "lore_word_count": 121,
-        "combined_word_count": 142089,
-        "story_page_count": 516,
-        "combined_page_count": 517,
-        "reading_hours": 9.5,
-        "reading_minutes": 568,
-        "novel_equivalent": 1.6,
+        "combined_word_count": 150390,
+        "story_page_count": 546,
+        "combined_page_count": 547,
+        "reading_hours": 10,
+        "reading_minutes": 601,
+        "novel_equivalent": 1.7,
         "scale_category": "Epic Full-Length Novel",
         "scale_badge": "Epic Novel",
-        "benchmark_note": "1.6\u00d7 a standard 90,000-word contemporary novel (Epic 110k\u2013200k tier)",
-        "era_count": 9,
-        "chapter_count": 26,
-        "part_count": 56,
+        "benchmark_note": "1.7\u00d7 a standard 90,000-word contemporary novel (Epic 110k\u2013200k tier)",
+        "era_count": 10,
+        "chapter_count": 27,
+        "part_count": 59,
         "illustration_count": 80
     },
     "eras": [
@@ -962,6 +962,60 @@
         },
         {
             "era_num": 6,
+            "era_title": "Roosevelt Rehabilitation Center & One Year in Separate Dorms",
+            "era_url": "/raggiesoft-books/books/katie/roosevelt-rehabilitation-center-one-year-in-separate-dorms",
+            "illustration_count": 0,
+            "word_count": 8301,
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Cantor Hall, The Chickenshit Report, & The Night the Keycards Got Shuffled",
+                    "chap_url": "/raggiesoft-books/books/katie/roosevelt-rehabilitation-center-one-year-in-separate-dorms/cantor-hall-the-chickenshit-report-the-night-the-keycards-got-shuffled",
+                    "illustration_count": 0,
+                    "word_count": 8301,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Sunday Check-In at Cantor Hall, The Opposite-Gender Dorm Rule, & Learning Dorms Aren't Made for Twins",
+                            "file_path": "e006/c001/p001.md",
+                            "url": "/katie/roosevelt-rehabilitation-center-one-year-in-separate-dorms/cantor-hall-the-chickenshit-report-the-night-the-keycards-got-shuffled/part-1-sunday-check-in-at-cantor-hall-the-opposite-gender-dorm-rule-learning-dorms-aren-t-made-for-twins",
+                            "word_count": 2689,
+                            "reading_minutes": 11,
+                            "date": "2007-03-04",
+                            "start_time": "11:15",
+                            "location": "Fishersville & Waynesboro, VA (Roosevelt Rehabilitation Center \u2014 Cantor Hall, Recreation Hall, & Dining Hall)",
+                            "excerpt": "\"It was a whole lot easier for me to bring the two of them up here on a Sunday since I work weekdays,\" Dad explained to the residential staffer who met the three of us outside the automatic sliding glass doors\u2026"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Four Months into PHP, The Emergency in the Therapeutic Pool, & The Chickenshit Report",
+                            "file_path": "e006/c001/p002.md",
+                            "url": "/katie/roosevelt-rehabilitation-center-one-year-in-separate-dorms/cantor-hall-the-chickenshit-report-the-night-the-keycards-got-shuffled/part-2-four-months-into-php-the-emergency-in-the-therapeutic-pool-the-chickenshit-report",
+                            "word_count": 3087,
+                            "reading_minutes": 13,
+                            "date": "2007-07-10",
+                            "start_time": "16:15",
+                            "location": "Fishersville, VA (Roosevelt Rehabilitation Center \u2014 Therapeutic Pool, Student Health, Room 157, & Counselor's Office)",
+                            "excerpt": "\"I told you to leave her alone!\" I shouted across the warm, echoing water of the indoor therapeutic pool at Roosevelt Rehabilitation Center, projecting my voice intentionally loud so the recreation staffer\u2026"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Dorm Keycard Mix-Up, Sharing a Single Twin Bed, & Protecting Natalie",
+                            "file_path": "e006/c001/p003.md",
+                            "url": "/katie/roosevelt-rehabilitation-center-one-year-in-separate-dorms/cantor-hall-the-chickenshit-report-the-night-the-keycards-got-shuffled/part-3-the-dorm-keycard-mix-up-sharing-a-single-twin-bed-protecting-natalie",
+                            "word_count": 2525,
+                            "reading_minutes": 11,
+                            "date": "2007-07-11",
+                            "start_time": "21:15",
+                            "location": "Fishersville, VA (Roosevelt Rehabilitation Center \u2014 Cantor Hall Suites & Dining Hall)",
+                            "excerpt": "At nine-fifteen that Wednesday night, right after Cantor Hall's mid-summer room-reassignment keycards had been handed out at the front desk and I had logged into my laptop webcam to keep Katie company in her new\u2026"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "era_num": 7,
             "era_title": "Back Home in Virginia Beach & The Kempsville City Council",
             "era_url": "/raggiesoft-books/books/katie/back-home-in-virginia-beach-the-kempsville-city-council",
             "illustration_count": 7,
@@ -977,7 +1031,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Does the Bus Run? Calling Out CVTA's Complacency & The 2008 Regional Mayoral Challenge",
-                            "file_path": "e006/c001/p001.md",
+                            "file_path": "e007/c001/p001.md",
                             "url": "/katie/back-home-in-virginia-beach-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop/part-1-does-the-bus-run-calling-out-cvta-s-complacency-the-2008-regional-mayoral-challenge",
                             "word_count": 3693,
                             "reading_minutes": 15,
@@ -998,7 +1052,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Four-Bus Mayoral Loop, Silenced at Eighteenth Street, & Choosing to Run for the Kempsville Seat",
-                            "file_path": "e006/c001/p002.md",
+                            "file_path": "e007/c001/p002.md",
                             "url": "/katie/back-home-in-virginia-beach-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop/part-2-the-four-bus-mayoral-loop-silenced-at-eighteenth-street-choosing-to-run-for-the-kempsville-seat",
                             "word_count": 2499,
                             "reading_minutes": 10,
@@ -1032,7 +1086,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Empty Podium on WHRC TV-15, The 8:24 PM Three-Bus Sprint Home, & The Front-Page Metro Headline",
-                            "file_path": "e006/c002/p001.md",
+                            "file_path": "e007/c002/p001.md",
                             "url": "/katie/back-home-in-virginia-beach-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie/part-1-the-empty-podium-on-whrc-tv-15-the-8-24-pm-three-bus-sprint-home-the-front-page-metro-headline",
                             "word_count": 3573,
                             "reading_minutes": 15,
@@ -1057,7 +1111,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The WTGA 790 AM Disability Attack, The 94.1% Landslide, & The Eighteenth Street Reckoning",
-                            "file_path": "e006/c002/p002.md",
+                            "file_path": "e007/c002/p002.md",
                             "url": "/katie/back-home-in-virginia-beach-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie/part-2-the-wtga-790-am-disability-attack-the-94-1-landslide-the-eighteenth-street-reckoning",
                             "word_count": 4502,
                             "reading_minutes": 19,
@@ -1084,7 +1138,7 @@
             ]
         },
         {
-            "era_num": 7,
+            "era_num": 8,
             "era_title": "The Gentlewoman from Virginia Beach: The House of Delegates",
             "era_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates",
             "illustration_count": 8,
@@ -1100,7 +1154,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Stopped at the Third-Floor Gallery by Capitol Police, Seated on the House Floor Near Delegate Ronald Villa, & The Spark to Run",
-                            "file_path": "e007/c001/p001.md",
+                            "file_path": "e008/c001/p001.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/stopped-at-the-third-floor-gallery-seated-by-delegate-ronald-villa-winning-the-85th-district/part-1-stopped-at-the-third-floor-gallery-by-capitol-police-seated-on-the-house-floor-near-delegate-ronald-villa-the-spark-to-run",
                             "word_count": 2479,
                             "reading_minutes": 10,
@@ -1121,7 +1175,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Telling Dad at Our Kempsville Kitchen Table, The 125-Signature Ballot Petition at CCHR, & Winning the Eighty-Fifth House District",
-                            "file_path": "e007/c001/p002.md",
+                            "file_path": "e008/c001/p002.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/stopped-at-the-third-floor-gallery-seated-by-delegate-ronald-villa-winning-the-85th-district/part-2-telling-dad-at-our-kempsville-kitchen-table-the-125-signature-ballot-petition-at-cchr-winning-the-eighty-fifth-house-district",
                             "word_count": 2931,
                             "reading_minutes": 12,
@@ -1151,7 +1205,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The West Broad Street Loft, Unpacking Our Shared Queen Bed, & Weekend Reconnaissance on JRTC Route 6",
-                            "file_path": "e007/c002/p001.md",
+                            "file_path": "e008/c002/p001.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/freshman-session-on-west-broad-street-riding-jrtc-route-6-to-the-capitol/part-1-the-west-broad-street-loft-unpacking-our-shared-queen-bed-weekend-reconnaissance-on-jrtc-route-6",
                             "word_count": 2338,
                             "reading_minutes": 10,
@@ -1172,7 +1226,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Gold License Plates vs. JRTC Route 6, Turning Down the Parking Deck Pass, & The 60-Inch ADA Restroom Showdown",
-                            "file_path": "e007/c002/p002.md",
+                            "file_path": "e008/c002/p002.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/freshman-session-on-west-broad-street-riding-jrtc-route-6-to-the-capitol/part-2-gold-license-plates-vs-jrtc-route-6-turning-down-the-parking-deck-pass-the-60-inch-ada-restroom-showdown",
                             "word_count": 3378,
                             "reading_minutes": 14,
@@ -1206,7 +1260,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Line 18, Seated by Delegate Ronald Villa on the Floor, & A Question Across the Chamber",
-                            "file_path": "e007/c003/p001.md",
+                            "file_path": "e008/c003/p001.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-1-line-18-seated-by-delegate-ronald-villa-on-the-floor-a-question-across-the-chamber",
                             "word_count": 3034,
                             "reading_minutes": 13,
@@ -1231,7 +1285,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Transit Legislative Day with Michael & Rachel, Two Meltdowns in Room 518, & The 6:05 AM Train to Meet the Nation",
-                            "file_path": "e007/c003/p002.md",
+                            "file_path": "e008/c003/p002.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-2-transit-legislative-day-with-michael-rachel-two-meltdowns-in-room-518-the-6-05-am-train-to-meet-the-nation",
                             "word_count": 14152,
                             "reading_minutes": 57,
@@ -1254,7 +1308,7 @@
             ]
         },
         {
-            "era_num": 8,
+            "era_num": 9,
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
             "illustration_count": 3,
@@ -1270,7 +1324,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Watching Senator Ward Kill Our Bills Across the Rotunda, Brainstorming the 7th Senate District with Dad, & The 250-Signature Rule",
-                            "file_path": "e008/c001/p001.md",
+                            "file_path": "e009/c001/p001.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition/watching-senator-ward-kill-our-bills-across-the-rotunda-brainstorming-the-7th-senate-district-with-dad-the-250-signature-rule",
                             "word_count": 2285,
                             "reading_minutes": 10,
@@ -1304,7 +1358,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Flipping the Seventh Senate District, Custom-Milling the Mahogany Senate Ramp, & Swearing In as Madam Chair",
-                            "file_path": "e008/c002/p001.md",
+                            "file_path": "e009/c002/p001.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/flipping-the-seventh-senate-district-the-mahogany-senate-ramp-madam-chair/flipping-the-seventh-senate-district-custom-milling-the-mahogany-senate-ramp-swearing-in-as-madam-chair",
                             "word_count": 2624,
                             "reading_minutes": 11,
@@ -1327,7 +1381,7 @@
             ]
         },
         {
-            "era_num": 9,
+            "era_num": 10,
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 21,
@@ -1343,7 +1397,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Polls Close at Seven, The 8:42 PM Decision Desk Call, & Victory in Virginia Beach",
-                            "file_path": "e009/c001/p001.md",
+                            "file_path": "e010/c001/p001.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-1-polls-close-at-seven-the-8-42-pm-decision-desk-call-victory-in-virginia-beach",
                             "word_count": 2233,
                             "reading_minutes": 9,
@@ -1368,7 +1422,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Morning After in Kempsville, The School Tax Referendum, & Jess's Open Letter on The Grid",
-                            "file_path": "e009/c001/p002.md",
+                            "file_path": "e010/c001/p002.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-2-the-morning-after-in-kempsville-the-school-tax-referendum-jess-s-open-letter-on-the-grid",
                             "word_count": 1788,
                             "reading_minutes": 8,
@@ -1398,7 +1452,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Minified ZIP Trick, Barely Commented Code, & The Live WCAG Takedown",
-                            "file_path": "e009/c002/p001.md",
+                            "file_path": "e010/c002/p001.md",
                             "url": "/katie/the-senator-from-virginia/the-minified-zip-file-the-raw-html-takedown-resigning-from-richmond/part-1-the-minified-zip-trick-barely-commented-code-the-live-wcag-takedown",
                             "word_count": 2566,
                             "reading_minutes": 11,
@@ -1419,7 +1473,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Article IV Section 4, Hand-Delivering Her Resignation in Richmond, & The Writ of Special Election",
-                            "file_path": "e009/c002/p002.md",
+                            "file_path": "e010/c002/p002.md",
                             "url": "/katie/the-senator-from-virginia/the-minified-zip-file-the-raw-html-takedown-resigning-from-richmond/part-2-article-iv-section-4-hand-delivering-her-resignation-in-richmond-the-writ-of-special-election",
                             "word_count": 1139,
                             "reading_minutes": 5,
@@ -1453,7 +1507,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Three Business Class Tickets for Free Caf\u00e9 Car Drinks & The Mobile Lift at Alexandria",
-                            "file_path": "e009/c003/p001.md",
+                            "file_path": "e010/c003/p001.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution/part-1-three-business-class-tickets-for-free-caf-car-drinks-the-mobile-lift-at-alexandria",
                             "word_count": 1681,
                             "reading_minutes": 7,
@@ -1478,7 +1532,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Yellow Line Over the Fenwick Bridge, The Full-Chair Portrait, & Swearing In on the Constitution",
-                            "file_path": "e009/c003/p002.md",
+                            "file_path": "e010/c003/p002.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution/part-2-the-yellow-line-over-the-fenwick-bridge-the-full-chair-portrait-swearing-in-on-the-constitution",
                             "word_count": 2727,
                             "reading_minutes": 11,
@@ -1511,7 +1565,7 @@
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The First Invite to Cocktails, A Known Side Effect of Death, & Home to Sunset Drive",
-                            "file_path": "e009/c003/p003.md",
+                            "file_path": "e010/c003/p003.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution/part-3-the-first-invite-to-cocktails-a-known-side-effect-of-death-home-to-sunset-drive",
                             "word_count": 2667,
                             "reading_minutes": 11,
@@ -1545,7 +1599,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The South Lawn Tirade, The Norfolk Carrier Leak, & Why the Order of the Trials Matters",
-                            "file_path": "e009/c004/p001.md",
+                            "file_path": "e010/c004/p001.md",
                             "url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-suite-756-at-timberline-shopping-center-three-convictions-in-the-senate/part-1-the-south-lawn-tirade-the-norfolk-carrier-leak-why-the-order-of-the-trials-matters",
                             "word_count": 2192,
                             "reading_minutes": 9,
@@ -1566,7 +1620,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Route 36 to Timberline Shopping Center, Lunch at Don Miller Subs, Retro Games at Neat Stuff, & Suite 756",
-                            "file_path": "e009/c004/p002.md",
+                            "file_path": "e010/c004/p002.md",
                             "url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-suite-756-at-timberline-shopping-center-three-convictions-in-the-senate/part-2-route-36-to-timberline-shopping-center-lunch-at-don-miller-subs-retro-games-at-neat-stuff-suite-756",
                             "word_count": 4668,
                             "reading_minutes": 19,
@@ -1599,7 +1653,7 @@
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Words of Mason, Madison, and Lincoln, Three Guilty Votes in Forty-Eight Hours, & Swearing In President Clara Morales",
-                            "file_path": "e009/c004/p003.md",
+                            "file_path": "e010/c004/p003.md",
                             "url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-suite-756-at-timberline-shopping-center-three-convictions-in-the-senate/part-3-the-words-of-mason-madison-and-lincoln-three-guilty-votes-in-forty-eight-hours-swearing-in-president-clara-morales",
                             "word_count": 2055,
                             "reading_minutes": 9,
