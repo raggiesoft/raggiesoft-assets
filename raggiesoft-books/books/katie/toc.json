@@ -9,32 +9,32 @@
     "next_series_url": "",
     "ebook_sizes": {
         "epub": "22.3 MB",
-        "pdf": "23.8 MB",
-        "text_epub": "269 KB",
-        "text_pdf": "747 KB",
-        "package_7z": "206 KB",
-        "epub_bytes": 23359012,
-        "pdf_bytes": 24983170,
-        "text_epub_bytes": 275291,
-        "text_pdf_bytes": 764745,
-        "package_7z_bytes": 210902
+        "pdf": "23.9 MB",
+        "text_epub": "289 KB",
+        "text_pdf": "804 KB",
+        "package_7z": "221 KB",
+        "epub_bytes": 23379809,
+        "pdf_bytes": 25041440,
+        "text_epub_bytes": 295984,
+        "text_pdf_bytes": 823085,
+        "package_7z_bytes": 226230
     },
     "illustration_count": 39,
     "word_stats": {
-        "story_word_count": 114260,
+        "story_word_count": 123233,
         "lore_word_count": 121,
-        "combined_word_count": 114381,
-        "story_page_count": 415,
-        "combined_page_count": 416,
-        "reading_hours": 7.6,
-        "reading_minutes": 457,
-        "novel_equivalent": 1.3,
+        "combined_word_count": 123354,
+        "story_page_count": 448,
+        "combined_page_count": 449,
+        "reading_hours": 8.2,
+        "reading_minutes": 493,
+        "novel_equivalent": 1.4,
         "scale_category": "Epic Full-Length Novel",
         "scale_badge": "Epic Novel",
-        "benchmark_note": "1.3\u00d7 a standard 90,000-word contemporary novel (Epic 110k\u2013200k tier)",
+        "benchmark_note": "1.4\u00d7 a standard 90,000-word contemporary novel (Epic 110k\u2013200k tier)",
         "era_count": 6,
-        "chapter_count": 22,
-        "part_count": 52,
+        "chapter_count": 23,
+        "part_count": 55,
         "illustration_count": 39
     },
     "eras": [
@@ -686,14 +686,14 @@
             "era_title": "West Ocean View, Ideas for CVTA, & From City Council to the Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia",
             "illustration_count": 8,
-            "word_count": 61275,
+            "word_count": 66122,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Ocean View Station, Dirty Old Tonomy Hill, & Five Buses from Williamsburg",
                     "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/ocean-view-station-dirty-old-tonomy-hill-five-buses-from-williamsburg",
                     "illustration_count": 2,
-                    "word_count": 11091,
+                    "word_count": 12003,
                     "parts": [
                         {
                             "part_num": 1,
@@ -757,12 +757,12 @@
                             "part_title": "Part 5: Five Buses from Williamsburg \u2014 The Ninety-Second Window, Crown Burger, & The Last Route 61 Across the Water",
                             "file_path": "e005/c001/p005.md",
                             "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/ocean-view-station-dirty-old-tonomy-hill-five-buses-from-williamsburg/part-5-five-buses-from-williamsburg-the-ninety-second-window-crown-burger-the-last-route-61-across-the-water",
-                            "word_count": 2977,
-                            "reading_minutes": 12,
+                            "word_count": 3889,
+                            "reading_minutes": 16,
                             "date": "2005-11-12",
-                            "start_time": "15:55",
-                            "location": "Williamsburg, Newport News, Hampton, & Norfolk, VA (Williamsburg Transportation Center, Lee Hall, Warwick & Denbigh, Newport News Transit Center, HRBT, Wards Corner, & Sea Breeze West)",
-                            "excerpt": "When Brandon Mercer marches twenty-year-old Katie to the Williamsburg Transportation Center to buy one-way rail and tunnel-bus tickets to Windsor, Canada, she seizes a ninety-second window while he is at the ticket counter to roll aboard the 4:00 PM CTTA Grey Line bus\u2014beginning a grueling five-bus escape through the November rain to reach her twin brother Nate in West Ocean View.",
+                            "start_time": "15:38",
+                            "location": "Williamsburg, Newport News, Hampton, & Norfolk, VA (224 Virginia Avenue, Williamsburg Transportation Center, Lee Hall, Warwick & Denbigh, Newport News Transit Center, HRBT, Wards Corner, & Sea Breeze West)",
+                            "excerpt": "When Brandon Mercer marches twenty-year-old Katie from 224 Virginia Avenue to the Williamsburg Transportation Center to buy one-way rail and tunnel-bus tickets to Windsor, Canada, she seizes a ninety-second window while he is at the ticket counter to roll aboard the 4:00 PM CTTA Grey Line bus\u2014beginning a grueling five-bus escape through the November rain to reach her twin brother Nate in West Ocean View.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_rainy_night_katie_five_bus_arrival_sanctuary.jpg",
                             "image_alt": "Inside the living room of Sea Breeze West Apartment 3 on the rainy Saturday night of November 12, 2005 after Katie's five-bus escape from Williamsburg, twenty-year-old Katie sits wrapped in a dry towel and Nate's navy-blue sleeping bag on the bright green sofa while her twin brother Nate holds both of her hands from his compact SwiftChair power wheelchair",
                             "images": [
@@ -780,25 +780,25 @@
                     "chap_title": "The End of Hell & Reclaiming Apartment 3",
                     "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/the-end-of-hell-reclaiming-apartment-3",
                     "illustration_count": 6,
-                    "word_count": 15713,
+                    "word_count": 19390,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Sister's Worst Nightmare, Tiffany Forces a Choice, & Scrubbing Out the Filth",
                             "file_path": "e005/c002/p001.md",
                             "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/the-end-of-hell-reclaiming-apartment-3/part-1-a-sister-s-worst-nightmare-tiffany-forces-a-choice-scrubbing-out-the-filth",
-                            "word_count": 6306,
-                            "reading_minutes": 26,
+                            "word_count": 7147,
+                            "reading_minutes": 29,
                             "date": "2005-11-12",
                             "start_time": "20:20",
                             "location": "Norfolk, VA (Sea Breeze West Apartment 3 & Crown Burger on West Ocean View Avenue)",
-                            "excerpt": "After escaping Williamsburg on five consecutive buses in the pouring rain to reach Nate's filthy Sea Breeze West apartment in West Ocean View, nineteen-year-old Katie helps Nate break free from Tiffany Sloan and scrub their sanctuary clean.",
+                            "excerpt": "After escaping Williamsburg on five consecutive buses in the pouring rain to reach Nate's filthy Sea Breeze West apartment in West Ocean View, twenty-year-old Katie helps Nate break free from Tiffany Sloan, scrub their sanctuary clean, and make their lifelong fifty-fifty pact.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg",
-                            "image_alt": "Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp\u2014after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs\u2014Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while nineteen-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs",
+                            "image_alt": "Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp\u2014after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs\u2014Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while twenty-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg",
-                                    "alt": "Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp\u2014after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs\u2014Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while nineteen-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs"
+                                    "alt": "Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp\u2014after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs\u2014Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while twenty-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs"
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg",
@@ -806,7 +806,7 @@
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_green_sofa_never_separate_again_promise.jpg",
-                                    "alt": "Inside the living room of Sea Breeze West Apartment 3 in front of the bright green three-cushion sofa and the front windows with white horizontal mini-blinds at night: nineteen-year-old Katie in her mustard-yellow ringer t-shirt and blue jeans sits in her compact black SwiftChair power wheelchair with tears rolling down her cheeks as she holds nineteen-year-old Nate's hand across their wheelchairs and promises her brother that they will never separate ever again"
+                                    "alt": "Inside the living room of Sea Breeze West Apartment 3 in front of the bright green three-cushion sofa and the front windows with white horizontal mini-blinds at night: twenty-year-old Katie in her mustard-yellow ringer t-shirt and blue jeans sits in her compact black SwiftChair power wheelchair with tears rolling down her cheeks as she holds twenty-year-old Nate's hand across their wheelchairs and promises her brother that they will never separate ever again"
                                 }
                             ],
                             "image_count": 3
@@ -838,9 +838,21 @@
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Thanksgiving Dinner at Dad's House, The Black Friday Closet Project, & The Secret on the Closet Floor",
+                            "part_title": "Part 3: The Goyeau Street Tunnel Bus, The Federal Courthouse on Granby Street, & Protected Non-Traveling Complainant",
                             "file_path": "e005/c002/p003.md",
-                            "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/the-end-of-hell-reclaiming-apartment-3/part-3-thanksgiving-dinner-at-dad-s-house-the-black-friday-closet-project-the-secret-on-the-closet-floor",
+                            "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/the-end-of-hell-reclaiming-apartment-3/part-3-the-goyeau-street-tunnel-bus-the-federal-courthouse-on-granby-street-protected-non-traveling-complainant",
+                            "word_count": 2835,
+                            "reading_minutes": 12,
+                            "date": "2005-11-16",
+                            "start_time": "14:00",
+                            "location": "Norfolk, VA (Walter E. Hoffman United States Courthouse \u2014 600 Granby Street)",
+                            "excerpt": "On Wednesday afternoon, November 16, 2005, Dad accompanies Katie and Nate to the Walter E. Hoffman United States Courthouse in Downtown Norfolk\u2014where Special Agent Morales pulls up the Sunday afternoon CBSA and U.S. CBP border refusal file from the Goyeau Street tunnel plaza in Windsor and East Jefferson Avenue in Detroit, proving Brandon Mercer handed federal prosecutors the entire case against himself."
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Thanksgiving Dinner at Dad's House, The Black Friday Closet Project, & The Secret on the Closet Floor",
+                            "file_path": "e005/c002/p004.md",
+                            "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/the-end-of-hell-reclaiming-apartment-3/part-4-thanksgiving-dinner-at-dad-s-house-the-black-friday-closet-project-the-secret-on-the-closet-floor",
                             "word_count": 1898,
                             "reading_minutes": 8,
                             "date": "2005-11-24",
@@ -848,21 +860,21 @@
                             "location": "Virginia Beach & Norfolk, VA (Dad's Brick Ranch off Indian River Road & Sea Breeze West Apartment 3)",
                             "excerpt": "Ten days after reclaiming Apartment 3, Nate and Katie share Thanksgiving dinner with their father David at his house in Virginia Beach, and on Black Friday weekend David builds the half-pantry, half-coat hallway closet\u2014discovering the sleeping bag and two pillows where his autistic twins have been sleeping every night instead of Tiffany's bed.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_hallway_and_left_closet_sanctuary_baseline.jpg",
-                            "image_alt": "Looking straight down the carpeted far-right hallway of Sea Breeze West Apartment 3 toward the doorless back bedroom: on the left wall of the hallway, a standard-width closet doorway fitted with two white bi-folding doors opens outward to reveal white wire pantry shelves on the half closest to the kitchen, hanging winter coats on the half closer to the bedroom, and a carpeted closet floor lined with a shared navy-blue sleeping bag and two white pillows, while at the end of the hall nineteen-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs with the queen bed peeking from the far-left corner, the high-mounted through-wall box A/C unit next to the bedroom window, and Katie's wooden dresser with her television and DVD player against the right bedroom wall behind Nate",
+                            "image_alt": "Looking straight down the carpeted far-right hallway of Sea Breeze West Apartment 3 toward the doorless back bedroom: on the left wall of the hallway, a standard-width closet doorway fitted with two white bi-folding doors opens outward to reveal white wire pantry shelves on the half closest to the kitchen, hanging winter coats on the half closer to the bedroom, and a carpeted closet floor lined with a shared navy-blue sleeping bag and two white pillows, while at the end of the hall twenty-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs with the queen bed peeking from the far-left corner, the high-mounted through-wall box A/C unit next to the bedroom window, and Katie's wooden dresser with her television and DVD player against the right bedroom wall behind Nate",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_hallway_and_left_closet_sanctuary_baseline.jpg",
-                                    "alt": "Looking straight down the carpeted far-right hallway of Sea Breeze West Apartment 3 toward the doorless back bedroom: on the left wall of the hallway, a standard-width closet doorway fitted with two white bi-folding doors opens outward to reveal white wire pantry shelves on the half closest to the kitchen, hanging winter coats on the half closer to the bedroom, and a carpeted closet floor lined with a shared navy-blue sleeping bag and two white pillows, while at the end of the hall nineteen-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs with the queen bed peeking from the far-left corner, the high-mounted through-wall box A/C unit next to the bedroom window, and Katie's wooden dresser with her television and DVD player against the right bedroom wall behind Nate"
+                                    "alt": "Looking straight down the carpeted far-right hallway of Sea Breeze West Apartment 3 toward the doorless back bedroom: on the left wall of the hallway, a standard-width closet doorway fitted with two white bi-folding doors opens outward to reveal white wire pantry shelves on the half closest to the kitchen, hanging winter coats on the half closer to the bedroom, and a carpeted closet floor lined with a shared navy-blue sleeping bag and two white pillows, while at the end of the hall twenty-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs with the queen bed peeking from the far-left corner, the high-mounted through-wall box A/C unit next to the bedroom window, and Katie's wooden dresser with her television and DVD player against the right bedroom wall behind Nate"
                                 }
                             ],
                             "image_count": 1
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Seattle Transit Blog Inspiration & Quietly Launching Ideas for Coastal Virginia Transit",
-                            "file_path": "e005/c002/p004.md",
-                            "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/the-end-of-hell-reclaiming-apartment-3/part-4-the-seattle-transit-blog-inspiration-quietly-launching-ideas-for-coastal-virginia-transit",
-                            "word_count": 3165,
+                            "part_num": 5,
+                            "part_title": "Part 5: The Seattle Transit Blog Inspiration & Quietly Launching Ideas for Coastal Virginia Transit",
+                            "file_path": "e005/c002/p005.md",
+                            "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/the-end-of-hell-reclaiming-apartment-3/part-5-the-seattle-transit-blog-inspiration-quietly-launching-ideas-for-coastal-virginia-transit",
+                            "word_count": 3166,
                             "reading_minutes": 13,
                             "date": "2005-11-27",
                             "start_time": "19:30",
@@ -876,14 +888,14 @@
                     "chap_title": "Do Better: The Four-Bus Loop, Kempsville City Council, & The Path to the 85th House District",
                     "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/do-better-the-four-bus-loop-kempsville-city-council-the-path-to-the-85th-house-district",
                     "illustration_count": 0,
-                    "word_count": 19072,
+                    "word_count": 19265,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Does the Bus Run? Calling Out CVTA's Complacency & The 2008 Regional Mayoral Challenge",
                             "file_path": "e005/c003/p001.md",
                             "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/do-better-the-four-bus-loop-kempsville-city-council-the-path-to-the-85th-house-district/part-1-does-the-bus-run-calling-out-cvta-s-complacency-the-2008-regional-mayoral-challenge",
-                            "word_count": 3608,
+                            "word_count": 3693,
                             "reading_minutes": 15,
                             "date": "2008-04-14",
                             "start_time": "13:30",
@@ -919,7 +931,7 @@
                             "part_title": "Part 4: The WTGA 790 AM Disability Attack, The 94.1% Landslide, & The Eighteenth Street Reckoning",
                             "file_path": "e005/c003/p004.md",
                             "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/do-better-the-four-bus-loop-kempsville-city-council-the-path-to-the-85th-house-district/part-4-the-wtga-790-am-disability-attack-the-94-1-landslide-the-eighteenth-street-reckoning",
-                            "word_count": 4103,
+                            "word_count": 4211,
                             "reading_minutes": 17,
                             "date": "2010-10-28",
                             "start_time": "08:15",
@@ -957,7 +969,7 @@
                     "chap_title": "Freshman Session on West Broad Street & Riding JRTC Route 6 to the Capitol",
                     "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/freshman-session-on-west-broad-street-riding-jrtc-route-6-to-the-capitol",
                     "illustration_count": 0,
-                    "word_count": 5522,
+                    "word_count": 5544,
                     "parts": [
                         {
                             "part_num": 1,
@@ -976,7 +988,7 @@
                             "part_title": "Part 2: Gold License Plates vs. JRTC Route 6, Turning Down the Parking Deck Pass, & The 60-Inch ADA Restroom Showdown",
                             "file_path": "e005/c004/p002.md",
                             "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/freshman-session-on-west-broad-street-riding-jrtc-route-6-to-the-capitol/part-2-gold-license-plates-vs-jrtc-route-6-turning-down-the-parking-deck-pass-the-60-inch-ada-restroom-showdown",
-                            "word_count": 3184,
+                            "word_count": 3206,
                             "reading_minutes": 13,
                             "date": "2014-01-06",
                             "start_time": "08:15",
@@ -1023,7 +1035,7 @@
                     "chap_title": "Across the Rotunda: Why Run for State Senate, The 7th District Race, & Madam Chair",
                     "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/across-the-rotunda-why-run-for-state-senate-the-7th-district-race-madam-chair",
                     "illustration_count": 0,
-                    "word_count": 4248,
+                    "word_count": 4291,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1042,8 +1054,8 @@
                             "part_title": "Part 2: Flipping the Seventh Senate District, Custom-Milling the Mahogany Senate Ramp, & Swearing In as Madam Chair",
                             "file_path": "e005/c006/p002.md",
                             "url": "/katie/west-ocean-view-ideas-for-cvta-from-city-council-to-the-senate-of-virginia/across-the-rotunda-why-run-for-state-senate-the-7th-district-race-madam-chair/part-2-flipping-the-seventh-senate-district-custom-milling-the-mahogany-senate-ramp-swearing-in-as-madam-chair",
-                            "word_count": 1963,
-                            "reading_minutes": 8,
+                            "word_count": 2006,
+                            "reading_minutes": 9,
                             "date": "2019-11-05",
                             "start_time": "19:30",
                             "location": "Virginia Beach & Richmond, VA (Kempsville Headquarters & The Senate of Virginia Chamber at the State Capitol)",
@@ -1058,21 +1070,21 @@
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 8,
-            "word_count": 14140,
+            "word_count": 18266,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Election Night, The Decision Desk Call, & The Referendum Mandate",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate",
                     "illustration_count": 2,
-                    "word_count": 3912,
+                    "word_count": 4021,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Polls Close at Seven, The 8:42 PM Decision Desk Call, & Victory in Virginia Beach",
                             "file_path": "e006/c001/p001.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-1-polls-close-at-seven-the-8-42-pm-decision-desk-call-victory-in-virginia-beach",
-                            "word_count": 2230,
+                            "word_count": 2233,
                             "reading_minutes": 9,
                             "date": "2026-11-03",
                             "start_time": "19:00",
@@ -1093,8 +1105,8 @@
                             "part_title": "Part 2: The Morning After in Kempsville, The School Tax Referendum, & Jess's Open Letter on The Grid",
                             "file_path": "e006/c001/p002.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-2-the-morning-after-in-kempsville-the-school-tax-referendum-jess-s-open-letter-on-the-grid",
-                            "word_count": 1682,
-                            "reading_minutes": 7,
+                            "word_count": 1788,
+                            "reading_minutes": 8,
                             "date": "2026-11-04",
                             "start_time": "08:30",
                             "location": "Virginia Beach, VA (Katie & Nate's 50\u201350 Home in Kempsville)",
@@ -1167,7 +1179,7 @@
                     "chap_title": "First Train from Norfolk & Swearing In on the Constitution",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution",
                     "illustration_count": 4,
-                    "word_count": 6523,
+                    "word_count": 6600,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1224,12 +1236,45 @@
                             "part_title": "Part 3: The First Invite to Cocktails, A Known Side Effect of Death, & Home to Sunset Drive",
                             "file_path": "e006/c003/p003.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution/part-3-the-first-invite-to-cocktails-a-known-side-effect-of-death-home-to-sunset-drive",
-                            "word_count": 2590,
+                            "word_count": 2667,
                             "reading_minutes": 11,
                             "date": "2027-01-03",
                             "start_time": "16:30",
                             "location": "Washington, D.C. & Alexandria, VA (The Mansfield Room at the U.S. Capitol, Capital Transit Yellow Line, & The Brick House on Sunset Drive)",
                             "excerpt": "Invited to her first Senate leadership cocktail reception, Senator Katie Prairie establishes that she, Nate, and their dad take a daily medication where mixing with alcohol or tobacco has a known side effect of death\u2014before riding the Yellow Line back to their two-story brick house on Sunset Drive."
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 4,
+                    "chap_title": "The Norfolk Carrier Leak, Madison & Lincoln, & Three Convictions in the Senate",
+                    "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/the-norfolk-carrier-leak-madison-lincoln-three-convictions-in-the-senate",
+                    "illustration_count": 0,
+                    "word_count": 3940,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The South Lawn Tirade, The Norfolk Carrier Leak, & Why the Order of the Trials Matters",
+                            "file_path": "e006/c004/p001.md",
+                            "url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-madison-lincoln-three-convictions-in-the-senate/part-1-the-south-lawn-tirade-the-norfolk-carrier-leak-why-the-order-of-the-trials-matters",
+                            "word_count": 1977,
+                            "reading_minutes": 8,
+                            "date": "2027-03-18",
+                            "start_time": "10:15",
+                            "location": "Washington, D.C. (Room 511 of the Dirksen Senate Office Building & The Senate Commerce Committee)",
+                            "excerpt": "When President Garrett Thorne rails on the South Lawn against 'Broken Katie Prairie' and her twin brother Nate for stalling his nominees and exposing the $400 million Naval Station Norfolk carrier-schedule leak by Defense Secretary Bret Halverson and Vice President Julian Vance, Katie and Speaker Clara Morales set an airtight constitutional trap."
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Words of Mason, Madison, and Lincoln, Three Guilty Votes in Forty-Eight Hours, & Swearing In President Clara Morales",
+                            "file_path": "e006/c004/p002.md",
+                            "url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-madison-lincoln-three-convictions-in-the-senate/part-2-the-words-of-mason-madison-and-lincoln-three-guilty-votes-in-forty-eight-hours-swearing-in-president-clara-morales",
+                            "word_count": 1963,
+                            "reading_minutes": 8,
+                            "date": "2027-04-16",
+                            "start_time": "13:30",
+                            "location": "Washington, D.C. (The United States Senate Chamber & The Mansfield Room at the U.S. Capitol)",
+                            "excerpt": "Sitting at her custom-height mahogany floor desk in the United States Senate while Nate and Dad watch from the Senate Family Gallery, Senator Katie Prairie quotes George Mason, James Madison, and Abraham Lincoln\u2014casting her Guilty votes to convict, remove, and permanently disqualify Defense Secretary Bret Halverson, Vice President Julian Vance, and President Garrett Thorne, elevating Speaker Clara Morales to the Presidency."
                         }
                     ]
                 }
