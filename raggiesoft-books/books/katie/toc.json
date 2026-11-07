@@ -13,17 +13,17 @@
         "text_epub": "325 KB",
         "text_pdf": "883 KB",
         "package_7z": "247 KB",
-        "epub_bytes": 22307829,
-        "pdf_bytes": 10448191,
-        "text_epub_bytes": 332405,
-        "text_pdf_bytes": 904227,
-        "package_7z_bytes": 252950
+        "epub_bytes": 22307921,
+        "pdf_bytes": 10448295,
+        "text_epub_bytes": 332500,
+        "text_pdf_bytes": 904630,
+        "package_7z_bytes": 253008
     },
     "illustration_count": 80,
     "word_stats": {
-        "story_word_count": 136625,
+        "story_word_count": 136671,
         "lore_word_count": 121,
-        "combined_word_count": 136746,
+        "combined_word_count": 136792,
         "story_page_count": 497,
         "combined_page_count": 497,
         "reading_hours": 9.1,
@@ -1088,7 +1088,7 @@
             "era_title": "The Gentlewoman from Virginia Beach: The House of Delegates",
             "era_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates",
             "illustration_count": 8,
-            "word_count": 23484,
+            "word_count": 23530,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1201,7 +1201,7 @@
                     "chap_title": "House Bill 663 & Live on Meet the Nation",
                     "chap_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation",
                     "illustration_count": 3,
-                    "word_count": 12358,
+                    "word_count": 12404,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1233,7 +1233,7 @@
                             "part_title": "Part 2: The Speakerphone Exclusive, Two Meltdowns in Room 518, & The 6:05 AM Train to Meet the Nation",
                             "file_path": "e007/c003/p002.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-2-the-speakerphone-exclusive-two-meltdowns-in-room-518-the-6-05-am-train-to-meet-the-nation",
-                            "word_count": 9326,
+                            "word_count": 9372,
                             "reading_minutes": 38,
                             "date": "2016-02-04",
                             "start_time": "18:00",
