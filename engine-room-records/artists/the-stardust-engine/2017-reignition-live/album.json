@@ -1,0 +1,50 @@
+{
+  "@context": "https://schema.org",
+  "@type": [
+    "MusicAlbum",
+    "Product"
+  ],
+  "name": "Reignition Live",
+  "byArtist": {
+    "@type": "MusicGroup",
+    "name": "The Stardust Engine"
+  },
+  "albumProductionType": "LiveAlbum",
+  "albumReleaseType": "AlbumRelease",
+  "genre": "Live Arena Rock / 1980s AOR / Melodic Synth-Rock",
+  "temporalCoverage": "2017-03-14",
+  "description": "Recorded live in early 2016 inside a sold-out 20,000-seat out-of-state indoor arena midway through the 2015–2016 Reignition World Tour (months before the May 21, 2016 Live at the Crucible stadium finale) and released from the Engine Room Records vault on March 14, 2017. Spanning 28 tracks across two 74-minute Red Book CD-compliant discs (2:11:46 total), Reignition Live showcases the pure, unadorned four-piece arena touring band—excluding all Blacksburg and CPI stadium anthems except a single, unscripted homesick performance of 'Neon on the Huckleberry Trail' where isolated pockets of CPI alumni in Section 312 lose their minds while 99% of the arena listens in warm, polite stillness.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Engine Room Records"
+  },
+  "albumRelease": {
+    "@type": "MusicRelease",
+    "datePublished": "2017-03-14"
+  },
+  "subtitle": "The 2015–2016 Reignition World Tour • 2-Disc Indoor Arena Double Live Album",
+  "linerNotes": [
+    "When The Stardust Engine released Live at the Crucible in October 2016, the 36-track triple album captured a once-in-a-lifetime homecoming anomaly: 65,000 fans under the open-air Blacksburg stars, 300 members of the CPI Marching Forgers shaking the turf, and a setlist steeped in thirty years of New River Valley folklore. Five months later, on March 14, 2017, Holly O'Connell and Engine Room Records opened the vault to release the exact sonic counterpoint—Reignition Live, recorded in early 2016 inside a sold-out 20,000-seat out-of-state indoor arena midway through the 2015–2016 Reignition World Tour.",
+    "Sequenced across two Red Book-compliant compact discs (Disc 1: 15 tracks, 67:11; Disc 2: 13 tracks, 64:35), Reignition Live documents how Ryan O'Connell, Cassidy O'Connell, and identical twin cousins Evan and Tyler Wright sounded night after night on the road after returning from their ten-year Burnout Hiatus. Stripped of collegiate brass bands, vault rarities, and regional inside jokes, the 28-track setlist is a relentless two-hour showcase of hits and Reignition tour staples—broken only once on Disc 2 when a wave of homesickness prompted Ryan and Cassidy to ask 20,000 strangers for five minutes to play 'Neon on the Huckleberry Trail.'"
+  ],
+  "studioArchives": [
+    {
+      "title": "Five Minutes of Home: Section 312 & \"Neon on the Huckleberry Trail\"",
+      "icon": "fa-signs-post",
+      "variant": "info",
+      "content": "By strict tour design, every Blacksburg and CPI song ('Ignition: The Forger's Call', 'Saturday Night Lights: The Crucible', 'Fifty-Two to Nothing', 'Progress Street', and 'Reignition: Lights Up on Progress Street') was left off the out-of-state arena setlist. Midway through the tour, however, the five siblings and cousins were feeling homesick for the New River Valley. On Disc 2, Track 9, Ryan and Cassidy politely ask the 20,000-person arena to indulge them for five minutes. While 99% of the main floor listens in warm, respectful stillness—having no idea what a 'Huckleberry Train' or 'Price Mountain' is—the moment Ryan strikes the 12-string chorus arpeggio and Cassidy sings about the six miles of asphalt from the library lawn, isolated pockets of homesick CPI alumni up in nosebleed Section 312 erupt across the upper deck."
+    },
+    {
+      "title": "The Full-Band Power-Ballad Build of \"Still Your Safe Person\"",
+      "icon": "fa-drum",
+      "variant": "success",
+      "content": "While the May 2016 Live at the Crucible performance of 'Still Your Safe Person' was stripped all the way down to Cassidy's grand piano and Ryan's acoustic guitar, Reignition Live preserves the monumental 2015–2016 indoor arena arrangement. Following the intimate two-song acoustic sanctuary ('Our Own Frequency' and 'Safe Person'), Ryan switches back to his clean chorus electric guitar beside Cassidy's grand piano before Tyler's thunderous 78 BPM gated-reverb drum fill brings the full four-piece electric band crashing back in on the first chorus."
+    },
+    {
+      "title": "74-Minute Red Book CD Architecture (67:11 / 64:35)",
+      "icon": "fa-compact-disc",
+      "variant": "warning",
+      "content": "Engineered for physical double-CD release without splitting a single musical suite across disc breaks, Disc 1 (67:11) propels the listener from 'The Stardust Engine' and 'Main Engine Start' through the Freedom Era rock block ('The Fortress', 'The Family', 'Twin Frequency', 'No Strings on the Master') before 'Orbital Return' launches the arena into space. Disc 2 (64:35) opens directly in orbit with the unbroken four-song Twin Moons Arena Suite ('Moon 1: Tidal Lock' -> 'Moon 2: Roche Limit' -> 'Mayday: The Intercept' -> 'Twin Moons: Touchdown') and builds to the main-set finale 'Where the Stars Still Burn' and standard four-piece arena encore 'Electric Color.'"
+    }
+  ]
+}

@@ -1720,3 +1720,175 @@
 * ISRC: QTAHP2600045
 
 ---
+## Reignition Live (2017) — Live Album
+* **Album Folder:** `2017-reignition-live` • **UPC:** `None` • **Genre:** `Live Arena Rock / 1980s AOR / Melodic Synth-Rock`
+
+1 (D1-T1). The Stardust Engine
+* Name: The Stardust Engine
+* Version: Reignition Live
+* ID3 / Vorbis Tag: The Stardust Engine (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+2 (D1-T2). Main Engine Start
+* Name: Main Engine Start
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Main Engine Start (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+3 (D1-T3). Hard Reset
+* Name: Hard Reset
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Hard Reset (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+4 (D1-T4). Static on the Dial
+* Name: Static on the Dial
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Static on the Dial (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+5 (D1-T5). Neon Pulse
+* Name: Neon Pulse
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Neon Pulse (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+6 (D1-T6). Midnight Drivers
+* Name: Midnight Drivers
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Midnight Drivers (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+7 (D1-T7). The Iceberg: Submerged
+* Name: The Iceberg: Submerged
+* Version: Reignition Live
+* ID3 / Vorbis Tag: The Iceberg: Submerged (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+8 (D1-T8). Chain Reaction
+* Name: Chain Reaction
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Chain Reaction (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+9 (D1-T9). Not Your Doll
+* Name: Not Your Doll
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Not Your Doll (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+10 (D1-T10). Static
+* Name: Static
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Static (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+11 (D1-T11). The Fortress
+* Name: The Fortress
+* Version: Reignition Live
+* ID3 / Vorbis Tag: The Fortress (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+12 (D1-T12). The Family
+* Name: The Family
+* Version: Reignition Live
+* ID3 / Vorbis Tag: The Family (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+13 (D1-T13). Twin Frequency: The Rhythm Section
+* Name: Twin Frequency: The Rhythm Section
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Twin Frequency: The Rhythm Section (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+14 (D1-T14). No Strings on the Master
+* Name: No Strings on the Master
+* Version: Reignition Live
+* ID3 / Vorbis Tag: No Strings on the Master (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+15 (D1-T15). Orbital Return
+* Name: Orbital Return
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Orbital Return (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+16 (D2-T1). Moon 1: Tidal Lock
+* Name: Moon 1: Tidal Lock
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Moon 1: Tidal Lock (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+17 (D2-T2). Moon 2: Roche Limit
+* Name: Moon 2: Roche Limit
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Moon 2: Roche Limit (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+18 (D2-T3). Mayday: The Intercept
+* Name: Mayday: The Intercept
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Mayday: The Intercept (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+19 (D2-T4). Twin Moons: Touchdown
+* Name: Twin Moons: Touchdown
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Twin Moons: Touchdown (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+20 (D2-T5). Our Own Frequency
+* Name: Our Own Frequency
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Our Own Frequency (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+21 (D2-T6). Safe Person
+* Name: Safe Person
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Safe Person (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+22 (D2-T7). Still Your Safe Person
+* Name: Still Your Safe Person
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Still Your Safe Person (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+23 (D2-T8). Echoes in the Wire
+* Name: Echoes in the Wire
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Echoes in the Wire (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+24 (D2-T9). Neon on the Huckleberry Trail
+* Name: Neon on the Huckleberry Trail
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Neon on the Huckleberry Trail (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+25 (D2-T10). Neon Hearts
+* Name: Neon Hearts
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Neon Hearts (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+26 (D2-T11). My Anchor Holds
+* Name: My Anchor Holds
+* Version: Reignition Live
+* ID3 / Vorbis Tag: My Anchor Holds (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+27 (D2-T12). Where the Stars Still Burn
+* Name: Where the Stars Still Burn
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Where the Stars Still Burn (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+28 (D2-T13). Electric Color
+* Name: Electric Color
+* Version: Reignition Live
+* ID3 / Vorbis Tag: Electric Color (Reignition Live)
+* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+
+---
