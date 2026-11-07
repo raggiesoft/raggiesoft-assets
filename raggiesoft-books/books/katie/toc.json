@@ -10,24 +10,24 @@
     "ebook_sizes": {
         "epub": "22.3 MB",
         "pdf": "23.9 MB",
-        "text_epub": "301 KB",
+        "text_epub": "302 KB",
         "text_pdf": "837 KB",
         "package_7z": "230 KB",
-        "epub_bytes": 23392594,
-        "pdf_bytes": 25075152,
-        "text_epub_bytes": 308661,
-        "text_pdf_bytes": 856720,
-        "package_7z_bytes": 235191
+        "epub_bytes": 23393043,
+        "pdf_bytes": 25075942,
+        "text_epub_bytes": 309114,
+        "text_pdf_bytes": 857528,
+        "package_7z_bytes": 235470
     },
     "illustration_count": 39,
     "word_stats": {
-        "story_word_count": 128593,
+        "story_word_count": 128783,
         "lore_word_count": 121,
-        "combined_word_count": 128714,
+        "combined_word_count": 128904,
         "story_page_count": 468,
-        "combined_page_count": 468,
+        "combined_page_count": 469,
         "reading_hours": 8.6,
-        "reading_minutes": 514,
+        "reading_minutes": 515,
         "novel_equivalent": 1.4,
         "scale_category": "Epic Full-Length Novel",
         "scale_badge": "Epic Novel",
@@ -1070,7 +1070,7 @@
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 8,
-            "word_count": 22247,
+            "word_count": 22437,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1250,7 +1250,7 @@
                     "chap_title": "The Norfolk Carrier Leak, Suite 756 at Timberline Shopping Center, & Three Convictions in the Senate",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/the-norfolk-carrier-leak-suite-756-at-timberline-shopping-center-three-convictions-in-the-senate",
                     "illustration_count": 0,
-                    "word_count": 7446,
+                    "word_count": 7636,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1269,8 +1269,8 @@
                             "part_title": "Part 2: Route 36 to Timberline Shopping Center, Lunch at Don Miller Subs, Retro Games at Neat Stuff, & Suite 756",
                             "file_path": "e006/c004/p002.md",
                             "url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-suite-756-at-timberline-shopping-center-three-convictions-in-the-senate/part-2-route-36-to-timberline-shopping-center-lunch-at-don-miller-subs-retro-games-at-neat-stuff-suite-756",
-                            "word_count": 3414,
-                            "reading_minutes": 14,
+                            "word_count": 3604,
+                            "reading_minutes": 15,
                             "date": "2027-04-03",
                             "start_time": "12:05",
                             "location": "Virginia Beach, VA (CVTA Route 36 on State Route 410 / Holland Road & Timberline Shopping Center, Suites 732\u2013756)",
