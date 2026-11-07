@@ -10,28 +10,28 @@
     "ebook_sizes": {
         "epub": "21.3 MB",
         "pdf": "10 MB",
-        "text_epub": "330 KB",
-        "text_pdf": "899 KB",
-        "package_7z": "251 KB",
-        "epub_bytes": 22313803,
-        "pdf_bytes": 10464842,
-        "text_epub_bytes": 338379,
-        "text_pdf_bytes": 920421,
-        "package_7z_bytes": 257040
+        "text_epub": "332 KB",
+        "text_pdf": "902 KB",
+        "package_7z": "252 KB",
+        "epub_bytes": 22315386,
+        "pdf_bytes": 10467539,
+        "text_epub_bytes": 339941,
+        "text_pdf_bytes": 923647,
+        "package_7z_bytes": 257981
     },
     "illustration_count": 80,
     "word_stats": {
-        "story_word_count": 139495,
+        "story_word_count": 140196,
         "lore_word_count": 121,
-        "combined_word_count": 139616,
-        "story_page_count": 507,
-        "combined_page_count": 508,
+        "combined_word_count": 140317,
+        "story_page_count": 510,
+        "combined_page_count": 510,
         "reading_hours": 9.3,
-        "reading_minutes": 558,
-        "novel_equivalent": 1.5,
+        "reading_minutes": 561,
+        "novel_equivalent": 1.6,
         "scale_category": "Epic Full-Length Novel",
         "scale_badge": "Epic Novel",
-        "benchmark_note": "1.5\u00d7 a standard 90,000-word contemporary novel (Epic 110k\u2013200k tier)",
+        "benchmark_note": "1.6\u00d7 a standard 90,000-word contemporary novel (Epic 110k\u2013200k tier)",
         "era_count": 9,
         "chapter_count": 26,
         "part_count": 56,
@@ -965,7 +965,7 @@
             "era_title": "Back Home in Virginia Beach & The Kempsville City Council",
             "era_url": "/raggiesoft-books/books/katie/back-home-in-virginia-beach-the-kempsville-city-council",
             "illustration_count": 7,
-            "word_count": 14104,
+            "word_count": 14267,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1027,7 +1027,7 @@
                     "chap_title": "The Empty Podium on WHRC TV-15, The 94.1% Landslide, & Councilwoman Prairie",
                     "chap_url": "/raggiesoft-books/books/katie/back-home-in-virginia-beach-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie",
                     "illustration_count": 4,
-                    "word_count": 7912,
+                    "word_count": 8075,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1059,8 +1059,8 @@
                             "part_title": "Part 2: The WTGA 790 AM Disability Attack, The 94.1% Landslide, & The Eighteenth Street Reckoning",
                             "file_path": "e006/c002/p002.md",
                             "url": "/katie/back-home-in-virginia-beach-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie/part-2-the-wtga-790-am-disability-attack-the-94-1-landslide-the-eighteenth-street-reckoning",
-                            "word_count": 4339,
-                            "reading_minutes": 18,
+                            "word_count": 4502,
+                            "reading_minutes": 19,
                             "date": "2010-10-28",
                             "start_time": "08:15",
                             "location": "Virginia Beach & Norfolk, VA (Lord Nelson Drive in Kempsville, Virginia Beach Municipal Center Building 1, & 509 E. 18th Street)",
@@ -1088,7 +1088,7 @@
             "era_title": "The Gentlewoman from Virginia Beach: The House of Delegates",
             "era_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates",
             "illustration_count": 8,
-            "word_count": 26354,
+            "word_count": 26540,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1201,7 +1201,7 @@
                     "chap_title": "House Bill 663 & Live on Meet the Nation",
                     "chap_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation",
                     "illustration_count": 3,
-                    "word_count": 15228,
+                    "word_count": 15414,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1233,8 +1233,8 @@
                             "part_title": "Part 2: The Speakerphone Exclusive, Two Meltdowns in Room 518, & The 6:05 AM Train to Meet the Nation",
                             "file_path": "e007/c003/p002.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-2-the-speakerphone-exclusive-two-meltdowns-in-room-518-the-6-05-am-train-to-meet-the-nation",
-                            "word_count": 12196,
-                            "reading_minutes": 49,
+                            "word_count": 12382,
+                            "reading_minutes": 50,
                             "date": "2016-02-04",
                             "start_time": "18:00",
                             "location": "Richmond, VA, Alexandria, VA, & Washington, D.C. (Room 518, Charles R. Fenwick Bridge, & GBS Washington Bureau)",
@@ -1258,7 +1258,7 @@
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
             "illustration_count": 3,
-            "word_count": 4767,
+            "word_count": 4909,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1299,15 +1299,15 @@
                     "chap_title": "Flipping the Seventh Senate District, The Mahogany Senate Ramp, & Madam Chair",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/flipping-the-seventh-senate-district-the-mahogany-senate-ramp-madam-chair",
                     "illustration_count": 1,
-                    "word_count": 2482,
+                    "word_count": 2624,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Flipping the Seventh Senate District, Custom-Milling the Mahogany Senate Ramp, & Swearing In as Madam Chair",
                             "file_path": "e008/c002/p001.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/flipping-the-seventh-senate-district-the-mahogany-senate-ramp-madam-chair/flipping-the-seventh-senate-district-custom-milling-the-mahogany-senate-ramp-swearing-in-as-madam-chair",
-                            "word_count": 2482,
-                            "reading_minutes": 10,
+                            "word_count": 2624,
+                            "reading_minutes": 11,
                             "date": "2019-11-05",
                             "start_time": "19:30",
                             "location": "Virginia Beach & Richmond, VA (Kempsville Headquarters & The Senate of Virginia Chamber at the State Capitol)",
@@ -1331,7 +1331,7 @@
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 21,
-            "word_count": 23506,
+            "word_count": 23716,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1540,15 +1540,15 @@
                     "chap_title": "The Norfolk Carrier Leak, Suite 756 at Timberline Shopping Center, & Three Convictions in the Senate",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/the-norfolk-carrier-leak-suite-756-at-timberline-shopping-center-three-convictions-in-the-senate",
                     "illustration_count": 7,
-                    "word_count": 8705,
+                    "word_count": 8915,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The South Lawn Tirade, The Norfolk Carrier Leak, & Why the Order of the Trials Matters",
                             "file_path": "e009/c004/p001.md",
                             "url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-suite-756-at-timberline-shopping-center-three-convictions-in-the-senate/part-1-the-south-lawn-tirade-the-norfolk-carrier-leak-why-the-order-of-the-trials-matters",
-                            "word_count": 1982,
-                            "reading_minutes": 8,
+                            "word_count": 2192,
+                            "reading_minutes": 9,
                             "date": "2027-03-18",
                             "start_time": "10:15",
                             "location": "Washington, D.C. (Room 511 of the Dirksen Senate Office Building & The Senate Commerce Committee)",
