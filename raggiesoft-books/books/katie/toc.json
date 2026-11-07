@@ -12,19 +12,19 @@
         "pdf": "10 MB",
         "text_epub": "324 KB",
         "text_pdf": "881 KB",
-        "package_7z": "246 KB",
-        "epub_bytes": 22307096,
-        "pdf_bytes": 10446471,
-        "text_epub_bytes": 331655,
-        "text_pdf_bytes": 902082,
-        "package_7z_bytes": 252391
+        "package_7z": "247 KB",
+        "epub_bytes": 22307214,
+        "pdf_bytes": 10446809,
+        "text_epub_bytes": 331771,
+        "text_pdf_bytes": 902292,
+        "package_7z_bytes": 252462
     },
     "illustration_count": 80,
     "word_stats": {
-        "story_word_count": 136260,
+        "story_word_count": 136309,
         "lore_word_count": 121,
-        "combined_word_count": 136381,
-        "story_page_count": 495,
+        "combined_word_count": 136430,
+        "story_page_count": 496,
         "combined_page_count": 496,
         "reading_hours": 9.1,
         "reading_minutes": 545,
@@ -1088,7 +1088,7 @@
             "era_title": "The Gentlewoman from Virginia Beach: The House of Delegates",
             "era_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates",
             "illustration_count": 8,
-            "word_count": 23119,
+            "word_count": 23168,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1201,7 +1201,7 @@
                     "chap_title": "House Bill 663 & Live on Meet the Nation",
                     "chap_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation",
                     "illustration_count": 3,
-                    "word_count": 11993,
+                    "word_count": 12042,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1233,8 +1233,8 @@
                             "part_title": "Part 2: The Speakerphone Exclusive, Two Meltdowns in Room 518, & The 6:05 AM Train to Meet the Nation",
                             "file_path": "e007/c003/p002.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-2-the-speakerphone-exclusive-two-meltdowns-in-room-518-the-6-05-am-train-to-meet-the-nation",
-                            "word_count": 8961,
-                            "reading_minutes": 36,
+                            "word_count": 9010,
+                            "reading_minutes": 37,
                             "date": "2016-02-04",
                             "start_time": "18:00",
                             "location": "Richmond, VA, Alexandria, VA, & Washington, D.C. (Room 518, Charles R. Fenwick Bridge, & GBS Washington Bureau)",
