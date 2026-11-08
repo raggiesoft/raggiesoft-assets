@@ -8,26 +8,26 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "34.9 MB",
-        "pdf": "26.7 MB",
+        "epub": "39.5 MB",
+        "pdf": "32.4 MB",
         "text_epub": "416 KB",
         "text_pdf": "1.1 MB",
-        "package_7z": "312 KB",
-        "epub_bytes": 36553376,
-        "pdf_bytes": 28029412,
-        "text_epub_bytes": 425934,
-        "text_pdf_bytes": 1154434,
-        "package_7z_bytes": 319421
+        "package_7z": "313 KB",
+        "epub_bytes": 41405107,
+        "pdf_bytes": 34006079,
+        "text_epub_bytes": 426213,
+        "text_pdf_bytes": 1155016,
+        "package_7z_bytes": 320072
     },
-    "illustration_count": 98,
+    "illustration_count": 103,
     "word_stats": {
-        "story_word_count": 174519,
+        "story_word_count": 174652,
         "lore_word_count": 121,
-        "combined_word_count": 174640,
+        "combined_word_count": 174773,
         "story_page_count": 635,
-        "combined_page_count": 635,
+        "combined_page_count": 636,
         "reading_hours": 11.6,
-        "reading_minutes": 698,
+        "reading_minutes": 699,
         "novel_equivalent": 1.9,
         "scale_category": "Epic Full-Length Novel",
         "scale_badge": "Epic Novel",
@@ -35,29 +35,29 @@
         "era_count": 11,
         "chapter_count": 33,
         "part_count": 74,
-        "illustration_count": 98
+        "illustration_count": 103
     },
     "eras": [
         {
             "era_num": 1,
             "era_title": "Early Childhood",
             "era_url": "/raggiesoft-books/books/katie/early-childhood",
-            "illustration_count": 3,
-            "word_count": 3529,
+            "illustration_count": 4,
+            "word_count": 3549,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Great Afternoon",
                     "chap_url": "/raggiesoft-books/books/katie/early-childhood/the-great-afternoon",
-                    "illustration_count": 1,
-                    "word_count": 509,
+                    "illustration_count": 2,
+                    "word_count": 529,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Cartoons Are for Life: The Secret Password & The Afternoon Sanctuary",
                             "file_path": "e001/c001/p001.md",
                             "url": "/katie/early-childhood/the-great-afternoon/cartoons-are-for-life-the-secret-password-the-afternoon-sanctuary",
-                            "word_count": 509,
+                            "word_count": 529,
                             "reading_minutes": 3,
                             "date": "1994-05-18",
                             "start_time": "15:30",
@@ -69,9 +69,13 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b001/cartoon_afternoon_nathaniel_katie_1994.jpg",
                                     "alt": "Inside Nathaniel's deep-blue bedroom in Virginia Beach in 1994, nine-year-old fraternal twins Nathaniel and Katie Prairie with matching light platinum-blonde hair sit side by side on the carpeted floor in front of a 1990s CRT television and cable converter box, holding hands and smiling as their favorite afternoon cartoon theme plays"
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b001/may_1994_afternoon_cartoon_full_cuddle_sanctuary_katie_nate.jpg",
+                                    "alt": "In May 1994, nine-year-old fraternal twins Nathaniel and Katie Prairie sit together on the living-room sofa in front of their CRT television playing afternoon cartoons, wrapped in a warm, close two-arm sibling hug with Katie resting her head peacefully against Nate's shoulder."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         }
                     ]
                 },
@@ -703,8 +707,8 @@
             "era_num": 5,
             "era_title": "West Ocean View & Reclaiming Our Sanctuary",
             "era_url": "/raggiesoft-books/books/katie/west-ocean-view-reclaiming-our-sanctuary",
-            "illustration_count": 16,
-            "word_count": 31455,
+            "illustration_count": 17,
+            "word_count": 31544,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -828,8 +832,8 @@
                     "chap_num": 2,
                     "chap_title": "The End of Hell & Reclaiming Apartment 3",
                     "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-reclaiming-our-sanctuary/the-end-of-hell-reclaiming-apartment-3",
-                    "illustration_count": 10,
-                    "word_count": 19421,
+                    "illustration_count": 11,
+                    "word_count": 19510,
                     "parts": [
                         {
                             "part_num": 1,
@@ -915,7 +919,7 @@
                             "part_title": "Part 4: Thanksgiving Dinner at Dad's House, The Black Friday Closet Project, & The Secret on the Closet Floor",
                             "file_path": "e005/c002/p004.md",
                             "url": "/katie/west-ocean-view-reclaiming-our-sanctuary/the-end-of-hell-reclaiming-apartment-3/part-4-thanksgiving-dinner-at-dad-s-house-the-black-friday-closet-project-the-secret-on-the-closet-floor",
-                            "word_count": 1898,
+                            "word_count": 1987,
                             "reading_minutes": 8,
                             "date": "2005-11-24",
                             "start_time": "13:00",
@@ -931,9 +935,13 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_thanksgiving_dinner_dads_house_katie_nate_david.jpg",
                                     "alt": "Inside David Prairie's cozy brick ranch dining room in Virginia Beach on Thanksgiving Day, November 24, 2005, 20-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests and clinking tall glasses of iced tea over roast turkey and pumpkin pie with their beaming 47-year-old father David."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_closet_sleeping_bag_reunion_full_cuddle_katie_nate.jpg",
+                                    "alt": "Inside the hallway of Sea Breeze West Apartment 3 in November 2005, twenty-year-old fraternal twins Katie and Nathaniel Prairie are tucked into their shared navy-blue quilted sleeping bag on the carpeted floor beneath the white wire pantry shelves and hanging winter coats of their newly built hallway closet, wrapped in a close, soothing two-arm embrace while their two empty black SwiftChair power wheelchairs sit parked in the hallway outside."
                                 }
                             ],
-                            "image_count": 2
+                            "image_count": 3
                         },
                         {
                             "part_num": 5,
@@ -1126,14 +1134,14 @@
             "era_num": 7,
             "era_title": "Unofficial Homeowners: Back Home in Virginia Beach (2007\u20132008)",
             "era_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008",
-            "illustration_count": 12,
-            "word_count": 17859,
+            "illustration_count": 13,
+            "word_count": 17865,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Arvin Road, Crossing Without a Crosswalk, Horizontal IDs on Route 12, & Yearly Passes at Fairlawn",
                     "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/arvin-road-crossing-without-a-crosswalk-horizontal-ids-on-route-12-yearly-passes-at-fairlawn",
-                    "illustration_count": 4,
+                    "illustration_count": 5,
                     "word_count": 6777,
                     "parts": [
                         {
@@ -1174,9 +1182,13 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_indian_river_military_hwy_no_crosswalk_grocery_run_katie_nate.jpg",
                                     "alt": "At the busy multi-lane intersection of Indian River Road and Military Highway in Virginia Beach on Wednesday afternoon, March 21, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the concrete curb cut beside the traffic signal pole where heavy traffic roars across bare asphalt with zero painted crosswalks between the CVTA Route 12 and Route 15 bus stops and the Market Square grocery plaza across the street"
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_arvin_road_bedroom_closet_full_cuddle_sanctuary_katie_nate.jpg",
+                                    "alt": "Inside their shared bedroom on Arvin Road in Kempsville in March 2007, while the wooden queen bed beneath the framed blue butterfly print sits completely untouched behind their two parked black SwiftChair power wheelchairs, twenty-one-year-old twins Katie and Nathaniel Prairie cuddle closely in a soothing two-arm embrace inside their shared sleeping bag on the floor of the open walk-in closet."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         },
                         {
                             "part_num": 3,
@@ -1278,7 +1290,7 @@
                     "chap_title": "Twenty-Two in Alexandria: Riding DMV Transit, Touring the White House & the U.S. Capitol, Meeting Senator James West, The Spark to Run for City Council, & Two Blue Passports",
                     "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-touring-the-white-house-the-u-s-capitol-meeting-senator-james-west-the-spark-to-run-for-city-council-two-blue-passports",
                     "illustration_count": 5,
-                    "word_count": 7787,
+                    "word_count": 7793,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1348,7 +1360,7 @@
                             "part_title": "Part 4: Meeting Senator James West, Watching the U.S. Senate From the Gallery, & Why Can't We Ride the Bus to City Hall?",
                             "file_path": "e007/c003/p004.md",
                             "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-touring-the-white-house-the-u-s-capitol-meeting-senator-james-west-the-spark-to-run-for-city-council-two-blue-passports/part-4-meeting-senator-james-west-watching-the-u-s-senate-from-the-gallery-why-can-t-we-ride-the-bus-to-city-hall",
-                            "word_count": 1765,
+                            "word_count": 1771,
                             "reading_minutes": 8,
                             "date": "2007-04-10",
                             "start_time": "13:45",
@@ -1546,8 +1558,8 @@
             "era_num": 9,
             "era_title": "The Gentlewoman from Virginia Beach: The House of Delegates",
             "era_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates",
-            "illustration_count": 8,
-            "word_count": 28314,
+            "illustration_count": 9,
+            "word_count": 28332,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1604,15 +1616,15 @@
                     "chap_num": 2,
                     "chap_title": "Freshman Session on West Broad Street & Riding JRTC Route 6 to the Capitol",
                     "chap_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/freshman-session-on-west-broad-street-riding-jrtc-route-6-to-the-capitol",
-                    "illustration_count": 3,
-                    "word_count": 5716,
+                    "illustration_count": 4,
+                    "word_count": 5734,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The West Broad Street Loft, Unpacking Our Shared Queen Bed, & Weekend Reconnaissance on JRTC Route 6",
                             "file_path": "e009/c002/p001.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/freshman-session-on-west-broad-street-riding-jrtc-route-6-to-the-capitol/part-1-the-west-broad-street-loft-unpacking-our-shared-queen-bed-weekend-reconnaissance-on-jrtc-route-6",
-                            "word_count": 2338,
+                            "word_count": 2356,
                             "reading_minutes": 10,
                             "date": "2014-01-03",
                             "start_time": "14:15",
@@ -1624,9 +1636,13 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/jan_2014_west_broad_street_loft_window_jrtc_route_6_katie_nate_david.jpg",
                                     "alt": "Inside Apartment 104 of the Broad & Boulevard Lofts in Richmond on January 3, 2014, 28-year-old Freshman Delegate-Elect Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding hands by the tall warehouse windows with their father David beside them as a blue-and-white JRTC Route 6 bus glides down West Broad Street."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/jan_2014_west_broad_street_loft_closet_full_cuddle_sanctuary_katie_nate.jpg",
+                                    "alt": "Inside Apartment 104 of the Broad & Boulevard Lofts in Richmond on the night of January 3, 2014, while the queen bed against the exposed red-brick wall sits untouched behind their two parked black SwiftChair power wheelchairs, 28-year-old Delegate-Elect Katie Prairie and her twin brother Nate cuddle closely in a soothing two-arm embrace inside their navy-blue sleeping bag on the floor of the walk-in closet."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         },
                         {
                             "part_num": 2,
@@ -1789,7 +1805,7 @@
             "era_num": 11,
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
-            "illustration_count": 21,
+            "illustration_count": 22,
             "word_count": 24047,
             "chapters": [
                 {
@@ -1906,7 +1922,7 @@
                     "chap_num": 3,
                     "chap_title": "First Train from Norfolk & Swearing In on the Constitution",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution",
-                    "illustration_count": 8,
+                    "illustration_count": 9,
                     "word_count": 7288,
                     "parts": [
                         {
@@ -1988,9 +2004,13 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b006/jan_2027_sunset_drive_bedroom_4_coding_trains_katie_nate_david.jpg",
                                     "alt": "Inside the warm upstairs three-desk family office in Bedroom 4 of the Sunset Drive brick house in Alexandria on the night of January 3, 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs coding in Quantum Studio 2026 and PHP while their father David works at the third desk and an illuminated Capital Transit Yellow Line train and ARTS passenger train glide across the King Street bridge outside the window."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/jan_2027_sunset_drive_senator_night_closet_full_cuddle_sanctuary_katie_nate.jpg",
+                                    "alt": "Inside the ground-floor master bedroom of the Sunset Drive house in Alexandria on the night of January 3, 2027, while the dark mahogany sleigh bed beneath the framed blue butterfly print sits untouched behind their two parked black SwiftChair power wheelchairs, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate cuddle closely in a soothing two-arm embrace inside their navy-blue sleeping bag on the floor of the walk-in closet beneath her hanging navy Senate blazer."
                                 }
                             ],
-                            "image_count": 2
+                            "image_count": 3
                         }
                     ]
                 },
