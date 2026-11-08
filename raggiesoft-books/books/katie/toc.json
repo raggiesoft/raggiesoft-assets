@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "25.7 MB",
-        "pdf": "15.3 MB",
-        "text_epub": "371 KB",
-        "text_pdf": "1006 KB",
-        "package_7z": "280 KB",
-        "epub_bytes": 26998171,
-        "pdf_bytes": 15998828,
-        "text_epub_bytes": 380272,
-        "text_pdf_bytes": 1030224,
-        "package_7z_bytes": 287148
+        "epub": "26.5 MB",
+        "pdf": "16.1 MB",
+        "text_epub": "378 KB",
+        "text_pdf": "1020 KB",
+        "package_7z": "284 KB",
+        "epub_bytes": 27767071,
+        "pdf_bytes": 16885621,
+        "text_epub_bytes": 386883,
+        "text_pdf_bytes": 1044459,
+        "package_7z_bytes": 291000
     },
-    "illustration_count": 86,
+    "illustration_count": 87,
     "word_stats": {
-        "story_word_count": 156652,
+        "story_word_count": 158894,
         "lore_word_count": 121,
-        "combined_word_count": 156773,
-        "story_page_count": 570,
-        "combined_page_count": 570,
-        "reading_hours": 10.4,
-        "reading_minutes": 627,
-        "novel_equivalent": 1.7,
+        "combined_word_count": 159015,
+        "story_page_count": 578,
+        "combined_page_count": 578,
+        "reading_hours": 10.6,
+        "reading_minutes": 636,
+        "novel_equivalent": 1.8,
         "scale_category": "Epic Full-Length Novel",
         "scale_badge": "Epic Novel",
-        "benchmark_note": "1.7\u00d7 a standard 90,000-word contemporary novel (Epic 110k\u2013200k tier)",
-        "era_count": 10,
-        "chapter_count": 29,
-        "part_count": 62,
-        "illustration_count": 86
+        "benchmark_note": "1.8\u00d7 a standard 90,000-word contemporary novel (Epic 110k\u2013200k tier)",
+        "era_count": 11,
+        "chapter_count": 30,
+        "part_count": 63,
+        "illustration_count": 87
     },
     "eras": [
         {
@@ -1124,23 +1124,62 @@
         },
         {
             "era_num": 7,
-            "era_title": "Back Home in Virginia Beach & The Kempsville City Council",
-            "era_url": "/raggiesoft-books/books/katie/back-home-in-virginia-beach-the-kempsville-city-council",
+            "era_title": "Unofficial Homeowners: Back Home in Virginia Beach",
+            "era_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach",
+            "illustration_count": 1,
+            "word_count": 2242,
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "One Bedroom, One Office, & The Closet Sanctuary",
+                    "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach/one-bedroom-one-office-the-closet-sanctuary",
+                    "illustration_count": 1,
+                    "word_count": 2242,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Unofficial Homeowners, One Bedroom and One Office, & The Closet We Both Know We'll Use",
+                            "file_path": "e007/c001/p001.md",
+                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach/one-bedroom-one-office-the-closet-sanctuary/unofficial-homeowners-one-bedroom-and-one-office-the-closet-we-both-know-we-ll-use",
+                            "word_count": 2242,
+                            "reading_minutes": 9,
+                            "date": "2007-03-18",
+                            "start_time": "18:30",
+                            "location": "Virginia Beach, VA (1201 Dyer Place off Military Highway & Indian River Road in Kempsville)",
+                            "excerpt": "\"Oh, thank goodness,\" Katie breathed at six-thirty on Sunday evening the second she slid off thefolding manual travel chair onto the padded contoured seat of her full-size black SwiftChair inside our front\u2026",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_dyer_place_shared_bedroom_queen_bed_and_closet_sanctuary_katie_nate_david.jpg",
+                            "image_alt": "Inside the shared bedroom that had been Katie's room since 2001 at the single-story brick ranch off Military Highway in Virginia Beach on Sunday evening, March 18, 2007, twenty-one-year-old fraternal twins Katie and Nate Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands as their father David finishes smoothing the navy-and-slate-blue comforter on their newly installed queen-size bed beneath the framed blue butterfly print\u2014while to their right, the wide bedroom closet doors stand open revealing a plush sleeping bag and four pillows laid out across the clean closet floor as all three share a warm, knowing smile",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_dyer_place_shared_bedroom_queen_bed_and_closet_sanctuary_katie_nate_david.jpg",
+                                    "alt": "Inside the shared bedroom that had been Katie's room since 2001 at the single-story brick ranch off Military Highway in Virginia Beach on Sunday evening, March 18, 2007, twenty-one-year-old fraternal twins Katie and Nate Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands as their father David finishes smoothing the navy-and-slate-blue comforter on their newly installed queen-size bed beneath the framed blue butterfly print\u2014while to their right, the wide bedroom closet doors stand open revealing a plush sleeping bag and four pillows laid out across the clean closet floor as all three share a warm, knowing smile"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "era_num": 8,
+            "era_title": "Do Better: Ideas for CVTA & The Kempsville City Council",
+            "era_url": "/raggiesoft-books/books/katie/do-better-ideas-for-cvta-the-kempsville-city-council",
             "illustration_count": 7,
             "word_count": 13913,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Do Better: Ideas for CVTA & The Four-Bus Mayoral Loop",
-                    "chap_url": "/raggiesoft-books/books/katie/back-home-in-virginia-beach-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop",
+                    "chap_url": "/raggiesoft-books/books/katie/do-better-ideas-for-cvta-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop",
                     "illustration_count": 3,
                     "word_count": 5825,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Does the Bus Run? Calling Out CVTA's Complacency & The 2008 Regional Mayoral Challenge",
-                            "file_path": "e007/c001/p001.md",
-                            "url": "/katie/back-home-in-virginia-beach-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop/part-1-does-the-bus-run-calling-out-cvta-s-complacency-the-2008-regional-mayoral-challenge",
+                            "file_path": "e008/c001/p001.md",
+                            "url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop/part-1-does-the-bus-run-calling-out-cvta-s-complacency-the-2008-regional-mayoral-challenge",
                             "word_count": 3323,
                             "reading_minutes": 14,
                             "date": "2008-04-14",
@@ -1160,8 +1199,8 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Four-Bus Mayoral Loop, Silenced at Eighteenth Street, & Choosing to Run for the Kempsville Seat",
-                            "file_path": "e007/c001/p002.md",
-                            "url": "/katie/back-home-in-virginia-beach-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop/part-2-the-four-bus-mayoral-loop-silenced-at-eighteenth-street-choosing-to-run-for-the-kempsville-seat",
+                            "file_path": "e008/c001/p002.md",
+                            "url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop/part-2-the-four-bus-mayoral-loop-silenced-at-eighteenth-street-choosing-to-run-for-the-kempsville-seat",
                             "word_count": 2502,
                             "reading_minutes": 11,
                             "date": "2008-09-16",
@@ -1187,15 +1226,15 @@
                 {
                     "chap_num": 2,
                     "chap_title": "The Empty Podium on WHRC TV-15, The 94.1% Landslide, & Councilwoman Prairie",
-                    "chap_url": "/raggiesoft-books/books/katie/back-home-in-virginia-beach-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie",
+                    "chap_url": "/raggiesoft-books/books/katie/do-better-ideas-for-cvta-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie",
                     "illustration_count": 4,
                     "word_count": 8088,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Empty Podium on WHRC TV-15, The 8:24 PM Three-Bus Sprint Home, & The Front-Page Metro Headline",
-                            "file_path": "e007/c002/p001.md",
-                            "url": "/katie/back-home-in-virginia-beach-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie/part-1-the-empty-podium-on-whrc-tv-15-the-8-24-pm-three-bus-sprint-home-the-front-page-metro-headline",
+                            "file_path": "e008/c002/p001.md",
+                            "url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie/part-1-the-empty-podium-on-whrc-tv-15-the-8-24-pm-three-bus-sprint-home-the-front-page-metro-headline",
                             "word_count": 3583,
                             "reading_minutes": 15,
                             "date": "2010-10-14",
@@ -1219,8 +1258,8 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The WTGA 790 AM Disability Attack, The 94.1% Landslide, & The Eighteenth Street Reckoning",
-                            "file_path": "e007/c002/p002.md",
-                            "url": "/katie/back-home-in-virginia-beach-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie/part-2-the-wtga-790-am-disability-attack-the-94-1-landslide-the-eighteenth-street-reckoning",
+                            "file_path": "e008/c002/p002.md",
+                            "url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie/part-2-the-wtga-790-am-disability-attack-the-94-1-landslide-the-eighteenth-street-reckoning",
                             "word_count": 4505,
                             "reading_minutes": 19,
                             "date": "2010-10-28",
@@ -1246,7 +1285,7 @@
             ]
         },
         {
-            "era_num": 8,
+            "era_num": 9,
             "era_title": "The Gentlewoman from Virginia Beach: The House of Delegates",
             "era_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates",
             "illustration_count": 8,
@@ -1262,7 +1301,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Stopped at the Third-Floor Gallery by Capitol Police, Seated on the House Floor Near Delegate Ronald Villa, & The Spark to Run",
-                            "file_path": "e008/c001/p001.md",
+                            "file_path": "e009/c001/p001.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/stopped-at-the-third-floor-gallery-seated-by-delegate-ronald-villa-winning-the-85th-district/part-1-stopped-at-the-third-floor-gallery-by-capitol-police-seated-on-the-house-floor-near-delegate-ronald-villa-the-spark-to-run",
                             "word_count": 2479,
                             "reading_minutes": 10,
@@ -1283,7 +1322,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Telling Dad at Our Kempsville Kitchen Table, The 125-Signature Ballot Petition at CCHR, & Winning the Eighty-Fifth House District",
-                            "file_path": "e008/c001/p002.md",
+                            "file_path": "e009/c001/p002.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/stopped-at-the-third-floor-gallery-seated-by-delegate-ronald-villa-winning-the-85th-district/part-2-telling-dad-at-our-kempsville-kitchen-table-the-125-signature-ballot-petition-at-cchr-winning-the-eighty-fifth-house-district",
                             "word_count": 2933,
                             "reading_minutes": 12,
@@ -1313,7 +1352,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The West Broad Street Loft, Unpacking Our Shared Queen Bed, & Weekend Reconnaissance on JRTC Route 6",
-                            "file_path": "e008/c002/p001.md",
+                            "file_path": "e009/c002/p001.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/freshman-session-on-west-broad-street-riding-jrtc-route-6-to-the-capitol/part-1-the-west-broad-street-loft-unpacking-our-shared-queen-bed-weekend-reconnaissance-on-jrtc-route-6",
                             "word_count": 2338,
                             "reading_minutes": 10,
@@ -1334,7 +1373,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Gold License Plates vs. JRTC Route 6, Turning Down the Parking Deck Pass, & The 60-Inch ADA Restroom Showdown",
-                            "file_path": "e008/c002/p002.md",
+                            "file_path": "e009/c002/p002.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/freshman-session-on-west-broad-street-riding-jrtc-route-6-to-the-capitol/part-2-gold-license-plates-vs-jrtc-route-6-turning-down-the-parking-deck-pass-the-60-inch-ada-restroom-showdown",
                             "word_count": 3378,
                             "reading_minutes": 14,
@@ -1368,7 +1407,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Line 18, Seated by Delegate Ronald Villa on the Floor, & A Question Across the Chamber",
-                            "file_path": "e008/c003/p001.md",
+                            "file_path": "e009/c003/p001.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-1-line-18-seated-by-delegate-ronald-villa-on-the-floor-a-question-across-the-chamber",
                             "word_count": 3034,
                             "reading_minutes": 13,
@@ -1393,7 +1432,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Transit Legislative Day with Michael & Rachel, Two Meltdowns in Room 518, & The 6:05 AM Train to Meet the Nation",
-                            "file_path": "e008/c003/p002.md",
+                            "file_path": "e009/c003/p002.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-2-transit-legislative-day-with-michael-rachel-two-meltdowns-in-room-518-the-6-05-am-train-to-meet-the-nation",
                             "word_count": 14152,
                             "reading_minutes": 57,
@@ -1416,7 +1455,7 @@
             ]
         },
         {
-            "era_num": 9,
+            "era_num": 10,
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
             "illustration_count": 3,
@@ -1432,7 +1471,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Watching Senator Ward Kill Our Bills Across the Rotunda, Brainstorming the 7th Senate District with Dad, & The 250-Signature Rule",
-                            "file_path": "e009/c001/p001.md",
+                            "file_path": "e010/c001/p001.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition/watching-senator-ward-kill-our-bills-across-the-rotunda-brainstorming-the-7th-senate-district-with-dad-the-250-signature-rule",
                             "word_count": 2286,
                             "reading_minutes": 10,
@@ -1466,7 +1505,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Flipping the Seventh Senate District, Custom-Milling the Mahogany Senate Ramp, & Swearing In as Madam Chair",
-                            "file_path": "e009/c002/p001.md",
+                            "file_path": "e010/c002/p001.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/flipping-the-seventh-senate-district-the-mahogany-senate-ramp-madam-chair/flipping-the-seventh-senate-district-custom-milling-the-mahogany-senate-ramp-swearing-in-as-madam-chair",
                             "word_count": 2766,
                             "reading_minutes": 12,
@@ -1489,7 +1528,7 @@
             ]
         },
         {
-            "era_num": 10,
+            "era_num": 11,
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 21,
@@ -1505,7 +1544,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Polls Close at Seven, The 8:42 PM Decision Desk Call, & Victory in Virginia Beach",
-                            "file_path": "e010/c001/p001.md",
+                            "file_path": "e011/c001/p001.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-1-polls-close-at-seven-the-8-42-pm-decision-desk-call-victory-in-virginia-beach",
                             "word_count": 2318,
                             "reading_minutes": 10,
@@ -1530,7 +1569,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Morning After in Kempsville, The School Tax Referendum, & Jess's Open Letter on The Grid",
-                            "file_path": "e010/c001/p002.md",
+                            "file_path": "e011/c001/p002.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-2-the-morning-after-in-kempsville-the-school-tax-referendum-jess-s-open-letter-on-the-grid",
                             "word_count": 1788,
                             "reading_minutes": 8,
@@ -1560,7 +1599,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Minified ZIP Trick, Barely Commented Code, & The Live WCAG Takedown",
-                            "file_path": "e010/c002/p001.md",
+                            "file_path": "e011/c002/p001.md",
                             "url": "/katie/the-senator-from-virginia/the-minified-zip-file-the-raw-html-takedown-resigning-from-richmond/part-1-the-minified-zip-trick-barely-commented-code-the-live-wcag-takedown",
                             "word_count": 2599,
                             "reading_minutes": 11,
@@ -1581,7 +1620,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Article IV Section 4, Hand-Delivering Her Resignation in Richmond, & The Writ of Special Election",
-                            "file_path": "e010/c002/p002.md",
+                            "file_path": "e011/c002/p002.md",
                             "url": "/katie/the-senator-from-virginia/the-minified-zip-file-the-raw-html-takedown-resigning-from-richmond/part-2-article-iv-section-4-hand-delivering-her-resignation-in-richmond-the-writ-of-special-election",
                             "word_count": 1139,
                             "reading_minutes": 5,
@@ -1615,7 +1654,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Three Business Class Tickets for Free Caf\u00e9 Car Drinks & The Mobile Lift at Alexandria",
-                            "file_path": "e010/c003/p001.md",
+                            "file_path": "e011/c003/p001.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution/part-1-three-business-class-tickets-for-free-caf-car-drinks-the-mobile-lift-at-alexandria",
                             "word_count": 1689,
                             "reading_minutes": 7,
@@ -1640,7 +1679,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Yellow Line Over the Fenwick Bridge, The Full-Chair Portrait, & Swearing In on the Constitution",
-                            "file_path": "e010/c003/p002.md",
+                            "file_path": "e011/c003/p002.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution/part-2-the-yellow-line-over-the-fenwick-bridge-the-full-chair-portrait-swearing-in-on-the-constitution",
                             "word_count": 2727,
                             "reading_minutes": 11,
@@ -1673,7 +1712,7 @@
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The First Invite to Cocktails, A Known Side Effect of Death, & Home to Sunset Drive",
-                            "file_path": "e010/c003/p003.md",
+                            "file_path": "e011/c003/p003.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution/part-3-the-first-invite-to-cocktails-a-known-side-effect-of-death-home-to-sunset-drive",
                             "word_count": 2872,
                             "reading_minutes": 12,
@@ -1707,7 +1746,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The South Lawn Tirade, The Norfolk Carrier Leak, & Why the Order of the Trials Matters",
-                            "file_path": "e010/c004/p001.md",
+                            "file_path": "e011/c004/p001.md",
                             "url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-suite-756-at-timberline-shopping-center-three-convictions-in-the-senate/part-1-the-south-lawn-tirade-the-norfolk-carrier-leak-why-the-order-of-the-trials-matters",
                             "word_count": 2192,
                             "reading_minutes": 9,
@@ -1728,7 +1767,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Route 36 to Timberline Shopping Center, Lunch at Don Miller Subs, Retro Games at Neat Stuff, & Suite 756",
-                            "file_path": "e010/c004/p002.md",
+                            "file_path": "e011/c004/p002.md",
                             "url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-suite-756-at-timberline-shopping-center-three-convictions-in-the-senate/part-2-route-36-to-timberline-shopping-center-lunch-at-don-miller-subs-retro-games-at-neat-stuff-suite-756",
                             "word_count": 4668,
                             "reading_minutes": 19,
@@ -1761,7 +1800,7 @@
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Words of Mason, Madison, and Lincoln, Three Guilty Votes in Forty-Eight Hours, & Swearing In President Clara Morales",
-                            "file_path": "e010/c004/p003.md",
+                            "file_path": "e011/c004/p003.md",
                             "url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-suite-756-at-timberline-shopping-center-three-convictions-in-the-senate/part-3-the-words-of-mason-madison-and-lincoln-three-guilty-votes-in-forty-eight-hours-swearing-in-president-clara-morales",
                             "word_count": 2055,
                             "reading_minutes": 9,
