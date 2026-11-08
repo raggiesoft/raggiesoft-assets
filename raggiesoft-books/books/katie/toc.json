@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "32.6 MB",
-        "pdf": "23.6 MB",
-        "text_epub": "404 KB",
+        "epub": "33.3 MB",
+        "pdf": "24.6 MB",
+        "text_epub": "407 KB",
         "text_pdf": "1.1 MB",
-        "package_7z": "303 KB",
-        "epub_bytes": 34228957,
-        "pdf_bytes": 24707920,
-        "text_epub_bytes": 413993,
-        "text_pdf_bytes": 1121034,
-        "package_7z_bytes": 310379
+        "package_7z": "306 KB",
+        "epub_bytes": 34964959,
+        "pdf_bytes": 25808795,
+        "text_epub_bytes": 417068,
+        "text_pdf_bytes": 1130291,
+        "package_7z_bytes": 312880
     },
-    "illustration_count": 95,
+    "illustration_count": 96,
     "word_stats": {
-        "story_word_count": 169696,
+        "story_word_count": 170977,
         "lore_word_count": 121,
-        "combined_word_count": 169817,
-        "story_page_count": 617,
-        "combined_page_count": 618,
-        "reading_hours": 11.3,
-        "reading_minutes": 679,
+        "combined_word_count": 171098,
+        "story_page_count": 622,
+        "combined_page_count": 622,
+        "reading_hours": 11.4,
+        "reading_minutes": 684,
         "novel_equivalent": 1.9,
         "scale_category": "Epic Full-Length Novel",
         "scale_badge": "Epic Novel",
         "benchmark_note": "1.9\u00d7 a standard 90,000-word contemporary novel (Epic 110k\u2013200k tier)",
         "era_count": 11,
         "chapter_count": 33,
-        "part_count": 71,
-        "illustration_count": 95
+        "part_count": 72,
+        "illustration_count": 96
     },
     "eras": [
         {
@@ -1126,8 +1126,8 @@
             "era_num": 7,
             "era_title": "Unofficial Homeowners: Back Home in Virginia Beach (2007\u20132008)",
             "era_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008",
-            "illustration_count": 9,
-            "word_count": 13036,
+            "illustration_count": 10,
+            "word_count": 14317,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1275,16 +1275,16 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "Twenty-Two in Alexandria: Riding DMV Transit, Senator James West's White House Tickets, & The Spark to Run for City Council",
-                    "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-senator-james-west-s-white-house-tickets-the-spark-to-run-for-city-council",
-                    "illustration_count": 2,
-                    "word_count": 2964,
+                    "chap_title": "Twenty-Two in Alexandria: Riding DMV Transit, Senator James West's White House Tickets, The Spark to Run for City Council, & Two Blue Passports",
+                    "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-senator-james-west-s-white-house-tickets-the-spark-to-run-for-city-council-two-blue-passports",
+                    "illustration_count": 3,
+                    "word_count": 4245,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Accessible Taxi to Newport News, The ARTS Train to Alexandria, & Riding Northern Virginia Transit on Our Twenty-Second Birthday",
                             "file_path": "e007/c003/p001.md",
-                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-senator-james-west-s-white-house-tickets-the-spark-to-run-for-city-council/part-1-accessible-taxi-to-newport-news-the-arts-train-to-alexandria-riding-northern-virginia-transit-on-our-twenty-second-birthday",
+                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-senator-james-west-s-white-house-tickets-the-spark-to-run-for-city-council-two-blue-passports/part-1-accessible-taxi-to-newport-news-the-arts-train-to-alexandria-riding-northern-virginia-transit-on-our-twenty-second-birthday",
                             "word_count": 1030,
                             "reading_minutes": 5,
                             "date": "2007-04-08",
@@ -1305,7 +1305,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: Senator James West's Tickets to the White House, Watching the U.S. Senate From the Gallery, & Why Can't We Ride the Bus to City Hall?",
                             "file_path": "e007/c003/p002.md",
-                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-senator-james-west-s-white-house-tickets-the-spark-to-run-for-city-council/part-2-senator-james-west-s-tickets-to-the-white-house-watching-the-u-s-senate-from-the-gallery-why-can-t-we-ride-the-bus-to-city-hall",
+                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-senator-james-west-s-white-house-tickets-the-spark-to-run-for-city-council-two-blue-passports/part-2-senator-james-west-s-tickets-to-the-white-house-watching-the-u-s-senate-from-the-gallery-why-can-t-we-ride-the-bus-to-city-hall",
                             "word_count": 1934,
                             "reading_minutes": 8,
                             "date": "2007-04-10",
@@ -1318,6 +1318,27 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b006/apr_2007_us_senate_gallery_and_senator_james_west_visit_katie_nate_david.jpg",
                                     "alt": "Inside the third-floor wheelchair-accessible visitor gallery overlooking the United States Senate Chamber at the U.S. Capitol on Tuesday afternoon, April 10, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding their official Senate Gallery passes beside their father David Prairie, looking down in rapt awe at the semicircular rows of mahogany Senate desks below"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: \"What's This? It's an ID Card!\", Form DS-11 at the Post Office, & Two Navy-Blue U.S. Passports",
+                            "file_path": "e007/c003/p003.md",
+                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-senator-james-west-s-white-house-tickets-the-spark-to-run-for-city-council-two-blue-passports/part-3-what-s-this-it-s-an-id-card-form-ds-11-at-the-post-office-two-navy-blue-u-s-passports",
+                            "word_count": 1281,
+                            "reading_minutes": 6,
+                            "date": "2007-04-19",
+                            "start_time": "13:15",
+                            "location": "Virginia Beach, VA (Kempsville Station Post Office & Our Home on Arvin Road)",
+                            "excerpt": "\"Wait a second\u2014what's this?\" the young teller behind the counter at the neighborhood bank branch asked on Thursday afternoon, squinting down at the brand-new horizontal plastic card I had just slid under the\u2026",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/apr_2007_post_office_passport_application_ds11_and_photos_katie_nate.jpg",
+                            "image_alt": "Inside a bright U.S. Post Office passport acceptance window in Virginia Beach on Thursday afternoon, April 19, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs raising their right hands to take the passport application oath in front of a uniformed postal clerk behind the counter\u2014with their completed DS-11 forms, two-by-two passport photos, certified birth certificates, and horizontal Virginia State ID cards resting on the counter",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/apr_2007_post_office_passport_application_ds11_and_photos_katie_nate.jpg",
+                                    "alt": "Inside a bright U.S. Post Office passport acceptance window in Virginia Beach on Thursday afternoon, April 19, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs raising their right hands to take the passport application oath in front of a uniformed postal clerk behind the counter\u2014with their completed DS-11 forms, two-by-two passport photos, certified birth certificates, and horizontal Virginia State ID cards resting on the counter"
                                 }
                             ],
                             "image_count": 1
