@@ -10,7 +10,7 @@
 
 ## Track 12: Midnight Drivers (Cosmic Tidal Lock Mix)
 * **Original Album / Suno Workspace:** 2001: *Midnight Drivers* (Track 6)
-* **Status:** Needs Suno Generation
+* **Status:** Mastered & Cleared on DistroKid (`QTAEZ2618250`) *(master WAV in `master-wav/cosmic-tidal-lock/midnight-drivers-cosmic-tidal-lock.wav`)*
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/midnight-drivers-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** `Female`
 * **Weirdness:** `0%`

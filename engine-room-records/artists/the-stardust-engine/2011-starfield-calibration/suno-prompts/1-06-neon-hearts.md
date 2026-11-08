@@ -10,7 +10,7 @@
 
 ## Track 06: Neon Hearts (Cosmic Tidal Lock Mix)
 * **Original Album / Suno Workspace:** 1989: *Neon Hearts* (Track 1)
-* **Status:** Needs Suno Generation
+* **Status:** Mastered & Cleared on DistroKid (`QTAEZ2618244`) *(master WAV in `master-wav/cosmic-tidal-lock/neon-hearts-cosmic-tidal-lock.wav`)*
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/neon-hearts-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** `Female`
 * **Weirdness:** `0%`

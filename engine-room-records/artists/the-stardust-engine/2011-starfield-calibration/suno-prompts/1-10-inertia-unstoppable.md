@@ -10,7 +10,7 @@
 
 ## Track 10: Inertia: Unstoppable (Cosmic Tidal Lock Mix)
 * **Original Album / Suno Workspace:** 1997: *Hard Reset* (Disc 1, Track 6 — "Inertia (Unstoppable)")
-* **Status:** Needs Suno Generation
+* **Status:** Mastered & Cleared on DistroKid (`QTAEZ2618248`) *(master WAV in `master-wav/cosmic-tidal-lock/inertia-unstoppable-cosmic-tidal-lock.wav`)*
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/inertia-unstoppable-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** `Female`
 * **Weirdness:** `0%`

@@ -10,7 +10,7 @@
 
 ## Track 03: Plastic Sky (Cosmic Tidal Lock Mix)
 * **Original Album / Suno Workspace:** 1987: *Electric Color* (Track 2)
-* **Status:** Needs Suno Generation
+* **Status:** Mastered & Cleared on DistroKid (`QTAEZ2618241`) *(master WAV in `master-wav/cosmic-tidal-lock/plastic-sky-cosmic-tidal-lock.wav`)*
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/plastic-sky-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** `Female`
 * **Weirdness:** `0%`

@@ -10,7 +10,7 @@
 
 ## Track 13: The Horizon Line (Cosmic Tidal Lock Mix)
 * **Original Album / Suno Workspace:** 2001: *Midnight Drivers* (Track 5)
-* **Status:** Needs Suno Generation
+* **Status:** Mastered & Cleared on DistroKid (`QTAEZ2618251`) *(master WAV in `master-wav/cosmic-tidal-lock/the-horizon-line-cosmic-tidal-lock.wav`)*
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/the-horizon-line-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
 * **Weirdness:** `0%`

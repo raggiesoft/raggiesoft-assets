@@ -10,7 +10,7 @@
 
 ## Track 09: No Hidden Gravity (Cosmic Tidal Lock Mix)
 * **Original Album / Suno Workspace:** 1996: *Ad Astra (Single)* (Track 5) / 1997: *Forger Nation War Chest* (Disc 1, Track 11)
-* **Status:** Needs Suno Generation
+* **Status:** Mastered & Cleared on DistroKid (`QTAEZ2618247`) *(master WAV in `master-wav/cosmic-tidal-lock/no-hidden-gravity-cosmic-tidal-lock.wav`)*
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/no-hidden-gravity-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
 * **Weirdness:** `0%`

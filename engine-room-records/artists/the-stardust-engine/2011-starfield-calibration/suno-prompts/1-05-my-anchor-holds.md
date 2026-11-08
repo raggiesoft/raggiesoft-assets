@@ -10,7 +10,7 @@
 
 ## Track 05: My Anchor Holds (Cosmic Tidal Lock Mix)
 * **Original Album / Suno Workspace:** 1987: *Electric Color* (Track 3)
-* **Status:** Needs Suno Generation
+* **Status:** Mastered & Cleared on DistroKid (`QTAEZ2618243`) *(master WAV in `master-wav/cosmic-tidal-lock/my-anchor-holds-cosmic-tidal-lock.wav`)*
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/my-anchor-holds-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** `Female`
 * **Weirdness:** `0%`

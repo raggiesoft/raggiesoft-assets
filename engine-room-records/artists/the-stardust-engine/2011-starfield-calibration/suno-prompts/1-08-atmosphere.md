@@ -10,7 +10,7 @@
 
 ## Track 08: Atmosphere (Cosmic Tidal Lock Mix)
 * **Original Album / Suno Workspace:** 1995: *The Warehouse Tapes* (Track 4 — "Atmosphere (Warehouse Demo)") / 1996: *Ad Astra (Single)* (Track 3)
-* **Status:** Needs Suno Generation
+* **Status:** Mastered & Cleared on DistroKid (`QTAEZ2618246`) *(master WAV in `master-wav/cosmic-tidal-lock/atmosphere-cosmic-tidal-lock.wav`)*
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/atmosphere-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
 * **Weirdness:** `0%`

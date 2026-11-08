@@ -10,7 +10,7 @@
 
 ## Track 07: Rearview Mirror (Cosmic Tidal Lock Mix)
 * **Original Album / Suno Workspace:** 1987: *Electric Color* (Track 12)
-* **Status:** Needs Suno Generation
+* **Status:** Mastered & Cleared on DistroKid (`QTAEZ2618245`) *(master WAV in `master-wav/cosmic-tidal-lock/rearview-mirror-cosmic-tidal-lock.wav`)*
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/rearview-mirror-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** `Female`
 * **Weirdness:** `0%`

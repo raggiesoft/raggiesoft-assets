@@ -10,7 +10,7 @@
 
 ## Track 04: Worlds Apart (Cosmic Tidal Lock Mix)
 * **Original Album / Suno Workspace:** 1987: *Electric Color* (Track 9)
-* **Status:** Needs Suno Generation
+* **Status:** Mastered & Cleared on DistroKid (`QTAEZ2618242`) *(master WAV in `master-wav/cosmic-tidal-lock/worlds-apart-cosmic-tidal-lock.wav`)*
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/worlds-apart-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
 * **Weirdness:** `0%`
