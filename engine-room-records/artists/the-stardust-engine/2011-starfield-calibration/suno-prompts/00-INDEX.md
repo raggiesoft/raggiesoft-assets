@@ -8,7 +8,12 @@
 * **Album:** *Starfield Calibration* (`temporalCoverage: "2011-10-18"` — 25th Anniversary of *Ignition (The Forger's Call)* debuting inside The Crucible on Saturday, October 18, 1986)
 * **Record Label:** Engine Room Records
 * **DistroKid Upload & Release Date:** October 17, 2026 (`2026-10-17`)
-* **DistroKid UPC (`gtin12`):** `700299965607` *(Cleared Nov 8, 2026 • ISRCs: `QTAEZ2618239`–`QTAEZ2618252`)*
+* **DistroKid UPC (`gtin12`):** `700299965607` *(Cleared Nov 8, 2026 • ISRCs: `QTAEZ2618239`–`QTAEZ2618252` — Final DistroKid-Issued ISRC Release)*
+* **DSP Streaming Links:**
+  * **Spotify:** `https://open.spotify.com/album/19kmXDWJsO1aEssOQi3uO0` (`spotifyId: "19kmXDWJsO1aEssOQi3uO0"`)
+  * **Apple Music:** `https://music.apple.com/us/album/starfield-calibration-cosmic-tidal-lock-mix/6832166369` (`appleId: "6832166369"`)
+  * **Amazon Music:** `https://music.amazon.com/albums/B0HQWB3797` (`amazonId: "B0HQWB3797"`)
+  * **YouTube Music:** `https://music.youtube.com/playlist?list=OLAK5uy_mMob_WcjTMVqGa4eqm_xc18QYoWmsRiDY` (`youtubeId: "OLAK5uy_mMob_WcjTMVqGa4eqm_xc18QYoWmsRiDY"`)
 * **Genre:** 80s Cosmic Pop / Space Rock (*The Cosmic Tidal Lock Sound™*)
 * **Raw Master WAV Destination Directory:**
   `/Users/michael/Developer/raggiesoft-servers/raggiesoft-assets/engine-room-records/artists/the-stardust-engine/master-wav/cosmic-tidal-lock/`
