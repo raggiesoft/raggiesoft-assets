@@ -13,13 +13,13 @@
         "text_epub": "441 KB",
         "text_pdf": "1.2 MB",
         "package_7z": "331 KB",
-        "epub_bytes": 43447404,
-        "pdf_bytes": 36136992,
-        "text_epub_bytes": 451920,
+        "epub_bytes": 43447685,
+        "pdf_bytes": 36138185,
+        "text_epub_bytes": 451921,
         "text_pdf_bytes": 1228715,
-        "package_7z_bytes": 338878
+        "package_7z_bytes": 339017
     },
-    "illustration_count": 106,
+    "illustration_count": 107,
     "word_stats": {
         "story_word_count": 186231,
         "lore_word_count": 121,
@@ -35,7 +35,7 @@
         "era_count": 11,
         "chapter_count": 33,
         "part_count": 77,
-        "illustration_count": 106
+        "illustration_count": 107
     },
     "eras": [
         {
@@ -1826,7 +1826,7 @@
             "era_num": 11,
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
-            "illustration_count": 24,
+            "illustration_count": 25,
             "word_count": 31830,
             "chapters": [
                 {
@@ -1943,7 +1943,7 @@
                     "chap_num": 3,
                     "chap_title": "First Train from Norfolk, Swearing In on the Constitution, & Strings Attached for RRC",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc",
-                    "illustration_count": 11,
+                    "illustration_count": 12,
                     "word_count": 15041,
                     "parts": [
                         {
@@ -2050,9 +2050,13 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b006/jan_2027_dirksen_room_511_natalie_mother_phone_call_katie_nate.jpg",
                                     "alt": "Inside Room 511 of the Dirksen Senate Office Building on the late afternoon of January 14, 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs behind her mahogany desk holding hands tightly across their armrests as they listen with somber empathy and fierce resolve to the glowing speakerphone."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/jan_2027_dirksen_room_511_natalie_crayon_drawing_katie_nate.jpg",
+                                    "alt": "Over-the-shoulder view behind forty-one-year-old twin brother and sister Senator Katie Prairie and Chief of Staff Nathaniel Prairie sitting side by side in their black titanium manual wheelchairs in Dirksen Senate Office Building Room 511 on Friday morning, January 15, 2027, as Nate rests his hand supportively on Katie's arm and Katie holds up Natalie Brooks's wax crayon drawing reading THANK YOU KATIE AND NATE above two smiling blonde stick-figure twins in wheelchairs holding hands next to a smiling girl with a pink bow under a yellow sun."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         },
                         {
                             "part_num": 5,
