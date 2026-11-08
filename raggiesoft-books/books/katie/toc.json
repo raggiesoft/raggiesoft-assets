@@ -8,23 +8,23 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "21.3 MB",
-        "pdf": "10.1 MB",
-        "text_epub": "369 KB",
+        "epub": "23.6 MB",
+        "pdf": "12.6 MB",
+        "text_epub": "370 KB",
         "text_pdf": "1000 KB",
-        "package_7z": "278 KB",
-        "epub_bytes": 22353655,
-        "pdf_bytes": 10567496,
-        "text_epub_bytes": 378190,
-        "text_pdf_bytes": 1023938,
-        "package_7z_bytes": 284551
+        "package_7z": "279 KB",
+        "epub_bytes": 24776641,
+        "pdf_bytes": 13233850,
+        "text_epub_bytes": 378404,
+        "text_pdf_bytes": 1024466,
+        "package_7z_bytes": 285879
     },
-    "illustration_count": 80,
+    "illustration_count": 83,
     "word_stats": {
-        "story_word_count": 155786,
+        "story_word_count": 155851,
         "lore_word_count": 121,
-        "combined_word_count": 155907,
-        "story_page_count": 566,
+        "combined_word_count": 155972,
+        "story_page_count": 567,
         "combined_page_count": 567,
         "reading_hours": 10.4,
         "reading_minutes": 623,
@@ -35,7 +35,7 @@
         "era_count": 10,
         "chapter_count": 29,
         "part_count": 62,
-        "illustration_count": 80
+        "illustration_count": 83
     },
     "eras": [
         {
@@ -964,27 +964,36 @@
             "era_num": 6,
             "era_title": "Roosevelt Rehabilitation Center & One Year in Separate Dorms",
             "era_url": "/raggiesoft-books/books/katie/roosevelt-rehabilitation-center-one-year-in-separate-dorms",
-            "illustration_count": 0,
-            "word_count": 13818,
+            "illustration_count": 3,
+            "word_count": 13883,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Voc Eval in Barton Hall, Two Weeks of Butt-Heads, & The Hall Pass Prison",
                     "chap_url": "/raggiesoft-books/books/katie/roosevelt-rehabilitation-center-one-year-in-separate-dorms/voc-eval-in-barton-hall-two-weeks-of-butt-heads-the-hall-pass-prison",
-                    "illustration_count": 0,
-                    "word_count": 4903,
+                    "illustration_count": 2,
+                    "word_count": 4961,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Sunday Check-In at Barton Hall, The Opposite-Gender Dorm Rule, & Expelling the Creepy Roommate",
                             "file_path": "e006/c001/p001.md",
                             "url": "/katie/roosevelt-rehabilitation-center-one-year-in-separate-dorms/voc-eval-in-barton-hall-two-weeks-of-butt-heads-the-hall-pass-prison/part-1-sunday-check-in-at-barton-hall-the-opposite-gender-dorm-rule-expelling-the-creepy-roommate",
-                            "word_count": 2646,
+                            "word_count": 2704,
                             "reading_minutes": 11,
                             "date": "2007-03-04",
                             "start_time": "11:15",
                             "location": "Fishersville & Waynesboro, VA (Roosevelt Rehabilitation Center \u2014 Barton Hall, Recreation Hall, & Dining Hall)",
-                            "excerpt": "\"It was a whole lot easier for me to bring the two of them up here on a Sunday since I work weekdays,\" Dad explained to the residential staffer who met the three of us outside the entrance of Barton Hall at\u2026"
+                            "excerpt": "\"It was a whole lot easier for me to bring the two of them up here on a Sunday since I work weekdays,\" Dad explained to the residential staffer who met the three of us outside the flat-roofed 1960s red-brick\u2026",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_rrc_barton_hall_checkin_push_handles_katie_nate_david.jpg",
+                            "image_alt": "Inside the 1960s red-brick and terrazzo lobby of Barton Hall at Roosevelt Rehabilitation Center on Sunday, March 4, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit in their collapsible manual wheelchairs outfitted with right-armrest joysticks, spoked push-rim wheels, and rear rubber push-handles as Katie locks her brakes and firmly stops a staffer from grabbing her push-handles while their father David stands beside a luggage cart.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_rrc_barton_hall_checkin_push_handles_katie_nate_david.jpg",
+                                    "alt": "Inside the 1960s red-brick and terrazzo lobby of Barton Hall at Roosevelt Rehabilitation Center on Sunday, March 4, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit in their collapsible manual wheelchairs outfitted with right-armrest joysticks, spoked push-rim wheels, and rear rubber push-handles as Katie locks her brakes and firmly stops a staffer from grabbing her push-handles while their father David stands beside a luggage cart."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -996,7 +1005,16 @@
                             "date": "2007-03-05",
                             "start_time": "07:15",
                             "location": "Fishersville & Waynesboro, VA (Roosevelt Rehabilitation Center \u2014 Dining Hall, Bates-Harding Building, & Barton Hall)",
-                            "excerpt": "\"We need our breakfast,\" Katie said as we rolled side by side out of the Barton Hall lobby toward the dining hall breezeway. \"I'm guessing breakfast is going to be just as nasty as dinner was last night,\" I\u2026"
+                            "excerpt": "\"We need our breakfast,\" Katie said as we rolled side by side out of the Barton Hall lobby toward the dining hall breezeway. \"I'm guessing breakfast is going to be just as nasty as dinner was last night,\" I\u2026",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_rrc_voc_eval_social_break_refusing_separation_katie_nate.jpg",
+                            "image_alt": "Inside the 1960s painted cinder-block Vocational Evaluation break room in the Bates-Harding Building at Roosevelt Rehabilitation Center in March 2007, twenty-one-year-old twins Nathaniel and Katie Prairie sit parked wheel-to-wheel in their collapsible manual wheelchairs outfitted with armrest joysticks, spoked push-rim wheels, and rear push-handles, locking hands across their armrests and loudly expressing their displeasure as evaluator Ms. Hollis and aide Mr. Miller try to separate them during social time.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_rrc_voc_eval_social_break_refusing_separation_katie_nate.jpg",
+                                    "alt": "Inside the 1960s painted cinder-block Vocational Evaluation break room in the Bates-Harding Building at Roosevelt Rehabilitation Center in March 2007, twenty-one-year-old twins Nathaniel and Katie Prairie sit parked wheel-to-wheel in their collapsible manual wheelchairs outfitted with armrest joysticks, spoked push-rim wheels, and rear push-handles, locking hands across their armrests and loudly expressing their displeasure as evaluator Ms. Hollis and aide Mr. Miller try to separate them during social time."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -1004,20 +1022,29 @@
                     "chap_num": 2,
                     "chap_title": "Cantor Hall, Quantum OS 2000 Professional, & The Chickenshit Report",
                     "chap_url": "/raggiesoft-books/books/katie/roosevelt-rehabilitation-center-one-year-in-separate-dorms/cantor-hall-quantum-os-2000-professional-the-chickenshit-report",
-                    "illustration_count": 0,
-                    "word_count": 5273,
+                    "illustration_count": 1,
+                    "word_count": 5280,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Moving to Cantor Hall, Level 3 Sign-Out Privileges, Quantum OS 2000 Professional, & Meeting Tina, Jim, and Sheila",
                             "file_path": "e006/c002/p001.md",
                             "url": "/katie/roosevelt-rehabilitation-center-one-year-in-separate-dorms/cantor-hall-quantum-os-2000-professional-the-chickenshit-report/part-1-moving-to-cantor-hall-level-3-sign-out-privileges-quantum-os-2000-professional-meeting-tina-jim-and-sheila",
-                            "word_count": 2566,
+                            "word_count": 2573,
                             "reading_minutes": 11,
                             "date": "2007-03-19",
                             "start_time": "08:00",
                             "location": "Fishersville, VA (Roosevelt Rehabilitation Center \u2014 Cantor Hall & Web Applications Developer Classroom)",
-                            "excerpt": "By the time our two-week Vocational Evaluation finally ended on the third weekend of March 2007, Katie and I couldn't pack our suitcases in Barton Hall fast enough. Along with our official clearance into the\u2026"
+                            "excerpt": "By the time our two-week Vocational Evaluation finally ended on the third weekend of March 2007, Katie and I couldn't pack our suitcases in Barton Hall fast enough. Along with our official clearance into the\u2026",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/may_2007_rrc_web_apps_class_personal_laptops_tina_sheila_jim_katie_nate.jpg",
+                            "image_alt": "Inside the 1970s institutional computer lab of the Web Applications Developer classroom at Roosevelt Rehabilitation Center in spring 2007, Nathaniel and Katie Prairie sit side by side in their collapsible manual wheelchairs outfitted with armrest joysticks, spoked push-rim wheels, and rear push-handles with their personal laptops open in front of unused beige CRT state monitors while short, petite, jet-black-haired Tina in glasses stands beside Katie telling it like it is to the new administrator as Sheila and Jim back them up.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/may_2007_rrc_web_apps_class_personal_laptops_tina_sheila_jim_katie_nate.jpg",
+                                    "alt": "Inside the 1970s institutional computer lab of the Web Applications Developer classroom at Roosevelt Rehabilitation Center in spring 2007, Nathaniel and Katie Prairie sit side by side in their collapsible manual wheelchairs outfitted with armrest joysticks, spoked push-rim wheels, and rear push-handles with their personal laptops open in front of unused beige CRT state monitors while short, petite, jet-black-haired Tina in glasses stands beside Katie telling it like it is to the new administrator as Sheila and Jim back them up."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
