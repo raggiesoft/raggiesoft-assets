@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "39.5 MB",
-        "pdf": "32.4 MB",
-        "text_epub": "419 KB",
+        "epub": "40.1 MB",
+        "pdf": "33.1 MB",
+        "text_epub": "426 KB",
         "text_pdf": "1.1 MB",
-        "package_7z": "315 KB",
-        "epub_bytes": 41408067,
-        "pdf_bytes": 34013954,
-        "text_epub_bytes": 429158,
-        "text_pdf_bytes": 1163170,
-        "package_7z_bytes": 322364
+        "package_7z": "320 KB",
+        "epub_bytes": 42090444,
+        "pdf_bytes": 34712782,
+        "text_epub_bytes": 436460,
+        "text_pdf_bytes": 1184306,
+        "package_7z_bytes": 327557
     },
-    "illustration_count": 103,
+    "illustration_count": 104,
     "word_stats": {
-        "story_word_count": 176154,
+        "story_word_count": 179255,
         "lore_word_count": 121,
-        "combined_word_count": 176275,
-        "story_page_count": 641,
-        "combined_page_count": 641,
-        "reading_hours": 11.7,
-        "reading_minutes": 705,
+        "combined_word_count": 179376,
+        "story_page_count": 652,
+        "combined_page_count": 652,
+        "reading_hours": 12,
+        "reading_minutes": 717,
         "novel_equivalent": 2,
         "scale_category": "Epic Full-Length Novel",
         "scale_badge": "Epic Novel",
         "benchmark_note": "2.0\u00d7 a standard 90,000-word contemporary novel (Epic 110k\u2013200k tier)",
         "era_count": 11,
         "chapter_count": 33,
-        "part_count": 74,
-        "illustration_count": 103
+        "part_count": 75,
+        "illustration_count": 104
     },
     "eras": [
         {
@@ -1135,14 +1135,14 @@
             "era_title": "Unofficial Homeowners: Back Home in Virginia Beach (2007\u20132008)",
             "era_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008",
             "illustration_count": 13,
-            "word_count": 17865,
+            "word_count": 17933,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Arvin Road, Crossing Without a Crosswalk, Horizontal IDs on Route 12, & Yearly Passes at Fairlawn",
                     "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/arvin-road-crossing-without-a-crosswalk-horizontal-ids-on-route-12-yearly-passes-at-fairlawn",
                     "illustration_count": 5,
-                    "word_count": 6777,
+                    "word_count": 6845,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1170,8 +1170,8 @@
                             "part_title": "Part 2: Skin to Skin in the Closet, No Crosswalks at Military and Indian River, & Two Wheelchairs at Market Square",
                             "file_path": "e007/c001/p002.md",
                             "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/arvin-road-crossing-without-a-crosswalk-horizontal-ids-on-route-12-yearly-passes-at-fairlawn/part-2-skin-to-skin-in-the-closet-no-crosswalks-at-military-and-indian-river-two-wheelchairs-at-market-square",
-                            "word_count": 1469,
-                            "reading_minutes": 6,
+                            "word_count": 1537,
+                            "reading_minutes": 7,
                             "date": "2007-03-21",
                             "start_time": "08:30",
                             "location": "Virginia Beach, VA (Kempsville \u2014 Arvin Road, Indian River Road & Military Highway, & Market Square Supermarket)",
@@ -1805,22 +1805,22 @@
             "era_num": 11,
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
-            "illustration_count": 22,
-            "word_count": 24066,
+            "illustration_count": 23,
+            "word_count": 27099,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Election Night, The Decision Desk Call, & The Referendum Mandate",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate",
                     "illustration_count": 3,
-                    "word_count": 4106,
+                    "word_count": 4136,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Polls Close at Seven, The 8:42 PM Decision Desk Call, & Victory in Virginia Beach",
                             "file_path": "e011/c001/p001.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-1-polls-close-at-seven-the-8-42-pm-decision-desk-call-victory-in-virginia-beach",
-                            "word_count": 2318,
+                            "word_count": 2348,
                             "reading_minutes": 10,
                             "date": "2026-11-03",
                             "start_time": "19:00",
@@ -1920,16 +1920,16 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "First Train from Norfolk & Swearing In on the Constitution",
-                    "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution",
-                    "illustration_count": 9,
-                    "word_count": 7307,
+                    "chap_title": "First Train from Norfolk, Swearing In on the Constitution, & Strings Attached for RRC",
+                    "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc",
+                    "illustration_count": 10,
+                    "word_count": 10310,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Three Business Class Tickets for Free Caf\u00e9 Car Drinks & The Mobile Lift at Alexandria",
                             "file_path": "e011/c003/p001.md",
-                            "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution/part-1-three-business-class-tickets-for-free-caf-car-drinks-the-mobile-lift-at-alexandria",
+                            "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-1-three-business-class-tickets-for-free-caf-car-drinks-the-mobile-lift-at-alexandria",
                             "word_count": 1689,
                             "reading_minutes": 7,
                             "date": "2027-01-03",
@@ -1954,7 +1954,7 @@
                             "part_num": 2,
                             "part_title": "Part 2: The Yellow Line Over the Fenwick Bridge, The Full-Chair Portrait, & Swearing In on the Constitution",
                             "file_path": "e011/c003/p002.md",
-                            "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution/part-2-the-yellow-line-over-the-fenwick-bridge-the-full-chair-portrait-swearing-in-on-the-constitution",
+                            "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-2-the-yellow-line-over-the-fenwick-bridge-the-full-chair-portrait-swearing-in-on-the-constitution",
                             "word_count": 2727,
                             "reading_minutes": 11,
                             "date": "2027-01-03",
@@ -1987,7 +1987,7 @@
                             "part_num": 3,
                             "part_title": "Part 3: The First Invite to Cocktails, A Known Side Effect of Death, & Home to Sunset Drive",
                             "file_path": "e011/c003/p003.md",
-                            "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution/part-3-the-first-invite-to-cocktails-a-known-side-effect-of-death-home-to-sunset-drive",
+                            "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-3-the-first-invite-to-cocktails-a-known-side-effect-of-death-home-to-sunset-drive",
                             "word_count": 2891,
                             "reading_minutes": 12,
                             "date": "2027-01-03",
@@ -2011,6 +2011,27 @@
                                 }
                             ],
                             "image_count": 3
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: 34 C.F.R. Section 361.38, Two Twelve-Day Dropouts in Room 511, & Strings Attached at the Subcommittee Hearing",
+                            "file_path": "e011/c003/p004.md",
+                            "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-4-34-c-f-r-section-361-38-two-twelve-day-dropouts-in-room-511-strings-attached-at-the-subcommittee-hearing",
+                            "word_count": 3003,
+                            "reading_minutes": 13,
+                            "date": "2027-02-16",
+                            "start_time": "14:00",
+                            "location": "Washington, D.C. (Room 511 & Room 124 of the Dirksen Senate Office Building)",
+                            "excerpt": "When an all-new 2027 delegation from DARS and Roosevelt Rehabilitation Center comes to Washington asking Senator Katie Prairie for $18.5 million in federal funding\u2014denying any knowledge of twin siblings and hiding behind 34 C.F.R. Section 361.38\u2014Katie makes them squirm before revealing that she and Nate are the two 2007 RRC dropouts, unveils an official constituent complaint from Natalie and her mother, and refuses to entertain a dime of federal money until her demands are met.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/feb_2027_dirksen_room_511_rrc_dars_appropriation_showdown_katie_nate.jpg",
+                            "image_alt": "Inside Room 511 of the Dirksen Senate Office Building in February 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding hands behind her mahogany desk while the squirming DARS Commissioner and RRC Director sit across from them beside their glossy funding binders as Katie reveals that she and Nate are the two March 2007 twelve-day RRC dropouts.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/feb_2027_dirksen_room_511_rrc_dars_appropriation_showdown_katie_nate.jpg",
+                                    "alt": "Inside Room 511 of the Dirksen Senate Office Building in February 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding hands behind her mahogany desk while the squirming DARS Commissioner and RRC Director sit across from them beside their glossy funding binders as Katie reveals that she and Nate are the two March 2007 twelve-day RRC dropouts."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
