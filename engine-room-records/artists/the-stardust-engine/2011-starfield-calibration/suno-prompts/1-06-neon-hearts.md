@@ -3,6 +3,7 @@
 * **Artist:** The Stardust Engine
 * **Album:** *Starfield Calibration* (`2011-starfield-calibration`)
 * **Track Number:** 6
+* **ISRC:** `QTAEZ2618244` • **Duration:** `3:57`
 * **License:** CC BY-SA 4.0 International
 
 ---

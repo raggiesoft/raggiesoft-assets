@@ -3,13 +3,14 @@
 * **Artist:** The Stardust Engine
 * **Album:** *Starfield Calibration* (`2011-starfield-calibration`)
 * **Track Number:** 1
+* **ISRC:** `QTAEZ2618239` • **Duration:** `5:03`
 * **License:** CC BY-SA 4.0 International
 
 ---
 
 ## Track 01: The Stardust Engine (Cosmic Tidal Lock Mix)
 * **Original Album / Suno Workspace:** 1987: *Electric Color* (Track 13) / 1997: *Hard Reset* (Disc 1, Track 1)
-* **Status:** Ready for Suno v6 Generation *(replaces earlier rescued WAV in `master-wav/cosmic-tidal-lock/the-stardust-engine-cosmic-tidal-lock.wav`)*
+* **Status:** Mastered & Cleared on DistroKid (`QTAEZ2618239`) *(master WAV in `master-wav/cosmic-tidal-lock/the-stardust-engine-cosmic-tidal-lock.wav`)*
 * **Save Downloaded WAV As:** `master-wav/cosmic-tidal-lock/the-stardust-engine-cosmic-tidal-lock.wav`
 * **Vocal Gender UI Setting:** *(Leave Unselected / Blank — Duet Protocol)*
 * **Weirdness:** `0%`
