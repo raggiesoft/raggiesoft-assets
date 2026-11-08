@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "26.5 MB",
-        "pdf": "16.1 MB",
-        "text_epub": "378 KB",
-        "text_pdf": "1020 KB",
-        "package_7z": "284 KB",
-        "epub_bytes": 27767071,
-        "pdf_bytes": 16885621,
-        "text_epub_bytes": 386883,
-        "text_pdf_bytes": 1044459,
-        "package_7z_bytes": 291014
+        "epub": "31.8 MB",
+        "pdf": "22.4 MB",
+        "text_epub": "400 KB",
+        "text_pdf": "1.1 MB",
+        "package_7z": "300 KB",
+        "epub_bytes": 33394941,
+        "pdf_bytes": 23526038,
+        "text_epub_bytes": 409612,
+        "text_pdf_bytes": 1106525,
+        "package_7z_bytes": 307195
     },
-    "illustration_count": 87,
+    "illustration_count": 94,
     "word_stats": {
-        "story_word_count": 158894,
+        "story_word_count": 167844,
         "lore_word_count": 121,
-        "combined_word_count": 159015,
-        "story_page_count": 578,
-        "combined_page_count": 578,
-        "reading_hours": 10.6,
-        "reading_minutes": 636,
-        "novel_equivalent": 1.8,
+        "combined_word_count": 167965,
+        "story_page_count": 610,
+        "combined_page_count": 611,
+        "reading_hours": 11.2,
+        "reading_minutes": 671,
+        "novel_equivalent": 1.9,
         "scale_category": "Epic Full-Length Novel",
         "scale_badge": "Epic Novel",
-        "benchmark_note": "1.8\u00d7 a standard 90,000-word contemporary novel (Epic 110k\u2013200k tier)",
+        "benchmark_note": "1.9\u00d7 a standard 90,000-word contemporary novel (Epic 110k\u2013200k tier)",
         "era_count": 11,
-        "chapter_count": 30,
-        "part_count": 63,
-        "illustration_count": 87
+        "chapter_count": 33,
+        "part_count": 70,
+        "illustration_count": 94
     },
     "eras": [
         {
@@ -241,7 +241,7 @@
             "era_title": "Sixteen & Summer Sanctuary",
             "era_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary",
             "illustration_count": 12,
-            "word_count": 20202,
+            "word_count": 20198,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -392,7 +392,7 @@
                     "chap_title": "Junior Year at Northwood High & The Prognosis",
                     "chap_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis",
                     "illustration_count": 3,
-                    "word_count": 7059,
+                    "word_count": 7055,
                     "parts": [
                         {
                             "part_num": 1,
@@ -441,7 +441,7 @@
                             "part_title": "Part 3: Two Compact Power Wheelchairs in the Trunk, Downsizing to Military Highway, & CVTA Route 15",
                             "file_path": "e003/c003/p003.md",
                             "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-3-two-compact-power-wheelchairs-in-the-trunk-downsizing-to-military-highway-cvta-route-15",
-                            "word_count": 2172,
+                            "word_count": 2168,
                             "reading_minutes": 9,
                             "date": "2001-10-06",
                             "start_time": "13:10",
@@ -965,21 +965,21 @@
             "era_title": "Twelve Days at Roosevelt Rehabilitation Center & Walking Out for Good",
             "era_url": "/raggiesoft-books/books/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good",
             "illustration_count": 6,
-            "word_count": 14562,
+            "word_count": 14568,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Barton Hall Check-In, Rushing Voc Eval in One Week, & 'Door Greeter!?'",
                     "chap_url": "/raggiesoft-books/books/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/barton-hall-check-in-rushing-voc-eval-in-one-week-door-greeter",
                     "illustration_count": 2,
-                    "word_count": 5607,
+                    "word_count": 5610,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Sunday Check-In at Barton Hall, The Opposite-Gender Dorm Rule, & Expelling the Creepy Roommate",
                             "file_path": "e006/c001/p001.md",
                             "url": "/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/barton-hall-check-in-rushing-voc-eval-in-one-week-door-greeter/part-1-sunday-check-in-at-barton-hall-the-opposite-gender-dorm-rule-expelling-the-creepy-roommate",
-                            "word_count": 2839,
+                            "word_count": 2842,
                             "reading_minutes": 12,
                             "date": "2007-03-04",
                             "start_time": "11:15",
@@ -1074,7 +1074,7 @@
                     "chap_title": "The Dormitory Room Mix-Up, Tina's Daybed in Luray, & Leaving RRC After Twelve Days",
                     "chap_url": "/raggiesoft-books/books/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/the-dormitory-room-mix-up-tina-s-daybed-in-luray-leaving-rrc-after-twelve-days",
                     "illustration_count": 2,
-                    "word_count": 3553,
+                    "word_count": 3556,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1102,7 +1102,7 @@
                             "part_title": "Part 2: Sharing the Daybed at Tina's House in Luray, Walking Out After Twelve Days, & Coming Home to Kempsville",
                             "file_path": "e006/c003/p002.md",
                             "url": "/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/the-dormitory-room-mix-up-tina-s-daybed-in-luray-leaving-rrc-after-twelve-days/part-2-sharing-the-daybed-at-tina-s-house-in-luray-walking-out-after-twelve-days-coming-home-to-kempsville",
-                            "word_count": 1407,
+                            "word_count": 1410,
                             "reading_minutes": 6,
                             "date": "2007-03-16",
                             "start_time": "15:45",
@@ -1124,35 +1124,209 @@
         },
         {
             "era_num": 7,
-            "era_title": "Unofficial Homeowners: Back Home in Virginia Beach",
-            "era_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach",
-            "illustration_count": 1,
-            "word_count": 2242,
+            "era_title": "Unofficial Homeowners: Back Home in Virginia Beach (2007\u20132008)",
+            "era_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008",
+            "illustration_count": 8,
+            "word_count": 11184,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "One Bedroom, One Office, & The Closet Sanctuary",
-                    "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach/one-bedroom-one-office-the-closet-sanctuary",
-                    "illustration_count": 1,
-                    "word_count": 2242,
+                    "chap_title": "Arvin Road, Crossing Without a Crosswalk, & Yearly Passes at Fairlawn",
+                    "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/arvin-road-crossing-without-a-crosswalk-yearly-passes-at-fairlawn",
+                    "illustration_count": 3,
+                    "word_count": 5034,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Unofficial Homeowners, One Bedroom and One Office, & The Closet We Both Know We'll Use",
+                            "part_title": "Part 1: Unofficial Homeowners, One Bedroom and One Office, & The Closet We Both Know We'll Use",
                             "file_path": "e007/c001/p001.md",
-                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach/one-bedroom-one-office-the-closet-sanctuary/unofficial-homeowners-one-bedroom-and-one-office-the-closet-we-both-know-we-ll-use",
-                            "word_count": 2242,
-                            "reading_minutes": 9,
+                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/arvin-road-crossing-without-a-crosswalk-yearly-passes-at-fairlawn/part-1-unofficial-homeowners-one-bedroom-and-one-office-the-closet-we-both-know-we-ll-use",
+                            "word_count": 2377,
+                            "reading_minutes": 10,
                             "date": "2007-03-18",
                             "start_time": "18:30",
-                            "location": "Virginia Beach, VA (1201 Dyer Place off Military Highway & Indian River Road in Kempsville)",
-                            "excerpt": "\"Oh, thank goodness,\" Katie breathed at six-thirty on Sunday evening the second she slid off thefolding manual travel chair onto the padded contoured seat of her full-size black SwiftChair inside our front\u2026",
+                            "location": "Virginia Beach, VA (Kempsville \u2014 Single-Story Brick Ranch on Arvin Road off Indian River Road & Military Highway)",
+                            "excerpt": "\"Oh, thank goodness,\" Katie breathed at six-thirty on Sunday evening the second she slid off the folding manual travel chair onto the padded contoured seat of her full-size black SwiftChair inside our front\u2026",
                             "image": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_dyer_place_shared_bedroom_queen_bed_and_closet_sanctuary_katie_nate_david.jpg",
-                            "image_alt": "Inside the shared bedroom that had been Katie's room since 2001 at the single-story brick ranch off Military Highway in Virginia Beach on Sunday evening, March 18, 2007, twenty-one-year-old fraternal twins Katie and Nate Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands as their father David finishes smoothing the navy-and-slate-blue comforter on their newly installed queen-size bed beneath the framed blue butterfly print\u2014while to their right, the wide bedroom closet doors stand open revealing a plush sleeping bag and four pillows laid out across the clean closet floor as all three share a warm, knowing smile",
+                            "image_alt": "Inside the shared bedroom that had been Katie's room since 2001 at the single-story brick ranch on Arvin Road off Indian River Road and Military Highway in Virginia Beach on Sunday evening, March 18, 2007, twenty-one-year-old fraternal twins Katie and Nate Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands as their father David finishes smoothing the navy-and-slate-blue comforter on their newly installed queen-size bed beneath the framed blue butterfly print\u2014while to their right, the wide bedroom closet doors stand open revealing a plush sleeping bag and four pillows laid out across the clean closet floor as all three share a warm, knowing smile",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_dyer_place_shared_bedroom_queen_bed_and_closet_sanctuary_katie_nate_david.jpg",
-                                    "alt": "Inside the shared bedroom that had been Katie's room since 2001 at the single-story brick ranch off Military Highway in Virginia Beach on Sunday evening, March 18, 2007, twenty-one-year-old fraternal twins Katie and Nate Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands as their father David finishes smoothing the navy-and-slate-blue comforter on their newly installed queen-size bed beneath the framed blue butterfly print\u2014while to their right, the wide bedroom closet doors stand open revealing a plush sleeping bag and four pillows laid out across the clean closet floor as all three share a warm, knowing smile"
+                                    "alt": "Inside the shared bedroom that had been Katie's room since 2001 at the single-story brick ranch on Arvin Road off Indian River Road and Military Highway in Virginia Beach on Sunday evening, March 18, 2007, twenty-one-year-old fraternal twins Katie and Nate Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands as their father David finishes smoothing the navy-and-slate-blue comforter on their newly installed queen-size bed beneath the framed blue butterfly print\u2014while to their right, the wide bedroom closet doors stand open revealing a plush sleeping bag and four pillows laid out across the clean closet floor as all three share a warm, knowing smile"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Skin to Skin in the Closet, No Crosswalks at Military and Indian River, & Two Wheelchairs at Market Square",
+                            "file_path": "e007/c001/p002.md",
+                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/arvin-road-crossing-without-a-crosswalk-yearly-passes-at-fairlawn/part-2-skin-to-skin-in-the-closet-no-crosswalks-at-military-and-indian-river-two-wheelchairs-at-market-square",
+                            "word_count": 1483,
+                            "reading_minutes": 6,
+                            "date": "2007-03-21",
+                            "start_time": "08:30",
+                            "location": "Virginia Beach, VA (Kempsville \u2014 Arvin Road, Indian River Road & Military Highway, & Market Square Supermarket)",
+                            "excerpt": "\"You're warm,\" Katie murmured sleepily at eight-thirty on Wednesday morning, her bare shoulder pressed tightly against my chest inside our single shared sleeping bag on the carpeted floor of our bedroom closet\u2026",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_indian_river_military_hwy_no_crosswalk_grocery_run_katie_nate.jpg",
+                            "image_alt": "At the busy multi-lane intersection of Indian River Road and Military Highway in Virginia Beach on Wednesday afternoon, March 21, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the concrete curb cut beside the traffic signal pole where heavy traffic roars across bare asphalt with zero painted crosswalks between the CVTA Route 12 and Route 15 bus stops and the Market Square grocery plaza across the street",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_indian_river_military_hwy_no_crosswalk_grocery_run_katie_nate.jpg",
+                                    "alt": "At the busy multi-lane intersection of Indian River Road and Military Highway in Virginia Beach on Wednesday afternoon, March 21, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the concrete curb cut beside the traffic signal pole where heavy traffic roars across bare asphalt with zero painted crosswalks between the CVTA Route 12 and Route 15 bus stops and the Market Square grocery plaza across the street"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The :07 Bus From Glenrock Mall, Yearly Memberships at Fairlawn Rec Center, & The 1977 Building's Quirks",
+                            "file_path": "e007/c001/p003.md",
+                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/arvin-road-crossing-without-a-crosswalk-yearly-passes-at-fairlawn/part-3-the-07-bus-from-glenrock-mall-yearly-memberships-at-fairlawn-rec-center-the-1977-building-s-quirks",
+                            "word_count": 1174,
+                            "reading_minutes": 5,
+                            "date": "2007-03-26",
+                            "start_time": "10:31",
+                            "location": "Virginia Beach & Norfolk, VA (CVTA Routes 15 & 25, Princess Anne Road & Edwin Drive, & Fairlawn Recreation Center)",
+                            "excerpt": "\"Make sure we're on the ten-thirty-one northbound Route 15 and not a minute later,\" Katie reminded me on Monday morning as we waited side by side in our SwiftChairs at the bus stop on Military Highway and Indian\u2026",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_fairlawn_rec_center_1977_lobby_concrete_ramp_memberships_katie_nate.jpg",
+                            "image_alt": "Inside the 1970s brick lobby of the original 1977 Fairlawn Recreation Center in Virginia Beach on Monday morning, March 26, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the front desk holding their newly laminated yearly resident membership cards and Virginia State IDs\u2014while behind them rises the massive unpainted dark-gray concrete spiral ramp winding up the perimeter wall beside the key-locked elevator door",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_fairlawn_rec_center_1977_lobby_concrete_ramp_memberships_katie_nate.jpg",
+                                    "alt": "Inside the 1970s brick lobby of the original 1977 Fairlawn Recreation Center in Virginia Beach on Monday morning, March 26, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the front desk holding their newly laminated yearly resident membership cards and Virginia State IDs\u2014while behind them rises the massive unpainted dark-gray concrete spiral ramp winding up the perimeter wall beside the key-locked elevator door"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "A Near-Miss at Dying Glenrock Mall, Locking Down WHOIS, & Forming Our Virginia LLC",
+                    "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/a-near-miss-at-dying-glenrock-mall-locking-down-whois-forming-our-virginia-llc",
+                    "illustration_count": 2,
+                    "word_count": 2073,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: A Dying Single-Story Mall, Spotting Brenda in the Concourse, & The WHOIS Wake-Up Call",
+                            "file_path": "e007/c002/p001.md",
+                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/a-near-miss-at-dying-glenrock-mall-locking-down-whois-forming-our-virginia-llc/part-1-a-dying-single-story-mall-spotting-brenda-in-the-concourse-the-whois-wake-up-call",
+                            "word_count": 1101,
+                            "reading_minutes": 5,
+                            "date": "2007-03-29",
+                            "start_time": "15:25",
+                            "location": "Norfolk & Virginia Beach, VA (Glenrock Mall Concourse & Our Home Office on Arvin Road)",
+                            "excerpt": "\"Nate\u2014stop your chair right now and pull behind this pillar,\" Katie whispered sharply at three-twenty-five on Thursday afternoon, her left hand shooting across our armrests to cover my wrist just as we rolled\u2026",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_glenrock_mall_dying_single_story_concourse_brenda_near_miss_katie_nate.jpg",
+                            "image_alt": "Inside the dim, half-vacant single-story concourse of Glenrock Mall in Norfolk on Thursday afternoon, March 29, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs tucked out of sight behind a wide beige-tiled structural column beside a dark shuttered storefront with a pulled-down metal security grille, holding hands in silent vigilance as their estranged mother Brenda stands fifty feet down the single-story corridor holding a printed webpage and questioning a cellphone-case kiosk vendor",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_glenrock_mall_dying_single_story_concourse_brenda_near_miss_katie_nate.jpg",
+                                    "alt": "Inside the dim, half-vacant single-story concourse of Glenrock Mall in Norfolk on Thursday afternoon, March 29, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs tucked out of sight behind a wide beige-tiled structural column beside a dark shuttered storefront with a pulled-down metal security grille, holding hands in silent vigilance as their estranged mother Brenda stands fifty feet down the single-story corridor holding a printed webpage and questioning a cellphone-case kiosk vendor"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Dad's Legal Consultation, Our Virginia LLC, & A Virtual Mailbox at The Parcel Center",
+                            "file_path": "e007/c002/p002.md",
+                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/a-near-miss-at-dying-glenrock-mall-locking-down-whois-forming-our-virginia-llc/part-2-dad-s-legal-consultation-our-virginia-llc-a-virtual-mailbox-at-the-parcel-center",
+                            "word_count": 972,
+                            "reading_minutes": 4,
+                            "date": "2007-04-03",
+                            "start_time": "14:00",
+                            "location": "Virginia Beach, VA (Independence Boulevard Law Office, The Parcel Center, & Our Home Office on Arvin Road)",
+                            "excerpt": "\"Your father already took care of my consultation fee and the hundred-dollar State Corporation Commission filing fee by credit card this morning,\" attorney Kenneth Vance said warmly on Tuesday afternoon, sliding\u2026",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/apr_2007_virginia_llc_consultation_registered_agent_shield_katie_nate.jpg",
+                            "image_alt": "Inside a ground-floor Virginia Beach law office off Independence Boulevard on Tuesday afternoon, April 3, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs across the mahogany conference table from family and business attorney Kenneth Vance, signing the Articles of Organization for their fifty-fifty Virginia limited liability company while David Prairie listens over the desk speakerphone",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/apr_2007_virginia_llc_consultation_registered_agent_shield_katie_nate.jpg",
+                                    "alt": "Inside a ground-floor Virginia Beach law office off Independence Boulevard on Tuesday afternoon, April 3, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs across the mahogany conference table from family and business attorney Kenneth Vance, signing the Articles of Organization for their fifty-fifty Virginia limited liability company while David Prairie listens over the desk speakerphone"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "Twenty-Two in Alexandria: Riding DMV Transit, Senator James West's White House Tickets, & The Spark to Run for City Council",
+                    "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-senator-james-west-s-white-house-tickets-the-spark-to-run-for-city-council",
+                    "illustration_count": 2,
+                    "word_count": 2899,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Accessible Taxi to Newport News, The ARTS Train to Alexandria, & Riding Northern Virginia Transit on Our Twenty-Second Birthday",
+                            "file_path": "e007/c003/p001.md",
+                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-senator-james-west-s-white-house-tickets-the-spark-to-run-for-city-council/part-1-accessible-taxi-to-newport-news-the-arts-train-to-alexandria-riding-northern-virginia-transit-on-our-twenty-second-birthday",
+                            "word_count": 978,
+                            "reading_minutes": 4,
+                            "date": "2007-04-08",
+                            "start_time": "09:15",
+                            "location": "Newport News & Alexandria, VA (Newport News ARTS Station, Alexandria Union Station, King Street Metro, & Sunset Drive)",
+                            "excerpt": "\"Happy early twenty-second birthday, you two!\" Dad beamed on Saturday afternoon, standing right beside the blue mobile wheelchair lift on the red-brick platform of Alexandria Union Station as the ARTS conductor\u2026",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/apr_2007_alexandria_alx_platform_22nd_birthday_arrival_katie_nate_david.jpg",
+                            "image_alt": "On the red-brick platform of Alexandria Union Station beside the stainless-steel ARTS passenger train and the George Washington Masonic Memorial tower in the background on Saturday, April 7, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie roll their black motorized SwiftChair power wheelchairs off the blue station wheelchair lift as their father David Prairie beams and welcomes them to Northern Virginia for their birthday week",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/apr_2007_alexandria_alx_platform_22nd_birthday_arrival_katie_nate_david.jpg",
+                                    "alt": "On the red-brick platform of Alexandria Union Station beside the stainless-steel ARTS passenger train and the George Washington Masonic Memorial tower in the background on Saturday, April 7, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie roll their black motorized SwiftChair power wheelchairs off the blue station wheelchair lift as their father David Prairie beams and welcomes them to Northern Virginia for their birthday week"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Senator James West's Tickets to the White House, Watching the U.S. Senate From the Gallery, & Why Can't We Ride the Bus to City Hall?",
+                            "file_path": "e007/c003/p002.md",
+                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-senator-james-west-s-white-house-tickets-the-spark-to-run-for-city-council/part-2-senator-james-west-s-tickets-to-the-white-house-watching-the-u-s-senate-from-the-gallery-why-can-t-we-ride-the-bus-to-city-hall",
+                            "word_count": 1921,
+                            "reading_minutes": 8,
+                            "date": "2007-04-10",
+                            "start_time": "09:30",
+                            "location": "Washington, D.C. & Alexandria, VA (The White House, U.S. Senate Gallery at the U.S. Capitol, & Dad's House on Sunset Drive)",
+                            "excerpt": "\"How on earth did you manage to score three confirmed passes to tour the White House on three weeks' notice, Dad?\" Katie asked in amazement at nine-thirty on Tuesday morning as our two SwiftChairs rolled side by\u2026",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/apr_2007_us_senate_gallery_and_senator_james_west_visit_katie_nate_david.jpg",
+                            "image_alt": "Inside the third-floor wheelchair-accessible visitor gallery overlooking the United States Senate Chamber at the U.S. Capitol on Tuesday afternoon, April 10, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding their official Senate Gallery passes beside their father David Prairie, looking down in rapt awe at the semicircular rows of mahogany Senate desks below",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/apr_2007_us_senate_gallery_and_senator_james_west_visit_katie_nate_david.jpg",
+                                    "alt": "Inside the third-floor wheelchair-accessible visitor gallery overlooking the United States Senate Chamber at the U.S. Capitol on Tuesday afternoon, April 10, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding their official Senate Gallery passes beside their father David Prairie, looking down in rapt awe at the semicircular rows of mahogany Senate desks below"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 4,
+                    "chap_title": "Associate Degrees in Hand, 'Not the Right Skill Match,' & Launching Prairie Twin Interactive From Arvin Road",
+                    "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/associate-degrees-in-hand-not-the-right-skill-match-launching-prairie-twin-interactive-from-arvin-road",
+                    "illustration_count": 1,
+                    "word_count": 1178,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Associate Degrees in Hand, 'Not the Right Skill Match,' & Putting Our Virginia LLC to Work",
+                            "file_path": "e007/c004/p001.md",
+                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/associate-degrees-in-hand-not-the-right-skill-match-launching-prairie-twin-interactive-from-arvin-road/associate-degrees-in-hand-not-the-right-skill-match-putting-our-virginia-llc-to-work",
+                            "word_count": 1178,
+                            "reading_minutes": 5,
+                            "date": "2007-06-14",
+                            "start_time": "14:15",
+                            "location": "Virginia Beach, VA (Virginia Beach Boulevard Office Park & Our Dual-Desk Home Office on Arvin Road)",
+                            "excerpt": "\"Your PHP database queries and your Associate of Applied Science transcripts from the Community College of Hampton Roads are certainly impressive on paper,\" the human-resources director said in a smooth\u2026",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/jun_2007_polite_hr_job_interview_rejection_wheelchairs_katie_nate.jpg",
+                            "image_alt": "Inside a glass-walled corporate conference room off Virginia Beach Boulevard on Thursday afternoon, June 14, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs with their leather CCHR Associate Degree portfolios and printed PHP and SQL code samples open on the table, exchanging a quiet, knowing look as two corporate hiring managers offer practiced, legally sanitized smiles across the table",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/jun_2007_polite_hr_job_interview_rejection_wheelchairs_katie_nate.jpg",
+                                    "alt": "Inside a glass-walled corporate conference room off Virginia Beach Boulevard on Thursday afternoon, June 14, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs with their leather CCHR Associate Degree portfolios and printed PHP and SQL code samples open on the table, exchanging a quiet, knowing look as two corporate hiring managers offer practiced, legally sanitized smiles across the table"
                                 }
                             ],
                             "image_count": 1
@@ -1166,21 +1340,21 @@
             "era_title": "Do Better: Ideas for CVTA & The Kempsville City Council",
             "era_url": "/raggiesoft-books/books/katie/do-better-ideas-for-cvta-the-kempsville-city-council",
             "illustration_count": 7,
-            "word_count": 13913,
+            "word_count": 13916,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Do Better: Ideas for CVTA & The Four-Bus Mayoral Loop",
                     "chap_url": "/raggiesoft-books/books/katie/do-better-ideas-for-cvta-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop",
                     "illustration_count": 3,
-                    "word_count": 5825,
+                    "word_count": 5828,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Does the Bus Run? Calling Out CVTA's Complacency & The 2008 Regional Mayoral Challenge",
                             "file_path": "e008/c001/p001.md",
                             "url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop/part-1-does-the-bus-run-calling-out-cvta-s-complacency-the-2008-regional-mayoral-challenge",
-                            "word_count": 3323,
+                            "word_count": 3326,
                             "reading_minutes": 14,
                             "date": "2008-04-14",
                             "start_time": "13:30",
@@ -1459,7 +1633,7 @@
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
             "illustration_count": 3,
-            "word_count": 5052,
+            "word_count": 5055,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1500,14 +1674,14 @@
                     "chap_title": "Flipping the Seventh Senate District, The Mahogany Senate Ramp, & Madam Chair",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/flipping-the-seventh-senate-district-the-mahogany-senate-ramp-madam-chair",
                     "illustration_count": 1,
-                    "word_count": 2766,
+                    "word_count": 2769,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Flipping the Seventh Senate District, Custom-Milling the Mahogany Senate Ramp, & Swearing In as Madam Chair",
                             "file_path": "e010/c002/p001.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/flipping-the-seventh-senate-district-the-mahogany-senate-ramp-madam-chair/flipping-the-seventh-senate-district-custom-milling-the-mahogany-senate-ramp-swearing-in-as-madam-chair",
-                            "word_count": 2766,
+                            "word_count": 2769,
                             "reading_minutes": 12,
                             "date": "2019-11-05",
                             "start_time": "19:30",
