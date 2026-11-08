@@ -1,0 +1,188 @@
+/**
+ * ============================================================================
+ * STARDUST THEME: RRC INSTITUTIONAL (FISHERSVILLE CINDERBLOCK & CLIPBOARD SLATE)
+ * ============================================================================
+ *
+ * Description:
+ * This stylesheet (`rrc-institutional.css`) defines the cold, paternalistic
+ * "RRC Institutional" reading theme (`theme: "rrc-institutional"`) for Episode 6
+ * of *Katie & Nathaniel* (`books/katie/e006/c001`–`c003`: March 2007 at the
+ * Roosevelt Rehabilitation Center in Fishersville, Virginia). It visually
+ * conveys the sterile cinderblock corridors of Barton Hall, the patronizing
+ * Vocational Evaluation shops that pitched two college graduates holding
+ * Associate of Applied Science degrees on becoming a *ValueMart* door greeter,
+ * the non-consensual grabbing of wheelchair push-handles, the Level 1
+ * dorm-grounding and sibling-separation contract ("The Chickenshit Report")
+ * after Katie's nose was broken open in the therapeutic pool, and the morning
+ * Center administration covered up Natalie's dormitory sexual assault.
+ *
+ * Psychological & Visual Architecture:
+ * - Light Mode ("Fluorescent Cinderblock Putty, Clipboard Slate & Contract Red"):
+ *   Replaces warm sanctuary tones with a sterile Fluorescent Cinderblock Putty
+ *   canvas (`#eef0f2`), Barton Hall Linoleum sidebar backgrounds (`#dfe3e8`),
+ *   and cold Clipboard Form surfaces (`#f9fafb`), paired with Carbon-Copy Ink
+ *   (`#181c20`), Level-1 Disciplinary Contract Crimson primary accents
+ *   (`#881337`), and Paternalistic Shop-Coat Slate secondary accents (`#334155`).
+ * - Dark Mode ("Barton Hall Lockout Night, Fluorescent Hum & Warning Crimson"):
+ *   Pairs an airless Dormitory Lockout Obsidian canvas (`#0c0e12`) and cold
+ *   Night-Desk surfaces (`#191f28`) with Fluorescent-Glare Pale Grey prose
+ *   (`#e2e8f0`), Warning-Siren Rose-Crimson primary accents (`#fda4af`), and
+ *   Steel Conduit Slate secondary accents (`#94a3b8`).
+ *
+ * WCAG 2.1 AA / AAA Contrast Verification:
+ * - Light Mode:
+ *   - Body Text (`#181c20` on `#eef0f2` bg): 15.42:1 (WCAG AAA)
+ *   - Body Text (`#181c20` on `#f9fafb` surface): 16.71:1 (WCAG AAA)
+ *   - Primary Accent (`#881337` on `#eef0f2` bg): 8.16:1 (WCAG AAA)
+ *   - Secondary Accent (`#334155` on `#eef0f2` bg): 8.92:1 (WCAG AAA)
+ * - Dark Mode:
+ *   - Body Text (`#e2e8f0` on `#0c0e12` bg): 15.28:1 (WCAG AAA)
+ *   - Body Text (`#e2e8f0` on `#191f28` surface): 12.64:1 (WCAG AAA)
+ *   - Primary Accent (`#fda4af` on `#0c0e12` bg): 10.12:1 (WCAG AAA)
+ *   - Secondary Accent (`#94a3b8` on `#0c0e12` bg): 7.64:1 (WCAG AAA)
+ *   - Primary Button (`#fff1f2` on `#881337` fill): 8.64:1 (WCAG AAA)
+ * ============================================================================
+ */
+
+/* Theme Name: RRC Institutional (`rrc-institutional`) */
+
+/* --- 1. Light Mode (Base & Explicit OS/User Light Preference) --- */
+body.theme-rrc-institutional,
+body.theme-light.theme-rrc-institutional,
+body.theme-sepia.theme-rrc-institutional {
+    color-scheme: light;
+    --rs-bg: #eef0f2;        /* Cold Fluorescent Cinderblock Putty canvas */
+    --rs-bg-alt: #dfe3e8;    /* Barton Hall Linoleum Corridor sidebar background */
+    --rs-surface: #f9fafb;   /* Sterile Clipboard Form reading surface */
+    --rs-card-bg: #f9fafb;   /* Modal and card container surface */
+    --rs-text: #181c20;      /* Cold Institutional Carbon Ink (15.42:1 contrast) */
+    --rs-heading: #1e293b;   /* Bureaucratic Case-File Slate heading token */
+    --rs-primary: #881337;   /* Level-1 Disciplinary Contract Crimson primary accent (8.16:1 contrast) */
+    --rs-secondary: #334155; /* Paternalistic Shop-Coat Slate secondary accent (8.92:1 contrast) */
+    --rs-border: #c5ccd4;    /* Institutional Steel-Locker structural border */
+    accent-color: #881337;
+}
+
+@media (prefers-color-scheme: light) {
+    body.theme-auto.theme-rrc-institutional,
+    body.theme-sepia-system.theme-rrc-institutional {
+        color-scheme: light;
+        --rs-bg: #eef0f2;
+        --rs-bg-alt: #dfe3e8;
+        --rs-surface: #f9fafb;
+        --rs-card-bg: #f9fafb;
+        --rs-text: #181c20;
+        --rs-heading: #1e293b;
+        --rs-primary: #881337;
+        --rs-secondary: #334155;
+        --rs-border: #c5ccd4;
+        accent-color: #881337;
+    }
+}
+
+body.theme-rrc-institutional #stardust-reading-pane,
+body.theme-light.theme-rrc-institutional #stardust-reading-pane,
+body.theme-sepia.theme-rrc-institutional #stardust-reading-pane {
+    box-shadow: inset 0 0 36px rgba(15, 23, 42, 0.08);
+}
+
+/* --- 2. Dark Mode (Explicitly Forced by Reader Toggle) --- */
+body.theme-dark.theme-rrc-institutional,
+body.theme-dark-sepia.theme-rrc-institutional {
+    color-scheme: dark;
+    --rs-bg: #0c0e12;        /* Airless Dormitory Lockout Obsidian canvas */
+    --rs-bg-alt: #13171d;    /* Cinderblock Hallway Shadow sidebar background */
+    --rs-surface: #191f28;   /* Cold Institutional Night-Desk reading surface */
+    --rs-card-bg: #191f28;   /* Matching elevated dark container surface */
+    --rs-text: #e2e8f0;      /* Fluorescent-Glare Pale Grey prose text (15.28:1 contrast) */
+    --rs-heading: #f8fafc;   /* Harsh Institutional White heading token */
+    --rs-primary: #fda4af;   /* Warning-Siren Rose-Crimson primary accent (10.12:1 contrast) */
+    --rs-secondary: #94a3b8; /* Cold Steel Conduit Slate secondary accent (7.64:1 contrast) */
+    --rs-border: #2d3748;    /* Locked Cinderblock Doorframe structural border */
+    accent-color: #fda4af;
+}
+
+body.theme-dark.theme-rrc-institutional #stardust-reading-pane,
+body.theme-dark-sepia.theme-rrc-institutional #stardust-reading-pane {
+    box-shadow: inset 0 0 44px rgba(0, 0, 0, 0.55);
+}
+
+/* Ensure primary buttons in forced Dark Mode maintain AAA text contrast (8.64:1) */
+body.theme-dark.theme-rrc-institutional .rs-btn-primary,
+body.theme-dark-sepia.theme-rrc-institutional .rs-btn-primary {
+    background-color: #881337;
+    border-color: #fda4af;
+    color: #fff1f2;
+}
+
+body.theme-dark.theme-rrc-institutional .rs-btn-primary:hover,
+body.theme-dark-sepia.theme-rrc-institutional .rs-btn-primary:hover,
+body.theme-dark.theme-rrc-institutional .rs-btn-primary:focus-visible,
+body.theme-dark-sepia.theme-rrc-institutional .rs-btn-primary:focus-visible {
+    background-color: #9f1239;
+    border-color: #fecdd3;
+    color: #ffffff;
+}
+
+/* --- 3. Dark Mode (OS Preference via `prefers-color-scheme: dark`) --- */
+@media (prefers-color-scheme: dark) {
+    body.theme-auto.theme-rrc-institutional,
+    body.theme-sepia-system.theme-rrc-institutional,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-rrc-institutional {
+        color-scheme: dark;
+        --rs-bg: #0c0e12;
+        --rs-bg-alt: #13171d;
+        --rs-surface: #191f28;
+        --rs-card-bg: #191f28;
+        --rs-text: #e2e8f0;
+        --rs-heading: #f8fafc;
+        --rs-primary: #fda4af;
+        --rs-secondary: #94a3b8;
+        --rs-border: #2d3748;
+        accent-color: #fda4af;
+    }
+
+    body.theme-auto.theme-rrc-institutional #stardust-reading-pane,
+    body.theme-sepia-system.theme-rrc-institutional #stardust-reading-pane,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-rrc-institutional #stardust-reading-pane {
+        box-shadow: inset 0 0 44px rgba(0, 0, 0, 0.55);
+    }
+
+    body.theme-auto.theme-rrc-institutional .rs-btn-primary,
+    body.theme-sepia-system.theme-rrc-institutional .rs-btn-primary,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-rrc-institutional .rs-btn-primary {
+        background-color: #881337;
+        border-color: #fda4af;
+        color: #fff1f2;
+    }
+
+    body.theme-auto.theme-rrc-institutional .rs-btn-primary:hover,
+    body.theme-sepia-system.theme-rrc-institutional .rs-btn-primary:hover,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-rrc-institutional .rs-btn-primary:hover,
+    body.theme-auto.theme-rrc-institutional .rs-btn-primary:focus-visible,
+    body.theme-sepia-system.theme-rrc-institutional .rs-btn-primary:focus-visible,
+    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-rrc-institutional .rs-btn-primary:focus-visible {
+        background-color: #9f1239;
+        border-color: #fecdd3;
+        color: #ffffff;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast Mode) Safety --- */
+@media (forced-colors: active) {
+    body.theme-rrc-institutional {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-secondary: Highlight;
+        --rs-border: ButtonBorder;
+    }
+
+    body.theme-rrc-institutional #stardust-reading-pane {
+        box-shadow: none;
+    }
+}

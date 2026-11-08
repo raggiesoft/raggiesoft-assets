@@ -916,7 +916,7 @@ function initOceanViewReader() {
                 const rawHref = customThemeLink.getAttribute('href') || '';
                 if (rawHref) {
                     const baseHref = rawHref.split('?')[0];
-                    customThemeLink.setAttribute('href', baseHref + '?v=20261026c');
+                    customThemeLink.setAttribute('href', baseHref + '?v=20261108a');
                 }
                 customThemeLink.removeAttribute('disabled');
                 customThemeLink.disabled = false;
