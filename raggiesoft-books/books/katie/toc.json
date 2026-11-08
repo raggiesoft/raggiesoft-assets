@@ -8,18 +8,18 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "23.6 MB",
-        "pdf": "12.6 MB",
+        "epub": "25.8 MB",
+        "pdf": "15.1 MB",
         "text_epub": "370 KB",
         "text_pdf": "1000 KB",
         "package_7z": "279 KB",
-        "epub_bytes": 24776641,
-        "pdf_bytes": 13233850,
+        "epub_bytes": 27038842,
+        "pdf_bytes": 15864363,
         "text_epub_bytes": 378404,
         "text_pdf_bytes": 1024466,
-        "package_7z_bytes": 285879
+        "package_7z_bytes": 286076
     },
-    "illustration_count": 83,
+    "illustration_count": 86,
     "word_stats": {
         "story_word_count": 155851,
         "lore_word_count": 121,
@@ -35,7 +35,7 @@
         "era_count": 10,
         "chapter_count": 29,
         "part_count": 62,
-        "illustration_count": 83
+        "illustration_count": 86
     },
     "eras": [
         {
@@ -964,7 +964,7 @@
             "era_num": 6,
             "era_title": "Roosevelt Rehabilitation Center & One Year in Separate Dorms",
             "era_url": "/raggiesoft-books/books/katie/roosevelt-rehabilitation-center-one-year-in-separate-dorms",
-            "illustration_count": 3,
+            "illustration_count": 6,
             "word_count": 13883,
             "chapters": [
                 {
@@ -1022,7 +1022,7 @@
                     "chap_num": 2,
                     "chap_title": "Cantor Hall, Quantum OS 2000 Professional, & The Chickenshit Report",
                     "chap_url": "/raggiesoft-books/books/katie/roosevelt-rehabilitation-center-one-year-in-separate-dorms/cantor-hall-quantum-os-2000-professional-the-chickenshit-report",
-                    "illustration_count": 1,
+                    "illustration_count": 2,
                     "word_count": 5280,
                     "parts": [
                         {
@@ -1056,7 +1056,16 @@
                             "date": "2007-07-10",
                             "start_time": "16:15",
                             "location": "Fishersville, VA (Roosevelt Rehabilitation Center \u2014 Therapeutic Pool, Bates-Harding Student Health, Cantor Hall, & Counselor's Office)",
-                            "excerpt": "\"I told you to leave her alone!\" I shouted across the warm, echoing water of the indoor therapeutic pool at Roosevelt Rehabilitation Center, projecting my voice intentionally loud so the recreation staffer\u2026"
+                            "excerpt": "\"I told you to leave her alone!\" I shouted across the warm, echoing water of the indoor therapeutic pool at Roosevelt Rehabilitation Center, projecting my voice intentionally loud so the recreation staffer\u2026",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_bates_harding_counselor_office_dignity_note_katie_nate.jpg",
+                            "image_alt": "Inside a 1970s brick-and-wood-paneled vocational counselor's office in the Bates-Harding Building at Roosevelt Rehabilitation Center on Wednesday morning, July 11, 2007, twenty-year-old Katie and Nate Prairie sit side by side in their collapsible black manual wheelchairs outfitted with right-armrest joysticks, spoked manual wheels with metal push-rims, and rear rubber push-handles; holding a small paper cup of water in one hand, Katie leans over the wooden desk to write 'I LET HIM COVER MY DIGNITY!' in bold block letters on a legal pad while Nate holds her shoulder and their vocational counselor sits across the desk deleting the overnight pool-deck entry from his computer",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_bates_harding_counselor_office_dignity_note_katie_nate.jpg",
+                                    "alt": "Inside a 1970s brick-and-wood-paneled vocational counselor's office in the Bates-Harding Building at Roosevelt Rehabilitation Center on Wednesday morning, July 11, 2007, twenty-year-old Katie and Nate Prairie sit side by side in their collapsible black manual wheelchairs outfitted with right-armrest joysticks, spoked manual wheels with metal push-rims, and rear rubber push-handles; holding a small paper cup of water in one hand, Katie leans over the wooden desk to write 'I LET HIM COVER MY DIGNITY!' in bold block letters on a legal pad while Nate holds her shoulder and their vocational counselor sits across the desk deleting the overnight pool-deck entry from his computer"
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -1064,7 +1073,7 @@
                     "chap_num": 3,
                     "chap_title": "The Cantor Hall Room Mix-Up, A Weekend on Tina's Daybed in Luray, & Graduating for Good",
                     "chap_url": "/raggiesoft-books/books/katie/roosevelt-rehabilitation-center-one-year-in-separate-dorms/the-cantor-hall-room-mix-up-a-weekend-on-tina-s-daybed-in-luray-graduating-for-good",
-                    "illustration_count": 0,
+                    "illustration_count": 2,
                     "word_count": 3642,
                     "parts": [
                         {
@@ -1077,7 +1086,16 @@
                             "date": "2007-07-11",
                             "start_time": "21:15",
                             "location": "Fishersville, VA (Roosevelt Rehabilitation Center \u2014 Cantor Hall Suites & Dining Hall)",
-                            "excerpt": "I was sitting in my wheelchair at my desk in Cantor Hall with my laptop webcam connected to Katie's room when the door to my room opened and in popped Tina. \"What are you doing in here?\" I asked politely\u2026"
+                            "excerpt": "I was sitting in my wheelchair at my desk in Cantor Hall with my laptop webcam connected to Katie's room when the door to my room opened and in popped Tina. \"What are you doing in here?\" I asked politely\u2026",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_cantor_hall_room_mixup_keycards_tina_herb_jim_nate.jpg",
+                            "image_alt": "Inside the 1970s red-brick lobby of Cantor Hall at Roosevelt Rehabilitation Center on Wednesday night, July 11, 2007, twenty-year-old Nathaniel ('Nate') Prairie sits in his collapsible black manual wheelchair outfitted with a right-armrest joystick, spoked manual wheels with metal push-rims, and rear rubber push-handles with his silver laptop open on a small table in front of him; at the wooden front counter, Tina\u2014a petite Caucasian middle-aged woman with glasses and straight jet-black hair\u2014points firmly at the scrambled room-assignment ledger while evening residential staffer Herb scratches his head in confusion and classmate Jim inspects his reassigned plastic room keycard",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_cantor_hall_room_mixup_keycards_tina_herb_jim_nate.jpg",
+                                    "alt": "Inside the 1970s red-brick lobby of Cantor Hall at Roosevelt Rehabilitation Center on Wednesday night, July 11, 2007, twenty-year-old Nathaniel ('Nate') Prairie sits in his collapsible black manual wheelchair outfitted with a right-armrest joystick, spoked manual wheels with metal push-rims, and rear rubber push-handles with his silver laptop open on a small table in front of him; at the wooden front counter, Tina\u2014a petite Caucasian middle-aged woman with glasses and straight jet-black hair\u2014points firmly at the scrambled room-assignment ledger while evening residential staffer Herb scratches his head in confusion and classmate Jim inspects his reassigned plastic room keycard"
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -1089,7 +1107,16 @@
                             "date": "2007-07-13",
                             "start_time": "15:45",
                             "location": "Luray, Fishersville, & Virginia Beach, VA (Tina's House in the Page Valley, Roosevelt Rehabilitation Center, & 741 Lord Nelson Drive in Kempsville)",
-                            "excerpt": "The second Mr. Henderson dismissed our Web Applications Developer class at three-thirty on Friday afternoon, Katie and I grabbed our packed weekend bags and rolled out to the student parking lot beside Tina's\u2026"
+                            "excerpt": "The second Mr. Henderson dismissed our Web Applications Developer class at three-thirty on Friday afternoon, Katie and I grabbed our packed weekend bags and rolled out to the student parking lot beside Tina's\u2026",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_tina_compact_sedan_trunk_collapsing_wheelchairs_luray_trip.jpg",
+                            "image_alt": "In the student parking lot outside the 1960s and 1970s flat-roofed red-brick buildings of Roosevelt Rehabilitation Center in Fishersville, Virginia on Friday afternoon, July 13, 2007, twenty-year-old fraternal twins Katie and Nate Prairie sit side by side on the rear passenger bench seat of Tina's silver four-door compact sedan holding hands through the open rear door; at the open trunk of the car, Tina\u2014a petite Caucasian middle-aged woman with glasses and straight jet-black hair\u2014smiles back toward the twins as she easily lifts their collapsed black manual wheelchair frame (with spoked wheels, metal push-rims, rear rubber push-handles, and right-armrest joystick) into the trunk for the weekend drive up Route 340 to Luray",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_tina_compact_sedan_trunk_collapsing_wheelchairs_luray_trip.jpg",
+                                    "alt": "In the student parking lot outside the 1960s and 1970s flat-roofed red-brick buildings of Roosevelt Rehabilitation Center in Fishersville, Virginia on Friday afternoon, July 13, 2007, twenty-year-old fraternal twins Katie and Nate Prairie sit side by side on the rear passenger bench seat of Tina's silver four-door compact sedan holding hands through the open rear door; at the open trunk of the car, Tina\u2014a petite Caucasian middle-aged woman with glasses and straight jet-black hair\u2014smiles back toward the twins as she easily lifts their collapsed black manual wheelchair frame (with spoked wheels, metal push-rims, rear rubber push-handles, and right-armrest joystick) into the trunk for the weekend drive up Route 340 to Luray"
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
