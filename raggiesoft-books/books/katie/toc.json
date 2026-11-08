@@ -17,9 +17,9 @@
         "pdf_bytes": 25833433,
         "text_epub_bytes": 425036,
         "text_pdf_bytes": 1151593,
-        "package_7z_bytes": 318780
+        "package_7z_bytes": 318818
     },
-    "illustration_count": 96,
+    "illustration_count": 98,
     "word_stats": {
         "story_word_count": 174126,
         "lore_word_count": 121,
@@ -35,7 +35,7 @@
         "era_count": 11,
         "chapter_count": 33,
         "part_count": 74,
-        "illustration_count": 96
+        "illustration_count": 98
     },
     "eras": [
         {
@@ -1126,7 +1126,7 @@
             "era_num": 7,
             "era_title": "Unofficial Homeowners: Back Home in Virginia Beach (2007\u20132008)",
             "era_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008",
-            "illustration_count": 10,
+            "illustration_count": 12,
             "word_count": 17466,
             "chapters": [
                 {
@@ -1277,7 +1277,7 @@
                     "chap_num": 3,
                     "chap_title": "Twenty-Two in Alexandria: Riding DMV Transit, Touring the White House & the U.S. Capitol, Meeting Senator James West, The Spark to Run for City Council, & Two Blue Passports",
                     "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-touring-the-white-house-the-u-s-capitol-meeting-senator-james-west-the-spark-to-run-for-city-council-two-blue-passports",
-                    "illustration_count": 3,
+                    "illustration_count": 5,
                     "word_count": 7394,
                     "parts": [
                         {
@@ -1311,7 +1311,16 @@
                             "date": "2007-04-10",
                             "start_time": "08:15",
                             "location": "Alexandria, VA & Washington, D.C. (Dad's House on Sunset Drive & The East Wing, Ground Floor, and State Floor of the White House)",
-                            "excerpt": "\"Hold it right there before you two roll out the front door,\" Dad said with a grin at eight-fifteen on Tuesday morning in the hallway of his brick house on Sunset Drive, holding up the printed instruction sheet\u2026"
+                            "excerpt": "\"Hold it right there before you two roll out the front door,\" Dad said with a grin at eight-fifteen on Tuesday morning in the hallway of his brick house on Sunset Drive, holding up the printed instruction sheet\u2026",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/apr_2007_white_house_state_floor_tour_fdr_and_lincoln_mantel_katie_nate_david.jpg",
+                            "image_alt": "Inside the historic State Dining Room on the State Floor of the White House on Tuesday morning, April 10, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs with no backpacks attached, holding hands across their armrests beside their father David Prairie and a Uniformed Secret Service Tour Officer as Katie looks up in quiet civic inspiration at the portrait of President Abraham Lincoln above the carved white marble fireplace mantel",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/apr_2007_white_house_state_floor_tour_fdr_and_lincoln_mantel_katie_nate_david.jpg",
+                                    "alt": "Inside the historic State Dining Room on the State Floor of the White House on Tuesday morning, April 10, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs with no backpacks attached, holding hands across their armrests beside their father David Prairie and a Uniformed Secret Service Tour Officer as Katie looks up in quiet civic inspiration at the portrait of President Abraham Lincoln above the carved white marble fireplace mantel"
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 3,
@@ -1323,7 +1332,16 @@
                             "date": "2007-04-10",
                             "start_time": "11:30",
                             "location": "Washington, D.C. (The United States Capitol \u2014 The Crypt, the Capitol Rotunda, National Statuary Hall, & the Old Senate Chamber)",
-                            "excerpt": "From McPherson Square, the three of us rode the Capital Transit Blue Line beneath the National Mall to Capitol South Station, took the street elevator up to First Street SE in the late-morning sunshine, and\u2026"
+                            "excerpt": "From McPherson Square, the three of us rode the Capital Transit Blue Line beneath the National Mall to Capitol South Station, took the street elevator up to First Street SE in the late-morning sunshine, and\u2026",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/apr_2007_us_capitol_rotunda_and_statuary_hall_tour_katie_nate_david.jpg",
+                            "image_alt": "Inside the soaring neoclassical United States Capitol Rotunda at midday on Tuesday, April 10, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests beside their father David Prairie and a U.S. Capitol Guide in a crimson-red blazer, gazing up in wonder at the historic Revolutionary War paintings and the coffered dome overhead",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/apr_2007_us_capitol_rotunda_and_statuary_hall_tour_katie_nate_david.jpg",
+                                    "alt": "Inside the soaring neoclassical United States Capitol Rotunda at midday on Tuesday, April 10, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests beside their father David Prairie and a U.S. Capitol Guide in a crimson-red blazer, gazing up in wonder at the historic Revolutionary War paintings and the coffered dome overhead"
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 4,
