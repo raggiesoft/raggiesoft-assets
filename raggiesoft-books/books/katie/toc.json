@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "40.8 MB",
-        "pdf": "33.8 MB",
-        "text_epub": "432 KB",
-        "text_pdf": "1.1 MB",
-        "package_7z": "324 KB",
-        "epub_bytes": 42784711,
-        "pdf_bytes": 35423026,
-        "text_epub_bytes": 441925,
-        "text_pdf_bytes": 1199054,
-        "package_7z_bytes": 331451
+        "epub": "41.4 MB",
+        "pdf": "34.5 MB",
+        "text_epub": "438 KB",
+        "text_pdf": "1.2 MB",
+        "package_7z": "329 KB",
+        "epub_bytes": 43444160,
+        "pdf_bytes": 36126400,
+        "text_epub_bytes": 448563,
+        "text_pdf_bytes": 1218225,
+        "package_7z_bytes": 336435
     },
-    "illustration_count": 105,
+    "illustration_count": 106,
     "word_stats": {
-        "story_word_count": 181565,
+        "story_word_count": 184610,
         "lore_word_count": 121,
-        "combined_word_count": 181686,
-        "story_page_count": 660,
-        "combined_page_count": 661,
-        "reading_hours": 12.1,
-        "reading_minutes": 726,
-        "novel_equivalent": 2,
+        "combined_word_count": 184731,
+        "story_page_count": 671,
+        "combined_page_count": 672,
+        "reading_hours": 12.3,
+        "reading_minutes": 738,
+        "novel_equivalent": 2.1,
         "scale_category": "Epic Full-Length Novel",
         "scale_badge": "Epic Novel",
-        "benchmark_note": "2.0\u00d7 a standard 90,000-word contemporary novel (Epic 110k\u2013200k tier)",
+        "benchmark_note": "2.1\u00d7 a standard 90,000-word contemporary novel (Epic 110k\u2013200k tier)",
         "era_count": 11,
         "chapter_count": 33,
-        "part_count": 76,
-        "illustration_count": 105
+        "part_count": 77,
+        "illustration_count": 106
     },
     "eras": [
         {
@@ -1826,8 +1826,8 @@
             "era_num": 11,
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
-            "illustration_count": 23,
-            "word_count": 27164,
+            "illustration_count": 24,
+            "word_count": 30209,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1943,8 +1943,8 @@
                     "chap_num": 3,
                     "chap_title": "First Train from Norfolk, Swearing In on the Constitution, & Strings Attached for RRC",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc",
-                    "illustration_count": 10,
-                    "word_count": 10375,
+                    "illustration_count": 11,
+                    "word_count": 13420,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2009,7 +2009,7 @@
                             "part_title": "Part 3: The First Invite to Cocktails, A Known Side Effect of Death, & Home to Sunset Drive",
                             "file_path": "e011/c003/p003.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-3-the-first-invite-to-cocktails-a-known-side-effect-of-death-home-to-sunset-drive",
-                            "word_count": 2891,
+                            "word_count": 2892,
                             "reading_minutes": 12,
                             "date": "2027-01-03",
                             "start_time": "16:30",
@@ -2035,15 +2035,36 @@
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: 34 C.F.R. Section 361.38, Two Twelve-Day Dropouts in Room 511, & Strings Attached at the Subcommittee Hearing",
+                            "part_title": "Part 4: The Constituent Line in Room 511, 'Is Nathaniel Still With You?', & What Really Happened to Natalie",
                             "file_path": "e011/c003/p004.md",
-                            "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-4-34-c-f-r-section-361-38-two-twelve-day-dropouts-in-room-511-strings-attached-at-the-subcommittee-hearing",
-                            "word_count": 3068,
+                            "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-4-the-constituent-line-in-room-511-is-nathaniel-still-with-you-what-really-happened-to-natalie",
+                            "word_count": 2962,
+                            "reading_minutes": 12,
+                            "date": "2027-01-14",
+                            "start_time": "16:15",
+                            "location": "Washington, D.C. (Room 511 of the Dirksen Senate Office Building)",
+                            "excerpt": "Eleven days after swearing her Oath of Office for the United States Senate, Katie answers a constituent rollover call directly in Dirksen Room 511 from Natalie's mother\u2014who reveals that Natalie recognized Katie during her Senate campaign as the client who was only at RRC for about a week in March 2007, asks if Nate is still with her so he can hear the story too, and recounts the horrifying truth of what happened to Natalie and how RRC covered it up.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/jan_2027_dirksen_room_511_natalie_mother_phone_call_katie_nate.jpg",
+                            "image_alt": "Inside Room 511 of the Dirksen Senate Office Building on the late afternoon of January 14, 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs behind her mahogany desk holding hands tightly across their armrests as they listen with somber empathy and fierce resolve to the glowing speakerphone.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/jan_2027_dirksen_room_511_natalie_mother_phone_call_katie_nate.jpg",
+                                    "alt": "Inside Room 511 of the Dirksen Senate Office Building on the late afternoon of January 14, 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs behind her mahogany desk holding hands tightly across their armrests as they listen with somber empathy and fierce resolve to the glowing speakerphone."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: 34 C.F.R. Section 361.38, Two Twelve-Day Dropouts in Room 511, & Strings Attached at the Subcommittee Hearing",
+                            "file_path": "e011/c003/p005.md",
+                            "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-5-34-c-f-r-section-361-38-two-twelve-day-dropouts-in-room-511-strings-attached-at-the-subcommittee-hearing",
+                            "word_count": 3150,
                             "reading_minutes": 13,
                             "date": "2027-02-16",
                             "start_time": "14:00",
                             "location": "Washington, D.C. (Room 511 & Room 124 of the Dirksen Senate Office Building)",
-                            "excerpt": "When an all-new 2027 delegation from DARS and Roosevelt Rehabilitation Center comes to Washington asking Senator Katie Prairie for $18.5 million in federal funding\u2014denying any knowledge of twin siblings and hiding behind 34 C.F.R. Section 361.38\u2014Katie makes them squirm before revealing that she and Nate are the two 2007 RRC dropouts, unveils an official constituent complaint from Natalie and her mother, and refuses to entertain a dime of federal money until her demands are met.",
+                            "excerpt": "When an all-new 2027 delegation from DARS and Roosevelt Rehabilitation Center comes to Washington asking Senator Katie Prairie for $18.5 million in federal funding\u2014denying any knowledge of twin siblings and hiding behind 34 C.F.R. Section 361.38\u2014Katie makes them squirm before revealing that she and Nate are the two 2007 RRC dropouts, unveils the official constituent complaint from Natalie and her mother, and refuses to entertain a dime of federal money until her demands are met.",
                             "image": "/raggiesoft-books/images/scenes/katie/b006/feb_2027_dirksen_room_511_rrc_dars_appropriation_showdown_katie_nate.jpg",
                             "image_alt": "Inside Room 511 of the Dirksen Senate Office Building in February 2027, 41-year-old U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding hands behind her mahogany desk while the squirming DARS Commissioner and RRC Director sit across from them beside their glossy funding binders as Katie reveals that she and Nate are the two March 2007 twelve-day RRC dropouts.",
                             "images": [
