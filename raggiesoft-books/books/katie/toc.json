@@ -13,19 +13,19 @@
         "text_epub": "443 KB",
         "text_pdf": "1.2 MB",
         "package_7z": "335 KB",
-        "epub_bytes": 43449600,
-        "pdf_bytes": 36142817,
-        "text_epub_bytes": 453790,
-        "text_pdf_bytes": 1234147,
-        "package_7z_bytes": 342815
+        "epub_bytes": 43449921,
+        "pdf_bytes": 36143474,
+        "text_epub_bytes": 454098,
+        "text_pdf_bytes": 1235005,
+        "package_7z_bytes": 343081
     },
     "illustration_count": 107,
     "word_stats": {
-        "story_word_count": 187170,
-        "lore_word_count": 45337,
-        "combined_word_count": 232507,
+        "story_word_count": 187292,
+        "lore_word_count": 45463,
+        "combined_word_count": 232755,
         "story_page_count": 681,
-        "combined_page_count": 845,
+        "combined_page_count": 846,
         "reading_hours": 12.5,
         "reading_minutes": 749,
         "novel_equivalent": 2.1,
@@ -1827,7 +1827,7 @@
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 25,
-            "word_count": 32769,
+            "word_count": 32891,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1944,7 +1944,7 @@
                     "chap_title": "First Train from Norfolk, Swearing In on the Constitution, & Strings Attached for RRC",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc",
                     "illustration_count": 12,
-                    "word_count": 15980,
+                    "word_count": 16102,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2063,8 +2063,8 @@
                             "part_title": "Part 5: 34 C.F.R. Section 361.38, Two Twelve-Day Dropouts in Room 511, & Strings Attached at the Subcommittee Hearing",
                             "file_path": "e011/c003/p005.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-5-34-c-f-r-section-361-38-two-twelve-day-dropouts-in-room-511-strings-attached-at-the-subcommittee-hearing",
-                            "word_count": 4210,
-                            "reading_minutes": 17,
+                            "word_count": 4332,
+                            "reading_minutes": 18,
                             "date": "2027-02-16",
                             "start_time": "14:00",
                             "location": "Washington, D.C. (Room 511 & Room 124 of the Dirksen Senate Office Building)",
