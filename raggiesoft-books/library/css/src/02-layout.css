@@ -28,8 +28,8 @@
 /* Forces the app to occupy exactly the viewport height, disabling global scroll */
 #stardust-app { display: flex; flex-direction: column; height: 100vh; width: 100%; }
 
-/* Global Persistent Header (Contains Audio Player) */
-#stardust-header { display: flex; align-items: center; justify-content: space-between; padding: 0 20px; height: 60px; background: var(--rs-surface); border-bottom: 1px solid var(--rs-border); flex-shrink: 0; }
+/* Global Persistent Header (Scoped via :not(.rs-book-app-header) so it never overrides the co-branded app-header.php theme variables) */
+#stardust-header:not(.rs-book-app-header) { display: flex; align-items: center; justify-content: space-between; padding: 0 20px; height: 60px; background: var(--rs-surface); border-bottom: 1px solid var(--rs-border); flex-shrink: 0; }
 
 /* Mid-level layout wrapper separating header from content */
 #stardust-main-wrapper { display: flex; flex: 1; overflow: hidden; width: 100%; min-height: 0; }

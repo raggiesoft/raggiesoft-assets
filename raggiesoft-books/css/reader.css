@@ -290,30 +290,30 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
     line-height: 1;
 }
 .ios-tab-item.active {
-    color: var(--rs-primary, #007aff);
+    color: var(--rs-primary, #0F4C5C);
 }
 .ios-tab-item.inactive {
-    color: #999999;
+    color: #475569;
 }
 /* iOS Tab Bar Dark Mode variants */
 body.theme-dark .ios-tab-bar, 
 body.theme-dark-sepia .ios-tab-bar {
-    background: rgba(28, 28, 30, 0.85);
-    border-top: 0.5px solid rgba(255, 255, 255, 0.15);
+    background: rgba(28, 28, 30, 0.92);
+    border-top: 0.5px solid rgba(255, 255, 255, 0.18);
 }
 body.theme-dark .ios-tab-item.inactive, 
 body.theme-dark-sepia .ios-tab-item.inactive {
-    color: #757575;
+    color: #cbd5e1;
 }
 @media (prefers-color-scheme: dark) {
     body.theme-auto .ios-tab-bar,
     body.theme-sepia-system .ios-tab-bar {
-        background: rgba(28, 28, 30, 0.85);
-        border-top: 0.5px solid rgba(255, 255, 255, 0.15);
+        background: rgba(28, 28, 30, 0.92);
+        border-top: 0.5px solid rgba(255, 255, 255, 0.18);
     }
     body.theme-auto .ios-tab-item.inactive,
     body.theme-sepia-system .ios-tab-item.inactive {
-        color: #757575;
+        color: #cbd5e1;
     }
 }
 
