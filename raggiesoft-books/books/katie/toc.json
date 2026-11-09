@@ -8,26 +8,26 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "46.3 MB",
-        "pdf": "40.7 MB",
-        "text_epub": "513 KB",
+        "epub": "47 MB",
+        "pdf": "41.8 MB",
+        "text_epub": "516 KB",
         "text_pdf": "1.4 MB",
-        "package_7z": "385 KB",
-        "epub_bytes": 48536422,
-        "pdf_bytes": 42709364,
-        "text_epub_bytes": 525194,
-        "text_pdf_bytes": 1429397,
-        "package_7z_bytes": 394093
+        "package_7z": "387 KB",
+        "epub_bytes": 49293694,
+        "pdf_bytes": 43855901,
+        "text_epub_bytes": 528268,
+        "text_pdf_bytes": 1438877,
+        "package_7z_bytes": 396252
     },
-    "illustration_count": 113,
+    "illustration_count": 114,
     "word_stats": {
-        "story_word_count": 217718,
-        "lore_word_count": 55016,
-        "combined_word_count": 272734,
-        "story_page_count": 792,
-        "combined_page_count": 992,
-        "reading_hours": 14.5,
-        "reading_minutes": 871,
+        "story_word_count": 219196,
+        "lore_word_count": 55189,
+        "combined_word_count": 274385,
+        "story_page_count": 797,
+        "combined_page_count": 998,
+        "reading_hours": 14.6,
+        "reading_minutes": 877,
         "novel_equivalent": 2.4,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
@@ -35,7 +35,7 @@
         "era_count": 11,
         "chapter_count": 34,
         "part_count": 83,
-        "illustration_count": 113
+        "illustration_count": 114
     },
     "eras": [
         {
@@ -1155,22 +1155,22 @@
             "era_num": 7,
             "era_title": "Unofficial Homeowners: Back Home in Virginia Beach (2007\u20132008)",
             "era_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008",
-            "illustration_count": 13,
-            "word_count": 17994,
+            "illustration_count": 14,
+            "word_count": 19472,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Arvin Road, Crossing Without a Crosswalk, Horizontal IDs on Route 12, & Yearly Passes at Fairlawn",
                     "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/arvin-road-crossing-without-a-crosswalk-horizontal-ids-on-route-12-yearly-passes-at-fairlawn",
-                    "illustration_count": 5,
-                    "word_count": 6905,
+                    "illustration_count": 6,
+                    "word_count": 8383,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Unofficial Homeowners, One Bedroom and One Office, & The Closet We Both Know We'll Use",
                             "file_path": "e007/c001/p001.md",
                             "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/arvin-road-crossing-without-a-crosswalk-horizontal-ids-on-route-12-yearly-passes-at-fairlawn/part-1-unofficial-homeowners-one-bedroom-and-one-office-the-closet-we-both-know-we-ll-use",
-                            "word_count": 2376,
+                            "word_count": 2415,
                             "reading_minutes": 10,
                             "date": "2007-03-18",
                             "start_time": "18:30",
@@ -1188,28 +1188,32 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Skin to Skin in the Closet, No Crosswalks at Military and Indian River, & Two Wheelchairs at Market Square",
+                            "part_title": "Part 2: Dr. Carter's Exam Room, Skin to Skin in the Closet, & No Crosswalks at Military and Indian River",
                             "file_path": "e007/c001/p002.md",
-                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/arvin-road-crossing-without-a-crosswalk-horizontal-ids-on-route-12-yearly-passes-at-fairlawn/part-2-skin-to-skin-in-the-closet-no-crosswalks-at-military-and-indian-river-two-wheelchairs-at-market-square",
-                            "word_count": 1597,
-                            "reading_minutes": 7,
-                            "date": "2007-03-21",
-                            "start_time": "08:30",
-                            "location": "Virginia Beach, VA (Kempsville \u2014 Arvin Road, Indian River Road & Military Highway, & Market Square Supermarket)",
-                            "excerpt": "\"You're warm,\" Katie murmured sleepily at eight-thirty on Wednesday morning, her bare shoulder pressed tightly against my chest inside our single shared sleeping bag on the carpeted floor of our bedroom closet\u2026",
-                            "image": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_indian_river_military_hwy_no_crosswalk_grocery_run_katie_nate.jpg",
-                            "image_alt": "At the busy multi-lane intersection of Indian River Road and Military Highway in Virginia Beach on Wednesday afternoon, March 21, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the concrete curb cut beside the traffic signal pole where heavy traffic roars across bare asphalt with zero painted crosswalks between the CVTA Route 12 and Route 15 bus stops and the Market Square grocery plaza across the street",
+                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/arvin-road-crossing-without-a-crosswalk-horizontal-ids-on-route-12-yearly-passes-at-fairlawn/part-2-dr-carter-s-exam-room-skin-to-skin-in-the-closet-no-crosswalks-at-military-and-indian-river",
+                            "word_count": 3036,
+                            "reading_minutes": 13,
+                            "date": "2007-03-20",
+                            "start_time": "14:00",
+                            "location": "Virginia Beach, VA (Kempsville \u2014 Dr. Evelyn Carter's Family Medicine Office, Arvin Road, Indian River Road & Military Highway, & Market Square Supermarket)",
+                            "excerpt": "\"You're safe right here with me and Dad, Katie,\" I whispered at two o'clock on Tuesday afternoon inside Exam Room Two at Dr. Evelyn Carter's family medicine office on Kempsville Road, keeping both of my arms\u2026",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_dr_carter_office_medstrip_removal_annual_physical_katie_nate_david.jpg",
+                            "image_alt": "Inside a warm ground-floor examination room at Dr. Evelyn Carter's family medicine practice in Virginia Beach on Tuesday afternoon, March 20, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands tightly across the gap between their chairs with their father David standing supportively right behind them while Dr. Evelyn Carter, seated on a rolling stool in a white lab coat and blue nitrile gloves, gently peels the seven-day white MedStrip and gauze bandage off the healed bridge of Katie's nose",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_indian_river_military_hwy_no_crosswalk_grocery_run_katie_nate.jpg",
-                                    "alt": "At the busy multi-lane intersection of Indian River Road and Military Highway in Virginia Beach on Wednesday afternoon, March 21, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the concrete curb cut beside the traffic signal pole where heavy traffic roars across bare asphalt with zero painted crosswalks between the CVTA Route 12 and Route 15 bus stops and the Market Square grocery plaza across the street"
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_dr_carter_office_medstrip_removal_annual_physical_katie_nate_david.jpg",
+                                    "alt": "Inside a warm ground-floor examination room at Dr. Evelyn Carter's family medicine practice in Virginia Beach on Tuesday afternoon, March 20, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands tightly across the gap between their chairs with their father David standing supportively right behind them while Dr. Evelyn Carter, seated on a rolling stool in a white lab coat and blue nitrile gloves, gently peels the seven-day white MedStrip and gauze bandage off the healed bridge of Katie's nose"
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_arvin_road_bedroom_closet_full_cuddle_sanctuary_katie_nate.jpg",
                                     "alt": "Inside their shared bedroom on Arvin Road in Kempsville in March 2007, while the wooden queen bed beneath the framed blue butterfly print sits completely untouched behind their two parked black SwiftChair power wheelchairs, twenty-one-year-old twins Katie and Nathaniel Prairie cuddle closely in a soothing two-arm embrace inside their shared sleeping bag on the floor of the open walk-in closet."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_indian_river_military_hwy_no_crosswalk_grocery_run_katie_nate.jpg",
+                                    "alt": "At the busy multi-lane intersection of Indian River Road and Military Highway in Virginia Beach on Wednesday afternoon, March 21, 2007, twenty-one-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the concrete curb cut beside the traffic signal pole where heavy traffic roars across bare asphalt with zero painted crosswalks between the CVTA Route 12 and Route 15 bus stops and the Market Square grocery plaza across the street"
                                 }
                             ],
-                            "image_count": 2
+                            "image_count": 3
                         },
                         {
                             "part_num": 3,
