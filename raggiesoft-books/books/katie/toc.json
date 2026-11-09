@@ -13,21 +13,21 @@
         "text_epub": "516 KB",
         "text_pdf": "1.4 MB",
         "package_7z": "387 KB",
-        "epub_bytes": 49293916,
-        "pdf_bytes": 43856897,
-        "text_epub_bytes": 528506,
-        "text_pdf_bytes": 1439332,
-        "package_7z_bytes": 396403
+        "epub_bytes": 49294209,
+        "pdf_bytes": 43856758,
+        "text_epub_bytes": 528746,
+        "text_pdf_bytes": 1439850,
+        "package_7z_bytes": 396612
     },
     "illustration_count": 114,
     "word_stats": {
-        "story_word_count": 219317,
-        "lore_word_count": 55538,
-        "combined_word_count": 274855,
+        "story_word_count": 219444,
+        "lore_word_count": 55759,
+        "combined_word_count": 275203,
         "story_page_count": 798,
-        "combined_page_count": 999,
+        "combined_page_count": 1001,
         "reading_hours": 14.6,
-        "reading_minutes": 877,
+        "reading_minutes": 878,
         "novel_equivalent": 2.4,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
@@ -994,7 +994,7 @@
             "era_title": "Twelve Days at Roosevelt Rehabilitation Center & Walking Out for Good",
             "era_url": "/raggiesoft-books/books/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good",
             "illustration_count": 6,
-            "word_count": 18515,
+            "word_count": 18642,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1052,7 +1052,7 @@
                     "chap_title": "Starting Web Apps While Stuck in Barton Hall, Sleeping in the Closet, & The Chickenshit Report",
                     "chap_url": "/raggiesoft-books/books/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/starting-web-apps-while-stuck-in-barton-hall-sleeping-in-the-closet-the-chickenshit-report",
                     "illustration_count": 2,
-                    "word_count": 6978,
+                    "word_count": 7105,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1080,7 +1080,7 @@
                             "part_title": "Part 2: Emergency in the Therapeutic Pool, Caught Sleeping Together in a Closet, Calling the Staffer's Bluff, & The Chickenshit Report",
                             "file_path": "e006/c002/p002.md",
                             "url": "/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/starting-web-apps-while-stuck-in-barton-hall-sleeping-in-the-closet-the-chickenshit-report/part-2-emergency-in-the-therapeutic-pool-caught-sleeping-together-in-a-closet-calling-the-staffer-s-bluff-the-chickenshit-report",
-                            "word_count": 4294,
+                            "word_count": 4421,
                             "reading_minutes": 18,
                             "date": "2007-03-13",
                             "start_time": "16:15",
