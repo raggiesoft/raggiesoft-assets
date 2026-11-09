@@ -13,19 +13,19 @@
         "text_epub": "495 KB",
         "text_pdf": "1.3 MB",
         "package_7z": "372 KB",
-        "epub_bytes": 48485571,
-        "pdf_bytes": 42184141,
-        "text_epub_bytes": 506741,
-        "text_pdf_bytes": 1380019,
-        "package_7z_bytes": 380993
+        "epub_bytes": 48485881,
+        "pdf_bytes": 42184060,
+        "text_epub_bytes": 507074,
+        "text_pdf_bytes": 1380597,
+        "package_7z_bytes": 381186
     },
     "illustration_count": 113,
     "word_stats": {
-        "story_word_count": 209632,
-        "lore_word_count": 50454,
-        "combined_word_count": 260086,
-        "story_page_count": 762,
-        "combined_page_count": 946,
+        "story_word_count": 209768,
+        "lore_word_count": 50561,
+        "combined_word_count": 260329,
+        "story_page_count": 763,
+        "combined_page_count": 947,
         "reading_hours": 14,
         "reading_minutes": 839,
         "novel_equivalent": 2.3,
@@ -1754,7 +1754,7 @@
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
             "illustration_count": 8,
-            "word_count": 17137,
+            "word_count": 17273,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1825,7 +1825,7 @@
                     "chap_title": "The Accessibility Project: Riding Every Bus Across the Commonwealth for the United States Senate",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate",
                     "illustration_count": 5,
-                    "word_count": 11753,
+                    "word_count": 11889,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1874,7 +1874,7 @@
                             "part_title": "Part 3: The Roanoke Express, The Brooks Family Compound on Lee Highway, The Maroon Express to Bluewater, & Winning the June Primary",
                             "file_path": "e010/c003/p003.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-3-the-roanoke-express-the-brooks-family-compound-on-lee-highway-the-maroon-express-to-bluewater-winning-the-june-primary",
-                            "word_count": 3562,
+                            "word_count": 3698,
                             "reading_minutes": 15,
                             "date": "2026-05-18",
                             "start_time": "11:30",
