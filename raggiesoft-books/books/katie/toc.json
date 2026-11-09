@@ -10,22 +10,22 @@
     "ebook_sizes": {
         "epub": "46.2 MB",
         "pdf": "40.2 MB",
-        "text_epub": "483 KB",
+        "text_epub": "484 KB",
         "text_pdf": "1.3 MB",
         "package_7z": "364 KB",
-        "epub_bytes": 48473608,
-        "pdf_bytes": 42154706,
-        "text_epub_bytes": 495092,
-        "text_pdf_bytes": 1349991,
-        "package_7z_bytes": 372880
+        "epub_bytes": 48473706,
+        "pdf_bytes": 42155095,
+        "text_epub_bytes": 495192,
+        "text_pdf_bytes": 1350245,
+        "package_7z_bytes": 372974
     },
     "illustration_count": 113,
     "word_stats": {
-        "story_word_count": 204504,
-        "lore_word_count": 48296,
-        "combined_word_count": 252800,
+        "story_word_count": 204565,
+        "lore_word_count": 48328,
+        "combined_word_count": 252893,
         "story_page_count": 744,
-        "combined_page_count": 919,
+        "combined_page_count": 920,
         "reading_hours": 13.6,
         "reading_minutes": 818,
         "novel_equivalent": 2.3,
@@ -1754,7 +1754,7 @@
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
             "illustration_count": 8,
-            "word_count": 15233,
+            "word_count": 15294,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1825,7 +1825,7 @@
                     "chap_title": "The Accessibility Project: Riding Every Bus Across the Commonwealth for the United States Senate",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate",
                     "illustration_count": 5,
-                    "word_count": 10175,
+                    "word_count": 10236,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1916,12 +1916,12 @@
                             "part_title": "Part 5: Katie's Favorite Place in Virginia: The Cassini Center in Highland County & The October WHRC TV-15 Three-Bus Sprint",
                             "file_path": "e010/c003/p005.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-5-katie-s-favorite-place-in-virginia-the-cassini-center-in-highland-county-the-october-whrc-tv-15-three-bus-sprint",
-                            "word_count": 1705,
-                            "reading_minutes": 7,
+                            "word_count": 1766,
+                            "reading_minutes": 8,
                             "date": "2026-09-19",
                             "start_time": "16:30",
                             "location": "Fishersville, Palo Alto (Highland County), & Norfolk, VA (Shenandoah Valley Transit, The Cassini Center for Space Exploration, & WHRC TV-15 / CVTA)",
-                            "excerpt": "After riding Shenandoah Valley Transit past Roosevelt Rehabilitation Center in Fishersville, David drives Katie and Nate in a rented wheelchair-accessible minivan over Shenandoah Mountain to Katie's favorite place in the Commonwealth\u2014The Cassini Center for Space Exploration in Palo Alto, Highland County\u2014before Katie commands the October WHRC TV-15 debate stage in Norfolk and makes a three-bus sprint home to Kempsville.",
+                            "excerpt": "After riding Shenandoah Valley Transit past Roosevelt Rehabilitation Center in Fishersville, David drives Katie and Nate in a rented wheelchair-accessible minivan over Shenandoah Mountain for their very first visit to The Cassini Center for Space Exploration in Palo Alto, Highland County\u2014which becomes Katie's favorite place in the Commonwealth\u2014before she commands the October WHRC TV-15 debate stage in Norfolk and makes a three-bus sprint home to Kempsville.",
                             "image": "/raggiesoft-books/images/scenes/katie/b006/sep_2026_cassini_center_palo_alto_observatory_katie_nate_valerie_starling_triplets.jpg",
                             "image_alt": "Under the open roll-off roof of The Cassini Center for Space Exploration in Palo Alto, Highland County, Virginia beneath the starry Milky Way in September 2026, 41-year-old Katie Prairie and her twin brother Nate sit in their black motorized SwiftChair power wheelchairs holding hands in a circle with 41-year-old non-verbal autistic triplets Lyra, Orion, and Celeste Starling in their custom tilt-in-space wheelchairs around a 34-inch-high glowing Starlight Wing nebula table and wheelchair-height telescope eyepiece, while Valerie Anne Miller and David Prairie smile beside them.",
                             "images": [
