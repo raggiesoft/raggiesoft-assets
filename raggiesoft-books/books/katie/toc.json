@@ -10,32 +10,32 @@
     "ebook_sizes": {
         "epub": "42.1 MB",
         "pdf": "35.2 MB",
-        "text_epub": "448 KB",
+        "text_epub": "456 KB",
         "text_pdf": "1.2 MB",
-        "package_7z": "338 KB",
-        "epub_bytes": 44104134,
-        "pdf_bytes": 36885813,
-        "text_epub_bytes": 458240,
-        "text_pdf_bytes": 1247313,
-        "package_7z_bytes": 346121
+        "package_7z": "344 KB",
+        "epub_bytes": 44113564,
+        "pdf_bytes": 36912054,
+        "text_epub_bytes": 467372,
+        "text_pdf_bytes": 1272479,
+        "package_7z_bytes": 352433
     },
-    "illustration_count": 107,
+    "illustration_count": 108,
     "word_stats": {
-        "story_word_count": 189340,
-        "lore_word_count": 46063,
-        "combined_word_count": 235403,
-        "story_page_count": 689,
-        "combined_page_count": 856,
-        "reading_hours": 12.6,
-        "reading_minutes": 757,
+        "story_word_count": 193241,
+        "lore_word_count": 46844,
+        "combined_word_count": 240085,
+        "story_page_count": 703,
+        "combined_page_count": 873,
+        "reading_hours": 12.9,
+        "reading_minutes": 773,
         "novel_equivalent": 2.1,
         "scale_category": "Epic Full-Length Novel",
         "scale_badge": "Epic Novel",
         "benchmark_note": "2.1\u00d7 a standard 90,000-word contemporary novel (Epic 110k\u2013200k tier)",
         "era_count": 11,
         "chapter_count": 33,
-        "part_count": 77,
-        "illustration_count": 107
+        "part_count": 78,
+        "illustration_count": 108
     },
     "eras": [
         {
@@ -1826,15 +1826,15 @@
             "era_num": 11,
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
-            "illustration_count": 25,
-            "word_count": 34939,
+            "illustration_count": 26,
+            "word_count": 38840,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Election Night, The Decision Desk Call, & The Referendum Mandate",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate",
-                    "illustration_count": 3,
-                    "word_count": 4136,
+                    "illustration_count": 4,
+                    "word_count": 7677,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1881,6 +1881,27 @@
                                 }
                             ],
                             "image_count": 1
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: U.S. Senate New Member Orientation, Senator Tess Dunmore's Ramp, & Making the Vice President Swear Her In",
+                            "file_path": "e011/c001/p003.md",
+                            "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-3-u-s-senate-new-member-orientation-senator-tess-dunmore-s-ramp-making-the-vice-president-swear-her-in",
+                            "word_count": 3541,
+                            "reading_minutes": 15,
+                            "date": "2026-11-16",
+                            "start_time": "08:45",
+                            "location": "Washington, D.C. (Capitol South Station, The Kennedy Caucus Room, The U.S. Senate Floor, & The President's Room S-216)",
+                            "excerpt": "Arriving on Capitol Hill via public transit for U.S. Senate New Member Orientation after defeating retiring Senator Martin Warren's handpicked corporate stooge in the primary and winning the general election by nine points, Senator-Elect Katie Prairie and Nate meet Senator Tess Dunmore of Illinois on the Senate floor, claim Room 511 in the Dirksen Building, and confront Vice President Julian Vance face-to-face over her upcoming secular affirmation on the U.S. Constitution.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/jan_2027_capitol_south_elevator_plaza_arrival_katie_nate_david.jpg",
+                            "image_alt": "Arriving on Capitol Hill via the Capitol South Metro elevator in their black motorized SwiftChair power wheelchairs with their father David walking beside them, 41-year-old U.S. Senator-Elect Katie Prairie and her twin brother Nate roll past the chartered VIP motorcoaches toward the Russell and Dirksen Senate Office Buildings for New Member Orientation.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/jan_2027_capitol_south_elevator_plaza_arrival_katie_nate_david.jpg",
+                                    "alt": "Arriving on Capitol Hill via the Capitol South Metro elevator in their black motorized SwiftChair power wheelchairs with their father David walking beside them, 41-year-old U.S. Senator-Elect Katie Prairie and her twin brother Nate roll past the chartered VIP motorcoaches toward the Russell and Dirksen Senate Office Buildings for New Member Orientation."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -1889,7 +1910,7 @@
                     "chap_title": "The Minified ZIP File, The Raw HTML Takedown, & Resigning from Richmond",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/the-minified-zip-file-the-raw-html-takedown-resigning-from-richmond",
                     "illustration_count": 3,
-                    "word_count": 3738,
+                    "word_count": 3765,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1917,7 +1938,7 @@
                             "part_title": "Part 2: Article IV Section 4, Hand-Delivering Her Resignation in Richmond, & The Writ of Special Election",
                             "file_path": "e011/c002/p002.md",
                             "url": "/katie/the-senator-from-virginia/the-minified-zip-file-the-raw-html-takedown-resigning-from-richmond/part-2-article-iv-section-4-hand-delivering-her-resignation-in-richmond-the-writ-of-special-election",
-                            "word_count": 1139,
+                            "word_count": 1166,
                             "reading_minutes": 5,
                             "date": "2026-12-15",
                             "start_time": "14:00",
@@ -1944,7 +1965,7 @@
                     "chap_title": "First Train from Norfolk, Swearing In on the Constitution, & Strings Attached for RRC",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc",
                     "illustration_count": 12,
-                    "word_count": 18150,
+                    "word_count": 18483,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1976,8 +1997,8 @@
                             "part_title": "Part 2: The Yellow Line Over the Fenwick Bridge, The Full-Chair Portrait, & Swearing In on the Constitution",
                             "file_path": "e011/c003/p002.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-2-the-yellow-line-over-the-fenwick-bridge-the-full-chair-portrait-swearing-in-on-the-constitution",
-                            "word_count": 2727,
-                            "reading_minutes": 11,
+                            "word_count": 3060,
+                            "reading_minutes": 13,
                             "date": "2027-01-03",
                             "start_time": "09:25",
                             "location": "Alexandria, VA & Washington, D.C. (King St\u2013Old Town Metro, Charles R. Fenwick Bridge, L'Enfant Plaza, Capitol South, & The United States Senate)",
