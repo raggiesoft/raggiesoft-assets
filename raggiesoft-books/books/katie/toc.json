@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "42.5 MB",
-        "pdf": "35.8 MB",
-        "text_epub": "458 KB",
-        "text_pdf": "1.2 MB",
-        "package_7z": "345 KB",
-        "epub_bytes": 44561997,
-        "pdf_bytes": 37556410,
-        "text_epub_bytes": 468973,
-        "text_pdf_bytes": 1277278,
-        "package_7z_bytes": 353719
+        "epub": "46.3 MB",
+        "pdf": "40.1 MB",
+        "text_epub": "482 KB",
+        "text_pdf": "1.3 MB",
+        "package_7z": "363 KB",
+        "epub_bytes": 48530786,
+        "pdf_bytes": 42080474,
+        "text_epub_bytes": 493886,
+        "text_pdf_bytes": 1346157,
+        "package_7z_bytes": 371970
     },
-    "illustration_count": 108,
+    "illustration_count": 113,
     "word_stats": {
-        "story_word_count": 193980,
-        "lore_word_count": 47063,
-        "combined_word_count": 241043,
-        "story_page_count": 705,
-        "combined_page_count": 877,
-        "reading_hours": 12.9,
-        "reading_minutes": 776,
-        "novel_equivalent": 2.2,
-        "scale_category": "Epic Full-Length Novel",
-        "scale_badge": "Epic Novel",
-        "benchmark_note": "2.2\u00d7 a standard 90,000-word contemporary novel (Epic 110k\u2013200k tier)",
+        "story_word_count": 203907,
+        "lore_word_count": 47966,
+        "combined_word_count": 251873,
+        "story_page_count": 741,
+        "combined_page_count": 916,
+        "reading_hours": 13.6,
+        "reading_minutes": 816,
+        "novel_equivalent": 2.3,
+        "scale_category": "Multi-Volume Epic Omnibus",
+        "scale_badge": "Multi-Volume Omnibus",
+        "benchmark_note": "2.3\u00d7 a standard 90,000-word contemporary novel (~2-volume print series)",
         "era_count": 11,
-        "chapter_count": 33,
-        "part_count": 78,
-        "illustration_count": 108
+        "chapter_count": 34,
+        "part_count": 83,
+        "illustration_count": 113
     },
     "eras": [
         {
@@ -1753,8 +1753,8 @@
             "era_num": 10,
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
-            "illustration_count": 3,
-            "word_count": 5058,
+            "illustration_count": 8,
+            "word_count": 14668,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1819,6 +1819,120 @@
                             "image_count": 1
                         }
                     ]
+                },
+                {
+                    "chap_num": 3,
+                    "chap_title": "The Accessibility Project: Riding Every Bus Across the Commonwealth for the United States Senate",
+                    "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate",
+                    "illustration_count": 5,
+                    "word_count": 9610,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: The Living Room Decision in Kempsville, The 10,000-Signature Rule, & The Accessibility Project",
+                            "file_path": "e010/c003/p001.md",
+                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-1-the-living-room-decision-in-kempsville-the-10-000-signature-rule-the-accessibility-project",
+                            "word_count": 2499,
+                            "reading_minutes": 10,
+                            "date": "2026-01-10",
+                            "start_time": "19:30",
+                            "location": "Virginia Beach, VA (Our Brick Ranch on Lord Nelson Drive in Kempsville)",
+                            "excerpt": "When retiring U.S. Senator Martin Warren attempts to coronate a corporate telecom lobbyist and President Garrett Thorne mocks 'Broken Katie Prairie' from the White House, Katie sits down in Kempsville with Nate and their father David to launch her 2026 U.S. Senate campaign\u2014backed by 'The Accessibility Project' from The Paper Wall and the Brooks family.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/jan_2026_kempsville_living_room_senate_campaign_decision_katie_nate_david.jpg",
+                            "image_alt": "Inside their warm living room on Lord Nelson Drive in Kempsville, Virginia Beach on January 10, 2026, 40-year-old State Senator Katie Prairie and her fraternal twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests while their 67-year-old father David sits on the sofa beside them with his yellow legal pad and three tall glasses of ginger ale.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/jan_2026_kempsville_living_room_senate_campaign_decision_katie_nate_david.jpg",
+                                    "alt": "Inside their warm living room on Lord Nelson Drive in Kempsville, Virginia Beach on January 10, 2026, 40-year-old State Senator Katie Prairie and her fraternal twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests while their 67-year-old father David sits on the sofa beside them with his yellow legal pad and three tall glasses of ginger ale."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Jammed Ramp at 3400 Victoria Boulevard, ShoreLine Transit Across the Bay, & Wearing the NFA's 'F' Grade in Fairfax",
+                            "file_path": "e010/c003/p002.md",
+                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-2-the-jammed-ramp-at-3400-victoria-boulevard-shoreline-transit-across-the-bay-wearing-the-nfa-s-f-grade-in-fairfax",
+                            "word_count": 2051,
+                            "reading_minutes": 9,
+                            "date": "2026-03-28",
+                            "start_time": "10:15",
+                            "location": "Hampton, Accomac, Williamsburg, Doswell, & Fairfax, VA (CVTA Route 103, ShoreLine Transit, ARTS, & Fairfax Link)",
+                            "excerpt": "Refusing a luxury campaign tour bus, Katie, Nate, and David ride local transit across Hampton Roads, the Eastern Shore, Central Virginia, and Northern Virginia to gather 24,812 voter signatures\u2014turning a jammed bus ramp at 3400 Victoria Boulevard in Hampton and an 'F' grade from the National Firearms Association in Fairfax into defining moments of the campaign.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/mar_2026_hampton_3400_victoria_blvd_jammed_ramp_rain_katie_nate_david.jpg",
+                            "image_alt": "In the pouring March 2026 rain at 3400 Victoria Boulevard in Hampton, Virginia, 40-year-old State Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs on the wet sidewalk beside a coastal transit bus whose front flip-out wheelchair ramp has jammed halfway out, talking warmly with the bus operator and Peninsula shipyard and hospital commuters while their father David holds an umbrella.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/mar_2026_hampton_3400_victoria_blvd_jammed_ramp_rain_katie_nate_david.jpg",
+                                    "alt": "In the pouring March 2026 rain at 3400 Victoria Boulevard in Hampton, Virginia, 40-year-old State Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs on the wet sidewalk beside a coastal transit bus whose front flip-out wheelchair ramp has jammed halfway out, talking warmly with the bus operator and Peninsula shipyard and hospital commuters while their father David holds an umbrella."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Roanoke Express, The Brooks Family Compound on Lee Highway, The Maroon Express to Bluewater, & Winning the June Primary",
+                            "file_path": "e010/c003/p003.md",
+                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-3-the-roanoke-express-the-brooks-family-compound-on-lee-highway-the-maroon-express-to-bluewater-winning-the-june-primary",
+                            "word_count": 1831,
+                            "reading_minutes": 8,
+                            "date": "2026-05-18",
+                            "start_time": "11:30",
+                            "location": "Roanoke, Blacksburg, Christiansburg, Radford, & Bluewater, VA (RVT, Blue Ridge Transit, Radford Transit, & Bluewater Transit)",
+                            "excerpt": "Riding ARTS The Patriot to Roanoke's Third Street Station and tapping their Blue Ridge Go-Cards aboard RVT's Train Connector and Roanoke Express into the New River Valley, Katie, Nate, and David visit the Brooks family on Lee Highway and ride Bluewater Transit's Maroon Express with Madison Elizabeth Scott into Bluewater before defeating Preston Holloway in the June 16 Democratic Primary.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/may_2026_bluewater_transit_center_maroon_express_katie_nate_madison.jpg",
+                            "image_alt": "At the Bluewater Transit Center across from Bluewater High School in Bluewater, Virginia in May 2026, 41-year-old State Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs in front of a 45-foot Bluewater Transit Maroon Express motorcoach with its mid-coach hydraulic lift deployed, joined by Madison Elizabeth Scott and David Prairie as they speak with Carroll County working families and students.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/may_2026_bluewater_transit_center_maroon_express_katie_nate_madison.jpg",
+                                    "alt": "At the Bluewater Transit Center across from Bluewater High School in Bluewater, Virginia in May 2026, 41-year-old State Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs in front of a 45-foot Bluewater Transit Maroon Express motorcoach with its mid-coach hydraulic lift deployed, joined by Madison Elizabeth Scott and David Prairie as they speak with Carroll County working families and students."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Riding Into Deep-Red RTR Country: Mountain Empire Transit, The Coalfields, & Cumberland Gap With Dad",
+                            "file_path": "e010/c003/p004.md",
+                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-4-riding-into-deep-red-rtr-country-mountain-empire-transit-the-coalfields-cumberland-gap-with-dad",
+                            "word_count": 1527,
+                            "reading_minutes": 7,
+                            "date": "2026-07-24",
+                            "start_time": "09:30",
+                            "location": "Wytheville, Marion, Abingdon, Bristol, Big Stone Gap, & Cumberland Gap, VA (Mountain Empire Transit, Cumberland Coalfield Transit, & Dad's Rented Wheelchair Van)",
+                            "excerpt": "Refusing to write off a single rural voter after winning the Democratic nomination, Katie, Nate, and David ride Mountain Empire Transit and Cumberland Coalfield Transit buses straight into 75%-plus Restore the Republic counties in Southwest Virginia\u2014before Dad rents a wheelchair-accessible minivan to bridge the gap to Cumberland Gap National Historical Park.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/jul_2026_southwest_virginia_coalfield_bus_town_hall_katie_nate_david.jpg",
+                            "image_alt": "Inside a Mountain Empire Transit bus rolling through the Appalachian ridges of Southwest Virginia in July 2026, 41-year-old State Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs in the front ADA securement bays speaking at eye level with a retired coal miner and a rural clinic nurse while their 68-year-old father David sits across the aisle with his yellow legal pad.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/jul_2026_southwest_virginia_coalfield_bus_town_hall_katie_nate_david.jpg",
+                                    "alt": "Inside a Mountain Empire Transit bus rolling through the Appalachian ridges of Southwest Virginia in July 2026, 41-year-old State Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs in the front ADA securement bays speaking at eye level with a retired coal miner and a rural clinic nurse while their 68-year-old father David sits across the aisle with his yellow legal pad."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: Katie's Favorite Place in Virginia: The Cassini Center in Highland County & The October WHRC TV-15 Three-Bus Sprint",
+                            "file_path": "e010/c003/p005.md",
+                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-5-katie-s-favorite-place-in-virginia-the-cassini-center-in-highland-county-the-october-whrc-tv-15-three-bus-sprint",
+                            "word_count": 1702,
+                            "reading_minutes": 7,
+                            "date": "2026-09-19",
+                            "start_time": "16:30",
+                            "location": "Fishersville, Palo Alto (Highland County), & Norfolk, VA (Shenandoah Valley Transit, The Cassini Center for Space Exploration, & WHRC TV-15 / CVTA)",
+                            "excerpt": "After riding Shenandoah Valley Transit past Roosevelt Rehabilitation Center in Fishersville, David drives Katie and Nate in a rented wheelchair-accessible minivan over Shenandoah Mountain to Katie's favorite place in the Commonwealth\u2014The Cassini Center for Space Exploration in Palo Alto, Highland County\u2014before Katie commands the October WHRC TV-15 debate stage in Norfolk and makes a three-bus sprint home to Kempsville.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/sep_2026_cassini_center_palo_alto_observatory_katie_nate_valerie_starling_triplets.jpg",
+                            "image_alt": "Under the open roll-off roof of The Cassini Center for Space Exploration in Palo Alto, Highland County, Virginia beneath the starry Milky Way in September 2026, 41-year-old Katie Prairie and her twin brother Nate sit in their black motorized SwiftChair power wheelchairs holding hands in a circle with 41-year-old non-verbal autistic triplets Lyra, Orion, and Celeste Starling in their custom tilt-in-space wheelchairs around a 34-inch-high glowing Hubble Deep-Field table and wheelchair-height telescope eyepiece, while Valerie Anne Miller and David Prairie smile beside them.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/sep_2026_cassini_center_palo_alto_observatory_katie_nate_valerie_starling_triplets.jpg",
+                                    "alt": "Under the open roll-off roof of The Cassini Center for Space Exploration in Palo Alto, Highland County, Virginia beneath the starry Milky Way in September 2026, 41-year-old Katie Prairie and her twin brother Nate sit in their black motorized SwiftChair power wheelchairs holding hands in a circle with 41-year-old non-verbal autistic triplets Lyra, Orion, and Celeste Starling in their custom tilt-in-space wheelchairs around a 34-inch-high glowing Hubble Deep-Field table and wheelchair-height telescope eyepiece, while Valerie Anne Miller and David Prairie smile beside them."
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
                 }
             ]
         },
@@ -1827,22 +1941,22 @@
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 26,
-            "word_count": 39549,
+            "word_count": 39866,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Election Night, The Decision Desk Call, & The Referendum Mandate",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate",
                     "illustration_count": 4,
-                    "word_count": 8387,
+                    "word_count": 8704,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Polls Close at Seven, The 8:42 PM Decision Desk Call, & Victory in Virginia Beach",
                             "file_path": "e011/c001/p001.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-1-polls-close-at-seven-the-8-42-pm-decision-desk-call-victory-in-virginia-beach",
-                            "word_count": 2348,
-                            "reading_minutes": 10,
+                            "word_count": 2665,
+                            "reading_minutes": 11,
                             "date": "2026-11-03",
                             "start_time": "19:00",
                             "location": "Virginia Beach, VA (Kempsville & The Virginia Beach Convention Ballroom)",
