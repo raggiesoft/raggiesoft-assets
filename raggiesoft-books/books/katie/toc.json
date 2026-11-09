@@ -13,17 +13,17 @@
         "text_epub": "483 KB",
         "text_pdf": "1.3 MB",
         "package_7z": "364 KB",
-        "epub_bytes": 48473158,
-        "pdf_bytes": 42152567,
-        "text_epub_bytes": 494647,
-        "text_pdf_bytes": 1347671,
-        "package_7z_bytes": 372609
+        "epub_bytes": 48473164,
+        "pdf_bytes": 42152760,
+        "text_epub_bytes": 494667,
+        "text_pdf_bytes": 1347768,
+        "package_7z_bytes": 372565
     },
     "illustration_count": 113,
     "word_stats": {
-        "story_word_count": 204254,
-        "lore_word_count": 47967,
-        "combined_word_count": 252221,
+        "story_word_count": 204295,
+        "lore_word_count": 47968,
+        "combined_word_count": 252263,
         "story_page_count": 743,
         "combined_page_count": 917,
         "reading_hours": 13.6,
@@ -245,7 +245,7 @@
             "era_title": "Sixteen & Summer Sanctuary",
             "era_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary",
             "illustration_count": 12,
-            "word_count": 20198,
+            "word_count": 20200,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -282,14 +282,14 @@
                     "chap_title": "End of Summer Cruise",
                     "chap_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary/end-of-summer-cruise",
                     "illustration_count": 5,
-                    "word_count": 7361,
+                    "word_count": 7363,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The I-95 Haul, The Quantum Basic Library Book, & Ditching Captain Barnaby",
                             "file_path": "e003/c002/p001.md",
                             "url": "/katie/sixteen-summer-sanctuary/end-of-summer-cruise/part-1-the-i-95-haul-the-quantum-basic-library-book-ditching-captain-barnaby",
-                            "word_count": 1238,
+                            "word_count": 1239,
                             "reading_minutes": 5,
                             "date": "2001-08-19",
                             "start_time": "09:30",
@@ -352,7 +352,7 @@
                             "part_title": "Part 4: Back on Dry Land & The Twelve-Hour Drive Up I-95",
                             "file_path": "e003/c002/p004.md",
                             "url": "/katie/sixteen-summer-sanctuary/end-of-summer-cruise/part-4-back-on-dry-land-the-twelve-hour-drive-up-i-95",
-                            "word_count": 2415,
+                            "word_count": 2416,
                             "reading_minutes": 10,
                             "date": "2001-08-25",
                             "start_time": "08:30",
@@ -708,14 +708,14 @@
             "era_title": "West Ocean View & Reclaiming Our Sanctuary",
             "era_url": "/raggiesoft-books/books/katie/west-ocean-view-reclaiming-our-sanctuary",
             "illustration_count": 18,
-            "word_count": 33303,
+            "word_count": 33317,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Ocean View Station, Dirty Old Tonomy Hill, & Five Buses from Williamsburg",
                     "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-reclaiming-our-sanctuary/ocean-view-station-dirty-old-tonomy-hill-five-buses-from-williamsburg",
                     "illustration_count": 6,
-                    "word_count": 12034,
+                    "word_count": 12036,
                     "parts": [
                         {
                             "part_num": 1,
@@ -764,7 +764,7 @@
                             "part_title": "Part 3: Patience at Katie's Pace, Winning Over Nate and Dad, & Katie's Move to Williamsburg",
                             "file_path": "e005/c001/p003.md",
                             "url": "/katie/west-ocean-view-reclaiming-our-sanctuary/ocean-view-station-dirty-old-tonomy-hill-five-buses-from-williamsburg/part-3-patience-at-katie-s-pace-winning-over-nate-and-dad-katie-s-move-to-williamsburg",
-                            "word_count": 1681,
+                            "word_count": 1683,
                             "reading_minutes": 7,
                             "date": "2004-11-20",
                             "start_time": "14:00",
@@ -833,14 +833,14 @@
                     "chap_title": "The End of Hell & Reclaiming Apartment 3",
                     "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-reclaiming-our-sanctuary/the-end-of-hell-reclaiming-apartment-3",
                     "illustration_count": 12,
-                    "word_count": 21269,
+                    "word_count": 21281,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Sister's Worst Nightmare, Tiffany Forces a Choice, & Scrubbing Out the Filth",
                             "file_path": "e005/c002/p001.md",
                             "url": "/katie/west-ocean-view-reclaiming-our-sanctuary/the-end-of-hell-reclaiming-apartment-3/part-1-a-sister-s-worst-nightmare-tiffany-forces-a-choice-scrubbing-out-the-filth",
-                            "word_count": 7154,
+                            "word_count": 7164,
                             "reading_minutes": 29,
                             "date": "2005-11-12",
                             "start_time": "20:20",
@@ -855,7 +855,7 @@
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg",
-                                    "alt": "Part of the way through the heavy-duty cleanout of Sea Breeze West Apartment 3\u2014after hauling the first waves of overflowing trash out to the dumpsters\u2014nineteen-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the kitchen counters and tie up the remaining black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, L-shaped olive-green upper and lower cabinets, and the hallway opening on the far right"
+                                    "alt": "Part of the way through the heavy-duty cleanout of Sea Breeze West Apartment 3\u2014after hauling the first waves of overflowing trash out to the outdoor trash bins\u2014nineteen-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the kitchen counters and tie up the remaining black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, L-shaped olive-green upper and lower cabinets, and the hallway opening on the far right"
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_green_sofa_never_separate_again_promise.jpg",
@@ -869,7 +869,7 @@
                             "part_title": "Part 2: The 8:13 AM Bus to CCHR, All-New Queen Bedding, Dad's Pickup Truck, & The Hallway Closet Sanctuary",
                             "file_path": "e005/c002/p002.md",
                             "url": "/katie/west-ocean-view-reclaiming-our-sanctuary/the-end-of-hell-reclaiming-apartment-3/part-2-the-8-13-am-bus-to-cchr-all-new-queen-bedding-dad-s-pickup-truck-the-hallway-closet-sanctuary",
-                            "word_count": 4344,
+                            "word_count": 4346,
                             "reading_minutes": 18,
                             "date": "2005-11-14",
                             "start_time": "07:30",
@@ -994,7 +994,7 @@
             "era_title": "Twelve Days at Roosevelt Rehabilitation Center & Walking Out for Good",
             "era_url": "/raggiesoft-books/books/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good",
             "illustration_count": 6,
-            "word_count": 16559,
+            "word_count": 16564,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1052,14 +1052,14 @@
                     "chap_title": "Starting Web Apps While Stuck in Barton Hall, Sleeping in the Closet, & The Chickenshit Report",
                     "chap_url": "/raggiesoft-books/books/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/starting-web-apps-while-stuck-in-barton-hall-sleeping-in-the-closet-the-chickenshit-report",
                     "illustration_count": 2,
-                    "word_count": 6769,
+                    "word_count": 6774,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Starting Web Apps While Stuck on Level 2 in Barton Hall, Quantum OS 2000 Professional, & Meeting Tina, Jim, and Sheila",
                             "file_path": "e006/c002/p001.md",
                             "url": "/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/starting-web-apps-while-stuck-in-barton-hall-sleeping-in-the-closet-the-chickenshit-report/part-1-starting-web-apps-while-stuck-on-level-2-in-barton-hall-quantum-os-2000-professional-meeting-tina-jim-and-sheila",
-                            "word_count": 2679,
+                            "word_count": 2684,
                             "reading_minutes": 11,
                             "date": "2007-03-12",
                             "start_time": "08:00",
@@ -1156,14 +1156,14 @@
             "era_title": "Unofficial Homeowners: Back Home in Virginia Beach (2007\u20132008)",
             "era_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008",
             "illustration_count": 13,
-            "word_count": 17932,
+            "word_count": 17934,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Arvin Road, Crossing Without a Crosswalk, Horizontal IDs on Route 12, & Yearly Passes at Fairlawn",
                     "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/arvin-road-crossing-without-a-crosswalk-horizontal-ids-on-route-12-yearly-passes-at-fairlawn",
                     "illustration_count": 5,
-                    "word_count": 6844,
+                    "word_count": 6845,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1216,7 +1216,7 @@
                             "part_title": "Part 3: Crossing Both Roads for Route 12, Buckner Boulevard DMV, & Horizontal State IDs on the Spot",
                             "file_path": "e007/c001/p003.md",
                             "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/arvin-road-crossing-without-a-crosswalk-horizontal-ids-on-route-12-yearly-passes-at-fairlawn/part-3-crossing-both-roads-for-route-12-buckner-boulevard-dmv-horizontal-state-ids-on-the-spot",
-                            "word_count": 1723,
+                            "word_count": 1724,
                             "reading_minutes": 7,
                             "date": "2007-03-23",
                             "start_time": "09:40",
@@ -1311,7 +1311,7 @@
                     "chap_title": "Twenty-Two in Alexandria: Riding DMV Transit, Touring the White House & the U.S. Capitol, Meeting Senator James West, The Spark to Run for City Council, & Two Blue Passports",
                     "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-touring-the-white-house-the-u-s-capitol-meeting-senator-james-west-the-spark-to-run-for-city-council-two-blue-passports",
                     "illustration_count": 5,
-                    "word_count": 7793,
+                    "word_count": 7794,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1322,7 +1322,7 @@
                             "reading_minutes": 5,
                             "date": "2007-04-08",
                             "start_time": "09:15",
-                            "location": "Newport News & Alexandria, VA (Newport News ARTS Station, Alexandria Union Station, King Street Metro, & Sunset Drive)",
+                            "location": "Newport News & Alexandria, VA (Newport News ARTS Station, Alexandria Union Station, King Street Capital Transit, & Sunset Drive)",
                             "excerpt": "\"Happy early twenty-second birthday, you two!\" Dad beamed on Saturday afternoon, standing right beside the blue mobile wheelchair lift on the red-brick platform of Alexandria Union Station as the ARTS conductor\u2026",
                             "image": "/raggiesoft-books/images/scenes/katie/b006/apr_2007_alexandria_alx_platform_22nd_birthday_arrival_katie_nate_david.jpg",
                             "image_alt": "On the red-brick platform of Alexandria Union Station beside the stainless-steel ARTS passenger train and the George Washington Masonic Memorial tower in the background on Saturday, April 7, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie roll their black motorized SwiftChair power wheelchairs off the blue station wheelchair lift as their father David Prairie beams and welcomes them to Northern Virginia for their birthday week",
@@ -1339,7 +1339,7 @@
                             "part_title": "Part 2: Unclipping Our Backpacks, Where Is President George W. Walker Today?, & The White House Tour That Sparked a Political Calling",
                             "file_path": "e007/c003/p002.md",
                             "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-touring-the-white-house-the-u-s-capitol-meeting-senator-james-west-the-spark-to-run-for-city-council-two-blue-passports/part-2-unclipping-our-backpacks-where-is-president-george-w-walker-today-the-white-house-tour-that-sparked-a-political-calling",
-                            "word_count": 2365,
+                            "word_count": 2366,
                             "reading_minutes": 10,
                             "date": "2007-04-10",
                             "start_time": "08:15",
@@ -1457,7 +1457,7 @@
             "era_title": "Do Better: Ideas for CVTA & The Kempsville City Council",
             "era_url": "/raggiesoft-books/books/katie/do-better-ideas-for-cvta-the-kempsville-city-council",
             "illustration_count": 7,
-            "word_count": 13920,
+            "word_count": 13922,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1519,7 +1519,7 @@
                     "chap_title": "The Empty Podium on WHRC TV-15, The 94.1% Landslide, & Councilwoman Prairie",
                     "chap_url": "/raggiesoft-books/books/katie/do-better-ideas-for-cvta-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie",
                     "illustration_count": 4,
-                    "word_count": 8088,
+                    "word_count": 8090,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1551,7 +1551,7 @@
                             "part_title": "Part 2: The WTGA 790 AM Disability Attack, The 94.1% Landslide, & The Eighteenth Street Reckoning",
                             "file_path": "e008/c002/p002.md",
                             "url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie/part-2-the-wtga-790-am-disability-attack-the-94-1-landslide-the-eighteenth-street-reckoning",
-                            "word_count": 4505,
+                            "word_count": 4507,
                             "reading_minutes": 19,
                             "date": "2010-10-28",
                             "start_time": "08:15",
@@ -1754,7 +1754,7 @@
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
             "illustration_count": 8,
-            "word_count": 15015,
+            "word_count": 15024,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1825,7 +1825,7 @@
                     "chap_title": "The Accessibility Project: Riding Every Bus Across the Commonwealth for the United States Senate",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate",
                     "illustration_count": 5,
-                    "word_count": 9957,
+                    "word_count": 9966,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1853,7 +1853,7 @@
                             "part_title": "Part 2: The Jammed Ramp at 3400 Victoria Boulevard, ShoreLine Transit Across the Bay, & Wearing the NFA's 'F' Grade in Fairfax",
                             "file_path": "e010/c003/p002.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-2-the-jammed-ramp-at-3400-victoria-boulevard-shoreline-transit-across-the-bay-wearing-the-nfa-s-f-grade-in-fairfax",
-                            "word_count": 2051,
+                            "word_count": 2052,
                             "reading_minutes": 9,
                             "date": "2026-03-28",
                             "start_time": "10:15",
@@ -1874,7 +1874,7 @@
                             "part_title": "Part 3: The Roanoke Express, The Brooks Family Compound on Lee Highway, The Maroon Express to Bluewater, & Winning the June Primary",
                             "file_path": "e010/c003/p003.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-3-the-roanoke-express-the-brooks-family-compound-on-lee-highway-the-maroon-express-to-bluewater-winning-the-june-primary",
-                            "word_count": 2043,
+                            "word_count": 2045,
                             "reading_minutes": 9,
                             "date": "2026-05-18",
                             "start_time": "11:30",
@@ -1895,7 +1895,7 @@
                             "part_title": "Part 4: Riding Into Deep-Red RTR Country: Mountain Empire Transit, The Coalfields, & Cumberland Gap With Dad",
                             "file_path": "e010/c003/p004.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-4-riding-into-deep-red-rtr-country-mountain-empire-transit-the-coalfields-cumberland-gap-with-dad",
-                            "word_count": 1527,
+                            "word_count": 1530,
                             "reading_minutes": 7,
                             "date": "2026-07-24",
                             "start_time": "09:30",
@@ -1916,18 +1916,18 @@
                             "part_title": "Part 5: Katie's Favorite Place in Virginia: The Cassini Center in Highland County & The October WHRC TV-15 Three-Bus Sprint",
                             "file_path": "e010/c003/p005.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-5-katie-s-favorite-place-in-virginia-the-cassini-center-in-highland-county-the-october-whrc-tv-15-three-bus-sprint",
-                            "word_count": 1702,
+                            "word_count": 1705,
                             "reading_minutes": 7,
                             "date": "2026-09-19",
                             "start_time": "16:30",
                             "location": "Fishersville, Palo Alto (Highland County), & Norfolk, VA (Shenandoah Valley Transit, The Cassini Center for Space Exploration, & WHRC TV-15 / CVTA)",
                             "excerpt": "After riding Shenandoah Valley Transit past Roosevelt Rehabilitation Center in Fishersville, David drives Katie and Nate in a rented wheelchair-accessible minivan over Shenandoah Mountain to Katie's favorite place in the Commonwealth\u2014The Cassini Center for Space Exploration in Palo Alto, Highland County\u2014before Katie commands the October WHRC TV-15 debate stage in Norfolk and makes a three-bus sprint home to Kempsville.",
                             "image": "/raggiesoft-books/images/scenes/katie/b006/sep_2026_cassini_center_palo_alto_observatory_katie_nate_valerie_starling_triplets.jpg",
-                            "image_alt": "Under the open roll-off roof of The Cassini Center for Space Exploration in Palo Alto, Highland County, Virginia beneath the starry Milky Way in September 2026, 41-year-old Katie Prairie and her twin brother Nate sit in their black motorized SwiftChair power wheelchairs holding hands in a circle with 41-year-old non-verbal autistic triplets Lyra, Orion, and Celeste Starling in their custom tilt-in-space wheelchairs around a 34-inch-high glowing Hubble Deep-Field table and wheelchair-height telescope eyepiece, while Valerie Anne Miller and David Prairie smile beside them.",
+                            "image_alt": "Under the open roll-off roof of The Cassini Center for Space Exploration in Palo Alto, Highland County, Virginia beneath the starry Milky Way in September 2026, 41-year-old Katie Prairie and her twin brother Nate sit in their black motorized SwiftChair power wheelchairs holding hands in a circle with 41-year-old non-verbal autistic triplets Lyra, Orion, and Celeste Starling in their custom tilt-in-space wheelchairs around a 34-inch-high glowing Starlight Wing nebula table and wheelchair-height telescope eyepiece, while Valerie Anne Miller and David Prairie smile beside them.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b006/sep_2026_cassini_center_palo_alto_observatory_katie_nate_valerie_starling_triplets.jpg",
-                                    "alt": "Under the open roll-off roof of The Cassini Center for Space Exploration in Palo Alto, Highland County, Virginia beneath the starry Milky Way in September 2026, 41-year-old Katie Prairie and her twin brother Nate sit in their black motorized SwiftChair power wheelchairs holding hands in a circle with 41-year-old non-verbal autistic triplets Lyra, Orion, and Celeste Starling in their custom tilt-in-space wheelchairs around a 34-inch-high glowing Hubble Deep-Field table and wheelchair-height telescope eyepiece, while Valerie Anne Miller and David Prairie smile beside them."
+                                    "alt": "Under the open roll-off roof of The Cassini Center for Space Exploration in Palo Alto, Highland County, Virginia beneath the starry Milky Way in September 2026, 41-year-old Katie Prairie and her twin brother Nate sit in their black motorized SwiftChair power wheelchairs holding hands in a circle with 41-year-old non-verbal autistic triplets Lyra, Orion, and Celeste Starling in their custom tilt-in-space wheelchairs around a 34-inch-high glowing Starlight Wing nebula table and wheelchair-height telescope eyepiece, while Valerie Anne Miller and David Prairie smile beside them."
                                 }
                             ],
                             "image_count": 1
@@ -1941,14 +1941,14 @@
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 26,
-            "word_count": 39866,
+            "word_count": 39873,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Election Night, The Decision Desk Call, & The Referendum Mandate",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate",
                     "illustration_count": 4,
-                    "word_count": 8704,
+                    "word_count": 8705,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2001,18 +2001,18 @@
                             "part_title": "Part 3: U.S. Senate New Member Orientation, Senator Tess Dunmore's Ramp, & Making the Vice President Swear Her In",
                             "file_path": "e011/c001/p003.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-3-u-s-senate-new-member-orientation-senator-tess-dunmore-s-ramp-making-the-vice-president-swear-her-in",
-                            "word_count": 4143,
+                            "word_count": 4144,
                             "reading_minutes": 17,
                             "date": "2026-11-16",
                             "start_time": "08:45",
                             "location": "Washington, D.C. (Capitol South Station, The Kennedy Caucus Room, The U.S. Senate Floor, & The President's Room S-216)",
                             "excerpt": "Arriving on Capitol Hill via public transit for U.S. Senate New Member Orientation after defeating retiring Senator Martin Warren's handpicked corporate stooge in the primary and winning the general election by nine points, Senator-Elect Katie Prairie and Nate meet Senator Tess Dunmore of Illinois on the Senate floor, claim Room 511 in the Dirksen Building, and confront Vice President Julian Vance face-to-face over her upcoming secular affirmation on the U.S. Constitution.",
                             "image": "/raggiesoft-books/images/scenes/katie/b006/jan_2027_capitol_south_elevator_plaza_arrival_katie_nate_david.jpg",
-                            "image_alt": "Arriving on Capitol Hill via the Capitol South Metro elevator in their black motorized SwiftChair power wheelchairs with their father David walking beside them, 41-year-old U.S. Senator-Elect Katie Prairie and her twin brother Nate roll past the chartered VIP motorcoaches toward the Russell and Dirksen Senate Office Buildings for New Member Orientation.",
+                            "image_alt": "Arriving on Capitol Hill via the Capitol South Capital Transit elevator in their black motorized SwiftChair power wheelchairs with their father David walking beside them, 41-year-old U.S. Senator-Elect Katie Prairie and her twin brother Nate roll past the chartered VIP motorcoaches toward the Russell and Dirksen Senate Office Buildings for New Member Orientation.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b006/jan_2027_capitol_south_elevator_plaza_arrival_katie_nate_david.jpg",
-                                    "alt": "Arriving on Capitol Hill via the Capitol South Metro elevator in their black motorized SwiftChair power wheelchairs with their father David walking beside them, 41-year-old U.S. Senator-Elect Katie Prairie and her twin brother Nate roll past the chartered VIP motorcoaches toward the Russell and Dirksen Senate Office Buildings for New Member Orientation."
+                                    "alt": "Arriving on Capitol Hill via the Capitol South Capital Transit elevator in their black motorized SwiftChair power wheelchairs with their father David walking beside them, 41-year-old U.S. Senator-Elect Katie Prairie and her twin brother Nate roll past the chartered VIP motorcoaches toward the Russell and Dirksen Senate Office Buildings for New Member Orientation."
                                 }
                             ],
                             "image_count": 1
@@ -2079,14 +2079,14 @@
                     "chap_title": "First Train from Norfolk, Swearing In on the Constitution, & Strings Attached for RRC",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc",
                     "illustration_count": 12,
-                    "word_count": 18483,
+                    "word_count": 18489,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Three Business Class Tickets for Free Caf\u00e9 Car Drinks & The Mobile Lift at Alexandria",
                             "file_path": "e011/c003/p001.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-1-three-business-class-tickets-for-free-caf-car-drinks-the-mobile-lift-at-alexandria",
-                            "word_count": 1689,
+                            "word_count": 1690,
                             "reading_minutes": 7,
                             "date": "2027-01-03",
                             "start_time": "05:00",
@@ -2111,11 +2111,11 @@
                             "part_title": "Part 2: The Yellow Line Over the Fenwick Bridge, The Full-Chair Portrait, & Swearing In on the Constitution",
                             "file_path": "e011/c003/p002.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-2-the-yellow-line-over-the-fenwick-bridge-the-full-chair-portrait-swearing-in-on-the-constitution",
-                            "word_count": 3062,
+                            "word_count": 3064,
                             "reading_minutes": 13,
                             "date": "2027-01-03",
                             "start_time": "09:25",
-                            "location": "Alexandria, VA & Washington, D.C. (King St\u2013Old Town Metro, Charles R. Fenwick Bridge, L'Enfant Plaza, Capitol South, & The United States Senate)",
+                            "location": "Alexandria, VA & Washington, D.C. (King St\u2013Old Town Capital Transit, Charles R. Fenwick Bridge, L'Enfant Plaza, Capitol South, & The United States Senate)",
                             "excerpt": "Proving her transit-insider credentials by taking the Capital Transit Yellow Line across the Charles R. Fenwick Bridge to L'Enfant Plaza instead of the long Blue Line detour via Rosslyn, Katie refuses to hide her powerchair in her official Senate portrait and swears her oath on the Constitution of the United States of America.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait_og.jpg",
                             "image_alt": "Official full-seated U.S. Senate portrait of forty-one-year-old U.S. Senator Katie Prairie of Virginia proudly seated in her compact SwiftChair power wheelchair in a royal-blue blazer between the United States and Virginia flags with the Capitol dome visible through the arched window behind her",
@@ -2144,7 +2144,7 @@
                             "part_title": "Part 3: The First Invite to Cocktails, A Known Side Effect of Death, & Home to Sunset Drive",
                             "file_path": "e011/c003/p003.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-3-the-first-invite-to-cocktails-a-known-side-effect-of-death-home-to-sunset-drive",
-                            "word_count": 2892,
+                            "word_count": 2895,
                             "reading_minutes": 12,
                             "date": "2027-01-03",
                             "start_time": "16:30",
