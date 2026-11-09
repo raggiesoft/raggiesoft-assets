@@ -13,17 +13,17 @@
         "text_epub": "457 KB",
         "text_pdf": "1.2 MB",
         "package_7z": "345 KB",
-        "epub_bytes": 44561416,
-        "pdf_bytes": 37554846,
-        "text_epub_bytes": 468384,
-        "text_pdf_bytes": 1275285,
-        "package_7z_bytes": 353201
+        "epub_bytes": 44561448,
+        "pdf_bytes": 37555112,
+        "text_epub_bytes": 468412,
+        "text_pdf_bytes": 1275817,
+        "package_7z_bytes": 353299
     },
     "illustration_count": 108,
     "word_stats": {
-        "story_word_count": 193685,
+        "story_word_count": 193713,
         "lore_word_count": 46998,
-        "combined_word_count": 240683,
+        "combined_word_count": 240711,
         "story_page_count": 704,
         "combined_page_count": 875,
         "reading_hours": 12.9,
@@ -994,7 +994,7 @@
             "era_title": "Twelve Days at Roosevelt Rehabilitation Center & Walking Out for Good",
             "era_url": "/raggiesoft-books/books/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good",
             "illustration_count": 6,
-            "word_count": 16537,
+            "word_count": 16559,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1052,7 +1052,7 @@
                     "chap_title": "Starting Web Apps While Stuck in Barton Hall, Sleeping in the Closet, & The Chickenshit Report",
                     "chap_url": "/raggiesoft-books/books/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/starting-web-apps-while-stuck-in-barton-hall-sleeping-in-the-closet-the-chickenshit-report",
                     "illustration_count": 2,
-                    "word_count": 6747,
+                    "word_count": 6769,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1080,7 +1080,7 @@
                             "part_title": "Part 2: Emergency in the Therapeutic Pool, Caught Sleeping Together in a Closet, Calling the Staffer's Bluff, & The Chickenshit Report",
                             "file_path": "e006/c002/p002.md",
                             "url": "/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/starting-web-apps-while-stuck-in-barton-hall-sleeping-in-the-closet-the-chickenshit-report/part-2-emergency-in-the-therapeutic-pool-caught-sleeping-together-in-a-closet-calling-the-staffer-s-bluff-the-chickenshit-report",
-                            "word_count": 4068,
+                            "word_count": 4090,
                             "reading_minutes": 17,
                             "date": "2007-03-13",
                             "start_time": "16:15",
@@ -1156,21 +1156,21 @@
             "era_title": "Unofficial Homeowners: Back Home in Virginia Beach (2007\u20132008)",
             "era_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008",
             "illustration_count": 13,
-            "word_count": 17933,
+            "word_count": 17932,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Arvin Road, Crossing Without a Crosswalk, Horizontal IDs on Route 12, & Yearly Passes at Fairlawn",
                     "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/arvin-road-crossing-without-a-crosswalk-horizontal-ids-on-route-12-yearly-passes-at-fairlawn",
                     "illustration_count": 5,
-                    "word_count": 6845,
+                    "word_count": 6844,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Unofficial Homeowners, One Bedroom and One Office, & The Closet We Both Know We'll Use",
                             "file_path": "e007/c001/p001.md",
                             "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/arvin-road-crossing-without-a-crosswalk-horizontal-ids-on-route-12-yearly-passes-at-fairlawn/part-1-unofficial-homeowners-one-bedroom-and-one-office-the-closet-we-both-know-we-ll-use",
-                            "word_count": 2377,
+                            "word_count": 2376,
                             "reading_minutes": 10,
                             "date": "2007-03-18",
                             "start_time": "18:30",
@@ -1457,14 +1457,14 @@
             "era_title": "Do Better: Ideas for CVTA & The Kempsville City Council",
             "era_url": "/raggiesoft-books/books/katie/do-better-ideas-for-cvta-the-kempsville-city-council",
             "illustration_count": 7,
-            "word_count": 13916,
+            "word_count": 13920,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Do Better: Ideas for CVTA & The Four-Bus Mayoral Loop",
                     "chap_url": "/raggiesoft-books/books/katie/do-better-ideas-for-cvta-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop",
                     "illustration_count": 3,
-                    "word_count": 5828,
+                    "word_count": 5832,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1492,7 +1492,7 @@
                             "part_title": "Part 2: The Four-Bus Mayoral Loop, Silenced at Eighteenth Street, & Choosing to Run for the Kempsville Seat",
                             "file_path": "e008/c001/p002.md",
                             "url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop/part-2-the-four-bus-mayoral-loop-silenced-at-eighteenth-street-choosing-to-run-for-the-kempsville-seat",
-                            "word_count": 2502,
+                            "word_count": 2506,
                             "reading_minutes": 11,
                             "date": "2008-09-16",
                             "start_time": "14:00",
@@ -1580,7 +1580,7 @@
             "era_title": "The Gentlewoman from Virginia Beach: The House of Delegates",
             "era_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates",
             "illustration_count": 9,
-            "word_count": 28332,
+            "word_count": 28334,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1638,7 +1638,7 @@
                     "chap_title": "Freshman Session on West Broad Street & Riding JRTC Route 6 to the Capitol",
                     "chap_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/freshman-session-on-west-broad-street-riding-jrtc-route-6-to-the-capitol",
                     "illustration_count": 4,
-                    "word_count": 5734,
+                    "word_count": 5736,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1670,7 +1670,7 @@
                             "part_title": "Part 2: Gold License Plates vs. JRTC Route 6, Turning Down the Parking Deck Pass, & The 60-Inch ADA Restroom Showdown",
                             "file_path": "e009/c002/p002.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/freshman-session-on-west-broad-street-riding-jrtc-route-6-to-the-capitol/part-2-gold-license-plates-vs-jrtc-route-6-turning-down-the-parking-deck-pass-the-60-inch-ada-restroom-showdown",
-                            "word_count": 3378,
+                            "word_count": 3380,
                             "reading_minutes": 14,
                             "date": "2014-01-06",
                             "start_time": "08:15",
@@ -1754,21 +1754,21 @@
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
             "illustration_count": 3,
-            "word_count": 5055,
+            "word_count": 5058,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Watching Senator Ward Kill Our Bills Across the Rotunda & The 250-Signature Petition",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition",
                     "illustration_count": 2,
-                    "word_count": 2286,
+                    "word_count": 2289,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Watching Senator Ward Kill Our Bills Across the Rotunda, Brainstorming the 7th Senate District with Dad, & The 250-Signature Rule",
                             "file_path": "e010/c001/p001.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition/watching-senator-ward-kill-our-bills-across-the-rotunda-brainstorming-the-7th-senate-district-with-dad-the-250-signature-rule",
-                            "word_count": 2286,
+                            "word_count": 2289,
                             "reading_minutes": 10,
                             "date": "2018-02-22",
                             "start_time": "15:10",
@@ -1827,14 +1827,14 @@
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 26,
-            "word_count": 39284,
+            "word_count": 39282,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Election Night, The Decision Desk Call, & The Referendum Mandate",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate",
                     "illustration_count": 4,
-                    "word_count": 8121,
+                    "word_count": 8120,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1887,7 +1887,7 @@
                             "part_title": "Part 3: U.S. Senate New Member Orientation, Senator Tess Dunmore's Ramp, & Making the Vice President Swear Her In",
                             "file_path": "e011/c001/p003.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-3-u-s-senate-new-member-orientation-senator-tess-dunmore-s-ramp-making-the-vice-president-swear-her-in",
-                            "word_count": 3877,
+                            "word_count": 3876,
                             "reading_minutes": 16,
                             "date": "2026-11-16",
                             "start_time": "08:45",
@@ -1997,7 +1997,7 @@
                             "part_title": "Part 2: The Yellow Line Over the Fenwick Bridge, The Full-Chair Portrait, & Swearing In on the Constitution",
                             "file_path": "e011/c003/p002.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-2-the-yellow-line-over-the-fenwick-bridge-the-full-chair-portrait-swearing-in-on-the-constitution",
-                            "word_count": 3060,
+                            "word_count": 3062,
                             "reading_minutes": 13,
                             "date": "2027-01-03",
                             "start_time": "09:25",
@@ -2059,7 +2059,7 @@
                             "part_title": "Part 4: The Constituent Line in Room 511, 'Is Nathaniel Still With You?', & What Really Happened to Natalie",
                             "file_path": "e011/c003/p004.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-4-the-constituent-line-in-room-511-is-nathaniel-still-with-you-what-really-happened-to-natalie",
-                            "word_count": 4462,
+                            "word_count": 4460,
                             "reading_minutes": 18,
                             "date": "2027-01-14",
                             "start_time": "16:15",
@@ -2107,14 +2107,14 @@
                     "chap_title": "The Norfolk Carrier Leak, Suite 756 at Timberline Shopping Center, & Three Convictions in the Senate",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/the-norfolk-carrier-leak-suite-756-at-timberline-shopping-center-three-convictions-in-the-senate",
                     "illustration_count": 7,
-                    "word_count": 8915,
+                    "word_count": 8914,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The South Lawn Tirade, The Norfolk Carrier Leak, & Why the Order of the Trials Matters",
                             "file_path": "e011/c004/p001.md",
                             "url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-suite-756-at-timberline-shopping-center-three-convictions-in-the-senate/part-1-the-south-lawn-tirade-the-norfolk-carrier-leak-why-the-order-of-the-trials-matters",
-                            "word_count": 2192,
+                            "word_count": 2191,
                             "reading_minutes": 9,
                             "date": "2027-03-18",
                             "start_time": "10:15",
