@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "47.8 MB",
-        "pdf": "42.7 MB",
-        "text_epub": "526 KB",
+        "epub": "48.6 MB",
+        "pdf": "43.6 MB",
+        "text_epub": "538 KB",
         "text_pdf": "1.4 MB",
-        "package_7z": "395 KB",
-        "epub_bytes": 50157562,
-        "pdf_bytes": 44784393,
-        "text_epub_bytes": 538382,
-        "text_pdf_bytes": 1466448,
-        "package_7z_bytes": 404233
+        "package_7z": "403 KB",
+        "epub_bytes": 50949093,
+        "pdf_bytes": 45757024,
+        "text_epub_bytes": 550434,
+        "text_pdf_bytes": 1500571,
+        "package_7z_bytes": 412802
     },
-    "illustration_count": 115,
+    "illustration_count": 116,
     "word_stats": {
-        "story_word_count": 223781,
-        "lore_word_count": 56945,
-        "combined_word_count": 280726,
-        "story_page_count": 814,
-        "combined_page_count": 1021,
-        "reading_hours": 14.9,
-        "reading_minutes": 895,
+        "story_word_count": 228927,
+        "lore_word_count": 57137,
+        "combined_word_count": 286064,
+        "story_page_count": 832,
+        "combined_page_count": 1040,
+        "reading_hours": 15.3,
+        "reading_minutes": 916,
         "novel_equivalent": 2.5,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
-        "benchmark_note": "2.5\u00d7 a standard 90,000-word contemporary novel (~2-volume print series)",
+        "benchmark_note": "2.5\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
         "era_count": 11,
-        "chapter_count": 34,
-        "part_count": 84,
-        "illustration_count": 115
+        "chapter_count": 35,
+        "part_count": 85,
+        "illustration_count": 116
     },
     "eras": [
         {
@@ -1965,8 +1965,8 @@
             "era_num": 11,
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
-            "illustration_count": 26,
-            "word_count": 46932,
+            "illustration_count": 27,
+            "word_count": 52078,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2326,6 +2326,36 @@
                                 }
                             ],
                             "image_count": 2
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 5,
+                    "chap_title": "Three Senate Terms, Refusing the 2044 Nomination, & The Stop #0812 Four-Seat Presidential Endorsement Loop",
+                    "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop",
+                    "illustration_count": 1,
+                    "word_count": 5146,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Stop #0812 at Military & Indian River: Route 15, The Surge Light Rail (800), Route 25 to CCHR, & Route 12 Back Home",
+                            "file_path": "e011/c005/p001.md",
+                            "url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/stop-0812-at-military-indian-river-route-15-the-surge-light-rail-800-route-25-to-cchr-route-12-back-home",
+                            "word_count": 5146,
+                            "reading_minutes": 21,
+                            "date": "2044-02-18",
+                            "start_time": "09:10",
+                            "location": "Virginia Beach & Norfolk, VA (Stop #0812 at Military Hwy & Indian River Rd, CVTA Route 15, Military Highway Station, Route 800 The Surge Light Rail, Newtown Road Station, CVTA Route 25, CCHR Virginia Beach Campus, & CVTA Route 12)",
+                            "excerpt": "After three terms in the United States Senate and turning down the 2044 presidential nomination so the Secret Service can never ban her and Nate from riding the bus, fifty-eight-year-old Senator Katie Prairie conducts her coveted 2044 Presidential endorsement interviews aboard a live, unannounced four-seat CVTA loop starting and ending at Stop #0812 (Military Highway & Indian River Road): Route 15 to Military Highway Station, Route 800 (The Surge Light Rail) one stop to Newtown Road Station, Route 25 to CCHR, and Route 12 back to Stop #0812\u2014encouraging everyday passengers to grill the candidates along the way.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/feb_2044_stop_0812_cvta_bus_presidential_endorsement_interview_katie_nate.jpg",
+                            "image_alt": "Aboard a regularly scheduled Coastal Virginia Transit Authority bus in Virginia Beach in February 2044, 58-year-old three-term U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs in the front ADA securement bays as Nate films on his mPhone while Katie encourages everyday bus passengers\u2014a hospital nurse in scrubs, a shipyard worker, and a CCHR college student\u2014to ask unscripted questions directly to a 2044 Presidential candidate seated across the aisle.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/feb_2044_stop_0812_cvta_bus_presidential_endorsement_interview_katie_nate.jpg",
+                                    "alt": "Aboard a regularly scheduled Coastal Virginia Transit Authority bus in Virginia Beach in February 2044, 58-year-old three-term U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs in the front ADA securement bays as Nate films on his mPhone while Katie encourages everyday bus passengers\u2014a hospital nurse in scrubs, a shipyard worker, and a CCHR college student\u2014to ask unscripted questions directly to a 2044 Presidential candidate seated across the aisle."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
