@@ -70,6 +70,7 @@
     { id: 'hub', href: 'https://raggiesoft.com', host: 'raggiesoft.com', icon: '🌐', label: 'RaggieSoft Hub' },
     { id: 'nebulae', href: 'https://nebulae.raggiesoft.com', host: 'nebulae.raggiesoft.com', icon: '🌌', label: 'Nebulae Atlas' },
     { id: 'books', href: 'https://books.raggiesoft.com', host: 'books.raggiesoft.com', icon: '📚', label: 'Ocean View Archives' },
+    { id: 'backstage', href: 'https://backstage.raggiesoft.com', host: 'backstage.raggiesoft.com', icon: '🎬', label: 'RaggieSoft Backstage' },
     { id: 'music', href: 'https://music.raggiesoft.com', host: 'music.raggiesoft.com', icon: '🎧', label: 'The Listening Room' },
     { id: 'engineroom', href: 'https://engineroom.raggiesoft.com', host: 'engineroom.raggiesoft.com', icon: '⚙️', label: 'Engine Room' },
     { id: 'corporate', href: 'https://corporate.raggiesoft.com', host: 'corporate.raggiesoft.com', icon: '🏢', label: 'Corporate Media' },
@@ -417,10 +418,13 @@
    * 1. Builds the HTML for the `📚 Ocean View ▾` dropdown `<li>` item on `.rs-network-bar`.
    */
   function buildOceanViewDropdownLiHtml(currentHost, currentPath) {
-    var isOceanViewGroupActive = currentHost === 'books.raggiesoft.com';
+    var isOceanViewGroupActive =
+      currentHost === 'books.raggiesoft.com' ||
+      currentHost === 'backstage.raggiesoft.com';
     var isImprintHomeActive =
       currentHost === 'books.raggiesoft.com' &&
       (currentPath === '/' || currentPath === '/home');
+    var isBackstageActive = currentHost === 'backstage.raggiesoft.com';
 
     var universesHtml = OCEAN_VIEW_ITEMS.map(function (item) {
       var active = isOceanViewItemActive(item, currentHost, currentPath);
@@ -452,6 +456,14 @@
       ' data-no-spa="true">' +
       '<span aria-hidden="true">📚</span>' +
       '<span>Ocean View Archives Hub</span>' +
+      '</a>' +
+      '</li>' +
+      '<li role="none">' +
+      '<a role="menuitem" href="https://backstage.raggiesoft.com"' +
+      (isBackstageActive ? ' class="is-active" aria-current="page"' : '') +
+      ' data-no-spa="true">' +
+      '<span aria-hidden="true">🎬</span>' +
+      '<span>Backstage &amp; Bonus Features</span>' +
       '</a>' +
       '</li>' +
       '<li class="rs-network-dropdown-divider" role="separator"></li>' +
