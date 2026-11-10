@@ -8,22 +8,22 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "47.9 MB",
+        "epub": "47.8 MB",
         "pdf": "42.7 MB",
         "text_epub": "522 KB",
         "text_pdf": "1.4 MB",
         "package_7z": "392 KB",
-        "epub_bytes": 50194181,
-        "pdf_bytes": 44783850,
-        "text_epub_bytes": 534461,
-        "text_pdf_bytes": 1455400,
-        "package_7z_bytes": 401424
+        "epub_bytes": 50153655,
+        "pdf_bytes": 44773667,
+        "text_epub_bytes": 534480,
+        "text_pdf_bytes": 1455645,
+        "package_7z_bytes": 401413
     },
     "illustration_count": 115,
     "word_stats": {
-        "story_word_count": 221918,
-        "lore_word_count": 56308,
-        "combined_word_count": 278226,
+        "story_word_count": 221958,
+        "lore_word_count": 56357,
+        "combined_word_count": 278315,
         "story_page_count": 807,
         "combined_page_count": 1012,
         "reading_hours": 14.8,
@@ -525,7 +525,7 @@
             "era_title": "Seventeen, Senior Year, & Greenway Court",
             "era_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court",
             "illustration_count": 8,
-            "word_count": 14533,
+            "word_count": 14573,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -583,7 +583,7 @@
                     "chap_title": "Greenway Court, Apartment A6 & The Square Closet Sanctuary",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary",
                     "illustration_count": 3,
-                    "word_count": 5736,
+                    "word_count": 5776,
                     "parts": [
                         {
                             "part_num": 1,
@@ -632,18 +632,18 @@
                             "part_title": "Part 3: Hurricane Isabel, Two Layers of Sandbags at Greenway Court, & Two Weeks at Dad's House on Arvin Road",
                             "file_path": "e004/c002/p003.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary/part-3-hurricane-isabel-two-layers-of-sandbags-at-greenway-court-two-weeks-at-dad-s-house-on-arvin-road",
-                            "word_count": 2948,
+                            "word_count": 2988,
                             "reading_minutes": 12,
                             "date": "2003-09-17",
                             "start_time": "15:15",
                             "location": "Norfolk, VA (801 Greenway Court, Apartment A6) & Virginia Beach, VA (737 Arvin Road)",
-                            "excerpt": "As Hurricane Isabel bears down on Hampton Roads and Dave and Deb stack two layers of sandbags across the lobby entrance of 801 Greenway Court, eighteen-year-old Katie and Nate pack up Apartment A6 with their father David, cross paths in the hallway with a heartbroken Michael Ragsdale after Ashley's departure for college, and evacuate to 737 Arvin Road for two weeks when the flooded Midtown Tunnel knocks out Greenway Court's power grid.",
+                            "excerpt": "As Hurricane Isabel approaches Hampton Roads and Dave and Deb stack two layers of sandbags inside the front door at the top of the lobby ramp at 801 Greenway Court, eighteen-year-old Katie and Nate pack up Apartment A6 with their father David, cross paths in the hallway with a heartbroken Michael Ragsdale after Ashley's departure for college, and evacuate to 737 Arvin Road for two weeks when the flooded Midtown Tunnel knocks out Greenway Court's power grid.",
                             "image": "/raggiesoft-books/images/scenes/katie/b004/sep_2003_hurricane_isabel_greenway_court_sandbags_evacuation_katie_nate_david.jpg",
-                            "image_alt": "Outside 801 Greenway Court in Norfolk on Wednesday afternoon, September 17, 2003 ahead of Hurricane Isabel, eighteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands while their father David Prairie steadies their chairs past the two layers of burlap sandbags stacked at the front lobby entrance as Michael Ragsdale waves goodbye with his backpack on the sidewalk.",
+                            "image_alt": "Outside 801 Greenway Court in Norfolk on Wednesday afternoon, September 17, 2003 ahead of Hurricane Isabel under overcast gray skies and rising wind, eighteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands while their father David Prairie steadies their chairs on the front walkway as Michael Ragsdale waves goodbye with his backpack on the sidewalk.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b004/sep_2003_hurricane_isabel_greenway_court_sandbags_evacuation_katie_nate_david.jpg",
-                                    "alt": "Outside 801 Greenway Court in Norfolk on Wednesday afternoon, September 17, 2003 ahead of Hurricane Isabel, eighteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands while their father David Prairie steadies their chairs past the two layers of burlap sandbags stacked at the front lobby entrance as Michael Ragsdale waves goodbye with his backpack on the sidewalk."
+                                    "alt": "Outside 801 Greenway Court in Norfolk on Wednesday afternoon, September 17, 2003 ahead of Hurricane Isabel under overcast gray skies and rising wind, eighteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands while their father David Prairie steadies their chairs on the front walkway as Michael Ragsdale waves goodbye with his backpack on the sidewalk."
                                 }
                             ],
                             "image_count": 1
