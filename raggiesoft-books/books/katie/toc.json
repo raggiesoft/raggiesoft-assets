@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "47 MB",
-        "pdf": "41.8 MB",
-        "text_epub": "516 KB",
+        "epub": "47.9 MB",
+        "pdf": "42.7 MB",
+        "text_epub": "522 KB",
         "text_pdf": "1.4 MB",
-        "package_7z": "388 KB",
-        "epub_bytes": 49294001,
-        "pdf_bytes": 43856162,
-        "text_epub_bytes": 528562,
-        "text_pdf_bytes": 1438965,
-        "package_7z_bytes": 397027
+        "package_7z": "392 KB",
+        "epub_bytes": 50194195,
+        "pdf_bytes": 44783875,
+        "text_epub_bytes": 534466,
+        "text_pdf_bytes": 1455443,
+        "package_7z_bytes": 401438
     },
-    "illustration_count": 114,
+    "illustration_count": 115,
     "word_stats": {
-        "story_word_count": 219322,
-        "lore_word_count": 55759,
-        "combined_word_count": 275081,
-        "story_page_count": 798,
-        "combined_page_count": 1000,
-        "reading_hours": 14.6,
-        "reading_minutes": 877,
-        "novel_equivalent": 2.4,
+        "story_word_count": 221923,
+        "lore_word_count": 56305,
+        "combined_word_count": 278228,
+        "story_page_count": 807,
+        "combined_page_count": 1012,
+        "reading_hours": 14.8,
+        "reading_minutes": 888,
+        "novel_equivalent": 2.5,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
-        "benchmark_note": "2.4\u00d7 a standard 90,000-word contemporary novel (~2-volume print series)",
+        "benchmark_note": "2.5\u00d7 a standard 90,000-word contemporary novel (~2-volume print series)",
         "era_count": 11,
         "chapter_count": 34,
-        "part_count": 83,
-        "illustration_count": 114
+        "part_count": 84,
+        "illustration_count": 115
     },
     "eras": [
         {
@@ -524,8 +524,8 @@
             "era_num": 4,
             "era_title": "Seventeen, Senior Year, & Greenway Court",
             "era_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court",
-            "illustration_count": 7,
-            "word_count": 11932,
+            "illustration_count": 8,
+            "word_count": 14533,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -582,15 +582,15 @@
                     "chap_num": 2,
                     "chap_title": "Greenway Court, Apartment A6 & The Square Closet Sanctuary",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary",
-                    "illustration_count": 2,
-                    "word_count": 3135,
+                    "illustration_count": 3,
+                    "word_count": 5736,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Apartment A6 on Greenway Court, Dad's Microwave Cart, & Across-the-Hall Neighbors",
                             "file_path": "e004/c002/p001.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary/part-1-apartment-a6-on-greenway-court-dad-s-microwave-cart-across-the-hall-neighbors",
-                            "word_count": 1646,
+                            "word_count": 1670,
                             "reading_minutes": 7,
                             "date": "2003-07-16",
                             "start_time": "07:40",
@@ -608,21 +608,42 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Brenda in the Back Alley, Hiding in the Square Closet, & A Happy Year Together",
+                            "part_title": "Part 2: Brenda in the Back Alley & Discovering the Square Closet Sanctuary",
                             "file_path": "e004/c002/p002.md",
-                            "url": "/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary/part-2-brenda-in-the-back-alley-hiding-in-the-square-closet-a-happy-year-together",
-                            "word_count": 1489,
-                            "reading_minutes": 6,
+                            "url": "/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary/part-2-brenda-in-the-back-alley-discovering-the-square-closet-sanctuary",
+                            "word_count": 1118,
+                            "reading_minutes": 5,
                             "date": "2003-08-09",
                             "start_time": "20:45",
-                            "location": "Norfolk, VA (Greenway Court, Apartment A6 & Downtown Norfolk)",
-                            "excerpt": "When their estranged mother Brenda slips into the first-floor back alley behind the exterior iron stairs at Greenway Court looking for their window, eighteen-year-old Katie and Nate hide inside the dark square closet in their shared sleeping bag and fall fast asleep\u2014discovering the deep-pressure closet sanctuary that anchors their happy year together in Apartment A6.",
+                            "location": "Norfolk, VA (Greenway Court, Apartment A6)",
+                            "excerpt": "When their estranged mother Brenda slips into the first-floor back alley behind the exterior iron stairs at Greenway Court looking for their window, eighteen-year-old Katie and Nate hide inside the dark square closet in their shared sleeping bag and fall fast asleep\u2014discovering the deep-pressure closet sanctuary that anchors their life together in Apartment A6.",
                             "image": "/raggiesoft-books/images/scenes/katie/b004/aug_2003_greenway_court_apt_a6_square_closet_sleeping_bag_sanctuary.jpg",
                             "image_alt": "Inside the compact square closet of Apartment A6 at Greenway Court in August 2003, eighteen-year-old fraternal twins Nathaniel and Katie Prairie in modest long-sleeved shirts are cuddled up close together inside their single shared navy-blue sleeping bag on the carpeted closet floor",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b004/aug_2003_greenway_court_apt_a6_square_closet_sleeping_bag_sanctuary.jpg",
                                     "alt": "Inside the compact square closet of Apartment A6 at Greenway Court in August 2003, eighteen-year-old fraternal twins Nathaniel and Katie Prairie in modest long-sleeved shirts are cuddled up close together inside their single shared navy-blue sleeping bag on the carpeted closet floor"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Hurricane Isabel, Two Layers of Sandbags at Greenway Court, & Two Weeks at Dad's House on Arvin Road",
+                            "file_path": "e004/c002/p003.md",
+                            "url": "/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary/part-3-hurricane-isabel-two-layers-of-sandbags-at-greenway-court-two-weeks-at-dad-s-house-on-arvin-road",
+                            "word_count": 2948,
+                            "reading_minutes": 12,
+                            "date": "2003-09-17",
+                            "start_time": "15:15",
+                            "location": "Norfolk, VA (801 Greenway Court, Apartment A6) & Virginia Beach, VA (737 Arvin Road)",
+                            "excerpt": "As Hurricane Isabel bears down on Hampton Roads and Dave and Deb stack two layers of sandbags across the lobby entrance of 801 Greenway Court, eighteen-year-old Katie and Nate pack up Apartment A6 with their father David, cross paths in the hallway with a heartbroken Michael Ragsdale after Ashley's departure for college, and evacuate to 737 Arvin Road for two weeks when the flooded Midtown Tunnel knocks out Greenway Court's power grid.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b004/sep_2003_hurricane_isabel_greenway_court_sandbags_evacuation_katie_nate_david.jpg",
+                            "image_alt": "Outside 801 Greenway Court in Norfolk on Wednesday afternoon, September 17, 2003 ahead of Hurricane Isabel, eighteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands while their father David Prairie steadies their chairs past the two layers of burlap sandbags stacked at the front lobby entrance as Michael Ragsdale waves goodbye with his backpack on the sidewalk.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b004/sep_2003_hurricane_isabel_greenway_court_sandbags_evacuation_katie_nate_david.jpg",
+                                    "alt": "Outside 801 Greenway Court in Norfolk on Wednesday afternoon, September 17, 2003 ahead of Hurricane Isabel, eighteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands while their father David Prairie steadies their chairs past the two layers of burlap sandbags stacked at the front lobby entrance as Michael Ragsdale waves goodbye with his backpack on the sidewalk."
                                 }
                             ],
                             "image_count": 1

@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "75.4 MB",
-        "pdf": "79.5 MB",
+        "epub": "76.1 MB",
+        "pdf": "80.2 MB",
         "text_epub": "1.1 MB",
         "text_pdf": "3.1 MB",
-        "package_7z": "785 KB",
-        "epub_bytes": 79066448,
-        "pdf_bytes": 83353167,
-        "text_epub_bytes": 1162117,
-        "text_pdf_bytes": 3239540,
-        "package_7z_bytes": 803568
+        "package_7z": "789 KB",
+        "epub_bytes": 79785837,
+        "pdf_bytes": 84117541,
+        "text_epub_bytes": 1167146,
+        "text_pdf_bytes": 3253544,
+        "package_7z_bytes": 807460
     },
-    "illustration_count": 130,
+    "illustration_count": 131,
     "word_stats": {
-        "story_word_count": 496333,
+        "story_word_count": 498439,
         "lore_word_count": 78061,
-        "combined_word_count": 574394,
-        "story_page_count": 1805,
-        "combined_page_count": 2089,
-        "reading_hours": 33.1,
-        "reading_minutes": 1985,
+        "combined_word_count": 576500,
+        "story_page_count": 1813,
+        "combined_page_count": 2096,
+        "reading_hours": 33.2,
+        "reading_minutes": 1994,
         "novel_equivalent": 5.5,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
         "benchmark_note": "5.5\u00d7 a standard 90,000-word contemporary novel (~6-volume print series)",
         "era_count": 26,
-        "chapter_count": 106,
-        "part_count": 211,
-        "illustration_count": 130
+        "chapter_count": 107,
+        "part_count": 212,
+        "illustration_count": 131
     },
     "eras": [
         {
@@ -2056,8 +2056,8 @@
             "era_num": 13,
             "era_title": "Michael\u2019s Senior Year",
             "era_url": "/raggiesoft-books/books/rachel/michael-s-senior-year",
-            "illustration_count": 2,
-            "word_count": 18672,
+            "illustration_count": 3,
+            "word_count": 20778,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2187,18 +2187,48 @@
                     "chap_title": "The Extraction",
                     "chap_url": "/raggiesoft-books/books/rachel/michael-s-senior-year/the-extraction",
                     "illustration_count": 0,
-                    "word_count": 1259,
+                    "word_count": 1274,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Morning Perimeter",
                             "file_path": "e013/c004/p001.md",
                             "url": "/rachel/michael-s-senior-year/the-extraction/the-morning-perimeter",
-                            "word_count": 1259,
+                            "word_count": 1274,
                             "reading_minutes": 6,
                             "date": "2003-07-16",
                             "start_time": "07:30",
                             "excerpt": "When the morning sunlight finally broke through the small front window of Unit A5, it illuminated a completely empty room, a glass patio table, and a blue air mattress. The apartment looked exactly the same. But\u2026"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 5,
+                    "chap_title": "Hurricane Isabel & The Three-Bus Evacuation",
+                    "chap_url": "/raggiesoft-books/books/rachel/michael-s-senior-year/hurricane-isabel-the-three-bus-evacuation",
+                    "illustration_count": 1,
+                    "word_count": 2091,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Three Buses to Kemps River Drive, Crown Burger, & Sharing Cousin Maria's Twin Bed",
+                            "file_path": "e013/c005/p001.md",
+                            "url": "/rachel/michael-s-senior-year/hurricane-isabel-the-three-bus-evacuation/three-buses-to-kemps-river-drive-crown-burger-sharing-cousin-maria-s-twin-bed",
+                            "word_count": 2091,
+                            "reading_minutes": 9,
+                            "date": "2003-09-17",
+                            "start_time": "15:15",
+                            "location": "Norfolk, VA (801 Greenway Court, Unit A5) & Virginia Beach, VA (Kemps River Drive & Cousin Maria's House)",
+                            "excerpt": "Missing Ashley terribly as Hurricane Isabel bears down on Norfolk, eighteen-year-old Michael Ragsdale steps past Dave and Deb's two layers of lobby sandbags at 801 Greenway Court, says goodbye to Katie, Nathaniel, and David Prairie across the hall, and rides three CVTA buses (Route 2, Route 6, and Route 12) to Kemps River Drive\u2014where his cousin Maria takes him to Crown Burger before they ride out the two-week Midtown Tunnel power outage sharing a twin bed in her downstairs bedroom.",
+                            "image": "/raggiesoft-books/images/scenes/rachel/b013/sep_2003_hurricane_isabel_kemps_river_crown_burger_michael_maria.jpg",
+                            "image_alt": "Inside a brightly lit Crown Burger near Kemps River Drive in Virginia Beach on Wednesday afternoon, September 17, 2003 as Hurricane Isabel's outer rainbands darken the windows, eighteen-year-old Michael Ragsdale sits in a booth with his canvas backpack beside his cousin Maria over a tray of warm burgers and french fries.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b013/sep_2003_hurricane_isabel_kemps_river_crown_burger_michael_maria.jpg",
+                                    "alt": "Inside a brightly lit Crown Burger near Kemps River Drive in Virginia Beach on Wednesday afternoon, September 17, 2003 as Hurricane Isabel's outer rainbands darken the windows, eighteen-year-old Michael Ragsdale sits in a booth with his canvas backpack beside his cousin Maria over a tray of warm burgers and french fries."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
