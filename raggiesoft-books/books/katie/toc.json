@@ -13,18 +13,18 @@
         "text_epub": "516 KB",
         "text_pdf": "1.4 MB",
         "package_7z": "388 KB",
-        "epub_bytes": 49293868,
-        "pdf_bytes": 43856131,
-        "text_epub_bytes": 528415,
-        "text_pdf_bytes": 1438201,
-        "package_7z_bytes": 396932
+        "epub_bytes": 49293984,
+        "pdf_bytes": 43856385,
+        "text_epub_bytes": 528535,
+        "text_pdf_bytes": 1439120,
+        "package_7z_bytes": 397027
     },
     "illustration_count": 114,
     "word_stats": {
-        "story_word_count": 219274,
+        "story_word_count": 219322,
         "lore_word_count": 55759,
-        "combined_word_count": 275033,
-        "story_page_count": 797,
+        "combined_word_count": 275081,
+        "story_page_count": 798,
         "combined_page_count": 1000,
         "reading_hours": 14.6,
         "reading_minutes": 877,
@@ -1945,7 +1945,7 @@
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 26,
-            "word_count": 46637,
+            "word_count": 46685,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2083,7 +2083,7 @@
                     "chap_title": "First Train from Norfolk, Swearing In on the Constitution, & Strings Attached for RRC",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc",
                     "illustration_count": 12,
-                    "word_count": 19160,
+                    "word_count": 19208,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2115,7 +2115,7 @@
                             "part_title": "Part 2: The Yellow Line Over the Fenwick Bridge, The Full-Chair Portrait, & Swearing In on the Constitution",
                             "file_path": "e011/c003/p002.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-2-the-yellow-line-over-the-fenwick-bridge-the-full-chair-portrait-swearing-in-on-the-constitution",
-                            "word_count": 3440,
+                            "word_count": 3488,
                             "reading_minutes": 14,
                             "date": "2027-01-03",
                             "start_time": "09:25",
