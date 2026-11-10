@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "48.6 MB",
-        "pdf": "43.6 MB",
-        "text_epub": "538 KB",
-        "text_pdf": "1.4 MB",
-        "package_7z": "403 KB",
-        "epub_bytes": 50949093,
-        "pdf_bytes": 45757024,
-        "text_epub_bytes": 550434,
-        "text_pdf_bytes": 1500571,
-        "package_7z_bytes": 412802
+        "epub": "50.1 MB",
+        "pdf": "45.6 MB",
+        "text_epub": "547 KB",
+        "text_pdf": "1.5 MB",
+        "package_7z": "410 KB",
+        "epub_bytes": 52543590,
+        "pdf_bytes": 47793357,
+        "text_epub_bytes": 559697,
+        "text_pdf_bytes": 1527275,
+        "package_7z_bytes": 420060
     },
-    "illustration_count": 116,
+    "illustration_count": 118,
     "word_stats": {
-        "story_word_count": 228927,
-        "lore_word_count": 57137,
-        "combined_word_count": 286064,
-        "story_page_count": 832,
-        "combined_page_count": 1040,
-        "reading_hours": 15.3,
-        "reading_minutes": 916,
-        "novel_equivalent": 2.5,
+        "story_word_count": 232745,
+        "lore_word_count": 57477,
+        "combined_word_count": 290222,
+        "story_page_count": 846,
+        "combined_page_count": 1055,
+        "reading_hours": 15.5,
+        "reading_minutes": 931,
+        "novel_equivalent": 2.6,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
-        "benchmark_note": "2.5\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
+        "benchmark_note": "2.6\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
         "era_count": 11,
         "chapter_count": 35,
-        "part_count": 85,
-        "illustration_count": 116
+        "part_count": 87,
+        "illustration_count": 118
     },
     "eras": [
         {
@@ -1965,8 +1965,8 @@
             "era_num": 11,
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
-            "illustration_count": 27,
-            "word_count": 52078,
+            "illustration_count": 29,
+            "word_count": 55896,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2333,26 +2333,68 @@
                     "chap_num": 5,
                     "chap_title": "Three Senate Terms, Refusing the 2044 Nomination, & The Stop #0812 Four-Seat Presidential Endorsement Loop",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop",
-                    "illustration_count": 1,
-                    "word_count": 5146,
+                    "illustration_count": 3,
+                    "word_count": 8964,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Stop #0812 at Military & Indian River: Route 15, The Surge Light Rail (800), Route 25 to CCHR, & Route 12 Back Home",
+                            "part_title": "Part 1: The Washington Pilgrimage That Wasn't: Secret Service Disqualifications, Curbside Walkouts, & Governor Caldwell's Route 15 Meltdown",
                             "file_path": "e011/c005/p001.md",
-                            "url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/stop-0812-at-military-indian-river-route-15-the-surge-light-rail-800-route-25-to-cchr-route-12-back-home",
-                            "word_count": 5146,
-                            "reading_minutes": 21,
+                            "url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/part-1-the-washington-pilgrimage-that-wasn-t-secret-service-disqualifications-curbside-walkouts-governor-caldwell-s-route-15-meltdown",
+                            "word_count": 3659,
+                            "reading_minutes": 15,
+                            "date": "2044-02-09",
+                            "start_time": "09:10",
+                            "location": "Virginia Beach & Norfolk, VA (Stop #0812 at Military Hwy & Indian River Rd, CVTA Route 15, Military Highway Station, Route 800 The Surge Light Rail, Newtown Road Station, CVTA Route 25, & CCHR Virginia Beach Campus)",
+                            "excerpt": "Every presidential contender in the 2044 race expects the traditional Washington endorsement pilgrimage\u2014a private steakhouse dining room or Capitol Hill hideaway with leather briefing binders and closed-door horse-trading. Instead, when they arrive at 812 North Military Highway in Virginia Beach, they discover #0812 is an unannounced CVTA city bus stop.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/feb_2044_stop_0812_caldwell_wait_a_bus_curbside_shock_katie_nate.jpg",
+                            "image_alt": "At CVTA Stop #0812 on the corner of Military Highway and Indian River Road in Virginia Beach in February 2044, 61-year-old Governor Harrison Caldwell stands on the concrete sidewalk in an expensive tailored navy suit holding a thick leather policy binder, staring in utter shock at the open front doors and deployed aluminum ramp of a regularly scheduled CVTA Route 15 city bus behind 58-year-old Senator Katie Prairie and her twin brother Nate in their brushed-silver and black SwiftChair power wheelchairs.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/feb_2044_stop_0812_caldwell_wait_a_bus_curbside_shock_katie_nate.jpg",
+                                    "alt": "At CVTA Stop #0812 on the corner of Military Highway and Indian River Road in Virginia Beach in February 2044, 61-year-old Governor Harrison Caldwell stands on the concrete sidewalk in an expensive tailored navy suit holding a thick leather policy binder, staring in utter shock at the open front doors and deployed aluminum ramp of a regularly scheduled CVTA Route 15 city bus behind 58-year-old Senator Katie Prairie and her twin brother Nate in their brushed-silver and black SwiftChair power wheelchairs."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Performative Panderer on Route 25: How Congressman Devon Pierce Screwed Up in Front of the CCHR Riders",
+                            "file_path": "e011/c005/p002.md",
+                            "url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/part-2-the-performative-panderer-on-route-25-how-congressman-devon-pierce-screwed-up-in-front-of-the-cchr-riders",
+                            "word_count": 1995,
+                            "reading_minutes": 8,
+                            "date": "2044-02-16",
+                            "start_time": "09:10",
+                            "location": "Virginia Beach & Norfolk, VA (Stop #0812 at Military Hwy & Indian River Rd, CVTA Route 15, Military Highway Station, Route 800 The Surge Light Rail, Newtown Road Station, CVTA Route 25, CCHR Virginia Beach Campus, & CVTA Route 12)",
+                            "excerpt": "Like every other contender in the 2044 primary, 44-year-old Congressman Devon Pierce arrives at 812 North Military Highway expecting a private office sit-down. When he discovers Stop #0812 is a two-hour city bus and light-rail loop, he tries to turn the ride into a viral populist performance\u2014until he talks over a disabled CCHR student's head on Route 25.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/feb_2044_route_25_devon_pierce_cchr_student_gaffe_katie_nate.jpg",
+                            "image_alt": "Aboard CVTA Route 25 on Tuesday morning, February 16, 2044, slick 44-year-old presidential candidate Congressman Devon Pierce leans across the center aisle in a tailored charcoal suit without a tie, talking condescendingly over the head of 19-year-old CCHR computer-science student Marcus in his wheelchair to address Marcus's 22-year-old sister Jasmine in her royal-blue CCHR nursing polo shirt, while 58-year-old Senator Katie Prairie, her twin brother Nate, Marcus, Jasmine, and the surrounding bus passengers stare at Pierce with unimpressed, deadpan expressions.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/feb_2044_route_25_devon_pierce_cchr_student_gaffe_katie_nate.jpg",
+                                    "alt": "Aboard CVTA Route 25 on Tuesday morning, February 16, 2044, slick 44-year-old presidential candidate Congressman Devon Pierce leans across the center aisle in a tailored charcoal suit without a tie, talking condescendingly over the head of 19-year-old CCHR computer-science student Marcus in his wheelchair to address Marcus's 22-year-old sister Jasmine in her royal-blue CCHR nursing polo shirt, while 58-year-old Senator Katie Prairie, her twin brother Nate, Marcus, Jasmine, and the surrounding bus passengers stare at Pierce with unimpressed, deadpan expressions."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Unannounced Passenger & The Video Title That Decided 2044",
+                            "file_path": "e011/c005/p003.md",
+                            "url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/part-3-the-unannounced-passenger-the-video-title-that-decided-2044",
+                            "word_count": 3310,
+                            "reading_minutes": 14,
                             "date": "2044-02-18",
                             "start_time": "09:10",
                             "location": "Virginia Beach & Norfolk, VA (Stop #0812 at Military Hwy & Indian River Rd, CVTA Route 15, Military Highway Station, Route 800 The Surge Light Rail, Newtown Road Station, CVTA Route 25, CCHR Virginia Beach Campus, & CVTA Route 12)",
-                            "excerpt": "After three terms in the United States Senate and turning down the 2044 presidential nomination so the Secret Service can never ban her and Nate from riding the bus, fifty-eight-year-old Senator Katie Prairie conducts her coveted 2044 Presidential endorsement interviews aboard a live, unannounced four-seat CVTA loop starting and ending at Stop #0812 (Military Highway & Indian River Road): Route 15 to Military Highway Station, Route 800 (The Surge Light Rail) one stop to Newtown Road Station, Route 25 to CCHR, and Route 12 back to Stop #0812\u2014encouraging everyday passengers to grill the candidates along the way.",
+                            "excerpt": "Arriving at 812 North Military Highway expecting the same private office sit-down as every other candidate, Governor Elena Delgado is completely surprised to discover #0812 is a city bus stop\u2014and proceeds to ride all four unannounced legs across CVTA Routes 15, 800 (The Surge Light Rail), 25, and 12 with Katie, Nate, and the morning commuters.",
                             "image": "/raggiesoft-books/images/scenes/katie/b006/feb_2044_stop_0812_cvta_bus_presidential_endorsement_interview_katie_nate.jpg",
-                            "image_alt": "Aboard a regularly scheduled Coastal Virginia Transit Authority bus in Virginia Beach in February 2044, 58-year-old three-term U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs in the front ADA securement bays as Nate films on his mPhone while Katie encourages everyday bus passengers\u2014a hospital nurse in scrubs, a shipyard worker, and a CCHR college student\u2014to ask unscripted questions directly to a 2044 Presidential candidate seated across the aisle.",
+                            "image_alt": "Aboard a regularly scheduled Coastal Virginia Transit Authority bus in Virginia Beach on Thursday morning, February 18, 2044, 58-year-old three-term U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their brushed-silver and black SwiftChair power wheelchairs in the front ADA securement bays as Nate films on his mPhone while Katie encourages everyday bus passengers\u2014a hospital worker in teal scrubs, a shipyard tradesman, and a CCHR college student in a wheelchair\u2014to ask unscripted questions directly to 54-year-old Governor Elena Delgado seated across the aisle.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b006/feb_2044_stop_0812_cvta_bus_presidential_endorsement_interview_katie_nate.jpg",
-                                    "alt": "Aboard a regularly scheduled Coastal Virginia Transit Authority bus in Virginia Beach in February 2044, 58-year-old three-term U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs in the front ADA securement bays as Nate films on his mPhone while Katie encourages everyday bus passengers\u2014a hospital nurse in scrubs, a shipyard worker, and a CCHR college student\u2014to ask unscripted questions directly to a 2044 Presidential candidate seated across the aisle."
+                                    "alt": "Aboard a regularly scheduled Coastal Virginia Transit Authority bus in Virginia Beach on Thursday morning, February 18, 2044, 58-year-old three-term U.S. Senator Katie Prairie and her twin brother Nate sit side by side in their brushed-silver and black SwiftChair power wheelchairs in the front ADA securement bays as Nate films on his mPhone while Katie encourages everyday bus passengers\u2014a hospital worker in teal scrubs, a shipyard tradesman, and a CCHR college student in a wheelchair\u2014to ask unscripted questions directly to 54-year-old Governor Elena Delgado seated across the aisle."
                                 }
                             ],
                             "image_count": 1
