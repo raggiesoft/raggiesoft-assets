@@ -1,10 +1,10 @@
 
 # The Hoshizora Ensemble - Master Discography & Lore
-Compiled on: 11-08-2026 07:24:39 AM
+Compiled on: 11-10-2026 09:45:26 AM
 
 # Hoshizora no Uta: Voyages on the Seto Inland Sea (1978)
 * **Narrative Era:** 1978
-* **Real-World DSP Release:** 2026-11-08
+* **Real-World DSP Release:** 2026-11-10
 
 ## Hoshizora no Uta (Song of the Starry Sky) (Japanese Version)
 ### Lore

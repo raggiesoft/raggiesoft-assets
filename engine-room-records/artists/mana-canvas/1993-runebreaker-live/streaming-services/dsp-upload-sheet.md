@@ -8,7 +8,7 @@
 * **Artist / Band Name:** `Mana Canvas`
 * **Album Title:** `Runebreaker Live`
 * **Release Type:** `Live Album` (`LiveAlbum`)
-* **Total Tracks:** `1` (`0` WAV Masters Ready / `1` In Studio)
+* **Total Tracks:** `1` (`1` WAV Masters Ready / `0` In Studio)
 * **Record Label:** `Engine Room Records`
 * **Primary Genre:** `16-Bit Symphonic Prog / Live Arena Rock`
 * **In-Universe Release Date:** `1993-07-24`
@@ -28,8 +28,8 @@
 * **Name:** The Grand Decree
 * **Version:** Live at Sanctuary Stadium
 * **ID3 / Vorbis Tagged Title:** `The Grand Decree (Live at Sanctuary Stadium)`
-* **ISRC:** Pending (Auto-mints QTAHP code when WAV is in master-wav)
-* **Duration:** In Studio • **Instrumental:** No • **Explicit:** No
+* **ISRC:** QTAHP2600061
+* **Duration:** 6:17 • **Instrumental:** No • **Explicit:** No
 * **Songwriter (Lyricist):** Michael P. Ragsdale
-* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/mana-canvas/1993-runebreaker-live/vault/wav/1-01-the-grand-decree-live.wav` (⏳ In Studio)
+* **WAV File:** `/Users/michael/Developer/raggiesoft-servers/raggiesoft-vaults/engine-room-records/artists/mana-canvas/1993-runebreaker-live/vault/wav/1-01-the-grand-decree-live.wav` (✅ Ready)
 * **Clean DSP Lyrics:** `streaming-services/lyrics/1-01-the-grand-decree-live.txt`

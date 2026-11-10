@@ -152,6 +152,6 @@
 * Name: The Grand Decree
 * Version: Live at Sanctuary Stadium
 * ID3 / Vorbis Tag: The Grand Decree (Live at Sanctuary Stadium)
-* ISRC: Pending (Auto-mints QTAHP code when WAV is in master-wav)
+* ISRC: QTAHP2600061
 
 ---

@@ -7,7 +7,7 @@
 * **Primary Artist:** Mana Canvas
 * **Genre:** 16-Bit Symphonic Prog / Live Arena Rock
 * **Real-World DSP Release Date:** 2026-10-30
-* **Already got an ISRC code? (US ISRC Prefix QTAHP):** 
+* **Already got an ISRC code? (US ISRC Prefix QTAHP):** QTAHP2600061
 
 **DistroKid AI Credits Questionnaire:**
 * **Did AI generate any part of this track?** Yes
@@ -28,13 +28,13 @@
 * **Musician / Producer:** AI-Generated (Vocals & Instrumentation)
 
 ## 3. Internal Catalog Information
-* **Engine Room ID:** ERR-007-1993-199
-* **ISRC:** 
+* **Engine Room ID:** ERR-007-1993-101
+* **ISRC:** QTAHP2600061
 * **US ISRC Agency Registrant:** Michael Ragsdale (Registrant ID: 185611 • Prefix: QTAHP • dsp.operations@engineroom-records.com)
 * **Album UPC / GTIN-12:** None
-* **Track Length:** 
+* **Track Length:** 6:17
 * **Fictional Narrative Release Date:** 1993-07-24
-* **Master File Located At:** ../../vault/wav/the-grand-decree-live.wav
+* **Master File Located At:** ../../vault/wav/1-01-the-grand-decree-live.wav
 
 ## 4. Rights, Tri-License Architecture & Clearances
 * **Commercial Rights:** 100% cleared via commercial-tier Suno Premium.

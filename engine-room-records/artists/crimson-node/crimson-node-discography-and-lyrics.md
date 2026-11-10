@@ -1,10 +1,10 @@
 
 # Crimson Node - Master Discography & Lore
-Compiled on: 11-08-2026 07:25:05 AM
+Compiled on: 11-10-2026 09:46:11 AM
 
 # Crimson Node (2002)
 * **Narrative Era:** 2002
-* **Real-World DSP Release:** 2026-11-08
+* **Real-World DSP Release:** 2026-11-10
 
 ## The Flight Path
 ### Lore
