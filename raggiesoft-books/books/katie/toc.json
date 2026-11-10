@@ -13,17 +13,17 @@
         "text_epub": "522 KB",
         "text_pdf": "1.4 MB",
         "package_7z": "392 KB",
-        "epub_bytes": 50194195,
-        "pdf_bytes": 44783875,
-        "text_epub_bytes": 534466,
-        "text_pdf_bytes": 1455443,
-        "package_7z_bytes": 401438
+        "epub_bytes": 50194181,
+        "pdf_bytes": 44783850,
+        "text_epub_bytes": 534461,
+        "text_pdf_bytes": 1455400,
+        "package_7z_bytes": 401424
     },
     "illustration_count": 115,
     "word_stats": {
-        "story_word_count": 221923,
-        "lore_word_count": 56305,
-        "combined_word_count": 278228,
+        "story_word_count": 221918,
+        "lore_word_count": 56308,
+        "combined_word_count": 278226,
         "story_page_count": 807,
         "combined_page_count": 1012,
         "reading_hours": 14.8,
@@ -1779,7 +1779,7 @@
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
             "illustration_count": 8,
-            "word_count": 17462,
+            "word_count": 17460,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1850,19 +1850,19 @@
                     "chap_title": "The Accessibility Project: Riding Every Bus Across the Commonwealth for the United States Senate",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate",
                     "illustration_count": 5,
-                    "word_count": 12075,
+                    "word_count": 12073,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Living Room Decision in Kempsville, The 10,000-Signature Rule, & The Accessibility Project",
                             "file_path": "e010/c003/p001.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-1-the-living-room-decision-in-kempsville-the-10-000-signature-rule-the-accessibility-project",
-                            "word_count": 2634,
+                            "word_count": 2632,
                             "reading_minutes": 11,
                             "date": "2026-01-10",
                             "start_time": "19:30",
                             "location": "Virginia Beach, VA (Our Brick Ranch on Lord Nelson Drive in Kempsville)",
-                            "excerpt": "When retiring U.S. Senator Martin Warren attempts to coronate a corporate telecom lobbyist and President Garrett Thorne mocks 'Broken Katie Prairie' from the White House, Katie sits down in Kempsville with Nate and their father David to launch her 2026 U.S. Senate campaign\u2014backed by 'The Accessibility Project' from The Paper Wall and the Brooks family.",
+                            "excerpt": "When retiring U.S. Senator Martin Warren attempts to coronate a wealthy McLean venture capitalist businessman and President Garrett Thorne mocks 'Broken Katie Prairie' from the White House, Katie sits down in Kempsville with Nate and their father David to launch her 2026 U.S. Senate campaign\u2014backed by 'The Accessibility Project' from The Paper Wall and the Brooks family.",
                             "image": "/raggiesoft-books/images/scenes/katie/b006/jan_2026_kempsville_living_room_senate_campaign_decision_katie_nate_david.jpg",
                             "image_alt": "Inside their warm living room on Lord Nelson Drive in Kempsville, Virginia Beach on January 10, 2026, 40-year-old State Senator Katie Prairie and her fraternal twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests while their 67-year-old father David sits on the sofa beside them with his yellow legal pad and three tall glasses of ginger ale.",
                             "images": [
@@ -1966,14 +1966,14 @@
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 26,
-            "word_count": 46685,
+            "word_count": 46682,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Election Night, The Decision Desk Call, & The Referendum Mandate",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate",
                     "illustration_count": 4,
-                    "word_count": 11741,
+                    "word_count": 11738,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2026,7 +2026,7 @@
                             "part_title": "Part 3: U.S. Senate New Member Orientation, Senator Tess Dunmore's Ramp, & Making the Vice President Swear Her In",
                             "file_path": "e011/c001/p003.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-3-u-s-senate-new-member-orientation-senator-tess-dunmore-s-ramp-making-the-vice-president-swear-her-in",
-                            "word_count": 6201,
+                            "word_count": 6198,
                             "reading_minutes": 25,
                             "date": "2026-11-16",
                             "start_time": "08:45",
