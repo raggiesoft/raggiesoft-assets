@@ -13,17 +13,17 @@
         "text_epub": "561 KB",
         "text_pdf": "1.5 MB",
         "package_7z": "420 KB",
-        "epub_bytes": 53579125,
-        "pdf_bytes": 48921447,
-        "text_epub_bytes": 573986,
-        "text_pdf_bytes": 1573308,
-        "package_7z_bytes": 430042
+        "epub_bytes": 53579134,
+        "pdf_bytes": 48921432,
+        "text_epub_bytes": 573995,
+        "text_pdf_bytes": 1573319,
+        "package_7z_bytes": 430080
     },
     "illustration_count": 120,
     "word_stats": {
-        "story_word_count": 239979,
-        "lore_word_count": 59605,
-        "combined_word_count": 299584,
+        "story_word_count": 239982,
+        "lore_word_count": 59606,
+        "combined_word_count": 299588,
         "story_page_count": 873,
         "combined_page_count": 1089,
         "reading_hours": 16,
@@ -1966,7 +1966,7 @@
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 31,
-            "word_count": 62339,
+            "word_count": 62342,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2334,14 +2334,14 @@
                     "chap_title": "Street Clothes on the Route 250 Connector, Unannounced in Fishersville, & Calling the Governor",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/street-clothes-on-the-route-250-connector-unannounced-in-fishersville-calling-the-governor",
                     "illustration_count": 1,
-                    "word_count": 5645,
+                    "word_count": 5648,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "ARTS Train 51 to Staunton, Street Clothes on the Route 250 Connector, & Calling Governor Langford From Fishersville",
                             "file_path": "e011/c005/p001.md",
                             "url": "/katie/the-senator-from-virginia/street-clothes-on-the-route-250-connector-unannounced-in-fishersville-calling-the-governor/arts-train-51-to-staunton-street-clothes-on-the-route-250-connector-calling-governor-langford-from-fishersville",
-                            "word_count": 5645,
+                            "word_count": 5648,
                             "reading_minutes": 23,
                             "date": "2027-07-21",
                             "start_time": "11:39",
