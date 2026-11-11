@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "51.3 MB",
-        "pdf": "46.8 MB",
-        "text_epub": "570 KB",
+        "epub": "52.8 MB",
+        "pdf": "48.4 MB",
+        "text_epub": "578 KB",
         "text_pdf": "1.5 MB",
-        "package_7z": "426 KB",
-        "epub_bytes": 53816656,
-        "pdf_bytes": 49042749,
-        "text_epub_bytes": 583752,
-        "text_pdf_bytes": 1600954,
-        "package_7z_bytes": 436720
+        "package_7z": "433 KB",
+        "epub_bytes": 55365324,
+        "pdf_bytes": 50715741,
+        "text_epub_bytes": 592213,
+        "text_pdf_bytes": 1622993,
+        "package_7z_bytes": 443181
     },
-    "illustration_count": 121,
+    "illustration_count": 123,
     "word_stats": {
-        "story_word_count": 244066,
-        "lore_word_count": 61037,
-        "combined_word_count": 305103,
-        "story_page_count": 888,
-        "combined_page_count": 1109,
-        "reading_hours": 16.3,
-        "reading_minutes": 976,
+        "story_word_count": 247277,
+        "lore_word_count": 61175,
+        "combined_word_count": 308452,
+        "story_page_count": 899,
+        "combined_page_count": 1122,
+        "reading_hours": 16.5,
+        "reading_minutes": 989,
         "novel_equivalent": 2.7,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
         "benchmark_note": "2.7\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
         "era_count": 11,
         "chapter_count": 36,
-        "part_count": 90,
-        "illustration_count": 121
+        "part_count": 91,
+        "illustration_count": 123
     },
     "eras": [
         {
@@ -244,8 +244,8 @@
             "era_num": 3,
             "era_title": "Sixteen & Summer Sanctuary",
             "era_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary",
-            "illustration_count": 12,
-            "word_count": 20210,
+            "illustration_count": 14,
+            "word_count": 23406,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -395,20 +395,20 @@
                     "chap_num": 3,
                     "chap_title": "Junior Year at Northwood High & The Prognosis",
                     "chap_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis",
-                    "illustration_count": 3,
-                    "word_count": 7065,
+                    "illustration_count": 5,
+                    "word_count": 10225,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Fault-Grounds Filing, The Protective Order, & Junior Year at Northwood High School",
                             "file_path": "e003/c003/p001.md",
                             "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-1-the-fault-grounds-filing-the-protective-order-junior-year-at-northwood-high-school",
-                            "word_count": 1452,
-                            "reading_minutes": 6,
+                            "word_count": 1640,
+                            "reading_minutes": 7,
                             "date": "2001-09-04",
-                            "start_time": "11:40",
+                            "start_time": "10:55",
                             "location": "Virginia Beach, VA (Independence Boulevard & Northwood High School)",
-                            "excerpt": "Armed with the cruise ship's Deck 4 security tape, David files an immediate fault-based divorce and custody action in Virginia Beach\u2014just as Nathaniel and Katie return to Northwood High School for their Junior year and share the daily lunch period they earned in summer school.",
+                            "excerpt": "David files an immediate fault-based divorce and protective order\u2014just as Nate and Katie start Junior year at Northwood High with shared Third-Block lunch.",
                             "image": "/raggiesoft-books/images/scenes/katie/b003/sep_2001_northwood_high_junior_year_shared_lunch.jpg",
                             "image_alt": "Inside the sunlit cafeteria of Northwood High School in Virginia Beach in September 2001, sixteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side at a quiet corner table holding hands during their shared Junior-year lunch period with their lunch bags and coding notebook open before them",
                             "images": [
@@ -460,6 +460,31 @@
                                 }
                             ],
                             "image_count": 1
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Purple Day Lunch, Josh Riley's Lane Toll, & The DeMarco\u2013Periwinkle Tag-Team",
+                            "file_path": "e003/c003/p004.md",
+                            "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-4-purple-day-lunch-josh-riley-s-lane-toll-the-demarco-periwinkle-tag-team",
+                            "word_count": 2972,
+                            "reading_minutes": 12,
+                            "date": "2001-10-09",
+                            "start_time": "10:55",
+                            "location": "Virginia Beach, VA (Northwood High School \u2014 Cafeteria, Commons, & Library)",
+                            "excerpt": "When Josh Riley tries to charge Katie and Nate a 'wide-load toll' in their powerchairs, Mrs. DeMarco and Mrs. Periwinkle deliver legendary justice.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b003/oct_2001_northwood_cafeteria_demarco_josh_riley_katie_nate.jpg",
+                            "image_alt": "Inside the sunlit Northwood High School cafeteria beneath exposed blue ceiling trusses and purple-and-gold Lion banners in October 2001, sixteen-year-old blonde twins Katie and Nathaniel Prairie sit side by side in their compact black SwiftChair power wheelchairs holding inner hands at their window table as Cafeteria Supervisor Mrs. DeMarco\u2014wearing her white mesh hairnet, paisley blouse, and spoon-pocket white apron with arms crossed\u2014confronts a pale, slouching Josh Riley",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b003/oct_2001_northwood_cafeteria_demarco_josh_riley_katie_nate.jpg",
+                                    "alt": "Inside the sunlit Northwood High School cafeteria beneath exposed blue ceiling trusses and purple-and-gold Lion banners in October 2001, sixteen-year-old blonde twins Katie and Nathaniel Prairie sit side by side in their compact black SwiftChair power wheelchairs holding inner hands at their window table as Cafeteria Supervisor Mrs. DeMarco\u2014wearing her white mesh hairnet, paisley blouse, and spoon-pocket white apron with arms crossed\u2014confronts a pale, slouching Josh Riley"
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b003/oct_2001_northwood_library_periwinkle_demarco_tag_team.jpg",
+                                    "alt": "Inside the Northwood High School Library beneath the purple-and-gold 'NORTHWOOD HIGH SCHOOL LIBRARY' and 'SILENCE IS OBSERVED - SHHH!' banners in October 2001, sixteen-year-old blonde twins Katie and Nathaniel Prairie sit side by side in their compact black SwiftChair power wheelchairs holding hands at an oak study table while Head Librarian Mrs. Periwinkle in her pastel lavender cardigan and Cafeteria Supervisor Mrs. DeMarco execute their silent tag-team disciplinary maneuver on a horrified Josh Riley"
+                                }
+                            ],
+                            "image_count": 2
                         }
                     ]
                 },
@@ -468,19 +493,19 @@
                     "chap_title": "Sixteen on Four Wheels & Finding Dates",
                     "chap_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary/sixteen-on-four-wheels-finding-dates",
                     "illustration_count": 3,
-                    "word_count": 4562,
+                    "word_count": 4598,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Navigating Northwood High on Four Wheels, Two First Dates, & Why We Ride on Saturday",
                             "file_path": "e003/c004/p001.md",
                             "url": "/katie/sixteen-summer-sanctuary/sixteen-on-four-wheels-finding-dates/part-1-navigating-northwood-high-on-four-wheels-two-first-dates-why-we-ride-on-saturday",
-                            "word_count": 1983,
-                            "reading_minutes": 8,
+                            "word_count": 2019,
+                            "reading_minutes": 9,
                             "date": "2001-10-15",
                             "start_time": "07:10",
                             "location": "Virginia Beach, VA (Northwood High School \u2014 The Blue Mile, Cafeteria, & Classrooms)",
-                            "excerpt": "Navigating Northwood High School in their compact power wheelchairs, sixteen-year-old twins Nathaniel and Katie line up their very first high-school dates for Saturday afternoon at Emerald Creek Mall\u2014with Nate head-over-heels in love with Heather Collins, while Katie remains cautious about Ryan Miller.",
+                            "excerpt": "Navigating Northwood High in their powerchairs, Nate and Katie line up Saturday dates at Emerald Creek Mall\u2014Nate loving Heather, Katie cautious of Ryan.",
                             "image": "/raggiesoft-books/images/scenes/katie/b003/oct_2001_northwood_high_four_wheels_hallway_katie_nathaniel.jpg",
                             "image_alt": "Inside the sunlit locker-lined hallway of Northwood High School in Virginia Beach in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie roll side by side in their compact SwiftChair power wheelchairs holding inner hands with warm, confident smiles",
                             "images": [
@@ -525,21 +550,21 @@
             "era_title": "Seventeen, Senior Year, & Greenway Court",
             "era_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court",
             "illustration_count": 8,
-            "word_count": 17506,
+            "word_count": 17521,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Drunken New Year",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/drunken-new-year",
                     "illustration_count": 2,
-                    "word_count": 4427,
+                    "word_count": 4442,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Gas-Station Run, A Box of Dry Cereal, & Why I Never Had a Twenty-First Birthday Drink",
                             "file_path": "e004/c001/p001.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/drunken-new-year/part-1-the-gas-station-run-a-box-of-dry-cereal-why-i-never-had-a-twenty-first-birthday-drink",
-                            "word_count": 2485,
+                            "word_count": 2500,
                             "reading_minutes": 10,
                             "date": "2002-12-31",
                             "start_time": "21:30",
