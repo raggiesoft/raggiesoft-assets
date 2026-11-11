@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "52.8 MB",
-        "pdf": "48.4 MB",
-        "text_epub": "578 KB",
-        "text_pdf": "1.5 MB",
-        "package_7z": "433 KB",
-        "epub_bytes": 55365324,
-        "pdf_bytes": 50715741,
-        "text_epub_bytes": 592213,
-        "text_pdf_bytes": 1622993,
-        "package_7z_bytes": 443181
+        "epub": "53.6 MB",
+        "pdf": "49.3 MB",
+        "text_epub": "582 KB",
+        "text_pdf": "1.6 MB",
+        "package_7z": "436 KB",
+        "epub_bytes": 56171866,
+        "pdf_bytes": 51655963,
+        "text_epub_bytes": 596290,
+        "text_pdf_bytes": 1633192,
+        "package_7z_bytes": 446300
     },
-    "illustration_count": 123,
+    "illustration_count": 124,
     "word_stats": {
-        "story_word_count": 247277,
-        "lore_word_count": 61175,
-        "combined_word_count": 308452,
-        "story_page_count": 899,
-        "combined_page_count": 1122,
-        "reading_hours": 16.5,
-        "reading_minutes": 989,
-        "novel_equivalent": 2.7,
+        "story_word_count": 248892,
+        "lore_word_count": 61738,
+        "combined_word_count": 310630,
+        "story_page_count": 905,
+        "combined_page_count": 1130,
+        "reading_hours": 16.6,
+        "reading_minutes": 996,
+        "novel_equivalent": 2.8,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
-        "benchmark_note": "2.7\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
+        "benchmark_note": "2.8\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
         "era_count": 11,
         "chapter_count": 36,
-        "part_count": 91,
-        "illustration_count": 123
+        "part_count": 92,
+        "illustration_count": 124
     },
     "eras": [
         {
@@ -145,33 +145,54 @@
             "era_num": 2,
             "era_title": "Middle School & The Blizzard of '96",
             "era_url": "/raggiesoft-books/books/katie/middle-school-the-blizzard-of-96",
-            "illustration_count": 3,
-            "word_count": 3646,
+            "illustration_count": 4,
+            "word_count": 5261,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Blizzard of '96",
                     "chap_url": "/raggiesoft-books/books/katie/middle-school-the-blizzard-of-96/the-blizzard-of-96",
-                    "illustration_count": 1,
-                    "word_count": 1187,
+                    "illustration_count": 2,
+                    "word_count": 2802,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Snow Day in Virginia Beach & The Backyard Promise",
+                            "part_title": "Part 1: Snow Day in Virginia Beach & The Backyard Promise",
                             "file_path": "e002/c001/p001.md",
-                            "url": "/katie/middle-school-the-blizzard-of-96/the-blizzard-of-96/snow-day-in-virginia-beach-the-backyard-promise",
-                            "word_count": 1187,
-                            "reading_minutes": 5,
+                            "url": "/katie/middle-school-the-blizzard-of-96/the-blizzard-of-96/part-1-snow-day-in-virginia-beach-the-backyard-promise",
+                            "word_count": 1288,
+                            "reading_minutes": 6,
                             "date": "1996-01-06",
                             "start_time": "11:30",
                             "location": "Virginia Beach, VA",
-                            "excerpt": "As the historic Blizzard of January 1996 blankets Virginia Beach and their parents argue inside the house, Katie pulls Nathaniel into a fierce bear hug in the snow-covered backyard and promises she will never leave him.",
+                            "excerpt": "As the Blizzard of '96 hits Virginia Beach with cousin Brittany visiting, Katie pulls Nate into a fierce backyard hug away from the shouting inside.",
                             "image": "/raggiesoft-books/images/scenes/katie/b002/jan_1996_blizzard_backyard_snow_hug_katie_nathaniel.jpg",
                             "image_alt": "During the Blizzard of January 1996 in their snow-covered Virginia Beach backyard in front of a white wooden picket fence at dusk, Katie Prairie in a blue winter jacket and dark jeans and her twin brother Nathaniel Prairie in a black winter jacket and blue jeans hold each other in a tight bear hug in the falling snow",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b002/jan_1996_blizzard_backyard_snow_hug_katie_nathaniel.jpg",
                                     "alt": "During the Blizzard of January 1996 in their snow-covered Virginia Beach backyard in front of a white wooden picket fence at dusk, Katie Prairie in a blue winter jacket and dark jeans and her twin brother Nathaniel Prairie in a black winter jacket and blue jeans hold each other in a tight bear hug in the falling snow"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Sleet on the Glass, Glaze Ice Across Tidewater, & Brittany's First Group Cuddle",
+                            "file_path": "e002/c001/p002.md",
+                            "url": "/katie/middle-school-the-blizzard-of-96/the-blizzard-of-96/part-2-sleet-on-the-glass-glaze-ice-across-tidewater-brittany-s-first-group-cuddle",
+                            "word_count": 1514,
+                            "reading_minutes": 7,
+                            "date": "1996-01-06",
+                            "start_time": "18:15",
+                            "location": "Virginia Beach, VA",
+                            "excerpt": "When sleet and freezing rain seal Virginia Beach in ice during the Blizzard of '96, Katie and Nate welcome cousin Brittany into her first group cuddle.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b002/jan_1996_blizzard_living_room_sofa_first_group_cuddle_brittany_katie_nate.jpg",
+                            "image_alt": "Inside their warm lamp-lit Virginia Beach living room on Saturday evening during the Blizzard of '96 with snow and glistening sleet coating the frosted window behind them, ten-year-old Katie Prairie sits between her twin brother Nathaniel Prairie and their ten-year-old maternal cousin Brittany in thin silver wire-rimmed glasses and long medium-blonde hair on the tan sofa under a woven winter blanket, welcoming Brittany into her first three-way group hug beside three mugs of hot cocoa",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b002/jan_1996_blizzard_living_room_sofa_first_group_cuddle_brittany_katie_nate.jpg",
+                                    "alt": "Inside their warm lamp-lit Virginia Beach living room on Saturday evening during the Blizzard of '96 with snow and glistening sleet coating the frosted window behind them, ten-year-old Katie Prairie sits between her twin brother Nathaniel Prairie and their ten-year-old maternal cousin Brittany in thin silver wire-rimmed glasses and long medium-blonde hair on the tan sofa under a woven winter blanket, welcoming Brittany into her first three-way group hug beside three mugs of hot cocoa"
                                 }
                             ],
                             "image_count": 1
