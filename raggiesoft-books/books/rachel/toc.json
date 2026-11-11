@@ -8,22 +8,22 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "76 MB",
-        "pdf": "80.2 MB",
+        "epub": "76.1 MB",
+        "pdf": "80.3 MB",
         "text_epub": "1.1 MB",
         "text_pdf": "3.1 MB",
         "package_7z": "789 KB",
-        "epub_bytes": 79698200,
-        "pdf_bytes": 84047594,
-        "text_epub_bytes": 1167408,
-        "text_pdf_bytes": 3254367,
-        "package_7z_bytes": 807674
+        "epub_bytes": 79791575,
+        "pdf_bytes": 84152377,
+        "text_epub_bytes": 1167217,
+        "text_pdf_bytes": 3253698,
+        "package_7z_bytes": 807552
     },
     "illustration_count": 131,
     "word_stats": {
-        "story_word_count": 498587,
+        "story_word_count": 498553,
         "lore_word_count": 78061,
-        "combined_word_count": 576648,
+        "combined_word_count": 576614,
         "story_page_count": 1813,
         "combined_page_count": 2097,
         "reading_hours": 33.2,
@@ -193,7 +193,7 @@
             "era_title": "The Saltwater Summer",
             "era_url": "/raggiesoft-books/books/rachel/the-saltwater-summer",
             "illustration_count": 7,
-            "word_count": 63821,
+            "word_count": 63818,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -249,18 +249,18 @@
                     "chap_title": "The Catalyst \u2013 Saturday, August 12th, 1995",
                     "chap_url": "/raggiesoft-books/books/rachel/the-saltwater-summer/the-catalyst-saturday-august-12th-1995",
                     "illustration_count": 2,
-                    "word_count": 4576,
+                    "word_count": 4575,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Inventory & The Genesis of Hatred",
                             "file_path": "e002/c002/p001.md",
                             "url": "/rachel/the-saltwater-summer/the-catalyst-saturday-august-12th-1995/the-inventory-the-genesis-of-hatred",
-                            "word_count": 4576,
+                            "word_count": 4575,
                             "reading_minutes": 19,
                             "date": "1995-08-12",
                             "start_time": "09:00",
-                            "excerpt": "The main gymnastics floor of Tidewater Tumblers & Martial Arts didn\u2019t feel like a gymnastics floor today. Originally opened as a gymnastics school in the late 1970s at 912 Professional Place before receiving its\u2026",
+                            "excerpt": "The main gymnastics floor of Tidewater Tumblers & Martial Arts didn\u2019t feel like a gymnastics floor today. Originally opened as a gymnastics school in the late 1970s on Professional Place before receiving its\u2026",
                             "image": "/raggiesoft-books/images/scenes/rachel/b002/brown_belt_testing_1995.jpg",
                             "image_alt": "On the blue gymnastics spring floor at Tidewater Tumblers beneath the second-floor observation deck bleachers, 7th Dan Regional Director Master Scott formally yields the Gwonhan to 22-year-old Sunhoe Sabomnim Master April Mercer as ten-year-old Michael and eight-year-old Rachel test for their Brown Belts.",
                             "images": [
@@ -282,7 +282,7 @@
                     "chap_title": "The Enforcer",
                     "chap_url": "/raggiesoft-books/books/rachel/the-saltwater-summer/the-enforcer",
                     "illustration_count": 1,
-                    "word_count": 11080,
+                    "word_count": 11081,
                     "parts": [
                         {
                             "part_num": 1,
@@ -300,7 +300,7 @@
                             "part_title": "Part 2: Breaking the Silence & The Top Row",
                             "file_path": "e002/c003/p002.md",
                             "url": "/rachel/the-saltwater-summer/the-enforcer/part-2-breaking-the-silence-the-top-row",
-                            "word_count": 3426,
+                            "word_count": 3425,
                             "reading_minutes": 14,
                             "date": "1995-08-15",
                             "start_time": "16:55",
@@ -320,11 +320,11 @@
                             "part_title": "Part 3: The Delaney Street Revelation & The Code Wizard",
                             "file_path": "e002/c003/p003.md",
                             "url": "/rachel/the-saltwater-summer/the-enforcer/part-3-the-delaney-street-revelation-the-code-wizard",
-                            "word_count": 3603,
+                            "word_count": 3605,
                             "reading_minutes": 15,
                             "date": "1995-08-15",
                             "start_time": "17:45",
-                            "excerpt": "Aunt Janet pulled the sedan up to the curb outside 1852 Delaney Street. She didn't even put the car in park before Jessica was pushing her door open. Normally, getting out of the car after the Dojang was a slow\u2026"
+                            "excerpt": "Aunt Janet pulled the sedan up to the curb outside our house on Delaney Street. She didn't even put the car in park before Jessica was pushing her door open. Normally, getting out of the car after the Dojang was\u2026"
                         },
                         {
                             "part_num": 4,
@@ -384,7 +384,7 @@
                     "chap_title": "The Thursday Deployment \u2013 Thursday, August 17, 1995",
                     "chap_url": "/raggiesoft-books/books/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995",
                     "illustration_count": 0,
-                    "word_count": 13170,
+                    "word_count": 13168,
                     "parts": [
                         {
                             "part_num": 1,
@@ -402,7 +402,7 @@
                             "part_title": "Part 2: The Observation Deck & The Core Check",
                             "file_path": "e002/c005/p002.md",
                             "url": "/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995/part-2-the-observation-deck-the-core-check",
-                            "word_count": 3435,
+                            "word_count": 3434,
                             "reading_minutes": 14,
                             "date": "1995-08-17",
                             "start_time": "13:30",
@@ -424,7 +424,7 @@
                             "part_title": "Part 4: The Adult Echo Chamber & The Fracture",
                             "file_path": "e002/c005/p004.md",
                             "url": "/rachel/the-saltwater-summer/the-thursday-deployment-thursday-august-17-1995/part-4-the-adult-echo-chamber-the-fracture",
-                            "word_count": 3376,
+                            "word_count": 3375,
                             "reading_minutes": 14,
                             "date": "1995-08-17",
                             "start_time": "19:15",
@@ -499,7 +499,7 @@
                     "chap_title": "The Long Road",
                     "chap_url": "/raggiesoft-books/books/rachel/the-saltwater-summer/the-long-road",
                     "illustration_count": 0,
-                    "word_count": 6127,
+                    "word_count": 6126,
                     "parts": [
                         {
                             "part_num": 1,
@@ -517,7 +517,7 @@
                             "part_title": "Part 2: The Transport & The Night Watch",
                             "file_path": "e002/c007/p002.md",
                             "url": "/rachel/the-saltwater-summer/the-long-road/part-2-the-transport-the-night-watch",
-                            "word_count": 2805,
+                            "word_count": 2804,
                             "reading_minutes": 12,
                             "date": "1995-08-19",
                             "start_time": "13:30",
@@ -563,14 +563,14 @@
             "era_title": "Base Camp",
             "era_url": "/raggiesoft-books/books/rachel/base-camp",
             "illustration_count": 6,
-            "word_count": 42067,
+            "word_count": 42066,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Monday War \u2013 Monday, August 21st, 1995",
                     "chap_url": "/raggiesoft-books/books/rachel/base-camp/the-monday-war-monday-august-21st-1995",
                     "illustration_count": 1,
-                    "word_count": 11367,
+                    "word_count": 11366,
                     "parts": [
                         {
                             "part_num": 1,
@@ -608,7 +608,7 @@
                             "part_title": "Part 3: Safe Harbor & The Art of Letting Go",
                             "file_path": "e003/c001/p003.md",
                             "url": "/rachel/base-camp/the-monday-war-monday-august-21st-1995/part-3-safe-harbor-the-art-of-letting-go",
-                            "word_count": 2954,
+                            "word_count": 2953,
                             "reading_minutes": 12,
                             "date": "1995-08-21",
                             "start_time": "13:00",
@@ -874,21 +874,21 @@
             "era_title": "Middle School",
             "era_url": "/raggiesoft-books/books/rachel/middle-school",
             "illustration_count": 4,
-            "word_count": 23178,
+            "word_count": 23174,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Spring Sound Showcase \u2013 Friday, May 14, 1999",
                     "chap_url": "/raggiesoft-books/books/rachel/middle-school/the-spring-sound-showcase-friday-may-14-1999",
                     "illustration_count": 1,
-                    "word_count": 2534,
+                    "word_count": 2532,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Friday Commute & Deploying Base Camp",
                             "file_path": "e004/c001/p001.md",
                             "url": "/rachel/middle-school/the-spring-sound-showcase-friday-may-14-1999/the-friday-commute-deploying-base-camp",
-                            "word_count": 2534,
+                            "word_count": 2532,
                             "reading_minutes": 11,
                             "date": "1999-05-14",
                             "start_time": "15:40",
@@ -910,7 +910,7 @@
                     "chap_title": "The Old World \u2013 Saturday, May 15, 1999",
                     "chap_url": "/raggiesoft-books/books/rachel/middle-school/the-old-world-saturday-may-15-1999",
                     "illustration_count": 3,
-                    "word_count": 19680,
+                    "word_count": 19678,
                     "parts": [
                         {
                             "part_num": 1,
@@ -990,7 +990,7 @@
                             "part_title": "Part 6: The Mathematics of Victory & The Immutable Geometry",
                             "file_path": "e004/c002/p006.md",
                             "url": "/rachel/middle-school/the-old-world-saturday-may-15-1999/part-6-the-mathematics-of-victory-the-immutable-geometry",
-                            "word_count": 3371,
+                            "word_count": 3369,
                             "reading_minutes": 14,
                             "date": "1999-05-15",
                             "start_time": "20:30",
@@ -1034,7 +1034,7 @@
             "era_title": "High School",
             "era_url": "/raggiesoft-books/books/rachel/high-school",
             "illustration_count": 4,
-            "word_count": 26697,
+            "word_count": 26687,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1110,24 +1110,24 @@
                     "chap_title": "Christmas Eve",
                     "chap_url": "/raggiesoft-books/books/rachel/high-school/christmas-eve",
                     "illustration_count": 1,
-                    "word_count": 7767,
+                    "word_count": 7764,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Accessibility Calculation & The Honorary Lifters",
                             "file_path": "e005/c004/p001.md",
                             "url": "/rachel/high-school/christmas-eve/part-1-the-accessibility-calculation-the-honorary-lifters",
-                            "word_count": 3222,
+                            "word_count": 3221,
                             "reading_minutes": 13,
                             "date": "1999-12-24",
                             "start_time": "08:30",
-                            "excerpt": "The morning routine at 1852 Delaney Street operated with rigid, mechanical precision. Waking up on the living room sofa bed was a heavily choreographed process. Because the Black Friday drop had permanently\u2026",
+                            "excerpt": "The morning routine on Delaney Street operated with rigid, mechanical precision. Waking up on the living room sofa bed was a heavily choreographed process. Because the Black Friday drop had permanently altered\u2026",
                             "image": "/raggiesoft-books/images/scenes/rachel/b005/december_1999_jessica_sofa_bed_base_camp.jpg",
-                            "image_alt": "Nineteen-year-old Jessica with bilateral lower-leg orthopedic casts resting on the deployed floral-print pull-out sofa bed alongside fourteen-year-old Michael and twelve-year-old Rachel in the 1852 Delaney Street living room, with her manual wheelchair parked beside the bed and purebred black Labs Baby and Archie on the dark blue carpet.",
+                            "image_alt": "Nineteen-year-old Jessica with bilateral lower-leg orthopedic casts resting on the deployed floral-print pull-out sofa bed alongside fourteen-year-old Michael and twelve-year-old Rachel in the Delaney Street living room, with her manual wheelchair parked beside the bed and purebred black Labs Baby and Archie on the dark blue carpet.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b005/december_1999_jessica_sofa_bed_base_camp.jpg",
-                                    "alt": "Nineteen-year-old Jessica with bilateral lower-leg orthopedic casts resting on the deployed floral-print pull-out sofa bed alongside fourteen-year-old Michael and twelve-year-old Rachel in the 1852 Delaney Street living room, with her manual wheelchair parked beside the bed and purebred black Labs Baby and Archie on the dark blue carpet."
+                                    "alt": "Nineteen-year-old Jessica with bilateral lower-leg orthopedic casts resting on the deployed floral-print pull-out sofa bed alongside fourteen-year-old Michael and twelve-year-old Rachel in the Delaney Street living room, with her manual wheelchair parked beside the bed and purebred black Labs Baby and Archie on the dark blue carpet."
                                 }
                             ],
                             "image_count": 1
@@ -1137,7 +1137,7 @@
                             "part_title": "Part 2: The Perimeter Defense & The Perimeter Epiphany",
                             "file_path": "e005/c004/p002.md",
                             "url": "/rachel/high-school/christmas-eve/part-2-the-perimeter-defense-the-perimeter-epiphany",
-                            "word_count": 3360,
+                            "word_count": 3359,
                             "reading_minutes": 14,
                             "date": "1999-12-24",
                             "start_time": "17:27",
@@ -1148,11 +1148,11 @@
                             "part_title": "Part 3: The Santa Stakeout",
                             "file_path": "e005/c004/p003.md",
                             "url": "/rachel/high-school/christmas-eve/part-3-the-santa-stakeout",
-                            "word_count": 1185,
+                            "word_count": 1184,
                             "reading_minutes": 5,
                             "date": "1999-12-24",
                             "start_time": "19:50",
-                            "excerpt": "The heavy brown painted wooden garage door was closed, and by 7:50 PM, we were officially locked inside the perimeter of 1852 Delaney Street. The transition from the cold car to our nightly routine was swift\u2026"
+                            "excerpt": "The heavy brown painted wooden garage door was closed, and by 7:50 PM, we were officially locked inside the perimeter on Delaney Street. The transition from the cold car to our nightly routine was swift. Mom\u2026"
                         }
                     ]
                 },
@@ -1161,7 +1161,7 @@
                     "chap_title": "The Christmas Anomaly",
                     "chap_url": "/raggiesoft-books/books/rachel/high-school/the-christmas-anomaly",
                     "illustration_count": 2,
-                    "word_count": 11125,
+                    "word_count": 11119,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1179,7 +1179,7 @@
                             "part_title": "Part 2: The First Crush & The Missing Exposure",
                             "file_path": "e005/c005/p002.md",
                             "url": "/rachel/high-school/the-christmas-anomaly/part-2-the-first-crush-the-missing-exposure",
-                            "word_count": 3454,
+                            "word_count": 3451,
                             "reading_minutes": 14,
                             "date": "1999-12-25",
                             "start_time": "12:00",
@@ -1199,18 +1199,18 @@
                             "part_title": "Part 3: The Syntax of Survival & The Infinite Loop",
                             "file_path": "e005/c005/p003.md",
                             "url": "/rachel/high-school/the-christmas-anomaly/part-3-the-syntax-of-survival-the-infinite-loop",
-                            "word_count": 3782,
+                            "word_count": 3778,
                             "reading_minutes": 16,
                             "date": "1999-12-25",
                             "start_time": "14:30",
-                            "excerpt": "The absolute second Dad backed the sedan into the driveway of 1852 Delaney Street, the agonizing holiday delay was officially over. Dad unloaded Jessica\u2019s manual wheelchair from the trunk, and she flawlessly\u2026"
+                            "excerpt": "The absolute second Dad backed the sedan into the driveway on Delaney Street, the agonizing holiday delay was officially over. Dad unloaded Jessica\u2019s manual wheelchair from the trunk, and she flawlessly executed\u2026"
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: The Night Watch",
                             "file_path": "e005/c005/p004.md",
                             "url": "/rachel/high-school/the-christmas-anomaly/part-4-the-night-watch",
-                            "word_count": 743,
+                            "word_count": 744,
                             "reading_minutes": 3,
                             "date": "1999-12-25",
                             "start_time": "22:30",
@@ -1232,18 +1232,18 @@
                     "chap_title": "The Catalyst Initiative",
                     "chap_url": "/raggiesoft-books/books/rachel/high-school/the-catalyst-initiative",
                     "illustration_count": 0,
-                    "word_count": 1328,
+                    "word_count": 1327,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Bare Metal & The Holding Pattern",
                             "file_path": "e005/c006/p001.md",
                             "url": "/rachel/high-school/the-catalyst-initiative/the-bare-metal-the-holding-pattern",
-                            "word_count": 1328,
+                            "word_count": 1327,
                             "reading_minutes": 6,
                             "date": "1999-12-26",
                             "start_time": "01:00",
-                            "excerpt": "The digital perimeter was collapsing, and it sounded exactly like a dying lawnmower. Under the slatted wooden stairs of 1852 Delaney Street, the beige tower of Dad\u2019s consumer-grade desktop was screaming. The\u2026"
+                            "excerpt": "The digital perimeter was collapsing, and it sounded exactly like a dying lawnmower. Under the slatted wooden stairs on Delaney Street, the beige tower of Dad\u2019s consumer-grade desktop was screaming. The hard\u2026"
                         }
                     ]
                 }
@@ -1254,31 +1254,31 @@
             "era_title": "Atlanta Spring Trip",
             "era_url": "/raggiesoft-books/books/rachel/atlanta-spring-trip",
             "illustration_count": 2,
-            "word_count": 10173,
+            "word_count": 10175,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Catalyst Notification",
                     "chap_url": "/raggiesoft-books/books/rachel/atlanta-spring-trip/the-catalyst-notification",
                     "illustration_count": 1,
-                    "word_count": 4871,
+                    "word_count": 4873,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Desktop Under the Stairs & The Long-Distance Loophole",
                             "file_path": "e006/c001/p001.md",
                             "url": "/rachel/atlanta-spring-trip/the-catalyst-notification/part-1-the-desktop-under-the-stairs-the-long-distance-loophole",
-                            "word_count": 3190,
+                            "word_count": 3192,
                             "reading_minutes": 13,
                             "date": "2000-04-21",
                             "start_time": "16:00",
-                            "excerpt": "The architectural layout of 1852 Delaney Street wasn't exactly designed with advanced computing in mind. To keep the heavy, beige plastic tower and the massive CRT monitor out of the main traffic flow, Dad had\u2026",
+                            "excerpt": "The architectural layout of our house on Delaney Street wasn't exactly designed with advanced computing in mind. To keep the heavy, beige plastic tower and the massive CRT monitor out of the main traffic flow\u2026",
                             "image": "/raggiesoft-books/images/scenes/rachel/b006/desktop_under_the_stairs_2000.jpg",
-                            "image_alt": "Fifteen-year-old Michael at the beige CRT desktop computer under the oak staircase at 1852 Delaney Street while nineteen-year-old Jessica in her manual wheelchair holds her university admissions brochure and thirteen-year-old Rachel looks on.",
+                            "image_alt": "Fifteen-year-old Michael at the beige CRT desktop computer under the oak staircase on Delaney Street while nineteen-year-old Jessica in her manual wheelchair holds her university admissions brochure and thirteen-year-old Rachel looks on.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b006/desktop_under_the_stairs_2000.jpg",
-                                    "alt": "Fifteen-year-old Michael at the beige CRT desktop computer under the oak staircase at 1852 Delaney Street while nineteen-year-old Jessica in her manual wheelchair holds her university admissions brochure and thirteen-year-old Rachel looks on."
+                                    "alt": "Fifteen-year-old Michael at the beige CRT desktop computer under the oak staircase on Delaney Street while nineteen-year-old Jessica in her manual wheelchair holds her university admissions brochure and thirteen-year-old Rachel looks on."
                                 }
                             ],
                             "image_count": 1
@@ -1363,25 +1363,25 @@
             "era_title": "Seeds of a Divorce",
             "era_url": "/raggiesoft-books/books/rachel/seeds-of-a-divorce",
             "illustration_count": 2,
-            "word_count": 18741,
+            "word_count": 18738,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Continental Shift",
                     "chap_url": "/raggiesoft-books/books/rachel/seeds-of-a-divorce/the-continental-shift",
                     "illustration_count": 0,
-                    "word_count": 5929,
+                    "word_count": 5927,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Aunt Janet Extraction & The Perimeter Breach",
                             "file_path": "e007/c001/p001.md",
                             "url": "/rachel/seeds-of-a-divorce/the-continental-shift/part-1-the-aunt-janet-extraction-the-perimeter-breach",
-                            "word_count": 2896,
+                            "word_count": 2894,
                             "reading_minutes": 12,
                             "date": "2000-08-17",
                             "start_time": "04:30",
-                            "excerpt": "The heavy, suffocating humidity of the Virginia August morning clung to the concrete front porch of 1852 Delaney Street. It was four-thirty in the morning, and the sky was still a bruised, pitch black. The sheer\u2026"
+                            "excerpt": "The heavy, suffocating humidity of the Virginia August morning clung to the concrete front porch on Delaney Street. It was four-thirty in the morning, and the sky was still a bruised, pitch black. The sheer\u2026"
                         },
                         {
                             "part_num": 2,
@@ -1421,14 +1421,14 @@
                     "chap_title": "The Provisions Run",
                     "chap_url": "/raggiesoft-books/books/rachel/seeds-of-a-divorce/the-provisions-run",
                     "illustration_count": 1,
-                    "word_count": 5379,
+                    "word_count": 5378,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The ADA Fortress & The Ave",
                             "file_path": "e007/c003/p001.md",
                             "url": "/rachel/seeds-of-a-divorce/the-provisions-run/part-1-the-ada-fortress-the-ave",
-                            "word_count": 3465,
+                            "word_count": 3464,
                             "reading_minutes": 14,
                             "date": "2000-08-18",
                             "start_time": "08:00",
@@ -1503,14 +1503,14 @@
             "era_title": "The Delaney Street Fracture",
             "era_url": "/raggiesoft-books/books/rachel/the-delaney-street-fracture",
             "illustration_count": 1,
-            "word_count": 10603,
+            "word_count": 10597,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Rachel\u2019s First Band Camp",
                     "chap_url": "/raggiesoft-books/books/rachel/the-delaney-street-fracture/rachel-s-first-band-camp",
                     "illustration_count": 1,
-                    "word_count": 10603,
+                    "word_count": 10597,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1539,7 +1539,7 @@
                             "part_title": "Part 3: The Afternoon Metronome & The Giant Bed",
                             "file_path": "e008/c001/p003.md",
                             "url": "/rachel/the-delaney-street-fracture/rachel-s-first-band-camp/part-3-the-afternoon-metronome-the-giant-bed",
-                            "word_count": 3129,
+                            "word_count": 3123,
                             "reading_minutes": 13,
                             "date": "2001-08-13",
                             "start_time": "13:00",
@@ -1603,11 +1603,11 @@
                             "start_time": "08:30",
                             "excerpt": "I woke up to the heavy, rhythmic thumping of a dog\u2019s tail hitting the side of the sofa bed. I opened my eyes slowly. The living room was dim, illuminated only by the thin slivers of morning sunlight cutting\u2026",
                             "image": "/raggiesoft-books/images/scenes/rachel/b009/delaney_sofa_bed_vacation_2001.jpg",
-                            "image_alt": "Sixteen-year-old Michael and fourteen-year-old Rachel sitting side-by-side under a patchwork quilt on the pull-out sofa bed at 1852 Delaney Street during their two-week vacation from parents, flanked by their purebred black Labs Baby and Archie.",
+                            "image_alt": "Sixteen-year-old Michael and fourteen-year-old Rachel sitting side-by-side under a patchwork quilt on the pull-out sofa bed on Delaney Street during their two-week vacation from parents, flanked by their purebred black Labs Baby and Archie.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b009/delaney_sofa_bed_vacation_2001.jpg",
-                                    "alt": "Sixteen-year-old Michael and fourteen-year-old Rachel sitting side-by-side under a patchwork quilt on the pull-out sofa bed at 1852 Delaney Street during their two-week vacation from parents, flanked by their purebred black Labs Baby and Archie."
+                                    "alt": "Sixteen-year-old Michael and fourteen-year-old Rachel sitting side-by-side under a patchwork quilt on the pull-out sofa bed on Delaney Street during their two-week vacation from parents, flanked by their purebred black Labs Baby and Archie."
                                 }
                             ],
                             "image_count": 1
@@ -1948,7 +1948,7 @@
             "era_title": "The East Coast",
             "era_url": "/raggiesoft-books/books/rachel/the-east-coast",
             "illustration_count": 2,
-            "word_count": 13095,
+            "word_count": 13094,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2006,14 +2006,14 @@
                     "chap_title": "Arrival at Norfolk",
                     "chap_url": "/raggiesoft-books/books/rachel/the-east-coast/arrival-at-norfolk",
                     "illustration_count": 1,
-                    "word_count": 3595,
+                    "word_count": 3594,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Sibling Reunification & The Northern Star",
                             "file_path": "e012/c002/p001.md",
                             "url": "/rachel/the-east-coast/arrival-at-norfolk/sibling-reunification-the-northern-star",
-                            "word_count": 3595,
+                            "word_count": 3594,
                             "reading_minutes": 15,
                             "date": "2001-12-22",
                             "start_time": "21:30",
@@ -2057,7 +2057,7 @@
             "era_title": "Michael\u2019s Senior Year",
             "era_url": "/raggiesoft-books/books/rachel/michael-s-senior-year",
             "illustration_count": 3,
-            "word_count": 20926,
+            "word_count": 20921,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2094,14 +2094,14 @@
                     "chap_title": "The Empty Shell",
                     "chap_url": "/raggiesoft-books/books/rachel/michael-s-senior-year/the-empty-shell",
                     "illustration_count": 1,
-                    "word_count": 8519,
+                    "word_count": 8517,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Last Morning & The Baldwin Briefing",
                             "file_path": "e013/c002/p001.md",
                             "url": "/rachel/michael-s-senior-year/the-empty-shell/part-1-the-last-morning-the-baldwin-briefing",
-                            "word_count": 2588,
+                            "word_count": 2586,
                             "reading_minutes": 11,
                             "date": "2003-07-14",
                             "start_time": "07:30",
@@ -2145,14 +2145,14 @@
                     "chap_title": "The Digital Mirage",
                     "chap_url": "/raggiesoft-books/books/rachel/michael-s-senior-year/the-digital-mirage",
                     "illustration_count": 0,
-                    "word_count": 8189,
+                    "word_count": 8190,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Best Tech Ambush & The Hardware Check",
                             "file_path": "e013/c003/p001.md",
                             "url": "/rachel/michael-s-senior-year/the-digital-mirage/part-1-the-best-tech-ambush-the-hardware-check",
-                            "word_count": 3343,
+                            "word_count": 3345,
                             "reading_minutes": 14,
                             "date": "2003-07-15",
                             "start_time": "13:15",
@@ -2174,7 +2174,7 @@
                             "part_title": "Part 3: The Initial Provisioning & The New Parameter",
                             "file_path": "e013/c003/p003.md",
                             "url": "/rachel/michael-s-senior-year/the-digital-mirage/part-3-the-initial-provisioning-the-new-parameter",
-                            "word_count": 1862,
+                            "word_count": 1861,
                             "reading_minutes": 8,
                             "date": "2003-07-15",
                             "start_time": "18:30",
@@ -2187,14 +2187,14 @@
                     "chap_title": "The Extraction",
                     "chap_url": "/raggiesoft-books/books/rachel/michael-s-senior-year/the-extraction",
                     "illustration_count": 0,
-                    "word_count": 1274,
+                    "word_count": 1273,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Morning Perimeter",
                             "file_path": "e013/c004/p001.md",
                             "url": "/rachel/michael-s-senior-year/the-extraction/the-morning-perimeter",
-                            "word_count": 1274,
+                            "word_count": 1273,
                             "reading_minutes": 6,
                             "date": "2003-07-16",
                             "start_time": "07:30",
@@ -2207,19 +2207,19 @@
                     "chap_title": "Hurricane Isabel & The Three-Bus Evacuation",
                     "chap_url": "/raggiesoft-books/books/rachel/michael-s-senior-year/hurricane-isabel-the-three-bus-evacuation",
                     "illustration_count": 1,
-                    "word_count": 2239,
+                    "word_count": 2236,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Three Buses to Kemps River Drive, Crown Burger, & Sharing Cousin Maria's Twin Bed",
                             "file_path": "e013/c005/p001.md",
                             "url": "/rachel/michael-s-senior-year/hurricane-isabel-the-three-bus-evacuation/three-buses-to-kemps-river-drive-crown-burger-sharing-cousin-maria-s-twin-bed",
-                            "word_count": 2239,
+                            "word_count": 2236,
                             "reading_minutes": 9,
                             "date": "2003-09-17",
                             "start_time": "15:15",
-                            "location": "Norfolk, VA (801 Greenway Court, Unit A5) & Virginia Beach, VA (Kemps River Drive & Cousin Maria's House)",
-                            "excerpt": "Missing Ashley terribly as Hurricane Isabel approaches Norfolk, eighteen-year-old Michael Ragsdale steps past Dave and Deb's two layers of sandbags at the top of the lobby ramp at 801 Greenway Court, says goodbye to Katie, Nathaniel, and David Prairie across the hall, and rides three CVTA buses (Route 2, Route 6, and Route 12) to Kemps River Drive\u2014where his cousin Maria takes him to Crown Burger before the overnight rainbands arrive and they ride out the two-week Midtown Tunnel power outage sharing a twin bed in her downstairs bedroom.",
+                            "location": "Norfolk, VA (Greenway Court, Unit A5) & Virginia Beach, VA (Kemps River Drive & Cousin Maria's House)",
+                            "excerpt": "Missing Ashley terribly as Hurricane Isabel approaches Norfolk, eighteen-year-old Michael Ragsdale steps past Dave and Deb's two layers of sandbags at the top of the lobby ramp on Greenway Court, says goodbye to Katie, Nathaniel, and David Prairie across the hall, and rides three CVTA buses (Route 2, Route 6, and Route 12) to Kemps River Drive\u2014where his cousin Maria takes him to Crown Burger before the overnight rainbands arrive and they ride out the two-week Midtown Tunnel power outage sharing a twin bed in her downstairs bedroom.",
                             "image": "/raggiesoft-books/images/scenes/rachel/b013/sep_2003_hurricane_isabel_kemps_river_crown_burger_michael_maria.jpg",
                             "image_alt": "Inside a brightly lit Crown Burger near Kemps River Drive in Virginia Beach on Wednesday afternoon, September 17, 2003 as overcast gray clouds gather and the wind begins picking up in the dry trees outside the window ahead of Hurricane Isabel, eighteen-year-old Michael Ragsdale sits in a booth with his canvas backpack beside his cousin Maria over a tray of warm burgers and french fries.",
                             "images": [
@@ -2239,21 +2239,21 @@
             "era_title": "Delores",
             "era_url": "/raggiesoft-books/books/rachel/delores",
             "illustration_count": 3,
-            "word_count": 4596,
+            "word_count": 4594,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Quiet Void",
                     "chap_url": "/raggiesoft-books/books/rachel/delores/the-quiet-void",
                     "illustration_count": 3,
-                    "word_count": 4137,
+                    "word_count": 4135,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Last of the Pack & The Ticket Line",
                             "file_path": "e014/c001/p001.md",
                             "url": "/rachel/delores/the-quiet-void/part-1-the-last-of-the-pack-the-ticket-line",
-                            "word_count": 3212,
+                            "word_count": 3211,
                             "reading_minutes": 13,
                             "date": "2004-09-02",
                             "start_time": "08:00",
@@ -2277,17 +2277,17 @@
                             "part_title": "Part 2: The Midtown Transfer",
                             "file_path": "e014/c001/p002.md",
                             "url": "/rachel/delores/the-quiet-void/part-2-the-midtown-transfer",
-                            "word_count": 925,
+                            "word_count": 924,
                             "reading_minutes": 4,
                             "date": "2004-09-02",
                             "start_time": "21:00",
                             "excerpt": "The credits began to roll, and the house lights of the Roper Performing Arts Center flickered back on, breaking the heavy, polarized spell of the documentary. As the crowd slowly started to filter out of the\u2026",
                             "image": "/raggiesoft-books/images/scenes/rachel/b014/greenway_court_delores_first_hug_2004.jpg",
-                            "image_alt": "Outside 801 Greenway Court at night beside Robyn's dark blue minivan, Delores pulls nineteen-year-old Michael into a fierce, heavy goodbye hug that tricks his deep-pressure sensory receptors into thinking she is safe.",
+                            "image_alt": "Outside the Greenway Court apartment building at night beside Robyn's dark blue minivan, Delores pulls nineteen-year-old Michael into a fierce, heavy goodbye hug that tricks his deep-pressure sensory receptors into thinking she is safe.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b014/greenway_court_delores_first_hug_2004.jpg",
-                                    "alt": "Outside 801 Greenway Court at night beside Robyn's dark blue minivan, Delores pulls nineteen-year-old Michael into a fierce, heavy goodbye hug that tricks his deep-pressure sensory receptors into thinking she is safe."
+                                    "alt": "Outside the Greenway Court apartment building at night beside Robyn's dark blue minivan, Delores pulls nineteen-year-old Michael into a fierce, heavy goodbye hug that tricks his deep-pressure sensory receptors into thinking she is safe."
                                 }
                             ],
                             "image_count": 1
@@ -2321,7 +2321,7 @@
             "era_title": "The End of Hell",
             "era_url": "/raggiesoft-books/books/rachel/the-end-of-hell",
             "illustration_count": 9,
-            "word_count": 61218,
+            "word_count": 61216,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2426,14 +2426,14 @@
                     "chap_title": "The Pasco Lock",
                     "chap_url": "/raggiesoft-books/books/rachel/the-end-of-hell/the-pasco-lock",
                     "illustration_count": 1,
-                    "word_count": 9153,
+                    "word_count": 9151,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Idaho Crossing & The Ride Free Area",
                             "file_path": "e015/c005/p001.md",
                             "url": "/rachel/the-end-of-hell/the-pasco-lock/part-1-the-idaho-crossing-the-ride-free-area",
-                            "word_count": 2822,
+                            "word_count": 2820,
                             "reading_minutes": 12,
                             "date": "2006-11-14",
                             "start_time": "00:00",
@@ -3178,7 +3178,7 @@
             "era_title": "The Shallow End",
             "era_url": "/raggiesoft-books/books/rachel/the-shallow-end",
             "illustration_count": 19,
-            "word_count": 26171,
+            "word_count": 26179,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -3214,7 +3214,7 @@
                     "chap_title": "The Blueprint and the Sabomnim",
                     "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/the-blueprint-and-the-sabomnim",
                     "illustration_count": 3,
-                    "word_count": 10395,
+                    "word_count": 10400,
                     "parts": [
                         {
                             "part_num": 1,
@@ -3241,7 +3241,7 @@
                             "part_title": "Part 2: The Alumni Roster & The Woven Stripe",
                             "file_path": "e018/c002/p002.md",
                             "url": "/rachel/the-shallow-end/the-blueprint-and-the-sabomnim/part-2-the-alumni-roster-the-woven-stripe",
-                            "word_count": 3769,
+                            "word_count": 3777,
                             "reading_minutes": 16,
                             "date": "2007-03-31",
                             "start_time": "13:15",
@@ -3261,7 +3261,7 @@
                             "part_title": "Part 3: The Sea of Truth & The Criollo Drive Ascent",
                             "file_path": "e018/c002/p003.md",
                             "url": "/rachel/the-shallow-end/the-blueprint-and-the-sabomnim/part-3-the-sea-of-truth-the-criollo-drive-ascent",
-                            "word_count": 3709,
+                            "word_count": 3706,
                             "reading_minutes": 15,
                             "date": "2007-03-31",
                             "start_time": "18:45",
@@ -3312,24 +3312,24 @@
                     "chap_title": "The Open-Door Sanctuary",
                     "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/the-open-door-sanctuary",
                     "illustration_count": 2,
-                    "word_count": 2456,
+                    "word_count": 2465,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: The Keys to 3701 & The Dollar Lease",
+                            "part_title": "Part 1: The Keys to Canadian Arch & The Dollar Lease",
                             "file_path": "e018/c004/p001.md",
-                            "url": "/rachel/the-shallow-end/the-open-door-sanctuary/part-1-the-keys-to-3701-the-dollar-lease",
-                            "word_count": 1263,
+                            "url": "/rachel/the-shallow-end/the-open-door-sanctuary/part-1-the-keys-to-canadian-arch-the-dollar-lease",
+                            "word_count": 1269,
                             "reading_minutes": 6,
                             "date": "2007-04-02",
                             "start_time": "14:00",
-                            "excerpt": "Michael and Rachel sign the one-dollar lease for 3701 Canadian Arch and establish their upstairs Command Center in Virginia Beach.",
+                            "excerpt": "Michael and Rachel sign the one-dollar lease for their townhouse on Canadian Arch and establish their upstairs Command Center in Virginia Beach.",
                             "image": "/raggiesoft-books/images/scenes/rachel/b018/command_center_3701_canadian_arch.jpg",
-                            "image_alt": "Michael and Rachel sitting shoulder-to-shoulder at their desks in the upstairs Command Center of 3701 Canadian Arch",
+                            "image_alt": "Michael and Rachel sitting shoulder-to-shoulder at their desks in the upstairs Command Center on Canadian Arch",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b018/command_center_3701_canadian_arch.jpg",
-                                    "alt": "Michael and Rachel sitting shoulder-to-shoulder at their desks in the upstairs Command Center of 3701 Canadian Arch"
+                                    "alt": "Michael and Rachel sitting shoulder-to-shoulder at their desks in the upstairs Command Center on Canadian Arch"
                                 }
                             ],
                             "image_count": 1
@@ -3339,11 +3339,11 @@
                             "part_title": "Part 2: The Three-Room Geometry, The Open-Door Policy, & The Midnight Blue Belts",
                             "file_path": "e018/c004/p002.md",
                             "url": "/rachel/the-shallow-end/the-open-door-sanctuary/part-2-the-three-room-geometry-the-open-door-policy-the-midnight-blue-belts",
-                            "word_count": 1193,
+                            "word_count": 1196,
                             "reading_minutes": 5,
                             "date": "2007-04-06",
                             "start_time": "15:30",
-                            "excerpt": "Settling into 3701 Canadian Arch under the Open-Door Policy, Michael and Rachel earn their Midnight Blue Belts at Lynnhaven Academy.",
+                            "excerpt": "Settling into their townhouse on Canadian Arch under the Open-Door Policy, Michael and Rachel earn their Midnight Blue Belts at Lynnhaven Academy.",
                             "image": "/raggiesoft-books/images/scenes/rachel/b018/adult_michael_and_rachel_lynnhaven_dojang.jpg",
                             "image_alt": "Michael and Rachel in their Midnight Blue Belts at the Lynnhaven Academy of Seondu",
                             "images": [
@@ -3361,14 +3361,14 @@
                     "chap_title": "The Route 25 Loop & The Shallow End",
                     "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/the-route-25-loop-the-shallow-end",
                     "illustration_count": 5,
-                    "word_count": 5552,
+                    "word_count": 5550,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Ms. Doris, Route 25, & The Penny's Run",
                             "file_path": "e018/c005/p001.md",
                             "url": "/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-1-ms-doris-route-25-the-penny-s-run",
-                            "word_count": 1129,
+                            "word_count": 1128,
                             "reading_minutes": 5,
                             "date": "2007-08-23",
                             "start_time": "11:55",
@@ -3388,7 +3388,7 @@
                             "part_title": "Part 2: First Contact, The First Embrace, & The Route 25 Equation",
                             "file_path": "e018/c005/p002.md",
                             "url": "/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-2-first-contact-the-first-embrace-the-route-25-equation",
-                            "word_count": 2441,
+                            "word_count": 2443,
                             "reading_minutes": 10,
                             "date": "2007-08-24",
                             "start_time": "11:45",
@@ -3412,17 +3412,17 @@
                             "part_title": "Part 3: Monday Lunch, 'Mask, What Mask?' & The Rules of the Shallow End",
                             "file_path": "e018/c005/p003.md",
                             "url": "/rachel/the-shallow-end/the-route-25-loop-the-shallow-end/part-3-monday-lunch-mask-what-mask-the-rules-of-the-shallow-end",
-                            "word_count": 1982,
+                            "word_count": 1979,
                             "reading_minutes": 8,
                             "date": "2007-08-27",
                             "start_time": "12:00",
-                            "excerpt": "That Monday over lunch at CCHR, Rachel meets Heather Bouchard and extends the first invitation to visit 3701 Canadian Arch.",
+                            "excerpt": "That Monday over lunch at CCHR, Rachel meets Heather Bouchard and extends the first invitation to visit Canadian Arch.",
                             "image": "/raggiesoft-books/images/scenes/rachel/b018/cchr_rachel_meets_heather_lounge.jpg",
-                            "image_alt": "Rachel meets Heather Bouchard over Monday lunch in the CCHR student lounge and extends the first invitation to 3701 Canadian Arch",
+                            "image_alt": "Rachel meets Heather Bouchard over Monday lunch in the CCHR student lounge and extends the first invitation to Canadian Arch",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b018/cchr_rachel_meets_heather_lounge.jpg",
-                                    "alt": "Rachel meets Heather Bouchard over Monday lunch in the CCHR student lounge and extends the first invitation to 3701 Canadian Arch"
+                                    "alt": "Rachel meets Heather Bouchard over Monday lunch in the CCHR student lounge and extends the first invitation to Canadian Arch"
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b018/cchr_quad_unmasked_walk_2007.jpg",
@@ -3491,14 +3491,14 @@
                     "chap_title": "Unhandled Exception & The Living Firewall",
                     "chap_url": "/raggiesoft-books/books/rachel/the-shallow-end/unhandled-exception-the-living-firewall",
                     "illustration_count": 4,
-                    "word_count": 2166,
+                    "word_count": 2162,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The 10:45 AM Lineup & Unhandled Exception",
                             "file_path": "e018/c007/p001.md",
                             "url": "/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-1-the-10-45-am-lineup-unhandled-exception",
-                            "word_count": 1566,
+                            "word_count": 1563,
                             "reading_minutes": 7,
                             "date": "2009-05-08",
                             "start_time": "07:40",
@@ -3526,11 +3526,11 @@
                             "part_title": "Part 2: 3:13 PM: Refusing to Let Go",
                             "file_path": "e018/c007/p002.md",
                             "url": "/rachel/the-shallow-end/unhandled-exception-the-living-firewall/part-2-3-13-pm-refusing-to-let-go",
-                            "word_count": 600,
+                            "word_count": 599,
                             "reading_minutes": 3,
                             "date": "2009-05-08",
                             "start_time": "15:00",
-                            "excerpt": "At 3:13 PM, Rachel walks home from The Spot to 3701 Canadian Arch and holds Michael on the sofa as he refuses to let go.",
+                            "excerpt": "At 3:13 PM, Rachel walks home from The Spot to Canadian Arch and holds Michael on the sofa as he refuses to let go.",
                             "image": "/raggiesoft-books/images/scenes/rachel/b018/rachel_comforting_michael_sofa_3701.jpg",
                             "image_alt": "Michael pulling Rachel into a fierce, desperate squeeze hug on the living room sofa at 3:13 PM as she leans in to comfort him",
                             "images": [
@@ -3550,21 +3550,21 @@
             "era_title": "The Eastern Anchor",
             "era_url": "/raggiesoft-books/books/rachel/the-eastern-anchor",
             "illustration_count": 6,
-            "word_count": 12052,
+            "word_count": 12049,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Passcode & The Blackwater Extraction",
                     "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction",
                     "illustration_count": 3,
-                    "word_count": 6877,
+                    "word_count": 6879,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Passcode & The Blackwater Extraction",
                             "file_path": "e019/c001/p001.md",
                             "url": "/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction/part-1-the-passcode-the-blackwater-extraction",
-                            "word_count": 1849,
+                            "word_count": 1852,
                             "reading_minutes": 8,
                             "date": "2009-05-11",
                             "start_time": "14:30",
@@ -3581,14 +3581,14 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Evasive Route & The 1802 Perimeter",
+                            "part_title": "Part 2: The Evasive Route & The Rich Court Perimeter",
                             "file_path": "e019/c001/p002.md",
-                            "url": "/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction/part-2-the-evasive-route-the-1802-perimeter",
+                            "url": "/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction/part-2-the-evasive-route-the-rich-court-perimeter",
                             "word_count": 3308,
                             "reading_minutes": 14,
                             "date": "2009-05-11",
                             "start_time": "15:15",
-                            "excerpt": "Master April drives Michael, Rachel, and Ashley along an evasive backroad route from Blackwater to the fortified 1802 Rich Court perimeter.",
+                            "excerpt": "Master April drives Michael, Rachel, and Ashley along an evasive backroad route from Blackwater to the fortified Rich Court perimeter.",
                             "image": "/raggiesoft-books/images/scenes/rachel/b019/blackwater_reunion_pack_hug.jpg",
                             "image_alt": "Michael and Rachel wrapping Ashley Raybourn in a fierce, grounding three-way pack hug inside the foyer after the Blackwater Extraction",
                             "images": [
@@ -3604,17 +3604,17 @@
                             "part_title": "Part 3: The Legal Definition & The Weight of the Anchor",
                             "file_path": "e019/c001/p003.md",
                             "url": "/rachel/the-eastern-anchor/the-passcode-the-blackwater-extraction/part-3-the-legal-definition-the-weight-of-the-anchor",
-                            "word_count": 1720,
+                            "word_count": 1719,
                             "reading_minutes": 7,
                             "date": "2009-05-11",
                             "start_time": "22:30",
-                            "excerpt": "In the dark of 1802 Rich Court, Rachel and Ashley anchor Michael through a terrifying flashback of Kent using deep-pressure grounding.",
+                            "excerpt": "In the dark on Rich Court, Rachel and Ashley anchor Michael through a terrifying flashback of Kent using deep-pressure grounding.",
                             "image": "/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg",
-                            "image_alt": "In the dark of 1802 Rich Court, Rachel and Ashley anchor Michael through a terrifying flashback of Kent using deep-pressure grounding.",
+                            "image_alt": "In the dark on Rich Court, Rachel and Ashley anchor Michael through a terrifying flashback of Kent using deep-pressure grounding.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg",
-                                    "alt": "In the dark of 1802 Rich Court, Rachel and Ashley anchor Michael through a terrifying flashback of Kent using deep-pressure grounding."
+                                    "alt": "In the dark on Rich Court, Rachel and Ashley anchor Michael through a terrifying flashback of Kent using deep-pressure grounding."
                                 }
                             ],
                             "image_count": 1
@@ -3626,24 +3626,24 @@
                     "chap_title": "The Fortress",
                     "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-fortress",
                     "illustration_count": 2,
-                    "word_count": 3905,
+                    "word_count": 3902,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Lifelong Partner & Shedding the Name",
                             "file_path": "e019/c002/p001.md",
                             "url": "/rachel/the-eastern-anchor/the-fortress/part-1-the-lifelong-partner-shedding-the-name",
-                            "word_count": 3225,
+                            "word_count": 3223,
                             "reading_minutes": 13,
                             "date": "2009-05-12",
                             "start_time": "07:00",
-                            "excerpt": "Waking to The Stardust Engine at 1802 Rich Court, the reunited trio prepares to file Ashley's fault-based divorce and reclaim her name.",
+                            "excerpt": "Waking to The Stardust Engine on Rich Court, the reunited trio prepares to file Ashley's fault-based divorce and reclaim her name.",
                             "image": "/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg",
-                            "image_alt": "Rachel lying stomach-to-stomach on top of Michael as a grounding anchor while Ashley rests beside them at 1802 Rich Court",
+                            "image_alt": "Rachel lying stomach-to-stomach on top of Michael as a grounding anchor while Ashley rests beside them on Rich Court",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg",
-                                    "alt": "Rachel lying stomach-to-stomach on top of Michael as a grounding anchor while Ashley rests beside them at 1802 Rich Court"
+                                    "alt": "Rachel lying stomach-to-stomach on top of Michael as a grounding anchor while Ashley rests beside them on Rich Court"
                                 }
                             ],
                             "image_count": 1
@@ -3653,17 +3653,17 @@
                             "part_title": "Part 2: The Amended Dollar Lease",
                             "file_path": "e019/c002/p002.md",
                             "url": "/rachel/the-eastern-anchor/the-fortress/part-2-the-amended-dollar-lease",
-                            "word_count": 680,
+                            "word_count": 679,
                             "reading_minutes": 3,
                             "date": "2009-05-12",
                             "start_time": "12:30",
-                            "excerpt": "Back at 3701 Canadian Arch, Ashley signs the amended one-dollar lease and officially moves into the townhouse sanctuary.",
+                            "excerpt": "Back on Canadian Arch, Ashley signs the amended one-dollar lease and officially moves into the townhouse sanctuary.",
                             "image": "/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg",
-                            "image_alt": "Back at 3701 Canadian Arch, Ashley signs the amended one-dollar lease and officially moves into the townhouse sanctuary.",
+                            "image_alt": "Back on Canadian Arch, Ashley signs the amended one-dollar lease and officially moves into the townhouse sanctuary.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b019/rich_court_trio_anchor.jpg",
-                                    "alt": "Back at 3701 Canadian Arch, Ashley signs the amended one-dollar lease and officially moves into the townhouse sanctuary."
+                                    "alt": "Back on Canadian Arch, Ashley signs the amended one-dollar lease and officially moves into the townhouse sanctuary."
                                 }
                             ],
                             "image_count": 1
@@ -3675,14 +3675,14 @@
                     "chap_title": "The Deployment",
                     "chap_url": "/raggiesoft-books/books/rachel/the-eastern-anchor/the-deployment",
                     "illustration_count": 1,
-                    "word_count": 1270,
+                    "word_count": 1268,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The West Coast Wake-Up",
                             "file_path": "e019/c003/p001.md",
                             "url": "/rachel/the-eastern-anchor/the-deployment/the-west-coast-wake-up",
-                            "word_count": 1270,
+                            "word_count": 1268,
                             "reading_minutes": 6,
                             "date": "2009-05-13",
                             "start_time": "06:30",
@@ -3706,7 +3706,7 @@
             "era_title": "The Director's Perimeter",
             "era_url": "/raggiesoft-books/books/rachel/the-director-s-perimeter",
             "illustration_count": 7,
-            "word_count": 12637,
+            "word_count": 12639,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -3753,7 +3753,7 @@
                             "reading_minutes": 11,
                             "date": "2009-05-25",
                             "start_time": "18:30",
-                            "excerpt": "Celebrating Rachel's twenty-third birthday at 3701 Canadian Arch, the pack intercepts and outmaneuvers David Lawson's surveillance.",
+                            "excerpt": "Celebrating Rachel's twenty-third birthday on Canadian Arch, the pack intercepts and outmaneuvers David Lawson's surveillance.",
                             "image": "/raggiesoft-books/images/scenes/rachel/b020/kemp_woods_bench_press_hug.jpg",
                             "image_alt": "Michael, Rachel, Kristin, Ashley, and Jessica sharing the Human Bench Press pack hug in the sunshine",
                             "images": [
@@ -3800,7 +3800,7 @@
                     "chap_title": "Ground Zero",
                     "chap_url": "/raggiesoft-books/books/rachel/the-director-s-perimeter/ground-zero",
                     "illustration_count": 2,
-                    "word_count": 4053,
+                    "word_count": 4055,
                     "parts": [
                         {
                             "part_num": 1,
@@ -3827,17 +3827,17 @@
                             "part_title": "Part 2: The June Upgrade",
                             "file_path": "e020/c004/p002.md",
                             "url": "/rachel/the-director-s-perimeter/ground-zero/part-2-the-june-upgrade",
-                            "word_count": 756,
+                            "word_count": 758,
                             "reading_minutes": 4,
                             "date": "2009-06-15",
                             "start_time": "20:30",
-                            "excerpt": "Following the official clinical validation at 3701 Canadian Arch, Kristin officially upgrades to Michael's girlfriend inside the pack.",
+                            "excerpt": "Following the official clinical validation on Canadian Arch, Kristin officially upgrades to Michael's girlfriend inside the pack.",
                             "image": "/raggiesoft-books/images/scenes/rachel/b020/june_upgrade_official_pack_3701.jpg",
-                            "image_alt": "Michael, Kristin, Rachel, Ashley, and Jessica together in the living room of 3701 Canadian Arch after the June Upgrade",
+                            "image_alt": "Michael, Kristin, Rachel, Ashley, and Jessica together in the living room on Canadian Arch after the June Upgrade",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b020/june_upgrade_official_pack_3701.jpg",
-                                    "alt": "Michael, Kristin, Rachel, Ashley, and Jessica together in the living room of 3701 Canadian Arch after the June Upgrade"
+                                    "alt": "Michael, Kristin, Rachel, Ashley, and Jessica together in the living room on Canadian Arch after the June Upgrade"
                                 }
                             ],
                             "image_count": 1
@@ -3902,14 +3902,14 @@
             "era_title": "The GIH Pilot & The Heel Cord Surgery (2015\u20132016)",
             "era_url": "/raggiesoft-books/books/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016",
             "illustration_count": 10,
-            "word_count": 6788,
+            "word_count": 6782,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "From CCHR to VDU: The Upperclass GIH Pilot Apartment",
                     "chap_url": "/raggiesoft-books/books/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment",
                     "illustration_count": 9,
-                    "word_count": 5396,
+                    "word_count": 5390,
                     "parts": [
                         {
                             "part_num": 1,
@@ -3934,50 +3934,50 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Move-In Day at 1016 Hampton House ('Building 2'), The 2 Bed / 2 Bath Floor Plan, & Alternating Beds",
+                            "part_title": "Part 2: Move-In Day at Harbor House ('Building 2'), The 2 Bed / 2 Bath Floor Plan, & Alternating Beds",
                             "file_path": "e021/c001/p002.md",
-                            "url": "/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-2-move-in-day-at-1016-hampton-house-building-2-the-2-bed-2-bath-floor-plan-alternating-beds",
-                            "word_count": 1305,
+                            "url": "/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-2-move-in-day-at-harbor-house-building-2-the-2-bed-2-bath-floor-plan-alternating-beds",
+                            "word_count": 1300,
                             "reading_minutes": 6,
                             "date": "2015-08-22",
                             "start_time": "14:00",
-                            "location": "1016 Hampton House ('Building 2'), Dominion Village, Virginia Dominion University, Norfolk, VA",
-                            "excerpt": "Moving into their ground-floor 2 Bed / 2 Bath apartment in 1016 Hampton House\u2014which VDU staff and the siblings simply call 'Building 2'\u2014Michael and Rachel set up their Alternating Bed Rotation Protocol.",
+                            "location": "Harbor House ('Building 2'), Dominion Village, Virginia Dominion University, Norfolk, VA",
+                            "excerpt": "Moving into their ground-floor 2 Bed / 2 Bath apartment in Harbor House\u2014which VDU staff and the siblings simply call 'Building 2'\u2014Michael and Rachel set up their Alternating Bed Rotation Protocol.",
                             "image": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_gih_pilot_upperclass_apartment_move_in.jpg",
-                            "image_alt": "Michael and Rachel standing barefoot in the living room of their ground-floor 2 Bed / 2 Bath apartment in Building 2 (1016 Hampton House) at Virginia Dominion University in August 2015, holding hands with their fingers laced together in matching blue VDU t-shirts with Bedroom 1 open on the left wall, Bedroom 2 open on the right wall, and the sofa and HVAC closet on the back wall",
+                            "image_alt": "Michael and Rachel standing barefoot in the living room of their ground-floor 2 Bed / 2 Bath apartment in Building 2 (Harbor House) at Virginia Dominion University in August 2015, holding hands with their fingers laced together in matching blue VDU t-shirts with Bedroom 1 open on the left wall, Bedroom 2 open on the right wall, and the sofa and HVAC closet on the back wall",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_gih_pilot_upperclass_apartment_move_in.jpg",
-                                    "alt": "Michael and Rachel standing barefoot in the living room of their ground-floor 2 Bed / 2 Bath apartment in Building 2 (1016 Hampton House) at Virginia Dominion University in August 2015, holding hands with their fingers laced together in matching blue VDU t-shirts with Bedroom 1 open on the left wall, Bedroom 2 open on the right wall, and the sofa and HVAC closet on the back wall"
+                                    "alt": "Michael and Rachel standing barefoot in the living room of their ground-floor 2 Bed / 2 Bath apartment in Building 2 (Harbor House) at Virginia Dominion University in August 2015, holding hands with their fingers laced together in matching blue VDU t-shirts with Bedroom 1 open on the left wall, Bedroom 2 open on the right wall, and the sofa and HVAC closet on the back wall"
                                 },
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_1016_hampton_house_building_2_exterior.jpg",
-                                    "alt": "Michael and Rachel walking hand-in-hand up the front walkway to the double entry doors of 1016 Hampton House (\"Building 2\") at Virginia Dominion University on move-in day in August 2015"
+                                    "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_harbor_house_building_2_exterior.jpg",
+                                    "alt": "Michael and Rachel walking hand-in-hand up the front walkway to the double entry doors of Harbor House (\"Building 2\") at Virginia Dominion University on move-in day in August 2015"
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_2bed_2bath_floorplan.jpg",
-                                    "alt": "Architectural floor plan of Michael and Rachel's ground-floor 2 Bed / 2 Bath on-campus apartment in Building 2 (Hampton House) at Virginia Dominion University (VDU)"
+                                    "alt": "Architectural floor plan of Michael and Rachel's ground-floor 2 Bed / 2 Bath on-campus apartment in Building 2 (Harbor House) at Virginia Dominion University (VDU)"
                                 }
                             ],
                             "image_count": 3
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: The Only GIH Pair in Building 2 (Hampton House), The RA's Look in the Hallway, & The 1st-Floor Laundry Room",
+                            "part_title": "Part 3: The Only GIH Pair in Building 2 (Harbor House), The RA's Look in the Hallway, & The 1st-Floor Laundry Room",
                             "file_path": "e021/c001/p003.md",
-                            "url": "/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-3-the-only-gih-pair-in-building-2-hampton-house-the-ra-s-look-in-the-hallway-the-1st-floor-laundry-room",
-                            "word_count": 1179,
+                            "url": "/rachel/the-gih-pilot-the-heel-cord-surgery-2015-2016/from-cchr-to-vdu-the-upperclass-gih-pilot-apartment/part-3-the-only-gih-pair-in-building-2-harbor-house-the-ra-s-look-in-the-hallway-the-1st-floor-laundry-room",
+                            "word_count": 1178,
                             "reading_minutes": 5,
                             "date": "2015-08-25",
                             "start_time": "19:30",
-                            "location": "Building 2 (1016 Hampton House \u2014 1st-Floor Hallway & Laundry Room), Virginia Dominion University, Norfolk, VA",
-                            "excerpt": "As the only Gender-Inclusive Housing participants in all of Building 2 (Hampton House) at the start of the Fall 2015 semester, it takes VDU Housing and the building RA a few days to get used to seeing Michael and Rachel holding hands and cuddling like a romantic couple.",
+                            "location": "Building 2 (Harbor House \u2014 1st-Floor Hallway & Laundry Room), Virginia Dominion University, Norfolk, VA",
+                            "excerpt": "As the only Gender-Inclusive Housing participants in all of Building 2 (Harbor House) at the start of the Fall 2015 semester, it takes VDU Housing and the building RA a few days to get used to seeing Michael and Rachel holding hands and cuddling like a romantic couple.",
                             "image": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_first_gih_building_hallway_laundry.jpg",
-                            "image_alt": "Walking down the ground-floor interior hallway of Building 2 (1016 Hampton House) toward the 1st-floor laundry room with 5 washers and 6 dryers, Michael and Rachel hold hands with their fingers laced together and lean warmly against each other like a romantic couple while the building RA pauses in the hallway with a stunned double-take",
+                            "image_alt": "Walking down the ground-floor interior hallway of Building 2 (Harbor House) toward the 1st-floor laundry room with 5 washers and 6 dryers, Michael and Rachel hold hands with their fingers laced together and lean warmly against each other like a romantic couple while the building RA pauses in the hallway with a stunned double-take",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/aug_2015_vdu_first_gih_building_hallway_laundry.jpg",
-                                    "alt": "Walking down the ground-floor interior hallway of Building 2 (1016 Hampton House) toward the 1st-floor laundry room with 5 washers and 6 dryers, Michael and Rachel hold hands with their fingers laced together and lean warmly against each other like a romantic couple while the building RA pauses in the hallway with a stunned double-take"
+                                    "alt": "Walking down the ground-floor interior hallway of Building 2 (Harbor House) toward the 1st-floor laundry room with 5 washers and 6 dryers, Michael and Rachel hold hands with their fingers laced together and lean warmly against each other like a romantic couple while the building RA pauses in the hallway with a stunned double-take"
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/rachel/b021_vdu_gih_achilles_2015_2016/vdu_dominion_village_1bed_1bath_floorplan.jpg",
@@ -4054,21 +4054,21 @@
             "era_title": "The Mountain Conference (SAACURC 2016)",
             "era_url": "/raggiesoft-books/books/rachel/the-mountain-conference-saacurc-2016",
             "illustration_count": 4,
-            "word_count": 5627,
+            "word_count": 5628,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Bear, The Bug, and The Forger",
                     "chap_url": "/raggiesoft-books/books/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger",
                     "illustration_count": 4,
-                    "word_count": 5627,
+                    "word_count": 5628,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Friday Arrival, Struggling Up the Steep Hills of CPI, & Two Queen Beds at The Hotel at Poly",
                             "file_path": "e022/c001/p001.md",
                             "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-struggling-up-the-steep-hills-of-cpi-two-queen-beds-at-the-hotel-at-poly",
-                            "word_count": 2298,
+                            "word_count": 2296,
                             "reading_minutes": 10,
                             "date": "2016-02-12",
                             "start_time": "16:00",
@@ -4093,11 +4093,11 @@
                             "part_title": "Part 2: Saturday at SAACURC: Visiting School Colors, The Clothespin Gauntlet, & The GIH Pilot Roundtable",
                             "file_path": "e022/c001/p002.md",
                             "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-2-saturday-at-saacurc-visiting-school-colors-the-clothespin-gauntlet-the-gih-pilot-roundtable",
-                            "word_count": 2088,
+                            "word_count": 2092,
                             "reading_minutes": 9,
                             "date": "2016-02-13",
                             "start_time": "09:00",
-                            "location": "Kincaid Student Center (290 College Ave.) & The Hotel at Poly, Blacksburg, VA",
+                            "location": "Kincaid Student Center (College Avenue) & The Hotel at Poly, Blacksburg, VA",
                             "excerpt": "Inside Kincaid Student Center at CPI, Michael and Rachel trade clothespins with delegates repping their respective school colors and shirts\u2014and use their shared Information Systems & Technology background to champion VDU's Gender-Inclusive Housing pilot.",
                             "image": "/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_kincaid_student_center_school_colors_clothespins.jpg",
                             "image_alt": "Inside the bright atrium of Kincaid Student Center during SAACURC 2016, Michael sits in his parked blue manual wheelchair and Rachel stands right beside him holding his hand with their fingers laced together in matching royal-blue VDU t-shirts and clothespin-covered lanyards, surrounded by smiling college delegates repping their CPI, SVU, RADFORD, UP, and GWU school colors and shirts",
@@ -4114,11 +4114,11 @@
                             "part_title": "Part 3: Sunday Wrap-Up: Closing Banquet, The SAACURC Documentation Plaque, & Back to Flat VDU",
                             "file_path": "e022/c001/p003.md",
                             "url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-3-sunday-wrap-up-closing-banquet-the-saacurc-documentation-plaque-back-to-flat-vdu",
-                            "word_count": 1241,
+                            "word_count": 1240,
                             "reading_minutes": 5,
                             "date": "2016-02-14",
                             "start_time": "11:30",
-                            "location": "Kincaid Student Center (290 College Ave.) to Interstate 81 North & Eastbound to Norfolk, VA",
+                            "location": "Kincaid Student Center (College Avenue) to Interstate 81 North & Eastbound to Norfolk, VA",
                             "excerpt": "At the SAACURC 2016 Closing Banquet, Michael and Rachel win the Operational & Documentation Excellence Recognition plaque surrounded by cheering delegations in their school colors\u2014before heading home to flat, sea-level VDU in Norfolk.",
                             "image": "/raggiesoft-books/images/scenes/rachel/b021/feb_2016_saacurc_gih_roundtable_and_closing_award.jpg",
                             "image_alt": "Inside the Commonwealth Ballroom at Kincaid Student Center during the SAACURC 2016 Sunday Closing Banquet, Michael in his blue manual wheelchair and Rachel standing right beside him in matching royal-blue VDU t-shirts hold their wooden SAACURC recognition plaque angled toward their own eyes while holding hands as surrounding student delegations in CPI, SVU, RADFORD, UP, and GWU shirts applaud",
@@ -4485,7 +4485,7 @@
             "era_title": "Code Susquehanna",
             "era_url": "/raggiesoft-books/books/rachel/code-susquehanna",
             "illustration_count": 8,
-            "word_count": 8668,
+            "word_count": 8667,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -4564,7 +4564,7 @@
                     "chap_title": "Twin B & The Qu\u00e9b\u00e9cois Firewall (August 2026)",
                     "chap_url": "/raggiesoft-books/books/rachel/code-susquehanna/twin-b-the-qu-b-cois-firewall-august-2026",
                     "illustration_count": 2,
-                    "word_count": 3105,
+                    "word_count": 3104,
                     "parts": [
                         {
                             "part_num": 1,
@@ -4592,7 +4592,7 @@
                             "part_title": "Part 2: Engineering the Teflon Protocol, The Corporate We, & The 88 MPH Paradox",
                             "file_path": "e026/c002/p002.md",
                             "url": "/rachel/code-susquehanna/twin-b-the-qu-b-cois-firewall-august-2026/part-2-engineering-the-teflon-protocol-the-corporate-we-the-88-mph-paradox",
-                            "word_count": 1701,
+                            "word_count": 1700,
                             "reading_minutes": 7,
                             "date": "2026-08-15",
                             "start_time": "21:30",

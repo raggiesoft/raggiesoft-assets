@@ -13,21 +13,21 @@
         "text_epub": "65 KB",
         "text_pdf": "190 KB",
         "package_7z": "49 KB",
-        "epub_bytes": 66694,
-        "pdf_bytes": 194611,
-        "text_epub_bytes": 66696,
-        "text_pdf_bytes": 194611,
-        "package_7z_bytes": 50592
+        "epub_bytes": 66673,
+        "pdf_bytes": 194569,
+        "text_epub_bytes": 66675,
+        "text_pdf_bytes": 194569,
+        "package_7z_bytes": 50601
     },
     "illustration_count": 0,
     "word_stats": {
-        "story_word_count": 25132,
+        "story_word_count": 25124,
         "lore_word_count": 1431,
-        "combined_word_count": 26563,
+        "combined_word_count": 26555,
         "story_page_count": 91,
         "combined_page_count": 97,
         "reading_hours": 1.7,
-        "reading_minutes": 101,
+        "reading_minutes": 100,
         "novel_equivalent": 0.3,
         "scale_category": "Novella",
         "scale_badge": "Novella",
@@ -43,7 +43,7 @@
             "era_title": "Book 1: Toby\u2019s 6th Grade",
             "era_url": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade",
             "illustration_count": 0,
-            "word_count": 16137,
+            "word_count": 16136,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -70,7 +70,7 @@
                     "chap_title": "Chapter 2: The Extraction (Monday, July 14, 1997)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-1-toby-s-6th-grade/chapter-2-the-extraction-monday-july-14-1997",
                     "illustration_count": 0,
-                    "word_count": 12399,
+                    "word_count": 12398,
                     "parts": [
                         {
                             "part_num": 1,
@@ -88,7 +88,7 @@
                             "part_title": "Part 2: Safe Harbor in Virginia Beach",
                             "file_path": "e001/c002/p002.md",
                             "url": "/samantha/book-1-toby-s-6th-grade/chapter-2-the-extraction-monday-july-14-1997/part-2-safe-harbor-in-virginia-beach",
-                            "word_count": 3228,
+                            "word_count": 3227,
                             "reading_minutes": 13,
                             "start_time": "09:45",
                             "location": "Unknown",
@@ -145,21 +145,21 @@
             "era_title": "Book 2: Toby\u2019s 8th Grade Year",
             "era_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year",
             "illustration_count": 0,
-            "word_count": 6718,
+            "word_count": 6711,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Matrix Anomaly (Tuesday, April 20, 1999)",
                     "chap_url": "/raggiesoft-books/books/samantha/book-2-toby-s-8th-grade-year/chapter-1-the-matrix-anomaly-tuesday-april-20-1999",
                     "illustration_count": 0,
-                    "word_count": 2695,
+                    "word_count": 2688,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Matrix Anomaly",
                             "file_path": "e002/c001/p001.md",
                             "url": "/samantha/book-2-toby-s-8th-grade-year/chapter-1-the-matrix-anomaly-tuesday-april-20-1999/the-matrix-anomaly",
-                            "word_count": 2695,
+                            "word_count": 2688,
                             "reading_minutes": 11,
                             "start_time": "13:15",
                             "location": "Unknown",

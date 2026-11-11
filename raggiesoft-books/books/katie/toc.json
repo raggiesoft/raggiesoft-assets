@@ -13,11 +13,11 @@
         "text_epub": "546 KB",
         "text_pdf": "1.5 MB",
         "package_7z": "410 KB",
-        "epub_bytes": 53299960,
-        "pdf_bytes": 48767699,
-        "text_epub_bytes": 558758,
-        "text_pdf_bytes": 1530100,
-        "package_7z_bytes": 419473
+        "epub_bytes": 53299886,
+        "pdf_bytes": 48767563,
+        "text_epub_bytes": 558679,
+        "text_pdf_bytes": 1530056,
+        "package_7z_bytes": 419382
     },
     "illustration_count": 119,
     "word_stats": {
@@ -525,7 +525,7 @@
             "era_title": "Seventeen, Senior Year, & Greenway Court",
             "era_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court",
             "illustration_count": 8,
-            "word_count": 16146,
+            "word_count": 16157,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -583,7 +583,7 @@
                     "chap_title": "Greenway Court, Apartment A6 & The Square Closet Sanctuary",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary",
                     "illustration_count": 3,
-                    "word_count": 7349,
+                    "word_count": 7360,
                     "parts": [
                         {
                             "part_num": 1,
@@ -611,7 +611,7 @@
                             "part_title": "Part 2: Brenda in the Back Alley & Discovering the Square Closet Sanctuary",
                             "file_path": "e004/c002/p002.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary/part-2-brenda-in-the-back-alley-discovering-the-square-closet-sanctuary",
-                            "word_count": 1118,
+                            "word_count": 1119,
                             "reading_minutes": 5,
                             "date": "2003-08-09",
                             "start_time": "20:45",
@@ -632,18 +632,18 @@
                             "part_title": "Part 3: Hurricane Isabel, Two Layers of Sandbags at Greenway Court, & Two Weeks at Dad's House on Arvin Road",
                             "file_path": "e004/c002/p003.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary/part-3-hurricane-isabel-two-layers-of-sandbags-at-greenway-court-two-weeks-at-dad-s-house-on-arvin-road",
-                            "word_count": 4561,
+                            "word_count": 4571,
                             "reading_minutes": 19,
                             "date": "2003-09-17",
                             "start_time": "15:15",
-                            "location": "Norfolk, VA (801 Greenway Court, Apartment A6) & Virginia Beach, VA (737 Arvin Road)",
-                            "excerpt": "As Hurricane Isabel approaches Hampton Roads and Dave and Deb stack two layers of sandbags inside the front door at the top of the lobby ramp at 801 Greenway Court, eighteen-year-old Katie and Nate evacuate to 737 Arvin Road\u2014where a two-day power outage drains their wheelchair batteries, David crawls on the floor with them at eye level over games of Solo and WordSmith and arranges backup manual wheelchairs, and the family discovers the sandbags saved Greenway Court before setting up a Medical Priority Flag during the two-week Midtown Tunnel power failure.",
+                            "location": "Norfolk, VA (Greenway Court, Apartment A6) & Virginia Beach, VA (Arvin Road)",
+                            "excerpt": "As Hurricane Isabel approaches Hampton Roads and Dave and Deb stack two layers of sandbags inside the front door at the top of the lobby ramp at Greenway Court, eighteen-year-old Katie and Nate evacuate to Dad's house on Arvin Road\u2014where a two-day power outage drains their wheelchair batteries, David crawls on the floor with them at eye level over games of Solo and WordSmith and arranges backup manual wheelchairs, and the family discovers the sandbags saved Greenway Court before setting up a Medical Priority Flag during the two-week Midtown Tunnel power failure.",
                             "image": "/raggiesoft-books/images/scenes/katie/b004/sep_2003_hurricane_isabel_greenway_court_sandbags_evacuation_katie_nate_david.jpg",
-                            "image_alt": "Outside 801 Greenway Court in Norfolk on Wednesday afternoon, September 17, 2003 ahead of Hurricane Isabel under overcast gray skies and rising wind, eighteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands while their father David Prairie steadies their chairs on the front walkway as Michael Ragsdale waves goodbye with his backpack on the sidewalk.",
+                            "image_alt": "Outside the Greenway Court apartment building in Norfolk on Wednesday afternoon, September 17, 2003 ahead of Hurricane Isabel under overcast gray skies and rising wind, eighteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands while their father David Prairie steadies their chairs on the front walkway as Michael Ragsdale waves goodbye with his backpack on the sidewalk.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b004/sep_2003_hurricane_isabel_greenway_court_sandbags_evacuation_katie_nate_david.jpg",
-                                    "alt": "Outside 801 Greenway Court in Norfolk on Wednesday afternoon, September 17, 2003 ahead of Hurricane Isabel under overcast gray skies and rising wind, eighteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands while their father David Prairie steadies their chairs on the front walkway as Michael Ragsdale waves goodbye with his backpack on the sidewalk."
+                                    "alt": "Outside the Greenway Court apartment building in Norfolk on Wednesday afternoon, September 17, 2003 ahead of Hurricane Isabel under overcast gray skies and rising wind, eighteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands while their father David Prairie steadies their chairs on the front walkway as Michael Ragsdale waves goodbye with his backpack on the sidewalk."
                                 }
                             ],
                             "image_count": 1
@@ -729,14 +729,14 @@
             "era_title": "West Ocean View & Reclaiming Our Sanctuary",
             "era_url": "/raggiesoft-books/books/katie/west-ocean-view-reclaiming-our-sanctuary",
             "illustration_count": 18,
-            "word_count": 33317,
+            "word_count": 33316,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Ocean View Station, Dirty Old Tonomy Hill, & Five Buses from Williamsburg",
                     "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-reclaiming-our-sanctuary/ocean-view-station-dirty-old-tonomy-hill-five-buses-from-williamsburg",
                     "illustration_count": 6,
-                    "word_count": 12036,
+                    "word_count": 12032,
                     "parts": [
                         {
                             "part_num": 1,
@@ -785,7 +785,7 @@
                             "part_title": "Part 3: Patience at Katie's Pace, Winning Over Nate and Dad, & Katie's Move to Williamsburg",
                             "file_path": "e005/c001/p003.md",
                             "url": "/katie/west-ocean-view-reclaiming-our-sanctuary/ocean-view-station-dirty-old-tonomy-hill-five-buses-from-williamsburg/part-3-patience-at-katie-s-pace-winning-over-nate-and-dad-katie-s-move-to-williamsburg",
-                            "word_count": 1683,
+                            "word_count": 1682,
                             "reading_minutes": 7,
                             "date": "2004-11-20",
                             "start_time": "14:00",
@@ -806,7 +806,7 @@
                             "part_title": "Part 4: The Worst Christmas Ever: Eighteen Stops to Dirty Old Tonomy Hill, Four Days with Cousin Chelsea, & The West Main Road Shortcut Home",
                             "file_path": "e005/c001/p004.md",
                             "url": "/katie/west-ocean-view-reclaiming-our-sanctuary/ocean-view-station-dirty-old-tonomy-hill-five-buses-from-williamsburg/part-4-the-worst-christmas-ever-eighteen-stops-to-dirty-old-tonomy-hill-four-days-with-cousin-chelsea-the-west-main-road-shortcut-home",
-                            "word_count": 2515,
+                            "word_count": 2514,
                             "reading_minutes": 11,
                             "date": "2004-12-24",
                             "start_time": "15:30",
@@ -827,12 +827,12 @@
                             "part_title": "Part 5: Five Buses from Williamsburg \u2014 The Ninety-Second Window, Crown Burger, & The Last Route 61 Across the Water",
                             "file_path": "e005/c001/p005.md",
                             "url": "/katie/west-ocean-view-reclaiming-our-sanctuary/ocean-view-station-dirty-old-tonomy-hill-five-buses-from-williamsburg/part-5-five-buses-from-williamsburg-the-ninety-second-window-crown-burger-the-last-route-61-across-the-water",
-                            "word_count": 3920,
+                            "word_count": 3918,
                             "reading_minutes": 16,
                             "date": "2005-11-12",
                             "start_time": "15:38",
-                            "location": "Williamsburg, Newport News, Hampton, & Norfolk, VA (224 Virginia Avenue, Williamsburg Transportation Center, Lee Hall, Warwick & Denbigh, Newport News Transit Center, HRBT, Wards Corner, & Sea Breeze West)",
-                            "excerpt": "When Brandon Mercer marches twenty-year-old Katie from 224 Virginia Avenue to the Williamsburg Transportation Center to buy one-way rail and tunnel-bus tickets to Windsor, Canada, she seizes a ninety-second window while he is at the ticket counter to roll aboard the 4:00 PM CTTA Grey Line bus\u2014beginning a grueling five-bus escape through the November rain to reach her twin brother Nate in West Ocean View.",
+                            "location": "Williamsburg, Newport News, Hampton, & Norfolk, VA (Virginia Avenue, Williamsburg Transportation Center, Lee Hall, Warwick & Denbigh, Newport News Transit Center, HRBT, Wards Corner, & Sea Breeze West)",
+                            "excerpt": "When Brandon Mercer marches twenty-year-old Katie from Virginia Avenue to the Williamsburg Transportation Center to buy one-way rail and tunnel-bus tickets to Windsor, Canada, she seizes a ninety-second window while he is at the ticket counter to roll aboard the 4:00 PM CTTA Grey Line bus\u2014beginning a grueling five-bus escape through the November rain to reach her twin brother Nate in West Ocean View.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_rainy_night_katie_five_bus_arrival_sanctuary.jpg",
                             "image_alt": "Inside the living room of Sea Breeze West Apartment 3 on the rainy Saturday night of November 12, 2005 after Katie's five-bus escape from Williamsburg, twenty-year-old Katie sits wrapped in a dry towel and Nate's navy-blue sleeping bag on the bright green sofa while her twin brother Nate holds both of her hands from his compact SwiftChair power wheelchair",
                             "images": [
@@ -854,7 +854,7 @@
                     "chap_title": "The End of Hell & Reclaiming Apartment 3",
                     "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-reclaiming-our-sanctuary/the-end-of-hell-reclaiming-apartment-3",
                     "illustration_count": 12,
-                    "word_count": 21281,
+                    "word_count": 21284,
                     "parts": [
                         {
                             "part_num": 1,
@@ -919,11 +919,11 @@
                             "part_title": "Part 3: The Goyeau Street Tunnel Bus, The Federal Courthouse on Granby Street, & Protected Non-Traveling Complainant",
                             "file_path": "e005/c002/p003.md",
                             "url": "/katie/west-ocean-view-reclaiming-our-sanctuary/the-end-of-hell-reclaiming-apartment-3/part-3-the-goyeau-street-tunnel-bus-the-federal-courthouse-on-granby-street-protected-non-traveling-complainant",
-                            "word_count": 2855,
+                            "word_count": 2858,
                             "reading_minutes": 12,
                             "date": "2005-11-16",
                             "start_time": "14:00",
-                            "location": "Norfolk, VA (Walter E. Hoffman United States Courthouse \u2014 600 Granby Street)",
+                            "location": "Norfolk, VA (Walter E. Hoffman United States Courthouse \u2014 Granby Street)",
                             "excerpt": "On Wednesday afternoon, November 16, 2005, Dad accompanies Katie and Nate to the Walter E. Hoffman United States Courthouse in Downtown Norfolk\u2014where Special Agent Morales pulls up the Sunday afternoon CBSA and U.S. CBP border refusal file from the Goyeau Street tunnel plaza in Windsor and East Jefferson Avenue in Detroit, proving Brandon Mercer handed federal prosecutors the entire case against himself.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_granby_street_federal_courthouse_vw_zero_infraction.jpg",
                             "image_alt": "Inside a ground-floor conference room at the Walter E. Hoffman United States Courthouse on Granby Street in Norfolk on November 16, 2005, 20-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands with their father David beside them as Special Agent Morales points to the 'V-W, Zero Infraction' Protected Non-Traveling Complainant status on the federal border printout.",
@@ -973,7 +973,7 @@
                             "reading_minutes": 13,
                             "date": "2005-11-27",
                             "start_time": "19:30",
-                            "location": "Norfolk, VA (Sea Breeze West Apartment 3 \u2014 233 West Ocean View Avenue)",
+                            "location": "Norfolk, VA (Sea Breeze West Apartment 3 \u2014 West Ocean View Avenue)",
                             "excerpt": "Inspired by the Seattle Transit Blog covering TAPS in the Puget Sound, Nate and Katie sit side by side at their freshly formatted Quantum OS XN Pro desktop in Apartment 3, hand-code a custom HTML template on BlogSphere, and quietly launch Ideas for Coastal Virginia Transit.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_ideas_for_cvta_blog_launch_katie_nate.jpg",
                             "image_alt": "Inside Apartment 3 at Sea Breeze West in West Ocean View on the evening of November 27, 2005, 20-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at their computer desk surrounded by paper CVTA bus timetables as they hand-code and launch their transit advocacy blog, Ideas for Coastal Virginia Transit.",
@@ -1177,7 +1177,7 @@
             "era_title": "Unofficial Homeowners: Back Home in Virginia Beach (2007\u20132008)",
             "era_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008",
             "illustration_count": 14,
-            "word_count": 19472,
+            "word_count": 19473,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1336,14 +1336,14 @@
                     "chap_title": "Twenty-Two in Alexandria: Riding DMV Transit, Touring the White House & the U.S. Capitol, Meeting Senator James West, The Spark to Run for City Council, & Two Blue Passports",
                     "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-touring-the-white-house-the-u-s-capitol-meeting-senator-james-west-the-spark-to-run-for-city-council-two-blue-passports",
                     "illustration_count": 5,
-                    "word_count": 7794,
+                    "word_count": 7795,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Accessible Taxi to Newport News, The ARTS Train to Alexandria, & Riding Northern Virginia Transit on Our Twenty-Second Birthday",
                             "file_path": "e007/c003/p001.md",
                             "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-touring-the-white-house-the-u-s-capitol-meeting-senator-james-west-the-spark-to-run-for-city-council-two-blue-passports/part-1-accessible-taxi-to-newport-news-the-arts-train-to-alexandria-riding-northern-virginia-transit-on-our-twenty-second-birthday",
-                            "word_count": 1030,
+                            "word_count": 1031,
                             "reading_minutes": 5,
                             "date": "2007-04-08",
                             "start_time": "09:15",
@@ -1482,14 +1482,14 @@
             "era_title": "Do Better: Ideas for CVTA & The Kempsville City Council",
             "era_url": "/raggiesoft-books/books/katie/do-better-ideas-for-cvta-the-kempsville-city-council",
             "illustration_count": 7,
-            "word_count": 13922,
+            "word_count": 13920,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Do Better: Ideas for CVTA & The Four-Bus Mayoral Loop",
                     "chap_url": "/raggiesoft-books/books/katie/do-better-ideas-for-cvta-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop",
                     "illustration_count": 3,
-                    "word_count": 5832,
+                    "word_count": 5830,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1517,18 +1517,18 @@
                             "part_title": "Part 2: The Four-Bus Mayoral Loop, Silenced at Eighteenth Street, & Choosing to Run for the Kempsville Seat",
                             "file_path": "e008/c001/p002.md",
                             "url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop/part-2-the-four-bus-mayoral-loop-silenced-at-eighteenth-street-choosing-to-run-for-the-kempsville-seat",
-                            "word_count": 2506,
+                            "word_count": 2504,
                             "reading_minutes": 11,
                             "date": "2008-09-16",
                             "start_time": "14:00",
-                            "location": "Virginia Beach & Norfolk, VA (CCHR Bus Loop, CVTA Routes 29/20/15/12, & 509 E. 18th Street)",
+                            "location": "Virginia Beach & Norfolk, VA (CCHR Bus Loop, CVTA Routes 29/20/15/12, & East 18th Street)",
                             "excerpt": "Riding a four-bus circuit (#29 -> #20 -> #15 -> #12) with Virginia Beach mayoral candidate Scott Tanner, Nate and Katie expose the expired two-hour transfer penalty and the 5:48 PM evening bus curfew\u2014and after CVTA executives cut off Nate's microphone and blackball him from TRAC while Councilman Harold Dietz kills evening bus service, Katie decides to run for the Kempsville City Council seat.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2009_cvta_18th_street_mic_cutoff_and_jan_2011_commissioner_reckoning.jpg",
-                            "image_alt": "Inside the Coastal Virginia Transit Authority boardroom at 509 East 18th Street in Norfolk on November 19, 2009, 24-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the public-comment table as CVTA Chief Operating Officer Richard Halstead leans over the dais to cut off their microphone.",
+                            "image_alt": "Inside the Coastal Virginia Transit Authority boardroom on East 18th Street in Norfolk on November 19, 2009, 24-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the public-comment table as CVTA Chief Operating Officer Richard Halstead leans over the dais to cut off their microphone.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2009_cvta_18th_street_mic_cutoff_and_jan_2011_commissioner_reckoning.jpg",
-                                    "alt": "Inside the Coastal Virginia Transit Authority boardroom at 509 East 18th Street in Norfolk on November 19, 2009, 24-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the public-comment table as CVTA Chief Operating Officer Richard Halstead leans over the dais to cut off their microphone."
+                                    "alt": "Inside the Coastal Virginia Transit Authority boardroom on East 18th Street in Norfolk on November 19, 2009, 24-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at the public-comment table as CVTA Chief Operating Officer Richard Halstead leans over the dais to cut off their microphone."
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/sep_2008_cvta_route_15_bus_mayoral_loop_interview_scott_tanner.jpg",
@@ -1551,7 +1551,7 @@
                             "part_title": "Part 1: The Empty Podium on WHRC TV-15, The 8:24 PM Three-Bus Sprint Home, & The Front-Page Metro Headline",
                             "file_path": "e008/c002/p001.md",
                             "url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie/part-1-the-empty-podium-on-whrc-tv-15-the-8-24-pm-three-bus-sprint-home-the-front-page-metro-headline",
-                            "word_count": 3583,
+                            "word_count": 3582,
                             "reading_minutes": 15,
                             "date": "2010-10-14",
                             "start_time": "19:28",
@@ -1576,11 +1576,11 @@
                             "part_title": "Part 2: The WTGA 790 AM Disability Attack, The 94.1% Landslide, & The Eighteenth Street Reckoning",
                             "file_path": "e008/c002/p002.md",
                             "url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie/part-2-the-wtga-790-am-disability-attack-the-94-1-landslide-the-eighteenth-street-reckoning",
-                            "word_count": 4507,
+                            "word_count": 4508,
                             "reading_minutes": 19,
                             "date": "2010-10-28",
                             "start_time": "08:15",
-                            "location": "Virginia Beach & Norfolk, VA (Our House off Military Highway in Kempsville, Virginia Beach Municipal Center Building 1, & 509 E. 18th Street)",
+                            "location": "Virginia Beach & Norfolk, VA (Our House off Military Highway in Kempsville, Virginia Beach Municipal Center Building 1, & East 18th Street)",
                             "excerpt": "Five days before the election, a desperate Councilman Harold Dietz calls into conservative talk radio WTGA 790 AM to attack Katie's wheelchair and question the taxpayer cost of a City Hall dais ramp\u2014triggering a nuclear backlash across Hampton Roads, an unprecedented 94.1% to 5.9% Election Night landslide, and a historic reckoning for CVTA's executive suite.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/jan_2011_vb_city_council_dais_ramp_secular_affirmation_katie_nate_david.jpg",
                             "image_alt": "At the top of the newly constructed red-carpeted mahogany wheelchair ramp on the Virginia Beach City Council dais in Building 1 on January 4, 2011, 25-year-old Councilwoman-Elect Katie Prairie sits in her black motorized SwiftChair power wheelchair taking the secular constitutional affirmation of office on the Constitution of Virginia held by her twin brother Nate, with their father David standing proudly behind them.",
@@ -1605,7 +1605,7 @@
             "era_title": "The Gentlewoman from Virginia Beach: The House of Delegates",
             "era_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates",
             "illustration_count": 9,
-            "word_count": 30665,
+            "word_count": 30661,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1722,7 +1722,7 @@
                     "chap_title": "House Bill 663 & Live on Meet the Nation",
                     "chap_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation",
                     "illustration_count": 3,
-                    "word_count": 19517,
+                    "word_count": 19513,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1754,7 +1754,7 @@
                             "part_title": "Part 2: Transit Legislative Day with Michael & Rachel, Two Meltdowns in Room 518, & The 6:05 AM Train to Meet the Nation",
                             "file_path": "e009/c003/p002.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-2-transit-legislative-day-with-michael-rachel-two-meltdowns-in-room-518-the-6-05-am-train-to-meet-the-nation",
-                            "word_count": 14273,
+                            "word_count": 14269,
                             "reading_minutes": 58,
                             "date": "2016-02-04",
                             "start_time": "14:15",
@@ -1779,7 +1779,7 @@
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
             "illustration_count": 8,
-            "word_count": 17460,
+            "word_count": 17455,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1850,7 +1850,7 @@
                     "chap_title": "The Accessibility Project: Riding Every Bus Across the Commonwealth for the United States Senate",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate",
                     "illustration_count": 5,
-                    "word_count": 12073,
+                    "word_count": 12068,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1875,21 +1875,21 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The Jammed Ramp at 3400 Victoria Boulevard, ShoreLine Transit Across the Bay, & Wearing the NFA's 'F' Grade in Fairfax",
+                            "part_title": "Part 2: The Jammed Ramp on Victoria Boulevard, ShoreLine Transit Across the Bay, & Wearing the NFA's 'F' Grade in Fairfax",
                             "file_path": "e010/c003/p002.md",
-                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-2-the-jammed-ramp-at-3400-victoria-boulevard-shoreline-transit-across-the-bay-wearing-the-nfa-s-f-grade-in-fairfax",
-                            "word_count": 2303,
+                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-2-the-jammed-ramp-on-victoria-boulevard-shoreline-transit-across-the-bay-wearing-the-nfa-s-f-grade-in-fairfax",
+                            "word_count": 2300,
                             "reading_minutes": 10,
                             "date": "2026-03-28",
                             "start_time": "10:15",
                             "location": "Hampton, Accomac, Williamsburg, Doswell, & Fairfax, VA (CVTA Route 103, ShoreLine Transit, ARTS, & Fairfax Link)",
-                            "excerpt": "Refusing a luxury campaign tour bus, Katie, Nate, and David ride local transit across Hampton Roads, the Eastern Shore, Central Virginia, and Northern Virginia to gather 24,812 voter signatures\u2014turning a jammed bus ramp at 3400 Victoria Boulevard in Hampton and an 'F' grade from the National Firearms Association in Fairfax into defining moments of the campaign.",
+                            "excerpt": "Refusing a luxury campaign tour bus, Katie, Nate, and David ride local transit across Hampton Roads, the Eastern Shore, Central Virginia, and Northern Virginia to gather 24,812 voter signatures\u2014turning a jammed bus ramp on Victoria Boulevard in Hampton and an 'F' grade from the National Firearms Association in Fairfax into defining moments of the campaign.",
                             "image": "/raggiesoft-books/images/scenes/katie/b006/mar_2026_hampton_3400_victoria_blvd_jammed_ramp_rain_katie_nate_david.jpg",
-                            "image_alt": "In the pouring March 2026 rain at 3400 Victoria Boulevard in Hampton, Virginia, 40-year-old State Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs on the wet sidewalk beside a coastal transit bus whose front flip-out wheelchair ramp has jammed halfway out, talking warmly with the bus operator and Peninsula shipyard and hospital commuters while their father David holds an umbrella.",
+                            "image_alt": "In the pouring March 2026 rain on Victoria Boulevard in Hampton, Virginia, 40-year-old State Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs on the wet sidewalk beside a coastal transit bus whose front flip-out wheelchair ramp has jammed halfway out, talking warmly with the bus operator and Peninsula shipyard and hospital commuters while their father David holds an umbrella.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b006/mar_2026_hampton_3400_victoria_blvd_jammed_ramp_rain_katie_nate_david.jpg",
-                                    "alt": "In the pouring March 2026 rain at 3400 Victoria Boulevard in Hampton, Virginia, 40-year-old State Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs on the wet sidewalk beside a coastal transit bus whose front flip-out wheelchair ramp has jammed halfway out, talking warmly with the bus operator and Peninsula shipyard and hospital commuters while their father David holds an umbrella."
+                                    "alt": "In the pouring March 2026 rain on Victoria Boulevard in Hampton, Virginia, 40-year-old State Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs on the wet sidewalk beside a coastal transit bus whose front flip-out wheelchair ramp has jammed halfway out, talking warmly with the bus operator and Peninsula shipyard and hospital commuters while their father David holds an umbrella."
                                 }
                             ],
                             "image_count": 1
@@ -1899,7 +1899,7 @@
                             "part_title": "Part 3: The Roanoke Express, The Brooks Family Compound on Lee Highway, The Maroon Express to Bluewater, & Winning the June Primary",
                             "file_path": "e010/c003/p003.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-3-the-roanoke-express-the-brooks-family-compound-on-lee-highway-the-maroon-express-to-bluewater-winning-the-june-primary",
-                            "word_count": 3842,
+                            "word_count": 3840,
                             "reading_minutes": 16,
                             "date": "2026-05-18",
                             "start_time": "11:30",

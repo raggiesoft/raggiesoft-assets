@@ -13,17 +13,17 @@
         "text_epub": "777 KB",
         "text_pdf": "2.3 MB",
         "package_7z": "556 KB",
-        "epub_bytes": 10548791,
-        "pdf_bytes": 12180023,
-        "text_epub_bytes": 795940,
-        "text_pdf_bytes": 2373352,
-        "package_7z_bytes": 569272
+        "epub_bytes": 10548710,
+        "pdf_bytes": 12179754,
+        "text_epub_bytes": 795858,
+        "text_pdf_bytes": 2373092,
+        "package_7z_bytes": 569228
     },
     "illustration_count": 3,
     "word_stats": {
-        "story_word_count": 334895,
+        "story_word_count": 334891,
         "lore_word_count": 546,
-        "combined_word_count": 335441,
+        "combined_word_count": 335437,
         "story_page_count": 1218,
         "combined_page_count": 1220,
         "reading_hours": 22.3,
@@ -842,7 +842,7 @@
             "era_title": "Senior Year and The New Beginning",
             "era_url": "/raggiesoft-books/books/luna-leo/senior-year-and-the-new-beginning",
             "illustration_count": 2,
-            "word_count": 25941,
+            "word_count": 25940,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -891,7 +891,7 @@
                     "chap_title": "An Afternoon Visit and Gathering Clouds",
                     "chap_url": "/raggiesoft-books/books/luna-leo/senior-year-and-the-new-beginning/an-afternoon-visit-and-gathering-clouds",
                     "illustration_count": 0,
-                    "word_count": 7449,
+                    "word_count": 7448,
                     "parts": [
                         {
                             "part_num": 1,
@@ -910,7 +910,7 @@
                             "part_title": "Part 2: Saturday Respite and a Planned Weekend Stay & A Sunday Well Spent",
                             "file_path": "e007/c002/p002.md",
                             "url": "/luna-leo/senior-year-and-the-new-beginning/an-afternoon-visit-and-gathering-clouds/part-2-saturday-respite-and-a-planned-weekend-stay-a-sunday-well-spent",
-                            "word_count": 3548,
+                            "word_count": 3547,
                             "reading_minutes": 15,
                             "date": "2002-09-18",
                             "start_time": "17:00",
@@ -1427,21 +1427,21 @@
             "era_title": "The Golden State",
             "era_url": "/raggiesoft-books/books/luna-leo/the-golden-state",
             "illustration_count": 0,
-            "word_count": 28314,
+            "word_count": 28313,
             "chapters": [
                 {
                     "chap_num": 14,
                     "chap_title": "The City by the Bay",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-golden-state/the-city-by-the-bay",
                     "illustration_count": 0,
-                    "word_count": 4930,
+                    "word_count": 4929,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Historic F-Line & The Transbay Tube",
                             "file_path": "e010/c014/p001.md",
                             "url": "/luna-leo/the-golden-state/the-city-by-the-bay/part-1-the-historic-f-line-the-transbay-tube",
-                            "word_count": 3694,
+                            "word_count": 3693,
                             "reading_minutes": 15,
                             "date": "2003-07-01",
                             "start_time": "09:00",
@@ -1694,7 +1694,7 @@
                             "reading_minutes": 3,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The remnants of the magnificent pecan pie were cleared away, and a comfortable, contented exhaustion settled over the small house. As true evening darkened the windows, Arthur and Eleanor began gathering their\u2026"
                         }
                     ]
@@ -1727,7 +1727,7 @@
                             "reading_minutes": 15,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The final stop wasn't another retail store, but a large, standalone mattress warehouse a few miles away. As Stella pulled the Sentinel into the parking lot, she saw a familiar car parked near the entrance. Next\u2026"
                         },
                         {
@@ -1739,7 +1739,7 @@
                             "reading_minutes": 4,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The energy in the room after their dinner of leftover sandwiches was electric. Leo's idea to attend the CCHR Virginia Beach campus had injected a powerful dose of hope into their evening. Stella, seizing the\u2026"
                         }
                     ]
@@ -1751,7 +1751,7 @@
             "era_title": "The Delores Nightmare",
             "era_url": "/raggiesoft-books/books/luna-leo/the-delores-nightmare",
             "illustration_count": 1,
-            "word_count": 47173,
+            "word_count": 47172,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1869,7 +1869,7 @@
                     "chap_title": "The Trip Proposal",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-delores-nightmare/the-trip-proposal",
                     "illustration_count": 0,
-                    "word_count": 6645,
+                    "word_count": 6644,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1960,7 +1960,7 @@
                             "part_title": "Part 8: Arrival in the Pacific Northwest",
                             "file_path": "e012/c004/p008.md",
                             "url": "/luna-leo/the-delores-nightmare/the-trip-proposal/part-8-arrival-in-the-pacific-northwest",
-                            "word_count": 1062,
+                            "word_count": 1061,
                             "reading_minutes": 5,
                             "date": "2003-11-01",
                             "start_time": "10:00",
@@ -2276,7 +2276,7 @@
                             "reading_minutes": 12,
                             "date": "2004-09-18",
                             "start_time": "07:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "Saturday morning sunlight streamed into the newly reorganized bedroom, illuminating the deep blue of the comforter and the fresh paint on the walls. For the first time since his return, Leo woke without a jolt\u2026"
                         },
                         {
@@ -2288,7 +2288,7 @@
                             "reading_minutes": 14,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "Sleep offers little respite. Sometime in the middle of the night, the gentle undulation of the waterbed beneath him begins to feel wrong, subtly shifting, becoming too stiff, unfamiliar. The comforting darkness\u2026"
                         }
                     ]
@@ -2309,7 +2309,7 @@
                             "reading_minutes": 13,
                             "date": "2004-09-18",
                             "start_time": "07:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "On Monday morning, December 1st, 2003, Stella walked into the downtown Norfolk law office of Sarah Jenkins. She was not alone; Arthur and Eleanor Bennett were with her, their presence a silent, solid wall of\u2026"
                         }
                     ]
@@ -2330,7 +2330,7 @@
                             "reading_minutes": 15,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The first week of December settled into a peaceful rhythm, a welcome balm after the storms of November. The legal machinery was in motion, but in the house on Stella's house, the focus was on healing. One\u2026"
                         },
                         {
@@ -2342,7 +2342,7 @@
                             "reading_minutes": 15,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "Their quest for French language resources led them to a large bookstore in a local shopping center. The four of them made their way to the small language and reference section, a sense of shared purpose making\u2026"
                         },
                         {
@@ -2354,7 +2354,7 @@
                             "reading_minutes": 14,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The drive from the airport was a blur of happy chatter, a mix of French and English filling the luxurious rental van. When Arthur pulled up to the grand, historic entrance of The Atlantic Grand Hotel, Olivia's\u2026"
                         },
                         {
@@ -2366,7 +2366,7 @@
                             "reading_minutes": 8,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "At 6 PM on Christmas Eve, Arthur and Eleanor's house was a beacon of warmth and festive chaos. The dining room, with its long table extended to its absolute maximum, was the heart of the celebration, beautifully\u2026"
                         }
                     ]
@@ -2408,7 +2408,7 @@
                             "reading_minutes": 15,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "December 26th arrived not with a bang, but with a profound and necessary quiet. After two days of non-stop celebration, delicious food, and joyful but intense social interaction, the entire household was in a\u2026"
                         }
                     ]
@@ -2540,7 +2540,7 @@
             "era_title": "The Iron Point Transfer",
             "era_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer",
             "illustration_count": 0,
-            "word_count": 48233,
+            "word_count": 48235,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2558,7 +2558,7 @@
                             "reading_minutes": 16,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "By the time Stella, Luna, Leo, and Olivia had settled into their new normal\u2014a rhythm of college classes, quiet evenings, and the slow, steady healing from the ordeal with Delores\u2014their grandparents, Arthur and\u2026"
                         },
                         {
@@ -2570,7 +2570,7 @@
                             "reading_minutes": 8,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "Two Days Later Braxton State University - Dean Sterling\u2019s Office Dean Elise Sterling sat at her desk, Dr. Aris standing behind her. On her computer monitor, a video file labeled PORTERLUNASYRINX.mpg was playing\u2026"
                         }
                     ]
@@ -2591,7 +2591,7 @@
                             "reading_minutes": 15,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The air in Newport News was damp and cold, a wet chill that settled into the bones. The station itself was small\u2014a brick building at the end of the line, surrounded by a chain-link fence and the hum of idling\u2026"
                         },
                         {
@@ -2603,7 +2603,7 @@
                             "reading_minutes": 14,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The blizzard had arrived in earnest. Beyond the floor-to-ceiling windows of the hotel dining room, the world was erased. The Plaza, the Station, and the Ocean were gone, replaced by a swirling vortex of white\u2026"
                         },
                         {
@@ -2615,7 +2615,7 @@
                             "reading_minutes": 12,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The walk back from Lot 4B had been brutal. The wind had picked up, turning the snowfall into horizontal needles of ice. Leo\u2019s shoulders burned from pushing through the accumulating drifts on the sidewalk, even\u2026"
                         }
                     ]
@@ -2636,7 +2636,7 @@
                             "reading_minutes": 14,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The storm had broken in the middle of the night. Leo was the first one awake. He sat in his manual chair, parked directly in front of the floor-to-ceiling window of the suite. The curtains were thrown wide open\u2026"
                         },
                         {
@@ -2648,7 +2648,7 @@
                             "reading_minutes": 16,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The conference room of Iron Point Realty smelled of stale coffee and high-stakes tension. Outside, the snow from the blizzard was piled high against the windows, but the roads were clear enough for business. At\u2026"
                         },
                         {
@@ -2660,7 +2660,7 @@
                             "reading_minutes": 4,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The Fortress stood on the platform, waiting for ARTS The Patriot 95\u2014the southbound train to Newport News. They looked different than they had when they arrived a week ago. They were tired, grieving, and dressed\u2026"
                         }
                     ]
@@ -2681,7 +2681,7 @@
                             "reading_minutes": 14,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The conference room was familiar. It was the same room where they had planned the rescue from Delores, and where they had strategized the lawsuit. But today, the mood wasn't frantic; it was final. Sarah Jenkins\u2026"
                         },
                         {
@@ -2693,7 +2693,7 @@
                             "reading_minutes": 3,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "Having survived the dash across Warwick Boulevard, the Fortress stood on the concrete slab of the station grounds. The station building itself was an insult to architecture. It wasn't a \"Terminal\" or a\u2026"
                         }
                     ]
@@ -2703,18 +2703,18 @@
                     "chap_title": "The Landing",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer/the-landing",
                     "illustration_count": 0,
-                    "word_count": 5885,
+                    "word_count": 5886,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Landing",
                             "file_path": "e015/c005/p001.md",
                             "url": "/luna-leo/the-iron-point-transfer/the-landing/part-1-the-landing",
-                            "word_count": 553,
+                            "word_count": 555,
                             "reading_minutes": 3,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The silver ARTS The Patriot train hissed to a halt. The conductor deployed the bridge plate. \"Now arriving... Iron Point. Caution, gap.\" The Fortress stepped off. The air here was different than Virginia. Even\u2026"
                         },
                         {
@@ -2726,7 +2726,7 @@
                             "reading_minutes": 4,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The walk from the Grey Gull to Town Hall was a pleasant quarter-mile stroll under the summer maples. Leo pushed his manual chair, enjoying the smooth, flat sidewalks of his new hometown. They arrived at the Town\u2026"
                         },
                         {
@@ -2734,11 +2734,11 @@
                             "part_title": "Part 3: The Traffic Report & The Twin Frequency",
                             "file_path": "e015/c005/p003.md",
                             "url": "/luna-leo/the-iron-point-transfer/the-landing/part-3-the-traffic-report-the-twin-frequency",
-                            "word_count": 3759,
+                            "word_count": 3758,
                             "reading_minutes": 16,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "Back at their temporary base camp, the mood was light. The legal hurdles were cleared. They were officially residents. Stella opened her laptop on the kitchenette table. She pulled up the Hercules Van Lines\u2026"
                         },
                         {
@@ -2750,7 +2750,7 @@
                             "reading_minutes": 4,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The moving truck had finally arrived. The crew from Hercules Van Lines was hauling boxes into the house. Inside the living room, the chaos of the move\u2014the banging of dollies, the shouting of movers\u2014had triggered\u2026"
                         }
                     ]
@@ -2771,7 +2771,7 @@
                             "reading_minutes": 15,
                             "date": "2004-09-18",
                             "start_time": "07:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The morning was bright and humid, a typical New England summer day. The Fortress stood before the bank of orange-and-silver BTA Ticket Vending Machines in the open-air waiting area. They didn't have their BSU\u2026"
                         },
                         {
@@ -2783,7 +2783,7 @@
                             "reading_minutes": 8,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The house was quiet. The afternoon sun filtered through the garden windows, but the living room was dim and cool. Leo was in a state of profound sensory exhaustion after the Aquarium trip. His nervous system was\u2026"
                         }
                     ]
@@ -2793,18 +2793,18 @@
                     "chap_title": "The Official Stamp",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer/the-official-stamp",
                     "illustration_count": 0,
-                    "word_count": 5086,
+                    "word_count": 5087,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Official Stamp & The Bill",
                             "file_path": "e015/c007/p001.md",
                             "url": "/luna-leo/the-iron-point-transfer/the-official-stamp/part-1-the-official-stamp-the-bill",
-                            "word_count": 3757,
+                            "word_count": 3759,
                             "reading_minutes": 16,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The Department of Motor Vehicles in Oakhaven was a low brick building next to the courthouse. It smelled of floor wax and anxiety. The Fortress took up a row of plastic chairs. They weren't just there for a\u2026"
                         },
                         {
@@ -2812,11 +2812,11 @@
                             "part_title": "Part 2: The Textbook Run & The Last Mile Problem",
                             "file_path": "e015/c007/p002.md",
                             "url": "/luna-leo/the-iron-point-transfer/the-official-stamp/part-2-the-textbook-run-the-last-mile-problem",
-                            "word_count": 1329,
+                            "word_count": 1328,
                             "reading_minutes": 6,
                             "date": "2004-09-18",
                             "start_time": "10:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The Bursar's office had been quiet, but the Bookstore was a war zone. The line for the \"Textbook Counter\" snaked through the aisles of sweatshirts and mugs. This wasn't a browse-and-shop situation; it was a\u2026"
                         }
                     ]
@@ -2837,7 +2837,7 @@
                             "reading_minutes": 15,
                             "date": "2004-09-18",
                             "start_time": "07:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The morning was perfect\u2014bright, clear, and smelling of the sea. The Fortress stood on the platform, ready for their first cross-border expedition since moving in. The Team: - Stella: The General\u2026"
                         },
                         {
@@ -2849,7 +2849,7 @@
                             "reading_minutes": 3,
                             "date": "2004-09-18",
                             "start_time": "21:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "Eleanor Bennett sat in her armchair by the bay window, looking out at the dark garden. The lights of the South Shore Line train flickered through the trees as it headed toward the station\u2014the 9:30 PM Local. She\u2026"
                         }
                     ]
@@ -2861,7 +2861,7 @@
             "era_title": "Finding a New House",
             "era_url": "/raggiesoft-books/books/luna-leo/finding-a-new-house",
             "illustration_count": 0,
-            "word_count": 19295,
+            "word_count": 19292,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2879,7 +2879,7 @@
                             "reading_minutes": 3,
                             "date": "2004-09-18",
                             "start_time": "05:30",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "The alarm on Olivia\u2019s phone chirped\u2014a soft, ascending chime designed not to startle. In the dim light of the bedroom, the pile on the Queen bed shifted. Leo was in the middle, the anchor. He woke up slowly\u2026"
                         },
                         {
@@ -2937,14 +2937,14 @@
                     "chap_title": "The Green Room",
                     "chap_url": "/raggiesoft-books/books/luna-leo/finding-a-new-house/the-green-room",
                     "illustration_count": 0,
-                    "word_count": 9083,
+                    "word_count": 9080,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Green Room & The Jurisdiction Trap",
                             "file_path": "e016/c002/p001.md",
                             "url": "/luna-leo/finding-a-new-house/the-green-room/part-1-the-green-room-the-jurisdiction-trap",
-                            "word_count": 3231,
+                            "word_count": 3230,
                             "reading_minutes": 13,
                             "date": "2004-09-20",
                             "start_time": "08:00",
@@ -2968,11 +2968,11 @@
                             "part_title": "Part 3: The Plastic Anchor & The Maiden Voyage",
                             "file_path": "e016/c002/p003.md",
                             "url": "/luna-leo/finding-a-new-house/the-green-room/part-3-the-plastic-anchor-the-maiden-voyage",
-                            "word_count": 2132,
+                            "word_count": 2130,
                             "reading_minutes": 9,
                             "date": "2004-09-18",
                             "start_time": "07:00",
-                            "location": "8 Ocean View Lane, Iron Point, RI",
+                            "location": "Ocean View Lane, Iron Point, RI",
                             "excerpt": "\"Transaction?\" Brenda asked. \"New License,\" Stella said. \"And a legal name change.\" Stella slid the paperwork across the counter: 1. The Court Order (Signed by Judge Miller). Sarah Halloway to Maya Steele\u2026"
                         }
                     ]

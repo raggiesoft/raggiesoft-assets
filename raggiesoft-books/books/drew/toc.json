@@ -13,17 +13,17 @@
         "text_epub": "72 KB",
         "text_pdf": "201 KB",
         "package_7z": "56 KB",
-        "epub_bytes": 74037,
-        "pdf_bytes": 206051,
-        "text_epub_bytes": 74040,
-        "text_pdf_bytes": 206051,
-        "package_7z_bytes": 57793
+        "epub_bytes": 74038,
+        "pdf_bytes": 206049,
+        "text_epub_bytes": 74039,
+        "text_pdf_bytes": 206049,
+        "package_7z_bytes": 57801
     },
     "illustration_count": 0,
     "word_stats": {
-        "story_word_count": 28751,
+        "story_word_count": 28754,
         "lore_word_count": 3348,
-        "combined_word_count": 32099,
+        "combined_word_count": 32102,
         "story_page_count": 105,
         "combined_page_count": 117,
         "reading_hours": 1.9,
@@ -43,14 +43,14 @@
             "era_title": "Book 1: The Hospital Year",
             "era_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year",
             "illustration_count": 0,
-            "word_count": 23240,
+            "word_count": 23243,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Dojang Incident",
                     "chap_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-1-the-dojang-incident",
                     "illustration_count": 0,
-                    "word_count": 6345,
+                    "word_count": 6349,
                     "parts": [
                         {
                             "part_num": 1,
@@ -69,7 +69,7 @@
                             "part_title": "Part 2: The Payphone & The Paperwork",
                             "file_path": "e001/c001/p002.md",
                             "url": "/drew/book-1-the-hospital-year/chapter-1-the-dojang-incident/part-2-the-payphone-the-paperwork",
-                            "word_count": 2781,
+                            "word_count": 2785,
                             "reading_minutes": 12,
                             "date": "1995-08-17",
                             "start_time": "18:55",
@@ -83,14 +83,14 @@
                     "chap_title": "Chapter 2: The Aftermath",
                     "chap_url": "/raggiesoft-books/books/drew/book-1-the-hospital-year/chapter-2-the-aftermath",
                     "illustration_count": 0,
-                    "word_count": 5351,
+                    "word_count": 5350,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Post-Op & The Manifesto",
                             "file_path": "e001/c002/p001.md",
                             "url": "/drew/book-1-the-hospital-year/chapter-2-the-aftermath/part-1-post-op-the-manifesto",
-                            "word_count": 3482,
+                            "word_count": 3481,
                             "reading_minutes": 14,
                             "date": "1995-08-18",
                             "start_time": "01:30",

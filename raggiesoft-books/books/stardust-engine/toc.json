@@ -11,19 +11,19 @@
         "epub": "17.1 MB",
         "pdf": "18.8 MB",
         "text_epub": "185 KB",
-        "text_pdf": "562 KB",
+        "text_pdf": "561 KB",
         "package_7z": "140 KB",
-        "epub_bytes": 17922586,
-        "pdf_bytes": 19692283,
-        "text_epub_bytes": 189157,
-        "text_pdf_bytes": 575319,
-        "package_7z_bytes": 142917
+        "epub_bytes": 17922538,
+        "pdf_bytes": 19691323,
+        "text_epub_bytes": 189100,
+        "text_pdf_bytes": 573976,
+        "package_7z_bytes": 142856
     },
     "illustration_count": 25,
     "word_stats": {
-        "story_word_count": 65115,
+        "story_word_count": 65118,
         "lore_word_count": 26225,
-        "combined_word_count": 91340,
+        "combined_word_count": 91343,
         "story_page_count": 237,
         "combined_page_count": 332,
         "reading_hours": 4.3,
@@ -43,7 +43,7 @@
             "era_title": "Book 1: Analog Heart & Teenager in the Valley (1978\u20131989)",
             "era_url": "/raggiesoft-books/books/stardust-engine/book-1-analog-heart-teenager-in-the-valley-1978-1989",
             "illustration_count": 0,
-            "word_count": 6456,
+            "word_count": 6452,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -71,18 +71,18 @@
                     "chap_title": "Chapter 2: The Analog Years & The Sonic Signature (1979\u20131985)",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-1-analog-heart-teenager-in-the-valley-1978-1989/chapter-2-the-analog-years-the-sonic-signature-1979-1985",
                     "illustration_count": 0,
-                    "word_count": 2635,
+                    "word_count": 2631,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Analog Years & The Sonic Signature (1979\u20131985)",
                             "file_path": "e001/c002/p001.md",
                             "url": "/stardust-engine/book-1-analog-heart-teenager-in-the-valley-1978-1989/chapter-2-the-analog-years-the-sonic-signature-1979-1985/the-analog-years-the-sonic-signature-1979-1985",
-                            "word_count": 2635,
+                            "word_count": 2631,
                             "reading_minutes": 11,
                             "date": "1979-02-12",
                             "start_time": "05:45",
-                            "location": "124 Draper Road, 202 South Main Street & Progress Street NE, Blacksburg, VA",
+                            "location": "Draper Road, South Main Street & Progress Street NE, Blacksburg, VA",
                             "excerpt": "The house on Draper Road breathed in shifts. With ten people and one bathroom under a single roof, oxygen and floor space were finite resources. In the back bedroom, the air was heavy with the smell of sleep and\u2026"
                         }
                     ]
@@ -183,21 +183,21 @@
             "era_title": "Book 3: The Friction Narrative & The Warehouse Tapes (1992\u20131995)",
             "era_url": "/raggiesoft-books/books/stardust-engine/book-3-the-friction-narrative-the-warehouse-tapes-1992-1995",
             "illustration_count": 0,
-            "word_count": 4583,
+            "word_count": 4584,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Beverly Hills Mansion & The Hostage Photo (September 1992)",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-3-the-friction-narrative-the-warehouse-tapes-1992-1995/chapter-1-the-beverly-hills-mansion-the-hostage-photo-september-1992",
                     "illustration_count": 0,
-                    "word_count": 2432,
+                    "word_count": 2433,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Beverly Hills Mansion & The Hostage Photo (September 1992)",
                             "file_path": "e003/c001/p001.md",
                             "url": "/stardust-engine/book-3-the-friction-narrative-the-warehouse-tapes-1992-1995/chapter-1-the-beverly-hills-mansion-the-hostage-photo-september-1992/the-beverly-hills-mansion-the-hostage-photo-september-1992",
-                            "word_count": 2432,
+                            "word_count": 2433,
                             "reading_minutes": 10,
                             "date": "1992-09-18",
                             "start_time": "08:30",
@@ -570,7 +570,7 @@
             "era_title": "Book 7: The Nine-Figure Refusal & The Jessica Miller Center (2018\u20132019)",
             "era_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019",
             "illustration_count": 8,
-            "word_count": 17329,
+            "word_count": 17335,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -619,7 +619,7 @@
                             "date": "2018-09-14",
                             "start_time": "09:35",
                             "location": "Omni-Global HQ (Century City), Westwood, Santa Monica & Pacific Science Center, CA",
-                            "excerpt": "At 09:00 AM, the massive sixty-foot red-and-silver articulated LATA Rapid 720 bus thundered down Avenue of the Stars, scattering the quiet of the luxury valet driveway at 2000 Avenue of the Stars as it pulled to\u2026",
+                            "excerpt": "At 9:00 AM, the massive sixty-foot red-and-silver articulated LATA Rapid 720 bus thundered down Avenue of the Stars, scattering the quiet of the luxury valet driveway on Avenue of the Stars as it pulled to the\u2026",
                             "image": "/raggiesoft-books/images/scenes/stardust-engine/e007/c002/p001/150-million-refusal.jpg",
                             "image_alt": "Photorealistic boardroom scene in Conference Room A on the 40th floor of Omni-Global Media HQ in Century City showing 54-year-old Ryan O'Connell (with silver-grey hair, rectangular glasses, and trimmed greying beard, seated in his manual wheelchair wearing a midnight-blue The Stardust Engine polo), 51-year-old Cassidy O'Connell (in a matching midnight-blue polo and glasses), and 49-year-old Holly O'Connell (in a charcoal suit with the yellowed 1992 Clause 88 binder across from an OFFER contract folder), backed by 51-year-old identical twin cousins Evan (in a CPI maroon polo) and Tyler Wright (in a burnt-orange polo) with arms crossed facing three silver-haired corporate executives.",
                             "images": [
@@ -641,14 +641,14 @@
                     "chap_title": "Chapter 3: The Summit, The Retrofit & The Sting Operation (September 14\u201325, 2018)",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-3-the-summit-the-retrofit-the-sting-operation-september-14-25-2018",
                     "illustration_count": 1,
-                    "word_count": 4921,
+                    "word_count": 4922,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Summit, The Retrofit, The Sting & The ARTS Sleeper Problem (September 14\u201327, 2018)",
                             "file_path": "e007/c003/p001.md",
                             "url": "/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-3-the-summit-the-retrofit-the-sting-operation-september-14-25-2018/the-summit-the-retrofit-the-sting-the-arts-sleeper-problem-september-14-27-2018",
-                            "word_count": 4921,
+                            "word_count": 4922,
                             "reading_minutes": 20,
                             "date": "2018-09-14",
                             "start_time": "09:56",
@@ -671,33 +671,33 @@
                     "chap_title": "Chapter 4: The Jessica Miller Center & The Frost Interview (December 2018\u2013February 2019)",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-4-the-jessica-miller-center-the-frost-interview-december-2018-february-2019",
                     "illustration_count": 4,
-                    "word_count": 2601,
+                    "word_count": 2606,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Jessica Miller Center & The Frost Interview (December 2018\u2013February 2019)",
                             "file_path": "e007/c004/p001.md",
                             "url": "/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-4-the-jessica-miller-center-the-frost-interview-december-2018-february-2019/the-jessica-miller-center-the-frost-interview-december-2018-february-2019",
-                            "word_count": 2601,
+                            "word_count": 2606,
                             "reading_minutes": 11,
                             "date": "2019-02-14",
                             "start_time": "10:00",
-                            "location": "The Jessica Miller Center, 2000 Avenue of the Stars, Floors 38\u201340, Century City, Los Angeles, CA",
+                            "location": "The Jessica Miller Center, Avenue of the Stars, Floors 38\u201340, Century City, Los Angeles, CA",
                             "excerpt": "By mid-December 2018, the Delaware Bankruptcy Court had converted Omni-Global Media Corporation's Chapter 11 reorganization into a Chapter 7 liquidation (Case No. 18-11492). Back home on Progress Street NE in\u2026",
                             "image": "/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/frost-former-office-quiet-floor.jpg",
-                            "image_alt": "Photorealistic scene inside Jameson Frost's former 40th-floor corner office at 2000 Avenue of the Stars\u2014now reborn as Zone C of The Quiet Floor\u2014during a private tour ahead of the official ribbon-cutting, showing 20-year-old Executive Director Jessica Miller in her titanium manual wheelchair gesturing to introduce the room and Chief Systems Architect Justin Miller (holding his mPad Mini angled toward his own eyes with the solid unbranded aluminum back facing outward) alongside 51-year-old Cassidy O'Connell (resting her hand on Ryan's shoulder to ground herself as they smile at each other in front of the 12-foot living emerald moss and Boston fern wall), 54-year-old Ryan O'Connell in his matte-black manual wheelchair, 49-year-old Holly O'Connell holding her Florentine leather briefcase, and twin cousins Evan and Tyler Wright beneath the constellation pin-light ceiling.",
+                            "image_alt": "Photorealistic scene inside Jameson Frost's former 40th-floor corner office on Avenue of the Stars\u2014now reborn as Zone C of The Quiet Floor\u2014during a private tour ahead of the official ribbon-cutting, showing 20-year-old Executive Director Jessica Miller in her titanium manual wheelchair gesturing to introduce the room and Chief Systems Architect Justin Miller (holding his mPad Mini angled toward his own eyes with the solid unbranded aluminum back facing outward) alongside 51-year-old Cassidy O'Connell (resting her hand on Ryan's shoulder to ground herself as they smile at each other in front of the 12-foot living emerald moss and Boston fern wall), 54-year-old Ryan O'Connell in his matte-black manual wheelchair, 49-year-old Holly O'Connell holding her Florentine leather briefcase, and twin cousins Evan and Tyler Wright beneath the constellation pin-light ceiling.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/frost-former-office-quiet-floor.jpg",
-                                    "alt": "Photorealistic scene inside Jameson Frost's former 40th-floor corner office at 2000 Avenue of the Stars\u2014now reborn as Zone C of The Quiet Floor\u2014during a private tour ahead of the official ribbon-cutting, showing 20-year-old Executive Director Jessica Miller in her titanium manual wheelchair gesturing to introduce the room and Chief Systems Architect Justin Miller (holding his mPad Mini angled toward his own eyes with the solid unbranded aluminum back facing outward) alongside 51-year-old Cassidy O'Connell (resting her hand on Ryan's shoulder to ground herself as they smile at each other in front of the 12-foot living emerald moss and Boston fern wall), 54-year-old Ryan O'Connell in his matte-black manual wheelchair, 49-year-old Holly O'Connell holding her Florentine leather briefcase, and twin cousins Evan and Tyler Wright beneath the constellation pin-light ceiling."
+                                    "alt": "Photorealistic scene inside Jameson Frost's former 40th-floor corner office on Avenue of the Stars\u2014now reborn as Zone C of The Quiet Floor\u2014during a private tour ahead of the official ribbon-cutting, showing 20-year-old Executive Director Jessica Miller in her titanium manual wheelchair gesturing to introduce the room and Chief Systems Architect Justin Miller (holding his mPad Mini angled toward his own eyes with the solid unbranded aluminum back facing outward) alongside 51-year-old Cassidy O'Connell (resting her hand on Ryan's shoulder to ground herself as they smile at each other in front of the 12-foot living emerald moss and Boston fern wall), 54-year-old Ryan O'Connell in his matte-black manual wheelchair, 49-year-old Holly O'Connell holding her Florentine leather briefcase, and twin cousins Evan and Tyler Wright beneath the constellation pin-light ceiling."
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/jessica-miller.jpg",
-                                    "alt": "Twenty-year-old Executive Director Jessica Miller seated comfortably in her titanium manual wheelchair wearing blue jeans, sneakers, black-framed glasses, and a black The Stardust Engine t-shirt, holding her mPad angled toward herself in front of the warm cork-paneled wall reading 'The Jessica Miller Center.' on Floor 38 of 2000 Avenue of the Stars in Century City, Los Angeles."
+                                    "alt": "Twenty-year-old Executive Director Jessica Miller seated comfortably in her titanium manual wheelchair wearing blue jeans, sneakers, black-framed glasses, and a black The Stardust Engine t-shirt, holding her mPad angled toward herself in front of the warm cork-paneled wall reading 'The Jessica Miller Center.' on Floor 38 of the Avenue of the Stars tower in Century City, Los Angeles."
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/justin-server-rom.jpg",
-                                    "alt": "Chief Systems Architect Justin Miller standing inside the 19th-floor server room at 2000 Avenue of the Stars wearing his black The Stardust Engine t-shirt and glasses, inspecting network diagnostics on his mPad Mini angled toward his own eyes with the solid unbranded aluminum back facing outward."
+                                    "alt": "Chief Systems Architect Justin Miller standing inside the 19th-floor server room of the Avenue of the Stars tower wearing his black The Stardust Engine t-shirt and glasses, inspecting network diagnostics on his mPad Mini angled toward his own eyes with the solid unbranded aluminum back facing outward."
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/stardust-engine/e007/c004/p001/frost-interview.jpg",

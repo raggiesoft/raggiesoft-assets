@@ -13,17 +13,17 @@
         "text_epub": "77 KB",
         "text_pdf": "5.3 MB",
         "package_7z": "60 KB",
-        "epub_bytes": 79117,
-        "pdf_bytes": 5514637,
-        "text_epub_bytes": 79119,
-        "text_pdf_bytes": 5514641,
-        "package_7z_bytes": 60968
+        "epub_bytes": 79116,
+        "pdf_bytes": 5514555,
+        "text_epub_bytes": 79111,
+        "text_pdf_bytes": 5514555,
+        "package_7z_bytes": 60953
     },
     "illustration_count": 0,
     "word_stats": {
-        "story_word_count": 29911,
+        "story_word_count": 29910,
         "lore_word_count": 138,
-        "combined_word_count": 30049,
+        "combined_word_count": 30048,
         "story_page_count": 109,
         "combined_page_count": 109,
         "reading_hours": 2,
@@ -43,7 +43,7 @@
             "era_title": "The Anchor",
             "era_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor",
             "illustration_count": 0,
-            "word_count": 27340,
+            "word_count": 27339,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -194,17 +194,17 @@
                     "chap_title": "Inside Infinite Loop",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/inside-infinite-loop",
                     "illustration_count": 0,
-                    "word_count": 4091,
+                    "word_count": 4090,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Company Policy \ud83d\udccb & The Right Tool for the Job \ud83c\udf7d\ufe0f",
                             "file_path": "e001/c007/p001.md",
                             "url": "/quantum-directive-2-kelly/the-anchor/inside-infinite-loop/part-1-company-policy-the-right-tool-for-the-job",
-                            "word_count": 3571,
+                            "word_count": 3570,
                             "reading_minutes": 15,
                             "location": "Unknown",
-                            "excerpt": "The dark blue Stark Rancher van glided to a smooth stop in front of the main building of the MagnaByte campus. Ryan and Kelly stared in silence at the iconic, curved glass facade of 1 Infinite Loop. \"Welcome\u2026"
+                            "excerpt": "The dark blue Stark Rancher van glided to a smooth stop in front of the main building of the MagnaByte campus. Ryan and Kelly stared in silence at the iconic, curved glass facade on Endless Circuit. \"Welcome\u2026"
                         },
                         {
                             "part_num": 2,

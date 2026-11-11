@@ -13,17 +13,17 @@
         "text_epub": "657 KB",
         "text_pdf": "1.7 MB",
         "package_7z": "452 KB",
-        "epub_bytes": 673146,
-        "pdf_bytes": 1801711,
-        "text_epub_bytes": 673144,
-        "text_pdf_bytes": 1801711,
-        "package_7z_bytes": 463315
+        "epub_bytes": 673134,
+        "pdf_bytes": 1801706,
+        "text_epub_bytes": 673134,
+        "text_pdf_bytes": 1801706,
+        "package_7z_bytes": 463297
     },
     "illustration_count": 0,
     "word_stats": {
-        "story_word_count": 275129,
+        "story_word_count": 275128,
         "lore_word_count": 30798,
-        "combined_word_count": 305927,
+        "combined_word_count": 305926,
         "story_page_count": 1000,
         "combined_page_count": 1112,
         "reading_hours": 18.3,
@@ -1066,7 +1066,7 @@
             "era_title": "A Fresh Start",
             "era_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start",
             "illustration_count": 0,
-            "word_count": 29023,
+            "word_count": 29022,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1169,14 +1169,14 @@
                     "chap_title": "The Apartment Hunt",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/a-fresh-start/the-apartment-hunt",
                     "illustration_count": 0,
-                    "word_count": 5403,
+                    "word_count": 5402,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Excitement and the Learning Curve & The Discovery",
                             "file_path": "e009/c005/p001.md",
                             "url": "/alex-chloe/a-fresh-start/the-apartment-hunt/part-1-the-excitement-and-the-learning-curve-the-discovery",
-                            "word_count": 3268,
+                            "word_count": 3267,
                             "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The next morning was a beautiful Saturday without a cloud in the sky. When Alex, Chlo\u00e9, and Megan walked into the Millers' kitchen, they found all four parents already gathered around the dining table. But\u2026"
