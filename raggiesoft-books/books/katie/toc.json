@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "51.1 MB",
-        "pdf": "46.7 MB",
-        "text_epub": "561 KB",
+        "epub": "51.3 MB",
+        "pdf": "46.8 MB",
+        "text_epub": "569 KB",
         "text_pdf": "1.5 MB",
-        "package_7z": "420 KB",
-        "epub_bytes": 53579134,
-        "pdf_bytes": 48921432,
-        "text_epub_bytes": 573995,
-        "text_pdf_bytes": 1573319,
-        "package_7z_bytes": 430080
+        "package_7z": "426 KB",
+        "epub_bytes": 53815593,
+        "pdf_bytes": 49039349,
+        "text_epub_bytes": 582660,
+        "text_pdf_bytes": 1598010,
+        "package_7z_bytes": 436124
     },
-    "illustration_count": 120,
+    "illustration_count": 121,
     "word_stats": {
-        "story_word_count": 239982,
-        "lore_word_count": 59606,
-        "combined_word_count": 299588,
-        "story_page_count": 873,
-        "combined_page_count": 1089,
-        "reading_hours": 16,
-        "reading_minutes": 960,
+        "story_word_count": 243465,
+        "lore_word_count": 60398,
+        "combined_word_count": 303863,
+        "story_page_count": 885,
+        "combined_page_count": 1105,
+        "reading_hours": 16.2,
+        "reading_minutes": 974,
         "novel_equivalent": 2.7,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
         "benchmark_note": "2.7\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
         "era_count": 11,
         "chapter_count": 36,
-        "part_count": 89,
-        "illustration_count": 120
+        "part_count": 90,
+        "illustration_count": 121
     },
     "eras": [
         {
@@ -1965,15 +1965,15 @@
             "era_num": 11,
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
-            "illustration_count": 31,
-            "word_count": 62342,
+            "illustration_count": 32,
+            "word_count": 65825,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Election Night, The Decision Desk Call, & The Referendum Mandate",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate",
-                    "illustration_count": 4,
-                    "word_count": 11738,
+                    "illustration_count": 5,
+                    "word_count": 15164,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2026,7 +2026,7 @@
                             "part_title": "Part 3: U.S. Senate New Member Orientation, Senator Tess Dunmore's Ramp, & Making the Vice President Swear Her In",
                             "file_path": "e011/c001/p003.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-3-u-s-senate-new-member-orientation-senator-tess-dunmore-s-ramp-making-the-vice-president-swear-her-in",
-                            "word_count": 6198,
+                            "word_count": 6201,
                             "reading_minutes": 25,
                             "date": "2026-11-16",
                             "start_time": "08:45",
@@ -2038,6 +2038,27 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b006/jan_2027_capitol_south_elevator_plaza_arrival_katie_nate_david.jpg",
                                     "alt": "Arriving on Capitol Hill via the Capitol South Capital Transit elevator in their black motorized SwiftChair power wheelchairs with their father David walking beside them, 41-year-old U.S. Senator-Elect Katie Prairie and her twin brother Nate roll past the chartered VIP motorcoaches toward the Russell and Dirksen Senate Office Buildings for New Member Orientation."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Opposing Leader Schuman, The 211\u2013204 Lame-Duck False Dawn in the Dirksen Basement, & Home Across the Fenwick Bridge",
+                            "file_path": "e011/c001/p004.md",
+                            "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-4-opposing-leader-schuman-the-211-204-lame-duck-false-dawn-in-the-dirksen-basement-home-across-the-fenwick-bridge",
+                            "word_count": 3423,
+                            "reading_minutes": 14,
+                            "date": "2026-12-01",
+                            "start_time": "10:30",
+                            "location": "Washington, D.C. & Alexandria, VA (The U.S. Capitol, Dirksen Basement Transition Suite SD-B14, Charles R. Fenwick Bridge, & Sunset Drive)",
+                            "excerpt": "Senator-Elect Katie Prairie opposes Leader Charles Schuman, watches SecDef Halverson survive a 211-204 vote, and rides home over the Fenwick Bridge.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/dec_2026_dirksen_basement_transition_211_204_vote_katie_nate.jpg",
+                            "image_alt": "Inside their cramped, windowless basement Senator-Elect transition cubicle in the Dirksen Senate Office Building surrounded by unpacked cardboard boxes of Senate procedure manuals and stacks of staff applications, 41-year-old Senator-Elect Katie Prairie and her twin brother Nate sit side by side in their compact silver-and-black motorized SwiftChair power wheelchairs holding hands as they watch a muted split-screen broadcast of the 211-to-204 House impeachment referral vote and Defense Secretary Bret Halverson's premature Pentagon victory press conference.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/dec_2026_dirksen_basement_transition_211_204_vote_katie_nate.jpg",
+                                    "alt": "Inside their cramped, windowless basement Senator-Elect transition cubicle in the Dirksen Senate Office Building surrounded by unpacked cardboard boxes of Senate procedure manuals and stacks of staff applications, 41-year-old Senator-Elect Katie Prairie and her twin brother Nate sit side by side in their compact silver-and-black motorized SwiftChair power wheelchairs holding hands as they watch a muted split-screen broadcast of the 211-to-204 House impeachment referral vote and Defense Secretary Bret Halverson's premature Pentagon victory press conference."
                                 }
                             ],
                             "image_count": 1
@@ -2246,14 +2267,14 @@
                     "chap_title": "The Norfolk Carrier Leak, Suite 756 at Timberline Shopping Center, & Three Convictions in the Senate",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/the-norfolk-carrier-leak-suite-756-at-timberline-shopping-center-three-convictions-in-the-senate",
                     "illustration_count": 7,
-                    "word_count": 12221,
+                    "word_count": 12278,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The South Lawn Tirade, The Norfolk Carrier Leak, & Why the Order of the Trials Matters",
                             "file_path": "e011/c004/p001.md",
                             "url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-suite-756-at-timberline-shopping-center-three-convictions-in-the-senate/part-1-the-south-lawn-tirade-the-norfolk-carrier-leak-why-the-order-of-the-trials-matters",
-                            "word_count": 2360,
+                            "word_count": 2416,
                             "reading_minutes": 10,
                             "date": "2027-03-18",
                             "start_time": "10:15",
@@ -2307,7 +2328,7 @@
                             "part_title": "Part 3: The Words of Mason, Madison, and Lincoln, Three Guilty Votes, & From Capitol Police Protection Back to Normal Life at Pleasure House Road",
                             "file_path": "e011/c004/p003.md",
                             "url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-suite-756-at-timberline-shopping-center-three-convictions-in-the-senate/part-3-the-words-of-mason-madison-and-lincoln-three-guilty-votes-from-capitol-police-protection-back-to-normal-life-at-pleasure-house-road",
-                            "word_count": 5193,
+                            "word_count": 5194,
                             "reading_minutes": 21,
                             "date": "2027-07-17",
                             "start_time": "13:30",
