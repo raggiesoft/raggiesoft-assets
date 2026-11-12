@@ -13,17 +13,17 @@
         "text_epub": "1.1 MB",
         "text_pdf": "3.1 MB",
         "package_7z": "789 KB",
-        "epub_bytes": 79791575,
-        "pdf_bytes": 84152377,
-        "text_epub_bytes": 1167217,
-        "text_pdf_bytes": 3253698,
-        "package_7z_bytes": 807571
+        "epub_bytes": 79791558,
+        "pdf_bytes": 84152362,
+        "text_epub_bytes": 1167206,
+        "text_pdf_bytes": 3253687,
+        "package_7z_bytes": 807558
     },
     "illustration_count": 131,
     "word_stats": {
-        "story_word_count": 498553,
+        "story_word_count": 498551,
         "lore_word_count": 78061,
-        "combined_word_count": 576614,
+        "combined_word_count": 576612,
         "story_page_count": 1813,
         "combined_page_count": 2097,
         "reading_hours": 33.2,
@@ -2928,7 +2928,7 @@
             "era_title": "A Few Small Repairs",
             "era_url": "/raggiesoft-books/books/rachel/a-few-small-repairs",
             "illustration_count": 4,
-            "word_count": 41697,
+            "word_count": 41695,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2966,7 +2966,7 @@
                     "chap_title": "The Financial Extraction",
                     "chap_url": "/raggiesoft-books/books/rachel/a-few-small-repairs/the-financial-extraction",
                     "illustration_count": 4,
-                    "word_count": 12408,
+                    "word_count": 12406,
                     "parts": [
                         {
                             "part_num": 1,
@@ -3013,7 +3013,7 @@
                             "part_title": "Part 3: The Crossway Matinee & Bug and Bear",
                             "file_path": "e017/c002/p003.md",
                             "url": "/rachel/a-few-small-repairs/the-financial-extraction/part-3-the-crossway-matinee-bug-and-bear",
-                            "word_count": 3786,
+                            "word_count": 3784,
                             "reading_minutes": 16,
                             "date": "2006-11-22",
                             "start_time": "13:15",
