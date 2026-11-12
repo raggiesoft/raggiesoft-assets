@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "57.2 MB",
-        "pdf": "53.3 MB",
-        "text_epub": "617 KB",
-        "text_pdf": "1.6 MB",
-        "package_7z": "461 KB",
-        "epub_bytes": 60027463,
-        "pdf_bytes": 55922081,
-        "text_epub_bytes": 631752,
-        "text_pdf_bytes": 1728861,
-        "package_7z_bytes": 471955
+        "epub": "58 MB",
+        "pdf": "53.7 MB",
+        "text_epub": "627 KB",
+        "text_pdf": "1.7 MB",
+        "package_7z": "469 KB",
+        "epub_bytes": 60807110,
+        "pdf_bytes": 56285930,
+        "text_epub_bytes": 641922,
+        "text_pdf_bytes": 1756502,
+        "package_7z_bytes": 479785
     },
-    "illustration_count": 129,
+    "illustration_count": 132,
     "word_stats": {
-        "story_word_count": 263513,
-        "lore_word_count": 65682,
-        "combined_word_count": 329195,
-        "story_page_count": 958,
-        "combined_page_count": 1197,
-        "reading_hours": 17.6,
-        "reading_minutes": 1054,
-        "novel_equivalent": 2.9,
+        "story_word_count": 267438,
+        "lore_word_count": 66434,
+        "combined_word_count": 333872,
+        "story_page_count": 973,
+        "combined_page_count": 1214,
+        "reading_hours": 17.8,
+        "reading_minutes": 1070,
+        "novel_equivalent": 3,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
-        "benchmark_note": "2.9\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
+        "benchmark_note": "3.0\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
         "era_count": 11,
         "chapter_count": 39,
-        "part_count": 97,
-        "illustration_count": 129
+        "part_count": 99,
+        "illustration_count": 132
     },
     "eras": [
         {
@@ -1731,8 +1731,8 @@
             "era_num": 9,
             "era_title": "The Gentlewoman from Virginia Beach: The House of Delegates",
             "era_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates",
-            "illustration_count": 9,
-            "word_count": 30661,
+            "illustration_count": 12,
+            "word_count": 34463,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1848,8 +1848,8 @@
                     "chap_num": 3,
                     "chap_title": "House Bill 663 & Live on Meet the Nation",
                     "chap_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation",
-                    "illustration_count": 3,
-                    "word_count": 19513,
+                    "illustration_count": 6,
+                    "word_count": 23315,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1878,24 +1878,70 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Transit Legislative Day with Michael & Rachel, Two Meltdowns in Room 518, & The 6:05 AM Train to Meet the Nation",
+                            "part_title": "Part 2: Transit Legislative Day in Room 518, The Six-O'Clock News, & Two Meltdowns Answered by Page Forty-Two",
                             "file_path": "e009/c003/p002.md",
-                            "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-2-transit-legislative-day-with-michael-rachel-two-meltdowns-in-room-518-the-6-05-am-train-to-meet-the-nation",
-                            "word_count": 14269,
-                            "reading_minutes": 58,
+                            "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-2-transit-legislative-day-in-room-518-the-six-o-clock-news-two-meltdowns-answered-by-page-forty-two",
+                            "word_count": 7542,
+                            "reading_minutes": 31,
                             "date": "2016-02-04",
                             "start_time": "14:15",
-                            "location": "Richmond, VA, Alexandria, VA, & Washington, D.C. (Room 518, Charles R. Fenwick Bridge, & GBS Washington Bureau)",
-                            "excerpt": "After welcoming old friends Michael and Rachel Ragsdale to Room 518 on Virginia Transit Legislative Day, a polite Friday morning phone call from Meet the Nation sets off a staffer outburst in the hallway and a dual autistic meltdown\u2014until both floor leaders and the Majority Leader's autistic House Page triplets step in.",
-                            "image": "/raggiesoft-books/images/scenes/katie/b005/feb_2016_gbs_richmond_studio_meet_the_nation_live_interview_katie_nate.jpg",
-                            "image_alt": "Inside the GBS News Washington bureau studio on Sunday morning, February 7, 2016, 30-year-old Delegate Katie Prairie sits in her black motorized SwiftChair power wheelchair in a wide camera frame in front of an illuminated Virginia State Capitol backdrop for a live national interview on Meet the Nation, while twin brother Nate monitors the broadcast from his SwiftChair beside the studio confidence monitor.",
+                            "location": "Richmond, VA (Room 518 of the General Assembly Building & Broad & Boulevard Lofts)",
+                            "excerpt": "After welcoming old friends to Room 518 on Virginia Transit Legislative Day and seeing Katie's floor clip lead the evening news, a polite Friday call from Meet the Nation sets off a staffer outburst and a dual autistic meltdown\u2014until both floor leaders and the House Page triplets step in.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/feb_2016_room_518_triplets_and_floor_leaders_reassurance.jpg",
+                            "image_alt": "Inside wood-paneled Room 518 of the Virginia General Assembly Building on Friday morning, February 5, 2016, 30-year-old Delegate Katie Prairie and her twin brother Nate sit side by side in their black-and-silver motorized SwiftChair power wheelchairs holding inner hands across their armrests and smiling with warm relief as Republican Majority Leader Richard Callaway, Democratic Minority Leader Tom Toscano, and 13-year-old eighth-grade House Page triplets Sam, Mandy, and Sarah Hawkins stand before them with yellow transportation bill folders.",
                             "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/feb_2016_room_518_triplets_and_floor_leaders_reassurance.jpg",
+                                    "alt": "Inside wood-paneled Room 518 of the Virginia General Assembly Building on Friday morning, February 5, 2016, 30-year-old Delegate Katie Prairie and her twin brother Nate sit side by side in their black-and-silver motorized SwiftChair power wheelchairs holding inner hands across their armrests and smiling with warm relief as Republican Majority Leader Richard Callaway, Democratic Minority Leader Tom Toscano, and 13-year-old eighth-grade House Page triplets Sam, Mandy, and Sarah Hawkins stand before them with yellow transportation bill folders."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Hold the Elevator!, Reuniting With Cousin Brittany in Room 518, Friday Night on JRTC Route 6, & Why Nate Must Speak",
+                            "file_path": "e009/c003/p003.md",
+                            "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-3-hold-the-elevator-reuniting-with-cousin-brittany-in-room-518-friday-night-on-jrtc-route-6-why-nate-must-speak",
+                            "word_count": 4657,
+                            "reading_minutes": 19,
+                            "date": "2016-02-05",
+                            "start_time": "13:15",
+                            "location": "Richmond, VA (General Assembly Building Elevator Lobby, Room 518, JRTC Route 6 to Oak Lawn Diner, & Broad & Boulevard Lofts)",
+                            "excerpt": "Shouting 'Hold the elevator!' in the General Assembly Building lobby brings Katie and Nate face-to-face with estranged cousin Brittany Fletcher\u2014who tearfully begs them in Room 518 to speak up at tomorrow's South Richmond wedding so she can escape abusive Tyler.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/feb_2016_gab_elevator_hold_reunion_brittany_katie_nate.jpg",
+                            "image_alt": "In the marble ground-floor elevator lobby of the Virginia General Assembly Building at 1:15 PM on Friday, February 5, 2016, 30-year-old cousin Brittany Fletcher\u2014with a heavy-set build, thin silver wire-rimmed oval glasses, and medium-blonde hair in a plum sweater under an open dark winter coat\u2014holds the open brass elevator door with her left hand in breathless astonishment as 30-year-old Delegate Katie Prairie and her twin brother Nate roll toward the cab side by side in their motorized SwiftChair power wheelchairs, looking up at Brittany in wide-eyed shock.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/feb_2016_gab_elevator_hold_reunion_brittany_katie_nate.jpg",
+                                    "alt": "In the marble ground-floor elevator lobby of the Virginia General Assembly Building at 1:15 PM on Friday, February 5, 2016, 30-year-old cousin Brittany Fletcher\u2014with a heavy-set build, thin silver wire-rimmed oval glasses, and medium-blonde hair in a plum sweater under an open dark winter coat\u2014holds the open brass elevator door with her left hand in breathless astonishment as 30-year-old Delegate Katie Prairie and her twin brother Nate roll toward the cab side by side in their motorized SwiftChair power wheelchairs, looking up at Brittany in wide-eyed shock."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Via Southside Plaza, Speaking Up at the Altar, Taking Brittany to Meet the Nation, & Left Onto Macgregory Street",
+                            "file_path": "e009/c003/p004.md",
+                            "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-4-via-southside-plaza-speaking-up-at-the-altar-taking-brittany-to-meet-the-nation-left-onto-macgregory-street",
+                            "word_count": 5872,
+                            "reading_minutes": 24,
+                            "date": "2016-02-06",
+                            "start_time": "13:10",
+                            "location": "South Richmond, Downtown Richmond, Alexandria, Washington, D.C., & Virginia Beach, VA",
+                            "excerpt": "While Katie stays silent so tabloids cannot accuse her of a legislative stunt, Nate rides JRTC via Southside Plaza to object at Brittany's wedding\u2014before taking Brittany to Washington for Meet the Nation and learning of Tyler's blind-rage school-bus crash on Lions Way.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/feb_2016_south_richmond_church_nate_i_object_brittany_katie.jpg",
+                            "image_alt": "Inside an austere red-brick South Richmond church sanctuary on Saturday afternoon, February 6, 2016, 30-year-old Nathaniel Prairie leans forward in his black-and-silver motorized SwiftChair power wheelchair raising his left hand and calling out 'I object!' while twin sister Katie sits completely silent beside him with her mouth closed in a plain dark navy cardigan; up at the chancel steps, heavy-set cousin Brittany Fletcher in her thin silver wire-rimmed oval glasses and modest ivory dress turns toward Nate in tearful relief as groom Tyler glares back and the silver-haired officiant raises a hand to halt the ceremony.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/feb_2016_south_richmond_church_nate_i_object_brittany_katie.jpg",
+                                    "alt": "Inside an austere red-brick South Richmond church sanctuary on Saturday afternoon, February 6, 2016, 30-year-old Nathaniel Prairie leans forward in his black-and-silver motorized SwiftChair power wheelchair raising his left hand and calling out 'I object!' while twin sister Katie sits completely silent beside him with her mouth closed in a plain dark navy cardigan; up at the chancel steps, heavy-set cousin Brittany Fletcher in her thin silver wire-rimmed oval glasses and modest ivory dress turns toward Nate in tearful relief as groom Tyler glares back and the silver-haired officiant raises a hand to halt the ceremony."
+                                },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/feb_2016_gbs_richmond_studio_meet_the_nation_live_interview_katie_nate.jpg",
                                     "alt": "Inside the GBS News Washington bureau studio on Sunday morning, February 7, 2016, 30-year-old Delegate Katie Prairie sits in her black motorized SwiftChair power wheelchair in a wide camera frame in front of an illuminated Virginia State Capitol backdrop for a live national interview on Meet the Nation, while twin brother Nate monitors the broadcast from his SwiftChair beside the studio confidence monitor."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         }
                     ]
                 }
@@ -1906,21 +1952,21 @@
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
             "illustration_count": 8,
-            "word_count": 17489,
+            "word_count": 17498,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Watching Senator Ward Kill Our Bills Across the Rotunda & The 250-Signature Petition",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition",
                     "illustration_count": 2,
-                    "word_count": 2323,
+                    "word_count": 2332,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Watching Senator Ward Kill Our Bills Across the Rotunda, Brainstorming the 7th Senate District with Dad, & The 250-Signature Rule",
                             "file_path": "e010/c001/p001.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition/watching-senator-ward-kill-our-bills-across-the-rotunda-brainstorming-the-7th-senate-district-with-dad-the-250-signature-rule",
-                            "word_count": 2323,
+                            "word_count": 2332,
                             "reading_minutes": 10,
                             "date": "2018-02-22",
                             "start_time": "15:10",
@@ -2093,7 +2139,7 @@
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 34,
-            "word_count": 73492,
+            "word_count": 73606,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2542,14 +2588,14 @@
                     "chap_title": "Three Senate Terms, Refusing the 2044 Nomination, & The Stop #0812 Four-Seat Presidential Endorsement Loop",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop",
                     "illustration_count": 5,
-                    "word_count": 13090,
+                    "word_count": 13204,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Refusing the 2045 Presidency From Home, Five Statutory Shields Against the Bubble, & Out of the Closet Into Our Four-Person Nest",
                             "file_path": "e011/c007/p001.md",
                             "url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/part-1-refusing-the-2045-presidency-from-home-five-statutory-shields-against-the-bubble-out-of-the-closet-into-our-four-person-nest",
-                            "word_count": 3068,
+                            "word_count": 3182,
                             "reading_minutes": 13,
                             "date": "2043-10-24",
                             "start_time": "16:30",
