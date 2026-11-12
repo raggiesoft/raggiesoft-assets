@@ -13,21 +13,21 @@
         "text_epub": "617 KB",
         "text_pdf": "1.6 MB",
         "package_7z": "461 KB",
-        "epub_bytes": 60028558,
-        "pdf_bytes": 55921883,
-        "text_epub_bytes": 631462,
-        "text_pdf_bytes": 1728336,
-        "package_7z_bytes": 471599
+        "epub_bytes": 60027463,
+        "pdf_bytes": 55922081,
+        "text_epub_bytes": 631752,
+        "text_pdf_bytes": 1728861,
+        "package_7z_bytes": 471955
     },
     "illustration_count": 129,
     "word_stats": {
-        "story_word_count": 263352,
-        "lore_word_count": 65606,
-        "combined_word_count": 328958,
+        "story_word_count": 263513,
+        "lore_word_count": 65682,
+        "combined_word_count": 329195,
         "story_page_count": 958,
-        "combined_page_count": 1196,
+        "combined_page_count": 1197,
         "reading_hours": 17.6,
-        "reading_minutes": 1053,
+        "reading_minutes": 1054,
         "novel_equivalent": 2.9,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
@@ -146,7 +146,7 @@
             "era_title": "The Blizzard of '96, Middle School, & Freshman Year",
             "era_url": "/raggiesoft-books/books/katie/the-blizzard-of-96-middle-school-freshman-year",
             "illustration_count": 5,
-            "word_count": 7494,
+            "word_count": 7623,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -264,25 +264,25 @@
                     "chap_title": "Freshman Lunch, Chicken Patty Bites, & The DeMarco Decree",
                     "chap_url": "/raggiesoft-books/books/katie/the-blizzard-of-96-middle-school-freshman-year/freshman-lunch-chicken-patty-bites-the-demarco-decree",
                     "illustration_count": 1,
-                    "word_count": 1978,
+                    "word_count": 2107,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Cramping Fingers, Cut-Up Chicken Patty Bites, & Two-Fifteen at the Dumpsters",
                             "file_path": "e002/c004/p001.md",
                             "url": "/katie/the-blizzard-of-96-middle-school-freshman-year/freshman-lunch-chicken-patty-bites-the-demarco-decree/cramping-fingers-cut-up-chicken-patty-bites-two-fifteen-at-the-dumpsters",
-                            "word_count": 1978,
-                            "reading_minutes": 8,
+                            "word_count": 2107,
+                            "reading_minutes": 9,
                             "date": "2000-02-07",
                             "start_time": "11:20",
                             "location": "Virginia Beach, VA (Northwood High School Cafeteria)",
                             "excerpt": "When freshman Nate's hands cramp at lunch and Brittany feeds him cut chicken patty bites, Mrs. DeMarco saves them from Josh Riley with dumpster duty.",
                             "image": "/raggiesoft-books/images/scenes/katie/b002/feb_2000_northwood_cafeteria_blue_stool_table_brittany_feeding_nate_demarco_josh_riley.jpg",
-                            "image_alt": "Inside the packed Northwood High School cafeteria in February 2000 filled with students at long royal-blue laminate tables with attached round blue stools on chrome caster frames, fourteen-year-old Nathaniel Prairie sits on the middle blue stool flanked by twin sister Katie Prairie on one side and overweight maternal cousin Brittany Fletcher in silver wire-rimmed oval glasses on his other side as Brittany uses a plastic fork to feed Nate cut-up bites of his chicken patty sandwich while his stiff hands rest in his lap, and Cafeteria Supervisor Mrs. DeMarco in her hairnet and spoon-pocket white apron confronts a deflated Josh Riley to order him to the dumpsters at 2:15 PM",
+                            "image_alt": "Inside the packed Northwood High School cafeteria in February 2000 filled with students at long royal-blue laminate tables with attached round blue stools on chrome caster frames, fourteen-year-old Nathaniel Prairie sits on the middle blue stool flanked by twin sister Katie Prairie on one side and overweight maternal cousin Brittany Fletcher in silver wire-rimmed oval glasses on his other side with all three of their school lunch trays lined up along the tabletop as Brittany uses a plastic fork to feed Nate cut-up bites of his chicken patty sandwich, while Cafeteria Supervisor Mrs. DeMarco glares into a deflated Josh Riley's eyes and hitches her thumb toward the back doors for 2:15 PM dumpster duty",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b002/feb_2000_northwood_cafeteria_blue_stool_table_brittany_feeding_nate_demarco_josh_riley.jpg",
-                                    "alt": "Inside the packed Northwood High School cafeteria in February 2000 filled with students at long royal-blue laminate tables with attached round blue stools on chrome caster frames, fourteen-year-old Nathaniel Prairie sits on the middle blue stool flanked by twin sister Katie Prairie on one side and overweight maternal cousin Brittany Fletcher in silver wire-rimmed oval glasses on his other side as Brittany uses a plastic fork to feed Nate cut-up bites of his chicken patty sandwich while his stiff hands rest in his lap, and Cafeteria Supervisor Mrs. DeMarco in her hairnet and spoon-pocket white apron confronts a deflated Josh Riley to order him to the dumpsters at 2:15 PM"
+                                    "alt": "Inside the packed Northwood High School cafeteria in February 2000 filled with students at long royal-blue laminate tables with attached round blue stools on chrome caster frames, fourteen-year-old Nathaniel Prairie sits on the middle blue stool flanked by twin sister Katie Prairie on one side and overweight maternal cousin Brittany Fletcher in silver wire-rimmed oval glasses on his other side with all three of their school lunch trays lined up along the tabletop as Brittany uses a plastic fork to feed Nate cut-up bites of his chicken patty sandwich, while Cafeteria Supervisor Mrs. DeMarco glares into a deflated Josh Riley's eyes and hitches her thumb toward the back doors for 2:15 PM dumpster duty"
                                 }
                             ],
                             "image_count": 1
@@ -296,21 +296,21 @@
             "era_title": "Sixteen & Summer Sanctuary",
             "era_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary",
             "illustration_count": 16,
-            "word_count": 27630,
+            "word_count": 27662,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Earlton Court & Bonding With My Sister",
                     "chap_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary/earlton-court-bonding-with-my-sister",
                     "illustration_count": 2,
-                    "word_count": 3587,
+                    "word_count": 3619,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Through Smoker's Corner to Earlton Court, Aunt Karen's Couch, & Our Promise for Three",
                             "file_path": "e003/c001/p001.md",
                             "url": "/katie/sixteen-summer-sanctuary/earlton-court-bonding-with-my-sister/part-1-through-smoker-s-corner-to-earlton-court-aunt-karen-s-couch-our-promise-for-three",
-                            "word_count": 2367,
+                            "word_count": 2399,
                             "reading_minutes": 10,
                             "date": "2001-05-24",
                             "start_time": "14:00",
