@@ -13,17 +13,17 @@
         "text_epub": "686 KB",
         "text_pdf": "1.8 MB",
         "package_7z": "511 KB",
-        "epub_bytes": 62326324,
-        "pdf_bytes": 56833150,
+        "epub_bytes": 62326322,
+        "pdf_bytes": 56833180,
         "text_epub_bytes": 702671,
-        "text_pdf_bytes": 1917040,
-        "package_7z_bytes": 523188
+        "text_pdf_bytes": 1917070,
+        "package_7z_bytes": 523080
     },
     "illustration_count": 138,
     "word_stats": {
-        "story_word_count": 292444,
+        "story_word_count": 292451,
         "lore_word_count": 69002,
-        "combined_word_count": 361446,
+        "combined_word_count": 361453,
         "story_page_count": 1063,
         "combined_page_count": 1314,
         "reading_hours": 19.5,
@@ -1795,7 +1795,7 @@
             "era_title": "The Gentlewoman from Virginia Beach: The House of Delegates",
             "era_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates",
             "illustration_count": 16,
-            "word_count": 51255,
+            "word_count": 51256,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1912,7 +1912,7 @@
                     "chap_title": "House Bill 663 & Live on Meet the Nation",
                     "chap_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation",
                     "illustration_count": 6,
-                    "word_count": 26154,
+                    "word_count": 26155,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1986,7 +1986,7 @@
                             "part_title": "Part 4: Via Southside Plaza, Speaking Up at the Altar, Taking Brittany to Meet the Nation, & Left Onto Macgregory Street",
                             "file_path": "e009/c003/p004.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-4-via-southside-plaza-speaking-up-at-the-altar-taking-brittany-to-meet-the-nation-left-onto-macgregory-street",
-                            "word_count": 8648,
+                            "word_count": 8649,
                             "reading_minutes": 35,
                             "date": "2016-02-06",
                             "start_time": "13:10",
@@ -2323,14 +2323,14 @@
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 35,
-            "word_count": 75367,
+            "word_count": 75373,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Election Night, The Decision Desk Call, & The Referendum Mandate",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate",
                     "illustration_count": 5,
-                    "word_count": 15351,
+                    "word_count": 15357,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2362,7 +2362,7 @@
                             "part_title": "Part 2: The Morning After in Kempsville, The School Tax Referendum, & Jess's Open Letter on The Grid",
                             "file_path": "e011/c001/p002.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-2-the-morning-after-in-kempsville-the-school-tax-referendum-jess-s-open-letter-on-the-grid",
-                            "word_count": 2661,
+                            "word_count": 2665,
                             "reading_minutes": 11,
                             "date": "2026-11-04",
                             "start_time": "08:30",
@@ -2383,7 +2383,7 @@
                             "part_title": "Part 3: U.S. Senate New Member Orientation, Senator Tess Dunmore's Ramp, & Making the Vice President Swear Her In",
                             "file_path": "e011/c001/p003.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-3-u-s-senate-new-member-orientation-senator-tess-dunmore-s-ramp-making-the-vice-president-swear-her-in",
-                            "word_count": 6222,
+                            "word_count": 6224,
                             "reading_minutes": 25,
                             "date": "2026-11-16",
                             "start_time": "08:45",
