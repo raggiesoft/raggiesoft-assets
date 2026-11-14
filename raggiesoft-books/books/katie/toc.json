@@ -10,28 +10,28 @@
     "ebook_sizes": {
         "epub": "55.6 MB",
         "pdf": "52.1 MB",
-        "text_epub": "652 KB",
+        "text_epub": "653 KB",
         "text_pdf": "1.7 MB",
         "package_7z": "484 KB",
-        "epub_bytes": 58350357,
-        "pdf_bytes": 54664297,
-        "text_epub_bytes": 667632,
-        "text_pdf_bytes": 1818159,
-        "package_7z_bytes": 495531
+        "epub_bytes": 58351029,
+        "pdf_bytes": 54666522,
+        "text_epub_bytes": 668286,
+        "text_pdf_bytes": 1821514,
+        "package_7z_bytes": 495953
     },
     "illustration_count": 124,
     "word_stats": {
-        "story_word_count": 274268,
-        "lore_word_count": 66584,
-        "combined_word_count": 340852,
-        "story_page_count": 997,
-        "combined_page_count": 1239,
+        "story_word_count": 274624,
+        "lore_word_count": 66884,
+        "combined_word_count": 341508,
+        "story_page_count": 999,
+        "combined_page_count": 1242,
         "reading_hours": 18.3,
-        "reading_minutes": 1097,
-        "novel_equivalent": 3,
+        "reading_minutes": 1098,
+        "novel_equivalent": 3.1,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
-        "benchmark_note": "3.0\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
+        "benchmark_note": "3.1\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
         "era_count": 11,
         "chapter_count": 43,
         "part_count": 104,
@@ -715,7 +715,7 @@
             "era_title": "Seventeen, Senior Year, & Greenway Court",
             "era_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court",
             "illustration_count": 7,
-            "word_count": 15320,
+            "word_count": 15338,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -845,7 +845,7 @@
                     "chap_title": "The Admiral Center Patio & Moving Together to Williamsburg",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/the-admiral-center-patio-moving-together-to-williamsburg",
                     "illustration_count": 2,
-                    "word_count": 2592,
+                    "word_count": 2610,
                     "parts": [
                         {
                             "part_num": 1,
@@ -873,7 +873,7 @@
                             "part_title": "Part 2: A Non-Negotiable Package Deal, Dad's Calling Cards, & Moving Together to Williamsburg",
                             "file_path": "e004/c003/p002.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/the-admiral-center-patio-moving-together-to-williamsburg/part-2-a-non-negotiable-package-deal-dad-s-calling-cards-moving-together-to-williamsburg",
-                            "word_count": 1110,
+                            "word_count": 1128,
                             "reading_minutes": 5,
                             "date": "2004-06-19",
                             "start_time": "13:30",
@@ -898,14 +898,14 @@
             "era_title": "Six Buses from Williamsburg, Sea Breeze West, & Coming Home to Arvin Road",
             "era_url": "/raggiesoft-books/books/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road",
             "illustration_count": 5,
-            "word_count": 16476,
+            "word_count": 16815,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "North Henry Street, Six Buses from Williamsburg, & The Goyeau Street Tunnel File",
                     "chap_url": "/raggiesoft-books/books/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/north-henry-street-six-buses-from-williamsburg-the-goyeau-street-tunnel-file",
                     "illustration_count": 1,
-                    "word_count": 7504,
+                    "word_count": 7906,
                     "parts": [
                         {
                             "part_num": 1,
@@ -924,19 +924,19 @@
                             "part_title": "Part 2: Six Buses from Williamsburg \u2014 The Blind Leap at Boundary Street, Crown Burger, Open Radio on Route 20, & Dad at Indian River Road",
                             "file_path": "e005/c001/p002.md",
                             "url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/north-henry-street-six-buses-from-williamsburg-the-goyeau-street-tunnel-file/part-2-six-buses-from-williamsburg-the-blind-leap-at-boundary-street-crown-burger-open-radio-on-route-20-dad-at-indian-river-road",
-                            "word_count": 3811,
-                            "reading_minutes": 16,
+                            "word_count": 4182,
+                            "reading_minutes": 17,
                             "date": "2004-10-16",
                             "start_time": "15:35",
                             "location": "Williamsburg, Newport News, Norfolk, & Virginia Beach, VA (Williamsburg Transportation Center to Military Highway & Indian River Road)",
-                            "excerpt": "While Brandon buys non-refundable Detroit rail tickets inside WBG, nineteen-year-old Katie and Nate improvise a six-bus daytime escape home to Dad."
+                            "excerpt": "When Brandon steps inside the Williamsburg train depot, nineteen-year-old Katie and Nate seize their chance to improvise a six-bus escape home to Dad."
                         },
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Goyeau Street Tunnel Bus, The Trashed Ticket on East Jefferson Avenue, & Protected Non-Traveling Complainant",
                             "file_path": "e005/c001/p003.md",
                             "url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/north-henry-street-six-buses-from-williamsburg-the-goyeau-street-tunnel-file/part-3-the-goyeau-street-tunnel-bus-the-trashed-ticket-on-east-jefferson-avenue-protected-non-traveling-complainant",
-                            "word_count": 2089,
+                            "word_count": 2120,
                             "reading_minutes": 9,
                             "date": "2004-10-20",
                             "start_time": "14:00",
@@ -959,14 +959,14 @@
                     "chap_title": "Tiffany's Sea Breeze West Apartment, Dirty Old Tonomy Hill, & Coming Home to Arvin Road",
                     "chap_url": "/raggiesoft-books/books/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road",
                     "illustration_count": 4,
-                    "word_count": 8972,
+                    "word_count": 8909,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chapters & Co. After Williamsburg & Tiffany Sloan Invites Both Twins Into Sea Breeze West",
                             "file_path": "e005/c002/p001.md",
                             "url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road/part-1-chapters-co-after-williamsburg-tiffany-sloan-invites-both-twins-into-sea-breeze-west",
-                            "word_count": 1230,
+                            "word_count": 1235,
                             "reading_minutes": 5,
                             "date": "2004-11-05",
                             "start_time": "15:15",
@@ -1045,12 +1045,12 @@
                             "part_title": "Part 5: The CCHR Disability Counselor, The Glossy Fishersville Pitch, & Why Brother and Sister Should Get to Share a Dorm Room",
                             "file_path": "e005/c002/p005.md",
                             "url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road/part-5-the-cchr-disability-counselor-the-glossy-fishersville-pitch-why-brother-and-sister-should-get-to-share-a-dorm-room",
-                            "word_count": 1658,
+                            "word_count": 1590,
                             "reading_minutes": 7,
                             "date": "2007-02-15",
                             "start_time": "13:30",
                             "location": "Virginia Beach, VA (CCHR Virginia Beach Campus, Newtown Road DARS Office, & Arvin Road)",
-                            "excerpt": "Finishing CCHR and needing PHP and SQL for their growing transit blog, Katie and Nate buy DARS's glossy mountain-campus pitch\u2014assuming twins share a dorm."
+                            "excerpt": "Finishing CCHR and needing server-side PHP and SQL for their transit blog, Katie and Nate enroll through DARS for a spring program in Fishersville."
                         }
                     ]
                 }
@@ -1528,14 +1528,14 @@
             "era_title": "Do Better: Ideas for CVTA & The Kempsville City Council",
             "era_url": "/raggiesoft-books/books/katie/do-better-ideas-for-cvta-the-kempsville-city-council",
             "illustration_count": 7,
-            "word_count": 13920,
+            "word_count": 13919,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Do Better: Ideas for CVTA & The Four-Bus Mayoral Loop",
                     "chap_url": "/raggiesoft-books/books/katie/do-better-ideas-for-cvta-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop",
                     "illustration_count": 3,
-                    "word_count": 5830,
+                    "word_count": 5829,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1563,7 +1563,7 @@
                             "part_title": "Part 2: The Four-Bus Mayoral Loop, Silenced at Eighteenth Street, & Choosing to Run for the Kempsville Seat",
                             "file_path": "e008/c001/p002.md",
                             "url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop/part-2-the-four-bus-mayoral-loop-silenced-at-eighteenth-street-choosing-to-run-for-the-kempsville-seat",
-                            "word_count": 2504,
+                            "word_count": 2503,
                             "reading_minutes": 11,
                             "date": "2008-09-16",
                             "start_time": "14:00",
