@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "59.4 MB",
-        "pdf": "54.2 MB",
-        "text_epub": "688 KB",
-        "text_pdf": "1.8 MB",
-        "package_7z": "512 KB",
-        "epub_bytes": 62328473,
-        "pdf_bytes": 56838360,
-        "text_epub_bytes": 704765,
-        "text_pdf_bytes": 1922986,
-        "package_7z_bytes": 524487
+        "epub": "55.6 MB",
+        "pdf": "52.1 MB",
+        "text_epub": "651 KB",
+        "text_pdf": "1.7 MB",
+        "package_7z": "483 KB",
+        "epub_bytes": 58349112,
+        "pdf_bytes": 54660257,
+        "text_epub_bytes": 666391,
+        "text_pdf_bytes": 1813610,
+        "package_7z_bytes": 494563
     },
-    "illustration_count": 138,
+    "illustration_count": 124,
     "word_stats": {
-        "story_word_count": 293304,
-        "lore_word_count": 69395,
-        "combined_word_count": 362699,
-        "story_page_count": 1067,
-        "combined_page_count": 1319,
-        "reading_hours": 19.6,
-        "reading_minutes": 1173,
-        "novel_equivalent": 3.3,
+        "story_word_count": 273629,
+        "lore_word_count": 66400,
+        "combined_word_count": 340029,
+        "story_page_count": 995,
+        "combined_page_count": 1236,
+        "reading_hours": 18.2,
+        "reading_minutes": 1095,
+        "novel_equivalent": 3,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
-        "benchmark_note": "3.3\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
+        "benchmark_note": "3.0\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
         "era_count": 11,
         "chapter_count": 43,
-        "part_count": 108,
-        "illustration_count": 138
+        "part_count": 104,
+        "illustration_count": 124
     },
     "eras": [
         {
@@ -714,8 +714,8 @@
             "era_num": 4,
             "era_title": "Seventeen, Senior Year, & Greenway Court",
             "era_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court",
-            "illustration_count": 8,
-            "word_count": 17664,
+            "illustration_count": 7,
+            "word_count": 15320,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -842,70 +842,49 @@
                 },
                 {
                     "chap_num": 3,
-                    "chap_title": "The Admiral Center Bookstore & Meeting Tiffany",
-                    "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/the-admiral-center-bookstore-meeting-tiffany",
-                    "illustration_count": 3,
-                    "word_count": 4936,
+                    "chap_title": "The Admiral Center Patio & Moving Together to Williamsburg",
+                    "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/the-admiral-center-patio-moving-together-to-williamsburg",
+                    "illustration_count": 2,
+                    "word_count": 2592,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Death by Cascading Style Sheets & Iced Cocoa at Chapters & Co.",
+                            "part_title": "Part 1: Spilled Hot Chocolate on The Admiral Center Patio & Brandon Mercer Presents Himself as a Gentleman",
                             "file_path": "e004/c003/p001.md",
-                            "url": "/katie/seventeen-senior-year-greenway-court/the-admiral-center-bookstore-meeting-tiffany/part-1-death-by-cascading-style-sheets-iced-cocoa-at-chapters-co",
-                            "word_count": 2419,
-                            "reading_minutes": 10,
+                            "url": "/katie/seventeen-senior-year-greenway-court/the-admiral-center-patio-moving-together-to-williamsburg/part-1-spilled-hot-chocolate-on-the-admiral-center-patio-brandon-mercer-presents-himself-as-a-gentleman",
+                            "word_count": 1482,
+                            "reading_minutes": 6,
                             "date": "2004-05-14",
-                            "start_time": "15:15",
-                            "location": "Norfolk, VA (The Admiral Center \u2014 Chapters & Co. Bookstore & Monticello Avenue Bus Stop)",
-                            "excerpt": "Celebrating the end of their freshman spring finals at the Community College of Hampton Roads in May 2004, nineteen-year-old Nate and Katie roll into Chapters & Co. at The Admiral Center\u2014where a falling web-design paperback introduces Nate to twenty-year-old Tiffany Sloan.",
-                            "image": "/raggiesoft-books/images/scenes/katie/b004/may_2004_chapters_and_co_computer_books_tiffany_meet_cute.jpg",
-                            "image_alt": "Inside the computer books aisle of Chapters & Co. bookstore at The Admiral Center in Downtown Norfolk in May 2004, nineteen-year-old fraternal twins Nathaniel and Katie Prairie sit in their compact SwiftChair power wheelchairs holding cups of iced cocoa while twenty-year-old Tiffany Sloan hands Nathaniel a web-design book with a warm smile",
+                            "start_time": "14:45",
+                            "location": "Norfolk, VA (The Admiral Center Brick Caf\u00e9 Patio \u2014 Downtown Norfolk)",
+                            "excerpt": "Celebrating the end of freshman finals at CCHR, nineteen-year-old Katie and Nate meet polite Williamsburg visitor Brandon Mercer at The Admiral Center.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/sep_2004_admiral_center_patio_meeting_brandon_mercer.jpg",
+                            "image_alt": "On the brick outdoor caf\u00e9 patio of The Admiral Center in Norfolk in May 2004, nineteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their black motorized SwiftChair power wheelchairs as twenty-two-year-old Brandon Mercer leans across the wrought-iron patio table to shake Nate's hand with a polite, gentlemanly smile.",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b004/may_2004_chapters_and_co_computer_books_tiffany_meet_cute.jpg",
-                                    "alt": "Inside the computer books aisle of Chapters & Co. bookstore at The Admiral Center in Downtown Norfolk in May 2004, nineteen-year-old fraternal twins Nathaniel and Katie Prairie sit in their compact SwiftChair power wheelchairs holding cups of iced cocoa while twenty-year-old Tiffany Sloan hands Nathaniel a web-design book with a warm smile"
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/sep_2004_admiral_center_patio_meeting_brandon_mercer.jpg",
+                                    "alt": "On the brick outdoor caf\u00e9 patio of The Admiral Center in Norfolk in May 2004, nineteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their black motorized SwiftChair power wheelchairs as twenty-two-year-old Brandon Mercer leans across the wrought-iron patio table to shake Nate's hand with a polite, gentlemanly smile."
                                 }
                             ],
                             "image_count": 1
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Saturday Pizza in Apartment A6 & Katie's Wholehearted Blessing",
+                            "part_title": "Part 2: A Non-Negotiable Package Deal, Dad's Calling Cards, & Moving Together to Williamsburg",
                             "file_path": "e004/c003/p002.md",
-                            "url": "/katie/seventeen-senior-year-greenway-court/the-admiral-center-bookstore-meeting-tiffany/part-2-saturday-pizza-in-apartment-a6-katie-s-wholehearted-blessing",
-                            "word_count": 1249,
+                            "url": "/katie/seventeen-senior-year-greenway-court/the-admiral-center-patio-moving-together-to-williamsburg/part-2-a-non-negotiable-package-deal-dad-s-calling-cards-moving-together-to-williamsburg",
+                            "word_count": 1110,
                             "reading_minutes": 5,
-                            "date": "2004-05-15",
-                            "start_time": "13:00",
+                            "date": "2004-06-19",
+                            "start_time": "13:30",
                             "location": "Norfolk, VA (Greenway Court, Apartment A6 \u2014 West Ghent)",
-                            "excerpt": "When Tiffany Sloan visits Apartment A6 on Greenway Court the next afternoon with pizza and a floppy disk of her HTML files, she wins over both Nate and Katie with her kindness and respect for their twin bond.",
-                            "image": "/raggiesoft-books/images/scenes/katie/b004/may_2004_greenway_court_apt_a6_saturday_pizza_tiffany_blessing.jpg",
-                            "image_alt": "Inside Apartment A6 on Greenway Court in May 2004, nineteen-year-old twins Nathaniel and Katie Prairie sit in their compact SwiftChair power wheelchairs beside their workstation desk with an open pizza box and cans of ginger ale on the rolling cart while Tiffany Sloan kneels warmly on the carpet between their wheelchairs holding a floppy disk",
+                            "excerpt": "Refusing to ever live apart, nineteen-year-old Katie and Nate pack Apartment A6 together for Brandon Mercer's house near the Williamsburg train depot.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2004_greenway_court_apt_a6_williamsburg_move_out_packing.jpg",
+                            "image_alt": "Inside Apartment A6 at Greenway Court in Norfolk in June 2004, nineteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests while their father David Prairie and Brandon Mercer pack moving boxes behind them.",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b004/may_2004_greenway_court_apt_a6_saturday_pizza_tiffany_blessing.jpg",
-                                    "alt": "Inside Apartment A6 on Greenway Court in May 2004, nineteen-year-old twins Nathaniel and Katie Prairie sit in their compact SwiftChair power wheelchairs beside their workstation desk with an open pizza box and cans of ginger ale on the rolling cart while Tiffany Sloan kneels warmly on the carpet between their wheelchairs holding a floppy disk"
-                                }
-                            ],
-                            "image_count": 1
-                        },
-                        {
-                            "part_num": 3,
-                            "part_title": "Part 3: Tiffany's Pitch for Our Own Place in Ocean View & The Promise of Brother-and-Sister Weekends",
-                            "file_path": "e004/c003/p003.md",
-                            "url": "/katie/seventeen-senior-year-greenway-court/the-admiral-center-bookstore-meeting-tiffany/part-3-tiffany-s-pitch-for-our-own-place-in-ocean-view-the-promise-of-brother-and-sister-weekends",
-                            "word_count": 1268,
-                            "reading_minutes": 6,
-                            "date": "2004-08-14",
-                            "start_time": "14:30",
-                            "location": "Norfolk, VA (Greenway Court, Apartment A6 \u2014 West Ghent)",
-                            "excerpt": "After three idyllic summer months of dating Nate, Tiffany Sloan gently convinces Nate and Katie that she and Nate should move into a ground-floor one-bedroom apartment at Sea Breeze West in West Ocean View\u2014promising that Katie is only one Route 1 bus ride away and that the twins will still have Brother-and-Sister Weekends together.",
-                            "image": "/raggiesoft-books/images/scenes/katie/b004/aug_2004_greenway_court_apt_a6_ocean_view_floorplan_pitch.jpg",
-                            "image_alt": "Inside Apartment A6 at Greenway Court in Norfolk on August 14, 2004, 19-year-old Tiffany Sloan kneels on the carpet between Katie and Nathaniel Prairie's black motorized SwiftChair power wheelchairs holding an apartment floor-plan brochure for Sea Breeze West in West Ocean View and promising that the twins will always have their Brother-and-Sister Weekends.",
-                            "images": [
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b004/aug_2004_greenway_court_apt_a6_ocean_view_floorplan_pitch.jpg",
-                                    "alt": "Inside Apartment A6 at Greenway Court in Norfolk on August 14, 2004, 19-year-old Tiffany Sloan kneels on the carpet between Katie and Nathaniel Prairie's black motorized SwiftChair power wheelchairs holding an apartment floor-plan brochure for Sea Breeze West in West Ocean View and promising that the twins will always have their Brother-and-Sister Weekends."
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2004_greenway_court_apt_a6_williamsburg_move_out_packing.jpg",
+                                    "alt": "Inside Apartment A6 at Greenway Court in Norfolk in June 2004, nineteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests while their father David Prairie and Brandon Mercer pack moving boxes behind them."
                                 }
                             ],
                             "image_count": 1
@@ -916,285 +895,162 @@
         },
         {
             "era_num": 5,
-            "era_title": "West Ocean View & Reclaiming Our Sanctuary",
-            "era_url": "/raggiesoft-books/books/katie/west-ocean-view-reclaiming-our-sanctuary",
-            "illustration_count": 18,
-            "word_count": 33318,
+            "era_title": "Six Buses from Williamsburg, Sea Breeze West, & Coming Home to Arvin Road",
+            "era_url": "/raggiesoft-books/books/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road",
+            "illustration_count": 5,
+            "word_count": 15837,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Ocean View Station, Dirty Old Tonomy Hill, & Five Buses from Williamsburg",
-                    "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-reclaiming-our-sanctuary/ocean-view-station-dirty-old-tonomy-hill-five-buses-from-williamsburg",
-                    "illustration_count": 6,
-                    "word_count": 12033,
+                    "chap_title": "North Henry Street, Six Buses from Williamsburg, & The Goyeau Street Tunnel File",
+                    "chap_url": "/raggiesoft-books/books/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/north-henry-street-six-buses-from-williamsburg-the-goyeau-street-tunnel-file",
+                    "illustration_count": 1,
+                    "word_count": 6865,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Ocean View Station, The Green Sofa Confrontation, & Speak Now or Forever Hold Your Peace",
+                            "part_title": "Part 1: Closed Bedroom Doors, The Three-by-Six Closet Sanctuary, & Unwritten Couple Rules",
                             "file_path": "e005/c001/p001.md",
-                            "url": "/katie/west-ocean-view-reclaiming-our-sanctuary/ocean-view-station-dirty-old-tonomy-hill-five-buses-from-williamsburg/part-1-ocean-view-station-the-green-sofa-confrontation-speak-now-or-forever-hold-your-peace",
-                            "word_count": 1688,
+                            "url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/north-henry-street-six-buses-from-williamsburg-the-goyeau-street-tunnel-file/part-1-closed-bedroom-doors-the-three-by-six-closet-sanctuary-unwritten-couple-rules",
+                            "word_count": 1604,
                             "reading_minutes": 7,
-                            "date": "2004-09-18",
-                            "start_time": "19:30",
-                            "location": "Norfolk, VA (Ocean View Station & Sea Breeze West Apartment 3 on West Ocean View Avenue)",
-                            "excerpt": "When nineteen-year-old Katie rides the CVTA Route 1 bus to Ocean View Station for a brother-and-sister weekend with Nate at Sea Breeze West, Tiffany Sloan's jealous outburst prompts Katie to swear her Speak Now or Forever Hold Your Peace vow.",
-                            "image": "/raggiesoft-books/images/scenes/katie/b005/sep_2004_ocean_view_green_sofa_my_brother_only_tiffany.jpg",
-                            "image_alt": "Inside the Sea Breeze West living room on West Ocean View Avenue, nineteen-year-old twins Katie in her royal-blue V-neck sweater and Nate in his brick-red polo sit side by side on the bright green three-cushion sofa beneath the white window blinds with their compact SwiftChair power wheelchairs parked beside the oval coffee table while Tiffany Sloan glares through her black-rimmed glasses in her mint-green graphic shirt by the corner CRT television",
-                            "images": [
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b005/sep_2004_ocean_view_green_sofa_my_brother_only_tiffany.jpg",
-                                    "alt": "Inside the Sea Breeze West living room on West Ocean View Avenue, nineteen-year-old twins Katie in her royal-blue V-neck sweater and Nate in his brick-red polo sit side by side on the bright green three-cushion sofa beneath the white window blinds with their compact SwiftChair power wheelchairs parked beside the oval coffee table while Tiffany Sloan glares through her black-rimmed glasses in her mint-green graphic shirt by the corner CRT television"
-                                }
-                            ],
-                            "image_count": 1
+                            "date": "2004-10-15",
+                            "start_time": "21:40",
+                            "location": "Williamsburg, VA (Brandon Mercer's Single-Family House Near North Boundary Street)",
+                            "excerpt": "Inside Brandon Mercer's Williamsburg house, slow-building emotional and physical abuse collides with Katie and Nate's three-by-six closet sanctuary."
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Riding Route 1 Back to West Ghent, Meeting Brandon Mercer at The Admiral Center, & Taking Things Slow",
+                            "part_title": "Part 2: Six Buses from Williamsburg \u2014 The Blind Leap at Boundary Street, Crown Burger, Open Radio on Route 20, & Dad at Indian River Road",
                             "file_path": "e005/c001/p002.md",
-                            "url": "/katie/west-ocean-view-reclaiming-our-sanctuary/ocean-view-station-dirty-old-tonomy-hill-five-buses-from-williamsburg/part-2-riding-route-1-back-to-west-ghent-meeting-brandon-mercer-at-the-admiral-center-taking-things-slow",
-                            "word_count": 2230,
-                            "reading_minutes": 9,
-                            "date": "2004-09-19",
-                            "start_time": "13:15",
-                            "location": "Norfolk, VA (Greenway Court, Apartment A6 & The Admiral Center in Ghent)",
-                            "excerpt": "Riding the Route 1 bus down from Ocean View on Sunday afternoon to apologize to Katie for their ruined Brother-and-Sister Weekend, Nate finds his twin sister at The Admiral Center talking with twenty-two-year-old Williamsburg visitor Brandon Mercer\u2014who presents himself as a total gentleman, assumes last night wasn't Nate's fault, and respects Katie's wish to get to know him slowly.",
-                            "image": "/raggiesoft-books/images/scenes/katie/b005/sep_2004_admiral_center_patio_meeting_brandon_mercer.jpg",
-                            "image_alt": "On the brick outdoor caf\u00e9 patio of The Admiral Center in Norfolk on September 19, 2004, 19-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs as 22-year-old Brandon Mercer leans across the wrought-iron patio table to shake Nate's hand with a polite, gentlemanly smile.",
-                            "images": [
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b005/sep_2004_admiral_center_patio_meeting_brandon_mercer.jpg",
-                                    "alt": "On the brick outdoor caf\u00e9 patio of The Admiral Center in Norfolk on September 19, 2004, 19-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs as 22-year-old Brandon Mercer leans across the wrought-iron patio table to shake Nate's hand with a polite, gentlemanly smile."
-                                }
-                            ],
-                            "image_count": 1
+                            "url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/north-henry-street-six-buses-from-williamsburg-the-goyeau-street-tunnel-file/part-2-six-buses-from-williamsburg-the-blind-leap-at-boundary-street-crown-burger-open-radio-on-route-20-dad-at-indian-river-road",
+                            "word_count": 3172,
+                            "reading_minutes": 13,
+                            "date": "2004-10-16",
+                            "start_time": "15:35",
+                            "location": "Williamsburg, Newport News, Norfolk, & Virginia Beach, VA (Williamsburg Transportation Center to Military Highway & Indian River Road)",
+                            "excerpt": "While Brandon buys non-refundable Detroit rail tickets inside WBG, nineteen-year-old Katie and Nate improvise a six-bus daytime escape home to Dad."
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Patience at Katie's Pace, Winning Over Nate and Dad, & Katie's Move to Williamsburg",
+                            "part_title": "Part 3: The Goyeau Street Tunnel Bus, The Trashed Ticket on East Jefferson Avenue, & Protected Non-Traveling Complainant",
                             "file_path": "e005/c001/p003.md",
-                            "url": "/katie/west-ocean-view-reclaiming-our-sanctuary/ocean-view-station-dirty-old-tonomy-hill-five-buses-from-williamsburg/part-3-patience-at-katie-s-pace-winning-over-nate-and-dad-katie-s-move-to-williamsburg",
-                            "word_count": 1682,
-                            "reading_minutes": 7,
-                            "date": "2004-11-20",
+                            "url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/north-henry-street-six-buses-from-williamsburg-the-goyeau-street-tunnel-file/part-3-the-goyeau-street-tunnel-bus-the-trashed-ticket-on-east-jefferson-avenue-protected-non-traveling-complainant",
+                            "word_count": 2089,
+                            "reading_minutes": 9,
+                            "date": "2004-10-20",
                             "start_time": "14:00",
-                            "location": "Norfolk, VA (Greenway Court, Apartment A6 \u2014 West Ghent)",
-                            "excerpt": "After two months of patiently visiting Norfolk every weekend at Katie's pace and winning the trust of Katie, Nate, and their father David, Brandon Mercer gently convinces a lonely Katie to move out of Apartment A6 into his ground-floor apartment on Virginia Avenue in Williamsburg right before the holidays.",
-                            "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2004_greenway_court_apt_a6_williamsburg_move_out_packing.jpg",
-                            "image_alt": "Inside Apartment A6 at Greenway Court in Norfolk on November 20, 2004, 19-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests while their father David Prairie and Brandon Mercer pack moving boxes in the background.",
+                            "location": "Norfolk, VA (Walter E. Hoffman United States Courthouse \u2014 Granby Street)",
+                            "excerpt": "At the Norfolk federal courthouse, Special Agent Morales reveals Brandon Mercer's Windsor Tunnel Bus disaster and Cass Avenue U.S. Marshals arrest.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_granby_street_federal_courthouse_vw_zero_infraction.jpg",
+                            "image_alt": "Inside a ground-floor conference room at the Walter E. Hoffman United States Courthouse on Granby Street in Norfolk in October 2004, nineteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands with their father David beside them as Special Agent Morales points to the 'V-W, Zero Infraction' Protected Non-Traveling Complainant status on the federal border printout.",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2004_greenway_court_apt_a6_williamsburg_move_out_packing.jpg",
-                                    "alt": "Inside Apartment A6 at Greenway Court in Norfolk on November 20, 2004, 19-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests while their father David Prairie and Brandon Mercer pack moving boxes in the background."
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_granby_street_federal_courthouse_vw_zero_infraction.jpg",
+                                    "alt": "Inside a ground-floor conference room at the Walter E. Hoffman United States Courthouse on Granby Street in Norfolk in October 2004, nineteen-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands with their father David beside them as Special Agent Morales points to the 'V-W, Zero Infraction' Protected Non-Traveling Complainant status on the federal border printout."
                                 }
                             ],
                             "image_count": 1
-                        },
-                        {
-                            "part_num": 4,
-                            "part_title": "Part 4: The Worst Christmas Ever: Eighteen Stops to Dirty Old Tonomy Hill, Four Days with Cousin Chelsea, & The West Main Road Shortcut Home",
-                            "file_path": "e005/c001/p004.md",
-                            "url": "/katie/west-ocean-view-reclaiming-our-sanctuary/ocean-view-station-dirty-old-tonomy-hill-five-buses-from-williamsburg/part-4-the-worst-christmas-ever-eighteen-stops-to-dirty-old-tonomy-hill-four-days-with-cousin-chelsea-the-west-main-road-shortcut-home",
-                            "word_count": 2515,
-                            "reading_minutes": 11,
-                            "date": "2004-12-24",
-                            "start_time": "15:30",
-                            "location": "Newport, RI (Tonomy Hill Apartments) & Interstate 95 / Interstate 64 South",
-                            "excerpt": "After an eighteen-stop northbound Pathfinder and OSTA bus haul to Newport's World War II-era Tonomy Hill public housing apartments for Cousin Chelsea's first Christmas without Aunt Liz, nineteen-year-old Nathaniel endures four days of Tiffany Sloan's cruel jealousy before riding OSTA Route 60 and Pathfinder back to Virginia.",
-                            "image": "/raggiesoft-books/images/scenes/katie/b005/dec_2004_newport_tonomy_hill_osta_route_63_arrival_chelsea.jpg",
-                            "image_alt": "Outside the World War II-era Tonomy Hill public housing apartments in Newport, Rhode Island on Christmas Eve, December 24, 2004, 19-year-old Nathaniel Prairie sits in his black motorized SwiftChair power wheelchair hugging his grieving 22-year-old cousin Chelsea while Tiffany Sloan stands nearby with her arms crossed as the OSTA Route 63 bus pulls away.",
-                            "images": [
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b005/dec_2004_newport_tonomy_hill_osta_route_63_arrival_chelsea.jpg",
-                                    "alt": "Outside the World War II-era Tonomy Hill public housing apartments in Newport, Rhode Island on Christmas Eve, December 24, 2004, 19-year-old Nathaniel Prairie sits in his black motorized SwiftChair power wheelchair hugging his grieving 22-year-old cousin Chelsea while Tiffany Sloan stands nearby with her arms crossed as the OSTA Route 63 bus pulls away."
-                                }
-                            ],
-                            "image_count": 1
-                        },
-                        {
-                            "part_num": 5,
-                            "part_title": "Part 5: Five Buses from Williamsburg \u2014 The Ninety-Second Window, Crown Burger, & The Last Route 61 Across the Water",
-                            "file_path": "e005/c001/p005.md",
-                            "url": "/katie/west-ocean-view-reclaiming-our-sanctuary/ocean-view-station-dirty-old-tonomy-hill-five-buses-from-williamsburg/part-5-five-buses-from-williamsburg-the-ninety-second-window-crown-burger-the-last-route-61-across-the-water",
-                            "word_count": 3918,
-                            "reading_minutes": 16,
-                            "date": "2005-11-12",
-                            "start_time": "15:38",
-                            "location": "Williamsburg, Newport News, Hampton, & Norfolk, VA (Virginia Avenue, Williamsburg Transportation Center, Lee Hall, Warwick & Denbigh, Newport News Transit Center, HRBT, Wards Corner, & Sea Breeze West)",
-                            "excerpt": "When Brandon Mercer marches twenty-year-old Katie from Virginia Avenue to the Williamsburg Transportation Center to buy one-way rail and tunnel-bus tickets to Windsor, Canada, she seizes a ninety-second window while he is at the ticket counter to roll aboard the 4:00 PM CTTA Grey Line bus\u2014beginning a grueling five-bus escape through the November rain to reach her twin brother Nate in West Ocean View.",
-                            "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_rainy_night_katie_five_bus_arrival_sanctuary.jpg",
-                            "image_alt": "Inside the living room of Sea Breeze West Apartment 3 on the rainy Saturday night of November 12, 2005 after Katie's five-bus escape from Williamsburg, twenty-year-old Katie sits wrapped in a dry towel and Nate's navy-blue sleeping bag on the bright green sofa while her twin brother Nate holds both of her hands from his compact SwiftChair power wheelchair",
-                            "images": [
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_rainy_night_katie_five_bus_arrival_sanctuary.jpg",
-                                    "alt": "Inside the living room of Sea Breeze West Apartment 3 on the rainy Saturday night of November 12, 2005 after Katie's five-bus escape from Williamsburg, twenty-year-old Katie sits wrapped in a dry towel and Nate's navy-blue sleeping bag on the bright green sofa while her twin brother Nate holds both of her hands from his compact SwiftChair power wheelchair"
-                                },
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_warwick_denbigh_crown_burger_rain_refuge_katie.jpg",
-                                    "alt": "Inside the warm Crown Burger restaurant at the corner of Warwick Boulevard and Denbigh Boulevard in Newport News on the rainy Saturday afternoon of November 12, 2005, 20-year-old Katie Prairie sits in her black motorized SwiftChair power wheelchair eating a warm cheeseburger and french fries while watching the CVTA bus stop through the rain-streaked window during her five-bus escape from Williamsburg."
-                                }
-                            ],
-                            "image_count": 2
                         }
                     ]
                 },
                 {
                     "chap_num": 2,
-                    "chap_title": "The End of Hell & Reclaiming Apartment 3",
-                    "chap_url": "/raggiesoft-books/books/katie/west-ocean-view-reclaiming-our-sanctuary/the-end-of-hell-reclaiming-apartment-3",
-                    "illustration_count": 12,
-                    "word_count": 21285,
+                    "chap_title": "Tiffany's Sea Breeze West Apartment, Dirty Old Tonomy Hill, & Coming Home to Arvin Road",
+                    "chap_url": "/raggiesoft-books/books/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road",
+                    "illustration_count": 4,
+                    "word_count": 8972,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: A Sister's Worst Nightmare, Tiffany Forces a Choice, & Scrubbing Out the Filth",
+                            "part_title": "Part 1: Chapters & Co. After Williamsburg & Tiffany Sloan Invites Both Twins Into Sea Breeze West",
                             "file_path": "e005/c002/p001.md",
-                            "url": "/katie/west-ocean-view-reclaiming-our-sanctuary/the-end-of-hell-reclaiming-apartment-3/part-1-a-sister-s-worst-nightmare-tiffany-forces-a-choice-scrubbing-out-the-filth",
-                            "word_count": 7165,
-                            "reading_minutes": 29,
-                            "date": "2005-11-12",
-                            "start_time": "20:20",
-                            "location": "Norfolk, VA (Sea Breeze West Apartment 3 & Crown Burger on West Ocean View Avenue)",
-                            "excerpt": "After escaping Williamsburg on five consecutive buses in the pouring rain to reach Nate's filthy Sea Breeze West apartment in West Ocean View, twenty-year-old Katie helps Nate break free from Tiffany Sloan, scrub their sanctuary clean, and make their lifelong fifty-fifty pact.",
-                            "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg",
-                            "image_alt": "Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp\u2014after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs\u2014Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while twenty-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs",
+                            "url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road/part-1-chapters-co-after-williamsburg-tiffany-sloan-invites-both-twins-into-sea-breeze-west",
+                            "word_count": 1230,
+                            "reading_minutes": 5,
+                            "date": "2004-11-05",
+                            "start_time": "15:15",
+                            "location": "Norfolk, VA (Chapters & Co. at The Admiral Center & Sea Breeze West Apartment 3 on West Ocean View Avenue)",
+                            "excerpt": "Weeks after escaping Williamsburg, nineteen-year-old Nate meets Tiffany Sloan at Chapters & Co.\u2014and she invites both twins into her Ocean View flat.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b004/may_2004_chapters_and_co_computer_books_tiffany_meet_cute.jpg",
+                            "image_alt": "Inside the computer books aisle of Chapters & Co. bookstore at The Admiral Center in Downtown Norfolk in November 2004, nineteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their compact SwiftChair power wheelchairs holding cups of cocoa while twenty-year-old Tiffany Sloan hands Nathaniel a web-design book with a warm smile.",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg",
-                                    "alt": "Inside the open kitchen and living room of Sea Breeze West Apartment 3 beneath the hanging amber cone pull-chain lamp\u2014after Nate has shoved a first round of overflowing trash bags aside just to clear floor space for two wheelchairs\u2014Tiffany Sloan in her black-rimmed glasses and mint-green graphic shirt yells in a jealous rage in front of the slate-blue stove and black top-freezer refrigerator while twenty-year-old twins Nate in his red polo and Katie in her mustard-yellow shirt sit side by side in their compact SwiftChair power wheelchairs"
-                                },
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_deep_clean_and_hall_closet_sanctuary.jpg",
-                                    "alt": "Part of the way through the heavy-duty cleanout of Sea Breeze West Apartment 3\u2014after hauling the first waves of overflowing trash out to the outdoor trash bins\u2014nineteen-year-old twins Katie and Nate sit in their compact SwiftChair power wheelchairs wearing yellow rubber cleaning gloves as they scrub the kitchen counters and tie up the remaining black garbage bags, with the repurposed dining table on the far left holding their 17-inch off-white CRT monitor and 2004 PC tower fitted with salvaged off-white floppy, CD-ROM, and CD-RW drives, L-shaped olive-green upper and lower cabinets, and the hallway opening on the far right"
-                                },
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_green_sofa_never_separate_again_promise.jpg",
-                                    "alt": "Inside the living room of Sea Breeze West Apartment 3 in front of the bright green three-cushion sofa and the front windows with white horizontal mini-blinds at night: twenty-year-old Katie in her mustard-yellow ringer t-shirt and blue jeans sits in her compact black SwiftChair power wheelchair with tears rolling down her cheeks as she holds twenty-year-old Nate's hand across their wheelchairs and promises her brother that they will never separate ever again"
+                                    "src": "/raggiesoft-books/images/scenes/katie/b004/may_2004_chapters_and_co_computer_books_tiffany_meet_cute.jpg",
+                                    "alt": "Inside the computer books aisle of Chapters & Co. bookstore at The Admiral Center in Downtown Norfolk in November 2004, nineteen-year-old fraternal twins Nathaniel and Katie Prairie sit side by side in their compact SwiftChair power wheelchairs holding cups of cocoa while twenty-year-old Tiffany Sloan hands Nathaniel a web-design book with a warm smile."
                                 }
                             ],
-                            "image_count": 3
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The 8:13 AM Bus to CCHR, All-New Queen Bedding, Dad's Pickup Truck, & The Hallway Closet Sanctuary",
+                            "part_title": "Part 2: The Worst Christmas Ever: Eighteen Stops to Dirty Old Tonomy Hill, Four Days with Cousin Chelsea, & The West Main Road Shortcut Home",
                             "file_path": "e005/c002/p002.md",
-                            "url": "/katie/west-ocean-view-reclaiming-our-sanctuary/the-end-of-hell-reclaiming-apartment-3/part-2-the-8-13-am-bus-to-cchr-all-new-queen-bedding-dad-s-pickup-truck-the-hallway-closet-sanctuary",
-                            "word_count": 4346,
-                            "reading_minutes": 18,
-                            "date": "2005-11-14",
-                            "start_time": "07:30",
-                            "location": "Norfolk & Virginia Beach, VA (Sea Breeze West Apartment 3, CCHR Beach Campus, & Chesapeake Bay Mall)",
-                            "excerpt": "On Monday morning, Katie and Nate ride CVTA Route 1 to CCHR Beach Campus, buy all-new queen bedding at Chesapeake Bay Mall, welcome Dad in his pickup truck to send Tiffany's van away for good, and build their deep-pressure sanctuary on the hallway closet floor.",
-                            "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_bedroom_ac_unit_and_bathroom_baseline.jpg",
-                            "image_alt": "Inside the back bedroom of Sea Breeze West Apartment 3 looking from the open hallway end toward the far-left corner: along the back exterior wall sit the through-wall box A/C unit on the right, the bedroom window with white horizontal mini-blinds in the center, and the queen bed pushed flush against the far corner wall in its new navy-and-slate-blue comforter set to leave wide wheelchair clearance in front of the bathroom entrance on the left interior wall, where the white bathroom door opens inward into the bathroom from the bedroom while nineteen-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs",
-                            "images": [
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_bedroom_ac_unit_and_bathroom_baseline.jpg",
-                                    "alt": "Inside the back bedroom of Sea Breeze West Apartment 3 looking from the open hallway end toward the far-left corner: along the back exterior wall sit the through-wall box A/C unit on the right, the bedroom window with white horizontal mini-blinds in the center, and the queen bed pushed flush against the far corner wall in its new navy-and-slate-blue comforter set to leave wide wheelchair clearance in front of the bathroom entrance on the left interior wall, where the white bathroom door opens inward into the bathroom from the bedroom while nineteen-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs"
-                                },
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_grocery_store_run_katie_nate_david.jpg",
-                                    "alt": "Inside the produce section of a neighborhood grocery store on West Ocean View Avenue in Norfolk on November 14, 2005, 20-year-old twins Katie and Nathaniel Prairie roll side by side in their black motorized SwiftChair power wheelchairs as Katie consults her flip-phone grocery list and hands a bag of red apples back to their smiling 47-year-old father David pushing a metal shopping cart stocked with bananas, bread, and fresh milk."
-                                },
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_dad_confronts_van_reclaimed_twin_apartment.jpg",
-                                    "alt": "Inside the combination living room and open kitchen of Sea Breeze West Apartment 3 as their father David Prairie steps in with cleaning spray and paper towels to help nineteen-year-old twins Katie and Nate finish cleaning and unpack fresh groceries onto the L-shaped olive-green counters, with the 17-inch off-white CRT monitor running Quantum OS XN Pro and the 2004 tower with salvaged beige drives on the far-left dining table"
-                                }
-                            ],
-                            "image_count": 3
+                            "url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road/part-2-the-worst-christmas-ever-eighteen-stops-to-dirty-old-tonomy-hill-four-days-with-cousin-chelsea-the-west-main-road-shortcut-home",
+                            "word_count": 1587,
+                            "reading_minutes": 7,
+                            "date": "2004-12-24",
+                            "start_time": "15:30",
+                            "location": "Newport, RI (Tonomy Hill Apartments) & Interstate 95 / Interstate 64 South",
+                            "excerpt": "Riding eighteen bus legs to Newport's Tonomy Hill for Cousin Chelsea's first Christmas without Aunt Liz, Katie and Nate face Tiffany's ugly jealousy."
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: The Goyeau Street Tunnel Bus, The Federal Courthouse on Granby Street, & Protected Non-Traveling Complainant",
+                            "part_title": "Part 3: Milk Isn't Allowed in This Fridge, Tiffany's Sunday Morning Accusation, & Yes-or-No Questions Through Tears",
                             "file_path": "e005/c002/p003.md",
-                            "url": "/katie/west-ocean-view-reclaiming-our-sanctuary/the-end-of-hell-reclaiming-apartment-3/part-3-the-goyeau-street-tunnel-bus-the-federal-courthouse-on-granby-street-protected-non-traveling-complainant",
-                            "word_count": 2858,
+                            "url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road/part-3-milk-isn-t-allowed-in-this-fridge-tiffany-s-sunday-morning-accusation-yes-or-no-questions-through-tears",
+                            "word_count": 2766,
                             "reading_minutes": 12,
-                            "date": "2005-11-16",
-                            "start_time": "14:00",
-                            "location": "Norfolk, VA (Walter E. Hoffman United States Courthouse \u2014 Granby Street)",
-                            "excerpt": "On Wednesday afternoon, November 16, 2005, Dad accompanies Katie and Nate to the Walter E. Hoffman United States Courthouse in Downtown Norfolk\u2014where Special Agent Morales pulls up the Sunday afternoon CBSA and U.S. CBP border refusal file from the Goyeau Street tunnel plaza in Windsor and East Jefferson Avenue in Detroit, proving Brandon Mercer handed federal prosecutors the entire case against himself.",
-                            "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_granby_street_federal_courthouse_vw_zero_infraction.jpg",
-                            "image_alt": "Inside a ground-floor conference room at the Walter E. Hoffman United States Courthouse on Granby Street in Norfolk on November 16, 2005, 20-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands with their father David beside them as Special Agent Morales points to the 'V-W, Zero Infraction' Protected Non-Traveling Complainant status on the federal border printout.",
+                            "date": "2005-11-13",
+                            "start_time": "08:30",
+                            "location": "Norfolk & Virginia Beach, VA (Sea Breeze West Apartment 3 & Arvin Road)",
+                            "excerpt": "When Tiffany screams a false accusation and throws Katie and Nate out on a Sunday morning, Dad talks his sobbing twins through simple yes-or-no questions.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg",
+                            "image_alt": "Inside the cluttered kitchen of Sea Breeze West Apartment 3 on Sunday morning, November 13, 2005, twenty-one-year-old Tiffany Sloan in black-rimmed glasses and a mint-green shirt screams in front of the filthy stove and black top-freezer refrigerator while twenty-year-old twins Katie and Nathaniel Prairie sit side by side in their compact black SwiftChair power wheelchairs overwhelmed and near tears.",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_granby_street_federal_courthouse_vw_zero_infraction.jpg",
-                                    "alt": "Inside a ground-floor conference room at the Walter E. Hoffman United States Courthouse on Granby Street in Norfolk on November 16, 2005, 20-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands with their father David beside them as Special Agent Morales points to the 'V-W, Zero Infraction' Protected Non-Traveling Complainant status on the federal border printout."
-                                }
-                            ],
-                            "image_count": 1
-                        },
-                        {
-                            "part_num": 4,
-                            "part_title": "Part 4: Thanksgiving Dinner at Dad's House, The Black Friday Closet Project, & The Secret on the Closet Floor",
-                            "file_path": "e005/c002/p004.md",
-                            "url": "/katie/west-ocean-view-reclaiming-our-sanctuary/the-end-of-hell-reclaiming-apartment-3/part-4-thanksgiving-dinner-at-dad-s-house-the-black-friday-closet-project-the-secret-on-the-closet-floor",
-                            "word_count": 1987,
-                            "reading_minutes": 8,
-                            "date": "2005-11-24",
-                            "start_time": "13:00",
-                            "location": "Virginia Beach & Norfolk, VA (Dad's Brick Ranch off Indian River Road & Sea Breeze West Apartment 3)",
-                            "excerpt": "Ten days after reclaiming Apartment 3, Nate and Katie share Thanksgiving dinner with their father David at his house in Virginia Beach, and on Black Friday weekend David builds the half-pantry, half-coat hallway closet\u2014discovering the sleeping bag and two pillows where his autistic twins have been sleeping every night instead of Tiffany's bed.",
-                            "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_hallway_and_left_closet_sanctuary_baseline.jpg",
-                            "image_alt": "Looking straight down the carpeted far-right hallway of Sea Breeze West Apartment 3 toward the doorless back bedroom: on the left wall of the hallway, a standard-width closet doorway fitted with two white bi-folding doors opens outward to reveal white wire pantry shelves on the half closest to the kitchen, hanging winter coats on the half closer to the bedroom, and a carpeted closet floor lined with a shared navy-blue sleeping bag and two white pillows, while at the end of the hall twenty-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs with the queen bed peeking from the far-left corner, the high-mounted through-wall box A/C unit next to the bedroom window, and Katie's wooden dresser with her television and DVD player against the right bedroom wall behind Nate",
-                            "images": [
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_hallway_and_left_closet_sanctuary_baseline.jpg",
-                                    "alt": "Looking straight down the carpeted far-right hallway of Sea Breeze West Apartment 3 toward the doorless back bedroom: on the left wall of the hallway, a standard-width closet doorway fitted with two white bi-folding doors opens outward to reveal white wire pantry shelves on the half closest to the kitchen, hanging winter coats on the half closer to the bedroom, and a carpeted closet floor lined with a shared navy-blue sleeping bag and two white pillows, while at the end of the hall twenty-year-old twins Katie and Nate sit side by side in their compact SwiftChair power wheelchairs with the queen bed peeking from the far-left corner, the high-mounted through-wall box A/C unit next to the bedroom window, and Katie's wooden dresser with her television and DVD player against the right bedroom wall behind Nate"
-                                },
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_thanksgiving_dinner_dads_house_katie_nate_david.jpg",
-                                    "alt": "Inside David Prairie's cozy brick ranch dining room in Virginia Beach on Thanksgiving Day, November 24, 2005, 20-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests and clinking tall glasses of iced tea over roast turkey and pumpkin pie with their beaming 47-year-old father David."
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg",
+                                    "alt": "Inside the cluttered kitchen of Sea Breeze West Apartment 3 on Sunday morning, November 13, 2005, twenty-one-year-old Tiffany Sloan in black-rimmed glasses and a mint-green shirt screams in front of the filthy stove and black top-freezer refrigerator while twenty-year-old twins Katie and Nathaniel Prairie sit side by side in their compact black SwiftChair power wheelchairs overwhelmed and near tears."
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_closet_sleeping_bag_reunion_full_cuddle_katie_nate.jpg",
-                                    "alt": "Inside the hallway of Sea Breeze West Apartment 3 in November 2005, twenty-year-old fraternal twins Katie and Nathaniel Prairie are tucked into their shared navy-blue quilted sleeping bag on the carpeted floor beneath the white wire pantry shelves and hanging winter coats of their newly built hallway closet, wrapped in a close, soothing two-arm embrace while their two empty black SwiftChair power wheelchairs sit parked in the hallway outside."
+                                    "alt": "Inside the hallway of Sea Breeze West Apartment 3 in autumn 2005, twenty-year-old fraternal twins Katie and Nathaniel Prairie are tucked fully clothed into their shared navy-blue quilted sleeping bag on the carpeted floor beneath the white wire pantry shelves and hanging winter coats of the hallway closet, wrapped in a close, soothing two-arm embrace while their two empty black SwiftChair power wheelchairs sit parked in the hallway outside."
                                 }
                             ],
-                            "image_count": 3
+                            "image_count": 2
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Thanksgiving Dinner Home on Arvin Road, The Black Friday Closet Sanctuary, & Quietly Launching Ideas for Coastal Virginia Transit",
+                            "file_path": "e005/c002/p004.md",
+                            "url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road/part-4-thanksgiving-dinner-home-on-arvin-road-the-black-friday-closet-sanctuary-quietly-launching-ideas-for-coastal-virginia-transit",
+                            "word_count": 1731,
+                            "reading_minutes": 7,
+                            "date": "2005-11-24",
+                            "start_time": "13:00",
+                            "location": "Virginia Beach, VA (Dad's Brick Ranch on Arvin Road)",
+                            "excerpt": "Home safe on Arvin Road for Thanksgiving 2005, Dad builds high shelving above their closet sanctuary before Katie and Nate launch their CVTA transit blog.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_thanksgiving_dinner_dads_house_katie_nate_david.jpg",
+                            "image_alt": "Inside David Prairie's cozy brick ranch dining room on Arvin Road in Virginia Beach on Thanksgiving Day, November 24, 2005, twenty-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests and clinking tall glasses of iced tea over roast turkey and pumpkin pie with their beaming forty-seven-year-old father David.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_thanksgiving_dinner_dads_house_katie_nate_david.jpg",
+                                    "alt": "Inside David Prairie's cozy brick ranch dining room on Arvin Road in Virginia Beach on Thanksgiving Day, November 24, 2005, twenty-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs holding hands across their armrests and clinking tall glasses of iced tea over roast turkey and pumpkin pie with their beaming forty-seven-year-old father David."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 5,
-                            "part_title": "Part 5: The Seattle Transit Blog Inspiration & Quietly Launching Ideas for Coastal Virginia Transit",
+                            "part_title": "Part 5: The CCHR Disability Counselor, The Glossy Fishersville Pitch, & Why Brother and Sister Should Get to Share a Dorm Room",
                             "file_path": "e005/c002/p005.md",
-                            "url": "/katie/west-ocean-view-reclaiming-our-sanctuary/the-end-of-hell-reclaiming-apartment-3/part-5-the-seattle-transit-blog-inspiration-quietly-launching-ideas-for-coastal-virginia-transit",
-                            "word_count": 3170,
-                            "reading_minutes": 13,
-                            "date": "2005-11-27",
-                            "start_time": "19:30",
-                            "location": "Norfolk, VA (Sea Breeze West Apartment 3 \u2014 West Ocean View Avenue)",
-                            "excerpt": "Inspired by the Seattle Transit Blog covering TAPS in the Puget Sound, Nate and Katie sit side by side at their freshly formatted Quantum OS XN Pro desktop in Apartment 3, hand-code a custom HTML template on BlogSphere, and quietly launch Ideas for Coastal Virginia Transit.",
-                            "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_ideas_for_cvta_blog_launch_katie_nate.jpg",
-                            "image_alt": "Inside Apartment 3 at Sea Breeze West in West Ocean View on the evening of November 27, 2005, 20-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at their computer desk surrounded by paper CVTA bus timetables as they hand-code and launch their transit advocacy blog, Ideas for Coastal Virginia Transit.",
-                            "images": [
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_ideas_for_cvta_blog_launch_katie_nate.jpg",
-                                    "alt": "Inside Apartment 3 at Sea Breeze West in West Ocean View on the evening of November 27, 2005, 20-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at their computer desk surrounded by paper CVTA bus timetables as they hand-code and launch their transit advocacy blog, Ideas for Coastal Virginia Transit."
-                                }
-                            ],
-                            "image_count": 1
-                        },
-                        {
-                            "part_num": 6,
-                            "part_title": "Part 6: The CCHR Disability Counselor, The Glossy Fishersville Pitch, & Why Brother and Sister Should Get to Share a Dorm Room",
-                            "file_path": "e005/c002/p006.md",
-                            "url": "/katie/west-ocean-view-reclaiming-our-sanctuary/the-end-of-hell-reclaiming-apartment-3/part-6-the-cchr-disability-counselor-the-glossy-fishersville-pitch-why-brother-and-sister-should-get-to-share-a-dorm-room",
-                            "word_count": 1759,
-                            "reading_minutes": 8,
+                            "url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road/part-5-the-cchr-disability-counselor-the-glossy-fishersville-pitch-why-brother-and-sister-should-get-to-share-a-dorm-room",
+                            "word_count": 1658,
+                            "reading_minutes": 7,
                             "date": "2007-02-15",
                             "start_time": "13:30",
-                            "location": "Virginia Beach & Norfolk, VA (CCHR Virginia Beach Campus, Hampton Roads DARS Office, & Sea Breeze West Apartment 3)",
-                            "excerpt": "When a CCHR disability counselor points Nate and Katie to DARS and a state-funded Web Applications Developer course in PHP and SQL in Fishersville, the glossy brochure sells them on a college-style mountain campus\u2014and as twin brother and sister who have lived together their whole lives except when separated by their abusers, they figure they will share a two-bed dorm room and cram into the dorm closet together at night.",
-                            "image": "/raggiesoft-books/images/scenes/katie/b005/feb_2007_ocean_view_glossy_rrc_brochure_dorm_pitch_katie_nate.jpg",
-                            "image_alt": "Inside Apartment 3 at Sea Breeze West in West Ocean View in February 2007, 21-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at their dining-table computer desk with their father David standing warmly beside them, holding hands across their armrests as they look down at a glossy tri-fold brochure showing a sunny red-brick campus against the Blue Ridge Mountains, a computer lab, and a two-bed college-style dorm room while their half-pantry, half-coat hallway closet with its navy-blue sleeping bag on the carpeted floor is visible down the hallway behind them.",
-                            "images": [
-                                {
-                                    "src": "/raggiesoft-books/images/scenes/katie/b005/feb_2007_ocean_view_glossy_rrc_brochure_dorm_pitch_katie_nate.jpg",
-                                    "alt": "Inside Apartment 3 at Sea Breeze West in West Ocean View in February 2007, 21-year-old twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs at their dining-table computer desk with their father David standing warmly beside them, holding hands across their armrests as they look down at a glossy tri-fold brochure showing a sunny red-brick campus against the Blue Ridge Mountains, a computer lab, and a two-bed college-style dorm room while their half-pantry, half-coat hallway closet with its navy-blue sleeping bag on the carpeted floor is visible down the hallway behind them."
-                                }
-                            ],
-                            "image_count": 1
+                            "location": "Virginia Beach, VA (CCHR Virginia Beach Campus, Newtown Road DARS Office, & Arvin Road)",
+                            "excerpt": "Finishing CCHR and needing PHP and SQL for their growing transit blog, Katie and Nate buy DARS's glossy mountain-campus pitch\u2014assuming twins share a dorm."
                         }
                     ]
                 }
@@ -1205,21 +1061,21 @@
             "era_title": "Twelve Days at Roosevelt Rehabilitation Center & Walking Out for Good",
             "era_url": "/raggiesoft-books/books/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good",
             "illustration_count": 6,
-            "word_count": 18718,
+            "word_count": 18765,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Barton Hall Check-In, Rushing Voc Eval in One Week, & 'Door Greeter!?'",
                     "chap_url": "/raggiesoft-books/books/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/barton-hall-check-in-rushing-voc-eval-in-one-week-door-greeter",
                     "illustration_count": 2,
-                    "word_count": 7781,
+                    "word_count": 7830,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Sunday Check-In at Barton Hall, The Opposite-Gender Dorm Rule, & Expelling the Creepy Roommate",
                             "file_path": "e006/c001/p001.md",
                             "url": "/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/barton-hall-check-in-rushing-voc-eval-in-one-week-door-greeter/part-1-sunday-check-in-at-barton-hall-the-opposite-gender-dorm-rule-expelling-the-creepy-roommate",
-                            "word_count": 3263,
+                            "word_count": 3312,
                             "reading_minutes": 14,
                             "date": "2007-03-04",
                             "start_time": "11:15",
@@ -1263,14 +1119,14 @@
                     "chap_title": "Starting Web Apps While Stuck in Barton Hall, Sleeping in the Closet, & The Chickenshit Report",
                     "chap_url": "/raggiesoft-books/books/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/starting-web-apps-while-stuck-in-barton-hall-sleeping-in-the-closet-the-chickenshit-report",
                     "illustration_count": 2,
-                    "word_count": 6935,
+                    "word_count": 6932,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Starting Web Apps While Stuck on Level 2 in Barton Hall, Quantum OS 2000 Professional, & Meeting Tina, Jim, and Sheila",
                             "file_path": "e006/c002/p001.md",
                             "url": "/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/starting-web-apps-while-stuck-in-barton-hall-sleeping-in-the-closet-the-chickenshit-report/part-1-starting-web-apps-while-stuck-on-level-2-in-barton-hall-quantum-os-2000-professional-meeting-tina-jim-and-sheila",
-                            "word_count": 2684,
+                            "word_count": 2681,
                             "reading_minutes": 11,
                             "date": "2007-03-12",
                             "start_time": "08:00",
@@ -1314,14 +1170,14 @@
                     "chap_title": "The Dormitory Room Mix-Up, A Safe Closet in Luray, & Leaving RRC After Twelve Days",
                     "chap_url": "/raggiesoft-books/books/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/the-dormitory-room-mix-up-a-safe-closet-in-luray-leaving-rrc-after-twelve-days",
                     "illustration_count": 2,
-                    "word_count": 4002,
+                    "word_count": 4003,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Dormitory Room Mix-Up, Blind Red-Tape Room Reassignments, & A Sleepless Night for Natalie",
                             "file_path": "e006/c003/p001.md",
                             "url": "/katie/twelve-days-at-roosevelt-rehabilitation-center-walking-out-for-good/the-dormitory-room-mix-up-a-safe-closet-in-luray-leaving-rrc-after-twelve-days/part-1-the-dormitory-room-mix-up-blind-red-tape-room-reassignments-a-sleepless-night-for-natalie",
-                            "word_count": 2381,
+                            "word_count": 2382,
                             "reading_minutes": 10,
                             "date": "2007-03-14",
                             "start_time": "21:15",
@@ -1367,21 +1223,21 @@
             "era_title": "Unofficial Homeowners: Back Home in Virginia Beach (2007\u20132008)",
             "era_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008",
             "illustration_count": 14,
-            "word_count": 19466,
+            "word_count": 19488,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Arvin Road, Crossing Without a Crosswalk, Horizontal IDs on Route 12, & Yearly Passes at Fairlawn",
                     "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/arvin-road-crossing-without-a-crosswalk-horizontal-ids-on-route-12-yearly-passes-at-fairlawn",
                     "illustration_count": 6,
-                    "word_count": 8383,
+                    "word_count": 8368,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Unofficial Homeowners, One Bedroom and One Office, & The Closet We Both Know We'll Use",
                             "file_path": "e007/c001/p001.md",
                             "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/arvin-road-crossing-without-a-crosswalk-horizontal-ids-on-route-12-yearly-passes-at-fairlawn/part-1-unofficial-homeowners-one-bedroom-and-one-office-the-closet-we-both-know-we-ll-use",
-                            "word_count": 2415,
+                            "word_count": 2410,
                             "reading_minutes": 10,
                             "date": "2007-03-18",
                             "start_time": "18:30",
@@ -1431,7 +1287,7 @@
                             "part_title": "Part 3: Crossing Both Roads for Route 12, Buckner Boulevard DMV, & Horizontal State IDs on the Spot",
                             "file_path": "e007/c001/p003.md",
                             "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/arvin-road-crossing-without-a-crosswalk-horizontal-ids-on-route-12-yearly-passes-at-fairlawn/part-3-crossing-both-roads-for-route-12-buckner-boulevard-dmv-horizontal-state-ids-on-the-spot",
-                            "word_count": 1724,
+                            "word_count": 1714,
                             "reading_minutes": 7,
                             "date": "2007-03-23",
                             "start_time": "09:40",
@@ -1475,14 +1331,14 @@
                     "chap_title": "A Near-Miss at Dying Glenrock Mall, Locking Down WHOIS, & Forming Our Virginia LLC",
                     "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/a-near-miss-at-dying-glenrock-mall-locking-down-whois-forming-our-virginia-llc",
                     "illustration_count": 2,
-                    "word_count": 2111,
+                    "word_count": 2144,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Dying Single-Story Mall, Spotting Brenda in the Concourse, & The WHOIS Wake-Up Call",
                             "file_path": "e007/c002/p001.md",
                             "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/a-near-miss-at-dying-glenrock-mall-locking-down-whois-forming-our-virginia-llc/part-1-a-dying-single-story-mall-spotting-brenda-in-the-concourse-the-whois-wake-up-call",
-                            "word_count": 1145,
+                            "word_count": 1178,
                             "reading_minutes": 5,
                             "date": "2007-03-29",
                             "start_time": "15:25",
@@ -1526,7 +1382,7 @@
                     "chap_title": "Twenty-Two in Alexandria: Riding DMV Transit, Touring the White House & the U.S. Capitol, Meeting Senator James West, The Spark to Run for City Council, & Two Blue Passports",
                     "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-touring-the-white-house-the-u-s-capitol-meeting-senator-james-west-the-spark-to-run-for-city-council-two-blue-passports",
                     "illustration_count": 5,
-                    "word_count": 7794,
+                    "word_count": 7798,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1554,7 +1410,7 @@
                             "part_title": "Part 2: Unclipping Our Backpacks, Where Is President George W. Walker Today?, & The White House Tour That Sparked a Political Calling",
                             "file_path": "e007/c003/p002.md",
                             "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-touring-the-white-house-the-u-s-capitol-meeting-senator-james-west-the-spark-to-run-for-city-council-two-blue-passports/part-2-unclipping-our-backpacks-where-is-president-george-w-walker-today-the-white-house-tour-that-sparked-a-political-calling",
-                            "word_count": 2366,
+                            "word_count": 2370,
                             "reading_minutes": 10,
                             "date": "2007-04-10",
                             "start_time": "08:15",
@@ -1795,7 +1651,7 @@
             "era_title": "The Gentlewoman from Virginia Beach: The House of Delegates",
             "era_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates",
             "illustration_count": 16,
-            "word_count": 51256,
+            "word_count": 51295,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1912,7 +1768,7 @@
                     "chap_title": "House Bill 663 & Live on Meet the Nation",
                     "chap_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation",
                     "illustration_count": 6,
-                    "word_count": 26155,
+                    "word_count": 26181,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1944,12 +1800,12 @@
                             "part_title": "Part 2: Transit Legislative Day in Room 518, The Six-O'Clock News, & Two Meltdowns Answered by Page Forty-Two",
                             "file_path": "e009/c003/p002.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-2-transit-legislative-day-in-room-518-the-six-o-clock-news-two-meltdowns-answered-by-page-forty-two",
-                            "word_count": 7542,
+                            "word_count": 7558,
                             "reading_minutes": 31,
                             "date": "2016-02-04",
                             "start_time": "14:15",
                             "location": "Richmond, VA (Room 518 of the General Assembly Building & Broad & Boulevard Lofts)",
-                            "excerpt": "After welcoming old friends to Room 518 on Virginia Transit Legislative Day and seeing Katie's floor clip lead the evening news, a polite Friday call from Meet the Nation sets off a staffer outburst and a dual autistic meltdown\u2014until both floor leaders and the House Page triplets step in.",
+                            "excerpt": "After Transit Legislative Day, a staffer's outburst triggers a dual meltdown in Room 518\u2014until both floor leaders and the House Page triplets step in.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/feb_2016_room_518_triplets_and_floor_leaders_reassurance.jpg",
                             "image_alt": "Inside wood-paneled Room 518 of the Virginia General Assembly Building on Friday morning, February 5, 2016, 30-year-old Delegate Katie Prairie and her twin brother Nate sit side by side in their black-and-silver motorized SwiftChair power wheelchairs holding inner hands across their armrests and smiling with warm relief as Republican Majority Leader Richard Callaway, Democratic Minority Leader Tom Toscano, and 13-year-old eighth-grade House Page triplets Sam, Mandy, and Sarah Hawkins stand before them with yellow transportation bill folders.",
                             "images": [
@@ -1965,12 +1821,12 @@
                             "part_title": "Part 3: Hold the Elevator!, Reuniting With Cousin Brittany in Room 518, Friday Night on JRTC Route 6, & Why Nate Must Speak",
                             "file_path": "e009/c003/p003.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-3-hold-the-elevator-reuniting-with-cousin-brittany-in-room-518-friday-night-on-jrtc-route-6-why-nate-must-speak",
-                            "word_count": 4720,
+                            "word_count": 4730,
                             "reading_minutes": 19,
                             "date": "2016-02-05",
                             "start_time": "13:15",
                             "location": "Richmond, VA (General Assembly Building Elevator Lobby, Room 518, JRTC Route 6 to Oak Lawn Diner, & Broad & Boulevard Lofts)",
-                            "excerpt": "Shouting 'Hold the elevator!' in the General Assembly Building lobby brings Katie and Nate face-to-face with estranged cousin Brittany Fletcher\u2014who tearfully begs them in Room 518 to speak up at tomorrow's South Richmond wedding so she can escape abusive Tyler.",
+                            "excerpt": "Shouting 'Hold the elevator!' reunites Katie and Nate with cousin Brittany\u2014who tearfully begs them in Room 518 to stop tomorrow's forced wedding.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/feb_2016_gab_elevator_hold_reunion_brittany_katie_nate.jpg",
                             "image_alt": "In the marble ground-floor elevator lobby of the Virginia General Assembly Building at 1:15 PM on Friday, February 5, 2016, 30-year-old cousin Brittany Fletcher\u2014with a heavy-set build, thin silver wire-rimmed oval glasses, and medium-blonde hair in a plum sweater under an open dark winter coat\u2014holds the open brass elevator door with her left hand in breathless astonishment as 30-year-old Delegate Katie Prairie and her twin brother Nate roll toward the cab side by side in their motorized SwiftChair power wheelchairs, looking up at Brittany in wide-eyed shock.",
                             "images": [
@@ -2013,19 +1869,19 @@
                     "chap_title": "Keeping Our High-School Promise, Rescuing Cousin Chelsea From Mount Regalis, & Out of the Closet Into Our Four-Person Nest",
                     "chap_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest",
                     "illustration_count": 4,
-                    "word_count": 13926,
+                    "word_count": 13939,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Sine Die, Welcoming Brittany Home to Arvin Road, Route 20 to the Coastal Adult Learning Center, & Three Cousins in the Closet",
                             "file_path": "e009/c004/p001.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest/part-1-sine-die-welcoming-brittany-home-to-arvin-road-route-20-to-the-coastal-adult-learning-center-three-cousins-in-the-closet",
-                            "word_count": 2812,
+                            "word_count": 2818,
                             "reading_minutes": 12,
                             "date": "2016-03-14",
                             "start_time": "16:30",
                             "location": "Virginia Beach, VA (Our House on Arvin Road & The Coastal Adult Learning Center off Virginia Beach Boulevard)",
-                            "excerpt": "When the 2016 General Assembly adjourns sine die, Brittany moves in on Arvin Road\u2014sleeping beside Katie and Nate in the closet while earning her HSE via Route 20.",
+                            "excerpt": "After sine die, Brittany moves home to Arvin Road\u2014sleeping beside Katie and Nate in the closet while riding Route 20 to earn her HSE diploma.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/mar_2016_coastal_adult_learning_center_route_20_hse_enrollment_brittany_katie_nate.jpg",
                             "image_alt": "Along the south sidewalk of eight-lane divided U.S. Route 58\u2014Virginia Beach Boulevard\u2014outside the single-story brick Coastal Adult Learning Center on a sunny March 2016 morning as an eastbound CVTA Route 20 transit bus (#2520) sits at the right-hand curb beside four approaching eastbound lanes and four receding westbound lanes across the raised grassy median, 30-year-old Katie and Nathaniel Prairie sit side by side in their motorized SwiftChair power wheelchairs smiling up at their 30-year-old cousin Brittany Fletcher standing safely on the concrete sidewalk in her thin silver wire-rimmed oval glasses, burgundy knit sweater, and blue jeans holding her blue HSE study binder.",
                             "images": [
@@ -2041,12 +1897,12 @@
                             "part_title": "Part 2: Turned Away at the Royal Gate, Riding BTA Route 99 Up Mount Regalis, Catching the Two-Faced Manager Red-Handed, & 'No Known Living Family'",
                             "file_path": "e009/c004/p002.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest/part-2-turned-away-at-the-royal-gate-riding-bta-route-99-up-mount-regalis-catching-the-two-faced-manager-red-handed-no-known-living-family",
-                            "word_count": 2999,
-                            "reading_minutes": 12,
+                            "word_count": 3005,
+                            "reading_minutes": 13,
                             "date": "2016-07-18",
                             "start_time": "13:40",
                             "location": "Braxton, RI (King's College on Mount Regalis, Regalis Park Station, BTA Route 99, & Braxton City Hall)",
-                            "excerpt": "Turned away at King's College's snobby front gate, Dad, Katie, Nate, and Brittany ride BTA Route 99 up Mount Regalis unannounced\u2014catching Chelsea's group home manager red-handed and uncovering a falsified guardianship decree.",
+                            "excerpt": "Turned away at King's College's front gate, Dad, Katie, Nate, and Brittany ride BTA Route 99 up Mount Regalis to catch Chelsea's group home director.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/jul_2016_kings_college_mount_regalis_bta_route_99_scrub_bus_arrival_family.jpg",
                             "image_alt": "At the bleak rear Service Gate turnaround loop beside the brick campus steam plant and green dumpsters on Mount Regalis at King's College in Braxton, Rhode Island on a bright July 2016 afternoon as the hourly BTA Route 99 shuttle bus pulls away from a lone rusted stop pole, 31-year-old Katie and Nathaniel Prairie roll side by side in their SwiftChair power wheelchairs holding hands alongside their father David and cousin Brittany toward a weathered brick group-home annex while two snobby King's College students in purple-and-gold polo shirts look down their noses from the upper stone balustrade.",
                             "images": [
@@ -2083,7 +1939,7 @@
                             "part_title": "Part 4: Tagless Puffer-Pocket Pajamas, Gentle Reminders, Fear of 'Group Home Two-Face,' & Four Cousins Crammed Into One Closet",
                             "file_path": "e009/c004/p004.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest/part-4-tagless-puffer-pocket-pajamas-gentle-reminders-fear-of-group-home-two-face-four-cousins-crammed-into-one-closet",
-                            "word_count": 2722,
+                            "word_count": 2723,
                             "reading_minutes": 11,
                             "date": "2016-07-21",
                             "start_time": "20:45",
@@ -2132,7 +1988,7 @@
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
             "illustration_count": 9,
-            "word_count": 18300,
+            "word_count": 18307,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2203,7 +2059,7 @@
                     "chap_title": "The Accessibility Project: Riding Every Bus Across the Commonwealth for the United States Senate",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate",
                     "illustration_count": 6,
-                    "word_count": 12642,
+                    "word_count": 12649,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2231,12 +2087,12 @@
                             "part_title": "Part 2: The Jammed Ramp on Victoria Boulevard, ShoreLine Transit Across the Bay, & Wearing the NFA's 'F' Grade in Fairfax",
                             "file_path": "e010/c003/p002.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-2-the-jammed-ramp-on-victoria-boulevard-shoreline-transit-across-the-bay-wearing-the-nfa-s-f-grade-in-fairfax",
-                            "word_count": 2409,
+                            "word_count": 2416,
                             "reading_minutes": 10,
                             "date": "2026-03-28",
                             "start_time": "10:15",
                             "location": "Hampton, Accomac, Williamsburg, Doswell, & Fairfax, VA (CVTA Route 103, ShoreLine Transit, ARTS, & Fairfax Link)",
-                            "excerpt": "Refusing a luxury campaign tour bus, Katie, Nate, and David ride local transit across Hampton Roads, the Eastern Shore, Central Virginia, and Northern Virginia to gather 24,812 voter signatures\u2014turning a jammed bus ramp on Victoria Boulevard in Hampton and an 'F' grade from the National Firearms Association in Fairfax into defining moments of the campaign.",
+                            "excerpt": "Riding local transit statewide for 24,812 signatures, Katie turns a jammed Hampton bus ramp and an NFA 'F' grade into defining campaign moments.",
                             "image": "/raggiesoft-books/images/scenes/katie/b006/mar_2026_hampton_3400_victoria_blvd_jammed_ramp_rain_katie_nate_david.jpg",
                             "image_alt": "In the pouring March 2026 rain on Victoria Boulevard in Hampton, Virginia, 40-year-old State Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs on the wet sidewalk beside a coastal transit bus whose front flip-out wheelchair ramp has jammed halfway out, talking warmly with the bus operator and Peninsula shipyard and hospital commuters while their father David holds an umbrella.",
                             "images": [
@@ -2323,7 +2179,7 @@
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 35,
-            "word_count": 76204,
+            "word_count": 76239,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2624,7 +2480,7 @@
                     "chap_title": "The Norfolk Carrier Leak, Suite 756 at Timberline Shopping Center, & Three Convictions in the Senate",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/the-norfolk-carrier-leak-suite-756-at-timberline-shopping-center-three-convictions-in-the-senate",
                     "illustration_count": 8,
-                    "word_count": 13710,
+                    "word_count": 13736,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2685,7 +2541,7 @@
                             "part_title": "Part 3: The Words of Mason, Madison, and Lincoln, Three Guilty Votes, & From Capitol Police Protection Back to Normal Life at Pleasure House Road",
                             "file_path": "e011/c004/p003.md",
                             "url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-suite-756-at-timberline-shopping-center-three-convictions-in-the-senate/part-3-the-words-of-mason-madison-and-lincoln-three-guilty-votes-from-capitol-police-protection-back-to-normal-life-at-pleasure-house-road",
-                            "word_count": 6020,
+                            "word_count": 6046,
                             "reading_minutes": 25,
                             "date": "2027-07-17",
                             "start_time": "13:30",
@@ -2776,14 +2632,14 @@
                     "chap_title": "Three Senate Terms, Refusing the 2044 Nomination, & The Stop #0812 Four-Seat Presidential Endorsement Loop",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop",
                     "illustration_count": 5,
-                    "word_count": 13570,
+                    "word_count": 13579,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Refusing the 2045 Presidency From Home, Five Statutory Shields Against the Bubble, & Out of the Closet Into Our Four-Person Nest",
                             "file_path": "e011/c007/p001.md",
                             "url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/part-1-refusing-the-2045-presidency-from-home-five-statutory-shields-against-the-bubble-out-of-the-closet-into-our-four-person-nest",
-                            "word_count": 3548,
+                            "word_count": 3553,
                             "reading_minutes": 15,
                             "date": "2043-10-24",
                             "start_time": "16:30",
@@ -2804,7 +2660,7 @@
                             "part_title": "Part 2: The Biggest Prize in the Primary: Sam, Mandy, & Sarah's Bus-Loop Plan & Stop #0812",
                             "file_path": "e011/c007/p002.md",
                             "url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/part-2-the-biggest-prize-in-the-primary-sam-mandy-sarah-s-bus-loop-plan-stop-0812",
-                            "word_count": 2592,
+                            "word_count": 2596,
                             "reading_minutes": 11,
                             "date": "2044-01-29",
                             "start_time": "13:15",
