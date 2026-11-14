@@ -20,7 +20,7 @@
   },
   "albumRelease": {
     "@type": "MusicRelease",
-    "datePublished": "2017-03-14"
+    "datePublished": "2026-11-07"
   },
   "subtitle": "The 2015–2016 Reignition World Tour • 2-Disc Indoor Arena Double Live Album",
   "linerNotes": [
@@ -46,5 +46,6 @@
       "variant": "warning",
       "content": "Engineered for physical double-CD release without splitting a single musical suite across disc breaks, Disc 1 (67:11) propels the listener from 'The Stardust Engine' and 'Main Engine Start' through the Freedom Era rock block ('The Fortress', 'The Family', 'Twin Frequency', 'No Strings on the Master') before 'Orbital Return' launches the arena into space. Disc 2 (64:35) opens directly in orbit with the unbroken four-song Twin Moons Arena Suite ('Moon 1: Tidal Lock' -> 'Moon 2: Roche Limit' -> 'Mayday: The Intercept' -> 'Twin Moons: Touchdown') and builds to the main-set finale 'Where the Stars Still Burn' and standard four-piece arena encore 'Electric Color.'"
     }
-  ]
+  ],
+  "datePublished": "2026-11-07"
 }

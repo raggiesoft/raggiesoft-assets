@@ -20,7 +20,7 @@
   },
   "albumRelease": {
     "@type": "MusicRelease",
-    "datePublished": "1999-11-20"
+    "datePublished": "2026-11-01"
   },
   "subtitle": "The 1998–1999 Freedom Era World Tour",
   "linerNotes": [
@@ -44,5 +44,6 @@
         "url": "https://stardust.raggiesoft.com/story/hard-reset/hard-reset-tour/paternoster-incident"
       }
     }
-  ]
+  ],
+  "datePublished": "2026-11-01"
 }

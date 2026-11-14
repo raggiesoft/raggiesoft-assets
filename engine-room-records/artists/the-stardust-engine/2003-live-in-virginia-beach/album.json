@@ -20,7 +20,7 @@
   },
   "albumRelease": {
     "@type": "MusicRelease",
-    "datePublished": "2003-02-18"
+    "datePublished": "2026-10-25"
   },
   "subtitle": "Recorded Live at CTI Virginia Beach Amphitheater • First Recorded Live Album Performance of \"The Flight Path\" (Mid-Concert Placement)",
   "linerNotes": [
@@ -46,6 +46,6 @@
       "variant": "warning",
       "content": "Following The Stardust Engine's canonical live architecture, the concert opens with 'The Stardust Engine' and closes with 'Electric Color', while 'If You Walked Away' remains permanently retired out of respect for Cassidy's autistic boundaries."
     }
-  ]
+  ],
+  "datePublished": "2026-10-25"
 }
-

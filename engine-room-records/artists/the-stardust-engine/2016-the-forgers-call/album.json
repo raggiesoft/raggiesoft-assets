@@ -20,7 +20,7 @@
   },
   "albumRelease": {
     "@type": "MusicRelease",
-    "datePublished": "2016-10-15"
+    "datePublished": "2026-10-27"
   },
   "subtitle": "30th-Anniversary CPI & Blacksburg Archival Compilation (1986–2016) • Companion Anthology to Live at the Crucible",
   "linerNotes": [
@@ -47,5 +47,6 @@
       "variant": "primary",
       "content": "Because 16-year-old Holly O'Connell redlined CPI's boilerplate Work-for-Hire contest form in October 1986 and negotiated the $1.00 Perpetual Mutual Cross-License ('The Progress Street Redline', celebrated in Track 7, 'One Dollar on the Kitchen Table'), The Stardust Engine secured a perpetual legal right to reference CPI landmarks across their catalog—from Commonwealth Green (Track 5), The Keystone Bridge (Track 6), and Copernicus Hall (Track 8) to The Foundry dining hall and Maroon & Molten Orange (Track 9), Bennett Hall / 'The Old Lady on the Hill' (Track 10), and The Furnace (Track 11)."
     }
-  ]
+  ],
+  "datePublished": "2026-10-27"
 }

@@ -20,7 +20,7 @@
   },
   "albumRelease": {
     "@type": "MusicRelease",
-    "datePublished": "2005-04-18"
+    "datePublished": "2026-10-27"
   },
   "subtitle": "The 2003–2004 Twin Moons & Progress Street Tour Finale at the Norfolk Prism Arena",
   "linerNotes": [
@@ -46,5 +46,6 @@
       "variant": "danger",
       "content": "While Live in Norfolk features multiple live staples from 2004's Progress Street, 'Saturday Night Lights: The Crucible' was deliberately omitted from the Norfolk setlist. By unbreakable band vow, 'Saturday Night Lights: The Crucible' is ONLY ever performed live when the band is playing inside The Crucible in Blacksburg (where it made its live concert debut in 2016)."
     }
-  ]
+  ],
+  "datePublished": "2026-10-27"
 }

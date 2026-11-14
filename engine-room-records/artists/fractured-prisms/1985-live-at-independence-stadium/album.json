@@ -20,7 +20,7 @@
   },
   "albumRelease": {
     "@type": "MusicRelease",
-    "datePublished": "1985-08-15"
+    "datePublished": "2026-10-16"
   },
   "subtitle": "The 1985 Philadelphia Stadium Manifestation",
   "linerNotes": [
@@ -34,5 +34,6 @@
       "variant": "info",
       "content": "To protect Claire's sensory processing in front of 90,000 screaming fans, the stage monitor system was engineered as an acoustic cancellation dome—giving Claire crystal-clear studio isolation at center stage while the stadium PA thundered outward."
     }
-  ]
+  ],
+  "datePublished": "2026-10-16"
 }
