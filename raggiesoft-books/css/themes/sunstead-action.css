@@ -1,73 +1,114 @@
 /**
  * ============================================================================
- * RAGGIESOFT BOOKS THEME: SUNSTEAD ACTION
+ * STARDUST ENGINE NARRATIVE THEME: SUNSTEAD ACTION (`sunstead-action.css`)
  * ============================================================================
- * Architecture: CSS Theme Variable Definitions
- * Purpose: Defines the color palette for the "Sunstead Action" reading theme.
- *          This theme utilizes high-energy rose and crimson tones to 
- *          complement fast-paced, action-oriented reading material.
- * 
- * Future Maintenance Notes:
- * - This file strictly defines CSS variables (\`--rs-*\`) and should not 
- *   contain any structural CSS rules (like paddings or margins).
- * - Ensure that contrast ratios between \`--rs-text\` and \`--rs-bg\` / \`--rs-surface\` 
- *   meet WCAG AA standards for readability.
- * - The theme utilizes a 3-tier cascade: Light Mode (default/forced), 
- *   Dark Mode (forced), and Auto Mode (media query driven).
+ *
+ * Architectural Overview:
+ * RAGGIESOFT BOOKS THEME: SUNSTEAD ACTION Architecture: CSS Theme Variable Definitions Purpose: Defines the color palette for the "Sunstead Action" reading theme. This theme utilizes high-energy rose and crimson tones to complement fast-paced, action-oriented reading material. Future Maintenance Notes: - This file strictly defines CSS variables (\`--rs-*\`) and should not contain any structural CSS rules (like paddings or margins).
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#fff1f2` / `#ffe4e6` (`color-scheme: light`)
+ *     * Body Prose (`#871337`): 8.03:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#984a62`): 5.01:1 min (WCAG AA)
+ *     * Headings (`#650e29`): 10.61:1 min (WCAG AAA)
+ *     * Primary Accent (`#be123c`): 5.24:1 min (`--rs-on-primary: #ffffff` = 6.29:1)
+ *     * Secondary Accent (`#c1193e`): 5.03:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#4c0519` / `#881337` (`color-scheme: dark`)
+ *     * Body Prose (`#f8fafc`): 9.14:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#cbbbc1`): 5.20:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 9.14:1 min (WCAG AAA)
+ *     * Primary Accent (`#fda8b4`): 5.21:1 min (`--rs-on-primary: #2a030e` = 10.23:1)
+ *     * Secondary Accent (`#faa4b2`): 5.02:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Sunstead Action */
-
-/**
- * ----------------------------------------------------------------------------
- * 1. LIGHT MODE (BASE)
- * ----------------------------------------------------------------------------
- * Applied when the theme is explicitly set to light mode, or as the default 
- * fallback. Features pale rose backgrounds with deep crimson text.
- */
-body.theme-sunstead-action,
-body.theme-light.theme-sunstead-action {
-    --rs-bg: #fff1f2;       /* Very light rose/pink background */
-    --rs-surface: #ffe4e6;  /* Slightly deeper rose for elevated cards/modals */
-    --rs-text: #881337;     /* Deep crimson for high contrast text */
-    --rs-primary: #be123c;  /* Strong red/crimson for primary actions */
-    --rs-secondary: #e11d48;/* Brighter red for secondary UI elements */
-    --rs-border: #fecdd3;   /* Soft pink/rose for dividers and borders */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-sunstead-action, .narrative-theme-sunstead-action, [data-narrative-theme="sunstead-action"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-sunstead-action, .narrative-theme-sunstead-action, [data-narrative-theme="sunstead-action"]) {
+    color-scheme: light;
+    --rs-bg: #fff1f2;
+    --rs-bg-alt: #f4ebee;
+    --rs-surface: #ffe4e6;
+    --rs-card-bg: #ffe4e6;
+    --rs-text: #871337;
+    --rs-text-muted: #984a62;
+    --rs-heading: #650e29;
+    --rs-primary: #be123c;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #c1193e;
+    --rs-border: #fecdd3;
+    --rs-asl: #0368a0;
+    --rs-gesture: #4338ca;
+    accent-color: #be123c;
 }
 
-/**
- * ----------------------------------------------------------------------------
- * 2. DARK MODE (EXPLICIT)
- * ----------------------------------------------------------------------------
- * Applied when the user explicitly forces the app into dark mode. 
- * Inverts the palette to very dark blood red with pale pink text.
- */
-body.theme-dark.theme-sunstead-action {
-    --rs-bg: #4c0519;       /* Extremely dark blood red background */
-    --rs-surface: #881337;  /* Lighter deep crimson for elevated surfaces */
-    --rs-text: #fff1f2;     /* Pale pink/white text for readability */
-    --rs-primary: #fb7185;  /* Soft bright rose for primary actions */
-    --rs-secondary: #f43f5e;/* Stronger pink/red for secondary actions */
-    --rs-border: #9f1239;   /* Dark crimson for subtle component borders */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-sunstead-action, .narrative-theme-sunstead-action, [data-narrative-theme="sunstead-action"]) {
+    color-scheme: dark;
+    --rs-bg: #4c0519;
+    --rs-bg-alt: #530f22;
+    --rs-surface: #881337;
+    --rs-card-bg: #881337;
+    --rs-text: #f8fafc;
+    --rs-text-muted: #cbbbc1;
+    --rs-heading: #f8fafc;
+    --rs-primary: #fda8b4;
+    --rs-on-primary: #2a030e;
+    --rs-secondary: #faa4b2;
+    --rs-border: #9f1239;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b6fd;
+    accent-color: #fda8b4;
 }
 
-/**
- * ----------------------------------------------------------------------------
- * 3. OS AUTO DARK MODE
- * ----------------------------------------------------------------------------
- * Applied when the app is in "Auto" mode and the operating system is set 
- * to dark mode. Duplicates the dark mode variables.
- */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    /* Target explicit .theme-auto OR bodies with no light/dark class */
-    body.theme-auto.theme-sunstead-action,
-    body:not(.theme-light):not(.theme-dark).theme-sunstead-action {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-sunstead-action, .narrative-theme-sunstead-action, [data-narrative-theme="sunstead-action"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-sunstead-action, .narrative-theme-sunstead-action, [data-narrative-theme="sunstead-action"]) {
+        color-scheme: dark;
         --rs-bg: #4c0519;
+        --rs-bg-alt: #530f22;
         --rs-surface: #881337;
-        --rs-text: #fff1f2;
-        --rs-primary: #fb7185;
-        --rs-secondary: #f43f5e;
+        --rs-card-bg: #881337;
+        --rs-text: #f8fafc;
+        --rs-text-muted: #cbbbc1;
+        --rs-heading: #f8fafc;
+        --rs-primary: #fda8b4;
+        --rs-on-primary: #2a030e;
+        --rs-secondary: #faa4b2;
         --rs-border: #9f1239;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b6fd;
+        accent-color: #fda8b4;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-sunstead-action, .narrative-theme-sunstead-action, [data-narrative-theme="sunstead-action"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-sunstead-action, .narrative-theme-sunstead-action, [data-narrative-theme="sunstead-action"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-sunstead-action, .narrative-theme-sunstead-action, [data-narrative-theme="sunstead-action"])::before,
+    body:is(.theme-sunstead-action, .narrative-theme-sunstead-action, [data-narrative-theme="sunstead-action"])::after {
+        display: none !important;
     }
 }

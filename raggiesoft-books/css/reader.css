@@ -76,9 +76,9 @@ html[data-os="ios"].is-pwa-standalone .reader-page {
     line-height: var(--rs-line-height, 1.8);
     color: var(--rs-text);
 }
-/* Metadata headers for parts and series */
-.reader-series-header { font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: var(--rs-primary, #007bff); margin-bottom: 1rem; opacity: 0.9; }
-.reader-part-header { font-size: clamp(1.75rem, 5vw, 2.5rem); font-weight: 900; color: var(--rs-text); margin: 0 0 1rem 0; line-height: 1.2; }
+/* Metadata headers for parts and series (100% opacity so --rs-primary preserves verified WCAG 2.1 AA contrast) */
+.reader-series-header { font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: var(--rs-primary, #0F4C5C); margin-bottom: 1rem; }
+.reader-part-header { font-size: clamp(1.75rem, 5vw, 2.5rem); font-weight: 900; color: var(--rs-heading, var(--rs-text)); margin: 0 0 1rem 0; line-height: 1.2; }
 
 /* 16:9 Chapter Header Plate (Option A — physical-novel headpiece illustration above chapter title) */
 .reader-chapter-plate {
@@ -177,18 +177,113 @@ html[data-os="ios"].is-pwa-standalone .reader-page {
 }
 .toc-nav a:hover { opacity: 1 !important; color: var(--rs-primary); }
 
-/* Settings & Themes (settings.php / reader.js) */
-/* Theme variable definitions injected onto the body tag */
-body { --rs-heading: var(--rs-text); }
-body.theme-light { color-scheme: light; --rs-bg: #f4f4f5; --rs-bg-alt: #fafafa; --rs-card-bg: #ffffff; --rs-text: #18181b; --rs-heading: #0f172a; --rs-border: #e2e8f0; --rs-surface: #ffffff; }
-body.theme-dark { color-scheme: dark; --rs-bg: #121212; --rs-bg-alt: #1a1a1a; --rs-card-bg: #1e1e1e; --rs-text: #e0e0e0; --rs-heading: #f8fafc; --rs-border: #333; --rs-surface: #1e1e1e; }
-body.theme-sepia, body.theme-sepia-system { color-scheme: light; --rs-bg: #f4ecd8; --rs-bg-alt: #eaddc4; --rs-card-bg: #fdf6e3; --rs-text: #5c4b37; --rs-heading: #3e3122; --rs-border: #e0d5c1; --rs-surface: #fdf6e3; }
-body.theme-dark-sepia { color-scheme: dark; --rs-bg: #2b251e; --rs-bg-alt: #383028; --rs-card-bg: #1f1b16; --rs-text: #e0d5c1; --rs-heading: #f4ecd8; --rs-border: #4a4135; --rs-surface: #1f1b16; }
+/* Settings & Themes (settings.php / reader.js)
+ * Complete 13-token WCAG 2.1 AA/AAA base fallbacks scoped via `:where(:not(.theme-oceanview))`
+ * so `theme-oceanview.min.css` governs Ocean View Archives with zero hybrid token clobbering,
+ * while standalone Stardust Engine deployments still receive full 13-token Light/Dark/Sepia support.
+ */
+body:where(:not(.theme-oceanview)),
+body:where(:not(.theme-oceanview)).theme-light {
+    color-scheme: light;
+    --rs-bg: #f4f4f5;
+    --rs-bg-alt: #fafafa;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #18181b;
+    --rs-text-muted: #475569;
+    --rs-heading: #0f172a;
+    --rs-primary: #1d4ed8;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #4338ca;
+    --rs-border: #cbd5e1;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+}
+body:where(:not(.theme-oceanview)).theme-dark {
+    color-scheme: dark;
+    --rs-bg: #121212;
+    --rs-bg-alt: #1a1a1a;
+    --rs-surface: #1e1e1e;
+    --rs-card-bg: #1e1e1e;
+    --rs-text: #e2e8f0;
+    --rs-text-muted: #a1a1aa;
+    --rs-heading: #f8fafc;
+    --rs-primary: #60a5fa;
+    --rs-on-primary: #090d16;
+    --rs-secondary: #a5b4fc;
+    --rs-border: #333333;
+    --rs-asl: #38bdf8;
+    --rs-gesture: #c4b5fd;
+}
+body:where(:not(.theme-oceanview)).theme-sepia,
+body:where(:not(.theme-oceanview)).theme-sepia-system {
+    color-scheme: light;
+    --rs-bg: #f4ecd8;
+    --rs-bg-alt: #e9dec3;
+    --rs-surface: #ece2c8;
+    --rs-card-bg: #f8f2e2;
+    --rs-text: #3b2e22;
+    --rs-text-muted: #5c4938;
+    --rs-heading: #241a10;
+    --rs-primary: #0F4C5C;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #7c2d12;
+    --rs-border: #cbbba0;
+    --rs-asl: #075985;
+    --rs-gesture: #4c1d95;
+}
+body:where(:not(.theme-oceanview)).theme-dark-sepia {
+    color-scheme: dark;
+    --rs-bg: #1c1814;
+    --rs-bg-alt: #231e19;
+    --rs-surface: #28221c;
+    --rs-card-bg: #28221c;
+    --rs-text: #e8dcc8;
+    --rs-text-muted: #b8a68e;
+    --rs-heading: #f7efe2;
+    --rs-primary: #e5b57d;
+    --rs-on-primary: #19130c;
+    --rs-secondary: #f0ab68;
+    --rs-border: #463a2e;
+    --rs-asl: #7dd3fc;
+    --rs-gesture: #d8b4fe;
+}
 
-/* System auto-detection */
+/* System auto-detection for standalone non-OceanView deployments */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto { color-scheme: dark; --rs-bg: #121212; --rs-bg-alt: #1a1a1a; --rs-card-bg: #1e1e1e; --rs-text: #e0e0e0; --rs-heading: #f8fafc; --rs-border: #333; --rs-surface: #1e1e1e; }
-    body.theme-sepia-system { color-scheme: dark; --rs-bg: #2b251e; --rs-bg-alt: #383028; --rs-card-bg: #1f1b16; --rs-text: #e0d5c1; --rs-heading: #f4ecd8; --rs-border: #4a4135; --rs-surface: #1f1b16; }
+    body:where(:not(.theme-oceanview)).theme-auto,
+    body:where(:not(.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):not(.theme-sepia-system)) {
+        color-scheme: dark;
+        --rs-bg: #121212;
+        --rs-bg-alt: #1a1a1a;
+        --rs-surface: #1e1e1e;
+        --rs-card-bg: #1e1e1e;
+        --rs-text: #e2e8f0;
+        --rs-text-muted: #a1a1aa;
+        --rs-heading: #f8fafc;
+        --rs-primary: #60a5fa;
+        --rs-on-primary: #090d16;
+        --rs-secondary: #a5b4fc;
+        --rs-border: #333333;
+        --rs-asl: #38bdf8;
+        --rs-gesture: #c4b5fd;
+    }
+    body:where(:not(.theme-oceanview)).theme-sepia-system {
+        color-scheme: dark;
+        --rs-bg: #1c1814;
+        --rs-bg-alt: #231e19;
+        --rs-surface: #28221c;
+        --rs-card-bg: #28221c;
+        --rs-text: #e8dcc8;
+        --rs-text-muted: #b8a68e;
+        --rs-heading: #f7efe2;
+        --rs-primary: #e5b57d;
+        --rs-on-primary: #19130c;
+        --rs-secondary: #f0ab68;
+        --rs-border: #463a2e;
+        --rs-asl: #7dd3fc;
+        --rs-gesture: #d8b4fe;
+    }
 }
 
 /* Native dialog backdrop styling */
@@ -210,10 +305,11 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
     .wizard-content { width: 100%; padding: 1.5rem; }
 }
 
-/* Tab navigation inside wizards */
-.settings-tab { background: transparent; border: none; padding: 0.5rem 1rem; font-size: 0.95rem; color: var(--rs-text); opacity: 0.7; cursor: pointer; border-bottom: 2px solid transparent; }
-.settings-tab:hover { opacity: 1; }
-.settings-tab.active { opacity: 1; font-weight: 600; color: var(--rs-primary); border-bottom: 2px solid var(--rs-primary); }
+/* Tab navigation inside wizards (uses semantic --rs-text-muted instead of opacity wash-out) */
+.settings-tab { background: transparent; border: none; padding: 0.5rem 1rem; font-size: 0.95rem; color: var(--rs-text-muted, var(--rs-text)); cursor: pointer; border-bottom: 2px solid transparent; }
+.settings-tab:hover { color: var(--rs-heading, var(--rs-text)); }
+.settings-tab:focus-visible { outline: 2px solid var(--rs-primary); outline-offset: -2px; }
+.settings-tab.active { font-weight: 600; color: var(--rs-primary); border-bottom: 2px solid var(--rs-primary); }
 
 /* Theme-aware input fields */
 .rs-input { background: var(--rs-surface); color: var(--rs-text); border: 1px solid var(--rs-border); border-radius: 6px; font-family: inherit; }
@@ -252,7 +348,7 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
 }
 
 /* iOS Native Tab Bar styling */
-/* Fixed bottom navigation simulating native iOS Safari/PWA styling */
+/* Fixed bottom navigation simulating native iOS Safari/PWA styling while adapting to active --rs-* tokens */
 .ios-tab-bar {
     position: fixed;
     bottom: 0;
@@ -260,10 +356,11 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
     right: 0;
     height: calc(49px + env(safe-area-inset-bottom, 0px));
     padding-bottom: env(safe-area-inset-bottom, 0px);
-    background: rgba(249, 249, 249, 0.85);
+    background: var(--rs-surface, #ffffff);
+    background: color-mix(in srgb, var(--rs-surface, #ffffff) 90%, transparent);
     backdrop-filter: saturate(180%) blur(20px);
     -webkit-backdrop-filter: saturate(180%) blur(20px);
-    border-top: 0.5px solid rgba(0, 0, 0, 0.3);
+    border-top: 1px solid var(--rs-border, rgba(0, 0, 0, 0.25));
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -286,35 +383,18 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
 .ios-tab-item span {
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
     font-size: 10px;
-    font-weight: 500;
+    font-weight: 600;
     line-height: 1;
 }
 .ios-tab-item.active {
     color: var(--rs-primary, #0F4C5C);
 }
 .ios-tab-item.inactive {
-    color: #475569;
+    color: var(--rs-text-muted, #475569);
 }
-/* iOS Tab Bar Dark Mode variants */
-body.theme-dark .ios-tab-bar, 
-body.theme-dark-sepia .ios-tab-bar {
-    background: rgba(28, 28, 30, 0.92);
-    border-top: 0.5px solid rgba(255, 255, 255, 0.18);
-}
-body.theme-dark .ios-tab-item.inactive, 
-body.theme-dark-sepia .ios-tab-item.inactive {
-    color: #cbd5e1;
-}
-@media (prefers-color-scheme: dark) {
-    body.theme-auto .ios-tab-bar,
-    body.theme-sepia-system .ios-tab-bar {
-        background: rgba(28, 28, 30, 0.92);
-        border-top: 0.5px solid rgba(255, 255, 255, 0.18);
-    }
-    body.theme-auto .ios-tab-item.inactive,
-    body.theme-sepia-system .ios-tab-item.inactive {
-        color: #cbd5e1;
-    }
+.ios-tab-item:focus-visible {
+    outline: 2px solid var(--rs-primary, #0F4C5C);
+    outline-offset: -2px;
 }
 
 /* PWA Native Title Bar Integration */

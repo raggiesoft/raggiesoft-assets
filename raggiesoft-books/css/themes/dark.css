@@ -1,35 +1,114 @@
 /**
  * ============================================================================
- * STARDUST THEME: DARK - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: DARK (`dark.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines a standalone "Dark" reading theme for the Stardust 
- * Engine. It utilizes very dark, warm/dirty gray tones with stark red accents.
- * 
- * Core Components:
- * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
- *    the main reader layout (reader.css).
- * 2. Single-State Definition: This theme acts as an explicit override. Unlike 
- *    cascading themes (which support light/dark variants), this file directly 
- *    targets the `body.theme-dark` class. 
- * 
- * Maintainability Notes:
- * - This file might be used as a legacy or direct override for environments 
- *   that strictly require a raw dark mode without a specific named aesthetic 
- *   beyond "Dark".
+ *
+ * Architectural Overview:
+ * STARDUST THEME: DARK - ARCHITECTURAL OVERVIEW Description: This stylesheet defines a standalone "Dark" reading theme for the Stardust Engine. It utilizes very dark, warm/dirty gray tones with stark red accents. Core Components: 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by the main reader layout (reader.css). cascading themes (which support light/dark variants), this file directly
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f5f3f0` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#1c1917`): 14.21:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#4f4945`): 7.19:1 min (WCAG AA)
+ *     * Headings (`#0c0a09`): 16.05:1 min (WCAG AAA)
+ *     * Primary Accent (`#991b1b`): 6.75:1 min (`--rs-on-primary: #ffffff` = 8.31:1)
+ *     * Secondary Accent (`#57534e`): 6.20:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#171412` / `#262220` (`color-scheme: dark`)
+ *     * Body Prose (`#ece9e6`): 13.04:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#b8b2ad`): 7.51:1 min (WCAG AA)
+ *     * Headings (`#fafaf9`): 15.09:1 min (WCAG AAA)
+ *     * Primary Accent (`#f87171`): 5.70:1 min (`--rs-on-primary: #0d0b0a` = 7.10:1)
+ *     * Secondary Accent (`#d6d3d1`): 10.58:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Dark */
-/* theme-dark.css */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.narrative-theme-dark, [data-narrative-theme="dark"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.narrative-theme-dark, [data-narrative-theme="dark"]) {
+    color-scheme: light;
+    --rs-bg: #f5f3f0;
+    --rs-bg-alt: #ebe7e2;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #1c1917;
+    --rs-text-muted: #4f4945;
+    --rs-heading: #0c0a09;
+    --rs-primary: #991b1b;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #57534e;
+    --rs-border: #d6d3d1;
+    --rs-asl: #03669d;
+    --rs-gesture: #4338ca;
+    accent-color: #991b1b;
+}
 
-/* --- Forced Dark State --- */
-body.theme-dark {
-    --rs-bg: #1c1917; /* Very dark warm gray (dirty) */
-    --rs-surface: #292524; /* Elevated dark stone surface */
-    --rs-text: #e7e5e4; /* Light off-white text for contrast */
-    --rs-primary: #dc2626; /* Angry/danger red primary accent */
-    --rs-secondary: #78716c; /* Muted stone secondary accent */
-    --rs-border: #44403c; /* Mid-tone dark gray border */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.narrative-theme-dark, [data-narrative-theme="dark"]) {
+    color-scheme: dark;
+    --rs-bg: #171412;
+    --rs-bg-alt: #1f1b19;
+    --rs-surface: #262220;
+    --rs-card-bg: #262220;
+    --rs-text: #ece9e6;
+    --rs-text-muted: #b8b2ad;
+    --rs-heading: #fafaf9;
+    --rs-primary: #f87171;
+    --rs-on-primary: #0d0b0a;
+    --rs-secondary: #d6d3d1;
+    --rs-border: #44403c;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #f87171;
+}
+
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.narrative-theme-dark, [data-narrative-theme="dark"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.narrative-theme-dark, [data-narrative-theme="dark"]) {
+        color-scheme: dark;
+        --rs-bg: #171412;
+        --rs-bg-alt: #1f1b19;
+        --rs-surface: #262220;
+        --rs-card-bg: #262220;
+        --rs-text: #ece9e6;
+        --rs-text-muted: #b8b2ad;
+        --rs-heading: #fafaf9;
+        --rs-primary: #f87171;
+        --rs-on-primary: #0d0b0a;
+        --rs-secondary: #d6d3d1;
+        --rs-border: #44403c;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #f87171;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.narrative-theme-dark, [data-narrative-theme="dark"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.narrative-theme-dark, [data-narrative-theme="dark"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.narrative-theme-dark, [data-narrative-theme="dark"])::before,
+    body:is(.narrative-theme-dark, [data-narrative-theme="dark"])::after {
+        display: none !important;
+    }
 }

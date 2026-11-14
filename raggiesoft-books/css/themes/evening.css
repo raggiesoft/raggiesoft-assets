@@ -1,36 +1,114 @@
 /**
  * ============================================================================
- * STARDUST THEME: EVENING - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: EVENING (`evening.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines a standalone "Evening" reading theme for the Stardust 
- * Engine. It utilizes deep twilight indigos and soft blue accents to evoke 
- * dusk or nighttime.
- * 
- * Core Components:
- * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
- *    the main reader layout (reader.css).
- * 2. Single-State Definition: This theme acts as an explicit override. Unlike 
- *    cascading themes (which support light/dark variants), this file directly 
- *    targets the `body.theme-evening` class. 
- * 
- * Maintainability Notes:
- * - This theme enforces a specific atmospheric tone (twilight) and intentionally 
- *   lacks a "light mode" variant. Do not add one, as it would break the 
- *   intended aesthetic.
+ *
+ * Architectural Overview:
+ * STARDUST THEME: EVENING - ARCHITECTURAL OVERVIEW Description: This stylesheet defines a standalone "Evening" reading theme for the Stardust Engine. It utilizes deep twilight indigos and soft blue accents to evoke dusk or nighttime. Core Components: 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by the main reader layout (reader.css).
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#eef0fb` / `#f8f9fe` (`color-scheme: light`)
+ *     * Body Prose (`#17153b`): 13.76:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#3c3870`): 8.34:1 min (WCAG AA)
+ *     * Headings (`#100e2e`): 14.77:1 min (WCAG AAA)
+ *     * Primary Accent (`#3730a3`): 7.86:1 min (`--rs-on-primary: #ffffff` = 9.93:1)
+ *     * Secondary Accent (`#4c1d95`): 8.66:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#141236` / `#232059` (`color-scheme: dark`)
+ *     * Body Prose (`#e8ecff`): 12.57:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#b4bdf5`): 8.11:1 min (WCAG AA)
+ *     * Headings (`#f5f7ff`): 13.80:1 min (WCAG AAA)
+ *     * Primary Accent (`#93a3fc`): 6.25:1 min (`--rs-on-primary: #0b0a1e` = 8.25:1)
+ *     * Secondary Accent (`#c4b5fd`): 8.00:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Evening */
-/* theme-evening.css */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-evening, .narrative-theme-evening, [data-narrative-theme="evening"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-evening, .narrative-theme-evening, [data-narrative-theme="evening"]) {
+    color-scheme: light;
+    --rs-bg: #eef0fb;
+    --rs-bg-alt: #e0e4f7;
+    --rs-surface: #f8f9fe;
+    --rs-card-bg: #ffffff;
+    --rs-text: #17153b;
+    --rs-text-muted: #3c3870;
+    --rs-heading: #100e2e;
+    --rs-primary: #3730a3;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #4c1d95;
+    --rs-border: #c3c9eb;
+    --rs-asl: #03649a;
+    --rs-gesture: #4338ca;
+    accent-color: #3730a3;
+}
 
-/* --- Forced Evening State --- */
-body.theme-evening {
-    --rs-bg: #1e1b4b; /* Deep twilight indigo background */
-    --rs-surface: #312e81; /* Elevated indigo surface */
-    --rs-text: #e0e7ff; /* Very pale blue text for contrast */
-    --rs-primary: #818cf8; /* Soft glowing blue primary accent */
-    --rs-secondary: #a5b4fc; /* Lighter blue secondary */
-    --rs-border: #3730a3; /* Mid-indigo border */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-evening, .narrative-theme-evening, [data-narrative-theme="evening"]) {
+    color-scheme: dark;
+    --rs-bg: #141236;
+    --rs-bg-alt: #1b1847;
+    --rs-surface: #232059;
+    --rs-card-bg: #232059;
+    --rs-text: #e8ecff;
+    --rs-text-muted: #b4bdf5;
+    --rs-heading: #f5f7ff;
+    --rs-primary: #93a3fc;
+    --rs-on-primary: #0b0a1e;
+    --rs-secondary: #c4b5fd;
+    --rs-border: #3c3785;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #93a3fc;
+}
+
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-evening, .narrative-theme-evening, [data-narrative-theme="evening"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-evening, .narrative-theme-evening, [data-narrative-theme="evening"]) {
+        color-scheme: dark;
+        --rs-bg: #141236;
+        --rs-bg-alt: #1b1847;
+        --rs-surface: #232059;
+        --rs-card-bg: #232059;
+        --rs-text: #e8ecff;
+        --rs-text-muted: #b4bdf5;
+        --rs-heading: #f5f7ff;
+        --rs-primary: #93a3fc;
+        --rs-on-primary: #0b0a1e;
+        --rs-secondary: #c4b5fd;
+        --rs-border: #3c3785;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #93a3fc;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-evening, .narrative-theme-evening, [data-narrative-theme="evening"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-evening, .narrative-theme-evening, [data-narrative-theme="evening"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-evening, .narrative-theme-evening, [data-narrative-theme="evening"])::before,
+    body:is(.theme-evening, .narrative-theme-evening, [data-narrative-theme="evening"])::after {
+        display: none !important;
+    }
 }

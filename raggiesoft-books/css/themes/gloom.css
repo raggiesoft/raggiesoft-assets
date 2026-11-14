@@ -1,66 +1,114 @@
 /**
  * ============================================================================
- * STARDUST THEME: GLOOM - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: GLOOM (`gloom.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines the "Gloom" reading theme for the Stardust Engine. 
- * It relies on a desaturated, zinc/gray color palette to evoke a bleak, 
- * atmospheric, and muted reading environment.
- * 
- * Core Components:
- * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
- *    the main reader layout (reader.css).
- * 2. Theme Cascade: Implements three specific states to handle user preferences 
- *    and OS-level settings:
- *    - Light Mode (Default/Base fallback)
- *    - Forced Dark Mode (User explicitly selected dark mode)
- *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
- * 
- * Maintainability Notes:
- * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
- *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
- *   state to prevent visual regressions during theme swapping.
- * - Always duplicate the Forced Dark Mode variables into the `@media` query 
- *   block to ensure visual consistency when OS Auto mode triggers.
+ *
+ * Architectural Overview:
+ * STARDUST THEME: GLOOM - ARCHITECTURAL OVERVIEW Description: This stylesheet defines the "Gloom" reading theme for the Stardust Engine. It relies on a desaturated, zinc/gray color palette to evoke a bleak, atmospheric, and muted reading environment. Core Components: 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by the main reader layout (reader.css).
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f4f4f5` / `#e4e4e7` (`color-scheme: light`)
+ *     * Body Prose (`#27272a`): 11.74:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#5f5f61`): 5.02:1 min (WCAG AA)
+ *     * Headings (`#1d1d20`): 13.25:1 min (WCAG AAA)
+ *     * Primary Accent (`#52525b`): 6.09:1 min (`--rs-on-primary: #ffffff` = 7.73:1)
+ *     * Secondary Accent (`#5e5e66`): 5.06:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#09090b` / `#18181b` (`color-scheme: dark`)
+ *     * Body Prose (`#f4f4f5`): 16.12:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#b7b7b8`): 8.84:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 16.93:1 min (WCAG AAA)
+ *     * Primary Accent (`#a1a1aa`): 6.91:1 min (`--rs-on-primary: #050506` = 7.95:1)
+ *     * Secondary Accent (`#888890`): 5.04:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Gloom */
-
-/* --- 1. Light Mode (Base) --- */
-/* Acts as the default state and explicitly forced light mode */
-body.theme-gloom,
-body.theme-light.theme-gloom {
-    --rs-bg: #f4f4f5; /* Light zinc background */
-    --rs-surface: #e4e4e7; /* Slightly darker surface for cards/panels */
-    --rs-text: #27272a; /* High contrast dark zinc text */
-    --rs-primary: #52525b; /* Muted primary accent */
-    --rs-secondary: #71717a; /* Muted secondary accent */
-    --rs-border: #d4d4d8; /* Subtle border color */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-gloom, .narrative-theme-gloom, [data-narrative-theme="gloom"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-gloom, .narrative-theme-gloom, [data-narrative-theme="gloom"]) {
+    color-scheme: light;
+    --rs-bg: #f4f4f5;
+    --rs-bg-alt: #ebedf1;
+    --rs-surface: #e4e4e7;
+    --rs-card-bg: #e4e4e7;
+    --rs-text: #27272a;
+    --rs-text-muted: #5f5f61;
+    --rs-heading: #1d1d20;
+    --rs-primary: #52525b;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #5e5e66;
+    --rs-border: #d4d4d8;
+    --rs-asl: #03649a;
+    --rs-gesture: #4338ca;
+    accent-color: #52525b;
 }
 
-/* --- 2. Dark Mode (Explicitly Forced) --- */
-/* Applied when the user manually toggles the reader to Dark Mode */
-body.theme-dark.theme-gloom {
-    --rs-bg: #09090b; /* Near-black zinc background */
-    --rs-surface: #18181b; /* Elevated dark surface */
-    --rs-text: #f4f4f5; /* Light zinc text for contrast */
-    --rs-primary: #a1a1aa; /* Lighter primary accent for visibility */
-    --rs-secondary: #71717a; /* Secondary accent */
-    --rs-border: #27272a; /* Dark border color */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-gloom, .narrative-theme-gloom, [data-narrative-theme="gloom"]) {
+    color-scheme: dark;
+    --rs-bg: #09090b;
+    --rs-bg-alt: #131315;
+    --rs-surface: #18181b;
+    --rs-card-bg: #18181b;
+    --rs-text: #f4f4f5;
+    --rs-text-muted: #b7b7b8;
+    --rs-heading: #f8fafc;
+    --rs-primary: #a1a1aa;
+    --rs-on-primary: #050506;
+    --rs-secondary: #888890;
+    --rs-border: #27272a;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #a1a1aa;
 }
 
-/* --- 3. OS Auto Dark Mode --- */
-/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-gloom,
-    body:not(.theme-light):not(.theme-dark).theme-gloom {
-        --rs-bg: #09090b; /* Matches Forced Dark Mode */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-gloom, .narrative-theme-gloom, [data-narrative-theme="gloom"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-gloom, .narrative-theme-gloom, [data-narrative-theme="gloom"]) {
+        color-scheme: dark;
+        --rs-bg: #09090b;
+        --rs-bg-alt: #131315;
         --rs-surface: #18181b;
+        --rs-card-bg: #18181b;
         --rs-text: #f4f4f5;
+        --rs-text-muted: #b7b7b8;
+        --rs-heading: #f8fafc;
         --rs-primary: #a1a1aa;
-        --rs-secondary: #71717a;
+        --rs-on-primary: #050506;
+        --rs-secondary: #888890;
         --rs-border: #27272a;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #a1a1aa;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-gloom, .narrative-theme-gloom, [data-narrative-theme="gloom"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-gloom, .narrative-theme-gloom, [data-narrative-theme="gloom"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-gloom, .narrative-theme-gloom, [data-narrative-theme="gloom"])::before,
+    body:is(.theme-gloom, .narrative-theme-gloom, [data-narrative-theme="gloom"])::after {
+        display: none !important;
     }
 }

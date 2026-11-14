@@ -2,27 +2,15 @@
  * STARDUST ENGINE LIBRARY - COMPONENT: CARDS & GRIDS
  * 09-cards.css
  * ==========================================================================
- * 
+ *
  * ARCHITECTURE OVERVIEW:
- * This stylesheet defines the layout and visual structure for "Cards" and their
- * parent container "Grids". These components are highly modular and frequently 
- * used for displaying collections of items (e.g., Book Grids, Portfolios).
- * 
- * CORE RESPONSIBILITIES:
- * 1. Responsive Layout: Implements CSS Grid with `auto-fit` to create fluid,
- *    responsive layouts without relying on explicit media queries.
- * 2. Card Anatomy: Structures the card into distinct regions (cover/image area, 
- *    content/info area).
- * 3. Interactive Affordance: Adds elevation (`box-shadow`) and translation on 
- *    hover to indicate clickability.
- * 
- * USAGE INSTRUCTIONS:
- * - Wrap multiple `.stardust-card` elements inside a `.stardust-grid`.
- * - Ensure cards utilize fallback classes if missing cover imagery.
+ * Defines responsive CSS Grid containers (`.stardust-grid`) and card surfaces
+ * (`.stardust-card`, `.home-hero`) wired directly to the canonical `--rs-*`
+ * design tokens so Light Mode, Sepia Mode, Dark Mode, and all narrative themes
+ * maintain full WCAG 2.1 AA/AAA color contrast without white-card leakage.
  * ========================================================================== */
 
 /* Fluid Grid Container */
-/* Automatically places as many columns as will fit, with a minimum width of 300px */
 .stardust-grid {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
@@ -32,36 +20,39 @@
 /* Base Card Structure */
 .stardust-card {
     display: flex;
-    flex-direction: column;         /* Ensures content stacks vertically */
-    background: var(--surface-color, #fff); /* Uses local variable with fallback */
-    border: 1px solid var(--border-color, #eaeaea);
+    flex-direction: column;
+    background: var(--rs-card-bg, var(--rs-surface));
+    border: 1px solid var(--rs-border);
     border-radius: 8px;
-    overflow: hidden;               /* Clips content to border radius */
-    text-decoration: none;          /* Removes underline if card is a link */
-    color: inherit;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    overflow: hidden;
+    text-decoration: none;
+    color: var(--rs-text);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
 }
 
 /* Hover Elevation */
 .stardust-card:hover {
-    transform: translateY(-4px);    /* Lifts the card up slightly */
-    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    transform: translateY(-4px);
+    border-color: var(--rs-primary);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.14);
 }
 
 /* Card Cover Image/Graphic Area */
 .stardust-card-cover {
     position: relative;
     width: 100%;
-    background: var(--primary-color, #0f172a);
-    color: #fff;
-    display: block; /* Removed flex to allow absolute positioning inside */
+    background: #0f172a;
+    color: #ffffff;
+    display: block;
 }
 
-/* Fallback content when no image is available */
-/* Centers placeholder text perfectly inside the cover area */
+/* Fallback content when no cover image is available */
 .stardust-card-cover-fallback {
     position: absolute;
-    top: 0; left: 0; width: 100%; height: 100%;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -69,25 +60,27 @@
     text-align: center;
 }
 
-/* Thematic Overrides for Covers */
+/* Thematic Overrides for Covers (Dark fills paired with white cover text >= 8.5:1) */
 .stardust-card-cover.theme-red {
     background: #7f1d1d;
+    color: #ffffff;
 }
 
 .stardust-card-cover.theme-green {
     background: #14532d;
+    color: #ffffff;
 }
 
 /* Typography inside the cover area */
 .stardust-card-cover h3 {
     margin: 0 0 0.5rem 0;
     font-size: 1.5rem;
-    color: #fff;
+    color: #ffffff;
 }
 
 .stardust-card-cover span {
     font-size: 0.9rem;
-    opacity: 0.8;
+    color: #e2e8f0;
 }
 
 /* Card Content Area (Text & Actions) */
@@ -95,26 +88,27 @@
     padding: 1.5rem;
     display: flex;
     flex-direction: column;
-    flex: 1; /* Pushes action links to the bottom if content is short */
+    flex: 1;
 }
 
 .stardust-card-info h4 {
     margin: 0 0 0.5rem 0;
     font-size: 1.25rem;
+    color: var(--rs-heading, var(--rs-text));
 }
 
 .stardust-card-info p {
     font-size: 0.95rem;
-    line-height: 1.5;
-    color: var(--text-muted, #555);
+    line-height: 1.55;
+    color: var(--rs-text-muted, var(--rs-text));
     margin-bottom: 1.5rem;
-    flex: 1; /* Fills remaining space */
+    flex: 1;
 }
 
 /* Inline Action Link at bottom of card */
 .stardust-card-action {
-    font-weight: 600;
-    color: var(--primary-color, #2563eb);
+    font-weight: 700;
+    color: var(--rs-primary);
     display: inline-block;
 }
 
@@ -122,7 +116,7 @@
     text-decoration: underline;
 }
 
-/* Hero Section (Globally applicable to page tops, often paired with grids) */
+/* Hero Section */
 .home-hero {
     text-align: center;
     margin-bottom: 4rem;
@@ -131,10 +125,19 @@
 .home-hero h1 {
     font-size: 3rem;
     margin-bottom: 1rem;
-    color: var(--text-color, #111);
+    color: var(--rs-heading, var(--rs-text));
 }
 
 .home-hero .subtitle {
     font-size: 1.25rem;
-    color: var(--text-muted, #666);
+    color: var(--rs-text-muted, var(--rs-text));
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .stardust-card {
+        transition: none;
+    }
+    .stardust-card:hover {
+        transform: none;
+    }
 }

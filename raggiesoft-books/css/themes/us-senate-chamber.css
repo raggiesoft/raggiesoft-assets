@@ -1,190 +1,131 @@
 /**
  * ============================================================================
- * STARDUST THEME: U.S. SENATE CHAMBER (CONSTITUTIONAL NAVY, MARBLE & GAVEL GOLD)
+ * STARDUST ENGINE NARRATIVE THEME: US SENATE CHAMBER (`us-senate-chamber.css`)
  * ============================================================================
  *
- * Description:
- * This stylesheet (`us-senate-chamber.css`) defines the bespoke "U.S. Senate
- * Chamber" reading theme (`theme: "us-senate-chamber"`) for Episode 11 of
- * *Katie & Nathaniel* (`books/katie/e011`: *The Senator from Virginia*,
- * `2026–2027`). It frames United States Senator Katie Prairie (`D-VA`) and her
- * twin brother and Chief of Staff Nathaniel Prairie in Washington, D.C.—from
- * taking the constitutional oath in the Senate Chamber and hosting everyday
- * Virginians in Dirksen Senate Office Building Room 511, to entering Natalie's
- * March 2007 RRC assault into the permanent *Congressional Record*, enforcing
- * `34 C.F.R. § 361.38` and Title I Rehabilitation Act strings-attached
- * compliance on the HELP Subcommittee, voting `Guilty` on all three Articles
- * of Impeachment, and witnessing President Clara Morales take the oath of
- * office.
+ * Architectural Overview:
+ * STARDUST THEME: U.S. SENATE CHAMBER (CONSTITUTIONAL NAVY, MARBLE & GAVEL GOLD) Description: This stylesheet (`us-senate-chamber.css`) defines the bespoke "U.S. Senate Chamber" reading theme (`theme: "us-senate-chamber"`) for Episode 11 of *Katie & Nathaniel* (`books/katie/e011`: *The Senator from Virginia*, `2026–2027`). It frames United States Senator Katie Prairie (`D-VA`) and her twin brother and Chief of Staff Nathaniel Prairie in Washington, D.C.—from taking the constitutional oath in the Senate Chamber and hosting everyday
  *
- * Psychological & Visual Architecture:
- * - Light Mode ("Congressional Record Vellum, Federal Navy & Rostrum Bronze"):
- *   Pairs a crisp Congressional Record Archival Vellum canvas (`#f6f8fb`) and
- *   pristine Senate Resolution White surfaces (`#ffffff`) with deep
- *   Constitutional Ink (`#0b1324`), Federal Constitutional Navy primary
- *   accents (`#1e3a8a`), and Senate Rostrum Mahogany-Bronze secondary accents
- *   (`#7c2d12`).
- * - Dark Mode ("Senate Floor Roll Call, Sovereign Eagle Gold & Starlight Blue"):
- *   Pairs a deep Senate Chamber Carpet Navy-Obsidian canvas (`#070b14`) and
- *   Dirksen Room 511 elevated surfaces (`#111b30`) with crisp Constitutional
- *   Parchment White prose (`#f8fafc`), Sovereign Senate Eagle Gold primary
- *   accents (`#fcd34d`), and Federal Starlight Sky-Blue secondary accents
- *   (`#7dd3fc`).
- *
- * WCAG 2.1 AA / AAA Contrast Verification:
- * - Light Mode:
- *   - Body Text (`#0b1324` on `#f6f8fb` bg): 17.84:1 (WCAG AAA)
- *   - Body Text (`#0b1324` on `#ffffff` surface): 18.78:1 (WCAG AAA)
- *   - Primary Accent (`#1e3a8a` on `#f6f8fb` bg): 9.72:1 (WCAG AAA)
- *   - Secondary Accent (`#7c2d12` on `#f6f8fb` bg): 8.14:1 (WCAG AAA)
- * - Dark Mode:
- *   - Body Text (`#f8fafc` on `#070b14` bg): 18.65:1 (WCAG AAA)
- *   - Body Text (`#f8fafc` on `#111b30` surface): 15.62:1 (WCAG AAA)
- *   - Primary Accent (`#fcd34d` on `#070b14` bg): 13.12:1 (WCAG AAA)
- *   - Secondary Accent (`#7dd3fc` on `#070b14` bg): 11.68:1 (WCAG AAA)
- *   - Primary Button (`#f8fafc` on `#1e3a8a` fill): 10.15:1 (WCAG AAA)
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f6f8fb` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#0b1324`): 15.61:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#5b616d`): 5.24:1 min (WCAG AA)
+ *     * Headings (`#172554`): 12.37:1 min (WCAG AAA)
+ *     * Primary Accent (`#1e3a8a`): 8.72:1 min (`--rs-on-primary: #ffffff` = 10.36:1)
+ *     * Secondary Accent (`#7c2d12`): 7.89:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#070b14` / `#111b30` (`color-scheme: dark`)
+ *     * Body Prose (`#f8fafc`): 16.41:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#b9bcc0`): 9.01:1 min (WCAG AA)
+ *     * Headings (`#fef08a`): 14.75:1 min (WCAG AAA)
+ *     * Primary Accent (`#fcd34d`): 11.91:1 min (`--rs-on-primary: #04060b` = 14.06:1)
+ *     * Secondary Accent (`#7dd3fc`): 10.30:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: U.S. Senate Chamber (`us-senate-chamber`) */
-
-/* --- 1. Light Mode (Base & Explicit OS/User Light Preference) --- */
-body.theme-us-senate-chamber,
-body.theme-light.theme-us-senate-chamber,
-body.theme-sepia.theme-us-senate-chamber {
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-us-senate-chamber, .narrative-theme-us-senate-chamber, [data-narrative-theme="us-senate-chamber"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-us-senate-chamber, .narrative-theme-us-senate-chamber, [data-narrative-theme="us-senate-chamber"]) {
     color-scheme: light;
-    --rs-bg: #f6f8fb;        /* Congressional Record Archival Vellum canvas */
-    --rs-bg-alt: #e6ecf5;    /* Dirksen Marble Corridor sidebar background */
-    --rs-surface: #ffffff;   /* Pristine Senate Resolution White reading surface */
-    --rs-card-bg: #ffffff;   /* Modal and card container surface */
-    --rs-text: #0b1324;      /* Deep Constitutional Ink (17.84:1 contrast) */
-    --rs-heading: #172554;   /* United States Senate Chamber Navy heading token */
-    --rs-primary: #1e3a8a;   /* Federal Constitutional Navy primary accent (9.72:1 contrast) */
-    --rs-secondary: #7c2d12; /* Senate Rostrum Mahogany-Bronze secondary accent (8.14:1 contrast) */
-    --rs-border: #c3d0e3;    /* Capitol Dome Marble Flute structural border */
+    --rs-bg: #f6f8fb;
+    --rs-bg-alt: #e6ecf5;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #0b1324;
+    --rs-text-muted: #5b616d;
+    --rs-heading: #172554;
+    --rs-primary: #1e3a8a;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #7c2d12;
+    --rs-border: #c3d0e3;
+    --rs-asl: #0369a0;
+    --rs-gesture: #4338ca;
     accent-color: #1e3a8a;
 }
 
-@media (prefers-color-scheme: light) {
-    body.theme-auto.theme-us-senate-chamber,
-    body.theme-sepia-system.theme-us-senate-chamber {
-        color-scheme: light;
-        --rs-bg: #f6f8fb;
-        --rs-bg-alt: #e6ecf5;
-        --rs-surface: #ffffff;
-        --rs-card-bg: #ffffff;
-        --rs-text: #0b1324;
-        --rs-heading: #172554;
-        --rs-primary: #1e3a8a;
-        --rs-secondary: #7c2d12;
-        --rs-border: #c3d0e3;
-        accent-color: #1e3a8a;
-    }
-}
-
-body.theme-us-senate-chamber #stardust-reading-pane,
-body.theme-light.theme-us-senate-chamber #stardust-reading-pane,
-body.theme-sepia.theme-us-senate-chamber #stardust-reading-pane {
-    box-shadow: inset 0 6px 28px rgba(30, 58, 138, 0.05);
-}
-
-/* --- 2. Dark Mode (Explicitly Forced by Reader Toggle) --- */
-body.theme-dark.theme-us-senate-chamber,
-body.theme-dark-sepia.theme-us-senate-chamber {
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-us-senate-chamber, .narrative-theme-us-senate-chamber, [data-narrative-theme="us-senate-chamber"]) {
     color-scheme: dark;
-    --rs-bg: #070b14;        /* Deep Senate Chamber Carpet Navy-Obsidian canvas */
-    --rs-bg-alt: #0c1322;    /* Dirksen Room 511 Evening Sanctuary sidebar background */
-    --rs-surface: #111b30;   /* Elevated Senate Desk reading surface */
-    --rs-card-bg: #111b30;   /* Matching elevated dark container surface */
-    --rs-text: #f8fafc;      /* Crisp Constitutional Parchment White prose text (18.65:1 contrast) */
-    --rs-heading: #fef08a;   /* Great Seal Eagle Gold heading token */
-    --rs-primary: #fcd34d;   /* Sovereign Senate Gold primary accent (13.12:1 contrast) */
-    --rs-secondary: #7dd3fc; /* Federal Starlight Sky-Blue secondary accent (11.68:1 contrast) */
-    --rs-border: #233559;    /* Senate Gallery Brass-and-Marble structural border */
+    --rs-bg: #070b14;
+    --rs-bg-alt: #0c1322;
+    --rs-surface: #111b30;
+    --rs-card-bg: #111b30;
+    --rs-text: #f8fafc;
+    --rs-text-muted: #b9bcc0;
+    --rs-heading: #fef08a;
+    --rs-primary: #fcd34d;
+    --rs-on-primary: #04060b;
+    --rs-secondary: #7dd3fc;
+    --rs-border: #233559;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
     accent-color: #fcd34d;
 }
 
-body.theme-dark.theme-us-senate-chamber #stardust-reading-pane,
-body.theme-dark-sepia.theme-us-senate-chamber #stardust-reading-pane {
-    box-shadow: inset 0 6px 32px rgba(252, 211, 77, 0.05);
-}
-
-/* Ensure primary buttons in forced Dark Mode maintain AAA text contrast (10.15:1) */
-body.theme-dark.theme-us-senate-chamber .rs-btn-primary,
-body.theme-dark-sepia.theme-us-senate-chamber .rs-btn-primary {
-    background-color: #1e3a8a;
-    border-color: #fcd34d;
-    color: #f8fafc;
-}
-
-body.theme-dark.theme-us-senate-chamber .rs-btn-primary:hover,
-body.theme-dark-sepia.theme-us-senate-chamber .rs-btn-primary:hover,
-body.theme-dark.theme-us-senate-chamber .rs-btn-primary:focus-visible,
-body.theme-dark-sepia.theme-us-senate-chamber .rs-btn-primary:focus-visible {
-    background-color: #1d4ed8;
-    border-color: #fef08a;
-    color: #ffffff;
-}
-
-/* --- 3. Dark Mode (OS Preference via `prefers-color-scheme: dark`) --- */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-us-senate-chamber,
-    body.theme-sepia-system.theme-us-senate-chamber,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-us-senate-chamber {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-us-senate-chamber, .narrative-theme-us-senate-chamber, [data-narrative-theme="us-senate-chamber"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-us-senate-chamber, .narrative-theme-us-senate-chamber, [data-narrative-theme="us-senate-chamber"]) {
         color-scheme: dark;
         --rs-bg: #070b14;
         --rs-bg-alt: #0c1322;
         --rs-surface: #111b30;
         --rs-card-bg: #111b30;
         --rs-text: #f8fafc;
+        --rs-text-muted: #b9bcc0;
         --rs-heading: #fef08a;
         --rs-primary: #fcd34d;
+        --rs-on-primary: #04060b;
         --rs-secondary: #7dd3fc;
         --rs-border: #233559;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
         accent-color: #fcd34d;
-    }
-
-    body.theme-auto.theme-us-senate-chamber #stardust-reading-pane,
-    body.theme-sepia-system.theme-us-senate-chamber #stardust-reading-pane,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-us-senate-chamber #stardust-reading-pane {
-        box-shadow: inset 0 6px 32px rgba(252, 211, 77, 0.05);
-    }
-
-    body.theme-auto.theme-us-senate-chamber .rs-btn-primary,
-    body.theme-sepia-system.theme-us-senate-chamber .rs-btn-primary,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-us-senate-chamber .rs-btn-primary {
-        background-color: #1e3a8a;
-        border-color: #fcd34d;
-        color: #f8fafc;
-    }
-
-    body.theme-auto.theme-us-senate-chamber .rs-btn-primary:hover,
-    body.theme-sepia-system.theme-us-senate-chamber .rs-btn-primary:hover,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-us-senate-chamber .rs-btn-primary:hover,
-    body.theme-auto.theme-us-senate-chamber .rs-btn-primary:focus-visible,
-    body.theme-sepia-system.theme-us-senate-chamber .rs-btn-primary:focus-visible,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-us-senate-chamber .rs-btn-primary:focus-visible {
-        background-color: #1d4ed8;
-        border-color: #fef08a;
-        color: #ffffff;
     }
 }
 
-/* --- 4. Forced Colors (Windows High Contrast Mode) Safety --- */
+/* Atmospheric Reading Pane Framing (Light & Sepia) */
+:is(body, body.theme-oceanview):is(.theme-us-senate-chamber, .narrative-theme-us-senate-chamber, [data-narrative-theme="us-senate-chamber"]) #stardust-reading-pane,
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-us-senate-chamber, .narrative-theme-us-senate-chamber, [data-narrative-theme="us-senate-chamber"]) #stardust-reading-pane {
+    box-shadow: inset 0 6px 28px rgba(30, 58, 138, 0.05);
+}
+
+/* Atmospheric Reading Pane Framing (Dark & System Auto Dark) */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-us-senate-chamber, .narrative-theme-us-senate-chamber, [data-narrative-theme="us-senate-chamber"]) #stardust-reading-pane {
+    box-shadow: inset 0 6px 32px rgba(252, 211, 77, 0.05);
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-us-senate-chamber, .narrative-theme-us-senate-chamber, [data-narrative-theme="us-senate-chamber"]) #stardust-reading-pane,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-us-senate-chamber, .narrative-theme-us-senate-chamber, [data-narrative-theme="us-senate-chamber"]) #stardust-reading-pane {
+        box-shadow: inset 0 6px 32px rgba(252, 211, 77, 0.05);
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
 @media (forced-colors: active) {
-    body.theme-us-senate-chamber {
+    body:is(.theme-us-senate-chamber, .narrative-theme-us-senate-chamber, [data-narrative-theme="us-senate-chamber"]) {
         --rs-bg: Canvas;
         --rs-bg-alt: Canvas;
         --rs-surface: Canvas;
         --rs-card-bg: Canvas;
         --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
         --rs-heading: CanvasText;
         --rs-primary: LinkText;
-        --rs-secondary: Highlight;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
         --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
     }
-
-    body.theme-us-senate-chamber #stardust-reading-pane {
-        box-shadow: none;
+    body:is(.theme-us-senate-chamber, .narrative-theme-us-senate-chamber, [data-narrative-theme="us-senate-chamber"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-us-senate-chamber, .narrative-theme-us-senate-chamber, [data-narrative-theme="us-senate-chamber"])::before,
+    body:is(.theme-us-senate-chamber, .narrative-theme-us-senate-chamber, [data-narrative-theme="us-senate-chamber"])::after {
+        display: none !important;
     }
 }

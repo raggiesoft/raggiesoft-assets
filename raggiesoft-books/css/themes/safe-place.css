@@ -1,174 +1,131 @@
 /**
  * ============================================================================
- * STARDUST THEME: SAFE PLACE (LAMP-LIT SANCTUARY & TRAUMA-INFORMED REFUGE)
+ * STARDUST ENGINE NARRATIVE THEME: SAFE PLACE (`safe-place.css`)
  * ============================================================================
  *
- * Description:
- * This stylesheet (`safe-place.css`) defines the reusable "Safe Place" reading
- * theme for the Ocean View Archives / Stardust Engine. It is designed for
- * quiet, sensory-friendly refuge scenes where harsh institutional overhead
- * fluorescent lights are switched off in favor of warm floor lamps, soft wood
- * tones, unobstructed wheelchair turning radii, and total psychological safety
- * (such as Jordan Fuller and Aubrie Kelly visiting Residence Director Kelsey
- * Brennan's office in Bennett Hall, where Jordan decides her office is a
- * Safe Place).
+ * Architectural Overview:
+ * STARDUST THEME: SAFE PLACE (LAMP-LIT SANCTUARY & TRAUMA-INFORMED REFUGE) Description: This stylesheet (`safe-place.css`) defines the reusable "Safe Place" reading theme for the Ocean View Archives / Stardust Engine. It is designed for quiet, sensory-friendly refuge scenes where harsh institutional overhead fluorescent lights are switched off in favor of warm floor lamps, soft wood tones, unobstructed wheelchair turning radii, and total psychological safety (such as Jordan Fuller and Aubrie Kelly visiting Residence Director Kelsey
  *
- * Aesthetic & Color Engineering:
- * - Light Mode ("Lamp-Lit Parchment & Warm Cedar Sanctuary"):
- *   Uses a soothing Lamp-Glow Linen canvas (`#faf6f0`) and warm ivory reading
- *   surfaces (`#fffdf9`) paired with Deep Espresso-Walnut prose (`#1f1610`),
- *   Warm Hearth-Cedar primary accents (`#8c3b0c`), and Grounding Sage-Olive
- *   secondary accents (`#255436`).
- * - Dark Mode ("Fluorescents Off: Warm Floor-Lamp & Cozy Study"):
- *   Uses a deep Walnut-Hearth night canvas (`#140f0c`) and warm mahogany card
- *   surfaces (`#261c16`) paired with Soft Lamp-Light Cream prose (`#f7efe6`),
- *   Warm Amber-Honey Lamp primary accents (`#fbbf24`), and Soft Eucalyptus
- *   Mint secondary accents (`#86efac`).
- *
- * WCAG 2.1 AA / AAA Contrast Verification:
- * - Light Mode:
- *   - Body Text (`#1f1610` on `#faf6f0` bg): 16.42:1 (WCAG AAA)
- *   - Body Text (`#1f1610` on `#fffdf9` surface): 17.51:1 (WCAG AAA)
- *   - Primary Accent (`#8c3b0c` on `#faf6f0` bg): 7.31:1 (WCAG AAA)
- *   - Secondary Accent (`#255436` on `#faf6f0` bg): 8.14:1 (WCAG AAA)
- * - Dark Mode:
- *   - Body Text (`#f7efe6` on `#140f0c` bg): 16.84:1 (WCAG AAA)
- *   - Body Text (`#f7efe6` on `#261c16` surface): 14.32:1 (WCAG AAA)
- *   - Primary Accent (`#fbbf24` on `#140f0c` bg): 11.42:1 (WCAG AAA)
- *   - Secondary Accent (`#86efac` on `#140f0c` bg): 12.61:1 (WCAG AAA)
- *   - Primary Button (`#fffbeb` on `#78350f` fill): 9.65:1 (WCAG AAA)
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#faf6f0` / `#fffdf9` (`color-scheme: light`)
+ *     * Body Prose (`#1f1610`): 14.64:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#68615c`): 5.00:1 min (WCAG AA)
+ *     * Headings (`#1f1610`): 14.64:1 min (WCAG AAA)
+ *     * Primary Accent (`#8c3b0c`): 6.29:1 min (`--rs-on-primary: #ffffff` = 7.65:1)
+ *     * Secondary Accent (`#255436`): 7.20:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#140f0c` / `#261c16` (`color-scheme: dark`)
+ *     * Body Prose (`#f7efe6`): 14.64:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#bcb5ad`): 8.21:1 min (WCAG AA)
+ *     * Headings (`#f7efe6`): 14.64:1 min (WCAG AAA)
+ *     * Primary Accent (`#fbbf24`): 9.98:1 min (`--rs-on-primary: #0b0807` = 11.96:1)
+ *     * Secondary Accent (`#86efac`): 11.87:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Safe Place (`safe-place`) */
-
-/* --- 1. Light Mode (Base & Explicit OS/User Light Preference) --- */
-body.theme-safe-place,
-body.theme-light.theme-safe-place,
-body.theme-sepia.theme-safe-place {
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-safe-place, .narrative-theme-safe-place, [data-narrative-theme="safe-place"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-safe-place, .narrative-theme-safe-place, [data-narrative-theme="safe-place"]) {
     color-scheme: light;
-    --rs-bg: #faf6f0;        /* Warm Lamp-Glow Linen canvas */
-    --rs-bg-alt: #f0e8dc;    /* Soft Cedar-Parchment sidebar background */
-    --rs-surface: #fffdf9;   /* Warm Ivory reading card surface */
-    --rs-card-bg: #fffdf9;   /* Modal and card container surface */
-    --rs-text: #1f1610;      /* Deep Espresso-Walnut prose ink (16.42:1 contrast) */
-    --rs-heading: #1f1610;   /* Matching high-contrast heading token */
-    --rs-primary: #8c3b0c;   /* Warm Hearth-Cedar primary accent (7.31:1 contrast) */
-    --rs-secondary: #255436; /* Grounding Sage-Olive secondary accent (8.14:1 contrast) */
-    --rs-border: #dccbb8;    /* Soft Oak-Frame structural border */
+    --rs-bg: #faf6f0;
+    --rs-bg-alt: #f0e8dc;
+    --rs-surface: #fffdf9;
+    --rs-card-bg: #fffdf9;
+    --rs-text: #1f1610;
+    --rs-text-muted: #68615c;
+    --rs-heading: #1f1610;
+    --rs-primary: #8c3b0c;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #255436;
+    --rs-border: #dccbb8;
+    --rs-asl: #03679f;
+    --rs-gesture: #4338ca;
     accent-color: #8c3b0c;
 }
 
-@media (prefers-color-scheme: light) {
-    body.theme-auto.theme-safe-place,
-    body.theme-sepia-system.theme-safe-place {
-        color-scheme: light;
-        --rs-bg: #faf6f0;
-        --rs-bg-alt: #f0e8dc;
-        --rs-surface: #fffdf9;
-        --rs-card-bg: #fffdf9;
-        --rs-text: #1f1610;
-        --rs-heading: #1f1610;
-        --rs-primary: #8c3b0c;
-        --rs-secondary: #255436;
-        --rs-border: #dccbb8;
-        accent-color: #8c3b0c;
-    }
-}
-
-/* Warm ambient floor-lamp glow around the reading pane in Light Mode */
-body.theme-safe-place #stardust-reading-pane,
-body.theme-light.theme-safe-place #stardust-reading-pane,
-body.theme-sepia.theme-safe-place #stardust-reading-pane {
-    box-shadow: inset 0 6px 32px rgba(140, 59, 12, 0.06);
-}
-
-/* --- 2. Dark Mode (Explicitly Forced by Reader Toggle) --- */
-body.theme-dark.theme-safe-place,
-body.theme-dark-sepia.theme-safe-place {
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-safe-place, .narrative-theme-safe-place, [data-narrative-theme="safe-place"]) {
     color-scheme: dark;
-    --rs-bg: #140f0c;        /* Deep Walnut-Hearth night canvas */
-    --rs-bg-alt: #1e1612;    /* Soft Cedar-Umber sidebar background */
-    --rs-surface: #261c16;   /* Warm Mahogany card and modal surface */
-    --rs-card-bg: #261c16;   /* Matching elevated dark container surface */
-    --rs-text: #f7efe6;      /* Soft Lamp-Light Cream prose text (16.84:1 contrast) */
-    --rs-heading: #f7efe6;   /* Matching high-contrast dark-mode heading token */
-    --rs-primary: #fbbf24;   /* Warm Amber-Honey Lamp primary accent (11.42:1 contrast) */
-    --rs-secondary: #86efac; /* Soft Eucalyptus-Mint secondary accent (12.61:1 contrast) */
-    --rs-border: #4a3528;    /* Warm Burnished-Oak structural border */
+    --rs-bg: #140f0c;
+    --rs-bg-alt: #1e1612;
+    --rs-surface: #261c16;
+    --rs-card-bg: #261c16;
+    --rs-text: #f7efe6;
+    --rs-text-muted: #bcb5ad;
+    --rs-heading: #f7efe6;
+    --rs-primary: #fbbf24;
+    --rs-on-primary: #0b0807;
+    --rs-secondary: #86efac;
+    --rs-border: #4a3528;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
     accent-color: #fbbf24;
 }
 
-body.theme-dark.theme-safe-place #stardust-reading-pane,
-body.theme-dark-sepia.theme-safe-place #stardust-reading-pane {
-    box-shadow: inset 0 6px 36px rgba(251, 191, 36, 0.06);
-}
-
-body.theme-dark.theme-safe-place .rs-btn-primary,
-body.theme-dark-sepia.theme-safe-place .rs-btn-primary {
-    background-color: #78350f;
-    border-color: #fbbf24;
-    color: #fffbeb;
-}
-
-body.theme-dark.theme-safe-place .rs-btn-primary:hover,
-body.theme-dark-sepia.theme-safe-place .rs-btn-primary:hover,
-body.theme-dark.theme-safe-place .rs-btn-primary:focus-visible,
-body.theme-dark-sepia.theme-safe-place .rs-btn-primary:focus-visible {
-    background-color: #92400e;
-    border-color: #86efac;
-    color: #ffffff;
-}
-
-/* --- 3. Dark Mode (OS Preference via `prefers-color-scheme: dark`) --- */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-safe-place,
-    body.theme-sepia-system.theme-safe-place,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-safe-place {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-safe-place, .narrative-theme-safe-place, [data-narrative-theme="safe-place"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-safe-place, .narrative-theme-safe-place, [data-narrative-theme="safe-place"]) {
         color-scheme: dark;
         --rs-bg: #140f0c;
         --rs-bg-alt: #1e1612;
         --rs-surface: #261c16;
         --rs-card-bg: #261c16;
         --rs-text: #f7efe6;
+        --rs-text-muted: #bcb5ad;
         --rs-heading: #f7efe6;
         --rs-primary: #fbbf24;
+        --rs-on-primary: #0b0807;
         --rs-secondary: #86efac;
         --rs-border: #4a3528;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
         accent-color: #fbbf24;
-    }
-
-    body.theme-auto.theme-safe-place #stardust-reading-pane,
-    body.theme-sepia-system.theme-safe-place #stardust-reading-pane,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-safe-place #stardust-reading-pane {
-        box-shadow: inset 0 6px 36px rgba(251, 191, 36, 0.06);
-    }
-
-    body.theme-auto.theme-safe-place .rs-btn-primary,
-    body.theme-sepia-system.theme-safe-place .rs-btn-primary,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-safe-place .rs-btn-primary {
-        background-color: #78350f;
-        border-color: #fbbf24;
-        color: #fffbeb;
     }
 }
 
-/* --- 4. Forced Colors (Windows High Contrast Mode) Safety --- */
+/* Atmospheric Reading Pane Framing (Light & Sepia) */
+:is(body, body.theme-oceanview):is(.theme-safe-place, .narrative-theme-safe-place, [data-narrative-theme="safe-place"]) #stardust-reading-pane,
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-safe-place, .narrative-theme-safe-place, [data-narrative-theme="safe-place"]) #stardust-reading-pane {
+    box-shadow: inset 0 6px 32px rgba(140, 59, 12, 0.06);
+}
+
+/* Atmospheric Reading Pane Framing (Dark & System Auto Dark) */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-safe-place, .narrative-theme-safe-place, [data-narrative-theme="safe-place"]) #stardust-reading-pane {
+    box-shadow: inset 0 6px 36px rgba(251, 191, 36, 0.06);
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-safe-place, .narrative-theme-safe-place, [data-narrative-theme="safe-place"]) #stardust-reading-pane,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-safe-place, .narrative-theme-safe-place, [data-narrative-theme="safe-place"]) #stardust-reading-pane {
+        box-shadow: inset 0 6px 36px rgba(251, 191, 36, 0.06);
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
 @media (forced-colors: active) {
-    body.theme-safe-place {
+    body:is(.theme-safe-place, .narrative-theme-safe-place, [data-narrative-theme="safe-place"]) {
         --rs-bg: Canvas;
         --rs-bg-alt: Canvas;
         --rs-surface: Canvas;
         --rs-card-bg: Canvas;
         --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
         --rs-heading: CanvasText;
         --rs-primary: LinkText;
-        --rs-secondary: Highlight;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
         --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
     }
-
-    body.theme-safe-place #stardust-reading-pane {
-        box-shadow: none;
+    body:is(.theme-safe-place, .narrative-theme-safe-place, [data-narrative-theme="safe-place"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-safe-place, .narrative-theme-safe-place, [data-narrative-theme="safe-place"])::before,
+    body:is(.theme-safe-place, .narrative-theme-safe-place, [data-narrative-theme="safe-place"])::after {
+        display: none !important;
     }
 }
-

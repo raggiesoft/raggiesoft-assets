@@ -2,63 +2,127 @@
  * ARCHITECTURAL OVERVIEW: 01-base.css
  * ==========================================================================
  * Stardust Engine Library - Core Base Initialization
- * This is the foundational stylesheet of the Stardust Engine framework. 
- * It establishes the CSS reset, the global variable taxonomy (`--rs-*`), 
- * and mandatory accessibility utilities.
- * 
+ * This is the foundational stylesheet of the Stardust Engine framework.
+ * It establishes the CSS reset, the global 13-token variable taxonomy (`--rs-*`),
+ * native `color-scheme` support, Forced Colors Mode fallbacks, and mandatory
+ * screen-reader accessibility utilities.
+ *
  * CORE RESPONSIBILITIES:
  * 1. Global Reset: Enforces standard box-sizing logic across all elements.
- * 2. Theme Tokens: Defines the root color variables that all subsequent 
- *    framework components (buttons, dialogs, badges) rely on.
- * 3. Accessibility: Provides screen-reader only classes (`.visually-hidden`) 
- *    that ensure complex UIs remain accessible without disrupting the layout.
- * 
+ * 2. Complete Theme Token Taxonomy: Defines all 13 root color variables that
+ *    framework components (buttons, dialogs, badges, cards, prose, logs) rely on:
+ *      - `--rs-bg`: Primary reading/page canvas background
+ *      - `--rs-bg-alt`: Subtle secondary/elevated background (chips, drawers)
+ *      - `--rs-surface`: Sidebar, header, card, toolbar, and modal surface
+ *      - `--rs-card-bg`: Card container surface
+ *      - `--rs-text`: Primary prose and UI body text (>= 7.0:1 AAA target)
+ *      - `--rs-text-muted`: Captions, metadata, timestamps (>= 4.6:1 AA)
+ *      - `--rs-heading`: Display and section headings (>= 8.0:1 AAA)
+ *      - `--rs-primary`: Primary interactive brand/link accent (>= 4.6:1 AA)
+ *      - `--rs-on-primary`: Text/icon foreground on solid `--rs-primary` fills (>= 4.6:1 AA)
+ *      - `--rs-secondary`: Secondary brand/narrative accent (>= 4.6:1 AA)
+ *      - `--rs-border`: Structural border/divider & neutral badge background
+ *      - `--rs-asl`: Accessible Sign Language dialogue marker (>= 4.6:1 AA)
+ *      - `--rs-gesture`: Accessible non-verbal gesture marker (>= 4.6:1 AA)
+ * 3. Accessibility: Provides `.visually-hidden` / `.visually-hidden-focusable`
+ *    and `@media (forced-colors: active)` Windows High Contrast mappings.
+ *
  * FUTURE MAINTENANCE NOTES:
- * - If you add a new semantic color (e.g., `--rs-warning`), it MUST be 
- *   defined here in `:root` first, as this file sits at the bottom of the 
- *   dependency tree.
- * - The `overflow: hidden` on the `body` is crucial because Stardust Engine 
- *   manages its own internal scrolling within layout wrappers (like the 
- *   reading pane) rather than relying on native window scrolling.
+ * - Every new semantic token MUST be initialized here in `:root` first so no
+ *   component ever resolves an `undefined` custom property.
+ * - `overflow: hidden` on `body` allows Stardust layout panes (`#stardust-reading-pane`,
+ *   `.stardust-mobile-scroll`) to manage independent scroll containers cleanly.
  * ========================================================================== */
 
 /* 1. Global Box-Sizing Reset */
-*, *::before, *::after { 
-    box-sizing: border-box; 
+*, *::before, *::after {
+    box-sizing: border-box;
 }
 
-/* 2. Global Stardust Theme Variables */
+/* 2. Global Stardust Theme Variables (WCAG 2.1 AA/AAA Baseline Defaults) */
 :root {
-    --rs-bg: #f4f4f5;         /* Primary application background */
-    --rs-text: #18181b;       /* Primary application typography */
-    --rs-primary: #2563eb;    /* Brand accent / Call to Action */
-    --rs-border: #e2e8f0;     /* Structural dividing lines */
-    --rs-surface: #ffffff;    /* Elevated containers (cards, modals) */
-    
-    /* Narrative-specific tokens */
-    --rs-asl: #047857;        /* Emerald-700 (Used for Sign Language) */
-    --rs-gesture: #4b5563;    /* Gray-600 (Used for Non-verbal cues) */
+    color-scheme: light dark;
+
+    /* Structural Surfaces */
+    --rs-bg: #f8fafc;         /* Primary application canvas */
+    --rs-bg-alt: #eef2f6;     /* Subtle secondary surface for chips & drawers */
+    --rs-surface: #ffffff;    /* Elevated containers (sidebars, cards, modals) */
+    --rs-card-bg: #ffffff;    /* Card container background */
+
+    /* Typography Hierarchy */
+    --rs-text: #1e293b;       /* Primary body typography (13.35:1 on white) */
+    --rs-text-muted: #475569; /* Secondary metadata & captions (6.92:1 on surface) */
+    --rs-heading: #0f172a;    /* Display headings & titles (16.30:1 on surface) */
+
+    /* Interactive & Brand Accents */
+    --rs-primary: #0F4C5C;    /* Brand accent / Call to Action (8.68:1 on surface) */
+    --rs-on-primary: #ffffff; /* Foreground text on solid `--rs-primary` fills (9.51:1) */
+    --rs-secondary: #854d0e;  /* Secondary warm bronze accent (6.25:1 on surface) */
+    --rs-border: #cbd5e1;     /* Structural dividing lines (9.05:1 under `--rs-text`) */
+
+    /* Narrative-Specific Semantic Dialogue Tokens */
+    --rs-asl: #0369a1;        /* Accessible ocean-blue for Sign Language (5.42:1) */
+    --rs-gesture: #4338ca;    /* Accessible indigo for non-verbal cues (7.21:1) */
+}
+
+/* System Dark Mode Fallback when no explicit theme stylesheet has overridden `:root` */
+@media (prefers-color-scheme: dark) {
+    :root {
+        --rs-bg: #0f141c;
+        --rs-bg-alt: #161e2b;
+        --rs-surface: #182230;
+        --rs-card-bg: #182230;
+        --rs-text: #e2e8f0;
+        --rs-text-muted: #a1b0c4;
+        --rs-heading: #f8fafc;
+        --rs-primary: #E3B27C;
+        --rs-on-primary: #0b111b;
+        --rs-secondary: #38bdf8;
+        --rs-border: #2c3b52;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+    }
+}
+
+/* Forced Colors Mode (Windows High Contrast) Global Safety Net */
+@media (forced-colors: active) {
+    :root,
+    body {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
 }
 
 /* 3. Base Document Styling */
-body { 
-    margin: 0; 
-    font-family: system-ui, sans-serif; 
-    background: var(--rs-bg); 
-    color: var(--rs-text); 
-    
-    /* Prevent native browser scrolling; let Stardust layout components handle it */
-    overflow: hidden; 
+body {
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    background: var(--rs-bg);
+    color: var(--rs-text);
+
+    /* Prevent native window scrolling; Stardust panes manage internal scroll */
+    overflow: hidden;
 }
 
 /* ==========================================================================
  * 4. Accessibility Utilities
- * ========================================================================== 
- * These classes visually hide elements from sighted users while keeping them 
- * queryable by assistive technologies like screen readers. 
+ * ==========================================================================
+ * Visually hides elements from sighted users while keeping them accessible
+ * to screen readers and keyboard focus traversal.
  */
 
-/* Hides element permanently */
+/* Hides element visually at all times */
 .visually-hidden {
     position: absolute !important;
     width: 1px !important;
@@ -71,7 +135,7 @@ body {
     border: 0 !important;
 }
 
-/* Hides element UNLESS it receives focus via keyboard navigation */
+/* Hides element visually UNLESS focused via keyboard navigation */
 .visually-hidden-focusable:not(:focus):not(:focus-within) {
     position: absolute !important;
     width: 1px !important;

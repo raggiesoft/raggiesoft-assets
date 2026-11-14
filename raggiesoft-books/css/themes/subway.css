@@ -1,74 +1,114 @@
 /**
  * ============================================================================
- * RAGGIESOFT BOOKS THEME: SUBWAY
+ * STARDUST ENGINE NARRATIVE THEME: SUBWAY (`subway.css`)
  * ============================================================================
- * Architecture: CSS Theme Variable Definitions
- * Purpose: Defines the color palette for the "Subway" reading theme.
- *          This theme utilizes industrial concrete grays paired with 
- *          vibrant transit-line accents (Emerald and Indigo) for a modern, 
- *          urban aesthetic.
- * 
- * Future Maintenance Notes:
- * - This file strictly defines CSS variables (\`--rs-*\`) and should not 
- *   contain any structural CSS rules (like paddings or margins).
- * - Ensure that contrast ratios between \`--rs-text\` and \`--rs-bg\` / \`--rs-surface\` 
- *   meet WCAG AA standards for readability.
- * - The theme utilizes a 3-tier cascade: Light Mode (default/forced), 
- *   Dark Mode (forced), and Auto Mode (media query driven).
+ *
+ * Architectural Overview:
+ * RAGGIESOFT BOOKS THEME: SUBWAY Architecture: CSS Theme Variable Definitions Purpose: Defines the color palette for the "Subway" reading theme. This theme utilizes industrial concrete grays paired with vibrant transit-line accents (Emerald and Indigo) for a modern, urban aesthetic. Future Maintenance Notes: - This file strictly defines CSS variables (\`--rs-*\`) and should not
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f3f4f6` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#1f2937`): 12.50:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#5f656e`): 5.00:1 min (WCAG AA)
+ *     * Headings (`#171f29`): 14.14:1 min (WCAG AAA)
+ *     * Primary Accent (`#047253`): 5.06:1 min (`--rs-on-primary: #ffffff` = 5.94:1)
+ *     * Secondary Accent (`#4338ca`): 6.73:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#111827` / `#1f2937` (`color-scheme: dark`)
+ *     * Body Prose (`#f9fafb`): 14.05:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#bdbfc4`): 7.98:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 14.03:1 min (WCAG AAA)
+ *     * Primary Accent (`#10b981`): 5.79:1 min (`--rs-on-primary: #090d15` = 7.67:1)
+ *     * Secondary Accent (`#8a8df5`): 5.04:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Subway */
-
-/**
- * ----------------------------------------------------------------------------
- * 1. LIGHT MODE (BASE)
- * ----------------------------------------------------------------------------
- * Applied when the theme is explicitly set to light mode, or as the default 
- * fallback. Features clean concrete grays with deep transit-line accents.
- */
-body.theme-subway,
-body.theme-light.theme-subway {
-    --rs-bg: #f3f4f6;       /* Concrete gray for the main background */
-    --rs-surface: #ffffff;  /* Clean white for elevated cards/modals */
-    --rs-text: #1f2937;     /* Dark slate for high contrast text */
-    --rs-primary: #047857;  /* Emerald Line Green for primary actions */
-    --rs-secondary: #4338ca;/* Indigo Line Blue for secondary UI elements */
-    --rs-border: #d1d5db;   /* Standard gray for dividers and borders */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-subway, .narrative-theme-subway, [data-narrative-theme="subway"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-subway, .narrative-theme-subway, [data-narrative-theme="subway"]) {
+    color-scheme: light;
+    --rs-bg: #f3f4f6;
+    --rs-bg-alt: #eaedf1;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #1f2937;
+    --rs-text-muted: #5f656e;
+    --rs-heading: #171f29;
+    --rs-primary: #047253;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #4338ca;
+    --rs-border: #d1d5db;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #047253;
 }
 
-/**
- * ----------------------------------------------------------------------------
- * 2. DARK MODE (EXPLICIT)
- * ----------------------------------------------------------------------------
- * Applied when the user explicitly forces the app into dark mode. 
- * Inverts the palette to deep tunnel grays with glowing neon accents.
- */
-body.theme-dark.theme-subway {
-    --rs-bg: #111827;       /* Dark tunnel background */
-    --rs-surface: #1f2937;  /* Lighter asphalt for elevated surfaces */
-    --rs-text: #f9fafb;     /* Very pale gray text for readability */
-    --rs-primary: #10b981;  /* Glowing Emerald neon for primary actions */
-    --rs-secondary: #6366f1;/* Glowing Indigo neon for secondary actions */
-    --rs-border: #374151;   /* Medium dark gray for subtle component borders */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-subway, .narrative-theme-subway, [data-narrative-theme="subway"]) {
+    color-scheme: dark;
+    --rs-bg: #111827;
+    --rs-bg-alt: #1b2130;
+    --rs-surface: #1f2937;
+    --rs-card-bg: #1f2937;
+    --rs-text: #f9fafb;
+    --rs-text-muted: #bdbfc4;
+    --rs-heading: #f8fafc;
+    --rs-primary: #10b981;
+    --rs-on-primary: #090d15;
+    --rs-secondary: #8a8df5;
+    --rs-border: #374151;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #10b981;
 }
 
-/**
- * ----------------------------------------------------------------------------
- * 3. OS AUTO DARK MODE
- * ----------------------------------------------------------------------------
- * Applied when the app is in "Auto" mode and the operating system is set 
- * to dark mode. Duplicates the dark mode variables.
- */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    /* Target explicit .theme-auto OR bodies with no light/dark class */
-    body.theme-auto.theme-subway,
-    body:not(.theme-light):not(.theme-dark).theme-subway {
-        --rs-bg: #111827;       /* Dark tunnel background */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-subway, .narrative-theme-subway, [data-narrative-theme="subway"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-subway, .narrative-theme-subway, [data-narrative-theme="subway"]) {
+        color-scheme: dark;
+        --rs-bg: #111827;
+        --rs-bg-alt: #1b2130;
         --rs-surface: #1f2937;
+        --rs-card-bg: #1f2937;
         --rs-text: #f9fafb;
-        --rs-primary: #10b981;  /* Glowing Emerald */
-        --rs-secondary: #6366f1;/* Glowing Indigo */
+        --rs-text-muted: #bdbfc4;
+        --rs-heading: #f8fafc;
+        --rs-primary: #10b981;
+        --rs-on-primary: #090d15;
+        --rs-secondary: #8a8df5;
         --rs-border: #374151;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #10b981;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-subway, .narrative-theme-subway, [data-narrative-theme="subway"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-subway, .narrative-theme-subway, [data-narrative-theme="subway"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-subway, .narrative-theme-subway, [data-narrative-theme="subway"])::before,
+    body:is(.theme-subway, .narrative-theme-subway, [data-narrative-theme="subway"])::after {
+        display: none !important;
     }
 }

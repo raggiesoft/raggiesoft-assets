@@ -1,68 +1,114 @@
 /**
  * ============================================================================
- * STARDUST THEME: RUNEBREAKER CRT - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: RUNEBREAKER CRT (`runebreaker-crt.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines the "Runebreaker CRT" reading theme for the 1992
- * Earth prologue of Runebreaker. It evokes a nostalgic October 1992 living room
- * bathed in the warm glow of table lamps and the electric phosphor hum of a
- * 16-bit console hooked up to a glass CRT television just before the portal opens.
- * 
- * Core Components:
- * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
- *    the main reader layout (reader.css).
- * 2. Theme Cascade: Implements three specific states to handle user preferences 
- *    and OS-level settings:
- *    - Light Mode (Warm 1992 living room carpet cream with CRT violet/cyan accents)
- *    - Forced Dark Mode (Deep phosphor CRT glass black with glowing arcade violet & cyan)
- *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
- * 
- * Maintainability Notes:
- * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
- *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
- *   state to prevent visual regressions during theme swapping.
- * - Always duplicate the Forced Dark Mode variables into the `@media` query 
- *   block to ensure visual consistency when OS Auto mode triggers.
+ *
+ * Architectural Overview:
+ * STARDUST THEME: RUNEBREAKER CRT - ARCHITECTURAL OVERVIEW Description: This stylesheet defines the "Runebreaker CRT" reading theme for the 1992 Earth prologue of Runebreaker. It evokes a nostalgic October 1992 living room bathed in the warm glow of table lamps and the electric phosphor hum of a 16-bit console hooked up to a glass CRT television just before the portal opens. Core Components: 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#faf6f0` / `#f0e9df` (`color-scheme: light`)
+ *     * Body Prose (`#1c1917`): 14.51:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#656260`): 5.02:1 min (WCAG AA)
+ *     * Headings (`#151311`): 15.38:1 min (WCAG AAA)
+ *     * Primary Accent (`#7833ec`): 5.00:1 min (`--rs-on-primary: #ffffff` = 6.03:1)
+ *     * Secondary Accent (`#066b84`): 5.06:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#090a10` / `#131524` (`color-scheme: dark`)
+ *     * Body Prose (`#e2e8f0`): 14.68:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#aaaeb6`): 8.13:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 17.30:1 min (WCAG AAA)
+ *     * Primary Accent (`#a78bfa`): 6.65:1 min (`--rs-on-primary: #050609` = 7.45:1)
+ *     * Secondary Accent (`#22d3ee`): 10.01:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Runebreaker CRT */
-
-/* --- 1. Light Mode (Base) --- */
-/* Acts as the default state and explicitly forced light mode */
-body.theme-runebreaker-crt,
-body.theme-light.theme-runebreaker-crt {
-    --rs-bg: #faf6f0; /* Warm 1992 living room cream */
-    --rs-surface: #f0e9df; /* Soft woven beige console surface */
-    --rs-text: #1c1917; /* Crisp charcoal ink text */
-    --rs-primary: #7c3aed; /* 16-bit cartridge purple primary accent */
-    --rs-secondary: #0891b2; /* CRT phosphor cyan secondary accent */
-    --rs-border: #d6cec2; /* Warm vintage plastic border */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-runebreaker-crt, .narrative-theme-runebreaker-crt, [data-narrative-theme="runebreaker-crt"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-runebreaker-crt, .narrative-theme-runebreaker-crt, [data-narrative-theme="runebreaker-crt"]) {
+    color-scheme: light;
+    --rs-bg: #faf6f0;
+    --rs-bg-alt: #f0efed;
+    --rs-surface: #f0e9df;
+    --rs-card-bg: #f0e9df;
+    --rs-text: #1c1917;
+    --rs-text-muted: #656260;
+    --rs-heading: #151311;
+    --rs-primary: #7833ec;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #066b84;
+    --rs-border: #d6cec2;
+    --rs-asl: #03689f;
+    --rs-gesture: #4338ca;
+    accent-color: #7833ec;
 }
 
-/* --- 2. Dark Mode (Explicitly Forced) --- */
-/* Applied when the user manually toggles the reader to Dark Mode */
-body.theme-dark.theme-runebreaker-crt {
-    --rs-bg: #090a10; /* Deep curved CRT glass black */
-    --rs-surface: #131524; /* Illuminated scanline phosphor surface */
-    --rs-text: #e2e8f0; /* Crisp phosphor white text */
-    --rs-primary: #a78bfa; /* Glowing 16-bit lavender-violet primary */
-    --rs-secondary: #22d3ee; /* Electric CRT scanline cyan secondary */
-    --rs-border: #2e2a4a; /* Subtle dark violet bezel border */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-runebreaker-crt, .narrative-theme-runebreaker-crt, [data-narrative-theme="runebreaker-crt"]) {
+    color-scheme: dark;
+    --rs-bg: #090a10;
+    --rs-bg-alt: #13141a;
+    --rs-surface: #131524;
+    --rs-card-bg: #131524;
+    --rs-text: #e2e8f0;
+    --rs-text-muted: #aaaeb6;
+    --rs-heading: #f8fafc;
+    --rs-primary: #a78bfa;
+    --rs-on-primary: #050609;
+    --rs-secondary: #22d3ee;
+    --rs-border: #2e2a4a;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #a78bfa;
 }
 
-/* --- 3. OS Auto Dark Mode --- */
-/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-runebreaker-crt,
-    body:not(.theme-light):not(.theme-dark).theme-runebreaker-crt {
-        --rs-bg: #090a10; /* Matches Forced Dark Mode */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-runebreaker-crt, .narrative-theme-runebreaker-crt, [data-narrative-theme="runebreaker-crt"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-runebreaker-crt, .narrative-theme-runebreaker-crt, [data-narrative-theme="runebreaker-crt"]) {
+        color-scheme: dark;
+        --rs-bg: #090a10;
+        --rs-bg-alt: #13141a;
         --rs-surface: #131524;
+        --rs-card-bg: #131524;
         --rs-text: #e2e8f0;
+        --rs-text-muted: #aaaeb6;
+        --rs-heading: #f8fafc;
         --rs-primary: #a78bfa;
+        --rs-on-primary: #050609;
         --rs-secondary: #22d3ee;
         --rs-border: #2e2a4a;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #a78bfa;
     }
 }
 
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-runebreaker-crt, .narrative-theme-runebreaker-crt, [data-narrative-theme="runebreaker-crt"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-runebreaker-crt, .narrative-theme-runebreaker-crt, [data-narrative-theme="runebreaker-crt"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-runebreaker-crt, .narrative-theme-runebreaker-crt, [data-narrative-theme="runebreaker-crt"])::before,
+    body:is(.theme-runebreaker-crt, .narrative-theme-runebreaker-crt, [data-narrative-theme="runebreaker-crt"])::after {
+        display: none !important;
+    }
+}

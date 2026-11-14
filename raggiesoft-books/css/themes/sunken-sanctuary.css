@@ -1,182 +1,131 @@
 /**
  * ============================================================================
- * STARDUST THEME: SUNKEN SANCTUARY (ZERO-THRESHOLD U.S. 11 MASTER REFUGE)
+ * STARDUST ENGINE NARRATIVE THEME: SUNKEN SANCTUARY (`sunken-sanctuary.css`)
  * ============================================================================
  *
- * Description:
- * This stylesheet (`sunken-sanctuary.css`) defines the bespoke "Sunken
- * Sanctuary" reading theme (`theme: "sunken-sanctuary"`) for the Ocean View
- * Archives / Stardust Engine. Created for Era 8 ("Summer 2016") and beyond in
- * *The Eleventh Child: The Story of Jordan*, it embodies the architectural and
- * emotional culmination of Zoë Wren Brooks's 3D CAD blueprint at the custom-
- * built Kelly–Cooper–Brooks Compound on U.S. Route 11: a fifteen-foot-by-
- * fifteen-foot recessed mattress well whose crown sits at a +0.00-inch
- * elevation delta relative to the surrounding hardwood transfer deck and the
- * seat pan of Jordan's `Vanguard Pro` wheelchair ("Puppy Pile 3.0").
+ * Architectural Overview:
+ * STARDUST THEME: SUNKEN SANCTUARY (ZERO-THRESHOLD U.S. 11 MASTER REFUGE) Description: This stylesheet (`sunken-sanctuary.css`) defines the bespoke "Sunken Sanctuary" reading theme (`theme: "sunken-sanctuary"`) for the Ocean View Archives / Stardust Engine. Created for Era 8 ("Summer 2016") and beyond in *The Eleventh Child: The Story of Jordan*, it embodies the architectural and emotional culmination of Zoë Wren Brooks's 3D CAD blueprint at the custom- built Kelly–Cooper–Brooks Compound on U.S. Route 11: a fifteen-foot-by-
  *
- * Dual Architectural & Sanctuary Palette:
- * - Light Mode ("Sunlit Cedar & Zero-Threshold Transfer Deck"):
- *   Pairs a warm Sunlit Cedar-Alabaster canvas (`#fbf8f3`) and pure Linen
- *   Daylight reading surfaces (`#ffffff`) with Deep Walnut-Obsidian prose ink
- *   (`#1a1410`), Warm Sanctuary Cedar-Amber primary accents (`#853a0e`), and
- *   Velvet Indigo Bolster secondary accents (`#312e81`).
- * - Dark Mode ("Velvet Bolsters & Amber Sconce Glow"):
- *   Evokes evening co-regulation inside the Sunken Sanctuary—a Deep Midnight-
- *   Velvet Sanctuary canvas (`#0f0d18`) and Elevated Cedar-Indigo surface
- *   (`#1a1728`) lit by Soft Starlight Cream prose (`#f6f3ec`), Warm Sconce
- *   Gold primary accents (`#fbbf24`), and Periwinkle Constellation Silk
- *   secondary accents (`#a5b4fc`).
- *
- * WCAG 2.1 AA / AAA & Section 508 Contrast Verification:
- * - Light Mode:
- *   - Body Text (`#1a1410` on `#fbf8f3` bg): 16.82:1 (WCAG AAA)
- *   - Body Text (`#1a1410` on `#ffffff` surface): 17.91:1 (WCAG AAA)
- *   - Primary Accent (`#853a0e` on `#fbf8f3` bg): 7.45:1 (WCAG AAA)
- *   - Secondary Accent (`#312e81` on `#fbf8f3` bg): 10.84:1 (WCAG AAA)
- * - Dark Mode:
- *   - Body Text (`#f6f3ec` on `#0f0d18` bg): 16.94:1 (WCAG AAA)
- *   - Body Text (`#f6f3ec` on `#1a1728` surface): 14.52:1 (WCAG AAA)
- *   - Primary Accent (`#fbbf24` on `#0f0d18` bg): 11.83:1 (WCAG AAA)
- *   - Secondary Accent (`#a5b4fc` on `#0f0d18` bg): 9.42:1 (WCAG AAA)
- *   - Primary Button (`#fffbeb` on `#312e81` fill): 10.64:1 (WCAG AAA)
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#fbf8f3` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#1a1410`): 15.27:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#66625d`): 5.07:1 min (WCAG AA)
+ *     * Headings (`#1e1b4b`): 13.39:1 min (WCAG AAA)
+ *     * Primary Accent (`#853a0e`): 6.74:1 min (`--rs-on-primary: #ffffff` = 8.05:1)
+ *     * Secondary Accent (`#312e81`): 9.57:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#0f0d18` / `#1a1728` (`color-scheme: dark`)
+ *     * Body Prose (`#f6f3ec`): 15.83:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#bab7b5`): 8.79:1 min (WCAG AA)
+ *     * Headings (`#fef3c7`): 15.75:1 min (WCAG AAA)
+ *     * Primary Accent (`#fbbf24`): 10.51:1 min (`--rs-on-primary: #08070d` = 12.02:1)
+ *     * Secondary Accent (`#a5b4fc`): 8.80:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Sunken Sanctuary (`sunken-sanctuary`) */
-
-/* --- 1. Light Mode (Base & Explicit OS/User Light Preference) --- */
-body.theme-sunken-sanctuary,
-body.theme-light.theme-sunken-sanctuary,
-body.theme-sepia.theme-sunken-sanctuary {
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-sunken-sanctuary, .narrative-theme-sunken-sanctuary, [data-narrative-theme="sunken-sanctuary"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-sunken-sanctuary, .narrative-theme-sunken-sanctuary, [data-narrative-theme="sunken-sanctuary"]) {
     color-scheme: light;
-    --rs-bg: #fbf8f3;        /* Warm Sunlit Cedar-Alabaster canvas */
-    --rs-bg-alt: #f1eae0;    /* Flush Hardwood Transfer Deck sidebar background */
-    --rs-surface: #ffffff;   /* Crisp Sunlit Linen reading card surface */
-    --rs-card-bg: #ffffff;   /* Modal and card container surface */
-    --rs-text: #1a1410;      /* Deep Walnut-Obsidian prose ink (16.82:1 contrast) */
-    --rs-heading: #1e1b4b;   /* Deep Velvet-Indigo architectural heading token */
-    --rs-primary: #853a0e;   /* Warm Sanctuary Cedar-Amber primary accent (7.45:1 contrast) */
-    --rs-secondary: #312e81; /* Velvet Indigo Bolster secondary accent (10.84:1 contrast) */
-    --rs-border: #d8cbb8;    /* Recessed Cedar-Oak structural border */
+    --rs-bg: #fbf8f3;
+    --rs-bg-alt: #f1eae0;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #1a1410;
+    --rs-text-muted: #66625d;
+    --rs-heading: #1e1b4b;
+    --rs-primary: #853a0e;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #312e81;
+    --rs-border: #d8cbb8;
+    --rs-asl: #0368a0;
+    --rs-gesture: #4338ca;
     accent-color: #853a0e;
 }
 
-@media (prefers-color-scheme: light) {
-    body.theme-auto.theme-sunken-sanctuary,
-    body.theme-sepia-system.theme-sunken-sanctuary {
-        color-scheme: light;
-        --rs-bg: #fbf8f3;
-        --rs-bg-alt: #f1eae0;
-        --rs-surface: #ffffff;
-        --rs-card-bg: #ffffff;
-        --rs-text: #1a1410;
-        --rs-heading: #1e1b4b;
-        --rs-primary: #853a0e;
-        --rs-secondary: #312e81;
-        --rs-border: #d8cbb8;
-        accent-color: #853a0e;
-    }
-}
-
-/* Warm recessed sanctuary border glow in Light Mode */
-body.theme-sunken-sanctuary #stardust-reading-pane,
-body.theme-light.theme-sunken-sanctuary #stardust-reading-pane,
-body.theme-sepia.theme-sunken-sanctuary #stardust-reading-pane {
-    box-shadow:
-        inset 0 6px 32px rgba(133, 58, 14, 0.06),
-        inset 0 -6px 28px rgba(49, 46, 129, 0.04);
-}
-
-/* --- 2. Dark Mode (Explicitly Forced by Reader Toggle) --- */
-body.theme-dark.theme-sunken-sanctuary,
-body.theme-dark-sepia.theme-sunken-sanctuary {
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-sunken-sanctuary, .narrative-theme-sunken-sanctuary, [data-narrative-theme="sunken-sanctuary"]) {
     color-scheme: dark;
-    --rs-bg: #0f0d18;        /* Deep Midnight-Velvet Sanctuary night canvas */
-    --rs-bg-alt: #151221;    /* Recessed Bolster-Indigo sidebar background */
-    --rs-surface: #1a1728;   /* Elevated Cedar-Indigo reading and modal surface */
-    --rs-card-bg: #1a1728;   /* Matching elevated dark container surface */
-    --rs-text: #f6f3ec;      /* Soft Starlight Cream prose text (16.94:1 contrast) */
-    --rs-heading: #fef3c7;   /* Warm Sconce-Amber heading token */
-    --rs-primary: #fbbf24;   /* Warm Sconce Gold primary accent (11.83:1 contrast) */
-    --rs-secondary: #a5b4fc; /* Periwinkle Constellation Silk secondary accent (9.42:1 contrast) */
-    --rs-border: #362f54;    /* Velvet-Oak structural border */
+    --rs-bg: #0f0d18;
+    --rs-bg-alt: #151221;
+    --rs-surface: #1a1728;
+    --rs-card-bg: #1a1728;
+    --rs-text: #f6f3ec;
+    --rs-text-muted: #bab7b5;
+    --rs-heading: #fef3c7;
+    --rs-primary: #fbbf24;
+    --rs-on-primary: #08070d;
+    --rs-secondary: #a5b4fc;
+    --rs-border: #362f54;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
     accent-color: #fbbf24;
 }
 
-body.theme-dark.theme-sunken-sanctuary #stardust-reading-pane,
-body.theme-dark-sepia.theme-sunken-sanctuary #stardust-reading-pane {
-    box-shadow:
-        inset 0 6px 36px rgba(251, 191, 36, 0.06),
-        inset 0 -6px 36px rgba(165, 180, 252, 0.05);
-}
-
-body.theme-dark.theme-sunken-sanctuary .rs-btn-primary,
-body.theme-dark-sepia.theme-sunken-sanctuary .rs-btn-primary {
-    background-color: #312e81;
-    border-color: #fbbf24;
-    color: #fffbeb;
-}
-
-body.theme-dark.theme-sunken-sanctuary .rs-btn-primary:hover,
-body.theme-dark-sepia.theme-sunken-sanctuary .rs-btn-primary:hover,
-body.theme-dark.theme-sunken-sanctuary .rs-btn-primary:focus-visible,
-body.theme-dark-sepia.theme-sunken-sanctuary .rs-btn-primary:focus-visible {
-    background-color: #3730a3;
-    border-color: #a5b4fc;
-    color: #ffffff;
-}
-
-/* --- 3. Dark Mode (OS Preference via `prefers-color-scheme: dark`) --- */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-sunken-sanctuary,
-    body.theme-sepia-system.theme-sunken-sanctuary,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-sunken-sanctuary {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-sunken-sanctuary, .narrative-theme-sunken-sanctuary, [data-narrative-theme="sunken-sanctuary"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-sunken-sanctuary, .narrative-theme-sunken-sanctuary, [data-narrative-theme="sunken-sanctuary"]) {
         color-scheme: dark;
         --rs-bg: #0f0d18;
         --rs-bg-alt: #151221;
         --rs-surface: #1a1728;
         --rs-card-bg: #1a1728;
         --rs-text: #f6f3ec;
+        --rs-text-muted: #bab7b5;
         --rs-heading: #fef3c7;
         --rs-primary: #fbbf24;
+        --rs-on-primary: #08070d;
         --rs-secondary: #a5b4fc;
         --rs-border: #362f54;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
         accent-color: #fbbf24;
-    }
-
-    body.theme-auto.theme-sunken-sanctuary #stardust-reading-pane,
-    body.theme-sepia-system.theme-sunken-sanctuary #stardust-reading-pane,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-sunken-sanctuary #stardust-reading-pane {
-        box-shadow:
-            inset 0 6px 36px rgba(251, 191, 36, 0.06),
-            inset 0 -6px 36px rgba(165, 180, 252, 0.05);
-    }
-
-    body.theme-auto.theme-sunken-sanctuary .rs-btn-primary,
-    body.theme-sepia-system.theme-sunken-sanctuary .rs-btn-primary,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-sunken-sanctuary .rs-btn-primary {
-        background-color: #312e81;
-        border-color: #fbbf24;
-        color: #fffbeb;
     }
 }
 
-/* --- 4. Forced Colors (Windows High Contrast Mode) Safety --- */
+/* Atmospheric Reading Pane Framing (Light & Sepia) */
+:is(body, body.theme-oceanview):is(.theme-sunken-sanctuary, .narrative-theme-sunken-sanctuary, [data-narrative-theme="sunken-sanctuary"]) #stardust-reading-pane,
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-sunken-sanctuary, .narrative-theme-sunken-sanctuary, [data-narrative-theme="sunken-sanctuary"]) #stardust-reading-pane {
+    box-shadow: inset 0 6px 32px rgba(133, 58, 14, 0.06), inset 0 -6px 28px rgba(49, 46, 129, 0.04);
+}
+
+/* Atmospheric Reading Pane Framing (Dark & System Auto Dark) */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-sunken-sanctuary, .narrative-theme-sunken-sanctuary, [data-narrative-theme="sunken-sanctuary"]) #stardust-reading-pane {
+    box-shadow: inset 0 6px 36px rgba(251, 191, 36, 0.06), inset 0 -6px 36px rgba(165, 180, 252, 0.05);
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-sunken-sanctuary, .narrative-theme-sunken-sanctuary, [data-narrative-theme="sunken-sanctuary"]) #stardust-reading-pane,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-sunken-sanctuary, .narrative-theme-sunken-sanctuary, [data-narrative-theme="sunken-sanctuary"]) #stardust-reading-pane {
+        box-shadow: inset 0 6px 36px rgba(251, 191, 36, 0.06), inset 0 -6px 36px rgba(165, 180, 252, 0.05);
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
 @media (forced-colors: active) {
-    body.theme-sunken-sanctuary {
+    body:is(.theme-sunken-sanctuary, .narrative-theme-sunken-sanctuary, [data-narrative-theme="sunken-sanctuary"]) {
         --rs-bg: Canvas;
         --rs-bg-alt: Canvas;
         --rs-surface: Canvas;
         --rs-card-bg: Canvas;
         --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
         --rs-heading: CanvasText;
         --rs-primary: LinkText;
-        --rs-secondary: Highlight;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
         --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
     }
-
-    body.theme-sunken-sanctuary #stardust-reading-pane {
-        box-shadow: none;
+    body:is(.theme-sunken-sanctuary, .narrative-theme-sunken-sanctuary, [data-narrative-theme="sunken-sanctuary"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-sunken-sanctuary, .narrative-theme-sunken-sanctuary, [data-narrative-theme="sunken-sanctuary"])::before,
+    body:is(.theme-sunken-sanctuary, .narrative-theme-sunken-sanctuary, [data-narrative-theme="sunken-sanctuary"])::after {
+        display: none !important;
     }
 }
-

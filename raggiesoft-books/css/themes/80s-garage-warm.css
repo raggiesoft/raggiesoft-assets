@@ -1,0 +1,131 @@
+/**
+ * ============================================================================
+ * STARDUST ENGINE NARRATIVE THEME: 1980S GARAGE WARMTH (124 DRAPER ROAD & ANALOG REEL-TO-REEL) (`80s-garage-warm.css`)
+ * ============================================================================
+ *
+ * Architectural Overview:
+ * Created for *The Stardust Engine* (`books/stardust-engine`), evoking the early 1984–1985 rehearsals inside the 124 Draper Road garage in Blacksburg—warm pine rafters, glowing tube amplifiers, analog reel-to-reel tape oxide, and vintage 1984 polysynth LEDs.
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#fbf6ec` / `#fffdf8` (`color-scheme: light`)
+ *     * Body Prose (`#221810`): 14.32:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#57412f`): 7.84:1 min (WCAG AA)
+ *     * Headings (`#6c270d`): 8.93:1 min (WCAG AAA)
+ *     * Primary Accent (`#9a3412`): 6.01:1 min (`--rs-on-primary: #ffffff` = 7.31:1)
+ *     * Secondary Accent (`#0f5257`): 7.30:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#140e09` / `#261c13` (`color-scheme: dark`)
+ *     * Body Prose (`#f7efe2`): 14.63:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#cab89f`): 8.64:1 min (WCAG AA)
+ *     * Headings (`#fde68a`): 13.40:1 min (WCAG AAA)
+ *     * Primary Accent (`#fbbf24`): 10.00:1 min (`--rs-on-primary: #0b0805` = 11.97:1)
+ *     * Secondary Accent (`#5eead4`): 11.29:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
+ * ============================================================================
+ */
+
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-80s-garage-warm, .narrative-theme-80s-garage-warm, [data-narrative-theme="80s-garage-warm"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-80s-garage-warm, .narrative-theme-80s-garage-warm, [data-narrative-theme="80s-garage-warm"]) {
+    color-scheme: light;
+    --rs-bg: #fbf6ec;
+    --rs-bg-alt: #f2e8d4;
+    --rs-surface: #fffdf8;
+    --rs-card-bg: #fffdf8;
+    --rs-text: #221810;
+    --rs-text-muted: #57412f;
+    --rs-heading: #6c270d;
+    --rs-primary: #9a3412;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #0f5257;
+    --rs-border: #decbb0;
+    --rs-asl: #03679f;
+    --rs-gesture: #4338ca;
+    accent-color: #9a3412;
+}
+
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-80s-garage-warm, .narrative-theme-80s-garage-warm, [data-narrative-theme="80s-garage-warm"]) {
+    color-scheme: dark;
+    --rs-bg: #140e09;
+    --rs-bg-alt: #1d150e;
+    --rs-surface: #261c13;
+    --rs-card-bg: #261c13;
+    --rs-text: #f7efe2;
+    --rs-text-muted: #cab89f;
+    --rs-heading: #fde68a;
+    --rs-primary: #fbbf24;
+    --rs-on-primary: #0b0805;
+    --rs-secondary: #5eead4;
+    --rs-border: #4a3726;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #fbbf24;
+}
+
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-80s-garage-warm, .narrative-theme-80s-garage-warm, [data-narrative-theme="80s-garage-warm"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-80s-garage-warm, .narrative-theme-80s-garage-warm, [data-narrative-theme="80s-garage-warm"]) {
+        color-scheme: dark;
+        --rs-bg: #140e09;
+        --rs-bg-alt: #1d150e;
+        --rs-surface: #261c13;
+        --rs-card-bg: #261c13;
+        --rs-text: #f7efe2;
+        --rs-text-muted: #cab89f;
+        --rs-heading: #fde68a;
+        --rs-primary: #fbbf24;
+        --rs-on-primary: #0b0805;
+        --rs-secondary: #5eead4;
+        --rs-border: #4a3726;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #fbbf24;
+    }
+}
+
+/* Atmospheric Reading Pane Framing (Light & Sepia) */
+:is(body, body.theme-oceanview):is(.theme-80s-garage-warm, .narrative-theme-80s-garage-warm, [data-narrative-theme="80s-garage-warm"]) #stardust-reading-pane,
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-80s-garage-warm, .narrative-theme-80s-garage-warm, [data-narrative-theme="80s-garage-warm"]) #stardust-reading-pane {
+    box-shadow: inset 0 8px 34px rgba(154, 52, 18, 0.06);
+}
+
+/* Atmospheric Reading Pane Framing (Dark & System Auto Dark) */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-80s-garage-warm, .narrative-theme-80s-garage-warm, [data-narrative-theme="80s-garage-warm"]) #stardust-reading-pane {
+    box-shadow: inset 0 8px 38px rgba(251, 191, 36, 0.08);
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-80s-garage-warm, .narrative-theme-80s-garage-warm, [data-narrative-theme="80s-garage-warm"]) #stardust-reading-pane,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-80s-garage-warm, .narrative-theme-80s-garage-warm, [data-narrative-theme="80s-garage-warm"]) #stardust-reading-pane {
+        box-shadow: inset 0 8px 38px rgba(251, 191, 36, 0.08);
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-80s-garage-warm, .narrative-theme-80s-garage-warm, [data-narrative-theme="80s-garage-warm"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-80s-garage-warm, .narrative-theme-80s-garage-warm, [data-narrative-theme="80s-garage-warm"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-80s-garage-warm, .narrative-theme-80s-garage-warm, [data-narrative-theme="80s-garage-warm"])::before,
+    body:is(.theme-80s-garage-warm, .narrative-theme-80s-garage-warm, [data-narrative-theme="80s-garage-warm"])::after {
+        display: none !important;
+    }
+}

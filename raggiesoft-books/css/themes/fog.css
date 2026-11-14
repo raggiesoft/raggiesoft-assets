@@ -1,104 +1,143 @@
 /**
  * ============================================================================
- * RAGGIESOFT THEME: KARL THE FOG
+ * STARDUST ENGINE NARRATIVE THEME: FOG (`fog.css`)
  * ============================================================================
- * Architecture & Purpose:
- * An atmospheric theme utilizing linear CSS gradients and background animations
- * to simulate drifting fog. It manipulates the core `--rs-*` color structure
- * and attaches a custom moving background directly to the body element.
- * 
- * Key Design Elements:
- * - Oversized linear gradients (`background-size: 200% 100%`) enable horizontal panning.
- * - Hardware-accelerated background-position animations create a slow, drifting effect.
- * - Built-in OS-level dark mode support, altering both the base palette and the fog gradient's hue.
- * - Strict accessibility compliance to prevent animation-induced motion sickness.
- * 
- * Maintenance Notes:
- * - Gradient opacity values are carefully tuned. Increasing them will negatively
- *   impact text contrast and readability.
- * - The animation duration (`15s`) must remain slow. Faster values destroy the
- *   illusion of heavy, lethargic fog.
+ *
+ * Architectural Overview:
+ * RAGGIESOFT THEME: KARL THE FOG Architecture & Purpose: An atmospheric theme utilizing linear CSS gradients and background animations to simulate drifting fog. It manipulates the core `--rs-*` color structure and attaches a custom moving background directly to the body element. Key Design Elements: - Oversized linear gradients (`background-size: 200% 100%`) enable horizontal panning. - Hardware-accelerated background-position animations create a slow, drifting effect.
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#cfd9e4` / `#f1f5f9` (`color-scheme: light`)
+ *     * Body Prose (`#1e293b`): 10.14:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#4e5865`): 5.01:1 min (WCAG AA)
+ *     * Headings (`#161f2c`): 11.49:1 min (WCAG AAA)
+ *     * Primary Accent (`#475569`): 5.25:1 min (`--rs-on-primary: #ffffff` = 7.58:1)
+ *     * Secondary Accent (`#49586e`): 5.01:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#0f172a` / `#1e293b` (`color-scheme: dark`)
+ *     * Body Prose (`#f1f5f9`): 13.35:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#b6bbc3`): 7.58:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 13.98:1 min (WCAG AAA)
+ *     * Primary Accent (`#94a3b8`): 5.71:1 min (`--rs-on-primary: #080d17` = 7.58:1)
+ *     * Secondary Accent (`#8999af`): 5.04:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Karl The Fog */
-
-/* -------------------------------------------------------------------------
- * 1. Light Mode (Base Palette)
- * ------------------------------------------------------------------------- */
-/* Default styling for the misty daytime aesthetic */
-body.theme-fog,
-body.theme-light.theme-fog {
-    --rs-bg: #cbd5e1; /* Foggy slate grey base background */
-    --rs-surface: #f1f5f9; /* Soft, foggy white for raised UI cards */
-    --rs-text: #1e293b; /* Deep slate text ensuring WCAG contrast compliance */
-    --rs-primary: #475569; /* Slate-grey primary accent */
-    --rs-secondary: #94a3b8; /* Muted slate for secondary text and borders */
-    --rs-border: #94a3b8; /* Structural boundary lines */
-    
-    /* Light Mode Fog Gradient: Alternating bands of semi-transparent white and slate */
-    background-image: linear-gradient(110deg, rgba(255,255,255,0.4) 0%, rgba(203,213,225,0.7) 50%, rgba(255,255,255,0.4) 100%);
-    /* Double the width of the background so it can be panned horizontally */
-    background-size: 200% 100%;
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-fog, .narrative-theme-fog, [data-narrative-theme="fog"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-fog, .narrative-theme-fog, [data-narrative-theme="fog"]) {
+    color-scheme: light;
+    --rs-bg: #cfd9e4;
+    --rs-bg-alt: #ced8e3;
+    --rs-surface: #f1f5f9;
+    --rs-card-bg: #f1f5f9;
+    --rs-text: #1e293b;
+    --rs-text-muted: #4e5865;
+    --rs-heading: #161f2c;
+    --rs-primary: #475569;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #49586e;
+    --rs-border: #a1afc1;
+    --rs-asl: #035b8c;
+    --rs-gesture: #4338ca;
+    accent-color: #475569;
 }
 
-/* -------------------------------------------------------------------------
- * 2. Dark Mode (Explicitly Forced)
- * ------------------------------------------------------------------------- */
-/* Styling for a heavy, dense midnight fog */
-body.theme-dark.theme-fog {
-    --rs-bg: #0f172a; /* Deep, impenetrable foggy night base */
-    --rs-surface: #1e293b; /* Slightly lighter slate for UI separation */
-    --rs-text: #f1f5f9; /* Highly visible pale white text */
-    --rs-primary: #94a3b8; /* Muted slate primary accent to prevent neon-glare */
-    --rs-secondary: #475569; /* Darker slate for secondary interactions */
-    --rs-border: #334155; /* Very subtle, dark division lines */
-    
-    /* Dark Mode Fog Gradient: Employs deep blue/black transparencies */
-    background-image: linear-gradient(110deg, rgba(30,41,59,0.4) 0%, rgba(15,23,42,0.8) 50%, rgba(30,41,59,0.4) 100%);
-    background-size: 200% 100%;
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-fog, .narrative-theme-fog, [data-narrative-theme="fog"]) {
+    color-scheme: dark;
+    --rs-bg: #0f172a;
+    --rs-bg-alt: #192033;
+    --rs-surface: #1e293b;
+    --rs-card-bg: #1e293b;
+    --rs-text: #f1f5f9;
+    --rs-text-muted: #b6bbc3;
+    --rs-heading: #f8fafc;
+    --rs-primary: #94a3b8;
+    --rs-on-primary: #080d17;
+    --rs-secondary: #8999af;
+    --rs-border: #334155;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #94a3b8;
 }
 
-/* -------------------------------------------------------------------------
- * 3. OS Auto Dark Mode Support
- * ------------------------------------------------------------------------- */
-/* Injects the Dark Mode styling automatically when system preferences request it */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-fog,
-    body:not(.theme-light):not(.theme-dark).theme-fog {
-        /* Mirrored Dark Mode variables and gradient */
-        --rs-bg: #0f172a; 
-        --rs-surface: #1e293b; 
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-fog, .narrative-theme-fog, [data-narrative-theme="fog"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-fog, .narrative-theme-fog, [data-narrative-theme="fog"]) {
+        color-scheme: dark;
+        --rs-bg: #0f172a;
+        --rs-bg-alt: #192033;
+        --rs-surface: #1e293b;
+        --rs-card-bg: #1e293b;
         --rs-text: #f1f5f9;
+        --rs-text-muted: #b6bbc3;
+        --rs-heading: #f8fafc;
         --rs-primary: #94a3b8;
-        --rs-secondary: #475569;
+        --rs-on-primary: #080d17;
+        --rs-secondary: #8999af;
         --rs-border: #334155;
-        background-image: linear-gradient(110deg, rgba(30,41,59,0.4) 0%, rgba(15,23,42,0.8) 50%, rgba(30,41,59,0.4) 100%);
-        background-size: 200% 100%;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #94a3b8;
     }
 }
 
-/* -------------------------------------------------------------------------
- * 4. Procedural Animation Execution
- * ------------------------------------------------------------------------- */
-/* Applies the animation globally whenever the fog theme is active */
-body.theme-fog {
-    /* 15s duration creates a slow, languid panning effect */
+/* Atmospheric Drifting Fog Gradient (Light vs. Dark Polarity + Reduced Motion Safety) */
+:is(body, body.theme-oceanview):is(.theme-fog, .narrative-theme-fog, [data-narrative-theme="fog"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-fog, .narrative-theme-fog, [data-narrative-theme="fog"]) {
+    background-image: linear-gradient(110deg, rgba(255, 255, 255, 0.45) 0%, rgba(203, 213, 225, 0.65) 50%, rgba(255, 255, 255, 0.45) 100%);
+    background-size: 200% 100%;
     animation: fog-drift 15s infinite linear;
 }
-
-/* Keyframes to pan the oversized background image horizontally */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-fog, .narrative-theme-fog, [data-narrative-theme="fog"]) {
+    background-image: linear-gradient(110deg, rgba(30, 41, 59, 0.4) 0%, rgba(15, 23, 42, 0.8) 50%, rgba(30, 41, 59, 0.4) 100%);
+    background-size: 200% 100%;
+    animation: fog-drift 15s infinite linear;
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-fog, .narrative-theme-fog, [data-narrative-theme="fog"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-fog, .narrative-theme-fog, [data-narrative-theme="fog"]) {
+        background-image: linear-gradient(110deg, rgba(30, 41, 59, 0.4) 0%, rgba(15, 23, 42, 0.8) 50%, rgba(30, 41, 59, 0.4) 100%);
+        background-size: 200% 100%;
+    }
+}
 @keyframes fog-drift {
     0% { background-position: 0% 0%; }
     100% { background-position: 200% 0%; }
 }
-
-/* -------------------------------------------------------------------------
- * 5. Accessibility Controls
- * ------------------------------------------------------------------------- */
-/* Automatically halts background panning if the user has requested reduced motion */
 @media (prefers-reduced-motion: reduce) {
-    body.theme-fog {
-        animation: none;
+    body:is(.theme-fog, .narrative-theme-fog, [data-narrative-theme="fog"]) {
+        animation: none !important;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-fog, .narrative-theme-fog, [data-narrative-theme="fog"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-fog, .narrative-theme-fog, [data-narrative-theme="fog"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-fog, .narrative-theme-fog, [data-narrative-theme="fog"])::before,
+    body:is(.theme-fog, .narrative-theme-fog, [data-narrative-theme="fog"])::after {
+        display: none !important;
     }
 }

@@ -4,25 +4,12 @@
  * CONTEXT: UI Components / Loading States
  *
  * PURPOSE:
- * Provides a lightweight, pure CSS loading spinner designed to replace the
- * heavier `<wa-spinner>` Web Component.
+ * Provides a lightweight, pure CSS loading spinner designed to replace `<wa-spinner>`.
  *
- * ARCHITECTURAL ROLE:
- * Included globally in the compiled library. It relies entirely on standard CSS
- * borders and keyframe animations to create a hardware-accelerated infinite
- * rotation effect.
- *
- * KEY COMPONENTS:
- * - `.rs-spinner`: The base class. It creates a circle via `border-radius: 50%`
- *   and applies a solid border using the `--rs-border` color.
- * - Leading Edge: Re-colors `border-top-color` to `--rs-primary` to create the
- *   visual "head" of the spinner.
- * - Hardware Acceleration: The `@keyframes rs-spin` strictly animates the
- *   `transform` property, preventing layout repaints on every frame.
- *
- * MAINTENANCE NOTES:
- * - Ensure that variables like `--rs-border` and `--rs-primary` are defined in
- *   the active theme context, otherwise the spinner will render invisible.
+ * ACCESSIBILITY NOTES:
+ * - Uses `--rs-border` for the track and `--rs-primary` for the active arc.
+ * - Respects `@media (prefers-reduced-motion: reduce)` by slowing rotation to
+ *   a gentle non-vestibular pulse/step indicator.
  * ============================================================================
  */
 .rs-spinner {
@@ -34,6 +21,13 @@
     border-radius: 50%;
     animation: rs-spin 1s linear infinite;
 }
+
 @keyframes rs-spin {
     to { transform: rotate(360deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .rs-spinner {
+        animation-duration: 3s;
+    }
 }

@@ -1,66 +1,114 @@
 /**
  * ============================================================================
- * STARDUST THEME: SCHOOL - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: SCHOOL (`school.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines the "School" reading theme for the Stardust Engine. 
- * It uses familiar "schoolhouse" colors—paper tones, collegiate blue, and 
- * school bus yellow—to evoke an academic or youthful setting.
- * 
- * Core Components:
- * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
- *    the main reader layout (reader.css).
- * 2. Theme Cascade: Implements three specific states to handle user preferences 
- *    and OS-level settings:
- *    - Light Mode (Default/Base fallback - paper white background)
- *    - Forced Dark Mode (Chalkboard/slate background with bright accents)
- *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
- * 
- * Maintainability Notes:
- * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
- *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
- *   state to prevent visual regressions during theme swapping.
- * - Always duplicate the Forced Dark Mode variables into the `@media` query 
- *   block to ensure visual consistency when OS Auto mode triggers.
+ *
+ * Architectural Overview:
+ * STARDUST THEME: SCHOOL - ARCHITECTURAL OVERVIEW Description: This stylesheet defines the "School" reading theme for the Stardust Engine. It uses familiar "schoolhouse" colors—paper tones, collegiate blue, and school bus yellow—to evoke an academic or youthful setting. Core Components: 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by the main reader layout (reader.css).
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#fdfbf7` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#334155`): 9.31:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#626873`): 5.04:1 min (WCAG AA)
+ *     * Headings (`#263140`): 11.83:1 min (WCAG AAA)
+ *     * Primary Accent (`#1d4ed8`): 6.02:1 min (`--rs-on-primary: #ffffff` = 6.70:1)
+ *     * Secondary Accent (`#826404`): 5.00:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#0f172a` / `#1e293b` (`color-scheme: dark`)
+ *     * Body Prose (`#e2e8f0`): 11.87:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#abb2bd`): 6.85:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 13.98:1 min (WCAG AAA)
+ *     * Primary Accent (`#60a5fa`): 5.75:1 min (`--rs-on-primary: #080d17` = 7.65:1)
+ *     * Secondary Accent (`#facc15`): 9.55:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: School */
-
-/* --- 1. Light Mode (Base) --- */
-/* Acts as the default state and explicitly forced light mode */
-body.theme-school,
-body.theme-light.theme-school {
-    --rs-bg: #fdfbf7; /* Slight yellow-ish paper tone */
-    --rs-surface: #ffffff; /* Pure white panels */
-    --rs-text: #334155; /* Slate text for readability */
-    --rs-primary: #1d4ed8; /* Collegiate / School blue */
-    --rs-secondary: #eab308; /* School bus yellow */
-    --rs-border: #cbd5e1; /* Light slate border */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-school, .narrative-theme-school, [data-narrative-theme="school"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-school, .narrative-theme-school, [data-narrative-theme="school"]) {
+    color-scheme: light;
+    --rs-bg: #fdfbf7;
+    --rs-bg-alt: #f2f3f2;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #334155;
+    --rs-text-muted: #626873;
+    --rs-heading: #263140;
+    --rs-primary: #1d4ed8;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #826404;
+    --rs-border: #cbd5e1;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #1d4ed8;
 }
 
-/* --- 2. Dark Mode (Explicitly Forced) --- */
-/* Applied when the user manually toggles the reader to Dark Mode */
-body.theme-dark.theme-school {
-    --rs-bg: #0f172a; /* Deep slate (chalkboard aesthetic) */
-    --rs-surface: #1e293b; /* Elevated slate surface */
-    --rs-text: #e2e8f0; /* Light text for contrast */
-    --rs-primary: #60a5fa; /* Soft bright blue */
-    --rs-secondary: #facc15; /* Bright yellow */
-    --rs-border: #334155; /* Mid-slate border */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-school, .narrative-theme-school, [data-narrative-theme="school"]) {
+    color-scheme: dark;
+    --rs-bg: #0f172a;
+    --rs-bg-alt: #192033;
+    --rs-surface: #1e293b;
+    --rs-card-bg: #1e293b;
+    --rs-text: #e2e8f0;
+    --rs-text-muted: #abb2bd;
+    --rs-heading: #f8fafc;
+    --rs-primary: #60a5fa;
+    --rs-on-primary: #080d17;
+    --rs-secondary: #facc15;
+    --rs-border: #334155;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #60a5fa;
 }
 
-/* --- 3. OS Auto Dark Mode --- */
-/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-school,
-    body:not(.theme-light):not(.theme-dark).theme-school {
-        --rs-bg: #0f172a; /* Matches Forced Dark Mode */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-school, .narrative-theme-school, [data-narrative-theme="school"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-school, .narrative-theme-school, [data-narrative-theme="school"]) {
+        color-scheme: dark;
+        --rs-bg: #0f172a;
+        --rs-bg-alt: #192033;
         --rs-surface: #1e293b;
+        --rs-card-bg: #1e293b;
         --rs-text: #e2e8f0;
+        --rs-text-muted: #abb2bd;
+        --rs-heading: #f8fafc;
         --rs-primary: #60a5fa;
+        --rs-on-primary: #080d17;
         --rs-secondary: #facc15;
         --rs-border: #334155;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #60a5fa;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-school, .narrative-theme-school, [data-narrative-theme="school"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-school, .narrative-theme-school, [data-narrative-theme="school"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-school, .narrative-theme-school, [data-narrative-theme="school"])::before,
+    body:is(.theme-school, .narrative-theme-school, [data-narrative-theme="school"])::after {
+        display: none !important;
     }
 }

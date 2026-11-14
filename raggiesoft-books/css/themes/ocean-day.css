@@ -1,70 +1,114 @@
 /**
  * ============================================================================
- * RAGGIESOFT THEME: OCEAN DAY
+ * STARDUST ENGINE NARRATIVE THEME: OCEAN DAY (`ocean-day.css`)
  * ============================================================================
- * Architecture & Purpose:
- * Defines a clean, aquatic-inspired theme centered around a monochromatic blue 
- * palette. It evokes a refreshing, maritime aesthetic while maintaining strict 
- * readability standards.
- * 
- * Key Design Elements:
- * - Tri-state architecture for seamless Light, Dark, and OS Auto transitions.
- * - Cool blue palette replacing the standard slate/zinc greys of the base app.
- * 
- * Maintenance Notes:
- * - Ensure proper chaining of selectors (`body.theme-light.theme-ocean-day`)
- *   to avoid specificity collisions with other themes.
- * - Keep background (`--rs-bg`) and surface (`--rs-surface`) colors distinct 
- *   to preserve UI depth.
+ *
+ * Architectural Overview:
+ * RAGGIESOFT THEME: OCEAN DAY Architecture & Purpose: Defines a clean, aquatic-inspired theme centered around a monochromatic blue palette. It evokes a refreshing, maritime aesthetic while maintaining strict readability standards. Key Design Elements: - Tri-state architecture for seamless Light, Dark, and OS Auto transitions. - Cool blue palette replacing the standard slate/zinc greys of the base app.
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#eff6ff` / `#dbeafe` (`color-scheme: light`)
+ *     * Body Prose (`#1e3a8a`): 8.49:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#4c6098`): 5.01:1 min (WCAG AA)
+ *     * Headings (`#162c68`): 10.80:1 min (WCAG AAA)
+ *     * Primary Accent (`#1d4ed8`): 5.49:1 min (`--rs-on-primary: #ffffff` = 6.70:1)
+ *     * Secondary Accent (`#1555e3`): 5.00:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#172554` / `#1e3a8a` (`color-scheme: dark`)
+ *     * Body Prose (`#eff6ff`): 9.52:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#b7c0d3`): 5.67:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 9.90:1 min (WCAG AAA)
+ *     * Primary Accent (`#88bbfb`): 5.20:1 min (`--rs-on-primary: #0d142e` = 9.12:1)
+ *     * Secondary Accent (`#8cb6fa`): 5.02:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Ocean Day */
-
-/* -------------------------------------------------------------------------
- * 1. Light Mode (Base Palette)
- * ------------------------------------------------------------------------- */
-/* Active by default or when the 'Light Mode' is explicitly requested */
-body.theme-ocean-day,
-body.theme-light.theme-ocean-day {
-    --rs-bg: #eff6ff; /* Pale, crisp blue mimicking shallow water */
-    --rs-surface: #dbeafe; /* Slightly deeper blue for raised UI cards */
-    --rs-text: #1e3a8a; /* Deep navy blue for excellent text contrast */
-    --rs-primary: #1d4ed8; /* Vibrant, saturated blue for primary buttons */
-    --rs-secondary: #2563eb; /* Lighter blue for hover states and secondary elements */
-    --rs-border: #bfdbfe; /* Soft blue border separating structural areas */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-ocean-day, .narrative-theme-ocean-day, [data-narrative-theme="ocean-day"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-ocean-day, .narrative-theme-ocean-day, [data-narrative-theme="ocean-day"]) {
+    color-scheme: light;
+    --rs-bg: #eff6ff;
+    --rs-bg-alt: #e7eff8;
+    --rs-surface: #dbeafe;
+    --rs-card-bg: #dbeafe;
+    --rs-text: #1e3a8a;
+    --rs-text-muted: #4c6098;
+    --rs-heading: #162c68;
+    --rs-primary: #1d4ed8;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #1555e3;
+    --rs-border: #bfdbfe;
+    --rs-asl: #03679e;
+    --rs-gesture: #4338ca;
+    accent-color: #1d4ed8;
 }
 
-/* -------------------------------------------------------------------------
- * 2. Dark Mode (Explicitly Forced)
- * ------------------------------------------------------------------------- */
-/* Takes precedence when the user explicitly forces the UI into Dark Mode */
-body.theme-dark.theme-ocean-day {
-    --rs-bg: #172554; /* Very dark midnight/abyssal blue base */
-    --rs-surface: #1e3a8a; /* Lifted navy surface to provide depth */
-    --rs-text: #eff6ff; /* Crisp pale blue text cutting through the darkness */
-    --rs-primary: #60a5fa; /* Bright, sky-blue accent for interaction elements */
-    --rs-secondary: #3b82f6; /* Saturated mid-blue for secondary actions */
-    --rs-border: #1e40af; /* Deep blue boundary division lines */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-ocean-day, .narrative-theme-ocean-day, [data-narrative-theme="ocean-day"]) {
+    color-scheme: dark;
+    --rs-bg: #172554;
+    --rs-bg-alt: #202e5b;
+    --rs-surface: #1e3a8a;
+    --rs-card-bg: #1e3a8a;
+    --rs-text: #eff6ff;
+    --rs-text-muted: #b7c0d3;
+    --rs-heading: #f8fafc;
+    --rs-primary: #88bbfb;
+    --rs-on-primary: #0d142e;
+    --rs-secondary: #8cb6fa;
+    --rs-border: #1e40af;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #88bbfb;
 }
 
-/* -------------------------------------------------------------------------
- * 3. OS Auto Dark Mode Support
- * ------------------------------------------------------------------------- */
-/* Subscribes to system-level color preferences when no manual override is present */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    /* 
-     * Applies the dark palette ONLY if the user hasn't explicitly chosen 'light' or 'dark',
-     * or if they are actively using the 'auto' setting.
-     */
-    body.theme-auto.theme-ocean-day,
-    body:not(.theme-light):not(.theme-dark).theme-ocean-day {
-        /* Duplicate of Explicit Dark Mode values to maintain visual consistency */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-ocean-day, .narrative-theme-ocean-day, [data-narrative-theme="ocean-day"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-ocean-day, .narrative-theme-ocean-day, [data-narrative-theme="ocean-day"]) {
+        color-scheme: dark;
         --rs-bg: #172554;
+        --rs-bg-alt: #202e5b;
         --rs-surface: #1e3a8a;
+        --rs-card-bg: #1e3a8a;
         --rs-text: #eff6ff;
-        --rs-primary: #60a5fa;
-        --rs-secondary: #3b82f6;
+        --rs-text-muted: #b7c0d3;
+        --rs-heading: #f8fafc;
+        --rs-primary: #88bbfb;
+        --rs-on-primary: #0d142e;
+        --rs-secondary: #8cb6fa;
         --rs-border: #1e40af;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #88bbfb;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-ocean-day, .narrative-theme-ocean-day, [data-narrative-theme="ocean-day"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-ocean-day, .narrative-theme-ocean-day, [data-narrative-theme="ocean-day"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-ocean-day, .narrative-theme-ocean-day, [data-narrative-theme="ocean-day"])::before,
+    body:is(.theme-ocean-day, .narrative-theme-ocean-day, [data-narrative-theme="ocean-day"])::after {
+        display: none !important;
     }
 }

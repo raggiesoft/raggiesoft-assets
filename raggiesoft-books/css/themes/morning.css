@@ -1,73 +1,114 @@
 /**
  * ============================================================================
- * RAGGIESOFT BOOKS THEME: MORNING
+ * STARDUST ENGINE NARRATIVE THEME: MORNING (`morning.css`)
  * ============================================================================
- * Architecture: CSS Theme Variable Definitions
- * Purpose: Defines the color palette for the "Morning" reading theme.
- *          This theme uses warm, sunrise-inspired oranges and yellows to 
- *          simulate the feeling of reading early in the day.
- * 
- * Future Maintenance Notes:
- * - This file strictly defines CSS variables (\`--rs-*\`) and should not 
- *   contain any structural CSS rules (like paddings or margins).
- * - Ensure that contrast ratios between \`--rs-text\` and \`--rs-bg\` / \`--rs-surface\` 
- *   meet WCAG AA standards for readability.
- * - The theme utilizes a 3-tier cascade: Light Mode (default/forced), 
- *   Dark Mode (forced), and Auto Mode (media query driven).
+ *
+ * Architectural Overview:
+ * RAGGIESOFT BOOKS THEME: MORNING Architecture: CSS Theme Variable Definitions Purpose: Defines the color palette for the "Morning" reading theme. This theme uses warm, sunrise-inspired oranges and yellows to simulate the feeling of reading early in the day. Future Maintenance Notes: - This file strictly defines CSS variables (\`--rs-*\`) and should not contain any structural CSS rules (like paddings or margins).
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#fff7ed` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#431407`): 13.79:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#815f54`): 5.00:1 min (WCAG AA)
+ *     * Headings (`#320f05`): 15.34:1 min (WCAG AAA)
+ *     * Primary Accent (`#b14309`): 5.03:1 min (`--rs-on-primary: #ffffff` = 5.71:1)
+ *     * Secondary Accent (`#806202`): 5.05:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#431407` / `#753019` (`color-scheme: dark`)
+ *     * Body Prose (`#f8fafc`): 9.15:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#c9bebc`): 5.28:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 9.15:1 min (WCAG AAA)
+ *     * Primary Accent (`#fdba74`): 5.68:1 min (`--rs-on-primary: #250b04` = 11.04:1)
+ *     * Secondary Accent (`#fba96f`): 5.02:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Morning */
-
-/**
- * ----------------------------------------------------------------------------
- * 1. LIGHT MODE (BASE)
- * ----------------------------------------------------------------------------
- * Applied when the theme is explicitly set to light mode, or as the default 
- * fallback. Features soft warm backgrounds and dark brown text.
- */
-body.theme-morning,
-body.theme-light.theme-morning {
-    --rs-bg: #fff7ed;       /* Very faint orange/yellow sunrise background */
-    --rs-surface: #ffffff;  /* Pure white for elevated cards/modals */
-    --rs-text: #431407;     /* Deep rich brown for high contrast text */
-    --rs-primary: #ea580c;  /* Vibrant sunrise orange for primary actions */
-    --rs-secondary: #fcd34d;/* Soft yellow for secondary UI elements */
-    --rs-border: #fed7aa;   /* Light orange for dividers and borders */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-morning, .narrative-theme-morning, [data-narrative-theme="morning"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-morning, .narrative-theme-morning, [data-narrative-theme="morning"]) {
+    color-scheme: light;
+    --rs-bg: #fff7ed;
+    --rs-bg-alt: #f4f0ea;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #431407;
+    --rs-text-muted: #815f54;
+    --rs-heading: #320f05;
+    --rs-primary: #b14309;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #806202;
+    --rs-border: #fed7aa;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #b14309;
 }
 
-/**
- * ----------------------------------------------------------------------------
- * 2. DARK MODE (EXPLICIT)
- * ----------------------------------------------------------------------------
- * Applied when the user explicitly forces the app into dark mode. 
- * Inverts the palette to deep browns with pale orange text.
- */
-body.theme-dark.theme-morning {
-    --rs-bg: #431407;       /* Very deep brown background */
-    --rs-surface: #7c2d12;  /* Lighter brown/rust for elevated surfaces */
-    --rs-text: #ffedd5;     /* Pale orange/off-white for readability */
-    --rs-primary: #fdba74;  /* Soft peach/orange for primary actions */
-    --rs-secondary: #f97316;/* Stronger orange for secondary actions */
-    --rs-border: #9a3412;   /* Rust/dark orange for subtle component borders */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-morning, .narrative-theme-morning, [data-narrative-theme="morning"]) {
+    color-scheme: dark;
+    --rs-bg: #431407;
+    --rs-bg-alt: #4b1d11;
+    --rs-surface: #753019;
+    --rs-card-bg: #753019;
+    --rs-text: #f8fafc;
+    --rs-text-muted: #c9bebc;
+    --rs-heading: #f8fafc;
+    --rs-primary: #fdba74;
+    --rs-on-primary: #250b04;
+    --rs-secondary: #fba96f;
+    --rs-border: #9a3412;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b6fd;
+    accent-color: #fdba74;
 }
 
-/**
- * ----------------------------------------------------------------------------
- * 3. OS AUTO DARK MODE
- * ----------------------------------------------------------------------------
- * Applied when the app is in "Auto" mode and the operating system is set 
- * to dark mode. Duplicates the dark mode variables.
- */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    /* Target explicit .theme-auto OR bodies with no light/dark class */
-    body.theme-auto.theme-morning,
-    body:not(.theme-light):not(.theme-dark).theme-morning {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-morning, .narrative-theme-morning, [data-narrative-theme="morning"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-morning, .narrative-theme-morning, [data-narrative-theme="morning"]) {
+        color-scheme: dark;
         --rs-bg: #431407;
-        --rs-surface: #7c2d12;
-        --rs-text: #ffedd5;
+        --rs-bg-alt: #4b1d11;
+        --rs-surface: #753019;
+        --rs-card-bg: #753019;
+        --rs-text: #f8fafc;
+        --rs-text-muted: #c9bebc;
+        --rs-heading: #f8fafc;
         --rs-primary: #fdba74;
-        --rs-secondary: #f97316;
+        --rs-on-primary: #250b04;
+        --rs-secondary: #fba96f;
         --rs-border: #9a3412;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b6fd;
+        accent-color: #fdba74;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-morning, .narrative-theme-morning, [data-narrative-theme="morning"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-morning, .narrative-theme-morning, [data-narrative-theme="morning"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-morning, .narrative-theme-morning, [data-narrative-theme="morning"])::before,
+    body:is(.theme-morning, .narrative-theme-morning, [data-narrative-theme="morning"])::after {
+        display: none !important;
     }
 }

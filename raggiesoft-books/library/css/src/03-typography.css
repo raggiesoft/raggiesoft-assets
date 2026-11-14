@@ -1,34 +1,31 @@
 /**
  * ============================================================================
  * COMPONENT: 03-typography.css (Stardust Engine Library - Core SRC)
- * CONTEXT: Global Typography & Narrative Styling
+ * CONTEXT: Global Typography, Semantic Dialogue & Zoë Cognitive Kernel Logs
  *
  * PURPOSE:
  * Defines the core typographic rules for narrative reading experiences. Controls
- * paragraph flow, drop caps, and semantic coloring for specialized dialogue types
- * (e.g., Augmentative and Alternative Communication devices, Sign Language).
+ * paragraph flow, drop caps, blockquotes, semantic coloring for specialized
+ * dialogue types (AAC devices, Sign Language, SMS), and IDE-grade syntax
+ * highlighting for Zoë Wren Brooks's cognitive kernel logs (`.zoe-kernel-log`).
  *
- * ARCHITECTURAL ROLE:
- * Included globally as the foundation for the `.book-page` and `.story-content`
- * layout wrappers. It forces text to map to the overarching `--rs-*` color tokens
- * established by the active theme.
- *
- * KEY COMPONENTS:
- * - Drop Caps: Uses `::first-letter` pseudo-elements on the first paragraph to
- *   create a traditional print-book aesthetic.
- * - Dialogue Semantics: Defines specific classes (`.aac-device`, `.asl-sign`,
- *   `.sms-message`) that authors use in their Markdown/HTML to visually
- *   distinguish non-verbal or electronic communication from standard speech.
- *
- * MAINTENANCE NOTES:
- * - The `text-indent` logic relies on `:first-of-type` to avoid indenting the
- *   opening paragraph. Ensure HTML structure doesn't place hidden elements before
- *   the first visible `<p>`.
+ * ARCHITECTURAL & WCAG 2.1 AA/AAA NOTES:
+ * - Headings inside `.book-page` resolve to `var(--rs-heading, var(--rs-text))`
+ *   so Light Mode and Dark Mode headings always maintain crisp AAA contrast.
+ * - Blockquotes avoid opacity-fading below AA thresholds and instead pair
+ *   `color: var(--rs-text)` with a `var(--rs-primary)` accent border.
+ * - `.zoe-kernel-log` switches cleanly between its Light IDE palette (in
+ *   `theme-light`, `theme-sepia`, and `theme-auto` / `theme-sepia-system` when
+ *   OS is Light) and its Dark IDE palette (in `theme-dark`, `theme-dark-sepia`,
+ *   `theme-night`, and `theme-auto` / `theme-sepia-system` when OS is Dark).
+ *   `body.theme-oceanview` is intentionally NOT hardcoded into the Dark IDE
+ *   selector because `theme-oceanview` is present on `<body>` in both Light
+ *   and Dark modes across `books.raggiesoft.com`.
  * ============================================================================
  */
 
-.book-page h1, .book-page h2, .book-page h3 {
-    color: var(--rs-text);
+.book-page h1, .book-page h2, .book-page h3, .book-page h4 {
+    color: var(--rs-heading, var(--rs-text));
     margin-top: 2rem;
     margin-bottom: 1rem;
     font-weight: 700;
@@ -94,10 +91,20 @@
 .book-page blockquote {
     border-left: 4px solid var(--rs-primary);
     margin: 1.5rem 0;
-    padding-left: 1rem;
+    padding: 0.35rem 0 0.35rem 1.1rem;
     font-style: italic;
     color: var(--rs-text);
-    opacity: 0.8;
+}
+
+/* Inline narrative links inside prose */
+.story-content a {
+    color: var(--rs-primary);
+    text-decoration-thickness: 1.5px;
+    text-underline-offset: 3px;
+}
+
+.story-content a:hover {
+    color: var(--rs-secondary);
 }
 
 /* AAC Device text formatting */
@@ -123,31 +130,33 @@ em.generic-sign, .generic-sign {
 em.sms-message, .sms-message {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     font-size: 0.9em;
-    background: rgba(128, 128, 128, 0.1);
-    padding: 0.2em 0.4em;
+    background: var(--rs-bg-alt, rgba(128, 128, 128, 0.12));
+    color: var(--rs-text);
+    border: 1px solid var(--rs-border);
+    padding: 0.18em 0.42em;
     border-radius: 6px;
     font-style: normal;
 }
 
 /* ==========================================================================
- * ZOË PATEL COGNITIVE KERNEL LOGS (.zoe-kernel-log & .zkl-* Tokens)
+ * ZOË WREN BROOKS COGNITIVE KERNEL LOGS (.zoe-kernel-log & .zkl-* Tokens)
  * ==========================================================================
  * Narrative & Accessibility Architecture:
- * Renders Zoë Patel's autistic internal C#/.NET application-log thought streams
+ * Renders Zoë's autistic internal C#/.NET application-log thought streams
  * (`ZOË.Systems.Logs.KernelLog`, `EmotionalStateLog`, `SystemSchedulerLog`,
  * `ActionLog`, `InternalStateLog`) with full IDE-grade syntax highlighting.
- * All token colors strictly pass WCAG 2.1 AA/AAA contrast ratios (>= 4.5:1 to 14:1)
- * across Light Mode, Sepia Mode, Dark Mode, and custom narrative themes.
+ * Every token passes WCAG 2.1 AA/AAA contrast (>= 4.5:1 to 14:1) across
+ * Light Mode, Sepia Mode, Dark Mode, and Dark-Sepia Mode.
  * ========================================================================== */
 
 .zoe-kernel-log {
     --zkl-bg: #f8fafc;
     --zkl-header-bg: #eef2f6;
     --zkl-border: #cbd5e1;
-    --zkl-row-border: rgba(148, 163, 184, 0.22);
-    --zkl-row-hover: rgba(15, 23, 42, 0.035);
+    --zkl-row-border: rgba(148, 163, 184, 0.24);
+    --zkl-row-hover: rgba(15, 23, 42, 0.04);
     --zkl-text: #0f172a;
-    --zkl-gutter: #64748b;
+    --zkl-gutter: #475569; /* 7.22:1 on #f8fafc and 6.66:1 on Sepia #f6efe0 */
     --zkl-ns: #475569;
     --zkl-stream: #0369a1;
     --zkl-punct: #475569;
@@ -157,14 +166,14 @@ em.sms-message, .sms-message {
     --zkl-exception: #b91c1c;
     --zkl-thread-fg: #1e40af;
     --zkl-thread-bg: rgba(30, 64, 175, 0.09);
-    --zkl-bracket: #15803d;
+    --zkl-bracket: #166534;
     --zkl-string: #9a3412;
     --zkl-label: #6d28d9;
-    --zkl-diagnostic: #0f766e;
+    --zkl-diagnostic: #115e59;
     --zkl-function: #7e22ce;
-    --zkl-identifier: #0e7490;
+    --zkl-identifier: #155e75;
     --zkl-constant: #be123c;
-    --zkl-number: #b45309;
+    --zkl-number: #92400e;
     --zkl-operator: #334155;
     --zkl-ts-fg: #334155;
     --zkl-ts-bg: #e2e8f0;
@@ -182,20 +191,35 @@ em.sms-message, .sms-message {
     text-indent: 0 !important;
 }
 
-/* Sepia Mode token overrides */
+/* Sepia Mode token overrides (Warm Archival Light IDE Palette) */
 body.theme-sepia .zoe-kernel-log {
     --zkl-bg: #f6efe0;
     --zkl-header-bg: #ebe1cc;
     --zkl-border: #d3c4a8;
+    --zkl-gutter: #4a3b2c;
+    --zkl-ns: #4a3b2c;
+    --zkl-punct: #4a3b2c;
     --zkl-ts-bg: #e6dac2;
     --zkl-ts-fg: #3e3122;
 }
 
-/* Dark Mode & Dark-Sepia token overrides (WCAG 2.1 AAA High-Contrast Dark IDE Palette) */
+@media (prefers-color-scheme: light) {
+    body.theme-sepia-system .zoe-kernel-log {
+        --zkl-bg: #f6efe0;
+        --zkl-header-bg: #ebe1cc;
+        --zkl-border: #d3c4a8;
+        --zkl-gutter: #4a3b2c;
+        --zkl-ns: #4a3b2c;
+        --zkl-punct: #4a3b2c;
+        --zkl-ts-bg: #e6dac2;
+        --zkl-ts-fg: #3e3122;
+    }
+}
+
+/* Explicit Dark Mode & Dark-Sepia token overrides (WCAG 2.1 AAA High-Contrast Dark IDE Palette) */
 body.theme-dark .zoe-kernel-log,
 body.theme-dark-sepia .zoe-kernel-log,
-body.theme-night .zoe-kernel-log,
-body.theme-oceanview .zoe-kernel-log {
+body.theme-night:not(.theme-light):not(.theme-sepia):not(.theme-auto):not(.theme-sepia-system) .zoe-kernel-log {
     --zkl-bg: #0b1120;
     --zkl-header-bg: #111827;
     --zkl-border: #1e293b;
@@ -226,6 +250,7 @@ body.theme-oceanview .zoe-kernel-log {
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.38);
 }
 
+/* System Dark Mode Auto-Detection (Excludes explicit Light and Sepia selections) */
 @media (prefers-color-scheme: dark) {
     body:not(.theme-light):not(.theme-sepia) .zoe-kernel-log {
         --zkl-bg: #0b1120;

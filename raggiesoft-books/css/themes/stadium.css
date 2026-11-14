@@ -1,38 +1,114 @@
 /**
  * ============================================================================
- * STARDUST THEME: STADIUM - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: STADIUM (`stadium.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines the "Stadium" reading theme for the Stardust Engine. 
- * Unlike standard themes, "Stadium" is an atmospheric, context-specific theme 
- * designed to evoke a "Friday Night Lights" aesthetic. 
- * 
- * Core Components:
- * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
- *    the main reader layout (reader.css).
- * 2. Forced Dark State: This theme intentionally lacks Light or OS-Auto variants. 
- *    It forces a dark mode experience (night sky) regardless of user preference 
- *    to preserve the specific atmospheric intent of the scene it accompanies.
- * 
- * Maintainability Notes:
- * - Do NOT add light mode overrides here. The artistic intent is to force 
- *   a dark, illuminated stadium feel.
- * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
- *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined.
+ *
+ * Architectural Overview:
+ * STARDUST THEME: STADIUM - ARCHITECTURAL OVERVIEW Description: This stylesheet defines the "Stadium" reading theme for the Stardust Engine. Unlike standard themes, "Stadium" is an atmospheric, context-specific theme designed to evoke a "Friday Night Lights" aesthetic. Core Components: 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by the main reader layout (reader.css).
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f4f6f9` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#0f172a`): 14.90:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#3b495e`): 7.62:1 min (WCAG AA)
+ *     * Headings (`#090f1d`): 15.97:1 min (WCAG AAA)
+ *     * Primary Accent (`#854d0e`): 5.72:1 min (`--rs-on-primary: #ffffff` = 6.85:1)
+ *     * Secondary Accent (`#991b1b`): 6.94:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#0f172a` / `#1e293b` (`color-scheme: dark`)
+ *     * Body Prose (`#f8fafc`): 13.98:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#b6c3d4`): 8.18:1 min (WCAG AA)
+ *     * Headings (`#ffffff`): 14.63:1 min (WCAG AAA)
+ *     * Primary Accent (`#facc15`): 9.55:1 min (`--rs-on-primary: #080d17` = 12.69:1)
+ *     * Secondary Accent (`#f87171`): 5.29:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Stadium */
-/* theme-stadium.css */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-stadium, .narrative-theme-stadium, [data-narrative-theme="stadium"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-stadium, .narrative-theme-stadium, [data-narrative-theme="stadium"]) {
+    color-scheme: light;
+    --rs-bg: #f4f6f9;
+    --rs-bg-alt: #e6ebf2;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #0f172a;
+    --rs-text-muted: #3b495e;
+    --rs-heading: #090f1d;
+    --rs-primary: #854d0e;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #991b1b;
+    --rs-border: #cbd5e1;
+    --rs-asl: #0368a0;
+    --rs-gesture: #4338ca;
+    accent-color: #854d0e;
+}
 
-/* --- Forced Atmospheric State --- */
-/* Stadium under Friday Night Lights is forced dark */
-body.theme-stadium {
-    --rs-bg: #1e293b; /* Dark night sky (slate) */
-    --rs-surface: #0f172a; /* Deepest slate for surface panels */
-    --rs-text: #f8fafc; /* High contrast white/pale slate text */
-    --rs-primary: #facc15; /* Bright stadium lights (yellow/gold) */
-    --rs-secondary: #ef4444; /* Team colors (red) */
-    --rs-border: #334155; /* Muted slate border */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-stadium, .narrative-theme-stadium, [data-narrative-theme="stadium"]) {
+    color-scheme: dark;
+    --rs-bg: #0f172a;
+    --rs-bg-alt: #152036;
+    --rs-surface: #1e293b;
+    --rs-card-bg: #1e293b;
+    --rs-text: #f8fafc;
+    --rs-text-muted: #b6c3d4;
+    --rs-heading: #ffffff;
+    --rs-primary: #facc15;
+    --rs-on-primary: #080d17;
+    --rs-secondary: #f87171;
+    --rs-border: #334155;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #facc15;
+}
+
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-stadium, .narrative-theme-stadium, [data-narrative-theme="stadium"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-stadium, .narrative-theme-stadium, [data-narrative-theme="stadium"]) {
+        color-scheme: dark;
+        --rs-bg: #0f172a;
+        --rs-bg-alt: #152036;
+        --rs-surface: #1e293b;
+        --rs-card-bg: #1e293b;
+        --rs-text: #f8fafc;
+        --rs-text-muted: #b6c3d4;
+        --rs-heading: #ffffff;
+        --rs-primary: #facc15;
+        --rs-on-primary: #080d17;
+        --rs-secondary: #f87171;
+        --rs-border: #334155;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #facc15;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-stadium, .narrative-theme-stadium, [data-narrative-theme="stadium"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-stadium, .narrative-theme-stadium, [data-narrative-theme="stadium"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-stadium, .narrative-theme-stadium, [data-narrative-theme="stadium"])::before,
+    body:is(.theme-stadium, .narrative-theme-stadium, [data-narrative-theme="stadium"])::after {
+        display: none !important;
+    }
 }

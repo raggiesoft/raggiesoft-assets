@@ -1,0 +1,131 @@
+/**
+ * ============================================================================
+ * STARDUST ENGINE NARRATIVE THEME: HOMEWARD (COASTAL VIRGINIA GOLDEN-HOUR SANCTUARY) (`homeward.css`)
+ * ============================================================================
+ *
+ * Architectural Overview:
+ * Created for *Katie & Nathaniel* (`books/katie/e002/c005/p001.md`), evoking the warmth and relief of returning home to Tidewater Virginia—sunlit porch parchment and Ocean View harbor teal in Light Mode, and warm dusk lantern amber over Chesapeake slate in Dark Mode.
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#fbf8f1` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#1f1a14`): 14.55:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#54483a`): 7.48:1 min (WCAG AA)
+ *     * Headings (`#0f4c5c`): 8.01:1 min (WCAG AAA)
+ *     * Primary Accent (`#0f4c5c`): 8.01:1 min (`--rs-on-primary: #ffffff` = 9.51:1)
+ *     * Secondary Accent (`#854d0e`): 5.77:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#0e1418` / `#1c2830` (`color-scheme: dark`)
+ *     * Body Prose (`#f3efe6`): 13.11:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#bdb5a6`): 7.40:1 min (WCAG AA)
+ *     * Headings (`#fde68a`): 12.08:1 min (WCAG AAA)
+ *     * Primary Accent (`#f0b464`): 8.18:1 min (`--rs-on-primary: #080b0d` = 10.73:1)
+ *     * Secondary Accent (`#5eead4`): 10.17:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
+ * ============================================================================
+ */
+
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-homeward, .narrative-theme-homeward, [data-narrative-theme="homeward"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-homeward, .narrative-theme-homeward, [data-narrative-theme="homeward"]) {
+    color-scheme: light;
+    --rs-bg: #fbf8f1;
+    --rs-bg-alt: #f2ebdc;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #1f1a14;
+    --rs-text-muted: #54483a;
+    --rs-heading: #0f4c5c;
+    --rs-primary: #0f4c5c;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #854d0e;
+    --rs-border: #ddd1bc;
+    --rs-asl: #0369a0;
+    --rs-gesture: #4338ca;
+    accent-color: #0f4c5c;
+}
+
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-homeward, .narrative-theme-homeward, [data-narrative-theme="homeward"]) {
+    color-scheme: dark;
+    --rs-bg: #0e1418;
+    --rs-bg-alt: #151e24;
+    --rs-surface: #1c2830;
+    --rs-card-bg: #1c2830;
+    --rs-text: #f3efe6;
+    --rs-text-muted: #bdb5a6;
+    --rs-heading: #fde68a;
+    --rs-primary: #f0b464;
+    --rs-on-primary: #080b0d;
+    --rs-secondary: #5eead4;
+    --rs-border: #334754;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #f0b464;
+}
+
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-homeward, .narrative-theme-homeward, [data-narrative-theme="homeward"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-homeward, .narrative-theme-homeward, [data-narrative-theme="homeward"]) {
+        color-scheme: dark;
+        --rs-bg: #0e1418;
+        --rs-bg-alt: #151e24;
+        --rs-surface: #1c2830;
+        --rs-card-bg: #1c2830;
+        --rs-text: #f3efe6;
+        --rs-text-muted: #bdb5a6;
+        --rs-heading: #fde68a;
+        --rs-primary: #f0b464;
+        --rs-on-primary: #080b0d;
+        --rs-secondary: #5eead4;
+        --rs-border: #334754;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #f0b464;
+    }
+}
+
+/* Atmospheric Reading Pane Framing (Light & Sepia) */
+:is(body, body.theme-oceanview):is(.theme-homeward, .narrative-theme-homeward, [data-narrative-theme="homeward"]) #stardust-reading-pane,
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-homeward, .narrative-theme-homeward, [data-narrative-theme="homeward"]) #stardust-reading-pane {
+    box-shadow: inset 0 6px 30px rgba(15, 76, 92, 0.05);
+}
+
+/* Atmospheric Reading Pane Framing (Dark & System Auto Dark) */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-homeward, .narrative-theme-homeward, [data-narrative-theme="homeward"]) #stardust-reading-pane {
+    box-shadow: inset 0 8px 36px rgba(240, 180, 100, 0.07);
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-homeward, .narrative-theme-homeward, [data-narrative-theme="homeward"]) #stardust-reading-pane,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-homeward, .narrative-theme-homeward, [data-narrative-theme="homeward"]) #stardust-reading-pane {
+        box-shadow: inset 0 8px 36px rgba(240, 180, 100, 0.07);
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-homeward, .narrative-theme-homeward, [data-narrative-theme="homeward"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-homeward, .narrative-theme-homeward, [data-narrative-theme="homeward"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-homeward, .narrative-theme-homeward, [data-narrative-theme="homeward"])::before,
+    body:is(.theme-homeward, .narrative-theme-homeward, [data-narrative-theme="homeward"])::after {
+        display: none !important;
+    }
+}

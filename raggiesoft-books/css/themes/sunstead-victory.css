@@ -1,66 +1,114 @@
 /**
  * ============================================================================
- * STARDUST THEME: SUNSTEAD VICTORY - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: SUNSTEAD VICTORY (`sunstead-victory.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines the "Sunstead Victory" reading theme for the Stardust 
- * Engine. It utilizes warm golds, amber, and deep brown tones to evoke a 
- * feeling of triumph, dawn, or majestic warmth.
- * 
- * Core Components:
- * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
- *    the main reader layout (reader.css).
- * 2. Theme Cascade: Implements three specific states to handle user preferences 
- *    and OS-level settings:
- *    - Light Mode (Default/Base fallback - soft golden/cream backgrounds)
- *    - Forced Dark Mode (Deep amber/brown backgrounds with bright gold accents)
- *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
- * 
- * Maintainability Notes:
- * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
- *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
- *   state to prevent visual regressions during theme swapping.
- * - Always duplicate the Forced Dark Mode variables into the `@media` query 
- *   block to ensure visual consistency when OS Auto mode triggers.
+ *
+ * Architectural Overview:
+ * STARDUST THEME: SUNSTEAD VICTORY - ARCHITECTURAL OVERVIEW Description: This stylesheet defines the "Sunstead Victory" reading theme for the Stardust Engine. It utilizes warm golds, amber, and deep brown tones to evoke a feeling of triumph, dawn, or majestic warmth. Core Components: 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by the main reader layout (reader.css).
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#fffbeb` / `#fef3c7` (`color-scheme: light`)
+ *     * Body Prose (`#78350f`): 8.14:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#856048`): 5.01:1 min (WCAG AA)
+ *     * Headings (`#5a280b`): 10.81:1 min (WCAG AAA)
+ *     * Primary Accent (`#9d5604`): 5.00:1 min (`--rs-on-primary: #ffffff` = 5.58:1)
+ *     * Secondary Accent (`#905d06`): 5.02:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#451a03` / `#6f3718` (`color-scheme: dark`)
+ *     * Body Prose (`#f8fafc`): 8.98:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#c9c0bb`): 5.25:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 8.98:1 min (WCAG AAA)
+ *     * Primary Accent (`#fbbf24`): 5.63:1 min (`--rs-on-primary: #260e02` = 10.98:1)
+ *     * Secondary Accent (`#f7b037`): 5.02:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Sunstead Victory */
-
-/* --- 1. Light Mode (Base) --- */
-/* Acts as the default state and explicitly forced light mode */
-body.theme-sunstead-victory,
-body.theme-light.theme-sunstead-victory {
-    --rs-bg: #fffbeb; /* Very pale gold/cream */
-    --rs-surface: #fef3c7; /* Soft amber surface */
-    --rs-text: #78350f; /* Dark brown/amber text */
-    --rs-primary: #d97706; /* Strong gold/orange primary */
-    --rs-secondary: #f59e0b; /* Bright amber secondary */
-    --rs-border: #fde68a; /* Golden border */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-sunstead-victory, .narrative-theme-sunstead-victory, [data-narrative-theme="sunstead-victory"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-sunstead-victory, .narrative-theme-sunstead-victory, [data-narrative-theme="sunstead-victory"]) {
+    color-scheme: light;
+    --rs-bg: #fffbeb;
+    --rs-bg-alt: #f4f3e9;
+    --rs-surface: #fef3c7;
+    --rs-card-bg: #fef3c7;
+    --rs-text: #78350f;
+    --rs-text-muted: #856048;
+    --rs-heading: #5a280b;
+    --rs-primary: #9d5604;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #905d06;
+    --rs-border: #fde68a;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #9d5604;
 }
 
-/* --- 2. Dark Mode (Explicitly Forced) --- */
-/* Applied when the user manually toggles the reader to Dark Mode */
-body.theme-dark.theme-sunstead-victory {
-    --rs-bg: #451a03; /* Deep, dark warm brown */
-    --rs-surface: #78350f; /* Elevated amber surface */
-    --rs-text: #fffbeb; /* Pale gold text for readability */
-    --rs-primary: #fbbf24; /* Bright gold primary accent */
-    --rs-secondary: #f59e0b; /* Amber secondary */
-    --rs-border: #92400e; /* Mid-brown border */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-sunstead-victory, .narrative-theme-sunstead-victory, [data-narrative-theme="sunstead-victory"]) {
+    color-scheme: dark;
+    --rs-bg: #451a03;
+    --rs-bg-alt: #4c230d;
+    --rs-surface: #6f3718;
+    --rs-card-bg: #6f3718;
+    --rs-text: #f8fafc;
+    --rs-text-muted: #c9c0bb;
+    --rs-heading: #f8fafc;
+    --rs-primary: #fbbf24;
+    --rs-on-primary: #260e02;
+    --rs-secondary: #f7b037;
+    --rs-border: #84431c;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c6b8fd;
+    accent-color: #fbbf24;
 }
 
-/* --- 3. OS Auto Dark Mode --- */
-/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-sunstead-victory,
-    body:not(.theme-light):not(.theme-dark).theme-sunstead-victory {
-        --rs-bg: #451a03; /* Matches Forced Dark Mode */
-        --rs-surface: #78350f;
-        --rs-text: #fffbeb;
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-sunstead-victory, .narrative-theme-sunstead-victory, [data-narrative-theme="sunstead-victory"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-sunstead-victory, .narrative-theme-sunstead-victory, [data-narrative-theme="sunstead-victory"]) {
+        color-scheme: dark;
+        --rs-bg: #451a03;
+        --rs-bg-alt: #4c230d;
+        --rs-surface: #6f3718;
+        --rs-card-bg: #6f3718;
+        --rs-text: #f8fafc;
+        --rs-text-muted: #c9c0bb;
+        --rs-heading: #f8fafc;
         --rs-primary: #fbbf24;
-        --rs-secondary: #f59e0b;
-        --rs-border: #92400e;
+        --rs-on-primary: #260e02;
+        --rs-secondary: #f7b037;
+        --rs-border: #84431c;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c6b8fd;
+        accent-color: #fbbf24;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-sunstead-victory, .narrative-theme-sunstead-victory, [data-narrative-theme="sunstead-victory"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-sunstead-victory, .narrative-theme-sunstead-victory, [data-narrative-theme="sunstead-victory"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-sunstead-victory, .narrative-theme-sunstead-victory, [data-narrative-theme="sunstead-victory"])::before,
+    body:is(.theme-sunstead-victory, .narrative-theme-sunstead-victory, [data-narrative-theme="sunstead-victory"])::after {
+        display: none !important;
     }
 }

@@ -1,67 +1,114 @@
 /**
  * ============================================================================
- * RAGGIESOFT THEME: TECH
+ * STARDUST ENGINE NARRATIVE THEME: TECH (`tech.css`)
  * ============================================================================
- * Architecture & Purpose:
- * Defines a "Tech" or "Terminal" inspired theme, driven by high-contrast 
- * monochromatic greens. Designed to evoke a digital, programming, or matrix-like 
- * atmosphere within the application.
- * 
- * Key Design Elements:
- * - Tri-state architecture handling Light, Dark, and Auto mode inheritance.
- * - Deep terminal greens transitioning to stark neon greens for interactive elements.
- * 
- * Maintenance Notes:
- * - Maintain the formatting consistency (indentations) to match the original 
- *   authoring style.
- * - Primary and Secondary colors in Dark Mode swap luminance compared to Light Mode
- *   to ensure buttons "glow" against the dark background.
+ *
+ * Architectural Overview:
+ * RAGGIESOFT THEME: TECH Architecture & Purpose: Defines a "Tech" or "Terminal" inspired theme, driven by high-contrast monochromatic greens. Designed to evoke a digital, programming, or matrix-like atmosphere within the application. Key Design Elements: - Tri-state architecture handling Light, Dark, and Auto mode inheritance. - Deep terminal greens transitioning to stark neon greens for interactive elements.
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f0fdf4` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#14532d`): 8.08:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#4b6f59`): 5.01:1 min (WCAG AA)
+ *     * Headings (`#0f3e22`): 10.75:1 min (WCAG AAA)
+ *     * Primary Accent (`#107736`): 5.02:1 min (`--rs-on-primary: #ffffff` = 5.65:1)
+ *     * Secondary Accent (`#107735`): 5.02:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#052e16` / `#13502c` (`color-scheme: dark`)
+ *     * Body Prose (`#f8fafc`): 9.08:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#b9c5c0`): 5.34:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 9.08:1 min (WCAG AAA)
+ *     * Primary Accent (`#4ade80`): 5.45:1 min (`--rs-on-primary: #03190c` = 10.50:1)
+ *     * Secondary Accent (`#1dd962`): 5.04:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Tech */
-
-/* -------------------------------------------------------------------------
- * 1. Light Mode (Base Palette)
- * ------------------------------------------------------------------------- */
-/* Active by default or when explicitly forced by the user */
-body.theme-tech,
-body.theme-light.theme-tech {
-    --rs-bg: #f0fdf4; /* Very faint digital green tint for the base canvas */
-    --rs-surface: #ffffff; /* Stark white to isolate UI components */
-    --rs-text: #14532d; /* Extremely dark green for high-contrast legibility */
-    --rs-primary: #16a34a; /* Solid 'Tech' green for primary interactions */
-    --rs-secondary: #86efac; /* Pale green for secondary/muted elements */
-    --rs-border: #bbf7d0; /* Soft green structural division lines */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-tech, .narrative-theme-tech, [data-narrative-theme="tech"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-tech, .narrative-theme-tech, [data-narrative-theme="tech"]) {
+    color-scheme: light;
+    --rs-bg: #f0fdf4;
+    --rs-bg-alt: #e8f4f0;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #14532d;
+    --rs-text-muted: #4b6f59;
+    --rs-heading: #0f3e22;
+    --rs-primary: #107736;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #107735;
+    --rs-border: #bbf7d0;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #107736;
 }
 
-/* -------------------------------------------------------------------------
- * 2. Dark Mode (Explicitly Forced)
- * ------------------------------------------------------------------------- */
-/* Overrides base styling when `theme-dark` is applied to the body */
-body.theme-dark.theme-tech {
-    --rs-bg: #052e16; /* Deep, almost black 'terminal' green background */
-    --rs-surface: #14532d; /* Lifted dark green for floating panels/cards */
-    --rs-text: #f0fdf4; /* Crisp, pale green text mimicking terminal output */
-    --rs-primary: #4ade80; /* Bright, glowing neon green for primary actions */
-    --rs-secondary: #16a34a; /* Mid-tone green for secondary interactions */
-    --rs-border: #166534; /* Dark structural border lines */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-tech, .narrative-theme-tech, [data-narrative-theme="tech"]) {
+    color-scheme: dark;
+    --rs-bg: #052e16;
+    --rs-bg-alt: #0f361f;
+    --rs-surface: #13502c;
+    --rs-card-bg: #13502c;
+    --rs-text: #f8fafc;
+    --rs-text-muted: #b9c5c0;
+    --rs-heading: #f8fafc;
+    --rs-primary: #4ade80;
+    --rs-on-primary: #03190c;
+    --rs-secondary: #1dd962;
+    --rs-border: #166333;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c5b7fd;
+    accent-color: #4ade80;
 }
 
-/* -------------------------------------------------------------------------
- * 3. OS Auto Dark Mode Support
- * ------------------------------------------------------------------------- */
-/* Automatically applies the dark terminal aesthetic based on OS preferences */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    /* Triggers only if the user hasn't explicitly locked the theme to Light or Dark */
-    body.theme-auto.theme-tech,
-    body:not(.theme-light):not(.theme-dark).theme-tech {
-        /* Mirrored from Explicit Dark Mode palette */
-        --rs-bg: #052e16; /* Dark terminal green */
-        --rs-surface: #14532d;
-        --rs-text: #f0fdf4;
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-tech, .narrative-theme-tech, [data-narrative-theme="tech"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-tech, .narrative-theme-tech, [data-narrative-theme="tech"]) {
+        color-scheme: dark;
+        --rs-bg: #052e16;
+        --rs-bg-alt: #0f361f;
+        --rs-surface: #13502c;
+        --rs-card-bg: #13502c;
+        --rs-text: #f8fafc;
+        --rs-text-muted: #b9c5c0;
+        --rs-heading: #f8fafc;
         --rs-primary: #4ade80;
-        --rs-secondary: #16a34a;
-        --rs-border: #166534;
+        --rs-on-primary: #03190c;
+        --rs-secondary: #1dd962;
+        --rs-border: #166333;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c5b7fd;
+        accent-color: #4ade80;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-tech, .narrative-theme-tech, [data-narrative-theme="tech"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-tech, .narrative-theme-tech, [data-narrative-theme="tech"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-tech, .narrative-theme-tech, [data-narrative-theme="tech"])::before,
+    body:is(.theme-tech, .narrative-theme-tech, [data-narrative-theme="tech"])::after {
+        display: none !important;
     }
 }

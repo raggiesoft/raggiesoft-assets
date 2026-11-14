@@ -884,15 +884,35 @@ function initOceanViewReader() {
     if (btnDecrease) btnDecrease.addEventListener('click', () => applyFontSize(Math.max(currentFontSize - 0.1, 0.8), true));
     if (btnReset) btnReset.addEventListener('click', () => applyFontSize(1.15, true));
 
+    // Reserved base mode slugs that MUST NEVER be overwritten or collided with by a
+    // narrative YAML `theme:` slug (e.g., `theme: "dark"` in Luna & Leo must apply
+    // `narrative-theme-dark` + `data-narrative-theme="dark"` without forcing `body.theme-dark`!).
+    const RESERVED_MODE_SLUGS = new Set([
+        'auto', 'light', 'sepia', 'dark', 'dark-sepia', 'sepia-system',
+        'oceanview', 'raggiesoft-books', 'custom'
+    ]);
+
     // Core Theme Application Logic
-    // Strips old themes and applies the new base theme, then layers the custom narrative theme if enabled.
+    // Strips old themes, syncs root color-scheme, applies the base reader mode class,
+    // and layers the custom narrative theme cleanly without base-mode class collisions.
     function applyTheme(theme, customEnabled = true, persist = true) {
         currentTheme = theme || 'auto';
         currentCustomThemeEnabled = (customEnabled !== false);
         if (customThemeToggle) customThemeToggle.checked = currentCustomThemeEnabled;
-        const wizCustomTheme = document.getElementById('wizard-custom-theme-toggle');
-        if (wizCustomTheme) wizCustomTheme.checked = currentCustomThemeEnabled;
-        
+        const wizCustomThemeEl = document.getElementById('wizard-custom-theme-toggle');
+        if (wizCustomThemeEl) wizCustomThemeEl.checked = currentCustomThemeEnabled;
+        const wizThemeEl = document.getElementById('wizard-theme-select');
+        if (wizThemeEl) wizThemeEl.value = currentTheme;
+
+        // Sync native UA form controls, scrollbars, and system surfaces via root color-scheme
+        if (currentTheme === 'light' || currentTheme === 'sepia') {
+            document.documentElement.style.colorScheme = 'light';
+        } else if (currentTheme === 'dark' || currentTheme === 'dark-sepia') {
+            document.documentElement.style.colorScheme = 'dark';
+        } else {
+            document.documentElement.style.colorScheme = 'light dark';
+        }
+
         // Strip base themes and any previously active custom narrative theme
         const systemClassesToKeep = new Set(['theme-oceanview', 'theme-raggiesoft-books']);
         Array.from(document.body.classList).forEach(cls => {
@@ -905,29 +925,35 @@ function initOceanViewReader() {
         const narrativeTheme = customThemeMeta ? customThemeMeta.getAttribute('content') : null;
         const customThemeLink = document.getElementById('narrative-theme-css');
 
-        // ALWAYS apply the base theme class (e.g. theme-auto, theme-dark) as a fallback
+        // ALWAYS apply the base theme class (e.g. theme-auto, theme-light, theme-dark)
         document.body.classList.add(`theme-${currentTheme}`);
 
         // Re-apply custom narrative theme if author defined it AND user wants it
         if (currentCustomThemeEnabled && narrativeTheme && narrativeTheme.trim() !== '') {
+            const cleanSlug = narrativeTheme.trim();
             document.body.classList.add('theme-custom');
-            document.body.classList.add(`theme-${narrativeTheme}`);
+            document.body.classList.add(`narrative-theme-${cleanSlug}`);
+            document.body.dataset.narrativeTheme = cleanSlug;
+            if (!RESERVED_MODE_SLUGS.has(cleanSlug)) {
+                document.body.classList.add(`theme-${cleanSlug}`);
+            }
             if (customThemeLink) {
                 const rawHref = customThemeLink.getAttribute('href') || '';
                 if (rawHref) {
                     const baseHref = rawHref.split('?')[0];
-                    customThemeLink.setAttribute('href', baseHref + '?v=20261108a');
+                    customThemeLink.setAttribute('href', baseHref + '?v=20261114a');
                 }
                 customThemeLink.removeAttribute('disabled');
                 customThemeLink.disabled = false;
             }
         } else {
+            delete document.body.dataset.narrativeTheme;
             if (customThemeLink) {
                 customThemeLink.disabled = true;
                 customThemeLink.setAttribute('disabled', '');
             }
         }
-        
+
         if (themeSelect) themeSelect.value = currentTheme;
         if (persist) saveSettings();
     }
@@ -1217,7 +1243,7 @@ function initOceanViewReader() {
             if (meta) meta.remove();
             let link = document.getElementById('narrative-theme-css');
             if (link) link.remove();
-            applyTheme(themeSelect ? themeSelect.value : 'auto', customToggle ? customToggle.checked : true);
+            applyTheme(themeSelect ? themeSelect.value : 'auto', customThemeToggle ? customThemeToggle.checked : true, false);
         };
         
         if (btnCloseDevTester) btnCloseDevTester.addEventListener('click', revertTheme);
@@ -1229,18 +1255,27 @@ function initOceanViewReader() {
     const devThemeForceMode = document.getElementById('dev-theme-force-mode');
     
     if (devThemeApply && devThemeInput && devThemeForceMode) {
+        // Every narrative theme supports full Light, Dark, and System Auto modes
         devThemeInput.addEventListener('change', () => {
-            const selectedOption = devThemeInput.options[devThemeInput.selectedIndex];
-            // Disable mode switching for themes that enforce a single state (like 'Night' or 'Stadium')
-            if (selectedOption && selectedOption.dataset.supportsModes === 'false') {
-                devThemeForceMode.disabled = true;
-                devThemeForceMode.value = 'auto';
-                devThemeForceMode.title = "This theme has a fixed aesthetic and does not support toggling light/dark modes.";
-                devThemeForceMode.style.opacity = '0.5';
+            devThemeForceMode.disabled = false;
+            devThemeForceMode.title = "";
+            devThemeForceMode.style.opacity = '1';
+        });
+
+        const applyDevPreviewMode = () => {
+            const forced = devThemeForceMode.value;
+            if (forced === 'light') {
+                applyTheme('light', true, false);
+            } else if (forced === 'dark') {
+                applyTheme('dark', true, false);
             } else {
-                devThemeForceMode.disabled = false;
-                devThemeForceMode.title = "";
-                devThemeForceMode.style.opacity = '1';
+                applyTheme('auto', true, false);
+            }
+        };
+
+        devThemeForceMode.addEventListener('change', () => {
+            if (document.querySelector('meta[name="stardust-narrative-theme"]')) {
+                applyDevPreviewMode();
             }
         });
 
@@ -1255,7 +1290,7 @@ function initOceanViewReader() {
                 }
                 meta.setAttribute('content', themeName);
                 
-                // Inject the stylesheet dynamically
+                // Inject the stylesheet dynamically with cache-busted version string
                 let link = document.getElementById('narrative-theme-css');
                 if (!link) {
                     link = document.createElement('link');
@@ -1265,21 +1300,9 @@ function initOceanViewReader() {
                 }
                 let cdnUrl = '';
                 if (devTesterDialog) cdnUrl = devTesterDialog.getAttribute('data-cdn-url');
-                link.href = cdnUrl + '/raggiesoft-books/css/themes/' + themeName + '.css';
+                link.href = cdnUrl + '/raggiesoft-books/css/themes/' + themeName + '.css?v=20261114a';
                 
-                setTimeout(() => {
-                    applyTheme(themeSelect ? themeSelect.value : 'auto', customThemeToggle ? customThemeToggle.checked : true);
-                    
-                    if (devThemeForceMode.value === 'light') {
-                        document.body.classList.add('theme-light');
-                        document.body.classList.remove('theme-dark', 'theme-auto');
-                    } else if (devThemeForceMode.value === 'dark') {
-                        document.body.classList.add('theme-dark');
-                        document.body.classList.remove('theme-light', 'theme-auto');
-                    } else {
-                        document.body.classList.remove('theme-light', 'theme-dark');
-                    }
-                }, 50);
+                setTimeout(applyDevPreviewMode, 50);
             }
         });
     }
@@ -1350,11 +1373,12 @@ function initOceanViewReader() {
         }
     }
 
-    // Connects to the Cache API directly to purge stored books
+    // Connects to the Cache API directly to purge stored books across active cache versions
     async function removeBookFromOffline(slug) {
         try {
             console.log('Removing book from offline cache: ' + slug);
-            const cacheKeys = ['ova-dynamic-v4', 'ova-images-v4'];
+            const allKeys = await caches.keys();
+            const cacheKeys = allKeys.filter(k => k.startsWith('ova-dynamic-') || k.startsWith('ova-images-'));
             for (let cName of cacheKeys) {
                 const cache = await caches.open(cName);
                 const reqs = await cache.keys();
@@ -1462,7 +1486,7 @@ function initOceanViewReader() {
             toast.style.left = '50%';
             toast.style.transform = 'translateX(-50%)';
             toast.style.backgroundColor = 'var(--rs-primary)';
-            toast.style.color = '#fff';
+            toast.style.color = 'var(--rs-on-primary, #ffffff)';
             toast.style.padding = '0.5rem 1rem';
             toast.style.borderRadius = '30px';
             toast.style.fontWeight = '600';

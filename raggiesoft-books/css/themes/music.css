@@ -1,67 +1,114 @@
 /**
  * ============================================================================
- * RAGGIESOFT THEME: MUSIC
+ * STARDUST ENGINE NARRATIVE THEME: MUSIC (`music.css`)
  * ============================================================================
- * Architecture & Purpose:
- * This stylesheet defines the "Music" visual theme. It operates as a purely
- * color-driven theme, substituting the standard CSS custom properties (`--rs-*`)
- * with a creative, vibrant purple-based palette.
- * 
- * Key Design Elements:
- * - Dynamic theme switching: Handles explicit Light/Dark modes, as well as
- *   OS-level auto dark mode via media queries.
- * - Warm, creative purple tones mimicking stage lighting or creative software.
- * 
- * Maintenance Notes:
- * - Ensure specificity rules are maintained (`body.theme-light.theme-music`)
- *   so that explicit user overrides take precedence over OS auto-preferences.
- * - Both light and dark palettes must ensure sufficient contrast ratios for text.
+ *
+ * Architectural Overview:
+ * RAGGIESOFT THEME: MUSIC Architecture & Purpose: This stylesheet defines the "Music" visual theme. It operates as a purely color-driven theme, substituting the standard CSS custom properties (`--rs-*`) with a creative, vibrant purple-based palette. Key Design Elements: - Dynamic theme switching: Handles explicit Light/Dark modes, as well as OS-level auto dark mode via media queries.
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#faf5ff` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#2e1065`): 13.27:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#705c95`): 5.01:1 min (WCAG AA)
+ *     * Headings (`#220c4c`): 14.93:1 min (WCAG AAA)
+ *     * Primary Accent (`#7e22ce`): 6.08:1 min (`--rs-on-primary: #ffffff` = 6.98:1)
+ *     * Secondary Accent (`#891dfc`): 5.02:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#2e1065` / `#4c1d95` (`color-scheme: dark`)
+ *     * Body Prose (`#faf5ff`): 10.21:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#c5b9d7`): 5.89:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 10.47:1 min (WCAG AAA)
+ *     * Primary Accent (`#d8b4fe`): 6.20:1 min (`--rs-on-primary: #190938` = 10.44:1)
+ *     * Secondary Accent (`#ca9cf5`): 5.00:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Music */
-
-/* -------------------------------------------------------------------------
- * 1. Light Mode (Base Palette)
- * ------------------------------------------------------------------------- */
-/* Applies when no theme is specified, or when light mode is explicitly forced */
-body.theme-music,
-body.theme-light.theme-music {
-    --rs-bg: #faf5ff; /* Faint purple background representing a clean studio vibe */
-    --rs-surface: #ffffff; /* Stark white panels for readability */
-    --rs-text: #2e1065; /* Deep purple text for high contrast */
-    --rs-primary: #7e22ce; /* Vibrant purple for primary actions/buttons */
-    --rs-secondary: #d8b4fe; /* Softer purple for muted text/elements */
-    --rs-border: #e9d5ff; /* Gentle division line color */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-music, .narrative-theme-music, [data-narrative-theme="music"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-music, .narrative-theme-music, [data-narrative-theme="music"]) {
+    color-scheme: light;
+    --rs-bg: #faf5ff;
+    --rs-bg-alt: #f0eef8;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #2e1065;
+    --rs-text-muted: #705c95;
+    --rs-heading: #220c4c;
+    --rs-primary: #7e22ce;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #891dfc;
+    --rs-border: #e9d5ff;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #7e22ce;
 }
 
-/* -------------------------------------------------------------------------
- * 2. Dark Mode (Explicitly Forced)
- * ------------------------------------------------------------------------- */
-/* Applies only when the user manually toggles the interface to Dark Mode */
-body.theme-dark.theme-music {
-    --rs-bg: #2e1065; /* Dark purple base resembling back-stage darkness */
-    --rs-surface: #4c1d95; /* Raised purple surface for active cards */
-    --rs-text: #faf5ff; /* Brilliant white-purple text */
-    --rs-primary: #d8b4fe; /* Bright neon-purple for interaction cues */
-    --rs-secondary: #9333ea; /* Saturated purple for secondary UI elements */
-    --rs-border: #5b21b6; /* Deep structural border color */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-music, .narrative-theme-music, [data-narrative-theme="music"]) {
+    color-scheme: dark;
+    --rs-bg: #2e1065;
+    --rs-bg-alt: #361a6b;
+    --rs-surface: #4c1d95;
+    --rs-card-bg: #4c1d95;
+    --rs-text: #faf5ff;
+    --rs-text-muted: #c5b9d7;
+    --rs-heading: #f8fafc;
+    --rs-primary: #d8b4fe;
+    --rs-on-primary: #190938;
+    --rs-secondary: #ca9cf5;
+    --rs-border: #5b21b6;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #d8b4fe;
 }
 
-/* -------------------------------------------------------------------------
- * 3. OS Auto Dark Mode Support
- * ------------------------------------------------------------------------- */
-/* Evaluates system-level user preferences if no manual override is active */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    /* Applies when the user is explicitly set to "auto" OR hasn't made a choice */
-    body.theme-auto.theme-music,
-    body:not(.theme-light):not(.theme-dark).theme-music {
-        /* Mirrors the Explicit Dark Mode palette to prevent drift */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-music, .narrative-theme-music, [data-narrative-theme="music"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-music, .narrative-theme-music, [data-narrative-theme="music"]) {
+        color-scheme: dark;
         --rs-bg: #2e1065;
+        --rs-bg-alt: #361a6b;
         --rs-surface: #4c1d95;
+        --rs-card-bg: #4c1d95;
         --rs-text: #faf5ff;
+        --rs-text-muted: #c5b9d7;
+        --rs-heading: #f8fafc;
         --rs-primary: #d8b4fe;
-        --rs-secondary: #9333ea;
+        --rs-on-primary: #190938;
+        --rs-secondary: #ca9cf5;
         --rs-border: #5b21b6;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #d8b4fe;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-music, .narrative-theme-music, [data-narrative-theme="music"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-music, .narrative-theme-music, [data-narrative-theme="music"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-music, .narrative-theme-music, [data-narrative-theme="music"])::before,
+    body:is(.theme-music, .narrative-theme-music, [data-narrative-theme="music"])::after {
+        display: none !important;
     }
 }

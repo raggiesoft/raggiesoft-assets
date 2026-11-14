@@ -1,39 +1,114 @@
 /**
  * ============================================================================
- * STARDUST THEME: AFTERNOON - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: AFTERNOON (`afternoon.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines the "Afternoon" reading theme for the Stardust Engine. 
- * This is a specialized, rigid theme that explicitly overrides all layout 
- * frameworks to guarantee a unified warm, sunlit experience, regardless of 
- * user OS settings or local app toggles (i.e., it forces light mode).
- * 
- * Core Components:
- * 1. Omni-State Selector: The CSS targets `.theme-afternoon` along with 
- *    `.theme-light`, `.theme-dark`, and `.theme-auto` simultaneously. This 
- *    ensures the theme is strictly forced and cannot be accidentally overridden 
- *    by cascade rules into a dark mode.
- * 2. CSS Variable Mapping: Uses warm sand, gold, and soft brown tokens.
- * 
- * Maintainability Notes:
- * - Do NOT introduce dark mode variants to this file. It is intentionally 
- *   hardcoded to a single light state to evoke daytime.
+ *
+ * Architectural Overview:
+ * STARDUST THEME: AFTERNOON - ARCHITECTURAL OVERVIEW Description: This stylesheet defines the "Afternoon" reading theme for the Stardust Engine. This is a specialized, rigid theme that explicitly overrides all layout frameworks to guarantee a unified warm, sunlit experience, regardless of Core Components: 1. Omni-State Selector: The CSS targets `.theme-afternoon` along with `.theme-light`, `.theme-dark`, and `.theme-auto` simultaneously. This
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#fcf8eb` / `#f7ecd0` (`color-scheme: light`)
+ *     * Body Prose (`#231c12`): 14.28:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#52412b`): 8.28:1 min (WCAG AA)
+ *     * Headings (`#171109`): 15.88:1 min (WCAG AAA)
+ *     * Primary Accent (`#8c4f0a`): 5.50:1 min (`--rs-on-primary: #ffffff` = 6.49:1)
+ *     * Secondary Accent (`#6e3d09`): 7.62:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#18130c` / `#292015` (`color-scheme: dark`)
+ *     * Body Prose (`#f3ead8`): 13.40:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#c6b599`): 7.98:1 min (WCAG AA)
+ *     * Headings (`#fdf8ee`): 15.12:1 min (WCAG AAA)
+ *     * Primary Accent (`#f0b25c`): 8.56:1 min (`--rs-on-primary: #0d0a07` = 10.56:1)
+ *     * Secondary Accent (`#e59a46`): 6.89:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Afternoon */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-afternoon, .narrative-theme-afternoon, [data-narrative-theme="afternoon"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-afternoon, .narrative-theme-afternoon, [data-narrative-theme="afternoon"]) {
+    color-scheme: light;
+    --rs-bg: #fcf8eb;
+    --rs-bg-alt: #f4ecd4;
+    --rs-surface: #f7ecd0;
+    --rs-card-bg: #fffdf6;
+    --rs-text: #231c12;
+    --rs-text-muted: #52412b;
+    --rs-heading: #171109;
+    --rs-primary: #8c4f0a;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #6e3d09;
+    --rs-border: #dfd0a8;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #8c4f0a;
+}
 
-/* --- Forced Omni-State (Light) --- */
-/* Applies the afternoon palette regardless of the user's light/dark/auto selection */
-body.theme-afternoon,
-body.theme-light.theme-afternoon,
-body.theme-dark.theme-afternoon,
-body.theme-auto.theme-afternoon {
-    --rs-bg: #fcf8eb; /* Warm, pale sand background */
-    --rs-surface: #f7ecd0; /* Slightly darker sandy surface */
-    --rs-text: #2b2b2b; /* Dark charcoal text for readability */
-    --rs-primary: #d68f3a; /* Muted orange/gold accent */
-    --rs-secondary: #b5762d; /* Darker golden-brown secondary */
-    --rs-border: #e8dbb7; /* Soft tan border */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-afternoon, .narrative-theme-afternoon, [data-narrative-theme="afternoon"]) {
+    color-scheme: dark;
+    --rs-bg: #18130c;
+    --rs-bg-alt: #211a11;
+    --rs-surface: #292015;
+    --rs-card-bg: #292015;
+    --rs-text: #f3ead8;
+    --rs-text-muted: #c6b599;
+    --rs-heading: #fdf8ee;
+    --rs-primary: #f0b25c;
+    --rs-on-primary: #0d0a07;
+    --rs-secondary: #e59a46;
+    --rs-border: #463724;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #f0b25c;
+}
+
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-afternoon, .narrative-theme-afternoon, [data-narrative-theme="afternoon"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-afternoon, .narrative-theme-afternoon, [data-narrative-theme="afternoon"]) {
+        color-scheme: dark;
+        --rs-bg: #18130c;
+        --rs-bg-alt: #211a11;
+        --rs-surface: #292015;
+        --rs-card-bg: #292015;
+        --rs-text: #f3ead8;
+        --rs-text-muted: #c6b599;
+        --rs-heading: #fdf8ee;
+        --rs-primary: #f0b25c;
+        --rs-on-primary: #0d0a07;
+        --rs-secondary: #e59a46;
+        --rs-border: #463724;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #f0b25c;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-afternoon, .narrative-theme-afternoon, [data-narrative-theme="afternoon"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-afternoon, .narrative-theme-afternoon, [data-narrative-theme="afternoon"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-afternoon, .narrative-theme-afternoon, [data-narrative-theme="afternoon"])::before,
+    body:is(.theme-afternoon, .narrative-theme-afternoon, [data-narrative-theme="afternoon"])::after {
+        display: none !important;
+    }
 }

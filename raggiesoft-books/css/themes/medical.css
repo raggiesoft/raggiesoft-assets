@@ -1,66 +1,114 @@
 /**
  * ============================================================================
- * STARDUST THEME: MEDICAL - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: MEDICAL (`medical.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines the "Medical" reading theme for the Stardust 
- * Engine. It uses sterile teals, cyans, and clinical whites to evoke a 
- * hospital, laboratory, or sci-fi medical bay environment.
- * 
- * Core Components:
- * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
- *    the main reader layout (reader.css).
- * 2. Theme Cascade: Implements three specific states to handle user preferences 
- *    and OS-level settings:
- *    - Light Mode (Default/Base fallback - clean white and pale teal)
- *    - Forced Dark Mode (Deep teal/cyan background with bright medical accents)
- *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
- * 
- * Maintainability Notes:
- * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
- *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
- *   state to prevent visual regressions during theme swapping.
- * - Always duplicate the Forced Dark Mode variables into the `@media` query 
- *   block to ensure visual consistency when OS Auto mode triggers.
+ *
+ * Architectural Overview:
+ * STARDUST THEME: MEDICAL - ARCHITECTURAL OVERVIEW Description: This stylesheet defines the "Medical" reading theme for the Stardust Engine. It uses sterile teals, cyans, and clinical whites to evoke a hospital, laboratory, or sci-fi medical bay environment. Core Components: 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by the main reader layout (reader.css).
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f0fdfa` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#134e4a`): 8.43:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#4b6d6a`): 5.06:1 min (WCAG AA)
+ *     * Headings (`#0e3a38`): 11.11:1 min (WCAG AAA)
+ *     * Primary Accent (`#0a746b`): 5.02:1 min (`--rs-on-primary: #ffffff` = 5.64:1)
+ *     * Secondary Accent (`#187368`): 5.06:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#042f2e` / `#114e4a` (`color-scheme: dark`)
+ *     * Body Prose (`#f8fafc`): 9.07:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#b9c5c6`): 5.36:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 9.07:1 min (WCAG AAA)
+ *     * Primary Accent (`#34d6c1`): 5.21:1 min (`--rs-on-primary: #021a19` = 9.91:1)
+ *     * Secondary Accent (`#12d3c1`): 5.02:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Medical */
-
-/* --- 1. Light Mode (Base) --- */
-/* Acts as the default state and explicitly forced light mode */
-body.theme-medical,
-body.theme-light.theme-medical {
-    --rs-bg: #f0fdfa; /* Clean, sterile light teal/cyan */
-    --rs-surface: #ffffff; /* Pure white hospital surfaces */
-    --rs-text: #134e4a; /* Very dark teal text */
-    --rs-primary: #0d9488; /* Clinical teal primary */
-    --rs-secondary: #2dd4bf; /* Bright cyan secondary */
-    --rs-border: #ccfbf1; /* Pale teal border */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-medical, .narrative-theme-medical, [data-narrative-theme="medical"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-medical, .narrative-theme-medical, [data-narrative-theme="medical"]) {
+    color-scheme: light;
+    --rs-bg: #f0fdfa;
+    --rs-bg-alt: #e8f4f4;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #134e4a;
+    --rs-text-muted: #4b6d6a;
+    --rs-heading: #0e3a38;
+    --rs-primary: #0a746b;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #187368;
+    --rs-border: #ccfbf1;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #0a746b;
 }
 
-/* --- 2. Dark Mode (Explicitly Forced) --- */
-/* Applied when the user manually toggles the reader to Dark Mode */
-body.theme-dark.theme-medical {
-    --rs-bg: #042f2e; /* Extremely dark, moody teal */
-    --rs-surface: #115e59; /* Elevated dark cyan surface */
-    --rs-text: #ccfbf1; /* Pale teal text */
-    --rs-primary: #2dd4bf; /* Bright, glowing cyan primary */
-    --rs-secondary: #0d9488; /* Medical teal secondary */
-    --rs-border: #0f766e; /* Mid-dark teal border */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-medical, .narrative-theme-medical, [data-narrative-theme="medical"]) {
+    color-scheme: dark;
+    --rs-bg: #042f2e;
+    --rs-bg-alt: #0e3736;
+    --rs-surface: #114e4a;
+    --rs-card-bg: #114e4a;
+    --rs-text: #f8fafc;
+    --rs-text-muted: #b9c5c6;
+    --rs-heading: #f8fafc;
+    --rs-primary: #34d6c1;
+    --rs-on-primary: #021a19;
+    --rs-secondary: #12d3c1;
+    --rs-border: #15615c;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c5b7fd;
+    accent-color: #34d6c1;
 }
 
-/* --- 3. OS Auto Dark Mode --- */
-/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-medical,
-    body:not(.theme-light):not(.theme-dark).theme-medical {
-        --rs-bg: #042f2e; /* Matches Forced Dark Mode */
-        --rs-surface: #115e59;
-        --rs-text: #ccfbf1;
-        --rs-primary: #2dd4bf;
-        --rs-secondary: #0d9488;
-        --rs-border: #0f766e;
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-medical, .narrative-theme-medical, [data-narrative-theme="medical"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-medical, .narrative-theme-medical, [data-narrative-theme="medical"]) {
+        color-scheme: dark;
+        --rs-bg: #042f2e;
+        --rs-bg-alt: #0e3736;
+        --rs-surface: #114e4a;
+        --rs-card-bg: #114e4a;
+        --rs-text: #f8fafc;
+        --rs-text-muted: #b9c5c6;
+        --rs-heading: #f8fafc;
+        --rs-primary: #34d6c1;
+        --rs-on-primary: #021a19;
+        --rs-secondary: #12d3c1;
+        --rs-border: #15615c;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c5b7fd;
+        accent-color: #34d6c1;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-medical, .narrative-theme-medical, [data-narrative-theme="medical"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-medical, .narrative-theme-medical, [data-narrative-theme="medical"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-medical, .narrative-theme-medical, [data-narrative-theme="medical"])::before,
+    body:is(.theme-medical, .narrative-theme-medical, [data-narrative-theme="medical"])::after {
+        display: none !important;
     }
 }

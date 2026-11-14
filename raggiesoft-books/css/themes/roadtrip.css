@@ -1,66 +1,114 @@
 /**
  * ============================================================================
- * STARDUST THEME: ROADTRIP - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: ROADTRIP (`roadtrip.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines the "Roadtrip" reading theme for the Stardust 
- * Engine. It utilizes cool slate grays, highway sign blues, and greens to 
- * create a crisp, modern, and navigational reading environment.
- * 
- * Core Components:
- * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
- *    the main reader layout (reader.css).
- * 2. Theme Cascade: Implements three specific states to handle user preferences 
- *    and OS-level settings:
- *    - Light Mode (Default/Base fallback - bright daylight with high contrast)
- *    - Forced Dark Mode (Night driving aesthetic with slate and neon accents)
- *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
- * 
- * Maintainability Notes:
- * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
- *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
- *   state to prevent visual regressions during theme swapping.
- * - Always duplicate the Forced Dark Mode variables into the `@media` query 
- *   block to ensure visual consistency when OS Auto mode triggers.
+ *
+ * Architectural Overview:
+ * STARDUST THEME: ROADTRIP - ARCHITECTURAL OVERVIEW Description: This stylesheet defines the "Roadtrip" reading theme for the Stardust Engine. It utilizes cool slate grays, highway sign blues, and greens to create a crisp, modern, and navigational reading environment. Core Components: 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by the main reader layout (reader.css).
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f8fafc` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#1e293b`): 13.00:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#606874`): 5.01:1 min (WCAG AA)
+ *     * Headings (`#161f2c`): 14.74:1 min (WCAG AAA)
+ *     * Primary Accent (`#0b5de5`): 5.03:1 min (`--rs-on-primary: #ffffff` = 5.66:1)
+ *     * Secondary Accent (`#157739`): 5.00:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#0f172a` / `#1e293b` (`color-scheme: dark`)
+ *     * Body Prose (`#f8fafc`): 13.98:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#bbbfc5`): 7.92:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 13.98:1 min (WCAG AAA)
+ *     * Primary Accent (`#60a5fa`): 5.75:1 min (`--rs-on-primary: #080d17` = 7.65:1)
+ *     * Secondary Accent (`#4ade80`): 8.40:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Roadtrip */
-
-/* --- 1. Light Mode (Base) --- */
-/* Acts as the default state and explicitly forced light mode */
-body.theme-roadtrip,
-body.theme-light.theme-roadtrip {
-    --rs-bg: #f8fafc; /* Open road daylight (very light slate) */
-    --rs-surface: #ffffff; /* Pure white panels */
-    --rs-text: #1e293b; /* Dark slate text */
-    --rs-primary: #3b82f6; /* Highway sign blue */
-    --rs-secondary: #22c55e; /* Highway sign green */
-    --rs-border: #cbd5e1; /* Light slate border */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-roadtrip, .narrative-theme-roadtrip, [data-narrative-theme="roadtrip"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-roadtrip, .narrative-theme-roadtrip, [data-narrative-theme="roadtrip"]) {
+    color-scheme: light;
+    --rs-bg: #f8fafc;
+    --rs-bg-alt: #eef2f6;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #1e293b;
+    --rs-text-muted: #606874;
+    --rs-heading: #161f2c;
+    --rs-primary: #0b5de5;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #157739;
+    --rs-border: #cbd5e1;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #0b5de5;
 }
 
-/* --- 2. Dark Mode (Explicitly Forced) --- */
-/* Applied when the user manually toggles the reader to Dark Mode */
-body.theme-dark.theme-roadtrip {
-    --rs-bg: #0f172a; /* Night sky / dark slate */
-    --rs-surface: #1e293b; /* Elevated dark slate surface */
-    --rs-text: #f8fafc; /* Light slate text for readability */
-    --rs-primary: #60a5fa; /* Soft neon blue primary */
-    --rs-secondary: #4ade80; /* Soft neon green secondary */
-    --rs-border: #334155; /* Mid-slate border */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-roadtrip, .narrative-theme-roadtrip, [data-narrative-theme="roadtrip"]) {
+    color-scheme: dark;
+    --rs-bg: #0f172a;
+    --rs-bg-alt: #192033;
+    --rs-surface: #1e293b;
+    --rs-card-bg: #1e293b;
+    --rs-text: #f8fafc;
+    --rs-text-muted: #bbbfc5;
+    --rs-heading: #f8fafc;
+    --rs-primary: #60a5fa;
+    --rs-on-primary: #080d17;
+    --rs-secondary: #4ade80;
+    --rs-border: #334155;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #60a5fa;
 }
 
-/* --- 3. OS Auto Dark Mode --- */
-/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-roadtrip,
-    body:not(.theme-light):not(.theme-dark).theme-roadtrip {
-        --rs-bg: #0f172a; /* Matches Forced Dark Mode */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-roadtrip, .narrative-theme-roadtrip, [data-narrative-theme="roadtrip"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-roadtrip, .narrative-theme-roadtrip, [data-narrative-theme="roadtrip"]) {
+        color-scheme: dark;
+        --rs-bg: #0f172a;
+        --rs-bg-alt: #192033;
         --rs-surface: #1e293b;
+        --rs-card-bg: #1e293b;
         --rs-text: #f8fafc;
+        --rs-text-muted: #bbbfc5;
+        --rs-heading: #f8fafc;
         --rs-primary: #60a5fa;
+        --rs-on-primary: #080d17;
         --rs-secondary: #4ade80;
         --rs-border: #334155;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #60a5fa;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-roadtrip, .narrative-theme-roadtrip, [data-narrative-theme="roadtrip"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-roadtrip, .narrative-theme-roadtrip, [data-narrative-theme="roadtrip"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-roadtrip, .narrative-theme-roadtrip, [data-narrative-theme="roadtrip"])::before,
+    body:is(.theme-roadtrip, .narrative-theme-roadtrip, [data-narrative-theme="roadtrip"])::after {
+        display: none !important;
     }
 }

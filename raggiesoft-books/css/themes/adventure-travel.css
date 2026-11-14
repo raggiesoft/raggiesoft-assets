@@ -1,66 +1,114 @@
 /**
  * ============================================================================
- * STARDUST THEME: ADVENTURE TRAVEL - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: ADVENTURE TRAVEL (`adventure-travel.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines the "Adventure Travel" reading theme for the Stardust 
- * Engine. It utilizes sepia, leather, and dirt-brown tones to evoke a feeling 
- * of exploration, vintage maps, and worn travel journals.
- * 
- * Core Components:
- * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
- *    the main reader layout (reader.css).
- * 2. Theme Cascade: Implements three specific states to handle user preferences 
- *    and OS-level settings:
- *    - Light Mode (Default/Base fallback - warm parchment/sand backgrounds)
- *    - Forced Dark Mode (Deep espresso/leather backgrounds with tan accents)
- *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
- * 
- * Maintainability Notes:
- * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
- *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
- *   state to prevent visual regressions during theme swapping.
- * - Always duplicate the Forced Dark Mode variables into the `@media` query 
- *   block to ensure visual consistency when OS Auto mode triggers.
+ *
+ * Architectural Overview:
+ * STARDUST THEME: ADVENTURE TRAVEL - ARCHITECTURAL OVERVIEW Description: This stylesheet defines the "Adventure Travel" reading theme for the Stardust Engine. It utilizes sepia, leather, and dirt-brown tones to evoke a feeling of exploration, vintage maps, and worn travel journals. Core Components: 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by the main reader layout (reader.css).
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#fdf8f6` / `#f2ebe9` (`color-scheme: light`)
+ *     * Body Prose (`#4a3b32`): 9.09:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#6c625e`): 5.03:1 min (WCAG AA)
+ *     * Headings (`#382c26`): 11.46:1 min (WCAG AAA)
+ *     * Primary Accent (`#7c5e47`): 5.03:1 min (`--rs-on-primary: #ffffff` = 5.92:1)
+ *     * Secondary Accent (`#7f5d40`): 5.04:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#2e2118` / `#4a3b32` (`color-scheme: dark`)
+ *     * Body Prose (`#fdf8f6`): 10.16:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#c7c0bc`): 5.96:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 10.23:1 min (WCAG AAA)
+ *     * Primary Accent (`#ceb095`): 5.23:1 min (`--rs-on-primary: #19120d` = 9.06:1)
+ *     * Secondary Accent (`#c8ad95`): 5.03:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Adventure Travel */
-
-/* --- 1. Light Mode (Base) --- */
-/* Acts as the default state and explicitly forced light mode */
-body.theme-adventure-travel,
-body.theme-light.theme-adventure-travel {
-    --rs-bg: #fdf8f6; /* Pale parchment/sand */
-    --rs-surface: #f2ebe9; /* Slightly darker sand surface */
-    --rs-text: #4a3b32; /* Dark brown/leather text */
-    --rs-primary: #8b6a50; /* Muted saddle brown primary */
-    --rs-secondary: #b48c69; /* Lighter tan secondary */
-    --rs-border: #dfcec3; /* Warm gray/brown border */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-adventure-travel, .narrative-theme-adventure-travel, [data-narrative-theme="adventure-travel"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-adventure-travel, .narrative-theme-adventure-travel, [data-narrative-theme="adventure-travel"]) {
+    color-scheme: light;
+    --rs-bg: #fdf8f6;
+    --rs-bg-alt: #f2f0f1;
+    --rs-surface: #f2ebe9;
+    --rs-card-bg: #f2ebe9;
+    --rs-text: #4a3b32;
+    --rs-text-muted: #6c625e;
+    --rs-heading: #382c26;
+    --rs-primary: #7c5e47;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #7f5d40;
+    --rs-border: #dfcec3;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #7c5e47;
 }
 
-/* --- 2. Dark Mode (Explicitly Forced) --- */
-/* Applied when the user manually toggles the reader to Dark Mode */
-body.theme-dark.theme-adventure-travel {
-    --rs-bg: #2e2118; /* Deep espresso/dark leather */
-    --rs-surface: #4a3b32; /* Elevated brown surface */
-    --rs-text: #fdf8f6; /* Pale sand text */
-    --rs-primary: #c4a080; /* Bright tan primary accent */
-    --rs-secondary: #ab815d; /* Darker tan secondary */
-    --rs-border: #634c3a; /* Mid-brown border */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-adventure-travel, .narrative-theme-adventure-travel, [data-narrative-theme="adventure-travel"]) {
+    color-scheme: dark;
+    --rs-bg: #2e2118;
+    --rs-bg-alt: #362a21;
+    --rs-surface: #4a3b32;
+    --rs-card-bg: #4a3b32;
+    --rs-text: #fdf8f6;
+    --rs-text-muted: #c7c0bc;
+    --rs-heading: #f8fafc;
+    --rs-primary: #ceb095;
+    --rs-on-primary: #19120d;
+    --rs-secondary: #c8ad95;
+    --rs-border: #634c3a;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #ceb095;
 }
 
-/* --- 3. OS Auto Dark Mode --- */
-/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-adventure-travel,
-    body:not(.theme-light):not(.theme-dark).theme-adventure-travel {
-        --rs-bg: #2e2118; /* Matches Forced Dark Mode */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-adventure-travel, .narrative-theme-adventure-travel, [data-narrative-theme="adventure-travel"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-adventure-travel, .narrative-theme-adventure-travel, [data-narrative-theme="adventure-travel"]) {
+        color-scheme: dark;
+        --rs-bg: #2e2118;
+        --rs-bg-alt: #362a21;
         --rs-surface: #4a3b32;
+        --rs-card-bg: #4a3b32;
         --rs-text: #fdf8f6;
-        --rs-primary: #c4a080;
-        --rs-secondary: #ab815d;
+        --rs-text-muted: #c7c0bc;
+        --rs-heading: #f8fafc;
+        --rs-primary: #ceb095;
+        --rs-on-primary: #19120d;
+        --rs-secondary: #c8ad95;
         --rs-border: #634c3a;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #ceb095;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-adventure-travel, .narrative-theme-adventure-travel, [data-narrative-theme="adventure-travel"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-adventure-travel, .narrative-theme-adventure-travel, [data-narrative-theme="adventure-travel"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-adventure-travel, .narrative-theme-adventure-travel, [data-narrative-theme="adventure-travel"])::before,
+    body:is(.theme-adventure-travel, .narrative-theme-adventure-travel, [data-narrative-theme="adventure-travel"])::after {
+        display: none !important;
     }
 }

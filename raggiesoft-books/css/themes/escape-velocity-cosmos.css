@@ -1,0 +1,131 @@
+/**
+ * ============================================================================
+ * STARDUST ENGINE NARRATIVE THEME: ESCAPE VELOCITY COSMOS (ORBITAL ASTROMETRY & DEEP SPACE) (`escape-velocity-cosmos.css`)
+ * ============================================================================
+ *
+ * Architectural Overview:
+ * Created for Book 7 of *The Stardust Engine* (`books/stardust-engine/e007`), pairing star-chart ivory and orbital cobalt in Light Mode with deep-space obsidian, sapphire telemetry, and thruster gold in Dark Mode.
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f4f6fb` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#0f172a`): 14.82:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#3d4b66`): 7.27:1 min (WCAG AA)
+ *     * Headings (`#1e3a8a`): 8.60:1 min (WCAG AAA)
+ *     * Primary Accent (`#1d4ed8`): 5.56:1 min (`--rs-on-primary: #ffffff` = 6.70:1)
+ *     * Secondary Accent (`#92400e`): 5.89:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#060a14` / `#121c33` (`color-scheme: dark`)
+ *     * Body Prose (`#edf3ff`): 15.22:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#a8b8d8`): 8.48:1 min (WCAG AA)
+ *     * Headings (`#fde68a`): 13.60:1 min (WCAG AAA)
+ *     * Primary Accent (`#60a5fa`): 6.66:1 min (`--rs-on-primary: #03060b` = 7.98:1)
+ *     * Secondary Accent (`#fbbf24`): 10.15:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
+ * ============================================================================
+ */
+
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-escape-velocity-cosmos, .narrative-theme-escape-velocity-cosmos, [data-narrative-theme="escape-velocity-cosmos"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-escape-velocity-cosmos, .narrative-theme-escape-velocity-cosmos, [data-narrative-theme="escape-velocity-cosmos"]) {
+    color-scheme: light;
+    --rs-bg: #f4f6fb;
+    --rs-bg-alt: #e5eaf6;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #0f172a;
+    --rs-text-muted: #3d4b66;
+    --rs-heading: #1e3a8a;
+    --rs-primary: #1d4ed8;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #92400e;
+    --rs-border: #c6d1eb;
+    --rs-asl: #03689f;
+    --rs-gesture: #4338ca;
+    accent-color: #1d4ed8;
+}
+
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-escape-velocity-cosmos, .narrative-theme-escape-velocity-cosmos, [data-narrative-theme="escape-velocity-cosmos"]) {
+    color-scheme: dark;
+    --rs-bg: #060a14;
+    --rs-bg-alt: #0c1324;
+    --rs-surface: #121c33;
+    --rs-card-bg: #121c33;
+    --rs-text: #edf3ff;
+    --rs-text-muted: #a8b8d8;
+    --rs-heading: #fde68a;
+    --rs-primary: #60a5fa;
+    --rs-on-primary: #03060b;
+    --rs-secondary: #fbbf24;
+    --rs-border: #263961;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #60a5fa;
+}
+
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-escape-velocity-cosmos, .narrative-theme-escape-velocity-cosmos, [data-narrative-theme="escape-velocity-cosmos"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-escape-velocity-cosmos, .narrative-theme-escape-velocity-cosmos, [data-narrative-theme="escape-velocity-cosmos"]) {
+        color-scheme: dark;
+        --rs-bg: #060a14;
+        --rs-bg-alt: #0c1324;
+        --rs-surface: #121c33;
+        --rs-card-bg: #121c33;
+        --rs-text: #edf3ff;
+        --rs-text-muted: #a8b8d8;
+        --rs-heading: #fde68a;
+        --rs-primary: #60a5fa;
+        --rs-on-primary: #03060b;
+        --rs-secondary: #fbbf24;
+        --rs-border: #263961;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #60a5fa;
+    }
+}
+
+/* Atmospheric Reading Pane Framing (Light & Sepia) */
+:is(body, body.theme-oceanview):is(.theme-escape-velocity-cosmos, .narrative-theme-escape-velocity-cosmos, [data-narrative-theme="escape-velocity-cosmos"]) #stardust-reading-pane,
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-escape-velocity-cosmos, .narrative-theme-escape-velocity-cosmos, [data-narrative-theme="escape-velocity-cosmos"]) #stardust-reading-pane {
+    box-shadow: inset 0 8px 32px rgba(29, 78, 216, 0.06);
+}
+
+/* Atmospheric Reading Pane Framing (Dark & System Auto Dark) */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-escape-velocity-cosmos, .narrative-theme-escape-velocity-cosmos, [data-narrative-theme="escape-velocity-cosmos"]) #stardust-reading-pane {
+    box-shadow: inset 0 10px 42px rgba(96, 165, 250, 0.09);
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-escape-velocity-cosmos, .narrative-theme-escape-velocity-cosmos, [data-narrative-theme="escape-velocity-cosmos"]) #stardust-reading-pane,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-escape-velocity-cosmos, .narrative-theme-escape-velocity-cosmos, [data-narrative-theme="escape-velocity-cosmos"]) #stardust-reading-pane {
+        box-shadow: inset 0 10px 42px rgba(96, 165, 250, 0.09);
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-escape-velocity-cosmos, .narrative-theme-escape-velocity-cosmos, [data-narrative-theme="escape-velocity-cosmos"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-escape-velocity-cosmos, .narrative-theme-escape-velocity-cosmos, [data-narrative-theme="escape-velocity-cosmos"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-escape-velocity-cosmos, .narrative-theme-escape-velocity-cosmos, [data-narrative-theme="escape-velocity-cosmos"])::before,
+    body:is(.theme-escape-velocity-cosmos, .narrative-theme-escape-velocity-cosmos, [data-narrative-theme="escape-velocity-cosmos"])::after {
+        display: none !important;
+    }
+}

@@ -1,66 +1,114 @@
 /**
  * ============================================================================
- * STARDUST THEME: SUNSTEAD WINTER - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: SUNSTEAD WINTER (`sunstead-winter.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines the "Sunstead Winter" reading theme for the Stardust 
- * Engine. It utilizes icy blues, cyan, and deep navy tones to create a cold, 
- * crisp, and isolating reading environment.
- * 
- * Core Components:
- * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
- *    the main reader layout (reader.css).
- * 2. Theme Cascade: Implements three specific states to handle user preferences 
- *    and OS-level settings:
- *    - Light Mode (Default/Base fallback - pale icy blue backgrounds)
- *    - Forced Dark Mode (Deep ocean/navy backgrounds with cyan accents)
- *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
- * 
- * Maintainability Notes:
- * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
- *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
- *   state to prevent visual regressions during theme swapping.
- * - Always duplicate the Forced Dark Mode variables into the `@media` query 
- *   block to ensure visual consistency when OS Auto mode triggers.
+ *
+ * Architectural Overview:
+ * STARDUST THEME: SUNSTEAD WINTER - ARCHITECTURAL OVERVIEW Description: This stylesheet defines the "Sunstead Winter" reading theme for the Stardust Engine. It utilizes icy blues, cyan, and deep navy tones to create a cold, crisp, and isolating reading environment. Core Components: 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by the main reader layout (reader.css).
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f0f9ff` / `#e0f2fe` (`color-scheme: light`)
+ *     * Body Prose (`#082f49`): 12.10:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#4f697b`): 5.03:1 min (WCAG AA)
+ *     * Headings (`#062337`): 14.04:1 min (WCAG AAA)
+ *     * Primary Accent (`#0369a1`): 5.17:1 min (`--rs-on-primary: #ffffff` = 5.93:1)
+ *     * Secondary Accent (`#026ba2`): 5.05:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#082f49` / `#0c4a6e` (`color-scheme: dark`)
+ *     * Body Prose (`#f8fafc`): 9.04:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#bac5cd`): 5.38:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 9.04:1 min (WCAG AAA)
+ *     * Primary Accent (`#64ccfa`): 5.21:1 min (`--rs-on-primary: #041a28` = 9.77:1)
+ *     * Secondary Accent (`#62c8f6`): 5.00:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Sunstead Winter */
-
-/* --- 1. Light Mode (Base) --- */
-/* Acts as the default state and explicitly forced light mode */
-body.theme-sunstead-winter,
-body.theme-light.theme-sunstead-winter {
-    --rs-bg: #f0f9ff; /* Extremely pale icy blue */
-    --rs-surface: #e0f2fe; /* Light frost surface */
-    --rs-text: #082f49; /* Deep navy text for stark contrast */
-    --rs-primary: #0369a1; /* Mid-tone blue primary accent */
-    --rs-secondary: #0284c7; /* Brighter blue secondary */
-    --rs-border: #bae6fd; /* Frosty blue border */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-sunstead-winter, .narrative-theme-sunstead-winter, [data-narrative-theme="sunstead-winter"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-sunstead-winter, .narrative-theme-sunstead-winter, [data-narrative-theme="sunstead-winter"]) {
+    color-scheme: light;
+    --rs-bg: #f0f9ff;
+    --rs-bg-alt: #e8f1f8;
+    --rs-surface: #e0f2fe;
+    --rs-card-bg: #e0f2fe;
+    --rs-text: #082f49;
+    --rs-text-muted: #4f697b;
+    --rs-heading: #062337;
+    --rs-primary: #0369a1;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #026ba2;
+    --rs-border: #bae6fd;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #0369a1;
 }
 
-/* --- 2. Dark Mode (Explicitly Forced) --- */
-/* Applied when the user manually toggles the reader to Dark Mode */
-body.theme-dark.theme-sunstead-winter {
-    --rs-bg: #082f49; /* Deep ocean navy background */
-    --rs-surface: #0c4a6e; /* Elevated dark blue surface */
-    --rs-text: #f0f9ff; /* Pale ice text */
-    --rs-primary: #38bdf8; /* Bright cyan/ice primary accent */
-    --rs-secondary: #0ea5e9; /* Mid-blue secondary */
-    --rs-border: #075985; /* Dark blue border */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-sunstead-winter, .narrative-theme-sunstead-winter, [data-narrative-theme="sunstead-winter"]) {
+    color-scheme: dark;
+    --rs-bg: #082f49;
+    --rs-bg-alt: #123750;
+    --rs-surface: #0c4a6e;
+    --rs-card-bg: #0c4a6e;
+    --rs-text: #f8fafc;
+    --rs-text-muted: #bac5cd;
+    --rs-heading: #f8fafc;
+    --rs-primary: #64ccfa;
+    --rs-on-primary: #041a28;
+    --rs-secondary: #62c8f6;
+    --rs-border: #075985;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c5b7fd;
+    accent-color: #64ccfa;
 }
 
-/* --- 3. OS Auto Dark Mode --- */
-/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-sunstead-winter,
-    body:not(.theme-light):not(.theme-dark).theme-sunstead-winter {
-        --rs-bg: #082f49; /* Matches Forced Dark Mode */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-sunstead-winter, .narrative-theme-sunstead-winter, [data-narrative-theme="sunstead-winter"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-sunstead-winter, .narrative-theme-sunstead-winter, [data-narrative-theme="sunstead-winter"]) {
+        color-scheme: dark;
+        --rs-bg: #082f49;
+        --rs-bg-alt: #123750;
         --rs-surface: #0c4a6e;
-        --rs-text: #f0f9ff;
-        --rs-primary: #38bdf8;
-        --rs-secondary: #0ea5e9;
+        --rs-card-bg: #0c4a6e;
+        --rs-text: #f8fafc;
+        --rs-text-muted: #bac5cd;
+        --rs-heading: #f8fafc;
+        --rs-primary: #64ccfa;
+        --rs-on-primary: #041a28;
+        --rs-secondary: #62c8f6;
         --rs-border: #075985;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c5b7fd;
+        accent-color: #64ccfa;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-sunstead-winter, .narrative-theme-sunstead-winter, [data-narrative-theme="sunstead-winter"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-sunstead-winter, .narrative-theme-sunstead-winter, [data-narrative-theme="sunstead-winter"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-sunstead-winter, .narrative-theme-sunstead-winter, [data-narrative-theme="sunstead-winter"])::before,
+    body:is(.theme-sunstead-winter, .narrative-theme-sunstead-winter, [data-narrative-theme="sunstead-winter"])::after {
+        display: none !important;
     }
 }

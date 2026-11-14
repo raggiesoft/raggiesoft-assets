@@ -1,0 +1,131 @@
+/**
+ * ============================================================================
+ * STARDUST ENGINE NARRATIVE THEME: STARFIELD CALIBRATION (PRECISION ASTROMETRY & VERNIER BRASS) (`starfield-calibration.css`)
+ * ============================================================================
+ *
+ * Architectural Overview:
+ * Created for the *Starfield Calibration* era of *The Stardust Engine* (`books/stardust-engine/e007`), evoking quiet mathematical alignment—astrometry chart ivory, meridian indigo, and reticle cyan in Light Mode, and observatory midnight with vernier-brass gold in Dark Mode.
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f5f7fc` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#111827`): 14.88:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#3f4a63`): 7.43:1 min (WCAG AA)
+ *     * Headings (`#1e2952`): 11.79:1 min (WCAG AAA)
+ *     * Primary Accent (`#283c82`): 8.55:1 min (`--rs-on-primary: #ffffff` = 10.20:1)
+ *     * Secondary Accent (`#0368a0`): 5.04:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#070b16` / `#131c33` (`color-scheme: dark`)
+ *     * Body Prose (`#eaf0fc`): 14.79:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#a6b5d4`): 8.20:1 min (WCAG AA)
+ *     * Headings (`#bae6fd`): 12.75:1 min (WCAG AAA)
+ *     * Primary Accent (`#60a5fa`): 6.65:1 min (`--rs-on-primary: #04060c` = 7.97:1)
+ *     * Secondary Accent (`#fcd34d`): 11.73:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
+ * ============================================================================
+ */
+
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-starfield-calibration, .narrative-theme-starfield-calibration, [data-narrative-theme="starfield-calibration"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-starfield-calibration, .narrative-theme-starfield-calibration, [data-narrative-theme="starfield-calibration"]) {
+    color-scheme: light;
+    --rs-bg: #f5f7fc;
+    --rs-bg-alt: #e7ebf6;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #111827;
+    --rs-text-muted: #3f4a63;
+    --rs-heading: #1e2952;
+    --rs-primary: #283c82;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #0368a0;
+    --rs-border: #c8d0e6;
+    --rs-asl: #0368a0;
+    --rs-gesture: #4338ca;
+    accent-color: #283c82;
+}
+
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-starfield-calibration, .narrative-theme-starfield-calibration, [data-narrative-theme="starfield-calibration"]) {
+    color-scheme: dark;
+    --rs-bg: #070b16;
+    --rs-bg-alt: #0d1324;
+    --rs-surface: #131c33;
+    --rs-card-bg: #131c33;
+    --rs-text: #eaf0fc;
+    --rs-text-muted: #a6b5d4;
+    --rs-heading: #bae6fd;
+    --rs-primary: #60a5fa;
+    --rs-on-primary: #04060c;
+    --rs-secondary: #fcd34d;
+    --rs-border: #283961;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #60a5fa;
+}
+
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-starfield-calibration, .narrative-theme-starfield-calibration, [data-narrative-theme="starfield-calibration"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-starfield-calibration, .narrative-theme-starfield-calibration, [data-narrative-theme="starfield-calibration"]) {
+        color-scheme: dark;
+        --rs-bg: #070b16;
+        --rs-bg-alt: #0d1324;
+        --rs-surface: #131c33;
+        --rs-card-bg: #131c33;
+        --rs-text: #eaf0fc;
+        --rs-text-muted: #a6b5d4;
+        --rs-heading: #bae6fd;
+        --rs-primary: #60a5fa;
+        --rs-on-primary: #04060c;
+        --rs-secondary: #fcd34d;
+        --rs-border: #283961;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #60a5fa;
+    }
+}
+
+/* Atmospheric Reading Pane Framing (Light & Sepia) */
+:is(body, body.theme-oceanview):is(.theme-starfield-calibration, .narrative-theme-starfield-calibration, [data-narrative-theme="starfield-calibration"]) #stardust-reading-pane,
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-starfield-calibration, .narrative-theme-starfield-calibration, [data-narrative-theme="starfield-calibration"]) #stardust-reading-pane {
+    box-shadow: inset 0 6px 28px rgba(40, 60, 130, 0.05);
+}
+
+/* Atmospheric Reading Pane Framing (Dark & System Auto Dark) */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-starfield-calibration, .narrative-theme-starfield-calibration, [data-narrative-theme="starfield-calibration"]) #stardust-reading-pane {
+    box-shadow: inset 0 8px 36px rgba(96, 165, 250, 0.08);
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-starfield-calibration, .narrative-theme-starfield-calibration, [data-narrative-theme="starfield-calibration"]) #stardust-reading-pane,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-starfield-calibration, .narrative-theme-starfield-calibration, [data-narrative-theme="starfield-calibration"]) #stardust-reading-pane {
+        box-shadow: inset 0 8px 36px rgba(96, 165, 250, 0.08);
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-starfield-calibration, .narrative-theme-starfield-calibration, [data-narrative-theme="starfield-calibration"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-starfield-calibration, .narrative-theme-starfield-calibration, [data-narrative-theme="starfield-calibration"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-starfield-calibration, .narrative-theme-starfield-calibration, [data-narrative-theme="starfield-calibration"])::before,
+    body:is(.theme-starfield-calibration, .narrative-theme-starfield-calibration, [data-narrative-theme="starfield-calibration"])::after {
+        display: none !important;
+    }
+}

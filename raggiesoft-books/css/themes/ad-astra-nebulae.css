@@ -1,170 +1,136 @@
 /**
  * ============================================================================
- * RAGGIESOFT BOOK READER THEME: AD ASTRA NEBULAE (`ad-astra-nebulae.css`)
+ * STARDUST ENGINE NARRATIVE THEME: AD ASTRA NEBULAE (`ad-astra-nebulae.css`)
  * ============================================================================
  *
  * Architectural Overview:
- * Base Series & Scene Theme for `/ad-astra` ("Escape Velocity: Ad Astra —
- * The Caelum-IV Chronicles") in the RaggieSoft Book Reader (`books.raggiesoft.com`).
+ * RAGGIESOFT BOOK READER THEME: AD ASTRA NEBULAE (`ad-astra-nebulae.css`) Architectural Overview: Base Series & Scene Theme for `/ad-astra` ("Escape Velocity: Ad Astra — The Caelum-IV Chronicles") in the RaggieSoft Book Reader (`books.raggiesoft.com`). This theme mirrors the exact color architecture of `nebulae.raggiesoft.com` (`/raggiesoft-assets/nebulae/css/nebulae.css`), extracted directly from the widescreen cargo-hatch landing painting (`ad-astra-landing.jpg`): - Deep Cosmic Void & Midnight Indigo (`#0b0914`, `#120e24`, `#161329`)
  *
- * This theme mirrors the exact color architecture of `nebulae.raggiesoft.com`
- * (`/raggiesoft-assets/nebulae/css/nebulae.css`), extracted directly from the
- * widescreen cargo-hatch landing painting (`ad-astra-landing.jpg`):
- *   - Deep Cosmic Void & Midnight Indigo (`#0b0914`, `#120e24`, `#161329`)
- *   - Vesperan Violet & Bioluminescent Purple (`#c49bff`, `#4b1d80`)
- *   - Solis-V Amber & Golden Ringlight (`#ffd166`, `#f4a261`, `#7a3e00`)
- *   - Telemetry Cyan & Subterranean Mycelial Glow (`#5ce1ff`, `#ff5d73`, `#38ef7d`)
- *   - Starlight Ivory (`#f8f5ff`) & Warm Parchment (`#f8f5f0`)
- *
- * Accessibility & Modern Web Guidance Compliance:
- *   - WCAG 2.1 AA / Section 508 contrast ratios verified across Light, Sepia,
- *     Dark, Dark-Sepia, and Auto (`prefers-color-scheme`) modes:
- *       * Dark Mode primary prose (`#f8f5ff` on `#0b0914`): ~18.1:1 (>= 4.5:1)
- *       * Dark Mode secondary prose (`#dcd3f2` on `#161329`): ~11.8:1 (>= 4.5:1)
- *       * Light Mode primary prose (`#1a1033` on `#f8f5f0`): ~15.6:1 (>= 4.5:1)
- *       * Light Mode accent links (`#4b1d80` on `#f8f5f0`): ~9.8:1 (>= 4.5:1)
- *   - Explicit `color-scheme` declarations (`dark` / `light`) per mode so native
- *     scrollbars, form controls, and dialogs match the active canvas.
- *   - `@media (forced-colors: active)` and `@media (prefers-reduced-motion: reduce)`
- *     safeguards.
- *   - Scoped drop-cap rule so `p::first-letter` never leaks into blockquotes or lists.
- *
- * License: MIT License (Copyright (c) 2026 Michael P. Ragsdale / RaggieSoft)
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f8f5f0` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#1a1033`): 14.92:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#433566`): 8.97:1 min (WCAG AA)
+ *     * Headings (`#2d124d`): 13.32:1 min (WCAG AAA)
+ *     * Primary Accent (`#4b1d80`): 9.73:1 min (`--rs-on-primary: #ffffff` = 11.75:1)
+ *     * Secondary Accent (`#7a3e00`): 6.91:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#0b0914` / `#161329` (`color-scheme: dark`)
+ *     * Body Prose (`#f8f5ff`): 16.82:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#dcd3f2`): 12.63:1 min (WCAG AA)
+ *     * Headings (`#ffd166`): 12.56:1 min (WCAG AAA)
+ *     * Primary Accent (`#ffd166`): 12.56:1 min (`--rs-on-primary: #06050b` = 14.08:1)
+ *     * Secondary Accent (`#c49bff`): 8.18:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&family=Titillium+Web:ital,wght@0,400;0,600;0,700;1,400&family=JetBrains+Mono:wght@400;600&display=swap');
 
-/* ============================================================================
-   1. LIGHT & SEPIA MODES (Warm Starlight Parchment — High-Contrast Daylight)
-   ============================================================================ */
-body,
-body.theme-light,
-body.theme-sepia {
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]) {
     color-scheme: light;
-    --rs-bg: #f8f5f0 !important;
-    --rs-bg-alt: #efe9df !important;
-    --rs-surface: #ffffff !important;
-    --rs-card-bg: #ffffff !important;
-    --rs-text: #1a1033 !important;
-    --rs-text-muted: #433566 !important;
-    --rs-heading: #2d124d !important;
-    --rs-primary: #4b1d80 !important;
-    --rs-accent: #7a3e00 !important;
-    --rs-border: #c5b4e3 !important;
+    --rs-bg: #f8f5f0;
+    --rs-bg-alt: #efe9df;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #1a1033;
+    --rs-text-muted: #433566;
+    --rs-heading: #2d124d;
+    --rs-primary: #4b1d80;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #7a3e00;
+    --rs-border: #c5b4e3;
+    --rs-asl: #03679f;
+    --rs-gesture: #4338ca;
+    accent-color: #4b1d80;
+    --rs-accent: #7a3e00;
     --nebulae-telemetry-accent: #005577;
     --nebulae-quote-bg: rgba(75, 29, 128, 0.05);
     --nebulae-quote-border: #4b1d80;
     --nebulae-code-bg: #efe9df;
     --nebulae-code-text: #2d124d;
     --nebulae-glow-shadow: 0 10px 28px rgba(26, 16, 51, 0.08);
-    background-color: var(--rs-bg) !important;
-    color: var(--rs-text) !important;
 }
 
-/* ============================================================================
-   2. DARK & DARK-SEPIA MODES (Caelum-IV Cosmic Void & Vesperan Ringlight)
-   ============================================================================ */
-body.theme-dark,
-body.theme-dark-sepia {
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]) {
     color-scheme: dark;
-    --rs-bg: #0b0914 !important;
-    --rs-bg-alt: #120e24 !important;
-    --rs-surface: #161329 !important;
-    --rs-card-bg: #161329 !important;
-    --rs-text: #f8f5ff !important;
-    --rs-text-muted: #dcd3f2 !important;
-    --rs-heading: #ffd166 !important;
-    --rs-primary: #ffd166 !important;
-    --rs-accent: #c49bff !important;
-    --rs-border: #493870 !important;
+    --rs-bg: #0b0914;
+    --rs-bg-alt: #120e24;
+    --rs-surface: #161329;
+    --rs-card-bg: #161329;
+    --rs-text: #f8f5ff;
+    --rs-text-muted: #dcd3f2;
+    --rs-heading: #ffd166;
+    --rs-primary: #ffd166;
+    --rs-on-primary: #06050b;
+    --rs-secondary: #c49bff;
+    --rs-border: #493870;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #ffd166;
+    --rs-accent: #c49bff;
     --nebulae-telemetry-accent: #5ce1ff;
     --nebulae-quote-bg: rgba(22, 19, 41, 0.88);
     --nebulae-quote-border: #ffd166;
     --nebulae-code-bg: #120e24;
     --nebulae-code-text: #5ce1ff;
     --nebulae-glow-shadow: 0 14px 36px rgba(0, 0, 0, 0.55), 0 0 24px rgba(107, 63, 160, 0.22);
-    background-color: var(--rs-bg) !important;
-    background-image:
-        radial-gradient(circle at 18% 10%, rgba(107, 63, 160, 0.20) 0%, transparent 45%),
-        radial-gradient(circle at 82% 16%, rgba(244, 162, 97, 0.12) 0%, transparent 40%),
-        linear-gradient(180deg, #0b0914 0%, #120e24 52%, #0b0914 100%) !important;
-    background-attachment: fixed;
-    color: var(--rs-text) !important;
 }
 
-/* System Dark Mode Auto-Detection (`theme-auto` and `theme-sepia-system`) */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto,
-    body.theme-sepia-system {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]) {
         color-scheme: dark;
-        --rs-bg: #0b0914 !important;
-        --rs-bg-alt: #120e24 !important;
-        --rs-surface: #161329 !important;
-        --rs-card-bg: #161329 !important;
-        --rs-text: #f8f5ff !important;
-        --rs-text-muted: #dcd3f2 !important;
-        --rs-heading: #ffd166 !important;
-        --rs-primary: #ffd166 !important;
-        --rs-accent: #c49bff !important;
-        --rs-border: #493870 !important;
+        --rs-bg: #0b0914;
+        --rs-bg-alt: #120e24;
+        --rs-surface: #161329;
+        --rs-card-bg: #161329;
+        --rs-text: #f8f5ff;
+        --rs-text-muted: #dcd3f2;
+        --rs-heading: #ffd166;
+        --rs-primary: #ffd166;
+        --rs-on-primary: #06050b;
+        --rs-secondary: #c49bff;
+        --rs-border: #493870;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #ffd166;
+        --rs-accent: #c49bff;
         --nebulae-telemetry-accent: #5ce1ff;
         --nebulae-quote-bg: rgba(22, 19, 41, 0.88);
         --nebulae-quote-border: #ffd166;
         --nebulae-code-bg: #120e24;
         --nebulae-code-text: #5ce1ff;
         --nebulae-glow-shadow: 0 14px 36px rgba(0, 0, 0, 0.55), 0 0 24px rgba(107, 63, 160, 0.22);
-        background-color: var(--rs-bg) !important;
-        background-image:
-            radial-gradient(circle at 18% 10%, rgba(107, 63, 160, 0.20) 0%, transparent 45%),
-            radial-gradient(circle at 82% 16%, rgba(244, 162, 97, 0.12) 0%, transparent 40%),
-            linear-gradient(180deg, #0b0914 0%, #120e24 52%, #0b0914 100%) !important;
-        background-attachment: fixed;
-        color: var(--rs-text) !important;
     }
 }
 
-/* ============================================================================
-   3. TYPOGRAPHY & HEADINGS (AUDIOWIDE DISPLAY + TITILLIUM WEB PROSE)
-   ============================================================================ */
-.story-content {
+/* Scoped Ad Astra Nebulae Typography, Telemetry Logs & Scene Divider */
+body:is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]) .story-content {
     font-family: var(--rs-font-family, 'Titillium Web', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif);
-    font-size: var(--rs-font-size, 1.18rem);
     line-height: var(--rs-line-height, 1.85);
     color: var(--rs-text);
 }
-
-.reader-series-header {
+body:is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]) .reader-series-header {
     font-family: 'Audiowide', system-ui, sans-serif;
     letter-spacing: 0.12em;
     text-transform: uppercase;
-    color: var(--rs-primary) !important;
+    color: var(--rs-primary);
 }
-
-.reader-part-header,
-.story-content h1,
-.story-content h2,
-.story-content h3 {
+body:is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]) .reader-part-header,
+body:is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]) .story-content h1,
+body:is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]) .story-content h2,
+body:is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]) .story-content h3 {
     font-family: 'Audiowide', system-ui, sans-serif;
-    color: var(--rs-heading) !important;
+    color: var(--rs-heading);
     letter-spacing: 0.03em;
     line-height: 1.3;
 }
-
-.story-content h2 {
-    margin-top: 2.5rem;
-    margin-bottom: 1.15rem;
-    padding-bottom: 0.55rem;
-    border-bottom: 1px solid var(--rs-border);
-    font-size: clamp(1.25rem, 2.5vw, 1.55rem);
-}
-
-.story-content p {
-    margin-bottom: 1.5rem;
-}
-
-/* First-paragraph drop cap scoped strictly to direct prose paragraphs */
-.story-content > p:first-of-type::first-letter {
+body:is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]) .story-content > p:first-of-type::first-letter {
     float: left;
     font-family: 'Audiowide', system-ui, sans-serif;
     font-size: 3.35rem;
@@ -174,17 +140,12 @@ body.theme-dark-sepia {
     color: var(--rs-primary);
     font-weight: 700;
 }
-
-/* ============================================================================
-   4. U.S.S. AETHELGARD TELEMETRY LOGS, BLOCKQUOTES & SCENE PLATES
-   ============================================================================ */
-.reader-chapter-plate {
-    border: 1px solid var(--rs-border) !important;
-    box-shadow: var(--nebulae-glow-shadow) !important;
-    background: var(--rs-surface) !important;
+body:is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]) .reader-chapter-plate {
+    border: 1px solid var(--rs-border);
+    box-shadow: var(--nebulae-glow-shadow);
+    background: var(--rs-surface);
 }
-
-.story-content blockquote {
+body:is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]) .story-content blockquote {
     border-left: 4px solid var(--nebulae-quote-border);
     background: var(--nebulae-quote-bg);
     padding: 1.25rem 1.5rem;
@@ -196,48 +157,23 @@ body.theme-dark-sepia {
     color: var(--rs-text);
     box-shadow: var(--nebulae-glow-shadow);
 }
-
-.story-content blockquote strong {
-    color: var(--rs-heading);
-    letter-spacing: 0.02em;
-}
-
-.story-content code,
-.story-content pre {
+body:is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]) .story-content code,
+body:is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]) .story-content pre {
     font-family: 'JetBrains Mono', ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
     background: var(--nebulae-code-bg);
     color: var(--nebulae-code-text);
     border: 1px solid var(--rs-border);
     border-radius: 6px;
 }
-
-.story-content code {
-    padding: 0.15rem 0.4rem;
-    font-size: 0.92em;
-}
-
-.story-content pre {
-    padding: 1.15rem 1.35rem;
-    margin: 1.75rem 0;
-}
-
-.story-content pre code {
-    border: none;
-    padding: 0;
-    background: transparent;
-}
-
-/* Scene Break Divider (`***`) */
-.story-content hr {
+body:is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]) .story-content hr {
     border: none;
     height: 1px;
-    background: linear-gradient(90deg, transparent, var(--rs-primary), var(--rs-accent), transparent);
+    background: linear-gradient(90deg, transparent, var(--rs-primary), var(--rs-secondary), transparent);
     margin: 3rem 0;
     position: relative;
     overflow: visible;
 }
-
-.story-content hr::after {
+body:is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]) .story-content hr::after {
     content: "✦ CAELUM-IV • 120 BPM ✦";
     position: absolute;
     top: 50%;
@@ -254,32 +190,29 @@ body.theme-dark-sepia {
     white-space: nowrap;
 }
 
-/* High-visibility keyboard focus rings */
-.story-content a:focus-visible,
-.reader-page a:focus-visible,
-.reader-page button:focus-visible {
-    outline: 3px solid var(--rs-primary) !important;
-    outline-offset: 3px !important;
-}
-
-/* Forced-Colors (Windows High Contrast) Assistive Mode */
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
 @media (forced-colors: active) {
-    body,
-    .story-content blockquote,
-    .reader-chapter-plate {
-        background-image: none !important;
+    body:is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"]) #stardust-reading-pane {
+        background: Canvas !important;
         box-shadow: none !important;
-        border-color: CanvasText !important;
+    }
+    body:is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"])::before,
+    body:is(.theme-ad-astra-nebulae, .narrative-theme-ad-astra-nebulae, [data-narrative-theme="ad-astra-nebulae"])::after {
+        display: none !important;
     }
 }
-
-/* Reduced Motion Preference */
-@media (prefers-reduced-motion: reduce) {
-    *,
-    *::before,
-    *::after {
-        animation-duration: 0.01ms !important;
-        transition-duration: 0.01ms !important;
-    }
-}
-

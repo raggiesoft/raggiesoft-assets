@@ -1,68 +1,114 @@
 /**
  * ============================================================================
- * RAGGIESOFT THEME: SPACE WONDER
+ * STARDUST ENGINE NARRATIVE THEME: SPACE WONDER (`space-wonder.css`)
  * ============================================================================
- * Architecture & Purpose:
- * Defines a vibrant, cosmic-inspired theme driven purely by CSS custom properties.
- * It utilizes deep purples and bright magenta/fuchsia tones to evoke a sense
- * of sci-fi wonder and celestial aesthetics.
- * 
- * Key Design Elements:
- * - Tri-state architecture: Light mode base, explicit Dark mode, and automatic OS Dark mode.
- * - Colors carefully chosen from standard fuchsia/purple color ramps.
- * 
- * Maintenance Notes:
- * - Ensure proper chaining of classes (`body.theme-dark.theme-space-wonder`) to
- *   prevent theme bleeds when users switch themes dynamically without full page reloads.
+ *
+ * Architectural Overview:
+ * RAGGIESOFT THEME: SPACE WONDER Architecture & Purpose: Defines a vibrant, cosmic-inspired theme driven purely by CSS custom properties. It utilizes deep purples and bright magenta/fuchsia tones to evoke a sense of sci-fi wonder and celestial aesthetics. Key Design Elements: - Tri-state architecture: Light mode base, explicit Dark mode, and automatic OS Dark mode. - Colors carefully chosen from standard fuchsia/purple color ramps.
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#fdf4ff` / `#fae8ff` (`color-scheme: light`)
+ *     * Body Prose (`#4a044e`): 12.73:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#845487`): 5.02:1 min (WCAG AA)
+ *     * Headings (`#38033a`): 14.53:1 min (WCAG AAA)
+ *     * Primary Accent (`#a921b9`): 5.01:1 min (`--rs-on-primary: #ffffff` = 5.83:1)
+ *     * Secondary Accent (`#ab11c3`): 5.01:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#120024` / `#2e1065` (`color-scheme: dark`)
+ *     * Body Prose (`#fdf4ff`): 14.19:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#c0b5c6`): 7.74:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 14.56:1 min (WCAG AAA)
+ *     * Primary Accent (`#e879f9`): 6.19:1 min (`--rs-on-primary: #0a0014` = 8.34:1)
+ *     * Secondary Accent (`#de5cf1`): 5.01:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Space Wonder */
-
-/* -------------------------------------------------------------------------
- * 1. Light Mode (Base Palette)
- * ------------------------------------------------------------------------- */
-/* Activated by default or when the user manually toggles 'Light Mode' */
-body.theme-space-wonder,
-body.theme-light.theme-space-wonder {
-    --rs-bg: #fdf4ff; /* Extremely pale fuchsia background, almost white */
-    --rs-surface: #fae8ff; /* Soft, raised fuchsia panel color */
-    --rs-text: #4a044e; /* Deep, dark purple for maximum text readability */
-    --rs-primary: #c026d3; /* Saturated magenta/fuchsia for buttons and primary actions */
-    --rs-secondary: #d946ef; /* Lighter magenta for hover states */
-    --rs-border: #f5d0fe; /* Very soft purple border for dividing structural elements */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-space-wonder, .narrative-theme-space-wonder, [data-narrative-theme="space-wonder"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-space-wonder, .narrative-theme-space-wonder, [data-narrative-theme="space-wonder"]) {
+    color-scheme: light;
+    --rs-bg: #fdf4ff;
+    --rs-bg-alt: #f2edf8;
+    --rs-surface: #fae8ff;
+    --rs-card-bg: #fae8ff;
+    --rs-text: #4a044e;
+    --rs-text-muted: #845487;
+    --rs-heading: #38033a;
+    --rs-primary: #a921b9;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #ab11c3;
+    --rs-border: #f5d0fe;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #a921b9;
 }
 
-/* -------------------------------------------------------------------------
- * 2. Dark Mode (Explicitly Forced)
- * ------------------------------------------------------------------------- */
-/* Overrides standard styling when `theme-dark` is applied to the body */
-body.theme-dark.theme-space-wonder {
-    --rs-bg: #120024; /* Absolute deep space purple/black base */
-    --rs-surface: #2e1065; /* Mid-tone purple surface to lift elements off the dark void */
-    --rs-text: #fdf4ff; /* Pale fuchsia text for stark contrast against dark backgrounds */
-    --rs-primary: #e879f9; /* Bright neon pink/fuchsia accent color */
-    --rs-secondary: #d946ef; /* Slightly darker pink for secondary interactions */
-    --rs-border: #4a044e; /* Deep purple boundary lines */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-space-wonder, .narrative-theme-space-wonder, [data-narrative-theme="space-wonder"]) {
+    color-scheme: dark;
+    --rs-bg: #120024;
+    --rs-bg-alt: #1b0a2d;
+    --rs-surface: #2e1065;
+    --rs-card-bg: #2e1065;
+    --rs-text: #fdf4ff;
+    --rs-text-muted: #c0b5c6;
+    --rs-heading: #f8fafc;
+    --rs-primary: #e879f9;
+    --rs-on-primary: #0a0014;
+    --rs-secondary: #de5cf1;
+    --rs-border: #4a044e;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #e879f9;
 }
 
-/* -------------------------------------------------------------------------
- * 3. OS Auto Dark Mode Support
- * ------------------------------------------------------------------------- */
-/* Hooks into the user's operating system preferences for automatic switching */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    /* 
-     * Applies the dark palette ONLY if the user hasn't explicitly chosen 'light' or 'dark',
-     * or if they are actively using the 'auto' setting.
-     */
-    body.theme-auto.theme-space-wonder,
-    body:not(.theme-light):not(.theme-dark).theme-space-wonder {
-        /* Duplicate of Explicit Dark Mode values to maintain visual consistency */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-space-wonder, .narrative-theme-space-wonder, [data-narrative-theme="space-wonder"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-space-wonder, .narrative-theme-space-wonder, [data-narrative-theme="space-wonder"]) {
+        color-scheme: dark;
         --rs-bg: #120024;
+        --rs-bg-alt: #1b0a2d;
         --rs-surface: #2e1065;
+        --rs-card-bg: #2e1065;
         --rs-text: #fdf4ff;
+        --rs-text-muted: #c0b5c6;
+        --rs-heading: #f8fafc;
         --rs-primary: #e879f9;
-        --rs-secondary: #d946ef;
+        --rs-on-primary: #0a0014;
+        --rs-secondary: #de5cf1;
         --rs-border: #4a044e;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #e879f9;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-space-wonder, .narrative-theme-space-wonder, [data-narrative-theme="space-wonder"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-space-wonder, .narrative-theme-space-wonder, [data-narrative-theme="space-wonder"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-space-wonder, .narrative-theme-space-wonder, [data-narrative-theme="space-wonder"])::before,
+    body:is(.theme-space-wonder, .narrative-theme-space-wonder, [data-narrative-theme="space-wonder"])::after {
+        display: none !important;
     }
 }

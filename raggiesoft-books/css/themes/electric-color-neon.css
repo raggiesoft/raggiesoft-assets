@@ -1,0 +1,131 @@
+/**
+ * ============================================================================
+ * STARDUST ENGINE NARRATIVE THEME: ELECTRIC COLOR NEON (1987 SYNTH-ROCK TOUR & STAGE PRISM) (`electric-color-neon.css`)
+ * ============================================================================
+ *
+ * Architectural Overview:
+ * Created for the 1987 *Electric Color* breakthrough chapters of *The Stardust Engine* (`books/stardust-engine`), balancing vibrant 1980s analog polysynth magenta and stage-truss cyan with effortless WCAG AAA prose legibility in both Light and Dark modes.
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f8f5fc` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#181026`): 15.17:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#4b3b66`): 8.18:1 min (WCAG AA)
+ *     * Headings (`#6b1870`): 8.70:1 min (WCAG AAA)
+ *     * Primary Accent (`#86198f`): 6.79:1 min (`--rs-on-primary: #ffffff` = 8.24:1)
+ *     * Secondary Accent (`#03679f`): 5.03:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#0b0714` / `#1b1230` (`color-scheme: dark`)
+ *     * Body Prose (`#f8f2ff`): 16.27:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#c9b8e3`): 9.74:1 min (WCAG AA)
+ *     * Headings (`#f5d0fe`): 13.04:1 min (WCAG AAA)
+ *     * Primary Accent (`#e879f9`): 7.26:1 min (`--rs-on-primary: #06040b` = 8.29:1)
+ *     * Secondary Accent (`#38bdf8`): 8.34:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
+ * ============================================================================
+ */
+
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-electric-color-neon, .narrative-theme-electric-color-neon, [data-narrative-theme="electric-color-neon"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-electric-color-neon, .narrative-theme-electric-color-neon, [data-narrative-theme="electric-color-neon"]) {
+    color-scheme: light;
+    --rs-bg: #f8f5fc;
+    --rs-bg-alt: #eee6f8;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #181026;
+    --rs-text-muted: #4b3b66;
+    --rs-heading: #6b1870;
+    --rs-primary: #86198f;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #03679f;
+    --rs-border: #d6c6eb;
+    --rs-asl: #03679f;
+    --rs-gesture: #4338ca;
+    accent-color: #86198f;
+}
+
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-electric-color-neon, .narrative-theme-electric-color-neon, [data-narrative-theme="electric-color-neon"]) {
+    color-scheme: dark;
+    --rs-bg: #0b0714;
+    --rs-bg-alt: #130c22;
+    --rs-surface: #1b1230;
+    --rs-card-bg: #1b1230;
+    --rs-text: #f8f2ff;
+    --rs-text-muted: #c9b8e3;
+    --rs-heading: #f5d0fe;
+    --rs-primary: #e879f9;
+    --rs-on-primary: #06040b;
+    --rs-secondary: #38bdf8;
+    --rs-border: #422a6e;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #e879f9;
+}
+
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-electric-color-neon, .narrative-theme-electric-color-neon, [data-narrative-theme="electric-color-neon"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-electric-color-neon, .narrative-theme-electric-color-neon, [data-narrative-theme="electric-color-neon"]) {
+        color-scheme: dark;
+        --rs-bg: #0b0714;
+        --rs-bg-alt: #130c22;
+        --rs-surface: #1b1230;
+        --rs-card-bg: #1b1230;
+        --rs-text: #f8f2ff;
+        --rs-text-muted: #c9b8e3;
+        --rs-heading: #f5d0fe;
+        --rs-primary: #e879f9;
+        --rs-on-primary: #06040b;
+        --rs-secondary: #38bdf8;
+        --rs-border: #422a6e;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #e879f9;
+    }
+}
+
+/* Atmospheric Reading Pane Framing (Light & Sepia) */
+:is(body, body.theme-oceanview):is(.theme-electric-color-neon, .narrative-theme-electric-color-neon, [data-narrative-theme="electric-color-neon"]) #stardust-reading-pane,
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-electric-color-neon, .narrative-theme-electric-color-neon, [data-narrative-theme="electric-color-neon"]) #stardust-reading-pane {
+    box-shadow: inset 0 8px 34px rgba(134, 25, 143, 0.06);
+}
+
+/* Atmospheric Reading Pane Framing (Dark & System Auto Dark) */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-electric-color-neon, .narrative-theme-electric-color-neon, [data-narrative-theme="electric-color-neon"]) #stardust-reading-pane {
+    box-shadow: inset 0 8px 40px rgba(232, 121, 249, 0.09);
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-electric-color-neon, .narrative-theme-electric-color-neon, [data-narrative-theme="electric-color-neon"]) #stardust-reading-pane,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-electric-color-neon, .narrative-theme-electric-color-neon, [data-narrative-theme="electric-color-neon"]) #stardust-reading-pane {
+        box-shadow: inset 0 8px 40px rgba(232, 121, 249, 0.09);
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-electric-color-neon, .narrative-theme-electric-color-neon, [data-narrative-theme="electric-color-neon"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-electric-color-neon, .narrative-theme-electric-color-neon, [data-narrative-theme="electric-color-neon"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-electric-color-neon, .narrative-theme-electric-color-neon, [data-narrative-theme="electric-color-neon"])::before,
+    body:is(.theme-electric-color-neon, .narrative-theme-electric-color-neon, [data-narrative-theme="electric-color-neon"])::after {
+        display: none !important;
+    }
+}

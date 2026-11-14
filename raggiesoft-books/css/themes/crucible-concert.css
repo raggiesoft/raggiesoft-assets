@@ -1,181 +1,131 @@
 /**
  * ============================================================================
- * STARDUST THEME: CRUCIBLE CONCERT (LIVE AT THE CRUCIBLE • MAY 21, 2016)
+ * STARDUST ENGINE NARRATIVE THEME: CRUCIBLE CONCERT (`crucible-concert.css`)
  * ============================================================================
  *
- * Description:
- * This stylesheet (`crucible-concert.css`) defines the bespoke "Crucible
- * Concert" reading theme (`theme: "crucible-concert"`) for the Ocean View
- * Archives / Stardust Engine. Created for Era 7, Chapter 4 ("May 21, 2016:
- * Live at the Crucible") of *The Eleventh Child: The Story of Jordan*, it
- * captures the 65,000-person sold-out homecoming concert of The Stardust Engine
- * and the 300-piece CPI Marching Forgers at The Crucible stadium in Blacksburg—
- * from golden-hour Smokin' Anvil BBQ tailgating outside the Gothic Ironstone
- * arches to the `CPI 52 — VDU 0` scoreboard reclamation and the 65,000-wristband
- * rainbow wave during "Electric Color (Live at the Crucible)".
+ * Architectural Overview:
+ * STARDUST THEME: CRUCIBLE CONCERT (LIVE AT THE CRUCIBLE • MAY 21, 2016) Description: This stylesheet (`crucible-concert.css`) defines the bespoke "Crucible Concert" reading theme (`theme: "crucible-concert"`) for the Ocean View Archives / Stardust Engine. Created for Era 7, Chapter 4 ("May 21, 2016: Live at the Crucible") of *The Eleventh Child: The Story of Jordan*, it captures the 65,000-person sold-out homecoming concert of The Stardust Engine and the 300-piece CPI Marching Forgers at The Crucible stadium in Blacksburg—
  *
- * Dual Stadium Concert Palette:
- * - Light Mode ("Golden-Hour Ironstone Tailgate & Foundry Maroon"):
- *   Pairs a Sunlit Ironstone Plaza canvas (`#faf6f0`) and Crisp Gold-Foil
- *   Ticket white reading surfaces (`#ffffff`) with Deep Stage-Truss Obsidian
- *   prose (`#181216`), Official CPI Foundry Maroon primary accents (`#861f41`),
- *   and Molten Anvil Orange secondary accents (`#b43403`).
- * - Dark Mode ("65,000-Seat Stadium Night, Molten Pyro & Electric Color"):
- *   Evokes the nocturnal stadium bowl lit by pyrotechnics and synchronized LED
- *   wristbands—a Deep Crucible Night-Bowl canvas (`#0d0914`) and Elevated
- *   Stage-Truss Slate surface (`#181124`) with Crisp Spotlight Starlight prose
- *   (`#f8f5fc`), Molten-Orange Stage Spotlight primary accents (`#fb923c`), and
- *   Electric-Color Cyan Wristband secondary accents (`#38bdf8`).
- *
- * WCAG 2.1 AA / AAA & Section 508 Contrast Verification:
- * - Light Mode:
- *   - Body Text (`#181216` on `#faf6f0` bg): 17.08:1 (WCAG AAA)
- *   - Body Text (`#181216` on `#ffffff` surface): 18.12:1 (WCAG AAA)
- *   - Primary Accent (`#861f41` on `#faf6f0` bg): 7.42:1 (WCAG AAA)
- *   - Secondary Accent (`#b43403` on `#faf6f0` bg): 5.84:1 (WCAG AA)
- * - Dark Mode:
- *   - Body Text (`#f8f5fc` on `#0d0914` bg): 17.45:1 (WCAG AAA)
- *   - Body Text (`#f8f5fc` on `#181124` surface): 15.12:1 (WCAG AAA)
- *   - Primary Accent (`#fb923c` on `#0d0914` bg): 8.94:1 (WCAG AAA)
- *   - Secondary Accent (`#38bdf8` on `#0d0914` bg): 10.18:1 (WCAG AAA)
- *   - Primary Button (`#ffffff` on `#861f41` fill): 8.21:1 (WCAG AAA)
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#faf6f0` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#181216`): 15.36:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#656060`): 5.14:1 min (WCAG AA)
+ *     * Headings (`#801e3e`): 8.04:1 min (WCAG AAA)
+ *     * Primary Accent (`#861f41`): 7.64:1 min (`--rs-on-primary: #ffffff` = 9.19:1)
+ *     * Secondary Accent (`#b43403`): 5.09:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#0d0914` / `#181124` (`color-scheme: dark`)
+ *     * Body Prose (`#f8f5fc`): 17.00:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#bbb8c0`): 9.38:1 min (WCAG AA)
+ *     * Headings (`#fdba74`): 10.88:1 min (WCAG AAA)
+ *     * Primary Accent (`#fb923c`): 8.11:1 min (`--rs-on-primary: #07050b` = 8.96:1)
+ *     * Secondary Accent (`#38bdf8`): 8.57:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Crucible Concert (`crucible-concert`) */
-
-/* --- 1. Light Mode (Base & Explicit OS/User Light Preference) --- */
-body.theme-crucible-concert,
-body.theme-light.theme-crucible-concert,
-body.theme-sepia.theme-crucible-concert {
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-crucible-concert, .narrative-theme-crucible-concert, [data-narrative-theme="crucible-concert"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-crucible-concert, .narrative-theme-crucible-concert, [data-narrative-theme="crucible-concert"]) {
     color-scheme: light;
-    --rs-bg: #faf6f0;        /* Golden-Hour Ironstone Tailgate Plaza canvas */
-    --rs-bg-alt: #f1e9df;    /* Gothic Limestone Archway sidebar background */
-    --rs-surface: #ffffff;   /* Crisp Gold-Foil Ticket white reading surface */
-    --rs-card-bg: #ffffff;   /* Modal and card container surface */
-    --rs-text: #181216;      /* Deep Stage-Truss Obsidian prose ink (17.08:1 contrast) */
-    --rs-heading: #861f41;   /* Official CPI Foundry Maroon heading token */
-    --rs-primary: #861f41;   /* Official CPI Foundry Maroon primary accent (7.42:1 contrast) */
-    --rs-secondary: #b43403; /* Molten Anvil Orange secondary accent (5.84:1 contrast) */
-    --rs-border: #d6c8bc;    /* Warm Ironstone Mortar structural border */
+    --rs-bg: #faf6f0;
+    --rs-bg-alt: #f1e9df;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #181216;
+    --rs-text-muted: #656060;
+    --rs-heading: #801e3e;
+    --rs-primary: #861f41;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #b43403;
+    --rs-border: #d6c8bc;
+    --rs-asl: #0368a0;
+    --rs-gesture: #4338ca;
     accent-color: #861f41;
 }
 
-@media (prefers-color-scheme: light) {
-    body.theme-auto.theme-crucible-concert,
-    body.theme-sepia-system.theme-crucible-concert {
-        color-scheme: light;
-        --rs-bg: #faf6f0;
-        --rs-bg-alt: #f1e9df;
-        --rs-surface: #ffffff;
-        --rs-card-bg: #ffffff;
-        --rs-text: #181216;
-        --rs-heading: #861f41;
-        --rs-primary: #861f41;
-        --rs-secondary: #b43403;
-        --rs-border: #d6c8bc;
-        accent-color: #861f41;
-    }
-}
-
-body.theme-crucible-concert #stardust-reading-pane,
-body.theme-light.theme-crucible-concert #stardust-reading-pane,
-body.theme-sepia.theme-crucible-concert #stardust-reading-pane {
-    box-shadow:
-        inset 0 6px 32px rgba(134, 31, 65, 0.06),
-        inset 0 -6px 28px rgba(180, 52, 3, 0.05);
-}
-
-/* --- 2. Dark Mode (Explicitly Forced by Reader Toggle) --- */
-body.theme-dark.theme-crucible-concert,
-body.theme-dark-sepia.theme-crucible-concert {
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-crucible-concert, .narrative-theme-crucible-concert, [data-narrative-theme="crucible-concert"]) {
     color-scheme: dark;
-    --rs-bg: #0d0914;        /* Deep 65,000-Seat Crucible Night-Bowl canvas */
-    --rs-bg-alt: #130d1d;    /* Elevated Stadium Terrace sidebar background */
-    --rs-surface: #181124;   /* Stage-Truss Violet-Obsidian card and modal surface */
-    --rs-card-bg: #181124;   /* Matching elevated dark container surface */
-    --rs-text: #f8f5fc;      /* Crisp Spotlight Starlight prose text (17.45:1 contrast) */
-    --rs-heading: #fdba74;   /* Molten Anvil Scoreboard Gold-Orange heading token */
-    --rs-primary: #fb923c;   /* Molten-Orange Stage Spotlight primary accent (8.94:1 contrast) */
-    --rs-secondary: #38bdf8; /* Electric-Color Cyan Wristband secondary accent (10.18:1 contrast) */
-    --rs-border: #3b2854;    /* Illuminated Truss-Violet structural border */
+    --rs-bg: #0d0914;
+    --rs-bg-alt: #130d1d;
+    --rs-surface: #181124;
+    --rs-card-bg: #181124;
+    --rs-text: #f8f5fc;
+    --rs-text-muted: #bbb8c0;
+    --rs-heading: #fdba74;
+    --rs-primary: #fb923c;
+    --rs-on-primary: #07050b;
+    --rs-secondary: #38bdf8;
+    --rs-border: #3b2854;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
     accent-color: #fb923c;
 }
 
-body.theme-dark.theme-crucible-concert #stardust-reading-pane,
-body.theme-dark-sepia.theme-crucible-concert #stardust-reading-pane {
-    box-shadow:
-        inset 0 6px 36px rgba(251, 146, 60, 0.07),
-        inset 0 -6px 36px rgba(56, 189, 248, 0.06);
-}
-
-body.theme-dark.theme-crucible-concert .rs-btn-primary,
-body.theme-dark-sepia.theme-crucible-concert .rs-btn-primary {
-    background-color: #861f41;
-    border-color: #fb923c;
-    color: #ffffff;
-}
-
-body.theme-dark.theme-crucible-concert .rs-btn-primary:hover,
-body.theme-dark-sepia.theme-crucible-concert .rs-btn-primary:hover,
-body.theme-dark.theme-crucible-concert .rs-btn-primary:focus-visible,
-body.theme-dark-sepia.theme-crucible-concert .rs-btn-primary:focus-visible {
-    background-color: #9f1239;
-    border-color: #38bdf8;
-    color: #ffffff;
-}
-
-/* --- 3. Dark Mode (OS Preference via `prefers-color-scheme: dark`) --- */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-crucible-concert,
-    body.theme-sepia-system.theme-crucible-concert,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-crucible-concert {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-crucible-concert, .narrative-theme-crucible-concert, [data-narrative-theme="crucible-concert"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-crucible-concert, .narrative-theme-crucible-concert, [data-narrative-theme="crucible-concert"]) {
         color-scheme: dark;
         --rs-bg: #0d0914;
         --rs-bg-alt: #130d1d;
         --rs-surface: #181124;
         --rs-card-bg: #181124;
         --rs-text: #f8f5fc;
+        --rs-text-muted: #bbb8c0;
         --rs-heading: #fdba74;
         --rs-primary: #fb923c;
+        --rs-on-primary: #07050b;
         --rs-secondary: #38bdf8;
         --rs-border: #3b2854;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
         accent-color: #fb923c;
-    }
-
-    body.theme-auto.theme-crucible-concert #stardust-reading-pane,
-    body.theme-sepia-system.theme-crucible-concert #stardust-reading-pane,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-crucible-concert #stardust-reading-pane {
-        box-shadow:
-            inset 0 6px 36px rgba(251, 146, 60, 0.07),
-            inset 0 -6px 36px rgba(56, 189, 248, 0.06);
-    }
-
-    body.theme-auto.theme-crucible-concert .rs-btn-primary,
-    body.theme-sepia-system.theme-crucible-concert .rs-btn-primary,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-crucible-concert .rs-btn-primary {
-        background-color: #861f41;
-        border-color: #fb923c;
-        color: #ffffff;
     }
 }
 
-/* --- 4. Forced Colors (Windows High Contrast Mode) Safety --- */
+/* Atmospheric Reading Pane Framing (Light & Sepia) */
+:is(body, body.theme-oceanview):is(.theme-crucible-concert, .narrative-theme-crucible-concert, [data-narrative-theme="crucible-concert"]) #stardust-reading-pane,
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-crucible-concert, .narrative-theme-crucible-concert, [data-narrative-theme="crucible-concert"]) #stardust-reading-pane {
+    box-shadow: inset 0 6px 32px rgba(134, 31, 65, 0.06), inset 0 -6px 28px rgba(180, 52, 3, 0.05);
+}
+
+/* Atmospheric Reading Pane Framing (Dark & System Auto Dark) */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-crucible-concert, .narrative-theme-crucible-concert, [data-narrative-theme="crucible-concert"]) #stardust-reading-pane {
+    box-shadow: inset 0 6px 36px rgba(251, 146, 60, 0.07), inset 0 -6px 36px rgba(56, 189, 248, 0.06);
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-crucible-concert, .narrative-theme-crucible-concert, [data-narrative-theme="crucible-concert"]) #stardust-reading-pane,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-crucible-concert, .narrative-theme-crucible-concert, [data-narrative-theme="crucible-concert"]) #stardust-reading-pane {
+        box-shadow: inset 0 6px 36px rgba(251, 146, 60, 0.07), inset 0 -6px 36px rgba(56, 189, 248, 0.06);
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
 @media (forced-colors: active) {
-    body.theme-crucible-concert {
+    body:is(.theme-crucible-concert, .narrative-theme-crucible-concert, [data-narrative-theme="crucible-concert"]) {
         --rs-bg: Canvas;
         --rs-bg-alt: Canvas;
         --rs-surface: Canvas;
         --rs-card-bg: Canvas;
         --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
         --rs-heading: CanvasText;
         --rs-primary: LinkText;
-        --rs-secondary: Highlight;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
         --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
     }
-
-    body.theme-crucible-concert #stardust-reading-pane {
-        box-shadow: none;
+    body:is(.theme-crucible-concert, .narrative-theme-crucible-concert, [data-narrative-theme="crucible-concert"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-crucible-concert, .narrative-theme-crucible-concert, [data-narrative-theme="crucible-concert"])::before,
+    body:is(.theme-crucible-concert, .narrative-theme-crucible-concert, [data-narrative-theme="crucible-concert"])::after {
+        display: none !important;
     }
 }
-

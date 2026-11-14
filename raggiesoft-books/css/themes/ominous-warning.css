@@ -1,66 +1,114 @@
 /**
  * ============================================================================
- * RAGGIESOFT THEME: OMINOUS WARNING
+ * STARDUST ENGINE NARRATIVE THEME: OMINOUS WARNING (`ominous-warning.css`)
  * ============================================================================
- * Architecture & Purpose:
- * Defines a high-tension, warning-oriented theme utilizing intense ambers and 
- * stark crimson reds. Designed for critical alerts or dramatic narrative moments.
- * 
- * Key Design Elements:
- * - Tri-state architecture bridging manual toggles and OS-level preferences.
- * - Drastic shift between the pale-amber Light Mode and the pitch-red Dark Mode
- *   to ensure the 'warning' nature translates effectively in both settings.
- * 
- * Maintenance Notes:
- * - Dark mode contrast heavily relies on the off-white text (`#fffbeb`). Do not
- *   darken this text color, as it will fail WCAG contrast guidelines against the
- *   dark crimson surface (`#450a0a`).
+ *
+ * Architectural Overview:
+ * RAGGIESOFT THEME: OMINOUS WARNING Architecture & Purpose: Defines a high-tension, warning-oriented theme utilizing intense ambers and stark crimson reds. Designed for critical alerts or dramatic narrative moments. Key Design Elements: - Tri-state architecture bridging manual toggles and OS-level preferences. - Drastic shift between the pale-amber Light Mode and the pitch-red Dark Mode to ensure the 'warning' nature translates effectively in both settings.
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#fffbeb` / `#fef3c7` (`color-scheme: light`)
+ *     * Body Prose (`#450a0a`): 14.49:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#845c56`): 5.17:1 min (WCAG AA)
+ *     * Headings (`#340808`): 15.91:1 min (WCAG AAA)
+ *     * Primary Accent (`#b91c1c`): 5.81:1 min (`--rs-on-primary: #ffffff` = 6.47:1)
+ *     * Secondary Accent (`#ca2121`): 5.02:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#1c0101` / `#450a0a` (`color-scheme: dark`)
+ *     * Body Prose (`#fffbeb`): 15.57:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#c4baae`): 8.44:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 15.43:1 min (WCAG AAA)
+ *     * Primary Accent (`#f26464`): 5.21:1 min (`--rs-on-primary: #0f0101` = 6.62:1)
+ *     * Secondary Accent (`#f87171`): 5.84:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Ominous Warning */
-
-/* -------------------------------------------------------------------------
- * 1. Light Mode (Base Palette)
- * ------------------------------------------------------------------------- */
-/* Applied by default, or explicitly forced by user toggle */
-body.theme-ominous-warning,
-body.theme-light.theme-ominous-warning {
-    --rs-bg: #fffbeb; /* Pale, sickly amber background evoking caution */
-    --rs-surface: #fef3c7; /* Slightly deeper amber for raised surfaces */
-    --rs-text: #450a0a; /* Deep, dried-blood red for maximum text readability */
-    --rs-primary: #b91c1c; /* Sharp crimson for primary warning actions */
-    --rs-secondary: #dc2626; /* Brighter red for hover states and secondary emphasis */
-    --rs-border: #fde68a; /* Amber-gold boundary lines */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-ominous-warning, .narrative-theme-ominous-warning, [data-narrative-theme="ominous-warning"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-ominous-warning, .narrative-theme-ominous-warning, [data-narrative-theme="ominous-warning"]) {
+    color-scheme: light;
+    --rs-bg: #fffbeb;
+    --rs-bg-alt: #f4f3e9;
+    --rs-surface: #fef3c7;
+    --rs-card-bg: #fef3c7;
+    --rs-text: #450a0a;
+    --rs-text-muted: #845c56;
+    --rs-heading: #340808;
+    --rs-primary: #b91c1c;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #ca2121;
+    --rs-border: #fde68a;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #b91c1c;
 }
 
-/* -------------------------------------------------------------------------
- * 2. Dark Mode (Explicitly Forced)
- * ------------------------------------------------------------------------- */
-/* Active only when the `theme-dark` class is explicitly appended to the body */
-body.theme-dark.theme-ominous-warning {
-    --rs-bg: #1c0101; /* Pitch black-red for an oppressive, dangerous feel */
-    --rs-surface: #450a0a; /* Dark crimson surface color to lift UI elements */
-    --rs-text: #fffbeb; /* Stark pale amber text to cut through the dark UI */
-    --rs-primary: #ef4444; /* Vivid, bright red to command immediate attention */
-    --rs-secondary: #f87171; /* Softer coral-red for secondary text and borders */
-    --rs-border: #7f1d1d; /* Deep blood-red structural division lines */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-ominous-warning, .narrative-theme-ominous-warning, [data-narrative-theme="ominous-warning"]) {
+    color-scheme: dark;
+    --rs-bg: #1c0101;
+    --rs-bg-alt: #250b0b;
+    --rs-surface: #450a0a;
+    --rs-card-bg: #450a0a;
+    --rs-text: #fffbeb;
+    --rs-text-muted: #c4baae;
+    --rs-heading: #f8fafc;
+    --rs-primary: #f26464;
+    --rs-on-primary: #0f0101;
+    --rs-secondary: #f87171;
+    --rs-border: #7f1d1d;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #f26464;
 }
 
-/* -------------------------------------------------------------------------
- * 3. OS Auto Dark Mode Support
- * ------------------------------------------------------------------------- */
-/* Intercepts system-level dark mode requests if no explicit override is set */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    /* Triggers only on `theme-auto` or when no specific light/dark class is present */
-    body.theme-auto.theme-ominous-warning,
-    body:not(.theme-light):not(.theme-dark).theme-ominous-warning {
-        /* Mirrored from Explicit Dark Mode palette */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-ominous-warning, .narrative-theme-ominous-warning, [data-narrative-theme="ominous-warning"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-ominous-warning, .narrative-theme-ominous-warning, [data-narrative-theme="ominous-warning"]) {
+        color-scheme: dark;
         --rs-bg: #1c0101;
+        --rs-bg-alt: #250b0b;
         --rs-surface: #450a0a;
+        --rs-card-bg: #450a0a;
         --rs-text: #fffbeb;
-        --rs-primary: #ef4444;
+        --rs-text-muted: #c4baae;
+        --rs-heading: #f8fafc;
+        --rs-primary: #f26464;
+        --rs-on-primary: #0f0101;
         --rs-secondary: #f87171;
         --rs-border: #7f1d1d;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #f26464;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-ominous-warning, .narrative-theme-ominous-warning, [data-narrative-theme="ominous-warning"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-ominous-warning, .narrative-theme-ominous-warning, [data-narrative-theme="ominous-warning"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-ominous-warning, .narrative-theme-ominous-warning, [data-narrative-theme="ominous-warning"])::before,
+    body:is(.theme-ominous-warning, .narrative-theme-ominous-warning, [data-narrative-theme="ominous-warning"])::after {
+        display: none !important;
     }
 }

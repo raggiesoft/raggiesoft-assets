@@ -1,68 +1,114 @@
 /**
  * ============================================================================
- * STARDUST THEME: RUNEBREAKER CRYSTAL LAB - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: RUNEBREAKER CRYSTAL LAB (`runebreaker-crystal-lab.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines the "Runebreaker Crystal Lab" reading theme for the
- * Crystal Sage's laboratory and "Half a Medallion". It combines the prism-lit
- * arcane science of the Crystal Sage with the fire-engine red of Ocea's half
- * of the summer-camp clay medallion and her golden pixel magic.
- * 
- * Core Components:
- * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
- *    the main reader layout (reader.css).
- * 2. Theme Cascade: Implements three specific states to handle user preferences 
- *    and OS-level settings:
- *    - Light Mode (Prismatic quartz laboratory white with ruby red & ocean blue)
- *    - Forced Dark Mode (Deep arcane observatory navy with ruby & golden pixel glow)
- *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
- * 
- * Maintainability Notes:
- * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
- *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
- *   state to prevent visual regressions during theme swapping.
- * - Always duplicate the Forced Dark Mode variables into the `@media` query 
- *   block to ensure visual consistency when OS Auto mode triggers.
+ *
+ * Architectural Overview:
+ * STARDUST THEME: RUNEBREAKER CRYSTAL LAB - ARCHITECTURAL OVERVIEW Description: This stylesheet defines the "Runebreaker Crystal Lab" reading theme for the Crystal Sage's laboratory and "Half a Medallion". It combines the prism-lit arcane science of the Crystal Sage with the fire-engine red of Ocea's half of the summer-camp clay medallion and her golden pixel magic. Core Components: 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f8fafc` / `#eff6ff` (`color-scheme: light`)
+ *     * Body Prose (`#0f172a`): 15.87:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#5e6471`): 5.28:1 min (WCAG AA)
+ *     * Headings (`#0b1120`): 16.74:1 min (WCAG AAA)
+ *     * Primary Accent (`#ca1a40`): 5.00:1 min (`--rs-on-primary: #ffffff` = 5.63:1)
+ *     * Secondary Accent (`#026da5`): 5.00:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#080d1a` / `#111a30` (`color-scheme: dark`)
+ *     * Body Prose (`#f1f5f9`): 15.79:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#b4b9bf`): 8.76:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 16.53:1 min (WCAG AAA)
+ *     * Primary Accent (`#fb7185`): 6.43:1 min (`--rs-on-primary: #04070e` = 7.49:1)
+ *     * Secondary Accent (`#fbbf24`): 10.36:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Runebreaker Crystal Lab */
-
-/* --- 1. Light Mode (Base) --- */
-/* Acts as the default state and explicitly forced light mode */
-body.theme-runebreaker-crystal-lab,
-body.theme-light.theme-runebreaker-crystal-lab {
-    --rs-bg: #f8fafc; /* Prismatic quartz laboratory white */
-    --rs-surface: #eff6ff; /* Refracted crystal lens blue-white */
-    --rs-text: #0f172a; /* Deep observatory ink text */
-    --rs-primary: #e11d48; /* Fire-engine red clay medallion primary */
-    --rs-secondary: #0284c7; /* Ocean-blue twin medallion secondary */
-    --rs-border: #bfdbfe; /* Polished crystal glass border */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-runebreaker-crystal-lab, .narrative-theme-runebreaker-crystal-lab, [data-narrative-theme="runebreaker-crystal-lab"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-runebreaker-crystal-lab, .narrative-theme-runebreaker-crystal-lab, [data-narrative-theme="runebreaker-crystal-lab"]) {
+    color-scheme: light;
+    --rs-bg: #f8fafc;
+    --rs-bg-alt: #eef2f6;
+    --rs-surface: #eff6ff;
+    --rs-card-bg: #eff6ff;
+    --rs-text: #0f172a;
+    --rs-text-muted: #5e6471;
+    --rs-heading: #0b1120;
+    --rs-primary: #ca1a40;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #026da5;
+    --rs-border: #bfdbfe;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #ca1a40;
 }
 
-/* --- 2. Dark Mode (Explicitly Forced) --- */
-/* Applied when the user manually toggles the reader to Dark Mode */
-body.theme-dark.theme-runebreaker-crystal-lab {
-    --rs-bg: #080d1a; /* Deep arcane observatory midnight */
-    --rs-surface: #111a30; /* Illuminated crystal workbench surface */
-    --rs-text: #f1f5f9; /* Pure starlight quartz text */
-    --rs-primary: #fb7185; /* Glowing ruby medallion primary */
-    --rs-secondary: #fbbf24; /* Golden Runebreaker pixel secondary */
-    --rs-border: #1e3a5f; /* Faceted sapphire crystal border */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-runebreaker-crystal-lab, .narrative-theme-runebreaker-crystal-lab, [data-narrative-theme="runebreaker-crystal-lab"]) {
+    color-scheme: dark;
+    --rs-bg: #080d1a;
+    --rs-bg-alt: #121723;
+    --rs-surface: #111a30;
+    --rs-card-bg: #111a30;
+    --rs-text: #f1f5f9;
+    --rs-text-muted: #b4b9bf;
+    --rs-heading: #f8fafc;
+    --rs-primary: #fb7185;
+    --rs-on-primary: #04070e;
+    --rs-secondary: #fbbf24;
+    --rs-border: #1e3a5f;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #fb7185;
 }
 
-/* --- 3. OS Auto Dark Mode --- */
-/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-runebreaker-crystal-lab,
-    body:not(.theme-light):not(.theme-dark).theme-runebreaker-crystal-lab {
-        --rs-bg: #080d1a; /* Matches Forced Dark Mode */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-runebreaker-crystal-lab, .narrative-theme-runebreaker-crystal-lab, [data-narrative-theme="runebreaker-crystal-lab"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-runebreaker-crystal-lab, .narrative-theme-runebreaker-crystal-lab, [data-narrative-theme="runebreaker-crystal-lab"]) {
+        color-scheme: dark;
+        --rs-bg: #080d1a;
+        --rs-bg-alt: #121723;
         --rs-surface: #111a30;
+        --rs-card-bg: #111a30;
         --rs-text: #f1f5f9;
+        --rs-text-muted: #b4b9bf;
+        --rs-heading: #f8fafc;
         --rs-primary: #fb7185;
+        --rs-on-primary: #04070e;
         --rs-secondary: #fbbf24;
         --rs-border: #1e3a5f;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #fb7185;
     }
 }
 
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-runebreaker-crystal-lab, .narrative-theme-runebreaker-crystal-lab, [data-narrative-theme="runebreaker-crystal-lab"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-runebreaker-crystal-lab, .narrative-theme-runebreaker-crystal-lab, [data-narrative-theme="runebreaker-crystal-lab"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-runebreaker-crystal-lab, .narrative-theme-runebreaker-crystal-lab, [data-narrative-theme="runebreaker-crystal-lab"])::before,
+    body:is(.theme-runebreaker-crystal-lab, .narrative-theme-runebreaker-crystal-lab, [data-narrative-theme="runebreaker-crystal-lab"])::after {
+        display: none !important;
+    }
+}

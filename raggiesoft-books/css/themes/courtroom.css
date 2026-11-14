@@ -1,186 +1,131 @@
 /**
  * ============================================================================
- * STARDUST THEME: COURTROOM (COMMONWEALTH JUDICIAL SLATE, OAK & STATUTORY BRASS)
+ * STARDUST ENGINE NARRATIVE THEME: COURTROOM (`courtroom.css`)
  * ============================================================================
  *
- * Description:
- * This stylesheet (`courtroom.css`) defines the formal "Courtroom" reading
- * theme for the Ocean View Archives / Stardust Engine (`theme: "courtroom"`).
- * Designed for evidentiary hearings, depositions, and courtroom confrontations
- * across RaggieSoft narratives—including Jordan Fuller's August 18, 2015
- * Guardianship & Conservatorship defense in Courtroom 3B of the Montgomery
- * County Courthouse (`aubrie/e005/c001/s001`–`s005`), where Ms. Helen Gable,
- * GAL Ms. Evelyn Caldwell, CPI officials, Isabel Dawson, Henry Walsh, Daniel
- * Brooks, and Jessica Gallagher systematically dismantle Aubrie Sinclair's
- * perjured petition on the official court record.
+ * Architectural Overview:
+ * STARDUST THEME: COURTROOM (COMMONWEALTH JUDICIAL SLATE, OAK & STATUTORY BRASS) Description: This stylesheet (`courtroom.css`) defines the formal "Courtroom" reading theme for the Ocean View Archives / Stardust Engine (`theme: "courtroom"`). Designed for evidentiary hearings, depositions, and courtroom confrontations across RaggieSoft narratives—including Jordan Fuller's August 18, 2015 Guardianship & Conservatorship defense in Courtroom 3B of the Montgomery County Courthouse (`aubrie/e005/c001/s001`–`s005`), where Ms. Helen Gable,
  *
- * Psychological & Visual Architecture:
- * - Light Mode ("Sworn Transcript Vellum, Judicial Navy-Slate & Bench Oak"):
- *   Pairs a crisp, authoritative Sworn-Transcript Vellum canvas (`#f8fafc`)
- *   and pure evidentiary white surfaces (`#ffffff`) with Deep Stenographer
- *   Obsidian ink (`#0f172a`), Commonwealth Judicial Navy-Slate primary accents
- *   (`#1e3a8a`), and Courtroom Bench Oak-Brass secondary accents (`#854d0e`).
- * - Dark Mode ("Judicial Bench Obsidian, Statutory Silver-Blue & Gavel Gold"):
- *   Pairs an imposing Judicial-Robe Slate-Obsidian canvas (`#090d16`) and
- *   Courtroom 3B Panelled Slate surfaces (`#131c2e`) with Crisp Transcript
- *   White text (`#f8fafc`), Statutory Citation Sky-Blue primary accents
- *   (`#7dd3fc`), and Commonwealth Seal Brass-Gold secondary accents (`#fcd34d`).
- *
- * WCAG 2.1 AA / AAA Contrast Verification:
- * - Light Mode:
- *   - Body Text (`#0f172a` on `#f8fafc` bg): 16.98:1 (WCAG AAA)
- *   - Body Text (`#0f172a` on `#ffffff` surface): 17.41:1 (WCAG AAA)
- *   - Primary Accent (`#1e3a8a` on `#f8fafc` bg): 9.68:1 (WCAG AAA)
- *   - Secondary Accent (`#854d0e` on `#f8fafc` bg): 6.62:1 (WCAG AA)
- * - Dark Mode:
- *   - Body Text (`#f8fafc` on `#090d16` bg): 18.42:1 (WCAG AAA)
- *   - Body Text (`#f8fafc` on `#131c2e` surface): 15.34:1 (WCAG AAA)
- *   - Primary Accent (`#7dd3fc` on `#090d16` bg): 11.42:1 (WCAG AAA)
- *   - Secondary Accent (`#fcd34d` on `#090d16` bg): 12.74:1 (WCAG AAA)
- *   - Primary Button (`#f8fafc` on `#1e3a8a` fill): 10.15:1 (WCAG AAA)
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f8fafc` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#0f172a`): 14.48:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#5c616e`): 5.02:1 min (WCAG AA)
+ *     * Headings (`#0f172a`): 14.48:1 min (WCAG AAA)
+ *     * Primary Accent (`#1e3a8a`): 8.40:1 min (`--rs-on-primary: #ffffff` = 10.36:1)
+ *     * Secondary Accent (`#854d0e`): 5.56:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#090d16` / `#131c2e` (`color-scheme: dark`)
+ *     * Body Prose (`#f8fafc`): 16.28:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#babcc0`): 8.95:1 min (WCAG AA)
+ *     * Headings (`#f1f5f9`): 15.54:1 min (WCAG AAA)
+ *     * Primary Accent (`#7dd3fc`): 10.21:1 min (`--rs-on-primary: #05070c` = 12.09:1)
+ *     * Secondary Accent (`#fcd34d`): 11.81:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Courtroom (`courtroom`) */
-
-/* --- 1. Light Mode (Base & Explicit OS/User Light Preference) --- */
-body.theme-courtroom,
-body.theme-light.theme-courtroom,
-body.theme-sepia.theme-courtroom {
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-courtroom, .narrative-theme-courtroom, [data-narrative-theme="courtroom"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-courtroom, .narrative-theme-courtroom, [data-narrative-theme="courtroom"]) {
     color-scheme: light;
-    --rs-bg: #f8fafc;        /* Crisp Sworn-Transcript Vellum canvas */
-    --rs-bg-alt: #e2e8f0;    /* Evidentiary Docket Ledger sidebar background */
-    --rs-surface: #ffffff;   /* Pristine Official Record White reading surface */
-    --rs-card-bg: #ffffff;   /* Modal and card container surface */
-    --rs-text: #0f172a;      /* Deep Stenographer Obsidian ink (16.98:1 contrast) */
-    --rs-heading: #0f172a;   /* Authoritative Judicial Heading token */
-    --rs-primary: #1e3a8a;   /* Commonwealth Judicial Navy primary accent (9.68:1 contrast) */
-    --rs-secondary: #854d0e; /* Courtroom Bench Oak & Brass secondary accent (6.62:1 contrast) */
-    --rs-border: #cbd5e1;    /* Structured Docket-Rule border */
+    --rs-bg: #f8fafc;
+    --rs-bg-alt: #e2e8f0;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #0f172a;
+    --rs-text-muted: #5c616e;
+    --rs-heading: #0f172a;
+    --rs-primary: #1e3a8a;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #854d0e;
+    --rs-border: #cbd5e1;
+    --rs-asl: #03669d;
+    --rs-gesture: #4338ca;
     accent-color: #1e3a8a;
 }
 
-@media (prefers-color-scheme: light) {
-    body.theme-auto.theme-courtroom,
-    body.theme-sepia-system.theme-courtroom {
-        color-scheme: light;
-        --rs-bg: #f8fafc;
-        --rs-bg-alt: #e2e8f0;
-        --rs-surface: #ffffff;
-        --rs-card-bg: #ffffff;
-        --rs-text: #0f172a;
-        --rs-heading: #0f172a;
-        --rs-primary: #1e3a8a;
-        --rs-secondary: #854d0e;
-        --rs-border: #cbd5e1;
-        accent-color: #1e3a8a;
-    }
-}
-
-body.theme-courtroom #stardust-reading-pane,
-body.theme-light.theme-courtroom #stardust-reading-pane,
-body.theme-sepia.theme-courtroom #stardust-reading-pane {
-    box-shadow: inset 0 6px 28px rgba(30, 58, 138, 0.05);
-}
-
-/* --- 2. Dark Mode (Explicitly Forced by Reader Toggle) --- */
-body.theme-dark.theme-courtroom,
-body.theme-dark-sepia.theme-courtroom {
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-courtroom, .narrative-theme-courtroom, [data-narrative-theme="courtroom"]) {
     color-scheme: dark;
-    --rs-bg: #090d16;        /* Imposing Judicial-Robe Slate-Obsidian canvas */
-    --rs-bg-alt: #0e1422;    /* Witness Waiting Room Slate sidebar background */
-    --rs-surface: #131c2e;   /* Courtroom 3B Elevated Bench reading surface */
-    --rs-card-bg: #131c2e;   /* Matching elevated dark container surface */
-    --rs-text: #f8fafc;      /* Crisp Transcript White prose text (18.42:1 contrast) */
-    --rs-heading: #f1f5f9;   /* High-contrast Statutory Heading token */
-    --rs-primary: #7dd3fc;   /* Statutory Citation Sky-Blue primary accent (11.42:1 contrast) */
-    --rs-secondary: #fcd34d; /* Commonwealth Seal Gavel-Brass secondary accent (12.74:1 contrast) */
-    --rs-border: #263554;    /* Institutional Division-Line border */
+    --rs-bg: #090d16;
+    --rs-bg-alt: #0e1422;
+    --rs-surface: #131c2e;
+    --rs-card-bg: #131c2e;
+    --rs-text: #f8fafc;
+    --rs-text-muted: #babcc0;
+    --rs-heading: #f1f5f9;
+    --rs-primary: #7dd3fc;
+    --rs-on-primary: #05070c;
+    --rs-secondary: #fcd34d;
+    --rs-border: #263554;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
     accent-color: #7dd3fc;
 }
 
-body.theme-dark.theme-courtroom #stardust-reading-pane,
-body.theme-dark-sepia.theme-courtroom #stardust-reading-pane {
-    box-shadow:
-        inset 0 6px 32px rgba(125, 211, 252, 0.05),
-        inset 0 -6px 32px rgba(252, 211, 77, 0.04);
-}
-
-body.theme-dark.theme-courtroom .rs-btn-primary,
-body.theme-dark-sepia.theme-courtroom .rs-btn-primary {
-    background-color: #1e3a8a;
-    border-color: #7dd3fc;
-    color: #f8fafc;
-}
-
-body.theme-dark.theme-courtroom .rs-btn-primary:hover,
-body.theme-dark-sepia.theme-courtroom .rs-btn-primary:hover,
-body.theme-dark.theme-courtroom .rs-btn-primary:focus-visible,
-body.theme-dark-sepia.theme-courtroom .rs-btn-primary:focus-visible {
-    background-color: #1d4ed8;
-    border-color: #fcd34d;
-    color: #ffffff;
-}
-
-/* --- 3. Dark Mode (OS Preference via `prefers-color-scheme: dark`) --- */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-courtroom,
-    body.theme-sepia-system.theme-courtroom,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-courtroom {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-courtroom, .narrative-theme-courtroom, [data-narrative-theme="courtroom"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-courtroom, .narrative-theme-courtroom, [data-narrative-theme="courtroom"]) {
         color-scheme: dark;
         --rs-bg: #090d16;
         --rs-bg-alt: #0e1422;
         --rs-surface: #131c2e;
         --rs-card-bg: #131c2e;
         --rs-text: #f8fafc;
+        --rs-text-muted: #babcc0;
         --rs-heading: #f1f5f9;
         --rs-primary: #7dd3fc;
+        --rs-on-primary: #05070c;
         --rs-secondary: #fcd34d;
         --rs-border: #263554;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
         accent-color: #7dd3fc;
-    }
-
-    body.theme-auto.theme-courtroom #stardust-reading-pane,
-    body.theme-sepia-system.theme-courtroom #stardust-reading-pane,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-courtroom #stardust-reading-pane {
-        box-shadow:
-            inset 0 6px 32px rgba(125, 211, 252, 0.05),
-            inset 0 -6px 32px rgba(252, 211, 77, 0.04);
-    }
-
-    body.theme-auto.theme-courtroom .rs-btn-primary,
-    body.theme-sepia-system.theme-courtroom .rs-btn-primary,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-courtroom .rs-btn-primary {
-        background-color: #1e3a8a;
-        border-color: #7dd3fc;
-        color: #f8fafc;
-    }
-
-    body.theme-auto.theme-courtroom .rs-btn-primary:hover,
-    body.theme-sepia-system.theme-courtroom .rs-btn-primary:hover,
-    body.theme-auto.theme-courtroom .rs-btn-primary:focus-visible,
-    body.theme-sepia-system.theme-courtroom .rs-btn-primary:focus-visible {
-        background-color: #1d4ed8;
-        border-color: #fcd34d;
-        color: #ffffff;
     }
 }
 
-/* --- 4. Forced Colors (Windows High Contrast Mode) Safety --- */
+/* Atmospheric Reading Pane Framing (Light & Sepia) */
+:is(body, body.theme-oceanview):is(.theme-courtroom, .narrative-theme-courtroom, [data-narrative-theme="courtroom"]) #stardust-reading-pane,
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-courtroom, .narrative-theme-courtroom, [data-narrative-theme="courtroom"]) #stardust-reading-pane {
+    box-shadow: inset 0 6px 28px rgba(30, 58, 138, 0.05);
+}
+
+/* Atmospheric Reading Pane Framing (Dark & System Auto Dark) */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-courtroom, .narrative-theme-courtroom, [data-narrative-theme="courtroom"]) #stardust-reading-pane {
+    box-shadow: inset 0 6px 32px rgba(125, 211, 252, 0.05), inset 0 -6px 32px rgba(252, 211, 77, 0.04);
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-courtroom, .narrative-theme-courtroom, [data-narrative-theme="courtroom"]) #stardust-reading-pane,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-courtroom, .narrative-theme-courtroom, [data-narrative-theme="courtroom"]) #stardust-reading-pane {
+        box-shadow: inset 0 6px 32px rgba(125, 211, 252, 0.05), inset 0 -6px 32px rgba(252, 211, 77, 0.04);
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
 @media (forced-colors: active) {
-    body.theme-courtroom {
+    body:is(.theme-courtroom, .narrative-theme-courtroom, [data-narrative-theme="courtroom"]) {
         --rs-bg: Canvas;
         --rs-bg-alt: Canvas;
         --rs-surface: Canvas;
         --rs-card-bg: Canvas;
         --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
         --rs-heading: CanvasText;
         --rs-primary: LinkText;
-        --rs-secondary: Highlight;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
         --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
     }
-
-    body.theme-courtroom #stardust-reading-pane {
-        box-shadow: none;
+    body:is(.theme-courtroom, .narrative-theme-courtroom, [data-narrative-theme="courtroom"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-courtroom, .narrative-theme-courtroom, [data-narrative-theme="courtroom"])::before,
+    body:is(.theme-courtroom, .narrative-theme-courtroom, [data-narrative-theme="courtroom"])::after {
+        display: none !important;
     }
 }

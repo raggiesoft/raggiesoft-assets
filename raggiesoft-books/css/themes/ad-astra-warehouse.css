@@ -1,0 +1,131 @@
+/**
+ * ============================================================================
+ * STARDUST ENGINE NARRATIVE THEME: AD ASTRA BLACKSBURG SOUNDSTAGE WAREHOUSE (1996 FILM SET) (`ad-astra-warehouse.css`)
+ * ============================================================================
+ *
+ * Architectural Overview:
+ * Created for Book 4 of *The Stardust Engine* (`books/stardust-engine/e004`), capturing the 1996 *Ad Astra* production inside the Blacksburg Soundstage on Progress Street NE—1G poured concrete warehouse floors, yellow hydraulic scissor-lifts, steel rigging cables, and warm halogen stage worklights.
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f3f5f7` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#141b24`): 14.31:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#414e5e`): 7.01:1 min (WCAG AA)
+ *     * Headings (`#162d4c`): 11.46:1 min (WCAG AAA)
+ *     * Primary Accent (`#0f4c81`): 7.32:1 min (`--rs-on-primary: #ffffff` = 8.86:1)
+ *     * Secondary Accent (`#854d0e`): 5.66:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#0c1017` / `#192230` (`color-scheme: dark`)
+ *     * Body Prose (`#e8eef5`): 13.70:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#a6b5c7`): 7.66:1 min (WCAG AA)
+ *     * Headings (`#fde68a`): 12.84:1 min (WCAG AAA)
+ *     * Primary Accent (`#fbbf24`): 9.58:1 min (`--rs-on-primary: #07090d` = 11.94:1)
+ *     * Secondary Accent (`#38bdf8`): 7.47:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
+ * ============================================================================
+ */
+
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-ad-astra-warehouse, .narrative-theme-ad-astra-warehouse, [data-narrative-theme="ad-astra-warehouse"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-ad-astra-warehouse, .narrative-theme-ad-astra-warehouse, [data-narrative-theme="ad-astra-warehouse"]) {
+    color-scheme: light;
+    --rs-bg: #f3f5f7;
+    --rs-bg-alt: #e5eaef;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #141b24;
+    --rs-text-muted: #414e5e;
+    --rs-heading: #162d4c;
+    --rs-primary: #0f4c81;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #854d0e;
+    --rs-border: #c7d1dc;
+    --rs-asl: #03679f;
+    --rs-gesture: #4338ca;
+    accent-color: #0f4c81;
+}
+
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-ad-astra-warehouse, .narrative-theme-ad-astra-warehouse, [data-narrative-theme="ad-astra-warehouse"]) {
+    color-scheme: dark;
+    --rs-bg: #0c1017;
+    --rs-bg-alt: #121822;
+    --rs-surface: #192230;
+    --rs-card-bg: #192230;
+    --rs-text: #e8eef5;
+    --rs-text-muted: #a6b5c7;
+    --rs-heading: #fde68a;
+    --rs-primary: #fbbf24;
+    --rs-on-primary: #07090d;
+    --rs-secondary: #38bdf8;
+    --rs-border: #2d3c52;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #fbbf24;
+}
+
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-ad-astra-warehouse, .narrative-theme-ad-astra-warehouse, [data-narrative-theme="ad-astra-warehouse"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-ad-astra-warehouse, .narrative-theme-ad-astra-warehouse, [data-narrative-theme="ad-astra-warehouse"]) {
+        color-scheme: dark;
+        --rs-bg: #0c1017;
+        --rs-bg-alt: #121822;
+        --rs-surface: #192230;
+        --rs-card-bg: #192230;
+        --rs-text: #e8eef5;
+        --rs-text-muted: #a6b5c7;
+        --rs-heading: #fde68a;
+        --rs-primary: #fbbf24;
+        --rs-on-primary: #07090d;
+        --rs-secondary: #38bdf8;
+        --rs-border: #2d3c52;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #fbbf24;
+    }
+}
+
+/* Atmospheric Reading Pane Framing (Light & Sepia) */
+:is(body, body.theme-oceanview):is(.theme-ad-astra-warehouse, .narrative-theme-ad-astra-warehouse, [data-narrative-theme="ad-astra-warehouse"]) #stardust-reading-pane,
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-ad-astra-warehouse, .narrative-theme-ad-astra-warehouse, [data-narrative-theme="ad-astra-warehouse"]) #stardust-reading-pane {
+    box-shadow: inset 0 6px 28px rgba(15, 76, 129, 0.06);
+}
+
+/* Atmospheric Reading Pane Framing (Dark & System Auto Dark) */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-ad-astra-warehouse, .narrative-theme-ad-astra-warehouse, [data-narrative-theme="ad-astra-warehouse"]) #stardust-reading-pane {
+    box-shadow: inset 0 8px 36px rgba(251, 191, 36, 0.07);
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-ad-astra-warehouse, .narrative-theme-ad-astra-warehouse, [data-narrative-theme="ad-astra-warehouse"]) #stardust-reading-pane,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-ad-astra-warehouse, .narrative-theme-ad-astra-warehouse, [data-narrative-theme="ad-astra-warehouse"]) #stardust-reading-pane {
+        box-shadow: inset 0 8px 36px rgba(251, 191, 36, 0.07);
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-ad-astra-warehouse, .narrative-theme-ad-astra-warehouse, [data-narrative-theme="ad-astra-warehouse"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-ad-astra-warehouse, .narrative-theme-ad-astra-warehouse, [data-narrative-theme="ad-astra-warehouse"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-ad-astra-warehouse, .narrative-theme-ad-astra-warehouse, [data-narrative-theme="ad-astra-warehouse"])::before,
+    body:is(.theme-ad-astra-warehouse, .narrative-theme-ad-astra-warehouse, [data-narrative-theme="ad-astra-warehouse"])::after {
+        display: none !important;
+    }
+}

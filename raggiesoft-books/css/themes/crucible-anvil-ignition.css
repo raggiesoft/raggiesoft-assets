@@ -1,211 +1,146 @@
 /**
  * ============================================================================
- * STARDUST THEME: CRUCIBLE ANVIL IGNITION (ACT I: THE ANVIL STRIKE & FORGERS)
+ * STARDUST ENGINE NARRATIVE THEME: CRUCIBLE ANVIL IGNITION (`crucible-anvil-ignition.css`)
  * ============================================================================
  *
- * Description:
- * This stylesheet (`crucible-anvil-ignition.css`) defines the bespoke
- * "Crucible Anvil Ignition" reading theme (`theme: "crucible-anvil-ignition"`)
- * for the Ocean View Archives / Stardust Engine. Created for Era 7, Chapter 4,
- * Part 2 ("8:00 PM — Act I: The Anvil Strike, The Marching Forgers & The
- * Stardust Engine") of *The Eleventh Child: The Story of Jordan*, it immerses
- * the reader in the seismic opening of *Live at the Crucible*: Ryan O'Connell's
- * spoken Progress Street cassette intro, the pitch-black stadium blackout at
- * 8:00 PM, Tyler Wright's steel brake-drum anvil strike (`TING... BOOM!`),
- * 65,000 fans executing "The Stomp" on the galvanized steel bleachers of The
- * Anvil during "Ignition: The Forger's Call", and the 300-piece CPI Marching
- * Forgers harmonizing with Cassidy's synthesizers on "CPI Tech Triumph" and
- * "The Stardust Engine".
+ * Architectural Overview:
+ * STARDUST THEME: CRUCIBLE ANVIL IGNITION (ACT I: THE ANVIL STRIKE & FORGERS) Description: This stylesheet (`crucible-anvil-ignition.css`) defines the bespoke "Crucible Anvil Ignition" reading theme (`theme: "crucible-anvil-ignition"`) for the Ocean View Archives / Stardust Engine. Created for Era 7, Chapter 4, Part 2 ("8:00 PM — Act I: The Anvil Strike, The Marching Forgers & The Stardust Engine") of *The Eleventh Child: The Story of Jordan*, it immerses the reader in the seismic opening of *Live at the Crucible*: Ryan O'Connell's
  *
- * Dual Stadium Concert Palette:
- * - Nocturnal Stadium Mode (`theme-auto` Default & `theme-dark` — "Molten Anvil
- *   Sparks, 300 Brass Horns & Seismic Ignition"):
- *   Because Act I begins at 8:00 PM when all four stadium floodlight banks cut
- *   to pitch black, `theme-auto` and `theme-dark` plunge the reader directly
- *   into a Deep Forge-Furnace Obsidian canvas (`#120907`) and Elevated Molten-
- *   Ember surface (`#24130f`) with White-Hot Forge Spark prose (`#fef7ed`),
- *   Blazing Marching-Forgers Brass Gold primary accents (`#fbbf24`), and
- *   Luminous CPI Foundry Maroon-Rose secondary accents (`#fb7185`), crowned by
- *   an overhead Foundry Maroon & Molten Orange flame-cannon stage glow.
- * - Explicit Light / Sepia Mode (`theme-light` & `theme-sepia` — "Tempered
- *   Forge-Copper, Polished Sousaphone Brass & Foundry Maroon"):
- *   Pairs a Rich Forge-Copper & Brass Parchment canvas (`#f6e5d5`) and Warm
- *   Burnished-Gold sidebar (`#ebd2ba`) with Cast-Iron Anvil Obsidian prose
- *   (`#1c110d`), Molten Forge-Hammer Rust-Orange primary accents (`#9a3412`),
- *   and Official CPI Foundry Maroon secondary accents (`#861f41`).
- *
- * WCAG 2.1 AA / AAA & Section 508 Contrast Verification:
- * - Light Mode:
- *   - Body Text (`#1c110d` on `#f6e5d5` bg): 15.24:1 (WCAG AAA)
- *   - Body Text (`#1c110d` on `#fffaf5` surface): 17.85:1 (WCAG AAA)
- *   - Primary Accent (`#9a3412` on `#f6e5d5` bg): 5.92:1 (WCAG AA)
- *   - Secondary Accent (`#861f41` on `#f6e5d5` bg): 6.64:1 (WCAG AA)
- * - Dark / Nocturnal Stadium Mode:
- *   - Body Text (`#fef7ed` on `#120907` bg): 17.82:1 (WCAG AAA)
- *   - Body Text (`#fef7ed` on `#24130f` surface): 14.88:1 (WCAG AAA)
- *   - Primary Accent (`#fbbf24` on `#120907` bg): 11.86:1 (WCAG AAA)
- *   - Secondary Accent (`#fb7185` on `#120907` bg): 7.92:1 (WCAG AAA)
- *   - Primary Button (`#ffffff` on `#861f41` fill): 8.21:1 (WCAG AAA)
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f6e5d5` / `#fffaf5` (`color-scheme: light`)
+ *     * Body Prose (`#1c110d`): 12.74:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#61544d`): 5.01:1 min (WCAG AA)
+ *     * Headings (`#6d1919`): 8.02:1 min (WCAG AAA)
+ *     * Primary Accent (`#9a3412`): 5.03:1 min (`--rs-on-primary: #ffffff` = 7.31:1)
+ *     * Secondary Accent (`#861f41`): 6.33:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#120907` / `#24130f` (`color-scheme: dark`)
+ *     * Body Prose (`#fef7ed`): 16.80:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#c1b9b1`): 9.23:1 min (WCAG AA)
+ *     * Headings (`#fde047`): 13.56:1 min (WCAG AAA)
+ *     * Primary Accent (`#fbbf24`): 10.71:1 min (`--rs-on-primary: #0a0504` = 12.14:1)
+ *     * Secondary Accent (`#fb7185`): 6.64:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Crucible Anvil Ignition (`crucible-anvil-ignition`) */
-
-/* --- 1. Nocturnal Stadium Concert Mode (Default `theme-auto` & `theme-dark`) --- */
-body.theme-crucible-anvil-ignition,
-body.theme-auto.theme-crucible-anvil-ignition,
-body.theme-dark.theme-crucible-anvil-ignition,
-body.theme-dark-sepia.theme-crucible-anvil-ignition {
-    color-scheme: dark;
-    --rs-bg: #120907;        /* Deep Forge-Furnace & Cast-Iron Anvil Night canvas */
-    --rs-bg-alt: #1c0d0a;    /* Glowing Crucible Tunnel sidebar background */
-    --rs-surface: #24130f;   /* Elevated Molten-Ember & Foundry-Maroon surface */
-    --rs-card-bg: #24130f;   /* Matching elevated dark container surface */
-    --rs-text: #fef7ed;      /* White-Hot Forge Spark prose text (17.82:1 contrast) */
-    --rs-heading: #fde047;   /* Polished Sousaphone Brass & Anvil Spark Gold heading */
-    --rs-primary: #fbbf24;   /* Blazing Marching-Forgers Brass Gold primary accent (11.86:1 contrast) */
-    --rs-secondary: #fb7185; /* Luminous CPI Foundry Maroon-Rose secondary accent (7.92:1 contrast) */
-    --rs-border: #54281f;    /* Tempered Forge-Steel & Maroon structural border */
-    accent-color: #fbbf24;
-    background-color: #120907;
-    color: #fef7ed;
-}
-
-body.theme-crucible-anvil-ignition #stardust-reading-pane,
-body.theme-auto.theme-crucible-anvil-ignition #stardust-reading-pane,
-body.theme-dark.theme-crucible-anvil-ignition #stardust-reading-pane,
-body.theme-dark-sepia.theme-crucible-anvil-ignition #stardust-reading-pane {
-    background:
-        radial-gradient(ellipse at 50% 0%, rgba(234, 88, 12, 0.22) 0%, rgba(134, 31, 65, 0.16) 38%, rgba(18, 9, 7, 0) 75%),
-        #120907;
-    box-shadow:
-        inset 0 10px 48px rgba(251, 191, 36, 0.14),
-        inset 0 -10px 48px rgba(134, 31, 65, 0.18);
-}
-
-body.theme-crucible-anvil-ignition .story-content blockquote,
-body.theme-auto.theme-crucible-anvil-ignition .story-content blockquote,
-body.theme-dark.theme-crucible-anvil-ignition .story-content blockquote,
-body.theme-dark-sepia.theme-crucible-anvil-ignition .story-content blockquote {
-    border-left: 4px solid #fbbf24;
-    background: linear-gradient(90deg, rgba(251, 191, 36, 0.14) 0%, rgba(134, 31, 65, 0.16) 100%);
-    padding: 0.85rem 1.25rem;
-    border-radius: 0 10px 10px 0;
-}
-
-body.theme-crucible-anvil-ignition .rs-btn-primary,
-body.theme-auto.theme-crucible-anvil-ignition .rs-btn-primary,
-body.theme-dark.theme-crucible-anvil-ignition .rs-btn-primary,
-body.theme-dark-sepia.theme-crucible-anvil-ignition .rs-btn-primary {
-    background-color: #861f41;
-    border-color: #fbbf24;
-    color: #ffffff;
-}
-
-body.theme-crucible-anvil-ignition .rs-btn-primary:hover,
-body.theme-auto.theme-crucible-anvil-ignition .rs-btn-primary:hover,
-body.theme-dark.theme-crucible-anvil-ignition .rs-btn-primary:hover,
-body.theme-dark-sepia.theme-crucible-anvil-ignition .rs-btn-primary:hover,
-body.theme-crucible-anvil-ignition .rs-btn-primary:focus-visible,
-body.theme-auto.theme-crucible-anvil-ignition .rs-btn-primary:focus-visible,
-body.theme-dark.theme-crucible-anvil-ignition .rs-btn-primary:focus-visible,
-body.theme-dark-sepia.theme-crucible-anvil-ignition .rs-btn-primary:focus-visible {
-    background-color: #9f1239;
-    border-color: #fde047;
-    color: #ffffff;
-}
-
-/* --- 2. Explicit Light & Sepia Mode (`theme-light` & `theme-sepia`) --- */
-body.theme-light.theme-crucible-anvil-ignition,
-body.theme-sepia.theme-crucible-anvil-ignition,
-body.theme-sepia-system.theme-crucible-anvil-ignition {
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-crucible-anvil-ignition, .narrative-theme-crucible-anvil-ignition, [data-narrative-theme="crucible-anvil-ignition"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-crucible-anvil-ignition, .narrative-theme-crucible-anvil-ignition, [data-narrative-theme="crucible-anvil-ignition"]) {
     color-scheme: light;
-    --rs-bg: #f6e5d5;        /* Rich Forge-Copper & Sousaphone-Brass Parchment canvas */
-    --rs-bg-alt: #ebd2ba;    /* Burnished Forger-Brass & Terracotta sidebar background */
-    --rs-surface: #fffaf5;   /* Warm Forge-Lit Ivory reading surface */
-    --rs-card-bg: #fffaf5;   /* Modal and card container surface */
-    --rs-text: #1c110d;      /* Cast-Iron Anvil Obsidian prose ink (15.24:1 contrast) */
-    --rs-heading: #7f1d1d;   /* Blazing Forge-Maroon heading token */
-    --rs-primary: #9a3412;   /* Molten Forge-Hammer Copper-Orange primary accent (5.92:1 contrast) */
-    --rs-secondary: #861f41; /* Official CPI Foundry Maroon secondary accent (6.64:1 contrast) */
-    --rs-border: #d4b091;    /* Polished Brass & Copper structural border */
+    --rs-bg: #f6e5d5;
+    --rs-bg-alt: #ebd2ba;
+    --rs-surface: #fffaf5;
+    --rs-card-bg: #fffaf5;
+    --rs-text: #1c110d;
+    --rs-text-muted: #61544d;
+    --rs-heading: #6d1919;
+    --rs-primary: #9a3412;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #861f41;
+    --rs-border: #d4b091;
+    --rs-asl: #035b8c;
+    --rs-gesture: #4338ca;
     accent-color: #9a3412;
-    background-color: #f6e5d5;
-    color: #1c110d;
 }
 
-@media (prefers-color-scheme: light) {
-    body.theme-light.theme-crucible-anvil-ignition,
-    body.theme-sepia.theme-crucible-anvil-ignition,
-    body.theme-sepia-system.theme-crucible-anvil-ignition {
-        color-scheme: light;
-        --rs-bg: #f6e5d5;
-        --rs-bg-alt: #ebd2ba;
-        --rs-surface: #fffaf5;
-        --rs-card-bg: #fffaf5;
-        --rs-text: #1c110d;
-        --rs-heading: #7f1d1d;
-        --rs-primary: #9a3412;
-        --rs-secondary: #861f41;
-        --rs-border: #d4b091;
-        accent-color: #9a3412;
-    }
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-crucible-anvil-ignition, .narrative-theme-crucible-anvil-ignition, [data-narrative-theme="crucible-anvil-ignition"]) {
+    color-scheme: dark;
+    --rs-bg: #120907;
+    --rs-bg-alt: #1c0d0a;
+    --rs-surface: #24130f;
+    --rs-card-bg: #24130f;
+    --rs-text: #fef7ed;
+    --rs-text-muted: #c1b9b1;
+    --rs-heading: #fde047;
+    --rs-primary: #fbbf24;
+    --rs-on-primary: #0a0504;
+    --rs-secondary: #fb7185;
+    --rs-border: #54281f;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #fbbf24;
 }
 
-body.theme-light.theme-crucible-anvil-ignition #stardust-reading-pane,
-body.theme-sepia.theme-crucible-anvil-ignition #stardust-reading-pane,
-body.theme-sepia-system.theme-crucible-anvil-ignition #stardust-reading-pane {
-    background:
-        radial-gradient(ellipse at 50% 0%, rgba(154, 52, 18, 0.14) 0%, rgba(134, 31, 65, 0.08) 40%, rgba(246, 229, 213, 0) 75%),
-        #f6e5d5;
-    box-shadow:
-        inset 0 10px 40px rgba(154, 52, 18, 0.12),
-        inset 0 -8px 34px rgba(134, 31, 65, 0.09);
-}
-
-body.theme-light.theme-crucible-anvil-ignition .story-content blockquote,
-body.theme-sepia.theme-crucible-anvil-ignition .story-content blockquote,
-body.theme-sepia-system.theme-crucible-anvil-ignition .story-content blockquote {
-    border-left: 4px solid #9a3412;
-    background: linear-gradient(90deg, rgba(154, 52, 18, 0.11) 0%, rgba(134, 31, 65, 0.06) 100%);
-    padding: 0.85rem 1.25rem;
-    border-radius: 0 10px 10px 0;
-}
-
-/* --- 3. Dark Mode OS Preference Reinforcement (`prefers-color-scheme: dark`) --- */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-crucible-anvil-ignition,
-    body.theme-sepia-system.theme-crucible-anvil-ignition {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-crucible-anvil-ignition, .narrative-theme-crucible-anvil-ignition, [data-narrative-theme="crucible-anvil-ignition"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-crucible-anvil-ignition, .narrative-theme-crucible-anvil-ignition, [data-narrative-theme="crucible-anvil-ignition"]) {
         color-scheme: dark;
         --rs-bg: #120907;
         --rs-bg-alt: #1c0d0a;
         --rs-surface: #24130f;
         --rs-card-bg: #24130f;
         --rs-text: #fef7ed;
+        --rs-text-muted: #c1b9b1;
         --rs-heading: #fde047;
         --rs-primary: #fbbf24;
+        --rs-on-primary: #0a0504;
         --rs-secondary: #fb7185;
         --rs-border: #54281f;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
         accent-color: #fbbf24;
     }
 }
 
-/* --- 4. Forced Colors (Windows High Contrast Mode) Safety --- */
+/* Atmospheric Reading Pane Framing (Light & Sepia) */
+:is(body, body.theme-oceanview):is(.theme-crucible-anvil-ignition, .narrative-theme-crucible-anvil-ignition, [data-narrative-theme="crucible-anvil-ignition"]) #stardust-reading-pane,
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-crucible-anvil-ignition, .narrative-theme-crucible-anvil-ignition, [data-narrative-theme="crucible-anvil-ignition"]) #stardust-reading-pane {
+    background: radial-gradient(ellipse at 50% 0%, rgba(154, 52, 18, 0.14) 0%, rgba(134, 31, 65, 0.08) 40%, rgba(246, 229, 213, 0) 75%), #f6e5d5; box-shadow: inset 0 10px 40px rgba(154, 52, 18, 0.12), inset 0 -8px 34px rgba(134, 31, 65, 0.09);
+}
+
+:is(body, body.theme-oceanview):is(.theme-crucible-anvil-ignition, .narrative-theme-crucible-anvil-ignition, [data-narrative-theme="crucible-anvil-ignition"]) .story-content blockquote,
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-crucible-anvil-ignition, .narrative-theme-crucible-anvil-ignition, [data-narrative-theme="crucible-anvil-ignition"]) .story-content blockquote {
+    border-left: 4px solid #9a3412; background: linear-gradient(90deg, rgba(154, 52, 18, 0.11) 0%, rgba(134, 31, 65, 0.06) 100%); padding: 0.85rem 1.25rem; border-radius: 0 10px 10px 0;
+}
+
+/* Atmospheric Reading Pane Framing (Dark & System Auto Dark) */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-crucible-anvil-ignition, .narrative-theme-crucible-anvil-ignition, [data-narrative-theme="crucible-anvil-ignition"]) #stardust-reading-pane {
+    background: radial-gradient(ellipse at 50% 0%, rgba(234, 88, 12, 0.22) 0%, rgba(134, 31, 65, 0.16) 38%, rgba(18, 9, 7, 0) 75%), #120907; box-shadow: inset 0 10px 48px rgba(251, 191, 36, 0.14), inset 0 -10px 48px rgba(134, 31, 65, 0.18);
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-crucible-anvil-ignition, .narrative-theme-crucible-anvil-ignition, [data-narrative-theme="crucible-anvil-ignition"]) #stardust-reading-pane,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-crucible-anvil-ignition, .narrative-theme-crucible-anvil-ignition, [data-narrative-theme="crucible-anvil-ignition"]) #stardust-reading-pane {
+        background: radial-gradient(ellipse at 50% 0%, rgba(234, 88, 12, 0.22) 0%, rgba(134, 31, 65, 0.16) 38%, rgba(18, 9, 7, 0) 75%), #120907; box-shadow: inset 0 10px 48px rgba(251, 191, 36, 0.14), inset 0 -10px 48px rgba(134, 31, 65, 0.18);
+    }
+}
+
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-crucible-anvil-ignition, .narrative-theme-crucible-anvil-ignition, [data-narrative-theme="crucible-anvil-ignition"]) .story-content blockquote {
+    border-left: 4px solid #fbbf24; background: linear-gradient(90deg, rgba(251, 191, 36, 0.14) 0%, rgba(134, 31, 65, 0.16) 100%); padding: 0.85rem 1.25rem; border-radius: 0 10px 10px 0;
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-crucible-anvil-ignition, .narrative-theme-crucible-anvil-ignition, [data-narrative-theme="crucible-anvil-ignition"]) .story-content blockquote,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-crucible-anvil-ignition, .narrative-theme-crucible-anvil-ignition, [data-narrative-theme="crucible-anvil-ignition"]) .story-content blockquote {
+        border-left: 4px solid #fbbf24; background: linear-gradient(90deg, rgba(251, 191, 36, 0.14) 0%, rgba(134, 31, 65, 0.16) 100%); padding: 0.85rem 1.25rem; border-radius: 0 10px 10px 0;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
 @media (forced-colors: active) {
-    body.theme-crucible-anvil-ignition {
+    body:is(.theme-crucible-anvil-ignition, .narrative-theme-crucible-anvil-ignition, [data-narrative-theme="crucible-anvil-ignition"]) {
         --rs-bg: Canvas;
         --rs-bg-alt: Canvas;
         --rs-surface: Canvas;
         --rs-card-bg: Canvas;
         --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
         --rs-heading: CanvasText;
         --rs-primary: LinkText;
-        --rs-secondary: Highlight;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
         --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
     }
-
-    body.theme-crucible-anvil-ignition #stardust-reading-pane {
-        background: Canvas;
-        box-shadow: none;
+    body:is(.theme-crucible-anvil-ignition, .narrative-theme-crucible-anvil-ignition, [data-narrative-theme="crucible-anvil-ignition"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-crucible-anvil-ignition, .narrative-theme-crucible-anvil-ignition, [data-narrative-theme="crucible-anvil-ignition"])::before,
+    body:is(.theme-crucible-anvil-ignition, .narrative-theme-crucible-anvil-ignition, [data-narrative-theme="crucible-anvil-ignition"])::after {
+        display: none !important;
     }
 }

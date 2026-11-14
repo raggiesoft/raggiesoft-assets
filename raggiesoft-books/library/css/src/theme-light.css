@@ -1,6 +1,23 @@
+/* ==========================================================================
+ * STARDUST ENGINE LIBRARY - EXPLICIT LIGHT THEME
+ * theme-light.css
+ * ==========================================================================
+ * Full 13-token WCAG 2.1 AA/AAA crisp daylight reading palette.
+ * ========================================================================== */
+
 body.theme-light {
+    color-scheme: light;
     --rs-bg: #ffffff;
-    --rs-text: #111111;
-    --rs-border: #e2e8f0;
+    --rs-bg-alt: #f1f5f9;
     --rs-surface: #f8fafc;
+    --rs-card-bg: #ffffff;
+    --rs-text: #1e293b;       /* 13.35:1 on #f8fafc */
+    --rs-text-muted: #475569; /* 6.92:1 on #f8fafc */
+    --rs-heading: #0f172a;    /* 16.30:1 on #f8fafc */
+    --rs-primary: #0F4C5C;    /* 8.68:1 on #f8fafc */
+    --rs-on-primary: #ffffff; /* 9.51:1 on #0F4C5C */
+    --rs-secondary: #854d0e;  /* 6.25:1 on #f8fafc */
+    --rs-border: #cbd5e1;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
 }

@@ -1,71 +1,114 @@
 /**
  * ============================================================================
- * RAGGIESOFT THEME: SUNSTEAD PEACE DISRUPTED
+ * STARDUST ENGINE NARRATIVE THEME: SUNSTEAD PEACE DISRUPTED (`sunstead-peace-disrupted.css`)
  * ============================================================================
- * Architecture & Purpose:
- * Defines the "Sunstead Peace Disrupted" theme, characterized by stark,
- * urgent red accents contrasting against neutral greys and blacks. It represents
- * a high-tension or alert state in the UI.
- * 
- * Key Design Elements:
- * - Employs a strict hierarchy of light/dark modes using specificity-driven selectors.
- * - Variables map directly into the core application's `--rs-*` color structure.
- * 
- * Maintenance Notes:
- * - Selector specificity must be strictly maintained (`body.theme-light.theme-sunstead-peace-disrupted`)
- *   so explicit user toggles always override OS-level (`prefers-color-scheme`) preferences.
- * - The `theme-auto` class handles the bridging logic between manual toggle states
- *   and system preferences.
+ *
+ * Architectural Overview:
+ * RAGGIESOFT THEME: SUNSTEAD PEACE DISRUPTED Architecture & Purpose: Defines the "Sunstead Peace Disrupted" theme, characterized by stark, urgent red accents contrasting against neutral greys and blacks. It represents a high-tension or alert state in the UI. Key Design Elements: - Employs a strict hierarchy of light/dark modes using specificity-driven selectors. - Variables map directly into the core application's `--rs-*` color structure.
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#fafafa` / `#f4f4f5` (`color-scheme: light`)
+ *     * Body Prose (`#27272a`): 13.27:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#676769`): 5.03:1 min (WCAG AA)
+ *     * Headings (`#1d1d20`): 14.98:1 min (WCAG AAA)
+ *     * Primary Accent (`#b91c1c`): 5.77:1 min (`--rs-on-primary: #ffffff` = 6.47:1)
+ *     * Secondary Accent (`#c92020`): 5.04:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#18181b` / `#27272a` (`color-scheme: dark`)
+ *     * Body Prose (`#fafafa`): 14.27:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#bfbfc0`): 8.11:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 14.24:1 min (WCAG AAA)
+ *     * Primary Accent (`#f37070`): 5.22:1 min (`--rs-on-primary: #0d0d0f` = 6.81:1)
+ *     * Secondary Accent (`#f87171`): 5.38:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Sunstead Peace Disrupted */
-
-/* -------------------------------------------------------------------------
- * 1. Light Mode (Base Palette)
- * ------------------------------------------------------------------------- */
-/* Applies as the default when no specific mode is forced, or when Light Mode is explicitly chosen */
-body.theme-sunstead-peace-disrupted,
-body.theme-light.theme-sunstead-peace-disrupted {
-    --rs-bg: #fafafa; /* Off-white background for reduced glare */
-    --rs-surface: #f4f4f5; /* Slightly raised grey surface for cards */
-    --rs-text: #27272a; /* Deep zinc-grey for highly legible text */
-    --rs-primary: #b91c1c; /* Urgent, deep red accent indicating 'disruption' */
-    --rs-secondary: #dc2626; /* Brighter red for hover states and secondary emphasis */
-    --rs-border: #e4e4e7; /* Subtle zinc border for structural division */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-sunstead-peace-disrupted, .narrative-theme-sunstead-peace-disrupted, [data-narrative-theme="sunstead-peace-disrupted"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-sunstead-peace-disrupted, .narrative-theme-sunstead-peace-disrupted, [data-narrative-theme="sunstead-peace-disrupted"]) {
+    color-scheme: light;
+    --rs-bg: #fafafa;
+    --rs-bg-alt: #f0f2f4;
+    --rs-surface: #f4f4f5;
+    --rs-card-bg: #f4f4f5;
+    --rs-text: #27272a;
+    --rs-text-muted: #676769;
+    --rs-heading: #1d1d20;
+    --rs-primary: #b91c1c;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #c92020;
+    --rs-border: #e4e4e7;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #b91c1c;
 }
 
-/* -------------------------------------------------------------------------
- * 2. Dark Mode (Explicitly Forced)
- * ------------------------------------------------------------------------- */
-/* Takes precedence only when the user explicitly forces the UI into Dark Mode */
-body.theme-dark.theme-sunstead-peace-disrupted {
-    --rs-bg: #18181b; /* Extremely dark zinc background */
-    --rs-surface: #27272a; /* Lighter zinc surface color to lift elements */
-    --rs-text: #fafafa; /* Bright off-white text for dark contrast */
-    --rs-primary: #ef4444; /* Vivid red accent, brightened for dark backgrounds */
-    --rs-secondary: #f87171; /* Softened red for secondary text/elements */
-    --rs-border: #3f3f46; /* Mid-tone zinc border to separate dark elements */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-sunstead-peace-disrupted, .narrative-theme-sunstead-peace-disrupted, [data-narrative-theme="sunstead-peace-disrupted"]) {
+    color-scheme: dark;
+    --rs-bg: #18181b;
+    --rs-bg-alt: #212124;
+    --rs-surface: #27272a;
+    --rs-card-bg: #27272a;
+    --rs-text: #fafafa;
+    --rs-text-muted: #bfbfc0;
+    --rs-heading: #f8fafc;
+    --rs-primary: #f37070;
+    --rs-on-primary: #0d0d0f;
+    --rs-secondary: #f87171;
+    --rs-border: #3f3f46;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #f37070;
 }
 
-/* -------------------------------------------------------------------------
- * 3. OS Auto Dark Mode Support
- * ------------------------------------------------------------------------- */
-/* Evaluates system preferences via media query when the user hasn't made an explicit choice */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    /* 
-     * Targets `theme-auto` or the absence of both `theme-light` and `theme-dark`.
-     * This ensures manual overrides (like clicking a light-mode button) will break out
-     * of this media query's influence.
-     */
-    body.theme-auto.theme-sunstead-peace-disrupted,
-    body:not(.theme-light):not(.theme-dark).theme-sunstead-peace-disrupted {
-        /* Mirrored from the Explicit Dark Mode palette */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-sunstead-peace-disrupted, .narrative-theme-sunstead-peace-disrupted, [data-narrative-theme="sunstead-peace-disrupted"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-sunstead-peace-disrupted, .narrative-theme-sunstead-peace-disrupted, [data-narrative-theme="sunstead-peace-disrupted"]) {
+        color-scheme: dark;
         --rs-bg: #18181b;
+        --rs-bg-alt: #212124;
         --rs-surface: #27272a;
+        --rs-card-bg: #27272a;
         --rs-text: #fafafa;
-        --rs-primary: #ef4444;
+        --rs-text-muted: #bfbfc0;
+        --rs-heading: #f8fafc;
+        --rs-primary: #f37070;
+        --rs-on-primary: #0d0d0f;
         --rs-secondary: #f87171;
         --rs-border: #3f3f46;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #f37070;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-sunstead-peace-disrupted, .narrative-theme-sunstead-peace-disrupted, [data-narrative-theme="sunstead-peace-disrupted"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-sunstead-peace-disrupted, .narrative-theme-sunstead-peace-disrupted, [data-narrative-theme="sunstead-peace-disrupted"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-sunstead-peace-disrupted, .narrative-theme-sunstead-peace-disrupted, [data-narrative-theme="sunstead-peace-disrupted"])::before,
+    body:is(.theme-sunstead-peace-disrupted, .narrative-theme-sunstead-peace-disrupted, [data-narrative-theme="sunstead-peace-disrupted"])::after {
+        display: none !important;
     }
 }

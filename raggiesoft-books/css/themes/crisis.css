@@ -1,0 +1,131 @@
+/**
+ * ============================================================================
+ * STARDUST ENGINE NARRATIVE THEME: CRISIS (HIGH-ALERT EMERGENCY PERIMETER) (`crisis.css`)
+ * ============================================================================
+ *
+ * Architectural Overview:
+ * Created for acute high-stakes emergency chapters in *Aubrie* (`books/aubrie/e007`), pairing static, sensory-safe high-contrast slate and crimson alert tokens without strobing or eye-straining glare.
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f9f4f5` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#1f1215`): 14.90:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#543b40`): 8.29:1 min (WCAG AA)
+ *     * Headings (`#7f1d1d`): 8.22:1 min (WCAG AAA)
+ *     * Primary Accent (`#991b1b`): 6.82:1 min (`--rs-on-primary: #ffffff` = 8.31:1)
+ *     * Secondary Accent (`#334155`): 8.49:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#13090b` / `#261317` (`color-scheme: dark`)
+ *     * Body Prose (`#f9ecef`): 15.38:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#cfaeb5`): 8.73:1 min (WCAG AA)
+ *     * Headings (`#fecdd3`): 12.53:1 min (WCAG AAA)
+ *     * Primary Accent (`#f87171`): 6.39:1 min (`--rs-on-primary: #0a0506` = 7.32:1)
+ *     * Secondary Accent (`#93c5fd`): 9.80:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
+ * ============================================================================
+ */
+
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-crisis, .narrative-theme-crisis, [data-narrative-theme="crisis"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-crisis, .narrative-theme-crisis, [data-narrative-theme="crisis"]) {
+    color-scheme: light;
+    --rs-bg: #f9f4f5;
+    --rs-bg-alt: #f1e6e8;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #1f1215;
+    --rs-text-muted: #543b40;
+    --rs-heading: #7f1d1d;
+    --rs-primary: #991b1b;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #334155;
+    --rs-border: #dfc7cb;
+    --rs-asl: #03679f;
+    --rs-gesture: #4338ca;
+    accent-color: #991b1b;
+}
+
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-crisis, .narrative-theme-crisis, [data-narrative-theme="crisis"]) {
+    color-scheme: dark;
+    --rs-bg: #13090b;
+    --rs-bg-alt: #1c0e11;
+    --rs-surface: #261317;
+    --rs-card-bg: #261317;
+    --rs-text: #f9ecef;
+    --rs-text-muted: #cfaeb5;
+    --rs-heading: #fecdd3;
+    --rs-primary: #f87171;
+    --rs-on-primary: #0a0506;
+    --rs-secondary: #93c5fd;
+    --rs-border: #4f252d;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #f87171;
+}
+
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-crisis, .narrative-theme-crisis, [data-narrative-theme="crisis"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-crisis, .narrative-theme-crisis, [data-narrative-theme="crisis"]) {
+        color-scheme: dark;
+        --rs-bg: #13090b;
+        --rs-bg-alt: #1c0e11;
+        --rs-surface: #261317;
+        --rs-card-bg: #261317;
+        --rs-text: #f9ecef;
+        --rs-text-muted: #cfaeb5;
+        --rs-heading: #fecdd3;
+        --rs-primary: #f87171;
+        --rs-on-primary: #0a0506;
+        --rs-secondary: #93c5fd;
+        --rs-border: #4f252d;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #f87171;
+    }
+}
+
+/* Atmospheric Reading Pane Framing (Light & Sepia) */
+:is(body, body.theme-oceanview):is(.theme-crisis, .narrative-theme-crisis, [data-narrative-theme="crisis"]) #stardust-reading-pane,
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-crisis, .narrative-theme-crisis, [data-narrative-theme="crisis"]) #stardust-reading-pane {
+    box-shadow: inset 0 0 48px rgba(153, 27, 27, 0.06);
+}
+
+/* Atmospheric Reading Pane Framing (Dark & System Auto Dark) */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-crisis, .narrative-theme-crisis, [data-narrative-theme="crisis"]) #stardust-reading-pane {
+    box-shadow: inset 0 0 56px rgba(248, 113, 113, 0.09);
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-crisis, .narrative-theme-crisis, [data-narrative-theme="crisis"]) #stardust-reading-pane,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-crisis, .narrative-theme-crisis, [data-narrative-theme="crisis"]) #stardust-reading-pane {
+        box-shadow: inset 0 0 56px rgba(248, 113, 113, 0.09);
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-crisis, .narrative-theme-crisis, [data-narrative-theme="crisis"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-crisis, .narrative-theme-crisis, [data-narrative-theme="crisis"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-crisis, .narrative-theme-crisis, [data-narrative-theme="crisis"])::before,
+    body:is(.theme-crisis, .narrative-theme-crisis, [data-narrative-theme="crisis"])::after {
+        display: none !important;
+    }
+}

@@ -1,66 +1,114 @@
 /**
  * ============================================================================
- * STARDUST THEME: SUNSTEAD TENSION - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: SUNSTEAD TENSION (`sunstead-tension.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines the "Sunstead Tension" reading theme for the Stardust 
- * Engine. It utilizes high-contrast greens, ranging from pale lime to deep 
- * forest, to create an eerie, naturalistic, or suspenseful reading environment.
- * 
- * Core Components:
- * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
- *    the main reader layout (reader.css).
- * 2. Theme Cascade: Implements three specific states to handle user preferences 
- *    and OS-level settings:
- *    - Light Mode (Default/Base fallback - extremely pale lime background)
- *    - Forced Dark Mode (Deep forest/swamp green background with bright lime text)
- *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
- * 
- * Maintainability Notes:
- * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
- *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
- *   state to prevent visual regressions during theme swapping.
- * - Always duplicate the Forced Dark Mode variables into the `@media` query 
- *   block to ensure visual consistency when OS Auto mode triggers.
+ *
+ * Architectural Overview:
+ * STARDUST THEME: SUNSTEAD TENSION - ARCHITECTURAL OVERVIEW Description: This stylesheet defines the "Sunstead Tension" reading theme for the Stardust Engine. It utilizes high-contrast greens, ranging from pale lime to deep forest, to create an eerie, naturalistic, or suspenseful reading environment. Core Components: 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by the main reader layout (reader.css).
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f7fee7` / `#ecfccb` (`color-scheme: light`)
+ *     * Body Prose (`#34510f`): 8.07:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#5c6d45`): 5.04:1 min (WCAG AA)
+ *     * Headings (`#273d0b`): 10.69:1 min (WCAG AAA)
+ *     * Primary Accent (`#48730e`): 5.04:1 min (`--rs-on-primary: #ffffff` = 5.62:1)
+ *     * Secondary Accent (`#487309`): 5.04:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#1a2e05` / `#334e11` (`color-scheme: dark`)
+ *     * Body Prose (`#f8fafc`): 8.97:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#bec5bc`): 5.32:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 8.97:1 min (WCAG AAA)
+ *     * Primary Accent (`#a3e635`): 6.22:1 min (`--rs-on-primary: #0e1903` = 12.02:1)
+ *     * Secondary Accent (`#88d217`): 5.04:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Sunstead Tension */
-
-/* --- 1. Light Mode (Base) --- */
-/* Acts as the default state and explicitly forced light mode */
-body.theme-sunstead-tension,
-body.theme-light.theme-sunstead-tension {
-    --rs-bg: #f7fee7; /* Very pale, almost yellow-green */
-    --rs-surface: #ecfccb; /* Soft lime surface */
-    --rs-text: #3f6212; /* Dark olive text */
-    --rs-primary: #4d7c0f; /* Strong leaf green primary */
-    --rs-secondary: #65a30d; /* Brighter green secondary */
-    --rs-border: #d9f99d; /* Lime border */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-sunstead-tension, .narrative-theme-sunstead-tension, [data-narrative-theme="sunstead-tension"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-sunstead-tension, .narrative-theme-sunstead-tension, [data-narrative-theme="sunstead-tension"]) {
+    color-scheme: light;
+    --rs-bg: #f7fee7;
+    --rs-bg-alt: #edf5e6;
+    --rs-surface: #ecfccb;
+    --rs-card-bg: #ecfccb;
+    --rs-text: #34510f;
+    --rs-text-muted: #5c6d45;
+    --rs-heading: #273d0b;
+    --rs-primary: #48730e;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #487309;
+    --rs-border: #d9f99d;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #48730e;
 }
 
-/* --- 2. Dark Mode (Explicitly Forced) --- */
-/* Applied when the user manually toggles the reader to Dark Mode */
-body.theme-dark.theme-sunstead-tension {
-    --rs-bg: #1a2e05; /* Near-black forest green */
-    --rs-surface: #3f6212; /* Elevated dark olive surface */
-    --rs-text: #f7fee7; /* Pale yellow-green text */
-    --rs-primary: #a3e635; /* Electric lime primary accent */
-    --rs-secondary: #84cc16; /* Muted lime secondary */
-    --rs-border: #4d7c0f; /* Leaf green border */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-sunstead-tension, .narrative-theme-sunstead-tension, [data-narrative-theme="sunstead-tension"]) {
+    color-scheme: dark;
+    --rs-bg: #1a2e05;
+    --rs-bg-alt: #23360f;
+    --rs-surface: #334e11;
+    --rs-card-bg: #334e11;
+    --rs-text: #f8fafc;
+    --rs-text-muted: #bec5bc;
+    --rs-heading: #f8fafc;
+    --rs-primary: #a3e635;
+    --rs-on-primary: #0e1903;
+    --rs-secondary: #88d217;
+    --rs-border: #3f6014;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c6b8fd;
+    accent-color: #a3e635;
 }
 
-/* --- 3. OS Auto Dark Mode --- */
-/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-sunstead-tension,
-    body:not(.theme-light):not(.theme-dark).theme-sunstead-tension {
-        --rs-bg: #1a2e05; /* Matches Forced Dark Mode */
-        --rs-surface: #3f6212;
-        --rs-text: #f7fee7;
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-sunstead-tension, .narrative-theme-sunstead-tension, [data-narrative-theme="sunstead-tension"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-sunstead-tension, .narrative-theme-sunstead-tension, [data-narrative-theme="sunstead-tension"]) {
+        color-scheme: dark;
+        --rs-bg: #1a2e05;
+        --rs-bg-alt: #23360f;
+        --rs-surface: #334e11;
+        --rs-card-bg: #334e11;
+        --rs-text: #f8fafc;
+        --rs-text-muted: #bec5bc;
+        --rs-heading: #f8fafc;
         --rs-primary: #a3e635;
-        --rs-secondary: #84cc16;
-        --rs-border: #4d7c0f;
+        --rs-on-primary: #0e1903;
+        --rs-secondary: #88d217;
+        --rs-border: #3f6014;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c6b8fd;
+        accent-color: #a3e635;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-sunstead-tension, .narrative-theme-sunstead-tension, [data-narrative-theme="sunstead-tension"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-sunstead-tension, .narrative-theme-sunstead-tension, [data-narrative-theme="sunstead-tension"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-sunstead-tension, .narrative-theme-sunstead-tension, [data-narrative-theme="sunstead-tension"])::before,
+    body:is(.theme-sunstead-tension, .narrative-theme-sunstead-tension, [data-narrative-theme="sunstead-tension"])::after {
+        display: none !important;
     }
 }

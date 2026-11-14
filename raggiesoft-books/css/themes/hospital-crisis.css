@@ -1,0 +1,131 @@
+/**
+ * ============================================================================
+ * STARDUST ENGINE NARRATIVE THEME: HOSPITAL CRISIS (CLINICAL ICU TELEMETRY & NIGHT-SHIFT VIGIL) (`hospital-crisis.css`)
+ * ============================================================================
+ *
+ * Architectural Overview:
+ * Created for the surgical and ICU vigil chapters of *Aubrie* (`books/aubrie/e007/c004`–`c005`), pairing sterile clinical daylight and telemetry blue in Light Mode with hushed night-shift ICU monitor slate, pulse-oximeter cyan, and vital-sign rose in Dark Mode.
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f2f7fa` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#0f1c26`): 14.56:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#3b4f61`): 7.14:1 min (WCAG AA)
+ *     * Headings (`#0c496d`): 8.08:1 min (WCAG AAA)
+ *     * Primary Accent (`#0369a0`): 5.01:1 min (`--rs-on-primary: #ffffff` = 5.95:1)
+ *     * Secondary Accent (`#991b1b`): 7.00:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#081018` / `#142332` (`color-scheme: dark`)
+ *     * Body Prose (`#e8f1f8`): 13.96:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#a3bacf`): 7.96:1 min (WCAG AA)
+ *     * Headings (`#bae6fd`): 12.02:1 min (WCAG AAA)
+ *     * Primary Accent (`#38bdf8`): 7.45:1 min (`--rs-on-primary: #04090d` = 9.34:1)
+ *     * Secondary Accent (`#fca5a5`): 8.41:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
+ * ============================================================================
+ */
+
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-hospital-crisis, .narrative-theme-hospital-crisis, [data-narrative-theme="hospital-crisis"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-hospital-crisis, .narrative-theme-hospital-crisis, [data-narrative-theme="hospital-crisis"]) {
+    color-scheme: light;
+    --rs-bg: #f2f7fa;
+    --rs-bg-alt: #e3edf4;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #0f1c26;
+    --rs-text-muted: #3b4f61;
+    --rs-heading: #0c496d;
+    --rs-primary: #0369a0;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #991b1b;
+    --rs-border: #c2d4e3;
+    --rs-asl: #0369a0;
+    --rs-gesture: #4338ca;
+    accent-color: #0369a0;
+}
+
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-hospital-crisis, .narrative-theme-hospital-crisis, [data-narrative-theme="hospital-crisis"]) {
+    color-scheme: dark;
+    --rs-bg: #081018;
+    --rs-bg-alt: #0e1924;
+    --rs-surface: #142332;
+    --rs-card-bg: #142332;
+    --rs-text: #e8f1f8;
+    --rs-text-muted: #a3bacf;
+    --rs-heading: #bae6fd;
+    --rs-primary: #38bdf8;
+    --rs-on-primary: #04090d;
+    --rs-secondary: #fca5a5;
+    --rs-border: #264059;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #38bdf8;
+}
+
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-hospital-crisis, .narrative-theme-hospital-crisis, [data-narrative-theme="hospital-crisis"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-hospital-crisis, .narrative-theme-hospital-crisis, [data-narrative-theme="hospital-crisis"]) {
+        color-scheme: dark;
+        --rs-bg: #081018;
+        --rs-bg-alt: #0e1924;
+        --rs-surface: #142332;
+        --rs-card-bg: #142332;
+        --rs-text: #e8f1f8;
+        --rs-text-muted: #a3bacf;
+        --rs-heading: #bae6fd;
+        --rs-primary: #38bdf8;
+        --rs-on-primary: #04090d;
+        --rs-secondary: #fca5a5;
+        --rs-border: #264059;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #38bdf8;
+    }
+}
+
+/* Atmospheric Reading Pane Framing (Light & Sepia) */
+:is(body, body.theme-oceanview):is(.theme-hospital-crisis, .narrative-theme-hospital-crisis, [data-narrative-theme="hospital-crisis"]) #stardust-reading-pane,
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-hospital-crisis, .narrative-theme-hospital-crisis, [data-narrative-theme="hospital-crisis"]) #stardust-reading-pane {
+    box-shadow: inset 0 6px 28px rgba(3, 105, 161, 0.06);
+}
+
+/* Atmospheric Reading Pane Framing (Dark & System Auto Dark) */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-hospital-crisis, .narrative-theme-hospital-crisis, [data-narrative-theme="hospital-crisis"]) #stardust-reading-pane {
+    box-shadow: inset 0 8px 36px rgba(56, 189, 248, 0.08);
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-hospital-crisis, .narrative-theme-hospital-crisis, [data-narrative-theme="hospital-crisis"]) #stardust-reading-pane,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-hospital-crisis, .narrative-theme-hospital-crisis, [data-narrative-theme="hospital-crisis"]) #stardust-reading-pane {
+        box-shadow: inset 0 8px 36px rgba(56, 189, 248, 0.08);
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-hospital-crisis, .narrative-theme-hospital-crisis, [data-narrative-theme="hospital-crisis"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-hospital-crisis, .narrative-theme-hospital-crisis, [data-narrative-theme="hospital-crisis"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-hospital-crisis, .narrative-theme-hospital-crisis, [data-narrative-theme="hospital-crisis"])::before,
+    body:is(.theme-hospital-crisis, .narrative-theme-hospital-crisis, [data-narrative-theme="hospital-crisis"])::after {
+        display: none !important;
+    }
+}

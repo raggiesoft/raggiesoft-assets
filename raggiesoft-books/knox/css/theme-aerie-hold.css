@@ -3,69 +3,76 @@
  * FILE: theme-aerie-hold.css
  * ============================================================================
  * ARCHITECTURAL OVERVIEW:
- * This stylesheet provides specific color overrides and component-level 
- * variable mapping for the 'Aerie-Hold' (Weave/Greenhouse) sub-theme. 
- * It handles the nuanced `color-mix` functions and translucent borders 
- * that give the theme its atmospheric, misty quality.
- * 
- * DESIGN SYSTEM INTEGRATION:
- * - Uses native CSS `@media (prefers-color-scheme: dark)` alongside 
- *   Bootstrap variables to handle system-level dark mode gracefully.
- * - Defines narrative-specific functional colors (Primary = Weave, Warning = Rust).
- * 
- * FUTURE MAINTENANCE:
- * - The `color-mix()` function for link hover states may not be supported in 
- *   very old browsers. Monitor analytics; if legacy support is required, 
- *   replace with hardcoded hex values.
- * - Ensure high contrast ratios are maintained between `--bs-body-bg` and 
- *   `--bs-body-color` if the "Greenhouse Mist" palette is adjusted.
+ * Provides WCAG 2.1 AA/AAA color overrides and component-level Bootstrap
+ * variable mappings for the 'Aerie-Hold' (Weave / Greenhouse Mist & Dark Rot
+ * Bioluminescence) sub-theme on `books.raggiesoft.com/knox`.
+ *
+ * DESIGN SYSTEM & ACCESSIBILITY INTEGRATION:
+ * - Supports both explicit reader mode classes (`body.theme-light`,
+ *   `body.theme-sepia`, `body.theme-dark`, `body.theme-dark-sepia`) and
+ *   automatic system detection via `@media (prefers-color-scheme: dark)`.
+ * - Light Mode ("Greenhouse Mist" — `#F4F7F6` / `#FFFFFF`):
+ *     * `--bs-body-color` (`#111827`): 16.51:1 AAA
+ *     * `--bs-secondary-color` (`#4b5563`): 7.06:1 AAA
+ *     * `--bs-primary` (`#005A5A`): 7.43:1 AAA (`#FFFFFF` emphasis = 7.96:1)
+ *     * `--bs-warning` (`#A8491A`): 5.14:1 AA (`#FFFFFF` emphasis = 5.51:1)
+ * - Dark Mode ("Dark Rot & Bioluminescence" — `#0F1412` / `#1A1F1D`):
+ *     * `--bs-body-color` (`#E5E7EB`): 13.62:1 AAA
+ *     * `--bs-secondary-color` (`#9ca3af`): 6.74:1 AA
+ *     * `--bs-primary` (`#40E0D0`): 10.63:1 AAA (`#0F1412` emphasis = 11.82:1)
+ *     * `--bs-warning` (`#FF8A50`): 7.39:1 AAA (`#0F1412` emphasis = 8.20:1)
+ *     * `--bs-secondary` (`#9ca3af`): 6.74:1 AA (`#0F1412` emphasis = 7.48:1)
  * ============================================================================
  */
 
-/* Defines color variables for the Aerie-Hold / Weave theme *//* Light Mode (Default) - Greenhouse Mist */
-:root {
-  /* --- Base Theme Colors --- */
-  --bs-body-bg: #F4F7F6;           /* Light Misty Green */
-  --bs-body-color: #111827;        /* dark-text (gray-900) */
-  --bs-secondary-color: #4b5563;   /* Muted text (gray-600) */
-  --bs-border-color: #e5e7eb;      /* gray-200 */
-  --bs-border-color-translucent: rgba(0, 0, 0, 0.1);
+/* 1. Light Mode Default & Explicit Light/Sepia Selection — Greenhouse Mist */
+:root,
+body.theme-light,
+body.theme-sepia {
+  color-scheme: light;
 
-  /* Card/Tertiary Backgrounds */
-  --bs-tertiary-bg: #FFFFFF;      /* White (card bg, default navbar bg) */
-  --bs-tertiary-color: #111827;    /* dark-text (gray-900) */
+  /* --- Base Theme Colors --- */
+  --bs-body-bg: #F4F7F6;
+  --bs-body-color: #111827;
+  --bs-secondary-color: #4b5563;
+  --bs-border-color: #d1d5db;
+  --bs-border-color-translucent: rgba(0, 0, 0, 0.12);
+
+  /* Card / Tertiary Backgrounds */
+  --bs-tertiary-bg: #FFFFFF;
+  --bs-tertiary-color: #111827;
 
   /* --- Map Narrative Colors --- */
-  /* Primary (Pact / Weave) - Defines the core identity color for buttons and links */
-  --bs-primary: #005A5A;           /* accent-weave-dark */
+  /* Primary (Pact / Weave) */
+  --bs-primary: #005A5A;
   --bs-primary-rgb: 0, 90, 90;
   --bs-primary-text-emphasis: #FFFFFF;
   --bs-primary-bg-subtle: #cfe2e2;
   --bs-primary-border-subtle: #9ec5c5;
 
   /* Warning (Axiom / Port / Rust) */
-  --bs-warning: #A8491A;           /* accent-rust-darker */
+  --bs-warning: #A8491A;
   --bs-warning-rgb: 168, 73, 26;
   --bs-warning-text-emphasis: #FFFFFF;
   --bs-warning-bg-subtle: #f6e4db;
   --bs-warning-border-subtle: #ecc9b7;
 
-  /* Secondary (Neutral / Grey) */
-  --bs-secondary: #4b5563;         /* gray-600 */
+  /* Secondary (Neutral / Slate) */
+  --bs-secondary: #4b5563;
   --bs-secondary-rgb: 75, 85, 99;
   --bs-secondary-text-emphasis: #FFFFFF;
   --bs-secondary-bg-subtle: #e5e7eb;
   --bs-secondary-border-subtle: #d1d5db;
 
-  /* Link color */
+  /* Link Color */
   --bs-link-color: var(--bs-primary);
   --bs-link-color-rgb: var(--bs-primary-rgb);
   --bs-link-hover-color: color-mix(in srgb, var(--bs-primary) 80%, black);
 
-  /* --- Component Specific Variables (Defaults based on theme) --- */
+  /* --- Component Specific Variables --- */
   --bs-navbar-color: var(--bs-secondary-color);
   --bs-navbar-hover-color: var(--bs-body-color);
-  --bs-navbar-brand-color: var(--bs-body-color); /* Added default brand color */
+  --bs-navbar-brand-color: var(--bs-body-color);
   --bs-dropdown-bg: var(--bs-tertiary-bg);
   --bs-dropdown-link-color: var(--bs-tertiary-color);
   --bs-dropdown-link-hover-bg: var(--bs-secondary-bg-subtle);
@@ -75,52 +82,78 @@
   --bs-card-border-color: var(--bs-border-color);
 }
 
-/* Dark Mode - Dark Rot & Bioluminescence */
+/* 2. Explicit Dark / Dark-Sepia Selection — Dark Rot & Bioluminescence */
+body.theme-dark,
+body.theme-dark-sepia {
+  color-scheme: dark;
+
+  --bs-body-bg: #0F1412;
+  --bs-body-color: #E5E7EB;
+  --bs-secondary-color: #9ca3af;
+  --bs-border-color: #4b5563;
+  --bs-border-color-translucent: rgba(255, 255, 255, 0.15);
+
+  --bs-tertiary-bg: #1A1F1D;
+  --bs-tertiary-color: #E5E7EB;
+
+  --bs-primary: #40E0D0;
+  --bs-primary-rgb: 64, 224, 208;
+  --bs-primary-text-emphasis: #0F1412;
+  --bs-primary-bg-subtle: #1a2f2d;
+  --bs-primary-border-subtle: #2d5854;
+
+  --bs-warning: #FF8A50;
+  --bs-warning-rgb: 255, 138, 80;
+  --bs-warning-text-emphasis: #0F1412;
+  --bs-warning-bg-subtle: #331f15;
+  --bs-warning-border-subtle: #663c27;
+
+  --bs-secondary: #9ca3af;
+  --bs-secondary-rgb: 156, 163, 175;
+  --bs-secondary-text-emphasis: #0F1412;
+  --bs-secondary-bg-subtle: #2d3748;
+  --bs-secondary-border-subtle: #4a5568;
+
+  --bs-link-color: var(--bs-primary);
+  --bs-link-color-rgb: var(--bs-primary-rgb);
+  --bs-link-hover-color: color-mix(in srgb, var(--bs-primary) 80%, white);
+}
+
+/* 3. System Dark Mode Auto-Detection (when not explicitly set to Light or Sepia) */
 @media (prefers-color-scheme: dark) {
-  :root {
-    /* --- Base Theme Colors --- */
+  :root:not(.theme-light):not(.theme-sepia),
+  body:not(.theme-light):not(.theme-sepia) {
+    color-scheme: dark;
+
     --bs-body-bg: #0F1412;
     --bs-body-color: #E5E7EB;
     --bs-secondary-color: #9ca3af;
     --bs-border-color: #4b5563;
     --bs-border-color-translucent: rgba(255, 255, 255, 0.15);
 
-    /* Card/Tertiary Backgrounds */
-    --bs-tertiary-bg: #1A1F1D; /* dark-weave */
+    --bs-tertiary-bg: #1A1F1D;
     --bs-tertiary-color: #E5E7EB;
 
-    /* --- Map Narrative Colors --- */
-    /* Primary (Pact / Weave / Glimmer Moss) */
-    --bs-primary: #40E0D0; /* accent-weave-light */
+    --bs-primary: #40E0D0;
     --bs-primary-rgb: 64, 224, 208;
     --bs-primary-text-emphasis: #0F1412;
     --bs-primary-bg-subtle: #1a2f2d;
     --bs-primary-border-subtle: #2d5854;
 
-    /* Warning (Axiom / Port / Rust) */
-    --bs-warning: #FF8A50; /* accent-rust-light */
+    --bs-warning: #FF8A50;
     --bs-warning-rgb: 255, 138, 80;
     --bs-warning-text-emphasis: #0F1412;
     --bs-warning-bg-subtle: #331f15;
     --bs-warning-border-subtle: #663c27;
 
-    /* Secondary (Neutral / Grey) */
-    --bs-secondary: #6b7280; /* gray-500 */
-    --bs-secondary-rgb: 107, 114, 128;
-    --bs-secondary-text-emphasis: #FFFFFF;
+    --bs-secondary: #9ca3af;
+    --bs-secondary-rgb: 156, 163, 175;
+    --bs-secondary-text-emphasis: #0F1412;
     --bs-secondary-bg-subtle: #2d3748;
     --bs-secondary-border-subtle: #4a5568;
 
-    /* Link color */
     --bs-link-color: var(--bs-primary);
     --bs-link-color-rgb: var(--bs-primary-rgb);
     --bs-link-hover-color: color-mix(in srgb, var(--bs-primary) 80%, white);
-
-    /* --- Component Specific Variables (Dark Mode) --- */
-    /* Define overrides if needed, otherwise defaults from light mode cascade */
-    /* Example: If navbar color needed specific dark mode override: */
-    /* --bs-navbar-color: var(--bs-secondary-color); */
-    /* --bs-navbar-brand-color: var(--bs-body-color); */ /* Already covered by rule below, but could be defined here */
-
   }
 }

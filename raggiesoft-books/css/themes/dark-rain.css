@@ -1,89 +1,160 @@
 /**
  * ============================================================================
- * RAGGIESOFT THEME: DARK RAIN
+ * STARDUST ENGINE NARRATIVE THEME: DARK RAIN (`dark-rain.css`)
  * ============================================================================
- * Architecture & Purpose:
- * Defines a stylized, animated "Dark Rain" visual theme. This theme relies on 
- * CSS custom properties (`--rs-*`) to set color palettes matching a stormy, 
- * slate-grey aesthetic, and injects a procedural CSS-only rain overlay via 
- * the `::before` pseudo-element.
- * 
- * Key Design Elements:
- * - Immersive slate and lightning-blue color palette.
- * - Hardware-accelerated CSS keyframe animations for a repeating rain effect.
- * - Accessibility-first design (stops animation if prefers-reduced-motion is true).
- * 
- * Maintenance Notes:
- * - Ensure the `pointer-events: none;` rule on the overlay is never removed,
- *   otherwise users will be unable to click elements underneath the rain.
- * - Do NOT increase the opacity of the rain gradients above 0.1, as it severely
- *   degrades text readability.
+ *
+ * Architectural Overview:
+ * RAGGIESOFT THEME: DARK RAIN Architecture & Purpose: Defines a stylized, animated "Dark Rain" visual theme. This theme relies on CSS custom properties (`--rs-*`) to set color palettes matching a stormy, slate-grey aesthetic, and injects a procedural CSS-only rain overlay via the `::before` pseudo-element. Key Design Elements: - Immersive slate and lightning-blue color palette.
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#e4ebf3` / `#f4f8fc` (`color-scheme: light`)
+ *     * Body Prose (`#0f172a`): 13.35:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#334155`): 7.74:1 min (WCAG AA)
+ *     * Headings (`#09101f`): 14.20:1 min (WCAG AAA)
+ *     * Primary Accent (`#035388`): 6.05:1 min (`--rs-on-primary: #ffffff` = 8.09:1)
+ *     * Secondary Accent (`#3b4c63`): 6.54:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#0f172a` / `#1e293b` (`color-scheme: dark`)
+ *     * Body Prose (`#e2e8f0`): 11.87:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#94a3b8`): 5.71:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 13.98:1 min (WCAG AAA)
+ *     * Primary Accent (`#38bdf8`): 6.83:1 min (`--rs-on-primary: #080d17` = 9.07:1)
+ *     * Secondary Accent (`#cbd5e1`): 9.85:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Dark Rain */
-/* theme-dark-rain.css */
-
-/* -------------------------------------------------------------------------
- * 1. Base Variables & Palette Setup
- * ------------------------------------------------------------------------- */
-body.theme-dark-rain {
-    --rs-bg: #0f172a; /* Deep, stormy slate representing the night sky */
-    --rs-surface: #1e293b; /* Slightly raised surface color for cards/panels */
-    --rs-text: #cbd5e1; /* Muted slate-white text for high contrast */
-    --rs-primary: #38bdf8; /* Lightning blue accent color */
-    --rs-secondary: #94a3b8; /* Rain gray for secondary/muted text */
-    --rs-border: #334155; /* Subtle border division color */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-dark-rain, .narrative-theme-dark-rain, [data-narrative-theme="dark-rain"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-dark-rain, .narrative-theme-dark-rain, [data-narrative-theme="dark-rain"]) {
+    color-scheme: light;
+    --rs-bg: #e4ebf3;
+    --rs-bg-alt: #d5e0ec;
+    --rs-surface: #f4f8fc;
+    --rs-card-bg: #f8fafc;
+    --rs-text: #0f172a;
+    --rs-text-muted: #334155;
+    --rs-heading: #09101f;
+    --rs-primary: #035388;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #3b4c63;
+    --rs-border: #b8c7d9;
+    --rs-asl: #036094;
+    --rs-gesture: #4338ca;
+    accent-color: #035388;
 }
 
-/* -------------------------------------------------------------------------
- * 2. Rain Visual Overlay
- * ------------------------------------------------------------------------- */
-/* Subtle, immersive rain overlay attached directly to the body element */
-body.theme-dark-rain::before {
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-dark-rain, .narrative-theme-dark-rain, [data-narrative-theme="dark-rain"]) {
+    color-scheme: dark;
+    --rs-bg: #0f172a;
+    --rs-bg-alt: #162036;
+    --rs-surface: #1e293b;
+    --rs-card-bg: #1e293b;
+    --rs-text: #e2e8f0;
+    --rs-text-muted: #94a3b8;
+    --rs-heading: #f8fafc;
+    --rs-primary: #38bdf8;
+    --rs-on-primary: #080d17;
+    --rs-secondary: #cbd5e1;
+    --rs-border: #334155;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #38bdf8;
+}
+
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-dark-rain, .narrative-theme-dark-rain, [data-narrative-theme="dark-rain"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-dark-rain, .narrative-theme-dark-rain, [data-narrative-theme="dark-rain"]) {
+        color-scheme: dark;
+        --rs-bg: #0f172a;
+        --rs-bg-alt: #162036;
+        --rs-surface: #1e293b;
+        --rs-card-bg: #1e293b;
+        --rs-text: #e2e8f0;
+        --rs-text-muted: #94a3b8;
+        --rs-heading: #f8fafc;
+        --rs-primary: #38bdf8;
+        --rs-on-primary: #080d17;
+        --rs-secondary: #cbd5e1;
+        --rs-border: #334155;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #38bdf8;
+    }
+}
+
+/* Procedural Rain Overlay (Adapts Dark-Slate Raindrops in Light Mode & Silver Streaks in Dark Mode) */
+body:is(.theme-dark-rain, .narrative-theme-dark-rain, [data-narrative-theme="dark-rain"])::before {
     content: "";
-    /* Fixed positioning ensures the rain covers the entire viewport, even when scrolling */
     position: fixed;
-    /* Extend beyond the top of the viewport to prevent visual clipping when animation resets */
-    top: -200px; left: 0; right: 0; bottom: 0;
-    
-    /* CRITICAL: Allows user clicks and interactions to pass through to underlying content */
+    top: -200px;
+    left: 0;
+    right: 0;
+    bottom: 0;
     pointer-events: none;
-    
-    /* Pushes the rain layer to the very front */
     z-index: 9999;
-    
-    /* Create a repeating slanted line pattern for rain using procedural gradients */
-    background-image: 
-        linear-gradient(160deg, transparent 45%, rgba(255,255,255,0.05) 50%, transparent 55%),
-        linear-gradient(160deg, transparent 48%, rgba(255,255,255,0.03) 50%, transparent 52%);
-    /* Define parallax sizing for foreground and background rain droplets */
+    background-image:
+        linear-gradient(160deg, transparent 44%, rgba(15, 23, 42, 0.055) 50%, transparent 56%),
+        linear-gradient(160deg, transparent 47%, rgba(15, 23, 42, 0.035) 50%, transparent 53%);
     background-size: 60px 100px, 100px 150px;
-    
-    /* Apply continuous linear animation for the falling effect */
-    animation: rain-fall 0.8s linear infinite;
-    opacity: 0.6;
+    animation: rs-rain-fall-dark-rain 0.8s linear infinite;
+    opacity: 0.65;
 }
-
-/* -------------------------------------------------------------------------
- * 3. Animation Keyframes
- * ------------------------------------------------------------------------- */
-@keyframes rain-fall {
-    /* Starting position */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-dark-rain, .narrative-theme-dark-rain, [data-narrative-theme="dark-rain"])::before {
+    background-image:
+        linear-gradient(160deg, transparent 43%, rgba(255, 255, 255, 0.07) 50%, transparent 57%),
+        linear-gradient(160deg, transparent 46%, rgba(255, 255, 255, 0.045) 50%, transparent 54%);
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-dark-rain, .narrative-theme-dark-rain, [data-narrative-theme="dark-rain"])::before,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-dark-rain, .narrative-theme-dark-rain, [data-narrative-theme="dark-rain"])::before {
+        background-image:
+            linear-gradient(160deg, transparent 43%, rgba(255, 255, 255, 0.07) 50%, transparent 57%),
+            linear-gradient(160deg, transparent 46%, rgba(255, 255, 255, 0.045) 50%, transparent 54%);
+    }
+}
+@keyframes rs-rain-fall-dark-rain {
     0% { background-position: 0px 0px, 0px 0px; }
-    /* Ending position matches the 160deg angle roughly to prevent sliding artifacts */
-    100% { background-position: 35px 100px, 50px 150px; } 
+    100% { background-position: 35px 100px, 50px 150px; }
 }
 
-/* -------------------------------------------------------------------------
- * 4. Accessibility Check
- * ------------------------------------------------------------------------- */
-/* Accessibility: Respect users who prefer reduced motion natively in their OS */
 @media (prefers-reduced-motion: reduce) {
-    body.theme-dark-rain::before {
-        /* Keep the rain texture present, but disable the continuous animation */
-        animation: none;
-        /* Slightly lower opacity for a static texture to prevent visual noise */
-        opacity: 0.4; 
+    body:is(.theme-dark-rain, .narrative-theme-dark-rain, [data-narrative-theme="dark-rain"])::before {
+        animation: none !important;
+        opacity: 0.28;
+    }
+    body:is(.theme-dark-rain, .narrative-theme-dark-rain, [data-narrative-theme="dark-rain"])::after {
+        animation: none !important;
+        display: none !important;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-dark-rain, .narrative-theme-dark-rain, [data-narrative-theme="dark-rain"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-dark-rain, .narrative-theme-dark-rain, [data-narrative-theme="dark-rain"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-dark-rain, .narrative-theme-dark-rain, [data-narrative-theme="dark-rain"])::before,
+    body:is(.theme-dark-rain, .narrative-theme-dark-rain, [data-narrative-theme="dark-rain"])::after {
+        display: none !important;
     }
 }

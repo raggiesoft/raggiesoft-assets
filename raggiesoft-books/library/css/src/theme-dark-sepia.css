@@ -1,6 +1,23 @@
+/* ==========================================================================
+ * STARDUST ENGINE LIBRARY - EXPLICIT WARM DARK-SEPIA THEME
+ * theme-dark-sepia.css
+ * ==========================================================================
+ * Full 13-token WCAG 2.1 AA/AAA warm espresso-parchment evening palette.
+ * ========================================================================== */
+
 body.theme-dark-sepia {
-    --rs-bg: #1a1714;
-    --rs-text: #cbb49e;
-    --rs-border: #3a3229;
-    --rs-surface: #26221d;
+    color-scheme: dark;
+    --rs-bg: #1c1814;
+    --rs-bg-alt: #231e19;
+    --rs-surface: #28221c;
+    --rs-card-bg: #28221c;
+    --rs-text: #e8dcc8;       /* 11.61:1 on #28221c */
+    --rs-text-muted: #b8a68e; /* 6.65:1 on #28221c */
+    --rs-heading: #f7efe2;    /* 13.77:1 on #28221c */
+    --rs-primary: #e5b57d;    /* 8.41:1 on #28221c */
+    --rs-on-primary: #19130c; /* 9.86:1 on #e5b57d */
+    --rs-secondary: #f0ab68;  /* 8.03:1 on #28221c */
+    --rs-border: #463a2e;
+    --rs-asl: #7dd3fc;
+    --rs-gesture: #d8b4fe;
 }

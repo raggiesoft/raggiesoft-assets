@@ -1,67 +1,114 @@
 /**
  * ============================================================================
- * RAGGIESOFT THEME: UPLIFTING
+ * STARDUST ENGINE NARRATIVE THEME: UPLIFTING (`uplifting.css`)
  * ============================================================================
- * Architecture & Purpose:
- * Defines a bright, positive, and airy visual theme. This theme relies entirely 
- * on manipulating the `--rs-*` CSS custom properties, utilizing light pinks 
- * and purples to evoke a cheerful or encouraging atmosphere.
- * 
- * Key Design Elements:
- * - Tri-state architecture: Light mode base, explicit Dark mode, and OS Auto.
- * - Saturated, warm accent colors ensuring a friendly user interface.
- * 
- * Maintenance Notes:
- * - Maintain formatting consistency: the indentation within the selectors has been 
- *   preserved as originally authored.
- * - Always update both the `theme-dark` and `prefers-color-scheme` blocks
- *   simultaneously if palette adjustments are made.
+ *
+ * Architectural Overview:
+ * RAGGIESOFT THEME: UPLIFTING Architecture & Purpose: Defines a bright, positive, and airy visual theme. This theme relies entirely on manipulating the `--rs-*` CSS custom properties, utilizing light pinks and purples to evoke a cheerful or encouraging atmosphere. Key Design Elements: - Tri-state architecture: Light mode base, explicit Dark mode, and OS Auto. - Saturated, warm accent colors ensuring a friendly user interface.
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#fdf4ff` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#4a044e`): 12.86:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#855488`): 5.04:1 min (WCAG AA)
+ *     * Headings (`#38033a`): 14.69:1 min (WCAG AAA)
+ *     * Primary Accent (`#aa22ba`): 5.00:1 min (`--rs-on-primary: #ffffff` = 5.76:1)
+ *     * Secondary Accent (`#ad09c7`): 5.01:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#4a044e` / `#701a75` (`color-scheme: dark`)
+ *     * Body Prose (`#f8fafc`): 9.59:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#cbbacf`): 5.48:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 9.59:1 min (WCAG AAA)
+ *     * Primary Accent (`#ee9efb`): 5.22:1 min (`--rs-on-primary: #29022b` = 9.60:1)
+ *     * Secondary Accent (`#e59fee`): 5.03:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Uplifting */
-
-/* -------------------------------------------------------------------------
- * 1. Light Mode (Base Palette)
- * ------------------------------------------------------------------------- */
-/* Default styling applied when no theme is forced or Light Mode is explicitly chosen */
-body.theme-uplifting,
-body.theme-light.theme-uplifting {
-    --rs-bg: #fdf4ff; /* Light, airy pink/purple background for a positive feel */
-    --rs-surface: #ffffff; /* Crisp white surface to lift content blocks */
-    --rs-text: #4a044e; /* Deep purple text for high contrast readability */
-    --rs-primary: #c026d3; /* Vibrant magenta primary action color */
-    --rs-secondary: #e879f9; /* Soft, playful pink for secondary elements/hover states */
-    --rs-border: #fae8ff; /* Extremely pale pink border for subtle separation */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-uplifting, .narrative-theme-uplifting, [data-narrative-theme="uplifting"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-uplifting, .narrative-theme-uplifting, [data-narrative-theme="uplifting"]) {
+    color-scheme: light;
+    --rs-bg: #fdf4ff;
+    --rs-bg-alt: #f2edf8;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #4a044e;
+    --rs-text-muted: #855488;
+    --rs-heading: #38033a;
+    --rs-primary: #aa22ba;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #ad09c7;
+    --rs-border: #fae8ff;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #aa22ba;
 }
 
-/* -------------------------------------------------------------------------
- * 2. Dark Mode (Explicitly Forced)
- * ------------------------------------------------------------------------- */
-/* Styling applied ONLY when the user explicitly forces the UI to Dark Mode */
-body.theme-dark.theme-uplifting {
-    --rs-bg: #4a044e; /* Deep, rich plum background */
-    --rs-surface: #701a75; /* Slightly lighter plum surface color */
-    --rs-text: #fae8ff; /* Pale pink text to contrast against the dark background */
-    --rs-primary: #e879f9; /* Bright neon pink primary action color */
-    --rs-secondary: #c026d3; /* Darker magenta for secondary interactions */
-    --rs-border: #86198f; /* Medium plum boundary line color */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-uplifting, .narrative-theme-uplifting, [data-narrative-theme="uplifting"]) {
+    color-scheme: dark;
+    --rs-bg: #4a044e;
+    --rs-bg-alt: #510e55;
+    --rs-surface: #701a75;
+    --rs-card-bg: #701a75;
+    --rs-text: #f8fafc;
+    --rs-text-muted: #cbbacf;
+    --rs-heading: #f8fafc;
+    --rs-primary: #ee9efb;
+    --rs-on-primary: #29022b;
+    --rs-secondary: #e59fee;
+    --rs-border: #86198f;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #ee9efb;
 }
 
-/* -------------------------------------------------------------------------
- * 3. OS Auto Dark Mode Support
- * ------------------------------------------------------------------------- */
-/* Applies the dark palette automatically based on the user's OS preference */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    /* Targets users who have set the app to 'auto' or have no preference saved */
-    body.theme-auto.theme-uplifting,
-    body:not(.theme-light):not(.theme-dark).theme-uplifting {
-        /* Mirrored from Explicit Dark Mode palette */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-uplifting, .narrative-theme-uplifting, [data-narrative-theme="uplifting"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-uplifting, .narrative-theme-uplifting, [data-narrative-theme="uplifting"]) {
+        color-scheme: dark;
         --rs-bg: #4a044e;
+        --rs-bg-alt: #510e55;
         --rs-surface: #701a75;
-        --rs-text: #fae8ff;
-        --rs-primary: #e879f9;
-        --rs-secondary: #c026d3;
+        --rs-card-bg: #701a75;
+        --rs-text: #f8fafc;
+        --rs-text-muted: #cbbacf;
+        --rs-heading: #f8fafc;
+        --rs-primary: #ee9efb;
+        --rs-on-primary: #29022b;
+        --rs-secondary: #e59fee;
         --rs-border: #86198f;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #ee9efb;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-uplifting, .narrative-theme-uplifting, [data-narrative-theme="uplifting"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-uplifting, .narrative-theme-uplifting, [data-narrative-theme="uplifting"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-uplifting, .narrative-theme-uplifting, [data-narrative-theme="uplifting"])::before,
+    body:is(.theme-uplifting, .narrative-theme-uplifting, [data-narrative-theme="uplifting"])::after {
+        display: none !important;
     }
 }

@@ -1,67 +1,114 @@
 /**
  * ============================================================================
- * STARDUST THEME: RUNEBREAKER GLITCH - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: RUNEBREAKER GLITCH (`runebreaker-glitch.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines the "Runebreaker Glitch" reading theme for scenes of
- * digital distortion, falling through the CRT screen ("Static & Pixels"), and
- * battling corrupted entities ("Glitch Phantoms", "The Iron Sentinels").
- * 
- * Core Components:
- * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
- *    the main reader layout (reader.css).
- * 2. Theme Cascade: Implements three specific states to handle user preferences 
- *    and OS-level settings:
- *    - Light Mode (Crisp static-slate background with magenta and cyan glitch accents)
- *    - Forced Dark Mode (Void black with high-contrast neon magenta & electric cyan)
- *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
- * 
- * Maintainability Notes:
- * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
- *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
- *   state to prevent visual regressions during theme swapping.
- * - Always duplicate the Forced Dark Mode variables into the `@media` query 
- *   block to ensure visual consistency when OS Auto mode triggers.
+ *
+ * Architectural Overview:
+ * STARDUST THEME: RUNEBREAKER GLITCH - ARCHITECTURAL OVERVIEW Description: This stylesheet defines the "Runebreaker Glitch" reading theme for scenes of digital distortion, falling through the CRT screen ("Static & Pixels"), and battling corrupted entities ("Glitch Phantoms", "The Iron Sentinels"). Core Components: 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by the main reader layout (reader.css).
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f5f3ff` / `#ede9fe` (`color-scheme: light`)
+ *     * Body Prose (`#0f172a`): 15.04:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#5d6272`): 5.12:1 min (WCAG AA)
+ *     * Headings (`#0b1120`): 15.86:1 min (WCAG AAA)
+ *     * Primary Accent (`#a911c0`): 5.01:1 min (`--rs-on-primary: #ffffff` = 5.95:1)
+ *     * Secondary Accent (`#046d80`): 5.05:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#07040d` / `#140b24` (`color-scheme: dark`)
+ *     * Body Prose (`#f1f5f9`): 17.38:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#b4b6bc`): 9.39:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 18.20:1 min (WCAG AAA)
+ *     * Primary Accent (`#f472b6`): 7.19:1 min (`--rs-on-primary: #040207` = 7.80:1)
+ *     * Secondary Accent (`#38bdf8`): 8.89:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Runebreaker Glitch */
-
-/* --- 1. Light Mode (Base) --- */
-/* Acts as the default state and explicitly forced light mode */
-body.theme-runebreaker-glitch,
-body.theme-light.theme-runebreaker-glitch {
-    --rs-bg: #f5f3ff; /* Pale static violet-tinted white */
-    --rs-surface: #ede9fe; /* Soft digital lavender surface */
-    --rs-text: #0f172a; /* High-contrast dark slate text */
-    --rs-primary: #d946ef; /* Corrupted pixel magenta primary */
-    --rs-secondary: #06b6d4; /* Scanline cyan secondary */
-    --rs-border: #c4b5fd; /* Crisp violet wire border */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-runebreaker-glitch, .narrative-theme-runebreaker-glitch, [data-narrative-theme="runebreaker-glitch"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-runebreaker-glitch, .narrative-theme-runebreaker-glitch, [data-narrative-theme="runebreaker-glitch"]) {
+    color-scheme: light;
+    --rs-bg: #f5f3ff;
+    --rs-bg-alt: #ececf8;
+    --rs-surface: #ede9fe;
+    --rs-card-bg: #ede9fe;
+    --rs-text: #0f172a;
+    --rs-text-muted: #5d6272;
+    --rs-heading: #0b1120;
+    --rs-primary: #a911c0;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #046d80;
+    --rs-border: #c4b5fd;
+    --rs-asl: #0369a0;
+    --rs-gesture: #4338ca;
+    accent-color: #a911c0;
 }
 
-/* --- 2. Dark Mode (Explicitly Forced) --- */
-/* Applied when the user manually toggles the reader to Dark Mode */
-body.theme-dark.theme-runebreaker-glitch {
-    --rs-bg: #07040d; /* Deepest corrupted void black */
-    --rs-surface: #140b24; /* Fractured purple-black terminal surface */
-    --rs-text: #f1f5f9; /* Bright static white text */
-    --rs-primary: #f472b6; /* Neon glitch magenta-pink primary */
-    --rs-secondary: #38bdf8; /* Piercing pixel cyan secondary */
-    --rs-border: #3b1c5e; /* Glowing purple circuit border */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-runebreaker-glitch, .narrative-theme-runebreaker-glitch, [data-narrative-theme="runebreaker-glitch"]) {
+    color-scheme: dark;
+    --rs-bg: #07040d;
+    --rs-bg-alt: #110e17;
+    --rs-surface: #140b24;
+    --rs-card-bg: #140b24;
+    --rs-text: #f1f5f9;
+    --rs-text-muted: #b4b6bc;
+    --rs-heading: #f8fafc;
+    --rs-primary: #f472b6;
+    --rs-on-primary: #040207;
+    --rs-secondary: #38bdf8;
+    --rs-border: #3b1c5e;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #f472b6;
 }
 
-/* --- 3. OS Auto Dark Mode --- */
-/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-runebreaker-glitch,
-    body:not(.theme-light):not(.theme-dark).theme-runebreaker-glitch {
-        --rs-bg: #07040d; /* Matches Forced Dark Mode */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-runebreaker-glitch, .narrative-theme-runebreaker-glitch, [data-narrative-theme="runebreaker-glitch"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-runebreaker-glitch, .narrative-theme-runebreaker-glitch, [data-narrative-theme="runebreaker-glitch"]) {
+        color-scheme: dark;
+        --rs-bg: #07040d;
+        --rs-bg-alt: #110e17;
         --rs-surface: #140b24;
+        --rs-card-bg: #140b24;
         --rs-text: #f1f5f9;
+        --rs-text-muted: #b4b6bc;
+        --rs-heading: #f8fafc;
         --rs-primary: #f472b6;
+        --rs-on-primary: #040207;
         --rs-secondary: #38bdf8;
         --rs-border: #3b1c5e;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #f472b6;
     }
 }
 
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-runebreaker-glitch, .narrative-theme-runebreaker-glitch, [data-narrative-theme="runebreaker-glitch"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-runebreaker-glitch, .narrative-theme-runebreaker-glitch, [data-narrative-theme="runebreaker-glitch"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-runebreaker-glitch, .narrative-theme-runebreaker-glitch, [data-narrative-theme="runebreaker-glitch"])::before,
+    body:is(.theme-runebreaker-glitch, .narrative-theme-runebreaker-glitch, [data-narrative-theme="runebreaker-glitch"])::after {
+        display: none !important;
+    }
+}

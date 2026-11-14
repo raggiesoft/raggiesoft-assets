@@ -1,90 +1,114 @@
 /**
- * Architectural Block: Sunstead Secrecy Theme Configuration
+ * ============================================================================
+ * STARDUST ENGINE NARRATIVE THEME: SUNSTEAD SECRECY (`sunstead-secrecy.css`)
+ * ============================================================================
  *
- * This file defines the "Sunstead Secrecy" theme for the application, providing a specific
- * set of CSS variables (`--rs-*`) that govern the color palette across different
- * color modes (Light, Dark, and OS Auto).
+ * Architectural Overview:
+ * Architectural Block: Sunstead Secrecy Theme Configuration This file defines the "Sunstead Secrecy" theme for the application, providing a specific set of CSS variables (`--rs-*`) that govern the color palette across different color modes (Light, Dark, and OS Auto). Key Responsibilities: 1. Define the base/light mode color palette using a very stark, high-contrast greyscale/slate scheme. 2. Define the explicit dark mode color palette using deep slate/black colors. 3. Provide a media query fallback to automatically apply the dark mode
  *
- * Key Responsibilities:
- * 1. Define the base/light mode color palette using a very stark, high-contrast greyscale/slate scheme.
- * 2. Define the explicit dark mode color palette using deep slate/black colors.
- * 3. Provide a media query fallback to automatically apply the dark mode
- *    palette when the user's operating system is set to prefer a dark color scheme,
- *    provided no explicit user override (light/dark) is active.
- *
- * Maintenance Notes:
- * - When modifying colors, ensure there is sufficient contrast between `--rs-text`
- *   and `--rs-surface`/`--rs-bg` for accessibility compliance.
- * - This theme uses slate greys (#f8fafc, #020617) to provide a stark, serious tone.
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f8fafc` / `#f1f5f9` (`color-scheme: light`)
+ *     * Body Prose (`#0f172a`): 15.87:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#5e6471`): 5.28:1 min (WCAG AA)
+ *     * Headings (`#0b1120`): 16.74:1 min (WCAG AAA)
+ *     * Primary Accent (`#334155`): 9.20:1 min (`--rs-on-primary: #ffffff` = 10.35:1)
+ *     * Secondary Accent (`#475569`): 6.74:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#020617` / `#0f172a` (`color-scheme: dark`)
+ *     * Body Prose (`#f8fafc`): 17.06:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#b8bbc0`): 9.27:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 17.06:1 min (WCAG AAA)
+ *     * Primary Accent (`#94a3b8`): 6.96:1 min (`--rs-on-primary: #01030d` = 8.03:1)
+ *     * Secondary Accent (`#79899f`): 5.01:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
+ * ============================================================================
  */
 
-/* Theme Name: Sunstead Secrecy */
-
-/* Light Mode (Base) */
-body.theme-sunstead-secrecy,
-body.theme-light.theme-sunstead-secrecy {
-    /* Main application background color (Very light slate) */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-sunstead-secrecy, .narrative-theme-sunstead-secrecy, [data-narrative-theme="sunstead-secrecy"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-sunstead-secrecy, .narrative-theme-sunstead-secrecy, [data-narrative-theme="sunstead-secrecy"]) {
+    color-scheme: light;
     --rs-bg: #f8fafc;
-    
-    /* Background color for cards, panels, and distinct content areas */
+    --rs-bg-alt: #eef2f6;
     --rs-surface: #f1f5f9;
-    
-    /* Primary text color for readability against light backgrounds */
+    --rs-card-bg: #f1f5f9;
     --rs-text: #0f172a;
-    
-    /* Primary brand/accent color for primary actions, links, and buttons */
+    --rs-text-muted: #5e6471;
+    --rs-heading: #0b1120;
     --rs-primary: #334155;
-    
-    /* Secondary accent color for hover states or less prominent interactive elements */
+    --rs-on-primary: #ffffff;
     --rs-secondary: #475569;
-    
-    /* Standard border color for structural separation */
     --rs-border: #e2e8f0;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #334155;
 }
 
-/* Dark Mode (Explicitly Forced) */
-body.theme-dark.theme-sunstead-secrecy {
-    /* Main application background color (Nearly black slate) */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-sunstead-secrecy, .narrative-theme-sunstead-secrecy, [data-narrative-theme="sunstead-secrecy"]) {
+    color-scheme: dark;
     --rs-bg: #020617;
-    
-    /* Background color for content panels in dark mode */
+    --rs-bg-alt: #0c1020;
     --rs-surface: #0f172a;
-    
-    /* Light text color to ensure readability against dark backgrounds */
+    --rs-card-bg: #0f172a;
     --rs-text: #f8fafc;
-    
-    /* Primary accent color for high visibility in dark mode */
+    --rs-text-muted: #b8bbc0;
+    --rs-heading: #f8fafc;
     --rs-primary: #94a3b8;
-    
-    /* Secondary accent color for subdued interactive states */
-    --rs-secondary: #64748b;
-    
-    /* Darker border color to maintain subtle separation in dark mode */
+    --rs-on-primary: #01030d;
+    --rs-secondary: #79899f;
     --rs-border: #1e293b;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #94a3b8;
 }
 
-/* OS Auto Dark Mode */
-/* Applies the dark mode palette automatically if the system preference is dark,
-   unless the user has explicitly selected the 'light' theme. */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-sunstead-secrecy,
-    body:not(.theme-light):not(.theme-dark).theme-sunstead-secrecy {
-        /* Main application background color (Nearly black slate) */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-sunstead-secrecy, .narrative-theme-sunstead-secrecy, [data-narrative-theme="sunstead-secrecy"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-sunstead-secrecy, .narrative-theme-sunstead-secrecy, [data-narrative-theme="sunstead-secrecy"]) {
+        color-scheme: dark;
         --rs-bg: #020617;
-        
-        /* Background color for content panels */
+        --rs-bg-alt: #0c1020;
         --rs-surface: #0f172a;
-        
-        /* Light text color for readability */
+        --rs-card-bg: #0f172a;
         --rs-text: #f8fafc;
-        
-        /* Primary accent color */
+        --rs-text-muted: #b8bbc0;
+        --rs-heading: #f8fafc;
         --rs-primary: #94a3b8;
-        
-        /* Secondary accent color */
-        --rs-secondary: #64748b;
-        
-        /* Subdued border color for dark mode */
+        --rs-on-primary: #01030d;
+        --rs-secondary: #79899f;
         --rs-border: #1e293b;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #94a3b8;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-sunstead-secrecy, .narrative-theme-sunstead-secrecy, [data-narrative-theme="sunstead-secrecy"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-sunstead-secrecy, .narrative-theme-sunstead-secrecy, [data-narrative-theme="sunstead-secrecy"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-sunstead-secrecy, .narrative-theme-sunstead-secrecy, [data-narrative-theme="sunstead-secrecy"])::before,
+    body:is(.theme-sunstead-secrecy, .narrative-theme-sunstead-secrecy, [data-narrative-theme="sunstead-secrecy"])::after {
+        display: none !important;
     }
 }

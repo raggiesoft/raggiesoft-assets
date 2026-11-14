@@ -1,127 +1,190 @@
 /**
  * ============================================================================
- * RAGGIESOFT BOOKS THEME: SEVERE THUNDERSTORM
+ * STARDUST ENGINE NARRATIVE THEME: SEVERE THUNDERSTORM (`severe-thunderstorm.css`)
  * ============================================================================
- * Architecture: CSS Theme & Animation Definitions
- * Purpose: Defines a highly atmospheric "Severe Thunderstorm" reading theme.
- *          Unlike standard themes, this includes active CSS animations 
- *          (falling rain and simulated lightning flashes) to create an 
- *          immersive, dark aesthetic.
- * 
- * Future Maintenance Notes:
- * - This theme intentionally does NOT support light/dark cascades. It is 
- *   always a dark theme by design.
- * - The `::before` pseudo-element renders the rain. Modifying the 
- *   linear-gradient angles or background-sizes will change the rain's 
- *   speed/trajectory appearance.
- * - The `::after` pseudo-element renders the lightning. The timing of the 
- *   flashes is controlled by the `lightning-flash-severe` keyframes.
- * - ALWAYS maintain the `prefers-reduced-motion` media query. These animations 
- *   (especially the flashing) can trigger photosensitivity or motion sickness.
+ *
+ * Architectural Overview:
+ * RAGGIESOFT BOOKS THEME: SEVERE THUNDERSTORM Architecture: CSS Theme & Animation Definitions Purpose: Defines a highly atmospheric "Severe Thunderstorm" reading theme. Unlike standard themes, this includes active CSS animations (falling rain and simulated lightning flashes) to create an immersive, dark aesthetic. Future Maintenance Notes: - This theme intentionally does NOT support light/dark cascades. It is
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#dde5ef` / `#eef3f8` (`color-scheme: light`)
+ *     * Body Prose (`#090f1d`): 13.62:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#2d3b4e`): 8.09:1 min (WCAG AA)
+ *     * Headings (`#040812`): 14.26:1 min (WCAG AAA)
+ *     * Primary Accent (`#035388`): 5.76:1 min (`--rs-on-primary: #ffffff` = 8.09:1)
+ *     * Secondary Accent (`#334155`): 7.37:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#030712` / `#0f172a` (`color-scheme: dark`)
+ *     * Body Prose (`#e2e8f0`): 14.48:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#94a3b8`): 6.96:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 17.06:1 min (WCAG AAA)
+ *     * Primary Accent (`#38bdf8`): 8.33:1 min (`--rs-on-primary: #02040a` = 9.57:1)
+ *     * Secondary Accent (`#bae6fd`): 13.45:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Severe Thunderstorm */
-/* theme-severe-thunderstorm.css */
-
-/**
- * ----------------------------------------------------------------------------
- * 1. BASE COLOR PALETTE
- * ----------------------------------------------------------------------------
- * A pitch-black and deep slate palette with blinding cyan/blue accents.
- */
-body.theme-severe-thunderstorm {
-    --rs-bg: #020617;       /* Pitch black night sky */
-    --rs-surface: #0f172a;  /* Very dark slate for elevated surfaces */
-    --rs-text: #64748b;     /* Muted blue-gray text (low contrast for stormy feel) */
-    --rs-primary: #38bdf8;  /* Blinding lightning cyan for primary actions */
-    --rs-secondary: #475569;/* Mid-tone slate for secondary elements */
-    --rs-border: #0f172a;   /* Nearly invisible borders blending with surface */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-severe-thunderstorm, .narrative-theme-severe-thunderstorm, [data-narrative-theme="severe-thunderstorm"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-severe-thunderstorm, .narrative-theme-severe-thunderstorm, [data-narrative-theme="severe-thunderstorm"]) {
+    color-scheme: light;
+    --rs-bg: #dde5ef;
+    --rs-bg-alt: #cfdbe8;
+    --rs-surface: #eef3f8;
+    --rs-card-bg: #f5f8fc;
+    --rs-text: #090f1d;
+    --rs-text-muted: #2d3b4e;
+    --rs-heading: #040812;
+    --rs-primary: #035388;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #334155;
+    --rs-border: #b0bfd1;
+    --rs-asl: #035d8f;
+    --rs-gesture: #4338ca;
+    accent-color: #035388;
 }
 
-/**
- * ----------------------------------------------------------------------------
- * 2. RAIN ANIMATION OVERLAY
- * ----------------------------------------------------------------------------
- * Uses multiple linear gradients layered over the screen to simulate 
- * heavy, driving rain.
- */
-body.theme-severe-thunderstorm::before {
-    content: "";
-    position: fixed;
-    /* Negative top offset prevents the rain from clipping at the top during animation loop */
-    top: -200px; left: 0; right: 0; bottom: 0;
-    pointer-events: none; /* Crucial: Allows clicking through the rain to the book text */
-    z-index: 9999;        /* Places rain above all page content */
-    
-    /* 3 layered gradients for depth (foreground, midground, background) */
-    background-image: 
-        linear-gradient(160deg, transparent 35%, rgba(255,255,255,0.12) 50%, transparent 65%),
-        linear-gradient(160deg, transparent 40%, rgba(255,255,255,0.1) 50%, transparent 60%),
-        linear-gradient(160deg, transparent 45%, rgba(255,255,255,0.08) 50%, transparent 55%);
-    background-size: 40px 70px, 60px 100px, 90px 140px;
-    
-    /* The continuous falling animation */
-    animation: rain-fall-severe 0.4s linear infinite;
-    opacity: 0.9;
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-severe-thunderstorm, .narrative-theme-severe-thunderstorm, [data-narrative-theme="severe-thunderstorm"]) {
+    color-scheme: dark;
+    --rs-bg: #030712;
+    --rs-bg-alt: #091020;
+    --rs-surface: #0f172a;
+    --rs-card-bg: #0f172a;
+    --rs-text: #e2e8f0;
+    --rs-text-muted: #94a3b8;
+    --rs-heading: #f8fafc;
+    --rs-primary: #38bdf8;
+    --rs-on-primary: #02040a;
+    --rs-secondary: #bae6fd;
+    --rs-border: #243247;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #38bdf8;
 }
 
-/**
- * ----------------------------------------------------------------------------
- * 3. LIGHTNING FLASH OVERLAY
- * ----------------------------------------------------------------------------
- * A pure white overlay that briefly flashes into visibility.
- */
-body.theme-severe-thunderstorm::after {
-    content: "";
-    position: fixed;
-    top: 0; left: 0; right: 0; bottom: 0;
-    pointer-events: none;
-    z-index: 9998; /* Just below the rain, but above content */
-    background-color: white;
-    opacity: 0; /* Hidden by default */
-    
-    /* Long 8-second loop with sudden bursts of opacity */
-    animation: lightning-flash-severe 8s infinite;
-}
-
-/**
- * ----------------------------------------------------------------------------
- * 4. KEYFRAMES
- * ----------------------------------------------------------------------------
- */
-
-/* Translates the background gradients diagonally to simulate falling rain */
-@keyframes rain-fall-severe {
-    0% { background-position: 0px 0px, 0px 0px, 0px 0px; }
-    100% { background-position: 25px 70px, 35px 100px, 49px 140px; }
-}
-
-/* Simulates a realistic lightning strobe: off, quick flash, off, larger flash, fade */
-@keyframes lightning-flash-severe {
-    /* Baseline: invisible */
-    0%, 91%, 93%, 95%, 98%, 100% { opacity: 0; }
-    /* The strikes */
-    92% { opacity: 0.4; }
-    94% { opacity: 0.1; }
-    96% { opacity: 0.5; }
-    97% { opacity: 0.2; }
-}
-
-/**
- * ----------------------------------------------------------------------------
- * 5. ACCESSIBILITY (WCAG COMPLIANCE)
- * ----------------------------------------------------------------------------
- * Instantly disables the strobe effects and freezes the rain for users 
- * who have requested reduced motion at the OS level.
- */
-@media (prefers-reduced-motion: reduce) {
-    body.theme-severe-thunderstorm::before {
-        animation: none;
-        opacity: 0.5; /* Dim the static rain so it doesn't distract */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-severe-thunderstorm, .narrative-theme-severe-thunderstorm, [data-narrative-theme="severe-thunderstorm"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-severe-thunderstorm, .narrative-theme-severe-thunderstorm, [data-narrative-theme="severe-thunderstorm"]) {
+        color-scheme: dark;
+        --rs-bg: #030712;
+        --rs-bg-alt: #091020;
+        --rs-surface: #0f172a;
+        --rs-card-bg: #0f172a;
+        --rs-text: #e2e8f0;
+        --rs-text-muted: #94a3b8;
+        --rs-heading: #f8fafc;
+        --rs-primary: #38bdf8;
+        --rs-on-primary: #02040a;
+        --rs-secondary: #bae6fd;
+        --rs-border: #243247;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #38bdf8;
     }
-    body.theme-severe-thunderstorm::after {
-        animation: none;
-        display: none; /* Completely disable lightning flashes */
+}
+
+/* Procedural Rain Overlay (Adapts Dark-Slate Raindrops in Light Mode & Silver Streaks in Dark Mode) */
+body:is(.theme-severe-thunderstorm, .narrative-theme-severe-thunderstorm, [data-narrative-theme="severe-thunderstorm"])::before {
+    content: "";
+    position: fixed;
+    top: -200px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    pointer-events: none;
+    z-index: 9999;
+    background-image:
+        linear-gradient(160deg, transparent 44%, rgba(15, 23, 42, 0.055) 50%, transparent 56%),
+        linear-gradient(160deg, transparent 47%, rgba(15, 23, 42, 0.035) 50%, transparent 53%);
+    background-size: 60px 100px, 100px 150px;
+    animation: rs-rain-fall-severe-thunderstorm 0.45s linear infinite;
+    opacity: 0.65;
+}
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-severe-thunderstorm, .narrative-theme-severe-thunderstorm, [data-narrative-theme="severe-thunderstorm"])::before {
+    background-image:
+        linear-gradient(160deg, transparent 43%, rgba(255, 255, 255, 0.07) 50%, transparent 57%),
+        linear-gradient(160deg, transparent 46%, rgba(255, 255, 255, 0.045) 50%, transparent 54%);
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-severe-thunderstorm, .narrative-theme-severe-thunderstorm, [data-narrative-theme="severe-thunderstorm"])::before,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-severe-thunderstorm, .narrative-theme-severe-thunderstorm, [data-narrative-theme="severe-thunderstorm"])::before {
+        background-image:
+            linear-gradient(160deg, transparent 43%, rgba(255, 255, 255, 0.07) 50%, transparent 57%),
+            linear-gradient(160deg, transparent 46%, rgba(255, 255, 255, 0.045) 50%, transparent 54%);
+    }
+}
+@keyframes rs-rain-fall-severe-thunderstorm {
+    0% { background-position: 0px 0px, 0px 0px; }
+    100% { background-position: 35px 100px, 50px 150px; }
+}
+
+/* Photosensitivity-Safe Distant Sheet-Lightning Shimmer (Dark Mode Only; Disabled in Reduced Motion) */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-severe-thunderstorm, .narrative-theme-severe-thunderstorm, [data-narrative-theme="severe-thunderstorm"])::after {
+    content: "";
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 9998;
+    background-color: #cbd5e1;
+    opacity: 0;
+    animation: rs-lightning-severe-thunderstorm 14s infinite;
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-severe-thunderstorm, .narrative-theme-severe-thunderstorm, [data-narrative-theme="severe-thunderstorm"])::after,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-severe-thunderstorm, .narrative-theme-severe-thunderstorm, [data-narrative-theme="severe-thunderstorm"])::after {
+        content: "";
+        position: fixed;
+        inset: 0;
+        pointer-events: none;
+        z-index: 9998;
+        background-color: #cbd5e1;
+        opacity: 0;
+        animation: rs-lightning-severe-thunderstorm 14s infinite;
+    }
+}
+@keyframes rs-lightning-severe-thunderstorm {
+    0%, 93%, 95.5%, 98%, 100% { opacity: 0; }
+    94% { opacity: 0.10; }
+    96.5% { opacity: 0.16; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+    body:is(.theme-severe-thunderstorm, .narrative-theme-severe-thunderstorm, [data-narrative-theme="severe-thunderstorm"])::before {
+        animation: none !important;
+        opacity: 0.28;
+    }
+    body:is(.theme-severe-thunderstorm, .narrative-theme-severe-thunderstorm, [data-narrative-theme="severe-thunderstorm"])::after {
+        animation: none !important;
+        display: none !important;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-severe-thunderstorm, .narrative-theme-severe-thunderstorm, [data-narrative-theme="severe-thunderstorm"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-severe-thunderstorm, .narrative-theme-severe-thunderstorm, [data-narrative-theme="severe-thunderstorm"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-severe-thunderstorm, .narrative-theme-severe-thunderstorm, [data-narrative-theme="severe-thunderstorm"])::before,
+    body:is(.theme-severe-thunderstorm, .narrative-theme-severe-thunderstorm, [data-narrative-theme="severe-thunderstorm"])::after {
+        display: none !important;
     }
 }

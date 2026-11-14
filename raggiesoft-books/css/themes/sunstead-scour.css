@@ -1,66 +1,114 @@
 /**
  * ============================================================================
- * STARDUST THEME: SUNSTEAD SCOUR - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: SUNSTEAD SCOUR (`sunstead-scour.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines the "Sunstead Scour" reading theme for the Stardust 
- * Engine. It utilizes intense purples, magentas, and fuchsias to create a 
- * vibrant, otherworldly, or magical reading environment.
- * 
- * Core Components:
- * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
- *    the main reader layout (reader.css).
- * 2. Theme Cascade: Implements three specific states to handle user preferences 
- *    and OS-level settings:
- *    - Light Mode (Default/Base fallback - soft pinkish-purple backgrounds)
- *    - Forced Dark Mode (Deep violet backgrounds with bright fuchsia accents)
- *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
- * 
- * Maintainability Notes:
- * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
- *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
- *   state to prevent visual regressions during theme swapping.
- * - Always duplicate the Forced Dark Mode variables into the `@media` query 
- *   block to ensure visual consistency when OS Auto mode triggers.
+ *
+ * Architectural Overview:
+ * STARDUST THEME: SUNSTEAD SCOUR - ARCHITECTURAL OVERVIEW Description: This stylesheet defines the "Sunstead Scour" reading theme for the Stardust Engine. It utilizes intense purples, magentas, and fuchsias to create a vibrant, otherworldly, or magical reading environment. Core Components: 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by the main reader layout (reader.css).
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#fdf4ff` / `#fae8ff` (`color-scheme: light`)
+ *     * Body Prose (`#4a044e`): 12.73:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#845487`): 5.02:1 min (WCAG AA)
+ *     * Headings (`#38033a`): 14.53:1 min (WCAG AAA)
+ *     * Primary Accent (`#86198f`): 7.08:1 min (`--rs-on-primary: #ffffff` = 8.24:1)
+ *     * Secondary Accent (`#a21caf`): 5.43:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#3b0764` / `#2e1065` (`color-scheme: dark`)
+ *     * Body Prose (`#fdf4ff`): 12.81:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#cbb6d7`): 7.34:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 13.14:1 min (WCAG AAA)
+ *     * Primary Accent (`#e879f9`): 5.59:1 min (`--rs-on-primary: #200437` = 7.53:1)
+ *     * Secondary Accent (`#e16df2`): 5.02:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Sunstead Scour */
-
-/* --- 1. Light Mode (Base) --- */
-/* Acts as the default state and explicitly forced light mode */
-body.theme-sunstead-scour,
-body.theme-light.theme-sunstead-scour {
-    --rs-bg: #fdf4ff; /* Extremely pale fuchsia */
-    --rs-surface: #fae8ff; /* Soft, warm purple surface */
-    --rs-text: #4a044e; /* Dark plum text */
-    --rs-primary: #86198f; /* Vibrant magenta primary */
-    --rs-secondary: #a21caf; /* Brighter fuchsia secondary */
-    --rs-border: #f5d0fe; /* Light fuchsia border */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-sunstead-scour, .narrative-theme-sunstead-scour, [data-narrative-theme="sunstead-scour"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-sunstead-scour, .narrative-theme-sunstead-scour, [data-narrative-theme="sunstead-scour"]) {
+    color-scheme: light;
+    --rs-bg: #fdf4ff;
+    --rs-bg-alt: #f2edf8;
+    --rs-surface: #fae8ff;
+    --rs-card-bg: #fae8ff;
+    --rs-text: #4a044e;
+    --rs-text-muted: #845487;
+    --rs-heading: #38033a;
+    --rs-primary: #86198f;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #a21caf;
+    --rs-border: #f5d0fe;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #86198f;
 }
 
-/* --- 2. Dark Mode (Explicitly Forced) --- */
-/* Applied when the user manually toggles the reader to Dark Mode */
-body.theme-dark.theme-sunstead-scour {
-    --rs-bg: #3b0764; /* Deep, intense violet */
-    --rs-surface: #2e1065; /* Darker violet surface */
-    --rs-text: #fdf4ff; /* Pale fuchsia text */
-    --rs-primary: #e879f9; /* Bright, glowing magenta */
-    --rs-secondary: #d946ef; /* Intense pink secondary */
-    --rs-border: #581c87; /* Violet border */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-sunstead-scour, .narrative-theme-sunstead-scour, [data-narrative-theme="sunstead-scour"]) {
+    color-scheme: dark;
+    --rs-bg: #3b0764;
+    --rs-bg-alt: #43116a;
+    --rs-surface: #2e1065;
+    --rs-card-bg: #2e1065;
+    --rs-text: #fdf4ff;
+    --rs-text-muted: #cbb6d7;
+    --rs-heading: #f8fafc;
+    --rs-primary: #e879f9;
+    --rs-on-primary: #200437;
+    --rs-secondary: #e16df2;
+    --rs-border: #581c87;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #e879f9;
 }
 
-/* --- 3. OS Auto Dark Mode --- */
-/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-sunstead-scour,
-    body:not(.theme-light):not(.theme-dark).theme-sunstead-scour {
-        --rs-bg: #3b0764; /* Matches Forced Dark Mode */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-sunstead-scour, .narrative-theme-sunstead-scour, [data-narrative-theme="sunstead-scour"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-sunstead-scour, .narrative-theme-sunstead-scour, [data-narrative-theme="sunstead-scour"]) {
+        color-scheme: dark;
+        --rs-bg: #3b0764;
+        --rs-bg-alt: #43116a;
         --rs-surface: #2e1065;
+        --rs-card-bg: #2e1065;
         --rs-text: #fdf4ff;
+        --rs-text-muted: #cbb6d7;
+        --rs-heading: #f8fafc;
         --rs-primary: #e879f9;
-        --rs-secondary: #d946ef;
+        --rs-on-primary: #200437;
+        --rs-secondary: #e16df2;
         --rs-border: #581c87;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #e879f9;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-sunstead-scour, .narrative-theme-sunstead-scour, [data-narrative-theme="sunstead-scour"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-sunstead-scour, .narrative-theme-sunstead-scour, [data-narrative-theme="sunstead-scour"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-sunstead-scour, .narrative-theme-sunstead-scour, [data-narrative-theme="sunstead-scour"])::before,
+    body:is(.theme-sunstead-scour, .narrative-theme-sunstead-scour, [data-narrative-theme="sunstead-scour"])::after {
+        display: none !important;
     }
 }

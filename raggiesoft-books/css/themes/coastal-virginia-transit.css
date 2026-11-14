@@ -1,187 +1,131 @@
 /**
  * ============================================================================
- * STARDUST THEME: COASTAL VIRGINIA TRANSIT (CVTA BUSES, HRBT & REGIONAL RAIL)
+ * STARDUST ENGINE NARRATIVE THEME: COASTAL VIRGINIA TRANSIT (`coastal-virginia-transit.css`)
  * ============================================================================
  *
- * Description:
- * This stylesheet (`coastal-virginia-transit.css`) defines the bespoke
- * "Coastal Virginia Transit" reading theme (`theme: "coastal-virginia-transit"`)
- * for *Katie & Nathaniel* (`books/katie`) and Hampton Roads transit scenes
- * across the Ocean View Archives. It celebrates the independence and mobility
- * Katie and Nate achieve rolling side by side in their compact powerchairs
- * onto the hydraulic kneeling ramps of Coastal Virginia Transit Authority
- * (`CVTA`) low-floor buses (`Routes 1, 12, 13, 15, 20, 29, 36, 960`), crossing
- * the Hampton Roads Bridge-Tunnel (`HRBT`), riding the five-bus relay from
- * Williamsburg back to West Ocean View on November 12, 2005, launching the
- * *Ideas for CVTA* transit advocacy blog, and boarding the `ARTS` Northeast
- * Regional and Capital Transit Yellow Line trains.
+ * Architectural Overview:
+ * STARDUST THEME: COASTAL VIRGINIA TRANSIT (CVTA BUSES, HRBT & REGIONAL RAIL) Description: This stylesheet (`coastal-virginia-transit.css`) defines the bespoke "Coastal Virginia Transit" reading theme (`theme: "coastal-virginia-transit"`) for *Katie & Nathaniel* (`books/katie`) and Hampton Roads transit scenes across the Ocean View Archives. It celebrates the independence and mobility Katie and Nate achieve rolling side by side in their compact powerchairs onto the hydraulic kneeling ramps of Coastal Virginia Transit Authority
  *
- * Psychological & Visual Architecture:
- * - Light Mode ("Tidewater Sky Alabaster, CVTA Fleet Navy-Teal & Amber LED"):
- *   Pairs a crisp Tidewater Morning Mist canvas (`#f4f8fb`) and pure timetable
- *   white surfaces (`#ffffff`) with deep Maritime Asphalt ink (`#0f1b29`),
- *   CVTA Kneeling-Ramp Coastal Blue-Teal primary accents (`#0b5374`), and
- *   Amber LED Destination-Header secondary accents (`#92400e`).
- * - Dark Mode ("Night Bus Over the HRBT, Amber LED Headsign & Securement Cyan"):
- *   Pairs a deep Chesapeake Bay Night-Crossing Obsidian canvas (`#070e17`) and
- *   illuminated coach interior surfaces (`#122033`) with crisp Headlight
- *   Ice-White prose (`#f0f7ff`), Reflective Securement-Strip Sky Blue primary
- *   accents (`#38bdf8`), and Amber LED Route-Number Gold (`#fbbf24`).
- *
- * WCAG 2.1 AA / AAA Contrast Verification:
- * - Light Mode:
- *   - Body Text (`#0f1b29` on `#f4f8fb` bg): 16.41:1 (WCAG AAA)
- *   - Body Text (`#0f1b29` on `#ffffff` surface): 17.38:1 (WCAG AAA)
- *   - Primary Accent (`#0b5374` on `#f4f8fb` bg): 7.88:1 (WCAG AAA)
- *   - Secondary Accent (`#92400e` on `#f4f8fb` bg): 6.58:1 (WCAG AA)
- * - Dark Mode:
- *   - Body Text (`#f0f7ff` on `#070e17` bg): 18.12:1 (WCAG AAA)
- *   - Body Text (`#f0f7ff` on `#122033` surface): 14.86:1 (WCAG AAA)
- *   - Primary Accent (`#38bdf8` on `#070e17` bg): 10.48:1 (WCAG AAA)
- *   - Secondary Accent (`#fbbf24` on `#070e17` bg): 11.86:1 (WCAG AAA)
- *   - Primary Button (`#f0f9ff` on `#075985` fill): 7.84:1 (WCAG AAA)
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f4f8fb` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#0f1b29`): 14.74:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#5d656f`): 5.01:1 min (WCAG AA)
+ *     * Headings (`#0c3b5e`): 9.89:1 min (WCAG AAA)
+ *     * Primary Accent (`#0b5374`): 7.12:1 min (`--rs-on-primary: #ffffff` = 8.39:1)
+ *     * Secondary Accent (`#92400e`): 6.02:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#070e17` / `#122033` (`color-scheme: dark`)
+ *     * Body Prose (`#f0f7ff`): 15.20:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#b3bac3`): 8.38:1 min (WCAG AA)
+ *     * Headings (`#fef3c7`): 14.73:1 min (WCAG AAA)
+ *     * Primary Accent (`#38bdf8`): 7.66:1 min (`--rs-on-primary: #04080d` = 9.37:1)
+ *     * Secondary Accent (`#fbbf24`): 9.83:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Coastal Virginia Transit (`coastal-virginia-transit`) */
-
-/* --- 1. Light Mode (Base & Explicit OS/User Light Preference) --- */
-body.theme-coastal-virginia-transit,
-body.theme-light.theme-coastal-virginia-transit,
-body.theme-sepia.theme-coastal-virginia-transit {
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-coastal-virginia-transit, .narrative-theme-coastal-virginia-transit, [data-narrative-theme="coastal-virginia-transit"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-coastal-virginia-transit, .narrative-theme-coastal-virginia-transit, [data-narrative-theme="coastal-virginia-transit"]) {
     color-scheme: light;
-    --rs-bg: #f4f8fb;        /* Tidewater Morning Mist canvas */
-    --rs-bg-alt: #e3eef6;    /* Hampton Roads Bay-Breeze sidebar background */
-    --rs-surface: #ffffff;   /* Crisp Bus-Timetable White reading surface */
-    --rs-card-bg: #ffffff;   /* Modal and card container surface */
-    --rs-text: #0f1b29;      /* Deep Maritime Asphalt prose ink (16.41:1 contrast) */
-    --rs-heading: #0c3b5e;   /* CVTA Fleet Corridor Navy heading token */
-    --rs-primary: #0b5374;   /* CVTA Kneeling-Ramp Coastal Blue-Teal primary accent (7.88:1 contrast) */
-    --rs-secondary: #92400e; /* Amber LED Destination-Header secondary accent (6.58:1 contrast) */
-    --rs-border: #bdd3e4;    /* Steel Securement-Track structural border */
+    --rs-bg: #f4f8fb;
+    --rs-bg-alt: #e3eef6;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #0f1b29;
+    --rs-text-muted: #5d656f;
+    --rs-heading: #0c3b5e;
+    --rs-primary: #0b5374;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #92400e;
+    --rs-border: #bdd3e4;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
     accent-color: #0b5374;
 }
 
-@media (prefers-color-scheme: light) {
-    body.theme-auto.theme-coastal-virginia-transit,
-    body.theme-sepia-system.theme-coastal-virginia-transit {
-        color-scheme: light;
-        --rs-bg: #f4f8fb;
-        --rs-bg-alt: #e3eef6;
-        --rs-surface: #ffffff;
-        --rs-card-bg: #ffffff;
-        --rs-text: #0f1b29;
-        --rs-heading: #0c3b5e;
-        --rs-primary: #0b5374;
-        --rs-secondary: #92400e;
-        --rs-border: #bdd3e4;
-        accent-color: #0b5374;
-    }
-}
-
-body.theme-coastal-virginia-transit #stardust-reading-pane,
-body.theme-light.theme-coastal-virginia-transit #stardust-reading-pane,
-body.theme-sepia.theme-coastal-virginia-transit #stardust-reading-pane {
-    box-shadow: inset 0 6px 28px rgba(11, 83, 116, 0.05);
-}
-
-/* --- 2. Dark Mode (Explicitly Forced by Reader Toggle) --- */
-body.theme-dark.theme-coastal-virginia-transit,
-body.theme-dark-sepia.theme-coastal-virginia-transit {
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-coastal-virginia-transit, .narrative-theme-coastal-virginia-transit, [data-narrative-theme="coastal-virginia-transit"]) {
     color-scheme: dark;
-    --rs-bg: #070e17;        /* Chesapeake Bay Night-Crossing Obsidian canvas */
-    --rs-bg-alt: #0c1624;    /* Silverleaf Transit Center Night-Bay sidebar background */
-    --rs-surface: #122033;   /* Illuminated Coach Interior reading surface */
-    --rs-card-bg: #122033;   /* Matching elevated dark container surface */
-    --rs-text: #f0f7ff;      /* Crisp Headlight Ice-White prose text (18.12:1 contrast) */
-    --rs-heading: #fef3c7;   /* Amber LED Destination-Sign heading token */
-    --rs-primary: #38bdf8;   /* Reflective Securement-Strip Sky Blue primary accent (10.48:1 contrast) */
-    --rs-secondary: #fbbf24; /* Amber LED Route-Number Gold secondary accent (11.86:1 contrast) */
-    --rs-border: #213956;    /* Bridge-Tunnel Guardrail structural border */
+    --rs-bg: #070e17;
+    --rs-bg-alt: #0c1624;
+    --rs-surface: #122033;
+    --rs-card-bg: #122033;
+    --rs-text: #f0f7ff;
+    --rs-text-muted: #b3bac3;
+    --rs-heading: #fef3c7;
+    --rs-primary: #38bdf8;
+    --rs-on-primary: #04080d;
+    --rs-secondary: #fbbf24;
+    --rs-border: #213956;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
     accent-color: #38bdf8;
 }
 
-body.theme-dark.theme-coastal-virginia-transit #stardust-reading-pane,
-body.theme-dark-sepia.theme-coastal-virginia-transit #stardust-reading-pane {
-    box-shadow: inset 0 6px 32px rgba(56, 189, 248, 0.05);
-}
-
-/* Ensure primary buttons in forced Dark Mode maintain AAA text contrast (7.84:1) */
-body.theme-dark.theme-coastal-virginia-transit .rs-btn-primary,
-body.theme-dark-sepia.theme-coastal-virginia-transit .rs-btn-primary {
-    background-color: #075985;
-    border-color: #38bdf8;
-    color: #f0f9ff;
-}
-
-body.theme-dark.theme-coastal-virginia-transit .rs-btn-primary:hover,
-body.theme-dark-sepia.theme-coastal-virginia-transit .rs-btn-primary:hover,
-body.theme-dark.theme-coastal-virginia-transit .rs-btn-primary:focus-visible,
-body.theme-dark-sepia.theme-coastal-virginia-transit .rs-btn-primary:focus-visible {
-    background-color: #0369a1;
-    border-color: #fbbf24;
-    color: #ffffff;
-}
-
-/* --- 3. Dark Mode (OS Preference via `prefers-color-scheme: dark`) --- */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-coastal-virginia-transit,
-    body.theme-sepia-system.theme-coastal-virginia-transit,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-coastal-virginia-transit {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-coastal-virginia-transit, .narrative-theme-coastal-virginia-transit, [data-narrative-theme="coastal-virginia-transit"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-coastal-virginia-transit, .narrative-theme-coastal-virginia-transit, [data-narrative-theme="coastal-virginia-transit"]) {
         color-scheme: dark;
         --rs-bg: #070e17;
         --rs-bg-alt: #0c1624;
         --rs-surface: #122033;
         --rs-card-bg: #122033;
         --rs-text: #f0f7ff;
+        --rs-text-muted: #b3bac3;
         --rs-heading: #fef3c7;
         --rs-primary: #38bdf8;
+        --rs-on-primary: #04080d;
         --rs-secondary: #fbbf24;
         --rs-border: #213956;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
         accent-color: #38bdf8;
-    }
-
-    body.theme-auto.theme-coastal-virginia-transit #stardust-reading-pane,
-    body.theme-sepia-system.theme-coastal-virginia-transit #stardust-reading-pane,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-coastal-virginia-transit #stardust-reading-pane {
-        box-shadow: inset 0 6px 32px rgba(56, 189, 248, 0.05);
-    }
-
-    body.theme-auto.theme-coastal-virginia-transit .rs-btn-primary,
-    body.theme-sepia-system.theme-coastal-virginia-transit .rs-btn-primary,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-coastal-virginia-transit .rs-btn-primary {
-        background-color: #075985;
-        border-color: #38bdf8;
-        color: #f0f9ff;
-    }
-
-    body.theme-auto.theme-coastal-virginia-transit .rs-btn-primary:hover,
-    body.theme-sepia-system.theme-coastal-virginia-transit .rs-btn-primary:hover,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-coastal-virginia-transit .rs-btn-primary:hover,
-    body.theme-auto.theme-coastal-virginia-transit .rs-btn-primary:focus-visible,
-    body.theme-sepia-system.theme-coastal-virginia-transit .rs-btn-primary:focus-visible,
-    body:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia).theme-coastal-virginia-transit .rs-btn-primary:focus-visible {
-        background-color: #0369a1;
-        border-color: #fbbf24;
-        color: #ffffff;
     }
 }
 
-/* --- 4. Forced Colors (Windows High Contrast Mode) Safety --- */
+/* Atmospheric Reading Pane Framing (Light & Sepia) */
+:is(body, body.theme-oceanview):is(.theme-coastal-virginia-transit, .narrative-theme-coastal-virginia-transit, [data-narrative-theme="coastal-virginia-transit"]) #stardust-reading-pane,
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-coastal-virginia-transit, .narrative-theme-coastal-virginia-transit, [data-narrative-theme="coastal-virginia-transit"]) #stardust-reading-pane {
+    box-shadow: inset 0 6px 28px rgba(11, 83, 116, 0.05);
+}
+
+/* Atmospheric Reading Pane Framing (Dark & System Auto Dark) */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-coastal-virginia-transit, .narrative-theme-coastal-virginia-transit, [data-narrative-theme="coastal-virginia-transit"]) #stardust-reading-pane {
+    box-shadow: inset 0 6px 32px rgba(56, 189, 248, 0.05);
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-coastal-virginia-transit, .narrative-theme-coastal-virginia-transit, [data-narrative-theme="coastal-virginia-transit"]) #stardust-reading-pane,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-coastal-virginia-transit, .narrative-theme-coastal-virginia-transit, [data-narrative-theme="coastal-virginia-transit"]) #stardust-reading-pane {
+        box-shadow: inset 0 6px 32px rgba(56, 189, 248, 0.05);
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
 @media (forced-colors: active) {
-    body.theme-coastal-virginia-transit {
+    body:is(.theme-coastal-virginia-transit, .narrative-theme-coastal-virginia-transit, [data-narrative-theme="coastal-virginia-transit"]) {
         --rs-bg: Canvas;
         --rs-bg-alt: Canvas;
         --rs-surface: Canvas;
         --rs-card-bg: Canvas;
         --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
         --rs-heading: CanvasText;
         --rs-primary: LinkText;
-        --rs-secondary: Highlight;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
         --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
     }
-
-    body.theme-coastal-virginia-transit #stardust-reading-pane {
-        box-shadow: none;
+    body:is(.theme-coastal-virginia-transit, .narrative-theme-coastal-virginia-transit, [data-narrative-theme="coastal-virginia-transit"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-coastal-virginia-transit, .narrative-theme-coastal-virginia-transit, [data-narrative-theme="coastal-virginia-transit"])::before,
+    body:is(.theme-coastal-virginia-transit, .narrative-theme-coastal-virginia-transit, [data-narrative-theme="coastal-virginia-transit"])::after {
+        display: none !important;
     }
 }

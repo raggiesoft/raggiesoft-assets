@@ -1,70 +1,150 @@
 /**
  * ============================================================================
- * STARDUST THEME: NIGHT - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: NIGHT (`night.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines the "Night" reading theme for the Stardust Engine. 
- * This is a specialized, rigid theme (heavily inspired by GitHub Dark) that 
- * explicitly overrides all layout frameworks to guarantee a unified dark mode 
- * experience, regardless of user OS settings or local app toggles.
- * 
- * Core Components:
- * 1. Omni-State Selector: The CSS targets `.theme-night` along with `.theme-light`, 
- *    `.theme-dark`, and `.theme-auto` simultaneously. This ensures the theme 
- *    is strictly forced and cannot be accidentally overridden by cascade rules.
- * 2. Cross-Framework Overrides:
- *    - `Stardust Engine Variables` (`--rs-*`): Standard reader UI styling.
- *    - `WebAwesome / RaggieSoft Grid Variables` (`--wa-*`): Overrides the underlying 
- *      component polyfills to match the dark aesthetic.
- *    - `Bootstrap Legacy Variables` (`--bs-*`): Catches any lingering legacy 
- *      components that haven't been migrated to the Stardust/WA tokens.
- * 
- * Maintainability Notes:
- * - Do NOT introduce light mode variants to this file. It is intentionally 
- *   hardcoded to a single dark state.
- * - When adding new overarching design tokens to the engine, they must be 
- *   explicitly mapped here to prevent them from falling back to default white.
+ *
+ * Architectural Overview:
+ * STARDUST THEME: NIGHT - ARCHITECTURAL OVERVIEW Description: This stylesheet defines the "Night" reading theme for the Stardust Engine. This is a specialized, rigid theme (heavily inspired by GitHub Dark) that explicitly overrides all layout frameworks to guarantee a unified dark mode experience, regardless of user OS settings or local app toggles. Core Components: 1. Omni-State Selector: The CSS targets `.theme-night` along with `.theme-light`,
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f3f6fa` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#0d1117`): 15.91:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#3f4956`): 7.68:1 min (WCAG AA)
+ *     * Headings (`#070a0e`): 16.68:1 min (WCAG AAA)
+ *     * Primary Accent (`#0950b5`): 6.25:1 min (`--rs-on-primary: #ffffff` = 7.43:1)
+ *     * Secondary Accent (`#1d4ed8`): 5.63:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#0d1117` / `#161b22` (`color-scheme: dark`)
+ *     * Body Prose (`#e2e8f0`): 14.03:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#9ca7b5`): 7.09:1 min (WCAG AA)
+ *     * Headings (`#f0f6fc`): 15.89:1 min (WCAG AAA)
+ *     * Primary Accent (`#58a6ff`): 6.85:1 min (`--rs-on-primary: #07090d` = 7.89:1)
+ *     * Secondary Accent (`#79c0ff`): 8.89:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Night */
-/* theme-night.css */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-night, .narrative-theme-night, [data-narrative-theme="night"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-night, .narrative-theme-night, [data-narrative-theme="night"]) {
+    color-scheme: light;
+    --rs-bg: #f3f6fa;
+    --rs-bg-alt: #e6ecf3;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #0d1117;
+    --rs-text-muted: #3f4956;
+    --rs-heading: #070a0e;
+    --rs-primary: #0950b5;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #1d4ed8;
+    --rs-border: #c8d1dc;
+    --rs-asl: #156f36;
+    --rs-gesture: #4338ca;
+    accent-color: #0950b5;
+    --wa-color-surface-default: #f3f6fa;
+    --wa-color-text-normal: #0d1117;
+    --wa-color-brand-fill: #0950b5;
+    --wa-color-brand-text: #1d4ed8;
+    --wa-color-neutral-border-quiet: #c8d1dc;
+    --bs-body-bg: #f3f6fa;
+    --bs-body-color: #0d1117;
+    --bs-primary: #0950b5;
+    --bs-secondary: #1d4ed8;
+    --bs-border-color: #c8d1dc;
+    --bs-link-color: #0950b5;
+    --bs-link-hover-color: #1d4ed8;
+}
 
-/* --- Forced Omni-State --- */
-/* Applies the dark palette regardless of the user's light/dark/auto selection */
-body.theme-night,
-body.theme-light.theme-night,
-body.theme-dark.theme-night,
-body.theme-auto.theme-night {
-    
-    /* 1. Stardust Engine Variables */
-    --rs-bg: #0d1117; /* Very dark blue/gray */
-    --rs-surface: #161b22; /* Elevated dark panel */
-    --rs-text: #c9d1d9; /* High contrast off-white */
-    --rs-primary: #58a6ff; /* Bright blue accent */
-    --rs-secondary: #79c0ff; /* Lighter blue secondary */
-    --rs-border: #30363d; /* Dark gray border */
-    
-    /* Specific formatting highlights for story content */
-    --rs-asl: #3fb950; /* Emerald-400 equivalent for dark mode (sign language) */
-    --rs-gesture: #8b949e; /* Gray-400 for dark mode (physical actions) */
-
-    /* 2. RaggieSoft Grid / WebAwesome Overrides to fix inheritance */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-night, .narrative-theme-night, [data-narrative-theme="night"]) {
+    color-scheme: dark;
+    --rs-bg: #0d1117;
+    --rs-bg-alt: #121820;
+    --rs-surface: #161b22;
+    --rs-card-bg: #161b22;
+    --rs-text: #e2e8f0;
+    --rs-text-muted: #9ca7b5;
+    --rs-heading: #f0f6fc;
+    --rs-primary: #58a6ff;
+    --rs-on-primary: #07090d;
+    --rs-secondary: #79c0ff;
+    --rs-border: #30363d;
+    --rs-asl: #4ade80;
+    --rs-gesture: #b6c2cf;
+    accent-color: #58a6ff;
     --wa-color-surface-default: #0d1117;
-    --wa-color-text-normal: #c9d1d9;
+    --wa-color-text-normal: #e2e8f0;
     --wa-color-brand-fill: #58a6ff;
     --wa-color-brand-text: #79c0ff;
     --wa-color-neutral-border-quiet: #30363d;
-
-    /* 3. Legacy Bootstrap Overrides (if any components still use them) */
     --bs-body-bg: #0d1117;
-    --bs-body-color: #c9d1d9;
+    --bs-body-color: #e2e8f0;
     --bs-primary: #58a6ff;
     --bs-secondary: #79c0ff;
     --bs-border-color: #30363d;
-    
-    /* Base link overrides */
     --bs-link-color: #58a6ff;
     --bs-link-hover-color: #79c0ff;
+}
+
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-night, .narrative-theme-night, [data-narrative-theme="night"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-night, .narrative-theme-night, [data-narrative-theme="night"]) {
+        color-scheme: dark;
+        --rs-bg: #0d1117;
+        --rs-bg-alt: #121820;
+        --rs-surface: #161b22;
+        --rs-card-bg: #161b22;
+        --rs-text: #e2e8f0;
+        --rs-text-muted: #9ca7b5;
+        --rs-heading: #f0f6fc;
+        --rs-primary: #58a6ff;
+        --rs-on-primary: #07090d;
+        --rs-secondary: #79c0ff;
+        --rs-border: #30363d;
+        --rs-asl: #4ade80;
+        --rs-gesture: #b6c2cf;
+        accent-color: #58a6ff;
+        --wa-color-surface-default: #0d1117;
+        --wa-color-text-normal: #e2e8f0;
+        --wa-color-brand-fill: #58a6ff;
+        --wa-color-brand-text: #79c0ff;
+        --wa-color-neutral-border-quiet: #30363d;
+        --bs-body-bg: #0d1117;
+        --bs-body-color: #e2e8f0;
+        --bs-primary: #58a6ff;
+        --bs-secondary: #79c0ff;
+        --bs-border-color: #30363d;
+        --bs-link-color: #58a6ff;
+        --bs-link-hover-color: #79c0ff;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-night, .narrative-theme-night, [data-narrative-theme="night"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-night, .narrative-theme-night, [data-narrative-theme="night"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-night, .narrative-theme-night, [data-narrative-theme="night"])::before,
+    body:is(.theme-night, .narrative-theme-night, [data-narrative-theme="night"])::after {
+        display: none !important;
+    }
 }

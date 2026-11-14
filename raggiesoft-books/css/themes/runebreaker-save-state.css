@@ -1,68 +1,114 @@
 /**
  * ============================================================================
- * STARDUST THEME: RUNEBREAKER SAVE STATE - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: RUNEBREAKER SAVE STATE (`runebreaker-save-state.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines the "Runebreaker Save State" reading theme for the
- * dawn of the Second Era ("Save State (Until Next Time)"). It evokes the pure,
- * uncorrupted golden sunrise over the restored Dream Kingdom and the serene,
- * music-box calm of a 16-bit JRPG save point.
- * 
- * Core Components:
- * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
- *    the main reader layout (reader.css).
- * 2. Theme Cascade: Implements three specific states to handle user preferences 
- *    and OS-level settings:
- *    - Light Mode (Radiant dawn ivory with united ruby-and-sapphire medallion accents)
- *    - Forced Dark Mode (Serene starlit save-room navy with warm golden crystal glow)
- *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
- * 
- * Maintainability Notes:
- * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
- *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
- *   state to prevent visual regressions during theme swapping.
- * - Always duplicate the Forced Dark Mode variables into the `@media` query 
- *   block to ensure visual consistency when OS Auto mode triggers.
+ *
+ * Architectural Overview:
+ * STARDUST THEME: RUNEBREAKER SAVE STATE - ARCHITECTURAL OVERVIEW Description: This stylesheet defines the "Runebreaker Save State" reading theme for the dawn of the Second Era ("Save State (Until Next Time)"). It evokes the pure, uncorrupted golden sunrise over the restored Dream Kingdom and the serene, music-box calm of a 16-bit JRPG save point. Core Components: 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#fffdf7` / `#fef9c3` (`color-scheme: light`)
+ *     * Body Prose (`#0f172a`): 16.21:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#616570`): 5.29:1 min (WCAG AA)
+ *     * Headings (`#0b1120`): 17.10:1 min (WCAG AAA)
+ *     * Primary Accent (`#8d6003`): 5.01:1 min (`--rs-on-primary: #ffffff` = 5.52:1)
+ *     * Secondary Accent (`#026ea7`): 5.03:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#060d1f` / `#0f1d3a` (`color-scheme: dark`)
+ *     * Body Prose (`#f8fafc`): 15.97:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#b9bcc3`): 8.79:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 15.97:1 min (WCAG AAA)
+ *     * Primary Accent (`#facc15`): 10.91:1 min (`--rs-on-primary: #030711` = 13.16:1)
+ *     * Secondary Accent (`#38bdf8`): 7.80:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Runebreaker Save State */
-
-/* --- 1. Light Mode (Base) --- */
-/* Acts as the default state and explicitly forced light mode */
-body.theme-runebreaker-save-state,
-body.theme-light.theme-runebreaker-save-state {
-    --rs-bg: #fffdf7; /* Pure restored-realm dawn ivory */
-    --rs-surface: #fef9c3; /* Soft golden save-crystal glow surface */
-    --rs-text: #0f172a; /* Clear morning slate text */
-    --rs-primary: #ca8a04; /* Radiant golden save-state primary */
-    --rs-secondary: #0284c7; /* Restored sky sapphire secondary */
-    --rs-border: #fde047; /* Luminous golden crystal border */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-runebreaker-save-state, .narrative-theme-runebreaker-save-state, [data-narrative-theme="runebreaker-save-state"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-runebreaker-save-state, .narrative-theme-runebreaker-save-state, [data-narrative-theme="runebreaker-save-state"]) {
+    color-scheme: light;
+    --rs-bg: #fffdf7;
+    --rs-bg-alt: #f4f4f2;
+    --rs-surface: #fef9c3;
+    --rs-card-bg: #fef9c3;
+    --rs-text: #0f172a;
+    --rs-text-muted: #616570;
+    --rs-heading: #0b1120;
+    --rs-primary: #8d6003;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #026ea7;
+    --rs-border: #fde047;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #8d6003;
 }
 
-/* --- 2. Dark Mode (Explicitly Forced) --- */
-/* Applied when the user manually toggles the reader to Dark Mode */
-body.theme-dark.theme-runebreaker-save-state {
-    --rs-bg: #060d1f; /* Serene JRPG save-room starlight navy */
-    --rs-surface: #0f1d3a; /* Peaceful music-box sanctuary surface */
-    --rs-text: #f8fafc; /* Pure starlit white text */
-    --rs-primary: #facc15; /* Warm golden save-point crystal primary */
-    --rs-secondary: #38bdf8; /* Restored Dream Kingdom cyan secondary */
-    --rs-border: #1e3a8a; /* Tranquil celestial blue border */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-runebreaker-save-state, .narrative-theme-runebreaker-save-state, [data-narrative-theme="runebreaker-save-state"]) {
+    color-scheme: dark;
+    --rs-bg: #060d1f;
+    --rs-bg-alt: #101728;
+    --rs-surface: #0f1d3a;
+    --rs-card-bg: #0f1d3a;
+    --rs-text: #f8fafc;
+    --rs-text-muted: #b9bcc3;
+    --rs-heading: #f8fafc;
+    --rs-primary: #facc15;
+    --rs-on-primary: #030711;
+    --rs-secondary: #38bdf8;
+    --rs-border: #1e3a8a;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #facc15;
 }
 
-/* --- 3. OS Auto Dark Mode --- */
-/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-runebreaker-save-state,
-    body:not(.theme-light):not(.theme-dark).theme-runebreaker-save-state {
-        --rs-bg: #060d1f; /* Matches Forced Dark Mode */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-runebreaker-save-state, .narrative-theme-runebreaker-save-state, [data-narrative-theme="runebreaker-save-state"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-runebreaker-save-state, .narrative-theme-runebreaker-save-state, [data-narrative-theme="runebreaker-save-state"]) {
+        color-scheme: dark;
+        --rs-bg: #060d1f;
+        --rs-bg-alt: #101728;
         --rs-surface: #0f1d3a;
+        --rs-card-bg: #0f1d3a;
         --rs-text: #f8fafc;
+        --rs-text-muted: #b9bcc3;
+        --rs-heading: #f8fafc;
         --rs-primary: #facc15;
+        --rs-on-primary: #030711;
         --rs-secondary: #38bdf8;
         --rs-border: #1e3a8a;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #facc15;
     }
 }
 
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-runebreaker-save-state, .narrative-theme-runebreaker-save-state, [data-narrative-theme="runebreaker-save-state"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-runebreaker-save-state, .narrative-theme-runebreaker-save-state, [data-narrative-theme="runebreaker-save-state"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-runebreaker-save-state, .narrative-theme-runebreaker-save-state, [data-narrative-theme="runebreaker-save-state"])::before,
+    body:is(.theme-runebreaker-save-state, .narrative-theme-runebreaker-save-state, [data-narrative-theme="runebreaker-save-state"])::after {
+        display: none !important;
+    }
+}

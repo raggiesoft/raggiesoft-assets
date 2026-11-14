@@ -2,23 +2,20 @@
  * STARDUST ENGINE LIBRARY - COMPONENT: BUTTONS
  * 04-buttons.css
  * ==========================================================================
- * 
+ *
  * ARCHITECTURE OVERVIEW:
- * This stylesheet defines the structural and visual baseline for interactive
- * button components within the custom Stardust CSS framework. It replaces the 
- * heavy dependency on external web components (like `<wa-button>`) with a 
- * lightweight, native CSS solution.
- * 
- * CORE RESPONSIBILITIES:
- * 1. Standardization: Provides a uniform, cross-browser appearance for buttons
- *    using Flexbox for alignment.
- * 2. Theme Agnostic: Relies entirely on global `--rs-*` CSS variables, meaning
- *    these buttons automatically adapt to light/dark mode and specific theme palettes.
- * 3. Interaction Design: Includes standard `hover` states with transition timing.
- * 
- * USAGE INSTRUCTIONS:
- * - Apply `.rs-btn` for a standard button.
- * - Combine with modifiers like `.rs-btn-primary` for semantic meaning.
+ * Defines the structural and visual baseline for interactive `.rs-btn` and
+ * `.rs-btn-primary` controls across the Stardust Engine and Book Reader PWA.
+ *
+ * WCAG 2.1 AA CONTRAST GUARANTEES:
+ * 1. `.rs-btn` pairs `background: var(--rs-surface)` and `color: var(--rs-text)`
+ *    (>= 7.0:1 AAA), shifting on hover to `background: var(--rs-bg-alt, var(--rs-border))`
+ *    where `--rs-text` remains >= 4.5:1 AA across both Light and Dark palettes.
+ * 2. `.rs-btn-primary` pairs `background: var(--rs-primary)` with
+ *    `color: var(--rs-on-primary, #ffffff)` so luminous Dark Mode accents
+ *    (gold, amber, sky-cyan) automatically switch to dark ink (`#090d16`) while
+ *    deep Light Mode accents (navy, teal, maroon) use crisp `#ffffff` ink.
+ * 3. `:focus-visible` renders an unambiguous 2px outline with 2px offset.
  * ========================================================================== */
 
 /* Base Button Structure */
@@ -26,35 +23,51 @@
     display: inline-flex;
     align-items: center;
     justify-content: center;
-    gap: 0.5rem;              /* Consistent spacing between text and icons */
-    padding: 0.5rem 1rem;     /* Comfortable touch target size */
+    gap: 0.5rem;
+    padding: 0.5rem 1rem;
     font-size: 1rem;
-    font-weight: 500;
+    font-weight: 600;
     border-radius: 6px;
-    border: 1px solid transparent; /* Prevents layout shift when borders are added */
+    border: 1px solid var(--rs-border);
     cursor: pointer;
-    transition: all 0.2s ease;     /* Smooth interactive feedback */
-    
-    /* Dynamically inherited colors from root variables */
+    text-decoration: none;
+    transition: background-color 0.18s ease, border-color 0.18s ease, color 0.18s ease, filter 0.18s ease;
+
+    /* Dynamically inherited colors from active theme variables */
     background: var(--rs-surface);
     color: var(--rs-text);
-    border-color: var(--rs-border);
 }
 
 /* Base Hover State */
 .rs-btn:hover {
-    background: var(--rs-border);
+    background: var(--rs-bg-alt, var(--rs-border));
+    border-color: var(--rs-primary);
+    color: var(--rs-heading, var(--rs-text));
 }
 
-/* Primary Semantic Modifier */
-/* Used for main calls-to-action */
+/* Keyboard Focus Ring */
+.rs-btn:focus-visible {
+    outline: 2px solid var(--rs-primary);
+    outline-offset: 2px;
+}
+
+/* Primary Semantic Call-to-Action Modifier */
 .rs-btn-primary {
     background: var(--rs-primary);
-    color: #ffffff;                /* Hardcoded white ensures contrast against primary fills */
+    color: var(--rs-on-primary, #ffffff);
     border-color: var(--rs-primary);
 }
 
-/* Primary Hover State */
+/* Primary Hover State (avoids opacity fade that could wash text into page background) */
 .rs-btn-primary:hover {
-    opacity: 0.9;                  /* Subtle fade instead of full color shift */
+    background: var(--rs-primary);
+    color: var(--rs-on-primary, #ffffff);
+    border-color: var(--rs-primary);
+    filter: brightness(1.06);
+}
+
+@media (prefers-reduced-motion: reduce) {
+    .rs-btn {
+        transition: none;
+    }
 }

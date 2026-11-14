@@ -1,0 +1,131 @@
+/**
+ * ============================================================================
+ * STARDUST ENGINE NARRATIVE THEME: PROGRESS STREET PORCH (AUNT MARTHA'S FARMHOUSE SANCTUARY) (`progress-street-porch.css`)
+ * ============================================================================
+ *
+ * Architectural Overview:
+ * Created for *The Stardust Engine* (`books/stardust-engine/e004`), evoking Aunt Martha's white clapboard farmhouse on Progress Street NE in Blacksburg—sunlit wraparound porch cedar and Appalachian meadow green in Light Mode, and peaceful evening firefly lantern gold in Dark Mode.
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#faf7f0` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#1e1912`): 14.30:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#524636`): 7.52:1 min (WCAG AA)
+ *     * Headings (`#3f2e1e`): 10.61:1 min (WCAG AAA)
+ *     * Primary Accent (`#7c3f11`): 6.68:1 min (`--rs-on-primary: #ffffff` = 8.15:1)
+ *     * Secondary Accent (`#1f5c3a`): 6.49:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#11130e` / `#20241b` (`color-scheme: dark`)
+ *     * Body Prose (`#f2efe4`): 13.72:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#bdb8a4`): 7.94:1 min (WCAG AA)
+ *     * Headings (`#fde68a`): 12.68:1 min (WCAG AAA)
+ *     * Primary Accent (`#f5b85c`): 8.95:1 min (`--rs-on-primary: #090a08` = 11.24:1)
+ *     * Secondary Accent (`#86efac`): 11.25:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
+ * ============================================================================
+ */
+
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-progress-street-porch, .narrative-theme-progress-street-porch, [data-narrative-theme="progress-street-porch"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-progress-street-porch, .narrative-theme-progress-street-porch, [data-narrative-theme="progress-street-porch"]) {
+    color-scheme: light;
+    --rs-bg: #faf7f0;
+    --rs-bg-alt: #efe8d8;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #1e1912;
+    --rs-text-muted: #524636;
+    --rs-heading: #3f2e1e;
+    --rs-primary: #7c3f11;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #1f5c3a;
+    --rs-border: #d9ceb8;
+    --rs-asl: #03679e;
+    --rs-gesture: #4338ca;
+    accent-color: #7c3f11;
+}
+
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-progress-street-porch, .narrative-theme-progress-street-porch, [data-narrative-theme="progress-street-porch"]) {
+    color-scheme: dark;
+    --rs-bg: #11130e;
+    --rs-bg-alt: #181b14;
+    --rs-surface: #20241b;
+    --rs-card-bg: #20241b;
+    --rs-text: #f2efe4;
+    --rs-text-muted: #bdb8a4;
+    --rs-heading: #fde68a;
+    --rs-primary: #f5b85c;
+    --rs-on-primary: #090a08;
+    --rs-secondary: #86efac;
+    --rs-border: #3c4233;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #f5b85c;
+}
+
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-progress-street-porch, .narrative-theme-progress-street-porch, [data-narrative-theme="progress-street-porch"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-progress-street-porch, .narrative-theme-progress-street-porch, [data-narrative-theme="progress-street-porch"]) {
+        color-scheme: dark;
+        --rs-bg: #11130e;
+        --rs-bg-alt: #181b14;
+        --rs-surface: #20241b;
+        --rs-card-bg: #20241b;
+        --rs-text: #f2efe4;
+        --rs-text-muted: #bdb8a4;
+        --rs-heading: #fde68a;
+        --rs-primary: #f5b85c;
+        --rs-on-primary: #090a08;
+        --rs-secondary: #86efac;
+        --rs-border: #3c4233;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #f5b85c;
+    }
+}
+
+/* Atmospheric Reading Pane Framing (Light & Sepia) */
+:is(body, body.theme-oceanview):is(.theme-progress-street-porch, .narrative-theme-progress-street-porch, [data-narrative-theme="progress-street-porch"]) #stardust-reading-pane,
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-progress-street-porch, .narrative-theme-progress-street-porch, [data-narrative-theme="progress-street-porch"]) #stardust-reading-pane {
+    box-shadow: inset 0 6px 28px rgba(124, 63, 17, 0.05);
+}
+
+/* Atmospheric Reading Pane Framing (Dark & System Auto Dark) */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-progress-street-porch, .narrative-theme-progress-street-porch, [data-narrative-theme="progress-street-porch"]) #stardust-reading-pane {
+    box-shadow: inset 0 8px 34px rgba(245, 184, 92, 0.07);
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-progress-street-porch, .narrative-theme-progress-street-porch, [data-narrative-theme="progress-street-porch"]) #stardust-reading-pane,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-progress-street-porch, .narrative-theme-progress-street-porch, [data-narrative-theme="progress-street-porch"]) #stardust-reading-pane {
+        box-shadow: inset 0 8px 34px rgba(245, 184, 92, 0.07);
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-progress-street-porch, .narrative-theme-progress-street-porch, [data-narrative-theme="progress-street-porch"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-progress-street-porch, .narrative-theme-progress-street-porch, [data-narrative-theme="progress-street-porch"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-progress-street-porch, .narrative-theme-progress-street-porch, [data-narrative-theme="progress-street-porch"])::before,
+    body:is(.theme-progress-street-porch, .narrative-theme-progress-street-porch, [data-narrative-theme="progress-street-porch"])::after {
+        display: none !important;
+    }
+}

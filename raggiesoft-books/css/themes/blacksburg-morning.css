@@ -1,0 +1,131 @@
+/**
+ * ============================================================================
+ * STARDUST ENGINE NARRATIVE THEME: BLACKSBURG MORNING (BLUE RIDGE MIST & IRONSTONE SUNLIGHT) (`blacksburg-morning.css`)
+ * ============================================================================
+ *
+ * Architectural Overview:
+ * Created for *The Stardust Engine* (`books/stardust-engine`), evoking a crisp Appalachian morning in Blacksburg as mountain mist lifts off Commonwealth Green and early sunlight warms the rough-cut Ironstone facades of CPI.
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f4f7fa` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#13202e`): 14.06:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#3f5166`): 6.94:1 min (WCAG AA)
+ *     * Headings (`#163252`): 11.11:1 min (WCAG AAA)
+ *     * Primary Accent (`#1d4ed8`): 5.72:1 min (`--rs-on-primary: #ffffff` = 6.70:1)
+ *     * Secondary Accent (`#861f41`): 7.84:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#0a111a` / `#162436` (`color-scheme: dark`)
+ *     * Body Prose (`#e6eff8`): 13.49:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#a3b8cf`): 7.70:1 min (WCAG AA)
+ *     * Headings (`#bae6fd`): 11.81:1 min (WCAG AAA)
+ *     * Primary Accent (`#60a5fa`): 6.17:1 min (`--rs-on-primary: #06090e` = 7.84:1)
+ *     * Secondary Accent (`#fbbf24`): 9.39:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
+ * ============================================================================
+ */
+
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-blacksburg-morning, .narrative-theme-blacksburg-morning, [data-narrative-theme="blacksburg-morning"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-blacksburg-morning, .narrative-theme-blacksburg-morning, [data-narrative-theme="blacksburg-morning"]) {
+    color-scheme: light;
+    --rs-bg: #f4f7fa;
+    --rs-bg-alt: #e6eef5;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #13202e;
+    --rs-text-muted: #3f5166;
+    --rs-heading: #163252;
+    --rs-primary: #1d4ed8;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #861f41;
+    --rs-border: #c5d4e3;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #1d4ed8;
+}
+
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-blacksburg-morning, .narrative-theme-blacksburg-morning, [data-narrative-theme="blacksburg-morning"]) {
+    color-scheme: dark;
+    --rs-bg: #0a111a;
+    --rs-bg-alt: #101b28;
+    --rs-surface: #162436;
+    --rs-card-bg: #162436;
+    --rs-text: #e6eff8;
+    --rs-text-muted: #a3b8cf;
+    --rs-heading: #bae6fd;
+    --rs-primary: #60a5fa;
+    --rs-on-primary: #06090e;
+    --rs-secondary: #fbbf24;
+    --rs-border: #283e59;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #60a5fa;
+}
+
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-blacksburg-morning, .narrative-theme-blacksburg-morning, [data-narrative-theme="blacksburg-morning"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-blacksburg-morning, .narrative-theme-blacksburg-morning, [data-narrative-theme="blacksburg-morning"]) {
+        color-scheme: dark;
+        --rs-bg: #0a111a;
+        --rs-bg-alt: #101b28;
+        --rs-surface: #162436;
+        --rs-card-bg: #162436;
+        --rs-text: #e6eff8;
+        --rs-text-muted: #a3b8cf;
+        --rs-heading: #bae6fd;
+        --rs-primary: #60a5fa;
+        --rs-on-primary: #06090e;
+        --rs-secondary: #fbbf24;
+        --rs-border: #283e59;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #60a5fa;
+    }
+}
+
+/* Atmospheric Reading Pane Framing (Light & Sepia) */
+:is(body, body.theme-oceanview):is(.theme-blacksburg-morning, .narrative-theme-blacksburg-morning, [data-narrative-theme="blacksburg-morning"]) #stardust-reading-pane,
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-blacksburg-morning, .narrative-theme-blacksburg-morning, [data-narrative-theme="blacksburg-morning"]) #stardust-reading-pane {
+    box-shadow: inset 0 6px 28px rgba(29, 78, 216, 0.05);
+}
+
+/* Atmospheric Reading Pane Framing (Dark & System Auto Dark) */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-blacksburg-morning, .narrative-theme-blacksburg-morning, [data-narrative-theme="blacksburg-morning"]) #stardust-reading-pane {
+    box-shadow: inset 0 8px 34px rgba(96, 165, 250, 0.07);
+}
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-blacksburg-morning, .narrative-theme-blacksburg-morning, [data-narrative-theme="blacksburg-morning"]) #stardust-reading-pane,
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-blacksburg-morning, .narrative-theme-blacksburg-morning, [data-narrative-theme="blacksburg-morning"]) #stardust-reading-pane {
+        box-shadow: inset 0 8px 34px rgba(96, 165, 250, 0.07);
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-blacksburg-morning, .narrative-theme-blacksburg-morning, [data-narrative-theme="blacksburg-morning"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-blacksburg-morning, .narrative-theme-blacksburg-morning, [data-narrative-theme="blacksburg-morning"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-blacksburg-morning, .narrative-theme-blacksburg-morning, [data-narrative-theme="blacksburg-morning"])::before,
+    body:is(.theme-blacksburg-morning, .narrative-theme-blacksburg-morning, [data-narrative-theme="blacksburg-morning"])::after {
+        display: none !important;
+    }
+}

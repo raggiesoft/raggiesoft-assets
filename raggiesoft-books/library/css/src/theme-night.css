@@ -2,48 +2,146 @@
  * ARCHITECTURAL OVERVIEW: theme-night.css
  * ==========================================================================
  * Night Theme for Stardust Engine (Source File)
- * This stylesheet defines a global dark mode ("Night" theme) tailored for 
- * reading applications. It overrides the base `--rs-*` CSS variables defined 
- * in the core Stardust Engine CSS when `body` is given the `.theme-night` class.
- * 
- * CORE RESPONSIBILITIES:
- * 1. Palette Injection: Sets low-contrast, deep dark backgrounds and bright 
- *    interactive accents to reduce eye strain in low-light environments.
- * 2. Component Overrides: Selectively overrides specific UI elements (like 
- *    `.ova-title`) to ensure they remain legible and aesthetically cohesive 
- *    within the dark environment.
- * 
- * FUTURE MAINTENANCE NOTES:
- * - This file should be modified directly and then minified into 
- *   `theme-night.min.css` as part of a build step.
- * - Always use hex or rgb values that maintain WCAG AAA contrast ratios 
- *   against `--rs-bg` for optimal accessibility.
+ * Provides a crisp starlight slate palette with full Light Mode and Dark Mode
+ * support:
+ *   - Standalone `body.theme-night` (when no explicit Light/Sepia/Auto class is
+ *     active) or Dark Mode (`theme-dark`, `theme-dark-sepia`, or `theme-auto`
+ *     under `prefers-color-scheme: dark`) renders deep GitHub-Dark starlight.
+ *   - Explicit Light/Sepia (`theme-light`, `theme-sepia`) or `theme-auto` /
+ *     `theme-sepia-system` under `prefers-color-scheme: light` renders cool
+ *     moonlit-silver daylight vellum so light-mode users never suffer dark
+ *     canvas inversions.
  * ========================================================================== */
 
-/* --------------------------------------------------------------------------
- * 1. Global Variable Overrides
- * -------------------------------------------------------------------------- */
-body.theme-night {
-    /* Core structural surfaces */
-    --rs-bg: #0d1117;       /* Very deep gray, almost black */
-    --rs-surface: #161b22;  /* Slightly elevated surface for cards/sidebars */
-    --rs-text: #c9d1d9;     /* Soft off-white text to prevent blooming */
-    
-    /* Interactive & Accent Colors */
-    --rs-primary: #58a6ff;  /* Bright legible blue */
-    --rs-secondary: #79c0ff;/* Lighter hover-state blue */
-    --rs-border: #30363d;   /* Subtle delineating lines */
-    
-    /* Semantic Narrative Markers */
-    --rs-asl: #3fb950;      /* Legible green for sign language dialogue */
-    --rs-gesture: #8b949e;  /* Dimmer gray for non-verbal gestures */
+/* 1. Default Night Palette (Standalone & Explicit Dark Mode) */
+body.theme-night,
+body.theme-dark.theme-night {
+    color-scheme: dark;
+    --rs-bg: #0d1117;
+    --rs-bg-alt: #131922;
+    --rs-surface: #161b22;
+    --rs-card-bg: #161b22;
+    --rs-text: #d4dce4;       /* 12.49:1 on #161b22 */
+    --rs-text-muted: #9aa4b2; /* 6.86:1 on #161b22 */
+    --rs-heading: #f0f6fc;    /* 15.89:1 on #161b22 */
+    --rs-primary: #58a6ff;    /* 6.85:1 on #161b22 */
+    --rs-on-primary: #090d16; /* 7.69:1 on #58a6ff */
+    --rs-secondary: #79c0ff;  /* 8.89:1 on #161b22 */
+    --rs-border: #30363d;
+    --rs-asl: #4ade80;
+    --rs-gesture: #c4b5fd;
 }
 
-/* --------------------------------------------------------------------------
- * 2. Specific Component Tweaks
- * -------------------------------------------------------------------------- */
+/* 2. Warm Dark Sepia Support */
+body.theme-dark-sepia.theme-night {
+    color-scheme: dark;
+    --rs-bg: #1f1b16;
+    --rs-bg-alt: #28221c;
+    --rs-surface: #2b251f;
+    --rs-card-bg: #2b251f;
+    --rs-text: #e8decb;
+    --rs-text-muted: #b8ab96;
+    --rs-heading: #f8f1e3;
+    --rs-primary: #E3B27C;
+    --rs-on-primary: #1f1b16;
+    --rs-secondary: #f2c994;
+    --rs-border: #4a4135;
+    --rs-asl: #4ade80;
+    --rs-gesture: #d8b4fe;
+}
 
-/* Adjusting the main narrative title for the dark theme */
+@media (prefers-color-scheme: dark) {
+    body.theme-sepia-system.theme-night {
+        color-scheme: dark;
+        --rs-bg: #1f1b16;
+        --rs-bg-alt: #28221c;
+        --rs-surface: #2b251f;
+        --rs-card-bg: #2b251f;
+        --rs-text: #e8decb;
+        --rs-text-muted: #b8ab96;
+        --rs-heading: #f8f1e3;
+        --rs-primary: #E3B27C;
+        --rs-on-primary: #1f1b16;
+        --rs-secondary: #f2c994;
+        --rs-border: #4a4135;
+        --rs-asl: #4ade80;
+        --rs-gesture: #d8b4fe;
+    }
+}
+
+/* 3. Explicit Light Mode Support */
+body.theme-light.theme-night {
+    color-scheme: light;
+    --rs-bg: #f4f7fb;
+    --rs-bg-alt: #e8eef6;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #1b2430;       /* 13.85:1 on #e8eef6 */
+    --rs-text-muted: #475569; /* 6.45:1 on #e8eef6 */
+    --rs-heading: #0d1117;    /* 16.45:1 on #e8eef6 */
+    --rs-primary: #0550ae;    /* 6.76:1 on #e8eef6, 7.89:1 on #ffffff */
+    --rs-on-primary: #ffffff; /* 7.89:1 on #0550ae */
+    --rs-secondary: #1e40af;  /* 7.82:1 on #e8eef6 */
+    --rs-border: #cbd5e1;
+    --rs-asl: #166534;        /* 6.14:1 on #e8eef6 */
+    --rs-gesture: #4338ca;
+}
+
+/* 4. Explicit Sepia Mode Support */
+body.theme-sepia.theme-night {
+    color-scheme: light;
+    --rs-bg: #f4ecd8;
+    --rs-bg-alt: #eadec5;
+    --rs-surface: #fbf7ed;
+    --rs-card-bg: #fbf7ed;
+    --rs-text: #2c2013;
+    --rs-text-muted: #574531;
+    --rs-heading: #1f160d;
+    --rs-primary: #0F4C5C;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #7c3f00;
+    --rs-border: #c8b798;
+    --rs-asl: #166534;
+    --rs-gesture: #5b21b6;
+}
+
+@media (prefers-color-scheme: light) {
+    body.theme-auto.theme-night {
+        color-scheme: light;
+        --rs-bg: #f4f7fb;
+        --rs-bg-alt: #e8eef6;
+        --rs-surface: #ffffff;
+        --rs-card-bg: #ffffff;
+        --rs-text: #1b2430;
+        --rs-text-muted: #475569;
+        --rs-heading: #0d1117;
+        --rs-primary: #0550ae;
+        --rs-on-primary: #ffffff;
+        --rs-secondary: #1e40af;
+        --rs-border: #cbd5e1;
+        --rs-asl: #166534;
+        --rs-gesture: #4338ca;
+    }
+
+    body.theme-sepia-system.theme-night {
+        color-scheme: light;
+        --rs-bg: #f4ecd8;
+        --rs-bg-alt: #eadec5;
+        --rs-surface: #fbf7ed;
+        --rs-card-bg: #fbf7ed;
+        --rs-text: #2c2013;
+        --rs-text-muted: #574531;
+        --rs-heading: #1f160d;
+        --rs-primary: #0F4C5C;
+        --rs-on-primary: #ffffff;
+        --rs-secondary: #7c3f00;
+        --rs-border: #c8b798;
+        --rs-asl: #166534;
+        --rs-gesture: #5b21b6;
+    }
+}
+
+/* 3. Specific Component Tweaks */
 body.theme-night .ova-title {
     font-family: 'Playfair Display', serif, system-ui;
     text-transform: uppercase;
@@ -52,16 +150,11 @@ body.theme-night .ova-title {
     color: var(--rs-primary) !important;
 }
 
-/* Adjusting the narrative subtitle for the dark theme */
 body.theme-night .ova-subtitle {
-    font-family: monospace;
-    color: var(--rs-text) !important;
-    opacity: 0.8;
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    color: var(--rs-text-muted, var(--rs-text)) !important;
 }
 
-/* --------------------------------------------------------------------------
- * 3. Link Interactions
- * -------------------------------------------------------------------------- */
 body.theme-night a {
     color: var(--rs-primary);
 }

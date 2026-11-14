@@ -105,21 +105,30 @@ async function navigateTo(url, pushState = true) {
         const layoutTarget = doc.querySelector('#stardust-app');
 
         if (layoutTarget) {
-            // 1. SYNC BODY CLASSES FOR DYNAMIC THEMING
+            // 1. SYNC BODY CLASSES & ROOT COLOR-SCHEME FOR DYNAMIC THEMING
             // Preserves base system classes while applying the user's active reading theme
-            // before `stardust:loaded` triggers `reader.js` to layer any narrative theme.
-            let nextClass = doc.body.className || 'theme-raggiesoft-books';
+            // (including first-time visitors with no stored `reader-settings`, defaulting to `auto`)
+            // and clearing any stale head-level narrative theme tags before `stardust:loaded` runs.
+            let nextClass = doc.body.className || 'theme-oceanview';
+            let activeTheme = 'auto';
             try {
                 const stored = localStorage.getItem('reader-settings');
                 if (stored) {
                     const settings = JSON.parse(stored);
-                    const activeTheme = settings.theme || 'auto';
-                    nextClass = nextClass
-                        .replace(/\btheme-(auto|light|sepia|dark|dark-sepia|sepia-system|custom)\b/g, '')
-                        .trim() + ' theme-' + activeTheme;
+                    if (settings && settings.theme) {
+                        activeTheme = settings.theme;
+                    }
                 }
             } catch(e) {}
+            nextClass = nextClass
+                .replace(/\btheme-(auto|light|sepia|dark|dark-sepia|sepia-system|custom)\b/g, '')
+                .trim() + ' theme-' + activeTheme;
             document.body.className = nextClass.trim();
+            delete document.body.dataset.narrativeTheme;
+            document.documentElement.style.colorScheme = (activeTheme === 'light' || activeTheme === 'sepia')
+                ? 'light'
+                : ((activeTheme === 'dark' || activeTheme === 'dark-sepia') ? 'dark' : 'light dark');
+            document.head.querySelectorAll('meta[name="stardust-narrative-theme"], link#narrative-theme-css').forEach(el => el.remove());
 
 
             // 2. SWAP THE CORE APP ZONE

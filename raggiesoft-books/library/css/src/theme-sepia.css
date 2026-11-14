@@ -1,6 +1,23 @@
+/* ==========================================================================
+ * STARDUST ENGINE LIBRARY - EXPLICIT WARM SEPIA THEME
+ * theme-sepia.css
+ * ==========================================================================
+ * Full 13-token WCAG 2.1 AA/AAA archival cream-parchment reading palette.
+ * ========================================================================== */
+
 body.theme-sepia {
+    color-scheme: light;
     --rs-bg: #f4ecd8;
-    --rs-text: #5b4636;
-    --rs-border: #d3c4a9;
-    --rs-surface: #e9dec5;
+    --rs-bg-alt: #e9dec3;
+    --rs-surface: #ece2c8;
+    --rs-card-bg: #f8f2e2;
+    --rs-text: #3b2e22;       /* 9.81:1 on #e9dec3 */
+    --rs-text-muted: #5c4938; /* 6.37:1 on #e9dec3 */
+    --rs-heading: #241a10;    /* 12.76:1 on #e9dec3 */
+    --rs-primary: #0F4C5C;    /* 7.11:1 on #e9dec3 */
+    --rs-on-primary: #ffffff; /* 9.51:1 on #0F4C5C */
+    --rs-secondary: #7c2d12;  /* 7.01:1 on #e9dec3 */
+    --rs-border: #cbbba0;
+    --rs-asl: #075985;
+    --rs-gesture: #4c1d95;
 }

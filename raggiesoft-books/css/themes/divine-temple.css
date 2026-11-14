@@ -1,66 +1,114 @@
 /**
  * ============================================================================
- * STARDUST THEME: DIVINE TEMPLE - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: DIVINE TEMPLE (`divine-temple.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines the "Divine Temple" reading theme for the Stardust 
- * Engine. It utilizes pure whites, shining golds, and stark navy blue contrasts 
- * to create a pristine, holy, or elevated reading environment.
- * 
- * Core Components:
- * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
- *    the main reader layout (reader.css).
- * 2. Theme Cascade: Implements three specific states to handle user preferences 
- *    and OS-level settings:
- *    - Light Mode (Default/Base fallback - pristine white and gold)
- *    - Forced Dark Mode (Deep space navy with glowing gold text/accents)
- *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
- * 
- * Maintainability Notes:
- * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
- *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
- *   state to prevent visual regressions during theme swapping.
- * - Always duplicate the Forced Dark Mode variables into the `@media` query 
- *   block to ensure visual consistency when OS Auto mode triggers.
+ *
+ * Architectural Overview:
+ * STARDUST THEME: DIVINE TEMPLE - ARCHITECTURAL OVERVIEW Description: This stylesheet defines the "Divine Temple" reading theme for the Stardust Engine. It utilizes pure whites, shining golds, and stark navy blue contrasts to create a pristine, holy, or elevated reading environment. Core Components: 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by the main reader layout (reader.css).
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#ffffff` / `#f8fafc` (`color-scheme: light`)
+ *     * Body Prose (`#0f172a`): 16.48:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#616672`): 5.31:1 min (WCAG AA)
+ *     * Headings (`#0b1120`): 17.38:1 min (WCAG AAA)
+ *     * Primary Accent (`#856505`): 5.02:1 min (`--rs-on-primary: #ffffff` = 5.44:1)
+ *     * Secondary Accent (`#816703`): 5.00:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#020617` / `#0f172a` (`color-scheme: dark`)
+ *     * Body Prose (`#ffffff`): 17.85:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#bdbec3`): 9.62:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 17.06:1 min (WCAG AAA)
+ *     * Primary Accent (`#fef08a`): 15.34:1 min (`--rs-on-primary: #01030d` = 17.69:1)
+ *     * Secondary Accent (`#fde047`): 13.54:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Divine Temple */
-
-/* --- 1. Light Mode (Base) --- */
-/* Acts as the default state and explicitly forced light mode */
-body.theme-divine-temple,
-body.theme-light.theme-divine-temple {
-    --rs-bg: #ffffff; /* Pure, blinding white */
-    --rs-surface: #f8fafc; /* Very light slate for subtle contrast */
-    --rs-text: #0f172a; /* Dark navy text */
-    --rs-primary: #eab308; /* Strong gold primary */
-    --rs-secondary: #facc15; /* Bright yellow/gold secondary */
-    --rs-border: #e2e8f0; /* Light border */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-divine-temple, .narrative-theme-divine-temple, [data-narrative-theme="divine-temple"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-divine-temple, .narrative-theme-divine-temple, [data-narrative-theme="divine-temple"]) {
+    color-scheme: light;
+    --rs-bg: #ffffff;
+    --rs-bg-alt: #f4f6f8;
+    --rs-surface: #f8fafc;
+    --rs-card-bg: #f8fafc;
+    --rs-text: #0f172a;
+    --rs-text-muted: #616672;
+    --rs-heading: #0b1120;
+    --rs-primary: #856505;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #816703;
+    --rs-border: #e2e8f0;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #856505;
 }
 
-/* --- 2. Dark Mode (Explicitly Forced) --- */
-/* Applied when the user manually toggles the reader to Dark Mode */
-body.theme-dark.theme-divine-temple {
-    --rs-bg: #020617; /* Deepest navy/black background */
-    --rs-surface: #0f172a; /* Elevated navy surface */
-    --rs-text: #ffffff; /* Pure white text */
-    --rs-primary: #fef08a; /* Pale, glowing gold primary */
-    --rs-secondary: #fde047; /* Brighter gold secondary */
-    --rs-border: #1e293b; /* Dark navy border */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-divine-temple, .narrative-theme-divine-temple, [data-narrative-theme="divine-temple"]) {
+    color-scheme: dark;
+    --rs-bg: #020617;
+    --rs-bg-alt: #0c1020;
+    --rs-surface: #0f172a;
+    --rs-card-bg: #0f172a;
+    --rs-text: #ffffff;
+    --rs-text-muted: #bdbec3;
+    --rs-heading: #f8fafc;
+    --rs-primary: #fef08a;
+    --rs-on-primary: #01030d;
+    --rs-secondary: #fde047;
+    --rs-border: #1e293b;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #fef08a;
 }
 
-/* --- 3. OS Auto Dark Mode --- */
-/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-divine-temple,
-    body:not(.theme-light):not(.theme-dark).theme-divine-temple {
-        --rs-bg: #020617; /* Matches Forced Dark Mode */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-divine-temple, .narrative-theme-divine-temple, [data-narrative-theme="divine-temple"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-divine-temple, .narrative-theme-divine-temple, [data-narrative-theme="divine-temple"]) {
+        color-scheme: dark;
+        --rs-bg: #020617;
+        --rs-bg-alt: #0c1020;
         --rs-surface: #0f172a;
+        --rs-card-bg: #0f172a;
         --rs-text: #ffffff;
+        --rs-text-muted: #bdbec3;
+        --rs-heading: #f8fafc;
         --rs-primary: #fef08a;
+        --rs-on-primary: #01030d;
         --rs-secondary: #fde047;
         --rs-border: #1e293b;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #fef08a;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-divine-temple, .narrative-theme-divine-temple, [data-narrative-theme="divine-temple"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-divine-temple, .narrative-theme-divine-temple, [data-narrative-theme="divine-temple"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-divine-temple, .narrative-theme-divine-temple, [data-narrative-theme="divine-temple"])::before,
+    body:is(.theme-divine-temple, .narrative-theme-divine-temple, [data-narrative-theme="divine-temple"])::after {
+        display: none !important;
     }
 }

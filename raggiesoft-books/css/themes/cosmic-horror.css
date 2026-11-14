@@ -1,66 +1,114 @@
 /**
  * ============================================================================
- * STARDUST THEME: COSMIC HORROR - ARCHITECTURAL OVERVIEW
+ * STARDUST ENGINE NARRATIVE THEME: COSMIC HORROR (`cosmic-horror.css`)
  * ============================================================================
- * 
- * Description:
- * This stylesheet defines the "Cosmic Horror" reading theme for the Stardust 
- * Engine. It utilizes deep blacks, stark contrasts, and blood-red accents to 
- * create an unsettling and intense reading environment suitable for horror.
- * 
- * Core Components:
- * 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by 
- *    the main reader layout (reader.css).
- * 2. Theme Cascade: Implements three specific states to handle user preferences 
- *    and OS-level settings:
- *    - Light Mode (Default/Base fallback - washed out grays and deep reds)
- *    - Forced Dark Mode (True black background with aggressive reds)
- *    - Auto Dark Mode (User prefers OS setting, and OS is dark)
- * 
- * Maintainability Notes:
- * - Ensure all 6 `--rs-*` variables (`--rs-bg`, `--rs-surface`, `--rs-text`, 
- *   `--rs-primary`, `--rs-secondary`, `--rs-border`) are defined for every 
- *   state to prevent visual regressions during theme swapping.
- * - Always duplicate the Forced Dark Mode variables into the `@media` query 
- *   block to ensure visual consistency when OS Auto mode triggers.
+ *
+ * Architectural Overview:
+ * STARDUST THEME: COSMIC HORROR - ARCHITECTURAL OVERVIEW Description: This stylesheet defines the "Cosmic Horror" reading theme for the Stardust Engine. It utilizes deep blacks, stark contrasts, and blood-red accents to create an unsettling and intense reading environment suitable for horror. Core Components: 1. CSS Variable Mapping: Overrides the root `--rs-*` design tokens used by the main reader layout (reader.css).
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f3f4f6` / `#e5e7eb` (`color-scheme: light`)
+ *     * Body Prose (`#111827`): 14.33:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#5d616b`): 5.01:1 min (WCAG AA)
+ *     * Headings (`#0d121d`): 15.13:1 min (WCAG AAA)
+ *     * Primary Accent (`#7f1d1d`): 8.09:1 min (`--rs-on-primary: #ffffff` = 10.02:1)
+ *     * Secondary Accent (`#991b1b`): 6.71:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#050005` / `#111827` (`color-scheme: dark`)
+ *     * Body Prose (`#f3f4f6`): 16.12:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#b5b5b7`): 8.67:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 16.96:1 min (WCAG AAA)
+ *     * Primary Accent (`#e56060`): 5.22:1 min (`--rs-on-primary: #030003` = 6.14:1)
+ *     * Secondary Accent (`#e65959`): 5.02:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Cosmic Horror */
-
-/* --- 1. Light Mode (Base) --- */
-/* Acts as the default state and explicitly forced light mode */
-body.theme-cosmic-horror,
-body.theme-light.theme-cosmic-horror {
-    --rs-bg: #f3f4f6; /* Cold, sterile light gray */
-    --rs-surface: #e5e7eb; /* Slightly darker surface */
-    --rs-text: #111827; /* Near black text for stark contrast */
-    --rs-primary: #7f1d1d; /* Deep, dried blood red */
-    --rs-secondary: #991b1b; /* Brighter blood red */
-    --rs-border: #d1d5db; /* Cold gray border */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-cosmic-horror, .narrative-theme-cosmic-horror, [data-narrative-theme="cosmic-horror"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-cosmic-horror, .narrative-theme-cosmic-horror, [data-narrative-theme="cosmic-horror"]) {
+    color-scheme: light;
+    --rs-bg: #f3f4f6;
+    --rs-bg-alt: #eaedf1;
+    --rs-surface: #e5e7eb;
+    --rs-card-bg: #e5e7eb;
+    --rs-text: #111827;
+    --rs-text-muted: #5d616b;
+    --rs-heading: #0d121d;
+    --rs-primary: #7f1d1d;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #991b1b;
+    --rs-border: #d1d5db;
+    --rs-asl: #03669d;
+    --rs-gesture: #4338ca;
+    accent-color: #7f1d1d;
 }
 
-/* --- 2. Dark Mode (Explicitly Forced) --- */
-/* Applied when the user manually toggles the reader to Dark Mode */
-body.theme-dark.theme-cosmic-horror {
-    --rs-bg: #050005; /* True abyss black with a microscopic hint of purple/red */
-    --rs-surface: #111827; /* Very dark gray-blue surface */
-    --rs-text: #f3f4f6; /* Pale text for reading against the void */
-    --rs-primary: #dc2626; /* Vibrant, alarming red */
-    --rs-secondary: #b91c1c; /* Slightly darker red */
-    --rs-border: #1f2937; /* Very dark border */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-cosmic-horror, .narrative-theme-cosmic-horror, [data-narrative-theme="cosmic-horror"]) {
+    color-scheme: dark;
+    --rs-bg: #050005;
+    --rs-bg-alt: #0f0a0f;
+    --rs-surface: #111827;
+    --rs-card-bg: #111827;
+    --rs-text: #f3f4f6;
+    --rs-text-muted: #b5b5b7;
+    --rs-heading: #f8fafc;
+    --rs-primary: #e56060;
+    --rs-on-primary: #030003;
+    --rs-secondary: #e65959;
+    --rs-border: #1f2937;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #e56060;
 }
 
-/* --- 3. OS Auto Dark Mode --- */
-/* Applied when the user sets theme to 'Auto' and the OS requests dark mode */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-cosmic-horror,
-    body:not(.theme-light):not(.theme-dark).theme-cosmic-horror {
-        --rs-bg: #050005; /* Matches Forced Dark Mode */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-cosmic-horror, .narrative-theme-cosmic-horror, [data-narrative-theme="cosmic-horror"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-cosmic-horror, .narrative-theme-cosmic-horror, [data-narrative-theme="cosmic-horror"]) {
+        color-scheme: dark;
+        --rs-bg: #050005;
+        --rs-bg-alt: #0f0a0f;
         --rs-surface: #111827;
+        --rs-card-bg: #111827;
         --rs-text: #f3f4f6;
-        --rs-primary: #dc2626;
-        --rs-secondary: #b91c1c;
+        --rs-text-muted: #b5b5b7;
+        --rs-heading: #f8fafc;
+        --rs-primary: #e56060;
+        --rs-on-primary: #030003;
+        --rs-secondary: #e65959;
         --rs-border: #1f2937;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #e56060;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-cosmic-horror, .narrative-theme-cosmic-horror, [data-narrative-theme="cosmic-horror"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-cosmic-horror, .narrative-theme-cosmic-horror, [data-narrative-theme="cosmic-horror"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-cosmic-horror, .narrative-theme-cosmic-horror, [data-narrative-theme="cosmic-horror"])::before,
+    body:is(.theme-cosmic-horror, .narrative-theme-cosmic-horror, [data-narrative-theme="cosmic-horror"])::after {
+        display: none !important;
     }
 }

@@ -1,91 +1,114 @@
 /**
- * Architectural Block: Aquarium Theme Configuration
+ * ============================================================================
+ * STARDUST ENGINE NARRATIVE THEME: AQUARIUM (`aquarium.css`)
+ * ============================================================================
  *
- * This file defines the "Aquarium" theme for the application, providing a specific
- * set of CSS variables (`--rs-*`) that govern the color palette across different
- * color modes (Light, Dark, and OS Auto).
+ * Architectural Overview:
+ * Architectural Block: Aquarium Theme Configuration This file defines the "Aquarium" theme for the application, providing a specific set of CSS variables (`--rs-*`) that govern the color palette across different color modes (Light, Dark, and OS Auto). Key Responsibilities: 1. Define the base/light mode color palette using ocean-inspired light blues. 2. Define the explicit dark mode color palette using deep sea blues. 3. Provide a media query fallback to automatically apply the dark mode
  *
- * Key Responsibilities:
- * 1. Define the base/light mode color palette using ocean-inspired light blues.
- * 2. Define the explicit dark mode color palette using deep sea blues.
- * 3. Provide a media query fallback to automatically apply the dark mode
- *    palette when the user's operating system is set to prefer a dark color scheme,
- *    provided no explicit user override (light/dark) is active.
- *
- * Maintenance Notes:
- * - When modifying colors, ensure there is sufficient contrast between `--rs-text`
- *   and `--rs-surface`/`--rs-bg` for accessibility compliance.
- * - The `--rs-primary` and `--rs-secondary` colors should ideally complement the
- *   base background tones while drawing attention to interactive elements.
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#e0f2fe` / `#f0f9ff` (`color-scheme: light`)
+ *     * Body Prose (`#0f172a`): 14.76:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#566172`): 5.19:1 min (WCAG AA)
+ *     * Headings (`#0b1120`): 15.57:1 min (WCAG AAA)
+ *     * Primary Accent (`#02689d`): 5.01:1 min (`--rs-on-primary: #ffffff` = 6.05:1)
+ *     * Secondary Accent (`#056996`): 5.01:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#082f49` / `#0c4a6e` (`color-scheme: dark`)
+ *     * Body Prose (`#f8fafc`): 9.04:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#bac5cd`): 5.38:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 9.04:1 min (WCAG AAA)
+ *     * Primary Accent (`#64ccfa`): 5.21:1 min (`--rs-on-primary: #041a28` = 9.77:1)
+ *     * Secondary Accent (`#5fc8fd`): 5.03:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
+ * ============================================================================
  */
 
-/* Theme Name: Aquarium */
-
-/* Light Mode (Base) */
-body.theme-aquarium,
-body.theme-light.theme-aquarium {
-    /* Main application background color (Light blue) */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-aquarium, .narrative-theme-aquarium, [data-narrative-theme="aquarium"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-aquarium, .narrative-theme-aquarium, [data-narrative-theme="aquarium"]) {
+    color-scheme: light;
     --rs-bg: #e0f2fe;
-    
-    /* Background color for cards, panels, and distinct content areas */
+    --rs-bg-alt: #dbecf8;
     --rs-surface: #f0f9ff;
-    
-    /* Primary text color for readability against light backgrounds */
+    --rs-card-bg: #f0f9ff;
     --rs-text: #0f172a;
-    
-    /* Primary brand/accent color for primary actions, links, and buttons */
-    --rs-primary: #0284c7;
-    
-    /* Secondary accent color for hover states or less prominent interactive elements */
-    --rs-secondary: #38bdf8;
-    
-    /* Standard border color for structural separation */
+    --rs-text-muted: #566172;
+    --rs-heading: #0b1120;
+    --rs-primary: #02689d;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #056996;
     --rs-border: #bae6fd;
+    --rs-asl: #03679f;
+    --rs-gesture: #4338ca;
+    accent-color: #02689d;
 }
 
-/* Dark Mode (Explicitly Forced) */
-body.theme-dark.theme-aquarium {
-    /* Main application background color (Deep sea blue) */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-aquarium, .narrative-theme-aquarium, [data-narrative-theme="aquarium"]) {
+    color-scheme: dark;
     --rs-bg: #082f49;
-    
-    /* Background color for content panels in dark mode */
+    --rs-bg-alt: #123750;
     --rs-surface: #0c4a6e;
-    
-    /* Light text color to ensure readability against dark backgrounds */
-    --rs-text: #e0f2fe;
-    
-    /* Vibrant primary accent color for high visibility in dark mode */
-    --rs-primary: #38bdf8;
-    
-    /* Secondary accent color for subdued interactive states */
-    --rs-secondary: #0284c7;
-    
-    /* Darker border color to maintain subtle separation in dark mode */
-    --rs-border: #0369a1;
+    --rs-card-bg: #0c4a6e;
+    --rs-text: #f8fafc;
+    --rs-text-muted: #bac5cd;
+    --rs-heading: #f8fafc;
+    --rs-primary: #64ccfa;
+    --rs-on-primary: #041a28;
+    --rs-secondary: #5fc8fd;
+    --rs-border: #1b5c80;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c5b7fd;
+    accent-color: #64ccfa;
 }
 
-/* OS Auto Dark Mode */
-/* Applies the dark mode palette automatically if the system preference is dark,
-   unless the user has explicitly selected the 'light' theme. */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    body.theme-auto.theme-aquarium,
-    body:not(.theme-light):not(.theme-dark).theme-aquarium {
-        /* Main application background color (Deep sea blue) */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-aquarium, .narrative-theme-aquarium, [data-narrative-theme="aquarium"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-aquarium, .narrative-theme-aquarium, [data-narrative-theme="aquarium"]) {
+        color-scheme: dark;
         --rs-bg: #082f49;
-        
-        /* Background color for content panels */
+        --rs-bg-alt: #123750;
         --rs-surface: #0c4a6e;
-        
-        /* Light text color for readability */
-        --rs-text: #e0f2fe;
-        
-        /* Vibrant primary accent color */
-        --rs-primary: #38bdf8;
-        
-        /* Secondary accent color */
-        --rs-secondary: #0284c7;
-        
-        /* Subdued border color for dark mode */
-        --rs-border: #0369a1;
+        --rs-card-bg: #0c4a6e;
+        --rs-text: #f8fafc;
+        --rs-text-muted: #bac5cd;
+        --rs-heading: #f8fafc;
+        --rs-primary: #64ccfa;
+        --rs-on-primary: #041a28;
+        --rs-secondary: #5fc8fd;
+        --rs-border: #1b5c80;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c5b7fd;
+        accent-color: #64ccfa;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-aquarium, .narrative-theme-aquarium, [data-narrative-theme="aquarium"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-aquarium, .narrative-theme-aquarium, [data-narrative-theme="aquarium"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-aquarium, .narrative-theme-aquarium, [data-narrative-theme="aquarium"])::before,
+    body:is(.theme-aquarium, .narrative-theme-aquarium, [data-narrative-theme="aquarium"])::after {
+        display: none !important;
     }
 }

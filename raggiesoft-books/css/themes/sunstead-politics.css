@@ -1,64 +1,114 @@
 /**
  * ============================================================================
- * RAGGIESOFT THEME: SUNSTEAD POLITICS
+ * STARDUST ENGINE NARRATIVE THEME: SUNSTEAD POLITICS (`sunstead-politics.css`)
  * ============================================================================
- * Architecture & Purpose:
- * Defines a formal, structured theme utilizing regal purple hues. Designed to 
- * represent diplomatic or political narrative contexts within the application.
- * 
- * Key Design Elements:
- * - Tri-state theme handling (Light, Dark, Auto).
- * - High-contrast royal purple tones providing a sense of authority and formality.
- * 
- * Maintenance Notes:
- * - Strict adherence to selector specificity ensures theme override buttons
- *   function correctly across the app.
+ *
+ * Architectural Overview:
+ * RAGGIESOFT THEME: SUNSTEAD POLITICS Architecture & Purpose: Defines a formal, structured theme utilizing regal purple hues. Designed to represent diplomatic or political narrative contexts within the application. Key Design Elements: - Tri-state theme handling (Light, Dark, Auto). - High-contrast royal purple tones providing a sense of authority and formality. Maintenance Notes:
+ *
+ * Dual-Polarity Light & Dark Architecture:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#faf5ff` / `#f3e8ff` (`color-scheme: light`)
+ *     * Body Prose (`#3b0764`): 12.71:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#785595`): 5.04:1 min (WCAG AA)
+ *     * Headings (`#2c054b`): 14.46:1 min (WCAG AAA)
+ *     * Primary Accent (`#7e22ce`): 5.92:1 min (`--rs-on-primary: #ffffff` = 6.98:1)
+ *     * Secondary Accent (`#8c25e9`): 5.00:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#2e1065` / `#3b0764` (`color-scheme: dark`)
+ *     * Body Prose (`#faf5ff`): 12.90:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#c5b9d7`): 7.45:1 min (WCAG AA)
+ *     * Headings (`#f8fafc`): 13.23:1 min (WCAG AAA)
+ *     * Primary Accent (`#c084fc`): 5.24:1 min (`--rs-on-primary: #190938` = 6.99:1)
+ *     * Secondary Accent (`#be7ff9`): 5.01:1 min (WCAG AA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps cleanly to OS High-Contrast system colors.
  * ============================================================================
  */
 
-/* Theme Name: Sunstead Politics */
-
-/* -------------------------------------------------------------------------
- * 1. Light Mode (Base Palette)
- * ------------------------------------------------------------------------- */
-/* Active by default or when explicitly toggled by the user */
-body.theme-sunstead-politics,
-body.theme-light.theme-sunstead-politics {
-    --rs-bg: #faf5ff; /* Extremely pale lavender background */
-    --rs-surface: #f3e8ff; /* Slightly deeper lavender for raised UI surfaces */
-    --rs-text: #3b0764; /* Very dark, almost black purple for readable text */
-    --rs-primary: #7e22ce; /* Regal, saturated purple for primary actions */
-    --rs-secondary: #9333ea; /* Lighter purple for secondary buttons and accents */
-    --rs-border: #e9d5ff; /* Soft lavender borders for structural division */
+/* --- 1. Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) --- */
+:is(body, body.theme-oceanview):is(.theme-sunstead-politics, .narrative-theme-sunstead-politics, [data-narrative-theme="sunstead-politics"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-sunstead-politics, .narrative-theme-sunstead-politics, [data-narrative-theme="sunstead-politics"]) {
+    color-scheme: light;
+    --rs-bg: #faf5ff;
+    --rs-bg-alt: #f0eef8;
+    --rs-surface: #f3e8ff;
+    --rs-card-bg: #f3e8ff;
+    --rs-text: #3b0764;
+    --rs-text-muted: #785595;
+    --rs-heading: #2c054b;
+    --rs-primary: #7e22ce;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #8c25e9;
+    --rs-border: #e9d5ff;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #7e22ce;
 }
 
-/* -------------------------------------------------------------------------
- * 2. Dark Mode (Explicitly Forced)
- * ------------------------------------------------------------------------- */
-/* Active only when the `theme-dark` class is explicitly applied to the body */
-body.theme-dark.theme-sunstead-politics {
-    --rs-bg: #2e1065; /* Deep, authoritative midnight purple */
-    --rs-surface: #3b0764; /* Lifted purple surface for depth */
-    --rs-text: #faf5ff; /* Pale lavender text for stark contrast */
-    --rs-primary: #c084fc; /* Bright lilac accent color for primary elements */
-    --rs-secondary: #a855f7; /* Muted lilac for secondary interactions */
-    --rs-border: #581c87; /* Dark purple border division lines */
+/* --- 2. Explicit Reader Dark & Dark-Sepia Modes --- */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-sunstead-politics, .narrative-theme-sunstead-politics, [data-narrative-theme="sunstead-politics"]) {
+    color-scheme: dark;
+    --rs-bg: #2e1065;
+    --rs-bg-alt: #361a6b;
+    --rs-surface: #3b0764;
+    --rs-card-bg: #3b0764;
+    --rs-text: #faf5ff;
+    --rs-text-muted: #c5b9d7;
+    --rs-heading: #f8fafc;
+    --rs-primary: #c084fc;
+    --rs-on-primary: #190938;
+    --rs-secondary: #be7ff9;
+    --rs-border: #581c87;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #c084fc;
 }
 
-/* -------------------------------------------------------------------------
- * 3. OS Auto Dark Mode Support
- * ------------------------------------------------------------------------- */
-/* Reads system-level color scheme preferences if no manual theme is selected */
+/* --- 3. OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) --- */
 @media (prefers-color-scheme: dark) {
-    /* Safely falls back to Dark Mode if the user hasn't explicitly chosen Light */
-    body.theme-auto.theme-sunstead-politics,
-    body:not(.theme-light):not(.theme-dark).theme-sunstead-politics {
-        /* Mirrored from Explicit Dark Mode palette */
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-sunstead-politics, .narrative-theme-sunstead-politics, [data-narrative-theme="sunstead-politics"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-sunstead-politics, .narrative-theme-sunstead-politics, [data-narrative-theme="sunstead-politics"]) {
+        color-scheme: dark;
         --rs-bg: #2e1065;
+        --rs-bg-alt: #361a6b;
         --rs-surface: #3b0764;
+        --rs-card-bg: #3b0764;
         --rs-text: #faf5ff;
+        --rs-text-muted: #c5b9d7;
+        --rs-heading: #f8fafc;
         --rs-primary: #c084fc;
-        --rs-secondary: #a855f7;
+        --rs-on-primary: #190938;
+        --rs-secondary: #be7ff9;
         --rs-border: #581c87;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #c084fc;
+    }
+}
+
+/* --- 4. Forced Colors (Windows High Contrast) Assistive Mode --- */
+@media (forced-colors: active) {
+    body:is(.theme-sunstead-politics, .narrative-theme-sunstead-politics, [data-narrative-theme="sunstead-politics"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-sunstead-politics, .narrative-theme-sunstead-politics, [data-narrative-theme="sunstead-politics"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-sunstead-politics, .narrative-theme-sunstead-politics, [data-narrative-theme="sunstead-politics"])::before,
+    body:is(.theme-sunstead-politics, .narrative-theme-sunstead-politics, [data-narrative-theme="sunstead-politics"])::after {
+        display: none !important;
     }
 }

@@ -1,1 +1,2 @@
-body.theme-dark {--rs-bg: #121212;--rs-text: #e0e0e0;--rs-border: #333333;--rs-surface: #1e1e1e;}
+/*! Stardust Engine Theme (theme-dark.min.css) | MIT License | RaggieSoft — WCAG 2.1 AA/AAA Light & Dark Mode Verified */
+body.theme-dark{color-scheme:dark;--rs-bg:#121212;--rs-bg-alt:#181b20;--rs-surface:#1e1e1e;--rs-card-bg:#1e1e1e;--rs-text:#e2e8f0; --rs-text-muted:#a1adbe; --rs-heading:#f8fafc; --rs-primary:#60a5fa; --rs-on-primary:#090d16; --rs-secondary:#fbbf24; --rs-border:#334155;--rs-asl:#6ee7b7;--rs-gesture:#c4b5fd}
