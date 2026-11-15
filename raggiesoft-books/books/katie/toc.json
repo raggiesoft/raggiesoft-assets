@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "55.6 MB",
-        "pdf": "52.1 MB",
-        "text_epub": "653 KB",
-        "text_pdf": "1.7 MB",
-        "package_7z": "484 KB",
-        "epub_bytes": 58351029,
-        "pdf_bytes": 54666522,
-        "text_epub_bytes": 668286,
-        "text_pdf_bytes": 1821514,
-        "package_7z_bytes": 495961
+        "epub": "56.8 MB",
+        "pdf": "52.7 MB",
+        "text_epub": "667 KB",
+        "text_pdf": "1.8 MB",
+        "package_7z": "495 KB",
+        "epub_bytes": 59571581,
+        "pdf_bytes": 55234134,
+        "text_epub_bytes": 683157,
+        "text_pdf_bytes": 1862454,
+        "package_7z_bytes": 506381
     },
-    "illustration_count": 124,
+    "illustration_count": 128,
     "word_stats": {
-        "story_word_count": 274624,
+        "story_word_count": 280565,
         "lore_word_count": 91549,
-        "combined_word_count": 366173,
-        "story_page_count": 999,
-        "combined_page_count": 1332,
-        "reading_hours": 18.3,
-        "reading_minutes": 1098,
+        "combined_word_count": 372114,
+        "story_page_count": 1020,
+        "combined_page_count": 1353,
+        "reading_hours": 18.7,
+        "reading_minutes": 1122,
         "novel_equivalent": 3.1,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
         "benchmark_note": "3.1\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
         "era_count": 11,
-        "chapter_count": 43,
-        "part_count": 104,
-        "illustration_count": 124
+        "chapter_count": 45,
+        "part_count": 108,
+        "illustration_count": 128
     },
     "eras": [
         {
@@ -358,8 +358,8 @@
             "era_num": 3,
             "era_title": "Sixteen & Summer Sanctuary",
             "era_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary",
-            "illustration_count": 16,
-            "word_count": 27874,
+            "illustration_count": 18,
+            "word_count": 31279,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -707,6 +707,57 @@
                             "image_count": 1
                         }
                     ]
+                },
+                {
+                    "chap_num": 6,
+                    "chap_title": "Cousin Wesley, Annie's Pretzels, & Coding Side by Side",
+                    "chap_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary/cousin-wesley-annie-s-pretzels-coding-side-by-side",
+                    "illustration_count": 2,
+                    "word_count": 3405,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Cousin Wesley at Emerald Creek Mall, Annie's Pretzels, & The Same Deep-Pressure Squeeze",
+                            "file_path": "e003/c006/p001.md",
+                            "url": "/katie/sixteen-summer-sanctuary/cousin-wesley-annie-s-pretzels-coding-side-by-side/part-1-cousin-wesley-at-emerald-creek-mall-annie-s-pretzels-the-same-deep-pressure-squeeze",
+                            "word_count": 1706,
+                            "reading_minutes": 7,
+                            "date": "2001-11-17",
+                            "start_time": "12:45",
+                            "location": "Chesapeake, VA (Emerald Creek Mall \u2014 Glass Elevator & Upstairs Food Court)",
+                            "excerpt": "Heather brings her cousin Wesley to Emerald Creek Mall for soft pretzels, showing why she understands Nate and Katie's twin bond effortlessly.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b003/nov_2001_emerald_creek_mall_annies_pretzels_wesley_heather_katie_nate.jpg",
+                            "image_alt": "Inside the sunlit second-floor food court of Emerald Creek Mall beneath white tented fabric ceiling cones in November 2001 with Annie's Pretzels visible behind them, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact black motorized SwiftChair power wheelchairs holding inner hands across from Heather Collins and her fourteen-year-old developmentally disabled cousin Wesley sharing warm soft pretzels and juice",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b003/nov_2001_emerald_creek_mall_annies_pretzels_wesley_heather_katie_nate.jpg",
+                                    "alt": "Inside the sunlit second-floor food court of Emerald Creek Mall beneath white tented fabric ceiling cones in November 2001 with Annie's Pretzels visible behind them, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact black motorized SwiftChair power wheelchairs holding inner hands across from Heather Collins and her fourteen-year-old developmentally disabled cousin Wesley sharing warm soft pretzels and juice"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Two Envelopes at Mrs. DeMarco's Window Table, Three Sugar Cookies, & Coding in Mrs. Periwinkle's Library",
+                            "file_path": "e003/c006/p002.md",
+                            "url": "/katie/sixteen-summer-sanctuary/cousin-wesley-annie-s-pretzels-coding-side-by-side/part-2-two-envelopes-at-mrs-demarco-s-window-table-three-sugar-cookies-coding-in-mrs-periwinkle-s-library",
+                            "word_count": 1699,
+                            "reading_minutes": 7,
+                            "date": "2002-02-14",
+                            "start_time": "10:55",
+                            "location": "Virginia Beach, VA (Northwood High School \u2014 Cafeteria & Library)",
+                            "excerpt": "On Valentine's Day at Northwood High, Heather surprises both Nate and Katie at Mrs. DeMarco's table before coding together in the library.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b003/feb_2002_northwood_library_valentines_coding_heather_katie_nate.jpg",
+                            "image_alt": "Inside the quiet oak-lined Northwood High School Library beneath the purple-and-gold school banners in February 2002, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact black motorized SwiftChair power wheelchairs holding inner hands at a wide oak reference table while Heather Collins sits right beside Nate holding his other hand as all three lean warmly over their open Quantum Basic coding notebook and two cream Valentine cards",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b003/feb_2002_northwood_library_valentines_coding_heather_katie_nate.jpg",
+                                    "alt": "Inside the quiet oak-lined Northwood High School Library beneath the purple-and-gold school banners in February 2002, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact black motorized SwiftChair power wheelchairs holding inner hands at a wide oak reference table while Heather Collins sits right beside Nate holding his other hand as all three lean warmly over their open Quantum Basic coding notebook and two cream Valentine cards"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
                 }
             ]
         },
@@ -714,11 +765,62 @@
             "era_num": 4,
             "era_title": "Seventeen, Senior Year, & Greenway Court",
             "era_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court",
-            "illustration_count": 7,
-            "word_count": 15338,
+            "illustration_count": 9,
+            "word_count": 17874,
             "chapters": [
                 {
                     "chap_num": 1,
+                    "chap_title": "Seventeen at Chesapeake Bay Mall & Senior Fall With Heather",
+                    "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/seventeen-at-chesapeake-bay-mall-senior-fall-with-heather",
+                    "illustration_count": 2,
+                    "word_count": 2536,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Two Buses to Chesapeake Bay Mall, The Center Court Carousel, & Seventeen on Four Wheels",
+                            "file_path": "e004/c001/p001.md",
+                            "url": "/katie/seventeen-senior-year-greenway-court/seventeen-at-chesapeake-bay-mall-senior-fall-with-heather/part-1-two-buses-to-chesapeake-bay-mall-the-center-court-carousel-seventeen-on-four-wheels",
+                            "word_count": 1163,
+                            "reading_minutes": 5,
+                            "date": "2002-04-13",
+                            "start_time": "11:15",
+                            "location": "Virginia Beach, VA (CCHR Transit Hub & Chesapeake Bay Mall on Lynnhaven Parkway)",
+                            "excerpt": "Turning seventeen, Nate and Katie take their first two-bus powerchair trip to Chesapeake Bay Mall to celebrate by the Center Court carousel with Heather.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b004/apr_2002_chesapeake_bay_mall_carousel_scenic_elevator_heather_katie_nate.jpg",
+                            "image_alt": "Inside Center Court of Chesapeake Bay Mall in Virginia Beach beneath barrel-vaulted glass skylights on earth-tone sandstone ceramic tile in April 2002, seventeen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact black motorized SwiftChair power wheelchairs holding inner hands beside the vintage double-decker carousel and dark-bronze-and-glass scenic elevator while Heather Collins stands on Nate's right holding his hand and a birthday gift bag",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b004/apr_2002_chesapeake_bay_mall_carousel_scenic_elevator_heather_katie_nate.jpg",
+                                    "alt": "Inside Center Court of Chesapeake Bay Mall in Virginia Beach beneath barrel-vaulted glass skylights on earth-tone sandstone ceramic tile in April 2002, seventeen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact black motorized SwiftChair power wheelchairs holding inner hands beside the vintage double-decker carousel and dark-bronze-and-glass scenic elevator while Heather Collins stands on Nate's right holding his hand and a birthday gift bag"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Senior Gold Day in Room 204, Paper Snowflakes, & See You After Winter Break",
+                            "file_path": "e004/c001/p002.md",
+                            "url": "/katie/seventeen-senior-year-greenway-court/seventeen-at-chesapeake-bay-mall-senior-fall-with-heather/part-2-senior-gold-day-in-room-204-paper-snowflakes-see-you-after-winter-break",
+                            "word_count": 1373,
+                            "reading_minutes": 6,
+                            "date": "2002-12-20",
+                            "start_time": "09:15",
+                            "location": "Virginia Beach, VA (Northwood High School \u2014 Room 204, Cafeteria, & Bus Loop; Arvin Road)",
+                            "excerpt": "On the final Friday before senior winter break in Room 204, Katie, Nate, and Heather compile their semester project and share a warm holiday goodbye.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b004/dec_2002_northwood_room_204_senior_winter_break_heather_katie_nate.jpg",
+                            "image_alt": "Inside Room 204 Computer Lab on the second floor of Northwood High School on Friday morning, December 20, 2002 before winter break, seventeen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact black motorized SwiftChair power wheelchairs holding inner hands at an accessible beige CRT workstation while Heather Collins sits beside Nate in a green winter sweater smiling warmly at their compiled bus-map program with paper snowflakes on the classroom window behind them",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b004/dec_2002_northwood_room_204_senior_winter_break_heather_katie_nate.jpg",
+                                    "alt": "Inside Room 204 Computer Lab on the second floor of Northwood High School on Friday morning, December 20, 2002 before winter break, seventeen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact black motorized SwiftChair power wheelchairs holding inner hands at an accessible beige CRT workstation while Heather Collins sits beside Nate in a green winter sweater smiling warmly at their compiled bus-map program with paper snowflakes on the classroom window behind them"
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
                     "chap_title": "Drunken New Year",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/drunken-new-year",
                     "illustration_count": 2,
@@ -727,7 +829,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Gas-Station Run, A Box of Dry Cereal, & Why I Never Had a Twenty-First Birthday Drink",
-                            "file_path": "e004/c001/p001.md",
+                            "file_path": "e004/c002/p001.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/drunken-new-year/part-1-the-gas-station-run-a-box-of-dry-cereal-why-i-never-had-a-twenty-first-birthday-drink",
                             "word_count": 2606,
                             "reading_minutes": 11,
@@ -748,7 +850,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Drunken New Year Lie, Heather's Bitter Goodbye, & Twin Sisters Always Stay",
-                            "file_path": "e004/c001/p002.md",
+                            "file_path": "e004/c002/p002.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/drunken-new-year/part-2-the-drunken-new-year-lie-heather-s-bitter-goodbye-twin-sisters-always-stay",
                             "word_count": 1979,
                             "reading_minutes": 8,
@@ -769,7 +871,7 @@
                     ]
                 },
                 {
-                    "chap_num": 2,
+                    "chap_num": 3,
                     "chap_title": "Greenway Court, Apartment A6 & The Square Closet Sanctuary",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary",
                     "illustration_count": 3,
@@ -778,7 +880,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Apartment A6 on Greenway Court, Dad's Microwave Cart, & Across-the-Hall Neighbors",
-                            "file_path": "e004/c002/p001.md",
+                            "file_path": "e004/c003/p001.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary/part-1-apartment-a6-on-greenway-court-dad-s-microwave-cart-across-the-hall-neighbors",
                             "word_count": 1670,
                             "reading_minutes": 7,
@@ -799,7 +901,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Brenda in the Back Alley & Discovering the Square Closet Sanctuary",
-                            "file_path": "e004/c002/p002.md",
+                            "file_path": "e004/c003/p002.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary/part-2-brenda-in-the-back-alley-discovering-the-square-closet-sanctuary",
                             "word_count": 1119,
                             "reading_minutes": 5,
@@ -820,7 +922,7 @@
                         {
                             "part_num": 3,
                             "part_title": "Part 3: Hurricane Isabel, Two Layers of Sandbags at Greenway Court, & Two Weeks at Dad's House on Arvin Road",
-                            "file_path": "e004/c002/p003.md",
+                            "file_path": "e004/c003/p003.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary/part-3-hurricane-isabel-two-layers-of-sandbags-at-greenway-court-two-weeks-at-dad-s-house-on-arvin-road",
                             "word_count": 5354,
                             "reading_minutes": 22,
@@ -841,7 +943,7 @@
                     ]
                 },
                 {
-                    "chap_num": 3,
+                    "chap_num": 4,
                     "chap_title": "The Admiral Center Patio & Moving Together to Williamsburg",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/the-admiral-center-patio-moving-together-to-williamsburg",
                     "illustration_count": 2,
@@ -850,7 +952,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Spilled Hot Chocolate on The Admiral Center Patio & Brandon Mercer Presents Himself as a Gentleman",
-                            "file_path": "e004/c003/p001.md",
+                            "file_path": "e004/c004/p001.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/the-admiral-center-patio-moving-together-to-williamsburg/part-1-spilled-hot-chocolate-on-the-admiral-center-patio-brandon-mercer-presents-himself-as-a-gentleman",
                             "word_count": 1482,
                             "reading_minutes": 6,
@@ -871,7 +973,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: A Non-Negotiable Package Deal, Dad's Calling Cards, & Moving Together to Williamsburg",
-                            "file_path": "e004/c003/p002.md",
+                            "file_path": "e004/c004/p002.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/the-admiral-center-patio-moving-together-to-williamsburg/part-2-a-non-negotiable-package-deal-dad-s-calling-cards-moving-together-to-williamsburg",
                             "word_count": 1128,
                             "reading_minutes": 5,
