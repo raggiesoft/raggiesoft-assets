@@ -8,26 +8,26 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "57.6 MB",
-        "pdf": "53 MB",
-        "text_epub": "677 KB",
+        "epub": "57.8 MB",
+        "pdf": "53.4 MB",
+        "text_epub": "678 KB",
         "text_pdf": "1.8 MB",
-        "package_7z": "502 KB",
-        "epub_bytes": 60419093,
-        "pdf_bytes": 55618084,
-        "text_epub_bytes": 693632,
-        "text_pdf_bytes": 1890935,
-        "package_7z_bytes": 514358
+        "package_7z": "503 KB",
+        "epub_bytes": 60654062,
+        "pdf_bytes": 56026300,
+        "text_epub_bytes": 694610,
+        "text_pdf_bytes": 1893945,
+        "package_7z_bytes": 515343
     },
-    "illustration_count": 131,
+    "illustration_count": 132,
     "word_stats": {
-        "story_word_count": 285134,
-        "lore_word_count": 93472,
-        "combined_word_count": 378606,
-        "story_page_count": 1037,
-        "combined_page_count": 1377,
+        "story_word_count": 285705,
+        "lore_word_count": 93761,
+        "combined_word_count": 379466,
+        "story_page_count": 1039,
+        "combined_page_count": 1380,
         "reading_hours": 19,
-        "reading_minutes": 1141,
+        "reading_minutes": 1143,
         "novel_equivalent": 3.2,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
@@ -35,7 +35,7 @@
         "era_count": 11,
         "chapter_count": 45,
         "part_count": 110,
-        "illustration_count": 131
+        "illustration_count": 132
     },
     "eras": [
         {
@@ -765,8 +765,8 @@
             "era_num": 4,
             "era_title": "Seventeen, Senior Year, & Greenway Court",
             "era_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court",
-            "illustration_count": 12,
-            "word_count": 22443,
+            "illustration_count": 13,
+            "word_count": 23014,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -848,8 +848,8 @@
                     "chap_num": 2,
                     "chap_title": "Drunken New Year",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/drunken-new-year",
-                    "illustration_count": 3,
-                    "word_count": 7738,
+                    "illustration_count": 4,
+                    "word_count": 8309,
                     "parts": [
                         {
                             "part_num": 1,
@@ -877,7 +877,7 @@
                             "part_title": "Part 2: The Drunken New Year Lie, Heather's Bitter Goodbye, & Twin Sisters Always Stay",
                             "file_path": "e004/c002/p002.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/drunken-new-year/part-2-the-drunken-new-year-lie-heather-s-bitter-goodbye-twin-sisters-always-stay",
-                            "word_count": 1979,
+                            "word_count": 1990,
                             "reading_minutes": 8,
                             "date": "2003-01-06",
                             "start_time": "08:05",
@@ -895,24 +895,28 @@
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: The Back Row of Room 204, A Song in My Head, & Cousin Hannah's Green Parka",
+                            "part_title": "Part 3: The Back Corner of Room 204, A Song in My Head, & Stairway A",
                             "file_path": "e004/c002/p003.md",
-                            "url": "/katie/seventeen-senior-year-greenway-court/drunken-new-year/part-3-the-back-row-of-room-204-a-song-in-my-head-cousin-hannah-s-green-parka",
-                            "word_count": 3153,
-                            "reading_minutes": 13,
+                            "url": "/katie/seventeen-senior-year-greenway-court/drunken-new-year/part-3-the-back-corner-of-room-204-a-song-in-my-head-stairway-a",
+                            "word_count": 3713,
+                            "reading_minutes": 15,
                             "date": "2003-01-08",
                             "start_time": "09:05",
-                            "location": "Virginia Beach, VA (Northwood High School \u2014 Room 204, Commons Cafeteria, & Bus Loop)",
-                            "excerpt": "In Room 204 after the crash, Crimson Node plays clear in Nate's mind as Katie holds his hand\u2014until Heather overhears Tyler try the exact same lie again.",
+                            "location": "Virginia Beach, VA (Northwood High School \u2014 Room 204, Commons Cafeteria, & Stairway A Bus Loop)",
+                            "excerpt": "In the back corner of Room 204, Crimson Node plays clear in Nate's mind\u2014and even after Tyler's lie unravels, part of Nate still aches for Heather.",
                             "image": "/raggiesoft-books/images/scenes/katie/b004/feb_2003_northwood_room_204_unhandled_exception_katie_nate_heather_apart.jpg",
-                            "image_alt": "Inside the second-floor Room 204 computer lab at Northwood High School in winter 2003 beneath blue-and-gold Northwood Lions and Class of 2003 pennants, seventeen-year-old blonde twins Katie and Nathaniel Prairie sit side by side in matching black SwiftChair power wheelchairs at the back corner table holding inner hands before a three-quarter-angled beige CRT monitor, while two rows ahead Heather Collins sits alone beside two empty wheelchair spaces looking back over her shoulder with pale, stricken regret.",
+                            "image_alt": "Inside the second-floor Room 204 computer lab at Northwood High School in winter 2003 directly against the painted cinderblock back corner wall beneath Northwood Lions and Class of 2003 pennants, seventeen-year-old blonde twins Katie and Nathaniel Prairie sit side by side in matching black SwiftChair power wheelchairs at two separate side-by-side CRT workstations glowing with word-processor and coding windows while holding inner hands, as rows of students work at lit monitors ahead of them and Heather Collins sits alone two rows forward glancing back with pale regret.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b004/feb_2003_northwood_room_204_unhandled_exception_katie_nate_heather_apart.jpg",
-                                    "alt": "Inside the second-floor Room 204 computer lab at Northwood High School in winter 2003 beneath blue-and-gold Northwood Lions and Class of 2003 pennants, seventeen-year-old blonde twins Katie and Nathaniel Prairie sit side by side in matching black SwiftChair power wheelchairs at the back corner table holding inner hands before a three-quarter-angled beige CRT monitor, while two rows ahead Heather Collins sits alone beside two empty wheelchair spaces looking back over her shoulder with pale, stricken regret."
+                                    "alt": "Inside the second-floor Room 204 computer lab at Northwood High School in winter 2003 directly against the painted cinderblock back corner wall beneath Northwood Lions and Class of 2003 pennants, seventeen-year-old blonde twins Katie and Nathaniel Prairie sit side by side in matching black SwiftChair power wheelchairs at two separate side-by-side CRT workstations glowing with word-processor and coding windows while holding inner hands, as rows of students work at lit monitors ahead of them and Heather Collins sits alone two rows forward glancing back with pale regret."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b004/apr_2003_northwood_stairway_a_special_needs_bus_heather_regular_stalls.jpg",
+                                    "alt": "At two-oh-five on a sunny April afternoon outside Northwood High School beneath the white covered walkway canopy at Stairway A, eighteen-year-old twins Katie and Nathaniel Prairie wait side by side in matching black SwiftChair power wheelchairs holding inner hands beside the lowered right-side hydraulic wheelchair lift of short yellow Special Needs Bus 417 and bus aide Miss Gloria, while out in the middle of the wide asphalt bus loop roadway Heather Collins walks with her backpack toward the regular yellow school buses parked in numbered diagonal stalls and glances back over her shoulder with quiet sorrow."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         }
                     ]
                 },
