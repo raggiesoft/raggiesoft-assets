@@ -43,6 +43,26 @@
     padding-left: max(1rem, env(safe-area-inset-left, 0px));
 }
 
+/* Allow Series Overview pages (`landing.php`) a wider 920px editorial measure so the 2:3 cover + synopsis pair comfortably */
+.reader-page:has(.landing-shell) {
+    max-width: 920px;
+}
+
+/* Preserve `.rs-btn` and `.rs-btn-primary` foreground contrast when rendered inside `<article class="story-content">` */
+.story-content a.rs-btn {
+    color: var(--rs-text);
+    text-decoration: none;
+}
+.story-content a.rs-btn:hover {
+    color: var(--rs-heading, var(--rs-text));
+    text-decoration: none;
+}
+.story-content a.rs-btn-primary,
+.story-content a.rs-btn-primary:hover {
+    color: var(--rs-on-primary, #ffffff);
+    text-decoration: none;
+}
+
 /* Standalone PWA & iOS Dynamic Island Clearance:
  * When running as an installed PWA (`display-mode: standalone` / `html.is-pwa-standalone`),
  * the cross-site `.rs-network-bar` is hidden so `.reader-page` starts at the physical top

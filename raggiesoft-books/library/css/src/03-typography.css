@@ -96,14 +96,14 @@
     color: var(--rs-text);
 }
 
-/* Inline narrative links inside prose */
-.story-content a {
+/* Inline narrative links inside prose (excludes `.rs-btn` CTA anchor buttons so button text contrast is preserved) */
+.story-content a:not(.rs-btn) {
     color: var(--rs-primary);
     text-decoration-thickness: 1.5px;
     text-underline-offset: 3px;
 }
 
-.story-content a:hover {
+.story-content a:not(.rs-btn):hover {
     color: var(--rs-secondary);
 }
 

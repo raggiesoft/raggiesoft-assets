@@ -18,8 +18,9 @@
  * 3. `:focus-visible` renders an unambiguous 2px outline with 2px offset.
  * ========================================================================== */
 
-/* Base Button Structure */
-.rs-btn {
+/* Base Button Structure (includes `a.rs-btn` so anchor buttons beat generic `a` / `.story-content a` link rules) */
+.rs-btn,
+a.rs-btn {
     display: inline-flex;
     align-items: center;
     justify-content: center;
@@ -39,31 +40,40 @@
 }
 
 /* Base Hover State */
-.rs-btn:hover {
+.rs-btn:hover,
+a.rs-btn:hover {
     background: var(--rs-bg-alt, var(--rs-border));
     border-color: var(--rs-primary);
     color: var(--rs-heading, var(--rs-text));
+    text-decoration: none;
 }
 
 /* Keyboard Focus Ring */
-.rs-btn:focus-visible {
+.rs-btn:focus-visible,
+a.rs-btn:focus-visible {
     outline: 2px solid var(--rs-primary);
     outline-offset: 2px;
 }
 
 /* Primary Semantic Call-to-Action Modifier */
-.rs-btn-primary {
+.rs-btn-primary,
+a.rs-btn-primary,
+.story-content a.rs-btn-primary {
     background: var(--rs-primary);
     color: var(--rs-on-primary, #ffffff);
     border-color: var(--rs-primary);
+    text-decoration: none;
 }
 
 /* Primary Hover State (avoids opacity fade that could wash text into page background) */
-.rs-btn-primary:hover {
+.rs-btn-primary:hover,
+a.rs-btn-primary:hover,
+.story-content a.rs-btn-primary:hover {
     background: var(--rs-primary);
     color: var(--rs-on-primary, #ffffff);
     border-color: var(--rs-primary);
     filter: brightness(1.06);
+    text-decoration: none;
 }
 
 @media (prefers-reduced-motion: reduce) {
