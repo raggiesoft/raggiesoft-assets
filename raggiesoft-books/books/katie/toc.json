@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "58.2 MB",
-        "pdf": "53.6 MB",
-        "text_epub": "686 KB",
+        "epub": "58.9 MB",
+        "pdf": "54.4 MB",
+        "text_epub": "694 KB",
         "text_pdf": "1.8 MB",
-        "package_7z": "509 KB",
-        "epub_bytes": 60999045,
-        "pdf_bytes": 56185295,
-        "text_epub_bytes": 702421,
-        "text_pdf_bytes": 1915387,
-        "package_7z_bytes": 521417
+        "package_7z": "515 KB",
+        "epub_bytes": 61773053,
+        "pdf_bytes": 57056401,
+        "text_epub_bytes": 710387,
+        "text_pdf_bytes": 1938019,
+        "package_7z_bytes": 527217
     },
-    "illustration_count": 133,
+    "illustration_count": 134,
     "word_stats": {
-        "story_word_count": 289357,
-        "lore_word_count": 95114,
-        "combined_word_count": 384471,
-        "story_page_count": 1052,
-        "combined_page_count": 1398,
-        "reading_hours": 19.3,
-        "reading_minutes": 1157,
-        "novel_equivalent": 3.2,
+        "story_word_count": 292966,
+        "lore_word_count": 95570,
+        "combined_word_count": 388536,
+        "story_page_count": 1065,
+        "combined_page_count": 1413,
+        "reading_hours": 19.5,
+        "reading_minutes": 1172,
+        "novel_equivalent": 3.3,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
-        "benchmark_note": "3.2\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
+        "benchmark_note": "3.3\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
         "era_count": 11,
         "chapter_count": 45,
-        "part_count": 111,
-        "illustration_count": 133
+        "part_count": 112,
+        "illustration_count": 134
     },
     "eras": [
         {
@@ -765,8 +765,8 @@
             "era_num": 4,
             "era_title": "Seventeen, Senior Year, & Greenway Court",
             "era_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court",
-            "illustration_count": 14,
-            "word_count": 26666,
+            "illustration_count": 15,
+            "word_count": 29762,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -848,8 +848,8 @@
                     "chap_num": 2,
                     "chap_title": "Drunken New Year",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/drunken-new-year",
-                    "illustration_count": 5,
-                    "word_count": 11961,
+                    "illustration_count": 6,
+                    "word_count": 15057,
                     "parts": [
                         {
                             "part_num": 1,
@@ -920,21 +920,42 @@
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: Purple Gowns at the Pavilion, Wesley's Frown, & Why Neither of Us Could Go Back",
+                            "part_title": "Part 4: Purple Gowns at the Pavilion, Pomp and Circumstance, & One Chance Strictly for Wesley",
                             "file_path": "e004/c002/p004.md",
-                            "url": "/katie/seventeen-senior-year-greenway-court/drunken-new-year/part-4-purple-gowns-at-the-pavilion-wesley-s-frown-why-neither-of-us-could-go-back",
-                            "word_count": 3566,
-                            "reading_minutes": 15,
+                            "url": "/katie/seventeen-senior-year-greenway-court/drunken-new-year/part-4-purple-gowns-at-the-pavilion-pomp-and-circumstance-one-chance-strictly-for-wesley",
+                            "word_count": 3786,
+                            "reading_minutes": 16,
                             "date": "2003-06-14",
                             "start_time": "11:35",
                             "location": "Virginia Beach, VA (Virginia Beach Pavilion \u2014 Class of 2003 Commencement)",
-                            "excerpt": "After rolling across the Northwood High graduation stage at the Virginia Beach Pavilion, Heather tries to apologize while an angry Wesley frowns at his cousin\u2014and Katie and Nate gently hold their boundary.",
+                            "excerpt": "After Pomp and Circumstance echoes through Northwood High's graduation at the Virginia Beach Pavilion, Katie and Nate tell Heather they cannot reform their relationship\u2014breaking Wesley's heart until the twins agree to one strictly bounded Saturday at Emerald Creek Mall for Wesley's sake.",
                             "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_graduation_heather_apology_angry_wesley.jpg",
                             "image_alt": "Outside the Virginia Beach Pavilion under blooming crape-myrtle trees after Northwood High School's June 2003 Commencement, eighteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in matching compact black SwiftChair power wheelchairs in royal-purple caps and gowns with gold honor cords holding inner hands with guarded, bittersweet expressions as remorseful classmate Heather Collins apologizes to both of them while her sixteen-year-old cousin Wesley folds his arms over his blue silicone ring and frowns angrily at Heather.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_graduation_heather_apology_angry_wesley.jpg",
                                     "alt": "Outside the Virginia Beach Pavilion under blooming crape-myrtle trees after Northwood High School's June 2003 Commencement, eighteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in matching compact black SwiftChair power wheelchairs in royal-purple caps and gowns with gold honor cords holding inner hands with guarded, bittersweet expressions as remorseful classmate Heather Collins apologizes to both of them while her sixteen-year-old cousin Wesley folds his arms over his blue silicone ring and frowns angrily at Heather."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: Waiting by the Route 15 Stop, If You Walked Away, & Wesley's Laminated Buddy Card",
+                            "file_path": "e004/c002/p005.md",
+                            "url": "/katie/seventeen-senior-year-greenway-court/drunken-new-year/part-5-waiting-by-the-route-15-stop-if-you-walked-away-wesley-s-laminated-buddy-card",
+                            "word_count": 2876,
+                            "reading_minutes": 12,
+                            "date": "2003-06-28",
+                            "start_time": "12:35",
+                            "location": "Chesapeake, VA (Emerald Creek Mall \u2014 CVTA Route 15 Bus Stop & Upstairs Food Court)",
+                            "excerpt": "Before Heather and Wesley move home to Minnesota, Katie and Nate meet them off CVTA Route 15 at Emerald Creek Mall to give Wesley a proper buddy farewell.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_emerald_creek_mall_food_court_goodbye_wesley_nate_katie_heather.jpg",
+                            "image_alt": "Inside the sunlit second-floor Food Court of Emerald Creek Mall beneath white tented fabric ceiling cones in June 2003 with Crown Burger and Annie's Pretzels in the background, eighteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in matching compact black SwiftChair power wheelchairs holding inner hands while Nate reaches across the table to tap sixteen-year-old Wesley Collins's knuckles beside a miniature toy city bus and soft pretzel tray as Heather Collins sits respectfully half a chair back with her hands folded quietly in her lap.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_emerald_creek_mall_food_court_goodbye_wesley_nate_katie_heather.jpg",
+                                    "alt": "Inside the sunlit second-floor Food Court of Emerald Creek Mall beneath white tented fabric ceiling cones in June 2003 with Crown Burger and Annie's Pretzels in the background, eighteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in matching compact black SwiftChair power wheelchairs holding inner hands while Nate reaches across the table to tap sixteen-year-old Wesley Collins's knuckles beside a miniature toy city bus and soft pretzel tray as Heather Collins sits respectfully half a chair back with her hands folded quietly in her lap."
                                 }
                             ],
                             "image_count": 1
@@ -1071,22 +1092,22 @@
             "era_title": "Six Buses from Williamsburg, Sea Breeze West, & Coming Home to Arvin Road",
             "era_url": "/raggiesoft-books/books/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road",
             "illustration_count": 5,
-            "word_count": 16815,
+            "word_count": 17328,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "North Henry Street, Six Buses from Williamsburg, & The Goyeau Street Tunnel File",
                     "chap_url": "/raggiesoft-books/books/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/north-henry-street-six-buses-from-williamsburg-the-goyeau-street-tunnel-file",
                     "illustration_count": 1,
-                    "word_count": 7906,
+                    "word_count": 8239,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Closed Bedroom Doors, The Three-by-Six Closet Sanctuary, & Unwritten Couple Rules",
                             "file_path": "e005/c001/p001.md",
                             "url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/north-henry-street-six-buses-from-williamsburg-the-goyeau-street-tunnel-file/part-1-closed-bedroom-doors-the-three-by-six-closet-sanctuary-unwritten-couple-rules",
-                            "word_count": 1604,
-                            "reading_minutes": 7,
+                            "word_count": 1937,
+                            "reading_minutes": 8,
                             "date": "2004-10-15",
                             "start_time": "21:40",
                             "location": "Williamsburg, VA (Brandon Mercer's Single-Family House Near North Boundary Street)",
@@ -1132,15 +1153,15 @@
                     "chap_title": "Tiffany's Sea Breeze West Apartment, Dirty Old Tonomy Hill, & Coming Home to Arvin Road",
                     "chap_url": "/raggiesoft-books/books/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road",
                     "illustration_count": 4,
-                    "word_count": 8909,
+                    "word_count": 9089,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chapters & Co. After Williamsburg & Tiffany Sloan Invites Both Twins Into Sea Breeze West",
                             "file_path": "e005/c002/p001.md",
                             "url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road/part-1-chapters-co-after-williamsburg-tiffany-sloan-invites-both-twins-into-sea-breeze-west",
-                            "word_count": 1235,
-                            "reading_minutes": 5,
+                            "word_count": 1320,
+                            "reading_minutes": 6,
                             "date": "2004-11-05",
                             "start_time": "15:15",
                             "location": "Norfolk, VA (Chapters & Co. at The Admiral Center & Sea Breeze West Apartment 3 on West Ocean View Avenue)",
@@ -1172,7 +1193,7 @@
                             "part_title": "Part 3: Milk Isn't Allowed in This Fridge, Tiffany's Sunday Morning Accusation, & Yes-or-No Questions Through Tears",
                             "file_path": "e005/c002/p003.md",
                             "url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road/part-3-milk-isn-t-allowed-in-this-fridge-tiffany-s-sunday-morning-accusation-yes-or-no-questions-through-tears",
-                            "word_count": 2766,
+                            "word_count": 2861,
                             "reading_minutes": 12,
                             "date": "2005-11-13",
                             "start_time": "08:30",
