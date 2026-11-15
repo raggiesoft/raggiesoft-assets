@@ -8,24 +8,24 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/quantum-directive-3-casey.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "3.1 MB",
-        "pdf": "4 MB",
+        "epub": "5.1 MB",
+        "pdf": "4.8 MB",
         "text_epub": "398 KB",
         "text_pdf": "1.2 MB",
-        "package_7z": "294 KB",
-        "epub_bytes": 3276147,
-        "pdf_bytes": 4170889,
-        "text_epub_bytes": 407529,
-        "text_pdf_bytes": 1263465,
-        "package_7z_bytes": 300723
+        "package_7z": "295 KB",
+        "epub_bytes": 5306928,
+        "pdf_bytes": 5058155,
+        "text_epub_bytes": 407438,
+        "text_pdf_bytes": 1263033,
+        "package_7z_bytes": 302433
     },
-    "illustration_count": 3,
+    "illustration_count": 10,
     "word_stats": {
         "story_word_count": 169175,
-        "lore_word_count": 42703,
-        "combined_word_count": 211878,
+        "lore_word_count": 51160,
+        "combined_word_count": 220335,
         "story_page_count": 615,
-        "combined_page_count": 770,
+        "combined_page_count": 801,
         "reading_hours": 11.3,
         "reading_minutes": 677,
         "novel_equivalent": 1.9,
@@ -35,14 +35,14 @@
         "era_count": 6,
         "chapter_count": 54,
         "part_count": 71,
-        "illustration_count": 3
+        "illustration_count": 10
     },
     "eras": [
         {
             "era_num": 1,
             "era_title": "Book 1: The George Wythe Expedition",
             "era_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition",
-            "illustration_count": 0,
+            "illustration_count": 1,
             "word_count": 44573,
             "chapters": [
                 {
@@ -285,7 +285,7 @@
                     "chap_num": 12,
                     "chap_title": "Chapter 12: The Open House",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-1-the-george-wythe-expedition/chapter-12-the-open-house",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "word_count": 4432,
                     "parts": [
                         {
@@ -298,7 +298,16 @@
                             "date": "1995-08-24",
                             "start_time": "09:00",
                             "location": "Seattle, WA",
-                            "excerpt": "The next morning, the heavy Seattle cloud cover finally broke, bathing the Northwest Pacific University campus in brilliant, crisp sunlight. We executed our deployment from the hotel with military precision\u2026"
+                            "excerpt": "Seventeen-year-old Cassandra Vance meets Quantum President Steve Ballantine at the Catalyst Initiative pavilion on the Northwest Pacific University Engineering Quad.",
+                            "image": "/raggiesoft-books/images/scenes/casey/aug_1995_npu_quad_cassandra_steve_ballantine.jpg",
+                            "image_alt": "On a sunny August 1995 morning on the Northwest Pacific University Engineering Quad in Seattle, Quantum President Steve Ballantine leans forward with his hands on his knees at eye level with seventeen-year-old Cassandra Vance in her manual wheelchair outside the black-and-cobalt Quantum Catalyst Initiative pavilion while ten-year-old David, eight-year-old Casey holding a folded campus map, and parents Wendy and Tom watch proudly.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/casey/aug_1995_npu_quad_cassandra_steve_ballantine.jpg",
+                                    "alt": "On a sunny August 1995 morning on the Northwest Pacific University Engineering Quad in Seattle, Quantum President Steve Ballantine leans forward with his hands on his knees at eye level with seventeen-year-old Cassandra Vance in her manual wheelchair outside the black-and-cobalt Quantum Catalyst Initiative pavilion while ten-year-old David, eight-year-old Casey holding a folded campus map, and parents Wendy and Tom watch proudly."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -415,7 +424,7 @@
             "era_num": 2,
             "era_title": "Book 2: The Sovereign Perimeter",
             "era_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter",
-            "illustration_count": 1,
+            "illustration_count": 3,
             "word_count": 53210,
             "chapters": [
                 {
@@ -590,7 +599,7 @@
                     "chap_num": 9,
                     "chap_title": "Chapter 9: The Crossroads",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-9-the-crossroads",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "word_count": 5365,
                     "parts": [
                         {
@@ -615,7 +624,16 @@
                             "date": "2004-11-25",
                             "start_time": "16:00",
                             "location": "Virginia Beach, VA",
-                            "excerpt": "The silence on the line was deafening, save for the ragged, uneven sound of my breathing. I had completely buried my face in Casey\u2019s hair, my hands clutching the silver phone so tightly my knuckles were white\u2026"
+                            "excerpt": "In David Vance's Virginia Beach bedroom on Thanksgiving afternoon 2004, Cassandra takes the silver flip phone and engineers the twenty-one-day finals bridge.",
+                            "image": "/raggiesoft-books/images/scenes/casey/nov_2004_thanksgiving_twenty_one_day_bridge_bedroom.jpg",
+                            "image_alt": "Inside David Vance's Virginia Beach bedroom on Thanksgiving afternoon 2004, twenty-six-year-old Cassandra Vance sits composed in her manual wheelchair holding a silver flip phone angled toward her own face while nineteen-year-old David holds seventeen-year-old Casey on the bed and Kate, David, Morgan, and Meredith Delaney form a protective perimeter at the doorway.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/casey/nov_2004_thanksgiving_twenty_one_day_bridge_bedroom.jpg",
+                                    "alt": "Inside David Vance's Virginia Beach bedroom on Thanksgiving afternoon 2004, twenty-six-year-old Cassandra Vance sits composed in her manual wheelchair holding a silver flip phone angled toward her own face while nineteen-year-old David holds seventeen-year-old Casey on the bed and Kate, David, Morgan, and Meredith Delaney form a protective perimeter at the doorway."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -773,7 +791,7 @@
                     "chap_num": 16,
                     "chap_title": "Chapter 16: The Aquidneck Christmas",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-16-the-aquidneck-christmas",
-                    "illustration_count": 1,
+                    "illustration_count": 2,
                     "word_count": 3468,
                     "parts": [
                         {
@@ -786,16 +804,20 @@
                             "date": "2004-12-24",
                             "start_time": "08:15",
                             "location": "Portsmouth, RI",
-                            "excerpt": "The morning sun reflecting off the icy waters of Narragansett Bay poured through the large basement egress windows, signaling the start of Christmas Eve. Waking up in the center of the Delaney pack was a\u2026",
+                            "excerpt": "On Christmas Eve 2004 in Portsmouth, Rhode Island, the Delaney-Vance pack gathers beneath the green steel span of the Mount Hope Bridge for a glowing Qu\u00e9b\u00e9cois R\u00e9veillon feast.",
                             "image": "/raggiesoft-books/images/scenes/casey/christmas_eve_puppy_pile.jpg",
-                            "image_alt": "The Christmas Eve Puppy Pile",
+                            "image_alt": "On Christmas Eve morning 2004 in the Portsmouth living room, David grins on the sofa surrounded in a joyful family cuddle pile by Liz Carter, Cassandra Vance leaning warmly from her manual wheelchair, Casey Vance, and Erin, Megan, Chloe, and Claire Delaney.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/casey/christmas_eve_puppy_pile.jpg",
-                                    "alt": "The Christmas Eve Puppy Pile"
+                                    "alt": "On Christmas Eve morning 2004 in the Portsmouth living room, David grins on the sofa surrounded in a joyful family cuddle pile by Liz Carter, Cassandra Vance leaning warmly from her manual wheelchair, Casey Vance, and Erin, Megan, Chloe, and Claire Delaney."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/casey/reveillon_under_bridge.jpg",
+                                    "alt": "Underneath the towering concrete piers and sweeping green steel span of the Mount Hope Bridge in Portsmouth, Rhode Island on Christmas Eve 2004, Cassandra Vance in her manual wheelchair, David Vance, Liz Carter, Casey Vance, and the Delaney sisters laugh over steaming paper boats of poutine and hot cider beside a glowing propane patio heater and golden string lights."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         }
                     ]
                 },
@@ -910,7 +932,7 @@
             "era_num": 3,
             "era_title": "Book 3: The NCLEX",
             "era_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex",
-            "illustration_count": 0,
+            "illustration_count": 2,
             "word_count": 36292,
             "chapters": [
                 {
@@ -1013,7 +1035,7 @@
                     "chap_num": 5,
                     "chap_title": "Chapter 5: The Evergreen Marine",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-5-the-evergreen-marine",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "word_count": 3966,
                     "parts": [
                         {
@@ -1026,7 +1048,16 @@
                             "date": "2005-03-20",
                             "start_time": "09:30",
                             "location": "Colman Dock, Seattle, WA",
-                            "excerpt": "Sunday morning in downtown Seattle was an entirely different beast than Saturday. The bustling corporate energy vanished, replaced by quiet, empty streets and a thick layer of grey morning fog rolling off\u2026"
+                            "excerpt": "On Sunday morning, March 20, 2005, Cassandra, David, Liz, Casey, and the Delaneys sail out of Colman Dock across misty Elliott Bay aboard the Evergreen Marine ferry to Bremerton.",
+                            "image": "/raggiesoft-books/images/scenes/casey/mar_2005_evergreen_marine_ferry_elliott_bay.jpg",
+                            "image_alt": "On the breezy outer observation deck of a green-and-white Evergreen Marine ferry crossing misty Elliott Bay on March 20, 2005, David Vance and Liz Carter hold hands at the emerald-green rail beside Casey Vance, Meredith and Morgan Delaney, and Cassandra Vance smiling from her manual wheelchair near the cabin windbreak while the Seattle skyline and Century Spire recede behind a churning white wake.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/casey/mar_2005_evergreen_marine_ferry_elliott_bay.jpg",
+                                    "alt": "On the breezy outer observation deck of a green-and-white Evergreen Marine ferry crossing misty Elliott Bay on March 20, 2005, David Vance and Liz Carter hold hands at the emerald-green rail beside Casey Vance, Meredith and Morgan Delaney, and Cassandra Vance smiling from her manual wheelchair near the cabin windbreak while the Seattle skyline and Century Spire recede behind a churning white wake."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -1121,7 +1152,7 @@
                     "chap_num": 9,
                     "chap_title": "Chapter 9: A Desperate Escape",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-3-the-nclex/chapter-9-a-desperate-escape",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "word_count": 7935,
                     "parts": [
                         {
@@ -1134,7 +1165,16 @@
                             "date": "2005-04-08",
                             "start_time": "15:00",
                             "location": "North Cascades Highway, WA",
-                            "excerpt": "We had left Federal Way early that morning, navigating the heavy northbound traffic of I-5. Because the state had never finished building the massive I-296 bypass loop around Eldridge County, there was no way to\u2026"
+                            "excerpt": "Seven thousand feet up Ruby Mountain inside the 1903 Great Hall of The Prospector's Keep, Cassandra Vance and her East Coast pack come face-to-face with Matriarch Victoria Vance and Johnny Vance.",
+                            "image": "/raggiesoft-books/images/scenes/casey/apr_2005_prospectors_keep_great_hall_bloodline_reveal.jpg",
+                            "image_alt": "Inside the towering 1903 timber-and-river-stone Great Hall of The Prospector's Keep on Ruby Mountain on April 8, 2005, twenty-six-year-old Cassandra Vance sits poised in her manual wheelchair flanked by David, Liz, Casey, and their parents across a crimson Persian rug from Matriarch Victoria Vance, Johnny Vance in his laptop-equipped manual wheelchair, twin sister Amanda, Chef Diana Whitaker, Morgan Foster, and Emma Bennett before a roaring stone hearth.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/casey/apr_2005_prospectors_keep_great_hall_bloodline_reveal.jpg",
+                                    "alt": "Inside the towering 1903 timber-and-river-stone Great Hall of The Prospector's Keep on Ruby Mountain on April 8, 2005, twenty-six-year-old Cassandra Vance sits poised in her manual wheelchair flanked by David, Liz, Casey, and their parents across a crimson Persian rug from Matriarch Victoria Vance, Johnny Vance in his laptop-equipped manual wheelchair, twin sister Amanda, Chef Diana Whitaker, Morgan Foster, and Emma Bennett before a roaring stone hearth."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -1189,7 +1229,7 @@
             "era_num": 4,
             "era_title": "Book 4: The Sovereign Empire",
             "era_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-4-the-sovereign-empire",
-            "illustration_count": 0,
+            "illustration_count": 1,
             "word_count": 14212,
             "chapters": [
                 {
@@ -1217,7 +1257,7 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Ground Truth",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-4-the-sovereign-empire/chapter-2-the-ground-truth",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "word_count": 10572,
                     "parts": [
                         {
@@ -1254,7 +1294,16 @@
                             "date": "2014-01-15",
                             "start_time": "12:15",
                             "location": "Redmond, WA",
-                            "excerpt": "By noon, the Redmond campus was buzzing with an electric, celebratory energy. The global email had deployed, and the \"Courtyard CEO\" was officially the successor. Inside the Building 33 executive suite, the Head\u2026"
+                            "excerpt": "On January 15, 2014, newly named CEO-designate Cassandra Vance rides King County Route 230 to Downtown Bellevue to debug code alongside rookie developers while LPN David Vance executes her 2:00 PM check.",
+                            "image": "/raggiesoft-books/images/scenes/casey/jan_2014_bellevue_bullpen_coding_and_lpn_check.jpg",
+                            "image_alt": "Inside Quantum Corporation's sunlit twelfth-floor communal workspace in Downtown Bellevue on January 15, 2014, newly named CEO-designate Cassandra Vance sits in her manual wheelchair with her noise-canceling headphones resting flat on the wooden table and points out a line of code on a rookie developer's laptop while LPN David Vance in his bright Orange Contractor Badge logs her 2:00 PM pulse-oximeter check and a gray-haired veteran architect waves reassuringly.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/casey/jan_2014_bellevue_bullpen_coding_and_lpn_check.jpg",
+                                    "alt": "Inside Quantum Corporation's sunlit twelfth-floor communal workspace in Downtown Bellevue on January 15, 2014, newly named CEO-designate Cassandra Vance sits in her manual wheelchair with her noise-canceling headphones resting flat on the wooden table and points out a line of code on a rookie developer's laptop while LPN David Vance in his bright Orange Contractor Badge logs her 2:00 PM pulse-oximeter check and a gray-haired veteran architect waves reassuringly."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 4,
@@ -1357,7 +1406,7 @@
             "era_num": 6,
             "era_title": "Book 6: The Sovereign Autonomy",
             "era_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-6-the-sovereign-autonomy",
-            "illustration_count": 0,
+            "illustration_count": 1,
             "word_count": 12338,
             "chapters": [
                 {
@@ -1385,7 +1434,7 @@
                     "chap_num": 2,
                     "chap_title": "Chapter 2: The Fenwick Bridge Protocol",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-3-casey/book-6-the-sovereign-autonomy/chapter-2-the-fenwick-bridge-protocol",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "word_count": 7389,
                     "parts": [
                         {
@@ -1398,7 +1447,16 @@
                             "date": "2014-06-10",
                             "start_time": "08:15",
                             "location": "Arlington, VA",
-                            "excerpt": "Landing a private corporate aircraft at Ronald Reagan Washington National Airport (DCA) is a logistical nightmare that most Fortune 500 companies actively avoid. Under post-9/11 federal security mandates\u2026"
+                            "excerpt": "After leaving K Street handlers behind at the DCA Capital Transit faregates, CEO Cassandra Vance and LPN David Vance project her zero-dollar shareholder reimbursement ledger before the U.S. Senate.",
+                            "image": "/raggiesoft-books/images/scenes/casey/jun_2014_senate_judiciary_hearing_mar_protocol.jpg",
+                            "image_alt": "Inside the marble U.S. Senate Judiciary Committee hearing room on June 10, 2014, Quantum CEO Cassandra Vance testifies poised in her manual wheelchair at the mahogany witness table with her zero-dollar shareholder reimbursement ledger projected on the overhead monitor while LPN David Vance sits directly beside her checking his clinical tablet and Liz Carter and Casey Vance watch proudly behind four empty lobbyist leather chairs.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/casey/jun_2014_senate_judiciary_hearing_mar_protocol.jpg",
+                                    "alt": "Inside the marble U.S. Senate Judiciary Committee hearing room on June 10, 2014, Quantum CEO Cassandra Vance testifies poised in her manual wheelchair at the mahogany witness table with her zero-dollar shareholder reimbursement ledger projected on the overhead monitor while LPN David Vance sits directly beside her checking his clinical tablet and Liz Carter and Casey Vance watch proudly behind four empty lobbyist leather chairs."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
