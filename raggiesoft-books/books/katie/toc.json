@@ -13,17 +13,17 @@
         "text_epub": "678 KB",
         "text_pdf": "1.8 MB",
         "package_7z": "503 KB",
-        "epub_bytes": 60613519,
-        "pdf_bytes": 55986314,
-        "text_epub_bytes": 694751,
-        "text_pdf_bytes": 1894324,
-        "package_7z_bytes": 515524
+        "epub_bytes": 60622832,
+        "pdf_bytes": 55995567,
+        "text_epub_bytes": 694763,
+        "text_pdf_bytes": 1894306,
+        "package_7z_bytes": 515581
     },
     "illustration_count": 132,
     "word_stats": {
-        "story_word_count": 285788,
-        "lore_word_count": 94039,
-        "combined_word_count": 379827,
+        "story_word_count": 285791,
+        "lore_word_count": 94040,
+        "combined_word_count": 379831,
         "story_page_count": 1039,
         "combined_page_count": 1381,
         "reading_hours": 19.1,
@@ -766,7 +766,7 @@
             "era_title": "Seventeen, Senior Year, & Greenway Court",
             "era_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court",
             "illustration_count": 13,
-            "word_count": 23097,
+            "word_count": 23100,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -849,7 +849,7 @@
                     "chap_title": "Drunken New Year",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/drunken-new-year",
                     "illustration_count": 4,
-                    "word_count": 8392,
+                    "word_count": 8395,
                     "parts": [
                         {
                             "part_num": 1,
@@ -898,7 +898,7 @@
                             "part_title": "Part 3: The Back Corner of Room 204, A Song in My Head, & Stairway A",
                             "file_path": "e004/c002/p003.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/drunken-new-year/part-3-the-back-corner-of-room-204-a-song-in-my-head-stairway-a",
-                            "word_count": 3796,
+                            "word_count": 3799,
                             "reading_minutes": 16,
                             "date": "2003-01-08",
                             "start_time": "09:05",
@@ -913,7 +913,7 @@
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b004/apr_2003_northwood_stairway_a_special_needs_bus_heather_regular_stalls.jpg",
-                                    "alt": "At two-oh-five on a sunny April afternoon outside Northwood High School\u2014where the two-story 1992 brick building and teal-trimmed sheltered walkway continue past Stairway B on the left\u2014eighteen-year-old twins Katie and Nathaniel Prairie roll side by side in matching black SwiftChair power wheelchairs along the raised concrete sidewalk beneath the circular concrete portal of Stairway A toward the lowered right-side hydraulic lift of short yellow Special Needs Bus 417 pulled up facing the Stairway A entrance over the unbroken yellow curb, while across the grass island Heather Collins walks away from the school with other students toward the regular yellow school buses in the numbered stalls and glances back over her shoulder with quiet sorrow."
+                                    "alt": "At two-oh-five on a sunny April afternoon outside Northwood High School\u2014where the two-story 1992 red-brick building and covered concrete walkway continue from Stairway A past Stairway B toward Stairway C beyond the left edge of the frame\u2014eighteen-year-old twins Katie and Nathaniel Prairie roll side by side in matching black SwiftChair power wheelchairs along the wide concrete sidewalk outside Stairway A toward the lowered right-side hydraulic lift of short yellow Special Needs Bus 417 pulled alongside the unbroken yellow curb, while across the wide asphalt drive lane departing students exiting Stairways A, B, and C walk across the white crosswalk toward the regular yellow school buses parked side by side in their assigned numbered stalls and Heather Collins glances back over her shoulder with quiet sorrow."
                                 }
                             ],
                             "image_count": 2
