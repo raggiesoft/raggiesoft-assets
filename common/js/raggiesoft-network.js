@@ -52,15 +52,179 @@
    * manually removed on November 29, 2026.
    */
   var MEMORIAM_EXPIRES_ISO = '2026-11-28T23:59:59-05:00';
+  var SNOW_STORAGE_KEY = 'rs_holiday_snow_pref';
+  var HOLIDAY_PREVIEW_SESSION_KEY = 'rs_holiday_preview_mode';
 
-  function isMemoriamActive() {
+  function isMemoriamActive(customDate) {
     try {
       var expiryMs = Date.parse(MEMORIAM_EXPIRES_ISO);
       if (isNaN(expiryMs)) return false;
-      return Date.now() <= expiryMs;
+      var checkMs = customDate instanceof Date ? customDate.getTime() : Date.now();
+      return checkMs <= expiryMs;
     } catch (e) {
       return false;
     }
+  }
+
+  /**
+   * Resolves calendar `{ year, month, day }` strictly in `America/New_York`
+   * so Black Friday and January 2 transitions never drift across visitor timezones.
+   * Uses `Temporal.ZonedDateTime` where supported natively, with a deterministic
+   * `Intl.DateTimeFormat` fallback for Safari and older engines.
+   */
+  function getEasternCalendarDate(customDate) {
+    var targetDate = customDate instanceof Date && !isNaN(customDate.getTime()) ? customDate : new Date();
+    try {
+      if (typeof Temporal !== 'undefined' && Temporal.Instant) {
+        var instant = Temporal.Instant.fromEpochMilliseconds(targetDate.getTime());
+        var zdt = instant.toZonedDateTimeISO('America/New_York');
+        return { year: zdt.year, month: zdt.month, day: zdt.day };
+      }
+    } catch (e) {}
+
+    try {
+      var fmt = new Intl.DateTimeFormat('en-US', {
+        timeZone: 'America/New_York',
+        year: 'numeric',
+        month: 'numeric',
+        day: 'numeric'
+      });
+      var parts = fmt.formatToParts(targetDate);
+      var year = 0;
+      var month = 0;
+      var day = 0;
+      for (var i = 0; i < parts.length; i++) {
+        if (parts[i].type === 'year') year = parseInt(parts[i].value, 10);
+        else if (parts[i].type === 'month') month = parseInt(parts[i].value, 10);
+        else if (parts[i].type === 'day') day = parseInt(parts[i].value, 10);
+      }
+      if (year > 0 && month > 0 && day > 0) {
+        return { year: year, month: month, day: day };
+      }
+    } catch (e2) {}
+
+    return {
+      year: targetDate.getFullYear(),
+      month: targetDate.getMonth() + 1,
+      day: targetDate.getDate()
+    };
+  }
+
+  /**
+   * Computes Black Friday (the day after the 4th Thursday of November) for any year.
+   */
+  function getBlackFridayDay(year) {
+    var nov1Dow = new Date(Date.UTC(year, 10, 1)).getUTCDay(); /* 0=Sun .. 4=Thu .. 6=Sat */
+    var firstThursday = 1 + ((4 - nov1Dow + 7) % 7);
+    var thanksgivingDay = firstThursday + 21;
+    return thanksgivingDay + 1;
+  }
+
+  /**
+   * Checks optional `?holiday=preview|1|on|0|off` query parameter (persisted in
+   * `sessionStorage` for the current tab) so holiday themes can be previewed at any time.
+   */
+  function getHolidayPreviewOverride() {
+    try {
+      var params = new URLSearchParams(window.location.search || '');
+      var raw = (params.get('holiday') || params.get('rs_holiday') || '').toLowerCase();
+      if (raw === '1' || raw === 'true' || raw === 'on' || raw === 'preview') {
+        try { sessionStorage.setItem(HOLIDAY_PREVIEW_SESSION_KEY, 'on'); } catch (e) {}
+        return true;
+      }
+      if (raw === '0' || raw === 'false' || raw === 'off' || raw === 'normal') {
+        try { sessionStorage.removeItem(HOLIDAY_PREVIEW_SESSION_KEY); } catch (e2) {}
+        return false;
+      }
+      var saved = sessionStorage.getItem(HOLIDAY_PREVIEW_SESSION_KEY);
+      if (saved === 'on') return true;
+    } catch (e3) {}
+    return null;
+  }
+
+  /**
+   * Yearly Automatic Holiday Season Schedule (`America/New_York`):
+   * - Standard Go-Live: Black Friday at `00:00:00 America/New_York`.
+   * - 2026 Respectful Tribute Exception: Defers to Sir Patrick Stewart's 30-day
+   *   In Memoriam tribute through `2026-11-28T23:59:59-05:00`, going live at
+   *   `00:00:00 EST` on Sunday, November 29, 2026.
+   * - Standard Pack-Away: January 2 at `00:00:00 America/New_York` (active all day
+   *   New Year's Day, returning sites to normal automatically on January 2).
+   */
+  function isHolidaySeasonActive(customDate) {
+    if (!(customDate instanceof Date)) {
+      var preview = getHolidayPreviewOverride();
+      if (preview !== null) return preview;
+    }
+
+    /* Out of respect to the 2026 Sir Patrick Stewart tribute, never overlap with In Memoriam */
+    if (isMemoriamActive(customDate)) {
+      return false;
+    }
+
+    var cal = getEasternCalendarDate(customDate);
+    if (cal.month === 12) {
+      return true;
+    }
+    if (cal.month === 1) {
+      return cal.day === 1;
+    }
+    if (cal.month === 11) {
+      return cal.day >= getBlackFridayDay(cal.year);
+    }
+    return false;
+  }
+
+  function prefersReducedMotion() {
+    try {
+      return Boolean(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
+    } catch (e) {
+      return false;
+    }
+  }
+
+  function isSnowPaused() {
+    var pref = null;
+    try {
+      pref = localStorage.getItem(SNOW_STORAGE_KEY);
+    } catch (e) {}
+    if (pref === 'paused') return true;
+    if (pref === 'playing') return false;
+    return prefersReducedMotion();
+  }
+
+  function applySnowPlaybackState() {
+    var root = document.documentElement;
+    if (!root) return;
+    var pref = null;
+    try {
+      pref = localStorage.getItem(SNOW_STORAGE_KEY);
+    } catch (e) {}
+    var paused = isSnowPaused();
+    root.classList.toggle('rs-snow-paused', paused);
+    root.classList.toggle('rs-snow-force-play', !paused && pref === 'playing');
+
+    var btns = document.querySelectorAll('.rs-holiday-snow-btn');
+    for (var i = 0; i < btns.length; i++) {
+      var btn = btns[i];
+      btn.setAttribute('aria-pressed', paused ? 'true' : 'false');
+      btn.setAttribute(
+        'aria-label',
+        paused ? 'Resume gentle falling snow animation' : 'Pause falling snow animation'
+      );
+      btn.innerHTML = paused
+        ? '<span aria-hidden="true">❄️</span><span>Play Snow</span>'
+        : '<span aria-hidden="true">⏸</span><span>Pause Snow</span>';
+    }
+  }
+
+  function toggleSnowPlayback() {
+    var currentlyPaused = isSnowPaused();
+    var nextPaused = !currentlyPaused;
+    try {
+      localStorage.setItem(SNOW_STORAGE_KEY, nextPaused ? 'paused' : 'playing');
+    } catch (e) {}
+    applySnowPlaybackState();
   }
 
   /**
@@ -402,14 +566,39 @@
       '.rs-memoriam-link:hover, .rs-memoriam-link:focus-visible { background-color: #fbbf24 !important; color: #090d16 !important; border-color: #fbbf24 !important; }',
       '.rs-memoriam-link:focus-visible { outline: 3px solid #38bdf8 !important; outline-offset: 2px !important; }',
       '@media (max-width: 767.98px) { .rs-memoriam-inner { flex-direction: column; align-items: flex-start; gap: 0.35rem; padding: 0.5rem 0.85rem; } }',
+      '.rs-holiday-bar { width: 100%; background: linear-gradient(90deg, #071e16 0%, #143d2b 35%, #4a121b 72%, #071e16 100%) !important; color: #f8fafc !important; border-bottom: 1px solid rgba(251, 191, 36, 0.55) !important; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 0.78rem; line-height: 1.45; z-index: 1054; position: relative; }',
+      'html[data-bs-theme="light"] .rs-holiday-bar, html[data-theme="light"] .rs-holiday-bar, html[data-color-scheme="light"] .rs-holiday-bar, html.light .rs-holiday-bar { background: linear-gradient(90deg, #0b291e 0%, #164e35 38%, #5c1622 75%, #0b291e 100%) !important; color: #f8fafc !important; border-bottom: 1px solid #b45309 !important; }',
+      '.rs-holiday-inner { max-width: 1360px; margin: 0 auto; padding: 0.42rem 1rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.45rem 1rem; }',
+      '.rs-holiday-text { margin: 0 !important; padding: 0 !important; color: #f8fafc !important; font-size: 0.78rem; line-height: 1.45; text-wrap: pretty; }',
+      '.rs-holiday-icon { margin-right: 0.35rem; font-size: 0.88rem; }',
+      '.rs-holiday-label { color: #fde68a !important; font-weight: 700; letter-spacing: 0.02em; }',
+      '.rs-holiday-sep { color: #cbd5e1 !important; margin: 0 0.35rem; }',
+      '.rs-holiday-message { color: #f1f5f9 !important; }',
+      '.rs-holiday-actions { display: inline-flex; align-items: center; flex-wrap: wrap; gap: 0.45rem; }',
+      '.rs-holiday-link, .rs-holiday-snow-btn { display: inline-flex; align-items: center; gap: 0.3rem; min-block-size: 28px; padding: 0.22rem 0.7rem; border-radius: 999px; font-family: inherit; font-size: 0.74rem; font-weight: 700; line-height: 1.2; text-decoration: none !important; white-space: nowrap; cursor: pointer; transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease; }',
+      '.rs-holiday-link { background-color: rgba(251, 191, 36, 0.16) !important; color: #fde68a !important; border: 1px solid rgba(251, 191, 36, 0.65) !important; }',
+      '.rs-holiday-link:hover, .rs-holiday-link:focus-visible { background-color: #fbbf24 !important; color: #090d16 !important; border-color: #fbbf24 !important; }',
+      '.rs-holiday-snow-btn { background-color: rgba(15, 23, 42, 0.72) !important; color: #f8fafc !important; border: 1px solid rgba(226, 232, 240, 0.55) !important; }',
+      '.rs-holiday-snow-btn:hover, .rs-holiday-snow-btn:focus-visible { background-color: #f8fafc !important; color: #090d16 !important; border-color: #f8fafc !important; }',
+      '.rs-holiday-link:focus-visible, .rs-holiday-snow-btn:focus-visible { outline: 3px solid #38bdf8 !important; outline-offset: 2px !important; }',
+      '@media (forced-colors: active) { .rs-holiday-bar, .rs-memoriam-bar { background: Canvas !important; color: CanvasText !important; border-bottom: 2px solid CanvasText !important; } .rs-holiday-link, .rs-holiday-snow-btn, .rs-memoriam-link { background: ButtonFace !important; color: ButtonText !important; border: 1px solid ButtonText !important; } .rs-snowfall-layer { display: none !important; } }',
+      '@media (max-width: 767.98px) { .rs-holiday-inner { flex-direction: column; align-items: flex-start; gap: 0.4rem; padding: 0.5rem 0.85rem; } }',
+      '.rs-snowfall-layer { position: fixed; inset: 0; width: 100%; height: 100%; pointer-events: none !important; user-select: none !important; overflow: hidden; z-index: 9990; contain: strict; }',
+      '.rs-snowflake { position: absolute; top: 0; left: var(--rs-flake-x, 50%); width: var(--rs-flake-size, 6px); height: var(--rs-flake-size, 6px); border-radius: 50%; background: radial-gradient(circle, rgba(255, 255, 255, 0.95) 0%, rgba(224, 242, 254, 0.72) 65%, rgba(224, 242, 254, 0) 100%); box-shadow: 0 0 4px rgba(15, 23, 42, 0.28); opacity: var(--rs-flake-alpha, 0.72); transform: translate3d(0, -12vh, 0); will-change: transform, opacity; animation: rs-snow-fall var(--rs-flake-dur, 14s) linear var(--rs-flake-delay, 0s) infinite; }',
+      'html[data-bs-theme="light"] .rs-snowflake, html[data-theme="light"] .rs-snowflake, html[data-color-scheme="light"] .rs-snowflake, html.light .rs-snowflake { background: radial-gradient(circle, rgba(255, 255, 255, 0.98) 0%, rgba(186, 230, 253, 0.92) 62%, rgba(56, 189, 248, 0.25) 100%); box-shadow: 0 0 4px rgba(14, 116, 144, 0.35); }',
+      '@keyframes rs-snow-fall { 0% { transform: translate3d(0, -12vh, 0); opacity: 0; } 10% { opacity: var(--rs-flake-alpha, 0.72); } 50% { transform: translate3d(var(--rs-flake-drift, 18px), 50vh, 0); } 90% { opacity: var(--rs-flake-alpha, 0.72); } 100% { transform: translate3d(calc(var(--rs-flake-drift, 18px) * -0.6), 108vh, 0); opacity: 0; } }',
+      'html.rs-snow-paused .rs-snowfall-layer, html:not(.rs-holiday-season) .rs-snowfall-layer { display: none !important; }',
+      'html.rs-tab-hidden .rs-snowflake { animation-play-state: paused !important; }',
+      '@media (prefers-reduced-motion: reduce) { .rs-holiday-link, .rs-holiday-snow-btn { transition: none !important; } html:not(.rs-snow-force-play) .rs-snowfall-layer { display: none !important; } html:not(.rs-snow-force-play) .rs-snowflake { animation: none !important; } }',
       'html[data-bs-theme="dark"] .btn-ghost:not(.btn-primary):not(.btn-warning):not(.btn-info):not(.btn-success):not(.btn-danger) { color: #f1f5f9 !important; }',
       'html[data-bs-theme="light"] .btn-ghost:not(.btn-primary):not(.btn-warning):not(.btn-info):not(.btn-success):not(.btn-danger) { color: #0f172a !important; }',
       '[data-bs-theme="dark"] .btn-outline-light, [data-theme="dark"] .btn-outline-light, .memoriam-hero .btn-outline-light { color: #ffffff !important; background-color: rgba(15, 23, 42, 0.88) !important; border: 1.5px solid rgba(248, 250, 252, 0.85) !important; }',
       '[data-bs-theme="dark"] .btn-outline-light:hover, [data-bs-theme="dark"] .btn-outline-light:focus-visible, [data-theme="dark"] .btn-outline-light:hover, [data-theme="dark"] .btn-outline-light:focus-visible, .memoriam-hero .btn-outline-light:hover, .memoriam-hero .btn-outline-light:focus-visible { color: #090d16 !important; background-color: #ffffff !important; border-color: #ffffff !important; }',
       '.rs-network-links > li > a.rs-network-memoriam-pill { background-color: rgba(251, 191, 36, 0.14) !important; color: #fde68a !important; border: 1px solid rgba(251, 191, 36, 0.55) !important; font-weight: 700; }',
       '.rs-network-links > li > a.rs-network-memoriam-pill:hover, .rs-network-links > li > a.rs-network-memoriam-pill:focus-visible { background-color: #fbbf24 !important; color: #090d16 !important; border-color: #fbbf24 !important; }',
-      '@media (display-mode: standalone), (display-mode: window-controls-overlay), (display-mode: minimal-ui), (display-mode: fullscreen) { .rs-memoriam-bar, .rs-network-bar, .rs-mobile-network-section { display: none !important; } }',
-      'html.is-pwa-standalone .rs-memoriam-bar, html.is-pwa-standalone .rs-network-bar, html.is-pwa-standalone .rs-mobile-network-section, body.is-pwa-standalone .rs-memoriam-bar, body.is-pwa-standalone .rs-network-bar, body.is-pwa-standalone .rs-mobile-network-section { display: none !important; }'
+      '@media print { .rs-memoriam-bar, .rs-holiday-bar, .rs-snowfall-layer, .rs-network-bar, .rs-mobile-network-section { display: none !important; } }',
+      '@media (display-mode: standalone), (display-mode: window-controls-overlay), (display-mode: minimal-ui), (display-mode: fullscreen) { .rs-memoriam-bar, .rs-holiday-bar, .rs-network-bar, .rs-mobile-network-section { display: none !important; } }',
+      'html.is-pwa-standalone .rs-memoriam-bar, html.is-pwa-standalone .rs-holiday-bar, html.is-pwa-standalone .rs-network-bar, html.is-pwa-standalone .rs-mobile-network-section, body.is-pwa-standalone .rs-memoriam-bar, body.is-pwa-standalone .rs-holiday-bar, body.is-pwa-standalone .rs-network-bar, body.is-pwa-standalone .rs-mobile-network-section { display: none !important; }'
     ].join('\n');
     document.head.appendChild(style);
   }
@@ -1036,7 +1225,7 @@
     if (!document.body) return;
     var existingBars = document.querySelectorAll('.rs-memoriam-bar');
 
-    if (!isMemoriamActive() || isStandalonePwa()) {
+    if (!isMemoriamActive() || getHolidayPreviewOverride() === true || isStandalonePwa()) {
       for (var i = 0; i < existingBars.length; i++) {
         if (existingBars[i] && existingBars[i].parentNode) {
           existingBars[i].parentNode.removeChild(existingBars[i]);
@@ -1121,6 +1310,209 @@
         document.body.appendChild(ribbon);
       }
     }
+  }
+
+  /**
+   * Creates or removes the compositor-only `.rs-snowfall-layer` (28 lightweight
+   * `translate3d` + `opacity` snowflakes) during the annual Holiday Season.
+   */
+  function ensureSnowfallLayer(active) {
+    if (!document.body) return;
+    var existing = document.getElementById('rs-snowfall-layer');
+    if (!active) {
+      if (existing && existing.parentNode) {
+        existing.parentNode.removeChild(existing);
+      }
+      return;
+    }
+
+    if (existing) {
+      return;
+    }
+
+    var layer = document.createElement('div');
+    layer.id = 'rs-snowfall-layer';
+    layer.className = 'rs-snowfall-layer';
+    layer.setAttribute('aria-hidden', 'true');
+    layer.setAttribute('role', 'presentation');
+
+    var count = 28;
+    for (var i = 0; i < count; i++) {
+      var flake = document.createElement('span');
+      flake.className = 'rs-snowflake';
+      var xPct = ((i * 37 + 11) % 98) + 1;
+      var sizePx = 4 + (i % 5) * 1.5;
+      var alpha = (0.42 + (i % 5) * 0.11).toFixed(2);
+      var durSec = 11 + (i % 7) * 2.1;
+      var delaySec = -((i * 1.73) % durSec).toFixed(2);
+      var driftSign = i % 2 === 0 ? 1 : -1;
+      var driftPx = driftSign * (12 + (i % 4) * 7);
+
+      flake.style.setProperty('--rs-flake-x', xPct + '%');
+      flake.style.setProperty('--rs-flake-size', sizePx + 'px');
+      flake.style.setProperty('--rs-flake-alpha', alpha);
+      flake.style.setProperty('--rs-flake-dur', durSec.toFixed(1) + 's');
+      flake.style.setProperty('--rs-flake-delay', delaySec + 's');
+      flake.style.setProperty('--rs-flake-drift', driftPx + 'px');
+      layer.appendChild(flake);
+    }
+
+    document.body.appendChild(layer);
+  }
+
+  var holidayListenersBound = false;
+  function bindHolidayEnvironmentListeners() {
+    if (holidayListenersBound || typeof document === 'undefined') return;
+    holidayListenersBound = true;
+
+    document.addEventListener('visibilitychange', function () {
+      if (!document.documentElement) return;
+      document.documentElement.classList.toggle('rs-tab-hidden', document.hidden === true);
+    });
+
+    try {
+      if (window.matchMedia) {
+        var mq = window.matchMedia('(prefers-reduced-motion: reduce)');
+        if (typeof mq.addEventListener === 'function') {
+          mq.addEventListener('change', applySnowPlaybackState);
+        } else if (typeof mq.addListener === 'function') {
+          mq.addListener(applySnowPlaybackState);
+        }
+      }
+    } catch (e) {}
+  }
+
+  /**
+   * Synchronizes the yearly Holiday Mode across all RaggieSoft web properties:
+   * - Toggles `html.rs-holiday-season` + `data-rs-holiday`
+   * - Injects `.rs-snowfall-layer` and `.rs-holiday-bar` (with Pause/Play Snow toggle
+   *   and direct link to The Listening Room's Winter & Holiday Showcase)
+   * - Automatically packs everything away on January 2 (`America/New_York`).
+   */
+  function syncHolidaySeason() {
+    var root = document.documentElement;
+    if (!root) return;
+    bindHolidayEnvironmentListeners();
+
+    var active = isHolidaySeasonActive();
+    var wasActive = root.classList.contains('rs-holiday-season');
+    root.classList.toggle('rs-holiday-season', active);
+    if (active) {
+      root.setAttribute('data-rs-holiday', 'active');
+    } else {
+      root.removeAttribute('data-rs-holiday');
+    }
+
+    if (wasActive !== active && typeof window.CustomEvent === 'function') {
+      try {
+        window.dispatchEvent(new CustomEvent('raggiesoft:holidaychange', { detail: { active: active } }));
+      } catch (e) {}
+    }
+
+    if (!document.body) return;
+
+    ensureSnowfallLayer(active);
+
+    var existingBars = document.querySelectorAll('.rs-holiday-bar');
+    if (!active || isStandalonePwa()) {
+      for (var k = 0; k < existingBars.length; k++) {
+        if (existingBars[k] && existingBars[k].parentNode) {
+          existingBars[k].parentNode.removeChild(existingBars[k]);
+        }
+      }
+      if (active) {
+        applySnowPlaybackState();
+      }
+      return;
+    }
+
+    var networkBar = document.querySelector('.rs-network-bar');
+    if (!networkBar && document.querySelector('mpr-root, app-root')) {
+      applySnowPlaybackState();
+      return;
+    }
+
+    var currentHost = getCurrentHost();
+    var greetingLabel = 'Happy Holidays from RaggieSoft';
+    var greetingMessage = 'Celebrate the season with winter stories and symphonic holiday music.';
+    var musicHref = 'https://music.raggiesoft.com/#holiday-music-showcase-heading';
+    var musicLabel = 'Winter Soundtrack';
+    var musicArrow = '→';
+
+    if (currentHost === 'storetrainer.raggiesoft.com') {
+      greetingLabel = 'Happy Holidays from RaggieSoft';
+      greetingMessage = 'Quantum OS 98 Holiday Desktop Edition is active for the season.';
+    } else if (currentHost === 'michaelpragsdale.com') {
+      greetingLabel = 'Happy Holidays from Michael P. Ragsdale';
+      greetingMessage = 'Wishing you a peaceful winter season and a wonderful New Year.';
+    } else if (currentHost === 'music.raggiesoft.com') {
+      greetingMessage = 'Stream instrumental winter symphonies from The Arctic Symphony Project.';
+      musicHref = '#holiday-music-showcase-heading';
+      musicArrow = '↓';
+    }
+
+    var ribbon;
+    if (existingBars.length > 0) {
+      for (var m = 1; m < existingBars.length; m++) {
+        if (existingBars[m] && existingBars[m].parentNode) {
+          existingBars[m].parentNode.removeChild(existingBars[m]);
+        }
+      }
+      ribbon = existingBars[0];
+    } else {
+      ribbon = document.createElement('div');
+      ribbon.className = 'rs-holiday-bar';
+      ribbon.setAttribute('role', 'region');
+      ribbon.setAttribute('aria-label', 'Seasonal Holiday Greeting & Snow Controls');
+    }
+
+    ribbon.innerHTML =
+      '<div class="rs-holiday-inner">' +
+      '<p class="rs-holiday-text">' +
+      '<span class="rs-holiday-icon" aria-hidden="true">🎄</span>' +
+      '<strong class="rs-holiday-label">' + greetingLabel + '</strong>' +
+      '<span class="rs-holiday-sep" aria-hidden="true">—</span>' +
+      '<span class="rs-holiday-message">' + greetingMessage + '</span>' +
+      '</p>' +
+      '<div class="rs-holiday-actions">' +
+      '<a href="' + musicHref + '" class="rs-holiday-link"' +
+      (currentHost === 'music.raggiesoft.com' ? '' : ' data-no-spa="true"') +
+      '>' +
+      '<span aria-hidden="true">🎧</span>' +
+      '<span>' + musicLabel + '</span>' +
+      '<span aria-hidden="true">' + musicArrow + '</span>' +
+      '</a>' +
+      '<button type="button" class="rs-holiday-snow-btn" aria-pressed="false">' +
+      '<span aria-hidden="true">⏸</span><span>Pause Snow</span>' +
+      '</button>' +
+      '</div>' +
+      '</div>';
+
+    var snowBtn = ribbon.querySelector('.rs-holiday-snow-btn');
+    if (snowBtn) {
+      snowBtn.addEventListener('click', function (ev) {
+        ev.preventDefault();
+        toggleSnowPlayback();
+      });
+    }
+
+    if (networkBar && networkBar.parentNode) {
+      if (networkBar.nextElementSibling !== ribbon) {
+        if (networkBar.nextSibling) {
+          networkBar.parentNode.insertBefore(ribbon, networkBar.nextSibling);
+        } else {
+          networkBar.parentNode.appendChild(ribbon);
+        }
+      }
+    } else if (!ribbon.parentNode) {
+      if (document.body.firstChild) {
+        document.body.insertBefore(ribbon, document.body.firstChild);
+      } else {
+        document.body.appendChild(ribbon);
+      }
+    }
+
+    applySnowPlaybackState();
   }
 
   /**
@@ -1218,6 +1610,7 @@
       document.documentElement.classList.add('is-pwa-standalone');
       document.body.classList.add('is-pwa-standalone');
       syncMemoriamRibbon();
+      syncHolidaySeason();
       var pwaBar = document.querySelector('.rs-network-bar');
       if (pwaBar) {
         pwaBar.hidden = true;
@@ -1235,6 +1628,7 @@
 
     upgradeDesktopNetworkBar();
     syncMemoriamRibbon();
+    syncHolidaySeason();
 
     /* 1. Group A: Properties using #primary-navigation (1120px mobile breakpoint) */
     var primaryNav = document.getElementById('primary-navigation');
@@ -1267,6 +1661,13 @@
 
   if (typeof window !== 'undefined') {
     window.initRaggieSoftNetworkMenu = initRaggieSoftNetworkMenu;
+    window.RaggieSoftHoliday = {
+      isActive: isHolidaySeasonActive,
+      getBlackFridayDay: getBlackFridayDay,
+      isSnowPaused: isSnowPaused,
+      toggleSnow: toggleSnowPlayback,
+      sync: syncHolidaySeason
+    };
   }
 
   if (document.readyState === 'loading') {

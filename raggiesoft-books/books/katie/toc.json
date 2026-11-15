@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "57.3 MB",
-        "pdf": "52.9 MB",
-        "text_epub": "670 KB",
+        "epub": "57.6 MB",
+        "pdf": "53 MB",
+        "text_epub": "677 KB",
         "text_pdf": "1.8 MB",
-        "package_7z": "497 KB",
-        "epub_bytes": 60120609,
-        "pdf_bytes": 55477401,
-        "text_epub_bytes": 686368,
-        "text_pdf_bytes": 1871364,
-        "package_7z_bytes": 509026
+        "package_7z": "502 KB",
+        "epub_bytes": 60419093,
+        "pdf_bytes": 55618084,
+        "text_epub_bytes": 693632,
+        "text_pdf_bytes": 1890935,
+        "package_7z_bytes": 514358
     },
-    "illustration_count": 130,
+    "illustration_count": 131,
     "word_stats": {
-        "story_word_count": 281981,
-        "lore_word_count": 91549,
-        "combined_word_count": 373530,
-        "story_page_count": 1025,
-        "combined_page_count": 1358,
-        "reading_hours": 18.8,
-        "reading_minutes": 1128,
-        "novel_equivalent": 3.1,
+        "story_word_count": 285134,
+        "lore_word_count": 93472,
+        "combined_word_count": 378606,
+        "story_page_count": 1037,
+        "combined_page_count": 1377,
+        "reading_hours": 19,
+        "reading_minutes": 1141,
+        "novel_equivalent": 3.2,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
-        "benchmark_note": "3.1\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
+        "benchmark_note": "3.2\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
         "era_count": 11,
         "chapter_count": 45,
-        "part_count": 109,
-        "illustration_count": 130
+        "part_count": 110,
+        "illustration_count": 131
     },
     "eras": [
         {
@@ -765,8 +765,8 @@
             "era_num": 4,
             "era_title": "Seventeen, Senior Year, & Greenway Court",
             "era_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court",
-            "illustration_count": 11,
-            "word_count": 19290,
+            "illustration_count": 12,
+            "word_count": 22443,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -848,8 +848,8 @@
                     "chap_num": 2,
                     "chap_title": "Drunken New Year",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/drunken-new-year",
-                    "illustration_count": 2,
-                    "word_count": 4585,
+                    "illustration_count": 3,
+                    "word_count": 7738,
                     "parts": [
                         {
                             "part_num": 1,
@@ -889,6 +889,27 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b004/jan_2003_bedroom_blue_butterfly_twin_sisters_never_walk_away.jpg",
                                     "alt": "Sitting side by side on the edge of Katie's bed beneath the framed blue butterfly watercolor print on January 6, 2003, with their two black motorized SwiftChair power wheelchairs parked beside them, 17-year-old Katie Prairie wraps her arms comforting her heartbroken twin brother Nathaniel and laces her fingers through his hand."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: The Back Row of Room 204, A Song in My Head, & Cousin Hannah's Green Parka",
+                            "file_path": "e004/c002/p003.md",
+                            "url": "/katie/seventeen-senior-year-greenway-court/drunken-new-year/part-3-the-back-row-of-room-204-a-song-in-my-head-cousin-hannah-s-green-parka",
+                            "word_count": 3153,
+                            "reading_minutes": 13,
+                            "date": "2003-01-08",
+                            "start_time": "09:05",
+                            "location": "Virginia Beach, VA (Northwood High School \u2014 Room 204, Commons Cafeteria, & Bus Loop)",
+                            "excerpt": "In Room 204 after the crash, Crimson Node plays clear in Nate's mind as Katie holds his hand\u2014until Heather overhears Tyler try the exact same lie again.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b004/feb_2003_northwood_room_204_unhandled_exception_katie_nate_heather_apart.jpg",
+                            "image_alt": "Inside the second-floor Room 204 computer lab at Northwood High School in winter 2003 beneath blue-and-gold Northwood Lions and Class of 2003 pennants, seventeen-year-old blonde twins Katie and Nathaniel Prairie sit side by side in matching black SwiftChair power wheelchairs at the back corner table holding inner hands before a three-quarter-angled beige CRT monitor, while two rows ahead Heather Collins sits alone beside two empty wheelchair spaces looking back over her shoulder with pale, stricken regret.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b004/feb_2003_northwood_room_204_unhandled_exception_katie_nate_heather_apart.jpg",
+                                    "alt": "Inside the second-floor Room 204 computer lab at Northwood High School in winter 2003 beneath blue-and-gold Northwood Lions and Class of 2003 pennants, seventeen-year-old blonde twins Katie and Nathaniel Prairie sit side by side in matching black SwiftChair power wheelchairs at the back corner table holding inner hands before a three-quarter-angled beige CRT monitor, while two rows ahead Heather Collins sits alone beside two empty wheelchair spaces looking back over her shoulder with pale, stricken regret."
                                 }
                             ],
                             "image_count": 1
