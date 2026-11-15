@@ -13,20 +13,20 @@
         "text_epub": "678 KB",
         "text_pdf": "1.8 MB",
         "package_7z": "503 KB",
-        "epub_bytes": 60654092,
-        "pdf_bytes": 56026755,
-        "text_epub_bytes": 694638,
-        "text_pdf_bytes": 1894022,
-        "package_7z_bytes": 515357
+        "epub_bytes": 60613519,
+        "pdf_bytes": 55986314,
+        "text_epub_bytes": 694751,
+        "text_pdf_bytes": 1894324,
+        "package_7z_bytes": 515524
     },
     "illustration_count": 132,
     "word_stats": {
-        "story_word_count": 285728,
-        "lore_word_count": 93961,
-        "combined_word_count": 379689,
+        "story_word_count": 285788,
+        "lore_word_count": 94039,
+        "combined_word_count": 379827,
         "story_page_count": 1039,
         "combined_page_count": 1381,
-        "reading_hours": 19,
+        "reading_hours": 19.1,
         "reading_minutes": 1143,
         "novel_equivalent": 3.2,
         "scale_category": "Multi-Volume Epic Omnibus",
@@ -766,7 +766,7 @@
             "era_title": "Seventeen, Senior Year, & Greenway Court",
             "era_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court",
             "illustration_count": 13,
-            "word_count": 23037,
+            "word_count": 23097,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -849,7 +849,7 @@
                     "chap_title": "Drunken New Year",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/drunken-new-year",
                     "illustration_count": 4,
-                    "word_count": 8332,
+                    "word_count": 8392,
                     "parts": [
                         {
                             "part_num": 1,
@@ -898,8 +898,8 @@
                             "part_title": "Part 3: The Back Corner of Room 204, A Song in My Head, & Stairway A",
                             "file_path": "e004/c002/p003.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/drunken-new-year/part-3-the-back-corner-of-room-204-a-song-in-my-head-stairway-a",
-                            "word_count": 3736,
-                            "reading_minutes": 15,
+                            "word_count": 3796,
+                            "reading_minutes": 16,
                             "date": "2003-01-08",
                             "start_time": "09:05",
                             "location": "Virginia Beach, VA (Northwood High School \u2014 Room 204, Commons Cafeteria, & Stairway A Bus Loop)",
@@ -913,7 +913,7 @@
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b004/apr_2003_northwood_stairway_a_special_needs_bus_heather_regular_stalls.jpg",
-                                    "alt": "At two-oh-five on a sunny April afternoon outside Northwood High School beneath the white covered walkway canopy at Stairway A, eighteen-year-old twins Katie and Nathaniel Prairie wait side by side in matching black SwiftChair power wheelchairs holding inner hands beside the lowered right-side hydraulic wheelchair lift of short yellow Special Needs Bus 417 and bus aide Miss Gloria, while out in the middle of the wide asphalt bus loop roadway Heather Collins walks with her backpack toward the regular yellow school buses parked in numbered diagonal stalls and glances back over her shoulder with quiet sorrow."
+                                    "alt": "At two-oh-five on a sunny April afternoon outside Northwood High School\u2014where the two-story 1992 brick building and teal-trimmed sheltered walkway continue past Stairway B on the left\u2014eighteen-year-old twins Katie and Nathaniel Prairie roll side by side in matching black SwiftChair power wheelchairs along the raised concrete sidewalk beneath the circular concrete portal of Stairway A toward the lowered right-side hydraulic lift of short yellow Special Needs Bus 417 pulled up facing the Stairway A entrance over the unbroken yellow curb, while across the grass island Heather Collins walks away from the school with other students toward the regular yellow school buses in the numbered stalls and glances back over her shoulder with quiet sorrow."
                                 }
                             ],
                             "image_count": 2
