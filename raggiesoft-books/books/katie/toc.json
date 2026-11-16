@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "59.7 MB",
-        "pdf": "55.6 MB",
-        "text_epub": "699 KB",
+        "epub": "60.3 MB",
+        "pdf": "56.9 MB",
+        "text_epub": "704 KB",
         "text_pdf": "1.9 MB",
-        "package_7z": "519 KB",
-        "epub_bytes": 62558615,
-        "pdf_bytes": 58336752,
-        "text_epub_bytes": 716224,
-        "text_pdf_bytes": 1951156,
-        "package_7z_bytes": 531641
+        "package_7z": "523 KB",
+        "epub_bytes": 63264713,
+        "pdf_bytes": 59704753,
+        "text_epub_bytes": 721241,
+        "text_pdf_bytes": 1965277,
+        "package_7z_bytes": 535326
     },
-    "illustration_count": 135,
+    "illustration_count": 136,
     "word_stats": {
-        "story_word_count": 295221,
-        "lore_word_count": 95730,
-        "combined_word_count": 390951,
-        "story_page_count": 1074,
-        "combined_page_count": 1422,
-        "reading_hours": 19.7,
-        "reading_minutes": 1181,
+        "story_word_count": 297210,
+        "lore_word_count": 97195,
+        "combined_word_count": 394405,
+        "story_page_count": 1081,
+        "combined_page_count": 1434,
+        "reading_hours": 19.8,
+        "reading_minutes": 1189,
         "novel_equivalent": 3.3,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
         "benchmark_note": "3.3\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
         "era_count": 11,
         "chapter_count": 45,
-        "part_count": 113,
-        "illustration_count": 135
+        "part_count": 114,
+        "illustration_count": 136
     },
     "eras": [
         {
@@ -1865,8 +1865,8 @@
             "era_num": 9,
             "era_title": "The Gentlewoman from Virginia Beach: The House of Delegates",
             "era_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates",
-            "illustration_count": 16,
-            "word_count": 51295,
+            "illustration_count": 17,
+            "word_count": 53284,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2081,16 +2081,16 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Keeping Our High-School Promise, Rescuing Cousin Chelsea From Mount Regalis, & Out of the Closet Into Our Four-Person Nest",
-                    "chap_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest",
-                    "illustration_count": 4,
-                    "word_count": 13939,
+                    "chap_title": "Keeping Our High-School Promise, A Cautious Message Request on The Grid, Rescuing Cousin Chelsea From Mount Regalis, & Out of the Closet Into Our Four-Person Nest",
+                    "chap_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-message-request-on-the-grid-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest",
+                    "illustration_count": 5,
+                    "word_count": 15928,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Sine Die, Welcoming Brittany Home to Arvin Road, Route 20 to the Coastal Adult Learning Center, & Three Cousins in the Closet",
                             "file_path": "e009/c004/p001.md",
-                            "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest/part-1-sine-die-welcoming-brittany-home-to-arvin-road-route-20-to-the-coastal-adult-learning-center-three-cousins-in-the-closet",
+                            "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-message-request-on-the-grid-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest/part-1-sine-die-welcoming-brittany-home-to-arvin-road-route-20-to-the-coastal-adult-learning-center-three-cousins-in-the-closet",
                             "word_count": 2818,
                             "reading_minutes": 12,
                             "date": "2016-03-14",
@@ -2109,9 +2109,30 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Turned Away at the Royal Gate, Riding BTA Route 99 Up Mount Regalis, Catching the Two-Faced Manager Red-Handed, & 'No Known Living Family'",
+                            "part_title": "Part 2: A Filtered Request on The Grid, What Tyler's Lie Cost All of Us, & A Very Cautious Reply",
                             "file_path": "e009/c004/p002.md",
-                            "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest/part-2-turned-away-at-the-royal-gate-riding-bta-route-99-up-mount-regalis-catching-the-two-faced-manager-red-handed-no-known-living-family",
+                            "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-message-request-on-the-grid-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest/part-2-a-filtered-request-on-the-grid-what-tyler-s-lie-cost-all-of-us-a-very-cautious-reply",
+                            "word_count": 1989,
+                            "reading_minutes": 8,
+                            "date": "2016-06-04",
+                            "start_time": "14:20",
+                            "location": "Virginia Beach, VA (Our Dual-Desk Home Office & Bedroom Closet on Arvin Road)",
+                            "excerpt": "Discovering Heather's filtered Grid message for Wesley, Brittany sees the full cost of Tyler's 2003 lie before Katie and Nate send a very cautious reply.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/jun_2016_arvin_road_office_grid_message_request_brittany_katie_nate.jpg",
+                            "image_alt": "Inside Katie and Nathaniel Prairie's sunlit dual-desk home office on Arvin Road in June 2016 beneath their framed Prairie Twin Interactive, LLC certificate and beside their louvered networking closet, thirty-one-year-old fraternal twins Katie and Nate sit side by side in matching black SwiftChair power wheelchairs holding inner hands while reading a cautious filtered Grid Messenger request on Nate's angled monitor as thirty-one-year-old Cousin Brittany Fletcher stands beside Katie's shoulder in thin silver wire-rimmed oval glasses and a burgundy cardigan with one empathetic hand over her heart.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/jun_2016_arvin_road_office_grid_message_request_brittany_katie_nate.jpg",
+                                    "alt": "Inside Katie and Nathaniel Prairie's sunlit dual-desk home office on Arvin Road in June 2016 beneath their framed Prairie Twin Interactive, LLC certificate and beside their louvered networking closet, thirty-one-year-old fraternal twins Katie and Nate sit side by side in matching black SwiftChair power wheelchairs holding inner hands while reading a cautious filtered Grid Messenger request on Nate's angled monitor as thirty-one-year-old Cousin Brittany Fletcher stands beside Katie's shoulder in thin silver wire-rimmed oval glasses and a burgundy cardigan with one empathetic hand over her heart."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Turned Away at the Royal Gate, Riding BTA Route 99 Up Mount Regalis, Catching the Two-Faced Manager Red-Handed, & 'No Known Living Family'",
+                            "file_path": "e009/c004/p003.md",
+                            "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-message-request-on-the-grid-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest/part-3-turned-away-at-the-royal-gate-riding-bta-route-99-up-mount-regalis-catching-the-two-faced-manager-red-handed-no-known-living-family",
                             "word_count": 3005,
                             "reading_minutes": 13,
                             "date": "2016-07-18",
@@ -2129,10 +2150,10 @@
                             "image_count": 1
                         },
                         {
-                            "part_num": 3,
-                            "part_title": "Part 3: Ten Minutes in Braxton Probate Court, Forcing Open the Royal Gate With a Sheriff's Escort, & Goodbye to Newport Over I-895",
-                            "file_path": "e009/c004/p003.md",
-                            "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest/part-3-ten-minutes-in-braxton-probate-court-forcing-open-the-royal-gate-with-a-sheriff-s-escort-goodbye-to-newport-over-i-895",
+                            "part_num": 4,
+                            "part_title": "Part 4: Ten Minutes in Braxton Probate Court, Forcing Open the Royal Gate With a Sheriff's Escort, & Goodbye to Newport Over I-895",
+                            "file_path": "e009/c004/p004.md",
+                            "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-message-request-on-the-grid-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest/part-4-ten-minutes-in-braxton-probate-court-forcing-open-the-royal-gate-with-a-sheriff-s-escort-goodbye-to-newport-over-i-895",
                             "word_count": 1734,
                             "reading_minutes": 7,
                             "date": "2016-07-19",
@@ -2150,10 +2171,10 @@
                             "image_count": 1
                         },
                         {
-                            "part_num": 4,
-                            "part_title": "Part 4: Tagless Puffer-Pocket Pajamas, Gentle Reminders, Fear of 'Group Home Two-Face,' & Four Cousins Crammed Into One Closet",
-                            "file_path": "e009/c004/p004.md",
-                            "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest/part-4-tagless-puffer-pocket-pajamas-gentle-reminders-fear-of-group-home-two-face-four-cousins-crammed-into-one-closet",
+                            "part_num": 5,
+                            "part_title": "Part 5: Tagless Puffer-Pocket Pajamas, Gentle Reminders, Fear of 'Group Home Two-Face,' & Four Cousins Crammed Into One Closet",
+                            "file_path": "e009/c004/p005.md",
+                            "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-message-request-on-the-grid-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest/part-5-tagless-puffer-pocket-pajamas-gentle-reminders-fear-of-group-home-two-face-four-cousins-crammed-into-one-closet",
                             "word_count": 2723,
                             "reading_minutes": 11,
                             "date": "2016-07-21",
@@ -2162,10 +2183,10 @@
                             "excerpt": "Home on Arvin Road, Nate, Katie, and Brittany gently help Chelsea wear tagless clothes\u2014before fear of Group Home Two-Face sends all four into the closet."
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: Eighty Cramped Nights on Closet Plywood, Building Our Four-Person Oak Bed, The Twelve-Minute Try, & Thanksgiving's Forty-Five-Minute Milestone",
-                            "file_path": "e009/c004/p005.md",
-                            "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest/part-5-eighty-cramped-nights-on-closet-plywood-building-our-four-person-oak-bed-the-twelve-minute-try-thanksgiving-s-forty-five-minute-milestone",
+                            "part_num": 6,
+                            "part_title": "Part 6: Eighty Cramped Nights on Closet Plywood, Building Our Four-Person Oak Bed, The Twelve-Minute Try, & Thanksgiving's Forty-Five-Minute Milestone",
+                            "file_path": "e009/c004/p006.md",
+                            "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-message-request-on-the-grid-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest/part-6-eighty-cramped-nights-on-closet-plywood-building-our-four-person-oak-bed-the-twelve-minute-try-thanksgiving-s-forty-five-minute-milestone",
                             "word_count": 2465,
                             "reading_minutes": 10,
                             "date": "2016-10-14",
@@ -2174,10 +2195,10 @@
                             "excerpt": "With four cousins crammed into the closet every night, the family builds a custom oak four-person bed and starts patient twenty-minute chamomile-tea tries."
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: Safe From the Dark and 'Group Home Two-Face,' Rolling Up Our Closet Sleeping Bag, & Our First Full Night in the Four-Person Nest",
-                            "file_path": "e009/c004/p006.md",
-                            "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest/part-6-safe-from-the-dark-and-group-home-two-face-rolling-up-our-closet-sleeping-bag-our-first-full-night-in-the-four-person-nest",
+                            "part_num": 7,
+                            "part_title": "Part 7: Safe From the Dark and 'Group Home Two-Face,' Rolling Up Our Closet Sleeping Bag, & Our First Full Night in the Four-Person Nest",
+                            "file_path": "e009/c004/p007.md",
+                            "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-message-request-on-the-grid-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest/part-7-safe-from-the-dark-and-group-home-two-face-rolling-up-our-closet-sleeping-bag-our-first-full-night-in-the-four-person-nest",
                             "word_count": 1194,
                             "reading_minutes": 5,
                             "date": "2017-02-11",
