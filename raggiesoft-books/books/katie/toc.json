@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "65.2 MB",
-        "pdf": "64.4 MB",
-        "text_epub": "741 KB",
+        "epub": "64.9 MB",
+        "pdf": "62.7 MB",
+        "text_epub": "747 KB",
         "text_pdf": "2 MB",
-        "package_7z": "550 KB",
-        "epub_bytes": 68388218,
-        "pdf_bytes": 67569859,
-        "text_epub_bytes": 758979,
-        "text_pdf_bytes": 2068394,
-        "package_7z_bytes": 563136
+        "package_7z": "554 KB",
+        "epub_bytes": 68038487,
+        "pdf_bytes": 65726215,
+        "text_epub_bytes": 764917,
+        "text_pdf_bytes": 2086172,
+        "package_7z_bytes": 567626
     },
-    "illustration_count": 145,
+    "illustration_count": 146,
     "word_stats": {
-        "story_word_count": 312366,
-        "lore_word_count": 100572,
-        "combined_word_count": 412938,
-        "story_page_count": 1136,
-        "combined_page_count": 1502,
-        "reading_hours": 20.8,
-        "reading_minutes": 1249,
+        "story_word_count": 314758,
+        "lore_word_count": 101284,
+        "combined_word_count": 416042,
+        "story_page_count": 1145,
+        "combined_page_count": 1513,
+        "reading_hours": 21,
+        "reading_minutes": 1259,
         "novel_equivalent": 3.5,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
         "benchmark_note": "3.5\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
         "era_count": 11,
         "chapter_count": 45,
-        "part_count": 121,
-        "illustration_count": 145
+        "part_count": 122,
+        "illustration_count": 146
     },
     "eras": [
         {
@@ -2286,15 +2286,15 @@
             "era_num": 10,
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
-            "illustration_count": 15,
-            "word_count": 27756,
+            "illustration_count": 16,
+            "word_count": 30148,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Watching Senator Ward Kill Our Bills Across the Rotunda, The 250-Signature Petition, & Cutting the Ribbon on Route 64 in Maplewood",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition-cutting-the-ribbon-on-route-64-in-maplewood",
-                    "illustration_count": 8,
-                    "word_count": 11873,
+                    "illustration_count": 9,
+                    "word_count": 14265,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2326,8 +2326,8 @@
                             "part_title": "Part 2: Route 64 to Maplewood, Seeing Wesley in Person After Fifteen Years, The Earned Hug, & Sale Number One in the Store",
                             "file_path": "e010/c001/p002.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition-cutting-the-ribbon-on-route-64-in-maplewood/part-2-route-64-to-maplewood-seeing-wesley-in-person-after-fifteen-years-the-earned-hug-sale-number-one-in-the-store",
-                            "word_count": 2434,
-                            "reading_minutes": 10,
+                            "word_count": 2608,
+                            "reading_minutes": 11,
                             "date": "2018-06-16",
                             "start_time": "09:45",
                             "location": "Maplewood, MN (Twin Cities Transit Route 64 & North Lion Scales & Tails Public Supply Store)",
@@ -2348,21 +2348,21 @@
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Thirty-Inch Viewing Glass, Touring the Skylit Reptile Zoo, & Chelsea and Wesley Talking About Wesley's Turtles",
+                            "part_title": "Part 3: Turtles, Reptiles, and Small Mammals: Touring the Three Zoo Wings & Talking About Wesley's Turtles",
                             "file_path": "e010/c001/p003.md",
-                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition-cutting-the-ribbon-on-route-64-in-maplewood/part-3-thirty-inch-viewing-glass-touring-the-skylit-reptile-zoo-chelsea-and-wesley-talking-about-wesley-s-turtles",
-                            "word_count": 1820,
+                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition-cutting-the-ribbon-on-route-64-in-maplewood/part-3-turtles-reptiles-and-small-mammals-touring-the-three-zoo-wings-talking-about-wesley-s-turtles",
+                            "word_count": 1918,
                             "reading_minutes": 8,
                             "date": "2018-06-16",
                             "start_time": "10:15",
-                            "location": "Maplewood, MN (North Lion Scales & Tails Skylit Reptile Zoo & Painted-Turtle Lagoon)",
-                            "excerpt": "Behind the Zoo Entrance doors, the family tours thirty-inch wheelchair-height habitats as Staff Member Wesley and Chelsea talk happily about Wesley's turtles.",
+                            "location": "Maplewood, MN (North Lion Scales & Tails Greenhouse Conservatory, Reptile Galleries, & Small Mammal Meadow)",
+                            "excerpt": "Touring the Small Mammal Meadow, Reptile Galleries, and Skylit Greenhouse at thirty-inch wheelchair height, Chelsea and Wesley bond over his rescued turtles.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_zoo_tour_wesley_chelsea_turtle_lagoon.jpg",
-                            "image_alt": "Inside the lush, skylit Reptile Zoo conservatory of North Lion Scales & Tails in Maplewood, Minnesota on Saturday morning, June 16, 2018, thirty-one-year-old Staff Member Wesley Collins in his forest-green collared STAFF polo, tan khakis, and magnetic WESLEY badge stands proudly beside his stainless romaine-prep cart pointing at three painted turtles swimming behind thirty-inch seated wheelchair-height viewing glass while thirty-six-year-old Chelsea hugging plush Shelly Turtle talks excitedly with him\u2014watched warmly by Katie and Nathaniel Prairie hub-to-hub in their black SwiftChairs on the left, Brittany beside them, and Heather, Dan, Jonas, Nora, and Molly on the right.",
+                            "image_alt": "Inside the lush, skylit Greenhouse Conservatory of North Lion Scales & Tails in Maplewood, Minnesota on Saturday morning, June 16, 2018, thirty-one-year-old Staff Member Wesley Collins in his forest-green collared STAFF polo, tan khakis, and magnetic WESLEY badge stands proudly beside his stainless romaine-prep cart pointing at three painted turtles swimming behind thirty-inch seated wheelchair-height viewing glass while thirty-six-year-old Chelsea hugging plush Shelly Turtle talks excitedly with him\u2014watched warmly by Katie and Nathaniel Prairie hub-to-hub in their black SwiftChairs on the left, Brittany beside them, and Heather, Dan, Jonas, Nora, and Molly on the right.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_zoo_tour_wesley_chelsea_turtle_lagoon.jpg",
-                                    "alt": "Inside the lush, skylit Reptile Zoo conservatory of North Lion Scales & Tails in Maplewood, Minnesota on Saturday morning, June 16, 2018, thirty-one-year-old Staff Member Wesley Collins in his forest-green collared STAFF polo, tan khakis, and magnetic WESLEY badge stands proudly beside his stainless romaine-prep cart pointing at three painted turtles swimming behind thirty-inch seated wheelchair-height viewing glass while thirty-six-year-old Chelsea hugging plush Shelly Turtle talks excitedly with him\u2014watched warmly by Katie and Nathaniel Prairie hub-to-hub in their black SwiftChairs on the left, Brittany beside them, and Heather, Dan, Jonas, Nora, and Molly on the right."
+                                    "alt": "Inside the lush, skylit Greenhouse Conservatory of North Lion Scales & Tails in Maplewood, Minnesota on Saturday morning, June 16, 2018, thirty-one-year-old Staff Member Wesley Collins in his forest-green collared STAFF polo, tan khakis, and magnetic WESLEY badge stands proudly beside his stainless romaine-prep cart pointing at three painted turtles swimming behind thirty-inch seated wheelchair-height viewing glass while thirty-six-year-old Chelsea hugging plush Shelly Turtle talks excitedly with him\u2014watched warmly by Katie and Nathaniel Prairie hub-to-hub in their black SwiftChairs on the left, Brittany beside them, and Heather, Dan, Jonas, Nora, and Molly on the right."
                                 }
                             ],
                             "image_count": 1
@@ -2412,6 +2412,27 @@
                                 }
                             ],
                             "image_count": 2
+                        },
+                        {
+                            "part_num": 6,
+                            "part_title": "Part 6: Father's Day on Arvin Road, Two Guardians' Blessing, & Making It Official Between Chelsea and 'My Sweet Wes'",
+                            "file_path": "e010/c001/p006.md",
+                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition-cutting-the-ribbon-on-route-64-in-maplewood/part-6-father-s-day-on-arvin-road-two-guardians-blessing-making-it-official-between-chelsea-and-my-sweet-wes",
+                            "word_count": 2120,
+                            "reading_minutes": 9,
+                            "date": "2018-06-17",
+                            "start_time": "13:30",
+                            "location": "Virginia Beach, VA & Maplewood, MN (737 Arvin Road Living Room & Video Call With the Lindstrom Household)",
+                            "excerpt": "On Father's Day, guardians David Prairie and Heather Lindstrom set protective conservatorship rules and bless Wesley and Chelsea as special friends.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_arvin_road_fathers_day_wesley_chelsea_special_friends_official.jpg",
+                            "image_alt": "Inside the sunlit living room at 737 Arvin Road in Virginia Beach on Father's Day afternoon, Sunday, June 17, 2018 beside Sunny and Pebble's sixty-gallon painted-turtle tank and a small green-framed instant photo, thirty-one-year-old Wesley Collins on the big living-room television in his weekend blue jeans, green North Lion T-shirt, and magnetic WESLEY badge forms a joyful two-hand heart from Maplewood alongside Heather and Dan, while thirty-six-year-old Chelsea in sky-blue fleece hugging plush Shelly Turtle forms a matching hand-heart back\u2014watched proudly by her legal guardian Uncle David Prairie, Katie and Nathaniel in their black SwiftChairs, and Brittany.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_arvin_road_fathers_day_wesley_chelsea_special_friends_official.jpg",
+                                    "alt": "Inside the sunlit living room at 737 Arvin Road in Virginia Beach on Father's Day afternoon, Sunday, June 17, 2018 beside Sunny and Pebble's sixty-gallon painted-turtle tank and a small green-framed instant photo, thirty-one-year-old Wesley Collins on the big living-room television in his weekend blue jeans, green North Lion T-shirt, and magnetic WESLEY badge forms a joyful two-hand heart from Maplewood alongside Heather and Dan, while thirty-six-year-old Chelsea in sky-blue fleece hugging plush Shelly Turtle forms a matching hand-heart back\u2014watched proudly by her legal guardian Uncle David Prairie, Katie and Nathaniel in their black SwiftChairs, and Brittany."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
