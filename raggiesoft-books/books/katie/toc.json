@@ -10,24 +10,24 @@
     "ebook_sizes": {
         "epub": "60.3 MB",
         "pdf": "56.9 MB",
-        "text_epub": "704 KB",
+        "text_epub": "705 KB",
         "text_pdf": "1.9 MB",
-        "package_7z": "523 KB",
-        "epub_bytes": 63264713,
-        "pdf_bytes": 59704753,
-        "text_epub_bytes": 721241,
-        "text_pdf_bytes": 1965277,
-        "package_7z_bytes": 535326
+        "package_7z": "524 KB",
+        "epub_bytes": 63265881,
+        "pdf_bytes": 59707765,
+        "text_epub_bytes": 722377,
+        "text_pdf_bytes": 1968457,
+        "package_7z_bytes": 536230
     },
     "illustration_count": 136,
     "word_stats": {
-        "story_word_count": 297210,
-        "lore_word_count": 97195,
-        "combined_word_count": 394405,
-        "story_page_count": 1081,
-        "combined_page_count": 1434,
-        "reading_hours": 19.8,
-        "reading_minutes": 1189,
+        "story_word_count": 297758,
+        "lore_word_count": 97294,
+        "combined_word_count": 395052,
+        "story_page_count": 1083,
+        "combined_page_count": 1437,
+        "reading_hours": 19.9,
+        "reading_minutes": 1191,
         "novel_equivalent": 3.3,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
@@ -1092,7 +1092,7 @@
             "era_title": "Six Buses from Williamsburg, Sea Breeze West, & Coming Home to Arvin Road",
             "era_url": "/raggiesoft-books/books/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road",
             "illustration_count": 5,
-            "word_count": 17328,
+            "word_count": 17806,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1153,7 +1153,7 @@
                     "chap_title": "Tiffany's Sea Breeze West Apartment, Dirty Old Tonomy Hill, & Coming Home to Arvin Road",
                     "chap_url": "/raggiesoft-books/books/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road",
                     "illustration_count": 4,
-                    "word_count": 9089,
+                    "word_count": 9567,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1193,8 +1193,8 @@
                             "part_title": "Part 3: Milk Isn't Allowed in This Fridge, Tiffany's Sunday Morning Accusation, & Yes-or-No Questions Through Tears",
                             "file_path": "e005/c002/p003.md",
                             "url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road/part-3-milk-isn-t-allowed-in-this-fridge-tiffany-s-sunday-morning-accusation-yes-or-no-questions-through-tears",
-                            "word_count": 2861,
-                            "reading_minutes": 12,
+                            "word_count": 3339,
+                            "reading_minutes": 14,
                             "date": "2005-11-13",
                             "start_time": "08:30",
                             "location": "Norfolk & Virginia Beach, VA (Sea Breeze West Apartment 3 & Arvin Road)",
@@ -1866,7 +1866,7 @@
             "era_title": "The Gentlewoman from Virginia Beach: The House of Delegates",
             "era_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates",
             "illustration_count": 17,
-            "word_count": 53284,
+            "word_count": 53354,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2084,7 +2084,7 @@
                     "chap_title": "Keeping Our High-School Promise, A Cautious Message Request on The Grid, Rescuing Cousin Chelsea From Mount Regalis, & Out of the Closet Into Our Four-Person Nest",
                     "chap_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-message-request-on-the-grid-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest",
                     "illustration_count": 5,
-                    "word_count": 15928,
+                    "word_count": 15998,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2112,8 +2112,8 @@
                             "part_title": "Part 2: A Filtered Request on The Grid, What Tyler's Lie Cost All of Us, & A Very Cautious Reply",
                             "file_path": "e009/c004/p002.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-message-request-on-the-grid-rescuing-cousin-chelsea-from-mount-regalis-out-of-the-closet-into-our-four-person-nest/part-2-a-filtered-request-on-the-grid-what-tyler-s-lie-cost-all-of-us-a-very-cautious-reply",
-                            "word_count": 1989,
-                            "reading_minutes": 8,
+                            "word_count": 2059,
+                            "reading_minutes": 9,
                             "date": "2016-06-04",
                             "start_time": "14:20",
                             "location": "Virginia Beach, VA (Our Dual-Desk Home Office & Bedroom Closet on Arvin Road)",
