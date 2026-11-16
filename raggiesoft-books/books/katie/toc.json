@@ -9,21 +9,21 @@
     "next_series_url": "",
     "ebook_sizes": {
         "epub": "63.6 MB",
-        "pdf": "63.6 MB",
+        "pdf": "63.7 MB",
         "text_epub": "724 KB",
         "text_pdf": "1.9 MB",
         "package_7z": "537 KB",
-        "epub_bytes": 66732088,
-        "pdf_bytes": 66677733,
-        "text_epub_bytes": 740889,
-        "text_pdf_bytes": 2017822,
-        "package_7z_bytes": 549701
+        "epub_bytes": 66727752,
+        "pdf_bytes": 66768409,
+        "text_epub_bytes": 741060,
+        "text_pdf_bytes": 2018140,
+        "package_7z_bytes": 549855
     },
     "illustration_count": 140,
     "word_stats": {
-        "story_word_count": 305027,
-        "lore_word_count": 98833,
-        "combined_word_count": 403860,
+        "story_word_count": 305102,
+        "lore_word_count": 98856,
+        "combined_word_count": 403958,
         "story_page_count": 1109,
         "combined_page_count": 1469,
         "reading_hours": 20.3,
@@ -2287,14 +2287,14 @@
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
             "illustration_count": 10,
-            "word_count": 20417,
+            "word_count": 20492,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Watching Senator Ward Kill Our Bills Across the Rotunda, The 250-Signature Petition, & Cutting the Ribbon on Route 64 in Maplewood",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition-cutting-the-ribbon-on-route-64-in-maplewood",
                     "illustration_count": 3,
-                    "word_count": 4534,
+                    "word_count": 4609,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2326,18 +2326,18 @@
                             "part_title": "Part 2: Route 64 to Maplewood, Seeing Wesley in Person After Fifteen Years, & The Earned Hug at the Ribbon Cutting",
                             "file_path": "e010/c001/p002.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition-cutting-the-ribbon-on-route-64-in-maplewood/part-2-route-64-to-maplewood-seeing-wesley-in-person-after-fifteen-years-the-earned-hug-at-the-ribbon-cutting",
-                            "word_count": 2110,
+                            "word_count": 2185,
                             "reading_minutes": 9,
                             "date": "2018-06-16",
                             "start_time": "09:45",
                             "location": "Maplewood, MN (Twin Cities Transit Route 64 & North Lion Scales & Tails Grand Opening)",
                             "excerpt": "With Virginia's session adjourned, Katie, Nate, Brittany, and Chelsea ride Route 64 to Maplewood for Wesley's reunion and Nate and Heather's earned hug.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_ribbon_cutting_earned_hug_nate_heather_wesley.jpg",
-                            "image_alt": "Outside the brand-new zero-step brick-and-glass storefront of North Lion Scales & Tails in Maplewood, Minnesota on sunny Saturday morning, June 16, 2018 beneath a forest-green Grand Opening ribbon, thirty-three-year-old Nathaniel Prairie in his black SwiftChair and thirty-three-year-old Heather Lindstrom kneeling at eye level share a massive, deeply emotional, earned two-armed hug\u2014watched with pure radiant joy by thirty-one-year-old Staff Member Wesley Collins holding his blue silicone ring and miniature Virginia toy city bus alongside Dan, Jonas, Nora, and Molly with ribbon-cutting scissors on the right, and Katie, Brittany, and Chelsea hugging plush Shelly Turtle on the left.",
+                            "image_alt": "Outside the brand-new zero-step brick-and-glass storefront of North Lion Scales & Tails in Maplewood, Minnesota on sunny Saturday morning, June 16, 2018 beneath a forest-green Grand Opening ribbon, thirty-three-year-old Nathaniel Prairie in his black SwiftChair and thirty-three-year-old Heather Lindstrom kneeling at eye level in her matching forest-green North Lion polo shirt, tan khakis, and magnetic name tag share a massive, deeply emotional, earned two-armed hug\u2014watched with pure radiant joy by thirty-one-year-old Staff Member Wesley Collins and Dan Lindstrom in identical forest-green polos, khakis, and name tags alongside Jonas, Nora, and Molly with ribbon-cutting scissors on the right, and Katie, Brittany, and Chelsea hugging plush Shelly Turtle on the left.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_ribbon_cutting_earned_hug_nate_heather_wesley.jpg",
-                                    "alt": "Outside the brand-new zero-step brick-and-glass storefront of North Lion Scales & Tails in Maplewood, Minnesota on sunny Saturday morning, June 16, 2018 beneath a forest-green Grand Opening ribbon, thirty-three-year-old Nathaniel Prairie in his black SwiftChair and thirty-three-year-old Heather Lindstrom kneeling at eye level share a massive, deeply emotional, earned two-armed hug\u2014watched with pure radiant joy by thirty-one-year-old Staff Member Wesley Collins holding his blue silicone ring and miniature Virginia toy city bus alongside Dan, Jonas, Nora, and Molly with ribbon-cutting scissors on the right, and Katie, Brittany, and Chelsea hugging plush Shelly Turtle on the left."
+                                    "alt": "Outside the brand-new zero-step brick-and-glass storefront of North Lion Scales & Tails in Maplewood, Minnesota on sunny Saturday morning, June 16, 2018 beneath a forest-green Grand Opening ribbon, thirty-three-year-old Nathaniel Prairie in his black SwiftChair and thirty-three-year-old Heather Lindstrom kneeling at eye level in her matching forest-green North Lion polo shirt, tan khakis, and magnetic name tag share a massive, deeply emotional, earned two-armed hug\u2014watched with pure radiant joy by thirty-one-year-old Staff Member Wesley Collins and Dan Lindstrom in identical forest-green polos, khakis, and name tags alongside Jonas, Nora, and Molly with ribbon-cutting scissors on the right, and Katie, Brittany, and Chelsea hugging plush Shelly Turtle on the left."
                                 }
                             ],
                             "image_count": 1
