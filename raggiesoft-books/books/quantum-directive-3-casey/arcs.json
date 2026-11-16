@@ -1,0 +1,42 @@
+{
+    "arcs": [
+        {
+            "slug": "twenty-one-day-bridge-and-holiday-sanctuary",
+            "title": "The Twenty-One Day Bridge: Severing the Past & Coming Home for Christmas",
+            "subtitle": "Nov–Dec 2004 • The Hard Sever, Redmond Acquisition, Portsmouth & Virginia Beach",
+            "description": "Follow Casey and Cassandra from the Thanksgiving hard sever and the Twenty-One Day Bridge firewall through acquiring the Redmond compound and celebrating a cross-country Rhode Island and Virginia Beach holiday.",
+            "image": "/raggiesoft-books/images/covers/2x3/quantum-directive-3-casey.jpg",
+            "stops": [
+                { "part": "e002/c008/p001.md" },
+                { "part": "e002/c009/p001.md" },
+                { "part": "e002/c009/p002.md" },
+                { "part": "e002/c010/p001.md" },
+                { "backstage": "books/quantum-directive-3-casey/twenty-one-day-firewall-and-mount-hope-reveillon-permit" },
+                { "part": "e002/c014/p002.md" },
+                { "part": "e002/c016/p001.md" },
+                { "part": "e002/c017/p001.md" },
+                { "part": "e002/c019/p001.md" },
+                { "part": "e002/c020/p001.md" }
+            ]
+        },
+        {
+            "slug": "sovereign-ceo-and-senate-witness-table",
+            "title": "Quantum CEO & The Weaponized Ledger: From Ruby Mountain to the Senate Witness Table",
+            "subtitle": "Jan–Jun 2014 • The Meridian Airlift, BayPass Keynote & Testifying on Capitol Hill",
+            "description": "Watch Cassandra Vance step into the Quantum CEO chair, airlift the pack off snowed-in Ruby Mountain, champion regional public transit, and dismantle corporate intimidation at a United States Senate hearing.",
+            "image": "/raggiesoft-books/images/covers/2x3/quantum-directive-3-casey.jpg",
+            "stops": [
+                { "part": "e004/c001/p001.md" },
+                { "part": "e004/c002/p001.md" },
+                { "part": "e004/c002/p004.md" },
+                { "part": "e005/c001/p001.md" },
+                { "backstage": "books/quantum-directive-3-casey/meridian-obsidian-ruby-mountain-airlift-and-courtyard-protocol" },
+                { "part": "e006/c001/p001.md" },
+                { "part": "e006/c002/p001.md" },
+                { "part": "e006/c002/p002.md" },
+                { "part": "e006/c003/p001.md" },
+                { "backstage": "books/quantum-directive-3-casey/k-street-motorcade-meltdown-and-the-fenwick-bridge-bypass" }
+            ]
+        }
+    ]
+}

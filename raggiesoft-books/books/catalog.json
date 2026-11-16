@@ -18,9 +18,11 @@
             "pdf_bytes": 2175257,
             "text_epub_bytes": 85320,
             "text_pdf_bytes": 277257,
-            "package_7z_bytes": 68610
+            "package_7z_bytes": 68632
         },
         "illustration_count": 13,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 28808,
             "lore_word_count": 3473,
@@ -36,7 +38,8 @@
             "era_count": 2,
             "chapter_count": 13,
             "part_count": 14,
-            "illustration_count": 13
+            "illustration_count": 13,
+            "story_arc_count": 0
         }
     },
     {
@@ -58,9 +61,11 @@
             "pdf_bytes": 858237,
             "text_epub_bytes": 301711,
             "text_pdf_bytes": 858237,
-            "package_7z_bytes": 228973
+            "package_7z_bytes": 228987
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 132610,
             "lore_word_count": 501,
@@ -76,7 +81,8 @@
             "era_count": 4,
             "chapter_count": 9,
             "part_count": 36,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -98,9 +104,11 @@
             "pdf_bytes": 1801709,
             "text_epub_bytes": 673136,
             "text_pdf_bytes": 1801709,
-            "package_7z_bytes": 463334
+            "package_7z_bytes": 463357
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 275128,
             "lore_word_count": 30798,
@@ -116,7 +124,8 @@
             "era_count": 21,
             "chapter_count": 73,
             "part_count": 117,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -138,9 +147,11 @@
             "pdf_bytes": 1764104,
             "text_epub_bytes": 608772,
             "text_pdf_bytes": 1764104,
-            "package_7z_bytes": 426533
+            "package_7z_bytes": 426540
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 261029,
             "lore_word_count": 148,
@@ -156,7 +167,8 @@
             "era_count": 9,
             "chapter_count": 38,
             "part_count": 90,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -178,9 +190,11 @@
             "pdf_bytes": 241676,
             "text_epub_bytes": 84495,
             "text_pdf_bytes": 241676,
-            "package_7z_bytes": 68200
+            "package_7z_bytes": 68219
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 32393,
             "lore_word_count": 9968,
@@ -196,7 +210,8 @@
             "era_count": 2,
             "chapter_count": 11,
             "part_count": 15,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -213,14 +228,53 @@
             "pdf": "53.5 MB",
             "text_epub": "1006 KB",
             "text_pdf": "3.7 MB",
-            "package_7z": "718 KB",
+            "package_7z": "721 KB",
             "epub_bytes": 69247267,
             "pdf_bytes": 56110642,
             "text_epub_bytes": 1030010,
             "text_pdf_bytes": 3873509,
-            "package_7z_bytes": 735528
+            "package_7z_bytes": 738111
         },
         "illustration_count": 72,
+        "story_arc_count": 2,
+        "story_arcs": [
+            {
+                "slug": "room-214-and-isabels-firewall",
+                "series_slug": "aubrie",
+                "series_title": "The Eleventh Child",
+                "backstage_playlist_slug": "aubrie-room-214-and-isabels-firewall",
+                "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/aubrie-room-214-and-isabels-firewall/",
+                "title": "Room 214 & Isabel's Firewall: Building a Found Family at Bennett Hall",
+                "subtitle": "Fall 2014 \u2022 Early Check-In, Administrative Pushback & The Suite That Refused to Break",
+                "description": "Follow Jordan's arrival in Room 214 at Commonwealth Polytechnic Institute, RA Isabel Dawson's quiet protective firewall, and the paper trail that turned a freshman dorm suite into a lifelong family.",
+                "image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
+                "start_url": "/aubrie/the-eleventh-child-off-to-college/the-administrative-prelude-early-move-in/part-1-an-extension-of-me?arc=room-214-and-isabels-firewall",
+                "part_count": 4,
+                "backstage_count": 5,
+                "stop_count": 9,
+                "word_count": 11070,
+                "reading_minutes": 45,
+                "reading_hours": 0.7
+            },
+            {
+                "slug": "world-trek-and-zoes-architecture",
+                "series_slug": "aubrie",
+                "series_title": "The Eleventh Child",
+                "backstage_playlist_slug": "aubrie-world-trek-and-zoes-architecture",
+                "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/aubrie-world-trek-and-zoes-architecture/",
+                "title": "Across the World & Inside Zo\u00eb's Logs: The Summer 2015 Trek & Courtroom Reckoning",
+                "subtitle": "Summer 2015 \u2022 Global Transit, Zo\u00eb's Cognitive Disclosure & Standing Tall in Court",
+                "description": "Travel with the found family across continents during the Summer 2015 World Trek\u2014where Zo\u00eb Wren Brooks shares her lifelong cognitive logging system\u2014straight into Jordan's courtroom victory back home.",
+                "image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
+                "start_url": "/aubrie/jordan-s-world-trek/leg-1-the-northern-ascent-christiansburg-to-gander/part-1-the-vanguard-awakes-the-security-checkpoint?arc=world-trek-and-zoes-architecture",
+                "part_count": 9,
+                "backstage_count": 1,
+                "stop_count": 10,
+                "word_count": 26241,
+                "reading_minutes": 105,
+                "reading_hours": 1.7
+            }
+        ],
         "word_stats": {
             "story_word_count": 413615,
             "lore_word_count": 60373,
@@ -236,7 +290,8 @@
             "era_count": 10,
             "chapter_count": 48,
             "part_count": 194,
-            "illustration_count": 72
+            "illustration_count": 72,
+            "story_arc_count": 2
         }
     },
     {
@@ -258,9 +313,11 @@
             "pdf_bytes": 3540,
             "text_epub_bytes": 5403,
             "text_pdf_bytes": 3540,
-            "package_7z_bytes": 1194
+            "package_7z_bytes": 1207
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 0,
             "lore_word_count": 2020,
@@ -276,7 +333,8 @@
             "era_count": 0,
             "chapter_count": 0,
             "part_count": 0,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -298,9 +356,11 @@
             "pdf_bytes": 235362,
             "text_epub_bytes": 85613,
             "text_pdf_bytes": 235362,
-            "package_7z_bytes": 63756
+            "package_7z_bytes": 63776
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 33772,
             "lore_word_count": 157,
@@ -316,7 +376,8 @@
             "era_count": 4,
             "chapter_count": 8,
             "part_count": 11,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -338,9 +399,11 @@
             "pdf_bytes": 21143357,
             "text_epub_bytes": 55576,
             "text_pdf_bytes": 168226,
-            "package_7z_bytes": 45133
+            "package_7z_bytes": 45152
         },
         "illustration_count": 9,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 20942,
             "lore_word_count": 27246,
@@ -356,7 +419,8 @@
             "era_count": 1,
             "chapter_count": 8,
             "part_count": 11,
-            "illustration_count": 9
+            "illustration_count": 9,
+            "story_arc_count": 0
         }
     },
     {
@@ -378,9 +442,11 @@
             "pdf_bytes": 206039,
             "text_epub_bytes": 74019,
             "text_pdf_bytes": 206039,
-            "package_7z_bytes": 57780
+            "package_7z_bytes": 57793
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 28751,
             "lore_word_count": 3348,
@@ -396,7 +462,8 @@
             "era_count": 3,
             "chapter_count": 19,
             "part_count": 21,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -418,9 +485,11 @@
             "pdf_bytes": 73850,
             "text_epub_bytes": 20317,
             "text_pdf_bytes": 73850,
-            "package_7z_bytes": 15359
+            "package_7z_bytes": 15373
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 5551,
             "lore_word_count": 405,
@@ -436,7 +505,8 @@
             "era_count": 1,
             "chapter_count": 4,
             "part_count": 6,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -458,9 +528,11 @@
             "pdf_bytes": 16540,
             "text_epub_bytes": 8788,
             "text_pdf_bytes": 16540,
-            "package_7z_bytes": 2011
+            "package_7z_bytes": 2033
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 0,
             "lore_word_count": 1597,
@@ -476,7 +548,8 @@
             "era_count": 5,
             "chapter_count": 18,
             "part_count": 0,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -498,9 +571,11 @@
             "pdf_bytes": 3367309,
             "text_epub_bytes": 189671,
             "text_pdf_bytes": 3367313,
-            "package_7z_bytes": 144947
+            "package_7z_bytes": 144966
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 81433,
             "lore_word_count": 138,
@@ -516,7 +591,8 @@
             "era_count": 3,
             "chapter_count": 33,
             "part_count": 41,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -538,9 +614,11 @@
             "pdf_bytes": 482428,
             "text_epub_bytes": 169681,
             "text_pdf_bytes": 482428,
-            "package_7z_bytes": 126115
+            "package_7z_bytes": 126127
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 68046,
             "lore_word_count": 162,
@@ -556,7 +634,8 @@
             "era_count": 5,
             "chapter_count": 16,
             "part_count": 27,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -573,14 +652,89 @@
             "pdf": "63.1 MB",
             "text_epub": "757 KB",
             "text_pdf": "2 MB",
-            "package_7z": "562 KB",
+            "package_7z": "572 KB",
             "epub_bytes": 69026179,
             "pdf_bytes": 66189700,
             "text_epub_bytes": 775541,
             "text_pdf_bytes": 2117860,
-            "package_7z_bytes": 575580
+            "package_7z_bytes": 586098
         },
         "illustration_count": 149,
+        "story_arc_count": 4,
+        "story_arcs": [
+            {
+                "slug": "heather-wesley-and-north-lion",
+                "series_slug": "katie",
+                "series_title": "Katie & Nathaniel",
+                "backstage_playlist_slug": "katie-heather-wesley-and-north-lion",
+                "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/katie-heather-wesley-and-north-lion/",
+                "title": "From Northwood High to North Lion: Heather, Wesley & Chelsea",
+                "subtitle": "2001\u20132018 \u2022 Teenage Heartbreak, Ten Years Behind the Lens & Two Special Friends",
+                "description": "Follow Heather Collins from Nate's high school girlfriend at Emerald Creek Mall and Tyler's senior-year lie through ten years building North Lion Scales & Tails in Minnesota, the Maplewood zoo reunion, and Wesley and Chelsea's deep-pressure bond.",
+                "image": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_ribbon_cutting_earned_hug_nate_heather_wesley.jpg",
+                "start_url": "/katie/sixteen-summer-sanctuary/sixteen-on-four-wheels-finding-dates/part-1-navigating-northwood-high-on-four-wheels-two-first-dates-why-we-ride-on-saturday?arc=heather-wesley-and-north-lion",
+                "part_count": 25,
+                "backstage_count": 5,
+                "stop_count": 30,
+                "word_count": 60808,
+                "reading_minutes": 244,
+                "reading_hours": 4.1
+            },
+            {
+                "slug": "katie-political-career",
+                "series_slug": "katie",
+                "series_title": "Katie & Nathaniel",
+                "backstage_playlist_slug": "katie-katie-political-career",
+                "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/katie-katie-political-career/",
+                "title": "Katie's Political Career: From the 5:30 Bus Curfew to the U.S. Senate",
+                "subtitle": "2007\u20132044 \u2022 City Council, House of Delegates, Madam Chair & Senator From Virginia",
+                "description": "Trace Katie Prairie's public-service journey alongside Nate\u2014from a 2007 White House and Capitol visit and Virginia Beach's 5:30 PM bus curfew to City Council, the viral House Bill 663 speech, flipping the State Senate, and riding every bus in Virginia to the United States Senate.",
+                "image": "/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait_og.jpg",
+                "start_url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-touring-the-white-house-the-u-s-capitol-meeting-senator-james-west-the-spark-to-run-for-city-council-two-blue-passports/part-2-unclipping-our-backpacks-where-is-president-george-w-walker-today-the-white-house-tour-that-sparked-a-political-calling?arc=katie-political-career",
+                "part_count": 31,
+                "backstage_count": 5,
+                "stop_count": 36,
+                "word_count": 110192,
+                "reading_minutes": 441,
+                "reading_hours": 7.3
+            },
+            {
+                "slug": "brittany-chelsea-and-the-four-person-sanctuary",
+                "series_slug": "katie",
+                "series_title": "Katie & Nathaniel",
+                "backstage_playlist_slug": "katie-brittany-chelsea-and-the-four-person-sanctuary",
+                "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/katie-brittany-chelsea-and-the-four-person-sanctuary/",
+                "title": "Rescuing Our Cousins & Leaving the Closet Behind: Brittany & Chelsea",
+                "subtitle": "2002\u20132017 \u2022 Holding the Elevator, Braxton Probate Court & The Four-Person Oak Nest",
+                "description": "From Tonomy Hill in 2004 and thirteen years sleeping inside dark closets to rescuing Brittany at a South Richmond church, freeing Chelsea from Mount Regalis in probate court, and finally sleeping out in the open together.",
+                "image": "/raggiesoft-books/images/scenes/katie/b005/jul_2016_kings_college_royal_gate_court_order_chelsea_rescue_family.jpg",
+                "start_url": "/katie/seventeen-senior-year-greenway-court/drunken-new-year/part-1-the-gas-station-run-a-box-of-dry-cereal-why-i-never-had-a-twenty-first-birthday-drink?arc=brittany-chelsea-and-the-four-person-sanctuary",
+                "part_count": 12,
+                "backstage_count": 2,
+                "stop_count": 14,
+                "word_count": 36258,
+                "reading_minutes": 146,
+                "reading_hours": 2.4
+            },
+            {
+                "slug": "fishersville-twelve-days-and-twenty-years",
+                "series_slug": "katie",
+                "series_title": "Katie & Nathaniel",
+                "backstage_playlist_slug": "katie-fishersville-twelve-days-and-twenty-years",
+                "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/katie-fishersville-twelve-days-and-twenty-years/",
+                "title": "Roosevelt Rehabilitation Center: Twelve Days in 2007 & The 2027 Reckoning",
+                "subtitle": "2007 & 2027 \u2022 Barton Hall Level 2, Walking Out Free & Auditing Fishersville From the Senate",
+                "description": "Experience Katie and Nate's twelve days trapped under patronizing rules at Roosevelt Rehabilitation Center in March 2007\u2014and jump straight to 2027 when U.S. Senator Katie Prairie returns unannounced on a public bus to clean house.",
+                "image": "/raggiesoft-books/images/scenes/katie/b005/jan_2027_alx_arts_mobile_lift_senator_elect_katie_prairie.jpg",
+                "start_url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road/part-5-the-cchr-disability-counselor-the-glossy-fishersville-pitch-why-brother-and-sister-should-get-to-share-a-dorm-room?arc=fishersville-twelve-days-and-twenty-years",
+                "part_count": 10,
+                "backstage_count": 6,
+                "stop_count": 16,
+                "word_count": 47434,
+                "reading_minutes": 190,
+                "reading_hours": 3.2
+            }
+        ],
         "word_stats": {
             "story_word_count": 318949,
             "lore_word_count": 101284,
@@ -596,7 +750,8 @@
             "era_count": 11,
             "chapter_count": 46,
             "part_count": 125,
-            "illustration_count": 149
+            "illustration_count": 149,
+            "story_arc_count": 4
         }
     },
     {
@@ -618,9 +773,11 @@
             "pdf_bytes": 12179754,
             "text_epub_bytes": 795858,
             "text_pdf_bytes": 2373092,
-            "package_7z_bytes": 569235
+            "package_7z_bytes": 569251
         },
         "illustration_count": 3,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 334891,
             "lore_word_count": 546,
@@ -636,7 +793,8 @@
             "era_count": 16,
             "chapter_count": 84,
             "part_count": 168,
-            "illustration_count": 3
+            "illustration_count": 3,
+            "story_arc_count": 0
         }
     },
     {
@@ -658,9 +816,11 @@
             "pdf_bytes": 25934,
             "text_epub_bytes": 9640,
             "text_pdf_bytes": 25934,
-            "package_7z_bytes": 4900
+            "package_7z_bytes": 4916
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 1337,
             "lore_word_count": 114,
@@ -676,7 +836,8 @@
             "era_count": 1,
             "chapter_count": 1,
             "part_count": 1,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -698,9 +859,11 @@
             "pdf_bytes": 121729,
             "text_epub_bytes": 41112,
             "text_pdf_bytes": 121729,
-            "package_7z_bytes": 32503
+            "package_7z_bytes": 32517
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 15245,
             "lore_word_count": 2463,
@@ -716,7 +879,8 @@
             "era_count": 1,
             "chapter_count": 2,
             "part_count": 5,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -738,9 +902,11 @@
             "pdf_bytes": 202768,
             "text_epub_bytes": 70990,
             "text_pdf_bytes": 202768,
-            "package_7z_bytes": 53969
+            "package_7z_bytes": 53987
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 26090,
             "lore_word_count": 537,
@@ -756,7 +922,8 @@
             "era_count": 3,
             "chapter_count": 7,
             "part_count": 12,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -778,9 +945,11 @@
             "pdf_bytes": 1272780,
             "text_epub_bytes": 454748,
             "text_pdf_bytes": 1272780,
-            "package_7z_bytes": 328009
+            "package_7z_bytes": 328026
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 186519,
             "lore_word_count": 133,
@@ -796,7 +965,8 @@
             "era_count": 14,
             "chapter_count": 37,
             "part_count": 73,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -818,9 +988,11 @@
             "pdf_bytes": 1475296,
             "text_epub_bytes": 510178,
             "text_pdf_bytes": 1475296,
-            "package_7z_bytes": 371755
+            "package_7z_bytes": 371766
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 214143,
             "lore_word_count": 132,
@@ -836,7 +1008,8 @@
             "era_count": 5,
             "chapter_count": 36,
             "part_count": 77,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -858,9 +1031,11 @@
             "pdf_bytes": 415749,
             "text_epub_bytes": 155170,
             "text_pdf_bytes": 415749,
-            "package_7z_bytes": 112014
+            "package_7z_bytes": 112025
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 57383,
             "lore_word_count": 135,
@@ -876,7 +1051,8 @@
             "era_count": 24,
             "chapter_count": 89,
             "part_count": 17,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -898,9 +1074,11 @@
             "pdf_bytes": 259351,
             "text_epub_bytes": 87849,
             "text_pdf_bytes": 259351,
-            "package_7z_bytes": 70784
+            "package_7z_bytes": 70797
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 34858,
             "lore_word_count": 133,
@@ -916,7 +1094,8 @@
             "era_count": 2,
             "chapter_count": 15,
             "part_count": 16,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -938,9 +1117,11 @@
             "pdf_bytes": 5514555,
             "text_epub_bytes": 79111,
             "text_pdf_bytes": 5514555,
-            "package_7z_bytes": 60955
+            "package_7z_bytes": 60965
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 29910,
             "lore_word_count": 138,
@@ -956,7 +1137,8 @@
             "era_count": 3,
             "chapter_count": 11,
             "part_count": 15,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -973,14 +1155,53 @@
             "pdf": "4.8 MB",
             "text_epub": "398 KB",
             "text_pdf": "1.2 MB",
-            "package_7z": "295 KB",
+            "package_7z": "298 KB",
             "epub_bytes": 5306928,
             "pdf_bytes": 5058155,
             "text_epub_bytes": 407438,
             "text_pdf_bytes": 1263033,
-            "package_7z_bytes": 302424
+            "package_7z_bytes": 304845
         },
         "illustration_count": 10,
+        "story_arc_count": 2,
+        "story_arcs": [
+            {
+                "slug": "twenty-one-day-bridge-and-holiday-sanctuary",
+                "series_slug": "quantum-directive-3-casey",
+                "series_title": "The Quantum Directive: The Caretakers",
+                "backstage_playlist_slug": "quantum-directive-3-casey-twenty-one-day-bridge-and-holiday-sanctuary",
+                "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/quantum-directive-3-casey-twenty-one-day-bridge-and-holiday-sanctuary/",
+                "title": "The Twenty-One Day Bridge: Severing the Past & Coming Home for Christmas",
+                "subtitle": "Nov\u2013Dec 2004 \u2022 The Hard Sever, Redmond Acquisition, Portsmouth & Virginia Beach",
+                "description": "Follow Casey and Cassandra from the Thanksgiving hard sever and the Twenty-One Day Bridge firewall through acquiring the Redmond compound and celebrating a cross-country Rhode Island and Virginia Beach holiday.",
+                "image": "/raggiesoft-books/images/covers/2x3/quantum-directive-3-casey.jpg",
+                "start_url": "/quantum-directive-3-casey/book-2-the-sovereign-perimeter/chapter-8-the-ambush/the-morning-anchor-the-hard-sever?arc=twenty-one-day-bridge-and-holiday-sanctuary",
+                "part_count": 9,
+                "backstage_count": 1,
+                "stop_count": 10,
+                "word_count": 22908,
+                "reading_minutes": 92,
+                "reading_hours": 1.5
+            },
+            {
+                "slug": "sovereign-ceo-and-senate-witness-table",
+                "series_slug": "quantum-directive-3-casey",
+                "series_title": "The Quantum Directive: The Caretakers",
+                "backstage_playlist_slug": "quantum-directive-3-casey-sovereign-ceo-and-senate-witness-table",
+                "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/quantum-directive-3-casey-sovereign-ceo-and-senate-witness-table/",
+                "title": "Quantum CEO & The Weaponized Ledger: From Ruby Mountain to the Senate Witness Table",
+                "subtitle": "Jan\u2013Jun 2014 \u2022 The Meridian Airlift, BayPass Keynote & Testifying on Capitol Hill",
+                "description": "Watch Cassandra Vance step into the Quantum CEO chair, airlift the pack off snowed-in Ruby Mountain, champion regional public transit, and dismantle corporate intimidation at a United States Senate hearing.",
+                "image": "/raggiesoft-books/images/covers/2x3/quantum-directive-3-casey.jpg",
+                "start_url": "/quantum-directive-3-casey/book-4-the-sovereign-empire/chapter-1-the-mandate/the-deviation-the-sovereign-news?arc=sovereign-ceo-and-senate-witness-table",
+                "part_count": 8,
+                "backstage_count": 2,
+                "stop_count": 10,
+                "word_count": 25082,
+                "reading_minutes": 101,
+                "reading_hours": 1.7
+            }
+        ],
         "word_stats": {
             "story_word_count": 169175,
             "lore_word_count": 51160,
@@ -996,7 +1217,8 @@
             "era_count": 6,
             "chapter_count": 54,
             "part_count": 71,
-            "illustration_count": 10
+            "illustration_count": 10,
+            "story_arc_count": 2
         }
     },
     {
@@ -1013,14 +1235,53 @@
             "pdf": "80.3 MB",
             "text_epub": "1.1 MB",
             "text_pdf": "3.1 MB",
-            "package_7z": "789 KB",
+            "package_7z": "792 KB",
             "epub_bytes": 79791564,
             "pdf_bytes": 84152358,
             "text_epub_bytes": 1167211,
             "text_pdf_bytes": 3253711,
-            "package_7z_bytes": 807802
+            "package_7z_bytes": 810589
         },
         "illustration_count": 131,
+        "story_arc_count": 2,
+        "story_arcs": [
+            {
+                "slug": "bear-and-bug-to-code-susquehanna",
+                "series_slug": "rachel",
+                "series_title": "The Rachel Narrative",
+                "backstage_playlist_slug": "rachel-bear-and-bug-to-code-susquehanna",
+                "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/rachel-bear-and-bug-to-code-susquehanna/",
+                "title": "Bear & Bug: From Base Camp Sanctuary to Code Susquehanna",
+                "subtitle": "Childhood to Adulthood \u2022 Sibling Grounding, Canadian Arch & The Unshakable Perimeter",
+                "description": "Follow Michael and his fiercely protective older sister Rachel from their earliest Base Camp grounding protocols through rebuilding home life on Canadian Arch and executing Code Susquehanna.",
+                "image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
+                "start_url": "/rachel/base-camp/the-monday-war-monday-august-21st-1995/part-1-the-weight-of-september-the-gavel?arc=bear-and-bug-to-code-susquehanna",
+                "part_count": 13,
+                "backstage_count": 3,
+                "stop_count": 16,
+                "word_count": 24948,
+                "reading_minutes": 100,
+                "reading_hours": 1.7
+            },
+            {
+                "slug": "open-roads-and-mountain-conferences",
+                "series_slug": "rachel",
+                "series_title": "The Rachel Narrative",
+                "backstage_playlist_slug": "rachel-open-roads-and-mountain-conferences",
+                "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/rachel-open-roads-and-mountain-conferences/",
+                "title": "Open Roads & Mountain Horizons: SAACURC 2016, Ferrell Parkway & The Horizon Avalon",
+                "subtitle": "2016\u20132020 \u2022 Blacksburg, 55 MPH Behind the Wheel, Luray & Buying a Car on Our Own Terms",
+                "description": "Ride along on Michael and Rachel's adult milestones across Virginia\u2014representing VDU at the SAACURC conference in Blacksburg, earning independence behind the wheel, Thanksgiving in Luray, and bringing home the 2020 Horizon Avalon.",
+                "image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
+                "start_url": "/rachel/the-mountain-conference-saacurc-2016/the-bear-the-bug-and-the-forger/part-1-friday-arrival-struggling-up-the-steep-hills-of-cpi-two-queen-beds-at-the-hotel-at-poly?arc=open-roads-and-mountain-conferences",
+                "part_count": 15,
+                "backstage_count": 0,
+                "stop_count": 15,
+                "word_count": 20626,
+                "reading_minutes": 83,
+                "reading_hours": 1.4
+            }
+        ],
         "word_stats": {
             "story_word_count": 498551,
             "lore_word_count": 89069,
@@ -1036,7 +1297,8 @@
             "era_count": 26,
             "chapter_count": 107,
             "part_count": 212,
-            "illustration_count": 131
+            "illustration_count": 131,
+            "story_arc_count": 2
         }
     },
     {
@@ -1058,9 +1320,11 @@
             "pdf_bytes": 663054,
             "text_epub_bytes": 237599,
             "text_pdf_bytes": 663054,
-            "package_7z_bytes": 172113
+            "package_7z_bytes": 172130
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 94109,
             "lore_word_count": 19833,
@@ -1076,7 +1340,8 @@
             "era_count": 8,
             "chapter_count": 27,
             "part_count": 42,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -1098,9 +1363,11 @@
             "pdf_bytes": 41824,
             "text_epub_bytes": 14621,
             "text_pdf_bytes": 41824,
-            "package_7z_bytes": 35541
+            "package_7z_bytes": 35553
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 14030,
             "lore_word_count": 1178,
@@ -1116,7 +1383,8 @@
             "era_count": 2,
             "chapter_count": 5,
             "part_count": 29,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -1138,9 +1406,11 @@
             "pdf_bytes": 194536,
             "text_epub_bytes": 66662,
             "text_pdf_bytes": 194536,
-            "package_7z_bytes": 50589
+            "package_7z_bytes": 50604
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 25121,
             "lore_word_count": 1431,
@@ -1156,7 +1426,8 @@
             "era_count": 4,
             "chapter_count": 8,
             "part_count": 11,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     },
     {
@@ -1173,14 +1444,53 @@
             "pdf": "18.8 MB",
             "text_epub": "185 KB",
             "text_pdf": "561 KB",
-            "package_7z": "140 KB",
+            "package_7z": "142 KB",
             "epub_bytes": 17922538,
             "pdf_bytes": 19691323,
             "text_epub_bytes": 189100,
             "text_pdf_bytes": 573976,
-            "package_7z_bytes": 142851
+            "package_7z_bytes": 144901
         },
         "illustration_count": 25,
+        "story_arc_count": 2,
+        "story_arcs": [
+            {
+                "slug": "apex-records-to-engine-room-independence",
+                "series_slug": "stardust-engine",
+                "series_title": "The Stardust Engine",
+                "backstage_playlist_slug": "stardust-engine-apex-records-to-engine-room-independence",
+                "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/stardust-engine-apex-records-to-engine-room-independence/",
+                "title": "Breaking the Cage: Mile Marker 98, The Apex Trial & Engine Room Independence",
+                "subtitle": "1986\u20131999 \u2022 Holly's $1.00 Cross-License, Protocol T-10 & Owning Every Master",
+                "description": "Follow the O'Connell siblings and Wright twins from their 1986 breakout through the black-ice crash at Mile Marker 98, seizing Exhibit A in Los Angeles, founding Engine Room Records, and building Ad Astra on their own terms.",
+                "image": "/stardust-engine/images/story/ad-astra/ad-astra-hero.jpg",
+                "start_url": "/stardust-engine/book-1-analog-heart-teenager-in-the-valley-1978-1989/chapter-3-ignition-the-1-00-cross-license-the-apex-years-1986-1989/ignition-the-1-00-cross-license-the-apex-years-1986-1989?arc=apex-records-to-engine-room-independence",
+                "part_count": 7,
+                "backstage_count": 1,
+                "stop_count": 8,
+                "word_count": 20305,
+                "reading_minutes": 82,
+                "reading_hours": 1.4
+            },
+            {
+                "slug": "reignition-and-live-at-the-crucible",
+                "series_slug": "stardust-engine",
+                "series_title": "The Stardust Engine",
+                "backstage_playlist_slug": "stardust-engine-reignition-and-live-at-the-crucible",
+                "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/stardust-engine-reignition-and-live-at-the-crucible/",
+                "title": "Reignition & Operation Anvil: Returning Home to The Crucible",
+                "subtitle": "2014\u20132016 \u2022 Turning Down $150M, Transit Legislative Day & 65,000 Voices in Blacksburg",
+                "description": "Experience The Stardust Engine's return to the stage\u2014from 95.5\u00b0F hydrotherapy in Blacksburg and standing beside Delegate Katie Prairie in Richmond to their seven-act stadium homecoming with the Marching Forgers.",
+                "image": "/raggiesoft-books/images/covers/2x3/stardust-engine.jpg",
+                "start_url": "/stardust-engine/book-5-burnout-hiatus-our-own-frequency-neon-on-the-huckleberry-trail-2005-2016/chapter-1-our-own-frequency-the-blue-ridge-regional-aquatic-center-virginia-transit-legislative-day-2008-2016/part-1-the-blue-ridge-regional-aquatic-center-the-150m-refusal-the-birth-of-neon-on-the-huckleberry-trail?arc=reignition-and-live-at-the-crucible",
+                "part_count": 11,
+                "backstage_count": 1,
+                "stop_count": 12,
+                "word_count": 22164,
+                "reading_minutes": 89,
+                "reading_hours": 1.5
+            }
+        ],
         "word_stats": {
             "story_word_count": 65118,
             "lore_word_count": 26225,
@@ -1196,7 +1506,8 @@
             "era_count": 7,
             "chapter_count": 16,
             "part_count": 25,
-            "illustration_count": 25
+            "illustration_count": 25,
+            "story_arc_count": 2
         }
     },
     {
@@ -1213,14 +1524,16 @@
             "pdf": "3.2 KB",
             "text_epub": "5.3 KB",
             "text_pdf": "3.2 KB",
-            "package_7z": "924 B",
+            "package_7z": "938 B",
             "epub_bytes": 5409,
             "pdf_bytes": 3262,
             "text_epub_bytes": 5410,
             "text_pdf_bytes": 3262,
-            "package_7z_bytes": 924
+            "package_7z_bytes": 938
         },
         "illustration_count": 0,
+        "story_arc_count": 0,
+        "story_arcs": [],
         "word_stats": {
             "story_word_count": 0,
             "lore_word_count": 2119,
@@ -1236,7 +1549,8 @@
             "era_count": 0,
             "chapter_count": 0,
             "part_count": 0,
-            "illustration_count": 0
+            "illustration_count": 0,
+            "story_arc_count": 0
         }
     }
 ]

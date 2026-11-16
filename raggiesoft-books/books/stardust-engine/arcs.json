@@ -1,0 +1,42 @@
+{
+    "arcs": [
+        {
+            "slug": "apex-records-to-engine-room-independence",
+            "title": "Breaking the Cage: Mile Marker 98, The Apex Trial & Engine Room Independence",
+            "subtitle": "1986–1999 • Holly's $1.00 Cross-License, Protocol T-10 & Owning Every Master",
+            "description": "Follow the O'Connell siblings and Wright twins from their 1986 breakout through the black-ice crash at Mile Marker 98, seizing Exhibit A in Los Angeles, founding Engine Room Records, and building Ad Astra on their own terms.",
+            "image": "/stardust-engine/images/story/ad-astra/ad-astra-hero.jpg",
+            "stops": [
+                { "part": "e001/c003/p001.md" },
+                { "part": "e002/c001/p001.md" },
+                { "part": "e002/c002/p001.md" },
+                { "part": "e003/c001/p001.md" },
+                { "part": "e003/c002/p001.md" },
+                { "part": "e004/c001/p001.md" },
+                { "part": "e004/c002/p001.md" },
+                { "backstage": "music/stardust-engine-origins" }
+            ]
+        },
+        {
+            "slug": "reignition-and-live-at-the-crucible",
+            "title": "Reignition & Operation Anvil: Returning Home to The Crucible",
+            "subtitle": "2014–2016 • Turning Down $150M, Transit Legislative Day & 65,000 Voices in Blacksburg",
+            "description": "Experience The Stardust Engine's return to the stage—from 95.5°F hydrotherapy in Blacksburg and standing beside Delegate Katie Prairie in Richmond to their seven-act stadium homecoming with the Marching Forgers.",
+            "image": "/raggiesoft-books/images/covers/2x3/stardust-engine.jpg",
+            "stops": [
+                { "part": "e005/c001/p001.md" },
+                { "part": "e005/c001/p002.md" },
+                { "part": "e005/c001/p003.md" },
+                { "part": "e006/c001/p001.md" },
+                { "part": "e006/c001/p002.md" },
+                { "part": "e006/c001/p003.md" },
+                { "part": "e006/c001/p004.md" },
+                { "part": "e006/c001/p005.md" },
+                { "part": "e006/c001/p006.md" },
+                { "part": "e006/c001/p007.md" },
+                { "part": "e006/c001/p008.md" },
+                { "backstage": "locations/cpi" }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "arcs": [
+        {
+            "slug": "room-214-and-isabels-firewall",
+            "title": "Room 214 & Isabel's Firewall: Building a Found Family at Bennett Hall",
+            "subtitle": "Fall 2014 • Early Check-In, Administrative Pushback & The Suite That Refused to Break",
+            "description": "Follow Jordan's arrival in Room 214 at Commonwealth Polytechnic Institute, RA Isabel Dawson's quiet protective firewall, and the paper trail that turned a freshman dorm suite into a lifelong family.",
+            "image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
+            "stops": [
+                { "part": "e002/c001/p001.md" },
+                { "part": "e002/c001/p002.md" },
+                { "part": "e002/c001/p003.md" },
+                { "backstage": "books/aubrie/correspondence/early-check-in-rounds" },
+                { "backstage": "books/aubrie/isabel-pov-notes" },
+                { "part": "e002/c002/p001.md" },
+                { "backstage": "books/aubrie/correspondence/the-accommodation-file" },
+                { "backstage": "books/aubrie/correspondence/the-bureaucratic-firewall" },
+                { "backstage": "books/aubrie/correspondence/the-good-faith-accord" }
+            ]
+        },
+        {
+            "slug": "world-trek-and-zoes-architecture",
+            "title": "Across the World & Inside Zoë's Logs: The Summer 2015 Trek & Courtroom Reckoning",
+            "subtitle": "Summer 2015 • Global Transit, Zoë's Cognitive Disclosure & Standing Tall in Court",
+            "description": "Travel with the found family across continents during the Summer 2015 World Trek—where Zoë Wren Brooks shares her lifelong cognitive logging system—straight into Jordan's courtroom victory back home.",
+            "image": "/raggiesoft-books/images/covers/2x3/aubrie.jpg",
+            "stops": [
+                { "part": "e005/c001/p001.md" },
+                { "part": "e005/c004/p001.md" },
+                { "part": "e005/c007/p001.md" },
+                { "part": "e005/c008/p001.md" },
+                { "backstage": "books/aubrie/zoe-logging-architecture" },
+                { "part": "e006/c001/p001.md" },
+                { "part": "e006/c001/p002.md" },
+                { "part": "e006/c001/p003.md" },
+                { "part": "e006/c002/p001.md" },
+                { "part": "e006/c002/p004.md" }
+            ]
+        }
+    ]
+}

@@ -1622,26 +1622,125 @@ function initOceanViewReader() {
     initTranslationSwaps();
 
     // ==========================================
+    // 12. STORY ARCS PLAYLIST DIALOG, FILTER BAR & SHARE COPY CONTROLLER
+    // ==========================================
+    // Follows `modern-web-guidance` best practices:
+    //   - Uses `addEventListener()` exclusively (zero inline event handlers).
+    //   - Opens `#rs-arc-playlist-dialog` via `.showModal()` and provides the
+    //     bounding-box light-dismiss fallback for browsers without `closedBy` support.
+    const arcDialog = document.getElementById('rs-arc-playlist-dialog');
+    const arcOpenBtn = document.getElementById('rs-open-arc-playlist-btn');
+    const arcCloseBtn = document.getElementById('rs-arc-playlist-close');
+
+    if (arcDialog && !arcDialog.dataset.arcBound) {
+        arcDialog.dataset.arcBound = 'true';
+        if (arcOpenBtn) {
+            arcOpenBtn.addEventListener('click', () => {
+                arcDialog.showModal();
+                const currentRow = arcDialog.querySelector('.rs-arc-stop-row.is-current');
+                if (currentRow && typeof currentRow.scrollIntoView === 'function') {
+                    currentRow.scrollIntoView({ block: 'nearest' });
+                }
+            });
+        }
+        if (arcCloseBtn) {
+            arcCloseBtn.addEventListener('click', () => arcDialog.close());
+        }
+        // Fallback light-dismiss check when `HTMLDialogElement.prototype.closedBy` is unsupported (e.g., Safari)
+        if (!('closedBy' in HTMLDialogElement.prototype)) {
+            arcDialog.addEventListener('click', (event) => {
+                const rect = arcDialog.getBoundingClientRect();
+                const clickedInside = (
+                    rect.top <= event.clientY &&
+                    event.clientY <= rect.top + rect.height &&
+                    rect.left <= event.clientX &&
+                    event.clientX <= rect.left + rect.width
+                );
+                if (!clickedInside) {
+                    arcDialog.close();
+                }
+            });
+        }
+        arcDialog.addEventListener('click', (event) => {
+            const closeTrigger = event.target && event.target.closest
+                ? event.target.closest('[data-close-arc-dialog="true"]')
+                : null;
+            if (closeTrigger && arcDialog.open) {
+                arcDialog.close();
+            }
+        });
+    }
+
+    // Bind `/arcs` book series filter pills cleanly via `addEventListener()`
+    const arcFilterButtons = document.querySelectorAll('[data-arc-filter]');
+    const arcHubCards = document.querySelectorAll('#rs-arcs-hub-grid [data-arc-series]');
+    arcFilterButtons.forEach((btn) => {
+        if (btn.dataset.arcFilterBound) return;
+        btn.dataset.arcFilterBound = 'true';
+        btn.addEventListener('click', () => {
+            const targetSeries = btn.getAttribute('data-arc-filter') || 'all';
+            arcFilterButtons.forEach((b) => {
+                const active = (b === btn);
+                b.classList.toggle('is-active', active);
+                b.setAttribute('aria-pressed', active ? 'true' : 'false');
+            });
+            arcHubCards.forEach((card) => {
+                const cardSeries = card.getAttribute('data-arc-series') || '';
+                card.hidden = !(targetSeries === 'all' || cardSeries === targetSeries);
+            });
+            try {
+                const nextUrl = new URL(window.location.href);
+                if (targetSeries === 'all') {
+                    nextUrl.searchParams.delete('book');
+                } else {
+                    nextUrl.searchParams.set('book', targetSeries);
+                }
+                window.history.replaceState({}, '', nextUrl.pathname + nextUrl.search);
+            } catch (err) {}
+        });
+    });
+
+    // Bind share copy button (`[data-copy-share-url]`) without inline `onclick`
+    document.querySelectorAll('[data-copy-share-url]').forEach((copyBtn) => {
+        if (copyBtn.dataset.copyBound) return;
+        copyBtn.dataset.copyBound = 'true';
+        copyBtn.addEventListener('click', () => {
+            const shareUrl = copyBtn.getAttribute('data-copy-share-url') || window.location.href;
+            if (navigator.clipboard && navigator.clipboard.writeText) {
+                navigator.clipboard.writeText(shareUrl).then(() => {
+                    const labelEl = copyBtn.querySelector('span');
+                    const prevText = labelEl ? labelEl.textContent : '';
+                    if (labelEl) labelEl.textContent = 'Copied!';
+                    setTimeout(() => {
+                        if (labelEl) labelEl.textContent = prevText || 'Copy Link';
+                    }, 1800);
+                });
+            }
+        });
+    });
+
+    // ==========================================
     // 10. LAST-READ BOOK ROUTE TRACKING
     // ==========================================
-    // Only record actual narrative routes (never system pages like /settings or /library)
+    // Only record actual narrative routes (never system pages like /settings, /library, or /arcs)
     const SYSTEM_ROUTES = new Set([
-        '/', '/index.php', '/isabel.php', '/library', '/catalog',
-        '/settings', '/bookmarks', '/about', '/accessibility',
+        '/', '/index.php', '/isabel.php', '/library', '/catalog', '/arcs', '/story-arcs',
+        '/illustrations', '/stats', '/settings', '/bookmarks', '/about', '/accessibility',
         '/welcome', '/setup', '/knox', '/aethel-saga', '/search'
     ]);
     const cleanPath = window.location.pathname.replace(/\/+$/, '') || '/';
     // Sanitize any previously corrupted rs-last-read pointing to a system page
     const existingLastRead = localStorage.getItem('rs-last-read');
     if (existingLastRead) {
-        const cleanExisting = existingLastRead.replace(/\/+$/, '') || '/';
+        const cleanExisting = existingLastRead.split('?')[0].replace(/\/+$/, '') || '/';
         if (SYSTEM_ROUTES.has(cleanExisting)) {
             localStorage.removeItem('rs-last-read');
             localStorage.removeItem('rs-last-read-title');
         }
     }
     if (!SYSTEM_ROUTES.has(cleanPath) && document.getElementById('stardust-reading-pane')) {
-        localStorage.setItem('rs-last-read', window.location.pathname);
+        // Preserve active `?arc=<slug>` query string so Resume Reading restores Story Arc Playlist Mode
+        localStorage.setItem('rs-last-read', window.location.pathname + (window.location.search || ''));
         if (document.title) {
             localStorage.setItem('rs-last-read-title', document.title);
         }
@@ -1688,7 +1787,8 @@ function initOceanViewReader() {
                     }
                 } catch (err) {}
             }
-            if (!slug) return;
+            // Do not hijack Story Arc hub/playlist pages (`/arcs` or `/arcs/<slug>`) on Backstage
+            if (!slug || slug === 'arcs' || slug.startsWith('arcs/')) return;
 
             const activeDialog = document.getElementById('rs-backstage-dialog');
             if (!activeDialog) return;

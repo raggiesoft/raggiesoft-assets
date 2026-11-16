@@ -1,0 +1,53 @@
+{
+    "arcs": [
+        {
+            "slug": "bear-and-bug-to-code-susquehanna",
+            "title": "Bear & Bug: From Base Camp Sanctuary to Code Susquehanna",
+            "subtitle": "Childhood to Adulthood • Sibling Grounding, Canadian Arch & The Unshakable Perimeter",
+            "description": "Follow Michael and his fiercely protective older sister Rachel from their earliest Base Camp grounding protocols through rebuilding home life on Canadian Arch and executing Code Susquehanna.",
+            "image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
+            "stops": [
+                { "part": "e003/c001/p001.md" },
+                { "part": "e003/c001/p002.md" },
+                { "part": "e003/c001/p003.md" },
+                { "part": "e003/c001/p004.md" },
+                { "backstage": "books/rachel/the-bug-and-bear-dynamic-and-base-camp-protocols" },
+                { "part": "e019/c001/p001.md" },
+                { "backstage": "books/rachel/canadian-arch-sanctuary-anchor-rotation-and-lynnhaven-seondu" },
+                { "part": "e026/c001/p001.md" },
+                { "part": "e026/c001/p002.md" },
+                { "part": "e026/c001/p003.md" },
+                { "part": "e026/c002/p001.md" },
+                { "part": "e026/c002/p002.md" },
+                { "part": "e026/c003/p001.md" },
+                { "part": "e026/c003/p002.md" },
+                { "part": "e026/c003/p003.md" },
+                { "backstage": "books/rachel/code-susquehanna-and-the-bear-and-bug-vault" }
+            ]
+        },
+        {
+            "slug": "open-roads-and-mountain-conferences",
+            "title": "Open Roads & Mountain Horizons: SAACURC 2016, Ferrell Parkway & The Horizon Avalon",
+            "subtitle": "2016–2020 • Blacksburg, 55 MPH Behind the Wheel, Luray & Buying a Car on Our Own Terms",
+            "description": "Ride along on Michael and Rachel's adult milestones across Virginia—representing VDU at the SAACURC conference in Blacksburg, earning independence behind the wheel, Thanksgiving in Luray, and bringing home the 2020 Horizon Avalon.",
+            "image": "/raggiesoft-books/images/covers/2x3/rachel.jpg",
+            "stops": [
+                { "part": "e022/c001/p001.md" },
+                { "part": "e022/c001/p002.md" },
+                { "part": "e022/c001/p003.md" },
+                { "part": "e023/c001/p001.md" },
+                { "part": "e023/c001/p002.md" },
+                { "part": "e023/c002/p001.md" },
+                { "part": "e024/c001/p001.md" },
+                { "part": "e024/c002/p001.md" },
+                { "part": "e024/c002/p002.md" },
+                { "part": "e025/c001/p001.md" },
+                { "part": "e025/c001/p002.md" },
+                { "part": "e025/c002/p001.md" },
+                { "part": "e025/c002/p002.md" },
+                { "part": "e025/c003/p001.md" },
+                { "part": "e025/c003/p002.md" }
+            ]
+        }
+    ]
+}
