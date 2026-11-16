@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "58.9 MB",
-        "pdf": "54.4 MB",
-        "text_epub": "694 KB",
-        "text_pdf": "1.8 MB",
-        "package_7z": "515 KB",
-        "epub_bytes": 61773419,
-        "pdf_bytes": 57057591,
-        "text_epub_bytes": 710800,
-        "text_pdf_bytes": 1937014,
-        "package_7z_bytes": 527449
+        "epub": "59.7 MB",
+        "pdf": "55.6 MB",
+        "text_epub": "699 KB",
+        "text_pdf": "1.9 MB",
+        "package_7z": "519 KB",
+        "epub_bytes": 62558615,
+        "pdf_bytes": 58336752,
+        "text_epub_bytes": 716224,
+        "text_pdf_bytes": 1951156,
+        "package_7z_bytes": 531641
     },
-    "illustration_count": 134,
+    "illustration_count": 135,
     "word_stats": {
-        "story_word_count": 293189,
-        "lore_word_count": 95675,
-        "combined_word_count": 388864,
-        "story_page_count": 1066,
-        "combined_page_count": 1414,
-        "reading_hours": 19.5,
-        "reading_minutes": 1173,
+        "story_word_count": 295221,
+        "lore_word_count": 95730,
+        "combined_word_count": 390951,
+        "story_page_count": 1074,
+        "combined_page_count": 1422,
+        "reading_hours": 19.7,
+        "reading_minutes": 1181,
         "novel_equivalent": 3.3,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
         "benchmark_note": "3.3\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
         "era_count": 11,
         "chapter_count": 45,
-        "part_count": 112,
-        "illustration_count": 134
+        "part_count": 113,
+        "illustration_count": 135
     },
     "eras": [
         {
@@ -1416,8 +1416,8 @@
             "era_num": 7,
             "era_title": "Unofficial Homeowners: Back Home in Virginia Beach (2007\u20132008)",
             "era_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008",
-            "illustration_count": 14,
-            "word_count": 19488,
+            "illustration_count": 15,
+            "word_count": 21520,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1687,16 +1687,16 @@
                 },
                 {
                     "chap_num": 4,
-                    "chap_title": "Associate Degrees in Hand, 'Not the Right Skill Match,' & Launching Prairie Twin Interactive From Arvin Road",
-                    "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/associate-degrees-in-hand-not-the-right-skill-match-launching-prairie-twin-interactive-from-arvin-road",
-                    "illustration_count": 1,
-                    "word_count": 1178,
+                    "chap_title": "Associate Degrees in Hand, 'Not the Right Skill Match,' Launching Prairie Twin Interactive, & The Arvin Road Networking Closet",
+                    "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/associate-degrees-in-hand-not-the-right-skill-match-launching-prairie-twin-interactive-the-arvin-road-networking-closet",
+                    "illustration_count": 2,
+                    "word_count": 3210,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Associate Degrees in Hand, 'Not the Right Skill Match,' & Putting Our Virginia LLC to Work",
+                            "part_title": "Part 1: Associate Degrees in Hand, 'Not the Right Skill Match,' & Putting Our Virginia LLC to Work",
                             "file_path": "e007/c004/p001.md",
-                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/associate-degrees-in-hand-not-the-right-skill-match-launching-prairie-twin-interactive-from-arvin-road/associate-degrees-in-hand-not-the-right-skill-match-putting-our-virginia-llc-to-work",
+                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/associate-degrees-in-hand-not-the-right-skill-match-launching-prairie-twin-interactive-the-arvin-road-networking-closet/part-1-associate-degrees-in-hand-not-the-right-skill-match-putting-our-virginia-llc-to-work",
                             "word_count": 1178,
                             "reading_minutes": 5,
                             "date": "2007-06-14",
@@ -1709,6 +1709,27 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b006/jun_2007_polite_hr_job_interview_rejection_wheelchairs_katie_nate.jpg",
                                     "alt": "Inside a glass-walled corporate conference room off Virginia Beach Boulevard on Thursday afternoon, June 14, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit side by side in their black motorized SwiftChair power wheelchairs with their leather CCHR Associate Degree portfolios and printed PHP and SQL code samples open on the table, exchanging a quiet, knowing look as two corporate hiring managers offer practiced, legally sanitized smiles across the table"
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: The Arvin Road Networking Closet, A Fail-Safe Thermostat Relay, & Sheer Random Luck on StreamTube",
+                            "file_path": "e007/c004/p002.md",
+                            "url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/associate-degrees-in-hand-not-the-right-skill-match-launching-prairie-twin-interactive-the-arvin-road-networking-closet/part-2-the-arvin-road-networking-closet-a-fail-safe-thermostat-relay-sheer-random-luck-on-streamtube",
+                            "word_count": 2032,
+                            "reading_minutes": 9,
+                            "date": "2007-08-18",
+                            "start_time": "13:30",
+                            "location": "Virginia Beach, VA (Our Dual-Desk Home Office & Networking Closet on Arvin Road)",
+                            "excerpt": "Wiring a fail-safe thermostat for their Arvin Road networking closet, Nate randomly finds a StreamTube turtle video that makes him think of Chelsea.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b006/aug_2007_arvin_road_networking_closet_thermostat_streamtube_turtle_video.jpg",
+                            "image_alt": "Inside Katie and Nathaniel Prairie's sunlit dual-desk home office on Arvin Road in August 2007 beneath their framed Prairie Twin Interactive, LLC certificate\u2014with their open three-by-six office closet beside them newly converted into a ventilated networking closet holding a Linux server tower, blinking 24-port gigabit switch, blue patch cables, UPS battery backup, exhaust fan, and digital thermostat\u2014twenty-two-year-old fraternal twins Katie and Nate sit side by side in matching black SwiftChair power wheelchairs holding inner hands as they smile warmly over their shoulders at an angled StreamTube monitor showing black-nitrile-gloved hands arranging basking stones for a painted turtle.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b006/aug_2007_arvin_road_networking_closet_thermostat_streamtube_turtle_video.jpg",
+                                    "alt": "Inside Katie and Nathaniel Prairie's sunlit dual-desk home office on Arvin Road in August 2007 beneath their framed Prairie Twin Interactive, LLC certificate\u2014with their open three-by-six office closet beside them newly converted into a ventilated networking closet holding a Linux server tower, blinking 24-port gigabit switch, blue patch cables, UPS battery backup, exhaust fan, and digital thermostat\u2014twenty-two-year-old fraternal twins Katie and Nate sit side by side in matching black SwiftChair power wheelchairs holding inner hands as they smile warmly over their shoulders at an angled StreamTube monitor showing black-nitrile-gloved hands arranging basking stones for a painted turtle."
                                 }
                             ],
                             "image_count": 1
