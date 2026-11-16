@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "61.9 MB",
-        "pdf": "60 MB",
-        "text_epub": "713 KB",
+        "epub": "63.6 MB",
+        "pdf": "63.6 MB",
+        "text_epub": "721 KB",
         "text_pdf": "1.9 MB",
-        "package_7z": "529 KB",
-        "epub_bytes": 64887381,
-        "pdf_bytes": 62894823,
-        "text_epub_bytes": 730017,
-        "text_pdf_bytes": 1989512,
-        "package_7z_bytes": 542035
+        "package_7z": "535 KB",
+        "epub_bytes": 66730021,
+        "pdf_bytes": 66673005,
+        "text_epub_bytes": 738804,
+        "text_pdf_bytes": 2013038,
+        "package_7z_bytes": 548200
     },
-    "illustration_count": 138,
+    "illustration_count": 140,
     "word_stats": {
-        "story_word_count": 300760,
-        "lore_word_count": 97411,
-        "combined_word_count": 398171,
-        "story_page_count": 1094,
-        "combined_page_count": 1448,
-        "reading_hours": 20.1,
-        "reading_minutes": 1203,
-        "novel_equivalent": 3.3,
+        "story_word_count": 304215,
+        "lore_word_count": 98768,
+        "combined_word_count": 402983,
+        "story_page_count": 1106,
+        "combined_page_count": 1465,
+        "reading_hours": 20.3,
+        "reading_minutes": 1217,
+        "novel_equivalent": 3.4,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
-        "benchmark_note": "3.3\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
+        "benchmark_note": "3.4\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
         "era_count": 11,
         "chapter_count": 45,
-        "part_count": 116,
-        "illustration_count": 138
+        "part_count": 118,
+        "illustration_count": 140
     },
     "eras": [
         {
@@ -1865,8 +1865,8 @@
             "era_num": 9,
             "era_title": "The Gentlewoman from Virginia Beach: The House of Delegates",
             "era_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates",
-            "illustration_count": 19,
-            "word_count": 56356,
+            "illustration_count": 20,
+            "word_count": 58513,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2083,8 +2083,8 @@
                     "chap_num": 4,
                     "chap_title": "Keeping Our High-School Promise, A Cautious Request on The Grid, Rescuing Cousin Chelsea, Out of the Closet Into Our Four-Person Nest, & Chelsea's Turtle Tank Reveal",
                     "chap_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-request-on-the-grid-rescuing-cousin-chelsea-out-of-the-closet-into-our-four-person-nest-chelsea-s-turtle-tank-reveal",
-                    "illustration_count": 7,
-                    "word_count": 19000,
+                    "illustration_count": 8,
+                    "word_count": 21157,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2256,6 +2256,27 @@
                                 }
                             ],
                             "image_count": 1
+                        },
+                        {
+                            "part_num": 10,
+                            "part_title": "Part 10: Staff Member Wesley's Reply, Proving It When Nobody Was Looking, & Full Speaking Terms",
+                            "file_path": "e009/c004/p010.md",
+                            "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-request-on-the-grid-rescuing-cousin-chelsea-out-of-the-closet-into-our-four-person-nest-chelsea-s-turtle-tank-reveal/part-10-staff-member-wesley-s-reply-proving-it-when-nobody-was-looking-full-speaking-terms",
+                            "word_count": 2157,
+                            "reading_minutes": 9,
+                            "date": "2017-05-21",
+                            "start_time": "14:00",
+                            "location": "Virginia Beach, VA (Our Dual-Desk Office & Living Room on Arvin Road)",
+                            "excerpt": "After Staff Member Wesley replies, Katie realizes Heather proved she changed when nobody was looking\u2014putting both families on full speaking terms.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/may_2017_arvin_road_video_call_full_speaking_terms_wesley_chelsea.jpg",
+                            "image_alt": "Inside the sunlit living room on Arvin Road in May 2017 beside Chelsea's glowing sixty-gallon painted-turtle tank, thirty-five-year-old Cousin Chelsea in modest coral-pink fleece loungewear hugs plush Shelly Turtle and waves joyfully alongside Brittany while twins Katie and Nathaniel Prairie sit hub to hub in their black SwiftChairs tapping knuckles toward an angled widescreen television showing a live two-way family video call from Maplewood, Minnesota with thirty-year-old Staff Member Wesley holding up his miniature Virginia toy city bus beside Heather and Dan Lindstrom.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/may_2017_arvin_road_video_call_full_speaking_terms_wesley_chelsea.jpg",
+                                    "alt": "Inside the sunlit living room on Arvin Road in May 2017 beside Chelsea's glowing sixty-gallon painted-turtle tank, thirty-five-year-old Cousin Chelsea in modest coral-pink fleece loungewear hugs plush Shelly Turtle and waves joyfully alongside Brittany while twins Katie and Nathaniel Prairie sit hub to hub in their black SwiftChairs tapping knuckles toward an angled widescreen television showing a live two-way family video call from Maplewood, Minnesota with thirty-year-old Staff Member Wesley holding up his miniature Virginia toy city bus beside Heather and Dan Lindstrom."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
@@ -2265,21 +2286,21 @@
             "era_num": 10,
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
-            "illustration_count": 9,
-            "word_count": 18307,
+            "illustration_count": 10,
+            "word_count": 19605,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Watching Senator Ward Kill Our Bills Across the Rotunda & The 250-Signature Petition",
-                    "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition",
-                    "illustration_count": 2,
-                    "word_count": 2424,
+                    "chap_title": "Watching Senator Ward Kill Our Bills Across the Rotunda, The 250-Signature Petition, & Cutting the Ribbon on Route 64 in Maplewood",
+                    "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition-cutting-the-ribbon-on-route-64-in-maplewood",
+                    "illustration_count": 3,
+                    "word_count": 3722,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Watching Senator Ward Kill Our Bills Across the Rotunda, Brainstorming the 7th Senate District with Dad, & The 250-Signature Rule",
+                            "part_title": "Part 1: Watching Senator Ward Kill Our Bills Across the Rotunda, Brainstorming the 7th Senate District with Dad, & The 250-Signature Rule",
                             "file_path": "e010/c001/p001.md",
-                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition/watching-senator-ward-kill-our-bills-across-the-rotunda-brainstorming-the-7th-senate-district-with-dad-the-250-signature-rule",
+                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition-cutting-the-ribbon-on-route-64-in-maplewood/part-1-watching-senator-ward-kill-our-bills-across-the-rotunda-brainstorming-the-7th-senate-district-with-dad-the-250-signature-rule",
                             "word_count": 2424,
                             "reading_minutes": 10,
                             "date": "2018-02-22",
@@ -2299,6 +2320,27 @@
                                 }
                             ],
                             "image_count": 2
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Route 64 to Maplewood, Seeing Wesley in Person After Fifteen Years, & The Earned Hug at the Ribbon Cutting",
+                            "file_path": "e010/c001/p002.md",
+                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition-cutting-the-ribbon-on-route-64-in-maplewood/part-2-route-64-to-maplewood-seeing-wesley-in-person-after-fifteen-years-the-earned-hug-at-the-ribbon-cutting",
+                            "word_count": 1298,
+                            "reading_minutes": 6,
+                            "date": "2018-06-16",
+                            "start_time": "09:45",
+                            "location": "Maplewood, MN (Twin Cities Transit Route 64 & North Lion Scales & Tails Grand Opening)",
+                            "excerpt": "With Virginia's session adjourned, Katie, Nate, Brittany, and Chelsea ride Route 64 to Maplewood for Wesley's reunion and Nate and Heather's earned hug.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_ribbon_cutting_earned_hug_nate_heather_wesley.jpg",
+                            "image_alt": "Outside the brand-new zero-step brick-and-glass storefront of North Lion Scales & Tails in Maplewood, Minnesota on sunny Saturday morning, June 16, 2018 beneath a forest-green Grand Opening ribbon, thirty-three-year-old Nathaniel Prairie in his black SwiftChair and thirty-three-year-old Heather Lindstrom kneeling at eye level share a massive, deeply emotional, earned two-armed hug\u2014watched with pure radiant joy by thirty-one-year-old Staff Member Wesley Collins holding his blue silicone ring and miniature Virginia toy city bus alongside Dan, Jonas, Nora, and Molly with ribbon-cutting scissors on the right, and Katie, Brittany, and Chelsea hugging plush Shelly Turtle on the left.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_ribbon_cutting_earned_hug_nate_heather_wesley.jpg",
+                                    "alt": "Outside the brand-new zero-step brick-and-glass storefront of North Lion Scales & Tails in Maplewood, Minnesota on sunny Saturday morning, June 16, 2018 beneath a forest-green Grand Opening ribbon, thirty-three-year-old Nathaniel Prairie in his black SwiftChair and thirty-three-year-old Heather Lindstrom kneeling at eye level share a massive, deeply emotional, earned two-armed hug\u2014watched with pure radiant joy by thirty-one-year-old Staff Member Wesley Collins holding his blue silicone ring and miniature Virginia toy city bus alongside Dan, Jonas, Nora, and Molly with ribbon-cutting scissors on the right, and Katie, Brittany, and Chelsea hugging plush Shelly Turtle on the left."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
