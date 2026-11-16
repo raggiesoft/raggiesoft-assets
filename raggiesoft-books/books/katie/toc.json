@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "64.9 MB",
-        "pdf": "62.7 MB",
-        "text_epub": "747 KB",
+        "epub": "65.8 MB",
+        "pdf": "63.1 MB",
+        "text_epub": "757 KB",
         "text_pdf": "2 MB",
-        "package_7z": "554 KB",
-        "epub_bytes": 68038487,
-        "pdf_bytes": 65726215,
-        "text_epub_bytes": 764917,
-        "text_pdf_bytes": 2086172,
-        "package_7z_bytes": 567626
+        "package_7z": "562 KB",
+        "epub_bytes": 69026179,
+        "pdf_bytes": 66189700,
+        "text_epub_bytes": 775541,
+        "text_pdf_bytes": 2117860,
+        "package_7z_bytes": 575580
     },
-    "illustration_count": 146,
+    "illustration_count": 149,
     "word_stats": {
-        "story_word_count": 314758,
+        "story_word_count": 318949,
         "lore_word_count": 101284,
-        "combined_word_count": 416042,
-        "story_page_count": 1145,
-        "combined_page_count": 1513,
-        "reading_hours": 21,
-        "reading_minutes": 1259,
+        "combined_word_count": 420233,
+        "story_page_count": 1160,
+        "combined_page_count": 1528,
+        "reading_hours": 21.3,
+        "reading_minutes": 1276,
         "novel_equivalent": 3.5,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
-        "benchmark_note": "3.5\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
+        "benchmark_note": "3.5\u00d7 a standard 90,000-word contemporary novel (~4-volume print series)",
         "era_count": 11,
-        "chapter_count": 45,
-        "part_count": 122,
-        "illustration_count": 146
+        "chapter_count": 46,
+        "part_count": 125,
+        "illustration_count": 149
     },
     "eras": [
         {
@@ -2286,8 +2286,8 @@
             "era_num": 10,
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
-            "illustration_count": 16,
-            "word_count": 30148,
+            "illustration_count": 19,
+            "word_count": 34339,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2438,6 +2438,78 @@
                 },
                 {
                     "chap_num": 2,
+                    "chap_title": "MSP to RIC, Deep-Pressure Hugs at Bayshore Town Center, & Wesley Meeting Sunny and Pebble on Arvin Road",
+                    "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/msp-to-ric-deep-pressure-hugs-at-bayshore-town-center-wesley-meeting-sunny-and-pebble-on-arvin-road",
+                    "illustration_count": 3,
+                    "word_count": 4191,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: MSP to RIC, Sensory Overload at the Coastal Virginia Convention Center, & Deep-Pressure Hugs at Bayshore Town Center",
+                            "file_path": "e010/c002/p001.md",
+                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/msp-to-ric-deep-pressure-hugs-at-bayshore-town-center-wesley-meeting-sunny-and-pebble-on-arvin-road/part-1-msp-to-ric-sensory-overload-at-the-coastal-virginia-convention-center-deep-pressure-hugs-at-bayshore-town-center",
+                            "word_count": 1890,
+                            "reading_minutes": 8,
+                            "date": "2018-10-12",
+                            "start_time": "10:15",
+                            "location": "Hampton, VA (Coastal Virginia Convention Center & Bayshore Town Center)",
+                            "excerpt": "When the Hampton Reptile Expo overwhelms Wesley, Chelsea's deep-pressure hugs at Bayshore Town Center press both of their frayed nerves back together.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/oct_2018_hampton_bayshore_town_center_deep_pressure_hug_wesley_chelsea_lunch.jpg",
+                            "image_alt": "On a sunlit wooden courtyard bench under golden October maple trees at open-air Bayshore Town Center in Hampton, Virginia on Friday midday, October 12, 2018 with the white sail-peaked roof of the Coastal Virginia Convention Center rising in the distance, thirty-six-year-old Chelsea in her plum-lavender fleece jacket with plush Shelly Turtle resting unguarded beside her holds overwhelmed thirty-one-year-old Wesley Collins close in a grounding deep-pressure embrace\u2014watched warmly by Uncle David Prairie beside the Harbor Bakery & Grill lunch patio, Brittany, and Katie and Nathaniel Prairie holding hands in their black SwiftChairs.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/oct_2018_hampton_bayshore_town_center_deep_pressure_hug_wesley_chelsea_lunch.jpg",
+                                    "alt": "On a sunlit wooden courtyard bench under golden October maple trees at open-air Bayshore Town Center in Hampton, Virginia on Friday midday, October 12, 2018 with the white sail-peaked roof of the Coastal Virginia Convention Center rising in the distance, thirty-six-year-old Chelsea in her plum-lavender fleece jacket with plush Shelly Turtle resting unguarded beside her holds overwhelmed thirty-one-year-old Wesley Collins close in a grounding deep-pressure embrace\u2014watched warmly by Uncle David Prairie beside the Harbor Bakery & Grill lunch patio, Brittany, and Katie and Nathaniel Prairie holding hands in their black SwiftChairs."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Ahead of Friday's Closing Bell, Under the Bay to Virginia Beach, & Wesley Meeting Sunny and Pebble on Arvin Road",
+                            "file_path": "e010/c002/p002.md",
+                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/msp-to-ric-deep-pressure-hugs-at-bayshore-town-center-wesley-meeting-sunny-and-pebble-on-arvin-road/part-2-ahead-of-friday-s-closing-bell-under-the-bay-to-virginia-beach-wesley-meeting-sunny-and-pebble-on-arvin-road",
+                            "word_count": 1106,
+                            "reading_minutes": 5,
+                            "date": "2018-10-12",
+                            "start_time": "16:35",
+                            "location": "Hampton & Virginia Beach, VA (Coastal Virginia Convention Center, Hampton Roads Bridge-Tunnel, & 737 Arvin Road)",
+                            "excerpt": "Returning ahead of Friday closing, everyone heads to Virginia Beach so Wesley can meet Sunny and Pebble in person before dining on Arvin Road.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/oct_2018_arvin_road_wesley_meets_sunny_and_pebble_virginia_beach_dinner.jpg",
+                            "image_alt": "Inside the warm living room at 737 Arvin Road in Virginia Beach on Friday evening, October 12, 2018, thirty-one-year-old Wesley Collins in his forest-green North Lion T-shirt, blue jeans, and magnetic WESLEY badge and thirty-six-year-old Chelsea in her plum-lavender pullover stand shoulder to shoulder holding inner hands as Chelsea feeds Sunny and Pebble beside their green foraging ball and green-framed instant photo\u2014watched happily by Katie and Nathaniel in their black SwiftChairs, trusted friend Heather laughing warmly beside them with Jonas, Nora, and Molly, and David, Dan, and Brittany near the set dinner table.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/oct_2018_arvin_road_wesley_meets_sunny_and_pebble_virginia_beach_dinner.jpg",
+                                    "alt": "Inside the warm living room at 737 Arvin Road in Virginia Beach on Friday evening, October 12, 2018, thirty-one-year-old Wesley Collins in his forest-green North Lion T-shirt, blue jeans, and magnetic WESLEY badge and thirty-six-year-old Chelsea in her plum-lavender pullover stand shoulder to shoulder holding inner hands as Chelsea feeds Sunny and Pebble beside their green foraging ball and green-framed instant photo\u2014watched happily by Katie and Nathaniel in their black SwiftChairs, trusted friend Heather laughing warmly beside them with Jonas, Nora, and Molly, and David, Dan, and Brittany near the set dinner table."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Inseparable Across Saturday and Sunday, Zero Guarding Left Between Them, & Seeing the Lindstroms Off at RIC",
+                            "file_path": "e010/c002/p003.md",
+                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/msp-to-ric-deep-pressure-hugs-at-bayshore-town-center-wesley-meeting-sunny-and-pebble-on-arvin-road/part-3-inseparable-across-saturday-and-sunday-zero-guarding-left-between-them-seeing-the-lindstroms-off-at-ric",
+                            "word_count": 1195,
+                            "reading_minutes": 5,
+                            "date": "2018-10-13",
+                            "start_time": "10:30",
+                            "location": "Hampton, Virginia Beach, & Richmond, VA (Bayshore Town Center, 737 Arvin Road, & Richmond International Airport)",
+                            "excerpt": "Inseparable across Saturday and Sunday with zero guarding left between them, Chelsea and Wesley share a sad yet understanding goodbye at Richmond Airport.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/oct_2018_ric_airport_unguarded_handholding_and_understanding_goodbye_wesley_chelsea.jpg",
+                            "image_alt": "Inside the sunlit red-brick-and-glass departure atrium of Richmond International Airport on Monday morning, October 15, 2018 outside the Security Checkpoint stanchions, thirty-one-year-old Wesley Collins and thirty-six-year-old Chelsea with plush Shelly Turtle tucked unguarded inside her open canvas hip tote hold each other tightly in a full two-armed deep-pressure goodbye hug on the right while trusted lifelong friends Heather Lindstrom and Nathaniel Prairie hug each other tightly with both arms beside Katie on the left, with David, Brittany, Dan, Jonas, Nora, and Molly watching warmly behind them.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/oct_2018_ric_airport_unguarded_handholding_and_understanding_goodbye_wesley_chelsea.jpg",
+                                    "alt": "Inside the sunlit red-brick-and-glass departure atrium of Richmond International Airport on Monday morning, October 15, 2018 outside the Security Checkpoint stanchions, thirty-one-year-old Wesley Collins and thirty-six-year-old Chelsea with plush Shelly Turtle tucked unguarded inside her open canvas hip tote hold each other tightly in a full two-armed deep-pressure goodbye hug on the right while trusted lifelong friends Heather Lindstrom and Nathaniel Prairie hug each other tightly with both arms beside Katie on the left, with David, Brittany, Dan, Jonas, Nora, and Molly watching warmly behind them."
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 3,
                     "chap_title": "Flipping the Seventh Senate District, The Mahogany Senate Ramp, & Madam Chair",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/flipping-the-seventh-senate-district-the-mahogany-senate-ramp-madam-chair",
                     "illustration_count": 1,
@@ -2446,7 +2518,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Flipping the Seventh Senate District, Custom-Milling the Mahogany Senate Ramp, & Swearing In as Madam Chair",
-                            "file_path": "e010/c002/p001.md",
+                            "file_path": "e010/c003/p001.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/flipping-the-seventh-senate-district-the-mahogany-senate-ramp-madam-chair/flipping-the-seventh-senate-district-custom-milling-the-mahogany-senate-ramp-swearing-in-as-madam-chair",
                             "word_count": 3234,
                             "reading_minutes": 13,
@@ -2467,7 +2539,7 @@
                     ]
                 },
                 {
-                    "chap_num": 3,
+                    "chap_num": 4,
                     "chap_title": "The Accessibility Project: Riding Every Bus Across the Commonwealth for the United States Senate",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate",
                     "illustration_count": 6,
@@ -2476,7 +2548,7 @@
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Living Room Decision in Kempsville, The 10,000-Signature Rule, & The Accessibility Project",
-                            "file_path": "e010/c003/p001.md",
+                            "file_path": "e010/c004/p001.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-1-the-living-room-decision-in-kempsville-the-10-000-signature-rule-the-accessibility-project",
                             "word_count": 2766,
                             "reading_minutes": 12,
@@ -2497,7 +2569,7 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The Jammed Ramp on Victoria Boulevard, ShoreLine Transit Across the Bay, & Wearing the NFA's 'F' Grade in Fairfax",
-                            "file_path": "e010/c003/p002.md",
+                            "file_path": "e010/c004/p002.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-2-the-jammed-ramp-on-victoria-boulevard-shoreline-transit-across-the-bay-wearing-the-nfa-s-f-grade-in-fairfax",
                             "word_count": 2416,
                             "reading_minutes": 10,
@@ -2518,7 +2590,7 @@
                         {
                             "part_num": 3,
                             "part_title": "Part 3: The Roanoke Express, The Brooks Family Compound on Lee Highway, The Maroon Express to Bluewater, & Winning the June Primary",
-                            "file_path": "e010/c003/p003.md",
+                            "file_path": "e010/c004/p003.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-3-the-roanoke-express-the-brooks-family-compound-on-lee-highway-the-maroon-express-to-bluewater-winning-the-june-primary",
                             "word_count": 3929,
                             "reading_minutes": 16,
@@ -2539,7 +2611,7 @@
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Riding Into Deep-Red RTR Country: Mountain Empire Transit, The Coalfields, & Cumberland Gap With Dad",
-                            "file_path": "e010/c003/p004.md",
+                            "file_path": "e010/c004/p004.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-4-riding-into-deep-red-rtr-country-mountain-empire-transit-the-coalfields-cumberland-gap-with-dad",
                             "word_count": 1619,
                             "reading_minutes": 7,
@@ -2564,7 +2636,7 @@
                         {
                             "part_num": 5,
                             "part_title": "Part 5: Katie's Favorite Place in Virginia: The Cassini Center in Highland County & The October WHRC TV-15 Three-Bus Sprint",
-                            "file_path": "e010/c003/p005.md",
+                            "file_path": "e010/c004/p005.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-5-katie-s-favorite-place-in-virginia-the-cassini-center-in-highland-county-the-october-whrc-tv-15-three-bus-sprint",
                             "word_count": 1919,
                             "reading_minutes": 8,
