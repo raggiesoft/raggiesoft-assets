@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "63.6 MB",
-        "pdf": "63.7 MB",
-        "text_epub": "724 KB",
-        "text_pdf": "1.9 MB",
-        "package_7z": "537 KB",
-        "epub_bytes": 66727752,
-        "pdf_bytes": 66768409,
-        "text_epub_bytes": 741060,
-        "text_pdf_bytes": 2018140,
-        "package_7z_bytes": 549855
+        "epub": "64.6 MB",
+        "pdf": "64.1 MB",
+        "text_epub": "736 KB",
+        "text_pdf": "2 MB",
+        "package_7z": "546 KB",
+        "epub_bytes": 67710111,
+        "pdf_bytes": 67245152,
+        "text_epub_bytes": 753643,
+        "text_pdf_bytes": 2051814,
+        "package_7z_bytes": 559122
     },
-    "illustration_count": 140,
+    "illustration_count": 143,
     "word_stats": {
-        "story_word_count": 305102,
-        "lore_word_count": 98856,
-        "combined_word_count": 403958,
-        "story_page_count": 1109,
-        "combined_page_count": 1469,
-        "reading_hours": 20.3,
-        "reading_minutes": 1220,
+        "story_word_count": 310139,
+        "lore_word_count": 100572,
+        "combined_word_count": 410711,
+        "story_page_count": 1128,
+        "combined_page_count": 1493,
+        "reading_hours": 20.7,
+        "reading_minutes": 1241,
         "novel_equivalent": 3.4,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
         "benchmark_note": "3.4\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
         "era_count": 11,
         "chapter_count": 45,
-        "part_count": 118,
-        "illustration_count": 140
+        "part_count": 120,
+        "illustration_count": 143
     },
     "eras": [
         {
@@ -2286,15 +2286,15 @@
             "era_num": 10,
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
-            "illustration_count": 10,
-            "word_count": 20492,
+            "illustration_count": 13,
+            "word_count": 25529,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Watching Senator Ward Kill Our Bills Across the Rotunda, The 250-Signature Petition, & Cutting the Ribbon on Route 64 in Maplewood",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition-cutting-the-ribbon-on-route-64-in-maplewood",
-                    "illustration_count": 3,
-                    "word_count": 4609,
+                    "illustration_count": 6,
+                    "word_count": 9646,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2323,21 +2323,67 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Route 64 to Maplewood, Seeing Wesley in Person After Fifteen Years, & The Earned Hug at the Ribbon Cutting",
+                            "part_title": "Part 2: Route 64 to Maplewood, Seeing Wesley in Person After Fifteen Years, The Earned Hug, & Sale Number One in the Store",
                             "file_path": "e010/c001/p002.md",
-                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition-cutting-the-ribbon-on-route-64-in-maplewood/part-2-route-64-to-maplewood-seeing-wesley-in-person-after-fifteen-years-the-earned-hug-at-the-ribbon-cutting",
-                            "word_count": 2185,
-                            "reading_minutes": 9,
+                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition-cutting-the-ribbon-on-route-64-in-maplewood/part-2-route-64-to-maplewood-seeing-wesley-in-person-after-fifteen-years-the-earned-hug-sale-number-one-in-the-store",
+                            "word_count": 2411,
+                            "reading_minutes": 10,
                             "date": "2018-06-16",
                             "start_time": "09:45",
-                            "location": "Maplewood, MN (Twin Cities Transit Route 64 & North Lion Scales & Tails Grand Opening)",
-                            "excerpt": "With Virginia's session adjourned, Katie, Nate, Brittany, and Chelsea ride Route 64 to Maplewood for Wesley's reunion and Nate and Heather's earned hug.",
+                            "location": "Maplewood, MN (Twin Cities Transit Route 64 & North Lion Scales & Tails Public Supply Store)",
+                            "excerpt": "Riding Route 64 to Maplewood, Katie, Nate, Brittany, and Chelsea reunite with Staff Member Wesley, share an earned hug, and shop for Sunny and Pebble.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_ribbon_cutting_earned_hug_nate_heather_wesley.jpg",
                             "image_alt": "Outside the brand-new zero-step brick-and-glass storefront of North Lion Scales & Tails in Maplewood, Minnesota on sunny Saturday morning, June 16, 2018 beneath a forest-green Grand Opening ribbon, thirty-three-year-old Nathaniel Prairie in his black SwiftChair and thirty-three-year-old Heather Lindstrom kneeling at eye level in her matching forest-green North Lion polo shirt, tan khakis, and magnetic name tag share a massive, deeply emotional, earned two-armed hug\u2014watched with pure radiant joy by thirty-one-year-old Staff Member Wesley Collins and Dan Lindstrom in identical forest-green polos, khakis, and name tags alongside Jonas, Nora, and Molly with ribbon-cutting scissors on the right, and Katie, Brittany, and Chelsea hugging plush Shelly Turtle on the left.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_ribbon_cutting_earned_hug_nate_heather_wesley.jpg",
                                     "alt": "Outside the brand-new zero-step brick-and-glass storefront of North Lion Scales & Tails in Maplewood, Minnesota on sunny Saturday morning, June 16, 2018 beneath a forest-green Grand Opening ribbon, thirty-three-year-old Nathaniel Prairie in his black SwiftChair and thirty-three-year-old Heather Lindstrom kneeling at eye level in her matching forest-green North Lion polo shirt, tan khakis, and magnetic name tag share a massive, deeply emotional, earned two-armed hug\u2014watched with pure radiant joy by thirty-one-year-old Staff Member Wesley Collins and Dan Lindstrom in identical forest-green polos, khakis, and name tags alongside Jonas, Nora, and Molly with ribbon-cutting scissors on the right, and Katie, Brittany, and Chelsea hugging plush Shelly Turtle on the left."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_supply_store_turtle_treats_sale_0001.jpg",
+                                    "alt": "Inside the bright, barrier-free public retail supply store of North Lion Scales & Tails in Maplewood, Minnesota on Saturday morning, June 16, 2018, thirty-six-year-old Chelsea hugging plush Shelly Turtle sets a sealed jar of freeze-dried turtle river shrimp, calcium blocks, and a green floating foraging ball onto the lowered thirty-four-inch oak checkout counter while thirty-three-year-old Katie Prairie in her black SwiftChair insists on handing her debit card across to Dan, Heather, and Staff Member Wesley\u2014all three dressed in matching forest-green collared polos, tan khakis, and magnetic name tags\u2014as Molly hands over Zoo Wristband Tickets One through Four beside Nathaniel and Brittany."
+                                }
+                            ],
+                            "image_count": 2
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Thirty-Inch Viewing Glass, Touring the Skylit Reptile Zoo, & Chelsea and Wesley Talking About Wesley's Turtles",
+                            "file_path": "e010/c001/p003.md",
+                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition-cutting-the-ribbon-on-route-64-in-maplewood/part-3-thirty-inch-viewing-glass-touring-the-skylit-reptile-zoo-chelsea-and-wesley-talking-about-wesley-s-turtles",
+                            "word_count": 1820,
+                            "reading_minutes": 8,
+                            "date": "2018-06-16",
+                            "start_time": "10:15",
+                            "location": "Maplewood, MN (North Lion Scales & Tails Skylit Reptile Zoo & Painted-Turtle Lagoon)",
+                            "excerpt": "Behind the Zoo Entrance doors, the family tours thirty-inch wheelchair-height habitats as Staff Member Wesley and Chelsea talk happily about Wesley's turtles.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_zoo_tour_wesley_chelsea_turtle_lagoon.jpg",
+                            "image_alt": "Inside the lush, skylit Reptile Zoo conservatory of North Lion Scales & Tails in Maplewood, Minnesota on Saturday morning, June 16, 2018, thirty-one-year-old Staff Member Wesley Collins in his forest-green collared STAFF polo, tan khakis, and magnetic WESLEY badge stands proudly beside his stainless romaine-prep cart pointing at three painted turtles swimming behind thirty-inch seated wheelchair-height viewing glass while thirty-six-year-old Chelsea hugging plush Shelly Turtle talks excitedly with him\u2014watched warmly by Katie and Nathaniel Prairie hub-to-hub in their black SwiftChairs on the left, Brittany beside them, and Heather, Dan, Jonas, Nora, and Molly on the right.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_zoo_tour_wesley_chelsea_turtle_lagoon.jpg",
+                                    "alt": "Inside the lush, skylit Reptile Zoo conservatory of North Lion Scales & Tails in Maplewood, Minnesota on Saturday morning, June 16, 2018, thirty-one-year-old Staff Member Wesley Collins in his forest-green collared STAFF polo, tan khakis, and magnetic WESLEY badge stands proudly beside his stainless romaine-prep cart pointing at three painted turtles swimming behind thirty-inch seated wheelchair-height viewing glass while thirty-six-year-old Chelsea hugging plush Shelly Turtle talks excitedly with him\u2014watched warmly by Katie and Nathaniel Prairie hub-to-hub in their black SwiftChairs on the left, Brittany beside them, and Heather, Dan, Jonas, Nora, and Molly on the right."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Behind the Education Classroom Door: Fifteen Years Off Our Chests & Cutting the Ribbon on Route 64",
+                            "file_path": "e010/c001/p004.md",
+                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition-cutting-the-ribbon-on-route-64-in-maplewood/part-4-behind-the-education-classroom-door-fifteen-years-off-our-chests-cutting-the-ribbon-on-route-64",
+                            "word_count": 2991,
+                            "reading_minutes": 12,
+                            "date": "2018-06-16",
+                            "start_time": "10:28",
+                            "location": "Maplewood, MN (North Lion Scales & Tails Education Classroom & Route 64 Front Plaza)",
+                            "excerpt": "Alone inside the Education Classroom without Wesley, Nate, Katie, and Heather lay fifteen years of truth on the table before cutting the ribbon outside.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_classroom_fifteen_years_talk_nate_katie_heather.jpg",
+                            "image_alt": "Inside the quiet, sunlit Education Classroom of North Lion Scales & Tails in Maplewood, Minnesota on Saturday morning, June 16, 2018 with the solid oak door closed so Staff Member Wesley remains happily out at the turtle lagoon, thirty-three-year-old Katie Prairie and Nathaniel Prairie sit side by side in their black SwiftChairs holding inner hands across a wheelchair-accessible oak table opposite thirty-three-year-old Heather Lindstrom in her forest-green North Lion polo shirt and magnetic HEATHER badge, reaching hands across the tabletop with cathartic tears, a tissue box, and fifteen years of unspoken truth finally laid to rest.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_classroom_fifteen_years_talk_nate_katie_heather.jpg",
+                                    "alt": "Inside the quiet, sunlit Education Classroom of North Lion Scales & Tails in Maplewood, Minnesota on Saturday morning, June 16, 2018 with the solid oak door closed so Staff Member Wesley remains happily out at the turtle lagoon, thirty-three-year-old Katie Prairie and Nathaniel Prairie sit side by side in their black SwiftChairs holding inner hands across a wheelchair-accessible oak table opposite thirty-three-year-old Heather Lindstrom in her forest-green North Lion polo shirt and magnetic HEATHER badge, reaching hands across the tabletop with cathartic tears, a tissue box, and fifteen years of unspoken truth finally laid to rest."
                                 }
                             ],
                             "image_count": 1
