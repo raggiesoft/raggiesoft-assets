@@ -8,34 +8,34 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "64.6 MB",
-        "pdf": "64.1 MB",
-        "text_epub": "736 KB",
+        "epub": "65.2 MB",
+        "pdf": "64.4 MB",
+        "text_epub": "741 KB",
         "text_pdf": "2 MB",
-        "package_7z": "546 KB",
-        "epub_bytes": 67710111,
-        "pdf_bytes": 67245152,
-        "text_epub_bytes": 753643,
-        "text_pdf_bytes": 2051814,
-        "package_7z_bytes": 559122
+        "package_7z": "550 KB",
+        "epub_bytes": 68388218,
+        "pdf_bytes": 67569859,
+        "text_epub_bytes": 758979,
+        "text_pdf_bytes": 2068394,
+        "package_7z_bytes": 563136
     },
-    "illustration_count": 143,
+    "illustration_count": 145,
     "word_stats": {
-        "story_word_count": 310139,
+        "story_word_count": 312366,
         "lore_word_count": 100572,
-        "combined_word_count": 410711,
-        "story_page_count": 1128,
-        "combined_page_count": 1493,
-        "reading_hours": 20.7,
-        "reading_minutes": 1241,
-        "novel_equivalent": 3.4,
+        "combined_word_count": 412938,
+        "story_page_count": 1136,
+        "combined_page_count": 1502,
+        "reading_hours": 20.8,
+        "reading_minutes": 1249,
+        "novel_equivalent": 3.5,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
-        "benchmark_note": "3.4\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
+        "benchmark_note": "3.5\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
         "era_count": 11,
         "chapter_count": 45,
-        "part_count": 120,
-        "illustration_count": 143
+        "part_count": 121,
+        "illustration_count": 145
     },
     "eras": [
         {
@@ -2286,15 +2286,15 @@
             "era_num": 10,
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
-            "illustration_count": 13,
-            "word_count": 25529,
+            "illustration_count": 15,
+            "word_count": 27756,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Watching Senator Ward Kill Our Bills Across the Rotunda, The 250-Signature Petition, & Cutting the Ribbon on Route 64 in Maplewood",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition-cutting-the-ribbon-on-route-64-in-maplewood",
-                    "illustration_count": 6,
-                    "word_count": 9646,
+                    "illustration_count": 8,
+                    "word_count": 11873,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2326,7 +2326,7 @@
                             "part_title": "Part 2: Route 64 to Maplewood, Seeing Wesley in Person After Fifteen Years, The Earned Hug, & Sale Number One in the Store",
                             "file_path": "e010/c001/p002.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition-cutting-the-ribbon-on-route-64-in-maplewood/part-2-route-64-to-maplewood-seeing-wesley-in-person-after-fifteen-years-the-earned-hug-sale-number-one-in-the-store",
-                            "word_count": 2411,
+                            "word_count": 2434,
                             "reading_minutes": 10,
                             "date": "2018-06-16",
                             "start_time": "09:45",
@@ -2387,6 +2387,31 @@
                                 }
                             ],
                             "image_count": 1
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: Chelsea's Magical First Non-Family Hug, Riding Route 54 to Terminal 2, & A Three-Way Hug Outside TSA",
+                            "file_path": "e010/c001/p005.md",
+                            "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-the-250-signature-petition-cutting-the-ribbon-on-route-64-in-maplewood/part-5-chelsea-s-magical-first-non-family-hug-riding-route-54-to-terminal-2-a-three-way-hug-outside-tsa",
+                            "word_count": 2204,
+                            "reading_minutes": 9,
+                            "date": "2018-06-16",
+                            "start_time": "15:15",
+                            "location": "Maplewood & Minneapolis\u2013Saint Paul, MN (North Lion Scales & Tails Plaza, TCT Route 54, & MSP Terminal 2 TSA Checkpoint)",
+                            "excerpt": "Chelsea hugs someone outside her family for the first time, Heather and Wesley ride to MSP, and Katie surprises everyone with a three-way hug at TSA.",
+                            "image": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_msp_airport_tsa_three_way_hug_katie_nate_heather_wesley_chelsea.jpg",
+                            "image_alt": "Inside the sunlit public departure concourse right outside the Security Checkpoint stanchions at Minneapolis\u2013Saint Paul Airport Terminal 2 on Saturday late afternoon, June 16, 2018, thirty-three-year-old Katie Prairie and Nathaniel Prairie parked hub-to-hub in their black SwiftChairs and kneeling thirty-three-year-old Heather Lindstrom in her forest-green North Lion polo shirt and magnetic HEATHER badge share an emotional, unprecedented three-way hug on the left while thirty-one-year-old Staff Member Wesley Collins and thirty-six-year-old Chelsea with plush Shelly Turtle and her green treat bag hug goodbye one last time beside Brittany on the right.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_msp_airport_tsa_three_way_hug_katie_nate_heather_wesley_chelsea.jpg",
+                                    "alt": "Inside the sunlit public departure concourse right outside the Security Checkpoint stanchions at Minneapolis\u2013Saint Paul Airport Terminal 2 on Saturday late afternoon, June 16, 2018, thirty-three-year-old Katie Prairie and Nathaniel Prairie parked hub-to-hub in their black SwiftChairs and kneeling thirty-three-year-old Heather Lindstrom in her forest-green North Lion polo shirt and magnetic HEATHER badge share an emotional, unprecedented three-way hug on the left while thirty-one-year-old Staff Member Wesley Collins and thirty-six-year-old Chelsea with plush Shelly Turtle and her green treat bag hug goodbye one last time beside Brittany on the right."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_farewell_chelsea_wesley_magical_first_hug.jpg",
+                                    "alt": "On the sunlit Saturday afternoon sidewalk plaza outside the red-brick-and-glass storefront of North Lion Scales & Tails in Maplewood, Minnesota on June 16, 2018 with the cut green Grand Opening ribbon halves tied to brass stanchions, thirty-six-year-old Chelsea in her lavender fleece set with plush Shelly Turtle tucked under one elbow wraps both arms warmly around thirty-one-year-old Staff Member Wesley Collins in his forest-green STAFF polo, tan khakis, and magnetic WESLEY badge\u2014hugging someone outside her own family for the very first time in her life as Brittany covers her mouth in happy tears beside Katie and Nathaniel in their black SwiftChairs, and Heather, Dan, Jonas, Nora, and Molly smile warmly from the storefront."
+                                }
+                            ],
+                            "image_count": 2
                         }
                     ]
                 },
