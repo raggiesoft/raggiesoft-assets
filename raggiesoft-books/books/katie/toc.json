@@ -13,17 +13,17 @@
         "text_epub": "788 KB",
         "text_pdf": "2.1 MB",
         "package_7z": "595 KB",
-        "epub_bytes": 72412935,
-        "pdf_bytes": 70126007,
-        "text_epub_bytes": 806814,
-        "text_pdf_bytes": 2200815,
-        "package_7z_bytes": 609504
+        "epub_bytes": 72407090,
+        "pdf_bytes": 70157733,
+        "text_epub_bytes": 806745,
+        "text_pdf_bytes": 2200611,
+        "package_7z_bytes": 609539
     },
     "illustration_count": 154,
     "word_stats": {
-        "story_word_count": 330909,
+        "story_word_count": 330897,
         "lore_word_count": 108454,
-        "combined_word_count": 439363,
+        "combined_word_count": 439351,
         "story_page_count": 1203,
         "combined_page_count": 1598,
         "reading_hours": 22.1,
@@ -53,7 +53,7 @@
             "part_count": 30,
             "backstage_count": 7,
             "stop_count": 37,
-            "word_count": 73970,
+            "word_count": 73958,
             "reading_minutes": 296,
             "reading_hours": 4.9,
             "stops": [
@@ -738,7 +738,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/apr_2032_arvin_road_brittany_1991_truck_streamtube_wheelchair_garage.jpg",
                     "url": "/katie/the-senator-from-virginia/the-supported-companions-act-three-mirrored-in-law-suites-brittany-s-1991-crew-cab/part-4-passing-the-torch-for-chelsea-four-gears-uncle-david-taught-her-brittany-s-truck-videos-on-streamtube-and-the-grid",
                     "arc_url": "/katie/the-senator-from-virginia/the-supported-companions-act-three-mirrored-in-law-suites-brittany-s-1991-crew-cab/part-4-passing-the-torch-for-chelsea-four-gears-uncle-david-taught-her-brittany-s-truck-videos-on-streamtube-and-the-grid?arc=heather-wesley-and-north-lion",
-                    "word_count": 1960,
+                    "word_count": 1948,
                     "reading_minutes": 8
                 },
                 {
@@ -1575,7 +1575,7 @@
             "part_count": 14,
             "backstage_count": 2,
             "stop_count": 16,
-            "word_count": 40934,
+            "word_count": 40922,
             "reading_minutes": 164,
             "reading_hours": 2.7,
             "stops": [
@@ -1880,7 +1880,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/apr_2032_arvin_road_brittany_1991_truck_streamtube_wheelchair_garage.jpg",
                     "url": "/katie/the-senator-from-virginia/the-supported-companions-act-three-mirrored-in-law-suites-brittany-s-1991-crew-cab/part-4-passing-the-torch-for-chelsea-four-gears-uncle-david-taught-her-brittany-s-truck-videos-on-streamtube-and-the-grid",
                     "arc_url": "/katie/the-senator-from-virginia/the-supported-companions-act-three-mirrored-in-law-suites-brittany-s-1991-crew-cab/part-4-passing-the-torch-for-chelsea-four-gears-uncle-david-taught-her-brittany-s-truck-videos-on-streamtube-and-the-grid?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 1960,
+                    "word_count": 1948,
                     "reading_minutes": 8
                 }
             ]
@@ -4929,7 +4929,7 @@
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 40,
-            "word_count": 86265,
+            "word_count": 86253,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -5452,7 +5452,7 @@
                     "chap_title": "The Supported Companions Act, Three Mirrored In-Law Suites, & Brittany's 1991 Crew Cab",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/the-supported-companions-act-three-mirrored-in-law-suites-brittany-s-1991-crew-cab",
                     "illustration_count": 4,
-                    "word_count": 6800,
+                    "word_count": 6788,
                     "parts": [
                         {
                             "part_num": 1,
@@ -5531,18 +5531,18 @@
                             "part_title": "Part 4: Passing the Torch for Chelsea, Four Gears Uncle David Taught Her, & Brittany's Truck Videos on StreamTube and The Grid",
                             "file_path": "e011/c007/p004.md",
                             "url": "/katie/the-senator-from-virginia/the-supported-companions-act-three-mirrored-in-law-suites-brittany-s-1991-crew-cab/part-4-passing-the-torch-for-chelsea-four-gears-uncle-david-taught-her-brittany-s-truck-videos-on-streamtube-and-the-grid",
-                            "word_count": 1960,
+                            "word_count": 1948,
                             "reading_minutes": 8,
                             "date": "2032-04-17",
                             "start_time": "09:30",
                             "location": "Virginia Beach, VA (Driveway of 737 Arvin Road)",
                             "excerpt": "Having succeeded aging Uncle David as Chelsea's legal guardian and conservator and inherited his 1991 four-speed Crew Cab 4x4 as the sole licensed driver in the family, Brittany launches a warm StreamTube and Grid series sharing how she maintains the truck and its wheelchair modifications.",
                             "image": "/raggiesoft-books/images/scenes/katie/b006/apr_2032_arvin_road_brittany_1991_truck_streamtube_wheelchair_garage.jpg",
-                            "image_alt": "In the sunlit concrete driveway of 737 Arvin Road in Virginia Beach on Saturday morning, April 17, 2032, forty-seven-year-old Brittany Fletcher in her thin silver wire-rimmed oval glasses, rolled-up denim work shirt over a burgundy tee, and blue jeans stands smiling warmly behind the open rear glass hatch and lowered tailgate of Uncle David's gleaming Dark Midnight Blue and Ultra Silver Deluxe Two-Tone 1991 Crestline Garrison 350 four-door Crew Cab 4x4 pickup with its color-matched Midnight Blue fiberglass camper shell, operating the corded 12-volt bed hoist to demonstrate how an unoccupied SwiftChair locks onto the four-point bed securement tracks for a StreamTube and The Grid video filmed by Nathaniel from his SwiftChair beside Katie, Chelsea holding Shelly Turtle, and Wesley wearing his blue silicone ring.",
+                            "image_alt": "In the sunlit concrete driveway of 737 Arvin Road in Virginia Beach on Saturday morning, April 17, 2032, forty-seven-year-old Brittany Fletcher\u2014wearing her thin silver wire-rimmed oval glasses, rolled-up denim work shirt over a burgundy tee, and blue jeans with a red shop rag\u2014stands smiling warmly behind the raised glass hatch and lowered tailgate of Uncle David's gleaming Dark Midnight Blue and Ultra Silver Deluxe Two-Tone 1991 Crestline Garrison 350 four-door Crew Cab 4x4 pickup, operating the corded pendant to swing out the empty 12-volt steel bed hoist above the four-point securement tracks inside the empty pickup bed for a StreamTube and The Grid video while Nathaniel and Katie sit side by side holding hands in their two SwiftChairs on the driveway behind Nate's tripod beside Chelsea holding Shelly Turtle and Wesley wearing his blue silicone ring.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b006/apr_2032_arvin_road_brittany_1991_truck_streamtube_wheelchair_garage.jpg",
-                                    "alt": "In the sunlit concrete driveway of 737 Arvin Road in Virginia Beach on Saturday morning, April 17, 2032, forty-seven-year-old Brittany Fletcher in her thin silver wire-rimmed oval glasses, rolled-up denim work shirt over a burgundy tee, and blue jeans stands smiling warmly behind the open rear glass hatch and lowered tailgate of Uncle David's gleaming Dark Midnight Blue and Ultra Silver Deluxe Two-Tone 1991 Crestline Garrison 350 four-door Crew Cab 4x4 pickup with its color-matched Midnight Blue fiberglass camper shell, operating the corded 12-volt bed hoist to demonstrate how an unoccupied SwiftChair locks onto the four-point bed securement tracks for a StreamTube and The Grid video filmed by Nathaniel from his SwiftChair beside Katie, Chelsea holding Shelly Turtle, and Wesley wearing his blue silicone ring."
+                                    "alt": "In the sunlit concrete driveway of 737 Arvin Road in Virginia Beach on Saturday morning, April 17, 2032, forty-seven-year-old Brittany Fletcher\u2014wearing her thin silver wire-rimmed oval glasses, rolled-up denim work shirt over a burgundy tee, and blue jeans with a red shop rag\u2014stands smiling warmly behind the raised glass hatch and lowered tailgate of Uncle David's gleaming Dark Midnight Blue and Ultra Silver Deluxe Two-Tone 1991 Crestline Garrison 350 four-door Crew Cab 4x4 pickup, operating the corded pendant to swing out the empty 12-volt steel bed hoist above the four-point securement tracks inside the empty pickup bed for a StreamTube and The Grid video while Nathaniel and Katie sit side by side holding hands in their two SwiftChairs on the driveway behind Nate's tripod beside Chelsea holding Shelly Turtle and Wesley wearing his blue silicone ring."
                                 }
                             ],
                             "image_count": 1
