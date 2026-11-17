@@ -18,7 +18,7 @@
             "pdf_bytes": 2175257,
             "text_epub_bytes": 85320,
             "text_pdf_bytes": 277257,
-            "package_7z_bytes": 68623
+            "package_7z_bytes": 68628
         },
         "illustration_count": 13,
         "story_arc_count": 0,
@@ -61,7 +61,7 @@
             "pdf_bytes": 858237,
             "text_epub_bytes": 301711,
             "text_pdf_bytes": 858237,
-            "package_7z_bytes": 228984
+            "package_7z_bytes": 228987
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -104,7 +104,7 @@
             "pdf_bytes": 1801709,
             "text_epub_bytes": 673136,
             "text_pdf_bytes": 1801709,
-            "package_7z_bytes": 463357
+            "package_7z_bytes": 463354
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -147,7 +147,7 @@
             "pdf_bytes": 1764104,
             "text_epub_bytes": 608772,
             "text_pdf_bytes": 1764104,
-            "package_7z_bytes": 426544
+            "package_7z_bytes": 426547
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -190,7 +190,7 @@
             "pdf_bytes": 241676,
             "text_epub_bytes": 84495,
             "text_pdf_bytes": 241676,
-            "package_7z_bytes": 68213
+            "package_7z_bytes": 68212
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -233,7 +233,7 @@
             "pdf_bytes": 56110642,
             "text_epub_bytes": 1030010,
             "text_pdf_bytes": 3873509,
-            "package_7z_bytes": 738118
+            "package_7z_bytes": 738109
         },
         "illustration_count": 72,
         "story_arc_count": 2,
@@ -356,7 +356,7 @@
             "pdf_bytes": 235362,
             "text_epub_bytes": 85613,
             "text_pdf_bytes": 235362,
-            "package_7z_bytes": 63769
+            "package_7z_bytes": 63776
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -399,7 +399,7 @@
             "pdf_bytes": 21143357,
             "text_epub_bytes": 55576,
             "text_pdf_bytes": 168226,
-            "package_7z_bytes": 45148
+            "package_7z_bytes": 45146
         },
         "illustration_count": 9,
         "story_arc_count": 0,
@@ -442,7 +442,7 @@
             "pdf_bytes": 206039,
             "text_epub_bytes": 74019,
             "text_pdf_bytes": 206039,
-            "package_7z_bytes": 57792
+            "package_7z_bytes": 57788
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -485,7 +485,7 @@
             "pdf_bytes": 73850,
             "text_epub_bytes": 20317,
             "text_pdf_bytes": 73850,
-            "package_7z_bytes": 15372
+            "package_7z_bytes": 15377
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -528,7 +528,7 @@
             "pdf_bytes": 16540,
             "text_epub_bytes": 8788,
             "text_pdf_bytes": 16540,
-            "package_7z_bytes": 2030
+            "package_7z_bytes": 2028
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -676,7 +676,7 @@
             "pdf_bytes": 482428,
             "text_epub_bytes": 169681,
             "text_pdf_bytes": 482428,
-            "package_7z_bytes": 126129
+            "package_7z_bytes": 126127
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -710,18 +710,18 @@
         "folder": "katie",
         "hide": false,
         "ebook_sizes": {
-            "epub": "68.2 MB",
-            "pdf": "65.7 MB",
-            "text_epub": "783 KB",
+            "epub": "69.1 MB",
+            "pdf": "66.9 MB",
+            "text_epub": "788 KB",
             "text_pdf": "2.1 MB",
-            "package_7z": "592 KB",
-            "epub_bytes": 71479843,
-            "pdf_bytes": 68891769,
-            "text_epub_bytes": 801756,
-            "text_pdf_bytes": 2188064,
-            "package_7z_bytes": 605714
+            "package_7z": "595 KB",
+            "epub_bytes": 72412935,
+            "pdf_bytes": 70126007,
+            "text_epub_bytes": 806814,
+            "text_pdf_bytes": 2200815,
+            "package_7z_bytes": 609504
         },
-        "illustration_count": 153,
+        "illustration_count": 154,
         "story_arc_count": 4,
         "story_arcs": [
             {
@@ -731,16 +731,16 @@
                 "backstage_playlist_slug": "katie-heather-wesley-and-north-lion",
                 "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/katie-heather-wesley-and-north-lion/",
                 "title": "From Northwood High to North Lion: Heather, Wesley & Chelsea",
-                "subtitle": "2001\u20132028 \u2022 Teenage Heartbreak, Ten Years Behind the Lens, Two Special Friends & The Restored Rose Garden",
-                "description": "Follow Heather Collins from Nate's high school girlfriend at Emerald Creek Mall and Wesley's January 2003 blowout through ten years building North Lion Scales & Tails in Minnesota, Wesley and Chelsea's deep-pressure bond, and Senator Katie Prairie's 2028 landmark disability reform law.",
+                "subtitle": "2001\u20132032 \u2022 Teenage Heartbreak, Ten Years Behind the Lens, Three Mirrored Suites & Keeping the Promise Rolling",
+                "description": "Follow Heather Collins from Nate's high school girlfriend at Emerald Creek Mall and Wesley's January 2003 blowout through ten years building North Lion Scales & Tails in Minnesota, Senator Katie Prairie's 2028 landmark disability reform law, and Wesley and Chelsea's three mirrored ground-floor in-law suites.",
                 "image": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_ribbon_cutting_earned_hug_nate_heather_wesley.jpg",
                 "start_url": "/katie/sixteen-summer-sanctuary/sixteen-on-four-wheels-finding-dates/part-1-navigating-northwood-high-on-four-wheels-two-first-dates-why-we-ride-on-saturday?arc=heather-wesley-and-north-lion",
-                "part_count": 29,
+                "part_count": 30,
                 "backstage_count": 7,
-                "stop_count": 36,
-                "word_count": 72010,
-                "reading_minutes": 289,
-                "reading_hours": 4.8
+                "stop_count": 37,
+                "word_count": 73970,
+                "reading_minutes": 296,
+                "reading_hours": 4.9
             },
             {
                 "slug": "katie-political-career",
@@ -756,7 +756,7 @@
                 "part_count": 36,
                 "backstage_count": 5,
                 "stop_count": 41,
-                "word_count": 118523,
+                "word_count": 118563,
                 "reading_minutes": 475,
                 "reading_hours": 7.9
             },
@@ -766,17 +766,17 @@
                 "series_title": "Katie & Nathaniel",
                 "backstage_playlist_slug": "katie-brittany-chelsea-and-the-four-person-sanctuary",
                 "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/katie-brittany-chelsea-and-the-four-person-sanctuary/",
-                "title": "Rescuing Our Cousins & Leaving the Closet Behind: Brittany & Chelsea",
-                "subtitle": "2002\u20132017 \u2022 Holding the Elevator, Braxton Probate Court & The Four-Person Oak Nest",
-                "description": "From Tonomy Hill in 2004 and thirteen years sleeping inside dark closets to rescuing Brittany at a South Richmond church, freeing Chelsea from Mount Regalis in probate court, and finally sleeping out in the open together.",
+                "title": "Rescuing Our Cousins & Passing the Torch: Brittany & Chelsea",
+                "subtitle": "2002\u20132032 \u2022 Holding the Elevator, Braxton Probate Court, Three Mirrored Suites & Brittany's 1991 Crew Cab",
+                "description": "From Tonomy Hill in 2004 and thirteen years sleeping inside dark closets to rescuing Brittany at a South Richmond church, freeing Chelsea from Mount Regalis, unveiling Wesley and Chelsea's three mirrored in-law suites, and Brittany succeeding Uncle David as Chelsea's guardian and inheriting his 1991 four-speed pickup.",
                 "image": "/raggiesoft-books/images/scenes/katie/b005/jul_2016_kings_college_royal_gate_court_order_chelsea_rescue_family.jpg",
                 "start_url": "/katie/seventeen-senior-year-greenway-court/drunken-new-year/part-1-the-gas-station-run-a-box-of-dry-cereal-why-i-never-had-a-twenty-first-birthday-drink?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                "part_count": 12,
+                "part_count": 14,
                 "backstage_count": 2,
-                "stop_count": 14,
-                "word_count": 37880,
-                "reading_minutes": 152,
-                "reading_hours": 2.5
+                "stop_count": 16,
+                "word_count": 40934,
+                "reading_minutes": 164,
+                "reading_hours": 2.7
             },
             {
                 "slug": "fishersville-twelve-days-and-twenty-years",
@@ -798,21 +798,21 @@
             }
         ],
         "word_stats": {
-            "story_word_count": 328909,
-            "lore_word_count": 108022,
-            "combined_word_count": 436931,
-            "story_page_count": 1196,
-            "combined_page_count": 1589,
-            "reading_hours": 21.9,
-            "reading_minutes": 1316,
+            "story_word_count": 330909,
+            "lore_word_count": 108454,
+            "combined_word_count": 439363,
+            "story_page_count": 1203,
+            "combined_page_count": 1598,
+            "reading_hours": 22.1,
+            "reading_minutes": 1324,
             "novel_equivalent": 3.7,
             "scale_category": "Multi-Volume Epic Omnibus",
             "scale_badge": "Multi-Volume Omnibus",
             "benchmark_note": "3.7\u00d7 a standard 90,000-word contemporary novel (~4-volume print series)",
             "era_count": 11,
             "chapter_count": 47,
-            "part_count": 130,
-            "illustration_count": 153,
+            "part_count": 131,
+            "illustration_count": 154,
             "story_arc_count": 4
         }
     },
@@ -835,7 +835,7 @@
             "pdf_bytes": 12179754,
             "text_epub_bytes": 795858,
             "text_pdf_bytes": 2373092,
-            "package_7z_bytes": 569243
+            "package_7z_bytes": 569246
         },
         "illustration_count": 3,
         "story_arc_count": 0,
@@ -921,7 +921,7 @@
             "pdf_bytes": 121729,
             "text_epub_bytes": 41112,
             "text_pdf_bytes": 121729,
-            "package_7z_bytes": 32517
+            "package_7z_bytes": 32516
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -964,7 +964,7 @@
             "pdf_bytes": 202768,
             "text_epub_bytes": 70990,
             "text_pdf_bytes": 202768,
-            "package_7z_bytes": 53986
+            "package_7z_bytes": 53990
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1007,7 +1007,7 @@
             "pdf_bytes": 1272780,
             "text_epub_bytes": 454748,
             "text_pdf_bytes": 1272780,
-            "package_7z_bytes": 328028
+            "package_7z_bytes": 328021
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1050,7 +1050,7 @@
             "pdf_bytes": 1475296,
             "text_epub_bytes": 510178,
             "text_pdf_bytes": 1475296,
-            "package_7z_bytes": 371763
+            "package_7z_bytes": 371771
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1093,7 +1093,7 @@
             "pdf_bytes": 415749,
             "text_epub_bytes": 155170,
             "text_pdf_bytes": 415749,
-            "package_7z_bytes": 112025
+            "package_7z_bytes": 112033
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1136,7 +1136,7 @@
             "pdf_bytes": 259351,
             "text_epub_bytes": 87849,
             "text_pdf_bytes": 259351,
-            "package_7z_bytes": 70798
+            "package_7z_bytes": 70797
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1179,7 +1179,7 @@
             "pdf_bytes": 5514555,
             "text_epub_bytes": 79111,
             "text_pdf_bytes": 5514555,
-            "package_7z_bytes": 60965
+            "package_7z_bytes": 60970
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1222,7 +1222,7 @@
             "pdf_bytes": 5058155,
             "text_epub_bytes": 407438,
             "text_pdf_bytes": 1263033,
-            "package_7z_bytes": 304846
+            "package_7z_bytes": 304853
         },
         "illustration_count": 10,
         "story_arc_count": 2,
@@ -1302,7 +1302,7 @@
             "pdf_bytes": 84152358,
             "text_epub_bytes": 1167211,
             "text_pdf_bytes": 3253711,
-            "package_7z_bytes": 810591
+            "package_7z_bytes": 810598
         },
         "illustration_count": 131,
         "story_arc_count": 2,
@@ -1382,7 +1382,7 @@
             "pdf_bytes": 663054,
             "text_epub_bytes": 237599,
             "text_pdf_bytes": 663054,
-            "package_7z_bytes": 172135
+            "package_7z_bytes": 172134
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1425,7 +1425,7 @@
             "pdf_bytes": 41824,
             "text_epub_bytes": 14621,
             "text_pdf_bytes": 41824,
-            "package_7z_bytes": 35550
+            "package_7z_bytes": 35554
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1468,7 +1468,7 @@
             "pdf_bytes": 194536,
             "text_epub_bytes": 66662,
             "text_pdf_bytes": 194536,
-            "package_7z_bytes": 50608
+            "package_7z_bytes": 50604
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1506,12 +1506,12 @@
             "pdf": "18.8 MB",
             "text_epub": "185 KB",
             "text_pdf": "561 KB",
-            "package_7z": "142 KB",
+            "package_7z": "141 KB",
             "epub_bytes": 17922538,
             "pdf_bytes": 19691323,
             "text_epub_bytes": 189100,
             "text_pdf_bytes": 573976,
-            "package_7z_bytes": 144903
+            "package_7z_bytes": 144894
         },
         "illustration_count": 25,
         "story_arc_count": 2,
@@ -1586,12 +1586,12 @@
             "pdf": "3.2 KB",
             "text_epub": "5.3 KB",
             "text_pdf": "3.2 KB",
-            "package_7z": "938 B",
+            "package_7z": "937 B",
             "epub_bytes": 5409,
             "pdf_bytes": 3262,
             "text_epub_bytes": 5410,
             "text_pdf_bytes": 3262,
-            "package_7z_bytes": 938
+            "package_7z_bytes": 937
         },
         "illustration_count": 0,
         "story_arc_count": 0,
