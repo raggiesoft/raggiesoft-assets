@@ -42,8 +42,10 @@
                 { "part": "e011/c007/p001.md" },
                 { "part": "e011/c007/p002.md" },
                 { "part": "e011/c007/p003.md" },
-                { "part": "e011/c007/p004.md" },
-                { "backstage": "books/katie/what-if-wesley-and-chelsea-two-in-law-suites" }
+                { "backstage": "books/katie/what-if-wesley-and-chelsea-two-in-law-suites" },
+                { "part": "e011/c008/p001.md" },
+                { "part": "e011/c008/p002.md" },
+                { "part": "e011/c008/p003.md" }
             ]
         },
         {
@@ -90,17 +92,19 @@
                 { "part": "e011/c007/p003.md" },
                 { "part": "e011/c008/p001.md" },
                 { "part": "e011/c008/p002.md" },
-                { "part": "e011/c008/p003.md" },
-                { "part": "e011/c008/p004.md" },
-                { "part": "e011/c008/p005.md" },
+                { "part": "e011/c009/p001.md" },
+                { "part": "e011/c009/p002.md" },
+                { "part": "e011/c009/p003.md" },
+                { "part": "e011/c009/p004.md" },
+                { "part": "e011/c009/p005.md" },
                 { "backstage": "books/katie/brenda-walsh-suite-756-and-the-2044-route-15-primary" }
             ]
         },
         {
             "slug": "brittany-chelsea-and-the-four-person-sanctuary",
             "title": "Rescuing Our Cousins & Passing the Torch: Brittany & Chelsea",
-            "subtitle": "2002–2032 • Holding the Elevator, Braxton Probate Court, Three Mirrored Suites & Brittany's 1991 Crew Cab",
-            "description": "From Tonomy Hill in 2004 and thirteen years sleeping inside dark closets to rescuing Brittany at a South Richmond church, freeing Chelsea from Mount Regalis, unveiling Wesley and Chelsea's three mirrored in-law suites, and Brittany succeeding Uncle David as Chelsea's guardian and inheriting his 1991 four-speed pickup.",
+            "subtitle": "2002–2032 • Holding the Elevator, Braxton Probate Court, Saying Goodbye to Dad & Brittany's 1991 Crew Cab",
+            "description": "From Tonomy Hill in 2004 and thirteen years sleeping inside dark closets to rescuing Brittany at a South Richmond church, freeing Chelsea from Mount Regalis, unveiling Wesley and Chelsea's three mirrored in-law suites, saying goodbye to Uncle Richard and Dad, and Brittany succeeding Uncle David as Chelsea's guardian and inheriting his 1991 four-speed pickup.",
             "image": "/raggiesoft-books/images/scenes/katie/b005/jul_2016_kings_college_royal_gate_court_order_chelsea_rescue_family.jpg",
             "stops": [
                 { "part": "e004/c002/p001.md" },
@@ -118,7 +122,9 @@
                 { "part": "e009/c004/p007.md" },
                 { "part": "e009/c004/p008.md" },
                 { "part": "e011/c007/p003.md" },
-                { "part": "e011/c007/p004.md" }
+                { "part": "e011/c008/p001.md" },
+                { "part": "e011/c008/p002.md" },
+                { "part": "e011/c008/p003.md" }
             ]
         },
         {
