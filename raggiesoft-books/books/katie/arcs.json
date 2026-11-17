@@ -3,8 +3,8 @@
         {
             "slug": "heather-wesley-and-north-lion",
             "title": "From Northwood High to North Lion: Heather, Wesley & Chelsea",
-            "subtitle": "2001–2018 • Teenage Heartbreak, Ten Years Behind the Lens & Two Special Friends",
-            "description": "Follow Heather Collins from Nate's high school girlfriend at Emerald Creek Mall and Tyler's senior-year lie through ten years building North Lion Scales & Tails in Minnesota, the Maplewood zoo reunion, and Wesley and Chelsea's deep-pressure bond.",
+            "subtitle": "2001–2028 • Teenage Heartbreak, Ten Years Behind the Lens, Two Special Friends & The Restored Rose Garden",
+            "description": "Follow Heather Collins from Nate's high school girlfriend at Emerald Creek Mall and Wesley's January 2003 blowout through ten years building North Lion Scales & Tails in Minnesota, Wesley and Chelsea's deep-pressure bond, and Senator Katie Prairie's 2028 landmark disability reform law.",
             "image": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_ribbon_cutting_earned_hug_nate_heather_wesley.jpg",
             "stops": [
                 { "part": "e003/c004/p001.md" },
@@ -14,6 +14,7 @@
                 { "part": "e004/c001/p002.md" },
                 { "part": "e004/c001/p003.md" },
                 { "part": "e004/c002/p002.md" },
+                { "backstage": "books/katie/wesley-blowout-at-heather-losing-his-friend-nate" },
                 { "part": "e004/c002/p003.md" },
                 { "backstage": "books/katie/room-204-unhandled-exception-and-tylers-cousin-lie" },
                 { "part": "e004/c002/p004.md" },
@@ -36,7 +37,10 @@
                 { "part": "e010/c001/p006.md" },
                 { "part": "e010/c002/p001.md" },
                 { "part": "e010/c002/p002.md" },
-                { "part": "e010/c002/p003.md" }
+                { "part": "e010/c002/p003.md" },
+                { "part": "e011/c007/p001.md" },
+                { "part": "e011/c007/p002.md" },
+                { "backstage": "books/katie/what-if-wesley-and-chelsea-two-in-law-suites" }
             ]
         },
         {
@@ -78,9 +82,11 @@
                 { "part": "e011/c006/p001.md" },
                 { "part": "e011/c007/p001.md" },
                 { "part": "e011/c007/p002.md" },
-                { "part": "e011/c007/p003.md" },
-                { "part": "e011/c007/p004.md" },
-                { "part": "e011/c007/p005.md" },
+                { "part": "e011/c008/p001.md" },
+                { "part": "e011/c008/p002.md" },
+                { "part": "e011/c008/p003.md" },
+                { "part": "e011/c008/p004.md" },
+                { "part": "e011/c008/p005.md" },
                 { "backstage": "books/katie/brenda-walsh-suite-756-and-the-2044-route-15-primary" }
             ]
         },

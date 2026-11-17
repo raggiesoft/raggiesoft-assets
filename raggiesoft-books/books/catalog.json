@@ -18,7 +18,7 @@
             "pdf_bytes": 2175257,
             "text_epub_bytes": 85320,
             "text_pdf_bytes": 277257,
-            "package_7z_bytes": 68632
+            "package_7z_bytes": 68624
         },
         "illustration_count": 13,
         "story_arc_count": 0,
@@ -61,7 +61,7 @@
             "pdf_bytes": 858237,
             "text_epub_bytes": 301711,
             "text_pdf_bytes": 858237,
-            "package_7z_bytes": 228987
+            "package_7z_bytes": 228988
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -104,7 +104,7 @@
             "pdf_bytes": 1801709,
             "text_epub_bytes": 673136,
             "text_pdf_bytes": 1801709,
-            "package_7z_bytes": 463357
+            "package_7z_bytes": 463353
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -147,7 +147,7 @@
             "pdf_bytes": 1764104,
             "text_epub_bytes": 608772,
             "text_pdf_bytes": 1764104,
-            "package_7z_bytes": 426540
+            "package_7z_bytes": 426538
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -190,7 +190,7 @@
             "pdf_bytes": 241676,
             "text_epub_bytes": 84495,
             "text_pdf_bytes": 241676,
-            "package_7z_bytes": 68219
+            "package_7z_bytes": 68212
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -233,7 +233,7 @@
             "pdf_bytes": 56110642,
             "text_epub_bytes": 1030010,
             "text_pdf_bytes": 3873509,
-            "package_7z_bytes": 738111
+            "package_7z_bytes": 738117
         },
         "illustration_count": 72,
         "story_arc_count": 2,
@@ -356,7 +356,7 @@
             "pdf_bytes": 235362,
             "text_epub_bytes": 85613,
             "text_pdf_bytes": 235362,
-            "package_7z_bytes": 63776
+            "package_7z_bytes": 63770
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -399,7 +399,7 @@
             "pdf_bytes": 21143357,
             "text_epub_bytes": 55576,
             "text_pdf_bytes": 168226,
-            "package_7z_bytes": 45152
+            "package_7z_bytes": 45146
         },
         "illustration_count": 9,
         "story_arc_count": 0,
@@ -442,7 +442,7 @@
             "pdf_bytes": 206039,
             "text_epub_bytes": 74019,
             "text_pdf_bytes": 206039,
-            "package_7z_bytes": 57793
+            "package_7z_bytes": 57795
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -485,7 +485,7 @@
             "pdf_bytes": 73850,
             "text_epub_bytes": 20317,
             "text_pdf_bytes": 73850,
-            "package_7z_bytes": 15373
+            "package_7z_bytes": 15371
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -528,7 +528,7 @@
             "pdf_bytes": 16540,
             "text_epub_bytes": 8788,
             "text_pdf_bytes": 16540,
-            "package_7z_bytes": 2033
+            "package_7z_bytes": 2022
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -553,6 +553,68 @@
         }
     },
     {
+        "slug": "heather",
+        "title": "The Story of Heather Lindstrom",
+        "short_description": "Scales, Tails, and Safe People \u2014 From a panicked seventeen-year-old mistake at Northwood High and her non-verbal cousin Wesley's heartbreak to raising disabled twins Jonas and Nora and building North Lion Scales & Tails in Maplewood, Minnesota.",
+        "description": "The Story of Heather Lindstrom: Scales, Tails, and Safe People follows Heather Lindstrom (n\u00e9e Collins) from Chesapeake and Virginia Beach to Maplewood, Minnesota. When seventeen-year-old Heather panics over a classmate's malicious rumor in January 2003 and ends her relationship with sixteen-year-old Nathaniel Prairie without letting him speak, her fifteen-year-old non-verbal cousin Wesley erupts in furious, terrified heartbreak at losing his very first guy friend. Stepping up at nineteen as Wesley's legal guardian, marrying wildlife biologist Dan Lindstrom, raising severely disabled fraternal twins Jonas and Nora alongside fiercely protective younger daughter Molly, and spending ten quiet years behind the camera lens before opening the barrier-free North Lion Scales & Tails Reptile Zoo, Heather learns what it truly takes to become a safe person.",
+        "image": "/raggiesoft-books/images/covers/2x3/heather.jpg",
+        "first_route": "/raggiesoft-books/books/heather/scales-tails-and-safe-people/saturday-pretzel-day-the-empty-shelf-the-boy-without-a-phone-bridge/part-1-the-empty-pretzel-table-the-oak-frame-off-the-shelf-why-wesley-blew-up",
+        "folder": "heather",
+        "hide": false,
+        "ebook_sizes": {
+            "epub": "716 KB",
+            "pdf": "767 KB",
+            "text_epub": "14 KB",
+            "text_pdf": "44 KB",
+            "package_7z": "13 KB",
+            "epub_bytes": 733635,
+            "pdf_bytes": 784967,
+            "text_epub_bytes": 14622,
+            "text_pdf_bytes": 45072,
+            "package_7z_bytes": 13155
+        },
+        "illustration_count": 2,
+        "story_arc_count": 1,
+        "story_arcs": [
+            {
+                "slug": "scales-tails-and-safe-people",
+                "series_slug": "heather",
+                "series_title": "The Story of Heather Lindstrom",
+                "backstage_playlist_slug": "heather-scales-tails-and-safe-people",
+                "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/heather-scales-tails-and-safe-people/",
+                "title": "Scales, Tails, and Safe People: Heather, Wesley & The Road to North Lion",
+                "subtitle": "2003\u20132028 \u2022 Wesley's Chesapeake Blowout, Ten Years Behind the Lens & Two Shared Families",
+                "description": "Experience Heather Lindstrom's story alongside her non-verbal cousin Wesley\u2014from the Saturday morning Wesley blew up over losing his first guy buddy Nate through building North Lion Scales & Tails in Maplewood and standing together in the restored White House Rose Garden.",
+                "image": "/raggiesoft-books/images/scenes/heather/e001/jan_2003_chesapeake_living_room_wesley_photo_blowout_heather.jpg",
+                "start_url": "/heather/scales-tails-and-safe-people/saturday-pretzel-day-the-empty-shelf-the-boy-without-a-phone-bridge/part-1-the-empty-pretzel-table-the-oak-frame-off-the-shelf-why-wesley-blew-up?arc=scales-tails-and-safe-people",
+                "part_count": 2,
+                "backstage_count": 6,
+                "stop_count": 8,
+                "word_count": 12186,
+                "reading_minutes": 49,
+                "reading_hours": 0.8
+            }
+        ],
+        "word_stats": {
+            "story_word_count": 3163,
+            "lore_word_count": 9641,
+            "combined_word_count": 12804,
+            "story_page_count": 12,
+            "combined_page_count": 47,
+            "reading_hours": 0.2,
+            "reading_minutes": 13,
+            "novel_equivalent": 0.04,
+            "scale_category": "Short Fiction & Novelette",
+            "scale_badge": "Short Fiction",
+            "benchmark_note": "Short story / novelette companion (< 17,500 words)",
+            "era_count": 1,
+            "chapter_count": 1,
+            "part_count": 2,
+            "illustration_count": 2,
+            "story_arc_count": 1
+        }
+    },
+    {
         "slug": "jack-sarah",
         "title": "Jack & Sarah",
         "short_description": "A poignant story of familial connection, second chances, and finding solace in the unexpected support of loved ones.",
@@ -571,7 +633,7 @@
             "pdf_bytes": 3367309,
             "text_epub_bytes": 189671,
             "text_pdf_bytes": 3367313,
-            "package_7z_bytes": 144966
+            "package_7z_bytes": 144961
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -614,7 +676,7 @@
             "pdf_bytes": 482428,
             "text_epub_bytes": 169681,
             "text_pdf_bytes": 482428,
-            "package_7z_bytes": 126127
+            "package_7z_bytes": 126132
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -648,18 +710,18 @@
         "folder": "katie",
         "hide": false,
         "ebook_sizes": {
-            "epub": "65.8 MB",
-            "pdf": "63.1 MB",
-            "text_epub": "757 KB",
+            "epub": "66.7 MB",
+            "pdf": "64.1 MB",
+            "text_epub": "768 KB",
             "text_pdf": "2 MB",
-            "package_7z": "572 KB",
-            "epub_bytes": 69026179,
-            "pdf_bytes": 66189700,
-            "text_epub_bytes": 775541,
-            "text_pdf_bytes": 2117860,
-            "package_7z_bytes": 586098
+            "package_7z": "581 KB",
+            "epub_bytes": 69935289,
+            "pdf_bytes": 67189663,
+            "text_epub_bytes": 786627,
+            "text_pdf_bytes": 2147166,
+            "package_7z_bytes": 594754
         },
-        "illustration_count": 149,
+        "illustration_count": 151,
         "story_arc_count": 4,
         "story_arcs": [
             {
@@ -669,16 +731,16 @@
                 "backstage_playlist_slug": "katie-heather-wesley-and-north-lion",
                 "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/katie-heather-wesley-and-north-lion/",
                 "title": "From Northwood High to North Lion: Heather, Wesley & Chelsea",
-                "subtitle": "2001\u20132018 \u2022 Teenage Heartbreak, Ten Years Behind the Lens & Two Special Friends",
-                "description": "Follow Heather Collins from Nate's high school girlfriend at Emerald Creek Mall and Tyler's senior-year lie through ten years building North Lion Scales & Tails in Minnesota, the Maplewood zoo reunion, and Wesley and Chelsea's deep-pressure bond.",
+                "subtitle": "2001\u20132028 \u2022 Teenage Heartbreak, Ten Years Behind the Lens, Two Special Friends & The Restored Rose Garden",
+                "description": "Follow Heather Collins from Nate's high school girlfriend at Emerald Creek Mall and Wesley's January 2003 blowout through ten years building North Lion Scales & Tails in Minnesota, Wesley and Chelsea's deep-pressure bond, and Senator Katie Prairie's 2028 landmark disability reform law.",
                 "image": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_ribbon_cutting_earned_hug_nate_heather_wesley.jpg",
                 "start_url": "/katie/sixteen-summer-sanctuary/sixteen-on-four-wheels-finding-dates/part-1-navigating-northwood-high-on-four-wheels-two-first-dates-why-we-ride-on-saturday?arc=heather-wesley-and-north-lion",
-                "part_count": 25,
-                "backstage_count": 5,
-                "stop_count": 30,
-                "word_count": 60808,
-                "reading_minutes": 244,
-                "reading_hours": 4.1
+                "part_count": 27,
+                "backstage_count": 7,
+                "stop_count": 34,
+                "word_count": 67328,
+                "reading_minutes": 270,
+                "reading_hours": 4.5
             },
             {
                 "slug": "katie-political-career",
@@ -691,12 +753,12 @@
                 "description": "Trace Katie Prairie's public-service journey alongside Nate\u2014from a 2007 White House and Capitol visit and Virginia Beach's 5:30 PM bus curfew to City Council, the viral House Bill 663 speech, flipping the State Senate, and riding every bus in Virginia to the United States Senate.",
                 "image": "/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait_og.jpg",
                 "start_url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-touring-the-white-house-the-u-s-capitol-meeting-senator-james-west-the-spark-to-run-for-city-council-two-blue-passports/part-2-unclipping-our-backpacks-where-is-president-george-w-walker-today-the-white-house-tour-that-sparked-a-political-calling?arc=katie-political-career",
-                "part_count": 31,
+                "part_count": 33,
                 "backstage_count": 5,
-                "stop_count": 36,
-                "word_count": 110192,
-                "reading_minutes": 441,
-                "reading_hours": 7.3
+                "stop_count": 38,
+                "word_count": 114168,
+                "reading_minutes": 457,
+                "reading_hours": 7.6
             },
             {
                 "slug": "brittany-chelsea-and-the-four-person-sanctuary",
@@ -730,27 +792,27 @@
                 "part_count": 10,
                 "backstage_count": 6,
                 "stop_count": 16,
-                "word_count": 47434,
+                "word_count": 47451,
                 "reading_minutes": 190,
                 "reading_hours": 3.2
             }
         ],
         "word_stats": {
-            "story_word_count": 318949,
-            "lore_word_count": 101284,
-            "combined_word_count": 420233,
-            "story_page_count": 1160,
-            "combined_page_count": 1528,
-            "reading_hours": 21.3,
-            "reading_minutes": 1276,
-            "novel_equivalent": 3.5,
+            "story_word_count": 322975,
+            "lore_word_count": 105358,
+            "combined_word_count": 428333,
+            "story_page_count": 1174,
+            "combined_page_count": 1558,
+            "reading_hours": 21.5,
+            "reading_minutes": 1292,
+            "novel_equivalent": 3.6,
             "scale_category": "Multi-Volume Epic Omnibus",
             "scale_badge": "Multi-Volume Omnibus",
-            "benchmark_note": "3.5\u00d7 a standard 90,000-word contemporary novel (~4-volume print series)",
+            "benchmark_note": "3.6\u00d7 a standard 90,000-word contemporary novel (~4-volume print series)",
             "era_count": 11,
-            "chapter_count": 46,
-            "part_count": 125,
-            "illustration_count": 149,
+            "chapter_count": 47,
+            "part_count": 127,
+            "illustration_count": 151,
             "story_arc_count": 4
         }
     },
@@ -773,7 +835,7 @@
             "pdf_bytes": 12179754,
             "text_epub_bytes": 795858,
             "text_pdf_bytes": 2373092,
-            "package_7z_bytes": 569251
+            "package_7z_bytes": 569246
         },
         "illustration_count": 3,
         "story_arc_count": 0,
@@ -816,7 +878,7 @@
             "pdf_bytes": 25934,
             "text_epub_bytes": 9640,
             "text_pdf_bytes": 25934,
-            "package_7z_bytes": 4916
+            "package_7z_bytes": 4914
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -859,7 +921,7 @@
             "pdf_bytes": 121729,
             "text_epub_bytes": 41112,
             "text_pdf_bytes": 121729,
-            "package_7z_bytes": 32517
+            "package_7z_bytes": 32515
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -902,7 +964,7 @@
             "pdf_bytes": 202768,
             "text_epub_bytes": 70990,
             "text_pdf_bytes": 202768,
-            "package_7z_bytes": 53987
+            "package_7z_bytes": 53990
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -945,7 +1007,7 @@
             "pdf_bytes": 1272780,
             "text_epub_bytes": 454748,
             "text_pdf_bytes": 1272780,
-            "package_7z_bytes": 328026
+            "package_7z_bytes": 328030
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -988,7 +1050,7 @@
             "pdf_bytes": 1475296,
             "text_epub_bytes": 510178,
             "text_pdf_bytes": 1475296,
-            "package_7z_bytes": 371766
+            "package_7z_bytes": 371765
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1031,7 +1093,7 @@
             "pdf_bytes": 415749,
             "text_epub_bytes": 155170,
             "text_pdf_bytes": 415749,
-            "package_7z_bytes": 112025
+            "package_7z_bytes": 112030
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1074,7 +1136,7 @@
             "pdf_bytes": 259351,
             "text_epub_bytes": 87849,
             "text_pdf_bytes": 259351,
-            "package_7z_bytes": 70797
+            "package_7z_bytes": 70806
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1117,7 +1179,7 @@
             "pdf_bytes": 5514555,
             "text_epub_bytes": 79111,
             "text_pdf_bytes": 5514555,
-            "package_7z_bytes": 60965
+            "package_7z_bytes": 60972
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1160,7 +1222,7 @@
             "pdf_bytes": 5058155,
             "text_epub_bytes": 407438,
             "text_pdf_bytes": 1263033,
-            "package_7z_bytes": 304845
+            "package_7z_bytes": 304851
         },
         "illustration_count": 10,
         "story_arc_count": 2,
@@ -1240,7 +1302,7 @@
             "pdf_bytes": 84152358,
             "text_epub_bytes": 1167211,
             "text_pdf_bytes": 3253711,
-            "package_7z_bytes": 810589
+            "package_7z_bytes": 810596
         },
         "illustration_count": 131,
         "story_arc_count": 2,
@@ -1320,7 +1382,7 @@
             "pdf_bytes": 663054,
             "text_epub_bytes": 237599,
             "text_pdf_bytes": 663054,
-            "package_7z_bytes": 172130
+            "package_7z_bytes": 172133
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1406,7 +1468,7 @@
             "pdf_bytes": 194536,
             "text_epub_bytes": 66662,
             "text_pdf_bytes": 194536,
-            "package_7z_bytes": 50604
+            "package_7z_bytes": 50605
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1449,7 +1511,7 @@
             "pdf_bytes": 19691323,
             "text_epub_bytes": 189100,
             "text_pdf_bytes": 573976,
-            "package_7z_bytes": 144901
+            "package_7z_bytes": 144903
         },
         "illustration_count": 25,
         "story_arc_count": 2,

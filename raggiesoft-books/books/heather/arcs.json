@@ -1,0 +1,21 @@
+{
+    "arcs": [
+        {
+            "slug": "scales-tails-and-safe-people",
+            "title": "Scales, Tails, and Safe People: Heather, Wesley & The Road to North Lion",
+            "subtitle": "2003–2028 • Wesley's Chesapeake Blowout, Ten Years Behind the Lens & Two Shared Families",
+            "description": "Experience Heather Lindstrom's story alongside her non-verbal cousin Wesley—from the Saturday morning Wesley blew up over losing his first guy buddy Nate through building North Lion Scales & Tails in Maplewood and standing together in the restored White House Rose Garden.",
+            "image": "/raggiesoft-books/images/scenes/heather/e001/jan_2003_chesapeake_living_room_wesley_photo_blowout_heather.jpg",
+            "stops": [
+                { "part": "e001/c001/p001.md" },
+                { "backstage": "books/katie/wesley-blowout-at-heather-losing-his-friend-nate" },
+                { "part": "e001/c001/p002.md" },
+                { "backstage": "books/katie/room-204-unhandled-exception-and-tylers-cousin-lie" },
+                { "backstage": "books/katie/wesley-sees-katie-on-tv-and-cautious-grid-request" },
+                { "backstage": "books/katie/north-lion-scales-and-tails-floorplan-and-animal-wings" },
+                { "backstage": "books/katie/chelsea-and-wesley-at-the-turtle-lagoon" },
+                { "backstage": "books/katie/what-if-wesley-and-chelsea-two-in-law-suites" }
+            ]
+        }
+    ]
+}
