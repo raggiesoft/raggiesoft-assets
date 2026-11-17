@@ -10,24 +10,24 @@
     "ebook_sizes": {
         "epub": "66.7 MB",
         "pdf": "64.1 MB",
-        "text_epub": "768 KB",
-        "text_pdf": "2 MB",
-        "package_7z": "581 KB",
-        "epub_bytes": 69935289,
-        "pdf_bytes": 67189663,
-        "text_epub_bytes": 786627,
-        "text_pdf_bytes": 2147166,
-        "package_7z_bytes": 594754
+        "text_epub": "771 KB",
+        "text_pdf": "2.1 MB",
+        "package_7z": "583 KB",
+        "epub_bytes": 69938357,
+        "pdf_bytes": 67195544,
+        "text_epub_bytes": 789643,
+        "text_pdf_bytes": 2152989,
+        "package_7z_bytes": 596506
     },
     "illustration_count": 151,
     "word_stats": {
-        "story_word_count": 322975,
-        "lore_word_count": 105358,
-        "combined_word_count": 428333,
-        "story_page_count": 1174,
-        "combined_page_count": 1558,
-        "reading_hours": 21.5,
-        "reading_minutes": 1292,
+        "story_word_count": 323986,
+        "lore_word_count": 106027,
+        "combined_word_count": 430013,
+        "story_page_count": 1178,
+        "combined_page_count": 1564,
+        "reading_hours": 21.6,
+        "reading_minutes": 1296,
         "novel_equivalent": 3.6,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
@@ -53,7 +53,7 @@
             "part_count": 27,
             "backstage_count": 7,
             "stop_count": 34,
-            "word_count": 67328,
+            "word_count": 67478,
             "reading_minutes": 270,
             "reading_hours": 4.5,
             "stops": [
@@ -320,7 +320,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2005_ocean_view_kitchen_tiffany_breakup_katie_nate.jpg",
                     "url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road/part-3-milk-isn-t-allowed-in-this-fridge-tiffany-s-sunday-morning-accusation-yes-or-no-questions-through-tears",
                     "arc_url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road/part-3-milk-isn-t-allowed-in-this-fridge-tiffany-s-sunday-morning-accusation-yes-or-no-questions-through-tears?arc=heather-wesley-and-north-lion",
-                    "word_count": 3354,
+                    "word_count": 3387,
                     "reading_minutes": 14
                 },
                 {
@@ -671,7 +671,7 @@
                     "series_slug": "katie",
                     "series_title": "Katie & Nathaniel",
                     "file_path": "e011/c007/p002.md",
-                    "title": "Part 2: Dad's 1994 Crew Cab Pickup, First-Time Guests at the White House, & Signing Law Number One in the Restored Rose Garden",
+                    "title": "Part 2: Dad's 1991 Crew Cab Pickup, First-Time Guests at the White House, & Signing Law Number One in the Restored Rose Garden",
                     "subtitle": "The Supported Companions, Waiver Portability, & Social Security Solvency Act \u2022 The Senator from Virginia",
                     "era_title": "The Senator from Virginia",
                     "chap_title": "The Supported Companions, Waiver Portability, & Social Security Solvency Act",
@@ -679,9 +679,9 @@
                     "location": "Alexandria, VA & Washington, D.C. (Sunset Drive, Capital Transit Yellow Line, & The Restored White House Rose Garden)",
                     "excerpt": "After passing the Senate 57-43, Chelsea, Brittany, and Heather's entire family visit the White House for the first time as President Morales signs Katie's landmark law in the restored Rose Garden.",
                     "image": "/raggiesoft-books/images/scenes/katie/b006/jun_2028_restored_rose_garden_supported_companions_signing.jpg",
-                    "url": "/katie/the-senator-from-virginia/the-supported-companions-waiver-portability-social-security-solvency-act/part-2-dad-s-1994-crew-cab-pickup-first-time-guests-at-the-white-house-signing-law-number-one-in-the-restored-rose-garden",
-                    "arc_url": "/katie/the-senator-from-virginia/the-supported-companions-waiver-portability-social-security-solvency-act/part-2-dad-s-1994-crew-cab-pickup-first-time-guests-at-the-white-house-signing-law-number-one-in-the-restored-rose-garden?arc=heather-wesley-and-north-lion",
-                    "word_count": 1833,
+                    "url": "/katie/the-senator-from-virginia/the-supported-companions-waiver-portability-social-security-solvency-act/part-2-dad-s-1991-crew-cab-pickup-first-time-guests-at-the-white-house-signing-law-number-one-in-the-restored-rose-garden",
+                    "arc_url": "/katie/the-senator-from-virginia/the-supported-companions-waiver-portability-social-security-solvency-act/part-2-dad-s-1991-crew-cab-pickup-first-time-guests-at-the-white-house-signing-law-number-one-in-the-restored-rose-garden?arc=heather-wesley-and-north-lion",
+                    "word_count": 1950,
                     "reading_minutes": 8
                 },
                 {
@@ -699,7 +699,7 @@
                     "excerpt": "In main canon, Chelsea keeps her home base with Katie, Nate, and Brittany in Virginia while Wesley keeps his job at North Lion Scales & Tails in Minnesota, enjoying long cross-state visits after Senator Katie Prairie's 2028 reform law. This Alternate 'What If' explores the world where both guardian families build matching connected ground-floor in-law suites in BOTH Virginia Beach and Maplewood so Wesley and Chelsea can live together full-time!",
                     "image": "/raggiesoft-backstage/images/scenes/what-if-wesley-and-chelsea-shared-inlaw-suite.jpg",
                     "url": "https://backstage.raggiesoft.com/books/katie/what-if-wesley-and-chelsea-two-in-law-suites/",
-                    "arc_url": "/katie/the-senator-from-virginia/the-supported-companions-waiver-portability-social-security-solvency-act/part-2-dad-s-1994-crew-cab-pickup-first-time-guests-at-the-white-house-signing-law-number-one-in-the-restored-rose-garden?arc=heather-wesley-and-north-lion",
+                    "arc_url": "/katie/the-senator-from-virginia/the-supported-companions-waiver-portability-social-security-solvency-act/part-2-dad-s-1991-crew-cab-pickup-first-time-guests-at-the-white-house-signing-law-number-one-in-the-restored-rose-garden?arc=heather-wesley-and-north-lion",
                     "word_count": 1138,
                     "reading_minutes": 5
                 }
@@ -719,8 +719,8 @@
             "part_count": 33,
             "backstage_count": 5,
             "stop_count": 38,
-            "word_count": 114168,
-            "reading_minutes": 457,
+            "word_count": 114571,
+            "reading_minutes": 459,
             "reading_hours": 7.6,
             "stops": [
                 {
@@ -1043,7 +1043,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/jan_2026_kempsville_living_room_senate_campaign_decision_katie_nate_david.jpg",
                     "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-1-the-living-room-decision-in-kempsville-the-10-000-signature-rule-the-accessibility-project",
                     "arc_url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-1-the-living-room-decision-in-kempsville-the-10-000-signature-rule-the-accessibility-project?arc=katie-political-career",
-                    "word_count": 2766,
+                    "word_count": 2780,
                     "reading_minutes": 12
                 },
                 {
@@ -1062,7 +1062,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/mar_2026_hampton_3400_victoria_blvd_jammed_ramp_rain_katie_nate_david.jpg",
                     "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-2-the-jammed-ramp-on-victoria-boulevard-shoreline-transit-across-the-bay-wearing-the-nfa-s-f-grade-in-fairfax",
                     "arc_url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-2-the-jammed-ramp-on-victoria-boulevard-shoreline-transit-across-the-bay-wearing-the-nfa-s-f-grade-in-fairfax?arc=katie-political-career",
-                    "word_count": 2416,
+                    "word_count": 2469,
                     "reading_minutes": 10
                 },
                 {
@@ -1095,13 +1095,13 @@
                     "era_title": "Across the Rotunda: The Senate of Virginia",
                     "chap_title": "The Accessibility Project: Riding Every Bus Across the Commonwealth for the United States Senate",
                     "date": "2026-07-24",
-                    "location": "Wytheville, Marion, Abingdon, Bristol, Big Stone Gap, & Cumberland Gap, VA (Mountain Empire Transit, Cumberland Coalfield Transit, & Dad's Rented Wheelchair Van)",
-                    "excerpt": "Refusing to write off a single rural voter after winning the Democratic nomination, Katie, Nate, David, Brittany, and Chelsea ride Mountain Empire Transit and Cumberland Coalfield Transit buses straight into 75%-plus Restore the Republic counties in Southwest Virginia\u2014before Dad rents a wheelchair-accessible minivan to bridge the gap to Cumberland Gap National Historical Park.",
+                    "location": "Wytheville, Marion, Abingdon, Bristol, Big Stone Gap, & Cumberland Gap, VA (Mountain Empire Transit, Cumberland Coalfield Transit, & Dad's 1991 Crew Cab Pickup)",
+                    "excerpt": "Refusing to write off a single rural voter after winning the Democratic nomination, Katie, Nate, David, Brittany, and Chelsea ride Mountain Empire Transit and Cumberland Coalfield Transit buses straight into 75%-plus Restore the Republic counties in Southwest Virginia\u2014before Dad drives their 35-year-old 1991 Crew Cab pickup to Cumberland Gap National Historical Park.",
                     "image": "/raggiesoft-books/images/scenes/katie/b006/jul_2026_southwest_virginia_coalfield_bus_town_hall_katie_nate_david.jpg",
                     "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-4-riding-into-deep-red-rtr-country-mountain-empire-transit-the-coalfields-cumberland-gap-with-dad",
                     "arc_url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-4-riding-into-deep-red-rtr-country-mountain-empire-transit-the-coalfields-cumberland-gap-with-dad?arc=katie-political-career",
-                    "word_count": 1619,
-                    "reading_minutes": 7
+                    "word_count": 1781,
+                    "reading_minutes": 8
                 },
                 {
                     "stop_num": 21,
@@ -1115,11 +1115,11 @@
                     "chap_title": "The Accessibility Project: Riding Every Bus Across the Commonwealth for the United States Senate",
                     "date": "2026-09-19",
                     "location": "Fishersville, Palo Alto (Highland County), & Norfolk, VA (Shenandoah Valley Transit, The Cassini Center for Space Exploration, & WHRC TV-15 / CVTA)",
-                    "excerpt": "After riding Shenandoah Valley Transit past Roosevelt Rehabilitation Center in Fishersville, David drives Katie, Nate, Brittany, and Chelsea in a rented wheelchair-accessible minivan over Shenandoah Mountain for their very first visit to The Cassini Center for Space Exploration in Palo Alto, Highland County\u2014which becomes Katie's favorite place in the Commonwealth\u2014before she commands the October WHRC TV-15 debate stage in Norfolk and makes a three-bus sprint home to Kempsville.",
+                    "excerpt": "After riding Shenandoah Valley Transit past Roosevelt Rehabilitation Center in Fishersville, David drives Katie, Nate, Brittany, and Chelsea in their 35-year-old 1991 Crew Cab pickup over Shenandoah Mountain for their very first visit to The Cassini Center for Space Exploration in Palo Alto, Highland County\u2014which becomes Katie's favorite place in the Commonwealth\u2014before she commands the October WHRC TV-15 debate stage in Norfolk and makes a three-bus sprint home to Kempsville.",
                     "image": "/raggiesoft-books/images/scenes/katie/b006/sep_2026_cassini_center_palo_alto_observatory_katie_nate_valerie_starling_triplets.jpg",
                     "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-5-katie-s-favorite-place-in-virginia-the-cassini-center-in-highland-county-the-october-whrc-tv-15-three-bus-sprint",
                     "arc_url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-5-katie-s-favorite-place-in-virginia-the-cassini-center-in-highland-county-the-october-whrc-tv-15-three-bus-sprint?arc=katie-political-career",
-                    "word_count": 1919,
+                    "word_count": 1972,
                     "reading_minutes": 8
                 },
                 {
@@ -1318,7 +1318,7 @@
                     "series_slug": "katie",
                     "series_title": "Katie & Nathaniel",
                     "file_path": "e011/c007/p002.md",
-                    "title": "Part 2: Dad's 1994 Crew Cab Pickup, First-Time Guests at the White House, & Signing Law Number One in the Restored Rose Garden",
+                    "title": "Part 2: Dad's 1991 Crew Cab Pickup, First-Time Guests at the White House, & Signing Law Number One in the Restored Rose Garden",
                     "subtitle": "The Supported Companions, Waiver Portability, & Social Security Solvency Act \u2022 The Senator from Virginia",
                     "era_title": "The Senator from Virginia",
                     "chap_title": "The Supported Companions, Waiver Portability, & Social Security Solvency Act",
@@ -1326,9 +1326,9 @@
                     "location": "Alexandria, VA & Washington, D.C. (Sunset Drive, Capital Transit Yellow Line, & The Restored White House Rose Garden)",
                     "excerpt": "After passing the Senate 57-43, Chelsea, Brittany, and Heather's entire family visit the White House for the first time as President Morales signs Katie's landmark law in the restored Rose Garden.",
                     "image": "/raggiesoft-books/images/scenes/katie/b006/jun_2028_restored_rose_garden_supported_companions_signing.jpg",
-                    "url": "/katie/the-senator-from-virginia/the-supported-companions-waiver-portability-social-security-solvency-act/part-2-dad-s-1994-crew-cab-pickup-first-time-guests-at-the-white-house-signing-law-number-one-in-the-restored-rose-garden",
-                    "arc_url": "/katie/the-senator-from-virginia/the-supported-companions-waiver-portability-social-security-solvency-act/part-2-dad-s-1994-crew-cab-pickup-first-time-guests-at-the-white-house-signing-law-number-one-in-the-restored-rose-garden?arc=katie-political-career",
-                    "word_count": 1833,
+                    "url": "/katie/the-senator-from-virginia/the-supported-companions-waiver-portability-social-security-solvency-act/part-2-dad-s-1991-crew-cab-pickup-first-time-guests-at-the-white-house-signing-law-number-one-in-the-restored-rose-garden",
+                    "arc_url": "/katie/the-senator-from-virginia/the-supported-companions-waiver-portability-social-security-solvency-act/part-2-dad-s-1991-crew-cab-pickup-first-time-guests-at-the-white-house-signing-law-number-one-in-the-restored-rose-garden?arc=katie-political-career",
+                    "word_count": 1950,
                     "reading_minutes": 8
                 },
                 {
@@ -1347,7 +1347,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/oct_2043_arvin_road_four_person_cuddle_nest_katie_nate_brittany_chelsea.jpg",
                     "url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/part-1-refusing-the-2045-presidency-from-home-five-statutory-shields-against-the-bubble-out-of-the-closet-into-our-four-person-nest",
                     "arc_url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/part-1-refusing-the-2045-presidency-from-home-five-statutory-shields-against-the-bubble-out-of-the-closet-into-our-four-person-nest?arc=katie-political-career",
-                    "word_count": 3553,
+                    "word_count": 3557,
                     "reading_minutes": 15
                 },
                 {
@@ -1461,7 +1461,7 @@
             "part_count": 12,
             "backstage_count": 2,
             "stop_count": 14,
-            "word_count": 36258,
+            "word_count": 36370,
             "reading_minutes": 146,
             "reading_hours": 2.4,
             "stops": [
@@ -1614,7 +1614,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/mar_2016_coastal_adult_learning_center_route_20_hse_enrollment_brittany_katie_nate.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-request-on-the-grid-rescuing-cousin-chelsea-out-of-the-closet-into-our-four-person-nest-chelsea-s-turtle-tank-reveal/part-1-sine-die-welcoming-brittany-home-to-arvin-road-route-20-to-the-coastal-adult-learning-center-three-cousins-in-the-closet",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-request-on-the-grid-rescuing-cousin-chelsea-out-of-the-closet-into-our-four-person-nest-chelsea-s-turtle-tank-reveal/part-1-sine-die-welcoming-brittany-home-to-arvin-road-route-20-to-the-coastal-adult-learning-center-three-cousins-in-the-closet?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 2818,
+                    "word_count": 2830,
                     "reading_minutes": 12
                 },
                 {
@@ -1633,7 +1633,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/jul_2016_kings_college_mount_regalis_bta_route_99_scrub_bus_arrival_family.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-request-on-the-grid-rescuing-cousin-chelsea-out-of-the-closet-into-our-four-person-nest-chelsea-s-turtle-tank-reveal/part-3-turned-away-at-the-royal-gate-riding-bta-route-99-up-mount-regalis-catching-the-two-faced-manager-red-handed-no-known-living-family",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-request-on-the-grid-rescuing-cousin-chelsea-out-of-the-closet-into-our-four-person-nest-chelsea-s-turtle-tank-reveal/part-3-turned-away-at-the-royal-gate-riding-bta-route-99-up-mount-regalis-catching-the-two-faced-manager-red-handed-no-known-living-family?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 3005,
+                    "word_count": 3099,
                     "reading_minutes": 13
                 },
                 {
@@ -1652,7 +1652,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/jul_2016_kings_college_royal_gate_court_order_chelsea_rescue_family.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-request-on-the-grid-rescuing-cousin-chelsea-out-of-the-closet-into-our-four-person-nest-chelsea-s-turtle-tank-reveal/part-4-ten-minutes-in-braxton-probate-court-forcing-open-the-royal-gate-with-a-sheriff-s-escort-goodbye-to-newport-over-i-895",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-request-on-the-grid-rescuing-cousin-chelsea-out-of-the-closet-into-our-four-person-nest-chelsea-s-turtle-tank-reveal/part-4-ten-minutes-in-braxton-probate-court-forcing-open-the-royal-gate-with-a-sheriff-s-escort-goodbye-to-newport-over-i-895?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 1734,
+                    "word_count": 1737,
                     "reading_minutes": 7
                 },
                 {
@@ -1690,7 +1690,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/jul_2016_kings_college_royal_gate_court_order_chelsea_rescue_family.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-request-on-the-grid-rescuing-cousin-chelsea-out-of-the-closet-into-our-four-person-nest-chelsea-s-turtle-tank-reveal/part-6-eighty-cramped-nights-on-closet-plywood-building-our-four-person-oak-bed-the-twelve-minute-try-thanksgiving-s-forty-five-minute-milestone",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-request-on-the-grid-rescuing-cousin-chelsea-out-of-the-closet-into-our-four-person-nest-chelsea-s-turtle-tank-reveal/part-6-eighty-cramped-nights-on-closet-plywood-building-our-four-person-oak-bed-the-twelve-minute-try-thanksgiving-s-forty-five-minute-milestone?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 2465,
+                    "word_count": 2468,
                     "reading_minutes": 10
                 },
                 {
@@ -2064,7 +2064,7 @@
             "era_title": "Early Childhood",
             "era_url": "/raggiesoft-books/books/katie/early-childhood",
             "illustration_count": 4,
-            "word_count": 5544,
+            "word_count": 5588,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2135,14 +2135,14 @@
                     "chap_title": "Big Family Christmas",
                     "chap_url": "/raggiesoft-books/books/katie/early-childhood/big-family-christmas",
                     "illustration_count": 1,
-                    "word_count": 1256,
+                    "word_count": 1300,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Newport News ARTS Train & The Downstairs Sofa Bed",
                             "file_path": "e001/c003/p001.md",
                             "url": "/katie/early-childhood/big-family-christmas/the-newport-news-arts-train-the-downstairs-sofa-bed",
-                            "word_count": 1256,
+                            "word_count": 1300,
                             "reading_minutes": 6,
                             "date": "1994-12-23",
                             "start_time": "18:15",
@@ -2188,14 +2188,14 @@
             "era_title": "The Blizzard of '96, Blackwater Summers, Middle School, & Freshman Year",
             "era_url": "/raggiesoft-books/books/katie/the-blizzard-of-96-blackwater-summers-middle-school-freshman-year",
             "illustration_count": 5,
-            "word_count": 11040,
+            "word_count": 11050,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Blizzard of '96",
                     "chap_url": "/raggiesoft-books/books/katie/the-blizzard-of-96-blackwater-summers-middle-school-freshman-year/the-blizzard-of-96",
                     "illustration_count": 2,
-                    "word_count": 3060,
+                    "word_count": 3070,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2223,7 +2223,7 @@
                             "part_title": "Part 2: Sleet on the Glass, Glaze Ice Across Tidewater, & Brittany's First Group Cuddle",
                             "file_path": "e002/c001/p002.md",
                             "url": "/katie/the-blizzard-of-96-blackwater-summers-middle-school-freshman-year/the-blizzard-of-96/part-2-sleet-on-the-glass-glaze-ice-across-tidewater-brittany-s-first-group-cuddle",
-                            "word_count": 1645,
+                            "word_count": 1655,
                             "reading_minutes": 7,
                             "date": "1996-01-06",
                             "start_time": "18:15",
@@ -2380,7 +2380,7 @@
             "era_title": "Sixteen & Summer Sanctuary",
             "era_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary",
             "illustration_count": 18,
-            "word_count": 31279,
+            "word_count": 31566,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2558,14 +2558,14 @@
                     "chap_title": "Junior Year at Northwood High & The Prognosis",
                     "chap_url": "/raggiesoft-books/books/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis",
                     "illustration_count": 5,
-                    "word_count": 10503,
+                    "word_count": 10790,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Fault-Grounds Filing, The Protective Order, & Junior Year at Northwood High School",
                             "file_path": "e003/c003/p001.md",
                             "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-1-the-fault-grounds-filing-the-protective-order-junior-year-at-northwood-high-school",
-                            "word_count": 1688,
+                            "word_count": 1694,
                             "reading_minutes": 7,
                             "date": "2001-09-04",
                             "start_time": "10:55",
@@ -2607,15 +2607,15 @@
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: Two Compact Power Wheelchairs in the Trunk, Downsizing to Military Highway, & CVTA Route 15",
+                            "part_title": "Part 3: 'Then We'll Change the Truck,' Downsizing to Military Highway, & CVTA Route 15",
                             "file_path": "e003/c003/p003.md",
-                            "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-3-two-compact-power-wheelchairs-in-the-trunk-downsizing-to-military-highway-cvta-route-15",
-                            "word_count": 2349,
-                            "reading_minutes": 10,
+                            "url": "/katie/sixteen-summer-sanctuary/junior-year-at-northwood-high-the-prognosis/part-3-then-we-ll-change-the-truck-downsizing-to-military-highway-cvta-route-15",
+                            "word_count": 2630,
+                            "reading_minutes": 11,
                             "date": "2001-10-06",
                             "start_time": "13:10",
-                            "location": "Virginia Beach, VA (Military Highway & Indian River Road \u2014 CVTA Route 15)",
-                            "excerpt": "Saddled with cruise debt and down to one student income after the divorce filing, David downsizes into a modest single-story rental house off Military Highway near Indian River Road\u2014right inside Northwood High's zone and right along CVTA Route 15.",
+                            "location": "Virginia Beach, VA (Arvin Road & Military Highway at Indian River Road \u2014 CVTA Route 15)",
+                            "excerpt": "Refusing to part with the 1991 Crestline four-door Crew Cab 4x4 pickup Katie and Nate grew up loving, Dad outfits it as a rolling wheelchair garage and moves them into a zero-step ranch along CVTA Route 15.",
                             "image": "/raggiesoft-books/images/scenes/katie/b003/oct_2001_military_hwy_indian_river_cvta_route_15_wheelchairs.jpg",
                             "image_alt": "At the CVTA Route 15 bus stop along the wide eight-lane corridor of US-13 Military Highway near Indian River Road in October 2001, sixteen-year-old blonde fraternal twins Katie and Nathaniel Prairie sit side by side in their compact power wheelchairs holding hands beside their father David Prairie as high-floor Beacon V transit bus #914\u2014wearing legacy Tidewater Regional Transit horizontal blue-and-green stripes with a CVTA logo sticker beside the front door\u2014lowers its Elevate-U front-stairwell hydraulic wheelchair lift to the sidewalk",
                             "images": [
@@ -2796,7 +2796,7 @@
             "era_title": "Seventeen, Senior Year, & Greenway Court",
             "era_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court",
             "illustration_count": 15,
-            "word_count": 30011,
+            "word_count": 30126,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -3001,7 +3001,7 @@
                     "chap_title": "Greenway Court, Apartment A6 & The Square Closet Sanctuary",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary",
                     "illustration_count": 3,
-                    "word_count": 8143,
+                    "word_count": 8236,
                     "parts": [
                         {
                             "part_num": 1,
@@ -3050,7 +3050,7 @@
                             "part_title": "Part 3: Hurricane Isabel, Two Layers of Sandbags at Greenway Court, & Two Weeks at Dad's House on Arvin Road",
                             "file_path": "e004/c003/p003.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/greenway-court-apartment-a6-the-square-closet-sanctuary/part-3-hurricane-isabel-two-layers-of-sandbags-at-greenway-court-two-weeks-at-dad-s-house-on-arvin-road",
-                            "word_count": 5354,
+                            "word_count": 5447,
                             "reading_minutes": 22,
                             "date": "2003-09-17",
                             "start_time": "15:15",
@@ -3073,7 +3073,7 @@
                     "chap_title": "The Admiral Center Patio & Moving Together to Williamsburg",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court/the-admiral-center-patio-moving-together-to-williamsburg",
                     "illustration_count": 2,
-                    "word_count": 2636,
+                    "word_count": 2658,
                     "parts": [
                         {
                             "part_num": 1,
@@ -3101,7 +3101,7 @@
                             "part_title": "Part 2: A Non-Negotiable Package Deal, Dad's Calling Cards, & Moving Together to Williamsburg",
                             "file_path": "e004/c004/p002.md",
                             "url": "/katie/seventeen-senior-year-greenway-court/the-admiral-center-patio-moving-together-to-williamsburg/part-2-a-non-negotiable-package-deal-dad-s-calling-cards-moving-together-to-williamsburg",
-                            "word_count": 1154,
+                            "word_count": 1176,
                             "reading_minutes": 5,
                             "date": "2004-06-19",
                             "start_time": "13:30",
@@ -3126,7 +3126,7 @@
             "era_title": "Six Buses from Williamsburg, Sea Breeze West, & Coming Home to Arvin Road",
             "era_url": "/raggiesoft-books/books/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road",
             "illustration_count": 5,
-            "word_count": 17821,
+            "word_count": 17854,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -3193,7 +3193,7 @@
                     "chap_title": "Tiffany's Sea Breeze West Apartment, Dirty Old Tonomy Hill, & Coming Home to Arvin Road",
                     "chap_url": "/raggiesoft-books/books/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road",
                     "illustration_count": 4,
-                    "word_count": 9582,
+                    "word_count": 9615,
                     "parts": [
                         {
                             "part_num": 1,
@@ -3236,7 +3236,7 @@
                             "part_title": "Part 3: Milk Isn't Allowed in This Fridge, Tiffany's Sunday Morning Accusation, & Yes-or-No Questions Through Tears",
                             "file_path": "e005/c002/p003.md",
                             "url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road/part-3-milk-isn-t-allowed-in-this-fridge-tiffany-s-sunday-morning-accusation-yes-or-no-questions-through-tears",
-                            "word_count": 3354,
+                            "word_count": 3387,
                             "reading_minutes": 14,
                             "date": "2005-11-13",
                             "start_time": "08:30",
@@ -3943,7 +3943,7 @@
             "era_title": "The Gentlewoman from Virginia Beach: The House of Delegates",
             "era_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates",
             "illustration_count": 20,
-            "word_count": 58513,
+            "word_count": 58625,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -4175,14 +4175,14 @@
                     "chap_title": "Keeping Our High-School Promise, A Cautious Request on The Grid, Rescuing Cousin Chelsea, Out of the Closet Into Our Four-Person Nest, & Chelsea's Turtle Tank Reveal",
                     "chap_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-request-on-the-grid-rescuing-cousin-chelsea-out-of-the-closet-into-our-four-person-nest-chelsea-s-turtle-tank-reveal",
                     "illustration_count": 8,
-                    "word_count": 21157,
+                    "word_count": 21269,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Sine Die, Welcoming Brittany Home to Arvin Road, Route 20 to the Coastal Adult Learning Center, & Three Cousins in the Closet",
                             "file_path": "e009/c004/p001.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-request-on-the-grid-rescuing-cousin-chelsea-out-of-the-closet-into-our-four-person-nest-chelsea-s-turtle-tank-reveal/part-1-sine-die-welcoming-brittany-home-to-arvin-road-route-20-to-the-coastal-adult-learning-center-three-cousins-in-the-closet",
-                            "word_count": 2818,
+                            "word_count": 2830,
                             "reading_minutes": 12,
                             "date": "2016-03-14",
                             "start_time": "16:30",
@@ -4227,7 +4227,7 @@
                             "part_title": "Part 3: Turned Away at the Royal Gate, Riding BTA Route 99 Up Mount Regalis, Catching the Two-Faced Manager Red-Handed, & 'No Known Living Family'",
                             "file_path": "e009/c004/p003.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-request-on-the-grid-rescuing-cousin-chelsea-out-of-the-closet-into-our-four-person-nest-chelsea-s-turtle-tank-reveal/part-3-turned-away-at-the-royal-gate-riding-bta-route-99-up-mount-regalis-catching-the-two-faced-manager-red-handed-no-known-living-family",
-                            "word_count": 3005,
+                            "word_count": 3099,
                             "reading_minutes": 13,
                             "date": "2016-07-18",
                             "start_time": "13:40",
@@ -4248,18 +4248,18 @@
                             "part_title": "Part 4: Ten Minutes in Braxton Probate Court, Forcing Open the Royal Gate With a Sheriff's Escort, & Goodbye to Newport Over I-895",
                             "file_path": "e009/c004/p004.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-request-on-the-grid-rescuing-cousin-chelsea-out-of-the-closet-into-our-four-person-nest-chelsea-s-turtle-tank-reveal/part-4-ten-minutes-in-braxton-probate-court-forcing-open-the-royal-gate-with-a-sheriff-s-escort-goodbye-to-newport-over-i-895",
-                            "word_count": 1734,
+                            "word_count": 1737,
                             "reading_minutes": 7,
                             "date": "2016-07-19",
                             "start_time": "09:00",
                             "location": "Braxton & Newport, RI (Braxton Municipal Probate Court, King's College on Mount Regalis, Interstate 895, & Newport Harbor)",
                             "excerpt": "Armed with certified Newport birth records and Rhode Island's brand-new adult guardianship transfer statute, Dad and Katie dismantle King's College in Braxton Probate Court and bring Chelsea home via Newport Harbor.",
                             "image": "/raggiesoft-books/images/scenes/katie/b005/jul_2016_kings_college_royal_gate_court_order_chelsea_rescue_family.jpg",
-                            "image_alt": "Just inside the raised black wrought-iron Royal Gate of King's College on Mount Regalis in Braxton, Rhode Island on a sunny July 2016 morning with a county sheriff's cruiser parked behind David Prairie's open-ramp accessible minivan, radiant 34-year-old Chelsea clutches her green plush sea turtle with her asthma inhalers tucked in her cardigan pocket as she hugs 31-year-old Nathaniel and Katie Prairie in their SwiftChair power wheelchairs while cousin Brittany in her wire-rimmed glasses and Uncle David load Chelsea's bags into the van.",
+                            "image_alt": "Just inside the raised black wrought-iron Royal Gate of King's College on Mount Regalis in Braxton, Rhode Island on a sunny July 2016 morning with a county sheriff's cruiser parked behind the Prairie family's rented open-ramp accessible minivan, radiant 34-year-old Chelsea clutches her green plush sea turtle with her asthma inhalers tucked in her cardigan pocket as she hugs 31-year-old Nathaniel and Katie Prairie in their SwiftChair power wheelchairs while cousin Brittany in her wire-rimmed glasses and Uncle David load Chelsea's bags into the van.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b005/jul_2016_kings_college_royal_gate_court_order_chelsea_rescue_family.jpg",
-                                    "alt": "Just inside the raised black wrought-iron Royal Gate of King's College on Mount Regalis in Braxton, Rhode Island on a sunny July 2016 morning with a county sheriff's cruiser parked behind David Prairie's open-ramp accessible minivan, radiant 34-year-old Chelsea clutches her green plush sea turtle with her asthma inhalers tucked in her cardigan pocket as she hugs 31-year-old Nathaniel and Katie Prairie in their SwiftChair power wheelchairs while cousin Brittany in her wire-rimmed glasses and Uncle David load Chelsea's bags into the van."
+                                    "alt": "Just inside the raised black wrought-iron Royal Gate of King's College on Mount Regalis in Braxton, Rhode Island on a sunny July 2016 morning with a county sheriff's cruiser parked behind the Prairie family's rented open-ramp accessible minivan, radiant 34-year-old Chelsea clutches her green plush sea turtle with her asthma inhalers tucked in her cardigan pocket as she hugs 31-year-old Nathaniel and Katie Prairie in their SwiftChair power wheelchairs while cousin Brittany in her wire-rimmed glasses and Uncle David load Chelsea's bags into the van."
                                 }
                             ],
                             "image_count": 1
@@ -4281,7 +4281,7 @@
                             "part_title": "Part 6: Eighty Cramped Nights on Closet Plywood, Building Our Four-Person Oak Bed, The Twelve-Minute Try, & Thanksgiving's Forty-Five-Minute Milestone",
                             "file_path": "e009/c004/p006.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-a-cautious-request-on-the-grid-rescuing-cousin-chelsea-out-of-the-closet-into-our-four-person-nest-chelsea-s-turtle-tank-reveal/part-6-eighty-cramped-nights-on-closet-plywood-building-our-four-person-oak-bed-the-twelve-minute-try-thanksgiving-s-forty-five-minute-milestone",
-                            "word_count": 2465,
+                            "word_count": 2468,
                             "reading_minutes": 10,
                             "date": "2016-10-14",
                             "start_time": "21:00",
@@ -4381,7 +4381,7 @@
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
             "illustration_count": 19,
-            "word_count": 34339,
+            "word_count": 34621,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -4654,14 +4654,14 @@
                     "chap_title": "The Accessibility Project: Riding Every Bus Across the Commonwealth for the United States Senate",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate",
                     "illustration_count": 6,
-                    "word_count": 12649,
+                    "word_count": 12931,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Living Room Decision in Kempsville, The 10,000-Signature Rule, & The Accessibility Project",
                             "file_path": "e010/c004/p001.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-1-the-living-room-decision-in-kempsville-the-10-000-signature-rule-the-accessibility-project",
-                            "word_count": 2766,
+                            "word_count": 2780,
                             "reading_minutes": 12,
                             "date": "2026-01-10",
                             "start_time": "19:30",
@@ -4682,7 +4682,7 @@
                             "part_title": "Part 2: The Jammed Ramp on Victoria Boulevard, ShoreLine Transit Across the Bay, & Wearing the NFA's 'F' Grade in Fairfax",
                             "file_path": "e010/c004/p002.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-2-the-jammed-ramp-on-victoria-boulevard-shoreline-transit-across-the-bay-wearing-the-nfa-s-f-grade-in-fairfax",
-                            "word_count": 2416,
+                            "word_count": 2469,
                             "reading_minutes": 10,
                             "date": "2026-03-28",
                             "start_time": "10:15",
@@ -4727,12 +4727,12 @@
                             "part_title": "Part 4: Riding Into Deep-Red RTR Country: Mountain Empire Transit, The Coalfields, & Cumberland Gap With Dad",
                             "file_path": "e010/c004/p004.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-4-riding-into-deep-red-rtr-country-mountain-empire-transit-the-coalfields-cumberland-gap-with-dad",
-                            "word_count": 1619,
-                            "reading_minutes": 7,
+                            "word_count": 1781,
+                            "reading_minutes": 8,
                             "date": "2026-07-24",
                             "start_time": "09:30",
-                            "location": "Wytheville, Marion, Abingdon, Bristol, Big Stone Gap, & Cumberland Gap, VA (Mountain Empire Transit, Cumberland Coalfield Transit, & Dad's Rented Wheelchair Van)",
-                            "excerpt": "Refusing to write off a single rural voter after winning the Democratic nomination, Katie, Nate, David, Brittany, and Chelsea ride Mountain Empire Transit and Cumberland Coalfield Transit buses straight into 75%-plus Restore the Republic counties in Southwest Virginia\u2014before Dad rents a wheelchair-accessible minivan to bridge the gap to Cumberland Gap National Historical Park.",
+                            "location": "Wytheville, Marion, Abingdon, Bristol, Big Stone Gap, & Cumberland Gap, VA (Mountain Empire Transit, Cumberland Coalfield Transit, & Dad's 1991 Crew Cab Pickup)",
+                            "excerpt": "Refusing to write off a single rural voter after winning the Democratic nomination, Katie, Nate, David, Brittany, and Chelsea ride Mountain Empire Transit and Cumberland Coalfield Transit buses straight into 75%-plus Restore the Republic counties in Southwest Virginia\u2014before Dad drives their 35-year-old 1991 Crew Cab pickup to Cumberland Gap National Historical Park.",
                             "image": "/raggiesoft-books/images/scenes/katie/b006/jul_2026_southwest_virginia_coalfield_bus_town_hall_katie_nate_david.jpg",
                             "image_alt": "Inside a Mountain Empire Transit bus rolling through the Appalachian ridges of Southwest Virginia in July 2026, 41-year-old State Senator Katie Prairie and her twin brother Nate sit side by side in their black motorized SwiftChair power wheelchairs in the front ADA securement bays speaking at eye level with a retired coal miner and a rural clinic nurse while their 68-year-old father David sits across the aisle with his yellow legal pad.",
                             "images": [
@@ -4752,12 +4752,12 @@
                             "part_title": "Part 5: Katie's Favorite Place in Virginia: The Cassini Center in Highland County & The October WHRC TV-15 Three-Bus Sprint",
                             "file_path": "e010/c004/p005.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-5-katie-s-favorite-place-in-virginia-the-cassini-center-in-highland-county-the-october-whrc-tv-15-three-bus-sprint",
-                            "word_count": 1919,
+                            "word_count": 1972,
                             "reading_minutes": 8,
                             "date": "2026-09-19",
                             "start_time": "16:30",
                             "location": "Fishersville, Palo Alto (Highland County), & Norfolk, VA (Shenandoah Valley Transit, The Cassini Center for Space Exploration, & WHRC TV-15 / CVTA)",
-                            "excerpt": "After riding Shenandoah Valley Transit past Roosevelt Rehabilitation Center in Fishersville, David drives Katie, Nate, Brittany, and Chelsea in a rented wheelchair-accessible minivan over Shenandoah Mountain for their very first visit to The Cassini Center for Space Exploration in Palo Alto, Highland County\u2014which becomes Katie's favorite place in the Commonwealth\u2014before she commands the October WHRC TV-15 debate stage in Norfolk and makes a three-bus sprint home to Kempsville.",
+                            "excerpt": "After riding Shenandoah Valley Transit past Roosevelt Rehabilitation Center in Fishersville, David drives Katie, Nate, Brittany, and Chelsea in their 35-year-old 1991 Crew Cab pickup over Shenandoah Mountain for their very first visit to The Cassini Center for Space Exploration in Palo Alto, Highland County\u2014which becomes Katie's favorite place in the Commonwealth\u2014before she commands the October WHRC TV-15 debate stage in Norfolk and makes a three-bus sprint home to Kempsville.",
                             "image": "/raggiesoft-books/images/scenes/katie/b006/sep_2026_cassini_center_palo_alto_observatory_katie_nate_valerie_starling_triplets.jpg",
                             "image_alt": "Under the open roll-off roof of The Cassini Center for Space Exploration in Palo Alto, Highland County, Virginia beneath the starry Milky Way in September 2026, 41-year-old Katie Prairie and her twin brother Nate sit in their black motorized SwiftChair power wheelchairs holding hands in a circle with 41-year-old non-verbal autistic triplets Lyra, Orion, and Celeste Starling in their custom tilt-in-space wheelchairs around a 34-inch-high glowing Starlight Wing nebula table and wheelchair-height telescope eyepiece, while Valerie Anne Miller and David Prairie smile beside them.",
                             "images": [
@@ -4777,7 +4777,7 @@
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 37,
-            "word_count": 80224,
+            "word_count": 80352,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -5093,7 +5093,7 @@
                     "chap_title": "The Norfolk Carrier Leak, Suite 756 at Timberline Shopping Center, & Three Convictions in the Senate",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/the-norfolk-carrier-leak-suite-756-at-timberline-shopping-center-three-convictions-in-the-senate",
                     "illustration_count": 8,
-                    "word_count": 13791,
+                    "word_count": 13798,
                     "parts": [
                         {
                             "part_num": 1,
@@ -5124,7 +5124,7 @@
                             "part_title": "Part 2: Route 36 to Timberline Shopping Center, Lunch at Don Miller Subs, Retro Games at Neat Stuff, & Suite 756",
                             "file_path": "e011/c004/p002.md",
                             "url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-suite-756-at-timberline-shopping-center-three-convictions-in-the-senate/part-2-route-36-to-timberline-shopping-center-lunch-at-don-miller-subs-retro-games-at-neat-stuff-suite-756",
-                            "word_count": 4955,
+                            "word_count": 4962,
                             "reading_minutes": 20,
                             "date": "2027-04-03",
                             "start_time": "12:05",
@@ -5259,7 +5259,7 @@
                     "chap_title": "The Supported Companions, Waiver Portability, & Social Security Solvency Act",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/the-supported-companions-waiver-portability-social-security-solvency-act",
                     "illustration_count": 2,
-                    "word_count": 3631,
+                    "word_count": 3748,
                     "parts": [
                         {
                             "part_num": 1,
@@ -5287,10 +5287,10 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: Dad's 1994 Crew Cab Pickup, First-Time Guests at the White House, & Signing Law Number One in the Restored Rose Garden",
+                            "part_title": "Part 2: Dad's 1991 Crew Cab Pickup, First-Time Guests at the White House, & Signing Law Number One in the Restored Rose Garden",
                             "file_path": "e011/c007/p002.md",
-                            "url": "/katie/the-senator-from-virginia/the-supported-companions-waiver-portability-social-security-solvency-act/part-2-dad-s-1994-crew-cab-pickup-first-time-guests-at-the-white-house-signing-law-number-one-in-the-restored-rose-garden",
-                            "word_count": 1833,
+                            "url": "/katie/the-senator-from-virginia/the-supported-companions-waiver-portability-social-security-solvency-act/part-2-dad-s-1991-crew-cab-pickup-first-time-guests-at-the-white-house-signing-law-number-one-in-the-restored-rose-garden",
+                            "word_count": 1950,
                             "reading_minutes": 8,
                             "date": "2028-06-20",
                             "start_time": "08:45",
@@ -5316,14 +5316,14 @@
                     "chap_title": "Three Senate Terms, Refusing the 2044 Nomination, & The Stop #0812 Four-Seat Presidential Endorsement Loop",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop",
                     "illustration_count": 5,
-                    "word_count": 13579,
+                    "word_count": 13583,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Refusing the 2045 Presidency From Home, Five Statutory Shields Against the Bubble, & Out of the Closet Into Our Four-Person Nest",
                             "file_path": "e011/c008/p001.md",
                             "url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/part-1-refusing-the-2045-presidency-from-home-five-statutory-shields-against-the-bubble-out-of-the-closet-into-our-four-person-nest",
-                            "word_count": 3553,
+                            "word_count": 3557,
                             "reading_minutes": 15,
                             "date": "2043-10-24",
                             "start_time": "16:30",
