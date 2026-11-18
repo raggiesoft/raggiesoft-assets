@@ -18,7 +18,7 @@
             "pdf_bytes": 2175257,
             "text_epub_bytes": 85320,
             "text_pdf_bytes": 277257,
-            "package_7z_bytes": 68622
+            "package_7z_bytes": 68630
         },
         "illustration_count": 13,
         "story_arc_count": 0,
@@ -61,7 +61,7 @@
             "pdf_bytes": 858237,
             "text_epub_bytes": 301711,
             "text_pdf_bytes": 858237,
-            "package_7z_bytes": 228978
+            "package_7z_bytes": 228988
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -99,12 +99,12 @@
             "pdf": "1.7 MB",
             "text_epub": "656 KB",
             "text_pdf": "1.7 MB",
-            "package_7z": "453 KB",
+            "package_7z": "452 KB",
             "epub_bytes": 671893,
             "pdf_bytes": 1800709,
             "text_epub_bytes": 671893,
             "text_pdf_bytes": 1800709,
-            "package_7z_bytes": 463365
+            "package_7z_bytes": 463356
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -147,7 +147,7 @@
             "pdf_bytes": 1764104,
             "text_epub_bytes": 608772,
             "text_pdf_bytes": 1764104,
-            "package_7z_bytes": 426550
+            "package_7z_bytes": 426553
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -190,7 +190,7 @@
             "pdf_bytes": 241676,
             "text_epub_bytes": 84495,
             "text_pdf_bytes": 241676,
-            "package_7z_bytes": 68215
+            "package_7z_bytes": 68218
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -233,7 +233,7 @@
             "pdf_bytes": 56108431,
             "text_epub_bytes": 1030001,
             "text_pdf_bytes": 3873520,
-            "package_7z_bytes": 738114
+            "package_7z_bytes": 738111
         },
         "illustration_count": 72,
         "story_arc_count": 2,
@@ -313,7 +313,7 @@
             "pdf_bytes": 3540,
             "text_epub_bytes": 5403,
             "text_pdf_bytes": 3540,
-            "package_7z_bytes": 1208
+            "package_7z_bytes": 1207
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -356,7 +356,7 @@
             "pdf_bytes": 235362,
             "text_epub_bytes": 85613,
             "text_pdf_bytes": 235362,
-            "package_7z_bytes": 63768
+            "package_7z_bytes": 63769
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -399,7 +399,7 @@
             "pdf_bytes": 21143357,
             "text_epub_bytes": 55576,
             "text_pdf_bytes": 168226,
-            "package_7z_bytes": 45147
+            "package_7z_bytes": 45150
         },
         "illustration_count": 9,
         "story_arc_count": 0,
@@ -442,7 +442,7 @@
             "pdf_bytes": 206039,
             "text_epub_bytes": 74019,
             "text_pdf_bytes": 206039,
-            "package_7z_bytes": 57784
+            "package_7z_bytes": 57794
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -485,7 +485,7 @@
             "pdf_bytes": 73850,
             "text_epub_bytes": 20317,
             "text_pdf_bytes": 73850,
-            "package_7z_bytes": 15375
+            "package_7z_bytes": 15373
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -528,7 +528,7 @@
             "pdf_bytes": 3759,
             "text_epub_bytes": 5425,
             "text_pdf_bytes": 3759,
-            "package_7z_bytes": 2024
+            "package_7z_bytes": 2021
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -571,7 +571,7 @@
             "pdf_bytes": 785811,
             "text_epub_bytes": 15389,
             "text_pdf_bytes": 47154,
-            "package_7z_bytes": 13891
+            "package_7z_bytes": 13884
         },
         "illustration_count": 2,
         "story_arc_count": 1,
@@ -590,9 +590,9 @@
                 "part_count": 2,
                 "backstage_count": 6,
                 "stop_count": 8,
-                "word_count": 12936,
-                "reading_minutes": 52,
-                "reading_hours": 0.9
+                "word_count": 12466,
+                "reading_minutes": 50,
+                "reading_hours": 0.8
             }
         ],
         "word_stats": {
@@ -633,7 +633,7 @@
             "pdf_bytes": 3367309,
             "text_epub_bytes": 189674,
             "text_pdf_bytes": 3367313,
-            "package_7z_bytes": 145091
+            "package_7z_bytes": 145098
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -676,7 +676,7 @@
             "pdf_bytes": 482428,
             "text_epub_bytes": 169681,
             "text_pdf_bytes": 482428,
-            "package_7z_bytes": 126121
+            "package_7z_bytes": 126127
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -703,44 +703,44 @@
     {
         "slug": "katie",
         "title": "Katie & Nathaniel",
-        "short_description": "From childhood cartoon passwords and square-closet sanctuaries in Virginia Beach to Coastal Virginia Transit buses, walking out of Roosevelt Rehabilitation Center after twelve days, and serving in the Virginia General Assembly and the United States Senate, autistic fraternal twins Katie and Nathaniel (\"Nate\") Prairie never leave each other behind.",
-        "description": "Katie & Nathaniel follows the thirty-three-year journey of autistic fraternal twins Katie and Nathaniel (\"Nate\") Prairie (born April 8, 1985) across Virginia Beach, Norfolk, Richmond, and Washington, D.C. From secret afternoon cartoon passwords, summer camp at Virginia Dominion University alongside Michael and Rachel Ragsdale, the Blizzard of '96, and getting their first compact powerchairs at sixteen, to reclaiming their West Ocean View sanctuary, walking out of the Roosevelt Rehabilitation Center in Fishersville after twelve days, launching the Ideas for CVTA transit blog, and rising from Kempsville City Council to the Virginia House of Delegates, the Senate of Virginia, and the United States Senate, Nate and Katie prove that twin brothers and sisters are each other's lifelong safe person.",
+        "short_description": "Autistic twins Katie and Nate Prairie ride public buses from Virginia Beach sanctuaries to the U.S. Senate together.",
+        "description": "Katie & Nathaniel follows the five-decade journey of autistic fraternal twins Katie and Nathaniel (\"Nate\") Prairie (born April 8, 1985) across Virginia Beach, Norfolk, Richmond, and Washington, D.C. From secret afternoon cartoon passwords, summer camp at Virginia Dominion University alongside Michael and Rachel Ragsdale, the Blizzard of '96, and getting their first compact powerchairs at sixteen, to welcoming Heather and Wesley into their lifelong Virginia household at Graduation 2003, walking out of Roosevelt Rehabilitation Center in Fishersville in July 2007, launching the Ideas for CVTA transit blog, rescuing cousins Brittany and Chelsea into their six-person Alaskan King home, and rising from Kempsville City Council to the Virginia House of Delegates, the Senate of Virginia, and the United States Senate, Nate and Katie prove that nobody in their family ever gets left behind.",
         "image": "/raggiesoft-books/images/covers/2x3/katie.jpg",
         "first_route": "/raggiesoft-books/books/katie/early-childhood/the-great-afternoon/cartoons-are-for-life-the-secret-password-the-afternoon-sanctuary",
         "folder": "katie",
         "hide": false,
         "ebook_sizes": {
-            "epub": "70.8 MB",
-            "pdf": "69.9 MB",
-            "text_epub": "805 KB",
-            "text_pdf": "2.1 MB",
-            "package_7z": "609 KB",
-            "epub_bytes": 74285963,
-            "pdf_bytes": 73312912,
-            "text_epub_bytes": 824240,
-            "text_pdf_bytes": 2251749,
-            "package_7z_bytes": 623339
+            "epub": "61.4 MB",
+            "pdf": "59.7 MB",
+            "text_epub": "727 KB",
+            "text_pdf": "1.9 MB",
+            "package_7z": "549 KB",
+            "epub_bytes": 64398874,
+            "pdf_bytes": 62587729,
+            "text_epub_bytes": 744573,
+            "text_pdf_bytes": 2029966,
+            "package_7z_bytes": 562325
         },
-        "illustration_count": 156,
+        "illustration_count": 134,
         "story_arc_count": 4,
         "story_arcs": [
             {
-                "slug": "heather-wesley-and-north-lion",
+                "slug": "heather-wesley-and-virginia",
                 "series_slug": "katie",
                 "series_title": "Katie & Nathaniel",
-                "backstage_playlist_slug": "katie-heather-wesley-and-north-lion",
-                "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/katie-heather-wesley-and-north-lion/",
-                "title": "From Northwood High to North Lion: Heather, Wesley & Chelsea",
-                "subtitle": "2001\u20132032 \u2022 Teenage Heartbreak, Ten Years Behind the Lens, Three Mirrored Suites & Keeping the Promise Rolling",
-                "description": "Follow Heather Collins from Nate's high school girlfriend at Emerald Creek Mall and Wesley's January 2003 blowout through ten years building North Lion Scales & Tails in Minnesota, Senator Katie Prairie's 2028 landmark disability reform law, and Wesley and Chelsea's three mirrored ground-floor in-law suites.",
-                "image": "/raggiesoft-books/images/scenes/katie/b005/jun_2018_maplewood_north_lion_ribbon_cutting_earned_hug_nate_heather_wesley.jpg",
-                "start_url": "/katie/sixteen-summer-sanctuary/sixteen-on-four-wheels-finding-dates/part-1-navigating-northwood-high-on-four-wheels-two-first-dates-why-we-ride-on-saturday?arc=heather-wesley-and-north-lion",
-                "part_count": 32,
-                "backstage_count": 8,
-                "stop_count": 40,
-                "word_count": 81011,
-                "reading_minutes": 325,
-                "reading_hours": 5.4
+                "backstage_playlist_slug": "katie-heather-wesley-and-virginia",
+                "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/katie-heather-wesley-and-virginia/",
+                "title": "Staying in Virginia Together: Heather, Wesley & Our Six-Person Home",
+                "subtitle": "2001\u20132032 \u2022 Pavilion Reunion, Ten Campuses, Secular Wedding, Alaskan King & Two Mirrored Suites",
+                "description": "Follow Heather and Wesley from Emerald Creek Mall and Graduation 2003 at the Virginia Beach Pavilion\u2014where Nate and Katie welcome Heather back for Wesley's sake and Aunt Linda stays in Virginia\u2014through their ten-campus summer tour, Monticello Avenue rescue, Route 250 hotel week, 2008 secular wedding, South Richmond 'I object!' showdown, migrating full-time onto their solid-oak Alaskan King, and Senator Katie Prairie's 2028 Supported Companions Act.",
+                "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
+                "start_url": "/katie/sixteen-summer-sanctuary/sixteen-on-four-wheels-finding-dates/part-1-navigating-northwood-high-on-four-wheels-two-first-dates-why-we-ride-on-saturday?arc=heather-wesley-and-virginia",
+                "part_count": 34,
+                "backstage_count": 3,
+                "stop_count": 37,
+                "word_count": 72162,
+                "reading_minutes": 289,
+                "reading_hours": 4.8
             },
             {
                 "slug": "katie-political-career",
@@ -750,14 +750,14 @@
                 "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/katie-katie-political-career/",
                 "title": "Katie's Political Career: From the 5:30 Bus Curfew to the U.S. Senate",
                 "subtitle": "2007\u20132044 \u2022 City Council, House of Delegates, Madam Chair & Senator From Virginia",
-                "description": "Trace Katie Prairie's public-service journey alongside Nate\u2014from a 2007 White House and Capitol visit and Virginia Beach's 5:30 PM bus curfew to City Council, the viral House Bill 663 speech, flipping the State Senate, and riding every bus in Virginia to the United States Senate.",
+                "description": "Trace Katie Prairie's public-service journey alongside Nate\u2014from their 2007 White House and Capitol visit and Virginia Beach's 5:30 PM bus curfew to City Council, the viral House Bill 663 speech, flipping the State Senate, and riding every bus in Virginia to the United States Senate.",
                 "image": "/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait_og.jpg",
-                "start_url": "/katie/unofficial-homeowners-back-home-in-virginia-beach-2007-2008/twenty-two-in-alexandria-riding-dmv-transit-touring-the-white-house-the-u-s-capitol-meeting-senator-james-west-the-spark-to-run-for-city-council-two-blue-passports/part-2-unclipping-our-backpacks-where-is-president-george-w-walker-today-the-white-house-tour-that-sparked-a-political-calling?arc=katie-political-career",
+                "start_url": "/katie/unofficial-homeowners-on-arvin-road-turning-twenty-two-in-washington-not-the-right-skill-match/twenty-two-in-alexandria-riding-dmv-transit-touring-the-white-house-the-u-s-capitol-meeting-senator-james-west-the-spark-to-run-for-city-council-two-blue-passports/part-2-unclipping-our-backpacks-where-is-president-george-w-walker-today-the-white-house-tour-that-sparked-a-political-calling?arc=katie-political-career",
                 "part_count": 38,
                 "backstage_count": 5,
                 "stop_count": 43,
-                "word_count": 123722,
-                "reading_minutes": 495,
+                "word_count": 122739,
+                "reading_minutes": 491,
                 "reading_hours": 8.2
             },
             {
@@ -767,14 +767,14 @@
                 "backstage_playlist_slug": "katie-brittany-chelsea-and-the-four-person-sanctuary",
                 "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/katie-brittany-chelsea-and-the-four-person-sanctuary/",
                 "title": "Rescuing Our Cousins & Passing the Torch: Brittany & Chelsea",
-                "subtitle": "2002\u20132032 \u2022 Holding the Elevator, Braxton Probate Court, Saying Goodbye to Dad & Brittany's 1991 Crew Cab",
-                "description": "From Tonomy Hill in 2004 and thirteen years sleeping inside dark closets to rescuing Brittany at a South Richmond church, freeing Chelsea from Mount Regalis, unveiling Wesley and Chelsea's three mirrored in-law suites, saying goodbye to Uncle Richard and Dad, and Brittany succeeding Uncle David as Chelsea's guardian and inheriting his 1991 four-speed pickup.",
+                "subtitle": "2002\u20132032 \u2022 Holding the Elevator, Braxton Probate Court, Our Alaskan King & Brittany's 1991 Crew Cab",
+                "description": "From Tonomy Hill in 2004 and thirteen years sleeping inside dark closets to rescuing Brittany at a South Richmond church alongside Heather and Wesley, freeing Chelsea from Mount Regalis, coaxing everyone onto their six-person solid-oak Alaskan King, unveiling Wesley and Chelsea's two mirrored companion suites, saying goodbye to Uncle Richard and Dad, and Brittany inheriting Uncle David's 1991 four-speed pickup.",
                 "image": "/raggiesoft-books/images/scenes/katie/b005/jul_2016_kings_college_royal_gate_court_order_chelsea_rescue_family.jpg",
-                "start_url": "/katie/seventeen-senior-year-greenway-court/drunken-new-year/part-1-the-gas-station-run-a-box-of-dry-cereal-why-i-never-had-a-twenty-first-birthday-drink?arc=brittany-chelsea-and-the-four-person-sanctuary",
+                "start_url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/drunken-new-year/part-1-the-gas-station-run-a-box-of-dry-cereal-why-i-never-had-a-twenty-first-birthday-drink?arc=brittany-chelsea-and-the-four-person-sanctuary",
                 "part_count": 17,
                 "backstage_count": 3,
                 "stop_count": 20,
-                "word_count": 49342,
+                "word_count": 49266,
                 "reading_minutes": 198,
                 "reading_hours": 3.3
             },
@@ -784,35 +784,35 @@
                 "series_title": "Katie & Nathaniel",
                 "backstage_playlist_slug": "katie-fishersville-twelve-days-and-twenty-years",
                 "backstage_playlist_url": "https://backstage.raggiesoft.com/arcs/katie-fishersville-twelve-days-and-twenty-years/",
-                "title": "Roosevelt Rehabilitation Center: Twelve Days in 2007 & The 2027 Reckoning",
-                "subtitle": "2007 & 2027 \u2022 Barton Hall Level 2, Walking Out Free & Auditing Fishersville From the Senate",
-                "description": "Experience Katie and Nate's twelve days trapped under patronizing rules at Roosevelt Rehabilitation Center in March 2007\u2014and jump straight to 2027 when U.S. Senator Katie Prairie returns unannounced on a public bus to clean house.",
+                "title": "Roosevelt Rehabilitation Center: Summer 2007 & The 2027 Reckoning",
+                "subtitle": "2007 & 2027 \u2022 Barton Hall Level 2, Staying Off Campus Without Passes & Auditing Fishersville From the Senate",
+                "description": "Experience Katie and Nate's July 2007 summer weeks at Roosevelt Rehabilitation Center\u2014from a failed corporate HR interview and Heather's Route 250 Connector extended-stay hotel to walking off campus without passes after the pool assault\u2014and jump straight to 2027 when U.S. Senator Katie Prairie returns unannounced on the Route 250 bus on the exact twentieth anniversary to clean house.",
                 "image": "/raggiesoft-books/images/scenes/katie/b005/jan_2027_alx_arts_mobile_lift_senator_elect_katie_prairie.jpg",
-                "start_url": "/katie/six-buses-from-williamsburg-sea-breeze-west-coming-home-to-arvin-road/tiffany-s-sea-breeze-west-apartment-dirty-old-tonomy-hill-coming-home-to-arvin-road/part-5-the-cchr-disability-counselor-the-glossy-fishersville-pitch-why-brother-and-sister-should-get-to-share-a-dorm-room?arc=fishersville-twelve-days-and-twenty-years",
-                "part_count": 10,
+                "start_url": "/katie/unofficial-homeowners-on-arvin-road-turning-twenty-two-in-washington-not-the-right-skill-match/associate-degrees-in-hand-not-the-right-skill-match-giving-dars-and-rrc-a-chance/part-1-associate-degrees-in-hand-not-quite-the-right-skill-match-questioning-our-enterprise-skillset?arc=fishersville-twelve-days-and-twenty-years",
+                "part_count": 11,
                 "backstage_count": 8,
-                "stop_count": 18,
-                "word_count": 51696,
-                "reading_minutes": 207,
-                "reading_hours": 3.4
+                "stop_count": 19,
+                "word_count": 49375,
+                "reading_minutes": 198,
+                "reading_hours": 3.3
             }
         ],
         "word_stats": {
-            "story_word_count": 337850,
-            "lore_word_count": 118075,
-            "combined_word_count": 455925,
-            "story_page_count": 1229,
-            "combined_page_count": 1658,
-            "reading_hours": 22.5,
-            "reading_minutes": 1351,
-            "novel_equivalent": 3.8,
+            "story_word_count": 301763,
+            "lore_word_count": 118040,
+            "combined_word_count": 419803,
+            "story_page_count": 1097,
+            "combined_page_count": 1527,
+            "reading_hours": 20.1,
+            "reading_minutes": 1207,
+            "novel_equivalent": 3.4,
             "scale_category": "Multi-Volume Epic Omnibus",
             "scale_badge": "Multi-Volume Omnibus",
-            "benchmark_note": "3.8\u00d7 a standard 90,000-word contemporary novel (~4-volume print series)",
+            "benchmark_note": "3.4\u00d7 a standard 90,000-word contemporary novel (~3-volume print series)",
             "era_count": 11,
-            "chapter_count": 48,
-            "part_count": 134,
-            "illustration_count": 156,
+            "chapter_count": 50,
+            "part_count": 127,
+            "illustration_count": 134,
             "story_arc_count": 4
         }
     },
@@ -835,7 +835,7 @@
             "pdf_bytes": 12157369,
             "text_epub_bytes": 787346,
             "text_pdf_bytes": 2350731,
-            "package_7z_bytes": 563354
+            "package_7z_bytes": 563356
         },
         "illustration_count": 3,
         "story_arc_count": 0,
@@ -921,7 +921,7 @@
             "pdf_bytes": 121729,
             "text_epub_bytes": 41112,
             "text_pdf_bytes": 121729,
-            "package_7z_bytes": 32519
+            "package_7z_bytes": 32517
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -964,7 +964,7 @@
             "pdf_bytes": 202768,
             "text_epub_bytes": 70990,
             "text_pdf_bytes": 202768,
-            "package_7z_bytes": 53992
+            "package_7z_bytes": 53986
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1007,7 +1007,7 @@
             "pdf_bytes": 1272576,
             "text_epub_bytes": 454226,
             "text_pdf_bytes": 1272576,
-            "package_7z_bytes": 328026
+            "package_7z_bytes": 328034
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1050,7 +1050,7 @@
             "pdf_bytes": 1475296,
             "text_epub_bytes": 510178,
             "text_pdf_bytes": 1475296,
-            "package_7z_bytes": 371773
+            "package_7z_bytes": 371768
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1093,7 +1093,7 @@
             "pdf_bytes": 400644,
             "text_epub_bytes": 140639,
             "text_pdf_bytes": 400644,
-            "package_7z_bytes": 112024
+            "package_7z_bytes": 112025
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1136,7 +1136,7 @@
             "pdf_bytes": 258845,
             "text_epub_bytes": 87130,
             "text_pdf_bytes": 258845,
-            "package_7z_bytes": 70800
+            "package_7z_bytes": 70795
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1179,7 +1179,7 @@
             "pdf_bytes": 5514260,
             "text_epub_bytes": 78490,
             "text_pdf_bytes": 5514258,
-            "package_7z_bytes": 60968
+            "package_7z_bytes": 60973
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1222,7 +1222,7 @@
             "pdf_bytes": 5058155,
             "text_epub_bytes": 407438,
             "text_pdf_bytes": 1263033,
-            "package_7z_bytes": 304853
+            "package_7z_bytes": 304850
         },
         "illustration_count": 10,
         "story_arc_count": 2,
@@ -1298,11 +1298,11 @@
             "text_epub": "1.1 MB",
             "text_pdf": "3.1 MB",
             "package_7z": "792 KB",
-            "epub_bytes": 79790300,
-            "pdf_bytes": 84144743,
-            "text_epub_bytes": 1167209,
-            "text_pdf_bytes": 3253711,
-            "package_7z_bytes": 810620
+            "epub_bytes": 79790331,
+            "pdf_bytes": 84144768,
+            "text_epub_bytes": 1167246,
+            "text_pdf_bytes": 3253696,
+            "package_7z_bytes": 810647
         },
         "illustration_count": 131,
         "story_arc_count": 2,
@@ -1382,7 +1382,7 @@
             "pdf_bytes": 663054,
             "text_epub_bytes": 237599,
             "text_pdf_bytes": 663054,
-            "package_7z_bytes": 172124
+            "package_7z_bytes": 172129
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1425,7 +1425,7 @@
             "pdf_bytes": 41824,
             "text_epub_bytes": 14621,
             "text_pdf_bytes": 41824,
-            "package_7z_bytes": 35555
+            "package_7z_bytes": 35548
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1468,7 +1468,7 @@
             "pdf_bytes": 194380,
             "text_epub_bytes": 66154,
             "text_pdf_bytes": 194380,
-            "package_7z_bytes": 50610
+            "package_7z_bytes": 50607
         },
         "illustration_count": 0,
         "story_arc_count": 0,
@@ -1506,12 +1506,12 @@
             "pdf": "18.8 MB",
             "text_epub": "185 KB",
             "text_pdf": "561 KB",
-            "package_7z": "141 KB",
+            "package_7z": "142 KB",
             "epub_bytes": 17922403,
             "pdf_bytes": 19689814,
             "text_epub_bytes": 189098,
             "text_pdf_bytes": 573989,
-            "package_7z_bytes": 144894
+            "package_7z_bytes": 144903
         },
         "illustration_count": 25,
         "story_arc_count": 2,
@@ -1586,12 +1586,12 @@
             "pdf": "3.2 KB",
             "text_epub": "5.3 KB",
             "text_pdf": "3.2 KB",
-            "package_7z": "937 B",
+            "package_7z": "938 B",
             "epub_bytes": 5409,
             "pdf_bytes": 3262,
             "text_epub_bytes": 5410,
             "text_pdf_bytes": 3262,
-            "package_7z_bytes": 937
+            "package_7z_bytes": 938
         },
         "illustration_count": 0,
         "story_arc_count": 0,
