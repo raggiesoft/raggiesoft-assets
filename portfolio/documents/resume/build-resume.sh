@@ -8,6 +8,7 @@
 # ==============================================================================
 
 set -e
+export PATH="/Library/TeX/texbin:/opt/homebrew/bin:/usr/local/bin:$PATH"
 cd "$(dirname "$0")"
 
 MD_FILE=${1:-mragsdale-resume.md}

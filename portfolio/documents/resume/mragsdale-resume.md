@@ -1,30 +1,28 @@
 # MICHAEL P. RAGSDALE
-**Software Architect | Full-Stack Developer & Section 508 Engineer**  
-Cloud Infrastructure • Accessibility Engineering • Open-Source Platform Development  
-Norfolk, VA | U.S. Citizen (Clearance Eligible) | [michaelpragsdale.com](https://michaelpragsdale.com) | [hello@michaelpragsdale.com](mailto:hello@michaelpragsdale.com)
+**Full-Stack Web Developer & Section 508 Accessibility Specialist**  
+Web Application Development • WCAG 2.1 AA / Section 508 • Cloud & Desktop Software  
+Norfolk, VA | U.S. Citizen (Prior Federal Public Trust) | [michaelpragsdale.com](https://michaelpragsdale.com) | [hello@michaelpragsdale.com](mailto:hello@michaelpragsdale.com)
 
 ## Professional Summary
-Software Architect and Full-Stack Developer specializing in custom web platforms, accessibility-first application architecture, cloud infrastructure, and open-source software development. Creator of the Stardust Engine CMS, a zero-database PHP framework featuring JSON-driven routing, custom SPA navigation, and polyglot decoupled micro-properties across Angular, SvelteKit, React/Next.js, and Vanilla PHP/JS. Experienced across the full software lifecycle, including architecture, development, cloud deployment, DNS management, CI/CD automation, and production operations.
+Full-Stack Web Developer and Section 508 Accessibility Specialist combining institutional accessibility remediation at Old Dominion University, public-facing municipal operations with the City of Virginia Beach, and continuous hands-on software engineering. Creator of the open-source Stardust Engine CMS and an 11-property web and native desktop ecosystem spanning PHP 8.5, TypeScript, Angular, React/Next.js, SvelteKit, C#/.NET, and SwiftUI. Experienced across full-stack web development, manual screen-reader and keyboard auditing (JAWS, NVDA, VoiceOver, Deque axe), accessible document design, and Linux/Nginx cloud deployment.
 
 ## Technical Skills
-* **Languages & Frameworks:** PHP 8.5, TypeScript, JavaScript (ES2024), Angular 19, Svelte 5 / SvelteKit, React 19 / Next.js, Python, Bash, SQL, HTML5, Modern CSS3 (`@layer`, `subgrid`, `@container`)
-* **Architecture:** MVC Frameworks, Zero-Database JSON/Markdown Data Lakes, SPA Applications, REST APIs
-* **Infrastructure:** Ubuntu Linux, Nginx, DigitalOcean (Droplets/Spaces), Cloudflare, Git, CI/CD, FFmpeg
-* **Accessibility:** WCAG 2.1 AA/AAA, Federal Section 508, Deque axe, JAWS/NVDA, Dual-Layer Canvas ARIA
-* **AI & Automation:** Gemini, LLM Workflows, AI Development Governance, RealESRGAN, Whisper WebVTT
+* **Languages & Web Frameworks:** TypeScript, JavaScript (ES6+), PHP 8.5, HTML5, Modern CSS3 (`@layer`, `subgrid`, `@container`), Angular 19, React 19 / Next.js, Svelte 5 / SvelteKit, Astro, Vue / Nuxt, SQL, Python, Bash
+* **Accessibility & Section 508:** Federal Section 508, WCAG 2.1 AA, Manual Screen-Reader Testing (JAWS, NVDA, VoiceOver, Narrator), Deque axe, WAVE, Accessible Document Design (Word, PDF), Dual-Layer Canvas ARIA
+* **Desktop & Native Platforms:** C# / .NET 10 (WPF, Named Pipes IPC, UIAutomation), Swift / SwiftUI (macOS, iOS, iPadOS), Visual Basic 6.0 / Win32, Inno Setup
+* **Cloud, Linux & Operational Tools:** Ubuntu Linux, Nginx, DigitalOcean (Droplets & Spaces S3 CDN), Cloudflare DNS/SSL, Git, CI/CD Scripting, FFmpeg, WebVTT Captioning, ActiveNet, Microsoft Office
 
-## Relevant Technical Experience
+## Professional Experience
 
-### Principal Systems Architect & Founder
-**RaggieSoft Media | Norfolk, VA | [raggiesoftmedia.com](https://raggiesoftmedia.com) | Est. 2008 – Present**  
-Founded and operate RaggieSoft Media, an independent software development and digital media publishing ecosystem supporting web applications, cloud infrastructure, narrative publishing, music distribution, and open-source platform development.
+### Independent Full-Stack Web Developer & Creator
+**RaggieSoft Media | Norfolk, VA | [raggiesoft.com](https://raggiesoft.com) | 2008 – Present**  
+Design, build, and maintain an independent software development and digital publishing ecosystem spanning open-source web frameworks, decoupled frontend applications, cross-platform desktop apps, and Linux cloud infrastructure.
 
-* **Platform Architecture & CMS:** Architected and open-sourced **Stardust Engine CMS**, an MIT-licensed, zero-database PHP MVC platform utilizing a lightweight JSON data layer, native PHP request routing, and **Elara**, a custom Vanilla JavaScript SPA routing engine for dynamic DOM hydration.
-* **Multi-Domain & Cloud Edge:** Orchestrate a production fleet of 9 distinct domains via **Cloudflare DNS/CDN** edge routing, 301 redirection rules, and automated deployment pipelines syncing assets to **DigitalOcean Spaces** (S3-compatible object storage) and Nginx reverse proxies.
-* **Automated Media Engineering:** Engineered automated server-side pipelines utilizing **FFmpeg** and Bash to transcode and normalize high-resolution audio assets across multiple distribution formats (FLAC, WAV, MP3, OGG), paired with custom **PHP GD** engines that dynamically composite Open Graph social cards across routes.
-* **E-Commerce & Digital Fulfillment:** Integrated **Fourthwall** as an international Merchant of Record (MoR) with custom DNS architecture, powering automated, frictionless global fulfillment of physical merchandise and digital assets without third-party vendor lock-in.
-* **AI Governance & Engineering:** Authored comprehensive architectural constraints, repository standards, and prompt protocols to govern AI-assisted engineering workflows across the codebase, ensuring maintainability, code integrity, and architectural consistency.
-* **Accessibility by Design:** Enforce strict **WCAG 2.1 AA** and **Section 508** compliance across all UI components, custom modals, media players, and narrative readers, ensuring zero accessibility debt out of the box.
+* **Full-Stack Web & CMS Development:** Built and open-sourced **Stardust Engine CMS** (MIT License), a lightweight PHP 8.5 MVC and JSON-routed web framework, alongside decoupled production web applications in **Angular 19**, **SvelteKit**, **React / Next.js**, **Astro**, and **Nuxt** across 11 live web properties.
+* **Cross-Platform Desktop & Mobile Apps:** Developed companion native applications in **C# / .NET 10 WPF** (Windows) and **SwiftUI** (macOS, iOS, iPadOS) that consume static JSON APIs and synchronized WebVTT lyric streams with full keyboard navigation and native screen-reader (`UIAutomation` / VoiceOver) support.
+* **Accessibility by Design:** Implement **WCAG 2.1 AA** and **Section 508** standards across custom modals, audio players, long-form readers, Light/Dark/High-Contrast (`forced-colors`) themes, and a Dual-Layer HTML5 `<canvas>` + ARIA Shadow DOM interface.
+* **Linux Cloud & CI/CD Automation:** Manage **Ubuntu Linux** and **Nginx** virtual hosts on DigitalOcean, **Cloudflare** DNS/edge routing, and automated Bash/PHP/Node.js build and deployment scripts (`jenna-sync.sh`, `sarah-deploy.sh`, `paige.php`) with S3-compatible CDN asset synchronization.
+* **Media & Publishing Pipelines:** Built command-line **FFmpeg**, **PHP GD**, and **Pandoc** workflows to normalize multi-format audio streams, validate synchronized **WebVTT** captions, generate Open Graph social cards, and compile accessible EPUB and PDF editions.
 
 ### Clerk-Cashier
 **City of Virginia Beach Parks & Recreation | Virginia Beach, VA | May 2023 – Present**
@@ -35,24 +33,24 @@ Founded and operate RaggieSoft Media, an independent software development and di
 * **Technical Support & Knowledge Sharing:** Serve as a technical resource for coworkers using ActiveNet, Microsoft Office, and related Front Desk systems, providing practical troubleshooting assistance and explaining technical processes in approachable terms.
 * **Process Improvement:** Apply a software-development and accessibility background to identify opportunities for clearer information workflows, improved data presentation, and more efficient Front Desk operations within an established municipal environment.
 
-### Computer Operations
+### Computer Operations (Web & Section 508 Accessibility)
 **Old Dominion University (ODU Online) | Norfolk, VA | Nov 2019 – Jul 2022**
 
-* **Enterprise Accessibility Strategy:** Served as the primary technical gatekeeper for enterprise-level data and web content during a massive, university-wide digital infrastructure migration to the Canvas LMS.
-* **Compliance Auditing:** Executed rigorous WCAG 2.1 AA and Section 508 compliance audits, remediating complex codebases (HTML/CSS) and ensuring strict structural integrity across institutional platforms using tools like Deque axe.
-* **Architectural Standardization:** Engineered universal, inherently accessible data/architectural templates deployed across the university ecosystem, heavily streamlining data-entry workflows for instructional design faculty.
+* **LMS Migration & Content Remediation:** Audited and remediated university web pages, course modules, and instructional documents for accessibility and structural consistency during ODU Online's transition to the **Canvas LMS**.
+* **Section 508 & WCAG 2.1 AA Testing:** Performed accessibility evaluations combining automated scanners (**Deque axe**, WAVE) with manual keyboard navigation checks and screen-reader testing (**JAWS**, **NVDA**) to resolve semantic HTML, heading hierarchy, contrast, and ARIA issues.
+* **Accessible HTML/CSS Templates:** Developed reusable, Section 508-compliant HTML and CSS course module templates that helped instructional designers and faculty publish accessible distance-learning content consistently.
 
 ### Mobile Applications Developer Intern
 **Dominion Enterprises | Norfolk, VA | Sep 2012 – Dec 2012**
 
-* Engineered cross-platform mobile applications for iOS and Android utilizing the JavaScript-based Titanium SDK.
-* Gained foundational, hands-on experience in mobile architecture and deployment, establishing a decade-long trajectory in software engineering.
+* Developed and tested cross-platform iOS and Android mobile application views using JavaScript, REST APIs, and the Titanium SDK.
+* Collaborated with senior developers in an Agile environment on responsive UI behavior, cross-device debugging, and version-controlled releases.
 
 ## Education & Certification
 
 * **Tidewater Community College | Virginia Beach, VA**  
   Associate of Science, Information Technology (Focus: Software Engineering & Web Dev) | Expected Dec 2027
 * **Old Dominion University | Norfolk, VA**  
-  Bachelor of Science, Customized Studies in Leadership | Prior Coursework
+  Bachelor of Science Coursework, Customized Studies in Leadership & Information Systems | Prior Coursework
 * **Wilson Workforce and Rehabilitation Center (formerly Woodrow Wilson Rehabilitation Center) | Fishersville, VA**  
   Certificate, Business & Information Technology | 2011
