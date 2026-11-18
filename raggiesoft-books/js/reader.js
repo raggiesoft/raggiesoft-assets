@@ -1919,6 +1919,100 @@ function initTranslationSwaps() {
 
 // Prevent duplicate event listeners during SPA soft-navigations
 if (!window.oceanViewReaderInitialized) {
+    /**
+     * Story Crossroads Capture-Phase Persistence & Modal Switcher Controller
+     * -----------------------------------------------------------------------
+     * Bound in the DOM CAPTURE phase (`useCapture = true`) so that clicking a
+     * `[data-story-path]` link writes the `rs_path_<bookSlug>` cookie and
+     * `localStorage` entry synchronously BEFORE `stardust-spa.min.js`'s
+     * bubble-phase navigation `fetch()` executes.
+     */
+    document.addEventListener('click', (e) => {
+        const pathTrigger = e.target.closest('[data-story-path]');
+        if (pathTrigger) {
+            const pathId = (pathTrigger.getAttribute('data-story-path') || '').trim();
+            const cxId = (pathTrigger.getAttribute('data-story-crossroads') || '').trim();
+            const bookSlug = (pathTrigger.getAttribute('data-story-book') || '').trim().replace(/[^a-z0-9_-]/gi, '_');
+            if (bookSlug) {
+                const mapCookieKey = 'rs_cx_' + bookSlug;
+                const legacyCookieKey = 'rs_path_' + bookSlug;
+                const storageKey = 'rs-story-choices-' + bookSlug;
+                let choicesMap = {};
+                try {
+                    const existingCookie = document.cookie.split('; ').find((row) => row.startsWith(mapCookieKey + '='));
+                    if (existingCookie) {
+                        const parsed = JSON.parse(decodeURIComponent(existingCookie.substring(mapCookieKey.length + 1)));
+                        if (parsed && typeof parsed === 'object') choicesMap = parsed;
+                    } else {
+                        const rawLs = localStorage.getItem(storageKey);
+                        if (rawLs) {
+                            const parsedLs = JSON.parse(rawLs);
+                            if (parsedLs && typeof parsedLs === 'object') choicesMap = parsedLs;
+                        }
+                    }
+                } catch (err) {}
+
+                if (pathId === 'reset' || pathId === '') {
+                    if (cxId && Object.prototype.hasOwnProperty.call(choicesMap, cxId)) {
+                        delete choicesMap[cxId];
+                    } else {
+                        choicesMap = {};
+                    }
+                } else if (cxId) {
+                    choicesMap[cxId] = pathId;
+                }
+
+                if (Object.keys(choicesMap).length === 0) {
+                    document.cookie = mapCookieKey + '=; path=/; max-age=0; SameSite=Lax';
+                    document.cookie = legacyCookieKey + '=; path=/; max-age=0; SameSite=Lax';
+                    try { localStorage.removeItem(storageKey); } catch (err) {}
+                } else {
+                    const encodedJson = encodeURIComponent(JSON.stringify(choicesMap));
+                    document.cookie = mapCookieKey + '=' + encodedJson + '; path=/; max-age=31536000; SameSite=Lax';
+                    try { localStorage.setItem(storageKey, JSON.stringify(choicesMap)); } catch (err) {}
+                }
+            }
+            const openDlg = document.getElementById('rs-story-crossroads-dialog');
+            if (openDlg && openDlg.open) {
+                openDlg.close();
+            }
+        }
+
+        const openCxBtn = e.target.closest('[data-open-crossroads-dialog], [data-open-crossroads-if-present]');
+        if (openCxBtn) {
+            const cxDialog = document.getElementById('rs-story-crossroads-dialog');
+            if (cxDialog && typeof cxDialog.showModal === 'function') {
+                e.preventDefault();
+                e.stopPropagation();
+                cxDialog.showModal();
+                return;
+            }
+        }
+
+        const closeCxBtn = e.target.closest('#rs-story-crossroads-close');
+        if (closeCxBtn) {
+            const cxDialog = document.getElementById('rs-story-crossroads-dialog');
+            if (cxDialog && cxDialog.open) {
+                e.preventDefault();
+                cxDialog.close();
+            }
+        }
+
+        // Light-dismiss backdrop fallback for `<dialog id="rs-story-crossroads-dialog">`
+        if (e.target && e.target.id === 'rs-story-crossroads-dialog' && e.target.open) {
+            const rect = e.target.getBoundingClientRect();
+            const inside = (
+                e.clientX >= rect.left &&
+                e.clientX <= rect.right &&
+                e.clientY >= rect.top &&
+                e.clientY <= rect.bottom
+            );
+            if (!inside) {
+                e.target.close();
+            }
+        }
+    }, true);
+
     document.addEventListener('DOMContentLoaded', initOceanViewReader);
     document.addEventListener('stardust:loaded', initOceanViewReader);
     window.oceanViewReaderInitialized = true;

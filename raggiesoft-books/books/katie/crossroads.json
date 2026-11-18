@@ -1,0 +1,44 @@
+{
+    "crossroads": [
+        {
+            "id": "pavilion-apology-2003",
+            "trigger_part": "e004/c002/p004.md",
+            "kicker": "Story Crossroads • Saturday, June 14, 2003, 11:52 AM",
+            "title": "Outside the Virginia Beach Pavilion: How Do Katie and Nate Answer?",
+            "prompt": "Under the blooming crape-myrtles after commencement, Heather has just confessed the whole truth, and sixteen-year-old Wesley is turning his blue silicone ring between both palms—hoping with his whole heart not to lose his very first guy friend. Both paths forward are complete, coequal stories.",
+            "options": [
+                {
+                    "id": "accept-heather-virginia",
+                    "label": "Accept Heather's Apology & Welcome Her Back",
+                    "subtitle": "Forgive Heather under the Pavilion colonnade, stay in Virginia on in-state domicile, tour CCHR, VDU, and Warwick University together as a team, marry Heather, and rescue both Brittany and Chelsea.",
+                    "source_type": "paths_dir",
+                    "source_dir": "paths/accept-heather-virginia",
+                    "entry_part": "paths/accept-heather-virginia/e005/c001/p001.md",
+                    "forbidden_terms": [
+                        "Tiffany Sloan",
+                        "Dan Lindstrom",
+                        "Molly Lindstrom",
+                        "Jonas Lindstrom",
+                        "Nora Lindstrom",
+                        "Lindstrom",
+                        "Detroit-Windsor Tunnel",
+                        "jun_2028_restored_rose_garden_supported_companions_signing"
+                    ]
+                },
+                {
+                    "id": "wesley-aide-bridge",
+                    "label": "Say No to Dating, Yet Meet Once for Wesley",
+                    "subtitle": "Hold the romantic boundary, yet meet off Route 15 at Emerald Creek Mall on June 28 as Wesley's driver and aide so Wesley keeps his buddy bridge across thirteen hundred miles.",
+                    "source_type": "inline_continuation",
+                    "entry_part": "e004/c002/p005.md",
+                    "forbidden_terms": [
+                        "Warwick University",
+                        "Shoe Lane",
+                        "112 NNTC",
+                        "Heather Prairie"
+                    ]
+                }
+            ]
+        }
+    ]
+}
