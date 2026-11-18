@@ -261,7 +261,32 @@ function initOceanViewReader() {
     // ==========================================
     // 3. AUDIO ENGINE & MEDIA CONTROLS
     // ==========================================
-    const audioEl = document.getElementById('narrative-audio-element');
+    // Architectural Note (Safari / WebKit macOS & iOS PWA Compatibility):
+    // In WebKit, any `<audio>` node parsed inside an inert `DOMParser().parseFromString()`
+    // document during SPA navigation (`stardust-spa.min.js`) has no live CoreMedia player.
+    // Just like The Listening Room (`Player.svelte`), all actual audio streaming and
+    // playback MUST execute on the persistent live `window.document` `<audio id="stardust-bgm">`
+    // element located OUTSIDE `#stardust-app` (defined in `header.php`), while
+    // `#narrative-audio-element` inside `#stardust-app` acts strictly as the SSR metadata
+    // and track-queue carrier (`data-audio-src`, `data-queue`, `data-*`).
+    if (window.__rsAudioController && typeof window.__rsAudioController.abort === 'function') {
+        window.__rsAudioController.abort();
+    }
+    const audioAbortController = new AbortController();
+    window.__rsAudioController = audioAbortController;
+    const audioSignal = audioAbortController.signal;
+
+    let liveAudio = document.getElementById('stardust-bgm');
+    if (!liveAudio) {
+        liveAudio = window.document.createElement('audio');
+        liveAudio.id = 'stardust-bgm';
+        liveAudio.preload = 'none';
+        if (document.body) {
+            document.body.insertBefore(liveAudio, document.body.firstChild);
+        }
+    }
+
+    const metaEl = document.getElementById('narrative-audio-element');
     const loopBtn = document.getElementById('narrative-audio-loop-toggle');
     const lyricsBtn = document.getElementById('narrative-audio-lyrics-toggle');
     const lyricsDialog = document.getElementById('narrative-lyrics-dialog');
@@ -283,11 +308,17 @@ function initOceanViewReader() {
     let activeQueueIndex = 0;
     let queueMode = 'single';
     let repeatMode = 'one';
+    let initialAudioUrl = '';
 
-    if (audioEl) {
-        queueMode = audioEl.getAttribute('data-queue-mode') || 'single';
+    if (metaEl) {
+        initialAudioUrl = metaEl.getAttribute('data-audio-src') || metaEl.getAttribute('src') || '';
+        // Strip any legacy `src` attribute off the SSR carrier so WebKit never spins up a competing pipeline
+        if (metaEl.hasAttribute('src')) {
+            metaEl.removeAttribute('src');
+        }
+        queueMode = metaEl.getAttribute('data-queue-mode') || 'single';
         try {
-            const rawQueue = audioEl.getAttribute('data-queue');
+            const rawQueue = metaEl.getAttribute('data-queue');
             if (rawQueue) {
                 const parsedQueue = JSON.parse(rawQueue);
                 if (Array.isArray(parsedQueue)) {
@@ -297,17 +328,60 @@ function initOceanViewReader() {
         } catch (err) {
             console.warn('Unable to parse narrative audio queue JSON:', err);
         }
-        repeatMode = audioEl.getAttribute('data-repeat-mode') || (audioQueue.length > 1 ? 'all' : 'one');
-        activeQueueIndex = parseInt(audioEl.getAttribute('data-active-index') || '0', 10) || 0;
+        if (!initialAudioUrl && audioQueue.length > 0 && audioQueue[0] && audioQueue[0].audioUrl) {
+            initialAudioUrl = audioQueue[0].audioUrl;
+        }
+        repeatMode = metaEl.getAttribute('data-repeat-mode') || (audioQueue.length > 1 ? 'all' : 'one');
+        activeQueueIndex = parseInt(metaEl.getAttribute('data-active-index') || '0', 10) || 0;
+    } else {
+        // Navigating to a page with no chapter audio player (e.g., Home, TOC, Library):
+        // cleanly pause the persistent player so music never plays without visible controls.
+        if (liveAudio && !liveAudio.paused) {
+            liveAudio.pause();
+        }
+    }
+
+    // Resolves the canonical MP3 stream URL for the currently selected queue item
+    function getActiveTrackAudioUrl() {
+        if (audioQueue.length > 0 && audioQueue[activeQueueIndex] && audioQueue[activeQueueIndex].audioUrl) {
+            return audioQueue[activeQueueIndex].audioUrl;
+        }
+        return (metaEl && metaEl.getAttribute('data-audio-src')) || initialAudioUrl || '';
+    }
+
+    // Synchronize persistent liveAudio element when entering a chapter with an audio player:
+    // - If liveAudio is already playing/loaded on one of this chapter's queue tracks, preserve seamless playback!
+    // - Otherwise, pause any previous chapter's song cleanly and keep preload="none" until the reader presses Play.
+    if (metaEl && liveAudio) {
+        const currentLoadedUrl = liveAudio.currentSrc || liveAudio.getAttribute('src') || '';
+        let matchingIdx = -1;
+        if (currentLoadedUrl) {
+            if (audioQueue.length > 0) {
+                matchingIdx = audioQueue.findIndex(t => t && t.audioUrl === currentLoadedUrl);
+            } else if (initialAudioUrl && currentLoadedUrl === initialAudioUrl) {
+                matchingIdx = 0;
+            }
+        }
+        if (matchingIdx === -1) {
+            if (!liveAudio.paused) {
+                liveAudio.pause();
+            }
+            liveAudio.removeAttribute('src');
+            liveAudio.preload = 'none';
+            liveAudio.load();
+        } else if (matchingIdx > 0 && audioQueue.length > 1) {
+            activeQueueIndex = matchingIdx;
+            metaEl.setAttribute('data-active-index', String(matchingIdx));
+        }
     }
 
     // Helper: updates MediaSession metadata and prev/next handlers for current track
     function syncMediaSessionMetadata(trackObj) {
-        if (!('mediaSession' in navigator) || !audioEl) return;
-        const tTitle = (trackObj && trackObj.title) || audioEl.getAttribute('data-title') || '';
-        const tArtist = (trackObj && trackObj.artist) || audioEl.getAttribute('data-artist') || '';
-        const tAlbum = (trackObj && trackObj.album) || audioEl.getAttribute('data-album') || '';
-        const tArt = (trackObj && trackObj.artworkUrl) || audioEl.getAttribute('data-artwork') || '';
+        if (!('mediaSession' in navigator) || !metaEl) return;
+        const tTitle = (trackObj && trackObj.title) || metaEl.getAttribute('data-title') || '';
+        const tArtist = (trackObj && trackObj.artist) || metaEl.getAttribute('data-artist') || '';
+        const tAlbum = (trackObj && trackObj.album) || metaEl.getAttribute('data-album') || '';
+        const tArt = (trackObj && trackObj.artworkUrl) || metaEl.getAttribute('data-artwork') || '';
         try {
             navigator.mediaSession.metadata = new MediaMetadata({
                 title: tTitle,
@@ -318,32 +392,57 @@ function initOceanViewReader() {
         } catch (e) {}
     }
 
+    // Starts playback synchronously inside the user gesture on the persistent liveAudio element
+    // (matching The Listening Room's Player.svelte pattern for Safari/WebKit macOS & iOS PWAs)
+    function playLiveTrackUrl(targetUrl) {
+        if (!liveAudio || !targetUrl) return;
+        const loadedSrc = liveAudio.getAttribute('src') || '';
+        liveAudio.preload = 'auto';
+        if (loadedSrc !== targetUrl) {
+            liveAudio.src = targetUrl;
+        } else if (liveAudio.error) {
+            liveAudio.load();
+        }
+        const playPromise = liveAudio.play();
+        if (playPromise !== undefined) {
+            playPromise.catch(e => console.warn('Audio playback prevented or interrupted:', e));
+        }
+    }
+
     // Helper: loads a specific track from audioQueue by index and updates all player UI nodes
-    function loadQueueTrack(targetIndex, autoPlay) {
-        if (!audioEl || !audioQueue.length) return;
+    function loadQueueTrack(targetIndex, autoPlay, preserveCurrentStream) {
+        if (!metaEl || !liveAudio || !audioQueue.length) return;
         const count = audioQueue.length;
         const normalizedIndex = ((targetIndex % count) + count) % count;
         const track = audioQueue[normalizedIndex];
         if (!track) return;
 
         activeQueueIndex = normalizedIndex;
-        audioEl.setAttribute('data-active-index', String(normalizedIndex));
-        audioEl.setAttribute('data-title', track.title || '');
-        audioEl.setAttribute('data-artist', track.artist || '');
-        audioEl.setAttribute('data-album', track.album || '');
-        audioEl.setAttribute('data-artwork', track.artworkUrl || '');
-        audioEl.setAttribute('data-listening-room-track-url', track.listeningRoomTrackUrl || '');
-        audioEl.setAttribute('data-listening-room-album-url', track.listeningRoomAlbumUrl || '');
-        audioEl.src = track.audioUrl || '';
-        audioEl.currentTime = 0;
+        metaEl.setAttribute('data-active-index', String(normalizedIndex));
+        metaEl.setAttribute('data-title', track.title || '');
+        metaEl.setAttribute('data-artist', track.artist || '');
+        metaEl.setAttribute('data-album', track.album || '');
+        metaEl.setAttribute('data-artwork', track.artworkUrl || '');
+        metaEl.setAttribute('data-listening-room-track-url', track.listeningRoomTrackUrl || '');
+        metaEl.setAttribute('data-listening-room-album-url', track.listeningRoomAlbumUrl || '');
+        metaEl.setAttribute('data-audio-src', track.audioUrl || '');
 
-        if (scrubber) scrubber.value = 0;
-        if (currentTimeDisplay) currentTimeDisplay.textContent = '0:00';
-        if (durationDisplay) durationDisplay.textContent = track.duration || '0:00';
+        if (!preserveCurrentStream) {
+            if (!autoPlay) {
+                if (!liveAudio.paused) liveAudio.pause();
+                liveAudio.preload = 'none';
+                if (track.audioUrl) {
+                    liveAudio.src = track.audioUrl;
+                }
+            }
+            if (scrubber) scrubber.value = 0;
+            if (currentTimeDisplay) currentTimeDisplay.textContent = '0:00';
+            if (durationDisplay) durationDisplay.textContent = track.duration || '0:00';
+        }
 
         // Update Eyebrow label
         const eyebrowEl = document.getElementById('narrative-audio-eyebrow');
-        const playlistTitle = audioEl.getAttribute('data-playlist-title') || '';
+        const playlistTitle = metaEl.getAttribute('data-playlist-title') || '';
         if (eyebrowEl) {
             if (queueMode === 'playlist') {
                 eyebrowEl.textContent = 'Background Playlist • Track ' + (normalizedIndex + 1) + ' of ' + count + (playlistTitle ? ' — ' + playlistTitle : '');
@@ -460,13 +559,22 @@ function initOceanViewReader() {
 
         syncMediaSessionMetadata(track);
 
-        if (autoPlay) {
-            audioEl.play().catch(e => console.warn(e));
+        if (autoPlay && track.audioUrl) {
+            if ((liveAudio.getAttribute('src') || '') === track.audioUrl && !preserveCurrentStream) {
+                liveAudio.currentTime = 0;
+            }
+            playLiveTrackUrl(track.audioUrl);
         }
     }
     
-    if (audioEl && playToggleBtn) {
-        const startTime = parseFloat(audioEl.getAttribute('data-start-time') || 0);
+    if (metaEl && liveAudio && playToggleBtn) {
+        const startTime = parseFloat(metaEl.getAttribute('data-start-time') || 0);
+        let pendingSeekTime = (activeQueueIndex === 0 && startTime > 0) ? startTime : null;
+
+        // If continuous playback carried over onto track index > 0 of a multi-track queue, sync UI labels immediately
+        if (activeQueueIndex > 0 && audioQueue.length > 1) {
+            loadQueueTrack(activeQueueIndex, false, true);
+        }
 
         // Formats seconds into MM:SS
         function formatTime(secs) {
@@ -475,34 +583,42 @@ function initOceanViewReader() {
             const s = Math.floor(secs % 60);
             return m + ':' + (s < 10 ? '0' : '') + s;
         }
+
+        function syncPlayPauseIcon() {
+            if (!playIcon) return;
+            if (liveAudio.paused) {
+                playIcon.classList.remove('ph-pause');
+                playIcon.classList.add('ph-play');
+            } else {
+                playIcon.classList.remove('ph-play');
+                playIcon.classList.add('ph-pause');
+            }
+        }
+        syncPlayPauseIcon();
         
         playToggleBtn.addEventListener('click', () => {
-            if (audioEl.paused) {
-                audioEl.preload = 'auto';
-                // Recover cleanly inside the synchronous user gesture if Safari/WebKit had a prior media error
-                if (audioEl.error) {
-                    audioEl.load();
-                }
-                audioEl.play().catch(e => console.warn(e));
+            if (liveAudio.paused) {
+                const targetUrl = getActiveTrackAudioUrl();
+                playLiveTrackUrl(targetUrl);
             } else {
-                audioEl.pause();
+                liveAudio.pause();
             }
         });
 
         if (prevBtn && audioQueue.length > 1) {
             prevBtn.addEventListener('click', () => {
                 // If more than 3 seconds into the track, restart current track; otherwise go to previous track
-                if (audioEl.currentTime > 3) {
-                    audioEl.currentTime = 0;
+                if (liveAudio.currentTime > 3) {
+                    liveAudio.currentTime = 0;
                 } else {
-                    loadQueueTrack(activeQueueIndex - 1, !audioEl.paused || true);
+                    loadQueueTrack(activeQueueIndex - 1, true, false);
                 }
             });
         }
 
         if (nextBtn && audioQueue.length > 1) {
             nextBtn.addEventListener('click', () => {
-                loadQueueTrack(activeQueueIndex + 1, !audioEl.paused || true);
+                loadQueueTrack(activeQueueIndex + 1, true, false);
             });
         }
 
@@ -519,71 +635,78 @@ function initOceanViewReader() {
             queueButtons.forEach(btn => {
                 btn.addEventListener('click', () => {
                     const idx = parseInt(btn.getAttribute('data-queue-index') || '0', 10);
-                    loadQueueTrack(idx, true);
+                    loadQueueTrack(idx, true, false);
                 });
             });
         }
         
-        audioEl.addEventListener('play', () => {
-            if(playIcon) {
-                playIcon.classList.remove('ph-play');
-                playIcon.classList.add('ph-pause');
-            }
-        });
-        audioEl.addEventListener('pause', () => {
-            if(playIcon) {
-                playIcon.classList.remove('ph-pause');
-                playIcon.classList.add('ph-play');
-            }
-        });
+        liveAudio.addEventListener('play', syncPlayPauseIcon, { signal: audioSignal });
+        liveAudio.addEventListener('pause', syncPlayPauseIcon, { signal: audioSignal });
         
         function syncAudioDuration() {
-            if (isFinite(audioEl.duration) && audioEl.duration > 0) {
-                if (scrubber) scrubber.max = audioEl.duration;
-                if (durationDisplay) durationDisplay.textContent = formatTime(audioEl.duration);
-                if (activeQueueIndex === 0 && startTime > 0 && audioEl.currentTime < startTime) {
-                    audioEl.currentTime = startTime; // Jump to specific start time if provided on first track
+            if (isFinite(liveAudio.duration) && liveAudio.duration > 0) {
+                if (scrubber) scrubber.max = liveAudio.duration;
+                if (durationDisplay) durationDisplay.textContent = formatTime(liveAudio.duration);
+                if (pendingSeekTime !== null && liveAudio.currentTime < pendingSeekTime) {
+                    liveAudio.currentTime = pendingSeekTime;
+                    pendingSeekTime = null;
                 }
             }
         }
 
-        audioEl.addEventListener('loadedmetadata', syncAudioDuration);
-        audioEl.addEventListener('durationchange', syncAudioDuration);
-        if (audioEl.readyState >= 1) {
+        liveAudio.addEventListener('loadedmetadata', syncAudioDuration, { signal: audioSignal });
+        liveAudio.addEventListener('durationchange', syncAudioDuration, { signal: audioSignal });
+        if (liveAudio.readyState >= 1) {
             syncAudioDuration();
+            if (scrubber) scrubber.value = liveAudio.currentTime;
+            if (currentTimeDisplay) currentTimeDisplay.textContent = formatTime(liveAudio.currentTime);
+        } else {
+            // Seed scrubber max from SSR `MM:SS` duration string so seeking works even before metadata loads
+            const ssrDur = metaEl.getAttribute('data-duration') || '';
+            if (scrubber && ssrDur.includes(':')) {
+                const parts = ssrDur.split(':').map(Number);
+                if (parts.length === 2 && !isNaN(parts[0]) && !isNaN(parts[1])) {
+                    scrubber.max = (parts[0] * 60) + parts[1];
+                }
+            }
         }
         
         // Sync scrubber UI with audio playback
-        audioEl.addEventListener('timeupdate', () => {
+        liveAudio.addEventListener('timeupdate', () => {
             if (scrubber && !scrubber.matches(':active')) {
-                scrubber.value = audioEl.currentTime;
-                if(currentTimeDisplay) currentTimeDisplay.textContent = formatTime(audioEl.currentTime);
+                scrubber.value = liveAudio.currentTime;
+                if (currentTimeDisplay) currentTimeDisplay.textContent = formatTime(liveAudio.currentTime);
             }
-        });
+        }, { signal: audioSignal });
 
         // Handle track completion across single tracks, albums, and playlists
-        audioEl.addEventListener('ended', () => {
+        liveAudio.addEventListener('ended', () => {
             if (repeatMode === 'one') {
-                audioEl.currentTime = 0;
-                audioEl.play().catch(e => console.warn(e));
+                liveAudio.currentTime = 0;
+                playLiveTrackUrl(getActiveTrackAudioUrl());
                 return;
             }
             if (audioQueue.length > 1) {
                 if (activeQueueIndex + 1 < audioQueue.length) {
-                    loadQueueTrack(activeQueueIndex + 1, true);
+                    loadQueueTrack(activeQueueIndex + 1, true, false);
                 } else if (repeatMode === 'all') {
-                    loadQueueTrack(0, true);
+                    loadQueueTrack(0, true, false);
                 }
             }
-        });
+        }, { signal: audioSignal });
         
         // Allow user to scrub through the audio
         if (scrubber) {
             scrubber.addEventListener('input', () => {
-                if(currentTimeDisplay) currentTimeDisplay.textContent = formatTime(scrubber.value);
+                if (currentTimeDisplay) currentTimeDisplay.textContent = formatTime(scrubber.value);
             });
             scrubber.addEventListener('change', () => {
-                audioEl.currentTime = scrubber.value;
+                const targetSec = parseFloat(scrubber.value) || 0;
+                if (liveAudio.readyState >= 1) {
+                    liveAudio.currentTime = targetSec;
+                } else {
+                    pendingSeekTime = targetSec;
+                }
             });
         }
 
@@ -592,8 +715,8 @@ function initOceanViewReader() {
         const externalAudioLinks = document.querySelectorAll('.reader-audio-external-link');
         externalAudioLinks.forEach(link => {
             link.addEventListener('click', () => {
-                if (!audioEl.paused) {
-                    audioEl.pause();
+                if (!liveAudio.paused) {
+                    liveAudio.pause();
                 }
             });
         });
@@ -674,19 +797,24 @@ function initOceanViewReader() {
     }
     
     // -- OS MediaSession Integration & Autoplay --
-    if (audioEl) {
+    if (metaEl && liveAudio) {
         if ('mediaSession' in navigator) {
             syncMediaSessionMetadata(audioQueue[activeQueueIndex] || null);
-            navigator.mediaSession.setActionHandler('play', () => audioEl.play());
-            navigator.mediaSession.setActionHandler('pause', () => audioEl.pause());
+            navigator.mediaSession.setActionHandler('play', () => playLiveTrackUrl(getActiveTrackAudioUrl()));
+            navigator.mediaSession.setActionHandler('pause', () => liveAudio.pause());
             if (audioQueue.length > 1) {
                 try {
                     navigator.mediaSession.setActionHandler('previoustrack', () => {
-                        loadQueueTrack(activeQueueIndex - 1, true);
+                        loadQueueTrack(activeQueueIndex - 1, true, false);
                     });
                     navigator.mediaSession.setActionHandler('nexttrack', () => {
-                        loadQueueTrack(activeQueueIndex + 1, true);
+                        loadQueueTrack(activeQueueIndex + 1, true, false);
                     });
+                } catch (e) {}
+            } else {
+                try {
+                    navigator.mediaSession.setActionHandler('previoustrack', null);
+                    navigator.mediaSession.setActionHandler('nexttrack', null);
                 } catch (e) {}
             }
         }
@@ -695,21 +823,19 @@ function initOceanViewReader() {
         if (lsSettings) {
             try {
                 const parsed = JSON.parse(lsSettings);
-                // Attempt autoplay if user has it enabled in settings
-                if (parsed.autoPlayAudio === 'true') {
-                    audioEl.play().catch(err => {
-                        console.warn("Autoplay blocked by browser. User must interact first.", err);
-                    });
+                // Attempt autoplay if user has it enabled in settings and audio isn't already playing
+                if (parsed.autoPlayAudio === 'true' && liveAudio.paused) {
+                    playLiveTrackUrl(getActiveTrackAudioUrl());
                 }
             } catch(e) {}
         }
     }
 
-    if (audioEl && loopBtn) {
+    if (metaEl && liveAudio && loopBtn) {
         const icon = loopBtn.querySelector('i');
         const applyRepeatUI = () => {
             if (repeatMode === 'all') {
-                audioEl.loop = false;
+                liveAudio.loop = false;
                 if (icon) {
                     icon.classList.remove('ph-repeat-once');
                     icon.classList.add('ph-repeat');
@@ -720,7 +846,7 @@ function initOceanViewReader() {
                 loopBtn.setAttribute('title', 'Repeat All Tracks: ON');
                 loopBtn.setAttribute('aria-label', 'Toggle Repeat: All Tracks');
             } else if (repeatMode === 'one') {
-                audioEl.loop = (audioQueue.length <= 1);
+                liveAudio.loop = (audioQueue.length <= 1);
                 if (icon) {
                     icon.classList.remove('ph-repeat');
                     icon.classList.add('ph-repeat-once');
@@ -731,7 +857,7 @@ function initOceanViewReader() {
                 loopBtn.setAttribute('title', 'Repeat 1 Track: ON');
                 loopBtn.setAttribute('aria-label', 'Toggle Repeat: 1 Track');
             } else {
-                audioEl.loop = false;
+                liveAudio.loop = false;
                 if (icon) {
                     icon.classList.remove('ph-repeat-once');
                     icon.classList.add('ph-repeat');
@@ -742,7 +868,7 @@ function initOceanViewReader() {
                 loopBtn.setAttribute('title', 'Repeat: OFF');
                 loopBtn.setAttribute('aria-label', 'Toggle Repeat: OFF');
             }
-            audioEl.setAttribute('data-repeat-mode', repeatMode);
+            metaEl.setAttribute('data-repeat-mode', repeatMode);
         };
 
         applyRepeatUI();
@@ -2026,7 +2152,11 @@ if (!window.oceanViewReaderInitialized) {
         }
     }, true);
 
-    document.addEventListener('DOMContentLoaded', initOceanViewReader);
+    if (document.readyState === 'loading') {
+        document.addEventListener('DOMContentLoaded', initOceanViewReader);
+    } else {
+        initOceanViewReader();
+    }
     document.addEventListener('stardust:loaded', initOceanViewReader);
     window.oceanViewReaderInitialized = true;
 }

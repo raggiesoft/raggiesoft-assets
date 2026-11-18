@@ -10,24 +10,24 @@
     "ebook_sizes": {
         "epub": "62.2 MB",
         "pdf": "60.8 MB",
-        "text_epub": "732 KB",
+        "text_epub": "730 KB",
         "text_pdf": "1.9 MB",
-        "package_7z": "553 KB",
-        "epub_bytes": 65216736,
-        "pdf_bytes": 63778373,
-        "text_epub_bytes": 749600,
-        "text_pdf_bytes": 2043371,
-        "package_7z_bytes": 565814
+        "package_7z": "552 KB",
+        "epub_bytes": 65215296,
+        "pdf_bytes": 63773795,
+        "text_epub_bytes": 748013,
+        "text_pdf_bytes": 2038274,
+        "package_7z_bytes": 564923
     },
     "illustration_count": 135,
     "word_stats": {
-        "story_word_count": 304077,
+        "story_word_count": 303611,
         "lore_word_count": 118043,
-        "combined_word_count": 422120,
-        "story_page_count": 1106,
-        "combined_page_count": 1535,
-        "reading_hours": 20.3,
-        "reading_minutes": 1216,
+        "combined_word_count": 421654,
+        "story_page_count": 1104,
+        "combined_page_count": 1533,
+        "reading_hours": 20.2,
+        "reading_minutes": 1214,
         "novel_equivalent": 3.4,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
@@ -53,8 +53,8 @@
             "part_count": 34,
             "backstage_count": 3,
             "stop_count": 37,
-            "word_count": 72302,
-            "reading_minutes": 290,
+            "word_count": 72076,
+            "reading_minutes": 289,
             "reading_hours": 4.8,
             "stops": [
                 {
@@ -263,7 +263,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_graduation_heather_apology_angry_wesley.jpg",
                     "url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/drunken-new-year/part-4-purple-gowns-at-the-pavilion-pomp-and-circumstance-heather-s-apology",
                     "arc_url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/drunken-new-year/part-4-purple-gowns-at-the-pavilion-pomp-and-circumstance-heather-s-apology?arc=heather-wesley-and-virginia",
-                    "word_count": 2263,
+                    "word_count": 2262,
                     "reading_minutes": 10
                 },
                 {
@@ -282,7 +282,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
                     "url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/drunken-new-year/part-5-cautious-ground-rules-wesley-s-cheer-under-the-canopy-staying-in-virginia",
                     "arc_url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/drunken-new-year/part-5-cautious-ground-rules-wesley-s-cheer-under-the-canopy-staying-in-virginia?arc=heather-wesley-and-virginia",
-                    "word_count": 1577,
+                    "word_count": 1570,
                     "reading_minutes": 7
                 },
                 {
@@ -301,7 +301,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b004/oct_2005_warwick_university_shoe_lane_roundabout_112_nntc_wesley_tour.jpg",
                     "url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/the-ten-campus-summer-tour-for-rising-junior-wesley-meeting-family-in-minnesota/part-1-stops-one-through-four-for-wesley-cchr-vdu-warwick-university-beside-112-nntc-charles-anne",
                     "arc_url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/the-ten-campus-summer-tour-for-rising-junior-wesley-meeting-family-in-minnesota/part-1-stops-one-through-four-for-wesley-cchr-vdu-warwick-university-beside-112-nntc-charles-anne?arc=heather-wesley-and-virginia",
-                    "word_count": 1362,
+                    "word_count": 1356,
                     "reading_minutes": 6
                 },
                 {
@@ -320,7 +320,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
                     "url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/the-ten-campus-summer-tour-for-rising-junior-wesley-meeting-family-in-minnesota/part-2-stops-five-through-seven-west-broad-street-at-cvu-ring-roads-at-george-wythe-cutting-shenandoah-valley-s-open-house-short",
                     "arc_url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/the-ten-campus-summer-tour-for-rising-junior-wesley-meeting-family-in-minnesota/part-2-stops-five-through-seven-west-broad-street-at-cvu-ring-roads-at-george-wythe-cutting-shenandoah-valley-s-open-house-short?arc=heather-wesley-and-virginia",
-                    "word_count": 1412,
+                    "word_count": 1407,
                     "reading_minutes": 6
                 },
                 {
@@ -335,11 +335,11 @@
                     "chap_title": "The Ten-Campus Summer Tour for Rising-Junior Wesley & Meeting Family in Minnesota",
                     "date": "2003-07-27",
                     "location": "Fishersville & Blacksburg, VA (Roosevelt Rehabilitation Center \u2014 Bates-Harding Building & Redmond Hall; Commonwealth Polytechnic Institute)",
-                    "excerpt": "After checking in at Roosevelt Rehabilitation Center's admin desk where attached Redmond Hall leaves sixteen-year-old Wesley crying in his Safe Person Heather's arms and ends the tour on the spot, the team visits CPI in Blacksburg\u2014where Nate loves the mountain valley yet worries the hills will drain their wheelchair batteries.",
+                    "excerpt": "After checking in at Roosevelt Rehabilitation Center's admin desk where attached Redmond Hall leaves Wesley crying in his Safe Person Heather's arms and ends the tour on the spot, the team visits CPI in Blacksburg\u2014where Nate loves the mountain valley yet worries the hills will drain their wheelchair batteries.",
                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
                     "url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/the-ten-campus-summer-tour-for-rising-junior-wesley-meeting-family-in-minnesota/part-3-stops-eight-and-nine-stopping-short-outside-redmond-hall-at-rrc-loving-cpi-s-valley-despite-steep-battery-hills",
                     "arc_url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/the-ten-campus-summer-tour-for-rising-junior-wesley-meeting-family-in-minnesota/part-3-stops-eight-and-nine-stopping-short-outside-redmond-hall-at-rrc-loving-cpi-s-valley-despite-steep-battery-hills?arc=heather-wesley-and-virginia",
-                    "word_count": 1792,
+                    "word_count": 1782,
                     "reading_minutes": 8
                 },
                 {
@@ -358,7 +358,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
                     "url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/the-ten-campus-summer-tour-for-rising-junior-wesley-meeting-family-in-minnesota/part-4-stop-ten-in-minnesota-meeting-heather-s-extended-family-for-the-first-time-touring-north-star-state-university",
                     "arc_url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/the-ten-campus-summer-tour-for-rising-junior-wesley-meeting-family-in-minnesota/part-4-stop-ten-in-minnesota-meeting-heather-s-extended-family-for-the-first-time-touring-north-star-state-university?arc=heather-wesley-and-virginia",
-                    "word_count": 749,
+                    "word_count": 745,
                     "reading_minutes": 3
                 },
                 {
@@ -377,7 +377,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
                     "url": "/katie/six-buses-from-williamsburg-christmas-on-tonomy-hill-moving-in-as-four-ideas-for-cvta/a-chaperoned-day-visit-in-williamsburg-six-buses-home-with-heather-wesley-the-goyeau-street-tunnel-file/part-1-a-chaperoned-saturday-day-visit-two-packed-duffel-bags-in-the-hall-realizing-he-wants-to-drag-me-to-canada",
                     "arc_url": "/katie/six-buses-from-williamsburg-christmas-on-tonomy-hill-moving-in-as-four-ideas-for-cvta/a-chaperoned-day-visit-in-williamsburg-six-buses-home-with-heather-wesley-the-goyeau-street-tunnel-file/part-1-a-chaperoned-saturday-day-visit-two-packed-duffel-bags-in-the-hall-realizing-he-wants-to-drag-me-to-canada?arc=heather-wesley-and-virginia",
-                    "word_count": 1046,
+                    "word_count": 1045,
                     "reading_minutes": 5
                 },
                 {
@@ -396,7 +396,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
                     "url": "/katie/six-buses-from-williamsburg-christmas-on-tonomy-hill-moving-in-as-four-ideas-for-cvta/a-chaperoned-day-visit-in-williamsburg-six-buses-home-with-heather-wesley-the-goyeau-street-tunnel-file/part-2-six-buses-from-williamsburg-the-blind-leap-at-boundary-street-calling-heather-dad-meeting-route-61-in-norfolk-riding-home-as-four",
                     "arc_url": "/katie/six-buses-from-williamsburg-christmas-on-tonomy-hill-moving-in-as-four-ideas-for-cvta/a-chaperoned-day-visit-in-williamsburg-six-buses-home-with-heather-wesley-the-goyeau-street-tunnel-file/part-2-six-buses-from-williamsburg-the-blind-leap-at-boundary-street-calling-heather-dad-meeting-route-61-in-norfolk-riding-home-as-four?arc=heather-wesley-and-virginia",
-                    "word_count": 2482,
+                    "word_count": 2479,
                     "reading_minutes": 10
                 },
                 {
@@ -415,7 +415,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
                     "url": "/katie/six-buses-from-williamsburg-christmas-on-tonomy-hill-moving-in-as-four-ideas-for-cvta/christmas-on-tonomy-hill-with-cousin-chelsea-moving-in-together-as-four-launching-ideas-for-cvta/part-1-eighteen-stops-to-tonomy-hill-wesley-meeting-cousin-chelsea-the-west-main-road-shortcut-home",
                     "arc_url": "/katie/six-buses-from-williamsburg-christmas-on-tonomy-hill-moving-in-as-four-ideas-for-cvta/christmas-on-tonomy-hill-with-cousin-chelsea-moving-in-together-as-four-launching-ideas-for-cvta/part-1-eighteen-stops-to-tonomy-hill-wesley-meeting-cousin-chelsea-the-west-main-road-shortcut-home?arc=heather-wesley-and-virginia",
-                    "word_count": 889,
+                    "word_count": 882,
                     "reading_minutes": 4
                 },
                 {
@@ -434,7 +434,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
                     "url": "/katie/six-buses-from-williamsburg-christmas-on-tonomy-hill-moving-in-as-four-ideas-for-cvta/christmas-on-tonomy-hill-with-cousin-chelsea-moving-in-together-as-four-launching-ideas-for-cvta/part-2-wesley-s-high-school-graduation-plenary-guardianship-moving-in-under-one-roof-as-four",
                     "arc_url": "/katie/six-buses-from-williamsburg-christmas-on-tonomy-hill-moving-in-as-four-ideas-for-cvta/christmas-on-tonomy-hill-with-cousin-chelsea-moving-in-together-as-four-launching-ideas-for-cvta/part-2-wesley-s-high-school-graduation-plenary-guardianship-moving-in-under-one-roof-as-four?arc=heather-wesley-and-virginia",
-                    "word_count": 514,
+                    "word_count": 505,
                     "reading_minutes": 3
                 },
                 {
@@ -453,7 +453,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
                     "url": "/katie/unofficial-homeowners-on-arvin-road-turning-twenty-two-in-washington-not-the-right-skill-match/associate-degrees-in-hand-not-the-right-skill-match-giving-dars-and-rrc-a-chance/part-2-the-glossy-fishersville-pitch-heather-s-two-week-extended-stay-hotel-on-the-route-250-connector",
                     "arc_url": "/katie/unofficial-homeowners-on-arvin-road-turning-twenty-two-in-washington-not-the-right-skill-match/associate-degrees-in-hand-not-the-right-skill-match-giving-dars-and-rrc-a-chance/part-2-the-glossy-fishersville-pitch-heather-s-two-week-extended-stay-hotel-on-the-route-250-connector?arc=heather-wesley-and-virginia",
-                    "word_count": 800,
+                    "word_count": 765,
                     "reading_minutes": 4
                 },
                 {
@@ -472,7 +472,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_rrc_voc_eval_social_break_refusing_separation_katie_nate.jpg",
                     "url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/barton-hall-check-in-rushing-voc-eval-in-one-week-visiting-shenandoah-valley-university-with-heather-and-wesley/part-2-rushing-voc-eval-in-one-week-door-greeter-yellow-hall-passes-visiting-shenandoah-valley-university-with-heather-and-wesley",
                     "arc_url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/barton-hall-check-in-rushing-voc-eval-in-one-week-visiting-shenandoah-valley-university-with-heather-and-wesley/part-2-rushing-voc-eval-in-one-week-door-greeter-yellow-hall-passes-visiting-shenandoah-valley-university-with-heather-and-wesley?arc=heather-wesley-and-virginia",
-                    "word_count": 4665,
+                    "word_count": 4662,
                     "reading_minutes": 19
                 },
                 {
@@ -491,7 +491,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_cantor_hall_room_mixup_keycards_tina_herb_jim_nate.jpg",
                     "url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/ditching-campus-for-the-hotel-room-without-passes-natalie-s-tears-spending-week-two-exploring-the-shenandoah-valley/part-1-the-dormitory-room-mix-up-staying-at-heather-and-wesley-s-hotel-without-passes-natalie-s-tears-outside-the-cafeteria",
                     "arc_url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/ditching-campus-for-the-hotel-room-without-passes-natalie-s-tears-spending-week-two-exploring-the-shenandoah-valley/part-1-the-dormitory-room-mix-up-staying-at-heather-and-wesley-s-hotel-without-passes-natalie-s-tears-outside-the-cafeteria?arc=heather-wesley-and-virginia",
-                    "word_count": 1291,
+                    "word_count": 1290,
                     "reading_minutes": 6
                 },
                 {
@@ -510,7 +510,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_tina_compact_sedan_trunk_collapsing_wheelchairs_luray_trip.jpg",
                     "url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/ditching-campus-for-the-hotel-room-without-passes-natalie-s-tears-spending-week-two-exploring-the-shenandoah-valley/part-2-dad-packing-out-barton-hall-on-sunday-dropping-our-keys-for-good-spending-our-paid-for-second-week-exploring-the-valley",
                     "arc_url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/ditching-campus-for-the-hotel-room-without-passes-natalie-s-tears-spending-week-two-exploring-the-shenandoah-valley/part-2-dad-packing-out-barton-hall-on-sunday-dropping-our-keys-for-good-spending-our-paid-for-second-week-exploring-the-valley?arc=heather-wesley-and-virginia",
-                    "word_count": 725,
+                    "word_count": 712,
                     "reading_minutes": 3
                 },
                 {
@@ -529,7 +529,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
                     "url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/peeling-off-the-bandage-at-dr-carter-s-launching-prairie-twin-interactive-the-networking-closet-a-secular-wedding-in-2008/part-3-buying-arvin-road-fifty-fifty-a-completely-secular-wedding-under-the-botanical-rose-pavilion",
                     "arc_url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/peeling-off-the-bandage-at-dr-carter-s-launching-prairie-twin-interactive-the-networking-closet-a-secular-wedding-in-2008/part-3-buying-arvin-road-fifty-fifty-a-completely-secular-wedding-under-the-botanical-rose-pavilion?arc=heather-wesley-and-virginia",
-                    "word_count": 846,
+                    "word_count": 841,
                     "reading_minutes": 4
                 },
                 {
@@ -548,7 +548,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/feb_2016_south_richmond_church_nate_i_object_brittany_katie.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-4-via-southside-plaza-speaking-up-at-the-altar-taking-brittany-to-meet-the-nation-left-onto-macgregory-street",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-4-via-southside-plaza-speaking-up-at-the-altar-taking-brittany-to-meet-the-nation-left-onto-macgregory-street?arc=heather-wesley-and-virginia",
-                    "word_count": 9326,
+                    "word_count": 9324,
                     "reading_minutes": 38
                 },
                 {
@@ -567,7 +567,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-5-eighty-cramped-nights-on-closet-plywood-building-our-solid-oak-alaskan-king-the-twelve-minute-try-thanksgiving-s-forty-five-minute-milestone",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-5-eighty-cramped-nights-on-closet-plywood-building-our-solid-oak-alaskan-king-the-twelve-minute-try-thanksgiving-s-forty-five-minute-milestone?arc=heather-wesley-and-virginia",
-                    "word_count": 2612,
+                    "word_count": 2609,
                     "reading_minutes": 11
                 },
                 {
@@ -586,7 +586,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/feb_2017_arvin_road_first_night_out_of_closet_six_person_alaskan_king.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-6-safe-from-the-dark-and-group-home-two-face-rolling-up-our-closet-sleeping-bags-migrating-full-time-onto-our-six-person-alaskan-king",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-6-safe-from-the-dark-and-group-home-two-face-rolling-up-our-closet-sleeping-bags-migrating-full-time-onto-our-six-person-alaskan-king?arc=heather-wesley-and-virginia",
-                    "word_count": 1257,
+                    "word_count": 1255,
                     "reading_minutes": 6
                 },
                 {
@@ -605,7 +605,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/mar_2017_arvin_road_chelsea_turtle_habitat_streamtube_hands_only.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-7-chelsea-and-wesley-s-living-room-turtle-habitat-two-friends-for-shelly-turtle-the-daily-romaine-prep-crew",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-7-chelsea-and-wesley-s-living-room-turtle-habitat-two-friends-for-shelly-turtle-the-daily-romaine-prep-crew?arc=heather-wesley-and-virginia",
-                    "word_count": 1021,
+                    "word_count": 1016,
                     "reading_minutes": 5
                 },
                 {
@@ -624,7 +624,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
                     "url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-three-convictions-senator-prairie-s-capitol-tour-route-913-across-the-bay/part-4-why-isn-t-katie-home-in-may-senator-prairie-s-capitol-tour-holding-hands-in-the-senate-gallery",
                     "arc_url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-three-convictions-senator-prairie-s-capitol-tour-route-913-across-the-bay/part-4-why-isn-t-katie-home-in-may-senator-prairie-s-capitol-tour-holding-hands-in-the-senate-gallery?arc=heather-wesley-and-virginia",
-                    "word_count": 2491,
+                    "word_count": 2481,
                     "reading_minutes": 10
                 },
                 {
@@ -643,7 +643,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
                     "url": "/katie/the-senator-from-virginia/the-supported-companions-act-two-mirrored-companion-suites/part-1-form-ssa-4178-on-camera-scrapping-the-social-security-cap-taxing-billionaires-and-windfall-profits",
                     "arc_url": "/katie/the-senator-from-virginia/the-supported-companions-act-two-mirrored-companion-suites/part-1-form-ssa-4178-on-camera-scrapping-the-social-security-cap-taxing-billionaires-and-windfall-profits?arc=heather-wesley-and-virginia",
-                    "word_count": 1795,
+                    "word_count": 1787,
                     "reading_minutes": 8
                 },
                 {
@@ -662,7 +662,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
                     "url": "/katie/the-senator-from-virginia/the-supported-companions-act-two-mirrored-companion-suites/part-2-dad-s-1991-crew-cab-pickup-first-time-guests-at-the-white-house-signing-law-number-one-in-the-restored-rose-garden",
                     "arc_url": "/katie/the-senator-from-virginia/the-supported-companions-act-two-mirrored-companion-suites/part-2-dad-s-1991-crew-cab-pickup-first-time-guests-at-the-white-house-signing-law-number-one-in-the-restored-rose-garden?arc=heather-wesley-and-virginia",
-                    "word_count": 1799,
+                    "word_count": 1775,
                     "reading_minutes": 8
                 },
                 {
@@ -681,7 +681,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/mar_2029_three_mirrored_inlaw_suites_wesley_chelsea_sanctuary.jpg",
                     "url": "/katie/the-senator-from-virginia/the-supported-companions-act-two-mirrored-companion-suites/part-3-two-identical-pocket-doors-unveiling-wesley-and-chelsea-s-mirrored-ground-floor-companion-suites-in-virginia-beach-alexandria",
                     "arc_url": "/katie/the-senator-from-virginia/the-supported-companions-act-two-mirrored-companion-suites/part-3-two-identical-pocket-doors-unveiling-wesley-and-chelsea-s-mirrored-ground-floor-companion-suites-in-virginia-beach-alexandria?arc=heather-wesley-and-virginia",
-                    "word_count": 971,
+                    "word_count": 964,
                     "reading_minutes": 4
                 },
                 {
@@ -719,7 +719,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/nov_2029_danville_uncle_richard_funeral_promise_to_triplets.jpg",
                     "url": "/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab/part-1-no-senate-pin-in-the-family-pew-saying-goodbye-to-uncle-richard-in-southside-virginia-katie-s-lifelong-promise-to-sam-mandy-and-sarah",
                     "arc_url": "/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab/part-1-no-senate-pin-in-the-family-pew-saying-goodbye-to-uncle-richard-in-southside-virginia-katie-s-lifelong-promise-to-sam-mandy-and-sarah?arc=heather-wesley-and-virginia",
-                    "word_count": 2565,
+                    "word_count": 2545,
                     "reading_minutes": 11
                 },
                 {
@@ -738,7 +738,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/oct_2031_kempsville_david_prairie_funeral_family_rose_garden_roses.jpg",
                     "url": "/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab/part-2-eye-level-on-the-carpet-to-the-very-end-saying-goodbye-to-dad-in-kempsville-white-roses-from-the-rose-garden-marge-and-the-triplets-standing-for-richard",
                     "arc_url": "/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab/part-2-eye-level-on-the-carpet-to-the-very-end-saying-goodbye-to-dad-in-kempsville-white-roses-from-the-rose-garden-marge-and-the-triplets-standing-for-richard?arc=heather-wesley-and-virginia",
-                    "word_count": 2591,
+                    "word_count": 2574,
                     "reading_minutes": 11
                 },
                 {
@@ -757,7 +757,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/apr_2032_arvin_road_brittany_1991_truck_streamtube_wheelchair_garage.jpg",
                     "url": "/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab/part-3-passing-the-torch-for-chelsea-fifteen-years-of-videos-with-uncle-david-it-really-is-her-truck-now",
                     "arc_url": "/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab/part-3-passing-the-torch-for-chelsea-fifteen-years-of-videos-with-uncle-david-it-really-is-her-truck-now?arc=heather-wesley-and-virginia",
-                    "word_count": 1496,
+                    "word_count": 1478,
                     "reading_minutes": 6
                 }
             ]
@@ -776,8 +776,8 @@
             "part_count": 38,
             "backstage_count": 5,
             "stop_count": 43,
-            "word_count": 122776,
-            "reading_minutes": 492,
+            "word_count": 122593,
+            "reading_minutes": 491,
             "reading_hours": 8.2,
             "stops": [
                 {
@@ -853,7 +853,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2009_cvta_18th_street_mic_cutoff_and_jan_2011_commissioner_reckoning.jpg",
                     "url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop/part-2-the-four-bus-mayoral-loop-silenced-at-eighteenth-street-choosing-to-run-for-the-kempsville-seat",
                     "arc_url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop/part-2-the-four-bus-mayoral-loop-silenced-at-eighteenth-street-choosing-to-run-for-the-kempsville-seat?arc=katie-political-career",
-                    "word_count": 2503,
+                    "word_count": 2502,
                     "reading_minutes": 11
                 },
                 {
@@ -872,7 +872,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/oct_2010_whrc_tv15_empty_podium_debate_katie_prairie.jpg",
                     "url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie/part-1-the-empty-podium-on-whrc-tv-15-the-8-24-pm-three-bus-sprint-home-the-front-page-metro-headline",
                     "arc_url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie/part-1-the-empty-podium-on-whrc-tv-15-the-8-24-pm-three-bus-sprint-home-the-front-page-metro-headline?arc=katie-political-career",
-                    "word_count": 3582,
+                    "word_count": 3580,
                     "reading_minutes": 15
                 },
                 {
@@ -891,7 +891,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/jan_2011_vb_city_council_dais_ramp_secular_affirmation_katie_nate_david.jpg",
                     "url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie/part-2-the-wtga-790-am-disability-attack-the-94-1-landslide-the-eighteenth-street-reckoning",
                     "arc_url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie/part-2-the-wtga-790-am-disability-attack-the-94-1-landslide-the-eighteenth-street-reckoning?arc=katie-political-career",
-                    "word_count": 4529,
+                    "word_count": 4526,
                     "reading_minutes": 19
                 },
                 {
@@ -929,7 +929,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/feb_2012_virginia_house_floor_seated_by_delegate_ronald_villa.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/stopped-at-the-third-floor-gallery-seated-by-delegate-ronald-villa-winning-the-85th-district/part-1-stopped-at-the-third-floor-gallery-by-capitol-police-seated-on-the-house-floor-near-delegate-ronald-villa-the-spark-to-run",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/stopped-at-the-third-floor-gallery-seated-by-delegate-ronald-villa-winning-the-85th-district/part-1-stopped-at-the-third-floor-gallery-by-capitol-police-seated-on-the-house-floor-near-delegate-ronald-villa-the-spark-to-run?arc=katie-political-career",
-                    "word_count": 2479,
+                    "word_count": 2478,
                     "reading_minutes": 10
                 },
                 {
@@ -948,7 +948,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/jan_2013_cchr_bus_loop_412_petition_signatures_katie_nate_david.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/stopped-at-the-third-floor-gallery-seated-by-delegate-ronald-villa-winning-the-85th-district/part-2-telling-dad-at-our-kempsville-kitchen-table-the-125-signature-ballot-petition-at-cchr-winning-the-eighty-fifth-house-district",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/stopped-at-the-third-floor-gallery-seated-by-delegate-ronald-villa-winning-the-85th-district/part-2-telling-dad-at-our-kempsville-kitchen-table-the-125-signature-ballot-petition-at-cchr-winning-the-eighty-fifth-house-district?arc=katie-political-career",
-                    "word_count": 2996,
+                    "word_count": 2993,
                     "reading_minutes": 12
                 },
                 {
@@ -986,7 +986,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/feb_2016_virginia_house_floor_hb663_speech_katie_prairie.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-1-line-18-seated-by-delegate-ronald-villa-on-the-floor-a-question-across-the-chamber",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-1-line-18-seated-by-delegate-ronald-villa-on-the-floor-a-question-across-the-chamber?arc=katie-political-career",
-                    "word_count": 5271,
+                    "word_count": 5269,
                     "reading_minutes": 22
                 },
                 {
@@ -1005,7 +1005,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/feb_2016_room_518_triplets_and_floor_leaders_reassurance.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-2-transit-legislative-day-in-room-518-the-six-o-clock-news-two-meltdowns-answered-by-page-forty-two",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-2-transit-legislative-day-in-room-518-the-six-o-clock-news-two-meltdowns-answered-by-page-forty-two?arc=katie-political-career",
-                    "word_count": 7560,
+                    "word_count": 7559,
                     "reading_minutes": 31
                 },
                 {
@@ -1062,7 +1062,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/feb_2018_capitol_rotunda_jefferson_statue_resolve_to_run_for_state_senate.jpg",
                     "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-brainstorming-the-7th-senate-district-collecting-824-ballot-signatures-along-route-20-and-route-25/watching-senator-ward-kill-our-bills-across-the-rotunda-brainstorming-the-7th-senate-district-with-dad-the-250-signature-rule",
                     "arc_url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-brainstorming-the-7th-senate-district-collecting-824-ballot-signatures-along-route-20-and-route-25/watching-senator-ward-kill-our-bills-across-the-rotunda-brainstorming-the-7th-senate-district-with-dad-the-250-signature-rule?arc=katie-political-career",
-                    "word_count": 2432,
+                    "word_count": 2426,
                     "reading_minutes": 10
                 },
                 {
@@ -1081,7 +1081,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/jan_2020_senate_of_virginia_mahogany_ramp_madam_chair_affirmation.jpg",
                     "url": "/katie/across-the-rotunda-the-senate-of-virginia/flipping-the-seventh-senate-district-the-mahogany-senate-ramp-madam-chair/flipping-the-seventh-senate-district-custom-milling-the-mahogany-senate-ramp-swearing-in-as-madam-chair",
                     "arc_url": "/katie/across-the-rotunda-the-senate-of-virginia/flipping-the-seventh-senate-district-the-mahogany-senate-ramp-madam-chair/flipping-the-seventh-senate-district-custom-milling-the-mahogany-senate-ramp-swearing-in-as-madam-chair?arc=katie-political-career",
-                    "word_count": 3257,
+                    "word_count": 3252,
                     "reading_minutes": 14
                 },
                 {
@@ -1100,7 +1100,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/jan_2026_kempsville_living_room_senate_campaign_decision_katie_nate_david.jpg",
                     "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-1-the-living-room-decision-in-kempsville-the-10-000-signature-rule-the-accessibility-project",
                     "arc_url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-1-the-living-room-decision-in-kempsville-the-10-000-signature-rule-the-accessibility-project?arc=katie-political-career",
-                    "word_count": 2790,
+                    "word_count": 2785,
                     "reading_minutes": 12
                 },
                 {
@@ -1119,7 +1119,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/mar_2026_hampton_3400_victoria_blvd_jammed_ramp_rain_katie_nate_david.jpg",
                     "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-2-the-jammed-ramp-on-victoria-boulevard-shoreline-transit-across-the-bay-wearing-the-nfa-s-f-grade-in-fairfax",
                     "arc_url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-2-the-jammed-ramp-on-victoria-boulevard-shoreline-transit-across-the-bay-wearing-the-nfa-s-f-grade-in-fairfax?arc=katie-political-career",
-                    "word_count": 2469,
+                    "word_count": 2458,
                     "reading_minutes": 10
                 },
                 {
@@ -1138,7 +1138,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/may_2026_bluewater_transit_center_maroon_express_katie_nate_madison.jpg",
                     "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-3-the-roanoke-express-the-brooks-family-compound-on-lee-highway-the-maroon-express-to-bluewater-winning-the-june-primary",
                     "arc_url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-3-the-roanoke-express-the-brooks-family-compound-on-lee-highway-the-maroon-express-to-bluewater-winning-the-june-primary?arc=katie-political-career",
-                    "word_count": 3928,
+                    "word_count": 3927,
                     "reading_minutes": 16
                 },
                 {
@@ -1157,7 +1157,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/jul_2026_southwest_virginia_coalfield_bus_town_hall_katie_nate_david.jpg",
                     "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-4-riding-into-deep-red-rtr-country-mountain-empire-transit-the-coalfields-cumberland-gap-with-dad",
                     "arc_url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-4-riding-into-deep-red-rtr-country-mountain-empire-transit-the-coalfields-cumberland-gap-with-dad?arc=katie-political-career",
-                    "word_count": 1781,
+                    "word_count": 1768,
                     "reading_minutes": 8
                 },
                 {
@@ -1176,7 +1176,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/sep_2026_cassini_center_palo_alto_observatory_katie_nate_valerie_starling_triplets.jpg",
                     "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-5-katie-s-favorite-place-in-virginia-the-cassini-center-in-highland-county-the-october-whrc-tv-15-three-bus-sprint",
                     "arc_url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-5-katie-s-favorite-place-in-virginia-the-cassini-center-in-highland-county-the-october-whrc-tv-15-three-bus-sprint?arc=katie-political-career",
-                    "word_count": 2015,
+                    "word_count": 2006,
                     "reading_minutes": 9
                 },
                 {
@@ -1195,7 +1195,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/nov_2026_election_night_decision_desk_victory_katie_nate_david.jpg",
                     "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-1-polls-close-at-seven-the-8-42-pm-decision-desk-call-victory-in-virginia-beach",
                     "arc_url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-1-polls-close-at-seven-the-8-42-pm-decision-desk-call-victory-in-virginia-beach?arc=katie-political-career",
-                    "word_count": 3030,
+                    "word_count": 3026,
                     "reading_minutes": 13
                 },
                 {
@@ -1214,7 +1214,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/jan_2027_capitol_south_elevator_plaza_arrival_katie_nate_david.jpg",
                     "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-3-u-s-senate-new-member-orientation-senator-tess-dunmore-s-ramp-making-the-vice-president-swear-her-in",
                     "arc_url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-3-u-s-senate-new-member-orientation-senator-tess-dunmore-s-ramp-making-the-vice-president-swear-her-in?arc=katie-political-career",
-                    "word_count": 6323,
+                    "word_count": 6322,
                     "reading_minutes": 26
                 },
                 {
@@ -1233,7 +1233,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/dec_2026_dirksen_basement_transition_211_204_vote_katie_nate.jpg",
                     "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-4-opposing-leader-schuman-the-211-204-lame-duck-false-dawn-in-the-dirksen-basement-home-across-the-fenwick-bridge",
                     "arc_url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-4-opposing-leader-schuman-the-211-204-lame-duck-false-dawn-in-the-dirksen-basement-home-across-the-fenwick-bridge?arc=katie-political-career",
-                    "word_count": 3699,
+                    "word_count": 3697,
                     "reading_minutes": 15
                 },
                 {
@@ -1347,7 +1347,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait_og.jpg",
                     "url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-three-convictions-senator-prairie-s-capitol-tour-route-913-across-the-bay/part-4-why-isn-t-katie-home-in-may-senator-prairie-s-capitol-tour-holding-hands-in-the-senate-gallery",
                     "arc_url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-three-convictions-senator-prairie-s-capitol-tour-route-913-across-the-bay/part-4-why-isn-t-katie-home-in-may-senator-prairie-s-capitol-tour-holding-hands-in-the-senate-gallery?arc=katie-political-career",
-                    "word_count": 2491,
+                    "word_count": 2481,
                     "reading_minutes": 10
                 },
                 {
@@ -1385,7 +1385,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/oct_2027_fenwick_bridge_capital_transit_yellow_line_mt_vernon_sq.jpg",
                     "url": "/katie/the-senator-from-virginia/joint-base-andrews-to-chambers-field-flying-home-on-air-force-one/chambers-field-four-hundred-million-restored-on-pier-12-tapping-in-at-king-street-the-next-morning",
                     "arc_url": "/katie/the-senator-from-virginia/joint-base-andrews-to-chambers-field-flying-home-on-air-force-one/chambers-field-four-hundred-million-restored-on-pier-12-tapping-in-at-king-street-the-next-morning?arc=katie-political-career",
-                    "word_count": 3597,
+                    "word_count": 3596,
                     "reading_minutes": 15
                 },
                 {
@@ -1404,7 +1404,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait_og.jpg",
                     "url": "/katie/the-senator-from-virginia/the-supported-companions-act-two-mirrored-companion-suites/part-1-form-ssa-4178-on-camera-scrapping-the-social-security-cap-taxing-billionaires-and-windfall-profits",
                     "arc_url": "/katie/the-senator-from-virginia/the-supported-companions-act-two-mirrored-companion-suites/part-1-form-ssa-4178-on-camera-scrapping-the-social-security-cap-taxing-billionaires-and-windfall-profits?arc=katie-political-career",
-                    "word_count": 1795,
+                    "word_count": 1787,
                     "reading_minutes": 8
                 },
                 {
@@ -1423,7 +1423,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait_og.jpg",
                     "url": "/katie/the-senator-from-virginia/the-supported-companions-act-two-mirrored-companion-suites/part-2-dad-s-1991-crew-cab-pickup-first-time-guests-at-the-white-house-signing-law-number-one-in-the-restored-rose-garden",
                     "arc_url": "/katie/the-senator-from-virginia/the-supported-companions-act-two-mirrored-companion-suites/part-2-dad-s-1991-crew-cab-pickup-first-time-guests-at-the-white-house-signing-law-number-one-in-the-restored-rose-garden?arc=katie-political-career",
-                    "word_count": 1799,
+                    "word_count": 1775,
                     "reading_minutes": 8
                 },
                 {
@@ -1442,7 +1442,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/mar_2029_three_mirrored_inlaw_suites_wesley_chelsea_sanctuary.jpg",
                     "url": "/katie/the-senator-from-virginia/the-supported-companions-act-two-mirrored-companion-suites/part-3-two-identical-pocket-doors-unveiling-wesley-and-chelsea-s-mirrored-ground-floor-companion-suites-in-virginia-beach-alexandria",
                     "arc_url": "/katie/the-senator-from-virginia/the-supported-companions-act-two-mirrored-companion-suites/part-3-two-identical-pocket-doors-unveiling-wesley-and-chelsea-s-mirrored-ground-floor-companion-suites-in-virginia-beach-alexandria?arc=katie-political-career",
-                    "word_count": 971,
+                    "word_count": 964,
                     "reading_minutes": 4
                 },
                 {
@@ -1461,7 +1461,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/nov_2029_danville_uncle_richard_funeral_promise_to_triplets.jpg",
                     "url": "/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab/part-1-no-senate-pin-in-the-family-pew-saying-goodbye-to-uncle-richard-in-southside-virginia-katie-s-lifelong-promise-to-sam-mandy-and-sarah",
                     "arc_url": "/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab/part-1-no-senate-pin-in-the-family-pew-saying-goodbye-to-uncle-richard-in-southside-virginia-katie-s-lifelong-promise-to-sam-mandy-and-sarah?arc=katie-political-career",
-                    "word_count": 2565,
+                    "word_count": 2545,
                     "reading_minutes": 11
                 },
                 {
@@ -1480,7 +1480,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/oct_2031_kempsville_david_prairie_funeral_family_rose_garden_roses.jpg",
                     "url": "/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab/part-2-eye-level-on-the-carpet-to-the-very-end-saying-goodbye-to-dad-in-kempsville-white-roses-from-the-rose-garden-marge-and-the-triplets-standing-for-richard",
                     "arc_url": "/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab/part-2-eye-level-on-the-carpet-to-the-very-end-saying-goodbye-to-dad-in-kempsville-white-roses-from-the-rose-garden-marge-and-the-triplets-standing-for-richard?arc=katie-political-career",
-                    "word_count": 2591,
+                    "word_count": 2574,
                     "reading_minutes": 11
                 },
                 {
@@ -1499,7 +1499,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/senator_katie_prairie_age_41_us_senate_portrait_og.jpg",
                     "url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/part-1-refusing-the-2045-presidency-from-home-five-statutory-shields-against-the-bubble-all-six-together-on-our-alaskan-king",
                     "arc_url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/part-1-refusing-the-2045-presidency-from-home-five-statutory-shields-against-the-bubble-all-six-together-on-our-alaskan-king?arc=katie-political-career",
-                    "word_count": 3037,
+                    "word_count": 3013,
                     "reading_minutes": 13
                 },
                 {
@@ -1518,7 +1518,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/jan_2044_arvin_road_endorsement_bus_loop_plan_katie_nate_triplets.jpg",
                     "url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/part-2-the-biggest-prize-in-the-primary-sam-mandy-sarah-s-bus-loop-plan-stop-0812",
                     "arc_url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/part-2-the-biggest-prize-in-the-primary-sam-mandy-sarah-s-bus-loop-plan-stop-0812?arc=katie-political-career",
-                    "word_count": 2594,
+                    "word_count": 2593,
                     "reading_minutes": 11
                 },
                 {
@@ -1575,7 +1575,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/feb_2044_stop_0812_cvta_bus_presidential_endorsement_interview_katie_nate.jpg",
                     "url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/part-5-the-thursday-morning-loop-governor-elena-delgado-the-six-o-clock-upload",
                     "arc_url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/part-5-the-thursday-morning-loop-governor-elena-delgado-the-six-o-clock-upload?arc=katie-political-career",
-                    "word_count": 3165,
+                    "word_count": 3164,
                     "reading_minutes": 13
                 },
                 {
@@ -1613,8 +1613,8 @@
             "part_count": 17,
             "backstage_count": 3,
             "stop_count": 20,
-            "word_count": 49266,
-            "reading_minutes": 198,
+            "word_count": 49151,
+            "reading_minutes": 197,
             "reading_hours": 3.3,
             "stops": [
                 {
@@ -1633,7 +1633,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b004/dec_2002_new_years_eve_locked_bedroom_cereal_ginger_ale.jpg",
                     "url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/drunken-new-year/part-1-the-gas-station-run-a-box-of-dry-cereal-why-i-never-had-a-twenty-first-birthday-drink",
                     "arc_url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/drunken-new-year/part-1-the-gas-station-run-a-box-of-dry-cereal-why-i-never-had-a-twenty-first-birthday-drink?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 2664,
+                    "word_count": 2663,
                     "reading_minutes": 11
                 },
                 {
@@ -1690,7 +1690,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/jul_2016_kings_college_royal_gate_court_order_chelsea_rescue_family.jpg",
                     "url": "/katie/six-buses-from-williamsburg-christmas-on-tonomy-hill-moving-in-as-four-ideas-for-cvta/christmas-on-tonomy-hill-with-cousin-chelsea-moving-in-together-as-four-launching-ideas-for-cvta/part-1-eighteen-stops-to-tonomy-hill-wesley-meeting-cousin-chelsea-the-west-main-road-shortcut-home",
                     "arc_url": "/katie/six-buses-from-williamsburg-christmas-on-tonomy-hill-moving-in-as-four-ideas-for-cvta/christmas-on-tonomy-hill-with-cousin-chelsea-moving-in-together-as-four-launching-ideas-for-cvta/part-1-eighteen-stops-to-tonomy-hill-wesley-meeting-cousin-chelsea-the-west-main-road-shortcut-home?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 889,
+                    "word_count": 882,
                     "reading_minutes": 4
                 },
                 {
@@ -1747,7 +1747,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/feb_2016_gab_elevator_hold_reunion_brittany_katie_nate.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-3-hold-the-elevator-reuniting-with-cousin-brittany-in-room-518-friday-night-on-jrtc-route-6-why-nate-must-speak",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-3-hold-the-elevator-reuniting-with-cousin-brittany-in-room-518-friday-night-on-jrtc-route-6-why-nate-must-speak?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 5158,
+                    "word_count": 5157,
                     "reading_minutes": 21
                 },
                 {
@@ -1766,7 +1766,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/feb_2016_south_richmond_church_nate_i_object_brittany_katie.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-4-via-southside-plaza-speaking-up-at-the-altar-taking-brittany-to-meet-the-nation-left-onto-macgregory-street",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-4-via-southside-plaza-speaking-up-at-the-altar-taking-brittany-to-meet-the-nation-left-onto-macgregory-street?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 9326,
+                    "word_count": 9324,
                     "reading_minutes": 38
                 },
                 {
@@ -1785,7 +1785,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/mar_2016_coastal_adult_learning_center_route_20_hse_enrollment_brittany_katie_nate.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-1-sine-die-welcoming-brittany-home-to-arvin-road-route-20-to-the-coastal-adult-learning-center-three-cousins-in-the-closet",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-1-sine-die-welcoming-brittany-home-to-arvin-road-route-20-to-the-coastal-adult-learning-center-three-cousins-in-the-closet?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 2966,
+                    "word_count": 2958,
                     "reading_minutes": 12
                 },
                 {
@@ -1804,7 +1804,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/jul_2016_kings_college_mount_regalis_bta_route_99_scrub_bus_arrival_family.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-2-turned-away-at-the-royal-gate-riding-bta-route-99-up-mount-regalis-catching-the-two-faced-manager-red-handed-no-known-living-family",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-2-turned-away-at-the-royal-gate-riding-bta-route-99-up-mount-regalis-catching-the-two-faced-manager-red-handed-no-known-living-family?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 3103,
+                    "word_count": 3101,
                     "reading_minutes": 13
                 },
                 {
@@ -1823,7 +1823,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/jul_2016_kings_college_royal_gate_court_order_chelsea_rescue_family.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-3-ten-minutes-in-braxton-probate-court-forcing-open-the-royal-gate-with-a-sheriff-s-escort-goodbye-to-newport-over-i-895",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-3-ten-minutes-in-braxton-probate-court-forcing-open-the-royal-gate-with-a-sheriff-s-escort-goodbye-to-newport-over-i-895?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 1767,
+                    "word_count": 1766,
                     "reading_minutes": 8
                 },
                 {
@@ -1842,7 +1842,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/jul_2016_kings_college_royal_gate_court_order_chelsea_rescue_family.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-4-tagless-puffer-pocket-pajamas-gentle-reminders-fear-of-group-home-two-face-four-cousins-crammed-into-one-closet",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-4-tagless-puffer-pocket-pajamas-gentle-reminders-fear-of-group-home-two-face-four-cousins-crammed-into-one-closet?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 2773,
+                    "word_count": 2769,
                     "reading_minutes": 12
                 },
                 {
@@ -1861,7 +1861,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/jul_2016_kings_college_royal_gate_court_order_chelsea_rescue_family.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-5-eighty-cramped-nights-on-closet-plywood-building-our-solid-oak-alaskan-king-the-twelve-minute-try-thanksgiving-s-forty-five-minute-milestone",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-5-eighty-cramped-nights-on-closet-plywood-building-our-solid-oak-alaskan-king-the-twelve-minute-try-thanksgiving-s-forty-five-minute-milestone?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 2612,
+                    "word_count": 2609,
                     "reading_minutes": 11
                 },
                 {
@@ -1880,7 +1880,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/feb_2017_arvin_road_first_night_out_of_closet_six_person_alaskan_king.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-6-safe-from-the-dark-and-group-home-two-face-rolling-up-our-closet-sleeping-bags-migrating-full-time-onto-our-six-person-alaskan-king",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-6-safe-from-the-dark-and-group-home-two-face-rolling-up-our-closet-sleeping-bags-migrating-full-time-onto-our-six-person-alaskan-king?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 1257,
+                    "word_count": 1255,
                     "reading_minutes": 6
                 },
                 {
@@ -1899,7 +1899,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/mar_2017_arvin_road_chelsea_turtle_habitat_streamtube_hands_only.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-7-chelsea-and-wesley-s-living-room-turtle-habitat-two-friends-for-shelly-turtle-the-daily-romaine-prep-crew",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-7-chelsea-and-wesley-s-living-room-turtle-habitat-two-friends-for-shelly-turtle-the-daily-romaine-prep-crew?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 1021,
+                    "word_count": 1016,
                     "reading_minutes": 5
                 },
                 {
@@ -1918,7 +1918,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/jul_2016_kings_college_royal_gate_court_order_chelsea_rescue_family.jpg",
                     "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-8-now-you-re-learning-my-truck-l-1-2-3-r-in-an-empty-parking-lot-three-manuals-on-the-tailgate",
                     "arc_url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-8-now-you-re-learning-my-truck-l-1-2-3-r-in-an-empty-parking-lot-three-manuals-on-the-tailgate?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 2159,
+                    "word_count": 2142,
                     "reading_minutes": 9
                 },
                 {
@@ -1937,7 +1937,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/mar_2029_three_mirrored_inlaw_suites_wesley_chelsea_sanctuary.jpg",
                     "url": "/katie/the-senator-from-virginia/the-supported-companions-act-two-mirrored-companion-suites/part-3-two-identical-pocket-doors-unveiling-wesley-and-chelsea-s-mirrored-ground-floor-companion-suites-in-virginia-beach-alexandria",
                     "arc_url": "/katie/the-senator-from-virginia/the-supported-companions-act-two-mirrored-companion-suites/part-3-two-identical-pocket-doors-unveiling-wesley-and-chelsea-s-mirrored-ground-floor-companion-suites-in-virginia-beach-alexandria?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 971,
+                    "word_count": 964,
                     "reading_minutes": 4
                 },
                 {
@@ -1956,7 +1956,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/nov_2029_danville_uncle_richard_funeral_promise_to_triplets.jpg",
                     "url": "/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab/part-1-no-senate-pin-in-the-family-pew-saying-goodbye-to-uncle-richard-in-southside-virginia-katie-s-lifelong-promise-to-sam-mandy-and-sarah",
                     "arc_url": "/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab/part-1-no-senate-pin-in-the-family-pew-saying-goodbye-to-uncle-richard-in-southside-virginia-katie-s-lifelong-promise-to-sam-mandy-and-sarah?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 2565,
+                    "word_count": 2545,
                     "reading_minutes": 11
                 },
                 {
@@ -1975,7 +1975,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/oct_2031_kempsville_david_prairie_funeral_family_rose_garden_roses.jpg",
                     "url": "/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab/part-2-eye-level-on-the-carpet-to-the-very-end-saying-goodbye-to-dad-in-kempsville-white-roses-from-the-rose-garden-marge-and-the-triplets-standing-for-richard",
                     "arc_url": "/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab/part-2-eye-level-on-the-carpet-to-the-very-end-saying-goodbye-to-dad-in-kempsville-white-roses-from-the-rose-garden-marge-and-the-triplets-standing-for-richard?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 2591,
+                    "word_count": 2574,
                     "reading_minutes": 11
                 },
                 {
@@ -1994,7 +1994,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/apr_2032_arvin_road_brittany_1991_truck_streamtube_wheelchair_garage.jpg",
                     "url": "/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab/part-3-passing-the-torch-for-chelsea-fifteen-years-of-videos-with-uncle-david-it-really-is-her-truck-now",
                     "arc_url": "/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab/part-3-passing-the-torch-for-chelsea-fifteen-years-of-videos-with-uncle-david-it-really-is-her-truck-now?arc=brittany-chelsea-and-the-four-person-sanctuary",
-                    "word_count": 1496,
+                    "word_count": 1478,
                     "reading_minutes": 6
                 }
             ]
@@ -2013,7 +2013,7 @@
             "part_count": 11,
             "backstage_count": 8,
             "stop_count": 19,
-            "word_count": 51720,
+            "word_count": 51589,
             "reading_minutes": 207,
             "reading_hours": 3.4,
             "stops": [
@@ -2052,7 +2052,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/jan_2027_alx_arts_mobile_lift_senator_elect_katie_prairie.jpg",
                     "url": "/katie/unofficial-homeowners-on-arvin-road-turning-twenty-two-in-washington-not-the-right-skill-match/associate-degrees-in-hand-not-the-right-skill-match-giving-dars-and-rrc-a-chance/part-2-the-glossy-fishersville-pitch-heather-s-two-week-extended-stay-hotel-on-the-route-250-connector",
                     "arc_url": "/katie/unofficial-homeowners-on-arvin-road-turning-twenty-two-in-washington-not-the-right-skill-match/associate-degrees-in-hand-not-the-right-skill-match-giving-dars-and-rrc-a-chance/part-2-the-glossy-fishersville-pitch-heather-s-two-week-extended-stay-hotel-on-the-route-250-connector?arc=fishersville-twelve-days-and-twenty-years",
-                    "word_count": 800,
+                    "word_count": 765,
                     "reading_minutes": 4
                 },
                 {
@@ -2071,7 +2071,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/jul_2007_route250_hotel_checkin_heather_wesley_nate_katie.jpg",
                     "url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/barton-hall-check-in-rushing-voc-eval-in-one-week-visiting-shenandoah-valley-university-with-heather-and-wesley/part-1-four-names-on-the-hotel-folio-sunday-check-in-at-barton-hall-expelling-the-creepy-roommate",
                     "arc_url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/barton-hall-check-in-rushing-voc-eval-in-one-week-visiting-shenandoah-valley-university-with-heather-and-wesley/part-1-four-names-on-the-hotel-folio-sunday-check-in-at-barton-hall-expelling-the-creepy-roommate?arc=fishersville-twelve-days-and-twenty-years",
-                    "word_count": 5200,
+                    "word_count": 5121,
                     "reading_minutes": 21
                 },
                 {
@@ -2090,7 +2090,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/mar_2007_rrc_voc_eval_social_break_refusing_separation_katie_nate.jpg",
                     "url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/barton-hall-check-in-rushing-voc-eval-in-one-week-visiting-shenandoah-valley-university-with-heather-and-wesley/part-2-rushing-voc-eval-in-one-week-door-greeter-yellow-hall-passes-visiting-shenandoah-valley-university-with-heather-and-wesley",
                     "arc_url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/barton-hall-check-in-rushing-voc-eval-in-one-week-visiting-shenandoah-valley-university-with-heather-and-wesley/part-2-rushing-voc-eval-in-one-week-door-greeter-yellow-hall-passes-visiting-shenandoah-valley-university-with-heather-and-wesley?arc=fishersville-twelve-days-and-twenty-years",
-                    "word_count": 4665,
+                    "word_count": 4662,
                     "reading_minutes": 19
                 },
                 {
@@ -2223,7 +2223,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_cantor_hall_room_mixup_keycards_tina_herb_jim_nate.jpg",
                     "url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/ditching-campus-for-the-hotel-room-without-passes-natalie-s-tears-spending-week-two-exploring-the-shenandoah-valley/part-1-the-dormitory-room-mix-up-staying-at-heather-and-wesley-s-hotel-without-passes-natalie-s-tears-outside-the-cafeteria",
                     "arc_url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/ditching-campus-for-the-hotel-room-without-passes-natalie-s-tears-spending-week-two-exploring-the-shenandoah-valley/part-1-the-dormitory-room-mix-up-staying-at-heather-and-wesley-s-hotel-without-passes-natalie-s-tears-outside-the-cafeteria?arc=fishersville-twelve-days-and-twenty-years",
-                    "word_count": 1291,
+                    "word_count": 1290,
                     "reading_minutes": 6
                 },
                 {
@@ -2261,7 +2261,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_tina_compact_sedan_trunk_collapsing_wheelchairs_luray_trip.jpg",
                     "url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/ditching-campus-for-the-hotel-room-without-passes-natalie-s-tears-spending-week-two-exploring-the-shenandoah-valley/part-2-dad-packing-out-barton-hall-on-sunday-dropping-our-keys-for-good-spending-our-paid-for-second-week-exploring-the-valley",
                     "arc_url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/ditching-campus-for-the-hotel-room-without-passes-natalie-s-tears-spending-week-two-exploring-the-shenandoah-valley/part-2-dad-packing-out-barton-hall-on-sunday-dropping-our-keys-for-good-spending-our-paid-for-second-week-exploring-the-valley?arc=fishersville-twelve-days-and-twenty-years",
-                    "word_count": 725,
+                    "word_count": 712,
                     "reading_minutes": 3
                 },
                 {
@@ -3119,7 +3119,7 @@
             "era_title": "Seventeen, Senior Year, Greenway Court, & The Ten-Campus Summer Tour",
             "era_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour",
             "illustration_count": 16,
-            "word_count": 32597,
+            "word_count": 32553,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -3202,14 +3202,14 @@
                     "chap_title": "Drunken New Year",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/drunken-new-year",
                     "illustration_count": 6,
-                    "word_count": 12675,
+                    "word_count": 12666,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Gas-Station Run, A Box of Dry Cereal, & Why I Never Had a Twenty-First Birthday Drink",
                             "file_path": "e004/c002/p001.md",
                             "url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/drunken-new-year/part-1-the-gas-station-run-a-box-of-dry-cereal-why-i-never-had-a-twenty-first-birthday-drink",
-                            "word_count": 2664,
+                            "word_count": 2663,
                             "reading_minutes": 11,
                             "date": "2002-12-31",
                             "start_time": "21:30",
@@ -3284,7 +3284,7 @@
                             "part_title": "Part 4: Purple Gowns at the Pavilion, Pomp and Circumstance, & Heather's Apology",
                             "file_path": "e004/c002/p004.md",
                             "url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/drunken-new-year/part-4-purple-gowns-at-the-pavilion-pomp-and-circumstance-heather-s-apology",
-                            "word_count": 2263,
+                            "word_count": 2262,
                             "reading_minutes": 10,
                             "date": "2003-06-14",
                             "start_time": "11:35",
@@ -3308,7 +3308,7 @@
                             "part_title": "Part 5: Cautious Ground Rules, Wesley's Cheer Under the Canopy, & Staying in Virginia",
                             "file_path": "e004/c002/p005.md",
                             "url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/drunken-new-year/part-5-cautious-ground-rules-wesley-s-cheer-under-the-canopy-staying-in-virginia",
-                            "word_count": 1577,
+                            "word_count": 1570,
                             "reading_minutes": 7,
                             "date": "2003-06-14",
                             "start_time": "11:52",
@@ -3361,14 +3361,14 @@
                     "chap_title": "The Ten-Campus Summer Tour for Rising-Junior Wesley & Meeting Family in Minnesota",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/the-ten-campus-summer-tour-for-rising-junior-wesley-meeting-family-in-minnesota",
                     "illustration_count": 1,
-                    "word_count": 5315,
+                    "word_count": 5290,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Stops One Through Four for Wesley: CCHR, VDU, Warwick University Beside 112 NNTC, & Charles & Anne",
                             "file_path": "e004/c004/p001.md",
                             "url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/the-ten-campus-summer-tour-for-rising-junior-wesley-meeting-family-in-minnesota/part-1-stops-one-through-four-for-wesley-cchr-vdu-warwick-university-beside-112-nntc-charles-anne",
-                            "word_count": 1362,
+                            "word_count": 1356,
                             "reading_minutes": 6,
                             "date": "2003-07-19",
                             "start_time": "09:00",
@@ -3389,7 +3389,7 @@
                             "part_title": "Part 2: Stops Five Through Seven: West Broad Street at CVU, Ring Roads at George Wythe, & Cutting Shenandoah Valley's Open House Short",
                             "file_path": "e004/c004/p002.md",
                             "url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/the-ten-campus-summer-tour-for-rising-junior-wesley-meeting-family-in-minnesota/part-2-stops-five-through-seven-west-broad-street-at-cvu-ring-roads-at-george-wythe-cutting-shenandoah-valley-s-open-house-short",
-                            "word_count": 1412,
+                            "word_count": 1407,
                             "reading_minutes": 6,
                             "date": "2003-07-26",
                             "start_time": "09:30",
@@ -3401,19 +3401,19 @@
                             "part_title": "Part 3: Stops Eight and Nine: Stopping Short Outside Redmond Hall at RRC & Loving CPI's Valley Despite Steep Battery Hills",
                             "file_path": "e004/c004/p003.md",
                             "url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/the-ten-campus-summer-tour-for-rising-junior-wesley-meeting-family-in-minnesota/part-3-stops-eight-and-nine-stopping-short-outside-redmond-hall-at-rrc-loving-cpi-s-valley-despite-steep-battery-hills",
-                            "word_count": 1792,
+                            "word_count": 1782,
                             "reading_minutes": 8,
                             "date": "2003-07-27",
                             "start_time": "10:15",
                             "location": "Fishersville & Blacksburg, VA (Roosevelt Rehabilitation Center \u2014 Bates-Harding Building & Redmond Hall; Commonwealth Polytechnic Institute)",
-                            "excerpt": "After checking in at Roosevelt Rehabilitation Center's admin desk where attached Redmond Hall leaves sixteen-year-old Wesley crying in his Safe Person Heather's arms and ends the tour on the spot, the team visits CPI in Blacksburg\u2014where Nate loves the mountain valley yet worries the hills will drain their wheelchair batteries."
+                            "excerpt": "After checking in at Roosevelt Rehabilitation Center's admin desk where attached Redmond Hall leaves Wesley crying in his Safe Person Heather's arms and ends the tour on the spot, the team visits CPI in Blacksburg\u2014where Nate loves the mountain valley yet worries the hills will drain their wheelchair batteries."
                         },
                         {
                             "part_num": 4,
                             "part_title": "Part 4: Stop Ten in Minnesota: Meeting Heather's Extended Family for the First Time & Touring North Star State University",
                             "file_path": "e004/c004/p004.md",
                             "url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/the-ten-campus-summer-tour-for-rising-junior-wesley-meeting-family-in-minnesota/part-4-stop-ten-in-minnesota-meeting-heather-s-extended-family-for-the-first-time-touring-north-star-state-university",
-                            "word_count": 749,
+                            "word_count": 745,
                             "reading_minutes": 3,
                             "date": "2003-08-02",
                             "start_time": "11:20",
@@ -3427,7 +3427,7 @@
                     "chap_title": "Brenda in the Back Alley, The Square Closet Sanctuary, & Hurricane Isabel",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/brenda-in-the-back-alley-the-square-closet-sanctuary-hurricane-isabel",
                     "illustration_count": 2,
-                    "word_count": 6566,
+                    "word_count": 6558,
                     "parts": [
                         {
                             "part_num": 1,
@@ -3455,7 +3455,7 @@
                             "part_title": "Part 2: Hurricane Isabel, Two Layers of Sandbags at Greenway Court, & Two Weeks at Dad's House on Arvin Road",
                             "file_path": "e004/c005/p002.md",
                             "url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/brenda-in-the-back-alley-the-square-closet-sanctuary-hurricane-isabel/part-2-hurricane-isabel-two-layers-of-sandbags-at-greenway-court-two-weeks-at-dad-s-house-on-arvin-road",
-                            "word_count": 5447,
+                            "word_count": 5439,
                             "reading_minutes": 22,
                             "date": "2003-09-17",
                             "start_time": "15:15",
@@ -3478,7 +3478,7 @@
                     "chap_title": "The Admiral Center Patio & Dad's Calling Cards Before Visiting Williamsburg",
                     "chap_url": "/raggiesoft-books/books/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/the-admiral-center-patio-dad-s-calling-cards-before-visiting-williamsburg",
                     "illustration_count": 2,
-                    "word_count": 2353,
+                    "word_count": 2351,
                     "parts": [
                         {
                             "part_num": 1,
@@ -3506,7 +3506,7 @@
                             "part_title": "Part 2: Dad's Laminated Calling Cards, Thirty-Day Passes, & Planning a Chaperoned Day Visit to Williamsburg",
                             "file_path": "e004/c006/p002.md",
                             "url": "/katie/seventeen-senior-year-greenway-court-the-ten-campus-summer-tour/the-admiral-center-patio-dad-s-calling-cards-before-visiting-williamsburg/part-2-dad-s-laminated-calling-cards-thirty-day-passes-planning-a-chaperoned-day-visit-to-williamsburg",
-                            "word_count": 862,
+                            "word_count": 860,
                             "reading_minutes": 4,
                             "date": "2004-10-09",
                             "start_time": "13:30",
@@ -3531,21 +3531,21 @@
             "era_title": "Six Buses from Williamsburg, Christmas on Tonomy Hill, Moving In as Four, & Ideas for CVTA",
             "era_url": "/raggiesoft-books/books/katie/six-buses-from-williamsburg-christmas-on-tonomy-hill-moving-in-as-four-ideas-for-cvta",
             "illustration_count": 2,
-            "word_count": 8186,
+            "word_count": 8164,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "A Chaperoned Day Visit in Williamsburg, Six Buses Home With Heather & Wesley, & The Goyeau Street Tunnel File",
                     "chap_url": "/raggiesoft-books/books/katie/six-buses-from-williamsburg-christmas-on-tonomy-hill-moving-in-as-four-ideas-for-cvta/a-chaperoned-day-visit-in-williamsburg-six-buses-home-with-heather-wesley-the-goyeau-street-tunnel-file",
                     "illustration_count": 1,
-                    "word_count": 5647,
+                    "word_count": 5642,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: A Chaperoned Saturday Day Visit, Two Packed Duffel Bags in the Hall, & Realizing He Wants to Drag Me to Canada",
                             "file_path": "e005/c001/p001.md",
                             "url": "/katie/six-buses-from-williamsburg-christmas-on-tonomy-hill-moving-in-as-four-ideas-for-cvta/a-chaperoned-day-visit-in-williamsburg-six-buses-home-with-heather-wesley-the-goyeau-street-tunnel-file/part-1-a-chaperoned-saturday-day-visit-two-packed-duffel-bags-in-the-hall-realizing-he-wants-to-drag-me-to-canada",
-                            "word_count": 1046,
+                            "word_count": 1045,
                             "reading_minutes": 5,
                             "date": "2004-10-16",
                             "start_time": "13:15",
@@ -3557,7 +3557,7 @@
                             "part_title": "Part 2: Six Buses from Williamsburg \u2014 The Blind Leap at Boundary Street, Calling Heather & Dad, Meeting Route 61 in Norfolk, & Riding Home as Four",
                             "file_path": "e005/c001/p002.md",
                             "url": "/katie/six-buses-from-williamsburg-christmas-on-tonomy-hill-moving-in-as-four-ideas-for-cvta/a-chaperoned-day-visit-in-williamsburg-six-buses-home-with-heather-wesley-the-goyeau-street-tunnel-file/part-2-six-buses-from-williamsburg-the-blind-leap-at-boundary-street-calling-heather-dad-meeting-route-61-in-norfolk-riding-home-as-four",
-                            "word_count": 2482,
+                            "word_count": 2479,
                             "reading_minutes": 10,
                             "date": "2004-10-16",
                             "start_time": "15:35",
@@ -3572,7 +3572,7 @@
                             "part_title": "Part 3: The Goyeau Street Tunnel Bus, The Trashed Ticket on East Jefferson Avenue, & Protected Non-Traveling Complainant",
                             "file_path": "e005/c001/p003.md",
                             "url": "/katie/six-buses-from-williamsburg-christmas-on-tonomy-hill-moving-in-as-four-ideas-for-cvta/a-chaperoned-day-visit-in-williamsburg-six-buses-home-with-heather-wesley-the-goyeau-street-tunnel-file/part-3-the-goyeau-street-tunnel-bus-the-trashed-ticket-on-east-jefferson-avenue-protected-non-traveling-complainant",
-                            "word_count": 2119,
+                            "word_count": 2118,
                             "reading_minutes": 9,
                             "date": "2004-10-20",
                             "start_time": "14:00",
@@ -3598,14 +3598,14 @@
                     "chap_title": "Christmas on Tonomy Hill With Cousin Chelsea, Moving In Together as Four, & Launching Ideas for CVTA",
                     "chap_url": "/raggiesoft-books/books/katie/six-buses-from-williamsburg-christmas-on-tonomy-hill-moving-in-as-four-ideas-for-cvta/christmas-on-tonomy-hill-with-cousin-chelsea-moving-in-together-as-four-launching-ideas-for-cvta",
                     "illustration_count": 1,
-                    "word_count": 2539,
+                    "word_count": 2522,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Eighteen Stops to Tonomy Hill, Wesley Meeting Cousin Chelsea, & The West Main Road Shortcut Home",
                             "file_path": "e005/c002/p001.md",
                             "url": "/katie/six-buses-from-williamsburg-christmas-on-tonomy-hill-moving-in-as-four-ideas-for-cvta/christmas-on-tonomy-hill-with-cousin-chelsea-moving-in-together-as-four-launching-ideas-for-cvta/part-1-eighteen-stops-to-tonomy-hill-wesley-meeting-cousin-chelsea-the-west-main-road-shortcut-home",
-                            "word_count": 889,
+                            "word_count": 882,
                             "reading_minutes": 4,
                             "date": "2004-12-24",
                             "start_time": "15:30",
@@ -3617,7 +3617,7 @@
                             "part_title": "Part 2: Wesley's High-School Graduation, Plenary Guardianship, & Moving In Under One Roof as Four",
                             "file_path": "e005/c002/p002.md",
                             "url": "/katie/six-buses-from-williamsburg-christmas-on-tonomy-hill-moving-in-as-four-ideas-for-cvta/christmas-on-tonomy-hill-with-cousin-chelsea-moving-in-together-as-four-launching-ideas-for-cvta/part-2-wesley-s-high-school-graduation-plenary-guardianship-moving-in-under-one-roof-as-four",
-                            "word_count": 514,
+                            "word_count": 505,
                             "reading_minutes": 3,
                             "date": "2005-07-16",
                             "start_time": "11:00",
@@ -3629,7 +3629,7 @@
                             "part_title": "Part 3: Thanksgiving Dinner Home on Arvin Road & Quietly Launching Ideas for Coastal Virginia Transit",
                             "file_path": "e005/c002/p003.md",
                             "url": "/katie/six-buses-from-williamsburg-christmas-on-tonomy-hill-moving-in-as-four-ideas-for-cvta/christmas-on-tonomy-hill-with-cousin-chelsea-moving-in-together-as-four-launching-ideas-for-cvta/part-3-thanksgiving-dinner-home-on-arvin-road-quietly-launching-ideas-for-coastal-virginia-transit",
-                            "word_count": 1136,
+                            "word_count": 1135,
                             "reading_minutes": 5,
                             "date": "2005-11-24",
                             "start_time": "13:00",
@@ -3654,21 +3654,21 @@
             "era_title": "Unofficial Homeowners on Arvin Road, Turning Twenty-Two in Washington, & 'Not the Right Skill Match'",
             "era_url": "/raggiesoft-books/books/katie/unofficial-homeowners-on-arvin-road-turning-twenty-two-in-washington-not-the-right-skill-match",
             "illustration_count": 10,
-            "word_count": 14706,
+            "word_count": 14668,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Moving Home to Arvin Road as Four, Horizontal IDs on Route 12, & Yearly Passes at Fairlawn",
                     "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-on-arvin-road-turning-twenty-two-in-washington-not-the-right-skill-match/moving-home-to-arvin-road-as-four-horizontal-ids-on-route-12-yearly-passes-at-fairlawn",
                     "illustration_count": 2,
-                    "word_count": 3482,
+                    "word_count": 3479,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Unofficial Homeowners on Arvin Road, Four Brass Keys, & Setting Up Our Kempsville Sanctuary",
                             "file_path": "e006/c001/p001.md",
                             "url": "/katie/unofficial-homeowners-on-arvin-road-turning-twenty-two-in-washington-not-the-right-skill-match/moving-home-to-arvin-road-as-four-horizontal-ids-on-route-12-yearly-passes-at-fairlawn/part-1-unofficial-homeowners-on-arvin-road-four-brass-keys-setting-up-our-kempsville-sanctuary",
-                            "word_count": 591,
+                            "word_count": 588,
                             "reading_minutes": 3,
                             "date": "2007-03-04",
                             "start_time": "18:30",
@@ -3892,7 +3892,7 @@
                     "chap_title": "Associate Degrees in Hand, 'Not the Right Skill Match,' & Giving DARS and RRC a Chance",
                     "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-on-arvin-road-turning-twenty-two-in-washington-not-the-right-skill-match/associate-degrees-in-hand-not-the-right-skill-match-giving-dars-and-rrc-a-chance",
                     "illustration_count": 1,
-                    "word_count": 1292,
+                    "word_count": 1257,
                     "parts": [
                         {
                             "part_num": 1,
@@ -3920,7 +3920,7 @@
                             "part_title": "Part 2: The Glossy Fishersville Pitch & Heather's Two-Week Extended-Stay Hotel on the Route 250 Connector",
                             "file_path": "e006/c004/p002.md",
                             "url": "/katie/unofficial-homeowners-on-arvin-road-turning-twenty-two-in-washington-not-the-right-skill-match/associate-degrees-in-hand-not-the-right-skill-match-giving-dars-and-rrc-a-chance/part-2-the-glossy-fishersville-pitch-heather-s-two-week-extended-stay-hotel-on-the-route-250-connector",
-                            "word_count": 800,
+                            "word_count": 765,
                             "reading_minutes": 4,
                             "date": "2007-06-22",
                             "start_time": "13:30",
@@ -3936,36 +3936,36 @@
             "era_title": "Fourteen Days at Roosevelt Rehabilitation Center, Two Weeks in the Shenandoah Valley, & A Secular Wedding in 2008",
             "era_url": "/raggiesoft-books/books/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008",
             "illustration_count": 10,
-            "word_count": 21467,
+            "word_count": 21364,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Barton Hall Check-In, Rushing Voc Eval in One Week, & Visiting Shenandoah Valley University With Heather and Wesley",
                     "chap_url": "/raggiesoft-books/books/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/barton-hall-check-in-rushing-voc-eval-in-one-week-visiting-shenandoah-valley-university-with-heather-and-wesley",
                     "illustration_count": 3,
-                    "word_count": 9865,
+                    "word_count": 9783,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Four Names on the Hotel Folio, Sunday Check-In at Barton Hall, & Expelling the Creepy Roommate",
                             "file_path": "e007/c001/p001.md",
                             "url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/barton-hall-check-in-rushing-voc-eval-in-one-week-visiting-shenandoah-valley-university-with-heather-and-wesley/part-1-four-names-on-the-hotel-folio-sunday-check-in-at-barton-hall-expelling-the-creepy-roommate",
-                            "word_count": 5200,
+                            "word_count": 5121,
                             "reading_minutes": 21,
                             "date": "2007-07-08",
                             "start_time": "10:15",
                             "location": "Augusta County, Waynesboro, & Fishersville, VA (Extended-Stay Hotel on Route 250 & Roosevelt Rehabilitation Center \u2014 Barton Hall)",
                             "excerpt": "\"Fourteen nights in a ground-floor accessible two-queen kitchenette suite, checking out Sunday, July twenty-second\u2014and I've got your Meridian card right here for the room and incidentals, Miss Collins,\" the\u2026",
                             "image": "/raggiesoft-books/images/scenes/katie/b006/jul_2007_route250_hotel_checkin_heather_wesley_nate_katie.jpg",
-                            "image_alt": "Inside the bright, sunlit front-desk lobby of an accessible extended-stay hotel along U.S. Route 250 near Waynesboro on Sunday morning, July 8, 2007, twenty-two-year-old Heather Collins turns warmly from the lowered honey-oak reception counter after swiping her credit card and putting all four names on the guest folio, handing two plain white Room 114 keycard sleeves directly to fraternal twins Nathaniel and Katie Prairie in their joystick-outfitted collapsible wheelchairs while twenty-year-old Wesley Sorenson smiles beside them holding his royal-blue silicone ring.",
+                            "image_alt": "Inside the bright, sunlit front-desk lobby of an accessible extended-stay hotel along U.S. Route 250 near Waynesboro on Sunday morning, July 8, 2007, Heather Collins turns warmly from the lowered honey-oak reception counter after swiping her credit card and putting all four names on the guest folio, handing two plain white Room 114 keycard sleeves directly to fraternal twins Nathaniel and Katie Prairie in their joystick-outfitted collapsible wheelchairs while Wesley Sorenson smiles beside them holding his royal-blue silicone ring.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b006/jul_2007_route250_hotel_checkin_heather_wesley_nate_katie.jpg",
-                                    "alt": "Inside the bright, sunlit front-desk lobby of an accessible extended-stay hotel along U.S. Route 250 near Waynesboro on Sunday morning, July 8, 2007, twenty-two-year-old Heather Collins turns warmly from the lowered honey-oak reception counter after swiping her credit card and putting all four names on the guest folio, handing two plain white Room 114 keycard sleeves directly to fraternal twins Nathaniel and Katie Prairie in their joystick-outfitted collapsible wheelchairs while twenty-year-old Wesley Sorenson smiles beside them holding his royal-blue silicone ring."
+                                    "alt": "Inside the bright, sunlit front-desk lobby of an accessible extended-stay hotel along U.S. Route 250 near Waynesboro on Sunday morning, July 8, 2007, Heather Collins turns warmly from the lowered honey-oak reception counter after swiping her credit card and putting all four names on the guest folio, handing two plain white Room 114 keycard sleeves directly to fraternal twins Nathaniel and Katie Prairie in their joystick-outfitted collapsible wheelchairs while Wesley Sorenson smiles beside them holding his royal-blue silicone ring."
                                 },
                                 {
                                     "src": "/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_barton_hall_checkin_wesley_heather_david_katie_nate.jpg",
-                                    "alt": "Inside the 1960s red-brick and terrazzo lobby of Barton Hall at Roosevelt Rehabilitation Center on a lush summer morning on Sunday, July 8, 2007, twenty-two-year-old fraternal twins Katie and Nathaniel Prairie sit in their collapsible manual wheelchairs outfitted with armrest joysticks, spoked push-rim wheels, and rear rubber push-handles holding hands and looking reassuringly up at twenty-year-old Wesley Sorenson\u2014who holds his royal-blue silicone ring with tears on his cheeks while Heather Collins comforts him from behind\u2014as their father David Prairie stands warmly beside a brass luggage cart and stacks of yellow Hall Passes rest on the wooden intake counter."
+                                    "alt": "Inside the 1960s red-brick and terrazzo lobby of Barton Hall at Roosevelt Rehabilitation Center on a lush summer morning on Sunday, July 8, 2007, fraternal twins Katie and Nathaniel Prairie sit in their collapsible manual wheelchairs outfitted with armrest joysticks, spoked push-rim wheels, and rear rubber push-handles holding hands and looking reassuringly up at Wesley Sorenson\u2014who holds his royal-blue silicone ring with tears on his cheeks while Heather Collins comforts him from behind\u2014as their father David Prairie stands warmly beside a brass luggage cart and stacks of yellow Hall Passes rest on the wooden intake counter."
                                 }
                             ],
                             "image_count": 2,
@@ -3978,7 +3978,7 @@
                             "part_title": "Part 2: Rushing Voc Eval in One Week, 'Door Greeter!?', Yellow Hall Passes, & Visiting Shenandoah Valley University With Heather and Wesley",
                             "file_path": "e007/c001/p002.md",
                             "url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/barton-hall-check-in-rushing-voc-eval-in-one-week-visiting-shenandoah-valley-university-with-heather-and-wesley/part-2-rushing-voc-eval-in-one-week-door-greeter-yellow-hall-passes-visiting-shenandoah-valley-university-with-heather-and-wesley",
-                            "word_count": 4665,
+                            "word_count": 4662,
                             "reading_minutes": 19,
                             "date": "2007-07-09",
                             "start_time": "07:15",
@@ -4063,14 +4063,14 @@
                     "chap_title": "Ditching Campus for the Hotel Room Without Passes, Natalie's Tears, & Spending Week Two Exploring the Shenandoah Valley",
                     "chap_url": "/raggiesoft-books/books/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/ditching-campus-for-the-hotel-room-without-passes-natalie-s-tears-spending-week-two-exploring-the-shenandoah-valley",
                     "illustration_count": 2,
-                    "word_count": 2016,
+                    "word_count": 2002,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Dormitory Room Mix-Up, Staying at Heather and Wesley's Hotel Without Passes, & Natalie's Tears Outside the Cafeteria",
                             "file_path": "e007/c003/p001.md",
                             "url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/ditching-campus-for-the-hotel-room-without-passes-natalie-s-tears-spending-week-two-exploring-the-shenandoah-valley/part-1-the-dormitory-room-mix-up-staying-at-heather-and-wesley-s-hotel-without-passes-natalie-s-tears-outside-the-cafeteria",
-                            "word_count": 1291,
+                            "word_count": 1290,
                             "reading_minutes": 6,
                             "date": "2007-07-18",
                             "start_time": "21:15",
@@ -4094,7 +4094,7 @@
                             "part_title": "Part 2: Dad Packing Out Barton Hall on Sunday, Dropping Our Keys for Good, & Spending Our Paid-For Second Week Exploring the Valley",
                             "file_path": "e007/c003/p002.md",
                             "url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/ditching-campus-for-the-hotel-room-without-passes-natalie-s-tears-spending-week-two-exploring-the-shenandoah-valley/part-2-dad-packing-out-barton-hall-on-sunday-dropping-our-keys-for-good-spending-our-paid-for-second-week-exploring-the-valley",
-                            "word_count": 725,
+                            "word_count": 712,
                             "reading_minutes": 3,
                             "date": "2007-07-22",
                             "start_time": "12:30",
@@ -4121,14 +4121,14 @@
                     "chap_title": "Peeling Off the Bandage at Dr. Carter's, Launching Prairie Twin Interactive, The Networking Closet, & A Secular Wedding in 2008",
                     "chap_url": "/raggiesoft-books/books/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/peeling-off-the-bandage-at-dr-carter-s-launching-prairie-twin-interactive-the-networking-closet-a-secular-wedding-in-2008",
                     "illustration_count": 3,
-                    "word_count": 2605,
+                    "word_count": 2598,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Dr. Carter's Exam Room, Coding With Tina, Sheila, and Jim, & Launching Prairie Twin Interactive",
                             "file_path": "e007/c004/p001.md",
                             "url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/peeling-off-the-bandage-at-dr-carter-s-launching-prairie-twin-interactive-the-networking-closet-a-secular-wedding-in-2008/part-1-dr-carter-s-exam-room-coding-with-tina-sheila-and-jim-launching-prairie-twin-interactive",
-                            "word_count": 478,
+                            "word_count": 477,
                             "reading_minutes": 2,
                             "date": "2007-07-30",
                             "start_time": "14:00",
@@ -4153,7 +4153,7 @@
                             "part_title": "Part 2: The Arvin Road Networking Closet, A Fail-Safe Thermostat Relay, & Thinking of Cousin Chelsea",
                             "file_path": "e007/c004/p002.md",
                             "url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/peeling-off-the-bandage-at-dr-carter-s-launching-prairie-twin-interactive-the-networking-closet-a-secular-wedding-in-2008/part-2-the-arvin-road-networking-closet-a-fail-safe-thermostat-relay-thinking-of-cousin-chelsea",
-                            "word_count": 1281,
+                            "word_count": 1280,
                             "reading_minutes": 6,
                             "date": "2007-08-18",
                             "start_time": "13:30",
@@ -4174,7 +4174,7 @@
                             "part_title": "Part 3: Buying Arvin Road Fifty-Fifty & A Completely Secular Wedding Under the Botanical Rose Pavilion",
                             "file_path": "e007/c004/p003.md",
                             "url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/peeling-off-the-bandage-at-dr-carter-s-launching-prairie-twin-interactive-the-networking-closet-a-secular-wedding-in-2008/part-3-buying-arvin-road-fifty-fifty-a-completely-secular-wedding-under-the-botanical-rose-pavilion",
-                            "word_count": 846,
+                            "word_count": 841,
                             "reading_minutes": 4,
                             "date": "2008-04-12",
                             "start_time": "14:00",
@@ -4190,14 +4190,14 @@
             "era_title": "Do Better: Ideas for CVTA & The Kempsville City Council",
             "era_url": "/raggiesoft-books/books/katie/do-better-ideas-for-cvta-the-kempsville-city-council",
             "illustration_count": 7,
-            "word_count": 13940,
+            "word_count": 13934,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Do Better: Ideas for CVTA & The Four-Bus Mayoral Loop",
                     "chap_url": "/raggiesoft-books/books/katie/do-better-ideas-for-cvta-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop",
                     "illustration_count": 3,
-                    "word_count": 5829,
+                    "word_count": 5828,
                     "parts": [
                         {
                             "part_num": 1,
@@ -4228,7 +4228,7 @@
                             "part_title": "Part 2: The Four-Bus Mayoral Loop, Silenced at Eighteenth Street, & Choosing to Run for the Kempsville Seat",
                             "file_path": "e008/c001/p002.md",
                             "url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/do-better-ideas-for-cvta-the-four-bus-mayoral-loop/part-2-the-four-bus-mayoral-loop-silenced-at-eighteenth-street-choosing-to-run-for-the-kempsville-seat",
-                            "word_count": 2503,
+                            "word_count": 2502,
                             "reading_minutes": 11,
                             "date": "2008-09-16",
                             "start_time": "14:00",
@@ -4258,14 +4258,14 @@
                     "chap_title": "The Empty Podium on WHRC TV-15, The 94.1% Landslide, & Councilwoman Prairie",
                     "chap_url": "/raggiesoft-books/books/katie/do-better-ideas-for-cvta-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie",
                     "illustration_count": 4,
-                    "word_count": 8111,
+                    "word_count": 8106,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Empty Podium on WHRC TV-15, The 8:24 PM Three-Bus Sprint Home, & The Front-Page Metro Headline",
                             "file_path": "e008/c002/p001.md",
                             "url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie/part-1-the-empty-podium-on-whrc-tv-15-the-8-24-pm-three-bus-sprint-home-the-front-page-metro-headline",
-                            "word_count": 3582,
+                            "word_count": 3580,
                             "reading_minutes": 15,
                             "date": "2010-10-14",
                             "start_time": "19:28",
@@ -4293,7 +4293,7 @@
                             "part_title": "Part 2: The WTGA 790 AM Disability Attack, The 94.1% Landslide, & The Eighteenth Street Reckoning",
                             "file_path": "e008/c002/p002.md",
                             "url": "/katie/do-better-ideas-for-cvta-the-kempsville-city-council/the-empty-podium-on-whrc-tv-15-the-94-1-landslide-councilwoman-prairie/part-2-the-wtga-790-am-disability-attack-the-94-1-landslide-the-eighteenth-street-reckoning",
-                            "word_count": 4529,
+                            "word_count": 4526,
                             "reading_minutes": 19,
                             "date": "2010-10-28",
                             "start_time": "08:15",
@@ -4325,21 +4325,21 @@
             "era_title": "The Gentlewoman from Virginia Beach: The House of Delegates",
             "era_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates",
             "illustration_count": 17,
-            "word_count": 56344,
+            "word_count": 56289,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Stopped at the Third-Floor Gallery, Seated by Delegate Ronald Villa, & Winning the 85th District",
                     "chap_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/stopped-at-the-third-floor-gallery-seated-by-delegate-ronald-villa-winning-the-85th-district",
                     "illustration_count": 2,
-                    "word_count": 5475,
+                    "word_count": 5471,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Stopped at the Third-Floor Gallery by Capitol Police, Seated on the House Floor Near Delegate Ronald Villa, & The Spark to Run",
                             "file_path": "e009/c001/p001.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/stopped-at-the-third-floor-gallery-seated-by-delegate-ronald-villa-winning-the-85th-district/part-1-stopped-at-the-third-floor-gallery-by-capitol-police-seated-on-the-house-floor-near-delegate-ronald-villa-the-spark-to-run",
-                            "word_count": 2479,
+                            "word_count": 2478,
                             "reading_minutes": 10,
                             "date": "2012-02-09",
                             "start_time": "11:35",
@@ -4360,7 +4360,7 @@
                             "part_title": "Part 2: Telling Dad at Our Kempsville Kitchen Table, The 125-Signature Ballot Petition at CCHR, & Winning the Eighty-Fifth House District",
                             "file_path": "e009/c001/p002.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/stopped-at-the-third-floor-gallery-seated-by-delegate-ronald-villa-winning-the-85th-district/part-2-telling-dad-at-our-kempsville-kitchen-table-the-125-signature-ballot-petition-at-cchr-winning-the-eighty-fifth-house-district",
-                            "word_count": 2996,
+                            "word_count": 2993,
                             "reading_minutes": 12,
                             "date": "2012-11-23",
                             "start_time": "18:30",
@@ -4383,14 +4383,14 @@
                     "chap_title": "Freshman Session on West Broad Street & Riding JRTC Route 6 to the Capitol",
                     "chap_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/freshman-session-on-west-broad-street-riding-jrtc-route-6-to-the-capitol",
                     "illustration_count": 4,
-                    "word_count": 5896,
+                    "word_count": 5893,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The West Broad Street Loft, Making Up the Decoy Bed for Our Closet Sanctuary, & Weekend Reconnaissance on JRTC Route 6",
                             "file_path": "e009/c002/p001.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/freshman-session-on-west-broad-street-riding-jrtc-route-6-to-the-capitol/part-1-the-west-broad-street-loft-making-up-the-decoy-bed-for-our-closet-sanctuary-weekend-reconnaissance-on-jrtc-route-6",
-                            "word_count": 2505,
+                            "word_count": 2502,
                             "reading_minutes": 11,
                             "date": "2014-01-03",
                             "start_time": "14:15",
@@ -4442,14 +4442,14 @@
                     "chap_title": "House Bill 663 & Live on Meet the Nation",
                     "chap_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation",
                     "illustration_count": 6,
-                    "word_count": 27315,
+                    "word_count": 27309,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Line 18, Seated by Delegate Ronald Villa on the Floor, & A Question Across the Chamber",
                             "file_path": "e009/c003/p001.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-1-line-18-seated-by-delegate-ronald-villa-on-the-floor-a-question-across-the-chamber",
-                            "word_count": 5271,
+                            "word_count": 5269,
                             "reading_minutes": 22,
                             "date": "2016-02-04",
                             "start_time": "11:35",
@@ -4477,7 +4477,7 @@
                             "part_title": "Part 2: Transit Legislative Day in Room 518, The Six-O'Clock News, & Two Meltdowns Answered by Page Forty-Two",
                             "file_path": "e009/c003/p002.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-2-transit-legislative-day-in-room-518-the-six-o-clock-news-two-meltdowns-answered-by-page-forty-two",
-                            "word_count": 7560,
+                            "word_count": 7559,
                             "reading_minutes": 31,
                             "date": "2016-02-04",
                             "start_time": "14:15",
@@ -4502,7 +4502,7 @@
                             "part_title": "Part 3: Hold the Elevator!, Reuniting With Cousin Brittany in Room 518, Friday Night on JRTC Route 6, & Why Nate Must Speak",
                             "file_path": "e009/c003/p003.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-3-hold-the-elevator-reuniting-with-cousin-brittany-in-room-518-friday-night-on-jrtc-route-6-why-nate-must-speak",
-                            "word_count": 5158,
+                            "word_count": 5157,
                             "reading_minutes": 21,
                             "date": "2016-02-05",
                             "start_time": "13:15",
@@ -4526,7 +4526,7 @@
                             "part_title": "Part 4: Via Southside Plaza, Speaking Up at the Altar, Taking Brittany to Meet the Nation, & Left Onto Macgregory Street",
                             "file_path": "e009/c003/p004.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/house-bill-663-live-on-meet-the-nation/part-4-via-southside-plaza-speaking-up-at-the-altar-taking-brittany-to-meet-the-nation-left-onto-macgregory-street",
-                            "word_count": 9326,
+                            "word_count": 9324,
                             "reading_minutes": 38,
                             "date": "2016-02-06",
                             "start_time": "13:10",
@@ -4557,14 +4557,14 @@
                     "chap_title": "Keeping Our High-School Promise, Rescuing Cousin Chelsea, Coaxed Out of the Closet Onto Our Six-Person Alaskan King, & Chelsea and Wesley's Turtle Sanctuary",
                     "chap_url": "/raggiesoft-books/books/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary",
                     "illustration_count": 5,
-                    "word_count": 17658,
+                    "word_count": 17616,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Sine Die, Welcoming Brittany Home to Arvin Road, Route 20 to the Coastal Adult Learning Center, & Three Cousins in the Closet",
                             "file_path": "e009/c004/p001.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-1-sine-die-welcoming-brittany-home-to-arvin-road-route-20-to-the-coastal-adult-learning-center-three-cousins-in-the-closet",
-                            "word_count": 2966,
+                            "word_count": 2958,
                             "reading_minutes": 12,
                             "date": "2016-03-14",
                             "start_time": "16:30",
@@ -4585,7 +4585,7 @@
                             "part_title": "Part 2: Turned Away at the Royal Gate, Riding BTA Route 99 Up Mount Regalis, Catching the Two-Faced Manager Red-Handed, & 'No Known Living Family'",
                             "file_path": "e009/c004/p002.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-2-turned-away-at-the-royal-gate-riding-bta-route-99-up-mount-regalis-catching-the-two-faced-manager-red-handed-no-known-living-family",
-                            "word_count": 3103,
+                            "word_count": 3101,
                             "reading_minutes": 13,
                             "date": "2016-07-18",
                             "start_time": "13:40",
@@ -4606,7 +4606,7 @@
                             "part_title": "Part 3: Ten Minutes in Braxton Probate Court, Forcing Open the Royal Gate With a Sheriff's Escort, & Goodbye to Newport Over I-895",
                             "file_path": "e009/c004/p003.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-3-ten-minutes-in-braxton-probate-court-forcing-open-the-royal-gate-with-a-sheriff-s-escort-goodbye-to-newport-over-i-895",
-                            "word_count": 1767,
+                            "word_count": 1766,
                             "reading_minutes": 8,
                             "date": "2016-07-19",
                             "start_time": "09:00",
@@ -4627,7 +4627,7 @@
                             "part_title": "Part 4: Tagless Puffer-Pocket Pajamas, Gentle Reminders, Fear of 'Group Home Two-Face,' & Four Cousins Crammed Into One Closet",
                             "file_path": "e009/c004/p004.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-4-tagless-puffer-pocket-pajamas-gentle-reminders-fear-of-group-home-two-face-four-cousins-crammed-into-one-closet",
-                            "word_count": 2773,
+                            "word_count": 2769,
                             "reading_minutes": 12,
                             "date": "2016-07-21",
                             "start_time": "20:45",
@@ -4639,7 +4639,7 @@
                             "part_title": "Part 5: Eighty Cramped Nights on Closet Plywood, Building Our Solid-Oak Alaskan King, The Twelve-Minute Try, & Thanksgiving's Forty-Five-Minute Milestone",
                             "file_path": "e009/c004/p005.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-5-eighty-cramped-nights-on-closet-plywood-building-our-solid-oak-alaskan-king-the-twelve-minute-try-thanksgiving-s-forty-five-minute-milestone",
-                            "word_count": 2612,
+                            "word_count": 2609,
                             "reading_minutes": 11,
                             "date": "2016-10-14",
                             "start_time": "21:00",
@@ -4651,7 +4651,7 @@
                             "part_title": "Part 6: Safe From the Dark and 'Group Home Two-Face,' Rolling Up Our Closet Sleeping Bags, & Migrating Full-Time Onto Our Six-Person Alaskan King",
                             "file_path": "e009/c004/p006.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-6-safe-from-the-dark-and-group-home-two-face-rolling-up-our-closet-sleeping-bags-migrating-full-time-onto-our-six-person-alaskan-king",
-                            "word_count": 1257,
+                            "word_count": 1255,
                             "reading_minutes": 6,
                             "date": "2017-02-11",
                             "start_time": "21:30",
@@ -4672,7 +4672,7 @@
                             "part_title": "Part 7: Chelsea and Wesley's Living-Room Turtle Habitat, Two Friends for Shelly Turtle, & The Daily Romaine Prep Crew",
                             "file_path": "e009/c004/p007.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-7-chelsea-and-wesley-s-living-room-turtle-habitat-two-friends-for-shelly-turtle-the-daily-romaine-prep-crew",
-                            "word_count": 1021,
+                            "word_count": 1016,
                             "reading_minutes": 5,
                             "date": "2017-03-25",
                             "start_time": "14:10",
@@ -4693,7 +4693,7 @@
                             "part_title": "Part 8: 'Now You're Learning My Truck,' L-1-2-3-R in an Empty Parking Lot, & Three Manuals on the Tailgate",
                             "file_path": "e009/c004/p008.md",
                             "url": "/katie/the-gentlewoman-from-virginia-beach-the-house-of-delegates/keeping-our-high-school-promise-rescuing-cousin-chelsea-coaxed-out-of-the-closet-onto-our-six-person-alaskan-king-chelsea-and-wesley-s-turtle-sanctuary/part-8-now-you-re-learning-my-truck-l-1-2-3-r-in-an-empty-parking-lot-three-manuals-on-the-tailgate",
-                            "word_count": 2159,
+                            "word_count": 2142,
                             "reading_minutes": 9,
                             "date": "2017-06-11",
                             "start_time": "09:15",
@@ -4709,21 +4709,21 @@
             "era_title": "Across the Rotunda: The Senate of Virginia",
             "era_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia",
             "illustration_count": 9,
-            "word_count": 18672,
+            "word_count": 18622,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Watching Senator Ward Kill Our Bills Across the Rotunda, Brainstorming the 7th Senate District, & Collecting 824 Ballot Signatures Along Route 20 and Route 25",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-brainstorming-the-7th-senate-district-collecting-824-ballot-signatures-along-route-20-and-route-25",
                     "illustration_count": 2,
-                    "word_count": 2432,
+                    "word_count": 2426,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Watching Senator Ward Kill Our Bills Across the Rotunda, Brainstorming the 7th Senate District with Dad, & The 250-Signature Rule",
                             "file_path": "e010/c001/p001.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/watching-senator-ward-kill-our-bills-across-the-rotunda-brainstorming-the-7th-senate-district-collecting-824-ballot-signatures-along-route-20-and-route-25/watching-senator-ward-kill-our-bills-across-the-rotunda-brainstorming-the-7th-senate-district-with-dad-the-250-signature-rule",
-                            "word_count": 2432,
+                            "word_count": 2426,
                             "reading_minutes": 10,
                             "date": "2018-02-22",
                             "start_time": "15:10",
@@ -4750,14 +4750,14 @@
                     "chap_title": "Flipping the Seventh Senate District, The Mahogany Senate Ramp, & Madam Chair",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/flipping-the-seventh-senate-district-the-mahogany-senate-ramp-madam-chair",
                     "illustration_count": 1,
-                    "word_count": 3257,
+                    "word_count": 3252,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Flipping the Seventh Senate District, Custom-Milling the Mahogany Senate Ramp, & Swearing In as Madam Chair",
                             "file_path": "e010/c002/p001.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/flipping-the-seventh-senate-district-the-mahogany-senate-ramp-madam-chair/flipping-the-seventh-senate-district-custom-milling-the-mahogany-senate-ramp-swearing-in-as-madam-chair",
-                            "word_count": 3257,
+                            "word_count": 3252,
                             "reading_minutes": 14,
                             "date": "2019-11-05",
                             "start_time": "19:30",
@@ -4780,14 +4780,14 @@
                     "chap_title": "The Accessibility Project: Riding Every Bus Across the Commonwealth for the United States Senate",
                     "chap_url": "/raggiesoft-books/books/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate",
                     "illustration_count": 6,
-                    "word_count": 12983,
+                    "word_count": 12944,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Living Room Decision in Kempsville, The 10,000-Signature Rule, & The Accessibility Project",
                             "file_path": "e010/c003/p001.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-1-the-living-room-decision-in-kempsville-the-10-000-signature-rule-the-accessibility-project",
-                            "word_count": 2790,
+                            "word_count": 2785,
                             "reading_minutes": 12,
                             "date": "2026-01-10",
                             "start_time": "19:30",
@@ -4808,7 +4808,7 @@
                             "part_title": "Part 2: The Jammed Ramp on Victoria Boulevard, ShoreLine Transit Across the Bay, & Wearing the NFA's 'F' Grade in Fairfax",
                             "file_path": "e010/c003/p002.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-2-the-jammed-ramp-on-victoria-boulevard-shoreline-transit-across-the-bay-wearing-the-nfa-s-f-grade-in-fairfax",
-                            "word_count": 2469,
+                            "word_count": 2458,
                             "reading_minutes": 10,
                             "date": "2026-03-28",
                             "start_time": "10:15",
@@ -4829,7 +4829,7 @@
                             "part_title": "Part 3: The Roanoke Express, The Brooks Family Compound on Lee Highway, The Maroon Express to Bluewater, & Winning the June Primary",
                             "file_path": "e010/c003/p003.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-3-the-roanoke-express-the-brooks-family-compound-on-lee-highway-the-maroon-express-to-bluewater-winning-the-june-primary",
-                            "word_count": 3928,
+                            "word_count": 3927,
                             "reading_minutes": 16,
                             "date": "2026-05-18",
                             "start_time": "11:30",
@@ -4853,7 +4853,7 @@
                             "part_title": "Part 4: Riding Into Deep-Red RTR Country: Mountain Empire Transit, The Coalfields, & Cumberland Gap With Dad",
                             "file_path": "e010/c003/p004.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-4-riding-into-deep-red-rtr-country-mountain-empire-transit-the-coalfields-cumberland-gap-with-dad",
-                            "word_count": 1781,
+                            "word_count": 1768,
                             "reading_minutes": 8,
                             "date": "2026-07-24",
                             "start_time": "09:30",
@@ -4878,7 +4878,7 @@
                             "part_title": "Part 5: Katie's Favorite Place in Virginia: The Cassini Center in Highland County & The October WHRC TV-15 Three-Bus Sprint",
                             "file_path": "e010/c003/p005.md",
                             "url": "/katie/across-the-rotunda-the-senate-of-virginia/the-accessibility-project-riding-every-bus-across-the-commonwealth-for-the-united-states-senate/part-5-katie-s-favorite-place-in-virginia-the-cassini-center-in-highland-county-the-october-whrc-tv-15-three-bus-sprint",
-                            "word_count": 2015,
+                            "word_count": 2006,
                             "reading_minutes": 9,
                             "date": "2026-09-19",
                             "start_time": "16:30",
@@ -4903,21 +4903,21 @@
             "era_title": "The Senator from Virginia",
             "era_url": "/raggiesoft-books/books/katie/the-senator-from-virginia",
             "illustration_count": 37,
-            "word_count": 89961,
+            "word_count": 89813,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Election Night, The Decision Desk Call, & The Referendum Mandate",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate",
                     "illustration_count": 5,
-                    "word_count": 15767,
+                    "word_count": 15758,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Polls Close at Seven, The 8:42 PM Decision Desk Call, & Victory in Virginia Beach",
                             "file_path": "e011/c001/p001.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-1-polls-close-at-seven-the-8-42-pm-decision-desk-call-victory-in-virginia-beach",
-                            "word_count": 3030,
+                            "word_count": 3026,
                             "reading_minutes": 13,
                             "date": "2026-11-03",
                             "start_time": "19:00",
@@ -4942,7 +4942,7 @@
                             "part_title": "Part 2: The Morning After in Kempsville, The School Tax Referendum, & Jess's Open Letter on The Grid",
                             "file_path": "e011/c001/p002.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-2-the-morning-after-in-kempsville-the-school-tax-referendum-jess-s-open-letter-on-the-grid",
-                            "word_count": 2715,
+                            "word_count": 2713,
                             "reading_minutes": 11,
                             "date": "2026-11-04",
                             "start_time": "08:30",
@@ -4966,7 +4966,7 @@
                             "part_title": "Part 3: U.S. Senate New Member Orientation, Senator Tess Dunmore's Ramp, & Making the Vice President Swear Her In",
                             "file_path": "e011/c001/p003.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-3-u-s-senate-new-member-orientation-senator-tess-dunmore-s-ramp-making-the-vice-president-swear-her-in",
-                            "word_count": 6323,
+                            "word_count": 6322,
                             "reading_minutes": 26,
                             "date": "2026-11-16",
                             "start_time": "08:45",
@@ -4990,7 +4990,7 @@
                             "part_title": "Part 4: Opposing Leader Schuman, The 211\u2013204 Lame-Duck False Dawn in the Dirksen Basement, & Home Across the Fenwick Bridge",
                             "file_path": "e011/c001/p004.md",
                             "url": "/katie/the-senator-from-virginia/election-night-the-decision-desk-call-the-referendum-mandate/part-4-opposing-leader-schuman-the-211-204-lame-duck-false-dawn-in-the-dirksen-basement-home-across-the-fenwick-bridge",
-                            "word_count": 3699,
+                            "word_count": 3697,
                             "reading_minutes": 15,
                             "date": "2026-12-01",
                             "start_time": "10:30",
@@ -5016,14 +5016,14 @@
                     "chap_title": "The Minified ZIP File, The Raw HTML Takedown, & Resigning from Richmond",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/the-minified-zip-file-the-raw-html-takedown-resigning-from-richmond",
                     "illustration_count": 3,
-                    "word_count": 3778,
+                    "word_count": 3777,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Minified ZIP Trick, Barely Commented Code, & The Live WCAG Takedown",
                             "file_path": "e011/c002/p001.md",
                             "url": "/katie/the-senator-from-virginia/the-minified-zip-file-the-raw-html-takedown-resigning-from-richmond/part-1-the-minified-zip-trick-barely-commented-code-the-live-wcag-takedown",
-                            "word_count": 2606,
+                            "word_count": 2605,
                             "reading_minutes": 11,
                             "date": "2026-12-11",
                             "start_time": "10:00",
@@ -5071,14 +5071,14 @@
                     "chap_title": "First Train from Norfolk, Swearing In on the Constitution, & Strings Attached for RRC",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc",
                     "illustration_count": 11,
-                    "word_count": 19524,
+                    "word_count": 19518,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Five Business Class Tickets for Free Caf\u00e9 Car Drinks & The Mobile Lift at Alexandria",
                             "file_path": "e011/c003/p001.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-1-five-business-class-tickets-for-free-caf-car-drinks-the-mobile-lift-at-alexandria",
-                            "word_count": 1781,
+                            "word_count": 1777,
                             "reading_minutes": 8,
                             "date": "2027-01-03",
                             "start_time": "05:00",
@@ -5139,7 +5139,7 @@
                             "part_title": "Part 3: The First Invite to Cocktails, A Known Side Effect of Death, & Home to Sunset Drive",
                             "file_path": "e011/c003/p003.md",
                             "url": "/katie/the-senator-from-virginia/first-train-from-norfolk-swearing-in-on-the-constitution-strings-attached-for-rrc/part-3-the-first-invite-to-cocktails-a-known-side-effect-of-death-home-to-sunset-drive",
-                            "word_count": 3044,
+                            "word_count": 3042,
                             "reading_minutes": 13,
                             "date": "2027-01-03",
                             "start_time": "16:30",
@@ -5215,7 +5215,7 @@
                     "chap_title": "The Norfolk Carrier Leak, Three Convictions, Senator Prairie's Capitol Tour, & Route 913 Across the Bay",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/the-norfolk-carrier-leak-three-convictions-senator-prairie-s-capitol-tour-route-913-across-the-bay",
                     "illustration_count": 8,
-                    "word_count": 16300,
+                    "word_count": 16289,
                     "parts": [
                         {
                             "part_num": 1,
@@ -5246,7 +5246,7 @@
                             "part_title": "Part 2: Route 36 to Timberline Shopping Center, Lunch at Don Miller Subs, Retro Games at Neat Stuff, & Suite 756",
                             "file_path": "e011/c004/p002.md",
                             "url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-three-convictions-senator-prairie-s-capitol-tour-route-913-across-the-bay/part-2-route-36-to-timberline-shopping-center-lunch-at-don-miller-subs-retro-games-at-neat-stuff-suite-756",
-                            "word_count": 4962,
+                            "word_count": 4961,
                             "reading_minutes": 20,
                             "date": "2027-04-03",
                             "start_time": "12:05",
@@ -5311,7 +5311,7 @@
                             "part_title": "Part 4: Why Isn't Katie Home in May?, Senator Prairie's Capitol Tour, & Holding Hands in the Senate Gallery",
                             "file_path": "e011/c004/p004.md",
                             "url": "/katie/the-senator-from-virginia/the-norfolk-carrier-leak-three-convictions-senator-prairie-s-capitol-tour-route-913-across-the-bay/part-4-why-isn-t-katie-home-in-may-senator-prairie-s-capitol-tour-holding-hands-in-the-senate-gallery",
-                            "word_count": 2491,
+                            "word_count": 2481,
                             "reading_minutes": 10,
                             "date": "2027-05-20",
                             "start_time": "10:15",
@@ -5383,14 +5383,14 @@
                     "chap_title": "Joint Base Andrews to Chambers Field: Flying Home on Air Force One",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/joint-base-andrews-to-chambers-field-flying-home-on-air-force-one",
                     "illustration_count": 1,
-                    "word_count": 3597,
+                    "word_count": 3596,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Chambers Field, Four Hundred Million Restored on Pier 12, & Tapping In at King Street the Next Morning",
                             "file_path": "e011/c006/p001.md",
                             "url": "/katie/the-senator-from-virginia/joint-base-andrews-to-chambers-field-flying-home-on-air-force-one/chambers-field-four-hundred-million-restored-on-pier-12-tapping-in-at-king-street-the-next-morning",
-                            "word_count": 3597,
+                            "word_count": 3596,
                             "reading_minutes": 15,
                             "date": "2027-10-13",
                             "start_time": "15:15",
@@ -5413,14 +5413,14 @@
                     "chap_title": "The Supported Companions Act & Two Mirrored Companion Suites",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/the-supported-companions-act-two-mirrored-companion-suites",
                     "illustration_count": 1,
-                    "word_count": 4565,
+                    "word_count": 4526,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Form SSA-4178 on Camera, Scrapping the Social Security Cap, & Taxing Billionaires and Windfall Profits",
                             "file_path": "e011/c007/p001.md",
                             "url": "/katie/the-senator-from-virginia/the-supported-companions-act-two-mirrored-companion-suites/part-1-form-ssa-4178-on-camera-scrapping-the-social-security-cap-taxing-billionaires-and-windfall-profits",
-                            "word_count": 1795,
+                            "word_count": 1787,
                             "reading_minutes": 8,
                             "date": "2028-05-11",
                             "start_time": "10:15",
@@ -5435,7 +5435,7 @@
                             "part_title": "Part 2: Dad's 1991 Crew Cab Pickup, First-Time Guests at the White House, & Signing Law Number One in the Restored Rose Garden",
                             "file_path": "e011/c007/p002.md",
                             "url": "/katie/the-senator-from-virginia/the-supported-companions-act-two-mirrored-companion-suites/part-2-dad-s-1991-crew-cab-pickup-first-time-guests-at-the-white-house-signing-law-number-one-in-the-restored-rose-garden",
-                            "word_count": 1799,
+                            "word_count": 1775,
                             "reading_minutes": 8,
                             "date": "2028-06-20",
                             "start_time": "08:45",
@@ -5450,7 +5450,7 @@
                             "part_title": "Part 3: Two Identical Pocket Doors: Unveiling Wesley and Chelsea's Mirrored Ground-Floor Companion Suites in Virginia Beach & Alexandria",
                             "file_path": "e011/c007/p003.md",
                             "url": "/katie/the-senator-from-virginia/the-supported-companions-act-two-mirrored-companion-suites/part-3-two-identical-pocket-doors-unveiling-wesley-and-chelsea-s-mirrored-ground-floor-companion-suites-in-virginia-beach-alexandria",
-                            "word_count": 971,
+                            "word_count": 964,
                             "reading_minutes": 4,
                             "date": "2029-03-10",
                             "start_time": "18:30",
@@ -5476,14 +5476,14 @@
                     "chap_title": "Saying Goodbye in Danville & Kempsville, Passing the Torch, & Brittany's 1991 Crew Cab",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab",
                     "illustration_count": 3,
-                    "word_count": 6652,
+                    "word_count": 6597,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: No Senate Pin in the Family Pew: Saying Goodbye to Uncle Richard in Southside Virginia & Katie's Lifelong Promise to Sam, Mandy, and Sarah",
                             "file_path": "e011/c008/p001.md",
                             "url": "/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab/part-1-no-senate-pin-in-the-family-pew-saying-goodbye-to-uncle-richard-in-southside-virginia-katie-s-lifelong-promise-to-sam-mandy-and-sarah",
-                            "word_count": 2565,
+                            "word_count": 2545,
                             "reading_minutes": 11,
                             "date": "2029-11-10",
                             "start_time": "11:00",
@@ -5504,7 +5504,7 @@
                             "part_title": "Part 2: Eye Level on the Carpet to the Very End: Saying Goodbye to Dad in Kempsville, White Roses From the Rose Garden, & Marge and the Triplets Standing for Richard",
                             "file_path": "e011/c008/p002.md",
                             "url": "/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab/part-2-eye-level-on-the-carpet-to-the-very-end-saying-goodbye-to-dad-in-kempsville-white-roses-from-the-rose-garden-marge-and-the-triplets-standing-for-richard",
-                            "word_count": 2591,
+                            "word_count": 2574,
                             "reading_minutes": 11,
                             "date": "2031-10-18",
                             "start_time": "10:30",
@@ -5525,7 +5525,7 @@
                             "part_title": "Part 3: Passing the Torch for Chelsea, Fifteen Years of Videos With Uncle David, & It Really Is Her Truck Now",
                             "file_path": "e011/c008/p003.md",
                             "url": "/katie/the-senator-from-virginia/saying-goodbye-in-danville-kempsville-passing-the-torch-brittany-s-1991-crew-cab/part-3-passing-the-torch-for-chelsea-fifteen-years-of-videos-with-uncle-david-it-really-is-her-truck-now",
-                            "word_count": 1496,
+                            "word_count": 1478,
                             "reading_minutes": 6,
                             "date": "2032-04-17",
                             "start_time": "09:30",
@@ -5548,14 +5548,14 @@
                     "chap_title": "Three Senate Terms, Refusing the 2044 Nomination, & The Stop #0812 Four-Seat Presidential Endorsement Loop",
                     "chap_url": "/raggiesoft-books/books/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop",
                     "illustration_count": 4,
-                    "word_count": 13061,
+                    "word_count": 13035,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Refusing the 2045 Presidency From Home, Five Statutory Shields Against the Bubble, & All Six Together on Our Alaskan King",
                             "file_path": "e011/c009/p001.md",
                             "url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/part-1-refusing-the-2045-presidency-from-home-five-statutory-shields-against-the-bubble-all-six-together-on-our-alaskan-king",
-                            "word_count": 3037,
+                            "word_count": 3013,
                             "reading_minutes": 13,
                             "date": "2043-10-24",
                             "start_time": "16:30",
@@ -5570,7 +5570,7 @@
                             "part_title": "Part 2: The Biggest Prize in the Primary: Sam, Mandy, & Sarah's Bus-Loop Plan & Stop #0812",
                             "file_path": "e011/c009/p002.md",
                             "url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/part-2-the-biggest-prize-in-the-primary-sam-mandy-sarah-s-bus-loop-plan-stop-0812",
-                            "word_count": 2594,
+                            "word_count": 2593,
                             "reading_minutes": 11,
                             "date": "2044-01-29",
                             "start_time": "13:15",
@@ -5642,7 +5642,7 @@
                             "part_title": "Part 5: The Thursday Morning Loop: Governor Elena Delgado & The Six O'Clock Upload",
                             "file_path": "e011/c009/p005.md",
                             "url": "/katie/the-senator-from-virginia/three-senate-terms-refusing-the-2044-nomination-the-stop-0812-four-seat-presidential-endorsement-loop/part-5-the-thursday-morning-loop-governor-elena-delgado-the-six-o-clock-upload",
-                            "word_count": 3165,
+                            "word_count": 3164,
                             "reading_minutes": 13,
                             "date": "2044-02-18",
                             "start_time": "09:10",
