@@ -10,31 +10,31 @@
     "ebook_sizes": {
         "epub": "72.5 MB",
         "pdf": "71.8 MB",
-        "text_epub": "839 KB",
+        "text_epub": "840 KB",
         "text_pdf": "2.2 MB",
-        "package_7z": "638 KB",
-        "epub_bytes": 76012767,
-        "pdf_bytes": 75307035,
-        "text_epub_bytes": 858897,
-        "text_pdf_bytes": 2328099,
-        "package_7z_bytes": 652852
+        "package_7z": "639 KB",
+        "epub_bytes": 76014202,
+        "pdf_bytes": 75310723,
+        "text_epub_bytes": 860334,
+        "text_pdf_bytes": 2332053,
+        "package_7z_bytes": 653851
     },
     "illustration_count": 159,
     "word_stats": {
-        "story_word_count": 348498,
+        "story_word_count": 348981,
         "lore_word_count": 115994,
-        "combined_word_count": 464492,
-        "story_page_count": 1267,
-        "combined_page_count": 1689,
-        "reading_hours": 23.2,
-        "reading_minutes": 1394,
+        "combined_word_count": 464975,
+        "story_page_count": 1269,
+        "combined_page_count": 1691,
+        "reading_hours": 23.3,
+        "reading_minutes": 1396,
         "novel_equivalent": 3.9,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
         "benchmark_note": "3.9\u00d7 a standard 90,000-word contemporary novel (~4-volume print series)",
         "era_count": 11,
         "chapter_count": 51,
-        "part_count": 141,
+        "part_count": 142,
         "illustration_count": 159,
         "story_arc_count": 4
     },
@@ -5957,13 +5957,13 @@
                     "label": "Accept Heather's Apology & Welcome Her Back",
                     "subtitle": "Forgive Heather under the Pavilion colonnade, stay in Virginia on in-state domicile, tour nine Virginia campuses together for Wesley, marry Heather, and rescue both Brittany and Chelsea.",
                     "entry_part": "paths/accept-heather-virginia/e005/c001/p001.md",
-                    "entry_url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/saying-yes-under-the-crape-myrtles-the-four-person-household/two-squeezes-wesley-s-cheer-where-one-pair-goes-both-pairs-go",
+                    "entry_url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/saying-yes-under-the-crape-myrtles-the-four-person-household/two-squeezes-wesley-s-cheer-virginia-domicile-planning-wesley-s-summer-college-tour",
                     "required_choices": {
                         "pavilion-apology-2003": "accept-heather-virginia"
                     },
-                    "part_count": 7,
-                    "word_count": 10725,
-                    "reading_minutes": 43,
+                    "part_count": 8,
+                    "word_count": 11208,
+                    "reading_minutes": 45,
                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg"
                 },
                 {
@@ -6931,14 +6931,14 @@
             "label": "Accept Heather's Apology & Welcome Her Back",
             "subtitle": "Forgive Heather under the Pavilion colonnade, stay in Virginia on in-state domicile, tour nine Virginia campuses together for Wesley, marry Heather, and rescue both Brittany and Chelsea.",
             "entry_part": "paths/accept-heather-virginia/e005/c001/p001.md",
-            "entry_url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/saying-yes-under-the-crape-myrtles-the-four-person-household/two-squeezes-wesley-s-cheer-where-one-pair-goes-both-pairs-go",
+            "entry_url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/saying-yes-under-the-crape-myrtles-the-four-person-household/two-squeezes-wesley-s-cheer-virginia-domicile-planning-wesley-s-summer-college-tour",
             "next_crossroads_id": null,
             "required_choices": {
                 "pavilion-apology-2003": "accept-heather-virginia"
             },
-            "part_count": 7,
-            "word_count": 10725,
-            "reading_minutes": 43,
+            "part_count": 8,
+            "word_count": 11208,
+            "reading_minutes": 45,
             "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
             "eras": [
                 {
@@ -6946,27 +6946,27 @@
                     "era_title": "Virginia Domicile, Three Campuses, & Twelve Extra Years",
                     "era_url": "/raggiesoft-books/books/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years",
                     "illustration_count": 3,
-                    "word_count": 10725,
+                    "word_count": 11208,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Saying Yes Under the Crape-Myrtles & The Four-Person Household",
                             "chap_url": "/raggiesoft-books/books/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/saying-yes-under-the-crape-myrtles-the-four-person-household",
                             "illustration_count": 1,
-                            "word_count": 2190,
+                            "word_count": 1532,
                             "parts": [
                                 {
                                     "part_num": 1,
-                                    "part_title": "Two Squeezes, Wesley's Cheer, & Where One Pair Goes, Both Pairs Go",
+                                    "part_title": "Two Squeezes, Wesley's Cheer, Virginia Domicile, & Planning Wesley's Summer College Tour",
                                     "file_path": "paths/accept-heather-virginia/e005/c001/p001.md",
-                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/saying-yes-under-the-crape-myrtles-the-four-person-household/two-squeezes-wesley-s-cheer-where-one-pair-goes-both-pairs-go",
-                                    "word_count": 2190,
-                                    "reading_minutes": 9,
+                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/saying-yes-under-the-crape-myrtles-the-four-person-household/two-squeezes-wesley-s-cheer-virginia-domicile-planning-wesley-s-summer-college-tour",
+                                    "word_count": 1532,
+                                    "reading_minutes": 7,
                                     "path_id": "accept-heather-virginia",
                                     "date": "2003-06-14",
                                     "start_time": "11:52",
-                                    "location": "Virginia Beach & Norfolk, VA (Virginia Beach Pavilion, Arvin Road, & Norfolk Apartment)",
-                                    "excerpt": "Under the Pavilion crape-myrtles, Katie and Nate forgive Heather as Wesley cheers, launching a four-person Virginia household on in-state college domicile.",
+                                    "location": "Virginia Beach, VA (Virginia Beach Pavilion & Kitchen Table on Arvin Road)",
+                                    "excerpt": "Under the Pavilion crape-myrtles, Katie and Nate forgive Heather as sixteen-year-old Wesley cheers\u2014launching Virginia college domicile and a ten-campus summer tour between Wesley's sophomore and junior years.",
                                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
                                     "image_alt": "Outside the Virginia Beach Pavilion under the white steel space-frame canopy and blooming pink crape-myrtle trees after Northwood High's June 2003 Commencement, eighteen-year-old Katie and Nathaniel Prairie sit side by side in their two compact black SwiftChair power wheelchairs in royal-purple caps and gowns as Heather Collins kneels warmly hugging Nate with Katie's supportive hand on his shoulder while sixteen-year-old Wesley holds his blue silicone ring and pumps his right fist high in the air cheering.",
                                     "images": [
@@ -6991,29 +6991,29 @@
                         },
                         {
                             "chap_num": 2,
-                            "chap_title": "Nine Campuses for Wesley: Tidewater, Northern Virginia, Winchester, Redmond Hall, & CPI",
-                            "chap_url": "/raggiesoft-books/books/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/nine-campuses-for-wesley-tidewater-northern-virginia-winchester-redmond-hall-cpi",
+                            "chap_title": "Summer 2003 College Tour for Rising-Junior Wesley, Meeting Family in Minnesota, & Stopping Brandon Cold",
+                            "chap_url": "/raggiesoft-books/books/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/summer-2003-college-tour-for-rising-junior-wesley-meeting-family-in-minnesota-stopping-brandon-cold",
                             "illustration_count": 1,
-                            "word_count": 4777,
+                            "word_count": 5918,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Part 1: Stops One Through Four for Wesley: CCHR, VDU, Warwick University Beside 112 NNTC, & Charles & Anne",
                                     "file_path": "paths/accept-heather-virginia/e005/c002/p001.md",
-                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/nine-campuses-for-wesley-tidewater-northern-virginia-winchester-redmond-hall-cpi/part-1-stops-one-through-four-for-wesley-cchr-vdu-warwick-university-beside-112-nntc-charles-anne",
-                                    "word_count": 1341,
+                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/summer-2003-college-tour-for-rising-junior-wesley-meeting-family-in-minnesota-stopping-brandon-cold/part-1-stops-one-through-four-for-wesley-cchr-vdu-warwick-university-beside-112-nntc-charles-anne",
+                                    "word_count": 1339,
                                     "reading_minutes": 6,
                                     "path_id": "accept-heather-virginia",
-                                    "date": "2005-10-15",
+                                    "date": "2003-07-12",
                                     "start_time": "09:00",
                                     "location": "Norfolk, Newport News, & Williamsburg, VA (CCHR, Virginia Dominion University, Warwick University, & College of Charles & Anne)",
-                                    "excerpt": "Starting a nine-campus statewide tour for eighteen-year-old Wesley, Heather drives Katie, Nate, and Wesley across CCHR, VDU, Warwick University beside Route 112 NNTC, and the colonial bricks of Charles & Anne.",
+                                    "excerpt": "Between Wesley's sophomore and junior years of high school, eighteen-year-old Heather drives Katie, Nate, and sixteen-year-old Wesley across CCHR, VDU, Warwick University beside Route 112 NNTC, and Charles & Anne.",
                                     "image": "/raggiesoft-books/images/scenes/katie/b004/oct_2005_warwick_university_shoe_lane_roundabout_112_nntc_wesley_tour.jpg",
-                                    "image_alt": "On a sunny October 2005 afternoon along the wide red-brick campus walkway of Warwick University in Newport News in front of a Neo-Georgian white-columned brick hall as a blue-and-silver CVTA bus exits the landscaped SR-312 and Shoe Lane roundabout on the left with its amber LED sign reading 112 NNTC, twenty-year-old Katie and Nathaniel Prairie sit side by side in their two compact black SwiftChair power wheelchairs holding inner hands while twenty-year-old Heather stands warmly beside Nate's chair and eighteen-year-old Wesley holds a warm pretzel bag and shares a happy fist-bump with Nate.",
+                                    "image_alt": "Along the wide red-brick campus walkway of Warwick University in Newport News in front of a Neo-Georgian white-columned brick hall as a blue-and-silver CVTA bus exits the landscaped SR-312 and Shoe Lane roundabout on the left with its amber LED sign reading 112 NNTC, eighteen-year-old Katie and Nathaniel Prairie sit side by side in their two compact black SwiftChair power wheelchairs holding inner hands while eighteen-year-old Heather stands warmly beside Nate's chair and sixteen-year-old Wesley holds a warm pretzel bag and shares a happy fist-bump with Nate.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/katie/b004/oct_2005_warwick_university_shoe_lane_roundabout_112_nntc_wesley_tour.jpg",
-                                            "alt": "On a sunny October 2005 afternoon along the wide red-brick campus walkway of Warwick University in Newport News in front of a Neo-Georgian white-columned brick hall as a blue-and-silver CVTA bus exits the landscaped SR-312 and Shoe Lane roundabout on the left with its amber LED sign reading 112 NNTC, twenty-year-old Katie and Nathaniel Prairie sit side by side in their two compact black SwiftChair power wheelchairs holding inner hands while twenty-year-old Heather stands warmly beside Nate's chair and eighteen-year-old Wesley holds a warm pretzel bag and shares a happy fist-bump with Nate."
+                                            "alt": "Along the wide red-brick campus walkway of Warwick University in Newport News in front of a Neo-Georgian white-columned brick hall as a blue-and-silver CVTA bus exits the landscaped SR-312 and Shoe Lane roundabout on the left with its amber LED sign reading 112 NNTC, eighteen-year-old Katie and Nathaniel Prairie sit side by side in their two compact black SwiftChair power wheelchairs holding inner hands while eighteen-year-old Heather stands warmly beside Nate's chair and sixteen-year-old Wesley holds a warm pretzel bag and shares a happy fist-bump with Nate."
                                         }
                                     ],
                                     "image_count": 1,
@@ -7028,14 +7028,14 @@
                                     "part_num": 2,
                                     "part_title": "Part 2: Stops Five Through Seven: West Broad Street at CVU, Ring Roads at George Wythe, & Cutting Northern Valley's Open House Short",
                                     "file_path": "paths/accept-heather-virginia/e005/c002/p002.md",
-                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/nine-campuses-for-wesley-tidewater-northern-virginia-winchester-redmond-hall-cpi/part-2-stops-five-through-seven-west-broad-street-at-cvu-ring-roads-at-george-wythe-cutting-northern-valley-s-open-house-short",
-                                    "word_count": 1331,
+                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/summer-2003-college-tour-for-rising-junior-wesley-meeting-family-in-minnesota-stopping-brandon-cold/part-2-stops-five-through-seven-west-broad-street-at-cvu-ring-roads-at-george-wythe-cutting-northern-valley-s-open-house-short",
+                                    "word_count": 1357,
                                     "reading_minutes": 6,
                                     "path_id": "accept-heather-virginia",
-                                    "date": "2005-10-22",
+                                    "date": "2003-07-19",
                                     "start_time": "09:30",
                                     "location": "Richmond, Fairfax, & Winchester, VA (Central Virginia University, George Wythe University, & Northern Valley University)",
-                                    "excerpt": "On Weekend Two of Wesley's college tour, the team visits CVU in Richmond, George Wythe University in Fairfax, and Northern Valley University in Winchester\u2014where a booming Open House overwhelms Wesley and cuts the visit short.",
+                                    "excerpt": "On Weekend Two of rising-junior Wesley's summer tour, the team visits CVU in Richmond, George Wythe University in Fairfax, and Northern Valley University in Winchester\u2014where a booming summer Open House overwhelms Wesley and cuts the visit short.",
                                     "backstage": [
                                         "books/katie/what-if-virginia-domicile-unbroken-trust-and-both-rescues"
                                     ],
@@ -7047,14 +7047,33 @@
                                     "part_num": 3,
                                     "part_title": "Part 3: Stops Eight and Nine: Stopping Short Outside Redmond Hall at RRC & Loving CPI's Valley Despite Steep Battery Hills",
                                     "file_path": "paths/accept-heather-virginia/e005/c002/p003.md",
-                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/nine-campuses-for-wesley-tidewater-northern-virginia-winchester-redmond-hall-cpi/part-3-stops-eight-and-nine-stopping-short-outside-redmond-hall-at-rrc-loving-cpi-s-valley-despite-steep-battery-hills",
-                                    "word_count": 2105,
-                                    "reading_minutes": 9,
+                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/summer-2003-college-tour-for-rising-junior-wesley-meeting-family-in-minnesota-stopping-brandon-cold/part-3-stops-eight-and-nine-stopping-short-outside-redmond-hall-at-rrc-loving-cpi-s-valley-despite-steep-battery-hills",
+                                    "word_count": 1921,
+                                    "reading_minutes": 8,
                                     "path_id": "accept-heather-virginia",
-                                    "date": "2005-10-23",
+                                    "date": "2003-07-20",
                                     "start_time": "10:15",
                                     "location": "Fishersville & Blacksburg, VA (Roosevelt Rehabilitation Center \u2014 Bates-Harding Building & Redmond Hall; Commonwealth Polytechnic Institute)",
-                                    "excerpt": "After checking in at Roosevelt Rehabilitation Center's admin desk where attached Redmond Hall leaves Wesley crying in his Safe Person Heather's arms and ends the tour on the spot, the team visits CPI in Blacksburg\u2014where Nate loves the mountain valley yet worries the hills will drain their wheelchair batteries.",
+                                    "excerpt": "After checking in at Roosevelt Rehabilitation Center's admin desk where attached Redmond Hall leaves sixteen-year-old Wesley crying in his Safe Person Heather's arms and ends the tour on the spot, the team visits CPI in Blacksburg\u2014where Nate loves the mountain valley yet worries the hills will drain their wheelchair batteries.",
+                                    "backstage": [
+                                        "books/katie/what-if-virginia-domicile-unbroken-trust-and-both-rescues"
+                                    ],
+                                    "required_choices": {
+                                        "pavilion-apology-2003": "accept-heather-virginia"
+                                    }
+                                },
+                                {
+                                    "part_num": 4,
+                                    "part_title": "Part 4: Stop Ten in Minnesota: Meeting the Extended Family, Touring NSSU's Skyways, & Stopping Brandon Cold Back Home",
+                                    "file_path": "paths/accept-heather-virginia/e005/c002/p004.md",
+                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/summer-2003-college-tour-for-rising-junior-wesley-meeting-family-in-minnesota-stopping-brandon-cold/part-4-stop-ten-in-minnesota-meeting-the-extended-family-touring-nssu-s-skyways-stopping-brandon-cold-back-home",
+                                    "word_count": 1301,
+                                    "reading_minutes": 6,
+                                    "path_id": "accept-heather-virginia",
+                                    "date": "2003-08-02",
+                                    "start_time": "11:20",
+                                    "location": "Saint Paul & Minneapolis, MN (Grandparents' Farmhouse & North Star State University); Norfolk, VA",
+                                    "excerpt": "Nate and Katie travel to Minnesota to meet Heather and Wesley's extended family and tour North Star State University\u2014before returning home to Norfolk where all four stop Brandon Mercer cold.",
                                     "backstage": [
                                         "books/katie/what-if-virginia-domicile-unbroken-trust-and-both-rescues"
                                     ],
@@ -11296,14 +11315,14 @@
             "label": "Accept Heather's Apology & Welcome Her Back",
             "subtitle": "Forgive Heather under the Pavilion colonnade, stay in Virginia on in-state domicile, tour nine Virginia campuses together for Wesley, marry Heather, and rescue both Brittany and Chelsea.",
             "entry_part": "paths/accept-heather-virginia/e005/c001/p001.md",
-            "entry_url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/saying-yes-under-the-crape-myrtles-the-four-person-household/two-squeezes-wesley-s-cheer-where-one-pair-goes-both-pairs-go",
+            "entry_url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/saying-yes-under-the-crape-myrtles-the-four-person-household/two-squeezes-wesley-s-cheer-virginia-domicile-planning-wesley-s-summer-college-tour",
             "next_crossroads_id": null,
             "required_choices": {
                 "pavilion-apology-2003": "accept-heather-virginia"
             },
-            "part_count": 7,
-            "word_count": 10725,
-            "reading_minutes": 43,
+            "part_count": 8,
+            "word_count": 11208,
+            "reading_minutes": 45,
             "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
             "eras": [
                 {
@@ -11311,27 +11330,27 @@
                     "era_title": "Virginia Domicile, Three Campuses, & Twelve Extra Years",
                     "era_url": "/raggiesoft-books/books/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years",
                     "illustration_count": 3,
-                    "word_count": 10725,
+                    "word_count": 11208,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Saying Yes Under the Crape-Myrtles & The Four-Person Household",
                             "chap_url": "/raggiesoft-books/books/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/saying-yes-under-the-crape-myrtles-the-four-person-household",
                             "illustration_count": 1,
-                            "word_count": 2190,
+                            "word_count": 1532,
                             "parts": [
                                 {
                                     "part_num": 1,
-                                    "part_title": "Two Squeezes, Wesley's Cheer, & Where One Pair Goes, Both Pairs Go",
+                                    "part_title": "Two Squeezes, Wesley's Cheer, Virginia Domicile, & Planning Wesley's Summer College Tour",
                                     "file_path": "paths/accept-heather-virginia/e005/c001/p001.md",
-                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/saying-yes-under-the-crape-myrtles-the-four-person-household/two-squeezes-wesley-s-cheer-where-one-pair-goes-both-pairs-go",
-                                    "word_count": 2190,
-                                    "reading_minutes": 9,
+                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/saying-yes-under-the-crape-myrtles-the-four-person-household/two-squeezes-wesley-s-cheer-virginia-domicile-planning-wesley-s-summer-college-tour",
+                                    "word_count": 1532,
+                                    "reading_minutes": 7,
                                     "path_id": "accept-heather-virginia",
                                     "date": "2003-06-14",
                                     "start_time": "11:52",
-                                    "location": "Virginia Beach & Norfolk, VA (Virginia Beach Pavilion, Arvin Road, & Norfolk Apartment)",
-                                    "excerpt": "Under the Pavilion crape-myrtles, Katie and Nate forgive Heather as Wesley cheers, launching a four-person Virginia household on in-state college domicile.",
+                                    "location": "Virginia Beach, VA (Virginia Beach Pavilion & Kitchen Table on Arvin Road)",
+                                    "excerpt": "Under the Pavilion crape-myrtles, Katie and Nate forgive Heather as sixteen-year-old Wesley cheers\u2014launching Virginia college domicile and a ten-campus summer tour between Wesley's sophomore and junior years.",
                                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
                                     "image_alt": "Outside the Virginia Beach Pavilion under the white steel space-frame canopy and blooming pink crape-myrtle trees after Northwood High's June 2003 Commencement, eighteen-year-old Katie and Nathaniel Prairie sit side by side in their two compact black SwiftChair power wheelchairs in royal-purple caps and gowns as Heather Collins kneels warmly hugging Nate with Katie's supportive hand on his shoulder while sixteen-year-old Wesley holds his blue silicone ring and pumps his right fist high in the air cheering.",
                                     "images": [
@@ -11356,29 +11375,29 @@
                         },
                         {
                             "chap_num": 2,
-                            "chap_title": "Nine Campuses for Wesley: Tidewater, Northern Virginia, Winchester, Redmond Hall, & CPI",
-                            "chap_url": "/raggiesoft-books/books/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/nine-campuses-for-wesley-tidewater-northern-virginia-winchester-redmond-hall-cpi",
+                            "chap_title": "Summer 2003 College Tour for Rising-Junior Wesley, Meeting Family in Minnesota, & Stopping Brandon Cold",
+                            "chap_url": "/raggiesoft-books/books/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/summer-2003-college-tour-for-rising-junior-wesley-meeting-family-in-minnesota-stopping-brandon-cold",
                             "illustration_count": 1,
-                            "word_count": 4777,
+                            "word_count": 5918,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Part 1: Stops One Through Four for Wesley: CCHR, VDU, Warwick University Beside 112 NNTC, & Charles & Anne",
                                     "file_path": "paths/accept-heather-virginia/e005/c002/p001.md",
-                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/nine-campuses-for-wesley-tidewater-northern-virginia-winchester-redmond-hall-cpi/part-1-stops-one-through-four-for-wesley-cchr-vdu-warwick-university-beside-112-nntc-charles-anne",
-                                    "word_count": 1341,
+                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/summer-2003-college-tour-for-rising-junior-wesley-meeting-family-in-minnesota-stopping-brandon-cold/part-1-stops-one-through-four-for-wesley-cchr-vdu-warwick-university-beside-112-nntc-charles-anne",
+                                    "word_count": 1339,
                                     "reading_minutes": 6,
                                     "path_id": "accept-heather-virginia",
-                                    "date": "2005-10-15",
+                                    "date": "2003-07-12",
                                     "start_time": "09:00",
                                     "location": "Norfolk, Newport News, & Williamsburg, VA (CCHR, Virginia Dominion University, Warwick University, & College of Charles & Anne)",
-                                    "excerpt": "Starting a nine-campus statewide tour for eighteen-year-old Wesley, Heather drives Katie, Nate, and Wesley across CCHR, VDU, Warwick University beside Route 112 NNTC, and the colonial bricks of Charles & Anne.",
+                                    "excerpt": "Between Wesley's sophomore and junior years of high school, eighteen-year-old Heather drives Katie, Nate, and sixteen-year-old Wesley across CCHR, VDU, Warwick University beside Route 112 NNTC, and Charles & Anne.",
                                     "image": "/raggiesoft-books/images/scenes/katie/b004/oct_2005_warwick_university_shoe_lane_roundabout_112_nntc_wesley_tour.jpg",
-                                    "image_alt": "On a sunny October 2005 afternoon along the wide red-brick campus walkway of Warwick University in Newport News in front of a Neo-Georgian white-columned brick hall as a blue-and-silver CVTA bus exits the landscaped SR-312 and Shoe Lane roundabout on the left with its amber LED sign reading 112 NNTC, twenty-year-old Katie and Nathaniel Prairie sit side by side in their two compact black SwiftChair power wheelchairs holding inner hands while twenty-year-old Heather stands warmly beside Nate's chair and eighteen-year-old Wesley holds a warm pretzel bag and shares a happy fist-bump with Nate.",
+                                    "image_alt": "Along the wide red-brick campus walkway of Warwick University in Newport News in front of a Neo-Georgian white-columned brick hall as a blue-and-silver CVTA bus exits the landscaped SR-312 and Shoe Lane roundabout on the left with its amber LED sign reading 112 NNTC, eighteen-year-old Katie and Nathaniel Prairie sit side by side in their two compact black SwiftChair power wheelchairs holding inner hands while eighteen-year-old Heather stands warmly beside Nate's chair and sixteen-year-old Wesley holds a warm pretzel bag and shares a happy fist-bump with Nate.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/katie/b004/oct_2005_warwick_university_shoe_lane_roundabout_112_nntc_wesley_tour.jpg",
-                                            "alt": "On a sunny October 2005 afternoon along the wide red-brick campus walkway of Warwick University in Newport News in front of a Neo-Georgian white-columned brick hall as a blue-and-silver CVTA bus exits the landscaped SR-312 and Shoe Lane roundabout on the left with its amber LED sign reading 112 NNTC, twenty-year-old Katie and Nathaniel Prairie sit side by side in their two compact black SwiftChair power wheelchairs holding inner hands while twenty-year-old Heather stands warmly beside Nate's chair and eighteen-year-old Wesley holds a warm pretzel bag and shares a happy fist-bump with Nate."
+                                            "alt": "Along the wide red-brick campus walkway of Warwick University in Newport News in front of a Neo-Georgian white-columned brick hall as a blue-and-silver CVTA bus exits the landscaped SR-312 and Shoe Lane roundabout on the left with its amber LED sign reading 112 NNTC, eighteen-year-old Katie and Nathaniel Prairie sit side by side in their two compact black SwiftChair power wheelchairs holding inner hands while eighteen-year-old Heather stands warmly beside Nate's chair and sixteen-year-old Wesley holds a warm pretzel bag and shares a happy fist-bump with Nate."
                                         }
                                     ],
                                     "image_count": 1,
@@ -11393,14 +11412,14 @@
                                     "part_num": 2,
                                     "part_title": "Part 2: Stops Five Through Seven: West Broad Street at CVU, Ring Roads at George Wythe, & Cutting Northern Valley's Open House Short",
                                     "file_path": "paths/accept-heather-virginia/e005/c002/p002.md",
-                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/nine-campuses-for-wesley-tidewater-northern-virginia-winchester-redmond-hall-cpi/part-2-stops-five-through-seven-west-broad-street-at-cvu-ring-roads-at-george-wythe-cutting-northern-valley-s-open-house-short",
-                                    "word_count": 1331,
+                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/summer-2003-college-tour-for-rising-junior-wesley-meeting-family-in-minnesota-stopping-brandon-cold/part-2-stops-five-through-seven-west-broad-street-at-cvu-ring-roads-at-george-wythe-cutting-northern-valley-s-open-house-short",
+                                    "word_count": 1357,
                                     "reading_minutes": 6,
                                     "path_id": "accept-heather-virginia",
-                                    "date": "2005-10-22",
+                                    "date": "2003-07-19",
                                     "start_time": "09:30",
                                     "location": "Richmond, Fairfax, & Winchester, VA (Central Virginia University, George Wythe University, & Northern Valley University)",
-                                    "excerpt": "On Weekend Two of Wesley's college tour, the team visits CVU in Richmond, George Wythe University in Fairfax, and Northern Valley University in Winchester\u2014where a booming Open House overwhelms Wesley and cuts the visit short.",
+                                    "excerpt": "On Weekend Two of rising-junior Wesley's summer tour, the team visits CVU in Richmond, George Wythe University in Fairfax, and Northern Valley University in Winchester\u2014where a booming summer Open House overwhelms Wesley and cuts the visit short.",
                                     "backstage": [
                                         "books/katie/what-if-virginia-domicile-unbroken-trust-and-both-rescues"
                                     ],
@@ -11412,14 +11431,33 @@
                                     "part_num": 3,
                                     "part_title": "Part 3: Stops Eight and Nine: Stopping Short Outside Redmond Hall at RRC & Loving CPI's Valley Despite Steep Battery Hills",
                                     "file_path": "paths/accept-heather-virginia/e005/c002/p003.md",
-                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/nine-campuses-for-wesley-tidewater-northern-virginia-winchester-redmond-hall-cpi/part-3-stops-eight-and-nine-stopping-short-outside-redmond-hall-at-rrc-loving-cpi-s-valley-despite-steep-battery-hills",
-                                    "word_count": 2105,
-                                    "reading_minutes": 9,
+                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/summer-2003-college-tour-for-rising-junior-wesley-meeting-family-in-minnesota-stopping-brandon-cold/part-3-stops-eight-and-nine-stopping-short-outside-redmond-hall-at-rrc-loving-cpi-s-valley-despite-steep-battery-hills",
+                                    "word_count": 1921,
+                                    "reading_minutes": 8,
                                     "path_id": "accept-heather-virginia",
-                                    "date": "2005-10-23",
+                                    "date": "2003-07-20",
                                     "start_time": "10:15",
                                     "location": "Fishersville & Blacksburg, VA (Roosevelt Rehabilitation Center \u2014 Bates-Harding Building & Redmond Hall; Commonwealth Polytechnic Institute)",
-                                    "excerpt": "After checking in at Roosevelt Rehabilitation Center's admin desk where attached Redmond Hall leaves Wesley crying in his Safe Person Heather's arms and ends the tour on the spot, the team visits CPI in Blacksburg\u2014where Nate loves the mountain valley yet worries the hills will drain their wheelchair batteries.",
+                                    "excerpt": "After checking in at Roosevelt Rehabilitation Center's admin desk where attached Redmond Hall leaves sixteen-year-old Wesley crying in his Safe Person Heather's arms and ends the tour on the spot, the team visits CPI in Blacksburg\u2014where Nate loves the mountain valley yet worries the hills will drain their wheelchair batteries.",
+                                    "backstage": [
+                                        "books/katie/what-if-virginia-domicile-unbroken-trust-and-both-rescues"
+                                    ],
+                                    "required_choices": {
+                                        "pavilion-apology-2003": "accept-heather-virginia"
+                                    }
+                                },
+                                {
+                                    "part_num": 4,
+                                    "part_title": "Part 4: Stop Ten in Minnesota: Meeting the Extended Family, Touring NSSU's Skyways, & Stopping Brandon Cold Back Home",
+                                    "file_path": "paths/accept-heather-virginia/e005/c002/p004.md",
+                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/summer-2003-college-tour-for-rising-junior-wesley-meeting-family-in-minnesota-stopping-brandon-cold/part-4-stop-ten-in-minnesota-meeting-the-extended-family-touring-nssu-s-skyways-stopping-brandon-cold-back-home",
+                                    "word_count": 1301,
+                                    "reading_minutes": 6,
+                                    "path_id": "accept-heather-virginia",
+                                    "date": "2003-08-02",
+                                    "start_time": "11:20",
+                                    "location": "Saint Paul & Minneapolis, MN (Grandparents' Farmhouse & North Star State University); Norfolk, VA",
+                                    "excerpt": "Nate and Katie travel to Minnesota to meet Heather and Wesley's extended family and tour North Star State University\u2014before returning home to Norfolk where all four stop Brandon Mercer cold.",
                                     "backstage": [
                                         "books/katie/what-if-virginia-domicile-unbroken-trust-and-both-rescues"
                                     ],
