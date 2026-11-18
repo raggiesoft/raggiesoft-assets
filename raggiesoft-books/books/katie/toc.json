@@ -13,18 +13,18 @@
         "text_epub": "727 KB",
         "text_pdf": "1.9 MB",
         "package_7z": "549 KB",
-        "epub_bytes": 64398874,
-        "pdf_bytes": 62587729,
-        "text_epub_bytes": 744573,
-        "text_pdf_bytes": 2029966,
-        "package_7z_bytes": 562325
+        "epub_bytes": 64399037,
+        "pdf_bytes": 62588244,
+        "text_epub_bytes": 744733,
+        "text_pdf_bytes": 2030284,
+        "package_7z_bytes": 562433
     },
     "illustration_count": 134,
     "word_stats": {
-        "story_word_count": 301763,
+        "story_word_count": 301833,
         "lore_word_count": 118040,
-        "combined_word_count": 419803,
-        "story_page_count": 1097,
+        "combined_word_count": 419873,
+        "story_page_count": 1098,
         "combined_page_count": 1527,
         "reading_hours": 20.1,
         "reading_minutes": 1207,
@@ -53,7 +53,7 @@
             "part_count": 34,
             "backstage_count": 3,
             "stop_count": 37,
-            "word_count": 72162,
+            "word_count": 72232,
             "reading_minutes": 289,
             "reading_hours": 4.8,
             "stops": [
@@ -453,7 +453,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
                     "url": "/katie/unofficial-homeowners-on-arvin-road-turning-twenty-two-in-washington-not-the-right-skill-match/associate-degrees-in-hand-not-the-right-skill-match-giving-dars-and-rrc-a-chance/part-2-the-glossy-fishersville-pitch-heather-s-two-week-extended-stay-hotel-on-the-route-250-connector",
                     "arc_url": "/katie/unofficial-homeowners-on-arvin-road-turning-twenty-two-in-washington-not-the-right-skill-match/associate-degrees-in-hand-not-the-right-skill-match-giving-dars-and-rrc-a-chance/part-2-the-glossy-fishersville-pitch-heather-s-two-week-extended-stay-hotel-on-the-route-250-connector?arc=heather-wesley-and-virginia",
-                    "word_count": 776,
+                    "word_count": 800,
                     "reading_minutes": 4
                 },
                 {
@@ -491,7 +491,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_cantor_hall_room_mixup_keycards_tina_herb_jim_nate.jpg",
                     "url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/ditching-campus-for-the-hotel-room-without-passes-natalie-s-tears-spending-week-two-exploring-the-shenandoah-valley/part-1-the-dormitory-room-mix-up-staying-at-heather-and-wesley-s-hotel-without-passes-natalie-s-tears-outside-the-cafeteria",
                     "arc_url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/ditching-campus-for-the-hotel-room-without-passes-natalie-s-tears-spending-week-two-exploring-the-shenandoah-valley/part-1-the-dormitory-room-mix-up-staying-at-heather-and-wesley-s-hotel-without-passes-natalie-s-tears-outside-the-cafeteria?arc=heather-wesley-and-virginia",
-                    "word_count": 1146,
+                    "word_count": 1192,
                     "reading_minutes": 5
                 },
                 {
@@ -2013,7 +2013,7 @@
             "part_count": 11,
             "backstage_count": 8,
             "stop_count": 19,
-            "word_count": 49375,
+            "word_count": 49445,
             "reading_minutes": 198,
             "reading_hours": 3.3,
             "stops": [
@@ -2052,7 +2052,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b005/jan_2027_alx_arts_mobile_lift_senator_elect_katie_prairie.jpg",
                     "url": "/katie/unofficial-homeowners-on-arvin-road-turning-twenty-two-in-washington-not-the-right-skill-match/associate-degrees-in-hand-not-the-right-skill-match-giving-dars-and-rrc-a-chance/part-2-the-glossy-fishersville-pitch-heather-s-two-week-extended-stay-hotel-on-the-route-250-connector",
                     "arc_url": "/katie/unofficial-homeowners-on-arvin-road-turning-twenty-two-in-washington-not-the-right-skill-match/associate-degrees-in-hand-not-the-right-skill-match-giving-dars-and-rrc-a-chance/part-2-the-glossy-fishersville-pitch-heather-s-two-week-extended-stay-hotel-on-the-route-250-connector?arc=fishersville-twelve-days-and-twenty-years",
-                    "word_count": 776,
+                    "word_count": 800,
                     "reading_minutes": 4
                 },
                 {
@@ -2223,7 +2223,7 @@
                     "image": "/raggiesoft-books/images/scenes/katie/b006/jul_2007_rrc_cantor_hall_room_mixup_keycards_tina_herb_jim_nate.jpg",
                     "url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/ditching-campus-for-the-hotel-room-without-passes-natalie-s-tears-spending-week-two-exploring-the-shenandoah-valley/part-1-the-dormitory-room-mix-up-staying-at-heather-and-wesley-s-hotel-without-passes-natalie-s-tears-outside-the-cafeteria",
                     "arc_url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/ditching-campus-for-the-hotel-room-without-passes-natalie-s-tears-spending-week-two-exploring-the-shenandoah-valley/part-1-the-dormitory-room-mix-up-staying-at-heather-and-wesley-s-hotel-without-passes-natalie-s-tears-outside-the-cafeteria?arc=fishersville-twelve-days-and-twenty-years",
-                    "word_count": 1146,
+                    "word_count": 1192,
                     "reading_minutes": 5
                 },
                 {
@@ -3654,7 +3654,7 @@
             "era_title": "Unofficial Homeowners on Arvin Road, Turning Twenty-Two in Washington, & 'Not the Right Skill Match'",
             "era_url": "/raggiesoft-books/books/katie/unofficial-homeowners-on-arvin-road-turning-twenty-two-in-washington-not-the-right-skill-match",
             "illustration_count": 10,
-            "word_count": 14682,
+            "word_count": 14706,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -3892,7 +3892,7 @@
                     "chap_title": "Associate Degrees in Hand, 'Not the Right Skill Match,' & Giving DARS and RRC a Chance",
                     "chap_url": "/raggiesoft-books/books/katie/unofficial-homeowners-on-arvin-road-turning-twenty-two-in-washington-not-the-right-skill-match/associate-degrees-in-hand-not-the-right-skill-match-giving-dars-and-rrc-a-chance",
                     "illustration_count": 1,
-                    "word_count": 1268,
+                    "word_count": 1292,
                     "parts": [
                         {
                             "part_num": 1,
@@ -3920,7 +3920,7 @@
                             "part_title": "Part 2: The Glossy Fishersville Pitch & Heather's Two-Week Extended-Stay Hotel on the Route 250 Connector",
                             "file_path": "e006/c004/p002.md",
                             "url": "/katie/unofficial-homeowners-on-arvin-road-turning-twenty-two-in-washington-not-the-right-skill-match/associate-degrees-in-hand-not-the-right-skill-match-giving-dars-and-rrc-a-chance/part-2-the-glossy-fishersville-pitch-heather-s-two-week-extended-stay-hotel-on-the-route-250-connector",
-                            "word_count": 776,
+                            "word_count": 800,
                             "reading_minutes": 4,
                             "date": "2007-06-22",
                             "start_time": "13:30",
@@ -3936,7 +3936,7 @@
             "era_title": "Fourteen Days at Roosevelt Rehabilitation Center, Two Weeks in the Shenandoah Valley, & A Secular Wedding in 2008",
             "era_url": "/raggiesoft-books/books/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008",
             "illustration_count": 9,
-            "word_count": 19327,
+            "word_count": 19373,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -4059,14 +4059,14 @@
                     "chap_title": "Ditching Campus for the Hotel Room Without Passes, Natalie's Tears, & Spending Week Two Exploring the Shenandoah Valley",
                     "chap_url": "/raggiesoft-books/books/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/ditching-campus-for-the-hotel-room-without-passes-natalie-s-tears-spending-week-two-exploring-the-shenandoah-valley",
                     "illustration_count": 2,
-                    "word_count": 1847,
+                    "word_count": 1893,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Dormitory Room Mix-Up, Staying at Heather and Wesley's Hotel Without Passes, & Natalie's Tears Outside the Cafeteria",
                             "file_path": "e007/c003/p001.md",
                             "url": "/katie/fourteen-days-at-roosevelt-rehabilitation-center-two-weeks-in-the-shenandoah-valley-a-secular-wedding-in-2008/ditching-campus-for-the-hotel-room-without-passes-natalie-s-tears-spending-week-two-exploring-the-shenandoah-valley/part-1-the-dormitory-room-mix-up-staying-at-heather-and-wesley-s-hotel-without-passes-natalie-s-tears-outside-the-cafeteria",
-                            "word_count": 1146,
+                            "word_count": 1192,
                             "reading_minutes": 5,
                             "date": "2007-07-18",
                             "start_time": "21:15",
