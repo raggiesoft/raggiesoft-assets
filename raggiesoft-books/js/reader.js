@@ -478,6 +478,11 @@ function initOceanViewReader() {
         
         playToggleBtn.addEventListener('click', () => {
             if (audioEl.paused) {
+                audioEl.preload = 'auto';
+                // Recover cleanly inside the synchronous user gesture if Safari/WebKit had a prior media error
+                if (audioEl.error) {
+                    audioEl.load();
+                }
                 audioEl.play().catch(e => console.warn(e));
             } else {
                 audioEl.pause();
@@ -532,13 +537,21 @@ function initOceanViewReader() {
             }
         });
         
-        audioEl.addEventListener('loadedmetadata', () => {
-            if(scrubber) scrubber.max = audioEl.duration;
-            if(durationDisplay) durationDisplay.textContent = formatTime(audioEl.duration);
-            if (activeQueueIndex === 0 && startTime > 0 && audioEl.currentTime < startTime) {
-                audioEl.currentTime = startTime; // Jump to specific start time if provided on first track
+        function syncAudioDuration() {
+            if (isFinite(audioEl.duration) && audioEl.duration > 0) {
+                if (scrubber) scrubber.max = audioEl.duration;
+                if (durationDisplay) durationDisplay.textContent = formatTime(audioEl.duration);
+                if (activeQueueIndex === 0 && startTime > 0 && audioEl.currentTime < startTime) {
+                    audioEl.currentTime = startTime; // Jump to specific start time if provided on first track
+                }
             }
-        });
+        }
+
+        audioEl.addEventListener('loadedmetadata', syncAudioDuration);
+        audioEl.addEventListener('durationchange', syncAudioDuration);
+        if (audioEl.readyState >= 1) {
+            syncAudioDuration();
+        }
         
         // Sync scrubber UI with audio playback
         audioEl.addEventListener('timeupdate', () => {
