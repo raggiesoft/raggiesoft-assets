@@ -20,7 +20,7 @@ A centralized reference guide for all job applications submitted, including full
 * **Target Compensation:** $187,000 – $226,600 USD (Base) + Equity & Benefits
 * **Resume Used:** `mragsdale-resume-calendly.pdf`
 * **Cover Letter Used:** `calendly-full-stack.pdf`
-* **Status:** Submitted (Greenhouse / Custom portal)
+* **Status:** No response / No interview callback (as of November 18, 2026)
 
 ### Elevator Pitch & Talking Points:
 * **The Headless CMS Angle:** The posting listed headless CMS experience (like Payload) as a "Nice to Have." Talk about how you didn't just use one—you architected and open-sourced **Stardust Engine CMS**, a zero-database, JSON-driven headless backend powering 9 production domains via Cloudflare edge routing.
@@ -48,7 +48,7 @@ A centralized reference guide for all job applications submitted, including full
 * **Target Compensation:** $155,000 – $187,500 USD + Equity + Unlimited PTO
 * **Resume Used:** `mragsdale-resume-seeq.pdf`
 * **Cover Letter Used:** `seeq-frontend-system.pdf`
-* **Status:** Submitted
+* **Status:** No response / No interview callback (as of November 18, 2026)
 
 ### Elevator Pitch & Talking Points:
 * **Workflows Over Pixels:** Connect with their core philosophy that "interface work starts with understanding how people actually work." Reference your Front Desk experience at Virginia Beach Parks & Rec transforming dense ActiveNet reservation records into an accessible, at-a-glance Microsoft Word weekend reference for coworkers, alongside your Stardust Engine CMS component architecture.
@@ -77,7 +77,7 @@ A centralized reference guide for all job applications submitted, including full
 * **Platform:** Taleo
 * **Resume Used:** `mragsdale-resume-nuaxis.pdf`
 * **Cover Letter Used:** `nuaxis-qa-tester.pdf`
-* **Status:** Submitted
+* **Status:** No response / No interview callback (as of November 18, 2026)
 
 ### Elevator Pitch & Talking Points:
 * **Manual Testing vs. Automated Scanners:** You know firsthand from ODU that automated tools like Deque axe and WAVE only catch ~30% of WCAG violations. Emphasize your experience with screen readers (NVDA, JAWS), manual keyboard trap verification, and semantic HTML audits.
@@ -102,7 +102,7 @@ A centralized reference guide for all job applications submitted, including full
 * **Location:** Remote (U.S.)
 * **Contract/Client:** Department of Veterans Affairs (VA)
 * **Resume Used:** `Michael-Ragsdale-Blackberg-Group.pdf`
-* **Status:** Submitted (Direct via company careers portal)
+* **Status:** No response / No interview callback (as of November 18, 2026)
 
 ### Elevator Pitch & Talking Points:
 * **Public Service & Government Experience:** Highlight your proven track record with the City of Virginia Beach and Old Dominion University building Section 508-compliant, accessible web experiences.
@@ -120,4 +120,13 @@ A centralized reference guide for all job applications submitted, including full
   * Proven frontend development experience with responsive, mobile-first design.
   * Strong collaboration and communication skills.
   * Strict adherence to accessibility and government web standards.
+
+---
+
+## 5. Christopher Newport University (CNU)
+* **Organization:** Christopher Newport University (Commonwealth of Virginia Higher Education)
+* **Location:** Newport News, VA
+* **Pathway:** Commonwealth of Virginia **Alternative Hiring Process (AHP)**
+* **Status:** Interviewed (mandatory AHP interview granted) — No post-interview follow-up or decision notice received (as of November 18, 2026)
+
 
