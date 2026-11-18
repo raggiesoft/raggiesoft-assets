@@ -10,9 +10,10 @@ characters:
   - Jermaine: Jack and Sarah's father
   - Devin: Jermaine's brother, father to identical twins Molly and Clare
 timeline_notes: >
-  When Delores comes into the picture: she is the SAME Delores from /luna-leo. 
-  The events of Jack & Sarah (at least the scenes involving Delores) take place 
-  AFTER Delores gets back to Virginia, after abusing Leo.
+  When Delores comes into the picture in January 2007, she is the SAME Delores from /luna-leo.
+  At the end of Era 2, Chapter 7, a Story Crossroads lets readers choose which upstream Luna & Leo
+  path they are arriving from: after Luna threw Delores out during the October 2003 Sibling Weekend,
+  or after the four-day Pathfinder trip to Washington state and September 2004 court judgment.
 ---
 
 # Jack & Sarah
