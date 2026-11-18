@@ -109,6 +109,7 @@
             "image": "/raggiesoft-books/images/scenes/katie/b005/jul_2016_kings_college_royal_gate_court_order_chelsea_rescue_family.jpg",
             "stops": [
                 { "part": "e004/c002/p001.md" },
+                { "backstage": "books/katie/what-if-brittany-respected-no-company-new-years-2002" },
                 { "part": "e004/c003/p002.md" },
                 { "part": "e005/c002/p002.md" },
                 { "backstage": "books/katie/christmas-2004-tonomy-hill-and-williamsburg-what-if" },
