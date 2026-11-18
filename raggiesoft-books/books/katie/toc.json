@@ -10,31 +10,31 @@
     "ebook_sizes": {
         "epub": "72.5 MB",
         "pdf": "71.8 MB",
-        "text_epub": "820 KB",
+        "text_epub": "826 KB",
         "text_pdf": "2.2 MB",
-        "package_7z": "625 KB",
-        "epub_bytes": 75993295,
-        "pdf_bytes": 75253610,
-        "text_epub_bytes": 839802,
-        "text_pdf_bytes": 2277150,
-        "package_7z_bytes": 640174
+        "package_7z": "629 KB",
+        "epub_bytes": 75998845,
+        "pdf_bytes": 75269627,
+        "text_epub_bytes": 845330,
+        "text_pdf_bytes": 2292739,
+        "package_7z_bytes": 644512
     },
     "illustration_count": 158,
     "word_stats": {
-        "story_word_count": 341381,
-        "lore_word_count": 115006,
-        "combined_word_count": 456387,
-        "story_page_count": 1241,
-        "combined_page_count": 1660,
-        "reading_hours": 22.8,
-        "reading_minutes": 1366,
+        "story_word_count": 343683,
+        "lore_word_count": 115205,
+        "combined_word_count": 458888,
+        "story_page_count": 1250,
+        "combined_page_count": 1669,
+        "reading_hours": 22.9,
+        "reading_minutes": 1375,
         "novel_equivalent": 3.8,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
         "benchmark_note": "3.8\u00d7 a standard 90,000-word contemporary novel (~4-volume print series)",
         "era_count": 11,
         "chapter_count": 51,
-        "part_count": 137,
+        "part_count": 138,
         "illustration_count": 158,
         "story_arc_count": 4
     },
@@ -53,8 +53,8 @@
             "part_count": 32,
             "backstage_count": 8,
             "stop_count": 40,
-            "word_count": 80920,
-            "reading_minutes": 324,
+            "word_count": 81119,
+            "reading_minutes": 325,
             "reading_hours": 5.4,
             "stops": [
                 {
@@ -263,8 +263,8 @@
                     "image": "/raggiesoft-backstage/images/scenes/what-if-warwick-university-route-112-nntc-wesley-tour.jpg",
                     "url": "https://backstage.raggiesoft.com/books/katie/what-if-virginia-domicile-unbroken-trust-and-both-rescues/",
                     "arc_url": "/katie/seventeen-senior-year-greenway-court/drunken-new-year/part-3-the-back-corner-of-room-204-a-song-in-my-head-stairway-a?arc=heather-wesley-and-north-lion",
-                    "word_count": 1616,
-                    "reading_minutes": 7
+                    "word_count": 1815,
+                    "reading_minutes": 8
                 },
                 {
                     "stop_num": 12,
@@ -5930,9 +5930,9 @@
                     "required_choices": {
                         "pavilion-apology-2003": "accept-heather-virginia"
                     },
-                    "part_count": 4,
-                    "word_count": 5175,
-                    "reading_minutes": 21,
+                    "part_count": 5,
+                    "word_count": 7477,
+                    "reading_minutes": 30,
                     "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg"
                 },
                 {
@@ -6905,9 +6905,9 @@
             "required_choices": {
                 "pavilion-apology-2003": "accept-heather-virginia"
             },
-            "part_count": 4,
-            "word_count": 5175,
-            "reading_minutes": 21,
+            "part_count": 5,
+            "word_count": 7477,
+            "reading_minutes": 30,
             "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
             "eras": [
                 {
@@ -6915,21 +6915,21 @@
                     "era_title": "Virginia Domicile, Three Campuses, & Twelve Extra Years",
                     "era_url": "/raggiesoft-books/books/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years",
                     "illustration_count": 2,
-                    "word_count": 5175,
+                    "word_count": 7477,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Saying Yes Under the Crape-Myrtles & The Four-Person Household",
                             "chap_url": "/raggiesoft-books/books/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/saying-yes-under-the-crape-myrtles-the-four-person-household",
                             "illustration_count": 1,
-                            "word_count": 2193,
+                            "word_count": 2190,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Two Squeezes, Wesley's Cheer, & Where One Pair Goes, Both Pairs Go",
                                     "file_path": "paths/accept-heather-virginia/e005/c001/p001.md",
                                     "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/saying-yes-under-the-crape-myrtles-the-four-person-household/two-squeezes-wesley-s-cheer-where-one-pair-goes-both-pairs-go",
-                                    "word_count": 2193,
+                                    "word_count": 2190,
                                     "reading_minutes": 9,
                                     "path_id": "accept-heather-virginia",
                                     "date": "2003-06-14",
@@ -6960,23 +6960,23 @@
                         },
                         {
                             "chap_num": 2,
-                            "chap_title": "Touring CCHR, VDU, and Warwick University as a Team",
-                            "chap_url": "/raggiesoft-books/books/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/touring-cchr-vdu-and-warwick-university-as-a-team",
+                            "chap_title": "Touring CCHR, VDU, Warwick University, & Saying No at Redmond Hall",
+                            "chap_url": "/raggiesoft-books/books/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/touring-cchr-vdu-warwick-university-saying-no-at-redmond-hall",
                             "illustration_count": 1,
-                            "word_count": 1181,
+                            "word_count": 3497,
                             "parts": [
                                 {
                                     "part_num": 1,
-                                    "part_title": "Three Campuses on One Legal Pad & Route 112 NNTC at the Shoe Lane Roundabout",
+                                    "part_title": "Part 1: Touring CCHR, VDU, and Warwick University for Wesley & Route 112 NNTC at Shoe Lane",
                                     "file_path": "paths/accept-heather-virginia/e005/c002/p001.md",
-                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/touring-cchr-vdu-and-warwick-university-as-a-team/three-campuses-on-one-legal-pad-route-112-nntc-at-the-shoe-lane-roundabout",
-                                    "word_count": 1181,
-                                    "reading_minutes": 5,
+                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/touring-cchr-vdu-warwick-university-saying-no-at-redmond-hall/part-1-touring-cchr-vdu-and-warwick-university-for-wesley-route-112-nntc-at-shoe-lane",
+                                    "word_count": 1786,
+                                    "reading_minutes": 8,
                                     "path_id": "accept-heather-virginia",
                                     "date": "2005-10-15",
-                                    "start_time": "09:40",
-                                    "location": "Norfolk & Newport News, VA (CCHR, Virginia Dominion University, & Warwick University at SR-312 & Shoe Lane)",
-                                    "excerpt": "Touring CCHR, VDU, and Warwick University together as a four-person team, Heather drives Nate, Katie, and Wesley across the tunnel to Newport News beside Route 112 NNTC.",
+                                    "start_time": "09:15",
+                                    "location": "Norfolk & Newport News, VA (CCHR Norfolk Campus, Virginia Dominion University, & Warwick University at SR-312 & Shoe Lane)",
+                                    "excerpt": "So eighteen-year-old Wesley can see each campus firsthand, Heather drives Katie, Nate, and Wesley across Norfolk and Newport News to tour CCHR, VDU, and Warwick University beside Route 112 NNTC.",
                                     "image": "/raggiesoft-books/images/scenes/katie/b004/oct_2005_warwick_university_shoe_lane_roundabout_112_nntc_wesley_tour.jpg",
                                     "image_alt": "On a sunny October 2005 afternoon along the wide red-brick campus walkway of Warwick University in Newport News in front of a Neo-Georgian white-columned brick hall as a blue-and-silver CVTA bus exits the landscaped SR-312 and Shoe Lane roundabout on the left with its amber LED sign reading 112 NNTC, twenty-year-old Katie and Nathaniel Prairie sit side by side in their two compact black SwiftChair power wheelchairs holding inner hands while twenty-year-old Heather stands warmly beside Nate's chair and eighteen-year-old Wesley holds a warm pretzel bag and shares a happy fist-bump with Nate.",
                                     "images": [
@@ -6986,6 +6986,25 @@
                                         }
                                     ],
                                     "image_count": 1,
+                                    "backstage": [
+                                        "books/katie/what-if-virginia-domicile-unbroken-trust-and-both-rescues"
+                                    ],
+                                    "required_choices": {
+                                        "pavilion-apology-2003": "accept-heather-virginia"
+                                    }
+                                },
+                                {
+                                    "part_num": 2,
+                                    "part_title": "Part 2: Redmond Hall, Gender-Separated Dorms, & Why Heather Is Wesley's Safe Person",
+                                    "file_path": "paths/accept-heather-virginia/e005/c002/p002.md",
+                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/touring-cchr-vdu-warwick-university-saying-no-at-redmond-hall/part-2-redmond-hall-gender-separated-dorms-why-heather-is-wesley-s-safe-person",
+                                    "word_count": 1711,
+                                    "reading_minutes": 7,
+                                    "path_id": "accept-heather-virginia",
+                                    "date": "2005-10-22",
+                                    "start_time": "13:15",
+                                    "location": "Fishersville & Norfolk, VA (Roosevelt Rehabilitation Center \u2014 Bates-Harding Building, Barton Hall, & Redmond Hall)",
+                                    "excerpt": "On a Saturday tour of Roosevelt Rehabilitation Center in Fishersville, learning that dorms are gender-separated and Wesley would be placed in Redmond Hall leaves Wesley crying in his Safe Person Heather's arms\u2014and Heather politely tells the tour guide the answer is no.",
                                     "backstage": [
                                         "books/katie/what-if-virginia-domicile-unbroken-trust-and-both-rescues"
                                     ],
@@ -7004,14 +7023,14 @@
                             "chap_title": "House Bill 663, Rescuing Both Cousins, & Twelve Extra Years Together",
                             "chap_url": "/raggiesoft-books/books/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/house-bill-663-rescuing-both-cousins-twelve-extra-years-together",
                             "illustration_count": 0,
-                            "word_count": 1801,
+                            "word_count": 1790,
                             "parts": [
                                 {
                                     "part_num": 1,
-                                    "part_title": "Part 1: Three Alumni at the Sanctuary Doors & Romaine Squares Waiting in Kempsville",
+                                    "part_title": "Part 1: Three Alumni at the Sanctuary Doors & Shelly Turtle Comes Home to Kempsville",
                                     "file_path": "paths/accept-heather-virginia/e005/c003/p001.md",
-                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/house-bill-663-rescuing-both-cousins-twelve-extra-years-together/part-1-three-alumni-at-the-sanctuary-doors-romaine-squares-waiting-in-kempsville",
-                                    "word_count": 1092,
+                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/house-bill-663-rescuing-both-cousins-twelve-extra-years-together/part-1-three-alumni-at-the-sanctuary-doors-shelly-turtle-comes-home-to-kempsville",
+                                    "word_count": 1083,
                                     "reading_minutes": 5,
                                     "path_id": "accept-heather-virginia",
                                     "date": "2016-02-06",
@@ -7030,7 +7049,7 @@
                                     "part_title": "Part 2: Six Chairs in the Rose Garden & Twelve Extra Years Under One Sky",
                                     "file_path": "paths/accept-heather-virginia/e005/c003/p002.md",
                                     "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/house-bill-663-rescuing-both-cousins-twelve-extra-years-together/part-2-six-chairs-in-the-rose-garden-twelve-extra-years-under-one-sky",
-                                    "word_count": 709,
+                                    "word_count": 707,
                                     "reading_minutes": 3,
                                     "path_id": "accept-heather-virginia",
                                     "date": "2028-06-15",
@@ -11188,9 +11207,9 @@
             "required_choices": {
                 "pavilion-apology-2003": "accept-heather-virginia"
             },
-            "part_count": 4,
-            "word_count": 5175,
-            "reading_minutes": 21,
+            "part_count": 5,
+            "word_count": 7477,
+            "reading_minutes": 30,
             "image": "/raggiesoft-books/images/scenes/katie/b004/jun_2003_pavilion_accepted_apology_wesley_cheering_hug.jpg",
             "eras": [
                 {
@@ -11198,21 +11217,21 @@
                     "era_title": "Virginia Domicile, Three Campuses, & Twelve Extra Years",
                     "era_url": "/raggiesoft-books/books/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years",
                     "illustration_count": 2,
-                    "word_count": 5175,
+                    "word_count": 7477,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Saying Yes Under the Crape-Myrtles & The Four-Person Household",
                             "chap_url": "/raggiesoft-books/books/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/saying-yes-under-the-crape-myrtles-the-four-person-household",
                             "illustration_count": 1,
-                            "word_count": 2193,
+                            "word_count": 2190,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Two Squeezes, Wesley's Cheer, & Where One Pair Goes, Both Pairs Go",
                                     "file_path": "paths/accept-heather-virginia/e005/c001/p001.md",
                                     "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/saying-yes-under-the-crape-myrtles-the-four-person-household/two-squeezes-wesley-s-cheer-where-one-pair-goes-both-pairs-go",
-                                    "word_count": 2193,
+                                    "word_count": 2190,
                                     "reading_minutes": 9,
                                     "path_id": "accept-heather-virginia",
                                     "date": "2003-06-14",
@@ -11243,23 +11262,23 @@
                         },
                         {
                             "chap_num": 2,
-                            "chap_title": "Touring CCHR, VDU, and Warwick University as a Team",
-                            "chap_url": "/raggiesoft-books/books/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/touring-cchr-vdu-and-warwick-university-as-a-team",
+                            "chap_title": "Touring CCHR, VDU, Warwick University, & Saying No at Redmond Hall",
+                            "chap_url": "/raggiesoft-books/books/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/touring-cchr-vdu-warwick-university-saying-no-at-redmond-hall",
                             "illustration_count": 1,
-                            "word_count": 1181,
+                            "word_count": 3497,
                             "parts": [
                                 {
                                     "part_num": 1,
-                                    "part_title": "Three Campuses on One Legal Pad & Route 112 NNTC at the Shoe Lane Roundabout",
+                                    "part_title": "Part 1: Touring CCHR, VDU, and Warwick University for Wesley & Route 112 NNTC at Shoe Lane",
                                     "file_path": "paths/accept-heather-virginia/e005/c002/p001.md",
-                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/touring-cchr-vdu-and-warwick-university-as-a-team/three-campuses-on-one-legal-pad-route-112-nntc-at-the-shoe-lane-roundabout",
-                                    "word_count": 1181,
-                                    "reading_minutes": 5,
+                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/touring-cchr-vdu-warwick-university-saying-no-at-redmond-hall/part-1-touring-cchr-vdu-and-warwick-university-for-wesley-route-112-nntc-at-shoe-lane",
+                                    "word_count": 1786,
+                                    "reading_minutes": 8,
                                     "path_id": "accept-heather-virginia",
                                     "date": "2005-10-15",
-                                    "start_time": "09:40",
-                                    "location": "Norfolk & Newport News, VA (CCHR, Virginia Dominion University, & Warwick University at SR-312 & Shoe Lane)",
-                                    "excerpt": "Touring CCHR, VDU, and Warwick University together as a four-person team, Heather drives Nate, Katie, and Wesley across the tunnel to Newport News beside Route 112 NNTC.",
+                                    "start_time": "09:15",
+                                    "location": "Norfolk & Newport News, VA (CCHR Norfolk Campus, Virginia Dominion University, & Warwick University at SR-312 & Shoe Lane)",
+                                    "excerpt": "So eighteen-year-old Wesley can see each campus firsthand, Heather drives Katie, Nate, and Wesley across Norfolk and Newport News to tour CCHR, VDU, and Warwick University beside Route 112 NNTC.",
                                     "image": "/raggiesoft-books/images/scenes/katie/b004/oct_2005_warwick_university_shoe_lane_roundabout_112_nntc_wesley_tour.jpg",
                                     "image_alt": "On a sunny October 2005 afternoon along the wide red-brick campus walkway of Warwick University in Newport News in front of a Neo-Georgian white-columned brick hall as a blue-and-silver CVTA bus exits the landscaped SR-312 and Shoe Lane roundabout on the left with its amber LED sign reading 112 NNTC, twenty-year-old Katie and Nathaniel Prairie sit side by side in their two compact black SwiftChair power wheelchairs holding inner hands while twenty-year-old Heather stands warmly beside Nate's chair and eighteen-year-old Wesley holds a warm pretzel bag and shares a happy fist-bump with Nate.",
                                     "images": [
@@ -11269,6 +11288,25 @@
                                         }
                                     ],
                                     "image_count": 1,
+                                    "backstage": [
+                                        "books/katie/what-if-virginia-domicile-unbroken-trust-and-both-rescues"
+                                    ],
+                                    "required_choices": {
+                                        "pavilion-apology-2003": "accept-heather-virginia"
+                                    }
+                                },
+                                {
+                                    "part_num": 2,
+                                    "part_title": "Part 2: Redmond Hall, Gender-Separated Dorms, & Why Heather Is Wesley's Safe Person",
+                                    "file_path": "paths/accept-heather-virginia/e005/c002/p002.md",
+                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/touring-cchr-vdu-warwick-university-saying-no-at-redmond-hall/part-2-redmond-hall-gender-separated-dorms-why-heather-is-wesley-s-safe-person",
+                                    "word_count": 1711,
+                                    "reading_minutes": 7,
+                                    "path_id": "accept-heather-virginia",
+                                    "date": "2005-10-22",
+                                    "start_time": "13:15",
+                                    "location": "Fishersville & Norfolk, VA (Roosevelt Rehabilitation Center \u2014 Bates-Harding Building, Barton Hall, & Redmond Hall)",
+                                    "excerpt": "On a Saturday tour of Roosevelt Rehabilitation Center in Fishersville, learning that dorms are gender-separated and Wesley would be placed in Redmond Hall leaves Wesley crying in his Safe Person Heather's arms\u2014and Heather politely tells the tour guide the answer is no.",
                                     "backstage": [
                                         "books/katie/what-if-virginia-domicile-unbroken-trust-and-both-rescues"
                                     ],
@@ -11287,14 +11325,14 @@
                             "chap_title": "House Bill 663, Rescuing Both Cousins, & Twelve Extra Years Together",
                             "chap_url": "/raggiesoft-books/books/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/house-bill-663-rescuing-both-cousins-twelve-extra-years-together",
                             "illustration_count": 0,
-                            "word_count": 1801,
+                            "word_count": 1790,
                             "parts": [
                                 {
                                     "part_num": 1,
-                                    "part_title": "Part 1: Three Alumni at the Sanctuary Doors & Romaine Squares Waiting in Kempsville",
+                                    "part_title": "Part 1: Three Alumni at the Sanctuary Doors & Shelly Turtle Comes Home to Kempsville",
                                     "file_path": "paths/accept-heather-virginia/e005/c003/p001.md",
-                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/house-bill-663-rescuing-both-cousins-twelve-extra-years-together/part-1-three-alumni-at-the-sanctuary-doors-romaine-squares-waiting-in-kempsville",
-                                    "word_count": 1092,
+                                    "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/house-bill-663-rescuing-both-cousins-twelve-extra-years-together/part-1-three-alumni-at-the-sanctuary-doors-shelly-turtle-comes-home-to-kempsville",
+                                    "word_count": 1083,
                                     "reading_minutes": 5,
                                     "path_id": "accept-heather-virginia",
                                     "date": "2016-02-06",
@@ -11313,7 +11351,7 @@
                                     "part_title": "Part 2: Six Chairs in the Rose Garden & Twelve Extra Years Under One Sky",
                                     "file_path": "paths/accept-heather-virginia/e005/c003/p002.md",
                                     "url": "/katie/paths/accept-heather-virginia/virginia-domicile-three-campuses-twelve-extra-years/house-bill-663-rescuing-both-cousins-twelve-extra-years-together/part-2-six-chairs-in-the-rose-garden-twelve-extra-years-under-one-sky",
-                                    "word_count": 709,
+                                    "word_count": 707,
                                     "reading_minutes": 3,
                                     "path_id": "accept-heather-virginia",
                                     "date": "2028-06-15",
