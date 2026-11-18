@@ -15,4 +15,4 @@ I am excited about the opportunity to bring my passion for rigorous, human-cente
 Sincerely,
 
 Michael P. Ragsdale
-hireme@michaelpragsdale.com
+hello@michaelpragsdale.com

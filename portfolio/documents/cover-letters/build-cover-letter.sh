@@ -1,7 +1,12 @@
 #!/bin/bash
-# Build script for cover letters
-# Usage: ./build-cover-letter.sh [input-markdown-file]
+# ==============================================================================
+# Architectural Block: build-cover-letter.sh
+# ==============================================================================
+# Compiles Markdown cover letter files into PDF (via pdflatex) directly inside
+# the local NVMe `_resume/cover-letters/` workspace directory.
+# ==============================================================================
 
+set -e
 cd "$(dirname "$0")"
 
 MD_FILE=$1
@@ -11,7 +16,7 @@ if [ -z "$MD_FILE" ]; then
 fi
 
 BASENAME=$(basename "$MD_FILE" .md)
-OUTPUT_DIR="/Users/michael/Library/CloudStorage/OneDrive-raggiesoft.com/raggiesoft-servers/_resume/cover-letters"
+OUTPUT_DIR="$(cd ../../../../_resume/cover-letters 2>/dev/null && pwd || echo "$(pwd)/../../../../_resume/cover-letters")"
 mkdir -p "$OUTPUT_DIR"
 
 PDF_FILE="$OUTPUT_DIR/${BASENAME}.pdf"

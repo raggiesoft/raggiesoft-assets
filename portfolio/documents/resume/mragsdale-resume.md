@@ -1,7 +1,7 @@
 # MICHAEL P. RAGSDALE
-**Software Architect | Full-Stack Developer & Section 508 Engineer**
-Cloud Infrastructure • Accessibility Engineering • Open-Source Platform Development
-Norfolk, VA | U.S. Citizen (Clearance Eligible) | [michaelpragsdale.com](https://michaelpragsdale.com) | hireme@michaelpragsdale.com
+**Software Architect | Full-Stack Developer & Section 508 Engineer**  
+Cloud Infrastructure • Accessibility Engineering • Open-Source Platform Development  
+Norfolk, VA | U.S. Citizen (Clearance Eligible) | [michaelpragsdale.com](https://michaelpragsdale.com) | [hello@michaelpragsdale.com](mailto:hello@michaelpragsdale.com)
 
 ## Professional Summary
 Software Architect and Full-Stack Developer specializing in custom web platforms, accessibility-first application architecture, cloud infrastructure, and open-source software development. Creator of the Stardust Engine CMS, a zero-database PHP framework featuring JSON-driven routing, custom SPA navigation, and polyglot decoupled micro-properties across Angular, SvelteKit, React/Next.js, and Vanilla PHP/JS. Experienced across the full software lifecycle, including architecture, development, cloud deployment, DNS management, CI/CD automation, and production operations.
@@ -16,7 +16,7 @@ Software Architect and Full-Stack Developer specializing in custom web platforms
 ## Relevant Technical Experience
 
 ### Principal Systems Architect & Founder
-**RaggieSoft Media | Norfolk, VA | [raggiesoftmedia.com](https://raggiesoftmedia.com) | Est. 2008 – Present**
+**RaggieSoft Media | Norfolk, VA | [raggiesoftmedia.com](https://raggiesoftmedia.com) | Est. 2008 – Present**  
 Founded and operate RaggieSoft Media, an independent software development and digital media publishing ecosystem supporting web applications, cloud infrastructure, narrative publishing, music distribution, and open-source platform development.
 
 * **Platform Architecture & CMS:** Architected and open-sourced **Stardust Engine CMS**, an MIT-licensed, zero-database PHP MVC platform utilizing a lightweight JSON data layer, native PHP request routing, and **Elara**, a custom Vanilla JavaScript SPA routing engine for dynamic DOM hydration.
@@ -29,10 +29,11 @@ Founded and operate RaggieSoft Media, an independent software development and di
 ### Clerk-Cashier
 **City of Virginia Beach Parks & Recreation | Virginia Beach, VA | May 2023 – Present**
 
-* **Data Engineering & ETL Pipelines:** Architect and manage manual ETL (Extract-Transform-Load) pipelines to ingest, normalize, and secure complex operational and financial data from legacy enterprise platforms (ActiveNet) into highly accessible digital formats.
-* **Player-Coach Leadership & Training:** Serve as the primary technical trainer and operational escalation point for municipal staff, translating complex data integrity protocols and Revenue Cycle Management (RCM) compliance into actionable training programs.
-* **Stakeholder & Governance Management:** Partner with facility leadership to optimize resource allocation, resolving complex logistical conflicts through data-driven insights and strict adherence to municipal policy.
-* **Compliance Enforcement:** Govern output data to guarantee strict Section 508 compliance across all generated operational documents from legacy systems, ensuring institutional adherence to federal accessibility mandates.
+* **Front Desk & Customer Support:** Support daily recreation center operations by assisting patrons in person and by telephone, processing payments, issuing memberships, checking members into the facility, and resolving account and service questions.
+* **Operational Data Processing:** Extract room-rental information from ActiveNet and convert complex reservation records into a concise, standardized Microsoft Word reference that gives Front Desk staff an at-a-glance view of weekend facility use.
+* **Accessible Information Design:** Apply Section 508 and accessible-document principles to operational materials, organizing information with consistent structure, clear hierarchy, and readable presentation.
+* **Technical Support & Knowledge Sharing:** Serve as a technical resource for coworkers using ActiveNet, Microsoft Office, and related Front Desk systems, providing practical troubleshooting assistance and explaining technical processes in approachable terms.
+* **Process Improvement:** Apply a software-development and accessibility background to identify opportunities for clearer information workflows, improved data presentation, and more efficient Front Desk operations within an established municipal environment.
 
 ### Computer Operations
 **Old Dominion University (ODU Online) | Norfolk, VA | Nov 2019 – Jul 2022**
@@ -49,9 +50,9 @@ Founded and operate RaggieSoft Media, an independent software development and di
 
 ## Education & Certification
 
-* **Tidewater Community College | Virginia Beach, VA**
+* **Tidewater Community College | Virginia Beach, VA**  
   Associate of Science, Information Technology (Focus: Software Engineering & Web Dev) | Expected Dec 2027
-* **Old Dominion University | Norfolk, VA**
+* **Old Dominion University | Norfolk, VA**  
   Bachelor of Science, Customized Studies in Leadership | Prior Coursework
-* **Wilson Workforce and Rehabilitation Center (formerly Woodrow Wilson Rehabilitation Center) | Fishersville, VA**
+* **Wilson Workforce and Rehabilitation Center (formerly Woodrow Wilson Rehabilitation Center) | Fishersville, VA**  
   Certificate, Business & Information Technology | 2011

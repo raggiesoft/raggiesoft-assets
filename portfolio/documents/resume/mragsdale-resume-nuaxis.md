@@ -1,7 +1,7 @@
 # MICHAEL P. RAGSDALE
-**Accessibility Engineer | Section 508 Compliance Specialist**
-Manual Testing • WCAG 2.1 AA Remediation • Web Platform Architecture
-Norfolk, VA | U.S. Citizen (Clearance Eligible / Prev. Public Trust) | hireme@michaelpragsdale.com
+**Accessibility Engineer | Section 508 Compliance Specialist**  
+Manual Testing • WCAG 2.1 AA Remediation • Web Platform Architecture  
+Norfolk, VA | U.S. Citizen (Clearance Eligible / Prev. Public Trust) | [michaelpragsdale.com](https://michaelpragsdale.com) | [hello@michaelpragsdale.com](mailto:hello@michaelpragsdale.com)
 
 ## Professional Summary
 Accessibility Engineer and Technical Specialist with deep expertise in WCAG 2.1 AA conformance, Section 508 compliance, and rigorous manual testing methodologies. Experienced in auditing enterprise web platforms, remediating complex UI components, and generating accessible documentation from legacy systems. Combines a strong background in full-stack software development with a passion for ensuring digital equity. Highly skilled in identifying contextual accessibility failures that automated scanners miss, with a track record of bridging the gap between technical requirements and inclusive user experiences.
@@ -22,15 +22,15 @@ Accessibility Engineer and Technical Specialist with deep expertise in WCAG 2.1 
 * **Manual vs. Automated Testing:** Utilized automated tools like Deque axe for baseline scanning while prioritizing rigorous manual testing to catch contextual failures (e.g., focus trapping, illogical reading orders, missing ARIA live regions) that scanners consistently missed.
 * **Architectural Standardization:** Engineered universal, inherently accessible data and structural templates deployed across the university ecosystem, heavily streamlining workflows for instructional design faculty while enforcing baseline compliance.
 
-### Clerk-Cashier (Accessible Document Engineering)
+### Clerk-Cashier
 **City of Virginia Beach Parks & Recreation | Virginia Beach, VA | May 2023 – Present**
 
-* **Accessible Output Generation:** Architect and manage manual ETL workflows to extract complex operational and financial data from legacy enterprise platforms (ActiveNet) and generate strictly Section 508 compliant, screen-reader friendly digital documents.
-* **Compliance Enforcement:** Govern output data to guarantee strict accessibility compliance across all generated operational documents, ensuring institutional adherence to federal and municipal accessibility mandates.
-* **Training & Governance:** Serve as the primary technical trainer for municipal staff, translating complex data integrity protocols into actionable processes.
+* **Front Desk & Customer Support:** Support daily recreation center operations by assisting patrons in person and by telephone, processing payments, issuing memberships, checking members into the facility, and resolving account and service questions.
+* **Operational Data Processing:** Extract room-rental information from ActiveNet and convert complex reservation records into a concise, standardized Microsoft Word reference that gives Front Desk staff an at-a-glance view of weekend facility use.
+* **Accessible Information Design & Technical Support:** Apply Section 508 and accessible-document principles to operational materials while serving as a practical technical resource for coworkers using ActiveNet and Microsoft Office.
 
 ### Principal Systems Architect & Founder
-**RaggieSoft Media | Norfolk, VA | [raggiesoftmedia.com](https://raggiesoftmedia.com) | Est. 2008 – Present**
+**RaggieSoft Media | Norfolk, VA | [raggiesoftmedia.com](https://raggiesoftmedia.com) | Est. 2008 – Present**  
 Founded and operate RaggieSoft Media, an independent software development and digital media publishing ecosystem supporting web applications, cloud infrastructure, narrative publishing, music distribution, and open-source platform development.
 
 * **Accessibility-First Platform Development:** Architected and open-sourced **Stardust Engine CMS**, an MIT-licensed, zero-database PHP MVC platform utilizing a custom Vanilla JavaScript SPA routing engine built with semantic HTML, keyboard focus trapping, and ARIA state management at its core.
@@ -42,10 +42,10 @@ Founded and operate RaggieSoft Media, an independent software development and di
 
 ## Education & Certification
 
-* **Tidewater Community College | Virginia Beach, VA**
+* **Tidewater Community College | Virginia Beach, VA**  
   Associate of Science, Information Technology (Focus: Software Engineering & Web Dev) | Expected Dec 2027
-* **Old Dominion University | Norfolk, VA**
+* **Old Dominion University | Norfolk, VA**  
   Bachelor of Science, Customized Studies in Leadership | Prior Coursework
-* **Wilson Workforce and Rehabilitation Center | Fishersville, VA**
+* **Wilson Workforce and Rehabilitation Center | Fishersville, VA**  
   Certificate, Business & Information Technology | 2011
 

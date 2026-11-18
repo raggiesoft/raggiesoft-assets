@@ -1,7 +1,7 @@
 # MICHAEL P. RAGSDALE
-**Senior Frontend Systems Engineer | Design Systems Architect**
-Design Systems • UI Component Libraries • Web Accessibility (WCAG) • Tailwind CSS
-Norfolk, VA | U.S. Citizen | hireme@michaelpragsdale.com
+**Senior Frontend Systems Engineer | Design Systems Architect**  
+Design Systems • UI Component Libraries • Web Accessibility (WCAG) • Tailwind CSS  
+Norfolk, VA | U.S. Citizen | [michaelpragsdale.com](https://michaelpragsdale.com) | [hello@michaelpragsdale.com](mailto:hello@michaelpragsdale.com)
 
 ## Professional Summary
 Senior Frontend Systems Engineer with over a decade of experience designing, architecting, and evolving production-grade design systems and reusable component libraries. Passionate about bridging the gap between product design and engineering by building robust, accessible, and ergonomic frontend foundations for data-dense workflows. Expert in modern frontend architecture, Tailwind CSS, semantic HTML primitives, and rigorous accessibility standards (WCAG 2.1 AA). Proven ability to zoom in on the micro-interactions of a single form control and zoom out to shape the macro-architecture of an enterprise platform.
@@ -15,7 +15,7 @@ Senior Frontend Systems Engineer with over a decade of experience designing, arc
 ## Relevant Technical Experience
 
 ### Principal Systems Architect & Founder
-**RaggieSoft Media | Norfolk, VA | [raggiesoftmedia.com](https://raggiesoftmedia.com) | Est. 2008 – Present**
+**RaggieSoft Media | Norfolk, VA | [raggiesoftmedia.com](https://raggiesoftmedia.com) | Est. 2008 – Present**  
 Founded and operate RaggieSoft Media, an independent software development and digital media publishing ecosystem supporting web applications, cloud infrastructure, narrative publishing, music distribution, and open-source platform development.
 
 * **Design System Architecture:** Architected and open-sourced **Stardust Engine CMS**, an MIT-licensed, zero-database PHP MVC ecosystem powering 9 production domains. Built a unified, reusable component library to ensure visual consistency and developer ergonomics across the entire platform.
@@ -25,11 +25,12 @@ Founded and operate RaggieSoft Media, an independent software development and di
 * **E-Commerce & Digital Fulfillment:** Integrated **Fourthwall** as an international Merchant of Record (MoR) with custom DNS architecture, powering automated fulfillment of physical merchandise and digital assets without third-party vendor lock-in.
 * **Accessibility by Design:** Enforce strict **WCAG 2.1 AA** and **Section 508** compliance across all UI components, custom modals, media players, and narrative readers, ensuring zero accessibility debt out of the box.
 
-### Accessible Document Engineer (Data Workflows)
+### Clerk-Cashier
 **City of Virginia Beach Parks & Recreation | Virginia Beach, VA | May 2023 – Present**
 
-* **Data-Dense Interface Translation:** Architect manual ETL workflows to extract complex, data-heavy operational reporting from legacy enterprise platforms (ActiveNet) and translate them into clean, highly readable, and accessible digital structures.
-* **Workflow Optimization:** Analyze real-world administrative workflows (triage, configuration, reporting) to design system processes that improve usability and data accuracy for municipal staff.
+* **Front Desk & Customer Support:** Support daily recreation center operations by assisting patrons in person and by telephone, processing payments, issuing memberships, checking members into the facility, and resolving account and service questions.
+* **Operational Data Processing & Accessible Design:** Extract room-rental information from ActiveNet and convert complex reservation records into a concise, standardized Microsoft Word reference organized with Section 508 accessible-document hierarchy for at-a-glance weekend facility use.
+* **Technical Support & Process Improvement:** Serve as a technical resource for coworkers using ActiveNet and Microsoft Office while applying a software-development background to streamline Front Desk information workflows.
 
 ### Web Accessibility Specialist (Computer Operations)
 **Old Dominion University (ODU Online) | Norfolk, VA | Nov 2019 – Jul 2022**
@@ -40,10 +41,10 @@ Founded and operate RaggieSoft Media, an independent software development and di
 
 ## Education & Certification
 
-* **Tidewater Community College | Virginia Beach, VA**
+* **Tidewater Community College | Virginia Beach, VA**  
   Associate of Science, Information Technology (Software Engineering) | Expected Dec 2027
-* **Old Dominion University | Norfolk, VA**
+* **Old Dominion University | Norfolk, VA**  
   Bachelor of Science, Customized Studies in Leadership | Prior Coursework
-* **Wilson Workforce and Rehabilitation Center | Fishersville, VA**
+* **Wilson Workforce and Rehabilitation Center | Fishersville, VA**  
   Certificate, Business & Information Technology | 2011
 

@@ -281,7 +281,7 @@ function revealContactInfo(salary) {
                 </a>
             </div>
             <div class="text-muted small mb-3">
-                Prefer email? <a href="mailto:hireme@michaelpragsdale.com" class="text-decoration-none text-secondary fw-bold">hireme@michaelpragsdale.com</a>
+                Prefer email? <a href="mailto:hello@michaelpragsdale.com" class="text-decoration-none text-secondary fw-bold">hello@michaelpragsdale.com</a>
             </div>
         `;
     } else {
@@ -290,13 +290,13 @@ function revealContactInfo(salary) {
             <div class="bg-body-tertiary p-4 rounded border mb-4">
                 <h5 class="text-secondary text-uppercase small fw-bold ls-1">Direct Contact</h5>
                 <div class="fs-4 fw-bold mt-2">
-                    <a href="mailto:hireme@michaelpragsdale.com?subject=Interview Request (Pre-Screened)" class="text-decoration-none">
-                        hireme@michaelpragsdale.com
+                    <a href="mailto:hello@michaelpragsdale.com?subject=Interview Request (Pre-Screened)" class="text-decoration-none">
+                        hello@michaelpragsdale.com
                     </a>
                 </div>
             </div>
             <div class="d-grid gap-2 d-sm-flex justify-content-center">
-                <a href="mailto:hireme@michaelpragsdale.com" class="btn btn-${color} btn-lg px-4">
+                <a href="mailto:hello@michaelpragsdale.com" class="btn btn-${color} btn-lg px-4">
                     <i class="fa-solid fa-paper-plane me-2"></i> Send Email
                 </a>
             </div>

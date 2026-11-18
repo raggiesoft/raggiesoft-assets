@@ -1,7 +1,7 @@
 # MICHAEL P. RAGSDALE
-**Senior Full Stack Engineer | Web Platform Architect**
-Headless CMS Architecture • Core Web Vitals • Accessibility Engineering (WCAG)
-Norfolk, VA | U.S. Citizen | hireme@michaelpragsdale.com
+**Senior Full Stack Engineer | Web Platform Architect**  
+Headless CMS Architecture • Core Web Vitals • Accessibility Engineering (WCAG)  
+Norfolk, VA | U.S. Citizen | [michaelpragsdale.com](https://michaelpragsdale.com) | [hello@michaelpragsdale.com](mailto:hello@michaelpragsdale.com)
 
 ## Professional Summary
 Senior Full Stack Engineer specializing in architecting highly scalable, public-facing web platforms, headless content management systems, and accessibility-first user experiences. Creator of the Stardust Engine CMS, a zero-database JSON architecture powering a multi-domain ecosystem through Cloudflare edge routing. Passionate about bridging the gap between marketing, product, and engineering by building lightning-fast, semantic, and AEO-optimized web experiences that drive discovery and conversion. 
@@ -15,7 +15,7 @@ Senior Full Stack Engineer specializing in architecting highly scalable, public-
 ## Relevant Technical Experience
 
 ### Principal Systems Architect & Founder
-**RaggieSoft Media | Norfolk, VA | [raggiesoftmedia.com](https://raggiesoftmedia.com) | Est. 2008 – Present**
+**RaggieSoft Media | Norfolk, VA | [raggiesoftmedia.com](https://raggiesoftmedia.com) | Est. 2008 – Present**  
 Founded and operate RaggieSoft Media, an independent software development and digital media publishing ecosystem supporting web applications, cloud infrastructure, narrative publishing, music distribution, and open-source platform development.
 
 * **Platform Architecture & Headless CMS:** Architected and open-sourced **Stardust Engine CMS**, an MIT-licensed, zero-database PHP MVC backend powering a 9-domain ecosystem (including `raggiesoft.com` and `stardustenginecms.com`), decoupling content models from presentation.
@@ -25,11 +25,12 @@ Founded and operate RaggieSoft Media, an independent software development and di
 * **E-Commerce & Digital Fulfillment:** Integrated **Fourthwall** as an international Merchant of Record (MoR) with custom DNS architecture, powering automated, frictionless global fulfillment of physical merchandise and digital assets without third-party vendor lock-in.
 * **Accessibility by Design:** Enforce strict **WCAG 2.1 AA** and **Section 508** compliance across all UI components, custom modals, media players, and narrative readers, ensuring zero accessibility debt out of the box.
 
-### Accessible Document Engineer (Clerk-Cashier)
+### Clerk-Cashier
 **City of Virginia Beach Parks & Recreation | Virginia Beach, VA | May 2023 – Present**
 
-* **Data Engineering & ETL:** Architect manual ETL workflows to extract and normalize complex operational data from legacy enterprise platforms (ActiveNet) into highly structured, digital formats.
-* **Compliance Enforcement:** Govern output data to guarantee strict Section 508 compliance across generated operational documents, ensuring institutional adherence to federal accessibility mandates.
+* **Front Desk & Customer Support:** Support daily recreation center operations by assisting patrons in person and by telephone, processing payments, issuing memberships, checking members into the facility, and resolving account and service questions.
+* **Operational Data Processing & Accessible Design:** Extract room-rental information from ActiveNet and convert complex reservation records into a concise, standardized Microsoft Word reference structured with Section 508 accessible-document principles for Front Desk staff.
+* **Technical Support & Process Improvement:** Serve as a technical resource for coworkers using ActiveNet and Microsoft Office while applying a software-development background to improve Front Desk information workflows.
 
 ### Web Accessibility Specialist (Computer Operations)
 **Old Dominion University (ODU Online) | Norfolk, VA | Nov 2019 – Jul 2022**
@@ -40,10 +41,10 @@ Founded and operate RaggieSoft Media, an independent software development and di
 
 ## Education & Certification
 
-* **Tidewater Community College | Virginia Beach, VA**
+* **Tidewater Community College | Virginia Beach, VA**  
   Associate of Science, Information Technology (Software Engineering) | Expected Dec 2027
-* **Old Dominion University | Norfolk, VA**
+* **Old Dominion University | Norfolk, VA**  
   Bachelor of Science, Customized Studies in Leadership | Prior Coursework
-* **Wilson Workforce and Rehabilitation Center | Fishersville, VA**
+* **Wilson Workforce and Rehabilitation Center | Fishersville, VA**  
   Certificate, Business & Information Technology | 2011
 

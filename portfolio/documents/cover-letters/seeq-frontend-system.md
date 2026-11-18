@@ -15,4 +15,4 @@ I would love to bring my deep experience in frontend foundations, Tailwind CSS, 
 Sincerely,
 
 **Michael P. Ragsdale**  
-hireme@michaelpragsdale.com
+hello@michaelpragsdale.com

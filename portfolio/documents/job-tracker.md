@@ -2,6 +2,15 @@
 
 A centralized reference guide for all job applications submitted, including full job descriptions, application dates, tailored angles, and key talking points for recruiter phone screens.
 
+## Master Resume & Interview Story Baseline (Updated November 18, 2026)
+* **Primary Contact Email:** `hello@michaelpragsdale.com` (`hireme@michaelpragsdale.com` retained solely as a forwarding alias for legacy resumes).
+* **Master Resume Source:** `raggiesoft-assets/portfolio/documents/resume/mragsdale-resume.md` (compiled to `.pdf` and `.docx` via `./build-resume.sh` into `_resume/resumes/`).
+* **Coherent Career Arc:** Software development $\rightarrow$ enterprise accessibility at ODU Online $\rightarrow$ public-facing municipal `Clerk-Cashier` role while completing A.S. in IT at TCC $\rightarrow$ continuous independent software architecture (`Stardust Engine CMS` & 10-property RaggieSoft ecosystem) $\rightarrow$ return to full-time software engineering / accessibility architecture.
+* **Go-To Behavioral Interview Story (*"Tell me about a time you improved an existing process"*):**
+  * **Problem:** ActiveNet holds all recreation center reservation data, yet its dense interface isn't an efficient quick reference when Front Desk staff are simultaneously helping walk-up patrons, answering phones, and checking members in.
+  * **Action:** Extracted weekend room-rental records from ActiveNet, verified and reorganized the schedule, and applied Section 508 accessible-document structure (consistent hierarchy, clean layout) to produce a standardized, concise Microsoft Word reference sheet—while also serving as an approachable technical resource for coworkers on ActiveNet and Microsoft Office.
+  * **Result:** Front Desk staff have an immediate at-a-glance physical/digital reference for weekend facility rentals without digging through raw ActiveNet screens mid-rush.
+
 ---
 
 ## 1. Calendly — Senior Full Stack Engineer (Website Development)
@@ -42,7 +51,7 @@ A centralized reference guide for all job applications submitted, including full
 * **Status:** Submitted
 
 ### Elevator Pitch & Talking Points:
-* **Workflows Over Pixels:** Connect with their core philosophy that "interface work starts with understanding how people actually work." Reference your experience at Virginia Beach Parks & Rec designing ETL processes for complex administrative workflows, and your Stardust Engine CMS design system.
+* **Workflows Over Pixels:** Connect with their core philosophy that "interface work starts with understanding how people actually work." Reference your Front Desk experience at Virginia Beach Parks & Rec transforming dense ActiveNet reservation records into an accessible, at-a-glance Microsoft Word weekend reference for coworkers, alongside your Stardust Engine CMS component architecture.
 * **Tailwind CSS & Component Architecture:** Mention that you are currently architecting a composable UI component library using **Tailwind CSS** for an upcoming media distribution platform.
 * **Accessibility as a First-Class Citizen:** Explain your work at ODU Online remediating complex web interfaces for screen readers (NVDA/JAWS) and keyboard navigation. Emphasize that accessible components must be ergonomic for developers to adopt.
 
