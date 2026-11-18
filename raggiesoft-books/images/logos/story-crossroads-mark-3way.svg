@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="100%" height="100%" fill="currentColor">
+  <!-- RaggieSoft Story Crossroads — 3-Directional Signpost UI Mark -->
+  <path d="M 128 6 L 133 21 L 148 26 L 133 31 L 128 46 L 123 31 L 108 26 L 123 21 Z" />
+  <path d="M 128 52 L 138 64 L 138 234 L 118 234 L 118 64 Z" />
+  <rect x="96" y="230" width="64" height="12" rx="6" />
+  <g transform="rotate(6 128 92)">
+    <path d="M 156 73 L 48 73 L 22 92 L 48 111 L 156 111 Z" />
+  </g>
+  <g transform="rotate(-2 128 142)">
+    <path d="M 100 123 L 208 123 L 234 142 L 208 161 L 100 161 Z" />
+  </g>
+  <g transform="rotate(-6 128 192)">
+    <path d="M 154 173 L 54 173 L 28 192 L 54 211 L 154 211 Z" />
+  </g>
+</svg>

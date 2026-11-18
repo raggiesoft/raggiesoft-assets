@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="100%" height="100%">
+  <!--
+    ============================================================================
+    RaggieSoft Story Crossroads — Official Imprint Seal (2-Directional Variant)
+    ============================================================================
+    Purpose:
+      Official publishing imprint medallion for interactive RaggieSoft Story
+      Crossroads novels, designed as a sibling crest to Ocean View Archives
+      (oceanview-archives.svg) and stamped onto both 2:3 portrait covers and
+      16:9 OpenGraph widescreen covers.
+  -->
+  <defs>
+    <path id="top-curve" d="M 86 250 a 164 164 0 0 1 328 0" fill="transparent" />
+    <path id="bottom-curve" d="M 61 250 a 189 189 0 0 0 378 0" fill="transparent" />
+  </defs>
+
+  <circle cx="250" cy="250" r="230" fill="#0F4C5C" />
+  <circle cx="250" cy="250" r="215" fill="none" stroke="#E3B27C" stroke-width="4.5" />
+  <circle cx="250" cy="250" r="140" fill="none" stroke="#E3B27C" stroke-width="2.8" />
+
+  <!-- Equator Four-Point Star Separators -->
+  <path d="M 72.5 238 L 75.5 247 L 84.5 250 L 75.5 253 L 72.5 262 L 69.5 253 L 60.5 250 L 69.5 247 Z" fill="#E3B27C" />
+  <path d="M 427.5 238 L 430.5 247 L 439.5 250 L 430.5 253 L 427.5 262 L 424.5 253 L 415.5 250 L 424.5 247 Z" fill="#E3B27C" />
+
+  <text fill="#E3B27C" font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-size="34" font-weight="bold" letter-spacing="5">
+    <textPath href="#top-curve" startOffset="50%" text-anchor="middle">RAGGIESOFT</textPath>
+  </text>
+  <text fill="#E3B27C" font-family="'Playfair Display', Georgia, 'Times New Roman', serif" font-size="29" font-weight="bold" letter-spacing="2.8">
+    <textPath href="#bottom-curve" startOffset="50%" text-anchor="middle">STORY CROSSROADS</textPath>
+  </text>
+
+  <!-- Subtle Crossroads Diagonal Compass Rays (echoing Ocean View Archives) -->
+  <g stroke="#E3B27C" stroke-width="2.6" opacity="0.38" stroke-linecap="round">
+    <line x1="184" y1="184" x2="316" y2="316" />
+    <line x1="184" y1="316" x2="316" y2="184" />
+  </g>
+
+  <!-- Signature Four-Point RaggieSoft Star Above Post Cap (echoing Concept 1) -->
+  <path d="M 250 132 L 255 148 L 271 153 L 255 158 L 250 174 L 245 158 L 229 153 L 245 148 Z" fill="#E3B27C" />
+
+  <!-- Central Signpost Column with Pyramidal Finial Cap & Pedestal -->
+  <path d="M 250 180 L 258 190 L 258 334 L 242 334 L 242 190 Z" fill="#E3B27C" />
+  <rect x="228" y="330" width="44" height="8" rx="4" fill="#E3B27C" />
+
+  <!-- Diverging 2-Way Path Arcs Sweeping Left & Right Below Pedestal -->
+  <g fill="none" stroke="#E3B27C" stroke-width="3.8" stroke-linecap="round" opacity="0.9">
+    <path d="M 244 338 Q 226 354 192 358" />
+    <path d="M 256 338 Q 274 354 308 358" />
+  </g>
+
+  <!-- Board 1: Upper Left-Pointing Trail Signboard -->
+  <g transform="rotate(4 250 220)">
+    <path d="M 272 203 L 172 203 L 148 220 L 172 237 L 272 237 Z" fill="#E3B27C" stroke="#0F4C5C" stroke-width="4.2" stroke-linejoin="round" />
+    <rect x="176" y="218" width="78" height="4" rx="2" fill="#0F4C5C" />
+  </g>
+
+  <!-- Board 2: Lower Right-Pointing Trail Signboard -->
+  <g transform="rotate(3 250 272)">
+    <path d="M 228 255 L 328 255 L 352 272 L 328 289 L 228 289 Z" fill="#E3B27C" stroke="#0F4C5C" stroke-width="4.2" stroke-linejoin="round" />
+    <rect x="246" y="270" width="78" height="4" rx="2" fill="#0F4C5C" />
+  </g>
+</svg>
