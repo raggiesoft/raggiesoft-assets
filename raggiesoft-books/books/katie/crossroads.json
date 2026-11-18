@@ -10,7 +10,7 @@
                 {
                     "id": "accept-heather-virginia",
                     "label": "Accept Heather's Apology & Welcome Her Back",
-                    "subtitle": "Forgive Heather under the Pavilion colonnade, stay in Virginia on in-state domicile, tour CCHR, VDU, and Warwick University together as a team, marry Heather, and rescue both Brittany and Chelsea.",
+                    "subtitle": "Forgive Heather under the Pavilion colonnade, stay in Virginia on in-state domicile, tour nine Virginia campuses together for Wesley, marry Heather, and rescue both Brittany and Chelsea.",
                     "source_type": "paths_dir",
                     "source_dir": "paths/accept-heather-virginia",
                     "entry_part": "paths/accept-heather-virginia/e005/c001/p001.md",
@@ -26,48 +26,38 @@
                         "Lindstrom",
                         "Detroit-Windsor Tunnel",
                         "Rothrock",
+                        "Barton Hall",
+                        "Cantor Hall",
                         "jun_2028_restored_rose_garden_supported_companions_signing",
                         {
                             "term": "RRC",
                             "word_boundary": true,
                             "allow_in": [
-                                "paths/accept-heather-virginia/e005/c002/p002.md"
+                                "paths/accept-heather-virginia/e005/c002/p003.md"
                             ]
                         },
                         {
                             "term": "Roosevelt Rehabilitation Center",
                             "allow_in": [
-                                "paths/accept-heather-virginia/e005/c002/p002.md"
+                                "paths/accept-heather-virginia/e005/c002/p003.md"
                             ]
                         },
                         {
                             "term": "Redmond Hall",
                             "allow_in": [
-                                "paths/accept-heather-virginia/e005/c002/p002.md"
-                            ]
-                        },
-                        {
-                            "term": "Barton Hall",
-                            "allow_in": [
-                                "paths/accept-heather-virginia/e005/c002/p002.md"
-                            ]
-                        },
-                        {
-                            "term": "Cantor Hall",
-                            "allow_in": [
-                                "paths/accept-heather-virginia/e005/c002/p002.md"
+                                "paths/accept-heather-virginia/e005/c002/p003.md"
                             ]
                         },
                         {
                             "term": "Bates-Harding",
                             "allow_in": [
-                                "paths/accept-heather-virginia/e005/c002/p002.md"
+                                "paths/accept-heather-virginia/e005/c002/p003.md"
                             ]
                         },
                         {
                             "term": "Fishersville",
                             "allow_in": [
-                                "paths/accept-heather-virginia/e005/c002/p002.md"
+                                "paths/accept-heather-virginia/e005/c002/p003.md"
                             ]
                         }
                     ]
