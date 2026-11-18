@@ -1,6 +1,79 @@
 {
     "crossroads": [
         {
+            "id": "new-years-rule-2002",
+            "trigger_part": "e004/c001/p003.md",
+            "kicker": "Story Crossroads • New Year's Eve, December 31, 2002",
+            "title": "Uncle David's No-Company Rule: Does Brittany Keep the Front Door Deadbolted?",
+            "prompt": "Before driving north to Newport, Rhode Island to check on Grandma Ruth, Aunt Liz, and Chelsea, Uncle David sets one firm rule: deadbolted doors and zero company—a rule Nate and Katie respect so completely that even if Heather and Wesley hadn't gone to Minnesota for the holiday, they would not be over either. When Tyler's crowd calls on New Year's Eve, how does seventeen-year-old Brittany choose? Both paths forward are complete, coequal stories.",
+            "options": [
+                {
+                    "id": "brittany-respects-no-company",
+                    "label": "Brittany Respects Uncle David's No-Company Rule",
+                    "subtitle": "Hang up on Tyler's crowd, keep the door deadbolted, ring in 2003 with Katie and Nate over ginger ale, graduate together, tour ten campuses for Wesley, marry Heather, and learn Uncle David's 1991 L-1-2-3-R truck.",
+                    "source_type": "paths_dir",
+                    "source_dir": "paths/brittany-respects-no-company",
+                    "entry_part": "paths/brittany-respects-no-company/e004/c002/p001.md",
+                    "forbidden_terms": [
+                        "North Lion",
+                        "Scales & Tails",
+                        "Staff Member Wesley",
+                        "Tiffany Sloan",
+                        "Dan Lindstrom",
+                        "Molly Lindstrom",
+                        "Jonas Lindstrom",
+                        "Nora Lindstrom",
+                        "Lindstrom",
+                        "Detroit-Windsor Tunnel",
+                        "Hillside Court",
+                        "South Richmond",
+                        "Rothrock",
+                        "Barton Hall",
+                        "Cantor Hall",
+                        "jun_2028_restored_rose_garden_supported_companions_signing",
+                        {
+                            "term": "RRC",
+                            "word_boundary": true,
+                            "allow_in": [
+                                "paths/brittany-respects-no-company/e005/c001/p003.md"
+                            ]
+                        },
+                        {
+                            "term": "Roosevelt Rehabilitation Center",
+                            "allow_in": [
+                                "paths/brittany-respects-no-company/e005/c001/p003.md"
+                            ]
+                        },
+                        {
+                            "term": "Redmond Hall",
+                            "allow_in": [
+                                "paths/brittany-respects-no-company/e005/c001/p003.md"
+                            ]
+                        },
+                        {
+                            "term": "Bates-Harding",
+                            "allow_in": [
+                                "paths/brittany-respects-no-company/e005/c001/p003.md"
+                            ]
+                        },
+                        {
+                            "term": "Fishersville",
+                            "allow_in": [
+                                "paths/brittany-respects-no-company/e005/c001/p003.md"
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "new-years-party-happens",
+                    "label": "Brittany Breaks the Rule & Opens the Door",
+                    "subtitle": "Brittany lets Tyler's crowd inside on New Year's Eve—triggering Tyler's January locker lie to Heather and leading forward to the June 2003 Virginia Beach Pavilion graduation Crossroads.",
+                    "source_type": "inline_continuation",
+                    "entry_part": "e004/c002/p001.md"
+                }
+            ]
+        },
+        {
             "id": "pavilion-apology-2003",
             "trigger_part": "e004/c002/p004.md",
             "kicker": "Story Crossroads • Saturday, June 14, 2003, 11:52 AM",
@@ -10,7 +83,7 @@
                 {
                     "id": "accept-heather-virginia",
                     "label": "Accept Heather's Apology & Welcome Her Back",
-                    "subtitle": "Forgive Heather under the Pavilion colonnade, stay in Virginia on in-state domicile, tour nine Virginia campuses together for Wesley, marry Heather, and rescue both Brittany and Chelsea.",
+                    "subtitle": "Forgive Heather under the Pavilion colonnade, stay in Virginia on in-state domicile, tour ten campuses together for rising-junior Wesley, marry Heather, and rescue both Brittany and Chelsea.",
                     "source_type": "paths_dir",
                     "source_dir": "paths/accept-heather-virginia",
                     "entry_part": "paths/accept-heather-virginia/e005/c001/p001.md",
