@@ -1,0 +1,36 @@
+<!doctype html>
+<!--
+==============================================================================
+Architectural Block: pdf-ua-template.html
+==============================================================================
+Clean semantic HTML5 Pandoc template engineered specifically for WeasyPrint 70+
+`--pdf-variant pdf/ua-1` compilation. Emits zero legacy screen-only CSS rules,
+preserves strict `<html lang="en-US">`, `<title>`, and `<main>` landmarks, and
+maps Markdown `#` / `##` / `###`, paragraphs, lists, and anchors directly into
+ISO 14289-1 (PDF/UA-1) & Federal Section 508 structure tags (`<H1>`, `<H2>`,
+`<H3>`, `<P>`, `<L>`, `<LI>`, `<Link>`).
+==============================================================================
+-->
+<html lang="$if(lang)$$lang$$else$en-US$endif$">
+<head>
+  <meta charset="utf-8">
+  <title>$pagetitle$</title>
+$if(author-meta)$
+  <meta name="author" content="$author-meta$">
+$endif$
+$if(description-meta)$
+  <meta name="description" content="$description-meta$">
+$endif$
+$if(keywords)$
+  <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$">
+$endif$
+$for(css)$
+  <link rel="stylesheet" href="$css$">
+$endfor$
+</head>
+<body>
+  <main>
+$body$
+  </main>
+</body>
+</html>

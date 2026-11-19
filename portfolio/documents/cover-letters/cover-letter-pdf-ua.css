@@ -1,0 +1,84 @@
+/**
+ * ============================================================================
+ * Architectural Block: cover-letter-pdf-ua.css
+ * ============================================================================
+ * Print & PDF/UA-1 (ISO 14289-1) Accessible Stylesheet for Michael P. Ragsdale
+ * Cover Letters (`build-cover-letter.sh` -> `weasyprint --pdf-variant pdf/ua-1`).
+ * Enforces >= 10.4:1 contrast, underlined hyperlinks (WCAG 1.4.1), and clean
+ * 1-page business correspondence typography.
+ * ============================================================================
+ */
+
+@page {
+  size: letter portrait;
+  margin: 0.85in 0.9in;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 10.5pt;
+  line-height: 1.48;
+  color: #0f172a;
+  background-color: #ffffff;
+}
+
+body,
+main {
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  font-size: 14pt;
+  font-weight: 700;
+  line-height: 1.25;
+  color: #0f3d91;
+  margin: 0 0 12pt 0;
+  padding-bottom: 5pt;
+  border-bottom: 1pt solid #0f3d91;
+  break-after: avoid;
+}
+
+h2 {
+  font-size: 11.5pt;
+  font-weight: 700;
+  color: #0f172a;
+  margin: 12pt 0 6pt 0;
+  break-after: avoid;
+}
+
+p {
+  margin: 0 0 9.5pt 0;
+  orphans: 2;
+  widows: 2;
+}
+
+ul {
+  margin: 4pt 0 9.5pt 0;
+  padding-left: 16pt;
+}
+
+li {
+  margin: 0 0 4pt 0;
+}
+
+strong {
+  font-weight: 700;
+  color: #0f172a;
+}
+
+code {
+  font-family: Menlo, Consolas, "Liberation Mono", monospace;
+  font-size: 9.5pt;
+  color: #0f172a;
+}
+
+a {
+  color: #0f3d91;
+  text-decoration: underline;
+  text-underline-offset: 1.5pt;
+}

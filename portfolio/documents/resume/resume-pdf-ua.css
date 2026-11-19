@@ -1,0 +1,146 @@
+/**
+ * ============================================================================
+ * Architectural Block: resume-pdf-ua.css
+ * ============================================================================
+ * Print & PDF/UA-1 (ISO 14289-1) Accessible Stylesheet for Michael P. Ragsdale
+ * Resumes (`build-resume.sh` -> Pandoc HTML5 -> `weasyprint --pdf-variant pdf/ua-1`).
+ *
+ * Section 508 & WCAG 2.1 AA / AAA Accessibility Guarantees:
+ * 1. Contrast Ratios:
+ *    - Primary text (`#0f172a` on `#ffffff`): 17.8:1 (Exceeds WCAG AAA 7:1)
+ *    - Secondary text (`#334155` on `#ffffff`): 10.3:1 (Exceeds WCAG AAA 7:1)
+ *    - Section headings & links (`#0f3d91` on `#ffffff`): 10.4:1 (Exceeds AAA)
+ * 2. Use of Color (WCAG 1.4.1):
+ *    - Every hyperlink carries an explicit `text-decoration: underline` in
+ *      addition to `#0f3d91` color so links are never distinguished by color alone.
+ * 3. Pagination & Screen-Reader Artifact Hygiene:
+ *    - `@page` margin boxes (`@bottom-right` page indicator) and CSS borders are
+ *      automatically marked as `/Artifact` by WeasyPrint's `pdf/ua-1` engine so
+ *      JAWS, NVDA, and VoiceOver read continuous prose across page breaks.
+ *    - `break-after: avoid` prevents orphaned headings at page bottoms.
+ * ============================================================================
+ */
+
+@page {
+  size: letter portrait;
+  margin: 0.5in 0.6in 0.56in 0.6in;
+
+  @bottom-right {
+    content: "Michael P. Ragsdale • Page " counter(page) " of " counter(pages);
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 8pt;
+    color: #475569;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 9.6pt;
+  line-height: 1.36;
+  color: #0f172a;
+  background-color: #ffffff;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+main {
+  margin: 0;
+  padding: 0;
+}
+
+/* Primary Candidate Name (<H1>) */
+h1 {
+  font-size: 18.5pt;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  line-height: 1.15;
+  color: #0f172a;
+  margin: 0 0 2.5pt 0;
+  break-after: avoid;
+}
+
+/* Contact & Headline Block Immediately Following <H1> */
+h1 + p {
+  font-size: 9.4pt;
+  line-height: 1.42;
+  color: #1e293b;
+  margin: 0 0 8pt 0;
+  padding-bottom: 6.5pt;
+  border-bottom: 1.25pt solid #0f3d91;
+}
+
+/* Major Resume Sections (<H2>) */
+h2 {
+  font-size: 10.8pt;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.045em;
+  line-height: 1.25;
+  color: #0f3d91;
+  margin: 9.5pt 0 4.5pt 0;
+  padding-bottom: 2pt;
+  border-bottom: 0.75pt solid #94a3b8;
+  break-after: avoid;
+}
+
+/* Job Titles (<H3>) */
+h3 {
+  font-size: 10.1pt;
+  font-weight: 700;
+  line-height: 1.28;
+  color: #0f172a;
+  margin: 7pt 0 1.5pt 0;
+  break-after: avoid;
+}
+
+/* Organization / Date / Role Lead Paragraph */
+h3 + p {
+  margin: 0 0 3.5pt 0;
+  color: #1e293b;
+  break-after: avoid;
+}
+
+p {
+  margin: 0 0 5pt 0;
+  orphans: 2;
+  widows: 2;
+}
+
+/* Semantic Bullet Lists (<L> -> <LI> -> <Lbl> + <LBody>) */
+ul {
+  margin: 2pt 0 5.5pt 0;
+  padding-left: 14pt;
+}
+
+li {
+  margin: 0 0 2.8pt 0;
+  padding-left: 1.5pt;
+  orphans: 2;
+  widows: 2;
+}
+
+strong {
+  font-weight: 700;
+  color: #0f172a;
+}
+
+code {
+  font-family: Menlo, Consolas, "Liberation Mono", monospace;
+  font-size: 8.8pt;
+  color: #0f172a;
+}
+
+/* Accessible Hyperlinks (<Link> + High Contrast + Explicit Underline) */
+a {
+  color: #0f3d91;
+  text-decoration: underline;
+  text-underline-offset: 1.5pt;
+  white-space: nowrap;
+}

@@ -1,7 +1,7 @@
 # MICHAEL P. RAGSDALE
 **Accessibility Engineer | Section 508 Compliance Specialist**  
 Manual Testing • WCAG 2.1 AA Remediation • Web Platform Architecture  
-Norfolk, VA | U.S. Citizen (Clearance Eligible / Prev. Public Trust) | [michaelpragsdale.com](https://michaelpragsdale.com) | [hello@michaelpragsdale.com](mailto:hello@michaelpragsdale.com)
+Norfolk, VA | U.S. Citizen • Prior Federal Public Trust (6C) Adjudication | [michaelpragsdale.com](https://michaelpragsdale.com) | [hello@michaelpragsdale.com](mailto:hello@michaelpragsdale.com)
 
 ## Professional Summary
 Accessibility Engineer and Technical Specialist with deep expertise in WCAG 2.1 AA conformance, Section 508 compliance, and rigorous manual testing methodologies. Experienced in auditing enterprise web platforms, remediating complex UI components, and generating accessible documentation from legacy systems. Combines a strong background in full-stack software development with a passion for ensuring digital equity. Highly skilled in identifying contextual accessibility failures that automated scanners miss, with a track record of bridging the gap between technical requirements and inclusive user experiences.

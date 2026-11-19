@@ -90,16 +90,25 @@
         "title": "Retail Sales Associate",
         "period": "Aug 2020",
         "description": {
-          "it": ["Assisted with 'Welcome Back Weekend' during the COVID-19 pandemic, greeting customers and providing masks as necessary."],
-          "cs": ["Assisted with Welcome Back Weekend in a college bookstore setting.", "Greeted customers at front door and offered masks as necessary, as part of a safe reopening during the COVID-19 pandemic."]
+          "it": [
+            "Assisted with 'Welcome Back Weekend' during the COVID-19 pandemic, greeting customers and providing masks as necessary."
+          ],
+          "cs": [
+            "Assisted with Welcome Back Weekend in a college bookstore setting.",
+            "Greeted customers at front door and offered masks as necessary, as part of a safe reopening during the COVID-19 pandemic."
+          ]
         }
       },
       {
         "title": "Retail Sales Associate",
         "period": "Jan 2019 - Mar 2020",
         "description": {
-          "it": ["Performed retail sales activities in the technology department, including answering product questions and ringing up transactions."],
-          "cs": ["Assisted hundreds of customers in the technology department, answering complex product questions, performing sales transactions, and restocking shelves."]
+          "it": [
+            "Performed retail sales activities in the technology department, including answering product questions and ringing up transactions."
+          ],
+          "cs": [
+            "Assisted hundreds of customers in the technology department, answering complex product questions, performing sales transactions, and restocking shelves."
+          ]
         }
       }
     ]
@@ -116,16 +125,26 @@
         "title": "Data Entry Clerk",
         "period": "Aug 2019 - Dec 2019",
         "description": {
-          "it": ["Inputting post-cost data into a database; printing, assembling, and distributing daily menus to stations."],
-          "cs": ["Clerical work in an office setting at a university cafeteria.", "Inputting post-cost data into a database; printing, assembling, and distributing daily menus to stations."]
+          "it": [
+            "Inputting post-cost data into a database; printing, assembling, and distributing daily menus to stations."
+          ],
+          "cs": [
+            "Clerical work in an office setting at a university cafeteria.",
+            "Inputting post-cost data into a database; printing, assembling, and distributing daily menus to stations."
+          ]
         }
       },
       {
         "title": "Meal Plan Ambassador",
         "period": "Jul 2017 - Apr 2019",
         "description": {
-          "it": ["Pitched and sold university meal plans to students and performed customer service duties."],
-          "cs": ["Successfully pitched and sold university meal plans to students and parents, consistently providing clear information and excellent service.", "Offered directions to different locations on campus."]
+          "it": [
+            "Pitched and sold university meal plans to students and performed customer service duties."
+          ],
+          "cs": [
+            "Successfully pitched and sold university meal plans to students and parents, consistently providing clear information and excellent service.",
+            "Offered directions to different locations on campus."
+          ]
         }
       }
     ]
@@ -143,8 +162,14 @@
         "title": "Director of Administration",
         "period": "Sep 2015 – May 2017",
         "description": {
-          "it": ["Managed organizational administration via Google Drive.", "Prepared official minutes, presentations, and other documents for association leadership."],
-          "cs": ["Elected by the student body to a paid leadership position responsible for all administrative functions of the association.", "Prepared and maintained official minutes and documents for the RHA President, Advisor, and student members."]
+          "it": [
+            "Managed organizational administration via Google Drive.",
+            "Prepared official minutes, presentations, and other documents for association leadership."
+          ],
+          "cs": [
+            "Elected by the student body to a paid leadership position responsible for all administrative functions of the association.",
+            "Prepared and maintained official minutes and documents for the RHA President, Advisor, and student members."
+          ]
         }
       }
     ]
@@ -161,8 +186,13 @@
         "title": "Volunteer Contact Ranger",
         "period": "Apr 2015 – Aug 2015",
         "description": {
-          "it": ["Collected parking fees and gave general park information at an entrance booth setting."],
-          "cs": ["Collected parking fees.", "Gave general park information appropriate for an entrance booth setting."]
+          "it": [
+            "Collected parking fees and gave general park information at an entrance booth setting."
+          ],
+          "cs": [
+            "Collected parking fees.",
+            "Gave general park information appropriate for an entrance booth setting."
+          ]
         }
       }
     ]
@@ -179,8 +209,13 @@
         "title": "Mobile Applications Developer Intern",
         "period": "Sep 2012 – Dec 2012",
         "description": {
-          "it": ["Gained hands-on experience in cross-platform mobile development for Android & iOS using Titanium SDK.", "Created a dictionary of real estate terms mobile app to learn the SDK."],
-          "cs": ["Learned Android and iOS development by way of the JavaScript-based Titanium SDK."]
+          "it": [
+            "Gained hands-on experience in cross-platform mobile development for Android & iOS using Titanium SDK.",
+            "Created a dictionary of real estate terms mobile app to learn the SDK."
+          ],
+          "cs": [
+            "Learned Android and iOS development by way of the JavaScript-based Titanium SDK."
+          ]
         }
       }
     ]
@@ -197,128 +232,13 @@
         "title": "Retail Associate",
         "period": "Jun 2008 – Aug 2008",
         "description": {
-          "it": ["Performed retail duties, including answering questions, restocking shelves, and operating a cash register."],
-          "cs": ["Performed various retail duties, including answering questions and restocking shelves.", "Performed cashier duties during busy periods as requested."]
-        }
-      }
-    ]
-  },
-  {
-    "company": "Food Lion",
-    "location": "Norfolk, VA",
-    "period": "",
-    "logo": "assets/images/employment/food-lion.png",
-    "categories": "customer-service retail",
-    "is_public": false,
-    "notes": "Resigned after three days; role was not a good fit.",
-    "roles": [
-      {
-        "title": "Grocery Cashier",
-        "period": "Dec 2022 (3 days)",
-        "description": {
-          "it": ["Operated point-of-sale system and handled customer transactions."],
-          "cs": ["Provided front-line customer service in a retail grocery environment."]
-        }
-      }
-    ]
-  },
-  {
-    "company": "GAP Solutions, Inc.",
-    "location": "Herndon, VA (Remote)",
-    "period": "",
-    "logo": "assets/images/employment/gap.png",
-    "categories": "information-technology behind-the-scenes",
-    "is_public": false,
-    "notes": "Federal Government Contractor position with a Public Trust clearance. Role ended due to performance issues related to lack of assigned tasks.",
-    "roles": [
-      {
-        "title": "Section 508 Compliance Specialist",
-        "period": "Jul 2022 – Oct 2022",
-        "description": {
-          "it": ["Hired for a Section 508 compliance role similar to ODU Online position; tasks were not assigned during the employment period."],
-          "cs": ["Hired for a Section 508 compliance role similar to ODU Online position; tasks were not assigned during the employment period."]
-        }
-      }
-    ]
-  },
-  {
-    "company": "ICT Group (Dell Contractor)",
-    "location": "Chesapeake, VA",
-    "period": "",
-    "logo": "assets/images/employment/ict-group.png",
-    "categories": "information-technology customer-service",
-    "is_public": false,
-    "notes": "Dates are approximate.",
-    "roles": [
-      {
-        "title": "Technical Support Representative",
-        "period": "Sometime within 2004 - 2006",
-        "description": {
           "it": [
-            "Provided telephone-based technical support for Dell consumer hardware and software issues.",
-            "Troubleshooted customer problems via a scripted diagnostic process."
+            "Performed retail duties, including answering questions, restocking shelves, and operating a cash register."
           ],
           "cs": [
-            "Assisted Dell customers by diagnosing and resolving technical issues over the phone.",
-            "Followed established protocols to ensure consistent and effective customer support."
+            "Performed various retail duties, including answering questions and restocking shelves.",
+            "Performed cashier duties during busy periods as requested."
           ]
-        }
-      }
-    ]
-  },
-  {
-    "company": "Wendy's",
-    "location": "Virginia Beach, VA",
-    "period": "",
-    "logo": "assets/images/employment/wendys.png",
-    "categories": "food-service",
-    "is_public": false,
-    "notes": "Dates are approximate and reflect working at some point during the specified timeframes.",
-    "roles": [
-      {
-        "title": "Dishwasher / Team Member",
-        "period": "Sometime between 2007-2013",
-        "description": {
-          "it": ["Maintained kitchen sanitation using a 3-compartment sink system."],
-          "cs": ["Worked as part of the kitchen team to ensure operational cleanliness and readiness."]
-        }
-      }
-    ]
-  },
-  {
-    "company": "Popeye's Chicken and Biscuits",
-    "location": "Norfolk, VA",
-    "period": "",
-    "logo": "assets/images/employment/popeyes.png",
-    "categories": "food-service customer-service",
-    "is_public": false,
-    "notes": "Dates are approximate, based on memory.",
-    "roles": [
-      {
-        "title": "Dishwasher / Team Member",
-        "period": "Approx. 2004 - 2005",
-        "description": {
-          "it": ["Maintained sanitation standards in the dish room using a 3-compartment sink system."],
-          "cs": ["Worked as part of the kitchen team to ensure operational cleanliness and readiness."]
-        }
-      }
-    ]
-  },
-  {
-    "company": "HMS Host (MacArthur Center)",
-    "location": "Norfolk, VA",
-    "period": "",
-    "logo": "assets/images/employment/hms-host.png",
-    "categories": "food-service",
-    "is_public": false,
-    "notes": "Attended training for two days; did not begin active work.",
-    "roles": [
-      {
-        "title": "Food Court Team Member",
-        "period": "Approx. 2003 (2 days)",
-        "description": {
-          "it": ["Completed initial onboarding and training for food court operations."],
-          "cs": ["Completed initial onboarding and training for food court operations."]
         }
       }
     ]

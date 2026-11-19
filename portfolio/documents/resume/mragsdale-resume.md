@@ -1,7 +1,7 @@
 # MICHAEL P. RAGSDALE
 **Full-Stack Web Developer & Section 508 Accessibility Specialist**  
 Web Application Development • WCAG 2.1 AA / Section 508 • Cloud & Desktop Software  
-Norfolk, VA | U.S. Citizen (Prior Federal Public Trust) | [michaelpragsdale.com](https://michaelpragsdale.com) | [hello@michaelpragsdale.com](mailto:hello@michaelpragsdale.com)
+Norfolk, VA | U.S. Citizen | [michaelpragsdale.com](https://michaelpragsdale.com) | [hello@michaelpragsdale.com](mailto:hello@michaelpragsdale.com)
 
 ## Professional Summary
 Full-Stack Web Developer and Section 508 Accessibility Specialist combining institutional accessibility remediation at Old Dominion University, public-facing municipal operations with the City of Virginia Beach, and continuous hands-on software engineering. Creator of the open-source Stardust Engine CMS and an 11-property web and native desktop ecosystem spanning PHP 8.5, TypeScript, Angular, React/Next.js, SvelteKit, C#/.NET, and SwiftUI. Experienced across full-stack web development, manual screen-reader and keyboard auditing (JAWS, NVDA, VoiceOver, Deque axe), accessible document design, and Linux/Nginx cloud deployment.
@@ -54,3 +54,4 @@ Design, build, and maintain an independent software development and digital publ
   Bachelor of Science Coursework, Customized Studies in Leadership & Information Systems | Prior Coursework
 * **Wilson Workforce and Rehabilitation Center (formerly Woodrow Wilson Rehabilitation Center) | Fishersville, VA**  
   Certificate, Business & Information Technology | 2011
+* **Eligibility & Credentials:** U.S. Citizen • Commonwealth of Virginia AHP Eligible • Prior Federal Public Trust (6C) Adjudication

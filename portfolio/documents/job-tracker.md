@@ -2,10 +2,20 @@
 
 A centralized reference guide for all job applications submitted, including full job descriptions, application dates, tailored angles, and key talking points for recruiter phone screens.
 
-## Master Resume & Interview Story Baseline (Updated November 18, 2026)
-* **Primary Contact Email:** `hello@michaelpragsdale.com` (`hireme@michaelpragsdale.com` retained solely as a forwarding alias for legacy resumes).
+## Master Resume, Job-Board Target Sweet Spot & Guardrails (Updated November 18, 2026)
+* **Primary Contact Email:** `hello@michaelpragsdale.com` (`hireme@michaelpragsdale.com` retained solely as a forwarding alias for legacy resumes; Microsoft Bookings scheduling links intentionally omitted while paused).
+* **Job-Portal Phone Policy:** Public web/CDN resumes (`michaelpragsdale.com` / `assets.raggiesoft.com`) stay email-only. When generating resumes directly for ATS/job portals, run `./build-resume.sh --portal` (which reads `_resume/portal-contact-profile.md` and outputs strictly to local `_resume/resumes/`).
+* **Target Job-Board Sweet Spot (Going Forward):**
+  1. **Mid-Level Full-Stack / Web Developer** (`PHP`, `TypeScript`, `Angular` / `React`, or `C# / .NET`)
+  2. **Section 508 / Digital Accessibility Specialist** (`WCAG 2.1 AA`, manual `JAWS` / `NVDA` / `VoiceOver`, `Deque axe`, `PDF/UA-1` & Word remediation)
+  3. **Higher-Education & Municipal Web / LMS Roles** (leveraging the Commonwealth of Virginia **Alternative Hiring Process / AHP** wherever applicable)
+  4. **W-2 Federal Contractor Roles** (`VA`, `HHS`, `DoD` in Hampton Roads on-site/hybrid or Virginia remote)
+  * *Skip 7–10+ year senior commercial SaaS postings (such as Calendly / Seeq).*
+* **Strict Content Constraint — Public Trust (6C) & Employment History:**
+  * Never include short-term 2022 contractor history on any resume, cover letter, or portfolio page; anchor work history strictly on **RaggieSoft Media**, **City of Virginia Beach**, **Old Dominion University (ODU Online)**, and **Dominion Enterprises**.
+  * Never claim an `"active"` security clearance or refer to Public Trust as a national security clearance. When federal vetting history is relevant, list it strictly as **`Prior Federal Public Trust (6C) Adjudication`** without tying it to an employer (or omit if targeting pure commercial web roles).
 * **Grounded Primary Headline:** `Full-Stack Web Developer & Section 508 Accessibility Specialist` (replacing inflated solo-founder titles like `Principal Systems Architect`; RaggieSoft Media framed transparently as `Independent Full-Stack Web Developer & Creator`).
-* **Master Resume Source:** `raggiesoft-assets/portfolio/documents/resume/mragsdale-resume.md` (compiled to 2-page `.pdf` and `.docx` via `./build-resume.sh` into `_resume/resumes/`, showcasing PHP 8.5, TypeScript, Angular 19, React/Next.js, SvelteKit, C#/.NET 10 WPF, SwiftUI, and Federal Section 508 / WCAG 2.1 AA).
+* **Master Resume Source (`ISO 14289-1 PDF/UA-1` + `Section 508` + `WCAG 2.1 AA`):** `raggiesoft-assets/portfolio/documents/resume/mragsdale-resume.md` (compiled via Pandoc HTML5 + `weasyprint --pdf-variant pdf/ua-1` + `verify-pdf-508.py` into tagged 2-page `.pdf` and accessible `.docx` inside `_resume/resumes/`, with real `<H1>`/`<H2>`/`<H3>` headings, `<L>`/`<LI>` lists, `<Link>` annotations, `/Lang (en-US)`, and `/DisplayDocTitle true`).
 * **Portfolio Alignment (`michaelpragsdale.com`):** Refactored into a clean, welcoming **Engineering & Section 508 Portfolio** covering all 11 live web properties + C#/.NET & SwiftUI native apps + pure CI/CD tooling docs (`/build-team`), removing upfront recruiter gatekeeping and separating creative/family lore onto RaggieSoft's consumer domains.
 * **Coherent Career Arc:** Software development internship (`Dominion Enterprises`) $\rightarrow$ higher-ed Section 508 & Canvas LMS remediation (`ODU Online`) $\rightarrow$ public-facing municipal `Clerk-Cashier` role (`City of Virginia Beach`) while completing A.S. in IT at `TCC` $\rightarrow$ continuous independent full-stack & cross-platform software development (`Stardust Engine CMS`, 11 web apps, `.NET 10 WPF` & `SwiftUI`) $\rightarrow$ W-2 Full-Stack Web Developer / Section 508 Specialist roles (Direct Hire or W-2 Government/Enterprise Contractor).
 * **Go-To Behavioral Interview Story (*"Tell me about a time you improved an existing process"*):**
@@ -85,7 +95,7 @@ A centralized reference guide for all job applications submitted, including full
 * **Manual Testing vs. Automated Scanners:** You know firsthand from ODU that automated tools like Deque axe and WAVE only catch ~30% of WCAG violations. Emphasize your experience with screen readers (NVDA, JAWS), manual keyboard trap verification, and semantic HTML audits.
 * **DHS Trusted Tester Certification:** You are eager and ready to obtain the DHS Trusted Tester certification within the first 90 days.
 * **Developer Mindset in QA:** Because you have a full-stack engineering background, when you find a defect, you can tell the development team *why* the DOM/ARIA state failed and provide exact remediation code.
-* **Clearance Readiness:** You previously held a Public Trust clearance for an HHS contract, meaning your background investigation will be quick and smooth.
+* **Federal Vetting Readiness:** Passed federal suitability adjudication previously (`Prior Federal Public Trust (6C) Adjudication`), demonstrating a clean record ready for federal background vetting.
 
 ### Key Job Description Excerpts:
 * **Role Summary:** Conduct functional and Section 508 accessibility testing, WCAG conformance reviews, and defect tracking across federal enterprise platforms.
