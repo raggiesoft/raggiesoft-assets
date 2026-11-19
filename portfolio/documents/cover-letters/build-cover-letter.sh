@@ -69,11 +69,47 @@ if body_start != -1 and body_end != -1:
     p.write_text(prefix + "".join(parts) + suffix, encoding="utf-8")
 PY
 
-weasyprint \
-    --pdf-variant pdf/ua-1 \
-    --encoding utf-8 \
-    "$TMP_HTML" \
-    "$PDF_FILE"
+WEASY_BIN="$(command -v weasyprint)"
+WEASY_PY="$(head -n 1 "$WEASY_BIN" | sed -n 's/^#!//p' || true)"
+if [ -n "$WEASY_PY" ] && [ -x "$WEASY_PY" ]; then
+    "$WEASY_PY" - "$TMP_HTML" "$PDF_FILE" <<'PY'
+import sys, pydyf, weasyprint
+
+def describe_uri(raw: str) -> str:
+    if raw.startswith("mailto:"):
+        return f"Email Michael P. Ragsdale at {raw[len('mailto:'):]}"
+    if raw.startswith("tel:"):
+        return f"Call Michael P. Ragsdale at {raw[len('tel:'):]}"
+    known = {
+        "https://michaelpragsdale.com": "Michael P. Ragsdale portfolio website (michaelpragsdale.com)",
+        "https://github.com/raggiesoft": "RaggieSoft GitHub profile (github.com/raggiesoft)",
+        "https://raggiesoft.com": "RaggieSoft Media website (raggiesoft.com)",
+    }
+    clean = raw.rstrip("/")
+    return known.get(clean, f"Visit {raw}")
+
+def finisher(document, pdf):
+    for obj in pdf.objects:
+        if isinstance(obj, pydyf.Dictionary) and obj.get("Subtype") == "/Link" and "A" in obj:
+            action = obj["A"]
+            if isinstance(action, pydyf.Dictionary) and "URI" in action:
+                uri_bytes = action["URI"].string
+                uri_str = uri_bytes.decode("utf-8", errors="replace") if isinstance(uri_bytes, bytes) else str(uri_bytes)
+                obj["Contents"] = pydyf.String(describe_uri(uri_str))
+
+weasyprint.HTML(filename=sys.argv[1], encoding="utf-8").write_pdf(
+    sys.argv[2],
+    pdf_variant="pdf/ua-1",
+    finisher=finisher,
+)
+PY
+else
+    weasyprint \
+        --pdf-variant pdf/ua-1 \
+        --encoding utf-8 \
+        "$TMP_HTML" \
+        "$PDF_FILE"
+fi
 
 pandoc "$MD_FILE" \
     -f markdown \

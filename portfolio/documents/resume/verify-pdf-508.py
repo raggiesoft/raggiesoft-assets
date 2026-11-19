@@ -117,7 +117,21 @@ def verify_pdf(pdf_path: pathlib.Path, require_h2: bool = True) -> list[str]:
     if p_count < 1:
         errors.append("Expected semantic `<P>` paragraph structure elements, found 0.")
 
-    # 7. Accessible Hyperlink Annotations
+    # 7. Embedded Fonts (ISO 14289-1 Clause 7.21.4) & Decorative Artifact Hygiene
+    font_descriptors = re.findall(r"<<[\s\S]*?/Type\s*/FontDescriptor[\s\S]*?>>", corpus)
+    embedded_fonts = sum(1 for fd in font_descriptors if re.search(r"/FontFile[23]?\b", fd))
+    if len(font_descriptors) == 0:
+        errors.append("Detected 0 `/Type /FontDescriptor` font dictionaries in PDF.")
+    elif embedded_fonts < len(font_descriptors):
+        errors.append(
+            f"Unembedded font detected: {embedded_fonts} of {len(font_descriptors)} FontDescriptors embed `/FontFile*`."
+        )
+
+    artifact_count = len(re.findall(r"/Artifact\b", corpus))
+    if artifact_count < 1:
+        errors.append("Expected `/Artifact` marks on decorative rules/running footers, found 0.")
+
+    # 8. Accessible Hyperlink Annotations
     link_annots = re.findall(r"<<[\s\S]*?/Subtype\s*/Link[\s\S]*?>>\s*endobj", corpus)
     link_struct_count = len(re.findall(r"/S\s*/Link\b", corpus))
     if len(link_annots) > 0 and link_struct_count < 1:
@@ -134,7 +148,8 @@ def verify_pdf(pdf_path: pathlib.Path, require_h2: bool = True) -> list[str]:
     li_count = len(re.findall(r"/S\s*/LI\b", corpus))
     print(
         f"  [508/PDF-UA PASS CHECK] {pdf_path.name}: pages={page_count}, headings=({h_summary}), "
-        f"paragraphs={p_count}, list_items={li_count}, links={link_struct_count}"
+        f"paragraphs={p_count}, list_items={li_count}, links={link_struct_count}, "
+        f"embedded_fonts={embedded_fonts}/{len(font_descriptors)}, artifacts={artifact_count}"
     )
     return errors
 

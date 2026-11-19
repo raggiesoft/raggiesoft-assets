@@ -29,7 +29,7 @@
     ]
   },
   {
-    "company": "RaggieSoft (Personal Brand & Projects)",
+    "company": "RaggieSoft Media",
     "location": "Norfolk, VA",
     "period": "",
     "logo": "assets/images/employment/raggiesoft.png",
@@ -37,17 +37,18 @@
     "is_public": true,
     "roles": [
       {
-        "title": "Independent Developer & Lifelong Learner",
-        "period": "July 2022 - Present",
+        "title": "Independent Full-Stack Web Developer & Open-Source Maintainer",
+        "period": "2008 – Present",
         "description": {
           "it": [
-            "Developing personal projects to demonstrate and sharpen skills in modern web technologies.",
-            "Built this portfolio website from scratch using a custom PHP backend, modern SCSS, and vanilla JavaScript with a focus on WCAG accessibility.",
-            "Actively learning and implementing new technologies and best practices through self-guided study and practical application, including advanced CSS, JavaScript, and PHP libraries."
+            "Built and open-sourced Stardust Engine CMS (MIT License), a lightweight PHP 8.5 MVC and JSON-routed web framework, alongside decoupled production web applications in Angular 19, SvelteKit, React / Next.js, Astro, and Nuxt across 11 live web properties.",
+            "Developed companion native applications in C# / .NET 10 WPF (Windows) and SwiftUI (macOS, iOS, iPadOS) that consume static REST/JSON APIs and synchronized WebVTT streams with full keyboard navigation and native screen-reader (UIAutomation / VoiceOver) support.",
+            "Implement WCAG 2.1 AA and Section 508 standards across custom modals, audio players, long-form readers, Light/Dark/High-Contrast (forced-colors) themes, and a dual-layer HTML5 <canvas> interface backed by a synchronized semantic DOM/ARIA accessibility layer.",
+            "Manage Ubuntu Linux and Nginx virtual hosts on DigitalOcean, Cloudflare DNS/SSL routing, and automated Bash, PHP, Node.js, FFmpeg, Pandoc, and WeasyPrint PDF/UA-1 build pipelines."
           ],
           "cs": [
-            "A platform for self-driven learning and personal project management, demonstrating strong initiative and a passion for technology.",
-            "Highlights a commitment to continuous improvement and skill acquisition outside of formal employment roles."
+            "Design, build, and maintain an accessible 11-property consumer web and native desktop software ecosystem focused on intuitive navigation, plain-language interfaces, and WCAG 2.1 AA / Section 508 compliance.",
+            "Author and maintain open-source MIT software documentation and accessible EPUB / PDF/UA-1 digital editions."
           ]
         }
       }
