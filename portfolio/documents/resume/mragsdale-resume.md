@@ -1,14 +1,14 @@
 # MICHAEL P. RAGSDALE
 **Full-Stack Web Developer & Section 508 Accessibility Specialist**  
 Web Application Development • WCAG 2.1 AA / Section 508 • Cloud & Desktop Software  
-Norfolk, VA | U.S. Citizen | [michaelpragsdale.com](https://michaelpragsdale.com) | [hello@michaelpragsdale.com](mailto:hello@michaelpragsdale.com)
+Norfolk, VA | [michaelpragsdale.com](https://michaelpragsdale.com) | [github.com/raggiesoft](https://github.com/raggiesoft) | [hello@michaelpragsdale.com](mailto:hello@michaelpragsdale.com)
 
 ## Professional Summary
 Full-Stack Web Developer and Section 508 Accessibility Specialist combining institutional accessibility remediation at Old Dominion University, public-facing municipal operations with the City of Virginia Beach, and continuous hands-on software engineering. Creator of the open-source Stardust Engine CMS and an 11-property web and native desktop ecosystem spanning PHP 8.5, TypeScript, Angular, React/Next.js, SvelteKit, C#/.NET, and SwiftUI. Experienced across full-stack web development, manual screen-reader and keyboard auditing (JAWS, NVDA, VoiceOver, Deque axe), accessible document design, and Linux/Nginx cloud deployment.
 
 ## Technical Skills
 * **Languages & Web Frameworks:** TypeScript, JavaScript (ES6+), PHP 8.5, HTML5, Modern CSS3 (`@layer`, `subgrid`, `@container`), Angular 19, React 19 / Next.js, Svelte 5 / SvelteKit, Astro, Vue / Nuxt, SQL, Python, Bash
-* **Accessibility & Section 508:** Federal Section 508, WCAG 2.1 AA, Manual Screen-Reader Testing (JAWS, NVDA, VoiceOver, Narrator), Deque axe, WAVE, Accessible Document Design (Word, PDF), Dual-Layer Canvas ARIA
+* **Accessibility & Section 508:** Federal Section 508, WCAG 2.1 AA, Manual Screen-Reader Testing (JAWS, NVDA, VoiceOver, Narrator), Deque axe, WAVE, Accessible Document Design (Word, PDF/UA-1), Dual-Layer Canvas ARIA
 * **Desktop & Native Platforms:** C# / .NET 10 (WPF, Named Pipes IPC, UIAutomation), Swift / SwiftUI (macOS, iOS, iPadOS), Visual Basic 6.0 / Win32, Inno Setup
 * **Cloud, Linux & Operational Tools:** Ubuntu Linux, Nginx, DigitalOcean (Droplets & Spaces S3 CDN), Cloudflare DNS/SSL, Git, CI/CD Scripting, FFmpeg, WebVTT Captioning, ActiveNet, Microsoft Office
 
@@ -21,8 +21,8 @@ Design, build, and maintain an independent software development and digital publ
 * **Full-Stack Web & CMS Development:** Built and open-sourced **Stardust Engine CMS** (MIT License), a lightweight PHP 8.5 MVC and JSON-routed web framework, alongside decoupled production web applications in **Angular 19**, **SvelteKit**, **React / Next.js**, **Astro**, and **Nuxt** across 11 live web properties.
 * **Cross-Platform Desktop & Mobile Apps:** Developed companion native applications in **C# / .NET 10 WPF** (Windows) and **SwiftUI** (macOS, iOS, iPadOS) that consume static JSON APIs and synchronized WebVTT lyric streams with full keyboard navigation and native screen-reader (`UIAutomation` / VoiceOver) support.
 * **Accessibility by Design:** Implement **WCAG 2.1 AA** and **Section 508** standards across custom modals, audio players, long-form readers, Light/Dark/High-Contrast (`forced-colors`) themes, and a Dual-Layer HTML5 `<canvas>` + ARIA Shadow DOM interface.
-* **Linux Cloud & CI/CD Automation:** Manage **Ubuntu Linux** and **Nginx** virtual hosts on DigitalOcean, **Cloudflare** DNS/edge routing, and automated Bash/PHP/Node.js build and deployment scripts (`jenna-sync.sh`, `sarah-deploy.sh`, `paige.php`) with S3-compatible CDN asset synchronization.
-* **Media & Publishing Pipelines:** Built command-line **FFmpeg**, **PHP GD**, and **Pandoc** workflows to normalize multi-format audio streams, validate synchronized **WebVTT** captions, generate Open Graph social cards, and compile accessible EPUB and PDF editions.
+* **Linux Cloud & CI/CD Automation:** Manage **Ubuntu Linux** and **Nginx** virtual hosts on DigitalOcean, **Cloudflare** DNS/edge routing, and automated Bash, PHP, and Node.js build and deployment pipelines with S3-compatible CDN asset synchronization.
+* **Media & Publishing Pipelines:** Built command-line **FFmpeg**, **PHP GD**, **Pandoc**, and **WeasyPrint** workflows to normalize multi-format audio streams, validate synchronized **WebVTT** captions, generate Open Graph social cards, and compile accessible EPUB and PDF/UA-1 editions.
 
 ### Clerk-Cashier
 **City of Virginia Beach Parks & Recreation | Virginia Beach, VA | May 2023 – Present**

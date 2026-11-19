@@ -82,3 +82,7 @@ a {
   text-decoration: underline;
   text-underline-offset: 1.5pt;
 }
+
+.nowrap-compound {
+  white-space: nowrap;
+}

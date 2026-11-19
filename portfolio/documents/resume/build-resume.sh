@@ -6,17 +6,20 @@
 #   1. ISO 14289-1 (`PDF/UA-1`), Federal Section 508, & WCAG 2.1 AA Tagged PDFs
 #      (via Pandoc semantic HTML5 -> `weasyprint --pdf-variant pdf/ua-1`) with
 #      real `<H1>`/`<H2>`/`<H3>` headings, `<L>`/`<LI>` lists, `<Link>` tags,
-#      `/Lang (en-US)`, `/DisplayDocTitle true`, `/Tabs /S`, and PDF Bookmarks.
-#   2. Accessible Microsoft Word `.docx` packages with explicit `title`,
-#      `author`, `lang=en-US` metadata and native `Heading 1..3` styles.
+#      `/Lang (en-US)`, `/DisplayDocTitle true`, `/Tabs /S`, PDF Bookmarks, and
+#      unbroken hyphenated compounds for 100% clean ATS ASCII text extraction.
+#   2. Private Local-Only Accessible Microsoft Word `.docx` packages inside
+#      `_resume/resumes/` (NEVER published to `raggiesoft-assets/` or the public
+#      CDN, preventing unauthorized recruiter re-editing while keeping a clean
+#      single-column `.docx` ready on local NVMe for DOCX-only ATS portals).
 #   3. Verified automatically via `./verify-pdf-508.py` on every build.
 #
 # Modes:
 #   - `./build-resume.sh [file.md]`
-#       Builds public email-only `.pdf` and `.docx` in `raggiesoft-assets/...`
-#       and mirrors them into local NVMe `_resume/resumes/`.
+#       Builds public email-only `.pdf` in `raggiesoft-assets/...` and mirrors
+#       both `.pdf` and local-only `.docx` into `_resume/resumes/`.
 #   - `./build-resume.sh --portal [file.md]`
-#       Injects direct job-portal phone number from local `_resume/portal-contact-profile.md`
+#       Injects direct job-portal phone number from `_resume/portal-contact-profile.md`
 #       and writes `<basename>-portal.pdf` + `<basename>-portal.docx` strictly
 #       into local `_resume/resumes/` (never synced to public CDN).
 # ==============================================================================
@@ -69,7 +72,8 @@ PY
     OUT_DOCX="$OUTPUT_DIR/${BASENAME}-portal.docx"
 else
     OUT_PDF="${BASENAME}.pdf"
-    OUT_DOCX="${BASENAME}.docx"
+    # DOCX is ALWAYS generated strictly in local `_resume/resumes/`, never in public `raggiesoft-assets/`
+    OUT_DOCX="$OUTPUT_DIR/${BASENAME}.docx"
 fi
 
 TMP_HTML="$TMP_DIR/${BASENAME}.html"
@@ -87,13 +91,43 @@ pandoc "$SOURCE_MD" \
     --metadata description-meta="$DOC_DESC" \
     -o "$TMP_HTML"
 
+# Keep hyphenated technical compounds unbroken across right-margin wraps so Pango/WeasyPrint
+# never substitutes an end-of-line hyphen glyph that ATS PDF text extractors read as U+FFFD.
+python3 - "$TMP_HTML" <<'PY'
+import pathlib, re, sys
+p = pathlib.Path(sys.argv[1])
+html = p.read_text(encoding="utf-8")
+body_start = html.find("<main>")
+body_end = html.rfind("</main>")
+if body_start != -1 and body_end != -1:
+    prefix = html[:body_start]
+    main_html = html[body_start:body_end]
+    suffix = html[body_end:]
+    parts = re.split(r"(<[^>]+>)", main_html)
+    in_code_or_a = 0
+    for idx, tok in enumerate(parts):
+        if tok.startswith("<"):
+            low = tok.lower()
+            if re.match(r"^<(a|code)\b", low):
+                in_code_or_a += 1
+            elif re.match(r"^</(a|code)\b", low):
+                in_code_or_a = max(0, in_code_or_a - 1)
+        elif in_code_or_a == 0:
+            parts[idx] = re.sub(
+                r"\b([A-Za-z0-9]+(?:-[A-Za-z0-9]+)+)\b",
+                r'<span class="nowrap-compound">\1</span>',
+                tok,
+            )
+    p.write_text(prefix + "".join(parts) + suffix, encoding="utf-8")
+PY
+
 weasyprint \
     --pdf-variant pdf/ua-1 \
     --encoding utf-8 \
     "$TMP_HTML" \
     "$OUT_PDF"
 
-echo "Building Accessible Section 508 DOCX: $OUT_DOCX ..."
+echo "Building Local-Only Accessible Section 508 DOCX (for DOCX-only ATS portals): $OUT_DOCX ..."
 pandoc "$SOURCE_MD" \
     -f markdown \
     -t docx \
@@ -106,8 +140,7 @@ python3 ./verify-pdf-508.py "$OUT_PDF" "$OUT_DOCX"
 
 if [ "$PORTAL_MODE" = false ]; then
     cp "$OUT_PDF" "$OUTPUT_DIR/"
-    cp "$OUT_DOCX" "$OUTPUT_DIR/"
-    echo "Done! Verified & mirrored $OUT_PDF and $OUT_DOCX to $OUTPUT_DIR."
+    echo "Done! Verified public PDF ($OUT_PDF) and mirrored PDF + local-only DOCX to $OUTPUT_DIR."
 else
-    echo "Done! Verified portal-only resume (with phone) in $OUTPUT_DIR."
+    echo "Done! Verified portal-only PDF & DOCX (with phone) in $OUTPUT_DIR."
 fi
