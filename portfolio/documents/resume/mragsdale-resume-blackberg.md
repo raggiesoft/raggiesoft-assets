@@ -8,9 +8,9 @@ Senior Front-End Developer and Systems Architect with over 15 years of experienc
 
 ## Technical Skills
 * **Front-End & UI:** JavaScript (ES6+), HTML5, CSS3, SPA Architecture, DOM Manipulation
-* **Accessibility:** WCAG 2.1 AA, Section 508, U.S. Web Design System (USWDS) principles, Deque axe
-* **Infrastructure & Tooling:** Git, GitHub/GitLab Workflows, RESTful APIs, Webpack/Build Pipelines
-* **Design Integration:** Adobe Creative Suite, Mockup Translation, Component-Based Architecture
+* **Accessibility:** Code-Level WCAG 2.1 AA & Section 508 Web Compliance, U.S. Web Design System (USWDS) principles, Semantic HTML5 & WAI-ARIA, Deque axe
+* **Infrastructure & Tooling:** Git, GitHub/GitLab Workflows, REST/JSON APIs, Build Pipelines
+* **UI Engineering:** CSS (`@layer`, `subgrid`, container queries), Mockup Translation, Component-Based Architecture
 
 ## Relevant Technical Experience
 
@@ -29,10 +29,10 @@ Founded and operate RaggieSoft Media, an independent software development and di
 **City of Virginia Beach Parks & Recreation | Virginia Beach, VA | May 2023 – Present**
 
 * **Front Desk & Customer Support:** Support daily recreation center operations by assisting patrons in person and by telephone, processing payments, issuing memberships, checking members into the facility, and resolving account and service questions.
-* **Operational Data Processing & Accessible Design:** Extract room-rental information from ActiveNet and convert complex reservation records into a concise, standardized Microsoft Word reference built with Section 508 accessible-document hierarchy for Front Desk staff.
-* **Technical Support & Process Improvement:** Serve as a practical technical resource for coworkers using ActiveNet and Microsoft Office while applying a software-development and accessibility background to streamline Front Desk information workflows.
+* **Operational Data Processing:** Extract room-rental data from ActiveNet, transform complex reservation records into a standardized Microsoft Word reference, and organize an at-a-glance view of weekend facility use for Front Desk staff.
+* **Technical Support & Process Improvement:** Serve as a practical technical resource for coworkers using ActiveNet and Microsoft Office while applying a software-development background to streamline Front Desk information workflows.
 
-### Section 508 Compliance Specialist (Computer Operations)
+### Computer Operations (Code-Level Web & LMS Accessibility)
 **Old Dominion University (ODU Online) | Norfolk, VA | Nov 2019 – Jul 2022**
 
 * **Enterprise Accessibility Strategy:** Served as the primary technical gatekeeper for enterprise-level web content during a massive, university-wide digital infrastructure migration to the Canvas LMS.

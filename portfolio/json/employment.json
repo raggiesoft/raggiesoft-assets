@@ -12,7 +12,7 @@
         "period": "May 2023 – Present",
         "description": {
           "it": [
-            "Developed a workflow to generate accessible, Section 508 compliant, and printer-friendly documents from a legacy system not designed for such outputs.",
+            "Extract room-rental data from ActiveNet, transform complex reservation records into a standardized Microsoft Word reference, and organize an at-a-glance view of weekend facility use for Front Desk staff.",
             "Trained new employees on the use of the ActiveNet customer relationship management (CRM) system, ensuring data integrity.",
             "Supervise front desk operations, making independent technical and policy-aligned decisions.",
             "Manage member check-in and secure payment processing, both in-person and telephonically."
@@ -43,12 +43,12 @@
           "it": [
             "Built and open-sourced Stardust Engine CMS (MIT License), a lightweight PHP 8.5 MVC and JSON-routed web framework, alongside decoupled production web applications in Angular 19, SvelteKit, React / Next.js, Astro, and Nuxt across 11 live web properties.",
             "Developed companion native applications in C# / .NET 10 WPF (Windows) and SwiftUI (macOS, iOS, iPadOS) that consume static REST/JSON APIs and synchronized WebVTT streams with full keyboard navigation and native screen-reader (UIAutomation / VoiceOver) support.",
-            "Implement WCAG 2.1 AA and Section 508 standards across custom modals, audio players, long-form readers, Light/Dark/High-Contrast (forced-colors) themes, and a dual-layer HTML5 <canvas> interface backed by a synchronized semantic DOM/ARIA accessibility layer.",
-            "Manage Ubuntu Linux and Nginx virtual hosts on DigitalOcean, Cloudflare DNS/SSL routing, and automated Bash, PHP, Node.js, FFmpeg, Pandoc, and WeasyPrint PDF/UA-1 build pipelines."
+            "Implement code-level WCAG 2.1/2.2 AA and Section 508 web standards across custom modals, SPA focus management, BCP 47 multilingual lang markup, Light/Dark/High-Contrast (forced-colors) themes, and a dual-layer HTML5 <canvas> interface backed by a synchronized semantic DOM/ARIA accessibility layer.",
+            "Manage Ubuntu Linux and Nginx virtual hosts on DigitalOcean, Cloudflare DNS/SSL routing, and automated Bash, PHP, Node.js, FFmpeg, and Pandoc build pipelines."
           ],
           "cs": [
-            "Design, build, and maintain an accessible 11-property consumer web and native desktop software ecosystem focused on intuitive navigation, plain-language interfaces, and WCAG 2.1 AA / Section 508 compliance.",
-            "Author and maintain open-source MIT software documentation and accessible EPUB / PDF/UA-1 digital editions."
+            "Design, build, and maintain an accessible 11-property consumer web and native desktop software ecosystem focused on intuitive navigation, plain-language interfaces, and WCAG 2.1 AA web compliance.",
+            "Author and maintain open-source MIT software documentation and automated multi-format digital publications."
           ]
         }
       }
@@ -63,16 +63,16 @@
     "is_public": true,
     "roles": [
       {
-        "title": "Section 508 Compliance Specialist",
+        "title": "Computer Operations (Code-Level Web & LMS Accessibility)",
         "period": "Nov 2019 – Jul 2022",
         "description": {
           "it": [
-            "Ensured WCAG 2.1 AA & Section 508 compliance for online courses; remediated pages, verified student code, used Deque axe for reporting, and migrated content to Canvas."
+            "Audited source HTML and CSS across ODU Online's custom Personal Learning Environment (PLE) and Canvas LMS course modules using Deque axe, WAVE, and manual JAWS/NVDA testing, refactoring visual-only markup into semantic HTML5 (<th scope=\"col/row\">, landmarks, explicit labels) and building reusable WCAG/Section 508 web-compliant Canvas HTML/CSS templates."
           ],
           "cs": [
-            "Provided critical support to internal customers (university instructional designers) during a large-scale migration to the Canvas LMS.",
-            "Designed and developed a universal, accessible template for the University Policies section of the syllabus, streamlining workflow for faculty and ensuring consistency across all online courses.",
-            "Verified documents and web content submitted by student employees for quality and compliance."
+            "Collaborated with university instructional designers during a large-scale migration from ODU's custom PLE to the Canvas LMS.",
+            "Engineered zero-dependency, WCAG 2.1 AA web-compliant HTML/CSS course module and syllabus templates adopted by faculty across university online courses.",
+            "Reviewed web markup and course HTML pages prepared by student workers for semantic structure and WCAG 2.1 AA web compliance."
           ]
         }
       }

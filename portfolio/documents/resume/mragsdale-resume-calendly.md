@@ -29,10 +29,10 @@ Founded and operate RaggieSoft Media, an independent software development and di
 **City of Virginia Beach Parks & Recreation | Virginia Beach, VA | May 2023 – Present**
 
 * **Front Desk & Customer Support:** Support daily recreation center operations by assisting patrons in person and by telephone, processing payments, issuing memberships, checking members into the facility, and resolving account and service questions.
-* **Operational Data Processing & Accessible Design:** Extract room-rental information from ActiveNet and convert complex reservation records into a concise, standardized Microsoft Word reference structured with Section 508 accessible-document principles for Front Desk staff.
+* **Operational Data Processing:** Extract room-rental data from ActiveNet, transform complex reservation records into a standardized Microsoft Word reference, and organize an at-a-glance view of weekend facility use for Front Desk staff.
 * **Technical Support & Process Improvement:** Serve as a technical resource for coworkers using ActiveNet and Microsoft Office while applying a software-development background to improve Front Desk information workflows.
 
-### Web Accessibility Specialist (Computer Operations)
+### Computer Operations (Code-Level Web & LMS Accessibility)
 **Old Dominion University (ODU Online) | Norfolk, VA | Nov 2019 – Jul 2022**
 
 * **Enterprise Web Quality:** Served as the primary technical gatekeeper for web content quality and accessibility during a massive, university-wide digital infrastructure migration to the Canvas LMS.

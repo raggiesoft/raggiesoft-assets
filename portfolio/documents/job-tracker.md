@@ -2,25 +2,26 @@
 
 A centralized reference guide for all job applications submitted, including full job descriptions, application dates, tailored angles, and key talking points for recruiter phone screens.
 
-## Master Resume, Job-Board Target Sweet Spot & Guardrails (Updated November 18, 2026)
+## Master Resume, Job-Board Target Sweet Spot & Guardrails (Updated November 19, 2026)
 * **Primary Contact Email:** `hello@michaelpragsdale.com` (`hireme@michaelpragsdale.com` retained solely as a forwarding alias for legacy resumes; Microsoft Bookings scheduling links intentionally omitted while paused).
 * **Job-Portal Phone Policy:** Public web/CDN resumes (`michaelpragsdale.com` / `assets.raggiesoft.com`) stay email-only. When generating resumes directly for ATS/job portals, run `./build-resume.sh --portal` (which reads `_resume/portal-contact-profile.md` and outputs strictly to local `_resume/resumes/`).
 * **Target Job-Board Sweet Spot (Going Forward):**
-  1. **Mid-Level Full-Stack / Web Developer** (`PHP`, `TypeScript`, `Angular` / `React`, or `C# / .NET`)
-  2. **Section 508 / Digital Accessibility Specialist** (`WCAG 2.1 AA`, manual `JAWS` / `NVDA` / `VoiceOver`, `Deque axe`, `PDF/UA-1` & Word remediation)
-  3. **Higher-Education & Municipal Web / LMS Roles** (leveraging the Commonwealth of Virginia **Alternative Hiring Process / AHP** wherever applicable)
-  4. **W-2 Federal Contractor Roles** (`VA`, `HHS`, `DoD` in Hampton Roads on-site/hybrid or Virginia remote)
-  * *Skip 7–10+ year senior commercial SaaS postings (such as Calendly / Seeq).*
-* **Strict Content Constraint — Public Trust (6C) & Employment History:**
+  1. **Mid-Level Full-Stack / Web Developer** (`PHP`, `TypeScript`, `Angular` / `React`, `REST/JSON APIs`, or `C# / .NET`)
+  2. **Code-Level Web Accessibility / UI Engineer** (`WCAG 2.1/2.2 AA`, `ADA Title II` & `Revised Section 508` web criteria, semantic `HTML5`, `WAI-ARIA`, JS focus management, manual `JAWS` / `NVDA` / `VoiceOver`, `Deque axe` — **strictly source-code & web architecture, never back-office PDF or Captivate seats**)
+  3. **Higher-Education & Municipal Web / LMS Engineering Roles** (leveraging the Commonwealth of Virginia **Alternative Hiring Process / AHP** wherever applicable)
+  4. **W-2 Federal / Enterprise Web Engineering Roles** (`VA`, `DoD`, or civilian web teams in Hampton Roads on-site/hybrid or Virginia remote)
+  * *Skip 7–10+ year senior commercial SaaS postings (such as Calendly / Seeq) and skip LPTA PDF/eLearning remediation postings.*
+* **Strict Content Constraint — Public Trust (6C), Employment History, & Code-Level Web Accessibility Framing:**
   * Never include short-term 2022 contractor history on any resume, cover letter, or portfolio page; anchor work history strictly on **RaggieSoft Media**, **City of Virginia Beach**, **Old Dominion University (ODU Online)**, and **Dominion Enterprises**.
   * Never claim an `"active"` security clearance or refer to Public Trust as a national security clearance. When federal vetting history is relevant, list it strictly as **`Prior Federal Public Trust (6C) Adjudication`** without tying it to an employer (or omit if targeting pure commercial web roles).
-* **Grounded Primary Headline:** `Full-Stack Web Developer & Section 508 Accessibility Specialist` (replacing inflated solo-founder titles like `Principal Systems Architect`; RaggieSoft Media framed transparently as `Independent Full-Stack Web Developer & Open-Source Maintainer`).
-* **Master Resume Source (`ISO 14289-1 PDF/UA-1` + `Section 508` + `WCAG 2.1 AA`):** `raggiesoft-assets/portfolio/documents/resume/mragsdale-resume.md`. Public web/CDN exposes **PDF only** (preventing third-party recruiter tampering/re-editing), while `./build-resume.sh` and `./build-resume.sh --portal` compile clean single-column `.docx` copies strictly into local `_resume/resumes/` for ATS portals that reject PDF.
-* **Portfolio Alignment (`michaelpragsdale.com`):** Refactored into a clean, welcoming **Engineering & Section 508 Portfolio** covering all 11 live web properties + C#/.NET & SwiftUI native apps + pure CI/CD tooling docs (`/build-team`), removing upfront recruiter gatekeeping and separating creative/family lore onto RaggieSoft's consumer domains.
-* **Coherent Career Arc:** Software development internship (`Dominion Enterprises`) $\rightarrow$ higher-ed Section 508 & Canvas LMS remediation (`ODU Online`) $\rightarrow$ public-facing municipal `Clerk-Cashier` role (`City of Virginia Beach`) while completing A.S. in IT at `TCC` $\rightarrow$ continuous independent full-stack & cross-platform software development (`Stardust Engine CMS`, 11 web apps, `.NET 10 WPF` & `SwiftUI`) $\rightarrow$ W-2 Full-Stack Web Developer / Section 508 Specialist roles (Direct Hire or W-2 Government/Enterprise Contractor).
+  * **Code-Level Web Accessibility ONLY (Avoiding the PDF/Captivate Recruiter Trap):** Never use standalone phrases like `"Section 508 Remediation"`, `"Document Accessibility"`, `"PDF Remediation"`, or `"508 Specialist"`; always pair `"Section 508"` with web/code qualifiers (`"Code-Level WCAG 2.1/2.2 AA & Section 508 Web Accessibility"`, `"Source-Level Web & LMS Accessibility Compliance"`), and never list Acrobat Pro, PDF tag-tree editing, Captivate, SCORM, or Trusted Tester in skills, JSON, or prose.
+* **Grounded Primary Headline:** `Full-Stack Web Developer & Web Accessibility Engineer` (replacing `Section 508 Specialist` / `Principal Systems Architect`; RaggieSoft Media framed transparently as `Independent Full-Stack Web Developer & Open-Source Maintainer`).
+* **Master Resume Source:** `raggiesoft-assets/portfolio/documents/resume/mragsdale-resume.md`. Public web/CDN exposes **PDF only** (preventing third-party recruiter tampering/re-editing), while `./build-resume.sh` and `./build-resume.sh --portal` compile clean single-column `.docx` copies strictly into local `_resume/resumes/` for ATS portals that reject PDF.
+* **Portfolio Alignment (`michaelpragsdale.com`):** Refactored into a clean, welcoming **Full-Stack & Web Accessibility Portfolio** covering all 11 live web properties + C#/.NET & SwiftUI native apps + pure CI/CD tooling docs (`/build-team`), removing upfront recruiter gatekeeping and separating creative/family lore onto RaggieSoft's consumer domains.
+* **Coherent Career Arc:** Software development internship (`Dominion Enterprises`) $\rightarrow$ higher-ed source-level PLE & Canvas LMS web accessibility engineering (`ODU Online`) $\rightarrow$ public-facing municipal `Clerk-Cashier` role (`City of Virginia Beach`) while completing A.S. in IT at `TCC` $\rightarrow$ continuous independent full-stack & cross-platform software development (`Stardust Engine CMS`, 11 web apps, `.NET 10 WPF` & `SwiftUI`) $\rightarrow$ W-2 Full-Stack Web Developer / Web Accessibility Engineer roles (Direct Hire or W-2 Government/Enterprise Contractor).
 * **Go-To Behavioral Interview Story (*"Tell me about a time you improved an existing process"*):**
   * **Problem:** ActiveNet holds all recreation center reservation data, yet its dense interface isn't an efficient quick reference when Front Desk staff are simultaneously helping walk-up patrons, answering phones, and checking members in.
-  * **Action:** Extracted weekend room-rental records from ActiveNet, verified and reorganized the schedule, and applied Section 508 accessible-document structure (consistent hierarchy, clean layout) to produce a standardized, concise Microsoft Word reference sheet—while also serving as an approachable technical resource for coworkers on ActiveNet and Microsoft Office.
+  * **Action:** Extracted weekend room-rental records from ActiveNet, verified and transformed the schedule records, and organized them with consistent tabular hierarchy into a standardized, concise Microsoft Word reference sheet—while also serving as an approachable technical resource for coworkers on ActiveNet and Microsoft Office.
   * **Result:** Front Desk staff have an immediate at-a-glance physical/digital reference for weekend facility rentals without digging through raw ActiveNet screens mid-rush.
 
 ---
@@ -92,8 +93,7 @@ A centralized reference guide for all job applications submitted, including full
 * **Status:** No response / No interview callback (as of November 18, 2026)
 
 ### Elevator Pitch & Talking Points:
-* **Manual Testing vs. Automated Scanners:** You know firsthand from ODU that automated tools like Deque axe and WAVE only catch ~30% of WCAG violations. Emphasize your experience with screen readers (NVDA, JAWS), manual keyboard trap verification, and semantic HTML audits.
-* **DHS Trusted Tester Certification:** You are eager and ready to obtain the DHS Trusted Tester certification within the first 90 days.
+* **Manual Testing vs. Automated Scanners:** You know firsthand from ODU that automated tools like Deque axe and WAVE only catch ~30% of WCAG violations. Emphasize your experience with screen readers (NVDA, JAWS), manual keyboard trap verification, and semantic HTML5 source audits (`note: going forward, avoid pure QA/Trusted-Tester postings that risk turning into back-office PDF tagging seats`).
 * **Developer Mindset in QA:** Because you have a full-stack engineering background, when you find a defect, you can tell the development team *why* the DOM/ARIA state failed and provide exact remediation code.
 * **Federal Vetting Readiness:** Passed federal suitability adjudication previously (`Prior Federal Public Trust (6C) Adjudication`), demonstrating a clean record ready for federal background vetting.
 

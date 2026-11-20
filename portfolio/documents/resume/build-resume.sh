@@ -40,9 +40,9 @@ OUTPUT_DIR="$(cd ../../../../_resume/resumes 2>/dev/null && pwd || echo "$(pwd)/
 PORTAL_PROFILE="$(cd ../../../../_resume 2>/dev/null && pwd || echo "$(pwd)/../../../../_resume")/portal-contact-profile.md"
 mkdir -p "$OUTPUT_DIR"
 
-DOC_TITLE="Michael P. Ragsdale — Full-Stack Web Developer & Section 508 Accessibility Specialist (Resume)"
+DOC_TITLE="Michael P. Ragsdale — Full-Stack Web Developer & Web Accessibility Engineer (Resume)"
 DOC_AUTHOR="Michael P. Ragsdale"
-DOC_DESC="Accessible Section 508 and PDF/UA-1 resume of Michael P. Ragsdale, Full-Stack Web Developer and Section 508 Accessibility Specialist in Norfolk, VA."
+DOC_DESC="Resume of Michael P. Ragsdale, Full-Stack Web Developer and Web Accessibility Engineer in Norfolk, VA specializing in TypeScript, PHP 8.5, Angular, React, C#/.NET, SwiftUI, and code-level WCAG 2.1/2.2 AA & Section 508 web compliance."
 
 TMP_DIR="$(mktemp -d)"
 trap 'rm -rf "$TMP_DIR"' EXIT

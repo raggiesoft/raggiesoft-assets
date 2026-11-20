@@ -8,7 +8,7 @@ During my time at Old Dominion University (ODU Online), I served as the primary 
 
 My background as a software architect (building custom PHP/Vanilla JS MVC frameworks) gives me a unique advantage in QA. When I identify a defect, I don't just report that it's broken; I understand *why* the underlying DOM, JavaScript event, or ARIA state failed, which allows me to provide highly actionable remediation guidance to the development team. 
 
-Furthermore, I am highly motivated to formalize my manual testing expertise by obtaining the DHS Trusted Tester Certification within the first 90 days of employment. With a prior favorable Federal Public Trust (6C) suitability adjudication, I am well-prepared for federal background vetting and onboarding.
+With a prior favorable Federal Public Trust (6C) suitability adjudication and hands-on experience auditing web applications against WCAG 2.1 AA and Revised Section 508 web standards, I am well-prepared for federal background vetting and technical onboarding.
 
 I am excited about the opportunity to bring my passion for rigorous, human-centered accessibility testing to NuAxis. Thank you for your time and consideration, and I look forward to the possibility of discussing how my skills align with your team's goals.
 
