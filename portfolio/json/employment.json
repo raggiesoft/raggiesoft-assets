@@ -64,7 +64,7 @@
         "period": "Nov 2019 – Jul 2022",
         "description": {
           "it": [
-            "Audited source HTML and CSS across ODU Online's custom Personal Learning Environment (PLE) and Canvas LMS course modules using Deque axe, WAVE, and manual JAWS/NVDA testing, refactoring visual-only markup into semantic HTML5 (<th scope=\"col/row\">, landmarks, explicit labels) and building reusable WCAG/Section 508 web-compliant Canvas HTML/CSS templates.",
+            "Audited source HTML and CSS across ODU Online's custom Personal Learning Environment (PLE) and Canvas LMS course modules using Deque axe, WAVE, and manual JAWS/NVDA testing, refactoring visual-only markup into semantic HTML5 (scoped table headers, landmarks, explicit labels) and building reusable WCAG/Section 508 web-compliant Canvas HTML/CSS templates.",
             "Independently developed a self-initiated Windows desktop batch utility (C# / .NET 5 and VB.NET, packaged with Inno Setup) to queue course accessibility scans from CSV schedules with rate-limited throttling and export semantic HTML5 (<th scope=\"row\">) status logs."
           ],
           "cs": [

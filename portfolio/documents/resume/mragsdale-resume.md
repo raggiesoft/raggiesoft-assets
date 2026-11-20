@@ -8,7 +8,7 @@ Full-Stack Web Developer and Web Accessibility Engineer combining source-level u
 
 ## Technical Skills
 * **Languages & Web Frameworks:** TypeScript, JavaScript (ES6+), PHP 8.5, HTML5, CSS (`@layer`, `subgrid`, container queries), Angular 19, React 19 / Next.js, Svelte 5 / SvelteKit, Astro, Vue / Nuxt, REST/JSON APIs, SQL, Python, Bash
-* **Code-Level Web Accessibility:** WCAG 2.1/2.2 AA, ADA Title II & Revised Section 508 Web Criteria, Semantic HTML5 (`<th scope="col/row">`, `<fieldset>`/`<legend>`, Landmarks), WAI-ARIA & Live Regions, JS Keyboard Focus Management, BCP 47 Multilingual `lang` Markup, Synced WebVTT (`.vtt`) Captions, Manual Screen-Reader Testing (JAWS, NVDA, VoiceOver), Deque axe, WAVE, Accessible HTML Canvas Interfaces (DOM/ARIA layer)
+* **Code-Level Web Accessibility:** WCAG 2.1/2.2 AA, ADA Title II, Revised Section 508, Semantic HTML5 (scoped table headers, `<fieldset>`/`<legend>`, landmarks), WAI-ARIA & Live Regions, JS Keyboard Focus Management, BCP 47 Multilingual `lang` Markup, Synced WebVTT (`.vtt`) Captions, Manual Screen-Reader Testing (JAWS, NVDA, VoiceOver), Deque axe, WAVE, Accessible HTML Canvas Interfaces (DOM/ARIA layer)
 * **Desktop & Native Platforms:** C# / .NET 10 (WPF, Named Pipes IPC, UIAutomation), Swift / SwiftUI (macOS, iOS, iPadOS), Visual Basic 6.0 / Win32, Inno Setup
 * **Cloud, Linux & DevOps Tooling:** Ubuntu Linux, Nginx, DigitalOcean (Droplets & Spaces S3 CDN), Cloudflare DNS/SSL, Git, CI/CD Scripting, FFmpeg, ActiveNet
 
@@ -35,10 +35,10 @@ Design, build, and maintain an independent software development and digital publ
 ### Computer Operations (Code-Level Web & LMS Accessibility)
 **Old Dominion University (ODU Online) | Norfolk, VA | Nov 2019 – Jul 2022**
 
-* **PLE & Canvas LMS Web Engineering:** Audited source HTML and CSS across ODU Online's custom Personal Learning Environment (PLE) and **Canvas LMS** course modules during university-wide LMS migration, refactoring legacy visual-only markup into semantic HTML5 (`<th scope="col/row">`, landmarks, explicit form labels).
+* **PLE & Canvas LMS Web Engineering:** Audited source HTML and CSS across ODU Online's custom Personal Learning Environment (PLE) and **Canvas LMS** course modules during university-wide LMS migration, refactoring legacy visual-only markup into semantic HTML5 (scoped table headers, landmarks, explicit form labels).
 * **Code-Level WCAG 2.1 AA & Section 508 Web Testing:** Performed source-level web accessibility evaluations combining automated DOM scanners (**Deque axe**, WAVE) with manual keyboard navigation/focus checks and screen-reader testing (**JAWS**, **NVDA**, **VoiceOver**) to resolve heading hierarchy, contrast, and WAI-ARIA issues.
-* **Reusable Accessible HTML/CSS Templates:** Engineered zero-dependency, WCAG 2.1 AA and Revised Section 508 web-compliant HTML5 and CSS course module templates still used by instructional designers and faculty across university distance-learning courses.
-* **Self-Initiated QA Automation (`C# / .NET`):** Independently developed a Windows desktop batch utility (**C# / .NET 5** and **VB.NET**, packaged with **Inno Setup**) to queue course accessibility scans from CSV schedules with rate-limited throttling and export semantic HTML5 (`<th scope="row">`) status logs.
+* **Reusable Accessible HTML/CSS Templates:** Engineered zero-dependency, WCAG 2.1 AA and Revised Section 508 web-compliant HTML5 and CSS course module templates adopted by instructional designers and faculty across university distance-learning courses.
+* **Self-Initiated QA Automation (C# / .NET):** Independently developed a Windows desktop batch utility (**C# / .NET 5** and **VB.NET**, packaged with **Inno Setup**) to queue course accessibility scans from CSV schedules with rate-limited throttling and export semantic HTML5 (`<th scope="row">`) status logs.
 
 ### Mobile Applications Developer Intern
 **Dominion Enterprises | Norfolk, VA | Sep 2012 – Dec 2012**
