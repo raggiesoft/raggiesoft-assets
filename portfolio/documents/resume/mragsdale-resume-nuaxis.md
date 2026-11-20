@@ -22,12 +22,12 @@ Web Accessibility Engineer and Full-Stack Web Developer with deep expertise in c
 * **Manual vs. Automated Testing:** Utilized automated DOM tools like Deque axe for baseline scanning while prioritizing manual screen-reader and keyboard testing to catch contextual failures (focus traps, reading order, missing ARIA live regions).
 * **Reusable Accessible HTML/CSS Templates:** Engineered zero-dependency, WCAG 2.1 AA web-compliant HTML5/CSS course templates still used across university distance-learning courses.
 
-### Clerk-Cashier
+### Clerk-Cashier (Concurrent with Software Engineering & IT Studies)
 **City of Virginia Beach Parks & Recreation | Virginia Beach, VA | May 2023 – Present**
 
-* **Front Desk & Customer Support:** Support daily recreation center operations by assisting patrons in person and by telephone, processing payments, issuing memberships, checking members into the facility, and resolving account and service questions.
-* **Operational Data Processing:** Extract room-rental data from ActiveNet, transform complex reservation records into a standardized Microsoft Word reference, and organize an at-a-glance view of weekend facility use for Front Desk staff.
-* **Structured Information Design & Technical Support:** Format operational reference materials with clear tabular hierarchy while serving as a practical technical resource for coworkers using ActiveNet and Microsoft Office.
+* **Operational Data Transformation:** Extract facility scheduling datasets from ActiveNet, normalize multi-room reservation records, and structure them into standardized, at-a-glance weekend operational reference guides.
+* **Internal Systems Troubleshooting:** Act as an on-site technical resource for staff navigating ActiveNet software workflows and municipal workstation tools, resolving recurring usability bottlenecks.
+* **Municipal Facility Operations:** Manage daily member access verification, account reconciliation, and point-of-sale transactions in a high-volume public recreation facility.
 
 ### Principal Systems Architect & Founder
 **RaggieSoft Media | Norfolk, VA | [raggiesoftmedia.com](https://raggiesoftmedia.com) | Est. 2008 – Present**  

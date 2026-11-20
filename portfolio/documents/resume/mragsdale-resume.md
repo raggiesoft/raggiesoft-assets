@@ -10,7 +10,7 @@ Full-Stack Web Developer and Web Accessibility Engineer combining source-level u
 * **Languages & Web Frameworks:** TypeScript, JavaScript (ES6+), PHP 8.5, HTML5, CSS (`@layer`, `subgrid`, container queries), Angular 19, React 19 / Next.js, Svelte 5 / SvelteKit, Astro, Vue / Nuxt, REST/JSON APIs, SQL, Python, Bash
 * **Code-Level Web Accessibility:** WCAG 2.1/2.2 AA, ADA Title II & Revised Section 508 Web Criteria, Semantic HTML5 (`<th scope="col/row">`, `<fieldset>`/`<legend>`, Landmarks), WAI-ARIA & Live Regions, JS Keyboard Focus Management, BCP 47 Multilingual `lang` Markup, Synced WebVTT (`.vtt`) Captions, Manual Screen-Reader Testing (JAWS, NVDA, VoiceOver), Deque axe, WAVE, Accessible HTML Canvas Interfaces (DOM/ARIA layer)
 * **Desktop & Native Platforms:** C# / .NET 10 (WPF, Named Pipes IPC, UIAutomation), Swift / SwiftUI (macOS, iOS, iPadOS), Visual Basic 6.0 / Win32, Inno Setup
-* **Cloud, Linux & Operational Tools:** Ubuntu Linux, Nginx, DigitalOcean (Droplets & Spaces S3 CDN), Cloudflare DNS/SSL, Git, CI/CD Scripting, FFmpeg, ActiveNet, Microsoft Office
+* **Cloud, Linux & DevOps Tooling:** Ubuntu Linux, Nginx, DigitalOcean (Droplets & Spaces S3 CDN), Cloudflare DNS/SSL, Git, CI/CD Scripting, FFmpeg, ActiveNet
 
 ## Professional Experience
 
@@ -24,14 +24,13 @@ Design, build, and maintain an independent software development and digital publ
 * **Linux Cloud & CI/CD Automation:** Manage **Ubuntu Linux** and **Nginx** virtual hosts on DigitalOcean, **Cloudflare** DNS/edge routing, and automated Bash, PHP, and Node.js build and deployment pipelines with S3-compatible CDN asset synchronization.
 * **Media & Publishing Pipelines:** Built command-line **FFmpeg**, **PHP GD**, and **Pandoc** workflows to normalize multi-format audio streams, validate synchronized **WebVTT** (`.vtt`) closed captions/lyrics, generate Open Graph social cards, and compile automated digital publications.
 
-### Clerk-Cashier
+### Clerk-Cashier (Concurrent with Software Engineering & IT Studies)
 **City of Virginia Beach Parks & Recreation | Virginia Beach, VA | May 2023 – Present**
 
-* **Front Desk & Customer Support:** Support daily recreation center operations by assisting patrons in person and by telephone, processing payments, issuing memberships, checking members into the facility, and resolving account and service questions.
-* **Operational Data Processing:** Extract room-rental data from ActiveNet, transform complex reservation records into a standardized Microsoft Word reference, and organize the resulting information into an at-a-glance view of weekend facility use for Front Desk staff.
-* **Structured Information Design:** Format internal operational guides with consistent heading hierarchy, clean tabular structure, and readable layout so staff can locate reservation details quickly during busy shifts.
-* **Technical Support & Knowledge Sharing:** Serve as a technical resource for coworkers using ActiveNet, Microsoft Office, and related Front Desk systems, providing practical troubleshooting assistance and explaining technical processes in approachable terms.
-* **Process Improvement:** Apply a software-development and web-engineering background to identify opportunities for clearer information workflows, improved data presentation, and more efficient Front Desk operations within an established municipal environment.
+* **Operational Data Transformation:** Extract facility scheduling datasets from ActiveNet, normalize complex multi-room reservation records, and structure them into standardized, at-a-glance weekend operational reference guides.
+* **Structured Information Architecture:** Design internal operational reference layouts with consistent semantic hierarchy, clean tabular structure, and high-readability formatting for rapid lookup during peak facility hours.
+* **Internal Systems Troubleshooting:** Act as an on-site technical resource for staff navigating ActiveNet software workflows and municipal workstation tools, resolving recurring usability bottlenecks and streamlining daily procedures.
+* **Municipal Facility Operations:** Manage daily member access verification, account reconciliation, and point-of-sale transactions in a high-volume public recreation facility.
 
 ### Computer Operations (Code-Level Web & LMS Accessibility)
 **Old Dominion University (ODU Online) | Norfolk, VA | Nov 2019 – Jul 2022**

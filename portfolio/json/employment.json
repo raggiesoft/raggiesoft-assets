@@ -8,21 +8,18 @@
     "is_public": true,
     "roles": [
       {
-        "title": "Clerk-Cashier",
+        "title": "Clerk-Cashier (Concurrent with Software Engineering & IT Studies)",
         "period": "May 2023 – Present",
         "description": {
           "it": [
-            "Extract room-rental data from ActiveNet, transform complex reservation records into a standardized Microsoft Word reference, and organize an at-a-glance view of weekend facility use for Front Desk staff.",
-            "Trained new employees on the use of the ActiveNet customer relationship management (CRM) system, ensuring data integrity.",
-            "Supervise front desk operations, making independent technical and policy-aligned decisions.",
-            "Manage member check-in and secure payment processing, both in-person and telephonically."
+            "Extract facility scheduling datasets from ActiveNet, normalize complex multi-room reservation records, and structure them into standardized, at-a-glance weekend operational reference guides.",
+            "Act as an on-site technical resource and trainer for staff navigating ActiveNet software workflows and municipal workstation tools, ensuring data integrity.",
+            "Manage daily member access verification, account reconciliation, and point-of-sale transactions in a high-volume municipal recreation facility."
           ],
           "cs": [
-            "Independently supervise front desk operations during weekends, making policy-aligned decisions to ensure smooth service delivery and patron satisfaction.",
-            "Serve as the primary point of contact for members and guests, providing guided tours and comprehensive information on center services.",
-            "Provide peer guidance and training to new hires on the ActiveNet customer database.",
-            "Proactively solve patron issues, such as fixing corrupted membership cards and offering grace periods to maintain positive community relations.",
-            "Process new membership sales, renewals, and handle secure over-the-phone payments."
+            "Independently coordinate weekend facility operations, making policy-aligned decisions to ensure smooth municipal service delivery.",
+            "Provide peer onboarding and technical guidance to staff on the ActiveNet operational database.",
+            "Manage daily facility access verification, membership renewals, and account reconciliation."
           ]
         }
       }

@@ -3,7 +3,7 @@
 A centralized reference guide for all job applications submitted, including full job descriptions, application dates, tailored angles, and key talking points for recruiter phone screens.
 
 ## Master Resume, Job-Board Target Sweet Spot & Guardrails (Updated November 19, 2026)
-* **Primary Contact Email:** `hello@michaelpragsdale.com` (`hireme@michaelpragsdale.com` retained solely as a forwarding alias for legacy resumes; Microsoft Bookings scheduling links intentionally omitted while paused).
+* **Primary Career, Git & Job-Board Email:** `hello@michaelpragsdale.com` (`hireme@michaelpragsdale.com` retained solely as a forwarding alias; `michael.ragsdale@raggiesoft.com` retired from Git commits and job boards as a personal-only inbox; Microsoft Bookings scheduling links intentionally omitted while paused).
 * **Job-Portal Phone Policy:** Public web/CDN resumes (`michaelpragsdale.com` / `assets.raggiesoft.com`) stay email-only. When generating resumes directly for ATS/job portals, run `./build-resume.sh --portal` (which reads `_resume/portal-contact-profile.md` and outputs strictly to local `_resume/resumes/`).
 * **Target Job-Board Sweet Spot (Going Forward):**
   1. **Mid-Level Full-Stack / Web Developer** (`PHP`, `TypeScript`, `Angular` / `React`, `REST/JSON APIs`, or `C# / .NET`)

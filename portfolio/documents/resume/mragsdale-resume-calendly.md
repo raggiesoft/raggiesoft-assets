@@ -25,12 +25,12 @@ Founded and operate RaggieSoft Media, an independent software development and di
 * **E-Commerce & Digital Fulfillment:** Integrated **Fourthwall** as an international Merchant of Record (MoR) with custom DNS architecture, powering automated, frictionless global fulfillment of physical merchandise and digital assets without third-party vendor lock-in.
 * **Accessibility by Design:** Enforce strict **WCAG 2.1 AA** and **Section 508** compliance across all UI components, custom modals, media players, and narrative readers, ensuring zero accessibility debt out of the box.
 
-### Clerk-Cashier
+### Clerk-Cashier (Concurrent with Software Engineering & IT Studies)
 **City of Virginia Beach Parks & Recreation | Virginia Beach, VA | May 2023 – Present**
 
-* **Front Desk & Customer Support:** Support daily recreation center operations by assisting patrons in person and by telephone, processing payments, issuing memberships, checking members into the facility, and resolving account and service questions.
-* **Operational Data Processing:** Extract room-rental data from ActiveNet, transform complex reservation records into a standardized Microsoft Word reference, and organize an at-a-glance view of weekend facility use for Front Desk staff.
-* **Technical Support & Process Improvement:** Serve as a technical resource for coworkers using ActiveNet and Microsoft Office while applying a software-development background to improve Front Desk information workflows.
+* **Operational Data Transformation:** Extract facility scheduling datasets from ActiveNet, normalize multi-room reservation records, and structure them into standardized, at-a-glance weekend operational reference guides.
+* **Internal Systems Troubleshooting:** Act as an on-site technical resource for staff navigating ActiveNet software workflows and municipal workstation tools, streamlining daily operational procedures.
+* **Municipal Facility Operations:** Manage daily member access verification, account reconciliation, and point-of-sale transactions in a high-volume public recreation facility.
 
 ### Computer Operations (Code-Level Web & LMS Accessibility)
 **Old Dominion University (ODU Online) | Norfolk, VA | Nov 2019 – Jul 2022**

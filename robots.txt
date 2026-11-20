@@ -1,0 +1,12 @@
+# ============================================================================
+# robots.txt — assets.raggiesoft.com (RaggieSoft Static Asset CDN)
+# ============================================================================
+# Allows search engines to crawl public CSS, JS, images, fonts, and media
+# needed to render *.raggiesoft.com and michaelpragsdale.com, while blocking
+# automated open-web resume scrapers (`filetype:pdf`) from indexing raw
+# portfolio document files.
+# ============================================================================
+User-agent: *
+Disallow: /portfolio/documents/
+Disallow: /portfolio/json/
+Allow: /
