@@ -1,32 +1,48 @@
 /**
  * ============================================================================
- * KONAMI CODE LISTENER - ARCHITECTURAL OVERVIEW
+ * READ-ALONG TEACHING OVERVIEW: konami.js
  * ============================================================================
- * 
- * Description:
- * A lightweight global event listener that implements a state machine to 
- * detect the classic "Konami Code" sequence of keystrokes.
- * 
- * Core Mechanics:
- * 1. Global Listener: Listens for keydown events across the entire document.
- * 2. Sequence Matching: Maintains a state cursor (`currentPosition`) that increments 
- *    when the correct key in the sequence is pressed, and resets to 0 if an 
- *    incorrect key is pressed.
- * 3. Payload Delivery: Upon successful completion of the sequence, it attempts 
- *    to trigger a hidden modal (`#konamiModal`). It gracefully supports both 
- *    Web Awesome (`<wa-dialog>`) and Bootstrap (`.modal`) implementations.
- * 
- * Maintainability Notes:
- * - This script is an "easter egg" and should not contain critical business logic.
- * - The state machine resets immediately on any mistake.
- * - It normalizes inputs by converting single-character keys to lowercase to 
- *   ensure Shift state doesn't break the 'B' and 'A' inputs.
+ * WHAT THIS FILE IS:
+ *   A playful "Easter egg" keyboard listener that watches for the classic
+ *   10-key video-game Konami Code sequence:
+ *     Up, Up, Down, Down, Left, Right, Left, Right, B, A
+ *
+ * WHICH WEBSITES LOAD IT:
+ *   Loaded from `https://assets.raggiesoft.com/common/js/konami.js` on
+ *   RaggieSoft web properties that embed a hidden `#konamiModal` dialog.
+ *
+ * WHAT INPUTS IT CONSUMES:
+ *   - Browser `keydown` events (`e.key`) typed anywhere on the page.
+ *   - A hidden modal element with `id="konamiModal"` in the HTML document
+ *     (either a Web Awesome `<wa-dialog>` / native `<dialog>` element or a
+ *     Bootstrap `.modal` container).
+ *
+ * WHAT VISIBLE UI IT PRODUCES:
+ *   - Nothing at all during normal browsing! When a visitor types all 10 keys
+ *     in exact order without a single wrong key in between, `#konamiModal`
+ *     pops open on screen.
+ *
+ * 100-LEVEL JAVASCRIPT CONCEPTS TAUGHT IN THIS FILE:
+ *   1. Finite State Machine (Sequence Cursor): Using an integer index
+ *      (`currentPosition`) to remember "how many keys in a row the user has
+ *      matched so far" across separate `keydown` events over time.
+ *   2. Input Normalization: Handling Shift / Caps Lock (`'B'` vs `'b'`) without
+ *      accidentally breaking multi-letter key names like `'ArrowUp'`.
+ *   3. Feature Detection ("Duck Typing"): Checking `typeof modalElement.show === 'function'`
+ *      and `window.bootstrap` so one shared script works across different UI
+ *      libraries without crashing.
  * ============================================================================
  */
 
+/* Wait until the HTML document is parsed so `#konamiModal` is guaranteed to
+ * exist in the DOM by the time someone finishes typing the 10-key combo. */
 document.addEventListener('DOMContentLoaded', () => {
-    // The Konami Code Sequence mapping
-    // Up, Up, Down, Down, Left, Right, Left, Right, B, A
+    /**
+     * STEP 1: DEFINE THE TARGET KEY SEQUENCE
+     * Modern browsers report arrow keys via `KeyboardEvent.key` using exact
+     * PascalCase strings (`'ArrowUp'`, `'ArrowDown'`, `'ArrowLeft'`, `'ArrowRight'`),
+     * while letter keys report the character itself (`'b'`, `'a'`).
+     */
     const konamiCode = [
         'ArrowUp', 'ArrowUp', 
         'ArrowDown', 'ArrowDown', 
@@ -35,42 +51,61 @@ document.addEventListener('DOMContentLoaded', () => {
         'b', 'a'
     ];
     
-    // State cursor tracking how ph the user has progressed in the sequence
+    /**
+     * STEP 2: INITIALIZE THE STATE CURSOR
+     * `currentPosition` lives OUTSIDE the `keydown` callback (in the enclosing
+     * function closure) so JavaScript remembers its value between keystrokes!
+     * - `0` means we are waiting for the 1st key (`konamiCode[0]`, `'ArrowUp'`).
+     * - `9` means the user has typed 9 keys right and only needs `'a'` (`konamiCode[9]`).
+     */
     let currentPosition = 0;
 
+    /**
+     * STEP 3: LISTEN FOR EVERY KEY PRESS ON THE DOCUMENT
+     */
     document.addEventListener('keydown', (e) => {
-        // Normalize key input (handle uppercase 'B' and 'A' in case Shift or CapsLock is on)
-        // We only lower-case length=1 strings so we don't mess up 'ArrowUp', etc.
+        /* Normalize single-character keys (`'B'` -> `'b'`, `'A'` -> `'a'`) so
+         * having Caps Lock on or holding Shift doesn't ruin the combo.
+         * Why check `e.key.length === 1`? Because `'ArrowUp'.length` is 7—if we
+         * lowercased `'ArrowUp'` to `'arrowup'`, it wouldn't match `'ArrowUp'`! */
         const key = e.key.length === 1 ? e.key.toLowerCase() : e.key;
         
-        // Get the expected key from the sequence at the current state cursor
+        /* Look up whichever key is expected next at the current step of the combo. */
         let requiredKey = konamiCode[currentPosition];
-        // Ensure the requirement is normalized against the incoming key
+        /* Defensively normalize single-character entries in `konamiCode` as well. */
         if (requiredKey && requiredKey.length === 1) requiredKey = requiredKey.toLowerCase();
 
-        // Check if the pressed key matches the required next step
+        /* STEP 4: CHECK WHETHER THE PRESSED KEY MATCHES THE EXPECTED NEXT STEP */
         if (key === requiredKey) {
-            // Correct key pressed, advance the cursor
+            /* Match! Advance our cursor to the next slot in `konamiCode`. */
             currentPosition++;
             
-            // If the cursor reaches the end of the array, the full sequence is entered
+            /* Have we matched all 10 keys (`currentPosition === 10`)? */
             if (currentPosition === konamiCode.length) {
                 
-                // Fetch the payload target element
+                /* Look up the hidden Easter-egg modal in the page's HTML. */
                 const modalElement = document.getElementById('konamiModal');
                 if (modalElement) {
                     
-                    // Attempt Web Awesome Dialog initialization first
+                    /* Feature Detection Path A: Native `<dialog>` or Web Awesome `<wa-dialog>`.
+                     * Instead of guessing which CSS framework this site uses, we check
+                     * whether `.show` or `.showModal` exists as a callable function on
+                     * the DOM element itself. */
                     if (typeof modalElement.show === 'function') {
-                        // Web Awesome changed API from show() to showModal(), handle both gracefully
+                        /* Prefer `.showModal()` when available (opens in the browser's
+                         * accessible top layer with Escape-key dismissal and backdrop),
+                         * falling back to `.show()` for older Web Awesome components. */
                         if (typeof modalElement.showModal === "function") { 
                             modalElement.showModal(); 
                         } else { 
                             modalElement.show(); 
                         }
                     } 
-                    // Fallback to Bootstrap Modal initialization
+                    /* Feature Detection Path B: Bootstrap 5 `.modal` (`corporate.raggiesoft.com`).
+                     * `window.bootstrap` is defined when Bootstrap's JS bundle is loaded. */
                     else if (window.bootstrap) {
+                        /* Reuse an existing Bootstrap Modal controller if one was already
+                         * attached to `modalElement`; otherwise construct a new one. */
                         let secretModal = bootstrap.Modal.getInstance(modalElement);
                         if (!secretModal) {
                             secretModal = new bootstrap.Modal(modalElement);
@@ -78,14 +113,16 @@ document.addEventListener('DOMContentLoaded', () => {
                         secretModal.show();
                     }
                 } else {
+                    /* Helpful developer warning if `konami.js` was included on a page
+                     * that doesn't define `<div id="konamiModal">` or `<dialog id="konamiModal">`. */
                     console.warn("Konami Activated, but modal element is missing.");
                 }
                 
-                // Reset sequence cursor so it can be triggered again
+                /* Reset the cursor back to 0 so the visitor can trigger the code again later. */
                 currentPosition = 0;
             }
         } else {
-            // Mistake made: incorrect key breaks the combo. Reset sequence cursor to start.
+            /* Wrong key pressed! Break the combo immediately and start over from index 0. */
             currentPosition = 0;
         }
     });

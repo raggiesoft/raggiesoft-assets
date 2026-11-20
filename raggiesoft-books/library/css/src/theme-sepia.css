@@ -1,23 +1,33 @@
 /* ==========================================================================
- * STARDUST ENGINE LIBRARY - EXPLICIT WARM SEPIA THEME
- * theme-sepia.css
+ * PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (100-LEVEL JAVASCRIPT / WEB INTRO)
  * ==========================================================================
- * Full 13-token WCAG 2.1 AA/AAA archival cream-parchment reading palette.
+ * File: library/css/src/theme-sepia.css
+ * Compiled Into:
+ *   - `library/css/stardust-engine.min.css` (bundled global engine CSS)
+ *   - `library/css/theme-sepia.min.css`     (standalone theme file)
+ *
+ * WHAT IS THIS FILE?
+ *   Dedicated e-readers and classic printed novels have warm cream/vellum pages
+ *   rather than stark `#ffffff` blue-white LCD glare. When a reader selects
+ *   **"Sepia"** in Reading Settings, JavaScript adds `theme-sepia` to `<body>`,
+ *   activating this 13-token archival parchment palette (`#f4ecd8` paper paired
+ *   with `#3b2e22` espresso-brown ink at `9.81:1` WCAG AAA contrast) for long,
+ *   eye-strain-free multi-hour reading sessions!
  * ========================================================================== */
 
 body.theme-sepia {
-    color-scheme: light;
-    --rs-bg: #f4ecd8;
-    --rs-bg-alt: #e9dec3;
-    --rs-surface: #ece2c8;
-    --rs-card-bg: #f8f2e2;
-    --rs-text: #3b2e22;       /* 9.81:1 on #e9dec3 */
-    --rs-text-muted: #5c4938; /* 6.37:1 on #e9dec3 */
-    --rs-heading: #241a10;    /* 12.76:1 on #e9dec3 */
-    --rs-primary: #0F4C5C;    /* 7.11:1 on #e9dec3 */
-    --rs-on-primary: #ffffff; /* 9.51:1 on #0F4C5C */
-    --rs-secondary: #7c2d12;  /* 7.01:1 on #e9dec3 */
-    --rs-border: #cbbba0;
-    --rs-asl: #075985;
-    --rs-gesture: #4c1d95;
+    color-scheme: light;      /* Uses light-toned native OS scrollbars */
+    --rs-bg: #f4ecd8;         /* Warm cream-parchment reading page canvas */
+    --rs-bg-alt: #e9dec3;     /* Deeper vellum tint for badges & hover states */
+    --rs-surface: #ece2c8;    /* Sidebar, toolbar, & modal parchment surface */
+    --rs-card-bg: #f8f2e2;    /* Light archival cream card surface */
+    --rs-text: #3b2e22;       /* Rich espresso-brown prose ink (9.81:1 AAA on #e9dec3) */
+    --rs-text-muted: #5c4938; /* Warm umber metadata ink (6.37:1 AA on #e9dec3) */
+    --rs-heading: #241a10;    /* Deep walnut chapter headings (12.76:1 AAA on #e9dec3) */
+    --rs-primary: #0F4C5C;    /* Ocean View Coastal Teal links & CTAs (7.11:1 AAA on #e9dec3) */
+    --rs-on-primary: #ffffff; /* Crisp white text on solid `#0F4C5C` buttons (9.51:1 AAA) */
+    --rs-secondary: #7c2d12;  /* Warm rust-sienna hover accent (7.01:1 AAA on #e9dec3) */
+    --rs-border: #cbbba0;     /* Warm parchment dividing lines */
+    --rs-asl: #075985;        /* Deep ocean-blue for `<asl>` Sign Language dialogue */
+    --rs-gesture: #4c1d95;    /* Deep plum-indigo for `<sgn>` signed/gesture dialogue */
 }

@@ -1,71 +1,84 @@
 /* ==========================================================================
- * ARCHITECTURAL OVERVIEW: 01-base.css
+ * PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (100-LEVEL JAVASCRIPT / WEB INTRO)
  * ==========================================================================
- * Stardust Engine Library - Core Base Initialization
- * This is the foundational stylesheet of the Stardust Engine framework.
- * It establishes the CSS reset, the global 13-token variable taxonomy (`--rs-*`),
- * native `color-scheme` support, Forced Colors Mode fallbacks, and mandatory
- * screen-reader accessibility utilities.
+ * File: library/css/src/01-base.css
+ * Compiled Into: `raggiesoft-assets/raggiesoft-books/library/css/stardust-engine.min.css`
  *
- * CORE RESPONSIBILITIES:
- * 1. Global Reset: Enforces standard box-sizing logic across all elements.
- * 2. Complete Theme Token Taxonomy: Defines all 13 root color variables that
- *    framework components (buttons, dialogs, badges, cards, prose, logs) rely on:
- *      - `--rs-bg`: Primary reading/page canvas background
- *      - `--rs-bg-alt`: Subtle secondary/elevated background (chips, drawers)
- *      - `--rs-surface`: Sidebar, header, card, toolbar, and modal surface
- *      - `--rs-card-bg`: Card container surface
- *      - `--rs-text`: Primary prose and UI body text (>= 7.0:1 AAA target)
- *      - `--rs-text-muted`: Captions, metadata, timestamps (>= 4.6:1 AA)
- *      - `--rs-heading`: Display and section headings (>= 8.0:1 AAA)
- *      - `--rs-primary`: Primary interactive brand/link accent (>= 4.6:1 AA)
- *      - `--rs-on-primary`: Text/icon foreground on solid `--rs-primary` fills (>= 4.6:1 AA)
- *      - `--rs-secondary`: Secondary brand/narrative accent (>= 4.6:1 AA)
- *      - `--rs-border`: Structural border/divider & neutral badge background
- *      - `--rs-asl`: Accessible Sign Language dialogue marker (>= 4.6:1 AA)
- *      - `--rs-gesture`: Accessible non-verbal gesture marker (>= 4.6:1 AA)
- * 3. Accessibility: Provides `.visually-hidden` / `.visually-hidden-focusable`
- *    and `@media (forced-colors: active)` Windows High Contrast mappings.
+ * WHAT IS THIS FILE?
+ *   This is File #01 (hence the `01-` prefix so alphabetical bundling always puts
+ *   it first!) of the Stardust Engine CSS framework. Before any button, card,
+ *   dialog, or chapter paragraph is styled, this file sets up three foundational
+ *   building blocks:
+ *     1. **Universal Box-Sizing Reset (`box-sizing: border-box`)**: Makes CSS
+ *        widths behave intuitively when adding padding and borders.
+ *     2. **The 13-Token Design System (`:root { --rs-*: ... }`)**: Declares the
+ *        13 named CSS Custom Properties ("CSS Variables") used by every component
+ *        across RaggieSoft Book Reader, complete with automatic OS Dark Mode and
+ *        Windows High Contrast (`forced-colors`) fallbacks.
+ *     3. **Screen-Reader Accessibility Utilities (`.visually-hidden`)**: Hides
+ *        helper labels visually while keeping them readable by assistive tech.
  *
- * FUTURE MAINTENANCE NOTES:
- * - Every new semantic token MUST be initialized here in `:root` first so no
- *   component ever resolves an `undefined` custom property.
- * - `overflow: hidden` on `body` allows Stardust layout panes (`#stardust-reading-pane`,
- *   `.stardust-mobile-scroll`) to manage independent scroll containers cleanly.
+ * WHAT ARE CSS CUSTOM PROPERTIES (`--rs-*`)?
+ *   Just like `let primaryColor = '#0F4C5C';` in JavaScript, CSS lets you store
+ *   reusable values on `:root` (the top `<html>` element) with a `--` prefix
+ *   (`--rs-primary: #0F4C5C;`) and read them anywhere via `var(--rs-primary)`.
+ *   When the user switches from Light Mode to Dark Mode (`body.theme-dark`),
+ *   we simply update those 13 variables on `body` and every button, card, border,
+ *   and heading across the entire app updates automatically!
+ *
+ * WHAT DO "WCAG 2.1 AA" AND "AAA" CONTRAST RATIOS MEAN?
+ *   Contrast ratio measures brightness difference from `1:1` (invisible white-on-white)
+ *   to `21:1` (pure black on pure white):
+ *     - **WCAG AA** requires at least **`4.5:1`** for normal body text.
+ *     - **WCAG AAA** (gold standard for long-form book reading) targets **`7.0:1+`**.
  * ========================================================================== */
 
-/* 1. Global Box-Sizing Reset */
+/* ==========================================================================
+ * 1. UNIVERSAL BOX-SIZING RESET
+ * ==========================================================================
+ * By default in 1990s CSS (`content-box`), setting `width: 300px; padding: 20px;`
+ * secretly makes a box `340px` wide—causing horizontal scrollbars everywhere!
+ * `border-box` tells the browser to include `padding` and `border` INSIDE `width`,
+ * on every element (`*`) and generated pseudo-element (`*::before`, `*::after`). */
 *, *::before, *::after {
     box-sizing: border-box;
 }
 
-/* 2. Global Stardust Theme Variables (WCAG 2.1 AA/AAA Baseline Defaults) */
+/* ==========================================================================
+ * 2. GLOBAL 13-TOKEN STARDUST THEME VARIABLES (LIGHT BASELINE DEFAULTS)
+ * ==========================================================================
+ * `:root` targets the `<html>` element. Every component in `02-layout.css`
+ * through `09-cards.css` reads these 13 tokens so no component ever hardcodes
+ * raw hex colors or encounters an undefined variable. */
 :root {
+    /* Tells browser native scrollbars & form inputs they can adapt to Light or Dark */
     color-scheme: light dark;
 
-    /* Structural Surfaces */
-    --rs-bg: #f8fafc;         /* Primary application canvas */
-    --rs-bg-alt: #eef2f6;     /* Subtle secondary surface for chips & drawers */
-    --rs-surface: #ffffff;    /* Elevated containers (sidebars, cards, modals) */
-    --rs-card-bg: #ffffff;    /* Card container background */
+    /* Structural Surfaces (from deepest canvas to elevated cards/modals) */
+    --rs-bg: #f8fafc;         /* Primary application canvas background */
+    --rs-bg-alt: #eef2f6;     /* Subtle secondary surface for pills, chips, & hover states */
+    --rs-surface: #ffffff;    /* Elevated containers (sidebars, headers, cards, modals) */
+    --rs-card-bg: #ffffff;    /* Dedicated card container background */
 
     /* Typography Hierarchy */
-    --rs-text: #1e293b;       /* Primary body typography (13.35:1 on white) */
-    --rs-text-muted: #475569; /* Secondary metadata & captions (6.92:1 on surface) */
-    --rs-heading: #0f172a;    /* Display headings & titles (16.30:1 on surface) */
+    --rs-text: #1e293b;       /* Primary prose & UI body text (13.35:1 AAA on white) */
+    --rs-text-muted: #475569; /* Secondary metadata, dates, & captions (6.92:1 AA/AAA on surface) */
+    --rs-heading: #0f172a;    /* Display headings & chapter titles (16.30:1 AAA on surface) */
 
     /* Interactive & Brand Accents */
-    --rs-primary: #0F4C5C;    /* Brand accent / Call to Action (8.68:1 on surface) */
-    --rs-on-primary: #ffffff; /* Foreground text on solid `--rs-primary` fills (9.51:1) */
-    --rs-secondary: #854d0e;  /* Secondary warm bronze accent (6.25:1 on surface) */
-    --rs-border: #cbd5e1;     /* Structural dividing lines (9.05:1 under `--rs-text`) */
+    --rs-primary: #0F4C5C;    /* Brand accent for links & primary buttons (8.68:1 AAA on surface) */
+    --rs-on-primary: #ffffff; /* Text/icon color placed ON TOP of solid `--rs-primary` fills (9.51:1) */
+    --rs-secondary: #854d0e;  /* Secondary warm bronze accent for hover/emphasis (6.25:1 AA) */
+    --rs-border: #cbd5e1;     /* Subtle dividing lines & card borders */
 
-    /* Narrative-Specific Semantic Dialogue Tokens */
-    --rs-asl: #0369a1;        /* Accessible ocean-blue for Sign Language (5.42:1) */
-    --rs-gesture: #4338ca;    /* Accessible indigo for non-verbal cues (7.21:1) */
+    /* Narrative-Specific Semantic Dialogue Tokens (used by `<asl>` and `<sgn>` in `03-typography.css`) */
+    --rs-asl: #0369a1;        /* Accessible ocean-blue for American Sign Language (5.42:1 AA) */
+    --rs-gesture: #4338ca;    /* Accessible indigo for signed/non-verbal cues (7.21:1 AAA) */
 }
 
-/* System Dark Mode Fallback when no explicit theme stylesheet has overridden `:root` */
+/* Automatic OS Dark Mode Fallback:
+   If the reader's OS is in Dark Mode and no explicit theme stylesheet (`theme-light.css`,
+   `theme-oceanview.css`, etc.) has overridden `body`, switch `:root` to deep midnight slate! */
 @media (prefers-color-scheme: dark) {
     :root {
         --rs-bg: #0f141c;
@@ -76,7 +89,7 @@
         --rs-text-muted: #a1b0c4;
         --rs-heading: #f8fafc;
         --rs-primary: #E3B27C;
-        --rs-on-primary: #0b111b;
+        --rs-on-primary: #0b111b; /* Dark ink on warm gold `--rs-primary` keeps buttons readable! */
         --rs-secondary: #38bdf8;
         --rs-border: #2c3b52;
         --rs-asl: #6ee7b7;
@@ -84,7 +97,9 @@
     }
 }
 
-/* Forced Colors Mode (Windows High Contrast) Global Safety Net */
+/* Forced Colors Mode (Windows High Contrast Accessibility Mode):
+   Maps all 13 custom tokens to official OS system color keywords (`Canvas`, `CanvasText`,
+   `LinkText`, `HighlightText`, `ButtonBorder`) chosen by low-vision users in Windows Settings. */
 @media (forced-colors: active) {
     :root,
     body {
@@ -104,25 +119,33 @@
     }
 }
 
-/* 3. Base Document Styling */
+/* ==========================================================================
+ * 3. BASE DOCUMENT BODY STYLING
+ * ==========================================================================
+ * Removes the browser's default 8px outer margin, sets a clean system sans-serif
+ * UI font stack, applies `--rs-bg` and `--rs-text`, and locks outer `body` scroll
+ * (`overflow: hidden`) so `#stardust-sidebar` and `#stardust-reading-pane` in
+ * `02-layout.css` can scroll independently without moving the header or audio bar! */
 body {
     margin: 0;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
     background: var(--rs-bg);
     color: var(--rs-text);
 
-    /* Prevent native window scrolling; Stardust panes manage internal scroll */
+    /* Prevent outer window scrolling; Stardust Flexbox panes manage internal scrolling */
     overflow: hidden;
 }
 
 /* ==========================================================================
- * 4. Accessibility Utilities
+ * 4. SCREEN-READER ACCESSIBILITY UTILITIES (`.visually-hidden`)
  * ==========================================================================
- * Visually hides elements from sighted users while keeping them accessible
- * to screen readers and keyboard focus traversal.
- */
+ * Why not use `display: none` or `visibility: hidden`?
+ *   Because `display: none` hides text from screen readers too!
+ *   Shrinking an element to a clipped `1px x 1px` box hides it from sighted eyes
+ *   while VoiceOver, NVDA, and JAWS still read `"Text Message: "` or `"LED Sign: "`
+ *   aloud cleanly! */
 
-/* Hides element visually at all times */
+/* Hides element visually at all times while keeping it in the accessibility tree */
 .visually-hidden {
     position: absolute !important;
     width: 1px !important;
@@ -135,7 +158,8 @@ body {
     border: 0 !important;
 }
 
-/* Hides element visually UNLESS focused via keyboard navigation */
+/* Hides element visually UNLESS a keyboard user focuses it via `Tab`
+   (used on the `"Skip to main content"` link at the top of `header.php`!) */
 .visually-hidden-focusable:not(:focus):not(:focus-within) {
     position: absolute !important;
     width: 1px !important;

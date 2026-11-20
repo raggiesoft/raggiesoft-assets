@@ -1,21 +1,69 @@
 /**
  * ============================================================================
- * RAGGIESOFT GRID & UTILITY BRIDGE CSS (DaisyUI 5 + WCAG 2.1 AA)
+ * READ-ALONG TEACHING OVERVIEW: raggiesoft-grid.css
  * ============================================================================
+ * WHAT THIS FILE IS:
+ *   RaggieSoft's lightweight, self-contained 12-column responsive Flexbox grid
+ *   polyfill, spacing/typography utility library, Immersive Glass UI sheet, and
+ *   WCAG 2.1 AA Light/Dark theme token bridge.
  *
- * Description:
- * Provides the 12-column responsive flexbox grid (.container, .row, .col-*),
- * spacing/flex/display utilities, and semantic CSS custom properties bridging
- * DaisyUI 5 tokens (--color-base-*, --color-primary, etc.) with RaggieSoft's
- * WCAG 2.1 AA Light & Dark Mode palette.
+ * WHICH WEBSITES LOAD IT:
+ *   Loaded from `https://assets.raggiesoft.com/common/css/raggiesoft-grid.css`
+ *   primarily on `raggiesoft.com` (PHP 8.5 + DaisyUI 5 + Phosphor Icons SSR)
+ *   so templates originally authored with familiar `.container`, `.row`,
+ *   `.col-md-6`, `.d-flex`, `.p-4`, and `.navbar` utility classes work seamlessly
+ *   alongside DaisyUI 5 WITHOUT downloading a bloated 200KB CSS framework!
+ *
+ * WHAT INPUTS IT CONSUMES:
+ *   1. Theme attributes on `<html>`: `[data-theme="light"|"dark"]` (DaisyUI 5),
+ *      `[data-bs-theme="light"|"dark"]` (Bootstrap convention), plus OS-level
+ *      `@media (prefers-color-scheme: dark)`.
+ *   2. Viewport width `@media (min-width: 576px | 768px | 992px | 1200px | 1400px)`.
+ *   3. Layout, spacing, typography, alert, navbar, glass-card, and HUD utility
+ *      classes placed on HTML elements.
+ *
+ * WHAT VISIBLE UI IT PRODUCES:
+ *   - Synchronized Light Mode (`#ffffff` canvas, `#0f172a` ink) and Dark Mode
+ *     (`#0b0f19` cosmic slate canvas, `#f1f5f9` ink) variables shared across
+ *     `--bs-*`, DaisyUI 5 (`--color-base-*`), and Web Awesome (`--wa-*`) tokens.
+ *   - Responsive 12-column `.row` / `.col-*` multi-column page layouts that
+ *     stack cleanly into 1 column on phones and expand side-by-side on tablets
+ *     and desktops.
+ *   - Frosted-glass cards (`.glass-card`), hero background layers (`.hero-bg-layer`),
+ *     accessible screen-reader-only labels (`.visually-hidden`), and HUD panels.
+ *
+ * 100-LEVEL CSS CONCEPTS TAUGHT IN THIS FILE:
+ *   - CSS Custom Properties (`--rg-gutter-x`, `var(...)`): Reusable CSS variables
+ *     that cascade down the DOM tree and update live when themes change!
+ *   - The 12-Column Flexbox Grid Polyfill Trick: How `.row` uses negative outer
+ *     margins (`calc(-.5 * var(--rg-gutter-x))`) while columns use positive
+ *     inner padding (`calc(var(--rg-gutter-x) * .5)`) so column edges align
+ *     flush with `.container` while still leaving breathing room between columns.
+ *   - Mobile-First `@media (min-width: ...)` Breakpoints: Base rules style narrow
+ *     mobile screens first; each wider `@media` block progressively overrides
+ *     widths (`576px` sm, `768px` md, `992px` lg, `1200px` xl, `1400px` xxl).
+ *   - Fluid `calc(rem + vw)` Typography: Combining fixed `rem` base sizes with
+ *     viewport-width `vw` percentages so headlines scale smoothly across screens.
  * ============================================================================
  */
 
+/* ============================================================================
+ * 1. ROOT THEME PALETTE & MULTI-FRAMEWORK TOKEN BRIDGE
+ * ============================================================================
+ * `:root` targets the top-level `<html>` element. By declaring `--bs-*` (Bootstrap
+ * naming), `--color-base-*` (DaisyUI 5 naming), and `--wa-*` (Web Awesome naming)
+ * all pointing to the same WCAG 2.1 AA colors, components from any era render
+ * with identical canvas backgrounds and >= 4.5:1 text contrast!
+ *
+ * `color-scheme: light` tells the browser's built-in User Agent stylesheet to
+ * render native scrollbars, `<select>` menus, and form inputs in Light Mode.
+ * ============================================================================ */
 :root,
 [data-theme="light"],
 [data-bs-theme="light"] {
   /* Modern Web Guidance (dark-mode): Apply color-scheme to :root / html for viewport-wide theming */
   color-scheme: light;
+  /* Default horizontal (`x` = 24px) and vertical (`y` = 0px) grid column gutters */
   --rg-gutter-x: 1.5rem;
   --rg-gutter-y: 0;
 
@@ -62,6 +110,10 @@
   --wa-radius-medium: 0.5rem;
 }
 
+/* Automatic OS Dark Mode (`prefers-color-scheme: dark`):
+ * Notice `:not([data-theme="light"]):not([data-bs-theme="light"])`!
+ * That means if the user's OS is in Dark Mode AND they haven't manually forced
+ * the site into Light Mode, flip all palette tokens to deep cosmic dark (`#0b0f19`). */
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme="light"]):not([data-bs-theme="light"]) {
     color-scheme: dark;
@@ -86,6 +138,9 @@
   }
 }
 
+/* Explicit Dark Mode Override (`[data-theme="dark"]` or `[data-bs-theme="dark"]`):
+ * Applies the exact same Dark Mode palette whenever the user toggles Dark Mode
+ * manually (even if their operating system is set to Light Mode). */
 [data-theme="dark"],
 [data-bs-theme="dark"] {
   color-scheme: dark;
@@ -110,10 +165,13 @@
 }
 
 /* ============================================================================
- * DAISYUI 5 BUTTON & SIDEBAR WCAG 2.1 AA CONTRAST GUARDRAILS
- * Ensures .btn-ghost and .btn-outline-light maintain >= 7:1 contrast in both
- * Light Mode and Dark Mode (even if only data-bs-theme or prefers-color-scheme
- * is active during SPA transitions).
+ * 2. DAISYUI 5 BUTTON & SIDEBAR WCAG 2.1 AA CONTRAST GUARDRAILS
+ * ============================================================================
+ * Why `:not(.btn-primary)...`? Plain `.btn-ghost` buttons have a transparent
+ * background, so they inherit `--bs-body-color` (`#0f172a` in Light, `#f1f5f9`
+ * in Dark) for >= 7:1 AAA readability—without overriding colored buttons!
+ * `.btn-outline-light` gets a translucent dark slate backing (`rgba(15, 23, 42, 0.85)`)
+ * so white button text stays legible even over bright hero photography.
  * ============================================================================ */
 .btn-ghost:not(.btn-primary):not(.btn-secondary):not(.btn-accent):not(.btn-info):not(.btn-success):not(.btn-warning):not(.btn-error) {
   color: var(--bs-body-color);
@@ -156,7 +214,12 @@
   border-color: #ffffff !important;
 }
 
-/* Global root & body resets — ensure html and body share identical canvas background and body grows past 100vh */
+/* ============================================================================
+ * 3. GLOBAL `html` & `body` CANVAS RESETS
+ * ============================================================================
+ * Setting `background-color: var(--bs-body-bg)` on BOTH `html` and `body`
+ * prevents white rubber-band overscroll strips on macOS/iOS when Dark Mode is on.
+ * ============================================================================ */
 html {
   min-height: 100%;
   background-color: var(--bs-body-bg);
@@ -171,13 +234,23 @@ body {
   color: var(--bs-body-color);
 }
 
-/* Prevent body.h-100 from clamping the document flex container to 100vh when content scrolls */
+/* Prevent `body.h-100` (`height: 100%`) from locking the document height to 100vh
+ * when page content is taller than the screen—`height: auto; min-height: 100vh`
+ * lets sticky footers sit at the bottom on short pages AND grow naturally on long pages! */
 body.h-100 {
   height: auto !important;
   min-height: 100vh !important;
 }
 
-/* Container */
+/* ============================================================================
+ * 4. RESPONSIVE CONTAINERS (`.container` & `.container-fluid`)
+ * ============================================================================
+ * - Both start at `width: 100%` with horizontal side padding (`0.75rem` each side)
+ *   and `margin-left/right: auto` (which centers fixed/max-width block boxes!).
+ * - `.container-fluid` stays `100%` wide at every screen size.
+ * - `.container` steps up through standard readable `max-width` plateaus as the
+ *   browser viewport grows past `576px`, `768px`, `992px`, `1200px`, and `1400px`.
+ * ============================================================================ */
 .container,
 .container-fluid {
   width: 100%;
@@ -193,7 +266,24 @@ body.h-100 {
 @media (min-width: 1200px) { .container { max-width: 1140px; } }
 @media (min-width: 1400px) { .container { max-width: 1320px; } }
 
-/* Row & Grid Gutters */
+/* ============================================================================
+ * 5. THE 12-COLUMN FLEXBOX GRID ENGINE (`.row`, GUTTERS `.g-*`, & `.col-*`)
+ * ============================================================================
+ * How `.row` + `.row > *` gutters work together mathematically:
+ *   1. `.container` has `padding-left: 0.75rem` and `padding-right: 0.75rem`.
+ *   2. `.row` turns on `display: flex; flex-wrap: wrap` so child columns sit
+ *      side-by-side and wrap onto a new row whenever column widths exceed `100%`.
+ *   3. Every child column (`.row > *`) gets `padding-left: 0.75rem` and
+ *      `padding-right: 0.75rem`—creating a `1.5rem` (`0.75 + 0.75`) gap BETWEEN
+ *      adjacent columns!
+ *   4. Without compensation, the leftmost column would have `0.75 + 0.75 = 1.5rem`
+ *      of double-padding on the far left! Setting `margin-left: -0.75rem` and
+ *      `margin-right: -0.75rem` on `.row` pulls the outer column edges back flush
+ *      with `.container`!
+ *   5. `box-sizing: border-box` ensures each column's `padding` is included INSIDE
+ *      its percentage `width` (so two `width: 50%` columns fit `50% + 50% = 100%`
+ *      instead of overflowing `50% + 50% + padding > 100%`!).
+ * ============================================================================ */
 .row {
   display: flex;
   flex-wrap: wrap;
@@ -210,6 +300,9 @@ body.h-100 {
   padding-left: calc(var(--rg-gutter-x) * .5);
   margin-top: var(--rg-gutter-y);
 }
+/* Gutter Spacing Modifiers:
+ * `.g-*` sets BOTH horizontal (`--rg-gutter-x`) and vertical (`--rg-gutter-y`) spacing;
+ * `.gx-*` sets horizontal column gap only; `.gy-*` sets vertical wrapped-row gap only. */
 .g-2, .gx-2 { --rg-gutter-x: 0.5rem; }
 .g-2, .gy-2 { --rg-gutter-y: 0.5rem; }
 .g-3, .gx-3 { --rg-gutter-x: 1rem; }
@@ -219,7 +312,11 @@ body.h-100 {
 .g-5, .gx-5 { --rg-gutter-x: 3rem; }
 .g-5, .gy-5 { --rg-gutter-y: 3rem; }
 
-/* Base Columns */
+/* Base Unprefixed Columns (apply at ALL screen widths from 0px upward):
+ * - `.col`: `flex: 1 0 0%` shares leftover space equally (3 `.col` divs = 33.33% each).
+ * - `.col-auto`: Shrink-wraps tightly around its inner text/button width (`width: auto`).
+ * - `.col-1` through `.col-12`: Exact fractions of 12 (`N / 12 * 100%`, e.g.,
+ *   `col-3` = `3/12 = 25%`, `col-4` = `4/12 = 33.33333333%`, `col-6` = `6/12 = 50%`). */
 .col { flex: 1 0 0%; }
 .col-auto { flex: 0 0 auto; width: auto; }
 .col-1 { flex: 0 0 auto; width: 8.33333333%; }
@@ -235,6 +332,7 @@ body.h-100 {
 .col-11 { flex: 0 0 auto; width: 91.66666667%; }
 .col-12 { flex: 0 0 auto; width: 100%; }
 
+/* Small Breakpoint (`sm`: >= 576px — landscape phones & small phablets) */
 @media (min-width: 576px) {
   .col-sm { flex: 1 0 0%; }
   .col-sm-auto { flex: 0 0 auto; width: auto; }
@@ -243,6 +341,9 @@ body.h-100 {
   .col-sm-12 { flex: 0 0 auto; width: 100%; }
 }
 
+/* Medium Breakpoint (`md`: >= 768px — tablets like iPad Portrait)
+ * Example: `<div class="col-12 col-md-6">` is 100% full-width on phones (< 768px)
+ * and automatically becomes a 2-column 50%/50% split at >= 768px! */
 @media (min-width: 768px) {
   .col-md { flex: 1 0 0%; }
   .col-md-auto { flex: 0 0 auto; width: auto; }
@@ -260,6 +361,7 @@ body.h-100 {
   .col-md-12 { flex: 0 0 auto; width: 100%; }
 }
 
+/* Large Breakpoint (`lg`: >= 992px — laptops, iPad Landscape, & desktops) */
 @media (min-width: 992px) {
   .col-lg { flex: 1 0 0%; }
   .col-lg-auto { flex: 0 0 auto; width: auto; }
@@ -277,6 +379,7 @@ body.h-100 {
   .col-lg-12 { flex: 0 0 auto; width: 100%; }
 }
 
+/* Extra-Large Breakpoint (`xl`: >= 1200px — wide desktop monitors) */
 @media (min-width: 1200px) {
   .col-xl-3 { flex: 0 0 auto; width: 25%; }
   .col-xl-4 { flex: 0 0 auto; width: 33.33333333%; }
@@ -285,7 +388,15 @@ body.h-100 {
   .col-xl-10 { flex: 0 0 auto; width: 83.33333333%; }
 }
 
-/* Display & Flex Utilities */
+/* ============================================================================
+ * 6. DISPLAY, FLEXBOX & GAP UTILITIES
+ * ============================================================================
+ * Single-purpose atomic classes use `!important` intentionally so `<div class="card d-none">`
+ * ALWAYS hides the card regardless of `.card`'s own `display` rule.
+ * - `justify-content-*` aligns flex items along the MAIN axis (horizontal in a row).
+ * - `align-items-*` aligns flex items along the CROSS axis (vertical in a row).
+ * - `.gap-1`..`.gap-5` inserts uniform spacing between flex or CSS Grid children.
+ * ============================================================================ */
 .d-flex { display: flex !important; }
 .d-inline-flex { display: inline-flex !important; }
 .d-grid { display: grid !important; }
@@ -319,7 +430,17 @@ body.h-100 {
 .gap-4 { gap: 1.5rem !important; }
 .gap-5 { gap: 3rem !important; }
 
-/* Margin & Padding Scale (0-5) */
+/* ============================================================================
+ * 7. MARGIN (`m*`) & PADDING (`p*`) SPACING SCALE (0 through 5)
+ * ============================================================================
+ * Naming decoder for 100-level students:
+ *   First letter:  `m` = outer `margin`, `p` = inner `padding`.
+ *   Second letter: `t` = top, `b` = bottom, `s` = start (left), `e` = end (right),
+ *                  `x` = horizontal (left + right), `y` = vertical (top + bottom).
+ *   Scale number (`1rem` = 16px default browser font size):
+ *     `0` = `0`, `1` = `0.25rem` (4px), `2` = `0.5rem` (8px),
+ *     `3` = `1rem` (16px), `4` = `1.5rem` (24px), `5` = `3rem` (48px).
+ * ============================================================================ */
 .m-0 { margin: 0 !important; }
 .m-1 { margin: 0.25rem !important; }
 .m-2 { margin: 0.5rem !important; }
@@ -425,7 +546,14 @@ body.h-100 {
 .py-4 { padding-top: 1.5rem !important; padding-bottom: 1.5rem !important; }
 .py-5 { padding-top: 3rem !important; padding-bottom: 3rem !important; }
 
-/* Typography & Text Utilities */
+/* ============================================================================
+ * 8. FLUID TYPOGRAPHY & TEXT UTILITIES
+ * ============================================================================
+ * Notice `font-size: calc(1.375rem + 1.5vw)` on `.h1, h1` and `.display-*`:
+ *   - Adding `1.375rem` ensures text respects browser zoom / accessibility font scaling!
+ *   - Adding `1.5vw` (1.5% of the viewport width) gently scales headlines up on
+ *     desktop monitors and down on narrow phones without abrupt jumps!
+ * ============================================================================ */
 .text-center { text-align: center !important; }
 .text-start { text-align: left !important; }
 .text-end { text-align: right !important; }
@@ -465,7 +593,13 @@ body.h-100 {
 .fs-5 { font-size: 1.25rem !important; }
 .fs-6 { font-size: 1rem !important; }
 
-/* Semantic Colors */
+/* ============================================================================
+ * 9. SEMANTIC FOREGROUND (`.text-*`) & BACKGROUND (`.bg-*`) COLORS
+ * ============================================================================
+ * Because these classes reference `var(--bs-*)`, switching between Light Mode
+ * and Dark Mode automatically swaps `.text-primary`, `.bg-body`, `.text-muted`,
+ * etc. to their contrast-verified counterparts!
+ * ============================================================================ */
 .bg-body { background-color: var(--bs-body-bg) !important; }
 .bg-body-tertiary { background-color: var(--bs-tertiary-bg) !important; }
 .bg-base-200 { background-color: var(--bs-tertiary-bg); }
@@ -497,7 +631,9 @@ body.h-100 {
 .bg-white { background-color: #ffffff !important; }
 .bg-transparent { background-color: transparent !important; }
 
-/* Sizing & Borders */
+/* ============================================================================
+ * 10. SIZING, ROUNDED CORNERS, BORDERS, SHADOWS & OPACITY
+ * ============================================================================ */
 .w-100, .w-full { width: 100% !important; }
 .w-50 { width: 50% !important; }
 .w-64 { width: 16rem !important; }
@@ -505,11 +641,13 @@ body.h-100 {
 .w-80 { width: 20rem !important; }
 .h-100 { height: 100% !important; }
 .min-vh-100 { min-height: 100vh !important; }
+/* `.img-fluid` prevents large images from overflowing narrow parent columns while keeping aspect ratio. */
 .img-fluid { max-width: 100%; height: auto; }
 
 .rounded { border-radius: 0.5rem !important; }
 .rounded-0 { border-radius: 0 !important; }
 .rounded-3, .rounded-4, .rounded-box { border-radius: 0.75rem !important; }
+/* `9999px` radius creates stadium/capsule pills regardless of button height; `50%` turns squares into circles. */
 .rounded-pill, .rounded-full { border-radius: 9999px !important; }
 .rounded-circle { border-radius: 50% !important; }
 
@@ -536,11 +674,19 @@ body.h-100 {
 .opacity-75 { opacity: 0.75 !important; }
 .opacity-80 { opacity: 0.80 !important; }
 
-/* Links */
+/* Secondary muted footer/breadcrumb links that underline on hover */
 .link-secondary { color: var(--bs-secondary-color); text-decoration: none; }
 .link-secondary:hover { color: var(--bs-body-color); text-decoration: underline; }
 
-/* Navbar & Nav */
+/* ============================================================================
+ * 11. RESPONSIVE NAVBAR & NAVIGATION LINKS (`.navbar`, `.navbar-expand-md`)
+ * ============================================================================
+ * - Below `768px` (`max-width: 767.98px`): `.navbar-collapse:not(.show)` hides
+ *   the menu links until the mobile hamburger button toggles `.show`, and
+ *   `.navbar-nav` stacks links vertically (`flex-direction: column`).
+ * - At `>= 768px`: `.navbar-expand-md` switches `.navbar-collapse` to horizontal
+ *   `display: flex` pushed to the right (`margin-left: auto`).
+ * ============================================================================ */
 .navbar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; padding: 0.5rem 1rem; width: 100%; }
 @media (min-width: 768px) {
   .navbar-expand-md { flex-wrap: nowrap !important; justify-content: space-between !important; }
@@ -573,7 +719,13 @@ body.h-100 {
   .navbar-collapse:not(.show) { display: none !important; }
 }
 
-/* High-Contrast Callout / Alert Surfaces (WCAG 2.1 AA in Light & Dark Mode) */
+/* ============================================================================
+ * 12. HIGH-CONTRAST CALLOUT / ALERT SURFACES & LIST GROUPS
+ * ============================================================================
+ * Instead of tinted pastel alert backgrounds (which often fail WCAG 4.5:1 text
+ * contrast in Dark Mode), `.alert` uses `--bs-tertiary-bg` + `--bs-body-color`
+ * with a thick `4px` semantic left accent bar (`border-left-width: 4px`)!
+ * ============================================================================ */
 .alert {
   background-color: var(--bs-tertiary-bg) !important;
   color: var(--bs-body-color) !important;
@@ -596,7 +748,7 @@ body.h-100 {
 .nav { display: flex; flex-wrap: wrap; padding-left: 0; margin-bottom: 0; list-style: none; }
 .list-unstyled { padding-left: 0; list-style: none; }
 
-/* List Group */
+/* Vertical stacked list cards (`.list-group` & `.list-group-item`) */
 .list-group { display: flex; flex-direction: column; padding-left: 0; margin-bottom: 0; }
 .list-group-item { position: relative; display: block; padding: 0.5rem 1rem; color: var(--bs-body-color); text-decoration: none; background-color: transparent; border: 1px solid var(--bs-border-color); }
 .list-group-flush > .list-group-item { border-width: 0 0 1px; }
@@ -604,7 +756,17 @@ body.h-100 {
 .list-group-item-action:hover, .list-group-item-action:focus { color: var(--bs-primary); background-color: var(--bs-tertiary-bg); }
 .list-group-item.active { z-index: 2; color: #fff; background-color: var(--bs-primary); border-color: var(--bs-primary); font-weight: bold; }
 
-/* Accessibility */
+/* ============================================================================
+ * 13. ACCESSIBILITY: SCREEN-READER-ONLY CLIPPING (`.visually-hidden`)
+ * ============================================================================
+ * 100-Level Accessibility Lesson:
+ * Why NOT use `display: none` or `visibility: hidden` for screen-reader labels?
+ * Because `display: none` hides the element from VoiceOver/NVDA/JAWS too!
+ * Shrinking the box to `1px x 1px` with `overflow: hidden; clip: rect(0,0,0,0)`
+ * makes it invisible to sighted eyes while keeping it 100% readable to assistive
+ * technology. Even better: `.visually-hidden-focusable` un-clips itself as soon
+ * as a keyboard user presses `Tab` onto it (essential for "Skip to Main Content" links!).
+ * ============================================================================ */
 .visually-hidden,
 .visually-hidden-focusable:not(:focus):not(:focus-within) {
   position: absolute !important;
@@ -618,7 +780,9 @@ body.h-100 {
   border: 0 !important;
 }
 
-/* Positioning */
+/* ============================================================================
+ * 14. POSITIONING, COORDINATE OFFSETS & Z-INDEX UTILITIES
+ * ============================================================================ */
 .position-static { position: static !important; }
 .position-relative { position: relative !important; }
 .position-absolute { position: absolute !important; }
@@ -638,13 +802,19 @@ body.h-100 {
 .end-0 { right: 0 !important; }
 .end-50 { right: 50% !important; }
 .end-100 { right: 100% !important; }
+/* Pair `.top-50.start-50.translate-middle` on an `absolute` child to center it dead-on! */
 .translate-middle { transform: translate(-50%, -50%) !important; }
 .translate-middle-x { transform: translateX(-50%) !important; }
 .translate-middle-y { transform: translateY(-50%) !important; }
 .z-3 { z-index: 3 !important; }
 .z-50 { z-index: 50 !important; }
 
-/* Responsive Utilities */
+/* ============================================================================
+ * 15. RESPONSIVE DISPLAY, FLEX & SPACING BREAKPOINT OVERRIDES
+ * ============================================================================
+ * Example: `<div class="d-none d-md-flex">` is hidden on phones (< 768px) and
+ * switches to `display: flex` on tablets and desktops (>= 768px).
+ * ============================================================================ */
 @media (min-width: 576px) {
   .d-sm-none { display: none !important; }
   .d-sm-block { display: block !important; }
@@ -707,7 +877,15 @@ body.h-100 {
 }
 
 /* ============================================================================
- * IMMERSIVE HERO ROTATOR & GLASS UI SYSTEM (Contact, Mission Profile & Hubs)
+ * 16. IMMERSIVE HERO ROTATOR & FROSTED-GLASS UI SYSTEM
+ * ============================================================================
+ * Powers the 3-layer stack driven by `hero-image.js`:
+ *   - Layer `z-index: 0` (`.hero-bg-layer`): Cross-fading full-bleed photography
+ *     with `transition: opacity 1.8s ease-in-out`.
+ *   - Layer `z-index: 1` (`.hero-overlay`): Dark scrim (`rgba(4, 7, 15, 0.72)`)
+ *     dimming bright background areas so foreground text never loses contrast.
+ *   - Layer `z-index: 10` (`.content-wrapper` + `.glass-card`): Frosted-glass
+ *     cards (`backdrop-filter: blur(12px) saturate(120%)`) floating on top!
  * ============================================================================ */
 .immersive-container {
   position: relative;
@@ -763,6 +941,7 @@ body.h-100 {
   transition: transform 0.3s ease, border-color 0.3s ease, box-shadow 0.3s ease;
 }
 
+/* Subtle `4px` upward hover lift using GPU-accelerated `transform: translateY(-4px)`. */
 .glass-card:hover,
 .hover-lift:hover {
   transform: translateY(-4px);
@@ -784,6 +963,7 @@ body.h-100 {
   filter: brightness(0) invert(1) drop-shadow(0 0 10px rgba(255, 255, 255, 0.6));
 }
 
+/* Pill badges & timeline callout cards used on Mission Profile / About pages */
 .skill-pill {
   font-size: 0.85rem;
   font-weight: 600;
@@ -806,7 +986,13 @@ body.h-100 {
   box-shadow: 0 .5rem 1rem rgba(0,0,0,.15);
 }
 
-/* HUD Glass Panels */
+/* ============================================================================
+ * 17. TINTED HUD GLASS CALLOUT PANELS (`.bg-hud-blue`, `-green`, `-orange`, `-red`)
+ * ============================================================================
+ * Translucent `135deg` diagonal gradient panels with a `4px` semantic left
+ * border, keeping `color: var(--bs-body-color)` so text stays sharp in both
+ * Light Mode and Dark Mode.
+ * ============================================================================ */
 .bg-hud-base, .bg-hud-blue, .bg-hud-green, .bg-hud-orange, .bg-hud-warning, .bg-hud-red {
   backdrop-filter: blur(8px) saturate(120%);
   -webkit-backdrop-filter: blur(8px) saturate(120%);

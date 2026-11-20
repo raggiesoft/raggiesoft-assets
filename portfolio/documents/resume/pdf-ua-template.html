@@ -1,34 +1,64 @@
 <!doctype html>
 <!--
 ==============================================================================
-Architectural Block: pdf-ua-template.html
+PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (READ-ALONG TEACHING HEADER)
 ==============================================================================
-Clean semantic HTML5 Pandoc template engineered specifically for WeasyPrint 70+
-`--pdf-variant pdf/ua-1` compilation. Emits zero legacy screen-only CSS rules,
-preserves strict `<html lang="en-US">`, `<title>`, and `<main>` landmarks, and
-maps Markdown `#` / `##` / `###`, paragraphs, lists, and anchors directly into
-ISO 14289-1 (PDF/UA-1) & Federal Section 508 structure tags (`<H1>`, `<H2>`,
-`<H3>`, `<P>`, `<L>`, `<LI>`, `<Link>`).
+What is this file?
+  This is pdf-ua-template.html, a custom Pandoc HTML5 document template used
+  by build-resume.sh and build-cover-letter.sh as the bridge between plain-text
+  Markdown files and WeasyPrint's ISO 14289-1 (PDF/UA-1) PDF compiler.
+
+Why does this file exist instead of using Pandoc's default HTML template?
+  Pandoc's built-in standalone HTML template injects dozens of screen-only CSS
+  rules (wide desktop margins, responsive max-widths, dark-mode overrides) that
+  interfere with print pagination. By using this minimal, strictly semantic
+  HTML5 skeleton, only our dedicated print stylesheet (resume-pdf-ua.css or
+  cover-letter-pdf-ua.css) controls the page layout, and every Markdown element
+  maps 1-to-1 into an accessible PDF structure tag:
+    - Markdown level-1, level-2, and level-3 headings become PDF H1, H2, and H3 tags
+    - Markdown paragraphs become PDF P tags
+    - Markdown bullet lists become PDF L and LI list tags
+    - Markdown links become PDF Link tags paired with spoken descriptions
+
+How Pandoc Template Placeholders Work:
+  When Pandoc runs, it replaces template variables and conditional/loop blocks
+  in this file with metadata passed on the command line (such as lang,
+  pagetitle, author-meta, description-meta, css stylesheet paths, and the
+  rendered HTML body).
+
+What inputs feed into it, and what output does it produce?
+  - Inputs: Markdown prose + metadata flags passed from build-resume.sh or
+    build-cover-letter.sh.
+  - Output: A clean, UTF-8 HTML5 intermediate file ready for WeasyPrint pdf/ua-1
+    compilation into a Section 508 compliant PDF.
 ==============================================================================
 -->
+<!-- Primary Natural Language (WCAG 3.1.1): uses the lang metadata value if provided, or defaults to en-US so WeasyPrint writes /Lang (en-US) onto the PDF Document Catalog -->
 <html lang="$if(lang)$$lang$$else$en-US$endif$">
 <head>
+  <!-- UTF-8 character encoding preserves em-dashes, bullets, and typographic quotes cleanly -->
   <meta charset="utf-8">
+  <!-- Document Title (WCAG 2.4.2): WeasyPrint maps the HTML title element into XMP dc:title metadata and sets /DisplayDocTitle true in the PDF viewer window -->
   <title>$pagetitle$</title>
+  <!-- Optional Author Metadata: included only when author-meta is passed to Pandoc, populating PDF XMP creator metadata -->
 $if(author-meta)$
   <meta name="author" content="$author-meta$">
 $endif$
+  <!-- Optional Document Description: included when description-meta is passed, populating PDF XMP subject/description metadata -->
 $if(description-meta)$
   <meta name="description" content="$description-meta$">
 $endif$
+  <!-- Optional Keywords Loop: joins multiple keyword entries with a comma and space if provided -->
 $if(keywords)$
   <meta name="keywords" content="$for(keywords)$$keywords$$sep$, $endfor$">
 $endif$
+  <!-- Print Stylesheet Loop: links each CSS file passed via Pandoc's css flag (resume-pdf-ua.css or cover-letter-pdf-ua.css) -->
 $for(css)$
   <link rel="stylesheet" href="$css$">
 $endfor$
 </head>
 <body>
+  <!-- Semantic Main Landmark: wraps Pandoc's converted Markdown body so assistive technologies traverse one clean Document structure tree -->
   <main>
 $body$
   </main>

@@ -2,103 +2,147 @@
  * ============================================================================
  * Stardust Engine UI Scripts (raggiesoft-ui.js)
  * ============================================================================
- * 
- * ARCHITECTURAL OVERVIEW:
- * This file provides vanilla JavaScript enhancements for the Stardust Engine's UI.
- * It manages:
- * 1. Mobile sidebar toggling and backdrop interaction.
- * 2. Reading theme controller (e.g., toggling light, dark, sepia modes for long-form content).
- * 3. SPA Link Interceptor, ensuring traditional button/anchor links behave gracefully 
- *    with the Elara SPA router by simulating true anchor clicks.
- * 
- * DESIGN PHILOSOPHY:
- * Keep it lightweight, dependency-free (vanilla JS), and focused strictly on 
- * cross-theme/global interaction patterns.
+ * PLAIN-ENGLISH OVERVIEW (READ THIS FIRST):
+ * What is this file?
+ *   This is a dependency-free ("vanilla") JavaScript file that wires up three
+ *   interactive behaviors for Stardust Engine pages:
+ *     1. Opening and closing the slide-out mobile navigation sidebar (`#rs-sidebar`).
+ *     2. Switching the long-form reading color theme (`light`, `dark`, `sepia`)
+ *        and remembering the user's choice in `localStorage`.
+ *     3. Allowing `<button href="...">` / `.rs-btn[href]` elements to navigate
+ *        smoothly through our Single-Page Application (SPA) router without
+ *        triggering a full browser reload.
+ *
+ * JAVASCRIPT & DOM FUNDAMENTALS USED IN THIS FILE:
+ * - The DOM (Document Object Model): The browser's live, in-memory tree of HTML
+ *   elements on the page (`document`). JavaScript reads and updates HTML tags
+ *   through `document.getElementById(...)`, `.classList`, and `.addEventListener(...)`.
+ * - Arrow Functions `(e) => { ... }`: Modern ES6 shorthand for `function(e) { ... }`.
+ * - Event Bubbling: When you click a button inside a `<body>`, that click event
+ *   travels ("bubbles") upward from the button -> parent `<div>` -> `<body>` -> `document`.
  * ============================================================================
  */
 
-// Initialize UI behaviors once the DOM is fully constructed
+// Wait for `DOMContentLoaded` before looking up `#rs-sidebar-toggle` or `#rs-sidebar`.
+// Why? If this script runs in `<head>` before the browser has finished reading `<body>`,
+// `document.getElementById(...)` would return `null` ("not found yet"). `DOMContentLoaded`
+// fires the exact millisecond all HTML tags have been parsed into the DOM tree.
 document.addEventListener('DOMContentLoaded', () => {
-  // Select sidebar DOM elements
-  const toggleBtn = document.getElementById('rs-sidebar-toggle');
-  const sidebar = document.getElementById('rs-sidebar');
-  const backdrop = document.getElementById('rs-backdrop');
-  
-  // 1. Sidebar Toggle Logic
-  if (toggleBtn && sidebar) {
-    toggleBtn.addEventListener('click', (e) => {
-      // Prevent click from bubbling up to document and immediately closing the sidebar
-      e.stopPropagation();
-      // Toggle the visual state of the sidebar
-      sidebar.classList.toggle('open');
-      // If a backdrop element exists, toggle its visibility as well
-      if (backdrop) backdrop.classList.toggle('open');
-    });
-  }
-  
-  // 2. Backdrop Dismiss Logic
-  // Allows users to click outside the sidebar (on the backdrop) to close it
-  if (backdrop) {
-    backdrop.addEventListener('click', () => {
-      sidebar.classList.remove('open');
-      backdrop.classList.remove('open');
-    });
-  }
+    // Look up the three optional sidebar elements by their unique HTML `id="..."` attributes.
+    // `const` declares a block-scoped reference that won't be reassigned later in this function.
+    const toggleBtn = document.getElementById('rs-sidebar-toggle');
+    const sidebar = document.getElementById('rs-sidebar');
+    const backdrop = document.getElementById('rs-backdrop');
+
+    // -------------------------------------------------------------------------
+    // 1. Mobile Sidebar Open / Close Toggle
+    // -------------------------------------------------------------------------
+    // Defensive null-check: only attach the click listener on pages that actually render a sidebar.
+    if (toggleBtn && sidebar) {
+        toggleBtn.addEventListener('click', (e) => {
+            // Stop this click event from bubbling up to `document` / parent listeners
+            // that might treat "any click outside the sidebar" as a signal to close it immediately.
+            e.stopPropagation();
+
+            // `.classList.toggle('open')` adds the `open` CSS class if absent, or removes it if present.
+            // In `raggiesoft-ui.css`, `.rs-sidebar.open` slides the drawer from `translateX(-100%)` to `0`.
+            sidebar.classList.toggle('open');
+
+            // If the page also includes a dimmed `#rs-backdrop` overlay behind the drawer, toggle it in sync.
+            if (backdrop) backdrop.classList.toggle('open');
+        });
+    }
+
+    // -------------------------------------------------------------------------
+    // 2. Backdrop Tap-to-Dismiss Logic
+    // -------------------------------------------------------------------------
+    // Letting users tap anywhere on the dimmed background overlay to close the drawer
+    // is a standard mobile usability pattern alongside close buttons.
+    if (backdrop && sidebar) {
+        backdrop.addEventListener('click', () => {
+            // Explicitly `.remove('open')` so clicking the backdrop always closes (never opens) the drawer.
+            sidebar.classList.remove('open');
+            backdrop.classList.remove('open');
+        });
+    }
 });
 
 /**
- * Reading Theme Controller
- * 
- * Allows users to override the global app theme for a specific reading view
- * (e.g., switching an article from dark mode to a high-contrast or sepia mode).
- * 
- * @param {string} theme - The string identifier of the theme ('light', 'dark', 'sepia', 'default').
+ * -----------------------------------------------------------------------------
+ * 3. Reading Theme Controller (`window.setReaderTheme`)
+ * -----------------------------------------------------------------------------
+ * Why attach this function to `window`?
+ *   In browsers, `window` is the global object. Assigning `window.setReaderTheme = ...`
+ *   makes `setReaderTheme('sepia')` callable directly from inline HTML button handlers
+ *   (like `onclick="setReaderTheme('sepia')"`) or other scripts across the page.
+ *
+ * @param {string} theme - Theme identifier: `'light'`, `'dark'`, `'sepia'`, or `'default'`.
  */
-window.setReaderTheme = function(theme) {
-    // Reset state by removing all known reader theme classes from the root HTML element
+window.setReaderTheme = function (theme) {
+    // `document.documentElement` refers directly to the root `<html>` tag at the top of the document.
+    // First, strip all three known theme classes so two themes (e.g., `reader-light` AND `reader-dark`)
+    // are never active at the same time.
     document.documentElement.classList.remove('reader-light', 'reader-dark', 'reader-sepia');
-    
-    // Apply the newly requested theme, assuming 'default' means fallback to system/app styling
+
+    // If the user picked a specific reading palette (not `'default'`), add `reader-light`,
+    // `reader-dark`, or `reader-sepia` to `<html>`, which activates the CSS variables in `theme-default.css`.
     if (theme !== 'default') {
         document.documentElement.classList.add('reader-' + theme);
     }
-    
-    // Persist the user's choice in localStorage so it remains active across page reloads
+
+    // `localStorage` is a small key-value dictionary built into every web browser that survives
+    // tab closes and browser restarts (unlike normal JS variables, which reset on refresh).
+    // Saving `'rs-reader-theme'` lets the next page load restore the user's preferred palette.
     localStorage.setItem('rs-reader-theme', theme);
 };
 
 /**
- * Link Buttons Handler (SPA Interceptor)
- * 
- * Intercepts clicks on button elements masquerading as links (e.g., <button href="...">).
- * This bridges UI components that visually look like buttons but need routing capabilities.
+ * -----------------------------------------------------------------------------
+ * 4. Delegated Button-Link SPA Interceptor
+ * -----------------------------------------------------------------------------
+ * What problem does this solve?
+ *   Sometimes a template renders `<button class="rs-btn" href="/about">Learn More</button>`.
+ *   Unlike `<a href="/about">`, HTML `<button>` tags ignore `href` attributes by default!
+ *
+ * Why listen on `document` instead of looping over every button ("Event Delegation")?
+ *   When our Single-Page Application (SPA) router swaps in new page HTML dynamically,
+ *   any newly inserted buttons automatically work without needing to re-attach listeners,
+ *   because their click events bubble up to `document`!
  */
 document.addEventListener('click', (e) => {
-    // Look for the closest ancestor that is a button with an href, or a custom rs-btn
-    const btn = e.target.closest('button[href], .rs-btn[href]');
-    
+    // `e.target` is the exact innermost element clicked (for example, an `<i>` icon inside a button).
+    // `.closest('button[href], .rs-btn[href]')` walks UP the DOM tree from `e.target` to check if
+    // the click happened on (or inside) a `<button href="...">` or `.rs-btn[href]`.
+    // Guard `e.target.closest` first in case a non-Element node ever dispatches an event.
+    const btn = e.target && e.target.closest ? e.target.closest('button[href], .rs-btn[href]') : null;
+
     if (btn) {
-        // Prevent default form submission or normal button behavior
+        // If `btn` is actually a real `<a class="rs-btn" href="...">` anchor tag, let the browser
+        // or the SPA router handle that real `<a>` click naturally so we don't loop infinitely!
+        if (btn.tagName === 'A') return;
+
+        // Stop `<button>` inside a `<form>` from accidentally submitting the form.
         e.preventDefault();
-        
-        // Extract routing information
+
+        // Read the destination URL and optional `target` attribute (`_blank` for new tab) from the HTML tag.
         const url = btn.getAttribute('href');
         const target = btn.getAttribute('target');
-        
-        // If the button explicitly requests a new tab/window, respect it
+        if (!url) return;
+
+        // Respect `target="_blank"` by opening external/new-tab links via `window.open` with `noopener` safety.
         if (target === '_blank') {
-            window.open(url, '_blank');
+            window.open(url, '_blank', 'noopener');
         } else {
             // Virtual Anchor Simulation:
-            // We create a temporary anchor element and click it programmatically.
-            // Why? So the underlying Elara SPA Router (or other router frameworks) 
-            // natively intercepts the 'click' event on an <a> tag and handles the 
-            // client-side routing gracefully, avoiding a full page refresh.
+            // Create a temporary invisible `<a href="...">` tag in memory, append it to `<body>`,
+            // trigger `.click()` on it, and immediately remove it.
+            // Why? Because the Elara/Stardust SPA router listens for clicks on genuine `<a>` tags
+            // to perform smooth client-side page transitions (keeping background music playing!).
             const a = document.createElement('a');
             a.href = url;
             document.body.appendChild(a);
             a.click();
-            document.body.removeChild(a); // Cleanup the temporary element
+            document.body.removeChild(a);
         }
     }
 });

@@ -1,12 +1,22 @@
 /* ==========================================================================
- * STARDUST ENGINE LIBRARY - SYSTEM-ADAPTIVE SEPIA THEME
- * theme-sepia-system.css
+ * PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (100-LEVEL JAVASCRIPT / WEB INTRO)
  * ==========================================================================
- * Automatically switches between Warm Sepia (`prefers-color-scheme: light`)
- * and Warm Dark-Sepia (`prefers-color-scheme: dark`) with full WCAG 2.1 AA/AAA
- * 13-token coverage.
+ * File: library/css/src/theme-sepia-system.css
+ * Compiled Into:
+ *   - `library/css/stardust-engine.min.css`      (bundled global engine CSS)
+ *   - `library/css/theme-sepia-system.min.css`   (standalone theme file)
+ *
+ * WHAT IS THIS FILE?
+ *   Some readers love warm parchment paper all day AND want automatic Dark Mode
+ *   after sunset without manually toggling Settings twice a day!
+ *   Choosing **"Warm Paper (Follow System)"** (`theme-sepia-system`) gives them:
+ *     - **Daytime (`prefers-color-scheme: light`)**: Classic Warm Sepia (`#f4ecd8`)
+ *     - **Nighttime (`@media (prefers-color-scheme: dark)`)**: Warm Dark-Sepia (`#1c1814`)
+ *   All 13 `--rs-*` tokens flip together instantaneously the moment macOS, iOS,
+ *   Windows, or Android transitions from Day to Night!
  * ========================================================================== */
 
+/* 1. Daytime Baseline: Warm Cream-Parchment Sepia (`prefers-color-scheme: light`) */
 body.theme-sepia-system {
     color-scheme: light;
     --rs-bg: #f4ecd8;
@@ -24,6 +34,7 @@ body.theme-sepia-system {
     --rs-gesture: #4c1d95;
 }
 
+/* 2. Nighttime Override: Warm Roasted-Espresso Dark-Sepia when OS switches to Dark Mode */
 @media (prefers-color-scheme: dark) {
     body.theme-sepia-system {
         color-scheme: dark;

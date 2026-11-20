@@ -1,19 +1,25 @@
 /**
  * @license MIT
  * ============================================================================
- * raggiesoft-assets/common/js/raggiesoft-network.js
+ * READ-ALONG TEACHING OVERVIEW: raggiesoft-network.js
+ * Hosted at: https://assets.raggiesoft.com/common/js/raggiesoft-network.js
  * ============================================================================
- * Architectural Overview:
- * Unified Omnidirectional Ecosystem Navigation, Multi-Dropdown Menu Engine
- * (`📚 Ocean View ▾`, `⚙️ Engine Room ▾`, `👔 Portfolio & Resume ▾`), Native PWA
- * Immersion Guard, & Mobile Single-Hamburger Enhancer shared across all
- * RaggieSoft properties:
+ * WHAT THIS FILE IS:
+ *   The universal cross-site navigation, accessibility, and seasonal-ribbon
+ *   engine shared across all 10 RaggieSoft web properties. Because RaggieSoft's
+ *   websites are intentionally built on diverse tech stacks (PHP + DaisyUI,
+ *   SvelteKit, Next.js + React, Astro, Nuxt + Vue, Bootstrap, Web Awesome,
+ *   Vanilla TypeScript, and Zoneless Angular), they cannot share a React or Vue
+ *   component directly. Instead, every property loads this single zero-dependency
+ *   Vanilla JavaScript file, which upgrades the DOM consistently everywhere!
+ *
+ * WHICH WEBSITES LOAD IT (ALL 10 ECOSYSTEM PROPERTIES):
  *   1. raggiesoft.com (Hub)
  *   2. nebulae.raggiesoft.com (Nebulae Atlas)
  *   3. books.raggiesoft.com (Ocean View Archives + Literary Universes Menu)
  *      └── Flagship Literary Universes:
- *          • Ocean View Archives Hub (books.raggiesoft.com)
- *          • Contemporary Fiction (books.raggiesoft.com/#contemporary-fiction)
+ *          • Escape Velocity (Ad Astra) (books.raggiesoft.com/ad-astra)
+ *          • Contemporary Fiction (books.raggiesoft.com/library)
  *          • Project: KNOX (books.raggiesoft.com/knox)
  *          • The Silver Gauntlet of Aethel (books.raggiesoft.com/aethel-saga)
  *   4. engineroom.raggiesoft.com (Engine Room Records + Band Roster Menu)
@@ -39,22 +45,68 @@
  *          • Multi-Repo & CDN Sync — jenna-sync.sh (michaelpragsdale.com/build-team/jenna)
  *          • Non-Root Cron Deployer — sarah-deploy.sh (michaelpragsdale.com/build-team/sarah)
  *          • Front-Controller Router — elara.php (michaelpragsdale.com/build-team/amanda-elara)
+ *
+ * WHAT INPUTS IT CONSUMES:
+ *   - `window.location.hostname`, `pathname`, and `search` (`?holiday=preview`).
+ *   - System clock (`Date.now()`, `Temporal` / `Intl.DateTimeFormat` in `America/New_York`).
+ *   - `localStorage` (`rs_holiday_snow_pref`) and `sessionStorage` (`rs_holiday_preview_mode`).
+ *   - OS media queries (`prefers-reduced-motion`, `(hover: hover)`, PWA `display-mode`).
+ *   - Existing `.rs-network-bar` and mobile menu containers (`#primary-navigation`,
+ *     `#header-navigation-panel`, `#navbarCollapse`, `#music-mobile-navigation`, `#stardust-sidebar`).
+ *
+ * WHAT VISIBLE UI & METADATA IT PRODUCES:
+ *   - Upgrades `.rs-network-bar` on desktop with 3 accessible hover/click/keyboard
+ *     dropdown menus (`📚 Ocean View ▾`, `⚙️ Engine Room ▾`, `👔 Portfolio & Resume ▾`).
+ *   - Injects a 2-column `.rs-mobile-network-section` switcher + collapsible accordions
+ *     into each site's mobile hamburger menu so phones never have double hamburger bars.
+ *   - Displays the auto-expiring 30-day Sir Patrick Stewart *In Memoriam* ribbon
+ *     through `2026-11-28T23:59:59-05:00`, followed automatically on Nov 29, 2026
+ *     by the yearly Holiday Season ribbon & pauseable GPU snowfall through Jan 1.
+ *   - Injects `<style id="rs-network-core-css">` and `<script type="application/ld+json" id="rs-ecosystem-jsonld">`.
+ *   - Hides cross-site navigation chrome automatically inside installed OS PWAs.
+ *
+ * 100-LEVEL JAVASCRIPT CONCEPTS TAUGHT IN THIS FILE:
+ *   - IIFEs (`(function () { 'use strict'; ... })()`): Private module encapsulation.
+ *   - ISO-8601 Timestamp Expiration (`Date.parse`) & Timezone-Locked Dates (`America/New_York`).
+ *   - Document-Level Event Delegation (`pointerover`, `mousemove`, `focusout`, `click`, `keydown`).
+ *   - WAI-ARIA Disclosure Attributes (`aria-expanded`, `aria-controls`, `aria-current="page"`, `Escape` focus return).
+ *   - `MutationObserver`: Reacting automatically when Angular or SPA routers mount new DOM nodes.
  * ============================================================================
  */
 (function () {
+  /* `'use strict'` opts this IIFE into ES5+ Strict Mode, catching accidental
+   * undeclared global variables right away instead of silently creating `window.foo`. */
   'use strict';
 
   /**
-   * 30-Day Network-Wide In Memoriam Ribbon Expiration Timestamp
-   * Honoring Sir Patrick Stewart (July 13, 1940 – October 28, 2026).
-   * Automatically hides `.rs-memoriam-bar` across all RaggieSoft properties after
-   * November 28, 2026 at 23:59:59 EST (`2026-11-28T23:59:59-05:00`), even if not
-   * manually removed on November 29, 2026.
+   * ==========================================================================
+   * SECTION 0: TIME-GATED MEMORIAL RIBBON & YEARLY HOLIDAY SCHEDULE
+   * ==========================================================================
+   * 1. `MEMORIAM_EXPIRES_ISO`: Fixed ISO-8601 timestamp with `-05:00` (US Eastern
+   *    Standard Time) offset honoring Sir Patrick Stewart (July 13, 1940 –
+   *    October 28, 2026). After `2026-11-28T23:59:59-05:00`, `isMemoriamActive()`
+   *    returns `false` automatically on every visitor's browser without needing
+   *    a server redeploy!
+   * 2. `SNOW_STORAGE_KEY`: `localStorage` key remembering whether the visitor
+   *    clicked "Pause Snow" (`'paused'`) or "Play Snow" (`'playing'`) across visits.
+   * 3. `HOLIDAY_PREVIEW_SESSION_KEY`: `sessionStorage` key letting developers
+   *    test `?holiday=preview` in a single tab without affecting normal tabs.
    */
   var MEMORIAM_EXPIRES_ISO = '2026-11-28T23:59:59-05:00';
   var SNOW_STORAGE_KEY = 'rs_holiday_snow_pref';
   var HOLIDAY_PREVIEW_SESSION_KEY = 'rs_holiday_preview_mode';
 
+  /**
+   * Checks whether the current moment (or an optional `customDate` passed by unit tests)
+   * is on or before `2026-11-28T23:59:59-05:00`.
+   *
+   * How ISO timestamp comparison works in JS:
+   *   - `Date.parse('2026-11-28T23:59:59-05:00')` converts that exact Eastern Time
+   *     instant into UTC epoch milliseconds (milliseconds since Jan 1, 1970 00:00:00 UTC).
+   *   - `Date.now()` returns the current UTC epoch milliseconds.
+   *   - Comparing two UTC millisecond integers (`checkMs <= expiryMs`) is 100% immune
+   *     to whatever local timezone the visitor's laptop or phone is set to!
+   */
   function isMemoriamActive(customDate) {
     try {
       var expiryMs = Date.parse(MEMORIAM_EXPIRES_ISO);
@@ -67,10 +119,16 @@
   }
 
   /**
-   * Resolves calendar `{ year, month, day }` strictly in `America/New_York`
-   * so Black Friday and January 2 transitions never drift across visitor timezones.
-   * Uses `Temporal.ZonedDateTime` where supported natively, with a deterministic
-   * `Intl.DateTimeFormat` fallback for Safari and older engines.
+   * Resolves today's `{ year, month, day }` calendar numbers strictly in New York
+   * time (`America/New_York`), regardless of whether the visitor is in Tokyo,
+   * London, California, or Virginia.
+   *
+   * Three-tier progressive fallback:
+   *   1. Modern `Temporal.Instant` API (newest JS standard, zero quirks).
+   *   2. `Intl.DateTimeFormat('en-US', { timeZone: 'America/New_York' }).formatToParts()`
+   *      (supported in every evergreen browser—extracts numeric `year`, `month`, `day`).
+   *   3. Local `Date` getters (`getFullYear()`, `getMonth() + 1` since JS months
+   *      are 0-indexed `0..11`, and `getDate()`).
    */
   function getEasternCalendarDate(customDate) {
     var targetDate = customDate instanceof Date && !isNaN(customDate.getTime()) ? customDate : new Date();
@@ -111,7 +169,14 @@
   }
 
   /**
-   * Computes Black Friday (the day after the 4th Thursday of November) for any year.
+   * Computes which day-of-month in November is Black Friday for any given `year`.
+   * Step-by-step calendar math:
+   *   1. `Date.UTC(year, 10, 1)` creates November 1st (remember JS months start at `0`,
+   *      so `10` = November!). `.getUTCDay()` returns `0` (Sun) through `6` (Sat),
+   *      where `4` = Thursday.
+   *   2. `1 + ((4 - nov1Dow + 7) % 7)` advances from Nov 1st to the FIRST Thursday of November.
+   *   3. `+ 21` (3 full weeks) lands on the FOURTH Thursday of November (US Thanksgiving).
+   *   4. `+ 1` lands on Black Friday! (For example, in 2026: Nov 26 is Thanksgiving -> returns `27`.)
    */
   function getBlackFridayDay(year) {
     var nov1Dow = new Date(Date.UTC(year, 10, 1)).getUTCDay(); /* 0=Sun .. 4=Thu .. 6=Sat */
@@ -121,8 +186,11 @@
   }
 
   /**
-   * Checks optional `?holiday=preview|1|on|0|off` query parameter (persisted in
-   * `sessionStorage` for the current tab) so holiday themes can be previewed at any time.
+   * Developer / QA Preview Override via URL Query Parameter (`?holiday=preview`):
+   *   - Visiting `?holiday=on` or `?holiday=preview` stores `'on'` in `sessionStorage`
+   *     (which lasts only until this browser tab closes) and forces Holiday Mode on.
+   *   - Visiting `?holiday=off` clears `sessionStorage` and forces Holiday Mode off.
+   *   - Returns `null` when no preview override is active so normal calendar rules run.
    */
   function getHolidayPreviewOverride() {
     try {
@@ -143,13 +211,14 @@
   }
 
   /**
-   * Yearly Automatic Holiday Season Schedule (`America/New_York`):
-   * - Standard Go-Live: Black Friday at `00:00:00 America/New_York`.
-   * - 2026 Respectful Tribute Exception: Defers to Sir Patrick Stewart's 30-day
-   *   In Memoriam tribute through `2026-11-28T23:59:59-05:00`, going live at
-   *   `00:00:00 EST` on Sunday, November 29, 2026.
-   * - Standard Pack-Away: January 2 at `00:00:00 America/New_York` (active all day
-   *   New Year's Day, returning sites to normal automatically on January 2).
+   * Determines whether the annual Holiday Season ribbon & snowfall should display:
+   *   1. Honors `?holiday=preview|off` when testing interactively.
+   *   2. Respectful Tribute Rule: NEVER overlaps with Sir Patrick Stewart's 30-day
+   *      In Memoriam window (so in November 2026, Holiday Mode waits until `00:00:00 EST`
+   *      on Sunday, November 29, 2026).
+   *   3. Otherwise active from Black Friday (`month === 11 && day >= BlackFriday`),
+   *      all of December (`month === 12`), and New Year's Day (`month === 1 && day === 1`),
+   *      packing away automatically on January 2!
    */
   function isHolidaySeasonActive(customDate) {
     if (!(customDate instanceof Date)) {
@@ -175,6 +244,7 @@
     return false;
   }
 
+  /* Safely checks OS/browser `prefers-reduced-motion: reduce` accessibility setting. */
   function prefersReducedMotion() {
     try {
       return Boolean(window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches);
@@ -183,6 +253,12 @@
     }
   }
 
+  /**
+   * Resolves whether falling snow should currently be paused:
+   *   - Explicit user choice in `localStorage` (`'paused'` vs `'playing'`) wins first!
+   *   - If the user hasn't clicked the snow button yet (`pref === null`), default to
+   *     paused when OS `prefers-reduced-motion: reduce` is enabled, or playing otherwise.
+   */
   function isSnowPaused() {
     var pref = null;
     try {
@@ -193,6 +269,14 @@
     return prefersReducedMotion();
   }
 
+  /**
+   * Syncs root `<html>` classes (`rs-snow-paused`, `rs-snow-force-play`) and updates
+   * every `.rs-holiday-snow-btn` button's `aria-pressed`, `aria-label`, and visible label.
+   *
+   * Accessibility Note:
+   * `aria-pressed="true|false"` turns `<button>` into an accessible WAI-ARIA toggle
+   * button so screen readers announce its current state clearly.
+   */
   function applySnowPlaybackState() {
     var root = document.documentElement;
     if (!root) return;
@@ -218,6 +302,8 @@
     }
   }
 
+  /* Flips snow playback between `'paused'` and `'playing'`, saves to `localStorage`
+   * (wrapped in `try/catch` for Safari Private Browsing), and updates the DOM immediately. */
   function toggleSnowPlayback() {
     var currentlyPaused = isSnowPaused();
     var nextPaused = !currentlyPaused;
@@ -379,6 +465,11 @@
     }
   ];
 
+  /* ==========================================================================
+   * SECTION 1: URL ROUTE MATCHERS & STANDALONE PWA IMMERSION GUARDS
+   * ========================================================================== */
+
+  /* Returns lowercase hostname stripped of any leading `www.` (e.g. `'books.raggiesoft.com'`). */
   function getCurrentHost() {
     try {
       return (window.location.hostname || '').toLowerCase().replace(/^www\./, '');
@@ -387,6 +478,7 @@
     }
   }
 
+  /* Returns normalized URL pathname stripped of trailing slashes (so `'/knox/'` === `'/knox'`, while root stays `'/'`). */
   function getCurrentPathname() {
     try {
       return (window.location.pathname || '/').replace(/\/+$/, '') || '/';
@@ -395,6 +487,8 @@
     }
   }
 
+  /* Checks whether the visitor is currently viewing a specific Engine Room band's page
+   * (handling The Stardust Engine's dedicated `stardust.raggiesoft.com` domain as well!). */
   function isBandActive(band, currentHost, currentPath) {
     if (band.slug === 'the-stardust-engine') {
       return (
@@ -410,6 +504,7 @@
     );
   }
 
+  /* Checks whether the visitor is inside one of Ocean View Archives' 4 flagship literary universes. */
   function isOceanViewItemActive(item, currentHost, currentPath) {
     if (currentHost !== 'books.raggiesoft.com') return false;
     if (item.id === 'ad-astra') {
@@ -427,6 +522,7 @@
     return false;
   }
 
+  /* Checks whether the visitor is viewing a specific CI/CD persona dossier on `michaelpragsdale.com/build-team/*`. */
   function isBuildTeamMemberActive(member, currentHost, currentPath) {
     return (
       currentHost === 'michaelpragsdale.com' &&
@@ -436,8 +532,10 @@
 
   /**
    * Detects whether the current property is running inside an installed native
-   * Progressive Web App (PWA) window (`standalone`, `window-controls-overlay`,
-   * `minimal-ui`, `fullscreen`, iOS Safari `navigator.standalone`, or Android TWA).
+   * Progressive Web App (PWA) window across all major OS platforms:
+   *   - iOS Safari Home Screen WebClips: `window.navigator.standalone === true`
+   *   - Android Trusted Web Activities (TWA): `document.referrer` starts with `'android-app://'`
+   *   - Desktop & Android Chrome/Edge/Safari PWAs: `matchMedia('(display-mode: standalone)...')`
    */
   function isStandalonePwa() {
     try {
@@ -461,10 +559,15 @@
   }
 
   /**
-   * Ensures that when running inside an installed native PWA window, any cross-origin
-   * link (pointing to another RaggieSoft subdomain or external site) opens in a proper
-   * OS browser window (`target="_blank" rel="noopener noreferrer"`) rather than breaking
-   * native PWA immersion or triggering an in-app out-of-scope URL bar.
+   * Capture-Phase External Link Router for Installed PWAs:
+   * Notice the `true` 3rd argument passed to `document.addEventListener('click', ..., true)`!
+   * In the DOM event model:
+   *   1. CAPTURE PHASE (`true`): Travels TOP-DOWN from `document` -> `<body>` -> `<a>` FIRST.
+   *   2. BUBBLE PHASE (`false`): Travels BOTTOM-UP from `<a>` -> `<body>` -> `document` SECOND.
+   * Running in the capture phase guarantees that if a user inside an installed PWA
+   * (e.g. RaggieSoft Book Reader) clicks a link to another hostname (`music.raggiesoft.com`),
+   * we stamp `target="_blank" rel="noopener noreferrer"` BEFORE the click finishes so the
+   * OS opens their system web browser instead of trapping them in an out-of-scope popup!
    */
   function ensureStandaloneExternalLinkRouting() {
     if (window.__rsPwaExternalLinkRoutingBound) return;
@@ -497,11 +600,11 @@
   }
 
   /**
-   * Injects core defensive CSS rules directly into <head> so that even if a browser
-   * or Cloudflare edge node serves a stale cached stylesheet, `.rs-network-dropdown`
-   * and `.rs-mobile-network-section` render cleanly across all viewports, scroll
-   * internally without clipping on iOS Safari, and hide automatically inside
-   * installed native PWAs.
+   * Injects `<style id="rs-network-core-css">` directly into `<head>` once per tab.
+   * Why embed core CSS inside JS when `raggiesoft-network.css` also exists?
+   * Defense-in-depth! Static SSG sites or CDN caches might briefly serve an older
+   * stylesheet version during deployments; injecting these core layout, contrast,
+   * iOS `100dvh` scroll, and PWA hiding rules guarantees zero broken dropdowns.
    */
   function ensureNetworkStylesInjected() {
     if (!document.head || document.getElementById('rs-network-core-css')) return;
@@ -606,6 +709,17 @@
   }
 
   /**
+   * ==========================================================================
+   * SECTION 2: DESKTOP OMNIBAR HTML BUILDERS & ACCESSIBLE DROPDOWN ENGINE
+   * ==========================================================================
+   * Accessibility Anatomy of Every Dropdown Built Below:
+   *   - `<button type="button" aria-expanded="false" aria-controls="rs-dropdown-...">`:
+   *     Tells screen readers this button expands a specific `<ul>` menu by ID.
+   *   - `<span aria-hidden="true">📚</span>`: Hides decorative emoji icons from
+   *     screen readers so VoiceOver doesn't announce `"Open Book Ocean View Black Down-Pointing Small Triangle"`.
+   *   - `aria-current="page"`: Standard WAI-ARIA attribute marking the currently active URL.
+   *   - `data-no-spa="true"`: Tells local SPA routers not to hijack cross-domain links.
+   *
    * 1. Builds the HTML for the `📚 Ocean View ▾` dropdown `<li>` item on `.rs-network-bar`.
    */
   function buildOceanViewDropdownLiHtml(currentHost, currentPath) {
@@ -846,15 +960,25 @@
   }
 
   /**
-   * Global delegated state for all `.rs-network-dropdown` menus (`📚 Ocean View ▾`,
-   * `⚙️ Engine Room ▾`, and `👔 Portfolio & Resume ▾`).
-   * Guarantees only one dropdown is open at any moment, provides a 220ms hover
-   * grace period across the button-to-menu bridge, and supports click-pinning
-   * and keyboard `Escape` dismissal.
+   * ==========================================================================
+   * SECTION 3: GLOBAL DELEGATED DROPDOWN CONTROLLER (`ensureGlobalDropdownDelegation`)
+   * ==========================================================================
+   * Why manage all 3 desktop dropdowns (`📚 Ocean View ▾`, `⚙️ Engine Room ▾`,
+   * `👔 Portfolio & Resume ▾`) from ONE set of document-level listeners?
+   *   1. Mutual Exclusion: Opening `Engine Room` automatically closes `Ocean View`!
+   *   2. SPA Resilience: Even when `upgradeDesktopNetworkBar()` rebuilds `linksList.innerHTML`
+   *      after a route change, `document` listeners keep working with zero re-binding!
+   *   3. Dual Pointer + Keyboard Accessibility:
+   *      - Mouse hover opens on `pointerover`/`mousemove` with a 220ms close grace timer
+   *        so diagonal mouse movement from button -> menu never snaps shut prematurely.
+   *      - Clicking pins the menu open (`dropdownPinnedByClick = true`) for touch/trackpad/keyboard.
+   *      - `Tab`bing past the last menu link triggers `focusout` (`!openLi.contains(related)`) and closes it cleanly.
+   *      - Pressing `Escape` closes the open menu AND restores `.focus()` back to its toggle `<button>`!
    */
   var dropdownCloseTimer = null;
   var dropdownPinnedByClick = false;
 
+  /* Closes every `.rs-network-dropdown` and resets `aria-expanded="false"` on its toggle button. */
   function closeAllDropdowns() {
     var allDropdowns = document.querySelectorAll('.rs-network-dropdown');
     for (var i = 0; i < allDropdowns.length; i++) {
@@ -864,6 +988,7 @@
     }
   }
 
+  /* Opens `targetDropdownLi` (`aria-expanded="true"`) while closing all sibling dropdowns (`aria-expanded="false"`). */
   function openSingleDropdown(targetDropdownLi) {
     if (!targetDropdownLi) return;
     var allDropdowns = document.querySelectorAll('.rs-network-dropdown');
@@ -881,10 +1006,12 @@
   }
 
   function ensureGlobalDropdownDelegation() {
+    /* Singleton guard on `window` so we attach these 5 `document` listeners at most ONCE per tab. */
     if (window.__rsNetworkDropdownBound) return;
     window.__rsNetworkDropdownBound = true;
 
-    /* Pointer tracking with a 220ms grace period when moving from button to menu (desktop hover only) */
+    /* 1. HOVER ENTER (`pointerover`): Ignores touch taps (`e.pointerType === 'touch'`) so
+     *    mobile taps go exclusively through the `click` handler below instead of double-firing. */
     document.addEventListener('pointerover', function (e) {
       if (e.pointerType === 'touch') return;
       try {
@@ -904,6 +1031,9 @@
       }
     });
 
+    /* 2. HOVER GRACE PERIOD (`mousemove`): Starts a 220ms `setTimeout` when the mouse leaves
+     *    `.rs-network-dropdown` (unless pinned open by a click). If the cursor re-enters the
+     *    menu within 220ms, `clearTimeout` cancels the close! */
     document.addEventListener('mousemove', function (e) {
       try {
         if (window.matchMedia && !window.matchMedia('(hover: hover)').matches) return;
@@ -932,7 +1062,8 @@
       }
     });
 
-    /* Keyboard Tab / Shift+Tab focusout: close open submenu when focus moves outside its list item */
+    /* 3. KEYBOARD TAB EXIT (`focusout`): `e.relatedTarget` is the NEW element receiving focus
+     *    when the user presses `Tab` or `Shift+Tab`. Once focus leaves `openLi`, close the menu! */
     document.addEventListener('focusout', function (e) {
       var related = e.relatedTarget;
       if (!related) return;
@@ -943,6 +1074,9 @@
       }
     });
 
+    /* 4. CLICK PINNING & OUTSIDE-CLICK DISMISSAL (`click`):
+     *    - Clicking a `.rs-network-dropdown-toggle` pins that dropdown open (or closes it if already pinned).
+     *    - Clicking a destination link inside the menu or clicking anywhere outside closes all dropdowns. */
     document.addEventListener('click', function (e) {
       var target = e.target;
       if (!target || typeof target.closest !== 'function') return;
@@ -972,6 +1106,9 @@
       }
     });
 
+    /* 5. KEYBOARD `Escape` DISMISSAL (`keydown`):
+     *    WAI-ARIA Menu Button Pattern: Pressing `Escape` closes the open submenu AND
+     *    returns keyboard focus (`toggleBtn.focus()`) to the button that opened it! */
     document.addEventListener('keydown', function (e) {
       if (e.key === 'Escape') {
         var openLi = document.querySelector('.rs-network-dropdown.is-open');
@@ -986,12 +1123,11 @@
   }
 
   /**
-   * Upgrades `.rs-network-bar` on any page so that:
-   * 1. Semantic classes (`.rs-network-bar-inner`, `.rs-network-label`, `.rs-network-links`)
-   *    are normalized automatically.
-   * 2. All 3 dropdown menus (`📚 Ocean View ▾`, `⚙️ Engine Room ▾`, `👔 Portfolio & Resume ▾`)
-   *    are rendered consistently across every property.
-   * 3. Active states update automatically on SPA route changes.
+   * Normalizes and upgrades `.rs-network-bar` on any property:
+   *   - Adds missing `.rs-network-bar-inner`, `.rs-network-label`, and `.rs-network-links` classes
+   *     (`:scope > div` selects ONLY direct children of `bar`, never deeper nested `<div>`s!).
+   *   - Stamps `data-rs-state="<host>::<path>"` on `<ul>` so repeated calls on the exact
+   *     same route are fast no-ops, while SPA route changes rebuild active `aria-current` highlights!
    */
   function upgradeDesktopNetworkBar() {
     ensureGlobalDropdownDelegation();
@@ -1027,6 +1163,16 @@
     }
   }
 
+  /* ==========================================================================
+   * SECTION 4: MOBILE SINGLE-HAMBURGER GRID & ACCORDION INJECTOR
+   * ==========================================================================
+   * On mobile/tablet screens, we inject `.rs-mobile-network-section` directly
+   * inside each site's existing mobile drawer.
+   * `ensureMobileAccordionBehavior()` attaches ONE delegated click listener that:
+   *   1. Toggles `aria-expanded` (`"true"` <-> `"false"`) and `body.hidden` (`false` <-> `true`)
+   *      on the clicked `.rs-mobile-submenu` accordion.
+   *   2. Automatically collapses sibling accordions so the mobile menu stays compact!
+   */
   var mobileAccordionListenerAttached = false;
   var mobileSubmenuSeq = 0;
 
@@ -1046,6 +1192,7 @@
 
       var willOpen = btn.getAttribute('aria-expanded') !== 'true';
       var parent = submenu.parentElement;
+      /* Accordion mutual exclusion: close any open sibling `.rs-mobile-submenu` first. */
       if (willOpen && parent) {
         var siblings = parent.querySelectorAll('.rs-mobile-submenu');
         for (var i = 0; i < siblings.length; i++) {
@@ -1065,6 +1212,10 @@
     });
   }
 
+  /**
+   * Builds the HTML for `.rs-mobile-network-section` (top 2-column property grid +
+   * 3 collapsible sub-menu accordions with unique `uid` IDs for `aria-controls`).
+   */
   function buildMobileGridHtml(breakpointAttr) {
     var currentHost = getCurrentHost();
     var currentPath = getCurrentPathname();
@@ -1220,6 +1371,7 @@
     );
   }
 
+  /* Injects (or refreshes in-place) `.rs-mobile-network-section` at the bottom of `container`. */
   function injectIntoContainer(container, breakpointAttr) {
     if (!container) return false;
     ensureMobileAccordionBehavior();
@@ -1232,6 +1384,13 @@
     return true;
   }
 
+  /**
+   * Group C Fallback (`setupStandaloneNetworkBar`):
+   * Used on full-screen app views (`books.raggiesoft.com` & `lore.raggiesoft.com`)
+   * that don't have a traditional sitewide Bootstrap/DaisyUI navbar. Adds a compact
+   * `<button class="rs-network-mobile-toggle">` right inside `.rs-network-bar` so
+   * mobile readers can expand/collapse `.rs-network-links` on phones.
+   */
   function setupStandaloneNetworkBar() {
     var bar = document.querySelector('.rs-network-bar');
     if (!bar) return;
@@ -1268,9 +1427,14 @@
   }
 
   /**
-   * Injects or removes the auto-expiring "Second Star to the Right" In Memoriam
-   * cosmic tribute ribbon across all RaggieSoft web properties.
-   * Automatically expires after `2026-11-28T23:59:59-05:00` (30 days).
+   * ==========================================================================
+   * SECTION 5: AUTO-EXPIRING IN MEMORIAM RIBBON & HOLIDAY SNOWFALL ENGINE
+   * ==========================================================================
+   * `syncMemoriamRibbon()`:
+   *   - If past `2026-11-28T23:59:59-05:00`, in Holiday Preview, or inside a standalone
+   *     PWA, removes any `.rs-memoriam-bar` from the DOM immediately.
+   *   - Otherwise creates/updates `.rs-memoriam-bar` and enforces exact vertical
+   *     DOM order: `.rs-network-bar` first -> `.rs-memoriam-bar` second -> `<header>` third!
    */
   function syncMemoriamRibbon() {
     if (!document.body) return;
@@ -1364,8 +1528,12 @@
   }
 
   /**
-   * Creates or removes the compositor-only `.rs-snowfall-layer` (28 lightweight
-   * `translate3d` + `opacity` snowflakes) during the annual Holiday Season.
+   * Builds (or removes) `#rs-snowfall-layer` containing 28 `<span class="rs-snowflake">`
+   * elements. Notice how `xPct`, `sizePx`, `durSec`, and negative `delaySec` use
+   * deterministic modular arithmetic (`(i * 37 + 11) % 98`) instead of `Math.random()`:
+   *   - Even distribution across `1%..99%` of the screen width with zero ugly clumping!
+   *   - Negative `animation-delay` starts snowflakes mid-air across the screen on frame 1
+   *     instead of dropping all 28 flakes from the top edge in a single horizontal line!
    */
   function ensureSnowfallLayer(active) {
     if (!document.body) return;
@@ -1411,6 +1579,8 @@
     document.body.appendChild(layer);
   }
 
+  /* Binds tab-visibility battery saver (`visibilitychange` -> `rs-tab-hidden`) and
+   * live OS `prefers-reduced-motion` listener once per browser tab. */
   var holidayListenersBound = false;
   function bindHolidayEnvironmentListeners() {
     if (holidayListenersBound || typeof document === 'undefined') return;
@@ -1435,9 +1605,11 @@
 
   /**
    * Synchronizes the yearly Holiday Mode across all RaggieSoft web properties:
-   * - Toggles `html.rs-holiday-season` + `data-rs-holiday`
+   * - Toggles `html.rs-holiday-season` + `data-rs-holiday="active"` and dispatches
+   *   `raggiesoft:holidaychange` so host apps (like StoreTrainer's Quantum OS 98
+   *   or The Listening Room) can activate seasonal themes in lockstep.
    * - Injects `.rs-snowfall-layer` and `.rs-holiday-bar` (with Pause/Play Snow toggle
-   *   and direct link to The Listening Room's Winter & Holiday Showcase)
+   *   and direct link to The Listening Room's Winter & Holiday Showcase).
    * - Automatically packs everything away on January 2 (`America/New_York`).
    */
   function syncHolidaySeason() {
@@ -1490,6 +1662,7 @@
     var musicLabel = 'Winter Soundtrack';
     var musicArrow = '→';
 
+    /* Tailor the seasonal greeting message slightly to match the property's personality. */
     if (currentHost === 'storetrainer.raggiesoft.com') {
       greetingLabel = 'Happy Holidays from RaggieSoft';
       greetingMessage = 'Quantum OS 98 Holiday Desktop Edition is active for the season.';
@@ -1567,10 +1740,13 @@
   }
 
   /**
-   * Injects a unified ecosystem Schema.org JSON-LD `@graph` (`#rs-ecosystem-jsonld`)
-   * into `<head>` on every property in the RaggieSoft network so search engines and
-   * structured-data crawlers can traverse the 10-property polyglot ecosystem and the
-   * permanent "Second Star to the Right" In Memoriam tribute to Sir Patrick Stewart.
+   * ==========================================================================
+   * SECTION 6: SCHEMA.ORG JSON-LD GRAPH, MASTER ORCHESTRATOR & LIFECYCLE HOOKS
+   * ==========================================================================
+   * `ensureEcosystemJsonLdInjected()` appends a `<script type="application/ld+json">`
+   * structured-data graph into `<head>` describing the RaggieSoft organization,
+   * founder Michael P. Ragsdale, the permanent Sir Patrick Stewart tribute article,
+   * and all ecosystem navigation URLs for search engines.
    */
   function ensureEcosystemJsonLdInjected() {
     if (!document.head || document.getElementById('rs-ecosystem-jsonld') || document.getElementById('raggiesoft-head-jsonld')) return;
@@ -1650,6 +1826,12 @@
     } catch (e) {}
   }
 
+  /**
+   * Master idempotent bootstrapper (`initRaggieSoftNetworkMenu`):
+   * Safe to run on `DOMContentLoaded`, `window.load`, `elara:loaded`, `popstate`,
+   * and `MutationObserver` callbacks. Detects which of the 3 mobile navigation
+   * architectures the current property uses and injects the matching switcher!
+   */
   function initRaggieSoftNetworkMenu() {
     ensureNetworkStylesInjected();
     ensureEcosystemJsonLdInjected();
@@ -1710,6 +1892,7 @@
     setupStandaloneNetworkBar();
   }
 
+  /* Expose public hooks on `window` so SPA routers and seasonal widgets can call them directly. */
   if (typeof window !== 'undefined') {
     window.initRaggieSoftNetworkMenu = initRaggieSoftNetworkMenu;
     window.RaggieSoftHoliday = {
@@ -1721,6 +1904,8 @@
     };
   }
 
+  /* Check `document.readyState`: if HTML is still parsing (`'loading'`), wait for
+   * `DOMContentLoaded`; if already `'interactive'` or `'complete'`, run right now! */
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', initRaggieSoftNetworkMenu);
   } else {
@@ -1728,13 +1913,17 @@
     setTimeout(initRaggieSoftNetworkMenu, 300);
   }
 
-  /* Re-run on window load and after SPA route transitions (Elara CMS & Stardust Book Reader) */
+  /* Re-run on window load and after SPA route transitions (Elara CMS & History API Back/Forward) */
   window.addEventListener('load', initRaggieSoftNetworkMenu);
   document.addEventListener('elara:loaded', initRaggieSoftNetworkMenu);
   window.addEventListener('popstate', function () {
     setTimeout(initRaggieSoftNetworkMenu, 100);
   });
 
+  /* 100-Level DOM Concept — `MutationObserver`:
+   * When RaggieSoft Book Reader (`#stardust-app`) swaps `#stardust-sidebar` via AJAX,
+   * or when Angular 19 (`<mpr-root>`) finishes hydrating its client-side template,
+   * `MutationObserver` fires automatically as soon as child DOM nodes are inserted! */
   var stardustApp = document.getElementById('stardust-app');
   if (stardustApp && typeof MutationObserver !== 'undefined') {
     var obs = new MutationObserver(function () {
@@ -1749,7 +1938,7 @@
 
   /* Observe Angular `<mpr-root>` / `<app-root>` on michaelpragsdale.com so the instant
      `.rs-network-bar` mounts, `initRaggieSoftNetworkMenu()` upgrades it and places
-     `.rs-memoriam-bar` directly below it. */
+     `.rs-memoriam-bar` directly below it, then disconnects (`ngObs.disconnect()`) to save CPU. */
   var angularRoot = document.querySelector('mpr-root, app-root');
   if (angularRoot && typeof MutationObserver !== 'undefined') {
     var ngObs = new MutationObserver(function () {

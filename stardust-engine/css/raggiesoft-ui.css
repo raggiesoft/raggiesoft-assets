@@ -1,121 +1,185 @@
 /* ==============================================================================
- * STARDUST ENGINE - CORE UI COMPONENTS (RaggieSoft UI)
+ * STARDUST ENGINE — CORE UI COMPONENTS (raggiesoft-ui.css)
  * ==============================================================================
- * ARCHITECTURAL OVERVIEW:
- * This stylesheet serves as a lightweight, framework-agnostic UI kit designed to 
- * replace Web Awesome Shadow DOM components. It leverages standard CSS variables 
- * (`--rs-*`) to ensure seamless theming across different properties (Light/Dark).
+ * PLAIN-ENGLISH OVERVIEW (READ THIS FIRST):
+ * What is this file?
+ *   This is a lightweight, zero-dependency CSS stylesheet that defines reusable
+ *   user-interface building blocks (buttons, popup modals, slide-out sidebars,
+ *   pill badges, and collapsible tree menus) for Stardust Engine pages.
  *
- * FUTURE MAINTENANCE NOTES:
- * - The `.rs-*` namespace is strictly enforced to prevent collisions with 
- *   Bootstrap (`.bs-*`) or WebAwesome (`.wa-*`).
- * - Variables fall back to hardcoded defaults (e.g., `#0d6efd`) ensuring the UI 
- *   renders safely even if the root theme CSS fails to load.
+ * Why does this file exist?
+ *   Instead of loading a heavy third-party JavaScript component library that hides
+ *   styles inside a browser "Shadow DOM", this file styles ordinary, standard HTML
+ *   elements (`<button>`, `<dialog>`, `<aside>`, `<details>`, `<summary>`) using
+ *   CSS Custom Properties ("CSS variables", written like `--rs-bg`).
+ *
+ * What feeds into it, and what visible result does it produce?
+ *   1. Theme stylesheets (such as `theme-default.css`) set `--rs-*` color variables
+ *      on the root `<html>` tag.
+ *   2. `raggiesoft-ui.js` toggles simple classes like `.open` on `#rs-sidebar`.
+ *   3. The browser combines them to render accessible, responsive buttons, drawers,
+ *      dialogs, and expandable trees in Light, Dark, or Sepia mode.
+ *
+ * CSS FUNDAMENTALS USED IN THIS FILE:
+ * - `.class-name` (Class Selector): Styles every HTML tag that has `class="class-name"`.
+ * - `var(--name, fallback)`: Reads a CSS Custom Property (`--name`). If no theme
+ *   stylesheet defined `--name`, CSS automatically uses `fallback` so the page
+ *   never renders invisible text or broken buttons.
+ * - `.rs-*` Namespace Prefix: Every class starts with `rs-` ("RaggieSoft") so our
+ *   rules never accidentally collide with Bootstrap (`.btn`) or Web Awesome (`.wa-*`).
  * ============================================================================== */
 
 /* =========================================================
-   STARDUST ENGINE - CORE UI COMPONENTS
-   Replaces Web Awesome Shadow DOM components
+   1. TYPOGRAPHY & BASE PAGE SURFACE
    ========================================================= */
 
-/* --- Typography & Base --- */
-/* Establishes the foundational theme mapping for the entire document body */
+/* `body` targets the single `<body>` tag wrapping all visible content on the webpage. */
 body {
+    /* Paint the page background using `--rs-bg`, or pure white (`#ffffff`) as a safe fallback. */
     background-color: var(--rs-bg, #ffffff);
+    /* Set the default text color using `--rs-text`, or black (`#000000`) for maximum contrast. */
     color: var(--rs-text, #000000);
+    /* Use the theme's sans-serif font stack, falling back to the operating system's native UI font
+       (`system-ui` = San Francisco on macOS/iOS, Segoe UI on Windows). */
     font-family: var(--rs-font-sans, system-ui, sans-serif);
+    /* `transition` smoothly animates color changes over 0.3 seconds when switching Light/Dark themes
+       instead of snapping harshly in a single frame. */
     transition: background-color 0.3s ease, color 0.3s ease;
 }
 
-/* --- Buttons (.rs-btn) --- */
-/* Core button component mapping flexbox for icon+text alignment */
+/* =========================================================
+   2. BUTTONS (.rs-btn)
+   ========================================================= */
+
+/* `.rs-btn` can be placed on either a `<button class="rs-btn">` or an `<a class="rs-btn">` link
+   so both actions and navigation links share identical visual styling. */
 .rs-btn {
+    /* `inline-flex` makes the button sit inline with surrounding text/buttons on the outside,
+       while turning the INSIDE of the button into a Flexbox row so an icon + label line up neatly. */
     display: inline-flex;
+    /* Vertically center the icon and text inside the button height. */
     align-items: center;
+    /* Horizontally center the content inside the button width. */
     justify-content: center;
+    /* Leave `0.5rem` (typically 8px, since `1rem` = root font size, usually 16px) between an icon and text. */
     gap: 0.5rem;
+    /* Add `0.5rem` top/bottom breathing room and `1rem` left/right breathing room inside the border. */
     padding: 0.5rem 1rem;
     font-size: 1rem;
+    /* `500` is Medium font weight (between normal `400` and bold `700`). */
     font-weight: 500;
     line-height: 1.5;
     text-align: center;
+    /* Prevent multi-word button labels from awkwardly wrapping onto two lines on narrow screens. */
     white-space: nowrap;
     vertical-align: middle;
+    /* Show the pointing-hand mouse cursor on desktop browsers to signal clickability. */
     cursor: pointer;
+    /* Prevent accidental blue text-selection highlighting if a user double-clicks the button rapidly. */
     user-select: none;
-    
-    /* Theme color mapping */
+
+    /* Theme color mapping: `1px solid` border + rounded corners + primary fill + white label text. */
     border: 1px solid var(--rs-color-primary-600, #0d6efd);
     border-radius: var(--rs-border-radius-medium, 0.25rem);
     background-color: var(--rs-color-primary-600, #0d6efd);
     color: var(--rs-color-neutral-0, #ffffff);
-    
+
+    /* Smoothly animate hover color shifts over 0.2 seconds. */
     transition: all 0.2s ease-in-out;
+    /* Remove the default underline when `.rs-btn` is applied to an `<a href="...">` link. */
     text-decoration: none;
 }
 
-/* Button interactive hover states */
+/* `:hover` is a CSS "pseudo-class" that activates automatically while a mouse pointer rests over `.rs-btn`. */
 .rs-btn:hover {
+    /* Shift to a slightly darker shade (`-700`) so sighted users get immediate visual feedback. */
     background-color: var(--rs-color-primary-700, #0b5ed7);
     border-color: var(--rs-color-primary-700, #0a58ca);
     color: var(--rs-color-neutral-0, #ffffff);
     text-decoration: none;
 }
 
-/* Button disabled state utilizing opacity instead of altering colors directly */
+/* `[disabled]` is a CSS "attribute selector": it matches `<button class="rs-btn" disabled>`. */
 .rs-btn[disabled] {
+    /* Fade the button to 65% opacity so it visually reads as inactive without needing separate colors. */
     opacity: 0.65;
+    /* `pointer-events: none` tells the browser to ignore mouse clicks and hover states completely. */
     pointer-events: none;
 }
 
-/* --- Modals / Dialogs (.rs-modal) --- */
-/* Native HTML dialog styling or custom wrapper for centered popups */
+/* =========================================================
+   3. MODALS / POPUP DIALOGS (.rs-modal)
+   ========================================================= */
+
+/* Styles a native HTML5 `<dialog class="rs-modal">` element.
+   Native `<dialog>` opened via `dialog.showModal()` automatically traps keyboard Tab focus
+   and closes when the user presses the `Escape` key! */
 .rs-modal {
     padding: 1.5rem;
     border: 1px solid var(--rs-color-neutral-200, #e5e7eb);
     border-radius: var(--rs-border-radius-large, 0.5rem);
     background-color: var(--rs-bg, #ffffff);
     color: var(--rs-text, #000000);
+    /* Layered drop shadow gives depth separating the floating dialog from the page underneath. */
     box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    /* Cap width at 500px on desktop, while shrinking to 90% of viewport width on phones. */
     max-width: 500px;
     width: 90%;
+    /* `margin: auto` centers a native `<dialog>` both horizontally and vertically in the viewport! */
     margin: auto;
 }
 
-/* Utilizes the native ::backdrop pseudo-element for dimming the background */
+/* `::backdrop` is a special browser pseudo-element automatically rendered behind an open `<dialog>`. */
 .rs-modal::backdrop {
+    /* Semi-transparent black (`0.5` alpha = 50% opacity) dims the underlying webpage. */
     background: rgba(0, 0, 0, 0.5);
+    /* Gently blur the dimmed webpage by 2 pixels so focus stays on the dialog content. */
     backdrop-filter: blur(2px);
 }
 
-/* --- Sidebar / Drawers (.rs-sidebar) --- */
-/* Off-canvas sidebar component initialized off-screen (-100%) */
+/* =========================================================
+   4. SLIDE-OUT SIDEBAR / MOBILE DRAWER (.rs-sidebar)
+   ========================================================= */
+
+/* Off-canvas navigation drawer pinned to the left edge of the browser window. */
 .rs-sidebar {
+    /* `position: fixed` pins the sidebar to the viewport so scrolling the page doesn't move it. */
     position: fixed;
     top: 0;
     left: 0;
+    /* `100vh` = 100% of the Viewport Height (top of browser window to bottom). */
     height: 100vh;
     width: 300px;
+    /* On narrow phone screens (< 375px), never exceed 80% width so the user still sees the backdrop to tap out. */
     max-width: 80%;
     background-color: var(--rs-bg, #ffffff);
     border-right: 1px solid var(--rs-color-neutral-200, #e5e7eb);
+    /* High `z-index` stacks this drawer above normal page headers and content. */
     z-index: 1050;
+    /* Start parked 100% of its own width off-screen to the left (`-100%`) using GPU-accelerated `transform`. */
     transform: translateX(-100%);
     transition: transform 0.3s ease-in-out;
+    /* `overflow-y: auto` adds an internal vertical scrollbar if the menu list is taller than the screen. */
     overflow-y: auto;
     padding: 1rem;
-    box-shadow: 4px 0 10px rgba(0,0,0,0.1);
+    box-shadow: 4px 0 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Trigger class to slide the sidebar into the viewport */
+/* Compound selector `.rs-sidebar.open` (no space!) matches an element that has BOTH classes:
+   `<aside class="rs-sidebar open">`. `raggiesoft-ui.js` toggles `.open` when the menu button is clicked. */
 .rs-sidebar.open {
+    /* Slide smoothly from `-100%` back to `0` (flush with the left edge of the screen). */
     transform: translateX(0);
 }
 
-/* --- Badges (.rs-badge) --- */
-/* Inline status indicators, fully rounded */
+/* =========================================================
+   5. PILL BADGES (.rs-badge)
+   ========================================================= */
+
+/* Small pill-shaped label for counts, tags, or statuses (e.g., "New", "v2.0"). */
 .rs-badge {
     display: inline-block;
+    /* `em` units scale proportionally to the badge's own font-size. */
     padding: 0.25em 0.6em;
     font-size: 0.75em;
     font-weight: 700;
@@ -123,60 +187,76 @@ body {
     text-align: center;
     white-space: nowrap;
     vertical-align: baseline;
+    /* Any huge `border-radius` (`999px`) forces the left and right ends into perfect semicircles ("pill shape"). */
     border-radius: 999px;
     background-color: var(--rs-color-primary-600, #0d6efd);
     color: #fff;
 }
 
-/* --- Trees / Accordions (.rs-tree) --- */
-/* Tree-view component utilizing native <details> and <summary> tags */
+/* =========================================================
+   6. ZERO-JS COLLAPSIBLE TREES / ACCORDIONS (.rs-tree)
+   ========================================================= */
+
+/* Styles native HTML5 `<details class="rs-tree">` and `<summary>` disclosure widgets.
+   Because `<details>` is built into HTML5, keyboard Enter/Space toggling and screen-reader
+   "expanded / collapsed" announcements work with ZERO JavaScript! */
 .rs-tree {
     margin-bottom: 0.5rem;
 }
 
-/* Summary element acts as the clickable tree node */
+/* `<summary>` is the always-visible clickable header row inside a `<details>` block. */
 .rs-tree summary {
     cursor: pointer;
     padding: 0.5rem;
     font-weight: 600;
-    list-style: none; /* Hide default arrow in some browsers */
+    /* Hide the browser's default triangle bullet in Firefox/standard browsers so we can draw our own. */
+    list-style: none;
     display: flex;
     align-items: center;
     border-radius: 4px;
 }
 
-/* Cross-browser normalization for hiding default summary markers */
+/* Safari / Chrome (WebKit/Blink) use a vendor-prefixed pseudo-element for the default `<summary>` triangle;
+   `display: none` hides it there too for uniform cross-browser rendering. */
 .rs-tree summary::-webkit-details-marker {
-    display: none; /* Hide default arrow in webkit */
+    display: none;
 }
 
-/* Custom CSS-drawn arrow for consistent tree styling */
+/* `::before` inserts a purely decorative CSS-generated element before the `<summary>` text. */
 .rs-tree summary::before {
-    content: '\25B6'; /* Right arrow */
+    /* `\25B6` is the Unicode escape code for a right-pointing solid triangle (`▶`). */
+    content: '\25B6';
     font-size: 0.8em;
     margin-right: 0.5rem;
+    /* Smoothly animate the 90-degree rotation when opening/closing. */
     transition: transform 0.2s;
     color: var(--rs-color-neutral-500, #6c757d);
 }
 
-/* Rotates the custom arrow when the parent <details> is open */
+/* When the user opens `<details>`, the browser automatically adds the `open` HTML attribute
+   (`<details class="rs-tree" open>`). The `>` child combinator targets ONLY this level's direct
+   `<summary>` (not nested child trees!) and rotates its `▶` arrow 90 degrees clockwise (`▼`). */
 .rs-tree[open] > summary::before {
     transform: rotate(90deg);
 }
 
-/* Hover indication for tree nodes */
+/* Subtle highlight when hovering over a tree row. */
 .rs-tree summary:hover {
     background-color: var(--rs-color-neutral-100, #f8f9fa);
 }
 
-/* Indents child items within the tree */
+/* Indent nested `.rs-tree-item` children by `1.5rem` so the parent-child hierarchy is visually clear. */
 .rs-tree > .rs-tree-item {
     padding-left: 1.5rem;
     margin-top: 0.25rem;
 }
 
-/* --- Generic Overrides --- */
-/* Ensures anchor tags styled as buttons do not display underlines */
+/* =========================================================
+   7. GENERIC ANCHOR OVERRIDES
+   ========================================================= */
+
+/* Higher-specificity selector (`a.rs-btn`) guarantees global `a { text-decoration: underline }` rules
+   never add underlines inside link-styled buttons. */
 a.rs-btn {
     text-decoration: none;
 }

@@ -1,23 +1,33 @@
 /* ==========================================================================
- * STARDUST ENGINE LIBRARY - EXPLICIT WARM DARK-SEPIA THEME
- * theme-dark-sepia.css
+ * PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (100-LEVEL JAVASCRIPT / WEB INTRO)
  * ==========================================================================
- * Full 13-token WCAG 2.1 AA/AAA warm espresso-parchment evening palette.
+ * File: library/css/src/theme-dark-sepia.css
+ * Compiled Into:
+ *   - `library/css/stardust-engine.min.css`  (bundled global engine CSS)
+ *   - `library/css/theme-dark-sepia.min.css` (standalone theme file)
+ *
+ * WHAT IS THIS FILE?
+ *   Standard Dark Mode (`theme-dark.css`) uses cool slate/blue-gray tones.
+ *   For late-night readers who want **minimum blue-light emission** before sleep,
+ *   choosing **"Dark Sepia"** in Reading Settings adds `theme-dark-sepia` to
+ *   `<body>`, switching the Book Reader to a warm roasted-espresso background
+ *   (`#1c1814`) with soft candlelight-cream prose ink (`#e8dcc8`, `11.61:1`
+ *   WCAG AAA) and burnished bronze accents (`#e5b57d`).
  * ========================================================================== */
 
 body.theme-dark-sepia {
-    color-scheme: dark;
-    --rs-bg: #1c1814;
-    --rs-bg-alt: #231e19;
-    --rs-surface: #28221c;
-    --rs-card-bg: #28221c;
-    --rs-text: #e8dcc8;       /* 11.61:1 on #28221c */
-    --rs-text-muted: #b8a68e; /* 6.65:1 on #28221c */
-    --rs-heading: #f7efe2;    /* 13.77:1 on #28221c */
-    --rs-primary: #e5b57d;    /* 8.41:1 on #28221c */
-    --rs-on-primary: #19130c; /* 9.86:1 on #e5b57d */
-    --rs-secondary: #f0ab68;  /* 8.03:1 on #28221c */
-    --rs-border: #463a2e;
-    --rs-asl: #7dd3fc;
-    --rs-gesture: #d8b4fe;
+    color-scheme: dark;       /* Uses dark-toned native OS scrollbars */
+    --rs-bg: #1c1814;         /* Warm roasted-espresso reading canvas */
+    --rs-bg-alt: #231e19;     /* Subtle warm mocha chip & hover surface */
+    --rs-surface: #28221c;    /* Sidebar, toolbar, & modal warm dark surface */
+    --rs-card-bg: #28221c;    /* Warm dark-espresso book cards */
+    --rs-text: #e8dcc8;       /* Warm candlelight-cream prose ink (11.61:1 AAA on #28221c) */
+    --rs-text-muted: #b8a68e; /* Warm sandstone metadata ink (6.65:1 AA on #28221c) */
+    --rs-heading: #f7efe2;    /* Bright ivory chapter headings (13.77:1 AAA on #28221c) */
+    --rs-primary: #e5b57d;    /* Burnished bronze links & CTAs (8.41:1 AAA on #28221c) */
+    --rs-on-primary: #19130c; /* Deep espresso ink on solid `#e5b57d` buttons (9.86:1 AAA) */
+    --rs-secondary: #f0ab68;  /* Warm amber-copper hover accent (8.03:1 AAA on #28221c) */
+    --rs-border: #463a2e;     /* Warm umber structural dividers */
+    --rs-asl: #7dd3fc;        /* Soft sky-blue for `<asl>` Sign Language dialogue */
+    --rs-gesture: #d8b4fe;    /* Soft orchid-lavender for `<sgn>` signed/gesture dialogue */
 }

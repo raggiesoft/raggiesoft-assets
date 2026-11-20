@@ -1,34 +1,38 @@
 /* ==========================================================================
- * STARDUST ENGINE LIBRARY - OCEAN VIEW ARCHIVES BRAND THEME
- * theme-oceanview.css
+ * PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (100-LEVEL JAVASCRIPT / WEB INTRO)
  * ==========================================================================
+ * File: library/css/src/theme-oceanview.css
+ * Compiled Into:
+ *   - `library/css/stardust-engine.min.css`   (bundled global engine CSS)
+ *   - `library/css/theme-oceanview.min.css`   (loaded by default in `headers/header.php`!)
  *
- * ARCHITECTURE OVERVIEW:
- * Defines the global brand theme for Ocean View Archives (`books.raggiesoft.com`).
- * Coordinates seamlessly with all six reader color-scheme modes:
- *   1. `theme-auto` (follows OS `prefers-color-scheme: light | dark`)
- *   2. `theme-sepia-system` (Warm Sepia in OS Light; Warm Dark-Sepia in OS Dark)
- *   3. `theme-light` (Explicit Ocean View Daylight — never overridden by OS Dark)
- *   4. `theme-sepia` (Explicit Warm Archival Sepia — never overridden by OS Dark)
- *   5. `theme-dark` (Explicit Ocean View Midnight — never overridden by OS Light)
- *   6. `theme-dark-sepia` (Explicit Warm Dark-Sepia — never overridden by OS Light)
+ * WHAT IS THIS FILE? ("THE MASTER BRAND PALETTE OF RAGGIESOFT BOOK READER")
+ *   On `https://books.raggiesoft.com`, `headers/header.php` renders
+ *   `<body class="theme-oceanview theme-<userChoice>">` and loads
+ *   `theme-oceanview.min.css`.
  *
- * WCAG 2.1 AA / AAA CONTRAST VERIFICATION:
- * - Ocean View Daylight (`#f8f9fa` / `#ffffff`):
- *     * `--rs-text` (`#1e293b`): 13.00:1 AAA
- *     * `--rs-text-muted` (`#475569`): 6.74:1 AA
- *     * `--rs-heading` (`#0A192F`): 15.65:1 AAA
- *     * `--rs-primary` (`#0F4C5C`): 8.45:1 AAA (`--rs-on-primary: #ffffff` = 9.51:1)
- *     * `--rs-secondary` (`#854d0e`): 6.09:1 AA
- * - Ocean View Midnight (`#0b111b` / `#141e2b`):
- *     * `--rs-text` (`#e2e8f0`): 13.62:1 AAA
- *     * `--rs-text-muted` (`#a1b0c4`): 7.62:1 AAA
- *     * `--rs-heading` (`#f8fafc`): 16.05:1 AAA
- *     * `--rs-primary` (`#E3B27C`): 8.74:1 AAA (`--rs-on-primary: #0b111b` = 9.84:1)
- *     * `--rs-secondary` (`#38bdf8`): 7.84:1 AAA
+ *   This single file coordinates the signature **Ocean View Archives** coastal
+ *   brand identity (Coastal Teal `#0F4C5C` in Daylight + Burnished Keyhole
+ *   Bronze `#E3B27C` on Deep Maritime Midnight `#0b111b` at Night) across all
+ *   **6 reader theme modes**:
+ *     1. `theme-auto`         -> Follows OS `prefers-color-scheme: light | dark`
+ *     2. `theme-sepia-system` -> Warm Sepia in OS Light; Warm Dark-Sepia in OS Dark
+ *     3. `theme-light`        -> Locked to Ocean View Daylight (even if OS is Dark)
+ *     4. `theme-sepia`        -> Locked to Warm Archival Sepia (even if OS is Dark)
+ *     5. `theme-dark`         -> Locked to Ocean View Midnight (even if OS is Light)
+ *     6. `theme-dark-sepia`   -> Locked to Warm Dark-Sepia (even if OS is Light)
+ *
+ * MODERN CSS SELECTOR TIP (`:where(...)`):
+ *   Look at `body.theme-oceanview:where(:not(.theme-light)...)` in Section 5:
+ *   `:where(...)` has **zero CSS specificity (`0,0,0`)**, so it cleanly catches
+ *   first-paint `<body>` before JS runs without ever overpowering explicit
+ *   two-class rules like `body.theme-oceanview.theme-light`!
  * ========================================================================== */
 
-/* 1. Light Mode Defaults & Explicit Light Selection */
+/* 1. Ocean View Daylight (Default before media queries & Explicit `theme-light` selection):
+      - `--rs-text` (`#1e293b`):    13.00:1 WCAG AAA
+      - `--rs-heading` (`#0A192F`): 15.65:1 WCAG AAA
+      - `--rs-primary` (`#0F4C5C`):  8.45:1 WCAG AAA (`#ffffff` on primary = 9.51:1 AAA) */
 body.theme-oceanview,
 body.theme-oceanview.theme-light {
     color-scheme: light;
@@ -47,7 +51,7 @@ body.theme-oceanview.theme-light {
     --rs-gesture: #4338ca;
 }
 
-/* 2. Explicit Warm Sepia Selection */
+/* 2. Warm Archival Sepia (`theme-sepia` & `theme-sepia-system` when OS is in Light Mode) */
 body.theme-oceanview.theme-sepia {
     color-scheme: light;
     --rs-bg: #f4ecd8;
@@ -84,7 +88,9 @@ body.theme-oceanview.theme-sepia {
     }
 }
 
-/* 3. Explicit Ocean View Dark Selection */
+/* 3. Explicit Ocean View Midnight (`theme-dark`):
+      - `--rs-text` (`#e2e8f0`):    13.62:1 WCAG AAA on `#141e2b`
+      - `--rs-primary` (`#E3B27C`):  8.74:1 WCAG AAA (`#0b111b` on primary = 9.84:1 AAA) */
 body.theme-oceanview.theme-dark {
     color-scheme: dark;
     --rs-bg: #0b111b;
@@ -102,7 +108,7 @@ body.theme-oceanview.theme-dark {
     --rs-gesture: #c4b5fd;
 }
 
-/* 4. Explicit Warm Dark-Sepia Selection */
+/* 4. Explicit Warm Dark-Sepia (`theme-dark-sepia`) */
 body.theme-oceanview.theme-dark-sepia {
     color-scheme: dark;
     --rs-bg: #1c1814;
@@ -120,7 +126,9 @@ body.theme-oceanview.theme-dark-sepia {
     --rs-gesture: #d8b4fe;
 }
 
-/* 5. OS Dark Mode Auto-Switching (Scoped strictly away from explicit Light/Sepia) */
+/* 5. Automatic OS Dark Mode Switching (`@media (prefers-color-scheme: dark)`):
+      Applies ONLY when the user chose `theme-auto` (or `theme-sepia-system`),
+      leaving explicit `theme-light` and `theme-sepia` completely untouched! */
 @media (prefers-color-scheme: dark) {
     body.theme-oceanview.theme-auto,
     body.theme-oceanview:where(:not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):not(.theme-sepia-system)) {
@@ -158,7 +166,7 @@ body.theme-oceanview.theme-dark-sepia {
     }
 }
 
-/* 6. Forced Colors Mode Fallback */
+/* 6. Windows High Contrast (`forced-colors: active`) System Token Mapping */
 @media (forced-colors: active) {
     body.theme-oceanview {
         --rs-bg: Canvas;
@@ -175,7 +183,7 @@ body.theme-oceanview.theme-dark-sepia {
     }
 }
 
-/* Custom Component Styles for Ocean View Archives */
+/* 7. Ocean View Archives Editorial Masthead Styles (`.ova-hero`, `.ova-title`, `.ova-subtitle`) */
 body.theme-oceanview .ova-hero {
     border-bottom: 2px solid var(--rs-border);
     padding-bottom: 3rem;

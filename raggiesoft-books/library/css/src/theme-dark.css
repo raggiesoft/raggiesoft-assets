@@ -1,23 +1,38 @@
 /* ==========================================================================
- * STARDUST ENGINE LIBRARY - EXPLICIT DARK THEME
- * theme-dark.css
+ * PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (100-LEVEL JAVASCRIPT / WEB INTRO)
  * ==========================================================================
- * Full 13-token WCAG 2.1 AA/AAA low-glare dark reading palette.
+ * File: library/css/src/theme-dark.css
+ * Compiled Into:
+ *   - `library/css/stardust-engine.min.css` (bundled global engine CSS)
+ *   - `library/css/theme-dark.min.css`      (standalone theme file)
+ *
+ * WHAT IS THIS FILE?
+ *   When a reader selects **"Dark"** in Reading Settings, JavaScript adds
+ *   `theme-dark` to `<body>` (`<body class="... theme-dark">`).
+ *
+ *   WHY CHARCOAL (`#121212` / `#1e1e1e`) INSTEAD OF PURE BLACK (`#000000`)?
+ *     Pure `#ffffff` text on pure `#000000` black (`21:1` contrast) causes an
+ *     optical blur called **"halation"** for readers with astigmatism or light
+ *     sensitivity, making lines of text appear to shimmer in the dark!
+ *     Soft charcoal (`#121212`) paired with soft off-white ink (`#e2e8f0`, `13.52:1`
+ *     WCAG AAA) eliminates halation while keeping nighttime reading effortless.
+ *     Notice `--rs-on-primary: #090d16`: because `--rs-primary` is bright sky
+ *     blue (`#60a5fa`), solid buttons automatically switch to dark ink (`7.64:1` AAA)!
  * ========================================================================== */
 
 body.theme-dark {
-    color-scheme: dark;
-    --rs-bg: #121212;
-    --rs-bg-alt: #181b20;
-    --rs-surface: #1e1e1e;
-    --rs-card-bg: #1e1e1e;
-    --rs-text: #e2e8f0;       /* 13.52:1 on #1e1e1e */
-    --rs-text-muted: #a1adbe; /* 7.33:1 on #1e1e1e */
-    --rs-heading: #f8fafc;    /* 15.93:1 on #1e1e1e */
-    --rs-primary: #60a5fa;    /* 6.56:1 on #1e1e1e */
-    --rs-on-primary: #090d16; /* 7.64:1 on #60a5fa */
-    --rs-secondary: #fbbf24;  /* 9.99:1 on #1e1e1e */
-    --rs-border: #334155;
-    --rs-asl: #6ee7b7;
-    --rs-gesture: #c4b5fd;
+    color-scheme: dark;       /* Renders native browser scrollbars & inputs in Dark Mode */
+    --rs-bg: #121212;         /* Low-glare charcoal reading canvas */
+    --rs-bg-alt: #181b20;     /* Subtle elevated chip & hover surface */
+    --rs-surface: #1e1e1e;    /* Sidebar, modal, & toolbar surface */
+    --rs-card-bg: #1e1e1e;    /* Dark charcoal book cards */
+    --rs-text: #e2e8f0;       /* Soft off-white prose ink (13.52:1 AAA on #1e1e1e) */
+    --rs-text-muted: #a1adbe; /* Secondary metadata ink (7.33:1 AAA on #1e1e1e) */
+    --rs-heading: #f8fafc;    /* Bright slate chapter headings (15.93:1 AAA on #1e1e1e) */
+    --rs-primary: #60a5fa;    /* Luminous sky-blue links & CTAs (6.56:1 AA on #1e1e1e) */
+    --rs-on-primary: #090d16; /* Deep midnight ink on solid `#60a5fa` buttons (7.64:1 AAA) */
+    --rs-secondary: #fbbf24;  /* Warm amber hover accent (9.99:1 AAA on #1e1e1e) */
+    --rs-border: #334155;     /* Muted slate structural dividers */
+    --rs-asl: #6ee7b7;        /* Luminous mint-emerald for `<asl>` Sign Language dialogue */
+    --rs-gesture: #c4b5fd;    /* Luminous lavender for `<sgn>` signed/gesture dialogue */
 }

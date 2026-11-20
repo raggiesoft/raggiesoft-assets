@@ -1,76 +1,118 @@
 /* ==========================================================================
- * ARCHITECTURAL OVERVIEW: raggiesoft-logo.css
+ * READ-ALONG TEACHING OVERVIEW: raggiesoft-logo.css
  * ==========================================================================
- * Global Brand Identity Utilities
- * This stylesheet provides CSS filter-based manipulation for RaggieSoft 
- * SVG and PNG logos. Instead of requiring two separate image files for 
- * light and dark themes, this class-based system dynamically alters the 
- * pixels of a single image on the fly.
- * 
- * CORE RESPONSIBILITIES:
- * 1. Adaptive Coloring: Transforms standard logos into pure white or 
- *    inverted versions based on the active DOM `[data-bs-theme]`.
- * 2. Layout Stability: Ensures raw logo files do not blow out navbar sizing.
- * 
- * FUTURE MAINTENANCE NOTES:
- * - CSS `filter` operations are computationally cheap but can cause subtle 
- *   anti-aliasing artifacts on very small PNGs. Use SVG logos whenever possible.
- * - The `.brand-img-invert` class should NOT be used on multi-color logos 
- *   (like the Miller Center green logo) unless a specific neon/inverted effect 
- *   is desired, as it will shift hues unpredictably.
+ * WHAT THIS FILE IS:
+ *   A shared CSS utility stylesheet that adapts RaggieSoft and Engine Room
+ *   Records brand logo images (`<img>`) between Light Mode and Dark Mode
+ *   without needing two separate PNG/SVG files on the server.
+ *
+ * WHICH WEBSITES LOAD IT:
+ *   Loaded from `https://assets.raggiesoft.com/common/css/raggiesoft-logo.css`
+ *   across RaggieSoft web properties (such as `raggiesoft.com` and
+ *   `corporate.raggiesoft.com`) in `<head>`.
+ *
+ * WHAT INPUTS IT CONSUMES:
+ *   1. Theme attribute on the `<html>` (or ancestor) tag: `[data-bs-theme="dark"]`.
+ *   2. Utility CSS classes placed on `<img>` elements:
+ *      - `.brand-img-adaptive-white`
+ *      - `.brand-img-invert`
+ *      - `.navbar-brand img`
+ *      - `.logo-invert`
+ *
+ * WHAT VISIBLE UI IT PRODUCES:
+ *   - Keeps logos in their original dark/colored ink on light backgrounds,
+ *     and smoothly transitions them to crisp pure white on dark backgrounds
+ *     (or permanently white inside dark footers).
+ *   - Constrains high-resolution logo files to `40px` tall inside navigation
+ *     bars so giant source images never stretch the header height.
+ *
+ * 100-LEVEL CSS CONCEPTS TAUGHT IN THIS FILE:
+ *   - Attribute Selectors (`[data-bs-theme="dark"] .class`): How a parent
+ *     HTML attribute switches child styles automatically.
+ *   - Chained CSS `filter` Functions (`brightness(0) invert(1)`): How browser
+ *     compositors recolor bitmap/vector pixels mathematically left-to-right.
+ *   - Aspect-Ratio Preservation (`height: 40px; width: auto; object-fit: contain`).
  * ========================================================================== */
 
 /* --------------------------------------------------------------------------
- * 1. THE "GHOST" CLASS (For RaggieSoft & Engine Room)
+ * 1. THE "GHOST" ADAPTIVE WHITE CLASS (`.brand-img-adaptive-white`)
  * --------------------------------------------------------------------------
- * Light Mode: Shows original colors (Blue or Black).
- * Dark Mode: Forces the entire image to pure WHITE. 
- */
+ * Used on RaggieSoft and Engine Room Records logos in site headers.
+ * - In Light Mode (the default): No `filter` is applied, so the browser draws
+ *   the original dark-blue or black logo artwork untouched.
+ * - `transition: filter 0.3s ease` tells the browser to animate filter changes
+ *   over 0.3 seconds instead of snapping instantaneously when toggling themes.
+ * -------------------------------------------------------------------------- */
 .brand-img-adaptive-white {
     transition: filter 0.3s ease;
 }
 
+/* Descendant + Attribute Selector:
+ * Matches any `.brand-img-adaptive-white` element that lives anywhere inside
+ * an ancestor with `data-bs-theme="dark"` (typically `<html data-bs-theme="dark">`).
+ *
+ * How the two-step pixel math works (filters run in order from left to right):
+ *   Step 1 — `brightness(0)`: Multiplies every RGB channel (Red, Green, Blue)
+ *            by 0, turning every non-transparent pixel pure BLACK (`#000000`)
+ *            while preserving each pixel's alpha transparency channel!
+ *   Step 2 — `invert(1)`: Flips every color channel (`255 - value`), turning
+ *            every pure black pixel (`#000000`) into pure WHITE (`#ffffff`),
+ *            still keeping transparent background pixels 100% transparent. */
 [data-bs-theme="dark"] .brand-img-adaptive-white {
-    /* Step 1: brightness(0) turns every pixel pure BLACK.
-       Step 2: invert(1) turns every black pixel pure WHITE.
-    */
     filter: brightness(0) invert(1);
 }
 
 /* --------------------------------------------------------------------------
- * 2. THE "X-RAY" CLASS (Optional)
+ * 2. THE "X-RAY" SIMPLE INVERT CLASS (`.brand-img-invert`)
  * --------------------------------------------------------------------------
- * Light Mode: Normal colors.
- * Dark Mode: Inverts lightness without forcing white.
- * Note: This shifts the hue wheel. Use with extreme caution on colored logos.
- */
+ * Optional utility for monochrome black-and-white artwork.
+ * - In Light Mode: Shows original colors.
+ * - In Dark Mode: Applies `invert(1)` WITHOUT zeroing brightness first.
+ *   Because `invert(1)` flips RGB channels directly (e.g., blue becomes orange,
+ *   green becomes magenta), avoid using this class on multi-color brand logos
+ *   unless you specifically want inverted hues.
+ * -------------------------------------------------------------------------- */
 .brand-img-invert {
     transition: filter 0.3s ease;
 }
 
+/* When Dark Mode is active on `[data-bs-theme="dark"]`, flip light <-> dark values. */
 [data-bs-theme="dark"] .brand-img-invert {
     filter: invert(1);
 }
 
 /* --------------------------------------------------------------------------
- * 3. STANDARD SIZE UTILITY
+ * 3. STANDARD NAVBAR LOGO SIZING (`.navbar-brand img`)
  * --------------------------------------------------------------------------
- * Ensures a high-res (e.g., 512px) image doesn't blow out the navbar.
- */
+ * Raw logo assets are often exported at high resolution (e.g., 512px or 1024px)
+ * so they look sharp on Retina / 4K displays. Without a height rule, an `<img>`
+ * defaults to its intrinsic pixel size and blows out the navigation bar.
+ * - `height: 40px` locks the vertical height to fit cleanly inside a standard bar.
+ * - `width: auto` calculates the horizontal width proportionally so the logo
+ *   never stretches or squishes.
+ * - `object-fit: contain` guarantees the entire graphic fits inside its box
+ *   even if a parent flex container squeezes its width.
+ * -------------------------------------------------------------------------- */
 .navbar-brand img {
-    height: 40px; /* Adjust based on your specific navbar height requirements */
+    height: 40px; /* Standard RaggieSoft navbar brand height */
     width: auto;
     object-fit: contain;
 }
 
 /* --------------------------------------------------------------------------
- * 4. THE "LOGO-INVERT" CLASS
+ * 4. PERMANENT WHITE FOOTER BADGE CLASS (`.logo-invert`)
  * --------------------------------------------------------------------------
- * Used heavily in footers (like the Stardust Engine attribution link) to 
- * permanently invert black text logos to white regardless of theme context.
- */
+ * Used in dark-surface footers (such as the Stardust Engine attribution badge)
+ * that stay dark even when the rest of the page is in Light Mode.
+ * - Notice there is NO `[data-bs-theme="dark"]` prefix here: this rule applies
+ *   at all times regardless of the active theme.
+ * - Filter pipeline (executed left to right):
+ *   1. `invert(1)`: Flips black text/lines into white.
+ *   2. `grayscale(100%)`: Removes any leftover color tint so the graphic is
+ *      purely neutral gray/white.
+ *   3. `brightness(100%)`: Keeps normal luminance (1.0x) after grayscale.
+ * -------------------------------------------------------------------------- */
 .logo-invert {
     transition: filter 0.3s ease;
-    /* Forces the image to grayscale before inverting to ensure pure white/black */
     filter: invert(1) grayscale(100%) brightness(100%);
 }

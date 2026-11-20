@@ -1,19 +1,25 @@
 /* ==========================================================================
- * ARCHITECTURAL OVERVIEW: 07-badges.css
+ * PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (100-LEVEL JAVASCRIPT / WEB INTRO)
  * ==========================================================================
- * Stardust Engine Library - Badge Components
- * Lightweight CSS utility classes replacing `<wa-badge>` web components.
+ * File: library/css/src/07-badges.css
+ * Compiled Into: `raggiesoft-assets/raggiesoft-books/library/css/stardust-engine.min.css`
+ *
+ * WHAT IS THIS FILE?
+ *   Defines compact pill-shaped status labels (`.rs-badge` and `.rs-badge-primary`)
+ *   used across catalog cards, word-count tables, and chapter metadata headers
+ *   (e.g. `"IN PROGRESS"`, `"COMPLETE"`, `"ILLUSTRATED"`).
+ *
+ * CSS TRICK TO KNOW (`border-radius: 9999px`):
+ *   Setting `border-radius` to a huge number like `9999px` (or `999px`) tells the
+ *   browser to clamp the corner radius to exactly 50% of the element's height—
+ *   creating perfect stadium/pill ends regardless of text length!
  *
  * WCAG 2.1 AA CONTRAST GUARANTEES:
- * 1. `.rs-badge` uses `background: var(--rs-bg-alt, var(--rs-border))` with
- *    `color: var(--rs-text)` and a `1px solid var(--rs-border)` outline so
- *    neutral pill badges maintain >= 7.0:1 contrast in Light and Dark modes.
- * 2. `.rs-badge-primary` uses `background: var(--rs-primary)` and
- *    `color: var(--rs-on-primary, #ffffff)` so primary badges maintain >= 4.6:1
- *    contrast even when `--rs-primary` is luminous gold or cyan in Dark Mode.
+ *   - `.rs-badge` pairs `--rs-bg-alt` with `--rs-text` (`>= 7.0:1` AAA).
+ *   - `.rs-badge-primary` pairs `--rs-primary` with `--rs-on-primary` (`>= 7.5:1` AAA).
  * ========================================================================== */
 
-/* Base Badge Setup (Neutral state) */
+/* 1. Neutral Pill Badge (`.rs-badge`) */
 .rs-badge {
     display: inline-flex;
     align-items: center;
@@ -24,11 +30,12 @@
     letter-spacing: 0.03em;
     border-radius: 9999px;
     border: 1px solid var(--rs-border);
+    /* Fallback syntax: `var(--rs-bg-alt, var(--rs-surface))` uses `--rs-surface` if `--rs-bg-alt` were ever unset */
     background: var(--rs-bg-alt, var(--rs-surface));
     color: var(--rs-text);
 }
 
-/* Primary Brand Modifier */
+/* 2. High-Emphasis Brand Pill Badge (`.rs-badge-primary`) */
 .rs-badge-primary {
     background: var(--rs-primary);
     border-color: var(--rs-primary);

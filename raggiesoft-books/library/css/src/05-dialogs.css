@@ -1,44 +1,47 @@
 /* ==========================================================================
- * ARCHITECTURAL OVERVIEW: 05-dialogs.css
+ * PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (100-LEVEL JAVASCRIPT / WEB INTRO)
  * ==========================================================================
- * Stardust Engine Library - Modal Components
- * This file replaces the heavy `<wa-dialog>` web components with native 
- * HTML `<dialog>` styling through the `.rs-modal` class.
- * 
- * CORE RESPONSIBILITIES:
- * 1. Layout & Shadowing: Ensures the modal floats cleanly above the DOM 
- *    with appropriate spacing and elevation shadows.
- * 2. Backdrop Handling: Leverages the native `::backdrop` pseudo-element 
- *    to darken and blur the underlying page content when the dialog is open.
- * 
- * FUTURE MAINTENANCE NOTES:
- * - This class is intended to be applied directly to a native `<dialog>` tag.
- * - The `::backdrop` blur effect may not be supported on very old browsers; 
- *   the fallback is the `rgba()` background color which guarantees contrast.
+ * File: library/css/src/05-dialogs.css
+ * Compiled Into: `raggiesoft-assets/raggiesoft-books/library/css/stardust-engine.min.css`
+ *
+ * WHAT IS THIS FILE?
+ *   Provides the baseline `.rs-modal` styling for native HTML5 `<dialog>`
+ *   popup dialogs!
+ *
+ * HOW DOES `<dialog class="rs-modal">` WORK?
+ *   - Unlike old `<div>` popups that required 100+ lines of JavaScript to create
+ *     overlay divs, manage `z-index: 9999`, trap `Tab` focus, and listen for the
+ *     `Escape` key, HTML5's native `<dialog>` tag does all of that automatically
+ *     when opened with `dialogElement.showModal()`!
+ *   - `.rs-modal` styles the floating box itself using `--rs-surface` and `--rs-text`
+ *     so modals automatically match Light, Dark, and Sepia reading modes.
+ *   - `.rs-modal::backdrop` targets the browser's built-in full-screen overlay
+ *     behind the modal, dimming and blurring (`backdrop-filter: blur(4px)`) the
+ *     underlying page so attention stays focused on the dialog.
  * ========================================================================== */
 
-/* Primary Modal Container */
+/* 1. Modal Box Container (applied directly to `<dialog class="rs-modal">`) */
 .rs-modal {
     padding: 24px;
     border: none;
     border-radius: 12px;
     
-    /* Pull container colors from global variables */
+    /* Inherit active reading theme surface & ink colors */
     background: var(--rs-surface);
     color: var(--rs-text);
     
-    /* Elevation shadow for depth */
+    /* Soft drop shadow separating the floating modal from the dimmed page */
     box-shadow: 0 10px 25px rgba(0,0,0,0.2);
     
-    /* Responsive sizing constraints */
+    /* Responsive width: fills mobile screens up to a comfortable 500px maximum */
     max-width: 500px;
     width: 100%;
 }
 
-/* Native HTML Dialog Backdrop Layer */
+/* 2. Native Browser Top-Layer Backdrop (`::backdrop` appears automatically on `.showModal()`) */
 .rs-modal::backdrop {
-    /* Dim the background */
+    /* 50% translucent black dim layer */
     background: rgba(0, 0, 0, 0.5);
-    /* Apply modern frosted glass effect to underlying content */
+    /* Frosted-glass blur over background prose */
     backdrop-filter: blur(4px);
 }

@@ -1,39 +1,60 @@
 /**
  * ============================================================================
- * STARDUST ENGINE: READER STYLES - ARCHITECTURAL OVERVIEW
+ * READ-ALONG TEACHING OVERVIEW: reader.css (RaggieSoft Book Reader Stylesheet)
+ * Hosted at: https://assets.raggiesoft.com/raggiesoft-books/css/reader.css
  * ============================================================================
- * 
- * Description:
- * This stylesheet (`reader.css`) defines the core structural layout and 
- * thematic styling for the Stardust Engine's reading environment. It manages 
- * the presentation of the story content, the sliding navigation sidebar, 
- * modal wizard dialogs, and platform-specific integrations (iOS tab bar, PWA).
- * 
- * Core Components:
- * 1. Theming Engine: Utilizes CSS custom variables (`--rs-*`) applied to the 
- *    `body` element to swap between Light, Dark, Sepia, and Dark-Sepia themes. 
- *    It supports auto-detection via `prefers-color-scheme`.
- * 2. Responsive Sidebar: Implements a sliding off-canvas menu on mobile 
- *    (`.reader-sidebar.open`) and a static, fixed-width sidebar on desktop.
- * 3. Mobile Scroll Fixes: Overrides body scrolling rules specifically for iOS 
- *    and mobile webkit to ensure smooth touch scrolling and fix 100vh bugs.
- * 4. iOS Tab Bar: A custom sticky bottom navigation bar styled to mimic native 
- *    iOS app navigation with backdrop filters.
- * 5. PWA Window Controls: Integrates with Desktop PWA Titlebar APIs to allow 
- *    app dragging capabilities while masking the native title bar.
- * 
- * Maintainability Notes:
- * - When adjusting themes, ensure all 6 core variables (`--rs-bg`, 
- *   `--rs-bg-alt`, `--rs-card-bg`, `--rs-text`, `--rs-border`, `--rs-surface`) 
- *   are defined for each state.
- * - The `.ios-tab-bar` heavily relies on `env(safe-area-inset-bottom)` to 
- *   avoid overlapping with the iPhone Home Indicator.
+ * WHAT THIS FILE IS:
+ *   The master reading-interface stylesheet for RaggieSoft Book Reader
+ *   (Ocean View Archives & RaggieSoft Story Crossroads), paired with `reader.js`.
+ *
+ * WHICH WEBSITES LOAD IT:
+ *   Loaded on `https://books.raggiesoft.com` (PHP 8.5 + Stardust Engine Library SPA)
+ *   across reading scenes (`oliver.php`), series overview pages (`landing.php`),
+ *   Story Arc playlists (`/arcs`), sidebar TOC (`sidebar.php`), and Settings /
+ *   Onboarding Wizard modals (`settings.php`).
+ *
+ * WHAT INPUTS IT CONSUMES:
+ *   1. Dynamic CSS custom properties set on `<html>` / `<body>` by `reader.js`:
+ *      - `--rs-font-family` (System, Georgia, Lora, Inter, Atkinson Hyperlegible, OpenDyslexic)
+ *      - `--rs-font-size` (`0.8rem`..`2.5rem`, default `1.15rem`)
+ *      - `--rs-line-height` (default `1.8`)
+ *      - `--arc-progress` (`0%`..`100%` Story Arc progress bar fill)
+ *   2. Theme classes on `<body>` (`.theme-light`, `.theme-dark`, `.theme-sepia`,
+ *      `.theme-dark-sepia`, `.theme-sepia-system`, `.theme-auto`) plus OS
+ *      `prefers-color-scheme: dark`, `prefers-reduced-motion: reduce`, and `forced-colors: active`.
+ *   3. Device/PWA hooks (`html[data-os="ios"]`, `html.is-pwa-standalone`,
+ *      `@media (display-mode: standalone | window-controls-overlay)`).
+ *
+ * WHAT VISIBLE UI IT PRODUCES:
+ *   - Ergonomic `800px` reading column (`920px` on series overviews) with iOS
+ *     Dynamic Island & Home Indicator safe-area clearance.
+ *   - 13-token WCAG 2.1 AA/AAA Light, Dark, Sepia, and Dark-Sepia reading palettes.
+ *   - Off-canvas sliding mobile TOC drawer (`< 992px`) and static `310px` desktop sidebar.
+ *   - 16:9 multi-slide Scene Hero Image Carousel (`.reader-hero-carousel`).
+ *   - Story Arc playlists, bonus Backstage checkpoints, and modal `<dialog>` drawers.
+ *   - RaggieSoft Story Crossroads interactive branching cards & active path switchers.
+ *   - Transit PA badges (`.pa-announcement`) and realistic amber LED bus matrix signs (`.led-sign`).
+ *
+ * 100-LEVEL CSS CONCEPTS TAUGHT IN THIS FILE:
+ *   - Zero-Specificity Scoping (`:where(:not(.theme-oceanview))`): Providing fallback
+ *     theme tokens that NEVER accidentally override higher-priority brand stylesheets!
+ *   - CSS Logical Properties (`max-inline-size`, `margin-block-end`, `border-inline-start`):
+ *     Flow-relative layout properties that adapt naturally to writing directions.
+ *   - Safe-Area Environment Variables (`env(safe-area-inset-top)` + `max()`):
+ *     Clearing physical phone notches, Dynamic Islands, and swipe bars cleanly.
+ *   - Fluid `clamp(min, preferred, max)` Headings & Aspect-Ratio Media Boxes (`aspect-ratio: 16 / 9`).
  * ============================================================================
  */
 
 
-/* Reader Page (oliver.php) */
-/* Constrain story content width for optimal reading line length and offset top/horizontal edges by OS safe-area insets (iOS Dynamic Island, notch, and landscape sensor housing) */
+/* ============================================================================
+ * 1. READING COLUMN MEASURE, SAFE-AREA CLEARANCE & STORY TYPOGRAPHY
+ * ============================================================================
+ * Why `max-width: 800px`? Typography research shows 60–75 characters per line
+ * prevents eye strain when tracking from the end of one line back to the start
+ * of the next! `max(1rem, calc(env(safe-area-inset-top, 0px) + 0.75rem))` picks
+ * whichever is larger: `1rem` on normal desktop screens, or the physical iOS
+ * notch / Dynamic Island height plus `0.75rem` breathing room on phones. */
 .reader-page {
     max-width: 800px;
     margin: 0 auto;
@@ -43,12 +64,15 @@
     padding-left: max(1rem, env(safe-area-inset-left, 0px));
 }
 
-/* Allow Series Overview pages (`landing.php`) a wider 920px editorial measure so the 2:3 cover + synopsis pair comfortably */
+/* Modern CSS Parent Selector `:has(.landing-shell)`:
+ * Widens `.reader-page` to `920px` ONLY when it contains a Series Overview page,
+ * giving the 2:3 book cover and synopsis comfortable side-by-side room. */
 .reader-page:has(.landing-shell) {
     max-width: 920px;
 }
 
-/* Preserve `.rs-btn` and `.rs-btn-primary` foreground contrast when rendered inside `<article class="story-content">` */
+/* Preserve `.rs-btn` and `.rs-btn-primary` foreground contrast when rendered inside `<article class="story-content">`
+ * (prevents generic `.story-content a` link rules from turning white primary button text blue!). */
 .story-content a.rs-btn {
     color: var(--rs-text);
     text-decoration: none;
@@ -90,17 +114,26 @@ html.is-pwa-standalone .reader-page {
 html[data-os="ios"].is-pwa-standalone .reader-page {
     padding-top: max(3.75rem, calc(env(safe-area-inset-top, 0px) + 0.85rem)) !important;
 }
+
+/* Main Novel Prose Surface (`.story-content`):
+ *Notice the 2nd fallback argument in `var(--rs-font-size, 1.15rem)`: before
+ * `reader.js` loads user preferences from `localStorage`, CSS uses `1.15rem`
+ * font size and `1.8` line-height (>= WCAG 1.4.12 Text Spacing recommendation),
+ * then updates live the instant `reader.js` sets `--rs-font-size` on `<html>`! */
 .story-content {
     font-family: var(--rs-font-family, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif);
     font-size: var(--rs-font-size, 1.15rem);
     line-height: var(--rs-line-height, 1.8);
     color: var(--rs-text);
 }
-/* Metadata headers for parts and series (100% opacity so --rs-primary preserves verified WCAG 2.1 AA contrast) */
+/* Metadata headers for parts and series (100% opacity so --rs-primary preserves verified WCAG 2.1 AA contrast).
+ * `clamp(1.75rem, 5vw, 2.5rem)` scales `.reader-part-header` smoothly between `1.75rem` (phones) and `2.5rem` (desktop). */
 .reader-series-header { font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 1.5px; color: var(--rs-primary, #0F4C5C); margin-bottom: 1rem; }
 .reader-part-header { font-size: clamp(1.75rem, 5vw, 2.5rem); font-weight: 900; color: var(--rs-heading, var(--rs-text)); margin: 0 0 1rem 0; line-height: 1.2; }
 
-/* 16:9 Chapter Header Plate (Option A — physical-novel headpiece illustration above chapter title) */
+/* 16:9 Chapter Header Plate (physical-novel headpiece illustration above chapter title).
+ * Reserve `aspect-ratio: 16 / 9` upfront so the page never jumps (zero CLS = Cumulative Layout Shift)
+ * while the illustration downloads from `assets.raggiesoft.com`! */
 .reader-chapter-plate {
     margin: 0 0 1.75rem 0;
     width: 100%;
@@ -125,7 +158,10 @@ html[data-os="ios"].is-pwa-standalone .reader-page {
     }
 }
 
-/* Ensure drop caps and book paragraph indents ONLY apply to direct top-level scene paragraphs, NEVER inside blockquotes or lists */
+/* Literary Typography Guardrail:
+ * Novel body paragraphs use first-line book indents and opening drop-caps (`::first-letter`),
+ * which look broken if inherited inside in-universe email `<blockquote>`s or lists!
+ * Resetting `text-indent: 0` and `::first-letter` inside nested blocks keeps emails crisp. */
 .story-content blockquote p,
 .story-content ul p,
 .story-content ol p,
@@ -155,11 +191,17 @@ html[data-os="ios"].is-pwa-standalone .reader-page {
     color: inherit !important;
 }
 
-/* Sidebar (sidebar.php) */
-/* Transition handles the slide animation on mobile */
+/* ============================================================================
+ * 2. RESPONSIVE SIDEBAR NAVIGATION DRAWER (`sidebar.php`)
+ * ============================================================================
+ * - Mobile / Tablet Portrait (`max-width: 991px`): Fixed off-canvas drawer parked
+ *   off-screen to the left via `transform: translateX(-100%)`. When `reader.js`
+ *   toggles `.open`, `transform: translateX(0)` slides it smoothly over the page!
+ * - Desktop / iPad Landscape (`min-width: 992px`): Docked permanently on the left
+ *   at `width: 310px` (`position: static; transform: none`), hiding the mobile toggle button.
+ * ============================================================================ */
 .reader-sidebar { padding: 1rem 1.15rem; overflow-y: auto; background: var(--rs-bg-alt, #fafafa); transition: transform 0.3s ease; }
 
-/* Mobile: Off-canvas sidebar hidden by default; uses `#stardust-sidebar.reader-sidebar` + `!important` to override `stardust-engine.min.css` (`#stardust-sidebar { padding: 20px; }`) and clear the iOS Dynamic Island at the top and `.ios-tab-bar` at the bottom */
 @media (max-width: 991px) {
     #stardust-sidebar.reader-sidebar,
     .reader-sidebar {
@@ -189,7 +231,6 @@ html[data-os="ios"].is-pwa-standalone .reader-page {
     }
 }
 
-/* Desktop & iPad Landscape: Static, permanent sidebar pushing content with compact padding so it fits without scrolling */
 @media (min-width: 992px) {
     #stardust-sidebar.reader-sidebar { position: static !important; transform: none !important; width: 310px !important; height: 100vh !important; height: 100dvh !important; padding: 1rem 1.1rem !important; z-index: 1 !important; box-shadow: none !important; flex-shrink: 0; border-right: 1px solid var(--rs-border); }
     #stardust-sidebar-toggle { display: none !important; }
@@ -197,11 +238,17 @@ html[data-os="ios"].is-pwa-standalone .reader-page {
 }
 .toc-nav a:hover { opacity: 1 !important; color: var(--rs-primary); }
 
-/* Settings & Themes (settings.php / reader.js)
- * Complete 13-token WCAG 2.1 AA/AAA base fallbacks scoped via `:where(:not(.theme-oceanview))`
- * so `theme-oceanview.min.css` governs Ocean View Archives with zero hybrid token clobbering,
- * while standalone Stardust Engine deployments still receive full 13-token Light/Dark/Sepia support.
- */
+/* ============================================================================
+ * 3. THE 13-TOKEN READING PALETTE ENGINE (LIGHT, DARK, SEPIA, DARK-SEPIA, AUTO)
+ * ============================================================================
+ * 100-Level CSS Specificity Lesson — Why `:where(:not(.theme-oceanview))`?
+ * Normally, `:not(.theme-oceanview)` adds class specificity `(0, 1, 0)`, which
+ * could accidentally beat rules in another stylesheet! Wrapping it inside
+ * `:where(...)` reduces its specificity contribution to ZERO `(0, 0, 0)`.
+ * That means Ocean View Archives' dedicated `theme-oceanview.min.css` wins
+ * cleanly whenever `.theme-oceanview` is present, while standalone Stardust
+ * Engine installations still get all 13 accessible Light/Dark/Sepia tokens!
+ * ============================================================================ */
 body:where(:not(.theme-oceanview)),
 body:where(:not(.theme-oceanview)).theme-light {
     color-scheme: light;
@@ -306,11 +353,15 @@ body:where(:not(.theme-oceanview)).theme-dark-sepia {
     }
 }
 
-/* Native dialog backdrop styling */
+/* ============================================================================
+ * 4. NATIVE DIALOGS, ONBOARDING WIZARD, MOBILE SCROLL & iOS / PWA CHROME
+ * ============================================================================
+ * Native `<dialog>::backdrop` styles the browser's built-in modal scrim behind
+ * `.showModal()` dialogs (Settings, Welcome Wizard, Lyrics, Backstage, Crossroads). */
 dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
 
-/* Wizard Styles */
-/* Complex modal layout for the settings/onboarding wizard */
+/* Split 35%/65% 2-column Onboarding Wizard Modal (`.wizard-dialog`), collapsing
+ * cleanly to a single full-width column on phones (`@media (max-width: 768px)`). */
 .wizard-dialog { padding: 0; border-radius: 12px; border: 1px solid var(--rs-border); background: var(--rs-card-bg, var(--rs-surface, #fff)); color: var(--rs-text); max-width: 700px; width: 100%; box-shadow: 0 10px 30px rgba(0,0,0,0.2); overflow: hidden; }
 .wizard-container { display: flex; min-height: 450px; }
 .wizard-sidebar { width: 35%; background-color: #000; background-size: cover; background-position: center; border-right: 1px solid var(--rs-border); }
@@ -325,25 +376,28 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
     .wizard-content { width: 100%; padding: 1.5rem; }
 }
 
-/* Tab navigation inside wizards (uses semantic --rs-text-muted instead of opacity wash-out) */
+/* Tab navigation inside Settings modal (uses `--rs-text-muted` instead of `opacity: 0.5`
+ * so inactive tab labels never drop below WCAG 4.5:1 contrast!). */
 .settings-tab { background: transparent; border: none; padding: 0.5rem 1rem; font-size: 0.95rem; color: var(--rs-text-muted, var(--rs-text)); cursor: pointer; border-bottom: 2px solid transparent; }
 .settings-tab:hover { color: var(--rs-heading, var(--rs-text)); }
 .settings-tab:focus-visible { outline: 2px solid var(--rs-primary); outline-offset: -2px; }
 .settings-tab.active { font-weight: 600; color: var(--rs-primary); border-bottom: 2px solid var(--rs-primary); }
 
-/* Theme-aware input fields */
+/* Theme-aware `<select>` and `<input>` controls */
 .rs-input { background: var(--rs-surface); color: var(--rs-text); border: 1px solid var(--rs-border); border-radius: 6px; font-family: inherit; }
 .rs-input:focus { outline: 2px solid var(--rs-primary); outline-offset: 1px; }
 
 
-/* Mobile Scroll Container Base (for Desktop / Tablets) */
+/* Desktop internal scroll container (`>= 992px`, where sidebar + reading pane sit side-by-side). */
 .stardust-mobile-scroll {
     overflow-y: auto;
     -webkit-overflow-scrolling: touch;
 }
 
-/* Mobile Native Scroll Fix (Allows iOS Tap-to-Top and fixes 100vh bugs) */
-/* Forces the body to be the scrolling element on mobile so browser chrome hides */
+/* Mobile Native Document Scroll Fix (`<= 991px`):
+ * Why switch from an inner scrolling `<div>` to native `html, body` scrolling on phones?
+ * Because mobile Safari & Chrome ONLY auto-collapse the address bar AND support
+ * "tap the status bar clock to jump to top" when `body` itself is the scroll container! */
 @media (max-width: 991px) {
     html, body {
         overflow-x: hidden !important;
@@ -367,8 +421,11 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
     }
 }
 
-/* iOS Native Tab Bar styling */
-/* Fixed bottom navigation simulating native iOS Safari/PWA styling while adapting to active --rs-* tokens */
+/* iOS Translucent Bottom Tab Bar (`.ios-tab-bar`):
+ * - `height: calc(49px + env(safe-area-inset-bottom, 0px))` matches Apple's Human Interface
+ *   Guidelines (`49pt` tab bar + `34pt` iPhone Home Indicator clearance).
+ * - `color-mix(in srgb, var(--rs-surface) 90%, transparent)` + `backdrop-filter: blur(20px)`
+ *   creates native frosted glass that automatically tints Light, Dark, or Sepia! */
 .ios-tab-bar {
     position: fixed;
     bottom: 0;
@@ -417,8 +474,9 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
     outline-offset: -2px;
 }
 
-/* PWA Native Title Bar Integration */
-/* Allows dragging the window by grabbing the header when installed as a desktop PWA */
+/* Desktop PWA Title Bar Dragging (`display-mode: window-controls-overlay`):
+ * `-webkit-app-region: drag` lets desktop PWA users drag the app window by its header,
+ * while `no-drag` on buttons/links/inputs ensures interactive controls remain clickable! */
 @media (display-mode: window-controls-overlay) {
     .app-header, #stardust-header, .wizard-dialog header, .reader-sidebar {
         padding-top: env(titlebar-area-height, 10px);
@@ -435,10 +493,10 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
 }
 
 /* ==========================================================================
- * ZOË PATEL COGNITIVE KERNEL LOGS (.zoe-kernel-log & .zkl-* Tokens)
+ * 5. ZOË PATEL COGNITIVE KERNEL LOGS (.zoe-kernel-log & .zkl-* Tokens)
  * ==========================================================================
- * Renders Zoë's autistic internal C#/.NET application-log thought streams
- * (`ZOË.Systems.Logs.*`) with full WCAG 2.1 AAA Light & Dark syntax highlighting.
+ * Prevents novel first-line indents and drop-caps from affecting Zoë's autistic
+ * internal C#/.NET application-log blocks (`ZOË.Systems.Logs.*`).
  * ========================================================================== */
 .story-content .zoe-kernel-log,
 .story-content .zoe-kernel-log div,
@@ -456,12 +514,14 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
 }
 
 /* ==========================================================================
- * SCENE HERO IMAGE CAROUSEL (.reader-hero-carousel)
+ * 6. SCENE HERO IMAGE CAROUSEL (.reader-hero-carousel)
  * ==========================================================================
- * Accessible 16:9 multi-slide chapter header plate for `oliver.php`.
- * Supports click, keyboard (Left/Right arrow keys when focused), and touch swipe
- * with full WCAG 2.1 AA contrast compliance across Light & Dark themes and
- * strict `@media (prefers-reduced-motion: reduce)` support.
+ * Multi-slide 16:9 chapter header plate controlled by Section 2B of `reader.js`:
+ *   - Inactive slides sit stacked at `position: absolute; inset: 0; opacity: 0; pointer-events: none`.
+ *   - The `.is-active` slide fades to `opacity: 1` over `0.32s` (disabled under `prefers-reduced-motion`).
+ *   - Notice `.reader-hero-controls` sets `pointer-events: none` on the full-width bottom bar
+ *     while `.reader-hero-counter` and `.reader-hero-dots` restore `pointer-events: auto`—that
+ *     lets clicks/swipes in the empty middle space pass right through to the slide!
  * ========================================================================== */
 .reader-hero-carousel {
     position: relative;
@@ -608,13 +668,17 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
 }
 
 /* ==========================================================================
- * STORY ARCS & READING PLAYLISTS (`/arcs`, `landing.php`, & `oliver.php`)
+ * 7. STORY ARCS & READING PLAYLISTS (`/arcs`, `landing.php`, & `oliver.php`)
  * ==========================================================================
- * Theme-token-driven layout and typography for multi-arc Story Arc playlists.
- * Uses CSS variables (`--rs-bg`, `--rs-surface`, `--rs-border`, `--rs-text`,
- * `--rs-text-muted`, `--rs-heading`, `--rs-primary`) so every component
- * automatically adapts across Light, Sepia, Dark, and custom narrative themes
- * while maintaining >= 4.5:1 WCAG 2.1 AA contrast.
+ * 100-Level Modern CSS Tour in This Section:
+ *   - Logical Properties: `max-inline-size` (= `max-width` in English LTR),
+ *     `margin-inline: auto` (= `margin-left/right: auto`), `padding-block` (= `padding-top/bottom`),
+ *     and `border-inline-start` (= `border-left` in LTR, automatically flipping in RTL languages!).
+ *   - `font-variant-numeric: tabular-nums`: Forces every digit `0..9` to occupy identical
+ *     pixel width so stop numbers and counters align in neat vertical columns!
+ *   - `grid-template-columns: repeat(auto-fit, minmax(min(100%, 460px), 1fr))`:
+ *     Creates an automatic multi-column card grid without needing `@media` queries—and
+ *     `min(100%, 460px)` prevents horizontal overflow on 360px-wide phones!
  * ========================================================================== */
 .rs-arcs-hub-shell {
     max-inline-size: 1080px;
@@ -810,7 +874,9 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
     padding: 0.5rem 0.95rem;
 }
 
-/* Series Overview Story Arcs Stack (`landing.php`) */
+/* Series Overview Story Arcs Stack (`landing.php`)
+ * Switches `.rs-series-arc-top` from a 1-column mobile stack to a `220px` thumbnail
+ * + fluid `minmax(0, 1fr)` text column on viewports `>= 680px`. */
 .rs-series-arcs-section {
     padding: 1.35rem 1.45rem;
     border-radius: 14px;
@@ -1256,9 +1322,15 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
 }
 
 /* ============================================================================
-   COEQUAL STORY CROSSROADS & DYNAMIC ACTIVE STORY PATH STYLES
-   WCAG 2.1 AA / Section 508 Compliant (Light & Dark Mode via CSS Variables)
-   ============================================================================ */
+ * 8. RAGGIESOFT STORY CROSSROADS (INTERACTIVE BRANCHING NARRATIVE UI)
+ * ============================================================================
+ * Styles the end-of-part Story Crossroads decision cards (`.rs-crossroads-section`),
+ * the top-of-scene active route indicator bar (`.rs-active-path-bar`), and the
+ * `<dialog class="rs-crossroads-dialog">` route-switcher modal controlled by
+ * `reader.js` (which persists choices via cookie + `localStorage` in the capture phase).
+ * Notice `.rs-crossroads-card:focus-within`: highlights the whole card border
+ * whenever a keyboard user `Tab`s onto the "Choose Path" button inside it!
+ * ============================================================================ */
 .rs-crossroads-section {
     margin-block-start: 3rem;
     padding: 1.85rem 1.65rem;
@@ -1465,12 +1537,16 @@ dialog::backdrop { background: rgba(0,0,0,0.5); backdrop-filter: blur(2px); }
 }
 
 /* ==========================================================================
- * TRANSIT AMBER LED DESTINATION MATRIX SIGNS (<led> -> .led-sign) & <pa>
+ * 9. TRANSIT AMBER LED DESTINATION MATRIX SIGNS (<led> -> .led-sign) & <pa>
  * ==========================================================================
- * Supports single-line (<led>112 NNTC</led>), stacked two-line
- * (<led>OUT OF SERVICE | GARAGE</led>), and full-height left route number +
- * stacked two-line destination matrix (<led>913 | VA BEACH | SHORE & PLEAS HSE</led>).
- * Contrast: #FFB300 on #0A0C10 = 11.38:1 (WCAG 2.1 AAA across Light & Dark).
+ * Renders in-universe bus headsigns (`<led>913 | VA BEACH | SHORE & PLEAS HSE</led>`)
+ * as authentic dark housing (`#0a0c10`) with glowing amber LEDs (`#ffb300`,
+ * achieving an extraordinary `11.38:1` WCAG 2.1 AAA contrast ratio!).
+ * - `.led-route` sits on the left at `1.56em` full-height tabular digits separated
+ *   by a faint amber divider line (`border-inline-end`), paired with `.led-lines`
+ *   stacking `.led-line-top` and `.led-line-bottom` vertically on the right.
+ * - `@media (forced-colors: active)` maps `.led-sign` cleanly to `Canvas`/`CanvasText`
+ *   for Windows High Contrast Mode users.
  * ========================================================================== */
 em.pa-announcement, .pa-announcement {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;

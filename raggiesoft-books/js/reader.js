@@ -1,46 +1,64 @@
 /**
  * ============================================================================
- * STARDUST ENGINE: READER LOGIC (reader.js)
- * ARCHITECTURAL OVERVIEW
+ * READ-ALONG TEACHING OVERVIEW: reader.js (RaggieSoft Book Reader Controller)
+ * Hosted at: https://assets.raggiesoft.com/raggiesoft-books/js/reader.js
  * ============================================================================
- * 
- * Description:
- * This script is the primary controller for the Stardust Engine's reading 
- * interface (Oliver). It manages user preferences, media playback, layout 
- * adjustments, and offline capabilities entirely client-side.
- * 
- * Core Subsystems:
- * 1. UI Toggles: Handles the off-canvas sidebar, settings dialogs, and 
- *    wizard dialogs.
- * 2. Audio Engine: Controls the `<audio>` element for in-story soundtracks 
- *    or narration, including a custom scrubber, lyrics fetcher, loop toggling, 
- *    and MediaSession API integration for OS-level control.
- * 3. LocalStorage State: Persists user preferences (theme, font size, column 
- *    width, font family, auto-play) and reading data (bookmarks, hidden books, 
- *    last-read location) locally to avoid requiring server-side accounts.
- * 4. Keyboard Shortcuts: Implements hotkeys for quick navigation (Next/Prev), 
- *    theme toggling, and fullscreen mode.
- * 5. Offline Cache Manager: Uses `fetch` to proactively download book assets 
- *    (JSON TOC, images, HTML parts) so the Service Worker can intercept and 
- *    cache them for offline reading.
- * 
- * Maintainability Notes:
- * - This script is designed to run in a Single Page Application (SPA) context. 
- *   The `initOceanViewReader` wrapper ensures that event listeners can be 
- *   safely re-bound or prevented from double-binding on soft DOM swaps 
- *   (e.g., listening for `stardust:loaded`).
- * - All DOM queries must gracefully fail if the element doesn't exist, as 
- *   certain UI components (like audio players) are contextual.
+ * WHAT THIS FILE IS:
+ *   The client-side JavaScript brain of RaggieSoft Book Reader ("Oliver"),
+ *   powering reading typography customization, Light/Dark/Sepia/Narrative
+ *   themes, synchronized chapter soundtracks, bookmarks, resume-reading progress,
+ *   offline Service Worker book caching, Backstage dossiers, Story Arc playlists,
+ *   bilingual inline `<lang>` translation toggles, and RaggieSoft Story Crossroads
+ *   interactive branching narratives—100% in the browser with zero user tracking
+ *   or server-side login accounts!
+ *
+ * WHICH WEBSITES LOAD IT:
+ *   Loaded on `https://books.raggiesoft.com` alongside `reader.css` and
+ *   `stardust-spa.min.js` (which dispatches `stardust:loaded` on soft SPA navigations).
+ *
+ * WHAT INPUTS IT CONSUMES:
+ *   1. `localStorage` keys:
+ *      - `'reader-settings'` (JSON: `theme`, `customThemeEnabled`, `fontSize`,
+ *        `width`, `fontFamily`, `autoPlayAudio`, `showOfflineCta`, `translationMode`)
+ *      - `'rs-line-height'` (e.g. `'1.8'`)
+ *      - `'rs-bookmarks'` (JSON array of saved chapter URLs & titles)
+ *      - `'rs-last-read'` & `'rs-last-read-title'` (last visited story chapter route)
+ *      - `'rs-hidden-books'` (JSON array of hidden series slugs)
+ *      - `'rs-wizard-completed'` (boolean string `'true'` after first-run wizard)
+ *      - `'rs-story-choices-<bookSlug>'` + `rs_cx_<bookSlug>` HTTP cookie (Story Crossroads routes)
+ *   2. SSR HTML attributes (`#narrative-audio-element`, `[data-hero-carousel]`,
+ *      `meta[name="stardust-narrative-theme"]`, `[data-story-path]`, `[data-backstage-slug]`).
+ *   3. Lifecycle events (`DOMContentLoaded` and `stardust:loaded`).
+ *
+ * WHAT VISIBLE UI & STATE IT PRODUCES:
+ *   - Live CSS variable updates (`--rs-font-size`, `--rs-line-height`, `--rs-font-family`)
+ *     and `<body>` theme classes (`theme-light`, `theme-dark`, `theme-sepia`, `narrative-theme-*`).
+ *   - Continuous WebKit/iOS-safe soundtrack playback on `<audio id="stardust-bgm">`
+ *     with OS Lock Screen / AirPods `navigator.mediaSession` controls & Markdown lyrics modal.
+ *   - Capture-phase cookie + `localStorage` persistence for Story Crossroads choices.
+ *   - Offline book prefetching & Cache Storage API (`caches.open` / `cache.delete`) management.
+ *
+ * 100-LEVEL JAVASCRIPT CONCEPTS TAUGHT IN THIS FILE:
+ *   - `AbortController` (`{ signal: audioSignal }`): Tearing down old SPA event listeners cleanly!
+ *   - Negative-Safe Modulo Arithmetic (`((idx % count) + count) % count`) for circular wrap-around.
+ *   - `localStorage` Non-Destructive Merging (`Object.assign({}, existing, updated)`).
+ *   - Capture Phase (`useCapture = true`) vs Bubble Phase (`false`) in DOM click routing.
+ *   - Browser Web APIs: `Intl.DateTimeFormat`, `MediaMetadata`, `Fullscreen`, `Clipboard`, `CacheStorage`.
  * ============================================================================
  */
 function initOceanViewReader() {
 
-    // ==========================================
-    // 0. CLIENT OPERATING SYSTEM RESOLVER
-    // ==========================================
-    // Sets `data-os="macos|windows|linux|ios|android"` on `<html>` so OS-native
-    // UI chrome (such as Zoë's `ZOË.Systems.Logs` diagnostic window header)
-    // automatically matches the device viewing the book.
+    // ========================================================================
+    // 0. CLIENT OPERATING SYSTEM RESOLVER (`html[data-os="..."]`)
+    // ========================================================================
+    // Detects the reader's OS (`macos`, `windows`, `linux`, `ios`, `android`)
+    //—or honors `?preview_os=windows` for QA testing—and writes `data-os="..."`
+    // onto `<html>`. That lets CSS render OS-authentic window titlebars (like
+    // Zoë's `ZOË.Systems.Logs` diagnostic panes) AND apply Dynamic Island top
+    // padding specifically on `html[data-os="ios"]`!
+    // Notice the iPadOS trick: modern iPads report `"Macintosh"` in `userAgent`
+    // to request desktop websites, so checking `navigator.maxTouchPoints > 1`
+    // distinguishes a touchscreen iPad from a non-touch MacBook/iMac!
     try {
         const params = new URLSearchParams(window.location.search);
         const previewOs = (params.get('preview_os') || '').toLowerCase();
@@ -67,14 +85,16 @@ function initOceanViewReader() {
         document.documentElement.setAttribute('data-os', resolvedOs);
     } catch (e) {}
 
-    // ==========================================
-    // 1. SIDEBAR MANAGEMENT
-    // ==========================================
+    // ========================================================================
+    // 1. OFF-CANVAS MOBILE SIDEBAR DRAWER MANAGEMENT
+    // ========================================================================
+    // On screens `< 992px`, `#stardust-sidebar` is parked off-screen via CSS
+    // `transform: translateX(-100%)`. Clicking either `#stardust-sidebar-toggle`
+    // ("Menu") or the dark `#reader-sidebar-backdrop` scrim toggles `.open`.
     const sidebar = document.getElementById('stardust-sidebar');
     const toggleBtn = document.getElementById('stardust-sidebar-toggle');
     const backdrop = document.getElementById('reader-sidebar-backdrop');
 
-    // Toggles the mobile off-canvas sidebar menu
     function toggleSidebar() {
         if (sidebar && sidebar.classList.contains('open')) {
             sidebar.classList.remove('open');
@@ -93,11 +113,15 @@ function initOceanViewReader() {
     }
 
 
-    // ==========================================
-    // 2. IN-UNIVERSE DATETIME FORMATTING
-    // ==========================================
-    // Formats narrative timestamps according to the user's locale while 
-    // respecting the story's defined timezone (IANA).
+    // ========================================================================
+    // 2. IN-UNIVERSE DATETIME & REALM CLOCK FORMATTING
+    // ========================================================================
+    // Why format dates in JS with `Intl.DateTimeFormat(undefined, options)`?
+    // Passing `undefined` as the 1st argument uses the reader's own browser
+    // language/clock preference (12-hour `7:00 PM` in the US vs 24-hour `19:00`
+    // in Europe), while `options.timeZone = iana` (e.g. `'America/New_York'` or
+    // `'America/Los_Angeles'`) locks the clock to the CHARACTER'S city timezone
+    // so a 9:00 AM Blacksburg scene still reads 9:00 AM EDT everywhere on Earth!
     const dtEl = document.getElementById('story-datetime-display');
     if (dtEl) {
         const iso = dtEl.getAttribute('data-iso');
@@ -119,8 +143,8 @@ function initOceanViewReader() {
         }
     }
 
-    // Formats standalone 24-hour fantasy/realm timestamps (e.g., "23:42") into
-    // the user's OS time format without any timezone conversion.
+    // Standalone clock formatter for fantasy/sci-fi scenes (`#story-time-only-display`)
+    // that have a `23:42` clock time without an Earth Gregorian calendar date.
     const timeOnlyEl = document.getElementById('story-time-only-display');
     if (timeOnlyEl) {
         const rawStart = timeOnlyEl.getAttribute('data-time-only');
@@ -147,12 +171,17 @@ function initOceanViewReader() {
     }
 
 
-    // ==========================================
-    // 2B. SCENE HERO IMAGE CAROUSEL CONTROLLER
-    // ==========================================
-    // Binds interactive Next/Prev buttons, pagination dots, keyboard Left/Right
-    // navigation (when focused inside the carousel), and touch swipe gestures
-    // for multi-slide 16:9 Chapter Header Plates (`[data-hero-carousel]`).
+    // ========================================================================
+    // 2B. SCENE HERO IMAGE CAROUSEL CONTROLLER (`[data-hero-carousel]`)
+    // ========================================================================
+    // Powers multi-illustration 16:9 chapter header plates with 4 input modes:
+    //   1. Previous / Next arrow buttons (`[data-hero-prev]`, `[data-hero-next]`)
+    //   2. Pagination indicator dots (`[data-hero-dot]`)
+    //   3. Keyboard `ArrowLeft` / `ArrowRight` when focused (`e.stopPropagation()`
+    //      prevents Section 9's global ArrowLeft/ArrowRight chapter jumper from firing!)
+    //   4. Touch swipe gestures (`Math.abs(dx) > 40 && Math.abs(dx) > Math.abs(dy)`
+    //      requires at least a 40px horizontal swipe that is more horizontal than vertical,
+    //      so normal vertical reading scrolls never flip slides by accident!).
     const heroCarousels = document.querySelectorAll('[data-hero-carousel]');
     heroCarousels.forEach((carousel) => {
         if (carousel.dataset.carouselBound === 'true') return;
@@ -167,6 +196,10 @@ function initOceanViewReader() {
 
         let activeIndex = 0;
 
+        /* 100-Level Math Tip — Negative-Safe Wrap-Around:
+         * In JavaScript, `-1 % 3` evaluates to `-1` (NOT `2`!).
+         * Writing `((nextIdx % total) + total) % total` turns `-1` into `(-1 + 3) % 3 = 2`,
+         * wrapping cleanly in BOTH directions! */
         const showSlide = (nextIdx) => {
             const total = slides.length;
             activeIndex = ((nextIdx % total) + total) % total;
@@ -258,17 +291,22 @@ function initOceanViewReader() {
     });
 
 
-    // ==========================================
-    // 3. AUDIO ENGINE & MEDIA CONTROLS
-    // ==========================================
-    // Architectural Note (Safari / WebKit macOS & iOS PWA Compatibility):
-    // In WebKit, any `<audio>` node parsed inside an inert `DOMParser().parseFromString()`
-    // document during SPA navigation (`stardust-spa.min.js`) has no live CoreMedia player.
-    // Just like The Listening Room (`Player.svelte`), all actual audio streaming and
-    // playback MUST execute on the persistent live `window.document` `<audio id="stardust-bgm">`
-    // element located OUTSIDE `#stardust-app` (defined in `header.php`), while
-    // `#narrative-audio-element` inside `#stardust-app` acts strictly as the SSR metadata
-    // and track-queue carrier (`data-audio-src`, `data-queue`, `data-*`).
+    // ========================================================================
+    // 3. PERSISTENT SOUNDTRACK AUDIO ENGINE & MEDIASESSION CONTROLLER
+    // ========================================================================
+    // Two Key 100-Level Engineering Patterns Here:
+    //   1. Persistent `<audio id="stardust-bgm">` Outside `#stardust-app`:
+    //      In Safari / iOS WebKit, `<audio>` tags parsed inside `DOMParser` have
+    //      no hardware audio pipeline—AND if two consecutive chapters share the
+    //      same background album/song, keeping ONE live `<audio id="stardust-bgm">`
+    //      outside the swapped SPA wrapper lets the song keep playing seamlessly
+    //      across Part 1 -> Part 2 transitions without restarting at 0:00!
+    //   2. `AbortController` (`window.__rsAudioController`):
+    //      Because `liveAudio` persists across SPA page swaps while the UI buttons
+    //      (`scrubber`, `playIcon`) get replaced on every chapter change, attaching
+    //      `liveAudio.addEventListener('timeupdate', ..., { signal: audioSignal })`
+    //      lets us call `window.__rsAudioController.abort()` at the top of the next
+    //      navigation to detach ALL previous chapter listeners in one clean line!
     if (window.__rsAudioController && typeof window.__rsAudioController.abort === 'function') {
         window.__rsAudioController.abort();
     }
@@ -886,10 +924,13 @@ function initOceanViewReader() {
     }
 
 
-    // ==========================================
-    // 4. BOOKMARK SYSTEM
-    // ==========================================
-    // Saves the current URL to an array in localStorage.
+    // ========================================================================
+    // 4. CLIENT-SIDE BOOKMARK SYSTEM (`localStorage['rs-bookmarks']`)
+    // ========================================================================
+    // Stores an array of `{ url, title, series, date }` objects in the browser's
+    // `localStorage` (which holds strings only—so we `JSON.parse()` when reading
+    // and `JSON.stringify()` when saving!). Clicking once adds the chapter;
+    // clicking again removes it via `bookmarks.splice(existingIndex, 1)`.
     const bookmarkBtn = document.getElementById('reader-bookmark-btn');
     if (bookmarkBtn) {
         bookmarkBtn.addEventListener('click', () => {
@@ -909,7 +950,7 @@ function initOceanViewReader() {
                 bookmarks = [];
             }
             
-            // Check if already bookmarked
+            // Check if already bookmarked (`findIndex` returns `-1` if not found)
             const existingIndex = bookmarks.findIndex(b => b.url === currentUrl);
             if (existingIndex > -1) {
                 // Remove bookmark
@@ -934,9 +975,14 @@ function initOceanViewReader() {
         }
     }
 
-    // ==========================================
-    // 5. READER SETTINGS & THEME ENGINE
-    // ==========================================
+    // ========================================================================
+    // 5. ACCESSIBLE TYPOGRAPHY, FONT-SIZE, LINE-HEIGHT & THEME ENGINE
+    // ========================================================================
+    // Maps short storage keys (`'atkinson'`, `'opendyslexic'`, `'lora'`, etc.)
+    // to full resilient CSS font stacks. Notably includes:
+    //   - `Atkinson Hyperlegible`: Designed by the Braille Institute with distinct
+    //     letterforms (`I` vs `l` vs `1`, `0` vs `O`) for low-vision readers.
+    //   - `OpenDyslexic`: Weighted bottom-heavy strokes to reduce letter-flipping for dyslexic readers.
     const FONT_MAP = {
         'system': 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif',
         'georgia': 'Georgia, "Times New Roman", Times, serif',
@@ -946,6 +992,7 @@ function initOceanViewReader() {
         'opendyslexic': '"OpenDyslexic", "Comic Sans MS", sans-serif'
     };
 
+    /* Normalizes either a short key (`'lora'`) or a legacy full CSS font-family string back to a canonical key. */
     function normalizeFontKey(raw) {
         if (!raw || typeof raw !== 'string') return 'system';
         const ff = raw.toLowerCase().trim();
@@ -1002,6 +1049,9 @@ function initOceanViewReader() {
     let currentShowOfflineCta = true;
     let currentLineHeight = localStorage.getItem('rs-line-height') || '1.8';
 
+    /* Updates `--rs-font-size` on `<html>` (and inline on `.story-content`) in `rem` units,
+     * rounding to 2 decimal places (`Math.round(parsed * 100) / 100`) to avoid IEEE-754
+     * floating-point drift like `1.15 + 0.1 = 1.2500000000000002rem`! */
     function applyFontSize(size, persist = true) {
         const parsed = parseFloat(size);
         currentFontSize = !isNaN(parsed) ? Math.round(parsed * 100) / 100 : 1.15;
@@ -1010,6 +1060,7 @@ function initOceanViewReader() {
         if (persist) saveSettings();
     }
 
+    /* Updates `--rs-line-height` (default `1.8`) and persists to `localStorage['rs-line-height']`. */
     function applyLineHeight(lh, persist = true) {
         currentLineHeight = lh ? String(lh) : '1.8';
         document.documentElement.style.setProperty('--rs-line-height', currentLineHeight);
@@ -1019,6 +1070,7 @@ function initOceanViewReader() {
         }
     }
 
+    /* Clamp font size between `0.8rem` minimum and `2.5rem` maximum (> 200% WCAG 1.4.4 Resize Text). */
     if (btnIncrease) btnIncrease.addEventListener('click', () => applyFontSize(Math.min(currentFontSize + 0.1, 2.5), true));
     if (btnDecrease) btnDecrease.addEventListener('click', () => applyFontSize(Math.max(currentFontSize - 0.1, 0.8), true));
     if (btnReset) btnReset.addEventListener('click', () => applyFontSize(1.15, true));
@@ -1446,12 +1498,16 @@ function initOceanViewReader() {
         });
     }
 
-    // ==========================================
-    // 8. LIBRARY MANAGEMENT (Offline & Hiding)
-    // ==========================================
+    // ========================================================================
+    // 8. LIBRARY VISIBILITY & OFFLINE SERVICE WORKER CACHE MANAGER
+    // ========================================================================
+    // Lets readers hide series from their personal bookshelf (`rs-hidden-books`)
+    // AND proactively warm or evict entire novels inside the browser's offline
+    // `CacheStorage` (`caches.open('ova-dynamic-...')`) so books remain 100%
+    // readable on airplanes or subways with zero cell signal!
     const libraryList = document.getElementById('library-management-list');
     
-    // Always apply hidden books to the catalog if cards exist
+    // Hides any `.rs-book-card` whose `data-slug` is listed in `localStorage['rs-hidden-books']`.
     const applyHiddenBooks = () => {
         let hiddenBooks = [];
         try {
@@ -1471,8 +1527,8 @@ function initOceanViewReader() {
     // Call it immediately so books hide on catalog load
     applyHiddenBooks();
 
-    // Fetches the TOC and aggressively prefetches every part of the book
-    // so the Service Worker can cache it.
+    // Walks a book's `toc.json` (`books -> chapters -> parts`) and issues background
+    // CORS `fetch()` requests so the active Service Worker intercepts and caches every part!
     async function downloadBookForOffline(slug) {
         const cdnBase = document.body.dataset.cdnUrl || 'https://assets.raggiesoft.com';
         try {
@@ -1858,10 +1914,14 @@ function initOceanViewReader() {
         });
     });
 
-    // ==========================================
-    // 10. LAST-READ BOOK ROUTE TRACKING
-    // ==========================================
-    // Only record actual narrative routes (never system pages like /settings, /library, or /arcs)
+    // ========================================================================
+    // 10A. LAST-READ BOOK ROUTE TRACKING (`localStorage['rs-last-read']`)
+    // ========================================================================
+    // Powers the "Resume Reading" button on the Library home screen!
+    // `SYSTEM_ROUTES` acts as a strict denylist so visiting `/settings`, `/arcs`,
+    // or `/bookmarks` NEVER overwrites the actual novel chapter you were reading—
+    // and preserving `window.location.search` keeps `?arc=<slug>` Story Arc
+    // Playlist Mode active when you return later!
     const SYSTEM_ROUTES = new Set([
         '/', '/index.php', '/isabel.php', '/library', '/catalog', '/arcs', '/story-arcs',
         '/illustrations', '/stats', '/settings', '/bookmarks', '/about', '/accessibility',
@@ -1885,15 +1945,15 @@ function initOceanViewReader() {
         }
     }
 
-    // ==========================================
-    // 10. RAGGIESOFT BACKSTAGE <dialog> API CONTROLLER
-    // ==========================================
-    // Connects `books.raggiesoft.com` to `backstage.raggiesoft.com` (with automatic
-    // CDN fallback to `assets.raggiesoft.com/raggiesoft-backstage/api/v1/`).
-    // Triggers when the reader clicks either:
-    //   1. A `[data-backstage-slug]` button in the scene's Backstage callout card, OR
-    //   2. Any inline link pointing to `https://backstage.raggiesoft.com/<slug>`
-    //      inside the reading pane (unless marked `data-backstage-direct="true"`).
+    // ========================================================================
+    // 10B. RAGGIESOFT BACKSTAGE `<dialog>` API CONTROLLER (WITH CDN FAILOVER)
+    // ========================================================================
+    // Intercepts clicks on `[data-backstage-slug]` cards or inline `backstage.raggiesoft.com/<slug>`
+    // links so readers can inspect in-universe correspondence & bonus dossiers inside
+    // `<dialog id="rs-backstage-dialog">` without losing their reading spot!
+    // Notice the resilient `.catch(() => fetch(fallbackCdnApiUrl)...)` Promise chain:
+    // if `backstage.raggiesoft.com/api/v1/<slug>.json` is unreachable, it automatically
+    // retries `assets.raggiesoft.com/raggiesoft-backstage/api/v1/<slug>.json`.
     const bsDialog = document.getElementById('rs-backstage-dialog');
     const bsCloseBtn = document.getElementById('rs-backstage-dialog-close');
     const bsTitleEl = document.getElementById('rs-backstage-dialog-title');
@@ -2004,6 +2064,16 @@ function initOceanViewReader() {
     }
 } // end initOceanViewReader()
 
+/**
+ * ============================================================================
+ * 11. BILINGUAL INLINE `<lang>` TRANSLATION SWAPPER
+ * ============================================================================
+ * In RaggieSoft novels, multilingual dialogue (`<lang trans="...">`) renders as
+ * `<span class="foreign-language" data-original="..." data-translation="...">`
+ * with a dotted underline. Readers can either click an individual phrase to flip
+ * between original language and English translation, OR set a global default
+ * (`'original'` vs `'translated'`) via `window.applyTranslationMode(mode)`.
+ */
 window.applyTranslationMode = function(mode) {
     const langSpans = document.querySelectorAll('.foreign-language');
     langSpans.forEach(span => {
@@ -2056,16 +2126,20 @@ function initTranslationSwaps() {
     } catch(e) {}
 }
 
-// Prevent duplicate event listeners during SPA soft-navigations
+/**
+ * ============================================================================
+ * 13. STORY CROSSROADS CAPTURE-PHASE PERSISTENCE & SPA BOOTSTRAPPER
+ * ============================================================================
+ * 100-Level DOM Event Phase Masterclass — Why `, true` at Line 2153?
+ * When a reader clicks a Story Crossroads route button (`<a href="/book/..." data-story-path="route-b">`):
+ *   - `stardust-spa.min.js` listens in the BUBBLE phase (`false`) and immediately
+ *     fires an HTTP `fetch()` to PHP on the server so PHP renders the chosen branch's TOC & Next Chapter!
+ *   - PHP needs the `rs_cx_<bookSlug>` HTTP cookie to ALREADY be set when that `fetch()` arrives!
+ *   - By attaching our listener in the CAPTURE phase (`true`), our handler runs TOP-DOWN
+ *     *before* `stardust-spa.min.js`'s bubble listener runs, saving both the 1-year
+ *     `SameSite=Lax` cookie (`max-age=31536000`) and `localStorage` backup synchronously!
+ */
 if (!window.oceanViewReaderInitialized) {
-    /**
-     * Story Crossroads Capture-Phase Persistence & Modal Switcher Controller
-     * -----------------------------------------------------------------------
-     * Bound in the DOM CAPTURE phase (`useCapture = true`) so that clicking a
-     * `[data-story-path]` link writes the `rs_path_<bookSlug>` cookie and
-     * `localStorage` entry synchronously BEFORE `stardust-spa.min.js`'s
-     * bubble-phase navigation `fetch()` executes.
-     */
     document.addEventListener('click', (e) => {
         const pathTrigger = e.target.closest('[data-story-path]');
         if (pathTrigger) {
@@ -2091,6 +2165,8 @@ if (!window.oceanViewReaderInitialized) {
                     }
                 } catch (err) {}
 
+                /* `'reset'` clears either one Crossroads decision (`delete choicesMap[cxId]`)
+                 * or all decisions in the novel; otherwise save `choicesMap[cxId] = pathId`. */
                 if (pathId === 'reset' || pathId === '') {
                     if (cxId && Object.prototype.hasOwnProperty.call(choicesMap, cxId)) {
                         delete choicesMap[cxId];
@@ -2102,6 +2178,7 @@ if (!window.oceanViewReaderInitialized) {
                 }
 
                 if (Object.keys(choicesMap).length === 0) {
+                    /* Expire cookies immediately via `max-age=0` when all choices are reset. */
                     document.cookie = mapCookieKey + '=; path=/; max-age=0; SameSite=Lax';
                     document.cookie = legacyCookieKey + '=; path=/; max-age=0; SameSite=Lax';
                     try { localStorage.removeItem(storageKey); } catch (err) {}
@@ -2117,6 +2194,7 @@ if (!window.oceanViewReaderInitialized) {
             }
         }
 
+        /* Open `<dialog id="rs-story-crossroads-dialog">` when clicking "Switch Story Path" */
         const openCxBtn = e.target.closest('[data-open-crossroads-dialog], [data-open-crossroads-if-present]');
         if (openCxBtn) {
             const cxDialog = document.getElementById('rs-story-crossroads-dialog');
@@ -2128,6 +2206,7 @@ if (!window.oceanViewReaderInitialized) {
             }
         }
 
+        /* Close button inside `#rs-story-crossroads-dialog` */
         const closeCxBtn = e.target.closest('#rs-story-crossroads-close');
         if (closeCxBtn) {
             const cxDialog = document.getElementById('rs-story-crossroads-dialog');
@@ -2137,7 +2216,7 @@ if (!window.oceanViewReaderInitialized) {
             }
         }
 
-        // Light-dismiss backdrop fallback for `<dialog id="rs-story-crossroads-dialog">`
+        /* Bounding-box backdrop click dismissal for `<dialog id="rs-story-crossroads-dialog">` */
         if (e.target && e.target.id === 'rs-story-crossroads-dialog' && e.target.open) {
             const rect = e.target.getBoundingClientRect();
             const inside = (
@@ -2152,6 +2231,7 @@ if (!window.oceanViewReaderInitialized) {
         }
     }, true);
 
+    /* Run `initOceanViewReader()` on initial load AND after every `stardust:loaded` SPA swap! */
     if (document.readyState === 'loading') {
         document.addEventListener('DOMContentLoaded', initOceanViewReader);
     } else {

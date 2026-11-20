@@ -1,23 +1,40 @@
 /**
  * ============================================================================
- * Architectural Block: cover-letter-pdf-ua.css
+ * PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (READ-ALONG TEACHING HEADER)
  * ============================================================================
- * Print & PDF/UA-1 (ISO 14289-1) Accessible Stylesheet for Michael P. Ragsdale
- * Cover Letters (`build-cover-letter.sh` -> `weasyprint --pdf-variant pdf/ua-1`).
- * Enforces >= 10.4:1 contrast, underlined hyperlinks (WCAG 1.4.1), and clean
- * 1-page business correspondence typography.
+ * What is this file?
+ *   This is `cover-letter-pdf-ua.css`, the **CSS Paged Media** (print/PDF)
+ *   stylesheet paired with `build-cover-letter.sh` and WeasyPrint's ISO 14289-1
+ *   (`pdf/ua-1`) engine to format Michael P. Ragsdale's formal cover letters.
+ *
+ * How does it compare to `../resume/resume-pdf-ua.css`?
+ *   While `resume-pdf-ua.css` uses tighter `0.5in` margins and `9.6pt` type to
+ *   pack multi-year engineering bullet lists cleanly onto 1–2 sheets, a formal
+ *   business cover letter needs generous whitespace and relaxed reading rhythm:
+ *     - Wider formal correspondence margins (`0.85in` top/bottom, `0.9in` left/right).
+ *     - Larger `10.5pt` body font with `1.48` line-height for effortless prose reading.
+ *     - No running `Page X of Y` footer (cover letters are concise 1-page letters).
+ *   At the same time, it preserves 100% of the Section 508 & WCAG AAA guarantees:
+ *     - `17.8:1` body ink contrast (`#0f172a` on `#ffffff`) and `10.4:1` navy
+ *       heading/hyperlink contrast (`#0f3d91` on `#ffffff`).
+ *     - Explicit underlines on every `<a>` hyperlink (WCAG 1.4.1).
+ *     - `break-after: avoid`, `orphans: 2`, `widows: 2`, and `.nowrap-compound`
+ *       protection for clean pagination and ATS text extraction.
  * ============================================================================
  */
 
+/* Physical US Letter Paper (`8.5in` x `11in`) with classic ~1-inch correspondence margins */
 @page {
   size: letter portrait;
   margin: 0.85in 0.9in;
 }
 
+/* Universal border-box sizing so borders/padding never widen elements unexpectedly */
 * {
   box-sizing: border-box;
 }
 
+/* Base Letter Typography: `10.5pt` sans-serif at `1.48` line-height with `17.8:1` AAA contrast */
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 10.5pt;
@@ -26,12 +43,17 @@ html {
   background-color: #ffffff;
 }
 
+/* Remove default browser body/main spacing so `@page` margins govern the page edges */
 body,
 main {
   margin: 0;
   padding: 0;
 }
 
+/* Primary Letterhead Heading (`# Michael P. Ragsdale — ...` -> PDF `<H1>` structure tag):
+ * - Drawn in accessible navy (`#0f3d91`, `10.4:1` contrast) with a `1pt` bottom rule
+ *   (automatically marked as `/Artifact` in PDF/UA-1 so screen readers skip the line).
+ * - `break-after: avoid` ensures the letterhead never separates from the salutation. */
 h1 {
   font-size: 14pt;
   font-weight: 700;
@@ -43,6 +65,8 @@ h1 {
   break-after: avoid;
 }
 
+/* Optional Sub-Heading (`## ...` -> PDF `<H2>` tag if used in a structured letter):
+ * `break-after: avoid` keeps it attached to the paragraph immediately following it. */
 h2 {
   font-size: 11.5pt;
   font-weight: 700;
@@ -51,12 +75,16 @@ h2 {
   break-after: avoid;
 }
 
+/* Letter Paragraphs (PDF `<P>` structure tags):
+ * `orphans: 2` and `widows: 2` prevent single stranded lines at page bottoms or tops
+ * if a detailed technical cover letter ever flows onto a second page. */
 p {
   margin: 0 0 9.5pt 0;
   orphans: 2;
   widows: 2;
 }
 
+/* Optional Highlight Bullet Lists (PDF `<L>` and `<LI>` structure tags) */
 ul {
   margin: 4pt 0 9.5pt 0;
   padding-left: 16pt;
@@ -66,23 +94,28 @@ li {
   margin: 0 0 4pt 0;
 }
 
+/* Bold inline text (`**...**` in Markdown) */
 strong {
   font-weight: 700;
   color: #0f172a;
 }
 
+/* Monospace inline code spans if technical identifiers are cited */
 code {
   font-family: Menlo, Consolas, "Liberation Mono", monospace;
   font-size: 9.5pt;
   color: #0f172a;
 }
 
+/* Accessible Hyperlinks (PDF `<Link>` tag + WCAG 1.4.1 explicit underline + `10.4:1` contrast) */
 a {
   color: #0f3d91;
   text-decoration: underline;
   text-underline-offset: 1.5pt;
 }
 
+/* Keeps hyphenated compounds (`Full-Stack`, `Section-508`, etc.) unbroken on one line
+ * when wrapped by Stage B of `build-cover-letter.sh`, preventing ATS hyphen corruption. */
 .nowrap-compound {
   white-space: nowrap;
 }

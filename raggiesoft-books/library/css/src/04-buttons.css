@@ -1,24 +1,28 @@
 /* ==========================================================================
- * STARDUST ENGINE LIBRARY - COMPONENT: BUTTONS
- * 04-buttons.css
+ * PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (100-LEVEL JAVASCRIPT / WEB INTRO)
  * ==========================================================================
+ * File: library/css/src/04-buttons.css
+ * Compiled Into: `raggiesoft-assets/raggiesoft-books/library/css/stardust-engine.min.css`
  *
- * ARCHITECTURE OVERVIEW:
- * Defines the structural and visual baseline for interactive `.rs-btn` and
- * `.rs-btn-primary` controls across the Stardust Engine and Book Reader PWA.
+ * WHAT IS THIS FILE?
+ *   Defines the accessible button classes `.rs-btn` (secondary/neutral button)
+ *   and `.rs-btn-primary` (primary Call-to-Action button) used on `<button>`
+ *   elements and `<a class="rs-btn">` link buttons across the Book Reader.
  *
- * WCAG 2.1 AA CONTRAST GUARANTEES:
- * 1. `.rs-btn` pairs `background: var(--rs-surface)` and `color: var(--rs-text)`
- *    (>= 7.0:1 AAA), shifting on hover to `background: var(--rs-bg-alt, var(--rs-border))`
- *    where `--rs-text` remains >= 4.5:1 AA across both Light and Dark palettes.
- * 2. `.rs-btn-primary` pairs `background: var(--rs-primary)` with
- *    `color: var(--rs-on-primary, #ffffff)` so luminous Dark Mode accents
- *    (gold, amber, sky-cyan) automatically switch to dark ink (`#090d16`) while
- *    deep Light Mode accents (navy, teal, maroon) use crisp `#ffffff` ink.
- * 3. `:focus-visible` renders an unambiguous 2px outline with 2px offset.
+ * WHY PAIR `--rs-primary` WITH `--rs-on-primary`? (WCAG 2.1 AA Lesson!)
+ *   Beginners often hardcode `color: #ffffff` on primary buttons. That works in
+ *   Light Mode when `--rs-primary` is dark teal (`#0F4C5C`), because white on
+ *   dark teal has `9.51:1` contrast—but in Dark Mode, `--rs-primary` becomes
+ *   warm gold (`#E3B27C`) or sky blue (`#60a5fa`), where white text drops below
+ *   `2.2:1` and becomes unreadable!
+ *   Using `color: var(--rs-on-primary, #ffffff)` lets Light themes pass white
+ *   ink (`#ffffff`) and Dark themes pass dark ink (`#090d16` / `#0b111b`),
+ *   keeping every button `>= 7.5:1` WCAG AAA readable!
  * ========================================================================== */
 
-/* Base Button Structure (includes `a.rs-btn` so anchor buttons beat generic `a` / `.story-content a` link rules) */
+/* 1. Base Neutral Button (`.rs-btn` and `a.rs-btn`):
+      Writing `a.rs-btn` explicitly gives anchor-tag buttons higher CSS specificity
+      than generic `a { color: var(--rs-primary); }` rules in `02-layout.css`! */
 .rs-btn,
 a.rs-btn {
     display: inline-flex;
@@ -34,12 +38,12 @@ a.rs-btn {
     text-decoration: none;
     transition: background-color 0.18s ease, border-color 0.18s ease, color 0.18s ease, filter 0.18s ease;
 
-    /* Dynamically inherited colors from active theme variables */
+    /* Inherit surface & body ink colors from the active reading theme */
     background: var(--rs-surface);
     color: var(--rs-text);
 }
 
-/* Base Hover State */
+/* 2. Hover State: shifts surface subtly to `--rs-bg-alt` and highlights border with `--rs-primary` */
 .rs-btn:hover,
 a.rs-btn:hover {
     background: var(--rs-bg-alt, var(--rs-border));
@@ -48,14 +52,16 @@ a.rs-btn:hover {
     text-decoration: none;
 }
 
-/* Keyboard Focus Ring */
+/* 3. Keyboard Focus Ring (`:focus-visible` appears on `Tab` navigation for WCAG 2.4.7 compliance) */
 .rs-btn:focus-visible,
 a.rs-btn:focus-visible {
     outline: 2px solid var(--rs-primary);
     outline-offset: 2px;
 }
 
-/* Primary Semantic Call-to-Action Modifier */
+/* 4. Primary Call-to-Action Modifier (`.rs-btn-primary`):
+      Includes `.story-content a.rs-btn-primary` so CTA buttons embedded inside chapters
+      override `.story-content a:not(.rs-btn)` cleanly. */
 .rs-btn-primary,
 a.rs-btn-primary,
 .story-content a.rs-btn-primary {
@@ -65,7 +71,8 @@ a.rs-btn-primary,
     text-decoration: none;
 }
 
-/* Primary Hover State (avoids opacity fade that could wash text into page background) */
+/* 5. Primary Hover State: uses `filter: brightness(1.06)` instead of `opacity: 0.8`
+      because lowering `opacity` lets the background bleed through and reduces text contrast! */
 .rs-btn-primary:hover,
 a.rs-btn-primary:hover,
 .story-content a.rs-btn-primary:hover {
@@ -76,6 +83,7 @@ a.rs-btn-primary:hover,
     text-decoration: none;
 }
 
+/* 6. Disable animated transitions when the user requests Reduced Motion in OS settings */
 @media (prefers-reduced-motion: reduce) {
     .rs-btn {
         transition: none;

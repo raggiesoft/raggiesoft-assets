@@ -1,62 +1,68 @@
 /* ==========================================================================
- * STARDUST ENGINE LIBRARY - COMPONENT: LAYOUT
- * 02-layout.css
+ * PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (100-LEVEL JAVASCRIPT / WEB INTRO)
  * ==========================================================================
- * 
- * ARCHITECTURE OVERVIEW:
- * This stylesheet defines the structural skeleton for the Stardust Book Library.
- * It strictly utilizes Flexbox to create a fixed viewport layout (`100vh`) that
- * prevents body-level scrolling, ensuring the audio player and sidebar remain
- * static while only the reading pane scrolls.
- * 
- * CORE RESPONSIBILITIES:
- * 1. Viewport Management: Pins the app to the screen edges, handling overflow
- *    internally within specific zones (`#stardust-reading-pane`).
- * 2. Component Scaffolding: Defines the exact dimensions and flex behaviors of
- *    the header, sidebar, and main wrapper.
- * 3. Responsive Audio UI: Implements a CSS-only scrolling marquee for the audio
- *    player on narrow screens to ensure track titles remain readable without
- *    breaking the header layout.
- * 
- * USAGE INSTRUCTIONS:
- * - This file is critical for the SPA architecture. Do not alter `flex: 1` or 
- *   `overflow: hidden` properties on the main wrappers unless redesigning the 
- *   entire viewport structure.
+ * File: library/css/src/02-layout.css
+ * Compiled Into: `raggiesoft-assets/raggiesoft-books/library/css/stardust-engine.min.css`
+ *
+ * WHAT IS THIS FILE?
+ *   This file builds the "app shell" skeleton of RaggieSoft Book Reader using
+ *   **CSS Flexbox** (`display: flex`). Instead of letting the entire web page
+ *   scroll up and down together (which would scroll the Table of Contents sidebar
+ *   and top header off-screen!), we pin `#stardust-app` to `100vh` (100% of the
+ *   browser viewport height) and divide it into independent scrollable zones:
+ *
+ *     +-------------------------------------------------------------+
+ *     | #stardust-header (Fixed height top bar, flex-shrink: 0)     |
+ *     +-------------------+-----------------------------------------+
+ *     | #stardust-sidebar | #stardust-reading-pane                  |
+ *     | (300px wide,      | (flex: 1 takes remaining width,         |
+ *     |  own scrollbar!)  |  own vertical scrollbar, centers        |
+ *     |                   |  .book-page at comfortable 680px width) |
+ *     +-------------------+-----------------------------------------+
+ *
+ *   It also styles the responsive chapter audio player controls—automatically
+ *   turning long song titles into a smooth scrolling marquee on narrow phone
+ *   screens (`<= 600px`)!
  * ========================================================================== */
 
-/* Core Viewport Container */
-/* Forces the app to occupy exactly the viewport height, disabling global scroll */
+/* 1. Outer SPA Container: Vertical Flexbox column (`flex-direction: column`) filling 100% of viewport height */
 #stardust-app { display: flex; flex-direction: column; height: 100vh; width: 100%; }
 
-/* Global Persistent Header (Scoped via :not(.rs-book-app-header) so it never overrides the co-branded app-header.php theme variables) */
+/* 2. Fallback Header Bar (Scoped with `:not(.rs-book-app-header)` so it never overrides
+      the co-branded `includes/components/headers/app-header.php` theme rules) */
 #stardust-header:not(.rs-book-app-header) { display: flex; align-items: center; justify-content: space-between; padding: 0 20px; height: 60px; background: var(--rs-surface); border-bottom: 1px solid var(--rs-border); flex-shrink: 0; }
 
-/* Mid-level layout wrapper separating header from content */
+/* 3. Main Horizontal Split Wrapper (Sidebar on left + Reading Pane on right):
+      - `flex: 1` expands vertically to fill all space below `#stardust-header`.
+      - `min-height: 0` is a classic Flexbox secret: without `min-height: 0`, a Flex child refuses
+        to shrink smaller than its content, which would break internal `overflow-y: auto` scrolling! */
 #stardust-main-wrapper { display: flex; flex: 1; overflow: hidden; width: 100%; min-height: 0; }
 
-/* Persistent Navigation Sidebar */
+/* 4. Left Table of Contents Sidebar (`300px` wide with its own independent vertical scrollbar) */
 #stardust-sidebar { width: 300px; background: var(--rs-surface); border-right: 1px solid var(--rs-border); padding: 20px; overflow-y: auto; }
 
-/* Primary Content Zone (The only area that scrolls vertically) */
+/* 5. Primary Reading Pane (takes all remaining width via `flex: 1`, scrolls independently,
+      and horizontally centers `.book-page` via `align-items: center`) */
 #stardust-reading-pane { flex: 1; padding: 40px; overflow-y: auto; display: flex; flex-direction: column; align-items: center; }
 
-/* Article Body Constraint (Optimized for reading length) */
+/* 6. Optimal Book Column Width (`680px` yields ~65-75 characters per line, preventing eye fatigue!) */
 .book-page { max-width: 680px; width: 100%;   }
 
-/* Global Anchor Overrides within the app */
+/* 7. Default Link Styling */
 a { color: var(--rs-primary); text-decoration: none; font-weight: 500; }
 a:hover { text-decoration: underline; }
 
-/* Mobile Layout Overrides */
+/* 8. Tighter Padding on Mobile Screens (`<= 768px`) so prose gets maximum readable width */
 @media (max-width: 768px) {
     #stardust-reading-pane { padding: 10px; }
     #stardust-header { padding: 0 10px; }
 }
 
 /* ==========================================================================
- * AUDIO PLAYER RESPONSIVE UI
- * Manages the scrubber and scrolling marquee for tight spaces.
- * ========================================================================== */
+ * 9. CHAPTER SOUNDTRACK AUDIO PLAYER RESPONSIVE UI
+ * ==========================================================================
+ * Keeps play/pause buttons, range scrubber slider, and track title aligned on
+ * one clean row—even on narrow 320px mobile viewports! */
 
 .reader-audio-controls-row {
     display: flex;
@@ -67,7 +73,7 @@ a:hover { text-decoration: underline; }
 
 .reader-audio-scrubber-container {
     flex: 1;
-    min-width: 0; /* Critical: Prevents the input range from blowing out the flex container width */
+    min-width: 0; /* Critical Flexbox rule: lets `<input type="range">` shrink narrower than its default intrinsic width */
     display: flex;
     align-items: center;
     gap: 0.5rem;
@@ -75,30 +81,31 @@ a:hover { text-decoration: underline; }
     opacity: 0.8;
 }
 
-/* Force range input to respect flex constraints */
+/* Allow the playback progress slider to stretch & shrink fluidly inside the scrubber row */
 .reader-audio-scrubber-container input[type=range] {
     flex: 1;
     min-width: 0;
 }
 
-/* Container for the track title, truncates by default on desktop */
+/* Desktop default: truncate overflowing song titles cleanly with `...` (`text-overflow: ellipsis`) */
 .reader-audio-scroll-wrap {
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
 }
 
-/* Hardware-accelerated marquee animation for mobile */
+/* GPU-accelerated (`transform: translateX`) horizontal ticker animation for narrow phones */
 @keyframes audio-marquee {
     0% { transform: translateX(100%); }
     100% { transform: translateX(-100%); }
 }
 
-/* Mobile overrides: Convert truncated text into a scrolling marquee */
+/* Mobile (`<= 600px`): Replace static `...` truncation with a gentle edge-masked scrolling marquee
+   so readers can still read full Stardust Engine / Fractured Prisms song titles! */
 @media (max-width: 600px) {
     .reader-audio-scroll-wrap {
-        text-overflow: clip; /* Remove ellipsis */
-        /* Apply a fade-out gradient to the edges to soften the text entering/exiting */
+        text-overflow: clip; /* Remove static ellipsis */
+        /* Soft alpha gradient mask fades the left/right 5% edges as text glides in and out */
         mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
         -webkit-mask-image: linear-gradient(to right, transparent, black 5%, black 95%, transparent);
     }
@@ -107,6 +114,6 @@ a:hover { text-decoration: underline; }
         animation: audio-marquee 12s linear infinite;
     }
     .reader-audio-controls-row {
-        gap: 0.35rem; /* Shrink gap to fit interactive buttons comfortably */
+        gap: 0.35rem; /* Tighter button spacing on compact mobile screens */
     }
 }

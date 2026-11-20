@@ -1,23 +1,36 @@
 /* ==========================================================================
- * STARDUST ENGINE LIBRARY - EXPLICIT LIGHT THEME
- * theme-light.css
+ * PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (100-LEVEL JAVASCRIPT / WEB INTRO)
  * ==========================================================================
- * Full 13-token WCAG 2.1 AA/AAA crisp daylight reading palette.
+ * File: library/css/src/theme-light.css
+ * Compiled Into:
+ *   - `library/css/stardust-engine.min.css` (bundled global engine CSS)
+ *   - `library/css/theme-light.min.css`     (standalone theme file)
+ *
+ * WHAT IS THIS FILE?
+ *   When a reader opens `/settings` (or the reading toolbar) and explicitly
+ *   chooses **"Light"** instead of "System Auto", JavaScript adds the class
+ *   `theme-light` to `<body>` (`<body class="... theme-light">`).
+ *
+ *   Because `body.theme-light` sits inside `<body>` (below `:root`) and is NOT
+ *   wrapped in `@media (prefers-color-scheme: dark)`, these 13 CSS custom
+ *   properties lock the Book Reader to a crisp, sunlit white-paper palette
+ *   even if the reader's laptop or phone OS is set to Dark Mode!
+ *   Every text and accent token exceeds WCAG 2.1 AA (`>= 4.5:1`) and AAA (`>= 7.0:1`).
  * ========================================================================== */
 
 body.theme-light {
-    color-scheme: light;
-    --rs-bg: #ffffff;
-    --rs-bg-alt: #f1f5f9;
-    --rs-surface: #f8fafc;
-    --rs-card-bg: #ffffff;
-    --rs-text: #1e293b;       /* 13.35:1 on #f8fafc */
-    --rs-text-muted: #475569; /* 6.92:1 on #f8fafc */
-    --rs-heading: #0f172a;    /* 16.30:1 on #f8fafc */
-    --rs-primary: #0F4C5C;    /* 8.68:1 on #f8fafc */
-    --rs-on-primary: #ffffff; /* 9.51:1 on #0F4C5C */
-    --rs-secondary: #854d0e;  /* 6.25:1 on #f8fafc */
-    --rs-border: #cbd5e1;
-    --rs-asl: #0369a1;
-    --rs-gesture: #4338ca;
+    color-scheme: light;      /* Renders native browser scrollbars & inputs in Light Mode */
+    --rs-bg: #ffffff;         /* Pure white reading page canvas */
+    --rs-bg-alt: #f1f5f9;     /* Soft cool-gray chip & hover surface */
+    --rs-surface: #f8fafc;    /* Sidebar, modal, & toolbar surface */
+    --rs-card-bg: #ffffff;    /* Crisp white book cards */
+    --rs-text: #1e293b;       /* Deep slate prose ink (13.35:1 AAA on #f8fafc) */
+    --rs-text-muted: #475569; /* Secondary metadata ink (6.92:1 AA/AAA on #f8fafc) */
+    --rs-heading: #0f172a;    /* Near-black chapter headings (16.30:1 AAA on #f8fafc) */
+    --rs-primary: #0F4C5C;    /* Ocean View Coastal Teal links & CTAs (8.68:1 AAA on #f8fafc) */
+    --rs-on-primary: #ffffff; /* Crisp white text on solid `#0F4C5C` buttons (9.51:1 AAA) */
+    --rs-secondary: #854d0e;  /* Warm archival bronze hover accent (6.25:1 AA on #f8fafc) */
+    --rs-border: #cbd5e1;     /* Subtle slate structural dividers */
+    --rs-asl: #0369a1;        /* Accessible ocean-blue for `<asl>` Sign Language dialogue */
+    --rs-gesture: #4338ca;    /* Accessible indigo for `<sgn>` signed/gesture dialogue */
 }

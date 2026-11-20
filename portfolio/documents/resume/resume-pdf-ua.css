@@ -1,26 +1,49 @@
 /**
  * ============================================================================
- * Architectural Block: resume-pdf-ua.css
+ * PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (READ-ALONG TEACHING HEADER)
  * ============================================================================
- * Print & PDF/UA-1 (ISO 14289-1) Accessible Stylesheet for Michael P. Ragsdale
- * Resumes (`build-resume.sh` -> Pandoc HTML5 -> `weasyprint --pdf-variant pdf/ua-1`).
+ * What is this file?
+ *   This is `resume-pdf-ua.css`, a specialized **CSS Paged Media** (print/PDF)
+ *   stylesheet that formats Michael P. Ragsdale's Markdown resumes when
+ *   `build-resume.sh` compiles HTML5 into an ISO 14289-1 (`PDF/UA-1`) &
+ *   Federal Section 508 accessible PDF via WeasyPrint.
+ *
+ * How is Print/PDF CSS different from normal Web Browser CSS?
+ *   In a web browser, a page is one infinitely tall scrolling viewport measured
+ *   in pixels (`px`) or `rem`. When compiling a PDF, CSS splits content across
+ *   physical 8.5" x 11" sheets of paper using:
+ *     - `@page` rules to define paper dimensions (`letter portrait`), physical
+ *       inch margins (`in`), and running page footers (`Page 1 of 2`).
+ *     - Typographic points (`pt`, where `72pt = 1 inch`) for crisp print sizing.
+ *     - Pagination controls (`break-after: avoid`, `orphans`, `widows`) so a
+ *       heading is never stranded alone at the bottom of Page 1 while its bullet
+ *       points start at the top of Page 2!
  *
  * Section 508 & WCAG 2.1 AA / AAA Accessibility Guarantees:
- * 1. Contrast Ratios:
- *    - Primary text (`#0f172a` on `#ffffff`): 17.8:1 (Exceeds WCAG AAA 7:1)
- *    - Secondary text (`#334155` on `#ffffff`): 10.3:1 (Exceeds WCAG AAA 7:1)
- *    - Section headings & links (`#0f3d91` on `#ffffff`): 10.4:1 (Exceeds AAA)
- * 2. Use of Color (WCAG 1.4.1):
- *    - Every hyperlink carries an explicit `text-decoration: underline` in
- *      addition to `#0f3d91` color so links are never distinguished by color alone.
- * 3. Pagination & Screen-Reader Artifact Hygiene:
- *    - `@page` margin boxes (`@bottom-right` page indicator) and CSS borders are
- *      automatically marked as `/Artifact` by WeasyPrint's `pdf/ua-1` engine so
- *      JAWS, NVDA, and VoiceOver read continuous prose across page breaks.
- *    - `break-after: avoid` prevents orphaned headings at page bottoms.
+ *   1. Exceeds WCAG AAA (`7:1`) Contrast Everywhere:
+ *      - Body ink (`#0f172a` on `#ffffff` white paper): `17.8:1` contrast!
+ *      - Subtitles (`#1e293b` / `#334155` on `#ffffff`): `> 10.3:1` contrast!
+ *      - Section headings & links (`#0f3d91` navy on `#ffffff`): `10.4:1` contrast!
+ *   2. Never Relies on Color Alone (WCAG 1.4.1):
+ *      - Every clickable `<a>` link keeps an explicit `text-decoration: underline`.
+ *   3. Screen-Reader `/Artifact` Hygiene:
+ *      - WeasyPrint's `pdf/ua-1` engine automatically marks `@page` margin boxes
+ *        (`Page 1 of 2`) and CSS `border-bottom` divider lines as PDF `/Artifact`
+ *        elements so JAWS, NVDA, and VoiceOver read continuous sentences across
+ *        page breaks without announcing decorative lines or page numbers mid-list.
  * ============================================================================
  */
 
+/* ----------------------------------------------------------------------------
+ * 1. PHYSICAL PAPER GEOMETRY & RUNNING PAGE FOOTER (`@page`)
+ * ----------------------------------------------------------------------------
+ * `@page` is a W3C CSS Paged Media at-rule recognized by print engines like WeasyPrint:
+ *   - `size: letter portrait` sets standard US Letter paper (`8.5in` wide x `11in` tall).
+ *   - `margin: top right bottom left` sets `0.5in` top, `0.6in` sides, and `0.56in`
+ *     bottom (leaving room in the bottom margin for the `@bottom-right` page counter).
+ *   - `counter(page)` and `counter(pages)` are built-in print CSS counters that
+ *     automatically fill in `"Page 1 of 2"`, `"Page 2 of 2"`, etc.!
+ */
 @page {
   size: letter portrait;
   margin: 0.5in 0.6in 0.56in 0.6in;
@@ -33,10 +56,13 @@
   }
 }
 
+/* Include borders and padding inside element width calculations */
 * {
   box-sizing: border-box;
 }
 
+/* Base Document Typography: `9.6pt` sans-serif with `1.36` line spacing balances
+ * executive information density with clean ATS OCR/text scanability. */
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 9.6pt;
@@ -45,6 +71,8 @@ html {
   background-color: #ffffff;
 }
 
+/* Zero out default browser margins on `body` and `main` because `@page` already
+ * provides exact physical paper margins around every sheet. */
 body {
   margin: 0;
   padding: 0;
@@ -55,7 +83,13 @@ main {
   padding: 0;
 }
 
-/* Primary Candidate Name (<H1>) */
+/* ----------------------------------------------------------------------------
+ * 2. SEMANTIC HEADING HIERARCHY (`<H1>`, `<H2>`, `<H3>`) & PAGE-BREAK LOCKING
+ * ---------------------------------------------------------------------------- */
+
+/* Primary Candidate Name (`# Michael P. Ragsdale` -> PDF `<H1>` tag):
+ * - Exactly ONE `<h1>` exists per resume (enforced by `verify-pdf-508.py`).
+ * - `break-after: avoid` glues this heading to the contact paragraph right below it. */
 h1 {
   font-size: 18.5pt;
   font-weight: 700;
@@ -66,7 +100,10 @@ h1 {
   break-after: avoid;
 }
 
-/* Contact & Headline Block Immediately Following <H1> */
+/* Contact & Headline Block (`h1 + p` uses the CSS Adjacent Sibling combinator `+`
+ * to match ONLY the single `<p>` immediately following `<h1>`):
+ * Draws a crisp `1.25pt` navy divider rule under the header block (marked as `/Artifact`
+ * in PDF/UA-1 so screen readers don't announce a decorative line). */
 h1 + p {
   font-size: 9.4pt;
   line-height: 1.42;
@@ -76,7 +113,9 @@ h1 + p {
   border-bottom: 1.25pt solid #0f3d91;
 }
 
-/* Major Resume Sections (<H2>) */
+/* Major Resume Sections (`## TECHNICAL SKILLS`, `## PROFESSIONAL EXPERIENCE` -> PDF `<H2>`):
+ * `break-after: avoid` guarantees a section heading is NEVER left stranded at the very
+ * bottom of a page without at least the first job entry or paragraph beneath it! */
 h2 {
   font-size: 10.8pt;
   font-weight: 700;
@@ -90,7 +129,8 @@ h2 {
   break-after: avoid;
 }
 
-/* Job Titles (<H3>) */
+/* Role / Job Titles (`### Founder & Principal Full-Stack Engineer` -> PDF `<H3>`):
+ * `break-after: avoid` keeps the job title glued to the company/date line below it. */
 h3 {
   font-size: 10.1pt;
   font-weight: 700;
@@ -100,20 +140,34 @@ h3 {
   break-after: avoid;
 }
 
-/* Organization / Date / Role Lead Paragraph */
+/* Organization / Date / Location Lead Paragraph (`h3 + p` immediately after `<h3>`):
+ * Also sets `break-after: avoid` so the entire chain (`H3` Job Title -> Company/Dates ->
+ * first bullet item) stays together across page breaks! */
 h3 + p {
   margin: 0 0 3.5pt 0;
   color: #1e293b;
   break-after: avoid;
 }
 
+/* ----------------------------------------------------------------------------
+ * 3. BODY PROSE, SEMANTIC LISTS (`<L>` / `<LI>`) & ORPHAN/WIDOW CONTROL
+ * ----------------------------------------------------------------------------
+ * Classic Typography Terms Explained:
+ *   - `orphans: 2` : Never leave a single lonely 1st line of a paragraph stranded
+ *                    at the bottom of Page 1 (require at least 2 lines, or push the
+ *                    whole paragraph cleanly to Page 2).
+ *   - `widows: 2`  : Never carry a single lonely last line of a paragraph over to
+ *                    the top of Page 2 (pull a second line with it so it looks balanced).
+ */
 p {
   margin: 0 0 5pt 0;
   orphans: 2;
   widows: 2;
 }
 
-/* Semantic Bullet Lists (<L> -> <LI> -> <Lbl> + <LBody>) */
+/* Unordered Bullet Lists: WeasyPrint compiles `<ul>` and `<li>` into real PDF/UA-1
+ * `<L>` -> `<LI>` -> `<Lbl>` (bullet symbol) + `<LBody>` (text) tags so screen
+ * readers announce `"List of 5 items, bullet 1 of 5..."`. */
 ul {
   margin: 2pt 0 5.5pt 0;
   padding-left: 14pt;
@@ -126,18 +180,27 @@ li {
   widows: 2;
 }
 
+/* Bold inline emphasis (`**...**` in Markdown) */
 strong {
   font-weight: 700;
   color: #0f172a;
 }
 
+/* Inline technical identifiers if backticks are used */
 code {
   font-family: Menlo, Consolas, "Liberation Mono", monospace;
   font-size: 8.8pt;
   color: #0f172a;
 }
 
-/* Accessible Hyperlinks (<Link> + High Contrast + Explicit Underline) */
+/* ----------------------------------------------------------------------------
+ * 4. ACCESSIBLE HYPERLINKS & ATS HYPHEN-WRAP PROTECTION
+ * ---------------------------------------------------------------------------- */
+
+/* Clickable Hyperlinks (PDF `<Link>` structure tag + `/Subtype /Link` annotation):
+ * - `#0f3d91` on `#ffffff` achieves `10.4:1` contrast (exceeding WCAG AAA `7:1`).
+ * - `text-decoration: underline` satisfies WCAG 1.4.1 (distinguishable without color).
+ * - `white-space: nowrap` prevents email addresses or URLs from splitting across lines. */
 a {
   color: #0f3d91;
   text-decoration: underline;
@@ -145,7 +208,9 @@ a {
   white-space: nowrap;
 }
 
-/* Prevents Pango/WeasyPrint line-end hyphen glyph substitution (\ufffd in ATS extractors) */
+/* Applied automatically around hyphenated compounds (like `Full-Stack` or `Section-508`)
+ * by `build-resume.sh` Stage B so Pango/WeasyPrint never emits an end-of-line hyphen
+ * glyph that ATS text parsers misread as the `U+FFFD` replacement character! */
 .nowrap-compound {
   white-space: nowrap;
 }

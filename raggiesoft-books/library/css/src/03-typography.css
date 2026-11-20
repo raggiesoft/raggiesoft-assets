@@ -1,29 +1,40 @@
-/**
+/* ============================================================================
+ * PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (100-LEVEL JAVASCRIPT / WEB INTRO)
  * ============================================================================
- * COMPONENT: 03-typography.css (Stardust Engine Library - Core SRC)
- * CONTEXT: Global Typography, Semantic Dialogue & Zoë Cognitive Kernel Logs
+ * File: library/css/src/03-typography.css
+ * Compiled Into: `raggiesoft-assets/raggiesoft-books/library/css/stardust-engine.min.css`
  *
- * PURPOSE:
- * Defines the core typographic rules for narrative reading experiences. Controls
- * paragraph flow, drop caps, blockquotes, semantic coloring for specialized
- * dialogue types (AAC devices, Sign Language, SMS), and IDE-grade syntax
- * highlighting for Zoë Wren Brooks's cognitive kernel logs (`.zoe-kernel-log`).
+ * WHAT IS THIS FILE?
+ *   This stylesheet turns the HTML emitted by `StardustParsedown`
+ *   (`components-library/classes/stardust-parsedown.php`) into a true print-grade
+ *   literary novel reading experience! Specifically, it styles four layers:
  *
- * ARCHITECTURAL & WCAG 2.1 AA/AAA NOTES:
- * - Headings inside `.book-page` resolve to `var(--rs-heading, var(--rs-text))`
- *   so Light Mode and Dark Mode headings always maintain crisp AAA contrast.
- * - Blockquotes avoid opacity-fading below AA thresholds and instead pair
- *   `color: var(--rs-text)` with a `var(--rs-primary)` accent border.
- * - `.zoe-kernel-log` switches cleanly between its Light IDE palette (in
- *   `theme-light`, `theme-sepia`, and `theme-auto` / `theme-sepia-system` when
- *   OS is Light) and its Dark IDE palette (in `theme-dark`, `theme-dark-sepia`,
- *   `theme-night`, and `theme-auto` / `theme-sepia-system` when OS is Dark).
- *   `body.theme-oceanview` is intentionally NOT hardcoded into the Dark IDE
- *   selector because `theme-oceanview` is present on `<body>` in both Light
- *   and Dark modes across `books.raggiesoft.com`.
- * ============================================================================
- */
+ *     1. **Print-Novel Paragraph Flow & Drop Caps**:
+ *        - Indents the first line of every direct story paragraph (`.story-content > p`)
+ *          by `1.5rem`, EXCEPT the very first paragraph (`:first-of-type`), which
+ *          gets a classic floating 3.5x **Drop Cap** (`::first-letter`)!
+ *        - Resets indents and drop caps inside `<blockquote>`, `<ul>`, and `<ol>`
+ *          so quoted letters, emails, and lists stay cleanly aligned.
+ *     2. **Multimodal & Accessible Dialogue Channels**:
+ *        - Styles `<aac>` (`.aac-device`), `<asl>` (`.asl-sign`), `<sgn>` (`.generic-sign`),
+ *          `<sms>` (`.sms-message` monospace pill), and `<pa>` (`.pa-announcement`)
+ *          using theme-aware `--rs-*` tokens that stay readable in Light & Dark modes.
+ *     3. **Transit Amber LED Destination Signs (`.led-sign`)**:
+ *        - Renders `<led>913 | VA BEACH | SHORE & PLEAS HSE</led>` as an authentic
+ *          `#FFB300`-on-`#0A0C10` (`11.38:1` WCAG AAA) split transit bus sign!
+ *     4. **Zoë Wren Brooks's Cognitive Kernel Logs (`.zoe-kernel-log`)**:
+ *        - Styles the `.zkl-*` tokens emitted by `StardustParsedown::highlightZoeLogLine()`
+ *          like a real IDE / diagnostic console—automatically switching between
+ *          Light IDE, Warm Sepia IDE, and Dark IDE color palettes, AND switching
+ *          window chrome (macOS traffic lights, Windows Fluent buttons, Linux `$_`,
+ *          iOS grabber pill, Android `▸_`) based on `html[data-os="..."]`!
+ * ============================================================================ */
 
+/* ==========================================================================
+ * 1. HEADINGS, NOVEL PARAGRAPHS, DROP CAPS, & BLOCKQUOTES
+ * ========================================================================== */
+
+/* Section headings inside the book column use `--rs-heading` (falling back to `--rs-text`) */
 .book-page h1, .book-page h2, .book-page h3, .book-page h4 {
     color: var(--rs-heading, var(--rs-text));
     margin-top: 2rem;
@@ -35,7 +46,8 @@
     color: var(--rs-text);
 }
 
-/* Direct top-level narrative paragraphs inside the story container */
+/* Child combinator (`>`): targets ONLY `<p>` tags directly inside `.story-content`
+   (not `<p>` tags nested inside cards or blockquotes) and applies traditional book indentation. */
 .story-content > p {
     margin-bottom: 1.5rem;
     text-align: left;
@@ -43,11 +55,12 @@
     color: var(--rs-text);
 }
 
-/* Opening paragraph of the scene: no first-line indent, traditional print novel drop cap */
+/* Traditional publishing rule: the opening paragraph of a chapter is flush-left (`text-indent: 0`)... */
 .story-content > p:first-of-type {
     text-indent: 0;
 }
 
+/* ...and its very first letter (`::first-letter`) floats as a decorative 3.5em Drop Cap! */
 .story-content > p:first-of-type::first-letter {
     float: left;
     font-size: 3.5em;
@@ -59,7 +72,7 @@
     color: var(--rs-primary);
 }
 
-/* Paragraphs nested inside blockquotes or lists must NEVER receive first-line novel indents or drop caps */
+/* Guard rules: paragraphs inside blockquotes or lists must NEVER get novel indents or drop caps */
 .story-content blockquote p,
 .story-content ul p,
 .story-content ol p,
@@ -88,6 +101,7 @@
     color: inherit !important;
 }
 
+/* Blockquotes use full-contrast `--rs-text` + a 4px `--rs-primary` left accent bar (never washed-out gray) */
 .book-page blockquote {
     border-left: 4px solid var(--rs-primary);
     margin: 1.5rem 0;
@@ -96,7 +110,7 @@
     color: var(--rs-text);
 }
 
-/* Inline narrative links inside prose (excludes `.rs-btn` CTA anchor buttons so button text contrast is preserved) */
+/* Inline prose links: `:not(.rs-btn)` ensures `<a class="rs-btn">` CTA buttons keep their button text color! */
 .story-content a:not(.rs-btn) {
     color: var(--rs-primary);
     text-decoration-thickness: 1.5px;
@@ -107,26 +121,31 @@
     color: var(--rs-secondary);
 }
 
-/* AAC Device text formatting */
+/* ==========================================================================
+ * 2. MULTIMODAL & ACCESSIBLE DIALOGUE TAGS (`<aac>`, `<asl>`, `<sgn>`, `<sms>`, `<pa>`)
+ * ==========================================================================
+ * Paired with `.visually-hidden` screen-reader labels injected by `stardust-parsedown.php`. */
+
+/* `<aac>`: Augmentative and Alternative Communication tablet speech */
 em.aac-device, .aac-device {
     font-style: italic;
     color: var(--rs-primary);
 }
 
-/* ASL formatting */
+/* `<asl>`: American Sign Language dialogue */
 em.asl-sign, .asl-sign {
     font-weight: bold;
     font-style: italic;
     color: var(--rs-asl);
 }
 
-/* Generic Sign / Gesture formatting */
+/* `<sgn>`: Generic signed / non-verbal gesture dialogue */
 em.generic-sign, .generic-sign {
     font-style: italic;
     color: var(--rs-gesture);
 }
 
-/* SMS / Text Message formatting */
+/* `<sms>`: Text message / instant message bubble chip */
 em.sms-message, .sms-message {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     font-size: 0.9em;
@@ -138,7 +157,7 @@ em.sms-message, .sms-message {
     font-style: normal;
 }
 
-/* Public Address / Transit Automated Voice Announcement (<pa>) */
+/* `<pa>`: Public Address / automated transit bus stop announcement */
 em.pa-announcement, .pa-announcement {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
     font-size: 0.9em;
@@ -153,15 +172,14 @@ em.pa-announcement, .pa-announcement {
 }
 
 /* ==========================================================================
- * TRANSIT AMBER LED DESTINATION MATRIX SIGNS (<led> -> .led-sign)
+ * 3. TRANSIT AMBER LED DESTINATION MATRIX SIGNS (`<led>` -> `.led-sign`)
  * ==========================================================================
  * Models real-world 24x200 transit bus header signs (CVTA, BRT, LATA) with:
  * - Single-line display (`<led>112 NNTC</led>`)
  * - Two-line stacked display (`<led>OUT OF SERVICE | GARAGE</led>`)
  * - Full-height tabular route number + two-line stacked destination matrix
  *   (`<led>913 | VA BEACH | SHORE & PLEAS HSE</led>`)
- * Contrast: #FFB300 on #0A0C10 = 11.38:1 (WCAG 2.1 AAA across Light & Dark).
- * ========================================================================== */
+ * Contrast: `#FFB300` amber LED glow on `#0A0C10` housing = `11.38:1` (WCAG 2.1 AAA). */
 .led-sign, em.led-sign {
     display: inline-flex;
     align-items: center;
@@ -190,6 +208,7 @@ em.pa-announcement, .pa-announcement {
     padding: 0.24em 0.62em;
 }
 
+/* Left-side full-height route number (`font-variant-numeric: tabular-nums` keeps digits equal-width) */
 .led-sign .led-route {
     font-size: 1.56em;
     line-height: 0.96;
@@ -205,6 +224,7 @@ em.pa-announcement, .pa-announcement {
     flex-shrink: 0;
 }
 
+/* Right-side vertical column stacking top & bottom destination lines */
 .led-sign .led-lines {
     display: inline-flex;
     flex-direction: column;
@@ -240,6 +260,7 @@ em.pa-announcement, .pa-announcement {
     overflow-wrap: anywhere;
 }
 
+/* Windows High Contrast adaptation for LED signs */
 @media (forced-colors: active) {
     .led-sign, em.led-sign {
         background: Canvas;
@@ -254,15 +275,16 @@ em.pa-announcement, .pa-announcement {
 }
 
 /* ==========================================================================
- * ZOË WREN BROOKS COGNITIVE KERNEL LOGS (.zoe-kernel-log & .zkl-* Tokens)
+ * 4. ZOË WREN BROOKS COGNITIVE KERNEL LOGS (`.zoe-kernel-log` & `.zkl-*`)
  * ==========================================================================
- * Narrative & Accessibility Architecture:
- * Renders Zoë's autistic internal C#/.NET application-log thought streams
- * (`ZOË.Systems.Logs.KernelLog`, `EmotionalStateLog`, `SystemSchedulerLog`,
- * `ActionLog`, `InternalStateLog`) with full IDE-grade syntax highlighting.
- * Every token passes WCAG 2.1 AA/AAA contrast (>= 4.5:1 to 14:1) across
- * Light Mode, Sepia Mode, Dark Mode, and Dark-Sepia Mode.
- * ========================================================================== */
+ * Styles the syntax-highlighted diagnostic console blocks generated by
+ * `StardustParsedown::renderZoeKernelLogBlock()`.
+ * Notice the scoped `--zkl-*` CSS variables:
+ *   - Default (`.zoe-kernel-log`): Crisp Light IDE palette (`#f8fafc` background)
+ *   - Sepia (`body.theme-sepia`):  Warm Archival IDE palette (`#f6efe0` background)
+ *   - Dark (`body.theme-dark` / `prefers-color-scheme: dark`): Deep Midnight IDE (`#0b1120`)
+ *   Note: `body.theme-oceanview` is intentionally NOT in the Dark selector because
+ *   `theme-oceanview` stays on `<body>` in BOTH Light and Dark modes! */
 
 .zoe-kernel-log {
     --zkl-bg: #f8fafc;
@@ -399,7 +421,7 @@ body.theme-night:not(.theme-light):not(.theme-sepia):not(.theme-auto):not(.theme
     }
 }
 
-/* Console Header Bar */
+/* Console Title Bar (defaults to macOS red/amber/green traffic lights; overridden per OS below) */
 .zoe-kernel-log-header {
     display: flex;
     align-items: center;
@@ -456,7 +478,11 @@ body.theme-night:not(.theme-light):not(.theme-sepia):not(.theme-auto):not(.theme
     flex-shrink: 0;
 }
 
-/* OS-Adaptive Window Chrome (macOS, Windows, Linux, iOS/iPadOS, Android) */
+/* OS-Adaptive Window Chrome driven by `data-os` on `<html>` (set in `headers/header.php`):
+   - `windows`: Cascadia Code + `>_` prompt badge + right-side minimize/maximize/red-hover-close buttons
+   - `linux`:   Ubuntu Mono + `$_` prompt badge + circular window buttons
+   - `ios`:     SF Mono + sheet grabber bar + glowing emerald live telemetry dot
+   - `android`: Roboto Mono + `▸_` prompt badge */
 html[data-os="windows"] .zoe-kernel-log {
     border-radius: 8px;
     font-family: "Cascadia Code", "Cascadia Mono", Consolas, "JetBrains Mono", ui-monospace, monospace;
@@ -594,7 +620,7 @@ html[data-os="android"] .zoe-kernel-log-os-badge {
 }
 html[data-os="android"] .zoe-kernel-log-os-badge::before { content: "▸_"; }
 
-/* Console Log Entry Rows */
+/* Console Log Entry Rows & Left-Border Severity Color Coding */
 .zoe-kernel-log-body {
     display: flex;
     flex-direction: column;
@@ -619,7 +645,7 @@ html[data-os="android"] .zoe-kernel-log-os-badge::before { content: "▸_"; }
     background-color: var(--zkl-row-hover);
 }
 
-/* Row semantic level border accents */
+/* Row semantic level border accents (`info`, `warning`, `critical`, `emotional`, `action`, `scheduler`) */
 .zoe-log-entry.zoe-log-level-info { border-left-color: #0284c7; }
 .zoe-log-entry.zoe-log-level-warning { border-left-color: #d97706; }
 .zoe-log-entry.zoe-log-level-critical {
@@ -630,6 +656,7 @@ html[data-os="android"] .zoe-kernel-log-os-badge::before { content: "▸_"; }
 .zoe-log-entry.zoe-log-level-action { border-left-color: #059669; }
 .zoe-log-entry.zoe-log-level-scheduler { border-left-color: #4f46e5; }
 
+/* Line-number gutter (`01`, `02`, ...) — `user-select: none` excludes line numbers when copying log text! */
 .zoe-log-gutter {
     font-size: 0.75rem;
     color: var(--zkl-gutter);
@@ -647,7 +674,7 @@ html[data-os="android"] .zoe-kernel-log-os-badge::before { content: "▸_"; }
     word-break: break-word;
 }
 
-/* Syntax Token Highlighting Classes */
+/* Syntax Token Highlighting Classes (matched 1-to-1 with named groups in `StardustParsedown::highlightZoeLogLine`) */
 .zkl-ns {
     color: var(--zkl-ns);
     font-weight: 600;
@@ -673,6 +700,7 @@ html[data-os="android"] .zoe-kernel-log-os-badge::before { content: "▸_"; }
     letter-spacing: 0.02em;
 }
 
+/* Wavy red IDE underline (`text-decoration-style: wavy`) for `.NET` Exception tokens! */
 .zkl-exception {
     color: var(--zkl-exception);
     font-weight: 700;
@@ -746,6 +774,7 @@ html[data-os="android"] .zoe-kernel-log-os-badge::before { content: "▸_"; }
     margin-left: auto;
 }
 
+/* Wrap timestamps onto their own indented line on narrow mobile screens (`<= 640px`) */
 @media (max-width: 640px) {
     .zoe-log-entry {
         flex-wrap: wrap;

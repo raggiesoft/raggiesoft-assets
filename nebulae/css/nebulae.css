@@ -1,35 +1,53 @@
 /**
  * ============================================================================
- * THE RAGGIESOFT NEBULAE — "ESCAPE VELOCITY (AD ASTRA)" STYLESHEET
+ * PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (READ-ALONG TEACHING HEADER)
  * ============================================================================
+ * What is this file?
+ *   This is `nebulae.css`, the complete visual stylesheet for The RaggieSoft
+ *   Nebulae (`https://nebulae.raggiesoft.com`). While `index.php` builds the
+ *   semantic HTML structure and `nebulae.js` handles button clicks, this CSS
+ *   file controls every color, font, responsive grid, starship viewport frame,
+ *   frosted-glass command bar, and motion animation on the page.
+ *
+ * Why does it exist in the RaggieSoft ecosystem?
+ *   It styles the 1996 "Escape Velocity (Ad Astra)" Interactive Short Film &
+ *   Caelum-IV Planetary Survey so it feels like stepping onto the bridge and
+ *   open cargo ramp of the U.S.S. Aethelgard—while still guaranteeing strict
+ *   WCAG 2.1 AA / AAA readability and Section 508 accessibility compliance.
+ *
+ * What inputs control its behavior, and what visible output does it produce?
+ *   1. OS Color Preference (`@media (prefers-color-scheme: dark | light)`) AND
+ *      Manual User Override (`[data-theme="dark" | "light"]` set on `<html>` by
+ *      `nebulae.js`): switches all CSS custom properties (`--variables`)
+ *      instantly between "Deep Cosmic Void" (Dark Mode) and "Daylight Starfleet
+ *      Technical Manual / LCARS Parchment" (Light Mode).
+ *   2. Inline Hotspot Coordinates (`--pin-x` and `--pin-y` written onto each
+ *      `<button class="hotspot-pin">` by `index.php`): positions clickable
+ *      sensor pins over exact percentage spots on the 16:9 cargo-hatch artwork.
+ *   3. ARIA State Attributes (`[aria-expanded="true"]`, `[aria-pressed="true"]`,
+ *      and `[hidden]`): highlights active buttons and hides inactive panels
+ *      directly from accessibility attributes—no extra `.is-open` classes needed!
+ *   4. OS Motion Preference (`@media (prefers-reduced-motion: reduce)`):
+ *      automatically pauses the 120 BPM pulsing telemetry beacon, hover lifts,
+ *      and smooth scrolling for visitors sensitive to motion.
+ *
  * File: /raggiesoft-assets/nebulae/css/nebulae.css
  * Served via CDN: https://assets.raggiesoft.com/nebulae/css/nebulae.css
  * License: MIT License (Code) / CC BY-SA 4.0 (Creative Content)
- *
- * ARCHITECTURAL & ACCESSIBILITY OVERVIEW:
- * 1. Palette Extracted Directly from `ad-astra-landing.jpg`:
- *    - Deep Cosmic Void / Midnight Indigo (`#0b0914`, `#120e24`)
- *    - Vesperan Violet / Bioluminescent Purple (`#6b3fa0`, `#9d65d0`, `#c49bff`)
- *    - Horizon Amber / Solis-V Gold (`#f5b041`, `#ffd166`)
- *    - Mycelial Cyan & Crimson Accents (`#38ef7d`, `#00d2ff`, `#ff4b72`)
- *    - Console Slate / Metallic Hull (`#1e222d`, `#2b3040`)
- * 2. Dual Adaptive Theme Engine (WCAG 2.1 AA & 7:1 AAA Reading Blocks):
- *    - Dark Mode (`@media (prefers-color-scheme: dark)` / `[data-theme="dark"]`):
- *      Deep Cosmic Void & U.S.S. Aethelgard Bridge Telemetry aesthetic.
- *    - Light Mode (`@media (prefers-color-scheme: light)` / `[data-theme="light"]`):
- *      High-contrast "Daylight Starfleet Technical Manual / LCARS Parchment"
- *      aesthetic using warm cream (`#f8f5f0`) and deep indigo typography (`#1a1033`).
- * 3. Reduced Motion Safety (`@media (prefers-reduced-motion: reduce)`):
- *    - Disables all pulsing bioluminescent keyframe animations, starfield drift,
- *      and smooth-scroll transitions when requested by the operating system.
  * ============================================================================
  */
 
 /* ----------------------------------------------------------------------------
- * 1. CORE PALETTE & ADAPTIVE THEME TOKENS
- * ---------------------------------------------------------------------------- */
+ * 1. CORE PALETTE & ADAPTIVE THEME TOKENS (CSS CUSTOM PROPERTIES)
+ * ----------------------------------------------------------------------------
+ * Think of `:root` as the global `<html>` element, and `--variable-name` as CSS
+ * constants/variables (read later using `var(--variable-name)`). By defining raw
+ * brand colors first and semantic role variables (`--bg-canvas`, `--text-primary`)
+ * second, switching the entire page between Dark and Light mode only requires
+ * reassigning the semantic variables—every card, button, and border updates automatically!
+ */
 :root {
-  /* Raw Palette Constants Extracted from `ad-astra-landing.jpg` */
+  /* Raw Palette Constants Extracted Directly from `ad-astra-landing.jpg` Artwork */
   --void-deep: #0b0914;
   --void-indigo: #120e24;
   --vespera-violet-deep: #6b3fa0;
@@ -43,7 +61,7 @@
   --console-slate: #1e222d;
   --metallic-hull: #2b3040;
 
-  /* Typography & Layout Tokens */
+  /* Typography Stacks & Shared Layout Tokens (`9999px` radius creates stadium/pill shapes) */
   --font-display: 'Audiowide', 'Orbitron', system-ui, -apple-system, sans-serif;
   --font-sans: 'Titillium Web', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
   --font-mono: ui-monospace, 'SFMono-Regular', 'JetBrains Mono', Menlo, Consolas, monospace;
@@ -51,7 +69,7 @@
   --radius-panel: 1rem;
   --radius-pill: 9999px;
 
-  /* Default to Dark Cosmic Theme Variables (> 11:1 AAA text contrast) */
+  /* Default Semantic Tokens: Deep Cosmic Void Dark Theme (> 11:1 AAA text contrast) */
   color-scheme: dark;
   --bg-canvas: var(--void-deep);
   --bg-canvas-secondary: var(--void-indigo);
@@ -74,7 +92,9 @@
   --shadow-panel: 0 18px 42px rgba(0, 0, 0, 0.55);
 }
 
-/* High-Contrast Daylight Starfleet Technical Manual / LCARS Parchment Theme */
+/* Automatic OS Light Mode: applies warm LCARS Parchment (`#f8f5f0`) with deep
+ * indigo text (`#1a1033`) ONLY when the user's OS prefers light mode AND the
+ * user hasn't manually forced `[data-theme="dark"]` via the header toggle button. */
 @media (prefers-color-scheme: light) {
   :root:not([data-theme="dark"]) {
     color-scheme: light;
@@ -100,7 +120,7 @@
   }
 }
 
-/* Explicit User Theme Override via Header Button (`data-theme="light"` | `"dark"`) */
+/* Explicit User Light Theme Override: triggered when `nebulae.js` sets `data-theme="light"` on `<html>` */
 [data-theme="light"] {
   color-scheme: light;
   --bg-canvas: #f8f5f0;
@@ -124,6 +144,7 @@
   --shadow-panel: 0 10px 28px rgba(26, 16, 51, 0.08);
 }
 
+/* Explicit User Dark Theme Override: triggered when `nebulae.js` sets `data-theme="dark"` on `<html>` */
 [data-theme="dark"] {
   color-scheme: dark;
   --bg-canvas: var(--void-deep);
@@ -148,14 +169,18 @@
 }
 
 /* ----------------------------------------------------------------------------
- * 2. DOCUMENT RESET, TYPOGRAPHY & FOCUS RINGS
+ * 2. DOCUMENT RESET, TYPOGRAPHY & ACCESSIBLE FOCUS RINGS
  * ---------------------------------------------------------------------------- */
+
+/* Universal Box-Sizing Reset: makes `width: 100%` INCLUDE padding and borders
+ * instead of overflowing horizontally off the screen. */
 *,
 *::before,
 *::after {
   box-sizing: border-box;
 }
 
+/* Smooth anchor scrolling (`#short-film-storyboard`, etc.) and base typography */
 html {
   min-height: 100%;
   background-color: var(--bg-canvas);
@@ -165,6 +190,10 @@ html {
   scroll-behavior: smooth;
 }
 
+/* Ambient Nebula Backdrop: uses two subtle CSS `radial-gradient` glows (violet at
+ * top-left, gold at top-right) so we get a cosmic nebula atmosphere at zero GPU
+ * animation cost, plus `display: flex; flex-direction: column` so the footer
+ * always sticks cleanly to the bottom of tall viewports. */
 body {
   min-height: 100vh;
   margin: 0;
@@ -177,6 +206,8 @@ body {
   flex-direction: column;
 }
 
+/* `text-wrap: balance` equalizes multi-line heading lengths so titles never wrap
+ * with a single awkward word on the second line. */
 h1, h2, h3, h4, h5, h6 {
   font-family: var(--font-display);
   line-height: 1.25;
@@ -185,10 +216,13 @@ h1, h2, h3, h4, h5, h6 {
   text-wrap: balance;
 }
 
+/* `text-wrap: pretty` prevents orphaned single words at the end of paragraphs */
 p, li, dd, blockquote {
   text-wrap: pretty;
 }
 
+/* WCAG 1.4.1 (Use of Color): links always keep a visible underline with generous
+ * vertical offset (`0.2em`) so colorblind readers never rely on hue alone. */
 a {
   color: var(--accent-cyan);
   text-decoration: underline;
@@ -199,13 +233,16 @@ a:hover {
   color: var(--accent-gold);
 }
 
-/* Modern Web Guidance (accessibility): Explicit high-contrast :focus-visible rings */
+/* Keyboard Focus Ring (`:focus-visible`): shows a crisp 3px gold/indigo ring ONLY
+ * when navigating by keyboard (Tab key), without cluttering mouse clicks.
+ * `:where(...)` keeps CSS specificity at 0 so component overrides stay easy. */
 :where(a:any-link, button, [tabindex="0"]):focus-visible {
   outline: 3px solid var(--focus-ring);
   outline-offset: 3px;
 }
 
-/* Modern Web Guidance (accessibility): Visually Hidden / Skip Link Utility */
+/* Visually Hidden Utility: shrinks screen-reader-only elements (like `#nebulae-live-announcer`
+ * and `.skip-link`) to a 1x1 clipped pixel UNTIL focused by keyboard (`:not(:focus-within)`). */
 .visually-hidden:where(:not(:focus-within, :active)) {
   position: absolute !important;
   clip-path: inset(50%) !important;
@@ -218,6 +255,8 @@ a:hover {
   white-space: nowrap !important;
 }
 
+/* When a keyboard user presses Tab at the top of the page, `.skip-link` un-hides
+ * and floats in the top-left corner above all sticky bars (`z-index: 10000`). */
 .skip-link {
   position: fixed;
   top: 0.75rem;
@@ -235,7 +274,11 @@ a:hover {
 
 /* ----------------------------------------------------------------------------
  * 3. HEADER & SUBDOMAIN COMMAND BAR
- * ---------------------------------------------------------------------------- */
+ * ----------------------------------------------------------------------------
+ * `position: sticky; top: 0` pins the command bar to the top of the browser as
+ * the user scrolls, while `backdrop-filter: blur(12px)` creates a frosted-glass
+ * bridge console effect over scrolling starship artwork (`-webkit-` supports Safari).
+ */
 .nebulae-header {
   background-color: var(--bg-surface-glass);
   backdrop-filter: blur(12px);
@@ -246,6 +289,7 @@ a:hover {
   z-index: 100;
 }
 
+/* Centers header contents inside `--max-width-container` (`1360px`) and wraps cleanly on smaller screens */
 .nebulae-header-inner {
   max-width: var(--max-width-container);
   margin: 0 auto;
@@ -265,6 +309,7 @@ a:hover {
   color: var(--text-primary);
 }
 
+/* Metallic hull badge ("U.S.S. AETHELGARD") */
 .brand-badge {
   display: inline-flex;
   align-items: center;
@@ -309,6 +354,8 @@ a:hover {
   padding: 0;
 }
 
+/* Shared pill styling for section jump links and the Dark/Light theme toggle button.
+ * `min-block-size: 2.5rem` (40px) ensures comfortable touch/tap target sizing on phones. */
 .section-nav a,
 .theme-toggle-btn {
   display: inline-flex;
@@ -334,8 +381,10 @@ a:hover {
 }
 
 /* ----------------------------------------------------------------------------
- * 4. MAIN CONTAINER & TELEMETRY RIBBON
+ * 4. MAIN CONTAINER, HERO & TELEMETRY RIBBON
  * ---------------------------------------------------------------------------- */
+
+/* `flex: 1 0 auto` lets `<main>` expand to fill vertical space above `<footer>` */
 .nebulae-main {
   flex: 1 0 auto;
   max-width: var(--max-width-container);
@@ -348,6 +397,7 @@ a:hover {
   margin-bottom: 1.75rem;
 }
 
+/* Monospace status pill above section headings */
 .eyebrow-tag {
   display: inline-flex;
   align-items: center;
@@ -365,6 +415,7 @@ a:hover {
   margin-bottom: 0.9rem;
 }
 
+/* Glowing emerald status indicator synchronized to 120 BPM (`0.5s` per beat!) */
 .pulse-dot {
   width: 0.55rem;
   height: 0.55rem;
@@ -374,6 +425,7 @@ a:hover {
   animation: pulse120bpm 0.5s infinite alternate ease-in-out;
 }
 
+/* Keyframe animation using GPU-friendly `opacity` and `transform` properties only */
 @keyframes pulse120bpm {
   from {
     opacity: 0.45;
@@ -385,12 +437,15 @@ a:hover {
   }
 }
 
+/* `clamp(min, preferred-viewport-scale, max)` scales font size smoothly across
+ * mobile, tablet, and widescreen monitors without abrupt breakpoint jumps. */
 .hero-title {
   font-size: clamp(1.85rem, 3.6vw, 3rem);
   margin-bottom: 0.65rem;
   letter-spacing: 0.02em;
 }
 
+/* `max-width: 78ch` caps line width at ~78 characters for comfortable eye tracking */
 .hero-lead {
   font-size: clamp(1.05rem, 1.4vw, 1.22rem);
   color: var(--text-secondary);
@@ -405,6 +460,7 @@ a:hover {
   margin-bottom: 1.75rem;
 }
 
+/* Call-to-action button base (`min-block-size: 2.75rem` = 44px WCAG touch target) */
 .btn-cosmic {
   display: inline-flex;
   align-items: center;
@@ -420,6 +476,7 @@ a:hover {
   transition: transform 0.2s ease, border-color 0.2s ease;
 }
 
+/* High-contrast Solis Gold primary action button (`#0b0914` text on `#ffd166` gold) */
 .btn-cosmic-primary {
   background-color: var(--solis-gold);
   color: #0b0914;
@@ -444,7 +501,8 @@ a:hover {
   transform: translateY(-2px);
 }
 
-/* Telemetry Strip */
+/* Responsive Telemetry Strip: `repeat(auto-fit, minmax(210px, 1fr))` automatically
+ * creates as many >=210px columns as fit on screen, stacking into 1 column on phones! */
 .telemetry-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(210px, 1fr));
@@ -482,7 +540,12 @@ a:hover {
 
 /* ----------------------------------------------------------------------------
  * 5. AETHELGARD HATCH 16:9 VIEWPORT & ACCESSIBLE SENSOR HOTSPOTS
- * ---------------------------------------------------------------------------- */
+ * ----------------------------------------------------------------------------
+ * Notice that `.hatch-frame` intentionally keeps its dark metallic starship hull
+ * colors (`--metallic-hull` -> `--console-slate` with `#f8f5ff` text) in BOTH
+ * Dark and Light themes, because it represents the physical bulkhead frame around
+ * the starship cargo-bay window!
+ */
 .hatch-frame {
   background: linear-gradient(180deg, var(--metallic-hull) 0%, var(--console-slate) 100%);
   border: 2px solid var(--border-strong);
@@ -521,6 +584,8 @@ a:hover {
   font-weight: 700;
 }
 
+/* `position: relative` establishes the coordinate box (0% to 100% in X and Y) for
+ * the absolutely positioned `.hotspot-pin` buttons inside, locked to 16:9 widescreen. */
 .viewport-stage {
   position: relative;
   width: 100%;
@@ -538,7 +603,11 @@ a:hover {
   display: block;
 }
 
-/* Overlaid Accessible Sensor Hotspot Buttons on the 16:9 Viewport */
+/* Overlaid Accessible Sensor Hotspot Buttons on the 16:9 Viewport:
+ * - `left: calc(var(--pin-x, 50) * 1%)` converts a raw number like `34.5` from PHP
+ *   into `34.5%` from the left edge!
+ * - `transform: translate(-50%, -50%)` centers the button's midpoint directly over
+ *   that coordinate instead of hanging down-and-right from its top-left corner. */
 .hotspot-pin {
   position: absolute;
   left: calc(var(--pin-x, 50) * 1%);
@@ -563,6 +632,8 @@ a:hover {
   transition: transform 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
 }
 
+/* Styling driven directly by the ARIA attribute `[aria-expanded="true"]`!
+ * Whenever `nebulae.js` marks a pin expanded, it lights up in bright Solis Gold. */
 .hotspot-pin:hover,
 .hotspot-pin[aria-expanded="true"] {
   background-color: var(--solis-gold);
@@ -584,6 +655,9 @@ a:hover {
   background-color: #0b0914;
 }
 
+/* On narrow mobile screens (<= 768px), hide the text label on overlaid pins so
+ * compact sensor codes (`S-01`, `S-02`, ...) don't overlap each other on the image;
+ * full titles remain right below in `.sensor-selector-bar`! */
 @media (max-width: 768px) {
   .hotspot-pin-label {
     display: none;
@@ -600,7 +674,7 @@ a:hover {
   font-size: 0.88rem;
 }
 
-/* Sensor Selector Button Bar Below Viewport */
+/* Sensor Selector Button Bar Below Viewport: full-text companion console buttons */
 .sensor-selector-bar {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
@@ -661,6 +735,7 @@ a:hover {
   box-shadow: var(--shadow-panel);
 }
 
+/* Explicit `[hidden]` enforcement so author `display` styles never accidentally override HTML's `hidden` attribute */
 .sensor-panel[hidden] {
   display: none !important;
 }
@@ -743,6 +818,7 @@ a:hover {
   margin: 0;
 }
 
+/* Storyboard Movement Filter Buttons (`aria-pressed="true"` highlights the active filter) */
 .act-filter-bar {
   display: flex;
   flex-wrap: wrap;
@@ -834,6 +910,8 @@ a:hover {
   color: var(--accent-cyan);
 }
 
+/* Two-column asymmetrical layout on desktop (`1.35fr` director's notes on left,
+ * `1fr` lyric callout box on right), collapsing to 1 column under `900px` width. */
 .act-card-body {
   display: grid;
   grid-template-columns: 1.35fr 1fr;
@@ -867,6 +945,7 @@ a:hover {
   font-size: 1rem;
 }
 
+/* Canonical Lyric Excerpt Box inside each Act Card */
 .act-lyrics-box {
   background-color: var(--bg-code-lyrics);
   border: 1px solid var(--border-subtle);
@@ -965,7 +1044,11 @@ a:hover {
 
 /* ----------------------------------------------------------------------------
  * 8. CREATOR'S COSMIC DEDICATION & GLOBAL FOOTER
- * ---------------------------------------------------------------------------- */
+ * ----------------------------------------------------------------------------
+ * Like the starship hatch frame above, the Sir Patrick Stewart memorial banner
+ * uses fixed cosmic midnight indigo + Solis Gold accents so its starfield mood
+ * stays preserved in both Dark and Light themes.
+ */
 .dedication-banner {
   background: linear-gradient(135deg, rgba(18, 14, 36, 0.96), rgba(30, 34, 45, 0.96));
   color: #f8f5ff;
@@ -1030,7 +1113,13 @@ a:hover {
 
 /* ----------------------------------------------------------------------------
  * 9. REDUCED MOTION COMPLIANCE (WCAG 2.1 SC 2.3.3 & Modern Web Guidance `motion`)
- * ---------------------------------------------------------------------------- */
+ * ----------------------------------------------------------------------------
+ * `@property --animation-reduced` registers a typed CSS custom property whose
+ * initial value is `none` and does NOT inherit down the DOM tree. When the user
+ * enables "Reduce Motion" in macOS, iOS, Windows, or Android settings,
+ * `@media (prefers-reduced-motion: reduce)` switches `scroll-behavior` back to
+ * instant jumps (`auto`) and cancels all keyframe animations and transitions!
+ */
 @property --animation-reduced {
   syntax: "*";
   inherits: false;

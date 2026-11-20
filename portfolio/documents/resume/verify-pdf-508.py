@@ -1,29 +1,52 @@
 #!/usr/bin/env python3
 """
 ==============================================================================
-Architectural Block: verify-pdf-508.py
+PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (READ-ALONG TEACHING HEADER)
 ==============================================================================
-Automated Federal Section 508, WCAG 2.1 AA, & ISO 14289-1 (PDF/UA-1) Validator
-for Resume & Cover Letter Artifacts (`mragsdale-resume*.pdf` / `.docx`).
+What is this file?
+  This is `verify-pdf-508.py`, an automated Python 3 accessibility test suite
+  that inspects compiled `.pdf` and `.docx` resumes and cover letters to prove
+  they meet **Federal Section 508**, **WCAG 2.1 AA**, and **ISO 14289-1 (PDF/UA-1)**
+  accessibility standards before any build succeeds.
 
-Purpose:
-Verifies without third-party pip dependencies that every compiled PDF and DOCX
-artifact satisfies real assistive-technology (JAWS, NVDA, VoiceOver, Acrobat
-Accessibility Check, PAC) structural invariants:
-1. PDF/UA-1 XMP Metadata Conformance (`pdfuaid:part` = `1` + `dc:title`).
-2. Tagged PDF Root (`/MarkInfo << /Marked true >>` & `/StructTreeRoot`).
-3. Primary Natural Language (`/Lang (en-US)` — WCAG 3.1.1).
-4. Document Title Display (`/ViewerPreferences << /DisplayDocTitle true >>` — WCAG 2.4.2).
-5. Structure-Order Keyboard Tabbing (`/Tabs /S` on every `/Type /Page` — PDF/UA 7.18.3).
-6. Interactive Heading Hierarchy (`<H1>` == 1, zero skipped heading levels, plus
-   `/Outlines` bookmarks — WCAG 1.3.1 & 2.4.6).
-7. Semantic Paragraphs (`<P>`), Lists (`<L>` / `<LI>`), and Accessible Links
-   (`<Link>` structure elements + `/Subtype /Link` `/Contents` + `/StructParent`).
-8. Optional DOCX Verification (`docProps/core.xml` `dc:title`, `dc:creator`,
-   `dc:language`, and `word/document.xml` native `Heading1` styles).
+How can a Python script "look inside" a PDF or Word document without specialized
+third-party libraries (`pikepdf` / `pypdf`)?
+  1. **How PDFs Work Under the Hood**:
+     Even though a `.pdf` looks like a binary file, its internal skeleton is
+     actually ASCII text dictionaries (`<< /Key /Value >>`) mixed with zlib-
+     compressed data blocks (`stream ... endstream`). By decompressing every
+     `zlib` stream with Python's built-in `zlib` module, we can inspect the
+     exact same PDF Structure Tree tags (`/StructTreeRoot`, `/S /H1`, `/S /P`,
+     `/S /LI`, `/S /Link`, `/Lang (en-US)`, `/MarkInfo`, `/Tabs /S`, `/Artifact`)
+     that Adobe Acrobat Accessibility Checker, PAC, JAWS, NVDA, and Python PDF
+     libraries (`pikepdf` / `pypdf`) read!
+  2. **How Word `.docx` Files Work Under the Hood**:
+     Every `.docx` file is secretly a standard `.zip` archive containing XML
+     files! Python's built-in `zipfile` module opens the `.docx` directly in
+     memory to verify `docProps/core.xml` (`dc:title`, `dc:creator`, `en-US`)
+     and `word/document.xml` (`Heading1` semantic paragraph styles).
+
+Why zero external `pip` dependencies?
+  Using 100% Python Standard Library modules (`pathlib`, `re`, `sys`, `zipfile`,
+  `zlib`) guarantees this validator runs identically on macOS, Linux, and Windows
+  without virtual environments breaking!
+
+What inputs feed into it, and what output does it produce?
+  - Inputs: Paths to `.pdf` and/or `.docx` files on the command line, plus an
+    optional `--cover-letter` flag (since 1-page cover letters only need `<H1>`,
+    whereas resumes must also have `<H2>` section headings).
+  - Outputs: Prints a concise `[508/PDF-UA PASS CHECK]` telemetry summary and
+    exits with status code `0` on full compliance, or prints every specific
+    accessibility violation to `stderr` and exits with code `1` to halt the build.
 ==============================================================================
 """
 
+# Standard Library Imports:
+# - `pathlib` : Object-oriented file path handling (cross-platform `/` vs `\`).
+# - `re`      : Regular expressions (just like `/pattern/g` in JavaScript).
+# - `sys`     : Command-line arguments (`sys.argv`) and standard error stream (`sys.stderr`).
+# - `zipfile` : Opens `.docx` Office Open XML packages (which are `.zip` archives).
+# - `zlib`    : Decompresses PDF `/FlateDecode` streams in memory.
 import pathlib
 import re
 import sys
@@ -33,9 +56,18 @@ import zlib
 
 def extract_full_pdf_text(pdf_bytes: bytes) -> str:
     """
-    Combines raw uncompressed PDF object headers with all decompressed
-    `/FlateDecode` object/XMP streams so structure elements inside compressed
-    object streams or XMP metadata streams can be inspected deterministically.
+    Unpacks an entire PDF file (both raw uncompressed headers AND compressed
+    `/FlateDecode` object/XMP streams) into one searchable string.
+
+    Step-by-Step Walkthrough:
+      1. `pdf_bytes.decode("latin1")` converts raw bytes (`0x00`–`0xFF`) 1-to-1
+         into characters without ever crashing with `UnicodeDecodeError` on binary
+         font bytes—preserving uncompressed catalog dictionaries and XMP XML metadata.
+      2. Modern PDF generators like WeasyPrint pack the semantic tag tree (`<H1>`,
+         `<P>`, `<L>`, `<LI>`, `<Link>`) inside compressed `stream ... endstream`
+         blocks. `re.finditer(...)` finds every stream block in `pdf_bytes`.
+      3. `zlib.decompress(payload)` inflates compressed streams so we can inspect
+         every hidden PDF object dictionary deterministically!
     """
     chunks = [pdf_bytes.decode("latin1")]
     for match in re.finditer(rb"stream\r?\n([\s\S]*?)\r?\nendstream", pdf_bytes):
@@ -44,42 +76,62 @@ def extract_full_pdf_text(pdf_bytes: bytes) -> str:
             decompressed = zlib.decompress(payload)
             chunks.append(decompressed.decode("latin1"))
         except zlib.error:
-            # Non-zlib stream (e.g., uncompressed XMP metadata stream); already in raw bytes.
+            # Non-zlib stream (e.g., an uncompressed XMP XML metadata packet or font binary);
+            # its raw text is already included in `chunks[0]`, so we safely skip it.
             pass
     return "\n".join(chunks)
 
 
 def verify_pdf(pdf_path: pathlib.Path, require_h2: bool = True) -> list[str]:
     """
-    Audits a compiled PDF file against PDF/UA-1 & Section 508 structural rules.
-    Returns a list of human-readable failure messages (empty list == PASS).
+    Audits a compiled PDF file against 8 core PDF/UA-1 & Section 508 rules.
+    Returns a list of human-readable error strings (`[]` empty list means 100% PASS!).
     """
     errors: list[str] = []
     if not pdf_path.is_file():
         return [f"PDF file not found: {pdf_path}"]
 
+    # Read raw PDF bytes from disk and inflate all internal streams into `corpus`.
     pdf_bytes = pdf_path.read_bytes()
     corpus = extract_full_pdf_text(pdf_bytes)
 
-    # 1. PDF/UA-1 XMP Metadata Conformance
+    # --------------------------------------------------------------------------
+    # CHECK 1: ISO 14289-1 (PDF/UA-1) XMP Metadata Conformance
+    # --------------------------------------------------------------------------
+    # Assistive technology validators (PAC 2024,veraPDF, Acrobat) check the embedded
+    # XMP XML packet for `<pdfuaid:part>1</pdfuaid:part>` and `<dc:title>`.
     if "pdfuaid:part" not in corpus:
         errors.append("Missing ISO 14289-1 PDF/UA-1 XMP identifier (`pdfuaid:part`).")
     if "dc:title" not in corpus:
         errors.append("Missing XMP `dc:title` document title metadata.")
 
-    # 2. Tagged PDF & Structure Tree Root
+    # --------------------------------------------------------------------------
+    # CHECK 2: Tagged PDF Catalog & Structure Tree Root
+    # --------------------------------------------------------------------------
+    # An accessible PDF MUST have `/StructTreeRoot` (the root of the semantic DOM-like
+    # tag tree) and `/MarkInfo << /Marked true >>` declaring it is a Tagged PDF.
     if "/StructTreeRoot" not in corpus:
         errors.append("Missing `/StructTreeRoot` (PDF is untagged).")
     if not re.search(r"/Marked\s+true", corpus):
         errors.append("Missing `/MarkInfo << /Marked true >>` on Document Catalog.")
 
-    # 3. Primary Language & Document Title Preference
+    # --------------------------------------------------------------------------
+    # CHECK 3: Primary Natural Language (WCAG 3.1.1) & Window Title (WCAG 2.4.2)
+    # --------------------------------------------------------------------------
+    # - `/Lang (en-US)` tells screen readers to use English pronunciation rules.
+    # - `/DisplayDocTitle true` tells PDF viewers to announce the human `<title>`
+    #   instead of reading out a raw filename like `mragsdale-resume.pdf`.
     if not re.search(r"/Lang\s*\(en-US\)", corpus):
         errors.append("Missing `/Lang (en-US)` on Document Catalog (WCAG 3.1.1).")
     if not re.search(r"/DisplayDocTitle\s+true", corpus):
         errors.append("Missing `/ViewerPreferences << /DisplayDocTitle true >>` (WCAG 2.4.2).")
 
-    # 4. Page Count & Structure Tab Order (`/Tabs /S`)
+    # --------------------------------------------------------------------------
+    # CHECK 4: Page Count & Keyboard Tab Order (`/Tabs /S` — PDF/UA Clause 7.18.3)
+    # --------------------------------------------------------------------------
+    # Every `/Type /Page` dictionary must include `/Tabs /S`, which instructs PDF
+    # readers to move keyboard Tab focus in **S**tructure Tree order (logical reading
+    # order) rather than arbitrary geometric X/Y coordinates on the page.
     page_count = len(re.findall(r"/Type\s*/Page\b", corpus))
     tabs_s_count = len(re.findall(r"/Tabs\s*/S\b", corpus))
     if page_count == 0:
@@ -89,14 +141,23 @@ def verify_pdf(pdf_path: pathlib.Path, require_h2: bool = True) -> list[str]:
             f"Expected `/Tabs /S` (Use Document Structure tab order) on all {page_count} pages, found {tabs_s_count}."
         )
 
-    # 5. Bookmarks (`/Outlines`)
+    # --------------------------------------------------------------------------
+    # CHECK 5: Interactive PDF Bookmarks (`/Outlines`)
+    # --------------------------------------------------------------------------
+    # Allows sighted and low-vision users to jump directly between resume sections
+    # in their PDF viewer's left-hand Bookmarks sidebar.
     if "/Outlines" not in corpus:
         errors.append("Missing `/Outlines` PDF bookmarks dictionary.")
 
-    # 6. Semantic Structure Tags (`<Document>`, `<H1>`..`<H6>`, `<P>`)
+    # --------------------------------------------------------------------------
+    # CHECK 6: Semantic Structure Tree Elements (`<Document>`, `<H1>`..`<H6>`, `<P>`)
+    # --------------------------------------------------------------------------
+    # Inside a PDF's `/StructTreeRoot`, each HTML-like tag is stored as a dictionary
+    # whose `/S` ("Structure Type") key is `/Document`, `/H1`, `/H2`, `/P`, `/LI`, etc.
     if not re.search(r"/S\s*/Document\b", corpus):
         errors.append("Missing `<Document>` root structure element.")
 
+    # Count how many `/S /H1` through `/S /H6` heading tags exist in the PDF.
     h_counts = {
         level: len(re.findall(rf"/S\s*/H{level}\b", corpus))
         for level in range(1, 7)
@@ -106,7 +167,9 @@ def verify_pdf(pdf_path: pathlib.Path, require_h2: bool = True) -> list[str]:
     if require_h2 and h_counts[2] < 1:
         errors.append("Expected at least 1 `<H2>` section heading tag on resume, found 0.")
 
-    # Enforce zero skipped heading levels (e.g., H3 requires H2; H4 requires H3)
+    # WCAG 1.3.1 Heading Hierarchy Rule: never skip a heading level!
+    # For example, having `<H3>` job titles (`h_counts[3] > 0`) when there are zero
+    # `<H2>` section headings (`h_counts[2] == 0`) confuses screen-reader outline navigation.
     for level in range(2, 7):
         if h_counts[level] > 0 and h_counts[level - 1] == 0:
             errors.append(
@@ -117,7 +180,12 @@ def verify_pdf(pdf_path: pathlib.Path, require_h2: bool = True) -> list[str]:
     if p_count < 1:
         errors.append("Expected semantic `<P>` paragraph structure elements, found 0.")
 
-    # 7. Embedded Fonts (ISO 14289-1 Clause 7.21.4) & Decorative Artifact Hygiene
+    # --------------------------------------------------------------------------
+    # CHECK 7: 100% Embedded Fonts (PDF/UA Clause 7.21.4) & `/Artifact` Hygiene
+    # --------------------------------------------------------------------------
+    # Every `/Type /FontDescriptor` MUST embed its actual glyph binary (`/FontFile`,
+    # `/FontFile2`, or `/FontFile3`) inside the PDF so characters never render as
+    # missing boxes on computers that don't have the author's local fonts installed.
     font_descriptors = re.findall(r"<<[\s\S]*?/Type\s*/FontDescriptor[\s\S]*?>>", corpus)
     embedded_fonts = sum(1 for fd in font_descriptors if re.search(r"/FontFile[23]?\b", fd))
     if len(font_descriptors) == 0:
@@ -127,11 +195,21 @@ def verify_pdf(pdf_path: pathlib.Path, require_h2: bool = True) -> list[str]:
             f"Unembedded font detected: {embedded_fonts} of {len(font_descriptors)} FontDescriptors embed `/FontFile*`."
         )
 
+    # Decorative CSS borders and `@page` running footers (`Page 1 of 2`) must be marked
+    # as `/Artifact` so screen readers don't read them aloud in the middle of sentences.
     artifact_count = len(re.findall(r"/Artifact\b", corpus))
     if artifact_count < 1:
         errors.append("Expected `/Artifact` marks on decorative rules/running footers, found 0.")
 
-    # 8. Accessible Hyperlink Annotations
+    # --------------------------------------------------------------------------
+    # CHECK 8: Accessible Hyperlink Annotations (`<Link>`, `/StructParent`, `/Contents`)
+    # --------------------------------------------------------------------------
+    # In PDF/UA-1, every clickable link rectangle (`/Subtype /Link`) must:
+    #   1. Pair with a `<Link>` (`/S /Link`) tag in the semantic structure tree.
+    #   2. Carry `/StructParent` pointing back to its parent tag-tree entry.
+    #   3. Carry a non-empty `/Contents (...)` description (injected by our `pydyf`
+    #      `finisher` in `build-resume.sh` / `build-cover-letter.sh`) so screen
+    #      readers announce a clear destination instead of raw punctuation.
     link_annots = re.findall(r"<<[\s\S]*?/Subtype\s*/Link[\s\S]*?>>\s*endobj", corpus)
     link_struct_count = len(re.findall(r"/S\s*/Link\b", corpus))
     if len(link_annots) > 0 and link_struct_count < 1:
@@ -144,6 +222,7 @@ def verify_pdf(pdf_path: pathlib.Path, require_h2: bool = True) -> list[str]:
         if not re.search(r"/Contents\s*\([^)]+\)", annot):
             errors.append(f"Link annotation #{idx} is missing non-empty `/Contents` accessible description.")
 
+    # Print a human-readable structural telemetry line for build logs.
     h_summary = ", ".join(f"H{k}={v}" for k, v in h_counts.items() if v > 0)
     li_count = len(re.findall(r"/S\s*/LI\b", corpus))
     print(
@@ -156,8 +235,11 @@ def verify_pdf(pdf_path: pathlib.Path, require_h2: bool = True) -> list[str]:
 
 def verify_docx(docx_path: pathlib.Path) -> list[str]:
     """
-    Audits a compiled Word `.docx` package for title/author/language metadata
-    and real `Heading1` semantic paragraph styles.
+    Audits a compiled Microsoft Word `.docx` file for Section 508 / Word Accessibility
+    Checker compliance by opening the `.docx` as a `.zip` archive in memory:
+      - `docProps/core.xml` must contain non-empty `<dc:title>` and `<dc:creator>`.
+      - `en-US` proofing language must be declared in `core.xml` or `word/styles.xml`.
+      - `word/document.xml` must use real `Heading1` paragraph styles (not just big bold text!).
     """
     errors: list[str] = []
     if not docx_path.is_file():
@@ -190,8 +272,17 @@ def verify_docx(docx_path: pathlib.Path) -> list[str]:
 
 
 def main() -> int:
+    """
+    CLI Entrypoint: parses optional `--cover-letter` flag, validates every `.pdf`
+    and `.docx` path passed on the command line, and returns POSIX exit codes:
+      - `0` : Every checked file passed 100% of Section 508 / PDF/UA-1 checks.
+      - `1` : One or more accessibility checks failed (halts build scripts!).
+      - `2` : Invalid command-line arguments.
+    """
     args = sys.argv[1:]
     require_h2 = True
+    # Cover letters are 1-page formal letters with an `<H1>` letterhead and `<P>`
+    # paragraphs (no `<H2>` sub-sections required), so `--cover-letter` relaxes `require_h2`.
     if "--cover-letter" in args:
         require_h2 = False
         args = [a for a in args if a != "--cover-letter"]
@@ -200,6 +291,8 @@ def main() -> int:
         print("Usage: verify-pdf-508.py [--cover-letter] <file.pdf> [file.docx ...]", file=sys.stderr)
         return 2
 
+    # Collect errors across ALL input files before exiting so the developer can see
+    # every failure in a single terminal run instead of playing whack-a-mole.
     all_errors: list[str] = []
     for raw_arg in args:
         path = pathlib.Path(raw_arg)
@@ -219,5 +312,7 @@ def main() -> int:
     return 0
 
 
+# Standard Python idiom: run `main()` only when executed directly as a script
+# (not if imported as a helper module by another Python test).
 if __name__ == "__main__":
     raise SystemExit(main())

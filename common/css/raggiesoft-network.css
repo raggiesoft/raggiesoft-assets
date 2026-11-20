@@ -1,23 +1,49 @@
 /**
  * @license MIT
  * ============================================================================
- * raggiesoft-network.css — Global Ecosystem Omnibar & WCAG 2.1 AA Safety Net
+ * READ-ALONG TEACHING OVERVIEW: raggiesoft-network.css
  * Hosted at: https://assets.raggiesoft.com/common/css/raggiesoft-network.css
  * ============================================================================
- * Architectural Purpose:
- * 1. Styles the omnidirectional RaggieSoft Ecosystem Network Bar (`.rs-network-bar`)
- *    on desktop viewports and unifies it into each property's single mobile
- *    hamburger menu (`.rs-mobile-network-section`) on mobile/tablet viewports.
- * 2. Enforces strict WCAG 2.1 AA / Section 508 color contrast ratios (>= 4.5:1
- *    for normal text, >= 3.0:1 for UI components) across both Light Mode and
- *    Dark Mode, specifically overriding low-contrast Bootstrap 5.3.8 defaults
- *    like `.text-warning` (#ffc107) and `.text-info` (#0dcaf0) on light surfaces.
- * 3. Enforces strict image and card containment (`.aero-card-img-container img`)
- *    so high-resolution 4K assets never spill out of cards.
- * 4. Styles the auto-expiring "Second Star to the Right" In Memoriam cosmic
- *    tribute ribbon (`.rs-memoriam-bar`) honoring Sir Patrick Stewart
- *    (July 13, 1940 – October 28, 2026), active across all RaggieSoft web
- *    properties through November 28, 2026 (`2026-11-28T23:59:59-05:00`).
+ * WHAT THIS FILE IS:
+ *   The cross-property ecosystem stylesheet paired with `raggiesoft-network.js`.
+ *   Even though RaggieSoft's 10 web properties use completely different frontend
+ *   stacks (PHP/DaisyUI, SvelteKit, Next.js/Tailwind, Astro, Nuxt/Vue, Bootstrap,
+ *   Web Awesome, Vanilla TS, and Angular), loading this single CSS file gives
+ *   every site an identical top RaggieSoft Network bar, unified mobile menu
+ *   switcher, seasonal/memorial top ribbons, and WCAG 2.1 AA contrast safety net.
+ *
+ * WHICH WEBSITES LOAD IT:
+ *   All RaggieSoft web properties (`raggiesoft.com`, `music.raggiesoft.com`,
+ *   `books.raggiesoft.com`, `lore.raggiesoft.com`, `nebulae.raggiesoft.com`,
+ *   `engineroom.raggiesoft.com`, `stardust.raggiesoft.com`, `corporate.raggiesoft.com`,
+ *   `storetrainer.raggiesoft.com`, `backstage.raggiesoft.com`, and `michaelpragsdale.com`).
+ *
+ * WHAT INPUTS IT CONSUMES:
+ *   1. DOM elements built or upgraded by `raggiesoft-network.js`:
+ *      - `.rs-memoriam-bar` (Sir Patrick Stewart 30-day cosmic tribute ribbon)
+ *      - `.rs-holiday-bar` & `.rs-snowfall-layer` (yearly Black Friday – Jan 1 season)
+ *      - `.rs-network-bar` & `.rs-network-dropdown` (desktop omnibar + 3 dropdowns)
+ *      - `.rs-mobile-network-section` & `.rs-mobile-submenu` (mobile 2-col grid + accordions)
+ *   2. Theme attributes (`data-bs-theme`, `data-theme`, `data-color-scheme`, `body.theme-*`)
+ *      and OS media queries (`prefers-color-scheme`, `prefers-reduced-motion`,
+ *      `forced-colors: active`, `hover: hover`, `display-mode: standalone`, `print`).
+ *
+ * WHAT VISIBLE UI IT PRODUCES:
+ *   - Top ecosystem switcher bar with accessible hover/click dropdown menus.
+ *   - Unified single-hamburger mobile navigation with iOS `100dvh` scroll safety.
+ *   - Compositor-only GPU snowfall (`translate3d` + `opacity`) with pause & reduced-motion support.
+ *   - Strict >= 4.5:1 WCAG 2.1 AA text/badge/button contrast across Light & Dark Mode.
+ *   - Automatic chrome hiding when installed as a native OS Progressive Web App (PWA) or printed.
+ *
+ * 100-LEVEL CSS CONCEPTS TAUGHT IN THIS FILE:
+ *   - Hover-Bridge Pseudo-Elements (`::before`): Fixing the invisible gap between
+ *     a dropdown button and its popup menu so moving the mouse diagonally doesn't close it!
+ *   - Capability Media Queries (`@media (hover: hover) and (pointer: fine)`):
+ *     Applying CSS `:hover` dropdowns ONLY on real mouse/trackpad devices, never touchscreens.
+ *   - Windows High Contrast Mode (`@media (forced-colors: active)`): Mapping custom
+ *     gradients to OS system color keywords (`Canvas`, `CanvasText`, `ButtonFace`, `ButtonText`).
+ *   - GPU Compositor Animations (`translate3d` + `contain: strict` + `animation-play-state`).
+ *   - Dynamic Viewport Height (`100dvh`) & iOS Safe-Area Insets (`env(safe-area-inset-*)`).
  * ============================================================================
  */
 
@@ -25,6 +51,10 @@
    0. Auto-Expiring "Second Star to the Right" In Memoriam Ribbon
       Honoring Sir Patrick Stewart (July 13, 1940 – October 28, 2026)
       Automatically injected by raggiesoft-network.js through 2026-11-28.
+   ==========================================================================
+   - Uses a deep starfield navy horizontal `linear-gradient` with a subtle warm
+     gold bottom border (`rgba(251, 191, 36, 0.45)`) and `z-index: 1054` (just
+     below `.rs-network-bar` at `1055` so open dropdown menus layer ABOVE the ribbon!).
    ========================================================================== */
 .rs-memoriam-bar {
   width: 100%;
@@ -38,6 +68,8 @@
   position: relative;
 }
 
+/* Slightly brighter royal-navy gradient when the host page is in Light Mode
+ * so the transition from dark cosmic ribbon to white page canvas feels balanced. */
 html[data-bs-theme="light"] .rs-memoriam-bar,
 html[data-theme="light"] .rs-memoriam-bar,
 html[data-color-scheme="light"] .rs-memoriam-bar {
@@ -46,6 +78,7 @@ html[data-color-scheme="light"] .rs-memoriam-bar {
   border-bottom: 1px solid #d97706 !important;
 }
 
+/* Centered `1360px` flex row pairing the tribute quote on the left with the CTA pill on the right. */
 .rs-memoriam-inner {
   max-width: 1360px;
   margin: 0 auto;
@@ -57,6 +90,7 @@ html[data-color-scheme="light"] .rs-memoriam-bar {
   gap: 0.4rem 1rem;
 }
 
+/* `text-wrap: pretty` prevents awkward single-word "orphan" lines at the end of the quote! */
 .rs-memoriam-text {
   margin: 0 !important;
   padding: 0 !important;
@@ -87,6 +121,7 @@ html[data-color-scheme="light"] .rs-memoriam-bar {
   color: #e2e8f0 !important;
 }
 
+/* Capsule-shaped (`border-radius: 999px`) "Read Creator's Tribute ->" pill button. */
 .rs-memoriam-link {
   display: inline-flex;
   align-items: center;
@@ -104,6 +139,7 @@ html[data-color-scheme="light"] .rs-memoriam-bar {
   transition: background-color 0.15s ease, color 0.15s ease, border-color 0.15s ease;
 }
 
+/* Invert to solid amber gold `#fbbf24` with near-black `#090d16` text (> 11:1 contrast) on hover/focus. */
 .rs-memoriam-link:hover,
 .rs-memoriam-link:focus-visible {
   background-color: #fbbf24 !important;
@@ -111,23 +147,27 @@ html[data-color-scheme="light"] .rs-memoriam-bar {
   border-color: #fbbf24 !important;
 }
 
+/* `:focus-visible` draws a bright sky-blue `3px` keyboard focus ring ONLY when navigating via keyboard (`Tab`). */
 .rs-memoriam-link:focus-visible {
   outline: 3px solid #38bdf8 !important;
   outline-offset: 2px !important;
 }
 
+/* Highlight in sky-blue when the visitor is currently reading `/in-memoriam`. */
 .rs-memoriam-link[aria-current="page"] {
   background-color: rgba(56, 189, 248, 0.2) !important;
   color: #7dd3fc !important;
   border-color: rgba(56, 189, 248, 0.65) !important;
 }
 
+/* Disable hover color fade transitions when OS "Reduce Motion" is turned on. */
 @media (prefers-reduced-motion: reduce) {
   .rs-memoriam-link {
     transition: none !important;
   }
 }
 
+/* Stack quote above CTA pill on phone viewports (< 768px). */
 @media (max-width: 767.98px) {
   .rs-memoriam-inner {
     flex-direction: column;
@@ -140,6 +180,9 @@ html[data-color-scheme="light"] .rs-memoriam-bar {
 /* ==========================================================================
    0B. Yearly Automatic Holiday Season Ribbon & Compositor Snowfall
        Active Black Friday (Nov 29 in 2026) through New Year's Day (packs away Jan 2)
+   ==========================================================================
+   Evergreen-to-cranberry gradient bar containing the "Winter Soundtrack" link
+   and accessible "Pause Snow / Play Snow" toggle button (`aria-pressed`).
    ========================================================================== */
 .rs-holiday-bar {
   width: 100%;
@@ -208,6 +251,7 @@ html[data-color-scheme="light"] .rs-holiday-bar {
   gap: 0.45rem;
 }
 
+/* Shared pill geometry for both the `<a>` soundtrack link and `<button>` snow toggle. */
 .rs-holiday-link,
 .rs-holiday-snow-btn {
   display: inline-flex;
@@ -258,6 +302,11 @@ html[data-color-scheme="light"] .rs-holiday-bar {
   outline-offset: 2px !important;
 }
 
+/* 100-Level Accessibility Lesson — Windows High Contrast Mode (`forced-colors: active`):
+ * Low-vision users on Windows can enable OS Contrast Themes that strip decorative
+ * background gradients. Using CSS System Color keywords (`Canvas`, `CanvasText`,
+ * `ButtonFace`, `ButtonText`) honors the user's exact OS contrast colors and hides
+ * decorative falling snow so text stays 100% crisp! */
 @media (forced-colors: active) {
   .rs-holiday-bar,
   .rs-memoriam-bar {
@@ -286,7 +335,13 @@ html[data-color-scheme="light"] .rs-holiday-bar {
   }
 }
 
-/* Compositor-Only Ambient Snowfall Overlay (translate3d + opacity only) */
+/* Compositor-Only Ambient Snowfall Overlay:
+ * - `pointer-events: none` ensures snowflakes NEVER intercept clicks, taps, or text selection!
+ * - `contain: strict` isolates layout/paint inside this fixed overlay so snowflakes
+ *   never trigger document-wide browser recalculations.
+ * - Each `.rs-snowflake` reads per-flake CSS variables (`--rs-flake-x`, `--rs-flake-size`,
+ *   `--rs-flake-dur`, `--rs-flake-delay`, `--rs-flake-drift`) set by `raggiesoft-network.js`,
+ *   animating ONLY `transform: translate3d(...)` and `opacity` on the GPU compositor thread! */
 .rs-snowfall-layer {
   position: fixed;
   inset: 0;
@@ -314,6 +369,8 @@ html[data-color-scheme="light"] .rs-holiday-bar {
   animation: rs-snow-fall var(--rs-flake-dur, 14s) linear var(--rs-flake-delay, 0s) infinite;
 }
 
+/* Add a faint ice-blue outer rim + cyan shadow in Light Mode so white snowflakes
+ * remain subtly visible against pure `#ffffff` page backgrounds. */
 html[data-bs-theme="light"] .rs-snowflake,
 html[data-theme="light"] .rs-snowflake,
 html[data-color-scheme="light"] .rs-snowflake,
@@ -322,6 +379,7 @@ html.light .rs-snowflake {
   box-shadow: 0 0 4px rgba(14, 116, 144, 0.35);
 }
 
+/* Gentle S-curve horizontal sway (`drift` -> `-0.6 * drift`) while falling from `-12vh` above top to `108vh` below bottom. */
 @keyframes rs-snow-fall {
   0% {
     transform: translate3d(0, -12vh, 0);
@@ -342,15 +400,19 @@ html.light .rs-snowflake {
   }
 }
 
+/* Hide snowfall when paused by the user (`html.rs-snow-paused`) or outside Holiday Season. */
 html.rs-snow-paused .rs-snowfall-layer,
 html:not(.rs-holiday-season) .rs-snowfall-layer {
   display: none !important;
 }
 
+/* Save laptop/phone battery by freezing GPU keyframes whenever this browser tab is in the background! */
 html.rs-tab-hidden .rs-snowflake {
   animation-play-state: paused !important;
 }
 
+/* Respect OS `prefers-reduced-motion: reduce` by default—UNLESS the user explicitly
+ * clicked "Play Snow" (`html.rs-snow-force-play`) to opt in manually! */
 @media (prefers-reduced-motion: reduce) {
   .rs-holiday-link,
   .rs-holiday-snow-btn {
@@ -366,6 +428,10 @@ html.rs-tab-hidden .rs-snowflake {
 
 /* ==========================================================================
    1. Omnidirectional RaggieSoft Network Bar (`.rs-network-bar`)
+   ==========================================================================
+   Top-of-viewport desktop bar (`z-index: 1055`) linking all 10 RaggieSoft
+   properties. Uses `!important` on core typography and colors so host-site
+   global `ul`/`li`/`a` resets (Tailwind, Bootstrap, Nuxt, DaisyUI) never alter it.
    ========================================================================== */
 .rs-network-bar {
   width: 100%;
@@ -387,6 +453,7 @@ html[data-color-scheme="light"] .rs-network-bar {
   border-bottom: 1px solid #1e293b !important;
 }
 
+/* Flex container aligning the left `"RAGGIESOFT NETWORK"` badge with the right link list. */
 .rs-network-bar-inner,
 .rs-network-bar > div {
   max-width: 1360px;
@@ -413,6 +480,7 @@ html[data-color-scheme="light"] .rs-network-bar {
   white-space: nowrap;
 }
 
+/* Horizontal list of top-level property links & dropdown triggers (excluding nested dropdown menus). */
 .rs-network-links,
 .rs-network-bar > div > ul:not(.rs-network-dropdown-menu) {
   display: flex;
@@ -450,6 +518,7 @@ html[data-color-scheme="light"] .rs-network-bar {
   border-color: rgba(56, 189, 248, 0.55) !important;
 }
 
+/* Highlights whichever RaggieSoft subdomain the user is currently visiting (`aria-current="page"`). */
 .rs-network-links > li > a[aria-current="page"],
 .rs-network-links > li > a.is-active,
 .rs-network-bar > div > ul > li > a[aria-current="page"],
@@ -460,6 +529,7 @@ html[data-color-scheme="light"] .rs-network-bar {
   font-weight: 700;
 }
 
+/* Special warm-gold pill inside `.rs-network-links` during the 30-day In Memoriam window. */
 .rs-network-links > li > a.rs-network-memoriam-pill,
 .rs-network-bar > div > ul > li > a.rs-network-memoriam-pill {
   background-color: rgba(251, 191, 36, 0.14) !important;
@@ -477,7 +547,12 @@ html[data-color-scheme="light"] .rs-network-bar {
   border-color: #fbbf24 !important;
 }
 
-/* Engine Room Band Roster Dropdown Menu (`.rs-network-dropdown`) */
+/* --------------------------------------------------------------------------
+ * Multi-Dropdown Menus (`Ocean View`, `Engine Room`, `Portfolio & Resume`)
+ * --------------------------------------------------------------------------
+ * CRITICAL: `overflow: visible !important` prevents any parent bar wrapper from
+ * clipping the `position: absolute` popup `.rs-network-dropdown-menu`!
+ * -------------------------------------------------------------------------- */
 .rs-network-bar,
 .rs-network-bar-inner,
 .rs-network-links,
@@ -525,6 +600,7 @@ html[data-color-scheme="light"] .rs-network-bar {
   font-weight: 700;
 }
 
+/* Downward `▾` arrow caret that flips `180deg` upside-down when `.is-open` is active. */
 .rs-network-caret {
   font-size: 0.65rem;
   opacity: 0.85;
@@ -535,6 +611,7 @@ html[data-color-scheme="light"] .rs-network-bar {
   transform: rotate(180deg);
 }
 
+/* Floating popup menu (`display: none` until `.is-open` or fine-pointer `:hover`). */
 .rs-network-bar .rs-network-dropdown-menu,
 .rs-network-dropdown-menu {
   display: none;
@@ -553,7 +630,11 @@ html[data-color-scheme="light"] .rs-network-bar {
   z-index: 2000;
 }
 
-/* Invisible hover bridge eliminating the dead-zone gap between toggle button and menu */
+/* 100-Level UI Polish Trick — The Invisible Hover Bridge (`::before`):
+ * Notice `.rs-network-dropdown-menu` sits `0.2rem` below the toggle button (`top: calc(100% + 0.2rem)`).
+ * Without a bridge, moving your mouse cursor across that `0.2rem` air gap leaves
+ * `:hover` for a split second and snaps the menu shut! This transparent `::before`
+ * pseudo-element spans `-0.65rem` upward across the gap so `:hover` stays unbroken. */
 .rs-network-dropdown-menu::before {
   content: "";
   position: absolute;
@@ -564,6 +645,8 @@ html[data-color-scheme="light"] .rs-network-bar {
   background: transparent;
 }
 
+/* Right-align the rightmost (`Portfolio & Resume`) dropdown menu on desktop (`left: auto; right: 0`)
+ * so a `250px`-wide menu near the right edge of the window never overflows off-screen! */
 @media (min-width: 768px) {
   .rs-network-bar .rs-network-dropdown:last-child > .rs-network-dropdown-menu,
   .rs-network-bar .rs-network-dropdown[data-rs-dropdown="portfolio"] > .rs-network-dropdown-menu,
@@ -574,11 +657,15 @@ html[data-color-scheme="light"] .rs-network-bar {
   }
 }
 
+/* Show dropdown when JS sets `.is-open` (via click, pointerover, or keyboard). */
 .rs-network-bar .rs-network-dropdown.is-open > .rs-network-dropdown-menu,
 .rs-network-dropdown.is-open > .rs-network-dropdown-menu {
   display: block !important;
 }
 
+/* Pure-CSS instant hover fallback gated behind `(hover: hover) and (pointer: fine)`
+ * so mouse/trackpad users get zero-latency hover menus while iOS/Android touchscreens
+ * aren't trapped by "sticky hover" states! */
 @media (hover: hover) and (pointer: fine) {
   .rs-network-bar .rs-network-dropdown:hover > .rs-network-dropdown-menu,
   .rs-network-dropdown:hover > .rs-network-dropdown-menu {
@@ -640,18 +727,29 @@ html[data-color-scheme="light"] .rs-network-bar {
 
 /* ==========================================================================
    1B. Mobile Single-Hamburger Unification, Scroll Containment & 2-Column Grid
+   ==========================================================================
+   Why hide `.rs-network-bar` on mobile when a site has `#primary-navigation`
+   (<= 1120px) or `#header-navigation-panel` / `#navbarCollapse` / `#music-mobile-navigation`
+   (< 768px)? Because stacking TWO hamburger menus at the top of a phone screen
+   is confusing! Instead, `raggiesoft-network.js` injects `.rs-mobile-network-section`
+   directly INSIDE the site's own mobile drawer, and these rules hide the top bar
+   at the exact same pixel breakpoint where the mobile drawer activates.
    ========================================================================== */
 
-/* Hide top `.rs-network-bar` on mobile when the property has a native hamburger menu */
+/* Group A (`<= 1120px`): Properties whose native hamburger activates at 1120px.
+ * Uses modern CSS `body:has(#primary-navigation)` for zero-flash instant hiding before JS runs,
+ * paired with `body.rs-has-primary-nav` added by JS for older browsers. */
 @media (max-width: 1120px) {
   body:has(#primary-navigation) .rs-network-bar,
   body.rs-has-primary-nav .rs-network-bar {
     display: none !important;
   }
 
-  /* CRITICAL iOS/Mobile Fix: Constrain open mobile menus inside sticky headers
-     to the dynamic viewport height (100dvh) with internal touch scrolling and
-     safe-area bottom padding so links at the bottom are NEVER clipped off-screen. */
+  /* CRITICAL iOS/Mobile Fix: A `position: sticky` header doesn't scroll with `<body>`,
+     so if an open mobile menu inside `<header>` is taller than the phone screen, its
+     bottom links get clipped off-screen forever! Capping `max-height` to `100dvh`
+     (dynamic viewport height minus header & iOS notch `safe-area-inset-top`) with
+     `overflow-y: auto` and `overscroll-behavior: contain` makes the menu scroll cleanly! */
   #primary-navigation {
     max-height: calc(100vh - 4.5rem) !important;
     max-height: calc(100dvh - 4.5rem - env(safe-area-inset-top, 0px)) !important;
@@ -663,13 +761,14 @@ html[data-color-scheme="light"] .rs-network-bar {
   }
 }
 
+/* Group B (`< 768px`): Properties whose native hamburger activates at 768px (`md`). */
 @media (max-width: 767.98px) {
   body:has(#header-navigation-panel, #navbarCollapse, #music-mobile-navigation) .rs-network-bar,
   body.rs-has-md-nav .rs-network-bar {
     display: none !important;
   }
 
-  /* CRITICAL iOS/Mobile Fix for 768px-breakpoint hamburger containers */
+  /* Same `100dvh` + `safe-area-inset-*` scroll containment for 768px hamburger drawers. */
   #header-navigation-panel,
   #navbarCollapse,
   #music-mobile-navigation,
@@ -684,7 +783,9 @@ html[data-color-scheme="light"] .rs-network-bar {
   }
 }
 
-/* Injected `.rs-mobile-network-section` inside each site's existing hamburger menu */
+/* Injected `.rs-mobile-network-section` inside each site's existing hamburger menu.
+ * Hidden (`display: none`) on desktop widths; revealed only when viewport crosses
+ * the container's `data-rs-breakpoint` (`"1120"`, `"768"`, or `"always"` in `#stardust-sidebar`). */
 .rs-mobile-network-section {
   display: none;
   width: 100%;
@@ -720,6 +821,7 @@ html[data-color-scheme="light"] .rs-network-bar {
   margin-bottom: 0.5rem;
 }
 
+/* Switch gold `#fbbf24` section header to dark bronze `#854d0e` (6.8:1 contrast) on light/sepia mobile drawers! */
 html[data-bs-theme="light"] .rs-mobile-network-title,
 html[data-theme="light"] .rs-mobile-network-title,
 html[data-color-scheme="light"] .rs-mobile-network-title,
@@ -734,6 +836,10 @@ body.theme-sepia .rs-mobile-network-title {
   }
 }
 
+/* Balanced 2-column CSS Grid (`repeat(2, minmax(0, 1fr))`):
+ * Why `minmax(0, 1fr)` instead of `1fr 1fr`? In CSS Grid, `1fr` has an implicit
+ * minimum size of `auto`, so a long label can stretch column 1 wider than 50%!
+ * `minmax(0, 1fr)` allows each column to shrink cleanly so `text-overflow: ellipsis` works. */
 .rs-mobile-network-grid {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -750,6 +856,7 @@ body.theme-sepia .rs-mobile-network-title {
   padding: 0;
 }
 
+/* Touch-friendly `min-height: 38px` property switcher cards. */
 .rs-mobile-network-link {
   display: flex !important;
   align-items: center;
@@ -782,6 +889,7 @@ body.theme-sepia .rs-mobile-network-title {
   color: #38bdf8 !important;
 }
 
+/* Light & Sepia Mode overrides for mobile switcher cards (`#0f172a` slate text on `#f1f5f9` pill). */
 html[data-bs-theme="light"] .rs-mobile-network-link,
 html[data-theme="light"] .rs-mobile-network-link,
 html[data-color-scheme="light"] .rs-mobile-network-link,
@@ -825,13 +933,19 @@ html[data-color-scheme="light"] .rs-mobile-network-link[aria-current="page"] {
   font-size: 0.9rem;
 }
 
+/* Single-line truncation (`...`) if a label is wider than a narrow phone grid cell. */
 .rs-mobile-network-text {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
 }
 
-/* Collapsible Mobile Sub-Menu Accordions (`<div class="rs-mobile-submenu"><button ...>`) */
+/* --------------------------------------------------------------------------
+ * Collapsible Mobile Sub-Menu Accordions (`.rs-mobile-submenu`)
+ * --------------------------------------------------------------------------
+ * Controlled by `<button class="rs-mobile-submenu-summary" aria-expanded="false|true">`
+ * toggling `hidden` on `.rs-mobile-submenu-body` in `raggiesoft-network.js`.
+ * -------------------------------------------------------------------------- */
 .rs-mobile-submenus {
   display: flex;
   flex-direction: column;
@@ -882,6 +996,7 @@ html[data-color-scheme="light"] .rs-mobile-network-link[aria-current="page"] {
   transition: transform 0.15s ease;
 }
 
+/* Rotate accordion caret 180deg whenever open via `[open]`, `.is-open`, or `aria-expanded="true"`. */
 .rs-mobile-submenu[open] .rs-mobile-submenu-caret,
 .rs-mobile-submenu.is-open .rs-mobile-submenu-caret,
 .rs-mobile-submenu-summary[aria-expanded="true"] .rs-mobile-submenu-caret {
@@ -893,6 +1008,7 @@ html[data-color-scheme="light"] .rs-mobile-network-link[aria-current="page"] {
   border-top: 1px solid rgba(148, 163, 184, 0.2);
 }
 
+/* Enforce `[hidden]` even if a host CSS reset sets `div { display: block }`. */
 .rs-mobile-submenu-body[hidden] {
   display: none !important;
 }
@@ -924,7 +1040,14 @@ body.theme-sepia .rs-mobile-submenu-summary {
   }
 }
 
-/* Standalone Network Bar Hamburger (for books.raggiesoft.com & lore.raggiesoft.com on mobile) */
+/* --------------------------------------------------------------------------
+ * Group C: Standalone Network Bar Hamburger (`books.raggiesoft.com` & `lore.raggiesoft.com`)
+ * --------------------------------------------------------------------------
+ * Properties without a traditional top Bootstrap/DaisyUI navbar keep `.rs-network-bar`
+ * visible on mobile and collapse its link list behind `.rs-network-mobile-toggle`.
+ * When `.is-open` is toggled on `< 768px`, `.rs-network-links` expands into a
+ * 2-column grid, and any expanded dropdown spans full width (`grid-column: 1 / -1`)!
+ * -------------------------------------------------------------------------- */
 .rs-network-mobile-toggle {
   display: none;
   align-items: center;
@@ -989,6 +1112,10 @@ body.theme-sepia .rs-mobile-submenu-summary {
 
 /* ==========================================================================
    2. Universal Card & Image Containment (Prevents 4K Asset Spillover)
+   ==========================================================================
+   Locks `.aero-card-img-container` to `220px` tall with `object-fit: cover`
+   and `object-position: top center` (anchoring character heads/shoulders in
+   portrait/scene art rather than cropping foreheads off!).
    ========================================================================== */
 .aero-card-img-container {
   width: 100%;
@@ -1019,6 +1146,13 @@ body.theme-sepia .rs-mobile-submenu-summary {
 
 /* ==========================================================================
    3. Strict WCAG 2.1 AA Color Contrast Overrides (Light Mode & Dark Mode)
+   ==========================================================================
+   Why this section is critical:
+   Default Bootstrap 5 `.text-warning` (`#ffc107` yellow) on a white `#ffffff`
+   background only achieves `1.6:1` contrast—nearly invisible to low-vision users
+   and failing WCAG 2.1 AA (`4.5:1` required)! Here we override semantic text,
+   outline button, and badge colors in both Dark Mode and Light Mode to hit
+   verified >= 5.1:1 to 8.4:1 contrast ratios across the entire network.
    ========================================================================== */
 
 /* --- Dark Mode High-Contrast Utility Overrides (Contrast >= 7.0:1 on #070a14/#10172a) --- */
@@ -1065,7 +1199,11 @@ html[data-bs-theme="light"] .text-body-secondary {
   color: #334155 !important; /* 8.4:1 on white */
 }
 
-/* --- Light & Dark Mode `.btn-outline-light` & `.btn-ghost` Normalization --- */
+/* --- Light & Dark Mode `.btn-outline-light` & `.btn-ghost` Normalization ---
+ * Notice the `:not([data-bs-theme="dark"] *):not(.memoriam-hero *):not(.bg-dark *):not(.bg-black *)`
+ * guard on Light Mode `.btn-outline-light`: if a Light Mode page puts `.btn-outline-light`
+ * on a white surface, it switches to dark slate text `#0f172a` so it doesn't vanish
+ * white-on-white—EXCEPT inside dark hero banners (`.bg-dark`, `.memoriam-hero`) where white stays right! */
 html[data-bs-theme="dark"] .btn-outline-light,
 html[data-theme="dark"] .btn-outline-light,
 [data-bs-theme="dark"] .btn-outline-light,
@@ -1112,7 +1250,9 @@ html[data-bs-theme="light"] .btn-outline-warning {
   border-color: #854d0e !important;
 }
 
-/* --- Badge Background & Foreground Contrast Safety --- */
+/* --- Badge Background & Foreground Contrast Safety ---
+ * Bright amber `#f59e0b` and sky `#38bdf8` backgrounds ALWAYS pair with dark
+ * `#0f172a` text (never white text, which would drop below 3:1 contrast!). */
 .badge.bg-warning,
 .badge.text-bg-warning,
 .btn-warning {
@@ -1126,7 +1266,10 @@ html[data-bs-theme="light"] .btn-outline-warning {
   color: #0f172a !important;
 }
 
-/* --- Restore Bright Accents Inside Explicitly Dark Containers in Light Mode --- */
+/* --- Restore Bright Accents Inside Explicitly Dark Containers in Light Mode ---
+ * Even when `html[data-bs-theme="light"]` is active, terminal cards (`.terminal-card`),
+ * `.bg-dark` sections, and HUD callouts have dark surfaces—so `.text-warning`,
+ * `.text-info`, and `.text-muted` inside them switch back to bright Dark Mode tones! */
 html[data-bs-theme="light"] .bg-dark .text-warning,
 html[data-bs-theme="light"] .bg-black .text-warning,
 html[data-bs-theme="light"] .terminal-card .text-warning,
@@ -1156,6 +1299,7 @@ html[data-bs-theme="light"] .terminal-card .text-muted {
   color: #cbd5e1 !important;
 }
 
+/* Hide navigation chrome, ribbons, and snowfall when printing a page or saving to PDF (`Cmd+P` / `Ctrl+P`). */
 @media print {
   .rs-memoriam-bar,
   .rs-holiday-bar,
@@ -1170,10 +1314,10 @@ html[data-bs-theme="light"] .terminal-card .text-muted {
    4. Native PWA Immersion Mode (Standalone / Window-Controls-Overlay)
    ==========================================================================
    When RaggieSoft Book Reader (books.raggiesoft.com), The Listening Room
-   (music.raggiesoft.com), or any other RaggieSoft property is running as an
-   installed OS Progressive Web App, hide the cross-site RaggieSoft Network
-   Menu (.rs-network-bar and .rs-mobile-network-section) so native app
-   immersion is preserved.
+   (music.raggiesoft.com), or any other RaggieSoft property is installed to a
+   user's Dock / Taskbar / Home Screen as a Progressive Web App, CSS
+   `@media (display-mode: standalone)` matches automatically and hides the
+   cross-site browser network bar & ribbons so the app feels 100% native!
    ========================================================================== */
 @media (display-mode: standalone),
        (display-mode: window-controls-overlay),
@@ -1197,4 +1341,3 @@ body.is-pwa-standalone .rs-network-bar,
 body.is-pwa-standalone .rs-mobile-network-section {
   display: none !important;
 }
-

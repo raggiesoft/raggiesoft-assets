@@ -1,38 +1,46 @@
 /* ==========================================================================
- * ARCHITECTURAL OVERVIEW: theme-night.css
+ * PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (100-LEVEL JAVASCRIPT / WEB INTRO)
  * ==========================================================================
- * Night Theme for Stardust Engine (Source File)
- * Provides a crisp starlight slate palette with full Light Mode and Dark Mode
- * support:
- *   - Standalone `body.theme-night` (when no explicit Light/Sepia/Auto class is
- *     active) or Dark Mode (`theme-dark`, `theme-dark-sepia`, or `theme-auto`
- *     under `prefers-color-scheme: dark`) renders deep GitHub-Dark starlight.
- *   - Explicit Light/Sepia (`theme-light`, `theme-sepia`) or `theme-auto` /
- *     `theme-sepia-system` under `prefers-color-scheme: light` renders cool
- *     moonlit-silver daylight vellum so light-mode users never suffer dark
- *     canvas inversions.
+ * File: library/css/src/theme-night.css
+ * Compiled Into:
+ *   - `library/css/stardust-engine.min.css` (bundled global engine CSS)
+ *   - `library/css/theme-night.min.css`     (standalone theme file)
+ *
+ * WHAT IS THIS FILE?
+ *   Some sci-fi / nocturnal routes configure `"theme": "night"`, which puts
+ *   `class="theme-night"` on `<body>` alongside the user's personal reading
+ *   preference class (`theme-auto`, `theme-light`, `theme-sepia`, `theme-dark`,
+ *   `theme-dark-sepia`, or `theme-sepia-system`).
+ *
+ * HOW DO COMPOUND CLASS SELECTORS (`body.theme-light.theme-night`) WORK?
+ *   In CSS, writing two classes with NO space between them (`.theme-light.theme-night`)
+ *   means "match `<body>` ONLY when BOTH classes are present at the same time!"
+ *   That lets `theme-night` give Dark Mode users a crisp GitHub-Dark starlight
+ *   palette (`#0d1117`), while STILL respecting a reader who explicitly asked
+ *   for Light Mode (`#f4f7fb` moonlit silver) or Sepia Mode (`#f4ecd8`)—so
+ *   no narrative route ever hijacks a reader's accessibility preference!
  * ========================================================================== */
 
-/* 1. Default Night Palette (Standalone & Explicit Dark Mode) */
+/* 1. Default Night Palette (Standalone `theme-night` & Explicit Dark Mode `theme-dark.theme-night`) */
 body.theme-night,
 body.theme-dark.theme-night {
     color-scheme: dark;
-    --rs-bg: #0d1117;
+    --rs-bg: #0d1117;         /* Deep starlight midnight canvas */
     --rs-bg-alt: #131922;
     --rs-surface: #161b22;
     --rs-card-bg: #161b22;
-    --rs-text: #d4dce4;       /* 12.49:1 on #161b22 */
-    --rs-text-muted: #9aa4b2; /* 6.86:1 on #161b22 */
-    --rs-heading: #f0f6fc;    /* 15.89:1 on #161b22 */
-    --rs-primary: #58a6ff;    /* 6.85:1 on #161b22 */
-    --rs-on-primary: #090d16; /* 7.69:1 on #58a6ff */
-    --rs-secondary: #79c0ff;  /* 8.89:1 on #161b22 */
+    --rs-text: #d4dce4;       /* 12.49:1 AAA on #161b22 */
+    --rs-text-muted: #9aa4b2; /* 6.86:1 AA on #161b22 */
+    --rs-heading: #f0f6fc;    /* 15.89:1 AAA on #161b22 */
+    --rs-primary: #58a6ff;    /* Starlight sapphire accent (6.85:1 AA on #161b22) */
+    --rs-on-primary: #090d16; /* 7.69:1 AAA dark ink on #58a6ff */
+    --rs-secondary: #79c0ff;  /* 8.89:1 AAA on #161b22 */
     --rs-border: #30363d;
     --rs-asl: #4ade80;
     --rs-gesture: #c4b5fd;
 }
 
-/* 2. Warm Dark Sepia Support */
+/* 2. Warm Dark Sepia Support (`theme-dark-sepia` + `theme-sepia-system` in OS Dark Mode) */
 body.theme-dark-sepia.theme-night {
     color-scheme: dark;
     --rs-bg: #1f1b16;
@@ -69,25 +77,25 @@ body.theme-dark-sepia.theme-night {
     }
 }
 
-/* 3. Explicit Light Mode Support */
+/* 3. Explicit Light Mode Support (`theme-light` overrides Night to cool moonlit-silver daylight) */
 body.theme-light.theme-night {
     color-scheme: light;
     --rs-bg: #f4f7fb;
     --rs-bg-alt: #e8eef6;
     --rs-surface: #ffffff;
     --rs-card-bg: #ffffff;
-    --rs-text: #1b2430;       /* 13.85:1 on #e8eef6 */
-    --rs-text-muted: #475569; /* 6.45:1 on #e8eef6 */
-    --rs-heading: #0d1117;    /* 16.45:1 on #e8eef6 */
-    --rs-primary: #0550ae;    /* 6.76:1 on #e8eef6, 7.89:1 on #ffffff */
-    --rs-on-primary: #ffffff; /* 7.89:1 on #0550ae */
-    --rs-secondary: #1e40af;  /* 7.82:1 on #e8eef6 */
+    --rs-text: #1b2430;       /* 13.85:1 AAA on #e8eef6 */
+    --rs-text-muted: #475569; /* 6.45:1 AA on #e8eef6 */
+    --rs-heading: #0d1117;    /* 16.45:1 AAA on #e8eef6 */
+    --rs-primary: #0550ae;    /* 6.76:1 AA on #e8eef6, 7.89:1 AAA on #ffffff */
+    --rs-on-primary: #ffffff; /* 7.89:1 AAA on #0550ae */
+    --rs-secondary: #1e40af;  /* 7.82:1 AAA on #e8eef6 */
     --rs-border: #cbd5e1;
-    --rs-asl: #166534;        /* 6.14:1 on #e8eef6 */
+    --rs-asl: #166534;        /* 6.14:1 AA on #e8eef6 */
     --rs-gesture: #4338ca;
 }
 
-/* 4. Explicit Sepia Mode Support */
+/* 4. Explicit Sepia Mode Support (`theme-sepia` preserves warm archival parchment) */
 body.theme-sepia.theme-night {
     color-scheme: light;
     --rs-bg: #f4ecd8;
@@ -105,6 +113,7 @@ body.theme-sepia.theme-night {
     --rs-gesture: #5b21b6;
 }
 
+/* 5. OS Light Mode Auto-Switching (`theme-auto` and `theme-sepia-system` when OS is Light) */
 @media (prefers-color-scheme: light) {
     body.theme-auto.theme-night {
         color-scheme: light;
@@ -141,7 +150,7 @@ body.theme-sepia.theme-night {
     }
 }
 
-/* 3. Specific Component Tweaks */
+/* 6. Night-Theme Display Title & Link Accents */
 body.theme-night .ova-title {
     font-family: 'Playfair Display', serif, system-ui;
     text-transform: uppercase;

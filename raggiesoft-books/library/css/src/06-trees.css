@@ -1,36 +1,37 @@
-/**
+/* ============================================================================
+ * PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (100-LEVEL JAVASCRIPT / WEB INTRO)
  * ============================================================================
- * COMPONENT: 06-trees.css (Stardust Engine Library - Core SRC)
- * CONTEXT: UI Components / Expandable Tree Views
+ * File: library/css/src/06-trees.css
+ * Compiled Into: `raggiesoft-assets/raggiesoft-books/library/css/stardust-engine.min.css`
  *
- * PURPOSE:
- * Provides a lightweight, CSS-only replacement for WebAwesome's `<wa-tree>`
- * web component. Utilizes native HTML `<details>` and `<summary>` elements
- * to create hierarchical, collapsible tree menus without requiring JavaScript.
+ * WHAT IS THIS FILE?
+ *   Styles collapsible Table of Contents trees (`.rs-tree`, such as Era ->
+ *   Chapter -> Part lists in `sophia/sidebar.php`) using **100% pure HTML & CSS
+ *   with ZERO JavaScript!**
  *
- * ARCHITECTURAL ROLE:
- * Part of the Stardust Engine's core modular CSS pipeline. It strips default
- * browser UI (like the WebKit details marker arrow) and replaces it with
- * custom flexbox layouts and hardware-accelerated icon rotations.
- *
- * KEY COMPONENTS:
- * - Native Semantic Overrides: Hides `::-webkit-details-marker` and sets
- *   `list-style: none` to create a blank canvas for custom UI.
- * - Icon Rotation State: Targets Phosphor icons (`i`) inside the summary when
- *   the parent `.rs-tree` has the `[open]` attribute, rotating them 90 degrees.
- * - Hierarchy Spacing: Indents `.rs-tree-content` to visually denote child nodes.
- *
- * MAINTENANCE NOTES:
- * - This component relies on the native `[open]` attribute toggled by the
- *   browser when a user clicks a `<details>` element. Do not write JavaScript
- *   event listeners to toggle this class.
- * ============================================================================
- */
+ * HOW DO `<details>` AND `<summary>` WORK WITHOUT JAVASCRIPT?
+ *   HTML5 includes a built-in disclosure widget:
+ *     ```html
+ *     <details class="rs-tree">
+ *       <summary><i class="ph ph-caret-right"></i> Era 1: Beginnings</summary>
+ *       <div class="rs-tree-content">...child links...</div>
+ *     </details>
+ *     ```
+ *   Whenever the user clicks `<summary>` (or presses `Enter` / `Space` on their
+ *   keyboard!), the browser natively toggles the `open` HTML attribute on `<details>`
+ *   and updates screen-reader `expanded` / `collapsed` state automatically!
+ *   All CSS has to do is hide the browser's plain default triangle and rotate our
+ *   Phosphor caret icon `90deg` whenever `.rs-tree[open]` is present!
+ * ============================================================================ */
+
+/* Outer `<details class="rs-tree">` wrapper */
 .rs-tree {
     margin-bottom: 0.5rem;
 }
+
+/* Clickable `<summary>` row: `list-style: none` removes standard Firefox/Chrome disclosure triangle */
 .rs-tree summary {
-    list-style: none; /* Hide default arrow */
+    list-style: none;
     cursor: pointer;
     padding: 0.5rem;
     border-radius: 4px;
@@ -39,16 +40,24 @@
     gap: 0.5rem;
     font-weight: 600;
 }
+
+/* Removes Safari/WebKit's default disclosure triangle pseudo-element */
 .rs-tree summary::-webkit-details-marker {
     display: none;
 }
+
+/* Subtle hover highlight using the active theme's `--rs-border` tint */
 .rs-tree summary:hover {
     background: var(--rs-border);
 }
-/* We will use Phosphor icons inside the summary and rotate them via CSS when [open] */
+
+/* Attribute selector `[open]`: when `<details class="rs-tree" open>` is expanded,
+   rotate the Phosphor right-caret icon (`<i>`) 90 degrees clockwise so it points down! */
 .rs-tree[open] > summary i {
     transform: rotate(90deg);
 }
+
+/* Indent nested child items (`1.5rem`) to show visual parent -> child hierarchy */
 .rs-tree-content {
     padding-left: 1.5rem;
     margin-top: 0.25rem;

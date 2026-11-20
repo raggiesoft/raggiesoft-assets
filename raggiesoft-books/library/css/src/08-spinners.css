@@ -1,17 +1,24 @@
-/**
+/* ============================================================================
+ * PLAIN-ENGLISH OVERVIEW FOR NEW DEVELOPERS (100-LEVEL JAVASCRIPT / WEB INTRO)
  * ============================================================================
- * COMPONENT: 08-spinners.css (Stardust Engine Library - Core SRC)
- * CONTEXT: UI Components / Loading States
+ * File: library/css/src/08-spinners.css
+ * Compiled Into: `raggiesoft-assets/raggiesoft-books/library/css/stardust-engine.min.css`
  *
- * PURPOSE:
- * Provides a lightweight, pure CSS loading spinner designed to replace `<wa-spinner>`.
+ * WHAT IS THIS FILE?
+ *   Creates a lightweight, zero-image circular loading indicator (`.rs-spinner`)
+ *   using a classic 4-line CSS trick:
+ *     1. Give a `1.5rem x 1.5rem` square `border-radius: 50%` to turn it into a circle.
+ *     2. Draw a `3px` subtle border all the way around (`border: 3px solid var(--rs-border)`).
+ *     3. Color ONLY the top quarter-arc with the brand accent (`border-top-color: var(--rs-primary)`).
+ *     4. Rotate the circle `0deg -> 360deg` continuously on the GPU (`@keyframes rs-spin`)!
  *
- * ACCESSIBILITY NOTES:
- * - Uses `--rs-border` for the track and `--rs-primary` for the active arc.
- * - Respects `@media (prefers-reduced-motion: reduce)` by slowing rotation to
- *   a gentle non-vestibular pulse/step indicator.
- * ============================================================================
- */
+ * VESTIBULAR ACCESSIBILITY (`prefers-reduced-motion: reduce`):
+ *   Fast spinning animations can trigger motion sickness or vertigo for users with
+ *   vestibular disorders. When the OS "Reduce Motion" setting is enabled, we slow
+ *   the rotation down 3x (`3s` per revolution) so loading progress is still clear
+ *   without rapid visual motion.
+ * ============================================================================ */
+
 .rs-spinner {
     display: inline-block;
     width: 1.5rem;

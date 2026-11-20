@@ -1,35 +1,50 @@
 /**
  * ============================================================================
- * FILE: theme-default.css (Stardust Engine)
+ * FILE: theme-default.css (Stardust Engine Reading Surface Palettes)
  * ============================================================================
- * ARCHITECTURAL OVERVIEW:
- * Defines the core reading themes for the Stardust Engine's document reader. 
- * It establishes minimal, independent CSS Custom Properties (`--rs-*`) specifically 
- * for article readability, isolated from the broader framework or site UI.
- * 
- * DESIGN SYSTEM INTEGRATION:
- * - These variables are scoped to the `html` element when specific `reader-*` 
- *   classes are toggled by the Stardust Reader JS component.
- * - Provides Light, Dark, and Sepia modes focused strictly on typographic contrast.
- * 
- * FUTURE MAINTENANCE:
- * - The `--rs-*` prefix stands for "Reader Surface" (or "Raggiesoft Surface"). 
- *   Do not mix these with `--bs-*` framework variables to ensure the reader 
- *   remains portable and independent of the parent site's Bootstrap theme.
+ * PLAIN-ENGLISH OVERVIEW (READ THIS FIRST):
+ * What is this file?
+ *   This tiny stylesheet defines three long-form reading color palettes—Light,
+ *   Dark, and Sepia—using CSS Custom Properties ("CSS variables").
+ *
+ * Why does this file exist?
+ *   Long chapters are tiring to read on harsh backgrounds. By storing surface
+ *   and text colors in three `--rs-*` variables (`--rs-bg`, `--rs-bg-alt`, and
+ *   `--rs-text`), switching the entire reading pane from bright daylight white
+ *   to warm book-paper sepia only requires changing ONE class name on `<html>`.
+ *
+ * How does it connect to JavaScript and other CSS?
+ *   1. `window.setReaderTheme('sepia')` in `raggiesoft-ui.js` adds the class
+ *      `reader-sepia` onto the root `<html>` tag (`<html class="reader-sepia">`).
+ *   2. Every component in `raggiesoft-ui.css` reads `var(--rs-bg)` and
+ *      `var(--rs-text)` and updates its colors automatically!
+ *   3. The `--rs-*` prefix ("Reader Surface") intentionally stays separate from
+ *      Bootstrap's `--bs-*` variables so the reading pane remains portable.
  * ============================================================================
  */
 
-/* Reading Themes - Managed by the Stardust Reader JS via HTML classes */
+/* 1. DAYLIGHT MODE (`<html class="reader-light">`):
+      Crisp white page surface (`#ffffff`), subtle off-white card/callout surface
+      (`#f8f9fa`), and dark charcoal ink (`#212529` — WCAG AAA >15:1 contrast). */
 html.reader-light {
     --rs-bg: #ffffff;
     --rs-bg-alt: #f8f9fa;
     --rs-text: #212529;
 }
+
+/* 2. LOW-GLARE DARK MODE (`<html class="reader-dark">`):
+      Uses deep charcoal (`#121212`) and soft off-white ink (`#e0e0e0`) instead of
+      pure `#000000` / `#ffffff` to prevent "halation" (glowing text blur for
+      readers with astigmatism or light sensitivity) while maintaining WCAG AAA contrast. */
 html.reader-dark {
     --rs-bg: #121212;
     --rs-bg-alt: #1e1e1e;
     --rs-text: #e0e0e0;
 }
+
+/* 3. WARM PAPER SEPIA MODE (`<html class="reader-sepia">`):
+      Mimics cream novel paper (`#f4ecd8`) paired with warm espresso-brown ink
+      (`#5b4636`) to reduce blue-light eye strain during long reading sessions. */
 html.reader-sepia {
     --rs-bg: #f4ecd8;
     --rs-bg-alt: #e8dcc4;
