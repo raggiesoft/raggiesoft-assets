@@ -38,6 +38,7 @@ Design, build, and maintain an independent software development and digital publ
 * **PLE & Canvas LMS Web Engineering:** Audited source HTML and CSS across ODU Online's custom Personal Learning Environment (PLE) and **Canvas LMS** course modules during university-wide LMS migration, refactoring legacy visual-only markup into semantic HTML5 (`<th scope="col/row">`, landmarks, explicit form labels).
 * **Code-Level WCAG 2.1 AA & Section 508 Web Testing:** Performed source-level web accessibility evaluations combining automated DOM scanners (**Deque axe**, WAVE) with manual keyboard navigation/focus checks and screen-reader testing (**JAWS**, **NVDA**, **VoiceOver**) to resolve heading hierarchy, contrast, and WAI-ARIA issues.
 * **Reusable Accessible HTML/CSS Templates:** Engineered zero-dependency, WCAG 2.1 AA and Revised Section 508 web-compliant HTML5 and CSS course module templates still used by instructional designers and faculty across university distance-learning courses.
+* **Self-Initiated QA Automation (`C# / .NET`):** Independently developed a Windows desktop batch utility (**C# / .NET 5** and **VB.NET**, packaged with **Inno Setup**) to queue course accessibility scans from CSV schedules with rate-limited throttling and export semantic HTML5 (`<th scope="row">`) status logs.
 
 ### Mobile Applications Developer Intern
 **Dominion Enterprises | Norfolk, VA | Sep 2012 – Dec 2012**
