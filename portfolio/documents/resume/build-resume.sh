@@ -36,8 +36,8 @@ fi
 
 MD_FILE="${1:-mragsdale-resume.md}"
 BASENAME="$(basename "$MD_FILE" .md)"
-OUTPUT_DIR="$(cd ../../../../_resume/resumes 2>/dev/null && pwd || echo "$(pwd)/../../../../_resume/resumes")"
-PORTAL_PROFILE="$(cd ../../../../_resume 2>/dev/null && pwd || echo "$(pwd)/../../../../_resume")/portal-contact-profile.md"
+OUTPUT_DIR="$(cd ../../../../../_resume/resumes 2>/dev/null && pwd || echo "$(pwd)/../../../../../_resume/resumes")"
+PORTAL_PROFILE="$(cd ../../../../../_resume 2>/dev/null && pwd || echo "$(pwd)/../../../../../_resume")/portal-contact-profile.md"
 mkdir -p "$OUTPUT_DIR"
 
 DOC_TITLE="Michael P. Ragsdale — Full-Stack Web Developer & Web Accessibility Engineer (Resume)"

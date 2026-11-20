@@ -18,7 +18,7 @@ if [ -z "$MD_FILE" ]; then
 fi
 
 BASENAME="$(basename "$MD_FILE" .md)"
-OUTPUT_DIR="$(cd ../../../../_resume/cover-letters 2>/dev/null && pwd || echo "$(pwd)/../../../../_resume/cover-letters")"
+OUTPUT_DIR="$(cd ../../../../../_resume/cover-letters 2>/dev/null && pwd || echo "$(pwd)/../../../../../_resume/cover-letters")"
 mkdir -p "$OUTPUT_DIR"
 
 PDF_FILE="$OUTPUT_DIR/${BASENAME}.pdf"
