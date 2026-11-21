@@ -335,6 +335,7 @@
     { id: 'corporate', href: 'https://corporate.raggiesoft.com', host: 'corporate.raggiesoft.com', icon: '🏢', label: 'Corporate Media' },
     { id: 'storetrainer', href: 'https://storetrainer.raggiesoft.com', host: 'storetrainer.raggiesoft.com', icon: '💾', label: 'StoreTrainer' },
     { id: 'waystation', href: 'https://waystation.raggiesoft.com', host: 'waystation.raggiesoft.com', icon: '🔮', label: 'The Waystation' },
+    { id: 'jessica', href: 'https://jessica.raggiesoft.com', host: 'jessica.raggiesoft.com', icon: '🛡️', label: 'Jessica (Host)' },
     { id: 'portfolio', href: 'https://michaelpragsdale.com', host: 'michaelpragsdale.com', icon: '👔', label: 'Portfolio & Resume' }
   ];
 
@@ -973,11 +974,15 @@
     var isCorporateActive = currentHost === 'corporate.raggiesoft.com';
     var isStoreTrainerActive = currentHost === 'storetrainer.raggiesoft.com';
     var isWaystationActive = currentHost === 'waystation.raggiesoft.com';
+    var isJessicaActive = currentHost === 'jessica.raggiesoft.com';
 
     var links = [
       '<li><a href="https://raggiesoft.com"' +
         (isHubActive ? ' aria-current="page" class="is-active"' : '') +
         ' data-no-spa="true">🌐 Hub</a></li>',
+      '<li><a href="https://jessica.raggiesoft.com"' +
+        (isJessicaActive ? ' aria-current="page" class="is-active"' : '') +
+        ' data-no-spa="true">🛡️ Jessica</a></li>',
       '<li><a href="https://nebulae.raggiesoft.com"' +
         (isNebulaeActive ? ' aria-current="page" class="is-active"' : '') +
         ' data-no-spa="true">🌌 Nebulae</a></li>',
@@ -1849,6 +1854,7 @@
               'https://crossroads.raggiesoft.com',
               'https://cedarrun.raggiesoft.com',
               'https://waystation.raggiesoft.com',
+              'https://jessica.raggiesoft.com',
               'https://lore.raggiesoft.com',
               'https://backstage.raggiesoft.com',
               'https://music.raggiesoft.com',
@@ -1885,6 +1891,7 @@
               { '@type': 'WebPage', name: 'RaggieSoft Story Crossroads Imprint', url: 'https://crossroads.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'Cedar Run (Story Crossroads Wilderness Launchpad)', url: 'https://cedarrun.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'The Uncharted Waystation (RaggieSoft Universe Map)', url: 'https://waystation.raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'Jessica — Keeper of the House (RaggieSoft Studio Guide)', url: 'https://jessica.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'Escape Velocity: Ad Astra Book Series', url: 'https://books.raggiesoft.com/ad-astra' },
               { '@type': 'WebPage', name: 'RaggieSoft Lore Graph', url: 'https://lore.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'RaggieSoft Backstage', url: 'https://backstage.raggiesoft.com/' },
