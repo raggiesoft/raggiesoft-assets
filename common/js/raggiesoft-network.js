@@ -6,23 +6,29 @@
  * ============================================================================
  * WHAT THIS FILE IS:
  *   The universal cross-site navigation, accessibility, and seasonal-ribbon
- *   engine shared across all 10 RaggieSoft web properties. Because RaggieSoft's
+ *   engine shared across all 14 RaggieSoft web properties. Because RaggieSoft's
  *   websites are intentionally built on diverse tech stacks (PHP + DaisyUI,
- *   SvelteKit, Next.js + React, Astro, Nuxt + Vue, Bootstrap, Web Awesome,
- *   Vanilla TypeScript, and Zoneless Angular), they cannot share a React or Vue
+ *   SvelteKit + Svelte 5, Next.js + React, Astro, Nuxt + Vue, Bootstrap,
+ *   Web Awesome Pro, SolidJS, Eleventy v3 + Lit 3, Mithril.js, Vanilla
+ *   TypeScript, and Zoneless Angular), they cannot share a single framework
  *   component directly. Instead, every property loads this single zero-dependency
  *   Vanilla JavaScript file, which upgrades the DOM consistently everywhere!
  *
- * WHICH WEBSITES LOAD IT (ALL 10 ECOSYSTEM PROPERTIES):
+ * WHICH WEBSITES LOAD IT (ALL 14 ECOSYSTEM PROPERTIES):
  *   1. raggiesoft.com (Hub)
  *   2. nebulae.raggiesoft.com (Nebulae Atlas)
  *   3. books.raggiesoft.com (Ocean View Archives + Literary Universes Menu)
- *      └── Flagship Literary Universes:
+ *      └── Flagship Literary Universes & Imprints:
+ *          • RaggieSoft Story Crossroads (crossroads.raggiesoft.com)
+ *          • Cedar Run (cedarrun.raggiesoft.com & books.raggiesoft.com/cedar-run)
  *          • Escape Velocity (Ad Astra) (books.raggiesoft.com/ad-astra)
  *          • Contemporary Fiction (books.raggiesoft.com/library)
  *          • Project: KNOX (books.raggiesoft.com/knox)
  *          • The Silver Gauntlet of Aethel (books.raggiesoft.com/aethel-saga)
- *   4. engineroom.raggiesoft.com (Engine Room Records + Band Roster Menu)
+ *   4. crossroads.raggiesoft.com (RaggieSoft Story Crossroads Imprint)
+ *   5. cedarrun.raggiesoft.com (Cedar Run — Pacific Northwest Wilderness Guide)
+ *   6. backstage.raggiesoft.com (RaggieSoft Backstage — Bonus Features & Dossiers)
+ *   7. engineroom.raggiesoft.com (Engine Room Records + Band Roster Menu)
  *      └── Alphabetical Band Roster (A–Z):
  *          • Crimson Node (engineroom.raggiesoft.com/artists/crimson-node)
  *          • Firelight (engineroom.raggiesoft.com/artists/firelight)
@@ -31,12 +37,13 @@
  *          • The Arctic Symphony Project (engineroom.raggiesoft.com/artists/the-arctic-symphony-project)
  *          • The Paper Wall (engineroom.raggiesoft.com/artists/the-paper-wall)
  *          • The Stardust Engine (stardust.raggiesoft.com)
- *   5. music.raggiesoft.com (The Listening Room)
- *   6. stardust.raggiesoft.com (The Stardust Engine)
- *   7. lore.raggiesoft.com (Lore Archive)
- *   8. corporate.raggiesoft.com (RaggieSoft Media)
- *   9. storetrainer.raggiesoft.com (RaggieSoft StoreTrainer)
- *  10. michaelpragsdale.com (Engineering Portfolio, Resume PDF & CI/CD Suite Menu)
+ *   8. music.raggiesoft.com (The Listening Room)
+ *   9. stardust.raggiesoft.com (The Stardust Engine)
+ *  10. lore.raggiesoft.com (Lore Encyclopedia)
+ *  11. corporate.raggiesoft.com (RaggieSoft Media)
+ *  12. storetrainer.raggiesoft.com (RaggieSoft StoreTrainer)
+ *  13. waystation.raggiesoft.com (The Uncharted Waystation & Universe Compass)
+ *  14. michaelpragsdale.com (Engineering Portfolio, Resume PDF & CI/CD Suite Menu)
  *      └── Build & Deployment Scripts (/build-team):
  *          • Workstation Bootstrap — brooke.sh (michaelpragsdale.com/build-team/michael)
  *          • Content & Search Compiler — paige.php (michaelpragsdale.com/build-team/paige)
@@ -314,13 +321,14 @@
   }
 
   /**
-   * Top-level RaggieSoft properties for the Mobile Network Switcher (5x2 balanced grid).
+   * Top-level RaggieSoft properties for the Mobile Network Switcher (6x2 balanced 12-item grid).
    */
   var NETWORK_SITES = [
     { id: 'hub', href: 'https://raggiesoft.com', host: 'raggiesoft.com', icon: '🌐', label: 'RaggieSoft Hub' },
     { id: 'nebulae', href: 'https://nebulae.raggiesoft.com', host: 'nebulae.raggiesoft.com', icon: '🌌', label: 'Nebulae Atlas' },
     { id: 'books', href: 'https://books.raggiesoft.com', host: 'books.raggiesoft.com', icon: '📚', label: 'Ocean View Archives' },
-    { id: 'cedarrun', href: 'https://cedarrun.raggiesoft.com', host: 'cedarrun.raggiesoft.com', icon: '🌲', label: 'Cedar Run (Crossroads)' },
+    { id: 'crossroads', href: 'https://crossroads.raggiesoft.com', host: 'crossroads.raggiesoft.com', icon: '🧭', label: 'Story Crossroads' },
+    { id: 'cedarrun', href: 'https://cedarrun.raggiesoft.com', host: 'cedarrun.raggiesoft.com', icon: '🌲', label: 'Cedar Run' },
     { id: 'backstage', href: 'https://backstage.raggiesoft.com', host: 'backstage.raggiesoft.com', icon: '🎬', label: 'RaggieSoft Backstage' },
     { id: 'music', href: 'https://music.raggiesoft.com', host: 'music.raggiesoft.com', icon: '🎧', label: 'The Listening Room' },
     { id: 'engineroom', href: 'https://engineroom.raggiesoft.com', host: 'engineroom.raggiesoft.com', icon: '⚙️', label: 'Engine Room' },
@@ -331,7 +339,7 @@
   ];
 
   /**
-   * Ocean View Archives & Story Crossroads Literary Universes (`books.raggiesoft.com` & `cedarrun.raggiesoft.com`).
+   * Ocean View Archives, Story Crossroads & Lore Universes (`books.raggiesoft.com`, `crossroads`, `cedarrun`, `lore`).
    */
   var OCEAN_VIEW_ITEMS = [
     {
@@ -375,6 +383,13 @@
       href: 'https://books.raggiesoft.com/aethel-saga',
       pathPrefix: '/aethel',
       icon: '⚔️'
+    },
+    {
+      id: 'lore-archive',
+      name: 'RaggieSoft Lore Encyclopedia',
+      href: 'https://lore.raggiesoft.com',
+      pathPrefix: '/',
+      icon: '📖'
     }
   ];
 
@@ -525,6 +540,9 @@
     if (item.id === 'story-crossroads') {
       return currentHost === 'crossroads.raggiesoft.com';
     }
+    if (item.id === 'lore-archive') {
+      return currentHost === 'lore.raggiesoft.com';
+    }
     if (item.id === 'cedar-run') {
       return (
         currentHost === 'cedarrun.raggiesoft.com' ||
@@ -637,7 +655,8 @@
     var style = document.createElement('style');
     style.id = 'rs-network-core-css';
     style.textContent = [
-      '.rs-network-bar { position: relative; z-index: 1055 !important; overflow: visible !important; background-color: #060913 !important; color: #f8fafc !important; border-bottom: 1px solid rgba(148, 163, 184, 0.35) !important; }',
+      '[slot="banner"], .bs-banner-slot { display: flex !important; flex-direction: column !important; align-items: stretch !important; width: 100% !important; max-width: 100% !important; position: relative !important; z-index: 1060 !important; overflow: visible !important; }',
+      '.rs-network-bar { display: block !important; width: 100% !important; max-width: 100% !important; box-sizing: border-box !important; flex: 0 0 100% !important; position: relative; z-index: 1055 !important; overflow: visible !important; background-color: #060913 !important; color: #f8fafc !important; border-bottom: 1px solid rgba(148, 163, 184, 0.35) !important; }',
       'html[data-bs-theme="light"] .rs-network-bar, html[data-theme="light"] .rs-network-bar, html[data-color-scheme="light"] .rs-network-bar { background-color: #0b1120 !important; color: #f8fafc !important; border-bottom: 1px solid #1e293b !important; }',
       '.rs-network-bar-inner, .rs-network-links, .rs-network-bar > div, .rs-network-bar > div > ul { overflow: visible !important; }',
       '.rs-network-label, .rs-network-bar > div > span:first-child { color: #fbbf24 !important; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; font-weight: 700; font-size: 0.7rem; text-transform: uppercase; letter-spacing: 0.06em; }',
@@ -685,7 +704,7 @@
       '@media (max-width: 1120px) { body.rs-has-primary-nav .rs-network-bar { display: none !important; } .rs-mobile-network-section[data-rs-breakpoint="1120"] { display: block !important; } #primary-navigation { max-height: calc(100vh - 4.5rem) !important; max-height: calc(100dvh - 4.5rem - env(safe-area-inset-top, 0px)) !important; overflow-y: auto !important; overflow-x: hidden !important; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; padding-bottom: calc(3.25rem + env(safe-area-inset-bottom, 0px)) !important; } }',
       '@media (max-width: 767.98px) { body.rs-has-md-nav .rs-network-bar { display: none !important; } .rs-mobile-network-section[data-rs-breakpoint="768"] { display: block !important; } #header-navigation-panel, #navbarCollapse, #music-mobile-navigation, .rs-standalone-network-bar.is-open .rs-network-links { max-height: calc(100vh - 4.5rem) !important; max-height: calc(100dvh - 4.5rem - env(safe-area-inset-top, 0px)) !important; overflow-y: auto !important; overflow-x: hidden !important; -webkit-overflow-scrolling: touch; overscroll-behavior: contain; padding-bottom: calc(3.25rem + env(safe-area-inset-bottom, 0px)) !important; } .rs-standalone-network-bar { position: sticky !important; top: 0 !important; z-index: 1055 !important; } .rs-standalone-network-bar .rs-network-mobile-toggle { display: inline-flex !important; } .rs-standalone-network-bar .rs-network-links { display: none !important; width: 100%; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 0.4rem; padding-top: 0.5rem; margin-top: 0.35rem; border-top: 1px solid rgba(148, 163, 184, 0.28); } .rs-standalone-network-bar.is-open .rs-network-links { display: grid !important; } .rs-standalone-network-bar .rs-network-links > li > a, .rs-standalone-network-bar .rs-network-dropdown-toggle { width: 100% !important; min-height: 38px; padding: 0.4rem 0.6rem !important; background-color: rgba(30, 41, 59, 0.75) !important; border-color: rgba(148, 163, 184, 0.3) !important; justify-content: flex-start; } .rs-standalone-network-bar .rs-network-dropdown { display: flex !important; flex-direction: column; align-items: stretch; } .rs-standalone-network-bar .rs-network-dropdown.is-open { grid-column: 1 / -1; } .rs-standalone-network-bar .rs-network-dropdown-menu { position: static !important; width: 100% !important; margin-top: 0.35rem !important; box-shadow: none !important; } }',
       '.rs-mobile-network-section[data-rs-breakpoint="always"] { display: block !important; }',
-      '.rs-memoriam-bar { width: 100%; background: linear-gradient(90deg, #040711 0%, #0b132b 50%, #040711 100%) !important; color: #f8fafc !important; border-bottom: 1px solid rgba(251, 191, 36, 0.45) !important; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 0.78rem; line-height: 1.45; z-index: 1054; position: relative; }',
+      '.rs-memoriam-bar { display: block !important; width: 100% !important; max-width: 100% !important; box-sizing: border-box !important; flex: 0 0 100% !important; background: linear-gradient(90deg, #040711 0%, #0b132b 50%, #040711 100%) !important; color: #f8fafc !important; border-bottom: 1px solid rgba(251, 191, 36, 0.45) !important; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 0.78rem; line-height: 1.45; z-index: 1054; position: relative; }',
       'html[data-bs-theme="light"] .rs-memoriam-bar, html[data-theme="light"] .rs-memoriam-bar, html[data-color-scheme="light"] .rs-memoriam-bar { background: linear-gradient(90deg, #0b1120 0%, #172554 50%, #0b1120 100%) !important; color: #f8fafc !important; border-bottom: 1px solid #d97706 !important; }',
       '.rs-memoriam-inner { max-width: 1360px; margin: 0 auto; padding: 0.42rem 1rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.4rem 1rem; }',
       '.rs-memoriam-text { margin: 0 !important; padding: 0 !important; color: #f1f5f9 !important; font-size: 0.78rem; line-height: 1.45; text-wrap: pretty; }',
@@ -697,7 +716,7 @@
       '.rs-memoriam-link:hover, .rs-memoriam-link:focus-visible { background-color: #fbbf24 !important; color: #090d16 !important; border-color: #fbbf24 !important; }',
       '.rs-memoriam-link:focus-visible { outline: 3px solid #38bdf8 !important; outline-offset: 2px !important; }',
       '@media (max-width: 767.98px) { .rs-memoriam-inner { flex-direction: column; align-items: flex-start; gap: 0.35rem; padding: 0.5rem 0.85rem; } }',
-      '.rs-holiday-bar { width: 100%; background: linear-gradient(90deg, #071e16 0%, #143d2b 35%, #4a121b 72%, #071e16 100%) !important; color: #f8fafc !important; border-bottom: 1px solid rgba(251, 191, 36, 0.55) !important; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 0.78rem; line-height: 1.45; z-index: 1054; position: relative; }',
+      '.rs-holiday-bar { display: block !important; width: 100% !important; max-width: 100% !important; box-sizing: border-box !important; flex: 0 0 100% !important; background: linear-gradient(90deg, #071e16 0%, #143d2b 35%, #4a121b 72%, #071e16 100%) !important; color: #f8fafc !important; border-bottom: 1px solid rgba(251, 191, 36, 0.55) !important; font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; font-size: 0.78rem; line-height: 1.45; z-index: 1054; position: relative; }',
       'html[data-bs-theme="light"] .rs-holiday-bar, html[data-theme="light"] .rs-holiday-bar, html[data-color-scheme="light"] .rs-holiday-bar, html.light .rs-holiday-bar { background: linear-gradient(90deg, #0b291e 0%, #164e35 38%, #5c1622 75%, #0b291e 100%) !important; color: #f8fafc !important; border-bottom: 1px solid #b45309 !important; }',
       '.rs-holiday-inner { max-width: 1360px; margin: 0 auto; padding: 0.42rem 1rem; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 0.45rem 1rem; }',
       '.rs-holiday-text { margin: 0 !important; padding: 0 !important; color: #f8fafc !important; font-size: 0.78rem; line-height: 1.45; text-wrap: pretty; }',
@@ -753,7 +772,8 @@
       currentHost === 'books.raggiesoft.com' ||
       currentHost === 'crossroads.raggiesoft.com' ||
       currentHost === 'cedarrun.raggiesoft.com' ||
-      currentHost === 'backstage.raggiesoft.com';
+      currentHost === 'backstage.raggiesoft.com' ||
+      currentHost === 'lore.raggiesoft.com';
     var isImprintHomeActive =
       currentHost === 'books.raggiesoft.com' &&
       (currentPath === '/' || currentPath === '/home');
@@ -952,6 +972,7 @@
     var isNebulaeActive = currentHost === 'nebulae.raggiesoft.com';
     var isCorporateActive = currentHost === 'corporate.raggiesoft.com';
     var isStoreTrainerActive = currentHost === 'storetrainer.raggiesoft.com';
+    var isWaystationActive = currentHost === 'waystation.raggiesoft.com';
 
     var links = [
       '<li><a href="https://raggiesoft.com"' +
@@ -968,6 +989,9 @@
       '<li><a href="https://storetrainer.raggiesoft.com"' +
         (isStoreTrainerActive ? ' aria-current="page" class="is-active"' : '') +
         ' data-no-spa="true">💾 StoreTrainer</a></li>',
+      '<li><a href="https://waystation.raggiesoft.com"' +
+        (isWaystationActive ? ' aria-current="page" class="is-active"' : '') +
+        ' data-no-spa="true">🔮 Waystation</a></li>',
       buildPortfolioDropdownLiHtml(currentHost, currentPath)
     ];
 
@@ -1162,6 +1186,25 @@
 
     var bar = document.querySelector('.rs-network-bar');
     if (!bar) return;
+
+    /* Web Component Shadow-Slot Escape Guard (`<wa-page>`):
+     * If `.rs-network-bar` was placed inside `<div slot="banner">` inside `<wa-page>`,
+     * `<wa-page>`'s `[part="banner"]` flex container splits `.rs-network-bar` and
+     * `.rs-memoriam-bar` side-by-side AND traps open dropdown menus underneath
+     * `<wa-page>`'s sticky `[part="header"]` stacking context! Hoisting `.rs-network-bar`
+     * directly before `<wa-page>` in `<body>` heals even cached HTML pages instantly. */
+    if (typeof bar.closest === 'function') {
+      var bannerSlot = bar.closest('[slot="banner"], .bs-banner-slot');
+      var waPageHost = bannerSlot ? bannerSlot.closest('wa-page') : null;
+      if (waPageHost && waPageHost.parentNode) {
+        waPageHost.style.position = 'relative';
+        waPageHost.style.zIndex = '1';
+        waPageHost.parentNode.insertBefore(bar, waPageHost);
+        if (bannerSlot.children.length === 0 && bannerSlot.parentNode) {
+          bannerSlot.parentNode.removeChild(bannerSlot);
+        }
+      }
+    }
 
     var innerDiv = bar.querySelector('.rs-network-bar-inner') || bar.querySelector(':scope > div');
     if (innerDiv && !innerDiv.classList.contains('rs-network-bar-inner')) {

@@ -6,17 +6,19 @@
  * ============================================================================
  * WHAT THIS FILE IS:
  *   The cross-property ecosystem stylesheet paired with `raggiesoft-network.js`.
- *   Even though RaggieSoft's 10 web properties use completely different frontend
+ *   Even though RaggieSoft's 14 web properties use completely different frontend
  *   stacks (PHP/DaisyUI, SvelteKit, Next.js/Tailwind, Astro, Nuxt/Vue, Bootstrap,
- *   Web Awesome, Vanilla TS, and Angular), loading this single CSS file gives
- *   every site an identical top RaggieSoft Network bar, unified mobile menu
- *   switcher, seasonal/memorial top ribbons, and WCAG 2.1 AA contrast safety net.
+ *   Web Awesome Pro, SolidJS, Eleventy/Lit, Mithril.js, Vanilla TS, and Angular),
+ *   loading this single CSS file gives every site an identical top RaggieSoft
+ *   Network bar, unified mobile menu switcher, seasonal/memorial top ribbons,
+ *   and WCAG 2.1 AA contrast safety net.
  *
  * WHICH WEBSITES LOAD IT:
- *   All RaggieSoft web properties (`raggiesoft.com`, `music.raggiesoft.com`,
- *   `books.raggiesoft.com`, `lore.raggiesoft.com`, `nebulae.raggiesoft.com`,
+ *   All 14 RaggieSoft web properties (`raggiesoft.com`, `music.raggiesoft.com`,
+ *   `books.raggiesoft.com`, `crossroads.raggiesoft.com`, `cedarrun.raggiesoft.com`,
+ *   `backstage.raggiesoft.com`, `lore.raggiesoft.com`, `nebulae.raggiesoft.com`,
  *   `engineroom.raggiesoft.com`, `stardust.raggiesoft.com`, `corporate.raggiesoft.com`,
- *   `storetrainer.raggiesoft.com`, `backstage.raggiesoft.com`, and `michaelpragsdale.com`).
+ *   `storetrainer.raggiesoft.com`, `waystation.raggiesoft.com`, and `michaelpragsdale.com`).
  *
  * WHAT INPUTS IT CONSUMES:
  *   1. DOM elements built or upgraded by `raggiesoft-network.js`:
@@ -56,8 +58,28 @@
      gold bottom border (`rgba(251, 191, 36, 0.45)`) and `z-index: 1054` (just
      below `.rs-network-bar` at `1055` so open dropdown menus layer ABOVE the ribbon!).
    ========================================================================== */
+/* Defense-in-depth for Web Component `<wa-page slot="banner">` wrappers:
+ * Forces vertical column stacking (`flex-direction: column`) and elevated stacking
+ * context (`z-index: 1060`) so `.rs-network-bar` and `.rs-memoriam-bar` never split
+ * 50/50 side-by-side or trap dropdown menus behind sticky headers. */
+[slot="banner"],
+.bs-banner-slot {
+  display: flex !important;
+  flex-direction: column !important;
+  align-items: stretch !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  position: relative !important;
+  z-index: 1060 !important;
+  overflow: visible !important;
+}
+
 .rs-memoriam-bar {
-  width: 100%;
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+  flex: 0 0 100% !important;
   background: linear-gradient(90deg, #040711 0%, #0b132b 50%, #040711 100%) !important;
   color: #f8fafc !important;
   border-bottom: 1px solid rgba(251, 191, 36, 0.45) !important;
@@ -185,7 +207,11 @@ html[data-color-scheme="light"] .rs-memoriam-bar {
    and accessible "Pause Snow / Play Snow" toggle button (`aria-pressed`).
    ========================================================================== */
 .rs-holiday-bar {
-  width: 100%;
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+  flex: 0 0 100% !important;
   background: linear-gradient(90deg, #062217 0%, #0f3926 52%, #4c0d19 100%) !important;
   color: #f8fafc !important;
   border-bottom: 1px solid rgba(251, 191, 36, 0.5) !important;
@@ -434,7 +460,11 @@ html.rs-tab-hidden .rs-snowflake {
    global `ul`/`li`/`a` resets (Tailwind, Bootstrap, Nuxt, DaisyUI) never alter it.
    ========================================================================== */
 .rs-network-bar {
-  width: 100%;
+  display: block !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+  flex: 0 0 100% !important;
   background-color: #060913 !important;
   color: #f8fafc !important;
   border-bottom: 1px solid rgba(148, 163, 184, 0.35) !important;
