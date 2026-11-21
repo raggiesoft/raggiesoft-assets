@@ -326,6 +326,7 @@
   var NETWORK_SITES = [
     { id: 'hub', href: 'https://raggiesoft.com', host: 'raggiesoft.com', icon: '🌐', label: 'RaggieSoft Hub' },
     { id: 'launcher', href: 'https://launcher.raggiesoft.com', host: 'launcher.raggiesoft.com', icon: '🚀', label: 'Desktop Launcher' },
+    { id: 'a11y', href: 'https://a11y.raggiesoft.com', host: 'a11y.raggiesoft.com', icon: '♿', label: 'A11y Studio' },
     { id: 'nebulae', href: 'https://nebulae.raggiesoft.com', host: 'nebulae.raggiesoft.com', icon: '🌌', label: 'Nebulae Atlas' },
     { id: 'books', href: 'https://books.raggiesoft.com', host: 'books.raggiesoft.com', icon: '📚', label: 'Ocean View Archives' },
     { id: 'crossroads', href: 'https://crossroads.raggiesoft.com', host: 'crossroads.raggiesoft.com', icon: '🧭', label: 'Story Crossroads' },
@@ -973,6 +974,7 @@
     var isHubActive = currentHost === 'raggiesoft.com' && currentPath !== '/in-memoriam' && currentPath !== '/about/in-memoriam';
     var isMemoriamPage = currentHost === 'raggiesoft.com' && (currentPath === '/in-memoriam' || currentPath === '/about/in-memoriam');
     var isLauncherActive = currentHost === 'launcher.raggiesoft.com';
+    var isA11yStudioActive = currentHost === 'a11y.raggiesoft.com';
     var isNebulaeActive = currentHost === 'nebulae.raggiesoft.com';
     var isCorporateActive = currentHost === 'corporate.raggiesoft.com';
     var isStoreTrainerActive = currentHost === 'storetrainer.raggiesoft.com';
@@ -986,6 +988,9 @@
       '<li><a href="https://launcher.raggiesoft.com"' +
         (isLauncherActive ? ' aria-current="page" class="is-active"' : '') +
         ' data-no-spa="true">🚀 Launcher</a></li>',
+      '<li><a href="https://a11y.raggiesoft.com"' +
+        (isA11yStudioActive ? ' aria-current="page" class="is-active"' : '') +
+        ' data-no-spa="true">♿ A11y Studio</a></li>',
       '<li><a href="https://jessica.raggiesoft.com"' +
         (isJessicaActive ? ' aria-current="page" class="is-active"' : '') +
         ' data-no-spa="true">🛡️ Jessica</a></li>',
@@ -1856,6 +1861,7 @@
             sameAs: [
               'https://raggiesoft.com',
               'https://launcher.raggiesoft.com',
+              'https://a11y.raggiesoft.com',
               'https://nebulae.raggiesoft.com',
               'https://books.raggiesoft.com',
               'https://crossroads.raggiesoft.com',
@@ -1893,6 +1899,7 @@
             hasPart: [
               { '@type': 'WebPage', name: 'RaggieSoft Hub', url: 'https://raggiesoft.com/' },
               { '@type': 'WebPage', name: 'RaggieSoft Launcher (Desktop App Hub)', url: 'https://launcher.raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'RaggieSoft Accessibility Studio', url: 'https://a11y.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'In Memoriam: Sir Patrick Stewart', url: 'https://raggiesoft.com/in-memoriam' },
               { '@type': 'WebPage', name: 'RaggieSoft Nebulae (Caelum-IV Survey)', url: 'https://nebulae.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'RaggieSoft Book Reader (Ocean View Archives)', url: 'https://books.raggiesoft.com/' },
