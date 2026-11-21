@@ -314,12 +314,13 @@
   }
 
   /**
-   * Top-level RaggieSoft properties for the Mobile Network Switcher (4x2 balanced grid).
+   * Top-level RaggieSoft properties for the Mobile Network Switcher (5x2 balanced grid).
    */
   var NETWORK_SITES = [
     { id: 'hub', href: 'https://raggiesoft.com', host: 'raggiesoft.com', icon: '🌐', label: 'RaggieSoft Hub' },
     { id: 'nebulae', href: 'https://nebulae.raggiesoft.com', host: 'nebulae.raggiesoft.com', icon: '🌌', label: 'Nebulae Atlas' },
     { id: 'books', href: 'https://books.raggiesoft.com', host: 'books.raggiesoft.com', icon: '📚', label: 'Ocean View Archives' },
+    { id: 'cedarrun', href: 'https://cedarrun.raggiesoft.com', host: 'cedarrun.raggiesoft.com', icon: '🌲', label: 'Cedar Run (Crossroads)' },
     { id: 'backstage', href: 'https://backstage.raggiesoft.com', host: 'backstage.raggiesoft.com', icon: '🎬', label: 'RaggieSoft Backstage' },
     { id: 'music', href: 'https://music.raggiesoft.com', host: 'music.raggiesoft.com', icon: '🎧', label: 'The Listening Room' },
     { id: 'engineroom', href: 'https://engineroom.raggiesoft.com', host: 'engineroom.raggiesoft.com', icon: '⚙️', label: 'Engine Room' },
@@ -329,9 +330,16 @@
   ];
 
   /**
-   * Ocean View Archives Flagship Literary Universes (`books.raggiesoft.com`).
+   * Ocean View Archives & Story Crossroads Literary Universes (`books.raggiesoft.com` & `cedarrun.raggiesoft.com`).
    */
   var OCEAN_VIEW_ITEMS = [
+    {
+      id: 'cedar-run',
+      name: 'Cedar Run (Story Crossroads)',
+      href: 'https://cedarrun.raggiesoft.com',
+      pathPrefix: '/cedar-run',
+      icon: '🌲'
+    },
     {
       id: 'ad-astra',
       name: 'Escape Velocity (Ad Astra)',
@@ -504,8 +512,15 @@
     );
   }
 
-  /* Checks whether the visitor is inside one of Ocean View Archives' 4 flagship literary universes. */
+  /* Checks whether the visitor is inside one of Ocean View Archives' or Story Crossroads' flagship literary universes. */
   function isOceanViewItemActive(item, currentHost, currentPath) {
+    if (item.id === 'cedar-run') {
+      return (
+        currentHost === 'cedarrun.raggiesoft.com' ||
+        (currentHost === 'books.raggiesoft.com' &&
+          (currentPath === '/cedar-run' || currentPath.indexOf('/cedar-run/') === 0))
+      );
+    }
     if (currentHost !== 'books.raggiesoft.com') return false;
     if (item.id === 'ad-astra') {
       return currentPath === '/ad-astra' || currentPath.indexOf('/ad-astra/') === 0;
@@ -725,6 +740,7 @@
   function buildOceanViewDropdownLiHtml(currentHost, currentPath) {
     var isOceanViewGroupActive =
       currentHost === 'books.raggiesoft.com' ||
+      currentHost === 'cedarrun.raggiesoft.com' ||
       currentHost === 'backstage.raggiesoft.com';
     var isImprintHomeActive =
       currentHost === 'books.raggiesoft.com' &&
@@ -1775,6 +1791,7 @@
               'https://raggiesoft.com',
               'https://nebulae.raggiesoft.com',
               'https://books.raggiesoft.com',
+              'https://cedarrun.raggiesoft.com',
               'https://lore.raggiesoft.com',
               'https://backstage.raggiesoft.com',
               'https://music.raggiesoft.com',
@@ -1808,6 +1825,7 @@
               { '@type': 'WebPage', name: 'In Memoriam: Sir Patrick Stewart', url: 'https://raggiesoft.com/in-memoriam' },
               { '@type': 'WebPage', name: 'RaggieSoft Nebulae (Caelum-IV Survey)', url: 'https://nebulae.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'RaggieSoft Book Reader (Ocean View Archives)', url: 'https://books.raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'Cedar Run (Story Crossroads Wilderness Launchpad)', url: 'https://cedarrun.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'Escape Velocity: Ad Astra Book Series', url: 'https://books.raggiesoft.com/ad-astra' },
               { '@type': 'WebPage', name: 'RaggieSoft Lore Graph', url: 'https://lore.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'RaggieSoft Backstage', url: 'https://backstage.raggiesoft.com/' },
