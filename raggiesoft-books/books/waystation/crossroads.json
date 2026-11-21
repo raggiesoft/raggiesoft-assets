@@ -1,0 +1,55 @@
+{
+    "crossroads": [
+        {
+            "id": "borderland-three-roads",
+            "trigger_part": "e001/c002/p001.md",
+            "kicker": "Story Crossroads • Second Afternoon of the Twin Moons, The Sunken Milestone",
+            "title": "Three Roads Inward Through Vaeloria: How Do Nolan and Gwen Travel?",
+            "prompt": "With both wheelchairs left behind on their living-room rug, barefoot brother and sister Nolan and Gwen Lennox cannot march twenty miles of rough gravel a day—and here at the Sunken Milestone, peddler Bramwell Kettle has shown them three gentler 1980s-fantasy routes winding deeper into Vaeloria. Every option opens a complete, coequal story route.",
+            "options": [
+                {
+                    "id": "lantern-barge-canal",
+                    "label": "The Glasswater Lantern-Barge Canal",
+                    "subtitle": "Step onto barge-master Maren's wide reed-and-cedar lantern boat—resting bare feet on cushioned planks with crutches stowed safe beside the gunwale while glowing blue glass lanterns drift toward the inner river towns.",
+                    "source_type": "paths_dir",
+                    "source_dir": "paths/lantern-barge-canal",
+                    "entry_part": "paths/lantern-barge-canal/e001/c003/p001.md",
+                    "forbidden_terms": [
+                        "bioluminescent canopy",
+                        "pilgrim shelter",
+                        "counterweight gondola",
+                        "wind-harps"
+                    ]
+                },
+                {
+                    "id": "whisperwood-moss-road",
+                    "label": "The Whisperwood Cushion-Moss Road",
+                    "subtitle": "Walk unhurriedly at your own crutch pace over three-inch-deep emerald velvet moss beneath glowing twilight trees, where carved stone benches and warm geothermal foot-springs wait every quarter-mile.",
+                    "source_type": "paths_dir",
+                    "source_dir": "paths/whisperwood-moss-road",
+                    "entry_part": "paths/whisperwood-moss-road/e001/c003/p001.md",
+                    "forbidden_terms": [
+                        "lantern-barge",
+                        "barge-master",
+                        "counterweight gondola",
+                        "wind-harps"
+                    ]
+                },
+                {
+                    "id": "brass-counterweight-way",
+                    "label": "The Brass Counterweight Gondola Way",
+                    "subtitle": "Board the ancient oak-and-brass counterweight cable gondola rising smoothly up the Amber Crags past singing bronze wind-harps, where cliffside astronomers keep warm kitchens and ancient star-rings.",
+                    "source_type": "paths_dir",
+                    "source_dir": "paths/brass-counterweight-way",
+                    "entry_part": "paths/brass-counterweight-way/e001/c003/p001.md",
+                    "forbidden_terms": [
+                        "lantern-barge",
+                        "barge-master",
+                        "bioluminescent canopy",
+                        "pilgrim shelter"
+                    ]
+                }
+            ]
+        }
+    ]
+}
