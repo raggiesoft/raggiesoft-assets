@@ -326,6 +326,7 @@
     { id: 'engineroom', href: 'https://engineroom.raggiesoft.com', host: 'engineroom.raggiesoft.com', icon: '⚙️', label: 'Engine Room' },
     { id: 'corporate', href: 'https://corporate.raggiesoft.com', host: 'corporate.raggiesoft.com', icon: '🏢', label: 'Corporate Media' },
     { id: 'storetrainer', href: 'https://storetrainer.raggiesoft.com', host: 'storetrainer.raggiesoft.com', icon: '💾', label: 'StoreTrainer' },
+    { id: 'waystation', href: 'https://waystation.raggiesoft.com', host: 'waystation.raggiesoft.com', icon: '🔮', label: 'The Waystation' },
     { id: 'portfolio', href: 'https://michaelpragsdale.com', host: 'michaelpragsdale.com', icon: '👔', label: 'Portfolio & Resume' }
   ];
 
@@ -1804,6 +1805,7 @@
               'https://books.raggiesoft.com',
               'https://crossroads.raggiesoft.com',
               'https://cedarrun.raggiesoft.com',
+              'https://waystation.raggiesoft.com',
               'https://lore.raggiesoft.com',
               'https://backstage.raggiesoft.com',
               'https://music.raggiesoft.com',
@@ -1839,6 +1841,7 @@
               { '@type': 'WebPage', name: 'RaggieSoft Book Reader (Ocean View Archives)', url: 'https://books.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'RaggieSoft Story Crossroads Imprint', url: 'https://crossroads.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'Cedar Run (Story Crossroads Wilderness Launchpad)', url: 'https://cedarrun.raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'The Uncharted Waystation (RaggieSoft Universe Map)', url: 'https://waystation.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'Escape Velocity: Ad Astra Book Series', url: 'https://books.raggiesoft.com/ad-astra' },
               { '@type': 'WebPage', name: 'RaggieSoft Lore Graph', url: 'https://lore.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'RaggieSoft Backstage', url: 'https://backstage.raggiesoft.com/' },
