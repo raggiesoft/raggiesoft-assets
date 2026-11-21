@@ -100,11 +100,13 @@ html[data-color-scheme="light"] .rs-memoriam-bar {
   border-bottom: 1px solid #d97706 !important;
 }
 
-/* Centered `1360px` flex row pairing the tribute quote on the left with the CTA pill on the right. */
+/* Full-width fluid flex row (`max-width: none`) matching `.container-fluid` navbars below it. */
 .rs-memoriam-inner {
-  max-width: 1360px;
-  margin: 0 auto;
-  padding: 0.42rem 1rem;
+  width: 100% !important;
+  max-width: none !important;
+  box-sizing: border-box !important;
+  margin: 0 !important;
+  padding: 0.4rem 1.25rem !important;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -231,9 +233,11 @@ html[data-color-scheme="light"] .rs-holiday-bar {
 }
 
 .rs-holiday-inner {
-  max-width: 1360px;
-  margin: 0 auto;
-  padding: 0.42rem 1rem;
+  width: 100% !important;
+  max-width: none !important;
+  box-sizing: border-box !important;
+  margin: 0 !important;
+  padding: 0.4rem 1.25rem !important;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -483,12 +487,14 @@ html[data-color-scheme="light"] .rs-network-bar {
   border-bottom: 1px solid #1e293b !important;
 }
 
-/* Flex container aligning the left `"RAGGIESOFT NETWORK"` badge with the right link list. */
+/* Full-width fluid flex container aligning the left `"RAGGIESOFT NETWORK"` badge with the right link list. */
 .rs-network-bar-inner,
 .rs-network-bar > div {
-  max-width: 1360px;
-  margin: 0 auto;
-  padding: 0.35rem 1rem;
+  width: 100% !important;
+  max-width: none !important;
+  box-sizing: border-box !important;
+  margin: 0 !important;
+  padding: 0.35rem 1.25rem !important;
   display: flex;
   align-items: center;
   justify-content: space-between;
