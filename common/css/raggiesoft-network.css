@@ -867,6 +867,11 @@ html[data-color-scheme="light"] .rs-network-bar {
     display: none !important;
   }
 
+  *:has(> .rs-mobile-header-toggle) > a:first-child {
+    flex: 1 1 0%;
+    min-width: 0;
+  }
+
   .rs-mobile-header-toggle {
     display: inline-flex !important;
     align-items: center;
