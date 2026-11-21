@@ -334,6 +334,13 @@
    */
   var OCEAN_VIEW_ITEMS = [
     {
+      id: 'story-crossroads',
+      name: 'RaggieSoft Story Crossroads',
+      href: 'https://crossroads.raggiesoft.com',
+      pathPrefix: '/crossroads',
+      icon: '🧭'
+    },
+    {
       id: 'cedar-run',
       name: 'Cedar Run (Story Crossroads)',
       href: 'https://cedarrun.raggiesoft.com',
@@ -514,6 +521,9 @@
 
   /* Checks whether the visitor is inside one of Ocean View Archives' or Story Crossroads' flagship literary universes. */
   function isOceanViewItemActive(item, currentHost, currentPath) {
+    if (item.id === 'story-crossroads') {
+      return currentHost === 'crossroads.raggiesoft.com';
+    }
     if (item.id === 'cedar-run') {
       return (
         currentHost === 'cedarrun.raggiesoft.com' ||
@@ -740,6 +750,7 @@
   function buildOceanViewDropdownLiHtml(currentHost, currentPath) {
     var isOceanViewGroupActive =
       currentHost === 'books.raggiesoft.com' ||
+      currentHost === 'crossroads.raggiesoft.com' ||
       currentHost === 'cedarrun.raggiesoft.com' ||
       currentHost === 'backstage.raggiesoft.com';
     var isImprintHomeActive =
@@ -1791,6 +1802,7 @@
               'https://raggiesoft.com',
               'https://nebulae.raggiesoft.com',
               'https://books.raggiesoft.com',
+              'https://crossroads.raggiesoft.com',
               'https://cedarrun.raggiesoft.com',
               'https://lore.raggiesoft.com',
               'https://backstage.raggiesoft.com',
@@ -1825,6 +1837,7 @@
               { '@type': 'WebPage', name: 'In Memoriam: Sir Patrick Stewart', url: 'https://raggiesoft.com/in-memoriam' },
               { '@type': 'WebPage', name: 'RaggieSoft Nebulae (Caelum-IV Survey)', url: 'https://nebulae.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'RaggieSoft Book Reader (Ocean View Archives)', url: 'https://books.raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'RaggieSoft Story Crossroads Imprint', url: 'https://crossroads.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'Cedar Run (Story Crossroads Wilderness Launchpad)', url: 'https://cedarrun.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'Escape Velocity: Ad Astra Book Series', url: 'https://books.raggiesoft.com/ad-astra' },
               { '@type': 'WebPage', name: 'RaggieSoft Lore Graph', url: 'https://lore.raggiesoft.com/' },
