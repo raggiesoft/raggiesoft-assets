@@ -681,13 +681,15 @@ html[data-color-scheme="light"] .rs-network-bar {
   background: transparent;
 }
 
-/* Right-align the rightmost (`Portfolio & Resume`) dropdown menu on desktop (`left: auto; right: 0`)
+/* Right-align rightmost (`Products` and `Portfolio & Resume`) dropdown menus on desktop (`left: auto; right: 0`)
  * so a `250px`-wide menu near the right edge of the window never overflows off-screen! */
 @media (min-width: 768px) {
   .rs-network-bar .rs-network-dropdown:last-child > .rs-network-dropdown-menu,
   .rs-network-bar .rs-network-dropdown[data-rs-dropdown="portfolio"] > .rs-network-dropdown-menu,
+  .rs-network-bar .rs-network-dropdown[data-rs-dropdown="products"] > .rs-network-dropdown-menu,
   .rs-network-dropdown:last-child > .rs-network-dropdown-menu,
-  .rs-network-dropdown[data-rs-dropdown="portfolio"] > .rs-network-dropdown-menu {
+  .rs-network-dropdown[data-rs-dropdown="portfolio"] > .rs-network-dropdown-menu,
+  .rs-network-dropdown[data-rs-dropdown="products"] > .rs-network-dropdown-menu {
     left: auto;
     right: 0;
   }

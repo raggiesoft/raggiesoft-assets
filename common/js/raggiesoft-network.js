@@ -499,6 +499,62 @@
     }
   ];
 
+  /**
+   * Software Products & Applications listed below the separator inside `📦 Products ▾`
+   * (with `🚀 RaggieSoft Launcher` rendered first above the separator).
+   */
+  var PRODUCT_ITEMS = [
+    {
+      id: 'a11y-studio',
+      name: 'RaggieSoft Accessibility Studio',
+      mobileLabel: 'Accessibility Studio',
+      href: 'https://a11y.raggiesoft.com',
+      icon: '♿'
+    },
+    {
+      id: 'backstage-app',
+      name: 'RaggieSoft Backstage',
+      mobileLabel: 'RaggieSoft Backstage',
+      href: 'https://backstage.raggiesoft.com',
+      icon: '🎬'
+    },
+    {
+      id: 'book-reader-app',
+      name: 'RaggieSoft Book Reader',
+      mobileLabel: 'Book Reader',
+      href: 'https://books.raggiesoft.com',
+      icon: '📚'
+    },
+    {
+      id: 'storetrainer-app',
+      name: 'RaggieSoft StoreTrainer',
+      mobileLabel: 'StoreTrainer',
+      href: 'https://storetrainer.raggiesoft.com',
+      icon: '💾'
+    },
+    {
+      id: 'listening-room-app',
+      name: 'The Listening Room',
+      mobileLabel: 'The Listening Room',
+      href: 'https://music.raggiesoft.com',
+      icon: '🎧'
+    },
+    {
+      id: 'stardust-cms',
+      name: 'Stardust Engine CMS',
+      mobileLabel: 'Stardust Engine CMS',
+      href: 'https://corporate.raggiesoft.com/projects/stardust-engine-cms',
+      icon: '⚡'
+    },
+    {
+      id: 'signal-decryptor',
+      name: 'Signal Decryptor (Cipher)',
+      mobileLabel: 'Signal Decryptor',
+      href: 'https://raggiesoft.com/apps/cipher',
+      icon: '🔐'
+    }
+  ];
+
   /* ==========================================================================
    * SECTION 1: URL ROUTE MATCHERS & STANDALONE PWA IMMERSION GUARDS
    * ========================================================================== */
@@ -575,6 +631,25 @@
       currentHost === 'michaelpragsdale.com' &&
       currentPath === '/build-team/' + member.slug
     );
+  }
+
+  /* Checks whether the visitor is currently viewing one of the software products in `PRODUCT_ITEMS`. */
+  function isProductItemActive(product, currentHost, currentPath) {
+    if (product.id === 'a11y-studio') return currentHost === 'a11y.raggiesoft.com';
+    if (product.id === 'backstage-app') return currentHost === 'backstage.raggiesoft.com';
+    if (product.id === 'book-reader-app') return currentHost === 'books.raggiesoft.com';
+    if (product.id === 'storetrainer-app') return currentHost === 'storetrainer.raggiesoft.com';
+    if (product.id === 'listening-room-app') return currentHost === 'music.raggiesoft.com';
+    if (product.id === 'stardust-cms') {
+      return (
+        currentHost === 'corporate.raggiesoft.com' &&
+        currentPath.indexOf('/projects/stardust-engine-cms') === 0
+      );
+    }
+    if (product.id === 'signal-decryptor') {
+      return currentHost === 'raggiesoft.com' && currentPath.indexOf('/apps/cipher') === 0;
+    }
+    return false;
   }
 
   /**
@@ -674,7 +749,7 @@
       '.rs-network-caret { font-size: 0.65rem; opacity: 0.85; transition: transform 0.15s ease; }',
       '.rs-network-dropdown.is-open .rs-network-caret { transform: rotate(180deg); }',
       '.rs-network-bar .rs-network-dropdown-menu, .rs-network-dropdown-menu { display: none; position: absolute; top: calc(100% + 0.2rem); left: 0; min-width: 255px; background-color: #0b1120 !important; color: #f8fafc !important; border: 1px solid rgba(56, 189, 248, 0.45) !important; border-radius: 0.55rem; padding: 0.4rem; box-shadow: 0 16px 36px rgba(0, 0, 0, 0.65); list-style: none !important; margin: 0 !important; z-index: 2000; }',
-      '@media (min-width: 768px) { .rs-network-bar .rs-network-dropdown:last-child > .rs-network-dropdown-menu, .rs-network-bar .rs-network-dropdown[data-rs-dropdown="portfolio"] > .rs-network-dropdown-menu, .rs-network-dropdown:last-child > .rs-network-dropdown-menu, .rs-network-dropdown[data-rs-dropdown="portfolio"] > .rs-network-dropdown-menu { left: auto !important; right: 0 !important; } }',
+      '@media (min-width: 768px) { .rs-network-bar .rs-network-dropdown:last-child > .rs-network-dropdown-menu, .rs-network-bar .rs-network-dropdown[data-rs-dropdown="portfolio"] > .rs-network-dropdown-menu, .rs-network-bar .rs-network-dropdown[data-rs-dropdown="products"] > .rs-network-dropdown-menu, .rs-network-dropdown:last-child > .rs-network-dropdown-menu, .rs-network-dropdown[data-rs-dropdown="portfolio"] > .rs-network-dropdown-menu, .rs-network-dropdown[data-rs-dropdown="products"] > .rs-network-dropdown-menu { left: auto !important; right: 0 !important; } }',
       '.rs-network-dropdown-menu::before { content: ""; position: absolute; top: -0.65rem; left: -0.75rem; right: -0.75rem; height: 0.75rem; background: transparent; }',
       '.rs-network-bar .rs-network-dropdown.is-open > .rs-network-dropdown-menu, .rs-network-dropdown.is-open > .rs-network-dropdown-menu { display: block !important; }',
       '@media (hover: hover) and (pointer: fine) { .rs-network-bar .rs-network-dropdown:hover > .rs-network-dropdown-menu, .rs-network-dropdown:hover > .rs-network-dropdown-menu { display: block !important; } }',
@@ -968,16 +1043,75 @@
   }
 
   /**
+   * 4. Builds the HTML for the `📦 Products ▾` dropdown `<li>` item on `.rs-network-bar`:
+   *    - First item: `🚀 RaggieSoft Launcher` (`https://launcher.raggiesoft.com`)
+   *    - Separator (`<li class="rs-network-dropdown-divider">`)
+   *    - Rest of RaggieSoft software products (`PRODUCT_ITEMS`)
+   */
+  function buildProductsDropdownLiHtml(currentHost, currentPath) {
+    var isLauncherActive = currentHost === 'launcher.raggiesoft.com';
+    var isProductsGroupActive =
+      isLauncherActive ||
+      currentHost === 'a11y.raggiesoft.com' ||
+      currentHost === 'storetrainer.raggiesoft.com' ||
+      (currentHost === 'corporate.raggiesoft.com' &&
+        currentPath.indexOf('/projects/stardust-engine-cms') === 0) ||
+      (currentHost === 'raggiesoft.com' && currentPath.indexOf('/apps/cipher') === 0);
+
+    var productsHtml = PRODUCT_ITEMS.map(function (prod) {
+      var active = isProductItemActive(prod, currentHost, currentPath);
+      return (
+        '<li>' +
+        '<a href="' + prod.href + '"' +
+        (active ? ' class="is-active" aria-current="page"' : '') +
+        ' data-no-spa="true">' +
+        '<span aria-hidden="true">' + prod.icon + '</span>' +
+        '<span>' + prod.name + '</span>' +
+        '</a>' +
+        '</li>'
+      );
+    }).join('');
+
+    return (
+      '<li class="rs-network-dropdown" data-rs-dropdown="products">' +
+      '<button type="button" class="rs-network-dropdown-toggle' +
+      (isProductsGroupActive ? ' is-active' : '') +
+      '" aria-expanded="false" aria-controls="rs-dropdown-products">' +
+      '<span aria-hidden="true">📦</span>' +
+      '<span>Products</span>' +
+      '<span class="rs-network-caret" aria-hidden="true">▾</span>' +
+      '</button>' +
+      '<ul id="rs-dropdown-products" class="rs-network-dropdown-menu" aria-label="RaggieSoft Launcher & Software Products">' +
+      '<li>' +
+      '<a href="https://launcher.raggiesoft.com"' +
+      (isLauncherActive ? ' class="is-active" aria-current="page"' : '') +
+      ' data-no-spa="true">' +
+      '<span aria-hidden="true">🚀</span>' +
+      '<span>RaggieSoft Launcher</span>' +
+      '</a>' +
+      '</li>' +
+      '<li class="rs-network-dropdown-divider" aria-hidden="true"></li>' +
+      '<li class="rs-network-dropdown-header" aria-hidden="true">✦ Software &amp; Apps</li>' +
+      productsHtml +
+      '</ul>' +
+      '</li>'
+    );
+  }
+
+  /**
    * Builds the complete canonical `<ul>` innerHTML for `.rs-network-links`.
    */
   function buildDesktopNetworkLinksHtml(currentHost, currentPath) {
-    var isHubActive = currentHost === 'raggiesoft.com' && currentPath !== '/in-memoriam' && currentPath !== '/about/in-memoriam';
+    var isHubActive =
+      currentHost === 'raggiesoft.com' &&
+      currentPath !== '/in-memoriam' &&
+      currentPath !== '/about/in-memoriam' &&
+      currentPath.indexOf('/apps/cipher') !== 0;
     var isMemoriamPage = currentHost === 'raggiesoft.com' && (currentPath === '/in-memoriam' || currentPath === '/about/in-memoriam');
-    var isLauncherActive = currentHost === 'launcher.raggiesoft.com';
-    var isA11yStudioActive = currentHost === 'a11y.raggiesoft.com';
     var isNebulaeActive = currentHost === 'nebulae.raggiesoft.com';
-    var isCorporateActive = currentHost === 'corporate.raggiesoft.com';
-    var isStoreTrainerActive = currentHost === 'storetrainer.raggiesoft.com';
+    var isCorporateActive =
+      currentHost === 'corporate.raggiesoft.com' &&
+      currentPath.indexOf('/projects/stardust-engine-cms') !== 0;
     var isWaystationActive = currentHost === 'waystation.raggiesoft.com';
     var isJessicaActive = currentHost === 'jessica.raggiesoft.com';
 
@@ -985,12 +1119,6 @@
       '<li><a href="https://raggiesoft.com"' +
         (isHubActive ? ' aria-current="page" class="is-active"' : '') +
         ' data-no-spa="true">🌐 Hub</a></li>',
-      '<li><a href="https://launcher.raggiesoft.com"' +
-        (isLauncherActive ? ' aria-current="page" class="is-active"' : '') +
-        ' data-no-spa="true">🚀 Launcher</a></li>',
-      '<li><a href="https://a11y.raggiesoft.com"' +
-        (isA11yStudioActive ? ' aria-current="page" class="is-active"' : '') +
-        ' data-no-spa="true">♿ A11y Studio</a></li>',
       '<li><a href="https://jessica.raggiesoft.com"' +
         (isJessicaActive ? ' aria-current="page" class="is-active"' : '') +
         ' data-no-spa="true">🛡️ Jessica</a></li>',
@@ -1002,9 +1130,7 @@
       '<li><a href="https://corporate.raggiesoft.com"' +
         (isCorporateActive ? ' aria-current="page" class="is-active"' : '') +
         ' data-no-spa="true">🏢 Corporate</a></li>',
-      '<li><a href="https://storetrainer.raggiesoft.com"' +
-        (isStoreTrainerActive ? ' aria-current="page" class="is-active"' : '') +
-        ' data-no-spa="true">💾 StoreTrainer</a></li>',
+      buildProductsDropdownLiHtml(currentHost, currentPath),
       '<li><a href="https://waystation.raggiesoft.com"' +
         (isWaystationActive ? ' aria-current="page" class="is-active"' : '') +
         ' data-no-spa="true">🔮 Directory</a></li>',
@@ -1243,7 +1369,7 @@
     var stateKey = currentHost + '::' + currentPath;
 
     var dropdownCount = linksList.querySelectorAll(':scope > li.rs-network-dropdown').length;
-    if (dropdownCount < 3 || linksList.getAttribute('data-rs-state') !== stateKey) {
+    if (dropdownCount < 4 || linksList.getAttribute('data-rs-state') !== stateKey) {
       linksList.setAttribute('data-rs-upgraded', 'true');
       linksList.setAttribute('data-rs-state', stateKey);
       linksList.innerHTML = buildDesktopNetworkLinksHtml(currentHost, currentPath);
@@ -1409,6 +1535,31 @@
       );
     }).join('');
 
+    var isLauncherMobileActive = currentHost === 'launcher.raggiesoft.com';
+    var launcherMobileItem =
+      '<li>' +
+      '<a href="https://launcher.raggiesoft.com" class="rs-mobile-network-link' + (isLauncherMobileActive ? ' is-active' : '') + '"' +
+      (isLauncherMobileActive ? ' aria-current="page"' : '') +
+      ' data-no-spa="true">' +
+      '<span class="rs-mobile-network-icon" aria-hidden="true">🚀</span>' +
+      '<span class="rs-mobile-network-text">RaggieSoft Launcher</span>' +
+      '</a>' +
+      '</li>';
+
+    var productsMobileHtml = PRODUCT_ITEMS.map(function (prod) {
+      var active = isProductItemActive(prod, currentHost, currentPath);
+      return (
+        '<li>' +
+        '<a href="' + prod.href + '" class="rs-mobile-network-link' + (active ? ' is-active' : '') + '"' +
+        (active ? ' aria-current="page"' : '') +
+        ' data-no-spa="true">' +
+        '<span class="rs-mobile-network-icon" aria-hidden="true">' + prod.icon + '</span>' +
+        '<span class="rs-mobile-network-text">' + prod.mobileLabel + '</span>' +
+        '</a>' +
+        '</li>'
+      );
+    }).join('');
+
     return (
       '<div class="rs-mobile-network-section" data-rs-breakpoint="' + breakpointAttr + '" role="region" aria-label="RaggieSoft Ecosystem Switcher">' +
       '<div class="rs-mobile-network-title">✦ Switch RaggieSoft Property</div>' +
@@ -1416,6 +1567,18 @@
       itemsHtml +
       '</ul>' +
       '<div class="rs-mobile-submenus">' +
+      '<div class="rs-mobile-submenu">' +
+      '<button type="button" class="rs-mobile-submenu-summary" aria-expanded="false" aria-controls="rs-mob-prod-' + uid + '">' +
+      '<span>📦 RaggieSoft Products — Launcher &amp; Apps</span>' +
+      '<span class="rs-mobile-submenu-caret" aria-hidden="true">▾</span>' +
+      '</button>' +
+      '<div id="rs-mob-prod-' + uid + '" class="rs-mobile-submenu-body" hidden>' +
+      '<ul class="rs-mobile-network-grid">' +
+      launcherMobileItem +
+      productsMobileHtml +
+      '</ul>' +
+      '</div>' +
+      '</div>' +
       '<div class="rs-mobile-submenu">' +
       '<button type="button" class="rs-mobile-submenu-summary" aria-expanded="false" aria-controls="rs-mob-ocean-' + uid + '">' +
       '<span>📚 Ocean View Archives — Universes &amp; Lore</span>' +
