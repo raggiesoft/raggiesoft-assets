@@ -191,13 +191,37 @@ html[data-color-scheme="light"] .rs-memoriam-bar {
   }
 }
 
-/* Stack quote above CTA pill on phone viewports (< 768px). */
+/* Compact single-row tribute banner on phone viewports (< 768px) so top chrome
+ * never consumes excessive vertical screen height (`content-first-noise-reduction`). */
 @media (max-width: 767.98px) {
   .rs-memoriam-inner {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 0.35rem;
-    padding: 0.5rem 0.85rem;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    gap: 0.5rem;
+    padding: 0.3rem 0.75rem !important;
+  }
+
+  .rs-memoriam-text {
+    font-size: 0.72rem;
+    line-height: 1.25;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    min-width: 0;
+  }
+
+  .rs-memoriam-sep,
+  .rs-memoriam-quote {
+    display: none !important;
+  }
+
+  .rs-memoriam-link {
+    padding: 0.16rem 0.55rem;
+    min-block-size: 24px;
+    font-size: 0.7rem;
+    flex-shrink: 0;
   }
 }
 
@@ -356,12 +380,42 @@ html[data-color-scheme="light"] .rs-holiday-bar {
   }
 }
 
+/* Compact single-row seasonal greeting on phone viewports (< 768px). */
 @media (max-width: 767.98px) {
   .rs-holiday-inner {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 0.4rem;
-    padding: 0.5rem 0.85rem;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    gap: 0.45rem;
+    padding: 0.3rem 0.75rem !important;
+  }
+
+  .rs-holiday-text {
+    font-size: 0.72rem;
+    line-height: 1.25;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    min-width: 0;
+  }
+
+  .rs-holiday-sep,
+  .rs-holiday-message {
+    display: none !important;
+  }
+
+  .rs-holiday-actions {
+    flex-wrap: nowrap;
+    flex-shrink: 0;
+    gap: 0.3rem;
+  }
+
+  .rs-holiday-link,
+  .rs-holiday-snow-btn {
+    padding: 0.16rem 0.5rem;
+    min-block-size: 24px;
+    font-size: 0.68rem;
   }
 }
 
@@ -799,11 +853,64 @@ html[data-color-scheme="light"] .rs-network-bar {
   }
 }
 
-/* Group B (`< 768px`): Properties whose native hamburger activates at 768px (`md`). */
+/* Group B (`< 768px`): Properties whose native hamburger activates at 768px (`md`).
+ * Also provides the universal `.rs-mobile-header-toggle` (44x44px touch target) and
+ * `#header-navigation-panel[data-rs-collapsible="true"]` drawer pattern shared across
+ * RaggieSoft properties so every mobile header stays a slim single row (< 60px)! */
+.rs-mobile-header-toggle {
+  display: none !important;
+}
+
 @media (max-width: 767.98px) {
   body:has(#header-navigation-panel, #navbarCollapse, #music-mobile-navigation) .rs-network-bar,
   body.rs-has-md-nav .rs-network-bar {
     display: none !important;
+  }
+
+  .rs-mobile-header-toggle {
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: center;
+    flex: 0 0 auto;
+    width: 2.75rem;
+    height: 2.75rem;
+    min-width: 44px;
+    min-height: 44px;
+    padding: 0;
+    border-radius: 0.5rem;
+    border: 1px solid rgba(148, 163, 184, 0.45);
+    background-color: rgba(15, 23, 42, 0.08);
+    color: inherit;
+    cursor: pointer;
+    appearance: none;
+  }
+
+  .rs-mobile-header-toggle .rs-icon-close {
+    display: none;
+  }
+
+  .rs-mobile-header-toggle[aria-expanded="true"] .rs-icon-bars {
+    display: none;
+  }
+
+  .rs-mobile-header-toggle[aria-expanded="true"] .rs-icon-close {
+    display: block;
+  }
+
+  #header-navigation-panel[data-rs-collapsible="true"]:not(.is-open) {
+    display: none !important;
+  }
+
+  #header-navigation-panel[data-rs-collapsible="true"].is-open {
+    display: flex !important;
+    flex-direction: column !important;
+    align-items: stretch !important;
+    gap: 0.65rem !important;
+    width: 100% !important;
+    flex: 0 0 100% !important;
+    margin-top: 0.45rem !important;
+    padding-top: 0.7rem !important;
+    border-top: 1px solid rgba(148, 163, 184, 0.3) !important;
   }
 
   /* Same `100dvh` + `safe-area-inset-*` scroll containment for 768px hamburger drawers. */
