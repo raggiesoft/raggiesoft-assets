@@ -1,0 +1,809 @@
+{
+    "series_title": "Cedar Run",
+    "series_slug": "cedar-run",
+    "series_theme": "",
+    "series_short_description": "Thrown out at eighteen for refusing to split up, triplets Luke, Tessa, and Sadie build a life in the deep woods.",
+    "series_description": "All their lives, fraternal brother Luke Bridger and his identical twin sisters Tessa and Sadie wanted to do everything together\u2014and all their lives, their parents screamed at them to spread their wings and go separate ways. Thrown out on their eighteenth birthday for refusing to separate, the three step past the back boundary fence into the vast, non-volcanic Kettle River wilderness of Colville National Forest with three canvas packs, a weathered dome tent, Grandpa Owen's tool roll, and his 1974 acoustic guitar. One blissful first night without shouting turns into a daring pact to stay\u2014forcing you to choose at every Story Crossroads how they gather food, engineer shelter from fallen cedar and living granite, and survive before October snow.",
+    "series_description_long": "",
+    "series_image": "/raggiesoft-books/images/covers/2x3/cedar-run.jpg",
+    "next_series_url": "",
+    "ebook_sizes": {
+        "epub": "2.4 MB",
+        "pdf": "1.1 MB",
+        "text_epub": "30 KB",
+        "text_pdf": "76 KB",
+        "package_7z": "20 KB",
+        "epub_bytes": 2466638,
+        "pdf_bytes": 1181987,
+        "text_epub_bytes": 31203,
+        "text_pdf_bytes": 77363,
+        "package_7z_bytes": 20905
+    },
+    "illustration_count": 6,
+    "word_stats": {
+        "story_word_count": 7149,
+        "lore_word_count": 142,
+        "combined_word_count": 7291,
+        "story_page_count": 26,
+        "combined_page_count": 27,
+        "reading_hours": 0.5,
+        "reading_minutes": 29,
+        "novel_equivalent": 0.08,
+        "scale_category": "Short Fiction & Novelette",
+        "scale_badge": "Short Fiction",
+        "benchmark_note": "Short story / novelette companion (< 17,500 words)",
+        "era_count": 1,
+        "chapter_count": 5,
+        "part_count": 6,
+        "illustration_count": 6,
+        "story_arc_count": 0
+    },
+    "story_arcs": [],
+    "eras": [
+        {
+            "era_num": 1,
+            "era_title": "Episode 1: Past the Back Fence",
+            "era_url": "/raggiesoft-books/books/cedar-run/episode-1-past-the-back-fence",
+            "illustration_count": 3,
+            "word_count": 4650,
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Chapter 1: First Night Without Shouting",
+                    "chap_url": "/raggiesoft-books/books/cedar-run/episode-1-past-the-back-fence/chapter-1-first-night-without-shouting",
+                    "illustration_count": 2,
+                    "word_count": 3163,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Five Miles Past the Wire",
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/cedar-run/episode-1-past-the-back-fence/chapter-1-first-night-without-shouting/part-1-five-miles-past-the-wire",
+                            "word_count": 1759,
+                            "reading_minutes": 8,
+                            "date": "2000-06-20",
+                            "start_time": "16:30",
+                            "location": "Colville National Forest, Kettle River Range, Ferry County, Washington",
+                            "excerpt": "The bottom strand of rusted barbed wire groaned under my boot heel as I held the middle wire up by a weathered tamarack post so Tessa and Sadie could duck through with Grandpa Owen's guitar case. Down through\u2026",
+                            "image": "/raggiesoft-books/images/scenes/cedar-run/e001/jun_2000_cedar_run_night_one_campfire_tent.jpg",
+                            "image_alt": "Eighteen-year-old triplets Luke, Tessa, and Sadie Bridger sitting close together by a warm stone keyhole campfire in front of their blue-and-white dome tent beside a clear mountain stream under twilight Colville National Forest pines, as Sadie fingerpicks Grandpa Owen's vintage spruce-top acoustic guitar.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/cedar-run/e001/jun_2000_cedar_run_night_one_campfire_tent.jpg",
+                                    "alt": "Eighteen-year-old triplets Luke, Tessa, and Sadie Bridger sitting close together by a warm stone keyhole campfire in front of their blue-and-white dome tent beside a clear mountain stream under twilight Colville National Forest pines, as Sadie fingerpicks Grandpa Owen's vintage spruce-top acoustic guitar."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Snowmelt and Red Cedar",
+                            "file_path": "e001/c001/p002.md",
+                            "url": "/cedar-run/episode-1-past-the-back-fence/chapter-1-first-night-without-shouting/part-2-snowmelt-and-red-cedar",
+                            "word_count": 1404,
+                            "reading_minutes": 6,
+                            "date": "2000-06-21",
+                            "start_time": "08:45",
+                            "location": "Cedar Run Creek, Colville National Forest, Washington",
+                            "excerpt": "Sunlight woke us\u2014not an alarm clock, not knuckles hammering on hollow-core bedroom doors, just warm gold filtering through green pine needles and painting bright dappled coins across the blue nylon tent wall\u2026",
+                            "image": "/raggiesoft-books/images/scenes/cedar-run/e001/jun_2000_cedar_run_morning_creek_pool_folded_clothes_boulder.jpg",
+                            "image_alt": "Folded denim jeans, faded olive flannel, cream henley, navy-striped shirt, and leather work boots stacked neatly dry on a sun-warmed gray granite boulder beside a misty emerald mountain creek pool in Colville National Forest, while Luke, Tessa, and Sadie Bridger laugh collarbone-deep in the brisk snowmelt water.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/cedar-run/e001/jun_2000_cedar_run_morning_creek_pool_folded_clothes_boulder.jpg",
+                                    "alt": "Folded denim jeans, faded olive flannel, cream henley, navy-striped shirt, and leather work boots stacked neatly dry on a sun-warmed gray granite boulder beside a misty emerald mountain creek pool in Colville National Forest, while Luke, Tessa, and Sadie Bridger laugh collarbone-deep in the brisk snowmelt water."
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "Chapter 2: Three Footholds in the Valley",
+                    "chap_url": "/raggiesoft-books/books/cedar-run/episode-1-past-the-back-fence/chapter-2-three-footholds-in-the-valley",
+                    "illustration_count": 1,
+                    "word_count": 1487,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Food, Timber, and the Fork in the Drainage",
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/cedar-run/episode-1-past-the-back-fence/chapter-2-three-footholds-in-the-valley/food-timber-and-the-fork-in-the-drainage",
+                            "word_count": 1487,
+                            "reading_minutes": 6,
+                            "date": "2000-06-22",
+                            "start_time": "09:15",
+                            "location": "Cedar Run Valley, Colville National Forest, Washington",
+                            "excerpt": "On our second full morning in the woods, Tessa spread a clean cotton bandana flat on the granite hearth-slab and poured out every dry ration left in our three packs so nobody could kid themselves about the math\u2026",
+                            "image": "/raggiesoft-books/images/scenes/cedar-run/e001/jun_2000_cedar_run_scouting_three_footholds.jpg",
+                            "image_alt": "Luke, Tessa, and Sadie Bridger standing together on a sunlit granite pine overlook in Colville National Forest scouting the wild Cedar Run valley below\u2014surveying the creek-bend red-cedar bench, the sunlit granite cliff overhang above a berry meadow, and the high tamarack saddle.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/cedar-run/e001/jun_2000_cedar_run_scouting_three_footholds.jpg",
+                                    "alt": "Luke, Tessa, and Sadie Bridger standing together on a sunlit granite pine overlook in Colville National Forest scouting the wild Cedar Run valley below\u2014surveying the creek-bend red-cedar bench, the sunlit granite cliff overhang above a berry meadow, and the high tamarack saddle."
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "crossroads": [
+        {
+            "id": "first-shelter-and-forage-2000",
+            "trigger_part": "e001/c002/p001.md",
+            "trigger_url": "/cedar-run/episode-1-past-the-back-fence/chapter-2-three-footholds-in-the-valley/food-timber-and-the-fork-in-the-drainage",
+            "kicker": "Story Crossroads \u2022 Thursday, June 22, 2000, 6:40 PM",
+            "title": "Three Footholds in Cedar Run Valley: Where Do Luke, Tessa, and Sadie Build?",
+            "prompt": "With four days of pantry oats left in their packs and zero intention of walking back out to a town, the triplets have scouted three completely wild footholds inside the Cedar Run basin\u2014each offering its own shelter engineering and wild food supply. All three routes forward are complete, coequal stories.",
+            "required_choices": [],
+            "options": [
+                {
+                    "id": "creek-bend-cedar-frame",
+                    "crossroads_id": "first-shelter-and-forage-2000",
+                    "label": "The Creek-Bend Cedar Bench",
+                    "subtitle": "Stay above the emerald trout pools beside the eighty-foot windfall red cedar\u2014splitting straight cedar planks and roof shakes with Grandpa Owen's froe while weaving willow traps for cutthroat trout.",
+                    "entry_part": "paths/creek-bend-cedar-frame/e001/c003/p001.md",
+                    "entry_url": "/cedar-run/paths/creek-bend-cedar-frame/route-1-the-creek-bend-cedar-bench/chapter-3-straight-grain-and-cutthroat-pools/splitting-the-windfall-giant",
+                    "required_choices": {
+                        "first-shelter-and-forage-2000": "creek-bend-cedar-frame"
+                    },
+                    "part_count": 1,
+                    "word_count": 868,
+                    "reading_minutes": 4,
+                    "image": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route1_creek_bend_splitting_cedar_shakes.jpg"
+                },
+                {
+                    "id": "granite-overhang-hearth",
+                    "crossroads_id": "first-shelter-and-forage-2000",
+                    "label": "The South-Facing Granite Overhang",
+                    "subtitle": "Climb half a mile upslope to the bone-dry bedrock cliff alcove overlooking five acres of wild mountain huckleberries and wild onions\u2014walling in the front with flat granite slabs so sun-baked stone radiates warmth all night.",
+                    "entry_part": "paths/granite-overhang-hearth/e001/c003/p001.md",
+                    "entry_url": "/cedar-run/paths/granite-overhang-hearth/route-2-the-south-facing-granite-overhang/chapter-3-living-stone-and-huckleberry-sun/three-walls-already-standing",
+                    "required_choices": {
+                        "first-shelter-and-forage-2000": "granite-overhang-hearth"
+                    },
+                    "part_count": 1,
+                    "word_count": 831,
+                    "reading_minutes": 4,
+                    "image": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route2_granite_overhang_stone_wall_huckleberries.jpg"
+                },
+                {
+                    "id": "old-lookout-ridge",
+                    "crossroads_id": "first-shelter-and-forage-2000",
+                    "label": "The Forgotten Stone Springhouse",
+                    "subtitle": "Follow the cold spring up to the high tamarack saddle where sixty years of moss hide four intact 1930s fieldstone walls and a 42-degree indoor spring trough\u2014raising new fir rafters beside golden chanterelle and berry woods.",
+                    "entry_part": "paths/old-lookout-ridge/e001/c003/p001.md",
+                    "entry_url": "/cedar-run/paths/old-lookout-ridge/route-3-the-forgotten-stone-springhouse/chapter-3-cold-spring-and-tamarack-rafters/sixty-years-under-the-moss",
+                    "required_choices": {
+                        "first-shelter-and-forage-2000": "old-lookout-ridge"
+                    },
+                    "part_count": 1,
+                    "word_count": 800,
+                    "reading_minutes": 4,
+                    "image": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route3_forgotten_stone_springhouse_rafters.jpg"
+                }
+            ]
+        }
+    ],
+    "root_segment_id": "__root__",
+    "segments": {
+        "__root__": {
+            "id": "__root__",
+            "crossroads_id": null,
+            "label": "Opening Chapters",
+            "subtitle": "",
+            "entry_part": "e001/c001/p001.md",
+            "entry_url": "/cedar-run/episode-1-past-the-back-fence/chapter-1-first-night-without-shouting/part-1-five-miles-past-the-wire",
+            "next_crossroads_id": "first-shelter-and-forage-2000",
+            "required_choices": [],
+            "part_count": 3,
+            "word_count": 4650,
+            "reading_minutes": 19,
+            "image": "/raggiesoft-books/images/scenes/cedar-run/e001/jun_2000_cedar_run_night_one_campfire_tent.jpg",
+            "eras": [
+                {
+                    "era_num": 1,
+                    "era_title": "Episode 1: Past the Back Fence",
+                    "era_url": "/raggiesoft-books/books/cedar-run/episode-1-past-the-back-fence",
+                    "illustration_count": 3,
+                    "word_count": 4650,
+                    "chapters": [
+                        {
+                            "chap_num": 1,
+                            "chap_title": "Chapter 1: First Night Without Shouting",
+                            "chap_url": "/raggiesoft-books/books/cedar-run/episode-1-past-the-back-fence/chapter-1-first-night-without-shouting",
+                            "illustration_count": 2,
+                            "word_count": 3163,
+                            "parts": [
+                                {
+                                    "part_num": 1,
+                                    "part_title": "Part 1: Five Miles Past the Wire",
+                                    "file_path": "e001/c001/p001.md",
+                                    "url": "/cedar-run/episode-1-past-the-back-fence/chapter-1-first-night-without-shouting/part-1-five-miles-past-the-wire",
+                                    "word_count": 1759,
+                                    "reading_minutes": 8,
+                                    "date": "2000-06-20",
+                                    "start_time": "16:30",
+                                    "location": "Colville National Forest, Kettle River Range, Ferry County, Washington",
+                                    "excerpt": "The bottom strand of rusted barbed wire groaned under my boot heel as I held the middle wire up by a weathered tamarack post so Tessa and Sadie could duck through with Grandpa Owen's guitar case. Down through\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/cedar-run/e001/jun_2000_cedar_run_night_one_campfire_tent.jpg",
+                                    "image_alt": "Eighteen-year-old triplets Luke, Tessa, and Sadie Bridger sitting close together by a warm stone keyhole campfire in front of their blue-and-white dome tent beside a clear mountain stream under twilight Colville National Forest pines, as Sadie fingerpicks Grandpa Owen's vintage spruce-top acoustic guitar.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/cedar-run/e001/jun_2000_cedar_run_night_one_campfire_tent.jpg",
+                                            "alt": "Eighteen-year-old triplets Luke, Tessa, and Sadie Bridger sitting close together by a warm stone keyhole campfire in front of their blue-and-white dome tent beside a clear mountain stream under twilight Colville National Forest pines, as Sadie fingerpicks Grandpa Owen's vintage spruce-top acoustic guitar."
+                                        }
+                                    ],
+                                    "image_count": 1
+                                },
+                                {
+                                    "part_num": 2,
+                                    "part_title": "Part 2: Snowmelt and Red Cedar",
+                                    "file_path": "e001/c001/p002.md",
+                                    "url": "/cedar-run/episode-1-past-the-back-fence/chapter-1-first-night-without-shouting/part-2-snowmelt-and-red-cedar",
+                                    "word_count": 1404,
+                                    "reading_minutes": 6,
+                                    "date": "2000-06-21",
+                                    "start_time": "08:45",
+                                    "location": "Cedar Run Creek, Colville National Forest, Washington",
+                                    "excerpt": "Sunlight woke us\u2014not an alarm clock, not knuckles hammering on hollow-core bedroom doors, just warm gold filtering through green pine needles and painting bright dappled coins across the blue nylon tent wall\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/cedar-run/e001/jun_2000_cedar_run_morning_creek_pool_folded_clothes_boulder.jpg",
+                                    "image_alt": "Folded denim jeans, faded olive flannel, cream henley, navy-striped shirt, and leather work boots stacked neatly dry on a sun-warmed gray granite boulder beside a misty emerald mountain creek pool in Colville National Forest, while Luke, Tessa, and Sadie Bridger laugh collarbone-deep in the brisk snowmelt water.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/cedar-run/e001/jun_2000_cedar_run_morning_creek_pool_folded_clothes_boulder.jpg",
+                                            "alt": "Folded denim jeans, faded olive flannel, cream henley, navy-striped shirt, and leather work boots stacked neatly dry on a sun-warmed gray granite boulder beside a misty emerald mountain creek pool in Colville National Forest, while Luke, Tessa, and Sadie Bridger laugh collarbone-deep in the brisk snowmelt water."
+                                        }
+                                    ],
+                                    "image_count": 1
+                                }
+                            ]
+                        },
+                        {
+                            "chap_num": 2,
+                            "chap_title": "Chapter 2: Three Footholds in the Valley",
+                            "chap_url": "/raggiesoft-books/books/cedar-run/episode-1-past-the-back-fence/chapter-2-three-footholds-in-the-valley",
+                            "illustration_count": 1,
+                            "word_count": 1487,
+                            "parts": [
+                                {
+                                    "part_num": 1,
+                                    "part_title": "Food, Timber, and the Fork in the Drainage",
+                                    "file_path": "e001/c002/p001.md",
+                                    "url": "/cedar-run/episode-1-past-the-back-fence/chapter-2-three-footholds-in-the-valley/food-timber-and-the-fork-in-the-drainage",
+                                    "word_count": 1487,
+                                    "reading_minutes": 6,
+                                    "date": "2000-06-22",
+                                    "start_time": "09:15",
+                                    "location": "Cedar Run Valley, Colville National Forest, Washington",
+                                    "excerpt": "On our second full morning in the woods, Tessa spread a clean cotton bandana flat on the granite hearth-slab and poured out every dry ration left in our three packs so nobody could kid themselves about the math\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/cedar-run/e001/jun_2000_cedar_run_scouting_three_footholds.jpg",
+                                    "image_alt": "Luke, Tessa, and Sadie Bridger standing together on a sunlit granite pine overlook in Colville National Forest scouting the wild Cedar Run valley below\u2014surveying the creek-bend red-cedar bench, the sunlit granite cliff overhang above a berry meadow, and the high tamarack saddle.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/cedar-run/e001/jun_2000_cedar_run_scouting_three_footholds.jpg",
+                                            "alt": "Luke, Tessa, and Sadie Bridger standing together on a sunlit granite pine overlook in Colville National Forest scouting the wild Cedar Run valley below\u2014surveying the creek-bend red-cedar bench, the sunlit granite cliff overhang above a berry meadow, and the high tamarack saddle."
+                                        }
+                                    ],
+                                    "image_count": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "creek-bend-cedar-frame": {
+            "id": "creek-bend-cedar-frame",
+            "crossroads_id": "first-shelter-and-forage-2000",
+            "label": "The Creek-Bend Cedar Bench",
+            "subtitle": "Stay above the emerald trout pools beside the eighty-foot windfall red cedar\u2014splitting straight cedar planks and roof shakes with Grandpa Owen's froe while weaving willow traps for cutthroat trout.",
+            "entry_part": "paths/creek-bend-cedar-frame/e001/c003/p001.md",
+            "entry_url": "/cedar-run/paths/creek-bend-cedar-frame/route-1-the-creek-bend-cedar-bench/chapter-3-straight-grain-and-cutthroat-pools/splitting-the-windfall-giant",
+            "next_crossroads_id": null,
+            "required_choices": {
+                "first-shelter-and-forage-2000": "creek-bend-cedar-frame"
+            },
+            "part_count": 1,
+            "word_count": 868,
+            "reading_minutes": 4,
+            "image": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route1_creek_bend_splitting_cedar_shakes.jpg",
+            "eras": [
+                {
+                    "era_num": 1,
+                    "era_title": "Route 1: The Creek-Bend Cedar Bench",
+                    "era_url": "/raggiesoft-books/books/cedar-run/paths/creek-bend-cedar-frame/route-1-the-creek-bend-cedar-bench",
+                    "illustration_count": 1,
+                    "word_count": 868,
+                    "chapters": [
+                        {
+                            "chap_num": 3,
+                            "chap_title": "Chapter 3: Straight Grain and Cutthroat Pools",
+                            "chap_url": "/raggiesoft-books/books/cedar-run/paths/creek-bend-cedar-frame/route-1-the-creek-bend-cedar-bench/chapter-3-straight-grain-and-cutthroat-pools",
+                            "illustration_count": 1,
+                            "word_count": 868,
+                            "parts": [
+                                {
+                                    "part_num": 1,
+                                    "part_title": "Splitting the Windfall Giant",
+                                    "file_path": "paths/creek-bend-cedar-frame/e001/c003/p001.md",
+                                    "url": "/cedar-run/paths/creek-bend-cedar-frame/route-1-the-creek-bend-cedar-bench/chapter-3-straight-grain-and-cutthroat-pools/splitting-the-windfall-giant",
+                                    "word_count": 868,
+                                    "reading_minutes": 4,
+                                    "path_id": "creek-bend-cedar-frame",
+                                    "date": "2000-06-23",
+                                    "start_time": "07:30",
+                                    "location": "The Creek-Bend Cedar Bench, Cedar Run, Colville National Forest, Washington",
+                                    "excerpt": "The steel blade of Grandpa Owen's shingle froe bit into the end-grain of the thirty-inch western red cedar round, and when I struck it twice with the heavy tamarack maul I had carved before breakfast, the bolt\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route1_creek_bend_splitting_cedar_shakes.jpg",
+                                    "image_alt": "Beside a deep emerald creek pool in Colville National Forest, Luke Bridger splits straight western red cedar planks from a massive fallen trunk using a steel froe and wooden maul while Tessa sets a hand-woven willow trout trap in the creek eddy and Sadie stacks flat river hearth stones.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route1_creek_bend_splitting_cedar_shakes.jpg",
+                                            "alt": "Beside a deep emerald creek pool in Colville National Forest, Luke Bridger splits straight western red cedar planks from a massive fallen trunk using a steel froe and wooden maul while Tessa sets a hand-woven willow trout trap in the creek eddy and Sadie stacks flat river hearth stones."
+                                        }
+                                    ],
+                                    "image_count": 1,
+                                    "required_choices": {
+                                        "first-shelter-and-forage-2000": "creek-bend-cedar-frame"
+                                    }
+                                }
+                            ],
+                            "path_id": "creek-bend-cedar-frame",
+                            "required_choices": {
+                                "first-shelter-and-forage-2000": "creek-bend-cedar-frame"
+                            }
+                        }
+                    ],
+                    "path_id": "creek-bend-cedar-frame",
+                    "required_choices": {
+                        "first-shelter-and-forage-2000": "creek-bend-cedar-frame"
+                    }
+                }
+            ]
+        },
+        "granite-overhang-hearth": {
+            "id": "granite-overhang-hearth",
+            "crossroads_id": "first-shelter-and-forage-2000",
+            "label": "The South-Facing Granite Overhang",
+            "subtitle": "Climb half a mile upslope to the bone-dry bedrock cliff alcove overlooking five acres of wild mountain huckleberries and wild onions\u2014walling in the front with flat granite slabs so sun-baked stone radiates warmth all night.",
+            "entry_part": "paths/granite-overhang-hearth/e001/c003/p001.md",
+            "entry_url": "/cedar-run/paths/granite-overhang-hearth/route-2-the-south-facing-granite-overhang/chapter-3-living-stone-and-huckleberry-sun/three-walls-already-standing",
+            "next_crossroads_id": null,
+            "required_choices": {
+                "first-shelter-and-forage-2000": "granite-overhang-hearth"
+            },
+            "part_count": 1,
+            "word_count": 831,
+            "reading_minutes": 4,
+            "image": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route2_granite_overhang_stone_wall_huckleberries.jpg",
+            "eras": [
+                {
+                    "era_num": 1,
+                    "era_title": "Route 2: The South-Facing Granite Overhang",
+                    "era_url": "/raggiesoft-books/books/cedar-run/paths/granite-overhang-hearth/route-2-the-south-facing-granite-overhang",
+                    "illustration_count": 1,
+                    "word_count": 831,
+                    "chapters": [
+                        {
+                            "chap_num": 3,
+                            "chap_title": "Chapter 3: Living Stone and Huckleberry Sun",
+                            "chap_url": "/raggiesoft-books/books/cedar-run/paths/granite-overhang-hearth/route-2-the-south-facing-granite-overhang/chapter-3-living-stone-and-huckleberry-sun",
+                            "illustration_count": 1,
+                            "word_count": 831,
+                            "parts": [
+                                {
+                                    "part_num": 1,
+                                    "part_title": "Three Walls Already Standing",
+                                    "file_path": "paths/granite-overhang-hearth/e001/c003/p001.md",
+                                    "url": "/cedar-run/paths/granite-overhang-hearth/route-2-the-south-facing-granite-overhang/chapter-3-living-stone-and-huckleberry-sun/three-walls-already-standing",
+                                    "word_count": 831,
+                                    "reading_minutes": 4,
+                                    "path_id": "granite-overhang-hearth",
+                                    "date": "2000-06-23",
+                                    "start_time": "07:45",
+                                    "location": "The South-Facing Granite Overhang, Cedar Run Slope, Colville National Forest, Washington",
+                                    "excerpt": "By eight in the morning, while cool blue shadow still lingered down in the narrow creek bottom, our south-facing granite overhang half a mile upslope was already bathed in warm gold sunlight. We struck the\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route2_granite_overhang_stone_wall_huckleberries.jpg",
+                                    "image_alt": "Beneath a wide, sun-warmed south-facing granite cliff overhang overlooking a lush mountain huckleberry meadow in Colville National Forest, Luke, Tessa, and Sadie Bridger stack flat granite fieldstones and peeled lodgepole pine poles to enclose their rock shelter.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route2_granite_overhang_stone_wall_huckleberries.jpg",
+                                            "alt": "Beneath a wide, sun-warmed south-facing granite cliff overhang overlooking a lush mountain huckleberry meadow in Colville National Forest, Luke, Tessa, and Sadie Bridger stack flat granite fieldstones and peeled lodgepole pine poles to enclose their rock shelter."
+                                        }
+                                    ],
+                                    "image_count": 1,
+                                    "required_choices": {
+                                        "first-shelter-and-forage-2000": "granite-overhang-hearth"
+                                    }
+                                }
+                            ],
+                            "path_id": "granite-overhang-hearth",
+                            "required_choices": {
+                                "first-shelter-and-forage-2000": "granite-overhang-hearth"
+                            }
+                        }
+                    ],
+                    "path_id": "granite-overhang-hearth",
+                    "required_choices": {
+                        "first-shelter-and-forage-2000": "granite-overhang-hearth"
+                    }
+                }
+            ]
+        },
+        "old-lookout-ridge": {
+            "id": "old-lookout-ridge",
+            "crossroads_id": "first-shelter-and-forage-2000",
+            "label": "The Forgotten Stone Springhouse",
+            "subtitle": "Follow the cold spring up to the high tamarack saddle where sixty years of moss hide four intact 1930s fieldstone walls and a 42-degree indoor spring trough\u2014raising new fir rafters beside golden chanterelle and berry woods.",
+            "entry_part": "paths/old-lookout-ridge/e001/c003/p001.md",
+            "entry_url": "/cedar-run/paths/old-lookout-ridge/route-3-the-forgotten-stone-springhouse/chapter-3-cold-spring-and-tamarack-rafters/sixty-years-under-the-moss",
+            "next_crossroads_id": null,
+            "required_choices": {
+                "first-shelter-and-forage-2000": "old-lookout-ridge"
+            },
+            "part_count": 1,
+            "word_count": 800,
+            "reading_minutes": 4,
+            "image": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route3_forgotten_stone_springhouse_rafters.jpg",
+            "eras": [
+                {
+                    "era_num": 1,
+                    "era_title": "Route 3: The Forgotten Stone Springhouse",
+                    "era_url": "/raggiesoft-books/books/cedar-run/paths/old-lookout-ridge/route-3-the-forgotten-stone-springhouse",
+                    "illustration_count": 1,
+                    "word_count": 800,
+                    "chapters": [
+                        {
+                            "chap_num": 3,
+                            "chap_title": "Chapter 3: Cold Spring and Tamarack Rafters",
+                            "chap_url": "/raggiesoft-books/books/cedar-run/paths/old-lookout-ridge/route-3-the-forgotten-stone-springhouse/chapter-3-cold-spring-and-tamarack-rafters",
+                            "illustration_count": 1,
+                            "word_count": 800,
+                            "parts": [
+                                {
+                                    "part_num": 1,
+                                    "part_title": "Sixty Years Under the Moss",
+                                    "file_path": "paths/old-lookout-ridge/e001/c003/p001.md",
+                                    "url": "/cedar-run/paths/old-lookout-ridge/route-3-the-forgotten-stone-springhouse/chapter-3-cold-spring-and-tamarack-rafters/sixty-years-under-the-moss",
+                                    "word_count": 800,
+                                    "reading_minutes": 4,
+                                    "path_id": "old-lookout-ridge",
+                                    "date": "2000-06-23",
+                                    "start_time": "08:00",
+                                    "location": "The Forgotten Stone Springhouse, High Tamarack Saddle, Colville National Forest, Washington",
+                                    "excerpt": "Whoever had laid the four fieldstone walls on the high tamarack saddle back in the nineteen-thirties had built as if they expected the mountain itself to lean on their work. Once Tessa, Sadie, and I cleared out\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route3_forgotten_stone_springhouse_rafters.jpg",
+                                    "image_alt": "In a sunlit high mountain tamarack clearing in Colville National Forest, Luke and Tessa Bridger hoist peeled Douglas fir roof rafters onto the moss-covered dry-stone walls of a forgotten 1930s springhouse while Sadie hands up wide strips of western red cedar bark.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route3_forgotten_stone_springhouse_rafters.jpg",
+                                            "alt": "In a sunlit high mountain tamarack clearing in Colville National Forest, Luke and Tessa Bridger hoist peeled Douglas fir roof rafters onto the moss-covered dry-stone walls of a forgotten 1930s springhouse while Sadie hands up wide strips of western red cedar bark."
+                                        }
+                                    ],
+                                    "image_count": 1,
+                                    "required_choices": {
+                                        "first-shelter-and-forage-2000": "old-lookout-ridge"
+                                    }
+                                }
+                            ],
+                            "path_id": "old-lookout-ridge",
+                            "required_choices": {
+                                "first-shelter-and-forage-2000": "old-lookout-ridge"
+                            }
+                        }
+                    ],
+                    "path_id": "old-lookout-ridge",
+                    "required_choices": {
+                        "first-shelter-and-forage-2000": "old-lookout-ridge"
+                    }
+                }
+            ]
+        }
+    },
+    "trunk_eras": [
+        {
+            "era_num": 1,
+            "era_title": "Episode 1: Past the Back Fence",
+            "era_url": "/raggiesoft-books/books/cedar-run/episode-1-past-the-back-fence",
+            "illustration_count": 3,
+            "word_count": 4650,
+            "chapters": [
+                {
+                    "chap_num": 1,
+                    "chap_title": "Chapter 1: First Night Without Shouting",
+                    "chap_url": "/raggiesoft-books/books/cedar-run/episode-1-past-the-back-fence/chapter-1-first-night-without-shouting",
+                    "illustration_count": 2,
+                    "word_count": 3163,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Five Miles Past the Wire",
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/cedar-run/episode-1-past-the-back-fence/chapter-1-first-night-without-shouting/part-1-five-miles-past-the-wire",
+                            "word_count": 1759,
+                            "reading_minutes": 8,
+                            "date": "2000-06-20",
+                            "start_time": "16:30",
+                            "location": "Colville National Forest, Kettle River Range, Ferry County, Washington",
+                            "excerpt": "The bottom strand of rusted barbed wire groaned under my boot heel as I held the middle wire up by a weathered tamarack post so Tessa and Sadie could duck through with Grandpa Owen's guitar case. Down through\u2026",
+                            "image": "/raggiesoft-books/images/scenes/cedar-run/e001/jun_2000_cedar_run_night_one_campfire_tent.jpg",
+                            "image_alt": "Eighteen-year-old triplets Luke, Tessa, and Sadie Bridger sitting close together by a warm stone keyhole campfire in front of their blue-and-white dome tent beside a clear mountain stream under twilight Colville National Forest pines, as Sadie fingerpicks Grandpa Owen's vintage spruce-top acoustic guitar.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/cedar-run/e001/jun_2000_cedar_run_night_one_campfire_tent.jpg",
+                                    "alt": "Eighteen-year-old triplets Luke, Tessa, and Sadie Bridger sitting close together by a warm stone keyhole campfire in front of their blue-and-white dome tent beside a clear mountain stream under twilight Colville National Forest pines, as Sadie fingerpicks Grandpa Owen's vintage spruce-top acoustic guitar."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Snowmelt and Red Cedar",
+                            "file_path": "e001/c001/p002.md",
+                            "url": "/cedar-run/episode-1-past-the-back-fence/chapter-1-first-night-without-shouting/part-2-snowmelt-and-red-cedar",
+                            "word_count": 1404,
+                            "reading_minutes": 6,
+                            "date": "2000-06-21",
+                            "start_time": "08:45",
+                            "location": "Cedar Run Creek, Colville National Forest, Washington",
+                            "excerpt": "Sunlight woke us\u2014not an alarm clock, not knuckles hammering on hollow-core bedroom doors, just warm gold filtering through green pine needles and painting bright dappled coins across the blue nylon tent wall\u2026",
+                            "image": "/raggiesoft-books/images/scenes/cedar-run/e001/jun_2000_cedar_run_morning_creek_pool_folded_clothes_boulder.jpg",
+                            "image_alt": "Folded denim jeans, faded olive flannel, cream henley, navy-striped shirt, and leather work boots stacked neatly dry on a sun-warmed gray granite boulder beside a misty emerald mountain creek pool in Colville National Forest, while Luke, Tessa, and Sadie Bridger laugh collarbone-deep in the brisk snowmelt water.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/cedar-run/e001/jun_2000_cedar_run_morning_creek_pool_folded_clothes_boulder.jpg",
+                                    "alt": "Folded denim jeans, faded olive flannel, cream henley, navy-striped shirt, and leather work boots stacked neatly dry on a sun-warmed gray granite boulder beside a misty emerald mountain creek pool in Colville National Forest, while Luke, Tessa, and Sadie Bridger laugh collarbone-deep in the brisk snowmelt water."
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "Chapter 2: Three Footholds in the Valley",
+                    "chap_url": "/raggiesoft-books/books/cedar-run/episode-1-past-the-back-fence/chapter-2-three-footholds-in-the-valley",
+                    "illustration_count": 1,
+                    "word_count": 1487,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Food, Timber, and the Fork in the Drainage",
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/cedar-run/episode-1-past-the-back-fence/chapter-2-three-footholds-in-the-valley/food-timber-and-the-fork-in-the-drainage",
+                            "word_count": 1487,
+                            "reading_minutes": 6,
+                            "date": "2000-06-22",
+                            "start_time": "09:15",
+                            "location": "Cedar Run Valley, Colville National Forest, Washington",
+                            "excerpt": "On our second full morning in the woods, Tessa spread a clean cotton bandana flat on the granite hearth-slab and poured out every dry ration left in our three packs so nobody could kid themselves about the math\u2026",
+                            "image": "/raggiesoft-books/images/scenes/cedar-run/e001/jun_2000_cedar_run_scouting_three_footholds.jpg",
+                            "image_alt": "Luke, Tessa, and Sadie Bridger standing together on a sunlit granite pine overlook in Colville National Forest scouting the wild Cedar Run valley below\u2014surveying the creek-bend red-cedar bench, the sunlit granite cliff overhang above a berry meadow, and the high tamarack saddle.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/cedar-run/e001/jun_2000_cedar_run_scouting_three_footholds.jpg",
+                                    "alt": "Luke, Tessa, and Sadie Bridger standing together on a sunlit granite pine overlook in Colville National Forest scouting the wild Cedar Run valley below\u2014surveying the creek-bend red-cedar bench, the sunlit granite cliff overhang above a berry meadow, and the high tamarack saddle."
+                                }
+                            ],
+                            "image_count": 1
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "paths": {
+        "creek-bend-cedar-frame": {
+            "id": "creek-bend-cedar-frame",
+            "crossroads_id": "first-shelter-and-forage-2000",
+            "label": "The Creek-Bend Cedar Bench",
+            "subtitle": "Stay above the emerald trout pools beside the eighty-foot windfall red cedar\u2014splitting straight cedar planks and roof shakes with Grandpa Owen's froe while weaving willow traps for cutthroat trout.",
+            "entry_part": "paths/creek-bend-cedar-frame/e001/c003/p001.md",
+            "entry_url": "/cedar-run/paths/creek-bend-cedar-frame/route-1-the-creek-bend-cedar-bench/chapter-3-straight-grain-and-cutthroat-pools/splitting-the-windfall-giant",
+            "next_crossroads_id": null,
+            "required_choices": {
+                "first-shelter-and-forage-2000": "creek-bend-cedar-frame"
+            },
+            "part_count": 1,
+            "word_count": 868,
+            "reading_minutes": 4,
+            "image": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route1_creek_bend_splitting_cedar_shakes.jpg",
+            "eras": [
+                {
+                    "era_num": 1,
+                    "era_title": "Route 1: The Creek-Bend Cedar Bench",
+                    "era_url": "/raggiesoft-books/books/cedar-run/paths/creek-bend-cedar-frame/route-1-the-creek-bend-cedar-bench",
+                    "illustration_count": 1,
+                    "word_count": 868,
+                    "chapters": [
+                        {
+                            "chap_num": 3,
+                            "chap_title": "Chapter 3: Straight Grain and Cutthroat Pools",
+                            "chap_url": "/raggiesoft-books/books/cedar-run/paths/creek-bend-cedar-frame/route-1-the-creek-bend-cedar-bench/chapter-3-straight-grain-and-cutthroat-pools",
+                            "illustration_count": 1,
+                            "word_count": 868,
+                            "parts": [
+                                {
+                                    "part_num": 1,
+                                    "part_title": "Splitting the Windfall Giant",
+                                    "file_path": "paths/creek-bend-cedar-frame/e001/c003/p001.md",
+                                    "url": "/cedar-run/paths/creek-bend-cedar-frame/route-1-the-creek-bend-cedar-bench/chapter-3-straight-grain-and-cutthroat-pools/splitting-the-windfall-giant",
+                                    "word_count": 868,
+                                    "reading_minutes": 4,
+                                    "path_id": "creek-bend-cedar-frame",
+                                    "date": "2000-06-23",
+                                    "start_time": "07:30",
+                                    "location": "The Creek-Bend Cedar Bench, Cedar Run, Colville National Forest, Washington",
+                                    "excerpt": "The steel blade of Grandpa Owen's shingle froe bit into the end-grain of the thirty-inch western red cedar round, and when I struck it twice with the heavy tamarack maul I had carved before breakfast, the bolt\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route1_creek_bend_splitting_cedar_shakes.jpg",
+                                    "image_alt": "Beside a deep emerald creek pool in Colville National Forest, Luke Bridger splits straight western red cedar planks from a massive fallen trunk using a steel froe and wooden maul while Tessa sets a hand-woven willow trout trap in the creek eddy and Sadie stacks flat river hearth stones.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route1_creek_bend_splitting_cedar_shakes.jpg",
+                                            "alt": "Beside a deep emerald creek pool in Colville National Forest, Luke Bridger splits straight western red cedar planks from a massive fallen trunk using a steel froe and wooden maul while Tessa sets a hand-woven willow trout trap in the creek eddy and Sadie stacks flat river hearth stones."
+                                        }
+                                    ],
+                                    "image_count": 1,
+                                    "required_choices": {
+                                        "first-shelter-and-forage-2000": "creek-bend-cedar-frame"
+                                    }
+                                }
+                            ],
+                            "path_id": "creek-bend-cedar-frame",
+                            "required_choices": {
+                                "first-shelter-and-forage-2000": "creek-bend-cedar-frame"
+                            }
+                        }
+                    ],
+                    "path_id": "creek-bend-cedar-frame",
+                    "required_choices": {
+                        "first-shelter-and-forage-2000": "creek-bend-cedar-frame"
+                    }
+                }
+            ]
+        },
+        "granite-overhang-hearth": {
+            "id": "granite-overhang-hearth",
+            "crossroads_id": "first-shelter-and-forage-2000",
+            "label": "The South-Facing Granite Overhang",
+            "subtitle": "Climb half a mile upslope to the bone-dry bedrock cliff alcove overlooking five acres of wild mountain huckleberries and wild onions\u2014walling in the front with flat granite slabs so sun-baked stone radiates warmth all night.",
+            "entry_part": "paths/granite-overhang-hearth/e001/c003/p001.md",
+            "entry_url": "/cedar-run/paths/granite-overhang-hearth/route-2-the-south-facing-granite-overhang/chapter-3-living-stone-and-huckleberry-sun/three-walls-already-standing",
+            "next_crossroads_id": null,
+            "required_choices": {
+                "first-shelter-and-forage-2000": "granite-overhang-hearth"
+            },
+            "part_count": 1,
+            "word_count": 831,
+            "reading_minutes": 4,
+            "image": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route2_granite_overhang_stone_wall_huckleberries.jpg",
+            "eras": [
+                {
+                    "era_num": 1,
+                    "era_title": "Route 2: The South-Facing Granite Overhang",
+                    "era_url": "/raggiesoft-books/books/cedar-run/paths/granite-overhang-hearth/route-2-the-south-facing-granite-overhang",
+                    "illustration_count": 1,
+                    "word_count": 831,
+                    "chapters": [
+                        {
+                            "chap_num": 3,
+                            "chap_title": "Chapter 3: Living Stone and Huckleberry Sun",
+                            "chap_url": "/raggiesoft-books/books/cedar-run/paths/granite-overhang-hearth/route-2-the-south-facing-granite-overhang/chapter-3-living-stone-and-huckleberry-sun",
+                            "illustration_count": 1,
+                            "word_count": 831,
+                            "parts": [
+                                {
+                                    "part_num": 1,
+                                    "part_title": "Three Walls Already Standing",
+                                    "file_path": "paths/granite-overhang-hearth/e001/c003/p001.md",
+                                    "url": "/cedar-run/paths/granite-overhang-hearth/route-2-the-south-facing-granite-overhang/chapter-3-living-stone-and-huckleberry-sun/three-walls-already-standing",
+                                    "word_count": 831,
+                                    "reading_minutes": 4,
+                                    "path_id": "granite-overhang-hearth",
+                                    "date": "2000-06-23",
+                                    "start_time": "07:45",
+                                    "location": "The South-Facing Granite Overhang, Cedar Run Slope, Colville National Forest, Washington",
+                                    "excerpt": "By eight in the morning, while cool blue shadow still lingered down in the narrow creek bottom, our south-facing granite overhang half a mile upslope was already bathed in warm gold sunlight. We struck the\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route2_granite_overhang_stone_wall_huckleberries.jpg",
+                                    "image_alt": "Beneath a wide, sun-warmed south-facing granite cliff overhang overlooking a lush mountain huckleberry meadow in Colville National Forest, Luke, Tessa, and Sadie Bridger stack flat granite fieldstones and peeled lodgepole pine poles to enclose their rock shelter.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route2_granite_overhang_stone_wall_huckleberries.jpg",
+                                            "alt": "Beneath a wide, sun-warmed south-facing granite cliff overhang overlooking a lush mountain huckleberry meadow in Colville National Forest, Luke, Tessa, and Sadie Bridger stack flat granite fieldstones and peeled lodgepole pine poles to enclose their rock shelter."
+                                        }
+                                    ],
+                                    "image_count": 1,
+                                    "required_choices": {
+                                        "first-shelter-and-forage-2000": "granite-overhang-hearth"
+                                    }
+                                }
+                            ],
+                            "path_id": "granite-overhang-hearth",
+                            "required_choices": {
+                                "first-shelter-and-forage-2000": "granite-overhang-hearth"
+                            }
+                        }
+                    ],
+                    "path_id": "granite-overhang-hearth",
+                    "required_choices": {
+                        "first-shelter-and-forage-2000": "granite-overhang-hearth"
+                    }
+                }
+            ]
+        },
+        "old-lookout-ridge": {
+            "id": "old-lookout-ridge",
+            "crossroads_id": "first-shelter-and-forage-2000",
+            "label": "The Forgotten Stone Springhouse",
+            "subtitle": "Follow the cold spring up to the high tamarack saddle where sixty years of moss hide four intact 1930s fieldstone walls and a 42-degree indoor spring trough\u2014raising new fir rafters beside golden chanterelle and berry woods.",
+            "entry_part": "paths/old-lookout-ridge/e001/c003/p001.md",
+            "entry_url": "/cedar-run/paths/old-lookout-ridge/route-3-the-forgotten-stone-springhouse/chapter-3-cold-spring-and-tamarack-rafters/sixty-years-under-the-moss",
+            "next_crossroads_id": null,
+            "required_choices": {
+                "first-shelter-and-forage-2000": "old-lookout-ridge"
+            },
+            "part_count": 1,
+            "word_count": 800,
+            "reading_minutes": 4,
+            "image": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route3_forgotten_stone_springhouse_rafters.jpg",
+            "eras": [
+                {
+                    "era_num": 1,
+                    "era_title": "Route 3: The Forgotten Stone Springhouse",
+                    "era_url": "/raggiesoft-books/books/cedar-run/paths/old-lookout-ridge/route-3-the-forgotten-stone-springhouse",
+                    "illustration_count": 1,
+                    "word_count": 800,
+                    "chapters": [
+                        {
+                            "chap_num": 3,
+                            "chap_title": "Chapter 3: Cold Spring and Tamarack Rafters",
+                            "chap_url": "/raggiesoft-books/books/cedar-run/paths/old-lookout-ridge/route-3-the-forgotten-stone-springhouse/chapter-3-cold-spring-and-tamarack-rafters",
+                            "illustration_count": 1,
+                            "word_count": 800,
+                            "parts": [
+                                {
+                                    "part_num": 1,
+                                    "part_title": "Sixty Years Under the Moss",
+                                    "file_path": "paths/old-lookout-ridge/e001/c003/p001.md",
+                                    "url": "/cedar-run/paths/old-lookout-ridge/route-3-the-forgotten-stone-springhouse/chapter-3-cold-spring-and-tamarack-rafters/sixty-years-under-the-moss",
+                                    "word_count": 800,
+                                    "reading_minutes": 4,
+                                    "path_id": "old-lookout-ridge",
+                                    "date": "2000-06-23",
+                                    "start_time": "08:00",
+                                    "location": "The Forgotten Stone Springhouse, High Tamarack Saddle, Colville National Forest, Washington",
+                                    "excerpt": "Whoever had laid the four fieldstone walls on the high tamarack saddle back in the nineteen-thirties had built as if they expected the mountain itself to lean on their work. Once Tessa, Sadie, and I cleared out\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route3_forgotten_stone_springhouse_rafters.jpg",
+                                    "image_alt": "In a sunlit high mountain tamarack clearing in Colville National Forest, Luke and Tessa Bridger hoist peeled Douglas fir roof rafters onto the moss-covered dry-stone walls of a forgotten 1930s springhouse while Sadie hands up wide strips of western red cedar bark.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/cedar-run/paths/jun_2000_route3_forgotten_stone_springhouse_rafters.jpg",
+                                            "alt": "In a sunlit high mountain tamarack clearing in Colville National Forest, Luke and Tessa Bridger hoist peeled Douglas fir roof rafters onto the moss-covered dry-stone walls of a forgotten 1930s springhouse while Sadie hands up wide strips of western red cedar bark."
+                                        }
+                                    ],
+                                    "image_count": 1,
+                                    "required_choices": {
+                                        "first-shelter-and-forage-2000": "old-lookout-ridge"
+                                    }
+                                }
+                            ],
+                            "path_id": "old-lookout-ridge",
+                            "required_choices": {
+                                "first-shelter-and-forage-2000": "old-lookout-ridge"
+                            }
+                        }
+                    ],
+                    "path_id": "old-lookout-ridge",
+                    "required_choices": {
+                        "first-shelter-and-forage-2000": "old-lookout-ridge"
+                    }
+                }
+            ]
+        }
+    }
+}

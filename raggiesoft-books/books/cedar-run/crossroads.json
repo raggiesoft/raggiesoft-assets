@@ -1,0 +1,63 @@
+{
+    "crossroads": [
+        {
+            "id": "first-shelter-and-forage-2000",
+            "trigger_part": "e001/c002/p001.md",
+            "kicker": "Story Crossroads • Thursday, June 22, 2000, 6:40 PM",
+            "title": "Three Footholds in Cedar Run Valley: Where Do Luke, Tessa, and Sadie Build?",
+            "prompt": "With four days of pantry oats left in their packs and zero intention of walking back out to a town, the triplets have scouted three completely wild footholds inside the Cedar Run basin—each offering its own shelter engineering and wild food supply. All three routes forward are complete, coequal stories.",
+            "options": [
+                {
+                    "id": "creek-bend-cedar-frame",
+                    "label": "The Creek-Bend Cedar Bench",
+                    "subtitle": "Stay above the emerald trout pools beside the eighty-foot windfall red cedar—splitting straight cedar planks and roof shakes with Grandpa Owen's froe while weaving willow traps for cutthroat trout.",
+                    "source_type": "paths_dir",
+                    "source_dir": "paths/creek-bend-cedar-frame",
+                    "entry_part": "paths/creek-bend-cedar-frame/e001/c003/p001.md",
+                    "forbidden_terms": [
+                        "granite overhang",
+                        "stone alcove",
+                        "masonry stove",
+                        "stone springhouse",
+                        "spring trough",
+                        "slate flags",
+                        "chanterelles"
+                    ]
+                },
+                {
+                    "id": "granite-overhang-hearth",
+                    "label": "The South-Facing Granite Overhang",
+                    "subtitle": "Climb half a mile upslope to the bone-dry bedrock cliff alcove overlooking five acres of wild mountain huckleberries and wild onions—walling in the front with flat granite slabs so sun-baked stone radiates warmth all night.",
+                    "source_type": "paths_dir",
+                    "source_dir": "paths/granite-overhang-hearth",
+                    "entry_part": "paths/granite-overhang-hearth/e001/c003/p001.md",
+                    "forbidden_terms": [
+                        "willow funnel trap",
+                        "windfall giant",
+                        "raised fir stringers",
+                        "stone springhouse",
+                        "spring trough",
+                        "slate flags",
+                        "chanterelles"
+                    ]
+                },
+                {
+                    "id": "old-lookout-ridge",
+                    "label": "The Forgotten Stone Springhouse",
+                    "subtitle": "Follow the cold spring up to the high tamarack saddle where sixty years of moss hide four intact 1930s fieldstone walls and a 42-degree indoor spring trough—raising new fir rafters beside golden chanterelle and berry woods.",
+                    "source_type": "paths_dir",
+                    "source_dir": "paths/old-lookout-ridge",
+                    "entry_part": "paths/old-lookout-ridge/e001/c003/p001.md",
+                    "forbidden_terms": [
+                        "willow funnel trap",
+                        "windfall giant",
+                        "raised fir stringers",
+                        "granite overhang",
+                        "stone alcove",
+                        "masonry stove"
+                    ]
+                }
+            ]
+        }
+    ]
+}
