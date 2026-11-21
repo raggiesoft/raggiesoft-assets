@@ -321,10 +321,11 @@
   }
 
   /**
-   * Top-level RaggieSoft properties for the Mobile Network Switcher (6x2 balanced 12-item grid).
+   * Top-level RaggieSoft properties for the Mobile Network Switcher (7x2 balanced 14-item grid).
    */
   var NETWORK_SITES = [
     { id: 'hub', href: 'https://raggiesoft.com', host: 'raggiesoft.com', icon: '🌐', label: 'RaggieSoft Hub' },
+    { id: 'launcher', href: 'https://launcher.raggiesoft.com', host: 'launcher.raggiesoft.com', icon: '🚀', label: 'Desktop Launcher' },
     { id: 'nebulae', href: 'https://nebulae.raggiesoft.com', host: 'nebulae.raggiesoft.com', icon: '🌌', label: 'Nebulae Atlas' },
     { id: 'books', href: 'https://books.raggiesoft.com', host: 'books.raggiesoft.com', icon: '📚', label: 'Ocean View Archives' },
     { id: 'crossroads', href: 'https://crossroads.raggiesoft.com', host: 'crossroads.raggiesoft.com', icon: '🧭', label: 'Story Crossroads' },
@@ -334,8 +335,8 @@
     { id: 'engineroom', href: 'https://engineroom.raggiesoft.com', host: 'engineroom.raggiesoft.com', icon: '⚙️', label: 'Engine Room' },
     { id: 'corporate', href: 'https://corporate.raggiesoft.com', host: 'corporate.raggiesoft.com', icon: '🏢', label: 'Corporate Media' },
     { id: 'storetrainer', href: 'https://storetrainer.raggiesoft.com', host: 'storetrainer.raggiesoft.com', icon: '💾', label: 'StoreTrainer' },
-    { id: 'waystation', href: 'https://waystation.raggiesoft.com', host: 'waystation.raggiesoft.com', icon: '🔮', label: 'The Waystation' },
-    { id: 'jessica', href: 'https://jessica.raggiesoft.com', host: 'jessica.raggiesoft.com', icon: '🛡️', label: 'Jessica (Host)' },
+    { id: 'waystation', href: 'https://waystation.raggiesoft.com', host: 'waystation.raggiesoft.com', icon: '🔮', label: 'Global Directory' },
+    { id: 'jessica', href: 'https://jessica.raggiesoft.com', host: 'jessica.raggiesoft.com', icon: '🛡️', label: 'Jessica (Stories)' },
     { id: 'portfolio', href: 'https://michaelpragsdale.com', host: 'michaelpragsdale.com', icon: '👔', label: 'Portfolio & Resume' }
   ];
 
@@ -970,6 +971,7 @@
   function buildDesktopNetworkLinksHtml(currentHost, currentPath) {
     var isHubActive = currentHost === 'raggiesoft.com' && currentPath !== '/in-memoriam' && currentPath !== '/about/in-memoriam';
     var isMemoriamPage = currentHost === 'raggiesoft.com' && (currentPath === '/in-memoriam' || currentPath === '/about/in-memoriam');
+    var isLauncherActive = currentHost === 'launcher.raggiesoft.com';
     var isNebulaeActive = currentHost === 'nebulae.raggiesoft.com';
     var isCorporateActive = currentHost === 'corporate.raggiesoft.com';
     var isStoreTrainerActive = currentHost === 'storetrainer.raggiesoft.com';
@@ -980,6 +982,9 @@
       '<li><a href="https://raggiesoft.com"' +
         (isHubActive ? ' aria-current="page" class="is-active"' : '') +
         ' data-no-spa="true">🌐 Hub</a></li>',
+      '<li><a href="https://launcher.raggiesoft.com"' +
+        (isLauncherActive ? ' aria-current="page" class="is-active"' : '') +
+        ' data-no-spa="true">🚀 Launcher</a></li>',
       '<li><a href="https://jessica.raggiesoft.com"' +
         (isJessicaActive ? ' aria-current="page" class="is-active"' : '') +
         ' data-no-spa="true">🛡️ Jessica</a></li>',
@@ -996,7 +1001,7 @@
         ' data-no-spa="true">💾 StoreTrainer</a></li>',
       '<li><a href="https://waystation.raggiesoft.com"' +
         (isWaystationActive ? ' aria-current="page" class="is-active"' : '') +
-        ' data-no-spa="true">🔮 Waystation</a></li>',
+        ' data-no-spa="true">🔮 Directory</a></li>',
       buildPortfolioDropdownLiHtml(currentHost, currentPath)
     ];
 
@@ -1849,6 +1854,7 @@
             },
             sameAs: [
               'https://raggiesoft.com',
+              'https://launcher.raggiesoft.com',
               'https://nebulae.raggiesoft.com',
               'https://books.raggiesoft.com',
               'https://crossroads.raggiesoft.com',
@@ -1885,13 +1891,14 @@
             name: 'RaggieSoft Ecosystem Network Navigation',
             hasPart: [
               { '@type': 'WebPage', name: 'RaggieSoft Hub', url: 'https://raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'RaggieSoft Launcher (Desktop App Hub)', url: 'https://launcher.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'In Memoriam: Sir Patrick Stewart', url: 'https://raggiesoft.com/in-memoriam' },
               { '@type': 'WebPage', name: 'RaggieSoft Nebulae (Caelum-IV Survey)', url: 'https://nebulae.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'RaggieSoft Book Reader (Ocean View Archives)', url: 'https://books.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'RaggieSoft Story Crossroads Imprint', url: 'https://crossroads.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'Cedar Run (Story Crossroads Wilderness Launchpad)', url: 'https://cedarrun.raggiesoft.com/' },
-              { '@type': 'WebPage', name: 'The Uncharted Waystation (RaggieSoft Universe Map)', url: 'https://waystation.raggiesoft.com/' },
-              { '@type': 'WebPage', name: 'Jessica — Keeper of the House (RaggieSoft Studio Guide)', url: 'https://jessica.raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'The Uncharted Waystation (Global RaggieSoft Directory)', url: 'https://waystation.raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'Jessica — Stories Behind Every RaggieSoft Project', url: 'https://jessica.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'Escape Velocity: Ad Astra Book Series', url: 'https://books.raggiesoft.com/ad-astra' },
               { '@type': 'WebPage', name: 'RaggieSoft Lore Graph', url: 'https://lore.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'RaggieSoft Backstage', url: 'https://backstage.raggiesoft.com/' },
