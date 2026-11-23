@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "ad-astra",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-ad-astra-setup.exe",
+    "msiInstallerFileName": "raggiesoft-book-ad-astra-setup.msi",
+    "sha256": "AF32169198E6D220DBA74EFA90C37DD214FE61BDDF94DB84DC45696F8C74B91B",
+    "sizeBytes": 11863822,
+    "msiSha256": "3682E084A2694B71113ECB1F589815702CFBD0FC3DD23E683DA7054DEDD5D7A2",
+    "msiSizeBytes": 11894784,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/ad-astra/raggiesoft-book-ad-astra-setup.exe",
+    "msiInstallerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/ad-astra/raggiesoft-book-ad-astra-setup.msi"
+  },
+  {
+    "slug": "cedar-run",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-cedar-run-setup.exe",
+    "msiInstallerFileName": "raggiesoft-book-cedar-run-setup.msi",
+    "sha256": "67AFC5CCC16C5B07FD9E4A549B96B7A87FFF11254E0FA2F3039E444B4E287CFA",
+    "sizeBytes": 9054760,
+    "msiSha256": "D9065C536FDCDF45CC3A57686642B9CF580C9998943951D872CAC16E0FA659C0",
+    "msiSizeBytes": 9084928,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/cedar-run/raggiesoft-book-cedar-run-setup.exe",
+    "msiInstallerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/cedar-run/raggiesoft-book-cedar-run-setup.msi"
+  },
+  {
+    "slug": "erin",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-erin-setup.exe",
+    "msiInstallerFileName": "raggiesoft-book-erin-setup.msi",
+    "sha256": "D53E80C24BCB4D95D65040509BD50261C4670313910F83D506ADBE8DA0580C08",
+    "sizeBytes": 5572014,
+    "msiSha256": "6C89C47CB3BC9877264EF8749693B471B2EC5D50C4937795E01FA592303F7798",
+    "msiSizeBytes": 5599232,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/erin/raggiesoft-book-erin-setup.exe",
+    "msiInstallerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/erin/raggiesoft-book-erin-setup.msi"
+  },
+  {
+    "slug": "julian",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-julian-setup.exe",
+    "msiInstallerFileName": "raggiesoft-book-julian-setup.msi",
+    "sha256": "080AED52A18FAFEFCEC43A8E7F217B0C85742399F91D0FAAEC66BE335A0A3AE2",
+    "sizeBytes": 6461381,
+    "msiSha256": "6A4B4E77D1A9E45A8EAAD0CDD3A770897AE1114606D98F2693ED1F960FA3E958",
+    "msiSizeBytes": 6488064,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/julian/raggiesoft-book-julian-setup.exe",
+    "msiInstallerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/julian/raggiesoft-book-julian-setup.msi"
+  },
+  {
+    "slug": "katie",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-katie-setup.exe",
+    "msiInstallerFileName": "raggiesoft-book-katie-setup.msi",
+    "sha256": "7BC1780C619E358E360A9A223444F25FD52B5B7522DA9898F0A98862A51E52D8",
+    "sizeBytes": 107650042,
+    "msiSha256": "71AED8CADC51AC8C4B627F93649054C9D0FF2DD5A0A0ECB42642B2F331C49D15",
+    "msiSizeBytes": 107773952,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/katie/raggiesoft-book-katie-setup.exe",
+    "msiInstallerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/katie/raggiesoft-book-katie-setup.msi"
+  },
+  {
+    "slug": "rachel",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-rachel-setup.exe",
+    "msiInstallerFileName": "raggiesoft-book-rachel-setup.msi",
+    "sha256": "945B906E217B82BF6032A66802B422272C6E756075EB4F047817676349E712C9",
+    "sizeBytes": 145440630,
+    "msiSha256": "EBDA73F367673C502D0E55119014AFBC6BFD74AEAFEFD72FF60519277A1B9431",
+    "msiSizeBytes": 145600512,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/rachel/raggiesoft-book-rachel-setup.exe",
+    "msiInstallerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/rachel/raggiesoft-book-rachel-setup.msi"
+  }
+]

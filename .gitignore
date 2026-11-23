@@ -42,10 +42,16 @@
 
 # --- Archives & Compressed Files ---
 *.7z
+*.7zip
 *.zip
 *.tar.gz
 *.rar
 *.gz
+
+# --- Compiled Windows Desktop & Content Pack Installers (Synced via rclone to Spaces CDN; JSON manifests stay tracked in Git) ---
+desktop-apps/windows/**/*.exe
+desktop-apps/windows/**/*.msi
+desktop-apps/windows/**/*.cab
 
 # --- Disc Image & Binary Data ---
 *.iso
