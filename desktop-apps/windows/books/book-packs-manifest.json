@@ -3,72 +3,264 @@
     "slug": "ad-astra",
     "version": "1.0.0",
     "installerFileName": "raggiesoft-book-ad-astra-setup.exe",
-    "msiInstallerFileName": "raggiesoft-book-ad-astra-setup.msi",
-    "sha256": "617CA761BE46837CE154FCF0BCFEE1ED2FB9EFD2D11E047A37C15779A353643D",
-    "sizeBytes": 11862652,
-    "msiSha256": "29EDF816880EE51FDC255CEE83F357BFFA2CF1B95EBBC821FB5707237AD668F6",
-    "msiSizeBytes": 11894784,
-    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/ad-astra/raggiesoft-book-ad-astra-setup.exe",
-    "msiInstallerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/ad-astra/raggiesoft-book-ad-astra-setup.msi"
+    "sha256": "BB3322D8B30195A083ABC8EFCB48A23F4167CE936E14FA9578F577142B5659AD",
+    "sizeBytes": 11863193,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/ad-astra/raggiesoft-book-ad-astra-setup.exe"
+  },
+  {
+    "slug": "aethel",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-aethel-setup.exe",
+    "sha256": "BD3A0951598232FE33C9D808D26BB830CE38480C5DC48774844F5B57D3795012",
+    "sizeBytes": 6544698,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/aethel/raggiesoft-book-aethel-setup.exe"
+  },
+  {
+    "slug": "alex-chloe",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-alex-chloe-setup.exe",
+    "sha256": "C20BA48947ADA24CC7827B2CF5984DF2AF1FF8E1804284C2DC4821A032F9105F",
+    "sizeBytes": 8386449,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/alex-chloe/raggiesoft-book-alex-chloe-setup.exe"
+  },
+  {
+    "slug": "apex-fall-of-earth",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-apex-fall-of-earth-setup.exe",
+    "sha256": "859B5F20288A11CBE36F1F318A512FB5A4EC30029689A02C64A9D9F54AB973B4",
+    "sizeBytes": 8061993,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/apex-fall-of-earth/raggiesoft-book-apex-fall-of-earth-setup.exe"
+  },
+  {
+    "slug": "ashley-tower",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-ashley-tower-setup.exe",
+    "sha256": "2091A8EE8FFD1AA0667FAE47A159BEB5B71BB9C6CEAEB629C2D842FEDA002520",
+    "sizeBytes": 4877293,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/ashley-tower/raggiesoft-book-ashley-tower-setup.exe"
+  },
+  {
+    "slug": "aubrie",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-aubrie-setup.exe",
+    "sha256": "C23392D0C0A0CAB6BCD5ACE8A630B4A79DE66E7A73A48BF747B388AA7342F29A",
+    "sizeBytes": 122736947,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/aubrie/raggiesoft-book-aubrie-setup.exe"
+  },
+  {
+    "slug": "bob-emily",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-bob-emily-setup.exe",
+    "sha256": "93FA2B7BC047B9B0473C5AD756AB69974AD2444B2434B2A7D9D3B12F485FD1CE",
+    "sizeBytes": 5183508,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/bob-emily/raggiesoft-book-bob-emily-setup.exe"
   },
   {
     "slug": "cedar-run",
     "version": "1.0.0",
     "installerFileName": "raggiesoft-book-cedar-run-setup.exe",
-    "msiInstallerFileName": "raggiesoft-book-cedar-run-setup.msi",
-    "sha256": "DB1C3B5864126BF9D9B14AA9B041AA8A1E30BBA0C4223B24012094C3609D7552",
-    "sizeBytes": 9053615,
-    "msiSha256": "8A1BA7366E6D0AA9B436BA6D1D2320885AC1BDC5E87024B52119B0EA81939873",
-    "msiSizeBytes": 9084928,
-    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/cedar-run/raggiesoft-book-cedar-run-setup.exe",
-    "msiInstallerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/cedar-run/raggiesoft-book-cedar-run-setup.msi"
+    "sha256": "43F61A4A8D0190B6B570CCF06AA897BD4A2E81EB81A6A4788249390EACE6DA1E",
+    "sizeBytes": 9053769,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/cedar-run/raggiesoft-book-cedar-run-setup.exe"
+  },
+  {
+    "slug": "crimson-node",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-crimson-node-setup.exe",
+    "sha256": "5070BF6FA04E6542048422CBFF2AC434C10015C3B280B03F29A2087CC2A3D6CA",
+    "sizeBytes": 32583705,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/crimson-node/raggiesoft-book-crimson-node-setup.exe"
+  },
+  {
+    "slug": "drew",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-drew-setup.exe",
+    "sha256": "6F9D9316D0DCA2B2C03CCAFBE0DA9702E62729691BFD5C23326AC5799C0D810A",
+    "sizeBytes": 5390554,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/drew/raggiesoft-book-drew-setup.exe"
   },
   {
     "slug": "erin",
     "version": "1.0.0",
     "installerFileName": "raggiesoft-book-erin-setup.exe",
-    "msiInstallerFileName": "raggiesoft-book-erin-setup.msi",
-    "sha256": "4113F063BF821FC0E9B842A8319277CD011E175C87FE7CD6786439D3792783ED",
-    "sizeBytes": 5571932,
-    "msiSha256": "1D80B5AE38CE20E4745C566C159D3FCFCB8DC158C672947C24E7501314CEF465",
-    "msiSizeBytes": 5599232,
-    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/erin/raggiesoft-book-erin-setup.exe",
-    "msiInstallerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/erin/raggiesoft-book-erin-setup.msi"
+    "sha256": "7214AA84122D46A2D1A6B0F7355520FD6A8FEE4880CA0B01A7E8EF6F99901438",
+    "sizeBytes": 5572218,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/erin/raggiesoft-book-erin-setup.exe"
+  },
+  {
+    "slug": "fractured-prisms",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-fractured-prisms-setup.exe",
+    "sha256": "8BBCDD76494D4C263A58496336E162EA0A2DD89E772F522E135C5ED0840B354F",
+    "sizeBytes": 4854669,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/fractured-prisms/raggiesoft-book-fractured-prisms-setup.exe"
+  },
+  {
+    "slug": "heather",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-heather-setup.exe",
+    "sha256": "7AE329AF4FCB91F126940208E8DE2E0A9DC4D6341E97AF95332853FD4A4631DD",
+    "sizeBytes": 6968593,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/heather/raggiesoft-book-heather-setup.exe"
+  },
+  {
+    "slug": "jack-sarah",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-jack-sarah-setup.exe",
+    "sha256": "68288E408D8587C639948DE324825F84560F642D58E8CAF4798C95687B88D1DC",
+    "sizeBytes": 9196070,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/jack-sarah/raggiesoft-book-jack-sarah-setup.exe"
   },
   {
     "slug": "julian",
     "version": "1.0.0",
     "installerFileName": "raggiesoft-book-julian-setup.exe",
-    "msiInstallerFileName": "raggiesoft-book-julian-setup.msi",
-    "sha256": "00E7668F73947D758095AB03EBF0CD6B8C4087C65F3C094F4FA7C13AE1490B02",
-    "sizeBytes": 6461254,
-    "msiSha256": "2BCAB674CEB11214CEA4DCB12E34DA0CC1D17D25C44E00FDEBA8E1A7B3319264",
-    "msiSizeBytes": 6488064,
-    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/julian/raggiesoft-book-julian-setup.exe",
-    "msiInstallerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/julian/raggiesoft-book-julian-setup.msi"
+    "sha256": "F62FD0C96108109BCE1B1D68D7AA56E79424A2D3498251E8CE457BB1987AD6B5",
+    "sizeBytes": 6461189,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/julian/raggiesoft-book-julian-setup.exe"
   },
   {
     "slug": "katie",
     "version": "1.0.0",
     "installerFileName": "raggiesoft-book-katie-setup.exe",
-    "msiInstallerFileName": "raggiesoft-book-katie-setup.msi",
-    "sha256": "F85DE84A014025733454738617574AC754837F7EA7DA2F342404A1B676FFA34B",
-    "sizeBytes": 107651684,
-    "msiSha256": "494F446769FB8EABD108A18E0FFEBF0B46112F87678922C563B95BE4A917ADDA",
-    "msiSizeBytes": 107778048,
-    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/katie/raggiesoft-book-katie-setup.exe",
-    "msiInstallerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/katie/raggiesoft-book-katie-setup.msi"
+    "sha256": "A949EB52058AC369FBB5ABE6A8408F024FF2E9F5BB2DACF09EF917BACCF54868",
+    "sizeBytes": 107649237,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/katie/raggiesoft-book-katie-setup.exe"
+  },
+  {
+    "slug": "luna-leo",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-luna-leo-setup.exe",
+    "sha256": "F0310D09497F91B5BE3B9C5505498EAD4040C01315B3514C34D2CE55D04F7291",
+    "sizeBytes": 22327219,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/luna-leo/raggiesoft-book-luna-leo-setup.exe"
+  },
+  {
+    "slug": "mary-childhood",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-mary-childhood-setup.exe",
+    "sha256": "0B1DA4175EC684302D707C5A1C3DA5C7298522EEF550D05B88D3492BC5CDAE78",
+    "sizeBytes": 4917998,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/mary-childhood/raggiesoft-book-mary-childhood-setup.exe"
+  },
+  {
+    "slug": "meredith",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-meredith-setup.exe",
+    "sha256": "D521D5849E5B50B585FD3777DC535428598A513AC8D88B7C3F91176D99390A15",
+    "sizeBytes": 4959193,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/meredith/raggiesoft-book-meredith-setup.exe"
+  },
+  {
+    "slug": "nate",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-nate-setup.exe",
+    "sha256": "0D2B119636A96210E221E5A4D7E28DB1E683A9869BF114FBDEA0DFE978DC1337",
+    "sizeBytes": 5401590,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/nate/raggiesoft-book-nate-setup.exe"
+  },
+  {
+    "slug": "nichole",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-nichole-setup.exe",
+    "sha256": "1B846AC1C68041D9BA0190487260581757368C2E3AEDBC02CDEAD39715E95A36",
+    "sizeBytes": 7214500,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/nichole/raggiesoft-book-nichole-setup.exe"
+  },
+  {
+    "slug": "paige",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-paige-setup.exe",
+    "sha256": "6A55524DC0E4E3DAEB53338DDEABCD79F8249A68131F6EF0574A0C827139C64F",
+    "sizeBytes": 7168462,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/paige/raggiesoft-book-paige-setup.exe"
+  },
+  {
+    "slug": "pebble-borrow",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-pebble-borrow-setup.exe",
+    "sha256": "ECFC884CC73B839BE380DD803F6D45CC1CFD1579EAF91E8969E000A2BC8D38F7",
+    "sizeBytes": 5358053,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/pebble-borrow/raggiesoft-book-pebble-borrow-setup.exe"
+  },
+  {
+    "slug": "quantum-directive-1-jessica",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-quantum-directive-1-jessica-setup.exe",
+    "sha256": "BF95C8F00A845DE2F0BD5F42C10F2455A7A42E8EF8E5A3B7EC8D730A1EAEDDDF",
+    "sizeBytes": 5172479,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/quantum-directive-1-jessica/raggiesoft-book-quantum-directive-1-jessica-setup.exe"
+  },
+  {
+    "slug": "quantum-directive-2-kelly",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-quantum-directive-2-kelly-setup.exe",
+    "sha256": "23E3A52E53FE192F3C97F6BD1FE208DF568094779380BF0CD25D9DF9DFB3B7F2",
+    "sizeBytes": 11950996,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/quantum-directive-2-kelly/raggiesoft-book-quantum-directive-2-kelly-setup.exe"
+  },
+  {
+    "slug": "quantum-directive-3-casey",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-quantum-directive-3-casey-setup.exe",
+    "sha256": "491E8000545A0AFB93A7DAEE9D060FDE8D842DEEF1190B364B56DF0E86B0E037",
+    "sizeBytes": 14715300,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/quantum-directive-3-casey/raggiesoft-book-quantum-directive-3-casey-setup.exe"
   },
   {
     "slug": "rachel",
     "version": "1.0.0",
     "installerFileName": "raggiesoft-book-rachel-setup.exe",
-    "msiInstallerFileName": "raggiesoft-book-rachel-setup.msi",
-    "sha256": "C8D7928555482AADBCEBB3B2BC4BD105CE729BB9ED4902A5F23FA452FF2A87DE",
-    "sizeBytes": 145441049,
-    "msiSha256": "9B94828E6964B753F9BED6B25C4B466340FE86776689B77A13E6FD5AD9A75AB8",
-    "msiSizeBytes": 145604608,
-    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/rachel/raggiesoft-book-rachel-setup.exe",
-    "msiInstallerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/rachel/raggiesoft-book-rachel-setup.msi"
+    "sha256": "BD49F28457932F213ED97729A56F7EEDD510F83466B184E84BDA4F1A27E3C7F6",
+    "sizeBytes": 145439557,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/rachel/raggiesoft-book-rachel-setup.exe"
+  },
+  {
+    "slug": "ruby-mountain",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-ruby-mountain-setup.exe",
+    "sha256": "37A55C0ABD8FF5B0E152C5A0B3D4502D80C5350320C2C8E05944B685383E8F63",
+    "sizeBytes": 6038184,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/ruby-mountain/raggiesoft-book-ruby-mountain-setup.exe"
+  },
+  {
+    "slug": "runebreaker",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-runebreaker-setup.exe",
+    "sha256": "BF199FD68B3DBA2E2EB3D4F05095521B487F630C39C56B58E59C8D6AE22663CB",
+    "sizeBytes": 5216427,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/runebreaker/raggiesoft-book-runebreaker-setup.exe"
+  },
+  {
+    "slug": "samantha",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-samantha-setup.exe",
+    "sha256": "1B95129249491A24FCE94B0C7B92A225C9BC3C691BFCABAEE06E21828CDABC0E",
+    "sizeBytes": 5133984,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/samantha/raggiesoft-book-samantha-setup.exe"
+  },
+  {
+    "slug": "stardust-engine",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-stardust-engine-setup.exe",
+    "sha256": "3C9E60A474E67226ABA56CC09F520C477BF113C83E34FA67374D15D6A8D409CD",
+    "sizeBytes": 29250438,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/stardust-engine/raggiesoft-book-stardust-engine-setup.exe"
+  },
+  {
+    "slug": "water-planet",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-water-planet-setup.exe",
+    "sha256": "A245C60AE9C926E350419F70C93E58C0A6768FB935C7DC5DE0B20F1D2B3F6E2C",
+    "sizeBytes": 4801620,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/water-planet/raggiesoft-book-water-planet-setup.exe"
+  },
+  {
+    "slug": "waystation",
+    "version": "1.0.0",
+    "installerFileName": "raggiesoft-book-waystation-setup.exe",
+    "sha256": "3CD68606D412209CA94D286080F2F91A79D458EE9B9B31BFEE65365DAE0463AF",
+    "sizeBytes": 7975237,
+    "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/books/waystation/raggiesoft-book-waystation-setup.exe"
   }
 ]
