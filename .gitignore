@@ -48,10 +48,15 @@
 *.rar
 *.gz
 
-# --- Compiled Windows Desktop & Content Pack Installers (Synced via rclone to Spaces CDN; JSON manifests stay tracked in Git) ---
+# --- Compiled Windows Desktop & Content Pack Installers (Synced via rclone to Spaces CDN; NEVER pushed to GitHub) ---
 desktop-apps/windows/**/*.exe
 desktop-apps/windows/**/*.msi
 desktop-apps/windows/**/*.cab
+
+# --- Strictly Local AI Handoff Staging (Recursive — NEVER on GitHub or CDN) ---
+/ai-staging/
+**/ai-staging/
+**/ai-staging/**
 
 # --- Disc Image & Binary Data ---
 *.iso
