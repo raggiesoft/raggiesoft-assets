@@ -981,7 +981,7 @@ body.theme-sepia .rs-mobile-network-title {
 }
 
 @media (prefers-color-scheme: light) {
-  html:not([data-bs-theme="dark"]):not([data-theme="dark"]):not([data-color-scheme="dark"]) .rs-mobile-network-title {
+  html:not([data-bs-theme="dark"]):not([data-theme="dark"]):not([data-color-scheme="dark"]) .rs-mobile-network-title:not([data-theme="dark"] *):not([data-bs-theme="dark"] *) {
     color: #854d0e !important;
   }
 }
@@ -1065,13 +1065,13 @@ html[data-color-scheme="light"] .rs-mobile-network-link[aria-current="page"] {
 }
 
 @media (prefers-color-scheme: light) {
-  html:not([data-bs-theme="dark"]):not([data-theme="dark"]):not([data-color-scheme="dark"]) .rs-mobile-network-link {
+  html:not([data-bs-theme="dark"]):not([data-theme="dark"]):not([data-color-scheme="dark"]) .rs-mobile-network-link:not([data-theme="dark"] *):not([data-bs-theme="dark"] *) {
     background-color: #f1f5f9 !important;
     color: #0f172a !important;
     border-color: #64748b !important;
   }
-  html:not([data-bs-theme="dark"]):not([data-theme="dark"]):not([data-color-scheme="dark"]) .rs-mobile-network-link.is-active,
-  html:not([data-bs-theme="dark"]):not([data-theme="dark"]):not([data-color-scheme="dark"]) .rs-mobile-network-link[aria-current="page"] {
+  html:not([data-bs-theme="dark"]):not([data-theme="dark"]):not([data-color-scheme="dark"]) .rs-mobile-network-link.is-active:not([data-theme="dark"] *):not([data-bs-theme="dark"] *),
+  html:not([data-bs-theme="dark"]):not([data-theme="dark"]):not([data-color-scheme="dark"]) .rs-mobile-network-link[aria-current="page"]:not([data-theme="dark"] *):not([data-bs-theme="dark"] *) {
     background-color: #e0f2fe !important;
     color: #0c4a6e !important;
     border-color: #0284c7 !important;
@@ -1181,11 +1181,11 @@ body.theme-sepia .rs-mobile-submenu-summary {
 }
 
 @media (prefers-color-scheme: light) {
-  html:not([data-bs-theme="dark"]):not([data-theme="dark"]):not([data-color-scheme="dark"]) .rs-mobile-submenu {
+  html:not([data-bs-theme="dark"]):not([data-theme="dark"]):not([data-color-scheme="dark"]) .rs-mobile-submenu:not([data-theme="dark"] *):not([data-bs-theme="dark"] *) {
     background-color: #f8fafc !important;
     border-color: #94a3b8 !important;
   }
-  html:not([data-bs-theme="dark"]):not([data-theme="dark"]):not([data-color-scheme="dark"]) .rs-mobile-submenu-summary {
+  html:not([data-bs-theme="dark"]):not([data-theme="dark"]):not([data-color-scheme="dark"]) .rs-mobile-submenu-summary:not([data-theme="dark"] *):not([data-bs-theme="dark"] *) {
     color: #854d0e !important;
   }
 }

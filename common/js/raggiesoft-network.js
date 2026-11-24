@@ -327,6 +327,8 @@
     { id: 'hub', href: 'https://raggiesoft.com', host: 'raggiesoft.com', icon: '🌐', label: 'RaggieSoft Hub' },
     { id: 'launcher', href: 'https://launcher.raggiesoft.com', host: 'launcher.raggiesoft.com', icon: '🚀', label: 'Desktop Launcher' },
     { id: 'a11y', href: 'https://a11y.raggiesoft.com', host: 'a11y.raggiesoft.com', icon: '♿', label: 'A11y Studio' },
+    { id: 'installer-studio', href: 'https://raggiesoftstudio.com', host: 'raggiesoftstudio.com', icon: '🧰', label: 'Installer Studio' },
+    { id: 'dev-hub', href: 'https://raggiesoft.dev', host: 'raggiesoft.dev', icon: '💻', label: 'Developer Hub' },
     { id: 'nebulae', href: 'https://nebulae.raggiesoft.com', host: 'nebulae.raggiesoft.com', icon: '🌌', label: 'Nebulae Atlas' },
     { id: 'books', href: 'https://books.raggiesoft.com', host: 'books.raggiesoft.com', icon: '📚', label: 'Ocean View Archives' },
     { id: 'crossroads', href: 'https://crossroads.raggiesoft.com', host: 'crossroads.raggiesoft.com', icon: '🧭', label: 'Story Crossroads' },
@@ -505,6 +507,13 @@
    */
   var PRODUCT_ITEMS = [
     {
+      id: 'installer-studio',
+      name: 'RaggieSoft Installer Studio (Preview)',
+      mobileLabel: 'Installer Studio',
+      href: 'https://raggiesoftstudio.com',
+      icon: '🧰'
+    },
+    {
       id: 'a11y-studio',
       name: 'RaggieSoft Accessibility Studio',
       mobileLabel: 'Accessibility Studio',
@@ -635,6 +644,7 @@
 
   /* Checks whether the visitor is currently viewing one of the software products in `PRODUCT_ITEMS`. */
   function isProductItemActive(product, currentHost, currentPath) {
+    if (product.id === 'installer-studio') return currentHost === 'raggiesoftstudio.com';
     if (product.id === 'a11y-studio') return currentHost === 'a11y.raggiesoft.com';
     if (product.id === 'backstage-app') return currentHost === 'backstage.raggiesoft.com';
     if (product.id === 'book-reader-app') return currentHost === 'books.raggiesoft.com';
@@ -982,7 +992,9 @@
    * 3. Builds the HTML for the `👔 Portfolio & Resume ▾` dropdown `<li>` item on `.rs-network-bar`.
    */
   function buildPortfolioDropdownLiHtml(currentHost, currentPath) {
-    var isPortfolioGroupActive = currentHost === 'michaelpragsdale.com';
+    var isPortfolioGroupActive =
+      currentHost === 'michaelpragsdale.com' || currentHost === 'raggiesoft.dev';
+    var isDevHubActive = currentHost === 'raggiesoft.dev';
     var isDossierHomeActive =
       currentHost === 'michaelpragsdale.com' &&
       currentPath.indexOf('/build-team') !== 0;
@@ -1022,6 +1034,14 @@
       '</a>' +
       '</li>' +
       '<li>' +
+      '<a href="https://raggiesoft.dev"' +
+      (isDevHubActive ? ' class="is-active" aria-current="page"' : '') +
+      ' data-no-spa="true">' +
+      '<span aria-hidden="true">💻</span>' +
+      '<span>Open-Source &amp; AI Hub (raggiesoft.dev)</span>' +
+      '</a>' +
+      '</li>' +
+      '<li>' +
       '<a href="https://assets.raggiesoft.com/portfolio/documents/resume/mragsdale-resume.pdf" target="_blank" rel="noopener" data-no-spa="true">' +
       '<span aria-hidden="true">📄</span>' +
       '<span>Download Resume (PDF)</span>' +
@@ -1053,6 +1073,7 @@
     var isLauncherActive = currentHost === 'launcher.raggiesoft.com';
     var isProductsGroupActive =
       isLauncherActive ||
+      currentHost === 'raggiesoftstudio.com' ||
       currentHost === 'a11y.raggiesoft.com' ||
       currentHost === 'storetrainer.raggiesoft.com' ||
       (currentHost === 'corporate.raggiesoft.com' &&
@@ -2106,6 +2127,8 @@
               'https://raggiesoft.com',
               'https://launcher.raggiesoft.com',
               'https://a11y.raggiesoft.com',
+              'https://raggiesoftstudio.com',
+              'https://raggiesoft.dev',
               'https://nebulae.raggiesoft.com',
               'https://books.raggiesoft.com',
               'https://crossroads.raggiesoft.com',
