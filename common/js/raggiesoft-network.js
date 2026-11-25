@@ -62,8 +62,9 @@
  *     `#header-navigation-panel`, `#navbarCollapse`, `#music-mobile-navigation`, `#stardust-sidebar`).
  *
  * WHAT VISIBLE UI & METADATA IT PRODUCES:
- *   - Upgrades `.rs-network-bar` on desktop with 3 accessible hover/click/keyboard
- *     dropdown menus (`📚 Ocean View ▾`, `⚙️ Engine Room ▾`, `👔 Portfolio & Resume ▾`).
+ *   - Upgrades `.rs-network-bar` on desktop with 5 accessible hover/click/keyboard
+ *     dropdown menus (`📚 Ocean View ▾`, `⚙️ Engine Room ▾`, `📦 Products ▾`,
+ *     `👔 Portfolio & Resume ▾`, and `⚖️ Governance ▾`).
  *   - Injects a 2-column `.rs-mobile-network-section` switcher + collapsible accordions
  *     into each site's mobile hamburger menu so phones never have double hamburger bars.
  *   - Displays the auto-expiring 30-day Sir Patrick Stewart *In Memoriam* ribbon
@@ -564,6 +565,68 @@
     }
   ];
 
+  /**
+   * Official RaggieSoft Governance, Legal Policies & AI Transparency Links (`⚖️ Governance ▾`).
+   * Surfaces direct 1-click access to Privacy Policy, Terms of Service, AI & Creative Process,
+   * Master/Commercial Licensing, Recruitment Scam Alert, and Contact across every property.
+   */
+  var GOVERNANCE_ITEMS = [
+    {
+      id: 'privacy-policy',
+      name: 'Privacy Policy',
+      mobileLabel: 'Privacy Policy',
+      href: 'https://raggiesoft.com/about/privacy',
+      hostMatch: 'raggiesoft.com',
+      pathMatch: '/about/privacy',
+      icon: '🔒'
+    },
+    {
+      id: 'terms-of-service',
+      name: 'Terms of Service',
+      mobileLabel: 'Terms of Service',
+      href: 'https://raggiesoft.com/about/terms',
+      hostMatch: 'raggiesoft.com',
+      pathMatch: '/about/terms',
+      icon: '📜'
+    },
+    {
+      id: 'ai-disclaimer',
+      name: 'AI & Creative Process',
+      mobileLabel: 'AI & Process',
+      href: 'https://raggiesoft.com/about/ai-disclaimer',
+      hostMatch: 'raggiesoft.com',
+      pathMatch: '/about/ai-disclaimer',
+      icon: '🤖'
+    },
+    {
+      id: 'master-licensing',
+      name: 'Master & Commercial Licensing',
+      mobileLabel: 'Licensing (MIT/CC)',
+      href: 'https://corporate.raggiesoft.com/licensing',
+      hostMatch: 'corporate.raggiesoft.com',
+      pathMatch: '/licensing',
+      icon: '⚖️'
+    },
+    {
+      id: 'careers-scam-alert',
+      name: 'Careers & Scam Alert',
+      mobileLabel: 'Scam Alert',
+      href: 'https://corporate.raggiesoft.com/careers',
+      hostMatch: 'corporate.raggiesoft.com',
+      pathMatch: '/careers',
+      icon: '🛡️'
+    },
+    {
+      id: 'network-contact',
+      name: 'Contact RaggieSoft',
+      mobileLabel: 'Contact',
+      href: 'https://raggiesoft.com/contact',
+      hostMatch: 'raggiesoft.com',
+      pathMatch: '/contact',
+      icon: '✉️'
+    }
+  ];
+
   /* ==========================================================================
    * SECTION 1: URL ROUTE MATCHERS & STANDALONE PWA IMMERSION GUARDS
    * ========================================================================== */
@@ -660,6 +723,14 @@
       return currentHost === 'raggiesoft.com' && currentPath.indexOf('/apps/cipher') === 0;
     }
     return false;
+  }
+
+  /* Checks whether the visitor is currently viewing one of the legal/governance pages in `GOVERNANCE_ITEMS`. */
+  function isGovernanceItemActive(item, currentHost, currentPath) {
+    return (
+      currentHost === item.hostMatch &&
+      (currentPath === item.pathMatch || currentPath.indexOf(item.pathMatch + '/') === 0)
+    );
   }
 
   /**
@@ -759,7 +830,7 @@
       '.rs-network-caret { font-size: 0.65rem; opacity: 0.85; transition: transform 0.15s ease; }',
       '.rs-network-dropdown.is-open .rs-network-caret { transform: rotate(180deg); }',
       '.rs-network-bar .rs-network-dropdown-menu, .rs-network-dropdown-menu { display: none; position: absolute; top: calc(100% + 0.2rem); left: 0; min-width: 255px; background-color: #0b1120 !important; color: #f8fafc !important; border: 1px solid rgba(56, 189, 248, 0.45) !important; border-radius: 0.55rem; padding: 0.4rem; box-shadow: 0 16px 36px rgba(0, 0, 0, 0.65); list-style: none !important; margin: 0 !important; z-index: 2000; }',
-      '@media (min-width: 768px) { .rs-network-bar .rs-network-dropdown:last-child > .rs-network-dropdown-menu, .rs-network-bar .rs-network-dropdown[data-rs-dropdown="portfolio"] > .rs-network-dropdown-menu, .rs-network-bar .rs-network-dropdown[data-rs-dropdown="products"] > .rs-network-dropdown-menu, .rs-network-dropdown:last-child > .rs-network-dropdown-menu, .rs-network-dropdown[data-rs-dropdown="portfolio"] > .rs-network-dropdown-menu, .rs-network-dropdown[data-rs-dropdown="products"] > .rs-network-dropdown-menu { left: auto !important; right: 0 !important; } }',
+      '@media (min-width: 768px) { .rs-network-bar .rs-network-dropdown:last-child > .rs-network-dropdown-menu, .rs-network-bar .rs-network-dropdown[data-rs-dropdown="portfolio"] > .rs-network-dropdown-menu, .rs-network-bar .rs-network-dropdown[data-rs-dropdown="products"] > .rs-network-dropdown-menu, .rs-network-bar .rs-network-dropdown[data-rs-dropdown="governance"] > .rs-network-dropdown-menu, .rs-network-dropdown:last-child > .rs-network-dropdown-menu, .rs-network-dropdown[data-rs-dropdown="portfolio"] > .rs-network-dropdown-menu, .rs-network-dropdown[data-rs-dropdown="products"] > .rs-network-dropdown-menu, .rs-network-dropdown[data-rs-dropdown="governance"] > .rs-network-dropdown-menu { left: auto !important; right: 0 !important; } }',
       '.rs-network-dropdown-menu::before { content: ""; position: absolute; top: -0.65rem; left: -0.75rem; right: -0.75rem; height: 0.75rem; background: transparent; }',
       '.rs-network-bar .rs-network-dropdown.is-open > .rs-network-dropdown-menu, .rs-network-dropdown.is-open > .rs-network-dropdown-menu { display: block !important; }',
       '@media (hover: hover) and (pointer: fine) { .rs-network-bar .rs-network-dropdown:hover > .rs-network-dropdown-menu, .rs-network-dropdown:hover > .rs-network-dropdown-menu { display: block !important; } }',
@@ -1121,11 +1192,73 @@
   }
 
   /**
+   * 5. Builds the HTML for the `⚖️ Governance ▾` dropdown `<li>` item on `.rs-network-bar`:
+   *    - Direct 1-click access to Privacy Policy (`/about/privacy`), Terms of Service
+   *      (`/about/terms`), and AI & Creative Process (`/about/ai-disclaimer`)
+   *    - Separator followed by Master & Commercial Licensing, Careers & Scam Alert, and Contact
+   */
+  function buildGovernanceDropdownLiHtml(currentHost, currentPath) {
+    var isGovernanceGroupActive = GOVERNANCE_ITEMS.some(function (item) {
+      return isGovernanceItemActive(item, currentHost, currentPath);
+    });
+
+    var primaryPolicyItems = GOVERNANCE_ITEMS.slice(0, 3);
+    var secondaryGovItems = GOVERNANCE_ITEMS.slice(3);
+
+    var renderGovListHtml = function (list) {
+      return list
+        .map(function (item) {
+          var active = isGovernanceItemActive(item, currentHost, currentPath);
+          return (
+            '<li>' +
+            '<a href="' +
+            item.href +
+            '"' +
+            (active ? ' class="is-active" aria-current="page"' : '') +
+            ' data-no-spa="true">' +
+            '<span aria-hidden="true">' +
+            item.icon +
+            '</span>' +
+            '<span>' +
+            item.name +
+            '</span>' +
+            '</a>' +
+            '</li>'
+          );
+        })
+        .join('');
+    };
+
+    return (
+      '<li class="rs-network-dropdown" data-rs-dropdown="governance">' +
+      '<button type="button" class="rs-network-dropdown-toggle' +
+      (isGovernanceGroupActive ? ' is-active' : '') +
+      '" aria-expanded="false" aria-controls="rs-dropdown-governance">' +
+      '<span aria-hidden="true">⚖️</span>' +
+      '<span>Governance</span>' +
+      '<span class="rs-network-caret" aria-hidden="true">▾</span>' +
+      '</button>' +
+      '<ul id="rs-dropdown-governance" class="rs-network-dropdown-menu" aria-label="RaggieSoft Governance, Privacy, Terms &amp; AI Transparency">' +
+      '<li class="rs-network-dropdown-header" aria-hidden="true">✦ RaggieSoft Governance</li>' +
+      renderGovListHtml(primaryPolicyItems) +
+      '<li class="rs-network-dropdown-divider" aria-hidden="true"></li>' +
+      '<li class="rs-network-dropdown-header" aria-hidden="true">✦ Licensing &amp; Trust</li>' +
+      renderGovListHtml(secondaryGovItems) +
+      '</ul>' +
+      '</li>'
+    );
+  }
+
+  /**
    * Builds the complete canonical `<ul>` innerHTML for `.rs-network-links`.
    */
   function buildDesktopNetworkLinksHtml(currentHost, currentPath) {
+    var isGovernanceRoute = GOVERNANCE_ITEMS.some(function (item) {
+      return isGovernanceItemActive(item, currentHost, currentPath);
+    });
     var isHubActive =
       currentHost === 'raggiesoft.com' &&
+      !isGovernanceRoute &&
       currentPath !== '/in-memoriam' &&
       currentPath !== '/about/in-memoriam' &&
       currentPath.indexOf('/apps/cipher') !== 0;
@@ -1133,6 +1266,7 @@
     var isNebulaeActive = currentHost === 'nebulae.raggiesoft.com';
     var isCorporateActive =
       currentHost === 'corporate.raggiesoft.com' &&
+      !isGovernanceRoute &&
       currentPath.indexOf('/projects/stardust-engine-cms') !== 0;
     var isWaystationActive = currentHost === 'waystation.raggiesoft.com';
     var isJessicaActive = currentHost === 'jessica.raggiesoft.com';
@@ -1156,7 +1290,8 @@
       '<li><a href="https://waystation.raggiesoft.com"' +
         (isWaystationActive ? ' aria-current="page" class="is-active"' : '') +
         ' data-no-spa="true">🔮 Directory</a></li>',
-      buildPortfolioDropdownLiHtml(currentHost, currentPath)
+      buildPortfolioDropdownLiHtml(currentHost, currentPath),
+      buildGovernanceDropdownLiHtml(currentHost, currentPath)
     ];
 
     if (isMemoriamActive()) {
@@ -1391,7 +1526,7 @@
     var stateKey = currentHost + '::' + currentPath;
 
     var dropdownCount = linksList.querySelectorAll(':scope > li.rs-network-dropdown').length;
-    if (dropdownCount < 4 || linksList.getAttribute('data-rs-state') !== stateKey) {
+    if (dropdownCount < 5 || linksList.getAttribute('data-rs-state') !== stateKey) {
       linksList.setAttribute('data-rs-upgraded', 'true');
       linksList.setAttribute('data-rs-state', stateKey);
       linksList.innerHTML = buildDesktopNetworkLinksHtml(currentHost, currentPath);
@@ -1582,6 +1717,20 @@
       );
     }).join('');
 
+    var governanceMobileHtml = GOVERNANCE_ITEMS.map(function (gov) {
+      var active = isGovernanceItemActive(gov, currentHost, currentPath);
+      return (
+        '<li>' +
+        '<a href="' + gov.href + '" class="rs-mobile-network-link' + (active ? ' is-active' : '') + '"' +
+        (active ? ' aria-current="page"' : '') +
+        ' data-no-spa="true">' +
+        '<span class="rs-mobile-network-icon" aria-hidden="true">' + gov.icon + '</span>' +
+        '<span class="rs-mobile-network-text">' + gov.mobileLabel + '</span>' +
+        '</a>' +
+        '</li>'
+      );
+    }).join('');
+
     return (
       '<div class="rs-mobile-network-section" data-rs-breakpoint="' + breakpointAttr + '" role="region" aria-label="RaggieSoft Ecosystem Switcher">' +
       '<div class="rs-mobile-network-title">✦ Switch RaggieSoft Property</div>' +
@@ -1635,6 +1784,17 @@
       resumeMobileItem +
       buildTeamOverviewItem +
       buildTeamHtml +
+      '</ul>' +
+      '</div>' +
+      '</div>' +
+      '<div class="rs-mobile-submenu">' +
+      '<button type="button" class="rs-mobile-submenu-summary" aria-expanded="false" aria-controls="rs-mob-gov-' + uid + '">' +
+      '<span>⚖️ RaggieSoft Governance — Privacy, Terms &amp; AI</span>' +
+      '<span class="rs-mobile-submenu-caret" aria-hidden="true">▾</span>' +
+      '</button>' +
+      '<div id="rs-mob-gov-' + uid + '" class="rs-mobile-submenu-body" hidden>' +
+      '<ul class="rs-mobile-network-grid">' +
+      governanceMobileHtml +
       '</ul>' +
       '</div>' +
       '</div>' +
@@ -2166,7 +2326,12 @@
             hasPart: [
               { '@type': 'WebPage', name: 'RaggieSoft Hub', url: 'https://raggiesoft.com/' },
               { '@type': 'WebPage', name: 'RaggieSoft Launcher (Desktop App Hub)', url: 'https://launcher.raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'RaggieSoft Installer Studio', url: 'https://raggiesoftstudio.com/' },
+              { '@type': 'WebPage', name: 'RaggieSoft Developer Hub', url: 'https://raggiesoft.dev/' },
               { '@type': 'WebPage', name: 'RaggieSoft Accessibility Studio', url: 'https://a11y.raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'RaggieSoft Privacy Policy', url: 'https://raggiesoft.com/about/privacy' },
+              { '@type': 'WebPage', name: 'RaggieSoft Terms of Service', url: 'https://raggiesoft.com/about/terms' },
+              { '@type': 'WebPage', name: 'AI & Creative Process | RaggieSoft Governance', url: 'https://raggiesoft.com/about/ai-disclaimer' },
               { '@type': 'WebPage', name: 'In Memoriam: Sir Patrick Stewart', url: 'https://raggiesoft.com/in-memoriam' },
               { '@type': 'WebPage', name: 'RaggieSoft Nebulae (Caelum-IV Survey)', url: 'https://nebulae.raggiesoft.com/' },
               { '@type': 'WebPage', name: 'RaggieSoft Book Reader (Ocean View Archives)', url: 'https://books.raggiesoft.com/' },
