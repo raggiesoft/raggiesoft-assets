@@ -12,18 +12,18 @@
         "pdf": "80.2 MB",
         "text_epub": "1.1 MB",
         "text_pdf": "3.1 MB",
-        "package_7z": "792 KB",
-        "epub_bytes": 79790331,
+        "package_7z": "",
+        "epub_bytes": 79790314,
         "pdf_bytes": 84144768,
-        "text_epub_bytes": 1167246,
+        "text_epub_bytes": 1167231,
         "text_pdf_bytes": 3253696,
-        "package_7z_bytes": 810649
+        "package_7z_bytes": 0
     },
     "illustration_count": 131,
     "word_stats": {
-        "story_word_count": 498551,
+        "story_word_count": 498537,
         "lore_word_count": 89069,
-        "combined_word_count": 587620,
+        "combined_word_count": 587606,
         "story_page_count": 1813,
         "combined_page_count": 2137,
         "reading_hours": 33.2,
@@ -825,7 +825,7 @@
             "era_title": "The Saltwater Summer",
             "era_url": "/raggiesoft-books/books/rachel/the-saltwater-summer",
             "illustration_count": 7,
-            "word_count": 63818,
+            "word_count": 63804,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1134,7 +1134,7 @@
                     "chap_title": "The Long Road",
                     "chap_url": "/raggiesoft-books/books/rachel/the-saltwater-summer/the-long-road",
                     "illustration_count": 0,
-                    "word_count": 6126,
+                    "word_count": 6112,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1152,7 +1152,7 @@
                             "part_title": "Part 2: The Transport & The Night Watch",
                             "file_path": "e002/c007/p002.md",
                             "url": "/rachel/the-saltwater-summer/the-long-road/part-2-the-transport-the-night-watch",
-                            "word_count": 2804,
+                            "word_count": 2790,
                             "reading_minutes": 12,
                             "date": "1995-08-19",
                             "start_time": "13:30",

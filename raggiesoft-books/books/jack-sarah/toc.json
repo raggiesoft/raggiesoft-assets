@@ -12,12 +12,12 @@
         "pdf": "3.2 MB",
         "text_epub": "185 KB",
         "text_pdf": "3.2 MB",
-        "package_7z": "142 KB",
-        "epub_bytes": 189672,
+        "package_7z": "",
+        "epub_bytes": 189409,
         "pdf_bytes": 3367309,
-        "text_epub_bytes": 189674,
+        "text_epub_bytes": 189412,
         "text_pdf_bytes": 3367313,
-        "package_7z_bytes": 145100
+        "package_7z_bytes": 0
     },
     "illustration_count": 0,
     "word_stats": {
@@ -715,7 +715,7 @@
                             "date": "2007-02-17",
                             "start_time": "14:30",
                             "location": "Virginia Beach, VA",
-                            "excerpt": "The second full day of being snowbound in the\u00a0Tidewater General Heart Hospital\u00a0had settled into a quiet, monotonous rhythm. The blizzard still raged outside. True to her word,\u00a0Mandy\u00a0had returned, a welcome\u2026"
+                            "excerpt": "The second full day of being snowbound in the Tidewater General Heart Hospital had settled into a quiet, monotonous rhythm. The blizzard still raged outside. True to her word, Mandy had returned, a welcome\u2026"
                         }
                     ]
                 },

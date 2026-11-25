@@ -8,22 +8,22 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/paige.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "498 KB",
+        "epub": "496 KB",
         "pdf": "1.4 MB",
-        "text_epub": "498 KB",
+        "text_epub": "496 KB",
         "text_pdf": "1.4 MB",
-        "package_7z": "363 KB",
-        "epub_bytes": 510180,
+        "package_7z": "",
+        "epub_bytes": 507569,
         "pdf_bytes": 1475296,
-        "text_epub_bytes": 510178,
+        "text_epub_bytes": 507575,
         "text_pdf_bytes": 1475296,
-        "package_7z_bytes": 371772
+        "package_7z_bytes": 0
     },
     "illustration_count": 0,
     "word_stats": {
-        "story_word_count": 214143,
+        "story_word_count": 214142,
         "lore_word_count": 132,
-        "combined_word_count": 214275,
+        "combined_word_count": 214274,
         "story_page_count": 779,
         "combined_page_count": 779,
         "reading_hours": 14.3,
@@ -982,7 +982,7 @@
             "era_title": "System Integration",
             "era_url": "/raggiesoft-books/books/paige/system-integration",
             "illustration_count": 0,
-            "word_count": 28450,
+            "word_count": 28449,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1143,7 +1143,7 @@
                     "chap_title": "The Closed Circuit",
                     "chap_url": "/raggiesoft-books/books/paige/system-integration/the-closed-circuit",
                     "illustration_count": 0,
-                    "word_count": 3752,
+                    "word_count": 3751,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1160,7 +1160,7 @@
                             "part_title": "Part 2: The Thermal Hydro-Protocol: The Blue Ridge Regional Aquatic Center & The Huckleberry Trail",
                             "file_path": "e005/c007/p002.md",
                             "url": "/paige/system-integration/the-closed-circuit/part-2-the-thermal-hydro-protocol-the-blue-ridge-regional-aquatic-center-the-huckleberry-trail",
-                            "word_count": 1156,
+                            "word_count": 1155,
                             "reading_minutes": 5,
                             "location": "Blue Ridge Regional Aquatic Center (Christiansburg, VA) & The Huckleberry Trail",
                             "excerpt": "The morning after Harper\u2019s extraction from Fishersville, Freddie convened a tactical briefing at the kitchen island at 10:00 hours. Harper was still docked to his right arm, sitting on a barstool pulled flush\u2026"
