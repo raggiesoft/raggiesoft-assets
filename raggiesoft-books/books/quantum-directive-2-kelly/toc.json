@@ -8,26 +8,26 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/quantum-directive-2-kelly.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "76 KB",
+        "epub": "77 KB",
         "pdf": "5.3 MB",
-        "text_epub": "76 KB",
+        "text_epub": "77 KB",
         "text_pdf": "5.3 MB",
-        "package_7z": "",
-        "epub_bytes": 77512,
-        "pdf_bytes": 5514260,
-        "text_epub_bytes": 77512,
-        "text_pdf_bytes": 5514258,
-        "package_7z_bytes": 0
+        "package_7z": "60 KB",
+        "epub_bytes": 79019,
+        "pdf_bytes": 5511079,
+        "text_epub_bytes": 79016,
+        "text_pdf_bytes": 5511079,
+        "package_7z_bytes": 61367
     },
     "illustration_count": 0,
     "word_stats": {
-        "story_word_count": 29908,
+        "story_word_count": 30410,
         "lore_word_count": 138,
-        "combined_word_count": 30046,
-        "story_page_count": 109,
-        "combined_page_count": 109,
+        "combined_word_count": 30548,
+        "story_page_count": 111,
+        "combined_page_count": 111,
         "reading_hours": 2,
-        "reading_minutes": 120,
+        "reading_minutes": 122,
         "novel_equivalent": 0.3,
         "scale_category": "Novella",
         "scale_badge": "Novella",
@@ -45,7 +45,7 @@
             "era_title": "The Anchor",
             "era_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor",
             "illustration_count": 0,
-            "word_count": 27337,
+            "word_count": 27379,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -225,7 +225,7 @@
                     "chap_title": "A New Reality",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-anchor/a-new-reality",
                     "illustration_count": 0,
-                    "word_count": 4007,
+                    "word_count": 4049,
                     "parts": [
                         {
                             "part_num": 1,
@@ -242,7 +242,7 @@
                             "part_title": "Part 2: Professional Courtesy \ud83e\udd2b",
                             "file_path": "e001/c008/p002.md",
                             "url": "/quantum-directive-2-kelly/the-anchor/a-new-reality/part-2-professional-courtesy",
-                            "word_count": 1513,
+                            "word_count": 1555,
                             "reading_minutes": 7,
                             "location": "Unknown",
                             "excerpt": "When Jessica, Kelly, and Ryan emerged from the small conference room, David was waiting for them in the hallway. He saw the looks on the twins' faces\u2014overwhelmed but resolute\u2014and the quiet, determined set of\u2026"
@@ -256,7 +256,7 @@
             "era_title": "The Bidding War as seen on DevNet",
             "era_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-bidding-war-as-seen-on-devnet",
             "illustration_count": 0,
-            "word_count": 2571,
+            "word_count": 3031,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -271,17 +271,17 @@
                     "chap_title": "The Players",
                     "chap_url": "/raggiesoft-books/books/quantum-directive-2-kelly/the-bidding-war-as-seen-on-devnet/the-players",
                     "illustration_count": 0,
-                    "word_count": 274,
+                    "word_count": 734,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Developer Community & The CEOs",
                             "file_path": "e002/c002/p001.md",
                             "url": "/quantum-directive-2-kelly/the-bidding-war-as-seen-on-devnet/the-players/the-developer-community-the-ceos",
-                            "word_count": 274,
-                            "reading_minutes": 2,
+                            "word_count": 734,
+                            "reading_minutes": 3,
                             "location": "Unknown",
-                            "excerpt": "- cupertinodev: A developer from MagnaByte, providing the initial, firsthand account from inside the company. - seattledevguy / seattle174: Developers from the Seattle area (likely from various companies) who\u2026"
+                            "excerpt": "The glow of the laptop screen washed over the small conference table in Redmond as Alex scrolled back to the top of the archived DevNet thread. Kelly sat beside Ryan\u2019s borrowed wheelchair, her fingers curled\u2026"
                         }
                     ]
                 },

@@ -8,24 +8,24 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/paige.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "496 KB",
+        "epub": "495 KB",
         "pdf": "1.4 MB",
-        "text_epub": "496 KB",
+        "text_epub": "495 KB",
         "text_pdf": "1.4 MB",
-        "package_7z": "",
-        "epub_bytes": 507569,
-        "pdf_bytes": 1475296,
-        "text_epub_bytes": 507575,
-        "text_pdf_bytes": 1475296,
-        "package_7z_bytes": 0
+        "package_7z": "362 KB",
+        "epub_bytes": 507230,
+        "pdf_bytes": 1444112,
+        "text_epub_bytes": 507232,
+        "text_pdf_bytes": 1444112,
+        "package_7z_bytes": 370538
     },
     "illustration_count": 0,
     "word_stats": {
-        "story_word_count": 214142,
+        "story_word_count": 214359,
         "lore_word_count": 132,
-        "combined_word_count": 214274,
+        "combined_word_count": 214491,
         "story_page_count": 779,
-        "combined_page_count": 779,
+        "combined_page_count": 780,
         "reading_hours": 14.3,
         "reading_minutes": 857,
         "novel_equivalent": 2.4,
@@ -150,7 +150,7 @@
             "era_title": "The Blueprint",
             "era_url": "/raggiesoft-books/books/paige/the-blueprint",
             "illustration_count": 0,
-            "word_count": 26872,
+            "word_count": 26889,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -224,7 +224,7 @@
                     "chap_title": "The Machine",
                     "chap_url": "/raggiesoft-books/books/paige/the-blueprint/the-machine",
                     "illustration_count": 0,
-                    "word_count": 12433,
+                    "word_count": 12450,
                     "parts": [
                         {
                             "part_num": 1,
@@ -251,7 +251,7 @@
                             "part_title": "Part 3: The Forger's Call & The Shutout",
                             "file_path": "e002/c004/p003.md",
                             "url": "/paige/the-blueprint/the-machine/part-3-the-forger-s-call-the-shutout",
-                            "word_count": 3725,
+                            "word_count": 3742,
                             "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The countdown clock on the scoreboard hit 00:00. The world ended. Every light in the stadium\u2014the massive banks of floodlights, the concourse fluorescent strips, even the scoreboard advertisements\u2014died instantly\u2026"
@@ -294,7 +294,7 @@
             "era_title": "A New Beginning",
             "era_url": "/raggiesoft-books/books/paige/a-new-beginning",
             "illustration_count": 0,
-            "word_count": 55098,
+            "word_count": 55186,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -320,7 +320,7 @@
                     "chap_title": "The Source Code",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-source-code",
                     "illustration_count": 0,
-                    "word_count": 8179,
+                    "word_count": 8188,
                     "parts": [
                         {
                             "part_num": 1,
@@ -337,7 +337,7 @@
                             "part_title": "Part 2: The Open Door & The Morning After",
                             "file_path": "e003/c002/p002.md",
                             "url": "/paige/a-new-beginning/the-source-code/part-2-the-open-door-the-morning-after",
-                            "word_count": 3381,
+                            "word_count": 3383,
                             "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The living room was dim, lit only by the soft glow of a floor lamp. Outside the sliding glass door, the mountains were invisible against the black sky. On the beige sofa, the \"Deep Pressure\" session had been\u2026"
@@ -347,7 +347,7 @@
                             "part_title": "Part 3: The Cartridge Exchange & Channel 3",
                             "file_path": "e003/c002/p003.md",
                             "url": "/paige/a-new-beginning/the-source-code/part-3-the-cartridge-exchange-channel-3",
-                            "word_count": 1990,
+                            "word_count": 1997,
                             "reading_minutes": 8,
                             "location": "Unknown",
                             "excerpt": "The bell above the door chimed as they walked into The Cartridge Exchange. The air inside was cool and smelled of ozone, old cardboard, and heated plastic\u2014a scent Freddie associated with pure happiness. The\u2026"
@@ -456,7 +456,7 @@
                     "chap_title": "The Admin Console",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-admin-console",
                     "illustration_count": 0,
-                    "word_count": 5042,
+                    "word_count": 5046,
                     "parts": [
                         {
                             "part_num": 1,
@@ -473,7 +473,7 @@
                             "part_title": "Part 2: The System Architecture & The Sandwich Configuration",
                             "file_path": "e003/c006/p002.md",
                             "url": "/paige/a-new-beginning/the-admin-console/part-2-the-system-architecture-the-sandwich-configuration",
-                            "word_count": 1443,
+                            "word_count": 1447,
                             "reading_minutes": 6,
                             "location": "Unknown",
                             "excerpt": "The double feature of Stellar Voyage: The New Era was halfway through its second episode. The living room on Pepper Street was pitch black, save for the cool, flickering blue light of the MagnaView screen\u2026"
@@ -485,7 +485,7 @@
                     "chap_title": "Autism Diagnosis",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/autism-diagnosis",
                     "illustration_count": 0,
-                    "word_count": 4900,
+                    "word_count": 4912,
                     "parts": [
                         {
                             "part_num": 1,
@@ -502,7 +502,7 @@
                             "part_title": "Part 2: The Warning & The All Clear",
                             "file_path": "e003/c007/p002.md",
                             "url": "/paige/a-new-beginning/autism-diagnosis/part-2-the-warning-the-all-clear",
-                            "word_count": 1630,
+                            "word_count": 1642,
                             "reading_minutes": 7,
                             "location": "Unknown",
                             "excerpt": "The silence in the student lounge following Jessica's explosion was brief. It was replaced not by conversation, but by a sound that triggered a primal instinct in anyone who grew up in the mountains. It started\u2026"
@@ -514,14 +514,14 @@
                     "chap_title": "The Prime Time Block",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-prime-time-block",
                     "illustration_count": 0,
-                    "word_count": 5419,
+                    "word_count": 5457,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Decompression Protocol & The Awakening",
                             "file_path": "e003/c008/p001.md",
                             "url": "/paige/a-new-beginning/the-prime-time-block/part-1-the-decompression-protocol-the-awakening",
-                            "word_count": 3202,
+                            "word_count": 3215,
                             "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "The front door on Pepper Street clicked shut, and the heavy deadbolt slid home with a reassuring thunk. The silence inside the house was absolute. The air conditioner hummed its steady, white-noise rhythm\u2026"
@@ -531,7 +531,7 @@
                             "part_title": "Part 2: The Recovery Cycle & Manual Override",
                             "file_path": "e003/c008/p002.md",
                             "url": "/paige/a-new-beginning/the-prime-time-block/part-2-the-recovery-cycle-manual-override",
-                            "word_count": 2217,
+                            "word_count": 2242,
                             "reading_minutes": 9,
                             "location": "Unknown",
                             "excerpt": "The morning sun pressed against the blackout curtains of the Silo, but inside, the darkness held. Freddie woke up slowly. He didn't bolt upright this time. He floated to the surface of consciousness, anchored by\u2026"
@@ -543,14 +543,14 @@
                     "chap_title": "The Anatomy of Resilience",
                     "chap_url": "/raggiesoft-books/books/paige/a-new-beginning/the-anatomy-of-resilience",
                     "illustration_count": 0,
-                    "word_count": 8926,
+                    "word_count": 8951,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Purge & The Quiet Room",
                             "file_path": "e003/c009/p001.md",
                             "url": "/paige/a-new-beginning/the-anatomy-of-resilience/part-1-the-purge-the-quiet-room",
-                            "word_count": 3031,
+                            "word_count": 3044,
                             "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "The atmosphere in Room 204 of Archer Hall was tense. The humidity of the Virginia summer pressed against the windows, but inside, the air conditioning kept the room at a crisp, clinical temperature. Dr. Aris\u2026"
@@ -560,7 +560,7 @@
                             "part_title": "Part 2: The Transit & The Trail & The Cost-Benefit Analysis",
                             "file_path": "e003/c009/p002.md",
                             "url": "/paige/a-new-beginning/the-anatomy-of-resilience/part-2-the-transit-the-trail-the-cost-benefit-analysis",
-                            "word_count": 3598,
+                            "word_count": 3612,
                             "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The celebration at the bench was brief; the heat of the day was rising, and the logistics of the next phase required execution. \"We have a vehicle problem,\" Freddie noted, checking his watch as they stood up\u2026"
@@ -570,7 +570,7 @@
                             "part_title": "Part 3: The Analog Archive & The Shutdown Sequence",
                             "file_path": "e003/c009/p003.md",
                             "url": "/paige/a-new-beginning/the-anatomy-of-resilience/part-3-the-analog-archive-the-shutdown-sequence",
-                            "word_count": 2297,
+                            "word_count": 2295,
                             "reading_minutes": 10,
                             "location": "Unknown",
                             "excerpt": "The dining room table was cleared. The Brawny Burger wrappers were in the trash. The \"Thick-Stack\" fuel had done its job. They moved to the living room. The sun had finally set behind the mountains, and the\u2026"
@@ -584,21 +584,21 @@
             "era_title": "The False Anchor",
             "era_url": "/raggiesoft-books/books/paige/the-false-anchor",
             "illustration_count": 0,
-            "word_count": 88826,
+            "word_count": 88886,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The New Variable",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-new-variable",
                     "illustration_count": 0,
-                    "word_count": 2095,
+                    "word_count": 2117,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Remainder & The Static Stack",
                             "file_path": "e004/c001/p001.md",
                             "url": "/paige/the-false-anchor/the-new-variable/the-remainder-the-static-stack",
-                            "word_count": 2095,
+                            "word_count": 2117,
                             "reading_minutes": 9,
                             "location": "Unknown",
                             "excerpt": "The lecture hall in Copernicus Hall was a vast, tiered cavern designed to hold two hundred students, but for ASTR 101: Introduction to Astronomy, it felt comfortably full with just over a hundred. For Freddie\u2026"
@@ -610,14 +610,14 @@
                     "chap_title": "The Seed",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-seed",
                     "illustration_count": 0,
-                    "word_count": 4397,
+                    "word_count": 4398,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Observation & The Split Screen",
                             "file_path": "e004/c002/p001.md",
                             "url": "/paige/the-false-anchor/the-seed/part-1-the-observation-the-split-screen",
-                            "word_count": 3362,
+                            "word_count": 3363,
                             "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The solar system project was 60% complete. The website\u2014Project Helios\u2014was a masterpiece of static HTML tables and hand-coded CSS. The group sat in their usual spot in Newman Library, a secluded table near the\u2026"
@@ -639,14 +639,14 @@
                     "chap_title": "The Orbital Decay",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-orbital-decay",
                     "illustration_count": 0,
-                    "word_count": 10502,
+                    "word_count": 10511,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Logic Bomb & The Disconnect",
                             "file_path": "e004/c003/p001.md",
                             "url": "/paige/the-false-anchor/the-orbital-decay/part-1-the-logic-bomb-the-disconnect",
-                            "word_count": 3673,
+                            "word_count": 3682,
                             "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The lobby of Copernicus Hall was buzzing with the frantic, caffeinated energy of Finals Week. Students sat on the floor surrounded by flashcards. Others paced the tile corridors muttering formulas. The Avery\u2026"
@@ -678,14 +678,14 @@
                     "chap_title": "The Rescue",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-rescue",
                     "illustration_count": 0,
-                    "word_count": 13904,
+                    "word_count": 13908,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Advance Team",
                             "file_path": "e004/c004/p001.md",
                             "url": "/paige/the-false-anchor/the-rescue/part-1-the-advance-team",
-                            "word_count": 2652,
+                            "word_count": 2656,
                             "reading_minutes": 11,
                             "location": "Unknown",
                             "excerpt": "The rain in Seattle wasn't like the rain in Virginia. It wasn't a storm; it was a pervasive, mist-like drizzle that soaked everything instantly. Jessica and Paige stepped out of the sliding doors at the Rental\u2026"
@@ -854,14 +854,14 @@
                     "chap_title": "The Trojan Horse",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-trojan-horse",
                     "illustration_count": 0,
-                    "word_count": 5680,
+                    "word_count": 5681,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Invalid Variable & The Legal Shield",
                             "file_path": "e004/c008/p001.md",
                             "url": "/paige/the-false-anchor/the-trojan-horse/part-1-the-invalid-variable-the-legal-shield",
-                            "word_count": 3417,
+                            "word_count": 3418,
                             "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The living room on Pepper Street was a sanctuary of controlled variables. The air conditioner hummed its steady, white-noise lullaby, keeping the Virginia humidity on the other side of the vinyl siding. Freddie\u2026"
@@ -883,14 +883,14 @@
                     "chap_title": "The Optimization Protocol",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-optimization-protocol",
                     "illustration_count": 0,
-                    "word_count": 2987,
+                    "word_count": 2984,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Transaction & The Deed of Trust",
                             "file_path": "e004/c009/p001.md",
                             "url": "/paige/the-false-anchor/the-optimization-protocol/the-transaction-the-deed-of-trust",
-                            "word_count": 2987,
+                            "word_count": 2984,
                             "reading_minutes": 12,
                             "location": "Unknown",
                             "excerpt": "The dining room table was covered in a sea of paperwork. It wasn't the usual clutter of textbooks or laptops; these were heavy, legal-sized documents on bond paper, bound with blue backers. At the head of the\u2026"
@@ -902,7 +902,7 @@
                     "chap_title": "The Satellite Convergence",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-satellite-convergence",
                     "illustration_count": 0,
-                    "word_count": 11252,
+                    "word_count": 11258,
                     "parts": [
                         {
                             "part_num": 1,
@@ -919,7 +919,7 @@
                             "part_title": "Part 2: Division of Labor & The Rotation of the Guard",
                             "file_path": "e004/c010/p002.md",
                             "url": "/paige/the-false-anchor/the-satellite-convergence/part-2-division-of-labor-the-rotation-of-the-guard",
-                            "word_count": 3820,
+                            "word_count": 3826,
                             "reading_minutes": 16,
                             "location": "Unknown",
                             "excerpt": "The breakfast dishes were cleared. The sun was climbing higher, heating up the vinyl siding of the house. Inside, the air conditioner hummed its steady, protective note. In the entryway, Jessica was putting on\u2026"
@@ -951,14 +951,14 @@
                     "chap_title": "The Big One-Five",
                     "chap_url": "/raggiesoft-books/books/paige/the-false-anchor/the-big-one-five",
                     "illustration_count": 0,
-                    "word_count": 6922,
+                    "word_count": 6942,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Trajectory Calculations & Pyrotechnic Redundancy",
                             "file_path": "e004/c011/p001.md",
                             "url": "/paige/the-false-anchor/the-big-one-five/part-1-trajectory-calculations-pyrotechnic-redundancy",
-                            "word_count": 3235,
+                            "word_count": 3250,
                             "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "The house was buzzing. The twins were officially fifteen. In the kitchen, Sarah was demonstrating her \"Suffocation Protocol\" on a lit match over the sink, just to show off to Harper. She licked her fingers\u2026"
@@ -968,7 +968,7 @@
                             "part_title": "Part 2: The Voltage Spike & The Decompression Chamber",
                             "file_path": "e004/c011/p002.md",
                             "url": "/paige/the-false-anchor/the-big-one-five/part-2-the-voltage-spike-the-decompression-chamber",
-                            "word_count": 3687,
+                            "word_count": 3692,
                             "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The cake was decimated. The blue numbers were smoking ruins on the platter. Jessica and Aunt Linda, wise to the ways of glucose, had carefully sliced thin, reasonable pieces for Amanda and Elara. They were\u2026"
@@ -982,14 +982,14 @@
             "era_title": "System Integration",
             "era_url": "/raggiesoft-books/books/paige/system-integration",
             "illustration_count": 0,
-            "word_count": 28449,
+            "word_count": 28501,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Transfer Point",
                     "chap_url": "/raggiesoft-books/books/paige/system-integration/the-transfer-point",
                     "illustration_count": 0,
-                    "word_count": 5081,
+                    "word_count": 5086,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1006,7 +1006,7 @@
                             "part_title": "Part 2: The Migration",
                             "file_path": "e005/c001/p002.md",
                             "url": "/paige/system-integration/the-transfer-point/part-2-the-migration",
-                            "word_count": 1277,
+                            "word_count": 1282,
                             "reading_minutes": 6,
                             "location": "Unknown",
                             "excerpt": "The silence of the living room was broken by a groan. It wasn't a sound of distress; it was the sound of a spine complaining about physics. Jenna shifted in the \"Heap,\" her leg kicking out involuntarily as she\u2026"
@@ -1018,14 +1018,14 @@
                     "chap_title": "The Physical Layer",
                     "chap_url": "/raggiesoft-books/books/paige/system-integration/the-physical-layer",
                     "illustration_count": 0,
-                    "word_count": 7753,
+                    "word_count": 7782,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Descent & The Mega-Bed",
                             "file_path": "e005/c002/p001.md",
                             "url": "/paige/system-integration/the-physical-layer/part-1-the-descent-the-mega-bed",
-                            "word_count": 3448,
+                            "word_count": 3457,
                             "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The morning light filtered through the blackout curtains of the Master Bedroom, signaling that the \"Silo\" had successfully protected its occupants for another rotation. Freddie woke up in the center of the mass\u2026"
@@ -1035,7 +1035,7 @@
                             "part_title": "Part 2: The Pittsburgh Toilet & The Wet Room",
                             "file_path": "e005/c002/p002.md",
                             "url": "/paige/system-integration/the-physical-layer/part-2-the-pittsburgh-toilet-the-wet-room",
-                            "word_count": 3123,
+                            "word_count": 3121,
                             "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "The \"Mega-Bed\" specifications were locked. The Thru-Floor Lift was in the cart. The digital architecture of the new basement was taking shape on the screen of the MagnaByte laptop. \"Okay,\" Jessica said\u2026"
@@ -1045,7 +1045,7 @@
                             "part_title": "Part 3: The Mega-Bed Assembly",
                             "file_path": "e005/c002/p003.md",
                             "url": "/paige/system-integration/the-physical-layer/part-3-the-mega-bed-assembly",
-                            "word_count": 1182,
+                            "word_count": 1204,
                             "reading_minutes": 5,
                             "location": "Unknown",
                             "excerpt": "The driveway on Pepper Street looked like a construction staging area. A large delivery truck from Comfort-Rest Mattress Depot was idling at the curb. Next to it, the family's silver Horizon Sanctuary was parked\u2026"
@@ -1057,7 +1057,7 @@
                     "chap_title": "The Satellite Link",
                     "chap_url": "/raggiesoft-books/books/paige/system-integration/the-satellite-link",
                     "illustration_count": 0,
-                    "word_count": 6635,
+                    "word_count": 6653,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1074,7 +1074,7 @@
                             "part_title": "Part 2: The Mess Hall & The Transit Bible",
                             "file_path": "e005/c003/p002.md",
                             "url": "/paige/system-integration/the-satellite-link/part-2-the-mess-hall-the-transit-bible",
-                            "word_count": 3282,
+                            "word_count": 3300,
                             "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The \"Decoy\" bedroom was left behind, its door clicked shut on a life they didn't live. The Avery Unit\u2014now expanded to a platoon of nine\u2014migrated back to the main living area. The house was small, but the energy\u2026"

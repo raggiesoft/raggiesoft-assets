@@ -12,18 +12,18 @@
         "pdf": "648 KB",
         "text_epub": "232 KB",
         "text_pdf": "648 KB",
-        "package_7z": "",
-        "epub_bytes": 237609,
-        "pdf_bytes": 663054,
-        "text_epub_bytes": 237610,
-        "text_pdf_bytes": 663054,
-        "package_7z_bytes": 0
+        "package_7z": "168 KB",
+        "epub_bytes": 237664,
+        "pdf_bytes": 663662,
+        "text_epub_bytes": 237663,
+        "text_pdf_bytes": 663662,
+        "package_7z_bytes": 172193
     },
     "illustration_count": 0,
     "word_stats": {
-        "story_word_count": 94109,
+        "story_word_count": 94123,
         "lore_word_count": 19833,
-        "combined_word_count": 113942,
+        "combined_word_count": 113956,
         "story_page_count": 342,
         "combined_page_count": 414,
         "reading_hours": 6.3,
@@ -401,14 +401,14 @@
             "era_title": "Book: The Centennial Gala",
             "era_url": "/raggiesoft-books/books/ruby-mountain/book-the-centennial-gala",
             "illustration_count": 0,
-            "word_count": 19196,
+            "word_count": 19210,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Centennial Eve",
                     "chap_url": "/raggiesoft-books/books/ruby-mountain/book-the-centennial-gala/chapter-1-the-centennial-eve",
                     "illustration_count": 0,
-                    "word_count": 4023,
+                    "word_count": 4037,
                     "parts": [
                         {
                             "part_num": 1,
@@ -426,7 +426,7 @@
                             "part_title": "Part 2: The Midnight War Room",
                             "file_path": "e004/c001/p002.md",
                             "url": "/ruby-mountain/book-the-centennial-gala/chapter-1-the-centennial-eve/part-2-the-midnight-war-room",
-                            "word_count": 852,
+                            "word_count": 866,
                             "reading_minutes": 4,
                             "date": "2003-10-15",
                             "location": "Unknown",

@@ -9,25 +9,25 @@
     "next_series_url": "",
     "ebook_sizes": {
         "epub": "17.1 MB",
-        "pdf": "18.8 MB",
-        "text_epub": "181 KB",
-        "text_pdf": "561 KB",
-        "package_7z": "",
-        "epub_bytes": 17918297,
-        "pdf_bytes": 19689814,
-        "text_epub_bytes": 185045,
-        "text_pdf_bytes": 573989,
-        "package_7z_bytes": 0
+        "pdf": "18.7 MB",
+        "text_epub": "180 KB",
+        "text_pdf": "521 KB",
+        "package_7z": "139 KB",
+        "epub_bytes": 17918001,
+        "pdf_bytes": 19649366,
+        "text_epub_bytes": 184771,
+        "text_pdf_bytes": 533476,
+        "package_7z_bytes": 142474
     },
     "illustration_count": 25,
     "word_stats": {
-        "story_word_count": 65113,
+        "story_word_count": 65187,
         "lore_word_count": 26225,
-        "combined_word_count": 91338,
+        "combined_word_count": 91412,
         "story_page_count": 237,
         "combined_page_count": 332,
         "reading_hours": 4.3,
-        "reading_minutes": 260,
+        "reading_minutes": 261,
         "novel_equivalent": 0.7,
         "scale_category": "Compact Novel",
         "scale_badge": "Compact Novel",
@@ -53,7 +53,7 @@
             "part_count": 7,
             "backstage_count": 1,
             "stop_count": 8,
-            "word_count": 20304,
+            "word_count": 20308,
             "reading_minutes": 82,
             "reading_hours": 1.4,
             "stops": [
@@ -111,7 +111,7 @@
                     "image": "/raggiesoft-books/images/scenes/stardust-engine/e002/c002/p001/dec-14-90-cassidy-overnight-anchor.jpg",
                     "url": "/stardust-engine/book-2-live-in-chicago-mile-marker-98-1989-1990/chapter-2-mile-marker-98-protocol-t-10-december-10-1990/mile-marker-98-protocol-t-10-1990",
                     "arc_url": "/stardust-engine/book-2-live-in-chicago-mile-marker-98-1989-1990/chapter-2-mile-marker-98-protocol-t-10-december-10-1990/mile-marker-98-protocol-t-10-1990?arc=apex-records-to-engine-room-independence",
-                    "word_count": 3766,
+                    "word_count": 3758,
                     "reading_minutes": 16
                 },
                 {
@@ -149,7 +149,7 @@
                     "image": "/stardust-engine/images/story/ad-astra/ad-astra-hero.jpg",
                     "url": "/stardust-engine/book-3-the-friction-narrative-the-warehouse-tapes-1992-1995/chapter-2-the-subpoena-the-felony-trial-the-wilderness-1992-1995/the-subpoena-the-felony-trial-the-wilderness-1992-1995",
                     "arc_url": "/stardust-engine/book-3-the-friction-narrative-the-warehouse-tapes-1992-1995/chapter-2-the-subpoena-the-felony-trial-the-wilderness-1992-1995/the-subpoena-the-felony-trial-the-wilderness-1992-1995?arc=apex-records-to-engine-room-independence",
-                    "word_count": 2151,
+                    "word_count": 2162,
                     "reading_minutes": 9
                 },
                 {
@@ -187,7 +187,7 @@
                     "image": "/raggiesoft-books/images/scenes/stardust-engine/e004/c002/p001/holly-band-manager-job-shadow.jpg",
                     "url": "/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1995-2004/chapter-2-job-shadowing-the-manager-a-day-in-the-life-of-holly-o-connell-october-15-1999/job-shadowing-the-manager-a-day-in-the-life-of-holly-o-connell",
                     "arc_url": "/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1995-2004/chapter-2-job-shadowing-the-manager-a-day-in-the-life-of-holly-o-connell-october-15-1999/job-shadowing-the-manager-a-day-in-the-life-of-holly-o-connell?arc=apex-records-to-engine-room-independence",
-                    "word_count": 4762,
+                    "word_count": 4763,
                     "reading_minutes": 20
                 },
                 {
@@ -225,7 +225,7 @@
             "part_count": 11,
             "backstage_count": 1,
             "stop_count": 12,
-            "word_count": 22160,
+            "word_count": 22151,
             "reading_minutes": 89,
             "reading_hours": 1.5,
             "stops": [
@@ -264,7 +264,7 @@
                     "image": "/raggiesoft-books/images/covers/2x3/stardust-engine.jpg",
                     "url": "/stardust-engine/book-5-burnout-hiatus-our-own-frequency-neon-on-the-huckleberry-trail-2005-2016/chapter-1-our-own-frequency-the-blue-ridge-regional-aquatic-center-virginia-transit-legislative-day-2008-2016/part-2-forty-one-degrees-in-the-rain-the-rlfd30-kneeling-ramp-ninety-five-point-five-in-the-cove",
                     "arc_url": "/stardust-engine/book-5-burnout-hiatus-our-own-frequency-neon-on-the-huckleberry-trail-2005-2016/chapter-1-our-own-frequency-the-blue-ridge-regional-aquatic-center-virginia-transit-legislative-day-2008-2016/part-2-forty-one-degrees-in-the-rain-the-rlfd30-kneeling-ramp-ninety-five-point-five-in-the-cove?arc=reignition-and-live-at-the-crucible",
-                    "word_count": 1187,
+                    "word_count": 1174,
                     "reading_minutes": 5
                 },
                 {
@@ -431,11 +431,11 @@
                     "chap_title": "Chapter 1: Live at the Crucible (May 21, 2016)",
                     "date": "2016-05-22",
                     "location": "\\",
-                    "excerpt": "On any other world tour between 1987 and 2005, the Sunday afternoon after athree-hour stadium show meant waking up stiff and exhausted in a hotel bed four hundred miles away, transferring onto a cold shower\u2026",
+                    "excerpt": "On any other world tour between 1987 and 2005, the Sunday afternoon after a three-hour stadium show meant waking up stiff and exhausted in a hotel bed four hundred miles away, transferring onto a cold shower\u2026",
                     "image": "/raggiesoft-books/images/covers/2x3/stardust-engine.jpg",
                     "url": "/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-8-the-morning-after-95-5-f-at-the-blue-ridge-regional-aquatic-center",
                     "arc_url": "/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-8-the-morning-after-95-5-f-at-the-blue-ridge-regional-aquatic-center?arc=reignition-and-live-at-the-crucible",
-                    "word_count": 3108,
+                    "word_count": 3112,
                     "reading_minutes": 13
                 },
                 {
@@ -466,21 +466,21 @@
             "era_title": "Book 1: Analog Heart & Teenager in the Valley (1978\u20131989)",
             "era_url": "/raggiesoft-books/books/stardust-engine/book-1-analog-heart-teenager-in-the-valley-1978-1989",
             "illustration_count": 0,
-            "word_count": 6452,
+            "word_count": 6490,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: The Noise Floor (September 1978)",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-1-analog-heart-teenager-in-the-valley-1978-1989/chapter-1-the-noise-floor-september-1978",
                     "illustration_count": 0,
-                    "word_count": 2581,
+                    "word_count": 2619,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "High Fidelity, Safe Harbor & The Circuit",
                             "file_path": "e001/c001/p001.md",
                             "url": "/stardust-engine/book-1-analog-heart-teenager-in-the-valley-1978-1989/chapter-1-the-noise-floor-september-1978/high-fidelity-safe-harbor-the-circuit",
-                            "word_count": 2581,
+                            "word_count": 2619,
                             "reading_minutes": 11,
                             "date": "1978-09-05",
                             "start_time": "08:00",
@@ -538,7 +538,7 @@
             "era_title": "Book 2: Live in Chicago & Mile Marker 98 (1989\u20131990)",
             "era_url": "/raggiesoft-books/books/stardust-engine/book-2-live-in-chicago-mile-marker-98-1989-1990",
             "illustration_count": 3,
-            "word_count": 7988,
+            "word_count": 7980,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -566,14 +566,14 @@
                     "chap_title": "Chapter 2: Mile Marker 98 & Protocol T-10 (December 10, 1990)",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-2-live-in-chicago-mile-marker-98-1989-1990/chapter-2-mile-marker-98-protocol-t-10-december-10-1990",
                     "illustration_count": 3,
-                    "word_count": 3766,
+                    "word_count": 3758,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Mile Marker 98 & Protocol T-10 (1990)",
                             "file_path": "e002/c002/p001.md",
                             "url": "/stardust-engine/book-2-live-in-chicago-mile-marker-98-1989-1990/chapter-2-mile-marker-98-protocol-t-10-december-10-1990/mile-marker-98-protocol-t-10-1990",
-                            "word_count": 3766,
+                            "word_count": 3758,
                             "reading_minutes": 16,
                             "date": "1990-12-10",
                             "start_time": "23:42",
@@ -606,7 +606,7 @@
             "era_title": "Book 3: The Friction Narrative & The Warehouse Tapes (1992\u20131995)",
             "era_url": "/raggiesoft-books/books/stardust-engine/book-3-the-friction-narrative-the-warehouse-tapes-1992-1995",
             "illustration_count": 0,
-            "word_count": 4584,
+            "word_count": 4595,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -634,14 +634,14 @@
                     "chap_title": "Chapter 2: The Subpoena, The Felony Trial & The Wilderness (1992\u20131995)",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-3-the-friction-narrative-the-warehouse-tapes-1992-1995/chapter-2-the-subpoena-the-felony-trial-the-wilderness-1992-1995",
                     "illustration_count": 0,
-                    "word_count": 2151,
+                    "word_count": 2162,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Subpoena, The Felony Trial & The Wilderness (1992\u20131995)",
                             "file_path": "e003/c002/p001.md",
                             "url": "/stardust-engine/book-3-the-friction-narrative-the-warehouse-tapes-1992-1995/chapter-2-the-subpoena-the-felony-trial-the-wilderness-1992-1995/the-subpoena-the-felony-trial-the-wilderness-1992-1995",
-                            "word_count": 2151,
+                            "word_count": 2162,
                             "reading_minutes": 9,
                             "date": "1992-09-19",
                             "start_time": "09:00",
@@ -657,7 +657,7 @@
             "era_title": "Book 4: Ad Astra, Hard Reset & The Stadium Years (1995\u20132004)",
             "era_url": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1995-2004",
             "illustration_count": 1,
-            "word_count": 7804,
+            "word_count": 7805,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -685,14 +685,14 @@
                     "chap_title": "Chapter 2: Job Shadowing the Manager \u2014 A Day in the Life of Holly O'Connell (October 15, 1999)",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1995-2004/chapter-2-job-shadowing-the-manager-a-day-in-the-life-of-holly-o-connell-october-15-1999",
                     "illustration_count": 1,
-                    "word_count": 4762,
+                    "word_count": 4763,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Job Shadowing the Manager \u2014 A Day in the Life of Holly O'Connell",
                             "file_path": "e004/c002/p001.md",
                             "url": "/stardust-engine/book-4-ad-astra-hard-reset-the-stadium-years-1995-2004/chapter-2-job-shadowing-the-manager-a-day-in-the-life-of-holly-o-connell-october-15-1999/job-shadowing-the-manager-a-day-in-the-life-of-holly-o-connell",
-                            "word_count": 4762,
+                            "word_count": 4763,
                             "reading_minutes": 20,
                             "date": "1999-10-15",
                             "start_time": "09:40",
@@ -738,14 +738,14 @@
             "era_title": "Book 5: Burnout Hiatus, Our Own Frequency & Neon on the Huckleberry Trail (2005\u20132016)",
             "era_url": "/raggiesoft-books/books/stardust-engine/book-5-burnout-hiatus-our-own-frequency-neon-on-the-huckleberry-trail-2005-2016",
             "illustration_count": 0,
-            "word_count": 5415,
+            "word_count": 5402,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Our Own Frequency, The Blue Ridge Regional Aquatic Center & Virginia Transit Legislative Day (2008\u20132016)",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-5-burnout-hiatus-our-own-frequency-neon-on-the-huckleberry-trail-2005-2016/chapter-1-our-own-frequency-the-blue-ridge-regional-aquatic-center-virginia-transit-legislative-day-2008-2016",
                     "illustration_count": 0,
-                    "word_count": 5415,
+                    "word_count": 5402,
                     "parts": [
                         {
                             "part_num": 1,
@@ -764,7 +764,7 @@
                             "part_title": "Part 2: Forty-One Degrees in the Rain, The RLFD30 Kneeling Ramp & Ninety-Five Point Five in The Cove",
                             "file_path": "e005/c001/p002.md",
                             "url": "/stardust-engine/book-5-burnout-hiatus-our-own-frequency-neon-on-the-huckleberry-trail-2005-2016/chapter-1-our-own-frequency-the-blue-ridge-regional-aquatic-center-virginia-transit-legislative-day-2008-2016/part-2-forty-one-degrees-in-the-rain-the-rlfd30-kneeling-ramp-ninety-five-point-five-in-the-cove",
-                            "word_count": 1187,
+                            "word_count": 1174,
                             "reading_minutes": 5,
                             "date": "2014-11-18",
                             "start_time": "15:15",
@@ -792,14 +792,14 @@
             "era_title": "Book 6: Reignition & Live at the Crucible (2015\u20132016)",
             "era_url": "/raggiesoft-books/books/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016",
             "illustration_count": 13,
-            "word_count": 15535,
+            "word_count": 15539,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Live at the Crucible (May 21, 2016)",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016",
                     "illustration_count": 13,
-                    "word_count": 15535,
+                    "word_count": 15539,
                     "parts": [
                         {
                             "part_num": 1,
@@ -977,12 +977,12 @@
                             "part_title": "Part 8: The Morning After: 95.5\u00b0F at the Blue Ridge Regional Aquatic Center",
                             "file_path": "e006/c001/p008.md",
                             "url": "/stardust-engine/book-6-reignition-live-at-the-crucible-2015-2016/chapter-1-live-at-the-crucible-may-21-2016/part-8-the-morning-after-95-5-f-at-the-blue-ridge-regional-aquatic-center",
-                            "word_count": 3108,
+                            "word_count": 3112,
                             "reading_minutes": 13,
                             "date": "2016-05-22",
                             "start_time": "14:00",
                             "location": "\\",
-                            "excerpt": "On any other world tour between 1987 and 2005, the Sunday afternoon after athree-hour stadium show meant waking up stiff and exhausted in a hotel bed four hundred miles away, transferring onto a cold shower\u2026"
+                            "excerpt": "On any other world tour between 1987 and 2005, the Sunday afternoon after a three-hour stadium show meant waking up stiff and exhausted in a hotel bed four hundred miles away, transferring onto a cold shower\u2026"
                         }
                     ]
                 }
@@ -993,7 +993,7 @@
             "era_title": "Book 7: The Nine-Figure Refusal & The Jessica Miller Center (2018\u20132019)",
             "era_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019",
             "illustration_count": 8,
-            "word_count": 17335,
+            "word_count": 17376,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -1030,14 +1030,14 @@
                     "chap_title": "Chapter 2: Omni-Global Media, Clause 88 & The Twin Protocol (September 14\u201319, 2018)",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-2-omni-global-media-clause-88-the-twin-protocol-september-14-19-2018",
                     "illustration_count": 2,
-                    "word_count": 7603,
+                    "word_count": 7620,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Omni-Global Media, Clause 88 & The Twin Protocol (September 14\u201319, 2018)",
                             "file_path": "e007/c002/p001.md",
                             "url": "/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-2-omni-global-media-clause-88-the-twin-protocol-september-14-19-2018/omni-global-media-clause-88-the-twin-protocol-september-14-19-2018",
-                            "word_count": 7603,
+                            "word_count": 7620,
                             "reading_minutes": 31,
                             "date": "2018-09-14",
                             "start_time": "09:35",
@@ -1064,14 +1064,14 @@
                     "chap_title": "Chapter 3: The Summit, The Retrofit & The Sting Operation (September 14\u201325, 2018)",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-3-the-summit-the-retrofit-the-sting-operation-september-14-25-2018",
                     "illustration_count": 1,
-                    "word_count": 4922,
+                    "word_count": 4931,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Summit, The Retrofit, The Sting & The ARTS Sleeper Problem (September 14\u201327, 2018)",
                             "file_path": "e007/c003/p001.md",
                             "url": "/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-3-the-summit-the-retrofit-the-sting-operation-september-14-25-2018/the-summit-the-retrofit-the-sting-the-arts-sleeper-problem-september-14-27-2018",
-                            "word_count": 4922,
+                            "word_count": 4931,
                             "reading_minutes": 20,
                             "date": "2018-09-14",
                             "start_time": "09:56",
@@ -1094,14 +1094,14 @@
                     "chap_title": "Chapter 4: The Jessica Miller Center & The Frost Interview (December 2018\u2013February 2019)",
                     "chap_url": "/raggiesoft-books/books/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-4-the-jessica-miller-center-the-frost-interview-december-2018-february-2019",
                     "illustration_count": 4,
-                    "word_count": 2606,
+                    "word_count": 2621,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Jessica Miller Center & The Frost Interview (December 2018\u2013February 2019)",
                             "file_path": "e007/c004/p001.md",
                             "url": "/stardust-engine/book-7-the-nine-figure-refusal-the-jessica-miller-center-2018-2019/chapter-4-the-jessica-miller-center-the-frost-interview-december-2018-february-2019/the-jessica-miller-center-the-frost-interview-december-2018-february-2019",
-                            "word_count": 2606,
+                            "word_count": 2621,
                             "reading_minutes": 11,
                             "date": "2019-02-14",
                             "start_time": "10:00",

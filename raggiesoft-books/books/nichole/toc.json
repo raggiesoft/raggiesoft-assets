@@ -8,26 +8,26 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/nichole.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "443 KB",
+        "epub": "444 KB",
         "pdf": "1.2 MB",
-        "text_epub": "443 KB",
+        "text_epub": "444 KB",
         "text_pdf": "1.2 MB",
-        "package_7z": "",
-        "epub_bytes": 453636,
-        "pdf_bytes": 1272576,
-        "text_epub_bytes": 453635,
-        "text_pdf_bytes": 1272576,
-        "package_7z_bytes": 0
+        "package_7z": "321 KB",
+        "epub_bytes": 454633,
+        "pdf_bytes": 1267260,
+        "text_epub_bytes": 454631,
+        "text_pdf_bytes": 1267260,
+        "package_7z_bytes": 328504
     },
     "illustration_count": 0,
     "word_stats": {
-        "story_word_count": 186519,
+        "story_word_count": 187252,
         "lore_word_count": 133,
-        "combined_word_count": 186652,
-        "story_page_count": 678,
-        "combined_page_count": 679,
-        "reading_hours": 12.4,
-        "reading_minutes": 746,
+        "combined_word_count": 187385,
+        "story_page_count": 681,
+        "combined_page_count": 681,
+        "reading_hours": 12.5,
+        "reading_minutes": 749,
         "novel_equivalent": 2.1,
         "scale_category": "Epic Full-Length Novel",
         "scale_badge": "Epic Novel",
@@ -45,21 +45,21 @@
             "era_title": "Elementary School",
             "era_url": "/raggiesoft-books/books/nichole/elementary-school",
             "illustration_count": 0,
-            "word_count": 12097,
+            "word_count": 12132,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Newport Vacation",
                     "chap_url": "/raggiesoft-books/books/nichole/elementary-school/the-newport-vacation",
                     "illustration_count": 0,
-                    "word_count": 11541,
+                    "word_count": 11556,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Bachelor Pad & The Pitch",
                             "file_path": "e001/c001/p001.md",
                             "url": "/nichole/elementary-school/the-newport-vacation/part-1-the-bachelor-pad-the-pitch",
-                            "word_count": 2635,
+                            "word_count": 2650,
                             "reading_minutes": 11,
                             "location": "Unknown",
                             "excerpt": "The heat in Newport wasn't like the heat in Virginia. In Virginia, the heat was a wet blanket that smelled of asphalt and swamp. Here, on Washington Street, the heat was salty. It stuck to your skin, smelling of\u2026"
@@ -101,14 +101,14 @@
                     "chap_title": "Project Alpha",
                     "chap_url": "/raggiesoft-books/books/nichole/elementary-school/project-alpha",
                     "illustration_count": 0,
-                    "word_count": 556,
+                    "word_count": 576,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Origin Story: Project Alpha",
                             "file_path": "e001/c002/p001.md",
                             "url": "/nichole/elementary-school/project-alpha/origin-story-project-alpha",
-                            "word_count": 556,
+                            "word_count": 576,
                             "reading_minutes": 3,
                             "location": "Unknown",
                             "excerpt": "The crisis started, as most innovation does, with a failure of the existing technology. Ten-year-old Nichole was sitting in the bathtub. She was trying to tell her mom that the water was too hot. She reached for\u2026"
@@ -122,24 +122,24 @@
             "era_title": "Middle School",
             "era_url": "/raggiesoft-books/books/nichole/middle-school",
             "illustration_count": 0,
-            "word_count": 13729,
+            "word_count": 13744,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Test Run",
                     "chap_url": "/raggiesoft-books/books/nichole/middle-school/the-test-run",
                     "illustration_count": 0,
-                    "word_count": 908,
+                    "word_count": 913,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Curb Trap",
                             "file_path": "e002/c001/p001.md",
                             "url": "/nichole/middle-school/the-test-run/the-curb-trap",
-                            "word_count": 908,
+                            "word_count": 913,
                             "reading_minutes": 4,
                             "location": "Morrison Middle School (Main Entrance)",
-                            "excerpt": "Date: August 28, 1996 (Three days before 6th Grade) Time: 10:00 AM The heat of late August hung over Morrison Street like a wet wool blanket. It was ninety degrees in the shade, and the asphalt of the school\u2026"
+                            "excerpt": "At ten o'clock on the morning of August 28, 1996\u2014three days before the start of sixth grade\u2014the heat of late August hung over Morrison Street like a wet wool blanket. It was ninety degrees in the shade, and the\u2026"
                         }
                     ]
                 },
@@ -148,17 +148,17 @@
                     "chap_title": "The Yellow Wall",
                     "chap_url": "/raggiesoft-books/books/nichole/middle-school/the-yellow-wall",
                     "illustration_count": 0,
-                    "word_count": 748,
+                    "word_count": 746,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Arrival at Morrison Middle School",
                             "file_path": "e002/c002/p001.md",
                             "url": "/nichole/middle-school/the-yellow-wall/arrival-at-morrison-middle-school",
-                            "word_count": 748,
+                            "word_count": 746,
                             "reading_minutes": 3,
                             "location": "Unknown",
-                            "excerpt": "Date: September 3, 1996 (First Day of 6th Grade) Time: 07:45 AM Location: The Corner of Earnhardt & Morrison The morning air was different than the Test Run. The August humidity was still there, but now it was\u2026"
+                            "excerpt": "On September 3, 1996\u2014the first morning of sixth grade\u2014the air at the corner of Earnhardt and Morrison felt completely different than the test run. The August humidity was still there, but now it was mixed with\u2026"
                         }
                     ]
                 },
@@ -167,7 +167,7 @@
                     "chap_title": "Middle School Life",
                     "chap_url": "/raggiesoft-books/books/nichole/middle-school/middle-school-life",
                     "illustration_count": 0,
-                    "word_count": 12073,
+                    "word_count": 12085,
                     "parts": [
                         {
                             "part_num": 1,
@@ -184,8 +184,8 @@
                             "part_title": "Part 2: The Call",
                             "file_path": "e002/c003/p002.md",
                             "url": "/nichole/middle-school/middle-school-life/part-2-the-call",
-                            "word_count": 6999,
-                            "reading_minutes": 28,
+                            "word_count": 7003,
+                            "reading_minutes": 29,
                             "location": "Unknown",
                             "excerpt": "The phone rang. Ellen Bennett picked it up, wiping flour from her hands. \"Mrs. Bennett? This is Morrison Middle School,\" the secretary\u2019s voice was crisp and professional. \"Is everything okay?\" Ellen asked, her\u2026"
                         },
@@ -194,10 +194,10 @@
                             "part_title": "Part 3: Delaney Street, Virginia Beach & The Architect and the Laborer",
                             "file_path": "e002/c003/p003.md",
                             "url": "/nichole/middle-school/middle-school-life/part-3-delaney-street-virginia-beach-the-architect-and-the-laborer",
-                            "word_count": 3588,
+                            "word_count": 3596,
                             "reading_minutes": 15,
                             "location": "Unknown",
-                            "excerpt": "The victory had lasted exactly twenty-eight days. For nearly a month, the Bennett household had operated under the comforting umbrella of the \"Resolution Letter.\" Patrick felt ten feet tall. He walked the halls\u2026"
+                            "excerpt": "At quarter to four on that Tuesday afternoon on Delaney Street, the victory that had lasted exactly twenty-eight days came to an end. For nearly a month, the Bennett household had operated under the comforting\u2026"
                         }
                     ]
                 }
@@ -254,7 +254,7 @@
                             "word_count": 3137,
                             "reading_minutes": 13,
                             "location": "Northwood High School, Second Floor Academic Wing (",
-                            "excerpt": "Date: April 12, 2002 (Spring of 11th Grade) Time: 10:15 AM The lesson on the Reconstruction Era was dragging. Mr. Henderson was midway through explaining the Compromise of 1877, his voice a steady drone against\u2026"
+                            "excerpt": "At 10:15 AM on April 12, 2002, in the spring of eleventh grade, the lesson on the Reconstruction Era was dragging. Mr. Henderson was midway through explaining the Compromise of 1877, his voice a steady drone\u2026"
                         }
                     ]
                 }
@@ -265,7 +265,7 @@
             "era_title": "Junior Year",
             "era_url": "/raggiesoft-books/books/nichole/junior-year",
             "illustration_count": 0,
-            "word_count": 8364,
+            "word_count": 8378,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -291,14 +291,14 @@
                     "chap_title": "The Handover",
                     "chap_url": "/raggiesoft-books/books/nichole/junior-year/the-handover",
                     "illustration_count": 0,
-                    "word_count": 5643,
+                    "word_count": 5657,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The First Shift",
                             "file_path": "e004/c002/p001.md",
                             "url": "/nichole/junior-year/the-handover/part-1-the-first-shift",
-                            "word_count": 2575,
+                            "word_count": 2589,
                             "reading_minutes": 11,
                             "location": "Unknown",
                             "excerpt": "The house was cooling down after the heat of the day. The central air hummed a low, steady rhythm. In the hallway, outside the main bathroom, the mood was focused. This wasn't just \"bath time.\" It was\u2026"
@@ -322,21 +322,21 @@
             "era_title": "Senior Year",
             "era_url": "/raggiesoft-books/books/nichole/senior-year",
             "illustration_count": 0,
-            "word_count": 7215,
+            "word_count": 7253,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Graduation",
                     "chap_url": "/raggiesoft-books/books/nichole/senior-year/graduation",
                     "illustration_count": 0,
-                    "word_count": 4227,
+                    "word_count": 4236,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Breach & The Search",
                             "file_path": "e005/c001/p001.md",
                             "url": "/nichole/senior-year/graduation/part-1-the-breach-the-search",
-                            "word_count": 2960,
+                            "word_count": 2969,
                             "reading_minutes": 12,
                             "location": "Unknown",
                             "excerpt": "The air in the gymnasium was thick enough to chew. It smelled of floor wax, corsage flowers, and the nervous sweat of four hundred teenagers. The Northwood High School gymnasium was draped in Purple and Gold\u2026"
@@ -358,15 +358,15 @@
                     "chap_title": "The Reset",
                     "chap_url": "/raggiesoft-books/books/nichole/senior-year/the-reset",
                     "illustration_count": 0,
-                    "word_count": 2988,
+                    "word_count": 3017,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Damage Control & The War Room",
                             "file_path": "e005/c002/p001.md",
                             "url": "/nichole/senior-year/the-reset/damage-control-the-war-room",
-                            "word_count": 2988,
-                            "reading_minutes": 12,
+                            "word_count": 3017,
+                            "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "Tom nodded at Patrick, sensing the density of the air in the room. He picked up the toolbox and the wobbly wheel Patrick had removed. \"I'll take the rim out to the garage vice. I\u2019ll get it true again. You two\u2026"
                         }
@@ -379,7 +379,7 @@
             "era_title": "College Tours",
             "era_url": "/raggiesoft-books/books/nichole/college-tours",
             "illustration_count": 0,
-            "word_count": 68444,
+            "word_count": 68525,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -405,14 +405,14 @@
                     "chap_title": "The Institution",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/the-institution",
                     "illustration_count": 0,
-                    "word_count": 11877,
+                    "word_count": 11947,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Valley of Hope & The Barracks",
                             "file_path": "e006/c002/p001.md",
                             "url": "/nichole/college-tours/the-institution/part-1-the-valley-of-hope-the-barracks",
-                            "word_count": 3417,
+                            "word_count": 3433,
                             "reading_minutes": 14,
                             "location": "Roosevelt Rehabilitation Center, Fishersville, VA",
                             "excerpt": "The drive was a seduction. As Tom piloted the van west away from the flat, humid congestion of the Tidewater area, the landscape began to heave and roll. They climbed Afton Mountain, the engine humming a deep\u2026"
@@ -434,7 +434,7 @@
                             "part_title": "Part 3: The Pasture & The Night Watch",
                             "file_path": "e006/c002/p003.md",
                             "url": "/nichole/college-tours/the-institution/part-3-the-pasture-the-night-watch",
-                            "word_count": 3369,
+                            "word_count": 3416,
                             "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The afternoon sun began to dip, casting long, golden shadows across the Shenandoah Valley. The heat broke, replaced by a gentle breeze coming off the Blue Ridge that smelled of clover and damp earth. Sherry had\u2026"
@@ -444,7 +444,7 @@
                             "part_title": "Part 4: The Morning Report & The Pivot",
                             "file_path": "e006/c002/p004.md",
                             "url": "/nichole/college-tours/the-institution/part-4-the-morning-report-the-pivot",
-                            "word_count": 1737,
+                            "word_count": 1744,
                             "reading_minutes": 7,
                             "location": "Unknown",
                             "excerpt": "The sun was already high, cutting through the sheer curtains and warming the dust motes dancing in the air. Sherry came down the stairs first, tying the sash of her robe. She moved quietly, intending to check on\u2026"
@@ -456,7 +456,7 @@
                     "chap_title": "Virginia Dominion University",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/virginia-dominion-university",
                     "illustration_count": 0,
-                    "word_count": 7747,
+                    "word_count": 7755,
                     "parts": [
                         {
                             "part_num": 1,
@@ -473,7 +473,7 @@
                             "part_title": "Part 2: The Sanctuary & The Dealbreaker",
                             "file_path": "e006/c003/p002.md",
                             "url": "/nichole/college-tours/virginia-dominion-university/part-2-the-sanctuary-the-dealbreaker",
-                            "word_count": 3680,
+                            "word_count": 3688,
                             "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "\"Going down!\" Megan announced, pressing the call button in the 8th-floor lobby. The elevator system, true to its vintage nature, only sent one car. The doors slid open with a rattle. \"Okay, capacity limits are\u2026"
@@ -495,7 +495,7 @@
                     "chap_title": "Trek Up the East Coast",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/trek-up-the-east-coast",
                     "illustration_count": 0,
-                    "word_count": 4773,
+                    "word_count": 4772,
                     "parts": [
                         {
                             "part_num": 1,
@@ -512,7 +512,7 @@
                             "part_title": "Part 2: The Machine at Rest & The Hopeful Morning",
                             "file_path": "e006/c004/p002.md",
                             "url": "/nichole/college-tours/trek-up-the-east-coast/part-2-the-machine-at-rest-the-hopeful-morning",
-                            "word_count": 1629,
+                            "word_count": 1628,
                             "reading_minutes": 7,
                             "location": "Unknown",
                             "excerpt": "Aunt Carol\u2019s sedan led the way down State Route 27, her taillights glowing red in the dusk as the heavy Bennett van followed closely behind. They pulled into the parking lot of a major highway hotel just off the\u2026"
@@ -524,17 +524,17 @@
                     "chap_title": "Vermont",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/vermont",
                     "illustration_count": 0,
-                    "word_count": 7180,
+                    "word_count": 7182,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Green Mountain Haul",
                             "file_path": "e006/c005/p001.md",
                             "url": "/nichole/college-tours/vermont/part-1-the-green-mountain-haul",
-                            "word_count": 1056,
+                            "word_count": 1058,
                             "reading_minutes": 5,
                             "location": "I-91 North (Crossing the Massachusetts/Vermont Line)",
-                            "excerpt": "Date: July 2, 2003 Time: 2:00 PM The transition was subtle at first, then undeniable. The grey industrial sprawl of the New Jersey Turnpike and the congested loops of the New York State Thruway had given way to\u2026"
+                            "excerpt": "By two o'clock on the afternoon of July 2, 2003, the transition was subtle at first, then undeniable. The grey industrial sprawl of the New Jersey Turnpike and the congested loops of the New York State Thruway\u2026"
                         },
                         {
                             "part_num": 2,
@@ -544,7 +544,7 @@
                             "word_count": 3214,
                             "reading_minutes": 13,
                             "location": "Putney College, Putney, Vermont",
-                            "excerpt": "Time: 8:00 AM The morning air in Vermont was crisp, lacking the heavy, wet humidity of a Virginia summer. It felt like a fresh start. Patrick pushed the purple Titan AeroMotion up the paved path toward the\u2026"
+                            "excerpt": "At eight o'clock in the morning, the Vermont air was crisp, lacking the heavy, wet humidity of a Virginia summer. It felt like a fresh start. Patrick pushed the purple Titan AeroMotion up the paved path toward\u2026"
                         },
                         {
                             "part_num": 3,
@@ -554,7 +554,7 @@
                             "word_count": 2910,
                             "reading_minutes": 12,
                             "location": "The Van (Leaving Putney)",
-                            "excerpt": "Time: 12:15 PM They moved fast across the parking lot. Patrick wasn't pushing casually; he was marching. He wanted her away from this place. He wanted her away from the people who saw her as a liability and him\u2026"
+                            "excerpt": "At 12:15 PM, they moved fast across the parking lot. Patrick wasn't pushing casually; he was marching. He wanted her away from this place. He wanted her away from the people who saw her as a liability and him as\u2026"
                         }
                     ]
                 },
@@ -563,14 +563,14 @@
                     "chap_title": "An Ocean of an Idea",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/an-ocean-of-an-idea",
                     "illustration_count": 0,
-                    "word_count": 7509,
+                    "word_count": 7510,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The New Jersey Pivot",
                             "file_path": "e006/c006/p001.md",
                             "url": "/nichole/college-tours/an-ocean-of-an-idea/part-1-the-new-jersey-pivot",
-                            "word_count": 3103,
+                            "word_count": 3104,
                             "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "The drive south was a study in geographical transitions. They left the pastoral, rolling hills of Vermont and cut through the western edge of Massachusetts. Tom navigated the heavy van with precision. Instead of\u2026"
@@ -631,7 +631,7 @@
                     "chap_title": "The Gap Year Protocol",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/the-gap-year-protocol",
                     "illustration_count": 0,
-                    "word_count": 9954,
+                    "word_count": 9955,
                     "parts": [
                         {
                             "part_num": 1,
@@ -658,7 +658,7 @@
                             "part_title": "Part 3: The Milestone Payment & The Credential Hunt",
                             "file_path": "e006/c008/p003.md",
                             "url": "/nichole/college-tours/the-gap-year-protocol/part-3-the-milestone-payment-the-credential-hunt",
-                            "word_count": 2705,
+                            "word_count": 2706,
                             "reading_minutes": 11,
                             "location": "Unknown",
                             "excerpt": "The real reason Uncle Mark had chosen the ranch on West Main Road wasn't just the zero-step entrance or the proximity to the bus line. It was the roofline. The house featured an oversized, reinforced\u2026"
@@ -711,7 +711,7 @@
             "era_title": "The Gap Year",
             "era_url": "/raggiesoft-books/books/nichole/the-gap-year",
             "illustration_count": 0,
-            "word_count": 24154,
+            "word_count": 24274,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -757,7 +757,7 @@
                     "chap_title": "The Commuter Protocol",
                     "chap_url": "/raggiesoft-books/books/nichole/the-gap-year/the-commuter-protocol",
                     "illustration_count": 0,
-                    "word_count": 6953,
+                    "word_count": 6967,
                     "parts": [
                         {
                             "part_num": 1,
@@ -774,7 +774,7 @@
                             "part_title": "Part 2: The Bridge Fund & The Zero-Barrier Routine",
                             "file_path": "e007/c002/p002.md",
                             "url": "/nichole/the-gap-year/the-commuter-protocol/part-2-the-bridge-fund-the-zero-barrier-routine",
-                            "word_count": 3619,
+                            "word_count": 3633,
                             "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The mail arrived at 4:00 PM. By 4:30 PM, the kitchen table at the Fortress was covered in confetti, and Uncle Mark was pouring sparkling cider into everyone's glasses. Sitting in the center of the table were not\u2026"
@@ -786,14 +786,14 @@
                     "chap_title": "Exploring Braxton",
                     "chap_url": "/raggiesoft-books/books/nichole/the-gap-year/exploring-braxton",
                     "illustration_count": 0,
-                    "word_count": 4605,
+                    "word_count": 4649,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Zero-Friction Protocol & The Safe Harbor",
                             "file_path": "e007/c003/p001.md",
                             "url": "/nichole/the-gap-year/exploring-braxton/part-1-the-zero-friction-protocol-the-safe-harbor",
-                            "word_count": 3278,
+                            "word_count": 3301,
                             "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "The sun hit the industrial windows of The Foundry Lofts, filling the room with a warm, brilliant light. Patrick opened his eyes. For a second, he panicked. He reached out, expecting to feel the familiar tangle\u2026"
@@ -803,7 +803,7 @@
                             "part_title": "Part 2: The Gen-Ed Pact",
                             "file_path": "e007/c003/p002.md",
                             "url": "/nichole/the-gap-year/exploring-braxton/part-2-the-gen-ed-pact",
-                            "word_count": 1327,
+                            "word_count": 1348,
                             "reading_minutes": 6,
                             "location": "Unknown",
                             "excerpt": "The sun had finally dipped below the skyline, painting the loft in cool twilight blues. Patrick and Nichole had migrated from the sofa to the \"Command Center\" in the second bedroom. It was time to test the\u2026"
@@ -815,14 +815,14 @@
                     "chap_title": "The Sync",
                     "chap_url": "/raggiesoft-books/books/nichole/the-gap-year/the-sync",
                     "illustration_count": 0,
-                    "word_count": 1927,
+                    "word_count": 1988,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The War Room",
                             "file_path": "e007/c004/p001.md",
                             "url": "/nichole/the-gap-year/the-sync/the-war-room",
-                            "word_count": 1927,
+                            "word_count": 1988,
                             "reading_minutes": 8,
                             "location": "Unknown",
                             "excerpt": "The second bedroom of The Foundry Lofts looked like NAA Mission Control. Patrick sat at his desk, his fingers hovering over the keyboard. On his screen, the BSU Student Portal (Banner Web) was loaded, displaying\u2026"
@@ -834,14 +834,14 @@
                     "chap_title": "The Fortress Test",
                     "chap_url": "/raggiesoft-books/books/nichole/the-gap-year/the-fortress-test",
                     "illustration_count": 0,
-                    "word_count": 2666,
+                    "word_count": 2667,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Severed Link & The Sacred Trust",
                             "file_path": "e007/c005/p001.md",
                             "url": "/nichole/the-gap-year/the-fortress-test/the-severed-link-the-sacred-trust",
-                            "word_count": 2666,
+                            "word_count": 2667,
                             "reading_minutes": 11,
                             "location": "Unknown",
                             "excerpt": "The summer of 2004 had been hot and humid, but the humidity broke with violence. A severe coastal low\u2014a \"Nor'easter\" with a tropical attitude\u2014had parked itself over Narragansett Bay. For the last four hours\u2026"
@@ -855,7 +855,7 @@
             "era_title": "Braxton Freshman",
             "era_url": "/raggiesoft-books/books/nichole/braxton-freshman",
             "illustration_count": 0,
-            "word_count": 36420,
+            "word_count": 36687,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -891,14 +891,14 @@
                     "chap_title": "The Machine in Motion",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/the-machine-in-motion",
                     "illustration_count": 0,
-                    "word_count": 11532,
+                    "word_count": 11561,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Zero-Friction Morning & The Transit Chase",
                             "file_path": "e008/c002/p001.md",
                             "url": "/nichole/braxton-freshman/the-machine-in-motion/part-1-the-zero-friction-morning-the-transit-chase",
-                            "word_count": 3646,
+                            "word_count": 3694,
                             "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The alarm on the bedside table didn't blare. It started with a low, gradual hum\u2014a custom \"soft wake\" setting Patrick had programmed so it wouldn't trigger Nichole's startle reflex. Patrick opened his eyes. He\u2026"
@@ -918,7 +918,7 @@
                             "part_title": "Part 3: The Double Ambush & The Filing",
                             "file_path": "e008/c002/p003.md",
                             "url": "/nichole/braxton-freshman/the-machine-in-motion/part-3-the-double-ambush-the-filing",
-                            "word_count": 3230,
+                            "word_count": 3211,
                             "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "The Second Floor Lounge was supposed to be a sanctuary. It was tucked behind the administrative offices, usually empty at this hour. Patrick sat in the corner of the oversized loveseat. His legs were spread\u2026"
@@ -940,14 +940,14 @@
                     "chap_title": "Nichole Adapts",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/nichole-adapts",
                     "illustration_count": 0,
-                    "word_count": 4614,
+                    "word_count": 4628,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Engine Failure",
                             "file_path": "e008/c003/p001.md",
                             "url": "/nichole/braxton-freshman/nichole-adapts/part-1-engine-failure",
-                            "word_count": 3524,
+                            "word_count": 3543,
                             "reading_minutes": 15,
                             "location": "The Command Center (Second Bedroom), Unit 404, The Foundry Lofts",
                             "excerpt": "The alarm on the bedside table hummed its soft, gradual wake-up tone. Patrick opened his eyes, and the room violently tilted to the left. It wasn't a gentle dizziness; it was a sickening, hydraulic lurch, as if\u2026"
@@ -957,10 +957,10 @@
                             "part_title": "Part 2: The Malpractice Shield & The Integration",
                             "file_path": "e008/c003/p002.md",
                             "url": "/nichole/braxton-freshman/nichole-adapts/part-2-the-malpractice-shield-the-integration",
-                            "word_count": 1090,
+                            "word_count": 1085,
                             "reading_minutes": 5,
                             "location": "The Command Center, Unit 404, The Foundry Lofts",
-                            "excerpt": "Date: September 16, 2005 Time: 10:00 AM The printer on the desk was still warm from printing the license verification. Patrick didn't celebrate by going out for pizza. He didn't take the day off. He sat back\u2026"
+                            "excerpt": "At ten o'clock on the morning of September 16, 2005, the printer on the desk was still warm from printing the license verification. Patrick didn't celebrate by going out for pizza. He didn't take the day off. He\u2026"
                         }
                     ]
                 },
@@ -969,24 +969,24 @@
                     "chap_title": "The Procedure: \"The Tune-Up\"",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/the-procedure-the-tune-up",
                     "illustration_count": 0,
-                    "word_count": 3831,
+                    "word_count": 3945,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Handover (The Night Before) Time: 8:00 PM & The Separation",
                             "file_path": "e008/c004/p001.md",
                             "url": "/nichole/braxton-freshman/the-procedure-the-tune-up/part-1-the-handover-the-night-before-time-8-00-pm-the-separation",
-                            "word_count": 3205,
-                            "reading_minutes": 13,
+                            "word_count": 3266,
+                            "reading_minutes": 14,
                             "location": "Unknown",
-                            "excerpt": "The living room of Unit 404 was a mix of post-Christmas chaos and pre-surgical precision. On the coffee table lay the spoils of the day. They had spent the morning in Portsmouth with the family, opening gifts\u2026"
+                            "excerpt": "By eight o'clock on the evening of Monday, December 26, 2005\u2014midway through winter break of their sophomore year\u2014the living room of Unit 404 at The Foundry Lofts was a mix of post-Christmas chaos and\u2026"
                         },
                         {
                             "part_num": 2,
                             "part_title": "Part 2: The War Room",
                             "file_path": "e008/c004/p002.md",
                             "url": "/nichole/braxton-freshman/the-procedure-the-tune-up/part-2-the-war-room",
-                            "word_count": 626,
+                            "word_count": 679,
                             "reading_minutes": 3,
                             "location": "Unknown",
                             "excerpt": "The waiting room TV was blaring a morning talk show discussing \"Post-Holiday Detox Diets,\" but Patrick didn't hear it. He was deep in the operational manual for the new hardware. Through the large plate-glass\u2026"
@@ -998,15 +998,15 @@
                     "chap_title": "Nichole\u2019s Recovery",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/nichole-s-recovery",
                     "illustration_count": 0,
-                    "word_count": 7160,
+                    "word_count": 7212,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Recovery Room & The Discharge",
                             "file_path": "e008/c005/p001.md",
                             "url": "/nichole/braxton-freshman/nichole-s-recovery/part-1-the-recovery-room-the-discharge",
-                            "word_count": 3250,
-                            "reading_minutes": 13,
+                            "word_count": 3290,
+                            "reading_minutes": 14,
                             "location": "Unknown",
                             "excerpt": "Patrick didn't wait in the hallway. He swiped his badge at the sensor, following the transport nurse, Becky, through the double doors and into the sensory overload of the PACU. He left the view of the swirling\u2026"
                         },
@@ -1015,7 +1015,7 @@
                             "part_title": "Part 2: The \\ & The Night Shift",
                             "file_path": "e008/c005/p002.md",
                             "url": "/nichole/braxton-freshman/nichole-s-recovery/part-2-the-the-night-shift",
-                            "word_count": 2380,
+                            "word_count": 2392,
                             "reading_minutes": 10,
                             "location": "Unknown",
                             "excerpt": "The drive from the hospital had been tense. The wipers on the van were slapping away a mix of rain and heavy, wet snow. The temperature was dropping, and the roads were transitioning from \"wet\" to \"glazed.\" By\u2026"
@@ -1037,14 +1037,14 @@
                     "chap_title": "The Routine",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/the-routine",
                     "illustration_count": 0,
-                    "word_count": 4452,
+                    "word_count": 4510,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Winter Siege & The Physical Toll",
                             "file_path": "e008/c006/p001.md",
                             "url": "/nichole/braxton-freshman/the-routine/part-1-the-winter-siege-the-physical-toll",
-                            "word_count": 3147,
+                            "word_count": 3161,
                             "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "The novelty of the \"New Year\" had worn off. The adrenaline of the surgery was gone. Now, it was just the Grind. Outside the massive industrial windows, the Rhode Island winter was living up to its reputation\u2026"
@@ -1054,7 +1054,7 @@
                             "part_title": "Part 2: The Downgrade",
                             "file_path": "e008/c006/p002.md",
                             "url": "/nichole/braxton-freshman/the-routine/part-2-the-downgrade",
-                            "word_count": 1305,
+                            "word_count": 1349,
                             "reading_minutes": 6,
                             "location": "Unknown",
                             "excerpt": "The calendar on the wall had a big red circle around FEB 14. It wasn't for Valentine's Day. Neither of them had dates. It was for \"Day Release.\" Dr. Evans had given the order over the phone yesterday: \u201cSoft\u2026"
@@ -1068,24 +1068,24 @@
             "era_title": "Braxton Junior Year",
             "era_url": "/raggiesoft-books/books/nichole/braxton-junior-year",
             "illustration_count": 0,
-            "word_count": 156,
+            "word_count": 216,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Concept: The Joint Defense",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-junior-year/concept-the-joint-defense",
                     "illustration_count": 0,
-                    "word_count": 156,
+                    "word_count": 216,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Outcome",
                             "file_path": "e009/c001/p001.md",
                             "url": "/nichole/braxton-junior-year/concept-the-joint-defense/the-outcome",
-                            "word_count": 156,
+                            "word_count": 216,
                             "reading_minutes": 1,
                             "location": "Unknown",
-                            "excerpt": "They spent Junior year living in the lab and the library. - Patrick learned to code primarily in C++ (for the microcontroller) and learned to solder delicate sensors into the upholstery of the wheelchair without\u2026"
+                            "excerpt": "They spent the rest of their junior year practically living between the engineering lab and the quiet floors of the library. At the workbench, Patrick taught himself to code primarily in C++ to drive the\u2026"
                         }
                     ]
                 }
@@ -1096,21 +1096,21 @@
             "era_title": "Braxton Senior Year",
             "era_url": "/raggiesoft-books/books/nichole/braxton-senior-year",
             "illustration_count": 0,
-            "word_count": 2011,
+            "word_count": 2026,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Graduation",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-senior-year/graduation",
                     "illustration_count": 0,
-                    "word_count": 2011,
+                    "word_count": 2026,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Protocol Negotiation & The \\",
                             "file_path": "e010/c001/p001.md",
                             "url": "/nichole/braxton-senior-year/graduation/the-protocol-negotiation-the",
-                            "word_count": 2011,
+                            "word_count": 2026,
                             "reading_minutes": 9,
                             "location": "Unknown",
                             "excerpt": "Mrs. Gable, the Director of Commencement, was a woman who lived for clipboards and alphabetical order. She looked at the two students sitting across from her desk. \"I understand you have concerns,\" Mrs. Gable\u2026"
@@ -1124,21 +1124,21 @@
             "era_title": "Bennett Dynamics",
             "era_url": "/raggiesoft-books/books/nichole/bennett-dynamics",
             "illustration_count": 0,
-            "word_count": 824,
+            "word_count": 882,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "An Idea",
                     "chap_url": "/raggiesoft-books/books/nichole/bennett-dynamics/an-idea",
                     "illustration_count": 0,
-                    "word_count": 824,
+                    "word_count": 882,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Incorporation & The Tablet Revolution",
                             "file_path": "e011/c001/p001.md",
                             "url": "/nichole/bennett-dynamics/an-idea/the-incorporation-the-tablet-revolution",
-                            "word_count": 824,
+                            "word_count": 882,
                             "reading_minutes": 4,
                             "location": "Unknown",
                             "excerpt": "The morning sun flooded through the floor-to-ceiling windows of Unit 404. Patrick sat at his desk\u2014a massive, L-shaped setup he had built himself. He had three monitors, a soldering station, and a server rack\u2026"
@@ -1199,24 +1199,24 @@
             "era_title": "The End",
             "era_url": "/raggiesoft-books/books/nichole/the-end",
             "illustration_count": 0,
-            "word_count": 1673,
+            "word_count": 1703,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Synchronized Shutdown",
                     "chap_url": "/raggiesoft-books/books/nichole/the-end/the-synchronized-shutdown",
                     "illustration_count": 0,
-                    "word_count": 1673,
+                    "word_count": 1703,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Master Suite, West Main Road, Portsmouth, RI & The Legacy",
                             "file_path": "e013/c001/p001.md",
                             "url": "/nichole/the-end/the-synchronized-shutdown/the-master-suite-west-main-road-portsmouth-ri-the-legacy",
-                            "word_count": 1673,
+                            "word_count": 1703,
                             "reading_minutes": 7,
                             "location": "Unknown",
-                            "excerpt": "The winter of 2058 was cold, but the Fortress was warm. Patrick and Nichole lay in the King bed. The room was quiet, save for the rhythmic hum of the oxygen concentrator in the corner\u2014a shared resource now. The\u2026"
+                            "excerpt": "The winter of 2058 was cold outside the ranch on West Main Road in Portsmouth, Rhode Island, but inside the Fortress, at seventy-two years old, Patrick and Nichole were warm. Patrick and Nichole lay in the King\u2026"
                         }
                     ]
                 }

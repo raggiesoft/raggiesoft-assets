@@ -8,26 +8,26 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/apex-fall-of-earth.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "594 KB",
+        "epub": "589 KB",
         "pdf": "1.7 MB",
-        "text_epub": "594 KB",
+        "text_epub": "589 KB",
         "text_pdf": "1.7 MB",
-        "package_7z": "",
-        "epub_bytes": 608540,
-        "pdf_bytes": 1764104,
-        "text_epub_bytes": 608542,
-        "text_pdf_bytes": 1764104,
-        "package_7z_bytes": 0
+        "package_7z": "413 KB",
+        "epub_bytes": 602944,
+        "pdf_bytes": 1745890,
+        "text_epub_bytes": 602943,
+        "text_pdf_bytes": 1745890,
+        "package_7z_bytes": 422453
     },
     "illustration_count": 0,
     "word_stats": {
-        "story_word_count": 259491,
+        "story_word_count": 258944,
         "lore_word_count": 148,
-        "combined_word_count": 259639,
-        "story_page_count": 944,
-        "combined_page_count": 944,
+        "combined_word_count": 259092,
+        "story_page_count": 942,
+        "combined_page_count": 942,
         "reading_hours": 17.3,
-        "reading_minutes": 1038,
+        "reading_minutes": 1036,
         "novel_equivalent": 2.9,
         "scale_category": "Multi-Volume Epic Omnibus",
         "scale_badge": "Multi-Volume Omnibus",
@@ -449,7 +449,7 @@
             "era_title": "The Sanctuary",
             "era_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary",
             "illustration_count": 0,
-            "word_count": 72639,
+            "word_count": 72092,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -622,7 +622,7 @@
                     "chap_title": "The Pioneers",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/the-pioneers",
                     "illustration_count": 0,
-                    "word_count": 9079,
+                    "word_count": 9081,
                     "parts": [
                         {
                             "part_num": 1,
@@ -639,7 +639,7 @@
                             "part_title": "Part 2: The Lost Time & The Mapmakers",
                             "file_path": "e005/c005/p002.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/the-pioneers/part-2-the-lost-time-the-mapmakers",
-                            "word_count": 3164,
+                            "word_count": 3166,
                             "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "The heavy pneumatic elevator carried them swiftly away from the blinding plasma sparks and deafening industrial roar of the Fabrication Foundry. As the brushed-steel doors parted, depositing them back onto the\u2026"
@@ -661,7 +661,7 @@
                     "chap_title": "Planet Eden",
                     "chap_url": "/raggiesoft-books/books/apex-fall-of-earth/the-sanctuary/planet-eden",
                     "illustration_count": 0,
-                    "word_count": 11360,
+                    "word_count": 10811,
                     "parts": [
                         {
                             "part_num": 1,
@@ -678,8 +678,8 @@
                             "part_title": "Part 2: Anchor & The Reading List",
                             "file_path": "e005/c006/p002.md",
                             "url": "/apex-fall-of-earth/the-sanctuary/planet-eden/part-2-anchor-the-reading-list",
-                            "word_count": 3622,
-                            "reading_minutes": 15,
+                            "word_count": 3073,
+                            "reading_minutes": 13,
                             "location": "Unknown",
                             "excerpt": "The first golden rays of Helios crested the jagged, snow-capped peaks, spilling down into the alpine meadow and washing over the heavy deployment sleeping bag. Wyatt opened his eyes, squinting against the\u2026"
                         },

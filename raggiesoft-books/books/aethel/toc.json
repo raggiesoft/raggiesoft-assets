@@ -12,18 +12,18 @@
         "pdf": "838 KB",
         "text_epub": "295 KB",
         "text_pdf": "838 KB",
-        "package_7z": "",
-        "epub_bytes": 301752,
-        "pdf_bytes": 858237,
-        "text_epub_bytes": 301753,
-        "text_pdf_bytes": 858237,
-        "package_7z_bytes": 0
+        "package_7z": "224 KB",
+        "epub_bytes": 301654,
+        "pdf_bytes": 858099,
+        "text_epub_bytes": 301655,
+        "text_pdf_bytes": 858099,
+        "package_7z_bytes": 228940
     },
     "illustration_count": 0,
     "word_stats": {
-        "story_word_count": 132610,
+        "story_word_count": 132594,
         "lore_word_count": 501,
-        "combined_word_count": 133111,
+        "combined_word_count": 133095,
         "story_page_count": 482,
         "combined_page_count": 484,
         "reading_hours": 8.8,
@@ -83,21 +83,21 @@
             "era_title": "Era 2: The Age of Silence",
             "era_url": "/raggiesoft-books/books/aethel/era-2-the-age-of-silence",
             "illustration_count": 0,
-            "word_count": 64336,
+            "word_count": 64320,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Book I: The Silver Gauntlet of Aethel",
                     "chap_url": "/raggiesoft-books/books/aethel/era-2-the-age-of-silence/book-i-the-silver-gauntlet-of-aethel",
                     "illustration_count": 0,
-                    "word_count": 25487,
+                    "word_count": 25471,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Chapter 1: The Sundering of Sunstead",
                             "file_path": "e002/c001/p001.md",
                             "url": "/aethel/era-2-the-age-of-silence/book-i-the-silver-gauntlet-of-aethel/part-1-chapter-1-the-sundering-of-sunstead",
-                            "word_count": 14411,
+                            "word_count": 14399,
                             "reading_minutes": 58,
                             "location": "The Cottage on the Ridge",
                             "excerpt": "The world outside was ending. At least, that was how it felt to seven-year-old Kaelan. The cottage on the ridge was groaning. The heavy timber beams, usually so solid, creaked under the assault of the wind. Rain\u2026"
@@ -107,7 +107,7 @@
                             "part_title": "Part 2: Chapter 2: The Silence of the Hearth",
                             "file_path": "e002/c001/p002.md",
                             "url": "/aethel/era-2-the-age-of-silence/book-i-the-silver-gauntlet-of-aethel/part-2-chapter-2-the-silence-of-the-hearth",
-                            "word_count": 11076,
+                            "word_count": 11072,
                             "reading_minutes": 45,
                             "location": "The Cottage on the Ridge",
                             "excerpt": "The winter of their sixteenth year did not arrive; it invaded. It started with a frost that killed the late pumpkins in the garden. Then came the wind, a shrieking gale that funneled down the Red Canyon\u2026"
