@@ -3,39 +3,39 @@
     "series_slug": "waystation",
     "series_theme": "",
     "series_short_description": "Pulled barefoot from their tiny studio bed into Vaeloria, Nolan (24) and Gwen (19) journey toward home.",
-    "series_description": "Fresh out of a dark, abusive relationship and starting over in a tiny rectangular one-person studio with only a full-sized bed, a rabbit-ear TV with a VCR/DVD combo, a dorm fridge under the counter, a microwave pantry cart, and his Quantum OS 2000 Professional laptop, twenty-three-year-old Nolan Lennox (5'7\") rushed his six-foot-one sister Gwen into his apartment the day before her eighteenth birthday when their grandfather died\u2014vowing the state would never take her, while Gwen vowed never to leave her brother's side or let anyone hurt him again. A year later\u2014just past Gwen's nineteenth birthday\u2014an amber stained-glass rift answers Gwen's spoken wish beside their shared full-sized bed, pulling barefoot Nolan (now 24), Gwen (19), Grandpa Walter's plaid blanket, and all four Lofstrand forearm crutches into the twin-moon 1980s fantasy realm of Vaeloria. Dropped far from the sleeping Waystation, they must journey across gentle roads, camp curled up together, and heal The Great Drift to earn their glowing-archway home forever.",
+    "series_description": "Three weeks before his kid sister Gwen turned eighteen, twenty-three-year-old Nolan Lennox (5'7\") broke free in tears at the Norfolk Pathfinder bus terminal\u2014backed up by fellow passengers after his abusive girlfriend slapped him for refusing a one-way cross-country bus ticket that would have made him miss Gwen's birthday back in Chesapeake. Days later, when Grandpa Walter died at 2710 Ike Street the eve of Gwen's eighteenth birthday, Nolan rushed six-foot-one Gwen into his tiny rectangular one-person Studio 2B in Emerald Creek\u2014one corner full-sized bed, a swiveled rabbit-ear TV with a VCR/DVD combo, an under-counter dorm fridge, a microwave pantry cart, and laptops upgraded to Quantum OS 2000 Professional\u2014while Gwen vowed never to leave Nolan's side again. A year later, an amber stained-glass rift pulls barefoot Nolan (24), Gwen (19), Grandpa's plaid blanket, and all four Lofstrand forearm crutches into twin-moon Vaeloria, where they must travel gentle roads, camp curled up together, and heal The Great Drift to earn their glowing-archway home forever.",
     "series_description_long": "",
     "series_image": "/raggiesoft-books/images/covers/2x3/waystation.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "1.7 MB",
-        "pdf": "1.8 MB",
-        "text_epub": "36 KB",
-        "text_pdf": "93 KB",
-        "package_7z": "25 KB",
-        "epub_bytes": 1807305,
-        "pdf_bytes": 1870679,
-        "text_epub_bytes": 36386,
-        "text_pdf_bytes": 94898,
-        "package_7z_bytes": 25851
+        "epub": "2.1 MB",
+        "pdf": "2 MB",
+        "text_epub": "42 KB",
+        "text_pdf": "112 KB",
+        "package_7z": "32 KB",
+        "epub_bytes": 2182402,
+        "pdf_bytes": 2058472,
+        "text_epub_bytes": 43474,
+        "text_pdf_bytes": 115086,
+        "package_7z_bytes": 32346
     },
-    "illustration_count": 7,
+    "illustration_count": 8,
     "word_stats": {
-        "story_word_count": 8880,
-        "lore_word_count": 180,
-        "combined_word_count": 9060,
-        "story_page_count": 32,
-        "combined_page_count": 33,
-        "reading_hours": 0.6,
-        "reading_minutes": 36,
-        "novel_equivalent": 0.1,
+        "story_word_count": 11891,
+        "lore_word_count": 183,
+        "combined_word_count": 12074,
+        "story_page_count": 43,
+        "combined_page_count": 44,
+        "reading_hours": 0.8,
+        "reading_minutes": 48,
+        "novel_equivalent": 0.13,
         "scale_category": "Short Fiction & Novelette",
         "scale_badge": "Short Fiction",
         "benchmark_note": "Short story / novelette companion (< 17,500 words)",
         "era_count": 1,
         "chapter_count": 6,
-        "part_count": 9,
-        "illustration_count": 7,
+        "part_count": 10,
+        "illustration_count": 8,
         "story_arc_count": 0
     },
     "story_arcs": [],
@@ -44,60 +44,81 @@
             "era_num": 1,
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-            "illustration_count": 4,
-            "word_count": 6734,
+            "illustration_count": 5,
+            "word_count": 9747,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                    "illustration_count": 1,
-                    "word_count": 3250,
+                    "illustration_count": 2,
+                    "word_count": 6257,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Before Midnight Takes You",
+                            "part_title": "Part 1: Route 13, Gate Four, and My Sister's Birthday",
                             "file_path": "e001/c001/p001.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-before-midnight-takes-you",
-                            "word_count": 1383,
-                            "reading_minutes": 6,
-                            "realm_time": "Autumn 2000 \u2014 Eve of Gwen's Eighteenth Birthday, Earth",
-                            "start_time": "17:20",
-                            "location": "Grandpa Walter's Bungalow to Studio 2B on Elm Street",
-                            "excerpt": "Cold October rain drummed against the corrugated aluminum awning over Grandpa Walter's back porch while I folded the rigid frame of Gwen's manual wheelchair and hoisted it into the trunk of my dented silver\u2026"
-                        },
-                        {
-                            "part_num": 2,
-                            "part_title": "Part 2: Eighteen, Two Names on the Lease, and Quantum OS 2000",
-                            "file_path": "e001/c001/p002.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-2-eighteen-two-names-on-the-lease-and-quantum-os-2000",
-                            "word_count": 1133,
-                            "reading_minutes": 5,
-                            "realm_time": "Autumn 2000 \u2014 Gwen's Eighteenth Birthday Week, Earth",
-                            "start_time": "08:30",
-                            "location": "Studio 2B, Elm Street Walk-Up, Earth",
-                            "excerpt": "My eighteenth birthday began with the rubber ferrule of my left charcoal forearm crutch wedging fast between a radiator pipe and the pedestal sink inside Studio 2B's three-foot bathroom. Trying to be polite in a\u2026",
-                            "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
-                            "image_alt": "Inside a tiny rectangular early-2000s one-person studio apartment featuring Nolan's full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a rabbit-ear CRT television and VCR/DVD combo, a tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, protective hug beside all four of their single-tube Lofstrand forearm crutches.",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-route-13-gate-four-and-my-sister-s-birthday",
+                            "word_count": 2936,
+                            "reading_minutes": 12,
+                            "realm_time": "Autumn 2000 \u2014 Three Weeks Before Gwen's Eighteenth Birthday, Earth",
+                            "start_time": "08:40",
+                            "location": "2710 Ike Street & Robert Hall Boulevard in Chesapeake to the Norfolk Pathfinder Terminal",
+                            "excerpt": "Damp October wind rattled the plastic schedule tube bolted to the bus-stop post along Robert Hall Boulevard while I shifted my battered olive duffel strap higher across my shoulder and leaned into the ergonomic\u2026",
+                            "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_ike_street_porch.jpg",
+                            "image_alt": "On the cozy covered front porch of Grandpa Walter's brick bungalow at 2710 Ike Street in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy flannel shirt and jeans) wraps both arms fiercely and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after his escape from the Norfolk bus terminal, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
-                                    "alt": "Inside a tiny rectangular early-2000s one-person studio apartment featuring Nolan's full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a rabbit-ear CRT television and VCR/DVD combo, a tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, protective hug beside all four of their single-tube Lofstrand forearm crutches."
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_ike_street_porch.jpg",
+                                    "alt": "On the cozy covered front porch of Grandpa Walter's brick bungalow at 2710 Ike Street in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy flannel shirt and jeans) wraps both arms fiercely and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after his escape from the Norfolk bus terminal, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them."
                                 }
                             ],
                             "image_count": 1
                         },
                         {
+                            "part_num": 2,
+                            "part_title": "Part 2: Before Midnight Takes You",
+                            "file_path": "e001/c001/p002.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-2-before-midnight-takes-you",
+                            "word_count": 1447,
+                            "reading_minutes": 6,
+                            "realm_time": "Autumn 2000 \u2014 Eve of Gwen's Eighteenth Birthday, Earth",
+                            "start_time": "17:20",
+                            "location": "Grandpa Walter's House at 2710 Ike Street to Studio 2B in Emerald Creek, Chesapeake",
+                            "excerpt": "Cold October rain drummed against the aluminum awning over Grandpa Walter's back porch at 2710 Ike Street while I folded the rigid frame of Gwen's manual wheelchair and hoisted it into the trunk of my dented\u2026"
+                        },
+                        {
                             "part_num": 3,
-                            "part_title": "Part 3: Eighty-Nine Degrees and One Rattling Fan",
+                            "part_title": "Part 3: Eighteen, Two Names on the Lease, and Quantum OS 2000",
                             "file_path": "e001/c001/p003.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-3-eighty-nine-degrees-and-one-rattling-fan",
-                            "word_count": 734,
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-3-eighteen-two-names-on-the-lease-and-quantum-os-2000",
+                            "word_count": 1152,
+                            "reading_minutes": 5,
+                            "realm_time": "Autumn 2000 \u2014 Gwen's Eighteenth Birthday Week, Earth",
+                            "start_time": "08:30",
+                            "location": "Studio 2B, Emerald Creek Area of Chesapeake, Virginia",
+                            "excerpt": "My eighteenth birthday in Emerald Creek began with the rubber ferrule of my left charcoal forearm crutch wedging fast between a radiator pipe and the pedestal sink inside Studio 2B's three-foot bathroom. Trying\u2026",
+                            "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
+                            "image_alt": "Inside a tiny rectangular early-2000s one-person studio apartment in the Emerald Creek area of Chesapeake featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, protective hug beside all four of their single-tube Lofstrand forearm crutches.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
+                                    "alt": "Inside a tiny rectangular early-2000s one-person studio apartment in the Emerald Creek area of Chesapeake featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, protective hug beside all four of their single-tube Lofstrand forearm crutches."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Eighty-Nine Degrees and One Rattling Fan",
+                            "file_path": "e001/c001/p004.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-4-eighty-nine-degrees-and-one-rattling-fan",
+                            "word_count": 722,
                             "reading_minutes": 3,
                             "realm_time": "August 2001 \u2014 Ten Months in Studio 2B, Earth",
                             "start_time": "15:10",
-                            "location": "Studio 2B, Elm Street Walk-Up, Earth",
-                            "excerpt": "By the third week of August, the small beige window air-conditioner wedged above the headboard of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 2B two degrees below the\u2026"
+                            "location": "Studio 2B, Emerald Creek Area of Chesapeake, Virginia",
+                            "excerpt": "By the third week of August, the small beige window air-conditioner wedged above the corner of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 2B two degrees below the\u2026"
                         }
                     ]
                 },
@@ -117,7 +138,7 @@
                             "reading_minutes": 6,
                             "realm_time": "First Night of the Twin Moons \u2014 Autumn 2001, Studio 2B to Western Vaeloria",
                             "start_time": "21:15",
-                            "location": "Studio 2B on Elm Street to The Star-Moss Hollow, Vaeloria",
+                            "location": "Studio 2B in Emerald Creek, Chesapeake to The Star-Moss Hollow, Vaeloria",
                             "excerpt": "October rain ticked steady against the silent window air-conditioner above our headboard while tinny hold music from Regional Mobility Supply warbled through the beige corded speakerphone on our milk-crate\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg",
                             "image_alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) sit hugging and cuddling closely together under Grandpa Walter's green-and-navy plaid wool blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them.",
@@ -139,7 +160,7 @@
                             "realm_time": "Second Dawn of the Twin Moons, The Whispering Causeway",
                             "start_time": "07:40",
                             "location": "The Whispering Quartz Causeway, Borderland of Vaeloria",
-                            "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made Studio 2B back on Elm Street feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz\u2026",
+                            "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made Studio 2B back in Emerald Creek feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
                             "image_alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wake curled up affectionately together on soft emerald moss under Grandpa Walter's green-and-navy plaid blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach.",
                             "images": [
@@ -157,14 +178,14 @@
                     "chap_title": "Chapter 3: The Three Roads of the Sunken Milestone",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone",
                     "illustration_count": 1,
-                    "word_count": 1217,
+                    "word_count": 1223,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Where the Flagstones Divide",
                             "file_path": "e001/c003/p001.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone/where-the-flagstones-divide",
-                            "word_count": 1217,
+                            "word_count": 1223,
                             "reading_minutes": 5,
                             "realm_time": "Second Afternoon of the Twin Moons, The Sunken Milestone",
                             "start_time": "15:30",
@@ -206,7 +227,7 @@
                         "borderland-three-roads": "lantern-barge-canal"
                     },
                     "part_count": 1,
-                    "word_count": 718,
+                    "word_count": 717,
                     "reading_minutes": 3,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/route1_lantern_barge_canal.jpg"
                 },
@@ -221,7 +242,7 @@
                         "borderland-three-roads": "whisperwood-moss-road"
                     },
                     "part_count": 1,
-                    "word_count": 681,
+                    "word_count": 680,
                     "reading_minutes": 3,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/route2_whisperwood_moss_road.jpg"
                 },
@@ -251,72 +272,93 @@
             "label": "Opening Chapters",
             "subtitle": "",
             "entry_part": "e001/c001/p001.md",
-            "entry_url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-before-midnight-takes-you",
+            "entry_url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-route-13-gate-four-and-my-sister-s-birthday",
             "next_crossroads_id": "borderland-three-roads",
             "required_choices": [],
-            "part_count": 6,
-            "word_count": 6734,
-            "reading_minutes": 27,
-            "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
+            "part_count": 7,
+            "word_count": 9747,
+            "reading_minutes": 39,
+            "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_ike_street_porch.jpg",
             "eras": [
                 {
                     "era_num": 1,
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-                    "illustration_count": 4,
-                    "word_count": 6734,
+                    "illustration_count": 5,
+                    "word_count": 9747,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                            "illustration_count": 1,
-                            "word_count": 3250,
+                            "illustration_count": 2,
+                            "word_count": 6257,
                             "parts": [
                                 {
                                     "part_num": 1,
-                                    "part_title": "Part 1: Before Midnight Takes You",
+                                    "part_title": "Part 1: Route 13, Gate Four, and My Sister's Birthday",
                                     "file_path": "e001/c001/p001.md",
-                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-before-midnight-takes-you",
-                                    "word_count": 1383,
-                                    "reading_minutes": 6,
-                                    "realm_time": "Autumn 2000 \u2014 Eve of Gwen's Eighteenth Birthday, Earth",
-                                    "start_time": "17:20",
-                                    "location": "Grandpa Walter's Bungalow to Studio 2B on Elm Street",
-                                    "excerpt": "Cold October rain drummed against the corrugated aluminum awning over Grandpa Walter's back porch while I folded the rigid frame of Gwen's manual wheelchair and hoisted it into the trunk of my dented silver\u2026"
-                                },
-                                {
-                                    "part_num": 2,
-                                    "part_title": "Part 2: Eighteen, Two Names on the Lease, and Quantum OS 2000",
-                                    "file_path": "e001/c001/p002.md",
-                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-2-eighteen-two-names-on-the-lease-and-quantum-os-2000",
-                                    "word_count": 1133,
-                                    "reading_minutes": 5,
-                                    "realm_time": "Autumn 2000 \u2014 Gwen's Eighteenth Birthday Week, Earth",
-                                    "start_time": "08:30",
-                                    "location": "Studio 2B, Elm Street Walk-Up, Earth",
-                                    "excerpt": "My eighteenth birthday began with the rubber ferrule of my left charcoal forearm crutch wedging fast between a radiator pipe and the pedestal sink inside Studio 2B's three-foot bathroom. Trying to be polite in a\u2026",
-                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
-                                    "image_alt": "Inside a tiny rectangular early-2000s one-person studio apartment featuring Nolan's full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a rabbit-ear CRT television and VCR/DVD combo, a tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, protective hug beside all four of their single-tube Lofstrand forearm crutches.",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-route-13-gate-four-and-my-sister-s-birthday",
+                                    "word_count": 2936,
+                                    "reading_minutes": 12,
+                                    "realm_time": "Autumn 2000 \u2014 Three Weeks Before Gwen's Eighteenth Birthday, Earth",
+                                    "start_time": "08:40",
+                                    "location": "2710 Ike Street & Robert Hall Boulevard in Chesapeake to the Norfolk Pathfinder Terminal",
+                                    "excerpt": "Damp October wind rattled the plastic schedule tube bolted to the bus-stop post along Robert Hall Boulevard while I shifted my battered olive duffel strap higher across my shoulder and leaned into the ergonomic\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_ike_street_porch.jpg",
+                                    "image_alt": "On the cozy covered front porch of Grandpa Walter's brick bungalow at 2710 Ike Street in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy flannel shirt and jeans) wraps both arms fiercely and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after his escape from the Norfolk bus terminal, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.",
                                     "images": [
                                         {
-                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
-                                            "alt": "Inside a tiny rectangular early-2000s one-person studio apartment featuring Nolan's full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a rabbit-ear CRT television and VCR/DVD combo, a tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, protective hug beside all four of their single-tube Lofstrand forearm crutches."
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_ike_street_porch.jpg",
+                                            "alt": "On the cozy covered front porch of Grandpa Walter's brick bungalow at 2710 Ike Street in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy flannel shirt and jeans) wraps both arms fiercely and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after his escape from the Norfolk bus terminal, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them."
                                         }
                                     ],
                                     "image_count": 1
                                 },
                                 {
+                                    "part_num": 2,
+                                    "part_title": "Part 2: Before Midnight Takes You",
+                                    "file_path": "e001/c001/p002.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-2-before-midnight-takes-you",
+                                    "word_count": 1447,
+                                    "reading_minutes": 6,
+                                    "realm_time": "Autumn 2000 \u2014 Eve of Gwen's Eighteenth Birthday, Earth",
+                                    "start_time": "17:20",
+                                    "location": "Grandpa Walter's House at 2710 Ike Street to Studio 2B in Emerald Creek, Chesapeake",
+                                    "excerpt": "Cold October rain drummed against the aluminum awning over Grandpa Walter's back porch at 2710 Ike Street while I folded the rigid frame of Gwen's manual wheelchair and hoisted it into the trunk of my dented\u2026"
+                                },
+                                {
                                     "part_num": 3,
-                                    "part_title": "Part 3: Eighty-Nine Degrees and One Rattling Fan",
+                                    "part_title": "Part 3: Eighteen, Two Names on the Lease, and Quantum OS 2000",
                                     "file_path": "e001/c001/p003.md",
-                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-3-eighty-nine-degrees-and-one-rattling-fan",
-                                    "word_count": 734,
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-3-eighteen-two-names-on-the-lease-and-quantum-os-2000",
+                                    "word_count": 1152,
+                                    "reading_minutes": 5,
+                                    "realm_time": "Autumn 2000 \u2014 Gwen's Eighteenth Birthday Week, Earth",
+                                    "start_time": "08:30",
+                                    "location": "Studio 2B, Emerald Creek Area of Chesapeake, Virginia",
+                                    "excerpt": "My eighteenth birthday in Emerald Creek began with the rubber ferrule of my left charcoal forearm crutch wedging fast between a radiator pipe and the pedestal sink inside Studio 2B's three-foot bathroom. Trying\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
+                                    "image_alt": "Inside a tiny rectangular early-2000s one-person studio apartment in the Emerald Creek area of Chesapeake featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, protective hug beside all four of their single-tube Lofstrand forearm crutches.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
+                                            "alt": "Inside a tiny rectangular early-2000s one-person studio apartment in the Emerald Creek area of Chesapeake featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, protective hug beside all four of their single-tube Lofstrand forearm crutches."
+                                        }
+                                    ],
+                                    "image_count": 1
+                                },
+                                {
+                                    "part_num": 4,
+                                    "part_title": "Part 4: Eighty-Nine Degrees and One Rattling Fan",
+                                    "file_path": "e001/c001/p004.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-4-eighty-nine-degrees-and-one-rattling-fan",
+                                    "word_count": 722,
                                     "reading_minutes": 3,
                                     "realm_time": "August 2001 \u2014 Ten Months in Studio 2B, Earth",
                                     "start_time": "15:10",
-                                    "location": "Studio 2B, Elm Street Walk-Up, Earth",
-                                    "excerpt": "By the third week of August, the small beige window air-conditioner wedged above the headboard of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 2B two degrees below the\u2026"
+                                    "location": "Studio 2B, Emerald Creek Area of Chesapeake, Virginia",
+                                    "excerpt": "By the third week of August, the small beige window air-conditioner wedged above the corner of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 2B two degrees below the\u2026"
                                 }
                             ]
                         },
@@ -336,7 +378,7 @@
                                     "reading_minutes": 6,
                                     "realm_time": "First Night of the Twin Moons \u2014 Autumn 2001, Studio 2B to Western Vaeloria",
                                     "start_time": "21:15",
-                                    "location": "Studio 2B on Elm Street to The Star-Moss Hollow, Vaeloria",
+                                    "location": "Studio 2B in Emerald Creek, Chesapeake to The Star-Moss Hollow, Vaeloria",
                                     "excerpt": "October rain ticked steady against the silent window air-conditioner above our headboard while tinny hold music from Regional Mobility Supply warbled through the beige corded speakerphone on our milk-crate\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg",
                                     "image_alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) sit hugging and cuddling closely together under Grandpa Walter's green-and-navy plaid wool blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them.",
@@ -358,7 +400,7 @@
                                     "realm_time": "Second Dawn of the Twin Moons, The Whispering Causeway",
                                     "start_time": "07:40",
                                     "location": "The Whispering Quartz Causeway, Borderland of Vaeloria",
-                                    "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made Studio 2B back on Elm Street feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz\u2026",
+                                    "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made Studio 2B back in Emerald Creek feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
                                     "image_alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wake curled up affectionately together on soft emerald moss under Grandpa Walter's green-and-navy plaid blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach.",
                                     "images": [
@@ -376,14 +418,14 @@
                             "chap_title": "Chapter 3: The Three Roads of the Sunken Milestone",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone",
                             "illustration_count": 1,
-                            "word_count": 1217,
+                            "word_count": 1223,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Where the Flagstones Divide",
                                     "file_path": "e001/c003/p001.md",
                                     "url": "/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone/where-the-flagstones-divide",
-                                    "word_count": 1217,
+                                    "word_count": 1223,
                                     "reading_minutes": 5,
                                     "realm_time": "Second Afternoon of the Twin Moons, The Sunken Milestone",
                                     "start_time": "15:30",
@@ -417,7 +459,7 @@
                 "borderland-three-roads": "lantern-barge-canal"
             },
             "part_count": 1,
-            "word_count": 718,
+            "word_count": 717,
             "reading_minutes": 3,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/route1_lantern_barge_canal.jpg",
             "eras": [
@@ -426,21 +468,21 @@
                     "era_title": "Book One: Beyond the Living-Room Rift",
                     "era_url": "/raggiesoft-books/books/waystation/paths/lantern-barge-canal/book-one-beyond-the-living-room-rift",
                     "illustration_count": 1,
-                    "word_count": 718,
+                    "word_count": 717,
                     "chapters": [
                         {
                             "chap_num": 4,
                             "chap_title": "Chapter 3: Lanterns on the Glasswater",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/lantern-barge-canal/book-one-beyond-the-living-room-rift/chapter-3-lanterns-on-the-glasswater",
                             "illustration_count": 1,
-                            "word_count": 718,
+                            "word_count": 717,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Drifting Under Sapphire Glass",
                                     "file_path": "paths/lantern-barge-canal/e001/c004/p001.md",
                                     "url": "/waystation/paths/lantern-barge-canal/book-one-beyond-the-living-room-rift/chapter-3-lanterns-on-the-glasswater/drifting-under-sapphire-glass",
-                                    "word_count": 718,
+                                    "word_count": 717,
                                     "reading_minutes": 3,
                                     "path_id": "lantern-barge-canal",
                                     "realm_time": "Second Twilight of the Twin Moons, The Glasswater Canal",
@@ -486,7 +528,7 @@
                 "borderland-three-roads": "whisperwood-moss-road"
             },
             "part_count": 1,
-            "word_count": 681,
+            "word_count": 680,
             "reading_minutes": 3,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/route2_whisperwood_moss_road.jpg",
             "eras": [
@@ -495,21 +537,21 @@
                     "era_title": "Book One: Beyond the Living-Room Rift",
                     "era_url": "/raggiesoft-books/books/waystation/paths/whisperwood-moss-road/book-one-beyond-the-living-room-rift",
                     "illustration_count": 1,
-                    "word_count": 681,
+                    "word_count": 680,
                     "chapters": [
                         {
                             "chap_num": 4,
                             "chap_title": "Chapter 3: The Slow-Footed Order's Road",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/whisperwood-moss-road/book-one-beyond-the-living-room-rift/chapter-3-the-slow-footed-order-s-road",
                             "illustration_count": 1,
-                            "word_count": 681,
+                            "word_count": 680,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Warm Springs and Glowing Canopy",
                                     "file_path": "paths/whisperwood-moss-road/e001/c004/p001.md",
                                     "url": "/waystation/paths/whisperwood-moss-road/book-one-beyond-the-living-room-rift/chapter-3-the-slow-footed-order-s-road/warm-springs-and-glowing-canopy",
-                                    "word_count": 681,
+                                    "word_count": 680,
                                     "reading_minutes": 3,
                                     "path_id": "whisperwood-moss-road",
                                     "realm_time": "Second Twilight of the Twin Moons, The Whisperwood",
@@ -618,60 +660,81 @@
             "era_num": 1,
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-            "illustration_count": 4,
-            "word_count": 6734,
+            "illustration_count": 5,
+            "word_count": 9747,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                    "illustration_count": 1,
-                    "word_count": 3250,
+                    "illustration_count": 2,
+                    "word_count": 6257,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Before Midnight Takes You",
+                            "part_title": "Part 1: Route 13, Gate Four, and My Sister's Birthday",
                             "file_path": "e001/c001/p001.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-before-midnight-takes-you",
-                            "word_count": 1383,
-                            "reading_minutes": 6,
-                            "realm_time": "Autumn 2000 \u2014 Eve of Gwen's Eighteenth Birthday, Earth",
-                            "start_time": "17:20",
-                            "location": "Grandpa Walter's Bungalow to Studio 2B on Elm Street",
-                            "excerpt": "Cold October rain drummed against the corrugated aluminum awning over Grandpa Walter's back porch while I folded the rigid frame of Gwen's manual wheelchair and hoisted it into the trunk of my dented silver\u2026"
-                        },
-                        {
-                            "part_num": 2,
-                            "part_title": "Part 2: Eighteen, Two Names on the Lease, and Quantum OS 2000",
-                            "file_path": "e001/c001/p002.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-2-eighteen-two-names-on-the-lease-and-quantum-os-2000",
-                            "word_count": 1133,
-                            "reading_minutes": 5,
-                            "realm_time": "Autumn 2000 \u2014 Gwen's Eighteenth Birthday Week, Earth",
-                            "start_time": "08:30",
-                            "location": "Studio 2B, Elm Street Walk-Up, Earth",
-                            "excerpt": "My eighteenth birthday began with the rubber ferrule of my left charcoal forearm crutch wedging fast between a radiator pipe and the pedestal sink inside Studio 2B's three-foot bathroom. Trying to be polite in a\u2026",
-                            "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
-                            "image_alt": "Inside a tiny rectangular early-2000s one-person studio apartment featuring Nolan's full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a rabbit-ear CRT television and VCR/DVD combo, a tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, protective hug beside all four of their single-tube Lofstrand forearm crutches.",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-route-13-gate-four-and-my-sister-s-birthday",
+                            "word_count": 2936,
+                            "reading_minutes": 12,
+                            "realm_time": "Autumn 2000 \u2014 Three Weeks Before Gwen's Eighteenth Birthday, Earth",
+                            "start_time": "08:40",
+                            "location": "2710 Ike Street & Robert Hall Boulevard in Chesapeake to the Norfolk Pathfinder Terminal",
+                            "excerpt": "Damp October wind rattled the plastic schedule tube bolted to the bus-stop post along Robert Hall Boulevard while I shifted my battered olive duffel strap higher across my shoulder and leaned into the ergonomic\u2026",
+                            "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_ike_street_porch.jpg",
+                            "image_alt": "On the cozy covered front porch of Grandpa Walter's brick bungalow at 2710 Ike Street in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy flannel shirt and jeans) wraps both arms fiercely and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after his escape from the Norfolk bus terminal, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.",
                             "images": [
                                 {
-                                    "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
-                                    "alt": "Inside a tiny rectangular early-2000s one-person studio apartment featuring Nolan's full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a rabbit-ear CRT television and VCR/DVD combo, a tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, protective hug beside all four of their single-tube Lofstrand forearm crutches."
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_ike_street_porch.jpg",
+                                    "alt": "On the cozy covered front porch of Grandpa Walter's brick bungalow at 2710 Ike Street in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy flannel shirt and jeans) wraps both arms fiercely and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after his escape from the Norfolk bus terminal, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them."
                                 }
                             ],
                             "image_count": 1
                         },
                         {
+                            "part_num": 2,
+                            "part_title": "Part 2: Before Midnight Takes You",
+                            "file_path": "e001/c001/p002.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-2-before-midnight-takes-you",
+                            "word_count": 1447,
+                            "reading_minutes": 6,
+                            "realm_time": "Autumn 2000 \u2014 Eve of Gwen's Eighteenth Birthday, Earth",
+                            "start_time": "17:20",
+                            "location": "Grandpa Walter's House at 2710 Ike Street to Studio 2B in Emerald Creek, Chesapeake",
+                            "excerpt": "Cold October rain drummed against the aluminum awning over Grandpa Walter's back porch at 2710 Ike Street while I folded the rigid frame of Gwen's manual wheelchair and hoisted it into the trunk of my dented\u2026"
+                        },
+                        {
                             "part_num": 3,
-                            "part_title": "Part 3: Eighty-Nine Degrees and One Rattling Fan",
+                            "part_title": "Part 3: Eighteen, Two Names on the Lease, and Quantum OS 2000",
                             "file_path": "e001/c001/p003.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-3-eighty-nine-degrees-and-one-rattling-fan",
-                            "word_count": 734,
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-3-eighteen-two-names-on-the-lease-and-quantum-os-2000",
+                            "word_count": 1152,
+                            "reading_minutes": 5,
+                            "realm_time": "Autumn 2000 \u2014 Gwen's Eighteenth Birthday Week, Earth",
+                            "start_time": "08:30",
+                            "location": "Studio 2B, Emerald Creek Area of Chesapeake, Virginia",
+                            "excerpt": "My eighteenth birthday in Emerald Creek began with the rubber ferrule of my left charcoal forearm crutch wedging fast between a radiator pipe and the pedestal sink inside Studio 2B's three-foot bathroom. Trying\u2026",
+                            "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
+                            "image_alt": "Inside a tiny rectangular early-2000s one-person studio apartment in the Emerald Creek area of Chesapeake featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, protective hug beside all four of their single-tube Lofstrand forearm crutches.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
+                                    "alt": "Inside a tiny rectangular early-2000s one-person studio apartment in the Emerald Creek area of Chesapeake featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, protective hug beside all four of their single-tube Lofstrand forearm crutches."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 4,
+                            "part_title": "Part 4: Eighty-Nine Degrees and One Rattling Fan",
+                            "file_path": "e001/c001/p004.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-4-eighty-nine-degrees-and-one-rattling-fan",
+                            "word_count": 722,
                             "reading_minutes": 3,
                             "realm_time": "August 2001 \u2014 Ten Months in Studio 2B, Earth",
                             "start_time": "15:10",
-                            "location": "Studio 2B, Elm Street Walk-Up, Earth",
-                            "excerpt": "By the third week of August, the small beige window air-conditioner wedged above the headboard of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 2B two degrees below the\u2026"
+                            "location": "Studio 2B, Emerald Creek Area of Chesapeake, Virginia",
+                            "excerpt": "By the third week of August, the small beige window air-conditioner wedged above the corner of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 2B two degrees below the\u2026"
                         }
                     ]
                 },
@@ -691,7 +754,7 @@
                             "reading_minutes": 6,
                             "realm_time": "First Night of the Twin Moons \u2014 Autumn 2001, Studio 2B to Western Vaeloria",
                             "start_time": "21:15",
-                            "location": "Studio 2B on Elm Street to The Star-Moss Hollow, Vaeloria",
+                            "location": "Studio 2B in Emerald Creek, Chesapeake to The Star-Moss Hollow, Vaeloria",
                             "excerpt": "October rain ticked steady against the silent window air-conditioner above our headboard while tinny hold music from Regional Mobility Supply warbled through the beige corded speakerphone on our milk-crate\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg",
                             "image_alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) sit hugging and cuddling closely together under Grandpa Walter's green-and-navy plaid wool blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them.",
@@ -713,7 +776,7 @@
                             "realm_time": "Second Dawn of the Twin Moons, The Whispering Causeway",
                             "start_time": "07:40",
                             "location": "The Whispering Quartz Causeway, Borderland of Vaeloria",
-                            "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made Studio 2B back on Elm Street feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz\u2026",
+                            "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made Studio 2B back in Emerald Creek feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
                             "image_alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wake curled up affectionately together on soft emerald moss under Grandpa Walter's green-and-navy plaid blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach.",
                             "images": [
@@ -731,14 +794,14 @@
                     "chap_title": "Chapter 3: The Three Roads of the Sunken Milestone",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone",
                     "illustration_count": 1,
-                    "word_count": 1217,
+                    "word_count": 1223,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Where the Flagstones Divide",
                             "file_path": "e001/c003/p001.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone/where-the-flagstones-divide",
-                            "word_count": 1217,
+                            "word_count": 1223,
                             "reading_minutes": 5,
                             "realm_time": "Second Afternoon of the Twin Moons, The Sunken Milestone",
                             "start_time": "15:30",
@@ -772,7 +835,7 @@
                 "borderland-three-roads": "lantern-barge-canal"
             },
             "part_count": 1,
-            "word_count": 718,
+            "word_count": 717,
             "reading_minutes": 3,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/route1_lantern_barge_canal.jpg",
             "eras": [
@@ -781,21 +844,21 @@
                     "era_title": "Book One: Beyond the Living-Room Rift",
                     "era_url": "/raggiesoft-books/books/waystation/paths/lantern-barge-canal/book-one-beyond-the-living-room-rift",
                     "illustration_count": 1,
-                    "word_count": 718,
+                    "word_count": 717,
                     "chapters": [
                         {
                             "chap_num": 4,
                             "chap_title": "Chapter 3: Lanterns on the Glasswater",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/lantern-barge-canal/book-one-beyond-the-living-room-rift/chapter-3-lanterns-on-the-glasswater",
                             "illustration_count": 1,
-                            "word_count": 718,
+                            "word_count": 717,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Drifting Under Sapphire Glass",
                                     "file_path": "paths/lantern-barge-canal/e001/c004/p001.md",
                                     "url": "/waystation/paths/lantern-barge-canal/book-one-beyond-the-living-room-rift/chapter-3-lanterns-on-the-glasswater/drifting-under-sapphire-glass",
-                                    "word_count": 718,
+                                    "word_count": 717,
                                     "reading_minutes": 3,
                                     "path_id": "lantern-barge-canal",
                                     "realm_time": "Second Twilight of the Twin Moons, The Glasswater Canal",
@@ -841,7 +904,7 @@
                 "borderland-three-roads": "whisperwood-moss-road"
             },
             "part_count": 1,
-            "word_count": 681,
+            "word_count": 680,
             "reading_minutes": 3,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/route2_whisperwood_moss_road.jpg",
             "eras": [
@@ -850,21 +913,21 @@
                     "era_title": "Book One: Beyond the Living-Room Rift",
                     "era_url": "/raggiesoft-books/books/waystation/paths/whisperwood-moss-road/book-one-beyond-the-living-room-rift",
                     "illustration_count": 1,
-                    "word_count": 681,
+                    "word_count": 680,
                     "chapters": [
                         {
                             "chap_num": 4,
                             "chap_title": "Chapter 3: The Slow-Footed Order's Road",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/whisperwood-moss-road/book-one-beyond-the-living-room-rift/chapter-3-the-slow-footed-order-s-road",
                             "illustration_count": 1,
-                            "word_count": 681,
+                            "word_count": 680,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Warm Springs and Glowing Canopy",
                                     "file_path": "paths/whisperwood-moss-road/e001/c004/p001.md",
                                     "url": "/waystation/paths/whisperwood-moss-road/book-one-beyond-the-living-room-rift/chapter-3-the-slow-footed-order-s-road/warm-springs-and-glowing-canopy",
-                                    "word_count": 681,
+                                    "word_count": 680,
                                     "reading_minutes": 3,
                                     "path_id": "whisperwood-moss-road",
                                     "realm_time": "Second Twilight of the Twin Moons, The Whisperwood",
