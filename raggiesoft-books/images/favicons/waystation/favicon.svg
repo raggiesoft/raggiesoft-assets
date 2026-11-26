@@ -1,0 +1,48 @@
+<!--
+  The Uncharted Waystation — Vector Favicon (favicon.svg)
+  Crisp geometric Astrolabe, Glowing Runestone Arch, and Twin Moons emblem
+  designed for high contrast across Light and Dark browser tab bars at 16px-64px.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="The Uncharted Waystation Astrolabe Icon">
+  <defs>
+    <!-- Deep 1980s Twilight Indigo Sky Gradient -->
+    <radialGradient id="wsSky" cx="50%" cy="38%" r="62%">
+      <stop offset="0%" stop-color="#261f57" />
+      <stop offset="65%" stop-color="#120f2d" />
+      <stop offset="100%" stop-color="#090817" />
+    </radialGradient>
+    <!-- Warm Tarnish-Free Brass Gradient for the Armillary Rings -->
+    <linearGradient id="wsBrass" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fbe39e" />
+      <stop offset="50%" stop-color="#e3ad4b" />
+      <stop offset="100%" stop-color="#a87424" />
+    </linearGradient>
+    <!-- Turquoise Portal Glow Inside the Archway -->
+    <radialGradient id="wsPortal" cx="50%" cy="62%" r="40%">
+      <stop offset="0%" stop-color="#7ef4f7" stop-opacity="0.95" />
+      <stop offset="55%" stop-color="#2bb5c0" stop-opacity="0.55" />
+      <stop offset="100%" stop-color="#120f2d" stop-opacity="0" />
+    </radialGradient>
+  </defs>
+
+  <!-- Outer Medallion Base -->
+  <circle cx="32" cy="32" r="30" fill="url(#wsSky)" stroke="url(#wsBrass)" stroke-width="3" />
+
+  <!-- Subtle Portal Shimmer -->
+  <circle cx="32" cy="36" r="20" fill="url(#wsPortal)" />
+
+  <!-- Twin Moons of Vaeloria (Pale Ivory + Companion Rose-Amber) -->
+  <circle cx="24" cy="19" r="6.2" fill="#f8f3e6" />
+  <circle cx="40.5" cy="22.5" r="3.8" fill="#ee966b" />
+
+  <!-- Interlocking Brass Astrolabe Rings -->
+  <ellipse cx="32" cy="34" rx="18" ry="18" fill="none" stroke="url(#wsBrass)" stroke-width="2.4" />
+  <ellipse cx="32" cy="34" rx="18" ry="8.5" transform="rotate(-28 32 34)" fill="none" stroke="url(#wsBrass)" stroke-width="2" />
+  <ellipse cx="32" cy="34" rx="18" ry="8.5" transform="rotate(28 32 34)" fill="none" stroke="url(#wsBrass)" stroke-width="2" />
+
+  <!-- Central Compass Star Spark -->
+  <path d="M32 25 L34.1 31.9 L41 34 L34.1 36.1 L32 43 L29.9 36.1 L23 34 L29.9 31.9 Z" fill="#fff7d6" />
+
+  <!-- Astrolabe Pedestal Foot -->
+  <path d="M24 54 H40 M28 52 H36 M32 52 V49" stroke="url(#wsBrass)" stroke-width="2.6" stroke-linecap="round" />
+</svg>
