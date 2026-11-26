@@ -507,10 +507,17 @@
    */
   var PRODUCT_ITEMS = [
     {
-      id: 'installer-studio',
-      name: 'RaggieSoft Installer Studio (Preview)',
-      mobileLabel: 'Installer Studio',
+      id: 'studio-suite',
+      name: 'RaggieSoft Studio Suite',
+      mobileLabel: 'Studio Suite',
       href: 'https://raggiesoftstudio.com',
+      icon: '🛠️'
+    },
+    {
+      id: 'installer-studio',
+      name: 'RaggieSoft Installer Studio (v0.5)',
+      mobileLabel: 'Installer Studio',
+      href: 'https://raggiesoftstudio.com/installer-studio',
       icon: '🧰'
     },
     {
@@ -519,6 +526,20 @@
       mobileLabel: 'Accessibility Studio',
       href: 'https://raggiesoftstudio.com/accessibility-studio',
       icon: '♿'
+    },
+    {
+      id: 'launcher-studio',
+      name: 'RaggieSoft Launcher Studio (Preview)',
+      mobileLabel: 'Launcher Studio',
+      href: 'https://raggiesoftstudio.com/launcher-studio',
+      icon: '🚀'
+    },
+    {
+      id: 'showcase-studio',
+      name: 'RaggieSoft Showcase Studio (Preview)',
+      mobileLabel: 'Showcase Studio',
+      href: 'https://raggiesoftstudio.com/showcase-studio',
+      icon: '💿'
     },
     {
       id: 'backstage-app',
@@ -706,14 +727,23 @@
 
   /* Checks whether the visitor is currently viewing one of the software products in `PRODUCT_ITEMS`. */
   function isProductItemActive(product, currentHost, currentPath) {
+    if (product.id === 'studio-suite') {
+      return currentHost === 'raggiesoftstudio.com' && currentPath === '/';
+    }
     if (product.id === 'installer-studio') {
-      return currentHost === 'raggiesoftstudio.com' && currentPath.indexOf('/accessibility-studio') !== 0;
+      return currentHost === 'raggiesoftstudio.com' && currentPath.indexOf('/installer-studio') === 0;
     }
     if (product.id === 'a11y-studio') {
       return (
         currentHost === 'a11y.raggiesoft.com' ||
         (currentHost === 'raggiesoftstudio.com' && currentPath.indexOf('/accessibility-studio') === 0)
       );
+    }
+    if (product.id === 'launcher-studio') {
+      return currentHost === 'raggiesoftstudio.com' && currentPath.indexOf('/launcher-studio') === 0;
+    }
+    if (product.id === 'showcase-studio') {
+      return currentHost === 'raggiesoftstudio.com' && currentPath.indexOf('/showcase-studio') === 0;
     }
     if (product.id === 'backstage-app') return currentHost === 'backstage.raggiesoft.com';
     if (product.id === 'book-reader-app') return currentHost === 'books.raggiesoft.com';
