@@ -8,18 +8,18 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/waystation.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "1.1 MB",
-        "pdf": "1.6 MB",
-        "text_epub": "28 KB",
-        "text_pdf": "64 KB",
-        "package_7z": "",
-        "epub_bytes": 1108613,
-        "pdf_bytes": 1625928,
-        "text_epub_bytes": 28425,
-        "text_pdf_bytes": 65332,
-        "package_7z_bytes": 0
+        "epub": "1.7 MB",
+        "pdf": "1.8 MB",
+        "text_epub": "35 KB",
+        "text_pdf": "90 KB",
+        "package_7z": "25 KB",
+        "epub_bytes": 1823737,
+        "pdf_bytes": 1885384,
+        "text_epub_bytes": 35593,
+        "text_pdf_bytes": 92424,
+        "package_7z_bytes": 25168
     },
-    "illustration_count": 6,
+    "illustration_count": 7,
     "word_stats": {
         "story_word_count": 8529,
         "lore_word_count": 153,
@@ -35,7 +35,7 @@
         "era_count": 1,
         "chapter_count": 6,
         "part_count": 9,
-        "illustration_count": 6,
+        "illustration_count": 7,
         "story_arc_count": 0
     },
     "story_arcs": [],
@@ -44,14 +44,14 @@
             "era_num": 1,
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-            "illustration_count": 3,
+            "illustration_count": 4,
             "word_count": 6383,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "word_count": 2833,
                     "parts": [
                         {
@@ -76,7 +76,16 @@
                             "realm_time": "One Year Earlier \u2014 Gwen's Eighteenth Birthday Week, Earth",
                             "start_time": "08:30",
                             "location": "Studio 2B, Elm Street Walk-Up, Earth",
-                            "excerpt": "My eighteenth birthday began with the left rubber ferrule of my charcoal forearm crutch wedging fast between a rusted radiator pipe and the base of a porcelain sink. Trying to be polite in a\u2026"
+                            "excerpt": "My eighteenth birthday began with the left rubber ferrule of my charcoal forearm crutch wedging fast between a rusted radiator pipe and the base of a porcelain sink. Trying to be polite in a\u2026",
+                            "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
+                            "image_alt": "Inside a small sunlit one-room studio apartment with two manual wheelchairs parked near a tiny kitchenette and an old window air-conditioner on the sill, barefoot twenty-three-year-old Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) hug warmly on their pull-out sofa-bed behind an oak coffee table holding their newly co-signed apartment lease, with Grandpa Walter's green-and-navy plaid blanket behind them and all four single-tube Lofstrand forearm crutches leaning cleanly beside the armrest.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
+                                    "alt": "Inside a small sunlit one-room studio apartment with two manual wheelchairs parked near a tiny kitchenette and an old window air-conditioner on the sill, barefoot twenty-three-year-old Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) hug warmly on their pull-out sofa-bed behind an oak coffee table holding their newly co-signed apartment lease, with Grandpa Walter's green-and-navy plaid blanket behind them and all four single-tube Lofstrand forearm crutches leaning cleanly beside the armrest."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 3,
@@ -248,20 +257,20 @@
             "part_count": 6,
             "word_count": 6383,
             "reading_minutes": 26,
-            "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg",
+            "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
             "eras": [
                 {
                     "era_num": 1,
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-                    "illustration_count": 3,
+                    "illustration_count": 4,
                     "word_count": 6383,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                            "illustration_count": 0,
+                            "illustration_count": 1,
                             "word_count": 2833,
                             "parts": [
                                 {
@@ -286,7 +295,16 @@
                                     "realm_time": "One Year Earlier \u2014 Gwen's Eighteenth Birthday Week, Earth",
                                     "start_time": "08:30",
                                     "location": "Studio 2B, Elm Street Walk-Up, Earth",
-                                    "excerpt": "My eighteenth birthday began with the left rubber ferrule of my charcoal forearm crutch wedging fast between a rusted radiator pipe and the base of a porcelain sink. Trying to be polite in a\u2026"
+                                    "excerpt": "My eighteenth birthday began with the left rubber ferrule of my charcoal forearm crutch wedging fast between a rusted radiator pipe and the base of a porcelain sink. Trying to be polite in a\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
+                                    "image_alt": "Inside a small sunlit one-room studio apartment with two manual wheelchairs parked near a tiny kitchenette and an old window air-conditioner on the sill, barefoot twenty-three-year-old Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) hug warmly on their pull-out sofa-bed behind an oak coffee table holding their newly co-signed apartment lease, with Grandpa Walter's green-and-navy plaid blanket behind them and all four single-tube Lofstrand forearm crutches leaning cleanly beside the armrest.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
+                                            "alt": "Inside a small sunlit one-room studio apartment with two manual wheelchairs parked near a tiny kitchenette and an old window air-conditioner on the sill, barefoot twenty-three-year-old Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) hug warmly on their pull-out sofa-bed behind an oak coffee table holding their newly co-signed apartment lease, with Grandpa Walter's green-and-navy plaid blanket behind them and all four single-tube Lofstrand forearm crutches leaning cleanly beside the armrest."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 },
                                 {
                                     "part_num": 3,
@@ -600,14 +618,14 @@
             "era_num": 1,
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-            "illustration_count": 3,
+            "illustration_count": 4,
             "word_count": 6383,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "word_count": 2833,
                     "parts": [
                         {
@@ -632,7 +650,16 @@
                             "realm_time": "One Year Earlier \u2014 Gwen's Eighteenth Birthday Week, Earth",
                             "start_time": "08:30",
                             "location": "Studio 2B, Elm Street Walk-Up, Earth",
-                            "excerpt": "My eighteenth birthday began with the left rubber ferrule of my charcoal forearm crutch wedging fast between a rusted radiator pipe and the base of a porcelain sink. Trying to be polite in a\u2026"
+                            "excerpt": "My eighteenth birthday began with the left rubber ferrule of my charcoal forearm crutch wedging fast between a rusted radiator pipe and the base of a porcelain sink. Trying to be polite in a\u2026",
+                            "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
+                            "image_alt": "Inside a small sunlit one-room studio apartment with two manual wheelchairs parked near a tiny kitchenette and an old window air-conditioner on the sill, barefoot twenty-three-year-old Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) hug warmly on their pull-out sofa-bed behind an oak coffee table holding their newly co-signed apartment lease, with Grandpa Walter's green-and-navy plaid blanket behind them and all four single-tube Lofstrand forearm crutches leaning cleanly beside the armrest.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
+                                    "alt": "Inside a small sunlit one-room studio apartment with two manual wheelchairs parked near a tiny kitchenette and an old window air-conditioner on the sill, barefoot twenty-three-year-old Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) hug warmly on their pull-out sofa-bed behind an oak coffee table holding their newly co-signed apartment lease, with Grandpa Walter's green-and-navy plaid blanket behind them and all four single-tube Lofstrand forearm crutches leaning cleanly beside the armrest."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 3,
