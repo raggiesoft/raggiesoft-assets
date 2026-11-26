@@ -327,8 +327,7 @@
   var NETWORK_SITES = [
     { id: 'hub', href: 'https://raggiesoft.com', host: 'raggiesoft.com', icon: '🌐', label: 'RaggieSoft Hub' },
     { id: 'launcher', href: 'https://launcher.raggiesoft.com', host: 'launcher.raggiesoft.com', icon: '🚀', label: 'Desktop Launcher' },
-    { id: 'a11y', href: 'https://a11y.raggiesoft.com', host: 'a11y.raggiesoft.com', icon: '♿', label: 'A11y Studio' },
-    { id: 'installer-studio', href: 'https://raggiesoftstudio.com', host: 'raggiesoftstudio.com', icon: '🧰', label: 'Installer Studio' },
+    { id: 'installer-studio', href: 'https://raggiesoftstudio.com', host: 'raggiesoftstudio.com', icon: '🧰', label: 'RaggieSoft Studio' },
     { id: 'dev-hub', href: 'https://raggiesoft.dev', host: 'raggiesoft.dev', icon: '💻', label: 'Developer Hub' },
     { id: 'nebulae', href: 'https://nebulae.raggiesoft.com', host: 'nebulae.raggiesoft.com', icon: '🌌', label: 'Nebulae Atlas' },
     { id: 'books', href: 'https://books.raggiesoft.com', host: 'books.raggiesoft.com', icon: '📚', label: 'Ocean View Archives' },
@@ -518,7 +517,7 @@
       id: 'a11y-studio',
       name: 'RaggieSoft Accessibility Studio',
       mobileLabel: 'Accessibility Studio',
-      href: 'https://a11y.raggiesoft.com',
+      href: 'https://raggiesoftstudio.com/accessibility-studio',
       icon: '♿'
     },
     {
@@ -707,8 +706,15 @@
 
   /* Checks whether the visitor is currently viewing one of the software products in `PRODUCT_ITEMS`. */
   function isProductItemActive(product, currentHost, currentPath) {
-    if (product.id === 'installer-studio') return currentHost === 'raggiesoftstudio.com';
-    if (product.id === 'a11y-studio') return currentHost === 'a11y.raggiesoft.com';
+    if (product.id === 'installer-studio') {
+      return currentHost === 'raggiesoftstudio.com' && currentPath.indexOf('/accessibility-studio') !== 0;
+    }
+    if (product.id === 'a11y-studio') {
+      return (
+        currentHost === 'a11y.raggiesoft.com' ||
+        (currentHost === 'raggiesoftstudio.com' && currentPath.indexOf('/accessibility-studio') === 0)
+      );
+    }
     if (product.id === 'backstage-app') return currentHost === 'backstage.raggiesoft.com';
     if (product.id === 'book-reader-app') return currentHost === 'books.raggiesoft.com';
     if (product.id === 'storetrainer-app') return currentHost === 'storetrainer.raggiesoft.com';
@@ -2286,7 +2292,6 @@
             sameAs: [
               'https://raggiesoft.com',
               'https://launcher.raggiesoft.com',
-              'https://a11y.raggiesoft.com',
               'https://raggiesoftstudio.com',
               'https://raggiesoft.dev',
               'https://nebulae.raggiesoft.com',
@@ -2326,9 +2331,9 @@
             hasPart: [
               { '@type': 'WebPage', name: 'RaggieSoft Hub', url: 'https://raggiesoft.com/' },
               { '@type': 'WebPage', name: 'RaggieSoft Launcher (Desktop App Hub)', url: 'https://launcher.raggiesoft.com/' },
-              { '@type': 'WebPage', name: 'RaggieSoft Installer Studio', url: 'https://raggiesoftstudio.com/' },
+              { '@type': 'WebPage', name: 'RaggieSoft Studio (Installer, Accessibility, Launcher & Showcase Suite)', url: 'https://raggiesoftstudio.com/' },
               { '@type': 'WebPage', name: 'RaggieSoft Developer Hub', url: 'https://raggiesoft.dev/' },
-              { '@type': 'WebPage', name: 'RaggieSoft Accessibility Studio', url: 'https://a11y.raggiesoft.com/' },
+              { '@type': 'WebPage', name: 'RaggieSoft Accessibility Studio', url: 'https://raggiesoftstudio.com/accessibility-studio' },
               { '@type': 'WebPage', name: 'RaggieSoft Privacy Policy', url: 'https://raggiesoft.com/about/privacy' },
               { '@type': 'WebPage', name: 'RaggieSoft Terms of Service', url: 'https://raggiesoft.com/about/terms' },
               { '@type': 'WebPage', name: 'AI & Creative Process | RaggieSoft Governance', url: 'https://raggiesoft.com/about/ai-disclaimer' },

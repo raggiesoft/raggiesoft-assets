@@ -3,7 +3,7 @@
     "series_slug": "waystation",
     "series_theme": "",
     "series_short_description": "Pulled barefoot from their tiny studio bed into Vaeloria, Nolan (24) and Gwen (19) journey toward home.",
-    "series_description": "Two days before his kid sister Gwen turned eighteen, twenty-three-year-old Nolan Lennox (5'7\") broke free in tears at the Norfolk Pathfinder bus terminal\u2014backed up by fellow passengers after his abusive girlfriend from a rundown trailer park off Route 13 slapped him for refusing a one-way cross-country bus ticket so he could go home to Emerald Creek in Chesapeake for Gwen's birthday. Dying Grandpa Walter held on to see Gwen turn eighteen\u2014where Nolan invited an overjoyed Gwen to come live with him\u2014before passing away the very next morning, leaving Nolan to shoulder probate, funeral paperwork, selling Grandpa's mortgaged house, and moving six-foot-one Gwen into his tiny rectangular one-person Studio 2B with one corner full-sized bed, a swiveled rabbit-ear TV and VCR/DVD combo, a dorm fridge, a microwave pantry cart, and laptops running Quantum OS 2000 Professional. A year later, an amber rift pulls barefoot Nolan (24), Gwen (19), Grandpa's plaid blanket, and all four Lofstrand forearm crutches into twin-moon Vaeloria to heal The Great Drift and earn their glowing-archway home forever.",
+    "series_description": "Fed up after weeks of petty fights inside his abusive girlfriend's rundown trailer off Route 13, twenty-three-year-old Nolan Lennox (5'7\") seized his chance to escape when she impulsively dragged him toward a day-of cross-country bus trip without even calling forty-eight hours ahead for a wheelchair lift\u2014stopping her in his wheelchair before the Norfolk Pathfinder ticket counter, where fellow passengers pushed her back after she violently smacked him and helped sobbing Nolan ride home to Emerald Creek for his kid sister Gwen's eighteenth birthday and their dying grandfather. Grandpa Walter held on to see Gwen turn eighteen\u2014where an overjoyed Gwen accepted Nolan's invite to live together\u2014before passing away the next morning, leaving Nolan to shoulder probate, funeral paperwork, selling Grandpa's house, and sharing his tiny rectangular one-person Studio 2B with six-foot-one Gwen until an amber rift pulls them barefoot on Lofstrand forearm crutches into twin-moon Vaeloria to heal The Great Drift and earn their glowing-archway home forever.",
     "series_description_long": "",
     "series_image": "/raggiesoft-books/images/covers/2x3/waystation.jpg",
     "next_series_url": "",
@@ -11,23 +11,23 @@
         "epub": "2.1 MB",
         "pdf": "2 MB",
         "text_epub": "43 KB",
-        "text_pdf": "113 KB",
+        "text_pdf": "112 KB",
         "package_7z": "32 KB",
-        "epub_bytes": 2173253,
-        "pdf_bytes": 2056385,
-        "text_epub_bytes": 44112,
-        "text_pdf_bytes": 115553,
-        "package_7z_bytes": 32887
+        "epub_bytes": 2173045,
+        "pdf_bytes": 2055675,
+        "text_epub_bytes": 43872,
+        "text_pdf_bytes": 114234,
+        "package_7z_bytes": 32732
     },
     "illustration_count": 8,
     "word_stats": {
-        "story_word_count": 11870,
-        "lore_word_count": 191,
-        "combined_word_count": 12061,
+        "story_word_count": 11877,
+        "lore_word_count": 176,
+        "combined_word_count": 12053,
         "story_page_count": 43,
         "combined_page_count": 44,
         "reading_hours": 0.8,
-        "reading_minutes": 47,
+        "reading_minutes": 48,
         "novel_equivalent": 0.13,
         "scale_category": "Short Fiction & Novelette",
         "scale_badge": "Short Fiction",
@@ -45,32 +45,32 @@
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
             "illustration_count": 5,
-            "word_count": 9726,
+            "word_count": 9733,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                     "illustration_count": 2,
-                    "word_count": 6236,
+                    "word_count": 6243,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Route 13, Gate Four, and Home to Emerald Creek",
+                            "part_title": "Part 1: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek",
                             "file_path": "e001/c001/p001.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-route-13-gate-four-and-home-to-emerald-creek",
-                            "word_count": 2584,
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-route-13-forty-eight-hours-notice-and-home-to-emerald-creek",
+                            "word_count": 2583,
                             "reading_minutes": 11,
                             "realm_time": "Autumn 2000 \u2014 Two Days Before Gwen's Eighteenth Birthday, Earth",
-                            "start_time": "08:35",
+                            "start_time": "08:30",
                             "location": "Pinecrest Trailer Park off Route 13 in Chesapeake to the Norfolk Pathfinder Terminal & Emerald Creek",
-                            "excerpt": "Stale menthol smoke and damp October mildew clung to the faux-wood paneling inside Tammy's single-wide trailer while I balanced on my matte-silver Lofstrand forearm crutches beside the crooked screen door\u2026",
+                            "excerpt": "By eight-thirty on Tuesday morning inside Tammy's smoke-stained single-wide trailer at Pinecrest Court, we had already fought twice before coffee\u2014once because my manual wheelchair tire left a damp mark two\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
-                            "image_alt": "On the cozy covered front porch of Grandpa Walter's brick bungalow near Emerald Creek Mall in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he leaves his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.",
+                            "image_alt": "On the cozy covered front porch of Grandpa Walter's brick bungalow near Emerald Creek Mall in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he breaks free from his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
-                                    "alt": "On the cozy covered front porch of Grandpa Walter's brick bungalow near Emerald Creek Mall in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he leaves his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them."
+                                    "alt": "On the cozy covered front porch of Grandpa Walter's brick bungalow near Emerald Creek Mall in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he breaks free from his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them."
                                 }
                             ],
                             "image_count": 1
@@ -113,7 +113,7 @@
                             "part_title": "Part 4: Eighty-Nine Degrees and One Rattling Fan",
                             "file_path": "e001/c001/p004.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-4-eighty-nine-degrees-and-one-rattling-fan",
-                            "word_count": 728,
+                            "word_count": 736,
                             "reading_minutes": 3,
                             "realm_time": "August 2001 \u2014 Ten Months in Studio 2B, Earth",
                             "start_time": "15:10",
@@ -272,11 +272,11 @@
             "label": "Opening Chapters",
             "subtitle": "",
             "entry_part": "e001/c001/p001.md",
-            "entry_url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-route-13-gate-four-and-home-to-emerald-creek",
+            "entry_url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-route-13-forty-eight-hours-notice-and-home-to-emerald-creek",
             "next_crossroads_id": "borderland-three-roads",
             "required_choices": [],
             "part_count": 7,
-            "word_count": 9726,
+            "word_count": 9733,
             "reading_minutes": 39,
             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
             "eras": [
@@ -285,32 +285,32 @@
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
                     "illustration_count": 5,
-                    "word_count": 9726,
+                    "word_count": 9733,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                             "illustration_count": 2,
-                            "word_count": 6236,
+                            "word_count": 6243,
                             "parts": [
                                 {
                                     "part_num": 1,
-                                    "part_title": "Part 1: Route 13, Gate Four, and Home to Emerald Creek",
+                                    "part_title": "Part 1: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek",
                                     "file_path": "e001/c001/p001.md",
-                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-route-13-gate-four-and-home-to-emerald-creek",
-                                    "word_count": 2584,
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-route-13-forty-eight-hours-notice-and-home-to-emerald-creek",
+                                    "word_count": 2583,
                                     "reading_minutes": 11,
                                     "realm_time": "Autumn 2000 \u2014 Two Days Before Gwen's Eighteenth Birthday, Earth",
-                                    "start_time": "08:35",
+                                    "start_time": "08:30",
                                     "location": "Pinecrest Trailer Park off Route 13 in Chesapeake to the Norfolk Pathfinder Terminal & Emerald Creek",
-                                    "excerpt": "Stale menthol smoke and damp October mildew clung to the faux-wood paneling inside Tammy's single-wide trailer while I balanced on my matte-silver Lofstrand forearm crutches beside the crooked screen door\u2026",
+                                    "excerpt": "By eight-thirty on Tuesday morning inside Tammy's smoke-stained single-wide trailer at Pinecrest Court, we had already fought twice before coffee\u2014once because my manual wheelchair tire left a damp mark two\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
-                                    "image_alt": "On the cozy covered front porch of Grandpa Walter's brick bungalow near Emerald Creek Mall in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he leaves his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.",
+                                    "image_alt": "On the cozy covered front porch of Grandpa Walter's brick bungalow near Emerald Creek Mall in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he breaks free from his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
-                                            "alt": "On the cozy covered front porch of Grandpa Walter's brick bungalow near Emerald Creek Mall in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he leaves his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them."
+                                            "alt": "On the cozy covered front porch of Grandpa Walter's brick bungalow near Emerald Creek Mall in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he breaks free from his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them."
                                         }
                                     ],
                                     "image_count": 1
@@ -353,7 +353,7 @@
                                     "part_title": "Part 4: Eighty-Nine Degrees and One Rattling Fan",
                                     "file_path": "e001/c001/p004.md",
                                     "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-4-eighty-nine-degrees-and-one-rattling-fan",
-                                    "word_count": 728,
+                                    "word_count": 736,
                                     "reading_minutes": 3,
                                     "realm_time": "August 2001 \u2014 Ten Months in Studio 2B, Earth",
                                     "start_time": "15:10",
@@ -661,32 +661,32 @@
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
             "illustration_count": 5,
-            "word_count": 9726,
+            "word_count": 9733,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                     "illustration_count": 2,
-                    "word_count": 6236,
+                    "word_count": 6243,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "Part 1: Route 13, Gate Four, and Home to Emerald Creek",
+                            "part_title": "Part 1: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek",
                             "file_path": "e001/c001/p001.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-route-13-gate-four-and-home-to-emerald-creek",
-                            "word_count": 2584,
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-route-13-forty-eight-hours-notice-and-home-to-emerald-creek",
+                            "word_count": 2583,
                             "reading_minutes": 11,
                             "realm_time": "Autumn 2000 \u2014 Two Days Before Gwen's Eighteenth Birthday, Earth",
-                            "start_time": "08:35",
+                            "start_time": "08:30",
                             "location": "Pinecrest Trailer Park off Route 13 in Chesapeake to the Norfolk Pathfinder Terminal & Emerald Creek",
-                            "excerpt": "Stale menthol smoke and damp October mildew clung to the faux-wood paneling inside Tammy's single-wide trailer while I balanced on my matte-silver Lofstrand forearm crutches beside the crooked screen door\u2026",
+                            "excerpt": "By eight-thirty on Tuesday morning inside Tammy's smoke-stained single-wide trailer at Pinecrest Court, we had already fought twice before coffee\u2014once because my manual wheelchair tire left a damp mark two\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
-                            "image_alt": "On the cozy covered front porch of Grandpa Walter's brick bungalow near Emerald Creek Mall in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he leaves his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.",
+                            "image_alt": "On the cozy covered front porch of Grandpa Walter's brick bungalow near Emerald Creek Mall in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he breaks free from his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
-                                    "alt": "On the cozy covered front porch of Grandpa Walter's brick bungalow near Emerald Creek Mall in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he leaves his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them."
+                                    "alt": "On the cozy covered front porch of Grandpa Walter's brick bungalow near Emerald Creek Mall in Chesapeake on an overcast October afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he breaks free from his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them."
                                 }
                             ],
                             "image_count": 1
@@ -729,7 +729,7 @@
                             "part_title": "Part 4: Eighty-Nine Degrees and One Rattling Fan",
                             "file_path": "e001/c001/p004.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-4-eighty-nine-degrees-and-one-rattling-fan",
-                            "word_count": 728,
+                            "word_count": 736,
                             "reading_minutes": 3,
                             "realm_time": "August 2001 \u2014 Ten Months in Studio 2B, Earth",
                             "start_time": "15:10",
