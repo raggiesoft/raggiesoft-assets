@@ -2,39 +2,39 @@
     "series_title": "The Uncharted Waystation",
     "series_slug": "waystation",
     "series_theme": "",
-    "series_short_description": "Pulled barefoot from their sofa into a 1980s fantasy world, Nolan and Gwen Lennox journey on crutches toward home.",
-    "series_description": "One quiet Friday evening, twenty-year-old Nolan Lennox and his tall nineteen-year-old sister Gwen were curled up barefoot in worn blue jeans and cotton t-shirts under a plaid throw blanket on their living-room sofa\u2014both pairs of ergonomic forearm crutches leaning against the armrest while their wheelchairs sat parked across the rug. When an amber stained-glass rift swallows the sofa cushion, Nolan, Gwen, the blanket, and their crutches tumble into the painted twin-moon borderlands of Vaeloria while both wheelchairs stay behind on Earth. Facing a vast 1980s fantasy realm on bare feet and aluminum crutches, you choose at every Story Crossroads which winding road the brother and sister take\u2014discovering a gentler, star-lit world they never want to leave.",
+    "series_short_description": "Pulled barefoot from their studio sofa into Vaeloria, Nolan (24) and Gwen (19) journey on crutches home.",
+    "series_description": "After losing their paternal grandfather the day before Gwen turned eighteen, twenty-four-year-old Nolan Lennox (5'7\") rushed his six-foot-one younger sister Gwen into his tiny studio apartment before the state could separate them, proudly adding her name to the lease days later. A year on\u2014just past Gwen's nineteenth birthday, worn down by broken elevators and six-week wheelchair part denials\u2014an amber stained-glass rift answers Gwen's spoken wish right over their coffee table, pulling barefoot Nolan, Gwen, Grandpa Walter's plaid blanket, and their four ergonomic Lofstrand forearm crutches into the twin-moon 1980s fantasy realm of Vaeloria while leaving both wheelchairs behind. Called by the Slow-Footed Order's sleeping Astrolabe to heal The Great Drift, you choose at every Story Crossroads which gentle road the affectionate brother and sister take toward a forever home they never want to leave.",
     "series_description_long": "",
     "series_image": "/raggiesoft-books/images/covers/2x3/waystation.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "1.5 MB",
+        "epub": "1.1 MB",
         "pdf": "1.6 MB",
-        "text_epub": "26 KB",
+        "text_epub": "28 KB",
         "text_pdf": "64 KB",
-        "package_7z": "16 KB",
-        "epub_bytes": 1582757,
+        "package_7z": "",
+        "epub_bytes": 1108613,
         "pdf_bytes": 1625928,
-        "text_epub_bytes": 26189,
+        "text_epub_bytes": 28425,
         "text_pdf_bytes": 65332,
-        "package_7z_bytes": 16820
+        "package_7z_bytes": 0
     },
     "illustration_count": 6,
     "word_stats": {
-        "story_word_count": 4817,
-        "lore_word_count": 137,
-        "combined_word_count": 4954,
-        "story_page_count": 18,
-        "combined_page_count": 18,
-        "reading_hours": 0.3,
-        "reading_minutes": 19,
-        "novel_equivalent": 0.05,
+        "story_word_count": 8529,
+        "lore_word_count": 153,
+        "combined_word_count": 8682,
+        "story_page_count": 31,
+        "combined_page_count": 32,
+        "reading_hours": 0.6,
+        "reading_minutes": 34,
+        "novel_equivalent": 0.09,
         "scale_category": "Short Fiction & Novelette",
         "scale_badge": "Short Fiction",
         "benchmark_note": "Short story / novelette companion (< 17,500 words)",
         "era_count": 1,
-        "chapter_count": 5,
-        "part_count": 6,
+        "chapter_count": 6,
+        "part_count": 9,
         "illustration_count": 6,
         "story_arc_count": 0
     },
@@ -42,35 +42,80 @@
     "eras": [
         {
             "era_num": 1,
-            "era_title": "Book One: Beyond the Living-Room Rift",
-            "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-living-room-rift",
+            "era_title": "Book One: Beyond the Studio Rift",
+            "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
             "illustration_count": 3,
-            "word_count": 2933,
+            "word_count": 6383,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: No Wheelchairs in the Star-Moss",
-                    "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-living-room-rift/chapter-1-no-wheelchairs-in-the-star-moss",
+                    "chap_title": "Chapter 1: Two Names on One Studio Lease",
+                    "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
+                    "illustration_count": 0,
+                    "word_count": 2833,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Before Midnight Takes You",
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-before-midnight-takes-you",
+                            "word_count": 1083,
+                            "reading_minutes": 5,
+                            "realm_time": "One Year Earlier \u2014 Eve of Gwen's Eighteenth Birthday, Earth",
+                            "start_time": "17:20",
+                            "location": "Grandpa Walter's Bungalow to Nolan's Studio Apartment",
+                            "excerpt": "Rain drummed cold against the corrugated aluminum awning over Grandpa Walter's back porch while I folded the rigid frame of Gwen's manual wheelchair and hoisted it into the trunk of my dented silver hatchback\u2026"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Eighteen and Two Names on the Lease",
+                            "file_path": "e001/c001/p002.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-2-eighteen-and-two-names-on-the-lease",
+                            "word_count": 1019,
+                            "reading_minutes": 5,
+                            "realm_time": "One Year Earlier \u2014 Gwen's Eighteenth Birthday Week, Earth",
+                            "start_time": "08:30",
+                            "location": "Studio 2B, Elm Street Walk-Up, Earth",
+                            "excerpt": "My eighteenth birthday began with the left rubber ferrule of my charcoal forearm crutch wedging fast between a rusted radiator pipe and the base of a porcelain sink. Trying to be polite in a\u2026"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Eighty-Nine Degrees and One Rattling Fan",
+                            "file_path": "e001/c001/p003.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-3-eighty-nine-degrees-and-one-rattling-fan",
+                            "word_count": 731,
+                            "reading_minutes": 3,
+                            "realm_time": "Three Months Before the Rift \u2014 Late-Summer Heatwave, Earth",
+                            "start_time": "15:10",
+                            "location": "Studio 2B, Elm Street Walk-Up, Earth",
+                            "excerpt": "By the third week of August, the beige window air-conditioner bolted into our single Elm Street casement sounded like a coffee can half-full of loose washers and blew air roughly the temperature of a dog's\u2026"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "Chapter 2: No Wheelchairs in the Star-Moss",
+                    "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss",
                     "illustration_count": 2,
-                    "word_count": 2053,
+                    "word_count": 2333,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Amber Glass Over the Coffee Table",
-                            "file_path": "e001/c001/p001.md",
-                            "url": "/waystation/book-one-beyond-the-living-room-rift/chapter-1-no-wheelchairs-in-the-star-moss/part-1-amber-glass-over-the-coffee-table",
-                            "word_count": 1181,
-                            "reading_minutes": 5,
-                            "realm_time": "First Night of the Twin Moons, Borderland of Vaeloria",
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss/part-1-amber-glass-over-the-coffee-table",
+                            "word_count": 1328,
+                            "reading_minutes": 6,
+                            "realm_time": "First Night of the Twin Moons, Studio 2B to Western Vaeloria",
                             "start_time": "21:15",
-                            "location": "The Star-Moss Hollow, Western Borderland of Vaeloria",
-                            "excerpt": "Rain ticked steady against our second-floor apartment window while the hold music from Regional Mobility Supply warbled through the speaker of Gwen's phone on the scratched oak coffee table for the forty-seventh\u2026",
+                            "location": "Studio 2B on Elm Street to The Star-Moss Hollow, Vaeloria",
+                            "excerpt": "Autumn rain ticked steady against our single Elm Street studio window while the hold music from Regional Mobility Supply warbled through the speaker of Gwen's cracked phone on the scratched oak coffee table for\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg",
-                            "image_alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot 5-foot-7 stocky brother Nolan Lennox in a navy t-shirt and jeans and his taller 6-foot-1 curvy sister Gwen Lennox in a burgundy t-shirt and jeans sit hugging and cuddling closely together under their green-and-navy plaid sofa blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them.",
+                            "image_alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) sit hugging and cuddling closely together under Grandpa Walter's green-and-navy plaid wool blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg",
-                                    "alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot 5-foot-7 stocky brother Nolan Lennox in a navy t-shirt and jeans and his taller 6-foot-1 curvy sister Gwen Lennox in a burgundy t-shirt and jeans sit hugging and cuddling closely together under their green-and-navy plaid sofa blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them."
+                                    "alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) sit hugging and cuddling closely together under Grandpa Walter's green-and-navy plaid wool blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them."
                                 }
                             ],
                             "image_count": 1
@@ -78,20 +123,20 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Six Inches Taller and Four Crutches Strong",
-                            "file_path": "e001/c001/p002.md",
-                            "url": "/waystation/book-one-beyond-the-living-room-rift/chapter-1-no-wheelchairs-in-the-star-moss/part-2-six-inches-taller-and-four-crutches-strong",
-                            "word_count": 872,
-                            "reading_minutes": 4,
+                            "file_path": "e001/c002/p002.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss/part-2-six-inches-taller-and-four-crutches-strong",
+                            "word_count": 1005,
+                            "reading_minutes": 5,
                             "realm_time": "Second Dawn of the Twin Moons, The Whispering Causeway",
                             "start_time": "07:40",
                             "location": "The Whispering Quartz Causeway, Borderland of Vaeloria",
-                            "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made every ceiling I had ever lived under feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient\u2026",
+                            "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made Studio 2B back on Elm Street feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
-                            "image_alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot 5-foot-7 stocky brother Nolan Lennox and his taller 6-foot-1 curvy sister Gwen Lennox wake curled up affectionately together on soft emerald moss under their green-and-navy plaid sofa blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach.",
+                            "image_alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wake curled up affectionately together on soft emerald moss under Grandpa Walter's green-and-navy plaid blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
-                                    "alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot 5-foot-7 stocky brother Nolan Lennox and his taller 6-foot-1 curvy sister Gwen Lennox wake curled up affectionately together on soft emerald moss under their green-and-navy plaid sofa blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach."
+                                    "alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wake curled up affectionately together on soft emerald moss under Grandpa Walter's green-and-navy plaid blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach."
                                 }
                             ],
                             "image_count": 1
@@ -99,29 +144,29 @@
                     ]
                 },
                 {
-                    "chap_num": 2,
-                    "chap_title": "Chapter 2: The Three Roads of the Sunken Milestone",
-                    "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-living-room-rift/chapter-2-the-three-roads-of-the-sunken-milestone",
+                    "chap_num": 3,
+                    "chap_title": "Chapter 3: The Three Roads of the Sunken Milestone",
+                    "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone",
                     "illustration_count": 1,
-                    "word_count": 880,
+                    "word_count": 1217,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Where the Flagstones Divide",
-                            "file_path": "e001/c002/p001.md",
-                            "url": "/waystation/book-one-beyond-the-living-room-rift/chapter-2-the-three-roads-of-the-sunken-milestone/where-the-flagstones-divide",
-                            "word_count": 880,
-                            "reading_minutes": 4,
+                            "file_path": "e001/c003/p001.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone/where-the-flagstones-divide",
+                            "word_count": 1217,
+                            "reading_minutes": 5,
                             "realm_time": "Second Afternoon of the Twin Moons, The Sunken Milestone",
                             "start_time": "15:30",
                             "location": "The Sunken Three-Faced Milestone, Vaeloria Borderlands",
                             "excerpt": "The applewood smoke belonged to a round copper kettle bubbling on a folding iron brazier beside the cheerfulest wooden tinker's cart I had ever laid eyes on. Strings of blown-glass lanterns in cobalt, amber, and\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c002_p001_three_roads_milestone.jpg",
-                            "image_alt": "In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a sapphire-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola diverge, barefoot 6-foot-1 Gwen Lennox wraps an arm affectionately around her shorter 5-foot-7 brother Nolan Lennox on a woven-rush cedar bench while they hold steaming mugs of spiced cider beside kindly white-whiskered peddler Bramwell Kettle and his lantern-hung cart, with all four of their silver and charcoal Lofstrand forearm crutches leaning cleanly beside them.",
+                            "image_alt": "In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a sapphire-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola diverge, barefoot nineteen-year-old Gwen Lennox (6-foot-1) wraps an arm affectionately around her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7) on a woven-rush cedar bench while they hold steaming mugs of spiced cider beside kindly white-whiskered peddler Bramwell Kettle and his lantern-hung cart, with all four of their silver and charcoal Lofstrand forearm crutches leaning cleanly beside them.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c002_p001_three_roads_milestone.jpg",
-                                    "alt": "In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a sapphire-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola diverge, barefoot 6-foot-1 Gwen Lennox wraps an arm affectionately around her shorter 5-foot-7 brother Nolan Lennox on a woven-rush cedar bench while they hold steaming mugs of spiced cider beside kindly white-whiskered peddler Bramwell Kettle and his lantern-hung cart, with all four of their silver and charcoal Lofstrand forearm crutches leaning cleanly beside them."
+                                    "alt": "In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a sapphire-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola diverge, barefoot nineteen-year-old Gwen Lennox (6-foot-1) wraps an arm affectionately around her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7) on a woven-rush cedar bench while they hold steaming mugs of spiced cider beside kindly white-whiskered peddler Bramwell Kettle and his lantern-hung cart, with all four of their silver and charcoal Lofstrand forearm crutches leaning cleanly beside them."
                                 }
                             ],
                             "image_count": 1
@@ -134,25 +179,25 @@
     "crossroads": [
         {
             "id": "borderland-three-roads",
-            "trigger_part": "e001/c002/p001.md",
-            "trigger_url": "/waystation/book-one-beyond-the-living-room-rift/chapter-2-the-three-roads-of-the-sunken-milestone/where-the-flagstones-divide",
+            "trigger_part": "e001/c003/p001.md",
+            "trigger_url": "/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone/where-the-flagstones-divide",
             "kicker": "Story Crossroads \u2022 Second Afternoon of the Twin Moons, The Sunken Milestone",
-            "title": "Three Roads Inward Through Vaeloria: How Do Nolan and Gwen Travel?",
-            "prompt": "With both wheelchairs left behind on their living-room rug, barefoot brother and sister Nolan and Gwen Lennox cannot march twenty miles of rough gravel a day\u2014and here at the Sunken Milestone, peddler Bramwell Kettle has shown them three gentler 1980s-fantasy routes winding deeper into Vaeloria. Every option opens a complete, coequal story route.",
+            "title": "Three Gentle Roads Toward the Waystation: How Do Nolan and Gwen Travel?",
+            "prompt": "With both wheelchairs left behind in Studio 2B on Earth, barefoot twenty-four-year-old Nolan Lennox and his six-foot-one nineteen-year-old sister Gwen have learned why Vaeloria's sleeping Astrolabe answered Gwen's wish: only two inseparable, unhurried hearts can re-harmonize the twin rings and heal The Great Drift. Here at the Sunken Milestone, peddler Bramwell Kettle shows them three gentle 1980s-fantasy routes winding inward. Every option opens a complete, coequal story route.",
             "required_choices": [],
             "options": [
                 {
                     "id": "lantern-barge-canal",
                     "crossroads_id": "borderland-three-roads",
                     "label": "The Glasswater Lantern-Barge Canal",
-                    "subtitle": "Step onto barge-master Maren's wide reed-and-cedar lantern boat\u2014resting bare feet on cushioned planks with crutches stowed safe beside the gunwale while glowing blue glass lanterns drift toward the inner river towns.",
-                    "entry_part": "paths/lantern-barge-canal/e001/c003/p001.md",
+                    "subtitle": "Step onto barge-master Maren's wide reed-and-cedar lantern boat\u2014cuddling barefoot on cushioned planks with forearm crutches stowed safe beside the gunwale while Gwen's astronomy eye guides the barge through the misty stars of The Great Drift.",
+                    "entry_part": "paths/lantern-barge-canal/e001/c004/p001.md",
                     "entry_url": "/waystation/paths/lantern-barge-canal/book-one-beyond-the-living-room-rift/chapter-3-lanterns-on-the-glasswater/drifting-under-sapphire-glass",
                     "required_choices": {
                         "borderland-three-roads": "lantern-barge-canal"
                     },
                     "part_count": 1,
-                    "word_count": 629,
+                    "word_count": 718,
                     "reading_minutes": 3,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/route1_lantern_barge_canal.jpg"
                 },
@@ -160,14 +205,14 @@
                     "id": "whisperwood-moss-road",
                     "crossroads_id": "borderland-three-roads",
                     "label": "The Whisperwood Cushion-Moss Road",
-                    "subtitle": "Walk unhurriedly at your own crutch pace over three-inch-deep emerald velvet moss beneath glowing twilight trees, where carved stone benches and warm geothermal foot-springs wait every quarter-mile.",
-                    "entry_part": "paths/whisperwood-moss-road/e001/c003/p001.md",
+                    "subtitle": "Walk unhurriedly at your own forearm-crutch pace over three-inch velvet moss laid by the Slow-Footed Order, soaking bare feet in 98-degree mineral springs and curling up together in cozy stone shelters as your shared footsteps reawaken sleepy forest lanterns.",
+                    "entry_part": "paths/whisperwood-moss-road/e001/c004/p001.md",
                     "entry_url": "/waystation/paths/whisperwood-moss-road/book-one-beyond-the-living-room-rift/chapter-3-the-slow-footed-order-s-road/warm-springs-and-glowing-canopy",
                     "required_choices": {
                         "borderland-three-roads": "whisperwood-moss-road"
                     },
                     "part_count": 1,
-                    "word_count": 602,
+                    "word_count": 681,
                     "reading_minutes": 3,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/route2_whisperwood_moss_road.jpg"
                 },
@@ -175,14 +220,14 @@
                     "id": "brass-counterweight-way",
                     "crossroads_id": "borderland-three-roads",
                     "label": "The Brass Counterweight Gondola Way",
-                    "subtitle": "Board the ancient oak-and-brass counterweight cable gondola rising smoothly up the Amber Crags past singing bronze wind-harps, where cliffside astronomers keep warm kitchens and ancient star-rings.",
-                    "entry_part": "paths/brass-counterweight-way/e001/c003/p001.md",
+                    "subtitle": "Board the oak-and-brass water-balanced sky gondola rising smoothly into the Amber Crags past singing bronze wind-harps, helping the cliffside Star-Keepers recalibrate moon-rings knocked out of phase by The Great Drift.",
+                    "entry_part": "paths/brass-counterweight-way/e001/c004/p001.md",
                     "entry_url": "/waystation/paths/brass-counterweight-way/book-one-beyond-the-living-room-rift/chapter-3-above-the-painted-clouds/gondolas-of-the-amber-crags",
                     "required_choices": {
                         "borderland-three-roads": "brass-counterweight-way"
                     },
                     "part_count": 1,
-                    "word_count": 653,
+                    "word_count": 747,
                     "reading_minutes": 3,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/route3_brass_counterweight_way.jpg"
                 }
@@ -197,45 +242,90 @@
             "label": "Opening Chapters",
             "subtitle": "",
             "entry_part": "e001/c001/p001.md",
-            "entry_url": "/waystation/book-one-beyond-the-living-room-rift/chapter-1-no-wheelchairs-in-the-star-moss/part-1-amber-glass-over-the-coffee-table",
+            "entry_url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-before-midnight-takes-you",
             "next_crossroads_id": "borderland-three-roads",
             "required_choices": [],
-            "part_count": 3,
-            "word_count": 2933,
-            "reading_minutes": 12,
+            "part_count": 6,
+            "word_count": 6383,
+            "reading_minutes": 26,
             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg",
             "eras": [
                 {
                     "era_num": 1,
-                    "era_title": "Book One: Beyond the Living-Room Rift",
-                    "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-living-room-rift",
+                    "era_title": "Book One: Beyond the Studio Rift",
+                    "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
                     "illustration_count": 3,
-                    "word_count": 2933,
+                    "word_count": 6383,
                     "chapters": [
                         {
                             "chap_num": 1,
-                            "chap_title": "Chapter 1: No Wheelchairs in the Star-Moss",
-                            "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-living-room-rift/chapter-1-no-wheelchairs-in-the-star-moss",
+                            "chap_title": "Chapter 1: Two Names on One Studio Lease",
+                            "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
+                            "illustration_count": 0,
+                            "word_count": 2833,
+                            "parts": [
+                                {
+                                    "part_num": 1,
+                                    "part_title": "Part 1: Before Midnight Takes You",
+                                    "file_path": "e001/c001/p001.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-before-midnight-takes-you",
+                                    "word_count": 1083,
+                                    "reading_minutes": 5,
+                                    "realm_time": "One Year Earlier \u2014 Eve of Gwen's Eighteenth Birthday, Earth",
+                                    "start_time": "17:20",
+                                    "location": "Grandpa Walter's Bungalow to Nolan's Studio Apartment",
+                                    "excerpt": "Rain drummed cold against the corrugated aluminum awning over Grandpa Walter's back porch while I folded the rigid frame of Gwen's manual wheelchair and hoisted it into the trunk of my dented silver hatchback\u2026"
+                                },
+                                {
+                                    "part_num": 2,
+                                    "part_title": "Part 2: Eighteen and Two Names on the Lease",
+                                    "file_path": "e001/c001/p002.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-2-eighteen-and-two-names-on-the-lease",
+                                    "word_count": 1019,
+                                    "reading_minutes": 5,
+                                    "realm_time": "One Year Earlier \u2014 Gwen's Eighteenth Birthday Week, Earth",
+                                    "start_time": "08:30",
+                                    "location": "Studio 2B, Elm Street Walk-Up, Earth",
+                                    "excerpt": "My eighteenth birthday began with the left rubber ferrule of my charcoal forearm crutch wedging fast between a rusted radiator pipe and the base of a porcelain sink. Trying to be polite in a\u2026"
+                                },
+                                {
+                                    "part_num": 3,
+                                    "part_title": "Part 3: Eighty-Nine Degrees and One Rattling Fan",
+                                    "file_path": "e001/c001/p003.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-3-eighty-nine-degrees-and-one-rattling-fan",
+                                    "word_count": 731,
+                                    "reading_minutes": 3,
+                                    "realm_time": "Three Months Before the Rift \u2014 Late-Summer Heatwave, Earth",
+                                    "start_time": "15:10",
+                                    "location": "Studio 2B, Elm Street Walk-Up, Earth",
+                                    "excerpt": "By the third week of August, the beige window air-conditioner bolted into our single Elm Street casement sounded like a coffee can half-full of loose washers and blew air roughly the temperature of a dog's\u2026"
+                                }
+                            ]
+                        },
+                        {
+                            "chap_num": 2,
+                            "chap_title": "Chapter 2: No Wheelchairs in the Star-Moss",
+                            "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss",
                             "illustration_count": 2,
-                            "word_count": 2053,
+                            "word_count": 2333,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Part 1: Amber Glass Over the Coffee Table",
-                                    "file_path": "e001/c001/p001.md",
-                                    "url": "/waystation/book-one-beyond-the-living-room-rift/chapter-1-no-wheelchairs-in-the-star-moss/part-1-amber-glass-over-the-coffee-table",
-                                    "word_count": 1181,
-                                    "reading_minutes": 5,
-                                    "realm_time": "First Night of the Twin Moons, Borderland of Vaeloria",
+                                    "file_path": "e001/c002/p001.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss/part-1-amber-glass-over-the-coffee-table",
+                                    "word_count": 1328,
+                                    "reading_minutes": 6,
+                                    "realm_time": "First Night of the Twin Moons, Studio 2B to Western Vaeloria",
                                     "start_time": "21:15",
-                                    "location": "The Star-Moss Hollow, Western Borderland of Vaeloria",
-                                    "excerpt": "Rain ticked steady against our second-floor apartment window while the hold music from Regional Mobility Supply warbled through the speaker of Gwen's phone on the scratched oak coffee table for the forty-seventh\u2026",
+                                    "location": "Studio 2B on Elm Street to The Star-Moss Hollow, Vaeloria",
+                                    "excerpt": "Autumn rain ticked steady against our single Elm Street studio window while the hold music from Regional Mobility Supply warbled through the speaker of Gwen's cracked phone on the scratched oak coffee table for\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg",
-                                    "image_alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot 5-foot-7 stocky brother Nolan Lennox in a navy t-shirt and jeans and his taller 6-foot-1 curvy sister Gwen Lennox in a burgundy t-shirt and jeans sit hugging and cuddling closely together under their green-and-navy plaid sofa blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them.",
+                                    "image_alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) sit hugging and cuddling closely together under Grandpa Walter's green-and-navy plaid wool blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg",
-                                            "alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot 5-foot-7 stocky brother Nolan Lennox in a navy t-shirt and jeans and his taller 6-foot-1 curvy sister Gwen Lennox in a burgundy t-shirt and jeans sit hugging and cuddling closely together under their green-and-navy plaid sofa blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them."
+                                            "alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) sit hugging and cuddling closely together under Grandpa Walter's green-and-navy plaid wool blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them."
                                         }
                                     ],
                                     "image_count": 1
@@ -243,20 +333,20 @@
                                 {
                                     "part_num": 2,
                                     "part_title": "Part 2: Six Inches Taller and Four Crutches Strong",
-                                    "file_path": "e001/c001/p002.md",
-                                    "url": "/waystation/book-one-beyond-the-living-room-rift/chapter-1-no-wheelchairs-in-the-star-moss/part-2-six-inches-taller-and-four-crutches-strong",
-                                    "word_count": 872,
-                                    "reading_minutes": 4,
+                                    "file_path": "e001/c002/p002.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss/part-2-six-inches-taller-and-four-crutches-strong",
+                                    "word_count": 1005,
+                                    "reading_minutes": 5,
                                     "realm_time": "Second Dawn of the Twin Moons, The Whispering Causeway",
                                     "start_time": "07:40",
                                     "location": "The Whispering Quartz Causeway, Borderland of Vaeloria",
-                                    "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made every ceiling I had ever lived under feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient\u2026",
+                                    "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made Studio 2B back on Elm Street feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
-                                    "image_alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot 5-foot-7 stocky brother Nolan Lennox and his taller 6-foot-1 curvy sister Gwen Lennox wake curled up affectionately together on soft emerald moss under their green-and-navy plaid sofa blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach.",
+                                    "image_alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wake curled up affectionately together on soft emerald moss under Grandpa Walter's green-and-navy plaid blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
-                                            "alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot 5-foot-7 stocky brother Nolan Lennox and his taller 6-foot-1 curvy sister Gwen Lennox wake curled up affectionately together on soft emerald moss under their green-and-navy plaid sofa blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach."
+                                            "alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wake curled up affectionately together on soft emerald moss under Grandpa Walter's green-and-navy plaid blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach."
                                         }
                                     ],
                                     "image_count": 1
@@ -264,29 +354,29 @@
                             ]
                         },
                         {
-                            "chap_num": 2,
-                            "chap_title": "Chapter 2: The Three Roads of the Sunken Milestone",
-                            "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-living-room-rift/chapter-2-the-three-roads-of-the-sunken-milestone",
+                            "chap_num": 3,
+                            "chap_title": "Chapter 3: The Three Roads of the Sunken Milestone",
+                            "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone",
                             "illustration_count": 1,
-                            "word_count": 880,
+                            "word_count": 1217,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Where the Flagstones Divide",
-                                    "file_path": "e001/c002/p001.md",
-                                    "url": "/waystation/book-one-beyond-the-living-room-rift/chapter-2-the-three-roads-of-the-sunken-milestone/where-the-flagstones-divide",
-                                    "word_count": 880,
-                                    "reading_minutes": 4,
+                                    "file_path": "e001/c003/p001.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone/where-the-flagstones-divide",
+                                    "word_count": 1217,
+                                    "reading_minutes": 5,
                                     "realm_time": "Second Afternoon of the Twin Moons, The Sunken Milestone",
                                     "start_time": "15:30",
                                     "location": "The Sunken Three-Faced Milestone, Vaeloria Borderlands",
                                     "excerpt": "The applewood smoke belonged to a round copper kettle bubbling on a folding iron brazier beside the cheerfulest wooden tinker's cart I had ever laid eyes on. Strings of blown-glass lanterns in cobalt, amber, and\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c002_p001_three_roads_milestone.jpg",
-                                    "image_alt": "In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a sapphire-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola diverge, barefoot 6-foot-1 Gwen Lennox wraps an arm affectionately around her shorter 5-foot-7 brother Nolan Lennox on a woven-rush cedar bench while they hold steaming mugs of spiced cider beside kindly white-whiskered peddler Bramwell Kettle and his lantern-hung cart, with all four of their silver and charcoal Lofstrand forearm crutches leaning cleanly beside them.",
+                                    "image_alt": "In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a sapphire-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola diverge, barefoot nineteen-year-old Gwen Lennox (6-foot-1) wraps an arm affectionately around her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7) on a woven-rush cedar bench while they hold steaming mugs of spiced cider beside kindly white-whiskered peddler Bramwell Kettle and his lantern-hung cart, with all four of their silver and charcoal Lofstrand forearm crutches leaning cleanly beside them.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c002_p001_three_roads_milestone.jpg",
-                                            "alt": "In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a sapphire-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola diverge, barefoot 6-foot-1 Gwen Lennox wraps an arm affectionately around her shorter 5-foot-7 brother Nolan Lennox on a woven-rush cedar bench while they hold steaming mugs of spiced cider beside kindly white-whiskered peddler Bramwell Kettle and his lantern-hung cart, with all four of their silver and charcoal Lofstrand forearm crutches leaning cleanly beside them."
+                                            "alt": "In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a sapphire-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola diverge, barefoot nineteen-year-old Gwen Lennox (6-foot-1) wraps an arm affectionately around her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7) on a woven-rush cedar bench while they hold steaming mugs of spiced cider beside kindly white-whiskered peddler Bramwell Kettle and his lantern-hung cart, with all four of their silver and charcoal Lofstrand forearm crutches leaning cleanly beside them."
                                         }
                                     ],
                                     "image_count": 1
@@ -301,15 +391,15 @@
             "id": "lantern-barge-canal",
             "crossroads_id": "borderland-three-roads",
             "label": "The Glasswater Lantern-Barge Canal",
-            "subtitle": "Step onto barge-master Maren's wide reed-and-cedar lantern boat\u2014resting bare feet on cushioned planks with crutches stowed safe beside the gunwale while glowing blue glass lanterns drift toward the inner river towns.",
-            "entry_part": "paths/lantern-barge-canal/e001/c003/p001.md",
+            "subtitle": "Step onto barge-master Maren's wide reed-and-cedar lantern boat\u2014cuddling barefoot on cushioned planks with forearm crutches stowed safe beside the gunwale while Gwen's astronomy eye guides the barge through the misty stars of The Great Drift.",
+            "entry_part": "paths/lantern-barge-canal/e001/c004/p001.md",
             "entry_url": "/waystation/paths/lantern-barge-canal/book-one-beyond-the-living-room-rift/chapter-3-lanterns-on-the-glasswater/drifting-under-sapphire-glass",
             "next_crossroads_id": null,
             "required_choices": {
                 "borderland-three-roads": "lantern-barge-canal"
             },
             "part_count": 1,
-            "word_count": 629,
+            "word_count": 718,
             "reading_minutes": 3,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/route1_lantern_barge_canal.jpg",
             "eras": [
@@ -318,21 +408,21 @@
                     "era_title": "Book One: Beyond the Living-Room Rift",
                     "era_url": "/raggiesoft-books/books/waystation/paths/lantern-barge-canal/book-one-beyond-the-living-room-rift",
                     "illustration_count": 1,
-                    "word_count": 629,
+                    "word_count": 718,
                     "chapters": [
                         {
-                            "chap_num": 3,
+                            "chap_num": 4,
                             "chap_title": "Chapter 3: Lanterns on the Glasswater",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/lantern-barge-canal/book-one-beyond-the-living-room-rift/chapter-3-lanterns-on-the-glasswater",
                             "illustration_count": 1,
-                            "word_count": 629,
+                            "word_count": 718,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Drifting Under Sapphire Glass",
-                                    "file_path": "paths/lantern-barge-canal/e001/c003/p001.md",
+                                    "file_path": "paths/lantern-barge-canal/e001/c004/p001.md",
                                     "url": "/waystation/paths/lantern-barge-canal/book-one-beyond-the-living-room-rift/chapter-3-lanterns-on-the-glasswater/drifting-under-sapphire-glass",
-                                    "word_count": 629,
+                                    "word_count": 718,
                                     "reading_minutes": 3,
                                     "path_id": "lantern-barge-canal",
                                     "realm_time": "Second Twilight of the Twin Moons, The Glasswater Canal",
@@ -370,15 +460,15 @@
             "id": "whisperwood-moss-road",
             "crossroads_id": "borderland-three-roads",
             "label": "The Whisperwood Cushion-Moss Road",
-            "subtitle": "Walk unhurriedly at your own crutch pace over three-inch-deep emerald velvet moss beneath glowing twilight trees, where carved stone benches and warm geothermal foot-springs wait every quarter-mile.",
-            "entry_part": "paths/whisperwood-moss-road/e001/c003/p001.md",
+            "subtitle": "Walk unhurriedly at your own forearm-crutch pace over three-inch velvet moss laid by the Slow-Footed Order, soaking bare feet in 98-degree mineral springs and curling up together in cozy stone shelters as your shared footsteps reawaken sleepy forest lanterns.",
+            "entry_part": "paths/whisperwood-moss-road/e001/c004/p001.md",
             "entry_url": "/waystation/paths/whisperwood-moss-road/book-one-beyond-the-living-room-rift/chapter-3-the-slow-footed-order-s-road/warm-springs-and-glowing-canopy",
             "next_crossroads_id": null,
             "required_choices": {
                 "borderland-three-roads": "whisperwood-moss-road"
             },
             "part_count": 1,
-            "word_count": 602,
+            "word_count": 681,
             "reading_minutes": 3,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/route2_whisperwood_moss_road.jpg",
             "eras": [
@@ -387,21 +477,21 @@
                     "era_title": "Book One: Beyond the Living-Room Rift",
                     "era_url": "/raggiesoft-books/books/waystation/paths/whisperwood-moss-road/book-one-beyond-the-living-room-rift",
                     "illustration_count": 1,
-                    "word_count": 602,
+                    "word_count": 681,
                     "chapters": [
                         {
-                            "chap_num": 3,
+                            "chap_num": 4,
                             "chap_title": "Chapter 3: The Slow-Footed Order's Road",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/whisperwood-moss-road/book-one-beyond-the-living-room-rift/chapter-3-the-slow-footed-order-s-road",
                             "illustration_count": 1,
-                            "word_count": 602,
+                            "word_count": 681,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Warm Springs and Glowing Canopy",
-                                    "file_path": "paths/whisperwood-moss-road/e001/c003/p001.md",
+                                    "file_path": "paths/whisperwood-moss-road/e001/c004/p001.md",
                                     "url": "/waystation/paths/whisperwood-moss-road/book-one-beyond-the-living-room-rift/chapter-3-the-slow-footed-order-s-road/warm-springs-and-glowing-canopy",
-                                    "word_count": 602,
+                                    "word_count": 681,
                                     "reading_minutes": 3,
                                     "path_id": "whisperwood-moss-road",
                                     "realm_time": "Second Twilight of the Twin Moons, The Whisperwood",
@@ -439,15 +529,15 @@
             "id": "brass-counterweight-way",
             "crossroads_id": "borderland-three-roads",
             "label": "The Brass Counterweight Gondola Way",
-            "subtitle": "Board the ancient oak-and-brass counterweight cable gondola rising smoothly up the Amber Crags past singing bronze wind-harps, where cliffside astronomers keep warm kitchens and ancient star-rings.",
-            "entry_part": "paths/brass-counterweight-way/e001/c003/p001.md",
+            "subtitle": "Board the oak-and-brass water-balanced sky gondola rising smoothly into the Amber Crags past singing bronze wind-harps, helping the cliffside Star-Keepers recalibrate moon-rings knocked out of phase by The Great Drift.",
+            "entry_part": "paths/brass-counterweight-way/e001/c004/p001.md",
             "entry_url": "/waystation/paths/brass-counterweight-way/book-one-beyond-the-living-room-rift/chapter-3-above-the-painted-clouds/gondolas-of-the-amber-crags",
             "next_crossroads_id": null,
             "required_choices": {
                 "borderland-three-roads": "brass-counterweight-way"
             },
             "part_count": 1,
-            "word_count": 653,
+            "word_count": 747,
             "reading_minutes": 3,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/route3_brass_counterweight_way.jpg",
             "eras": [
@@ -456,21 +546,21 @@
                     "era_title": "Book One: Beyond the Living-Room Rift",
                     "era_url": "/raggiesoft-books/books/waystation/paths/brass-counterweight-way/book-one-beyond-the-living-room-rift",
                     "illustration_count": 1,
-                    "word_count": 653,
+                    "word_count": 747,
                     "chapters": [
                         {
-                            "chap_num": 3,
+                            "chap_num": 4,
                             "chap_title": "Chapter 3: Above the Painted Clouds",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/brass-counterweight-way/book-one-beyond-the-living-room-rift/chapter-3-above-the-painted-clouds",
                             "illustration_count": 1,
-                            "word_count": 653,
+                            "word_count": 747,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Gondolas of the Amber Crags",
-                                    "file_path": "paths/brass-counterweight-way/e001/c003/p001.md",
+                                    "file_path": "paths/brass-counterweight-way/e001/c004/p001.md",
                                     "url": "/waystation/paths/brass-counterweight-way/book-one-beyond-the-living-room-rift/chapter-3-above-the-painted-clouds/gondolas-of-the-amber-crags",
-                                    "word_count": 653,
+                                    "word_count": 747,
                                     "reading_minutes": 3,
                                     "path_id": "brass-counterweight-way",
                                     "realm_time": "Second Sunset of the Twin Moons, The Amber Crags",
@@ -508,35 +598,80 @@
     "trunk_eras": [
         {
             "era_num": 1,
-            "era_title": "Book One: Beyond the Living-Room Rift",
-            "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-living-room-rift",
+            "era_title": "Book One: Beyond the Studio Rift",
+            "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
             "illustration_count": 3,
-            "word_count": 2933,
+            "word_count": 6383,
             "chapters": [
                 {
                     "chap_num": 1,
-                    "chap_title": "Chapter 1: No Wheelchairs in the Star-Moss",
-                    "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-living-room-rift/chapter-1-no-wheelchairs-in-the-star-moss",
+                    "chap_title": "Chapter 1: Two Names on One Studio Lease",
+                    "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
+                    "illustration_count": 0,
+                    "word_count": 2833,
+                    "parts": [
+                        {
+                            "part_num": 1,
+                            "part_title": "Part 1: Before Midnight Takes You",
+                            "file_path": "e001/c001/p001.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-before-midnight-takes-you",
+                            "word_count": 1083,
+                            "reading_minutes": 5,
+                            "realm_time": "One Year Earlier \u2014 Eve of Gwen's Eighteenth Birthday, Earth",
+                            "start_time": "17:20",
+                            "location": "Grandpa Walter's Bungalow to Nolan's Studio Apartment",
+                            "excerpt": "Rain drummed cold against the corrugated aluminum awning over Grandpa Walter's back porch while I folded the rigid frame of Gwen's manual wheelchair and hoisted it into the trunk of my dented silver hatchback\u2026"
+                        },
+                        {
+                            "part_num": 2,
+                            "part_title": "Part 2: Eighteen and Two Names on the Lease",
+                            "file_path": "e001/c001/p002.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-2-eighteen-and-two-names-on-the-lease",
+                            "word_count": 1019,
+                            "reading_minutes": 5,
+                            "realm_time": "One Year Earlier \u2014 Gwen's Eighteenth Birthday Week, Earth",
+                            "start_time": "08:30",
+                            "location": "Studio 2B, Elm Street Walk-Up, Earth",
+                            "excerpt": "My eighteenth birthday began with the left rubber ferrule of my charcoal forearm crutch wedging fast between a rusted radiator pipe and the base of a porcelain sink. Trying to be polite in a\u2026"
+                        },
+                        {
+                            "part_num": 3,
+                            "part_title": "Part 3: Eighty-Nine Degrees and One Rattling Fan",
+                            "file_path": "e001/c001/p003.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-3-eighty-nine-degrees-and-one-rattling-fan",
+                            "word_count": 731,
+                            "reading_minutes": 3,
+                            "realm_time": "Three Months Before the Rift \u2014 Late-Summer Heatwave, Earth",
+                            "start_time": "15:10",
+                            "location": "Studio 2B, Elm Street Walk-Up, Earth",
+                            "excerpt": "By the third week of August, the beige window air-conditioner bolted into our single Elm Street casement sounded like a coffee can half-full of loose washers and blew air roughly the temperature of a dog's\u2026"
+                        }
+                    ]
+                },
+                {
+                    "chap_num": 2,
+                    "chap_title": "Chapter 2: No Wheelchairs in the Star-Moss",
+                    "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss",
                     "illustration_count": 2,
-                    "word_count": 2053,
+                    "word_count": 2333,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Amber Glass Over the Coffee Table",
-                            "file_path": "e001/c001/p001.md",
-                            "url": "/waystation/book-one-beyond-the-living-room-rift/chapter-1-no-wheelchairs-in-the-star-moss/part-1-amber-glass-over-the-coffee-table",
-                            "word_count": 1181,
-                            "reading_minutes": 5,
-                            "realm_time": "First Night of the Twin Moons, Borderland of Vaeloria",
+                            "file_path": "e001/c002/p001.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss/part-1-amber-glass-over-the-coffee-table",
+                            "word_count": 1328,
+                            "reading_minutes": 6,
+                            "realm_time": "First Night of the Twin Moons, Studio 2B to Western Vaeloria",
                             "start_time": "21:15",
-                            "location": "The Star-Moss Hollow, Western Borderland of Vaeloria",
-                            "excerpt": "Rain ticked steady against our second-floor apartment window while the hold music from Regional Mobility Supply warbled through the speaker of Gwen's phone on the scratched oak coffee table for the forty-seventh\u2026",
+                            "location": "Studio 2B on Elm Street to The Star-Moss Hollow, Vaeloria",
+                            "excerpt": "Autumn rain ticked steady against our single Elm Street studio window while the hold music from Regional Mobility Supply warbled through the speaker of Gwen's cracked phone on the scratched oak coffee table for\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg",
-                            "image_alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot 5-foot-7 stocky brother Nolan Lennox in a navy t-shirt and jeans and his taller 6-foot-1 curvy sister Gwen Lennox in a burgundy t-shirt and jeans sit hugging and cuddling closely together under their green-and-navy plaid sofa blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them.",
+                            "image_alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) sit hugging and cuddling closely together under Grandpa Walter's green-and-navy plaid wool blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg",
-                                    "alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot 5-foot-7 stocky brother Nolan Lennox in a navy t-shirt and jeans and his taller 6-foot-1 curvy sister Gwen Lennox in a burgundy t-shirt and jeans sit hugging and cuddling closely together under their green-and-navy plaid sofa blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them."
+                                    "alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) sit hugging and cuddling closely together under Grandpa Walter's green-and-navy plaid wool blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them."
                                 }
                             ],
                             "image_count": 1
@@ -544,20 +679,20 @@
                         {
                             "part_num": 2,
                             "part_title": "Part 2: Six Inches Taller and Four Crutches Strong",
-                            "file_path": "e001/c001/p002.md",
-                            "url": "/waystation/book-one-beyond-the-living-room-rift/chapter-1-no-wheelchairs-in-the-star-moss/part-2-six-inches-taller-and-four-crutches-strong",
-                            "word_count": 872,
-                            "reading_minutes": 4,
+                            "file_path": "e001/c002/p002.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss/part-2-six-inches-taller-and-four-crutches-strong",
+                            "word_count": 1005,
+                            "reading_minutes": 5,
                             "realm_time": "Second Dawn of the Twin Moons, The Whispering Causeway",
                             "start_time": "07:40",
                             "location": "The Whispering Quartz Causeway, Borderland of Vaeloria",
-                            "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made every ceiling I had ever lived under feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient\u2026",
+                            "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made Studio 2B back on Elm Street feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
-                            "image_alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot 5-foot-7 stocky brother Nolan Lennox and his taller 6-foot-1 curvy sister Gwen Lennox wake curled up affectionately together on soft emerald moss under their green-and-navy plaid sofa blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach.",
+                            "image_alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wake curled up affectionately together on soft emerald moss under Grandpa Walter's green-and-navy plaid blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
-                                    "alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot 5-foot-7 stocky brother Nolan Lennox and his taller 6-foot-1 curvy sister Gwen Lennox wake curled up affectionately together on soft emerald moss under their green-and-navy plaid sofa blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach."
+                                    "alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wake curled up affectionately together on soft emerald moss under Grandpa Walter's green-and-navy plaid blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach."
                                 }
                             ],
                             "image_count": 1
@@ -565,29 +700,29 @@
                     ]
                 },
                 {
-                    "chap_num": 2,
-                    "chap_title": "Chapter 2: The Three Roads of the Sunken Milestone",
-                    "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-living-room-rift/chapter-2-the-three-roads-of-the-sunken-milestone",
+                    "chap_num": 3,
+                    "chap_title": "Chapter 3: The Three Roads of the Sunken Milestone",
+                    "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone",
                     "illustration_count": 1,
-                    "word_count": 880,
+                    "word_count": 1217,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Where the Flagstones Divide",
-                            "file_path": "e001/c002/p001.md",
-                            "url": "/waystation/book-one-beyond-the-living-room-rift/chapter-2-the-three-roads-of-the-sunken-milestone/where-the-flagstones-divide",
-                            "word_count": 880,
-                            "reading_minutes": 4,
+                            "file_path": "e001/c003/p001.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone/where-the-flagstones-divide",
+                            "word_count": 1217,
+                            "reading_minutes": 5,
                             "realm_time": "Second Afternoon of the Twin Moons, The Sunken Milestone",
                             "start_time": "15:30",
                             "location": "The Sunken Three-Faced Milestone, Vaeloria Borderlands",
                             "excerpt": "The applewood smoke belonged to a round copper kettle bubbling on a folding iron brazier beside the cheerfulest wooden tinker's cart I had ever laid eyes on. Strings of blown-glass lanterns in cobalt, amber, and\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c002_p001_three_roads_milestone.jpg",
-                            "image_alt": "In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a sapphire-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola diverge, barefoot 6-foot-1 Gwen Lennox wraps an arm affectionately around her shorter 5-foot-7 brother Nolan Lennox on a woven-rush cedar bench while they hold steaming mugs of spiced cider beside kindly white-whiskered peddler Bramwell Kettle and his lantern-hung cart, with all four of their silver and charcoal Lofstrand forearm crutches leaning cleanly beside them.",
+                            "image_alt": "In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a sapphire-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola diverge, barefoot nineteen-year-old Gwen Lennox (6-foot-1) wraps an arm affectionately around her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7) on a woven-rush cedar bench while they hold steaming mugs of spiced cider beside kindly white-whiskered peddler Bramwell Kettle and his lantern-hung cart, with all four of their silver and charcoal Lofstrand forearm crutches leaning cleanly beside them.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c002_p001_three_roads_milestone.jpg",
-                                    "alt": "In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a sapphire-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola diverge, barefoot 6-foot-1 Gwen Lennox wraps an arm affectionately around her shorter 5-foot-7 brother Nolan Lennox on a woven-rush cedar bench while they hold steaming mugs of spiced cider beside kindly white-whiskered peddler Bramwell Kettle and his lantern-hung cart, with all four of their silver and charcoal Lofstrand forearm crutches leaning cleanly beside them."
+                                    "alt": "In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a sapphire-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola diverge, barefoot nineteen-year-old Gwen Lennox (6-foot-1) wraps an arm affectionately around her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7) on a woven-rush cedar bench while they hold steaming mugs of spiced cider beside kindly white-whiskered peddler Bramwell Kettle and his lantern-hung cart, with all four of their silver and charcoal Lofstrand forearm crutches leaning cleanly beside them."
                                 }
                             ],
                             "image_count": 1
@@ -602,15 +737,15 @@
             "id": "lantern-barge-canal",
             "crossroads_id": "borderland-three-roads",
             "label": "The Glasswater Lantern-Barge Canal",
-            "subtitle": "Step onto barge-master Maren's wide reed-and-cedar lantern boat\u2014resting bare feet on cushioned planks with crutches stowed safe beside the gunwale while glowing blue glass lanterns drift toward the inner river towns.",
-            "entry_part": "paths/lantern-barge-canal/e001/c003/p001.md",
+            "subtitle": "Step onto barge-master Maren's wide reed-and-cedar lantern boat\u2014cuddling barefoot on cushioned planks with forearm crutches stowed safe beside the gunwale while Gwen's astronomy eye guides the barge through the misty stars of The Great Drift.",
+            "entry_part": "paths/lantern-barge-canal/e001/c004/p001.md",
             "entry_url": "/waystation/paths/lantern-barge-canal/book-one-beyond-the-living-room-rift/chapter-3-lanterns-on-the-glasswater/drifting-under-sapphire-glass",
             "next_crossroads_id": null,
             "required_choices": {
                 "borderland-three-roads": "lantern-barge-canal"
             },
             "part_count": 1,
-            "word_count": 629,
+            "word_count": 718,
             "reading_minutes": 3,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/route1_lantern_barge_canal.jpg",
             "eras": [
@@ -619,21 +754,21 @@
                     "era_title": "Book One: Beyond the Living-Room Rift",
                     "era_url": "/raggiesoft-books/books/waystation/paths/lantern-barge-canal/book-one-beyond-the-living-room-rift",
                     "illustration_count": 1,
-                    "word_count": 629,
+                    "word_count": 718,
                     "chapters": [
                         {
-                            "chap_num": 3,
+                            "chap_num": 4,
                             "chap_title": "Chapter 3: Lanterns on the Glasswater",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/lantern-barge-canal/book-one-beyond-the-living-room-rift/chapter-3-lanterns-on-the-glasswater",
                             "illustration_count": 1,
-                            "word_count": 629,
+                            "word_count": 718,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Drifting Under Sapphire Glass",
-                                    "file_path": "paths/lantern-barge-canal/e001/c003/p001.md",
+                                    "file_path": "paths/lantern-barge-canal/e001/c004/p001.md",
                                     "url": "/waystation/paths/lantern-barge-canal/book-one-beyond-the-living-room-rift/chapter-3-lanterns-on-the-glasswater/drifting-under-sapphire-glass",
-                                    "word_count": 629,
+                                    "word_count": 718,
                                     "reading_minutes": 3,
                                     "path_id": "lantern-barge-canal",
                                     "realm_time": "Second Twilight of the Twin Moons, The Glasswater Canal",
@@ -671,15 +806,15 @@
             "id": "whisperwood-moss-road",
             "crossroads_id": "borderland-three-roads",
             "label": "The Whisperwood Cushion-Moss Road",
-            "subtitle": "Walk unhurriedly at your own crutch pace over three-inch-deep emerald velvet moss beneath glowing twilight trees, where carved stone benches and warm geothermal foot-springs wait every quarter-mile.",
-            "entry_part": "paths/whisperwood-moss-road/e001/c003/p001.md",
+            "subtitle": "Walk unhurriedly at your own forearm-crutch pace over three-inch velvet moss laid by the Slow-Footed Order, soaking bare feet in 98-degree mineral springs and curling up together in cozy stone shelters as your shared footsteps reawaken sleepy forest lanterns.",
+            "entry_part": "paths/whisperwood-moss-road/e001/c004/p001.md",
             "entry_url": "/waystation/paths/whisperwood-moss-road/book-one-beyond-the-living-room-rift/chapter-3-the-slow-footed-order-s-road/warm-springs-and-glowing-canopy",
             "next_crossroads_id": null,
             "required_choices": {
                 "borderland-three-roads": "whisperwood-moss-road"
             },
             "part_count": 1,
-            "word_count": 602,
+            "word_count": 681,
             "reading_minutes": 3,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/route2_whisperwood_moss_road.jpg",
             "eras": [
@@ -688,21 +823,21 @@
                     "era_title": "Book One: Beyond the Living-Room Rift",
                     "era_url": "/raggiesoft-books/books/waystation/paths/whisperwood-moss-road/book-one-beyond-the-living-room-rift",
                     "illustration_count": 1,
-                    "word_count": 602,
+                    "word_count": 681,
                     "chapters": [
                         {
-                            "chap_num": 3,
+                            "chap_num": 4,
                             "chap_title": "Chapter 3: The Slow-Footed Order's Road",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/whisperwood-moss-road/book-one-beyond-the-living-room-rift/chapter-3-the-slow-footed-order-s-road",
                             "illustration_count": 1,
-                            "word_count": 602,
+                            "word_count": 681,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Warm Springs and Glowing Canopy",
-                                    "file_path": "paths/whisperwood-moss-road/e001/c003/p001.md",
+                                    "file_path": "paths/whisperwood-moss-road/e001/c004/p001.md",
                                     "url": "/waystation/paths/whisperwood-moss-road/book-one-beyond-the-living-room-rift/chapter-3-the-slow-footed-order-s-road/warm-springs-and-glowing-canopy",
-                                    "word_count": 602,
+                                    "word_count": 681,
                                     "reading_minutes": 3,
                                     "path_id": "whisperwood-moss-road",
                                     "realm_time": "Second Twilight of the Twin Moons, The Whisperwood",
@@ -740,15 +875,15 @@
             "id": "brass-counterweight-way",
             "crossroads_id": "borderland-three-roads",
             "label": "The Brass Counterweight Gondola Way",
-            "subtitle": "Board the ancient oak-and-brass counterweight cable gondola rising smoothly up the Amber Crags past singing bronze wind-harps, where cliffside astronomers keep warm kitchens and ancient star-rings.",
-            "entry_part": "paths/brass-counterweight-way/e001/c003/p001.md",
+            "subtitle": "Board the oak-and-brass water-balanced sky gondola rising smoothly into the Amber Crags past singing bronze wind-harps, helping the cliffside Star-Keepers recalibrate moon-rings knocked out of phase by The Great Drift.",
+            "entry_part": "paths/brass-counterweight-way/e001/c004/p001.md",
             "entry_url": "/waystation/paths/brass-counterweight-way/book-one-beyond-the-living-room-rift/chapter-3-above-the-painted-clouds/gondolas-of-the-amber-crags",
             "next_crossroads_id": null,
             "required_choices": {
                 "borderland-three-roads": "brass-counterweight-way"
             },
             "part_count": 1,
-            "word_count": 653,
+            "word_count": 747,
             "reading_minutes": 3,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/route3_brass_counterweight_way.jpg",
             "eras": [
@@ -757,21 +892,21 @@
                     "era_title": "Book One: Beyond the Living-Room Rift",
                     "era_url": "/raggiesoft-books/books/waystation/paths/brass-counterweight-way/book-one-beyond-the-living-room-rift",
                     "illustration_count": 1,
-                    "word_count": 653,
+                    "word_count": 747,
                     "chapters": [
                         {
-                            "chap_num": 3,
+                            "chap_num": 4,
                             "chap_title": "Chapter 3: Above the Painted Clouds",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/brass-counterweight-way/book-one-beyond-the-living-room-rift/chapter-3-above-the-painted-clouds",
                             "illustration_count": 1,
-                            "word_count": 653,
+                            "word_count": 747,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Gondolas of the Amber Crags",
-                                    "file_path": "paths/brass-counterweight-way/e001/c003/p001.md",
+                                    "file_path": "paths/brass-counterweight-way/e001/c004/p001.md",
                                     "url": "/waystation/paths/brass-counterweight-way/book-one-beyond-the-living-room-rift/chapter-3-above-the-painted-clouds/gondolas-of-the-amber-crags",
-                                    "word_count": 653,
+                                    "word_count": 747,
                                     "reading_minutes": 3,
                                     "path_id": "brass-counterweight-way",
                                     "realm_time": "Second Sunset of the Twin Moons, The Amber Crags",

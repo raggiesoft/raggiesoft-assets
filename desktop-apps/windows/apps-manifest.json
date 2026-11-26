@@ -11,8 +11,8 @@
     "defaultSubFolder": "RaggieSoft\\Launcher",
     "installerFileName": "raggiesoft-launcher-setup.exe",
     "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/apps/launcher/raggiesoft-launcher-setup.exe",
-    "sha256": "8D1FAC40D2F4683A9F78EFDF0B2C5B2B12DF8C6A4C7431027243D34F003B9578",
-    "sizeBytes": 10277734,
+    "sha256": "D34BC41D08695C2E06A1B6C46D89FB497A81A325DCC987E6F4E209AC1A2F7C8E",
+    "sizeBytes": 882456,
     "webUrl": "https://launcher.raggiesoft.com"
   },
   {
@@ -27,8 +27,8 @@
     "defaultSubFolder": "RaggieSoft\\Book Reader",
     "installerFileName": "raggiesoft-book-reader-setup.exe",
     "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/apps/book-reader/raggiesoft-book-reader-setup.exe",
-    "sha256": "4EA76FFEF61A95AC7F78D84A249567A6C3C5B7C3B5744AEA18567E6833598EF3",
-    "sizeBytes": 8174720,
+    "sha256": "4BDF132AA30E3887DFC2CF1E8C10DD78CA92936F3A371CB09B7AA3CD891A563D",
+    "sizeBytes": 944408,
     "webUrl": "https://books.raggiesoft.com"
   },
   {
@@ -43,8 +43,8 @@
     "defaultSubFolder": "RaggieSoft\\The Listening Room",
     "installerFileName": "raggiesoft-listening-room-setup.exe",
     "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/apps/listening-room/raggiesoft-listening-room-setup.exe",
-    "sha256": "9B5C0F9B53F45C9846B63F270CAE16AA4F662BC0589E8B3EDD1F302C538430FF",
-    "sizeBytes": 9399676,
+    "sha256": "83D80F36E7F731AE9BA5EB3B3B210C5829FFD5B909A4DC081499DFB90D51795A",
+    "sizeBytes": 973080,
     "webUrl": "https://music.raggiesoft.com"
   },
   {
@@ -59,8 +59,8 @@
     "defaultSubFolder": "RaggieSoft\\Backstage",
     "installerFileName": "raggiesoft-backstage-setup.exe",
     "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/apps/backstage/raggiesoft-backstage-setup.exe",
-    "sha256": "D43D2AF81FD59F19F3FAAAA853A1F3FCB82DAC8A21E137C4B76E808BC593C225",
-    "sizeBytes": 9287214,
+    "sha256": "792B4EAE30F3937F99EEC363B7407F74F39CF139E182CCE89DC2DD093BC05942",
+    "sizeBytes": 904472,
     "webUrl": "https://backstage.raggiesoft.com"
   },
   {
@@ -75,8 +75,8 @@
     "defaultSubFolder": "RaggieSoft\\StoreTrainer",
     "installerFileName": "raggiesoft-storetrainer-setup.exe",
     "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/apps/storetrainer/raggiesoft-storetrainer-setup.exe",
-    "sha256": "3F73A3F6FA772C14591F4D2E52457A80B25E09095E77AC2EC437059E34F6F92A",
-    "sizeBytes": 5871982,
+    "sha256": "690356A16EAAC87090923216A76BA4ED2CF30850569D10545C0185DAD34AC402",
+    "sizeBytes": 789272,
     "latestClassicVersion": "1.1.0",
     "classicPatchFileName": "tspatch110.exe",
     "classicPatchDownloadUrl": "https://assets.raggiesoft.com/storetrainer/tspatch110.exe",
@@ -94,8 +94,8 @@
     "defaultSubFolder": "RaggieSoft\\Accessibility Studio",
     "installerFileName": "raggiesoft-accessibility-studio-setup.exe",
     "installerDownloadUrl": "https://assets.raggiesoft.com/desktop-apps/windows/apps/accessibility-studio/raggiesoft-accessibility-studio-setup.exe",
-    "sha256": "EB81542F8C9E05D580362E4110CC89AF6BC8E298EFD3D3794C8763C3AAF35895",
-    "sizeBytes": 5582642,
+    "sha256": "F69E58FAE221945433869E8CCFC9F3AEE3EDF0E3FFDFAABA5E1DEDC8C7C4139F",
+    "sizeBytes": 758040,
     "webUrl": "https://a11y.raggiesoft.com"
   }
 ]
