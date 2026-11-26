@@ -1,0 +1,30 @@
+{
+  "name": "The Uncharted Waystation — RaggieSoft Universe Portal Map",
+  "short_name": "Waystation",
+  "description": "Nolan and Gwen Lennox welcome you to their 1980s fantasy Waystation courtyard and guide you across all 16 portals of the RaggieSoft Universe.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#090817",
+  "theme_color": "#090817",
+  "icons": [
+    {
+      "src": "https://assets.raggiesoft.com/raggiesoft-books/images/favicons/waystation/favicon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://assets.raggiesoft.com/raggiesoft-books/images/favicons/waystation/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://assets.raggiesoft.com/raggiesoft-books/images/favicons/waystation/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
