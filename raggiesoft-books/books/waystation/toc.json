@@ -13,17 +13,17 @@
         "text_epub": "61 KB",
         "text_pdf": "159 KB",
         "package_7z": "39 KB",
-        "epub_bytes": 2752975,
-        "pdf_bytes": 2454978,
+        "epub_bytes": 2752978,
+        "pdf_bytes": 2455006,
         "text_epub_bytes": 62110,
         "text_pdf_bytes": 162474,
-        "package_7z_bytes": 39665
+        "package_7z_bytes": 39661
     },
     "illustration_count": 17,
     "word_stats": {
-        "story_word_count": 18510,
+        "story_word_count": 18511,
         "lore_word_count": 3296,
-        "combined_word_count": 21806,
+        "combined_word_count": 21807,
         "story_page_count": 67,
         "combined_page_count": 79,
         "reading_hours": 1.2,
@@ -45,14 +45,14 @@
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
             "illustration_count": 5,
-            "word_count": 10561,
+            "word_count": 10562,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                     "illustration_count": 2,
-                    "word_count": 6730,
+                    "word_count": 6731,
                     "parts": [
                         {
                             "part_num": 1,
@@ -80,7 +80,7 @@
                             "part_title": "Part 2: Eighteen Candles, One Brass Key, and Everything Left Behind",
                             "file_path": "e001/c001/p002.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-2-eighteen-candles-one-brass-key-and-everything-left-behind",
-                            "word_count": 1651,
+                            "word_count": 1652,
                             "reading_minutes": 7,
                             "realm_time": "Autumn 2000 \u2014 Gwen's Eighteenth Birthday and the Weeks After, Earth",
                             "start_time": "18:30",
@@ -279,7 +279,7 @@
             "next_crossroads_id": "borderland-three-roads",
             "required_choices": [],
             "part_count": 7,
-            "word_count": 10561,
+            "word_count": 10562,
             "reading_minutes": 43,
             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
             "eras": [
@@ -288,14 +288,14 @@
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
                     "illustration_count": 5,
-                    "word_count": 10561,
+                    "word_count": 10562,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                             "illustration_count": 2,
-                            "word_count": 6730,
+                            "word_count": 6731,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -323,7 +323,7 @@
                                     "part_title": "Part 2: Eighteen Candles, One Brass Key, and Everything Left Behind",
                                     "file_path": "e001/c001/p002.md",
                                     "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-2-eighteen-candles-one-brass-key-and-everything-left-behind",
-                                    "word_count": 1651,
+                                    "word_count": 1652,
                                     "reading_minutes": 7,
                                     "realm_time": "Autumn 2000 \u2014 Gwen's Eighteenth Birthday and the Weeks After, Earth",
                                     "start_time": "18:30",
@@ -877,14 +877,14 @@
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
             "illustration_count": 5,
-            "word_count": 10561,
+            "word_count": 10562,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                     "illustration_count": 2,
-                    "word_count": 6730,
+                    "word_count": 6731,
                     "parts": [
                         {
                             "part_num": 1,
@@ -912,7 +912,7 @@
                             "part_title": "Part 2: Eighteen Candles, One Brass Key, and Everything Left Behind",
                             "file_path": "e001/c001/p002.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-2-eighteen-candles-one-brass-key-and-everything-left-behind",
-                            "word_count": 1651,
+                            "word_count": 1652,
                             "reading_minutes": 7,
                             "realm_time": "Autumn 2000 \u2014 Gwen's Eighteenth Birthday and the Weeks After, Earth",
                             "start_time": "18:30",
