@@ -8,18 +8,18 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/waystation.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "4.3 MB",
-        "pdf": "3.9 MB",
+        "epub": "11 MB",
+        "pdf": "11.6 MB",
         "text_epub": "171 KB",
         "text_pdf": "431 KB",
-        "package_7z": "117 KB",
-        "epub_bytes": 4482026,
-        "pdf_bytes": 4125685,
-        "text_epub_bytes": 175190,
+        "package_7z": "118 KB",
+        "epub_bytes": 11516101,
+        "pdf_bytes": 12146406,
+        "text_epub_bytes": 175187,
         "text_pdf_bytes": 441622,
-        "package_7z_bytes": 119299
+        "package_7z_bytes": 121101
     },
-    "illustration_count": 24,
+    "illustration_count": 34,
     "word_stats": {
         "story_word_count": 58095,
         "lore_word_count": 6323,
@@ -35,7 +35,7 @@
         "era_count": 1,
         "chapter_count": 12,
         "part_count": 39,
-        "illustration_count": 24,
+        "illustration_count": 34,
         "story_arc_count": 0
     },
     "story_arcs": [],
@@ -44,14 +44,14 @@
             "era_num": 1,
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-            "illustration_count": 12,
+            "illustration_count": 14,
             "word_count": 38685,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                    "illustration_count": 9,
+                    "illustration_count": 11,
                     "word_count": 34835,
                     "parts": [
                         {
@@ -205,7 +205,16 @@
                             "date": "2001-08-21",
                             "start_time": "08:30",
                             "location": "Pinecrest Trailer Park off Route 13 in Chesapeake to the Norfolk Pathfinder Terminal",
-                            "excerpt": "By eight-thirty on Tuesday morning inside Tammy's stifling, un-air-conditioned single-wide trailer at Pinecrest Court, we had already fought twice before coffee\u2014once because my manual wheelchair tire left a damp\u2026"
+                            "excerpt": "By eight-thirty on Tuesday morning inside Tammy's stifling, un-air-conditioned single-wide trailer at Pinecrest Court, we had already fought twice before coffee\u2014once because my manual wheelchair tire left a damp\u2026",
+                            "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p009_norfolk_pathfinder_ticket_line.jpg",
+                            "image_alt": "Inside the fluorescent-lit brutalist concrete waiting room of the Norfolk Pathfinder Terminal on Tuesday morning, August 21, 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee, battered olive duffel across his lap) sits tensely in his manual wheelchair beside a concrete pillar with his hand poised above his steel wheel-lock lever and his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, while petite five-foot-tall Tammy (baby-blue zip cardigan over white camisole, flared jeans, chunky white platform sneakers) strides toward the plexiglass walk-up ticket counter with a rolling suitcase and an envelope of cash, glancing impatiently back over her shoulder.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p009_norfolk_pathfinder_ticket_line.jpg",
+                                    "alt": "Inside the fluorescent-lit brutalist concrete waiting room of the Norfolk Pathfinder Terminal on Tuesday morning, August 21, 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee, battered olive duffel across his lap) sits tensely in his manual wheelchair beside a concrete pillar with his hand poised above his steel wheel-lock lever and his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, while petite five-foot-tall Tammy (baby-blue zip cardigan over white camisole, flared jeans, chunky white platform sneakers) strides toward the plexiglass walk-up ticket counter with a rolling suitcase and an envelope of cash, glancing impatiently back over her shoulder."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 10,
@@ -295,7 +304,16 @@
                             "date": "2002-02-12",
                             "start_time": "19:45",
                             "location": "Studio 205 at Harborview Towers in Norfolk & Emerald Creek Blue Tech, Virginia",
-                            "excerpt": "Freezing February sleet ticked hard against the silent window air-conditioner above our corner headboard while I wrapped both stiff, red-knuckled hands around a steaming mug of canned chicken broth to get the\u2026"
+                            "excerpt": "Freezing February sleet ticked hard against the silent window air-conditioner above our corner headboard while I wrapped both stiff, red-knuckled hands around a steaming mug of canned chicken broth to get the\u2026",
+                            "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_crimson_red_harborview_lobby.jpg",
+                            "image_alt": "Outside the glass-walled lobby entrance of Harborview Towers in Norfolk on an overcast March afternoon in 2002, eighteen-year-old Gwen Lennox (6-foot-1, burgundy knit sweater and jeans, seated in her manual wheelchair with her matte-charcoal single-tube Lofstrand forearm crutches stowed behind her backrest) warmly shakes hands with off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green jacket over cream sweater) on the red-brick walkway while twenty-three-year-old Nolan Lennox sits beside Mallory's silver compact car in his manual wheelchair (matte-silver single-tube Lofstrand crutches in the rear pocket) blushing visibly crimson red across his cheeks and ears.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_crimson_red_harborview_lobby.jpg",
+                                    "alt": "Outside the glass-walled lobby entrance of Harborview Towers in Norfolk on an overcast March afternoon in 2002, eighteen-year-old Gwen Lennox (6-foot-1, burgundy knit sweater and jeans, seated in her manual wheelchair with her matte-charcoal single-tube Lofstrand forearm crutches stowed behind her backrest) warmly shakes hands with off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green jacket over cream sweater) on the red-brick walkway while twenty-three-year-old Nolan Lennox sits beside Mallory's silver compact car in his manual wheelchair (matte-silver single-tube Lofstrand crutches in the rear pocket) blushing visibly crimson red across his cheeks and ears."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 16,
@@ -479,7 +497,7 @@
                     "part_count": 3,
                     "word_count": 3821,
                     "reading_minutes": 16,
-                    "image": "/raggiesoft-books/images/covers/og/waystation.jpg"
+                    "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg"
                 }
             ]
         },
@@ -508,7 +526,7 @@
                     "part_count": 3,
                     "word_count": 4040,
                     "reading_minutes": 17,
-                    "image": "/raggiesoft-books/images/covers/og/waystation.jpg"
+                    "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg"
                 },
                 {
                     "id": "seattle-full-exodus-rescue",
@@ -524,7 +542,7 @@
                     "part_count": 3,
                     "word_count": 3562,
                     "reading_minutes": 15,
-                    "image": "/raggiesoft-books/images/covers/og/waystation.jpg"
+                    "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg"
                 }
             ]
         },
@@ -605,14 +623,14 @@
                     "era_num": 1,
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-                    "illustration_count": 5,
+                    "illustration_count": 6,
                     "word_count": 17433,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                            "illustration_count": 5,
+                            "illustration_count": 6,
                             "word_count": 17433,
                             "parts": [
                                 {
@@ -766,7 +784,16 @@
                                     "date": "2001-08-21",
                                     "start_time": "08:30",
                                     "location": "Pinecrest Trailer Park off Route 13 in Chesapeake to the Norfolk Pathfinder Terminal",
-                                    "excerpt": "By eight-thirty on Tuesday morning inside Tammy's stifling, un-air-conditioned single-wide trailer at Pinecrest Court, we had already fought twice before coffee\u2014once because my manual wheelchair tire left a damp\u2026"
+                                    "excerpt": "By eight-thirty on Tuesday morning inside Tammy's stifling, un-air-conditioned single-wide trailer at Pinecrest Court, we had already fought twice before coffee\u2014once because my manual wheelchair tire left a damp\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p009_norfolk_pathfinder_ticket_line.jpg",
+                                    "image_alt": "Inside the fluorescent-lit brutalist concrete waiting room of the Norfolk Pathfinder Terminal on Tuesday morning, August 21, 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee, battered olive duffel across his lap) sits tensely in his manual wheelchair beside a concrete pillar with his hand poised above his steel wheel-lock lever and his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, while petite five-foot-tall Tammy (baby-blue zip cardigan over white camisole, flared jeans, chunky white platform sneakers) strides toward the plexiglass walk-up ticket counter with a rolling suitcase and an envelope of cash, glancing impatiently back over her shoulder.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p009_norfolk_pathfinder_ticket_line.jpg",
+                                            "alt": "Inside the fluorescent-lit brutalist concrete waiting room of the Norfolk Pathfinder Terminal on Tuesday morning, August 21, 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee, battered olive duffel across his lap) sits tensely in his manual wheelchair beside a concrete pillar with his hand poised above his steel wheel-lock lever and his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, while petite five-foot-tall Tammy (baby-blue zip cardigan over white camisole, flared jeans, chunky white platform sneakers) strides toward the plexiglass walk-up ticket counter with a rolling suitcase and an envelope of cash, glancing impatiently back over her shoulder."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 }
                             ]
                         }
@@ -788,20 +815,20 @@
             "part_count": 3,
             "word_count": 3821,
             "reading_minutes": 16,
-            "image": "/raggiesoft-books/images/covers/og/waystation.jpg",
+            "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
             "eras": [
                 {
                     "era_num": 1,
                     "era_title": "Book One: The Ninety-Nine-Dollar Pathfinder",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-pathfinder-exodus/book-one-the-ninety-nine-dollar-pathfinder",
-                    "illustration_count": 0,
+                    "illustration_count": 3,
                     "word_count": 3821,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1A: Ninety-Six Hours Westbound and Missed Shift Number One",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-pathfinder-exodus/book-one-the-ninety-nine-dollar-pathfinder/chapter-1a-ninety-six-hours-westbound-and-missed-shift-number-one",
-                            "illustration_count": 0,
+                            "illustration_count": 3,
                             "word_count": 3821,
                             "parts": [
                                 {
@@ -816,6 +843,15 @@
                                     "start_time": "09:49",
                                     "location": "Norfolk Pathfinder Terminal Across Virginia to Marion & Bristol, Virginia",
                                     "excerpt": "My thumbs froze above the steel wheel locks of my manual wheelchair\u2014and then dropped limply back onto my jeans knees without clicking them shut. Under the harsh buzz of thirty concourse fluorescent tubes, two\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
+                                    "image_alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches looking daunted at the steep stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy stands impatiently up inside the open curbside doorway holding Nolan's two detached metal wheelchair footrest assemblies and a weary gray-shirted driver watches beside the open underbelly luggage bay containing Nolan's folded manual wheelchair.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
+                                            "alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches looking daunted at the steep stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy stands impatiently up inside the open curbside doorway holding Nolan's two detached metal wheelchair footrest assemblies and a weary gray-shirted driver watches beside the open underbelly luggage bay containing Nolan's folded manual wheelchair."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
                                     }
@@ -832,6 +868,15 @@
                                     "start_time": "09:30",
                                     "location": "Nashville, Tennessee to Downtown St. Louis & St. Louis Municipal Airport, Missouri",
                                     "excerpt": "Gray morning rain streaked sideways across the tall tinted windows of our third Pathfinder coach after a bleary pre-dawn transfer in Knoxville, blurring the wet limestone bluffs and neon guitar signs sliding\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p002_nashville_rain_window.jpg",
+                                    "image_alt": "Inside a dim commercial highway bus cabin on a rainy Wednesday morning in Nashville, exhausted twenty-three-year-old Nolan Lennox sits wedged on the narrow aisle seat in his olive jacket with his matte-silver single-tube Lofstrand forearm crutches resting beside his knee, gazing wistfully past sleeping Tammy (in her pastel-blue zip cardigan and foam headphones beneath the loose metal wheelchair footrests on the overhead parcel shelf) through rain-streaked glass toward an adjacent bus displaying NORFOLK in warm amber LED letters.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p002_nashville_rain_window.jpg",
+                                            "alt": "Inside a dim commercial highway bus cabin on a rainy Wednesday morning in Nashville, exhausted twenty-three-year-old Nolan Lennox sits wedged on the narrow aisle seat in his olive jacket with his matte-silver single-tube Lofstrand forearm crutches resting beside his knee, gazing wistfully past sleeping Tammy (in her pastel-blue zip cardigan and foam headphones beneath the loose metal wheelchair footrests on the overhead parcel shelf) through rain-streaked glass toward an adjacent bus displaying NORFOLK in warm amber LED letters."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
                                     }
@@ -848,6 +893,15 @@
                                     "start_time": "20:05",
                                     "location": "Emerald Creek Blue Tech Store #421, Chesapeake, Virginia",
                                     "excerpt": "At five minutes past eight on Wednesday night inside the fluorescent hum of the Emerald Creek Blue Tech employee breakroom, the dot-matrix shift audit tape finished printing beside the gray wall timeclock with\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p003_mallory_timeclock_ncns.jpg",
+                                    "image_alt": "Inside the fluorescent-lit Emerald Creek Blue Tech employee breakroom at 8:05 PM on Wednesday night, twenty-three-year-old Computers Shift Supervisor Mallory Walsh (5-foot-5, copper-auburn ponytail with a blue ballpoint pen tucked behind her right ear, thin silver wire-rimmed glasses, freckles, royal-blue polo with silver collar pin, khaki slacks, and belt key-reel) stands beside the gray wall timeclock reading 8:05 holding her brass car key in one hand while reading a printed attendance audit strip with deep concern in front of Nolan's empty corner breakroom table.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p003_mallory_timeclock_ncns.jpg",
+                                            "alt": "Inside the fluorescent-lit Emerald Creek Blue Tech employee breakroom at 8:05 PM on Wednesday night, twenty-three-year-old Computers Shift Supervisor Mallory Walsh (5-foot-5, copper-auburn ponytail with a blue ballpoint pen tucked behind her right ear, thin silver wire-rimmed glasses, freckles, royal-blue polo with silver collar pin, khaki slacks, and belt key-reel) stands beside the gray wall timeclock reading 8:05 holding her brass car key in one hand while reading a printed attendance audit strip with deep concern in front of Nolan's empty corner breakroom table."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
                                     }
@@ -881,20 +935,20 @@
             "part_count": 3,
             "word_count": 4040,
             "reading_minutes": 17,
-            "image": "/raggiesoft-books/images/covers/og/waystation.jpg",
+            "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg",
             "eras": [
                 {
                     "era_num": 1,
                     "era_title": "Book One: Intercept Before the Restroom",
                     "era_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/book-one-intercept-before-the-restroom",
-                    "illustration_count": 0,
+                    "illustration_count": 3,
                     "word_count": 4040,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Eden Way North, US-287, and Five Minutes to Spare in Pasco",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/book-one-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco",
-                            "illustration_count": 0,
+                            "illustration_count": 3,
                             "word_count": 4040,
                             "parts": [
                                 {
@@ -909,6 +963,15 @@
                                     "start_time": "20:18",
                                     "location": "Eden Way North & Pinecrest Court in Chesapeake to Norfolk International Airport, Virginia",
                                     "excerpt": "Instead of turning right onto Emerald Creek Parkway toward Virginia Beach, I turned left out of the Marketcenter apron and drove straight east down Eden Way North past the dark brick storefront of Emerald Creek\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg",
+                                    "image_alt": "Around the sunlit oak-and-laminate kitchen table of Grandpa Walter's Chesapeake home in August 2001, seventy-nine-year-old retired Navy machinist Walter Lennox (in wire-rimmed glasses and a beige cardigan over a blue shirt) slides his blue-and-gold credit union card firmly across the tabletop while seventeen-year-old Gwen Lennox (6-foot-1, burgundy top, with her matte-charcoal single-tube Lofstrand forearm crutches leaning behind her chair) points out the Pasco arrival window on a printed coast-to-coast bus schedule alongside off-duty Mallory Walsh.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg",
+                                            "alt": "Around the sunlit oak-and-laminate kitchen table of Grandpa Walter's Chesapeake home in August 2001, seventy-nine-year-old retired Navy machinist Walter Lennox (in wire-rimmed glasses and a beige cardigan over a blue shirt) slides his blue-and-gold credit union card firmly across the tabletop while seventeen-year-old Gwen Lennox (6-foot-1, burgundy top, with her matte-charcoal single-tube Lofstrand forearm crutches leaning behind her chair) points out the Pasco arrival window on a printed coast-to-coast bus schedule alongside off-duty Mallory Walsh."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
@@ -926,6 +989,15 @@
                                     "start_time": "02:40",
                                     "location": "Colby, Kansas & US Highway 287 Through Salt Lake City to Pasco Intermodal Terminal, Washington",
                                     "excerpt": "At twenty minutes to three in the morning outside a desolate, wind-scoured highway truck stop in Colby, Kansas, nothing existed in any direction except flickering green fluorescent diesel canopies, flat black\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p002_four_safe_arms_pasco_bench.jpg",
+                                    "image_alt": "On a sunlit wooden concourse bench inside the Pasco Intermodal Terminal in Washington on Saturday morning, August 25, 2001, exhausted twenty-three-year-old Nolan Lennox cries openly in heartbreak over losing his Blue Tech job and relief at being rescued as tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy hoodie) wraps both arms protectively around him from his right and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) holds him warmly from his left with Ray Halstead's folded reference letter in hand, beside Nolan's rescued manual wheelchair and all four single-tube matte-silver and matte-charcoal Lofstrand forearm crutches.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p002_four_safe_arms_pasco_bench.jpg",
+                                            "alt": "On a sunlit wooden concourse bench inside the Pasco Intermodal Terminal in Washington on Saturday morning, August 25, 2001, exhausted twenty-three-year-old Nolan Lennox cries openly in heartbreak over losing his Blue Tech job and relief at being rescued as tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy hoodie) wraps both arms protectively around him from his right and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) holds him warmly from his left with Ray Halstead's folded reference letter in hand, beside Nolan's rescued manual wheelchair and all four single-tube matte-silver and matte-charcoal Lofstrand forearm crutches."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
@@ -943,6 +1015,15 @@
                                     "start_time": "15:30",
                                     "location": "Grandpa Walter's House in Chesapeake to Studio 205 at Harborview Towers, Norfolk, Virginia",
                                     "excerpt": "Flying home to Norfolk out of Pasco Regional Airport that August Saturday evening\u2014after an urgent-care doctor near the airport cleaned and dressed my early stage-two pressure sore before infection could ever\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p003_door_205_landing_confession.jpg",
+                                    "image_alt": "On the quiet second-floor terrazzo stairwell landing outside white apartment door 205 at Harborview Towers in Norfolk in December 2001, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy Henley and jeans) stands beaming on his two matte-silver single-tube Lofstrand forearm crutches while off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green zip cardigan over cream tee, canvas tote) rests one warm hand gently over his wrist and smiles up into his eyes.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p003_door_205_landing_confession.jpg",
+                                            "alt": "On the quiet second-floor terrazzo stairwell landing outside white apartment door 205 at Harborview Towers in Norfolk in December 2001, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy Henley and jeans) stands beaming on his two matte-silver single-tube Lofstrand forearm crutches while off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green zip cardigan over cream tee, canvas tote) rests one warm hand gently over his wrist and smiles up into his eyes."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
@@ -1072,20 +1153,20 @@
             "part_count": 3,
             "word_count": 3562,
             "reading_minutes": 15,
-            "image": "/raggiesoft-books/images/covers/og/waystation.jpg",
+            "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
             "eras": [
                 {
                     "era_num": 1,
                     "era_title": "Book One: Ninety-Six Hours to Puget Sound",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound",
-                    "illustration_count": 0,
+                    "illustration_count": 2,
                     "word_count": 3562,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
-                            "illustration_count": 0,
+                            "illustration_count": 2,
                             "word_count": 3562,
                             "parts": [
                                 {
@@ -1100,6 +1181,15 @@
                                     "start_time": "02:40",
                                     "location": "Colby, Kansas & US Highway 287 Through Pasco to Downtown Seattle Pathfinder Terminal, Washington",
                                     "excerpt": "Back in Virginia on Wednesday night, Mallory Walsh had slipped her car key into her ignition, respected corporate human-resources protocol and the boundary around a spoken-for employee, and driven home to wait\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
+                                    "image_alt": "At 2:40 AM outside a lonely, windswept highway travel plaza in Colby, Kansas under green-lit diesel canopies and pitch-black prairie sky, weary twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) leans quietly on his two matte-silver single-tube Lofstrand forearm crutches beside a diner walkway pillar looking across at petite five-foot-tall Tammy sitting hunched and regretful on the concrete curb while their unbranded silver-and-blue highway coach refuels in the background.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
+                                            "alt": "At 2:40 AM outside a lonely, windswept highway travel plaza in Colby, Kansas under green-lit diesel canopies and pitch-black prairie sky, weary twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) leans quietly on his two matte-silver single-tube Lofstrand forearm crutches beside a diner walkway pillar looking across at petite five-foot-tall Tammy sitting hunched and regretful on the concrete curb while their unbranded silver-and-blue highway coach refuels in the background."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
@@ -1134,6 +1224,15 @@
                                     "start_time": "13:15",
                                     "location": "Puget Sound General Hospital in Seattle to Grandpa Walter's House & Studio 205 in Norfolk, Virginia",
                                     "excerpt": "Seven days after Gwen turned eighteen\u2014carrying her brand-new adult Virginia identification card straight through post-September-eleventh airport security checkpoints beside Mallory Walsh on two Meridian Airlines\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_puget_sound_discharge_reunion.jpg",
+                                    "image_alt": "Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy October afternoon in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of newly eighteen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_puget_sound_discharge_reunion.jpg",
+                                            "alt": "Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy October afternoon in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of newly eighteen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
@@ -1266,14 +1365,14 @@
                     "era_num": 1,
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-                    "illustration_count": 7,
+                    "illustration_count": 8,
                     "word_count": 21252,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                            "illustration_count": 4,
+                            "illustration_count": 5,
                             "word_count": 17402,
                             "parts": [
                                 {
@@ -1370,6 +1469,15 @@
                                     "start_time": "19:45",
                                     "location": "Studio 205 at Harborview Towers in Norfolk & Emerald Creek Blue Tech, Virginia",
                                     "excerpt": "Freezing February sleet ticked hard against the silent window air-conditioner above our corner headboard while I wrapped both stiff, red-knuckled hands around a steaming mug of canned chicken broth to get the\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_crimson_red_harborview_lobby.jpg",
+                                    "image_alt": "Outside the glass-walled lobby entrance of Harborview Towers in Norfolk on an overcast March afternoon in 2002, eighteen-year-old Gwen Lennox (6-foot-1, burgundy knit sweater and jeans, seated in her manual wheelchair with her matte-charcoal single-tube Lofstrand forearm crutches stowed behind her backrest) warmly shakes hands with off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green jacket over cream sweater) on the red-brick walkway while twenty-three-year-old Nolan Lennox sits beside Mallory's silver compact car in his manual wheelchair (matte-silver single-tube Lofstrand crutches in the rear pocket) blushing visibly crimson red across his cheeks and ears.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_crimson_red_harborview_lobby.jpg",
+                                            "alt": "Outside the glass-walled lobby entrance of Harborview Towers in Norfolk on an overcast March afternoon in 2002, eighteen-year-old Gwen Lennox (6-foot-1, burgundy knit sweater and jeans, seated in her manual wheelchair with her matte-charcoal single-tube Lofstrand forearm crutches stowed behind her backrest) warmly shakes hands with off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green jacket over cream sweater) on the red-brick walkway while twenty-three-year-old Nolan Lennox sits beside Mallory's silver compact car in his manual wheelchair (matte-silver single-tube Lofstrand crutches in the rear pocket) blushing visibly crimson red across his cheeks and ears."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "path_id": "lock-wheelchair-brakes-emerald-creek"
                                 },
                                 {
@@ -1949,14 +2057,14 @@
             "era_num": 1,
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-            "illustration_count": 5,
+            "illustration_count": 6,
             "word_count": 17433,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                    "illustration_count": 5,
+                    "illustration_count": 6,
                     "word_count": 17433,
                     "parts": [
                         {
@@ -2110,7 +2218,16 @@
                             "date": "2001-08-21",
                             "start_time": "08:30",
                             "location": "Pinecrest Trailer Park off Route 13 in Chesapeake to the Norfolk Pathfinder Terminal",
-                            "excerpt": "By eight-thirty on Tuesday morning inside Tammy's stifling, un-air-conditioned single-wide trailer at Pinecrest Court, we had already fought twice before coffee\u2014once because my manual wheelchair tire left a damp\u2026"
+                            "excerpt": "By eight-thirty on Tuesday morning inside Tammy's stifling, un-air-conditioned single-wide trailer at Pinecrest Court, we had already fought twice before coffee\u2014once because my manual wheelchair tire left a damp\u2026",
+                            "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p009_norfolk_pathfinder_ticket_line.jpg",
+                            "image_alt": "Inside the fluorescent-lit brutalist concrete waiting room of the Norfolk Pathfinder Terminal on Tuesday morning, August 21, 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee, battered olive duffel across his lap) sits tensely in his manual wheelchair beside a concrete pillar with his hand poised above his steel wheel-lock lever and his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, while petite five-foot-tall Tammy (baby-blue zip cardigan over white camisole, flared jeans, chunky white platform sneakers) strides toward the plexiglass walk-up ticket counter with a rolling suitcase and an envelope of cash, glancing impatiently back over her shoulder.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p009_norfolk_pathfinder_ticket_line.jpg",
+                                    "alt": "Inside the fluorescent-lit brutalist concrete waiting room of the Norfolk Pathfinder Terminal on Tuesday morning, August 21, 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee, battered olive duffel across his lap) sits tensely in his manual wheelchair beside a concrete pillar with his hand poised above his steel wheel-lock lever and his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, while petite five-foot-tall Tammy (baby-blue zip cardigan over white camisole, flared jeans, chunky white platform sneakers) strides toward the plexiglass walk-up ticket counter with a rolling suitcase and an envelope of cash, glancing impatiently back over her shoulder."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
@@ -2132,20 +2249,20 @@
             "part_count": 3,
             "word_count": 3821,
             "reading_minutes": 16,
-            "image": "/raggiesoft-books/images/covers/og/waystation.jpg",
+            "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
             "eras": [
                 {
                     "era_num": 1,
                     "era_title": "Book One: The Ninety-Nine-Dollar Pathfinder",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-pathfinder-exodus/book-one-the-ninety-nine-dollar-pathfinder",
-                    "illustration_count": 0,
+                    "illustration_count": 3,
                     "word_count": 3821,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1A: Ninety-Six Hours Westbound and Missed Shift Number One",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-pathfinder-exodus/book-one-the-ninety-nine-dollar-pathfinder/chapter-1a-ninety-six-hours-westbound-and-missed-shift-number-one",
-                            "illustration_count": 0,
+                            "illustration_count": 3,
                             "word_count": 3821,
                             "parts": [
                                 {
@@ -2160,6 +2277,15 @@
                                     "start_time": "09:49",
                                     "location": "Norfolk Pathfinder Terminal Across Virginia to Marion & Bristol, Virginia",
                                     "excerpt": "My thumbs froze above the steel wheel locks of my manual wheelchair\u2014and then dropped limply back onto my jeans knees without clicking them shut. Under the harsh buzz of thirty concourse fluorescent tubes, two\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
+                                    "image_alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches looking daunted at the steep stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy stands impatiently up inside the open curbside doorway holding Nolan's two detached metal wheelchair footrest assemblies and a weary gray-shirted driver watches beside the open underbelly luggage bay containing Nolan's folded manual wheelchair.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
+                                            "alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches looking daunted at the steep stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy stands impatiently up inside the open curbside doorway holding Nolan's two detached metal wheelchair footrest assemblies and a weary gray-shirted driver watches beside the open underbelly luggage bay containing Nolan's folded manual wheelchair."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
                                     }
@@ -2176,6 +2302,15 @@
                                     "start_time": "09:30",
                                     "location": "Nashville, Tennessee to Downtown St. Louis & St. Louis Municipal Airport, Missouri",
                                     "excerpt": "Gray morning rain streaked sideways across the tall tinted windows of our third Pathfinder coach after a bleary pre-dawn transfer in Knoxville, blurring the wet limestone bluffs and neon guitar signs sliding\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p002_nashville_rain_window.jpg",
+                                    "image_alt": "Inside a dim commercial highway bus cabin on a rainy Wednesday morning in Nashville, exhausted twenty-three-year-old Nolan Lennox sits wedged on the narrow aisle seat in his olive jacket with his matte-silver single-tube Lofstrand forearm crutches resting beside his knee, gazing wistfully past sleeping Tammy (in her pastel-blue zip cardigan and foam headphones beneath the loose metal wheelchair footrests on the overhead parcel shelf) through rain-streaked glass toward an adjacent bus displaying NORFOLK in warm amber LED letters.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p002_nashville_rain_window.jpg",
+                                            "alt": "Inside a dim commercial highway bus cabin on a rainy Wednesday morning in Nashville, exhausted twenty-three-year-old Nolan Lennox sits wedged on the narrow aisle seat in his olive jacket with his matte-silver single-tube Lofstrand forearm crutches resting beside his knee, gazing wistfully past sleeping Tammy (in her pastel-blue zip cardigan and foam headphones beneath the loose metal wheelchair footrests on the overhead parcel shelf) through rain-streaked glass toward an adjacent bus displaying NORFOLK in warm amber LED letters."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
                                     }
@@ -2192,6 +2327,15 @@
                                     "start_time": "20:05",
                                     "location": "Emerald Creek Blue Tech Store #421, Chesapeake, Virginia",
                                     "excerpt": "At five minutes past eight on Wednesday night inside the fluorescent hum of the Emerald Creek Blue Tech employee breakroom, the dot-matrix shift audit tape finished printing beside the gray wall timeclock with\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p003_mallory_timeclock_ncns.jpg",
+                                    "image_alt": "Inside the fluorescent-lit Emerald Creek Blue Tech employee breakroom at 8:05 PM on Wednesday night, twenty-three-year-old Computers Shift Supervisor Mallory Walsh (5-foot-5, copper-auburn ponytail with a blue ballpoint pen tucked behind her right ear, thin silver wire-rimmed glasses, freckles, royal-blue polo with silver collar pin, khaki slacks, and belt key-reel) stands beside the gray wall timeclock reading 8:05 holding her brass car key in one hand while reading a printed attendance audit strip with deep concern in front of Nolan's empty corner breakroom table.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p003_mallory_timeclock_ncns.jpg",
+                                            "alt": "Inside the fluorescent-lit Emerald Creek Blue Tech employee breakroom at 8:05 PM on Wednesday night, twenty-three-year-old Computers Shift Supervisor Mallory Walsh (5-foot-5, copper-auburn ponytail with a blue ballpoint pen tucked behind her right ear, thin silver wire-rimmed glasses, freckles, royal-blue polo with silver collar pin, khaki slacks, and belt key-reel) stands beside the gray wall timeclock reading 8:05 holding her brass car key in one hand while reading a printed attendance audit strip with deep concern in front of Nolan's empty corner breakroom table."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
                                     }
@@ -2225,20 +2369,20 @@
             "part_count": 3,
             "word_count": 4040,
             "reading_minutes": 17,
-            "image": "/raggiesoft-books/images/covers/og/waystation.jpg",
+            "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg",
             "eras": [
                 {
                     "era_num": 1,
                     "era_title": "Book One: Intercept Before the Restroom",
                     "era_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/book-one-intercept-before-the-restroom",
-                    "illustration_count": 0,
+                    "illustration_count": 3,
                     "word_count": 4040,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Eden Way North, US-287, and Five Minutes to Spare in Pasco",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/book-one-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco",
-                            "illustration_count": 0,
+                            "illustration_count": 3,
                             "word_count": 4040,
                             "parts": [
                                 {
@@ -2253,6 +2397,15 @@
                                     "start_time": "20:18",
                                     "location": "Eden Way North & Pinecrest Court in Chesapeake to Norfolk International Airport, Virginia",
                                     "excerpt": "Instead of turning right onto Emerald Creek Parkway toward Virginia Beach, I turned left out of the Marketcenter apron and drove straight east down Eden Way North past the dark brick storefront of Emerald Creek\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg",
+                                    "image_alt": "Around the sunlit oak-and-laminate kitchen table of Grandpa Walter's Chesapeake home in August 2001, seventy-nine-year-old retired Navy machinist Walter Lennox (in wire-rimmed glasses and a beige cardigan over a blue shirt) slides his blue-and-gold credit union card firmly across the tabletop while seventeen-year-old Gwen Lennox (6-foot-1, burgundy top, with her matte-charcoal single-tube Lofstrand forearm crutches leaning behind her chair) points out the Pasco arrival window on a printed coast-to-coast bus schedule alongside off-duty Mallory Walsh.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg",
+                                            "alt": "Around the sunlit oak-and-laminate kitchen table of Grandpa Walter's Chesapeake home in August 2001, seventy-nine-year-old retired Navy machinist Walter Lennox (in wire-rimmed glasses and a beige cardigan over a blue shirt) slides his blue-and-gold credit union card firmly across the tabletop while seventeen-year-old Gwen Lennox (6-foot-1, burgundy top, with her matte-charcoal single-tube Lofstrand forearm crutches leaning behind her chair) points out the Pasco arrival window on a printed coast-to-coast bus schedule alongside off-duty Mallory Walsh."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
@@ -2270,6 +2423,15 @@
                                     "start_time": "02:40",
                                     "location": "Colby, Kansas & US Highway 287 Through Salt Lake City to Pasco Intermodal Terminal, Washington",
                                     "excerpt": "At twenty minutes to three in the morning outside a desolate, wind-scoured highway truck stop in Colby, Kansas, nothing existed in any direction except flickering green fluorescent diesel canopies, flat black\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p002_four_safe_arms_pasco_bench.jpg",
+                                    "image_alt": "On a sunlit wooden concourse bench inside the Pasco Intermodal Terminal in Washington on Saturday morning, August 25, 2001, exhausted twenty-three-year-old Nolan Lennox cries openly in heartbreak over losing his Blue Tech job and relief at being rescued as tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy hoodie) wraps both arms protectively around him from his right and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) holds him warmly from his left with Ray Halstead's folded reference letter in hand, beside Nolan's rescued manual wheelchair and all four single-tube matte-silver and matte-charcoal Lofstrand forearm crutches.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p002_four_safe_arms_pasco_bench.jpg",
+                                            "alt": "On a sunlit wooden concourse bench inside the Pasco Intermodal Terminal in Washington on Saturday morning, August 25, 2001, exhausted twenty-three-year-old Nolan Lennox cries openly in heartbreak over losing his Blue Tech job and relief at being rescued as tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy hoodie) wraps both arms protectively around him from his right and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) holds him warmly from his left with Ray Halstead's folded reference letter in hand, beside Nolan's rescued manual wheelchair and all four single-tube matte-silver and matte-charcoal Lofstrand forearm crutches."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
@@ -2287,6 +2449,15 @@
                                     "start_time": "15:30",
                                     "location": "Grandpa Walter's House in Chesapeake to Studio 205 at Harborview Towers, Norfolk, Virginia",
                                     "excerpt": "Flying home to Norfolk out of Pasco Regional Airport that August Saturday evening\u2014after an urgent-care doctor near the airport cleaned and dressed my early stage-two pressure sore before infection could ever\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p003_door_205_landing_confession.jpg",
+                                    "image_alt": "On the quiet second-floor terrazzo stairwell landing outside white apartment door 205 at Harborview Towers in Norfolk in December 2001, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy Henley and jeans) stands beaming on his two matte-silver single-tube Lofstrand forearm crutches while off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green zip cardigan over cream tee, canvas tote) rests one warm hand gently over his wrist and smiles up into his eyes.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p003_door_205_landing_confession.jpg",
+                                            "alt": "On the quiet second-floor terrazzo stairwell landing outside white apartment door 205 at Harborview Towers in Norfolk in December 2001, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy Henley and jeans) stands beaming on his two matte-silver single-tube Lofstrand forearm crutches while off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green zip cardigan over cream tee, canvas tote) rests one warm hand gently over his wrist and smiles up into his eyes."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
@@ -2416,20 +2587,20 @@
             "part_count": 3,
             "word_count": 3562,
             "reading_minutes": 15,
-            "image": "/raggiesoft-books/images/covers/og/waystation.jpg",
+            "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
             "eras": [
                 {
                     "era_num": 1,
                     "era_title": "Book One: Ninety-Six Hours to Puget Sound",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound",
-                    "illustration_count": 0,
+                    "illustration_count": 2,
                     "word_count": 3562,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
-                            "illustration_count": 0,
+                            "illustration_count": 2,
                             "word_count": 3562,
                             "parts": [
                                 {
@@ -2444,6 +2615,15 @@
                                     "start_time": "02:40",
                                     "location": "Colby, Kansas & US Highway 287 Through Pasco to Downtown Seattle Pathfinder Terminal, Washington",
                                     "excerpt": "Back in Virginia on Wednesday night, Mallory Walsh had slipped her car key into her ignition, respected corporate human-resources protocol and the boundary around a spoken-for employee, and driven home to wait\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
+                                    "image_alt": "At 2:40 AM outside a lonely, windswept highway travel plaza in Colby, Kansas under green-lit diesel canopies and pitch-black prairie sky, weary twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) leans quietly on his two matte-silver single-tube Lofstrand forearm crutches beside a diner walkway pillar looking across at petite five-foot-tall Tammy sitting hunched and regretful on the concrete curb while their unbranded silver-and-blue highway coach refuels in the background.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
+                                            "alt": "At 2:40 AM outside a lonely, windswept highway travel plaza in Colby, Kansas under green-lit diesel canopies and pitch-black prairie sky, weary twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) leans quietly on his two matte-silver single-tube Lofstrand forearm crutches beside a diner walkway pillar looking across at petite five-foot-tall Tammy sitting hunched and regretful on the concrete curb while their unbranded silver-and-blue highway coach refuels in the background."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
@@ -2478,6 +2658,15 @@
                                     "start_time": "13:15",
                                     "location": "Puget Sound General Hospital in Seattle to Grandpa Walter's House & Studio 205 in Norfolk, Virginia",
                                     "excerpt": "Seven days after Gwen turned eighteen\u2014carrying her brand-new adult Virginia identification card straight through post-September-eleventh airport security checkpoints beside Mallory Walsh on two Meridian Airlines\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_puget_sound_discharge_reunion.jpg",
+                                    "image_alt": "Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy October afternoon in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of newly eighteen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_puget_sound_discharge_reunion.jpg",
+                                            "alt": "Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy October afternoon in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of newly eighteen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
@@ -2610,14 +2799,14 @@
                     "era_num": 1,
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-                    "illustration_count": 7,
+                    "illustration_count": 8,
                     "word_count": 21252,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                            "illustration_count": 4,
+                            "illustration_count": 5,
                             "word_count": 17402,
                             "parts": [
                                 {
@@ -2714,6 +2903,15 @@
                                     "start_time": "19:45",
                                     "location": "Studio 205 at Harborview Towers in Norfolk & Emerald Creek Blue Tech, Virginia",
                                     "excerpt": "Freezing February sleet ticked hard against the silent window air-conditioner above our corner headboard while I wrapped both stiff, red-knuckled hands around a steaming mug of canned chicken broth to get the\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_crimson_red_harborview_lobby.jpg",
+                                    "image_alt": "Outside the glass-walled lobby entrance of Harborview Towers in Norfolk on an overcast March afternoon in 2002, eighteen-year-old Gwen Lennox (6-foot-1, burgundy knit sweater and jeans, seated in her manual wheelchair with her matte-charcoal single-tube Lofstrand forearm crutches stowed behind her backrest) warmly shakes hands with off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green jacket over cream sweater) on the red-brick walkway while twenty-three-year-old Nolan Lennox sits beside Mallory's silver compact car in his manual wheelchair (matte-silver single-tube Lofstrand crutches in the rear pocket) blushing visibly crimson red across his cheeks and ears.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_crimson_red_harborview_lobby.jpg",
+                                            "alt": "Outside the glass-walled lobby entrance of Harborview Towers in Norfolk on an overcast March afternoon in 2002, eighteen-year-old Gwen Lennox (6-foot-1, burgundy knit sweater and jeans, seated in her manual wheelchair with her matte-charcoal single-tube Lofstrand forearm crutches stowed behind her backrest) warmly shakes hands with off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green jacket over cream sweater) on the red-brick walkway while twenty-three-year-old Nolan Lennox sits beside Mallory's silver compact car in his manual wheelchair (matte-silver single-tube Lofstrand crutches in the rear pocket) blushing visibly crimson red across his cheeks and ears."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "path_id": "lock-wheelchair-brakes-emerald-creek"
                                 },
                                 {
