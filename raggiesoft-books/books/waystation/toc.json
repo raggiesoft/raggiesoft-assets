@@ -8,22 +8,22 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/waystation.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "3.5 MB",
-        "pdf": "3 MB",
+        "epub": "3.7 MB",
+        "pdf": "3.2 MB",
         "text_epub": "90 KB",
         "text_pdf": "240 KB",
         "package_7z": "64 KB",
-        "epub_bytes": 3630561,
-        "pdf_bytes": 3158820,
+        "epub_bytes": 3870893,
+        "pdf_bytes": 3399488,
         "text_epub_bytes": 92088,
         "text_pdf_bytes": 245562,
-        "package_7z_bytes": 65374
+        "package_7z_bytes": 65583
     },
-    "illustration_count": 20,
+    "illustration_count": 21,
     "word_stats": {
         "story_word_count": 31563,
-        "lore_word_count": 5608,
-        "combined_word_count": 37171,
+        "lore_word_count": 5646,
+        "combined_word_count": 37209,
         "story_page_count": 115,
         "combined_page_count": 135,
         "reading_hours": 2.1,
@@ -35,7 +35,7 @@
         "era_count": 1,
         "chapter_count": 9,
         "part_count": 21,
-        "illustration_count": 20,
+        "illustration_count": 21,
         "story_arc_count": 0
     },
     "story_arcs": [],
@@ -44,14 +44,14 @@
             "era_num": 1,
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-            "illustration_count": 8,
+            "illustration_count": 9,
             "word_count": 23614,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                    "illustration_count": 5,
+                    "illustration_count": 6,
                     "word_count": 19783,
                     "parts": [
                         {
@@ -139,7 +139,16 @@
                             "date": "1998-11-21",
                             "start_time": "10:15",
                             "location": "Pinecrest Court Trailer Park off Route 13, Chesapeake, Virginia",
-                            "excerpt": "Burnt black coffee steamed out of a chipped ceramic mug beside a dented metal cashbox as Mr. Pruitt, the landlord over Pinecrest Court, pinched his reading glasses onto the end of his nose and squinted down at\u2026"
+                            "excerpt": "Burnt black coffee steamed out of a chipped ceramic mug beside a dented metal cashbox as Mr. Pruitt, the landlord over Pinecrest Court, pinched his reading glasses onto the end of his nose and squinted down at\u2026",
+                            "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p005_bodged_wooden_trailer_ramp.jpg",
+                            "image_alt": "Exterior view of Tammy's weathered, rust-streaked single-wide mobile home at Pinecrest Court on an overcast late-November afternoon in Chesapeake, showing dark roof-tar leak patches overhead, the shuttered living-room window on the left, the center scroll-grille storm door behind four weathered wooden steps and a flat wooden top landing, and the landlord's steep, uninspected unpainted plywood-and-two-by-four wheelchair ramp resting on crooked stacks of unmortared cinder blocks and wooden shims over the loose gravel driveway along the windowless right wall.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p005_bodged_wooden_trailer_ramp.jpg",
+                                    "alt": "Exterior view of Tammy's weathered, rust-streaked single-wide mobile home at Pinecrest Court on an overcast late-November afternoon in Chesapeake, showing dark roof-tar leak patches overhead, the shuttered living-room window on the left, the center scroll-grille storm door behind four weathered wooden steps and a flat wooden top landing, and the landlord's steep, uninspected unpainted plywood-and-two-by-four wheelchair ramp resting on crooked stacks of unmortared cinder blocks and wooden shims over the loose gravel driveway along the windowless right wall."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 6,
@@ -374,14 +383,14 @@
                     "era_num": 1,
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-                    "illustration_count": 8,
+                    "illustration_count": 9,
                     "word_count": 23614,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                            "illustration_count": 5,
+                            "illustration_count": 6,
                             "word_count": 19783,
                             "parts": [
                                 {
@@ -469,7 +478,16 @@
                                     "date": "1998-11-21",
                                     "start_time": "10:15",
                                     "location": "Pinecrest Court Trailer Park off Route 13, Chesapeake, Virginia",
-                                    "excerpt": "Burnt black coffee steamed out of a chipped ceramic mug beside a dented metal cashbox as Mr. Pruitt, the landlord over Pinecrest Court, pinched his reading glasses onto the end of his nose and squinted down at\u2026"
+                                    "excerpt": "Burnt black coffee steamed out of a chipped ceramic mug beside a dented metal cashbox as Mr. Pruitt, the landlord over Pinecrest Court, pinched his reading glasses onto the end of his nose and squinted down at\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p005_bodged_wooden_trailer_ramp.jpg",
+                                    "image_alt": "Exterior view of Tammy's weathered, rust-streaked single-wide mobile home at Pinecrest Court on an overcast late-November afternoon in Chesapeake, showing dark roof-tar leak patches overhead, the shuttered living-room window on the left, the center scroll-grille storm door behind four weathered wooden steps and a flat wooden top landing, and the landlord's steep, uninspected unpainted plywood-and-two-by-four wheelchair ramp resting on crooked stacks of unmortared cinder blocks and wooden shims over the loose gravel driveway along the windowless right wall.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p005_bodged_wooden_trailer_ramp.jpg",
+                                            "alt": "Exterior view of Tammy's weathered, rust-streaked single-wide mobile home at Pinecrest Court on an overcast late-November afternoon in Chesapeake, showing dark roof-tar leak patches overhead, the shuttered living-room window on the left, the center scroll-grille storm door behind four weathered wooden steps and a flat wooden top landing, and the landlord's steep, uninspected unpainted plywood-and-two-by-four wheelchair ramp resting on crooked stacks of unmortared cinder blocks and wooden shims over the loose gravel driveway along the windowless right wall."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 },
                                 {
                                     "part_num": 6,
@@ -1050,14 +1068,14 @@
             "era_num": 1,
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-            "illustration_count": 8,
+            "illustration_count": 9,
             "word_count": 23614,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                    "illustration_count": 5,
+                    "illustration_count": 6,
                     "word_count": 19783,
                     "parts": [
                         {
@@ -1145,7 +1163,16 @@
                             "date": "1998-11-21",
                             "start_time": "10:15",
                             "location": "Pinecrest Court Trailer Park off Route 13, Chesapeake, Virginia",
-                            "excerpt": "Burnt black coffee steamed out of a chipped ceramic mug beside a dented metal cashbox as Mr. Pruitt, the landlord over Pinecrest Court, pinched his reading glasses onto the end of his nose and squinted down at\u2026"
+                            "excerpt": "Burnt black coffee steamed out of a chipped ceramic mug beside a dented metal cashbox as Mr. Pruitt, the landlord over Pinecrest Court, pinched his reading glasses onto the end of his nose and squinted down at\u2026",
+                            "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p005_bodged_wooden_trailer_ramp.jpg",
+                            "image_alt": "Exterior view of Tammy's weathered, rust-streaked single-wide mobile home at Pinecrest Court on an overcast late-November afternoon in Chesapeake, showing dark roof-tar leak patches overhead, the shuttered living-room window on the left, the center scroll-grille storm door behind four weathered wooden steps and a flat wooden top landing, and the landlord's steep, uninspected unpainted plywood-and-two-by-four wheelchair ramp resting on crooked stacks of unmortared cinder blocks and wooden shims over the loose gravel driveway along the windowless right wall.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p005_bodged_wooden_trailer_ramp.jpg",
+                                    "alt": "Exterior view of Tammy's weathered, rust-streaked single-wide mobile home at Pinecrest Court on an overcast late-November afternoon in Chesapeake, showing dark roof-tar leak patches overhead, the shuttered living-room window on the left, the center scroll-grille storm door behind four weathered wooden steps and a flat wooden top landing, and the landlord's steep, uninspected unpainted plywood-and-two-by-four wheelchair ramp resting on crooked stacks of unmortared cinder blocks and wooden shims over the loose gravel driveway along the windowless right wall."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 6,
