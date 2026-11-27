@@ -13,17 +13,17 @@
         "text_epub": "172 KB",
         "text_pdf": "433 KB",
         "package_7z": "119 KB",
-        "epub_bytes": 12297531,
-        "pdf_bytes": 12963537,
-        "text_epub_bytes": 175852,
-        "text_pdf_bytes": 443353,
-        "package_7z_bytes": 121789
+        "epub_bytes": 12297536,
+        "pdf_bytes": 12963539,
+        "text_epub_bytes": 175862,
+        "text_pdf_bytes": 443126,
+        "package_7z_bytes": 121801
     },
     "illustration_count": 35,
     "word_stats": {
-        "story_word_count": 58307,
+        "story_word_count": 58322,
         "lore_word_count": 7601,
-        "combined_word_count": 65908,
+        "combined_word_count": 65923,
         "story_page_count": 212,
         "combined_page_count": 240,
         "reading_hours": 3.9,
@@ -45,14 +45,14 @@
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
             "illustration_count": 15,
-            "word_count": 38839,
+            "word_count": 38854,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                     "illustration_count": 12,
-                    "word_count": 34989,
+                    "word_count": 35004,
                     "parts": [
                         {
                             "part_num": 1,
@@ -200,7 +200,7 @@
                             "part_title": "Part 9: Route 13, Forty-Eight Hours' Notice, and the Locker Alcove on Monticello",
                             "file_path": "e001/c001/p009.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-9-route-13-forty-eight-hours-notice-and-the-locker-alcove-on-monticello",
-                            "word_count": 2072,
+                            "word_count": 2087,
                             "reading_minutes": 9,
                             "date": "2001-08-21",
                             "start_time": "08:30",
@@ -622,7 +622,7 @@
             "next_crossroads_id": "norfolk-pathfinder-terminal-2001",
             "required_choices": [],
             "part_count": 9,
-            "word_count": 17818,
+            "word_count": 17833,
             "reading_minutes": 72,
             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_emerald_creek_food_court_day1.jpg",
             "eras": [
@@ -631,14 +631,14 @@
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
                     "illustration_count": 7,
-                    "word_count": 17818,
+                    "word_count": 17833,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                             "illustration_count": 7,
-                            "word_count": 17818,
+                            "word_count": 17833,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -786,7 +786,7 @@
                                     "part_title": "Part 9: Route 13, Forty-Eight Hours' Notice, and the Locker Alcove on Monticello",
                                     "file_path": "e001/c001/p009.md",
                                     "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-9-route-13-forty-eight-hours-notice-and-the-locker-alcove-on-monticello",
-                                    "word_count": 2072,
+                                    "word_count": 2087,
                                     "reading_minutes": 9,
                                     "date": "2001-08-21",
                                     "start_time": "08:30",
@@ -2078,14 +2078,14 @@
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
             "illustration_count": 7,
-            "word_count": 17818,
+            "word_count": 17833,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                     "illustration_count": 7,
-                    "word_count": 17818,
+                    "word_count": 17833,
                     "parts": [
                         {
                             "part_num": 1,
@@ -2233,7 +2233,7 @@
                             "part_title": "Part 9: Route 13, Forty-Eight Hours' Notice, and the Locker Alcove on Monticello",
                             "file_path": "e001/c001/p009.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-9-route-13-forty-eight-hours-notice-and-the-locker-alcove-on-monticello",
-                            "word_count": 2072,
+                            "word_count": 2087,
                             "reading_minutes": 9,
                             "date": "2001-08-21",
                             "start_time": "08:30",
