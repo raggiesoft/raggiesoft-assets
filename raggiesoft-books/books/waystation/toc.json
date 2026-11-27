@@ -10,31 +10,31 @@
     "ebook_sizes": {
         "epub": "3.5 MB",
         "pdf": "3 MB",
-        "text_epub": "80 KB",
-        "text_pdf": "211 KB",
-        "package_7z": "55 KB",
-        "epub_bytes": 3619924,
-        "pdf_bytes": 3129466,
-        "text_epub_bytes": 81547,
-        "text_pdf_bytes": 216117,
-        "package_7z_bytes": 56720
+        "text_epub": "84 KB",
+        "text_pdf": "223 KB",
+        "package_7z": "59 KB",
+        "epub_bytes": 3624242,
+        "pdf_bytes": 3140651,
+        "text_epub_bytes": 85832,
+        "text_pdf_bytes": 227983,
+        "package_7z_bytes": 60286
     },
     "illustration_count": 20,
     "word_stats": {
-        "story_word_count": 27075,
-        "lore_word_count": 5319,
-        "combined_word_count": 32394,
-        "story_page_count": 98,
-        "combined_page_count": 118,
-        "reading_hours": 1.8,
-        "reading_minutes": 108,
+        "story_word_count": 28867,
+        "lore_word_count": 5497,
+        "combined_word_count": 34364,
+        "story_page_count": 105,
+        "combined_page_count": 125,
+        "reading_hours": 1.9,
+        "reading_minutes": 115,
         "novel_equivalent": 0.3,
         "scale_category": "Novella",
         "scale_badge": "Novella",
         "benchmark_note": "Standard contemporary novella length (17,500\u201340,000 words)",
         "era_count": 1,
         "chapter_count": 9,
-        "part_count": 19,
+        "part_count": 20,
         "illustration_count": 20,
         "story_arc_count": 0
     },
@@ -45,14 +45,14 @@
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
             "illustration_count": 8,
-            "word_count": 19126,
+            "word_count": 20918,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                     "illustration_count": 5,
-                    "word_count": 15295,
+                    "word_count": 17087,
                     "parts": [
                         {
                             "part_num": 1,
@@ -119,9 +119,21 @@
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek",
+                            "part_title": "Part 4: Sunday Morning Glow, Big-Brother Boundaries, and Straight-A Homework",
                             "file_path": "e001/c001/p004.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-4-route-13-forty-eight-hours-notice-and-home-to-emerald-creek",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-4-sunday-morning-glow-big-brother-boundaries-and-straight-a-homework",
+                            "word_count": 1792,
+                            "reading_minutes": 8,
+                            "date": "1998-11-01",
+                            "start_time": "10:50",
+                            "location": "Grandpa Walter's House Near Emerald Creek Mall, Chesapeake, Virginia",
+                            "excerpt": "Crisp November maple leaves crunched dry and bright beneath the gray rubber tips of my matte-silver Lofstrand forearm crutches as I turned onto our quiet street behind Emerald Creek Mall at ten minutes to\u2026"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek",
+                            "file_path": "e001/c001/p005.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-5-route-13-forty-eight-hours-notice-and-home-to-emerald-creek",
                             "word_count": 4266,
                             "reading_minutes": 18,
                             "date": "2000-10-17",
@@ -139,10 +151,10 @@
                             "image_count": 1
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals",
-                            "file_path": "e001/c001/p005.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-5-eighteen-candles-always-there-for-big-brother-and-ten-raised-seals",
+                            "part_num": 6,
+                            "part_title": "Part 6: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals",
+                            "file_path": "e001/c001/p006.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-6-eighteen-candles-always-there-for-big-brother-and-ten-raised-seals",
                             "word_count": 1961,
                             "reading_minutes": 8,
                             "date": "2000-10-19",
@@ -151,10 +163,10 @@
                             "excerpt": "Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald\u2026"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: Moving Into a Rectangular Box and Quantum OS 2000",
-                            "file_path": "e001/c001/p006.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-6-moving-into-a-rectangular-box-and-quantum-os-2000",
+                            "part_num": 7,
+                            "part_title": "Part 7: Moving Into a Rectangular Box and Quantum OS 2000",
+                            "file_path": "e001/c001/p007.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-7-moving-into-a-rectangular-box-and-quantum-os-2000",
                             "word_count": 1749,
                             "reading_minutes": 7,
                             "date": "2000-12-01",
@@ -172,10 +184,10 @@
                             "image_count": 1
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: Eighty-Nine Degrees and One Rattling Fan",
-                            "file_path": "e001/c001/p007.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-7-eighty-nine-degrees-and-one-rattling-fan",
+                            "part_num": 8,
+                            "part_title": "Part 8: Eighty-Nine Degrees and One Rattling Fan",
+                            "file_path": "e001/c001/p008.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-8-eighty-nine-degrees-and-one-rattling-fan",
                             "word_count": 772,
                             "reading_minutes": 4,
                             "date": "2001-08-18",
@@ -341,9 +353,9 @@
             "entry_url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-aisle-four-cutback-transfers-and-ready-for-everything",
             "next_crossroads_id": "borderland-three-roads",
             "required_choices": [],
-            "part_count": 10,
-            "word_count": 19126,
-            "reading_minutes": 77,
+            "part_count": 11,
+            "word_count": 20918,
+            "reading_minutes": 84,
             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_emerald_creek_food_court_day1.jpg",
             "eras": [
                 {
@@ -351,14 +363,14 @@
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
                     "illustration_count": 8,
-                    "word_count": 19126,
+                    "word_count": 20918,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                             "illustration_count": 5,
-                            "word_count": 15295,
+                            "word_count": 17087,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -425,9 +437,21 @@
                                 },
                                 {
                                     "part_num": 4,
-                                    "part_title": "Part 4: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek",
+                                    "part_title": "Part 4: Sunday Morning Glow, Big-Brother Boundaries, and Straight-A Homework",
                                     "file_path": "e001/c001/p004.md",
-                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-4-route-13-forty-eight-hours-notice-and-home-to-emerald-creek",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-4-sunday-morning-glow-big-brother-boundaries-and-straight-a-homework",
+                                    "word_count": 1792,
+                                    "reading_minutes": 8,
+                                    "date": "1998-11-01",
+                                    "start_time": "10:50",
+                                    "location": "Grandpa Walter's House Near Emerald Creek Mall, Chesapeake, Virginia",
+                                    "excerpt": "Crisp November maple leaves crunched dry and bright beneath the gray rubber tips of my matte-silver Lofstrand forearm crutches as I turned onto our quiet street behind Emerald Creek Mall at ten minutes to\u2026"
+                                },
+                                {
+                                    "part_num": 5,
+                                    "part_title": "Part 5: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek",
+                                    "file_path": "e001/c001/p005.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-5-route-13-forty-eight-hours-notice-and-home-to-emerald-creek",
                                     "word_count": 4266,
                                     "reading_minutes": 18,
                                     "date": "2000-10-17",
@@ -445,10 +469,10 @@
                                     "image_count": 1
                                 },
                                 {
-                                    "part_num": 5,
-                                    "part_title": "Part 5: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals",
-                                    "file_path": "e001/c001/p005.md",
-                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-5-eighteen-candles-always-there-for-big-brother-and-ten-raised-seals",
+                                    "part_num": 6,
+                                    "part_title": "Part 6: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals",
+                                    "file_path": "e001/c001/p006.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-6-eighteen-candles-always-there-for-big-brother-and-ten-raised-seals",
                                     "word_count": 1961,
                                     "reading_minutes": 8,
                                     "date": "2000-10-19",
@@ -457,10 +481,10 @@
                                     "excerpt": "Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald\u2026"
                                 },
                                 {
-                                    "part_num": 6,
-                                    "part_title": "Part 6: Moving Into a Rectangular Box and Quantum OS 2000",
-                                    "file_path": "e001/c001/p006.md",
-                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-6-moving-into-a-rectangular-box-and-quantum-os-2000",
+                                    "part_num": 7,
+                                    "part_title": "Part 7: Moving Into a Rectangular Box and Quantum OS 2000",
+                                    "file_path": "e001/c001/p007.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-7-moving-into-a-rectangular-box-and-quantum-os-2000",
                                     "word_count": 1749,
                                     "reading_minutes": 7,
                                     "date": "2000-12-01",
@@ -478,10 +502,10 @@
                                     "image_count": 1
                                 },
                                 {
-                                    "part_num": 7,
-                                    "part_title": "Part 7: Eighty-Nine Degrees and One Rattling Fan",
-                                    "file_path": "e001/c001/p007.md",
-                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-7-eighty-nine-degrees-and-one-rattling-fan",
+                                    "part_num": 8,
+                                    "part_title": "Part 8: Eighty-Nine Degrees and One Rattling Fan",
+                                    "file_path": "e001/c001/p008.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-8-eighty-nine-degrees-and-one-rattling-fan",
                                     "word_count": 772,
                                     "reading_minutes": 4,
                                     "date": "2001-08-18",
@@ -1003,14 +1027,14 @@
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
             "illustration_count": 8,
-            "word_count": 19126,
+            "word_count": 20918,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                     "illustration_count": 5,
-                    "word_count": 15295,
+                    "word_count": 17087,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1077,9 +1101,21 @@
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek",
+                            "part_title": "Part 4: Sunday Morning Glow, Big-Brother Boundaries, and Straight-A Homework",
                             "file_path": "e001/c001/p004.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-4-route-13-forty-eight-hours-notice-and-home-to-emerald-creek",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-4-sunday-morning-glow-big-brother-boundaries-and-straight-a-homework",
+                            "word_count": 1792,
+                            "reading_minutes": 8,
+                            "date": "1998-11-01",
+                            "start_time": "10:50",
+                            "location": "Grandpa Walter's House Near Emerald Creek Mall, Chesapeake, Virginia",
+                            "excerpt": "Crisp November maple leaves crunched dry and bright beneath the gray rubber tips of my matte-silver Lofstrand forearm crutches as I turned onto our quiet street behind Emerald Creek Mall at ten minutes to\u2026"
+                        },
+                        {
+                            "part_num": 5,
+                            "part_title": "Part 5: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek",
+                            "file_path": "e001/c001/p005.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-5-route-13-forty-eight-hours-notice-and-home-to-emerald-creek",
                             "word_count": 4266,
                             "reading_minutes": 18,
                             "date": "2000-10-17",
@@ -1097,10 +1133,10 @@
                             "image_count": 1
                         },
                         {
-                            "part_num": 5,
-                            "part_title": "Part 5: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals",
-                            "file_path": "e001/c001/p005.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-5-eighteen-candles-always-there-for-big-brother-and-ten-raised-seals",
+                            "part_num": 6,
+                            "part_title": "Part 6: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals",
+                            "file_path": "e001/c001/p006.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-6-eighteen-candles-always-there-for-big-brother-and-ten-raised-seals",
                             "word_count": 1961,
                             "reading_minutes": 8,
                             "date": "2000-10-19",
@@ -1109,10 +1145,10 @@
                             "excerpt": "Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald\u2026"
                         },
                         {
-                            "part_num": 6,
-                            "part_title": "Part 6: Moving Into a Rectangular Box and Quantum OS 2000",
-                            "file_path": "e001/c001/p006.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-6-moving-into-a-rectangular-box-and-quantum-os-2000",
+                            "part_num": 7,
+                            "part_title": "Part 7: Moving Into a Rectangular Box and Quantum OS 2000",
+                            "file_path": "e001/c001/p007.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-7-moving-into-a-rectangular-box-and-quantum-os-2000",
                             "word_count": 1749,
                             "reading_minutes": 7,
                             "date": "2000-12-01",
@@ -1130,10 +1166,10 @@
                             "image_count": 1
                         },
                         {
-                            "part_num": 7,
-                            "part_title": "Part 7: Eighty-Nine Degrees and One Rattling Fan",
-                            "file_path": "e001/c001/p007.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-7-eighty-nine-degrees-and-one-rattling-fan",
+                            "part_num": 8,
+                            "part_title": "Part 8: Eighty-Nine Degrees and One Rattling Fan",
+                            "file_path": "e001/c001/p008.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-8-eighty-nine-degrees-and-one-rattling-fan",
                             "word_count": 772,
                             "reading_minutes": 4,
                             "date": "2001-08-18",
