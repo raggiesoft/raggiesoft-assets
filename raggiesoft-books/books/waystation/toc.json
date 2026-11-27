@@ -10,24 +10,24 @@
     "ebook_sizes": {
         "epub": "4.3 MB",
         "pdf": "3.9 MB",
-        "text_epub": "170 KB",
-        "text_pdf": "428 KB",
-        "package_7z": "",
-        "epub_bytes": 4480742,
-        "pdf_bytes": 4122122,
-        "text_epub_bytes": 173908,
-        "text_pdf_bytes": 437847,
-        "package_7z_bytes": 0
+        "text_epub": "171 KB",
+        "text_pdf": "431 KB",
+        "package_7z": "117 KB",
+        "epub_bytes": 4482026,
+        "pdf_bytes": 4125685,
+        "text_epub_bytes": 175190,
+        "text_pdf_bytes": 441622,
+        "package_7z_bytes": 119299
     },
     "illustration_count": 24,
     "word_stats": {
-        "story_word_count": 57536,
-        "lore_word_count": 6175,
-        "combined_word_count": 63711,
-        "story_page_count": 209,
-        "combined_page_count": 232,
-        "reading_hours": 3.8,
-        "reading_minutes": 230,
+        "story_word_count": 58095,
+        "lore_word_count": 6323,
+        "combined_word_count": 64418,
+        "story_page_count": 211,
+        "combined_page_count": 234,
+        "reading_hours": 3.9,
+        "reading_minutes": 232,
         "novel_equivalent": 0.6,
         "scale_category": "Compact Novel",
         "scale_badge": "Compact Novel",
@@ -45,14 +45,14 @@
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
             "illustration_count": 12,
-            "word_count": 38625,
+            "word_count": 38685,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                     "illustration_count": 9,
-                    "word_count": 34775,
+                    "word_count": 34835,
                     "parts": [
                         {
                             "part_num": 1,
@@ -233,7 +233,7 @@
                             "part_title": "Part 11: Seventy-Five Ohms, Fast-Busy Lines, and Eden Way North",
                             "file_path": "e001/c001/p011.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-11-seventy-five-ohms-fast-busy-lines-and-eden-way-north",
-                            "word_count": 2029,
+                            "word_count": 2070,
                             "reading_minutes": 9,
                             "date": "2001-09-11",
                             "start_time": "08:48",
@@ -290,7 +290,7 @@
                             "part_title": "Part 15: Clocking Out Together, One Car Ride Home, and Crimson Red Outside the Lobby",
                             "file_path": "e001/c001/p015.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-15-clocking-out-together-one-car-ride-home-and-crimson-red-outside-the-lobby",
-                            "word_count": 2377,
+                            "word_count": 2396,
                             "reading_minutes": 10,
                             "date": "2002-02-12",
                             "start_time": "19:45",
@@ -462,8 +462,8 @@
                     "entry_url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-10-locked-wheelchair-brakes-fellow-passengers-and-safe-home-to-emerald-creek",
                     "required_choices": [],
                     "part_count": 12,
-                    "word_count": 21192,
-                    "reading_minutes": 85,
+                    "word_count": 21252,
+                    "reading_minutes": 86,
                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg"
                 },
                 {
@@ -506,8 +506,8 @@
                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
                     },
                     "part_count": 3,
-                    "word_count": 3686,
-                    "reading_minutes": 15,
+                    "word_count": 4040,
+                    "reading_minutes": 17,
                     "image": "/raggiesoft-books/images/covers/og/waystation.jpg"
                 },
                 {
@@ -522,8 +522,8 @@
                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                     },
                     "part_count": 3,
-                    "word_count": 3417,
-                    "reading_minutes": 14,
+                    "word_count": 3562,
+                    "reading_minutes": 15,
                     "image": "/raggiesoft-books/images/covers/og/waystation.jpg"
                 }
             ]
@@ -879,8 +879,8 @@
                 "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
             },
             "part_count": 3,
-            "word_count": 3686,
-            "reading_minutes": 15,
+            "word_count": 4040,
+            "reading_minutes": 17,
             "image": "/raggiesoft-books/images/covers/og/waystation.jpg",
             "eras": [
                 {
@@ -888,22 +888,22 @@
                     "era_title": "Book One: Intercept Before the Restroom",
                     "era_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/book-one-intercept-before-the-restroom",
                     "illustration_count": 0,
-                    "word_count": 3686,
+                    "word_count": 4040,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Eden Way North, US-287, and Five Minutes to Spare in Pasco",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/book-one-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco",
                             "illustration_count": 0,
-                            "word_count": 3686,
+                            "word_count": 4040,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Part 1: Eden Way North at Eight-Eighteen and Two Pre-Dawn Tickets West",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p001.md",
                                     "url": "/waystation/paths/pasco-early-intercept/book-one-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-1-eden-way-north-at-eight-eighteen-and-two-pre-dawn-tickets-west",
-                                    "word_count": 1142,
-                                    "reading_minutes": 5,
+                                    "word_count": 1272,
+                                    "reading_minutes": 6,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-08-22",
                                     "start_time": "20:18",
@@ -919,7 +919,7 @@
                                     "part_title": "Part 2: Colby Truck Stop, US-287, and Crying Into Four Safe Arms in Pasco",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p002.md",
                                     "url": "/waystation/paths/pasco-early-intercept/book-one-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-2-colby-truck-stop-us-287-and-crying-into-four-safe-arms-in-pasco",
-                                    "word_count": 1896,
+                                    "word_count": 1928,
                                     "reading_minutes": 8,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-08-24",
@@ -933,16 +933,16 @@
                                 },
                                 {
                                     "part_num": 3,
-                                    "part_title": "Part 3: Healed Skin, Eighteen Candles, and Zero Supervisor Pin Left",
+                                    "part_title": "Part 3: Empty Work Polos, Ray's Personal Number, and Home in Studio 205",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p003.md",
-                                    "url": "/waystation/paths/pasco-early-intercept/book-one-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-3-healed-skin-eighteen-candles-and-zero-supervisor-pin-left",
-                                    "word_count": 648,
-                                    "reading_minutes": 3,
+                                    "url": "/waystation/paths/pasco-early-intercept/book-one-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-3-empty-work-polos-ray-s-personal-number-and-home-in-studio-205",
+                                    "word_count": 840,
+                                    "reading_minutes": 4,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-12-01",
                                     "start_time": "15:30",
                                     "location": "Grandpa Walter's House in Chesapeake to Studio 205 at Harborview Towers, Norfolk, Virginia",
-                                    "excerpt": "Flying home to Norfolk out of Pasco Regional Airport that August Saturday evening\u2014after an urgent-care doctor near the airport cleaned and dressed my early stage-two pressure sore before infection could ever set\u2026",
+                                    "excerpt": "Flying home to Norfolk out of Pasco Regional Airport that August Saturday evening\u2014after an urgent-care doctor near the airport cleaned and dressed my early stage-two pressure sore before infection could ever\u2026",
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
@@ -1070,8 +1070,8 @@
                 "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
             },
             "part_count": 3,
-            "word_count": 3417,
-            "reading_minutes": 14,
+            "word_count": 3562,
+            "reading_minutes": 15,
             "image": "/raggiesoft-books/images/covers/og/waystation.jpg",
             "eras": [
                 {
@@ -1079,14 +1079,14 @@
                     "era_title": "Book One: Ninety-Six Hours to Puget Sound",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound",
                     "illustration_count": 0,
-                    "word_count": 3417,
+                    "word_count": 3562,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
                             "illustration_count": 0,
-                            "word_count": 3417,
+                            "word_count": 3562,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -1127,8 +1127,8 @@
                                     "part_title": "Part 3: Crying Into Four Safe Arms in Seattle, Grandpa's Final Watch, and Studio 205",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p003.md",
                                     "url": "/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-3-crying-into-four-safe-arms-in-seattle-grandpa-s-final-watch-and-studio-205",
-                                    "word_count": 1411,
-                                    "reading_minutes": 6,
+                                    "word_count": 1556,
+                                    "reading_minutes": 7,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-10-26",
                                     "start_time": "13:15",
@@ -1258,8 +1258,8 @@
             "next_crossroads_id": "borderland-three-roads",
             "required_choices": [],
             "part_count": 12,
-            "word_count": 21192,
-            "reading_minutes": 85,
+            "word_count": 21252,
+            "reading_minutes": 86,
             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
             "eras": [
                 {
@@ -1267,14 +1267,14 @@
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
                     "illustration_count": 7,
-                    "word_count": 21192,
+                    "word_count": 21252,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                             "illustration_count": 4,
-                            "word_count": 17342,
+                            "word_count": 17402,
                             "parts": [
                                 {
                                     "part_num": 10,
@@ -1303,7 +1303,7 @@
                                     "part_title": "Part 11: Seventy-Five Ohms, Fast-Busy Lines, and Eden Way North",
                                     "file_path": "e001/c001/p011.md",
                                     "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-11-seventy-five-ohms-fast-busy-lines-and-eden-way-north",
-                                    "word_count": 2029,
+                                    "word_count": 2070,
                                     "reading_minutes": 9,
                                     "date": "2001-09-11",
                                     "start_time": "08:48",
@@ -1364,7 +1364,7 @@
                                     "part_title": "Part 15: Clocking Out Together, One Car Ride Home, and Crimson Red Outside the Lobby",
                                     "file_path": "e001/c001/p015.md",
                                     "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-15-clocking-out-together-one-car-ride-home-and-crimson-red-outside-the-lobby",
-                                    "word_count": 2377,
+                                    "word_count": 2396,
                                     "reading_minutes": 10,
                                     "date": "2002-02-12",
                                     "start_time": "19:45",
@@ -2223,8 +2223,8 @@
                 "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
             },
             "part_count": 3,
-            "word_count": 3686,
-            "reading_minutes": 15,
+            "word_count": 4040,
+            "reading_minutes": 17,
             "image": "/raggiesoft-books/images/covers/og/waystation.jpg",
             "eras": [
                 {
@@ -2232,22 +2232,22 @@
                     "era_title": "Book One: Intercept Before the Restroom",
                     "era_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/book-one-intercept-before-the-restroom",
                     "illustration_count": 0,
-                    "word_count": 3686,
+                    "word_count": 4040,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Eden Way North, US-287, and Five Minutes to Spare in Pasco",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/book-one-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco",
                             "illustration_count": 0,
-                            "word_count": 3686,
+                            "word_count": 4040,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Part 1: Eden Way North at Eight-Eighteen and Two Pre-Dawn Tickets West",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p001.md",
                                     "url": "/waystation/paths/pasco-early-intercept/book-one-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-1-eden-way-north-at-eight-eighteen-and-two-pre-dawn-tickets-west",
-                                    "word_count": 1142,
-                                    "reading_minutes": 5,
+                                    "word_count": 1272,
+                                    "reading_minutes": 6,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-08-22",
                                     "start_time": "20:18",
@@ -2263,7 +2263,7 @@
                                     "part_title": "Part 2: Colby Truck Stop, US-287, and Crying Into Four Safe Arms in Pasco",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p002.md",
                                     "url": "/waystation/paths/pasco-early-intercept/book-one-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-2-colby-truck-stop-us-287-and-crying-into-four-safe-arms-in-pasco",
-                                    "word_count": 1896,
+                                    "word_count": 1928,
                                     "reading_minutes": 8,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-08-24",
@@ -2277,16 +2277,16 @@
                                 },
                                 {
                                     "part_num": 3,
-                                    "part_title": "Part 3: Healed Skin, Eighteen Candles, and Zero Supervisor Pin Left",
+                                    "part_title": "Part 3: Empty Work Polos, Ray's Personal Number, and Home in Studio 205",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p003.md",
-                                    "url": "/waystation/paths/pasco-early-intercept/book-one-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-3-healed-skin-eighteen-candles-and-zero-supervisor-pin-left",
-                                    "word_count": 648,
-                                    "reading_minutes": 3,
+                                    "url": "/waystation/paths/pasco-early-intercept/book-one-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-3-empty-work-polos-ray-s-personal-number-and-home-in-studio-205",
+                                    "word_count": 840,
+                                    "reading_minutes": 4,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-12-01",
                                     "start_time": "15:30",
                                     "location": "Grandpa Walter's House in Chesapeake to Studio 205 at Harborview Towers, Norfolk, Virginia",
-                                    "excerpt": "Flying home to Norfolk out of Pasco Regional Airport that August Saturday evening\u2014after an urgent-care doctor near the airport cleaned and dressed my early stage-two pressure sore before infection could ever set\u2026",
+                                    "excerpt": "Flying home to Norfolk out of Pasco Regional Airport that August Saturday evening\u2014after an urgent-care doctor near the airport cleaned and dressed my early stage-two pressure sore before infection could ever\u2026",
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
@@ -2414,8 +2414,8 @@
                 "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
             },
             "part_count": 3,
-            "word_count": 3417,
-            "reading_minutes": 14,
+            "word_count": 3562,
+            "reading_minutes": 15,
             "image": "/raggiesoft-books/images/covers/og/waystation.jpg",
             "eras": [
                 {
@@ -2423,14 +2423,14 @@
                     "era_title": "Book One: Ninety-Six Hours to Puget Sound",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound",
                     "illustration_count": 0,
-                    "word_count": 3417,
+                    "word_count": 3562,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
                             "illustration_count": 0,
-                            "word_count": 3417,
+                            "word_count": 3562,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -2471,8 +2471,8 @@
                                     "part_title": "Part 3: Crying Into Four Safe Arms in Seattle, Grandpa's Final Watch, and Studio 205",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p003.md",
                                     "url": "/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-3-crying-into-four-safe-arms-in-seattle-grandpa-s-final-watch-and-studio-205",
-                                    "word_count": 1411,
-                                    "reading_minutes": 6,
+                                    "word_count": 1556,
+                                    "reading_minutes": 7,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-10-26",
                                     "start_time": "13:15",
@@ -2602,8 +2602,8 @@
             "next_crossroads_id": "borderland-three-roads",
             "required_choices": [],
             "part_count": 12,
-            "word_count": 21192,
-            "reading_minutes": 85,
+            "word_count": 21252,
+            "reading_minutes": 86,
             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
             "eras": [
                 {
@@ -2611,14 +2611,14 @@
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
                     "illustration_count": 7,
-                    "word_count": 21192,
+                    "word_count": 21252,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                             "illustration_count": 4,
-                            "word_count": 17342,
+                            "word_count": 17402,
                             "parts": [
                                 {
                                     "part_num": 10,
@@ -2647,7 +2647,7 @@
                                     "part_title": "Part 11: Seventy-Five Ohms, Fast-Busy Lines, and Eden Way North",
                                     "file_path": "e001/c001/p011.md",
                                     "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-11-seventy-five-ohms-fast-busy-lines-and-eden-way-north",
-                                    "word_count": 2029,
+                                    "word_count": 2070,
                                     "reading_minutes": 9,
                                     "date": "2001-09-11",
                                     "start_time": "08:48",
@@ -2708,7 +2708,7 @@
                                     "part_title": "Part 15: Clocking Out Together, One Car Ride Home, and Crimson Red Outside the Lobby",
                                     "file_path": "e001/c001/p015.md",
                                     "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-15-clocking-out-together-one-car-ride-home-and-crimson-red-outside-the-lobby",
-                                    "word_count": 2377,
+                                    "word_count": 2396,
                                     "reading_minutes": 10,
                                     "date": "2002-02-12",
                                     "start_time": "19:45",
