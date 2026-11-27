@@ -33,11 +33,17 @@ Why zero external `pip` dependencies?
 
 What inputs feed into it, and what output does it produce?
   - Inputs: Paths to `.pdf` and/or `.docx` files on the command line, plus an
-    optional `--cover-letter` flag (since 1-page cover letters only need `<H1>`,
-    whereas resumes must also have `<H2>` section headings).
-  - Outputs: Prints a concise `[508/PDF-UA PASS CHECK]` telemetry summary and
-    exits with status code `0` on full compliance, or prints every specific
-    accessibility violation to `stderr` and exits with code `1` to halt the build.
+    optional `--cover-letter` flag:
+      * Resumes (default): Strictly enforces the **Mandatory USAJOBS.gov / OPM
+        2-Page Federal Resume Maximum (`pages <= 2`)** alongside `<H1>` + `<H2>`
+        heading hierarchy, compact 2-page `.docx` margins, and full Section 508 /
+        ISO 14289-1 (`PDF/UA-1`) tags. Any 3+ page resume fails with exit code `1`.
+      * Cover Letters (`--cover-letter`): Enforces a strict **1-Page Maximum
+        (`pages <= 1`)** with `<H1>` letterhead and `<P>` body tags.
+  - Outputs: Prints a concise `[508/PDF-UA + USAJOBS CAP PASS]` telemetry summary
+    and exits with status code `0` on full compliance, or prints every specific
+    page-cap / accessibility violation to `stderr` and exits with code `1` to
+    halt the build immediately.
 ==============================================================================
 """
 
@@ -82,9 +88,80 @@ def extract_full_pdf_text(pdf_bytes: bytes) -> str:
     return "\n".join(chunks)
 
 
+# Hard statutory/federal page ceilings & human-readability floors:
+# - USAJOBS.gov / OPM federal hiring rules disqualify or truncate resumes exceeding 2 pages.
+# - Formal engineering cover letters must stay strictly on 1 single page.
+# - Anti-Cramming Floors: NEVER beat the 2-page cap by shrinking body text to 8pt micro-print,
+#   crushing line-height, shaving margins, or stripping heading orphan locks (`break-after: avoid`).
+MAX_RESUME_PAGES = 2
+MAX_COVER_LETTER_PAGES = 1
+MIN_BODY_FONT_PT = 9.2
+MIN_LINE_HEIGHT = 1.28
+MIN_PAGE_MARGIN_IN = 0.45
+
+
+def verify_resume_stylesheet_and_markdown_invariants(script_dir: pathlib.Path) -> list[str]:
+    """
+    Guards against two subtle failure modes in automated resume pipelines:
+      1. **Anti-Micro-Print Readability Floor (`resume-pdf-ua.css`)**:
+         Ensures nobody satisfies `page_count <= 2` by shrinking `html` font-size
+         below `9.2pt`, crushing `line-height` below `1.28`, shaving `@page` margins
+         below `0.45in`, or removing `break-after: avoid` / `orphans` / `widows`.
+      2. **Explicit CommonMark Line-Break Hygiene (`mragsdale-resume.md`)**:
+         Rejects invisible two-trailing-space (`  \\n`) hard breaks because SharePoint,
+         LLM extractors, and editor whitespace trimmers strip trailing spaces and
+         concatenate adjacent lines (`**Title**Tagline`). Require explicit ` \\` breaks!
+    """
+    errors: list[str] = []
+    css_path = script_dir / "resume-pdf-ua.css"
+    if css_path.is_file():
+        css = css_path.read_text(encoding="utf-8")
+        html_block = re.search(r"\bhtml\s*\{([^}]*)\}", css)
+        if html_block:
+            body = html_block.group(1)
+            fs_match = re.search(r"font-size\s*:\s*([0-9.]+)\s*pt", body)
+            if fs_match and float(fs_match.group(1)) < MIN_BODY_FONT_PT:
+                errors.append(
+                    f"Typography floor violated in `resume-pdf-ua.css`: `html` font-size is "
+                    f"{fs_match.group(1)}pt (minimum readable floor is {MIN_BODY_FONT_PT}pt; trim redundant copy instead!)."
+                )
+            lh_match = re.search(r"line-height\s*:\s*([0-9.]+)", body)
+            if lh_match and float(lh_match.group(1)) < MIN_LINE_HEIGHT:
+                errors.append(
+                    f"Typography floor violated in `resume-pdf-ua.css`: `html` line-height is "
+                    f"{lh_match.group(1)} (minimum floor is {MIN_LINE_HEIGHT})."
+                )
+        margin_match = re.search(r"@page\s*\{[\s\S]*?margin\s*:\s*([^;]+);", css)
+        if margin_match:
+            inches = [float(m) for m in re.findall(r"([0-9.]+)\s*in", margin_match.group(1))]
+            if inches and min(inches) < MIN_PAGE_MARGIN_IN:
+                errors.append(
+                    f"Page margin floor violated in `resume-pdf-ua.css`: minimum `@page` margin is "
+                    f"{min(inches)}in (minimum floor is {MIN_PAGE_MARGIN_IN}in)."
+                )
+        if len(re.findall(r"break-after\s*:\s*avoid", css)) < 4:
+            errors.append(
+                "Missing heading pagination locks (`break-after: avoid`) on `h1`, `h2`, `h3`, or `h3 + p` in `resume-pdf-ua.css`."
+            )
+        if "orphans:" not in css or "widows:" not in css:
+            errors.append("Missing `orphans` / `widows` pagination rules in `resume-pdf-ua.css`.")
+
+    md_path = script_dir / "mragsdale-resume.md"
+    if md_path.is_file():
+        for line_no, raw_line in enumerate(md_path.read_text(encoding="utf-8").splitlines(), start=1):
+            if raw_line.endswith("  "):
+                errors.append(
+                    f"`mragsdale-resume.md` line {line_no} uses fragile trailing-space hard break (`  `); "
+                    f"use explicit ` \\\\` so Markdown extractors never concatenate lines."
+                )
+
+    return errors
+
+
 def verify_pdf(pdf_path: pathlib.Path, require_h2: bool = True) -> list[str]:
     """
-    Audits a compiled PDF file against 8 core PDF/UA-1 & Section 508 rules.
+    Audits a compiled PDF file against the Mandatory USAJOBS 2-Page Cap (or 1-page
+    cover-letter cap) plus 8 core PDF/UA-1 & Section 508 rules.
     Returns a list of human-readable error strings (`[]` empty list means 100% PASS!).
     """
     errors: list[str] = []
@@ -127,19 +204,34 @@ def verify_pdf(pdf_path: pathlib.Path, require_h2: bool = True) -> list[str]:
         errors.append("Missing `/ViewerPreferences << /DisplayDocTitle true >>` (WCAG 2.4.2).")
 
     # --------------------------------------------------------------------------
-    # CHECK 4: Page Count & Keyboard Tab Order (`/Tabs /S` — PDF/UA Clause 7.18.3)
+    # CHECK 4: Mandatory USAJOBS 2-Page Maximum & Keyboard Tab Order (`/Tabs /S`)
     # --------------------------------------------------------------------------
-    # Every `/Type /Page` dictionary must include `/Tabs /S`, which instructs PDF
-    # readers to move keyboard Tab focus in **S**tructure Tree order (logical reading
-    # order) rather than arbitrary geometric X/Y coordinates on the page.
+    # 1. Hard Page Ceiling: USAJOBS.gov enforces a strict 2-page maximum on federal
+    #    resumes (and cover letters must fit on 1 page). Fail fatally if exceeded!
+    # 2. Every `/Type /Page` dictionary must include `/Tabs /S`, which instructs PDF
+    #    readers to move keyboard Tab focus in **S**tructure Tree order (logical reading
+    #    order) rather than arbitrary geometric X/Y coordinates on the page.
+    max_pages = MAX_RESUME_PAGES if require_h2 else MAX_COVER_LETTER_PAGES
     page_count = len(re.findall(r"/Type\s*/Page\b", corpus))
     tabs_s_count = len(re.findall(r"/Tabs\s*/S\b", corpus))
     if page_count == 0:
         errors.append("Detected 0 `/Type /Page` objects in PDF.")
-    elif tabs_s_count < page_count:
-        errors.append(
-            f"Expected `/Tabs /S` (Use Document Structure tab order) on all {page_count} pages, found {tabs_s_count}."
-        )
+    else:
+        if page_count > max_pages:
+            doc_label = (
+                "USAJOBS.gov / OPM Federal Resume"
+                if require_h2
+                else "Cover Letter"
+            )
+            errors.append(
+                f"MANDATORY {max_pages}-PAGE MAXIMUM VIOLATED ({doc_label}): "
+                f"`{pdf_path.name}` rendered {page_count} pages (strict maximum is {max_pages} pages). "
+                f"Tighten Markdown copy so it fits cleanly within {max_pages} page(s)."
+            )
+        if tabs_s_count < page_count:
+            errors.append(
+                f"Expected `/Tabs /S` (Use Document Structure tab order) on all {page_count} pages, found {tabs_s_count}."
+            )
 
     # --------------------------------------------------------------------------
     # CHECK 5: Interactive PDF Bookmarks (`/Outlines`)
@@ -225,9 +317,10 @@ def verify_pdf(pdf_path: pathlib.Path, require_h2: bool = True) -> list[str]:
     # Print a human-readable structural telemetry line for build logs.
     h_summary = ", ".join(f"H{k}={v}" for k, v in h_counts.items() if v > 0)
     li_count = len(re.findall(r"/S\s*/LI\b", corpus))
+    status_tag = "PASS" if not errors else "FAIL"
     print(
-        f"  [508/PDF-UA PASS CHECK] {pdf_path.name}: pages={page_count}, headings=({h_summary}), "
-        f"paragraphs={p_count}, list_items={li_count}, links={link_struct_count}, "
+        f"  [508/PDF-UA + {max_pages}P CAP {status_tag}] {pdf_path.name}: pages={page_count}/{max_pages}, "
+        f"headings=({h_summary}), paragraphs={p_count}, list_items={li_count}, links={link_struct_count}, "
         f"embedded_fonts={embedded_fonts}/{len(font_descriptors)}, artifacts={artifact_count}"
     )
     return errors
@@ -236,10 +329,13 @@ def verify_pdf(pdf_path: pathlib.Path, require_h2: bool = True) -> list[str]:
 def verify_docx(docx_path: pathlib.Path) -> list[str]:
     """
     Audits a compiled Microsoft Word `.docx` file for Section 508 / Word Accessibility
-    Checker compliance by opening the `.docx` as a `.zip` archive in memory:
+    Checker compliance AND compact 2-page US Letter geometry by opening the `.docx`
+    as a `.zip` archive in memory:
       - `docProps/core.xml` must contain non-empty `<dc:title>` and `<dc:creator>`.
       - `en-US` proofing language must be declared in `core.xml` or `word/styles.xml`.
-      - `word/document.xml` must use real `Heading1` paragraph styles (not just big bold text!).
+      - `word/document.xml` must use real `Heading1` paragraph styles (not just big bold text!)
+        AND explicit `<w:pgMar` compact page margins so ATS `.docx`-to-PDF converters do not
+        inflate a 2-page resume onto 3–4 pages using Word's wide `1.0"` default margins.
     """
     errors: list[str] = []
     if not docx_path.is_file():
@@ -266,8 +362,11 @@ def verify_docx(docx_path: pathlib.Path) -> list[str]:
             doc_xml = zf.read("word/document.xml").decode("utf-8", errors="replace")
             if 'w:val="Heading1"' not in doc_xml:
                 errors.append("DOCX missing native `Heading1` style in `word/document.xml`.")
+            if "<w:pgMar" not in doc_xml:
+                errors.append("DOCX missing explicit `<w:pgMar` compact US Letter margins in `word/document.xml`.")
 
-    print(f"  [508/DOCX PASS CHECK]   {docx_path.name}: title, creator, en-US language & Heading styles verified")
+    status_tag = "PASS" if not errors else "FAIL"
+    print(f"  [508/DOCX + MARGINS {status_tag}] {docx_path.name}: title, creator, en-US, Heading styles & US Letter margins verified")
     return errors
 
 
@@ -294,6 +393,10 @@ def main() -> int:
     # Collect errors across ALL input files before exiting so the developer can see
     # every failure in a single terminal run instead of playing whack-a-mole.
     all_errors: list[str] = []
+    if require_h2:
+        script_dir = pathlib.Path(__file__).resolve().parent
+        all_errors.extend(verify_resume_stylesheet_and_markdown_invariants(script_dir))
+
     for raw_arg in args:
         path = pathlib.Path(raw_arg)
         if path.suffix.lower() == ".pdf":

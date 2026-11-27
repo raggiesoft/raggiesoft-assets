@@ -66,6 +66,8 @@ DOC_TITLE="Michael P. Ragsdale — Cover Letter (${BASENAME})"
 TMP_DIR="$(mktemp -d)"
 trap 'rm -rf "$TMP_DIR"' EXIT
 TMP_HTML="$TMP_DIR/${BASENAME}.html"
+STAGE_PDF="$TMP_DIR/${BASENAME}.pdf"
+STAGE_DOCX="$TMP_DIR/${BASENAME}.docx"
 
 # ------------------------------------------------------------------------------
 # 2. STAGE A: PANDOC MARKDOWN -> SEMANTIC HTML5 CONVERSION
@@ -127,7 +129,7 @@ PY
 WEASY_BIN="$(command -v weasyprint)"
 WEASY_PY="$(head -n 1 "$WEASY_BIN" | sed -n 's/^#!//p' || true)"
 if [ -n "$WEASY_PY" ] && [ -x "$WEASY_PY" ]; then
-    "$WEASY_PY" - "$TMP_HTML" "$PDF_FILE" <<'PY'
+    "$WEASY_PY" - "$TMP_HTML" "$STAGE_PDF" <<'PY'
 import sys, pydyf, weasyprint
 
 # Human-readable link descriptions announced by JAWS, NVDA, and VoiceOver
@@ -138,6 +140,8 @@ def describe_uri(raw: str) -> str:
         return f"Call Michael P. Ragsdale at {raw[len('tel:'):]}"
     known = {
         "https://michaelpragsdale.com": "Michael P. Ragsdale portfolio website (michaelpragsdale.com)",
+        "https://raggiesoft.dev": "RaggieSoft open-source developer and compiler hub (raggiesoft.dev)",
+        "https://raggiesoftstudio.com": "RaggieSoft Studio developer, packaging, and accessibility suite (raggiesoftstudio.com)",
         "https://github.com/raggiesoft": "RaggieSoft GitHub profile (github.com/raggiesoft)",
         "https://raggiesoft.com": "RaggieSoft Media website (raggiesoft.com)",
     }
@@ -165,11 +169,11 @@ else
         --pdf-variant pdf/ua-1 \
         --encoding utf-8 \
         "$TMP_HTML" \
-        "$PDF_FILE"
+        "$STAGE_PDF"
 fi
 
 # ------------------------------------------------------------------------------
-# 5. STAGE D: ACCESSIBLE WORD `.docx` GENERATION & SECTION 508 AUDIT
+# 5. STAGE D: ACCESSIBLE 1-PAGE WORD `.docx` GENERATION & SECTION 508 AUDIT
 # ------------------------------------------------------------------------------
 pandoc "$MD_FILE" \
     -f markdown \
@@ -177,9 +181,35 @@ pandoc "$MD_FILE" \
     --metadata title="$DOC_TITLE" \
     --metadata author="Michael P. Ragsdale" \
     --metadata lang="en-US" \
-    -o "$DOCX_FILE"
+    -o "$STAGE_DOCX"
 
-# Pass `--cover-letter` so `verify-pdf-508.py` verifies `<H1>`, `<P>`, links, fonts,
-# language, and tab order without requiring resume-style `<H2>` sub-headings.
-python3 ../resume/verify-pdf-508.py --cover-letter "$PDF_FILE" "$DOCX_FILE"
-echo "Done! Generated and verified $PDF_FILE and $DOCX_FILE"
+python3 - "$STAGE_DOCX" <<'PY'
+import pathlib, re, sys, zipfile
+
+docx_path = pathlib.Path(sys.argv[1])
+tmp_zip = docx_path.with_suffix(".tuned.docx")
+PG_SETUP_XML = (
+    '<w:pgSz w:w="12240" w:h="15840"/>'
+    '<w:pgMar w:top="1080" w:right="1080" w:bottom="1080" w:left="1080" '
+    'w:header="360" w:footer="360" w:gutter="0"/>'
+)
+
+with zipfile.ZipFile(docx_path, "r") as zin, zipfile.ZipFile(tmp_zip, "w", zipfile.ZIP_DEFLATED) as zout:
+    for item in zin.infolist():
+        raw = zin.read(item.filename)
+        if item.filename == "word/document.xml":
+            xml = raw.decode("utf-8")
+            if "<w:pgMar" not in xml:
+                xml = re.sub(r"(<w:sectPr\b[^>]*>)", r"\1" + PG_SETUP_XML, xml, count=1)
+            raw = xml.encode("utf-8")
+        zout.writestr(item, raw)
+
+tmp_zip.replace(docx_path)
+PY
+
+# Pass `--cover-letter` so `verify-pdf-508.py` enforces `pages <= 1` plus `<H1>`,
+# `<P>`, links, fonts, language, and tab order BEFORE promoting to `$OUTPUT_DIR`.
+python3 ../resume/verify-pdf-508.py --cover-letter "$STAGE_PDF" "$STAGE_DOCX"
+cp "$STAGE_PDF" "$PDF_FILE"
+cp "$STAGE_DOCX" "$DOCX_FILE"
+echo "Done! Generated and verified 1-page $PDF_FILE and $DOCX_FILE"

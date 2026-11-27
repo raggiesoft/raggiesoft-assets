@@ -1,28 +1,29 @@
 # MICHAEL P. RAGSDALE
-**Full-Stack Web Developer & Web Accessibility Engineer**  
-Web Application Development • Code-Level WCAG 2.1/2.2 AA & Section 508 Web Compliance • Cloud & Desktop Software  
-Norfolk, VA | [michaelpragsdale.com](https://michaelpragsdale.com) | [github.com/raggiesoft](https://github.com/raggiesoft) | [hello@michaelpragsdale.com](mailto:hello@michaelpragsdale.com)
+**Full-Stack Web Developer & Web Accessibility Engineer** \
+Web Application Development • Code-Level WCAG 2.1/2.2 AA & Section 508 Web • Cloud & Desktop Tooling \
+Norfolk, VA | [michaelpragsdale.com](https://michaelpragsdale.com) | [raggiesoft.dev](https://raggiesoft.dev) | [github.com/raggiesoft](https://github.com/raggiesoft) | [hello@michaelpragsdale.com](mailto:hello@michaelpragsdale.com)
 
 ## Professional Summary
-Full-Stack Web Developer and Web Accessibility Engineer combining source-level university web and LMS accessibility engineering at Old Dominion University, public-facing municipal operations with the City of Virginia Beach, and continuous hands-on software development. Author and maintainer of the open-source Stardust Engine CMS, a 17-property web ecosystem, and native desktop/installer tooling spanning PHP 8.5, TypeScript, Angular, React/Next.js, SvelteKit, C#/.NET 10, C++20, Python, and SwiftUI. Experienced across semantic HTML5 and WAI-ARIA architecture, manual screen-reader and keyboard focus auditing (JAWS, NVDA, VoiceOver, Deque axe), ADA Title II and Revised Section 508 web compliance, and Linux/Nginx cloud deployment.
+Full-Stack Web Developer and Web Accessibility Engineer combining source-level university web and LMS accessibility engineering at Old Dominion University, municipal operations with the City of Virginia Beach, and continuous hands-on software development. Author and maintainer of the open-source **Stardust Engine CMS** and **RaggieSoft Studio** developer suite, alongside 19 decoupled production web applications and companion native apps spanning TypeScript, PHP 8.5, Angular, React/Next.js, SvelteKit, C#/.NET, Win32 C++20, Python, and SwiftUI. Experienced across semantic HTML5 and WAI-ARIA architecture, manual screen-reader auditing (JAWS, NVDA, VoiceOver, Deque axe), ADA Title II and Revised Section 508 web compliance, and Linux/Nginx cloud deployment.
 
 ## Technical Skills
-* **Languages & Web Frameworks:** TypeScript, JavaScript (ES6+), PHP 8.5, HTML5, CSS (`@layer`, `subgrid`, container queries), Angular 19, React 19 / Next.js, Svelte 5 / SvelteKit, Astro, Vue / Nuxt, SolidJS, Lit 3 / Web Components, REST/JSON APIs, SQL, Python, Bash
-* **Code-Level Web Accessibility:** WCAG 2.1/2.2 AA, ADA Title II, Revised Section 508 Web, Semantic HTML5 (scoped table headers, `<fieldset>`/`<legend>`, landmarks), WAI-ARIA & Live Regions, JS Keyboard Focus Management, BCP 47 Multilingual `lang` Markup, Synced WebVTT (`.vtt`) Captions, Manual Screen-Reader Testing (JAWS, NVDA, VoiceOver), Deque axe, WAVE, Accessible HTML Canvas Interfaces (DOM/ARIA layer)
-* **Desktop, Systems & Packaging:** C# / .NET 10 (WinForms, WPF, Named Pipes IPC, UIAutomation), Native Win32 C++20 (`msiquery.h`, `fci.h`, WinHTTP), Swift / SwiftUI (macOS, iOS, iPadOS), Windows Installer (MSI, MSM, MST, MSP, Inno Setup), Azure Artifact Signing (Authenticode)
-* **Cloud, Linux & DevOps Tooling:** Ubuntu Linux, Nginx, DigitalOcean (Droplets & Spaces S3 CDN), Cloudflare DNS/SSL, Git, CI/CD Scripting, FFmpeg, ActiveNet
+* **Languages & Web Frameworks:** TypeScript, JavaScript (ES2024), PHP 8.5, HTML5, CSS (`@layer`, `subgrid`, container queries), Angular 19, React 19 / Next.js, Svelte 5 / SvelteKit, Astro, Vue / Nuxt, Alpine.js, SolidJS, Lit 3 / Web Components, REST/JSON APIs, SQL, Python, Bash
+* **Code-Level Web Accessibility:** WCAG 2.1/2.2 AA, ADA Title II, Revised Section 508 Web, VPAT 2.5 Report Generation & SARIF 2.1.0 Automated Findings, Semantic HTML5 (scoped table headers, `<fieldset>`/`<legend>`, landmarks), WAI-ARIA & Live Regions, JS Keyboard Focus Management, BCP 47 `lang` Markup, Synced WebVTT (`.vtt`), JAWS, NVDA, VoiceOver, Deque axe, WAVE, Accessible HTML Canvas (DOM/ARIA)
+* **Desktop, Compilers & Packaging:** C# / .NET (10/11, WinForms, WPF, Named Pipes IPC, Monaco WebView2, UIAutomation), Native Win32 C++20 (`msiquery.h`, `fci.h`, `LZMS`, WinHTTP), Language & Bytecode Tooling (RaggieScript v1.0 VM, JSON-RPC 2.0 LSP, ES2022 Transpiler), Swift / SwiftUI (macOS, iOS, iPadOS), Windows Installer (MSI, MSM, MST, MSP, Inno Setup), Azure Artifact Signing (Authenticode)
+* **Cloud, Linux & DevOps Tooling:** Ubuntu Linux, Nginx, DigitalOcean (Droplets & Spaces S3 CDN), Cloudflare DNS/TLS, Git, CI/CD Pre-Push Gates, FFmpeg, ActiveNet
 
 ## Professional Experience
 
 ### Independent Full-Stack Web Developer & Open-Source Maintainer
-**RaggieSoft Media | Norfolk, VA | [raggiesoft.com](https://raggiesoft.com) | 2008 – Present**  
-Design, build, and maintain an independent software development and digital publishing ecosystem spanning open-source web frameworks, decoupled frontend applications, cross-platform desktop apps, installer compilers, and Linux cloud infrastructure.
+**RaggieSoft Media | Norfolk, VA | [raggiesoft.com](https://raggiesoft.com) • [raggiesoftstudio.com](https://raggiesoftstudio.com) • [raggiesoft.dev](https://raggiesoft.dev) | 2008 – Present** \
+Design, build, and maintain an independent software and digital publishing ecosystem spanning open-source web frameworks, 19 decoupled web applications, developer/accessibility IDEs, C++20 & bytecode compilers, native apps, and Linux cloud hosting.
 
-* **Full-Stack Web & CMS Development:** Built and open-sourced **Stardust Engine CMS** (MIT License), a lightweight PHP 8.5 MVC and JSON-routed web framework, alongside decoupled production web applications in **Angular 19**, **SvelteKit**, **React / Next.js**, **Astro**, **Nuxt**, **SolidJS**, **Lit 3**, **Fluent UI**, and **IBM Carbon** across 17 live web properties.
-* **Cross-Platform Desktop, IDE & Installer Tooling:** Engineered native applications in **C# / .NET 10 WinForms & WPF** (including **RaggieSoft Accessibility Studio** with Monaco WebView2 & SARIF 2.1.0 CLI), **C++20**, and **SwiftUI** (`UIAutomation` / VoiceOver), and open-sourced **RaggieSoft Installer Studio**—a zero-dependency Win32 C++20 Windows Installer compiler (`instbuild.exe`), Visual IDE (`InstallerStudio.exe`), SQL table inspector (`msiprism.exe`), and accessible Dark Mode Mica bootstrapper (`SetupWizard.exe`) outputting real `.msi`, `.msm`, `.mst`, and `.msp` packages across `x64` and `ARM64` alongside **Inno Setup** and **Azure Artifact Signing**.
+* **Full-Stack Web & CMS Development:** Built and open-sourced **Stardust Engine CMS** (MIT License), a lightweight PHP 8.5 MVC and JSON-routed web framework, alongside 19 decoupled production web applications in **Angular 19**, **React 19 / Next.js**, **Svelte 5 / SvelteKit**, **Astro**, **Nuxt**, **Alpine.js**, **SolidJS**, **Lit 3**, **Fluent UI**, and **IBM Carbon**.
 * **Code-Level Web Accessibility:** Architect **WCAG 2.1/2.2 AA**, **ADA Title II**, and **Revised Section 508 web compliance** across custom modals, SPA focus management, BCP 47 multilingual `lang` attributes, Light/Dark/High-Contrast (`forced-colors`) themes, and a dual-layer HTML5 `<canvas>` interface backed by a synchronized semantic DOM/ARIA accessibility layer.
-* **Linux Cloud & CI/CD Automation:** Manage **Ubuntu Linux** and **Nginx** virtual hosts on DigitalOcean, **Cloudflare** DNS/edge routing, and automated Bash, PHP, and Node.js build and deployment pipelines with S3-compatible CDN asset synchronization.
-* **Media & Publishing Pipelines:** Built command-line **FFmpeg**, **PHP GD**, and **Pandoc** workflows to normalize multi-format audio streams, validate synchronized **WebVTT** (`.vtt`) closed captions/lyrics, generate Open Graph social cards, and compile automated digital publications.
+* **RaggieSoft Studio — Developer, Packaging & Accessibility Suite:** Authored an MIT-licensed Windows 11 (`x64`/`ARM64`) engineering suite: **Accessibility Studio** (**C# / .NET** WinForms + Monaco WebView2 Guided Fix diff IDE & headless **SARIF 2.1.0** CI/CD scanner), **Installer Studio** (zero-dependency Win32 **C++20** IDE, **MSI Prism** 64-bit SQL editor, and `.msi`/`.msm`/`.mst`/`.msp` compiler with Dark Mode Mica UI & HTML5 **VPAT 2.5** report generation), **Help Studio** (C++20 `.CHM`/`.HLP` decompilers, HTML5 sanitizer & Named-Pipe `F1` viewer), and **RaggieScript v1.0** (gradually typed bytecode VM, JSON-RPC 2.0 **LSP**, `.NET` SDK & zero-`eval()` ES2022 transpiler).
+* **Cross-Platform Native Client Applications:** Engineered companion desktop and mobile apps in **C# / .NET WPF** (`UIAutomation`, OS-kernel Named Pipes IPC, Inno Setup & Azure Artifact Signing) and multiplatform **SwiftUI** (macOS, iOS, iPadOS `VoiceOver`) consuming static REST/JSON APIs and synchronized WebVTT streams.
+* **Linux Cloud & CI/CD Automation:** Manage hardened **Ubuntu Linux** and **Nginx** virtual hosts on DigitalOcean, **Cloudflare** DNS/edge routing, and automated Bash, PHP 8.5, and Node.js pre-push build pipelines with S3 CDN synchronization.
+* **Media & Publishing Pipelines:** Built command-line **FFmpeg**, **PHP GD**, and **Pandoc** workflows to normalize multi-format audio streams, validate synchronized **WebVTT** (`.vtt`) closed captions, generate Open Graph cards, and compile static search indices.
 
 ### Clerk-Cashier (Concurrent with Software Engineering & IT Studies)
 **City of Virginia Beach Parks & Recreation | Virginia Beach, VA | May 2023 – Present**
@@ -48,10 +49,10 @@ Design, build, and maintain an independent software development and digital publ
 
 ## Education & Certification
 
-* **Tidewater Community College | Virginia Beach, VA**  
+* **Tidewater Community College | Virginia Beach, VA** \
   Associate of Science, Information Technology (Focus: Software Engineering & Web Dev) | Expected Dec 2027
-* **Old Dominion University | Norfolk, VA**  
+* **Old Dominion University | Norfolk, VA** \
   Bachelor of Science Coursework, Customized Studies in Leadership & Information Systems | Prior Coursework
-* **Wilson Workforce and Rehabilitation Center (formerly Woodrow Wilson Rehabilitation Center) | Fishersville, VA**  
+* **Wilson Workforce and Rehabilitation Center (formerly Woodrow Wilson Rehabilitation Center) | Fishersville, VA** \
   Certificate, Business & Information Technology | 2011
 * **Eligibility & Credentials:** U.S. Citizen • Commonwealth of Virginia AHP Eligible • Prior Federal Public Trust (6C) Adjudication

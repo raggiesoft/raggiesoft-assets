@@ -27,12 +27,17 @@
 #     Stage 4: `weasyprint` (with a custom `pydyf` post-processor) compiles the
 #              HTML5 + `@page` print CSS into a fully tagged `PDF/UA-1` file and
 #              adds spoken screen-reader descriptions onto every clickable link.
-#     Stage 5: `verify-pdf-508.py` programmatically audits the finished PDF and
-#              DOCX files—failing the build immediately if any Section 508 tag is missing!
+#     Stage 5: `verify-pdf-508.py` programmatically audits the staged PDF and
+#              DOCX files inside `$TMP_DIR`—enforcing the **Mandatory USAJOBS.gov
+#              2-Page Resume Maximum (`pages <= 2`)** and full Section 508 /
+#              PDF/UA-1 compliance BEFORE promoting any file to disk! Running
+#              `./build-resume.sh` also automatically builds and verifies the
+#              phone-enabled `--portal` USAJOBS edition so neither edition can
+#              ever silently drift or spill onto Page 3!
 #
 # Usage Examples:
-#   - `./build-resume.sh`               -> Builds public email-only PDF + local DOCX
-#   - `./build-resume.sh --portal`      -> Builds private phone-enabled PDF + DOCX in `_resume/resumes/`
+#   - `./build-resume.sh`               -> Builds & verifies BOTH public + `--portal` 2-page PDFs & DOCXs
+#   - `./build-resume.sh --portal`      -> Builds & verifies private phone-enabled 2-page PDF + DOCX only
 # ==============================================================================
 
 # Bash Strict Mode (`set -euo pipefail`)—essential safety net for shell scripts:
@@ -74,7 +79,7 @@ mkdir -p "$OUTPUT_DIR"
 # Document-level XMP & PDF Catalog metadata embedded into both the PDF and DOCX outputs.
 DOC_TITLE="Michael P. Ragsdale — Full-Stack Web Developer & Web Accessibility Engineer (Resume)"
 DOC_AUTHOR="Michael P. Ragsdale"
-DOC_DESC="Resume of Michael P. Ragsdale, Full-Stack Web Developer and Web Accessibility Engineer in Norfolk, VA specializing in TypeScript, PHP 8.5, Angular, React, C#/.NET, SwiftUI, and code-level WCAG 2.1/2.2 AA & Section 508 web compliance."
+DOC_DESC="Resume of Michael P. Ragsdale, Full-Stack Web Developer and Web Accessibility Engineer in Norfolk, VA specializing in TypeScript, PHP 8.5, Angular, React, C#/.NET, Win32 C++20, SwiftUI, RaggieSoft Studio, and code-level WCAG 2.1/2.2 AA & Section 508 web compliance."
 
 # Create an isolated temporary directory in `/tmp` (or macOS `/var/folders/...`) for
 # intermediate HTML files. `trap ... EXIT` works like `try / finally` in JavaScript:
@@ -128,6 +133,11 @@ else
 fi
 
 TMP_HTML="$TMP_DIR/${BASENAME}.html"
+# Atomic Staging Paths: WeasyPrint and Pandoc write into `$TMP_DIR` FIRST.
+# If `verify-pdf-508.py` detects `pages > 2` (violating USAJOBS.gov's 2-page limit)
+# or any missing Section 508 tag, the script aborts BEFORE overwriting `$OUT_PDF` or `$OUT_DOCX`!
+STAGE_PDF="$TMP_DIR/${BASENAME}.pdf"
+STAGE_DOCX="$TMP_DIR/${BASENAME}.docx"
 
 # ------------------------------------------------------------------------------
 # 3. STAGE A: PANDOC MARKDOWN -> SEMANTIC HTML5 CONVERSION
@@ -135,7 +145,7 @@ TMP_HTML="$TMP_DIR/${BASENAME}.html"
 # Pandoc parses `$SOURCE_MD` (`-f markdown`) and renders a complete standalone HTML5
 # document (`-t html5 --standalone`) wrapped in `pdf-ua-template.html`, linking
 # `resume-pdf-ua.css` and populating language, `<title>`, author, and description metadata.
-echo "Building PDF/UA-1 & Section 508 Tagged PDF: $OUT_PDF ..."
+echo "Building PDF/UA-1 & Section 508 Tagged PDF (USAJOBS <= 2-Page Cap): $OUT_PDF ..."
 pandoc "$SOURCE_MD" \
     -f markdown \
     -t html5 \
@@ -203,7 +213,7 @@ PY
 WEASY_BIN="$(command -v weasyprint)"
 WEASY_PY="$(head -n 1 "$WEASY_BIN" | sed -n 's/^#!//p' || true)"
 if [ -n "$WEASY_PY" ] && [ -x "$WEASY_PY" ]; then
-    "$WEASY_PY" - "$TMP_HTML" "$OUT_PDF" <<'PY'
+    "$WEASY_PY" - "$TMP_HTML" "$STAGE_PDF" <<'PY'
 import sys, pydyf, weasyprint
 
 # Translates raw `mailto:`, `tel:`, and `https://` URIs into clear spoken link descriptions
@@ -218,6 +228,8 @@ def describe_uri(raw: str) -> str:
         return f"Call Michael P. Ragsdale at {num}"
     known = {
         "https://michaelpragsdale.com": "Michael P. Ragsdale portfolio website (michaelpragsdale.com)",
+        "https://raggiesoft.dev": "RaggieSoft open-source developer and compiler hub (raggiesoft.dev)",
+        "https://raggiesoftstudio.com": "RaggieSoft Studio developer, packaging, and accessibility suite (raggiesoftstudio.com)",
         "https://github.com/raggiesoft": "RaggieSoft GitHub profile (github.com/raggiesoft)",
         "https://raggiesoft.com": "RaggieSoft Media website (raggiesoft.com)",
     }
@@ -249,35 +261,85 @@ else
         --pdf-variant pdf/ua-1 \
         --encoding utf-8 \
         "$TMP_HTML" \
-        "$OUT_PDF"
+        "$STAGE_PDF"
 fi
 
 # ------------------------------------------------------------------------------
-# 6. STAGE D: PRIVATE LOCAL-ONLY ACCESSIBLE WORD (`.docx`) GENERATION
+# 6. STAGE D: PRIVATE LOCAL-ONLY ACCESSIBLE 2-PAGE WORD (`.docx`) GENERATION
 # ------------------------------------------------------------------------------
 # Converts the exact same Markdown source into a clean, single-column Word `.docx`
-# with native `Heading 1` / `Heading 2` / `Heading 3` styles and `en-US` metadata.
-echo "Building Local-Only Accessible Section 508 DOCX (for DOCX-only ATS portals): $OUT_DOCX ..."
+# with native `Heading 1` / `Heading 2` / `Heading 3` styles and `en-US` metadata,
+# then injects explicit US Letter (`0.5in` top/bottom, `0.6in` left/right) margins
+# and compact `9.5pt` typography so ATS `.docx`-to-PDF renderers ALSO stay `<= 2` pages!
+echo "Building Local-Only Accessible Section 508 DOCX (2-page geometry): $OUT_DOCX ..."
 pandoc "$SOURCE_MD" \
     -f markdown \
     -t docx \
     --metadata title="$DOC_TITLE" \
     --metadata author="$DOC_AUTHOR" \
     --metadata lang="en-US" \
-    -o "$OUT_DOCX"
+    -o "$STAGE_DOCX"
+
+python3 - "$STAGE_DOCX" <<'PY'
+import pathlib, re, sys, zipfile
+
+docx_path = pathlib.Path(sys.argv[1])
+tmp_zip = docx_path.with_suffix(".tuned.docx")
+
+# In Office Open XML (`twips`, where `1 inch = 1440 twips`):
+# - US Letter (`8.5in x 11in`) = `w:w="12240" w:h="15840"`
+# - Margins matching `resume-pdf-ua.css` (`0.5in` top/bottom, `0.6in` sides) = `720` / `864` twips
+PG_SETUP_XML = (
+    '<w:pgSz w:w="12240" w:h="15840"/>'
+    '<w:pgMar w:top="720" w:right="864" w:bottom="720" w:left="864" '
+    'w:header="360" w:footer="360" w:gutter="0"/>'
+)
+
+with zipfile.ZipFile(docx_path, "r") as zin, zipfile.ZipFile(tmp_zip, "w", zipfile.ZIP_DEFLATED) as zout:
+    for item in zin.infolist():
+        raw = zin.read(item.filename)
+        if item.filename == "word/document.xml":
+            xml = raw.decode("utf-8")
+            if "<w:pgMar" not in xml:
+                xml = re.sub(r"(<w:sectPr\b[^>]*>)", r"\1" + PG_SETUP_XML, xml, count=1)
+            raw = xml.encode("utf-8")
+        elif item.filename == "word/styles.xml":
+            xml = raw.decode("utf-8")
+            # Tighten Pandoc's default `12pt` (`w:val="24"`) body font & wide `w:after="200"`
+            # paragraph spacing to `9.5pt` (`w:val="19"`) and `3pt` (`w:after="60"`) so `.docx`
+            # stays cleanly within the 2-page USAJOBS limit just like the WeasyPrint PDF!
+            xml = re.sub(r'<w:sz w:val="24"\s*/>', '<w:sz w:val="19"/>', xml)
+            xml = re.sub(r'<w:szCs w:val="24"\s*/>', '<w:szCs w:val="19"/>', xml)
+            xml = re.sub(r'w:after="200"', 'w:after="60"', xml)
+            raw = xml.encode("utf-8")
+        zout.writestr(item, raw)
+
+tmp_zip.replace(docx_path)
+PY
 
 # ------------------------------------------------------------------------------
-# 7. STAGE E: AUTOMATED SECTION 508 / PDF/UA-1 VERIFICATION GATE & MIRRORING
+# 7. STAGE E: MANDATORY USAJOBS 2-PAGE + SECTION 508 GATE & ATOMIC PROMOTION
 # ------------------------------------------------------------------------------
-# Audit both generated artifacts immediately. Because `set -e` is active at the top
-# of this script, if `verify-pdf-508.py` finds ANY accessibility defect and exits `1`,
-# the build fails loudly right here before copying anything!
-python3 ./verify-pdf-508.py "$OUT_PDF" "$OUT_DOCX"
+# Audit both staged artifacts inside `$TMP_DIR` FIRST. Because `set -e` is active,
+# if `verify-pdf-508.py` detects `pages > 2` or any accessibility defect (`exit 1`),
+# the build halts right here and existing files on disk remain 100% untouched!
+python3 ./verify-pdf-508.py "$STAGE_PDF" "$STAGE_DOCX"
+
+cp "$STAGE_PDF" "$OUT_PDF"
+cp "$STAGE_DOCX" "$OUT_DOCX"
 
 if [ "$PORTAL_MODE" = false ]; then
     # Mirror the verified public PDF into local `_resume/resumes/` alongside the `.docx`.
     cp "$OUT_PDF" "$OUTPUT_DIR/"
-    echo "Done! Verified public PDF ($OUT_PDF) and mirrored PDF + local-only DOCX to $OUTPUT_DIR."
+    echo "Done! Verified 2-page public PDF ($OUT_PDF) and mirrored PDF + local-only DOCX to $OUTPUT_DIR."
+
+    # Automatically build & verify the phone-included USAJOBS `--portal` edition too
+    # (unless suppressed via `RS_SKIP_AUTO_PORTAL=1`) so adding the phone number can
+    # NEVER silently push `mragsdale-resume-portal.pdf` onto a 3rd page!
+    if [ "${RS_SKIP_AUTO_PORTAL:-0}" != "1" ]; then
+        echo "Verifying USAJOBS / Portal phone-enabled edition (<= 2-page cap)..."
+        RS_SKIP_AUTO_PORTAL=1 "$0" --portal "$MD_FILE"
+    fi
 else
-    echo "Done! Verified portal-only PDF & DOCX (with phone) in $OUTPUT_DIR."
+    echo "Done! Verified 2-page portal-only PDF & DOCX (with phone) in $OUTPUT_DIR."
 fi
