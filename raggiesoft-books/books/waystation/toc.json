@@ -3,39 +3,39 @@
     "series_slug": "waystation",
     "series_theme": "",
     "series_short_description": "Pulled barefoot from their tiny studio bed into Vaeloria, Nolan (24) and Gwen (19) journey toward home.",
-    "series_description": "At twenty-one, verbal autistic retail associate Nolan Lennox (5'7\") missed every hidden signal when polite, five-foot-tall Tammy puffed out her chest over a Day-1 lunch at the Emerald Creek Mall food court and told him she was ready for everything\u2014soon finding himself rushed into her un-air-conditioned trailer off Route 13. Two years and two breakups later, when Tammy impulsively drags twenty-three-year-old Nolan to the Norfolk Pathfinder terminal for a surprise Seattle trip without calling forty-eight hours ahead for a wheelchair lift, Nolan breaks up with her for good, rejects her last-ditch sexual enticement in favor of peaceful, yell-free hugs with his neurotypical six-foot-one sister Gwen, and rides CVTA buses home after fellow passengers shield him from Tammy's slap. Grandpa Walter holds on to see Gwen turn eighteen\u2014where an overjoyed Gwen accepts Nolan's invite to live together\u2014before passing away the next morning, leaving Nolan and Gwen to weather probate, sell their childhood home, and share tiny rectangular Studio 2B until an amber rift pulls them barefoot on Lofstrand forearm crutches into twin-moon Vaeloria.",
+    "series_description": "At twenty-one, verbal autistic retail associate Nolan Lennox (5'7\") missed every hidden signal when polite, five-foot-tall Tammy puffed out her chest over a Day-1 lunch at the Emerald Creek Mall food court and told him she was ready for everything\u2014soon finding himself rushed into her un-air-conditioned trailer off Route 13. Two years and two breakups later, when Tammy impulsively drags twenty-three-year-old Nolan to the Norfolk Pathfinder terminal for a surprise Seattle trip without calling forty-eight hours ahead for a wheelchair lift, Nolan breaks up with her for good, rejects her last-ditch sexual enticement in favor of peaceful, yell-free hugs with his neurotypical six-foot-one sister Gwen, and rides CVTA buses home after fellow passengers shield him from Tammy's slap. Grandpa Walter holds on to see Gwen turn eighteen\u2014where an overjoyed Gwen accepts Nolan's invite to live together\u2014before passing away the next morning, leaving Nolan and Gwen to weather probate, sell their childhood home, and share tiny rectangular Studio 205 inside a nineteen-sixties Norfolk high-rise until an amber rift pulls them barefoot on Lofstrand forearm crutches into twin-moon Vaeloria.",
     "series_description_long": "",
     "series_image": "/raggiesoft-books/images/covers/2x3/waystation.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "3.9 MB",
-        "pdf": "3.5 MB",
-        "text_epub": "113 KB",
-        "text_pdf": "302 KB",
-        "package_7z": "82 KB",
-        "epub_bytes": 4050866,
-        "pdf_bytes": 3621070,
-        "text_epub_bytes": 115477,
-        "text_pdf_bytes": 309664,
-        "package_7z_bytes": 84286
+        "epub": "4 MB",
+        "pdf": "3.6 MB",
+        "text_epub": "121 KB",
+        "text_pdf": "325 KB",
+        "package_7z": "89 KB",
+        "epub_bytes": 4214478,
+        "pdf_bytes": 3800372,
+        "text_epub_bytes": 123425,
+        "text_pdf_bytes": 332535,
+        "package_7z_bytes": 90652
     },
-    "illustration_count": 22,
+    "illustration_count": 23,
     "word_stats": {
-        "story_word_count": 40970,
-        "lore_word_count": 8073,
-        "combined_word_count": 49043,
-        "story_page_count": 149,
-        "combined_page_count": 178,
-        "reading_hours": 2.7,
-        "reading_minutes": 164,
+        "story_word_count": 44177,
+        "lore_word_count": 4361,
+        "combined_word_count": 48538,
+        "story_page_count": 161,
+        "combined_page_count": 177,
+        "reading_hours": 2.9,
+        "reading_minutes": 177,
         "novel_equivalent": 0.5,
         "scale_category": "Compact Novel",
         "scale_badge": "Compact Novel",
         "benchmark_note": "Compact single-volume trade paperback length (40,000\u201370,000 words)",
         "era_count": 1,
         "chapter_count": 9,
-        "part_count": 26,
-        "illustration_count": 22,
+        "part_count": 28,
+        "illustration_count": 23,
         "story_arc_count": 0
     },
     "story_arcs": [],
@@ -44,15 +44,15 @@
             "era_num": 1,
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-            "illustration_count": 10,
-            "word_count": 33021,
+            "illustration_count": 11,
+            "word_count": 36190,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                    "illustration_count": 7,
-                    "word_count": 29190,
+                    "illustration_count": 8,
+                    "word_count": 32340,
                     "parts": [
                         {
                             "part_num": 1,
@@ -245,8 +245,8 @@
                             "part_title": "Part 12: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals",
                             "file_path": "e001/c001/p012.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-12-eighteen-candles-always-there-for-big-brother-and-ten-raised-seals",
-                            "word_count": 1993,
-                            "reading_minutes": 8,
+                            "word_count": 2125,
+                            "reading_minutes": 9,
                             "date": "2001-10-19",
                             "start_time": "18:30",
                             "location": "Grandpa Walter's House Near Emerald Creek Mall, Chesapeake, Virginia",
@@ -254,36 +254,69 @@
                         },
                         {
                             "part_num": 13,
-                            "part_title": "Part 13: Moving Into a Rectangular Box and Quantum OS 2000",
+                            "part_title": "Part 13: Moving Into Studio 205 and Quantum OS 2000",
                             "file_path": "e001/c001/p013.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-13-moving-into-a-rectangular-box-and-quantum-os-2000",
-                            "word_count": 1751,
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-13-moving-into-studio-205-and-quantum-os-2000",
+                            "word_count": 1787,
                             "reading_minutes": 8,
                             "date": "2001-12-01",
                             "start_time": "16:15",
-                            "location": "Studio 2B, Emerald Creek Area of Chesapeake, Virginia",
+                            "location": "Studio 205, Harborview Towers off West Brambleton Avenue, Norfolk, Virginia",
                             "excerpt": "At midnight on November thirtieth\u2014after more than three straight months in which Tammy over at Pinecrest Court had stubbornly refused to sign the early roommate release, holding out past Thanksgiving convinced\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
-                            "image_alt": "Inside a tiny rectangular early-2000s one-person studio apartment in the Emerald Creek area of Chesapeake featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches.",
+                            "image_alt": "Inside tiny rectangular Studio 205 on the second floor of a 1965 Norfolk high-rise featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
-                                    "alt": "Inside a tiny rectangular early-2000s one-person studio apartment in the Emerald Creek area of Chesapeake featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches."
+                                    "alt": "Inside tiny rectangular Studio 205 on the second floor of a 1965 Norfolk high-rise featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches."
                                 }
                             ],
                             "image_count": 1
                         },
                         {
                             "part_num": 14,
-                            "part_title": "Part 14: Eighty-Nine Degrees and One Rattling Fan",
+                            "part_title": "Part 14: Three Buses in the Sleet, One Downtown Lab Bench, and Final Out at Twelve-Thirty",
                             "file_path": "e001/c001/p014.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-14-eighty-nine-degrees-and-one-rattling-fan",
-                            "word_count": 772,
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-14-three-buses-in-the-sleet-one-downtown-lab-bench-and-final-out-at-twelve-thirty",
+                            "word_count": 1495,
+                            "reading_minutes": 6,
+                            "date": "2002-02-12",
+                            "start_time": "19:45",
+                            "location": "Studio 205 at Harborview Towers in Norfolk & Emerald Creek Blue Tech, Virginia",
+                            "excerpt": "Freezing February sleet ticked hard against the silent window air-conditioner above our corner headboard while I wrapped both stiff, red-knuckled hands around a steaming mug of canned chicken broth to get the\u2026"
+                        },
+                        {
+                            "part_num": 15,
+                            "part_title": "Part 15: Twenty-Two Stairs to Studio 205, One Full-Sized Bed, and Zero Weirdness",
+                            "file_path": "e001/c001/p015.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-15-twenty-two-stairs-to-studio-205-one-full-sized-bed-and-zero-weirdness",
+                            "word_count": 1459,
+                            "reading_minutes": 6,
+                            "date": "2002-03-09",
+                            "start_time": "14:20",
+                            "location": "Studio 205, Harborview Towers off West Brambleton Avenue, Norfolk, Virginia",
+                            "excerpt": "Cold March rain began pelting the brick sidewalks along The Hague inlet half a block before Mallory Walsh and I reached the glass lobby doors of Harborview Towers off West Brambleton Avenue. \"So much for clear\u2026",
+                            "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_mallory_visits_studio_205.jpg",
+                            "image_alt": "Inside tiny rectangular Studio 205 on a rainy March 2002 afternoon in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_mallory_visits_studio_205.jpg",
+                                    "alt": "Inside tiny rectangular Studio 205 on a rainy March 2002 afternoon in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 16,
+                            "part_title": "Part 16: Eighty-Nine Degrees and One Rattling Fan",
+                            "file_path": "e001/c001/p016.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-16-eighty-nine-degrees-and-one-rattling-fan",
+                            "word_count": 800,
                             "reading_minutes": 4,
                             "date": "2002-08-17",
                             "start_time": "15:10",
-                            "location": "Studio 2B, Emerald Creek Area of Chesapeake, Virginia",
-                            "excerpt": "By the third week of August, the small beige window air-conditioner wedged above the corner of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 2B two degrees below the\u2026"
+                            "location": "Studio 205, Harborview Towers off West Brambleton Avenue, Norfolk, Virginia",
+                            "excerpt": "By the third week of August, the small beige window air-conditioner wedged above the corner of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 205 two degrees below the\u2026"
                         }
                     ]
                 },
@@ -292,18 +325,18 @@
                     "chap_title": "Chapter 2: No Wheelchairs in the Star-Moss",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss",
                     "illustration_count": 2,
-                    "word_count": 2608,
+                    "word_count": 2628,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Amber Glass Beside the Full-Sized Bed",
                             "file_path": "e001/c002/p001.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss/part-1-amber-glass-beside-the-full-sized-bed",
-                            "word_count": 1603,
+                            "word_count": 1624,
                             "reading_minutes": 7,
-                            "realm_time": "First Night of the Twin Moons \u2014 Autumn 2002, Studio 2B to Western Vaeloria",
+                            "realm_time": "First Night of the Twin Moons \u2014 Autumn 2002, Studio 205 to Western Vaeloria",
                             "start_time": "21:15",
-                            "location": "Studio 2B in Emerald Creek, Chesapeake to The Star-Moss Hollow, Vaeloria",
+                            "location": "Studio 205 at Harborview Towers in Norfolk to The Star-Moss Hollow, Vaeloria",
                             "excerpt": "October rain ticked steady against the silent window air-conditioner above our corner headboard while tinny hold music from Regional Mobility Supply warbled through the beige corded speakerphone on our\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg",
                             "image_alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) sit hugging and cuddling closely together under Grandpa Walter's green-and-navy plaid wool blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them.",
@@ -323,12 +356,12 @@
                             "part_title": "Part 2: Six Inches Taller and Four Crutches Strong",
                             "file_path": "e001/c002/p002.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss/part-2-six-inches-taller-and-four-crutches-strong",
-                            "word_count": 1005,
+                            "word_count": 1004,
                             "reading_minutes": 5,
                             "realm_time": "Second Dawn of the Twin Moons, The Whispering Causeway",
                             "start_time": "07:40",
                             "location": "The Whispering Quartz Causeway, Borderland of Vaeloria",
-                            "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made Studio 2B back in Emerald Creek feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz\u2026",
+                            "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made Studio 205 back in Norfolk feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz bridge\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
                             "image_alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wake curled up affectionately together on soft emerald moss under Grandpa Walter's green-and-navy plaid blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach.",
                             "images": [
@@ -346,14 +379,14 @@
                     "chap_title": "Chapter 3: The Three Roads of the Sunken Milestone",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone",
                     "illustration_count": 1,
-                    "word_count": 1223,
+                    "word_count": 1222,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Where the Flagstones Divide",
                             "file_path": "e001/c003/p001.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone/where-the-flagstones-divide",
-                            "word_count": 1223,
+                            "word_count": 1222,
                             "reading_minutes": 5,
                             "realm_time": "Second Afternoon of the Twin Moons, The Sunken Milestone",
                             "start_time": "15:30",
@@ -381,7 +414,7 @@
             "trigger_url": "/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone/where-the-flagstones-divide",
             "kicker": "Story Crossroads \u2022 Second Afternoon of the Twin Moons, The Sunken Milestone",
             "title": "Three Gentle Roads Toward the Waystation: How Do Nolan and Gwen Travel?",
-            "prompt": "With both wheelchairs left behind in Studio 2B on Earth, barefoot twenty-four-year-old Nolan Lennox and his six-foot-one nineteen-year-old sister Gwen have learned why Vaeloria's sleeping Astrolabe answered Gwen's wish: only two inseparable, unhurried hearts can re-harmonize the twin rings and heal The Great Drift. Here at the Sunken Milestone, peddler Bramwell Kettle shows them three gentle 1980s-fantasy routes winding inward. Every option opens a complete, coequal story route.",
+            "prompt": "With both wheelchairs left behind in Studio 205 on Earth, barefoot twenty-four-year-old Nolan Lennox and his six-foot-one nineteen-year-old sister Gwen have learned why Vaeloria's sleeping Astrolabe answered Gwen's wish: only two inseparable, unhurried hearts can re-harmonize the twin rings and heal The Great Drift. Here at the Sunken Milestone, peddler Bramwell Kettle shows them three gentle 1980s-fantasy routes winding inward. Every option opens a complete, coequal story route.",
             "required_choices": [],
             "options": [
                 {
@@ -395,7 +428,7 @@
                         "borderland-three-roads": "lantern-barge-canal"
                     },
                     "part_count": 3,
-                    "word_count": 2655,
+                    "word_count": 2668,
                     "reading_minutes": 11,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/route1_lantern_barge_canal.jpg"
                 },
@@ -410,7 +443,7 @@
                         "borderland-three-roads": "whisperwood-moss-road"
                     },
                     "part_count": 3,
-                    "word_count": 2617,
+                    "word_count": 2630,
                     "reading_minutes": 11,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/route2_whisperwood_moss_road.jpg"
                 },
@@ -425,7 +458,7 @@
                         "borderland-three-roads": "brass-counterweight-way"
                     },
                     "part_count": 3,
-                    "word_count": 2677,
+                    "word_count": 2689,
                     "reading_minutes": 11,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/route3_brass_counterweight_way.jpg"
                 }
@@ -443,24 +476,24 @@
             "entry_url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-aisle-four-cutback-transfers-and-ready-for-everything",
             "next_crossroads_id": "borderland-three-roads",
             "required_choices": [],
-            "part_count": 17,
-            "word_count": 33021,
-            "reading_minutes": 133,
+            "part_count": 19,
+            "word_count": 36190,
+            "reading_minutes": 145,
             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_emerald_creek_food_court_day1.jpg",
             "eras": [
                 {
                     "era_num": 1,
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-                    "illustration_count": 10,
-                    "word_count": 33021,
+                    "illustration_count": 11,
+                    "word_count": 36190,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                            "illustration_count": 7,
-                            "word_count": 29190,
+                            "illustration_count": 8,
+                            "word_count": 32340,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -653,8 +686,8 @@
                                     "part_title": "Part 12: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals",
                                     "file_path": "e001/c001/p012.md",
                                     "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-12-eighteen-candles-always-there-for-big-brother-and-ten-raised-seals",
-                                    "word_count": 1993,
-                                    "reading_minutes": 8,
+                                    "word_count": 2125,
+                                    "reading_minutes": 9,
                                     "date": "2001-10-19",
                                     "start_time": "18:30",
                                     "location": "Grandpa Walter's House Near Emerald Creek Mall, Chesapeake, Virginia",
@@ -662,36 +695,69 @@
                                 },
                                 {
                                     "part_num": 13,
-                                    "part_title": "Part 13: Moving Into a Rectangular Box and Quantum OS 2000",
+                                    "part_title": "Part 13: Moving Into Studio 205 and Quantum OS 2000",
                                     "file_path": "e001/c001/p013.md",
-                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-13-moving-into-a-rectangular-box-and-quantum-os-2000",
-                                    "word_count": 1751,
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-13-moving-into-studio-205-and-quantum-os-2000",
+                                    "word_count": 1787,
                                     "reading_minutes": 8,
                                     "date": "2001-12-01",
                                     "start_time": "16:15",
-                                    "location": "Studio 2B, Emerald Creek Area of Chesapeake, Virginia",
+                                    "location": "Studio 205, Harborview Towers off West Brambleton Avenue, Norfolk, Virginia",
                                     "excerpt": "At midnight on November thirtieth\u2014after more than three straight months in which Tammy over at Pinecrest Court had stubbornly refused to sign the early roommate release, holding out past Thanksgiving convinced\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
-                                    "image_alt": "Inside a tiny rectangular early-2000s one-person studio apartment in the Emerald Creek area of Chesapeake featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches.",
+                                    "image_alt": "Inside tiny rectangular Studio 205 on the second floor of a 1965 Norfolk high-rise featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
-                                            "alt": "Inside a tiny rectangular early-2000s one-person studio apartment in the Emerald Creek area of Chesapeake featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches."
+                                            "alt": "Inside tiny rectangular Studio 205 on the second floor of a 1965 Norfolk high-rise featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches."
                                         }
                                     ],
                                     "image_count": 1
                                 },
                                 {
                                     "part_num": 14,
-                                    "part_title": "Part 14: Eighty-Nine Degrees and One Rattling Fan",
+                                    "part_title": "Part 14: Three Buses in the Sleet, One Downtown Lab Bench, and Final Out at Twelve-Thirty",
                                     "file_path": "e001/c001/p014.md",
-                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-14-eighty-nine-degrees-and-one-rattling-fan",
-                                    "word_count": 772,
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-14-three-buses-in-the-sleet-one-downtown-lab-bench-and-final-out-at-twelve-thirty",
+                                    "word_count": 1495,
+                                    "reading_minutes": 6,
+                                    "date": "2002-02-12",
+                                    "start_time": "19:45",
+                                    "location": "Studio 205 at Harborview Towers in Norfolk & Emerald Creek Blue Tech, Virginia",
+                                    "excerpt": "Freezing February sleet ticked hard against the silent window air-conditioner above our corner headboard while I wrapped both stiff, red-knuckled hands around a steaming mug of canned chicken broth to get the\u2026"
+                                },
+                                {
+                                    "part_num": 15,
+                                    "part_title": "Part 15: Twenty-Two Stairs to Studio 205, One Full-Sized Bed, and Zero Weirdness",
+                                    "file_path": "e001/c001/p015.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-15-twenty-two-stairs-to-studio-205-one-full-sized-bed-and-zero-weirdness",
+                                    "word_count": 1459,
+                                    "reading_minutes": 6,
+                                    "date": "2002-03-09",
+                                    "start_time": "14:20",
+                                    "location": "Studio 205, Harborview Towers off West Brambleton Avenue, Norfolk, Virginia",
+                                    "excerpt": "Cold March rain began pelting the brick sidewalks along The Hague inlet half a block before Mallory Walsh and I reached the glass lobby doors of Harborview Towers off West Brambleton Avenue. \"So much for clear\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_mallory_visits_studio_205.jpg",
+                                    "image_alt": "Inside tiny rectangular Studio 205 on a rainy March 2002 afternoon in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_mallory_visits_studio_205.jpg",
+                                            "alt": "Inside tiny rectangular Studio 205 on a rainy March 2002 afternoon in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser."
+                                        }
+                                    ],
+                                    "image_count": 1
+                                },
+                                {
+                                    "part_num": 16,
+                                    "part_title": "Part 16: Eighty-Nine Degrees and One Rattling Fan",
+                                    "file_path": "e001/c001/p016.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-16-eighty-nine-degrees-and-one-rattling-fan",
+                                    "word_count": 800,
                                     "reading_minutes": 4,
                                     "date": "2002-08-17",
                                     "start_time": "15:10",
-                                    "location": "Studio 2B, Emerald Creek Area of Chesapeake, Virginia",
-                                    "excerpt": "By the third week of August, the small beige window air-conditioner wedged above the corner of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 2B two degrees below the\u2026"
+                                    "location": "Studio 205, Harborview Towers off West Brambleton Avenue, Norfolk, Virginia",
+                                    "excerpt": "By the third week of August, the small beige window air-conditioner wedged above the corner of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 205 two degrees below the\u2026"
                                 }
                             ]
                         },
@@ -700,18 +766,18 @@
                             "chap_title": "Chapter 2: No Wheelchairs in the Star-Moss",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss",
                             "illustration_count": 2,
-                            "word_count": 2608,
+                            "word_count": 2628,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Part 1: Amber Glass Beside the Full-Sized Bed",
                                     "file_path": "e001/c002/p001.md",
                                     "url": "/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss/part-1-amber-glass-beside-the-full-sized-bed",
-                                    "word_count": 1603,
+                                    "word_count": 1624,
                                     "reading_minutes": 7,
-                                    "realm_time": "First Night of the Twin Moons \u2014 Autumn 2002, Studio 2B to Western Vaeloria",
+                                    "realm_time": "First Night of the Twin Moons \u2014 Autumn 2002, Studio 205 to Western Vaeloria",
                                     "start_time": "21:15",
-                                    "location": "Studio 2B in Emerald Creek, Chesapeake to The Star-Moss Hollow, Vaeloria",
+                                    "location": "Studio 205 at Harborview Towers in Norfolk to The Star-Moss Hollow, Vaeloria",
                                     "excerpt": "October rain ticked steady against the silent window air-conditioner above our corner headboard while tinny hold music from Regional Mobility Supply warbled through the beige corded speakerphone on our\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg",
                                     "image_alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) sit hugging and cuddling closely together under Grandpa Walter's green-and-navy plaid wool blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them.",
@@ -731,12 +797,12 @@
                                     "part_title": "Part 2: Six Inches Taller and Four Crutches Strong",
                                     "file_path": "e001/c002/p002.md",
                                     "url": "/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss/part-2-six-inches-taller-and-four-crutches-strong",
-                                    "word_count": 1005,
+                                    "word_count": 1004,
                                     "reading_minutes": 5,
                                     "realm_time": "Second Dawn of the Twin Moons, The Whispering Causeway",
                                     "start_time": "07:40",
                                     "location": "The Whispering Quartz Causeway, Borderland of Vaeloria",
-                                    "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made Studio 2B back in Emerald Creek feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz\u2026",
+                                    "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made Studio 205 back in Norfolk feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz bridge\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
                                     "image_alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wake curled up affectionately together on soft emerald moss under Grandpa Walter's green-and-navy plaid blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach.",
                                     "images": [
@@ -754,14 +820,14 @@
                             "chap_title": "Chapter 3: The Three Roads of the Sunken Milestone",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone",
                             "illustration_count": 1,
-                            "word_count": 1223,
+                            "word_count": 1222,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Where the Flagstones Divide",
                                     "file_path": "e001/c003/p001.md",
                                     "url": "/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone/where-the-flagstones-divide",
-                                    "word_count": 1223,
+                                    "word_count": 1222,
                                     "reading_minutes": 5,
                                     "realm_time": "Second Afternoon of the Twin Moons, The Sunken Milestone",
                                     "start_time": "15:30",
@@ -795,7 +861,7 @@
                 "borderland-three-roads": "lantern-barge-canal"
             },
             "part_count": 3,
-            "word_count": 2655,
+            "word_count": 2668,
             "reading_minutes": 11,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/route1_lantern_barge_canal.jpg",
             "eras": [
@@ -804,7 +870,7 @@
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/paths/lantern-barge-canal/book-one-beyond-the-studio-rift",
                     "illustration_count": 4,
-                    "word_count": 2655,
+                    "word_count": 2668,
                     "chapters": [
                         {
                             "chap_num": 4,
@@ -849,14 +915,14 @@
                             "chap_title": "Chapter 5: Keepers' Hall and the Clock at Nine-Fifteen",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/lantern-barge-canal/book-one-beyond-the-studio-rift/chapter-5-keepers-hall-and-the-clock-at-nine-fifteen",
                             "illustration_count": 3,
-                            "word_count": 1938,
+                            "word_count": 1951,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Part 1: Turning the Twin Rings and the Glowing Hearth-Archway",
                                     "file_path": "paths/lantern-barge-canal/e001/c005/p001.md",
                                     "url": "/waystation/paths/lantern-barge-canal/book-one-beyond-the-studio-rift/chapter-5-keepers-hall-and-the-clock-at-nine-fifteen/part-1-turning-the-twin-rings-and-the-glowing-hearth-archway",
-                                    "word_count": 979,
+                                    "word_count": 988,
                                     "reading_minutes": 4,
                                     "path_id": "lantern-barge-canal",
                                     "realm_time": "Third Twilight of the Twin Moons, The Uncharted Waystation",
@@ -881,19 +947,19 @@
                                     "part_title": "Part 2: Nine-Fifteen on the VCR Clock and Choosing Home",
                                     "file_path": "paths/lantern-barge-canal/e001/c005/p002.md",
                                     "url": "/waystation/paths/lantern-barge-canal/book-one-beyond-the-studio-rift/chapter-5-keepers-hall-and-the-clock-at-nine-fifteen/part-2-nine-fifteen-on-the-vcr-clock-and-choosing-home",
-                                    "word_count": 959,
+                                    "word_count": 963,
                                     "reading_minutes": 4,
                                     "path_id": "lantern-barge-canal",
-                                    "realm_time": "Friday, 9:15 PM in Studio 2B & Third Twilight in Keepers' Hall",
+                                    "realm_time": "Friday, 9:15 PM in Studio 205 & Third Twilight in Keepers' Hall",
                                     "start_time": "21:15",
-                                    "location": "Studio 2B in Emerald Creek, Chesapeake to Keepers' Hall, The Uncharted Waystation",
-                                    "excerpt": "Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 2B in Emerald Creek, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's Blue\u2026",
+                                    "location": "Studio 205 at Harborview Towers in Norfolk to Keepers' Hall, The Uncharted Waystation",
+                                    "excerpt": "Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 205 at Harborview Towers, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg",
-                                    "image_alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 2B in Chesapeake, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.",
+                                    "image_alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 205 in Norfolk, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg",
-                                            "alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 2B in Chesapeake, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed."
+                                            "alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 205 in Norfolk, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed."
                                         },
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_wheelchairs_home_keepers_hall.jpg",
@@ -934,7 +1000,7 @@
                 "borderland-three-roads": "whisperwood-moss-road"
             },
             "part_count": 3,
-            "word_count": 2617,
+            "word_count": 2630,
             "reading_minutes": 11,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/route2_whisperwood_moss_road.jpg",
             "eras": [
@@ -943,7 +1009,7 @@
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/paths/whisperwood-moss-road/book-one-beyond-the-studio-rift",
                     "illustration_count": 4,
-                    "word_count": 2617,
+                    "word_count": 2630,
                     "chapters": [
                         {
                             "chap_num": 4,
@@ -988,14 +1054,14 @@
                             "chap_title": "Chapter 5: Keepers' Hall and the Clock at Nine-Fifteen",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/whisperwood-moss-road/book-one-beyond-the-studio-rift/chapter-5-keepers-hall-and-the-clock-at-nine-fifteen",
                             "illustration_count": 3,
-                            "word_count": 1937,
+                            "word_count": 1950,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Part 1: Turning the Twin Rings and the Glowing Hearth-Archway",
                                     "file_path": "paths/whisperwood-moss-road/e001/c005/p001.md",
                                     "url": "/waystation/paths/whisperwood-moss-road/book-one-beyond-the-studio-rift/chapter-5-keepers-hall-and-the-clock-at-nine-fifteen/part-1-turning-the-twin-rings-and-the-glowing-hearth-archway",
-                                    "word_count": 963,
+                                    "word_count": 972,
                                     "reading_minutes": 4,
                                     "path_id": "whisperwood-moss-road",
                                     "realm_time": "Third Twilight of the Twin Moons, The Uncharted Waystation",
@@ -1020,19 +1086,19 @@
                                     "part_title": "Part 2: Nine-Fifteen on the VCR Clock and Choosing Home",
                                     "file_path": "paths/whisperwood-moss-road/e001/c005/p002.md",
                                     "url": "/waystation/paths/whisperwood-moss-road/book-one-beyond-the-studio-rift/chapter-5-keepers-hall-and-the-clock-at-nine-fifteen/part-2-nine-fifteen-on-the-vcr-clock-and-choosing-home",
-                                    "word_count": 974,
+                                    "word_count": 978,
                                     "reading_minutes": 4,
                                     "path_id": "whisperwood-moss-road",
-                                    "realm_time": "Friday, 9:15 PM in Studio 2B & Third Twilight in Keepers' Hall",
+                                    "realm_time": "Friday, 9:15 PM in Studio 205 & Third Twilight in Keepers' Hall",
                                     "start_time": "21:15",
-                                    "location": "Studio 2B in Emerald Creek, Chesapeake to Keepers' Hall, The Uncharted Waystation",
-                                    "excerpt": "Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 2B in Emerald Creek, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's Blue\u2026",
+                                    "location": "Studio 205 at Harborview Towers in Norfolk to Keepers' Hall, The Uncharted Waystation",
+                                    "excerpt": "Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 205 at Harborview Towers, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg",
-                                    "image_alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 2B in Chesapeake, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.",
+                                    "image_alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 205 in Norfolk, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg",
-                                            "alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 2B in Chesapeake, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed."
+                                            "alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 205 in Norfolk, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed."
                                         },
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_wheelchairs_home_keepers_hall.jpg",
@@ -1073,7 +1139,7 @@
                 "borderland-three-roads": "brass-counterweight-way"
             },
             "part_count": 3,
-            "word_count": 2677,
+            "word_count": 2689,
             "reading_minutes": 11,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/route3_brass_counterweight_way.jpg",
             "eras": [
@@ -1082,21 +1148,21 @@
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/paths/brass-counterweight-way/book-one-beyond-the-studio-rift",
                     "illustration_count": 4,
-                    "word_count": 2677,
+                    "word_count": 2689,
                     "chapters": [
                         {
                             "chap_num": 4,
                             "chap_title": "Chapter 4: Above the Painted Clouds",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/brass-counterweight-way/book-one-beyond-the-studio-rift/chapter-4-above-the-painted-clouds",
                             "illustration_count": 1,
-                            "word_count": 747,
+                            "word_count": 746,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Gondolas of the Amber Crags",
                                     "file_path": "paths/brass-counterweight-way/e001/c004/p001.md",
                                     "url": "/waystation/paths/brass-counterweight-way/book-one-beyond-the-studio-rift/chapter-4-above-the-painted-clouds/gondolas-of-the-amber-crags",
-                                    "word_count": 747,
+                                    "word_count": 746,
                                     "reading_minutes": 3,
                                     "path_id": "brass-counterweight-way",
                                     "realm_time": "Second Sunset of the Twin Moons, The Amber Crags",
@@ -1127,14 +1193,14 @@
                             "chap_title": "Chapter 5: Keepers' Hall and the Clock at Nine-Fifteen",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/brass-counterweight-way/book-one-beyond-the-studio-rift/chapter-5-keepers-hall-and-the-clock-at-nine-fifteen",
                             "illustration_count": 3,
-                            "word_count": 1930,
+                            "word_count": 1943,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Part 1: Turning the Twin Rings and the Glowing Hearth-Archway",
                                     "file_path": "paths/brass-counterweight-way/e001/c005/p001.md",
                                     "url": "/waystation/paths/brass-counterweight-way/book-one-beyond-the-studio-rift/chapter-5-keepers-hall-and-the-clock-at-nine-fifteen/part-1-turning-the-twin-rings-and-the-glowing-hearth-archway",
-                                    "word_count": 968,
+                                    "word_count": 977,
                                     "reading_minutes": 4,
                                     "path_id": "brass-counterweight-way",
                                     "realm_time": "Third Twilight of the Twin Moons, The Uncharted Waystation",
@@ -1159,19 +1225,19 @@
                                     "part_title": "Part 2: Nine-Fifteen on the VCR Clock and Choosing Home",
                                     "file_path": "paths/brass-counterweight-way/e001/c005/p002.md",
                                     "url": "/waystation/paths/brass-counterweight-way/book-one-beyond-the-studio-rift/chapter-5-keepers-hall-and-the-clock-at-nine-fifteen/part-2-nine-fifteen-on-the-vcr-clock-and-choosing-home",
-                                    "word_count": 962,
+                                    "word_count": 966,
                                     "reading_minutes": 4,
                                     "path_id": "brass-counterweight-way",
-                                    "realm_time": "Friday, 9:15 PM in Studio 2B & Third Twilight in Keepers' Hall",
+                                    "realm_time": "Friday, 9:15 PM in Studio 205 & Third Twilight in Keepers' Hall",
                                     "start_time": "21:15",
-                                    "location": "Studio 2B in Emerald Creek, Chesapeake to Keepers' Hall, The Uncharted Waystation",
-                                    "excerpt": "Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 2B in Emerald Creek, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's Blue\u2026",
+                                    "location": "Studio 205 at Harborview Towers in Norfolk to Keepers' Hall, The Uncharted Waystation",
+                                    "excerpt": "Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 205 at Harborview Towers, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg",
-                                    "image_alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 2B in Chesapeake, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.",
+                                    "image_alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 205 in Norfolk, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg",
-                                            "alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 2B in Chesapeake, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed."
+                                            "alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 205 in Norfolk, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed."
                                         },
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_wheelchairs_home_keepers_hall.jpg",
@@ -1206,15 +1272,15 @@
             "era_num": 1,
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-            "illustration_count": 10,
-            "word_count": 33021,
+            "illustration_count": 11,
+            "word_count": 36190,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                    "illustration_count": 7,
-                    "word_count": 29190,
+                    "illustration_count": 8,
+                    "word_count": 32340,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1407,8 +1473,8 @@
                             "part_title": "Part 12: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals",
                             "file_path": "e001/c001/p012.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-12-eighteen-candles-always-there-for-big-brother-and-ten-raised-seals",
-                            "word_count": 1993,
-                            "reading_minutes": 8,
+                            "word_count": 2125,
+                            "reading_minutes": 9,
                             "date": "2001-10-19",
                             "start_time": "18:30",
                             "location": "Grandpa Walter's House Near Emerald Creek Mall, Chesapeake, Virginia",
@@ -1416,36 +1482,69 @@
                         },
                         {
                             "part_num": 13,
-                            "part_title": "Part 13: Moving Into a Rectangular Box and Quantum OS 2000",
+                            "part_title": "Part 13: Moving Into Studio 205 and Quantum OS 2000",
                             "file_path": "e001/c001/p013.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-13-moving-into-a-rectangular-box-and-quantum-os-2000",
-                            "word_count": 1751,
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-13-moving-into-studio-205-and-quantum-os-2000",
+                            "word_count": 1787,
                             "reading_minutes": 8,
                             "date": "2001-12-01",
                             "start_time": "16:15",
-                            "location": "Studio 2B, Emerald Creek Area of Chesapeake, Virginia",
+                            "location": "Studio 205, Harborview Towers off West Brambleton Avenue, Norfolk, Virginia",
                             "excerpt": "At midnight on November thirtieth\u2014after more than three straight months in which Tammy over at Pinecrest Court had stubbornly refused to sign the early roommate release, holding out past Thanksgiving convinced\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
-                            "image_alt": "Inside a tiny rectangular early-2000s one-person studio apartment in the Emerald Creek area of Chesapeake featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches.",
+                            "image_alt": "Inside tiny rectangular Studio 205 on the second floor of a 1965 Norfolk high-rise featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
-                                    "alt": "Inside a tiny rectangular early-2000s one-person studio apartment in the Emerald Creek area of Chesapeake featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches."
+                                    "alt": "Inside tiny rectangular Studio 205 on the second floor of a 1965 Norfolk high-rise featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches."
                                 }
                             ],
                             "image_count": 1
                         },
                         {
                             "part_num": 14,
-                            "part_title": "Part 14: Eighty-Nine Degrees and One Rattling Fan",
+                            "part_title": "Part 14: Three Buses in the Sleet, One Downtown Lab Bench, and Final Out at Twelve-Thirty",
                             "file_path": "e001/c001/p014.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-14-eighty-nine-degrees-and-one-rattling-fan",
-                            "word_count": 772,
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-14-three-buses-in-the-sleet-one-downtown-lab-bench-and-final-out-at-twelve-thirty",
+                            "word_count": 1495,
+                            "reading_minutes": 6,
+                            "date": "2002-02-12",
+                            "start_time": "19:45",
+                            "location": "Studio 205 at Harborview Towers in Norfolk & Emerald Creek Blue Tech, Virginia",
+                            "excerpt": "Freezing February sleet ticked hard against the silent window air-conditioner above our corner headboard while I wrapped both stiff, red-knuckled hands around a steaming mug of canned chicken broth to get the\u2026"
+                        },
+                        {
+                            "part_num": 15,
+                            "part_title": "Part 15: Twenty-Two Stairs to Studio 205, One Full-Sized Bed, and Zero Weirdness",
+                            "file_path": "e001/c001/p015.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-15-twenty-two-stairs-to-studio-205-one-full-sized-bed-and-zero-weirdness",
+                            "word_count": 1459,
+                            "reading_minutes": 6,
+                            "date": "2002-03-09",
+                            "start_time": "14:20",
+                            "location": "Studio 205, Harborview Towers off West Brambleton Avenue, Norfolk, Virginia",
+                            "excerpt": "Cold March rain began pelting the brick sidewalks along The Hague inlet half a block before Mallory Walsh and I reached the glass lobby doors of Harborview Towers off West Brambleton Avenue. \"So much for clear\u2026",
+                            "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_mallory_visits_studio_205.jpg",
+                            "image_alt": "Inside tiny rectangular Studio 205 on a rainy March 2002 afternoon in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_mallory_visits_studio_205.jpg",
+                                    "alt": "Inside tiny rectangular Studio 205 on a rainy March 2002 afternoon in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser."
+                                }
+                            ],
+                            "image_count": 1
+                        },
+                        {
+                            "part_num": 16,
+                            "part_title": "Part 16: Eighty-Nine Degrees and One Rattling Fan",
+                            "file_path": "e001/c001/p016.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-16-eighty-nine-degrees-and-one-rattling-fan",
+                            "word_count": 800,
                             "reading_minutes": 4,
                             "date": "2002-08-17",
                             "start_time": "15:10",
-                            "location": "Studio 2B, Emerald Creek Area of Chesapeake, Virginia",
-                            "excerpt": "By the third week of August, the small beige window air-conditioner wedged above the corner of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 2B two degrees below the\u2026"
+                            "location": "Studio 205, Harborview Towers off West Brambleton Avenue, Norfolk, Virginia",
+                            "excerpt": "By the third week of August, the small beige window air-conditioner wedged above the corner of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 205 two degrees below the\u2026"
                         }
                     ]
                 },
@@ -1454,18 +1553,18 @@
                     "chap_title": "Chapter 2: No Wheelchairs in the Star-Moss",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss",
                     "illustration_count": 2,
-                    "word_count": 2608,
+                    "word_count": 2628,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: Amber Glass Beside the Full-Sized Bed",
                             "file_path": "e001/c002/p001.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss/part-1-amber-glass-beside-the-full-sized-bed",
-                            "word_count": 1603,
+                            "word_count": 1624,
                             "reading_minutes": 7,
-                            "realm_time": "First Night of the Twin Moons \u2014 Autumn 2002, Studio 2B to Western Vaeloria",
+                            "realm_time": "First Night of the Twin Moons \u2014 Autumn 2002, Studio 205 to Western Vaeloria",
                             "start_time": "21:15",
-                            "location": "Studio 2B in Emerald Creek, Chesapeake to The Star-Moss Hollow, Vaeloria",
+                            "location": "Studio 205 at Harborview Towers in Norfolk to The Star-Moss Hollow, Vaeloria",
                             "excerpt": "October rain ticked steady against the silent window air-conditioner above our corner headboard while tinny hold music from Regional Mobility Supply warbled through the beige corded speakerphone on our\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg",
                             "image_alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) sit hugging and cuddling closely together under Grandpa Walter's green-and-navy plaid wool blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them.",
@@ -1485,12 +1584,12 @@
                             "part_title": "Part 2: Six Inches Taller and Four Crutches Strong",
                             "file_path": "e001/c002/p002.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss/part-2-six-inches-taller-and-four-crutches-strong",
-                            "word_count": 1005,
+                            "word_count": 1004,
                             "reading_minutes": 5,
                             "realm_time": "Second Dawn of the Twin Moons, The Whispering Causeway",
                             "start_time": "07:40",
                             "location": "The Whispering Quartz Causeway, Borderland of Vaeloria",
-                            "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made Studio 2B back in Emerald Creek feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz\u2026",
+                            "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made Studio 205 back in Norfolk feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz bridge\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
                             "image_alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wake curled up affectionately together on soft emerald moss under Grandpa Walter's green-and-navy plaid blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach.",
                             "images": [
@@ -1508,14 +1607,14 @@
                     "chap_title": "Chapter 3: The Three Roads of the Sunken Milestone",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone",
                     "illustration_count": 1,
-                    "word_count": 1223,
+                    "word_count": 1222,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Where the Flagstones Divide",
                             "file_path": "e001/c003/p001.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone/where-the-flagstones-divide",
-                            "word_count": 1223,
+                            "word_count": 1222,
                             "reading_minutes": 5,
                             "realm_time": "Second Afternoon of the Twin Moons, The Sunken Milestone",
                             "start_time": "15:30",
@@ -1549,7 +1648,7 @@
                 "borderland-three-roads": "lantern-barge-canal"
             },
             "part_count": 3,
-            "word_count": 2655,
+            "word_count": 2668,
             "reading_minutes": 11,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/route1_lantern_barge_canal.jpg",
             "eras": [
@@ -1558,7 +1657,7 @@
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/paths/lantern-barge-canal/book-one-beyond-the-studio-rift",
                     "illustration_count": 4,
-                    "word_count": 2655,
+                    "word_count": 2668,
                     "chapters": [
                         {
                             "chap_num": 4,
@@ -1603,14 +1702,14 @@
                             "chap_title": "Chapter 5: Keepers' Hall and the Clock at Nine-Fifteen",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/lantern-barge-canal/book-one-beyond-the-studio-rift/chapter-5-keepers-hall-and-the-clock-at-nine-fifteen",
                             "illustration_count": 3,
-                            "word_count": 1938,
+                            "word_count": 1951,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Part 1: Turning the Twin Rings and the Glowing Hearth-Archway",
                                     "file_path": "paths/lantern-barge-canal/e001/c005/p001.md",
                                     "url": "/waystation/paths/lantern-barge-canal/book-one-beyond-the-studio-rift/chapter-5-keepers-hall-and-the-clock-at-nine-fifteen/part-1-turning-the-twin-rings-and-the-glowing-hearth-archway",
-                                    "word_count": 979,
+                                    "word_count": 988,
                                     "reading_minutes": 4,
                                     "path_id": "lantern-barge-canal",
                                     "realm_time": "Third Twilight of the Twin Moons, The Uncharted Waystation",
@@ -1635,19 +1734,19 @@
                                     "part_title": "Part 2: Nine-Fifteen on the VCR Clock and Choosing Home",
                                     "file_path": "paths/lantern-barge-canal/e001/c005/p002.md",
                                     "url": "/waystation/paths/lantern-barge-canal/book-one-beyond-the-studio-rift/chapter-5-keepers-hall-and-the-clock-at-nine-fifteen/part-2-nine-fifteen-on-the-vcr-clock-and-choosing-home",
-                                    "word_count": 959,
+                                    "word_count": 963,
                                     "reading_minutes": 4,
                                     "path_id": "lantern-barge-canal",
-                                    "realm_time": "Friday, 9:15 PM in Studio 2B & Third Twilight in Keepers' Hall",
+                                    "realm_time": "Friday, 9:15 PM in Studio 205 & Third Twilight in Keepers' Hall",
                                     "start_time": "21:15",
-                                    "location": "Studio 2B in Emerald Creek, Chesapeake to Keepers' Hall, The Uncharted Waystation",
-                                    "excerpt": "Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 2B in Emerald Creek, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's Blue\u2026",
+                                    "location": "Studio 205 at Harborview Towers in Norfolk to Keepers' Hall, The Uncharted Waystation",
+                                    "excerpt": "Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 205 at Harborview Towers, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg",
-                                    "image_alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 2B in Chesapeake, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.",
+                                    "image_alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 205 in Norfolk, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg",
-                                            "alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 2B in Chesapeake, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed."
+                                            "alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 205 in Norfolk, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed."
                                         },
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_wheelchairs_home_keepers_hall.jpg",
@@ -1688,7 +1787,7 @@
                 "borderland-three-roads": "whisperwood-moss-road"
             },
             "part_count": 3,
-            "word_count": 2617,
+            "word_count": 2630,
             "reading_minutes": 11,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/route2_whisperwood_moss_road.jpg",
             "eras": [
@@ -1697,7 +1796,7 @@
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/paths/whisperwood-moss-road/book-one-beyond-the-studio-rift",
                     "illustration_count": 4,
-                    "word_count": 2617,
+                    "word_count": 2630,
                     "chapters": [
                         {
                             "chap_num": 4,
@@ -1742,14 +1841,14 @@
                             "chap_title": "Chapter 5: Keepers' Hall and the Clock at Nine-Fifteen",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/whisperwood-moss-road/book-one-beyond-the-studio-rift/chapter-5-keepers-hall-and-the-clock-at-nine-fifteen",
                             "illustration_count": 3,
-                            "word_count": 1937,
+                            "word_count": 1950,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Part 1: Turning the Twin Rings and the Glowing Hearth-Archway",
                                     "file_path": "paths/whisperwood-moss-road/e001/c005/p001.md",
                                     "url": "/waystation/paths/whisperwood-moss-road/book-one-beyond-the-studio-rift/chapter-5-keepers-hall-and-the-clock-at-nine-fifteen/part-1-turning-the-twin-rings-and-the-glowing-hearth-archway",
-                                    "word_count": 963,
+                                    "word_count": 972,
                                     "reading_minutes": 4,
                                     "path_id": "whisperwood-moss-road",
                                     "realm_time": "Third Twilight of the Twin Moons, The Uncharted Waystation",
@@ -1774,19 +1873,19 @@
                                     "part_title": "Part 2: Nine-Fifteen on the VCR Clock and Choosing Home",
                                     "file_path": "paths/whisperwood-moss-road/e001/c005/p002.md",
                                     "url": "/waystation/paths/whisperwood-moss-road/book-one-beyond-the-studio-rift/chapter-5-keepers-hall-and-the-clock-at-nine-fifteen/part-2-nine-fifteen-on-the-vcr-clock-and-choosing-home",
-                                    "word_count": 974,
+                                    "word_count": 978,
                                     "reading_minutes": 4,
                                     "path_id": "whisperwood-moss-road",
-                                    "realm_time": "Friday, 9:15 PM in Studio 2B & Third Twilight in Keepers' Hall",
+                                    "realm_time": "Friday, 9:15 PM in Studio 205 & Third Twilight in Keepers' Hall",
                                     "start_time": "21:15",
-                                    "location": "Studio 2B in Emerald Creek, Chesapeake to Keepers' Hall, The Uncharted Waystation",
-                                    "excerpt": "Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 2B in Emerald Creek, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's Blue\u2026",
+                                    "location": "Studio 205 at Harborview Towers in Norfolk to Keepers' Hall, The Uncharted Waystation",
+                                    "excerpt": "Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 205 at Harborview Towers, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg",
-                                    "image_alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 2B in Chesapeake, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.",
+                                    "image_alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 205 in Norfolk, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg",
-                                            "alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 2B in Chesapeake, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed."
+                                            "alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 205 in Norfolk, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed."
                                         },
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_wheelchairs_home_keepers_hall.jpg",
@@ -1827,7 +1926,7 @@
                 "borderland-three-roads": "brass-counterweight-way"
             },
             "part_count": 3,
-            "word_count": 2677,
+            "word_count": 2689,
             "reading_minutes": 11,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/route3_brass_counterweight_way.jpg",
             "eras": [
@@ -1836,21 +1935,21 @@
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/paths/brass-counterweight-way/book-one-beyond-the-studio-rift",
                     "illustration_count": 4,
-                    "word_count": 2677,
+                    "word_count": 2689,
                     "chapters": [
                         {
                             "chap_num": 4,
                             "chap_title": "Chapter 4: Above the Painted Clouds",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/brass-counterweight-way/book-one-beyond-the-studio-rift/chapter-4-above-the-painted-clouds",
                             "illustration_count": 1,
-                            "word_count": 747,
+                            "word_count": 746,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Gondolas of the Amber Crags",
                                     "file_path": "paths/brass-counterweight-way/e001/c004/p001.md",
                                     "url": "/waystation/paths/brass-counterweight-way/book-one-beyond-the-studio-rift/chapter-4-above-the-painted-clouds/gondolas-of-the-amber-crags",
-                                    "word_count": 747,
+                                    "word_count": 746,
                                     "reading_minutes": 3,
                                     "path_id": "brass-counterweight-way",
                                     "realm_time": "Second Sunset of the Twin Moons, The Amber Crags",
@@ -1881,14 +1980,14 @@
                             "chap_title": "Chapter 5: Keepers' Hall and the Clock at Nine-Fifteen",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/brass-counterweight-way/book-one-beyond-the-studio-rift/chapter-5-keepers-hall-and-the-clock-at-nine-fifteen",
                             "illustration_count": 3,
-                            "word_count": 1930,
+                            "word_count": 1943,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Part 1: Turning the Twin Rings and the Glowing Hearth-Archway",
                                     "file_path": "paths/brass-counterweight-way/e001/c005/p001.md",
                                     "url": "/waystation/paths/brass-counterweight-way/book-one-beyond-the-studio-rift/chapter-5-keepers-hall-and-the-clock-at-nine-fifteen/part-1-turning-the-twin-rings-and-the-glowing-hearth-archway",
-                                    "word_count": 968,
+                                    "word_count": 977,
                                     "reading_minutes": 4,
                                     "path_id": "brass-counterweight-way",
                                     "realm_time": "Third Twilight of the Twin Moons, The Uncharted Waystation",
@@ -1913,19 +2012,19 @@
                                     "part_title": "Part 2: Nine-Fifteen on the VCR Clock and Choosing Home",
                                     "file_path": "paths/brass-counterweight-way/e001/c005/p002.md",
                                     "url": "/waystation/paths/brass-counterweight-way/book-one-beyond-the-studio-rift/chapter-5-keepers-hall-and-the-clock-at-nine-fifteen/part-2-nine-fifteen-on-the-vcr-clock-and-choosing-home",
-                                    "word_count": 962,
+                                    "word_count": 966,
                                     "reading_minutes": 4,
                                     "path_id": "brass-counterweight-way",
-                                    "realm_time": "Friday, 9:15 PM in Studio 2B & Third Twilight in Keepers' Hall",
+                                    "realm_time": "Friday, 9:15 PM in Studio 205 & Third Twilight in Keepers' Hall",
                                     "start_time": "21:15",
-                                    "location": "Studio 2B in Emerald Creek, Chesapeake to Keepers' Hall, The Uncharted Waystation",
-                                    "excerpt": "Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 2B in Emerald Creek, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's Blue\u2026",
+                                    "location": "Studio 205 at Harborview Towers in Norfolk to Keepers' Hall, The Uncharted Waystation",
+                                    "excerpt": "Stepping hand in hand with Nolan through the amber archway back onto the scuffed wood strip of Studio 205 at Harborview Towers, I braced myself for stale weekend air, a blinking red voicemail light from Nolan's\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg",
-                                    "image_alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 2B in Chesapeake, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.",
+                                    "image_alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 205 in Norfolk, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_nine_fifteen_studio_return.jpg",
-                                            "alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 2B in Chesapeake, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed."
+                                            "alt": "Stepping out of a glowing golden-amber stained-glass archway back into their rainy-night Studio 205 in Norfolk, barefoot nineteen-year-old Gwen Lennox (6-foot-1) hugs her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7, with Grandpa Walter's plaid wool blanket over his shoulder) and points in amazed joy toward the glowing green 9:15 LED clock on their brushed-silver VCR and DVD combo unit beneath the rabbit-ear television, with their four single-tube Lofstrand forearm crutches leaning cleanly beside the corner bed."
                                         },
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c005_p002_wheelchairs_home_keepers_hall.jpg",
