@@ -8,18 +8,18 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/waystation.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "11.4 MB",
-        "pdf": "12.1 MB",
+        "epub": "11.7 MB",
+        "pdf": "12.4 MB",
         "text_epub": "172 KB",
         "text_pdf": "433 KB",
         "package_7z": "119 KB",
-        "epub_bytes": 11992048,
-        "pdf_bytes": 12657566,
+        "epub_bytes": 12297531,
+        "pdf_bytes": 12963537,
         "text_epub_bytes": 175852,
         "text_pdf_bytes": 443353,
-        "package_7z_bytes": 121588
+        "package_7z_bytes": 121724
     },
-    "illustration_count": 34,
+    "illustration_count": 35,
     "word_stats": {
         "story_word_count": 58307,
         "lore_word_count": 6526,
@@ -35,7 +35,7 @@
         "era_count": 1,
         "chapter_count": 12,
         "part_count": 39,
-        "illustration_count": 34,
+        "illustration_count": 35,
         "story_arc_count": 0
     },
     "story_arcs": [],
@@ -44,14 +44,14 @@
             "era_num": 1,
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-            "illustration_count": 14,
+            "illustration_count": 15,
             "word_count": 38839,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                    "illustration_count": 11,
+                    "illustration_count": 12,
                     "word_count": 34989,
                     "parts": [
                         {
@@ -207,14 +207,18 @@
                             "location": "Pinecrest Trailer Park off Route 13 in Chesapeake to the 1961 Norfolk Pathfinder Terminal on Monticello Avenue",
                             "excerpt": "By eight-thirty on Tuesday morning inside Tammy's stifling, un-air-conditioned single-wide trailer at Pinecrest Court, we had already fought twice before coffee\u2014once because my manual wheelchair tire left a damp\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p009_norfolk_pathfinder_ticket_line.jpg",
-                            "image_alt": "Inside the recessed steel coin-locker and payphone vestibule alcove leading to the separate MEN and WOMEN restrooms of the 1961 mid-century Norfolk Pathfinder Terminal on Monticello Avenue (with its round outdoor concrete mushroom corner canopy and two uniformed security guards by the vending machines blocked from sight behind the thick concrete column), petite five-foot-tall Tammy stands directly in front of twenty-three-year-old Nolan Lennox's manual wheelchair (matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) holding the unzipped panels of her pastel baby-blue fleece cardigan open like side blinders over her white ribbed shelf-bra camisole right before making her last-ditch pitch.",
+                            "image_alt": "Inside the fluorescent-lit waiting room of the Norfolk Pathfinder Terminal on Tuesday morning, August 21, 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee, battered olive duffel across his lap) sits tensely in his manual wheelchair beside a concrete pillar with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest while petite five-foot-tall Tammy strides toward the plexiglass walk-up ticket counter with a rolling suitcase and an envelope of cash.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p009_norfolk_pathfinder_ticket_line.jpg",
-                                    "alt": "Inside the recessed steel coin-locker and payphone vestibule alcove leading to the separate MEN and WOMEN restrooms of the 1961 mid-century Norfolk Pathfinder Terminal on Monticello Avenue (with its round outdoor concrete mushroom corner canopy and two uniformed security guards by the vending machines blocked from sight behind the thick concrete column), petite five-foot-tall Tammy stands directly in front of twenty-three-year-old Nolan Lennox's manual wheelchair (matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) holding the unzipped panels of her pastel baby-blue fleece cardigan open like side blinders over her white ribbed shelf-bra camisole right before making her last-ditch pitch."
+                                    "alt": "Inside the fluorescent-lit waiting room of the Norfolk Pathfinder Terminal on Tuesday morning, August 21, 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee, battered olive duffel across his lap) sits tensely in his manual wheelchair beside a concrete pillar with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest while petite five-foot-tall Tammy strides toward the plexiglass walk-up ticket counter with a rolling suitcase and an envelope of cash."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p009_norfolk_alcove_sightline.jpg",
+                                    "alt": "Inside the recessed steel coin-locker and payphone vestibule alcove leading to the separate MEN and WOMEN restrooms of the 1961 mid-century Norfolk Pathfinder Terminal on the seven-hundred block of Monticello Avenue\u2014with the outdoor concrete mushroom corner canopy and two uniformed security guards by the vending machines blocked behind the thick concrete column\u2014petite five-foot-tall Tammy stands directly in front of twenty-three-year-old Nolan Lennox's manual wheelchair holding the unzipped panels of her pastel baby-blue fleece cardigan open like side blinders over her white ribbed shelf-bra camisole right before lifting her shirt"
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         },
                         {
                             "part_num": 10,
@@ -623,14 +627,14 @@
                     "era_num": 1,
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-                    "illustration_count": 6,
+                    "illustration_count": 7,
                     "word_count": 17818,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                            "illustration_count": 6,
+                            "illustration_count": 7,
                             "word_count": 17818,
                             "parts": [
                                 {
@@ -786,14 +790,18 @@
                                     "location": "Pinecrest Trailer Park off Route 13 in Chesapeake to the 1961 Norfolk Pathfinder Terminal on Monticello Avenue",
                                     "excerpt": "By eight-thirty on Tuesday morning inside Tammy's stifling, un-air-conditioned single-wide trailer at Pinecrest Court, we had already fought twice before coffee\u2014once because my manual wheelchair tire left a damp\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p009_norfolk_pathfinder_ticket_line.jpg",
-                                    "image_alt": "Inside the recessed steel coin-locker and payphone vestibule alcove leading to the separate MEN and WOMEN restrooms of the 1961 mid-century Norfolk Pathfinder Terminal on Monticello Avenue (with its round outdoor concrete mushroom corner canopy and two uniformed security guards by the vending machines blocked from sight behind the thick concrete column), petite five-foot-tall Tammy stands directly in front of twenty-three-year-old Nolan Lennox's manual wheelchair (matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) holding the unzipped panels of her pastel baby-blue fleece cardigan open like side blinders over her white ribbed shelf-bra camisole right before making her last-ditch pitch.",
+                                    "image_alt": "Inside the fluorescent-lit waiting room of the Norfolk Pathfinder Terminal on Tuesday morning, August 21, 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee, battered olive duffel across his lap) sits tensely in his manual wheelchair beside a concrete pillar with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest while petite five-foot-tall Tammy strides toward the plexiglass walk-up ticket counter with a rolling suitcase and an envelope of cash.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p009_norfolk_pathfinder_ticket_line.jpg",
-                                            "alt": "Inside the recessed steel coin-locker and payphone vestibule alcove leading to the separate MEN and WOMEN restrooms of the 1961 mid-century Norfolk Pathfinder Terminal on Monticello Avenue (with its round outdoor concrete mushroom corner canopy and two uniformed security guards by the vending machines blocked from sight behind the thick concrete column), petite five-foot-tall Tammy stands directly in front of twenty-three-year-old Nolan Lennox's manual wheelchair (matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) holding the unzipped panels of her pastel baby-blue fleece cardigan open like side blinders over her white ribbed shelf-bra camisole right before making her last-ditch pitch."
+                                            "alt": "Inside the fluorescent-lit waiting room of the Norfolk Pathfinder Terminal on Tuesday morning, August 21, 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee, battered olive duffel across his lap) sits tensely in his manual wheelchair beside a concrete pillar with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest while petite five-foot-tall Tammy strides toward the plexiglass walk-up ticket counter with a rolling suitcase and an envelope of cash."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p009_norfolk_alcove_sightline.jpg",
+                                            "alt": "Inside the recessed steel coin-locker and payphone vestibule alcove leading to the separate MEN and WOMEN restrooms of the 1961 mid-century Norfolk Pathfinder Terminal on the seven-hundred block of Monticello Avenue\u2014with the outdoor concrete mushroom corner canopy and two uniformed security guards by the vending machines blocked behind the thick concrete column\u2014petite five-foot-tall Tammy stands directly in front of twenty-three-year-old Nolan Lennox's manual wheelchair holding the unzipped panels of her pastel baby-blue fleece cardigan open like side blinders over her white ribbed shelf-bra camisole right before lifting her shirt"
                                         }
                                     ],
-                                    "image_count": 1
+                                    "image_count": 2
                                 }
                             ]
                         }
@@ -2057,14 +2065,14 @@
             "era_num": 1,
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-            "illustration_count": 6,
+            "illustration_count": 7,
             "word_count": 17818,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                    "illustration_count": 6,
+                    "illustration_count": 7,
                     "word_count": 17818,
                     "parts": [
                         {
@@ -2220,14 +2228,18 @@
                             "location": "Pinecrest Trailer Park off Route 13 in Chesapeake to the 1961 Norfolk Pathfinder Terminal on Monticello Avenue",
                             "excerpt": "By eight-thirty on Tuesday morning inside Tammy's stifling, un-air-conditioned single-wide trailer at Pinecrest Court, we had already fought twice before coffee\u2014once because my manual wheelchair tire left a damp\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p009_norfolk_pathfinder_ticket_line.jpg",
-                            "image_alt": "Inside the recessed steel coin-locker and payphone vestibule alcove leading to the separate MEN and WOMEN restrooms of the 1961 mid-century Norfolk Pathfinder Terminal on Monticello Avenue (with its round outdoor concrete mushroom corner canopy and two uniformed security guards by the vending machines blocked from sight behind the thick concrete column), petite five-foot-tall Tammy stands directly in front of twenty-three-year-old Nolan Lennox's manual wheelchair (matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) holding the unzipped panels of her pastel baby-blue fleece cardigan open like side blinders over her white ribbed shelf-bra camisole right before making her last-ditch pitch.",
+                            "image_alt": "Inside the fluorescent-lit waiting room of the Norfolk Pathfinder Terminal on Tuesday morning, August 21, 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee, battered olive duffel across his lap) sits tensely in his manual wheelchair beside a concrete pillar with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest while petite five-foot-tall Tammy strides toward the plexiglass walk-up ticket counter with a rolling suitcase and an envelope of cash.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p009_norfolk_pathfinder_ticket_line.jpg",
-                                    "alt": "Inside the recessed steel coin-locker and payphone vestibule alcove leading to the separate MEN and WOMEN restrooms of the 1961 mid-century Norfolk Pathfinder Terminal on Monticello Avenue (with its round outdoor concrete mushroom corner canopy and two uniformed security guards by the vending machines blocked from sight behind the thick concrete column), petite five-foot-tall Tammy stands directly in front of twenty-three-year-old Nolan Lennox's manual wheelchair (matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) holding the unzipped panels of her pastel baby-blue fleece cardigan open like side blinders over her white ribbed shelf-bra camisole right before making her last-ditch pitch."
+                                    "alt": "Inside the fluorescent-lit waiting room of the Norfolk Pathfinder Terminal on Tuesday morning, August 21, 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee, battered olive duffel across his lap) sits tensely in his manual wheelchair beside a concrete pillar with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest while petite five-foot-tall Tammy strides toward the plexiglass walk-up ticket counter with a rolling suitcase and an envelope of cash."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p009_norfolk_alcove_sightline.jpg",
+                                    "alt": "Inside the recessed steel coin-locker and payphone vestibule alcove leading to the separate MEN and WOMEN restrooms of the 1961 mid-century Norfolk Pathfinder Terminal on the seven-hundred block of Monticello Avenue\u2014with the outdoor concrete mushroom corner canopy and two uniformed security guards by the vending machines blocked behind the thick concrete column\u2014petite five-foot-tall Tammy stands directly in front of twenty-three-year-old Nolan Lennox's manual wheelchair holding the unzipped panels of her pastel baby-blue fleece cardigan open like side blinders over her white ribbed shelf-bra camisole right before lifting her shirt"
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         }
                     ]
                 }
