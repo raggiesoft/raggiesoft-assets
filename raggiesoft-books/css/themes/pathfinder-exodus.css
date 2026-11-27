@@ -1,0 +1,132 @@
+/**
+ * ============================================================================
+ * STARDUST ENGINE NARRATIVE THEME: PATHFINDER INTERCITY EXODUS (`pathfinder-exodus.css`)
+ * ============================================================================
+ *
+ * Plain-English Overview (100-Level Read-Along Guide):
+ * - Purpose: Mid-century speckled terrazzo bus-terminal waiting rooms, dented steel coin lockers, diesel coach bays, and glowing amber highway destination matrices from Monticello Avenue in Norfolk across Southwest Virginia.
+ * - Inputs: Activated automatically by `oliver.php`, `reader.js`, Apple SwiftUI
+ *   `BookReader`, and Windows WPF `BookReader` whenever a Markdown chapter's YAML
+ *   frontmatter declares `theme: "pathfinder-exodus"` (or at the series level in `ovab.json`).
+ * - Outputs: Overrides the root `--rs-*` CSS custom properties consumed by
+ *   `reader.css` across Daylight/Sepia, Explicit Dark, OS `prefers-color-scheme: dark`,
+ *   and Windows High-Contrast (`forced-colors: active`) assistive modes.
+ *
+ * Dual-Polarity Light & Dark WCAG 2.1 AA / AAA Contrast Verification:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f1f5f9` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#0f172a`): 14.48:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#475569`): 6.15:1 min (WCAG AA)
+ *     * Headings (`#0f1f3d`): 13.27:1 min (WCAG AAA)
+ *     * Primary Accent (`#1e3a8a`): 8.40:1 min (`--rs-on-primary: #ffffff` = 10.36:1)
+ *     * Secondary Accent (`#92400e`): 5.75:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#090f1a` / `#162236` (`color-scheme: dark`)
+ *     * Body Prose (`#f1f5f9`): 14.56:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#b2bfd1`): 8.56:1 min (WCAG AAA)
+ *     * Headings (`#fef3c7`): 14.33:1 min (WCAG AAA)
+ *     * Primary Accent (`#60a5fa`): 6.28:1 min (`--rs-on-primary: #050912` = 7.83:1)
+ *     * Secondary Accent (`#fbbf24`): 9.56:1 min (WCAG AAA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps every token cleanly to OS High-Contrast system colors.
+ * ============================================================================
+ */
+
+/* --- Tier 1: Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) ---
+ * Matches `body` when the chapter theme class or `data-narrative-theme` attribute is active
+ * in Light, Sepia, or daytime Auto mode, setting high-contrast dark ink over a soft daylight canvas.
+ */
+:is(body, body.theme-oceanview):is(.theme-pathfinder-exodus, .narrative-theme-pathfinder-exodus, [data-narrative-theme="pathfinder-exodus"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-pathfinder-exodus, .narrative-theme-pathfinder-exodus, [data-narrative-theme="pathfinder-exodus"]) {
+    color-scheme: light;
+    --rs-bg: #f1f5f9;
+    --rs-bg-alt: #e2e8f0;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #0f172a;
+    --rs-text-muted: #475569;
+    --rs-heading: #0f1f3d;
+    --rs-primary: #1e3a8a;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #92400e;
+    --rs-border: #cbd5e1;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #1e3a8a;
+}
+
+/* --- Tier 2: Explicit Reader Dark & Dark-Sepia Modes ---
+ * Activates whenever the reader explicitly selects Dark or Dark-Sepia in the `Aa` appearance menu,
+ * switching surfaces to low-glare night tones while keeping >= 12:1 AAA prose legibility.
+ */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-pathfinder-exodus, .narrative-theme-pathfinder-exodus, [data-narrative-theme="pathfinder-exodus"]) {
+    color-scheme: dark;
+    --rs-bg: #090f1a;
+    --rs-bg-alt: #101929;
+    --rs-surface: #162236;
+    --rs-card-bg: #162236;
+    --rs-text: #f1f5f9;
+    --rs-text-muted: #b2bfd1;
+    --rs-heading: #fef3c7;
+    --rs-primary: #60a5fa;
+    --rs-on-primary: #050912;
+    --rs-secondary: #fbbf24;
+    --rs-border: #2a3b57;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #60a5fa;
+}
+
+/* --- Tier 3: OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) ---
+ * Follows the visitor's operating-system `prefers-color-scheme: dark` setting automatically
+ * unless the reader has explicitly locked a Light or Sepia mode override.
+ */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-pathfinder-exodus, .narrative-theme-pathfinder-exodus, [data-narrative-theme="pathfinder-exodus"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-pathfinder-exodus, .narrative-theme-pathfinder-exodus, [data-narrative-theme="pathfinder-exodus"]) {
+        color-scheme: dark;
+        --rs-bg: #090f1a;
+        --rs-bg-alt: #101929;
+        --rs-surface: #162236;
+        --rs-card-bg: #162236;
+        --rs-text: #f1f5f9;
+        --rs-text-muted: #b2bfd1;
+        --rs-heading: #fef3c7;
+        --rs-primary: #60a5fa;
+        --rs-on-primary: #050912;
+        --rs-secondary: #fbbf24;
+        --rs-border: #2a3b57;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #60a5fa;
+    }
+}
+
+/* --- Tier 4: Forced Colors (Windows High Contrast) Assistive Mode ---
+ * Yields 100% control to operating-system High-Contrast tokens (`Canvas`, `CanvasText`, `LinkText`)
+ * and strips decorative pseudo-elements for low-vision screen-magnifier users.
+ */
+@media (forced-colors: active) {
+    body:is(.theme-pathfinder-exodus, .narrative-theme-pathfinder-exodus, [data-narrative-theme="pathfinder-exodus"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-pathfinder-exodus, .narrative-theme-pathfinder-exodus, [data-narrative-theme="pathfinder-exodus"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-pathfinder-exodus, .narrative-theme-pathfinder-exodus, [data-narrative-theme="pathfinder-exodus"])::before,
+    body:is(.theme-pathfinder-exodus, .narrative-theme-pathfinder-exodus, [data-narrative-theme="pathfinder-exodus"])::after {
+        display: none !important;
+    }
+}

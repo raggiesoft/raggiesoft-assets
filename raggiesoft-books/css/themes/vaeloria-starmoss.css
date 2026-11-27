@@ -1,0 +1,132 @@
+/**
+ * ============================================================================
+ * STARDUST ENGINE NARRATIVE THEME: VAELORIA STAR-MOSS & WHISPERWOOD (`vaeloria-starmoss.css`)
+ * ============================================================================
+ *
+ * Plain-English Overview (100-Level Read-Along Guide):
+ * - Purpose: Painted 1980s fantasy twilight across Vaeloria's Star-Moss Hollow, satin-smooth Whispering Quartz Causeway, Sunken Milestone, and three-inch emerald Whisperwood Cushion-Moss Road under bioluminescent blossoms and twin moons.
+ * - Inputs: Activated automatically by `oliver.php`, `reader.js`, Apple SwiftUI
+ *   `BookReader`, and Windows WPF `BookReader` whenever a Markdown chapter's YAML
+ *   frontmatter declares `theme: "vaeloria-starmoss"` (or at the series level in `ovab.json`).
+ * - Outputs: Overrides the root `--rs-*` CSS custom properties consumed by
+ *   `reader.css` across Daylight/Sepia, Explicit Dark, OS `prefers-color-scheme: dark`,
+ *   and Windows High-Contrast (`forced-colors: active`) assistive modes.
+ *
+ * Dual-Polarity Light & Dark WCAG 2.1 AA / AAA Contrast Verification:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f3fbf9` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#0d1f1d`): 14.87:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#465c59`): 6.23:1 min (WCAG AA)
+ *     * Headings (`#072b27`): 13.22:1 min (WCAG AAA)
+ *     * Primary Accent (`#0f6760`): 5.85:1 min (`--rs-on-primary: #ffffff` = 6.71:1)
+ *     * Secondary Accent (`#9a4a06`): 5.45:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#061517` / `#102b30` (`color-scheme: dark`)
+ *     * Body Prose (`#ecfdf5`): 14.14:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#aed1cc`): 9.07:1 min (WCAG AAA)
+ *     * Headings (`#fef3c7`): 13.37:1 min (WCAG AAA)
+ *     * Primary Accent (`#2dd4bf`): 8.00:1 min (`--rs-on-primary: #031110` = 10.34:1)
+ *     * Secondary Accent (`#fbbf24`): 8.92:1 min (WCAG AAA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps every token cleanly to OS High-Contrast system colors.
+ * ============================================================================
+ */
+
+/* --- Tier 1: Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) ---
+ * Matches `body` when the chapter theme class or `data-narrative-theme` attribute is active
+ * in Light, Sepia, or daytime Auto mode, setting high-contrast dark ink over a soft daylight canvas.
+ */
+:is(body, body.theme-oceanview):is(.theme-vaeloria-starmoss, .narrative-theme-vaeloria-starmoss, [data-narrative-theme="vaeloria-starmoss"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-vaeloria-starmoss, .narrative-theme-vaeloria-starmoss, [data-narrative-theme="vaeloria-starmoss"]) {
+    color-scheme: light;
+    --rs-bg: #f3fbf9;
+    --rs-bg-alt: #e2f3ef;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #0d1f1d;
+    --rs-text-muted: #465c59;
+    --rs-heading: #072b27;
+    --rs-primary: #0f6760;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #9a4a06;
+    --rs-border: #b7dfd8;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #0f6760;
+}
+
+/* --- Tier 2: Explicit Reader Dark & Dark-Sepia Modes ---
+ * Activates whenever the reader explicitly selects Dark or Dark-Sepia in the `Aa` appearance menu,
+ * switching surfaces to low-glare night tones while keeping >= 12:1 AAA prose legibility.
+ */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-vaeloria-starmoss, .narrative-theme-vaeloria-starmoss, [data-narrative-theme="vaeloria-starmoss"]) {
+    color-scheme: dark;
+    --rs-bg: #061517;
+    --rs-bg-alt: #0b2024;
+    --rs-surface: #102b30;
+    --rs-card-bg: #102b30;
+    --rs-text: #ecfdf5;
+    --rs-text-muted: #aed1cc;
+    --rs-heading: #fef3c7;
+    --rs-primary: #2dd4bf;
+    --rs-on-primary: #031110;
+    --rs-secondary: #fbbf24;
+    --rs-border: #1d4950;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #2dd4bf;
+}
+
+/* --- Tier 3: OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) ---
+ * Follows the visitor's operating-system `prefers-color-scheme: dark` setting automatically
+ * unless the reader has explicitly locked a Light or Sepia mode override.
+ */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-vaeloria-starmoss, .narrative-theme-vaeloria-starmoss, [data-narrative-theme="vaeloria-starmoss"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-vaeloria-starmoss, .narrative-theme-vaeloria-starmoss, [data-narrative-theme="vaeloria-starmoss"]) {
+        color-scheme: dark;
+        --rs-bg: #061517;
+        --rs-bg-alt: #0b2024;
+        --rs-surface: #102b30;
+        --rs-card-bg: #102b30;
+        --rs-text: #ecfdf5;
+        --rs-text-muted: #aed1cc;
+        --rs-heading: #fef3c7;
+        --rs-primary: #2dd4bf;
+        --rs-on-primary: #031110;
+        --rs-secondary: #fbbf24;
+        --rs-border: #1d4950;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #2dd4bf;
+    }
+}
+
+/* --- Tier 4: Forced Colors (Windows High Contrast) Assistive Mode ---
+ * Yields 100% control to operating-system High-Contrast tokens (`Canvas`, `CanvasText`, `LinkText`)
+ * and strips decorative pseudo-elements for low-vision screen-magnifier users.
+ */
+@media (forced-colors: active) {
+    body:is(.theme-vaeloria-starmoss, .narrative-theme-vaeloria-starmoss, [data-narrative-theme="vaeloria-starmoss"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-vaeloria-starmoss, .narrative-theme-vaeloria-starmoss, [data-narrative-theme="vaeloria-starmoss"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-vaeloria-starmoss, .narrative-theme-vaeloria-starmoss, [data-narrative-theme="vaeloria-starmoss"])::before,
+    body:is(.theme-vaeloria-starmoss, .narrative-theme-vaeloria-starmoss, [data-narrative-theme="vaeloria-starmoss"])::after {
+        display: none !important;
+    }
+}

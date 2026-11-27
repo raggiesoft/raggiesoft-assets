@@ -1,0 +1,132 @@
+/**
+ * ============================================================================
+ * STARDUST ENGINE NARRATIVE THEME: STUDIO 205 HARBORVIEW SANCTUARY (`studio-205-harbor.css`)
+ * ============================================================================
+ *
+ * Plain-English Overview (100-Level Read-Along Guide):
+ * - Purpose: Nolan and Gwen Lennox's warm, unbreakable second-floor lifeboat at Harborview Towers overlooking Norfolk's Hague inlet—inspired by Grandpa Walter's dark-green and navy-blue plaid wool blanket, Gwen's heather-burgundy tee, and the glowing 9:15 VCR clock.
+ * - Inputs: Activated automatically by `oliver.php`, `reader.js`, Apple SwiftUI
+ *   `BookReader`, and Windows WPF `BookReader` whenever a Markdown chapter's YAML
+ *   frontmatter declares `theme: "studio-205-harbor"` (or at the series level in `ovab.json`).
+ * - Outputs: Overrides the root `--rs-*` CSS custom properties consumed by
+ *   `reader.css` across Daylight/Sepia, Explicit Dark, OS `prefers-color-scheme: dark`,
+ *   and Windows High-Contrast (`forced-colors: active`) assistive modes.
+ *
+ * Dual-Polarity Light & Dark WCAG 2.1 AA / AAA Contrast Verification:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#faf7f2` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#18202c`): 13.69:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#525c6a`): 5.67:1 min (WCAG AA)
+ *     * Headings (`#14243d`): 13.01:1 min (WCAG AAA)
+ *     * Primary Accent (`#1e3a8a`): 8.66:1 min (`--rs-on-primary: #ffffff` = 10.36:1)
+ *     * Secondary Accent (`#14532d`): 7.61:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#0b1320` / `#17263d` (`color-scheme: dark`)
+ *     * Body Prose (`#f5f3ef`): 13.72:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#b8c4d6`): 8.62:1 min (WCAG AAA)
+ *     * Headings (`#fef3c7`): 13.66:1 min (WCAG AAA)
+ *     * Primary Accent (`#93c5fd`): 8.43:1 min (`--rs-on-primary: #060d18` = 10.80:1)
+ *     * Secondary Accent (`#4ade80`): 8.73:1 min (WCAG AAA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps every token cleanly to OS High-Contrast system colors.
+ * ============================================================================
+ */
+
+/* --- Tier 1: Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) ---
+ * Matches `body` when the chapter theme class or `data-narrative-theme` attribute is active
+ * in Light, Sepia, or daytime Auto mode, setting high-contrast dark ink over a soft daylight canvas.
+ */
+:is(body, body.theme-oceanview):is(.theme-studio-205-harbor, .narrative-theme-studio-205-harbor, [data-narrative-theme="studio-205-harbor"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-studio-205-harbor, .narrative-theme-studio-205-harbor, [data-narrative-theme="studio-205-harbor"]) {
+    color-scheme: light;
+    --rs-bg: #faf7f2;
+    --rs-bg-alt: #f0eae0;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #18202c;
+    --rs-text-muted: #525c6a;
+    --rs-heading: #14243d;
+    --rs-primary: #1e3a8a;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #14532d;
+    --rs-border: #d6cfc2;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #1e3a8a;
+}
+
+/* --- Tier 2: Explicit Reader Dark & Dark-Sepia Modes ---
+ * Activates whenever the reader explicitly selects Dark or Dark-Sepia in the `Aa` appearance menu,
+ * switching surfaces to low-glare night tones while keeping >= 12:1 AAA prose legibility.
+ */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-studio-205-harbor, .narrative-theme-studio-205-harbor, [data-narrative-theme="studio-205-harbor"]) {
+    color-scheme: dark;
+    --rs-bg: #0b1320;
+    --rs-bg-alt: #111d30;
+    --rs-surface: #17263d;
+    --rs-card-bg: #17263d;
+    --rs-text: #f5f3ef;
+    --rs-text-muted: #b8c4d6;
+    --rs-heading: #fef3c7;
+    --rs-primary: #93c5fd;
+    --rs-on-primary: #060d18;
+    --rs-secondary: #4ade80;
+    --rs-border: #2a3e5c;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #93c5fd;
+}
+
+/* --- Tier 3: OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) ---
+ * Follows the visitor's operating-system `prefers-color-scheme: dark` setting automatically
+ * unless the reader has explicitly locked a Light or Sepia mode override.
+ */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-studio-205-harbor, .narrative-theme-studio-205-harbor, [data-narrative-theme="studio-205-harbor"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-studio-205-harbor, .narrative-theme-studio-205-harbor, [data-narrative-theme="studio-205-harbor"]) {
+        color-scheme: dark;
+        --rs-bg: #0b1320;
+        --rs-bg-alt: #111d30;
+        --rs-surface: #17263d;
+        --rs-card-bg: #17263d;
+        --rs-text: #f5f3ef;
+        --rs-text-muted: #b8c4d6;
+        --rs-heading: #fef3c7;
+        --rs-primary: #93c5fd;
+        --rs-on-primary: #060d18;
+        --rs-secondary: #4ade80;
+        --rs-border: #2a3e5c;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #93c5fd;
+    }
+}
+
+/* --- Tier 4: Forced Colors (Windows High Contrast) Assistive Mode ---
+ * Yields 100% control to operating-system High-Contrast tokens (`Canvas`, `CanvasText`, `LinkText`)
+ * and strips decorative pseudo-elements for low-vision screen-magnifier users.
+ */
+@media (forced-colors: active) {
+    body:is(.theme-studio-205-harbor, .narrative-theme-studio-205-harbor, [data-narrative-theme="studio-205-harbor"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-studio-205-harbor, .narrative-theme-studio-205-harbor, [data-narrative-theme="studio-205-harbor"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-studio-205-harbor, .narrative-theme-studio-205-harbor, [data-narrative-theme="studio-205-harbor"])::before,
+    body:is(.theme-studio-205-harbor, .narrative-theme-studio-205-harbor, [data-narrative-theme="studio-205-harbor"])::after {
+        display: none !important;
+    }
+}

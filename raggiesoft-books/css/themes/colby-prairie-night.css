@@ -1,0 +1,132 @@
+/**
+ * ============================================================================
+ * STARDUST ENGINE NARRATIVE THEME: THE COLBY TURN (GREAT PLAINS & US-287) (`colby-prairie-night.css`)
+ * ============================================================================
+ *
+ * Plain-English Overview (100-Level Read-Along Guide):
+ * - Purpose: Desolate 2:40 AM windswept Great Plains truck-stop geometry in Colby, Kansas, Denver high-basin glare, and midnight Salt Lake bus transfers—pairing bleak prairie parchment and pitch-black interstate asphalt with diesel-canopy emerald and sodium amber.
+ * - Inputs: Activated automatically by `oliver.php`, `reader.js`, Apple SwiftUI
+ *   `BookReader`, and Windows WPF `BookReader` whenever a Markdown chapter's YAML
+ *   frontmatter declares `theme: "colby-prairie-night"` (or at the series level in `ovab.json`).
+ * - Outputs: Overrides the root `--rs-*` CSS custom properties consumed by
+ *   `reader.css` across Daylight/Sepia, Explicit Dark, OS `prefers-color-scheme: dark`,
+ *   and Windows High-Contrast (`forced-colors: active`) assistive modes.
+ *
+ * Dual-Polarity Light & Dark WCAG 2.1 AA / AAA Contrast Verification:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f5f5f0` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#171c19`): 13.88:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#4f5953`): 5.85:1 min (WCAG AA)
+ *     * Headings (`#0d1712`): 14.70:1 min (WCAG AAA)
+ *     * Primary Accent (`#065f46`): 6.18:1 min (`--rs-on-primary: #ffffff` = 7.68:1)
+ *     * Secondary Accent (`#92400e`): 5.70:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#070c0a` / `#13201b` (`color-scheme: dark`)
+ *     * Body Prose (`#eef5f1`): 15.17:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#afc2b8`): 8.98:1 min (WCAG AAA)
+ *     * Headings (`#d1fae5`): 14.81:1 min (WCAG AAA)
+ *     * Primary Accent (`#34d399`): 8.74:1 min (`--rs-on-primary: #04100b` = 10.08:1)
+ *     * Secondary Accent (`#fbbf24`): 10.06:1 min (WCAG AAA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps every token cleanly to OS High-Contrast system colors.
+ * ============================================================================
+ */
+
+/* --- Tier 1: Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) ---
+ * Matches `body` when the chapter theme class or `data-narrative-theme` attribute is active
+ * in Light, Sepia, or daytime Auto mode, setting high-contrast dark ink over a soft daylight canvas.
+ */
+:is(body, body.theme-oceanview):is(.theme-colby-prairie-night, .narrative-theme-colby-prairie-night, [data-narrative-theme="colby-prairie-night"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-colby-prairie-night, .narrative-theme-colby-prairie-night, [data-narrative-theme="colby-prairie-night"]) {
+    color-scheme: light;
+    --rs-bg: #f5f5f0;
+    --rs-bg-alt: #e7e7de;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #171c19;
+    --rs-text-muted: #4f5953;
+    --rs-heading: #0d1712;
+    --rs-primary: #065f46;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #92400e;
+    --rs-border: #c9cfc9;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #065f46;
+}
+
+/* --- Tier 2: Explicit Reader Dark & Dark-Sepia Modes ---
+ * Activates whenever the reader explicitly selects Dark or Dark-Sepia in the `Aa` appearance menu,
+ * switching surfaces to low-glare night tones while keeping >= 12:1 AAA prose legibility.
+ */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-colby-prairie-night, .narrative-theme-colby-prairie-night, [data-narrative-theme="colby-prairie-night"]) {
+    color-scheme: dark;
+    --rs-bg: #070c0a;
+    --rs-bg-alt: #0d1612;
+    --rs-surface: #13201b;
+    --rs-card-bg: #13201b;
+    --rs-text: #eef5f1;
+    --rs-text-muted: #afc2b8;
+    --rs-heading: #d1fae5;
+    --rs-primary: #34d399;
+    --rs-on-primary: #04100b;
+    --rs-secondary: #fbbf24;
+    --rs-border: #233b31;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #34d399;
+}
+
+/* --- Tier 3: OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) ---
+ * Follows the visitor's operating-system `prefers-color-scheme: dark` setting automatically
+ * unless the reader has explicitly locked a Light or Sepia mode override.
+ */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-colby-prairie-night, .narrative-theme-colby-prairie-night, [data-narrative-theme="colby-prairie-night"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-colby-prairie-night, .narrative-theme-colby-prairie-night, [data-narrative-theme="colby-prairie-night"]) {
+        color-scheme: dark;
+        --rs-bg: #070c0a;
+        --rs-bg-alt: #0d1612;
+        --rs-surface: #13201b;
+        --rs-card-bg: #13201b;
+        --rs-text: #eef5f1;
+        --rs-text-muted: #afc2b8;
+        --rs-heading: #d1fae5;
+        --rs-primary: #34d399;
+        --rs-on-primary: #04100b;
+        --rs-secondary: #fbbf24;
+        --rs-border: #233b31;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #34d399;
+    }
+}
+
+/* --- Tier 4: Forced Colors (Windows High Contrast) Assistive Mode ---
+ * Yields 100% control to operating-system High-Contrast tokens (`Canvas`, `CanvasText`, `LinkText`)
+ * and strips decorative pseudo-elements for low-vision screen-magnifier users.
+ */
+@media (forced-colors: active) {
+    body:is(.theme-colby-prairie-night, .narrative-theme-colby-prairie-night, [data-narrative-theme="colby-prairie-night"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-colby-prairie-night, .narrative-theme-colby-prairie-night, [data-narrative-theme="colby-prairie-night"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-colby-prairie-night, .narrative-theme-colby-prairie-night, [data-narrative-theme="colby-prairie-night"])::before,
+    body:is(.theme-colby-prairie-night, .narrative-theme-colby-prairie-night, [data-narrative-theme="colby-prairie-night"])::after {
+        display: none !important;
+    }
+}

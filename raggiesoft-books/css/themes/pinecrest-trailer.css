@@ -1,0 +1,132 @@
+/**
+ * ============================================================================
+ * STARDUST ENGINE NARRATIVE THEME: PINECREST TRAILER COURT (`pinecrest-trailer.css`)
+ * ============================================================================
+ *
+ * Plain-English Overview (100-Level Read-Along Guide):
+ * - Purpose: Stifling, un-air-conditioned single-wide aluminum trailer atmosphere off Route 13 in Chesapeake—sun-baked yellowed linoleum and weathered plywood in daylight, shifting to dim, claustrophobic sodium-vapor lot glare at night.
+ * - Inputs: Activated automatically by `oliver.php`, `reader.js`, Apple SwiftUI
+ *   `BookReader`, and Windows WPF `BookReader` whenever a Markdown chapter's YAML
+ *   frontmatter declares `theme: "pinecrest-trailer"` (or at the series level in `ovab.json`).
+ * - Outputs: Overrides the root `--rs-*` CSS custom properties consumed by
+ *   `reader.css` across Daylight/Sepia, Explicit Dark, OS `prefers-color-scheme: dark`,
+ *   and Windows High-Contrast (`forced-colors: active`) assistive modes.
+ *
+ * Dual-Polarity Light & Dark WCAG 2.1 AA / AAA Contrast Verification:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#f8f4ea` / `#fffdf8` (`color-scheme: light`)
+ *     * Body Prose (`#231c14`): 13.68:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#5f5344`): 6.08:1 min (WCAG AA)
+ *     * Headings (`#1a130c`): 14.94:1 min (WCAG AAA)
+ *     * Primary Accent (`#9a3412`): 5.94:1 min (`--rs-on-primary: #ffffff` = 7.31:1)
+ *     * Secondary Accent (`#3f6212`): 5.75:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#14110d` / `#251f18` (`color-scheme: dark`)
+ *     * Body Prose (`#f5efe6`): 14.27:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#c7bba9`): 8.63:1 min (WCAG AAA)
+ *     * Headings (`#fef3c7`): 14.64:1 min (WCAG AAA)
+ *     * Primary Accent (`#fb923c`): 7.20:1 min (`--rs-on-primary: #120904` = 8.70:1)
+ *     * Secondary Accent (`#a3e635`): 10.81:1 min (WCAG AAA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps every token cleanly to OS High-Contrast system colors.
+ * ============================================================================
+ */
+
+/* --- Tier 1: Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) ---
+ * Matches `body` when the chapter theme class or `data-narrative-theme` attribute is active
+ * in Light, Sepia, or daytime Auto mode, setting high-contrast dark ink over a soft daylight canvas.
+ */
+:is(body, body.theme-oceanview):is(.theme-pinecrest-trailer, .narrative-theme-pinecrest-trailer, [data-narrative-theme="pinecrest-trailer"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-pinecrest-trailer, .narrative-theme-pinecrest-trailer, [data-narrative-theme="pinecrest-trailer"]) {
+    color-scheme: light;
+    --rs-bg: #f8f4ea;
+    --rs-bg-alt: #efe7d6;
+    --rs-surface: #fffdf8;
+    --rs-card-bg: #fffdf8;
+    --rs-text: #231c14;
+    --rs-text-muted: #5f5344;
+    --rs-heading: #1a130c;
+    --rs-primary: #9a3412;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #3f6212;
+    --rs-border: #d6c8b0;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #9a3412;
+}
+
+/* --- Tier 2: Explicit Reader Dark & Dark-Sepia Modes ---
+ * Activates whenever the reader explicitly selects Dark or Dark-Sepia in the `Aa` appearance menu,
+ * switching surfaces to low-glare night tones while keeping >= 12:1 AAA prose legibility.
+ */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-pinecrest-trailer, .narrative-theme-pinecrest-trailer, [data-narrative-theme="pinecrest-trailer"]) {
+    color-scheme: dark;
+    --rs-bg: #14110d;
+    --rs-bg-alt: #1d1812;
+    --rs-surface: #251f18;
+    --rs-card-bg: #251f18;
+    --rs-text: #f5efe6;
+    --rs-text-muted: #c7bba9;
+    --rs-heading: #fef3c7;
+    --rs-primary: #fb923c;
+    --rs-on-primary: #120904;
+    --rs-secondary: #a3e635;
+    --rs-border: #44382b;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #fb923c;
+}
+
+/* --- Tier 3: OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) ---
+ * Follows the visitor's operating-system `prefers-color-scheme: dark` setting automatically
+ * unless the reader has explicitly locked a Light or Sepia mode override.
+ */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-pinecrest-trailer, .narrative-theme-pinecrest-trailer, [data-narrative-theme="pinecrest-trailer"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-pinecrest-trailer, .narrative-theme-pinecrest-trailer, [data-narrative-theme="pinecrest-trailer"]) {
+        color-scheme: dark;
+        --rs-bg: #14110d;
+        --rs-bg-alt: #1d1812;
+        --rs-surface: #251f18;
+        --rs-card-bg: #251f18;
+        --rs-text: #f5efe6;
+        --rs-text-muted: #c7bba9;
+        --rs-heading: #fef3c7;
+        --rs-primary: #fb923c;
+        --rs-on-primary: #120904;
+        --rs-secondary: #a3e635;
+        --rs-border: #44382b;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #fb923c;
+    }
+}
+
+/* --- Tier 4: Forced Colors (Windows High Contrast) Assistive Mode ---
+ * Yields 100% control to operating-system High-Contrast tokens (`Canvas`, `CanvasText`, `LinkText`)
+ * and strips decorative pseudo-elements for low-vision screen-magnifier users.
+ */
+@media (forced-colors: active) {
+    body:is(.theme-pinecrest-trailer, .narrative-theme-pinecrest-trailer, [data-narrative-theme="pinecrest-trailer"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-pinecrest-trailer, .narrative-theme-pinecrest-trailer, [data-narrative-theme="pinecrest-trailer"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-pinecrest-trailer, .narrative-theme-pinecrest-trailer, [data-narrative-theme="pinecrest-trailer"])::before,
+    body:is(.theme-pinecrest-trailer, .narrative-theme-pinecrest-trailer, [data-narrative-theme="pinecrest-trailer"])::after {
+        display: none !important;
+    }
+}

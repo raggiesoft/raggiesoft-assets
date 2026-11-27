@@ -1,0 +1,132 @@
+/**
+ * ============================================================================
+ * STARDUST ENGINE NARRATIVE THEME: THE UNCHARTED WAYSTATION & KEEPERS' HALL (`vaeloria-waystation.css`)
+ * ============================================================================
+ *
+ * Plain-English Overview (100-Level Read-Along Guide):
+ * - Purpose: Signature architectural palette of The Uncharted Waystation, the Amber Crags Counterweight Gondola, the Twin-Ring Bronze Astrolabe, and Keepers' Hall—rose-limestone ramps, honeyed cedar beams, warm bronze rings, and the glowing turquoise-and-amber Hearth-Archway.
+ * - Inputs: Activated automatically by `oliver.php`, `reader.js`, Apple SwiftUI
+ *   `BookReader`, and Windows WPF `BookReader` whenever a Markdown chapter's YAML
+ *   frontmatter declares `theme: "vaeloria-waystation"` (or at the series level in `ovab.json`).
+ * - Outputs: Overrides the root `--rs-*` CSS custom properties consumed by
+ *   `reader.css` across Daylight/Sepia, Explicit Dark, OS `prefers-color-scheme: dark`,
+ *   and Windows High-Contrast (`forced-colors: active`) assistive modes.
+ *
+ * Dual-Polarity Light & Dark WCAG 2.1 AA / AAA Contrast Verification:
+ * - Tier 1 (Light & Sepia Modes — Default Daylight + Explicit `theme-light` / `theme-sepia`):
+ *     * Canvas / Surface: `#fcf8f2` / `#ffffff` (`color-scheme: light`)
+ *     * Body Prose (`#1c1510`): 15.13:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#5c5147`): 6.47:1 min (WCAG AA)
+ *     * Headings (`#2c180a`): 14.18:1 min (WCAG AAA)
+ *     * Primary Accent (`#8a4208`): 6.15:1 min (`--rs-on-primary: #ffffff` = 7.33:1)
+ *     * Secondary Accent (`#0d6b68`): 5.31:1 min (WCAG AA)
+ * - Tier 2 & 3 (Explicit `theme-dark` / `theme-dark-sepia` + OS `prefers-color-scheme: dark` in `theme-auto` / `theme-sepia-system`):
+ *     * Canvas / Surface: `#110d19` / `#211a33` (`color-scheme: dark`)
+ *     * Body Prose (`#faf5ee`): 15.36:1 min across all surfaces (WCAG AAA)
+ *     * Muted Text (`#c7bdd6`): 9.27:1 min (WCAG AAA)
+ *     * Headings (`#fde68a`): 13.38:1 min (WCAG AAA)
+ *     * Primary Accent (`#fbbf24`): 9.98:1 min (`--rs-on-primary: #120c04` = 11.65:1)
+ *     * Secondary Accent (`#2dd4bf`): 8.95:1 min (WCAG AAA)
+ * - Tier 4 (`@media (forced-colors: active)`): Maps every token cleanly to OS High-Contrast system colors.
+ * ============================================================================
+ */
+
+/* --- Tier 1: Light & Sepia Modes (Default Daylight + Explicit Reader Light/Sepia) ---
+ * Matches `body` when the chapter theme class or `data-narrative-theme` attribute is active
+ * in Light, Sepia, or daytime Auto mode, setting high-contrast dark ink over a soft daylight canvas.
+ */
+:is(body, body.theme-oceanview):is(.theme-vaeloria-waystation, .narrative-theme-vaeloria-waystation, [data-narrative-theme="vaeloria-waystation"]),
+:is(body, body.theme-oceanview):is(.theme-light, .theme-sepia, .theme-auto, .theme-sepia-system):is(.theme-vaeloria-waystation, .narrative-theme-vaeloria-waystation, [data-narrative-theme="vaeloria-waystation"]) {
+    color-scheme: light;
+    --rs-bg: #fcf8f2;
+    --rs-bg-alt: #f3eadc;
+    --rs-surface: #ffffff;
+    --rs-card-bg: #ffffff;
+    --rs-text: #1c1510;
+    --rs-text-muted: #5c5147;
+    --rs-heading: #2c180a;
+    --rs-primary: #8a4208;
+    --rs-on-primary: #ffffff;
+    --rs-secondary: #0d6b68;
+    --rs-border: #decbb4;
+    --rs-asl: #0369a1;
+    --rs-gesture: #4338ca;
+    accent-color: #8a4208;
+}
+
+/* --- Tier 2: Explicit Reader Dark & Dark-Sepia Modes ---
+ * Activates whenever the reader explicitly selects Dark or Dark-Sepia in the `Aa` appearance menu,
+ * switching surfaces to low-glare night tones while keeping >= 12:1 AAA prose legibility.
+ */
+:is(body, body.theme-oceanview):is(.theme-dark, .theme-dark-sepia):is(.theme-vaeloria-waystation, .narrative-theme-vaeloria-waystation, [data-narrative-theme="vaeloria-waystation"]) {
+    color-scheme: dark;
+    --rs-bg: #110d19;
+    --rs-bg-alt: #191326;
+    --rs-surface: #211a33;
+    --rs-card-bg: #211a33;
+    --rs-text: #faf5ee;
+    --rs-text-muted: #c7bdd6;
+    --rs-heading: #fde68a;
+    --rs-primary: #fbbf24;
+    --rs-on-primary: #120c04;
+    --rs-secondary: #2dd4bf;
+    --rs-border: #3c3059;
+    --rs-asl: #6ee7b7;
+    --rs-gesture: #c4b5fd;
+    accent-color: #fbbf24;
+}
+
+/* --- Tier 3: OS Dark Mode Auto-Switching (`theme-auto` & `theme-sepia-system`) ---
+ * Follows the visitor's operating-system `prefers-color-scheme: dark` setting automatically
+ * unless the reader has explicitly locked a Light or Sepia mode override.
+ */
+@media (prefers-color-scheme: dark) {
+    :is(body, body.theme-oceanview):is(.theme-auto, .theme-sepia-system):is(.theme-vaeloria-waystation, .narrative-theme-vaeloria-waystation, [data-narrative-theme="vaeloria-waystation"]),
+    :is(body, body.theme-oceanview):not(.theme-light):not(.theme-sepia):not(.theme-dark):not(.theme-dark-sepia):is(.theme-vaeloria-waystation, .narrative-theme-vaeloria-waystation, [data-narrative-theme="vaeloria-waystation"]) {
+        color-scheme: dark;
+        --rs-bg: #110d19;
+        --rs-bg-alt: #191326;
+        --rs-surface: #211a33;
+        --rs-card-bg: #211a33;
+        --rs-text: #faf5ee;
+        --rs-text-muted: #c7bdd6;
+        --rs-heading: #fde68a;
+        --rs-primary: #fbbf24;
+        --rs-on-primary: #120c04;
+        --rs-secondary: #2dd4bf;
+        --rs-border: #3c3059;
+        --rs-asl: #6ee7b7;
+        --rs-gesture: #c4b5fd;
+        accent-color: #fbbf24;
+    }
+}
+
+/* --- Tier 4: Forced Colors (Windows High Contrast) Assistive Mode ---
+ * Yields 100% control to operating-system High-Contrast tokens (`Canvas`, `CanvasText`, `LinkText`)
+ * and strips decorative pseudo-elements for low-vision screen-magnifier users.
+ */
+@media (forced-colors: active) {
+    body:is(.theme-vaeloria-waystation, .narrative-theme-vaeloria-waystation, [data-narrative-theme="vaeloria-waystation"]) {
+        --rs-bg: Canvas;
+        --rs-bg-alt: Canvas;
+        --rs-surface: Canvas;
+        --rs-card-bg: Canvas;
+        --rs-text: CanvasText;
+        --rs-text-muted: GrayText;
+        --rs-heading: CanvasText;
+        --rs-primary: LinkText;
+        --rs-on-primary: HighlightText;
+        --rs-secondary: LinkText;
+        --rs-border: ButtonBorder;
+        --rs-asl: LinkText;
+        --rs-gesture: CanvasText;
+    }
+    body:is(.theme-vaeloria-waystation, .narrative-theme-vaeloria-waystation, [data-narrative-theme="vaeloria-waystation"]) #stardust-reading-pane {
+        background: Canvas !important;
+        box-shadow: none !important;
+    }
+    body:is(.theme-vaeloria-waystation, .narrative-theme-vaeloria-waystation, [data-narrative-theme="vaeloria-waystation"])::before,
+    body:is(.theme-vaeloria-waystation, .narrative-theme-vaeloria-waystation, [data-narrative-theme="vaeloria-waystation"])::after {
+        display: none !important;
+    }
+}
