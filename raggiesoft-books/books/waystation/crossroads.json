@@ -3,14 +3,14 @@
         {
             "id": "norfolk-pathfinder-terminal-2001",
             "trigger_part": "e001/c001/p009.md",
-            "kicker": "Story Crossroads • Tuesday, August 21, 2001, 9:48 AM — Norfolk Pathfinder Terminal",
-            "title": "Before the Walk-Up Ticket Line: Does Nolan Lock His Wheelchair Brakes or Stay Quiet?",
-            "prompt": "Inside the fluorescent-lit concourse of the Norfolk Pathfinder Terminal, twenty-six-year-old Tammy strides toward the walk-up plexiglass counter with an envelope of cash to buy two unreserved ninety-nine-dollar four-day bus tickets to Seattle—without calling Pathfinder forty-eight hours ahead for a hydraulic wheelchair lift. Twenty-three-year-old Nolan Lennox's Wednesday shift at the Emerald Creek Blue Tech is twenty-nine hours away, seventeen-year-old Gwen turns eighteen in October, and Grandpa Walter's heart is failing back in Chesapeake. Every option opens a complete, coequal story route that returns Nolan home to Studio 205 and Mallory Walsh before Vaeloria.",
+            "kicker": "Story Crossroads • Tuesday, August 21, 2001, 9:50 AM — 1961 Norfolk Pathfinder Terminal",
+            "title": "Inside the Monticello Locker Alcove: Does Nolan Reject Tammy or Believe Her Promise?",
+            "prompt": "Wheeled six feet behind the thick concrete column into the recessed steel coin-locker alcove leading to the 1961 Monticello Avenue terminal's separate Men's and Women's restrooms—shielded from concourse security by the lockers, Tammy's back, and her open baby-blue cardigan wings—twenty-three-year-old Nolan Lennox faces Tammy's ultimate trump card: a silent two-second flash beneath her braless shelf-bra camisole and a soft Week-One promise of zero yelling in Seattle plus a payphone call to Blue Tech in Richmond. Every option opens a complete, coequal story route returning Nolan home to Studio 205 and Mallory Walsh before Vaeloria.",
             "options": [
                 {
                     "id": "lock-wheelchair-brakes-emerald-creek",
-                    "label": "Lock Both Wheelchair Brakes & Break Up in Public",
-                    "subtitle": "Snap both steel wheel locks down in front of thirty concourse witnesses, refuse Tammy's last-ditch enticement in favor of yell-free peace with Gwen, and ride three CVTA buses safely home to Grandpa Walter's porch and your spotless Blue Tech schedule.",
+                    "label": "Reject Tammy's Promise & Roll Out Into the Concourse",
+                    "subtitle": "Realize peaceful, yell-free hugs with Gwen beat empty promises every time—rolling straight out from behind the lockers into plain view of thirty witnesses to lock your wheelchair brakes, end things for good, and ride three CVTA buses safely home to Emerald Creek.",
                     "source_type": "inline_continuation",
                     "entry_part": "e001/c001/p010.md",
                     "forbidden_terms": [
@@ -23,8 +23,8 @@
                 },
                 {
                     "id": "seattle-pathfinder-exodus",
-                    "label": "Freeze Under Conditioned Dread & Board the Seattle Pathfinder",
-                    "subtitle": "Stay quiet to avoid a concourse explosion and haul yourself up four steep aluminum coach steps on your matte-silver forearm crutches for a brutal ninety-six-hour coast-to-coast haul—while back at Blue Tech on Wednesday night, Shift Supervisor Mallory Walsh notices your first-ever missed shift.",
+                    "label": "Believe Tammy's Promise & Board the Seattle Pathfinder",
+                    "subtitle": "Take Tammy's velvet Week-One promise and Richmond payphone assurance literally—watching the mask snap shut the instant she buys the ninety-nine-dollar tickets and makes you climb four steep coach steps on your forearm crutches while Shift Supervisor Mallory Walsh notices your first missed shift back at Blue Tech.",
                     "source_type": "paths_dir",
                     "source_dir": "paths/seattle-pathfinder-exodus",
                     "entry_part": "paths/seattle-pathfinder-exodus/e001/c001/p001.md",
