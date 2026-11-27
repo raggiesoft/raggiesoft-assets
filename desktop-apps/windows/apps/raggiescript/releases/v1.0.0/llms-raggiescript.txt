@@ -1,0 +1,198 @@
+# RaggieScript v1.0 (`.rssc`) — Language Specification, Type System, Bytecode ISA, Wizard UI DSL & Multi-Target SDK (`llms/llms-raggiescript.txt`)
+
+> **MANDATORY COLD-START INSTRUCTION FOR AI AGENTS**:
+> Whenever authoring, editing, formatting, type-checking, or extending **`RaggieScript` (`.rssc`)**, read **100% of this file** alongside [`.agents/skills/raggiesoft-raggiescript/SKILL.md`](../.agents/skills/raggiesoft-raggiescript/SKILL.md) and [`llms/llms-desktop-and-studio-apps.txt`](llms-desktop-and-studio-apps.txt).
+
+---
+
+## 1. Executive Overview & Mission (Original Clean-Room Scripting & Declarative UI Engine)
+
+**`RaggieScript` (`.rssc`)** is RaggieSoft's MIT-licensed, C# / TypeScript-inspired curly-brace scripting, declarative Wizard UI layout, and micro-application language engineered from scratch as the **single unified scripting engine across all 8 RaggieSoft Studio tools**. Every construct—from lexical scoping, gradual static type inference (`RSW701`–`RSW715`), and `RSWBC2` linear stack bytecode to Per-Monitor V2 DPI Win32 Wizard pages—is 100% plain-text, Git-diffable, and free of hidden binary form files or unverified string-expansion macros.
+
+### Canonical Workspace Layout (`$HOME/Developer/desktop-apps/raggiescript/`)
+```text
+desktop-apps/raggiescript/
+├── include/raggiescript/              # Zero-dependency static /MT C++20 Embeddable SDK (namespace rsw::rssc)
+│   ├── RsscPlatform.hpp               # UTF-8/Wide, SHA-256 (bcrypt.dll), LZMS (cabinet.dll), RtlGetVersion + IsWow64Process2
+│   ├── RsscAstAndLexer.hpp            # Preprocessor, (line,col) Lexer, & Parser (struct, enum, match, lambdas, wizard/install)
+│   ├── RsscTypeBinder.hpp             # Gradual Type-Inferred Static Binder (RSW701–RSW715) & 20+ Namespace Signature Catalog
+│   ├── RsscBytecodeIsa.hpp            # Linear Stack Bytecode Compiler, RSWBC2 SHA-256 Codec (+ RSWBC1 compat), & Disassembler
+│   ├── RsscFormatAndLsp.hpp           # Canonical `fmt` Code Formatter, JSON-RPC 2.0 `lsp` Server, & Sandboxed ES2022 Transpiler
+│   ├── RsscWizardUiEngine.hpp         # Native Win32 Multi-Control In-Window Wizard & Custom Dialog Renderer (11 Themes + WCAG 2.2 AA)
+│   └── RaggieScriptSdk.hpp            # Umbrella C++20 SDK + Win32 Runtime & Atomic LIFO Rollback Ledger
+├── src/cli/RaggieScriptMain.cpp       # Standalone `raggiescript.exe` (x64 & ARM64)
+├── src/tests/RaggieScriptTests.cpp    # Automated C++20 verification suite (`raggiescript-tests.exe`)
+├── dotnet/RaggieScript.slnx           # .NET 11 Managed Host (`RaggieScript.Core` + `RaggieScript.Tests`)
+└── examples/*.rssc                    # Canonical v1.0 samples (Wizard DSL, SCORM ES2022, Custom A11y Rules)
+```
+
+---
+
+## 2. Lexical & Syntactic Grammar (`Style A` C#/TypeScript Curly-Brace)
+
+1. **Comments & Regions**:
+   - Single-line `// ...` and multi-line `/* ... */` comments (100-level read-along teaching comments required top-to-bottom in hand-authored `.rssc` files!).
+   - `#region Title` ... `#endregion` code-folding markers.
+2. **Preprocessor & Modular Includes**:
+   - `include "relative/module.rssc";` or `import "relative/module.rssc";` (idempotent canonical-path cycle guard, automatic `#pragma once` semantics, exact per-file diagnostic tracking).
+   - `#define KEY "VALUE"`, `#ifdef KEY`, `#ifndef KEY`, `#if KEY == "VAL"`, `#elif KEY != "VAL"`, `#else`, `#endif`, and `#error "Message"` (`RSW703`).
+   - Build-time embedded files: `compile.json("manifest.json")` and `compile.text("License.txt")` bake external files directly into `RSWBC2` bytecode constants at compile time!
+3. **Literals**:
+   - **Standard & Interpolated Strings**: `"Installing ${product.name} (${sys.arch()})..."` (supports `\n`, `\r`, `\t`, `\\`, `\"`, `\$`, and nested `${expr}` with accurate column tracking).
+   - **Raw Strings (`r"..."`)**: `r"SOFTWARE\RaggieSoft\Book Reader"` — zero double-backslash escaping for Windows Registry keys, UNC shares, and regexes!
+   - **4-Part Semantic Version Literals (`v"..."` & bare `X.Y.Z`)**: `v"10.0.22000.1"` or `1.2.0` — first-class `version` values supporting `<, <=, ==, !=, >=, >` directly!
+   - **Numbers, Booleans, Collections**: 64-bit `int` (`42`, `0x1040`, `500_000`), `float` (`3.14`), `bool` (`true`, `false`), `null`, `array` (`[a, b]`), and `map` (`{ key: val, "strKey": val2 }`).
+4. **User-Defined Types (`struct` & `enum`), Functions (`fn`), Lambdas (`=>`), & Pattern Matching (`match`)**:
+   ```csharp
+   enum ReleaseChannel {
+       Stable  = "stable",
+       Preview = "preview",
+       Nightly = "nightly"
+   }
+
+   struct EndpointConfig {
+       url:     string         = "https://raggiesoftstudio.com";
+       port:    int            = 443;
+       channel: ReleaseChannel = ReleaseChannel.Stable;
+   }
+
+   fn isSecureUrl(candidate: string) : bool {
+       return str.startsWith(candidate, "https://");
+   }
+
+   // Expression & block lambdas (first-class closures for UI validation & array pipelines!)
+   const portValidator = (raw: string) => {
+       const n = int(raw);
+       return (n >= 1 && n <= 65535)
+           ? Validation.ok()
+           : Validation.error("Port must be between 1 and 65535.");
+   };
+
+   // Value pattern matching (`match` expression or statement)
+   const badge = match (sys.arch()) {
+       "arm64" => "Native Windows 11 ARM64",
+       "x64"   => "Native Windows 11 x64",
+       _       => "Unsupported Architecture"
+   };
+   ```
+5. **Top-Level Lifecycle & Metadata Declarations**:
+   - `use <capability>;` (`std`, `installer`, `showcase`, `ui`, `help`, `launcher`, `document`, `localization`, `a11y`, `training`)
+   - `package "<Title>" { ... }`, `showcase "<Title>" { ... }`, or `app "<Title>" { ... }`
+   - `param <name>: <type> = <defaultExpr>;` (supports mutable CLI `KEY=VAL` overrides AND IT policy-locked `KEY:VAL` immutable overrides!)
+   - `feature "<Id>" { title: "..."; description: "..."; inCompact: true; required: false; delivery: Delivery.Embedded; }`
+   - `payload <Id> { from "glob/path" -> destExpr; feature: "Main"; recursive: true; }`
+   - `wizard { step <Id> [when (cond)] { ... } }` (side-effect-free `RSW701`-verified UI phase; auto-skipped in `/s` silent mode)
+   - `install { ... }` (atomic `.rsw-rollback.jnl` LIFO undo-journaled installation phase; supports `Uac.Deferred` `--elevated-rssc-worker`)
+   - `repair(mode) { ... }` and `uninstall(purgeUserData) { ... }`
+   - `on hotspot("BtnId").click { ... }` and `on page("Main").show { ... }` (event-driven Showcase Studio handlers)
+
+---
+
+## 3. Gradual Type-Inferred Static Type System & Diagnostic Codes (`RSW700`–`RSW715`)
+
+RaggieScript uses **Gradual / Type-Inferred Static Typing** (inspired by TypeScript and C# `var`):
+- Local bindings (`let dir = sys.programFiles / "RaggieSoft";`) automatically infer static types (`path`, `version`, `string`, `int`, `float`, `bool`, `array`, `map`, `struct`, `enum`, `fn`) without verbose boilerplate.
+- Explicit type annotations (`param port: int = 8080;`, `fn check(minVer: version): bool`) are enforced at compile time, while unannotated `fn` parameters default to `any` for frictionless scripting.
+- Every identifier is resolved lexically at compile time—catching undeclared variable typos before any installer or Studio automation ever runs!
+
+| Code | Severity | Compile-Time Invariant Enforced |
+| :--- | :---: | :--- |
+| **`RSW700`** | Error | Lexical / parser syntax error or missing `include` / `compile.json` file (`1-based` line & column). |
+| **`RSW701`** | Error | **Wizard Phase Isolation**: Mutating host call (`fs.write*`, `reg.write*`, `shortcut.create`, `env.*`, `svc.*`, `msi.install`, etc.) inside `wizard { ... }`, including transitive calls via user `fn`s or lambdas. |
+| **`RSW702`** | Error | **Capability Sandbox**: Forbidden host namespace (`fs`, `reg`, `proc`, `ffi`, `net`, `svc`, `msi`, `env`) invoked under a sandboxed Studio profile (`use training;`, `use a11y;`, `use localization;`, `use document;`). |
+| **`RSW703`** | Error | Explicit `#error "..."` compile-time directive triggered. |
+| **`RSW704`** | Error | `RSWBC2` / `RSWBC1` binary bytecode header or `SHA-256` digest verification failure. |
+| **`RSW710`** | Error | **Undeclared Identifier**: Variable or function referenced before declaration (with fuzzy *"Did you mean '...'?"* suggestion). |
+| **`RSW711`** | Error | **Static Type Mismatch**: Incompatible assignment, return value, binary comparison (`version < bool`), or operator operand types. |
+| **`RSW712`** | Error | **Signature / Arity Error**: Unknown stdlib method (`reg.writeStrng` -> *"Did you mean 'reg.writeString'?"*), wrong argument count, or incompatible argument type. |
+| **`RSW713`** | Error | **Immutability Violation**: Reassigning a `const` / `enum` binding or passing an immutable `const` variable as `ref constVar`. |
+| **`RSW714`** | Error | **Invalid Struct / Enum Member**: Unknown field on a `struct` literal/member access or unknown variant on an `enum`. |
+| **`RSW715`** | Error | **Control-Flow / Return Error**: `break` / `continue` outside a loop, or non-`void` typed function missing a `return` path. |
+
+---
+
+## 4. Declarative In-Window Wizard & Custom Dialog DSL
+
+Instead of separate binary UI form files, `wizard { step <Id> [when (cond)] { ... } }` renders **genuine Per-Monitor V2 DPI Win32 controls directly inside a single unified Wizard window** across all 11 RaggieSoft styles (`fluentmica`, `standard`, `aerowizard`, `wizard97`, `wizard95`, `fullscreenblue`, `fullscreenteal`, `autorun16x9`, `oneclick`, `passivetoast`, plus automatic `SPI_GETHIGHCONTRAST` Windows Contrast Theme override):
+
+| Declarative Control API | Purpose | Capabilities & Two-Way `ref` Binding |
+| :--- | :--- | :--- |
+| `ui.welcome(title:, subtitle:, body:)` | Welcome Step | Hero title, subtitle, branding rail/emblem, and optional intro copy. |
+| `ui.license(rtfFile: \| text:, acceptText:, bind: ref accepted)` | License Consent | Scrollable `Msftedit.dll` RichEdit viewer; automatically disables **`Next >`** until the user checks the acceptance box! |
+| `ui.readme(file: \| text:, heading:)` | Release Notes | Scrollable story intro, release notes, or collector liner notes. |
+| `ui.heading(text)` / `ui.label(text, when:)` | Typography | Dynamic `${...}` text interpolation with automatic word-wrap and literal `&` safety. |
+| `ui.folderPicker(label:, bind: ref dir, minFreeMB:)` | Destination Path | `&` mnemonic `STATIC` + `EDIT` + `Browse...` (`IFileOpenDialog`) + live free-disk MB badge & floor check! |
+| `ui.filePicker(label:, bind: ref filePath, filter:)` | File Selector | Accessible file path input + `Browse...` dialog. |
+| `ui.textBox(label:, bind: ref val, password:, when:, validate:)` | Validated Input | Two-way text input with reactive `when: () => bool` enabled/visibility rule and `validate: (v) => Validation.ok() \| Validation.error(...)`! |
+| `ui.checkbox(text:, bind: ref flag, subtitle:, when:)` | Boolean Toggle | Accessible checkbox with `&` mnemonic; toggling immediately re-evaluates sibling `when:` expressions on the same page! |
+| `ui.radioCards(label:, bind: ref mode, options: [...])` | Setup Mode Cards | Keyboard-navigable radio card group (`[{ value: "express", title: "&Express", subtitle: "..." }, ...]`). |
+| `ui.comboBox(label:, bind: ref val, items: [...], when:)` | Dropdown List | Dark/Light themed dropdown bound to `val`. |
+| `ui.featureTree(heading:)` | Feature Tree | Interactive checkboxes/tree bound directly to top-level `feature "..." { ... }` declarations + disk estimates. |
+| `ui.readySummary(heading:, installButton:, showUacShield:)` | Commit Summary | Auto-formatted summary of destination folder, selected features, and UAC shield on **`&Install`** when `Uac.Deferred` will elevate! |
+
+- **Zero-`GoTo` History Stack**: Clicking **`← Back`** pops the dynamic `step` history stack (re-evaluating `when (...)` guards cleanly), while modal `ui.taskDialog(...)` remains available for quick single-dialog micro-installers and pre-flight alerts.
+
+---
+
+## 5. Linear Stack Bytecode ISA (`RSWBC2` Container)
+
+Compiled `.rssc` programs lower into a compact, deterministic **Linear Stack Bytecode (`RSWBC2`)** container verified by a 32-byte `bcrypt.dll` `SHA-256` digest (`kResIdScriptBytecode = 225`):
+
+- **Header (`48` bytes)**: `Magic[8] = "RSWBC2\0\0"`, `Version = 2`, `PayloadBytes`, `SHA256[32]`. *(Runtime transparently loads `RSWBC1` streams as well.)*
+- **Sections**:
+  1. `.meta` — Capabilities, `package`/`showcase`/`app` header, `param` descriptors, `payload` & `feature` tables, compile defines, and `compile.json`/`text` blobs.
+  2. `.const` — Deduplicated constant pool (`Null`, `Bool`, `Int64`, `Float64`, `String`, `Path`, `SemVer`).
+  3. `.types` — `struct` layouts & `enum` variant tables.
+  4. `.funcs` — Entry chunk (`__top__`), phase chunks (`__wizard__`, `__install__`, `__repair__`, `__uninstall__`), event chunks, user `fn` chunks, and lambda chunks (`arity`, `localCount`, `upvalueNames`).
+  5. `.code` & `.lineinfo` — Linear bytecode instruction stream (`NOP`, `PUSH_CONST`, `PUSH_NULL`, `PUSH_TRUE`, `PUSH_FALSE`, `POP`, `DUP`, `LOAD_VAR`, `STORE_VAR`, `DECL_VAR`, `MAKE_REF`, `STORE_DEREF`, `MAKE_ARRAY`, `MAKE_MAP`, `MAKE_STRUCT`, `MAKE_CLOSURE`, `GET_MEMBER`, `SET_MEMBER`, `GET_INDEX`, `SET_INDEX`, `NEG`, `NOT`, `ADD`, `SUB`, `MUL`, `DIV`, `MOD`, `EQ`, `NEQ`, `LT`, `LTE`, `GT`, `GTE`, `JMP`, `JMP_IF_FALSE`, `JMP_IF_TRUE`, `JMP_IF_NOT_NULL`, `CALL`, `CALL_HOST`, `TRY_ENTER`, `TRY_EXIT`, `THROW`, `EXIT_SETUP`, `WIZ_STEP_BEGIN`, `WIZ_STEP_END`, `RET`) paired with `(fileIdx, line, col)` debug mappings!
+
+---
+
+## 6. CLI Tooling (`raggiescript.exe`) & Multi-Target Backends
+
+```powershell
+# 1. Static Type, Phase (RSW701), & Capability (RSW702) Verification (Human or JSON for CI/AI):
+raggiescript.exe check [--diagnostics=json] <script.rssc> [-DKEY=VAL]
+
+# 2. Compile to SHA-256 RSWBC2 Linear Stack Bytecode & Disassemble Opcodes:
+raggiescript.exe compile <script.rssc> <out.rswbc> [-DKEY=VAL]
+raggiescript.exe disasm  <script.rssc | out.rswbc | packed.exe>
+
+# 3. Canonical Code Formatter & JSON-RPC 2.0 Language Server (VS Code / Studio IDE):
+raggiescript.exe fmt [--check] <script.rssc>
+raggiescript.exe lsp
+
+# 4. Execute Directly or Pack Standalone Zero-Dependency Windows Micro-App (.exe):
+raggiescript.exe run <script.rssc | out.rswbc> [--silent] [KEY=VAL] [LOCKED_KEY:VAL]
+raggiescript.exe pack-exe <script.rssc> <Tool.exe> [--support-dir=./_support] [--uac=deferred]
+
+# 5. Transpile Sandboxed `use training;` Script to Browser-Safe ES2022 Module (Zero eval()!):
+raggiescript.exe transpile-es2022 <scenario.rssc> <scenario.mjs>
+```
+
+### Multi-Target Execution Across All 8 RaggieSoft Studio Products
+1. **Static `/MT` Win32 C++20 Host (`desktop-apps/raggiescript/include/raggiescript/`)**: Powers `raggiescript.exe`, **Installer Studio** (`instbuild.exe` + `SetupWizard.exe`), **Showcase Studio** (`ShowcaseStub.exe` + `_support\` bespoke canvas installers), and **Help Studio** (`help.*`).
+2. **`.NET 11` Managed SDK (`desktop-apps/raggiescript/dotnet/src/RaggieScript.Core/`)**: Zero-dependency C# AST, Gradual Type Binder (`RSW701`–`RSW715`), and Sandboxed Managed VM powering **Launcher Studio** (`launcher.*`), **Document Studio** (`document.*`), **Localization Studio** (`localization.*`), and **Accessibility Studio** (`a11y.*` custom SARIF rules).
+3. **Browser-Safe `ES2022` Transpiler (`RsscFormatAndLsp.hpp` & `RsscEs2022Transpiler.cs`)**: Compiles `use training;` branching scenarios and weighted quiz rubrics into deterministic `< 50 KB` vanilla ES2022 JavaScript modules inside **Training Studio** SCORM 1.2 & SCORM 2004 packages with **zero `eval()` or `new Function()`**.
+
+---
+
+## 7. Standard Library Namespace Summary (`20+` Built-In Namespaces)
+
+| Namespace | Capability Profile | Key Methods & Properties |
+| :--- | :--- | :--- |
+| **`sys`** | All Host Profiles | `arch()`, `isArm64()`, `isEmulatedUnderPrism()`, `isAdmin()`, `osBuild()`, `osVersion()`, `isDarkMode()`, `isHighContrast()`, `freeDiskMB(p)`, `programFiles`, `localAppData`, `appData`, `tempDir`, `supportDir`, `scheduleResumeAfterReboot()` |
+| **`fs`** | `installer` / `showcase` / `std` | `exists`, `isFile`, `isDir`, `mkdir`, `copy`, `copyTree`, `move`, `remove`, `removeTreeIfExists`, `extract`, `readText`, `writeText`, `readJson`, `writeJson`, `fileVersion`, `sha256`, `verifyAuthenticode`, `findFiles` |
+| **`reg`** | `installer` / `showcase` / `std` | Stateless `view: RegView.Native64 \| Wow32 \| Both` on `exists`, `read`, `readString`, `readDword`, `writeString`, `writeExpandString`, `writeDword`, `deleteValue`, `deleteKeyTree`, `listSubkeys`, `listValues` |
+| **`msi` & `rm`** | `installer` / `std` | `msi.{install,uninstall,applyPatch,isUpgradeInstalled,isProductInstalled,isNativeInstalled,query,execSql,generateTransform}`; `rm.{getLockingProcesses,shutdown,restart}` (`Rstrtmgr.dll`) |
+| **`proc` & `ffi`** | `installer` / `showcase` / `std` | `proc.{run,exec,shellOpen,isRunning}` (`Token.Current \| Elevated \| Desktop`); `ffi.call(dll, symbol, args...)` |
+| **`shortcut`, `shell`, `env`, `arp`, `svc`, `task`, `firewall`, `acl`** | `installer` / `std` | `shortcut.create`, `shell.{registerFileType,registerProtocol,refresh}`, `env.{get,set,appendPath,remove}`, `arp.{register,unregister}`, `svc.*`, `task.*`, `firewall.*`, `acl.*` |
+| **`archive`, `crypto`, `net`, `ini`, `xml`, `json`, `str`, `regex`, `array`, `log`** | Core / Host | `archive.{extractZip,extractPak,downloadPak}`, `crypto.{sha256,newGuid,uuid5}`, `net.{download,getJson}`, `ini.*`, `xml.*`, `json.*`, `str.*`, `regex.*`, `array.*`, `log.{info,warn,error}` |
+| **`ui` & `wizard`** | `ui` / `installer` / `showcase` | Declarative step widgets (`welcome`, `license`, `readme`, `folderPicker`, `textBox`, `checkbox`, `radioCards`, `comboBox`, `featureTree`, `readySummary`) + `taskDialog`, `info`, `warn`, `error`, `confirm`, `progress` |
+| **`training`, `a11y`, `localization`, `document`, `launcher`, `help`, `showcase`** | Studio Sandboxes | `training.{setScore,complete,bookmark,recordInteraction}`, `a11y.{querySelectorAll,reportViolation}`, `localization.*`, `document.*`, `launcher.*`, `help.*`, `showcase.*` |
+
+---
+
+## 8. Fictitious Persons & Entities Disclaimer
+
+All sample characters (including *Zoë* and *Fin#*), bands (*The Stardust Engine*), universities (*Commonwealth Polytechnic Institute / CPI*, *Virginia Dominion University / VDU*, *The Forgers*, *The Crucible*), corporations (*OmniCorp*, *Apex Records*, *Prairie Coachworks*, *Sainte-Claire*), and transit agencies (*BRT*, *CVTA*) referenced in RaggieSoft documentation and test fixtures are works of fiction.
