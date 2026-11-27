@@ -17,15 +17,15 @@
         "pdf_bytes": 12963537,
         "text_epub_bytes": 175852,
         "text_pdf_bytes": 443353,
-        "package_7z_bytes": 121724
+        "package_7z_bytes": 121789
     },
     "illustration_count": 35,
     "word_stats": {
         "story_word_count": 58307,
-        "lore_word_count": 6526,
-        "combined_word_count": 64833,
+        "lore_word_count": 7601,
+        "combined_word_count": 65908,
         "story_page_count": 212,
-        "combined_page_count": 236,
+        "combined_page_count": 240,
         "reading_hours": 3.9,
         "reading_minutes": 233,
         "novel_equivalent": 0.6,
@@ -218,7 +218,10 @@
                                     "alt": "Inside the recessed steel coin-locker and payphone vestibule alcove leading to the separate MEN and WOMEN restrooms of the 1961 mid-century Norfolk Pathfinder Terminal on the seven-hundred block of Monticello Avenue\u2014with the outdoor concrete mushroom corner canopy and two uniformed security guards by the vending machines blocked behind the thick concrete column\u2014petite five-foot-tall Tammy stands directly in front of twenty-three-year-old Nolan Lennox's manual wheelchair holding the unzipped panels of her pastel baby-blue fleece cardigan open like side blinders over her white ribbed shelf-bra camisole right before lifting her shirt"
                                 }
                             ],
-                            "image_count": 2
+                            "image_count": 2,
+                            "backstage": [
+                                "books/waystation/from-monticello-to-pasco-why-there-were-no-family-restrooms"
+                            ]
                         },
                         {
                             "part_num": 10,
@@ -801,7 +804,10 @@
                                             "alt": "Inside the recessed steel coin-locker and payphone vestibule alcove leading to the separate MEN and WOMEN restrooms of the 1961 mid-century Norfolk Pathfinder Terminal on the seven-hundred block of Monticello Avenue\u2014with the outdoor concrete mushroom corner canopy and two uniformed security guards by the vending machines blocked behind the thick concrete column\u2014petite five-foot-tall Tammy stands directly in front of twenty-three-year-old Nolan Lennox's manual wheelchair holding the unzipped panels of her pastel baby-blue fleece cardigan open like side blinders over her white ribbed shelf-bra camisole right before lifting her shirt"
                                         }
                                     ],
-                                    "image_count": 2
+                                    "image_count": 2,
+                                    "backstage": [
+                                        "books/waystation/from-monticello-to-pasco-why-there-were-no-family-restrooms"
+                                    ]
                                 }
                             ]
                         }
@@ -1006,6 +1012,9 @@
                                         }
                                     ],
                                     "image_count": 1,
+                                    "backstage": [
+                                        "books/waystation/from-monticello-to-pasco-why-there-were-no-family-restrooms"
+                                    ],
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
@@ -1198,6 +1207,9 @@
                                         }
                                     ],
                                     "image_count": 1,
+                                    "backstage": [
+                                        "books/waystation/from-monticello-to-pasco-why-there-were-no-family-restrooms"
+                                    ],
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
@@ -2239,7 +2251,10 @@
                                     "alt": "Inside the recessed steel coin-locker and payphone vestibule alcove leading to the separate MEN and WOMEN restrooms of the 1961 mid-century Norfolk Pathfinder Terminal on the seven-hundred block of Monticello Avenue\u2014with the outdoor concrete mushroom corner canopy and two uniformed security guards by the vending machines blocked behind the thick concrete column\u2014petite five-foot-tall Tammy stands directly in front of twenty-three-year-old Nolan Lennox's manual wheelchair holding the unzipped panels of her pastel baby-blue fleece cardigan open like side blinders over her white ribbed shelf-bra camisole right before lifting her shirt"
                                 }
                             ],
-                            "image_count": 2
+                            "image_count": 2,
+                            "backstage": [
+                                "books/waystation/from-monticello-to-pasco-why-there-were-no-family-restrooms"
+                            ]
                         }
                     ]
                 }
@@ -2444,6 +2459,9 @@
                                         }
                                     ],
                                     "image_count": 1,
+                                    "backstage": [
+                                        "books/waystation/from-monticello-to-pasco-why-there-were-no-family-restrooms"
+                                    ],
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
@@ -2636,6 +2654,9 @@
                                         }
                                     ],
                                     "image_count": 1,
+                                    "backstage": [
+                                        "books/waystation/from-monticello-to-pasco-why-there-were-no-family-restrooms"
+                                    ],
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
