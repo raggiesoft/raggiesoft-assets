@@ -10,31 +10,31 @@
     "ebook_sizes": {
         "epub": "3.5 MB",
         "pdf": "3 MB",
-        "text_epub": "84 KB",
-        "text_pdf": "223 KB",
-        "package_7z": "",
-        "epub_bytes": 3624298,
-        "pdf_bytes": 3140651,
-        "text_epub_bytes": 85890,
-        "text_pdf_bytes": 227983,
-        "package_7z_bytes": 0
+        "text_epub": "90 KB",
+        "text_pdf": "240 KB",
+        "package_7z": "64 KB",
+        "epub_bytes": 3630561,
+        "pdf_bytes": 3158820,
+        "text_epub_bytes": 92088,
+        "text_pdf_bytes": 245562,
+        "package_7z_bytes": 65374
     },
     "illustration_count": 20,
     "word_stats": {
-        "story_word_count": 28867,
-        "lore_word_count": 5584,
-        "combined_word_count": 34451,
-        "story_page_count": 105,
-        "combined_page_count": 125,
-        "reading_hours": 1.9,
-        "reading_minutes": 115,
-        "novel_equivalent": 0.3,
+        "story_word_count": 31563,
+        "lore_word_count": 5608,
+        "combined_word_count": 37171,
+        "story_page_count": 115,
+        "combined_page_count": 135,
+        "reading_hours": 2.1,
+        "reading_minutes": 126,
+        "novel_equivalent": 0.4,
         "scale_category": "Novella",
         "scale_badge": "Novella",
         "benchmark_note": "Standard contemporary novella length (17,500\u201340,000 words)",
         "era_count": 1,
         "chapter_count": 9,
-        "part_count": 20,
+        "part_count": 21,
         "illustration_count": 20,
         "story_arc_count": 0
     },
@@ -45,14 +45,14 @@
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
             "illustration_count": 8,
-            "word_count": 20918,
+            "word_count": 23614,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                     "illustration_count": 5,
-                    "word_count": 17087,
+                    "word_count": 19783,
                     "parts": [
                         {
                             "part_num": 1,
@@ -130,11 +130,23 @@
                             "excerpt": "Crisp November maple leaves crunched dry and bright beneath the gray rubber tips of my matte-silver Lofstrand forearm crutches as I turned onto our quiet street behind Emerald Creek Mall at ten minutes to\u2026"
                         },
                         {
+                            "part_num": 5,
+                            "part_title": "Part 5: Two Direct-Deposit Stubs, One Wobbly Wooden Ramp, and Moving Off Route 13",
+                            "file_path": "e001/c001/p005.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-5-two-direct-deposit-stubs-one-wobbly-wooden-ramp-and-moving-off-route-13",
+                            "word_count": 2652,
+                            "reading_minutes": 11,
+                            "date": "1998-11-21",
+                            "start_time": "10:15",
+                            "location": "Pinecrest Court Trailer Park off Route 13, Chesapeake, Virginia",
+                            "excerpt": "Burnt black coffee steamed out of a chipped ceramic mug beside a dented metal cashbox as Mr. Pruitt, the landlord over Pinecrest Court, pinched his reading glasses onto the end of his nose and squinted down at\u2026"
+                        },
+                        {
                             "part_num": 6,
                             "part_title": "Part 6: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek",
                             "file_path": "e001/c001/p006.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-6-route-13-forty-eight-hours-notice-and-home-to-emerald-creek",
-                            "word_count": 4266,
+                            "word_count": 4310,
                             "reading_minutes": 18,
                             "date": "2000-10-17",
                             "start_time": "08:30",
@@ -353,9 +365,9 @@
             "entry_url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-1-aisle-four-cutback-transfers-and-ready-for-everything",
             "next_crossroads_id": "borderland-three-roads",
             "required_choices": [],
-            "part_count": 11,
-            "word_count": 20918,
-            "reading_minutes": 84,
+            "part_count": 12,
+            "word_count": 23614,
+            "reading_minutes": 95,
             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_emerald_creek_food_court_day1.jpg",
             "eras": [
                 {
@@ -363,14 +375,14 @@
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
                     "illustration_count": 8,
-                    "word_count": 20918,
+                    "word_count": 23614,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                             "illustration_count": 5,
-                            "word_count": 17087,
+                            "word_count": 19783,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -448,11 +460,23 @@
                                     "excerpt": "Crisp November maple leaves crunched dry and bright beneath the gray rubber tips of my matte-silver Lofstrand forearm crutches as I turned onto our quiet street behind Emerald Creek Mall at ten minutes to\u2026"
                                 },
                                 {
+                                    "part_num": 5,
+                                    "part_title": "Part 5: Two Direct-Deposit Stubs, One Wobbly Wooden Ramp, and Moving Off Route 13",
+                                    "file_path": "e001/c001/p005.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-5-two-direct-deposit-stubs-one-wobbly-wooden-ramp-and-moving-off-route-13",
+                                    "word_count": 2652,
+                                    "reading_minutes": 11,
+                                    "date": "1998-11-21",
+                                    "start_time": "10:15",
+                                    "location": "Pinecrest Court Trailer Park off Route 13, Chesapeake, Virginia",
+                                    "excerpt": "Burnt black coffee steamed out of a chipped ceramic mug beside a dented metal cashbox as Mr. Pruitt, the landlord over Pinecrest Court, pinched his reading glasses onto the end of his nose and squinted down at\u2026"
+                                },
+                                {
                                     "part_num": 6,
                                     "part_title": "Part 6: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek",
                                     "file_path": "e001/c001/p006.md",
                                     "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-6-route-13-forty-eight-hours-notice-and-home-to-emerald-creek",
-                                    "word_count": 4266,
+                                    "word_count": 4310,
                                     "reading_minutes": 18,
                                     "date": "2000-10-17",
                                     "start_time": "08:30",
@@ -1027,14 +1051,14 @@
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
             "illustration_count": 8,
-            "word_count": 20918,
+            "word_count": 23614,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                     "illustration_count": 5,
-                    "word_count": 17087,
+                    "word_count": 19783,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1112,11 +1136,23 @@
                             "excerpt": "Crisp November maple leaves crunched dry and bright beneath the gray rubber tips of my matte-silver Lofstrand forearm crutches as I turned onto our quiet street behind Emerald Creek Mall at ten minutes to\u2026"
                         },
                         {
+                            "part_num": 5,
+                            "part_title": "Part 5: Two Direct-Deposit Stubs, One Wobbly Wooden Ramp, and Moving Off Route 13",
+                            "file_path": "e001/c001/p005.md",
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-5-two-direct-deposit-stubs-one-wobbly-wooden-ramp-and-moving-off-route-13",
+                            "word_count": 2652,
+                            "reading_minutes": 11,
+                            "date": "1998-11-21",
+                            "start_time": "10:15",
+                            "location": "Pinecrest Court Trailer Park off Route 13, Chesapeake, Virginia",
+                            "excerpt": "Burnt black coffee steamed out of a chipped ceramic mug beside a dented metal cashbox as Mr. Pruitt, the landlord over Pinecrest Court, pinched his reading glasses onto the end of his nose and squinted down at\u2026"
+                        },
+                        {
                             "part_num": 6,
                             "part_title": "Part 6: Route 13, Forty-Eight Hours' Notice, and Home to Emerald Creek",
                             "file_path": "e001/c001/p006.md",
                             "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-6-route-13-forty-eight-hours-notice-and-home-to-emerald-creek",
-                            "word_count": 4266,
+                            "word_count": 4310,
                             "reading_minutes": 18,
                             "date": "2000-10-17",
                             "start_time": "08:30",
