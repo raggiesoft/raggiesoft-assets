@@ -17,15 +17,15 @@
         "pdf_bytes": 4031964,
         "text_epub_bytes": 128908,
         "text_pdf_bytes": 347672,
-        "package_7z_bytes": 95070
+        "package_7z_bytes": 95101
     },
     "illustration_count": 24,
     "word_stats": {
         "story_word_count": 46517,
-        "lore_word_count": 4717,
-        "combined_word_count": 51234,
+        "lore_word_count": 5651,
+        "combined_word_count": 52168,
         "story_page_count": 169,
-        "combined_page_count": 186,
+        "combined_page_count": 190,
         "reading_hours": 3.1,
         "reading_minutes": 186,
         "novel_equivalent": 0.5,
@@ -325,7 +325,10 @@
                                     "alt": "Beneath the bright vaulted glass skylights of the third-floor food court at The Admiral Center in Downtown Norfolk in June 2002, twenty-four-year-old Nolan Lennox (5-foot-7, navy collared shirt) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, sage-green top) sit side by side at a food-court table with Mallory's fingers laced firmly and protectively over Nolan's hand on the tabletop beside eighteen-year-old Gwen Lennox (6-foot-1, burgundy tee) seated calmly in her manual wheelchair, while petite five-foot-tall ex-girlfriend Tammy (glossy straight black hair, baby-blue cardigan over white tank, flared jeans, chunky platform sneakers) stands three feet back in stunned, speechless jealousy as her attempt to poison Mallory over Nolan and Gwen's shared studio completely backfires."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 1,
+                            "backstage": [
+                                "books/waystation/the-admiral-center-escalator-blindspot-and-section-18-2-387"
+                            ]
                         },
                         {
                             "part_num": 17,
@@ -787,7 +790,10 @@
                                             "alt": "Beneath the bright vaulted glass skylights of the third-floor food court at The Admiral Center in Downtown Norfolk in June 2002, twenty-four-year-old Nolan Lennox (5-foot-7, navy collared shirt) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, sage-green top) sit side by side at a food-court table with Mallory's fingers laced firmly and protectively over Nolan's hand on the tabletop beside eighteen-year-old Gwen Lennox (6-foot-1, burgundy tee) seated calmly in her manual wheelchair, while petite five-foot-tall ex-girlfriend Tammy (glossy straight black hair, baby-blue cardigan over white tank, flared jeans, chunky platform sneakers) stands three feet back in stunned, speechless jealousy as her attempt to poison Mallory over Nolan and Gwen's shared studio completely backfires."
                                         }
                                     ],
-                                    "image_count": 1
+                                    "image_count": 1,
+                                    "backstage": [
+                                        "books/waystation/the-admiral-center-escalator-blindspot-and-section-18-2-387"
+                                    ]
                                 },
                                 {
                                     "part_num": 17,
@@ -1595,7 +1601,10 @@
                                     "alt": "Beneath the bright vaulted glass skylights of the third-floor food court at The Admiral Center in Downtown Norfolk in June 2002, twenty-four-year-old Nolan Lennox (5-foot-7, navy collared shirt) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, sage-green top) sit side by side at a food-court table with Mallory's fingers laced firmly and protectively over Nolan's hand on the tabletop beside eighteen-year-old Gwen Lennox (6-foot-1, burgundy tee) seated calmly in her manual wheelchair, while petite five-foot-tall ex-girlfriend Tammy (glossy straight black hair, baby-blue cardigan over white tank, flared jeans, chunky platform sneakers) stands three feet back in stunned, speechless jealousy as her attempt to poison Mallory over Nolan and Gwen's shared studio completely backfires."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 1,
+                            "backstage": [
+                                "books/waystation/the-admiral-center-escalator-blindspot-and-section-18-2-387"
+                            ]
                         },
                         {
                             "part_num": 17,
