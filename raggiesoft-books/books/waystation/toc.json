@@ -10,24 +10,24 @@
     "ebook_sizes": {
         "epub": "13.7 MB",
         "pdf": "13.3 MB",
-        "text_epub": "220 KB",
-        "text_pdf": "555 KB",
-        "package_7z": "159 KB",
-        "epub_bytes": 14317958,
-        "pdf_bytes": 13964564,
-        "text_epub_bytes": 224823,
-        "text_pdf_bytes": 567927,
-        "package_7z_bytes": 162512
+        "text_epub": "219 KB",
+        "text_pdf": "553 KB",
+        "package_7z": "158 KB",
+        "epub_bytes": 14317172,
+        "pdf_bytes": 13963020,
+        "text_epub_bytes": 224048,
+        "text_pdf_bytes": 565828,
+        "package_7z_bytes": 161451
     },
     "illustration_count": 51,
     "word_stats": {
-        "story_word_count": 77285,
-        "lore_word_count": 10755,
-        "combined_word_count": 88040,
-        "story_page_count": 281,
-        "combined_page_count": 320,
-        "reading_hours": 5.2,
-        "reading_minutes": 309,
+        "story_word_count": 77015,
+        "lore_word_count": 10778,
+        "combined_word_count": 87793,
+        "story_page_count": 280,
+        "combined_page_count": 319,
+        "reading_hours": 5.1,
+        "reading_minutes": 308,
         "novel_equivalent": 0.9,
         "scale_category": "Full-Length Contemporary Novel",
         "scale_badge": "Full-Length Novel",
@@ -732,8 +732,8 @@
                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                     },
                     "part_count": 7,
-                    "word_count": 9036,
-                    "reading_minutes": 37,
+                    "word_count": 8766,
+                    "reading_minutes": 36,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg"
                 }
             ]
@@ -1840,8 +1840,8 @@
                 "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
             },
             "part_count": 7,
-            "word_count": 9036,
-            "reading_minutes": 37,
+            "word_count": 8766,
+            "reading_minutes": 36,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
             "eras": [
                 {
@@ -1849,14 +1849,14 @@
                     "era_title": "Seattle Rescue Route: Puget Sound General and Coming Home",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home",
                     "illustration_count": 5,
-                    "word_count": 9036,
+                    "word_count": 8766,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
                             "illustration_count": 5,
-                            "word_count": 9036,
+                            "word_count": 8766,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -1921,16 +1921,16 @@
                                 },
                                 {
                                     "part_num": 3,
-                                    "part_title": "Part 3: Air-Flotation Bedrest, Seattle Police, and Ms. Rivera's Plain Truth",
+                                    "part_title": "Part 3: IV-to-Oral Step-Down, Seattle Police, and Ms. Rivera's Plain Truth",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p003.md",
-                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-3-air-flotation-bedrest-seattle-police-and-ms-rivera-s-plain-truth",
-                                    "word_count": 856,
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-3-iv-to-oral-step-down-seattle-police-and-ms-rivera-s-plain-truth",
+                                    "word_count": 866,
                                     "reading_minutes": 4,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-08-28",
                                     "start_time": "14:15",
-                                    "location": "Sixth-Floor Surgical Wound Ward, Puget Sound General Hospital, Seattle, Washington",
-                                    "excerpt": "Steady Pacific Northwest mist drifted past my sixth-floor semiprivate window at Puget Sound General Hospital while the alternating-pressure air mattress beneath my hospital gown gave its soft, rhythmic pneumatic\u2026",
+                                    "location": "Sixth-Floor Wound & Medical Ward, Puget Sound General Hospital, Seattle, Washington",
+                                    "excerpt": "Steady late-August Pacific Northwest drizzle drifted past my sixth-floor semiprivate window at Puget Sound General Hospital while the alternating-pressure air mattress beneath my hospital gown gave its soft\u2026",
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
                                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
@@ -1939,62 +1939,26 @@
                                 },
                                 {
                                     "part_num": 4,
-                                    "part_title": "Part 4: Hospital Television Static and Three Time Zones From Home",
+                                    "part_title": "Part 4: Labor Day Weekend Reunion in Seattle and Wide Awake by Sea-Tac",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p004.md",
-                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-4-hospital-television-static-and-three-time-zones-from-home",
-                                    "word_count": 469,
-                                    "reading_minutes": 2,
-                                    "path_id": "seattle-full-exodus-rescue",
-                                    "date": "2001-09-11",
-                                    "start_time": "06:03",
-                                    "location": "Sixth-Floor Surgical Wound Ward, Puget Sound General Hospital, Seattle, Washington",
-                                    "excerpt": "At three minutes past six on Tuesday morning Pacific Time\u2014nine-oh-three back home in Chesapeake\u2014the muted nineteen-inch television bolted high on the plaster wall of my sixth-floor semiprivate room at Puget\u2026",
-                                    "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
-                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
-                                        "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
-                                    }
-                                },
-                                {
-                                    "part_num": 5,
-                                    "part_title": "Part 5: Eighteen Candles Over a Corded Hospital Phone and Grandpa's Iron Vow",
-                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p005.md",
-                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-5-eighteen-candles-over-a-corded-hospital-phone-and-grandpa-s-iron-vow",
-                                    "word_count": 501,
-                                    "reading_minutes": 3,
-                                    "path_id": "seattle-full-exodus-rescue",
-                                    "date": "2001-10-19",
-                                    "start_time": "15:30",
-                                    "location": "Sixth-Floor Surgical Wound Ward, Puget Sound General Hospital, Seattle, Washington",
-                                    "excerpt": "Grey October Puget Sound drizzle streaked steadily down my sixth-floor hospital window while I sat propped at a careful thirty-degree angle\u2014finally cleared by my wound surgeon for fifteen-minute seated intervals\u2026",
-                                    "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
-                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
-                                        "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
-                                    }
-                                },
-                                {
-                                    "part_num": 6,
-                                    "part_title": "Part 6: Crying Into Four Safe Arms in Seattle and Wide Awake by Sea-Tac",
-                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p006.md",
-                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-6-crying-into-four-safe-arms-in-seattle-and-wide-awake-by-sea-tac",
-                                    "word_count": 2630,
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-4-labor-day-weekend-reunion-in-seattle-and-wide-awake-by-sea-tac",
+                                    "word_count": 2646,
                                     "reading_minutes": 11,
                                     "path_id": "seattle-full-exodus-rescue",
-                                    "date": "2001-10-26",
+                                    "date": "2001-08-31",
                                     "start_time": "13:15",
                                     "location": "Puget Sound General Hospital in Seattle & Airport Hotel Near Sea-Tac, Washington",
-                                    "excerpt": "Seven days after Gwen turned eighteen\u2014carrying her brand-new adult Virginia identification card straight through post-September-eleventh airport security checkpoints beside Mallory Walsh on two Gateway Airlines\u2026",
+                                    "excerpt": "Four days before Chesapeake public schools opened for junior year after Labor Day\u2014with seventeen-year-old Gwen carrying Grandpa Walter's notarized guardian travel letter and high-school ID card, Ray Halstead\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_puget_sound_discharge_reunion.jpg",
-                                    "image_alt": "Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy October afternoon in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of newly eighteen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand.",
+                                    "image_alt": "Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy Friday afternoon at the start of Labor Day weekend in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_puget_sound_discharge_reunion.jpg",
-                                            "alt": "Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy October afternoon in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of newly eighteen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand."
+                                            "alt": "Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy Friday afternoon at the start of Labor Day weekend in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand."
                                         },
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p004_mallory_earned_hug_gwen_approving.jpg",
-                                            "alt": "Inside the rainy sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle, fully dressed twenty-three-year-old Nolan Lennox sits in his manual wheelchair (with his two matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) locked in a deeply emotional, massively earned two-armed hug with Mallory Walsh kneeling warmly beside him, while newly eighteen-year-old sister Gwen Lennox sits right beside Nolan's wheel with her matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair, beaming with proud, wholehearted sisterly approval."
+                                            "alt": "Inside the rainy sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle, fully dressed twenty-three-year-old Nolan Lennox sits in his manual wheelchair (with his two matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) locked in a deeply emotional, massively earned two-armed hug with Mallory Walsh kneeling warmly beside him, while seventeen-year-old sister Gwen Lennox sits right beside Nolan's wheel with her matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair, beaming with proud, wholehearted sisterly approval."
                                         }
                                     ],
                                     "image_count": 2,
@@ -2005,17 +1969,53 @@
                                     }
                                 },
                                 {
-                                    "part_num": 7,
-                                    "part_title": "Part 7: Sea-Tac Checkpoints, Skipping the Prismatic Corridor via Midway, and Grandpa's Final Watch",
-                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p007.md",
-                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-7-sea-tac-checkpoints-skipping-the-prismatic-corridor-via-midway-and-grandpa-s-final-watch",
-                                    "word_count": 1400,
-                                    "reading_minutes": 6,
+                                    "part_num": 5,
+                                    "part_title": "Part 5: Skipping the Prismatic Corridor via Midway and Home Before Junior Year",
+                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p005.md",
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-5-skipping-the-prismatic-corridor-via-midway-and-home-before-junior-year",
+                                    "word_count": 1010,
+                                    "reading_minutes": 5,
                                     "path_id": "seattle-full-exodus-rescue",
-                                    "date": "2001-10-27",
+                                    "date": "2001-09-01",
                                     "start_time": "07:20",
-                                    "location": "Seattle-Tacoma International Airport Through Chicago Midway to Grandpa Walter's House & Studio 205, Virginia",
+                                    "location": "Seattle-Tacoma International Airport Through Chicago Midway to Grandpa Walter's House in Chesapeake, Virginia",
                                     "excerpt": "Pale, rain-washed Saturday morning light filtered across the concrete columns of the rental-car return garage at Seattle-Tacoma International Airport when Mallory backed our rented Vanguard Fleet Services sedan\u2026",
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
+                                        "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
+                                    }
+                                },
+                                {
+                                    "part_num": 6,
+                                    "part_title": "Part 6: Resting Off My Hip on Eden Way North When the Sky Went Silent",
+                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p006.md",
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-6-resting-off-my-hip-on-eden-way-north-when-the-sky-went-silent",
+                                    "word_count": 353,
+                                    "reading_minutes": 2,
+                                    "path_id": "seattle-full-exodus-rescue",
+                                    "date": "2001-09-11",
+                                    "start_time": "09:03",
+                                    "location": "Grandpa Walter's House Near Emerald Creek Mall, Chesapeake, Virginia",
+                                    "excerpt": "Ten days after Gateway Airlines set Gwen, Mallory, and me down at Norfolk International Airport\u2014resting flat on my right side across Grandpa Walter's unfolded downstairs family-room sofa bed with my oral\u2026",
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
+                                        "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
+                                    }
+                                },
+                                {
+                                    "part_num": 7,
+                                    "part_title": "Part 7: Eighteen Candles Around Grandpa's Table, Ray's Home Line, and Studio 205",
+                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p007.md",
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-7-eighteen-candles-around-grandpa-s-table-ray-s-home-line-and-studio-205",
+                                    "word_count": 711,
+                                    "reading_minutes": 3,
+                                    "path_id": "seattle-full-exodus-rescue",
+                                    "date": "2001-10-19",
+                                    "start_time": "18:30",
+                                    "location": "Grandpa Walter's House in Chesapeake to Studio 205 at Harborview Towers, Norfolk, Virginia",
+                                    "excerpt": "Sitting right across Grandpa Walter's warm kitchen table off Eden Way North on Friday evening, October nineteenth\u2014watching yellow wax drip down eighteen crooked birthday candles on a homemade chocolate sheet\u2026",
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
                                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
@@ -4265,8 +4265,8 @@
                 "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
             },
             "part_count": 7,
-            "word_count": 9036,
-            "reading_minutes": 37,
+            "word_count": 8766,
+            "reading_minutes": 36,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
             "eras": [
                 {
@@ -4274,14 +4274,14 @@
                     "era_title": "Seattle Rescue Route: Puget Sound General and Coming Home",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home",
                     "illustration_count": 5,
-                    "word_count": 9036,
+                    "word_count": 8766,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
                             "illustration_count": 5,
-                            "word_count": 9036,
+                            "word_count": 8766,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -4346,16 +4346,16 @@
                                 },
                                 {
                                     "part_num": 3,
-                                    "part_title": "Part 3: Air-Flotation Bedrest, Seattle Police, and Ms. Rivera's Plain Truth",
+                                    "part_title": "Part 3: IV-to-Oral Step-Down, Seattle Police, and Ms. Rivera's Plain Truth",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p003.md",
-                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-3-air-flotation-bedrest-seattle-police-and-ms-rivera-s-plain-truth",
-                                    "word_count": 856,
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-3-iv-to-oral-step-down-seattle-police-and-ms-rivera-s-plain-truth",
+                                    "word_count": 866,
                                     "reading_minutes": 4,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-08-28",
                                     "start_time": "14:15",
-                                    "location": "Sixth-Floor Surgical Wound Ward, Puget Sound General Hospital, Seattle, Washington",
-                                    "excerpt": "Steady Pacific Northwest mist drifted past my sixth-floor semiprivate window at Puget Sound General Hospital while the alternating-pressure air mattress beneath my hospital gown gave its soft, rhythmic pneumatic\u2026",
+                                    "location": "Sixth-Floor Wound & Medical Ward, Puget Sound General Hospital, Seattle, Washington",
+                                    "excerpt": "Steady late-August Pacific Northwest drizzle drifted past my sixth-floor semiprivate window at Puget Sound General Hospital while the alternating-pressure air mattress beneath my hospital gown gave its soft\u2026",
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
                                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
@@ -4364,62 +4364,26 @@
                                 },
                                 {
                                     "part_num": 4,
-                                    "part_title": "Part 4: Hospital Television Static and Three Time Zones From Home",
+                                    "part_title": "Part 4: Labor Day Weekend Reunion in Seattle and Wide Awake by Sea-Tac",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p004.md",
-                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-4-hospital-television-static-and-three-time-zones-from-home",
-                                    "word_count": 469,
-                                    "reading_minutes": 2,
-                                    "path_id": "seattle-full-exodus-rescue",
-                                    "date": "2001-09-11",
-                                    "start_time": "06:03",
-                                    "location": "Sixth-Floor Surgical Wound Ward, Puget Sound General Hospital, Seattle, Washington",
-                                    "excerpt": "At three minutes past six on Tuesday morning Pacific Time\u2014nine-oh-three back home in Chesapeake\u2014the muted nineteen-inch television bolted high on the plaster wall of my sixth-floor semiprivate room at Puget\u2026",
-                                    "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
-                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
-                                        "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
-                                    }
-                                },
-                                {
-                                    "part_num": 5,
-                                    "part_title": "Part 5: Eighteen Candles Over a Corded Hospital Phone and Grandpa's Iron Vow",
-                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p005.md",
-                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-5-eighteen-candles-over-a-corded-hospital-phone-and-grandpa-s-iron-vow",
-                                    "word_count": 501,
-                                    "reading_minutes": 3,
-                                    "path_id": "seattle-full-exodus-rescue",
-                                    "date": "2001-10-19",
-                                    "start_time": "15:30",
-                                    "location": "Sixth-Floor Surgical Wound Ward, Puget Sound General Hospital, Seattle, Washington",
-                                    "excerpt": "Grey October Puget Sound drizzle streaked steadily down my sixth-floor hospital window while I sat propped at a careful thirty-degree angle\u2014finally cleared by my wound surgeon for fifteen-minute seated intervals\u2026",
-                                    "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
-                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
-                                        "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
-                                    }
-                                },
-                                {
-                                    "part_num": 6,
-                                    "part_title": "Part 6: Crying Into Four Safe Arms in Seattle and Wide Awake by Sea-Tac",
-                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p006.md",
-                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-6-crying-into-four-safe-arms-in-seattle-and-wide-awake-by-sea-tac",
-                                    "word_count": 2630,
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-4-labor-day-weekend-reunion-in-seattle-and-wide-awake-by-sea-tac",
+                                    "word_count": 2646,
                                     "reading_minutes": 11,
                                     "path_id": "seattle-full-exodus-rescue",
-                                    "date": "2001-10-26",
+                                    "date": "2001-08-31",
                                     "start_time": "13:15",
                                     "location": "Puget Sound General Hospital in Seattle & Airport Hotel Near Sea-Tac, Washington",
-                                    "excerpt": "Seven days after Gwen turned eighteen\u2014carrying her brand-new adult Virginia identification card straight through post-September-eleventh airport security checkpoints beside Mallory Walsh on two Gateway Airlines\u2026",
+                                    "excerpt": "Four days before Chesapeake public schools opened for junior year after Labor Day\u2014with seventeen-year-old Gwen carrying Grandpa Walter's notarized guardian travel letter and high-school ID card, Ray Halstead\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_puget_sound_discharge_reunion.jpg",
-                                    "image_alt": "Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy October afternoon in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of newly eighteen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand.",
+                                    "image_alt": "Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy Friday afternoon at the start of Labor Day weekend in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_puget_sound_discharge_reunion.jpg",
-                                            "alt": "Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy October afternoon in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of newly eighteen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand."
+                                            "alt": "Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy Friday afternoon at the start of Labor Day weekend in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand."
                                         },
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p004_mallory_earned_hug_gwen_approving.jpg",
-                                            "alt": "Inside the rainy sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle, fully dressed twenty-three-year-old Nolan Lennox sits in his manual wheelchair (with his two matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) locked in a deeply emotional, massively earned two-armed hug with Mallory Walsh kneeling warmly beside him, while newly eighteen-year-old sister Gwen Lennox sits right beside Nolan's wheel with her matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair, beaming with proud, wholehearted sisterly approval."
+                                            "alt": "Inside the rainy sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle, fully dressed twenty-three-year-old Nolan Lennox sits in his manual wheelchair (with his two matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) locked in a deeply emotional, massively earned two-armed hug with Mallory Walsh kneeling warmly beside him, while seventeen-year-old sister Gwen Lennox sits right beside Nolan's wheel with her matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair, beaming with proud, wholehearted sisterly approval."
                                         }
                                     ],
                                     "image_count": 2,
@@ -4430,17 +4394,53 @@
                                     }
                                 },
                                 {
-                                    "part_num": 7,
-                                    "part_title": "Part 7: Sea-Tac Checkpoints, Skipping the Prismatic Corridor via Midway, and Grandpa's Final Watch",
-                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p007.md",
-                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-7-sea-tac-checkpoints-skipping-the-prismatic-corridor-via-midway-and-grandpa-s-final-watch",
-                                    "word_count": 1400,
-                                    "reading_minutes": 6,
+                                    "part_num": 5,
+                                    "part_title": "Part 5: Skipping the Prismatic Corridor via Midway and Home Before Junior Year",
+                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p005.md",
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-5-skipping-the-prismatic-corridor-via-midway-and-home-before-junior-year",
+                                    "word_count": 1010,
+                                    "reading_minutes": 5,
                                     "path_id": "seattle-full-exodus-rescue",
-                                    "date": "2001-10-27",
+                                    "date": "2001-09-01",
                                     "start_time": "07:20",
-                                    "location": "Seattle-Tacoma International Airport Through Chicago Midway to Grandpa Walter's House & Studio 205, Virginia",
+                                    "location": "Seattle-Tacoma International Airport Through Chicago Midway to Grandpa Walter's House in Chesapeake, Virginia",
                                     "excerpt": "Pale, rain-washed Saturday morning light filtered across the concrete columns of the rental-car return garage at Seattle-Tacoma International Airport when Mallory backed our rented Vanguard Fleet Services sedan\u2026",
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
+                                        "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
+                                    }
+                                },
+                                {
+                                    "part_num": 6,
+                                    "part_title": "Part 6: Resting Off My Hip on Eden Way North When the Sky Went Silent",
+                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p006.md",
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-6-resting-off-my-hip-on-eden-way-north-when-the-sky-went-silent",
+                                    "word_count": 353,
+                                    "reading_minutes": 2,
+                                    "path_id": "seattle-full-exodus-rescue",
+                                    "date": "2001-09-11",
+                                    "start_time": "09:03",
+                                    "location": "Grandpa Walter's House Near Emerald Creek Mall, Chesapeake, Virginia",
+                                    "excerpt": "Ten days after Gateway Airlines set Gwen, Mallory, and me down at Norfolk International Airport\u2014resting flat on my right side across Grandpa Walter's unfolded downstairs family-room sofa bed with my oral\u2026",
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
+                                        "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
+                                    }
+                                },
+                                {
+                                    "part_num": 7,
+                                    "part_title": "Part 7: Eighteen Candles Around Grandpa's Table, Ray's Home Line, and Studio 205",
+                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p007.md",
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-7-eighteen-candles-around-grandpa-s-table-ray-s-home-line-and-studio-205",
+                                    "word_count": 711,
+                                    "reading_minutes": 3,
+                                    "path_id": "seattle-full-exodus-rescue",
+                                    "date": "2001-10-19",
+                                    "start_time": "18:30",
+                                    "location": "Grandpa Walter's House in Chesapeake to Studio 205 at Harborview Towers, Norfolk, Virginia",
+                                    "excerpt": "Sitting right across Grandpa Walter's warm kitchen table off Eden Way North on Friday evening, October nineteenth\u2014watching yellow wax drip down eighteen crooked birthday candles on a homemade chocolate sheet\u2026",
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
                                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
