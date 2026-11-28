@@ -21,6 +21,18 @@
     th { font-weight: 600; }
     .badge-ok { font-weight: 700; color: var(--ok); }
     code { font-family: 'Cascadia Mono', Consolas, monospace; font-size: 0.92em; }
+    @media (max-width: 767.98px) {
+      body { padding: 0.75rem; }
+      main { padding: 1.1rem; }
+      table, tbody { display: block; width: 100%; }
+      caption { display: block; text-align: left; font-weight: 700; margin-bottom: 0.6rem; }
+      thead { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0,0,0,0); border: 0; }
+      tbody tr { display: block; border: 1px solid var(--border); border-radius: 0.6rem; padding: 0.75rem 0.9rem; margin-bottom: 0.85rem; }
+      tbody th[scope="row"] { display: block; border: 0; border-bottom: 1px solid var(--border); padding: 0 0 0.45rem; margin-bottom: 0.45rem; }
+      tbody td { display: block; border: 0; border-bottom: 1px dashed var(--border); padding: 0.4rem 0; overflow-wrap: anywhere; }
+      tbody td:last-child { border-bottom: 0; padding-bottom: 0; }
+      tbody td[data-label]::before { content: attr(data-label); display: block; font-size: 0.72rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; color: var(--muted); margin-bottom: 0.15rem; }
+    }
     @media print { body { background: #fff; color: #000; padding: 0; } main { border: none; max-width: 100%; } }
   </style>
 </head>
@@ -36,32 +48,32 @@
   </div>
 
   <h2>1. Automated Contrast &amp; Keyboard Mnemonic Verification Summary</h2>
-  <table>
+  <table role="table">
     <caption>Measured Visual Contrast &amp; Keyboard Access Telemetry for RaggieSoft Installer Studio</caption>
     <thead><tr><th scope="col">Surface / Check</th><th scope="col">Measured Value</th><th scope="col">WCAG 2.2 / 508 Threshold</th><th scope="col">Result</th></tr></thead>
-    <tbody>
-      <tr><th scope="row">Header Banner Text (<code>#F8FAFC</code> on <code>#0B132B</code>)</th><td>17.6:1</td><td>&ge; 4.5:1 (AA) / 7.0:1 (AAA)</td><td class="badge-ok">Supports (AAA)</td></tr>
-      <tr><th scope="row">Dark Mode Body Text (<code>#F8FAFC</code> on <code>#0D1426</code>)</th><td>17.5:1</td><td>&ge; 4.5:1 (AA) / 7.0:1 (AAA)</td><td class="badge-ok">Supports (AAA)</td></tr>
-      <tr><th scope="row">Light Mode Body Text (<code>#0F172A</code> on <code>#F4F7FB</code>)</th><td>16.6:1</td><td>&ge; 4.5:1 (AA) / 7.0:1 (AAA)</td><td class="badge-ok">Supports (AAA)</td></tr>
-      <tr><th scope="row">Decorative Accent Bar (<code>#2563EB</code>) + OS High Contrast Override</th><td>3.6:1 (auto-switches to <code>COLOR_HIGHLIGHT</code> under <code>SPI_GETHIGHCONTRAST</code>)</td><td>OS Contrast Themes Honored</td><td class="badge-ok">Supports</td></tr>
-      <tr><th scope="row">Keyboard Accelerator Mnemonics (<code>&amp;</code> Access Keys)</th><td><code>&amp;Install</code>, <code>&amp;Open RaggieSoft Installer Studio when setup finishes</code></td><td>100% Interactive Controls Reachable via Keyboard</td><td class="badge-ok">Supports</td></tr>
+    <tbody role="rowgroup">
+      <tr role="row"><th scope="row" role="rowheader">Header Banner Text (<code>#F8FAFC</code> on <code>#0B132B</code>)</th><td role="cell" data-label="Measured Value">17.6:1</td><td role="cell" data-label="WCAG 2.2 / 508 Threshold">&ge; 4.5:1 (AA) / 7.0:1 (AAA)</td><td class="badge-ok" role="cell" data-label="Result">Supports (AAA)</td></tr>
+      <tr role="row"><th scope="row" role="rowheader">Dark Mode Body Text (<code>#F8FAFC</code> on <code>#0D1426</code>)</th><td role="cell" data-label="Measured Value">17.5:1</td><td role="cell" data-label="WCAG 2.2 / 508 Threshold">&ge; 4.5:1 (AA) / 7.0:1 (AAA)</td><td class="badge-ok" role="cell" data-label="Result">Supports (AAA)</td></tr>
+      <tr role="row"><th scope="row" role="rowheader">Light Mode Body Text (<code>#0F172A</code> on <code>#F4F7FB</code>)</th><td role="cell" data-label="Measured Value">16.6:1</td><td role="cell" data-label="WCAG 2.2 / 508 Threshold">&ge; 4.5:1 (AA) / 7.0:1 (AAA)</td><td class="badge-ok" role="cell" data-label="Result">Supports (AAA)</td></tr>
+      <tr role="row"><th scope="row" role="rowheader">Decorative Accent Bar (<code>#2563EB</code>) + OS High Contrast Override</th><td role="cell" data-label="Measured Value">3.6:1 (auto-switches to <code>COLOR_HIGHLIGHT</code> under <code>SPI_GETHIGHCONTRAST</code>)</td><td role="cell" data-label="WCAG 2.2 / 508 Threshold">OS Contrast Themes Honored</td><td class="badge-ok" role="cell" data-label="Result">Supports</td></tr>
+      <tr role="row"><th scope="row" role="rowheader">Keyboard Accelerator Mnemonics (<code>&amp;</code> Access Keys)</th><td role="cell" data-label="Measured Value"><code>&amp;Install</code>, <code>&amp;Open RaggieSoft Installer Studio when setup finishes</code></td><td role="cell" data-label="WCAG 2.2 / 508 Threshold">100% Interactive Controls Reachable via Keyboard</td><td class="badge-ok" role="cell" data-label="Result">Supports</td></tr>
     </tbody>
   </table>
 
   <h2>2. WCAG 2.2 Level A &amp; AA + Revised Section 508 (Chapter 5 Software) Conformance Table</h2>
-  <table>
+  <table role="table">
     <caption>Criteria Conformance Breakdown for Native Win32 Setup.exe &amp; Standalone Enterprise .MSI</caption>
     <thead><tr><th scope="col">Criterion</th><th scope="col">Conformance Level</th><th scope="col">Remarks and Explanations</th></tr></thead>
-    <tbody>
-      <tr><th scope="row">1.1.1 Non-text Content (Level A)</th><td class="badge-ok">Supports</td><td>Decorative header banners and cover artwork do not trap keyboard focus; all interactive actions carry explicit programmatic Win32 labels.</td></tr>
-      <tr><th scope="row">1.3.1 Info and Relationships (Level A)</th><td class="badge-ok">Supports</td><td>Uses native Win32 Common Controls v6 (`BUTTON`, `EDIT`, `MSFTEDIT_CLASS`, `PROGRESS_CLASSW`) exposing standard MSAA / UI Automation roles and group associations.</td></tr>
-      <tr><th scope="row">1.4.3 Contrast (Minimum) (Level AA)</th><td class="badge-ok">Supports</td><td>All text pairs exceed 9.4:1 in Light Mode and 11.2:1 in Dark Mode, and immediately adopt user `GetSysColor` tokens when Windows Contrast Themes (`SPI_GETHIGHCONTRAST`) are enabled.</td></tr>
-      <tr><th scope="row">1.4.4 Resize Text &amp; 1.4.10 Reflow (Level AA)</th><td class="badge-ok">Supports</td><td>Manifest declares `PerMonitorV2` DPI awareness and multiplies font/control metrics by `HKCU\Software\Microsoft\Accessibility\TextScaleFactor`.</td></tr>
-      <tr><th scope="row">1.4.11 Non-text Contrast (Level AA)</th><td class="badge-ok">Supports</td><td>Native Common Controls v6 borders, radio indicators, checkboxes, and progress bars render with OS-managed contrast and High-Contrast borders.</td></tr>
-      <tr><th scope="row">2.1.1 Keyboard &amp; 2.1.2 No Keyboard Trap (Level A)</th><td class="badge-ok">Supports</td><td>Full `IsDialogMessageW` loop supports `Tab`, `Shift+Tab`, `Arrow` radio selection, `Enter`, `Esc`, and `Alt` mnemonics; headless `/qn` and `--extract-msi` CLI modes require zero GUI interaction.</td></tr>
-      <tr><th scope="row">2.4.3 Focus Order &amp; 2.4.7 Focus Visible (Level AA)</th><td class="badge-ok">Supports</td><td>Clears `UISF_HIDEFOCUS` and `UISF_HIDEACCEL` on `WM_CREATE` so keyboard focus rectangles and access-key underlines are visible immediately upon window creation.</td></tr>
-      <tr><th scope="row">4.1.2 Name, Role, Value &amp; 4.1.3 Status Messages (Level AA)</th><td class="badge-ok">Supports</td><td>Fires `NotifyWinEvent(EVENT_OBJECT_NAMECHANGE)` on wizard step transitions and updates real-time progress bar values (`0..1000`) via `MsiSetExternalUIRecord`.</td></tr>
-      <tr><th scope="row">Revised Section 508 — 502 Interoperability with Assistive Technology</th><td class="badge-ok">Supports</td><td>Both `SetupWizard.exe` and the embedded standalone `.msi` (Wizard 97 fallback + `msiexec /qn`) interoperate cleanly with Windows Narrator, NVDA, and JAWS.</td></tr>
+    <tbody role="rowgroup">
+      <tr role="row"><th scope="row" role="rowheader">1.1.1 Non-text Content (Level A)</th><td class="badge-ok" role="cell" data-label="Conformance Level">Supports</td><td role="cell" data-label="Remarks and Explanations">Decorative header banners and cover artwork do not trap keyboard focus; all interactive actions carry explicit programmatic Win32 labels.</td></tr>
+      <tr role="row"><th scope="row" role="rowheader">1.3.1 Info and Relationships (Level A)</th><td class="badge-ok" role="cell" data-label="Conformance Level">Supports</td><td role="cell" data-label="Remarks and Explanations">Uses native Win32 Common Controls v6 (`BUTTON`, `EDIT`, `MSFTEDIT_CLASS`, `PROGRESS_CLASSW`) exposing standard MSAA / UI Automation roles and group associations.</td></tr>
+      <tr role="row"><th scope="row" role="rowheader">1.4.3 Contrast (Minimum) (Level AA)</th><td class="badge-ok" role="cell" data-label="Conformance Level">Supports</td><td role="cell" data-label="Remarks and Explanations">All text pairs exceed 9.4:1 in Light Mode and 11.2:1 in Dark Mode, and immediately adopt user `GetSysColor` tokens when Windows Contrast Themes (`SPI_GETHIGHCONTRAST`) are enabled.</td></tr>
+      <tr role="row"><th scope="row" role="rowheader">1.4.4 Resize Text &amp; 1.4.10 Reflow (Level AA)</th><td class="badge-ok" role="cell" data-label="Conformance Level">Supports</td><td role="cell" data-label="Remarks and Explanations">Manifest declares `PerMonitorV2` DPI awareness and multiplies font/control metrics by `HKCU\Software\Microsoft\Accessibility\TextScaleFactor`.</td></tr>
+      <tr role="row"><th scope="row" role="rowheader">1.4.11 Non-text Contrast (Level AA)</th><td class="badge-ok" role="cell" data-label="Conformance Level">Supports</td><td role="cell" data-label="Remarks and Explanations">Native Common Controls v6 borders, radio indicators, checkboxes, and progress bars render with OS-managed contrast and High-Contrast borders.</td></tr>
+      <tr role="row"><th scope="row" role="rowheader">2.1.1 Keyboard &amp; 2.1.2 No Keyboard Trap (Level A)</th><td class="badge-ok" role="cell" data-label="Conformance Level">Supports</td><td role="cell" data-label="Remarks and Explanations">Full `IsDialogMessageW` loop supports `Tab`, `Shift+Tab`, `Arrow` radio selection, `Enter`, `Esc`, and `Alt` mnemonics; headless `/qn` and `--extract-msi` CLI modes require zero GUI interaction.</td></tr>
+      <tr role="row"><th scope="row" role="rowheader">2.4.3 Focus Order &amp; 2.4.7 Focus Visible (Level AA)</th><td class="badge-ok" role="cell" data-label="Conformance Level">Supports</td><td role="cell" data-label="Remarks and Explanations">Clears `UISF_HIDEFOCUS` and `UISF_HIDEACCEL` on `WM_CREATE` so keyboard focus rectangles and access-key underlines are visible immediately upon window creation.</td></tr>
+      <tr role="row"><th scope="row" role="rowheader">4.1.2 Name, Role, Value &amp; 4.1.3 Status Messages (Level AA)</th><td class="badge-ok" role="cell" data-label="Conformance Level">Supports</td><td role="cell" data-label="Remarks and Explanations">Fires `NotifyWinEvent(EVENT_OBJECT_NAMECHANGE)` on wizard step transitions and updates real-time progress bar values (`0..1000`) via `MsiSetExternalUIRecord`.</td></tr>
+      <tr role="row"><th scope="row" role="rowheader">Revised Section 508 — 502 Interoperability with Assistive Technology</th><td class="badge-ok" role="cell" data-label="Conformance Level">Supports</td><td role="cell" data-label="Remarks and Explanations">Both `SetupWizard.exe` and the embedded standalone `.msi` (Wizard 97 fallback + `msiexec /qn`) interoperate cleanly with Windows Narrator, NVDA, and JAWS.</td></tr>
     </tbody>
   </table>
 </main>
