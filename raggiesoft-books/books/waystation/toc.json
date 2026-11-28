@@ -13,17 +13,17 @@
         "text_epub": "207 KB",
         "text_pdf": "519 KB",
         "package_7z": "150 KB",
-        "epub_bytes": 14305325,
-        "pdf_bytes": 13929733,
-        "text_epub_bytes": 212174,
-        "text_pdf_bytes": 531292,
-        "package_7z_bytes": 153847
+        "epub_bytes": 14305359,
+        "pdf_bytes": 13929837,
+        "text_epub_bytes": 212211,
+        "text_pdf_bytes": 531372,
+        "package_7z_bytes": 153903
     },
     "illustration_count": 51,
     "word_stats": {
-        "story_word_count": 72328,
+        "story_word_count": 72344,
         "lore_word_count": 9926,
-        "combined_word_count": 82254,
+        "combined_word_count": 82270,
         "story_page_count": 263,
         "combined_page_count": 299,
         "reading_hours": 4.8,
@@ -45,14 +45,14 @@
             "era_title": "Book One: Tidewater and Studio 205",
             "era_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205",
             "illustration_count": 13,
-            "word_count": 35183,
+            "word_count": 35182,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease",
                     "illustration_count": 13,
-                    "word_count": 35183,
+                    "word_count": 35182,
                     "parts": [
                         {
                             "part_num": 1,
@@ -379,7 +379,7 @@
                             "part_title": "Part 18: Eighty-Nine Degrees and One Rattling Fan",
                             "file_path": "e001/c001/p018.md",
                             "url": "/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease/part-18-eighty-nine-degrees-and-one-rattling-fan",
-                            "word_count": 828,
+                            "word_count": 827,
                             "reading_minutes": 4,
                             "date": "2002-08-17",
                             "start_time": "15:10",
@@ -611,7 +611,7 @@
             "kicker": "Story Crossroads \u2022 Tuesday, August 21, 2001, 9:50 AM \u2014 1961 Norfolk Pathfinder Terminal",
             "title": "Inside the Monticello Locker Alcove: Does Nolan Reject Tammy Now or Wait While She Buys Tickets?",
             "prompt": "Wheeled six feet behind the thick concrete column into the recessed steel coin-locker alcove leading to the 1961 Monticello Avenue terminal's separate Men's and Women's restrooms\u2014shielded from concourse security by the lockers, Tammy's back, and her open baby-blue cardigan wings\u2014twenty-three-year-old Nolan Lennox faces Tammy's ultimate trump card: a silent two-second flash beneath her braless shelf-bra camisole and a soft Week-One promise of zero yelling in Seattle plus a payphone call to Blue Tech in Richmond. Every option opens a complete, coequal story route.",
-            "required_choices": {},
+            "required_choices": [],
             "options": [
                 {
                     "id": "lock-wheelchair-brakes-emerald-creek",
@@ -624,7 +624,7 @@
                         "norfolk-pathfinder-terminal-2001": "lock-wheelchair-brakes-emerald-creek"
                     },
                     "part_count": 12,
-                    "word_count": 22274,
+                    "word_count": 22273,
                     "reading_minutes": 90,
                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg"
                 },
@@ -715,7 +715,7 @@
                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
                     },
                     "part_count": 4,
-                    "word_count": 4993,
+                    "word_count": 4988,
                     "reading_minutes": 20,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg"
                 },
@@ -732,7 +732,7 @@
                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                     },
                     "part_count": 4,
-                    "word_count": 6149,
+                    "word_count": 6171,
                     "reading_minutes": 25,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg"
                 }
@@ -745,7 +745,7 @@
             "kicker": "Story Crossroads \u2022 Second Afternoon of the Twin Moons, The Sunken Milestone",
             "title": "Three Gentle Roads Toward the Waystation: How Do Nolan, Gwen, and Mallory Travel?",
             "prompt": "With both wheelchairs and Mallory's sneakers left behind in Studio 205 on Earth, barefoot twenty-four-year-old Nolan Lennox, his six-foot-one nineteen-year-old sister Gwen, and his twenty-four-year-old girlfriend Mallory Walsh have learned why Vaeloria's sleeping Three-Ring Bronze Astrolabe answered their Friday-night wish: only an astronomer's eye, a truth-reader's diagnostic mind, and a guardian's unhurried heart turning together can heal The Great Drift. Here at the Sunken Milestone, peddler Bramwell Kettle shows all three of them three gentle 1980s-fantasy routes winding inward. Every option opens a complete, coequal story route.",
-            "required_choices": {},
+            "required_choices": [],
             "options": [
                 {
                     "id": "lantern-barge-canal",
@@ -805,7 +805,7 @@
             "entry_part": "e001/c001/p001.md",
             "entry_url": "/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease/part-1-aisle-four-cutback-transfers-and-ready-for-everything",
             "next_crossroads_id": "norfolk-pathfinder-terminal-2001",
-            "required_choices": {},
+            "required_choices": [],
             "part_count": 9,
             "word_count": 17833,
             "reading_minutes": 72,
@@ -1152,14 +1152,14 @@
                     "era_title": "Book One: Tidewater and Studio 205",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205#rejoin-ticket-snap-refuse-boarding",
                     "illustration_count": 4,
-                    "word_count": 14305,
+                    "word_count": 14304,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease",
                             "illustration_count": 4,
-                            "word_count": 14305,
+                            "word_count": 14304,
                             "parts": [
                                 {
                                     "part_num": 11,
@@ -1289,7 +1289,7 @@
                                     "part_title": "Part 18: Eighty-Nine Degrees and One Rattling Fan",
                                     "file_path": "e001/c001/p018.md",
                                     "url": "/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease/part-18-eighty-nine-degrees-and-one-rattling-fan",
-                                    "word_count": 828,
+                                    "word_count": 827,
                                     "reading_minutes": 4,
                                     "date": "2002-08-17",
                                     "start_time": "15:10",
@@ -1542,7 +1542,7 @@
                 "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
             },
             "part_count": 4,
-            "word_count": 4993,
+            "word_count": 4988,
             "reading_minutes": 20,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg",
             "eras": [
@@ -1551,14 +1551,14 @@
                     "era_title": "Pasco Rescue Route: Intercept Before the Restroom",
                     "era_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom",
                     "illustration_count": 5,
-                    "word_count": 4993,
+                    "word_count": 4988,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Eden Way North, US-287, and Five Minutes to Spare in Pasco",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco",
                             "illustration_count": 5,
-                            "word_count": 4993,
+                            "word_count": 4988,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -1619,7 +1619,7 @@
                                     "part_title": "Part 3: Five Minutes Before the Restroom Door and Crying Into Four Safe Arms in Pasco",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p003.md",
                                     "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-3-five-minutes-before-the-restroom-door-and-crying-into-four-safe-arms-in-pasco",
-                                    "word_count": 1806,
+                                    "word_count": 1801,
                                     "reading_minutes": 8,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-08-25",
@@ -1804,7 +1804,7 @@
                 "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
             },
             "part_count": 4,
-            "word_count": 6149,
+            "word_count": 6171,
             "reading_minutes": 25,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
             "eras": [
@@ -1813,14 +1813,14 @@
                     "era_title": "Seattle Rescue Route: Puget Sound General and Coming Home",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home",
                     "illustration_count": 5,
-                    "word_count": 6149,
+                    "word_count": 6171,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
                             "illustration_count": 5,
-                            "word_count": 6149,
+                            "word_count": 6171,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -1854,7 +1854,7 @@
                                     "part_title": "Part 2: Fog in Pasco, Across the Cascades, and Abandoned in Seattle",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p002.md",
                                     "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-2-fog-in-pasco-across-the-cascades-and-abandoned-in-seattle",
-                                    "word_count": 2387,
+                                    "word_count": 2408,
                                     "reading_minutes": 10,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-08-25",
@@ -1906,7 +1906,7 @@
                                     "part_title": "Part 4: Crying Into Four Safe Arms in Seattle, Grandpa's Final Watch, and Studio 205",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p004.md",
                                     "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-4-crying-into-four-safe-arms-in-seattle-grandpa-s-final-watch-and-studio-205",
-                                    "word_count": 2085,
+                                    "word_count": 2086,
                                     "reading_minutes": 9,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-10-26",
@@ -2059,7 +2059,7 @@
                 "norfolk-pathfinder-terminal-2001": "lock-wheelchair-brakes-emerald-creek"
             },
             "part_count": 12,
-            "word_count": 22274,
+            "word_count": 22273,
             "reading_minutes": 90,
             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
             "eras": [
@@ -2068,14 +2068,14 @@
                     "era_title": "Book One: Tidewater and Studio 205",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205",
                     "illustration_count": 6,
-                    "word_count": 17350,
+                    "word_count": 17349,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease",
                             "illustration_count": 6,
-                            "word_count": 17350,
+                            "word_count": 17349,
                             "parts": [
                                 {
                                     "part_num": 10,
@@ -2237,7 +2237,7 @@
                                     "part_title": "Part 18: Eighty-Nine Degrees and One Rattling Fan",
                                     "file_path": "e001/c001/p018.md",
                                     "url": "/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease/part-18-eighty-nine-degrees-and-one-rattling-fan",
-                                    "word_count": 828,
+                                    "word_count": 827,
                                     "reading_minutes": 4,
                                     "date": "2002-08-17",
                                     "start_time": "15:10",
@@ -3487,14 +3487,14 @@
                     "era_title": "Book One: Tidewater and Studio 205",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205#rejoin-ticket-snap-refuse-boarding",
                     "illustration_count": 4,
-                    "word_count": 14305,
+                    "word_count": 14304,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease",
                             "illustration_count": 4,
-                            "word_count": 14305,
+                            "word_count": 14304,
                             "parts": [
                                 {
                                     "part_num": 11,
@@ -3624,7 +3624,7 @@
                                     "part_title": "Part 18: Eighty-Nine Degrees and One Rattling Fan",
                                     "file_path": "e001/c001/p018.md",
                                     "url": "/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease/part-18-eighty-nine-degrees-and-one-rattling-fan",
-                                    "word_count": 828,
+                                    "word_count": 827,
                                     "reading_minutes": 4,
                                     "date": "2002-08-17",
                                     "start_time": "15:10",
@@ -3877,7 +3877,7 @@
                 "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
             },
             "part_count": 4,
-            "word_count": 4993,
+            "word_count": 4988,
             "reading_minutes": 20,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg",
             "eras": [
@@ -3886,14 +3886,14 @@
                     "era_title": "Pasco Rescue Route: Intercept Before the Restroom",
                     "era_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom",
                     "illustration_count": 5,
-                    "word_count": 4993,
+                    "word_count": 4988,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Eden Way North, US-287, and Five Minutes to Spare in Pasco",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco",
                             "illustration_count": 5,
-                            "word_count": 4993,
+                            "word_count": 4988,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -3954,7 +3954,7 @@
                                     "part_title": "Part 3: Five Minutes Before the Restroom Door and Crying Into Four Safe Arms in Pasco",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p003.md",
                                     "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-3-five-minutes-before-the-restroom-door-and-crying-into-four-safe-arms-in-pasco",
-                                    "word_count": 1806,
+                                    "word_count": 1801,
                                     "reading_minutes": 8,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-08-25",
@@ -4139,7 +4139,7 @@
                 "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
             },
             "part_count": 4,
-            "word_count": 6149,
+            "word_count": 6171,
             "reading_minutes": 25,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
             "eras": [
@@ -4148,14 +4148,14 @@
                     "era_title": "Seattle Rescue Route: Puget Sound General and Coming Home",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home",
                     "illustration_count": 5,
-                    "word_count": 6149,
+                    "word_count": 6171,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
                             "illustration_count": 5,
-                            "word_count": 6149,
+                            "word_count": 6171,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -4189,7 +4189,7 @@
                                     "part_title": "Part 2: Fog in Pasco, Across the Cascades, and Abandoned in Seattle",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p002.md",
                                     "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-2-fog-in-pasco-across-the-cascades-and-abandoned-in-seattle",
-                                    "word_count": 2387,
+                                    "word_count": 2408,
                                     "reading_minutes": 10,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-08-25",
@@ -4241,7 +4241,7 @@
                                     "part_title": "Part 4: Crying Into Four Safe Arms in Seattle, Grandpa's Final Watch, and Studio 205",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p004.md",
                                     "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-4-crying-into-four-safe-arms-in-seattle-grandpa-s-final-watch-and-studio-205",
-                                    "word_count": 2085,
+                                    "word_count": 2086,
                                     "reading_minutes": 9,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-10-26",
@@ -4394,7 +4394,7 @@
                 "norfolk-pathfinder-terminal-2001": "lock-wheelchair-brakes-emerald-creek"
             },
             "part_count": 12,
-            "word_count": 22274,
+            "word_count": 22273,
             "reading_minutes": 90,
             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
             "eras": [
@@ -4403,14 +4403,14 @@
                     "era_title": "Book One: Tidewater and Studio 205",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205",
                     "illustration_count": 6,
-                    "word_count": 17350,
+                    "word_count": 17349,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease",
                             "illustration_count": 6,
-                            "word_count": 17350,
+                            "word_count": 17349,
                             "parts": [
                                 {
                                     "part_num": 10,
@@ -4572,7 +4572,7 @@
                                     "part_title": "Part 18: Eighty-Nine Degrees and One Rattling Fan",
                                     "file_path": "e001/c001/p018.md",
                                     "url": "/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease/part-18-eighty-nine-degrees-and-one-rattling-fan",
-                                    "word_count": 828,
+                                    "word_count": 827,
                                     "reading_minutes": 4,
                                     "date": "2002-08-17",
                                     "start_time": "15:10",
