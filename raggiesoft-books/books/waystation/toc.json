@@ -8,18 +8,18 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/waystation.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "13.7 MB",
-        "pdf": "13.3 MB",
+        "epub": "18.7 MB",
+        "pdf": "18.9 MB",
         "text_epub": "219 KB",
         "text_pdf": "554 KB",
-        "package_7z": "158 KB",
-        "epub_bytes": 14317649,
-        "pdf_bytes": 13964276,
-        "text_epub_bytes": 224555,
+        "package_7z": "159 KB",
+        "epub_bytes": 19619639,
+        "pdf_bytes": 19867859,
+        "text_epub_bytes": 224554,
         "text_pdf_bytes": 567587,
-        "package_7z_bytes": 161829
+        "package_7z_bytes": 163179
     },
-    "illustration_count": 51,
+    "illustration_count": 60,
     "word_stats": {
         "story_word_count": 77256,
         "lore_word_count": 11992,
@@ -35,7 +35,7 @@
         "era_count": 2,
         "chapter_count": 17,
         "part_count": 52,
-        "illustration_count": 51,
+        "illustration_count": 60,
         "story_arc_count": 0
     },
     "story_arcs": [],
@@ -44,14 +44,14 @@
             "era_num": 1,
             "era_title": "Book One: Tidewater and Studio 205",
             "era_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205",
-            "illustration_count": 13,
+            "illustration_count": 15,
             "word_count": 35413,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease",
-                    "illustration_count": 13,
+                    "illustration_count": 15,
                     "word_count": 35413,
                     "parts": [
                         {
@@ -285,7 +285,16 @@
                             "date": "2001-10-19",
                             "start_time": "18:30",
                             "location": "Grandpa Walter's House Near Emerald Creek Mall, Chesapeake, Virginia",
-                            "excerpt": "Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald\u2026"
+                            "excerpt": "Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald\u2026",
+                            "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p007_eighteen_candles_walter_table.jpg",
+                            "image_alt": "Around Grandpa Walter Lennox's warm Chesapeake kitchen table on Friday evening, October 19, 2001 with a homemade chocolate sheet cake glowing with eighteen lit candles at the center, beaming seventy-nine-year-old Grandpa Walter (with nasal oxygen tubing tucked neatly behind his ears and his green-and-navy plaid wool blanket across his knees) reaches across the table as newly eighteen-year-old Gwen Lennox (seated in her manual wheelchair) throws both arms joyfully around her twenty-three-year-old brother Nolan Lennox's neck, with their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches leaning neatly nearby.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p007_eighteen_candles_walter_table.jpg",
+                                    "alt": "Around Grandpa Walter Lennox's warm Chesapeake kitchen table on Friday evening, October 19, 2001 with a homemade chocolate sheet cake glowing with eighteen lit candles at the center, beaming seventy-nine-year-old Grandpa Walter (with nasal oxygen tubing tucked neatly behind his ears and his green-and-navy plaid wool blanket across his knees) reaches across the table as newly eighteen-year-old Gwen Lennox (seated in her manual wheelchair) throws both arms joyfully around her twenty-three-year-old brother Nolan Lennox's neck, with their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches leaning neatly nearby."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 14,
@@ -349,9 +358,13 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_mallory_visits_studio_205.jpg",
                                     "alt": "Inside tiny rectangular Studio 205 on a rainy Saturday afternoon in March 2002 in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p016_mallory_first_hug_landing.jpg",
+                                    "alt": "On the warm-lit second-floor terrazzo corridor landing outside half-open white apartment door 205 at Harborview Towers in Norfolk in March 2002, twenty-three-year-old Nolan Lennox and twenty-four-year-old Mallory Walsh (copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green zip cardigan) share their warm, massively earned first two-armed hug beside Nolan's two matte-silver single-tube Lofstrand forearm crutches leaning neatly against the wall while eighteen-year-old sister Gwen Lennox sits in her manual wheelchair holding a mug of hot cocoa just inside the doorway, beaming with proud, wholehearted sisterly approval."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         },
                         {
                             "part_num": 17,
@@ -1154,14 +1167,14 @@
                     "era_num": 1,
                     "era_title": "Book One: Tidewater and Studio 205",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205#rejoin-ticket-snap-refuse-boarding",
-                    "illustration_count": 4,
+                    "illustration_count": 6,
                     "word_count": 14535,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease",
-                            "illustration_count": 4,
+                            "illustration_count": 6,
                             "word_count": 14535,
                             "parts": [
                                 {
@@ -1198,7 +1211,16 @@
                                     "date": "2001-10-19",
                                     "start_time": "18:30",
                                     "location": "Grandpa Walter's House Near Emerald Creek Mall, Chesapeake, Virginia",
-                                    "excerpt": "Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald\u2026"
+                                    "excerpt": "Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p007_eighteen_candles_walter_table.jpg",
+                                    "image_alt": "Around Grandpa Walter Lennox's warm Chesapeake kitchen table on Friday evening, October 19, 2001 with a homemade chocolate sheet cake glowing with eighteen lit candles at the center, beaming seventy-nine-year-old Grandpa Walter (with nasal oxygen tubing tucked neatly behind his ears and his green-and-navy plaid wool blanket across his knees) reaches across the table as newly eighteen-year-old Gwen Lennox (seated in her manual wheelchair) throws both arms joyfully around her twenty-three-year-old brother Nolan Lennox's neck, with their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches leaning neatly nearby.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p007_eighteen_candles_walter_table.jpg",
+                                            "alt": "Around Grandpa Walter Lennox's warm Chesapeake kitchen table on Friday evening, October 19, 2001 with a homemade chocolate sheet cake glowing with eighteen lit candles at the center, beaming seventy-nine-year-old Grandpa Walter (with nasal oxygen tubing tucked neatly behind his ears and his green-and-navy plaid wool blanket across his knees) reaches across the table as newly eighteen-year-old Gwen Lennox (seated in her manual wheelchair) throws both arms joyfully around her twenty-three-year-old brother Nolan Lennox's neck, with their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches leaning neatly nearby."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 },
                                 {
                                     "part_num": 14,
@@ -1262,9 +1284,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_mallory_visits_studio_205.jpg",
                                             "alt": "Inside tiny rectangular Studio 205 on a rainy Saturday afternoon in March 2002 in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p016_mallory_first_hug_landing.jpg",
+                                            "alt": "On the warm-lit second-floor terrazzo corridor landing outside half-open white apartment door 205 at Harborview Towers in Norfolk in March 2002, twenty-three-year-old Nolan Lennox and twenty-four-year-old Mallory Walsh (copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green zip cardigan) share their warm, massively earned first two-armed hug beside Nolan's two matte-silver single-tube Lofstrand forearm crutches leaning neatly against the wall while eighteen-year-old sister Gwen Lennox sits in her manual wheelchair holding a mug of hot cocoa just inside the doorway, beaming with proud, wholehearted sisterly approval."
                                         }
                                     ],
-                                    "image_count": 1
+                                    "image_count": 2
                                 },
                                 {
                                     "part_num": 17,
@@ -1556,14 +1582,14 @@
                     "era_num": 1,
                     "era_title": "Pasco Rescue Route: Intercept Before the Restroom",
                     "era_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom",
-                    "illustration_count": 5,
+                    "illustration_count": 7,
                     "word_count": 7082,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Eden Way North, US-287, and Five Minutes to Spare in Pasco",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco",
-                            "illustration_count": 5,
+                            "illustration_count": 7,
                             "word_count": 7082,
                             "parts": [
                                 {
@@ -1632,9 +1658,13 @@
                                     "start_time": "07:42",
                                     "location": "Pasco Intermodal Terminal & Pasco Regional Airport, Washington",
                                     "excerpt": "Bleary, harsh Pacific Northwest morning sunlight slanted through the dusty high windows of the Pasco Intermodal Terminal in eastern Washington when our coach groaned into Bay Two after a sleepless overnight haul\u2026",
-                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p002_four_safe_arms_pasco_bench.jpg",
-                                    "image_alt": "On a sunlit wooden concourse bench inside the Pasco Intermodal Terminal in Washington on Saturday morning, August 25, 2001, exhausted twenty-three-year-old Nolan Lennox cries openly in heartbreak over losing his Blue Tech job and relief at being rescued as tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy hoodie) wraps both arms protectively around him from his right and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) holds him warmly from his left with Ray Halstead's folded reference letter in hand, beside Nolan's rescued manual wheelchair and all four single-tube matte-silver and matte-charcoal Lofstrand forearm crutches.",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p003_gwen_first_greeting_hug.jpg",
+                                    "image_alt": "Inside the sunlit concourse of the Pasco Intermodal Terminal on Saturday morning, August 25, 2001, tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy hoodie) wraps both arms fiercely around her twenty-three-year-old brother Nolan Lennox (5-foot-7, olive jacket over navy tee) as Nolan tucks his forehead beneath her collarbone in their overdue sibling greeting embrace FIRST, while Mallory Walsh watches warmly beside Nolan's rescued manual wheelchair holding Ray Halstead's folded reference letter and all four matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean neatly against the wooden bench arm.",
                                     "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p003_gwen_first_greeting_hug.jpg",
+                                            "alt": "Inside the sunlit concourse of the Pasco Intermodal Terminal on Saturday morning, August 25, 2001, tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy hoodie) wraps both arms fiercely around her twenty-three-year-old brother Nolan Lennox (5-foot-7, olive jacket over navy tee) as Nolan tucks his forehead beneath her collarbone in their overdue sibling greeting embrace FIRST, while Mallory Walsh watches warmly beside Nolan's rescued manual wheelchair holding Ray Halstead's folded reference letter and all four matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean neatly against the wooden bench arm."
+                                        },
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p002_four_safe_arms_pasco_bench.jpg",
                                             "alt": "On a sunlit wooden concourse bench inside the Pasco Intermodal Terminal in Washington on Saturday morning, August 25, 2001, exhausted twenty-three-year-old Nolan Lennox cries openly in heartbreak over losing his Blue Tech job and relief at being rescued as tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy hoodie) wraps both arms protectively around him from his right and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) holds him warmly from his left with Ray Halstead's folded reference letter in hand, beside Nolan's rescued manual wheelchair and all four single-tube matte-silver and matte-charcoal Lofstrand forearm crutches."
@@ -1644,7 +1674,7 @@
                                             "alt": "On the sunlit wooden concourse bench of the Pasco Intermodal Terminal beside Nolan's rescued manual wheelchair and olive duffel bag, twenty-three-year-old Nolan Lennox and Mallory Walsh share a deeply emotional, massively earned two-armed hug while tall seventeen-year-old sister Gwen Lennox sits right beside them beaming with proud, wholehearted sisterly approval, with Nolan's shorter matte-silver and Gwen's taller matte-charcoal single-tube Lofstrand forearm crutches leaning neatly against the bench arm."
                                         }
                                     ],
-                                    "image_count": 2,
+                                    "image_count": 3,
                                     "backstage": [
                                         "books/waystation/from-monticello-to-pasco-why-there-were-no-family-restrooms"
                                     ],
@@ -1666,6 +1696,15 @@
                                     "start_time": "20:15",
                                     "location": "Pasco Airport Hotel & Pasco Regional Airport Through Denver and Washington Dulles to Chesapeake, Virginia",
                                     "excerpt": "By quarter past eight that Saturday evening inside a quiet ground-floor accessible room at a two-story brick airport hotel five minutes from Pasco Regional Airport, every sore muscle in my body felt as if\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p004_hotel_king_bed_sound_sleep.jpg",
+                                    "image_alt": "Inside a warm, dimly lit ground-floor accessible hotel room near Pasco Regional Airport on Saturday night, August 25, 2001, twenty-three-year-old Nolan Lennox lies fast asleep soundly and peacefully in the middle of the wide king-sized bed under a crisp white quilt while seventeen-year-old sister Gwen Lennox cuddles warmly along one side and twenty-three-year-old Mallory Walsh (with her thin silver wire-rimmed glasses folded neatly on the nightstand) sleeps peacefully along his other side, flanked by Nolan's parked manual wheelchair and all four shorter matte-silver and taller matte-charcoal single-tube Lofstrand forearm crutches.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p004_hotel_king_bed_sound_sleep.jpg",
+                                            "alt": "Inside a warm, dimly lit ground-floor accessible hotel room near Pasco Regional Airport on Saturday night, August 25, 2001, twenty-three-year-old Nolan Lennox lies fast asleep soundly and peacefully in the middle of the wide king-sized bed under a crisp white quilt while seventeen-year-old sister Gwen Lennox cuddles warmly along one side and twenty-three-year-old Mallory Walsh (with her thin silver wire-rimmed glasses folded neatly on the nightstand) sleeps peacefully along his other side, flanked by Nolan's parked manual wheelchair and all four shorter matte-silver and taller matte-charcoal single-tube Lofstrand forearm crutches."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
                                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
@@ -1857,14 +1896,14 @@
                     "era_num": 1,
                     "era_title": "Seattle Rescue Route: Puget Sound General and Coming Home",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home",
-                    "illustration_count": 5,
+                    "illustration_count": 10,
                     "word_count": 8766,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
-                            "illustration_count": 5,
+                            "illustration_count": 10,
                             "word_count": 8766,
                             "parts": [
                                 {
@@ -1940,6 +1979,15 @@
                                     "start_time": "14:15",
                                     "location": "Sixth-Floor Wound & Medical Ward, Puget Sound General Hospital, Seattle, Washington",
                                     "excerpt": "Steady late-August Pacific Northwest drizzle drifted past my sixth-floor semiprivate window at Puget Sound General Hospital while the alternating-pressure air mattress beneath my hospital gown gave its soft\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_ms_rivera_hospital_recovery.jpg",
+                                    "image_alt": "Inside a sixth-floor semiprivate room at Puget Sound General Hospital in Seattle on a rainy late-August afternoon in 2001, twenty-three-year-old Nolan Lennox rests calmly in a light-blue hospital gown under a pale-blue diamond-patterned cotton blanket with an intravenous line taped on his left hand and his manual wheelchair and two matte-silver single-tube Lofstrand forearm crutches standing upright beside the wardrobe, speaking at eye level in quiet relief with compassionate hospital clinical social worker Ms. Rivera seated on a round rolling stool holding her clipboard.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_ms_rivera_hospital_recovery.jpg",
+                                            "alt": "Inside a sixth-floor semiprivate room at Puget Sound General Hospital in Seattle on a rainy late-August afternoon in 2001, twenty-three-year-old Nolan Lennox rests calmly in a light-blue hospital gown under a pale-blue diamond-patterned cotton blanket with an intravenous line taped on his left hand and his manual wheelchair and two matte-silver single-tube Lofstrand forearm crutches standing upright beside the wardrobe, speaking at eye level in quiet relief with compassionate hospital clinical social worker Ms. Rivera seated on a round rolling stool holding her clipboard."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
                                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
@@ -1958,9 +2006,13 @@
                                     "start_time": "13:15",
                                     "location": "Puget Sound General Hospital in Seattle & Airport Hotel Near Sea-Tac, Washington",
                                     "excerpt": "Four days before Chesapeake public schools opened for junior year after Labor Day\u2014with seventeen-year-old Gwen carrying Grandpa Walter's notarized guardian travel letter and high-school ID card, Ray Halstead\u2026",
-                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_puget_sound_discharge_reunion.jpg",
-                                    "image_alt": "Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy Friday afternoon at the start of Labor Day weekend in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand.",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p004_gwen_first_greeting_hug.jpg",
+                                    "image_alt": "Inside the rainy sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on Friday afternoon at the start of Labor Day weekend in 2001, tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater) bends warmly over twenty-three-year-old Nolan Lennox's manual wheelchair to lock him in their tearful sibling greeting hug FIRST while Nolan presses his forehead beneath her collarbone, with Gwen's matte-charcoal and Nolan's matte-silver single-tube Lofstrand forearm crutches nearby and Mallory Walsh watching with misty-eyed warmth holding a folded navy fleece blanket.",
                                     "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p004_gwen_first_greeting_hug.jpg",
+                                            "alt": "Inside the rainy sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on Friday afternoon at the start of Labor Day weekend in 2001, tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater) bends warmly over twenty-three-year-old Nolan Lennox's manual wheelchair to lock him in their tearful sibling greeting hug FIRST while Nolan presses his forehead beneath her collarbone, with Gwen's matte-charcoal and Nolan's matte-silver single-tube Lofstrand forearm crutches nearby and Mallory Walsh watching with misty-eyed warmth holding a folded navy fleece blanket."
+                                        },
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_puget_sound_discharge_reunion.jpg",
                                             "alt": "Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy Friday afternoon at the start of Labor Day weekend in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand."
@@ -1968,9 +2020,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p004_mallory_earned_hug_gwen_approving.jpg",
                                             "alt": "Inside the rainy sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle, fully dressed twenty-three-year-old Nolan Lennox sits in his manual wheelchair (with his two matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) locked in a deeply emotional, massively earned two-armed hug with Mallory Walsh kneeling warmly beside him, while seventeen-year-old sister Gwen Lennox sits right beside Nolan's wheel with her matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair, beaming with proud, wholehearted sisterly approval."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p004_hotel_king_bed_wide_awake.jpg",
+                                            "alt": "Inside a dimly lit ground-floor accessible airport hotel room near Sea-Tac on Friday night, August 31, 2001, twenty-three-year-old Nolan Lennox lies wide awake and tensely hypervigilant in the middle of the wide king-sized bed staring toward the shadowed deadbolted hallway door while seventeen-year-old sister Gwen Lennox on one side and twenty-three-year-old Mallory Walsh on his other side cuddle tightly and protectively around him, with Nolan's manual wheelchair by the blackout curtains and all four shorter matte-silver and taller matte-charcoal single-tube Lofstrand forearm crutches lined up beside the nightstand."
                                         }
                                     ],
-                                    "image_count": 2,
+                                    "image_count": 4,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
                                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
@@ -1989,6 +2045,15 @@
                                     "start_time": "07:20",
                                     "location": "Seattle-Tacoma International Airport Through Chicago Midway to Grandpa Walter's House in Chesapeake, Virginia",
                                     "excerpt": "Pale, rain-washed Saturday morning light filtered across the concrete columns of the rental-car return garage at Seattle-Tacoma International Airport when Mallory backed our rented Vanguard Fleet Services sedan\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p005_midway_concourse_flight_home.jpg",
+                                    "image_alt": "Moving calmly down a sunlit, flat carpeted concourse under a plain GATE B14 sign at Chicago Midway Airport on Saturday, September 1, 2001\u2014with zero flashing neon tubes anywhere in sight\u2014twenty-three-year-old Nolan Lennox rides in his black manual wheelchair atop a four-inch medical gel cushion with his olive duffel on his lap and his two matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, flanked warmly by tall seventeen-year-old sister Gwen Lennox walking on her two matte-charcoal single-tube Lofstrand forearm crutches on his right and Mallory Walsh smiling beside his left wheel.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p005_midway_concourse_flight_home.jpg",
+                                            "alt": "Moving calmly down a sunlit, flat carpeted concourse under a plain GATE B14 sign at Chicago Midway Airport on Saturday, September 1, 2001\u2014with zero flashing neon tubes anywhere in sight\u2014twenty-three-year-old Nolan Lennox rides in his black manual wheelchair atop a four-inch medical gel cushion with his olive duffel on his lap and his two matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, flanked warmly by tall seventeen-year-old sister Gwen Lennox walking on her two matte-charcoal single-tube Lofstrand forearm crutches on his right and Mallory Walsh smiling beside his left wheel."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
                                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
@@ -2025,6 +2090,15 @@
                                     "start_time": "18:30",
                                     "location": "Grandpa Walter's House in Chesapeake to Studio 205 at Harborview Towers, Norfolk, Virginia",
                                     "excerpt": "Sitting right across Grandpa Walter's warm kitchen table off Eden Way North on Friday evening, October nineteenth\u2014watching yellow wax drip down eighteen crooked birthday candles on a homemade chocolate sheet\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p007_eighteen_candles_walter_table.jpg",
+                                    "image_alt": "Around Grandpa Walter Lennox's warm Chesapeake kitchen table on Friday evening, October 19, 2001 with a homemade chocolate sheet cake glowing with eighteen lit candles at the center, beaming seventy-nine-year-old Grandpa Walter (with nasal oxygen tubing tucked neatly behind his ears and his green-and-navy plaid wool blanket across his knees) reaches across the table as newly eighteen-year-old Gwen Lennox (seated in her manual wheelchair) throws both arms joyfully around her twenty-three-year-old brother Nolan Lennox's neck, with their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches leaning neatly nearby.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p007_eighteen_candles_walter_table.jpg",
+                                            "alt": "Around Grandpa Walter Lennox's warm Chesapeake kitchen table on Friday evening, October 19, 2001 with a homemade chocolate sheet cake glowing with eighteen lit candles at the center, beaming seventy-nine-year-old Grandpa Walter (with nasal oxygen tubing tucked neatly behind his ears and his green-and-navy plaid wool blanket across his knees) reaches across the table as newly eighteen-year-old Gwen Lennox (seated in her manual wheelchair) throws both arms joyfully around her twenty-three-year-old brother Nolan Lennox's neck, with their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches leaning neatly nearby."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "backstage": [
                                         "books/waystation/ray-halsteads-two-telephone-references-for-cchr"
                                     ],
@@ -2169,14 +2243,14 @@
                     "era_num": 1,
                     "era_title": "Book One: Tidewater and Studio 205",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205",
-                    "illustration_count": 6,
+                    "illustration_count": 8,
                     "word_count": 17580,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease",
-                            "illustration_count": 6,
+                            "illustration_count": 8,
                             "word_count": 17580,
                             "parts": [
                                 {
@@ -2245,7 +2319,16 @@
                                     "date": "2001-10-19",
                                     "start_time": "18:30",
                                     "location": "Grandpa Walter's House Near Emerald Creek Mall, Chesapeake, Virginia",
-                                    "excerpt": "Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald\u2026"
+                                    "excerpt": "Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p007_eighteen_candles_walter_table.jpg",
+                                    "image_alt": "Around Grandpa Walter Lennox's warm Chesapeake kitchen table on Friday evening, October 19, 2001 with a homemade chocolate sheet cake glowing with eighteen lit candles at the center, beaming seventy-nine-year-old Grandpa Walter (with nasal oxygen tubing tucked neatly behind his ears and his green-and-navy plaid wool blanket across his knees) reaches across the table as newly eighteen-year-old Gwen Lennox (seated in her manual wheelchair) throws both arms joyfully around her twenty-three-year-old brother Nolan Lennox's neck, with their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches leaning neatly nearby.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p007_eighteen_candles_walter_table.jpg",
+                                            "alt": "Around Grandpa Walter Lennox's warm Chesapeake kitchen table on Friday evening, October 19, 2001 with a homemade chocolate sheet cake glowing with eighteen lit candles at the center, beaming seventy-nine-year-old Grandpa Walter (with nasal oxygen tubing tucked neatly behind his ears and his green-and-navy plaid wool blanket across his knees) reaches across the table as newly eighteen-year-old Gwen Lennox (seated in her manual wheelchair) throws both arms joyfully around her twenty-three-year-old brother Nolan Lennox's neck, with their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches leaning neatly nearby."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 },
                                 {
                                     "part_num": 14,
@@ -2309,9 +2392,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_mallory_visits_studio_205.jpg",
                                             "alt": "Inside tiny rectangular Studio 205 on a rainy Saturday afternoon in March 2002 in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p016_mallory_first_hug_landing.jpg",
+                                            "alt": "On the warm-lit second-floor terrazzo corridor landing outside half-open white apartment door 205 at Harborview Towers in Norfolk in March 2002, twenty-three-year-old Nolan Lennox and twenty-four-year-old Mallory Walsh (copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green zip cardigan) share their warm, massively earned first two-armed hug beside Nolan's two matte-silver single-tube Lofstrand forearm crutches leaning neatly against the wall while eighteen-year-old sister Gwen Lennox sits in her manual wheelchair holding a mug of hot cocoa just inside the doorway, beaming with proud, wholehearted sisterly approval."
                                         }
                                     ],
-                                    "image_count": 1
+                                    "image_count": 2
                                 },
                                 {
                                     "part_num": 17,
@@ -3591,14 +3678,14 @@
                     "era_num": 1,
                     "era_title": "Book One: Tidewater and Studio 205",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205#rejoin-ticket-snap-refuse-boarding",
-                    "illustration_count": 4,
+                    "illustration_count": 6,
                     "word_count": 14535,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease",
-                            "illustration_count": 4,
+                            "illustration_count": 6,
                             "word_count": 14535,
                             "parts": [
                                 {
@@ -3635,7 +3722,16 @@
                                     "date": "2001-10-19",
                                     "start_time": "18:30",
                                     "location": "Grandpa Walter's House Near Emerald Creek Mall, Chesapeake, Virginia",
-                                    "excerpt": "Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald\u2026"
+                                    "excerpt": "Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p007_eighteen_candles_walter_table.jpg",
+                                    "image_alt": "Around Grandpa Walter Lennox's warm Chesapeake kitchen table on Friday evening, October 19, 2001 with a homemade chocolate sheet cake glowing with eighteen lit candles at the center, beaming seventy-nine-year-old Grandpa Walter (with nasal oxygen tubing tucked neatly behind his ears and his green-and-navy plaid wool blanket across his knees) reaches across the table as newly eighteen-year-old Gwen Lennox (seated in her manual wheelchair) throws both arms joyfully around her twenty-three-year-old brother Nolan Lennox's neck, with their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches leaning neatly nearby.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p007_eighteen_candles_walter_table.jpg",
+                                            "alt": "Around Grandpa Walter Lennox's warm Chesapeake kitchen table on Friday evening, October 19, 2001 with a homemade chocolate sheet cake glowing with eighteen lit candles at the center, beaming seventy-nine-year-old Grandpa Walter (with nasal oxygen tubing tucked neatly behind his ears and his green-and-navy plaid wool blanket across his knees) reaches across the table as newly eighteen-year-old Gwen Lennox (seated in her manual wheelchair) throws both arms joyfully around her twenty-three-year-old brother Nolan Lennox's neck, with their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches leaning neatly nearby."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 },
                                 {
                                     "part_num": 14,
@@ -3699,9 +3795,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_mallory_visits_studio_205.jpg",
                                             "alt": "Inside tiny rectangular Studio 205 on a rainy Saturday afternoon in March 2002 in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p016_mallory_first_hug_landing.jpg",
+                                            "alt": "On the warm-lit second-floor terrazzo corridor landing outside half-open white apartment door 205 at Harborview Towers in Norfolk in March 2002, twenty-three-year-old Nolan Lennox and twenty-four-year-old Mallory Walsh (copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green zip cardigan) share their warm, massively earned first two-armed hug beside Nolan's two matte-silver single-tube Lofstrand forearm crutches leaning neatly against the wall while eighteen-year-old sister Gwen Lennox sits in her manual wheelchair holding a mug of hot cocoa just inside the doorway, beaming with proud, wholehearted sisterly approval."
                                         }
                                     ],
-                                    "image_count": 1
+                                    "image_count": 2
                                 },
                                 {
                                     "part_num": 17,
@@ -3993,14 +4093,14 @@
                     "era_num": 1,
                     "era_title": "Pasco Rescue Route: Intercept Before the Restroom",
                     "era_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom",
-                    "illustration_count": 5,
+                    "illustration_count": 7,
                     "word_count": 7082,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Eden Way North, US-287, and Five Minutes to Spare in Pasco",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco",
-                            "illustration_count": 5,
+                            "illustration_count": 7,
                             "word_count": 7082,
                             "parts": [
                                 {
@@ -4069,9 +4169,13 @@
                                     "start_time": "07:42",
                                     "location": "Pasco Intermodal Terminal & Pasco Regional Airport, Washington",
                                     "excerpt": "Bleary, harsh Pacific Northwest morning sunlight slanted through the dusty high windows of the Pasco Intermodal Terminal in eastern Washington when our coach groaned into Bay Two after a sleepless overnight haul\u2026",
-                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p002_four_safe_arms_pasco_bench.jpg",
-                                    "image_alt": "On a sunlit wooden concourse bench inside the Pasco Intermodal Terminal in Washington on Saturday morning, August 25, 2001, exhausted twenty-three-year-old Nolan Lennox cries openly in heartbreak over losing his Blue Tech job and relief at being rescued as tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy hoodie) wraps both arms protectively around him from his right and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) holds him warmly from his left with Ray Halstead's folded reference letter in hand, beside Nolan's rescued manual wheelchair and all four single-tube matte-silver and matte-charcoal Lofstrand forearm crutches.",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p003_gwen_first_greeting_hug.jpg",
+                                    "image_alt": "Inside the sunlit concourse of the Pasco Intermodal Terminal on Saturday morning, August 25, 2001, tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy hoodie) wraps both arms fiercely around her twenty-three-year-old brother Nolan Lennox (5-foot-7, olive jacket over navy tee) as Nolan tucks his forehead beneath her collarbone in their overdue sibling greeting embrace FIRST, while Mallory Walsh watches warmly beside Nolan's rescued manual wheelchair holding Ray Halstead's folded reference letter and all four matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean neatly against the wooden bench arm.",
                                     "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p003_gwen_first_greeting_hug.jpg",
+                                            "alt": "Inside the sunlit concourse of the Pasco Intermodal Terminal on Saturday morning, August 25, 2001, tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy hoodie) wraps both arms fiercely around her twenty-three-year-old brother Nolan Lennox (5-foot-7, olive jacket over navy tee) as Nolan tucks his forehead beneath her collarbone in their overdue sibling greeting embrace FIRST, while Mallory Walsh watches warmly beside Nolan's rescued manual wheelchair holding Ray Halstead's folded reference letter and all four matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean neatly against the wooden bench arm."
+                                        },
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p002_four_safe_arms_pasco_bench.jpg",
                                             "alt": "On a sunlit wooden concourse bench inside the Pasco Intermodal Terminal in Washington on Saturday morning, August 25, 2001, exhausted twenty-three-year-old Nolan Lennox cries openly in heartbreak over losing his Blue Tech job and relief at being rescued as tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy hoodie) wraps both arms protectively around him from his right and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) holds him warmly from his left with Ray Halstead's folded reference letter in hand, beside Nolan's rescued manual wheelchair and all four single-tube matte-silver and matte-charcoal Lofstrand forearm crutches."
@@ -4081,7 +4185,7 @@
                                             "alt": "On the sunlit wooden concourse bench of the Pasco Intermodal Terminal beside Nolan's rescued manual wheelchair and olive duffel bag, twenty-three-year-old Nolan Lennox and Mallory Walsh share a deeply emotional, massively earned two-armed hug while tall seventeen-year-old sister Gwen Lennox sits right beside them beaming with proud, wholehearted sisterly approval, with Nolan's shorter matte-silver and Gwen's taller matte-charcoal single-tube Lofstrand forearm crutches leaning neatly against the bench arm."
                                         }
                                     ],
-                                    "image_count": 2,
+                                    "image_count": 3,
                                     "backstage": [
                                         "books/waystation/from-monticello-to-pasco-why-there-were-no-family-restrooms"
                                     ],
@@ -4103,6 +4207,15 @@
                                     "start_time": "20:15",
                                     "location": "Pasco Airport Hotel & Pasco Regional Airport Through Denver and Washington Dulles to Chesapeake, Virginia",
                                     "excerpt": "By quarter past eight that Saturday evening inside a quiet ground-floor accessible room at a two-story brick airport hotel five minutes from Pasco Regional Airport, every sore muscle in my body felt as if\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p004_hotel_king_bed_sound_sleep.jpg",
+                                    "image_alt": "Inside a warm, dimly lit ground-floor accessible hotel room near Pasco Regional Airport on Saturday night, August 25, 2001, twenty-three-year-old Nolan Lennox lies fast asleep soundly and peacefully in the middle of the wide king-sized bed under a crisp white quilt while seventeen-year-old sister Gwen Lennox cuddles warmly along one side and twenty-three-year-old Mallory Walsh (with her thin silver wire-rimmed glasses folded neatly on the nightstand) sleeps peacefully along his other side, flanked by Nolan's parked manual wheelchair and all four shorter matte-silver and taller matte-charcoal single-tube Lofstrand forearm crutches.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p004_hotel_king_bed_sound_sleep.jpg",
+                                            "alt": "Inside a warm, dimly lit ground-floor accessible hotel room near Pasco Regional Airport on Saturday night, August 25, 2001, twenty-three-year-old Nolan Lennox lies fast asleep soundly and peacefully in the middle of the wide king-sized bed under a crisp white quilt while seventeen-year-old sister Gwen Lennox cuddles warmly along one side and twenty-three-year-old Mallory Walsh (with her thin silver wire-rimmed glasses folded neatly on the nightstand) sleeps peacefully along his other side, flanked by Nolan's parked manual wheelchair and all four shorter matte-silver and taller matte-charcoal single-tube Lofstrand forearm crutches."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
                                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
@@ -4294,14 +4407,14 @@
                     "era_num": 1,
                     "era_title": "Seattle Rescue Route: Puget Sound General and Coming Home",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home",
-                    "illustration_count": 5,
+                    "illustration_count": 10,
                     "word_count": 8766,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
-                            "illustration_count": 5,
+                            "illustration_count": 10,
                             "word_count": 8766,
                             "parts": [
                                 {
@@ -4377,6 +4490,15 @@
                                     "start_time": "14:15",
                                     "location": "Sixth-Floor Wound & Medical Ward, Puget Sound General Hospital, Seattle, Washington",
                                     "excerpt": "Steady late-August Pacific Northwest drizzle drifted past my sixth-floor semiprivate window at Puget Sound General Hospital while the alternating-pressure air mattress beneath my hospital gown gave its soft\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_ms_rivera_hospital_recovery.jpg",
+                                    "image_alt": "Inside a sixth-floor semiprivate room at Puget Sound General Hospital in Seattle on a rainy late-August afternoon in 2001, twenty-three-year-old Nolan Lennox rests calmly in a light-blue hospital gown under a pale-blue diamond-patterned cotton blanket with an intravenous line taped on his left hand and his manual wheelchair and two matte-silver single-tube Lofstrand forearm crutches standing upright beside the wardrobe, speaking at eye level in quiet relief with compassionate hospital clinical social worker Ms. Rivera seated on a round rolling stool holding her clipboard.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_ms_rivera_hospital_recovery.jpg",
+                                            "alt": "Inside a sixth-floor semiprivate room at Puget Sound General Hospital in Seattle on a rainy late-August afternoon in 2001, twenty-three-year-old Nolan Lennox rests calmly in a light-blue hospital gown under a pale-blue diamond-patterned cotton blanket with an intravenous line taped on his left hand and his manual wheelchair and two matte-silver single-tube Lofstrand forearm crutches standing upright beside the wardrobe, speaking at eye level in quiet relief with compassionate hospital clinical social worker Ms. Rivera seated on a round rolling stool holding her clipboard."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
                                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
@@ -4395,9 +4517,13 @@
                                     "start_time": "13:15",
                                     "location": "Puget Sound General Hospital in Seattle & Airport Hotel Near Sea-Tac, Washington",
                                     "excerpt": "Four days before Chesapeake public schools opened for junior year after Labor Day\u2014with seventeen-year-old Gwen carrying Grandpa Walter's notarized guardian travel letter and high-school ID card, Ray Halstead\u2026",
-                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_puget_sound_discharge_reunion.jpg",
-                                    "image_alt": "Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy Friday afternoon at the start of Labor Day weekend in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand.",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p004_gwen_first_greeting_hug.jpg",
+                                    "image_alt": "Inside the rainy sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on Friday afternoon at the start of Labor Day weekend in 2001, tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater) bends warmly over twenty-three-year-old Nolan Lennox's manual wheelchair to lock him in their tearful sibling greeting hug FIRST while Nolan presses his forehead beneath her collarbone, with Gwen's matte-charcoal and Nolan's matte-silver single-tube Lofstrand forearm crutches nearby and Mallory Walsh watching with misty-eyed warmth holding a folded navy fleece blanket.",
                                     "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p004_gwen_first_greeting_hug.jpg",
+                                            "alt": "Inside the rainy sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on Friday afternoon at the start of Labor Day weekend in 2001, tall seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater) bends warmly over twenty-three-year-old Nolan Lennox's manual wheelchair to lock him in their tearful sibling greeting hug FIRST while Nolan presses his forehead beneath her collarbone, with Gwen's matte-charcoal and Nolan's matte-silver single-tube Lofstrand forearm crutches nearby and Mallory Walsh watching with misty-eyed warmth holding a folded navy fleece blanket."
+                                        },
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_puget_sound_discharge_reunion.jpg",
                                             "alt": "Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy Friday afternoon at the start of Labor Day weekend in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of seventeen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand."
@@ -4405,9 +4531,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p004_mallory_earned_hug_gwen_approving.jpg",
                                             "alt": "Inside the rainy sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle, fully dressed twenty-three-year-old Nolan Lennox sits in his manual wheelchair (with his two matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) locked in a deeply emotional, massively earned two-armed hug with Mallory Walsh kneeling warmly beside him, while seventeen-year-old sister Gwen Lennox sits right beside Nolan's wheel with her matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair, beaming with proud, wholehearted sisterly approval."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p004_hotel_king_bed_wide_awake.jpg",
+                                            "alt": "Inside a dimly lit ground-floor accessible airport hotel room near Sea-Tac on Friday night, August 31, 2001, twenty-three-year-old Nolan Lennox lies wide awake and tensely hypervigilant in the middle of the wide king-sized bed staring toward the shadowed deadbolted hallway door while seventeen-year-old sister Gwen Lennox on one side and twenty-three-year-old Mallory Walsh on his other side cuddle tightly and protectively around him, with Nolan's manual wheelchair by the blackout curtains and all four shorter matte-silver and taller matte-charcoal single-tube Lofstrand forearm crutches lined up beside the nightstand."
                                         }
                                     ],
-                                    "image_count": 2,
+                                    "image_count": 4,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
                                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
@@ -4426,6 +4556,15 @@
                                     "start_time": "07:20",
                                     "location": "Seattle-Tacoma International Airport Through Chicago Midway to Grandpa Walter's House in Chesapeake, Virginia",
                                     "excerpt": "Pale, rain-washed Saturday morning light filtered across the concrete columns of the rental-car return garage at Seattle-Tacoma International Airport when Mallory backed our rented Vanguard Fleet Services sedan\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p005_midway_concourse_flight_home.jpg",
+                                    "image_alt": "Moving calmly down a sunlit, flat carpeted concourse under a plain GATE B14 sign at Chicago Midway Airport on Saturday, September 1, 2001\u2014with zero flashing neon tubes anywhere in sight\u2014twenty-three-year-old Nolan Lennox rides in his black manual wheelchair atop a four-inch medical gel cushion with his olive duffel on his lap and his two matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, flanked warmly by tall seventeen-year-old sister Gwen Lennox walking on her two matte-charcoal single-tube Lofstrand forearm crutches on his right and Mallory Walsh smiling beside his left wheel.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p005_midway_concourse_flight_home.jpg",
+                                            "alt": "Moving calmly down a sunlit, flat carpeted concourse under a plain GATE B14 sign at Chicago Midway Airport on Saturday, September 1, 2001\u2014with zero flashing neon tubes anywhere in sight\u2014twenty-three-year-old Nolan Lennox rides in his black manual wheelchair atop a four-inch medical gel cushion with his olive duffel on his lap and his two matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, flanked warmly by tall seventeen-year-old sister Gwen Lennox walking on her two matte-charcoal single-tube Lofstrand forearm crutches on his right and Mallory Walsh smiling beside his left wheel."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
                                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
@@ -4462,6 +4601,15 @@
                                     "start_time": "18:30",
                                     "location": "Grandpa Walter's House in Chesapeake to Studio 205 at Harborview Towers, Norfolk, Virginia",
                                     "excerpt": "Sitting right across Grandpa Walter's warm kitchen table off Eden Way North on Friday evening, October nineteenth\u2014watching yellow wax drip down eighteen crooked birthday candles on a homemade chocolate sheet\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p007_eighteen_candles_walter_table.jpg",
+                                    "image_alt": "Around Grandpa Walter Lennox's warm Chesapeake kitchen table on Friday evening, October 19, 2001 with a homemade chocolate sheet cake glowing with eighteen lit candles at the center, beaming seventy-nine-year-old Grandpa Walter (with nasal oxygen tubing tucked neatly behind his ears and his green-and-navy plaid wool blanket across his knees) reaches across the table as newly eighteen-year-old Gwen Lennox (seated in her manual wheelchair) throws both arms joyfully around her twenty-three-year-old brother Nolan Lennox's neck, with their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches leaning neatly nearby.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p007_eighteen_candles_walter_table.jpg",
+                                            "alt": "Around Grandpa Walter Lennox's warm Chesapeake kitchen table on Friday evening, October 19, 2001 with a homemade chocolate sheet cake glowing with eighteen lit candles at the center, beaming seventy-nine-year-old Grandpa Walter (with nasal oxygen tubing tucked neatly behind his ears and his green-and-navy plaid wool blanket across his knees) reaches across the table as newly eighteen-year-old Gwen Lennox (seated in her manual wheelchair) throws both arms joyfully around her twenty-three-year-old brother Nolan Lennox's neck, with their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches leaning neatly nearby."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "backstage": [
                                         "books/waystation/ray-halsteads-two-telephone-references-for-cchr"
                                     ],
@@ -4606,14 +4754,14 @@
                     "era_num": 1,
                     "era_title": "Book One: Tidewater and Studio 205",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205",
-                    "illustration_count": 6,
+                    "illustration_count": 8,
                     "word_count": 17580,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease",
-                            "illustration_count": 6,
+                            "illustration_count": 8,
                             "word_count": 17580,
                             "parts": [
                                 {
@@ -4682,7 +4830,16 @@
                                     "date": "2001-10-19",
                                     "start_time": "18:30",
                                     "location": "Grandpa Walter's House Near Emerald Creek Mall, Chesapeake, Virginia",
-                                    "excerpt": "Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald\u2026"
+                                    "excerpt": "Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p007_eighteen_candles_walter_table.jpg",
+                                    "image_alt": "Around Grandpa Walter Lennox's warm Chesapeake kitchen table on Friday evening, October 19, 2001 with a homemade chocolate sheet cake glowing with eighteen lit candles at the center, beaming seventy-nine-year-old Grandpa Walter (with nasal oxygen tubing tucked neatly behind his ears and his green-and-navy plaid wool blanket across his knees) reaches across the table as newly eighteen-year-old Gwen Lennox (seated in her manual wheelchair) throws both arms joyfully around her twenty-three-year-old brother Nolan Lennox's neck, with their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches leaning neatly nearby.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p007_eighteen_candles_walter_table.jpg",
+                                            "alt": "Around Grandpa Walter Lennox's warm Chesapeake kitchen table on Friday evening, October 19, 2001 with a homemade chocolate sheet cake glowing with eighteen lit candles at the center, beaming seventy-nine-year-old Grandpa Walter (with nasal oxygen tubing tucked neatly behind his ears and his green-and-navy plaid wool blanket across his knees) reaches across the table as newly eighteen-year-old Gwen Lennox (seated in her manual wheelchair) throws both arms joyfully around her twenty-three-year-old brother Nolan Lennox's neck, with their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches leaning neatly nearby."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 },
                                 {
                                     "part_num": 14,
@@ -4746,9 +4903,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_mallory_visits_studio_205.jpg",
                                             "alt": "Inside tiny rectangular Studio 205 on a rainy Saturday afternoon in March 2002 in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p016_mallory_first_hug_landing.jpg",
+                                            "alt": "On the warm-lit second-floor terrazzo corridor landing outside half-open white apartment door 205 at Harborview Towers in Norfolk in March 2002, twenty-three-year-old Nolan Lennox and twenty-four-year-old Mallory Walsh (copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green zip cardigan) share their warm, massively earned first two-armed hug beside Nolan's two matte-silver single-tube Lofstrand forearm crutches leaning neatly against the wall while eighteen-year-old sister Gwen Lennox sits in her manual wheelchair holding a mug of hot cocoa just inside the doorway, beaming with proud, wholehearted sisterly approval."
                                         }
                                     ],
-                                    "image_count": 1
+                                    "image_count": 2
                                 },
                                 {
                                     "part_num": 17,
