@@ -8,26 +8,26 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/waystation.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "12.8 MB",
-        "pdf": "12.8 MB",
-        "text_epub": "191 KB",
-        "text_pdf": "453 KB",
-        "package_7z": "",
-        "epub_bytes": 13456279,
-        "pdf_bytes": 13465971,
-        "text_epub_bytes": 195778,
-        "text_pdf_bytes": 464353,
-        "package_7z_bytes": 0
+        "epub": "13.9 MB",
+        "pdf": "13.3 MB",
+        "text_epub": "194 KB",
+        "text_pdf": "482 KB",
+        "package_7z": "132 KB",
+        "epub_bytes": 14559352,
+        "pdf_bytes": 13964396,
+        "text_epub_bytes": 198964,
+        "text_pdf_bytes": 493293,
+        "package_7z_bytes": 135062
     },
-    "illustration_count": 41,
+    "illustration_count": 45,
     "word_stats": {
-        "story_word_count": 63429,
-        "lore_word_count": 8856,
-        "combined_word_count": 72285,
-        "story_page_count": 231,
-        "combined_page_count": 263,
-        "reading_hours": 4.2,
-        "reading_minutes": 254,
+        "story_word_count": 64904,
+        "lore_word_count": 9279,
+        "combined_word_count": 74183,
+        "story_page_count": 236,
+        "combined_page_count": 270,
+        "reading_hours": 4.3,
+        "reading_minutes": 260,
         "novel_equivalent": 0.7,
         "scale_category": "Compact Novel",
         "scale_badge": "Compact Novel",
@@ -35,7 +35,7 @@
         "era_count": 1,
         "chapter_count": 14,
         "part_count": 43,
-        "illustration_count": 41,
+        "illustration_count": 45,
         "story_arc_count": 0
     },
     "story_arcs": [],
@@ -44,14 +44,14 @@
             "era_num": 1,
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-            "illustration_count": 15,
+            "illustration_count": 16,
             "word_count": 38674,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                    "illustration_count": 12,
+                    "illustration_count": 13,
                     "word_count": 34824,
                     "parts": [
                         {
@@ -240,9 +240,13 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
                                     "alt": "On the cozy covered front porch of Grandpa Walter's two-story brick-and-siding home near Emerald Creek Mall in Chesapeake on an overcast late-summer morning, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after a kind Norfolk cab driver brings him straight home from the bus station at zero charge, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e001/p010_denise_cab_free_ride_norfolk.jpg",
+                                    "alt": "Beneath the round 1961 concrete mushroom corner canopy outside the Norfolk Pathfinder Terminal on Monticello Avenue, kind thirty-eight-year-old female Norfolk taxi driver Denise Carter smiles warmly in a blue chambray shirt with her laminated operator badge clipped to her pocket as she holds open the right-rear passenger door of her parked yellow-and-navy four-door Cab Forty-Seven along the right-hand sidewalk curb, while twenty-three-year-old Nolan Lennox stands braced on his two matte-silver single-tube Lofstrand forearm crutches beside the open trunk holding his folded manual wheelchair and olive duffel"
                                 }
                             ],
-                            "image_count": 1,
+                            "image_count": 2,
                             "backstage": [
                                 "books/waystation/the-turned-off-meter-denises-cab-from-monticello-avenue"
                             ]
@@ -509,7 +513,7 @@
                     "part_count": 1,
                     "word_count": 640,
                     "reading_minutes": 3,
-                    "image": "/raggiesoft-books/images/covers/og/waystation.jpg"
+                    "image": "/raggiesoft-books/images/scenes/waystation/paths/norfolk_ticket_counter_crossroads.jpg"
                 }
             ]
         },
@@ -554,7 +558,7 @@
                     "part_count": 3,
                     "word_count": 4719,
                     "reading_minutes": 19,
-                    "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg"
+                    "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_sweet_voice_bay4_boarding.jpg"
                 }
             ]
         },
@@ -600,8 +604,8 @@
                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                     },
                     "part_count": 4,
-                    "word_count": 4535,
-                    "reading_minutes": 19,
+                    "word_count": 6010,
+                    "reading_minutes": 25,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg"
                 }
             ]
@@ -882,20 +886,20 @@
             "part_count": 1,
             "word_count": 640,
             "reading_minutes": 3,
-            "image": "/raggiesoft-books/images/covers/og/waystation.jpg",
+            "image": "/raggiesoft-books/images/scenes/waystation/paths/norfolk_ticket_counter_crossroads.jpg",
             "eras": [
                 {
                     "era_num": 1,
                     "era_title": "Book One: Ninety-Nine Dollars at the Ticket Window",
                     "era_url": "/raggiesoft-books/books/waystation/paths/norfolk-ticket-counter/book-one-ninety-nine-dollars-at-the-ticket-window",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "word_count": 640,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1A: Two Ticket Folders and Four Steep Steps at Gate Four",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/norfolk-ticket-counter/book-one-ninety-nine-dollars-at-the-ticket-window/chapter-1a-two-ticket-folders-and-four-steep-steps-at-gate-four",
-                            "illustration_count": 0,
+                            "illustration_count": 1,
                             "word_count": 640,
                             "parts": [
                                 {
@@ -910,6 +914,15 @@
                                     "start_time": "09:51",
                                     "location": "Ticket Window & Departure Bay Four, 1961 Norfolk Pathfinder Terminal on Monticello Avenue, Virginia",
                                     "excerpt": "Just like back in September after four lonely nights upstairs at Grandpa's, and just like back in May right before June rent came due, those two silent seconds behind Tammy's open baby-blue cardigan wings\u2014paired\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/norfolk_ticket_counter_crossroads.jpg",
+                                    "image_alt": "Inside the sunlit 1961 mid-century Norfolk Pathfinder Terminal waiting room on Monticello Avenue, twenty-three-year-old Nolan Lennox sits in his black manual wheelchair with his battered olive duffel on his lap and his two matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, watching petite five-foot-tall Tammy turn back from the glazed PATHFINDER ticket window with a warm, reassuring Week-One smile as she holds two red-and-white walk-up Seattle ticket folders.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/norfolk_ticket_counter_crossroads.jpg",
+                                            "alt": "Inside the sunlit 1961 mid-century Norfolk Pathfinder Terminal waiting room on Monticello Avenue, twenty-three-year-old Nolan Lennox sits in his black manual wheelchair with his battered olive duffel on his lap and his two matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, watching petite five-foot-tall Tammy turn back from the glazed PATHFINDER ticket window with a warm, reassuring Week-One smile as she holds two red-and-white walk-up Seattle ticket folders."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter"
                                     }
@@ -949,14 +962,14 @@
                     "era_num": 1,
                     "era_title": "Book One: Turning Around at Gate Four",
                     "era_url": "/raggiesoft-books/books/waystation/paths/ticket-snap-refuse-boarding/book-one-turning-around-at-gate-four",
-                    "illustration_count": 1,
+                    "illustration_count": 2,
                     "word_count": 1881,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Dropped Mask at Bay Four and Denise's Cab Home",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/ticket-snap-refuse-boarding/book-one-turning-around-at-gate-four/chapter-1b-dropped-mask-at-bay-four-and-denise-s-cab-home",
-                            "illustration_count": 1,
+                            "illustration_count": 2,
                             "word_count": 1881,
                             "parts": [
                                 {
@@ -977,9 +990,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
                                             "alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches looking up at the steep stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy scowls impatiently down from the open curbside doorway holding Nolan's two detached metal wheelchair footrest assemblies and a weary gray-shirted driver watches beside the open underbelly luggage bay."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/p010_denise_cab_free_ride_norfolk.jpg",
+                                            "alt": "Beneath the round 1961 concrete mushroom corner canopy outside the Norfolk Pathfinder Terminal on Monticello Avenue, kind thirty-eight-year-old female Norfolk taxi driver Denise Carter smiles warmly in a blue chambray shirt with her laminated operator badge clipped to her pocket as she holds open the right-rear passenger door of her parked yellow-and-navy four-door Cab Forty-Seven along the right-hand sidewalk curb, while twenty-three-year-old Nolan Lennox stands braced on his two matte-silver single-tube Lofstrand forearm crutches beside the open trunk holding his folded manual wheelchair and olive duffel"
                                         }
                                     ],
-                                    "image_count": 1,
+                                    "image_count": 2,
                                     "backstage": [
                                         "books/waystation/the-turned-off-meter-denises-cab-from-monticello-avenue"
                                     ],
@@ -1256,7 +1273,7 @@
             "part_count": 3,
             "word_count": 4719,
             "reading_minutes": 19,
-            "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
+            "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_sweet_voice_bay4_boarding.jpg",
             "eras": [
                 {
                     "era_num": 1,
@@ -1284,11 +1301,11 @@
                                     "start_time": "09:57",
                                     "location": "Norfolk Pathfinder Terminal Across Virginia to Richmond, Marion & Bristol, Virginia",
                                     "excerpt": "If Tammy had raised her voice or snapped at me right there on the Norfolk concrete\u2014even with two freshly printed Seattle ticket folders in her hand\u2014every alarm bell inside my head would have fired at once, and I\u2026",
-                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_sweet_voice_bay4_boarding.jpg",
                                     "image_alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches at the stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy leans warmly forward in the doorway with her sweet Week-One smile holding Nolan's two detached metal wheelchair footrest assemblies so his hands stay free on the rail.",
                                     "images": [
                                         {
-                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_sweet_voice_bay4_boarding.jpg",
                                             "alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches at the stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy leans warmly forward in the doorway with her sweet Week-One smile holding Nolan's two detached metal wheelchair footrest assemblies so his hands stay free on the rail."
                                         }
                                     ],
@@ -1642,23 +1659,23 @@
                 "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
             },
             "part_count": 4,
-            "word_count": 4535,
-            "reading_minutes": 19,
+            "word_count": 6010,
+            "reading_minutes": 25,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
             "eras": [
                 {
                     "era_num": 1,
                     "era_title": "Book One: Ninety-Six Hours to Puget Sound",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound",
-                    "illustration_count": 4,
-                    "word_count": 4535,
+                    "illustration_count": 5,
+                    "word_count": 6010,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
-                            "illustration_count": 4,
-                            "word_count": 4535,
+                            "illustration_count": 5,
+                            "word_count": 6010,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -1692,8 +1709,8 @@
                                     "part_title": "Part 2: Fog in Pasco, Across the Cascades, and Abandoned in Seattle",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p002.md",
                                     "url": "/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-2-fog-in-pasco-across-the-cascades-and-abandoned-in-seattle",
-                                    "word_count": 806,
-                                    "reading_minutes": 4,
+                                    "word_count": 2248,
+                                    "reading_minutes": 9,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-08-25",
                                     "start_time": "07:45",
@@ -1705,9 +1722,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p002_abandoned_seattle_terminal_rain.jpg",
                                             "alt": "Inside the rainy concourse of the Downtown Seattle Pathfinder Terminal on Saturday afternoon, August 25, 2001, weary, heartbroken twenty-three-year-old Nolan Lennox stands leaning on his two matte-silver single-tube Lofstrand forearm crutches beside a concrete column and unbranded chrome payphones next to his folded manual wheelchair, two detached metal footrests, and olive duffel bag on the terrazzo floor, while petite five-foot-tall Tammy strides coldly out the rain-streaked glass exit doors pulling her rolling suitcase without looking back."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p002_ticket_counter_911_help.jpg",
+                                            "alt": "Inside the rainy concourse of the Downtown Seattle Pathfinder Terminal beneath brushed-metal PATHFINDER lettering, tearful twenty-three-year-old Nolan Lennox sits in his black manual wheelchair with his olive duffel bag on his lap and his two matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, speaking earnestly through the circular stainless-steel counter grille while a deeply concerned uniformed ticket agent in a light-blue shirt, tie, and dark vest leans forward beside a beige CRT monitor holding a corded black telephone handset to his ear as he dials 911."
                                         }
                                     ],
-                                    "image_count": 1,
+                                    "image_count": 2,
                                     "backstage": [
                                         "books/waystation/from-monticello-to-pasco-why-there-were-no-family-restrooms"
                                     ],
@@ -1722,8 +1743,8 @@
                                     "part_title": "Part 3: Puget Sound General, Grounded Skies, and Holding On Past October Nineteenth",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p003.md",
                                     "url": "/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-3-puget-sound-general-grounded-skies-and-holding-on-past-october-nineteenth",
-                                    "word_count": 982,
-                                    "reading_minutes": 4,
+                                    "word_count": 1015,
+                                    "reading_minutes": 5,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-09-11",
                                     "start_time": "06:03",
@@ -1897,14 +1918,14 @@
                     "era_num": 1,
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-                    "illustration_count": 8,
+                    "illustration_count": 9,
                     "word_count": 20841,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                            "illustration_count": 5,
+                            "illustration_count": 6,
                             "word_count": 16991,
                             "parts": [
                                 {
@@ -1924,9 +1945,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
                                             "alt": "On the cozy covered front porch of Grandpa Walter's two-story brick-and-siding home near Emerald Creek Mall in Chesapeake on an overcast late-summer morning, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after a kind Norfolk cab driver brings him straight home from the bus station at zero charge, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/p010_denise_cab_free_ride_norfolk.jpg",
+                                            "alt": "Beneath the round 1961 concrete mushroom corner canopy outside the Norfolk Pathfinder Terminal on Monticello Avenue, kind thirty-eight-year-old female Norfolk taxi driver Denise Carter smiles warmly in a blue chambray shirt with her laminated operator badge clipped to her pocket as she holds open the right-rear passenger door of her parked yellow-and-navy four-door Cab Forty-Seven along the right-hand sidewalk curb, while twenty-three-year-old Nolan Lennox stands braced on his two matte-silver single-tube Lofstrand forearm crutches beside the open trunk holding his folded manual wheelchair and olive duffel"
                                         }
                                     ],
-                                    "image_count": 1,
+                                    "image_count": 2,
                                     "backstage": [
                                         "books/waystation/the-turned-off-meter-denises-cab-from-monticello-avenue"
                                     ],
@@ -2790,20 +2815,20 @@
             "part_count": 1,
             "word_count": 640,
             "reading_minutes": 3,
-            "image": "/raggiesoft-books/images/covers/og/waystation.jpg",
+            "image": "/raggiesoft-books/images/scenes/waystation/paths/norfolk_ticket_counter_crossroads.jpg",
             "eras": [
                 {
                     "era_num": 1,
                     "era_title": "Book One: Ninety-Nine Dollars at the Ticket Window",
                     "era_url": "/raggiesoft-books/books/waystation/paths/norfolk-ticket-counter/book-one-ninety-nine-dollars-at-the-ticket-window",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "word_count": 640,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1A: Two Ticket Folders and Four Steep Steps at Gate Four",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/norfolk-ticket-counter/book-one-ninety-nine-dollars-at-the-ticket-window/chapter-1a-two-ticket-folders-and-four-steep-steps-at-gate-four",
-                            "illustration_count": 0,
+                            "illustration_count": 1,
                             "word_count": 640,
                             "parts": [
                                 {
@@ -2818,6 +2843,15 @@
                                     "start_time": "09:51",
                                     "location": "Ticket Window & Departure Bay Four, 1961 Norfolk Pathfinder Terminal on Monticello Avenue, Virginia",
                                     "excerpt": "Just like back in September after four lonely nights upstairs at Grandpa's, and just like back in May right before June rent came due, those two silent seconds behind Tammy's open baby-blue cardigan wings\u2014paired\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/norfolk_ticket_counter_crossroads.jpg",
+                                    "image_alt": "Inside the sunlit 1961 mid-century Norfolk Pathfinder Terminal waiting room on Monticello Avenue, twenty-three-year-old Nolan Lennox sits in his black manual wheelchair with his battered olive duffel on his lap and his two matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, watching petite five-foot-tall Tammy turn back from the glazed PATHFINDER ticket window with a warm, reassuring Week-One smile as she holds two red-and-white walk-up Seattle ticket folders.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/norfolk_ticket_counter_crossroads.jpg",
+                                            "alt": "Inside the sunlit 1961 mid-century Norfolk Pathfinder Terminal waiting room on Monticello Avenue, twenty-three-year-old Nolan Lennox sits in his black manual wheelchair with his battered olive duffel on his lap and his two matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, watching petite five-foot-tall Tammy turn back from the glazed PATHFINDER ticket window with a warm, reassuring Week-One smile as she holds two red-and-white walk-up Seattle ticket folders."
+                                        }
+                                    ],
+                                    "image_count": 1,
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter"
                                     }
@@ -2857,14 +2891,14 @@
                     "era_num": 1,
                     "era_title": "Book One: Turning Around at Gate Four",
                     "era_url": "/raggiesoft-books/books/waystation/paths/ticket-snap-refuse-boarding/book-one-turning-around-at-gate-four",
-                    "illustration_count": 1,
+                    "illustration_count": 2,
                     "word_count": 1881,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Dropped Mask at Bay Four and Denise's Cab Home",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/ticket-snap-refuse-boarding/book-one-turning-around-at-gate-four/chapter-1b-dropped-mask-at-bay-four-and-denise-s-cab-home",
-                            "illustration_count": 1,
+                            "illustration_count": 2,
                             "word_count": 1881,
                             "parts": [
                                 {
@@ -2885,9 +2919,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
                                             "alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches looking up at the steep stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy scowls impatiently down from the open curbside doorway holding Nolan's two detached metal wheelchair footrest assemblies and a weary gray-shirted driver watches beside the open underbelly luggage bay."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/p010_denise_cab_free_ride_norfolk.jpg",
+                                            "alt": "Beneath the round 1961 concrete mushroom corner canopy outside the Norfolk Pathfinder Terminal on Monticello Avenue, kind thirty-eight-year-old female Norfolk taxi driver Denise Carter smiles warmly in a blue chambray shirt with her laminated operator badge clipped to her pocket as she holds open the right-rear passenger door of her parked yellow-and-navy four-door Cab Forty-Seven along the right-hand sidewalk curb, while twenty-three-year-old Nolan Lennox stands braced on his two matte-silver single-tube Lofstrand forearm crutches beside the open trunk holding his folded manual wheelchair and olive duffel"
                                         }
                                     ],
-                                    "image_count": 1,
+                                    "image_count": 2,
                                     "backstage": [
                                         "books/waystation/the-turned-off-meter-denises-cab-from-monticello-avenue"
                                     ],
@@ -3164,7 +3202,7 @@
             "part_count": 3,
             "word_count": 4719,
             "reading_minutes": 19,
-            "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
+            "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_sweet_voice_bay4_boarding.jpg",
             "eras": [
                 {
                     "era_num": 1,
@@ -3192,11 +3230,11 @@
                                     "start_time": "09:57",
                                     "location": "Norfolk Pathfinder Terminal Across Virginia to Richmond, Marion & Bristol, Virginia",
                                     "excerpt": "If Tammy had raised her voice or snapped at me right there on the Norfolk concrete\u2014even with two freshly printed Seattle ticket folders in her hand\u2014every alarm bell inside my head would have fired at once, and I\u2026",
-                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_sweet_voice_bay4_boarding.jpg",
                                     "image_alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches at the stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy leans warmly forward in the doorway with her sweet Week-One smile holding Nolan's two detached metal wheelchair footrest assemblies so his hands stay free on the rail.",
                                     "images": [
                                         {
-                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_sweet_voice_bay4_boarding.jpg",
                                             "alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches at the stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy leans warmly forward in the doorway with her sweet Week-One smile holding Nolan's two detached metal wheelchair footrest assemblies so his hands stay free on the rail."
                                         }
                                     ],
@@ -3550,23 +3588,23 @@
                 "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
             },
             "part_count": 4,
-            "word_count": 4535,
-            "reading_minutes": 19,
+            "word_count": 6010,
+            "reading_minutes": 25,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
             "eras": [
                 {
                     "era_num": 1,
                     "era_title": "Book One: Ninety-Six Hours to Puget Sound",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound",
-                    "illustration_count": 4,
-                    "word_count": 4535,
+                    "illustration_count": 5,
+                    "word_count": 6010,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
-                            "illustration_count": 4,
-                            "word_count": 4535,
+                            "illustration_count": 5,
+                            "word_count": 6010,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -3600,8 +3638,8 @@
                                     "part_title": "Part 2: Fog in Pasco, Across the Cascades, and Abandoned in Seattle",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p002.md",
                                     "url": "/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-2-fog-in-pasco-across-the-cascades-and-abandoned-in-seattle",
-                                    "word_count": 806,
-                                    "reading_minutes": 4,
+                                    "word_count": 2248,
+                                    "reading_minutes": 9,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-08-25",
                                     "start_time": "07:45",
@@ -3613,9 +3651,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p002_abandoned_seattle_terminal_rain.jpg",
                                             "alt": "Inside the rainy concourse of the Downtown Seattle Pathfinder Terminal on Saturday afternoon, August 25, 2001, weary, heartbroken twenty-three-year-old Nolan Lennox stands leaning on his two matte-silver single-tube Lofstrand forearm crutches beside a concrete column and unbranded chrome payphones next to his folded manual wheelchair, two detached metal footrests, and olive duffel bag on the terrazzo floor, while petite five-foot-tall Tammy strides coldly out the rain-streaked glass exit doors pulling her rolling suitcase without looking back."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p002_ticket_counter_911_help.jpg",
+                                            "alt": "Inside the rainy concourse of the Downtown Seattle Pathfinder Terminal beneath brushed-metal PATHFINDER lettering, tearful twenty-three-year-old Nolan Lennox sits in his black manual wheelchair with his olive duffel bag on his lap and his two matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest, speaking earnestly through the circular stainless-steel counter grille while a deeply concerned uniformed ticket agent in a light-blue shirt, tie, and dark vest leans forward beside a beige CRT monitor holding a corded black telephone handset to his ear as he dials 911."
                                         }
                                     ],
-                                    "image_count": 1,
+                                    "image_count": 2,
                                     "backstage": [
                                         "books/waystation/from-monticello-to-pasco-why-there-were-no-family-restrooms"
                                     ],
@@ -3630,8 +3672,8 @@
                                     "part_title": "Part 3: Puget Sound General, Grounded Skies, and Holding On Past October Nineteenth",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p003.md",
                                     "url": "/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-3-puget-sound-general-grounded-skies-and-holding-on-past-october-nineteenth",
-                                    "word_count": 982,
-                                    "reading_minutes": 4,
+                                    "word_count": 1015,
+                                    "reading_minutes": 5,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-09-11",
                                     "start_time": "06:03",
@@ -3805,14 +3847,14 @@
                     "era_num": 1,
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
-                    "illustration_count": 8,
+                    "illustration_count": 9,
                     "word_count": 20841,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
-                            "illustration_count": 5,
+                            "illustration_count": 6,
                             "word_count": 16991,
                             "parts": [
                                 {
@@ -3832,9 +3874,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
                                             "alt": "On the cozy covered front porch of Grandpa Walter's two-story brick-and-siding home near Emerald Creek Mall in Chesapeake on an overcast late-summer morning, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after a kind Norfolk cab driver brings him straight home from the bus station at zero charge, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/p010_denise_cab_free_ride_norfolk.jpg",
+                                            "alt": "Beneath the round 1961 concrete mushroom corner canopy outside the Norfolk Pathfinder Terminal on Monticello Avenue, kind thirty-eight-year-old female Norfolk taxi driver Denise Carter smiles warmly in a blue chambray shirt with her laminated operator badge clipped to her pocket as she holds open the right-rear passenger door of her parked yellow-and-navy four-door Cab Forty-Seven along the right-hand sidewalk curb, while twenty-three-year-old Nolan Lennox stands braced on his two matte-silver single-tube Lofstrand forearm crutches beside the open trunk holding his folded manual wheelchair and olive duffel"
                                         }
                                     ],
-                                    "image_count": 1,
+                                    "image_count": 2,
                                     "backstage": [
                                         "books/waystation/the-turned-off-meter-denises-cab-from-monticello-avenue"
                                     ],
