@@ -13,17 +13,17 @@
         "text_epub": "1.1 MB",
         "text_pdf": "3.1 MB",
         "package_7z": "792 KB",
-        "epub_bytes": 79790314,
-        "pdf_bytes": 84144768,
-        "text_epub_bytes": 1167231,
-        "text_pdf_bytes": 3253696,
-        "package_7z_bytes": 810573
+        "epub_bytes": 79790176,
+        "pdf_bytes": 84144122,
+        "text_epub_bytes": 1167099,
+        "text_pdf_bytes": 3253088,
+        "package_7z_bytes": 810558
     },
     "illustration_count": 131,
     "word_stats": {
         "story_word_count": 498537,
-        "lore_word_count": 89069,
-        "combined_word_count": 587606,
+        "lore_word_count": 89065,
+        "combined_word_count": 587602,
         "story_page_count": 1813,
         "combined_page_count": 2137,
         "reading_hours": 33.2,
@@ -3240,7 +3240,7 @@
                             "reading_minutes": 8,
                             "date": "2006-11-16",
                             "start_time": "04:00",
-                            "excerpt": "\\[Note to the AI: this picks up after a MASSIVE violation happened to Michael at 11 PM PST just a few hours prior. For context, refer to the Revised Code of Washington: RCW 9A.44.050. I, the author of this\u2026",
+                            "excerpt": "I woke up to a violent, echoing pounding on the bedroom door. My heart hammered against my ribs, panic instantly flooding my system. I had barely slept. I was running on maybe two hours of fractured, exhausted\u2026",
                             "image": "/raggiesoft-books/images/scenes/rachel/b015/michael-gillig-bus-call.jpg",
                             "image_alt": "Michael frantically calling Jessica from a crowded Stalwart Phantom bus in the early morning darkness",
                             "images": [

@@ -767,7 +767,7 @@ Climbing up to the rooftop astronomy observation deck of **Copernicus Hall**—h
 **LORE NOTE:**
 Recorded in **October 1996** to celebrate the **10th Anniversary** of *"Ignition: The Forger's Call"* debuting inside **The Crucible**, ***"Foundry Maroon & Molten Orange"*** (`1996 Homecoming Single`) was pressed by Engine Room Records as a limited-edition Homecoming cassette distributed free to CPI students outside **The Foundry** (CPI's bustling two-story campus dining hall rotunda) and **Kincaid Hall**.
 
-Written at **`130 BPM`** in the band's signature 1980s AOR stadium-rock style, this high-voltage vocal duet between Ryan and Cassidy celebrates CPI's official collegiate colors—**Foundry Maroon** (`#861F41`, representing the structural iron and seasoned brick of the forge) and **Molten Orange** (`#E5751F`, representing liquid steel pouring from the crucible at $2,800^\circ\text{F}$)—and the lifelong bond of coming home to Blacksburg every October.
+Written at **`130 BPM`** in the band's signature 1980s AOR stadium-rock style, this high-voltage vocal duet between Ryan and Cassidy celebrates CPI's official collegiate colors—**Foundry Maroon** (`#861F41`, representing the structural iron and seasoned brick of the forge) and **Molten Orange** (`#E5751F`, representing liquid steel pouring from the crucible at 2,800°F)—and the lifelong bond of coming home to Blacksburg every October.
 
 **LYRICS:**
 

@@ -13,11 +13,11 @@
         "text_epub": "85 KB",
         "text_pdf": "250 KB",
         "package_7z": "69 KB",
-        "epub_bytes": 87038,
-        "pdf_bytes": 256466,
-        "text_epub_bytes": 87037,
-        "text_pdf_bytes": 256466,
-        "package_7z_bytes": 70735
+        "epub_bytes": 87029,
+        "pdf_bytes": 256451,
+        "text_epub_bytes": 87024,
+        "text_pdf_bytes": 256451,
+        "package_7z_bytes": 70717
     },
     "illustration_count": 0,
     "word_stats": {
@@ -129,7 +129,7 @@
                             "word_count": 416,
                             "reading_minutes": 2,
                             "location": "Unknown",
-                            "excerpt": "The next day, on the \\#253 eastbound bus across the SR 520 Bridge, the Quantum engineers who shared Jessica\u2019s transfer leaned in. They\u2019d heard every word of yesterday\u2019s warning from the Aurora crew. \u201cJess, we\u2019ve\u2026"
+                            "excerpt": "The next day, on the #253 eastbound bus across the SR 520 Bridge, the Quantum engineers who shared Jessica\u2019s transfer leaned in. They\u2019d heard every word of yesterday\u2019s warning from the Aurora crew. \u201cJess, we\u2019ve\u2026"
                         }
                     ]
                 },

@@ -710,16 +710,16 @@ Following the September 3rd changeover, Suno has implemented strict download res
 
 ## [FILE: rules/master-copyright-document.md]
 
-# Universal Brand Replacements \& Copyright Dictionary
+# Universal Brand Replacements & Copyright Dictionary
 
 This document serves as the master reference for all drop-in replacements for real-world copyrighted and trademarked entities within the fictional universe.
 
-## Retail, Locations \& Everyday Logistics
+## Retail, Locations & Everyday Logistics
 
 | Real-World Brand                     | Fictional Equivalent                                       | Flagship Products / Notes                                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Hecht's / May Company                | Wellington's Department Store                              | Bought out Whitaker's. Gutted the Glenrock Mall location's dining room for a mattress department and bulldozed the rear greenhouse.                                                                                                                                                                                                                                                                     |
-| Thalhimers                           | E.H. Whitaker \& Co. (Whitaker's)                          | Founded by Charles Monroe Whitaker. Spun off a failed venture called "Monroe's".                                                                                                                                                                                                                                                                                                                        |
+| Thalhimers                           | E.H. Whitaker & Co. (Whitaker's)                          | Founded by Charles Monroe Whitaker. Spun off a failed venture called "Monroe's".                                                                                                                                                                                                                                                                                                                        |
 | Military Circle Mall                 | Glenrock Mall                                              | Primary shopping center location.                                                                                                                                                                                                                                                                                                                                                                       |
 | Walmart                              | MegaMart                                                   | Standard big-box retailer.                                                                                                                                                                                                                                                                                                                                                                              |
 | Target                               | The Spot                                                   | Standard big-box retailer.                                                                                                                                                                                                                                                                                                                                                                              |
@@ -731,7 +731,7 @@ This document serves as the master reference for all drop-in replacements for re
 | FedEx                                | Aero-Transit                                               | Parcel delivery service.                                                                                                                                                                                                                                                                                                                                                                                |
 | UPS / USPS                           | United Parcel Network (UPN) / Federal Postal Service (FPS) | Parcel and mail services.                                                                                                                                                                                                                                                                                                                                                                               |
 | Sysco                                | Pro-Serve Foodways                                         | Commercial food distribution.                                                                                                                                                                                                                                                                                                                                                                           |
-| Dunkin' Donuts / Shaw's              | Dip \& Sip / BayState Market                               | New England style staples.                                                                                                                                                                                                                                                                                                                                                                              |
+| Dunkin' Donuts / Shaw's              | Dip & Sip / BayState Market                               | New England style staples.                                                                                                                                                                                                                                                                                                                                                                              |
 | Starbucks                            | Siren Coffee Co.                                           | National/Global coffee chain. (See Emerald City Roasters for PNW).                                                                                                                                                                                                                                                                                                                                      |
 | Starbucks (PNW region)               | Emerald City Roasters                                      | Pacific Northwest specific coffee chain equivalent.                                                                                                                                                                                                                                                                                                                                                     |
 | Newport Creamery                     | BayFront Creamery                                          | Regional dairy/restaurant.                                                                                                                                                                                                                                                                                                                                                                              |
@@ -741,7 +741,7 @@ This document serves as the master reference for all drop-in replacements for re
 | Taco Bell                            | Baja Taco                                                  | Fast food Mexican.                                                                                                                                                                                                                                                                                                                                                                                      |
 | Macy's                               | Hudson's                                                   | Department store.                                                                                                                                                                                                                                                                                                                                                                                       |
 | The Bon Marché                       | The Grand Marché                                           | Department store.                                                                                                                                                                                                                                                                                                                                                                                       |
-| Nordstrom                            | Norwood's                                                  | Also referred to as Norwood \& Co.                                                                                                                                                                                                                                                                                                                                                                      |
+| Nordstrom                            | Norwood's                                                  | Also referred to as Norwood & Co.                                                                                                                                                                                                                                                                                                                                                                      |
 | Westlake Center                      | Pine Street Center                                         | Urban shopping center.                                                                                                                                                                                                                                                                                                                                                                                  |
 | Jack in the Box                      | Jester’s                                                   | Fast food burger chain.                                                                                                                                                                                                                                                                                                                                                                                 |
 | Safeway                              | Cascade Grocers                                            | Supermarket chain.                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -751,7 +751,7 @@ This document serves as the master reference for all drop-in replacements for re
 | Dick's Drive-In                      | Duke's Drive-In                                            | Classic drive-in restaurant.                                                                                                                                                                                                                                                                                                                                                                            |
 | Central Puget Sound Transit          | TAPS (Transit Authority of the Puget Sound)                | **Unified Entity:** Merges all 5 real-world regional agencies (Sound, Metro, Pierce, Community, Everett) into one frictionless authority. Distinct liveries remain (e.g., Express routes use blue/teal waves; local King County uses teal/yellow stripes).                                                                                                                                              |
 | PugetPass                            | TAPS-Pass                                                  | The regional transit pass, valued in $0.25 increments. Originally physical paper/magnetic cards; now functions as a virtual pass loaded directly onto a WAVE card.                                                                                                                                                                                                                                      |
-| ORCA Card                            | WAVE Card                                                  | **W**ashington **A**rea **V**oyager **E**-Pass. Universal smart-card system. Note: During initial development, staff proposed "Easy-Pass" and "COMPASS". General Counsel shot down "COMPASS" due to PacificLink's trademark in Vancouver, and immediately vetoed "Easy-Pass" under threat of a Cease \& Desist from the East Coast E-ZPass IAG. "Electronic" was chosen as the legally safe substitute. |
+| ORCA Card                            | WAVE Card                                                  | **W**ashington **A**rea **V**oyager **E**-Pass. Universal smart-card system. Note: During initial development, staff proposed "Easy-Pass" and "COMPASS". General Counsel shot down "COMPASS" due to PacificLink's trademark in Vancouver, and immediately vetoed "Easy-Pass" under threat of a Cease & Desist from the East Coast E-ZPass IAG. "Electronic" was chosen as the legally safe substitute. |
 | Microsoft Blue Badge Transit Benefit | Quantum Blue Badge                                         | Functions as a universal, unlimited-access pass for the entire TAPS network. Employees simply flash the badge for frictionless boarding. Transitioned to smart-chip loading upon the introduction of the WAVE system.                                                                                                                                                                                   |
 | HRT (Hampton Roads Transit)          | CVTA (Coastal Virginia Transit Authority)                  | Local transit grid in Virginia. Quantum subsidizes these passes for out-of-state deployments (like NAVSTA Norfolk) just as seamlessly as TAPS.                                                                                                                                                                                                                                                          |
 | C-TRAN / TriMet                      | CTS                                                        | Columbia Transit Service. A unified, bi-state transit authority that combines the real-world networks of Clark County, WA (C-TRAN) and Portland, OR (TriMet) into a single, seamless regional system.                                                                                                                                                                                                   |
@@ -759,7 +759,7 @@ This document serves as the master reference for all drop-in replacements for re
 | BC Transit                           | Columbia Provincial Transit (CPT)                          | The broader provincial transit network. Operated the entire region until PacificLink broke off as an independent entity to manage the Greater Vancouver grid.                                                                                                                                                                                                                                           |
 | Vancouver Pacific Central Station    | Pacific Central Terminus                                   | The northern hub for ARTS. Jessica arrived here via the ARTS Cascadian route from the TAPS Tukwila Provisional Platform during a major Quantum enterprise deployment.                                                                                                                                                                                                                                   |
 
-## Automotive \& Transportation
+## Automotive & Transportation
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
@@ -783,7 +783,7 @@ This document serves as the master reference for all drop-in replacements for re
 |Alaska Airlines|Cascade Air|Domestic airline.|
 |Washington State Ferries|ESMTA|Evergreen State Marine Transit Agency, colloquially "The Evergreen".|
 
-## Technology \& Software
+## Technology & Software
 
 | Real-World Brand          | Fictional Equivalent                    | Flagship Products / Notes                                                                                                                                                                                                                                                                     |
 | ------------------------- | --------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -811,7 +811,7 @@ This document serves as the master reference for all drop-in replacements for re
 | InstallShield             | SetupRight                              | Express/Professional software installers.                                                                                                                                                                                                                                                     |
 | Polycom                   | Omni-Link Uplink                        | Teleconferencing hardware.                                                                                                                                                                                                                                                                    |
 
-## Movies, Media \& Pop Culture
+## Movies, Media & Pop Culture
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
@@ -830,7 +830,7 @@ This document serves as the master reference for all drop-in replacements for re
 |"The Way Things Work"|The Atlas of Mechanisms|Educational book.|
 |The Seattle Times|The Pacific Chronicle|Pacific Northwest daily newspaper.|
 
-## Video Games \& Consoles
+## Video Games & Consoles
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
@@ -850,7 +850,7 @@ This document serves as the master reference for all drop-in replacements for re
 |Mall Arcades|The Neon Quarter|General term for shopping mall arcades.|
 |Skee-Ball|Alley-Rollers|Arcade redemption game.|
 
-## Music \& Entertainment
+## Music & Entertainment
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
@@ -872,7 +872,7 @@ This document serves as the master reference for all drop-in replacements for re
 |Sony Walkman|AudioStar|Portable cassette player.|
 |Boombox|AudioStar Sound System|Portable stereo.|
 
-## Consumer Goods, Hardware \& Medical
+## Consumer Goods, Hardware & Medical
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
@@ -895,7 +895,7 @@ This document serves as the master reference for all drop-in replacements for re
 |Grand Marnier|L'Orange Royale|Orange-flavored liqueur.|
 |Dom Pérignon / Macallan 18|Château St. Claire / Highland Crest 18|High-end champagne and scotch.|
 
-## Institutions, Education \& Theme Parks
+## Institutions, Education & Theme Parks
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
@@ -910,9 +910,9 @@ This document serves as the master reference for all drop-in replacements for re
 |Water Country USA|Tidal Springs|Water park.|
 |D.A.R.E.|Project S.T.E.P.|School-based anti-drug program.|
 
-## Sports \& Professional Wrestling
+## Sports & Professional Wrestling
 
-### Entities \& Organizations
+### Entities & Organizations
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
@@ -937,7 +937,7 @@ This document serves as the master reference for all drop-in replacements for re
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
 |WrestleMania|The Pinnacle|The flagship, stadium-tier annual pay-per-view event.|
-|Royal Rumble (PPV \& Match)|The Iron Gauntlet|January PPV. Features the 30-Man Iron Gauntlet Match. **Rule:** Elimination only occurs when thrown over the top rope and *both feet* touch the floor, allowing for athletic loophole saves.|
+|Royal Rumble (PPV & Match)|The Iron Gauntlet|January PPV. Features the 30-Man Iron Gauntlet Match. **Rule:** Elimination only occurs when thrown over the top rope and *both feet* touch the floor, allowing for athletic loophole saves.|
 |SummerSlam|Summer Siege|The flagship August pay-per-view event.|
 |Survivor Series (PPV)|No Quarter|Major November pay-per-view event.|
 
@@ -949,7 +949,7 @@ This document serves as the master reference for all drop-in replacements for re
 |WWE Diva / Women's Division|AWE Icon|The corporate branding for the female roster. In 2006, this division is still heavily mired in the misogynistic "Bra and Panties" tropes of the era.|
 |WWE Universe|The AWE Legion|The official marketing term for the AWE's rabid global fanbase.|
 
-### Personnel \& Roster
+### Personnel & Roster
 
 |Real-World Brand|Fictional Equivalent|Flagship Products / Notes|
 |-|-|-|
@@ -2152,7 +2152,7 @@ core_conflict: "Neurotypical ignorance vs. Absolute familial protection and disa
 catalyst: "A transparent message regarding medical accommodations for a movie date triggers a toxic, ableist explosion."
 ai_prompt_hooks:
   - "Focus on the technological difference between transient messaging and permanent chat logs."
-  - "Highlight the immense physical contrast between Sarah (6'4\") and Courtney (5'3\")."
+  - "Highlight the immense physical contrast between Sarah (6'4") and Courtney (5'3")."
   - "Emphasize Matt's internal realization that his cousins would verbally destroy Courtney if they were present."
   - "Portray the activation of the joint-and-several guardianship not just as paperwork, but as a weapon of protection."
 status: canonical

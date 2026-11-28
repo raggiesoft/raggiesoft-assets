@@ -30,7 +30,7 @@
 
 When re-engineering these 14 foundational songs (originally spanning 1987–2001) into *The Cosmic Tidal Lock Sound™*, the lyrics and structural cues were intentionally tweaked for **four interlocking reasons** (two technical/Suno AI reasons and two in-universe lore reasons):
 
-1. **In-Universe Retrospective Perspective (1987 Captivity $\rightarrow$ 2011 Orbital Freedom):**
+1. **In-Universe Retrospective Perspective (1987 Captivity → 2011 Orbital Freedom):**
    - When songs like *"Electric Color"*, *"Plastic Sky"*, *"Worlds Apart"*, and *"Neon Hearts"* were originally recorded in 1987–1989, the band was trapped inside **Apex Records' corporate machine**, singing from *underneath* the artificial "Plastic Sky" or from exhausting terrestrial highway vans.
    - By **October 18, 2011** (the 25th Anniversary of *Ignition* and seven years into their peaceful Burnout Hiatus), the family had been emancipated for 19 years. Updating pre-choruses, bridges, and outros (e.g., *"Leaving the terrestrial shadow behind / Drifting into the spectrum we were meant to find"*, *"Up in the sanctuary where the nebulae glow"*, *"Suspended in the velvet with you"*) transforms those early songs from cries of claustrophobia into **retrospective celebrations of survival and zero-gravity peace**.
 2. **Acoustic & Phonetic Vowel Extension for Zero-Gravity Reverb ("Suno Prosody Calibration"):**
@@ -45,20 +45,20 @@ When re-engineering these 14 foundational songs (originally spanning 1987–2001
 
 ## Quick Status Checklist (14 Tracks Total — 67:03 Total Runtime)
 
-- [x] **Track 01:** `The Stardust Engine (Cosmic Tidal Lock Mix)` *(from 1987: *Electric Color* (Track 13) / 1997: *Hard Reset* (Disc 1, Track 1))* $\rightarrow$ `the-stardust-engine-cosmic-tidal-lock.wav` (`5:03` • ISRC: `QTAEZ2618239`)
-- [x] **Track 02:** `Electric Color (Cosmic Tidal Lock Mix)` *(from 1987: *Electric Color* (Track 1))* $\rightarrow$ `electric-color-cosmic-tidal-lock.wav` (`4:18` • ISRC: `QTAEZ2618240`)
-- [x] **Track 03:** `Plastic Sky (Cosmic Tidal Lock Mix)` *(from 1987: *Electric Color* (Track 2))* $\rightarrow$ `plastic-sky-cosmic-tidal-lock.wav` (`4:47` • ISRC: `QTAEZ2618241`)
-- [x] **Track 04:** `Worlds Apart (Cosmic Tidal Lock Mix)` *(from 1987: *Electric Color* (Track 9))* $\rightarrow$ `worlds-apart-cosmic-tidal-lock.wav` (`4:57` • ISRC: `QTAEZ2618242`)
-- [x] **Track 05:** `My Anchor Holds (Cosmic Tidal Lock Mix)` *(from 1987: *Electric Color* (Track 3))* $\rightarrow$ `my-anchor-holds-cosmic-tidal-lock.wav` (`5:02` • ISRC: `QTAEZ2618243`)
-- [x] **Track 06:** `Neon Hearts (Cosmic Tidal Lock Mix)` *(from 1989: *Neon Hearts* (Track 1))* $\rightarrow$ `neon-hearts-cosmic-tidal-lock.wav` (`3:57` • ISRC: `QTAEZ2618244`)
-- [x] **Track 07:** `Rearview Mirror (Cosmic Tidal Lock Mix)` *(from 1987: *Electric Color* (Track 12))* $\rightarrow$ `rearview-mirror-cosmic-tidal-lock.wav` (`5:33` • ISRC: `QTAEZ2618245`)
-- [x] **Track 08:** `Atmosphere (Cosmic Tidal Lock Mix)` *(from 1995: *The Warehouse Tapes* (Track 4 — "Atmosphere (Warehouse Demo)") / 1996: *Ad Astra (Single)* (Track 3))* $\rightarrow$ `atmosphere-cosmic-tidal-lock.wav` (`4:22` • ISRC: `QTAEZ2618246`)
-- [x] **Track 09:** `No Hidden Gravity (Cosmic Tidal Lock Mix)` *(from 1996: *Ad Astra (Single)* (Track 5) / 1997: *Forger Nation War Chest* (Disc 1, Track 11))* $\rightarrow$ `no-hidden-gravity-cosmic-tidal-lock.wav` (`4:57` • ISRC: `QTAEZ2618247`)
-- [x] **Track 10:** `Inertia: Unstoppable (Cosmic Tidal Lock Mix)` *(from 1997: *Hard Reset* (Disc 1, Track 6 — "Inertia (Unstoppable)"))* $\rightarrow$ `inertia-unstoppable-cosmic-tidal-lock.wav` (`4:44` • ISRC: `QTAEZ2618248`)
-- [x] **Track 11:** `Echoes in the Wire (Cosmic Tidal Lock Mix)` *(from 1997: *Hard Reset* (Disc 1, Track 9))* $\rightarrow$ `echoes-in-the-wire-cosmic-tidal-lock.wav` (`4:29` • ISRC: `QTAEZ2618249`)
-- [x] **Track 12:** `Midnight Drivers (Cosmic Tidal Lock Mix)` *(from 2001: *Midnight Drivers* (Track 6))* $\rightarrow$ `midnight-drivers-cosmic-tidal-lock.wav` (`5:08` • ISRC: `QTAEZ2618250`)
-- [x] **Track 13:** `The Horizon Line (Cosmic Tidal Lock Mix)` *(from 2001: *Midnight Drivers* (Track 5))* $\rightarrow$ `the-horizon-line-cosmic-tidal-lock.wav` (`4:34` • ISRC: `QTAEZ2618251`)
-- [x] **Track 14:** `Fade to Dawn (Cosmic Tidal Lock Mix)` *(from 2001: *Midnight Drivers* (Track 10))* $\rightarrow$ `fade-to-dawn-cosmic-tidal-lock.wav` (`5:14` • ISRC: `QTAEZ2618252`)
+- [x] **Track 01:** `The Stardust Engine (Cosmic Tidal Lock Mix)` *(from 1987: *Electric Color* (Track 13) / 1997: *Hard Reset* (Disc 1, Track 1))* → `the-stardust-engine-cosmic-tidal-lock.wav` (`5:03` • ISRC: `QTAEZ2618239`)
+- [x] **Track 02:** `Electric Color (Cosmic Tidal Lock Mix)` *(from 1987: *Electric Color* (Track 1))* → `electric-color-cosmic-tidal-lock.wav` (`4:18` • ISRC: `QTAEZ2618240`)
+- [x] **Track 03:** `Plastic Sky (Cosmic Tidal Lock Mix)` *(from 1987: *Electric Color* (Track 2))* → `plastic-sky-cosmic-tidal-lock.wav` (`4:47` • ISRC: `QTAEZ2618241`)
+- [x] **Track 04:** `Worlds Apart (Cosmic Tidal Lock Mix)` *(from 1987: *Electric Color* (Track 9))* → `worlds-apart-cosmic-tidal-lock.wav` (`4:57` • ISRC: `QTAEZ2618242`)
+- [x] **Track 05:** `My Anchor Holds (Cosmic Tidal Lock Mix)` *(from 1987: *Electric Color* (Track 3))* → `my-anchor-holds-cosmic-tidal-lock.wav` (`5:02` • ISRC: `QTAEZ2618243`)
+- [x] **Track 06:** `Neon Hearts (Cosmic Tidal Lock Mix)` *(from 1989: *Neon Hearts* (Track 1))* → `neon-hearts-cosmic-tidal-lock.wav` (`3:57` • ISRC: `QTAEZ2618244`)
+- [x] **Track 07:** `Rearview Mirror (Cosmic Tidal Lock Mix)` *(from 1987: *Electric Color* (Track 12))* → `rearview-mirror-cosmic-tidal-lock.wav` (`5:33` • ISRC: `QTAEZ2618245`)
+- [x] **Track 08:** `Atmosphere (Cosmic Tidal Lock Mix)` *(from 1995: *The Warehouse Tapes* (Track 4 — "Atmosphere (Warehouse Demo)") / 1996: *Ad Astra (Single)* (Track 3))* → `atmosphere-cosmic-tidal-lock.wav` (`4:22` • ISRC: `QTAEZ2618246`)
+- [x] **Track 09:** `No Hidden Gravity (Cosmic Tidal Lock Mix)` *(from 1996: *Ad Astra (Single)* (Track 5) / 1997: *Forger Nation War Chest* (Disc 1, Track 11))* → `no-hidden-gravity-cosmic-tidal-lock.wav` (`4:57` • ISRC: `QTAEZ2618247`)
+- [x] **Track 10:** `Inertia: Unstoppable (Cosmic Tidal Lock Mix)` *(from 1997: *Hard Reset* (Disc 1, Track 6 — "Inertia (Unstoppable)"))* → `inertia-unstoppable-cosmic-tidal-lock.wav` (`4:44` • ISRC: `QTAEZ2618248`)
+- [x] **Track 11:** `Echoes in the Wire (Cosmic Tidal Lock Mix)` *(from 1997: *Hard Reset* (Disc 1, Track 9))* → `echoes-in-the-wire-cosmic-tidal-lock.wav` (`4:29` • ISRC: `QTAEZ2618249`)
+- [x] **Track 12:** `Midnight Drivers (Cosmic Tidal Lock Mix)` *(from 2001: *Midnight Drivers* (Track 6))* → `midnight-drivers-cosmic-tidal-lock.wav` (`5:08` • ISRC: `QTAEZ2618250`)
+- [x] **Track 13:** `The Horizon Line (Cosmic Tidal Lock Mix)` *(from 2001: *Midnight Drivers* (Track 5))* → `the-horizon-line-cosmic-tidal-lock.wav` (`4:34` • ISRC: `QTAEZ2618251`)
+- [x] **Track 14:** `Fade to Dawn (Cosmic Tidal Lock Mix)` *(from 2001: *Midnight Drivers* (Track 10))* → `fade-to-dawn-cosmic-tidal-lock.wav` (`5:14` • ISRC: `QTAEZ2618252`)
 
 ---
 

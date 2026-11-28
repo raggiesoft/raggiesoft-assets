@@ -9,21 +9,21 @@
     "next_series_url": "",
     "ebook_sizes": {
         "epub": "82 KB",
-        "pdf": "236 KB",
+        "pdf": "235 KB",
         "text_epub": "82 KB",
-        "text_pdf": "236 KB",
+        "text_pdf": "235 KB",
         "package_7z": "67 KB",
-        "epub_bytes": 84451,
-        "pdf_bytes": 241676,
-        "text_epub_bytes": 84450,
-        "text_pdf_bytes": 241676,
-        "package_7z_bytes": 68199
+        "epub_bytes": 83733,
+        "pdf_bytes": 240591,
+        "text_epub_bytes": 83731,
+        "text_pdf_bytes": 240591,
+        "package_7z_bytes": 68198
     },
     "illustration_count": 0,
     "word_stats": {
-        "story_word_count": 32393,
+        "story_word_count": 32378,
         "lore_word_count": 9968,
-        "combined_word_count": 42361,
+        "combined_word_count": 42346,
         "story_page_count": 118,
         "combined_page_count": 154,
         "reading_hours": 2.2,
@@ -45,7 +45,7 @@
             "era_title": "Book 1: The Ascent",
             "era_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent",
             "illustration_count": 0,
-            "word_count": 22868,
+            "word_count": 22853,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -73,14 +73,14 @@
                     "chap_title": "Chapter 2: The Routine \u2013 Wednesday, February 10, 2021",
                     "chap_url": "/raggiesoft-books/books/ashley-tower/book-1-the-ascent/chapter-2-the-routine-wednesday-february-10-2021",
                     "illustration_count": 0,
-                    "word_count": 3335,
+                    "word_count": 3320,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Departure \u2013 7:00 AM & The Inventory \u2013 6:30 PM",
                             "file_path": "e001/c002/p001.md",
                             "url": "/ashley-tower/book-1-the-ascent/chapter-2-the-routine-wednesday-february-10-2021/the-departure-7-00-am-the-inventory-6-30-pm",
-                            "word_count": 3335,
+                            "word_count": 3320,
                             "reading_minutes": 14,
                             "date": "2021-02-10",
                             "start_time": "07:00",

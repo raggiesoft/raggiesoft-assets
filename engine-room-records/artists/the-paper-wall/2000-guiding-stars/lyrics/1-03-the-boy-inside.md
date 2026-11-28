@@ -1,22 +1,8 @@
-**LORE NOTE:**
-
-A fierce, protective power ballad from Olivia's perspective, seeing Leo's true brilliance beyond his disability.
+**LORE NOTE:** This track acts as Olivia's direct response to Leo, taking the form of a deeply emotional, piano-driven 80s power ballad. Sung from her perspective, the song is a fierce declaration of unconditional platonic love. It highlights her role as his protector and her ability to see his true, brilliant self, completely bypassing the physical limitations that the rest of the world fixates on.
 
 **LYRICS:**
 
-\# The Boy Inside
-
-
-
-\*\*LORE NOTE:\*\* This track acts as Olivia's direct response to Leo, taking the form of a deeply emotional, piano-driven 80s power ballad. Sung from her perspective, the song is a fierce declaration of unconditional platonic love. It highlights her role as his protector and her ability to see his true, brilliant self, completely bypassing the physical limitations that the rest of the world fixates on.
-
-
-
-\*\*LYRICS:\*\*
-
-
-
-\[Verse 1]
+[Verse 1]
 
 They saw a chair, they saw a screen
 
@@ -34,9 +20,7 @@ They saw the shell, I saw the pearl
 
 Alone against a noisy world
 
-
-
-\[Chorus]
+[Chorus]
 
 'Cause I don't see the boy they see
 
@@ -54,9 +38,7 @@ They'll never know, they'll never find
 
 The brilliant, beautiful boy inside
 
-
-
-\[Verse 2]
+[Verse 2]
 
 And when I'm with you in the night
 
@@ -74,9 +56,7 @@ Is built on trust, so pure and deep
 
 A solemn, silent vow to keep
 
-
-
-\[Chorus]
+[Chorus]
 
 'Cause I don't see the boy they see
 
@@ -93,4 +73,3 @@ A fortress that will never yield
 They'll never know, they'll never find
 
 The brilliant, beautiful boy inside
-

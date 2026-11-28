@@ -13,17 +13,17 @@
         "text_epub": "766 KB",
         "text_pdf": "2.2 MB",
         "package_7z": "549 KB",
-        "epub_bytes": 10537699,
-        "pdf_bytes": 12128206,
-        "text_epub_bytes": 784837,
-        "text_pdf_bytes": 2322074,
-        "package_7z_bytes": 561958
+        "epub_bytes": 10537704,
+        "pdf_bytes": 12128201,
+        "text_epub_bytes": 784847,
+        "text_pdf_bytes": 2322077,
+        "package_7z_bytes": 561910
     },
     "illustration_count": 3,
     "word_stats": {
-        "story_word_count": 331287,
+        "story_word_count": 331284,
         "lore_word_count": 2310,
-        "combined_word_count": 333597,
+        "combined_word_count": 333594,
         "story_page_count": 1205,
         "combined_page_count": 1213,
         "reading_hours": 22.1,
@@ -992,7 +992,7 @@
                             "date": "2002-09-28",
                             "start_time": "12:00",
                             "location": "Northwood High School, Virginia Beach, VA",
-                            "excerpt": "Olivia arrived, spotting Leo and heading over with her calculus textbook. \"Hey Leo! Sorry if I'm a few minutes late, that club meeting ran over. Ready to tackle Problem Set \\#7?\" Leo, who had Ms. Albright for\u2026"
+                            "excerpt": "Olivia arrived, spotting Leo and heading over with her calculus textbook. \"Hey Leo! Sorry if I'm a few minutes late, that club meeting ran over. Ready to tackle Problem Set #7?\" Leo, who had Ms. Albright for\u2026"
                         },
                         {
                             "part_num": 2,
@@ -2545,7 +2545,7 @@
             "era_title": "The Iron Point Transfer",
             "era_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer",
             "illustration_count": 0,
-            "word_count": 48411,
+            "word_count": 48408,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -2630,14 +2630,14 @@
                     "chap_title": "The Orange Army",
                     "chap_url": "/raggiesoft-books/books/luna-leo/the-iron-point-transfer/the-orange-army",
                     "illustration_count": 0,
-                    "word_count": 8076,
+                    "word_count": 8073,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "Part 1: The Orange Army & The Restoration",
                             "file_path": "e015/c003/p001.md",
                             "url": "/luna-leo/the-iron-point-transfer/the-orange-army/part-1-the-orange-army-the-restoration",
-                            "word_count": 3462,
+                            "word_count": 3459,
                             "reading_minutes": 14,
                             "date": "2004-09-18",
                             "start_time": "10:00",

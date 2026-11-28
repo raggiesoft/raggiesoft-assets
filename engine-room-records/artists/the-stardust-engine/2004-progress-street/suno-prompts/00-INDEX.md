@@ -14,17 +14,17 @@
 
 ## Quick Status Checklist (11 Tracks Total)
 
-- [ ] **Track 01:** `Progress Street: Where the Fire Began` $\rightarrow$ Save WAV as `progress-street-where-the-fire-began.wav`
-- [ ] **Track 02:** `Route 1: Midnight Headlights` $\rightarrow$ Save WAV as `route-1-midnight-headlights.wav`
+- [ ] **Track 01:** `Progress Street: Where the Fire Began` → Save WAV as `progress-street-where-the-fire-began.wav`
+- [ ] **Track 02:** `Route 1: Midnight Headlights` → Save WAV as `route-1-midnight-headlights.wav`
 - [x] **Track 03:** `Seconds Into Forever` (`2:32`) — **ALREADY IN `master-wav/studio/seconds-into-forever.wav`**
 - [x] **Track 04:** `Thunder in the Rain` (`4:34`) — **ALREADY IN `master-wav/studio/thunder-in-the-rain.wav`**
-- [ ] **Track 05:** `Upright & Amplifier` $\rightarrow$ Save WAV as `upright-and-amplifier.wav`
-- [ ] **Track 06:** `Saturday Night Lights: The Crucible` $\rightarrow$ Save WAV as `saturday-night-lights-the-crucible.wav`
-- [ ] **Track 07:** `Fifth Gear: The Architect's Shield` $\rightarrow$ Save WAV as `fifth-gear-the-architects-shield.wav`
+- [ ] **Track 05:** `Upright & Amplifier` → Save WAV as `upright-and-amplifier.wav`
+- [ ] **Track 06:** `Saturday Night Lights: The Crucible` → Save WAV as `saturday-night-lights-the-crucible.wav`
+- [ ] **Track 07:** `Fifth Gear: The Architect's Shield` → Save WAV as `fifth-gear-the-architects-shield.wav`
 - [x] **Track 08:** `Before the Distance` (`5:01`) — **ALREADY IN `master-wav/studio/before-the-distance.wav`**
-- [ ] **Track 09:** `Running on Redline` $\rightarrow$ Save WAV as `running-on-redline.wav`
-- [ ] **Track 10:** `Empty Arenas` *(Suno Cover of 1990 Early Demo)* $\rightarrow$ Save WAV as `empty-arenas.wav`
-- [ ] **Track 11:** `Last Bus Home: Lights Out on Progress Street` $\rightarrow$ Save WAV as `last-bus-home-lights-out-on-progress-street.wav`
+- [ ] **Track 09:** `Running on Redline` → Save WAV as `running-on-redline.wav`
+- [ ] **Track 10:** `Empty Arenas` *(Suno Cover of 1990 Early Demo)* → Save WAV as `empty-arenas.wav`
+- [ ] **Track 11:** `Last Bus Home: Lights Out on Progress Street` → Save WAV as `last-bus-home-lights-out-on-progress-street.wav`
 
 ---
 

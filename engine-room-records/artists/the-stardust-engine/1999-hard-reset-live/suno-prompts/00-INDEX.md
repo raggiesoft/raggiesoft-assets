@@ -60,37 +60,37 @@
 - [x] **Track 01 (*The Stardust Suite, Pt. I* — Mandatory Opener):** `The Stardust Engine` (`4:57`) — **ALREADY GENERATED (`1-01-the-stardust-engine.wav`)**
   * *Source Seed:* `master-wav/studio/the-stardust-engine.wav`
   * *Lore Note:* Opens the 1998–1999 tour by immediately righting the greatest wrong of 1990's *Live in Chicago*: Cassidy's analog synthesizer leitmotif is pushed right to the front of the arena PA, locking in at equal volume with Ryan's distorted guitar from his wheelchair at center stage.
-- [ ] **Track 02 (*The Stardust Suite, Pt. II*):** `Hard Reset` $\rightarrow$ Save WAV as `1-02-hard-reset.wav`
+- [ ] **Track 02 (*The Stardust Suite, Pt. II*):** `Hard Reset` → Save WAV as `1-02-hard-reset.wav`
   * *Source Seed:* `master-wav/studio/hard-reset.wav` (75% Cover)
   * *Lore Note:* Following the opening anthem, the band slams straight into Part II of *The Stardust Suite*—wiping the Apex slate clean in front of 18,000 screaming fans.
-- [ ] **Track 03 (*The Stardust Suite, Pt. III*):** `Brand New Scene` $\rightarrow$ Save WAV as `1-03-brand-new-scene.wav`
+- [ ] **Track 03 (*The Stardust Suite, Pt. III*):** `Brand New Scene` → Save WAV as `1-03-brand-new-scene.wav`
   * *Source Seed:* `master-wav/studio/brand-new-scene.wav` (75% Cover)
   * *Lore Note:* Completes the opening *Stardust Suite* trilogy (*"We are the cosmos! We are the fire!"*), setting the stage for the rest of the Freedom Era setlist.
-- [ ] **Track 04:** `Static` $\rightarrow$ Save WAV as `1-04-static.wav`
+- [ ] **Track 04:** `Static` → Save WAV as `1-04-static.wav`
   * *Source Seed:* `master-wav/studio/static.wav` (75% Cover)
   * *Lore Note:* Originally dubbed onto mail-order cassettes inside their freezing warehouse in 1995, *"I am the static! I am the noise!"* becomes a deafening 18,000-voice arena chant.
-- [ ] **Track 05:** `Not Your Doll` $\rightarrow$ Save WAV as `1-05-not-your-doll.wav`
+- [ ] **Track 05:** `Not Your Doll` → Save WAV as `1-05-not-your-doll.wav`
   * *Source Seed:* `master-wav/studio/not-your-doll.wav` (75% Cover)
   * *Lore Note:* Cassidy's fierce 1989 B-side rebellion against the "sweet Stardust" pop-idol box, finally unleashed with the full heavy rock teeth Apex suppressed.
-- [ ] **Track 06:** `The Fortress` $\rightarrow$ Save WAV as `1-06-the-fortress.wav`
+- [ ] **Track 06:** `The Fortress` → Save WAV as `1-06-the-fortress.wav`
   * *Source Seed:* `master-wav/studio/the-fortress.wav` (75% Cover)
   * *Lore Note:* Dedicated nightly from the stage to the grassroots "Ironheads" who funded the band's survival during the 1992–1995 Wilderness Years.
-- [ ] **Track 07:** `No Hidden Gravity` $\rightarrow$ Save WAV as `1-07-no-hidden-gravity.wav`
+- [ ] **Track 07:** `No Hidden Gravity` → Save WAV as `1-07-no-hidden-gravity.wav`
   * *Source Seed:* `master-wav/studio/no-hidden-gravity.wav` (75% Cover)
   * *Lore Note:* The booming 1996 *Ad Astra* B-side power ballad celebrating pure platonic/safe-person devotion (inspired by Nate & Maya in Norfolk), sung by Ryan and Cassidy as a direct refutation of the industry's forced romantic tropes.
-- [ ] **Track 08:** `Thunderhead` $\rightarrow$ Save WAV as `1-08-thunderhead.wav`
+- [ ] **Track 08:** `Thunderhead` → Save WAV as `1-08-thunderhead.wav`
   * *Source Seed:* `master-wav/studio/thunderhead.wav` (75% Cover)
   * *Lore Note:* Kicks off the second half of the concert with slow-stomping, 1970s-inspired heavy arena thunder (*"You muted the kick / You silenced the crash"*).
-- [ ] **Track 09:** `Redline` $\rightarrow$ Save WAV as `1-09-redline.wav`
+- [ ] **Track 09:** `Redline` → Save WAV as `1-09-redline.wav`
   * *Source Seed:* `master-wav/studio/redline.wav` (75% Cover)
   * *Lore Note:* Segues directly out of *Thunderhead* with the governors torn off—featuring an extended live duel between Ryan's guitar and Cassidy's synthesizer.
-- [ ] **Track 10:** `Moon 1: Tidal Lock` $\rightarrow$ Save WAV as `1-10-moon-1-tidal-lock.wav`
+- [ ] **Track 10:** `Moon 1: Tidal Lock` → Save WAV as `1-10-moon-1-tidal-lock.wav`
   * *Source Seed:* `master-wav/studio/moon-1-tidal-lock.wav` (75% Cover)
   * *Lore Note:* The arena lights dim to a deep planetarium starfield as Cassidy debuts the live iteration of **The Cosmic Tidal Lock Sound™**, bathing the crowd in zero-gravity analog synth pads.
-- [ ] **Track 11:** `Echoes in the Wire` $\rightarrow$ Save WAV as `1-11-echoes-in-the-wire.wav`
+- [ ] **Track 11:** `Echoes in the Wire` → Save WAV as `1-11-echoes-in-the-wire.wav`
   * *Source Seed:* `master-wav/studio/echoes-in-the-wire.wav` (75% Cover)
   * *Lore Note:* **The Emotional Heart of the Show.** Standing in the exact setlist slot where Apex once forced Cassidy to sing *"If You Walked Away"*, Ryan rolls his chair right beside Cassidy's keyboard riser so they can sing *"Echoes in the Wire"* shoulder-to-shoulder—celebrating survival, permanence, and family unity with zero fear.
-- [ ] **Track 12 (Mandatory Closer / Encore):** `Electric Color` $\rightarrow$ Save WAV as `1-12-electric-color.wav`
+- [ ] **Track 12 (Mandatory Closer / Encore):** `Electric Color` → Save WAV as `1-12-electric-color.wav`
   * *Source Seed:* `master-wav/studio/electric-color.wav` (75% Cover)
   * *Lore Note:* The mandatory closer. No longer a plastic corporate mandate, the band plays their 1987 #2 hit 10 BPM faster with roaring guitars, soaring analog synths, and total joy.
 

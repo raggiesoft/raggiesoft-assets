@@ -1,5 +1,5 @@
 ---
-name: Cassidy O\
+name: "Cassidy O'Connell"
 ---
 
 <script type="application/ld+json">

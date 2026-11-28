@@ -12,18 +12,18 @@
         "pdf": "1.7 MB",
         "text_epub": "656 KB",
         "text_pdf": "1.7 MB",
-        "package_7z": "452 KB",
-        "epub_bytes": 671779,
-        "pdf_bytes": 1800496,
-        "text_epub_bytes": 671779,
-        "text_pdf_bytes": 1800496,
-        "package_7z_bytes": 463281
+        "package_7z": "453 KB",
+        "epub_bytes": 671919,
+        "pdf_bytes": 1801062,
+        "text_epub_bytes": 671920,
+        "text_pdf_bytes": 1801062,
+        "package_7z_bytes": 463369
     },
     "illustration_count": 0,
     "word_stats": {
-        "story_word_count": 275128,
-        "lore_word_count": 30798,
-        "combined_word_count": 305926,
+        "story_word_count": 275134,
+        "lore_word_count": 30789,
+        "combined_word_count": 305923,
         "story_page_count": 1000,
         "combined_page_count": 1112,
         "reading_hours": 18.3,
@@ -229,14 +229,14 @@
             "era_title": "Fresh Meat",
             "era_url": "/raggiesoft-books/books/alex-chloe/fresh-meat",
             "illustration_count": 0,
-            "word_count": 34651,
+            "word_count": 34653,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Welcome to High School",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/fresh-meat/welcome-to-high-school",
                     "illustration_count": 0,
-                    "word_count": 18648,
+                    "word_count": 18650,
                     "parts": [
                         {
                             "part_num": 1,
@@ -272,10 +272,10 @@
                         },
                         {
                             "part_num": 4,
-                            "part_title": "Part 4: A Different Kind of \\ & A Quiet Understanding",
+                            "part_title": "Part 4: A Different Kind of 'The Talk' & A Quiet Understanding",
                             "file_path": "e003/c001/p004.md",
-                            "url": "/alex-chloe/fresh-meat/welcome-to-high-school/part-4-a-different-kind-of-a-quiet-understanding",
-                            "word_count": 2576,
+                            "url": "/alex-chloe/fresh-meat/welcome-to-high-school/part-4-a-different-kind-of-the-talk-a-quiet-understanding",
+                            "word_count": 2578,
                             "reading_minutes": 11,
                             "location": "Unknown",
                             "excerpt": "The first week of freshman year at Northwood High had been a whirlwind for Alex Miller and Chlo\u00e9 Mason. By Saturday morning of that first weekend after school started, it was undeniable to all four parents \u2013\u2026"
@@ -628,9 +628,9 @@
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The \\",
+                            "part_title": "The 'What's Next?' Meeting",
                             "file_path": "e006/c003/p001.md",
-                            "url": "/alex-chloe/seniors-rule-the-school/the-fork-in-the-road/the",
+                            "url": "/alex-chloe/seniors-rule-the-school/the-fork-in-the-road/the-what-s-next-meeting",
                             "word_count": 831,
                             "reading_minutes": 4,
                             "location": "Unknown",
@@ -749,7 +749,7 @@
             "era_title": "Separate Coast, Separate Lives",
             "era_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives",
             "illustration_count": 0,
-            "word_count": 59994,
+            "word_count": 59998,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -814,14 +814,14 @@
                     "chap_title": "Lingering Connections, Looming Threats",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/lingering-connections-looming-threats",
                     "illustration_count": 0,
-                    "word_count": 3609,
+                    "word_count": 3611,
                     "parts": [
                         {
                             "part_num": 1,
                             "part_title": "The Video Call Interruption & A Secret Rebellion",
                             "file_path": "e008/c003/p001.md",
                             "url": "/alex-chloe/separate-coast-separate-lives/lingering-connections-looming-threats/the-video-call-interruption-a-secret-rebellion",
-                            "word_count": 3609,
+                            "word_count": 3611,
                             "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The late afternoon sun of Fall 2003 cast long shadows across Lisa Court as Vera\u2019s Holt Automotive sedan pulled up in front of the Miller house. This was it \u2013 her first visit to Alex\u2019s home. Emily Miller opened\u2026"
@@ -1027,7 +1027,7 @@
                     "chap_title": "Winter Break Decisions",
                     "chap_url": "/raggiesoft-books/books/alex-chloe/separate-coast-separate-lives/winter-break-decisions",
                     "illustration_count": 0,
-                    "word_count": 10399,
+                    "word_count": 10401,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1051,10 +1051,10 @@
                         },
                         {
                             "part_num": 3,
-                            "part_title": "Part 3: A Quiet \\ & A Shared Secret",
+                            "part_title": "Part 3: A Quiet 'I Do' & A Shared Secret",
                             "file_path": "e008/c010/p003.md",
-                            "url": "/alex-chloe/separate-coast-separate-lives/winter-break-decisions/part-3-a-quiet-a-shared-secret",
-                            "word_count": 3511,
+                            "url": "/alex-chloe/separate-coast-separate-lives/winter-break-decisions/part-3-a-quiet-i-do-a-shared-secret",
+                            "word_count": 3513,
                             "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The first week of the new year in Virginia was a period of intense, focused planning. After the trauma of Kent and the quiet healing of the holidays, the path forward for Alex and Chlo\u00e9 was clear. Their new\u2026"

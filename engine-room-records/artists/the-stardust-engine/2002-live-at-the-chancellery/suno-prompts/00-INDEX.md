@@ -57,20 +57,20 @@
 
 ## II. Proposed 14-Track Setlist & Suno v6 75% Cover Checklist
 
-- [ ] **Track 01:** `The Stardust Engine` *(Mandatory Concert Opener — Cover of `master-wav/studio/the-stardust-engine.wav` at 75% Audio Influence)* $\rightarrow$ `1-01-the-stardust-engine.wav`
-- [ ] **Track 02:** `Neon Pulse` *(From 2001's Midnight Drivers — Cover of `master-wav/studio/neon-pulse.wav`)* $\rightarrow$ `1-02-neon-pulse.wav`
-- [ ] **Track 03:** `Midnight Drivers` *(Title track of the 2001–2002 tour cycle — Cover of `master-wav/studio/midnight-drivers.wav`)* $\rightarrow$ `1-03-midnight-drivers.wav`
-- [ ] **Track 04:** `Hard Reset` *(Cover of `master-wav/studio/hard-reset.wav`)* $\rightarrow$ `1-04-hard-reset.wav`
-- [ ] **Track 05:** `Static` *(Cover of `master-wav/studio/static.wav`)* $\rightarrow$ `1-05-static.wav`
-- [ ] **Track 06:** `Not Your Doll` *(Cassidy's defiant anti-Apex anthem — Cover of `master-wav/studio/not-your-doll.wav`)* $\rightarrow$ `1-06-not-your-doll.wav`
-- [ ] **Track 07:** `Moon 1: Tidal Lock` *(Cassidy's Cosmic Tidal Lock showcase — Cover of `master-wav/studio/moon-1-tidal-lock.wav`)* $\rightarrow$ `1-07-moon-1-tidal-lock.wav`
-- [ ] **Track 08:** `Echoes in the Wire` *(Replaces the permanently banned "If You Walked Away" — Cover of `master-wav/studio/echoes-in-the-wire.wav`)* $\rightarrow$ `1-08-echoes-in-the-wire.wav`
-- [ ] **Track 09:** `No Hidden Gravity` *(Cover of `master-wav/studio/no-hidden-gravity.wav`)* $\rightarrow$ `1-09-no-hidden-gravity.wav`
-- [ ] **Track 10:** `Thunderhead` *(Cover of `master-wav/studio/thunderhead.wav`)* $\rightarrow$ `1-10-thunderhead.wav`
-- [ ] **Track 11:** `My Anchor: The Sail` *(Cover of `master-wav/studio/my-anchor-the-sail.wav`)* $\rightarrow$ `1-11-my-anchor-the-sail.wav`
-- [ ] **Track 12:** `Brand New Scene` *(Cover of `master-wav/studio/brand-new-scene.wav`)* $\rightarrow$ `1-12-brand-new-scene.wav`
-- [ ] **Track 13 (False Ending):** `Electric Color` *(False Ending prior to the Special Encore — Cover of `master-wav/studio/electric-color.wav`)* $\rightarrow$ `1-13-electric-color.wav`
-- [x] **Track 14 (True Finale / Special Encore):** `The Flight Path` *(**DOWNLOADED IN `ai-staging/suno-music-drop/` [`6:23.44`]**)* $\rightarrow$ `1-14-the-flight-path.wav`
+- [ ] **Track 01:** `The Stardust Engine` *(Mandatory Concert Opener — Cover of `master-wav/studio/the-stardust-engine.wav` at 75% Audio Influence)* → `1-01-the-stardust-engine.wav`
+- [ ] **Track 02:** `Neon Pulse` *(From 2001's Midnight Drivers — Cover of `master-wav/studio/neon-pulse.wav`)* → `1-02-neon-pulse.wav`
+- [ ] **Track 03:** `Midnight Drivers` *(Title track of the 2001–2002 tour cycle — Cover of `master-wav/studio/midnight-drivers.wav`)* → `1-03-midnight-drivers.wav`
+- [ ] **Track 04:** `Hard Reset` *(Cover of `master-wav/studio/hard-reset.wav`)* → `1-04-hard-reset.wav`
+- [ ] **Track 05:** `Static` *(Cover of `master-wav/studio/static.wav`)* → `1-05-static.wav`
+- [ ] **Track 06:** `Not Your Doll` *(Cassidy's defiant anti-Apex anthem — Cover of `master-wav/studio/not-your-doll.wav`)* → `1-06-not-your-doll.wav`
+- [ ] **Track 07:** `Moon 1: Tidal Lock` *(Cassidy's Cosmic Tidal Lock showcase — Cover of `master-wav/studio/moon-1-tidal-lock.wav`)* → `1-07-moon-1-tidal-lock.wav`
+- [ ] **Track 08:** `Echoes in the Wire` *(Replaces the permanently banned "If You Walked Away" — Cover of `master-wav/studio/echoes-in-the-wire.wav`)* → `1-08-echoes-in-the-wire.wav`
+- [ ] **Track 09:** `No Hidden Gravity` *(Cover of `master-wav/studio/no-hidden-gravity.wav`)* → `1-09-no-hidden-gravity.wav`
+- [ ] **Track 10:** `Thunderhead` *(Cover of `master-wav/studio/thunderhead.wav`)* → `1-10-thunderhead.wav`
+- [ ] **Track 11:** `My Anchor: The Sail` *(Cover of `master-wav/studio/my-anchor-the-sail.wav`)* → `1-11-my-anchor-the-sail.wav`
+- [ ] **Track 12:** `Brand New Scene` *(Cover of `master-wav/studio/brand-new-scene.wav`)* → `1-12-brand-new-scene.wav`
+- [ ] **Track 13 (False Ending):** `Electric Color` *(False Ending prior to the Special Encore — Cover of `master-wav/studio/electric-color.wav`)* → `1-13-electric-color.wav`
+- [x] **Track 14 (True Finale / Special Encore):** `The Flight Path` *(**DOWNLOADED IN `ai-staging/suno-music-drop/` [`6:23.44`]**)* → `1-14-the-flight-path.wav`
 
 ---
 

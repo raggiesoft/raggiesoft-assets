@@ -1,5 +1,5 @@
 ---
-name: Ryan O\
+name: "Ryan O'Connell"
 ---
 
 <script type="application/ld+json">

@@ -55,20 +55,20 @@
 
 ## II. Proposed 14-Track Setlist & Suno v6 75% Cover Checklist
 
-- [ ] **Track 01:** `The Stardust Engine` *(Mandatory Concert Opener — Cover of `master-wav/studio/the-stardust-engine.wav` at 75% Audio Influence)* $\rightarrow$ `1-01-the-stardust-engine.wav`
-- [ ] **Track 02:** `Neon Pulse` *(From 2001's Midnight Drivers — Cover of `master-wav/studio/neon-pulse.wav`)* $\rightarrow$ `1-02-neon-pulse.wav`
-- [ ] **Track 03:** `Midnight Drivers` *(Cover of `master-wav/studio/midnight-drivers.wav`)* $\rightarrow$ `1-03-midnight-drivers.wav`
-- [ ] **Track 04:** `Hard Reset` *(Cover of `master-wav/studio/hard-reset.wav`)* $\rightarrow$ `1-04-hard-reset.wav`
-- [ ] **Track 05:** `Garbage` *(Cover of `master-wav/studio/garbage.wav`)* $\rightarrow$ `1-05-garbage.wav`
-- [ ] **Track 06:** `The Fortress` *(Cover of `master-wav/studio/the-fortress.wav`)* $\rightarrow$ `1-06-the-fortress.wav`
-- [ ] **Track 07:** `Moon 1: Tidal Lock` *(Cover of `master-wav/studio/moon-1-tidal-lock.wav`)* $\rightarrow$ `1-07-moon-1-tidal-lock.wav`
-- [x] **Track 08 (Mid-Concert Mystery Debut):** `The Flight Path` *(**DOWNLOADED IN `ai-staging/suno-music-drop/` [`5:13.96`]** — Mid-concert unannounced placement designed to make concert-goers think it's just the new Stardust Engine song!)* $\rightarrow$ `1-08-the-flight-path.wav`
-- [ ] **Track 09:** `Echoes in the Wire` *(Replaces the permanently banned "If You Walked Away" — Cover of `master-wav/studio/echoes-in-the-wire.wav`)* $\rightarrow$ `1-09-echoes-in-the-wire.wav`
-- [ ] **Track 10:** `No Hidden Gravity` *(Hampton Roads / Ghent anthem — Cover of `master-wav/studio/no-hidden-gravity.wav`)* $\rightarrow$ `1-10-no-hidden-gravity.wav`
-- [ ] **Track 11:** `Redline` *(Cover of `master-wav/studio/redline.wav`)* $\rightarrow$ `1-11-redline.wav`
-- [ ] **Track 12:** `My Anchor: The Sail` *(Cover of `master-wav/studio/my-anchor-the-sail.wav`)* $\rightarrow$ `1-12-my-anchor-the-sail.wav`
-- [ ] **Track 13:** `Brand New Scene` *(Main-Set Closer — Cover of `master-wav/studio/brand-new-scene.wav`)* $\rightarrow$ `1-13-brand-new-scene.wav`
-- [ ] **Track 14 (Encore):** `Electric Color` *(Mandatory Concert Closer — Cover of `master-wav/studio/electric-color.wav`)* $\rightarrow$ `1-14-electric-color.wav`
+- [ ] **Track 01:** `The Stardust Engine` *(Mandatory Concert Opener — Cover of `master-wav/studio/the-stardust-engine.wav` at 75% Audio Influence)* → `1-01-the-stardust-engine.wav`
+- [ ] **Track 02:** `Neon Pulse` *(From 2001's Midnight Drivers — Cover of `master-wav/studio/neon-pulse.wav`)* → `1-02-neon-pulse.wav`
+- [ ] **Track 03:** `Midnight Drivers` *(Cover of `master-wav/studio/midnight-drivers.wav`)* → `1-03-midnight-drivers.wav`
+- [ ] **Track 04:** `Hard Reset` *(Cover of `master-wav/studio/hard-reset.wav`)* → `1-04-hard-reset.wav`
+- [ ] **Track 05:** `Garbage` *(Cover of `master-wav/studio/garbage.wav`)* → `1-05-garbage.wav`
+- [ ] **Track 06:** `The Fortress` *(Cover of `master-wav/studio/the-fortress.wav`)* → `1-06-the-fortress.wav`
+- [ ] **Track 07:** `Moon 1: Tidal Lock` *(Cover of `master-wav/studio/moon-1-tidal-lock.wav`)* → `1-07-moon-1-tidal-lock.wav`
+- [x] **Track 08 (Mid-Concert Mystery Debut):** `The Flight Path` *(**DOWNLOADED IN `ai-staging/suno-music-drop/` [`5:13.96`]** — Mid-concert unannounced placement designed to make concert-goers think it's just the new Stardust Engine song!)* → `1-08-the-flight-path.wav`
+- [ ] **Track 09:** `Echoes in the Wire` *(Replaces the permanently banned "If You Walked Away" — Cover of `master-wav/studio/echoes-in-the-wire.wav`)* → `1-09-echoes-in-the-wire.wav`
+- [ ] **Track 10:** `No Hidden Gravity` *(Hampton Roads / Ghent anthem — Cover of `master-wav/studio/no-hidden-gravity.wav`)* → `1-10-no-hidden-gravity.wav`
+- [ ] **Track 11:** `Redline` *(Cover of `master-wav/studio/redline.wav`)* → `1-11-redline.wav`
+- [ ] **Track 12:** `My Anchor: The Sail` *(Cover of `master-wav/studio/my-anchor-the-sail.wav`)* → `1-12-my-anchor-the-sail.wav`
+- [ ] **Track 13:** `Brand New Scene` *(Main-Set Closer — Cover of `master-wav/studio/brand-new-scene.wav`)* → `1-13-brand-new-scene.wav`
+- [ ] **Track 14 (Encore):** `Electric Color` *(Mandatory Concert Closer — Cover of `master-wav/studio/electric-color.wav`)* → `1-14-electric-color.wav`
 
 ---
 

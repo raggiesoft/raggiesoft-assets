@@ -13,17 +13,17 @@
         "text_epub": "444 KB",
         "text_pdf": "1.2 MB",
         "package_7z": "321 KB",
-        "epub_bytes": 454633,
-        "pdf_bytes": 1267260,
-        "text_epub_bytes": 454631,
-        "text_pdf_bytes": 1267260,
-        "package_7z_bytes": 328506
+        "epub_bytes": 454830,
+        "pdf_bytes": 1267657,
+        "text_epub_bytes": 454825,
+        "text_pdf_bytes": 1267657,
+        "package_7z_bytes": 328529
     },
     "illustration_count": 0,
     "word_stats": {
-        "story_word_count": 187252,
+        "story_word_count": 187261,
         "lore_word_count": 133,
-        "combined_word_count": 187385,
+        "combined_word_count": 187394,
         "story_page_count": 681,
         "combined_page_count": 681,
         "reading_hours": 12.5,
@@ -253,7 +253,7 @@
                             "url": "/nichole/freshman-year/the-smoke-test/the-area-of-rescue-the-return",
                             "word_count": 3137,
                             "reading_minutes": 13,
-                            "location": "Northwood High School, Second Floor Academic Wing (",
+                            "location": "Northwood High School, Second Floor Academic Wing (\"The Blue Mile\")",
                             "excerpt": "At 10:15 AM on April 12, 2002, in the spring of eleventh grade, the lesson on the Reconstruction Era was dragging. Mr. Henderson was midway through explaining the Compromise of 1877, his voice a steady drone\u2026"
                         }
                     ]
@@ -379,21 +379,21 @@
             "era_title": "College Tours",
             "era_url": "/raggiesoft-books/books/nichole/college-tours",
             "illustration_count": 0,
-            "word_count": 68525,
+            "word_count": 68528,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "The Misfit Tour",
                     "chap_url": "/raggiesoft-books/books/nichole/college-tours/the-misfit-tour",
                     "illustration_count": 0,
-                    "word_count": 3647,
+                    "word_count": 3650,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The \\ & The Commuter Special",
+                            "part_title": "The 'Free' Laptop Trap & The Commuter Special",
                             "file_path": "e006/c001/p001.md",
-                            "url": "/nichole/college-tours/the-misfit-tour/the-the-commuter-special",
-                            "word_count": 3647,
+                            "url": "/nichole/college-tours/the-misfit-tour/the-free-laptop-trap-the-commuter-special",
+                            "word_count": 3650,
                             "reading_minutes": 15,
                             "location": "Unknown",
                             "excerpt": "The spreadsheet on the Bennett family\u2019s kitchen table on Delaney Street was color-coded. Ellen had spent the last two weeks calling admissions offices, mapping out a tour schedule that would take them across the\u2026"
@@ -855,7 +855,7 @@
             "era_title": "Braxton Freshman",
             "era_url": "/raggiesoft-books/books/nichole/braxton-freshman",
             "illustration_count": 0,
-            "word_count": 36687,
+            "word_count": 36690,
             "chapters": [
                 {
                     "chap_num": 1,
@@ -998,7 +998,7 @@
                     "chap_title": "Nichole\u2019s Recovery",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-freshman/nichole-s-recovery",
                     "illustration_count": 0,
-                    "word_count": 7212,
+                    "word_count": 7215,
                     "parts": [
                         {
                             "part_num": 1,
@@ -1012,10 +1012,10 @@
                         },
                         {
                             "part_num": 2,
-                            "part_title": "Part 2: The \\ & The Night Shift",
+                            "part_title": "Part 2: The 'Stiff Leg' Transfer & The Night Shift",
                             "file_path": "e008/c005/p002.md",
-                            "url": "/nichole/braxton-freshman/nichole-s-recovery/part-2-the-the-night-shift",
-                            "word_count": 2392,
+                            "url": "/nichole/braxton-freshman/nichole-s-recovery/part-2-the-stiff-leg-transfer-the-night-shift",
+                            "word_count": 2395,
                             "reading_minutes": 10,
                             "location": "Unknown",
                             "excerpt": "The drive from the hospital had been tense. The wipers on the van were slapping away a mix of rain and heavy, wet snow. The temperature was dropping, and the roads were transitioning from \"wet\" to \"glazed.\" By\u2026"
@@ -1096,21 +1096,21 @@
             "era_title": "Braxton Senior Year",
             "era_url": "/raggiesoft-books/books/nichole/braxton-senior-year",
             "illustration_count": 0,
-            "word_count": 2026,
+            "word_count": 2029,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Graduation",
                     "chap_url": "/raggiesoft-books/books/nichole/braxton-senior-year/graduation",
                     "illustration_count": 0,
-                    "word_count": 2026,
+                    "word_count": 2029,
                     "parts": [
                         {
                             "part_num": 1,
-                            "part_title": "The Protocol Negotiation & The \\",
+                            "part_title": "The Protocol Negotiation & The 'Cool Suit' Modification",
                             "file_path": "e010/c001/p001.md",
-                            "url": "/nichole/braxton-senior-year/graduation/the-protocol-negotiation-the",
-                            "word_count": 2026,
+                            "url": "/nichole/braxton-senior-year/graduation/the-protocol-negotiation-the-cool-suit-modification",
+                            "word_count": 2029,
                             "reading_minutes": 9,
                             "location": "Unknown",
                             "excerpt": "Mrs. Gable, the Director of Commencement, was a woman who lived for clipboards and alphabetical order. She looked at the two students sitting across from her desk. \"I understand you have concerns,\" Mrs. Gable\u2026"
