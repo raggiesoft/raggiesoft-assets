@@ -4,13 +4,13 @@
             "id": "norfolk-pathfinder-terminal-2001",
             "trigger_part": "e001/c001/p009.md",
             "kicker": "Story Crossroads • Tuesday, August 21, 2001, 9:50 AM — 1961 Norfolk Pathfinder Terminal",
-            "title": "Inside the Monticello Locker Alcove: Does Nolan Reject Tammy or Believe Her Promise?",
+            "title": "Inside the Monticello Locker Alcove: Does Nolan Reject Tammy Now or Wait While She Buys Tickets?",
             "prompt": "Wheeled six feet behind the thick concrete column into the recessed steel coin-locker alcove leading to the 1961 Monticello Avenue terminal's separate Men's and Women's restrooms—shielded from concourse security by the lockers, Tammy's back, and her open baby-blue cardigan wings—twenty-three-year-old Nolan Lennox faces Tammy's ultimate trump card: a silent two-second flash beneath her braless shelf-bra camisole and a soft Week-One promise of zero yelling in Seattle plus a payphone call to Blue Tech in Richmond. Every option opens a complete, coequal story route returning Nolan home to Studio 205 and Mallory Walsh before Vaeloria.",
             "options": [
                 {
                     "id": "lock-wheelchair-brakes-emerald-creek",
-                    "label": "Reject Tammy's Promise & Roll Out Into the Concourse",
-                    "subtitle": "Realize peaceful, yell-free hugs with Gwen beat empty promises every time—rolling straight out from behind the lockers into plain view of thirty witnesses to lock your wheelchair brakes, end things for good, and ride three CVTA buses safely home to Emerald Creek.",
+                    "label": "Reject Tammy's Promise & Roll Out Before She Buys Tickets",
+                    "subtitle": "Realize peaceful, yell-free hugs with Gwen beat empty promises every time—rolling straight out from behind the lockers into plain view of thirty witnesses to lock your wheelchair brakes, break up for good, and ride straight home at zero charge in kind Norfolk cabbie Denise Carter's taxi.",
                     "source_type": "inline_continuation",
                     "entry_part": "e001/c001/p010.md",
                     "forbidden_terms": [
@@ -22,16 +22,54 @@
                     ]
                 },
                 {
+                    "id": "norfolk-ticket-counter",
+                    "label": "Believe Tammy's Promise While She Buys the Ninety-Nine-Dollar Tickets",
+                    "subtitle": "Take Tammy's velvet Week-One promise and Richmond payphone assurance at face value—waiting beside the lockers while she buys two walk-up cash tickets to Seattle and wheels you out to Gate Four, where the Richmond coach has no wheelchair lift.",
+                    "source_type": "paths_dir",
+                    "source_dir": "paths/norfolk-ticket-counter",
+                    "entry_part": "paths/norfolk-ticket-counter/e001/c001/p001.md",
+                    "forbidden_terms": [
+                        "The Admiral Center",
+                        "Puget Sound General Hospital",
+                        "Pasco Intermodal Terminal",
+                        "RCW 9A.44.050"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "norfolk-bay-four-boarding-2001",
+            "trigger_part": "paths/norfolk-ticket-counter/e001/c001/p001.md",
+            "kicker": "Story Crossroads • Tuesday, August 21, 2001, 9:56 AM — Gate Four, Norfolk Pathfinder Terminal",
+            "title": "Paid Tickets and Four Steep Steps: Does Tammy Snap or Keep Her Week-One Voice?",
+            "prompt": "With two freshly printed ninety-nine-dollar Seattle ticket folders in Tammy's hand, the Gate Four driver shakes his head at Nolan's manual wheelchair: nobody called corporate forty-eight hours ahead for a hydraulic lift, meaning Nolan's chair must ride folded in the luggage bay while he climbs four steep aluminum steps on his forearm crutches. If Tammy drops her sweet mask and snaps now, Nolan will refuse to board on the spot and go home; only if Tammy keeps every drop of her gentle Week-One voice will literal-minded Nolan trust her enough to climb aboard.",
+            "options": [
+                {
+                    "id": "ticket-snap-refuse-boarding",
+                    "label": "Tammy Snaps at Gate Four — Refuse to Board & Go Home",
+                    "subtitle": "The instant Tammy drops her sweet voice and barks at you in front of the boarding queue, wake up to the lie, roll straight back inside the waiting room to end things for good, and ride home free of charge in kind Norfolk cabbie Denise Carter's taxi—rejoining the mainline sequence.",
+                    "source_type": "paths_dir",
+                    "source_dir": "paths/ticket-snap-refuse-boarding",
+                    "entry_part": "paths/ticket-snap-refuse-boarding/e001/c001/p001.md",
+                    "rejoin_part": "e001/c001/p011.md",
+                    "forbidden_terms": [
+                        "Federal Trade Corps",
+                        "St. Louis Municipal Airport",
+                        "Pasco Intermodal Terminal",
+                        "Puget Sound General Hospital",
+                        "RCW 9A.44.050"
+                    ]
+                },
+                {
                     "id": "seattle-pathfinder-exodus",
-                    "label": "Believe Tammy's Promise & Board the Seattle Pathfinder",
-                    "subtitle": "Take Tammy's velvet Week-One promise and Richmond payphone assurance literally—watching the mask snap shut the instant she buys the ninety-nine-dollar tickets and makes you climb four steep coach steps on your forearm crutches while Shift Supervisor Mallory Walsh notices your first missed shift back at Blue Tech.",
+                    "label": "Tammy Keeps Her Sweet Week-One Voice — Board the Pathfinder",
+                    "subtitle": "Reassured by Tammy's warm, patient Week-One smile—promising to carry your footrests, call Blue Tech together in Richmond, and ask the Richmond desk for a lift coach—climb those four aluminum steps onto Gate Four before her mask drops a hundred miles up the highway.",
                     "source_type": "paths_dir",
                     "source_dir": "paths/seattle-pathfinder-exodus",
                     "entry_part": "paths/seattle-pathfinder-exodus/e001/c001/p001.md",
                     "forbidden_terms": [
+                        "Denise Carter",
                         "The Admiral Center",
-                        "retired chief",
-                        "teal hospital scrubs",
                         "Puget Sound General Hospital",
                         "Pasco Intermodal Terminal"
                     ]

@@ -10,32 +10,32 @@
     "ebook_sizes": {
         "epub": "12.8 MB",
         "pdf": "12.8 MB",
-        "text_epub": "178 KB",
+        "text_epub": "191 KB",
         "text_pdf": "453 KB",
-        "package_7z": "125 KB",
-        "epub_bytes": 13442925,
+        "package_7z": "",
+        "epub_bytes": 13456279,
         "pdf_bytes": 13465971,
-        "text_epub_bytes": 182731,
+        "text_epub_bytes": 195778,
         "text_pdf_bytes": 464353,
-        "package_7z_bytes": 127874
+        "package_7z_bytes": 0
     },
-    "illustration_count": 40,
+    "illustration_count": 41,
     "word_stats": {
-        "story_word_count": 61147,
-        "lore_word_count": 7733,
-        "combined_word_count": 68880,
-        "story_page_count": 222,
-        "combined_page_count": 250,
-        "reading_hours": 4.1,
-        "reading_minutes": 245,
+        "story_word_count": 63429,
+        "lore_word_count": 8856,
+        "combined_word_count": 72285,
+        "story_page_count": 231,
+        "combined_page_count": 263,
+        "reading_hours": 4.2,
+        "reading_minutes": 254,
         "novel_equivalent": 0.7,
         "scale_category": "Compact Novel",
         "scale_badge": "Compact Novel",
         "benchmark_note": "Compact single-volume trade paperback length (40,000\u201370,000 words)",
         "era_count": 1,
-        "chapter_count": 12,
-        "part_count": 41,
-        "illustration_count": 40,
+        "chapter_count": 14,
+        "part_count": 43,
+        "illustration_count": 41,
         "story_arc_count": 0
     },
     "story_arcs": [],
@@ -45,14 +45,14 @@
             "era_title": "Book One: Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
             "illustration_count": 15,
-            "word_count": 38854,
+            "word_count": 38674,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                     "illustration_count": 12,
-                    "word_count": 35004,
+                    "word_count": 34824,
                     "parts": [
                         {
                             "part_num": 1,
@@ -225,24 +225,27 @@
                         },
                         {
                             "part_num": 10,
-                            "part_title": "Part 10: Rolling Out Past the Lockers, Fellow Passengers, and Safe Home to Emerald Creek",
+                            "part_title": "Part 10: Rolling Out Past the Lockers, Denise's Turned-Off Meter, and Safe Home to Emerald Creek",
                             "file_path": "e001/c001/p010.md",
-                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-10-rolling-out-past-the-lockers-fellow-passengers-and-safe-home-to-emerald-creek",
-                            "word_count": 2866,
-                            "reading_minutes": 12,
+                            "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-10-rolling-out-past-the-lockers-denise-s-turned-off-meter-and-safe-home-to-emerald-creek",
+                            "word_count": 2686,
+                            "reading_minutes": 11,
                             "date": "2001-08-21",
                             "start_time": "09:51",
                             "location": "Norfolk Pathfinder Terminal on Monticello Avenue to Grandpa Walter's Porch & Emerald Creek Blue Tech, Virginia",
                             "excerpt": "Twice before inside Pinecrest Court, having Tammy lift her shirt and whisper in her Week-One voice had scrambled every circuit in my lonely head and pulled me straight back under her thumb. Sitting in my manual\u2026",
                             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
-                            "image_alt": "On the cozy covered front porch of Grandpa Walter's two-story brick-and-siding home near Emerald Creek Mall in Chesapeake on an overcast late-summer afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he breaks free from his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.",
+                            "image_alt": "On the cozy covered front porch of Grandpa Walter's two-story brick-and-siding home near Emerald Creek Mall in Chesapeake on an overcast late-summer morning, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after a kind Norfolk cab driver brings him straight home from the bus station at zero charge, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.",
                             "images": [
                                 {
                                     "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
-                                    "alt": "On the cozy covered front porch of Grandpa Walter's two-story brick-and-siding home near Emerald Creek Mall in Chesapeake on an overcast late-summer afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he breaks free from his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them."
+                                    "alt": "On the cozy covered front porch of Grandpa Walter's two-story brick-and-siding home near Emerald Creek Mall in Chesapeake on an overcast late-summer morning, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after a kind Norfolk cab driver brings him straight home from the bus station at zero charge, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 1,
+                            "backstage": [
+                                "books/waystation/the-turned-off-meter-denises-cab-from-monticello-avenue"
+                            ]
                         },
                         {
                             "part_num": 11,
@@ -474,36 +477,83 @@
             "trigger_part": "e001/c001/p009.md",
             "trigger_url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-9-route-13-forty-eight-hours-notice-and-the-locker-alcove-on-monticello",
             "kicker": "Story Crossroads \u2022 Tuesday, August 21, 2001, 9:50 AM \u2014 1961 Norfolk Pathfinder Terminal",
-            "title": "Inside the Monticello Locker Alcove: Does Nolan Reject Tammy or Believe Her Promise?",
+            "title": "Inside the Monticello Locker Alcove: Does Nolan Reject Tammy Now or Wait While She Buys Tickets?",
             "prompt": "Wheeled six feet behind the thick concrete column into the recessed steel coin-locker alcove leading to the 1961 Monticello Avenue terminal's separate Men's and Women's restrooms\u2014shielded from concourse security by the lockers, Tammy's back, and her open baby-blue cardigan wings\u2014twenty-three-year-old Nolan Lennox faces Tammy's ultimate trump card: a silent two-second flash beneath her braless shelf-bra camisole and a soft Week-One promise of zero yelling in Seattle plus a payphone call to Blue Tech in Richmond. Every option opens a complete, coequal story route returning Nolan home to Studio 205 and Mallory Walsh before Vaeloria.",
             "required_choices": [],
             "options": [
                 {
                     "id": "lock-wheelchair-brakes-emerald-creek",
                     "crossroads_id": "norfolk-pathfinder-terminal-2001",
-                    "label": "Reject Tammy's Promise & Roll Out Into the Concourse",
-                    "subtitle": "Realize peaceful, yell-free hugs with Gwen beat empty promises every time\u2014rolling straight out from behind the lockers into plain view of thirty witnesses to lock your wheelchair brakes, end things for good, and ride three CVTA buses safely home to Emerald Creek.",
+                    "label": "Reject Tammy's Promise & Roll Out Before She Buys Tickets",
+                    "subtitle": "Realize peaceful, yell-free hugs with Gwen beat empty promises every time\u2014rolling straight out from behind the lockers into plain view of thirty witnesses to lock your wheelchair brakes, break up for good, and ride straight home at zero charge in kind Norfolk cabbie Denise Carter's taxi.",
                     "entry_part": "e001/c001/p010.md",
-                    "entry_url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-10-rolling-out-past-the-lockers-fellow-passengers-and-safe-home-to-emerald-creek",
-                    "required_choices": [],
+                    "entry_url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-10-rolling-out-past-the-lockers-denise-s-turned-off-meter-and-safe-home-to-emerald-creek",
+                    "required_choices": {
+                        "norfolk-pathfinder-terminal-2001": "lock-wheelchair-brakes-emerald-creek"
+                    },
                     "part_count": 12,
-                    "word_count": 21021,
-                    "reading_minutes": 85,
+                    "word_count": 20841,
+                    "reading_minutes": 84,
                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg"
                 },
                 {
-                    "id": "seattle-pathfinder-exodus",
+                    "id": "norfolk-ticket-counter",
                     "crossroads_id": "norfolk-pathfinder-terminal-2001",
-                    "label": "Believe Tammy's Promise & Board the Seattle Pathfinder",
-                    "subtitle": "Take Tammy's velvet Week-One promise and Richmond payphone assurance literally\u2014watching the mask snap shut the instant she buys the ninety-nine-dollar tickets and makes you climb four steep coach steps on your forearm crutches while Shift Supervisor Mallory Walsh notices your first missed shift back at Blue Tech.",
-                    "entry_part": "paths/seattle-pathfinder-exodus/e001/c001/p001.md",
-                    "entry_url": "/waystation/paths/seattle-pathfinder-exodus/book-one-the-ninety-nine-dollar-pathfinder/chapter-1a-ninety-six-hours-westbound-and-missed-shift-number-one/part-1-ninety-nine-dollars-loose-legrests-overhead-and-crossing-bristol",
+                    "label": "Believe Tammy's Promise While She Buys the Ninety-Nine-Dollar Tickets",
+                    "subtitle": "Take Tammy's velvet Week-One promise and Richmond payphone assurance at face value\u2014waiting beside the lockers while she buys two walk-up cash tickets to Seattle and wheels you out to Gate Four, where the Richmond coach has no wheelchair lift.",
+                    "entry_part": "paths/norfolk-ticket-counter/e001/c001/p001.md",
+                    "entry_url": "/waystation/paths/norfolk-ticket-counter/book-one-ninety-nine-dollars-at-the-ticket-window/chapter-1a-two-ticket-folders-and-four-steep-steps-at-gate-four/two-ninety-nine-dollar-folders-and-no-lift-at-gate-four",
                     "required_choices": {
-                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
+                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter"
+                    },
+                    "part_count": 1,
+                    "word_count": 640,
+                    "reading_minutes": 3,
+                    "image": "/raggiesoft-books/images/covers/og/waystation.jpg"
+                }
+            ]
+        },
+        {
+            "id": "norfolk-bay-four-boarding-2001",
+            "trigger_part": "paths/norfolk-ticket-counter/e001/c001/p001.md",
+            "trigger_url": "/waystation/paths/norfolk-ticket-counter/book-one-ninety-nine-dollars-at-the-ticket-window/chapter-1a-two-ticket-folders-and-four-steep-steps-at-gate-four/two-ninety-nine-dollar-folders-and-no-lift-at-gate-four",
+            "kicker": "Story Crossroads \u2022 Tuesday, August 21, 2001, 9:56 AM \u2014 Gate Four, Norfolk Pathfinder Terminal",
+            "title": "Paid Tickets and Four Steep Steps: Does Tammy Snap or Keep Her Week-One Voice?",
+            "prompt": "With two freshly printed ninety-nine-dollar Seattle ticket folders in Tammy's hand, the Gate Four driver shakes his head at Nolan's manual wheelchair: nobody called corporate forty-eight hours ahead for a hydraulic lift, meaning Nolan's chair must ride folded in the luggage bay while he climbs four steep aluminum steps on his forearm crutches. If Tammy drops her sweet mask and snaps now, Nolan will refuse to board on the spot and go home; only if Tammy keeps every drop of her gentle Week-One voice will literal-minded Nolan trust her enough to climb aboard.",
+            "required_choices": {
+                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter"
+            },
+            "options": [
+                {
+                    "id": "ticket-snap-refuse-boarding",
+                    "crossroads_id": "norfolk-bay-four-boarding-2001",
+                    "label": "Tammy Snaps at Gate Four \u2014 Refuse to Board & Go Home",
+                    "subtitle": "The instant Tammy drops her sweet voice and barks at you in front of the boarding queue, wake up to the lie, roll straight back inside the waiting room to end things for good, and ride home free of charge in kind Norfolk cabbie Denise Carter's taxi\u2014rejoining the mainline sequence.",
+                    "entry_part": "paths/ticket-snap-refuse-boarding/e001/c001/p001.md",
+                    "entry_url": "/waystation/paths/ticket-snap-refuse-boarding/book-one-turning-around-at-gate-four/chapter-1b-dropped-mask-at-bay-four-and-denise-s-cab-home/snapping-at-gate-four-refusing-the-steps-and-denise-s-cab-home",
+                    "required_choices": {
+                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                        "norfolk-bay-four-boarding-2001": "ticket-snap-refuse-boarding"
+                    },
+                    "part_count": 1,
+                    "word_count": 1881,
+                    "reading_minutes": 8,
+                    "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg"
+                },
+                {
+                    "id": "seattle-pathfinder-exodus",
+                    "crossroads_id": "norfolk-bay-four-boarding-2001",
+                    "label": "Tammy Keeps Her Sweet Week-One Voice \u2014 Board the Pathfinder",
+                    "subtitle": "Reassured by Tammy's warm, patient Week-One smile\u2014promising to carry your footrests, call Blue Tech together in Richmond, and ask the Richmond desk for a lift coach\u2014climb those four aluminum steps onto Gate Four before her mask drops a hundred miles up the highway.",
+                    "entry_part": "paths/seattle-pathfinder-exodus/e001/c001/p001.md",
+                    "entry_url": "/waystation/paths/seattle-pathfinder-exodus/book-one-the-ninety-nine-dollar-pathfinder/chapter-1a-ninety-six-hours-westbound-and-missed-shift-number-one/part-1-sweet-voice-at-gate-four-dropped-mask-in-richmond-and-crossing-bristol",
+                    "required_choices": {
+                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus"
                     },
                     "part_count": 3,
-                    "word_count": 4769,
-                    "reading_minutes": 20,
+                    "word_count": 4719,
+                    "reading_minutes": 19,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg"
                 }
             ]
@@ -516,7 +566,8 @@
             "title": "Missed Shift Number One: Does Mallory Check on Nolan Tonight or Wait Until Friday?",
             "prompt": "As Nolan's Pathfinder coach rolls west past St. Louis after his loose overhead wheelchair legrests crash down onto Tammy's head, eight-oh-five clicks onto the Emerald Creek Blue Tech breakroom timeclock\u2014marking the first No-Call No-Show of Nolan's spotless two-year career. Quietly in love with Nolan yet bound both by respect for his relationship and by corporate HR's rule to wait until Friday's third missed shift, Computers Shift Supervisor Mallory Walsh stands beside her car four blocks from Grandpa Walter's house on Eden Way North. Both options return Nolan home to Studio 205 and Mallory before Vaeloria.",
             "required_choices": {
-                "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
+                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus"
             },
             "options": [
                 {
@@ -527,7 +578,8 @@
                     "entry_part": "paths/pasco-early-intercept/e001/c001/p001.md",
                     "entry_url": "/waystation/paths/pasco-early-intercept/book-one-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-1-eden-way-north-at-eight-eighteen-and-two-pre-dawn-tickets-west",
                     "required_choices": {
-                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
                     },
                     "part_count": 4,
@@ -543,11 +595,12 @@
                     "entry_part": "paths/seattle-full-exodus-rescue/e001/c001/p001.md",
                     "entry_url": "/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-1-bitter-wind-in-colby-us-287-and-breaking-skin-in-salt-lake",
                     "required_choices": {
-                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                     },
                     "part_count": 4,
-                    "word_count": 4544,
+                    "word_count": 4535,
                     "reading_minutes": 19,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg"
                 }
@@ -815,20 +868,394 @@
                 }
             ]
         },
+        "norfolk-ticket-counter": {
+            "id": "norfolk-ticket-counter",
+            "crossroads_id": "norfolk-pathfinder-terminal-2001",
+            "label": "Believe Tammy's Promise While She Buys the Ninety-Nine-Dollar Tickets",
+            "subtitle": "Take Tammy's velvet Week-One promise and Richmond payphone assurance at face value\u2014waiting beside the lockers while she buys two walk-up cash tickets to Seattle and wheels you out to Gate Four, where the Richmond coach has no wheelchair lift.",
+            "entry_part": "paths/norfolk-ticket-counter/e001/c001/p001.md",
+            "entry_url": "/waystation/paths/norfolk-ticket-counter/book-one-ninety-nine-dollars-at-the-ticket-window/chapter-1a-two-ticket-folders-and-four-steep-steps-at-gate-four/two-ninety-nine-dollar-folders-and-no-lift-at-gate-four",
+            "next_crossroads_id": "norfolk-bay-four-boarding-2001",
+            "required_choices": {
+                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter"
+            },
+            "part_count": 1,
+            "word_count": 640,
+            "reading_minutes": 3,
+            "image": "/raggiesoft-books/images/covers/og/waystation.jpg",
+            "eras": [
+                {
+                    "era_num": 1,
+                    "era_title": "Book One: Ninety-Nine Dollars at the Ticket Window",
+                    "era_url": "/raggiesoft-books/books/waystation/paths/norfolk-ticket-counter/book-one-ninety-nine-dollars-at-the-ticket-window",
+                    "illustration_count": 0,
+                    "word_count": 640,
+                    "chapters": [
+                        {
+                            "chap_num": 1,
+                            "chap_title": "Chapter 1A: Two Ticket Folders and Four Steep Steps at Gate Four",
+                            "chap_url": "/raggiesoft-books/books/waystation/paths/norfolk-ticket-counter/book-one-ninety-nine-dollars-at-the-ticket-window/chapter-1a-two-ticket-folders-and-four-steep-steps-at-gate-four",
+                            "illustration_count": 0,
+                            "word_count": 640,
+                            "parts": [
+                                {
+                                    "part_num": 1,
+                                    "part_title": "Two Ninety-Nine-Dollar Folders and No Lift at Gate Four",
+                                    "file_path": "paths/norfolk-ticket-counter/e001/c001/p001.md",
+                                    "url": "/waystation/paths/norfolk-ticket-counter/book-one-ninety-nine-dollars-at-the-ticket-window/chapter-1a-two-ticket-folders-and-four-steep-steps-at-gate-four/two-ninety-nine-dollar-folders-and-no-lift-at-gate-four",
+                                    "word_count": 640,
+                                    "reading_minutes": 3,
+                                    "path_id": "norfolk-ticket-counter",
+                                    "date": "2001-08-21",
+                                    "start_time": "09:51",
+                                    "location": "Ticket Window & Departure Bay Four, 1961 Norfolk Pathfinder Terminal on Monticello Avenue, Virginia",
+                                    "excerpt": "Just like back in September after four lonely nights upstairs at Grandpa's, and just like back in May right before June rent came due, those two silent seconds behind Tammy's open baby-blue cardigan wings\u2014paired\u2026",
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter"
+                                    }
+                                }
+                            ],
+                            "path_id": "norfolk-ticket-counter",
+                            "required_choices": {
+                                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter"
+                            }
+                        }
+                    ],
+                    "path_id": "norfolk-ticket-counter",
+                    "required_choices": {
+                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter"
+                    }
+                }
+            ]
+        },
+        "ticket-snap-refuse-boarding": {
+            "id": "ticket-snap-refuse-boarding",
+            "crossroads_id": "norfolk-bay-four-boarding-2001",
+            "label": "Tammy Snaps at Gate Four \u2014 Refuse to Board & Go Home",
+            "subtitle": "The instant Tammy drops her sweet voice and barks at you in front of the boarding queue, wake up to the lie, roll straight back inside the waiting room to end things for good, and ride home free of charge in kind Norfolk cabbie Denise Carter's taxi\u2014rejoining the mainline sequence.",
+            "entry_part": "paths/ticket-snap-refuse-boarding/e001/c001/p001.md",
+            "entry_url": "/waystation/paths/ticket-snap-refuse-boarding/book-one-turning-around-at-gate-four/chapter-1b-dropped-mask-at-bay-four-and-denise-s-cab-home/snapping-at-gate-four-refusing-the-steps-and-denise-s-cab-home",
+            "next_crossroads_id": "borderland-three-roads",
+            "required_choices": {
+                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                "norfolk-bay-four-boarding-2001": "ticket-snap-refuse-boarding"
+            },
+            "part_count": 1,
+            "word_count": 1881,
+            "reading_minutes": 8,
+            "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
+            "eras": [
+                {
+                    "era_num": 1,
+                    "era_title": "Book One: Turning Around at Gate Four",
+                    "era_url": "/raggiesoft-books/books/waystation/paths/ticket-snap-refuse-boarding/book-one-turning-around-at-gate-four",
+                    "illustration_count": 1,
+                    "word_count": 1881,
+                    "chapters": [
+                        {
+                            "chap_num": 1,
+                            "chap_title": "Chapter 1B: Dropped Mask at Bay Four and Denise's Cab Home",
+                            "chap_url": "/raggiesoft-books/books/waystation/paths/ticket-snap-refuse-boarding/book-one-turning-around-at-gate-four/chapter-1b-dropped-mask-at-bay-four-and-denise-s-cab-home",
+                            "illustration_count": 1,
+                            "word_count": 1881,
+                            "parts": [
+                                {
+                                    "part_num": 1,
+                                    "part_title": "Snapping at Gate Four, Refusing the Steps, and Denise's Cab Home",
+                                    "file_path": "paths/ticket-snap-refuse-boarding/e001/c001/p001.md",
+                                    "url": "/waystation/paths/ticket-snap-refuse-boarding/book-one-turning-around-at-gate-four/chapter-1b-dropped-mask-at-bay-four-and-denise-s-cab-home/snapping-at-gate-four-refusing-the-steps-and-denise-s-cab-home",
+                                    "word_count": 1881,
+                                    "reading_minutes": 8,
+                                    "path_id": "ticket-snap-refuse-boarding",
+                                    "date": "2001-08-21",
+                                    "start_time": "09:57",
+                                    "location": "Norfolk Pathfinder Terminal on Monticello Avenue to Grandpa Walter's Porch & Emerald Creek Blue Tech, Virginia",
+                                    "excerpt": "Now that two hundred dollars of cash had already crossed the plexiglass tray and two non-refundable Seattle ticket folders sat safely in her hand, Tammy figured the hook was set too deep for me to back out\u2014and\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
+                                    "image_alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches looking up at the steep stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy scowls impatiently down from the open curbside doorway holding Nolan's two detached metal wheelchair footrest assemblies and a weary gray-shirted driver watches beside the open underbelly luggage bay.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
+                                            "alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches looking up at the steep stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy scowls impatiently down from the open curbside doorway holding Nolan's two detached metal wheelchair footrest assemblies and a weary gray-shirted driver watches beside the open underbelly luggage bay."
+                                        }
+                                    ],
+                                    "image_count": 1,
+                                    "backstage": [
+                                        "books/waystation/the-turned-off-meter-denises-cab-from-monticello-avenue"
+                                    ],
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "ticket-snap-refuse-boarding"
+                                    }
+                                }
+                            ],
+                            "path_id": "ticket-snap-refuse-boarding",
+                            "required_choices": {
+                                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                "norfolk-bay-four-boarding-2001": "ticket-snap-refuse-boarding"
+                            }
+                        }
+                    ],
+                    "path_id": "ticket-snap-refuse-boarding",
+                    "required_choices": {
+                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                        "norfolk-bay-four-boarding-2001": "ticket-snap-refuse-boarding"
+                    }
+                },
+                {
+                    "era_num": 1,
+                    "era_title": "Book One: Beyond the Studio Rift",
+                    "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift#rejoin-ticket-snap-refuse-boarding",
+                    "illustration_count": 7,
+                    "word_count": 18155,
+                    "chapters": [
+                        {
+                            "chap_num": 1,
+                            "chap_title": "Chapter 1: Two Names on One Studio Lease",
+                            "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
+                            "illustration_count": 4,
+                            "word_count": 14305,
+                            "parts": [
+                                {
+                                    "part_num": 11,
+                                    "part_title": "Part 11: Seventy-Five Ohms, Fast-Busy Lines, and Eden Way North",
+                                    "file_path": "e001/c001/p011.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-11-seventy-five-ohms-fast-busy-lines-and-eden-way-north",
+                                    "word_count": 2070,
+                                    "reading_minutes": 9,
+                                    "date": "2001-09-11",
+                                    "start_time": "08:48",
+                                    "location": "Emerald Creek Blue Tech to Eden Way North & Merchants Way, Chesapeake, Virginia",
+                                    "excerpt": "Every blister pack of seventy-five-ohm coaxial splitters in Aisle Four hung flush with the front plastic lip of its peg hook under half-lit metal-halide ceiling lamps, ninety minutes into a quiet Tuesday morning\u2026"
+                                },
+                                {
+                                    "part_num": 12,
+                                    "part_title": "Part 12: Second-Block Latin, the German Classroom, and Holding On at Home",
+                                    "file_path": "e001/c001/p012.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-12-second-block-latin-the-german-classroom-and-holding-on-at-home",
+                                    "word_count": 2210,
+                                    "reading_minutes": 9,
+                                    "date": "2001-09-11",
+                                    "start_time": "08:55",
+                                    "location": "Emerald Creek High School to Eden Way North & Home, Chesapeake, Virginia",
+                                    "excerpt": "Right as the second-block tardy bell buzzed down the foreign-language wing of Emerald Creek High School, I propped both of my tall matte-charcoal Lofstrand forearm crutches neatly against the steel leg of my\u2026"
+                                },
+                                {
+                                    "part_num": 13,
+                                    "part_title": "Part 13: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals",
+                                    "file_path": "e001/c001/p013.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-13-eighteen-candles-always-there-for-big-brother-and-ten-raised-seals",
+                                    "word_count": 2125,
+                                    "reading_minutes": 9,
+                                    "date": "2001-10-19",
+                                    "start_time": "18:30",
+                                    "location": "Grandpa Walter's House Near Emerald Creek Mall, Chesapeake, Virginia",
+                                    "excerpt": "Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald\u2026"
+                                },
+                                {
+                                    "part_num": 14,
+                                    "part_title": "Part 14: Moving Into Studio 205 and Quantum OS 2000",
+                                    "file_path": "e001/c001/p014.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-14-moving-into-studio-205-and-quantum-os-2000",
+                                    "word_count": 1787,
+                                    "reading_minutes": 8,
+                                    "date": "2001-12-01",
+                                    "start_time": "16:15",
+                                    "location": "Studio 205, Harborview Towers off West Brambleton Avenue, Norfolk, Virginia",
+                                    "excerpt": "At midnight on November thirtieth\u2014after more than three straight months in which Tammy over at Pinecrest Court had stubbornly refused to sign the early roommate release, holding out past Thanksgiving convinced\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
+                                    "image_alt": "Inside tiny rectangular Studio 205 on the second floor of a 1965 Norfolk high-rise featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
+                                            "alt": "Inside tiny rectangular Studio 205 on the second floor of a 1965 Norfolk high-rise featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches."
+                                        }
+                                    ],
+                                    "image_count": 1
+                                },
+                                {
+                                    "part_num": 15,
+                                    "part_title": "Part 15: Clocking Out Together, One Car Ride Home, and Crimson Red Outside the Lobby",
+                                    "file_path": "e001/c001/p015.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-15-clocking-out-together-one-car-ride-home-and-crimson-red-outside-the-lobby",
+                                    "word_count": 2396,
+                                    "reading_minutes": 10,
+                                    "date": "2002-02-12",
+                                    "start_time": "19:45",
+                                    "location": "Studio 205 at Harborview Towers in Norfolk & Emerald Creek Blue Tech, Virginia",
+                                    "excerpt": "Freezing February sleet ticked hard against the silent window air-conditioner above our corner headboard while I wrapped both stiff, red-knuckled hands around a steaming mug of canned chicken broth to get the\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_crimson_red_harborview_lobby.jpg",
+                                    "image_alt": "Outside the glass-walled lobby entrance of Harborview Towers in Norfolk on an overcast March afternoon in 2002, eighteen-year-old Gwen Lennox (6-foot-1, burgundy knit sweater and jeans, seated in her manual wheelchair with her matte-charcoal single-tube Lofstrand forearm crutches stowed behind her backrest) warmly shakes hands with off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green jacket over cream sweater) on the red-brick walkway while twenty-three-year-old Nolan Lennox sits beside Mallory's silver compact car in his manual wheelchair (matte-silver single-tube Lofstrand crutches in the rear pocket) blushing visibly crimson red across his cheeks and ears.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_crimson_red_harborview_lobby.jpg",
+                                            "alt": "Outside the glass-walled lobby entrance of Harborview Towers in Norfolk on an overcast March afternoon in 2002, eighteen-year-old Gwen Lennox (6-foot-1, burgundy knit sweater and jeans, seated in her manual wheelchair with her matte-charcoal single-tube Lofstrand forearm crutches stowed behind her backrest) warmly shakes hands with off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green jacket over cream sweater) on the red-brick walkway while twenty-three-year-old Nolan Lennox sits beside Mallory's silver compact car in his manual wheelchair (matte-silver single-tube Lofstrand crutches in the rear pocket) blushing visibly crimson red across his cheeks and ears."
+                                        }
+                                    ],
+                                    "image_count": 1
+                                },
+                                {
+                                    "part_num": 16,
+                                    "part_title": "Part 16: Coming Back the Next Day, Hot Cocoa in Studio 205, and Zero Supervisor Pin",
+                                    "file_path": "e001/c001/p016.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-16-coming-back-the-next-day-hot-cocoa-in-studio-205-and-zero-supervisor-pin",
+                                    "word_count": 1192,
+                                    "reading_minutes": 5,
+                                    "date": "2002-03-02",
+                                    "start_time": "14:20",
+                                    "location": "Studio 205, Harborview Towers off West Brambleton Avenue, Norfolk, Virginia",
+                                    "excerpt": "Steady Saturday afternoon rain pattered against the window glass above our corner headboard when the downstairs lobby buzzer crackled on the wall beside our entry closet at twenty past two\u2014right on the exact\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_mallory_visits_studio_205.jpg",
+                                    "image_alt": "Inside tiny rectangular Studio 205 on a rainy Saturday afternoon in March 2002 in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_mallory_visits_studio_205.jpg",
+                                            "alt": "Inside tiny rectangular Studio 205 on a rainy Saturday afternoon in March 2002 in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser."
+                                        }
+                                    ],
+                                    "image_count": 1
+                                },
+                                {
+                                    "part_num": 17,
+                                    "part_title": "Part 17: Third-Floor Food Court, Laced Fingers, and Nothing Left to Weaponize",
+                                    "file_path": "e001/c001/p017.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-17-third-floor-food-court-laced-fingers-and-nothing-left-to-weaponize",
+                                    "word_count": 1697,
+                                    "reading_minutes": 7,
+                                    "date": "2002-06-01",
+                                    "start_time": "12:15",
+                                    "location": "Third-Floor Food Court, The Admiral Center, Downtown Norfolk, Virginia",
+                                    "excerpt": "Sunlight poured down through the vaulted third-floor glass skylights of The Admiral Center in Downtown Norfolk while Gwen tapped a crispy french fry against mine in a celebratory toast over our food-court trays\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p016_admiral_center_food_court_tammy.jpg",
+                                    "image_alt": "Beneath the bright vaulted glass skylights of the third-floor food court at The Admiral Center in Downtown Norfolk in June 2002, twenty-four-year-old Nolan Lennox (5-foot-7, navy collared shirt) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, sage-green top) sit side by side at a food-court table with Mallory's fingers laced firmly and protectively over Nolan's hand on the tabletop beside eighteen-year-old Gwen Lennox (6-foot-1, burgundy tee) seated calmly in her manual wheelchair, while petite five-foot-tall ex-girlfriend Tammy (glossy straight black hair, baby-blue cardigan over white tank, flared jeans, chunky platform sneakers) stands three feet back in stunned, speechless jealousy as her attempt to poison Mallory over Nolan and Gwen's shared studio completely backfires.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p016_admiral_center_food_court_tammy.jpg",
+                                            "alt": "Beneath the bright vaulted glass skylights of the third-floor food court at The Admiral Center in Downtown Norfolk in June 2002, twenty-four-year-old Nolan Lennox (5-foot-7, navy collared shirt) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, sage-green top) sit side by side at a food-court table with Mallory's fingers laced firmly and protectively over Nolan's hand on the tabletop beside eighteen-year-old Gwen Lennox (6-foot-1, burgundy tee) seated calmly in her manual wheelchair, while petite five-foot-tall ex-girlfriend Tammy (glossy straight black hair, baby-blue cardigan over white tank, flared jeans, chunky platform sneakers) stands three feet back in stunned, speechless jealousy as her attempt to poison Mallory over Nolan and Gwen's shared studio completely backfires."
+                                        }
+                                    ],
+                                    "image_count": 1,
+                                    "backstage": [
+                                        "books/waystation/the-admiral-center-escalator-blindspot-and-section-18-2-387"
+                                    ]
+                                },
+                                {
+                                    "part_num": 18,
+                                    "part_title": "Part 18: Eighty-Nine Degrees and One Rattling Fan",
+                                    "file_path": "e001/c001/p018.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-18-eighty-nine-degrees-and-one-rattling-fan",
+                                    "word_count": 828,
+                                    "reading_minutes": 4,
+                                    "date": "2002-08-17",
+                                    "start_time": "15:10",
+                                    "location": "Studio 205, Harborview Towers off West Brambleton Avenue, Norfolk, Virginia",
+                                    "excerpt": "By the third week of August, the small beige window air-conditioner wedged above the corner of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 205 two degrees below the\u2026"
+                                }
+                            ]
+                        },
+                        {
+                            "chap_num": 2,
+                            "chap_title": "Chapter 2: No Wheelchairs in the Star-Moss",
+                            "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss",
+                            "illustration_count": 2,
+                            "word_count": 2628,
+                            "parts": [
+                                {
+                                    "part_num": 1,
+                                    "part_title": "Part 1: Amber Glass Beside the Full-Sized Bed",
+                                    "file_path": "e001/c002/p001.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss/part-1-amber-glass-beside-the-full-sized-bed",
+                                    "word_count": 1624,
+                                    "reading_minutes": 7,
+                                    "realm_time": "First Night of the Twin Moons \u2014 Autumn 2002, Studio 205 to Western Vaeloria",
+                                    "start_time": "21:15",
+                                    "location": "Studio 205 at Harborview Towers in Norfolk to The Star-Moss Hollow, Vaeloria",
+                                    "excerpt": "October rain ticked steady against the silent window air-conditioner above our corner headboard while tinny hold music from Regional Mobility Supply warbled through the beige corded speakerphone on our\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg",
+                                    "image_alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) sit hugging and cuddling closely together under Grandpa Walter's green-and-navy plaid wool blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg",
+                                            "alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) sit hugging and cuddling closely together under Grandpa Walter's green-and-navy plaid wool blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them."
+                                        }
+                                    ],
+                                    "image_count": 1,
+                                    "backstage": [
+                                        "books/waystation/the-paused-vcr-clock-and-two-world-time"
+                                    ]
+                                },
+                                {
+                                    "part_num": 2,
+                                    "part_title": "Part 2: Six Inches Taller and Four Crutches Strong",
+                                    "file_path": "e001/c002/p002.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss/part-2-six-inches-taller-and-four-crutches-strong",
+                                    "word_count": 1004,
+                                    "reading_minutes": 5,
+                                    "realm_time": "Second Dawn of the Twin Moons, The Whispering Causeway",
+                                    "start_time": "07:40",
+                                    "location": "The Whispering Quartz Causeway, Borderland of Vaeloria",
+                                    "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made Studio 205 back in Norfolk feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz bridge\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
+                                    "image_alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wake curled up affectionately together on soft emerald moss under Grandpa Walter's green-and-navy plaid blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
+                                            "alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wake curled up affectionately together on soft emerald moss under Grandpa Walter's green-and-navy plaid blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach."
+                                        }
+                                    ],
+                                    "image_count": 1
+                                }
+                            ]
+                        },
+                        {
+                            "chap_num": 3,
+                            "chap_title": "Chapter 3: The Three Roads of the Sunken Milestone",
+                            "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone",
+                            "illustration_count": 1,
+                            "word_count": 1222,
+                            "parts": [
+                                {
+                                    "part_num": 1,
+                                    "part_title": "Where the Flagstones Divide",
+                                    "file_path": "e001/c003/p001.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone/where-the-flagstones-divide",
+                                    "word_count": 1222,
+                                    "reading_minutes": 5,
+                                    "realm_time": "Second Afternoon of the Twin Moons, The Sunken Milestone",
+                                    "start_time": "15:30",
+                                    "location": "The Sunken Three-Faced Milestone, Vaeloria Borderlands",
+                                    "excerpt": "The applewood smoke belonged to a round copper kettle bubbling on a folding iron brazier beside the cheerfulest wooden tinker's cart I had ever laid eyes on. Strings of blown-glass lanterns in cobalt, amber, and\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c002_p001_three_roads_milestone.jpg",
+                                    "image_alt": "In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a sapphire-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola diverge, barefoot nineteen-year-old Gwen Lennox (6-foot-1) wraps an arm affectionately around her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7) on a woven-rush cedar bench while they hold steaming mugs of spiced cider beside kindly white-whiskered peddler Bramwell Kettle and his lantern-hung cart, with all four of their silver and charcoal Lofstrand forearm crutches leaning cleanly beside them.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c002_p001_three_roads_milestone.jpg",
+                                            "alt": "In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a sapphire-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola diverge, barefoot nineteen-year-old Gwen Lennox (6-foot-1) wraps an arm affectionately around her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7) on a woven-rush cedar bench while they hold steaming mugs of spiced cider beside kindly white-whiskered peddler Bramwell Kettle and his lantern-hung cart, with all four of their silver and charcoal Lofstrand forearm crutches leaning cleanly beside them."
+                                        }
+                                    ],
+                                    "image_count": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "seattle-pathfinder-exodus": {
             "id": "seattle-pathfinder-exodus",
-            "crossroads_id": "norfolk-pathfinder-terminal-2001",
-            "label": "Believe Tammy's Promise & Board the Seattle Pathfinder",
-            "subtitle": "Take Tammy's velvet Week-One promise and Richmond payphone assurance literally\u2014watching the mask snap shut the instant she buys the ninety-nine-dollar tickets and makes you climb four steep coach steps on your forearm crutches while Shift Supervisor Mallory Walsh notices your first missed shift back at Blue Tech.",
+            "crossroads_id": "norfolk-bay-four-boarding-2001",
+            "label": "Tammy Keeps Her Sweet Week-One Voice \u2014 Board the Pathfinder",
+            "subtitle": "Reassured by Tammy's warm, patient Week-One smile\u2014promising to carry your footrests, call Blue Tech together in Richmond, and ask the Richmond desk for a lift coach\u2014climb those four aluminum steps onto Gate Four before her mask drops a hundred miles up the highway.",
             "entry_part": "paths/seattle-pathfinder-exodus/e001/c001/p001.md",
-            "entry_url": "/waystation/paths/seattle-pathfinder-exodus/book-one-the-ninety-nine-dollar-pathfinder/chapter-1a-ninety-six-hours-westbound-and-missed-shift-number-one/part-1-ninety-nine-dollars-loose-legrests-overhead-and-crossing-bristol",
+            "entry_url": "/waystation/paths/seattle-pathfinder-exodus/book-one-the-ninety-nine-dollar-pathfinder/chapter-1a-ninety-six-hours-westbound-and-missed-shift-number-one/part-1-sweet-voice-at-gate-four-dropped-mask-in-richmond-and-crossing-bristol",
             "next_crossroads_id": "blue-tech-missed-shift-alarm-2001",
             "required_choices": {
-                "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
+                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus"
             },
             "part_count": 3,
-            "word_count": 4769,
-            "reading_minutes": 20,
+            "word_count": 4719,
+            "reading_minutes": 19,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
             "eras": [
                 {
@@ -836,38 +1263,39 @@
                     "era_title": "Book One: The Ninety-Nine-Dollar Pathfinder",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-pathfinder-exodus/book-one-the-ninety-nine-dollar-pathfinder",
                     "illustration_count": 4,
-                    "word_count": 4769,
+                    "word_count": 4719,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1A: Ninety-Six Hours Westbound and Missed Shift Number One",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-pathfinder-exodus/book-one-the-ninety-nine-dollar-pathfinder/chapter-1a-ninety-six-hours-westbound-and-missed-shift-number-one",
                             "illustration_count": 4,
-                            "word_count": 4769,
+                            "word_count": 4719,
                             "parts": [
                                 {
                                     "part_num": 1,
-                                    "part_title": "Part 1: Ninety-Nine Dollars, Loose Legrests Overhead, and Crossing Bristol",
+                                    "part_title": "Part 1: Sweet Voice at Gate Four, Dropped Mask in Richmond, and Crossing Bristol",
                                     "file_path": "paths/seattle-pathfinder-exodus/e001/c001/p001.md",
-                                    "url": "/waystation/paths/seattle-pathfinder-exodus/book-one-the-ninety-nine-dollar-pathfinder/chapter-1a-ninety-six-hours-westbound-and-missed-shift-number-one/part-1-ninety-nine-dollars-loose-legrests-overhead-and-crossing-bristol",
-                                    "word_count": 1572,
+                                    "url": "/waystation/paths/seattle-pathfinder-exodus/book-one-the-ninety-nine-dollar-pathfinder/chapter-1a-ninety-six-hours-westbound-and-missed-shift-number-one/part-1-sweet-voice-at-gate-four-dropped-mask-in-richmond-and-crossing-bristol",
+                                    "word_count": 1522,
                                     "reading_minutes": 7,
                                     "path_id": "seattle-pathfinder-exodus",
                                     "date": "2001-08-21",
-                                    "start_time": "09:49",
-                                    "location": "Norfolk Pathfinder Terminal Across Virginia to Marion & Bristol, Virginia",
-                                    "excerpt": "Just like back in September after four lonely nights upstairs at Grandpa's, and just like back in May right before June rent came due, those two silent seconds behind Tammy's open baby-blue cardigan wings\u2014paired\u2026",
+                                    "start_time": "09:57",
+                                    "location": "Norfolk Pathfinder Terminal Across Virginia to Richmond, Marion & Bristol, Virginia",
+                                    "excerpt": "If Tammy had raised her voice or snapped at me right there on the Norfolk concrete\u2014even with two freshly printed Seattle ticket folders in her hand\u2014every alarm bell inside my head would have fired at once, and I\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
-                                    "image_alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches looking daunted at the steep stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy stands impatiently up inside the open curbside doorway holding Nolan's two detached metal wheelchair footrest assemblies and a weary gray-shirted driver watches beside the open underbelly luggage bay containing Nolan's folded manual wheelchair.",
+                                    "image_alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches at the stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy leans warmly forward in the doorway with her sweet Week-One smile holding Nolan's two detached metal wheelchair footrest assemblies so his hands stay free on the rail.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
-                                            "alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches looking daunted at the steep stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy stands impatiently up inside the open curbside doorway holding Nolan's two detached metal wheelchair footrest assemblies and a weary gray-shirted driver watches beside the open underbelly luggage bay containing Nolan's folded manual wheelchair."
+                                            "alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches at the stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy leans warmly forward in the doorway with her sweet Week-One smile holding Nolan's two detached metal wheelchair footrest assemblies so his hands stay free on the rail."
                                         }
                                     ],
                                     "image_count": 1,
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus"
                                     }
                                 },
                                 {
@@ -896,7 +1324,8 @@
                                     ],
                                     "image_count": 2,
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus"
                                     }
                                 },
                                 {
@@ -921,19 +1350,22 @@
                                     ],
                                     "image_count": 1,
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus"
                                     }
                                 }
                             ],
                             "path_id": "seattle-pathfinder-exodus",
                             "required_choices": {
-                                "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
+                                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus"
                             }
                         }
                     ],
                     "path_id": "seattle-pathfinder-exodus",
                     "required_choices": {
-                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
+                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus"
                     }
                 }
             ]
@@ -947,7 +1379,8 @@
             "entry_url": "/waystation/paths/pasco-early-intercept/book-one-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-1-eden-way-north-at-eight-eighteen-and-two-pre-dawn-tickets-west",
             "next_crossroads_id": "borderland-three-roads",
             "required_choices": {
-                "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                 "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
             },
             "part_count": 4,
@@ -991,7 +1424,8 @@
                                     ],
                                     "image_count": 1,
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
                                     }
                                 },
@@ -1017,7 +1451,8 @@
                                     ],
                                     "image_count": 1,
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
                                     }
                                 },
@@ -1050,7 +1485,8 @@
                                         "books/waystation/from-monticello-to-pasco-why-there-were-no-family-restrooms"
                                     ],
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
                                     }
                                 },
@@ -1076,21 +1512,24 @@
                                     ],
                                     "image_count": 1,
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
                                     }
                                 }
                             ],
                             "path_id": "pasco-early-intercept",
                             "required_choices": {
-                                "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                 "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
                             }
                         }
                     ],
                     "path_id": "pasco-early-intercept",
                     "required_choices": {
-                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
                     }
                 },
@@ -1198,11 +1637,12 @@
             "entry_url": "/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-1-bitter-wind-in-colby-us-287-and-breaking-skin-in-salt-lake",
             "next_crossroads_id": "borderland-three-roads",
             "required_choices": {
-                "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                 "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
             },
             "part_count": 4,
-            "word_count": 4544,
+            "word_count": 4535,
             "reading_minutes": 19,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
             "eras": [
@@ -1211,14 +1651,14 @@
                     "era_title": "Book One: Ninety-Six Hours to Puget Sound",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound",
                     "illustration_count": 4,
-                    "word_count": 4544,
+                    "word_count": 4535,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
                             "illustration_count": 4,
-                            "word_count": 4544,
+                            "word_count": 4535,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -1242,7 +1682,8 @@
                                     ],
                                     "image_count": 1,
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                                     }
                                 },
@@ -1251,7 +1692,7 @@
                                     "part_title": "Part 2: Fog in Pasco, Across the Cascades, and Abandoned in Seattle",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p002.md",
                                     "url": "/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-2-fog-in-pasco-across-the-cascades-and-abandoned-in-seattle",
-                                    "word_count": 815,
+                                    "word_count": 806,
                                     "reading_minutes": 4,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-08-25",
@@ -1271,7 +1712,8 @@
                                         "books/waystation/from-monticello-to-pasco-why-there-were-no-family-restrooms"
                                     ],
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                                     }
                                 },
@@ -1288,7 +1730,8 @@
                                     "location": "Sixth-Floor Surgical Wound Ward, Puget Sound General Hospital, Seattle, Washington",
                                     "excerpt": "At three minutes past six in the morning Pacific Time\u2014nine-oh-three back home in Chesapeake\u2014the muted nineteen-inch television bolted high on the plaster wall of my sixth-floor semiprivate room at Puget Sound\u2026",
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                                     }
                                 },
@@ -1318,21 +1761,24 @@
                                     ],
                                     "image_count": 2,
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                                     }
                                 }
                             ],
                             "path_id": "seattle-full-exodus-rescue",
                             "required_choices": {
-                                "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                 "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                             }
                         }
                     ],
                     "path_id": "seattle-full-exodus-rescue",
                     "required_choices": {
-                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                     }
                 },
@@ -1434,15 +1880,17 @@
         "lock-wheelchair-brakes-emerald-creek": {
             "id": "lock-wheelchair-brakes-emerald-creek",
             "crossroads_id": "norfolk-pathfinder-terminal-2001",
-            "label": "Reject Tammy's Promise & Roll Out Into the Concourse",
-            "subtitle": "Realize peaceful, yell-free hugs with Gwen beat empty promises every time\u2014rolling straight out from behind the lockers into plain view of thirty witnesses to lock your wheelchair brakes, end things for good, and ride three CVTA buses safely home to Emerald Creek.",
+            "label": "Reject Tammy's Promise & Roll Out Before She Buys Tickets",
+            "subtitle": "Realize peaceful, yell-free hugs with Gwen beat empty promises every time\u2014rolling straight out from behind the lockers into plain view of thirty witnesses to lock your wheelchair brakes, break up for good, and ride straight home at zero charge in kind Norfolk cabbie Denise Carter's taxi.",
             "entry_part": "e001/c001/p010.md",
-            "entry_url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-10-rolling-out-past-the-lockers-fellow-passengers-and-safe-home-to-emerald-creek",
+            "entry_url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-10-rolling-out-past-the-lockers-denise-s-turned-off-meter-and-safe-home-to-emerald-creek",
             "next_crossroads_id": "borderland-three-roads",
-            "required_choices": [],
+            "required_choices": {
+                "norfolk-pathfinder-terminal-2001": "lock-wheelchair-brakes-emerald-creek"
+            },
             "part_count": 12,
-            "word_count": 21021,
-            "reading_minutes": 85,
+            "word_count": 20841,
+            "reading_minutes": 84,
             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
             "eras": [
                 {
@@ -1450,36 +1898,42 @@
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
                     "illustration_count": 8,
-                    "word_count": 21021,
+                    "word_count": 20841,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                             "illustration_count": 5,
-                            "word_count": 17171,
+                            "word_count": 16991,
                             "parts": [
                                 {
                                     "part_num": 10,
-                                    "part_title": "Part 10: Rolling Out Past the Lockers, Fellow Passengers, and Safe Home to Emerald Creek",
+                                    "part_title": "Part 10: Rolling Out Past the Lockers, Denise's Turned-Off Meter, and Safe Home to Emerald Creek",
                                     "file_path": "e001/c001/p010.md",
-                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-10-rolling-out-past-the-lockers-fellow-passengers-and-safe-home-to-emerald-creek",
-                                    "word_count": 2866,
-                                    "reading_minutes": 12,
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-10-rolling-out-past-the-lockers-denise-s-turned-off-meter-and-safe-home-to-emerald-creek",
+                                    "word_count": 2686,
+                                    "reading_minutes": 11,
                                     "date": "2001-08-21",
                                     "start_time": "09:51",
                                     "location": "Norfolk Pathfinder Terminal on Monticello Avenue to Grandpa Walter's Porch & Emerald Creek Blue Tech, Virginia",
                                     "excerpt": "Twice before inside Pinecrest Court, having Tammy lift her shirt and whisper in her Week-One voice had scrambled every circuit in my lonely head and pulled me straight back under her thumb. Sitting in my manual\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
-                                    "image_alt": "On the cozy covered front porch of Grandpa Walter's two-story brick-and-siding home near Emerald Creek Mall in Chesapeake on an overcast late-summer afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he breaks free from his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.",
+                                    "image_alt": "On the cozy covered front porch of Grandpa Walter's two-story brick-and-siding home near Emerald Creek Mall in Chesapeake on an overcast late-summer morning, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after a kind Norfolk cab driver brings him straight home from the bus station at zero charge, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
-                                            "alt": "On the cozy covered front porch of Grandpa Walter's two-story brick-and-siding home near Emerald Creek Mall in Chesapeake on an overcast late-summer afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he breaks free from his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them."
+                                            "alt": "On the cozy covered front porch of Grandpa Walter's two-story brick-and-siding home near Emerald Creek Mall in Chesapeake on an overcast late-summer morning, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after a kind Norfolk cab driver brings him straight home from the bus station at zero charge, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them."
                                         }
                                     ],
                                     "image_count": 1,
-                                    "path_id": "lock-wheelchair-brakes-emerald-creek"
+                                    "backstage": [
+                                        "books/waystation/the-turned-off-meter-denises-cab-from-monticello-avenue"
+                                    ],
+                                    "path_id": "lock-wheelchair-brakes-emerald-creek",
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "lock-wheelchair-brakes-emerald-creek"
+                                    }
                                 },
                                 {
                                     "part_num": 11,
@@ -1491,8 +1945,7 @@
                                     "date": "2001-09-11",
                                     "start_time": "08:48",
                                     "location": "Emerald Creek Blue Tech to Eden Way North & Merchants Way, Chesapeake, Virginia",
-                                    "excerpt": "Every blister pack of seventy-five-ohm coaxial splitters in Aisle Four hung flush with the front plastic lip of its peg hook under half-lit metal-halide ceiling lamps, ninety minutes into a quiet Tuesday morning\u2026",
-                                    "path_id": "lock-wheelchair-brakes-emerald-creek"
+                                    "excerpt": "Every blister pack of seventy-five-ohm coaxial splitters in Aisle Four hung flush with the front plastic lip of its peg hook under half-lit metal-halide ceiling lamps, ninety minutes into a quiet Tuesday morning\u2026"
                                 },
                                 {
                                     "part_num": 12,
@@ -1504,8 +1957,7 @@
                                     "date": "2001-09-11",
                                     "start_time": "08:55",
                                     "location": "Emerald Creek High School to Eden Way North & Home, Chesapeake, Virginia",
-                                    "excerpt": "Right as the second-block tardy bell buzzed down the foreign-language wing of Emerald Creek High School, I propped both of my tall matte-charcoal Lofstrand forearm crutches neatly against the steel leg of my\u2026",
-                                    "path_id": "lock-wheelchair-brakes-emerald-creek"
+                                    "excerpt": "Right as the second-block tardy bell buzzed down the foreign-language wing of Emerald Creek High School, I propped both of my tall matte-charcoal Lofstrand forearm crutches neatly against the steel leg of my\u2026"
                                 },
                                 {
                                     "part_num": 13,
@@ -1517,8 +1969,7 @@
                                     "date": "2001-10-19",
                                     "start_time": "18:30",
                                     "location": "Grandpa Walter's House Near Emerald Creek Mall, Chesapeake, Virginia",
-                                    "excerpt": "Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald\u2026",
-                                    "path_id": "lock-wheelchair-brakes-emerald-creek"
+                                    "excerpt": "Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald\u2026"
                                 },
                                 {
                                     "part_num": 14,
@@ -1539,8 +1990,7 @@
                                             "alt": "Inside tiny rectangular Studio 205 on the second floor of a 1965 Norfolk high-rise featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches."
                                         }
                                     ],
-                                    "image_count": 1,
-                                    "path_id": "lock-wheelchair-brakes-emerald-creek"
+                                    "image_count": 1
                                 },
                                 {
                                     "part_num": 15,
@@ -1561,8 +2011,7 @@
                                             "alt": "Outside the glass-walled lobby entrance of Harborview Towers in Norfolk on an overcast March afternoon in 2002, eighteen-year-old Gwen Lennox (6-foot-1, burgundy knit sweater and jeans, seated in her manual wheelchair with her matte-charcoal single-tube Lofstrand forearm crutches stowed behind her backrest) warmly shakes hands with off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green jacket over cream sweater) on the red-brick walkway while twenty-three-year-old Nolan Lennox sits beside Mallory's silver compact car in his manual wheelchair (matte-silver single-tube Lofstrand crutches in the rear pocket) blushing visibly crimson red across his cheeks and ears."
                                         }
                                     ],
-                                    "image_count": 1,
-                                    "path_id": "lock-wheelchair-brakes-emerald-creek"
+                                    "image_count": 1
                                 },
                                 {
                                     "part_num": 16,
@@ -1583,8 +2032,7 @@
                                             "alt": "Inside tiny rectangular Studio 205 on a rainy Saturday afternoon in March 2002 in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser."
                                         }
                                     ],
-                                    "image_count": 1,
-                                    "path_id": "lock-wheelchair-brakes-emerald-creek"
+                                    "image_count": 1
                                 },
                                 {
                                     "part_num": 17,
@@ -1608,8 +2056,7 @@
                                     "image_count": 1,
                                     "backstage": [
                                         "books/waystation/the-admiral-center-escalator-blindspot-and-section-18-2-387"
-                                    ],
-                                    "path_id": "lock-wheelchair-brakes-emerald-creek"
+                                    ]
                                 },
                                 {
                                     "part_num": 18,
@@ -1621,12 +2068,13 @@
                                     "date": "2002-08-17",
                                     "start_time": "15:10",
                                     "location": "Studio 205, Harborview Towers off West Brambleton Avenue, Norfolk, Virginia",
-                                    "excerpt": "By the third week of August, the small beige window air-conditioner wedged above the corner of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 205 two degrees below the\u2026",
-                                    "path_id": "lock-wheelchair-brakes-emerald-creek"
+                                    "excerpt": "By the third week of August, the small beige window air-conditioner wedged above the corner of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 205 two degrees below the\u2026"
                                 }
                             ],
                             "path_id": "lock-wheelchair-brakes-emerald-creek",
-                            "required_choices": []
+                            "required_choices": {
+                                "norfolk-pathfinder-terminal-2001": "lock-wheelchair-brakes-emerald-creek"
+                            }
                         },
                         {
                             "chap_num": 2,
@@ -1714,7 +2162,9 @@
                         }
                     ],
                     "path_id": "lock-wheelchair-brakes-emerald-creek",
-                    "required_choices": []
+                    "required_choices": {
+                        "norfolk-pathfinder-terminal-2001": "lock-wheelchair-brakes-emerald-creek"
+                    }
                 }
             ]
         },
@@ -2326,20 +2776,394 @@
         }
     ],
     "paths": {
+        "norfolk-ticket-counter": {
+            "id": "norfolk-ticket-counter",
+            "crossroads_id": "norfolk-pathfinder-terminal-2001",
+            "label": "Believe Tammy's Promise While She Buys the Ninety-Nine-Dollar Tickets",
+            "subtitle": "Take Tammy's velvet Week-One promise and Richmond payphone assurance at face value\u2014waiting beside the lockers while she buys two walk-up cash tickets to Seattle and wheels you out to Gate Four, where the Richmond coach has no wheelchair lift.",
+            "entry_part": "paths/norfolk-ticket-counter/e001/c001/p001.md",
+            "entry_url": "/waystation/paths/norfolk-ticket-counter/book-one-ninety-nine-dollars-at-the-ticket-window/chapter-1a-two-ticket-folders-and-four-steep-steps-at-gate-four/two-ninety-nine-dollar-folders-and-no-lift-at-gate-four",
+            "next_crossroads_id": "norfolk-bay-four-boarding-2001",
+            "required_choices": {
+                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter"
+            },
+            "part_count": 1,
+            "word_count": 640,
+            "reading_minutes": 3,
+            "image": "/raggiesoft-books/images/covers/og/waystation.jpg",
+            "eras": [
+                {
+                    "era_num": 1,
+                    "era_title": "Book One: Ninety-Nine Dollars at the Ticket Window",
+                    "era_url": "/raggiesoft-books/books/waystation/paths/norfolk-ticket-counter/book-one-ninety-nine-dollars-at-the-ticket-window",
+                    "illustration_count": 0,
+                    "word_count": 640,
+                    "chapters": [
+                        {
+                            "chap_num": 1,
+                            "chap_title": "Chapter 1A: Two Ticket Folders and Four Steep Steps at Gate Four",
+                            "chap_url": "/raggiesoft-books/books/waystation/paths/norfolk-ticket-counter/book-one-ninety-nine-dollars-at-the-ticket-window/chapter-1a-two-ticket-folders-and-four-steep-steps-at-gate-four",
+                            "illustration_count": 0,
+                            "word_count": 640,
+                            "parts": [
+                                {
+                                    "part_num": 1,
+                                    "part_title": "Two Ninety-Nine-Dollar Folders and No Lift at Gate Four",
+                                    "file_path": "paths/norfolk-ticket-counter/e001/c001/p001.md",
+                                    "url": "/waystation/paths/norfolk-ticket-counter/book-one-ninety-nine-dollars-at-the-ticket-window/chapter-1a-two-ticket-folders-and-four-steep-steps-at-gate-four/two-ninety-nine-dollar-folders-and-no-lift-at-gate-four",
+                                    "word_count": 640,
+                                    "reading_minutes": 3,
+                                    "path_id": "norfolk-ticket-counter",
+                                    "date": "2001-08-21",
+                                    "start_time": "09:51",
+                                    "location": "Ticket Window & Departure Bay Four, 1961 Norfolk Pathfinder Terminal on Monticello Avenue, Virginia",
+                                    "excerpt": "Just like back in September after four lonely nights upstairs at Grandpa's, and just like back in May right before June rent came due, those two silent seconds behind Tammy's open baby-blue cardigan wings\u2014paired\u2026",
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter"
+                                    }
+                                }
+                            ],
+                            "path_id": "norfolk-ticket-counter",
+                            "required_choices": {
+                                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter"
+                            }
+                        }
+                    ],
+                    "path_id": "norfolk-ticket-counter",
+                    "required_choices": {
+                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter"
+                    }
+                }
+            ]
+        },
+        "ticket-snap-refuse-boarding": {
+            "id": "ticket-snap-refuse-boarding",
+            "crossroads_id": "norfolk-bay-four-boarding-2001",
+            "label": "Tammy Snaps at Gate Four \u2014 Refuse to Board & Go Home",
+            "subtitle": "The instant Tammy drops her sweet voice and barks at you in front of the boarding queue, wake up to the lie, roll straight back inside the waiting room to end things for good, and ride home free of charge in kind Norfolk cabbie Denise Carter's taxi\u2014rejoining the mainline sequence.",
+            "entry_part": "paths/ticket-snap-refuse-boarding/e001/c001/p001.md",
+            "entry_url": "/waystation/paths/ticket-snap-refuse-boarding/book-one-turning-around-at-gate-four/chapter-1b-dropped-mask-at-bay-four-and-denise-s-cab-home/snapping-at-gate-four-refusing-the-steps-and-denise-s-cab-home",
+            "next_crossroads_id": "borderland-three-roads",
+            "required_choices": {
+                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                "norfolk-bay-four-boarding-2001": "ticket-snap-refuse-boarding"
+            },
+            "part_count": 1,
+            "word_count": 1881,
+            "reading_minutes": 8,
+            "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
+            "eras": [
+                {
+                    "era_num": 1,
+                    "era_title": "Book One: Turning Around at Gate Four",
+                    "era_url": "/raggiesoft-books/books/waystation/paths/ticket-snap-refuse-boarding/book-one-turning-around-at-gate-four",
+                    "illustration_count": 1,
+                    "word_count": 1881,
+                    "chapters": [
+                        {
+                            "chap_num": 1,
+                            "chap_title": "Chapter 1B: Dropped Mask at Bay Four and Denise's Cab Home",
+                            "chap_url": "/raggiesoft-books/books/waystation/paths/ticket-snap-refuse-boarding/book-one-turning-around-at-gate-four/chapter-1b-dropped-mask-at-bay-four-and-denise-s-cab-home",
+                            "illustration_count": 1,
+                            "word_count": 1881,
+                            "parts": [
+                                {
+                                    "part_num": 1,
+                                    "part_title": "Snapping at Gate Four, Refusing the Steps, and Denise's Cab Home",
+                                    "file_path": "paths/ticket-snap-refuse-boarding/e001/c001/p001.md",
+                                    "url": "/waystation/paths/ticket-snap-refuse-boarding/book-one-turning-around-at-gate-four/chapter-1b-dropped-mask-at-bay-four-and-denise-s-cab-home/snapping-at-gate-four-refusing-the-steps-and-denise-s-cab-home",
+                                    "word_count": 1881,
+                                    "reading_minutes": 8,
+                                    "path_id": "ticket-snap-refuse-boarding",
+                                    "date": "2001-08-21",
+                                    "start_time": "09:57",
+                                    "location": "Norfolk Pathfinder Terminal on Monticello Avenue to Grandpa Walter's Porch & Emerald Creek Blue Tech, Virginia",
+                                    "excerpt": "Now that two hundred dollars of cash had already crossed the plexiglass tray and two non-refundable Seattle ticket folders sat safely in her hand, Tammy figured the hook was set too deep for me to back out\u2014and\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
+                                    "image_alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches looking up at the steep stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy scowls impatiently down from the open curbside doorway holding Nolan's two detached metal wheelchair footrest assemblies and a weary gray-shirted driver watches beside the open underbelly luggage bay.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
+                                            "alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches looking up at the steep stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy scowls impatiently down from the open curbside doorway holding Nolan's two detached metal wheelchair footrest assemblies and a weary gray-shirted driver watches beside the open underbelly luggage bay."
+                                        }
+                                    ],
+                                    "image_count": 1,
+                                    "backstage": [
+                                        "books/waystation/the-turned-off-meter-denises-cab-from-monticello-avenue"
+                                    ],
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "ticket-snap-refuse-boarding"
+                                    }
+                                }
+                            ],
+                            "path_id": "ticket-snap-refuse-boarding",
+                            "required_choices": {
+                                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                "norfolk-bay-four-boarding-2001": "ticket-snap-refuse-boarding"
+                            }
+                        }
+                    ],
+                    "path_id": "ticket-snap-refuse-boarding",
+                    "required_choices": {
+                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                        "norfolk-bay-four-boarding-2001": "ticket-snap-refuse-boarding"
+                    }
+                },
+                {
+                    "era_num": 1,
+                    "era_title": "Book One: Beyond the Studio Rift",
+                    "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift#rejoin-ticket-snap-refuse-boarding",
+                    "illustration_count": 7,
+                    "word_count": 18155,
+                    "chapters": [
+                        {
+                            "chap_num": 1,
+                            "chap_title": "Chapter 1: Two Names on One Studio Lease",
+                            "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
+                            "illustration_count": 4,
+                            "word_count": 14305,
+                            "parts": [
+                                {
+                                    "part_num": 11,
+                                    "part_title": "Part 11: Seventy-Five Ohms, Fast-Busy Lines, and Eden Way North",
+                                    "file_path": "e001/c001/p011.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-11-seventy-five-ohms-fast-busy-lines-and-eden-way-north",
+                                    "word_count": 2070,
+                                    "reading_minutes": 9,
+                                    "date": "2001-09-11",
+                                    "start_time": "08:48",
+                                    "location": "Emerald Creek Blue Tech to Eden Way North & Merchants Way, Chesapeake, Virginia",
+                                    "excerpt": "Every blister pack of seventy-five-ohm coaxial splitters in Aisle Four hung flush with the front plastic lip of its peg hook under half-lit metal-halide ceiling lamps, ninety minutes into a quiet Tuesday morning\u2026"
+                                },
+                                {
+                                    "part_num": 12,
+                                    "part_title": "Part 12: Second-Block Latin, the German Classroom, and Holding On at Home",
+                                    "file_path": "e001/c001/p012.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-12-second-block-latin-the-german-classroom-and-holding-on-at-home",
+                                    "word_count": 2210,
+                                    "reading_minutes": 9,
+                                    "date": "2001-09-11",
+                                    "start_time": "08:55",
+                                    "location": "Emerald Creek High School to Eden Way North & Home, Chesapeake, Virginia",
+                                    "excerpt": "Right as the second-block tardy bell buzzed down the foreign-language wing of Emerald Creek High School, I propped both of my tall matte-charcoal Lofstrand forearm crutches neatly against the steel leg of my\u2026"
+                                },
+                                {
+                                    "part_num": 13,
+                                    "part_title": "Part 13: Eighteen Candles, Always There for Big Brother, and Ten Raised Seals",
+                                    "file_path": "e001/c001/p013.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-13-eighteen-candles-always-there-for-big-brother-and-ten-raised-seals",
+                                    "word_count": 2125,
+                                    "reading_minutes": 9,
+                                    "date": "2001-10-19",
+                                    "start_time": "18:30",
+                                    "location": "Grandpa Walter's House Near Emerald Creek Mall, Chesapeake, Virginia",
+                                    "excerpt": "Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald\u2026"
+                                },
+                                {
+                                    "part_num": 14,
+                                    "part_title": "Part 14: Moving Into Studio 205 and Quantum OS 2000",
+                                    "file_path": "e001/c001/p014.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-14-moving-into-studio-205-and-quantum-os-2000",
+                                    "word_count": 1787,
+                                    "reading_minutes": 8,
+                                    "date": "2001-12-01",
+                                    "start_time": "16:15",
+                                    "location": "Studio 205, Harborview Towers off West Brambleton Avenue, Norfolk, Virginia",
+                                    "excerpt": "At midnight on November thirtieth\u2014after more than three straight months in which Tammy over at Pinecrest Court had stubbornly refused to sign the early roommate release, holding out past Thanksgiving convinced\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
+                                    "image_alt": "Inside tiny rectangular Studio 205 on the second floor of a 1965 Norfolk high-rise featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_two_names_studio_lease.jpg",
+                                            "alt": "Inside tiny rectangular Studio 205 on the second floor of a 1965 Norfolk high-rise featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches."
+                                        }
+                                    ],
+                                    "image_count": 1
+                                },
+                                {
+                                    "part_num": 15,
+                                    "part_title": "Part 15: Clocking Out Together, One Car Ride Home, and Crimson Red Outside the Lobby",
+                                    "file_path": "e001/c001/p015.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-15-clocking-out-together-one-car-ride-home-and-crimson-red-outside-the-lobby",
+                                    "word_count": 2396,
+                                    "reading_minutes": 10,
+                                    "date": "2002-02-12",
+                                    "start_time": "19:45",
+                                    "location": "Studio 205 at Harborview Towers in Norfolk & Emerald Creek Blue Tech, Virginia",
+                                    "excerpt": "Freezing February sleet ticked hard against the silent window air-conditioner above our corner headboard while I wrapped both stiff, red-knuckled hands around a steaming mug of canned chicken broth to get the\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_crimson_red_harborview_lobby.jpg",
+                                    "image_alt": "Outside the glass-walled lobby entrance of Harborview Towers in Norfolk on an overcast March afternoon in 2002, eighteen-year-old Gwen Lennox (6-foot-1, burgundy knit sweater and jeans, seated in her manual wheelchair with her matte-charcoal single-tube Lofstrand forearm crutches stowed behind her backrest) warmly shakes hands with off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green jacket over cream sweater) on the red-brick walkway while twenty-three-year-old Nolan Lennox sits beside Mallory's silver compact car in his manual wheelchair (matte-silver single-tube Lofstrand crutches in the rear pocket) blushing visibly crimson red across his cheeks and ears.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_crimson_red_harborview_lobby.jpg",
+                                            "alt": "Outside the glass-walled lobby entrance of Harborview Towers in Norfolk on an overcast March afternoon in 2002, eighteen-year-old Gwen Lennox (6-foot-1, burgundy knit sweater and jeans, seated in her manual wheelchair with her matte-charcoal single-tube Lofstrand forearm crutches stowed behind her backrest) warmly shakes hands with off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green jacket over cream sweater) on the red-brick walkway while twenty-three-year-old Nolan Lennox sits beside Mallory's silver compact car in his manual wheelchair (matte-silver single-tube Lofstrand crutches in the rear pocket) blushing visibly crimson red across his cheeks and ears."
+                                        }
+                                    ],
+                                    "image_count": 1
+                                },
+                                {
+                                    "part_num": 16,
+                                    "part_title": "Part 16: Coming Back the Next Day, Hot Cocoa in Studio 205, and Zero Supervisor Pin",
+                                    "file_path": "e001/c001/p016.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-16-coming-back-the-next-day-hot-cocoa-in-studio-205-and-zero-supervisor-pin",
+                                    "word_count": 1192,
+                                    "reading_minutes": 5,
+                                    "date": "2002-03-02",
+                                    "start_time": "14:20",
+                                    "location": "Studio 205, Harborview Towers off West Brambleton Avenue, Norfolk, Virginia",
+                                    "excerpt": "Steady Saturday afternoon rain pattered against the window glass above our corner headboard when the downstairs lobby buzzer crackled on the wall beside our entry closet at twenty past two\u2014right on the exact\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_mallory_visits_studio_205.jpg",
+                                    "image_alt": "Inside tiny rectangular Studio 205 on a rainy Saturday afternoon in March 2002 in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p015_mallory_visits_studio_205.jpg",
+                                            "alt": "Inside tiny rectangular Studio 205 on a rainy Saturday afternoon in March 2002 in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser."
+                                        }
+                                    ],
+                                    "image_count": 1
+                                },
+                                {
+                                    "part_num": 17,
+                                    "part_title": "Part 17: Third-Floor Food Court, Laced Fingers, and Nothing Left to Weaponize",
+                                    "file_path": "e001/c001/p017.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-17-third-floor-food-court-laced-fingers-and-nothing-left-to-weaponize",
+                                    "word_count": 1697,
+                                    "reading_minutes": 7,
+                                    "date": "2002-06-01",
+                                    "start_time": "12:15",
+                                    "location": "Third-Floor Food Court, The Admiral Center, Downtown Norfolk, Virginia",
+                                    "excerpt": "Sunlight poured down through the vaulted third-floor glass skylights of The Admiral Center in Downtown Norfolk while Gwen tapped a crispy french fry against mine in a celebratory toast over our food-court trays\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p016_admiral_center_food_court_tammy.jpg",
+                                    "image_alt": "Beneath the bright vaulted glass skylights of the third-floor food court at The Admiral Center in Downtown Norfolk in June 2002, twenty-four-year-old Nolan Lennox (5-foot-7, navy collared shirt) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, sage-green top) sit side by side at a food-court table with Mallory's fingers laced firmly and protectively over Nolan's hand on the tabletop beside eighteen-year-old Gwen Lennox (6-foot-1, burgundy tee) seated calmly in her manual wheelchair, while petite five-foot-tall ex-girlfriend Tammy (glossy straight black hair, baby-blue cardigan over white tank, flared jeans, chunky platform sneakers) stands three feet back in stunned, speechless jealousy as her attempt to poison Mallory over Nolan and Gwen's shared studio completely backfires.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p016_admiral_center_food_court_tammy.jpg",
+                                            "alt": "Beneath the bright vaulted glass skylights of the third-floor food court at The Admiral Center in Downtown Norfolk in June 2002, twenty-four-year-old Nolan Lennox (5-foot-7, navy collared shirt) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, sage-green top) sit side by side at a food-court table with Mallory's fingers laced firmly and protectively over Nolan's hand on the tabletop beside eighteen-year-old Gwen Lennox (6-foot-1, burgundy tee) seated calmly in her manual wheelchair, while petite five-foot-tall ex-girlfriend Tammy (glossy straight black hair, baby-blue cardigan over white tank, flared jeans, chunky platform sneakers) stands three feet back in stunned, speechless jealousy as her attempt to poison Mallory over Nolan and Gwen's shared studio completely backfires."
+                                        }
+                                    ],
+                                    "image_count": 1,
+                                    "backstage": [
+                                        "books/waystation/the-admiral-center-escalator-blindspot-and-section-18-2-387"
+                                    ]
+                                },
+                                {
+                                    "part_num": 18,
+                                    "part_title": "Part 18: Eighty-Nine Degrees and One Rattling Fan",
+                                    "file_path": "e001/c001/p018.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-18-eighty-nine-degrees-and-one-rattling-fan",
+                                    "word_count": 828,
+                                    "reading_minutes": 4,
+                                    "date": "2002-08-17",
+                                    "start_time": "15:10",
+                                    "location": "Studio 205, Harborview Towers off West Brambleton Avenue, Norfolk, Virginia",
+                                    "excerpt": "By the third week of August, the small beige window air-conditioner wedged above the corner of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 205 two degrees below the\u2026"
+                                }
+                            ]
+                        },
+                        {
+                            "chap_num": 2,
+                            "chap_title": "Chapter 2: No Wheelchairs in the Star-Moss",
+                            "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss",
+                            "illustration_count": 2,
+                            "word_count": 2628,
+                            "parts": [
+                                {
+                                    "part_num": 1,
+                                    "part_title": "Part 1: Amber Glass Beside the Full-Sized Bed",
+                                    "file_path": "e001/c002/p001.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss/part-1-amber-glass-beside-the-full-sized-bed",
+                                    "word_count": 1624,
+                                    "reading_minutes": 7,
+                                    "realm_time": "First Night of the Twin Moons \u2014 Autumn 2002, Studio 205 to Western Vaeloria",
+                                    "start_time": "21:15",
+                                    "location": "Studio 205 at Harborview Towers in Norfolk to The Star-Moss Hollow, Vaeloria",
+                                    "excerpt": "October rain ticked steady against the silent window air-conditioner above our corner headboard while tinny hold music from Regional Mobility Supply warbled through the beige corded speakerphone on our\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg",
+                                    "image_alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) sit hugging and cuddling closely together under Grandpa Walter's green-and-navy plaid wool blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_rift_meadow_arrival.jpg",
+                                            "alt": "Under two glowing moons in a painted 1980s fantasy twilight meadow of soft silver-blue star-moss, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7, navy t-shirt and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy t-shirt and jeans) sit hugging and cuddling closely together under Grandpa Walter's green-and-navy plaid wool blanket on a mossy cedar log, with Nolan's matte-silver Lofstrand forearm crutches and Gwen's matte-charcoal Lofstrand forearm crutches leaning beside them."
+                                        }
+                                    ],
+                                    "image_count": 1,
+                                    "backstage": [
+                                        "books/waystation/the-paused-vcr-clock-and-two-world-time"
+                                    ]
+                                },
+                                {
+                                    "part_num": 2,
+                                    "part_title": "Part 2: Six Inches Taller and Four Crutches Strong",
+                                    "file_path": "e001/c002/p002.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-2-no-wheelchairs-in-the-star-moss/part-2-six-inches-taller-and-four-crutches-strong",
+                                    "word_count": 1004,
+                                    "reading_minutes": 5,
+                                    "realm_time": "Second Dawn of the Twin Moons, The Whispering Causeway",
+                                    "start_time": "07:40",
+                                    "location": "The Whispering Quartz Causeway, Borderland of Vaeloria",
+                                    "excerpt": "Morning arrived in rose-gold and apricot across a sky so wide it made Studio 205 back in Norfolk feel like a shoebox. I woke warm and completely rested inside the dry, hollow lee of an ancient rose-quartz bridge\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
+                                    "image_alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wake curled up affectionately together on soft emerald moss under Grandpa Walter's green-and-navy plaid blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
+                                            "alt": "At golden-rose 1980s fantasy sunrise inside a sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old brother Nolan Lennox (5-foot-7) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wake curled up affectionately together on soft emerald moss under Grandpa Walter's green-and-navy plaid blanket while all four of their silver and charcoal Lofstrand forearm crutches rest neatly against the smooth stone wall within arm's reach."
+                                        }
+                                    ],
+                                    "image_count": 1
+                                }
+                            ]
+                        },
+                        {
+                            "chap_num": 3,
+                            "chap_title": "Chapter 3: The Three Roads of the Sunken Milestone",
+                            "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone",
+                            "illustration_count": 1,
+                            "word_count": 1222,
+                            "parts": [
+                                {
+                                    "part_num": 1,
+                                    "part_title": "Where the Flagstones Divide",
+                                    "file_path": "e001/c003/p001.md",
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-3-the-three-roads-of-the-sunken-milestone/where-the-flagstones-divide",
+                                    "word_count": 1222,
+                                    "reading_minutes": 5,
+                                    "realm_time": "Second Afternoon of the Twin Moons, The Sunken Milestone",
+                                    "start_time": "15:30",
+                                    "location": "The Sunken Three-Faced Milestone, Vaeloria Borderlands",
+                                    "excerpt": "The applewood smoke belonged to a round copper kettle bubbling on a folding iron brazier beside the cheerfulest wooden tinker's cart I had ever laid eyes on. Strings of blown-glass lanterns in cobalt, amber, and\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c002_p001_three_roads_milestone.jpg",
+                                    "image_alt": "In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a sapphire-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola diverge, barefoot nineteen-year-old Gwen Lennox (6-foot-1) wraps an arm affectionately around her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7) on a woven-rush cedar bench while they hold steaming mugs of spiced cider beside kindly white-whiskered peddler Bramwell Kettle and his lantern-hung cart, with all four of their silver and charcoal Lofstrand forearm crutches leaning cleanly beside them.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c002_p001_three_roads_milestone.jpg",
+                                            "alt": "In warm afternoon light at a mossy stone crossroads with a carved three-faced fantasy milestone where a sapphire-lantern canal dock, a lush emerald moss forest road, and a cliffside brass counterweight gondola diverge, barefoot nineteen-year-old Gwen Lennox (6-foot-1) wraps an arm affectionately around her shorter twenty-four-year-old brother Nolan Lennox (5-foot-7) on a woven-rush cedar bench while they hold steaming mugs of spiced cider beside kindly white-whiskered peddler Bramwell Kettle and his lantern-hung cart, with all four of their silver and charcoal Lofstrand forearm crutches leaning cleanly beside them."
+                                        }
+                                    ],
+                                    "image_count": 1
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
         "seattle-pathfinder-exodus": {
             "id": "seattle-pathfinder-exodus",
-            "crossroads_id": "norfolk-pathfinder-terminal-2001",
-            "label": "Believe Tammy's Promise & Board the Seattle Pathfinder",
-            "subtitle": "Take Tammy's velvet Week-One promise and Richmond payphone assurance literally\u2014watching the mask snap shut the instant she buys the ninety-nine-dollar tickets and makes you climb four steep coach steps on your forearm crutches while Shift Supervisor Mallory Walsh notices your first missed shift back at Blue Tech.",
+            "crossroads_id": "norfolk-bay-four-boarding-2001",
+            "label": "Tammy Keeps Her Sweet Week-One Voice \u2014 Board the Pathfinder",
+            "subtitle": "Reassured by Tammy's warm, patient Week-One smile\u2014promising to carry your footrests, call Blue Tech together in Richmond, and ask the Richmond desk for a lift coach\u2014climb those four aluminum steps onto Gate Four before her mask drops a hundred miles up the highway.",
             "entry_part": "paths/seattle-pathfinder-exodus/e001/c001/p001.md",
-            "entry_url": "/waystation/paths/seattle-pathfinder-exodus/book-one-the-ninety-nine-dollar-pathfinder/chapter-1a-ninety-six-hours-westbound-and-missed-shift-number-one/part-1-ninety-nine-dollars-loose-legrests-overhead-and-crossing-bristol",
+            "entry_url": "/waystation/paths/seattle-pathfinder-exodus/book-one-the-ninety-nine-dollar-pathfinder/chapter-1a-ninety-six-hours-westbound-and-missed-shift-number-one/part-1-sweet-voice-at-gate-four-dropped-mask-in-richmond-and-crossing-bristol",
             "next_crossroads_id": "blue-tech-missed-shift-alarm-2001",
             "required_choices": {
-                "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
+                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus"
             },
             "part_count": 3,
-            "word_count": 4769,
-            "reading_minutes": 20,
+            "word_count": 4719,
+            "reading_minutes": 19,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
             "eras": [
                 {
@@ -2347,38 +3171,39 @@
                     "era_title": "Book One: The Ninety-Nine-Dollar Pathfinder",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-pathfinder-exodus/book-one-the-ninety-nine-dollar-pathfinder",
                     "illustration_count": 4,
-                    "word_count": 4769,
+                    "word_count": 4719,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1A: Ninety-Six Hours Westbound and Missed Shift Number One",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-pathfinder-exodus/book-one-the-ninety-nine-dollar-pathfinder/chapter-1a-ninety-six-hours-westbound-and-missed-shift-number-one",
                             "illustration_count": 4,
-                            "word_count": 4769,
+                            "word_count": 4719,
                             "parts": [
                                 {
                                     "part_num": 1,
-                                    "part_title": "Part 1: Ninety-Nine Dollars, Loose Legrests Overhead, and Crossing Bristol",
+                                    "part_title": "Part 1: Sweet Voice at Gate Four, Dropped Mask in Richmond, and Crossing Bristol",
                                     "file_path": "paths/seattle-pathfinder-exodus/e001/c001/p001.md",
-                                    "url": "/waystation/paths/seattle-pathfinder-exodus/book-one-the-ninety-nine-dollar-pathfinder/chapter-1a-ninety-six-hours-westbound-and-missed-shift-number-one/part-1-ninety-nine-dollars-loose-legrests-overhead-and-crossing-bristol",
-                                    "word_count": 1572,
+                                    "url": "/waystation/paths/seattle-pathfinder-exodus/book-one-the-ninety-nine-dollar-pathfinder/chapter-1a-ninety-six-hours-westbound-and-missed-shift-number-one/part-1-sweet-voice-at-gate-four-dropped-mask-in-richmond-and-crossing-bristol",
+                                    "word_count": 1522,
                                     "reading_minutes": 7,
                                     "path_id": "seattle-pathfinder-exodus",
                                     "date": "2001-08-21",
-                                    "start_time": "09:49",
-                                    "location": "Norfolk Pathfinder Terminal Across Virginia to Marion & Bristol, Virginia",
-                                    "excerpt": "Just like back in September after four lonely nights upstairs at Grandpa's, and just like back in May right before June rent came due, those two silent seconds behind Tammy's open baby-blue cardigan wings\u2014paired\u2026",
+                                    "start_time": "09:57",
+                                    "location": "Norfolk Pathfinder Terminal Across Virginia to Richmond, Marion & Bristol, Virginia",
+                                    "excerpt": "If Tammy had raised her voice or snapped at me right there on the Norfolk concrete\u2014even with two freshly printed Seattle ticket folders in her hand\u2014every alarm bell inside my head would have fired at once, and I\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
-                                    "image_alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches looking daunted at the steep stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy stands impatiently up inside the open curbside doorway holding Nolan's two detached metal wheelchair footrest assemblies and a weary gray-shirted driver watches beside the open underbelly luggage bay containing Nolan's folded manual wheelchair.",
+                                    "image_alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches at the stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy leans warmly forward in the doorway with her sweet Week-One smile holding Nolan's two detached metal wheelchair footrest assemblies so his hands stay free on the rail.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
-                                            "alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches looking daunted at the steep stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy stands impatiently up inside the open curbside doorway holding Nolan's two detached metal wheelchair footrest assemblies and a weary gray-shirted driver watches beside the open underbelly luggage bay containing Nolan's folded manual wheelchair."
+                                            "alt": "Under concrete departure Bay 4 of the Norfolk Pathfinder Terminal in August 2001, twenty-three-year-old Nolan Lennox (5-foot-7, olive jacket over navy tee and jeans) stands on his two matte-silver single-tube Lofstrand forearm crutches at the stairwell of a silver-and-navy intercity highway coach signed for Richmond without a wheelchair lift, while petite five-foot-tall Tammy leans warmly forward in the doorway with her sweet Week-One smile holding Nolan's two detached metal wheelchair footrest assemblies so his hands stay free on the rail."
                                         }
                                     ],
                                     "image_count": 1,
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus"
                                     }
                                 },
                                 {
@@ -2407,7 +3232,8 @@
                                     ],
                                     "image_count": 2,
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus"
                                     }
                                 },
                                 {
@@ -2432,19 +3258,22 @@
                                     ],
                                     "image_count": 1,
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus"
                                     }
                                 }
                             ],
                             "path_id": "seattle-pathfinder-exodus",
                             "required_choices": {
-                                "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
+                                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus"
                             }
                         }
                     ],
                     "path_id": "seattle-pathfinder-exodus",
                     "required_choices": {
-                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus"
+                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus"
                     }
                 }
             ]
@@ -2458,7 +3287,8 @@
             "entry_url": "/waystation/paths/pasco-early-intercept/book-one-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-1-eden-way-north-at-eight-eighteen-and-two-pre-dawn-tickets-west",
             "next_crossroads_id": "borderland-three-roads",
             "required_choices": {
-                "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                 "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
             },
             "part_count": 4,
@@ -2502,7 +3332,8 @@
                                     ],
                                     "image_count": 1,
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
                                     }
                                 },
@@ -2528,7 +3359,8 @@
                                     ],
                                     "image_count": 1,
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
                                     }
                                 },
@@ -2561,7 +3393,8 @@
                                         "books/waystation/from-monticello-to-pasco-why-there-were-no-family-restrooms"
                                     ],
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
                                     }
                                 },
@@ -2587,21 +3420,24 @@
                                     ],
                                     "image_count": 1,
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
                                     }
                                 }
                             ],
                             "path_id": "pasco-early-intercept",
                             "required_choices": {
-                                "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                 "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
                             }
                         }
                     ],
                     "path_id": "pasco-early-intercept",
                     "required_choices": {
-                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
                     }
                 },
@@ -2709,11 +3545,12 @@
             "entry_url": "/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-1-bitter-wind-in-colby-us-287-and-breaking-skin-in-salt-lake",
             "next_crossroads_id": "borderland-three-roads",
             "required_choices": {
-                "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                 "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
             },
             "part_count": 4,
-            "word_count": 4544,
+            "word_count": 4535,
             "reading_minutes": 19,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
             "eras": [
@@ -2722,14 +3559,14 @@
                     "era_title": "Book One: Ninety-Six Hours to Puget Sound",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound",
                     "illustration_count": 4,
-                    "word_count": 4544,
+                    "word_count": 4535,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
                             "illustration_count": 4,
-                            "word_count": 4544,
+                            "word_count": 4535,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -2753,7 +3590,8 @@
                                     ],
                                     "image_count": 1,
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                                     }
                                 },
@@ -2762,7 +3600,7 @@
                                     "part_title": "Part 2: Fog in Pasco, Across the Cascades, and Abandoned in Seattle",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p002.md",
                                     "url": "/waystation/paths/seattle-full-exodus-rescue/book-one-ninety-six-hours-to-puget-sound/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-2-fog-in-pasco-across-the-cascades-and-abandoned-in-seattle",
-                                    "word_count": 815,
+                                    "word_count": 806,
                                     "reading_minutes": 4,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-08-25",
@@ -2782,7 +3620,8 @@
                                         "books/waystation/from-monticello-to-pasco-why-there-were-no-family-restrooms"
                                     ],
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                                     }
                                 },
@@ -2799,7 +3638,8 @@
                                     "location": "Sixth-Floor Surgical Wound Ward, Puget Sound General Hospital, Seattle, Washington",
                                     "excerpt": "At three minutes past six in the morning Pacific Time\u2014nine-oh-three back home in Chesapeake\u2014the muted nineteen-inch television bolted high on the plaster wall of my sixth-floor semiprivate room at Puget Sound\u2026",
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                                     }
                                 },
@@ -2829,21 +3669,24 @@
                                     ],
                                     "image_count": 2,
                                     "required_choices": {
-                                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                                     }
                                 }
                             ],
                             "path_id": "seattle-full-exodus-rescue",
                             "required_choices": {
-                                "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                                "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                                 "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                             }
                         }
                     ],
                     "path_id": "seattle-full-exodus-rescue",
                     "required_choices": {
-                        "norfolk-pathfinder-terminal-2001": "seattle-pathfinder-exodus",
+                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                     }
                 },
@@ -2945,15 +3788,17 @@
         "lock-wheelchair-brakes-emerald-creek": {
             "id": "lock-wheelchair-brakes-emerald-creek",
             "crossroads_id": "norfolk-pathfinder-terminal-2001",
-            "label": "Reject Tammy's Promise & Roll Out Into the Concourse",
-            "subtitle": "Realize peaceful, yell-free hugs with Gwen beat empty promises every time\u2014rolling straight out from behind the lockers into plain view of thirty witnesses to lock your wheelchair brakes, end things for good, and ride three CVTA buses safely home to Emerald Creek.",
+            "label": "Reject Tammy's Promise & Roll Out Before She Buys Tickets",
+            "subtitle": "Realize peaceful, yell-free hugs with Gwen beat empty promises every time\u2014rolling straight out from behind the lockers into plain view of thirty witnesses to lock your wheelchair brakes, break up for good, and ride straight home at zero charge in kind Norfolk cabbie Denise Carter's taxi.",
             "entry_part": "e001/c001/p010.md",
-            "entry_url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-10-rolling-out-past-the-lockers-fellow-passengers-and-safe-home-to-emerald-creek",
+            "entry_url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-10-rolling-out-past-the-lockers-denise-s-turned-off-meter-and-safe-home-to-emerald-creek",
             "next_crossroads_id": "borderland-three-roads",
-            "required_choices": [],
+            "required_choices": {
+                "norfolk-pathfinder-terminal-2001": "lock-wheelchair-brakes-emerald-creek"
+            },
             "part_count": 12,
-            "word_count": 21021,
-            "reading_minutes": 85,
+            "word_count": 20841,
+            "reading_minutes": 84,
             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
             "eras": [
                 {
@@ -2961,36 +3806,42 @@
                     "era_title": "Book One: Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift",
                     "illustration_count": 8,
-                    "word_count": 21021,
+                    "word_count": 20841,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease",
                             "illustration_count": 5,
-                            "word_count": 17171,
+                            "word_count": 16991,
                             "parts": [
                                 {
                                     "part_num": 10,
-                                    "part_title": "Part 10: Rolling Out Past the Lockers, Fellow Passengers, and Safe Home to Emerald Creek",
+                                    "part_title": "Part 10: Rolling Out Past the Lockers, Denise's Turned-Off Meter, and Safe Home to Emerald Creek",
                                     "file_path": "e001/c001/p010.md",
-                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-10-rolling-out-past-the-lockers-fellow-passengers-and-safe-home-to-emerald-creek",
-                                    "word_count": 2866,
-                                    "reading_minutes": 12,
+                                    "url": "/waystation/book-one-beyond-the-studio-rift/chapter-1-two-names-on-one-studio-lease/part-10-rolling-out-past-the-lockers-denise-s-turned-off-meter-and-safe-home-to-emerald-creek",
+                                    "word_count": 2686,
+                                    "reading_minutes": 11,
                                     "date": "2001-08-21",
                                     "start_time": "09:51",
                                     "location": "Norfolk Pathfinder Terminal on Monticello Avenue to Grandpa Walter's Porch & Emerald Creek Blue Tech, Virginia",
                                     "excerpt": "Twice before inside Pinecrest Court, having Tammy lift her shirt and whisper in her Week-One voice had scrambled every circuit in my lonely head and pulled me straight back under her thumb. Sitting in my manual\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
-                                    "image_alt": "On the cozy covered front porch of Grandpa Walter's two-story brick-and-siding home near Emerald Creek Mall in Chesapeake on an overcast late-summer afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he breaks free from his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.",
+                                    "image_alt": "On the cozy covered front porch of Grandpa Walter's two-story brick-and-siding home near Emerald Creek Mall in Chesapeake on an overcast late-summer morning, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after a kind Norfolk cab driver brings him straight home from the bus station at zero charge, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them.",
                                     "images": [
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
-                                            "alt": "On the cozy covered front porch of Grandpa Walter's two-story brick-and-siding home near Emerald Creek Mall in Chesapeake on an overcast late-summer afternoon, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after he breaks free from his abusive girlfriend at the Norfolk bus station, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them."
+                                            "alt": "On the cozy covered front porch of Grandpa Walter's two-story brick-and-siding home near Emerald Creek Mall in Chesapeake on an overcast late-summer morning, taller seventeen-year-old Gwen Lennox (6-foot-1, in a modest burgundy plaid flannel shirt and jeans) wraps both arms joyfully and protectively around her shorter twenty-three-year-old brother Nolan Lennox (5-foot-7, in a navy tee and olive jacket with his battered duffel bag at his feet) after a kind Norfolk cab driver brings him straight home from the bus station at zero charge, while all four of their matte-silver and matte-charcoal single-tube Lofstrand forearm crutches lean cleanly against the wooden porch railing beside them."
                                         }
                                     ],
                                     "image_count": 1,
-                                    "path_id": "lock-wheelchair-brakes-emerald-creek"
+                                    "backstage": [
+                                        "books/waystation/the-turned-off-meter-denises-cab-from-monticello-avenue"
+                                    ],
+                                    "path_id": "lock-wheelchair-brakes-emerald-creek",
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "lock-wheelchair-brakes-emerald-creek"
+                                    }
                                 },
                                 {
                                     "part_num": 11,
@@ -3002,8 +3853,7 @@
                                     "date": "2001-09-11",
                                     "start_time": "08:48",
                                     "location": "Emerald Creek Blue Tech to Eden Way North & Merchants Way, Chesapeake, Virginia",
-                                    "excerpt": "Every blister pack of seventy-five-ohm coaxial splitters in Aisle Four hung flush with the front plastic lip of its peg hook under half-lit metal-halide ceiling lamps, ninety minutes into a quiet Tuesday morning\u2026",
-                                    "path_id": "lock-wheelchair-brakes-emerald-creek"
+                                    "excerpt": "Every blister pack of seventy-five-ohm coaxial splitters in Aisle Four hung flush with the front plastic lip of its peg hook under half-lit metal-halide ceiling lamps, ninety minutes into a quiet Tuesday morning\u2026"
                                 },
                                 {
                                     "part_num": 12,
@@ -3015,8 +3865,7 @@
                                     "date": "2001-09-11",
                                     "start_time": "08:55",
                                     "location": "Emerald Creek High School to Eden Way North & Home, Chesapeake, Virginia",
-                                    "excerpt": "Right as the second-block tardy bell buzzed down the foreign-language wing of Emerald Creek High School, I propped both of my tall matte-charcoal Lofstrand forearm crutches neatly against the steel leg of my\u2026",
-                                    "path_id": "lock-wheelchair-brakes-emerald-creek"
+                                    "excerpt": "Right as the second-block tardy bell buzzed down the foreign-language wing of Emerald Creek High School, I propped both of my tall matte-charcoal Lofstrand forearm crutches neatly against the steel leg of my\u2026"
                                 },
                                 {
                                     "part_num": 13,
@@ -3028,8 +3877,7 @@
                                     "date": "2001-10-19",
                                     "start_time": "18:30",
                                     "location": "Grandpa Walter's House Near Emerald Creek Mall, Chesapeake, Virginia",
-                                    "excerpt": "Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald\u2026",
-                                    "path_id": "lock-wheelchair-brakes-emerald-creek"
+                                    "excerpt": "Yellow wax dripped down eighteen crooked birthday candles stuck into a homemade chocolate sheet cake at the center of Grandpa Walter's kitchen table while Gwen beamed bright enough to light the whole Emerald\u2026"
                                 },
                                 {
                                     "part_num": 14,
@@ -3050,8 +3898,7 @@
                                             "alt": "Inside tiny rectangular Studio 205 on the second floor of a 1965 Norfolk high-rise featuring Nolan's corner full-sized bed draped in Grandpa Walter's green-and-navy plaid blanket, a wooden dresser with a swiveled rabbit-ear CRT television and silver VCR/DVD combo aimed toward the bed, an unobstructed tiny kitchen with an under-counter dorm fridge, narrow natural-gas oven, and rolling microwave pantry cart, two early-2000s laptops, and two parked manual wheelchairs, barefoot twenty-three-year-old Nolan Lennox (5-foot-7) and his taller eighteen-year-old sister Gwen Lennox (6-foot-1) share a warm, joyful hug beside all four of their single-tube Lofstrand forearm crutches."
                                         }
                                     ],
-                                    "image_count": 1,
-                                    "path_id": "lock-wheelchair-brakes-emerald-creek"
+                                    "image_count": 1
                                 },
                                 {
                                     "part_num": 15,
@@ -3072,8 +3919,7 @@
                                             "alt": "Outside the glass-walled lobby entrance of Harborview Towers in Norfolk on an overcast March afternoon in 2002, eighteen-year-old Gwen Lennox (6-foot-1, burgundy knit sweater and jeans, seated in her manual wheelchair with her matte-charcoal single-tube Lofstrand forearm crutches stowed behind her backrest) warmly shakes hands with off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green jacket over cream sweater) on the red-brick walkway while twenty-three-year-old Nolan Lennox sits beside Mallory's silver compact car in his manual wheelchair (matte-silver single-tube Lofstrand crutches in the rear pocket) blushing visibly crimson red across his cheeks and ears."
                                         }
                                     ],
-                                    "image_count": 1,
-                                    "path_id": "lock-wheelchair-brakes-emerald-creek"
+                                    "image_count": 1
                                 },
                                 {
                                     "part_num": 16,
@@ -3094,8 +3940,7 @@
                                             "alt": "Inside tiny rectangular Studio 205 on a rainy Saturday afternoon in March 2002 in Norfolk, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy tee and jeans) and Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, off-duty forest-green zip cardigan over a cream tee, jeans, and sneakers) sit warmly side by side on the edge of the corner full-sized bed draped in Grandpa Walter's green-and-navy plaid wool blanket beside two wooden crates and both early-2000s laptops while eighteen-year-old Gwen Lennox (6-foot-1, heather-burgundy tee and jeans) smiles approvingly from her manual wheelchair with a mug of hot cocoa, four single-tube Lofstrand forearm crutches leaning neatly against the footboard, the unobstructed dorm-fridge kitchen and rolling microwave pantry cart in the back, and the swiveled rabbit-ear CRT television and silver VCR/DVD combo on the oak dresser."
                                         }
                                     ],
-                                    "image_count": 1,
-                                    "path_id": "lock-wheelchair-brakes-emerald-creek"
+                                    "image_count": 1
                                 },
                                 {
                                     "part_num": 17,
@@ -3119,8 +3964,7 @@
                                     "image_count": 1,
                                     "backstage": [
                                         "books/waystation/the-admiral-center-escalator-blindspot-and-section-18-2-387"
-                                    ],
-                                    "path_id": "lock-wheelchair-brakes-emerald-creek"
+                                    ]
                                 },
                                 {
                                     "part_num": 18,
@@ -3132,12 +3976,13 @@
                                     "date": "2002-08-17",
                                     "start_time": "15:10",
                                     "location": "Studio 205, Harborview Towers off West Brambleton Avenue, Norfolk, Virginia",
-                                    "excerpt": "By the third week of August, the small beige window air-conditioner wedged above the corner of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 205 two degrees below the\u2026",
-                                    "path_id": "lock-wheelchair-brakes-emerald-creek"
+                                    "excerpt": "By the third week of August, the small beige window air-conditioner wedged above the corner of my full-sized bed sounded like a tin can rattling loose bolts and barely cooled Studio 205 two degrees below the\u2026"
                                 }
                             ],
                             "path_id": "lock-wheelchair-brakes-emerald-creek",
-                            "required_choices": []
+                            "required_choices": {
+                                "norfolk-pathfinder-terminal-2001": "lock-wheelchair-brakes-emerald-creek"
+                            }
                         },
                         {
                             "chap_num": 2,
@@ -3225,7 +4070,9 @@
                         }
                     ],
                     "path_id": "lock-wheelchair-brakes-emerald-creek",
-                    "required_choices": []
+                    "required_choices": {
+                        "norfolk-pathfinder-terminal-2001": "lock-wheelchair-brakes-emerald-creek"
+                    }
                 }
             ]
         },
