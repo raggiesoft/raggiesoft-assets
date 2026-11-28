@@ -8,18 +8,18 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/waystation.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "13.9 MB",
+        "epub": "13.6 MB",
         "pdf": "13.3 MB",
         "text_epub": "207 KB",
-        "text_pdf": "485 KB",
-        "package_7z": "",
-        "epub_bytes": 14572634,
-        "pdf_bytes": 13967346,
-        "text_epub_bytes": 211728,
-        "text_pdf_bytes": 496779,
-        "package_7z_bytes": 0
+        "text_pdf": "516 KB",
+        "package_7z": "150 KB",
+        "epub_bytes": 14304774,
+        "pdf_bytes": 13926517,
+        "text_epub_bytes": 211619,
+        "text_pdf_bytes": 528310,
+        "package_7z_bytes": 153464
     },
-    "illustration_count": 45,
+    "illustration_count": 51,
     "word_stats": {
         "story_word_count": 72189,
         "lore_word_count": 9931,
@@ -35,7 +35,7 @@
         "era_count": 2,
         "chapter_count": 17,
         "part_count": 47,
-        "illustration_count": 45,
+        "illustration_count": 51,
         "story_arc_count": 0
     },
     "story_arcs": [],
@@ -394,14 +394,14 @@
             "era_num": 2,
             "era_title": "Book Two: Vaeloria \u2014 Beyond the Studio Rift",
             "era_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift",
-            "illustration_count": 3,
+            "illustration_count": 9,
             "word_count": 8578,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: No Wheelchairs in the Star-Moss",
                     "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-1-no-wheelchairs-in-the-star-moss",
-                    "illustration_count": 2,
+                    "illustration_count": 3,
                     "word_count": 3526,
                     "parts": [
                         {
@@ -445,9 +445,13 @@
                                 {
                                     "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
                                     "alt": "At golden-rose 1980s fantasy sunrise inside a wide sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) sleeps peacefully right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn hair, forest-green cardigan over cream tee, jeans, barefoot, silver glasses resting safely beside her) on his other side under Grandpa Walter's green-and-navy plaid wool blanket, with Nolan's matte-silver and Gwen's matte-charcoal single-tube Lofstrand forearm crutches leaning neatly within arm's reach."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c001_p002_causeway_night_comfort_trauma.jpg",
+                                    "alt": "In pre-dawn indigo-and-rose twilight inside a sheltered mossy rose-quartz bridge alcove in Vaeloria, barefoot twenty-four-year-old Nolan Lennox sits jolted awake and frightened in the middle of a soft emerald moss bed under Grandpa Walter's plaid wool blanket while his taller nineteen-year-old sister Gwen Lennox (6-foot-1) holds his shoulders in a steady, protective hug on one side and girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green cardigan) gently holds his hand and comforts him on his other side beside their four matte-silver and matte-charcoal Lofstrand forearm crutches."
                                 }
                             ],
-                            "image_count": 1
+                            "image_count": 2
                         }
                     ]
                 },
@@ -485,7 +489,7 @@
                     "chap_num": 5,
                     "chap_title": "Chapter 5: First Night Beneath the Twin-Moon Skylight",
                     "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-5-first-night-beneath-the-twin-moon-skylight",
-                    "illustration_count": 0,
+                    "illustration_count": 2,
                     "word_count": 996,
                     "parts": [
                         {
@@ -498,7 +502,20 @@
                             "realm_time": "Third Night of the Twin Moons, Keepers' Hall",
                             "start_time": "22:30",
                             "location": "The Twin-Moon Sleeping Alcove, Keepers' Hall, The Uncharted Waystation",
-                            "excerpt": "Back in Virginia Beach, my own efficiency apartment had a galley counter thirty-six inches high designed exclusively for standing cooks, and Studio 205 in Norfolk squeezed Nolan's four-burner gas stove so tight\u2026"
+                            "excerpt": "Back in Virginia Beach, my own efficiency apartment had a galley counter thirty-six inches high designed exclusively for standing cooks, and Studio 205 in Norfolk squeezed Nolan's four-burner gas stove so tight\u2026",
+                            "image": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_peaceful_sleep.jpg",
+                            "image_alt": "Beneath a crystal twin-moon skylight inside honeyed-cedar Keepers' Hall, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) sleeps deeply and peacefully right in the middle of a wide nine-foot carved cedar canopy bed between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) curled warmly on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, cream tee, silver glasses resting on the cedar shelf beside Grandpa Walter's back-angled framed photo) curled affectionately on his other side under cloud-wool quilts and Grandpa Walter's green-and-navy plaid wool blanket, with their two manual wheelchairs and four Lofstrand forearm crutches resting by the warm hearth.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_peaceful_sleep.jpg",
+                                    "alt": "Beneath a crystal twin-moon skylight inside honeyed-cedar Keepers' Hall, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) sleeps deeply and peacefully right in the middle of a wide nine-foot carved cedar canopy bed between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) curled warmly on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, cream tee, silver glasses resting on the cedar shelf beside Grandpa Walter's back-angled framed photo) curled affectionately on his other side under cloud-wool quilts and Grandpa Walter's green-and-navy plaid wool blanket, with their two manual wheelchairs and four Lofstrand forearm crutches resting by the warm hearth."
+                                },
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_night_comfort_trauma.jpg",
+                                    "alt": "Beneath double moonlight filtering through the crystal skylight of Keepers' Hall, twenty-four-year-old Nolan Lennox sits jolted upright and frightened in the wide carved cedar canopy bed under cloud-wool quilts and Grandpa Walter's plaid wool blanket while his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wraps both arms around his shoulders in a steady safe-person hug on one side and girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, thin silver wire-rimmed glasses) sits close beside him holding both of his hands calmly on his other side beside Grandpa Walter's back-angled silver photo frame and their resting wheelchairs and forearm crutches."
+                                }
+                            ],
+                            "image_count": 2
                         }
                     ]
                 },
@@ -506,7 +523,7 @@
                     "chap_num": 6,
                     "chap_title": "Chapter 6: Rolling Down to Cloudbrook Hollow",
                     "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-6-rolling-down-to-cloudbrook-hollow",
-                    "illustration_count": 0,
+                    "illustration_count": 2,
                     "word_count": 1791,
                     "parts": [
                         {
@@ -519,7 +536,16 @@
                             "realm_time": "Fourth Morning of the Twin Moons, Cloudbrook Hollow",
                             "start_time": "10:15",
                             "location": "Sun-Terrace Causeway & Cloudbrook Artisan Market, Inner Valley of Vaeloria",
-                            "excerpt": "There is no word in English big enough for the feeling of pushing both palms forward on your manual wheelchair's push-rims and discovering an entire town where nobody forgot to pour the curb cuts. At ten-fifteen\u2026"
+                            "excerpt": "There is no word in English big enough for the feeling of pushing both palms forward on your manual wheelchair's push-rims and discovering an entire town where nobody forgot to pour the curb cuts. At ten-fifteen\u2026",
+                            "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p001_cloudbrook_market_wheelchairs.jpg",
+                            "image_alt": "On a bright 1980s fantasy morning in Vaeloria's sunlit mountain-valley village of Cloudbrook Hollow, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) roll side by side in their two manual wheelchairs\u2014with their matte-silver and matte-charcoal Lofstrand forearm crutches stowed neatly upright in their rear backrest pockets\u2014along satin-smooth rose-quartz flagstones beside girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her right ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, canvas sneakers) past warm timber bakeries, blown-glass lantern stalls, and smiling townsfolk.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p001_cloudbrook_market_wheelchairs.jpg",
+                                    "alt": "On a bright 1980s fantasy morning in Vaeloria's sunlit mountain-valley village of Cloudbrook Hollow, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) roll side by side in their two manual wheelchairs\u2014with their matte-silver and matte-charcoal Lofstrand forearm crutches stowed neatly upright in their rear backrest pockets\u2014along satin-smooth rose-quartz flagstones beside girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her right ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, canvas sneakers) past warm timber bakeries, blown-glass lantern stalls, and smiling townsfolk."
+                                }
+                            ],
+                            "image_count": 1
                         },
                         {
                             "part_num": 2,
@@ -531,7 +557,16 @@
                             "realm_time": "Fourth Afternoon of the Twin Moons, Cloudbrook Orchard Terrace",
                             "start_time": "13:45",
                             "location": "The Waterwheel Tea-Terrace, Cloudbrook Hollow, Vaeloria",
-                            "excerpt": "If Regional Mobility Supply back in Tidewater ever saw what Cloudbrook Hollow's craftspeople did to our two Earth wheelchairs over one pot of spiced pear tea, their entire billing department would dissolve into\u2026"
+                            "excerpt": "If Regional Mobility Supply back in Tidewater ever saw what Cloudbrook Hollow's craftspeople did to our two Earth wheelchairs over one pot of spiced pear tea, their entire billing department would dissolve into\u2026",
+                            "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p002_vaeloria_tea_terrace_three_keepers.jpg",
+                            "image_alt": "In warm golden afternoon sunlight on a blossom-draped rose-quartz stone terrace beside a gentle wooden waterwheel in Vaeloria, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) sit in their newly cushioned manual wheelchairs across a low round cedar tea-table beside Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee), examining rolled twin-moon star-vellum charts and carved runic slates over steaming earthenware teacups while their four silver and charcoal Lofstrand forearm crutches rest neatly in their wheelchair backrest pockets.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p002_vaeloria_tea_terrace_three_keepers.jpg",
+                                    "alt": "In warm golden afternoon sunlight on a blossom-draped rose-quartz stone terrace beside a gentle wooden waterwheel in Vaeloria, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) sit in their newly cushioned manual wheelchairs across a low round cedar tea-table beside Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee), examining rolled twin-moon star-vellum charts and carved runic slates over steaming earthenware teacups while their four silver and charcoal Lofstrand forearm crutches rest neatly in their wheelchair backrest pockets."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 },
@@ -539,7 +574,7 @@
                     "chap_num": 7,
                     "chap_title": "Chapter 7: Sixteen Glowing Archways and the Open Horizon",
                     "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-7-sixteen-glowing-archways-and-the-open-horizon",
-                    "illustration_count": 0,
+                    "illustration_count": 1,
                     "word_count": 867,
                     "parts": [
                         {
@@ -552,7 +587,16 @@
                             "realm_time": "Twenty-First Sunset of the Twin Moons, The Uncharted Waystation",
                             "start_time": "18:50",
                             "location": "The Moon-Glass Observatory & Star-Court Parapet, The Uncharted Waystation, Vaeloria",
-                            "excerpt": "Three weeks of Vaeloria sunrises had turned Keepers' Hall from an astonishing miracle into the warmest, most natural daily routine the three of us had ever known. Every morning began at our own unhurried pace\u2026"
+                            "excerpt": "Three weeks of Vaeloria sunrises had turned Keepers' Hall from an astonishing miracle into the warmest, most natural daily routine the three of us had ever known. Every morning began at our own unhurried pace\u2026",
+                            "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c007_p001_moon_glass_observatory_horizon.jpg",
+                            "image_alt": "At a luminous copper-and-violet 1980s fantasy sunset high on the rose-quartz Star-Court parapet of the Uncharted Waystation beneath two crystal-clear moons, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) stands on his matte-silver single-tube Lofstrand forearm crutches right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee, on her matte-charcoal single-tube Lofstrand forearm crutches holding a brass star-sight) on his right and his girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, holding a brass-inlaid runic slate) on his left, looking out past the Three-Ring Bronze Astrolabe and sixteen glowing stained-glass portal archways toward vast unexplored valleys and shimmering seas of Vaeloria.",
+                            "images": [
+                                {
+                                    "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c007_p001_moon_glass_observatory_horizon.jpg",
+                                    "alt": "At a luminous copper-and-violet 1980s fantasy sunset high on the rose-quartz Star-Court parapet of the Uncharted Waystation beneath two crystal-clear moons, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) stands on his matte-silver single-tube Lofstrand forearm crutches right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee, on her matte-charcoal single-tube Lofstrand forearm crutches holding a brass star-sight) on his right and his girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, holding a brass-inlaid runic slate) on his left, looking out past the Three-Ring Bronze Astrolabe and sixteen glowing stained-glass portal archways toward vast unexplored valleys and shimmering seas of Vaeloria."
+                                }
+                            ],
+                            "image_count": 1
                         }
                     ]
                 }
@@ -1260,14 +1304,14 @@
                     "era_num": 2,
                     "era_title": "Book Two: Vaeloria \u2014 Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift#rejoin-ticket-snap-refuse-boarding",
-                    "illustration_count": 3,
+                    "illustration_count": 4,
                     "word_count": 4924,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: No Wheelchairs in the Star-Moss",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-1-no-wheelchairs-in-the-star-moss",
-                            "illustration_count": 2,
+                            "illustration_count": 3,
                             "word_count": 3526,
                             "parts": [
                                 {
@@ -1311,9 +1355,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
                                             "alt": "At golden-rose 1980s fantasy sunrise inside a wide sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) sleeps peacefully right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn hair, forest-green cardigan over cream tee, jeans, barefoot, silver glasses resting safely beside her) on his other side under Grandpa Walter's green-and-navy plaid wool blanket, with Nolan's matte-silver and Gwen's matte-charcoal single-tube Lofstrand forearm crutches leaning neatly within arm's reach."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c001_p002_causeway_night_comfort_trauma.jpg",
+                                            "alt": "In pre-dawn indigo-and-rose twilight inside a sheltered mossy rose-quartz bridge alcove in Vaeloria, barefoot twenty-four-year-old Nolan Lennox sits jolted awake and frightened in the middle of a soft emerald moss bed under Grandpa Walter's plaid wool blanket while his taller nineteen-year-old sister Gwen Lennox (6-foot-1) holds his shoulders in a steady, protective hug on one side and girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green cardigan) gently holds his hand and comforts him on his other side beside their four matte-silver and matte-charcoal Lofstrand forearm crutches."
                                         }
                                     ],
-                                    "image_count": 1
+                                    "image_count": 2
                                 }
                             ]
                         },
@@ -1647,14 +1695,14 @@
                     "era_num": 2,
                     "era_title": "Book Two: Vaeloria \u2014 Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift#rejoin-pasco-early-intercept",
-                    "illustration_count": 3,
+                    "illustration_count": 4,
                     "word_count": 4924,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: No Wheelchairs in the Star-Moss",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-1-no-wheelchairs-in-the-star-moss",
-                            "illustration_count": 2,
+                            "illustration_count": 3,
                             "word_count": 3526,
                             "parts": [
                                 {
@@ -1698,9 +1746,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
                                             "alt": "At golden-rose 1980s fantasy sunrise inside a wide sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) sleeps peacefully right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn hair, forest-green cardigan over cream tee, jeans, barefoot, silver glasses resting safely beside her) on his other side under Grandpa Walter's green-and-navy plaid wool blanket, with Nolan's matte-silver and Gwen's matte-charcoal single-tube Lofstrand forearm crutches leaning neatly within arm's reach."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c001_p002_causeway_night_comfort_trauma.jpg",
+                                            "alt": "In pre-dawn indigo-and-rose twilight inside a sheltered mossy rose-quartz bridge alcove in Vaeloria, barefoot twenty-four-year-old Nolan Lennox sits jolted awake and frightened in the middle of a soft emerald moss bed under Grandpa Walter's plaid wool blanket while his taller nineteen-year-old sister Gwen Lennox (6-foot-1) holds his shoulders in a steady, protective hug on one side and girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green cardigan) gently holds his hand and comforts him on his other side beside their four matte-silver and matte-charcoal Lofstrand forearm crutches."
                                         }
                                     ],
-                                    "image_count": 1
+                                    "image_count": 2
                                 }
                             ]
                         },
@@ -1900,14 +1952,14 @@
                     "era_num": 2,
                     "era_title": "Book Two: Vaeloria \u2014 Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift#rejoin-seattle-full-exodus-rescue",
-                    "illustration_count": 3,
+                    "illustration_count": 4,
                     "word_count": 4924,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: No Wheelchairs in the Star-Moss",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-1-no-wheelchairs-in-the-star-moss",
-                            "illustration_count": 2,
+                            "illustration_count": 3,
                             "word_count": 3526,
                             "parts": [
                                 {
@@ -1951,9 +2003,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
                                             "alt": "At golden-rose 1980s fantasy sunrise inside a wide sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) sleeps peacefully right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn hair, forest-green cardigan over cream tee, jeans, barefoot, silver glasses resting safely beside her) on his other side under Grandpa Walter's green-and-navy plaid wool blanket, with Nolan's matte-silver and Gwen's matte-charcoal single-tube Lofstrand forearm crutches leaning neatly within arm's reach."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c001_p002_causeway_night_comfort_trauma.jpg",
+                                            "alt": "In pre-dawn indigo-and-rose twilight inside a sheltered mossy rose-quartz bridge alcove in Vaeloria, barefoot twenty-four-year-old Nolan Lennox sits jolted awake and frightened in the middle of a soft emerald moss bed under Grandpa Walter's plaid wool blanket while his taller nineteen-year-old sister Gwen Lennox (6-foot-1) holds his shoulders in a steady, protective hug on one side and girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green cardigan) gently holds his hand and comforts him on his other side beside their four matte-silver and matte-charcoal Lofstrand forearm crutches."
                                         }
                                     ],
-                                    "image_count": 1
+                                    "image_count": 2
                                 }
                             ]
                         },
@@ -2204,14 +2260,14 @@
                     "era_num": 2,
                     "era_title": "Book Two: Vaeloria \u2014 Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift",
-                    "illustration_count": 3,
+                    "illustration_count": 4,
                     "word_count": 4924,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: No Wheelchairs in the Star-Moss",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-1-no-wheelchairs-in-the-star-moss",
-                            "illustration_count": 2,
+                            "illustration_count": 3,
                             "word_count": 3526,
                             "parts": [
                                 {
@@ -2255,9 +2311,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
                                             "alt": "At golden-rose 1980s fantasy sunrise inside a wide sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) sleeps peacefully right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn hair, forest-green cardigan over cream tee, jeans, barefoot, silver glasses resting safely beside her) on his other side under Grandpa Walter's green-and-navy plaid wool blanket, with Nolan's matte-silver and Gwen's matte-charcoal single-tube Lofstrand forearm crutches leaning neatly within arm's reach."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c001_p002_causeway_night_comfort_trauma.jpg",
+                                            "alt": "In pre-dawn indigo-and-rose twilight inside a sheltered mossy rose-quartz bridge alcove in Vaeloria, barefoot twenty-four-year-old Nolan Lennox sits jolted awake and frightened in the middle of a soft emerald moss bed under Grandpa Walter's plaid wool blanket while his taller nineteen-year-old sister Gwen Lennox (6-foot-1) holds his shoulders in a steady, protective hug on one side and girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green cardigan) gently holds his hand and comforts him on his other side beside their four matte-silver and matte-charcoal Lofstrand forearm crutches."
                                         }
                                     ],
-                                    "image_count": 1
+                                    "image_count": 2
                                 }
                             ]
                         },
@@ -2436,14 +2496,14 @@
                     "era_num": 2,
                     "era_title": "Book Two: Vaeloria \u2014 Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift#rejoin-lantern-barge-canal",
-                    "illustration_count": 0,
+                    "illustration_count": 5,
                     "word_count": 3654,
                     "chapters": [
                         {
                             "chap_num": 5,
                             "chap_title": "Chapter 5: First Night Beneath the Twin-Moon Skylight",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-5-first-night-beneath-the-twin-moon-skylight",
-                            "illustration_count": 0,
+                            "illustration_count": 2,
                             "word_count": 996,
                             "parts": [
                                 {
@@ -2456,7 +2516,20 @@
                                     "realm_time": "Third Night of the Twin Moons, Keepers' Hall",
                                     "start_time": "22:30",
                                     "location": "The Twin-Moon Sleeping Alcove, Keepers' Hall, The Uncharted Waystation",
-                                    "excerpt": "Back in Virginia Beach, my own efficiency apartment had a galley counter thirty-six inches high designed exclusively for standing cooks, and Studio 205 in Norfolk squeezed Nolan's four-burner gas stove so tight\u2026"
+                                    "excerpt": "Back in Virginia Beach, my own efficiency apartment had a galley counter thirty-six inches high designed exclusively for standing cooks, and Studio 205 in Norfolk squeezed Nolan's four-burner gas stove so tight\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_peaceful_sleep.jpg",
+                                    "image_alt": "Beneath a crystal twin-moon skylight inside honeyed-cedar Keepers' Hall, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) sleeps deeply and peacefully right in the middle of a wide nine-foot carved cedar canopy bed between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) curled warmly on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, cream tee, silver glasses resting on the cedar shelf beside Grandpa Walter's back-angled framed photo) curled affectionately on his other side under cloud-wool quilts and Grandpa Walter's green-and-navy plaid wool blanket, with their two manual wheelchairs and four Lofstrand forearm crutches resting by the warm hearth.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_peaceful_sleep.jpg",
+                                            "alt": "Beneath a crystal twin-moon skylight inside honeyed-cedar Keepers' Hall, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) sleeps deeply and peacefully right in the middle of a wide nine-foot carved cedar canopy bed between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) curled warmly on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, cream tee, silver glasses resting on the cedar shelf beside Grandpa Walter's back-angled framed photo) curled affectionately on his other side under cloud-wool quilts and Grandpa Walter's green-and-navy plaid wool blanket, with their two manual wheelchairs and four Lofstrand forearm crutches resting by the warm hearth."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_night_comfort_trauma.jpg",
+                                            "alt": "Beneath double moonlight filtering through the crystal skylight of Keepers' Hall, twenty-four-year-old Nolan Lennox sits jolted upright and frightened in the wide carved cedar canopy bed under cloud-wool quilts and Grandpa Walter's plaid wool blanket while his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wraps both arms around his shoulders in a steady safe-person hug on one side and girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, thin silver wire-rimmed glasses) sits close beside him holding both of his hands calmly on his other side beside Grandpa Walter's back-angled silver photo frame and their resting wheelchairs and forearm crutches."
+                                        }
+                                    ],
+                                    "image_count": 2
                                 }
                             ]
                         },
@@ -2464,7 +2537,7 @@
                             "chap_num": 6,
                             "chap_title": "Chapter 6: Rolling Down to Cloudbrook Hollow",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-6-rolling-down-to-cloudbrook-hollow",
-                            "illustration_count": 0,
+                            "illustration_count": 2,
                             "word_count": 1791,
                             "parts": [
                                 {
@@ -2477,7 +2550,16 @@
                                     "realm_time": "Fourth Morning of the Twin Moons, Cloudbrook Hollow",
                                     "start_time": "10:15",
                                     "location": "Sun-Terrace Causeway & Cloudbrook Artisan Market, Inner Valley of Vaeloria",
-                                    "excerpt": "There is no word in English big enough for the feeling of pushing both palms forward on your manual wheelchair's push-rims and discovering an entire town where nobody forgot to pour the curb cuts. At ten-fifteen\u2026"
+                                    "excerpt": "There is no word in English big enough for the feeling of pushing both palms forward on your manual wheelchair's push-rims and discovering an entire town where nobody forgot to pour the curb cuts. At ten-fifteen\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p001_cloudbrook_market_wheelchairs.jpg",
+                                    "image_alt": "On a bright 1980s fantasy morning in Vaeloria's sunlit mountain-valley village of Cloudbrook Hollow, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) roll side by side in their two manual wheelchairs\u2014with their matte-silver and matte-charcoal Lofstrand forearm crutches stowed neatly upright in their rear backrest pockets\u2014along satin-smooth rose-quartz flagstones beside girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her right ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, canvas sneakers) past warm timber bakeries, blown-glass lantern stalls, and smiling townsfolk.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p001_cloudbrook_market_wheelchairs.jpg",
+                                            "alt": "On a bright 1980s fantasy morning in Vaeloria's sunlit mountain-valley village of Cloudbrook Hollow, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) roll side by side in their two manual wheelchairs\u2014with their matte-silver and matte-charcoal Lofstrand forearm crutches stowed neatly upright in their rear backrest pockets\u2014along satin-smooth rose-quartz flagstones beside girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her right ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, canvas sneakers) past warm timber bakeries, blown-glass lantern stalls, and smiling townsfolk."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 },
                                 {
                                     "part_num": 2,
@@ -2489,7 +2571,16 @@
                                     "realm_time": "Fourth Afternoon of the Twin Moons, Cloudbrook Orchard Terrace",
                                     "start_time": "13:45",
                                     "location": "The Waterwheel Tea-Terrace, Cloudbrook Hollow, Vaeloria",
-                                    "excerpt": "If Regional Mobility Supply back in Tidewater ever saw what Cloudbrook Hollow's craftspeople did to our two Earth wheelchairs over one pot of spiced pear tea, their entire billing department would dissolve into\u2026"
+                                    "excerpt": "If Regional Mobility Supply back in Tidewater ever saw what Cloudbrook Hollow's craftspeople did to our two Earth wheelchairs over one pot of spiced pear tea, their entire billing department would dissolve into\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p002_vaeloria_tea_terrace_three_keepers.jpg",
+                                    "image_alt": "In warm golden afternoon sunlight on a blossom-draped rose-quartz stone terrace beside a gentle wooden waterwheel in Vaeloria, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) sit in their newly cushioned manual wheelchairs across a low round cedar tea-table beside Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee), examining rolled twin-moon star-vellum charts and carved runic slates over steaming earthenware teacups while their four silver and charcoal Lofstrand forearm crutches rest neatly in their wheelchair backrest pockets.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p002_vaeloria_tea_terrace_three_keepers.jpg",
+                                            "alt": "In warm golden afternoon sunlight on a blossom-draped rose-quartz stone terrace beside a gentle wooden waterwheel in Vaeloria, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) sit in their newly cushioned manual wheelchairs across a low round cedar tea-table beside Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee), examining rolled twin-moon star-vellum charts and carved runic slates over steaming earthenware teacups while their four silver and charcoal Lofstrand forearm crutches rest neatly in their wheelchair backrest pockets."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 }
                             ]
                         },
@@ -2497,7 +2588,7 @@
                             "chap_num": 7,
                             "chap_title": "Chapter 7: Sixteen Glowing Archways and the Open Horizon",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-7-sixteen-glowing-archways-and-the-open-horizon",
-                            "illustration_count": 0,
+                            "illustration_count": 1,
                             "word_count": 867,
                             "parts": [
                                 {
@@ -2510,7 +2601,16 @@
                                     "realm_time": "Twenty-First Sunset of the Twin Moons, The Uncharted Waystation",
                                     "start_time": "18:50",
                                     "location": "The Moon-Glass Observatory & Star-Court Parapet, The Uncharted Waystation, Vaeloria",
-                                    "excerpt": "Three weeks of Vaeloria sunrises had turned Keepers' Hall from an astonishing miracle into the warmest, most natural daily routine the three of us had ever known. Every morning began at our own unhurried pace\u2026"
+                                    "excerpt": "Three weeks of Vaeloria sunrises had turned Keepers' Hall from an astonishing miracle into the warmest, most natural daily routine the three of us had ever known. Every morning began at our own unhurried pace\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c007_p001_moon_glass_observatory_horizon.jpg",
+                                    "image_alt": "At a luminous copper-and-violet 1980s fantasy sunset high on the rose-quartz Star-Court parapet of the Uncharted Waystation beneath two crystal-clear moons, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) stands on his matte-silver single-tube Lofstrand forearm crutches right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee, on her matte-charcoal single-tube Lofstrand forearm crutches holding a brass star-sight) on his right and his girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, holding a brass-inlaid runic slate) on his left, looking out past the Three-Ring Bronze Astrolabe and sixteen glowing stained-glass portal archways toward vast unexplored valleys and shimmering seas of Vaeloria.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c007_p001_moon_glass_observatory_horizon.jpg",
+                                            "alt": "At a luminous copper-and-violet 1980s fantasy sunset high on the rose-quartz Star-Court parapet of the Uncharted Waystation beneath two crystal-clear moons, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) stands on his matte-silver single-tube Lofstrand forearm crutches right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee, on her matte-charcoal single-tube Lofstrand forearm crutches holding a brass star-sight) on his right and his girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, holding a brass-inlaid runic slate) on his left, looking out past the Three-Ring Bronze Astrolabe and sixteen glowing stained-glass portal archways toward vast unexplored valleys and shimmering seas of Vaeloria."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 }
                             ]
                         }
@@ -2659,14 +2759,14 @@
                     "era_num": 2,
                     "era_title": "Book Two: Vaeloria \u2014 Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift#rejoin-whisperwood-moss-road",
-                    "illustration_count": 0,
+                    "illustration_count": 5,
                     "word_count": 3654,
                     "chapters": [
                         {
                             "chap_num": 5,
                             "chap_title": "Chapter 5: First Night Beneath the Twin-Moon Skylight",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-5-first-night-beneath-the-twin-moon-skylight",
-                            "illustration_count": 0,
+                            "illustration_count": 2,
                             "word_count": 996,
                             "parts": [
                                 {
@@ -2679,7 +2779,20 @@
                                     "realm_time": "Third Night of the Twin Moons, Keepers' Hall",
                                     "start_time": "22:30",
                                     "location": "The Twin-Moon Sleeping Alcove, Keepers' Hall, The Uncharted Waystation",
-                                    "excerpt": "Back in Virginia Beach, my own efficiency apartment had a galley counter thirty-six inches high designed exclusively for standing cooks, and Studio 205 in Norfolk squeezed Nolan's four-burner gas stove so tight\u2026"
+                                    "excerpt": "Back in Virginia Beach, my own efficiency apartment had a galley counter thirty-six inches high designed exclusively for standing cooks, and Studio 205 in Norfolk squeezed Nolan's four-burner gas stove so tight\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_peaceful_sleep.jpg",
+                                    "image_alt": "Beneath a crystal twin-moon skylight inside honeyed-cedar Keepers' Hall, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) sleeps deeply and peacefully right in the middle of a wide nine-foot carved cedar canopy bed between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) curled warmly on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, cream tee, silver glasses resting on the cedar shelf beside Grandpa Walter's back-angled framed photo) curled affectionately on his other side under cloud-wool quilts and Grandpa Walter's green-and-navy plaid wool blanket, with their two manual wheelchairs and four Lofstrand forearm crutches resting by the warm hearth.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_peaceful_sleep.jpg",
+                                            "alt": "Beneath a crystal twin-moon skylight inside honeyed-cedar Keepers' Hall, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) sleeps deeply and peacefully right in the middle of a wide nine-foot carved cedar canopy bed between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) curled warmly on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, cream tee, silver glasses resting on the cedar shelf beside Grandpa Walter's back-angled framed photo) curled affectionately on his other side under cloud-wool quilts and Grandpa Walter's green-and-navy plaid wool blanket, with their two manual wheelchairs and four Lofstrand forearm crutches resting by the warm hearth."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_night_comfort_trauma.jpg",
+                                            "alt": "Beneath double moonlight filtering through the crystal skylight of Keepers' Hall, twenty-four-year-old Nolan Lennox sits jolted upright and frightened in the wide carved cedar canopy bed under cloud-wool quilts and Grandpa Walter's plaid wool blanket while his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wraps both arms around his shoulders in a steady safe-person hug on one side and girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, thin silver wire-rimmed glasses) sits close beside him holding both of his hands calmly on his other side beside Grandpa Walter's back-angled silver photo frame and their resting wheelchairs and forearm crutches."
+                                        }
+                                    ],
+                                    "image_count": 2
                                 }
                             ]
                         },
@@ -2687,7 +2800,7 @@
                             "chap_num": 6,
                             "chap_title": "Chapter 6: Rolling Down to Cloudbrook Hollow",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-6-rolling-down-to-cloudbrook-hollow",
-                            "illustration_count": 0,
+                            "illustration_count": 2,
                             "word_count": 1791,
                             "parts": [
                                 {
@@ -2700,7 +2813,16 @@
                                     "realm_time": "Fourth Morning of the Twin Moons, Cloudbrook Hollow",
                                     "start_time": "10:15",
                                     "location": "Sun-Terrace Causeway & Cloudbrook Artisan Market, Inner Valley of Vaeloria",
-                                    "excerpt": "There is no word in English big enough for the feeling of pushing both palms forward on your manual wheelchair's push-rims and discovering an entire town where nobody forgot to pour the curb cuts. At ten-fifteen\u2026"
+                                    "excerpt": "There is no word in English big enough for the feeling of pushing both palms forward on your manual wheelchair's push-rims and discovering an entire town where nobody forgot to pour the curb cuts. At ten-fifteen\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p001_cloudbrook_market_wheelchairs.jpg",
+                                    "image_alt": "On a bright 1980s fantasy morning in Vaeloria's sunlit mountain-valley village of Cloudbrook Hollow, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) roll side by side in their two manual wheelchairs\u2014with their matte-silver and matte-charcoal Lofstrand forearm crutches stowed neatly upright in their rear backrest pockets\u2014along satin-smooth rose-quartz flagstones beside girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her right ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, canvas sneakers) past warm timber bakeries, blown-glass lantern stalls, and smiling townsfolk.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p001_cloudbrook_market_wheelchairs.jpg",
+                                            "alt": "On a bright 1980s fantasy morning in Vaeloria's sunlit mountain-valley village of Cloudbrook Hollow, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) roll side by side in their two manual wheelchairs\u2014with their matte-silver and matte-charcoal Lofstrand forearm crutches stowed neatly upright in their rear backrest pockets\u2014along satin-smooth rose-quartz flagstones beside girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her right ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, canvas sneakers) past warm timber bakeries, blown-glass lantern stalls, and smiling townsfolk."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 },
                                 {
                                     "part_num": 2,
@@ -2712,7 +2834,16 @@
                                     "realm_time": "Fourth Afternoon of the Twin Moons, Cloudbrook Orchard Terrace",
                                     "start_time": "13:45",
                                     "location": "The Waterwheel Tea-Terrace, Cloudbrook Hollow, Vaeloria",
-                                    "excerpt": "If Regional Mobility Supply back in Tidewater ever saw what Cloudbrook Hollow's craftspeople did to our two Earth wheelchairs over one pot of spiced pear tea, their entire billing department would dissolve into\u2026"
+                                    "excerpt": "If Regional Mobility Supply back in Tidewater ever saw what Cloudbrook Hollow's craftspeople did to our two Earth wheelchairs over one pot of spiced pear tea, their entire billing department would dissolve into\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p002_vaeloria_tea_terrace_three_keepers.jpg",
+                                    "image_alt": "In warm golden afternoon sunlight on a blossom-draped rose-quartz stone terrace beside a gentle wooden waterwheel in Vaeloria, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) sit in their newly cushioned manual wheelchairs across a low round cedar tea-table beside Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee), examining rolled twin-moon star-vellum charts and carved runic slates over steaming earthenware teacups while their four silver and charcoal Lofstrand forearm crutches rest neatly in their wheelchair backrest pockets.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p002_vaeloria_tea_terrace_three_keepers.jpg",
+                                            "alt": "In warm golden afternoon sunlight on a blossom-draped rose-quartz stone terrace beside a gentle wooden waterwheel in Vaeloria, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) sit in their newly cushioned manual wheelchairs across a low round cedar tea-table beside Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee), examining rolled twin-moon star-vellum charts and carved runic slates over steaming earthenware teacups while their four silver and charcoal Lofstrand forearm crutches rest neatly in their wheelchair backrest pockets."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 }
                             ]
                         },
@@ -2720,7 +2851,7 @@
                             "chap_num": 7,
                             "chap_title": "Chapter 7: Sixteen Glowing Archways and the Open Horizon",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-7-sixteen-glowing-archways-and-the-open-horizon",
-                            "illustration_count": 0,
+                            "illustration_count": 1,
                             "word_count": 867,
                             "parts": [
                                 {
@@ -2733,7 +2864,16 @@
                                     "realm_time": "Twenty-First Sunset of the Twin Moons, The Uncharted Waystation",
                                     "start_time": "18:50",
                                     "location": "The Moon-Glass Observatory & Star-Court Parapet, The Uncharted Waystation, Vaeloria",
-                                    "excerpt": "Three weeks of Vaeloria sunrises had turned Keepers' Hall from an astonishing miracle into the warmest, most natural daily routine the three of us had ever known. Every morning began at our own unhurried pace\u2026"
+                                    "excerpt": "Three weeks of Vaeloria sunrises had turned Keepers' Hall from an astonishing miracle into the warmest, most natural daily routine the three of us had ever known. Every morning began at our own unhurried pace\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c007_p001_moon_glass_observatory_horizon.jpg",
+                                    "image_alt": "At a luminous copper-and-violet 1980s fantasy sunset high on the rose-quartz Star-Court parapet of the Uncharted Waystation beneath two crystal-clear moons, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) stands on his matte-silver single-tube Lofstrand forearm crutches right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee, on her matte-charcoal single-tube Lofstrand forearm crutches holding a brass star-sight) on his right and his girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, holding a brass-inlaid runic slate) on his left, looking out past the Three-Ring Bronze Astrolabe and sixteen glowing stained-glass portal archways toward vast unexplored valleys and shimmering seas of Vaeloria.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c007_p001_moon_glass_observatory_horizon.jpg",
+                                            "alt": "At a luminous copper-and-violet 1980s fantasy sunset high on the rose-quartz Star-Court parapet of the Uncharted Waystation beneath two crystal-clear moons, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) stands on his matte-silver single-tube Lofstrand forearm crutches right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee, on her matte-charcoal single-tube Lofstrand forearm crutches holding a brass star-sight) on his right and his girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, holding a brass-inlaid runic slate) on his left, looking out past the Three-Ring Bronze Astrolabe and sixteen glowing stained-glass portal archways toward vast unexplored valleys and shimmering seas of Vaeloria."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 }
                             ]
                         }
@@ -2882,14 +3022,14 @@
                     "era_num": 2,
                     "era_title": "Book Two: Vaeloria \u2014 Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift#rejoin-brass-counterweight-way",
-                    "illustration_count": 0,
+                    "illustration_count": 5,
                     "word_count": 3654,
                     "chapters": [
                         {
                             "chap_num": 5,
                             "chap_title": "Chapter 5: First Night Beneath the Twin-Moon Skylight",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-5-first-night-beneath-the-twin-moon-skylight",
-                            "illustration_count": 0,
+                            "illustration_count": 2,
                             "word_count": 996,
                             "parts": [
                                 {
@@ -2902,7 +3042,20 @@
                                     "realm_time": "Third Night of the Twin Moons, Keepers' Hall",
                                     "start_time": "22:30",
                                     "location": "The Twin-Moon Sleeping Alcove, Keepers' Hall, The Uncharted Waystation",
-                                    "excerpt": "Back in Virginia Beach, my own efficiency apartment had a galley counter thirty-six inches high designed exclusively for standing cooks, and Studio 205 in Norfolk squeezed Nolan's four-burner gas stove so tight\u2026"
+                                    "excerpt": "Back in Virginia Beach, my own efficiency apartment had a galley counter thirty-six inches high designed exclusively for standing cooks, and Studio 205 in Norfolk squeezed Nolan's four-burner gas stove so tight\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_peaceful_sleep.jpg",
+                                    "image_alt": "Beneath a crystal twin-moon skylight inside honeyed-cedar Keepers' Hall, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) sleeps deeply and peacefully right in the middle of a wide nine-foot carved cedar canopy bed between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) curled warmly on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, cream tee, silver glasses resting on the cedar shelf beside Grandpa Walter's back-angled framed photo) curled affectionately on his other side under cloud-wool quilts and Grandpa Walter's green-and-navy plaid wool blanket, with their two manual wheelchairs and four Lofstrand forearm crutches resting by the warm hearth.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_peaceful_sleep.jpg",
+                                            "alt": "Beneath a crystal twin-moon skylight inside honeyed-cedar Keepers' Hall, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) sleeps deeply and peacefully right in the middle of a wide nine-foot carved cedar canopy bed between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) curled warmly on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, cream tee, silver glasses resting on the cedar shelf beside Grandpa Walter's back-angled framed photo) curled affectionately on his other side under cloud-wool quilts and Grandpa Walter's green-and-navy plaid wool blanket, with their two manual wheelchairs and four Lofstrand forearm crutches resting by the warm hearth."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_night_comfort_trauma.jpg",
+                                            "alt": "Beneath double moonlight filtering through the crystal skylight of Keepers' Hall, twenty-four-year-old Nolan Lennox sits jolted upright and frightened in the wide carved cedar canopy bed under cloud-wool quilts and Grandpa Walter's plaid wool blanket while his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wraps both arms around his shoulders in a steady safe-person hug on one side and girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, thin silver wire-rimmed glasses) sits close beside him holding both of his hands calmly on his other side beside Grandpa Walter's back-angled silver photo frame and their resting wheelchairs and forearm crutches."
+                                        }
+                                    ],
+                                    "image_count": 2
                                 }
                             ]
                         },
@@ -2910,7 +3063,7 @@
                             "chap_num": 6,
                             "chap_title": "Chapter 6: Rolling Down to Cloudbrook Hollow",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-6-rolling-down-to-cloudbrook-hollow",
-                            "illustration_count": 0,
+                            "illustration_count": 2,
                             "word_count": 1791,
                             "parts": [
                                 {
@@ -2923,7 +3076,16 @@
                                     "realm_time": "Fourth Morning of the Twin Moons, Cloudbrook Hollow",
                                     "start_time": "10:15",
                                     "location": "Sun-Terrace Causeway & Cloudbrook Artisan Market, Inner Valley of Vaeloria",
-                                    "excerpt": "There is no word in English big enough for the feeling of pushing both palms forward on your manual wheelchair's push-rims and discovering an entire town where nobody forgot to pour the curb cuts. At ten-fifteen\u2026"
+                                    "excerpt": "There is no word in English big enough for the feeling of pushing both palms forward on your manual wheelchair's push-rims and discovering an entire town where nobody forgot to pour the curb cuts. At ten-fifteen\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p001_cloudbrook_market_wheelchairs.jpg",
+                                    "image_alt": "On a bright 1980s fantasy morning in Vaeloria's sunlit mountain-valley village of Cloudbrook Hollow, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) roll side by side in their two manual wheelchairs\u2014with their matte-silver and matte-charcoal Lofstrand forearm crutches stowed neatly upright in their rear backrest pockets\u2014along satin-smooth rose-quartz flagstones beside girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her right ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, canvas sneakers) past warm timber bakeries, blown-glass lantern stalls, and smiling townsfolk.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p001_cloudbrook_market_wheelchairs.jpg",
+                                            "alt": "On a bright 1980s fantasy morning in Vaeloria's sunlit mountain-valley village of Cloudbrook Hollow, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) roll side by side in their two manual wheelchairs\u2014with their matte-silver and matte-charcoal Lofstrand forearm crutches stowed neatly upright in their rear backrest pockets\u2014along satin-smooth rose-quartz flagstones beside girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her right ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, canvas sneakers) past warm timber bakeries, blown-glass lantern stalls, and smiling townsfolk."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 },
                                 {
                                     "part_num": 2,
@@ -2935,7 +3097,16 @@
                                     "realm_time": "Fourth Afternoon of the Twin Moons, Cloudbrook Orchard Terrace",
                                     "start_time": "13:45",
                                     "location": "The Waterwheel Tea-Terrace, Cloudbrook Hollow, Vaeloria",
-                                    "excerpt": "If Regional Mobility Supply back in Tidewater ever saw what Cloudbrook Hollow's craftspeople did to our two Earth wheelchairs over one pot of spiced pear tea, their entire billing department would dissolve into\u2026"
+                                    "excerpt": "If Regional Mobility Supply back in Tidewater ever saw what Cloudbrook Hollow's craftspeople did to our two Earth wheelchairs over one pot of spiced pear tea, their entire billing department would dissolve into\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p002_vaeloria_tea_terrace_three_keepers.jpg",
+                                    "image_alt": "In warm golden afternoon sunlight on a blossom-draped rose-quartz stone terrace beside a gentle wooden waterwheel in Vaeloria, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) sit in their newly cushioned manual wheelchairs across a low round cedar tea-table beside Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee), examining rolled twin-moon star-vellum charts and carved runic slates over steaming earthenware teacups while their four silver and charcoal Lofstrand forearm crutches rest neatly in their wheelchair backrest pockets.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p002_vaeloria_tea_terrace_three_keepers.jpg",
+                                            "alt": "In warm golden afternoon sunlight on a blossom-draped rose-quartz stone terrace beside a gentle wooden waterwheel in Vaeloria, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) sit in their newly cushioned manual wheelchairs across a low round cedar tea-table beside Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee), examining rolled twin-moon star-vellum charts and carved runic slates over steaming earthenware teacups while their four silver and charcoal Lofstrand forearm crutches rest neatly in their wheelchair backrest pockets."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 }
                             ]
                         },
@@ -2943,7 +3114,7 @@
                             "chap_num": 7,
                             "chap_title": "Chapter 7: Sixteen Glowing Archways and the Open Horizon",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-7-sixteen-glowing-archways-and-the-open-horizon",
-                            "illustration_count": 0,
+                            "illustration_count": 1,
                             "word_count": 867,
                             "parts": [
                                 {
@@ -2956,7 +3127,16 @@
                                     "realm_time": "Twenty-First Sunset of the Twin Moons, The Uncharted Waystation",
                                     "start_time": "18:50",
                                     "location": "The Moon-Glass Observatory & Star-Court Parapet, The Uncharted Waystation, Vaeloria",
-                                    "excerpt": "Three weeks of Vaeloria sunrises had turned Keepers' Hall from an astonishing miracle into the warmest, most natural daily routine the three of us had ever known. Every morning began at our own unhurried pace\u2026"
+                                    "excerpt": "Three weeks of Vaeloria sunrises had turned Keepers' Hall from an astonishing miracle into the warmest, most natural daily routine the three of us had ever known. Every morning began at our own unhurried pace\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c007_p001_moon_glass_observatory_horizon.jpg",
+                                    "image_alt": "At a luminous copper-and-violet 1980s fantasy sunset high on the rose-quartz Star-Court parapet of the Uncharted Waystation beneath two crystal-clear moons, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) stands on his matte-silver single-tube Lofstrand forearm crutches right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee, on her matte-charcoal single-tube Lofstrand forearm crutches holding a brass star-sight) on his right and his girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, holding a brass-inlaid runic slate) on his left, looking out past the Three-Ring Bronze Astrolabe and sixteen glowing stained-glass portal archways toward vast unexplored valleys and shimmering seas of Vaeloria.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c007_p001_moon_glass_observatory_horizon.jpg",
+                                            "alt": "At a luminous copper-and-violet 1980s fantasy sunset high on the rose-quartz Star-Court parapet of the Uncharted Waystation beneath two crystal-clear moons, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) stands on his matte-silver single-tube Lofstrand forearm crutches right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee, on her matte-charcoal single-tube Lofstrand forearm crutches holding a brass star-sight) on his right and his girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, holding a brass-inlaid runic slate) on his left, looking out past the Three-Ring Bronze Astrolabe and sixteen glowing stained-glass portal archways toward vast unexplored valleys and shimmering seas of Vaeloria."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 }
                             ]
                         }
@@ -3459,14 +3639,14 @@
                     "era_num": 2,
                     "era_title": "Book Two: Vaeloria \u2014 Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift#rejoin-ticket-snap-refuse-boarding",
-                    "illustration_count": 3,
+                    "illustration_count": 4,
                     "word_count": 4924,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: No Wheelchairs in the Star-Moss",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-1-no-wheelchairs-in-the-star-moss",
-                            "illustration_count": 2,
+                            "illustration_count": 3,
                             "word_count": 3526,
                             "parts": [
                                 {
@@ -3510,9 +3690,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
                                             "alt": "At golden-rose 1980s fantasy sunrise inside a wide sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) sleeps peacefully right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn hair, forest-green cardigan over cream tee, jeans, barefoot, silver glasses resting safely beside her) on his other side under Grandpa Walter's green-and-navy plaid wool blanket, with Nolan's matte-silver and Gwen's matte-charcoal single-tube Lofstrand forearm crutches leaning neatly within arm's reach."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c001_p002_causeway_night_comfort_trauma.jpg",
+                                            "alt": "In pre-dawn indigo-and-rose twilight inside a sheltered mossy rose-quartz bridge alcove in Vaeloria, barefoot twenty-four-year-old Nolan Lennox sits jolted awake and frightened in the middle of a soft emerald moss bed under Grandpa Walter's plaid wool blanket while his taller nineteen-year-old sister Gwen Lennox (6-foot-1) holds his shoulders in a steady, protective hug on one side and girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green cardigan) gently holds his hand and comforts him on his other side beside their four matte-silver and matte-charcoal Lofstrand forearm crutches."
                                         }
                                     ],
-                                    "image_count": 1
+                                    "image_count": 2
                                 }
                             ]
                         },
@@ -3846,14 +4030,14 @@
                     "era_num": 2,
                     "era_title": "Book Two: Vaeloria \u2014 Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift#rejoin-pasco-early-intercept",
-                    "illustration_count": 3,
+                    "illustration_count": 4,
                     "word_count": 4924,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: No Wheelchairs in the Star-Moss",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-1-no-wheelchairs-in-the-star-moss",
-                            "illustration_count": 2,
+                            "illustration_count": 3,
                             "word_count": 3526,
                             "parts": [
                                 {
@@ -3897,9 +4081,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
                                             "alt": "At golden-rose 1980s fantasy sunrise inside a wide sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) sleeps peacefully right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn hair, forest-green cardigan over cream tee, jeans, barefoot, silver glasses resting safely beside her) on his other side under Grandpa Walter's green-and-navy plaid wool blanket, with Nolan's matte-silver and Gwen's matte-charcoal single-tube Lofstrand forearm crutches leaning neatly within arm's reach."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c001_p002_causeway_night_comfort_trauma.jpg",
+                                            "alt": "In pre-dawn indigo-and-rose twilight inside a sheltered mossy rose-quartz bridge alcove in Vaeloria, barefoot twenty-four-year-old Nolan Lennox sits jolted awake and frightened in the middle of a soft emerald moss bed under Grandpa Walter's plaid wool blanket while his taller nineteen-year-old sister Gwen Lennox (6-foot-1) holds his shoulders in a steady, protective hug on one side and girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green cardigan) gently holds his hand and comforts him on his other side beside their four matte-silver and matte-charcoal Lofstrand forearm crutches."
                                         }
                                     ],
-                                    "image_count": 1
+                                    "image_count": 2
                                 }
                             ]
                         },
@@ -4099,14 +4287,14 @@
                     "era_num": 2,
                     "era_title": "Book Two: Vaeloria \u2014 Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift#rejoin-seattle-full-exodus-rescue",
-                    "illustration_count": 3,
+                    "illustration_count": 4,
                     "word_count": 4924,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: No Wheelchairs in the Star-Moss",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-1-no-wheelchairs-in-the-star-moss",
-                            "illustration_count": 2,
+                            "illustration_count": 3,
                             "word_count": 3526,
                             "parts": [
                                 {
@@ -4150,9 +4338,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
                                             "alt": "At golden-rose 1980s fantasy sunrise inside a wide sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) sleeps peacefully right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn hair, forest-green cardigan over cream tee, jeans, barefoot, silver glasses resting safely beside her) on his other side under Grandpa Walter's green-and-navy plaid wool blanket, with Nolan's matte-silver and Gwen's matte-charcoal single-tube Lofstrand forearm crutches leaning neatly within arm's reach."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c001_p002_causeway_night_comfort_trauma.jpg",
+                                            "alt": "In pre-dawn indigo-and-rose twilight inside a sheltered mossy rose-quartz bridge alcove in Vaeloria, barefoot twenty-four-year-old Nolan Lennox sits jolted awake and frightened in the middle of a soft emerald moss bed under Grandpa Walter's plaid wool blanket while his taller nineteen-year-old sister Gwen Lennox (6-foot-1) holds his shoulders in a steady, protective hug on one side and girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green cardigan) gently holds his hand and comforts him on his other side beside their four matte-silver and matte-charcoal Lofstrand forearm crutches."
                                         }
                                     ],
-                                    "image_count": 1
+                                    "image_count": 2
                                 }
                             ]
                         },
@@ -4403,14 +4595,14 @@
                     "era_num": 2,
                     "era_title": "Book Two: Vaeloria \u2014 Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift",
-                    "illustration_count": 3,
+                    "illustration_count": 4,
                     "word_count": 4924,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: No Wheelchairs in the Star-Moss",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-1-no-wheelchairs-in-the-star-moss",
-                            "illustration_count": 2,
+                            "illustration_count": 3,
                             "word_count": 3526,
                             "parts": [
                                 {
@@ -4454,9 +4646,13 @@
                                         {
                                             "src": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p002_ancient_causeway_dawn.jpg",
                                             "alt": "At golden-rose 1980s fantasy sunrise inside a wide sheltered mossy rose-quartz stone arch alcove beside a satin-smooth flagstone causeway and golden honey-plum orchard, barefoot twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) sleeps peacefully right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn hair, forest-green cardigan over cream tee, jeans, barefoot, silver glasses resting safely beside her) on his other side under Grandpa Walter's green-and-navy plaid wool blanket, with Nolan's matte-silver and Gwen's matte-charcoal single-tube Lofstrand forearm crutches leaning neatly within arm's reach."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c001_p002_causeway_night_comfort_trauma.jpg",
+                                            "alt": "In pre-dawn indigo-and-rose twilight inside a sheltered mossy rose-quartz bridge alcove in Vaeloria, barefoot twenty-four-year-old Nolan Lennox sits jolted awake and frightened in the middle of a soft emerald moss bed under Grandpa Walter's plaid wool blanket while his taller nineteen-year-old sister Gwen Lennox (6-foot-1) holds his shoulders in a steady, protective hug on one side and girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green cardigan) gently holds his hand and comforts him on his other side beside their four matte-silver and matte-charcoal Lofstrand forearm crutches."
                                         }
                                     ],
-                                    "image_count": 1
+                                    "image_count": 2
                                 }
                             ]
                         },
@@ -4635,14 +4831,14 @@
                     "era_num": 2,
                     "era_title": "Book Two: Vaeloria \u2014 Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift#rejoin-lantern-barge-canal",
-                    "illustration_count": 0,
+                    "illustration_count": 5,
                     "word_count": 3654,
                     "chapters": [
                         {
                             "chap_num": 5,
                             "chap_title": "Chapter 5: First Night Beneath the Twin-Moon Skylight",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-5-first-night-beneath-the-twin-moon-skylight",
-                            "illustration_count": 0,
+                            "illustration_count": 2,
                             "word_count": 996,
                             "parts": [
                                 {
@@ -4655,7 +4851,20 @@
                                     "realm_time": "Third Night of the Twin Moons, Keepers' Hall",
                                     "start_time": "22:30",
                                     "location": "The Twin-Moon Sleeping Alcove, Keepers' Hall, The Uncharted Waystation",
-                                    "excerpt": "Back in Virginia Beach, my own efficiency apartment had a galley counter thirty-six inches high designed exclusively for standing cooks, and Studio 205 in Norfolk squeezed Nolan's four-burner gas stove so tight\u2026"
+                                    "excerpt": "Back in Virginia Beach, my own efficiency apartment had a galley counter thirty-six inches high designed exclusively for standing cooks, and Studio 205 in Norfolk squeezed Nolan's four-burner gas stove so tight\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_peaceful_sleep.jpg",
+                                    "image_alt": "Beneath a crystal twin-moon skylight inside honeyed-cedar Keepers' Hall, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) sleeps deeply and peacefully right in the middle of a wide nine-foot carved cedar canopy bed between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) curled warmly on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, cream tee, silver glasses resting on the cedar shelf beside Grandpa Walter's back-angled framed photo) curled affectionately on his other side under cloud-wool quilts and Grandpa Walter's green-and-navy plaid wool blanket, with their two manual wheelchairs and four Lofstrand forearm crutches resting by the warm hearth.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_peaceful_sleep.jpg",
+                                            "alt": "Beneath a crystal twin-moon skylight inside honeyed-cedar Keepers' Hall, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) sleeps deeply and peacefully right in the middle of a wide nine-foot carved cedar canopy bed between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) curled warmly on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, cream tee, silver glasses resting on the cedar shelf beside Grandpa Walter's back-angled framed photo) curled affectionately on his other side under cloud-wool quilts and Grandpa Walter's green-and-navy plaid wool blanket, with their two manual wheelchairs and four Lofstrand forearm crutches resting by the warm hearth."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_night_comfort_trauma.jpg",
+                                            "alt": "Beneath double moonlight filtering through the crystal skylight of Keepers' Hall, twenty-four-year-old Nolan Lennox sits jolted upright and frightened in the wide carved cedar canopy bed under cloud-wool quilts and Grandpa Walter's plaid wool blanket while his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wraps both arms around his shoulders in a steady safe-person hug on one side and girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, thin silver wire-rimmed glasses) sits close beside him holding both of his hands calmly on his other side beside Grandpa Walter's back-angled silver photo frame and their resting wheelchairs and forearm crutches."
+                                        }
+                                    ],
+                                    "image_count": 2
                                 }
                             ]
                         },
@@ -4663,7 +4872,7 @@
                             "chap_num": 6,
                             "chap_title": "Chapter 6: Rolling Down to Cloudbrook Hollow",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-6-rolling-down-to-cloudbrook-hollow",
-                            "illustration_count": 0,
+                            "illustration_count": 2,
                             "word_count": 1791,
                             "parts": [
                                 {
@@ -4676,7 +4885,16 @@
                                     "realm_time": "Fourth Morning of the Twin Moons, Cloudbrook Hollow",
                                     "start_time": "10:15",
                                     "location": "Sun-Terrace Causeway & Cloudbrook Artisan Market, Inner Valley of Vaeloria",
-                                    "excerpt": "There is no word in English big enough for the feeling of pushing both palms forward on your manual wheelchair's push-rims and discovering an entire town where nobody forgot to pour the curb cuts. At ten-fifteen\u2026"
+                                    "excerpt": "There is no word in English big enough for the feeling of pushing both palms forward on your manual wheelchair's push-rims and discovering an entire town where nobody forgot to pour the curb cuts. At ten-fifteen\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p001_cloudbrook_market_wheelchairs.jpg",
+                                    "image_alt": "On a bright 1980s fantasy morning in Vaeloria's sunlit mountain-valley village of Cloudbrook Hollow, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) roll side by side in their two manual wheelchairs\u2014with their matte-silver and matte-charcoal Lofstrand forearm crutches stowed neatly upright in their rear backrest pockets\u2014along satin-smooth rose-quartz flagstones beside girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her right ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, canvas sneakers) past warm timber bakeries, blown-glass lantern stalls, and smiling townsfolk.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p001_cloudbrook_market_wheelchairs.jpg",
+                                            "alt": "On a bright 1980s fantasy morning in Vaeloria's sunlit mountain-valley village of Cloudbrook Hollow, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) roll side by side in their two manual wheelchairs\u2014with their matte-silver and matte-charcoal Lofstrand forearm crutches stowed neatly upright in their rear backrest pockets\u2014along satin-smooth rose-quartz flagstones beside girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her right ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, canvas sneakers) past warm timber bakeries, blown-glass lantern stalls, and smiling townsfolk."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 },
                                 {
                                     "part_num": 2,
@@ -4688,7 +4906,16 @@
                                     "realm_time": "Fourth Afternoon of the Twin Moons, Cloudbrook Orchard Terrace",
                                     "start_time": "13:45",
                                     "location": "The Waterwheel Tea-Terrace, Cloudbrook Hollow, Vaeloria",
-                                    "excerpt": "If Regional Mobility Supply back in Tidewater ever saw what Cloudbrook Hollow's craftspeople did to our two Earth wheelchairs over one pot of spiced pear tea, their entire billing department would dissolve into\u2026"
+                                    "excerpt": "If Regional Mobility Supply back in Tidewater ever saw what Cloudbrook Hollow's craftspeople did to our two Earth wheelchairs over one pot of spiced pear tea, their entire billing department would dissolve into\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p002_vaeloria_tea_terrace_three_keepers.jpg",
+                                    "image_alt": "In warm golden afternoon sunlight on a blossom-draped rose-quartz stone terrace beside a gentle wooden waterwheel in Vaeloria, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) sit in their newly cushioned manual wheelchairs across a low round cedar tea-table beside Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee), examining rolled twin-moon star-vellum charts and carved runic slates over steaming earthenware teacups while their four silver and charcoal Lofstrand forearm crutches rest neatly in their wheelchair backrest pockets.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p002_vaeloria_tea_terrace_three_keepers.jpg",
+                                            "alt": "In warm golden afternoon sunlight on a blossom-draped rose-quartz stone terrace beside a gentle wooden waterwheel in Vaeloria, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) sit in their newly cushioned manual wheelchairs across a low round cedar tea-table beside Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee), examining rolled twin-moon star-vellum charts and carved runic slates over steaming earthenware teacups while their four silver and charcoal Lofstrand forearm crutches rest neatly in their wheelchair backrest pockets."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 }
                             ]
                         },
@@ -4696,7 +4923,7 @@
                             "chap_num": 7,
                             "chap_title": "Chapter 7: Sixteen Glowing Archways and the Open Horizon",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-7-sixteen-glowing-archways-and-the-open-horizon",
-                            "illustration_count": 0,
+                            "illustration_count": 1,
                             "word_count": 867,
                             "parts": [
                                 {
@@ -4709,7 +4936,16 @@
                                     "realm_time": "Twenty-First Sunset of the Twin Moons, The Uncharted Waystation",
                                     "start_time": "18:50",
                                     "location": "The Moon-Glass Observatory & Star-Court Parapet, The Uncharted Waystation, Vaeloria",
-                                    "excerpt": "Three weeks of Vaeloria sunrises had turned Keepers' Hall from an astonishing miracle into the warmest, most natural daily routine the three of us had ever known. Every morning began at our own unhurried pace\u2026"
+                                    "excerpt": "Three weeks of Vaeloria sunrises had turned Keepers' Hall from an astonishing miracle into the warmest, most natural daily routine the three of us had ever known. Every morning began at our own unhurried pace\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c007_p001_moon_glass_observatory_horizon.jpg",
+                                    "image_alt": "At a luminous copper-and-violet 1980s fantasy sunset high on the rose-quartz Star-Court parapet of the Uncharted Waystation beneath two crystal-clear moons, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) stands on his matte-silver single-tube Lofstrand forearm crutches right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee, on her matte-charcoal single-tube Lofstrand forearm crutches holding a brass star-sight) on his right and his girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, holding a brass-inlaid runic slate) on his left, looking out past the Three-Ring Bronze Astrolabe and sixteen glowing stained-glass portal archways toward vast unexplored valleys and shimmering seas of Vaeloria.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c007_p001_moon_glass_observatory_horizon.jpg",
+                                            "alt": "At a luminous copper-and-violet 1980s fantasy sunset high on the rose-quartz Star-Court parapet of the Uncharted Waystation beneath two crystal-clear moons, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) stands on his matte-silver single-tube Lofstrand forearm crutches right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee, on her matte-charcoal single-tube Lofstrand forearm crutches holding a brass star-sight) on his right and his girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, holding a brass-inlaid runic slate) on his left, looking out past the Three-Ring Bronze Astrolabe and sixteen glowing stained-glass portal archways toward vast unexplored valleys and shimmering seas of Vaeloria."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 }
                             ]
                         }
@@ -4858,14 +5094,14 @@
                     "era_num": 2,
                     "era_title": "Book Two: Vaeloria \u2014 Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift#rejoin-whisperwood-moss-road",
-                    "illustration_count": 0,
+                    "illustration_count": 5,
                     "word_count": 3654,
                     "chapters": [
                         {
                             "chap_num": 5,
                             "chap_title": "Chapter 5: First Night Beneath the Twin-Moon Skylight",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-5-first-night-beneath-the-twin-moon-skylight",
-                            "illustration_count": 0,
+                            "illustration_count": 2,
                             "word_count": 996,
                             "parts": [
                                 {
@@ -4878,7 +5114,20 @@
                                     "realm_time": "Third Night of the Twin Moons, Keepers' Hall",
                                     "start_time": "22:30",
                                     "location": "The Twin-Moon Sleeping Alcove, Keepers' Hall, The Uncharted Waystation",
-                                    "excerpt": "Back in Virginia Beach, my own efficiency apartment had a galley counter thirty-six inches high designed exclusively for standing cooks, and Studio 205 in Norfolk squeezed Nolan's four-burner gas stove so tight\u2026"
+                                    "excerpt": "Back in Virginia Beach, my own efficiency apartment had a galley counter thirty-six inches high designed exclusively for standing cooks, and Studio 205 in Norfolk squeezed Nolan's four-burner gas stove so tight\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_peaceful_sleep.jpg",
+                                    "image_alt": "Beneath a crystal twin-moon skylight inside honeyed-cedar Keepers' Hall, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) sleeps deeply and peacefully right in the middle of a wide nine-foot carved cedar canopy bed between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) curled warmly on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, cream tee, silver glasses resting on the cedar shelf beside Grandpa Walter's back-angled framed photo) curled affectionately on his other side under cloud-wool quilts and Grandpa Walter's green-and-navy plaid wool blanket, with their two manual wheelchairs and four Lofstrand forearm crutches resting by the warm hearth.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_peaceful_sleep.jpg",
+                                            "alt": "Beneath a crystal twin-moon skylight inside honeyed-cedar Keepers' Hall, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) sleeps deeply and peacefully right in the middle of a wide nine-foot carved cedar canopy bed between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) curled warmly on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, cream tee, silver glasses resting on the cedar shelf beside Grandpa Walter's back-angled framed photo) curled affectionately on his other side under cloud-wool quilts and Grandpa Walter's green-and-navy plaid wool blanket, with their two manual wheelchairs and four Lofstrand forearm crutches resting by the warm hearth."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_night_comfort_trauma.jpg",
+                                            "alt": "Beneath double moonlight filtering through the crystal skylight of Keepers' Hall, twenty-four-year-old Nolan Lennox sits jolted upright and frightened in the wide carved cedar canopy bed under cloud-wool quilts and Grandpa Walter's plaid wool blanket while his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wraps both arms around his shoulders in a steady safe-person hug on one side and girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, thin silver wire-rimmed glasses) sits close beside him holding both of his hands calmly on his other side beside Grandpa Walter's back-angled silver photo frame and their resting wheelchairs and forearm crutches."
+                                        }
+                                    ],
+                                    "image_count": 2
                                 }
                             ]
                         },
@@ -4886,7 +5135,7 @@
                             "chap_num": 6,
                             "chap_title": "Chapter 6: Rolling Down to Cloudbrook Hollow",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-6-rolling-down-to-cloudbrook-hollow",
-                            "illustration_count": 0,
+                            "illustration_count": 2,
                             "word_count": 1791,
                             "parts": [
                                 {
@@ -4899,7 +5148,16 @@
                                     "realm_time": "Fourth Morning of the Twin Moons, Cloudbrook Hollow",
                                     "start_time": "10:15",
                                     "location": "Sun-Terrace Causeway & Cloudbrook Artisan Market, Inner Valley of Vaeloria",
-                                    "excerpt": "There is no word in English big enough for the feeling of pushing both palms forward on your manual wheelchair's push-rims and discovering an entire town where nobody forgot to pour the curb cuts. At ten-fifteen\u2026"
+                                    "excerpt": "There is no word in English big enough for the feeling of pushing both palms forward on your manual wheelchair's push-rims and discovering an entire town where nobody forgot to pour the curb cuts. At ten-fifteen\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p001_cloudbrook_market_wheelchairs.jpg",
+                                    "image_alt": "On a bright 1980s fantasy morning in Vaeloria's sunlit mountain-valley village of Cloudbrook Hollow, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) roll side by side in their two manual wheelchairs\u2014with their matte-silver and matte-charcoal Lofstrand forearm crutches stowed neatly upright in their rear backrest pockets\u2014along satin-smooth rose-quartz flagstones beside girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her right ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, canvas sneakers) past warm timber bakeries, blown-glass lantern stalls, and smiling townsfolk.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p001_cloudbrook_market_wheelchairs.jpg",
+                                            "alt": "On a bright 1980s fantasy morning in Vaeloria's sunlit mountain-valley village of Cloudbrook Hollow, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) roll side by side in their two manual wheelchairs\u2014with their matte-silver and matte-charcoal Lofstrand forearm crutches stowed neatly upright in their rear backrest pockets\u2014along satin-smooth rose-quartz flagstones beside girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her right ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, canvas sneakers) past warm timber bakeries, blown-glass lantern stalls, and smiling townsfolk."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 },
                                 {
                                     "part_num": 2,
@@ -4911,7 +5169,16 @@
                                     "realm_time": "Fourth Afternoon of the Twin Moons, Cloudbrook Orchard Terrace",
                                     "start_time": "13:45",
                                     "location": "The Waterwheel Tea-Terrace, Cloudbrook Hollow, Vaeloria",
-                                    "excerpt": "If Regional Mobility Supply back in Tidewater ever saw what Cloudbrook Hollow's craftspeople did to our two Earth wheelchairs over one pot of spiced pear tea, their entire billing department would dissolve into\u2026"
+                                    "excerpt": "If Regional Mobility Supply back in Tidewater ever saw what Cloudbrook Hollow's craftspeople did to our two Earth wheelchairs over one pot of spiced pear tea, their entire billing department would dissolve into\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p002_vaeloria_tea_terrace_three_keepers.jpg",
+                                    "image_alt": "In warm golden afternoon sunlight on a blossom-draped rose-quartz stone terrace beside a gentle wooden waterwheel in Vaeloria, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) sit in their newly cushioned manual wheelchairs across a low round cedar tea-table beside Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee), examining rolled twin-moon star-vellum charts and carved runic slates over steaming earthenware teacups while their four silver and charcoal Lofstrand forearm crutches rest neatly in their wheelchair backrest pockets.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p002_vaeloria_tea_terrace_three_keepers.jpg",
+                                            "alt": "In warm golden afternoon sunlight on a blossom-draped rose-quartz stone terrace beside a gentle wooden waterwheel in Vaeloria, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) sit in their newly cushioned manual wheelchairs across a low round cedar tea-table beside Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee), examining rolled twin-moon star-vellum charts and carved runic slates over steaming earthenware teacups while their four silver and charcoal Lofstrand forearm crutches rest neatly in their wheelchair backrest pockets."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 }
                             ]
                         },
@@ -4919,7 +5186,7 @@
                             "chap_num": 7,
                             "chap_title": "Chapter 7: Sixteen Glowing Archways and the Open Horizon",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-7-sixteen-glowing-archways-and-the-open-horizon",
-                            "illustration_count": 0,
+                            "illustration_count": 1,
                             "word_count": 867,
                             "parts": [
                                 {
@@ -4932,7 +5199,16 @@
                                     "realm_time": "Twenty-First Sunset of the Twin Moons, The Uncharted Waystation",
                                     "start_time": "18:50",
                                     "location": "The Moon-Glass Observatory & Star-Court Parapet, The Uncharted Waystation, Vaeloria",
-                                    "excerpt": "Three weeks of Vaeloria sunrises had turned Keepers' Hall from an astonishing miracle into the warmest, most natural daily routine the three of us had ever known. Every morning began at our own unhurried pace\u2026"
+                                    "excerpt": "Three weeks of Vaeloria sunrises had turned Keepers' Hall from an astonishing miracle into the warmest, most natural daily routine the three of us had ever known. Every morning began at our own unhurried pace\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c007_p001_moon_glass_observatory_horizon.jpg",
+                                    "image_alt": "At a luminous copper-and-violet 1980s fantasy sunset high on the rose-quartz Star-Court parapet of the Uncharted Waystation beneath two crystal-clear moons, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) stands on his matte-silver single-tube Lofstrand forearm crutches right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee, on her matte-charcoal single-tube Lofstrand forearm crutches holding a brass star-sight) on his right and his girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, holding a brass-inlaid runic slate) on his left, looking out past the Three-Ring Bronze Astrolabe and sixteen glowing stained-glass portal archways toward vast unexplored valleys and shimmering seas of Vaeloria.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c007_p001_moon_glass_observatory_horizon.jpg",
+                                            "alt": "At a luminous copper-and-violet 1980s fantasy sunset high on the rose-quartz Star-Court parapet of the Uncharted Waystation beneath two crystal-clear moons, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) stands on his matte-silver single-tube Lofstrand forearm crutches right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee, on her matte-charcoal single-tube Lofstrand forearm crutches holding a brass star-sight) on his right and his girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, holding a brass-inlaid runic slate) on his left, looking out past the Three-Ring Bronze Astrolabe and sixteen glowing stained-glass portal archways toward vast unexplored valleys and shimmering seas of Vaeloria."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 }
                             ]
                         }
@@ -5081,14 +5357,14 @@
                     "era_num": 2,
                     "era_title": "Book Two: Vaeloria \u2014 Beyond the Studio Rift",
                     "era_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift#rejoin-brass-counterweight-way",
-                    "illustration_count": 0,
+                    "illustration_count": 5,
                     "word_count": 3654,
                     "chapters": [
                         {
                             "chap_num": 5,
                             "chap_title": "Chapter 5: First Night Beneath the Twin-Moon Skylight",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-5-first-night-beneath-the-twin-moon-skylight",
-                            "illustration_count": 0,
+                            "illustration_count": 2,
                             "word_count": 996,
                             "parts": [
                                 {
@@ -5101,7 +5377,20 @@
                                     "realm_time": "Third Night of the Twin Moons, Keepers' Hall",
                                     "start_time": "22:30",
                                     "location": "The Twin-Moon Sleeping Alcove, Keepers' Hall, The Uncharted Waystation",
-                                    "excerpt": "Back in Virginia Beach, my own efficiency apartment had a galley counter thirty-six inches high designed exclusively for standing cooks, and Studio 205 in Norfolk squeezed Nolan's four-burner gas stove so tight\u2026"
+                                    "excerpt": "Back in Virginia Beach, my own efficiency apartment had a galley counter thirty-six inches high designed exclusively for standing cooks, and Studio 205 in Norfolk squeezed Nolan's four-burner gas stove so tight\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_peaceful_sleep.jpg",
+                                    "image_alt": "Beneath a crystal twin-moon skylight inside honeyed-cedar Keepers' Hall, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) sleeps deeply and peacefully right in the middle of a wide nine-foot carved cedar canopy bed between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) curled warmly on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, cream tee, silver glasses resting on the cedar shelf beside Grandpa Walter's back-angled framed photo) curled affectionately on his other side under cloud-wool quilts and Grandpa Walter's green-and-navy plaid wool blanket, with their two manual wheelchairs and four Lofstrand forearm crutches resting by the warm hearth.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_peaceful_sleep.jpg",
+                                            "alt": "Beneath a crystal twin-moon skylight inside honeyed-cedar Keepers' Hall, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) sleeps deeply and peacefully right in the middle of a wide nine-foot carved cedar canopy bed between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) curled warmly on one side and his girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, cream tee, silver glasses resting on the cedar shelf beside Grandpa Walter's back-angled framed photo) curled affectionately on his other side under cloud-wool quilts and Grandpa Walter's green-and-navy plaid wool blanket, with their two manual wheelchairs and four Lofstrand forearm crutches resting by the warm hearth."
+                                        },
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/waystation_keepers_bed_night_comfort_trauma.jpg",
+                                            "alt": "Beneath double moonlight filtering through the crystal skylight of Keepers' Hall, twenty-four-year-old Nolan Lennox sits jolted upright and frightened in the wide carved cedar canopy bed under cloud-wool quilts and Grandpa Walter's plaid wool blanket while his taller nineteen-year-old sister Gwen Lennox (6-foot-1) wraps both arms around his shoulders in a steady safe-person hug on one side and girlfriend Mallory Walsh (5-foot-5, copper-auburn braid, thin silver wire-rimmed glasses) sits close beside him holding both of his hands calmly on his other side beside Grandpa Walter's back-angled silver photo frame and their resting wheelchairs and forearm crutches."
+                                        }
+                                    ],
+                                    "image_count": 2
                                 }
                             ]
                         },
@@ -5109,7 +5398,7 @@
                             "chap_num": 6,
                             "chap_title": "Chapter 6: Rolling Down to Cloudbrook Hollow",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-6-rolling-down-to-cloudbrook-hollow",
-                            "illustration_count": 0,
+                            "illustration_count": 2,
                             "word_count": 1791,
                             "parts": [
                                 {
@@ -5122,7 +5411,16 @@
                                     "realm_time": "Fourth Morning of the Twin Moons, Cloudbrook Hollow",
                                     "start_time": "10:15",
                                     "location": "Sun-Terrace Causeway & Cloudbrook Artisan Market, Inner Valley of Vaeloria",
-                                    "excerpt": "There is no word in English big enough for the feeling of pushing both palms forward on your manual wheelchair's push-rims and discovering an entire town where nobody forgot to pour the curb cuts. At ten-fifteen\u2026"
+                                    "excerpt": "There is no word in English big enough for the feeling of pushing both palms forward on your manual wheelchair's push-rims and discovering an entire town where nobody forgot to pour the curb cuts. At ten-fifteen\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p001_cloudbrook_market_wheelchairs.jpg",
+                                    "image_alt": "On a bright 1980s fantasy morning in Vaeloria's sunlit mountain-valley village of Cloudbrook Hollow, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) roll side by side in their two manual wheelchairs\u2014with their matte-silver and matte-charcoal Lofstrand forearm crutches stowed neatly upright in their rear backrest pockets\u2014along satin-smooth rose-quartz flagstones beside girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her right ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, canvas sneakers) past warm timber bakeries, blown-glass lantern stalls, and smiling townsfolk.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p001_cloudbrook_market_wheelchairs.jpg",
+                                            "alt": "On a bright 1980s fantasy morning in Vaeloria's sunlit mountain-valley village of Cloudbrook Hollow, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee and jeans) roll side by side in their two manual wheelchairs\u2014with their matte-silver and matte-charcoal Lofstrand forearm crutches stowed neatly upright in their rear backrest pockets\u2014along satin-smooth rose-quartz flagstones beside girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her right ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, canvas sneakers) past warm timber bakeries, blown-glass lantern stalls, and smiling townsfolk."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 },
                                 {
                                     "part_num": 2,
@@ -5134,7 +5432,16 @@
                                     "realm_time": "Fourth Afternoon of the Twin Moons, Cloudbrook Orchard Terrace",
                                     "start_time": "13:45",
                                     "location": "The Waterwheel Tea-Terrace, Cloudbrook Hollow, Vaeloria",
-                                    "excerpt": "If Regional Mobility Supply back in Tidewater ever saw what Cloudbrook Hollow's craftspeople did to our two Earth wheelchairs over one pot of spiced pear tea, their entire billing department would dissolve into\u2026"
+                                    "excerpt": "If Regional Mobility Supply back in Tidewater ever saw what Cloudbrook Hollow's craftspeople did to our two Earth wheelchairs over one pot of spiced pear tea, their entire billing department would dissolve into\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p002_vaeloria_tea_terrace_three_keepers.jpg",
+                                    "image_alt": "In warm golden afternoon sunlight on a blossom-draped rose-quartz stone terrace beside a gentle wooden waterwheel in Vaeloria, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) sit in their newly cushioned manual wheelchairs across a low round cedar tea-table beside Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee), examining rolled twin-moon star-vellum charts and carved runic slates over steaming earthenware teacups while their four silver and charcoal Lofstrand forearm crutches rest neatly in their wheelchair backrest pockets.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c006_p002_vaeloria_tea_terrace_three_keepers.jpg",
+                                            "alt": "In warm golden afternoon sunlight on a blossom-draped rose-quartz stone terrace beside a gentle wooden waterwheel in Vaeloria, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee) and his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee) sit in their newly cushioned manual wheelchairs across a low round cedar tea-table beside Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee), examining rolled twin-moon star-vellum charts and carved runic slates over steaming earthenware teacups while their four silver and charcoal Lofstrand forearm crutches rest neatly in their wheelchair backrest pockets."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 }
                             ]
                         },
@@ -5142,7 +5449,7 @@
                             "chap_num": 7,
                             "chap_title": "Chapter 7: Sixteen Glowing Archways and the Open Horizon",
                             "chap_url": "/raggiesoft-books/books/waystation/book-two-vaeloria-beyond-the-studio-rift/chapter-7-sixteen-glowing-archways-and-the-open-horizon",
-                            "illustration_count": 0,
+                            "illustration_count": 1,
                             "word_count": 867,
                             "parts": [
                                 {
@@ -5155,7 +5462,16 @@
                                     "realm_time": "Twenty-First Sunset of the Twin Moons, The Uncharted Waystation",
                                     "start_time": "18:50",
                                     "location": "The Moon-Glass Observatory & Star-Court Parapet, The Uncharted Waystation, Vaeloria",
-                                    "excerpt": "Three weeks of Vaeloria sunrises had turned Keepers' Hall from an astonishing miracle into the warmest, most natural daily routine the three of us had ever known. Every morning began at our own unhurried pace\u2026"
+                                    "excerpt": "Three weeks of Vaeloria sunrises had turned Keepers' Hall from an astonishing miracle into the warmest, most natural daily routine the three of us had ever known. Every morning began at our own unhurried pace\u2026",
+                                    "image": "/raggiesoft-books/images/scenes/waystation/e002/e002_c007_p001_moon_glass_observatory_horizon.jpg",
+                                    "image_alt": "At a luminous copper-and-violet 1980s fantasy sunset high on the rose-quartz Star-Court parapet of the Uncharted Waystation beneath two crystal-clear moons, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) stands on his matte-silver single-tube Lofstrand forearm crutches right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee, on her matte-charcoal single-tube Lofstrand forearm crutches holding a brass star-sight) on his right and his girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, holding a brass-inlaid runic slate) on his left, looking out past the Three-Ring Bronze Astrolabe and sixteen glowing stained-glass portal archways toward vast unexplored valleys and shimmering seas of Vaeloria.",
+                                    "images": [
+                                        {
+                                            "src": "/raggiesoft-books/images/scenes/waystation/e002/e002_c007_p001_moon_glass_observatory_horizon.jpg",
+                                            "alt": "At a luminous copper-and-violet 1980s fantasy sunset high on the rose-quartz Star-Court parapet of the Uncharted Waystation beneath two crystal-clear moons, twenty-four-year-old Nolan Lennox (5-foot-7, navy tee and jeans) stands on his matte-silver single-tube Lofstrand forearm crutches right in the middle between his taller nineteen-year-old sister Gwen Lennox (6-foot-1, burgundy tee, on her matte-charcoal single-tube Lofstrand forearm crutches holding a brass star-sight) on his right and his girlfriend Mallory Walsh (5-foot-5, copper-auburn ponytail with blue pen behind her ear, thin silver wire-rimmed glasses, forest-green cardigan over cream tee, holding a brass-inlaid runic slate) on his left, looking out past the Three-Ring Bronze Astrolabe and sixteen glowing stained-glass portal archways toward vast unexplored valleys and shimmering seas of Vaeloria."
+                                        }
+                                    ],
+                                    "image_count": 1
                                 }
                             ]
                         }
