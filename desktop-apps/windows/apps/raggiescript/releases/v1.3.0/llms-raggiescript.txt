@@ -2,7 +2,7 @@
 
 > **MANDATORY COLD-START INSTRUCTION FOR AI AGENTS**:
 > Whenever authoring, editing, formatting, type-checking, unit-testing, or extending **`RaggieScript` (`.rssc`)**, read **100% of this file** alongside [`.agents/skills/raggiesoft-raggiescript/SKILL.md`](../.agents/skills/raggiesoft-raggiescript/SKILL.md) and [`llms/llms-desktop-and-studio-apps.txt`](llms-desktop-and-studio-apps.txt).
-> **Canonical Live Docs Portal**: [`https://raggiescript.raggiesoft.dev`](https://raggiescript.raggiesoft.dev) (17 chapters, 260+ indexed APIs, compiled by **RaggieSoft Help Studio v0.6.0**).
+> **Canonical RaggieSoft Reference Portal**: [`https://raggiescript.raggiesoft.dev`](https://raggiescript.raggiesoft.dev) (17 chapters, 260+ indexed APIs, compiled by **RaggieSoft Help Studio v0.6.0**).
 
 ---
 

@@ -10,24 +10,24 @@
     "ebook_sizes": {
         "epub": "13.9 MB",
         "pdf": "13.3 MB",
-        "text_epub": "194 KB",
-        "text_pdf": "481 KB",
-        "package_7z": "132 KB",
-        "epub_bytes": 14558989,
-        "pdf_bytes": 13962695,
-        "text_epub_bytes": 198623,
-        "text_pdf_bytes": 492887,
-        "package_7z_bytes": 135199
+        "text_epub": "195 KB",
+        "text_pdf": "485 KB",
+        "package_7z": "133 KB",
+        "epub_bytes": 14560491,
+        "pdf_bytes": 13967346,
+        "text_epub_bytes": 200143,
+        "text_pdf_bytes": 496779,
+        "package_7z_bytes": 136284
     },
     "illustration_count": 45,
     "word_stats": {
-        "story_word_count": 64904,
-        "lore_word_count": 9279,
-        "combined_word_count": 74183,
-        "story_page_count": 236,
-        "combined_page_count": 270,
-        "reading_hours": 4.3,
-        "reading_minutes": 260,
+        "story_word_count": 65567,
+        "lore_word_count": 9329,
+        "combined_word_count": 74896,
+        "story_page_count": 238,
+        "combined_page_count": 272,
+        "reading_hours": 4.4,
+        "reading_minutes": 262,
         "novel_equivalent": 0.7,
         "scale_category": "Compact Novel",
         "scale_badge": "Compact Novel",
@@ -45,14 +45,14 @@
             "era_title": "Book One: Tidewater and Studio 205",
             "era_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205",
             "illustration_count": 13,
-            "word_count": 34824,
+            "word_count": 35183,
             "chapters": [
                 {
                     "chap_num": 1,
                     "chap_title": "Chapter 1: Two Names on One Studio Lease",
                     "chap_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease",
                     "illustration_count": 13,
-                    "word_count": 34824,
+                    "word_count": 35183,
                     "parts": [
                         {
                             "part_num": 1,
@@ -228,8 +228,8 @@
                             "part_title": "Part 10: Rolling Out Past the Lockers, Denise's Turned-Off Meter, and Safe Home to Emerald Creek",
                             "file_path": "e001/c001/p010.md",
                             "url": "/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease/part-10-rolling-out-past-the-lockers-denise-s-turned-off-meter-and-safe-home-to-emerald-creek",
-                            "word_count": 2686,
-                            "reading_minutes": 11,
+                            "word_count": 3045,
+                            "reading_minutes": 13,
                             "date": "2001-08-21",
                             "start_time": "09:51",
                             "location": "Norfolk Pathfinder Terminal on Monticello Avenue to Grandpa Walter's Porch & Emerald Creek Blue Tech, Virginia",
@@ -505,8 +505,8 @@
                         "norfolk-pathfinder-terminal-2001": "lock-wheelchair-brakes-emerald-creek"
                     },
                     "part_count": 12,
-                    "word_count": 20841,
-                    "reading_minutes": 84,
+                    "word_count": 21200,
+                    "reading_minutes": 85,
                     "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg"
                 },
                 {
@@ -549,8 +549,8 @@
                         "norfolk-bay-four-boarding-2001": "ticket-snap-refuse-boarding"
                     },
                     "part_count": 1,
-                    "word_count": 1881,
-                    "reading_minutes": 8,
+                    "word_count": 2185,
+                    "reading_minutes": 9,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg"
                 },
                 {
@@ -963,8 +963,8 @@
                 "norfolk-bay-four-boarding-2001": "ticket-snap-refuse-boarding"
             },
             "part_count": 1,
-            "word_count": 1881,
-            "reading_minutes": 8,
+            "word_count": 2185,
+            "reading_minutes": 9,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
             "eras": [
                 {
@@ -972,22 +972,22 @@
                     "era_title": "Gate Four Route: Refusing the Steps and Denise\u2019s Cab Home",
                     "era_url": "/raggiesoft-books/books/waystation/paths/ticket-snap-refuse-boarding/gate-four-route-refusing-the-steps-and-denise-s-cab-home",
                     "illustration_count": 2,
-                    "word_count": 1881,
+                    "word_count": 2185,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Dropped Mask at Bay Four and Denise's Cab Home",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/ticket-snap-refuse-boarding/gate-four-route-refusing-the-steps-and-denise-s-cab-home/chapter-1b-dropped-mask-at-bay-four-and-denise-s-cab-home",
                             "illustration_count": 2,
-                            "word_count": 1881,
+                            "word_count": 2185,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Snapping at Gate Four, Refusing the Steps, and Denise's Cab Home",
                                     "file_path": "paths/ticket-snap-refuse-boarding/e001/c001/p001.md",
                                     "url": "/waystation/paths/ticket-snap-refuse-boarding/gate-four-route-refusing-the-steps-and-denise-s-cab-home/chapter-1b-dropped-mask-at-bay-four-and-denise-s-cab-home/snapping-at-gate-four-refusing-the-steps-and-denise-s-cab-home",
-                                    "word_count": 1881,
-                                    "reading_minutes": 8,
+                                    "word_count": 2185,
+                                    "reading_minutes": 9,
                                     "path_id": "ticket-snap-refuse-boarding",
                                     "date": "2001-08-21",
                                     "start_time": "09:57",
@@ -1928,8 +1928,8 @@
                 "norfolk-pathfinder-terminal-2001": "lock-wheelchair-brakes-emerald-creek"
             },
             "part_count": 12,
-            "word_count": 20841,
-            "reading_minutes": 84,
+            "word_count": 21200,
+            "reading_minutes": 85,
             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
             "eras": [
                 {
@@ -1937,22 +1937,22 @@
                     "era_title": "Book One: Tidewater and Studio 205",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205",
                     "illustration_count": 6,
-                    "word_count": 16991,
+                    "word_count": 17350,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease",
                             "illustration_count": 6,
-                            "word_count": 16991,
+                            "word_count": 17350,
                             "parts": [
                                 {
                                     "part_num": 10,
                                     "part_title": "Part 10: Rolling Out Past the Lockers, Denise's Turned-Off Meter, and Safe Home to Emerald Creek",
                                     "file_path": "e001/c001/p010.md",
                                     "url": "/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease/part-10-rolling-out-past-the-lockers-denise-s-turned-off-meter-and-safe-home-to-emerald-creek",
-                                    "word_count": 2686,
-                                    "reading_minutes": 11,
+                                    "word_count": 3045,
+                                    "reading_minutes": 13,
                                     "date": "2001-08-21",
                                     "start_time": "09:51",
                                     "location": "Norfolk Pathfinder Terminal on Monticello Avenue to Grandpa Walter's Porch & Emerald Creek Blue Tech, Virginia",
@@ -2910,8 +2910,8 @@
                 "norfolk-bay-four-boarding-2001": "ticket-snap-refuse-boarding"
             },
             "part_count": 1,
-            "word_count": 1881,
-            "reading_minutes": 8,
+            "word_count": 2185,
+            "reading_minutes": 9,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/exodus_p001_norfolk_bay4_boarding.jpg",
             "eras": [
                 {
@@ -2919,22 +2919,22 @@
                     "era_title": "Gate Four Route: Refusing the Steps and Denise\u2019s Cab Home",
                     "era_url": "/raggiesoft-books/books/waystation/paths/ticket-snap-refuse-boarding/gate-four-route-refusing-the-steps-and-denise-s-cab-home",
                     "illustration_count": 2,
-                    "word_count": 1881,
+                    "word_count": 2185,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Dropped Mask at Bay Four and Denise's Cab Home",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/ticket-snap-refuse-boarding/gate-four-route-refusing-the-steps-and-denise-s-cab-home/chapter-1b-dropped-mask-at-bay-four-and-denise-s-cab-home",
                             "illustration_count": 2,
-                            "word_count": 1881,
+                            "word_count": 2185,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Snapping at Gate Four, Refusing the Steps, and Denise's Cab Home",
                                     "file_path": "paths/ticket-snap-refuse-boarding/e001/c001/p001.md",
                                     "url": "/waystation/paths/ticket-snap-refuse-boarding/gate-four-route-refusing-the-steps-and-denise-s-cab-home/chapter-1b-dropped-mask-at-bay-four-and-denise-s-cab-home/snapping-at-gate-four-refusing-the-steps-and-denise-s-cab-home",
-                                    "word_count": 1881,
-                                    "reading_minutes": 8,
+                                    "word_count": 2185,
+                                    "reading_minutes": 9,
                                     "path_id": "ticket-snap-refuse-boarding",
                                     "date": "2001-08-21",
                                     "start_time": "09:57",
@@ -3875,8 +3875,8 @@
                 "norfolk-pathfinder-terminal-2001": "lock-wheelchair-brakes-emerald-creek"
             },
             "part_count": 12,
-            "word_count": 20841,
-            "reading_minutes": 84,
+            "word_count": 21200,
+            "reading_minutes": 85,
             "image": "/raggiesoft-books/images/scenes/waystation/e001/e001_c001_p001_safe_home_emerald_creek_porch.jpg",
             "eras": [
                 {
@@ -3884,22 +3884,22 @@
                     "era_title": "Book One: Tidewater and Studio 205",
                     "era_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205",
                     "illustration_count": 6,
-                    "word_count": 16991,
+                    "word_count": 17350,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1: Two Names on One Studio Lease",
                             "chap_url": "/raggiesoft-books/books/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease",
                             "illustration_count": 6,
-                            "word_count": 16991,
+                            "word_count": 17350,
                             "parts": [
                                 {
                                     "part_num": 10,
                                     "part_title": "Part 10: Rolling Out Past the Lockers, Denise's Turned-Off Meter, and Safe Home to Emerald Creek",
                                     "file_path": "e001/c001/p010.md",
                                     "url": "/waystation/book-one-tidewater-and-studio-205/chapter-1-two-names-on-one-studio-lease/part-10-rolling-out-past-the-lockers-denise-s-turned-off-meter-and-safe-home-to-emerald-creek",
-                                    "word_count": 2686,
-                                    "reading_minutes": 11,
+                                    "word_count": 3045,
+                                    "reading_minutes": 13,
                                     "date": "2001-08-21",
                                     "start_time": "09:51",
                                     "location": "Norfolk Pathfinder Terminal on Monticello Avenue to Grandpa Walter's Porch & Emerald Creek Blue Tech, Virginia",
