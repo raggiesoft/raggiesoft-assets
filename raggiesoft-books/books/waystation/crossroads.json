@@ -5,12 +5,12 @@
             "trigger_part": "e001/c001/p009.md",
             "kicker": "Story Crossroads • Tuesday, August 21, 2001, 9:50 AM — 1961 Norfolk Pathfinder Terminal",
             "title": "Inside the Monticello Locker Alcove: Does Nolan Reject Tammy Now or Wait While She Buys Tickets?",
-            "prompt": "Wheeled six feet behind the thick concrete column into the recessed steel coin-locker alcove leading to the 1961 Monticello Avenue terminal's separate Men's and Women's restrooms—shielded from concourse security by the lockers, Tammy's back, and her open baby-blue cardigan wings—twenty-three-year-old Nolan Lennox faces Tammy's ultimate trump card: a silent two-second flash beneath her braless shelf-bra camisole and a soft Week-One promise of zero yelling in Seattle plus a payphone call to Blue Tech in Richmond. Every option opens a complete, coequal story route returning Nolan home to Studio 205 and Mallory Walsh before Vaeloria.",
+            "prompt": "Wheeled six feet behind the thick concrete column into the recessed steel coin-locker alcove leading to the 1961 Monticello Avenue terminal's separate Men's and Women's restrooms—shielded from concourse security by the lockers, Tammy's back, and her open baby-blue cardigan wings—twenty-three-year-old Nolan Lennox faces Tammy's ultimate trump card: a silent two-second flash beneath her braless shelf-bra camisole and a soft Week-One promise of zero yelling in Seattle plus a payphone call to Blue Tech in Richmond. Every option opens a complete, coequal story route.",
             "options": [
                 {
                     "id": "lock-wheelchair-brakes-emerald-creek",
                     "label": "Reject Tammy's Promise & Roll Out Before She Buys Tickets",
-                    "subtitle": "Realize peaceful, yell-free hugs with Gwen beat empty promises every time—rolling straight out from behind the lockers into plain view of thirty witnesses to lock your wheelchair brakes, break up for good, and ride straight home at zero charge in kind Norfolk cabbie Denise Carter's taxi.",
+                    "subtitle": "Realize peaceful, yell-free hugs with Gwen beat empty promises every time—rolling straight out from behind the lockers into plain view of the waiting room to lock your wheelchair brakes, tell Tammy you're breaking up for good, and head back home to Gwen and Grandpa Walter in Emerald Creek.",
                     "source_type": "inline_continuation",
                     "entry_part": "e001/c001/p010.md",
                     "forbidden_terms": [
@@ -24,7 +24,7 @@
                 {
                     "id": "norfolk-ticket-counter",
                     "label": "Believe Tammy's Promise While She Buys the Ninety-Nine-Dollar Tickets",
-                    "subtitle": "Take Tammy's velvet Week-One promise and Richmond payphone assurance at face value—waiting beside the lockers while she buys two walk-up cash tickets to Seattle and wheels you out to Gate Four, where the Richmond coach has no wheelchair lift.",
+                    "subtitle": "Take Tammy's velvet Week-One promise and Richmond payphone assurance at face value—easing your hands off your wheel locks and waiting in the concourse while she walks up to the counter to buy two ninety-nine-dollar cash tickets to Seattle.",
                     "source_type": "paths_dir",
                     "source_dir": "paths/norfolk-ticket-counter",
                     "entry_part": "paths/norfolk-ticket-counter/e001/c001/p001.md",
@@ -42,12 +42,12 @@
             "trigger_part": "paths/norfolk-ticket-counter/e001/c001/p001.md",
             "kicker": "Story Crossroads • Tuesday, August 21, 2001, 9:56 AM — Gate Four, Norfolk Pathfinder Terminal",
             "title": "Paid Tickets and Four Steep Steps: Does Tammy Snap or Keep Her Week-One Voice?",
-            "prompt": "With two freshly printed ninety-nine-dollar Seattle ticket folders in Tammy's hand, the Gate Four driver shakes his head at Nolan's manual wheelchair: nobody called corporate forty-eight hours ahead for a hydraulic lift, meaning Nolan's chair must ride folded in the luggage bay while he climbs four steep aluminum steps on his forearm crutches. If Tammy drops her sweet mask and snaps now, Nolan will refuse to board on the spot and go home; only if Tammy keeps every drop of her gentle Week-One voice will literal-minded Nolan trust her enough to climb aboard.",
+            "prompt": "With two freshly printed ninety-nine-dollar Seattle ticket folders in Tammy's hand, the Gate Four driver shakes his head at Nolan's manual wheelchair: nobody called corporate forty-eight hours ahead for a hydraulic lift, meaning Nolan's chair must ride folded in the luggage bay while he climbs four steep aluminum steps on his forearm crutches. What Tammy says next decides whether Nolan steps aboard.",
             "options": [
                 {
                     "id": "ticket-snap-refuse-boarding",
                     "label": "Tammy Snaps at Gate Four — Refuse to Board & Go Home",
-                    "subtitle": "The instant Tammy drops her sweet voice and barks at you in front of the boarding queue, wake up to the lie, roll straight back inside the waiting room to end things for good, and ride home free of charge in kind Norfolk cabbie Denise Carter's taxi—rejoining the mainline sequence.",
+                    "subtitle": "The instant Tammy drops her sweet voice and snaps at you in front of the boarding queue, wake up to the lie, ask the driver to pull your wheelchair back out of the luggage bay, and roll straight back inside the waiting room to break up for good and go home.",
                     "source_type": "paths_dir",
                     "source_dir": "paths/ticket-snap-refuse-boarding",
                     "entry_part": "paths/ticket-snap-refuse-boarding/e001/c001/p001.md",
@@ -63,7 +63,7 @@
                 {
                     "id": "seattle-pathfinder-exodus",
                     "label": "Tammy Keeps Her Sweet Week-One Voice — Board the Pathfinder",
-                    "subtitle": "Reassured by Tammy's warm, patient Week-One smile—promising to carry your footrests, call Blue Tech together in Richmond, and ask the Richmond desk for a lift coach—climb those four aluminum steps onto Gate Four before her mask drops a hundred miles up the highway.",
+                    "subtitle": "Reassured by Tammy's warm, patient Week-One smile—apologizing to the driver, carrying your metal footrests, and promising to call Blue Tech together in Richmond and ask the desk for a lift coach—trust her word and climb the four steep aluminum steps onto Gate Four.",
                     "source_type": "paths_dir",
                     "source_dir": "paths/seattle-pathfinder-exodus",
                     "entry_part": "paths/seattle-pathfinder-exodus/e001/c001/p001.md",
@@ -81,16 +81,16 @@
             "trigger_part": "paths/seattle-pathfinder-exodus/e001/c001/p003.md",
             "kicker": "Story Crossroads • Wednesday, August 22, 2001, 8:05 PM — Emerald Creek Blue Tech",
             "title": "Missed Shift Number One: Does Mallory Check on Nolan Tonight or Wait Until Friday?",
-            "prompt": "As Nolan's Pathfinder coach rolls west past St. Louis after his loose overhead wheelchair legrests crash down onto Tammy's head, eight-oh-five clicks onto the Emerald Creek Blue Tech breakroom timeclock—marking the first No-Call No-Show of Nolan's spotless two-year career. Quietly in love with Nolan yet bound both by respect for his relationship and by corporate HR's rule to wait until Friday's third missed shift, Computers Shift Supervisor Mallory Walsh stands beside her car four blocks from Grandpa Walter's house on Eden Way North. Both options return Nolan home to Studio 205 and Mallory before Vaeloria.",
+            "prompt": "Eight-oh-five clicks onto the Emerald Creek Blue Tech breakroom timeclock—marking the first No-Call No-Show of Nolan Lennox's spotless two-year career. Quietly in love with Nolan yet bound both by respect for his relationship and by corporate HR's rule to wait until Friday's third missed shift before calling an emergency contact, Computers Shift Supervisor Mallory Walsh stands beside her car four blocks from Grandpa Walter's house off Eden Way North.",
             "options": [
                 {
                     "id": "pasco-early-intercept",
-                    "label": "Drive Down Eden Way North Tonight & Intercept Pasco",
-                    "subtitle": "Break corporate HR's three-day waiting rule immediately on Wednesday night, uncover Tammy's cash Seattle route at Pinecrest Court with Gwen and Grandpa Walter on Thursday morning, and fly Meridian Airlines into Pasco Regional Airport to rescue Nolan minutes before Tammy leads him into the terminal restroom.",
+                    "label": "Drive Down Eden Way North Tonight",
+                    "subtitle": "Trust your gut over corporate HR's three-day waiting rule—driving four blocks down Eden Way North right after closing tonight to check on Nolan with Gwen and Grandpa Walter before another day slips away.",
                     "source_type": "paths_dir",
                     "source_dir": "paths/pasco-early-intercept",
                     "entry_part": "paths/pasco-early-intercept/e001/c001/p001.md",
-                    "rejoin_part": "e001/c002/p001.md",
+                    "rejoin_part": "e002/c001/p001.md",
                     "forbidden_terms": [
                         "Puget Sound General Hospital",
                         "RCW 9A.44.050",
@@ -101,12 +101,12 @@
                 },
                 {
                     "id": "seattle-full-exodus-rescue",
-                    "label": "Respect Workplace Boundaries & Wait Until Friday's Third No-Show",
-                    "subtitle": "Honor corporate protocol and relationship guardrails until Friday evening's automatic third-strike termination—leaving feverish Nolan to endure the full haul to Seattle, Puget Sound General Hospital, grounded post-9/11 skies, and missing Gwen's eighteenth birthday while Grandpa Walter refuses to die until Gwen and Mallory bring Nolan home.",
+                    "label": "Respect Corporate Protocol & Wait Until Friday's Third No-Show",
+                    "subtitle": "Honor corporate HR rules and off-the-clock boundaries—holding back until Friday evening's third missed shift gives you official reason to call Grandpa Walter's landline.",
                     "source_type": "paths_dir",
                     "source_dir": "paths/seattle-full-exodus-rescue",
                     "entry_part": "paths/seattle-full-exodus-rescue/e001/c001/p001.md",
-                    "rejoin_part": "e001/c002/p001.md",
+                    "rejoin_part": "e002/c001/p001.md",
                     "forbidden_terms": [
                         "Pasco Regional Airport",
                         "Five Minutes Before the Restroom Door",
@@ -117,7 +117,7 @@
         },
         {
             "id": "borderland-three-roads",
-            "trigger_part": "e001/c003/p001.md",
+            "trigger_part": "e002/c002/p001.md",
             "kicker": "Story Crossroads • Second Afternoon of the Twin Moons, The Sunken Milestone",
             "title": "Three Gentle Roads Toward the Waystation: How Do Nolan and Gwen Travel?",
             "prompt": "With both wheelchairs left behind in Studio 205 on Earth, barefoot twenty-four-year-old Nolan Lennox and his six-foot-one nineteen-year-old sister Gwen have learned why Vaeloria's sleeping Astrolabe answered Gwen's wish: only two inseparable, unhurried hearts can re-harmonize the twin rings and heal The Great Drift. Here at the Sunken Milestone, peddler Bramwell Kettle shows them three gentle 1980s-fantasy routes winding inward. Every option opens a complete, coequal story route.",
@@ -128,7 +128,7 @@
                     "subtitle": "Step onto barge-master Maren's wide reed-and-cedar lantern boat—cuddling barefoot on cushioned planks with forearm crutches stowed safe beside the gunwale while Gwen's astronomy eye guides the barge through the misty stars of The Great Drift.",
                     "source_type": "paths_dir",
                     "source_dir": "paths/lantern-barge-canal",
-                    "entry_part": "paths/lantern-barge-canal/e001/c004/p001.md",
+                    "entry_part": "paths/lantern-barge-canal/e002/c003/p001.md",
                     "forbidden_terms": [
                         "bioluminescent canopy",
                         "pilgrim shelter",
@@ -142,7 +142,7 @@
                     "subtitle": "Walk unhurriedly at your own forearm-crutch pace over three-inch velvet moss laid by the Slow-Footed Order, soaking bare feet in 98-degree mineral springs and curling up together in cozy stone shelters as your shared footsteps reawaken sleepy forest lanterns.",
                     "source_type": "paths_dir",
                     "source_dir": "paths/whisperwood-moss-road",
-                    "entry_part": "paths/whisperwood-moss-road/e001/c004/p001.md",
+                    "entry_part": "paths/whisperwood-moss-road/e002/c003/p001.md",
                     "forbidden_terms": [
                         "lantern-barge",
                         "barge-master",
@@ -156,7 +156,7 @@
                     "subtitle": "Board the oak-and-brass water-balanced sky gondola rising smoothly into the Amber Crags past singing bronze wind-harps, helping the cliffside Star-Keepers recalibrate moon-rings knocked out of phase by The Great Drift.",
                     "source_type": "paths_dir",
                     "source_dir": "paths/brass-counterweight-way",
-                    "entry_part": "paths/brass-counterweight-way/e001/c004/p001.md",
+                    "entry_part": "paths/brass-counterweight-way/e002/c003/p001.md",
                     "forbidden_terms": [
                         "lantern-barge",
                         "barge-master",
