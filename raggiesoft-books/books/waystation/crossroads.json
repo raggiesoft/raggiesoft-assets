@@ -119,16 +119,17 @@
             "id": "borderland-three-roads",
             "trigger_part": "e002/c002/p001.md",
             "kicker": "Story Crossroads • Second Afternoon of the Twin Moons, The Sunken Milestone",
-            "title": "Three Gentle Roads Toward the Waystation: How Do Nolan and Gwen Travel?",
-            "prompt": "With both wheelchairs left behind in Studio 205 on Earth, barefoot twenty-four-year-old Nolan Lennox and his six-foot-one nineteen-year-old sister Gwen have learned why Vaeloria's sleeping Astrolabe answered Gwen's wish: only two inseparable, unhurried hearts can re-harmonize the twin rings and heal The Great Drift. Here at the Sunken Milestone, peddler Bramwell Kettle shows them three gentle 1980s-fantasy routes winding inward. Every option opens a complete, coequal story route.",
+            "title": "Three Gentle Roads Toward the Waystation: How Do Nolan, Gwen, and Mallory Travel?",
+            "prompt": "With both wheelchairs and Mallory's sneakers left behind in Studio 205 on Earth, barefoot twenty-four-year-old Nolan Lennox, his six-foot-one nineteen-year-old sister Gwen, and his twenty-four-year-old girlfriend Mallory Walsh have learned why Vaeloria's sleeping Three-Ring Bronze Astrolabe answered their Friday-night wish: only an astronomer's eye, a truth-reader's diagnostic mind, and a guardian's unhurried heart turning together can heal The Great Drift. Here at the Sunken Milestone, peddler Bramwell Kettle shows all three of them three gentle 1980s-fantasy routes winding inward. Every option opens a complete, coequal story route.",
             "options": [
                 {
                     "id": "lantern-barge-canal",
                     "label": "The Glasswater Lantern-Barge Canal",
-                    "subtitle": "Step onto barge-master Maren's wide reed-and-cedar lantern boat—cuddling barefoot on cushioned planks with forearm crutches stowed safe beside the gunwale while Gwen's astronomy eye guides the barge through the misty stars of The Great Drift.",
+                    "subtitle": "Step aboard barge-master Maren's wide reed-and-cedar lantern boat—cuddling three-across on cushioned planks with Nolan's and Gwen's forearm crutches stowed safe beside the gunwale while Gwen's astronomy eye, Mallory's lock-cipher logic, and Nolan's current-reading eye guide the vessel upriver.",
                     "source_type": "paths_dir",
                     "source_dir": "paths/lantern-barge-canal",
                     "entry_part": "paths/lantern-barge-canal/e002/c003/p001.md",
+                    "rejoin_part": "e002/c005/p001.md",
                     "forbidden_terms": [
                         "bioluminescent canopy",
                         "pilgrim shelter",
@@ -139,10 +140,11 @@
                 {
                     "id": "whisperwood-moss-road",
                     "label": "The Whisperwood Cushion-Moss Road",
-                    "subtitle": "Walk unhurriedly at your own forearm-crutch pace over three-inch velvet moss laid by the Slow-Footed Order, soaking bare feet in 98-degree mineral springs and curling up together in cozy stone shelters as your shared footsteps reawaken sleepy forest lanterns.",
+                    "subtitle": "Walk unhurriedly three abreast at Nolan and Gwen's forearm-crutch pace over three-inch velvet moss laid by the Slow-Footed Order, soaking six bare feet in 98-degree mineral springs and curling up three-across in cozy stone shelters as your shared footsteps reawaken sleepy forest lanterns.",
                     "source_type": "paths_dir",
                     "source_dir": "paths/whisperwood-moss-road",
                     "entry_part": "paths/whisperwood-moss-road/e002/c003/p001.md",
+                    "rejoin_part": "e002/c005/p001.md",
                     "forbidden_terms": [
                         "lantern-barge",
                         "barge-master",
@@ -153,10 +155,11 @@
                 {
                     "id": "brass-counterweight-way",
                     "label": "The Brass Counterweight Gondola Way",
-                    "subtitle": "Board the oak-and-brass water-balanced sky gondola rising smoothly into the Amber Crags past singing bronze wind-harps, helping the cliffside Star-Keepers recalibrate moon-rings knocked out of phase by The Great Drift.",
+                    "subtitle": "Board the oak-and-brass water-balanced sky gondola rising smoothly into the Amber Crags past singing bronze wind-harps, helping the cliffside Star-Keepers recalibrate moon-and-vernier rings knocked out of phase by The Great Drift.",
                     "source_type": "paths_dir",
                     "source_dir": "paths/brass-counterweight-way",
                     "entry_part": "paths/brass-counterweight-way/e002/c003/p001.md",
+                    "rejoin_part": "e002/c005/p001.md",
                     "forbidden_terms": [
                         "lantern-barge",
                         "barge-master",
