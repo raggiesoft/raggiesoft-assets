@@ -10,31 +10,31 @@
     "ebook_sizes": {
         "epub": "13.6 MB",
         "pdf": "13.3 MB",
-        "text_epub": "208 KB",
-        "text_pdf": "521 KB",
-        "package_7z": "151 KB",
-        "epub_bytes": 14305861,
-        "pdf_bytes": 13931065,
-        "text_epub_bytes": 212711,
-        "text_pdf_bytes": 533015,
-        "package_7z_bytes": 154171
+        "text_epub": "215 KB",
+        "text_pdf": "540 KB",
+        "package_7z": "155 KB",
+        "epub_bytes": 14312865,
+        "pdf_bytes": 13950032,
+        "text_epub_bytes": 219730,
+        "text_pdf_bytes": 552855,
+        "package_7z_bytes": 159062
     },
     "illustration_count": 51,
     "word_stats": {
-        "story_word_count": 72439,
-        "lore_word_count": 10508,
-        "combined_word_count": 82947,
-        "story_page_count": 263,
-        "combined_page_count": 302,
-        "reading_hours": 4.8,
-        "reading_minutes": 290,
+        "story_word_count": 75271,
+        "lore_word_count": 10697,
+        "combined_word_count": 85968,
+        "story_page_count": 274,
+        "combined_page_count": 313,
+        "reading_hours": 5,
+        "reading_minutes": 301,
         "novel_equivalent": 0.8,
         "scale_category": "Full-Length Contemporary Novel",
         "scale_badge": "Full-Length Novel",
         "benchmark_note": "0.8\u00d7 a standard 90,000-word contemporary novel (70k\u2013110k trade benchmark)",
         "era_count": 2,
         "chapter_count": 17,
-        "part_count": 47,
+        "part_count": 49,
         "illustration_count": 51,
         "story_arc_count": 0
     },
@@ -714,9 +714,9 @@
                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
                     },
-                    "part_count": 4,
-                    "word_count": 4988,
-                    "reading_minutes": 20,
+                    "part_count": 5,
+                    "word_count": 6356,
+                    "reading_minutes": 26,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg"
                 },
                 {
@@ -731,9 +731,9 @@
                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                     },
-                    "part_count": 4,
-                    "word_count": 6284,
-                    "reading_minutes": 26,
+                    "part_count": 5,
+                    "word_count": 7748,
+                    "reading_minutes": 31,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg"
                 }
             ]
@@ -1541,9 +1541,9 @@
                 "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                 "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
             },
-            "part_count": 4,
-            "word_count": 4988,
-            "reading_minutes": 20,
+            "part_count": 5,
+            "word_count": 6356,
+            "reading_minutes": 26,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg",
             "eras": [
                 {
@@ -1551,21 +1551,21 @@
                     "era_title": "Pasco Rescue Route: Intercept Before the Restroom",
                     "era_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom",
                     "illustration_count": 5,
-                    "word_count": 4988,
+                    "word_count": 6356,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Eden Way North, US-287, and Five Minutes to Spare in Pasco",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco",
                             "illustration_count": 5,
-                            "word_count": 4988,
+                            "word_count": 6356,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Part 1: Eden Way North at Eight-Eighteen and Two Pre-Dawn Tickets West",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p001.md",
                                     "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-1-eden-way-north-at-eight-eighteen-and-two-pre-dawn-tickets-west",
-                                    "word_count": 1272,
+                                    "word_count": 1289,
                                     "reading_minutes": 6,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-08-22",
@@ -1619,7 +1619,7 @@
                                     "part_title": "Part 3: Five Minutes Before the Restroom Door and Crying Into Four Safe Arms in Pasco",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p003.md",
                                     "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-3-five-minutes-before-the-restroom-door-and-crying-into-four-safe-arms-in-pasco",
-                                    "word_count": 1801,
+                                    "word_count": 1817,
                                     "reading_minutes": 8,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-08-25",
@@ -1650,16 +1650,34 @@
                                 },
                                 {
                                     "part_num": 4,
-                                    "part_title": "Part 4: Empty Work Polos, Ray's Personal Number, and Home in Studio 205",
+                                    "part_title": "Part 4: One Safe King Bed in Pasco, Skipping the Prismatic Corridor, and Three Hops Home",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p004.md",
-                                    "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-4-empty-work-polos-ray-s-personal-number-and-home-in-studio-205",
-                                    "word_count": 840,
+                                    "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-4-one-safe-king-bed-in-pasco-skipping-the-prismatic-corridor-and-three-hops-home",
+                                    "word_count": 1330,
+                                    "reading_minutes": 6,
+                                    "path_id": "pasco-early-intercept",
+                                    "date": "2001-08-25",
+                                    "start_time": "20:15",
+                                    "location": "Pasco Airport Hotel & Pasco Regional Airport Through Denver and Washington Dulles to Chesapeake, Virginia",
+                                    "excerpt": "By quarter past eight that Saturday evening inside a quiet ground-floor accessible room at a two-story brick airport hotel five minutes from Pasco Regional Airport, every sore muscle in my body felt as if\u2026",
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
+                                        "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
+                                    }
+                                },
+                                {
+                                    "part_num": 5,
+                                    "part_title": "Part 5: Empty Work Polos, Ray's Personal Number, and Home in Studio 205",
+                                    "file_path": "paths/pasco-early-intercept/e001/c001/p005.md",
+                                    "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-5-empty-work-polos-ray-s-personal-number-and-home-in-studio-205",
+                                    "word_count": 845,
                                     "reading_minutes": 4,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-12-01",
                                     "start_time": "15:30",
                                     "location": "Grandpa Walter's House in Chesapeake to Studio 205 at Harborview Towers, Norfolk, Virginia",
-                                    "excerpt": "Flying home to Norfolk out of Pasco Regional Airport that August Saturday evening\u2014after an urgent-care doctor near the airport cleaned and dressed my early stage-two pressure sore before infection could ever\u2026",
+                                    "excerpt": "Landing back at Norfolk International Airport that Sunday evening in August\u2014after sleeping ten solid hours cuddled safe between Gwen and Mallory in Pasco and skipping O'Hare's flashing neon tunnel all the way\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p003_door_205_landing_confession.jpg",
                                     "image_alt": "On the quiet second-floor terrazzo stairwell landing outside white apartment door 205 at Harborview Towers in Norfolk in December 2001, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy Henley and jeans) stands beaming on his two matte-silver single-tube Lofstrand forearm crutches while off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green zip cardigan over cream tee, canvas tote) rests one warm hand gently over his wrist and smiles up into his eyes.",
                                     "images": [
@@ -1803,9 +1821,9 @@
                 "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                 "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
             },
-            "part_count": 4,
-            "word_count": 6284,
-            "reading_minutes": 26,
+            "part_count": 5,
+            "word_count": 7748,
+            "reading_minutes": 31,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
             "eras": [
                 {
@@ -1813,14 +1831,14 @@
                     "era_title": "Seattle Rescue Route: Puget Sound General and Coming Home",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home",
                     "illustration_count": 5,
-                    "word_count": 6284,
+                    "word_count": 7748,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
                             "illustration_count": 5,
-                            "word_count": 6284,
+                            "word_count": 7748,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -1903,16 +1921,16 @@
                                 },
                                 {
                                     "part_num": 4,
-                                    "part_title": "Part 4: Crying Into Four Safe Arms in Seattle, Grandpa's Final Watch, and Studio 205",
+                                    "part_title": "Part 4: Crying Into Four Safe Arms in Seattle and Wide Awake by Sea-Tac",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p004.md",
-                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-4-crying-into-four-safe-arms-in-seattle-grandpa-s-final-watch-and-studio-205",
-                                    "word_count": 2089,
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-4-crying-into-four-safe-arms-in-seattle-and-wide-awake-by-sea-tac",
+                                    "word_count": 2180,
                                     "reading_minutes": 9,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-10-26",
                                     "start_time": "13:15",
-                                    "location": "Puget Sound General Hospital in Seattle to Grandpa Walter's House & Studio 205 in Norfolk, Virginia",
-                                    "excerpt": "Seven days after Gwen turned eighteen\u2014carrying her brand-new adult Virginia identification card straight through post-September-eleventh airport security checkpoints beside Mallory Walsh on two Meridian Airlines\u2026",
+                                    "location": "Puget Sound General Hospital in Seattle & Airport Hotel Near Sea-Tac, Washington",
+                                    "excerpt": "Seven days after Gwen turned eighteen\u2014carrying her brand-new adult Virginia identification card straight through post-September-eleventh airport security checkpoints beside Mallory Walsh on two Gateway Airlines\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_puget_sound_discharge_reunion.jpg",
                                     "image_alt": "Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy October afternoon in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of newly eighteen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand.",
                                     "images": [
@@ -1926,6 +1944,24 @@
                                         }
                                     ],
                                     "image_count": 2,
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
+                                        "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
+                                    }
+                                },
+                                {
+                                    "part_num": 5,
+                                    "part_title": "Part 5: Sea-Tac Checkpoints, Skipping the Prismatic Corridor via Midway, and Grandpa's Final Watch",
+                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p005.md",
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-5-sea-tac-checkpoints-skipping-the-prismatic-corridor-via-midway-and-grandpa-s-final-watch",
+                                    "word_count": 1373,
+                                    "reading_minutes": 6,
+                                    "path_id": "seattle-full-exodus-rescue",
+                                    "date": "2001-10-27",
+                                    "start_time": "07:20",
+                                    "location": "Seattle-Tacoma International Airport Through Chicago Midway to Grandpa Walter's House & Studio 205, Virginia",
+                                    "excerpt": "Pale, rain-washed Saturday morning light filtered across the concrete columns of the rental-car return garage at Seattle-Tacoma International Airport when Mallory backed our rented Vanguard Fleet Services sedan\u2026",
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
                                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
@@ -3876,9 +3912,9 @@
                 "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                 "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
             },
-            "part_count": 4,
-            "word_count": 4988,
-            "reading_minutes": 20,
+            "part_count": 5,
+            "word_count": 6356,
+            "reading_minutes": 26,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg",
             "eras": [
                 {
@@ -3886,21 +3922,21 @@
                     "era_title": "Pasco Rescue Route: Intercept Before the Restroom",
                     "era_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom",
                     "illustration_count": 5,
-                    "word_count": 4988,
+                    "word_count": 6356,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Eden Way North, US-287, and Five Minutes to Spare in Pasco",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco",
                             "illustration_count": 5,
-                            "word_count": 4988,
+                            "word_count": 6356,
                             "parts": [
                                 {
                                     "part_num": 1,
                                     "part_title": "Part 1: Eden Way North at Eight-Eighteen and Two Pre-Dawn Tickets West",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p001.md",
                                     "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-1-eden-way-north-at-eight-eighteen-and-two-pre-dawn-tickets-west",
-                                    "word_count": 1272,
+                                    "word_count": 1289,
                                     "reading_minutes": 6,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-08-22",
@@ -3954,7 +3990,7 @@
                                     "part_title": "Part 3: Five Minutes Before the Restroom Door and Crying Into Four Safe Arms in Pasco",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p003.md",
                                     "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-3-five-minutes-before-the-restroom-door-and-crying-into-four-safe-arms-in-pasco",
-                                    "word_count": 1801,
+                                    "word_count": 1817,
                                     "reading_minutes": 8,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-08-25",
@@ -3985,16 +4021,34 @@
                                 },
                                 {
                                     "part_num": 4,
-                                    "part_title": "Part 4: Empty Work Polos, Ray's Personal Number, and Home in Studio 205",
+                                    "part_title": "Part 4: One Safe King Bed in Pasco, Skipping the Prismatic Corridor, and Three Hops Home",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p004.md",
-                                    "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-4-empty-work-polos-ray-s-personal-number-and-home-in-studio-205",
-                                    "word_count": 840,
+                                    "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-4-one-safe-king-bed-in-pasco-skipping-the-prismatic-corridor-and-three-hops-home",
+                                    "word_count": 1330,
+                                    "reading_minutes": 6,
+                                    "path_id": "pasco-early-intercept",
+                                    "date": "2001-08-25",
+                                    "start_time": "20:15",
+                                    "location": "Pasco Airport Hotel & Pasco Regional Airport Through Denver and Washington Dulles to Chesapeake, Virginia",
+                                    "excerpt": "By quarter past eight that Saturday evening inside a quiet ground-floor accessible room at a two-story brick airport hotel five minutes from Pasco Regional Airport, every sore muscle in my body felt as if\u2026",
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
+                                        "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
+                                    }
+                                },
+                                {
+                                    "part_num": 5,
+                                    "part_title": "Part 5: Empty Work Polos, Ray's Personal Number, and Home in Studio 205",
+                                    "file_path": "paths/pasco-early-intercept/e001/c001/p005.md",
+                                    "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-5-empty-work-polos-ray-s-personal-number-and-home-in-studio-205",
+                                    "word_count": 845,
                                     "reading_minutes": 4,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-12-01",
                                     "start_time": "15:30",
                                     "location": "Grandpa Walter's House in Chesapeake to Studio 205 at Harborview Towers, Norfolk, Virginia",
-                                    "excerpt": "Flying home to Norfolk out of Pasco Regional Airport that August Saturday evening\u2014after an urgent-care doctor near the airport cleaned and dressed my early stage-two pressure sore before infection could ever\u2026",
+                                    "excerpt": "Landing back at Norfolk International Airport that Sunday evening in August\u2014after sleeping ten solid hours cuddled safe between Gwen and Mallory in Pasco and skipping O'Hare's flashing neon tunnel all the way\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p003_door_205_landing_confession.jpg",
                                     "image_alt": "On the quiet second-floor terrazzo stairwell landing outside white apartment door 205 at Harborview Towers in Norfolk in December 2001, twenty-three-year-old Nolan Lennox (5-foot-7, heather-navy Henley and jeans) stands beaming on his two matte-silver single-tube Lofstrand forearm crutches while off-duty Mallory Walsh (5-foot-5, copper-auburn ponytail, thin silver wire-rimmed glasses, forest-green zip cardigan over cream tee, canvas tote) rests one warm hand gently over his wrist and smiles up into his eyes.",
                                     "images": [
@@ -4138,9 +4192,9 @@
                 "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                 "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
             },
-            "part_count": 4,
-            "word_count": 6284,
-            "reading_minutes": 26,
+            "part_count": 5,
+            "word_count": 7748,
+            "reading_minutes": 31,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
             "eras": [
                 {
@@ -4148,14 +4202,14 @@
                     "era_title": "Seattle Rescue Route: Puget Sound General and Coming Home",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home",
                     "illustration_count": 5,
-                    "word_count": 6284,
+                    "word_count": 7748,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
                             "illustration_count": 5,
-                            "word_count": 6284,
+                            "word_count": 7748,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -4238,16 +4292,16 @@
                                 },
                                 {
                                     "part_num": 4,
-                                    "part_title": "Part 4: Crying Into Four Safe Arms in Seattle, Grandpa's Final Watch, and Studio 205",
+                                    "part_title": "Part 4: Crying Into Four Safe Arms in Seattle and Wide Awake by Sea-Tac",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p004.md",
-                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-4-crying-into-four-safe-arms-in-seattle-grandpa-s-final-watch-and-studio-205",
-                                    "word_count": 2089,
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-4-crying-into-four-safe-arms-in-seattle-and-wide-awake-by-sea-tac",
+                                    "word_count": 2180,
                                     "reading_minutes": 9,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-10-26",
                                     "start_time": "13:15",
-                                    "location": "Puget Sound General Hospital in Seattle to Grandpa Walter's House & Studio 205 in Norfolk, Virginia",
-                                    "excerpt": "Seven days after Gwen turned eighteen\u2014carrying her brand-new adult Virginia identification card straight through post-September-eleventh airport security checkpoints beside Mallory Walsh on two Meridian Airlines\u2026",
+                                    "location": "Puget Sound General Hospital in Seattle & Airport Hotel Near Sea-Tac, Washington",
+                                    "excerpt": "Seven days after Gwen turned eighteen\u2014carrying her brand-new adult Virginia identification card straight through post-September-eleventh airport security checkpoints beside Mallory Walsh on two Gateway Airlines\u2026",
                                     "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p003_puget_sound_discharge_reunion.jpg",
                                     "image_alt": "Inside the sixth-floor Discharge Lounge of Puget Sound General Hospital in Seattle on a rainy October afternoon in 2001, fully dressed twenty-three-year-old Nolan Lennox (seated in his manual wheelchair with his matte-silver single-tube Lofstrand forearm crutches stowed upright behind his backrest) cries openly inside the warm embrace of newly eighteen-year-old sister Gwen Lennox (6-foot-1, burgundy sweater, matte-charcoal single-tube Lofstrand forearm crutches leaning beside her chair) and Mallory Walsh (5-foot-5, copper-auburn ponytail, silver wire-rimmed glasses, forest-green cardigan) as Mallory places Ray Halstead's folded reference letter and personal phone card into Nolan's hand.",
                                     "images": [
@@ -4261,6 +4315,24 @@
                                         }
                                     ],
                                     "image_count": 2,
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
+                                        "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
+                                    }
+                                },
+                                {
+                                    "part_num": 5,
+                                    "part_title": "Part 5: Sea-Tac Checkpoints, Skipping the Prismatic Corridor via Midway, and Grandpa's Final Watch",
+                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p005.md",
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-5-sea-tac-checkpoints-skipping-the-prismatic-corridor-via-midway-and-grandpa-s-final-watch",
+                                    "word_count": 1373,
+                                    "reading_minutes": 6,
+                                    "path_id": "seattle-full-exodus-rescue",
+                                    "date": "2001-10-27",
+                                    "start_time": "07:20",
+                                    "location": "Seattle-Tacoma International Airport Through Chicago Midway to Grandpa Walter's House & Studio 205, Virginia",
+                                    "excerpt": "Pale, rain-washed Saturday morning light filtered across the concrete columns of the rental-car return garage at Seattle-Tacoma International Airport when Mallory backed our rented Vanguard Fleet Services sedan\u2026",
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
                                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
