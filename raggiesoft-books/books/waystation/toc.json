@@ -10,31 +10,31 @@
     "ebook_sizes": {
         "epub": "13.7 MB",
         "pdf": "13.3 MB",
-        "text_epub": "217 KB",
-        "text_pdf": "545 KB",
-        "package_7z": "157 KB",
-        "epub_bytes": 14315013,
-        "pdf_bytes": 13956285,
-        "text_epub_bytes": 221857,
-        "text_pdf_bytes": 558515,
-        "package_7z_bytes": 160590
+        "text_epub": "220 KB",
+        "text_pdf": "555 KB",
+        "package_7z": "159 KB",
+        "epub_bytes": 14317958,
+        "pdf_bytes": 13964564,
+        "text_epub_bytes": 224823,
+        "text_pdf_bytes": 567927,
+        "package_7z_bytes": 162512
     },
     "illustration_count": 51,
     "word_stats": {
-        "story_word_count": 76252,
-        "lore_word_count": 10742,
-        "combined_word_count": 86994,
-        "story_page_count": 277,
-        "combined_page_count": 316,
-        "reading_hours": 5.1,
-        "reading_minutes": 305,
-        "novel_equivalent": 0.8,
+        "story_word_count": 77285,
+        "lore_word_count": 10755,
+        "combined_word_count": 88040,
+        "story_page_count": 281,
+        "combined_page_count": 320,
+        "reading_hours": 5.2,
+        "reading_minutes": 309,
+        "novel_equivalent": 0.9,
         "scale_category": "Full-Length Contemporary Novel",
         "scale_badge": "Full-Length Novel",
-        "benchmark_note": "0.8\u00d7 a standard 90,000-word contemporary novel (70k\u2013110k trade benchmark)",
+        "benchmark_note": "0.9\u00d7 a standard 90,000-word contemporary novel (70k\u2013110k trade benchmark)",
         "era_count": 2,
         "chapter_count": 17,
-        "part_count": 49,
+        "part_count": 52,
         "illustration_count": 51,
         "story_arc_count": 0
     },
@@ -714,9 +714,9 @@
                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
                     },
-                    "part_count": 5,
-                    "word_count": 6857,
-                    "reading_minutes": 28,
+                    "part_count": 6,
+                    "word_count": 7082,
+                    "reading_minutes": 29,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg"
                 },
                 {
@@ -731,9 +731,9 @@
                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                     },
-                    "part_count": 5,
-                    "word_count": 8228,
-                    "reading_minutes": 33,
+                    "part_count": 7,
+                    "word_count": 9036,
+                    "reading_minutes": 37,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg"
                 }
             ]
@@ -1541,9 +1541,9 @@
                 "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                 "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
             },
-            "part_count": 5,
-            "word_count": 6857,
-            "reading_minutes": 28,
+            "part_count": 6,
+            "word_count": 7082,
+            "reading_minutes": 29,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg",
             "eras": [
                 {
@@ -1551,14 +1551,14 @@
                     "era_title": "Pasco Rescue Route: Intercept Before the Restroom",
                     "era_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom",
                     "illustration_count": 5,
-                    "word_count": 6857,
+                    "word_count": 7082,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Eden Way North, US-287, and Five Minutes to Spare in Pasco",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco",
                             "illustration_count": 5,
-                            "word_count": 6857,
+                            "word_count": 7082,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -1668,10 +1668,28 @@
                                 },
                                 {
                                     "part_num": 5,
-                                    "part_title": "Part 5: Empty Work Polos, Ray's Personal Number, and Home in Studio 205",
+                                    "part_title": "Part 5: Resting Off the Clock on Eden Way North When the Sky Went Silent",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p005.md",
-                                    "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-5-empty-work-polos-ray-s-personal-number-and-home-in-studio-205",
-                                    "word_count": 874,
+                                    "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-5-resting-off-the-clock-on-eden-way-north-when-the-sky-went-silent",
+                                    "word_count": 339,
+                                    "reading_minutes": 2,
+                                    "path_id": "pasco-early-intercept",
+                                    "date": "2001-09-11",
+                                    "start_time": "09:03",
+                                    "location": "Grandpa Walter's House Near Emerald Creek Mall, Chesapeake, Virginia",
+                                    "excerpt": "For the first two weeks back under Grandpa Walter's roof off Eden Way North\u2014resting flat on my right side across the unfolded downstairs family-room sofa bed just like the Pasco urgent-care doctor had ordered so\u2026",
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
+                                        "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
+                                    }
+                                },
+                                {
+                                    "part_num": 6,
+                                    "part_title": "Part 6: Empty Work Polos, Ray's Personal Number, and Home in Studio 205",
+                                    "file_path": "paths/pasco-early-intercept/e001/c001/p006.md",
+                                    "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-6-empty-work-polos-ray-s-personal-number-and-home-in-studio-205",
+                                    "word_count": 760,
                                     "reading_minutes": 4,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-12-01",
@@ -1821,9 +1839,9 @@
                 "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                 "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
             },
-            "part_count": 5,
-            "word_count": 8228,
-            "reading_minutes": 33,
+            "part_count": 7,
+            "word_count": 9036,
+            "reading_minutes": 37,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
             "eras": [
                 {
@@ -1831,14 +1849,14 @@
                     "era_title": "Seattle Rescue Route: Puget Sound General and Coming Home",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home",
                     "illustration_count": 5,
-                    "word_count": 8228,
+                    "word_count": 9036,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
                             "illustration_count": 5,
-                            "word_count": 8228,
+                            "word_count": 9036,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -1903,16 +1921,16 @@
                                 },
                                 {
                                     "part_num": 3,
-                                    "part_title": "Part 3: Puget Sound General, Grounded Skies, and Holding On Past October Nineteenth",
+                                    "part_title": "Part 3: Air-Flotation Bedrest, Seattle Police, and Ms. Rivera's Plain Truth",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p003.md",
-                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-3-puget-sound-general-grounded-skies-and-holding-on-past-october-nineteenth",
-                                    "word_count": 1015,
-                                    "reading_minutes": 5,
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-3-air-flotation-bedrest-seattle-police-and-ms-rivera-s-plain-truth",
+                                    "word_count": 856,
+                                    "reading_minutes": 4,
                                     "path_id": "seattle-full-exodus-rescue",
-                                    "date": "2001-09-11",
-                                    "start_time": "06:03",
+                                    "date": "2001-08-28",
+                                    "start_time": "14:15",
                                     "location": "Sixth-Floor Surgical Wound Ward, Puget Sound General Hospital, Seattle, Washington",
-                                    "excerpt": "At three minutes past six in the morning Pacific Time\u2014nine-oh-three back home in Chesapeake\u2014the muted nineteen-inch television bolted high on the plaster wall of my sixth-floor semiprivate room at Puget Sound\u2026",
+                                    "excerpt": "Steady Pacific Northwest mist drifted past my sixth-floor semiprivate window at Puget Sound General Hospital while the alternating-pressure air mattress beneath my hospital gown gave its soft, rhythmic pneumatic\u2026",
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
                                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
@@ -1921,9 +1939,45 @@
                                 },
                                 {
                                     "part_num": 4,
-                                    "part_title": "Part 4: Crying Into Four Safe Arms in Seattle and Wide Awake by Sea-Tac",
+                                    "part_title": "Part 4: Hospital Television Static and Three Time Zones From Home",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p004.md",
-                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-4-crying-into-four-safe-arms-in-seattle-and-wide-awake-by-sea-tac",
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-4-hospital-television-static-and-three-time-zones-from-home",
+                                    "word_count": 469,
+                                    "reading_minutes": 2,
+                                    "path_id": "seattle-full-exodus-rescue",
+                                    "date": "2001-09-11",
+                                    "start_time": "06:03",
+                                    "location": "Sixth-Floor Surgical Wound Ward, Puget Sound General Hospital, Seattle, Washington",
+                                    "excerpt": "At three minutes past six on Tuesday morning Pacific Time\u2014nine-oh-three back home in Chesapeake\u2014the muted nineteen-inch television bolted high on the plaster wall of my sixth-floor semiprivate room at Puget\u2026",
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
+                                        "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
+                                    }
+                                },
+                                {
+                                    "part_num": 5,
+                                    "part_title": "Part 5: Eighteen Candles Over a Corded Hospital Phone and Grandpa's Iron Vow",
+                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p005.md",
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-5-eighteen-candles-over-a-corded-hospital-phone-and-grandpa-s-iron-vow",
+                                    "word_count": 501,
+                                    "reading_minutes": 3,
+                                    "path_id": "seattle-full-exodus-rescue",
+                                    "date": "2001-10-19",
+                                    "start_time": "15:30",
+                                    "location": "Sixth-Floor Surgical Wound Ward, Puget Sound General Hospital, Seattle, Washington",
+                                    "excerpt": "Grey October Puget Sound drizzle streaked steadily down my sixth-floor hospital window while I sat propped at a careful thirty-degree angle\u2014finally cleared by my wound surgeon for fifteen-minute seated intervals\u2026",
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
+                                        "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
+                                    }
+                                },
+                                {
+                                    "part_num": 6,
+                                    "part_title": "Part 6: Crying Into Four Safe Arms in Seattle and Wide Awake by Sea-Tac",
+                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p006.md",
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-6-crying-into-four-safe-arms-in-seattle-and-wide-awake-by-sea-tac",
                                     "word_count": 2630,
                                     "reading_minutes": 11,
                                     "path_id": "seattle-full-exodus-rescue",
@@ -1951,11 +2005,11 @@
                                     }
                                 },
                                 {
-                                    "part_num": 5,
-                                    "part_title": "Part 5: Sea-Tac Checkpoints, Skipping the Prismatic Corridor via Midway, and Grandpa's Final Watch",
-                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p005.md",
-                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-5-sea-tac-checkpoints-skipping-the-prismatic-corridor-via-midway-and-grandpa-s-final-watch",
-                                    "word_count": 1403,
+                                    "part_num": 7,
+                                    "part_title": "Part 7: Sea-Tac Checkpoints, Skipping the Prismatic Corridor via Midway, and Grandpa's Final Watch",
+                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p007.md",
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-7-sea-tac-checkpoints-skipping-the-prismatic-corridor-via-midway-and-grandpa-s-final-watch",
+                                    "word_count": 1400,
                                     "reading_minutes": 6,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-10-27",
@@ -3912,9 +3966,9 @@
                 "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                 "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
             },
-            "part_count": 5,
-            "word_count": 6857,
-            "reading_minutes": 28,
+            "part_count": 6,
+            "word_count": 7082,
+            "reading_minutes": 29,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg",
             "eras": [
                 {
@@ -3922,14 +3976,14 @@
                     "era_title": "Pasco Rescue Route: Intercept Before the Restroom",
                     "era_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom",
                     "illustration_count": 5,
-                    "word_count": 6857,
+                    "word_count": 7082,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Eden Way North, US-287, and Five Minutes to Spare in Pasco",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco",
                             "illustration_count": 5,
-                            "word_count": 6857,
+                            "word_count": 7082,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -4039,10 +4093,28 @@
                                 },
                                 {
                                     "part_num": 5,
-                                    "part_title": "Part 5: Empty Work Polos, Ray's Personal Number, and Home in Studio 205",
+                                    "part_title": "Part 5: Resting Off the Clock on Eden Way North When the Sky Went Silent",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p005.md",
-                                    "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-5-empty-work-polos-ray-s-personal-number-and-home-in-studio-205",
-                                    "word_count": 874,
+                                    "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-5-resting-off-the-clock-on-eden-way-north-when-the-sky-went-silent",
+                                    "word_count": 339,
+                                    "reading_minutes": 2,
+                                    "path_id": "pasco-early-intercept",
+                                    "date": "2001-09-11",
+                                    "start_time": "09:03",
+                                    "location": "Grandpa Walter's House Near Emerald Creek Mall, Chesapeake, Virginia",
+                                    "excerpt": "For the first two weeks back under Grandpa Walter's roof off Eden Way North\u2014resting flat on my right side across the unfolded downstairs family-room sofa bed just like the Pasco urgent-care doctor had ordered so\u2026",
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
+                                        "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
+                                    }
+                                },
+                                {
+                                    "part_num": 6,
+                                    "part_title": "Part 6: Empty Work Polos, Ray's Personal Number, and Home in Studio 205",
+                                    "file_path": "paths/pasco-early-intercept/e001/c001/p006.md",
+                                    "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-6-empty-work-polos-ray-s-personal-number-and-home-in-studio-205",
+                                    "word_count": 760,
                                     "reading_minutes": 4,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-12-01",
@@ -4192,9 +4264,9 @@
                 "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
                 "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
             },
-            "part_count": 5,
-            "word_count": 8228,
-            "reading_minutes": 33,
+            "part_count": 7,
+            "word_count": 9036,
+            "reading_minutes": 37,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
             "eras": [
                 {
@@ -4202,14 +4274,14 @@
                     "era_title": "Seattle Rescue Route: Puget Sound General and Coming Home",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home",
                     "illustration_count": 5,
-                    "word_count": 8228,
+                    "word_count": 9036,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
                             "illustration_count": 5,
-                            "word_count": 8228,
+                            "word_count": 9036,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -4274,16 +4346,16 @@
                                 },
                                 {
                                     "part_num": 3,
-                                    "part_title": "Part 3: Puget Sound General, Grounded Skies, and Holding On Past October Nineteenth",
+                                    "part_title": "Part 3: Air-Flotation Bedrest, Seattle Police, and Ms. Rivera's Plain Truth",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p003.md",
-                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-3-puget-sound-general-grounded-skies-and-holding-on-past-october-nineteenth",
-                                    "word_count": 1015,
-                                    "reading_minutes": 5,
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-3-air-flotation-bedrest-seattle-police-and-ms-rivera-s-plain-truth",
+                                    "word_count": 856,
+                                    "reading_minutes": 4,
                                     "path_id": "seattle-full-exodus-rescue",
-                                    "date": "2001-09-11",
-                                    "start_time": "06:03",
+                                    "date": "2001-08-28",
+                                    "start_time": "14:15",
                                     "location": "Sixth-Floor Surgical Wound Ward, Puget Sound General Hospital, Seattle, Washington",
-                                    "excerpt": "At three minutes past six in the morning Pacific Time\u2014nine-oh-three back home in Chesapeake\u2014the muted nineteen-inch television bolted high on the plaster wall of my sixth-floor semiprivate room at Puget Sound\u2026",
+                                    "excerpt": "Steady Pacific Northwest mist drifted past my sixth-floor semiprivate window at Puget Sound General Hospital while the alternating-pressure air mattress beneath my hospital gown gave its soft, rhythmic pneumatic\u2026",
                                     "required_choices": {
                                         "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
                                         "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
@@ -4292,9 +4364,45 @@
                                 },
                                 {
                                     "part_num": 4,
-                                    "part_title": "Part 4: Crying Into Four Safe Arms in Seattle and Wide Awake by Sea-Tac",
+                                    "part_title": "Part 4: Hospital Television Static and Three Time Zones From Home",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p004.md",
-                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-4-crying-into-four-safe-arms-in-seattle-and-wide-awake-by-sea-tac",
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-4-hospital-television-static-and-three-time-zones-from-home",
+                                    "word_count": 469,
+                                    "reading_minutes": 2,
+                                    "path_id": "seattle-full-exodus-rescue",
+                                    "date": "2001-09-11",
+                                    "start_time": "06:03",
+                                    "location": "Sixth-Floor Surgical Wound Ward, Puget Sound General Hospital, Seattle, Washington",
+                                    "excerpt": "At three minutes past six on Tuesday morning Pacific Time\u2014nine-oh-three back home in Chesapeake\u2014the muted nineteen-inch television bolted high on the plaster wall of my sixth-floor semiprivate room at Puget\u2026",
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
+                                        "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
+                                    }
+                                },
+                                {
+                                    "part_num": 5,
+                                    "part_title": "Part 5: Eighteen Candles Over a Corded Hospital Phone and Grandpa's Iron Vow",
+                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p005.md",
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-5-eighteen-candles-over-a-corded-hospital-phone-and-grandpa-s-iron-vow",
+                                    "word_count": 501,
+                                    "reading_minutes": 3,
+                                    "path_id": "seattle-full-exodus-rescue",
+                                    "date": "2001-10-19",
+                                    "start_time": "15:30",
+                                    "location": "Sixth-Floor Surgical Wound Ward, Puget Sound General Hospital, Seattle, Washington",
+                                    "excerpt": "Grey October Puget Sound drizzle streaked steadily down my sixth-floor hospital window while I sat propped at a careful thirty-degree angle\u2014finally cleared by my wound surgeon for fifteen-minute seated intervals\u2026",
+                                    "required_choices": {
+                                        "norfolk-pathfinder-terminal-2001": "norfolk-ticket-counter",
+                                        "norfolk-bay-four-boarding-2001": "seattle-pathfinder-exodus",
+                                        "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
+                                    }
+                                },
+                                {
+                                    "part_num": 6,
+                                    "part_title": "Part 6: Crying Into Four Safe Arms in Seattle and Wide Awake by Sea-Tac",
+                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p006.md",
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-6-crying-into-four-safe-arms-in-seattle-and-wide-awake-by-sea-tac",
                                     "word_count": 2630,
                                     "reading_minutes": 11,
                                     "path_id": "seattle-full-exodus-rescue",
@@ -4322,11 +4430,11 @@
                                     }
                                 },
                                 {
-                                    "part_num": 5,
-                                    "part_title": "Part 5: Sea-Tac Checkpoints, Skipping the Prismatic Corridor via Midway, and Grandpa's Final Watch",
-                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p005.md",
-                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-5-sea-tac-checkpoints-skipping-the-prismatic-corridor-via-midway-and-grandpa-s-final-watch",
-                                    "word_count": 1403,
+                                    "part_num": 7,
+                                    "part_title": "Part 7: Sea-Tac Checkpoints, Skipping the Prismatic Corridor via Midway, and Grandpa's Final Watch",
+                                    "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p007.md",
+                                    "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-7-sea-tac-checkpoints-skipping-the-prismatic-corridor-via-midway-and-grandpa-s-final-watch",
+                                    "word_count": 1400,
                                     "reading_minutes": 6,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-10-27",
