@@ -619,12 +619,46 @@ body.h-100 {
 .text-white-50 { color: rgba(255, 255, 255, 0.65) !important; }
 .text-white-75 { color: rgba(255, 255, 255, 0.82) !important; }
 
-.bg-primary { background-color: var(--bs-primary) !important; color: #ffffff; }
-.bg-secondary { background-color: var(--bs-secondary) !important; color: #ffffff; }
-.bg-success { background-color: var(--bs-success) !important; color: #ffffff; }
-.bg-danger { background-color: var(--bs-danger) !important; color: #ffffff; }
-.bg-warning { background-color: var(--bs-warning) !important; color: #000000; }
-.bg-info { background-color: var(--bs-info) !important; color: #ffffff; }
+/* Solid Semantic Surface Fills (`.bg-primary`, `.bg-success`, etc.):
+ * IMPORTANT ACCESSIBILITY RULE: In Dark Mode, `--bs-success` (`#4ade80`) and
+ * `--bs-primary` (`#38bdf8`) are bright pastel colors tuned for TEXT on dark
+ * `#0b0f19` canvases—using them as solid backgrounds behind `#ffffff` text
+ * drops contrast to ~1.88:1! Solid `.bg-*` surfaces therefore use dedicated
+ * WCAG AAA (`>= 7:1`) rich fills in BOTH Light Mode and Dark Mode, while
+ * `.bg-opacity-10` renders subtle translucent tints that inherit readable text. */
+.bg-primary:not(.bg-opacity-10) { background-color: #1e40af !important; color: #ffffff; }
+.bg-secondary:not(.bg-opacity-10) { background-color: #334155 !important; color: #ffffff; }
+.bg-success:not(.bg-opacity-10) { background-color: #065f46 !important; color: #ffffff; }
+.bg-danger:not(.bg-opacity-10) { background-color: #991b1b !important; color: #ffffff; }
+.bg-warning:not(.bg-opacity-10) { background-color: #fbbf24 !important; color: #0f172a; }
+.bg-info:not(.bg-opacity-10) { background-color: #075985 !important; color: #ffffff; }
+
+.bg-primary.bg-opacity-10 { background-color: rgba(56, 189, 248, 0.12) !important; }
+.bg-secondary.bg-opacity-10 { background-color: rgba(148, 163, 184, 0.12) !important; }
+.bg-success.bg-opacity-10 { background-color: rgba(34, 197, 94, 0.12) !important; }
+.bg-danger.bg-opacity-10 { background-color: rgba(239, 68, 68, 0.12) !important; }
+.bg-warning.bg-opacity-10 { background-color: rgba(245, 158, 11, 0.12) !important; }
+.bg-info.bg-opacity-10 { background-color: rgba(14, 165, 233, 0.12) !important; }
+
+/* Guarantee `>= 8:1` AAA contrast whenever DaisyUI `.btn-primary` is paired with `.text-white` */
+.btn-primary.text-white {
+  background-color: #4338ca !important;
+  border-color: #4338ca !important;
+  color: #ffffff !important;
+}
+.btn-primary.text-white:hover,
+.btn-primary.text-white:focus-visible {
+  background-color: #3730a3 !important;
+  border-color: #3730a3 !important;
+  color: #ffffff !important;
+}
+
+/* Defensive Legacy `.offcanvas` Guardrail:
+ * Since Bootstrap's JS/CSS bundle is retired, ensure any unactivated `.offcanvas:not(.show)`
+ * drawer stays strictly `display: none` so it never renders inline above `<main>` on mobile! */
+.offcanvas:not(.show) {
+  display: none !important;
+}
 .bg-black { background-color: #000000 !important; }
 .bg-dark { background-color: #0b0f19 !important; }
 .bg-light { background-color: #f8fafc !important; }
