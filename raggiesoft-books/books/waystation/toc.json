@@ -8,26 +8,26 @@
     "series_image": "/raggiesoft-books/images/covers/2x3/waystation.jpg",
     "next_series_url": "",
     "ebook_sizes": {
-        "epub": "13.6 MB",
+        "epub": "13.7 MB",
         "pdf": "13.3 MB",
-        "text_epub": "215 KB",
-        "text_pdf": "540 KB",
-        "package_7z": "155 KB",
-        "epub_bytes": 14312865,
-        "pdf_bytes": 13950032,
-        "text_epub_bytes": 219730,
-        "text_pdf_bytes": 552855,
-        "package_7z_bytes": 159062
+        "text_epub": "217 KB",
+        "text_pdf": "545 KB",
+        "package_7z": "157 KB",
+        "epub_bytes": 14315013,
+        "pdf_bytes": 13956285,
+        "text_epub_bytes": 221857,
+        "text_pdf_bytes": 558515,
+        "package_7z_bytes": 160590
     },
     "illustration_count": 51,
     "word_stats": {
-        "story_word_count": 75271,
-        "lore_word_count": 10697,
-        "combined_word_count": 85968,
-        "story_page_count": 274,
-        "combined_page_count": 313,
-        "reading_hours": 5,
-        "reading_minutes": 301,
+        "story_word_count": 76252,
+        "lore_word_count": 10742,
+        "combined_word_count": 86994,
+        "story_page_count": 277,
+        "combined_page_count": 316,
+        "reading_hours": 5.1,
+        "reading_minutes": 305,
         "novel_equivalent": 0.8,
         "scale_category": "Full-Length Contemporary Novel",
         "scale_badge": "Full-Length Novel",
@@ -715,8 +715,8 @@
                         "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
                     },
                     "part_count": 5,
-                    "word_count": 6356,
-                    "reading_minutes": 26,
+                    "word_count": 6857,
+                    "reading_minutes": 28,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg"
                 },
                 {
@@ -732,8 +732,8 @@
                         "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
                     },
                     "part_count": 5,
-                    "word_count": 7748,
-                    "reading_minutes": 31,
+                    "word_count": 8228,
+                    "reading_minutes": 33,
                     "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg"
                 }
             ]
@@ -1542,8 +1542,8 @@
                 "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
             },
             "part_count": 5,
-            "word_count": 6356,
-            "reading_minutes": 26,
+            "word_count": 6857,
+            "reading_minutes": 28,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg",
             "eras": [
                 {
@@ -1551,14 +1551,14 @@
                     "era_title": "Pasco Rescue Route: Intercept Before the Restroom",
                     "era_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom",
                     "illustration_count": 5,
-                    "word_count": 6356,
+                    "word_count": 6857,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Eden Way North, US-287, and Five Minutes to Spare in Pasco",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco",
                             "illustration_count": 5,
-                            "word_count": 6356,
+                            "word_count": 6857,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -1619,8 +1619,8 @@
                                     "part_title": "Part 3: Five Minutes Before the Restroom Door and Crying Into Four Safe Arms in Pasco",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p003.md",
                                     "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-3-five-minutes-before-the-restroom-door-and-crying-into-four-safe-arms-in-pasco",
-                                    "word_count": 1817,
-                                    "reading_minutes": 8,
+                                    "word_count": 2289,
+                                    "reading_minutes": 10,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-08-25",
                                     "start_time": "07:42",
@@ -1671,7 +1671,7 @@
                                     "part_title": "Part 5: Empty Work Polos, Ray's Personal Number, and Home in Studio 205",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p005.md",
                                     "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-5-empty-work-polos-ray-s-personal-number-and-home-in-studio-205",
-                                    "word_count": 845,
+                                    "word_count": 874,
                                     "reading_minutes": 4,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-12-01",
@@ -1822,8 +1822,8 @@
                 "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
             },
             "part_count": 5,
-            "word_count": 7748,
-            "reading_minutes": 31,
+            "word_count": 8228,
+            "reading_minutes": 33,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
             "eras": [
                 {
@@ -1831,14 +1831,14 @@
                     "era_title": "Seattle Rescue Route: Puget Sound General and Coming Home",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home",
                     "illustration_count": 5,
-                    "word_count": 7748,
+                    "word_count": 8228,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
                             "illustration_count": 5,
-                            "word_count": 7748,
+                            "word_count": 8228,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -1924,8 +1924,8 @@
                                     "part_title": "Part 4: Crying Into Four Safe Arms in Seattle and Wide Awake by Sea-Tac",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p004.md",
                                     "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-4-crying-into-four-safe-arms-in-seattle-and-wide-awake-by-sea-tac",
-                                    "word_count": 2180,
-                                    "reading_minutes": 9,
+                                    "word_count": 2630,
+                                    "reading_minutes": 11,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-10-26",
                                     "start_time": "13:15",
@@ -1955,7 +1955,7 @@
                                     "part_title": "Part 5: Sea-Tac Checkpoints, Skipping the Prismatic Corridor via Midway, and Grandpa's Final Watch",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p005.md",
                                     "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-5-sea-tac-checkpoints-skipping-the-prismatic-corridor-via-midway-and-grandpa-s-final-watch",
-                                    "word_count": 1373,
+                                    "word_count": 1403,
                                     "reading_minutes": 6,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-10-27",
@@ -3913,8 +3913,8 @@
                 "blue-tech-missed-shift-alarm-2001": "pasco-early-intercept"
             },
             "part_count": 5,
-            "word_count": 6356,
-            "reading_minutes": 26,
+            "word_count": 6857,
+            "reading_minutes": 28,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/pasco_p001_walter_kitchen_timetable.jpg",
             "eras": [
                 {
@@ -3922,14 +3922,14 @@
                     "era_title": "Pasco Rescue Route: Intercept Before the Restroom",
                     "era_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom",
                     "illustration_count": 5,
-                    "word_count": 6356,
+                    "word_count": 6857,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Eden Way North, US-287, and Five Minutes to Spare in Pasco",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco",
                             "illustration_count": 5,
-                            "word_count": 6356,
+                            "word_count": 6857,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -3990,8 +3990,8 @@
                                     "part_title": "Part 3: Five Minutes Before the Restroom Door and Crying Into Four Safe Arms in Pasco",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p003.md",
                                     "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-3-five-minutes-before-the-restroom-door-and-crying-into-four-safe-arms-in-pasco",
-                                    "word_count": 1817,
-                                    "reading_minutes": 8,
+                                    "word_count": 2289,
+                                    "reading_minutes": 10,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-08-25",
                                     "start_time": "07:42",
@@ -4042,7 +4042,7 @@
                                     "part_title": "Part 5: Empty Work Polos, Ray's Personal Number, and Home in Studio 205",
                                     "file_path": "paths/pasco-early-intercept/e001/c001/p005.md",
                                     "url": "/waystation/paths/pasco-early-intercept/pasco-rescue-route-intercept-before-the-restroom/chapter-1b-eden-way-north-us-287-and-five-minutes-to-spare-in-pasco/part-5-empty-work-polos-ray-s-personal-number-and-home-in-studio-205",
-                                    "word_count": 845,
+                                    "word_count": 874,
                                     "reading_minutes": 4,
                                     "path_id": "pasco-early-intercept",
                                     "date": "2001-12-01",
@@ -4193,8 +4193,8 @@
                 "blue-tech-missed-shift-alarm-2001": "seattle-full-exodus-rescue"
             },
             "part_count": 5,
-            "word_count": 7748,
-            "reading_minutes": 31,
+            "word_count": 8228,
+            "reading_minutes": 33,
             "image": "/raggiesoft-books/images/scenes/waystation/paths/seattle_p001_colby_kansas_truckstop.jpg",
             "eras": [
                 {
@@ -4202,14 +4202,14 @@
                     "era_title": "Seattle Rescue Route: Puget Sound General and Coming Home",
                     "era_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home",
                     "illustration_count": 5,
-                    "word_count": 7748,
+                    "word_count": 8228,
                     "chapters": [
                         {
                             "chap_num": 1,
                             "chap_title": "Chapter 1B: Pasco, Puget Sound General, and Grandpa Walter's Promise",
                             "chap_url": "/raggiesoft-books/books/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise",
                             "illustration_count": 5,
-                            "word_count": 7748,
+                            "word_count": 8228,
                             "parts": [
                                 {
                                     "part_num": 1,
@@ -4295,8 +4295,8 @@
                                     "part_title": "Part 4: Crying Into Four Safe Arms in Seattle and Wide Awake by Sea-Tac",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p004.md",
                                     "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-4-crying-into-four-safe-arms-in-seattle-and-wide-awake-by-sea-tac",
-                                    "word_count": 2180,
-                                    "reading_minutes": 9,
+                                    "word_count": 2630,
+                                    "reading_minutes": 11,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-10-26",
                                     "start_time": "13:15",
@@ -4326,7 +4326,7 @@
                                     "part_title": "Part 5: Sea-Tac Checkpoints, Skipping the Prismatic Corridor via Midway, and Grandpa's Final Watch",
                                     "file_path": "paths/seattle-full-exodus-rescue/e001/c001/p005.md",
                                     "url": "/waystation/paths/seattle-full-exodus-rescue/seattle-rescue-route-puget-sound-general-and-coming-home/chapter-1b-pasco-puget-sound-general-and-grandpa-walter-s-promise/part-5-sea-tac-checkpoints-skipping-the-prismatic-corridor-via-midway-and-grandpa-s-final-watch",
-                                    "word_count": 1373,
+                                    "word_count": 1403,
                                     "reading_minutes": 6,
                                     "path_id": "seattle-full-exodus-rescue",
                                     "date": "2001-10-27",
